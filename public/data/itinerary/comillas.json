@@ -1,0 +1,2134 @@
+{
+  "city_id": "comillas",
+  "anchor": {
+    "name": "Comillas",
+    "coords": [
+      43.385,
+      -4.2914
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 3.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Plaza de la Constitución",
+          "coords": [
+            43.386,
+            -4.292
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Das Herz der Altstadt.",
+            "hu": "Az óváros szíve.",
+            "ro": "Inima centrului vechi.",
+            "en": "The heart of the old town."
+          }
+        },
+        {
+          "name": "El Capricho de Gaudí",
+          "coords": [
+            43.385,
+            -4.294
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:05",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein Meisterwerk der Moderne.",
+            "hu": "A modernizmus remekműve.",
+            "ro": "O capodoperă a modernismului.",
+            "en": "A masterpiece of modernism."
+          }
+        },
+        {
+          "name": "Palacio de Sobrellano",
+          "coords": [
+            43.387,
+            -4.296
+          ],
+          "category": "famous residences",
+          "arrive_at": "12:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Beeindruckende neugotische Architektur.",
+            "hu": "Lenyűgöző neogótikus építészet.",
+            "ro": "Arhitectură neogotică impresionantă.",
+            "en": "Impressive neo-Gothic architecture."
+          }
+        },
+        {
+          "name": "Capilla-Panteón",
+          "coords": [
+            43.3875,
+            -4.2965
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Familiengruft der Markgrafen.",
+            "hu": "Az őrgrófok családi sírboltja.",
+            "ro": "Panteonul familiei marchizilor.",
+            "en": "Family vault of the marquises."
+          }
+        },
+        {
+          "name": "Playa de Comillas",
+          "coords": [
+            43.39,
+            -4.285
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Ideal für einen entspannten Abschluss.",
+            "hu": "Ideális egy pihentető lezáráshoz.",
+            "ro": "Ideal pentru un final relaxant.",
+            "en": "Ideal for a relaxing finish."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie den architektonischen Reichtum von Comillas zu Fuß. Wir starten am belebten Hauptplatz und besuchen Gaudís farbenfrohen 'Capricho'. Danach erkunden wir den prachtvollen Sobrellano-Palast und seine Kapelle. Den Nachmittag lassen wir entspannt am Strand ausklingen.",
+        "hu": "Fedezze fel Comillas építészeti gazdagságát gyalogosan. A nyüzsgő főtéren kezdünk, majd megtekintjük Gaudí színes 'Capricho'-ját. Ezután a pompás Sobrellano-palotát és kápolnáját járjuk be. A délutánt pihentető strandolással zárjuk.",
+        "ro": "Descoperiți bogăția arhitecturală din Comillas la pas. Începem în piața principală plină de viață și vizităm coloratul 'Capricho' al lui Gaudí. Apoi explorăm palatul magnific Sobrellano și capela sa. Încheiem după-amiaza relaxându-ne pe plajă.",
+        "en": "Discover the architectural wealth of Comillas on foot. We start at the lively main square and visit Gaudí's colorful 'Capricho'. Next, we explore the magnificent Sobrellano Palace and its chapel. We end the afternoon relaxing at the beach."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "La Aldea",
+            "tip": "Traditionelle kantabrische Eintöpfe."
+          }
+        ],
+        "hu": [
+          {
+            "name": "La Aldea",
+            "tip": "Hagyományos kantábriai egytálételek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "La Aldea",
+            "tip": "Tocănițe tradiționale cantabrice."
+          }
+        ],
+        "en": [
+          {
+            "name": "La Aldea",
+            "tip": "Traditional Cantabrian stews."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Palastgarten",
+            "tip": "Ruhige Wege zwischen alten Bäumen.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Palota kertje",
+            "tip": "Csendes utak öreg fák között.",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Palatului",
+            "tip": "Alei liniștite printre arbori vechi.",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "Palace Garden",
+            "tip": "Quiet paths among old trees.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Artesanía de Cantabria",
+            "tip": "Lokale Holzschnitzereien."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Artesanía de Cantabria",
+            "tip": "Helyi fafaragások."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Artesanía de Cantabria",
+            "tip": "Sculpturi locale în lemn."
+          }
+        ],
+        "en": [
+          {
+            "name": "Artesanía de Cantabria",
+            "tip": "Local wood carvings."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie Tickets für El Capricho vorab online.",
+          "Die Stadt ist recht hügelig."
+        ],
+        "hu": [
+          "Vegye meg előre online a jegyet az El Capricho-ba.",
+          "A város meglehetősen dombos."
+        ],
+        "ro": [
+          "Cumpărați bilete pentru El Capricho online în avans.",
+          "Orașul este destul de deluros."
+        ],
+        "en": [
+          "Buy tickets for El Capricho online in advance.",
+          "The town is quite hilly."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Entdecken Sie den architektonischen Reichtum von Comillas zu Fuß. Wir starten am belebten Hauptplatz und besuchen Gaudís farbenfrohen 'Capricho'. Danach erkunden wir den prachtvollen Sobrellano-Palast und seine Kapelle. Den Nachmittag lassen wir entspannt am Strand ausklingen.",
+            "hu": "Fedezze fel Comillas építészeti gazdagságát gyalogosan. A nyüzsgő főtéren kezdünk, majd megtekintjük Gaudí színes 'Capricho'-ját. Ezután a pompás Sobrellano-palotát és kápolnáját járjuk be. A délutánt pihentető strandolással zárjuk.",
+            "ro": "Descoperiți bogăția arhitecturală din Comillas la pas. Începem în piața principală plină de viață și vizităm coloratul 'Capricho' al lui Gaudí. Apoi explorăm palatul magnific Sobrellano și capela sa. Încheiem după-amiaza relaxându-ne pe plajă.",
+            "en": "Discover the architectural wealth of Comillas on foot. We start at the lively main square and visit Gaudí's colorful 'Capricho'. Next, we explore the magnificent Sobrellano Palace and its chapel. We end the afternoon relaxing at the beach."
+          },
+          "stops": [
+            {
+              "name": "Plaza de la Constitución",
+              "tip_5lang": {
+                "de": "Das Herz der Altstadt.",
+                "hu": "Az óváros szíve.",
+                "ro": "Inima centrului vechi.",
+                "en": "The heart of the old town."
+              }
+            },
+            {
+              "name": "El Capricho de Gaudí",
+              "tip_5lang": {
+                "de": "Ein Meisterwerk der Moderne.",
+                "hu": "A modernizmus remekműve.",
+                "ro": "O capodoperă a modernismului.",
+                "en": "A masterpiece of modernism."
+              }
+            },
+            {
+              "name": "Palacio de Sobrellano",
+              "tip_5lang": {
+                "de": "Beeindruckende neugotische Architektur.",
+                "hu": "Lenyűgöző neogótikus építészet.",
+                "ro": "Arhitectură neogotică impresionantă.",
+                "en": "Impressive neo-Gothic architecture."
+              }
+            },
+            {
+              "name": "Capilla-Panteón",
+              "tip_5lang": {
+                "de": "Familiengruft der Markgrafen.",
+                "hu": "Az őrgrófok családi sírboltja.",
+                "ro": "Panteonul familiei marchizilor.",
+                "en": "Family vault of the marquises."
+              }
+            },
+            {
+              "name": "Playa de Comillas",
+              "tip_5lang": {
+                "de": "Ideal für einen entspannten Abschluss.",
+                "hu": "Ideális egy pihentető lezáráshoz.",
+                "ro": "Ideal pentru un final relaxant.",
+                "en": "Ideal for a relaxing finish."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "La Aldea",
+                "tip": "Traditionelle kantabrische Eintöpfe."
+              }
+            ],
+            "hu": [
+              {
+                "name": "La Aldea",
+                "tip": "Hagyományos kantábriai egytálételek."
+              }
+            ],
+            "ro": [
+              {
+                "name": "La Aldea",
+                "tip": "Tocănițe tradiționale cantabrice."
+              }
+            ],
+            "en": [
+              {
+                "name": "La Aldea",
+                "tip": "Traditional Cantabrian stews."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Palastgarten",
+                "tip": "Ruhige Wege zwischen alten Bäumen.",
+                "emoji": "🌳"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Palota kertje",
+                "tip": "Csendes utak öreg fák között.",
+                "emoji": "🌳"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Grădina Palatului",
+                "tip": "Alei liniștite printre arbori vechi.",
+                "emoji": "🌳"
+              }
+            ],
+            "en": [
+              {
+                "name": "Palace Garden",
+                "tip": "Quiet paths among old trees.",
+                "emoji": "🌳"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Artesanía de Cantabria",
+                "tip": "Lokale Holzschnitzereien."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Artesanía de Cantabria",
+                "tip": "Helyi fafaragások."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Artesanía de Cantabria",
+                "tip": "Sculpturi locale în lemn."
+              }
+            ],
+            "en": [
+              {
+                "name": "Artesanía de Cantabria",
+                "tip": "Local wood carvings."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Kaufen Sie Tickets für El Capricho vorab online.",
+              "Die Stadt ist recht hügelig."
+            ],
+            "hu": [
+              "Vegye meg előre online a jegyet az El Capricho-ba.",
+              "A város meglehetősen dombos."
+            ],
+            "ro": [
+              "Cumpărați bilete pentru El Capricho online în avans.",
+              "Orașul este destul de deluros."
+            ],
+            "en": [
+              "Buy tickets for El Capricho online in advance.",
+              "The town is quite hilly."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Spaziergang am überdachten Plaza de la Constitución, ideal bei Regen. Der Weg führt zu Gaudís Capricho, dessen bunte Kacheln im nassen Glanz leuchten. Der Sobrellano-Palast bietet trockenen Unterschlupf bei der Besichtigung. Ein stürmischer Blick auf den Atlantik am Strand rundet den Tag ab, bevor Sie in einer gemütlichen Taverne einkehren.",
+            "hu": "Kezdje a sétát az árkádos Plaza de la Constituciónon, amely kiváló menedék esőben. Gaudí El Capricho háza a vizes cserepek fényében még élénkebbnek tűnik. A Sobrellano-palota monumentális termei tökéletes fedett programot nyújtanak. A tengerparti zárásnál a viharos Atlanti-óceán látványa lenyűgöző, majd egy meleg helyi fogadóban melegedhetünk fel.",
+            "ro": "Începeți plimbarea în Plaza de la Constitución, ale cărei arcade oferă protecție împotriva ploii. El Capricho de Gaudí strălucește sub stropii de apă, evidențiind ceramica colorată. Vizita la Palatul Sobrellano este ideală pentru a rămâne la adăpost. Încheiați ziua pe plaja Comillas admirând forța oceanului, apoi retrageți-vă într-o cafenea primitoare.",
+            "en": "Start your walk at the arcaded Plaza de la Constitución, perfect for rainy mornings. Gaudí's El Capricho looks vibrant as the rain enhances its ceramic colors. The Sobrellano Palace provides a grand indoor escape from the weather. Conclude by watching the dramatic Atlantic waves at the beach before finding warmth in a local traditional tavern."
+          },
+          "stops": [
+            {
+              "name": "Plaza de la Constitución",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkadengänge, um trocken zu bleiben.",
+                "hu": "Használja az árkádos folyosókat, hogy száraz maradjon.",
+                "ro": "Folosiți arcadele pentru a rămâne la adăpost de ploaie.",
+                "en": "Use the arcaded walkways to stay dry while exploring."
+              }
+            },
+            {
+              "name": "El Capricho de Gaudí",
+              "tip_5lang": {
+                "de": "Die Innentour ist perfekt bei Regen; Schirme am Eingang.",
+                "hu": "A belső vezetés tökéletes esőben; ernyőtartók a bejáratnál.",
+                "ro": "Turul interior este ideal; există suporturi de umbrele.",
+                "en": "The indoor tour is perfect for rain; umbrella stands available."
+              }
+            },
+            {
+              "name": "Palacio de Sobrellano",
+              "tip_5lang": {
+                "de": "Ein weitläufiger Innenraum, ideal für schlechtes Wetter.",
+                "hu": "Tágas belső terek, ideális menekülés a rossz idő elől.",
+                "ro": "Spații interioare vaste, ideale pentru vreme rea.",
+                "en": "Vast interior spaces, ideal for escaping the bad weather."
+              }
+            },
+            {
+              "name": "Capilla-Panteón",
+              "tip_5lang": {
+                "de": "Kurzer, aber exponierter Weg vom Palast; Kapuze auf.",
+                "hu": "Rövid, de kitett út a palotától; vegyen fel kapucnit.",
+                "ro": "Drum scurt, dar expus de la palat; puneți gluga.",
+                "en": "Short but exposed path from the palace; keep your hood up."
+              }
+            },
+            {
+              "name": "Playa de Comillas",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Cafés an der Promenade für den Ausblick.",
+                "hu": "A sétány kávézóiból nézze a viharos tengerpartot.",
+                "ro": "Vizitați cafenelele de pe faleză pentru panoramă.",
+                "en": "Visit the promenade cafes to watch the stormy sea safely."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe für das Kopfsteinpflaster.",
+              "Die Plaza-Arkaden sind der beste Treffpunkt bei Guss.",
+              "Planen Sie mehr Zeit für die Innenräume der Paläste ein.",
+              "Ein Taschenschirm ist wegen der Meeresbrise oft instabil."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt a macskaköves utcákhoz.",
+              "A főtér árkádjai a legjobb találkozási pontok szakadó esőben.",
+              "Töltsön több időt a paloták belső tereinek felfedezésével.",
+              "A tengeri szél miatt az összecsukható esernyő gyakran kevés."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă pentru străzile pietruite.",
+              "Arcadele din piață sunt cel mai bun refugiu în caz de aversă.",
+              "Alocați mai mult timp pentru interiorul palatelor grandioase.",
+              "O umbrelă pliabilă poate fi instabilă din cauza vântului marin."
+            ],
+            "en": [
+              "Wear waterproof shoes for the uneven cobblestone streets.",
+              "The main square's arches are the best refuge during downpours.",
+              "Spend extra time exploring the grand palace interiors.",
+              "A folding umbrella might be unstable due to coastal winds."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Wintermorgen in Comillas beginnt auf dem ruhigen Hauptplatz. Das goldene Licht betont Gaudís Meisterwerk El Capricho. Der Besuch des Sobrellano-Palastes bietet majestätische Stille ohne Touristenmassen. Ein kurzer Strandspaziergang bei Sonnenuntergang gegen 17:30 Uhr ist erfrischend, bevor man den Abend bei regionalem Eintopf ausklingen lässt.",
+            "hu": "A friss téli reggel Comillas csendes főterén indul. Az alacsony napállás arany fénybe vonja Gaudí remekművét. A Sobrellano-palota látogatása ilyenkor a tömegek nélkül még méltóságteljesebb. Egy rövid tengerparti séta a korai, 17:30-as naplementekor frissítő, majd a napot egy forró helyi egytálétellel zárhatjuk.",
+            "ro": "O dimineață proaspătă de iarnă în Comillas începe în piața liniștită. Lumina aurie scoate în evidență detaliile lui El Capricho de Gaudí. Vizita la Palatul Sobrellano oferă o liniște maiestuoasă fără mulțimi. O scurtă plimbare pe plajă la apusul de la ora 17:30 este revigorantă, urmată de o cină cu preparate locale calde.",
+            "en": "A crisp winter morning in Comillas starts in the quiet main square. The low sun casts a golden glow on Gaudí's El Capricho. Visiting Sobrellano Palace offers majestic silence without the summer crowds. A brisk beach walk during the early 5:30 PM sunset is refreshing, followed by a cozy dinner with hearty local stews."
+          },
+          "stops": [
+            {
+              "name": "Plaza de la Constitución",
+              "tip_5lang": {
+                "de": "Genießen Sie einen heißen Kaffee in der Wintersonne.",
+                "hu": "Élvezzen egy forró kávét a téli napsütésben.",
+                "ro": "Savurați o cafea fierbinte în soarele blând de iarnă.",
+                "en": "Enjoy a hot coffee in the gentle winter sun."
+              }
+            },
+            {
+              "name": "El Capricho de Gaudí",
+              "tip_5lang": {
+                "de": "Warme Kleidung für den Gartenbereich nötig.",
+                "hu": "Meleg ruházat szükséges a kerti részek megtekintéséhez.",
+                "ro": "Haine groase necesare pentru vizitarea grădinii.",
+                "en": "Warm layers are needed for the garden portion of the tour."
+              }
+            },
+            {
+              "name": "Palacio de Sobrellano",
+              "tip_5lang": {
+                "de": "Innen ist es kühl; behalten Sie Ihren Mantel an.",
+                "hu": "Belül hűvös van; ne vegye le a kabátját a vezetés alatt.",
+                "ro": "Interiorul este răcoros; păstrați haina pe dvs.",
+                "en": "The interior is chilly; keep your coat on during the visit."
+              }
+            },
+            {
+              "name": "Capilla-Panteón",
+              "tip_5lang": {
+                "de": "Achten Sie auf rutschige Wege durch Frost oder Laub.",
+                "hu": "Ügyeljen a fagytól vagy levelektől csúszós utakra.",
+                "ro": "Atenție la potecile alunecoase din cauza brumei.",
+                "en": "Watch out for slippery paths due to frost or wet leaves."
+              }
+            },
+            {
+              "name": "Playa de Comillas",
+              "tip_5lang": {
+                "de": "Windbreaker empfohlen; Sonnenuntergang gegen 17:30.",
+                "hu": "Szélkabát ajánlott; naplemente 17:30 körül.",
+                "ro": "Jachetă de vânt recomandată; apus în jur de 17:30.",
+                "en": "Windbreaker recommended; sunset is around 5:30 PM."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie das Tageslicht, die Sonne geht früh unter.",
+              "Einige Cafés haben im Winter begrenzte Öffnungszeiten.",
+              "Zwiebelprinzip ist ideal für den Wechsel zwischen Drinnen und Draußen.",
+              "Probieren Sie Cocido Montañés zur Aufwärmung."
+            ],
+            "hu": [
+              "Használja ki a nappali fényt, korán nyugszik a nap.",
+              "Néhány kávézó télen korlátozott nyitvatartással üzemel.",
+              "A réteges öltözködés fontos a külső és belső terek váltásakor.",
+              "Kóstolja meg a Cocido Montañés-t a felmelegedéshez."
+            ],
+            "ro": [
+              "Profitați de lumina zilei, soarele apune devreme.",
+              "Unele cafenele au program redus în timpul iernii.",
+              "Îmbrăcămintea stratificată este esențială pentru interior/exterior.",
+              "Încercați Cocido Montañés pentru a vă încălzi la cină."
+            ],
+            "en": [
+              "Make the most of daylight as the sun sets early.",
+              "Some local cafes may have shorter winter opening hours.",
+              "Layered clothing is key when moving between palace and park.",
+              "Try the local Cocido Montañés stew to warm up at night."
+            ]
+          }
+        }
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 8.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Plaza de la Constitución",
+          "coords": [
+            43.386,
+            -4.292
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Guter Startpunkt für Radtouren.",
+            "hu": "Jó kiindulópont bringázáshoz.",
+            "ro": "Bun punct de plecare pentru ciclism.",
+            "en": "Good starting point for cycling."
+          }
+        },
+        {
+          "name": "Universidad Pontificia",
+          "coords": [
+            43.39,
+            -4.298
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "10:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Herausfordernder Anstieg mit dem Rad.",
+            "hu": "Kihívást jelentő emelkedő bringával.",
+            "ro": "Urcare provocatoare cu bicicleta.",
+            "en": "Challenging climb by bike."
+          }
+        },
+        {
+          "name": "Cementerio de Comillas",
+          "coords": [
+            43.391,
+            -4.288
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "11:40",
+          "stay_min": 50,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Einzigartige Lage über den Klippen.",
+            "hu": "Egyedülálló fekvés a sziklák felett.",
+            "ro": "Locație unică deasupra stâncilor.",
+            "en": "Unique location above the cliffs."
+          }
+        },
+        {
+          "name": "Puerta de los Pájaros",
+          "coords": [
+            43.3855,
+            -4.2945
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "12:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Kleine Kuriosität am Wegesrand.",
+            "hu": "Kis érdekesség az út mentén.",
+            "ro": "Mică curiozitate pe marginea drumului.",
+            "en": "Small curiosity along the way."
+          }
+        },
+        {
+          "name": "Playa de Comillas",
+          "coords": [
+            43.39,
+            -4.285
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:30",
+          "stay_min": 180,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Radeln entlang der Strandpromenade.",
+            "hu": "Bringázás a tengerparti sétányon.",
+            "ro": "Plimbare cu bicicleta pe faleză.",
+            "en": "Cycling along the beach promenade."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie die Hügel von Comillas mit dem Rad. Wir erklimmen den Hügel zur Päpstlichen Universität für eine tolle Aussicht und radeln dann zum dramatisch gelegenen Friedhof. Nach einem Stopp an der Puerta de los Pájaros genießen wir den Nachmittag am weiten Strand.",
+        "hu": "Fedezze fel Comillas dombjait kerékpárral. Feltekerünk a Pápai Egyetemhez a remek kilátásért, majd a drámai fekvésű temetőhöz gurulunk. A Puerta de los Pájaros után a délutánt a tágas strandon élvezzük.",
+        "ro": "Explorați dealurile din Comillas cu bicicleta. Urcăm dealul către Universitatea Pontificală pentru o vedere grozavă, apoi pedalăm către cimitirul cu o locație dramatică. După o oprire la Puerta de los Pájaros, ne bucurăm de după-amiază pe plaja vastă.",
+        "en": "Explore the hills of Comillas by bike. We climb the hill to the Pontifical University for a great view, then cycle to the dramatically located cemetery. After a stop at the Bird's Gate, we enjoy the afternoon at the wide beach."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Café de la Plaza",
+            "tip": "Schnelles Frühstück für Radler."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Café de la Plaza",
+            "tip": "Gyors reggeli bringásoknak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Café de la Plaza",
+            "tip": "Mic dejun rapid pentru bicicliști."
+          }
+        ],
+        "en": [
+          {
+            "name": "Café de la Plaza",
+            "tip": "Quick breakfast for cyclists."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Küstenspazierweg",
+            "tip": "Panoramawege über dem Meer.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parti sétány",
+            "tip": "Panorámás utak a tenger felett.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Poteca de coastă",
+            "tip": "Alei panoramice deasupra mării.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Coastal path",
+            "tip": "Panoramic paths above the sea.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Sobrba",
+            "tip": "Spezialitäten aus Kantabrien."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sobrba",
+            "tip": "Kantábriai különlegességek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sobrba",
+            "tip": "Specialități din Cantabria."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sobrba",
+            "tip": "Specialties from Cantabria."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Ein Mountainbike ist wegen der Hügel hilfreich.",
+          "Achten Sie auf Fußgänger in der Altstadt."
+        ],
+        "hu": [
+          "A dombok miatt hasznos a hegyi kerékpár.",
+          "Ügyeljen a gyalogosokra az óvárosban."
+        ],
+        "ro": [
+          "O bicicletă mountain bike este utilă datorită dealurilor.",
+          "Atenție la pietoni în centrul vechi."
+        ],
+        "en": [
+          "A mountain bike is helpful because of the hills.",
+          "Watch out for pedestrians in the old town."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie die Hügel von Comillas mit dem Rad. Wir erklimmen den Hügel zur Päpstlichen Universität für eine tolle Aussicht und radeln dann zum dramatisch gelegenen Friedhof. Nach einem Stopp an der Puerta de los Pájaros genießen wir den Nachmittag am weiten Strand.",
+            "hu": "Fedezze fel Comillas dombjait kerékpárral. Feltekerünk a Pápai Egyetemhez a remek kilátásért, majd a drámai fekvésű temetőhöz gurulunk. A Puerta de los Pájaros után a délutánt a tágas strandon élvezzük.",
+            "ro": "Explorați dealurile din Comillas cu bicicleta. Urcăm dealul către Universitatea Pontificală pentru o vedere grozavă, apoi pedalăm către cimitirul cu o locație dramatică. După o oprire la Puerta de los Pájaros, ne bucurăm de după-amiază pe plaja vastă.",
+            "en": "Explore the hills of Comillas by bike. We climb the hill to the Pontifical University for a great view, then cycle to the dramatically located cemetery. After a stop at the Bird's Gate, we enjoy the afternoon at the wide beach."
+          },
+          "stops": [
+            {
+              "name": "Plaza de la Constitución",
+              "tip_5lang": {
+                "de": "Guter Startpunkt für Radtouren.",
+                "hu": "Jó kiindulópont bringázáshoz.",
+                "ro": "Bun punct de plecare pentru ciclism.",
+                "en": "Good starting point for cycling."
+              }
+            },
+            {
+              "name": "Universidad Pontificia",
+              "tip_5lang": {
+                "de": "Herausfordernder Anstieg mit dem Rad.",
+                "hu": "Kihívást jelentő emelkedő bringával.",
+                "ro": "Urcare provocatoare cu bicicleta.",
+                "en": "Challenging climb by bike."
+              }
+            },
+            {
+              "name": "Cementerio de Comillas",
+              "tip_5lang": {
+                "de": "Einzigartige Lage über den Klippen.",
+                "hu": "Egyedülálló fekvés a sziklák felett.",
+                "ro": "Locație unică deasupra stâncilor.",
+                "en": "Unique location above the cliffs."
+              }
+            },
+            {
+              "name": "Puerta de los Pájaros",
+              "tip_5lang": {
+                "de": "Kleine Kuriosität am Wegesrand.",
+                "hu": "Kis érdekesség az út mentén.",
+                "ro": "Mică curiozitate pe marginea drumului.",
+                "en": "Small curiosity along the way."
+              }
+            },
+            {
+              "name": "Playa de Comillas",
+              "tip_5lang": {
+                "de": "Radeln entlang der Strandpromenade.",
+                "hu": "Bringázás a tengerparti sétányon.",
+                "ro": "Plimbare cu bicicleta pe faleză.",
+                "en": "Cycling along the beach promenade."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Café de la Plaza",
+                "tip": "Schnelles Frühstück für Radler."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Café de la Plaza",
+                "tip": "Gyors reggeli bringásoknak."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Café de la Plaza",
+                "tip": "Mic dejun rapid pentru bicicliști."
+              }
+            ],
+            "en": [
+              {
+                "name": "Café de la Plaza",
+                "tip": "Quick breakfast for cyclists."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Küstenspazierweg",
+                "tip": "Panoramawege über dem Meer.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Parti sétány",
+                "tip": "Panorámás utak a tenger felett.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Poteca de coastă",
+                "tip": "Alei panoramice deasupra mării.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Coastal path",
+                "tip": "Panoramic paths above the sea.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Sobrba",
+                "tip": "Spezialitäten aus Kantabrien."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Sobrba",
+                "tip": "Kantábriai különlegességek."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Sobrba",
+                "tip": "Specialități din Cantabria."
+              }
+            ],
+            "en": [
+              {
+                "name": "Sobrba",
+                "tip": "Specialties from Cantabria."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Ein Mountainbike ist wegen der Hügel hilfreich.",
+              "Achten Sie auf Fußgänger in der Altstadt."
+            ],
+            "hu": [
+              "A dombok miatt hasznos a hegyi kerékpár.",
+              "Ügyeljen a gyalogosokra az óvárosban."
+            ],
+            "ro": [
+              "O bicicletă mountain bike este utilă datorită dealurilor.",
+              "Atenție la pietoni în centrul vechi."
+            ],
+            "en": [
+              "A mountain bike is helpful because of the hills.",
+              "Watch out for pedestrians in the old town."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine nasse Radtour durch Comillas erfordert Vorsicht auf dem Pflaster. Von der Plaza geht es hoch zur beeindruckenden Universität, die im Regen mystisch wirkt. Der Friedhof mit seinem Schutzengel ist ein dramatischer Stopp unter Wolken. Die Tour endet an der Küste, wo die salzige Gischt sich mit dem Regen mischt, bevor man sich im Ort abtrocknet.",
+            "hu": "A vizes kerékpártúra óvatosságot igényel a macskaköveken. A főtérről az egyetemhez tekerünk fel, amely ködös esőben misztikus látvány. A temető az őrangyal szobrával drámai megálló a felhők alatt. A túra a parton ér véget, ahol a sós permet keveredik az esővel, majd a faluban szárítkozhatunk meg.",
+            "ro": "O tură cu bicicleta prin ploaie necesită atenție pe pavaj. De la Plaza urcăm spre Universitate, care pare mistică prin ceață. Cimitirul cu îngerul său protector este o oprire dramatică sub nori. Turul se încheie pe coastă, unde spray-ul marin se combină cu ploaia, înainte de a vă usca în oraș.",
+            "en": "A wet bike ride through Comillas requires caution on the cobblestones. From the square, climb to the University, which looks mystical in the mist. The cemetery with its guardian angel is a dramatic stop under the clouds. The tour ends at the coast, where salt spray mixes with rain, before drying off in town."
+          },
+          "stops": [
+            {
+              "name": "Plaza de la Constitución",
+              "tip_5lang": {
+                "de": "Vorsicht beim Anfahren auf nassem Kopfsteinpflaster.",
+                "hu": "Vigyázat az induláskor a vizes macskakövön.",
+                "ro": "Atenție la plecarea de pe loc pe piatra cubică udă.",
+                "en": "Be careful when starting off on wet cobblestones."
+              }
+            },
+            {
+              "name": "Universidad Pontificia",
+              "tip_5lang": {
+                "de": "Steile Auffahrt kann rutschig sein; bremsen Sie vorsichtig.",
+                "hu": "A meredek feljáró csúszós lehet; fékezzen óvatosan.",
+                "ro": "Urcarea abruptă poate fi alunecoasă; frânați cu grijă.",
+                "en": "The steep incline can be slippery; brake cautiously downhill."
+              }
+            },
+            {
+              "name": "Cementerio de Comillas",
+              "tip_5lang": {
+                "de": "Stellen Sie das Rad am Eingang unter; Wege sind steinig.",
+                "hu": "Hagyja a bringát a bejáratnál; az utak kövesek.",
+                "ro": "Lăsați bicicleta la intrare; aleile sunt pietroase.",
+                "en": "Park your bike at the entrance; paths inside are stony."
+              }
+            },
+            {
+              "name": "Puerta de los Pájaros",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp; halten Sie die Kamera trocken.",
+                "hu": "Rövid fotómegálló; tartsa szárazon a fényképezőt.",
+                "ro": "Oprire scurtă pentru poze; protejați aparatul de ploaie.",
+                "en": "Quick photo stop; keep your camera protected from rain."
+              }
+            },
+            {
+              "name": "Playa de Comillas",
+              "tip_5lang": {
+                "de": "Radweg an der Küste kann Pfützen bilden.",
+                "hu": "A parti kerékpárúton tócsák alakulhatnak ki.",
+                "ro": "Pista de biciclete de pe coastă poate avea bălți.",
+                "en": "The coastal bike path may have deep puddles."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Verwenden Sie Schutzbleche, um Schlammspritzer zu vermeiden.",
+              "Vermeiden Sie abrupte Manöver auf nassem Pflaster.",
+              "Tragen Sie eine gut sichtbare Regenjacke.",
+              "Wischen Sie den Sattel bei jedem Stopp trocken."
+            ],
+            "hu": [
+              "Használjon sárvédőt a sárfelcsapódás ellen.",
+              "Kerülje a hirtelen manővereket a vizes macskakövön.",
+              "Viseljen jól látható esőkabátot.",
+              "Minden megállónál törölje szárazra a nyerget."
+            ],
+            "ro": [
+              "Folosiți apărători pentru a evita stropirea cu noroi.",
+              "Evitați manevrele bruște pe pavajul ud.",
+              "Purtați o jachetă de ploaie reflectorizantă.",
+              "Ștergeți șaua la fiecare oprire."
+            ],
+            "en": [
+              "Use mudguards to avoid being splashed by road grime.",
+              "Avoid sudden maneuvers on the wet cobblestones.",
+              "Wear a high-visibility waterproof jacket.",
+              "Wipe your seat dry at every stop."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Radfahren im Winter in Comillas bietet klare Luft und weite Blicke. Der Aufstieg zur Universität wärmt auf, oben angekommen wird man mit Panorama belohnt. Die Fahrt zum modernistischen Friedhof ist bei tiefstehender Sonne besonders eindrucksvoll. Am Nachmittag radelt man am leeren Strand entlang, bevor das Licht schwindet und man Schutz im Ort sucht.",
+            "hu": "A téli bringázás Comillasban tiszta levegőt és távoli kilátást kínál. Az egyetemhez vezető kaptató bemelegíti az embert, a panoráma kárpótol a fáradtságért. A modernista temetőhöz vezető út az alacsony napállásnál különösen látványos. Délután a néptelen strandon tekerhetünk, mielőtt elfogy a fény.",
+            "ro": "Ciclismul de iarnă în Comillas oferă aer curat și panorame clare. Urcarea spre Universitate vă va încălzi rapid. Drumul spre cimitirul modernist este impresionant în lumina apusului. După-amiaza puteți pedala pe plaja pustie înainte ca lumina să scadă și să vă retrageți în oraș.",
+            "en": "Winter cycling in Comillas offers crisp air and clear views. The climb to the University will warm you up, rewarded by a great panorama. The ride to the modernist cemetery is striking in the low winter light. In the afternoon, enjoy the empty beach before the daylight fades early."
+          },
+          "stops": [
+            {
+              "name": "Plaza de la Constitución",
+              "tip_5lang": {
+                "de": "Handschuhe sind für die Abfahrten unerlässlich.",
+                "hu": "A kesztyű elengedhetetlen a lejtőkhöz.",
+                "ro": "Mănușile sunt esențiale pentru coborâri.",
+                "en": "Gloves are essential for the chilly descents."
+              }
+            },
+            {
+              "name": "Universidad Pontificia",
+              "tip_5lang": {
+                "de": "Oben ist es oft windiger; ziehen Sie sich warm an.",
+                "hu": "Fent gyakran szelesebb az idő; öltözzön fel melegen.",
+                "ro": "Sus este adesea vânt; îmbrăcați-vă bine.",
+                "en": "It's often windier at the top; stay wrapped up."
+              }
+            },
+            {
+              "name": "Cementerio de Comillas",
+              "tip_5lang": {
+                "de": "Tiefstehende Sonne kann blenden; Sonnenbrille mitnehmen.",
+                "hu": "Az alacsony nap vakíthat; vigyen napszemüveget.",
+                "ro": "Soarele jos poate fi orbitor; purtați ochelari.",
+                "en": "Low sun can be blinding; bring sunglasses."
+              }
+            },
+            {
+              "name": "Puerta de los Pájaros",
+              "tip_5lang": {
+                "de": "Schneller Stopp, um nicht auszukühlen.",
+                "hu": "Gyors megálló, nehogy kihűljön.",
+                "ro": "Oprire rapidă pentru a nu vă răci.",
+                "en": "Quick stop to avoid getting cold while stationary."
+              }
+            },
+            {
+              "name": "Playa de Comillas",
+              "tip_5lang": {
+                "de": "Beleuchtung für den Rückweg ab 17:00 prüfen.",
+                "hu": "Ellenőrizze a világítást a 17:00 utáni úthoz.",
+                "ro": "Verificați luminile pentru drumul după ora 17:00.",
+                "en": "Check your bike lights for the ride back after 5 PM."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Thermo-Unterwäsche unter der Sportkleidung.",
+              "Vermeiden Sie vereiste Stellen in schattigen Gassen.",
+              "Planen Sie die Rückkehr vor Einbruch der Dunkelheit.",
+              "Trinken Sie zwischendurch etwas Warmes."
+            ],
+            "hu": [
+              "Viseljen aláöltözetet a sportruházat alatt.",
+              "Kerülje a jeges foltokat az árnyékos utcákban.",
+              "Tervezze meg a visszatérést sötétedés előtt.",
+              "Igyon valami meleget a megállók között."
+            ],
+            "ro": [
+              "Purtați lenjerie termică sub hainele de sport.",
+              "Evitați porțiunile cu gheață în zonele umbrite.",
+              "Planificați întoarcerea înainte de lăsarea întunericului.",
+              "Beți ceva cald între opriri."
+            ],
+            "en": [
+              "Wear thermal base layers under your cycling gear.",
+              "Avoid icy patches in shaded narrow streets.",
+              "Plan to be back in the center before dark.",
+              "Have a warm drink during one of your stops."
+            ]
+          }
+        }
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 15.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "El Capricho de Gaudí",
+          "coords": [
+            43.385,
+            -4.294
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parkplätze in der Nähe verfügbar.",
+            "hu": "Parkolók a közelben elérhetők.",
+            "ro": "Parcare disponibilă în apropiere.",
+            "en": "Parking available nearby."
+          }
+        },
+        {
+          "name": "Palacio de Sobrellano",
+          "coords": [
+            43.387,
+            -4.296
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Kurze Fahrt zwischen den Monumenten.",
+            "hu": "Rövid út a műemlékek között.",
+            "ro": "Călătorie scurtă între monumente.",
+            "en": "Short drive between monuments."
+          }
+        },
+        {
+          "name": "Universidad Pontificia",
+          "coords": [
+            43.39,
+            -4.298
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "12:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Parken direkt am Campus möglich.",
+            "hu": "Parkolás közvetlenül a campusnál.",
+            "ro": "Parcare posibilă direct în campus.",
+            "en": "Parking possible right on campus."
+          }
+        },
+        {
+          "name": "Fuente de los Tres Caños",
+          "coords": [
+            43.3865,
+            -4.2915
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "13:50",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Historischer Brunnen im Zentrum.",
+            "hu": "Történelmi kút a központban.",
+            "ro": "Fântână istorică în centru.",
+            "en": "Historical fountain in the center."
+          }
+        },
+        {
+          "name": "Cementerio de Comillas",
+          "coords": [
+            43.391,
+            -4.288
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "14:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Stopp mit Panoramablick.",
+            "hu": "Megálló panorámás kilátással.",
+            "ro": "Oprire cu vedere panoramică.",
+            "en": "Stop with panoramic view."
+          }
+        },
+        {
+          "name": "Playa de Comillas",
+          "coords": [
+            43.39,
+            -4.285
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Großer Parkplatz am Strand.",
+            "hu": "Nagy parkoló a strandnál.",
+            "ro": "Parcare mare la plajă.",
+            "en": "Large parking at the beach."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erreichen Sie alle Sehenswürdigkeiten bequem. Wir besichtigen die architektonischen Juwelen Gaudís und den Sobrellano-Palast, fahren zur Universität und bewundern die Klippen am Friedhof. Der Tag endet flexibel am Strand von Comillas.",
+        "hu": "Autóval minden látnivalót kényelmesen elérhet. Megtekintjük Gaudí építészeti ékszereit és a Sobrellano-palotát, elautózunk az egyetemhez, és megcsodáljuk a sziklákat a temetőnél. A nap rugalmasan a Comillas-i strandon ér véget.",
+        "ro": "Cu mașina ajungeți confortabil la toate atracțiile. Vizităm bijuteriile arhitecturale ale lui Gaudí și palatul Sobrellano, mergem la universitate și admirăm stâncile de la cimitir. Ziua se încheie flexibil pe plaja din Comillas.",
+        "en": "By car you can reach all the sights comfortably. We visit Gaudí's architectural jewels and the Sobrellano Palace, drive to the university, and admire the cliffs at the cemetery. The day ends flexibly at Comillas beach."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "El Carel",
+            "tip": "Hervorragende Meeresfrüchte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "El Carel",
+            "tip": "Kiváló tenger gyümölcsei."
+          }
+        ],
+        "ro": [
+          {
+            "name": "El Carel",
+            "tip": "Fructe de mare excelente."
+          }
+        ],
+        "en": [
+          {
+            "name": "El Carel",
+            "tip": "Excellent seafood."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Klippen bei Comillas",
+            "tip": "Wilder Blick auf den Atlantik.",
+            "emoji": "🌊"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Comillas-i sziklák",
+            "tip": "Vadon kilátás az Atlanti-óceánra.",
+            "emoji": "🌊"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stâncile din Comillas",
+            "tip": "Vedere sălbatică la Atlantic.",
+            "emoji": "🌊"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cliffs of Comillas",
+            "tip": "Wild view of the Atlantic.",
+            "emoji": "🌊"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Artesanía El Capricho",
+            "tip": "Andenken an Gaudí."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Artesanía El Capricho",
+            "tip": "Gaudí-emléktárgyak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Artesanía El Capricho",
+            "tip": "Suveniruri Gaudí."
+          }
+        ],
+        "en": [
+          {
+            "name": "Artesanía El Capricho",
+            "tip": "Gaudí souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Im Sommer ist das Parken im Zentrum schwierig.",
+          "Nutzen Sie den Parkplatz an der Universität."
+        ],
+        "hu": [
+          "Nyáron nehéz parkolni a központban.",
+          "Használja az egyetemnél lévő parkolót."
+        ],
+        "ro": [
+          "Vara parcarea în centru este dificilă.",
+          "Folosiți parcarea de la universitate."
+        ],
+        "en": [
+          "Parking in the center is difficult in summer.",
+          "Use the parking lot at the university."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erreichen Sie alle Sehenswürdigkeiten bequem. Wir besichtigen die architektonischen Juwelen Gaudís und den Sobrellano-Palast, fahren zur Universität und bewundern die Klippen am Friedhof. Der Tag endet flexibel am Strand von Comillas.",
+            "hu": "Autóval minden látnivalót kényelmesen elérhet. Megtekintjük Gaudí építészeti ékszereit és a Sobrellano-palotát, elautózunk az egyetemhez, és megcsodáljuk a sziklákat a temetőnél. A nap rugalmasan a Comillas-i strandon ér véget.",
+            "ro": "Cu mașina ajungeți confortabil la toate atracțiile. Vizităm bijuteriile arhitecturale ale lui Gaudí și palatul Sobrellano, mergem la universitate și admirăm stâncile de la cimitir. Ziua se încheie flexibil pe plaja din Comillas.",
+            "en": "By car you can reach all the sights comfortably. We visit Gaudí's architectural jewels and the Sobrellano Palace, drive to the university, and admire the cliffs at the cemetery. The day ends flexibly at Comillas beach."
+          },
+          "stops": [
+            {
+              "name": "El Capricho de Gaudí",
+              "tip_5lang": {
+                "de": "Parkplätze in der Nähe verfügbar.",
+                "hu": "Parkolók a közelben elérhetők.",
+                "ro": "Parcare disponibilă în apropiere.",
+                "en": "Parking available nearby."
+              }
+            },
+            {
+              "name": "Palacio de Sobrellano",
+              "tip_5lang": {
+                "de": "Kurze Fahrt zwischen den Monumenten.",
+                "hu": "Rövid út a műemlékek között.",
+                "ro": "Călătorie scurtă între monumente.",
+                "en": "Short drive between monuments."
+              }
+            },
+            {
+              "name": "Universidad Pontificia",
+              "tip_5lang": {
+                "de": "Parken direkt am Campus möglich.",
+                "hu": "Parkolás közvetlenül a campusnál.",
+                "ro": "Parcare posibilă direct în campus.",
+                "en": "Parking possible right on campus."
+              }
+            },
+            {
+              "name": "Fuente de los Tres Caños",
+              "tip_5lang": {
+                "de": "Historischer Brunnen im Zentrum.",
+                "hu": "Történelmi kút a központban.",
+                "ro": "Fântână istorică în centru.",
+                "en": "Historical fountain in the center."
+              }
+            },
+            {
+              "name": "Cementerio de Comillas",
+              "tip_5lang": {
+                "de": "Stopp mit Panoramablick.",
+                "hu": "Megálló panorámás kilátással.",
+                "ro": "Oprire cu vedere panoramică.",
+                "en": "Stop with panoramic view."
+              }
+            },
+            {
+              "name": "Playa de Comillas",
+              "tip_5lang": {
+                "de": "Großer Parkplatz am Strand.",
+                "hu": "Nagy parkoló a strandnál.",
+                "ro": "Parcare mare la plajă.",
+                "en": "Large parking at the beach."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "El Carel",
+                "tip": "Hervorragende Meeresfrüchte."
+              }
+            ],
+            "hu": [
+              {
+                "name": "El Carel",
+                "tip": "Kiváló tenger gyümölcsei."
+              }
+            ],
+            "ro": [
+              {
+                "name": "El Carel",
+                "tip": "Fructe de mare excelente."
+              }
+            ],
+            "en": [
+              {
+                "name": "El Carel",
+                "tip": "Excellent seafood."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Klippen bei Comillas",
+                "tip": "Wilder Blick auf den Atlantik.",
+                "emoji": "🌊"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Comillas-i sziklák",
+                "tip": "Vadon kilátás az Atlanti-óceánra.",
+                "emoji": "🌊"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Stâncile din Comillas",
+                "tip": "Vedere sălbatică la Atlantic.",
+                "emoji": "🌊"
+              }
+            ],
+            "en": [
+              {
+                "name": "Cliffs of Comillas",
+                "tip": "Wild view of the Atlantic.",
+                "emoji": "🌊"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Artesanía El Capricho",
+                "tip": "Andenken an Gaudí."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Artesanía El Capricho",
+                "tip": "Gaudí-emléktárgyak."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Artesanía El Capricho",
+                "tip": "Suveniruri Gaudí."
+              }
+            ],
+            "en": [
+              {
+                "name": "Artesanía El Capricho",
+                "tip": "Gaudí souvenirs."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Im Sommer ist das Parken im Zentrum schwierig.",
+              "Nutzen Sie den Parkplatz an der Universität."
+            ],
+            "hu": [
+              "Nyáron nehéz parkolni a központban.",
+              "Használja az egyetemnél lévő parkolót."
+            ],
+            "ro": [
+              "Vara parcarea în centru este dificilă.",
+              "Folosiți parcarea de la universitate."
+            ],
+            "en": [
+              "Parking in the center is difficult in summer.",
+              "Use the parking lot at the university."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden Sie Comillas komfortabel bei Regen. Die Fahrt zum El Capricho und Sobrellano-Palast hält Sie trocken zwischen den Besichtigungen. Ein Abstecher zur Universität bietet beeindruckende Architektur unter grauem Himmel. Die Tour endet am Hafenparkplatz, wo man das Meer aus dem warmen Auto beobachten kann, während Regentropfen an die Scheibe klopfen.",
+            "hu": "Autóval kényelmesen fedezheti fel Comillast esőben is. Az El Capricho és a Sobrellano-palota közötti utat szárazon teheti meg. Egy kitérő az egyetemhez lenyűgöző látványt nyújt a szürke égbolt alatt. A túra a kikötői parkolóban ér véget, ahol a meleg autóból figyelheti a tengert, miközben az eső veri a szélvédőt.",
+            "ro": "Cu mașina puteți explora Comillas confortabil pe timp de ploaie. Drumul între El Capricho și Palatul Sobrellano vă menține uscați. O vizită la Universitate oferă o arhitectură impresionantă sub cerul gri. Turul se încheie la parcarea din port, unde puteți admira marea din mașină în timp ce plouă.",
+            "en": "By car, you can explore Comillas comfortably even in the rain. The drive between El Capricho and Sobrellano Palace keeps you dry between visits. A detour to the University shows off grand architecture under gray skies. The tour ends at the harbor parking, where you can watch the sea from your warm car while it rains."
+          },
+          "stops": [
+            {
+              "name": "El Capricho de Gaudí",
+              "tip_5lang": {
+                "de": "Parkplatz ist direkt am Eingang vorhanden.",
+                "hu": "Parkoló közvetlenül a bejáratnál található.",
+                "ro": "Parcare disponibilă chiar la intrare.",
+                "en": "Parking is available right at the entrance."
+              }
+            },
+            {
+              "name": "Palacio de Sobrellano",
+              "tip_5lang": {
+                "de": "Großer Parkplatz; kurzer Weg zum Eingang.",
+                "hu": "Nagy parkoló; rövid séta a bejáratig.",
+                "ro": "Parcare mare; drum scurt până la intrare.",
+                "en": "Large parking lot; short walk to the main entrance."
+              }
+            },
+            {
+              "name": "Universidad Pontificia",
+              "tip_5lang": {
+                "de": "Nutzen Sie den oberen Parkplatz für beste Sicht.",
+                "hu": "Használja a felső parkolót a legjobb kilátáshoz.",
+                "ro": "Folosiți parcarea de sus pentru cea mai bună vedere.",
+                "en": "Use the upper parking lot for the best view."
+              }
+            },
+            {
+              "name": "Fuente de los Tres Caños",
+              "tip_5lang": {
+                "de": "Schweres Parken im Zentrum; kurz anhalten.",
+                "hu": "Nehéz parkolás a központban; álljon meg rövid időre.",
+                "ro": "Parcare dificilă în centru; opriți scurt.",
+                "en": "Parking is tricky in the center; stop briefly."
+              }
+            },
+            {
+              "name": "Cementerio de Comillas",
+              "tip_5lang": {
+                "de": "Parken Sie an der Straßenseite gegenüber.",
+                "hu": "Parkoljon az út túloldalán.",
+                "ro": "Parcați pe partea opusă a drumului.",
+                "en": "Park on the opposite side of the road."
+              }
+            },
+            {
+              "name": "Playa de Comillas",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Wasser, um die Wellen zu sehen.",
+                "hu": "Parkoljon közel a vízhez a hullámok nézéséhez.",
+                "ro": "Parcați aproape de apă pentru a vedea valurile.",
+                "en": "Park close to the water to watch the waves."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Straßen im Zentrum sind bei Regen rutschig.",
+              "Halten Sie einen Schirm für den Weg zum Parkplatz bereit.",
+              "Einige Parkplätze können bei starkem Regen Pfützen haben.",
+              "Nutzen Sie die Scheibenheizung gegen Beschlagen."
+            ],
+            "hu": [
+              "A központi utcák esőben csúszósak lehetnek.",
+              "Legyen kéznél ernyő a parkolótól a bejáratig.",
+              "Néhány parkolóban tócsák alakulhatnak ki nagy esőben.",
+              "Használja a páramentesítőt a szélvédőhöz."
+            ],
+            "ro": [
+              "Străzile centrale pot fi alunecoase pe ploaie.",
+              "Aveți umbrela la îndemână pentru drumul spre parcare.",
+              "Unele parcări pot avea bălți mari după ploaie.",
+              "Folosiți funcția de dezaburire a parbrizului."
+            ],
+            "en": [
+              "Central streets can be slippery when wet.",
+              "Keep an umbrella handy for the walk from the car.",
+              "Some parking areas may develop deep puddles in heavy rain.",
+              "Use the defogger to keep your windshield clear."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Spritztour durch Comillas führt Sie zu den architektonischen Highlights. Die Heizung im Auto macht den Wechsel zwischen El Capricho und dem Sobrellano-Palast angenehm. Die Auffahrt zur Universität bietet im klaren Winterlicht fantastische Fotomotive. Der Tag endet am Strand, wo man den frostigen Sonnenuntergang genießt, bevor man in ein gemütliches Restaurant fährt.",
+            "hu": "A téli autós körút Comillas építészeti remekeihez vezeti. Az autó fűtése kellemessé teszi az El Capricho és a Sobrellano-palota közötti váltást. Az egyetemhez vezető út a tiszta téli fényben fantasztikus fotótémákat kínál. A nap a strandon ér véget a fagyos naplementével, majd egy hangulatos étterembe hajthatunk.",
+            "ro": "Un tur cu mașina prin Comillas vă duce la cele mai importante obiective. Căldura din mașină face plăcută tranziția între El Capricho și Palat. Urcarea spre Universitate oferă oportunități foto excelente în lumina iernii. Ziua se încheie pe plajă cu un apus înghețat, urmat de o cină caldă.",
+            "en": "A winter drive through Comillas takes you to the architectural highlights. The car's heater makes moving between El Capricho and Sobrellano Palace very comfortable. The climb to the University offers fantastic photo ops in the clear winter light. The day ends at the beach for a frosty sunset before heading to a cozy dinner."
+          },
+          "stops": [
+            {
+              "name": "El Capricho de Gaudí",
+              "tip_5lang": {
+                "de": "Im Winter ist es einfacher, einen Parkplatz zu finden.",
+                "hu": "Télen sokkal könnyebb parkolóhelyet találni.",
+                "ro": "Iarna este mult mai ușor să găsiți parcare.",
+                "en": "It is much easier to find parking in the winter months."
+              }
+            },
+            {
+              "name": "Palacio de Sobrellano",
+              "tip_5lang": {
+                "de": "Besichtigungszeiten können im Winter kürzer sein.",
+                "hu": "A látogatási idő télen rövidebb lehet.",
+                "ro": "Programul de vizitare poate fi redus iarna.",
+                "en": "Visiting hours may be shorter during the winter season."
+              }
+            },
+            {
+              "name": "Universidad Pontificia",
+              "tip_5lang": {
+                "de": "Klare Sicht auf die schneebedeckten Picos de Europa.",
+                "hu": "Tiszta kilátás a havas Picos de Europa csúcsaira.",
+                "ro": "Vedere clară spre vârfurile înzăpezite ale Picos de Europa.",
+                "en": "Clear views of the snowy Picos de Europa mountains."
+              }
+            },
+            {
+              "name": "Fuente de los Tres Caños",
+              "tip_5lang": {
+                "de": "Kurzer Stopp für Fotos; weniger Verkehr im Winter.",
+                "hu": "Rövid fotómegálló; télen kisebb a forgalom.",
+                "ro": "Oprire scurtă pentru poze; trafic redus iarna.",
+                "en": "Quick photo stop; much less traffic in winter."
+              }
+            },
+            {
+              "name": "Cementerio de Comillas",
+              "tip_5lang": {
+                "de": "Lichtverhältnisse am späten Nachmittag sind ideal.",
+                "hu": "A késő délutáni fényviszonyok ideálisak a fotózáshoz.",
+                "ro": "Lumina de după-amiază târziu este ideală pentru poze.",
+                "en": "Late afternoon light is ideal for photography here."
+              }
+            },
+            {
+              "name": "Playa de Comillas",
+              "tip_5lang": {
+                "de": "Achten Sie auf die Gezeiten; Winterfluten sind stark.",
+                "hu": "Ügyeljen az ár-apályra; a téli dagály erős.",
+                "ro": "Atenție la maree; fluxul de iarnă este puternic.",
+                "en": "Watch the tides; winter high tides can be very strong."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Reifendruck bei Kälte.",
+              "Die Sonne blendet im Winter tiefer; Blende nutzen.",
+              "Frostschutz für die Scheibenwaschanlage ist ratsam.",
+              "Planen Sie die Route so, dass Sie vor 18:00 parken."
+            ],
+            "hu": [
+              "Ellenőrizze a guminyomást a hidegben.",
+              "A nap télen alacsonyabban jár, használja a napellenzőt.",
+              "Használjon téli szélvédőmosó folyadékot.",
+              "Tervezze úgy az utat, hogy 18:00 előtt leparkoljon."
+            ],
+            "ro": [
+              "Verificați presiunea în anvelope la temperaturi scăzute.",
+              "Soarele este jos iarna; folosiți parasolarul.",
+              "Folosiți lichid de parbriz rezistent la îngheț.",
+              "Planificați ruta astfel încât să parcați înainte de ora 18:00."
+            ],
+            "en": [
+              "Check your tire pressure in the colder weather.",
+              "The winter sun is lower; use your sun visor.",
+              "Use anti-freeze windshield washer fluid.",
+              "Plan your route to finish parking before 6 PM."
+            ]
+          }
+        }
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 6.0,
+      "stop_count": 4,
+      "stops": [
+        {
+          "name": "Plaza de la Constitución",
+          "coords": [
+            43.386,
+            -4.292
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Zentrale Bushaltestelle.",
+            "hu": "Központi buszmegálló.",
+            "ro": "Stație centrală de autobuz.",
+            "en": "Central bus stop."
+          }
+        },
+        {
+          "name": "El Capricho de Gaudí",
+          "coords": [
+            43.385,
+            -4.294
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Nur wenige Minuten vom Busstopp.",
+            "hu": "Csak pár percre a buszmegállótól.",
+            "ro": "La doar câteva minute de stație.",
+            "en": "Just a few minutes from the bus stop."
+          }
+        },
+        {
+          "name": "Palacio de Sobrellano",
+          "coords": [
+            43.387,
+            -4.296
+          ],
+          "category": "famous residences",
+          "arrive_at": "12:25",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Einfach zu Fuß kombinierbar.",
+            "hu": "Gyalogosan könnyen összeköthető.",
+            "ro": "Ușor de combinat pe jos.",
+            "en": "Easy to combine on foot."
+          }
+        },
+        {
+          "name": "Playa de Comillas",
+          "coords": [
+            43.39,
+            -4.285
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:20",
+          "stay_min": 130,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Direkte Busverbindung zum Hafen/Strand.",
+            "hu": "Közvetlen buszjárat a kikötőhöz/strandhoz.",
+            "ro": "Legătură directă cu autobuzul la port/plajă.",
+            "en": "Direct bus link to the port/beach."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie den lokalen Bus, um Comillas stressfrei zu erkunden. Wir starten im historischen Kern, bewundern die Architektur von Gaudí und den Markgrafen und verbringen einen entspannten Nachmittag am Strand. Alles ohne Parkplatzsuche.",
+        "hu": "Használja a helyi buszt Comillas stresszmentes felfedezéséhez. A történelmi magban kezdünk, megcsodáljuk Gaudí és az őrgrófok építészetét, majd egy pihentető délutánt töltünk a strandon. Mindezt parkolóhely keresése nélkül.",
+        "ro": "Folosiți autobuzul local pentru a explora Comillas fără stres. Începem în nucleul istoric, admirăm arhitectura lui Gaudí și a marchizilor și petrecem o după-amiază relaxantă la plajă. Totul fără grija parcării.",
+        "en": "Use the local bus to explore Comillas stress-free. We start in the historical core, admire the architecture of Gaudí and the marquises, and spend a relaxing afternoon at the beach. All without searching for parking."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Mesón de Comillas",
+            "tip": "Günstige Tagesmenüs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mesón de Comillas",
+            "tip": "Kedvező árú napi menük."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mesón de Comillas",
+            "tip": "Meniuri ale zilei la preț bun."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mesón de Comillas",
+            "tip": "Affordable daily menus."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Plaza de la Constitución",
+            "tip": "Morgendliche Ruhe genießen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Plaza de la Constitución",
+            "tip": "Reggeli nyugalom élvezete.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plaza de la Constitución",
+            "tip": "Bucurați-vă de liniștea dimineții.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Plaza de la Constitución",
+            "tip": "Enjoy morning peace.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mercado local",
+            "tip": "Frische Produkte aus der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Friss termékek a környékről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Produse proaspete din regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local market",
+            "tip": "Fresh local products."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Bustickets können beim Fahrer gekauft werden.",
+          "Die Frequenz der Busse variiert saisonal."
+        ],
+        "hu": [
+          "A buszjegyek a sofőrnél válthatók.",
+          "A buszok gyakorisága szezonálisan változik."
+        ],
+        "ro": [
+          "Biletele de autobuz pot fi cumpărate de la șofer.",
+          "Frecvența autobuzelor variază sezonier."
+        ],
+        "en": [
+          "Bus tickets can be bought from the driver.",
+          "Bus frequency varies seasonally."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie den lokalen Bus, um Comillas stressfrei zu erkunden. Wir starten im historischen Kern, bewundern die Architektur von Gaudí und den Markgrafen und verbringen einen entspannten Nachmittag am Strand. Alles ohne Parkplatzsuche.",
+            "hu": "Használja a helyi buszt Comillas stresszmentes felfedezéséhez. A történelmi magban kezdünk, megcsodáljuk Gaudí és az őrgrófok építészetét, majd egy pihentető délutánt töltünk a strandon. Mindezt parkolóhely keresése nélkül.",
+            "ro": "Folosiți autobuzul local pentru a explora Comillas fără stres. Începem în nucleul istoric, admirăm arhitectura lui Gaudí și a marchizilor și petrecem o după-amiază relaxantă la plajă. Totul fără grija parcării.",
+            "en": "Use the local bus to explore Comillas stress-free. We start in the historical core, admire the architecture of Gaudí and the marquises, and spend a relaxing afternoon at the beach. All without searching for parking."
+          },
+          "stops": [
+            {
+              "name": "Plaza de la Constitución",
+              "tip_5lang": {
+                "de": "Zentrale Bushaltestelle.",
+                "hu": "Központi buszmegálló.",
+                "ro": "Stație centrală de autobuz.",
+                "en": "Central bus stop."
+              }
+            },
+            {
+              "name": "El Capricho de Gaudí",
+              "tip_5lang": {
+                "de": "Nur wenige Minuten vom Busstopp.",
+                "hu": "Csak pár percre a buszmegállótól.",
+                "ro": "La doar câteva minute de stație.",
+                "en": "Just a few minutes from the bus stop."
+              }
+            },
+            {
+              "name": "Palacio de Sobrellano",
+              "tip_5lang": {
+                "de": "Einfach zu Fuß kombinierbar.",
+                "hu": "Gyalogosan könnyen összeköthető.",
+                "ro": "Ușor de combinat pe jos.",
+                "en": "Easy to combine on foot."
+              }
+            },
+            {
+              "name": "Playa de Comillas",
+              "tip_5lang": {
+                "de": "Direkte Busverbindung zum Hafen/Strand.",
+                "hu": "Közvetlen buszjárat a kikötőhöz/strandhoz.",
+                "ro": "Legătură directă cu autobuzul la port/plajă.",
+                "en": "Direct bus link to the port/beach."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Mesón de Comillas",
+                "tip": "Günstige Tagesmenüs."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Mesón de Comillas",
+                "tip": "Kedvező árú napi menük."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Mesón de Comillas",
+                "tip": "Meniuri ale zilei la preț bun."
+              }
+            ],
+            "en": [
+              {
+                "name": "Mesón de Comillas",
+                "tip": "Affordable daily menus."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Plaza de la Constitución",
+                "tip": "Morgendliche Ruhe genießen.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Plaza de la Constitución",
+                "tip": "Reggeli nyugalom élvezete.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Plaza de la Constitución",
+                "tip": "Bucurați-vă de liniștea dimineții.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Plaza de la Constitución",
+                "tip": "Enjoy morning peace.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Mercado local",
+                "tip": "Frische Produkte aus der Region."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Helyi piac",
+                "tip": "Friss termékek a környékről."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Piața locală",
+                "tip": "Produse proaspete din regiune."
+              }
+            ],
+            "en": [
+              {
+                "name": "Local market",
+                "tip": "Fresh local products."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Bustickets können beim Fahrer gekauft werden.",
+              "Die Frequenz der Busse variiert saisonal."
+            ],
+            "hu": [
+              "A buszjegyek a sofőrnél válthatók.",
+              "A buszok gyakorisága szezonálisan változik."
+            ],
+            "ro": [
+              "Biletele de autobuz pot fi cumpărate de la șofer.",
+              "Frecvența autobuzelor variază sezonier."
+            ],
+            "en": [
+              "Bus tickets can be bought from the driver.",
+              "Bus frequency varies seasonally."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie den lokalen Bus, um Comillas bei Regen zu erkunden. Der Weg zwischen den Haltestellen führt Sie zur Plaza und den prächtigen Palästen. Gaudís El Capricho ist ein warmes Highlight an einem grauen Tag. Die Tour endet in Strandnähe, wo man den Regen bei einem Getränk in einer Bar beobachtet, bevor der nächste Bus zurückfährt.",
+            "hu": "Használja a helyi buszt Comillas felfedezéséhez esőben. A megállók közötti séta elvezeti a főtérhez és a pompás palotákhoz. Gaudí El Capricho háza meleg színfolt a szürke napon. A túra a strand közelében ér véget, ahol egy bárban nézheti az esőt, mielőtt a következő busszal visszaindulna.",
+            "ro": "Folosiți autobuzul local pentru a explora Comillas pe ploaie. Plimbarea între stații vă duce la Plaza și la palatele magnifice. El Capricho de Gaudí este un punct luminos într-o zi gri. Turul se încheie lângă plajă, unde puteți urmări ploaia dintr-un bar înainte de a lua autobuzul înapoi.",
+            "en": "Use the local bus to explore Comillas in the rain. The walk between stops takes you to the square and the grand palaces. Gaudí's El Capricho is a warm highlight on a gray day. The tour ends near the beach, where you can watch the rain from a bar before taking the bus back."
+          },
+          "stops": [
+            {
+              "name": "Plaza de la Constitución",
+              "tip_5lang": {
+                "de": "Haltestelle im Zentrum; Arkaden als Wetterschutz.",
+                "hu": "Központi megálló; az árkádok védenek az esőtől.",
+                "ro": "Stație în centru; arcadele oferă protecție.",
+                "en": "Central bus stop; arches offer shelter from rain."
+              }
+            },
+            {
+              "name": "El Capricho de Gaudí",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg von der Bushaltestelle; Schirm mitnehmen.",
+                "hu": "Rövid séta a buszmegállótól; vigyen ernyőt.",
+                "ro": "Drum scurt pe jos de la stație; luați umbrela.",
+                "en": "Short walk from the bus stop; bring an umbrella."
+              }
+            },
+            {
+              "name": "Palacio de Sobrellano",
+              "tip_5lang": {
+                "de": "Haltestelle liegt direkt an der Hauptstraße.",
+                "hu": "A megálló közvetlenül a főút mellett van.",
+                "ro": "Stația este situată chiar pe drumul principal.",
+                "en": "The stop is located right on the main road."
+              }
+            },
+            {
+              "name": "Playa de Comillas",
+              "tip_5lang": {
+                "de": "Warten Sie im Unterstand an der Haltestelle auf den Bus.",
+                "hu": "Várja a buszt a megálló fedett beállójában.",
+                "ro": "Așteptați autobuzul în adăpostul din stație.",
+                "en": "Wait for the bus inside the stop's shelter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Busfahrplan online; Regen kann Verzögerungen verursachen.",
+              "Halten Sie Kleingeld oder die Fahrkarte griffbereit.",
+              "Busse können bei Regen voll sein; steigen Sie früh ein.",
+              "Tragen Sie eine Regenjacke für den Weg zwischen den Stopps."
+            ],
+            "hu": [
+              "Ellenőrizze a buszmenetrendet; az eső késéseket okozhat.",
+              "Legyen kéznél aprópénz vagy a jegye.",
+              "A buszok esőben zsúfoltak lehetnek; szálljon fel időben.",
+              "Viseljen esőkabátot a megállók közötti séta idejére."
+            ],
+            "ro": [
+              "Verificați programul autobuzelor; ploaia poate cauza întârzieri.",
+              "Aveți pregătit mărunțiș sau biletul.",
+              "Autobuzele pot fi aglomerate pe ploaie; urcați din timp.",
+              "Purtați o jachetă de ploaie pentru drumul între stații."
+            ],
+            "en": [
+              "Check the bus schedule online; rain may cause slight delays.",
+              "Have your change or ticket ready for boarding.",
+              "Buses might be crowded in the rain; board early.",
+              "Wear a waterproof jacket for the walk between stops."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie das winterliche Comillas mit den öffentlichen Verkehrsmitteln. Die beheizten Busse bieten eine Pause von der Kälte zwischen der Plaza und den modernistischen Bauten. Gaudís El Capricho leuchtet in der klaren Winterluft. Beenden Sie den Tag am Strand und nehmen Sie den Bus zurück ins Zentrum, wenn es früh dunkel wird.",
+            "hu": "Fedezze fel a téli Comillast tömegközlekedéssel. A fűtött buszok pihenőt kínálnak a hidegben a főtér és a modernista épületek között. Gaudí El Capricho háza ragyog a tiszta téli levegőben. Zárja a napot a strandon, majd a sötétedéskor busszal térjen vissza a központba.",
+            "ro": "Explorați Comillas iarna folosind transportul public. Autobuzele încălzite oferă un răgaz între Plaza și clădirile moderniste. El Capricho de Gaudí strălucește în aerul curat de iarnă. Încheiați ziua pe plajă și luați autobuzul înapoi când se întunecă devreme.",
+            "en": "Explore winter Comillas using public transit. Heated buses offer a nice break from the cold between the main square and the modernist sights. Gaudí's El Capricho shines in the clear winter air. Finish your day at the beach and take the bus back as it gets dark early."
+          },
+          "stops": [
+            {
+              "name": "Plaza de la Constitución",
+              "tip_5lang": {
+                "de": "Im Winter verkehren Busse seltener; Plan prüfen.",
+                "hu": "Télen ritkábban járnak a buszok; nézze meg a tervet.",
+                "ro": "Autobuzele circulă mai rar iarna; verificați orarul.",
+                "en": "Buses run less frequently in winter; check the timetable."
+              }
+            },
+            {
+              "name": "El Capricho de Gaudí",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Bus, um den Aufstieg zu vermeiden.",
+                "hu": "Használja a buszt a hegymenet elkerüléséhez.",
+                "ro": "Folosiți autobuzul pentru a evita urcușul pe jos.",
+                "en": "Take the bus to avoid the uphill walk in the cold."
+              }
+            },
+            {
+              "name": "Palacio de Sobrellano",
+              "tip_5lang": {
+                "de": "Warme Haltestelle in der Nähe der Palastpforte.",
+                "hu": "Meleg várakozóhely a palota kapujának közelében.",
+                "ro": "Zonă de așteptare la adăpost lângă poarta palatului.",
+                "en": "Wait near the palace gate for the nearby stop."
+              }
+            },
+            {
+              "name": "Playa de Comillas",
+              "tip_5lang": {
+                "de": "Letzter Bus zurück ins Zentrum meist gegen 18:30.",
+                "hu": "Az utolsó busz vissza a központba 18:30 körül indul.",
+                "ro": "Ultimul autobuz spre centru pleacă pe la 18:30.",
+                "en": "The last bus back to the center is usually around 6:30 PM."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterfahrpläne gelten ab November.",
+              "Die Busse sind im Winter gut beheizt.",
+              "Verlassen Sie den Strand rechtzeitig vor dem letzten Bus.",
+              "Fragen Sie den Fahrer nach dem letzten Rückweg."
+            ],
+            "hu": [
+              "A téli menetrend novembertől érvényes.",
+              "A buszok télen jól fűtöttek.",
+              "Hagyja el a strandot időben az utolsó busz előtt.",
+              "Kérdezze a sofőrt az utolsó visszajáratról."
+            ],
+            "ro": [
+              "Orarele de iarnă intră în vigoare din noiembrie.",
+              "Autobuzele sunt bine încălzite în timpul iernii.",
+              "Părăsiți plaja la timp pentru ultimul autobuz.",
+              "Întrebați șoferul despre ultima cursă de întoarcere."
+            ],
+            "en": [
+              "Winter timetables usually start in November.",
+              "Buses are well-heated during the winter months.",
+              "Leave the beach in time for the final bus of the day.",
+              "Confirm the time of the last return trip with the driver."
+            ]
+          }
+        }
+      }
+    }
+  },
+  "external_resources": {
+    "museum_tickets": "https://www.elcaprichodegaudi.com/",
+    "transit_official": "https://www.alsa.es/",
+    "language_tips": {
+      "de": "Reines Spanisch, kein regionaler Dialekt. Das Personal im Capricho de Gaudí spricht gutes Englisch, in den Tapas-Bars an der Plaza eher Grundwortschatz. 'Una caña, por favor' bringt dich überall durch.",
+      "hu": "Tisztán kasztíliai spanyolt beszélnek, nincs dialektus. A Gaudí-villa személyzete jól tud angolul, a tér tapas-bárjaiban viszont csak alapszinten. Egy 'Una caña, por favor' bárhol elég a kezdéshez.",
+      "ro": "Se vorbește spaniolă curată, fără dialect regional. Personalul de la Capricho de Gaudí știe engleză, dar la tapas barurile din piață doar la nivel de bază. Un 'Una caña, por favor' îți deschide orice tejghea.",
+      "en": "Pure Castilian Spanish, no regional dialect. Staff at Capricho de Gaudí speak good English, while tapas bars on the main square only manage basics. 'Una caña, por favor' covers most situations."
+    },
+    "best_time_to_visit": {
+      "de": "Juni und September sind ideal - warm genug zum Baden, ohne den Augusttrubel. Im Hochsommer ist die Altstadt voll mit spanischen Familien, Parken wird zur Geduldsprobe.",
+      "hu": "Június és szeptember a legjobb, fürdéshez elég meleg, és nincs augusztusi tömeg. Csúcsidőben az óvárost ellepik a spanyol családok, parkolni szinte lehetetlen.",
+      "ro": "Iunie și septembrie sunt perfecte, suficient de calde pentru plajă, fără aglomerația din august. Vara plină centrul vechi e plin de familii spaniole, parcarea devine un test de răbdare.",
+      "en": "June and September are ideal, warm enough for the beach without the August crush. Peak summer fills the old town with Spanish families and parking turns into a patience test."
+    },
+    "neighborhood_warnings": {
+      "de": "Comillas gilt als sehr sicher. Auf dem Weg zum Kapuzinerkloster über kopfsteingepflasterte Gassen bei Regen vorsichtig, das Pflaster wird glatt. Strand bei Ebbe schön weitläufig, aber Strömungen am Westende ernst nehmen.",
+      "hu": "Comillas nagyon biztonságos. A kapucinus kolostor felé vezető macskaköves utcák esőben csúszósak, óvatosan. Apálykor a strand kitárul, de a nyugati végén komoly áramlatok lehetnek.",
+      "ro": "Comillas e foarte sigur. Spre mănăstirea capucinilor, pavajul de piatră devine alunecos pe ploaie, atenție la pas. La reflux plaja se întinde mult, dar curenții de la capătul vestic sunt serioși.",
+      "en": "Comillas is very safe. The cobbled lanes up to the Capuchin monastery get slippery in rain, watch your step. At low tide the beach stretches out beautifully, but currents at the western end are no joke."
+    }
+  }
+}

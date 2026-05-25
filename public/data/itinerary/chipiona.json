@@ -1,0 +1,2245 @@
+{
+  "city_id": "chipiona",
+  "anchor": {
+    "name": "Chipiona",
+    "coords": [
+      -6.4378,
+      36.7378
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3.5,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 3.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Castillo de Chipiona",
+          "coords": [
+            -6.4385,
+            36.739
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Besuchen Sie das Zentrum für Meeresinterpretation.",
+            "hu": "Látogasson el a Tengeri Értelmező Központba.",
+            "ro": "Vizitați Centrul de Interpretare a Mării.",
+            "en": "Visit the Sea Interpretation Center inside."
+          }
+        },
+        {
+          "name": "Museo del Moscatel",
+          "coords": [
+            -6.436,
+            36.737
+          ],
+          "category": "museums",
+          "arrive_at": "10:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Inklusive Verkostung des süßen Weins.",
+            "hu": "Az édes bor kóstolóját is tartalmazza.",
+            "ro": "Include degustarea vinului dulce local.",
+            "en": "Includes a tasting of the famous sweet wine."
+          }
+        },
+        {
+          "name": "Faro de Chipiona",
+          "coords": [
+            -6.442,
+            36.735
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "12:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Der höchste Leuchtturm Spaniens.",
+            "hu": "Spanyolország legmagasabb világítótornya.",
+            "ro": "Cel mai înalt far din Spania.",
+            "en": "The tallest lighthouse in all of Spain."
+          }
+        },
+        {
+          "name": "Santuario de Nuestra Señora de Regla",
+          "coords": [
+            -6.441,
+            36.73
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Beeindruckende neogotische Architektur.",
+            "hu": "Lenyűgöző neogótikus építészet.",
+            "ro": "Arhitectură neogotică impresionantă.",
+            "en": "Impressive neo-Gothic architecture by the sea."
+          }
+        },
+        {
+          "name": "Playa de Regla",
+          "coords": [
+            -6.445,
+            36.728
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:55",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Heilendes jodhaltiges Wasser.",
+            "hu": "Gyógyító hatású, jódban gazdag víz.",
+            "ro": "Apă bogată în iod cu proprietăți curative.",
+            "en": "Healing waters rich in iodine."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Chipiona zu Fuß zu entdecken ist eine Reise durch Wein und Meer. Starten Sie an der Burg und tauchen Sie danach im Weinmuseum in die Welt des Moscatel ein.\r\nMittags erklimmen Sie den majestätischen Leuchtturm für einen Blick über den Atlantik. Der Nachmittag führt zum spirituellen Heiligtum direkt am Strand.\r\nDen Tag beenden Sie am berühmten Regla-Strand, bekannt für sein gesundes, jodreiches Wasser.",
+        "hu": "Chipiona gyalogos felfedezése a bor és a tenger jegyében telik. Kezdjen a várnál, majd merüljön el a Moscatel világában a bormúzeumban.\r\nDélben másszon fel a fenséges világítótoronyba az atlanti panorámáért. A délután a tengerparti kegyhely látogatásával folytatódik.\r\nA napot a híres Regla strandon zárhatja, amely gyógyító hatású, jódban gazdag vizéről ismert.",
+        "ro": "Explorarea orașului Chipiona pe jos este o călătorie prin lumea vinului și a mării. Începeți la castel și descoperiți Moscatelul la muzeul vinului.\r\nLa prânz, urcați în farul maiestuos pentru o vedere panoramică asupra Atlanticului. După-amiaza vă duce la sanctuarul spiritual de pe malul mării.\r\nÎncheiați ziua pe celebra plajă Regla, renumită pentru apele sale sănătoase și bogate în iod.",
+        "en": "Discovering Chipiona on foot is a journey through wine and the sea. Start at the castle and dive into the world of Moscatel at the wine museum.\r\nAt noon, climb the majestic lighthouse for a view over the Atlantic. The afternoon leads to the spiritual sanctuary right on the beach.\r\nEnd your day at the famous Regla beach, known for its healthy, iodine-rich waters."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Vino Moscatel",
+            "tip": "Probieren Sie den Wein in der Bodega Castulo."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vino Moscatel",
+            "tip": "Kóstolja meg a bort a Bodega Castulo-ban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vino Moscatel",
+            "tip": "Gustați vinul la Bodega Castulo."
+          }
+        ],
+        "en": [
+          {
+            "name": "Vino Moscatel",
+            "tip": "Try the famous sweet wine at Bodega Castulo."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Paseo Marítimo",
+            "tip": "Langer Spaziergang bei Sonnenuntergang.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Paseo Marítimo",
+            "tip": "Hosszú séta a naplementében.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Paseo Marítimo",
+            "tip": "Plimbare lungă la apus pe faleză.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Paseo Marítimo",
+            "tip": "A long stroll during sunset along the promenade.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mercado de Abastos",
+            "tip": "Frische Produkte und lokale Weine."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mercado de Abastos",
+            "tip": "Friss termékek és helyi borok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mercado de Abastos",
+            "tip": "Produse proaspete și vinuri locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mercado de Abastos",
+            "tip": "Fresh local produce and local wines."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Reservieren Sie den Leuchtturm-Aufstieg.",
+          "Die Strände sind sehr flach abfallend.",
+          "Moscatel ist ein Muss als Souvenir.",
+          "Bequeme Schuhe für die vielen Treppen im Faro."
+        ],
+        "hu": [
+          "Foglaljon időpontot a világítótoronyba.",
+          "A strandok lassan mélyülnek.",
+          "A Moscatel bor kiváló ajándék.",
+          "Kényelmes cipő kell a torony lépcsőihez."
+        ],
+        "ro": [
+          "Rezervați vizita pentru urcarea în far.",
+          "Plajele au o intrare lină în apă.",
+          "Vinul Moscatel este un suvenir obligatoriu.",
+          "Pantofi buni pentru scările din far."
+        ],
+        "en": [
+          "Book your lighthouse climb in advance.",
+          "The beaches are very shallow and safe.",
+          "Moscatel wine is a must-buy souvenir.",
+          "Wear comfortable shoes for the many lighthouse steps."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Chipiona zu Fuß zu entdecken ist eine Reise durch Wein und Meer. Starten Sie an der Burg und tauchen Sie danach im Weinmuseum in die Welt des Moscatel ein.\r\nMittags erklimmen Sie den majestätischen Leuchtturm für einen Blick über den Atlantik. Der Nachmittag führt zum spirituellen Heiligtum direkt am Strand.\r\nDen Tag beenden Sie am berühmten Regla-Strand, bekannt für sein gesundes, jodreiches Wasser.",
+            "hu": "Chipiona gyalogos felfedezése a bor és a tenger jegyében telik. Kezdjen a várnál, majd merüljön el a Moscatel világában a bormúzeumban.\r\nDélben másszon fel a fenséges világítótoronyba az atlanti panorámáért. A délután a tengerparti kegyhely látogatásával folytatódik.\r\nA napot a híres Regla strandon zárhatja, amely gyógyító hatású, jódban gazdag vizéről ismert.",
+            "ro": "Explorarea orașului Chipiona pe jos este o călătorie prin lumea vinului și a mării. Începeți la castel și descoperiți Moscatelul la muzeul vinului.\r\nLa prânz, urcați în farul maiestuos pentru o vedere panoramică asupra Atlanticului. După-amiaza vă duce la sanctuarul spiritual de pe malul mării.\r\nÎncheiați ziua pe celebra plajă Regla, renumită pentru apele sale sănătoase și bogate în iod.",
+            "en": "Discovering Chipiona on foot is a journey through wine and the sea. Start at the castle and dive into the world of Moscatel at the wine museum.\r\nAt noon, climb the majestic lighthouse for a view over the Atlantic. The afternoon leads to the spiritual sanctuary right on the beach.\r\nEnd your day at the famous Regla beach, known for its healthy, iodine-rich waters."
+          },
+          "stops": [
+            {
+              "name": "Castillo de Chipiona",
+              "tip_5lang": {
+                "de": "Besuchen Sie das Zentrum für Meeresinterpretation.",
+                "hu": "Látogasson el a Tengeri Értelmező Központba.",
+                "ro": "Vizitați Centrul de Interpretare a Mării.",
+                "en": "Visit the Sea Interpretation Center inside."
+              }
+            },
+            {
+              "name": "Museo del Moscatel",
+              "tip_5lang": {
+                "de": "Inklusive Verkostung des süßen Weins.",
+                "hu": "Az édes bor kóstolóját is tartalmazza.",
+                "ro": "Include degustarea vinului dulce local.",
+                "en": "Includes a tasting of the famous sweet wine."
+              }
+            },
+            {
+              "name": "Faro de Chipiona",
+              "tip_5lang": {
+                "de": "Der höchste Leuchtturm Spaniens.",
+                "hu": "Spanyolország legmagasabb világítótornya.",
+                "ro": "Cel mai înalt far din Spania.",
+                "en": "The tallest lighthouse in all of Spain."
+              }
+            },
+            {
+              "name": "Santuario de Nuestra Señora de Regla",
+              "tip_5lang": {
+                "de": "Beeindruckende neogotische Architektur.",
+                "hu": "Lenyűgöző neogótikus építészet.",
+                "ro": "Arhitectură neogotică impresionantă.",
+                "en": "Impressive neo-Gothic architecture by the sea."
+              }
+            },
+            {
+              "name": "Playa de Regla",
+              "tip_5lang": {
+                "de": "Heilendes jodhaltiges Wasser.",
+                "hu": "Gyógyító hatású, jódban gazdag víz.",
+                "ro": "Apă bogată în iod cu proprietăți curative.",
+                "en": "Healing waters rich in iodine."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Vino Moscatel",
+                "tip": "Probieren Sie den Wein in der Bodega Castulo."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Vino Moscatel",
+                "tip": "Kóstolja meg a bort a Bodega Castulo-ban."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Vino Moscatel",
+                "tip": "Gustați vinul la Bodega Castulo."
+              }
+            ],
+            "en": [
+              {
+                "name": "Vino Moscatel",
+                "tip": "Try the famous sweet wine at Bodega Castulo."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Paseo Marítimo",
+                "tip": "Langer Spaziergang bei Sonnenuntergang.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Paseo Marítimo",
+                "tip": "Hosszú séta a naplementében.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Paseo Marítimo",
+                "tip": "Plimbare lungă la apus pe faleză.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Paseo Marítimo",
+                "tip": "A long stroll during sunset along the promenade.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Mercado de Abastos",
+                "tip": "Frische Produkte und lokale Weine."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Mercado de Abastos",
+                "tip": "Friss termékek és helyi borok."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Mercado de Abastos",
+                "tip": "Produse proaspete și vinuri locale."
+              }
+            ],
+            "en": [
+              {
+                "name": "Mercado de Abastos",
+                "tip": "Fresh local produce and local wines."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Reservieren Sie den Leuchtturm-Aufstieg.",
+              "Die Strände sind sehr flach abfallend.",
+              "Moscatel ist ein Muss als Souvenir.",
+              "Bequeme Schuhe für die vielen Treppen im Faro."
+            ],
+            "hu": [
+              "Foglaljon időpontot a világítótoronyba.",
+              "A strandok lassan mélyülnek.",
+              "A Moscatel bor kiváló ajándék.",
+              "Kényelmes cipő kell a torony lépcsőihez."
+            ],
+            "ro": [
+              "Rezervați vizita pentru urcarea în far.",
+              "Plajele au o intrare lină în apă.",
+              "Vinul Moscatel este un suvenir obligatoriu.",
+              "Pantofi buni pentru scările din far."
+            ],
+            "en": [
+              "Book your lighthouse climb in advance.",
+              "The beaches are very shallow and safe.",
+              "Moscatel wine is a must-buy souvenir.",
+              "Wear comfortable shoes for the many lighthouse steps."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt am Castillo, wo die alten Mauern Schutz vor dem Küstenregen bieten. Mittags tauchen wir im Museo del Moscatel in die Welt des Weins ein, ein perfekter Ort, um trocken zu bleiben.\n\nAm Nachmittag führt der Weg zum Faro, wobei die Gischt und der Regen eine dramatische Kulisse bilden. Ein Besuch im Santuario bietet danach spirituelle Ruhe und ein trockenes Dach.\n\nDer Abend endet an der Playa de Regla, wo man das Tosen des grauen Meeres unter einem stabilen Regenschirm genießt. Ein stürmisches, aber authentisches Erlebnis.",
+            "hu": "A nap a várnál kezdődik, ahol a vastag falak óvnak az esőtől. Délben a Moscatel Múzeumba menekülünk, amely kiváló beltéri program a borkultúra felfedezéséhez.\n\nDélután a világítótorony felé vesszük az irányt; az eső és a pára különleges, drámai arcát mutatja a partnak. A kegyhely belső terei nyugalmat és menedéket adnak a záporok elől.\n\nEste a Regla-parton figyeljük a hullámverést esőkabátban. Az óceán ereje ilyenkor a legnyersebb és leglátványosabb.",
+            "ro": "Ziua începe la castel, unde zidurile groase oferă adăpost împotriva ploii de coastă. La prânz, explorăm istoria vinului la Muzeul Moscatel, un refugiu interior perfect.\n\nDupă-amiaza ne îndreptăm spre far, ploaia adăugând o notă dramatică peisajului marin. Sanctuarul oferă apoi liniște și protecție împotriva intemperiilor.\n\nSeara se încheie pe plaja Regla, admirând marea agitată sub umbrelă. Sunetul valurilor în ploaie creează o atmosferă melancolică și unică.",
+            "en": "The day starts at the castle, where thick walls provide shelter from the coastal rain. At noon, we dive into the world of wine at the Moscatel Museum, a perfect indoor spot.\n\nIn the afternoon, the walk to the lighthouse reveals a dramatic seaside atmosphere enhanced by the mist. The sanctuary then offers spiritual peace and a dry roof.\n\nThe evening ends at Playa de Regla, enjoying the roar of the grey sea under a sturdy umbrella. A stormy but authentic coastal experience."
+          },
+          "stops": [
+            {
+              "name": "Castillo de Chipiona",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Innenräume und Ausstellungen, um dem ersten Schauer zu entgehen.",
+                "hu": "Használja ki a belső kiállításokat, hogy elkerülje a reggeli záport.",
+                "ro": "Folosiți expozițiile interioare pentru a evita prima aversă de ploaie.",
+                "en": "Use the indoor exhibits to escape the first morning shower."
+              }
+            },
+            {
+              "name": "Museo del Moscatel",
+              "tip_5lang": {
+                "de": "Ideal bei Regen; genießen Sie die Weinprobe im Trockenen.",
+                "hu": "Ideális esőben; élvezze a borkóstolót a fedett részeken.",
+                "ro": "Ideal pe ploaie; bucurați-vă de degustarea de vinuri la adăpost.",
+                "en": "Ideal for rainy weather; enjoy the wine tasting in a dry environment."
+              }
+            },
+            {
+              "name": "Faro de Chipiona",
+              "tip_5lang": {
+                "de": "Vorsicht auf den Stufen; bei Nässe kann es rutschig sein.",
+                "hu": "Vigyázzon a lépcsőkön; nedves időben csúszósak lehetnek.",
+                "ro": "Atenție pe trepte; pot fi alunecoase când sunt ude.",
+                "en": "Careful on the steps; they can be slippery when wet."
+              }
+            },
+            {
+              "name": "Santuario de Nuestra Señora de Regla",
+              "tip_5lang": {
+                "de": "Ein ruhiger, trockener Ort für Besinnung während des Regens.",
+                "hu": "Csendes, száraz hely az elmélyüléshez az eső alatt.",
+                "ro": "Un loc liniștit și uscat pentru reflecție în timpul ploii.",
+                "en": "A quiet, dry place for reflection during the rain."
+              }
+            },
+            {
+              "name": "Playa de Regla",
+              "tip_5lang": {
+                "de": "Die Promenade bietet Kioske zum Unterstellen beim Blick aufs Meer.",
+                "hu": "A sétányon találhatók bódék, ahonnan fedél alól nézheti a tengert.",
+                "ro": "Promenada are chioșcuri unde vă puteți adăposti privind marea.",
+                "en": "The promenade has kiosks where you can shelter while watching the sea."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein stabiler Windschutz-Regenschirm ist an der Küste unerlässlich.",
+              "Die Steinpflaster in der Altstadt können bei Nässe sehr glatt werden.",
+              "Nutzen Sie die längeren Museumszeiten für intensive Pausen.",
+              "Wasserdichte Schuhe sind für die Strandpromenade sehr zu empfehlen."
+            ],
+            "hu": [
+              "A parti szél miatt egy viharálló esernyő elengedhetetlen.",
+              "Az óváros kőburkolata vizesen rendkívül csúszós lehet.",
+              "Használja ki a múzeumi időt a hosszabb, száraz pihenőkre.",
+              "Vízálló cipő erősen ajánlott a tengerparti sétányhoz."
+            ],
+            "ro": [
+              "O umbrelă rezistentă la vânt este esențială pe coastă.",
+              "Pavajul din centrul vechi poate deveni foarte alunecos când este ud.",
+              "Folosiți timpul de vizitare a muzeelor pentru pauze prelungite la uscat.",
+              "Încălțămintea impermeabilă este recomandată pentru faleză."
+            ],
+            "en": [
+              "A windproof umbrella is essential on the windy coast.",
+              "The old town cobblestones can become very slippery when wet.",
+              "Utilize museum visits for longer, dry breaks during heavy rain.",
+              "Waterproof footwear is highly recommended for the promenade walk."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die milde Wintersonne beleuchtet das Castillo am Morgen. Die Luft ist klar und frisch, ideal für einen Spaziergang zum Weinmuseum, wo der Moscatel angenehm wärmt.\n\nMittags erklimmen wir den Faro; die Fernsicht ist im Winter oft besser als im Sommerdunst. Das Santuario de Regla strahlt in der tiefstehenden Sonne eine besondere Ruhe aus.\n\nDer Nachmittag endet früh an der Playa de Regla. Da die Sonne gegen 18:00 Uhr untergeht, genießen wir das goldene Licht direkt am Wasser. Ein ruhiger Tag fernab der Touristenmassen.",
+            "hu": "Az enyhe téli napsütés világítja meg a várat reggel. A levegő friss és tiszta, ideális egy sétához a bormúzeumig, ahol a moscatel melengeti a lelket.\n\nDélben felmegyünk a világítótoronyba; a látótávolság télen gyakran jobb, mint a nyári párában. A kegyhely különleges békét áraszt az alacsonyan járó napfényben.\n\nA délután korán véget ér a Regla-parton. Mivel 18:00 körül lemegy a nap, a vizuális élményt a korai aranyórára időzítjük. Nyugodt nap, tömegek nélkül.",
+            "ro": "Soarele blând de iarnă luminează castelul dimineața. Aerul este clar și proaspăt, ideal pentru o plimbare spre muzeul vinului, unde un pahar de moscatel vă va încălzi.\n\nLa prânz urcăm în far; vizibilitatea este adesea mai bună iarna decât în atmosfera lăptoasă de vară. Sanctuarul emană o liniște aparte în lumina joasă a soarelui.\n\nDupă-amiaza se încheie devreme pe plaja Regla. Deoarece soarele apune în jur de ora 18:00, ne bucurăm de lumina aurie direct pe malul apei. O zi liniștită, fără aglomerație.",
+            "en": "Mild winter sun illuminates the castle in the morning. The air is crisp and clear, perfect for a walk to the wine museum, where the moscatel provides a warm glow.\n\nAt noon, we climb the lighthouse; visibility is often better in winter than in the summer haze. The sanctuary radiates a special peace in the low-hanging sun.\n\nThe afternoon ends early at Playa de Regla. As the sun sets around 6 PM, we enjoy the golden light right by the water. A peaceful day away from the tourist crowds."
+          },
+          "stops": [
+            {
+              "name": "Castillo de Chipiona",
+              "tip_5lang": {
+                "de": "Die tiefstehende Sonne bietet fantastische Fotomotive der Festung.",
+                "hu": "Az alacsony napállás fantasztikus fotótémákat kínál az erődről.",
+                "ro": "Soarele jos oferă oportunități fantastice pentru fotografii cu fortăreața.",
+                "en": "The low sun provides fantastic photo opportunities of the fortress."
+              }
+            },
+            {
+              "name": "Museo del Moscatel",
+              "tip_5lang": {
+                "de": "Ein gemütlicher Ort, um sich zwischen den Spaziergängen aufzuwärmen.",
+                "hu": "Hangulatos hely a bemelegedésre a séták között.",
+                "ro": "Un loc primitor pentru a vă încălzi între plimbări.",
+                "en": "A cozy spot to warm up between your walks."
+              }
+            },
+            {
+              "name": "Faro de Chipiona",
+              "tip_5lang": {
+                "de": "Warme Kleidung einpacken; oben am Turm zieht es im Winter stark.",
+                "hu": "Öltözzön rétegesen; a torony tetején télen erős a szél.",
+                "ro": "Îmbrăcați-vă gros; în vârful turnului vântul bate puternic iarna.",
+                "en": "Dress warmly; it gets very windy at the top of the tower in winter."
+              }
+            },
+            {
+              "name": "Santuario de Nuestra Señora de Regla",
+              "tip_5lang": {
+                "de": "Genießen Sie die Stille, da im Winter deutlich weniger Besucher hier sind.",
+                "hu": "Élvezze a csendet, mivel télen jóval kevesebb a látogató.",
+                "ro": "Bucurați-vă de liniște, iarna fiind mult mai puțini vizitatori.",
+                "en": "Enjoy the silence, as there are far fewer visitors in winter."
+              }
+            },
+            {
+              "name": "Playa de Regla",
+              "tip_5lang": {
+                "de": "Der Sonnenuntergang ist hier im Winter besonders farbenfroh.",
+                "hu": "A naplemente itt télen különösen színpompás.",
+                "ro": "Apusul este deosebit de colorat aici în timpul iernii.",
+                "en": "The sunset here is particularly colorful during the winter months."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht früh unter, planen Sie die Außenaktivitäten vor 17:30 Uhr.",
+              "Zwiebelprinzip bei der Kleidung schützt vor dem kühlen Seewind.",
+              "Viele Cafés haben im Winter Heizstrahler in den Außenbereichen.",
+              "Die klare Winterluft ermöglicht weite Blicke bis nach Doñana."
+            ],
+            "hu": [
+              "A nap korán nyugszik, tervezze a kinti programokat 17:30 előttre.",
+              "A réteges öltözködés véd a hűvös tengeri szél ellen.",
+              "Sok kávézó teraszán van hősugárzó a téli időszakban is.",
+              "A tiszta téli levegőben messzire ellátni, akár a Doñana parkig."
+            ],
+            "ro": [
+              "Soarele apune devreme, planificați activitățile în aer liber înainte de 17:30.",
+              "Îmbrăcămintea în straturi vă protejează de briza rece a mării.",
+              "Multe cafenele au încălzitoare pe terase în timpul iernii.",
+              "Aerul curat de iarnă permite vederi panoramice până la Doñana."
+            ],
+            "en": [
+              "The sun sets early, so plan outdoor activities before 5:30 PM.",
+              "Layered clothing is best to protect against the chilly sea breeze.",
+              "Many cafes offer outdoor heaters for a comfortable break.",
+              "The clear winter air allows for expansive views as far as Doñana."
+            ]
+          }
+        }
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 12.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Corrales de Pesca",
+          "coords": [
+            -6.445,
+            36.745
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:15",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Antike Fischfangmethode bei Ebbe.",
+            "hu": "Antik halászati módszer apálykor.",
+            "ro": "Metodă antică de pescuit la reflux.",
+            "en": "Ancient fishing method visible at low tide."
+          }
+        },
+        {
+          "name": "Castillo de Chipiona",
+          "coords": [
+            -6.4385,
+            36.739
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Geschichte direkt am Meer.",
+            "hu": "Történelem közvetlenül a tengerparton.",
+            "ro": "Istorie chiar pe malul mării.",
+            "en": "History right by the seaside."
+          }
+        },
+        {
+          "name": "Faro de Chipiona",
+          "coords": [
+            -6.442,
+            36.735
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "11:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die Aussicht.",
+            "hu": "Élvezze a kilátást.",
+            "ro": "Bucurați-vă de priveliște.",
+            "en": "Take in the panoramic views."
+          }
+        },
+        {
+          "name": "Santuario de Regla",
+          "coords": [
+            -6.441,
+            36.73
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Kurzer spiritueller Stopp.",
+            "hu": "Rövid spirituális megálló.",
+            "ro": "Scurt popas spiritual.",
+            "en": "A short spiritual break."
+          }
+        },
+        {
+          "name": "Ermita del Pinar",
+          "coords": [
+            -6.41,
+            36.72
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Ruhige Kapelle im Pinienwald.",
+            "hu": "Csendes kápolna a fenyőerdőben.",
+            "ro": "Capelă liniștită în pădurea de pini.",
+            "en": "Quiet chapel in the pine forest."
+          }
+        },
+        {
+          "name": "Playa de Regla",
+          "coords": [
+            -6.445,
+            36.728
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:25",
+          "stay_min": 140,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Verdiente Abkühlung.",
+            "hu": "Megérdemelt hűsölés.",
+            "ro": "O răcorire binemeritată.",
+            "en": "A well-deserved cooling swim."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Die Radtour führt Sie entlang der Küste zu den faszinierenden Fischfallen (Corrales), einem Erbe der Phönizier. Die Strecke ist flach und ideal zum Radeln.\r\nNach der Kultur am Leuchtturm fahren Sie ins Grüne zur Ermita del Pinar, einem friedlichen Ort abseits des Trubels.\r\nDer Rückweg führt direkt zum Strand, wo Sie den Tag entspannt im Sand ausklingen lassen können.",
+        "hu": "A kerékpártúra a part mentén halad a lenyűgöző Corrales-ekhez, az ősi föníciai halcsapdákhoz. Az útvonal sík és könnyen tekerhető.\r\nA világítótorony után a zöldbe, a fenyőerdő mélyén fekvő Ermita del Pinarhoz vezet az út, távol a város zajától.\r\nA visszaút után egyenesen a strandra mehet, ahol a homokban pihenve zárhatja a napot.",
+        "ro": "Turul cu bicicleta vă poartă de-a lungul coastei către fascinantele capcane de pește (Corrales), o moștenire feniciană. Traseul este plat și ideal pentru pedalat.\r\nDupă vizita la far, pedalați spre zona verde la Ermita del Pinar, un loc liniștit departe de agitație.\r\nDrumul de întoarcere vă duce direct la plajă, unde vă puteți relaxa în nisip la finalul zilei.",
+        "en": "The bike tour takes you along the coast to the fascinating fish traps (Corrales), a Phoenician legacy. The route is flat and perfect for cycling.\r\nAfter the culture at the lighthouse, ride into the greenery to Ermita del Pinar, a peaceful spot away from the crowds.\r\nThe return path leads straight to the beach, where you can relax on the sand as the day ends."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ortiguillas",
+            "tip": "Frittierte Seeanemonen – eine lokale Delikatesse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ortiguillas",
+            "tip": "Sült tengeri anemónák – helyi különlegesség."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ortiguillas",
+            "tip": "Anemone de mare prăjite – o delicatesă locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ortiguillas",
+            "tip": "Fried sea anemones – a unique local delicacy."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ermita del Pinar",
+            "tip": "Stille unter Pinien.",
+            "emoji": "🌲"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ermita del Pinar",
+            "tip": "Csend a fenyőfák alatt.",
+            "emoji": "🌲"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ermita del Pinar",
+            "tip": "Liniște sub pini.",
+            "emoji": "🌲"
+          }
+        ],
+        "en": [
+          {
+            "name": "Ermita del Pinar",
+            "tip": "Silence under the pine trees away from town.",
+            "emoji": "🌲"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Bodegas",
+            "tip": "Kaufen Sie Moscatel direkt vom Erzeuger."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lokale Bodegas",
+            "tip": "Vásároljon Moscatelt közvetlenül a termelőtől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lokale Bodegas",
+            "tip": "Cumpărați Moscatel direct de la producător."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Bodegas",
+            "tip": "Buy Moscatel wine directly from the producers."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die Radwege am Paseo.",
+          "Parken Sie Ihr Rad nur an belebten Stellen.",
+          "Ebbe-Zeiten für die Corrales prüfen.",
+          "Viel Wasser für die Tour zum Pinar."
+        ],
+        "hu": [
+          "Használja a sétány kerékpárútjait.",
+          "Csak forgalmas helyen zárja le a biciklit.",
+          "Nézze meg az apály idejét a Corrales-hez.",
+          "Vigyen vizet a Pinar túrához."
+        ],
+        "ro": [
+          "Folosiți pistele de biciclete de pe faleză.",
+          "Parcați bicicleta doar în locuri circulate.",
+          "Verificați mareea pentru Corrales.",
+          "Luați apă pentru tura spre Pinar."
+        ],
+        "en": [
+          "Use the dedicated bike paths on the promenade.",
+          "Only park your bike in busy, well-lit areas.",
+          "Check tide tables to see the Corrales clearly.",
+          "Carry water for the ride to the pine forest."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Die Radtour führt Sie entlang der Küste zu den faszinierenden Fischfallen (Corrales), einem Erbe der Phönizier. Die Strecke ist flach und ideal zum Radeln.\r\nNach der Kultur am Leuchtturm fahren Sie ins Grüne zur Ermita del Pinar, einem friedlichen Ort abseits des Trubels.\r\nDer Rückweg führt direkt zum Strand, wo Sie den Tag entspannt im Sand ausklingen lassen können.",
+            "hu": "A kerékpártúra a part mentén halad a lenyűgöző Corrales-ekhez, az ősi föníciai halcsapdákhoz. Az útvonal sík és könnyen tekerhető.\r\nA világítótorony után a zöldbe, a fenyőerdő mélyén fekvő Ermita del Pinarhoz vezet az út, távol a város zajától.\r\nA visszaút után egyenesen a strandra mehet, ahol a homokban pihenve zárhatja a napot.",
+            "ro": "Turul cu bicicleta vă poartă de-a lungul coastei către fascinantele capcane de pește (Corrales), o moștenire feniciană. Traseul este plat și ideal pentru pedalat.\r\nDupă vizita la far, pedalați spre zona verde la Ermita del Pinar, un loc liniștit departe de agitație.\r\nDrumul de întoarcere vă duce direct la plajă, unde vă puteți relaxa în nisip la finalul zilei.",
+            "en": "The bike tour takes you along the coast to the fascinating fish traps (Corrales), a Phoenician legacy. The route is flat and perfect for cycling.\r\nAfter the culture at the lighthouse, ride into the greenery to Ermita del Pinar, a peaceful spot away from the crowds.\r\nThe return path leads straight to the beach, where you can relax on the sand as the day ends."
+          },
+          "stops": [
+            {
+              "name": "Corrales de Pesca",
+              "tip_5lang": {
+                "de": "Antike Fischfangmethode bei Ebbe.",
+                "hu": "Antik halászati módszer apálykor.",
+                "ro": "Metodă antică de pescuit la reflux.",
+                "en": "Ancient fishing method visible at low tide."
+              }
+            },
+            {
+              "name": "Castillo de Chipiona",
+              "tip_5lang": {
+                "de": "Geschichte direkt am Meer.",
+                "hu": "Történelem közvetlenül a tengerparton.",
+                "ro": "Istorie chiar pe malul mării.",
+                "en": "History right by the seaside."
+              }
+            },
+            {
+              "name": "Faro de Chipiona",
+              "tip_5lang": {
+                "de": "Genießen Sie die Aussicht.",
+                "hu": "Élvezze a kilátást.",
+                "ro": "Bucurați-vă de priveliște.",
+                "en": "Take in the panoramic views."
+              }
+            },
+            {
+              "name": "Santuario de Regla",
+              "tip_5lang": {
+                "de": "Kurzer spiritueller Stopp.",
+                "hu": "Rövid spirituális megálló.",
+                "ro": "Scurt popas spiritual.",
+                "en": "A short spiritual break."
+              }
+            },
+            {
+              "name": "Ermita del Pinar",
+              "tip_5lang": {
+                "de": "Ruhige Kapelle im Pinienwald.",
+                "hu": "Csendes kápolna a fenyőerdőben.",
+                "ro": "Capelă liniștită în pădurea de pini.",
+                "en": "Quiet chapel in the pine forest."
+              }
+            },
+            {
+              "name": "Playa de Regla",
+              "tip_5lang": {
+                "de": "Verdiente Abkühlung.",
+                "hu": "Megérdemelt hűsölés.",
+                "ro": "O răcorire binemeritată.",
+                "en": "A well-deserved cooling swim."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Ortiguillas",
+                "tip": "Frittierte Seeanemonen – eine lokale Delikatesse."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Ortiguillas",
+                "tip": "Sült tengeri anemónák – helyi különlegesség."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Ortiguillas",
+                "tip": "Anemone de mare prăjite – o delicatesă locală."
+              }
+            ],
+            "en": [
+              {
+                "name": "Ortiguillas",
+                "tip": "Fried sea anemones – a unique local delicacy."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Ermita del Pinar",
+                "tip": "Stille unter Pinien.",
+                "emoji": "🌲"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Ermita del Pinar",
+                "tip": "Csend a fenyőfák alatt.",
+                "emoji": "🌲"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Ermita del Pinar",
+                "tip": "Liniște sub pini.",
+                "emoji": "🌲"
+              }
+            ],
+            "en": [
+              {
+                "name": "Ermita del Pinar",
+                "tip": "Silence under the pine trees away from town.",
+                "emoji": "🌲"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Lokale Bodegas",
+                "tip": "Kaufen Sie Moscatel direkt vom Erzeuger."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Lokale Bodegas",
+                "tip": "Vásároljon Moscatelt közvetlenül a termelőtől."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Lokale Bodegas",
+                "tip": "Cumpărați Moscatel direct de la producător."
+              }
+            ],
+            "en": [
+              {
+                "name": "Local Bodegas",
+                "tip": "Buy Moscatel wine directly from the producers."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Nutzen Sie die Radwege am Paseo.",
+              "Parken Sie Ihr Rad nur an belebten Stellen.",
+              "Ebbe-Zeiten für die Corrales prüfen.",
+              "Viel Wasser für die Tour zum Pinar."
+            ],
+            "hu": [
+              "Használja a sétány kerékpárútjait.",
+              "Csak forgalmas helyen zárja le a biciklit.",
+              "Nézze meg az apály idejét a Corrales-hez.",
+              "Vigyen vizet a Pinar túrához."
+            ],
+            "ro": [
+              "Folosiți pistele de biciclete de pe faleză.",
+              "Parcați bicicleta doar în locuri circulate.",
+              "Verificați mareea pentru Corrales.",
+              "Luați apă pentru tura spre Pinar."
+            ],
+            "en": [
+              "Use the dedicated bike paths on the promenade.",
+              "Only park your bike in busy, well-lit areas.",
+              "Check tide tables to see the Corrales clearly.",
+              "Carry water for the ride to the pine forest."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir starten bei den Corrales; die Gischt vermischt sich mit dem Regen. Auf dem Rad geht es zügig zum Castillo, wo wir eine trockene Pause einlegen.\n\nMittags erreichen wir den Faro. Der nasse Asphalt spiegelt das Licht, während wir zum Santuario radeln, um uns aufzuwärmen. Ein kleiner Umweg führt zur Ermita del Pinar durch duftende, feuchte Pinienwälder.\n\nDer Tag endet an der Playa de Regla. Ein kurzer Stopp am Strand, bevor wir uns ins Trockene flüchten. Ein Abenteuer für wetterfeste Radfahrer.",
+            "hu": "A halcsapdáktól indulunk; a tenger permete keveredik az esővel. Gyorsan a várhoz tekerünk, ahol szárazon pihenhetünk.\n\nDélben elérjük a világítótornyot. A vizes aszfalt tükrözi a fényeket, miközben a kegyhely felé hajtunk melegedni. Egy kis kitérő a fenyvesek illatos, párás útjain az Ermitához.\n\nA nap a Regla-parton zárul. Rövid megálló a homoknál, mielőtt behúzódnánk valahová. Kalandvágyó bringásoknak való nap.",
+            "ro": "Pornim de la Corrales; spray-ul mării se amestecă cu ploaia. Pedalăm rapid spre castel pentru o pauză uscată.\n\nLa prânz ajungem la far. Asfaltul ud reflectă lumina în timp ce mergem spre sanctuar pentru a ne încălzi. O scurtă deviere prin pădurea de pini umedă ne duce la Ermita.\n\nZiua se termină la Playa de Regla. O scurtă oprire pe plajă înainte de a ne adăposti. O aventură pentru bicicliști rezistenți la orice vreme.",
+            "en": "We start at the Corrales; sea spray mixes with the rain. We pedal quickly to the castle for a dry break.\n\nAt noon, we reach the lighthouse. The wet asphalt reflects the light as we cycle to the sanctuary to warm up. A short detour leads to Ermita del Pinar through fragrant, damp pine forests.\n\nThe day ends at Playa de Regla. A quick stop at the beach before retreating to safety. An adventure for weather-ready cyclists."
+          },
+          "stops": [
+            {
+              "name": "Corrales de Pesca",
+              "tip_5lang": {
+                "de": "Der Boden kann bei Regen sehr rutschig sein; bleiben Sie auf festen Wegen.",
+                "hu": "A talaj nagyon csúszós lehet esőben; maradjon a kijelölt utakon.",
+                "ro": "Terenul poate fi foarte alunecos pe ploaie; rămâneți pe poteci.",
+                "en": "The ground can be very slippery in the rain; stay on firm paths."
+              }
+            },
+            {
+              "name": "Castillo de Chipiona",
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Eingangsbereich zum Parken der Räder.",
+                "hu": "Használja a fedett bejárati részt a kerékpárok tárolására.",
+                "ro": "Folosiți zona de intrare acoperită pentru a parca bicicletele.",
+                "en": "Use the covered entrance area to park your bikes out of the rain."
+              }
+            },
+            {
+              "name": "Faro de Chipiona",
+              "tip_5lang": {
+                "de": "Vorsicht bei starkem Wind auf dem Radweg am Meer.",
+                "hu": "Vigyázzon az erős széllel a tengerparti kerékpárúton.",
+                "ro": "Atenție la vântul puternic pe pista de biciclete de lângă mare.",
+                "en": "Watch out for strong winds on the seaside bike path."
+              }
+            },
+            {
+              "name": "Santuario de Regla",
+              "tip_5lang": {
+                "de": "Die Arkaden bieten guten Schutz vor plötzlichen Schauern.",
+                "hu": "Az árkádok jó védelmet nyújtanak a hirtelen záporok ellen.",
+                "ro": "Arcadele oferă protecție bună împotriva averselor bruște.",
+                "en": "The arcades provide good shelter from sudden showers."
+              }
+            },
+            {
+              "name": "Ermita del Pinar",
+              "tip_5lang": {
+                "de": "Die Pinienbäume bieten natürlichen Schutz vor leichtem Regen.",
+                "hu": "A fenyőfák természetes védelmet nyújtanak az enyhe eső ellen.",
+                "ro": "Pinii oferă adăpost natural împotriva ploii ușoare.",
+                "en": "The pine trees offer natural shelter from light rain."
+              }
+            },
+            {
+              "name": "Playa de Regla",
+              "tip_5lang": {
+                "de": "Fahren Sie nicht auf dem nassen Sand; das Salz schadet der Kette.",
+                "hu": "Ne hajtson a vizes homokba; a só árt a láncnak.",
+                "ro": "Nu pedalați pe nisipul ud; sarea dăunează lanțului.",
+                "en": "Avoid riding on wet sand; the salt is bad for the bike chain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vollständige Regenbekleidung und Schutzbleche sind heute Pflicht.",
+              "Reduzieren Sie den Reifendruck leicht für besseren Grip auf nassem Asphalt.",
+              "Vorsicht vor Fahrbahnmarkierungen; diese werden extrem glatt.",
+              "Sichern Sie Gepäck in wasserdichten Taschen."
+            ],
+            "hu": [
+              "A teljes esőruházat és a sárvédő ma kötelező darab.",
+              "Csökkentse kicsit a guminyomást a jobb tapadásért a vizes úton.",
+              "Vigyázzon az útburkolati jelekkel; ezek rendkívül csúszóssá válnak.",
+              "A csomagokat vízálló táskákban rögzítse."
+            ],
+            "ro": [
+              "Echipamentul complet de ploaie și apărătorile sunt obligatorii astăzi.",
+              "Reduceți ușor presiunea în pneuri pentru o aderență mai bună pe asfalt ud.",
+              "Atenție la marcajele rutiere; acestea devin extrem de alunecoase.",
+              "Asigurați bagajele în genți impermeabile."
+            ],
+            "en": [
+              "Full rain gear and mudguards are mandatory today.",
+              "Slightly reduce tire pressure for better grip on wet asphalt.",
+              "Watch out for road markings; they become extremely slippery.",
+              "Ensure all your luggage is stored in waterproof bags."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kühler Morgen bei den Corrales; der Wind weht frisch vom Atlantik. Die Fahrt zum Castillo belebt die Sinne, während die Wintersonne die Küste wärmt.\n\nMittags erreichen wir den Faro. Die klare Luft ermöglicht eine weite Sicht über den Ozean. Weiter geht es zum Santuario und dann landeinwärts zur Ermita del Pinar, wo es windgeschützter ist.\n\nDer Tag endet an der Playa de Regla pünktlich zum Sonnenuntergang. Die Farben sind im Winter intensiver. Eine sportliche Tour durch das ruhige Chipiona.",
+            "hu": "Hűvös reggel a halcsapdáknál; a szél frissen fúj az Atlanti-óceán felől. A várhoz vezető út felélénkít, miközben a téli nap melengeti a partot.\n\nDélben elérjük a világítótoronyt. A tiszta levegő messzi kilátást enged az óceánra. Továbbhaladunk a kegyhelyhez, majd befelé az Ermitához, ahol védettebb az út.\n\nA nap a Regla-parton zárul, pontosan a naplementére. A színek télen intenzívebbek. Sportos túra a csendes Chipionában.",
+            "ro": "O dimineață răcoroasă la Corrales; vântul suflă proaspăt dinspre Atlantic. Drumul spre castel revigorează simțurile în timp ce soarele de iarnă încălzește coasta.\n\nLa prânz ajungem la far. Aerul curat permite o vedere largă peste ocean. Continuăm spre sanctuar și apoi spre Ermita del Pinar, unde este mai adăpostit de vânt.\n\nZiua se termină la Playa de Regla exact la apus. Culorile sunt mai intense iarna. Un tur sportiv prin Chipiona liniștită.",
+            "en": "A chilly morning at the Corrales; the wind blows fresh from the Atlantic. The ride to the castle invigorates the senses as the winter sun warms the coast.\n\nAt noon, we reach the lighthouse. Clear air allows for far-reaching views over the ocean. We continue to the sanctuary and then inland to Ermita del Pinar, which is more sheltered from the wind.\n\nThe day ends at Playa de Regla just in time for sunset. The colors are more intense in winter. A sporty tour through quiet Chipiona."
+          },
+          "stops": [
+            {
+              "name": "Corrales de Pesca",
+              "tip_5lang": {
+                "de": "Ein winddichter Layer ist hier am offenen Meer unbedingt nötig.",
+                "hu": "Egy szélálló réteg itt a nyílt tenger mellett elengedhetetlen.",
+                "ro": "Un strat rezistent la vânt este neapărat necesar aici, la malul mării.",
+                "en": "A windproof layer is absolutely necessary here by the open sea."
+              }
+            },
+            {
+              "name": "Castillo de Chipiona",
+              "tip_5lang": {
+                "de": "Genießen Sie die Sonne auf den Mauern, bevor es weitergeht.",
+                "hu": "Élvezze a napsütést a falakon, mielőtt továbbindulna.",
+                "ro": "Bucurați-vă de soare pe ziduri înainte de a pleca mai departe.",
+                "en": "Enjoy the sun on the walls before heading out again."
+              }
+            },
+            {
+              "name": "Faro de Chipiona",
+              "tip_5lang": {
+                "de": "Im Winter sind die Wartezeiten für den Aufstieg meist sehr kurz.",
+                "hu": "Télen a várakozási idő a feljutáshoz általában nagyon rövid.",
+                "ro": "Iarna, timpii de așteptare pentru urcare sunt de obicei foarte scurți.",
+                "en": "In winter, waiting times for the climb are usually very short."
+              }
+            },
+            {
+              "name": "Santuario de Regla",
+              "tip_5lang": {
+                "de": "Der Platz vor dem Santuario ist ein schöner Ort für eine kurze Sonnenpause.",
+                "hu": "A kegyhely előtti tér remek hely egy rövid napozós pihenőhöz.",
+                "ro": "Piața din fața sanctuarului este un loc plăcut pentru o scurtă pauză la soare.",
+                "en": "The square in front of the sanctuary is a nice spot for a quick sun break."
+              }
+            },
+            {
+              "name": "Ermita del Pinar",
+              "tip_5lang": {
+                "de": "Der Pinienwald ist im Winter ein guter Rückzugsort vor dem Seewind.",
+                "hu": "A fenyves télen remek búvóhely a tengeri szél elől.",
+                "ro": "Pădurea de pini este un refugiu bun iarna împotriva brizei mării.",
+                "en": "The pine forest is a good retreat from the sea wind in winter."
+              }
+            },
+            {
+              "name": "Playa de Regla",
+              "tip_5lang": {
+                "de": "Perfektes Timing für das goldene Licht kurz vor 18:00 Uhr.",
+                "hu": "Tökéletes időzítés az aranyórához nem sokkal 18:00 előtt.",
+                "ro": "Moment perfect pentru lumina aurie chiar înainte de ora 18:00.",
+                "en": "Perfect timing for the golden light just before 6 PM."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Verwenden Sie Handschuhe; der kalte Wind macht die Finger steif.",
+              "Prüfen Sie Ihre Fahrradbeleuchtung, da es früh dunkel wird.",
+              "Die Route durch den Pinar ist im Winter angenehm ruhig.",
+              "Trinken Sie genug, auch wenn man bei Kälte weniger Durst verspürt."
+            ],
+            "hu": [
+              "Használjon kesztyűt; a hideg szél miatt elgémberedhetnek az ujjai.",
+              "Ellenőrizze a kerékpárlámpákat, mert korán sötétedik.",
+              "A fenyvesen átvezető útvonal télen kellemesen csendes.",
+              "Igyon eleget, még ha hidegben kevésbé is érzi szomjasnak magát."
+            ],
+            "ro": [
+              "Folosiți mănuși; vântul rece vă poate amorți degetele.",
+              "Verificați luminile bicicletei, deoarece se întunecă devreme.",
+              "Ruta prin Pinar este plăcut de liniștită în timpul iernii.",
+              "Beți suficiente lichide, chiar dacă simțiți mai puțin setea la frig."
+            ],
+            "en": [
+              "Wear gloves; the cold wind can make your fingers stiff.",
+              "Check your bike lights, as it gets dark quite early.",
+              "The route through the pine forest is pleasantly quiet in winter.",
+              "Keep hydrated, even if you feel less thirsty in the cold."
+            ]
+          }
+        }
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 25,
+      "start": "09:00",
+      "end_estimate": "18:15",
+      "total_km": 35.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Monumento a Rocío Jurado",
+          "coords": [
+            -6.425,
+            36.735
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Ehre für die berühmte Sängerin.",
+            "hu": "Tisztelgés a híres énekesnő előtt.",
+            "ro": "Omagiu adus celebrei cântărețe.",
+            "en": "Honor the famous singer born here."
+          }
+        },
+        {
+          "name": "Castillo de Chipiona",
+          "coords": [
+            -6.4385,
+            36.739
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:10",
+          "stay_min": 70,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Leichtes Parken am Hafen.",
+            "hu": "Könnyű parkolás a kikötőnél.",
+            "ro": "Parcare ușoară lângă port.",
+            "en": "Easy parking near the harbor."
+          }
+        },
+        {
+          "name": "Sanlúcar de Barrameda",
+          "coords": [
+            -6.355,
+            36.778
+          ],
+          "category": "region",
+          "arrive_at": "11:50",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 12.0,
+          "tip_5lang": {
+            "de": "Ausflug zur Manzanilla-Stadt.",
+            "hu": "Kirándulás a Manzanilla városába.",
+            "ro": "Excursie în orașul vinului Manzanilla.",
+            "en": "Short trip to the city of Manzanilla wine."
+          }
+        },
+        {
+          "name": "Faro de Chipiona",
+          "coords": [
+            -6.442,
+            36.735
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "14:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 12.0,
+          "tip_5lang": {
+            "de": "Panoramablick am Nachmittag.",
+            "hu": "Délutáni panoráma.",
+            "ro": "Panoramă de după-amiază.",
+            "en": "Beautiful afternoon panoramic views."
+          }
+        },
+        {
+          "name": "Santuario de Regla",
+          "coords": [
+            -6.441,
+            36.73
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Besuch der Schwarzen Madonna.",
+            "hu": "A Fekete Madonna meglátogatása.",
+            "ro": "Vizitați Madona Neagră.",
+            "en": "Visit the Black Madonna inside."
+          }
+        },
+        {
+          "name": "Playa de Regla",
+          "coords": [
+            -6.445,
+            36.728
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:45",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Letztes Bad des Tages.",
+            "hu": "A nap utolsó csobbanása.",
+            "ro": "Ultima baie a zilei.",
+            "en": "The final swim of the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto verbinden Sie Chipiona mit dem nahen Sanlúcar de Barrameda. Starten Sie beim Denkmal der 'Grande' Rocío Jurado.\r\nNach dem Besuch der Burg in Chipiona fahren Sie nach Sanlúcar für ein Mittagessen mit Blick auf den Doñana-Nationalpark. Der Nachmittag gehört dem Faro und dem Santuario.\r\nEin abwechslungsreicher Tag, der die Kultur zweier bedeutender Küstenstädte vereint.",
+        "hu": "Autóval könnyedén összekötheti Chipionát a szomszédos Sanlúcar de Barramedával. Kezdjen a híres Rocío Jurado emlékművénél.\r\nA chipionai vár után ugorjon át Sanlúcarba egy ebédre a Doñana Nemzeti Parkra nyíló kilátással. A délutánt a világítótorony és a kegyhely felfedezésére szánhatja.\r\nVáltozatos nap, amely két jelentős tengerparti város kultúráját ötvözi.",
+        "ro": "Cu mașina puteți combina Chipiona cu orașul vecin Sanlúcar de Barrameda. Începeți la monumentul marii cântărețe Rocío Jurado.\r\nDupă castelul din Chipiona, mergeți la Sanlúcar pentru un prânz cu vedere spre Parcul Național Doñana. După-amiaza revine farului și sanctuarului.\r\nO zi variată care unește cultura a două orașe de coastă importante.",
+        "en": "By car, you can easily combine Chipiona with nearby Sanlúcar de Barrameda. Start at the monument of the legendary Rocío Jurado.\r\nAfter visiting the castle in Chipiona, drive to Sanlúcar for lunch with views over Doñana National Park. Return for the lighthouse and sanctuary in the afternoon.\r\nA diverse day blending the culture of two major coastal towns."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Langostinos de Sanlúcar",
+            "tip": "Die besten Riesengarnelen der Welt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Langostinos de Sanlúcar",
+            "tip": "A világ legjobb óriás garnélarákjai."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Langostinos de Sanlúcar",
+            "tip": "Cei mai buni creveți gigant din lume."
+          }
+        ],
+        "en": [
+          {
+            "name": "Langostinos de Sanlúcar",
+            "tip": "World-famous king prawns from the region."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Costa Ballena",
+            "tip": "Ruhigerer Strandabschnitt südlich.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Costa Ballena",
+            "tip": "Csendesebb strand szakasz délebbre.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Costa Ballena",
+            "tip": "Zonă de plajă mai liniștită la sud.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Costa Ballena",
+            "tip": "A quieter beach area just south of town.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bodegas de Sanlúcar",
+            "tip": "Manzanilla-Wein zum Mitnehmen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bodegas de Sanlúcar",
+            "tip": "Manzanilla bor vásárlása."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bodegas de Sanlúcar",
+            "tip": "Vin Manzanilla de luat acasă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bodegas de Sanlúcar",
+            "tip": "Buy some Manzanilla wine to take home."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die Parkplätze am Hafen.",
+          "Die Küstenstraße ist sehr sehenswert.",
+          "Sanlúcar ist mittags sehr belebt.",
+          "In Chipiona ist vieles fußläufig erreichbar."
+        ],
+        "hu": [
+          "Használja a kikötői parkolókat.",
+          "A part menti út nagyon látványos.",
+          "Sanlúcar délidőben nagyon forgalmas.",
+          "Chipionán belül sok minden gyalog is elérhető."
+        ],
+        "ro": [
+          "Folosiți parcările din zona portului.",
+          "Drumul de coastă merită parcurs.",
+          "Sanlúcar este foarte animat la prânz.",
+          "Multe atracții din Chipiona sunt pietonale."
+        ],
+        "en": [
+          "Use the parking lots near the harbor.",
+          "The coastal road offers beautiful views.",
+          "Sanlúcar is very busy at lunchtime.",
+          "Within Chipiona, many sites are pedestrian-friendly."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto verbinden Sie Chipiona mit dem nahen Sanlúcar de Barrameda. Starten Sie beim Denkmal der 'Grande' Rocío Jurado.\r\nNach dem Besuch der Burg in Chipiona fahren Sie nach Sanlúcar für ein Mittagessen mit Blick auf den Doñana-Nationalpark. Der Nachmittag gehört dem Faro und dem Santuario.\r\nEin abwechslungsreicher Tag, der die Kultur zweier bedeutender Küstenstädte vereint.",
+            "hu": "Autóval könnyedén összekötheti Chipionát a szomszédos Sanlúcar de Barramedával. Kezdjen a híres Rocío Jurado emlékművénél.\r\nA chipionai vár után ugorjon át Sanlúcarba egy ebédre a Doñana Nemzeti Parkra nyíló kilátással. A délutánt a világítótorony és a kegyhely felfedezésére szánhatja.\r\nVáltozatos nap, amely két jelentős tengerparti város kultúráját ötvözi.",
+            "ro": "Cu mașina puteți combina Chipiona cu orașul vecin Sanlúcar de Barrameda. Începeți la monumentul marii cântărețe Rocío Jurado.\r\nDupă castelul din Chipiona, mergeți la Sanlúcar pentru un prânz cu vedere spre Parcul Național Doñana. După-amiaza revine farului și sanctuarului.\r\nO zi variată care unește cultura a două orașe de coastă importante.",
+            "en": "By car, you can easily combine Chipiona with nearby Sanlúcar de Barrameda. Start at the monument of the legendary Rocío Jurado.\r\nAfter visiting the castle in Chipiona, drive to Sanlúcar for lunch with views over Doñana National Park. Return for the lighthouse and sanctuary in the afternoon.\r\nA diverse day blending the culture of two major coastal towns."
+          },
+          "stops": [
+            {
+              "name": "Monumento a Rocío Jurado",
+              "tip_5lang": {
+                "de": "Ehre für die berühmte Sängerin.",
+                "hu": "Tisztelgés a híres énekesnő előtt.",
+                "ro": "Omagiu adus celebrei cântărețe.",
+                "en": "Honor the famous singer born here."
+              }
+            },
+            {
+              "name": "Castillo de Chipiona",
+              "tip_5lang": {
+                "de": "Leichtes Parken am Hafen.",
+                "hu": "Könnyű parkolás a kikötőnél.",
+                "ro": "Parcare ușoară lângă port.",
+                "en": "Easy parking near the harbor."
+              }
+            },
+            {
+              "name": "Sanlúcar de Barrameda",
+              "tip_5lang": {
+                "de": "Ausflug zur Manzanilla-Stadt.",
+                "hu": "Kirándulás a Manzanilla városába.",
+                "ro": "Excursie în orașul vinului Manzanilla.",
+                "en": "Short trip to the city of Manzanilla wine."
+              }
+            },
+            {
+              "name": "Faro de Chipiona",
+              "tip_5lang": {
+                "de": "Panoramablick am Nachmittag.",
+                "hu": "Délutáni panoráma.",
+                "ro": "Panoramă de după-amiază.",
+                "en": "Beautiful afternoon panoramic views."
+              }
+            },
+            {
+              "name": "Santuario de Regla",
+              "tip_5lang": {
+                "de": "Besuch der Schwarzen Madonna.",
+                "hu": "A Fekete Madonna meglátogatása.",
+                "ro": "Vizitați Madona Neagră.",
+                "en": "Visit the Black Madonna inside."
+              }
+            },
+            {
+              "name": "Playa de Regla",
+              "tip_5lang": {
+                "de": "Letztes Bad des Tages.",
+                "hu": "A nap utolsó csobbanása.",
+                "ro": "Ultima baie a zilei.",
+                "en": "The final swim of the day."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Langostinos de Sanlúcar",
+                "tip": "Die besten Riesengarnelen der Welt."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Langostinos de Sanlúcar",
+                "tip": "A világ legjobb óriás garnélarákjai."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Langostinos de Sanlúcar",
+                "tip": "Cei mai buni creveți gigant din lume."
+              }
+            ],
+            "en": [
+              {
+                "name": "Langostinos de Sanlúcar",
+                "tip": "World-famous king prawns from the region."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Costa Ballena",
+                "tip": "Ruhigerer Strandabschnitt südlich.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Costa Ballena",
+                "tip": "Csendesebb strand szakasz délebbre.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Costa Ballena",
+                "tip": "Zonă de plajă mai liniștită la sud.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Costa Ballena",
+                "tip": "A quieter beach area just south of town.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Bodegas de Sanlúcar",
+                "tip": "Manzanilla-Wein zum Mitnehmen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Bodegas de Sanlúcar",
+                "tip": "Manzanilla bor vásárlása."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Bodegas de Sanlúcar",
+                "tip": "Vin Manzanilla de luat acasă."
+              }
+            ],
+            "en": [
+              {
+                "name": "Bodegas de Sanlúcar",
+                "tip": "Buy some Manzanilla wine to take home."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Nutzen Sie die Parkplätze am Hafen.",
+              "Die Küstenstraße ist sehr sehenswert.",
+              "Sanlúcar ist mittags sehr belebt.",
+              "In Chipiona ist vieles fußläufig erreichbar."
+            ],
+            "hu": [
+              "Használja a kikötői parkolókat.",
+              "A part menti út nagyon látványos.",
+              "Sanlúcar délidőben nagyon forgalmas.",
+              "Chipionán belül sok minden gyalog is elérhető."
+            ],
+            "ro": [
+              "Folosiți parcările din zona portului.",
+              "Drumul de coastă merită parcurs.",
+              "Sanlúcar este foarte animat la prânz.",
+              "Multe atracții din Chipiona sunt pietonale."
+            ],
+            "en": [
+              "Use the parking lots near the harbor.",
+              "The coastal road offers beautiful views.",
+              "Sanlúcar is very busy at lunchtime.",
+              "Within Chipiona, many sites are pedestrian-friendly."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir starten trocken am Monumento a Rocío Jurado. Mit dem Auto geht es bequem zum Castillo, wo wir direkt in der Nähe parken, um dem Regen zu entgehen.\n\nMittags führt die Fahrt nach Sanlúcar de Barrameda; ideal, um bei einer Sherry-Probe im Trockenen zu verweilen. Danach kehren wir zum Faro von Chipiona zurück.\n\nDer Nachmittag endet am Santuario und der Playa de Regla. Vom warmen Auto aus genießen wir den Blick auf die tosende Brandung. Ein komfortabler Tag trotz schlechtem Wetter.",
+            "hu": "Szárazon indulunk Rocío Jurado emlékművétől. Autóval kényelmesen jutunk a várhoz, ahol közvetlen közel parkolunk, hogy elkerüljük az esőt.\n\nDélben Sanlúcar de Barrameda felé autózunk; ideális hely egy sherry-kóstolóra a fedett pincékben. Ezután visszatérünk a chipionai világítótoronyhoz.\n\nA nap a kegyhelyen és a Regla-parton zárul. A meleg autóból figyeljük a tajtékzó hullámokat. Kényelmes nap a rossz idő ellenére is.",
+            "ro": "Pornim la uscat de la Monumentul Rocío Jurado. Cu mașina ajungem confortabil la castel, parcând chiar lângă pentru a evita ploaia.\n\nLa prânz mergem spre Sanlúcar de Barrameda; un loc ideal pentru o degustare de sherry la adăpost. Apoi ne întoarcem la farul din Chipiona.\n\nZiua se încheie la sanctuar și pe plaja Regla. Din mașina călduroasă admirăm marea agitată. O zi confortabilă în ciuda vremii nefavorabile.",
+            "en": "We start dry at the Rocío Jurado monument. By car, we easily reach the castle, parking nearby to avoid the rain.\n\nAt noon, the drive leads to Sanlúcar de Barrameda; perfect for staying dry while enjoying a sherry tasting. Then we return to the Chipiona lighthouse.\n\nThe afternoon ends at the sanctuary and Playa de Regla. From the warm car, we enjoy the view of the roaring surf. A comfortable day despite the weather."
+          },
+          "stops": [
+            {
+              "name": "Monumento a Rocío Jurado",
+              "tip_5lang": {
+                "de": "Ein kurzer Fotostopp reicht hier völlig aus, wenn es regnet.",
+                "hu": "Egy rövid fotómegálló itt bőven elég, ha esik.",
+                "ro": "O scurtă oprire pentru poze este suficientă dacă plouă.",
+                "en": "A quick photo stop is enough here if it's raining."
+              }
+            },
+            {
+              "name": "Castillo de Chipiona",
+              "tip_5lang": {
+                "de": "Suchen Sie Parkplätze in den umliegenden Straßen für kurze Wege.",
+                "hu": "Keressen parkolót a környező utcákban a rövid gyalogút érdekében.",
+                "ro": "Căutați locuri de parcare în străzile adiacente pentru distanțe scurte.",
+                "en": "Look for parking in the surrounding streets to keep walking minimal."
+              }
+            },
+            {
+              "name": "Sanlúcar de Barrameda",
+              "tip_5lang": {
+                "de": "Besuchen Sie eine Bodega; das ist die beste Indoor-Aktivität hier.",
+                "hu": "Látogasson meg egy bodegát; ez a legjobb beltéri program itt.",
+                "ro": "Vizitați o bodegă; este cea mai bună activitate de interior aici.",
+                "en": "Visit a bodega; it's the best indoor activity here."
+              }
+            },
+            {
+              "name": "Faro de Chipiona",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Sichtverhältnisse vor dem Ticketkauf.",
+                "hu": "Jegyvásárlás előtt ellenőrizze a látási viszonyokat.",
+                "ro": "Verificați vizibilitatea înainte de a cumpăra biletul.",
+                "en": "Check visibility conditions before purchasing your ticket."
+              }
+            },
+            {
+              "name": "Santuario de Regla",
+              "tip_5lang": {
+                "de": "Es gibt Parkmöglichkeiten direkt an der Promenade vor dem Santuario.",
+                "hu": "Közvetlenül a kegyhely előtti sétányon is van parkolási lehetőség.",
+                "ro": "Există locuri de parcare chiar pe faleză, în fața sanctuarului.",
+                "en": "There are parking options directly on the promenade in front of the sanctuary."
+              }
+            },
+            {
+              "name": "Playa de Regla",
+              "tip_5lang": {
+                "de": "Bleiben Sie im Auto und beobachten Sie das stürmische Meer.",
+                "hu": "Maradjon az autóban, és onnan figyelje a viharos tengert.",
+                "ro": "Rămâneți în mașină și observați marea furtunoasă.",
+                "en": "Stay in the car and watch the stormy sea from comfort."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Pfützen in Küstennähe; diese können tief sein.",
+              "Die Sichtverhältnisse auf der Straße nach Sanlúcar können bei Regen schlecht sein.",
+              "Nutzen Sie Parkhäuser, um das Ein- und Aussteigen im Trockenen zu ermöglichen.",
+              "Ein kleiner Regenschirm im Seitenfach des Autos ist heute Gold wert."
+            ],
+            "hu": [
+              "Ügyeljen a tócsákra a part közelében; ezek mélyek lehetnek.",
+              "A látási viszonyok a Sanlúcar felé vezető úton esőben rosszak lehetnek.",
+              "Használjon parkolóházakat a szárazabb ki- és beszállás érdekében.",
+              "Egy kis esernyő az autó oldalzsebében ma aranyat ér."
+            ],
+            "ro": [
+              "Atenție la bălțile de lângă coastă; pot fi adânci.",
+              "Vizibilitatea pe drumul spre Sanlúcar poate fi redusă pe ploaie.",
+              "Folosiți parcări acoperite pentru a urca și coborî din mașină la uscat.",
+              "O umbrelă mică în portiera mașinii valorează aur astăzi."
+            ],
+            "en": [
+              "Watch out for deep puddles near the coast.",
+              "Visibility on the road to Sanlúcar can be poor during heavy rain.",
+              "Use parking garages for drier entries and exits from the vehicle.",
+              "A small umbrella in the car's side pocket is worth its weight in gold today."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintertag beginnt am Monumento a Rocío Jurado. Die Fahrt zum Castillo ist kurz, und wir genießen die milde Sonne an der Küste.\n\nMittags erkunden wir Sanlúcar de Barrameda; im Winter ist es hier viel authentischer und weniger überlaufen. Danach Rückfahrt nach Chipiona zum Faro.\n\nDer Nachmittag endet entspannt am Santuario und der Playa de Regla. Wir fangen das letzte Tageslicht ein, bevor es im Auto gemütlich zurückgeht. Ein herrlicher Winterausflug.",
+            "hu": "Tiszta téli nap indul Rocío Jurado emlékművénél. A várhoz vezető út rövid, élvezzük az enyhe napsütést a parton.\n\nDélben felfedezzük Sanlúcar de Barramedát; télen sokkal hitelesebb és kevésbé zsúfolt. Ezután visszatérünk Chipionába a világítótoronyhoz.\n\nA délután pihentetően zárul a kegyhelyen és a Regla-parton. Elkapjuk az utolsó fényeket, mielőtt kényelmesen visszaindulnánk az autóval. Pompás téli kirándulás.",
+            "ro": "O zi senină de iarnă începe la Monumentul Rocío Jurado. Drumul spre castel este scurt și ne bucurăm de soarele blând pe coastă.\n\nLa prânz explorăm Sanlúcar de Barrameda; iarna este mult mai autentic și mai puțin aglomerat. Apoi ne întoarcem în Chipiona la far.\n\nDupă-amiaza se încheie relaxat la sanctuar și pe plaja Regla. Prindem ultima lumină a zilei înainte de a ne întoarce confortabil cu mașina. O excursie de iarnă minunată.",
+            "en": "A clear winter day starts at the Rocío Jurado monument. The drive to the castle is short, and we enjoy the mild sun on the coast.\n\nAt noon, we explore Sanlúcar de Barrameda; in winter, it's much more authentic and less crowded. Then back to Chipiona for the lighthouse.\n\nThe afternoon ends relaxingly at the sanctuary and Playa de Regla. We catch the last light of the day before a cozy drive back. A wonderful winter excursion."
+          },
+          "stops": [
+            {
+              "name": "Monumento a Rocío Jurado",
+              "tip_5lang": {
+                "de": "Im Winter können Sie hier meist direkt davor halten.",
+                "hu": "Télen általában közvetlenül az emlékmű előtt is megállhat.",
+                "ro": "Iarna puteți opri de obicei chiar în fața monumentului.",
+                "en": "In winter, you can usually stop right in front of the monument."
+              }
+            },
+            {
+              "name": "Castillo de Chipiona",
+              "tip_5lang": {
+                "de": "Das Licht am Morgen ist perfekt für Fotos der Festung.",
+                "hu": "A reggeli fények tökéletesek az erőd fotózásához.",
+                "ro": "Lumina dimineții este perfectă pentru fotografiile cu fortăreața.",
+                "en": "The morning light is perfect for photographing the fortress."
+              }
+            },
+            {
+              "name": "Sanlúcar de Barrameda",
+              "tip_5lang": {
+                "de": "Parken Sie nahe der Plaza del Cabildo für einen kurzen Rundgang.",
+                "hu": "Parkoljon a Plaza del Cabildo közelében egy rövid körsétához.",
+                "ro": "Parcați lângă Plaza del Cabildo pentru un scurt tur pietonal.",
+                "en": "Park near Plaza del Cabildo for a quick walk around the center."
+              }
+            },
+            {
+              "name": "Faro de Chipiona",
+              "tip_5lang": {
+                "de": "Parkplätze sind im Winter direkt am Faro problemlos zu finden.",
+                "hu": "Télen közvetlenül a világítótoronynál is könnyű parkolót találni.",
+                "ro": "Locurile de parcare se găsesc ușor iarna chiar lângă far.",
+                "en": "Parking is easy to find directly at the lighthouse in winter."
+              }
+            },
+            {
+              "name": "Santuario de Regla",
+              "tip_5lang": {
+                "de": "Ein Besuch zur ‚Goldenen Stunde‘ lohnt sich hier besonders.",
+                "hu": "Az „aranyórában” tett látogatás itt különösen megéri.",
+                "ro": "O vizită în „ora de aur” merită din plin aici.",
+                "en": "A visit during the 'golden hour' is especially worth it here."
+              }
+            },
+            {
+              "name": "Playa de Regla",
+              "tip_5lang": {
+                "de": "Perfekt für einen kurzen Winterspaziergang am Wasser.",
+                "hu": "Tökéletes egy rövid téli sétához a vízparton.",
+                "ro": "Perfect pentru o scurtă plimbare de iarnă pe malul apei.",
+                "en": "Perfect for a short winter stroll by the water."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Nebensaison für stressfreie Parkplatzsuche.",
+              "Die Heizung im Auto sorgt für angenehme Übergänge zwischen den Stopps.",
+              "In Sanlúcar sind die Restaurants im Winter gemütlicher.",
+              "Nehmen Sie eine Decke für den Sonnenuntergang am Strand mit."
+            ],
+            "hu": [
+              "Használja ki az utószezont a stresszmentes parkolásért.",
+              "Az autó fűtése kellemes átmenetet biztosít a megállók között.",
+              "Sanlúcar éttermei télen sokkal hangulatosabbak.",
+              "Vigyen egy pokrócot a tengerparti naplementéhez."
+            ],
+            "ro": [
+              "Profitate de extrasezon pentru o căutare a locurilor de parcare fără stres.",
+              "Încălzirea mașinii asigură tranziții plăcute între opriri.",
+              "În Sanlúcar, restaurantele sunt mai primitoare iarna.",
+              "Luați o pătură pentru apusul de soare de pe plajă."
+            ],
+            "en": [
+              "Take advantage of the off-season for stress-free parking.",
+              "The car's heater ensures comfortable transitions between stops.",
+              "In Sanlúcar, restaurants are even more inviting in winter.",
+              "Bring a blanket if you plan to watch the sunset on the beach."
+            ]
+          }
+        }
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 5.0,
+      "stop_count": 4,
+      "stops": [
+        {
+          "name": "Castillo de Chipiona",
+          "coords": [
+            -6.4385,
+            36.739
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Zentraler Startpunkt.",
+            "hu": "Központi indulási pont.",
+            "ro": "Punct central de plecare.",
+            "en": "A central starting point in town."
+          }
+        },
+        {
+          "name": "Faro de Chipiona",
+          "coords": [
+            -6.442,
+            36.735
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "11:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Wahrzeichen der Stadt.",
+            "hu": "A város jelképe.",
+            "ro": "Simbolul orașului.",
+            "en": "The main landmark of the city."
+          }
+        },
+        {
+          "name": "Santuario de Regla",
+          "coords": [
+            -6.441,
+            36.73
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Direkt am Meer gelegen.",
+            "hu": "Közvetlenül a tengerparton fekszik.",
+            "ro": "Situat chiar pe malul mării.",
+            "en": "Located right on the seafront."
+          }
+        },
+        {
+          "name": "Playa de Regla",
+          "coords": [
+            -6.445,
+            36.728
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:50",
+          "stay_min": 220,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Perfekt erreichbarer Strand.",
+            "hu": "Tökéletesen elérhető strand.",
+            "ro": "Plajă perfect accesibilă.",
+            "en": "A perfectly accessible city beach."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Bus oder Taxi erreichen Sie bequem die Altstadt von Chipiona. Der Tag konzentriert sich auf die monumentale Achse von der Burg zum Heiligtum.\r\nNach der Besichtigung des Faro haben Sie Zeit für ein Mittagessen in einer der vielen Bodegas im Zentrum. Der Nachmittag gehört dem Strandvergnügen am Playa de Regla.\r\nAlles ist nah beieinander, was diesen Modus sehr entspannt macht.",
+        "hu": "Busszal vagy taxival kényelmesen elérheti Chipiona óvárosát. A nap a vártól a kegyhelyig tartó monumentális tengelyre összpontosít.\r\nA világítótorony után jut idő egy ebédre a központ számos bormérése egyikében. A délutánt a Playa de Regla strandján töltheti.\r\nMinden közel van egymáshoz, ami ezt a módot rendkívül pihentetővé teszi.",
+        "ro": "Cu autobuzul sau taxiul ajungeți confortabil în centrul vechi din Chipiona. Ziua se concentrează pe axa monumentală de la castel la sanctuar.\r\nDupă vizitarea farului, aveți timp pentru un prânz într-una dintre numeroasele bodegi din centru. După-amiaza aparține relaxării pe plaja Regla.\r\nToate atracțiile sunt aproape una de alta, ceea ce face acest mod de călătorie foarte relaxant.",
+        "en": "By bus or taxi, you can easily reach the old town of Chipiona. The day focuses on the monumental axis from the castle to the sanctuary.\r\nAfter the lighthouse visit, enjoy lunch in one of the many wine cellars (bodegas) in the center. Spend the afternoon enjoying the Playa de Regla.\r\nEverything is close together, making this mode of travel very relaxed and stress-free."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pescaito Frito",
+            "tip": "Gemischter frittierter Fisch im Zentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pescaito Frito",
+            "tip": "Vegyes sült hal a központban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pescaito Frito",
+            "tip": "Pește prăjit mixt în centru."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pescaito Frito",
+            "tip": "Assorted fried fish, a classic local dish."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Playa de las Canteras",
+            "tip": "Ruhigerer Strand hinter dem Leuchtturm.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Playa de las Canteras",
+            "tip": "Csendesebb strand a világítótorony mögött.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Playa de las Canteras",
+            "tip": "Plajă mai liniștită în spatele farului.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Playa de las Canteras",
+            "tip": "A quieter beach located just behind the lighthouse.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Calle Isaac Peral",
+            "tip": "Haupteinkaufsstraße mit lokalem Flair."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Calle Isaac Peral",
+            "tip": "Fő bevásárlóutca helyi hangulattal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Calle Isaac Peral",
+            "tip": "Strada comercială principală cu farmec local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Calle Isaac Peral",
+            "tip": "The main shopping street with local charm."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Taxis sind innerhalb der Stadt günstig.",
+          "Die Busstation liegt etwas außerhalb.",
+          "Nutzen Sie die App für Buszeiten.",
+          "Trinkwasser am Paseo verfügbar."
+        ],
+        "hu": [
+          "A taxik városon belül olcsóak.",
+          "A buszállomás kicsit kijjebb esik.",
+          "Használja az alkalmazást a menetrendhez.",
+          "Ivóvíz elérhető a sétányon."
+        ],
+        "ro": [
+          "Taxiurile sunt ieftine în interiorul orașului.",
+          "Stația de autobuz este puțin în afara centrului.",
+          "Folosiți aplicația pentru orarul autobuzelor.",
+          "Apă potabilă disponibilă pe faleză."
+        ],
+        "en": [
+          "Taxis are quite affordable within the city.",
+          "The main bus station is slightly outside the center.",
+          "Use a local app for bus schedules.",
+          "Drinking water is available on the promenade."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mit dem Bus oder Taxi erreichen Sie bequem die Altstadt von Chipiona. Der Tag konzentriert sich auf die monumentale Achse von der Burg zum Heiligtum.\r\nNach der Besichtigung des Faro haben Sie Zeit für ein Mittagessen in einer der vielen Bodegas im Zentrum. Der Nachmittag gehört dem Strandvergnügen am Playa de Regla.\r\nAlles ist nah beieinander, was diesen Modus sehr entspannt macht.",
+            "hu": "Busszal vagy taxival kényelmesen elérheti Chipiona óvárosát. A nap a vártól a kegyhelyig tartó monumentális tengelyre összpontosít.\r\nA világítótorony után jut idő egy ebédre a központ számos bormérése egyikében. A délutánt a Playa de Regla strandján töltheti.\r\nMinden közel van egymáshoz, ami ezt a módot rendkívül pihentetővé teszi.",
+            "ro": "Cu autobuzul sau taxiul ajungeți confortabil în centrul vechi din Chipiona. Ziua se concentrează pe axa monumentală de la castel la sanctuar.\r\nDupă vizitarea farului, aveți timp pentru un prânz într-una dintre numeroasele bodegi din centru. După-amiaza aparține relaxării pe plaja Regla.\r\nToate atracțiile sunt aproape una de alta, ceea ce face acest mod de călătorie foarte relaxant.",
+            "en": "By bus or taxi, you can easily reach the old town of Chipiona. The day focuses on the monumental axis from the castle to the sanctuary.\r\nAfter the lighthouse visit, enjoy lunch in one of the many wine cellars (bodegas) in the center. Spend the afternoon enjoying the Playa de Regla.\r\nEverything is close together, making this mode of travel very relaxed and stress-free."
+          },
+          "stops": [
+            {
+              "name": "Castillo de Chipiona",
+              "tip_5lang": {
+                "de": "Zentraler Startpunkt.",
+                "hu": "Központi indulási pont.",
+                "ro": "Punct central de plecare.",
+                "en": "A central starting point in town."
+              }
+            },
+            {
+              "name": "Faro de Chipiona",
+              "tip_5lang": {
+                "de": "Wahrzeichen der Stadt.",
+                "hu": "A város jelképe.",
+                "ro": "Simbolul orașului.",
+                "en": "The main landmark of the city."
+              }
+            },
+            {
+              "name": "Santuario de Regla",
+              "tip_5lang": {
+                "de": "Direkt am Meer gelegen.",
+                "hu": "Közvetlenül a tengerparton fekszik.",
+                "ro": "Situat chiar pe malul mării.",
+                "en": "Located right on the seafront."
+              }
+            },
+            {
+              "name": "Playa de Regla",
+              "tip_5lang": {
+                "de": "Perfekt erreichbarer Strand.",
+                "hu": "Tökéletesen elérhető strand.",
+                "ro": "Plajă perfect accesibilă.",
+                "en": "A perfectly accessible city beach."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Pescaito Frito",
+                "tip": "Gemischter frittierter Fisch im Zentrum."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Pescaito Frito",
+                "tip": "Vegyes sült hal a központban."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Pescaito Frito",
+                "tip": "Pește prăjit mixt în centru."
+              }
+            ],
+            "en": [
+              {
+                "name": "Pescaito Frito",
+                "tip": "Assorted fried fish, a classic local dish."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Playa de las Canteras",
+                "tip": "Ruhigerer Strand hinter dem Leuchtturm.",
+                "emoji": "🍃"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Playa de las Canteras",
+                "tip": "Csendesebb strand a világítótorony mögött.",
+                "emoji": "🍃"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Playa de las Canteras",
+                "tip": "Plajă mai liniștită în spatele farului.",
+                "emoji": "🍃"
+              }
+            ],
+            "en": [
+              {
+                "name": "Playa de las Canteras",
+                "tip": "A quieter beach located just behind the lighthouse.",
+                "emoji": "🍃"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Calle Isaac Peral",
+                "tip": "Haupteinkaufsstraße mit lokalem Flair."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Calle Isaac Peral",
+                "tip": "Fő bevásárlóutca helyi hangulattal."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Calle Isaac Peral",
+                "tip": "Strada comercială principală cu farmec local."
+              }
+            ],
+            "en": [
+              {
+                "name": "Calle Isaac Peral",
+                "tip": "The main shopping street with local charm."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Taxis sind innerhalb der Stadt günstig.",
+              "Die Busstation liegt etwas außerhalb.",
+              "Nutzen Sie die App für Buszeiten.",
+              "Trinkwasser am Paseo verfügbar."
+            ],
+            "hu": [
+              "A taxik városon belül olcsóak.",
+              "A buszállomás kicsit kijjebb esik.",
+              "Használja az alkalmazást a menetrendhez.",
+              "Ivóvíz elérhető a sétányon."
+            ],
+            "ro": [
+              "Taxiurile sunt ieftine în interiorul orașului.",
+              "Stația de autobuz este puțin în afara centrului.",
+              "Folosiți aplicația pentru orarul autobuzelor.",
+              "Apă potabilă disponibilă pe faleză."
+            ],
+            "en": [
+              "Taxis are quite affordable within the city.",
+              "The main bus station is slightly outside the center.",
+              "Use a local app for bus schedules.",
+              "Drinking water is available on the promenade."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir starten am Castillo; die Bushaltestellen bieten Schutz beim Warten. Mittags geht es zum Faro, wobei wir die kurzen Wege zwischen Haltestelle und Ziel nutzen.\n\nDer Nachmittag führt zum Santuario de Regla. Die überdachten Bereiche der Anlage sind ideal bei Regen. Danach ein kurzer Blick auf die stürmische Playa de Regla.\n\nDer Abend endet mit der Rückfahrt im Bus, während der Regen gegen die Scheiben peitscht. Ein entschleunigter Tag mit Blick aus dem Fenster.",
+            "hu": "A várnál kezdünk; a buszmegállók fedele védelmet nyújt várakozás közben. Délben a világítótoronyhoz megyünk, kihasználva a megálló és a cél közötti rövid távot.\n\nDélután a kegyhelyhez látogatunk. Az épületegyüttes fedett részei ideálisak esőben. Ezután vetünk egy pillantást a viharos Regla-partra.\n\nA nap buszos visszautazással zárul, miközben az eső veri az ablakot. Lassabb tempójú nap, ablakból szemlélt tájjal.",
+            "ro": "Începem la castel; stațiile de autobuz oferă protecție în timp ce așteptăm. La prânz mergem la far, profitând de distanțele scurte de la stație.\n\nDupă-amiaza vizităm sanctuarul. Zonele acoperite ale complexului sunt ideale pe ploaie. Apoi, o scurtă privire spre plaja Regla agitată.\n\nSeara se încheie cu drumul de întoarcere cu autobuzul, în timp ce ploaia bate în geamuri. O zi relaxată, privind peisajul pe fereastră.",
+            "en": "We start at the castle; bus stops provide shelter while waiting. At noon, we head to the lighthouse, taking advantage of short distances from the stops.\n\nThe afternoon leads to the sanctuary. Its covered areas are perfect during rain. Then, a quick look at the stormy Playa de Regla.\n\nThe evening ends with a bus ride back as rain lashes against the windows. A slow-paced day enjoying the view from the window."
+          },
+          "stops": [
+            {
+              "name": "Castillo de Chipiona",
+              "tip_5lang": {
+                "de": "Die nächste Haltestelle ist nur wenige Gehminuten entfernt.",
+                "hu": "A legközelebbi megálló csak pár perc sétára van.",
+                "ro": "Cea mai apropiată stație este la doar câteva minute de mers pe jos.",
+                "en": "The nearest bus stop is just a few minutes' walk away."
+              }
+            },
+            {
+              "name": "Faro de Chipiona",
+              "tip_5lang": {
+                "de": "Warten Sie in einem nahen Café, falls der Bus Verspätung hat.",
+                "hu": "Várjon egy közeli kávézóban, ha késik a busz.",
+                "ro": "Așteptați într-o cafenea din apropiere dacă autobuzul întârzie.",
+                "en": "Wait in a nearby cafe if the bus is running late."
+              }
+            },
+            {
+              "name": "Santuario de Regla",
+              "tip_5lang": {
+                "de": "Die Haltestelle befindet sich fast direkt vor dem Haupteingang.",
+                "hu": "A megálló szinte közvetlenül a főbejárat előtt található.",
+                "ro": "Stația se află aproape direct în fața intrării principale.",
+                "en": "The stop is located almost directly in front of the main entrance."
+              }
+            },
+            {
+              "name": "Playa de Regla",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Bus für den Rückweg, um nicht im Regen laufen zu müssen.",
+                "hu": "Használja a buszt a visszaúthoz, hogy ne kelljen esőben gyalogolnia.",
+                "ro": "Folosiți autobuzul pentru întoarcere pentru a nu merge prin ploaie.",
+                "en": "Use the bus for the return trip to avoid walking in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie die Fahrpläne vorab, da Regen den Verkehr verzögern kann.",
+              "Halten Sie Kleingeld oder eine Karte für das Ticket bereit.",
+              "Die Busse sind meist gut klimatisiert und trocken.",
+              "Suchen Sie Haltestellen mit festem Unterstand."
+            ],
+            "hu": [
+              "Előre ellenőrizze a menetrendet, mert az eső lassíthatja a forgalmat.",
+              "Készítsen elő aprópénzt vagy kártyát a jegyhez.",
+              "A buszok általában jól klimatizáltak és szárazak.",
+              "Keresse a fedett váróval rendelkező megállókat."
+            ],
+            "ro": [
+              "Verificați programul în avans, deoarece ploaia poate întârzia traficul.",
+              "Pregătiți bani mărunți sau cardul pentru bilet.",
+              "Autobuzele sunt de obicei bine climatizate și uscate.",
+              "Căutați stații cu adăpost solid."
+            ],
+            "en": [
+              "Check schedules in advance as rain can cause traffic delays.",
+              "Have small change or a card ready for the ticket.",
+              "Buses are usually well-ventilated and remain dry.",
+              "Look for bus stops that have a proper shelter."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein ruhiger Wintermorgen am Castillo. Die Busfahrt durch Chipiona ist entspannt, da weniger Touristen unterwegs sind.\n\nMittags erreichen wir den Faro. Die klare Winterluft macht die Fahrt an der Küste entlang besonders schön. Weiter geht es zum Santuario de Regla.\n\nDer Nachmittag an der Playa de Regla endet mit dem Sonnenuntergang. Wir nehmen den letzten bequemen Bus zurück, bevor es kühl wird. Ein friedlicher Tag mit lokalen Einblicken.",
+            "hu": "Csendes téli reggel a várnál. A buszozás Chipionában ilyenkor nyugodt, mivel kevesebb a turista.\n\nDélben elérjük a világítótoronyt. A tiszta téli levegő különösen széppé teszi a parti utazást. Továbbmegyünk a kegyhelyhez.\n\nA délután a Regla-parton a naplementével zárul. Az utolsó kényelmes busszal indulunk vissza, mielőtt lehűlne az idő. Békés nap helyi hangulatban.",
+            "ro": "O dimineață liniștită de iarnă la castel. Drumul cu autobuzul prin Chipiona este relaxat, fiind mai puțini turiști.\n\nLa prânz ajungem la far. Aerul curat de iarnă face călătoria de-a lungul coastei deosebit de frumoasă. Continuăm spre sanctuar.\n\nDupă-amiaza pe plaja Regla se încheie cu apusul soarelui. Luăm ultimul autobuz confortabil înapoi înainte de a se lăsa frigul. O zi pașnică cu o atmosferă locală.",
+            "en": "A quiet winter morning at the castle. The bus ride through Chipiona is relaxed as there are fewer tourists around.\n\nAt noon, we reach the lighthouse. The clear winter air makes the coastal ride especially beautiful. We continue to the sanctuary.\n\nThe afternoon at Playa de Regla ends with the sunset. We take the last comfortable bus back before the temperature drops. A peaceful day with a local feel."
+          },
+          "stops": [
+            {
+              "name": "Castillo de Chipiona",
+              "tip_5lang": {
+                "de": "Im Winter sind die Busse oft leerer und man findet leicht einen Fensterplatz.",
+                "hu": "Télen a buszok gyakran üresebbek, könnyen talál ablak melletti helyet.",
+                "ro": "Iarna autobuzele sunt adesea mai goale și găsiți ușor un loc la geam.",
+                "en": "In winter, buses are often less crowded, making it easy to find a window seat."
+              }
+            },
+            {
+              "name": "Faro de Chipiona",
+              "tip_5lang": {
+                "de": "Die Fahrzeit zwischen den Stopps ist im Winter kürzer (weniger Verkehr).",
+                "hu": "A megállók közötti menetidő télen rövidebb a kisebb forgalom miatt.",
+                "ro": "Timpul de parcurs între stații este mai scurt iarna (mai puțin trafic).",
+                "en": "Travel time between stops is shorter in winter due to less traffic."
+              }
+            },
+            {
+              "name": "Santuario de Regla",
+              "tip_5lang": {
+                "de": "Achten Sie auf die Winterfahrpläne; manche Linien fahren seltener.",
+                "hu": "Ügyeljen a téli menetrendre; egyes járatok ritkábban közlekedhetnek.",
+                "ro": "Atenție la orarul de iarnă; unele linii pot circula mai rar.",
+                "en": "Check winter schedules; some lines may run less frequently."
+              }
+            },
+            {
+              "name": "Playa de Regla",
+              "tip_5lang": {
+                "de": "Planen Sie die Rückfahrt vor 18:30 Uhr ein, wenn es kühler wird.",
+                "hu": "Tervezze a visszautat 18:30 előttre, amikor hűlni kezd az idő.",
+                "ro": "Planificați întoarcerea înainte de 18:30, când se face mai frig.",
+                "en": "Plan your return trip before 6:30 PM when the air gets cooler."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterfahrpläne können von den Sommerzeiten abweichen.",
+              "Die Busse sind im Winter angenehm beheizt.",
+              "Nutzen Sie die App des lokalen Verkehrsverbunds für Echtzeit-Infos.",
+              "Kombinieren Sie Transit mit kurzen Spaziergängen für die Wärme."
+            ],
+            "hu": [
+              "A téli menetrend eltérhet a nyáritól.",
+              "A buszok télen kellemesen fűtöttek.",
+              "Használja a helyi közlekedési alkalmazást a valós idejű infókért.",
+              "Kombinálja a tömegközlekedést rövid sétákkal a mozgás öröméért."
+            ],
+            "ro": [
+              "Orarele de iarnă pot diferi de cele de vară.",
+              "Autobuzele sunt încălzite plăcut în timpul iernii.",
+              "Folosiți aplicația locală de transport pentru informații în timp real.",
+              "Combinați transportul public cu scurte plimbări pentru a vă menține cald."
+            ],
+            "en": [
+              "Winter schedules may differ from summer timings.",
+              "Buses are comfortably heated during the winter months.",
+              "Use the local transit app for real-time arrival information.",
+              "Combine transit with short walks to keep moving and stay warm."
+            ]
+          }
+        }
+      }
+    }
+  },
+  "external_resources": {
+    "tourism_office": "https://www.aytochipiona.es/",
+    "transit_official": "https://www.tgcomes.es/",
+    "events": "https://www.aytochipiona.es/agenda",
+    "webcam": "https://www.windy.com/36.737/-6.435",
+    "language_tips": {
+      "de": "Chipiona ist familiäres Sommerziel, fast nur Spanisch. 'Manzanilla' bestellen heißt hier den lokalen Sherry, nicht Kamillentee. 'Langostino de Sanlúcar' ist die Spezialität – aussprechen und probieren.",
+      "hu": "Chipiona családi spanyol nyaralóhely, szinte csak spanyol szót hallasz. A 'manzanilla' itt a helyi sherry, nem kamillatea, így rendeld bátran. A 'langostino de Sanlúcar' a környék specialitása, mondd ki és kóstold meg.",
+      "ro": "Chipiona e destinație de familie spaniolă, aproape doar spaniolă. 'Manzanilla' aici înseamnă sherry local, nu ceai de mușețel. 'Langostino de Sanlúcar' e specialitatea zonei – pronunță și gustă.",
+      "en": "Chipiona is a family Spanish resort, almost no English. 'Manzanilla' here means the local sherry, not chamomile tea. 'Langostino de Sanlúcar' is the local prawn speciality – say it and eat it."
+    },
+    "best_time_to_visit": {
+      "de": "Juni und September: Wasser warm, weniger spanische Familien als im Juli/August. Karwoche zur Wallfahrt nach Regla. Winter mild aber Strandbars meist zu.",
+      "hu": "Június és szeptember: meleg víz, kevesebb spanyol család, mint júliusban-augusztusban. Nagyhéten a Regla zarándoklat hangulatos. Tél enyhe, de a parti bárok többsége zárva.",
+      "ro": "Iunie și septembrie: apă caldă, mai puține familii spaniole decât în iulie-august. Săptămâna Mare pentru pelerinajul la Regla. Iarna e blândă, dar majoritatea barurilor de plajă închise.",
+      "en": "June and September: warm sea, fewer Spanish families than July/August. Holy Week is special for the Regla pilgrimage. Winters are mild but most beach bars shut."
+    },
+    "neighborhood_warnings": {
+      "de": "Sehr sicher, klassisches Familienziel. Im Sommer Vorsicht vor Quallen, manchmal an der Playa de Regla. Parken im Hochsommer zentral fast unmöglich, Park&Ride nutzen.",
+      "hu": "Nagyon biztonságos, klasszikus családi célpont. Nyáron a Playa de Reglánál néha medúzák, figyelj. Csúcsszezonban a központban parkolni szinte lehetetlen, használj Park&Ride-ot.",
+      "ro": "Foarte sigur, destinație clasică de familie. Vara, atenție la meduze pe Playa de Regla uneori. În sezon, parcarea în centru e aproape imposibilă, folosește Park&Ride.",
+      "en": "Very safe, classic family destination. Watch for jellyfish on Playa de Regla in summer. Central parking is nearly impossible at peak – use park-and-ride."
+    }
+  }
+}

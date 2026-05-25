@@ -1,0 +1,2442 @@
+{
+  "city_id": "begur",
+  "anchor": {
+    "name": "Begur",
+    "coords": [
+      3.2078,
+      41.9542
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "15:20",
+      "total_km": 2.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Casc Antic",
+            "hu": "Óváros",
+            "ro": "Centrul Vechi",
+            "en": "Old Town"
+          },
+          "coords": [
+            3.2082,
+            41.9541
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Früher Besuch für die beste Atmosphäre.",
+            "hu": "Kora reggel a leghangulatosabb.",
+            "ro": "Vizitați devreme pentru atmosferă.",
+            "en": "Visit early for the best atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Cases d'Indians",
+            "hu": "Indián-házak",
+            "ro": "Casele Indianos",
+            "en": "Cases d'Indians"
+          },
+          "coords": [
+            3.2072,
+            41.9538
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Achten Sie auf die karibischen Fassaden.",
+            "hu": "Figyelje meg a karibi stílusú homlokzatokat.",
+            "ro": "Observați fațadele în stil caraibian.",
+            "en": "Look for the Caribbean-style facades."
+          }
+        },
+        {
+          "name": {
+            "de": "Església de Sant Pere",
+            "hu": "Szent Péter templom",
+            "ro": "Biserica Sfântul Petru",
+            "en": "Saint Peter Church"
+          },
+          "coords": [
+            3.2085,
+            41.9545
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:30",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Die Akustik im Inneren ist bemerkenswert.",
+            "hu": "A belső akustika figyelemre méltó.",
+            "ro": "Acustica din interior este remarcabilă.",
+            "en": "The acoustics inside are remarkable."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre de Can Marquès",
+            "hu": "Can Marquès torony",
+            "ro": "Turnul Can Marquès",
+            "en": "Can Marquès Tower"
+          },
+          "coords": [
+            3.2091,
+            41.9542
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein gut erhaltener Verteidigungsturm.",
+            "hu": "Egy jól megőrzött védőtorony.",
+            "ro": "Un turn de apărare bine conservat.",
+            "en": "A well-preserved defense tower."
+          }
+        },
+        {
+          "name": {
+            "de": "Castell de Begur",
+            "hu": "Beguri vár",
+            "ro": "Castelul Begur",
+            "en": "Begur Castle"
+          },
+          "coords": [
+            3.2102,
+            41.9551
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bester Panoramablick auf die Costa Brava.",
+            "hu": "A legjobb panoráma a Costa Bravára.",
+            "ro": "Cea mai bună vedere spre Costa Brava.",
+            "en": "Best panoramic view of the Costa Brava."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirador de Sant Ramon",
+            "hu": "Sant Ramon kilátó",
+            "ro": "Miradorul Sant Ramon",
+            "en": "Sant Ramon Viewpoint"
+          },
+          "coords": [
+            3.2061,
+            41.9552
+          ],
+          "category": "natural features",
+          "arrive_at": "13:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Perfekt für Fotos der Altstadt.",
+            "hu": "Tökéletes az óváros fotózásához.",
+            "ro": "Perfect pentru fotografii cu orașul vechi.",
+            "en": "Perfect for photos of the old town."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen im farbenfrohen Casc Antic, wo die Zeit stehen geblieben scheint. Bewundern Sie die prächtigen 'Cases d'Indians', die von Rückkehrern aus Kuba erbaut wurden.\n\nZur Mittagszeit besuchen Sie die gotische Kirche Sant Pere und erklimmen dann den steilen Pfad zum Castell de Begur. Von hier oben haben Sie einen unvergleichlichen Blick auf die Küste.\n\nAm Nachmittag erkunden Sie die alten Verteidigungstürme wie die Torre de Can Marquès, die einst vor Piraten schützten.\n\nBeenden Sie Ihren Spaziergang am Mirador de Sant Ramon, um die goldene Stunde über den Dächern von Begur zu genießen.",
+        "hu": "Kezdje a reggelt a színes óvárosban (Casc Antic), ahol megállt az idő. Csodálja meg a 'Cases d'Indians' villákat, amelyeket a Kubából hazatérő gazdag kereskedők építettek.\n\nEbédidőben látogassa meg a gótikus Szent Péter templomot, majd másszon fel a beguri várba. A csúcsról páratlan kilátás nyílik az egész tengerpartra.\n\nDélután fedezze fel a régi védőtornyokat, mint a Torre de Can Marquès, amelyek egykor a kalózok ellen védtek.\n\nZárja a sétát a Sant Ramon kilátónál, élvezve az óváros feletti aranyló fényeket.",
+        "ro": "Începeți dimineața în centrul vechi colorat (Casc Antic), unde timpul pare să fi stat în loc. Admirați vilele 'Cases d'Indians', construite de negustorii bogați întorși din Cuba.\n\nLa prânz, vizitați biserica gotică Sfântul Petru, apoi urcați pe poteca spre Castelul Begur. De sus, aveți o vedere de neegalat asupra întregii coaste.\n\nDupă-amiaza, explorați vechile turnuri de apărare, precum Torre de Can Marquès, care odinioară protejau orașul de pirați.\n\nÎncheiați plimbarea la Miradorul Sant Ramon, bucurându-vă de ora de aur deasupra acoperișurilor din Begur.",
+        "en": "Start your morning in the colorful Casc Antic, where time seems to stand still. Admire the magnificent 'Cases d'Indians', built by wealthy merchants returning from Cuba.\n\nAt midday, visit the Gothic Church of Sant Pere and then climb the path to Begur Castle. From the top, you have an unparalleled view of the entire coastline.\n\nIn the afternoon, explore the old defense towers like Torre de Can Marquès, which once protected the town from pirates.\n\nFinish your walk at the Sant Ramon Viewpoint, enjoying the golden hour over the rooftops of Begur."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Turandot",
+            "tip": "Kreative mediterrane Küche im Herzen der Stadt."
+          },
+          {
+            "name": "Sa Proa",
+            "tip": "Frischer Fisch direkt von der Küste."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Turandot",
+            "tip": "Kreatív mediterrán konyha a város szívében."
+          },
+          {
+            "name": "Sa Proa",
+            "tip": "Friss halételek közvetlenül a partról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Turandot",
+            "tip": "Bucătărie mediteraneană creativă în inima orașului."
+          },
+          {
+            "name": "Sa Proa",
+            "tip": "Pește proaspăt direct de pe coastă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Turandot",
+            "tip": "Creative Mediterranean cuisine in the heart of town."
+          },
+          {
+            "name": "Sa Proa",
+            "tip": "Fresh fish dishes directly from the coast."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Mirador de Sant Ramon",
+            "tip": "Ruhiger Aussichtspunkt für den Sonnenuntergang.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Altstadtgassen",
+            "tip": "Stille Winkel abseits der Hauptwege.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mirador de Sant Ramon",
+            "tip": "Csendes kilátóhely a naplementéhez.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Óvárosi utcák",
+            "tip": "Csendes zugok a főbb útvonalaktól távol.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mirador de Sant Ramon",
+            "tip": "Punct de observație liniștit pentru apus.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Străzile vechi",
+            "tip": "Colțuri liniștite departe de drumurile principale.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Mirador de Sant Ramon",
+            "tip": "Quiet viewpoint for the sunset.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Old Town Alleys",
+            "tip": "Silent corners away from the main paths.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Begur Keramik",
+            "tip": "Handgefertigte lokale Töpferwaren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Beguri Kerámia",
+            "tip": "Kézzel készült helyi fazekastermékek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ceramică Begur",
+            "tip": "Produse locale de olărit lucrate manual."
+          }
+        ],
+        "en": [
+          {
+            "name": "Begur Ceramics",
+            "tip": "Handcrafted local pottery."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für die steilen Gassen.",
+          "Besuchen Sie das Schloss am späten Nachmittag für besseres Licht.",
+          "Reservieren Sie Restaurants im Voraus."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt a meredek utcák miatt.",
+          "Késő délután látogassa meg a várat a jobb fényekért.",
+          "Érdemes előre asztalt foglalni az éttermekben."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă pentru străzile abrupte.",
+          "Vizitați castelul după-amiaza târziu pentru lumină mai bună.",
+          "Rezervați restaurantele în avans."
+        ],
+        "en": [
+          "Wear comfortable shoes for the steep streets.",
+          "Visit the castle in the late afternoon for better light.",
+          "Book restaurants in advance."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Morgen im farbenfrohen Casc Antic, wo die Zeit stehen geblieben scheint. Bewundern Sie die prächtigen 'Cases d'Indians', die von Rückkehrern aus Kuba erbaut wurden.\n\nZur Mittagszeit besuchen Sie die gotische Kirche Sant Pere und erklimmen dann den steilen Pfad zum Castell de Begur. Von hier oben haben Sie einen unvergleichlichen Blick auf die Küste.\n\nAm Nachmittag erkunden Sie die alten Verteidigungstürme wie die Torre de Can Marquès, die einst vor Piraten schützten.\n\nBeenden Sie Ihren Spaziergang am Mirador de Sant Ramon, um die goldene Stunde über den Dächern von Begur zu genießen.",
+            "hu": "Kezdje a reggelt a színes óvárosban (Casc Antic), ahol megállt az idő. Csodálja meg a 'Cases d'Indians' villákat, amelyeket a Kubából hazatérő gazdag kereskedők építettek.\n\nEbédidőben látogassa meg a gótikus Szent Péter templomot, majd másszon fel a beguri várba. A csúcsról páratlan kilátás nyílik az egész tengerpartra.\n\nDélután fedezze fel a régi védőtornyokat, mint a Torre de Can Marquès, amelyek egykor a kalózok ellen védtek.\n\nZárja a sétát a Sant Ramon kilátónál, élvezve az óváros feletti aranyló fényeket.",
+            "ro": "Începeți dimineața în centrul vechi colorat (Casc Antic), unde timpul pare să fi stat în loc. Admirați vilele 'Cases d'Indians', construite de negustorii bogați întorși din Cuba.\n\nLa prânz, vizitați biserica gotică Sfântul Petru, apoi urcați pe poteca spre Castelul Begur. De sus, aveți o vedere de neegalat asupra întregii coaste.\n\nDupă-amiaza, explorați vechile turnuri de apărare, precum Torre de Can Marquès, care odinioară protejau orașul de pirați.\n\nÎncheiați plimbarea la Miradorul Sant Ramon, bucurându-vă de ora de aur deasupra acoperișurilor din Begur.",
+            "en": "Start your morning in the colorful Casc Antic, where time seems to stand still. Admire the magnificent 'Cases d'Indians', built by wealthy merchants returning from Cuba.\n\nAt midday, visit the Gothic Church of Sant Pere and then climb the path to Begur Castle. From the top, you have an unparalleled view of the entire coastline.\n\nIn the afternoon, explore the old defense towers like Torre de Can Marquès, which once protected the town from pirates.\n\nFinish your walk at the Sant Ramon Viewpoint, enjoying the golden hour over the rooftops of Begur."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Casc Antic",
+                "hu": "Óváros",
+                "ro": "Centrul Vechi",
+                "en": "Old Town"
+              },
+              "tip_5lang": {
+                "de": "Früher Besuch für die beste Atmosphäre.",
+                "hu": "Kora reggel a leghangulatosabb.",
+                "ro": "Vizitați devreme pentru atmosferă.",
+                "en": "Visit early for the best atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Cases d'Indians",
+                "hu": "Indián-házak",
+                "ro": "Casele Indianos",
+                "en": "Cases d'Indians"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf die karibischen Fassaden.",
+                "hu": "Figyelje meg a karibi stílusú homlokzatokat.",
+                "ro": "Observați fațadele în stil caraibian.",
+                "en": "Look for the Caribbean-style facades."
+              }
+            },
+            {
+              "name": {
+                "de": "Església de Sant Pere",
+                "hu": "Szent Péter templom",
+                "ro": "Biserica Sfântul Petru",
+                "en": "Saint Peter Church"
+              },
+              "tip_5lang": {
+                "de": "Die Akustik im Inneren ist bemerkenswert.",
+                "hu": "A belső akustika figyelemre méltó.",
+                "ro": "Acustica din interior este remarcabilă.",
+                "en": "The acoustics inside are remarkable."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre de Can Marquès",
+                "hu": "Can Marquès torony",
+                "ro": "Turnul Can Marquès",
+                "en": "Can Marquès Tower"
+              },
+              "tip_5lang": {
+                "de": "Ein gut erhaltener Verteidigungsturm.",
+                "hu": "Egy jól megőrzött védőtorony.",
+                "ro": "Un turn de apărare bine conservat.",
+                "en": "A well-preserved defense tower."
+              }
+            },
+            {
+              "name": {
+                "de": "Castell de Begur",
+                "hu": "Beguri vár",
+                "ro": "Castelul Begur",
+                "en": "Begur Castle"
+              },
+              "tip_5lang": {
+                "de": "Bester Panoramablick auf die Costa Brava.",
+                "hu": "A legjobb panoráma a Costa Bravára.",
+                "ro": "Cea mai bună vedere spre Costa Brava.",
+                "en": "Best panoramic view of the Costa Brava."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador de Sant Ramon",
+                "hu": "Sant Ramon kilátó",
+                "ro": "Miradorul Sant Ramon",
+                "en": "Sant Ramon Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Perfekt für Fotos der Altstadt.",
+                "hu": "Tökéletes az óváros fotózásához.",
+                "ro": "Perfect pentru fotografii cu orașul vechi.",
+                "en": "Perfect for photos of the old town."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Turandot",
+                "tip": "Kreative mediterrane Küche im Herzen der Stadt."
+              },
+              {
+                "name": "Sa Proa",
+                "tip": "Frischer Fisch direkt von der Küste."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Turandot",
+                "tip": "Kreatív mediterrán konyha a város szívében."
+              },
+              {
+                "name": "Sa Proa",
+                "tip": "Friss halételek közvetlenül a partról."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Turandot",
+                "tip": "Bucătărie mediteraneană creativă în inima orașului."
+              },
+              {
+                "name": "Sa Proa",
+                "tip": "Pește proaspăt direct de pe coastă."
+              }
+            ],
+            "en": [
+              {
+                "name": "Turandot",
+                "tip": "Creative Mediterranean cuisine in the heart of town."
+              },
+              {
+                "name": "Sa Proa",
+                "tip": "Fresh fish dishes directly from the coast."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Mirador de Sant Ramon",
+                "tip": "Ruhiger Aussichtspunkt für den Sonnenuntergang.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Altstadtgassen",
+                "tip": "Stille Winkel abseits der Hauptwege.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Mirador de Sant Ramon",
+                "tip": "Csendes kilátóhely a naplementéhez.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Óvárosi utcák",
+                "tip": "Csendes zugok a főbb útvonalaktól távol.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Mirador de Sant Ramon",
+                "tip": "Punct de observație liniștit pentru apus.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Străzile vechi",
+                "tip": "Colțuri liniștite departe de drumurile principale.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Mirador de Sant Ramon",
+                "tip": "Quiet viewpoint for the sunset.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Old Town Alleys",
+                "tip": "Silent corners away from the main paths.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Begur Keramik",
+                "tip": "Handgefertigte lokale Töpferwaren."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Beguri Kerámia",
+                "tip": "Kézzel készült helyi fazekastermékek."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Ceramică Begur",
+                "tip": "Produse locale de olărit lucrate manual."
+              }
+            ],
+            "en": [
+              {
+                "name": "Begur Ceramics",
+                "tip": "Handcrafted local pottery."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Tragen Sie bequeme Schuhe für die steilen Gassen.",
+              "Besuchen Sie das Schloss am späten Nachmittag für besseres Licht.",
+              "Reservieren Sie Restaurants im Voraus."
+            ],
+            "hu": [
+              "Viseljen kényelmes cipőt a meredek utcák miatt.",
+              "Késő délután látogassa meg a várat a jobb fényekért.",
+              "Érdemes előre asztalt foglalni az éttermekben."
+            ],
+            "ro": [
+              "Purtați încălțăminte confortabilă pentru străzile abrupte.",
+              "Vizitați castelul după-amiaza târziu pentru lumină mai bună.",
+              "Rezervați restaurantele în avans."
+            ],
+            "en": [
+              "Wear comfortable shoes for the steep streets.",
+              "Visit the castle in the late afternoon for better light.",
+              "Book restaurants in advance."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Morgen in der charmanten Altstadt, wo die engen Gassen Schutz vor dem Nieselregen bieten. Den Mittag verbringen Sie am besten mit der Besichtigung der Kolonialhäuser und der Kirche, indem Sie meist drinnen bleiben. Am Nachmittag trotzen Sie dem Wind auf der Burg für dramatische, neblige Ausblicke über das Meer. Beenden Sie den Tag in einem gemütlichen Bistro im Dorf.",
+            "hu": "Kezdje a reggelt a bájos óvárosban, ahol a szűk utcák védelmet nyújtanak a szemerkélő eső ellen. A delet érdemes a gyarmati házak és a templom meglátogatásával tölteni, fedett helyen maradva. Délután dacoljon a széllel a várnál a ködös, drámai tengeri kilátásért. A napot egy hangulatos falusi bisztróban zárja, nézve a macskakövekre hulló esőt.",
+            "ro": "Începeți dimineața în fermecătorul Centru Vechi, unde aleile înguste oferă protecție împotriva ploii ușoare. Prânzul este cel mai bine petrecut vizitând casele coloniale și biserica, stând mai mult în interior. După-amiaza, înfruntați vântul la castel pentru vederi dramatice și cețoase peste Mediterană. Încheiați ziua într-un bistrou primitor din sat.",
+            "en": "Start your morning in the charming Old Town, where narrow alleys offer some protection from the drizzle. Noon is best spent visiting the colonial houses and the church, staying mostly indoors. In the afternoon, brave the wind at the castle for dramatic, misty views over the Mediterranean. End your day in a cozy village bistro, watching the rain fall on the cobblestones."
+          },
+          "stops": [
+            {
+              "name": "Old Town",
+              "tip_5lang": {
+                "de": "Nutzen Sie die überdachten Bögen.",
+                "hu": "Használja az árkádok fedezékét.",
+                "ro": "Folosiți arcadele acoperite.",
+                "en": "Use the covered arches for shelter."
+              }
+            },
+            {
+              "name": "Cases d'Indians",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Fassaden unterm Schirm.",
+                "hu": "Esernyő alól csodálja a homlokzatokat.",
+                "ro": "Admirați fațadele de sub umbrelă.",
+                "en": "Admire the facades from under an umbrella."
+              }
+            },
+            {
+              "name": "Saint Peter Church",
+              "tip_5lang": {
+                "de": "Perfekter Rückzugsort vor dem Regen.",
+                "hu": "Tökéletes menedék az eső elől.",
+                "ro": "Refugiu perfect împotriva ploii.",
+                "en": "Perfect retreat from the rain."
+              }
+            },
+            {
+              "name": "Can Marquès Tower",
+              "tip_5lang": {
+                "de": "Vorsicht auf nassen Stufen.",
+                "hu": "Vigyázat a vizes lépcsőkön.",
+                "ro": "Atenție la treptele umede.",
+                "en": "Careful on the wet steps."
+              }
+            },
+            {
+              "name": "Begur Castle",
+              "tip_5lang": {
+                "de": "Starker Wind, Regenjacke empfohlen.",
+                "hu": "Erős szél, esőkabát ajánlott.",
+                "ro": "Vânt puternic, pelerină recomandată.",
+                "en": "Strong wind, raincoat recommended."
+              }
+            },
+            {
+              "name": "Sant Ramon Viewpoint",
+              "tip_5lang": {
+                "de": "Kurzer Blick auf die neblige Küste.",
+                "hu": "Gyors pillantás a ködös partra.",
+                "ro": "Scurtă privire spre coasta cețoasă.",
+                "en": "Quick look at the misty coast."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe für das Kopfsteinpflaster.",
+              "Ein stabiler Schirm ist wegen des Windes nötig.",
+              "Besuchen Sie die Cafés in der Carrer de Pi i Ralló.",
+              "Das Kulturzentrum bietet oft trockene Ausstellungen."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt a macskakövek miatt.",
+              "Erős esernyő kell a szél miatt.",
+              "Látogassa meg a Carrer de Pi i Ralló kávézóit.",
+              "A kulturális központ gyakran kínál fedett kiállításokat."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă pentru pavaj.",
+              "E nevoie de o umbrelă solidă din cauza vântului.",
+              "Vizitați cafenelele de pe Carrer de Pi i Ralló.",
+              "Centrul cultural oferă adesea expoziții la adăpost."
+            ],
+            "en": [
+              "Wear waterproof shoes for the cobblestones.",
+              "A sturdy umbrella is needed due to the wind.",
+              "Visit the cafes in Carrer de Pi i Ralló.",
+              "The cultural center often offers dry exhibitions."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie die klare Winterluft bei einem Morgenspaziergang durch die ruhige Altstadt. Die Indiano-Häuser leuchten prächtig in der tiefstehenden Sonne. Mittags bietet die Kirche eine kühle, aber friedliche Pause. Der Aufstieg zur Burg am Nachmittag hält Sie warm und belohnt Sie mit einer Fernsicht bis zu den Pyrenäen. Beobachten Sie den frühen Sonnenuntergang vom Aussichtspunkt Sant Ramon.",
+            "hu": "Élvezze a friss téli levegőt egy reggeli séta során a csendes óvárosban. Az Indiai házak ragyognak az alacsonyan járó napfényben. Délben a templom hűvös, de békés pihenőt nyújt. A délutáni várba menetel felmelegíti, és a Pireneusokig tartó kilátással jutalmazza. Nézze meg a korai naplementét a Sant Ramon kilátóból.",
+            "ro": "Bucurați-vă de aerul proaspăt de iarnă la o plimbare matinală prin centrul vechi liniștit. Casele Indianilor strălucesc sub soarele blând. La prânz, biserica oferă un popas răcoros, dar pașnic. Urcarea la castel de după-amiază vă va încălzi și vă va răsplăti cu vederi până la Pirinei. Priviți apusul timpuriu de la belvederea Sant Ramon.",
+            "en": "Enjoy the crisp winter air during a morning stroll through the quiet Old Town. The Indiano houses glow beautifully in the low winter sun. At noon, the church provides a cool but peaceful break. The afternoon climb to the castle keeps you warm and rewards you with views as far as the Pyrenees. Watch the early sunset from the Sant Ramon viewpoint."
+          },
+          "stops": [
+            {
+              "name": "Old Town",
+              "tip_5lang": {
+                "de": "Wenig Touristen, sehr authentisch.",
+                "hu": "Kevés turista, nagyon hiteles.",
+                "ro": "Puțini turiști, foarte autentic.",
+                "en": "Few tourists, very authentic."
+              }
+            },
+            {
+              "name": "Cases d'Indians",
+              "tip_5lang": {
+                "de": "Klares Licht für perfekte Fotos.",
+                "hu": "Tiszta fény a tökéletes fotókhoz.",
+                "ro": "Lumină clară pentru poze perfecte.",
+                "en": "Clear light for perfect photos."
+              }
+            },
+            {
+              "name": "Saint Peter Church",
+              "tip_5lang": {
+                "de": "Innen ist es oft kälter als draußen.",
+                "hu": "Bent gyakran hidegebb van, mint kint.",
+                "ro": "În interior e adesea mai frig ca afară.",
+                "en": "It is often colder inside than outside."
+              }
+            },
+            {
+              "name": "Can Marquès Tower",
+              "tip_5lang": {
+                "de": "Goldene Stunde am Nachmittag nutzen.",
+                "hu": "Használja ki a délutáni aranyórát.",
+                "ro": "Profită de ora de aur de după-amiază.",
+                "en": "Use the afternoon golden hour."
+              }
+            },
+            {
+              "name": "Begur Castle",
+              "tip_5lang": {
+                "de": "Windjacke für den Gipfel nötig.",
+                "hu": "Széldzseki kell a csúcsra.",
+                "ro": "E nevoie de jachetă de vânt sus.",
+                "en": "Windbreaker needed for the summit."
+              }
+            },
+            {
+              "name": "Sant Ramon Viewpoint",
+              "tip_5lang": {
+                "de": "Sonnenuntergang gegen 17:30 Uhr.",
+                "hu": "Naplemente 17:30 körül.",
+                "ro": "Apus de soare în jur de ora 17:30.",
+                "en": "Sunset around 17:30."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Zwiebelprinzip bei der Kleidung anwenden.",
+              "Die Sonne ist stark, Sonnenschutz nutzen.",
+              "Viele Restaurants machen Winterpause.",
+              "Heiße Schokolade in der Plaça de la Vila."
+            ],
+            "hu": [
+              "Öltözzön rétegesen a változó hőérzet miatt.",
+              "A nap erős lehet, használjon fényvédőt.",
+              "Sok étterem téli szünetet tart.",
+              "Igyon forró csokoládét a Plaça de la Vila-n."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi succesive.",
+              "Soarele poate fi puternic, folosiți protecție.",
+              "Multe restaurante au pauză de iarnă.",
+              "Ciocolată caldă în Plaça de la Vila."
+            ],
+            "en": [
+              "Dress in layers for changing temperatures.",
+              "The sun can be strong, use sunscreen.",
+              "Many restaurants take a winter break.",
+              "Hot chocolate in Plaça de la Vila."
+            ]
+          }
+        }
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:15",
+      "total_km": 8.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Casc Antic",
+            "hu": "Óváros",
+            "ro": "Centrul Vechi",
+            "en": "Old Town"
+          },
+          "coords": [
+            3.2082,
+            41.9541
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Starten Sie am Hauptplatz.",
+            "hu": "Kezdje a túrát a főtéren.",
+            "ro": "Începeți turul în piața principală.",
+            "en": "Start your tour at the main square."
+          }
+        },
+        {
+          "name": {
+            "de": "Castell de Begur",
+            "hu": "Beguri vár",
+            "ro": "Castelul Begur",
+            "en": "Begur Castle"
+          },
+          "coords": [
+            3.2102,
+            41.9551
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Kurzer aber steiler Anstieg.",
+            "hu": "Rövid, de meredek emelkedő.",
+            "ro": "Urcare scurtă dar abruptă.",
+            "en": "Short but steep climb."
+          }
+        },
+        {
+          "name": {
+            "de": "Platja de Sa Riera",
+            "hu": "Sa Riera strand",
+            "ro": "Plaja Sa Riera",
+            "en": "Sa Riera Beach"
+          },
+          "coords": [
+            3.2115,
+            41.9722
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:30",
+          "stay_min": 180,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Ideal für eine lange Pause am Meer.",
+            "hu": "Ideális egy hosszú tengerparti pihenőhöz.",
+            "ro": "Ideal pentru o pauză lungă la mare.",
+            "en": "Ideal for a long break by the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirador de Sant Ramon",
+            "hu": "Sant Ramon kilátó",
+            "ro": "Miradorul Sant Ramon",
+            "en": "Sant Ramon Viewpoint"
+          },
+          "coords": [
+            3.2061,
+            41.9552
+          ],
+          "category": "natural features",
+          "arrive_at": "15:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.3,
+          "tip_5lang": {
+            "de": "Rückweg bergauf einplanen.",
+            "hu": "Számoljon a felfelé vezető úttal visszafelé.",
+            "ro": "Planificați drumul în urcare la întoarcere.",
+            "en": "Plan for the uphill ride back."
+          }
+        },
+        {
+          "name": {
+            "de": "Cases d'Indians",
+            "hu": "Indián-házak",
+            "ro": "Casele Indianos",
+            "en": "Cases d'Indians"
+          },
+          "coords": [
+            3.2072,
+            41.9538
+          ],
+          "category": "famous residences",
+          "arrive_at": "15:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Letzter Stopp vor der Rückgabe.",
+            "hu": "Utolsó megálló a bringa leadása előtt.",
+            "ro": "Ultima oprire înainte de returnare.",
+            "en": "Last stop before returning the bike."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Begur und seine Umgebung sportlich mit dem Fahrrad. Nach einem kurzen Stopp in der Altstadt geht es hinauf zum Schloss für den besten Ausblick.\n\nDie Abfahrt zur Platja de Sa Riera ist erfrischend. Genießen Sie dort ein langes Bad im kristallklaren Wasser der Costa Brava.\n\nDer Rückweg in den Ort erfordert etwas Ausdauer, wird aber durch den Besuch des Miradors belohnt.\n\nLassen Sie den Tag entspannt bei den architektonisch beeindruckenden Indianer-Häusern ausklingen.",
+        "hu": "Fedezze fel Begurt és környékét sportosan, kerékpárral. Az óvárosi megálló után tekerjen fel a várba a legjobb kilátásért.\n\nA lejtmenet a Sa Riera strandhoz frissítő élmény lesz. Élvezze a hosszú fürdőzést a Costa Brava kristálytiszta vizében.\n\nA városba visszavezető út kitartást igényel, de a kilátóhely látogatása kárpótolja.\n\nZárja a napot pihentetően az építészetileg lenyűgöző Indián-házak megtekintésével.",
+        "ro": "Explorați Begur și împrejurimile sale într-un mod sportiv, cu bicicleta. După o oprire în centrul vechi, urcați la castel pentru cea mai bună priveliște.\n\nCoborârea spre plaja Sa Riera este revigorantă. Bucurați-vă de o baie lungă în apa cristalină a Costa Brava.\n\nDrumul de întoarcere în oraș necesită ceva efort, dar vizitarea miradorului vă va răsplăti pe măsură.\n\nÎncheiați ziua relaxat, admirând arhitectura impresionantă a Caselor Indianos.",
+        "en": "Explore Begur and its surroundings sportily by bike. After a stop in the old town, ride up to the castle for the best views.\n\nThe descent to Sa Riera beach is refreshing. Enjoy a long swim in the crystal clear waters of the Costa Brava.\n\nThe ride back to town requires some stamina, but the visit to the viewpoint makes it worth it.\n\nEnd the day relaxingly by admiring the architecturally impressive Indianos Houses."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Es Castell",
+            "tip": "Lokale Tapas mit Aussicht."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Es Castell",
+            "tip": "Helyi tapasok kilátással."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Es Castell",
+            "tip": "Tapas locale cu vedere."
+          }
+        ],
+        "en": [
+          {
+            "name": "Es Castell",
+            "tip": "Local tapas with a view."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Cala des Pi",
+            "tip": "Einsame Bucht in der Nähe von Sa Riera.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cala des Pi",
+            "tip": "Elszigetelt öböl Sa Riera közelében.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cala des Pi",
+            "tip": "Golf izolat lângă Sa Riera.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cala des Pi",
+            "tip": "Secluded cove near Sa Riera.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt",
+            "tip": "Regionale Produkte und Kunsthandwerk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heti piac",
+            "tip": "Regionális termékek és kézműves áruk."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală",
+            "tip": "Produse regionale și artizanat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weekly Market",
+            "tip": "Regional products and handicrafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Ein E-Bike wird für die Hügel dringend empfohlen.",
+          "Nehmen Sie ausreichend Wasser mit.",
+          "Achten Sie auf Wanderer auf den Küstenpfaden."
+        ],
+        "hu": [
+          "Az emelkedők miatt e-bike használata erősen ajánlott.",
+          "Vigyen magával elegendő vizet.",
+          "Figyeljen a gyalogosokra a parti ösvényeken."
+        ],
+        "ro": [
+          "Se recomandă o bicicletă electrică pentru dealuri.",
+          "Luați suficientă apă cu voi.",
+          "Atenție la drumeți pe potecile de coastă."
+        ],
+        "en": [
+          "An e-bike is highly recommended for the hills.",
+          "Take enough water with you.",
+          "Watch out for hikers on the coastal paths."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie Begur und seine Umgebung sportlich mit dem Fahrrad. Nach einem kurzen Stopp in der Altstadt geht es hinauf zum Schloss für den besten Ausblick.\n\nDie Abfahrt zur Platja de Sa Riera ist erfrischend. Genießen Sie dort ein langes Bad im kristallklaren Wasser der Costa Brava.\n\nDer Rückweg in den Ort erfordert etwas Ausdauer, wird aber durch den Besuch des Miradors belohnt.\n\nLassen Sie den Tag entspannt bei den architektonisch beeindruckenden Indianer-Häusern ausklingen.",
+            "hu": "Fedezze fel Begurt és környékét sportosan, kerékpárral. Az óvárosi megálló után tekerjen fel a várba a legjobb kilátásért.\n\nA lejtmenet a Sa Riera strandhoz frissítő élmény lesz. Élvezze a hosszú fürdőzést a Costa Brava kristálytiszta vizében.\n\nA városba visszavezető út kitartást igényel, de a kilátóhely látogatása kárpótolja.\n\nZárja a napot pihentetően az építészetileg lenyűgöző Indián-házak megtekintésével.",
+            "ro": "Explorați Begur și împrejurimile sale într-un mod sportiv, cu bicicleta. După o oprire în centrul vechi, urcați la castel pentru cea mai bună priveliște.\n\nCoborârea spre plaja Sa Riera este revigorantă. Bucurați-vă de o baie lungă în apa cristalină a Costa Brava.\n\nDrumul de întoarcere în oraș necesită ceva efort, dar vizitarea miradorului vă va răsplăti pe măsură.\n\nÎncheiați ziua relaxat, admirând arhitectura impresionantă a Caselor Indianos.",
+            "en": "Explore Begur and its surroundings sportily by bike. After a stop in the old town, ride up to the castle for the best views.\n\nThe descent to Sa Riera beach is refreshing. Enjoy a long swim in the crystal clear waters of the Costa Brava.\n\nThe ride back to town requires some stamina, but the visit to the viewpoint makes it worth it.\n\nEnd the day relaxingly by admiring the architecturally impressive Indianos Houses."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Casc Antic",
+                "hu": "Óváros",
+                "ro": "Centrul Vechi",
+                "en": "Old Town"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie am Hauptplatz.",
+                "hu": "Kezdje a túrát a főtéren.",
+                "ro": "Începeți turul în piața principală.",
+                "en": "Start your tour at the main square."
+              }
+            },
+            {
+              "name": {
+                "de": "Castell de Begur",
+                "hu": "Beguri vár",
+                "ro": "Castelul Begur",
+                "en": "Begur Castle"
+              },
+              "tip_5lang": {
+                "de": "Kurzer aber steiler Anstieg.",
+                "hu": "Rövid, de meredek emelkedő.",
+                "ro": "Urcare scurtă dar abruptă.",
+                "en": "Short but steep climb."
+              }
+            },
+            {
+              "name": {
+                "de": "Platja de Sa Riera",
+                "hu": "Sa Riera strand",
+                "ro": "Plaja Sa Riera",
+                "en": "Sa Riera Beach"
+              },
+              "tip_5lang": {
+                "de": "Ideal für eine lange Pause am Meer.",
+                "hu": "Ideális egy hosszú tengerparti pihenőhöz.",
+                "ro": "Ideal pentru o pauză lungă la mare.",
+                "en": "Ideal for a long break by the sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador de Sant Ramon",
+                "hu": "Sant Ramon kilátó",
+                "ro": "Miradorul Sant Ramon",
+                "en": "Sant Ramon Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Rückweg bergauf einplanen.",
+                "hu": "Számoljon a felfelé vezető úttal visszafelé.",
+                "ro": "Planificați drumul în urcare la întoarcere.",
+                "en": "Plan for the uphill ride back."
+              }
+            },
+            {
+              "name": {
+                "de": "Cases d'Indians",
+                "hu": "Indián-házak",
+                "ro": "Casele Indianos",
+                "en": "Cases d'Indians"
+              },
+              "tip_5lang": {
+                "de": "Letzter Stopp vor der Rückgabe.",
+                "hu": "Utolsó megálló a bringa leadása előtt.",
+                "ro": "Ultima oprire înainte de returnare.",
+                "en": "Last stop before returning the bike."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Es Castell",
+                "tip": "Lokale Tapas mit Aussicht."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Es Castell",
+                "tip": "Helyi tapasok kilátással."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Es Castell",
+                "tip": "Tapas locale cu vedere."
+              }
+            ],
+            "en": [
+              {
+                "name": "Es Castell",
+                "tip": "Local tapas with a view."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Cala des Pi",
+                "tip": "Einsame Bucht in der Nähe von Sa Riera.",
+                "emoji": "🍃"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Cala des Pi",
+                "tip": "Elszigetelt öböl Sa Riera közelében.",
+                "emoji": "🍃"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Cala des Pi",
+                "tip": "Golf izolat lângă Sa Riera.",
+                "emoji": "🍃"
+              }
+            ],
+            "en": [
+              {
+                "name": "Cala des Pi",
+                "tip": "Secluded cove near Sa Riera.",
+                "emoji": "🍃"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Wochenmarkt",
+                "tip": "Regionale Produkte und Kunsthandwerk."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Heti piac",
+                "tip": "Regionális termékek és kézműves áruk."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Piața săptămânală",
+                "tip": "Produse regionale și artizanat."
+              }
+            ],
+            "en": [
+              {
+                "name": "Weekly Market",
+                "tip": "Regional products and handicrafts."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Ein E-Bike wird für die Hügel dringend empfohlen.",
+              "Nehmen Sie ausreichend Wasser mit.",
+              "Achten Sie auf Wanderer auf den Küstenpfaden."
+            ],
+            "hu": [
+              "Az emelkedők miatt e-bike használata erősen ajánlott.",
+              "Vigyen magával elegendő vizet.",
+              "Figyeljen a gyalogosokra a parti ösvényeken."
+            ],
+            "ro": [
+              "Se recomandă o bicicletă electrică pentru dealuri.",
+              "Luați suficientă apă cu voi.",
+              "Atenție la drumeți pe potecile de coastă."
+            ],
+            "en": [
+              "An e-bike is highly recommended for the hills.",
+              "Take enough water with you.",
+              "Watch out for hikers on the coastal paths."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine nasse Fahrt durch Begur erfordert Vorsicht auf dem Kopfsteinpflaster. Der Aufstieg zur Burg ist bei Regen rutschig, bietet aber eine mystische Atmosphäre. Mittags führt die Fahrt hinunter zum Strand von Sa Riera, wo das Meer dramatisch tost. Nach einem kurzen Stopp kehren Sie zum Aussichtspunkt zurück, bevor Sie den Tag bei den Kolonialhäusern beenden.",
+            "hu": "A vizes tekerés Begurban óvatosságot igényel a macskaköveken. A várba vezető út esőben csúszós, de misztikus hangulatot áraszt. Délben legurulhat a Sa Riera strandra, ahol a tenger drámai módon morajlik. Rövid megálló után térjen vissza a kilátóhoz, majd zárja a napot a gyarmati házaknál.",
+            "ro": "O plimbare udă prin Begur necesită prudență pe pavaj. Drumul spre castel e alunecos pe ploaie, dar oferă o atmosferă mistică. La prânz, coborâți spre plaja Sa Riera, unde marea vuiește dramatic. După o scurtă oprire, reveniți la belvedere înainte de a încheia ziua la casele coloniale.",
+            "en": "A wet ride through Begur requires caution on the cobblestones. The climb to the castle is slippery in the rain but offers a mystical atmosphere. At noon, ride down to Sa Riera beach, where the sea roars dramatically. After a short stop, return to the viewpoint before ending the day at the colonial houses."
+          },
+          "stops": [
+            {
+              "name": "Old Town",
+              "tip_5lang": {
+                "de": "Vorsicht in engen, nassen Kurven.",
+                "hu": "Vigyázat a szűk, vizes kanyarokban.",
+                "ro": "Atenție în curbele înguste și ude.",
+                "en": "Caution in narrow, wet corners."
+              }
+            },
+            {
+              "name": "Begur Castle",
+              "tip_5lang": {
+                "de": "Schieben Sie das Rad bei starkem Regen.",
+                "hu": "Erős esőben tolja a biciklit.",
+                "ro": "Împingeți bicicleta pe ploaie grea.",
+                "en": "Push the bike in heavy rain."
+              }
+            },
+            {
+              "name": "Sa Riera Beach",
+              "tip_5lang": {
+                "de": "Windgeschützte Plätze am Sandrand.",
+                "hu": "Szélvédett helyek a homok szélén.",
+                "ro": "Locuri ferite de vânt lângă nisip.",
+                "en": "Wind-sheltered spots near the sand."
+              }
+            },
+            {
+              "name": "Sant Ramon Viewpoint",
+              "tip_5lang": {
+                "de": "Boden kann schlammig sein.",
+                "hu": "A talaj sáros lehet.",
+                "ro": "Terenul poate fi noroios.",
+                "en": "The ground may be muddy."
+              }
+            },
+            {
+              "name": "Cases d'Indians",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp im Trockenen.",
+                "hu": "Gyors fotómegálló száraz helyen.",
+                "ro": "Scurt popas foto la adăpost.",
+                "en": "Quick photo stop in the dry."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche sind bei Regen unerlässlich.",
+              "Bremsen Sie frühzeitig auf nassem Stein.",
+              "Tragen Sie eine vollflächige Regenjacke.",
+              "Beleuchtung für bessere Sichtbarkeit nutzen."
+            ],
+            "hu": [
+              "Sárvédő nélkülözhetetlen esőben.",
+              "Fékezzen időben a vizes köveken.",
+              "Viseljen teljes esőruházatot.",
+              "Használjon világítást a láthatóságért."
+            ],
+            "ro": [
+              "Aripile sunt esențiale pe ploaie.",
+              "Frânați din timp pe piatra udă.",
+              "Purtați o jachetă impermeabilă completă.",
+              "Folosiți lumini pentru vizibilitate."
+            ],
+            "en": [
+              "Mudguards are essential in the rain.",
+              "Brake early on wet stones.",
+              "Wear a full waterproof jacket.",
+              "Use lights for better visibility."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine erfrischende Wintertour beginnt in der sonnigen Altstadt. Der steile Anstieg zur Burg ist ideal, um warm zu bleiben. Die Abfahrt nach Sa Riera ist kühl, aber die leeren Strände sind im Winter friedlich. Am Nachmittag geht es zurück zum Sant Ramon Aussichtspunkt für die beste Fernsicht. Beenden Sie Ihre Tour bei den Cases d'Indians, wenn die Temperaturen sinken.",
+            "hu": "Egy frissítő téli túra kezdődik a napsütötte óvárosban. A meredek kaptató a várhoz ideális a bemelegedéshez. A Sa Riera-i lejtő hűvös, de az üres strandok télen békések. Délután térjen vissza a Sant Ramon kilátóhoz a legjobb távoli kilátásért. Zárja a túrát az Indiai házaknál, ahogy a hőmérséklet csökken.",
+            "ro": "O tură revigorantă de iarnă începe în centrul vechi însorit. Urcarea abruptă spre castel e ideală pentru a vă încălzi. Coborârea spre Sa Riera e răcoroasă, dar plajele pustii sunt pașnice iarna. După-amiază, reveniți la Sant Ramon pentru cea mai bună vizibilitate. Încheiați tura la Casele Indianilor când temperaturile scad.",
+            "en": "A refreshing winter tour starts in the sunny Old Town. The steep climb to the castle is ideal for staying warm. The descent to Sa Riera is cool, but the empty beaches are peaceful in winter. In the afternoon, head back to Sant Ramon for the best distant views. End your tour at the Cases d'Indians as temperatures drop."
+          },
+          "stops": [
+            {
+              "name": "Old Town",
+              "tip_5lang": {
+                "de": "Sonnige Plätze zum Aufwärmen suchen.",
+                "hu": "Keressen napos helyeket a melegedéshez.",
+                "ro": "Căutați locuri însorite pentru încălzire.",
+                "en": "Look for sunny spots to warm up."
+              }
+            },
+            {
+              "name": "Begur Castle",
+              "tip_5lang": {
+                "de": "Intensive Sonne am Gipfel nutzen.",
+                "hu": "Használja ki az intenzív napot fent.",
+                "ro": "Profită de soarele intens de sus.",
+                "en": "Take advantage of the intense sun at the top."
+              }
+            },
+            {
+              "name": "Sa Riera Beach",
+              "tip_5lang": {
+                "de": "Ideal für ein Picknick im Sand.",
+                "hu": "Ideális egy piknikhez a homokban.",
+                "ro": "Ideal pentru un picnic pe nisip.",
+                "en": "Ideal for a picnic on the sand."
+              }
+            },
+            {
+              "name": "Sant Ramon Viewpoint",
+              "tip_5lang": {
+                "de": "Oft sehr windig, Mütze tragen.",
+                "hu": "Gyakran szeles, viseljen sapkát.",
+                "ro": "Adesea vântos, purtați căciulă.",
+                "en": "Often very windy, wear a hat."
+              }
+            },
+            {
+              "name": "Cases d'Indians",
+              "tip_5lang": {
+                "de": "Tour vor der Dämmerung beenden.",
+                "hu": "Zárja a túrát szürkület előtt.",
+                "ro": "Încheiați tura înainte de amurg.",
+                "en": "Finish the tour before dusk."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Thermo-Handschuhe und Socken.",
+              "Achten Sie auf Glatteis in Schattenzonen.",
+              "Die Luft ist trocken, viel trinken.",
+              "Die Wintersonne steht tief und blendet."
+            ],
+            "hu": [
+              "Viseljen termokesztyűt és zoknit.",
+              "Ügyeljen a jegesedésre az árnyékos részeken.",
+              "A levegő száraz, igyon sokat.",
+              "A téli nap alacsonyan jár és vakíthat."
+            ],
+            "ro": [
+              "Purtați mănuși și șosete termice.",
+              "Atenție la gheață în zonele cu umbră.",
+              "Aerul e uscat, hidratați-vă bine.",
+              "Soarele de iarnă e jos și poate orbi."
+            ],
+            "en": [
+              "Wear thermal gloves and socks.",
+              "Watch for ice in shaded areas.",
+              "The air is dry, drink plenty of water.",
+              "The winter sun is low and can blind you."
+            ]
+          }
+        }
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Castell de Begur",
+            "hu": "Beguri vár",
+            "ro": "Castelul Begur",
+            "en": "Begur Castle"
+          },
+          "coords": [
+            3.2102,
+            41.9551
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Parkplatz direkt unterhalb vorhanden.",
+            "hu": "Parkoló közvetlenül a vár alatt.",
+            "ro": "Parcare disponibilă chiar sub castel.",
+            "en": "Parking available directly below the castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Casc Antic",
+            "hu": "Óváros",
+            "ro": "Centrul Vechi",
+            "en": "Old Town"
+          },
+          "coords": [
+            3.2082,
+            41.9541
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Zentraler Parkplatz nutzen.",
+            "hu": "Használja a központi parkolót.",
+            "ro": "Utilizați parcarea centrală.",
+            "en": "Use the central parking lot."
+          }
+        },
+        {
+          "name": {
+            "de": "Platja de Sa Tuna",
+            "hu": "Sa Tuna strand",
+            "ro": "Plaja Sa Tuna",
+            "en": "Sa Tuna Beach"
+          },
+          "coords": [
+            3.2285,
+            41.9612
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:10",
+          "stay_min": 180,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Eine der malerischsten Buchten.",
+            "hu": "Az egyik legfestőibb öböl.",
+            "ro": "Unul dintre cele mai pitorești golfuri.",
+            "en": "One of the most picturesque coves."
+          }
+        },
+        {
+          "name": {
+            "de": "Platja de Sa Riera",
+            "hu": "Sa Riera strand",
+            "ro": "Plaja Sa Riera",
+            "en": "Sa Riera Beach"
+          },
+          "coords": [
+            3.2115,
+            41.9722
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:25",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Größerer Strand mit vielen Services.",
+            "hu": "Nagyobb strand több szolgáltatással.",
+            "ro": "Plajă mai mare cu multe servicii.",
+            "en": "Larger beach with many services."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirador de Sant Ramon",
+            "hu": "Sant Ramon kilátó",
+            "ro": "Miradorul Sant Ramon",
+            "en": "Sant Ramon Viewpoint"
+          },
+          "coords": [
+            3.2061,
+            41.9552
+          ],
+          "category": "natural features",
+          "arrive_at": "16:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Kurzer Spaziergang vom Parkplatz.",
+            "hu": "Rövid séta a parkolótól.",
+            "ro": "Scurtă plimbare de la parcare.",
+            "en": "Short walk from the parking lot."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erreichen Sie bequem die schönsten und entlegensten Buchten von Begur. Starten Sie am Schloss für den morgendlichen Überblick.\n\nBesuchen Sie das idyllische Sa Tuna, eine Postkartenbucht mit weißen Fischerhäusern, perfekt für einen langen Vormittag am Meer.\n\nAm Nachmittag bietet Sa Riera mehr Platz und eine tolle Infrastruktur für Wassersport oder ein spätes Mittagessen.\n\nBeenden Sie den Tag an den Miradors der Altstadt, bevor Sie zu Ihrem nächsten Ziel aufbrechen.",
+        "hu": "Autóval kényelmesen elérheti Begur legszebb és legtávolabbi öbleit. Kezdje a várból, hogy reggel átlássa az egész vidéket.\n\nLátogassa meg az idilli Sa Tunát, egy képeslapra illő öblöt fehér halászházakkal, amely tökéletes egy hosszú délelőtti strandoláshoz.\n\nDélután Sa Riera nagyobb teret és kiváló infrastruktúrát kínál vízi sportokhoz vagy egy késői ebédhez.\n\nZárja a napot az óvárosi kilátópontoknál, mielőtt továbbindulna.",
+        "ro": "Cu mașina puteți ajunge confortabil la cele mai frumoase și izolate golfuri din Begur. Începeți la castel pentru o privire de ansamblu matinală.\n\nVizitați idilicul Sa Tuna, un golf de carte poștală cu case albe de pescari, perfect pentru o dimineață lungă la malul mării.\n\nDupă-amiaza, Sa Riera oferă mai mult spațiu și o infrastructură excelentă pentru sporturi nautice sau un prânz târziu.\n\nÎncheiați ziua la punctele de observație din centrul vechi înainte de a pleca spre următoarea destinație.",
+        "en": "By car, you can easily reach the most beautiful and remote coves of Begur. Start at the castle for a morning overview.\n\nVisit the idyllic Sa Tuna, a postcard-perfect cove with white fishermen's houses, perfect for a long morning by the sea.\n\nIn the afternoon, Sa Riera offers more space and great infrastructure for water sports or a late lunch.\n\nFinish the day at the old town viewpoints before heading to your next destination."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Es Furat",
+            "tip": "Spezialisiert auf Reisgerichte in Sa Tuna."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Es Furat",
+            "tip": "Rizsételekre (arros) specializálódott Sa Tunában."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Es Furat",
+            "tip": "Specializat în preparate cu orez în Sa Tuna."
+          }
+        ],
+        "en": [
+          {
+            "name": "Es Furat",
+            "tip": "Specialized in rice dishes in Sa Tuna."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Sa Tuna bei Nacht",
+            "tip": "Sehr friedlich, wenn die Tagestouristen weg sind.",
+            "emoji": "🌌"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sa Tuna éjjel",
+            "tip": "Nagyon békés, miután elmentek a turisták.",
+            "emoji": "🌌"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sa Tuna noaptea",
+            "tip": "Foarte liniștit după ce pleacă turiștii.",
+            "emoji": "🌌"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sa Tuna at night",
+            "tip": "Very peaceful once the day tourists are gone.",
+            "emoji": "🌌"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Weine",
+            "tip": "Kaufen Sie Weine aus dem Empordà."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi borok",
+            "tip": "Vásároljon empordà-i borokat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vinuri locale",
+            "tip": "Cumpărați vinuri din Empordà."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Wines",
+            "tip": "Buy wines from the Empordà region."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parkplätze an den Buchten sind im Sommer schnell voll.",
+          "Fahren Sie vorsichtig auf den engen Küstenstraßen.",
+          "Kombinieren Sie die Fahrt mit einem Stopp im Hinterland."
+        ],
+        "hu": [
+          "A strandok parkolói nyáron hamar megtelnek.",
+          "Vezessen óvatosan a szűk parti utakon.",
+          "Kösse össze az utat egy belső-vidéki megállóval."
+        ],
+        "ro": [
+          "Parcările de la golfuri se umplu repede vara.",
+          "Conduceți cu atenție pe drumurile înguste de coastă.",
+          "Combinați drumul cu o oprire în interiorul regiunii."
+        ],
+        "en": [
+          "Beach parking fills up quickly in summer.",
+          "Drive carefully on the narrow coastal roads.",
+          "Combine the trip with a stop in the hinterland."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erreichen Sie bequem die schönsten und entlegensten Buchten von Begur. Starten Sie am Schloss für den morgendlichen Überblick.\n\nBesuchen Sie das idyllische Sa Tuna, eine Postkartenbucht mit weißen Fischerhäusern, perfekt für einen langen Vormittag am Meer.\n\nAm Nachmittag bietet Sa Riera mehr Platz und eine tolle Infrastruktur für Wassersport oder ein spätes Mittagessen.\n\nBeenden Sie den Tag an den Miradors der Altstadt, bevor Sie zu Ihrem nächsten Ziel aufbrechen.",
+            "hu": "Autóval kényelmesen elérheti Begur legszebb és legtávolabbi öbleit. Kezdje a várból, hogy reggel átlássa az egész vidéket.\n\nLátogassa meg az idilli Sa Tunát, egy képeslapra illő öblöt fehér halászházakkal, amely tökéletes egy hosszú délelőtti strandoláshoz.\n\nDélután Sa Riera nagyobb teret és kiváló infrastruktúrát kínál vízi sportokhoz vagy egy késői ebédhez.\n\nZárja a napot az óvárosi kilátópontoknál, mielőtt továbbindulna.",
+            "ro": "Cu mașina puteți ajunge confortabil la cele mai frumoase și izolate golfuri din Begur. Începeți la castel pentru o privire de ansamblu matinală.\n\nVizitați idilicul Sa Tuna, un golf de carte poștală cu case albe de pescari, perfect pentru o dimineață lungă la malul mării.\n\nDupă-amiaza, Sa Riera oferă mai mult spațiu și o infrastructură excelentă pentru sporturi nautice sau un prânz târziu.\n\nÎncheiați ziua la punctele de observație din centrul vechi înainte de a pleca spre următoarea destinație.",
+            "en": "By car, you can easily reach the most beautiful and remote coves of Begur. Start at the castle for a morning overview.\n\nVisit the idyllic Sa Tuna, a postcard-perfect cove with white fishermen's houses, perfect for a long morning by the sea.\n\nIn the afternoon, Sa Riera offers more space and great infrastructure for water sports or a late lunch.\n\nFinish the day at the old town viewpoints before heading to your next destination."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Castell de Begur",
+                "hu": "Beguri vár",
+                "ro": "Castelul Begur",
+                "en": "Begur Castle"
+              },
+              "tip_5lang": {
+                "de": "Parkplatz direkt unterhalb vorhanden.",
+                "hu": "Parkoló közvetlenül a vár alatt.",
+                "ro": "Parcare disponibilă chiar sub castel.",
+                "en": "Parking available directly below the castle."
+              }
+            },
+            {
+              "name": {
+                "de": "Casc Antic",
+                "hu": "Óváros",
+                "ro": "Centrul Vechi",
+                "en": "Old Town"
+              },
+              "tip_5lang": {
+                "de": "Zentraler Parkplatz nutzen.",
+                "hu": "Használja a központi parkolót.",
+                "ro": "Utilizați parcarea centrală.",
+                "en": "Use the central parking lot."
+              }
+            },
+            {
+              "name": {
+                "de": "Platja de Sa Tuna",
+                "hu": "Sa Tuna strand",
+                "ro": "Plaja Sa Tuna",
+                "en": "Sa Tuna Beach"
+              },
+              "tip_5lang": {
+                "de": "Eine der malerischsten Buchten.",
+                "hu": "Az egyik legfestőibb öböl.",
+                "ro": "Unul dintre cele mai pitorești golfuri.",
+                "en": "One of the most picturesque coves."
+              }
+            },
+            {
+              "name": {
+                "de": "Platja de Sa Riera",
+                "hu": "Sa Riera strand",
+                "ro": "Plaja Sa Riera",
+                "en": "Sa Riera Beach"
+              },
+              "tip_5lang": {
+                "de": "Größerer Strand mit vielen Services.",
+                "hu": "Nagyobb strand több szolgáltatással.",
+                "ro": "Plajă mai mare cu multe servicii.",
+                "en": "Larger beach with many services."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador de Sant Ramon",
+                "hu": "Sant Ramon kilátó",
+                "ro": "Miradorul Sant Ramon",
+                "en": "Sant Ramon Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Kurzer Spaziergang vom Parkplatz.",
+                "hu": "Rövid séta a parkolótól.",
+                "ro": "Scurtă plimbare de la parcare.",
+                "en": "Short walk from the parking lot."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Es Furat",
+                "tip": "Spezialisiert auf Reisgerichte in Sa Tuna."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Es Furat",
+                "tip": "Rizsételekre (arros) specializálódott Sa Tunában."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Es Furat",
+                "tip": "Specializat în preparate cu orez în Sa Tuna."
+              }
+            ],
+            "en": [
+              {
+                "name": "Es Furat",
+                "tip": "Specialized in rice dishes in Sa Tuna."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Sa Tuna bei Nacht",
+                "tip": "Sehr friedlich, wenn die Tagestouristen weg sind.",
+                "emoji": "🌌"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Sa Tuna éjjel",
+                "tip": "Nagyon békés, miután elmentek a turisták.",
+                "emoji": "🌌"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Sa Tuna noaptea",
+                "tip": "Foarte liniștit după ce pleacă turiștii.",
+                "emoji": "🌌"
+              }
+            ],
+            "en": [
+              {
+                "name": "Sa Tuna at night",
+                "tip": "Very peaceful once the day tourists are gone.",
+                "emoji": "🌌"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Lokale Weine",
+                "tip": "Kaufen Sie Weine aus dem Empordà."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Helyi borok",
+                "tip": "Vásároljon empordà-i borokat."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Vinuri locale",
+                "tip": "Cumpărați vinuri din Empordà."
+              }
+            ],
+            "en": [
+              {
+                "name": "Local Wines",
+                "tip": "Buy wines from the Empordà region."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Parkplätze an den Buchten sind im Sommer schnell voll.",
+              "Fahren Sie vorsichtig auf den engen Küstenstraßen.",
+              "Kombinieren Sie die Fahrt mit einem Stopp im Hinterland."
+            ],
+            "hu": [
+              "A strandok parkolói nyáron hamar megtelnek.",
+              "Vezessen óvatosan a szűk parti utakon.",
+              "Kösse össze az utat egy belső-vidéki megállóval."
+            ],
+            "ro": [
+              "Parcările de la golfuri se umplu repede vara.",
+              "Conduceți cu atenție pe drumurile înguste de coastă.",
+              "Combinați drumul cu o oprire în interiorul regiunii."
+            ],
+            "en": [
+              "Beach parking fills up quickly in summer.",
+              "Drive carefully on the narrow coastal roads.",
+              "Combine the trip with a stop in the hinterland."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden Sie Begur auch bei Regen bequem. Beginnen Sie auf der Burg, wo Sie die Aussicht aus dem Auto genießen. Mittags fahren Sie zu den Buchten Sa Tuna und Sa Riera, um die wilde Brandung sicher vom Ufer aus zu beobachten. Der Sant Ramon Aussichtspunkt bietet einen schnellen Stopp für Fotos, bevor Sie in den trockenen Gassen der Altstadt parken.",
+            "hu": "Autóval kényelmesen felfedezheti Begurt esőben is. Kezdjen a várnál, ahol az autóból élvezheti a kilátást. Délben hajtson le Sa Tuna és Sa Riera öbleibe, hogy biztonságban figyelje a vad hullámokat a partról. A Sant Ramon kilátó gyors fotómegállót kínál, mielőtt leparkolna az óváros szárazabb részein.",
+            "ro": "Cu mașina, explorați Begur confortabil chiar și pe ploaie. Începeți la castel, unde puteți vedea panorama din mașină. La prânz, conduceți spre Sa Tuna și Sa Riera pentru a observa valurile sălbatice în siguranță de pe mal. Belvedere Sant Ramon oferă un popas rapid pentru poze înainte de a parca în centrul vechi.",
+            "en": "By car, you can explore Begur comfortably even in the rain. Start at the castle, where you can enjoy the view from the car. At noon, drive down to Sa Tuna and Sa Riera bays to watch the wild surf safely from the shore. The Sant Ramon viewpoint offers a quick photo stop before parking in the drier areas of the Old Town."
+          },
+          "stops": [
+            {
+              "name": "Begur Castle",
+              "tip_5lang": {
+                "de": "Parkplatz direkt unter dem Aufstieg.",
+                "hu": "Parkoló közvetlenül a feljárat alatt.",
+                "ro": "Parcare chiar sub urcare.",
+                "en": "Parking right under the climb."
+              }
+            },
+            {
+              "name": "Old Town",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Parkhaus im Zentrum.",
+                "hu": "Használja a központi parkolóházat.",
+                "ro": "Folosiți parcarea etajată din centru.",
+                "en": "Use the multi-story car park in the center."
+              }
+            },
+            {
+              "name": "Sa Tuna Beach",
+              "tip_5lang": {
+                "de": "Wilde Wellen vom Auto aus sehen.",
+                "hu": "Nézze a vad hullámokat az autóból.",
+                "ro": "Vedeți valurile mari din mașină.",
+                "en": "Watch the wild waves from the car."
+              }
+            },
+            {
+              "name": "Sa Riera Beach",
+              "tip_5lang": {
+                "de": "Nahe Parkplätze am Strand nutzen.",
+                "hu": "Használja a közeli strandparkolót.",
+                "ro": "Folosiți parcările de lângă plajă.",
+                "en": "Use the parking lots near the beach."
+              }
+            },
+            {
+              "name": "Sant Ramon Viewpoint",
+              "tip_5lang": {
+                "de": "Kurzer Stopp, Boden oft rutschig.",
+                "hu": "Gyors megálló, a talaj csúszós.",
+                "ro": "Popas scurt, teren alunecos.",
+                "en": "Short stop, ground often slippery."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vorsicht auf engen Küstenstraßen bei Nässe.",
+              "Scheibenwischer vor der Tour prüfen.",
+              "Parkplätze am Strand sind oft kostenlos.",
+              "Vermeiden Sie tiefgelegene Parkzonen bei Starkregen."
+            ],
+            "hu": [
+              "Vigyázat a szűk parti utakon esőben.",
+              "Ellenőrizze az ablaktörlőket a túra előtt.",
+              "A strandparkolók ilyenkor gyakran ingyenesek.",
+              "Kerülje a mélyebben fekvő zónákat nagy esőben."
+            ],
+            "ro": [
+              "Atenție pe drumurile de coastă ude.",
+              "Verificați ștergătoarele înainte de drum.",
+              "Parcările de la plajă sunt adesea gratis.",
+              "Evitați zonele joase la ploi torențiale."
+            ],
+            "en": [
+              "Caution on narrow coastal roads when wet.",
+              "Check wipers before the tour.",
+              "Beach parking is often free in this weather.",
+              "Avoid low-lying parking zones during heavy rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintertag ist perfekt für eine Rundfahrt. Starten Sie an der Burg für die beste Sicht auf die schneebedeckten Gipfel. Mittags führt die Tour zu den einsamen Stränden Sa Tuna und Sa Riera, wo die Wintersonne das Wasser glitzern lässt. Der Sant Ramon Aussichtspunkt bietet eine fantastische Perspektive im goldenen Nachmittagslicht. Beenden Sie den Tag in der stimmungsvollen Altstadt.",
+            "hu": "Egy tiszta téli nap tökéletes egy autós körúthoz. Kezdjen a várnál a távoli, hófödte csúcsok látványáért. Délben látogasson el Sa Tuna és Sa Riera magányos strandjaira, ahol a téli nap megcsillantja a vizet. A Sant Ramon kilátó fantasztikus perspektívát kínál a délutáni aranyfényben. Zárja a napot a hangulatos óvárosban.",
+            "ro": "O zi senină de iarnă e perfectă pentru un tur auto. Începeți la castel pentru vederi spre vârfurile înzăpezite din depărtare. La prânz, vizitați plajele pustii Sa Tuna și Sa Riera, unde soarele sclipește pe apă. Belvedere Sant Ramon oferă o perspectivă superbă în lumina aurie a după-amiezii. Încheiați ziua în centrul vechi.",
+            "en": "A clear winter day is perfect for a driving tour. Start at the castle for the best views of the snow-capped peaks in the distance. At noon, visit the lonely beaches of Sa Tuna and Sa Riera, where the winter sun makes the water sparkle. The Sant Ramon viewpoint offers a fantastic perspective in the golden afternoon light. End the day in the atmospheric Old Town."
+          },
+          "stops": [
+            {
+              "name": "Begur Castle",
+              "tip_5lang": {
+                "de": "Beste Fernsicht bei Winterhochdruck.",
+                "hu": "Legjobb távoli kilátás téli magasnyomáskor.",
+                "ro": "Cea mai bună vizibilitate pe timp de iarnă.",
+                "en": "Best distant views during winter high pressure."
+              }
+            },
+            {
+              "name": "Old Town",
+              "tip_5lang": {
+                "de": "Parken ist im Winter viel einfacher.",
+                "hu": "Télen sokkal könnyebb parkolni.",
+                "ro": "Parcarea e mult mai ușoară iarna.",
+                "en": "Parking is much easier in winter."
+              }
+            },
+            {
+              "name": "Sa Tuna Beach",
+              "tip_5lang": {
+                "de": "Sonnige Terrassen sind oft leer.",
+                "hu": "A napos teraszok gyakran üresek.",
+                "ro": "Terasele însorite sunt adesea goale.",
+                "en": "Sunny terraces are often empty."
+              }
+            },
+            {
+              "name": "Sa Riera Beach",
+              "tip_5lang": {
+                "de": "Perfekt für einen Winterspaziergang.",
+                "hu": "Tökéletes egy téli sétához.",
+                "ro": "Perfect pentru o plimbare de iarnă.",
+                "en": "Perfect for a winter walk."
+              }
+            },
+            {
+              "name": "Sant Ramon Viewpoint",
+              "tip_5lang": {
+                "de": "Frühzeitige Ankunft für Sonnenuntergang.",
+                "hu": "Érkezzen időben a naplementéhez.",
+                "ro": "Sosiți din timp pentru apus.",
+                "en": "Arrive early for the sunset."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Genießen Sie die leeren Straßen ohne Stau.",
+              "Die Heizung für die Strandbesuche nutzen.",
+              "Sonnebrille gegen die tiefstehende Sonne.",
+              "Viele Parkplätze sind in der Nebensaison frei."
+            ],
+            "hu": [
+              "Élvezze az üres utakat forgalom nélkül.",
+              "Használja a fűtést a strandlátogatások után.",
+              "Napszemüveg kell az alacsony nap ellen.",
+              "Sok parkolóhely ingyenes a szezonon kívül."
+            ],
+            "ro": [
+              "Bucurați-vă de drumuri libere, fără trafic.",
+              "Folosiți căldura după vizitele la plajă.",
+              "Ochelari de soare contra soarelui de jos.",
+              "Multe parcări sunt libere în extrasezon."
+            ],
+            "en": [
+              "Enjoy the empty roads without traffic jams.",
+              "Use the heater after beach visits.",
+              "Sunglasses are needed against the low sun.",
+              "Many parking spots are free in the low season."
+            ]
+          }
+        }
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "15:40",
+      "total_km": 7.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Casc Antic",
+            "hu": "Óváros",
+            "ro": "Centrul Vechi",
+            "en": "Old Town"
+          },
+          "coords": [
+            3.2082,
+            41.9541
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bushaltestelle am Eingang der Altstadt.",
+            "hu": "Buszmegálló az óváros bejáratánál.",
+            "ro": "Stație de autobuz la intrarea în centrul vechi.",
+            "en": "Bus stop at the entrance of the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Església de Sant Pere",
+            "hu": "Szent Péter templom",
+            "ro": "Biserica Sfântul Petru",
+            "en": "Saint Peter Church"
+          },
+          "coords": [
+            3.2085,
+            41.9545
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg vom Zentrum.",
+            "hu": "Rövid séta a központból.",
+            "ro": "Scurtă plimbare din centru.",
+            "en": "Short walk from the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Platja de Sa Riera",
+            "hu": "Sa Riera strand",
+            "ro": "Plaja Sa Riera",
+            "en": "Sa Riera Beach"
+          },
+          "coords": [
+            3.2115,
+            41.9722
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:10",
+          "stay_min": 180,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Nutzen Sie den Shuttle-Bus.",
+            "hu": "Használja a helyi buszjáratot.",
+            "ro": "Utilizați autobuzul local.",
+            "en": "Use the local shuttle bus."
+          }
+        },
+        {
+          "name": {
+            "de": "Castell de Begur",
+            "hu": "Beguri vár",
+            "ro": "Castelul Begur",
+            "en": "Begur Castle"
+          },
+          "coords": [
+            3.2102,
+            41.9551
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.1,
+          "tip_5lang": {
+            "de": "Nach der Rückkehr vom Strand besuchen.",
+            "hu": "Látogassa meg a strandról való visszatérés után.",
+            "ro": "Vizitați după întoarcerea de la plajă.",
+            "en": "Visit after returning from the beach."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie den praktischen Lokalbus, um zwischen dem historischen Zentrum und der Küste zu pendeln. Starten Sie mit der Altstadt und der Kirche.\n\nDer Bus bringt Sie bequem zur Platja de Sa Riera, wo Sie den Vormittag entspannt verbringen können.\n\nNach der Rückkehr in das Dorf bleibt Zeit für einen Aufstieg zum Schloss, um den Tag mit einem Blick über die gesamte Region abzurunden.\n\nEin entspannter Weg, Begur ohne Parkplatzsorgen zu erleben.",
+        "hu": "Használja a praktikus helyi buszt a történelmi központ és a part közötti közlekedéshez. Kezdjen az óvárossal és a templommal.\n\nA busz kényelmesen elviszi a Sa Riera strandhoz, ahol pihentetően töltheti a délelőttöt.\n\nA faluba való visszatérés után marad idő felmenni a várba, hogy a napot az egész régióra nyíló kilátással zárja.\n\nKényelmes mód Begur felfedezésére parkolási gondok nélkül.",
+        "ro": "Utilizați autobuzul local practic pentru a face naveta între centrul istoric și coastă. Începeți cu centrul vechi și biserica.\n\nAutobuzul vă duce confortabil la plaja Sa Riera, unde vă puteți petrece dimineața relaxat.\n\nDupă întoarcerea în sat, rămâne timp pentru o urcare la castel, pentru a încheia ziua cu o privire peste întreaga regiune.\n\nO modalitate relaxată de a experimenta Begur fără grija parcării.",
+        "en": "Use the convenient local bus to commute between the historic center and the coast. Start with the old town and the church.\n\nThe bus takes you comfortably to Sa Riera beach, where you can spend a relaxing morning.\n\nAfter returning to the village, there is time to go up to the castle to end the day with a view over the entire region.\n\nA relaxed way to experience Begur without parking worries."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "L'Autèntic",
+            "tip": "Schnelle und leckere Gerichte im Dorf."
+          }
+        ],
+        "hu": [
+          {
+            "name": "L'Autèntic",
+            "tip": "Gyors és finom ételek a faluban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "L'Autèntic",
+            "tip": "Mâncare rapidă și gustoasă în sat."
+          }
+        ],
+        "en": [
+          {
+            "name": "L'Autèntic",
+            "tip": "Quick and tasty dishes in the village."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Pfarrgarten",
+            "tip": "Ein ruhiger Ort in der Nähe der Kirche.",
+            "emoji": "🌿"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Plébániakert",
+            "tip": "Csendes hely a templom közelében.",
+            "emoji": "🌿"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina parohială",
+            "tip": "Un loc liniștit lângă biserică.",
+            "emoji": "🌿"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parish Garden",
+            "tip": "A quiet spot near the church.",
+            "emoji": "🌿"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirshops im Zentrum",
+            "tip": "Lokale Produkte und Postkarten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Belvárosi ajándékboltok",
+            "tip": "Helyi termékek és képeslapok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de suveniruri",
+            "tip": "Produse locale și vederi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Souvenir Shops",
+            "tip": "Local products and postcards."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie den Busfahrplan im Voraus (Sarfa).",
+          "Kaufen Sie Tickets direkt beim Fahrer.",
+          "Die Busse können im Sommer voll sein."
+        ],
+        "hu": [
+          "Ellenőrizze előre a buszmenetrendet (Sarfa).",
+          "Vegyen jegyet közvetlenül a sofőrnél.",
+          "A buszok nyáron zsúfoltak lehetnek."
+        ],
+        "ro": [
+          "Verificați orarul autobuzelor în avans (Sarfa).",
+          "Cumpărați bilete direct de la șofer.",
+          "Autobuzele pot fi aglomerate vara."
+        ],
+        "en": [
+          "Check the bus schedule in advance (Sarfa).",
+          "Buy tickets directly from the driver.",
+          "Buses can be crowded in summer."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie den praktischen Lokalbus, um zwischen dem historischen Zentrum und der Küste zu pendeln. Starten Sie mit der Altstadt und der Kirche.\n\nDer Bus bringt Sie bequem zur Platja de Sa Riera, wo Sie den Vormittag entspannt verbringen können.\n\nNach der Rückkehr in das Dorf bleibt Zeit für einen Aufstieg zum Schloss, um den Tag mit einem Blick über die gesamte Region abzurunden.\n\nEin entspannter Weg, Begur ohne Parkplatzsorgen zu erleben.",
+            "hu": "Használja a praktikus helyi buszt a történelmi központ és a part közötti közlekedéshez. Kezdjen az óvárossal és a templommal.\n\nA busz kényelmesen elviszi a Sa Riera strandhoz, ahol pihentetően töltheti a délelőttöt.\n\nA faluba való visszatérés után marad idő felmenni a várba, hogy a napot az egész régióra nyíló kilátással zárja.\n\nKényelmes mód Begur felfedezésére parkolási gondok nélkül.",
+            "ro": "Utilizați autobuzul local practic pentru a face naveta între centrul istoric și coastă. Începeți cu centrul vechi și biserica.\n\nAutobuzul vă duce confortabil la plaja Sa Riera, unde vă puteți petrece dimineața relaxat.\n\nDupă întoarcerea în sat, rămâne timp pentru o urcare la castel, pentru a încheia ziua cu o privire peste întreaga regiune.\n\nO modalitate relaxată de a experimenta Begur fără grija parcării.",
+            "en": "Use the convenient local bus to commute between the historic center and the coast. Start with the old town and the church.\n\nThe bus takes you comfortably to Sa Riera beach, where you can spend a relaxing morning.\n\nAfter returning to the village, there is time to go up to the castle to end the day with a view over the entire region.\n\nA relaxed way to experience Begur without parking worries."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Casc Antic",
+                "hu": "Óváros",
+                "ro": "Centrul Vechi",
+                "en": "Old Town"
+              },
+              "tip_5lang": {
+                "de": "Bushaltestelle am Eingang der Altstadt.",
+                "hu": "Buszmegálló az óváros bejáratánál.",
+                "ro": "Stație de autobuz la intrarea în centrul vechi.",
+                "en": "Bus stop at the entrance of the old town."
+              }
+            },
+            {
+              "name": {
+                "de": "Església de Sant Pere",
+                "hu": "Szent Péter templom",
+                "ro": "Biserica Sfântul Petru",
+                "en": "Saint Peter Church"
+              },
+              "tip_5lang": {
+                "de": "Kurzer Fußweg vom Zentrum.",
+                "hu": "Rövid séta a központból.",
+                "ro": "Scurtă plimbare din centru.",
+                "en": "Short walk from the center."
+              }
+            },
+            {
+              "name": {
+                "de": "Platja de Sa Riera",
+                "hu": "Sa Riera strand",
+                "ro": "Plaja Sa Riera",
+                "en": "Sa Riera Beach"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Shuttle-Bus.",
+                "hu": "Használja a helyi buszjáratot.",
+                "ro": "Utilizați autobuzul local.",
+                "en": "Use the local shuttle bus."
+              }
+            },
+            {
+              "name": {
+                "de": "Castell de Begur",
+                "hu": "Beguri vár",
+                "ro": "Castelul Begur",
+                "en": "Begur Castle"
+              },
+              "tip_5lang": {
+                "de": "Nach der Rückkehr vom Strand besuchen.",
+                "hu": "Látogassa meg a strandról való visszatérés után.",
+                "ro": "Vizitați după întoarcerea de la plajă.",
+                "en": "Visit after returning from the beach."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "L'Autèntic",
+                "tip": "Schnelle und leckere Gerichte im Dorf."
+              }
+            ],
+            "hu": [
+              {
+                "name": "L'Autèntic",
+                "tip": "Gyors és finom ételek a faluban."
+              }
+            ],
+            "ro": [
+              {
+                "name": "L'Autèntic",
+                "tip": "Mâncare rapidă și gustoasă în sat."
+              }
+            ],
+            "en": [
+              {
+                "name": "L'Autèntic",
+                "tip": "Quick and tasty dishes in the village."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Pfarrgarten",
+                "tip": "Ein ruhiger Ort in der Nähe der Kirche.",
+                "emoji": "🌿"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Plébániakert",
+                "tip": "Csendes hely a templom közelében.",
+                "emoji": "🌿"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Grădina parohială",
+                "tip": "Un loc liniștit lângă biserică.",
+                "emoji": "🌿"
+              }
+            ],
+            "en": [
+              {
+                "name": "Parish Garden",
+                "tip": "A quiet spot near the church.",
+                "emoji": "🌿"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Souvenirshops im Zentrum",
+                "tip": "Lokale Produkte und Postkarten."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Belvárosi ajándékboltok",
+                "tip": "Helyi termékek és képeslapok."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Magazine de suveniruri",
+                "tip": "Produse locale și vederi."
+              }
+            ],
+            "en": [
+              {
+                "name": "Souvenir Shops",
+                "tip": "Local products and postcards."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Überprüfen Sie den Busfahrplan im Voraus (Sarfa).",
+              "Kaufen Sie Tickets direkt beim Fahrer.",
+              "Die Busse können im Sommer voll sein."
+            ],
+            "hu": [
+              "Ellenőrizze előre a buszmenetrendet (Sarfa).",
+              "Vegyen jegyet közvetlenül a sofőrnél.",
+              "A buszok nyáron zsúfoltak lehetnek."
+            ],
+            "ro": [
+              "Verificați orarul autobuzelor în avans (Sarfa).",
+              "Cumpărați bilete direct de la șofer.",
+              "Autobuzele pot fi aglomerate vara."
+            ],
+            "en": [
+              "Check the bus schedule in advance (Sarfa).",
+              "Buy tickets directly from the driver.",
+              "Buses can be crowded in summer."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Regnerische Tage mit dem Bus erfordern gute Planung. Starten Sie in der Altstadt, wo Busstationen oft überdacht sind. Mittags besuchen Sie die Kirche, bevor Sie nach Sa Riera fahren, um die stürmische See zu sehen. Der Nachmittag endet mit dem Aufstieg zur Burg, wobei die Busfahrt Ihnen mühsame Wege im Regen erspart. Wärmen Sie sich in einem Café in der Nähe der Haltestelle auf.",
+            "hu": "Az esős napok busszal jó tervezést igényelnek. Kezdjen az óvárosban, ahol a buszmegállók gyakran fedettek. Délben látogassa meg a templomot, majd busszal menjen Sa Rierába a viharos tengerért. A délután a várnál zárul; a buszozás megkíméli a nehéz gyaloglástól az esőben. Melegedjen fel egy kávézóban a megálló közelében.",
+            "ro": "Zilele ploioase cu autobuzul necesită planificare. Începeți în centrul vechi, unde stațiile sunt adesea acoperite. La prânz, vizitați biserica, apoi luați autobuzul spre Sa Riera pentru marea agitată. După-amiaza se încheie la castel; drumul cu autobuzul vă scutește de mersul prin ploaie. Încălziți-vă într-o cafenea lângă stație.",
+            "en": "Rainy days with the bus require good planning. Start in the Old Town, where bus stops are often covered. At noon, visit the church before taking the bus to Sa Riera to see the stormy sea. The afternoon ends with the climb to the castle; the bus ride saves you from long walks in the rain. Warm up in a cafe near the bus stop."
+          },
+          "stops": [
+            {
+              "name": "Old Town",
+              "tip_5lang": {
+                "de": "Buswartehäuschen als Regenschutz.",
+                "hu": "Buszmegálló fedele eső ellen.",
+                "ro": "Adăpostul stației contra ploii.",
+                "en": "Bus shelter as rain protection."
+              }
+            },
+            {
+              "name": "Saint Peter Church",
+              "tip_5lang": {
+                "de": "Befindet sich nahe der Haltestelle.",
+                "hu": "A megálló közelében található.",
+                "ro": "Se află aproape de stație.",
+                "en": "Located near the bus stop."
+              }
+            },
+            {
+              "name": "Sa Riera Beach",
+              "tip_5lang": {
+                "de": "Busfahrplan bei Regen prüfen.",
+                "hu": "Ellenőrizze a buszmenetrendet esőben.",
+                "ro": "Verificați orarul pe ploaie.",
+                "en": "Check the bus schedule in the rain."
+              }
+            },
+            {
+              "name": "Begur Castle",
+              "tip_5lang": {
+                "de": "Kurzer, windiger Weg von der Haltestelle.",
+                "hu": "Rövid, szeles út a megállótól.",
+                "ro": "Drum scurt și vântos de la stație.",
+                "en": "Short, windy path from the stop."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Sarfa-App für Live-Zeiten.",
+              "Halten Sie Kleingeld oder Karten bereit.",
+              "Tragen Sie einen kompakten Regenschirm.",
+              "Ein kleines Handtuch zum Abtrocknen einpacken."
+            ],
+            "hu": [
+              "Használja a Sarfa alkalmazást az időközökért.",
+              "Legyen aprópénz vagy kártya kéznél.",
+              "Vigyen magával kompakt esernyőt.",
+              "Csomagoljon egy kis törölközőt a szárítkozáshoz."
+            ],
+            "ro": [
+              "Folosiți aplicația Sarfa pentru ore live.",
+              "Aveți pregătiți bani mărunți sau cardul.",
+              "Purtați o umbrelă compactă la voi.",
+              "Puneți un prosop mic pentru a vă usca."
+            ],
+            "en": [
+              "Use the Sarfa app for live bus times.",
+              "Have small change or cards ready.",
+              "Carry a compact umbrella with you.",
+              "Pack a small towel to dry off."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter sind die Busse in Begur weniger frequentiert, aber zuverlässig. Beginnen Sie Ihren Morgen in der ruhigen Altstadt. Mittags bietet die Kirche eine friedliche Atmosphäre ohne Massen. Die Busfahrt nach Sa Riera zeigt Ihnen die stille Winterlandschaft der Küste. Beenden Sie den Tag auf der Burg, um den Sonnenuntergang zu sehen, bevor der letzte Bus zurück ins Zentrum fährt.",
+            "hu": "Télen a beguri buszok ritkábban járnak, de megbízhatóak. Kezdje a reggelt a csendes óvárosban. Délben a templom békés hangulatot áraszt tömegek nélkül. A Sa Riera-i buszút feltárja a partvidék néma téli táját. Zárja a napot a várnál, nézze meg a naplementét, mielőtt az utolsó busz visszaindulna a központba.",
+            "ro": "Iarna, autobuzele din Begur circulă mai rar, dar sunt sigure. Începeți dimineața în centrul vechi liniștit. La prânz, biserica oferă o atmosferă pașnică, fără mulțimi. Călătoria spre Sa Riera vă arată peisajul de iarnă al coastei. Încheiați ziua la castel pentru apus, înainte de ultimul autobuz spre centru.",
+            "en": "In winter, buses in Begur run less frequently but are reliable. Start your morning in the quiet Old Town. At noon, the church offers a peaceful atmosphere without the crowds. The bus ride to Sa Riera reveals the silent winter landscape of the coast. End the day at the castle to see the sunset before the last bus back to the center."
+          },
+          "stops": [
+            {
+              "name": "Old Town",
+              "tip_5lang": {
+                "de": "Winterfahrplan unbedingt beachten.",
+                "hu": "Mindenképp figyelje a téli menetrendet.",
+                "ro": "Respectați orarul de iarnă.",
+                "en": "Be sure to check the winter schedule."
+              }
+            },
+            {
+              "name": "Saint Peter Church",
+              "tip_5lang": {
+                "de": "Besuchsdauer an Buszeiten anpassen.",
+                "hu": "Igazítsa a látogatást a buszokhoz.",
+                "ro": "Ajustați vizita după orele de bus.",
+                "en": "Adjust visit duration to bus times."
+              }
+            },
+            {
+              "name": "Sa Riera Beach",
+              "tip_5lang": {
+                "de": "Weniger Busse, planen Sie voraus.",
+                "hu": "Kevesebb busz, tervezzen előre.",
+                "ro": "Mai puține buze, planificați din timp.",
+                "en": "Fewer buses, plan ahead."
+              }
+            },
+            {
+              "name": "Begur Castle",
+              "tip_5lang": {
+                "de": "Letzte Busse fahren oft vor 19 Uhr.",
+                "hu": "Az utolsó buszok gyakran 19 óra előtt indulnak.",
+                "ro": "Ultimele autobuze pleacă des înainte de 19.",
+                "en": "Last buses often leave before 19:00."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Warme Schuhe für die zugigen Haltestellen.",
+              "Strandbusse verkehren nur eingeschränkt.",
+              "Fragen Sie den Fahrer nach der letzten Rückfahrt.",
+              "Sonnige Sitzplätze im Bus wählen."
+            ],
+            "hu": [
+              "Meleg cipő a huzatos megállókhoz.",
+              "A strandbuszok korlátozottan járnak.",
+              "Kérdezze a sofőrt az utolsó járatról.",
+              "Válasszon napos ülőhelyet a buszon."
+            ],
+            "ro": [
+              "Încălțăminte caldă pentru stații cu curent.",
+              "Autobuzele de plajă circulă limitat.",
+              "Întrebați șoferul de ultima cursă.",
+              "Alegeți locuri însorite în autobuz."
+            ],
+            "en": [
+              "Warm shoes for drafty bus stops.",
+              "Beach buses run on a limited schedule.",
+              "Ask the driver about the last return trip.",
+              "Choose sunny seats on the bus."
+            ]
+          }
+        }
+      }
+    }
+  },
+  "external_resources": {
+    "tourism_office": "https://www.visitbegur.cat/",
+    "transit_official": "https://www.sarfa.com/",
+    "events": "https://www.costabrava.org/",
+    "webcam": "https://www.skylinewebcams.com/en/webcam/espana/cataluna/girona/begur.html",
+    "parking_real_time": "https://www.parclick.es/",
+    "restaurants_booking": "https://www.thefork.com/",
+    "language_tips": {
+      "de": "Begur ist katalanisch geprägt und stolz auf seine 'indianos'-Geschichte (Rückkehrer aus Kuba). Sie hören viel Katalanisch, weniger Englisch als an Massenstränden. 'Bon dia' und 'Si us plau' (bitte) öffnen Türen, besonders in den Familienrestaurants der calas.",
+      "hu": "Begur erősen katalán hangulatú, büszke az 'indianos' (Kubából hazatértek) örökségére. Itt több a katalán beszéd, kevesebb az angol, mint a nagy strandhelyeken. 'Bon dia' és 'Si us plau' (kérem) ajtót nyit, főleg a calák családi éttermeiben.",
+      "ro": "Begur are un puternic caracter catalan și e mândru de moștenirea 'indianos' (cei întorși din Cuba). Se vorbește mult catalană, mai puțin engleză decât pe plajele aglomerate. 'Bon dia' și 'Si us plau' (vă rog) deschid uși în restaurantele de familie din cale.",
+      "en": "Begur is deeply Catalan and proud of its 'indianos' (Cuba returnees) heritage. You'll hear more Catalan and less English than in big beach resorts. 'Bon dia' and 'Si us plau' (please) open doors at family-run cala restaurants."
+    },
+    "best_time_to_visit": {
+      "de": "Juni und September sind perfekt: warmes Meer, freie Calas und alle Restaurants offen. Im Juli und August sind die kleinen Buchten wie Sa Tuna und Aiguablava extrem voll, kommen Sie vor 9 Uhr. Im Mai blühen die Wildblumen, ideal zum Wandern auf dem Camí de Ronda.",
+      "hu": "Június és szeptember tökéletes: meleg tenger, szabad calák, minden étterem nyitva. Júliusban-augusztusban a kis öblök, mint a Sa Tuna és Aiguablava, kora reggelre megtelnek, érkezz 9 előtt. Májusban virágoznak a vadvirágok, csodás a Camí de Ronda túra.",
+      "ro": "Iunie și septembrie sunt perfecte: mare caldă, cale libere, toate restaurantele deschise. În iulie-august, golfurile mici Sa Tuna și Aiguablava se umplu devreme, vino înainte de 9. În mai înfloresc florile sălbatice, ideal pentru Camí de Ronda.",
+      "en": "June and September are perfect: warm sea, uncrowded calas and every restaurant open. In July-August the tiny coves like Sa Tuna and Aiguablava fill up early, arrive before 9 a.m. May brings wildflowers, great for hiking the Camí de Ronda."
+    },
+    "neighborhood_warnings": {
+      "de": "Begur ist sehr sicher. Die größte Gefahr sind die schmalen, steilen Straßen zu den Calas: enge Kurven, wenig Parkplätze. Im Hochsommer wird die Straße nach Sa Tuna zur Einbahn, planen Sie 30 Minuten extra für Parkplatzsuche.",
+      "hu": "Begur nagyon biztonságos. A legnagyobb veszély a calákhoz vezető szűk, meredek utak: éles kanyarok, kevés parkoló. Nyár közepén a Sa Tuna útvonal egyirányúsítva, számolj +30 perc parkolókereséssel.",
+      "ro": "Begur este foarte sigur. Cel mai mare risc sunt drumurile înguste și abrupte spre cale: curbe strânse, parcări puține. Vara, drumul spre Sa Tuna devine cu sens unic, adaugă 30 minute pentru parcare.",
+      "en": "Begur feels very safe. The main hazard is narrow, steep roads down to the calas: tight bends and very few parking spots. Mid-summer the Sa Tuna road turns one-way, add 30 minutes to find parking."
+    }
+  }
+}

@@ -1,0 +1,2362 @@
+{
+  "city_id": "bolonia",
+  "anchor": {
+    "name": "Playa de Bolonia",
+    "coords": [
+      -5.7686,
+      36.0808
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 5.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Centro de Visitantes",
+          "coords": [
+            -5.772,
+            36.088
+          ],
+          "category": "museums",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Holen Sie sich Informationen über die römischen Ruinen.",
+            "hu": "Kérj információt a római romokról.",
+            "ro": "Obțineți informații despre ruinele romane.",
+            "en": "Get information about the Roman ruins."
+          }
+        },
+        {
+          "name": "Baelo Claudia",
+          "coords": [
+            -5.7735,
+            36.0895
+          ],
+          "category": "historical",
+          "arrive_at": "10:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Besichtigen Sie das besterhaltene römische Theater Andalusiens.",
+            "hu": "Nézd meg Andalúzia legjobb állapotú római színházát.",
+            "ro": "Vizitați cel mai bine conservat teatru roman din Andaluzia.",
+            "en": "Visit the best-preserved Roman theater in Andalusia."
+          }
+        },
+        {
+          "name": "Necrópolis de los Algarbes",
+          "coords": [
+            -5.765,
+            36.085
+          ],
+          "category": "historical",
+          "arrive_at": "12:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die prähistorischen Felsengräber.",
+            "hu": "Fedezd fel az őskori sziklasírokat.",
+            "ro": "Descoperiți mormintele preistorice în stâncă.",
+            "en": "Discover the prehistoric rock-cut tombs."
+          }
+        },
+        {
+          "name": "Playa de Bolonia",
+          "coords": [
+            -5.7686,
+            36.0808
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:25",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Einer der letzten unberührten Strände Südspaniens.",
+            "hu": "Dél-Spanyolország egyik utolsó érintetlen strandja.",
+            "ro": "Una dintre ultimele plaje virgine din sudul Spaniei.",
+            "en": "One of the last untouched beaches in southern Spain."
+          }
+        },
+        {
+          "name": "Duna de Bolonia",
+          "coords": [
+            -5.78,
+            36.086
+          ],
+          "category": "natural features",
+          "arrive_at": "15:40",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Erklimmen Sie die 30 Meter hohe Wanderdüne.",
+            "hu": "Mássz fel a 30 méter magas vándorló dűnére.",
+            "ro": "Urcați pe duna de nisip călătoare, înaltă de 30 de metri.",
+            "en": "Climb the 30-meter high migrating sand dune."
+          }
+        },
+        {
+          "name": "Sendero Bolonia-Faro Camarinal",
+          "coords": [
+            -5.785,
+            36.082
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Wunderschöner Küstenpfad mit Blick auf Afrika.",
+            "hu": "Gyönyörű parti ösvény kilátással Afrikára.",
+            "ro": "Potecă de coastă superbă cu vedere spre Africa.",
+            "en": "Beautiful coastal path with views of Africa."
+          }
+        },
+        {
+          "name": "Faro de Camarinal",
+          "coords": [
+            -5.795,
+            36.08
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "17:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Ein Leuchtturm in einem alten Wachturm aus dem 16. Jh.",
+            "hu": "Világítótorony egy 16. századi őrtoronyban.",
+            "ro": "Un far într-un vechi turn de veghe din sec. XVI.",
+            "en": "A lighthouse inside a 16th-century watchtower."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Bolonia ist ein Ort, an dem Geschichte und wilde Natur aufeinandertreffen. Beginnen Sie Ihren Tag in Baelo Claudia, einer außergewöhnlich gut erhaltenen römischen Stadt direkt am Meer. Spüren Sie die Geschichte in den Tempeln von Isis und Juno.\n\nMittags erkunden Sie die prähistorische Nekropole und genießen anschließend die Sonne am kristallklaren Wasser der Playa de Bolonia. Der weiche Sand und das türkisfarbene Meer machen diesen Ort zu einem Paradies für Naturliebhaber.\n\nAm Nachmittag erwartet Sie die berühmte Wanderdüne, ein Naturdenkmal, das langsam den Pinienwald begräbt. Der Aufstieg ist anstrengend, aber die Aussicht von oben auf die Bucht ist unbezahlbar.\n\nBeenden Sie den Tag mit einer Wanderung zum Faro de Camarinal. Auf dem Weg dorthin blicken Sie über die Straße von Gibraltar bis zur marokkanischen Küste, während der Leuchtturm im warmen Licht der Abendsonne erstrahlt.",
+        "hu": "Bolonia az a hely, ahol a történelem és a vad természet találkozik. Kezdd a napot Baelo Claudiában, egy rendkívül jó állapotban fennmaradt római városban, közvetlenül a tengerparton. Érezd a múltat Ízisz és Júnó templomai között.\n\nDélben fedezd fel az őskori nekropoliszt, majd élvezd a napsütést Bolonia strandjának kristálytiszta vizénél. A puha homok és a türkizkék tenger a természetkedvelők paradicsomává teszi ezt a helyet.\n\nDélután vár rád a híres vándorló dűne, egy természeti emlék, amely lassan eltemeti a fenyőerdőt. A megmászása fárasztó, de a fenti kilátás az öbölre megfizethetetlen.\n\nZárd a napot egy túrával a Faro de Camarinal világítótoronyhoz. Útközben a Gibraltári-szoroson át egészen a marokkói partokig elláthatsz, miközben a torony az alkonyi nap fényében tündököl.",
+        "ro": "Bolonia este locul unde istoria se întâlnește cu natura sălbatică. Începeți ziua la Baelo Claudia, un oraș roman excepțional de bine conservat, situat chiar pe malul mării. Simțiți istoria printre templele dedicate lui Isis și Juno.\n\nLa prânz, explorați necropola preistorică și apoi bucurați-vă de soare la apele cristaline ale plajei Bolonia. Nisipul fin și marea turcoaz fac din acest loc un paradis pentru iubitorii de natură.\n\nDupă-amiaza, vă așteaptă faimoasa dună călătoare, un monument natural care îngroapă încet pădurea de pini. Urcarea este obositoare, dar vederea de sus asupra golfului este de neprețuit.\n\nÎncheiați ziua cu o drumeție către Faro de Camarinal. Pe drum, veți privi peste Strâmtoarea Gibraltar până la coasta marocană, în timp ce farul strălucește în lumina caldă a apusului.",
+        "en": "Bolonia is a place where history and wild nature meet. Start your day at Baelo Claudia, an exceptionally well-preserved Roman city right by the sea. Feel the history among the temples of Isis and Juno.\n\nAt midday, explore the prehistoric necropolis and then enjoy the sun by the crystal-clear waters of Bolonia Beach. The soft sand and turquoise sea make this place a paradise for nature lovers.\n\nIn the afternoon, the famous migrating dune awaits you, a natural monument slowly burying the pine forest. The climb is tiring, but the view from the top over the bay is priceless.\n\nEnd the day with a hike to the Faro de Camarinal. Along the way, you can look across the Strait of Gibraltar to the Moroccan coast as the lighthouse glows in the warm evening light."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Garum",
+            "tip": "Probieren Sie die moderne Interpretation der römischen Fischsauce."
+          },
+          {
+            "name": "Urta a la Roteña",
+            "tip": "Typischer Fischauflauf der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Garum",
+            "tip": "Kóstold meg a római halszósz modern változatát."
+          },
+          {
+            "name": "Urta a la Roteña",
+            "tip": "A régióra jellemző halas egytálétel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Garum",
+            "tip": "Gustați interpretarea modernă a sosului de pește roman."
+          },
+          {
+            "name": "Urta a la Roteña",
+            "tip": "Mâncare de pește tipică regiunii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Garum",
+            "tip": "Try the modern interpretation of the ancient Roman fish sauce."
+          },
+          {
+            "name": "Urta a la Roteña",
+            "tip": "Typical fish stew of the region."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Duna de Bolonia",
+            "tip": "Stille und Weite auf dem Gipfel der Düne.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Sierra de la Plata",
+            "tip": "Wanderwege abseits der Massen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Duna de Bolonia",
+            "tip": "Csend és tágasság a dűne tetején.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Sierra de la Plata",
+            "tip": "Túraútvonalak távol a tömegtől.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Duna de Bolonia",
+            "tip": "Liniște și spațiu pe vârful dunei.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Sierra de la Plata",
+            "tip": "Trasee de drumeție departe de mulțime.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Duna de Bolonia",
+            "tip": "Silence and vastness at the top of the dune.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Sierra de la Plata",
+            "tip": "Hiking trails away from the crowds.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Sal de Cádiz",
+            "tip": "Handgeerntetes Meersalz aus den nahen Salinen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sal de Cádiz",
+            "tip": "Kézzel gyűjtött tengeri só a közeli lepárlókból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sal de Cádiz",
+            "tip": "Sare de mare recoltată manual din salinele apropiate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sal de Cádiz",
+            "tip": "Hand-harvested sea salt from the nearby salt flats."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Bringen Sie Sonnenschutz mit, es gibt wenig Schatten am Strand.",
+          "Besuchen Sie Baelo Claudia am Vormittag, wenn es kühler ist.",
+          "Achten Sie auf den starken Wind (Levante), der Sand aufwirbeln kann.",
+          "Die römischen Ruinen sind montags oft geschlossen."
+        ],
+        "hu": [
+          "Vigyél naptejet, mert kevés az árnyék a strandon.",
+          "Délelőtt látogasd meg Baelo Claudiát, amikor hűvösebb van.",
+          "Figyelj az erős szélre (Levante), ami felverheti a homokot.",
+          "A római romok hétfőnként gyakran zárva tartanak."
+        ],
+        "ro": [
+          "Aduceți protecție solară, există puțină umbră pe plajă.",
+          "Vizitați Baelo Claudia dimineața, când este mai răcoare.",
+          "Atenție la vântul puternic (Levante), care poate ridica nisipul.",
+          "Ruinele romane sunt adesea închise lunea."
+        ],
+        "en": [
+          "Bring sunscreen, as there is very little shade on the beach.",
+          "Visit Baelo Claudia in the morning when it's cooler.",
+          "Be aware of the strong wind (Levante) that can kick up sand.",
+          "The Roman ruins are often closed on Mondays."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Bolonia ist ein Ort, an dem Geschichte und wilde Natur aufeinandertreffen. Beginnen Sie Ihren Tag in Baelo Claudia, einer außergewöhnlich gut erhaltenen römischen Stadt direkt am Meer. Spüren Sie die Geschichte in den Tempeln von Isis und Juno.\n\nMittags erkunden Sie die prähistorische Nekropole und genießen anschließend die Sonne am kristallklaren Wasser der Playa de Bolonia. Der weiche Sand und das türkisfarbene Meer machen diesen Ort zu einem Paradies für Naturliebhaber.\n\nAm Nachmittag erwartet Sie die berühmte Wanderdüne, ein Naturdenkmal, das langsam den Pinienwald begräbt. Der Aufstieg ist anstrengend, aber die Aussicht von oben auf die Bucht ist unbezahlbar.\n\nBeenden Sie den Tag mit einer Wanderung zum Faro de Camarinal. Auf dem Weg dorthin blicken Sie über die Straße von Gibraltar bis zur marokkanischen Küste, während der Leuchtturm im warmen Licht der Abendsonne erstrahlt.",
+            "hu": "Bolonia az a hely, ahol a történelem és a vad természet találkozik. Kezdd a napot Baelo Claudiában, egy rendkívül jó állapotban fennmaradt római városban, közvetlenül a tengerparton. Érezd a múltat Ízisz és Júnó templomai között.\n\nDélben fedezd fel az őskori nekropoliszt, majd élvezd a napsütést Bolonia strandjának kristálytiszta vizénél. A puha homok és a türkizkék tenger a természetkedvelők paradicsomává teszi ezt a helyet.\n\nDélután vár rád a híres vándorló dűne, egy természeti emlék, amely lassan eltemeti a fenyőerdőt. A megmászása fárasztó, de a fenti kilátás az öbölre megfizethetetlen.\n\nZárd a napot egy túrával a Faro de Camarinal világítótoronyhoz. Útközben a Gibraltári-szoroson át egészen a marokkói partokig elláthatsz, miközben a torony az alkonyi nap fényében tündököl.",
+            "ro": "Bolonia este locul unde istoria se întâlnește cu natura sălbatică. Începeți ziua la Baelo Claudia, un oraș roman excepțional de bine conservat, situat chiar pe malul mării. Simțiți istoria printre templele dedicate lui Isis și Juno.\n\nLa prânz, explorați necropola preistorică și apoi bucurați-vă de soare la apele cristaline ale plajei Bolonia. Nisipul fin și marea turcoaz fac din acest loc un paradis pentru iubitorii de natură.\n\nDupă-amiaza, vă așteaptă faimoasa dună călătoare, un monument natural care îngroapă încet pădurea de pini. Urcarea este obositoare, dar vederea de sus asupra golfului este de neprețuit.\n\nÎncheiați ziua cu o drumeție către Faro de Camarinal. Pe drum, veți privi peste Strâmtoarea Gibraltar până la coasta marocană, în timp ce farul strălucește în lumina caldă a apusului.",
+            "en": "Bolonia is a place where history and wild nature meet. Start your day at Baelo Claudia, an exceptionally well-preserved Roman city right by the sea. Feel the history among the temples of Isis and Juno.\n\nAt midday, explore the prehistoric necropolis and then enjoy the sun by the crystal-clear waters of Bolonia Beach. The soft sand and turquoise sea make this place a paradise for nature lovers.\n\nIn the afternoon, the famous migrating dune awaits you, a natural monument slowly burying the pine forest. The climb is tiring, but the view from the top over the bay is priceless.\n\nEnd the day with a hike to the Faro de Camarinal. Along the way, you can look across the Strait of Gibraltar to the Moroccan coast as the lighthouse glows in the warm evening light."
+          },
+          "stops": [
+            {
+              "name": "Centro de Visitantes",
+              "tip_5lang": {
+                "de": "Holen Sie sich Informationen über die römischen Ruinen.",
+                "hu": "Kérj információt a római romokról.",
+                "ro": "Obțineți informații despre ruinele romane.",
+                "en": "Get information about the Roman ruins."
+              }
+            },
+            {
+              "name": "Baelo Claudia",
+              "tip_5lang": {
+                "de": "Besichtigen Sie das besterhaltene römische Theater Andalusiens.",
+                "hu": "Nézd meg Andalúzia legjobb állapotú római színházát.",
+                "ro": "Vizitați cel mai bine conservat teatru roman din Andaluzia.",
+                "en": "Visit the best-preserved Roman theater in Andalusia."
+              }
+            },
+            {
+              "name": "Necrópolis de los Algarbes",
+              "tip_5lang": {
+                "de": "Entdecken Sie die prähistorischen Felsengräber.",
+                "hu": "Fedezd fel az őskori sziklasírokat.",
+                "ro": "Descoperiți mormintele preistorice în stâncă.",
+                "en": "Discover the prehistoric rock-cut tombs."
+              }
+            },
+            {
+              "name": "Playa de Bolonia",
+              "tip_5lang": {
+                "de": "Einer der letzten unberührten Strände Südspaniens.",
+                "hu": "Dél-Spanyolország egyik utolsó érintetlen strandja.",
+                "ro": "Una dintre ultimele plaje virgine din sudul Spaniei.",
+                "en": "One of the last untouched beaches in southern Spain."
+              }
+            },
+            {
+              "name": "Duna de Bolonia",
+              "tip_5lang": {
+                "de": "Erklimmen Sie die 30 Meter hohe Wanderdüne.",
+                "hu": "Mássz fel a 30 méter magas vándorló dűnére.",
+                "ro": "Urcați pe duna de nisip călătoare, înaltă de 30 de metri.",
+                "en": "Climb the 30-meter high migrating sand dune."
+              }
+            },
+            {
+              "name": "Sendero Bolonia-Faro Camarinal",
+              "tip_5lang": {
+                "de": "Wunderschöner Küstenpfad mit Blick auf Afrika.",
+                "hu": "Gyönyörű parti ösvény kilátással Afrikára.",
+                "ro": "Potecă de coastă superbă cu vedere spre Africa.",
+                "en": "Beautiful coastal path with views of Africa."
+              }
+            },
+            {
+              "name": "Faro de Camarinal",
+              "tip_5lang": {
+                "de": "Ein Leuchtturm in einem alten Wachturm aus dem 16. Jh.",
+                "hu": "Világítótorony egy 16. századi őrtoronyban.",
+                "ro": "Un far într-un vechi turn de veghe din sec. XVI.",
+                "en": "A lighthouse inside a 16th-century watchtower."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Garum",
+                "tip": "Probieren Sie die moderne Interpretation der römischen Fischsauce."
+              },
+              {
+                "name": "Urta a la Roteña",
+                "tip": "Typischer Fischauflauf der Region."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Garum",
+                "tip": "Kóstold meg a római halszósz modern változatát."
+              },
+              {
+                "name": "Urta a la Roteña",
+                "tip": "A régióra jellemző halas egytálétel."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Garum",
+                "tip": "Gustați interpretarea modernă a sosului de pește roman."
+              },
+              {
+                "name": "Urta a la Roteña",
+                "tip": "Mâncare de pește tipică regiunii."
+              }
+            ],
+            "en": [
+              {
+                "name": "Garum",
+                "tip": "Try the modern interpretation of the ancient Roman fish sauce."
+              },
+              {
+                "name": "Urta a la Roteña",
+                "tip": "Typical fish stew of the region."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Duna de Bolonia",
+                "tip": "Stille und Weite auf dem Gipfel der Düne.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Sierra de la Plata",
+                "tip": "Wanderwege abseits der Massen.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Duna de Bolonia",
+                "tip": "Csend és tágasság a dűne tetején.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Sierra de la Plata",
+                "tip": "Túraútvonalak távol a tömegtől.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Duna de Bolonia",
+                "tip": "Liniște și spațiu pe vârful dunei.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Sierra de la Plata",
+                "tip": "Trasee de drumeție departe de mulțime.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Duna de Bolonia",
+                "tip": "Silence and vastness at the top of the dune.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Sierra de la Plata",
+                "tip": "Hiking trails away from the crowds.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Sal de Cádiz",
+                "tip": "Handgeerntetes Meersalz aus den nahen Salinen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Sal de Cádiz",
+                "tip": "Kézzel gyűjtött tengeri só a közeli lepárlókból."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Sal de Cádiz",
+                "tip": "Sare de mare recoltată manual din salinele apropiate."
+              }
+            ],
+            "en": [
+              {
+                "name": "Sal de Cádiz",
+                "tip": "Hand-harvested sea salt from the nearby salt flats."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Bringen Sie Sonnenschutz mit, es gibt wenig Schatten am Strand.",
+              "Besuchen Sie Baelo Claudia am Vormittag, wenn es kühler ist.",
+              "Achten Sie auf den starken Wind (Levante), der Sand aufwirbeln kann.",
+              "Die römischen Ruinen sind montags oft geschlossen."
+            ],
+            "hu": [
+              "Vigyél naptejet, mert kevés az árnyék a strandon.",
+              "Délelőtt látogasd meg Baelo Claudiát, amikor hűvösebb van.",
+              "Figyelj az erős szélre (Levante), ami felverheti a homokot.",
+              "A római romok hétfőnként gyakran zárva tartanak."
+            ],
+            "ro": [
+              "Aduceți protecție solară, există puțină umbră pe plajă.",
+              "Vizitați Baelo Claudia dimineața, când este mai răcoare.",
+              "Atenție la vântul puternic (Levante), care poate ridica nisipul.",
+              "Ruinele romane sunt adesea închise lunea."
+            ],
+            "en": [
+              "Bring sunscreen, as there is very little shade on the beach.",
+              "Visit Baelo Claudia in the morning when it's cooler.",
+              "Be aware of the strong wind (Levante) that can kick up sand.",
+              "The Roman ruins are often closed on Mondays."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt im Besucherzentrum, wo Sie dem prasselnden Regen entkommen können. In den römischen Ruinen von Baelo Claudia bilden sich Pfützen, die dem Marmor einen besonderen Glanz verleihen. Ein stürmischer Spaziergang am Strand von Bolonia zeigt die wilde Kraft des Atlantiks. Am Nachmittag trotzen Sie dem Wind auf der Düne, bevor Sie am Faro de Camarinal den Blick auf die raue See genießen.",
+            "hu": "A napot a látogatóközpontban indítjuk, védve az Atlanti-óceán felől érkező esőtől. Baelo Claudia romjai között a vizes kövek különleges fényben úsznak, ami méltóságteljes hangulatot áraszt. A parton a szél és az eső ereje megmutatja a természet igazi arcát a dűnék lábánál. A nap végén a világítótoronynál zárjuk a túrát, figyelve a szürke hullámok és a part találkozását.",
+            "ro": "Ziua începe la centrul de vizitare, un refugiu perfect împotriva ploii atlantice. În ruinele Baelo Claudia, reflexiile apei pe pietrele antice creează o atmosferă mistică sub cerul gri. O plimbare pe plaja Bolonia vă permite să simțiți forța naturii, în timp ce vântul modelează nisipul ud. Spre seară, urcarea pe dună și vizita la far oferă o perspectivă dramatică asupra oceanului agitat.",
+            "en": "The day starts at the visitor center, providing shelter from the Atlantic rain. At Baelo Claudia, the wet marble ruins take on a unique luster under the overcast sky. A walk along Bolonia beach reveals the raw power of the wind and waves crashing near the dunes. In the afternoon, the trek to the lighthouse offers a moody, atmospheric end to this coastal journey through the elements."
+          },
+          "stops": [
+            {
+              "name": "Centro de Visitantes",
+              "tip_4lang": {
+                "de": "Idealer Ort, um die Regenjacke zu richten und die Ausstellung trocken zu genießen.",
+                "hu": "Tökéletes hely az esőkabát megigazítására és a kiállítás megtekintésére szárazon.",
+                "ro": "Locul ideal pentru a vă ajusta pelerina și a vizita expoziția la adăpost.",
+                "en": "The perfect spot to adjust your rain gear and enjoy the exhibits while staying dry."
+              }
+            },
+            {
+              "name": "Baelo Claudia",
+              "tip_4lang": {
+                "de": "Vorsicht auf den glatten Steinen der römischen Straßen bei Nässe.",
+                "hu": "Vigyázat, a római utak kövei esőben rendkívül csúszóssá válnak.",
+                "ro": "Atenție la pietrele drumurilor romane, care devin foarte alunecoase pe ploaie.",
+                "en": "Watch your step on the ancient Roman stones, as they become very slippery when wet."
+              }
+            },
+            {
+              "name": "Necrópolis de los Algarbes",
+              "tip_4lang": {
+                "de": "Die Felsgräber bieten begrenzten Schutz, aber der Pfad kann schlammig sein.",
+                "hu": "A sziklasírok némi védelmet nyújtanak, de az út sárossá válhat.",
+                "ro": "Mormintele în stâncă oferă un adăpost minim, dar poteca poate fi noroioasă.",
+                "en": "The rock-cut tombs offer some shelter, but the path can get muddy."
+              }
+            },
+            {
+              "name": "Playa de Bolonia",
+              "tip_4lang": {
+                "de": "Der Sand ist bei Regen fester, was das Laufen am Ufer erleichtert.",
+                "hu": "Az esőben a homok keményebb, így könnyebb a vízparton haladni.",
+                "ro": "Nisipul este mai compact pe ploaie, facilitând mersul pe malul mării.",
+                "en": "The sand is firmer when wet, making it easier to walk along the shoreline."
+              }
+            },
+            {
+              "name": "Duna de Bolonia",
+              "tip_4lang": {
+                "de": "Bei starkem Wind und Regen kann fliegender Sand die Sicht einschränken.",
+                "hu": "Erős szélben és esőben a szálló homok zavarhatja a látást.",
+                "ro": "În condiții de vânt și ploaie, nisipul purtat de vânt poate limita vizibilitatea.",
+                "en": "During wind and rain, blowing sand can reduce visibility significantly."
+              }
+            },
+            {
+              "name": "Sendero Bolonia-Faro Camarinal",
+              "tip_4lang": {
+                "de": "Nutzen Sie wasserfeste Wanderschuhe für die rutschigen Abschnitte des Pfades.",
+                "hu": "Használjon vízálló túrabakancsot az ösvény csúszós szakaszain.",
+                "ro": "Folosiți bocanci impermeabili pentru porțiunile alunecoase ale potecii.",
+                "en": "Wear waterproof hiking boots for the slippery sections of the trail."
+              }
+            },
+            {
+              "name": "Faro de Camarinal",
+              "tip_4lang": {
+                "de": "Ein windfester Poncho ist hier oben wegen der starken Böen unverzichtbar.",
+                "hu": "Egy szélálló poncsó itt elengedhetetlen az erős lökések miatt.",
+                "ro": "O pelerină rezistentă la vânt este esențială aici din cauza rafalelor puternice.",
+                "en": "A windproof poncho is essential here due to the strong coastal gusts."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine hochwertige Regenjacke mit Kapuze, da Schirme bei dem starken Küstenwind nutzlos sind.",
+              "Das Besucherzentrum ist der einzige größere überdachte Ort für eine längere Pause.",
+              "Achten Sie auf das Wetterradar; Regenschauer am Atlantik ziehen oft schnell vorbei.",
+              "Vermeiden Sie weiße Kleidung, da der nasse Sand von Bolonia hartnäckige Flecken hinterlässt."
+            ],
+            "hu": [
+              "Viseljen kapucnis esőkabátot, mert az esernyő az erős parti szélben használhatatlan.",
+              "A látogatóközpont az egyetlen komolyabb fedett hely egy hosszabb pihenőhöz.",
+              "Figyelje az időjárási radart; az atlanti esők gyakran gyorsan átvonulnak.",
+              "Kerülje a fehér ruházatot, mert a vizes homok makacs foltokat hagyhat."
+            ],
+            "ro": [
+              "Purtați o jachetă impermeabilă cu glugă, deoarece umbrelele sunt inutile în vântul puternic.",
+              "Centrul de vizitare este singurul loc acoperit major pentru o pauză prelungită.",
+              "Verificați radarul meteo; ploile atlantice tind să treacă destul de repede.",
+              "Evitați hainele albe, deoarece nisipul umed din Bolonia poate lăsa pete persistente."
+            ],
+            "en": [
+              "Wear a high-quality hooded raincoat, as umbrellas are useless in the strong coastal wind.",
+              "The visitor center is the only major indoor area for a long break.",
+              "Check the weather radar; Atlantic rain showers often pass through quickly.",
+              "Avoid white clothing as the wet sand of Bolonia can leave stubborn stains."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Wintersonne steht tief über der Bucht und taucht das Besucherzentrum in goldenes Licht. In Baelo Claudia erkunden Sie die Stätte ohne die Sommerhitze, was die Details der römischen Stadt besser zur Geltung bringt. Ein einsamer Strandspaziergang führt Sie zur imposanten Düne, die im Winterlicht fast weiß leuchtet. Da die Sonne gegen 18:00 Uhr untergeht, erreichen Sie den Faro de Camarinal pünktlich zum Dämmerlicht.",
+            "hu": "A téli nap alacsonyan jár az öböl felett, arany fénybe vonva a látogatóközpontot. Baelo Claudia romjait a nyári hőség nélkül fedezhetjük fel, így jobban érvényesülnek a római város részletei. Egy magányos séta a parton a dűnéhez vezet, amely a téli fényben szinte fehéren világít. Mivel a nap 18:00 körül nyugszik, a világítótoronyhoz épp a szürkületi fények idején érünk.",
+            "ro": "Soarele de iarnă stă jos deasupra golfului, scăldând centrul de vizitare în nuanțe aurii. Explorați Baelo Claudia fără canicula verii, ceea ce evidențiază detaliile orașului roman. O plimbare solitară pe plajă vă duce spre duna impunătoare, care strălucește aproape alb în lumina rece. Deoarece soarele apune în jur de ora 18:00, ajungeți la far exact la ora amurgului.",
+            "en": "The winter sun sits low over the bay, bathing the visitor center in golden hues. Explore Baelo Claudia without the summer heat, allowing the details of the Roman city to shine. A solitary walk along the beach leads to the massive dune, glowing almost white in the crisp winter light. With the sun setting around 18:00, you will reach the Camarinal lighthouse just in time for twilight."
+          },
+          "stops": [
+            {
+              "name": "Centro de Visitantes",
+              "tip_4lang": {
+                "de": "Die Innenräume sind im Winter angenehm temperiert und weniger überlaufen.",
+                "hu": "A belső terek télen kellemes hőmérsékletűek és sokkal kevésbé zsúfoltak.",
+                "ro": "Spațiile interioare sunt încălzite plăcut iarna și mult mai puțin aglomerate.",
+                "en": "The interior spaces are pleasantly temperate in winter and much less crowded."
+              }
+            },
+            {
+              "name": "Baelo Claudia",
+              "tip_4lang": {
+                "de": "Perfekte Zeit für Fotos ohne Touristenmassen; nutzen Sie das weiche Licht.",
+                "hu": "Tökéletes időszak a fotózáshoz tömegek nélkül; használja ki a lágy fényeket.",
+                "ro": "Moment ideal pentru fotografii fără mulțimi; profitați de lumina blândă.",
+                "en": "Perfect time for photos without the crowds; take advantage of the soft light."
+              }
+            },
+            {
+              "name": "Necrópolis de los Algarbes",
+              "tip_4lang": {
+                "de": "Die Vegetation ist grüner als im Sommer, was den Ort sehr lebendig wirken lässt.",
+                "hu": "A növényzet zöldebb, mint nyáron, ami élettelivé teszi ezt a történelmi helyet.",
+                "ro": "Vegetația este mai verde decât vara, făcând locul să pară mult mai viu.",
+                "en": "The vegetation is greener than in summer, making the site feel very vibrant."
+              }
+            },
+            {
+              "name": "Playa de Bolonia",
+              "tip_4lang": {
+                "de": "Der Wind kann sehr kühl sein; eine winddichte Schicht ist auch bei Sonne nötig.",
+                "hu": "A szél hűvös lehet; szélálló réteg még napsütésben is szükséges.",
+                "ro": "Vântul poate fi destul de rece; o haină de vânt este necesară chiar și cu soare.",
+                "en": "The wind can be chilly; a windproof layer is needed even if it is sunny."
+              }
+            },
+            {
+              "name": "Duna de Bolonia",
+              "tip_4lang": {
+                "de": "Genießen Sie die Stille der Düne, die im Winter fast menschenleer ist.",
+                "hu": "Élvezze a dűne csendjét, amely télen szinte teljesen néptelen.",
+                "ro": "Bucurați-vă de liniștea dunei, care este aproape pustie pe timpul iernii.",
+                "en": "Enjoy the silence of the dune, which is almost deserted during the winter."
+              }
+            },
+            {
+              "name": "Sendero Bolonia-Faro Camarinal",
+              "tip_4lang": {
+                "de": "Die klare Winterluft bietet die beste Sicht bis nach Afrika.",
+                "hu": "A tiszta téli levegő a legjobb kilátást nyújtja egészen Afrikáig.",
+                "ro": "Aerul curat de iarnă oferă cea mai bună vizibilitate până în Africa.",
+                "en": "The crisp winter air offers the best visibility all the way to Africa."
+              }
+            },
+            {
+              "name": "Faro de Camarinal",
+              "tip_4lang": {
+                "de": "Der Sonnenuntergang ist hier im Winter spektakulär und findet früh statt.",
+                "hu": "A naplemente itt télen látványos és korán következik be.",
+                "ro": "Apusul de soare aici este spectaculos iarna și are loc devreme.",
+                "en": "The sunset here is spectacular in winter and occurs early."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Zwiebelprinzip-Kleidung, da es im Schatten und bei Wind schnell abkühlt.",
+              "Die Sonne verschwindet gegen 18:00 Uhr hinter dem Horizont; planen Sie das Ende ein.",
+              "Viele Restaurants im Dorf Bolonia haben im Winter eingeschränkte Öffnungszeiten.",
+              "Bringen Sie eine Thermoskanne mit einem warmen Getränk für die windige Düne mit."
+            ],
+            "hu": [
+              "Rétegesen öltözködjön, mert árnyékban és szélben gyorsan lehűl a levegő.",
+              "A nap 18:00 körül tűnik el a horizont mögött; tervezze ehhez a túra végét.",
+              "Bolonia faluban sok étterem korlátozott nyitvatartással üzemel télen.",
+              "Hozzon magával termoszt meleg itallal a szeles dűnéhez."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi, deoarece se răcește rapid la umbră și în vânt.",
+              "Soarele dispare după orizont în jur de ora 18:00; planificați finalul traseului.",
+              "Multe restaurante din satul Bolonia au program limitat în timpul iernii.",
+              "Aduceți un termos cu o băutură caldă pentru momentele pe duna vântoasă."
+            ],
+            "en": [
+              "Dress in layers, as it cools down quickly in the shade and wind.",
+              "The sun disappears behind the horizon around 18:00; plan your finish accordingly.",
+              "Many restaurants in Bolonia village have limited opening hours in winter.",
+              "Bring a thermos with a warm drink for the windy dune area."
+            ]
+          }
+        }
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "14:15",
+      "total_km": 15.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Playa de Bolonia",
+          "coords": [
+            -5.7686,
+            36.0808
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Radeln Sie am Ufer entlang (bei Ebbe).",
+            "hu": "Tekerj a parton (apálykor).",
+            "ro": "Pedalați de-a lungul țărmului (la reflux).",
+            "en": "Cycle along the shore (at low tide)."
+          }
+        },
+        {
+          "name": "Baelo Claudia",
+          "coords": [
+            -5.7735,
+            36.0895
+          ],
+          "category": "historical",
+          "arrive_at": "10:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Parken Sie das Rad am Eingang.",
+            "hu": "Parkold le a biciklit a bejáratnál.",
+            "ro": "Parcați bicicleta la intrare.",
+            "en": "Park your bike at the entrance."
+          }
+        },
+        {
+          "name": "Duna de Bolonia",
+          "coords": [
+            -5.78,
+            36.086
+          ],
+          "category": "natural features",
+          "arrive_at": "11:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Radfahren auf der Düne ist verboten.",
+            "hu": "A dűnén tilos biciklizni.",
+            "ro": "Ciclismul pe dună este interzis.",
+            "en": "Cycling on the dune is prohibited."
+          }
+        },
+        {
+          "name": "Sierra de la Plata",
+          "coords": [
+            -5.76,
+            36.1
+          ],
+          "category": "natural features",
+          "arrive_at": "12:50",
+          "stay_min": 50,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Anspruchsvolle Bergfahrt mit toller Aussicht.",
+            "hu": "Kihívást jelentő hegymenet pazar kilátással.",
+            "ro": "Urcare montană solicitantă cu vedere grozavă.",
+            "en": "Challenging uphill ride with great views."
+          }
+        },
+        {
+          "name": "Centro de Visitantes",
+          "coords": [
+            -5.772,
+            36.088
+          ],
+          "category": "museums",
+          "arrive_at": "14:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Abschluss der Tour am Infocenter.",
+            "hu": "A túra lezárása a látogatóközpontnál.",
+            "ro": "Finalul turului la centrul de informare.",
+            "en": "End of the tour at the visitor center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie Bolonia mit dem Mountainbike. Diese Route führt Sie vom flachen Strand hinauf in die Ausläufer der Sierra de la Plata, von wo aus Sie die gesamte Bucht und die Straße von Gibraltar überblicken können.",
+        "hu": "Fedezd fel Boloniát hegyi kerékpárral. Ez az útvonal a lapos strandtól a Sierra de la Plata lábáig vezet, ahonnan beláthatod az egész öblöt és a Gibraltári-szorost.",
+        "ro": "Descoperiți Bolonia cu bicicleta montană. Acest traseu vă duce de la plaja plată până la poalele munților Sierra de la Plata, de unde puteți vedea întregul golf și Strâmtoarea Gibraltar.",
+        "en": "Explore Bolonia by mountain bike. This route takes you from the flat beach up to the foothills of the Sierra de la Plata, from where you can overlook the entire bay and the Strait of Gibraltar."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bocadillo de Melva",
+            "tip": "Fischbrötchen mit lokaler Makrele."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bocadillo de Melva",
+            "tip": "Helyi makrélás szendvics."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bocadillo de Melva",
+            "tip": "Sandviș cu macrou local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bocadillo de Melva",
+            "tip": "Fish sandwich with local mackerel."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Observatorio de Aves",
+            "tip": "Ruhiger Punkt zur Vogelbeobachtung.",
+            "emoji": "🦅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Observatorio de Aves",
+            "tip": "Nyugodt pont madárleshez.",
+            "emoji": "🦅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Observatorio de Aves",
+            "tip": "Punct liniștit pentru observarea păsărilor.",
+            "emoji": "🦅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Observatorio de Aves",
+            "tip": "Quiet spot for birdwatching.",
+            "emoji": "🦅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Miel de la Sierra",
+            "tip": "Lokaler Honig aus den Bergen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Miel de la Sierra",
+            "tip": "Helyi méz a hegyekből."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miel de la Sierra",
+            "tip": "Miere locală din munți."
+          }
+        ],
+        "en": [
+          {
+            "name": "Miel de la Sierra",
+            "tip": "Local honey from the mountains."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Wege in der Sierra können steinig sein, ein Mountainbike ist nötig.",
+          "Vermeiden Sie das Radfahren in der Mittagshitze im Sommer.",
+          "Tragen Sie immer einen Helm, besonders bei den Abfahrten.",
+          "Sand auf den Straßen kann die Reifen rutschig machen."
+        ],
+        "hu": [
+          "A hegyi utak kövesek lehetnek, mountain bike szükséges.",
+          "Nyáron kerüld a biciklizést a déli hőségben.",
+          "Mindig viselj sisakot, különösen a lejtőkön.",
+          "Az utakon lévő homok csúszóssá teheti a gumikat."
+        ],
+        "ro": [
+          "Drumurile din munte pot fi pietroase, este necesar un mountain bike.",
+          "Evitați ciclismul în căldura amiezii pe timpul verii.",
+          "Purtați întotdeauna cască, mai ales la coborâri.",
+          "Nisipul de pe drumuri poate face anvelopele alunecoase."
+        ],
+        "en": [
+          "Paths in the mountains can be rocky; a mountain bike is necessary.",
+          "Avoid cycling in the midday heat during summer.",
+          "Always wear a helmet, especially on descents.",
+          "Sand on the roads can make tires slippery."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Entdecken Sie Bolonia mit dem Mountainbike. Diese Route führt Sie vom flachen Strand hinauf in die Ausläufer der Sierra de la Plata, von wo aus Sie die gesamte Bucht und die Straße von Gibraltar überblicken können.",
+            "hu": "Fedezd fel Boloniát hegyi kerékpárral. Ez az útvonal a lapos strandtól a Sierra de la Plata lábáig vezet, ahonnan beláthatod az egész öblöt és a Gibraltári-szorost.",
+            "ro": "Descoperiți Bolonia cu bicicleta montană. Acest traseu vă duce de la plaja plată până la poalele munților Sierra de la Plata, de unde puteți vedea întregul golf și Strâmtoarea Gibraltar.",
+            "en": "Explore Bolonia by mountain bike. This route takes you from the flat beach up to the foothills of the Sierra de la Plata, from where you can overlook the entire bay and the Strait of Gibraltar."
+          },
+          "stops": [
+            {
+              "name": "Playa de Bolonia",
+              "tip_5lang": {
+                "de": "Radeln Sie am Ufer entlang (bei Ebbe).",
+                "hu": "Tekerj a parton (apálykor).",
+                "ro": "Pedalați de-a lungul țărmului (la reflux).",
+                "en": "Cycle along the shore (at low tide)."
+              }
+            },
+            {
+              "name": "Baelo Claudia",
+              "tip_5lang": {
+                "de": "Parken Sie das Rad am Eingang.",
+                "hu": "Parkold le a biciklit a bejáratnál.",
+                "ro": "Parcați bicicleta la intrare.",
+                "en": "Park your bike at the entrance."
+              }
+            },
+            {
+              "name": "Duna de Bolonia",
+              "tip_5lang": {
+                "de": "Radfahren auf der Düne ist verboten.",
+                "hu": "A dűnén tilos biciklizni.",
+                "ro": "Ciclismul pe dună este interzis.",
+                "en": "Cycling on the dune is prohibited."
+              }
+            },
+            {
+              "name": "Sierra de la Plata",
+              "tip_5lang": {
+                "de": "Anspruchsvolle Bergfahrt mit toller Aussicht.",
+                "hu": "Kihívást jelentő hegymenet pazar kilátással.",
+                "ro": "Urcare montană solicitantă cu vedere grozavă.",
+                "en": "Challenging uphill ride with great views."
+              }
+            },
+            {
+              "name": "Centro de Visitantes",
+              "tip_5lang": {
+                "de": "Abschluss der Tour am Infocenter.",
+                "hu": "A túra lezárása a látogatóközpontnál.",
+                "ro": "Finalul turului la centrul de informare.",
+                "en": "End of the tour at the visitor center."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Bocadillo de Melva",
+                "tip": "Fischbrötchen mit lokaler Makrele."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Bocadillo de Melva",
+                "tip": "Helyi makrélás szendvics."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Bocadillo de Melva",
+                "tip": "Sandviș cu macrou local."
+              }
+            ],
+            "en": [
+              {
+                "name": "Bocadillo de Melva",
+                "tip": "Fish sandwich with local mackerel."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Observatorio de Aves",
+                "tip": "Ruhiger Punkt zur Vogelbeobachtung.",
+                "emoji": "🦅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Observatorio de Aves",
+                "tip": "Nyugodt pont madárleshez.",
+                "emoji": "🦅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Observatorio de Aves",
+                "tip": "Punct liniștit pentru observarea păsărilor.",
+                "emoji": "🦅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Observatorio de Aves",
+                "tip": "Quiet spot for birdwatching.",
+                "emoji": "🦅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Miel de la Sierra",
+                "tip": "Lokaler Honig aus den Bergen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Miel de la Sierra",
+                "tip": "Helyi méz a hegyekből."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Miel de la Sierra",
+                "tip": "Miere locală din munți."
+              }
+            ],
+            "en": [
+              {
+                "name": "Miel de la Sierra",
+                "tip": "Local honey from the mountains."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Die Wege in der Sierra können steinig sein, ein Mountainbike ist nötig.",
+              "Vermeiden Sie das Radfahren in der Mittagshitze im Sommer.",
+              "Tragen Sie immer einen Helm, besonders bei den Abfahrten.",
+              "Sand auf den Straßen kann die Reifen rutschig machen."
+            ],
+            "hu": [
+              "A hegyi utak kövesek lehetnek, mountain bike szükséges.",
+              "Nyáron kerüld a biciklizést a déli hőségben.",
+              "Mindig viselj sisakot, különösen a lejtőkön.",
+              "Az utakon lévő homok csúszóssá teheti a gumikat."
+            ],
+            "ro": [
+              "Drumurile din munte pot fi pietroase, este necesar un mountain bike.",
+              "Evitați ciclismul în căldura amiezii pe timpul verii.",
+              "Purtați întotdeauna cască, mai ales la coborâri.",
+              "Nisipul de pe drumuri poate face anvelopele alunecoase."
+            ],
+            "en": [
+              "Paths in the mountains can be rocky; a mountain bike is necessary.",
+              "Avoid cycling in the midday heat during summer.",
+              "Always wear a helmet, especially on descents.",
+              "Sand on the roads can make tires slippery."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Strand von Bolonia wirkt im Regen mystisch, während Sie auf festem Sand starten. Bei Baelo Claudia ist Vorsicht geboten, da die Wege rutschig werden können. Die Auffahrt zur Sierra de la Plata bietet bei Regen eine kühle Brise, doch die Abfahrt erfordert volle Konzentration. Den Tag beenden Sie im schützenden Besucherzentrum, um sich nach der nassen Fahrt aufzuwärmen.",
+            "hu": "Bolonia strandja misztikus az esőben, miközben a kemény homokon indulunk el. Baelo Claudiánál óvatosságra van szükség, mert az utak csúszóssá válhatnak. A Sierra de la Plata emelkedője hűvös fuvallatot kínál az esőben, de a lejtmenet teljes koncentrációt igényel. A napot a védett látogatóközpontban zárjuk, hogy felmelegedjünk a vizes tekerés után.",
+            "ro": "Plaja Bolonia pare mistică în ploaie în timp ce porniți pe nisipul compact. La Baelo Claudia este nevoie de prudență, deoarece potecile pot deveni alunecoase. Urcarea spre Sierra de la Plata oferă o briză răcoroasă pe ploaie, dar coborârea necesită concentrare maximă. Încheiați ziua la centrul de vizitare pentru a vă încălzi după tura udă.",
+            "en": "Bolonia beach feels mystical in the rain as you start on the firm sand. At Baelo Claudia, caution is needed as the paths can become quite slick. The ascent to Sierra de la Plata offers a cool breeze in the rain, but the descent demands full concentration. You will finish the day at the sheltered visitor center to warm up after the wet ride."
+          },
+          "stops": [
+            {
+              "name": "Playa de Bolonia",
+              "tip_4lang": {
+                "de": "Fahren Sie nah am Wasser, wo der nasse Sand am tragfähigsten ist.",
+                "hu": "Hajtson közel a vízhez, ahol a vizes homok a legteherbíróbb.",
+                "ro": "Mergeți aproape de apă, unde nisipul umed este cel mai stabil.",
+                "en": "Ride close to the water where the wet sand is most supportive."
+              }
+            },
+            {
+              "name": "Baelo Claudia",
+              "tip_4lang": {
+                "de": "Parken Sie das Rad im überdachten Bereich des Eingangs, um den Sattel trocken zu halten.",
+                "hu": "Parkolja a kerékpárt a bejárat fedett részénél, hogy a nyereg száraz maradjon.",
+                "ro": "Parcați bicicleta în zona acoperită de la intrare pentru a menține șaua uscată.",
+                "en": "Park your bike in the covered area at the entrance to keep the saddle dry."
+              }
+            },
+            {
+              "name": "Duna de Bolonia",
+              "tip_4lang": {
+                "de": "Der Pfad zur Düne kann tiefe Pfützen haben; umfahren Sie diese großräumig.",
+                "hu": "A dűnéhez vezető úton mély tócsák lehetnek; kerülje el őket nagy ívben.",
+                "ro": "Poteca spre dună poate avea bălți adânci; ocoliți-le pe cât posibil.",
+                "en": "The path to the dune can have deep puddles; bypass them widely."
+              }
+            },
+            {
+              "name": "Sierra de la Plata",
+              "tip_4lang": {
+                "de": "Bremsen Sie frühzeitig, da die Felgenbremsen bei Nässe verzögert reagieren.",
+                "hu": "Fékezzen időben, mert a felnifékek esőben lassabban reagálnak.",
+                "ro": "Frânați din timp, deoarece frânele pe jantă reacționează mai lent pe ud.",
+                "en": "Brake early as rim brakes have a delayed response in wet conditions."
+              }
+            },
+            {
+              "name": "Centro de Visitantes",
+              "tip_4lang": {
+                "de": "Ein guter Ort, um die Kette kurz abzuwischen und sich zu trocknen.",
+                "hu": "Jó hely a lánc gyors áttörlésére és a saját megszárítkozásra.",
+                "ro": "Un loc bun pentru a șterge rapid lanțul și a vă usca.",
+                "en": "A good place to quickly wipe down your chain and dry yourself off."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche am Fahrrad sind bei diesem Wetter unverzichtbar gegen Spritzwasser.",
+              "Vermeiden Sie das Befahren der Düne selbst; der nasse Sand verklebt die Schaltung.",
+              "Tragen Sie eine wasserdichte Radhose, um den Komfort im Sattel zu erhalten.",
+              "Reinigen Sie Ihr Fahrrad nach der Tour gründlich von Salz und nassem Sand."
+            ],
+            "hu": [
+              "A sárvédő elengedhetetlen ilyenkor a felcsapódó víz és sár ellen.",
+              "Kerülje magát a dűnét; a vizes homok tönkreteheti a váltót.",
+              "Viseljen vízálló nadrágot a kényelem megőrzése érdekében.",
+              "A túra után alaposan tisztítsa meg a kerékpárt a sótól és a vizes homoktól."
+            ],
+            "ro": [
+              "Aripile la bicicletă sunt esențiale pe această vreme împotriva stropirii.",
+              "Evitați să pedalați direct pe dună; nisipul umed blochează schimbătorul.",
+              "Purtați pantaloni de ciclism impermeabili pentru a menține confortul în șa.",
+              "Curățați bine bicicleta după tură de sare și nisip umed."
+            ],
+            "en": [
+              "Mudguards on your bike are essential in this weather to stop splashes.",
+              "Avoid riding on the dune itself; wet sand will clog your gears.",
+              "Wear waterproof cycling trousers to maintain comfort in the saddle.",
+              "Clean your bike thoroughly after the tour to remove salt and wet sand."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Start am Strand von Bolonia lässt Sie die kühle Meeresbrise spüren. Bei Baelo Claudia genießen Sie die antiken Wege in der milden Wintersonne. Die Fahrt hinauf zur Sierra de la Plata wird durch die kühle Luft weniger anstrengend als im Sommer. Zum Abschluss wärmen Sie sich im Besucherzentrum auf, während die tiefstehende Sonne lange Schatten wirft.",
+            "hu": "Friss kezdés Bolonia strandján, ahol érezhetjük a hűvös tengeri szellőt. Baelo Claudiánál az ókori utakat a lágy téli napsütésben élvezhetjük. A Sierra de la Plata felé vezető út a hűvös levegő miatt kevésbé megterhelő, mint nyáron. Végül a látogatóközpontban melegedünk fel, miközben az alacsonyan járó nap hosszú árnyékokat vet.",
+            "ro": "Un început proaspăt pe plaja Bolonia vă face să simțiți briza rece a mării. La Baelo Claudia vă bucurați de drumurile antice sub soarele blând de iarnă. Urcarea spre Sierra de la Plata este mai puțin obositoare decât vara datorită aerului rece. La final, vă încălziți la centrul de vizitare în timp ce soarele apus aruncă umbre lungi.",
+            "en": "A fresh start at Bolonia beach lets you feel the cool sea breeze. At Baelo Claudia, enjoy the ancient paths in the mild winter sun. The ride up to Sierra de la Plata is less strenuous than in summer thanks to the cool air. To conclude, warm up at the visitor center as the low sun casts long shadows."
+          },
+          "stops": [
+            {
+              "name": "Playa de Bolonia",
+              "tip_4lang": {
+                "de": "Der Wind am Ufer kann im Winter schneidend sein; tragen Sie einen Buff.",
+                "hu": "A szél a parton télen metsző lehet; viseljen csősálat.",
+                "ro": "Vântul de pe mal poate fi tăios iarna; purtați un fular tip buff.",
+                "en": "The wind at the shore can be biting in winter; wear a neck buff."
+              }
+            },
+            {
+              "name": "Baelo Claudia",
+              "tip_4lang": {
+                "de": "Nutzen Sie die Mittagssonne für eine Pause in den windgeschützten Foren.",
+                "hu": "Használja ki a déli napsütést egy pihenőre a szélvédett fórumokon.",
+                "ro": "Profitați de soarele de la prânz pentru o pauză în zonele ferite de vânt.",
+                "en": "Use the midday sun for a break in the wind-sheltered forum areas."
+              }
+            },
+            {
+              "name": "Duna de Bolonia",
+              "tip_4lang": {
+                "de": "Im Winter ist der Sand oft fester und lässt sich leichter befahren.",
+                "hu": "Télen a homok gyakran tömörebb és könnyebben biciklizhető.",
+                "ro": "Iarna, nisipul este adesea mai compact și mai ușor de parcurs cu bicicleta.",
+                "en": "In winter, the sand is often firmer and easier to ride on."
+              }
+            },
+            {
+              "name": "Sierra de la Plata",
+              "tip_4lang": {
+                "de": "In der Höhe ist es deutlich kühler; ziehen Sie für die Abfahrt eine Weste an.",
+                "hu": "A magasban jóval hűvösebb van; a lejtmenethez vegyen fel mellényt.",
+                "ro": "La înălțime este mult mai rece; puneți-vă o vestă pentru coborâre.",
+                "en": "It is significantly cooler at altitude; put on a vest for the descent."
+              }
+            },
+            {
+              "name": "Centro de Visitantes",
+              "tip_4lang": {
+                "de": "Perfekter Ort, um die Tour vor dem frühen Sonnenuntergang zu beenden.",
+                "hu": "Tökéletes hely a túra befejezéséhez a korai naplemente előtt.",
+                "ro": "Locul perfect pentru a încheia turul înainte de apusul devreme.",
+                "en": "The perfect place to end the tour before the early sunset."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vollfinger-Handschuhe sind wegen des Fahrtwinds auch bei Sonne ratsam.",
+              "Planen Sie Ihre Rückkehr spätestens für 17:30 Uhr ein, bevor es dunkel wird.",
+              "Die Luftfeuchtigkeit ist im Winter höher; achten Sie auf Kondensation an der Brille.",
+              "Ein warmer Tee in der Fahrradflasche wirkt bei Pausen Wunder."
+            ],
+            "hu": [
+              "A menetszél miatt még napsütésben is javasolt a hosszú ujjú kesztyű.",
+              "Tervezze a visszaérkezést legkésőbb 17:30-ra, mielőtt besötétedik.",
+              "Télen magasabb a páratartalom; ügyeljen a szemüveg párásodására.",
+              "Egy meleg tea a kulacsban csodákra képes a pihenők során."
+            ],
+            "ro": [
+              "Mănușile cu degete lungi sunt recomandate din cauza vântului, chiar și cu soare.",
+              "Planificați întoarcerea cel târziu la 17:30, înainte de a se întuneca.",
+              "Umiditatea este mai mare iarna; atenție la aburirea ochelarilor.",
+              "Un ceai cald în bidonul de apă face minuni în timpul pauzelor."
+            ],
+            "en": [
+              "Full-finger gloves are advisable due to the wind chill, even if it is sunny.",
+              "Plan your return by 17:30 at the latest, before it gets dark.",
+              "Humidity is higher in winter; watch out for condensation on your glasses.",
+              "A warm tea in your bike bottle works wonders during breaks."
+            ]
+          }
+        }
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 25.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Baelo Claudia",
+          "coords": [
+            -5.7735,
+            36.0895
+          ],
+          "category": "historical",
+          "arrive_at": "09:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Großer kostenloser Parkplatz vorhanden.",
+            "hu": "Nagy, ingyenes parkoló áll rendelkezésre.",
+            "ro": "Parcare mare gratuită disponibilă.",
+            "en": "Large free parking lot available."
+          }
+        },
+        {
+          "name": "Playa de Bolonia",
+          "coords": [
+            -5.7686,
+            36.0808
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Parken Sie in Strandnähe bei den Chiringuitos.",
+            "hu": "Parkolj a strand közelében a chiringuitóknál.",
+            "ro": "Parcați lângă plajă, în zona teraselor.",
+            "en": "Park near the beach by the chiringuitos."
+          }
+        },
+        {
+          "name": "Duna de Bolonia",
+          "coords": [
+            -5.78,
+            36.086
+          ],
+          "category": "natural features",
+          "arrive_at": "13:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Kurze Fahrt zum westlichen Ende der Bucht.",
+            "hu": "Rövid út az öböl nyugati végéhez.",
+            "ro": "Scurt drum către capătul vestic al golfului.",
+            "en": "Short drive to the western end of the bay."
+          }
+        },
+        {
+          "name": "Faro de Camarinal",
+          "coords": [
+            -5.795,
+            36.08
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "14:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Die Straße zum Leuchtturm ist eng.",
+            "hu": "A világítótoronyhoz vezető út szűk.",
+            "ro": "Drumul către far este îngust.",
+            "en": "The road to the lighthouse is narrow."
+          }
+        },
+        {
+          "name": "Silla del Papa",
+          "coords": [
+            -5.76,
+            36.115
+          ],
+          "category": "historical",
+          "arrive_at": "16:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 10.0,
+          "tip_5lang": {
+            "de": "Prähistorische Siedlung auf dem Berggipfel.",
+            "hu": "Őskori település a hegytetőn.",
+            "ro": "Așezare preistorică pe vârful muntelui.",
+            "en": "Prehistoric settlement on the mountain top."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erreichen Sie mühelos die entlegensten Winkel von Bolonia. Von den römischen Ruinen über die riesige Düne bis hin zum Berggipfel der Silla del Papa bietet diese Tour die komplette Vielfalt dieser einzigartigen Küstenregion.",
+        "hu": "Autóval könnyedén elérheted Bolonia legtávolabbi szegleteit is. A római romoktól az óriási dűnén át a Silla del Papa hegycsúcsáig ez a túra a teljes változatosságát kínálja ennek az egyedülálló partvidéknek.",
+        "ro": "Cu mașina, puteți ajunge fără efort în cele mai îndepărtate colțuri ale Boloniei. De la ruinele romane și duna uriașă până la vârful muntelui Silla del Papa, acest tur oferă întreaga diversitate a acestei regiuni de coastă unice.",
+        "en": "By car, you can easily reach the most remote corners of Bolonia. From the Roman ruins and the massive dune to the mountain top of Silla del Papa, this tour offers the full variety of this unique coastal region."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Chiringuito La Cabaña",
+            "tip": "Frischer Fisch direkt am Strand."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Chiringuito La Cabaña",
+            "tip": "Friss hal közvetlenül a strandon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chiringuito La Cabaña",
+            "tip": "Pește proaspăt chiar pe plajă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Chiringuito La Cabaña",
+            "tip": "Fresh fish served right on the beach."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Silla del Papa",
+            "tip": "Spektakuläre Aussicht in absoluter Ruhe.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Silla del Papa",
+            "tip": "Látványos kilátás teljes nyugalomban.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Silla del Papa",
+            "tip": "Vedere spectaculoasă în liniște deplină.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Silla del Papa",
+            "tip": "Spectacular views in absolute peace.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Queso Payoyo",
+            "tip": "Preisgekrönter Ziegenkäse aus den Bergen von Cádiz."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Queso Payoyo",
+            "tip": "Díjnyertes kecskesajt Cádiz hegyeiből."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Queso Payoyo",
+            "tip": "Brânză de capră premiată din munții Cádizului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Queso Payoyo",
+            "tip": "Award-winning goat cheese from the Cádiz mountains."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Zufahrtsstraße nach Bolonia ist schmal und kurvig.",
+          "Parkplätze können an Sommerwochenenden schnell voll sein.",
+          "Fahren Sie vorsichtig, da oft Kühe auf der Straße stehen.",
+          "Die Fahrt von Tarifa nach Bolonia dauert etwa 25 Minuten."
+        ],
+        "hu": [
+          "A Boloniába vezető út keskeny és kanyargós.",
+          "Nyári hétvégéken a parkolók gyorsan megtelhetnek.",
+          "Vezess óvatosan, mert gyakran tehenek állnak az úton.",
+          "Az út Tarifából Boloniába kb. 25 percet vesz igénybe."
+        ],
+        "ro": [
+          "Drumul de acces spre Bolonia este îngust și sinuos.",
+          "Locurile de parcare se pot umple rapid în weekendurile de vară.",
+          "Conduceți cu atenție, deoarece adesea sunt vaci pe drum.",
+          "Drumul de la Tarifa la Bolonia durează aproximativ 25 de minute."
+        ],
+        "en": [
+          "The access road to Bolonia is narrow and winding.",
+          "Parking can fill up quickly on summer weekends.",
+          "Drive carefully as cows are often standing on the road.",
+          "The drive from Tarifa to Bolonia takes about 25 minutes."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erreichen Sie mühelos die entlegensten Winkel von Bolonia. Von den römischen Ruinen über die riesige Düne bis hin zum Berggipfel der Silla del Papa bietet diese Tour die komplette Vielfalt dieser einzigartigen Küstenregion.",
+            "hu": "Autóval könnyedén elérheted Bolonia legtávolabbi szegleteit is. A római romoktól az óriási dűnén át a Silla del Papa hegycsúcsáig ez a túra a teljes változatosságát kínálja ennek az egyedülálló partvidéknek.",
+            "ro": "Cu mașina, puteți ajunge fără efort în cele mai îndepărtate colțuri ale Boloniei. De la ruinele romane și duna uriașă până la vârful muntelui Silla del Papa, acest tur oferă întreaga diversitate a acestei regiuni de coastă unice.",
+            "en": "By car, you can easily reach the most remote corners of Bolonia. From the Roman ruins and the massive dune to the mountain top of Silla del Papa, this tour offers the full variety of this unique coastal region."
+          },
+          "stops": [
+            {
+              "name": "Baelo Claudia",
+              "tip_5lang": {
+                "de": "Großer kostenloser Parkplatz vorhanden.",
+                "hu": "Nagy, ingyenes parkoló áll rendelkezésre.",
+                "ro": "Parcare mare gratuită disponibilă.",
+                "en": "Large free parking lot available."
+              }
+            },
+            {
+              "name": "Playa de Bolonia",
+              "tip_5lang": {
+                "de": "Parken Sie in Strandnähe bei den Chiringuitos.",
+                "hu": "Parkolj a strand közelében a chiringuitóknál.",
+                "ro": "Parcați lângă plajă, în zona teraselor.",
+                "en": "Park near the beach by the chiringuitos."
+              }
+            },
+            {
+              "name": "Duna de Bolonia",
+              "tip_5lang": {
+                "de": "Kurze Fahrt zum westlichen Ende der Bucht.",
+                "hu": "Rövid út az öböl nyugati végéhez.",
+                "ro": "Scurt drum către capătul vestic al golfului.",
+                "en": "Short drive to the western end of the bay."
+              }
+            },
+            {
+              "name": "Faro de Camarinal",
+              "tip_5lang": {
+                "de": "Die Straße zum Leuchtturm ist eng.",
+                "hu": "A világítótoronyhoz vezető út szűk.",
+                "ro": "Drumul către far este îngust.",
+                "en": "The road to the lighthouse is narrow."
+              }
+            },
+            {
+              "name": "Silla del Papa",
+              "tip_5lang": {
+                "de": "Prähistorische Siedlung auf dem Berggipfel.",
+                "hu": "Őskori település a hegytetőn.",
+                "ro": "Așezare preistorică pe vârful muntelui.",
+                "en": "Prehistoric settlement on the mountain top."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Chiringuito La Cabaña",
+                "tip": "Frischer Fisch direkt am Strand."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Chiringuito La Cabaña",
+                "tip": "Friss hal közvetlenül a strandon."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Chiringuito La Cabaña",
+                "tip": "Pește proaspăt chiar pe plajă."
+              }
+            ],
+            "en": [
+              {
+                "name": "Chiringuito La Cabaña",
+                "tip": "Fresh fish served right on the beach."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Silla del Papa",
+                "tip": "Spektakuläre Aussicht in absoluter Ruhe.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Silla del Papa",
+                "tip": "Látványos kilátás teljes nyugalomban.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Silla del Papa",
+                "tip": "Vedere spectaculoasă în liniște deplină.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Silla del Papa",
+                "tip": "Spectacular views in absolute peace.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Queso Payoyo",
+                "tip": "Preisgekrönter Ziegenkäse aus den Bergen von Cádiz."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Queso Payoyo",
+                "tip": "Díjnyertes kecskesajt Cádiz hegyeiből."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Queso Payoyo",
+                "tip": "Brânză de capră premiată din munții Cádizului."
+              }
+            ],
+            "en": [
+              {
+                "name": "Queso Payoyo",
+                "tip": "Award-winning goat cheese from the Cádiz mountains."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Die Zufahrtsstraße nach Bolonia ist schmal und kurvig.",
+              "Parkplätze können an Sommerwochenenden schnell voll sein.",
+              "Fahren Sie vorsichtig, da oft Kühe auf der Straße stehen.",
+              "Die Fahrt von Tarifa nach Bolonia dauert etwa 25 Minuten."
+            ],
+            "hu": [
+              "A Boloniába vezető út keskeny és kanyargós.",
+              "Nyári hétvégéken a parkolók gyorsan megtelhetnek.",
+              "Vezess óvatosan, mert gyakran tehenek állnak az úton.",
+              "Az út Tarifából Boloniába kb. 25 percet vesz igénybe."
+            ],
+            "ro": [
+              "Drumul de acces spre Bolonia este îngust și sinuos.",
+              "Locurile de parcare se pot umple rapid în weekendurile de vară.",
+              "Conduceți cu atenție, deoarece adesea sunt vaci pe drum.",
+              "Drumul de la Tarifa la Bolonia durează aproximativ 25 de minute."
+            ],
+            "en": [
+              "The access road to Bolonia is narrow and winding.",
+              "Parking can fill up quickly on summer weekends.",
+              "Drive carefully as cows are often standing on the road.",
+              "The drive from Tarifa to Bolonia takes about 25 minutes."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Vom trockenen Auto aus beobachten Sie, wie die Wolken über Baelo Claudia ziehen. Der Strand von Bolonia wirkt durch die Windschutzscheibe dramatisch und wild. Die Düne erkunden Sie in einer Regenpause, bevor Sie zum Faro de Camarinal weiterfahren. Den Abschluss bildet die Silla del Papa, wo der Nebel den antiken Steinen eine geheimnisvolle Aura verleiht.",
+            "hu": "A száraz autóból nézzük, ahogy a felhők átvonulnak Baelo Claudia felett. Bolonia strandja drámai és vad a szélvédőn keresztül nézve. A dűnét egy esőszünetben fedezzük fel, mielőtt a világítótoronyhoz indulnánk. A napot a Silla del Papa zárja, ahol a köd titokzatos aurát kölcsönöz az ősi köveknek.",
+            "ro": "Din mașina uscată priviți norii trecând peste Baelo Claudia. Plaja Bolonia pare dramatică și sălbatică prin parbriz. Explorați duna într-o pauză de ploaie, înainte de a continua spre far. Finalul este la Silla del Papa, unde ceața conferă pietrelor antice o aură misterioasă.",
+            "en": "From the dry car, you watch the clouds race over Baelo Claudia. Bolonia beach looks dramatic and wild through the windshield. Explore the dune during a break in the rain before heading to the lighthouse. The day ends at Silla del Papa, where mist gives the ancient stones a mysterious aura."
+          },
+          "stops": [
+            {
+              "name": "Baelo Claudia",
+              "tip_4lang": {
+                "de": "Nutzen Sie den großen Parkplatz direkt am Eingang des Museums.",
+                "hu": "Használja a közvetlenül a múzeum bejáratánál található nagy parkolót.",
+                "ro": "Folosiți parcarea mare situată direct la intrarea în muzeu.",
+                "en": "Use the large car park located directly at the museum entrance."
+              }
+            },
+            {
+              "name": "Playa de Bolonia",
+              "tip_4lang": {
+                "de": "Parken Sie mit Blick auf das Meer, um die Aussicht trocken zu genießen.",
+                "hu": "Parkoljon a tenger felé nézve, hogy szárazon élvezhesse a kilátást.",
+                "ro": "Parcați cu fața spre mare pentru a vă bucura de priveliște la adăpost.",
+                "en": "Park facing the sea to enjoy the view while staying dry."
+              }
+            },
+            {
+              "name": "Duna de Bolonia",
+              "tip_4lang": {
+                "de": "Lassen Sie keine Wertsachen sichtbar im Auto, wenn Sie zur Düne laufen.",
+                "hu": "Ne hagyjon értéket látható helyen az autóban, amíg a dűnéhez sétál.",
+                "ro": "Nu lăsați obiecte de valoare la vedere în mașină în timp ce mergeți la dună.",
+                "en": "Do not leave valuables visible in the car while you walk to the dune."
+              }
+            },
+            {
+              "name": "Faro de Camarinal",
+              "tip_4lang": {
+                "de": "Die Straße zum Far ist eng; fahren Sie bei Regen und Pfützen vorsichtig.",
+                "hu": "A világítótoronyhoz vezető út szűk; vezessen óvatosan esőben és tócsáknál.",
+                "ro": "Drumul spre far este îngust; conduceți cu atenție pe ploaie și bălți.",
+                "en": "The road to the lighthouse is narrow; drive carefully in rain and puddles."
+              }
+            },
+            {
+              "name": "Silla del Papa",
+              "tip_4lang": {
+                "de": "Der steile Anstieg kann bei Nässe rutschig sein; gute Reifen sind wichtig.",
+                "hu": "A meredek emelkedő esőben csúszós lehet; a jó gumiabroncs itt fontos.",
+                "ro": "Urcarea abruptă poate fi alunecoasă pe ud; anvelopele bune sunt importante.",
+                "en": "The steep climb can be slippery when wet; good tires are essential here."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie das Parken auf unbefestigten Seitenstreifen; Verschlammungsgefahr.",
+              "Prüfen Sie Ihre Scheibenwischer vor der Fahrt durch die salzige Meeresluft.",
+              "Ein Regenschirm im Kofferraum ist nützlich für den Weg zum Museumseingang.",
+              "Bei starkem Wind an der Küste die Autotüren beim Öffnen gut festhalten."
+            ],
+            "hu": [
+              "Kerülje a parkolást nem aszfaltozott útpadkán; elakadás veszélye sárban.",
+              "Ellenőrizze az ablaktörlőket a sós tengeri pára miatti lerakódások előtt.",
+              "Egy esernyő a csomagtartóban hasznos a múzeum bejáratáig vezető úton.",
+              "Erős szélben a parton fogja erősen az autóajtót nyitáskor."
+            ],
+            "ro": [
+              "Evitați parcarea pe acostamente neasfaltate; risc de împotmolire în noroi.",
+              "Verificați ștergătoarele înainte de drum din cauza depunerilor de sare.",
+              "O umbrelă în portbagaj este utilă pentru drumul până la intrarea în muzeu.",
+              "În vânt puternic la coastă, țineți bine portiera mașinii când o deschideți."
+            ],
+            "en": [
+              "Avoid parking on unpaved shoulders; risk of getting stuck in mud.",
+              "Check your wipers before the drive due to salt spray buildup.",
+              "An umbrella in the trunk is useful for the walk to the museum entrance.",
+              "In strong coastal winds, hold the car door firmly when opening it."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Wintersonne beleuchtet Baelo Claudia in klarem Licht, während Sie entspannt ankommen. Am Strand von Bolonia genießen Sie die weite Leere ohne Parkplatzsorgen. Die Düne erklimmen Sie bei angenehmen Temperaturen, bevor Sie zum Faro de Camarinal weiterfahren. Den Tag krönt der Besuch der Silla del Papa mit einer Fernsicht, die im Winter unübertroffen ist.",
+            "hu": "A téli nap tiszta fénnyel világítja meg Baelo Claudiát, miközben kényelmesen megérkezünk. Bolonia strandján élvezhetjük a tágas ürességet parkolási gondok nélkül. A dűnét kellemes hőmérsékletben másszuk meg, majd a világítótoronyhoz indulunk. A napot a Silla del Papa látogatása koronázza meg verhetetlen téli kilátással.",
+            "ro": "Soarele de iarnă luminează Baelo Claudia într-o lumină clară la sosire. Pe plaja Bolonia vă bucurați de spațiul gol fără griji legate de parcare. Urcați duna la temperaturi plăcute înainte de a continua spre far. Ziua este încununată de vizita la Silla del Papa cu o vizibilitate de neegalat.",
+            "en": "The winter sun illuminates Baelo Claudia in crisp light as you arrive relaxed. At Bolonia beach, enjoy the vast emptiness without parking worries. Climb the dune in comfortable temperatures before driving to the lighthouse. The day is crowned by a visit to Silla del Papa with unrivaled winter views."
+          },
+          "stops": [
+            {
+              "name": "Baelo Claudia",
+              "tip_4lang": {
+                "de": "Im Winter finden Sie problemlos einen schattigen Parkplatz.",
+                "hu": "Télen gond nélkül találhat árnyékos parkolóhelyet.",
+                "ro": "Iarna veți găsi fără probleme un loc de parcare la umbră.",
+                "en": "In winter, you will easily find a shaded parking spot."
+              }
+            },
+            {
+              "name": "Playa de Bolonia",
+              "tip_4lang": {
+                "de": "Nutzen Sie die Strandparkplätze, die im Sommer oft voll gesperrt sind.",
+                "hu": "Használja a strandparkolókat, amelyek nyáron gyakran teljesen le vannak zárva.",
+                "ro": "Folosiți parcările de lângă plajă, care vara sunt adesea închise sau pline.",
+                "en": "Use the beach parking lots, which are often closed or full in summer."
+              }
+            },
+            {
+              "name": "Duna de Bolonia",
+              "tip_4lang": {
+                "de": "Die kühle Luft macht den Aufstieg vom Parkplatz aus sehr angenehm.",
+                "hu": "A hűvös levegő nagyon kellemessé teszi a parkolótól induló emelkedőt.",
+                "ro": "Aerul răcoros face urcarea de la parcare foarte plăcută.",
+                "en": "The cool air makes the climb from the car park very pleasant."
+              }
+            },
+            {
+              "name": "Faro de Camarinal",
+              "tip_4lang": {
+                "de": "Perfekter Ort für einen Stopp zum Sonnenuntergang im Winter.",
+                "hu": "Tökéletes hely egy megállóra a téli naplementéhez.",
+                "ro": "Locul perfect pentru o oprire la apusul de soare iarna.",
+                "en": "Perfect spot for a sunset stop during the winter."
+              }
+            },
+            {
+              "name": "Silla del Papa",
+              "tip_4lang": {
+                "de": "Die Zufahrt ist steil; achten Sie auf tiefstehende Sonne beim Fahren.",
+                "hu": "A felvezető út meredek; vezetés közben ügyeljen az alacsonyan járó napra.",
+                "ro": "Accesul este abrupt; atenție la soarele care stă jos în timp ce conduceți.",
+                "en": "The access road is steep; watch out for the low sun while driving."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die geringe Verkehrslage für entspannte Fahrten zwischen den POIs.",
+              "Die Batterieleistung kann bei kühleren Küstennächten leicht sinken.",
+              "Sonnenbrille ist wegen der tiefstehenden Wintersonne beim Fahren Pflicht.",
+              "Planen Sie Besichtigungen am Vormittag, um das beste Tageslicht zu nutzen."
+            ],
+            "hu": [
+              "Használja ki az alacsony forgalmat a helyszínek közötti nyugodt autózáshoz.",
+              "Az akkumulátor teljesítménye a hűvösebb tengerparti éjszakákon csökkenhet.",
+              "A napszemüveg az alacsonyan járó téli nap miatt vezetés közben kötelező.",
+              "Tervezze a városnézést délelőttre a legjobb nappali fények kihasználásához."
+            ],
+            "ro": [
+              "Profitați de traficul redus pentru deplasări relaxate între punctele de interes.",
+              "Performanța bateriei poate scădea ușor în nopțile mai reci de la coastă.",
+              "Ochelarii de soare sunt obligatorii la condus din cauza soarelui de iarnă.",
+              "Planificați vizitele dimineața pentru a profita de cea mai bună lumină."
+            ],
+            "en": [
+              "Take advantage of the low traffic for relaxed drives between POIs.",
+              "Battery performance may drop slightly during cooler coastal nights.",
+              "Sunglasses are a must for driving due to the low winter sun.",
+              "Plan your sightseeing for the morning to make the most of the daylight."
+            ]
+          }
+        }
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 10.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Busstopp Bolonia",
+          "coords": [
+            -5.765,
+            36.088
+          ],
+          "category": "port",
+          "arrive_at": "09:30",
+          "stay_min": 15,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Der Bus hält in der Nähe des Dorfeingangs.",
+            "hu": "A busz a falu bejáratának közelében áll meg.",
+            "ro": "Autobuzul oprește aproape de intrarea în sat.",
+            "en": "The bus stops near the entrance to the village."
+          }
+        },
+        {
+          "name": "Baelo Claudia",
+          "coords": [
+            -5.7735,
+            36.0895
+          ],
+          "category": "historical",
+          "arrive_at": "10:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg vom Busstopp.",
+            "hu": "Rövid séta a buszmegállótól.",
+            "ro": "Scurtă plimbare de la stația de autobuz.",
+            "en": "Short walk from the bus stop."
+          }
+        },
+        {
+          "name": "Playa de Bolonia",
+          "coords": [
+            -5.7686,
+            36.0808
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:55",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Zentraler Zugang zum Strand.",
+            "hu": "Központi lejáró a strandhoz.",
+            "ro": "Acces central către plajă.",
+            "en": "Central access to the beach."
+          }
+        },
+        {
+          "name": "Duna de Bolonia",
+          "coords": [
+            -5.78,
+            36.086
+          ],
+          "category": "natural features",
+          "arrive_at": "14:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Spaziergang am Wasser entlang zur Düne.",
+            "hu": "Séta a vízpart mentén a dűnéig.",
+            "ro": "Plimbare pe malul apei până la dună.",
+            "en": "Walk along the water's edge to the dune."
+          }
+        },
+        {
+          "name": "Centro de Visitantes",
+          "coords": [
+            -5.772,
+            36.088
+          ],
+          "category": "museums",
+          "arrive_at": "15:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Letzter Stopp vor der Rückfahrt.",
+            "hu": "Utolsó megálló a visszautazás előtt.",
+            "ro": "Ultima oprire înainte de plecare.",
+            "en": "Last stop before the return trip."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Bolonia ist im Sommer gut mit dem Bus von Tarifa aus erreichbar. Nutzen Sie die entspannte Anreise, um die wichtigsten Sehenswürdigkeiten wie die römischen Ruinen und die Düne zu Fuß zu erkunden, ohne sich um Parkplätze kümmern zu müssen.",
+        "hu": "Bolonia nyáron jól megközelíthető busszal Tarifából. Használd ki a nyugodt utazást, hogy gyalogosan fedezd fel a főbb látnivalókat, mint a római romok és a dűne, anélkül, hogy a parkolás miatt kellene aggódnod.",
+        "ro": "Bolonia este bine deservită de autobuze din Tarifa pe timpul verii. Profitați de călătoria relaxată pentru a explora pe jos principalele atracții, precum ruinele romane și duna, fără a vă face griji pentru parcare.",
+        "en": "Bolonia is well-served by bus from Tarifa during the summer. Take advantage of the relaxed journey to explore the main sights like the Roman ruins and the dune on foot without worrying about parking."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ensalada de Tomate",
+            "tip": "Lokale Tomaten mit Olivenöl und Meersalz."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ensalada de Tomate",
+            "tip": "Helyi paradicsom olívaolajjal és tengeri sóval."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ensalada de Tomate",
+            "tip": "Roșii locale cu ulei de măsline și sare de mare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ensalada de Tomate",
+            "tip": "Local tomatoes with olive oil and sea salt."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Playa de Bolonia",
+            "tip": "Suchen Sie sich ein ruhiges Plätzchen im Osten des Strandes.",
+            "emoji": "🏖️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Playa de Bolonia",
+            "tip": "Keress egy nyugodt helyet a strand keleti részén.",
+            "emoji": "🏖️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Playa de Bolonia",
+            "tip": "Găsiți un loc liniștit în partea de est a plajei.",
+            "emoji": "🏖️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Playa de Bolonia",
+            "tip": "Find a quiet spot in the eastern part of the beach.",
+            "emoji": "🏖️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Artesanía de Conchas",
+            "tip": "Souvenirs aus Muscheln am kleinen Markt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kagyló-kézművesség",
+            "tip": "Kagylókból készült ajándéktárgyak a kis piacon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Artizanat din scoici",
+            "tip": "Suveniruri din scoici la piața mică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Shell Crafts",
+            "tip": "Souvenirs made from shells at the small market."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Busse fahren im Winter nur sehr selten oder gar nicht.",
+          "Kaufen Sie Ihr Rückfahrticket direkt bei der Ankunft.",
+          "Die Busfahrt von Tarifa bietet tolle Ausblicke auf Afrika.",
+          "Es gibt nur eine begrenzte Anzahl an Bussen pro Tag."
+        ],
+        "hu": [
+          "Télen a buszok nagyon ritkán vagy egyáltalán nem járnak.",
+          "Vedd meg a retúrjegyet rögtön érkezéskor.",
+          "A buszút Tarifából remek kilátást nyújt Afrikára.",
+          "Naponta csak korlátozott számú buszjárat indul."
+        ],
+        "ro": [
+          "Autobuzele circulă foarte rar sau deloc pe timpul iernii.",
+          "Cumpărați biletul de întoarcere imediat la sosire.",
+          "Călătoria cu autobuzul din Tarifa oferă vederi superbe spre Africa.",
+          "Există doar un număr limitat de autobuze pe zi."
+        ],
+        "en": [
+          "Buses run very infrequently or not at all during the winter.",
+          "Buy your return ticket immediately upon arrival.",
+          "The bus ride from Tarifa offers great views of Africa.",
+          "There is only a limited number of buses per day."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Bolonia ist im Sommer gut mit dem Bus von Tarifa aus erreichbar. Nutzen Sie die entspannte Anreise, um die wichtigsten Sehenswürdigkeiten wie die römischen Ruinen und die Düne zu Fuß zu erkunden, ohne sich um Parkplätze kümmern zu müssen.",
+            "hu": "Bolonia nyáron jól megközelíthető busszal Tarifából. Használd ki a nyugodt utazást, hogy gyalogosan fedezd fel a főbb látnivalókat, mint a római romok és a dűne, anélkül, hogy a parkolás miatt kellene aggódnod.",
+            "ro": "Bolonia este bine deservită de autobuze din Tarifa pe timpul verii. Profitați de călătoria relaxată pentru a explora pe jos principalele atracții, precum ruinele romane și duna, fără a vă face griji pentru parcare.",
+            "en": "Bolonia is well-served by bus from Tarifa during the summer. Take advantage of the relaxed journey to explore the main sights like the Roman ruins and the dune on foot without worrying about parking."
+          },
+          "stops": [
+            {
+              "name": "Busstopp Bolonia",
+              "tip_5lang": {
+                "de": "Der Bus hält in der Nähe des Dorfeingangs.",
+                "hu": "A busz a falu bejáratának közelében áll meg.",
+                "ro": "Autobuzul oprește aproape de intrarea în sat.",
+                "en": "The bus stops near the entrance to the village."
+              }
+            },
+            {
+              "name": "Baelo Claudia",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg vom Busstopp.",
+                "hu": "Rövid séta a buszmegállótól.",
+                "ro": "Scurtă plimbare de la stația de autobuz.",
+                "en": "Short walk from the bus stop."
+              }
+            },
+            {
+              "name": "Playa de Bolonia",
+              "tip_5lang": {
+                "de": "Zentraler Zugang zum Strand.",
+                "hu": "Központi lejáró a strandhoz.",
+                "ro": "Acces central către plajă.",
+                "en": "Central access to the beach."
+              }
+            },
+            {
+              "name": "Duna de Bolonia",
+              "tip_5lang": {
+                "de": "Spaziergang am Wasser entlang zur Düne.",
+                "hu": "Séta a vízpart mentén a dűnéig.",
+                "ro": "Plimbare pe malul apei până la dună.",
+                "en": "Walk along the water's edge to the dune."
+              }
+            },
+            {
+              "name": "Centro de Visitantes",
+              "tip_5lang": {
+                "de": "Letzter Stopp vor der Rückfahrt.",
+                "hu": "Utolsó megálló a visszautazás előtt.",
+                "ro": "Ultima oprire înainte de plecare.",
+                "en": "Last stop before the return trip."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Ensalada de Tomate",
+                "tip": "Lokale Tomaten mit Olivenöl und Meersalz."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Ensalada de Tomate",
+                "tip": "Helyi paradicsom olívaolajjal és tengeri sóval."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Ensalada de Tomate",
+                "tip": "Roșii locale cu ulei de măsline și sare de mare."
+              }
+            ],
+            "en": [
+              {
+                "name": "Ensalada de Tomate",
+                "tip": "Local tomatoes with olive oil and sea salt."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Playa de Bolonia",
+                "tip": "Suchen Sie sich ein ruhiges Plätzchen im Osten des Strandes.",
+                "emoji": "🏖️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Playa de Bolonia",
+                "tip": "Keress egy nyugodt helyet a strand keleti részén.",
+                "emoji": "🏖️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Playa de Bolonia",
+                "tip": "Găsiți un loc liniștit în partea de est a plajei.",
+                "emoji": "🏖️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Playa de Bolonia",
+                "tip": "Find a quiet spot in the eastern part of the beach.",
+                "emoji": "🏖️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Artesanía de Conchas",
+                "tip": "Souvenirs aus Muscheln am kleinen Markt."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Kagyló-kézművesség",
+                "tip": "Kagylókból készült ajándéktárgyak a kis piacon."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Artizanat din scoici",
+                "tip": "Suveniruri din scoici la piața mică."
+              }
+            ],
+            "en": [
+              {
+                "name": "Shell Crafts",
+                "tip": "Souvenirs made from shells at the small market."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Busse fahren im Winter nur sehr selten oder gar nicht.",
+              "Kaufen Sie Ihr Rückfahrticket direkt bei der Ankunft.",
+              "Die Busfahrt von Tarifa bietet tolle Ausblicke auf Afrika.",
+              "Es gibt nur eine begrenzte Anzahl an Bussen pro Tag."
+            ],
+            "hu": [
+              "Télen a buszok nagyon ritkán vagy egyáltalán nem járnak.",
+              "Vedd meg a retúrjegyet rögtön érkezéskor.",
+              "A buszút Tarifából remek kilátást nyújt Afrikára.",
+              "Naponta csak korlátozott számú buszjárat indul."
+            ],
+            "ro": [
+              "Autobuzele circulă foarte rar sau deloc pe timpul iernii.",
+              "Cumpărați biletul de întoarcere imediat la sosire.",
+              "Călătoria cu autobuzul din Tarifa oferă vederi superbe spre Africa.",
+              "Există doar un număr limitat de autobuze pe zi."
+            ],
+            "en": [
+              "Buses run very infrequently or not at all during the winter.",
+              "Buy your return ticket immediately upon arrival.",
+              "The bus ride from Tarifa offers great views of Africa.",
+              "There is only a limited number of buses per day."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Bus bringt Sie sicher zur Haltestelle Bolonia, während der Regen gegen die Scheiben trommelt. In Baelo Claudia finden Sie Schutz in den überdachten Bereichen des Museums. Den Strand und die Düne erleben Sie in den regenfreien Momenten, bevor Sie sich im Besucherzentrum aufwärmen. Die Rückfahrt bietet Zeit, die dramatische Küstenlandschaft im Nebel Revue passieren zu lassen.",
+            "hu": "A busz biztonságban elvisz a boloniai megállóig, miközben az eső kopog az ablakokon. Baelo Claudiánál a múzeum fedett részein találhatunk menedéket. A strandot és a dűnét az esőmentes pillanatokban fedezzük fel, mielőtt a látogatóközpontban melegednénk fel. A visszaút lehetőséget ad a ködös, drámai parti táj felidézésére.",
+            "ro": "Autobuzul vă aduce în siguranță la stația Bolonia în timp ce ploaia bate în geamuri. La Baelo Claudia găsiți adăpost în zonele acoperite ale muzeului. Experimentați plaja și duna în momentele fără ploaie, înainte de a vă încălzi la centrul de vizitare. Drumul de întoarcere oferă timp pentru a admira peisajul dramatic al coastei în ceață.",
+            "en": "The bus takes you safely to the Bolonia stop as rain drums against the windows. At Baelo Claudia, find shelter in the museum's covered areas. Experience the beach and dune during rain-free moments before warming up at the visitor center. The return trip offers time to reflect on the dramatic coastal landscape in the mist."
+          },
+          "stops": [
+            {
+              "name": "Busstopp Bolonia",
+              "tip_4lang": {
+                "de": "Stellen Sie sich bei Regen unter das kleine Vordach der Haltestelle.",
+                "hu": "Esőben álljon a buszmegálló kis előtetője alá.",
+                "ro": "Stați sub copertina mică a stației dacă plouă.",
+                "en": "Stand under the small canopy of the bus stop if it rains."
+              }
+            },
+            {
+              "name": "Baelo Claudia",
+              "tip_4lang": {
+                "de": "Verbringen Sie bei starken Schauern mehr Zeit in der Indoor-Ausstellung.",
+                "hu": "Erős záporok idején töltsön több időt a beltéri kiállításon.",
+                "ro": "Petreceți mai mult timp în expoziția interioară în timpul averselor puternice.",
+                "en": "Spend more time in the indoor exhibition during heavy showers."
+              }
+            },
+            {
+              "name": "Playa de Bolonia",
+              "tip_4lang": {
+                "de": "Die Cafés in Strandnähe bieten guten Schutz und heiße Getränke.",
+                "hu": "A strand közeli kávézók jó menedéket és forró italokat kínálnak.",
+                "ro": "Cafenelele de lângă plajă oferă adăpost bun și băuturi calde.",
+                "en": "Cafés near the beach offer good shelter and hot drinks."
+              }
+            },
+            {
+              "name": "Duna de Bolonia",
+              "tip_4lang": {
+                "de": "Behalten Sie die Zeit im Auge, um den Bus nicht im Regen zu verpassen.",
+                "hu": "Ügyeljen az időre, hogy ne maradjon le a buszról az esőben.",
+                "ro": "Fiți atenți la orar pentru a nu pierde autobuzul pe ploaie.",
+                "en": "Keep an eye on the time so you don't miss the bus in the rain."
+              }
+            },
+            {
+              "name": "Centro de Visitantes",
+              "tip_4lang": {
+                "de": "Ein idealer Ort, um trocken auf die Busabfahrt zu warten.",
+                "hu": "Ideális hely szárazon várni a busz indulására.",
+                "ro": "Un loc ideal pentru a aștepta plecarea autobuzului la adăpost.",
+                "en": "An ideal place to wait for the bus departure while staying dry."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie online, ob der Busfahrplan bei Sturm eingeschränkt ist.",
+              "Halten Sie Kleingeld für das Ticket bereit, falls der Kartenleser Probleme hat.",
+              "Nutzen Sie die Transit-App für Echtzeit-Updates bei wetterbedingten Verspätungen.",
+              "Ein kleiner, stabiler Taschenschirm ist für die Wege zwischen den Stopps ratsam."
+            ],
+            "hu": [
+              "Ellenőrizze online, hogy a buszmenetrend vihar esetén korlátozott-e.",
+              "Legyen kéznél aprópénz a jegyhez, ha a kártyaolvasó nem működne.",
+              "Használjon tranzit alkalmazást a valós idejű frissítésekhez esőben.",
+              "Egy kis, erős összecsukható esernyő javasolt a megállók közötti utakhoz."
+            ],
+            "ro": [
+              "Verificați online dacă programul autobuzelor este limitat în caz de furtună.",
+              "Aveți pregătit numerar pentru bilet în cazul în care cititorul de carduri are probleme.",
+              "Folosiți aplicația de tranzit pentru actualizări în timp real în caz de întârzieri.",
+              "O umbrelă mică și rezistentă este recomandată pentru drumurile dintre stații."
+            ],
+            "en": [
+              "Check online if the bus schedule is restricted during storms.",
+              "Have small change ready for the ticket in case the card reader has issues.",
+              "Use a transit app for real-time updates during weather-related delays.",
+              "A small, sturdy travel umbrella is advisable for the walks between stops."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Mit dem Bus erreichen Sie Bolonia in der klaren Winterluft. Baelo Claudia lässt sich ohne die Sommerhitze entspannt zu Fuß vom Busstopp aus erkunden. Der Strand und die Düne bieten im Winterlicht eine friedliche Kulisse für Ihre Erkundung. Zum Abschluss besuchen Sie das Besucherzentrum, bevor Sie pünktlich vor der frühen Dunkelheit die Rückreise mit dem Bus antreten.",
+            "hu": "Busszal érkezünk Boloniába a tiszta téli levegőben. Baelo Claudia a nyári hőség nélkül, kényelmesen felfedezhető gyalog a buszmegállótól. A strand és a dűne téli fényben békés hátteret nyújt a felfedezéshez. Végül meglátogatjuk a látogatóközpontot, mielőtt a korai sötétedés előtt visszaindulnánk a busszal.",
+            "ro": "Ajungeți la Bolonia cu autobuzul în aerul curat de iarnă. Baelo Claudia poate fi explorată relaxat pe jos de la stația de autobuz, fără caniculă. Plaja și duna oferă un cadru liniștit sub lumina de iarnă. La final, vizitați centrul de vizitare înainte de a porni înapoi cu autobuzul înainte de lăsarea serii.",
+            "en": "Arrive at Bolonia by bus in the crisp winter air. Baelo Claudia can be explored at a relaxed pace on foot from the bus stop without the summer heat. The beach and dune offer a peaceful backdrop in the winter light. Finally, visit the visitor center before heading back by bus before the early darkness sets in."
+          },
+          "stops": [
+            {
+              "name": "Busstopp Bolonia",
+              "tip_4lang": {
+                "de": "Beachten Sie die selteneren Busverbindungen in der Wintersaison.",
+                "hu": "Ügyeljen a téli szezonban ritkább buszjáratokra.",
+                "ro": "Țineți cont de frecvența redusă a autobuzelor în sezonul de iarnă.",
+                "en": "Be aware of the less frequent bus connections during the winter season."
+              }
+            },
+            {
+              "name": "Baelo Claudia",
+              "tip_4lang": {
+                "de": "Die Wege sind im Winter staubfrei und sehr angenehm zu begehen.",
+                "hu": "Az utak télen pormentesek és nagyon kellemesen járhatóak.",
+                "ro": "Drumurile sunt fără praf iarna și foarte plăcute pentru mers pe jos.",
+                "en": "The paths are dust-free in winter and very pleasant to walk on."
+              }
+            },
+            {
+              "name": "Playa de Bolonia",
+              "tip_4lang": {
+                "de": "Genießen Sie den weiten Blick, der im Winter oft bis nach Marokko reicht.",
+                "hu": "Élvezze a tágas kilátást, amely télen gyakran Marokkóig ér.",
+                "ro": "Bucurați-vă de priveliștea largă care iarna ajunge adesea până în Maroc.",
+                "en": "Enjoy the wide view which often reaches all the way to Morocco in winter."
+              }
+            },
+            {
+              "name": "Duna de Bolonia",
+              "tip_4lang": {
+                "de": "Der Aufstieg ist bei 15 Grad deutlich leichter als bei 35 Grad.",
+                "hu": "A mászás 15 fokban sokkal könnyebb, mint 35 fokban.",
+                "ro": "Urcarea este mult mai ușoară la 15 grade față de 35 de grade.",
+                "en": "The climb is significantly easier at 15 degrees than at 35 degrees."
+              }
+            },
+            {
+              "name": "Centro de Visitantes",
+              "tip_4lang": {
+                "de": "Warten Sie hier im Warmen auf den letzten Bus des Tages.",
+                "hu": "Várjon itt a melegben a nap utolsó buszjáratára.",
+                "ro": "Așteptați aici, la căldură, ultimul autobuz al zilei.",
+                "en": "Wait here in the warmth for the last bus of the day."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Der Winterfahrplan kann sich von den Angaben an der Haltestelle unterscheiden; online prüfen.",
+              "Tragen Sie warme Socken, da die Zugluft im Bus an der Küste kühl sein kann.",
+              "Kombinieren Sie die Fahrt mit einem Besuch in Tarifa, da die Busse dort öfter halten.",
+              "Nutzen Sie die App 'Comes', um die genaue Position des Busses zu verfolgen."
+            ],
+            "hu": [
+              "A téli menetrend eltérhet a megállóban kihelyezettől; ellenőrizze online.",
+              "Viseljen meleg zoknit, mert a huzat a buszon a parton hűvös lehet.",
+              "Kombinálja az utat Tarifa meglátogatásával, mivel ott gyakrabban állnak meg a buszok.",
+              "Használja a 'Comes' alkalmazást a busz pontos helyzetének követéséhez."
+            ],
+            "ro": [
+              "Programul de iarnă poate diferi de cel afișat în stație; verificați online.",
+              "Purtați șosete groase, deoarece curentul din autobuz la coastă poate fi rece.",
+              "Combinați călătoria cu o vizită în Tarifa, deoarece autobuzele opresc acolo mai des.",
+              "Folosiți aplicația 'Comes' pentru a urmări poziția exactă a autobuzului."
+            ],
+            "en": [
+              "The winter schedule may differ from what is posted at the stop; check online.",
+              "Wear warm socks as the draft on the bus along the coast can be chilly.",
+              "Combine the trip with a visit to Tarifa as buses stop there more frequently.",
+              "Use the 'Comes' app to track the exact location of your bus."
+            ]
+          }
+        }
+      }
+    }
+  },
+  "external_resources": {
+    "tourism_office": "https://www.aytotarifa.com/turismo",
+    "transit_official": "https://www.tgcomes.es/",
+    "events": "https://www.aytotarifa.com/agenda",
+    "webcam": "https://www.windy.com/36.082/-5.770",
+    "language_tips": {
+      "de": "Bolonia ist Weiler-Spanien, fast nur Spanisch. 'Duna' (Düne) und 'Baelo Claudia' (römische Ruine) sind die Schlüsselwörter. 'Levante' und 'Poniente' lernen – die zwei Winde bestimmen, ob Strandtag oder Sandsturm.",
+      "hu": "Bolonia parányi spanyol falu, szinte csak spanyol. A 'duna' (homokdűne) és 'Baelo Claudia' (római rom) a kulcsszavak. A 'Levante' és 'Poniente' szelet ismerd meg, ezek döntik el, jó strandnap vagy homokvihar lesz.",
+      "ro": "Bolonia e cătun spaniol, aproape doar spaniolă. 'Duna' și 'Baelo Claudia' (ruină romană) sunt cuvintele cheie. Învață 'Levante' și 'Poniente' – cele două vânturi decid zi de plajă sau furtună de nisip.",
+      "en": "Bolonia is hamlet Spain, almost only Spanish. 'Duna' (dune) and 'Baelo Claudia' (Roman ruin) are the key words. Learn 'Levante' and 'Poniente' – the two winds decide between beach day and sandstorm."
+    },
+    "best_time_to_visit": {
+      "de": "Mai bis Juni und September für Strand und Ruinen ohne Hitzeschock. Juli und August nur mit reservierter Übernachtung – sehr beengt. Wind-Check vorher, Levante macht Strand unbenutzbar.",
+      "hu": "Május-június és szeptember a befutó a strandra és romokra hőguta nélkül. Júliusban-augusztusban csak előre foglalt szállással menj, nagyon szűkös. Indulás előtt szélelőrejelzést nézz, a Levante használhatatlanná teszi a strandot.",
+      "ro": "Mai-iunie și septembrie pentru plajă și ruine fără șoc termic. Iulie-august doar cu cazare rezervată, foarte aglomerat. Verifică vântul înainte – Levante face plaja inutilizabilă.",
+      "en": "May–June and September for beach and ruins without heatstroke. July–August only with booked lodging – very tight. Check the wind first; Levante makes the beach unusable."
+    },
+    "neighborhood_warnings": {
+      "de": "Sehr sicher. Zufahrt schmal und kurvig, Vorsicht. Quallen-Berichte gelegentlich, lokale Flagge beachten. Wenig Schatten am Strand, Sonnencreme und Schirm Pflicht.",
+      "hu": "Nagyon biztonságos. A bekötőút keskeny és kanyargós, óvatosan. Néha medúza-jelzés, figyeld a helyi zászlót. A strandon kevés árnyék, fényvédő és napernyő kötelező.",
+      "ro": "Foarte sigur. Drumul de acces e îngust și sinuos, atenție. Uneori meduze, urmărește steagul local. Pe plajă umbră puțină – cremă SPF și umbrelă obligatorii.",
+      "en": "Very safe. The access road is narrow and winding, drive carefully. Occasional jellyfish reports, check the local flag. Little natural shade on the beach – SPF and parasol mandatory."
+    }
+  }
+}

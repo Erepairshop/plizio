@@ -1,0 +1,2329 @@
+{
+  "city_id": "cambados",
+  "anchor": {
+    "name": "Cambados",
+    "coords": [
+      -8.8147,
+      42.5125
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 3.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Plaza de Fefiñáns",
+          "coords": [
+            -8.8145,
+            42.5122
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Einer der schönsten Plätze Galiciens, komplett aus Granit.",
+            "hu": "Galícia egyik legszebb tere, teljesen gránitból épült.",
+            "ro": "Una dintre cele mai frumoase piețe din Galicia, construită din granit.",
+            "en": "One of the most beautiful squares in Galicia, built entirely of granite."
+          }
+        },
+        {
+          "name": "Pazo de Fefiñáns",
+          "coords": [
+            -8.814,
+            42.512
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Besuchen Sie das Weingut im Inneren des Palastes.",
+            "hu": "Látogasson el a palota belsejében működő borászatba.",
+            "ro": "Vizitați crama din interiorul palatului.",
+            "en": "Visit the winery located inside the palace walls."
+          }
+        },
+        {
+          "name": "Iglesia de San Benito",
+          "coords": [
+            -8.815,
+            42.5115
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:40",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Achten Sie auf die Skulpturen der liegenden Ritter.",
+            "hu": "Figyelje meg a fekvő lovagok szobrait a templomban.",
+            "ro": "Observați sculpturile cavalerilor culcați din interior.",
+            "en": "Note the sculptures of the reclining knights inside."
+          }
+        },
+        {
+          "name": "Ruinas de Santa Mariña Dozo",
+          "coords": [
+            -8.8125,
+            42.5075
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Ein melancholischer und schöner Friedhof in Ruinen.",
+            "hu": "Melankolikus és gyönyörű temető egy romos templomban.",
+            "ro": "Un cimitir melancolic și frumos printre ruinele bisericii.",
+            "en": "A melancholic and beautiful cemetery set within church ruins."
+          }
+        },
+        {
+          "name": "Museo del Vino",
+          "coords": [
+            -8.8115,
+            42.5065
+          ],
+          "category": "museums",
+          "arrive_at": "14:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Lernen Sie alles über den berühmten Albariño-Wein.",
+            "hu": "Tudjon meg mindent a híres Albariño borról.",
+            "ro": "Aflați totul despre celebrul vin Albariño.",
+            "en": "Learn everything about the famous local Albariño wine."
+          }
+        },
+        {
+          "name": "Paseo Marítimo",
+          "coords": [
+            -8.818,
+            42.508
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Spaziergang entlang der Küste mit Blick auf die Flöße.",
+            "hu": "Séta a tengerparton, kilátással a kagylótenyésztő bójákra.",
+            "ro": "Plimbare pe faleză cu vedere la platformele de scoici.",
+            "en": "Walk along the coast with views of the mussel rafts."
+          }
+        },
+        {
+          "name": "Torre de San Sadurniño",
+          "coords": [
+            -8.8235,
+            42.5055
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "17:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Die Ruinen einer Festung, die einst vor Wikingern schützte.",
+            "hu": "Egy erőd romjai, amely egykor a vikingek ellen védett.",
+            "ro": "Ruinele unei fortărețe care odinioară proteja împotriva vikingilor.",
+            "en": "Ruins of a fortress that once protected against Viking raids."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Cambados ist die Welthauptstadt des Albariño-Weins. Unser Rundgang beginnt am beeindruckenden Granitplatz Fefiñáns. Wir erkunden prachtvolle Pazzos und die mystischen Ruinen von Santa Mariña Dozo. Am Nachmittag tauchen wir im Weinmuseum in die lokale Kultur ein und beenden den Tag bei den Ruinen des San Sadurniño Turms am Meer.",
+        "hu": "Cambados az Albariño bor világfővárosa és az elegáns gránitépítészet remeke. A túrát a lenyűgöző Fefiñáns téren kezdjük, majd a misztikus Santa Mariña Dozo romokat keressük fel. Délután a borkultúrával ismerkedünk, végül az óceánparti San Sadurniño torony romjainál zárjuk a napot.",
+        "ro": "Cambados este capitala mondială a vinului Albariño. Turul nostru începe în impresionanta piață de granit Fefiñáns. Explorăm palatele impunătoare și ruinele mistice ale Santa Mariña Dozo. După-amiaza descoperim cultura vinului la muzeu și încheiem ziua la ruinele turnului San Sadurniño de pe malul mării.",
+        "en": "Cambados is the world capital of Albariño wine and a masterpiece of granite architecture. Our walk starts at the stunning Fefiñáns square. We explore grand palaces and the mystical ruins of Santa Mariña Dozo. In the afternoon, dive into the wine culture at the museum and end the day by the seaside ruins of San Sadurniño Tower."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Albariño Wein",
+            "tip": "Besuchen Sie eine Bodega direkt am Fefiñáns-Platz."
+          },
+          {
+            "name": "Vieiras",
+            "tip": "Jakobsmuscheln nach galicischer Art im Restaurant A Posta."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Albariño bor",
+            "tip": "Kóstolja meg a bort egy bodegában a Fefiñáns téren."
+          },
+          {
+            "name": "Vieiras",
+            "tip": "Galíciai módra készített fésűkagyló az A Posta étteremben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vin Albariño",
+            "tip": "Degustați vinul la o bodegă chiar în piața Fefiñáns."
+          },
+          {
+            "name": "Vieiras",
+            "tip": "Scoici Saint Jacques în stil galician la restaurantul A Posta."
+          }
+        ],
+        "en": [
+          {
+            "name": "Albariño Wine",
+            "tip": "Taste the local wine at a bodega right on Fefiñáns Square."
+          },
+          {
+            "name": "Vieiras",
+            "tip": "Galician-style scallops at A Posta restaurant."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Mirador de la Pastora",
+            "tip": "Panoramablick über die Ría de Arousa.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Santa Mariña Friedhof",
+            "tip": "Ein Ort tiefer Stille und Geschichte.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mirador de la Pastora",
+            "tip": "Panoráma a Ría de Arousa öbölre.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Santa Mariña temető",
+            "tip": "A csend és a történelem különleges helyszíne.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mirador de la Pastora",
+            "tip": "Vedere panoramică asupra Ría de Arousa.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cimitirul Santa Mariña",
+            "tip": "Un loc de liniște profundă și istorie.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Mirador de la Pastora",
+            "tip": "Panoramic view over the Ría de Arousa bay.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Santa Mariña Cemetery",
+            "tip": "A place of deep silence and history.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Albariño-Boutiquen",
+            "tip": "Kaufen Sie preisgekrönte Weine direkt vom Erzeuger."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Albariño szaküzletek",
+            "tip": "Vásároljon díjnyertes borokat közvetlenül a termelőktől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Boutique-uri Albariño",
+            "tip": "Cumpărați vinuri premiate direct de la producători."
+          }
+        ],
+        "en": [
+          {
+            "name": "Albariño Boutiques",
+            "tip": "Buy award-winning wines directly from the producers."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Besuchen Sie die Stadt während des Albariño-Festes Anfang August.",
+          "Granit kann bei Regen sehr rutschig sein.",
+          "Probieren Sie die Meeresfrüchte im Hafenviertel San Tomé."
+        ],
+        "hu": [
+          "Augusztus elején, az Albariño ünnep idején a legpezsgőbb a város.",
+          "A gránit burkolat esőben nagyon csúszós lehet.",
+          "Kóstolja meg a tenger gyümölcseit San Tomé halásznegyedében."
+        ],
+        "ro": [
+          "Vizitați orașul în timpul festivalului Albariño de la începutul lunii august.",
+          "Pavajul de granit poate fi foarte alunecos pe ploaie.",
+          "Încercați fructele de mare în cartierul pescăresc San Tomé."
+        ],
+        "en": [
+          "Visit during the Albariño Festival in early August for a great atmosphere.",
+          "Granite pavements can be very slippery when wet.",
+          "Try the fresh seafood in the San Tomé fishing district."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Cambados ist die Welthauptstadt des Albariño-Weins. Unser Rundgang beginnt am beeindruckenden Granitplatz Fefiñáns. Wir erkunden prachtvolle Pazzos und die mystischen Ruinen von Santa Mariña Dozo. Am Nachmittag tauchen wir im Weinmuseum in die lokale Kultur ein und beenden den Tag bei den Ruinen des San Sadurniño Turms am Meer.",
+            "hu": "Cambados az Albariño bor világfővárosa és az elegáns gránitépítészet remeke. A túrát a lenyűgöző Fefiñáns téren kezdjük, majd a misztikus Santa Mariña Dozo romokat keressük fel. Délután a borkultúrával ismerkedünk, végül az óceánparti San Sadurniño torony romjainál zárjuk a napot.",
+            "ro": "Cambados este capitala mondială a vinului Albariño. Turul nostru începe în impresionanta piață de granit Fefiñáns. Explorăm palatele impunătoare și ruinele mistice ale Santa Mariña Dozo. După-amiaza descoperim cultura vinului la muzeu și încheiem ziua la ruinele turnului San Sadurniño de pe malul mării.",
+            "en": "Cambados is the world capital of Albariño wine and a masterpiece of granite architecture. Our walk starts at the stunning Fefiñáns square. We explore grand palaces and the mystical ruins of Santa Mariña Dozo. In the afternoon, dive into the wine culture at the museum and end the day by the seaside ruins of San Sadurniño Tower."
+          },
+          "stops": [
+            {
+              "name": "Plaza de Fefiñáns",
+              "tip_5lang": {
+                "de": "Einer der schönsten Plätze Galiciens, komplett aus Granit.",
+                "hu": "Galícia egyik legszebb tere, teljesen gránitból épült.",
+                "ro": "Una dintre cele mai frumoase piețe din Galicia, construită din granit.",
+                "en": "One of the most beautiful squares in Galicia, built entirely of granite."
+              }
+            },
+            {
+              "name": "Pazo de Fefiñáns",
+              "tip_5lang": {
+                "de": "Besuchen Sie das Weingut im Inneren des Palastes.",
+                "hu": "Látogasson el a palota belsejében működő borászatba.",
+                "ro": "Vizitați crama din interiorul palatului.",
+                "en": "Visit the winery located inside the palace walls."
+              }
+            },
+            {
+              "name": "Iglesia de San Benito",
+              "tip_5lang": {
+                "de": "Achten Sie auf die Skulpturen der liegenden Ritter.",
+                "hu": "Figyelje meg a fekvő lovagok szobrait a templomban.",
+                "ro": "Observați sculpturile cavalerilor culcați din interior.",
+                "en": "Note the sculptures of the reclining knights inside."
+              }
+            },
+            {
+              "name": "Ruinas de Santa Mariña Dozo",
+              "tip_5lang": {
+                "de": "Ein melancholischer und schöner Friedhof in Ruinen.",
+                "hu": "Melankolikus és gyönyörű temető egy romos templomban.",
+                "ro": "Un cimitir melancolic și frumos printre ruinele bisericii.",
+                "en": "A melancholic and beautiful cemetery set within church ruins."
+              }
+            },
+            {
+              "name": "Museo del Vino",
+              "tip_5lang": {
+                "de": "Lernen Sie alles über den berühmten Albariño-Wein.",
+                "hu": "Tudjon meg mindent a híres Albariño borról.",
+                "ro": "Aflați totul despre celebrul vin Albariño.",
+                "en": "Learn everything about the famous local Albariño wine."
+              }
+            },
+            {
+              "name": "Paseo Marítimo",
+              "tip_5lang": {
+                "de": "Spaziergang entlang der Küste mit Blick auf die Flöße.",
+                "hu": "Séta a tengerparton, kilátással a kagylótenyésztő bójákra.",
+                "ro": "Plimbare pe faleză cu vedere la platformele de scoici.",
+                "en": "Walk along the coast with views of the mussel rafts."
+              }
+            },
+            {
+              "name": "Torre de San Sadurniño",
+              "tip_5lang": {
+                "de": "Die Ruinen einer Festung, die einst vor Wikingern schützte.",
+                "hu": "Egy erőd romjai, amely egykor a vikingek ellen védett.",
+                "ro": "Ruinele unei fortărețe care odinioară proteja împotriva vikingilor.",
+                "en": "Ruins of a fortress that once protected against Viking raids."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Albariño Wein",
+                "tip": "Besuchen Sie eine Bodega direkt am Fefiñáns-Platz."
+              },
+              {
+                "name": "Vieiras",
+                "tip": "Jakobsmuscheln nach galicischer Art im Restaurant A Posta."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Albariño bor",
+                "tip": "Kóstolja meg a bort egy bodegában a Fefiñáns téren."
+              },
+              {
+                "name": "Vieiras",
+                "tip": "Galíciai módra készített fésűkagyló az A Posta étteremben."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Vin Albariño",
+                "tip": "Degustați vinul la o bodegă chiar în piața Fefiñáns."
+              },
+              {
+                "name": "Vieiras",
+                "tip": "Scoici Saint Jacques în stil galician la restaurantul A Posta."
+              }
+            ],
+            "en": [
+              {
+                "name": "Albariño Wine",
+                "tip": "Taste the local wine at a bodega right on Fefiñáns Square."
+              },
+              {
+                "name": "Vieiras",
+                "tip": "Galician-style scallops at A Posta restaurant."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Mirador de la Pastora",
+                "tip": "Panoramablick über die Ría de Arousa.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Santa Mariña Friedhof",
+                "tip": "Ein Ort tiefer Stille und Geschichte.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Mirador de la Pastora",
+                "tip": "Panoráma a Ría de Arousa öbölre.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Santa Mariña temető",
+                "tip": "A csend és a történelem különleges helyszíne.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Mirador de la Pastora",
+                "tip": "Vedere panoramică asupra Ría de Arousa.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Cimitirul Santa Mariña",
+                "tip": "Un loc de liniște profundă și istorie.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Mirador de la Pastora",
+                "tip": "Panoramic view over the Ría de Arousa bay.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Santa Mariña Cemetery",
+                "tip": "A place of deep silence and history.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Albariño-Boutiquen",
+                "tip": "Kaufen Sie preisgekrönte Weine direkt vom Erzeuger."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Albariño szaküzletek",
+                "tip": "Vásároljon díjnyertes borokat közvetlenül a termelőktől."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Boutique-uri Albariño",
+                "tip": "Cumpărați vinuri premiate direct de la producători."
+              }
+            ],
+            "en": [
+              {
+                "name": "Albariño Boutiques",
+                "tip": "Buy award-winning wines directly from the producers."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Besuchen Sie die Stadt während des Albariño-Festes Anfang August.",
+              "Granit kann bei Regen sehr rutschig sein.",
+              "Probieren Sie die Meeresfrüchte im Hafenviertel San Tomé."
+            ],
+            "hu": [
+              "Augusztus elején, az Albariño ünnep idején a legpezsgőbb a város.",
+              "A gránit burkolat esőben nagyon csúszós lehet.",
+              "Kóstolja meg a tenger gyümölcseit San Tomé halásznegyedében."
+            ],
+            "ro": [
+              "Vizitați orașul în timpul festivalului Albariño de la începutul lunii august.",
+              "Pavajul de granit poate fi foarte alunecos pe ploaie.",
+              "Încercați fructele de mare în cartierul pescăresc San Tomé."
+            ],
+            "en": [
+              "Visit during the Albariño Festival in early August for a great atmosphere.",
+              "Granite pavements can be very slippery when wet.",
+              "Try the fresh seafood in the San Tomé fishing district."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt auf dem Plaza de Fefiñáns, wo der galizische Regen den Granit zum Glänzen bringt. Mittags bieten der Pazo und die Kirche San Benito Schutz vor den Schauern. Am Nachmittag ist das Weinmuseum der perfekte trockene Rückzugsort, um in die Kultur des Albariño einzutauchen. Der Tag endet an der Torre de San Sadurniño, die im Küstennebel besonders mystisch wirkt.",
+            "hu": "A reggel a Plaza de Fefiñáns téren indul, ahol a galíciai esőben csillog a gránit. Délben a Pazo és a San Benito-templom nyújt menedéket a záporok elől. Délután a Bormúzeum tökéletes száraz helyszín az Albariño kultúra megismeréséhez. A nap a Torre de San Sadurniño toronynál zárul, amely a tengeri ködben különösen misztikus látványt nyújt.",
+            "ro": "Dimineața începe în Plaza de Fefiñáns, unde ploaia galiciană face granitul să strălucească. La prânz, Pazo și Biserica San Benito oferă adăpost împotriva averselor. După-amiaza, Muzeul Vinului este refugiul uscat perfect pentru a descoperi cultura Albariño. Ziua se încheie la Torre de San Sadurniño, care arată deosebit de mistic în ceața de coastă.",
+            "en": "The morning starts at Plaza de Fefiñáns, where Galician rain makes the granite glisten. At noon, the Pazo and San Benito Church provide shelter from the showers. In the afternoon, the Wine Museum is the perfect dry retreat to dive into Albariño culture. The day ends at the Torre de San Sadurniño, which looks particularly mystical in the coastal mist."
+          },
+          "stops": [
+            {
+              "name": "Plaza de Fefiñáns",
+              "tip_5lang": {
+                "de": "Vorsicht, der nasse Granitboden kann sehr rutschig sein.",
+                "hu": "Vigyázat, a vizes gránitpadló nagyon csúszós lehet.",
+                "ro": "Atenție, podeaua de granit umedă poate fi foarte alunecoasă.",
+                "en": "Careful, the wet granite floor can be very slippery."
+              }
+            },
+            {
+              "name": "Pazo de Fefiñáns",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Innenführung, um dem Regen für eine Weile zu entkommen.",
+                "hu": "Vegyen részt a belső vezetésen, hogy egy időre elmeneküljön az eső elől.",
+                "ro": "Folosiți turul interior pentru a scăpa de ploaie pentru o vreme.",
+                "en": "Take the indoor tour to escape the rain for a while."
+              }
+            },
+            {
+              "name": "Iglesia de San Benito",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort, um abzuwarten, bis der stärkste Guss vorbei ist.",
+                "hu": "Csendes hely, ahol megvárhatja, amíg a legerősebb zápor elvonul.",
+                "ro": "Un loc liniștit pentru a aștepta până trece cea mai puternică ploaie.",
+                "en": "A quiet place to wait until the heaviest downpour passes."
+              }
+            },
+            {
+              "name": "Ruinas de Santa Mariña Dozo",
+              "tip_5lang": {
+                "de": "Die dachlosen Ruinen bieten wenig Schutz; halten Sie den Schirm bereit.",
+                "hu": "A tető nélküli romok kevés védelmet nyújtanak; tartsa készenlétben az esernyőt.",
+                "ro": "Ruinele fără acoperiș oferă puțin adăpost; țineți umbrela pregătită.",
+                "en": "The roofless ruins offer little shelter; keep your umbrella ready."
+              }
+            },
+            {
+              "name": "Museo del Vino",
+              "tip_5lang": {
+                "de": "Die beste Indoor-Aktivität für regnerische Nachmittage.",
+                "hu": "A legjobb fedett program esős délutánokra.",
+                "ro": "Cea mai bună activitate de interior pentru după-amiezi ploioase.",
+                "en": "The best indoor activity for rainy afternoons."
+              }
+            },
+            {
+              "name": "Paseo Marítimo",
+              "tip_5lang": {
+                "de": "Windfeste Regenbekleidung ist hier an der Küste unerlässlich.",
+                "hu": "A szélálló esőruházat elengedhetetlen itt a parton.",
+                "ro": "Îmbrăcămintea de ploaie rezistentă la vânt este esențială aici pe coastă.",
+                "en": "Windproof rain gear is essential here on the coast."
+              }
+            },
+            {
+              "name": "Torre de San Sadurniño",
+              "tip_5lang": {
+                "de": "Der Weg zur Insel kann bei Flut und Regen stürmisch sein.",
+                "hu": "A szigetre vezető út dagálykor és esőben viharos lehet.",
+                "ro": "Drumul spre insulă poate fi furtunos în timpul fluxului și al ploii.",
+                "en": "The path to the island can be stormy during high tide and rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein stabiler Regenschirm ist wegen der Küstenwinde besser als ein billiger.",
+              "Die Granitsteine in der Altstadt sind bei Nässe tückisch.",
+              "Viele Cafés rund um den Platz bieten gemütliche überdachte Plätze.",
+              "Tragen Sie wasserfeste Wanderschuhe für die Küstenabschnitte."
+            ],
+            "hu": [
+              "A parti szelek miatt egy stabil esernyő jobb, mint egy olcsó darab.",
+              "Az óváros gránitkövei nedvesen csalókák és csúszósak.",
+              "A tér körüli kávézók sokszor kínálnak hangulatos, fedett helyeket.",
+              "Viseljen vízálló túracipőt a parti szakaszokhoz."
+            ],
+            "ro": [
+              "O umbrelă robustă este mai bună decât una ieftină din cauza vânturilor de coastă.",
+              "Pietrele de granit din orașul vechi sunt înșelătoare când sunt ude.",
+              "Multe cafenele din jurul pieței oferă locuri acoperite primitoare.",
+              "Purtați pantofi de drumeție impermeabili pentru secțiunile de coastă."
+            ],
+            "en": [
+              "A sturdy umbrella is better than a cheap one due to coastal winds.",
+              "The granite stones in the old town are treacherous when wet.",
+              "Many cafes around the square offer cozy covered seating.",
+              "Wear waterproof hiking shoes for the coastal sections."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Wintermorgen in Cambados beginnt mit klarer Luft am Fefiñáns-Platz. Mittags wärmen wir uns in den historischen Mauern des Pazo und der Kirche auf. Wenn die Sonne am frühen Nachmittag tief steht, leuchten die Ruinen von Santa Mariña in goldenem Licht. Den Sonnenuntergang erleben wir bereits gegen 18:00 Uhr am Paseo Marítimo, bevor es zur Torre geht.",
+            "hu": "A friss téli reggel Cambadosban tiszta levegővel indul a Fefiñáns téren. Délben a Pazo és a templom történelmi falai között melegszünk fel. Kora délután, mikor alacsonyan jár a nap, a Santa Mariña romok aranyló fényben úsznak. A naplementét már 18:00 körül átéljük a Paseo Marítimo mentén, mielőtt a toronyhoz érnénk.",
+            "ro": "O dimineață proaspătă de iarnă în Cambados începe cu aer curat în Piața Fefiñáns. La prânz, ne încălzim între zidurile istorice ale Pazo și ale bisericii. Când soarele este jos după-amiaza devreme, ruinele Santa Mariña strălucesc în lumină aurie. Experimentăm apusul deja în jurul orei 18:00 pe Paseo Marítimo, înainte de a merge la turn.",
+            "en": "A crisp winter morning in Cambados starts with clear air at Fefiñáns Square. At noon, we warm up within the historic walls of the Pazo and the church. When the sun is low in the early afternoon, the ruins of Santa Mariña glow in golden light. We experience sunset as early as 6:00 PM along the Paseo Marítimo before heading to the tower."
+          },
+          "stops": [
+            {
+              "name": "Plaza de Fefiñáns",
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe der Nebensaison ohne Touristenmassen.",
+                "hu": "Élvezze a főszezonon kívüli nyugalmat turistatömegek nélkül.",
+                "ro": "Bucurați-vă de liniștea din extrasezon fără mulțimi de turiști.",
+                "en": "Enjoy the off-season peace without the tourist crowds."
+              }
+            },
+            {
+              "name": "Pazo de Fefiñáns",
+              "tip_5lang": {
+                "de": "Warme Kleidung ist wichtig, da die Steingebäude kühl sein können.",
+                "hu": "A réteges öltözködés fontos, mert a kőépületek hűvösek lehetnek.",
+                "ro": "Îmbrăcămintea călduroasă este importantă, deoarece clădirile din piatră pot fi reci.",
+                "en": "Warm clothing is important, as the stone buildings can be cool."
+              }
+            },
+            {
+              "name": "Iglesia de San Benito",
+              "tip_5lang": {
+                "de": "Bewundern Sie die winterliche Beleuchtung der Fassade am späten Nachmittag.",
+                "hu": "Csodálja meg a homlokzat téli megvilágítását késő délután.",
+                "ro": "Admirați iluminarea de iarnă a fațadei după-amiaza târziu.",
+                "en": "Admire the winter lighting of the facade in the late afternoon."
+              }
+            },
+            {
+              "name": "Ruinas de Santa Mariña Dozo",
+              "tip_5lang": {
+                "de": "Nutzen Sie das flache Winterlicht für dramatische Fotos der Bögen.",
+                "hu": "Használja ki a lapos téli fényt az ívek drámai fotózásához.",
+                "ro": "Folosiți lumina slabă de iarnă pentru fotografii dramatice ale arcadelor.",
+                "en": "Use the low winter light for dramatic photos of the arches."
+              }
+            },
+            {
+              "name": "Museo del Vino",
+              "tip_5lang": {
+                "de": "Probieren Sie einen kräftigen Albariño zum Aufwärmen.",
+                "hu": "Kóstoljon meg egy karakteres Albariñót a felmelegedéshez.",
+                "ro": "Gustați un Albariño robust pentru a vă încălzi.",
+                "en": "Taste a robust Albariño to warm up."
+              }
+            },
+            {
+              "name": "Paseo Marítimo",
+              "tip_5lang": {
+                "de": "Beobachten Sie den frühen Sonnenuntergang über der Ría de Arousa.",
+                "hu": "Nézze meg a korai naplementét a Ría de Arousa felett.",
+                "ro": "Priviți apusul timpuriu peste Ría de Arousa.",
+                "en": "Watch the early sunset over the Ría de Arousa."
+              }
+            },
+            {
+              "name": "Torre de San Sadurniño",
+              "tip_5lang": {
+                "de": "Die Meeresbrise ist im Winter sehr kalt; Mütze und Schal einpacken.",
+                "hu": "A tengeri szellő télen nagyon hideg; csomagoljon sapkát és sálat.",
+                "ro": "Briza mării este foarte rece iarna; împachetați o căciulă și un fular.",
+                "en": "The sea breeze is very cold in winter; pack a hat and scarf."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Dezember bereits gegen 18:00 Uhr unter.",
+              "Einige kleine Cafés haben im Winter eingeschränkte Öffnungszeiten.",
+              "Galizische Winter sind mild, aber feucht – Schichtenprinzip hilft.",
+              "Die besten Fotozeiten für die Ruinen sind zwischen 15:00 und 16:30 Uhr."
+            ],
+            "hu": [
+              "A nap decemberben már 18:00 körül lemegy.",
+              "Néhány kisebb kávézó télen korlátozott nyitvatartással üzemel.",
+              "A galíciai tél enyhe, de párás – a réteges öltözködés segít.",
+              "A legjobb fotózási időszak a romoknál 15:00 és 16:30 között van."
+            ],
+            "ro": [
+              "Soarele apune deja în jurul orei 18:00 în decembrie.",
+              "Unele cafenele mici au program limitat în timpul iernii.",
+              "Iernile galiciene sunt blânde, dar umede – principiul straturilor ajută.",
+              "Cele mai bune ore pentru fotografii la ruine sunt între 15:00 și 16:30."
+            ],
+            "en": [
+              "The sun sets as early as 6:00 PM in December.",
+              "Some small cafes have limited opening hours in winter.",
+              "Galician winters are mild but damp – layering helps.",
+              "The best photo times for the ruins are between 3:00 PM and 4:30 PM."
+            ]
+          }
+        }
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 15.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Plaza de Fefiñáns",
+          "coords": [
+            -8.8145,
+            42.5122
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Starten Sie Ihre Tour auf diesem majestätischen Platz.",
+            "hu": "Indítsa túráját erről a fenséges térről.",
+            "ro": "Începeți turul din această piață maiestuoasă.",
+            "en": "Start your tour from this majestic square."
+          }
+        },
+        {
+          "name": "Museo del Vino",
+          "coords": [
+            -8.8115,
+            42.5065
+          ],
+          "category": "museums",
+          "arrive_at": "09:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad am Eingang ab.",
+            "hu": "Parkolja le a biciklit a bejáratnál.",
+            "ro": "Parcați bicicleta la intrare.",
+            "en": "Park your bike at the entrance."
+          }
+        },
+        {
+          "name": "Paseo Marítimo",
+          "coords": [
+            -8.818,
+            42.508
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Eine flache und angenehme Fahrt am Meer.",
+            "hu": "Lapos és kellemes szakasz a tengerparton.",
+            "ro": "O porțiune plată și plăcută de-a lungul mării.",
+            "en": "A flat and pleasant section along the seaside."
+          }
+        },
+        {
+          "name": "Torre de San Sadurniño",
+          "coords": [
+            -8.8235,
+            42.5055
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Überqueren Sie die kleine Brücke zur Turmruine.",
+            "hu": "Tekerjen át a kis hídon a toronyromhoz.",
+            "ro": "Traversați micul pod către ruinele turnului.",
+            "en": "Cycle across the small bridge to the tower ruins."
+          }
+        },
+        {
+          "name": "San Tomé Viertel",
+          "coords": [
+            -8.825,
+            42.504
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "13:40",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ideal für ein Mittagessen mit frischem Fisch.",
+            "hu": "Ideális hely egy friss halas ebédhez.",
+            "ro": "Loc ideal pentru un prânz cu pește proaspăt.",
+            "en": "Ideal spot for a fresh fish lunch."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Fahrrad lässt sich Cambados wunderbar erkunden. Wir starten am Granitplatz, besuchen das Weinmuseum und radeln dann entspannt am Paseo Marítimo entlang. Die Tour führt uns zum San Tomé Viertel, wo wir die maritime Atmosphäre und die Ruinen von San Sadurniño genießen.",
+        "hu": "Kerékpárral Cambados minden szeglete könnyen elérhető. A gránit térről indulva érintjük a bormúzeumot, majd a tengerparti sétányon tekerünk tovább. A túra a San Tomé negyedbe vezet, ahol élvezhetjük a tengeri hangulatot és a San Sadurniño romokat.",
+        "ro": "Cu bicicleta, fiecare colț din Cambados este ușor accesibil. Pornind din piața de granit, trecem pe la muzeul vinului, apoi pedalăm pe faleză. Turul ne duce în cartierul San Tomé, unde ne bucurăm de atmosfera marină și de ruinele San Sadurniño.",
+        "en": "By bike, every corner of Cambados is easily reachable. Starting from the granite square, we visit the wine museum and then cycle along the seaside promenade. The route leads to the San Tomé district, where you can enjoy the maritime atmosphere and the San Sadurniño ruins."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Meeresfrüchte-Tapas",
+            "tip": "Probieren Sie Muscheln in der Bar Loli."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tengeri tapasok",
+            "tip": "Kóstolja meg a helyi kagylókat a Bar Loli-ban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tapas cu fructe de mare",
+            "tip": "Gustați scoicile locale la Bar Loli."
+          }
+        ],
+        "en": [
+          {
+            "name": "Seafood Tapas",
+            "tip": "Try the local mussels at Bar Loli."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Hafen von San Tomé",
+            "tip": "Ruhiger Ort mit Fischerbooten.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "San Tomé kikötő",
+            "tip": "Csendes hely halászhajókkal.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Portul San Tomé",
+            "tip": "Loc liniștit cu bărci de pescari.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "San Tomé Harbor",
+            "tip": "Quiet spot with traditional fishing boats.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Frische Produkte aus der Region jeden Mittwoch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Friss helyi termékek minden szerdán a piacon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Produse locale proaspete în fiecare miercuri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Fresh local produce every Wednesday at the market."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Der Küstenweg ist flach und einfach zu befahren.",
+          "Achten Sie auf Fußgänger auf der Uferpromenade.",
+          "In San Tomé gibt es gute Parkmöglichkeiten für Fahrräder."
+        ],
+        "hu": [
+          "A tengerparti út sík és könnyen tekerhető.",
+          "Figyeljen a gyalogosokra a sétányon.",
+          "San Tomé-ban sok helyen le lehet lakatolni a biciklit."
+        ],
+        "ro": [
+          "Traseul de coastă este plat și ușor de parcurs.",
+          "Atenție la pietonii de pe faleză.",
+          "În San Tomé există locuri bune pentru parcarea bicicletelor."
+        ],
+        "en": [
+          "The coastal path is flat and very easy to ride.",
+          "Be mindful of pedestrians on the promenade.",
+          "There are plenty of spots to lock your bike in San Tomé."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mit dem Fahrrad lässt sich Cambados wunderbar erkunden. Wir starten am Granitplatz, besuchen das Weinmuseum und radeln dann entspannt am Paseo Marítimo entlang. Die Tour führt uns zum San Tomé Viertel, wo wir die maritime Atmosphäre und die Ruinen von San Sadurniño genießen.",
+            "hu": "Kerékpárral Cambados minden szeglete könnyen elérhető. A gránit térről indulva érintjük a bormúzeumot, majd a tengerparti sétányon tekerünk tovább. A túra a San Tomé negyedbe vezet, ahol élvezhetjük a tengeri hangulatot és a San Sadurniño romokat.",
+            "ro": "Cu bicicleta, fiecare colț din Cambados este ușor accesibil. Pornind din piața de granit, trecem pe la muzeul vinului, apoi pedalăm pe faleză. Turul ne duce în cartierul San Tomé, unde ne bucurăm de atmosfera marină și de ruinele San Sadurniño.",
+            "en": "By bike, every corner of Cambados is easily reachable. Starting from the granite square, we visit the wine museum and then cycle along the seaside promenade. The route leads to the San Tomé district, where you can enjoy the maritime atmosphere and the San Sadurniño ruins."
+          },
+          "stops": [
+            {
+              "name": "Plaza de Fefiñáns",
+              "tip_5lang": {
+                "de": "Starten Sie Ihre Tour auf diesem majestätischen Platz.",
+                "hu": "Indítsa túráját erről a fenséges térről.",
+                "ro": "Începeți turul din această piață maiestuoasă.",
+                "en": "Start your tour from this majestic square."
+              }
+            },
+            {
+              "name": "Museo del Vino",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Fahrrad am Eingang ab.",
+                "hu": "Parkolja le a biciklit a bejáratnál.",
+                "ro": "Parcați bicicleta la intrare.",
+                "en": "Park your bike at the entrance."
+              }
+            },
+            {
+              "name": "Paseo Marítimo",
+              "tip_5lang": {
+                "de": "Eine flache und angenehme Fahrt am Meer.",
+                "hu": "Lapos és kellemes szakasz a tengerparton.",
+                "ro": "O porțiune plată și plăcută de-a lungul mării.",
+                "en": "A flat and pleasant section along the seaside."
+              }
+            },
+            {
+              "name": "Torre de San Sadurniño",
+              "tip_5lang": {
+                "de": "Überqueren Sie die kleine Brücke zur Turmruine.",
+                "hu": "Tekerjen át a kis hídon a toronyromhoz.",
+                "ro": "Traversați micul pod către ruinele turnului.",
+                "en": "Cycle across the small bridge to the tower ruins."
+              }
+            },
+            {
+              "name": "San Tomé Viertel",
+              "tip_5lang": {
+                "de": "Ideal für ein Mittagessen mit frischem Fisch.",
+                "hu": "Ideális hely egy friss halas ebédhez.",
+                "ro": "Loc ideal pentru un prânz cu pește proaspăt.",
+                "en": "Ideal spot for a fresh fish lunch."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Meeresfrüchte-Tapas",
+                "tip": "Probieren Sie Muscheln in der Bar Loli."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Tengeri tapasok",
+                "tip": "Kóstolja meg a helyi kagylókat a Bar Loli-ban."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Tapas cu fructe de mare",
+                "tip": "Gustați scoicile locale la Bar Loli."
+              }
+            ],
+            "en": [
+              {
+                "name": "Seafood Tapas",
+                "tip": "Try the local mussels at Bar Loli."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Hafen von San Tomé",
+                "tip": "Ruhiger Ort mit Fischerbooten.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "San Tomé kikötő",
+                "tip": "Csendes hely halászhajókkal.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Portul San Tomé",
+                "tip": "Loc liniștit cu bărci de pescari.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "San Tomé Harbor",
+                "tip": "Quiet spot with traditional fishing boats.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Lokaler Markt",
+                "tip": "Frische Produkte aus der Region jeden Mittwoch."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Helyi piac",
+                "tip": "Friss helyi termékek minden szerdán a piacon."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Piața locală",
+                "tip": "Produse locale proaspete în fiecare miercuri."
+              }
+            ],
+            "en": [
+              {
+                "name": "Local Market",
+                "tip": "Fresh local produce every Wednesday at the market."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Der Küstenweg ist flach und einfach zu befahren.",
+              "Achten Sie auf Fußgänger auf der Uferpromenade.",
+              "In San Tomé gibt es gute Parkmöglichkeiten für Fahrräder."
+            ],
+            "hu": [
+              "A tengerparti út sík és könnyen tekerhető.",
+              "Figyeljen a gyalogosokra a sétányon.",
+              "San Tomé-ban sok helyen le lehet lakatolni a biciklit."
+            ],
+            "ro": [
+              "Traseul de coastă este plat și ușor de parcurs.",
+              "Atenție la pietonii de pe faleză.",
+              "În San Tomé există locuri bune pentru parcarea bicicletelor."
+            ],
+            "en": [
+              "The coastal path is flat and very easy to ride.",
+              "Be mindful of pedestrians on the promenade.",
+              "There are plenty of spots to lock your bike in San Tomé."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen starten wir vorsichtig am Fefiñáns-Platz. Die Fahrt zum Weinmuseum führt über nasse Asphaltwege. Am Nachmittag radeln wir entlang des Paseo Marítimo, wo der Wind die Tropfen peitscht. Den Abschluss bildet das Viertel San Tomé, wo wir uns in einer Bodega unterstellen und die Räder sicher parken können.",
+            "hu": "Az eső ellenére óvatosan indulunk a Fefiñáns térről. A bormúzeumhoz vezető út nedves aszfalton visz. Délután a Paseo Marítimo mentén kerekezünk, ahol a szél korbácsolja az esőcseppeket. A napot a San Tomé negyedben zárjuk, ahol egy bodegában húzzuk meg magunkat.",
+            "ro": "În ciuda ploii, pornim cu prudență din Piața Fefiñáns. Drumul spre muzeul vinului trece pe poteci de asfalt umed. După-amiaza pedalăm pe Paseo Marítimo, unde vântul biciuiește picăturile. Încheiem în cartierul San Tomé, unde ne adăpostim într-o bodegă.",
+            "en": "Despite the rain, we start cautiously at Fefiñáns Square. The ride to the wine museum takes us over wet asphalt paths. In the afternoon, we cycle along the Paseo Marítimo, where the wind whips the droplets. We finish in the San Tomé quarter, seeking shelter in a bodega."
+          },
+          "stops": [
+            {
+              "name": "Plaza de Fefiñáns",
+              "tip_5lang": {
+                "de": "Vermeiden Sie scharfe Bremsmanöver auf dem nassen Kopfsteinpflaster.",
+                "hu": "Kerülje az erős fékezést a nedves macskaköveken.",
+                "ro": "Evitați frânarea bruscă pe pavajul umed.",
+                "en": "Avoid sharp braking on the wet cobblestones."
+              }
+            },
+            {
+              "name": "Museo del Vino",
+              "tip_5lang": {
+                "de": "Überdachte Fahrradständer sind hier meist vorhanden.",
+                "hu": "Itt általában rendelkezésre állnak fedett kerékpártárolók.",
+                "ro": "Rafturile acoperite pentru biciclete sunt de obicei disponibile aici.",
+                "en": "Covered bike racks are usually available here."
+              }
+            },
+            {
+              "name": "Paseo Marítimo",
+              "tip_5lang": {
+                "de": "Achten Sie auf Pfützen, die tiefer sein können, als sie aussehen.",
+                "hu": "Ügyeljen a tócsákra, amelyek mélyebbek lehetnek, mint aminek látszanak.",
+                "ro": "Atenție la bălți, care pot fi mai adânci decât par.",
+                "en": "Watch out for puddles that might be deeper than they look."
+              }
+            },
+            {
+              "name": "Torre de San Sadurniño",
+              "tip_5lang": {
+                "de": "Der Untergrund zur Torre kann bei Regen schlammig werden.",
+                "hu": "A toronyhoz vezető talaj esőben sárossá válhat.",
+                "ro": "Terenul spre turn poate deveni noroios în caz de ploaie.",
+                "en": "The ground to the tower can get muddy in the rain."
+              }
+            },
+            {
+              "name": "San Tomé Viertel",
+              "tip_5lang": {
+                "de": "Ein perfekter Ort, um die nasse Kleidung bei einem Glas Wein zu trocknen.",
+                "hu": "Tökéletes hely a vizes ruhák szárítására egy pohár bor mellett.",
+                "ro": "Un loc perfect pentru a usca hainele ude la un pahar de vin.",
+                "en": "A perfect place to dry wet clothes over a glass of wine."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Bremsen, da der Bremsweg auf nassen Felgen länger ist.",
+              "Schutzbleche sind bei galizischem Regen ein Muss.",
+              "Tragen Sie eine auffällige Regenjacke für bessere Sichtbarkeit.",
+              "Nutzen Sie wasserdichte Packtaschen für Ihre Wertsachen."
+            ],
+            "hu": [
+              "Ellenőrizze a fékeit, mert a fékút hosszabb a nedves felniken.",
+              "A sárvédő elengedhetetlen a galíciai esőben.",
+              "Viseljen feltűnő esőkabátot a jobb láthatóság érdekében.",
+              "Használjon vízálló táskákat az értéktárgyaihoz."
+            ],
+            "ro": [
+              "Verificați frânele, deoarece distanța de frânare este mai mare pe jantele ude.",
+              "Apărătorile de noroi sunt obligatorii în ploaia galiciană.",
+              "Purtați o jachetă de ploaie reflectorizantă pentru o mai bună vizibilitate.",
+              "Folosiți genți impermeabile pentru obiectele de valoare."
+            ],
+            "en": [
+              "Check your brakes as stopping distance is longer on wet rims.",
+              "Mudguards are a must in Galician rain.",
+              "Wear a bright rain jacket for better visibility.",
+              "Use waterproof panniers for your valuables."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Wintertour startet erfrischend am Fefiñáns-Platz. Die kühle Luft belebt auf dem Weg zum Weinmuseum. Mittags genießen wir die Aussicht am Paseo Marítimo, während die Wintersonne glitzert. Wir erreichen die Torre kurz vor Dämmerung und beenden die Tour im gemütlichen San Tomé Viertel bei lokaler Gastronomie.",
+            "hu": "A téli túra frissítően indul a Fefiñáns téren. A hűvös levegő élénkítő a bormúzeum felé vezető úton. Délben a Paseo Marítimo kilátását élvezzük, miközben a téli nap csillog. A toronyhoz közvetlenül szürkület előtt érünk, a túrát pedig a hangulatos San Tomé negyedben zárjuk.",
+            "ro": "Turul de iarnă începe revigorant în Piața Fefiñáns. Aerul rece este stimulant pe drumul spre muzeul vinului. La prânz ne bucurăm de priveliștea de pe Paseo Marítimo în timp ce soarele de iarnă strălucește. Ajungem la turn chiar înainte de amurg și încheiem turul în cartierul primitor San Tomé.",
+            "en": "The winter tour starts refreshingly at Fefiñáns Square. The cool air is invigorating on the way to the wine museum. At noon, we enjoy the view at Paseo Marítimo while the winter sun glints. We reach the tower just before dusk and end the tour in the cozy San Tomé quarter."
+          },
+          "stops": [
+            {
+              "name": "Plaza de Fefiñáns",
+              "tip_5lang": {
+                "de": "Starten Sie nicht zu früh, um eventuellem Morgenglätte zu entgehen.",
+                "hu": "Ne induljon túl korán, hogy elkerülje az esetleges reggeli csúszósságot.",
+                "ro": "Nu porniți prea devreme pentru a evita eventualul polei de dimineață.",
+                "en": "Don't start too early to avoid any morning frost or slipperiness."
+              }
+            },
+            {
+              "name": "Museo del Vino",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Aufenthalt für eine warme Pause im Inneren.",
+                "hu": "Használja ki az itt tartózkodást egy meleg benti pihenőre.",
+                "ro": "Folosiți șederea pentru o pauză caldă în interior.",
+                "en": "Use the stay for a warm break inside."
+              }
+            },
+            {
+              "name": "Paseo Marítimo",
+              "tip_5lang": {
+                "de": "Warme Handschuhe sind wegen des Fahrtwinds hier wichtig.",
+                "hu": "A menetszél miatt a meleg kesztyű itt nagyon fontos.",
+                "ro": "Mănușile călduroase sunt importante aici din cauza vântului.",
+                "en": "Warm gloves are important here because of the wind chill."
+              }
+            },
+            {
+              "name": "Torre de San Sadurniño",
+              "tip_5lang": {
+                "de": "Planen Sie die Rückfahrt vor Einbruch der Dunkelheit ein.",
+                "hu": "Tervezze meg a visszautat a sötétedés beállta előtt.",
+                "ro": "Planificați drumul de întoarcere înainte de lăsarea întunericului.",
+                "en": "Plan your return trip before darkness falls."
+              }
+            },
+            {
+              "name": "San Tomé Viertel",
+              "tip_5lang": {
+                "de": "Viele Lokale bieten im Winter wärmende Tapas an.",
+                "hu": "Sok hely kínál télen melengető tapasokat.",
+                "ro": "Multe localuri oferă tapas calde în timpul iernii.",
+                "en": "Many places offer warming tapas in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie mehrere Schichten Kleidung gegen den kalten Fahrtwind.",
+              "Achten Sie auf funktionierende Fahrradbeleuchtung für den frühen Abend.",
+              "Der Reifendruck sollte im Winter für mehr Grip leicht gesenkt werden.",
+              "Warme Getränke in einer Thermoskanne sind ideal für Pausen."
+            ],
+            "hu": [
+              "Viseljen több réteg ruhát a hideg menetszél ellen.",
+              "Ügyeljen a működő kerékpáros világításra a kora este miatt.",
+              "A guminyomást télen a jobb tapadás érdekében érdemes kicsit csökkenteni.",
+              "A termoszos meleg italok ideálisak a pihenőkhöz."
+            ],
+            "ro": [
+              "Purtați mai multe straturi de haine împotriva vântului rece.",
+              "Asigurați-vă că luminile bicicletei funcționează pentru seara devreme.",
+              "Presiunea anvelopelor ar trebui redusă ușor iarna pentru o aderență mai bună.",
+              "Băuturile calde într-un termos sunt ideale pentru pauze."
+            ],
+            "en": [
+              "Wear multiple layers of clothing against the cold wind chill.",
+              "Ensure working bike lights for the early evening.",
+              "Tire pressure should be slightly lowered in winter for more grip.",
+              "Warm drinks in a thermos are ideal for breaks."
+            ]
+          }
+        }
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 30.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Plaza de Fefiñáns",
+          "coords": [
+            -8.8145,
+            42.5122
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Parken Sie auf dem großen Parkplatz am Meer.",
+            "hu": "Parkoljon a tengerparti nagy parkolóban.",
+            "ro": "Parcați în parcarea mare de pe malul mării.",
+            "en": "Park in the large seaside parking lot."
+          }
+        },
+        {
+          "name": "Pazo de Bazán",
+          "coords": [
+            -8.816,
+            42.511
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Heute ein staatliches Hotel (Parador).",
+            "hu": "Ma elegáns szállodaként (Parador) működik.",
+            "ro": "Astăzi funcționează ca un hotel de stat (Parador).",
+            "en": "Today it functions as a luxury state-run hotel (Parador)."
+          }
+        },
+        {
+          "name": "Museo del Vino",
+          "coords": [
+            -8.8115,
+            42.5065
+          ],
+          "category": "museums",
+          "arrive_at": "11:25",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Einfacher Zugang mit dem Auto.",
+            "hu": "Autóval könnyen megközelíthető.",
+            "ro": "Acces ușor cu mașina.",
+            "en": "Easy access by car with nearby parking."
+          }
+        },
+        {
+          "name": "Torre de San Sadurniño",
+          "coords": [
+            -8.8235,
+            42.5055
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Wunderschöner Fotostopp am Wasser.",
+            "hu": "Gyönyörű fotópont a vízparton.",
+            "ro": "Punct foto superb pe malul apei.",
+            "en": "Beautiful photo stop right by the water."
+          }
+        },
+        {
+          "name": "Isla de Arousa",
+          "coords": [
+            -8.865,
+            42.545
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:15",
+          "stay_min": 180,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 12.0,
+          "tip_5lang": {
+            "de": "Fahren Sie über die 2 km lange Brücke zur Insel.",
+            "hu": "Hajtson át a 2 km hosszú hídon a szigetre.",
+            "ro": "Traversați podul de 2 km către insulă.",
+            "en": "Drive across the 2 km long bridge to the island."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto kombinieren wir den Charme von Cambados mit der Schönheit der Isla de Arousa. Nach der Besichtigung der Granitpaläste und des Weinmuseums fahren wir über die imposante Brücke zur Insel, um dort den Nachmittag an wilden Stränden und in Pinienwäldern zu verbringen.",
+        "hu": "Autóval Cambados eleganciáját az Isla de Arousa sziget természeti szépségével ötvözzük. A gránitpaloták és a bormúzeum után átkelünk az impozáns hídon a szigetre, ahol a délutánt vadregényes strandokon és fenyvesekben töltjük.",
+        "ro": "Cu mașina combinăm farmecul orașului Cambados cu frumusețea insulei Arousa. După vizitarea palatelor de granit și a muzeului vinului, traversăm podul impunător spre insulă pentru a petrece după-amiaza pe plaje sălbatice și în păduri de pini.",
+        "en": "By car, we combine the charm of Cambados with the natural beauty of Isla de Arousa. After visiting the granite palaces and the wine museum, drive across the impressive bridge to the island to spend the afternoon at wild beaches and pine forests."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Arroz con bogavante",
+            "tip": "Hummer-Reis ist die Spezialität auf der Insel Arousa."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Arroz con bogavante",
+            "tip": "A homáros rizs az Arousa-sziget igazi különlegessége."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Arroz con bogavante",
+            "tip": "Orezul cu homar este specialitatea pe insula Arousa."
+          }
+        ],
+        "en": [
+          {
+            "name": "Arroz con bogavante",
+            "tip": "Lobster rice is the specialty on Arousa Island."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parque Carreirón",
+            "tip": "Naturpark auf der Insel mit einsamen Buchten.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parque Carreirón",
+            "tip": "Természetvédelmi terület a szigeten, eldugott öblökkel.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parque Carreirón",
+            "tip": "Parc natural pe insulă cu golfuri retrase.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parque Carreirón",
+            "tip": "Nature park on the island with secluded coves.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Konserven-Fabriken",
+            "tip": "Kaufen Sie hochwertige Fischkonserven direkt ab Werk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Konzervgyárak",
+            "tip": "Vásároljon prémium halkonzerveket közvetlenül a gyári boltokban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fabrici de conserve",
+            "tip": "Cumpărați conserve de pește premium direct de la fabrică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Canning Factories",
+            "tip": "Buy premium canned seafood directly from the factory shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Auf der Insel Arousa gibt es im Sommer Parkplatzgebühren.",
+          "Die Brücke zur Insel bietet eine tolle Aussicht.",
+          "In Cambados ist der Parkplatz am Hafen am bequemsten."
+        ],
+        "hu": [
+          "Az Arousa-szigeten nyáron fizetős a parkolás.",
+          "A szigetre vezető híd pazar kilátást nyújt.",
+          "Cambadosban a kikötői parkoló a legkényelmesebb választás."
+        ],
+        "ro": [
+          "Pe insula Arousa parcarea este cu plată în timpul verii.",
+          "Podul spre insulă oferă o priveliște minunată.",
+          "În Cambados, parcarea din port este cea mai convenabilă."
+        ],
+        "en": [
+          "Parking fees apply on Arousa Island during the summer months.",
+          "The bridge to the island offers great views of the bay.",
+          "In Cambados, the harbor parking lot is the easiest option."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto kombinieren wir den Charme von Cambados mit der Schönheit der Isla de Arousa. Nach der Besichtigung der Granitpaläste und des Weinmuseums fahren wir über die imposante Brücke zur Insel, um dort den Nachmittag an wilden Stränden und in Pinienwäldern zu verbringen.",
+            "hu": "Autóval Cambados eleganciáját az Isla de Arousa sziget természeti szépségével ötvözzük. A gránitpaloták és a bormúzeum után átkelünk az impozáns hídon a szigetre, ahol a délutánt vadregényes strandokon és fenyvesekben töltjük.",
+            "ro": "Cu mașina combinăm farmecul orașului Cambados cu frumusețea insulei Arousa. După vizitarea palatelor de granit și a muzeului vinului, traversăm podul impunător spre insulă pentru a petrece după-amiaza pe plaje sălbatice și în păduri de pini.",
+            "en": "By car, we combine the charm of Cambados with the natural beauty of Isla de Arousa. After visiting the granite palaces and the wine museum, drive across the impressive bridge to the island to spend the afternoon at wild beaches and pine forests."
+          },
+          "stops": [
+            {
+              "name": "Plaza de Fefiñáns",
+              "tip_5lang": {
+                "de": "Parken Sie auf dem großen Parkplatz am Meer.",
+                "hu": "Parkoljon a tengerparti nagy parkolóban.",
+                "ro": "Parcați în parcarea mare de pe malul mării.",
+                "en": "Park in the large seaside parking lot."
+              }
+            },
+            {
+              "name": "Pazo de Bazán",
+              "tip_5lang": {
+                "de": "Heute ein staatliches Hotel (Parador).",
+                "hu": "Ma elegáns szállodaként (Parador) működik.",
+                "ro": "Astăzi funcționează ca un hotel de stat (Parador).",
+                "en": "Today it functions as a luxury state-run hotel (Parador)."
+              }
+            },
+            {
+              "name": "Museo del Vino",
+              "tip_5lang": {
+                "de": "Einfacher Zugang mit dem Auto.",
+                "hu": "Autóval könnyen megközelíthető.",
+                "ro": "Acces ușor cu mașina.",
+                "en": "Easy access by car with nearby parking."
+              }
+            },
+            {
+              "name": "Torre de San Sadurniño",
+              "tip_5lang": {
+                "de": "Wunderschöner Fotostopp am Wasser.",
+                "hu": "Gyönyörű fotópont a vízparton.",
+                "ro": "Punct foto superb pe malul apei.",
+                "en": "Beautiful photo stop right by the water."
+              }
+            },
+            {
+              "name": "Isla de Arousa",
+              "tip_5lang": {
+                "de": "Fahren Sie über die 2 km lange Brücke zur Insel.",
+                "hu": "Hajtson át a 2 km hosszú hídon a szigetre.",
+                "ro": "Traversați podul de 2 km către insulă.",
+                "en": "Drive across the 2 km long bridge to the island."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Arroz con bogavante",
+                "tip": "Hummer-Reis ist die Spezialität auf der Insel Arousa."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Arroz con bogavante",
+                "tip": "A homáros rizs az Arousa-sziget igazi különlegessége."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Arroz con bogavante",
+                "tip": "Orezul cu homar este specialitatea pe insula Arousa."
+              }
+            ],
+            "en": [
+              {
+                "name": "Arroz con bogavante",
+                "tip": "Lobster rice is the specialty on Arousa Island."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Parque Carreirón",
+                "tip": "Naturpark auf der Insel mit einsamen Buchten.",
+                "emoji": "🍃"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Parque Carreirón",
+                "tip": "Természetvédelmi terület a szigeten, eldugott öblökkel.",
+                "emoji": "🍃"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Parque Carreirón",
+                "tip": "Parc natural pe insulă cu golfuri retrase.",
+                "emoji": "🍃"
+              }
+            ],
+            "en": [
+              {
+                "name": "Parque Carreirón",
+                "tip": "Nature park on the island with secluded coves.",
+                "emoji": "🍃"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Konserven-Fabriken",
+                "tip": "Kaufen Sie hochwertige Fischkonserven direkt ab Werk."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Konzervgyárak",
+                "tip": "Vásároljon prémium halkonzerveket közvetlenül a gyári boltokban."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Fabrici de conserve",
+                "tip": "Cumpărați conserve de pește premium direct de la fabrică."
+              }
+            ],
+            "en": [
+              {
+                "name": "Canning Factories",
+                "tip": "Buy premium canned seafood directly from the factory shops."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Auf der Insel Arousa gibt es im Sommer Parkplatzgebühren.",
+              "Die Brücke zur Insel bietet eine tolle Aussicht.",
+              "In Cambados ist der Parkplatz am Hafen am bequemsten."
+            ],
+            "hu": [
+              "Az Arousa-szigeten nyáron fizetős a parkolás.",
+              "A szigetre vezető híd pazar kilátást nyújt.",
+              "Cambadosban a kikötői parkoló a legkényelmesebb választás."
+            ],
+            "ro": [
+              "Pe insula Arousa parcarea este cu plată în timpul verii.",
+              "Podul spre insulă oferă o priveliște minunată.",
+              "În Cambados, parcarea din port este cea mai convenabilă."
+            ],
+            "en": [
+              "Parking fees apply on Arousa Island during the summer months.",
+              "The bridge to the island offers great views of the bay.",
+              "In Cambados, the harbor parking lot is the easiest option."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Bequem im Auto erreichen wir den regnerischen Plaza de Fefiñáns. Nach dem Besuch des Pazo de Bazán fahren wir zum Weinmuseum, während die Scheibenwischer im Takt wischen. Am Nachmittag bietet die Fahrt zur Torre und weiter zur Isla de Arousa trockenen Komfort trotz des stürmischen Wetters an der Küste.",
+            "hu": "Kényelmesen, autóval érkezünk az esős Plaza de Fefiñáns térre. A Pazo de Bazán meglátogatása után a bormúzeumhoz hajtunk, miközben az ablaktörlők ütemesen járnak. Délután a toronyhoz, majd az Arousa-szigetre vezető út száraz kényelmet nyújt a parti viharos idő ellenére is.",
+            "ro": "Ajungem confortabil cu mașina în Piața Fefiñáns ploioasă. După vizitarea Pazo de Bazán, conducem spre muzeul vinului în timp ce ștergătoarele merg ritmic. După-amiaza, drumul spre turn și mai departe spre Isla de Arousa oferă confort uscat în ciuda vremii furtunoase de pe coastă.",
+            "en": "Comfortably by car, we reach the rainy Plaza de Fefiñáns. After visiting Pazo de Bazán, we drive to the wine museum while the wipers swing rhythmically. In the afternoon, the drive to the tower and on to Arousa Island provides dry comfort despite the stormy coastal weather."
+          },
+          "stops": [
+            {
+              "name": "Plaza de Fefiñáns",
+              "tip_5lang": {
+                "de": "Parken Sie in der Nähe, um kurze Wege im Regen zu haben.",
+                "hu": "Parkoljon a közelben, hogy rövid legyen a séta az esőben.",
+                "ro": "Parcați în apropiere pentru a avea drumuri scurte prin ploaie.",
+                "en": "Park nearby to minimize walking distances in the rain."
+              }
+            },
+            {
+              "name": "Pazo de Bazán",
+              "tip_5lang": {
+                "de": "Das Hotel bietet eine stilvolle Lobby zum Abwarten von Schauern.",
+                "hu": "A szálloda stílusos lobbija alkalmas a záporok kivárására.",
+                "ro": "Hotelul oferă un lobby elegant pentru a aștepta trecerea averselor.",
+                "en": "The hotel offers a stylish lobby to wait out showers."
+              }
+            },
+            {
+              "name": "Museo del Vino",
+              "tip_5lang": {
+                "de": "Großer Parkplatz direkt am Museum vorhanden.",
+                "hu": "Közvetlenül a múzeumnál nagy parkoló áll rendelkezésre.",
+                "ro": "Parcare mare disponibilă direct la muzeu.",
+                "en": "Large parking lot available directly at the museum."
+              }
+            },
+            {
+              "name": "Torre de San Sadurniño",
+              "tip_5lang": {
+                "de": "Vorsicht beim Aussteigen, starker Wind an der Küste.",
+                "hu": "Vigyázat kiszálláskor, erős szél a parton.",
+                "ro": "Atenție la coborâre, vânt puternic pe coastă.",
+                "en": "Be careful when getting out; strong winds on the coast."
+              }
+            },
+            {
+              "name": "Isla de Arousa",
+              "tip_5lang": {
+                "de": "Die Brücke zur Insel kann bei Sturmseitenwind heikel sein.",
+                "hu": "A szigetre vezető híd viharos oldalszélben trükkös lehet.",
+                "ro": "Podul către insulă poate fi dificil în caz de vânt lateral puternic.",
+                "en": "The bridge to the island can be tricky in stormy side winds."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Aquaplaning auf der Küstenstraße.",
+              "Halten Sie die Scheiben beschlagfrei für bessere Sicht.",
+              "Nutzen Sie die Parkhäuser in Zentrumsnähe.",
+              "Der Albariño-Kauf lässt sich so trocken nach Hause transportieren."
+            ],
+            "hu": [
+              "Ügyeljen a vízenfutásra (aquaplaning) a parti úton.",
+              "Tartsa páramentesen az ablakokat a jobb kilátásért.",
+              "Használja a központhoz közeli parkolóházakat.",
+              "Az Albariño borvásárlás így szárazon hazaszállítható."
+            ],
+            "ro": [
+              "Atenție la acvaplanare pe drumul de coastă.",
+              "Păstrați geamurile dezaburite pentru o vizibilitate mai bună.",
+              "Folosiți parcările etajate din apropierea centrului.",
+              "Cumpărăturile de vin Albariño pot fi transportate astfel uscate spre casă."
+            ],
+            "en": [
+              "Watch out for aquaplaning on the coastal road.",
+              "Keep windows defogged for better visibility.",
+              "Use parking garages near the center.",
+              "Albariño wine purchases can be transported home dry this way."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Winterfahrt beginnt am ruhigen Plaza de Fefiñáns. Im Pazo de Bazán genießen wir die winterliche Atmosphäre bei einem Kaffee. Das Weinmuseum bietet mittags eine warme Zuflucht. Der Tag gipfelt in einer Panoramafahrt über die Brücke zur Isla de Arousa, wo wir den frühen Sonnenuntergang bequem vom Auto oder Strand aus sehen.",
+            "hu": "A téli autózás a nyugodt Plaza de Fefiñáns téren kezdődik. A Pazo de Bazánban kávézva élvezzük a téli hangulatot. A bormúzeum délben meleg menedéket nyújt. A nap egy panorámaúttal zárul az Arousa-szigetre, ahol a korai naplementét kényelmesen, az autóból vagy a strandról nézhetjük meg.",
+            "ro": "Călătoria de iarnă începe în liniștita Piață Fefiñáns. La Pazo de Bazán ne bucurăm de atmosfera de iarnă la o cafea. Muzeul vinului oferă un refugiu cald la prânz. Ziua culminează cu un drum panoramic peste pod către Isla de Arousa, unde vedem apusul timpuriu confortabil din mașină sau de pe plajă.",
+            "en": "The winter drive starts at the quiet Plaza de Fefiñáns. At Pazo de Bazán, we enjoy the winter atmosphere over a coffee. The wine museum provides a warm refuge at noon. The day culminates in a scenic drive across the bridge to Arousa Island, where we see the early sunset comfortably from the car or beach."
+          },
+          "stops": [
+            {
+              "name": "Plaza de Fefiñáns",
+              "tip_5lang": {
+                "de": "Im Winter finden Sie hier leichter einen Parkplatz.",
+                "hu": "Télen itt könnyebben talál parkolóhelyet.",
+                "ro": "Iarna veți găsi mai ușor un loc de parcare aici.",
+                "en": "You'll find parking more easily here in winter."
+              }
+            },
+            {
+              "name": "Pazo de Bazán",
+              "tip_5lang": {
+                "de": "Ideal für eine Aufwärmpause in herrschaftlichem Ambiente.",
+                "hu": "Ideális egy melegítő pihenőhöz úri környezetben.",
+                "ro": "Ideal pentru o pauză de încălzire într-o ambianță nobilă.",
+                "en": "Ideal for a warm-up break in a grand atmosphere."
+              }
+            },
+            {
+              "name": "Museo del Vino",
+              "tip_5lang": {
+                "de": "Die Heizung im Museum sorgt für angenehme Temperaturen.",
+                "hu": "A múzeum fűtése kellemes hőmérsékletet biztosít.",
+                "ro": "Încălzirea din muzeu asigură temperaturi plăcute.",
+                "en": "The museum's heating ensures pleasant temperatures."
+              }
+            },
+            {
+              "name": "Torre de San Sadurniño",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Auto als Windschutz für kurze Fotostopps.",
+                "hu": "Használja az autót szélfogóként a rövid fotómegállókhoz.",
+                "ro": "Folosiți mașina ca paravan pentru scurte opriri foto.",
+                "en": "Use the car as a windbreak for short photo stops."
+              }
+            },
+            {
+              "name": "Isla de Arousa",
+              "tip_5lang": {
+                "de": "Der Naturpark Carreirón ist auch im Winter für Spaziergänge toll.",
+                "hu": "A Carreirón natúrpark télen is remek hely a sétákhoz.",
+                "ro": "Parcul natural Carreirón este minunat pentru plimbări chiar și iarna.",
+                "en": "Carreirón Nature Park is great for walks even in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Reifendruck bei sinkenden Temperaturen.",
+              "Die Küstenstraßen können bei Winternebel unübersichtlich sein.",
+              "Planen Sie die Isla de Arousa für ca. 16:30 Uhr ein (Sonnenuntergang).",
+              "Ein Eiskratzer könnte an kalten Morgen nötig sein."
+            ],
+            "hu": [
+              "Ellenőrizze a guminyomást a csökkenő hőmérséklet mellett.",
+              "A parti utak téli ködben beláthatatlanok lehetnek.",
+              "Az Arousa-szigetet kb. 16:30-ra időzítse (naplemente).",
+              "Hideg reggeleken jégkaparóra is szükség lehet."
+            ],
+            "ro": [
+              "Verificați presiunea anvelopelor pe măsură ce temperaturile scad.",
+              "Drumurile de coastă pot fi greu vizibile în ceața de iarnă.",
+              "Planificați Isla de Arousa pentru aproximativ ora 16:30 (apusul soarelui).",
+              "Ar putea fi nevoie de o racletă în diminețile reci."
+            ],
+            "en": [
+              "Check tire pressure as temperatures drop.",
+              "Coastal roads can be obscured in winter fog.",
+              "Time your visit to Arousa Island for around 4:30 PM (sunset).",
+              "An ice scraper might be needed on cold mornings."
+            ]
+          }
+        }
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 8.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Plaza de Fefiñáns",
+          "coords": [
+            -8.8145,
+            42.5122
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Der Busbahnhof ist nur 10 Gehminuten entfernt.",
+            "hu": "A buszpályaudvar mindössze 10 perc séta.",
+            "ro": "Autogara este la doar 10 minute de mers pe jos.",
+            "en": "The bus station is only a 10-minute walk away."
+          }
+        },
+        {
+          "name": "Pazo de Bazán",
+          "coords": [
+            -8.816,
+            42.511
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:30",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Fassade des heutigen Paradors.",
+            "hu": "Csodálja meg a mai Parador impozáns homlokzatát.",
+            "ro": "Admirați fațada actualului Parador.",
+            "en": "Admire the facade of the current Parador hotel."
+          }
+        },
+        {
+          "name": "Ruinas de Santa Mariña Dozo",
+          "coords": [
+            -8.8125,
+            42.5075
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang bergauf vom Zentrum.",
+            "hu": "Rövid emelkedő séta a központból.",
+            "ro": "O scurtă plimbare la deal din centru.",
+            "en": "A short uphill walk from the town center."
+          }
+        },
+        {
+          "name": "Museo del Vino",
+          "coords": [
+            -8.8115,
+            42.5065
+          ],
+          "category": "museums",
+          "arrive_at": "13:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Gleich neben den Santa Mariña Ruinen.",
+            "hu": "Közvetlenül a Santa Mariña romok mellett.",
+            "ro": "Chiar lângă ruinele Santa Mariña.",
+            "en": "Located right next to the Santa Mariña ruins."
+          }
+        },
+        {
+          "name": "Paseo Marítimo",
+          "coords": [
+            -8.818,
+            42.508
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:05",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Genießen Sie ein Eis beim Gehen am Meer.",
+            "hu": "Fagyizzon egyet a tengerparti séta közben.",
+            "ro": "Savurați o înghețată în timp ce vă plimbați pe faleză.",
+            "en": "Enjoy an ice cream while walking along the seafront."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Cambados ist mit dem Bus gut aus Vilagarcía oder Pontevedra erreichbar. Die wichtigsten Sehenswürdigkeiten konzentrieren sich im historischen Zentrum und sind bequem zu Fuß vom Busbahnhof aus zu erkunden. Der Tag verbindet Weinkultur, gotische Ruinen und maritime Entspannung am Paseo Marítimo.",
+        "hu": "Cambados busszal könnyen elérhető Vilagarcía vagy Pontevedra felől. A főbb látnivalók a történelmi központban sűrűsödnek, így a buszpályaudvartól minden gyalog is bejárható. A nap a borkultúra, a gótikus romok és a tengerparti kikapcsolódás jegyében telik.",
+        "ro": "Cambados este ușor accesibil cu autobuzul din Vilagarcía sau Pontevedra. Atracțiile principale sunt concentrate în centrul istoric, fiind ușor de explorat pe jos de la autogară. Ziua îmbină cultura vinului, ruinele gotice și relaxarea pe faleză.",
+        "en": "Cambados is easily accessible by bus from Vilagarcía or Pontevedra. The main sights are concentrated in the historic center, making everything reachable on foot from the bus station. The day combines wine culture, Gothic ruins, and maritime relaxation on the promenade."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Tarta de Santiago",
+            "tip": "Klassischer Mandelkuchen zum Dessert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tarta de Santiago",
+            "tip": "Klasszikus mandulatorta, tökéletes desszert."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tarta de Santiago",
+            "tip": "Prăjitură clasică cu migdale pentru desert."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tarta de Santiago",
+            "tip": "Classic almond cake, the perfect dessert."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Alameda de Cambados",
+            "tip": "Schattiger Park ideal für eine Lesepause.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Alameda de Cambados",
+            "tip": "Árnyas park, ideális egy kis olvasáshoz.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Alameda de Cambados",
+            "tip": "Parc umbros, ideal pentru o pauză de lectură.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Alameda de Cambados",
+            "tip": "Shady park ideal for a reading break.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Weinläden",
+            "tip": "Viele Geschäfte bieten Weinversand nach Hause an."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Borüzletek",
+            "tip": "Sok üzlet vállal házhozszállítást is a borokhoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de vinuri",
+            "tip": "Multe magazine oferă livrarea vinului la domiciliu."
+          }
+        ],
+        "en": [
+          {
+            "name": "Wine Shops",
+            "tip": "Many shops offer home delivery for your wine purchases."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Bustickets können direkt beim Fahrer gekauft werden.",
+          "Die Firma Monbus bedient die meisten Strecken in der Region.",
+          "Der Busbahnhof bietet Schließfächer für Gepäck."
+        ],
+        "hu": [
+          "A buszjegyet közvetlenül a sofőrnél is megveheti.",
+          "A Monbus társaság indítja a legtöbb járatot a környéken.",
+          "A buszpályaudvaron vannak csomagmegőrző szekrények."
+        ],
+        "ro": [
+          "Biletele de autobuz pot fi cumpărate direct de la șofer.",
+          "Compania Monbus operează majoritatea rutelor din regiune.",
+          "Autogara oferă dulapuri pentru depozitarea bagajelor."
+        ],
+        "en": [
+          "Bus tickets can be purchased directly from the driver.",
+          "Monbus is the main operator for routes in the region.",
+          "The bus station has lockers for storing luggage."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Cambados ist mit dem Bus gut aus Vilagarcía oder Pontevedra erreichbar. Die wichtigsten Sehenswürdigkeiten konzentrieren sich im historischen Zentrum und sind bequem zu Fuß vom Busbahnhof aus zu erkunden. Der Tag verbindet Weinkultur, gotische Ruinen und maritime Entspannung am Paseo Marítimo.",
+            "hu": "Cambados busszal könnyen elérhető Vilagarcía vagy Pontevedra felől. A főbb látnivalók a történelmi központban sűrűsödnek, így a buszpályaudvartól minden gyalog is bejárható. A nap a borkultúra, a gótikus romok és a tengerparti kikapcsolódás jegyében telik.",
+            "ro": "Cambados este ușor accesibil cu autobuzul din Vilagarcía sau Pontevedra. Atracțiile principale sunt concentrate în centrul istoric, fiind ușor de explorat pe jos de la autogară. Ziua îmbină cultura vinului, ruinele gotice și relaxarea pe faleză.",
+            "en": "Cambados is easily accessible by bus from Vilagarcía or Pontevedra. The main sights are concentrated in the historic center, making everything reachable on foot from the bus station. The day combines wine culture, Gothic ruins, and maritime relaxation on the promenade."
+          },
+          "stops": [
+            {
+              "name": "Plaza de Fefiñáns",
+              "tip_5lang": {
+                "de": "Der Busbahnhof ist nur 10 Gehminuten entfernt.",
+                "hu": "A buszpályaudvar mindössze 10 perc séta.",
+                "ro": "Autogara este la doar 10 minute de mers pe jos.",
+                "en": "The bus station is only a 10-minute walk away."
+              }
+            },
+            {
+              "name": "Pazo de Bazán",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Fassade des heutigen Paradors.",
+                "hu": "Csodálja meg a mai Parador impozáns homlokzatát.",
+                "ro": "Admirați fațada actualului Parador.",
+                "en": "Admire the facade of the current Parador hotel."
+              }
+            },
+            {
+              "name": "Ruinas de Santa Mariña Dozo",
+              "tip_5lang": {
+                "de": "Ein kurzer Spaziergang bergauf vom Zentrum.",
+                "hu": "Rövid emelkedő séta a központból.",
+                "ro": "O scurtă plimbare la deal din centru.",
+                "en": "A short uphill walk from the town center."
+              }
+            },
+            {
+              "name": "Museo del Vino",
+              "tip_5lang": {
+                "de": "Gleich neben den Santa Mariña Ruinen.",
+                "hu": "Közvetlenül a Santa Mariña romok mellett.",
+                "ro": "Chiar lângă ruinele Santa Mariña.",
+                "en": "Located right next to the Santa Mariña ruins."
+              }
+            },
+            {
+              "name": "Paseo Marítimo",
+              "tip_5lang": {
+                "de": "Genießen Sie ein Eis beim Gehen am Meer.",
+                "hu": "Fagyizzon egyet a tengerparti séta közben.",
+                "ro": "Savurați o înghețată în timp ce vă plimbați pe faleză.",
+                "en": "Enjoy an ice cream while walking along the seafront."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Tarta de Santiago",
+                "tip": "Klassischer Mandelkuchen zum Dessert."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Tarta de Santiago",
+                "tip": "Klasszikus mandulatorta, tökéletes desszert."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Tarta de Santiago",
+                "tip": "Prăjitură clasică cu migdale pentru desert."
+              }
+            ],
+            "en": [
+              {
+                "name": "Tarta de Santiago",
+                "tip": "Classic almond cake, the perfect dessert."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Alameda de Cambados",
+                "tip": "Schattiger Park ideal für eine Lesepause.",
+                "emoji": "🍃"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Alameda de Cambados",
+                "tip": "Árnyas park, ideális egy kis olvasáshoz.",
+                "emoji": "🍃"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Alameda de Cambados",
+                "tip": "Parc umbros, ideal pentru o pauză de lectură.",
+                "emoji": "🍃"
+              }
+            ],
+            "en": [
+              {
+                "name": "Alameda de Cambados",
+                "tip": "Shady park ideal for a reading break.",
+                "emoji": "🍃"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Weinläden",
+                "tip": "Viele Geschäfte bieten Weinversand nach Hause an."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Borüzletek",
+                "tip": "Sok üzlet vállal házhozszállítást is a borokhoz."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Magazine de vinuri",
+                "tip": "Multe magazine oferă livrarea vinului la domiciliu."
+              }
+            ],
+            "en": [
+              {
+                "name": "Wine Shops",
+                "tip": "Many shops offer home delivery for your wine purchases."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Bustickets können direkt beim Fahrer gekauft werden.",
+              "Die Firma Monbus bedient die meisten Strecken in der Region.",
+              "Der Busbahnhof bietet Schließfächer für Gepäck."
+            ],
+            "hu": [
+              "A buszjegyet közvetlenül a sofőrnél is megveheti.",
+              "A Monbus társaság indítja a legtöbb járatot a környéken.",
+              "A buszpályaudvaron vannak csomagmegőrző szekrények."
+            ],
+            "ro": [
+              "Biletele de autobuz pot fi cumpărate direct de la șofer.",
+              "Compania Monbus operează majoritatea rutelor din regiune.",
+              "Autogara oferă dulapuri pentru depozitarea bagajelor."
+            ],
+            "en": [
+              "Bus tickets can be purchased directly from the driver.",
+              "Monbus is the main operator for routes in the region.",
+              "The bus station has lockers for storing luggage."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Bus erreichen wir den Fefiñáns-Platz und flüchten schnell unter die Arkaden. Nach dem Besuch des Pazo de Bazán bringt uns der Nahverkehr zum Bormuseum, wo wir den Regen vergessen. Den Nachmittag verbringen wir am Paseo Marítimo, immer bereit, bei einem plötzlichen Guss in das nächste Café oder den Bus zu springen.",
+            "hu": "Busszal érkezünk a Fefiñáns térre, és gyorsan az árkádok alá menekülünk. A Pazo de Bazán megtekintése után a tömegközlekedés a bormúzeumhoz visz, ahol elfelejtjük az esőt. A délutánt a Paseo Marítimo mentén töltjük, készen arra, hogy egy hirtelen zápor esetén a legközelebbi kávézóba vagy buszra ugorjunk.",
+            "ro": "Ajungem cu autobuzul în Piața Fefiñáns și ne refugiem rapid sub arcade. După vizitarea Pazo de Bazán, transportul local ne duce la muzeul vinului, unde uităm de ploaie. După-amiaza o petrecem pe Paseo Marítimo, gata să sărim în următoarea cafenea sau autobuz în caz de aversă bruscă.",
+            "en": "We reach Fefiñáns Square by bus and quickly seek shelter under the arches. After visiting Pazo de Bazán, public transit takes us to the wine museum, where we forget the rain. We spend the afternoon along Paseo Marítimo, ready to hop into the nearest cafe or bus in case of a sudden downpour."
+          },
+          "stops": [
+            {
+              "name": "Plaza de Fefiñáns",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle bietet oft nur begrenzten Regenschutz.",
+                "hu": "A buszmegálló gyakran csak korlátozott védelmet nyújt az eső ellen.",
+                "ro": "Stația de autobuz oferă adesea adăpost limitat împotriva ploii.",
+                "en": "The bus stop often provides only limited shelter from the rain."
+              }
+            },
+            {
+              "name": "Pazo de Bazán",
+              "tip_5lang": {
+                "de": "Informieren Sie sich drinnen über die nächsten Abfahrtszeiten.",
+                "hu": "Tájékozódjon bent a következő indulási időpontokról.",
+                "ro": "Informați-vă în interior despre următoarele ore de plecare.",
+                "en": "Check the next departure times while you are inside."
+              }
+            },
+            {
+              "name": "Ruinas de Santa Mariña Dozo",
+              "tip_5lang": {
+                "de": "Der Weg von der Haltestelle zu den Ruinen ist kurz, aber exponiert.",
+                "hu": "A megállótól a romokig vezető út rövid, de nyílt terepen visz.",
+                "ro": "Drumul de la stație la ruine este scurt, dar expus.",
+                "en": "The walk from the stop to the ruins is short but exposed."
+              }
+            },
+            {
+              "name": "Museo del Vino",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um auf den Bus zu warten, ohne nass zu werden.",
+                "hu": "Ideális hely a buszra váráshoz anélkül, hogy eláznánk.",
+                "ro": "Un loc ideal pentru a aștepta autobuzul fără a vă uda.",
+                "en": "An ideal place to wait for the bus without getting wet."
+              }
+            },
+            {
+              "name": "Paseo Marítimo",
+              "tip_5lang": {
+                "de": "Nutzen Sie die App für Echtzeit-Infos, um Wartezeiten im Regen zu minimieren.",
+                "hu": "Használja az appot a várakozási idő minimalizálásához az esőben.",
+                "ro": "Folosiți aplicația pentru informații în timp real pentru a minimiza așteptarea în ploaie.",
+                "en": "Use the app for real-time info to minimize waiting in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Haben Sie Kleingeld für den Busfahrer bereit, falls Karten nicht gehen.",
+              "Regen führt oft zu kleinen Verspätungen im Busverkehr.",
+              "Die Haltestellen in der Altstadt sind teils nicht überdacht.",
+              "Eine wasserfeste Hülle für den Fahrplan ist hilfreich."
+            ],
+            "hu": [
+              "Legyen kéznél aprópénz a buszsofőrnek, ha a kártya nem működne.",
+              "Az eső gyakran kisebb késéseket okoz a buszközlekedésben.",
+              "Az óvárosi megállók egy része nem fedett.",
+              "Segítség, ha vízálló tokban van a menetrend."
+            ],
+            "ro": [
+              "Aveți pregătiți bani mărunți pentru șofer, în caz că nu merg cardurile.",
+              "Ploaia provoacă adesea mici întârzieri în traficul de autobuze.",
+              "Stațiile din orașul vechi nu sunt parțial acoperite.",
+              "O husă impermeabilă pentru orar este utilă."
+            ],
+            "en": [
+              "Have small change ready for the driver in case cards fail.",
+              "Rain often causes small delays in bus services.",
+              "Some stops in the old town are not covered.",
+              "A waterproof sleeve for your schedule is helpful."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Wintertag mit dem Bus startet am Fefiñáns-Platz. Die kurzen Wege zwischen den Stopps sind bei kühler Luft angenehm. Mittags wärmen wir uns im Pazo de Bazán auf, bevor wir zum Weinmuseum fahren. Da es früh dunkel wird, nutzen wir den ÖPNV für eine sichere Rückfahrt nach dem Sonnenuntergang am Paseo Marítimo.",
+            "hu": "A téli nap a busszal a Fefiñáns téren indul. A megállók közötti rövid utak kellemesek a hűvös levegőben. Délben a Pazo de Bazánban melegszünk fel, mielőtt a bormúzeumhoz utaznánk. Mivel korán sötétedik, a tömegközlekedést használjuk a biztonságos visszautazáshoz a naplemente után.",
+            "ro": "O zi de iarnă cu autobuzul începe în Piața Fefiñáns. Distanțele scurte între stații sunt plăcute în aerul rece. La prânz ne încălzim la Pazo de Bazán înainte de a merge la muzeul vinului. Deoarece se întunecă devreme, folosim transportul public pentru o întoarcere sigură după apus.",
+            "en": "A winter day by bus starts at Fefiñáns Square. The short walks between stops are pleasant in the cool air. At noon, we warm up at Pazo de Bazán before heading to the wine museum. As it gets dark early, we use public transit for a safe return after sunset at Paseo Marítimo."
+          },
+          "stops": [
+            {
+              "name": "Plaza de Fefiñáns",
+              "tip_5lang": {
+                "de": "Beachten Sie die leicht geänderten Winterfahrpläne.",
+                "hu": "Ügyeljen a némileg módosított téli menetrendre.",
+                "ro": "Atenție la orarele de iarnă ușor modificate.",
+                "en": "Note the slightly modified winter schedules."
+              }
+            },
+            {
+              "name": "Pazo de Bazán",
+              "tip_5lang": {
+                "de": "Ein warmer Ort, falls der Bus einmal Verspätung hat.",
+                "hu": "Meleg hely, ha a busz esetleg késne.",
+                "ro": "Un loc cald în cazul în care autobuzul întârzie.",
+                "en": "A warm place in case the bus is delayed."
+              }
+            },
+            {
+              "name": "Ruinas de Santa Mariña Dozo",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Ruinen früh, solange das Licht gut ist.",
+                "hu": "Látogassa meg a romokat korán, amíg jók a fények.",
+                "ro": "Vizitați ruinele devreme, cât timp lumina este bună.",
+                "en": "Visit the ruins early while the light is still good."
+              }
+            },
+            {
+              "name": "Museo del Vino",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle ist nur wenige Gehminuten entfernt.",
+                "hu": "A buszmegálló csak néhány perc sétára található.",
+                "ro": "Stația de autobuz este la doar câteva minute de mers pe jos.",
+                "en": "The bus stop is just a few minutes' walk away."
+              }
+            },
+            {
+              "name": "Paseo Marítimo",
+              "tip_5lang": {
+                "de": "Nach 18 Uhr wird es merklich kühler, planen Sie den Bus ein.",
+                "hu": "18 óra után érezhetően hűvösebb lesz, tervezzen a busszal.",
+                "ro": "După ora 18 se răcește vizibil, planificați întoarcerea cu autobuzul.",
+                "en": "It gets noticeably cooler after 6 PM; plan for the bus."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse sind im Winter meist weniger überfüllt.",
+              "Nutzen Sie die beheizten Wartebereiche in Cafés nahe der Haltestellen.",
+              "Die letzte Verbindung in die Außenbezirke ist oft früher als im Sommer.",
+              "Tragen Sie reflektierende Kleidung für den Weg zur Haltestelle."
+            ],
+            "hu": [
+              "A buszok télen általában kevésbé zsúfoltak.",
+              "Használja a fűtött várótereket a megállók közeli kávézókban.",
+              "Az utolsó járat a külvárosokba gyakran korábban indul, mint nyáron.",
+              "Viseljen fényvisszaverő ruházatot a megállóhoz vezető úton."
+            ],
+            "ro": [
+              "Autobuzele sunt de obicei mai puțin aglomerate iarna.",
+              "Folosiți zonele de așteptare încălzite din cafenelele de lângă stații.",
+              "Ultima conexiune către periferii este adesea mai devreme decât vara.",
+              "Purtați haine reflectorizante pentru drumul spre stație."
+            ],
+            "en": [
+              "Buses are usually less crowded in winter.",
+              "Use heated waiting areas in cafes near the stops.",
+              "The last connection to the outskirts is often earlier than in summer.",
+              "Wear reflective clothing for the walk to the stop."
+            ]
+          }
+        }
+      }
+    }
+  },
+  "external_resources": {
+    "tourism_office": "https://www.turismoriasbaixas.com/es",
+    "events": "https://www.turismoriasbaixas.com",
+    "transit_official": "https://www.monbus.es",
+    "language_tips": {
+      "de": "Cambados ist die Albariño-Weinhauptstadt, Bodegas und Restaurants haben oft englischsprachiges Personal für Weinverkostungen. Auf den Wochenmärkten und in den Dorfbars ist Galego und Spanisch Pflicht.",
+      "hu": "Cambados az albariño bor fővárosa, a borászatokban és éttermekben a kóstolókon angolul is elboldogulsz. A piacokon és kis kocsmákban viszont galego-spanyol kell.",
+      "ro": "Cambados e capitala vinului Albariño, podgoriile și restaurantele au adesea personal vorbitor de engleză pentru degustări. La piețe și în taverne mici, galega și spaniola sunt obligatorii.",
+      "en": "Cambados is the Albariño wine capital, wineries and restaurants often staff tastings in English. Local markets and small bars run on Galego and Spanish only though."
+    },
+    "best_time_to_visit": {
+      "de": "Erstes Wochenende im August ist die Festa do Albariño, das größte Weinfest Galiciens, dann sind alle Pensionen Monate im Voraus ausgebucht. Mai, Juni und September sind angenehmer für Weintourismus.",
+      "hu": "Augusztus első hétvégéje a Festa do Albariño, Galícia legnagyobb borfesztiválja, akkor minden szállás hónapokra előre foglalt. Május, június és szeptember kellemesebb borturizmusra.",
+      "ro": "În primul weekend din august are loc Festa do Albariño, cel mai mare festival al vinului din Galicia, când toate pensiunile sunt rezervate cu luni înainte. Mai, iunie și septembrie sunt mai plăcute pentru turism vinicol.",
+      "en": "First weekend of August is the Festa do Albariño, Galicia's biggest wine festival, with guesthouses booked solid months ahead. May, June and September are calmer for wine touring."
+    },
+    "neighborhood_warnings": {
+      "de": "Sehr ruhig und sicher. Während des Weinfestes wird viel getrunken, dann ist Vorsicht im Straßenverkehr nach Mitternacht angesagt, Polizei kontrolliert streng auf Alkohol am Steuer.",
+      "hu": "Nagyon nyugodt és biztonságos. A borfesztivál idején sokat isznak, éjfél után az úton járva légy óvatos, a rendőrség keményen szondáztat.",
+      "ro": "Foarte liniștit și sigur. În timpul festivalului se bea mult, atenție pe drumuri după miezul nopții, poliția face controale stricte de alcoolemie.",
+      "en": "Very quiet and safe. During the wine festival drinking is heavy, take care on the roads after midnight as police run strict alcohol checks."
+    }
+  }
+}

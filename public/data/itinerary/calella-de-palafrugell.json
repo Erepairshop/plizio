@@ -1,0 +1,2425 @@
+{
+  "city_id": "calella-de-palafrugell",
+  "anchor": {
+    "name": "Port Bo",
+    "coords": [
+      3.1789,
+      41.8939
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Port Bo",
+            "hu": "Port Bo",
+            "ro": "Port Bo",
+            "en": "Port Bo"
+          },
+          "coords": [
+            3.1845,
+            41.8885
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Die berühmten weißen Bögen am Strand.",
+            "hu": "A híres fehér árkádok a tengerparton.",
+            "ro": "Celebrele arcade albe de pe plajă.",
+            "en": "The iconic white arches right by the beach."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Sant Pere",
+            "hu": "Szent Péter-templom",
+            "ro": "Biserica Sant Pere",
+            "en": "Church of Sant Pere"
+          },
+          "coords": [
+            3.1842,
+            41.8892
+          ],
+          "category": "churches",
+          "arrive_at": "10:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Klassische Fischerkirche im Dorfzentrum.",
+            "hu": "Klasszikus halásztemplom a falu központjában.",
+            "ro": "Biserică pescărească clasică în centrul satului.",
+            "en": "Classic fishermans church in the village center."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand Canadell",
+            "hu": "Canadell strand",
+            "ro": "Plaja Canadell",
+            "en": "Canadell Beach"
+          },
+          "coords": [
+            3.1865,
+            41.8895
+          ],
+          "category": "beaches",
+          "arrive_at": "11:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Beobachten Sie die bunten Bootshäuser.",
+            "hu": "Nézd meg a színes csónakházakat.",
+            "ro": "Admirați casele colorate pentru bărci.",
+            "en": "Look for the colorful wooden boat garage doors."
+          }
+        },
+        {
+          "name": {
+            "de": "Habanera Monument",
+            "hu": "Habanera emlékmű",
+            "ro": "Monumentul Habanera",
+            "en": "Habanera Monument"
+          },
+          "coords": [
+            3.185,
+            41.8888
+          ],
+          "category": "monuments",
+          "arrive_at": "13:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erinnerung an den berühmten Gesangswettbewerb.",
+            "hu": "A híres énekverseny emlékére állították.",
+            "ro": "Comemorează celebrul festival de cântece.",
+            "en": "Commemorates the famous annual singing festival."
+          }
+        },
+        {
+          "name": {
+            "de": "Camí de Ronda",
+            "hu": "Camí de Ronda sétány",
+            "ro": "Camí de Ronda",
+            "en": "Camí de Ronda Path"
+          },
+          "coords": [
+            3.1875,
+            41.8875
+          ],
+          "category": "parks",
+          "arrive_at": "13:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Wunderschöner Küstenweg nach Llafranc.",
+            "hu": "Gyönyörű tengerparti ösvény Llafranc felé.",
+            "ro": "Potecă superbă de coastă spre Llafranc.",
+            "en": "Beautiful coastal path towards Llafranc."
+          }
+        },
+        {
+          "name": {
+            "de": "Gärten von Cap Roig",
+            "hu": "Cap Roig kertjei",
+            "ro": "Grădinile Cap Roig",
+            "en": "Cap Roig Gardens"
+          },
+          "coords": [
+            3.1775,
+            41.8765
+          ],
+          "category": "parks",
+          "arrive_at": "15:30",
+          "stay_min": 120,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Schloss und exotische Pflanzenwelt.",
+            "hu": "Kastély és egzotikus növényvilág egy helyen.",
+            "ro": "Castel și floră exotică într-un singur loc.",
+            "en": "Castle and exotic plant life by the sea."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie eines der charmantesten Fischerdörfer der Costa Brava zu Fuß. Starten Sie am Port Bo mit seinen charakteristischen weißen Arkaden.\nNach einem Besuch der Kirche Sant Pere spazieren Sie zum Strand Canadell, wo die Zeit stehen geblieben zu sein scheint.\nAm Nachmittag folgen Sie dem Camí de Ronda, einem ehemaligen Schmugglerpfad, der atemberaubende Ausblicke auf das tiefblaue Meer bietet.\nBeenden Sie Ihre Wanderung in den Gärten von Cap Roig, die für ihre botanische Vielfalt und das jährliche Musikfestival bekannt sind.",
+        "hu": "Fedezze fel a Costa Brava egyik legbájosabb halászfaluját gyalogosan. Kezdjen a Port Bo öbölnél a jellegzetes fehér árkádok alatt.\nA Szent Péter-templom megtekintése után sétáljon el a Canadell strandra, ahol megállt az idő.\nDélután kövesse a Camí de Ronda ösvényt, amely egykor csempészút volt, és lélegzetelállító kilátást nyújt a tengerre.\nZárja a sétát a Cap Roig kertjeiben, amelyek botanikai sokszínűségükről és az éves zenei fesztiválról híresek.",
+        "ro": "Descoperiți pe jos unul dintre cele mai fermecătoare sate de pescari de pe Costa Brava. Începeți la Port Bo, cu arcadele sale albe caracteristice.\nDupă o vizită la biserica Sant Pere, plimbați-vă pe plaja Canadell, unde timpul pare să fi stat în loc.\nDupă-amiaza, urmați Camí de Ronda, o fostă potecă de contrabandă care oferă priveliști uluitoare asupra mării.\nÎncheiați plimbarea în grădinile Cap Roig, renumite pentru diversitatea lor botanică și festivalul anual de muzică.",
+        "en": "Discover one of the most charming fishing villages on the Costa Brava on foot. Start at Port Bo with its characteristic white arches.\nAfter visiting the Church of Sant Pere, stroll to Canadell Beach, where time seems to have stood still.\nIn the afternoon, follow the Camí de Ronda, a former smugglers path offering breathtaking views of the Mediterranean.\nEnd your walk at the Cap Roig Gardens, famous for their botanical diversity and the annual music festival."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Cremat",
+            "tip": "Flambierter Rum mit Kaffee, typisch für Habanera-Abende."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cremat",
+            "tip": "Flambírozott rum kávéval, tipikus habanera-ital."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cremat",
+            "tip": "Rom flambat cu cafea, tipic pentru serile Habanera."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cremat",
+            "tip": "Flambéed rum with coffee, typical for Habanera evenings."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Cala del Golfet",
+            "tip": "Kleine, versteckte Bucht südlich des Dorfes.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cala del Golfet",
+            "tip": "Kicsi, rejtett öböl a falutól délre.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cala del Golfet",
+            "tip": "Mic golf retras la sud de sat.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cala del Golfet",
+            "tip": "A small, hidden cove south of the village.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Espardenyes",
+            "tip": "Traditionelle katalanische Leinenschuhe."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Espardenyes",
+            "tip": "Hagyományos katalán vászoncipők."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Espardenyes",
+            "tip": "Încălțăminte tradițională catalană din pânză."
+          }
+        ],
+        "en": [
+          {
+            "name": "Espardenyes",
+            "tip": "Traditional Catalan canvas shoes (espadrilles)."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Parkplatzsuche im Dorf ist im Sommer sehr schwierig.",
+          "Das Habanera-Festival findet am ersten Juli-Wochenende statt.",
+          "Reservieren Sie Tische in den Strandrestaurants im Voraus."
+        ],
+        "hu": [
+          "A faluban nyáron nagyon nehéz parkolóhelyet találni.",
+          "A Habanera-fesztivál július első hétvégéjén van.",
+          "Foglaljon asztalt előre a tengerparti éttermekben."
+        ],
+        "ro": [
+          "Căutarea unui loc de parcare în sat este foarte dificilă vara.",
+          "Festivalul Habanera are loc în primul weekend din iulie.",
+          "Rezervați mese în avans la restaurantele de pe plajă."
+        ],
+        "en": [
+          "Finding a parking spot in the village is very hard in summer.",
+          "The Habanera festival takes place on the first weekend of July.",
+          "Book tables in advance at seaside restaurants."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Entdecken Sie eines der charmantesten Fischerdörfer der Costa Brava zu Fuß. Starten Sie am Port Bo mit seinen charakteristischen weißen Arkaden.\nNach einem Besuch der Kirche Sant Pere spazieren Sie zum Strand Canadell, wo die Zeit stehen geblieben zu sein scheint.\nAm Nachmittag folgen Sie dem Camí de Ronda, einem ehemaligen Schmugglerpfad, der atemberaubende Ausblicke auf das tiefblaue Meer bietet.\nBeenden Sie Ihre Wanderung in den Gärten von Cap Roig, die für ihre botanische Vielfalt und das jährliche Musikfestival bekannt sind.",
+            "hu": "Fedezze fel a Costa Brava egyik legbájosabb halászfaluját gyalogosan. Kezdjen a Port Bo öbölnél a jellegzetes fehér árkádok alatt.\nA Szent Péter-templom megtekintése után sétáljon el a Canadell strandra, ahol megállt az idő.\nDélután kövesse a Camí de Ronda ösvényt, amely egykor csempészút volt, és lélegzetelállító kilátást nyújt a tengerre.\nZárja a sétát a Cap Roig kertjeiben, amelyek botanikai sokszínűségükről és az éves zenei fesztiválról híresek.",
+            "ro": "Descoperiți pe jos unul dintre cele mai fermecătoare sate de pescari de pe Costa Brava. Începeți la Port Bo, cu arcadele sale albe caracteristice.\nDupă o vizită la biserica Sant Pere, plimbați-vă pe plaja Canadell, unde timpul pare să fi stat în loc.\nDupă-amiaza, urmați Camí de Ronda, o fostă potecă de contrabandă care oferă priveliști uluitoare asupra mării.\nÎncheiați plimbarea în grădinile Cap Roig, renumite pentru diversitatea lor botanică și festivalul anual de muzică.",
+            "en": "Discover one of the most charming fishing villages on the Costa Brava on foot. Start at Port Bo with its characteristic white arches.\nAfter visiting the Church of Sant Pere, stroll to Canadell Beach, where time seems to have stood still.\nIn the afternoon, follow the Camí de Ronda, a former smugglers path offering breathtaking views of the Mediterranean.\nEnd your walk at the Cap Roig Gardens, famous for their botanical diversity and the annual music festival."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Port Bo",
+                "hu": "Port Bo",
+                "ro": "Port Bo",
+                "en": "Port Bo"
+              },
+              "tip_5lang": {
+                "de": "Die berühmten weißen Bögen am Strand.",
+                "hu": "A híres fehér árkádok a tengerparton.",
+                "ro": "Celebrele arcade albe de pe plajă.",
+                "en": "The iconic white arches right by the beach."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Sant Pere",
+                "hu": "Szent Péter-templom",
+                "ro": "Biserica Sant Pere",
+                "en": "Church of Sant Pere"
+              },
+              "tip_5lang": {
+                "de": "Klassische Fischerkirche im Dorfzentrum.",
+                "hu": "Klasszikus halásztemplom a falu központjában.",
+                "ro": "Biserică pescărească clasică în centrul satului.",
+                "en": "Classic fishermans church in the village center."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand Canadell",
+                "hu": "Canadell strand",
+                "ro": "Plaja Canadell",
+                "en": "Canadell Beach"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die bunten Bootshäuser.",
+                "hu": "Nézd meg a színes csónakházakat.",
+                "ro": "Admirați casele colorate pentru bărci.",
+                "en": "Look for the colorful wooden boat garage doors."
+              }
+            },
+            {
+              "name": {
+                "de": "Habanera Monument",
+                "hu": "Habanera emlékmű",
+                "ro": "Monumentul Habanera",
+                "en": "Habanera Monument"
+              },
+              "tip_5lang": {
+                "de": "Erinnerung an den berühmten Gesangswettbewerb.",
+                "hu": "A híres énekverseny emlékére állították.",
+                "ro": "Comemorează celebrul festival de cântece.",
+                "en": "Commemorates the famous annual singing festival."
+              }
+            },
+            {
+              "name": {
+                "de": "Camí de Ronda",
+                "hu": "Camí de Ronda sétány",
+                "ro": "Camí de Ronda",
+                "en": "Camí de Ronda Path"
+              },
+              "tip_5lang": {
+                "de": "Wunderschöner Küstenweg nach Llafranc.",
+                "hu": "Gyönyörű tengerparti ösvény Llafranc felé.",
+                "ro": "Potecă superbă de coastă spre Llafranc.",
+                "en": "Beautiful coastal path towards Llafranc."
+              }
+            },
+            {
+              "name": {
+                "de": "Gärten von Cap Roig",
+                "hu": "Cap Roig kertjei",
+                "ro": "Grădinile Cap Roig",
+                "en": "Cap Roig Gardens"
+              },
+              "tip_5lang": {
+                "de": "Schloss und exotische Pflanzenwelt.",
+                "hu": "Kastély és egzotikus növényvilág egy helyen.",
+                "ro": "Castel și floră exotică într-un singur loc.",
+                "en": "Castle and exotic plant life by the sea."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Cremat",
+                "tip": "Flambierter Rum mit Kaffee, typisch für Habanera-Abende."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Cremat",
+                "tip": "Flambírozott rum kávéval, tipikus habanera-ital."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Cremat",
+                "tip": "Rom flambat cu cafea, tipic pentru serile Habanera."
+              }
+            ],
+            "en": [
+              {
+                "name": "Cremat",
+                "tip": "Flambéed rum with coffee, typical for Habanera evenings."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Cala del Golfet",
+                "tip": "Kleine, versteckte Bucht südlich des Dorfes.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Cala del Golfet",
+                "tip": "Kicsi, rejtett öböl a falutól délre.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Cala del Golfet",
+                "tip": "Mic golf retras la sud de sat.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Cala del Golfet",
+                "tip": "A small, hidden cove south of the village.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Espardenyes",
+                "tip": "Traditionelle katalanische Leinenschuhe."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Espardenyes",
+                "tip": "Hagyományos katalán vászoncipők."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Espardenyes",
+                "tip": "Încălțăminte tradițională catalană din pânză."
+              }
+            ],
+            "en": [
+              {
+                "name": "Espardenyes",
+                "tip": "Traditional Catalan canvas shoes (espadrilles)."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Die Parkplatzsuche im Dorf ist im Sommer sehr schwierig.",
+              "Das Habanera-Festival findet am ersten Juli-Wochenende statt.",
+              "Reservieren Sie Tische in den Strandrestaurants im Voraus."
+            ],
+            "hu": [
+              "A faluban nyáron nagyon nehéz parkolóhelyet találni.",
+              "A Habanera-fesztivál július első hétvégéjén van.",
+              "Foglaljon asztalt előre a tengerparti éttermekben."
+            ],
+            "ro": [
+              "Căutarea unui loc de parcare în sat este foarte dificilă vara.",
+              "Festivalul Habanera are loc în primul weekend din iulie.",
+              "Rezervați mese în avans la restaurantele de pe plajă."
+            ],
+            "en": [
+              "Finding a parking spot in the village is very hard in summer.",
+              "The Habanera festival takes place on the first weekend of July.",
+              "Book tables in advance at seaside restaurants."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens: Regentropfen auf dem Mittelmeer; die Bögen von Port Bo bieten trockenen Unterschlupf. Die Kirche Sant Pere ist ein friedlicher Rückzugsort. Mittags: Ein kurzer Strandspaziergang unter dem Schirm am Canadell, gefolgt vom Habanera-Denkmal. Nachmittags: Der Küstenpfad ist rutschig, aber die Luft am Camí de Ronda ist herrlich frisch. Abends: Gemütliches Abendessen in einer Hafentaverne.",
+            "hu": "Reggel: Az eső kopog a Port Bo árkádjain, biztonságos menedéket nyújtva. A Sant Pere templom csendes békéje tökéletes a vihar elől. Délben: Esernyő alatt sétálunk a Canadell strandon, majd a Habanera emlékműnél pihenünk meg. Délután: A parti ösvény csúszós, de a friss sós levegő kárpótol. A Cap Roig kertek színei mélyebbek az esőben. Este: Egy kikötői étteremben, a tenger morajlását hallgatva melegszünk fel.",
+            "ro": "Dimineața: Picături de ploaie pe Mediterană; arcadele din Port Bo oferă adăpost uscat. Biserica Sant Pere este un refugiu liniștit. La prânz: O scurtă plimbare pe plaja Canadell sub umbrelă, urmată de monumentul Habanera. După-amiaza: Poteca de coastă este alunecoasă, dar aerul este proaspăt. Grădinile Cap Roig sunt vibrante în ploaie. Seara: Cină caldă într-o tavernă din port.",
+            "en": "Morning: Raindrops on the Mediterranean; the arches of Port Bo provide dry shelter. Sant Pere Church offers a peaceful retreat. Noon: A quick beach walk under the umbrella at Canadell, then the Habanera monument. Afternoon: The coastal path is slippery, but the salt air is fresh. Cap Roig Gardens look lush and vibrant in the wet. Evening: A cozy dinner in a harbor tavern watching the gray sea."
+          },
+          "stops": [
+            {
+              "name": "Port Bo",
+              "tip_5lang": {
+                "de": "Schutz unter 'Les Voltes' suchen.",
+                "hu": "Keress menedéket a 'Les Voltes' árkádok alatt.",
+                "ro": "Căutați adăpost sub arcadele 'Les Voltes'.",
+                "en": "Seek shelter under 'Les Voltes' arches."
+              }
+            },
+            {
+              "name": "Church of Sant Pere",
+              "tip_5lang": {
+                "de": "Ideal, um den stärksten Guss abzuwarten.",
+                "hu": "Ideális hely a legnagyobb zápor kivárására.",
+                "ro": "Ideal pentru a aștepta trecerea ploii torențiale.",
+                "en": "Ideal place to wait out the heaviest downpour."
+              }
+            },
+            {
+              "name": "Canadell Beach",
+              "tip_5lang": {
+                "de": "Feste Schuhe für nassen Sand nötig.",
+                "hu": "Zárt cipő ajánlott a vizes homok miatt.",
+                "ro": "Pantofi închiși necesari pentru nisipul ud.",
+                "en": "Closed shoes needed for the wet sand."
+              }
+            },
+            {
+              "name": "Habanera Monument",
+              "tip_5lang": {
+                "de": "Schnelles Foto im Regenmantel.",
+                "hu": "Gyors fotó esőkabátban az emlékműnél.",
+                "ro": "Fotografie rapidă în pelerină de ploaie.",
+                "en": "Quick photo in a raincoat at the monument."
+              }
+            },
+            {
+              "name": "Camí de Ronda Path",
+              "tip_5lang": {
+                "de": "Vorsicht, die Steine sind sehr glatt.",
+                "hu": "Vigyázat, a kövek nagyon csúsznak.",
+                "ro": "Atenție, pietrele sunt foarte alunecoase.",
+                "en": "Caution, the rocks are very slippery."
+              }
+            },
+            {
+              "name": "Cap Roig Gardens",
+              "tip_5lang": {
+                "de": "Die Cafeteria bietet guten Regenschutz.",
+                "hu": "A kávézó jó védelmet nyújt az eső elől.",
+                "ro": "Cafeneaua oferă o protecție bună împotriva ploii.",
+                "en": "The cafeteria offers good protection from rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie rutschfeste Wanderschuhe auf dem Küstenpfad.",
+              "Nutzen Sie die Arkaden von Port Bo als natürlichen Regenschirm.",
+              "Die Kirche ist montags oft nur für Gebete offen.",
+              "Ein robuster Windschirm ist besser als ein billiger Knirps."
+            ],
+            "hu": [
+              "Viselj csúszásmentes cipőt a parti sétányon.",
+              "Használd a Port Bo árkádjait természetes esernyőként.",
+              "A templom hétfőnként korlátozottan látogatható.",
+              "Egy stabil esernyő többet ér a tengerparti szélben."
+            ],
+            "ro": [
+              "Purtați încălțăminte antiderapantă pe poteca de coastă.",
+              "Folosiți arcadele din Port Bo ca umbrelă naturală.",
+              "Biserica are program limitat în zilele de luni.",
+              "O umbrelă rezistentă la vânt este esențială aici."
+            ],
+            "en": [
+              "Wear non-slip shoes on the coastal path.",
+              "Use the arches of Port Bo as a natural umbrella.",
+              "The church may have limited visiting hours on Mondays.",
+              "A sturdy windproof umbrella is better than a cheap one."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens: Klare, kalte Luft über dem leeren Hafen von Port Bo. Die Kirche strahlt Ruhe aus. Mittags: Ein einsamer Spaziergang am Canadell Strand, die Wintersonne glitzert auf den Wellen. Nachmittags: Am Camí de Ronda peitscht der Wind, aber die Aussicht ist kristallklar. In den Cap Roig Gärten blühen die ersten Kamelien. Evening: Früher Sonnenuntergang taucht das Dorf in goldenes Licht.",
+            "hu": "Reggel: Kristálytiszta, hideg levegő a Port Bo üres kikötőjében. A templom nyugalmat áraszt. Délben: Magányos séta a Canadell strandon, a téli nap csillog a hullámokon. Délután: A Camí de Ronda mentén fúj a szél, de a kilátás éles és tiszta. A Cap Roig kertekben már nyílnak a kaméliák. Este: A korai naplemente aranyba öltözteti a fehér házakat.",
+            "ro": "Dimineața: Aer rece și clar în portul gol Port Bo. Biserica emană liniște. La prânz: O plimbare solitară pe plaja Canadell, soarele de iarnă sclipind pe valuri. După-amiaza: Vântul bate pe Camí de Ronda, dar vizibilitatea este maximă. În grădinile Cap Roig înfloresc primele camelii. Seara: Apusul devreme scaldă satul în lumină aurie.",
+            "en": "Morning: Crisp, cold air over the empty harbor of Port Bo. The church radiates peace. Noon: A solitary walk on Canadell Beach, winter sun sparkling on the waves. Afternoon: The wind whips along Camí de Ronda, but the views are crystal clear. Camellias start blooming in Cap Roig Gardens. Evening: Early sunset at 17:00 paints the white village in golden hues."
+          },
+          "stops": [
+            {
+              "name": "Port Bo",
+              "tip_5lang": {
+                "de": "Warmer Kaffee unter den Arkaden.",
+                "hu": "Egy meleg kávé az árkádok alatt.",
+                "ro": "O cafea caldă sub arcade.",
+                "en": "A warm coffee under the arches."
+              }
+            },
+            {
+              "name": "Church of Sant Pere",
+              "tip_5lang": {
+                "de": "Windgeschützter Ort für einen Moment.",
+                "hu": "Szélvédett hely egy rövid pihenőre.",
+                "ro": "Loc ferit de vânt pentru un moment.",
+                "en": "Wind-protected spot for a moment."
+              }
+            },
+            {
+              "name": "Canadell Beach",
+              "tip_5lang": {
+                "de": "Perfekt für Fotos ohne Touristenmassen.",
+                "hu": "Tökéletes fotókhoz tömegek nélkül.",
+                "ro": "Perfect pentru fotografii fără mulțimi.",
+                "en": "Perfect for photos without the crowds."
+              }
+            },
+            {
+              "name": "Habanera Monument",
+              "tip_5lang": {
+                "de": "Die Wintersonne steht hier mittags tief.",
+                "hu": "A téli nap délben itt alacsonyan jár.",
+                "ro": "Soarele de iarnă este jos la prânz aici.",
+                "en": "The winter sun sits low here at noon."
+              }
+            },
+            {
+              "name": "Camí de Ronda Path",
+              "tip_5lang": {
+                "de": "Windjacke ist wegen der Brise Pflicht.",
+                "hu": "Szélldzseki kötelező a parti szél miatt.",
+                "ro": "Jachetă de vânt obligatorie.",
+                "en": "Windbreaker is mandatory due to the breeze."
+              }
+            },
+            {
+              "name": "Cap Roig Gardens",
+              "tip_5lang": {
+                "de": "Prüfen Sie die frühen Schließzeiten.",
+                "hu": "Ellenőrizd a korai zárási időpontot.",
+                "ro": "Verificați orele de închidere timpurii.",
+                "en": "Check the early winter closing times."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Sonnenuntergang ist gegen 17:15 Uhr.",
+              "Viele Cafés am Strand haben Winterpause.",
+              "Zwiebelprinzip bei der Kleidung schützt vor Seewind.",
+              "Die Gärten schließen im Winter bereits um 18:00 Uhr."
+            ],
+            "hu": [
+              "A naplemente 17:15 körül van.",
+              "Sok tengerparti kávézó zárva tart télen.",
+              "Réteges öltözködés javasolt a tengeri szél ellen.",
+              "A kertek télen már 18:00-kor bezárnak."
+            ],
+            "ro": [
+              "Apusul este în jur de ora 17:15.",
+              "Multe cafenele de pe plajă sunt închise.",
+              "Îmbrăcați-vă în straturi împotriva vântului.",
+              "Grădinile se închid la ora 18:00 iarna."
+            ],
+            "en": [
+              "Sunset is around 17:15 in mid-winter.",
+              "Many beachside cafes are closed in low season.",
+              "Layered clothing protects against the sea wind.",
+              "The gardens close early at 18:00 in winter."
+            ]
+          }
+        }
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 12.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Port Bo",
+            "hu": "Port Bo",
+            "ro": "Port Bo",
+            "en": "Port Bo"
+          },
+          "coords": [
+            3.1845,
+            41.8885
+          ],
+          "category": "squares",
+          "arrive_at": "09:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Startpunkt am Strand, bevor es voll wird.",
+            "hu": "Kezdőpont a strandon, mielőtt megtelik.",
+            "ro": "Punct de pornire pe plajă, înainte de aglomerație.",
+            "en": "Starting point at the beach before it gets crowded."
+          }
+        },
+        {
+          "name": {
+            "de": "Leuchtturm Sant Sebastià",
+            "hu": "Szent Sebestyén világítótorony",
+            "ro": "Farul Sant Sebastià",
+            "en": "Sant Sebastià Lighthouse"
+          },
+          "coords": [
+            3.2045,
+            41.8955
+          ],
+          "category": "bridges",
+          "arrive_at": "10:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Steiler Aufstieg, aber die Aussicht ist es wert.",
+            "hu": "Meredek emelkedő, de a kilátás megéri.",
+            "ro": "Urcare abruptă, dar vederea merită efortul.",
+            "en": "Steep climb, but the view is definitely worth it."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand Canadell",
+            "hu": "Canadell strand",
+            "ro": "Plaja Canadell",
+            "en": "Canadell Beach"
+          },
+          "coords": [
+            3.1865,
+            41.8895
+          ],
+          "category": "beaches",
+          "arrive_at": "12:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Fahren Sie vorsichtig in der Fußgängerzone.",
+            "hu": "Vigyázzon a gyalogosövezetben.",
+            "ro": "Circulați cu atenție în zona pietonală.",
+            "en": "Cycle carefully in the pedestrianized areas."
+          }
+        },
+        {
+          "name": {
+            "de": "Cala del Golfet",
+            "hu": "Cala del Golfet",
+            "ro": "Cala del Golfet",
+            "en": "Cala del Golfet"
+          },
+          "coords": [
+            3.1815,
+            41.8805
+          ],
+          "category": "viewpoints",
+          "arrive_at": "14:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Fahrräder oben an der Straße lassen.",
+            "hu": "A kerékpárokat az út mentén fent kell hagyni.",
+            "ro": "Lăsați bicicletele sus la drum.",
+            "en": "Leave bikes at the road level before descending."
+          }
+        },
+        {
+          "name": {
+            "de": "Gärten von Cap Roig",
+            "hu": "Cap Roig kertjei",
+            "ro": "Grădinile Cap Roig",
+            "en": "Cap Roig Gardens"
+          },
+          "coords": [
+            3.1775,
+            41.8765
+          ],
+          "category": "parks",
+          "arrive_at": "15:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Breiter Weg führt zum Garteneingang.",
+            "hu": "Széles út vezet a kert bejáratához.",
+            "ro": "Un drum lat duce la intrarea în grădină.",
+            "en": "A wide path leads to the garden entrance."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie die Umgebung von Calella mit dem Fahrrad. Die Tour zum Leuchtturm Sant Sebastià ist sportlich, bietet aber die beste Aussicht der Region.\nFahren Sie zurück durch das Dorf zum Canadell Strand für eine Erfrischung.\nDer Weg nach Süden führt Sie zur malerischen Bucht Golfet und schließlich zu den Cap Roig Gärten.\nDie Küstenwege sind teilweise hügelig, aber die Meeresbrise macht die Fahrt angenehm.",
+        "hu": "Fedezze fel Calella környékét kerékpárral. A Szent Sebestyén világítótoronyhoz vezető út sportos, de a régió legjobb kilátását nyújtja.\nTekerjen vissza a falun keresztül a Canadell strandra egy kis frissítőre.\nA déli útvonal a festői Golfet-öbölhöz, végül pedig a Cap Roig kertekhez vezet.\nA part menti utak helyenként dombosak, de a tengeri szellő kellemessé teszi a tekerést.",
+        "ro": "Explorați împrejurimile orașului Calella cu bicicleta. Turul până la farul Sant Sebastià este sportiv, dar oferă cea mai bună vedere din regiune.\nÎntoarceți-vă prin sat spre plaja Canadell pentru o băutură răcoritoare.\nTraseul spre sud vă duce la pitorescul golf Golfet și, în final, la grădinile Cap Roig.\nDrumurile de coastă sunt parțial deluroase, dar briza mării face plimbarea plăcută.",
+        "en": "Explore the surroundings of Calella by bike. The trip to the Sant Sebastià lighthouse is a workout but offers the regions best vistas.\nRide back through the village to Canadell Beach for a quick dip or refreshment.\nThe path south takes you to the picturesque Golfet cove and finally to the Cap Roig Gardens.\nCoastal routes are somewhat hilly, but the sea breeze makes for a pleasant journey."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Arroz Negro",
+            "tip": "Schwarzer Reis mit Tintenfischtinte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Arroz Negro",
+            "tip": "Fekete rizs tintahal-tintával."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Arroz Negro",
+            "tip": "Orez negru cu cerneală de sepie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Arroz Negro",
+            "tip": "Black rice cooked with squid ink."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Far de Sant Sebastià",
+            "tip": "Ruhe am Morgen hoch über dem Meer.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szent Sebestyén torony",
+            "tip": "Reggeli csend magasan a tenger felett.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Farul Sant Sebastià",
+            "tip": "Liniște matinală sus deasupra mării.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sant Sebastià Light",
+            "tip": "Morning tranquility high above the sea.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bike Rentals Calella",
+            "tip": "Fahrradverleih im Dorfzentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bike Rentals Calella",
+            "tip": "Kerékpárkölcsönző a falu központjában."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bike Rentals Calella",
+            "tip": "Închirieri biciclete în centrul satului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Rentals Calella",
+            "tip": "Bike rental shop in the village center."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die 'Pirinexus' Route für längere Touren.",
+          "Ein E-Bike ist für den Leuchtturm-Aufstieg empfohlen.",
+          "Tragen Sie immer einen Helm."
+        ],
+        "hu": [
+          "Hosszabb túrákhoz használja a 'Pirinexus' útvonalat.",
+          "A világítótoronyhoz elektromos kerékpár ajánlott.",
+          "Mindig viseljen bukósisakot."
+        ],
+        "ro": [
+          "Folosiți ruta 'Pirinexus' pentru tururi mai lungi.",
+          "O bicicletă electrică este recomandată pentru urcarea la far.",
+          "Purtați întotdeauna cască."
+        ],
+        "en": [
+          "Use the 'Pirinexus' route for longer excursions.",
+          "An e-bike is recommended for the lighthouse climb.",
+          "Always wear a helmet."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie die Umgebung von Calella mit dem Fahrrad. Die Tour zum Leuchtturm Sant Sebastià ist sportlich, bietet aber die beste Aussicht der Region.\nFahren Sie zurück durch das Dorf zum Canadell Strand für eine Erfrischung.\nDer Weg nach Süden führt Sie zur malerischen Bucht Golfet und schließlich zu den Cap Roig Gärten.\nDie Küstenwege sind teilweise hügelig, aber die Meeresbrise macht die Fahrt angenehm.",
+            "hu": "Fedezze fel Calella környékét kerékpárral. A Szent Sebestyén világítótoronyhoz vezető út sportos, de a régió legjobb kilátását nyújtja.\nTekerjen vissza a falun keresztül a Canadell strandra egy kis frissítőre.\nA déli útvonal a festői Golfet-öbölhöz, végül pedig a Cap Roig kertekhez vezet.\nA part menti utak helyenként dombosak, de a tengeri szellő kellemessé teszi a tekerést.",
+            "ro": "Explorați împrejurimile orașului Calella cu bicicleta. Turul până la farul Sant Sebastià este sportiv, dar oferă cea mai bună vedere din regiune.\nÎntoarceți-vă prin sat spre plaja Canadell pentru o băutură răcoritoare.\nTraseul spre sud vă duce la pitorescul golf Golfet și, în final, la grădinile Cap Roig.\nDrumurile de coastă sunt parțial deluroase, dar briza mării face plimbarea plăcută.",
+            "en": "Explore the surroundings of Calella by bike. The trip to the Sant Sebastià lighthouse is a workout but offers the regions best vistas.\nRide back through the village to Canadell Beach for a quick dip or refreshment.\nThe path south takes you to the picturesque Golfet cove and finally to the Cap Roig Gardens.\nCoastal routes are somewhat hilly, but the sea breeze makes for a pleasant journey."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Port Bo",
+                "hu": "Port Bo",
+                "ro": "Port Bo",
+                "en": "Port Bo"
+              },
+              "tip_5lang": {
+                "de": "Startpunkt am Strand, bevor es voll wird.",
+                "hu": "Kezdőpont a strandon, mielőtt megtelik.",
+                "ro": "Punct de pornire pe plajă, înainte de aglomerație.",
+                "en": "Starting point at the beach before it gets crowded."
+              }
+            },
+            {
+              "name": {
+                "de": "Leuchtturm Sant Sebastià",
+                "hu": "Szent Sebestyén világítótorony",
+                "ro": "Farul Sant Sebastià",
+                "en": "Sant Sebastià Lighthouse"
+              },
+              "tip_5lang": {
+                "de": "Steiler Aufstieg, aber die Aussicht ist es wert.",
+                "hu": "Meredek emelkedő, de a kilátás megéri.",
+                "ro": "Urcare abruptă, dar vederea merită efortul.",
+                "en": "Steep climb, but the view is definitely worth it."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand Canadell",
+                "hu": "Canadell strand",
+                "ro": "Plaja Canadell",
+                "en": "Canadell Beach"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig in der Fußgängerzone.",
+                "hu": "Vigyázzon a gyalogosövezetben.",
+                "ro": "Circulați cu atenție în zona pietonală.",
+                "en": "Cycle carefully in the pedestrianized areas."
+              }
+            },
+            {
+              "name": {
+                "de": "Cala del Golfet",
+                "hu": "Cala del Golfet",
+                "ro": "Cala del Golfet",
+                "en": "Cala del Golfet"
+              },
+              "tip_5lang": {
+                "de": "Fahrräder oben an der Straße lassen.",
+                "hu": "A kerékpárokat az út mentén fent kell hagyni.",
+                "ro": "Lăsați bicicletele sus la drum.",
+                "en": "Leave bikes at the road level before descending."
+              }
+            },
+            {
+              "name": {
+                "de": "Gärten von Cap Roig",
+                "hu": "Cap Roig kertjei",
+                "ro": "Grădinile Cap Roig",
+                "en": "Cap Roig Gardens"
+              },
+              "tip_5lang": {
+                "de": "Breiter Weg führt zum Garteneingang.",
+                "hu": "Széles út vezet a kert bejáratához.",
+                "ro": "Un drum lat duce la intrarea în grădină.",
+                "en": "A wide path leads to the garden entrance."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Arroz Negro",
+                "tip": "Schwarzer Reis mit Tintenfischtinte."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Arroz Negro",
+                "tip": "Fekete rizs tintahal-tintával."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Arroz Negro",
+                "tip": "Orez negru cu cerneală de sepie."
+              }
+            ],
+            "en": [
+              {
+                "name": "Arroz Negro",
+                "tip": "Black rice cooked with squid ink."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Far de Sant Sebastià",
+                "tip": "Ruhe am Morgen hoch über dem Meer.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Szent Sebestyén torony",
+                "tip": "Reggeli csend magasan a tenger felett.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Farul Sant Sebastià",
+                "tip": "Liniște matinală sus deasupra mării.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Sant Sebastià Light",
+                "tip": "Morning tranquility high above the sea.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Bike Rentals Calella",
+                "tip": "Fahrradverleih im Dorfzentrum."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Bike Rentals Calella",
+                "tip": "Kerékpárkölcsönző a falu központjában."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Bike Rentals Calella",
+                "tip": "Închirieri biciclete în centrul satului."
+              }
+            ],
+            "en": [
+              {
+                "name": "Bike Rentals Calella",
+                "tip": "Bike rental shop in the village center."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Nutzen Sie die 'Pirinexus' Route für längere Touren.",
+              "Ein E-Bike ist für den Leuchtturm-Aufstieg empfohlen.",
+              "Tragen Sie immer einen Helm."
+            ],
+            "hu": [
+              "Hosszabb túrákhoz használja a 'Pirinexus' útvonalat.",
+              "A világítótoronyhoz elektromos kerékpár ajánlott.",
+              "Mindig viseljen bukósisakot."
+            ],
+            "ro": [
+              "Folosiți ruta 'Pirinexus' pentru tururi mai lungi.",
+              "O bicicletă electrică este recomandată pentru urcarea la far.",
+              "Purtați întotdeauna cască."
+            ],
+            "en": [
+              "Use the 'Pirinexus' route for longer excursions.",
+              "An e-bike is recommended for the lighthouse climb.",
+              "Always wear a helmet."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens: Start in Port Bo im Nieselregen, wasserfeste Kleidung ist alles. Mittags: Der Aufstieg zum Leuchtturm Sant Sebastià ist anstrengend, aber der Blick auf die graue Costa Brava ist dramatisch. Nachmittags: Vorsichtige Abfahrt zur Cala del Golfet, die Wege sind schlammig. Abends: Rückgabe der Räder und Aufwärmen bei heißer Schokolade.",
+            "hu": "Reggel: Indulás Port Bo-ból szemerkélő esőben, a vízálló ruha alapfeltétel. Délben: A Sant Sebastià világítótoronyhoz vezető út nehéz, de a drámai kilátás kárpótol. Délután: Óvatos ereszkedés a Cala del Golfet felé, az utak sárosak lehetnek. Este: A kerékpárok leadása után forró csokoládéval melegszünk fel a faluban.",
+            "ro": "Dimineața: Start din Port Bo prin burniță, hainele impermeabile sunt esențiale. La prânz: Urcarea spre farul Sant Sebastià este grea, dar priveliștea este dramatică. După-amiaza: Coborâre prudentă spre Cala del Golfet, drumurile pot fi noroioase. Seara: După returnarea bicicletelor, ne încălzim cu o ciocolată caldă.",
+            "en": "Morning: Starting in Port Bo under drizzle, waterproof gear is everything. Noon: The climb to Sant Sebastià lighthouse is tough, but the gray Costa Brava view is dramatic. Afternoon: Careful descent to Cala del Golfet, paths may be muddy. Evening: Returning the bikes and warming up with hot chocolate in the village."
+          },
+          "stops": [
+            {
+              "name": "Port Bo",
+              "tip_5lang": {
+                "de": "Reifendruck für nasse Straßen prüfen.",
+                "hu": "Ellenőrizd a guminyomást a vizes útra.",
+                "ro": "Verificați presiunea roților pentru ud.",
+                "en": "Check tire pressure for wet roads."
+              }
+            },
+            {
+              "name": "Sant Sebastià Lighthouse",
+              "tip_5lang": {
+                "de": "Vorsicht bei starkem Wind auf der Klippe.",
+                "hu": "Vigyázz az erős széllel a sziklán.",
+                "ro": "Atenție la vântul puternic pe faleză.",
+                "en": "Watch out for strong winds on the cliff."
+              }
+            },
+            {
+              "name": "Canadell Beach",
+              "tip_5lang": {
+                "de": "Kurzer Stopp, um die Brille zu putzen.",
+                "hu": "Rövid megálló a szemüvegtisztításhoz.",
+                "ro": "Oprire scurtă pentru a curăța ochelarii.",
+                "en": "Short stop to wipe your glasses/visor."
+              }
+            },
+            {
+              "name": "Cala del Golfet",
+              "tip_5lang": {
+                "de": "Schlammiger Zugang, Rad schieben.",
+                "hu": "Sáros lejáró, told a kerékpárt.",
+                "ro": "Acces noroios, împingeți bicicleta.",
+                "en": "Muddy access, push your bike here."
+              }
+            },
+            {
+              "name": "Cap Roig Gardens",
+              "tip_5lang": {
+                "de": "Überdachte Fahrradständer suchen.",
+                "hu": "Keress fedett biciklitárolót.",
+                "ro": "Căutați rastele de biciclete acoperite.",
+                "en": "Look for covered bike racks near entry."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Bremstests auf nassem Asphalt sind wichtig.",
+              "Tragen Sie eine Warnweste für bessere Sicht.",
+              "Meiden Sie schmale unbefestigte Waldwege.",
+              "Halten Sie die Kette nach der Fahrt trocken."
+            ],
+            "hu": [
+              "Fontos a fékpróba a vizes aszfalton.",
+              "Viselj láthatósági mellényt a jobb láthatóságért.",
+              "Kerüld a keskeny, sáros erdei ösvényeket.",
+              "Töröld szárazra a láncot a túra után."
+            ],
+            "ro": [
+              "Testele de frână pe asfalt ud sunt vitale.",
+              "Purtați vestă reflectorizantă pentru vizibilitate.",
+              "Evitați potecile înguste de pământ prin pădure.",
+              "Ștergeți lanțul după cursă pentru a nu rugini."
+            ],
+            "en": [
+              "Brake tests on wet asphalt are vital.",
+              "Wear a high-vis vest for better visibility.",
+              "Avoid narrow unpaved forest paths.",
+              "Dry the chain after the ride to prevent rust."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens: Kalter Start am Hafen, Handschuhe sind nötig. Die Luft ist klar. Mittags: Sonnige Fahrt hoch zum Leuchtturm, der Wind oben ist eisig, aber die Sicht reicht bis weit über das Meer. Nachmittags: Entspannte Fahrt durch die leeren Straßen von Calella zur Cala del Golfet. Abends: Rückfahrt bei tiefstehender Sonne, die das Dorf rötlich färbt.",
+            "hu": "Reggel: Hideg indulás a kikötőből, kesztyűre szükség lesz. A levegő tiszta. Délben: Napos tekerés fel a világítótoronyhoz, fent jeges a szél, de a látótávolság óriási. Délután: Nyugodt gurulás Calella üres utcáin a Cala del Golfet felé. Este: Hazatekerés az alacsonyan járó nap fényében, amely vörösre festi a falut.",
+            "ro": "Dimineața: Start rece din port, mănușile sunt necesare. Aerul este curat. La prânz: Pedalat însorit spre far, vântul sus este tăios, dar vizibilitatea este imensă. După-amiaza: Tur relaxat pe străzile goale din Calella spre Cala del Golfet. Seara: Întoarcere în lumina soarelui care apune, colorând satul în roșu.",
+            "en": "Morning: Cold start at the harbor, gloves are a must. The air is crisp. Noon: Sunny ride up to the lighthouse, the wind is icy at the top, but the visibility is immense. Afternoon: Relaxed cycling through empty Calella streets towards Cala del Golfet. Evening: Riding back in the low sun that paints the village red."
+          },
+          "stops": [
+            {
+              "name": "Port Bo",
+              "tip_5lang": {
+                "de": "Hände vor der Abfahrt aufwärmen.",
+                "hu": "Melegítsd fel a kezed indulás előtt.",
+                "ro": "Încălziți-vă mâinile înainte de plecare.",
+                "en": "Warm up your hands before departure."
+              }
+            },
+            {
+              "name": "Sant Sebastià Lighthouse",
+              "tip_5lang": {
+                "de": "Heißgetränk im Hotel-Café oben.",
+                "hu": "Forró ital a fenti hotel kávézójában.",
+                "ro": "Băutură caldă la cafeneaua hotelului de sus.",
+                "en": "Hot drink at the hotel cafe at the top."
+              }
+            },
+            {
+              "name": "Canadell Beach",
+              "tip_5lang": {
+                "de": "Tiefe Sonne blendet beim Fahren.",
+                "hu": "Az alacsony nap vakíthat vezetés közben.",
+                "ro": "Soarele jos poate fi orbitor la condus.",
+                "en": "Low sun can be blinding while riding."
+              }
+            },
+            {
+              "name": "Cala del Golfet",
+              "tip_5lang": {
+                "de": "Im Schatten ist es hier sehr kühl.",
+                "hu": "Árnyékban itt nagyon hűvös van.",
+                "ro": "Este foarte răcoare aici la umbră.",
+                "en": "It is very cool here in the shadows."
+              }
+            },
+            {
+              "name": "Cap Roig Gardens",
+              "tip_5lang": {
+                "de": "Vor 17:00 Uhr ankommen für Licht.",
+                "hu": "Érkezz 17:00 előtt a fények miatt.",
+                "ro": "Sosiți înainte de 17:00 pentru lumină.",
+                "en": "Arrive before 17:00 for the best light."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Thermo-Handschuhe und Mütze sind Pflicht.",
+              "Die Tage sind kurz, Licht am Rad prüfen.",
+              "Die Auffahrt zum Leuchtturm wärmt gut auf.",
+              "Achtung vor gefrorenen Pfützen im Schatten."
+            ],
+            "hu": [
+              "Termo-kesztyű és sapka kötelező.",
+              "A nappalok rövidek, ellenőrizd a lámpákat.",
+              "A világítótoronyhoz vezető emelkedő jól átmelegít.",
+              "Vigyázz a fagyott tócsákkal az árnyékban."
+            ],
+            "ro": [
+              "Mănușile termice și căciula sunt obligatorii.",
+              "Zilele sunt scurte, verificați luminile.",
+              "Urcarea spre far vă va încălzi bine.",
+              "Atenție la bălțile înghețate la umbră."
+            ],
+            "en": [
+              "Thermal gloves and a hat are mandatory.",
+              "Days are short, check your bike lights.",
+              "The climb to the lighthouse will warm you up.",
+              "Watch out for frozen puddles in the shade."
+            ]
+          }
+        }
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "16:15",
+      "total_km": 10.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Leuchtturm Sant Sebastià",
+            "hu": "Szent Sebestyén világítótorony",
+            "ro": "Farul Sant Sebastià",
+            "en": "Sant Sebastià Lighthouse"
+          },
+          "coords": [
+            3.2045,
+            41.8955
+          ],
+          "category": "bridges",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Großer Parkplatz neben der Kapelle.",
+            "hu": "Nagy parkoló a kápolna mellett.",
+            "ro": "Parcare mare lângă capelă.",
+            "en": "Large parking area next to the chapel."
+          }
+        },
+        {
+          "name": {
+            "de": "Port Bo",
+            "hu": "Port Bo",
+            "ro": "Port Bo",
+            "en": "Port Bo"
+          },
+          "coords": [
+            3.1845,
+            41.8885
+          ],
+          "category": "squares",
+          "arrive_at": "10:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Parken Sie am Dorfeingang (P1/P2).",
+            "hu": "Parkoljon a falu bejáratánál (P1/P2).",
+            "ro": "Parcați la intrarea în sat (P1/P2).",
+            "en": "Park at the village entrance lots (P1/P2)."
+          }
+        },
+        {
+          "name": {
+            "de": "Gärten von Cap Roig",
+            "hu": "Cap Roig kertjei",
+            "ro": "Grădinile Cap Roig",
+            "en": "Cap Roig Gardens"
+          },
+          "coords": [
+            3.1775,
+            41.8765
+          ],
+          "category": "parks",
+          "arrive_at": "11:35",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Spezielle Parkplätze für Gartenbesucher.",
+            "hu": "Külön parkoló a kert látogatói számára.",
+            "ro": "Locuri de parcare speciale pentru vizitatori.",
+            "en": "Dedicated parking for garden visitors."
+          }
+        },
+        {
+          "name": {
+            "de": "Cala del Golfet",
+            "hu": "Cala del Golfet",
+            "ro": "Cala del Golfet",
+            "en": "Cala del Golfet"
+          },
+          "coords": [
+            3.1815,
+            41.8805
+          ],
+          "category": "viewpoints",
+          "arrive_at": "14:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Parken in den Wohnstraßen oben möglich.",
+            "hu": "Parkolás a fenti lakóutcákban lehetséges.",
+            "ro": "Parcarea este posibilă pe străzile rezidențiale de sus.",
+            "en": "Parking possible in the residential streets above."
+          }
+        },
+        {
+          "name": {
+            "de": "Castell de Cap Roig",
+            "hu": "Cap Roig kastély",
+            "ro": "Castelul Cap Roig",
+            "en": "Cap Roig Castle"
+          },
+          "coords": [
+            3.1772,
+            41.8762
+          ],
+          "category": "castles",
+          "arrive_at": "15:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Direkt neben den Gärten gelegen.",
+            "hu": "Közvetlenül a kertek mellett található.",
+            "ro": "Situat chiar lângă grădini.",
+            "en": "Located right next to the gardens."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erreichen Sie die markantesten Punkte rund um Calella. Starten Sie beim Leuchtturm Sant Sebastià für einen weiten Blick über die Küste.\nBesuchen Sie danach das malerische Zentrum und Port Bo. Die Cap Roig Gärten und das Schloss liegen etwas außerhalb und sind per PKW ideal erreichbar.\nBeenden Sie den Tag an der Golfet-Bucht, einem der natürlichsten Strände der Gegend.\nDas Auto ermöglicht es Ihnen, auch die abgelegeneren Buchten stressfrei zu besuchen.",
+        "hu": "Autóval elérheti Calella környékének legfontosabb pontjait. Kezdjen a Szent Sebestyén világítótoronynál a lenyűgöző tengerparti kilátásért.\nEzután látogasson el a festői központba és a Port Bo öbölbe. A Cap Roig kertek és a kastély kicsit kijebb esnek, autóval ideálisak.\nZárja a napot a Golfet-öbölnél, amely a környék egyik legtermészetesebb strandja.\nAz autó lehetővé teszi a távolabb eső öblök stresszmentes meglátogatását is.",
+        "ro": "Cu mașina puteți ajunge la cele mai importante puncte din jurul orașului Calella. Începeți la farul Sant Sebastià pentru o vedere panoramică.\nVizitați apoi centrul pitoresc și Port Bo. Grădinile Cap Roig și castelul sunt situate puțin în exterior, fiind ideale pentru accesul cu mașina.\nÎncheiați ziua în golful Golfet, una dintre cele mai naturale plaje din zonă.\nMașina vă permite să vizitați golfurile mai îndepărtate fără stres.",
+        "en": "By car, you can reach the most prominent spots around Calella. Start at the Sant Sebastià lighthouse for a sweeping coastal panorama.\nNext, visit the picturesque center and Port Bo. The Cap Roig Gardens and Castle are a bit further out, making them ideal for a car trip.\nFinish your day at Golfet cove, one of the most natural beaches in the area.\nThe car allows you to visit more secluded bays without any stress."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Esqueixada",
+            "tip": "Katalanischer Stockfischsalat."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Esqueixada",
+            "tip": "Katalán tőkehal-saláta."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Esqueixada",
+            "tip": "Salată catalană de cod."
+          }
+        ],
+        "en": [
+          {
+            "name": "Esqueixada",
+            "tip": "Catalan salt cod salad."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Jardins de Cap Roig Aussicht",
+            "tip": "Ruhige Ecken im weitläufigen Park.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cap Roig kilátás",
+            "tip": "Csendes sarkok a hatalmas parkban.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vederea din Grădinile Cap Roig",
+            "tip": "Colțuri liniștite în parcul vast.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cap Roig Garden Views",
+            "tip": "Quiet corners in the extensive park grounds.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Dorfmarkt",
+            "tip": "Regionale Spezialitäten und Kunsthandwerk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Falusi piac",
+            "tip": "Regionális specialitások és kézműves termékek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața satului",
+            "tip": "Specialități regionale și artizanat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Village Market",
+            "tip": "Regional specialties and handicrafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die öffentlichen Parkplätze am Stadtrand.",
+          "Die Straße nach Golfet ist schmal, fahren Sie vorsichtig.",
+          "Vermeiden Sie das Fahren im historischen Kern."
+        ],
+        "hu": [
+          "Használja a város szélén található nyilvános parkolókat.",
+          "A Golfet felé vezető út szűk, vezessen óvatosan.",
+          "Kerülje az autóval való behajtást a történelmi magba."
+        ],
+        "ro": [
+          "Folosiți parcările publice de la marginea orașului.",
+          "Drumul spre Golfet este îngust, conduceți cu atenție.",
+          "Evitați conducerea în centrul istoric."
+        ],
+        "en": [
+          "Use the public parking lots at the edge of town.",
+          "The road to Golfet is narrow, drive carefully.",
+          "Avoid driving in the historic village core."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erreichen Sie die markantesten Punkte rund um Calella. Starten Sie beim Leuchtturm Sant Sebastià für einen weiten Blick über die Küste.\nBesuchen Sie danach das malerische Zentrum und Port Bo. Die Cap Roig Gärten und das Schloss liegen etwas außerhalb und sind per PKW ideal erreichbar.\nBeenden Sie den Tag an der Golfet-Bucht, einem der natürlichsten Strände der Gegend.\nDas Auto ermöglicht es Ihnen, auch die abgelegeneren Buchten stressfrei zu besuchen.",
+            "hu": "Autóval elérheti Calella környékének legfontosabb pontjait. Kezdjen a Szent Sebestyén világítótoronynál a lenyűgöző tengerparti kilátásért.\nEzután látogasson el a festői központba és a Port Bo öbölbe. A Cap Roig kertek és a kastély kicsit kijebb esnek, autóval ideálisak.\nZárja a napot a Golfet-öbölnél, amely a környék egyik legtermészetesebb strandja.\nAz autó lehetővé teszi a távolabb eső öblök stresszmentes meglátogatását is.",
+            "ro": "Cu mașina puteți ajunge la cele mai importante puncte din jurul orașului Calella. Începeți la farul Sant Sebastià pentru o vedere panoramică.\nVizitați apoi centrul pitoresc și Port Bo. Grădinile Cap Roig și castelul sunt situate puțin în exterior, fiind ideale pentru accesul cu mașina.\nÎncheiați ziua în golful Golfet, una dintre cele mai naturale plaje din zonă.\nMașina vă permite să vizitați golfurile mai îndepărtate fără stres.",
+            "en": "By car, you can reach the most prominent spots around Calella. Start at the Sant Sebastià lighthouse for a sweeping coastal panorama.\nNext, visit the picturesque center and Port Bo. The Cap Roig Gardens and Castle are a bit further out, making them ideal for a car trip.\nFinish your day at Golfet cove, one of the most natural beaches in the area.\nThe car allows you to visit more secluded bays without any stress."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Leuchtturm Sant Sebastià",
+                "hu": "Szent Sebestyén világítótorony",
+                "ro": "Farul Sant Sebastià",
+                "en": "Sant Sebastià Lighthouse"
+              },
+              "tip_5lang": {
+                "de": "Großer Parkplatz neben der Kapelle.",
+                "hu": "Nagy parkoló a kápolna mellett.",
+                "ro": "Parcare mare lângă capelă.",
+                "en": "Large parking area next to the chapel."
+              }
+            },
+            {
+              "name": {
+                "de": "Port Bo",
+                "hu": "Port Bo",
+                "ro": "Port Bo",
+                "en": "Port Bo"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie am Dorfeingang (P1/P2).",
+                "hu": "Parkoljon a falu bejáratánál (P1/P2).",
+                "ro": "Parcați la intrarea în sat (P1/P2).",
+                "en": "Park at the village entrance lots (P1/P2)."
+              }
+            },
+            {
+              "name": {
+                "de": "Gärten von Cap Roig",
+                "hu": "Cap Roig kertjei",
+                "ro": "Grădinile Cap Roig",
+                "en": "Cap Roig Gardens"
+              },
+              "tip_5lang": {
+                "de": "Spezielle Parkplätze für Gartenbesucher.",
+                "hu": "Külön parkoló a kert látogatói számára.",
+                "ro": "Locuri de parcare speciale pentru vizitatori.",
+                "en": "Dedicated parking for garden visitors."
+              }
+            },
+            {
+              "name": {
+                "de": "Cala del Golfet",
+                "hu": "Cala del Golfet",
+                "ro": "Cala del Golfet",
+                "en": "Cala del Golfet"
+              },
+              "tip_5lang": {
+                "de": "Parken in den Wohnstraßen oben möglich.",
+                "hu": "Parkolás a fenti lakóutcákban lehetséges.",
+                "ro": "Parcarea este posibilă pe străzile rezidențiale de sus.",
+                "en": "Parking possible in the residential streets above."
+              }
+            },
+            {
+              "name": {
+                "de": "Castell de Cap Roig",
+                "hu": "Cap Roig kastély",
+                "ro": "Castelul Cap Roig",
+                "en": "Cap Roig Castle"
+              },
+              "tip_5lang": {
+                "de": "Direkt neben den Gärten gelegen.",
+                "hu": "Közvetlenül a kertek mellett található.",
+                "ro": "Situat chiar lângă grădini.",
+                "en": "Located right next to the gardens."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Esqueixada",
+                "tip": "Katalanischer Stockfischsalat."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Esqueixada",
+                "tip": "Katalán tőkehal-saláta."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Esqueixada",
+                "tip": "Salată catalană de cod."
+              }
+            ],
+            "en": [
+              {
+                "name": "Esqueixada",
+                "tip": "Catalan salt cod salad."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Jardins de Cap Roig Aussicht",
+                "tip": "Ruhige Ecken im weitläufigen Park.",
+                "emoji": "🍃"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Cap Roig kilátás",
+                "tip": "Csendes sarkok a hatalmas parkban.",
+                "emoji": "🍃"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Vederea din Grădinile Cap Roig",
+                "tip": "Colțuri liniștite în parcul vast.",
+                "emoji": "🍃"
+              }
+            ],
+            "en": [
+              {
+                "name": "Cap Roig Garden Views",
+                "tip": "Quiet corners in the extensive park grounds.",
+                "emoji": "🍃"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Dorfmarkt",
+                "tip": "Regionale Spezialitäten und Kunsthandwerk."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Falusi piac",
+                "tip": "Regionális specialitások és kézműves termékek."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Piața satului",
+                "tip": "Specialități regionale și artizanat."
+              }
+            ],
+            "en": [
+              {
+                "name": "Village Market",
+                "tip": "Regional specialties and handicrafts."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Nutzen Sie die öffentlichen Parkplätze am Stadtrand.",
+              "Die Straße nach Golfet ist schmal, fahren Sie vorsichtig.",
+              "Vermeiden Sie das Fahren im historischen Kern."
+            ],
+            "hu": [
+              "Használja a város szélén található nyilvános parkolókat.",
+              "A Golfet felé vezető út szűk, vezessen óvatosan.",
+              "Kerülje az autóval való behajtást a történelmi magba."
+            ],
+            "ro": [
+              "Folosiți parcările publice de la marginea orașului.",
+              "Drumul spre Golfet este îngust, conduceți cu atenție.",
+              "Evitați conducerea în centrul istoric."
+            ],
+            "en": [
+              "Use the public parking lots at the edge of town.",
+              "The road to Golfet is narrow, drive carefully.",
+              "Avoid driving in the historic village core."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens: Bequeme Fahrt zum Leuchtturm Sant Sebastià, man bleibt trocken. Mittags: Parken nahe Port Bo und kurzer Sprint unter die Arkaden. Nachmittags: Besuch der Cap Roig Gärten, der Regen macht die Pflanzenwelt noch intensiver. Abends: Fahrt zurück durch das nasse Empordà-Hinterland.",
+            "hu": "Reggel: Kényelmes gurulás a Sant Sebastià világítótoronyhoz, az autóban száraz marad mindenki. Délben: Parkolás Port Bo közelében, majd rövid futás az árkádok alá. Délután: Cap Roig kertek látogatása, az eső még intenzívebbé teszi a növények illatát. Este: Hazautazás a vizes Empordà vidéken keresztül.",
+            "ro": "Dimineața: Drum confortabil spre farul Sant Sebastià, toată lumea rămâne uscată. La prânz: Parcare lângă Port Bo și un sprint scurt sub arcade. După-amiaza: Vizitarea grădinilor Cap Roig, ploaia face aromele plantelor mai intense. Seara: Întoarcere prin peisajul ud din Empordà.",
+            "en": "Morning: Comfortable drive to Sant Sebastià lighthouse, staying dry inside. Noon: Parking near Port Bo and a short sprint under the arches. Afternoon: Visiting Cap Roig Gardens, the rain makes the plant scents even more intense. Evening: Driving back through the wet Empordà countryside."
+          },
+          "stops": [
+            {
+              "name": "Sant Sebastià Lighthouse",
+              "tip_5lang": {
+                "de": "Parkplatz direkt am Aussichtspunkt.",
+                "hu": "Parkoló közvetlenül a kilátónál.",
+                "ro": "Parcare chiar lângă punctul de belvedere.",
+                "en": "Parking right next to the viewpoint."
+              }
+            },
+            {
+              "name": "Port Bo",
+              "tip_5lang": {
+                "de": "Parken Sie im Parkhaus 'La Riera'.",
+                "hu": "Használd a 'La Riera' parkolóházat.",
+                "ro": "Parcați în parcarea 'La Riera'.",
+                "en": "Park in the 'La Riera' parking garage."
+              }
+            },
+            {
+              "name": "Cap Roig Gardens",
+              "tip_5lang": {
+                "de": "Großer Parkplatz, oft nass und rutschig.",
+                "hu": "Nagy parkoló, gyakran vizes és csúszós.",
+                "ro": "Parcare mare, adesea udă și alunecoasă.",
+                "en": "Large parking area, often wet and slippery."
+              }
+            },
+            {
+              "name": "Cala del Golfet",
+              "tip_5lang": {
+                "de": "Vorsicht beim Parken auf Schotter.",
+                "hu": "Vigyázz a kavicsos úton való parkolással.",
+                "ro": "Atenție la parcarea pe pietriș.",
+                "en": "Be careful when parking on gravel."
+              }
+            },
+            {
+              "name": "Cap Roig Castle",
+              "tip_5lang": {
+                "de": "Kurzer Weg vom Auto zum Eingang.",
+                "hu": "Rövid séta az autótól a bejáratig.",
+                "ro": "Drum scurt de la mașină la intrare.",
+                "en": "Short walk from the car to the entrance."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf beschlagene Scheiben im Auto.",
+              "Die Küstenstraßen können bei Regen rutschig sein.",
+              "Nutzen Sie Parkhäuser, um trocken auszusteigen.",
+              "Regenschirm immer griffbereit im Kofferraum."
+            ],
+            "hu": [
+              "Ügyelj a párásodó szélvédőre az autóban.",
+              "A parti utak csúszósak lehetnek esőben.",
+              "Használj fedett parkolót a száraz kiszálláshoz.",
+              "Legyen az esernyő mindig kéznél a csomagtartóban."
+            ],
+            "ro": [
+              "Atenție la aburirea geamurilor în mașină.",
+              "Drumurile de coastă pot fi alunecoase pe ploaie.",
+              "Folosiți parcări acoperite pentru a ieși uscați.",
+              "Păstrați umbrela la îndemână în portbagaj."
+            ],
+            "en": [
+              "Watch out for foggy windows in the car.",
+              "Coastal roads can be slippery when wet.",
+              "Use parking garages to exit the car dry.",
+              "Always keep an umbrella handy in the trunk."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens: Klare Fahrt zum Sant Sebastià, die Sicht ist im Winter am besten. Mittags: Einfaches Parken im leeren Calella, Spaziergang durch Port Bo. Nachmittags: Besuch der Gärten von Cap Roig in der milden Wintersonne. Abends: Rückfahrt bei Sonnenuntergang, das Licht auf den Feldern ist fantastisch.",
+            "hu": "Reggel: Tiszta út a Sant Sebastià-hoz, a kilátás télen a legjobb. Délben: Könnyű parkolás az üres Calellában, séta Port Bo-ban. Délután: Cap Roig kertek látogatása az enyhe téli napsütésben. Este: Hazautazás naplementekor, a fények a mezőkön fantasztikusak.",
+            "ro": "Dimineața: Drum liber spre Sant Sebastià, vizibilitatea e optimă iarna. La prânz: Parcare ușoară în Calella goală, plimbare prin Port Bo. După-amiaza: Vizitarea grădinilor Cap Roig în soarele blând de iarnă. Seara: Întoarcere la apus, lumina pe câmpuri este fantastică.",
+            "en": "Morning: Clear drive to Sant Sebastià, visibility is at its best in winter. Noon: Easy parking in empty Calella, a stroll through Port Bo. Afternoon: Visiting Cap Roig Gardens in the mild winter sun. Evening: Driving back at sunset, the light on the fields is fantastic."
+          },
+          "stops": [
+            {
+              "name": "Sant Sebastià Lighthouse",
+              "tip_5lang": {
+                "de": "Kein Problem mit Parkplätzen im Winter.",
+                "hu": "Télen nincs gond a parkolással.",
+                "ro": "Nicio problemă cu parcarea iarna.",
+                "en": "No problem with parking spaces in winter."
+              }
+            },
+            {
+              "name": "Port Bo",
+              "tip_5lang": {
+                "de": "Zentrale Parkplätze sind nun frei.",
+                "hu": "A központi parkolók most szabadok.",
+                "ro": "Parcările centrale sunt acum libere.",
+                "en": "Central parking spots are now available."
+              }
+            },
+            {
+              "name": "Cap Roig Gardens",
+              "tip_5lang": {
+                "de": "Wintersonne im Garten genießen.",
+                "hu": "Élvezd a téli napsütést a kertben.",
+                "ro": "Bucurați-vă de soarele de iarnă în grădină.",
+                "en": "Enjoy the winter sun in the garden."
+              }
+            },
+            {
+              "name": "Cala del Golfet",
+              "tip_5lang": {
+                "de": "Heizung im Auto nach dem Strandgang.",
+                "hu": "Fűtés az autóban a strandséta után.",
+                "ro": "Încălzire în mașină după plimbarea pe plajă.",
+                "en": "Turn up the heat after the beach walk."
+              }
+            },
+            {
+              "name": "Cap Roig Castle",
+              "tip_5lang": {
+                "de": "Schlossbesichtigung ist windgeschützt.",
+                "hu": "A vár látogatása szélvédett program.",
+                "ro": "Vizitarea castelului este ferită de vânt.",
+                "en": "Visiting the castle is a wind-sheltered activity."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Reifendruck bei Kälte.",
+              "Frost ist an der Küste selten, aber möglich.",
+              "Parkgebühren sind im Winter oft reduziert.",
+              "Nutzen Sie das Tageslicht bis 17:00 Uhr aus."
+            ],
+            "hu": [
+              "Ellenőrizd a guminyomást a hidegben.",
+              "A fagy ritka a parton, de előfordulhat.",
+              "A parkolási díjak télen gyakran alacsonyabbak.",
+              "Használd ki a nappali fényt 17:00-ig."
+            ],
+            "ro": [
+              "Verificați presiunea roților pe timp rece.",
+              "Înghețul este rar la coastă, dar posibil.",
+              "Taxele de parcare sunt adesea reduse iarna.",
+              "Profit de lumina zilei până la ora 17:00."
+            ],
+            "en": [
+              "Check tire pressure in cold weather.",
+              "Frost is rare on the coast but possible.",
+              "Parking fees are often reduced in winter.",
+              "Make the most of daylight until 17:00."
+            ]
+          }
+        }
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 5.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Port Bo",
+            "hu": "Port Bo",
+            "ro": "Port Bo",
+            "en": "Port Bo"
+          },
+          "coords": [
+            3.1845,
+            41.8885
+          ],
+          "category": "squares",
+          "arrive_at": "09:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Haupt-Bushaltestelle ist in der Nähe.",
+            "hu": "A fő buszmegálló a közelben található.",
+            "ro": "Stația principală de autobuz este în apropiere.",
+            "en": "The main bus stop is located nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Sant Pere",
+            "hu": "Szent Péter-templom",
+            "ro": "Biserica Sant Pere",
+            "en": "Church of Sant Pere"
+          },
+          "coords": [
+            3.1842,
+            41.8892
+          ],
+          "category": "churches",
+          "arrive_at": "10:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Leicht zu Fuß vom Bus aus erreichbar.",
+            "hu": "Könnyen elérhető gyalog a busztól.",
+            "ro": "Ușor accesibil pe jos de la autobuz.",
+            "en": "Easily accessible on foot from the bus stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand Canadell",
+            "hu": "Canadell strand",
+            "ro": "Plaja Canadell",
+            "en": "Canadell Beach"
+          },
+          "coords": [
+            3.1865,
+            41.8895
+          ],
+          "category": "beaches",
+          "arrive_at": "11:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Der Strand liegt direkt im Dorf.",
+            "hu": "A strand közvetlenül a faluban található.",
+            "ro": "Plaja este situată chiar în sat.",
+            "en": "The beach is located right in the village."
+          }
+        },
+        {
+          "name": {
+            "de": "Habanera Monument",
+            "hu": "Habanera emlékmű",
+            "ro": "Monumentul Habanera",
+            "en": "Habanera Monument"
+          },
+          "coords": [
+            3.185,
+            41.8888
+          ],
+          "category": "monuments",
+          "arrive_at": "13:30",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Zentraler Treffpunkt für Transit-Reisende.",
+            "hu": "Központi találkozóhely a busszal érkezőknek.",
+            "ro": "Punct central de întâlnire pentru turiști.",
+            "en": "Central meeting point for transit travelers."
+          }
+        },
+        {
+          "name": {
+            "de": "Gärten von Cap Roig",
+            "hu": "Cap Roig kertjei",
+            "ro": "Grădinile Cap Roig",
+            "en": "Cap Roig Gardens"
+          },
+          "coords": [
+            3.1775,
+            41.8765
+          ],
+          "category": "parks",
+          "arrive_at": "14:25",
+          "stay_min": 120,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Prüfen Sie den lokalen Shuttle-Fahrplan.",
+            "hu": "Ellenőrizze a helyi transzferjárat menetrendjét.",
+            "ro": "Verificați orarul microbuzului local.",
+            "en": "Check the local shuttle bus schedule."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Calella ist gut mit Regionalbussen von Palafrugell aus erreichbar. Nutzen Sie den Bus, um stressfrei ins Zentrum zu gelangen.\nGenießen Sie Port Bo und den Canadell Strand, die beide fußläufig erreichbar sind.\nFür die Cap Roig Gärten gibt es saisonale Shuttle-Verbindungen oder kurze Taxifahrten.\nDiese Art des Reisens ist ideal, um die engen Straßen und Parkplatzprobleme des Dorfes zu umgehen.",
+        "hu": "Calella jól megközelíthető helyközi buszokkal Palafrugellből. Használja a buszt, hogy stresszmentesen jusson a központba.\nÉlvezze Port Bo és a Canadell strand látványát, mindkettő gyalogosan is elérhető.\nA Cap Roig kertekhez szezonális transzferjáratok vagy rövid taxiutak állnak rendelkezésre.\nEz az utazási mód ideális a szűk utcák és a faluban jelentkező parkolási gondok elkerülésére.",
+        "ro": "Calella este ușor accesibilă cu autobuzele regionale din Palafrugell. Folosiți autobuzul pentru a ajunge în centru fără stres.\nBucurați-vă de Port Bo și plaja Canadell, ambele fiind accesibile pe jos.\nPentru grădinile Cap Roig există microbuze sezoniere sau călătorii scurte cu taxiul.\nAcest mod de călătorie este ideal pentru a evita străzile înguste și problemele de parcare din sat.",
+        "en": "Calella is well-connected by regional buses from Palafrugell. Use the bus to reach the center stress-free.\nEnjoy Port Bo and Canadell Beach, both within easy walking distance.\nFor the Cap Roig Gardens, seasonal shuttle services or short taxi rides are available.\nThis mode of travel is ideal for avoiding the narrow streets and parking issues within the village."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bunyols de Vent",
+            "tip": "Süße Teigbällchen, perfekt zum Kaffee."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bunyols de Vent",
+            "tip": "Édes fánkgolyók, tökéletesek kávé mellé."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bunyols de Vent",
+            "tip": "Gogoși dulci, perfecte lângă o cafea."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bunyols de Vent",
+            "tip": "Sweet dough balls, perfect with a coffee."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Plaça de l'Església",
+            "tip": "Ruhiger Platz hinter der Kirche.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Templom tér",
+            "tip": "Csendes tér a templom mögött.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Bisericii",
+            "tip": "Piațetă liniștită în spatele bisericii.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Church Square",
+            "tip": "Quiet square located behind the church.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenir Port Bo",
+            "tip": "Lokale Keramik und Postkarten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Souvenir Port Bo",
+            "tip": "Helyi kerámia és képeslapok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Souvenir Port Bo",
+            "tip": "Ceramică locală și vederi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Souvenir Port Bo",
+            "tip": "Local ceramics and postcards."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die 'Sarfa' Buslinie.",
+          "Tickets können oft beim Fahrer gekauft werden.",
+          "Die Haltestelle ist 5 Minuten vom Strand entfernt."
+        ],
+        "hu": [
+          "Használja a 'Sarfa' buszjáratot.",
+          "A jegyeket gyakran a sofőrnél is meg lehet venni.",
+          "A megálló 5 percre van a strandtól."
+        ],
+        "ro": [
+          "Folosiți linia de autobuz 'Sarfa'.",
+          "Biletele pot fi cumpărate adesea de la șofer.",
+          "Stația este la 5 minute de plajă."
+        ],
+        "en": [
+          "Use the 'Sarfa' bus company services.",
+          "Tickets can often be purchased from the driver.",
+          "The bus stop is just 5 minutes from the beach."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Calella ist gut mit Regionalbussen von Palafrugell aus erreichbar. Nutzen Sie den Bus, um stressfrei ins Zentrum zu gelangen.\nGenießen Sie Port Bo und den Canadell Strand, die beide fußläufig erreichbar sind.\nFür die Cap Roig Gärten gibt es saisonale Shuttle-Verbindungen oder kurze Taxifahrten.\nDiese Art des Reisens ist ideal, um die engen Straßen und Parkplatzprobleme des Dorfes zu umgehen.",
+            "hu": "Calella jól megközelíthető helyközi buszokkal Palafrugellből. Használja a buszt, hogy stresszmentesen jusson a központba.\nÉlvezze Port Bo és a Canadell strand látványát, mindkettő gyalogosan is elérhető.\nA Cap Roig kertekhez szezonális transzferjáratok vagy rövid taxiutak állnak rendelkezésre.\nEz az utazási mód ideális a szűk utcák és a faluban jelentkező parkolási gondok elkerülésére.",
+            "ro": "Calella este ușor accesibilă cu autobuzele regionale din Palafrugell. Folosiți autobuzul pentru a ajunge în centru fără stres.\nBucurați-vă de Port Bo și plaja Canadell, ambele fiind accesibile pe jos.\nPentru grădinile Cap Roig există microbuze sezoniere sau călătorii scurte cu taxiul.\nAcest mod de călătorie este ideal pentru a evita străzile înguste și problemele de parcare din sat.",
+            "en": "Calella is well-connected by regional buses from Palafrugell. Use the bus to reach the center stress-free.\nEnjoy Port Bo and Canadell Beach, both within easy walking distance.\nFor the Cap Roig Gardens, seasonal shuttle services or short taxi rides are available.\nThis mode of travel is ideal for avoiding the narrow streets and parking issues within the village."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Port Bo",
+                "hu": "Port Bo",
+                "ro": "Port Bo",
+                "en": "Port Bo"
+              },
+              "tip_5lang": {
+                "de": "Haupt-Bushaltestelle ist in der Nähe.",
+                "hu": "A fő buszmegálló a közelben található.",
+                "ro": "Stația principală de autobuz este în apropiere.",
+                "en": "The main bus stop is located nearby."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Sant Pere",
+                "hu": "Szent Péter-templom",
+                "ro": "Biserica Sant Pere",
+                "en": "Church of Sant Pere"
+              },
+              "tip_5lang": {
+                "de": "Leicht zu Fuß vom Bus aus erreichbar.",
+                "hu": "Könnyen elérhető gyalog a busztól.",
+                "ro": "Ușor accesibil pe jos de la autobuz.",
+                "en": "Easily accessible on foot from the bus stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand Canadell",
+                "hu": "Canadell strand",
+                "ro": "Plaja Canadell",
+                "en": "Canadell Beach"
+              },
+              "tip_5lang": {
+                "de": "Der Strand liegt direkt im Dorf.",
+                "hu": "A strand közvetlenül a faluban található.",
+                "ro": "Plaja este situată chiar în sat.",
+                "en": "The beach is located right in the village."
+              }
+            },
+            {
+              "name": {
+                "de": "Habanera Monument",
+                "hu": "Habanera emlékmű",
+                "ro": "Monumentul Habanera",
+                "en": "Habanera Monument"
+              },
+              "tip_5lang": {
+                "de": "Zentraler Treffpunkt für Transit-Reisende.",
+                "hu": "Központi találkozóhely a busszal érkezőknek.",
+                "ro": "Punct central de întâlnire pentru turiști.",
+                "en": "Central meeting point for transit travelers."
+              }
+            },
+            {
+              "name": {
+                "de": "Gärten von Cap Roig",
+                "hu": "Cap Roig kertjei",
+                "ro": "Grădinile Cap Roig",
+                "en": "Cap Roig Gardens"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie den lokalen Shuttle-Fahrplan.",
+                "hu": "Ellenőrizze a helyi transzferjárat menetrendjét.",
+                "ro": "Verificați orarul microbuzului local.",
+                "en": "Check the local shuttle bus schedule."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Bunyols de Vent",
+                "tip": "Süße Teigbällchen, perfekt zum Kaffee."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Bunyols de Vent",
+                "tip": "Édes fánkgolyók, tökéletesek kávé mellé."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Bunyols de Vent",
+                "tip": "Gogoși dulci, perfecte lângă o cafea."
+              }
+            ],
+            "en": [
+              {
+                "name": "Bunyols de Vent",
+                "tip": "Sweet dough balls, perfect with a coffee."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Plaça de l'Església",
+                "tip": "Ruhiger Platz hinter der Kirche.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Templom tér",
+                "tip": "Csendes tér a templom mögött.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Piața Bisericii",
+                "tip": "Piațetă liniștită în spatele bisericii.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Church Square",
+                "tip": "Quiet square located behind the church.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Souvenir Port Bo",
+                "tip": "Lokale Keramik und Postkarten."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Souvenir Port Bo",
+                "tip": "Helyi kerámia és képeslapok."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Souvenir Port Bo",
+                "tip": "Ceramică locală și vederi."
+              }
+            ],
+            "en": [
+              {
+                "name": "Souvenir Port Bo",
+                "tip": "Local ceramics and postcards."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Nutzen Sie die 'Sarfa' Buslinie.",
+              "Tickets können oft beim Fahrer gekauft werden.",
+              "Die Haltestelle ist 5 Minuten vom Strand entfernt."
+            ],
+            "hu": [
+              "Használja a 'Sarfa' buszjáratot.",
+              "A jegyeket gyakran a sofőrnél is meg lehet venni.",
+              "A megálló 5 percre van a strandtól."
+            ],
+            "ro": [
+              "Folosiți linia de autobuz 'Sarfa'.",
+              "Biletele pot fi cumpărate adesea de la șofer.",
+              "Stația este la 5 minute de plajă."
+            ],
+            "en": [
+              "Use the 'Sarfa' bus company services.",
+              "Tickets can often be purchased from the driver.",
+              "The bus stop is just 5 minutes from the beach."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens: Mit dem Bus nach Port Bo, Wartezeiten unter den Arkaden verbringen. Mittags: Besuch der Sant Pere Kirche, um trocken zu bleiben. Nachmittags: Der Bus nach Cap Roig bietet eine Pause vom Regen. Abends: Rückfahrt mit dem Bus, während der Regen gegen die Fenster trommelt.",
+            "hu": "Reggel: Busszal érkezés Port Bo-ba, várakozás az árkádok alatt. Délben: A Sant Pere templom látogatása, hogy szárazon maradjunk. Délután: A Cap Roig-ba tartó busz rövid pihenőt nyújt az eső elől. Este: Hazautazás busszal, miközben az eső kopog az ablakon.",
+            "ro": "Dimineața: Cu autobuzul spre Port Bo, petreceți timpul de așteptare sub arcade. La prânz: Vizitarea bisericii Sant Pere pentru a rămâne uscați. După-amiaza: Autobuzul spre Cap Roig oferă o pauză de ploaie. Seara: Întoarcere cu autobuzul în timp ce ploaia bate în geam.",
+            "en": "Morning: Taking the bus to Port Bo, spending wait times under the arches. Noon: Visiting Sant Pere Church to stay dry. Afternoon: The bus to Cap Roig offers a welcome break from the rain. Evening: Riding back on the bus while rain drums against the windows."
+          },
+          "stops": [
+            {
+              "name": "Port Bo",
+              "tip_5lang": {
+                "de": "Bushaltestelle ist nah an den Arkaden.",
+                "hu": "A buszmegálló közel van az árkádokhoz.",
+                "ro": "Stația de autobuz este aproape de arcade.",
+                "en": "The bus stop is close to the arches."
+              }
+            },
+            {
+              "name": "Church of Sant Pere",
+              "tip_5lang": {
+                "de": "Kulturprogramm bei Regen.",
+                "hu": "Kulturális program eső esetére.",
+                "ro": "Program cultural pentru ploaie.",
+                "en": "Cultural activity for rainy weather."
+              }
+            },
+            {
+              "name": "Canadell Beach",
+              "tip_5lang": {
+                "de": "Windgeschützte Haltestelle suchen.",
+                "hu": "Keress szélvédett megállót.",
+                "ro": "Căutați o stație ferită de vânt.",
+                "en": "Look for a wind-sheltered bus stop."
+              }
+            },
+            {
+              "name": "Habanera Monument",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg von der Haltestelle.",
+                "hu": "Rövid séta a megállótól.",
+                "ro": "Drum scurt pe jos de la stație.",
+                "en": "Short walk from the bus stop."
+              }
+            },
+            {
+              "name": "Cap Roig Gardens",
+              "tip_5lang": {
+                "de": "Letzten Bus nicht verpassen!",
+                "hu": "Ne késd le az utolsó buszt!",
+                "ro": "Nu ratați ultimul autobuz!",
+                "en": "Don't miss the last bus back!"
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die App für Echtzeit-Buszeiten.",
+              "Halten Sie Kleingeld oder Karte bereit.",
+              "Wartehäuschen bieten oft wenig Regenschutz.",
+              "Planen Sie Pufferzeiten für Verspätungen ein."
+            ],
+            "hu": [
+              "Használd az alkalmazást a valós idejű menetrendhez.",
+              "Legyen nálad aprópénz vagy kártya.",
+              "A buszvárók néha kevés védelmet nyújtanak.",
+              "Számolj esetleges késésekkel az eső miatt."
+            ],
+            "ro": [
+              "Folosiți aplicația pentru orele în timp real.",
+              "Aveți pregătite monede sau cardul.",
+              "Refugiile de autobuz oferă protecție limitată.",
+              "Prevedeți timp suplimentar pentru întârzieri."
+            ],
+            "en": [
+              "Use the transit app for real-time schedules.",
+              "Have small change or a card ready.",
+              "Bus shelters may offer limited rain protection.",
+              "Allow extra time for weather-related delays."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens: Ruhige Busfahrt nach Calella, wenig Fahrgäste im Winter. Mittags: Spaziergang am leeren Hafen von Port Bo. Nachmittags: Mit dem Regionalbus zu den Cap Roig Gärten, die Winterruhe dort genießen. Abends: Rückfahrt bei Dämmerung, die Busse sind gut beheizt.",
+            "hu": "Reggel: Nyugodt buszozás Calellába, kevés utas télen. Délben: Séta Port Bo üres kikötőjében. Délután: Helyi busszal a Cap Roig kertekhez, élvezve a téli nyugalmat. Este: Hazautazás szürkületkor, a buszok jól fűtöttek.",
+            "ro": "Dimineața: Călătorie liniștită cu autobuzul, puțini pasageri iarna. La prânz: Plimbare prin portul gol Port Bo. După-amiaza: Cu autobuzul local spre grădinile Cap Roig, bucurându-vă de liniște. Seara: Întoarcere la amurg, autobuzele sunt bine încălzite.",
+            "en": "Morning: Quiet bus ride to Calella, few passengers in winter. Noon: Stroll through the empty harbor of Port Bo. Afternoon: Local bus to Cap Roig Gardens, enjoying the winter stillness. Evening: Heading back at dusk, the buses are well heated."
+          },
+          "stops": [
+            {
+              "name": "Port Bo",
+              "tip_5lang": {
+                "de": "Busse fahren im Winter seltener.",
+                "hu": "A buszok télen ritkábban járnak.",
+                "ro": "Autobuzele circulă mai rar iarna.",
+                "en": "Buses run less frequently in winter."
+              }
+            },
+            {
+              "name": "Church of Sant Pere",
+              "tip_5lang": {
+                "de": "Innen ist es oft wärmer als draußen.",
+                "hu": "Bent gyakran melegebb van, mint kint.",
+                "ro": "În interior e adesea mai cald decât afară.",
+                "en": "It's often warmer inside than outside."
+              }
+            },
+            {
+              "name": "Canadell Beach",
+              "tip_5lang": {
+                "de": "Frische Seeluft vor der Busfahrt.",
+                "hu": "Friss tengeri levegő a buszozás előtt.",
+                "ro": "Aer proaspăt de mare înainte de autobuz.",
+                "en": "Fresh sea air before the bus ride."
+              }
+            },
+            {
+              "name": "Habanera Monument",
+              "tip_5lang": {
+                "de": "Sonniger Platz zum Warten.",
+                "hu": "Napos hely a várakozáshoz.",
+                "ro": "Loc însorit pentru așteptare.",
+                "en": "Sunny spot to wait for the bus."
+              }
+            },
+            {
+              "name": "Cap Roig Gardens",
+              "tip_5lang": {
+                "de": "Winterfahrplan unbedingt prüfen.",
+                "hu": "Feltétlenül ellenőrizd a téli menetrendet.",
+                "ro": "Verificați neapărat orarul de iarnă.",
+                "en": "Be sure to check the winter timetable."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Der Winterfahrplan tritt ab November in Kraft.",
+              "Einige Linien verkehren nur auf Abruf.",
+              "Tragen Sie warme Kleidung für die Wartezeiten.",
+              "Die Busse sind im Winter meist sehr pünktlich."
+            ],
+            "hu": [
+              "A téli menetrend novembertől érvényes.",
+              "Néhány járat csak hívásra közlekedik.",
+              "Öltözz melegen a várakozáshoz.",
+              "A buszok télen általában nagyon pontosak."
+            ],
+            "ro": [
+              "Orarul de iarnă intră în vigoare din noiembrie.",
+              "Unele linii circulă doar la cerere.",
+              "Îmbrăcați-vă gros pentru timpii de așteptare.",
+              "Autobuzele sunt de obicei punctuale iarna."
+            ],
+            "en": [
+              "The winter schedule starts in November.",
+              "Some lines may operate on-demand only.",
+              "Wear warm clothes for waiting periods.",
+              "Buses are usually very punctual in winter."
+            ]
+          }
+        }
+      }
+    }
+  },
+  "external_resources": {
+    "tourism_office": "https://visitpalafrugell.cat/",
+    "transit_official": "https://www.sarfa.com/",
+    "events": "https://www.costabrava.org/",
+    "webcam": "https://www.skylinewebcams.com/en/webcam/espana/cataluna/girona/calella-de-palafrugell.html",
+    "parking_real_time": "https://www.parclick.es/",
+    "restaurants_booking": "https://www.thefork.com/",
+    "language_tips": {
+      "de": "Calella de Palafrugell ist eine Habanera-Hochburg, hier wird viel Katalanisch gesprochen. Nicht zu verwechseln mit Calella bei Barcelona! Die 'Cantada d'Havaneres' im Juli ist ein Pflichttermin, dort werden alte Lieder auf Katalanisch gesungen.",
+      "hu": "Calella de Palafrugell a habanera dalok fellegvára, sokat katalánul beszélnek. Ne keverd össze a Barcelona melletti Calellával! A júliusi 'Cantada d'Havaneres' fesztiválon régi katalán dalokat énekelnek, kötelező esemény.",
+      "ro": "Calella de Palafrugell este capitala habaneras, se vorbește mult catalană. Nu confunda cu Calella de lângă Barcelona! 'Cantada d'Havaneres' din iulie e obligatoriu, cu cântece vechi în catalană.",
+      "en": "Calella de Palafrugell is a habanera-song heartland and Catalan is widely spoken. Don't confuse it with Calella near Barcelona! The 'Cantada d'Havaneres' in July is a must, with old Catalan sea songs."
+    },
+    "best_time_to_visit": {
+      "de": "Juni und September sind perfekt. Erstes Juli-Wochenende: Habanera-Konzert mit Cremat (gebrannter Rum), magisch aber sehr voll. Im August Buchten wie Llafranc und Tamariu früh aufsuchen, ab 11 Uhr keine Parkplätze mehr.",
+      "hu": "Június és szeptember tökéletes. Július első hétvégéje: habanera-koncert Cremattal (égetett rum), varázslatos de tömött. Augusztusban a Llafranc és Tamariu öblöket reggel látogasd, 11 után már nincs parkoló.",
+      "ro": "Iunie și septembrie sunt perfecte. Primul weekend din iulie: concert de habanera cu Cremat (rom flambé), magic dar foarte aglomerat. În august, vino dimineața în golfurile Llafranc și Tamariu, după 11 nu mai sunt locuri de parcare.",
+      "en": "June and September are perfect. The first weekend of July brings the habanera concert with Cremat (flamed rum), magical but very crowded. In August arrive early at Llafranc and Tamariu coves, after 11 a.m. no parking is left."
+    },
+    "neighborhood_warnings": {
+      "de": "Sehr sicher, sehr ruhig. Hauptgefahr sind enge Küstenstraßen ohne Bürgersteige zwischen Calella, Llafranc und Tamariu. Wandern Sie lieber den Camí de Ronda als die Straße entlangzulaufen.",
+      "hu": "Nagyon biztonságos, nagyon nyugodt. Fő veszély a Calella, Llafranc és Tamariu közti szűk part menti utak járda nélkül. Inkább a Camí de Ronda túraúton menj, ne az autóút mellett.",
+      "ro": "Foarte sigur și liniștit. Pericolul principal sunt drumurile înguste fără trotuar între Calella, Llafranc și Tamariu. Mai bine pe Camí de Ronda decât pe șosea.",
+      "en": "Very safe and quiet. The main hazard is narrow coast roads without sidewalks between Calella, Llafranc and Tamariu. Hike the Camí de Ronda trail instead of walking along the road."
+    }
+  }
+}

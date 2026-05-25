@@ -1,0 +1,2258 @@
+{
+  "city_id": "mao",
+  "anchor": {
+    "name": "Maó",
+    "coords": [
+      4.2655,
+      39.8889
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 3.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Fischmarkt (Mercat del Peix)",
+          "coords": [
+            4.2642,
+            39.8892
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Morgens ist das Markttreiben am authentischsten.",
+            "hu": "Reggel a legélénkebb a piaci forgatag.",
+            "ro": "Dimineața forfota pieței este cea mai autentică.",
+            "en": "The market is most authentic in the morning."
+          }
+        },
+        {
+          "name": "Kirche Santa Maria",
+          "coords": [
+            4.2648,
+            39.8895
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die monumentale Orgel mit 3000 Pfeifen.",
+            "hu": "Csodálja meg a monumentális, 3000 sípos orgonát.",
+            "ro": "Admirați orga monumentală cu 3000 de tuburi.",
+            "en": "Admire the monumental organ with 3000 pipes."
+          }
+        },
+        {
+          "name": "Rathaus von Maó",
+          "coords": [
+            4.2652,
+            39.8898
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Die Fassade zeigt eine beeindruckende Uhr aus dem 18. Jh.",
+            "hu": "A homlokzaton egy lenyűgöző 18. századi óra látható.",
+            "ro": "Fațada prezintă un ceas impresionant din secolul al XVIII-lea.",
+            "en": "The facade features an impressive 18th-century clock."
+          }
+        },
+        {
+          "name": "Museum von Menorca",
+          "coords": [
+            4.2685,
+            39.8912
+          ],
+          "category": "museums",
+          "arrive_at": "11:50",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ehemaliges Franziskanerkloster mit prachtvollem Kreuzgang.",
+            "hu": "Eredetileg ferences kolostor, gyönyörű keringővel.",
+            "ro": "Fostă mănăstire franciscană cu un claustru superb.",
+            "en": "Former Franciscan convent with a magnificent cloister."
+          }
+        },
+        {
+          "name": "Teatre Principal de Maó",
+          "coords": [
+            4.2638,
+            39.8885
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "14:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Eines der ältesten Opernhäuser Spaniens.",
+            "hu": "Spanyolország egyik legrégebbi operaháza.",
+            "ro": "Una dintre cele mai vechi opere din Spania.",
+            "en": "One of the oldest opera houses in Spain."
+          }
+        },
+        {
+          "name": "Gin-Destillerie Xoriguer",
+          "coords": [
+            4.2675,
+            39.8925
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "16:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Probieren Sie den berühmten Gin de Menorca.",
+            "hu": "Kóstolja meg a híres menorcai gint.",
+            "ro": "Gustați celebrul Gin de Menorca.",
+            "en": "Taste the famous Gin de Menorca."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ein Spaziergang durch die historische Altstadt beginnt am lebhaften Fischmarkt. Über den Rathausplatz und die Kirche Santa Maria gelangen Sie zum Museum von Menorca. Nach einer kulturellen Pause im Teatre Principal endet der Tag stilecht am Hafen bei der berühmten Gin-Destillerie Xoriguer, wo Sie die lokale Spezialität probieren können.",
+        "hu": "Séta a történelmi óvárosban, a nyüzsgő halpiacról indulva. A városháza téren és a Santa Maria templomon keresztül jutunk el a Menorcai Múzeumba. A Teatre Principal kulturális kitérője után a napot a kikötőben zárjuk a híres Xoriguer ginlepárlónál, ahol megkóstolhatjuk a helyi különlegességet.",
+        "ro": "O plimbare prin centrul istoric începe la piața de pește plină de viață. Prin piața primăriei și biserica Santa Maria ajungeți la Muzeul din Menorca. După o pauză culturală la Teatre Principal, ziua se încheie în port la celebra distilerie de gin Xoriguer, unde puteți gusta specialitatea locală.",
+        "en": "A walk through the historic old town starts at the lively fish market. Via the Town Hall square and Santa Maria church, you reach the Museum of Menorca. After a cultural break at Teatre Principal, the day ends in style at the harbor at the famous Xoriguer gin distillery, where you can taste the local specialty."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Queso Mahón-Menorca",
+            "tip": "Würziger lokaler Käse mit geschützter Herkunft."
+          },
+          {
+            "name": "Ensaimada menorquina",
+            "tip": "Süße Gebäckspezialität der Insel."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mahón sajt",
+            "tip": "Karakteres helyi sajt oltalom alatt álló eredettel."
+          },
+          {
+            "name": "Ensaimada",
+            "tip": "Édes péksütemény, Menorca egyik jelképe."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brânză Mahón",
+            "tip": "Brânză locală aromată cu origine protejată."
+          },
+          {
+            "name": "Ensaimada",
+            "tip": "Specialitate de patiserie dulce a insulei."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mahón Cheese",
+            "tip": "Savory local cheese with protected designation of origin."
+          },
+          {
+            "name": "Ensaimada",
+            "tip": "Sweet pastry specialty of the island."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Klostergarten des Museums",
+            "tip": "Oase der Ruhe im Stadtzentrum.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Aussichtspunkt Plaza de Miranda",
+            "tip": "Blick über den gesamten Hafen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A múzeum kerengője",
+            "tip": "A nyugalom szigete a városközpontban.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Plaza de Miranda",
+            "tip": "Kilátás az egész kikötőre.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Claustrul muzeului",
+            "tip": "Oază de liniște în centrul orașului.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Plaza de Miranda",
+            "tip": "Vedere panoramică asupra întregului port.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Museum Cloister",
+            "tip": "Oasis of peace in the city center.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Plaza de Miranda Viewpoint",
+            "tip": "View over the entire harbor.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Avarcas",
+            "tip": "Traditionelle menorquinische Ledersandalen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Avarcas",
+            "tip": "Hagyományos menorcai bőrszandál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Avarcas",
+            "tip": "Sandale tradiționale din piele din Menorca."
+          }
+        ],
+        "en": [
+          {
+            "name": "Avarcas",
+            "tip": "Traditional Mallorcan leather sandals."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Altstadt von Mahón liegt auf einer Klippe, nutzen Sie den Aufzug vom Hafen.",
+          "Mittags machen viele Geschäfte Pause (Siesta).",
+          "Besuchen Sie die Kirche Santa Maria für ein kurzes Orgelkonzert.",
+          "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster."
+        ],
+        "hu": [
+          "Az óváros egy sziklán fekszik, használja a kikötői liftet.",
+          "Délben sok üzlet bezár a szieszta idejére.",
+          "Nézze meg az orgonakoncertet a Santa Maria templomban.",
+          "Viseljen kényelmes cipőt a macskaköves utcákhoz."
+        ],
+        "ro": [
+          "Orașul vechi se află pe o stâncă, folosiți liftul din port.",
+          "Multe magazine se închid la prânz pentru siestă.",
+          "Vizitați biserica Santa Maria pentru un scurt concert de orgă.",
+          "Purtați încălțăminte comodă pentru străzile pietruite."
+        ],
+        "en": [
+          "The old town is on a cliff, use the elevator from the harbor.",
+          "Many shops close for siesta in the afternoon.",
+          "Visit Santa Maria church for a short organ concert.",
+          "Wear comfortable shoes for the cobblestone streets."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Ein Spaziergang durch die historische Altstadt beginnt am lebhaften Fischmarkt. Über den Rathausplatz und die Kirche Santa Maria gelangen Sie zum Museum von Menorca. Nach einer kulturellen Pause im Teatre Principal endet der Tag stilecht am Hafen bei der berühmten Gin-Destillerie Xoriguer, wo Sie die lokale Spezialität probieren können.",
+            "hu": "Séta a történelmi óvárosban, a nyüzsgő halpiacról indulva. A városháza téren és a Santa Maria templomon keresztül jutunk el a Menorcai Múzeumba. A Teatre Principal kulturális kitérője után a napot a kikötőben zárjuk a híres Xoriguer ginlepárlónál, ahol megkóstolhatjuk a helyi különlegességet.",
+            "ro": "O plimbare prin centrul istoric începe la piața de pește plină de viață. Prin piața primăriei și biserica Santa Maria ajungeți la Muzeul din Menorca. După o pauză culturală la Teatre Principal, ziua se încheie în port la celebra distilerie de gin Xoriguer, unde puteți gusta specialitatea locală.",
+            "en": "A walk through the historic old town starts at the lively fish market. Via the Town Hall square and Santa Maria church, you reach the Museum of Menorca. After a cultural break at Teatre Principal, the day ends in style at the harbor at the famous Xoriguer gin distillery, where you can taste the local specialty."
+          },
+          "stops": [
+            {
+              "name": "Fischmarkt (Mercat del Peix)",
+              "tip_5lang": {
+                "de": "Morgens ist das Markttreiben am authentischsten.",
+                "hu": "Reggel a legélénkebb a piaci forgatag.",
+                "ro": "Dimineața forfota pieței este cea mai autentică.",
+                "en": "The market is most authentic in the morning."
+              }
+            },
+            {
+              "name": "Kirche Santa Maria",
+              "tip_5lang": {
+                "de": "Bewundern Sie die monumentale Orgel mit 3000 Pfeifen.",
+                "hu": "Csodálja meg a monumentális, 3000 sípos orgonát.",
+                "ro": "Admirați orga monumentală cu 3000 de tuburi.",
+                "en": "Admire the monumental organ with 3000 pipes."
+              }
+            },
+            {
+              "name": "Rathaus von Maó",
+              "tip_5lang": {
+                "de": "Die Fassade zeigt eine beeindruckende Uhr aus dem 18. Jh.",
+                "hu": "A homlokzaton egy lenyűgöző 18. századi óra látható.",
+                "ro": "Fațada prezintă un ceas impresionant din secolul al XVIII-lea.",
+                "en": "The facade features an impressive 18th-century clock."
+              }
+            },
+            {
+              "name": "Museum von Menorca",
+              "tip_5lang": {
+                "de": "Ehemaliges Franziskanerkloster mit prachtvollem Kreuzgang.",
+                "hu": "Eredetileg ferences kolostor, gyönyörű keringővel.",
+                "ro": "Fostă mănăstire franciscană cu un claustru superb.",
+                "en": "Former Franciscan convent with a magnificent cloister."
+              }
+            },
+            {
+              "name": "Teatre Principal de Maó",
+              "tip_5lang": {
+                "de": "Eines der ältesten Opernhäuser Spaniens.",
+                "hu": "Spanyolország egyik legrégebbi operaháza.",
+                "ro": "Una dintre cele mai vechi opere din Spania.",
+                "en": "One of the oldest opera houses in Spain."
+              }
+            },
+            {
+              "name": "Gin-Destillerie Xoriguer",
+              "tip_5lang": {
+                "de": "Probieren Sie den berühmten Gin de Menorca.",
+                "hu": "Kóstolja meg a híres menorcai gint.",
+                "ro": "Gustați celebrul Gin de Menorca.",
+                "en": "Taste the famous Gin de Menorca."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Queso Mahón-Menorca",
+                "tip": "Würziger lokaler Käse mit geschützter Herkunft."
+              },
+              {
+                "name": "Ensaimada menorquina",
+                "tip": "Süße Gebäckspezialität der Insel."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Mahón sajt",
+                "tip": "Karakteres helyi sajt oltalom alatt álló eredettel."
+              },
+              {
+                "name": "Ensaimada",
+                "tip": "Édes péksütemény, Menorca egyik jelképe."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Brânză Mahón",
+                "tip": "Brânză locală aromată cu origine protejată."
+              },
+              {
+                "name": "Ensaimada",
+                "tip": "Specialitate de patiserie dulce a insulei."
+              }
+            ],
+            "en": [
+              {
+                "name": "Mahón Cheese",
+                "tip": "Savory local cheese with protected designation of origin."
+              },
+              {
+                "name": "Ensaimada",
+                "tip": "Sweet pastry specialty of the island."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Klostergarten des Museums",
+                "tip": "Oase der Ruhe im Stadtzentrum.",
+                "emoji": "🧘"
+              },
+              {
+                "name": "Aussichtspunkt Plaza de Miranda",
+                "tip": "Blick über den gesamten Hafen.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "A múzeum kerengője",
+                "tip": "A nyugalom szigete a városközpontban.",
+                "emoji": "🧘"
+              },
+              {
+                "name": "Plaza de Miranda",
+                "tip": "Kilátás az egész kikötőre.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Claustrul muzeului",
+                "tip": "Oază de liniște în centrul orașului.",
+                "emoji": "🧘"
+              },
+              {
+                "name": "Plaza de Miranda",
+                "tip": "Vedere panoramică asupra întregului port.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Museum Cloister",
+                "tip": "Oasis of peace in the city center.",
+                "emoji": "🧘"
+              },
+              {
+                "name": "Plaza de Miranda Viewpoint",
+                "tip": "View over the entire harbor.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Avarcas",
+                "tip": "Traditionelle menorquinische Ledersandalen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Avarcas",
+                "tip": "Hagyományos menorcai bőrszandál."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Avarcas",
+                "tip": "Sandale tradiționale din piele din Menorca."
+              }
+            ],
+            "en": [
+              {
+                "name": "Avarcas",
+                "tip": "Traditional Mallorcan leather sandals."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Die Altstadt von Mahón liegt auf einer Klippe, nutzen Sie den Aufzug vom Hafen.",
+              "Mittags machen viele Geschäfte Pause (Siesta).",
+              "Besuchen Sie die Kirche Santa Maria für ein kurzes Orgelkonzert.",
+              "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster."
+            ],
+            "hu": [
+              "Az óváros egy sziklán fekszik, használja a kikötői liftet.",
+              "Délben sok üzlet bezár a szieszta idejére.",
+              "Nézze meg az orgonakoncertet a Santa Maria templomban.",
+              "Viseljen kényelmes cipőt a macskaköves utcákhoz."
+            ],
+            "ro": [
+              "Orașul vechi se află pe o stâncă, folosiți liftul din port.",
+              "Multe magazine se închid la prânz pentru siestă.",
+              "Vizitați biserica Santa Maria pentru un scurt concert de orgă.",
+              "Purtați încălțăminte comodă pentru străzile pietruite."
+            ],
+            "en": [
+              "The old town is on a cliff, use the elevator from the harbor.",
+              "Many shops close for siesta in the afternoon.",
+              "Visit Santa Maria church for a short organ concert.",
+              "Wear comfortable shoes for the cobblestone streets."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag im Mercat del Peix, wo Sie unter dem historischen Dach geschützt lokale Spezialitäten genießen können. Die Kirche Santa Maria bietet danach einen trockenen und klangvollen Rückzugsort mit ihrer beeindruckenden Orgel. Der Weg führt Sie durch die Arkadengänge der Altstadt zum Rathaus, bevor Sie den Nachmittag im weitläufigen Museum von Menorca verbringen.",
+            "hu": "Kezdje a napot a Mercat del Peix fedett csarnokában, ahol az eső elől védve kóstolhatja meg a helyi finomságokat. A Santa Maria templom lenyűgöző belső tere és híres orgonája tökéletes menedéket nyújt a zápor elől. Az óváros árkádjai alatt sétálva érheti el a városházát, majd a délutánt a Menorca Múzeum falai között töltheti szárazon, elmélyedve a sziget történelmében.",
+            "ro": "Începeți ziua în Mercat del Peix, unde puteți savura delicatese locale sub adăpostul acoperișului istoric. Biserica Santa Maria oferă apoi un refugiu uscat și liniștit, renumit pentru orga sa impresionantă. Plimbarea continuă prin arcadele orașului vechi spre primărie, iar după-amiaza este dedicată Muzeului din Menorca, un spațiu vast unde ploaia nu vă va deranja explorarea.",
+            "en": "Start your day at the Mercat del Peix, where you can enjoy local specialties sheltered under its historic roof. Santa Maria Church then provides a dry and resonant sanctuary with its impressive organ. Walking through the old town's arcades, you reach the Town Hall before spending the afternoon in the extensive Museum of Menorca, perfectly protected from the elements."
+          },
+          "stops": [
+            {
+              "name": "Fischmarkt (Mercat del Peix)",
+              "tip_5lang": {
+                "de": "Idealer Ort für Tapas, wenn es draußen regnet.",
+                "hu": "Ideális hely a tapasozáshoz, ha kint esik az eső.",
+                "ro": "Locul ideal pentru tapas când afară plouă.",
+                "en": "Ideal spot for tapas when it's raining outside."
+              }
+            },
+            {
+              "name": "Kirche Santa Maria",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Orgel, während Sie im Trockenen verweilen.",
+                "hu": "Csodálja meg az orgonát, amíg a szárazban pihen.",
+                "ro": "Admirați orga în timp ce rămâneți la adăpost.",
+                "en": "Admire the organ while staying in the dry."
+              }
+            },
+            {
+              "name": "Rathaus von Maó",
+              "tip_5lang": {
+                "de": "Die Fassade lässt sich gut von den umliegenden Arkaden aus betrachten.",
+                "hu": "A homlokzat jól látható a környező árkádok alól.",
+                "ro": "Fațada poate fi admirată de sub arcadele din apropiere.",
+                "en": "The facade can be viewed well from the nearby arcades."
+              }
+            },
+            {
+              "name": "Museum von Menorca",
+              "tip_5lang": {
+                "de": "Ein weitläufiges Klostergebäude, perfekt für lange Regentage.",
+                "hu": "Tágas kolostorépület, tökéletes a hosszú esős napokra.",
+                "ro": "O clădire monastică vastă, perfectă pentru zile ploioase.",
+                "en": "A spacious convent building, perfect for long rainy days."
+              }
+            },
+            {
+              "name": "Teatre Principal de Maó",
+              "tip_5lang": {
+                "de": "Prüfen Sie, ob kurzfristig Innenführungen angeboten werden.",
+                "hu": "Érdeklődjön, hogy tartanak-e bent vezetett túrákat.",
+                "ro": "Verificați dacă se organizează tururi ghidate în interior.",
+                "en": "Check if indoor guided tours are available at short notice."
+              }
+            },
+            {
+              "name": "Gin-Destillerie Xoriguer",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich bei einer Verkostung des lokalen Gins auf.",
+                "hu": "Melegedjen fel a helyi gin kóstolása közben.",
+                "ro": "Încălziți-vă cu o degustare de gin local.",
+                "en": "Warm up with a tasting of the local gin."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die vielen Arkadengänge in der Altstadt als natürlichen Regenschutz.",
+              "Ein stabiler Regenschirm ist wegen der Meeresbrise besser als ein Knirps.",
+              "Die Pflastersteine in den steilen Gassen können bei Nässe rutschig sein.",
+              "Das Museum von Menorca ist der beste Ort für eine zweistündige Regenpause.",
+              "Kombinieren Sie den Fischmarkt mit einem langen Mittagessen in den Markthallen."
+            ],
+            "hu": [
+              "Használja ki az óváros számos árkádos folyosóját természetes esővédőként.",
+              "A tengeri szél miatt a stabil boternyő jobb választás, mint az összecsukható.",
+              "A meredek utcák macskakövei nedvesen csúszóssá válhatnak.",
+              "A Menorca Múzeum a legjobb hely egy kétórás esőszünet elütéséhez.",
+              "Kösse össze a halpiac meglátogatását egy hosszú ebéddel a vásárcsarnokban."
+            ],
+            "ro": [
+              "Folosiți numeroasele arcade din orașul vechi ca protecție naturală împotriva ploii.",
+              "O umbrelă stabilă este mai bună decât una pliabilă din cauza brizei marine.",
+              "Pavajul de pe străzile abrupte poate deveni alunecos când este ud.",
+              "Muzeul din Menorca este cel mai bun loc pentru o pauză de ploaie de două ore.",
+              "Combinați vizita la piața de pește cu un prânz prelungit în halele pieței."
+            ],
+            "en": [
+              "Use the many arcaded walkways in the old town as natural rain cover.",
+              "A sturdy umbrella is better than a foldable one due to the sea breeze.",
+              "The cobblestones in the steep alleys can become slippery when wet.",
+              "The Museum of Menorca is the best place for a two-hour rain shelter.",
+              "Combine the fish market visit with a long lunch in the market halls."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie die kühle, klare Winterluft bei einem Spaziergang zum Fischmarkt, der auch in der Nebensaison ein lebendiger Treffpunkt ist. Die tiefe Wintersonne taucht die goldene Fassade der Kirche Santa Maria in ein besonderes Licht. Nach dem Museumsbesuch lockt die Xoriguer-Destillerie, wo der Gin nach traditioneller Art die Wintergeister vertreibt.",
+            "hu": "Élvezze a hűvös, tiszta téli levegőt a halpiac felé sétálva, amely a főszezonon kívül is a helyiek találkozóhelye. Az alacsonyan járó téli nap különleges fénybe vonja a Santa Maria templom aranyló homlokzatát. A múzeumlátogatás után a Xoriguer lepárló hívogatja, ahol a hagyományos recept szerint készült gin segít elűzni a téli fagyokat.",
+            "ro": "Bucurați-vă de aerul rece și curat de iarnă în timpul unei plimbări spre piața de pește, care rămâne animată și în extrasezon. Soarele de iarnă scaldă fațada aurie a bisericii Santa Maria într-o lumină aparte. După vizitarea muzeului, distileria Xoriguer vă așteaptă cu ginul său tradițional pentru a alunga răceala iernii.",
+            "en": "Enjoy the crisp, clear winter air on a walk to the fish market, a lively local hub even in the low season. The low winter sun casts a unique light on the golden facade of Santa Maria Church. After the museum visit, the Xoriguer distillery beckons, where traditional gin helps chase away the winter chill."
+          },
+          "stops": [
+            {
+              "name": "Fischmarkt (Mercat del Peix)",
+              "tip_5lang": {
+                "de": "Im Winter ist es hier ruhiger und authentischer mit den Einheimischen.",
+                "hu": "Télen csendesebb és autentikusabb, több a helyi lakos.",
+                "ro": "Iarna este mai liniștit și mai autentic, alături de localnici.",
+                "en": "In winter, it's quieter and more authentic with the locals."
+              }
+            },
+            {
+              "name": "Kirche Santa Maria",
+              "tip_5lang": {
+                "de": "Die dicken Mauern halten die Kälte draußen.",
+                "hu": "A vastag falak jól kint tartják a hideget.",
+                "ro": "Zidurile groase țin frigul la distanță.",
+                "en": "The thick walls keep the cold outside effectively."
+              }
+            },
+            {
+              "name": "Rathaus von Maó",
+              "tip_5lang": {
+                "de": "Das Licht der Wintersonne ist perfekt für Fotos der Uhr.",
+                "hu": "A téli napsütés tökéletes az óra lefényképezéséhez.",
+                "ro": "Lumina soarelui de iarnă este perfectă pentru poze cu ceasul.",
+                "en": "The winter sunlight is perfect for photos of the clock."
+              }
+            },
+            {
+              "name": "Museum von Menorca",
+              "tip_5lang": {
+                "de": "Warmer Rückzugsort, um in die Geschichte der Talayot-Kultur einzutauchen.",
+                "hu": "Meleg menedék, ahol elmerülhet a talayot kultúra történetében.",
+                "ro": "Un refugiu cald pentru a descoperi istoria culturii Talayot.",
+                "en": "Warm retreat to dive into the history of Talayotic culture."
+              }
+            },
+            {
+              "name": "Teatre Principal de Maó",
+              "tip_5lang": {
+                "de": "Winterzeit ist Opern- und Konzertsaison in Maó.",
+                "hu": "A tél az opera- és koncertszezon ideje Maóban.",
+                "ro": "Iarna este sezonul operei și al concertelor în Maó.",
+                "en": "Winter is the opera and concert season in Maó."
+              }
+            },
+            {
+              "name": "Gin-Destillerie Xoriguer",
+              "tip_5lang": {
+                "de": "Ideal, um Souvenirs ohne die sommerlichen Warteschlangen zu kaufen.",
+                "hu": "Ideális ajándékvásárláshoz a nyári sorban állás nélkül.",
+                "ro": "Ideal pentru suveniruri fără cozile de vară.",
+                "en": "Ideal for buying souvenirs without the summer queues."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Wintersonne geht gegen 17:30 Uhr unter, planen Sie das Ende am Hafen ein.",
+              "Der Tramuntana-Wind kann sehr kühl sein, tragen Sie winddichte Kleidung.",
+              "Viele Cafés haben im Winter Heizstrahler im Außenbereich.",
+              "Die Museen haben im Winter oft verkürzte Öffnungszeiten am Nachmittag.",
+              "Die klare Luft bietet eine fantastische Sicht über den Hafen von Maó."
+            ],
+            "hu": [
+              "A téli nap 17:30 körül nyugszik, tervezze a túra végét a kikötőbe.",
+              "A Tramuntana szél nagyon hűvös lehet, viseljen szélálló ruházatot.",
+              "Sok kávézó teraszán van kültéri fűtőtest télen is.",
+              "A múzeumok délutáni nyitvatartása télen gyakran rövidebb.",
+              "A tiszta levegő fantasztikus kilátást nyújt a Maó-i kikötőre."
+            ],
+            "ro": [
+              "Soarele apune în jur de ora 17:30, planificați finalul zilei în port.",
+              "Vântul Tramuntana poate fi foarte rece, purtați haine rezistente la vânt.",
+              "Multe cafenele au încălzitoare exterioare în timpul iernii.",
+              "Muzeele au adesea program redus după-amiaza în timpul iernii.",
+              "Aerul curat oferă o vizibilitate fantastică asupra portului Maó."
+            ],
+            "en": [
+              "The winter sun sets around 17:30, plan your finish at the harbor.",
+              "The Tramuntana wind can be very chilly, wear windproof clothing.",
+              "Many cafes have outdoor heaters during the winter months.",
+              "Museums often have shorter opening hours in the afternoon in winter.",
+              "The clear air offers fantastic visibility over the Port of Maó."
+            ]
+          }
+        }
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:20",
+      "total_km": 12.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Portal de Sant Roc",
+          "coords": [
+            4.2625,
+            39.8885
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Letztes erhaltenes Stadttor der alten Mauer.",
+            "hu": "A régi városfal utolsó fennmaradt kapuja.",
+            "ro": "Ultima poartă păstrată din vechiul zid al orașului.",
+            "en": "Last remaining city gate of the old wall."
+          }
+        },
+        {
+          "name": "Gin-Destillerie Xoriguer",
+          "coords": [
+            4.2675,
+            39.8925
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "10:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Vom Hafen aus lässt es sich wunderbar am Kai entlang radeln.",
+            "hu": "A kikötő partján remekül lehet kerékpározni.",
+            "ro": "De-a lungul cheiului portului este o plăcere să pedalezi.",
+            "en": "Cycling along the harbor quay is a delight."
+          }
+        },
+        {
+          "name": "Festung La Mola",
+          "coords": [
+            4.3125,
+            39.8755
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:30",
+          "stay_min": 120,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Großflächiges Areal, ideal mit dem Fahrrad zu erkunden.",
+            "hu": "Hatalmas terület, ideális kerékpáros felfedezéshez.",
+            "ro": "Zonă vastă, ideală de explorat cu bicicleta.",
+            "en": "Vast area, ideal for exploring by bike."
+          }
+        },
+        {
+          "name": "Museum von Menorca",
+          "coords": [
+            4.2685,
+            39.8912
+          ],
+          "category": "museums",
+          "arrive_at": "14:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 70,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Sicherer Abstellplatz für Fahrräder vorhanden.",
+            "hu": "Biztonságos kerékpártároló elérhető.",
+            "ro": "Există loc sigur de parcare pentru biciclete.",
+            "en": "Secure bicycle parking available."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie am historischen Portal de Sant Roc und fahren Sie hinunter zum Hafen zur Gin-Destillerie. Eine längere Tour führt Sie um das Hafenbecken herum zur imposanten Festung La Mola. Nach der Besichtigung radeln Sie zurück ins Zentrum zum Museum von Menorca, um tief in die Geschichte der Insel einzutauchen.",
+        "hu": "Indulás a történelmi Portal de Sant Roc-tól, majd legurulunk a kikötőbe a ginlepárlóhoz. Egy hosszabb tekerés a kikötőöböl mentén elvisz az impozáns La Mola erődbe. A látogatás után visszatekerünk a központba a Menorcai Múzeumhoz, hogy elmerüljünk a sziget történelmében.",
+        "ro": "Porniți de la poarta istorică Portal de Sant Roc și coborâți în port spre distileria de gin. Un traseu mai lung vă duce în jurul portului către impunătoarea fortăreață La Mola. După vizită, pedalați înapoi în centru spre Muzeul din Menorca pentru a descoperi istoria insulei.",
+        "en": "Start at the historic Portal de Sant Roc and ride down to the harbor to the gin distillery. A longer tour leads you around the harbor basin to the imposing La Mola fortress. After the visit, cycle back to the center to the Museum of Menorca to dive deep into the island's history."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pomada",
+            "tip": "Gin Xoriguer mit Limonade – erfrischend!"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pomada",
+            "tip": "Xoriguer gin limonádéval – hűsítő!"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pomada",
+            "tip": "Gin Xoriguer cu limonadă – revigorant!"
+          }
+        ],
+        "en": [
+          {
+            "name": "Pomada",
+            "tip": "Gin Xoriguer with lemonade – refreshing!"
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Illa del Rei",
+            "tip": "Insel der Ruhe mitten im Hafen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Illa del Rei",
+            "tip": "A nyugalom szigete a kikötő közepén.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Illa del Rei",
+            "tip": "Insula liniștii în mijlocul portului.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Illa del Rei",
+            "tip": "Island of peace in the middle of the harbor.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Weine",
+            "tip": "Weine aus menorquinischem Anbau."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi bor",
+            "tip": "Menorcai dűlőkből származó borok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vinuri locale",
+            "tip": "Vinuri din producția proprie a insulei."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Wines",
+            "tip": "Wines from Menorcan vineyards."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Der Weg nach La Mola ist sonnig, Kopfbedeckung nicht vergessen.",
+          "Im Hafenbereich ist das Gelände flach, in der Oberstadt steil.",
+          "Achten Sie auf den Autoverkehr am Kai.",
+          "Mieten Sie E-Bikes für die Fahrt zur Festung."
+        ],
+        "hu": [
+          "A La Mola felé vezető út napos, vigyen sapkát.",
+          "A kikötő sík, de a felsőváros meredek.",
+          "Figyeljen az autóforgalomra a rakparton.",
+          "Béreljen elektromos bringát az erődhöz."
+        ],
+        "ro": [
+          "Drumul spre La Mola este însorit, nu uitați protecția solară.",
+          "Zona portului este plată, dar orașul de sus este abrupt.",
+          "Atenție la traficul auto pe chei.",
+          "Închiriați biciclete electrice pentru drumul spre fortăreață."
+        ],
+        "en": [
+          "The road to La Mola is sunny, don't forget a hat.",
+          "The harbor area is flat, but the upper town is steep.",
+          "Watch out for car traffic on the quay.",
+          "Rent e-bikes for the ride to the fortress."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Starten Sie am historischen Portal de Sant Roc und fahren Sie hinunter zum Hafen zur Gin-Destillerie. Eine längere Tour führt Sie um das Hafenbecken herum zur imposanten Festung La Mola. Nach der Besichtigung radeln Sie zurück ins Zentrum zum Museum von Menorca, um tief in die Geschichte der Insel einzutauchen.",
+            "hu": "Indulás a történelmi Portal de Sant Roc-tól, majd legurulunk a kikötőbe a ginlepárlóhoz. Egy hosszabb tekerés a kikötőöböl mentén elvisz az impozáns La Mola erődbe. A látogatás után visszatekerünk a központba a Menorcai Múzeumhoz, hogy elmerüljünk a sziget történelmében.",
+            "ro": "Porniți de la poarta istorică Portal de Sant Roc și coborâți în port spre distileria de gin. Un traseu mai lung vă duce în jurul portului către impunătoarea fortăreață La Mola. După vizită, pedalați înapoi în centru spre Muzeul din Menorca pentru a descoperi istoria insulei.",
+            "en": "Start at the historic Portal de Sant Roc and ride down to the harbor to the gin distillery. A longer tour leads you around the harbor basin to the imposing La Mola fortress. After the visit, cycle back to the center to the Museum of Menorca to dive deep into the island's history."
+          },
+          "stops": [
+            {
+              "name": "Portal de Sant Roc",
+              "tip_5lang": {
+                "de": "Letztes erhaltenes Stadttor der alten Mauer.",
+                "hu": "A régi városfal utolsó fennmaradt kapuja.",
+                "ro": "Ultima poartă păstrată din vechiul zid al orașului.",
+                "en": "Last remaining city gate of the old wall."
+              }
+            },
+            {
+              "name": "Gin-Destillerie Xoriguer",
+              "tip_5lang": {
+                "de": "Vom Hafen aus lässt es sich wunderbar am Kai entlang radeln.",
+                "hu": "A kikötő partján remekül lehet kerékpározni.",
+                "ro": "De-a lungul cheiului portului este o plăcere să pedalezi.",
+                "en": "Cycling along the harbor quay is a delight."
+              }
+            },
+            {
+              "name": "Festung La Mola",
+              "tip_5lang": {
+                "de": "Großflächiges Areal, ideal mit dem Fahrrad zu erkunden.",
+                "hu": "Hatalmas terület, ideális kerékpáros felfedezéshez.",
+                "ro": "Zonă vastă, ideală de explorat cu bicicleta.",
+                "en": "Vast area, ideal for exploring by bike."
+              }
+            },
+            {
+              "name": "Museum von Menorca",
+              "tip_5lang": {
+                "de": "Sicherer Abstellplatz für Fahrräder vorhanden.",
+                "hu": "Biztonságos kerékpártároló elérhető.",
+                "ro": "Există loc sigur de parcare pentru biciclete.",
+                "en": "Secure bicycle parking available."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Pomada",
+                "tip": "Gin Xoriguer mit Limonade – erfrischend!"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Pomada",
+                "tip": "Xoriguer gin limonádéval – hűsítő!"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Pomada",
+                "tip": "Gin Xoriguer cu limonadă – revigorant!"
+              }
+            ],
+            "en": [
+              {
+                "name": "Pomada",
+                "tip": "Gin Xoriguer with lemonade – refreshing!"
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Illa del Rei",
+                "tip": "Insel der Ruhe mitten im Hafen.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Illa del Rei",
+                "tip": "A nyugalom szigete a kikötő közepén.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Illa del Rei",
+                "tip": "Insula liniștii în mijlocul portului.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Illa del Rei",
+                "tip": "Island of peace in the middle of the harbor.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Lokale Weine",
+                "tip": "Weine aus menorquinischem Anbau."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Helyi bor",
+                "tip": "Menorcai dűlőkből származó borok."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Vinuri locale",
+                "tip": "Vinuri din producția proprie a insulei."
+              }
+            ],
+            "en": [
+              {
+                "name": "Local Wines",
+                "tip": "Wines from Menorcan vineyards."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Der Weg nach La Mola ist sonnig, Kopfbedeckung nicht vergessen.",
+              "Im Hafenbereich ist das Gelände flach, in der Oberstadt steil.",
+              "Achten Sie auf den Autoverkehr am Kai.",
+              "Mieten Sie E-Bikes für die Fahrt zur Festung."
+            ],
+            "hu": [
+              "A La Mola felé vezető út napos, vigyen sapkát.",
+              "A kikötő sík, de a felsőváros meredek.",
+              "Figyeljen az autóforgalomra a rakparton.",
+              "Béreljen elektromos bringát az erődhöz."
+            ],
+            "ro": [
+              "Drumul spre La Mola este însorit, nu uitați protecția solară.",
+              "Zona portului este plată, dar orașul de sus este abrupt.",
+              "Atenție la traficul auto pe chei.",
+              "Închiriați biciclete electrice pentru drumul spre fortăreață."
+            ],
+            "en": [
+              "The road to La Mola is sunny, don't forget a hat.",
+              "The harbor area is flat, but the upper town is steep.",
+              "Watch out for car traffic on the quay.",
+              "Rent e-bikes for the ride to the fortress."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen bietet die Fahrt zum Portal de Sant Roc einen schnellen Einstieg in die Stadtgeschichte. Die Route zur Gin-Destillerie führt am Hafen entlang, wo der Asphalt griffiger ist als in der Altstadt. Die Festung La Mola erfordert eine wasserdichte Ausrüstung, aber die dramatische Aussicht auf die aufgewühlte See ist die Mühe wert.",
+            "hu": "Az eső ellenére a Portal de Sant Roc-hoz vezető út gyors betekintést nyújt a város múltjába. A ginfőzde felé vezető útvonal a kikötő mellett halad, ahol az aszfalt kevésbé csúszik, mint az óvárosban. A La Mola erőd meglátogatásához vízálló felszerelés kell, de a háborgó tenger látványa megéri a fáradságot.",
+            "ro": "În ciuda ploii, drumul spre Portal de Sant Roc oferă o introducere rapidă în istoria orașului. Traseul spre distileria de gin urmează portul, unde asfaltul este mai aderent decât în orașul vechi. Cetatea La Mola necesită echipament impermeabil, dar vederea dramatică asupra mării agitate merită efortul.",
+            "en": "Despite the rain, the ride to Portal de Sant Roc offers a quick entry into the city's history. The route to the gin distillery follows the harbor, where the asphalt is grippier than in the old town. La Mola fortress requires waterproof gear, but the dramatic view of the churning sea is worth the effort."
+          },
+          "stops": [
+            {
+              "name": "Portal de Sant Roc",
+              "tip_5lang": {
+                "de": "Vorsicht beim Absteigen auf den nassen Pflastersteinen.",
+                "hu": "Vigyázzon a leszálláskor a nedves macskaköveken.",
+                "ro": "Atenție la coborâre pe pavajul umed.",
+                "en": "Be careful when dismounting on the wet cobblestones."
+              }
+            },
+            {
+              "name": "Gin-Destillerie Xoriguer",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad unter dem Vordach ab, während Sie probieren.",
+                "hu": "Támassza le a kerékpárt az előtető alatt a kóstolás idejére.",
+                "ro": "Parcați bicicleta sub copertină în timp ce degustați.",
+                "en": "Park your bike under the overhang while you taste."
+              }
+            },
+            {
+              "name": "Festung La Mola",
+              "tip_5lang": {
+                "de": "Die weiten Außenflächen bieten kaum Schutz vor Regenschauern.",
+                "hu": "A tágas külső terek alig nyújtanak védelmet a záporok elől.",
+                "ro": "Spațiile exterioare vaste oferă puțin adăpost împotriva ploii.",
+                "en": "The vast outdoor areas offer little shelter from rain showers."
+              }
+            },
+            {
+              "name": "Museum von Menorca",
+              "tip_5lang": {
+                "de": "Sicherer Fahrradabstellplatz direkt vor dem Eingang.",
+                "hu": "Biztonságos kerékpártároló közvetlenül a bejárat előtt.",
+                "ro": "Loc sigur de parcare pentru biciclete chiar în fața intrării.",
+                "en": "Secure bike parking available right in front of the entrance."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Reduzieren Sie den Reifendruck leicht für bessere Haftung auf nassem Stein.",
+              "Vermeiden Sie die steilen Abfahrten zum Hafen bei starkem Regen.",
+              "Schutzbleche sind auf Menorca bei Regen unerlässlich.",
+              "Die Fahrt nach La Mola ist dem Wind und Regen stark ausgesetzt.",
+              "Nutzen Sie die Hafenpromenade, sie ist flacher und sicherer bei Nässe."
+            ],
+            "hu": [
+              "Csökkentse kissé a keréknyomást a jobb tapadásért a vizes köveken.",
+              "Heves esőben kerülje a kikötőbe vezető meredek lejtőket.",
+              "A sárvédő elengedhetetlen Menorcán, ha esik az eső.",
+              "A La Mola felé vezető út erősen kitett a szélnek és az esőnek.",
+              "Használja a kikötői sétányt, az laposabb és biztonságosabb nedves időben."
+            ],
+            "ro": [
+              "Reduceți ușor presiunea în pneuri pentru o aderență mai bună pe piatră umedă.",
+              "Evitați coborârile abrupte spre port în timpul ploilor abundente.",
+              "Apărătorile de noroi sunt esențiale în Menorca când plouă.",
+              "Drumul spre La Mola este foarte expus vântului și ploii.",
+              "Folosiți faleza portului, este mai plată și mai sigură pe umezeală."
+            ],
+            "en": [
+              "Reduce tire pressure slightly for better grip on wet stones.",
+              "Avoid steep descents to the harbor during heavy rain.",
+              "Mudguards are essential on Menorca when it rains.",
+              "The ride to La Mola is highly exposed to wind and rain.",
+              "Use the harbor promenade; it's flatter and safer in wet conditions."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Wintertour beginnt am Portal de Sant Roc, wo die kühle Brise durch das alte Stadttor weht. Die Fahrt nach La Mola ist im Winter besonders reizvoll, da die karge Landschaft eine fast mystische Ruhe ausstrahlt. Den Abschluss bildet der Besuch im Museum von Menorca, wo Sie sich nach der windigen Fahrt über die Landzunge wieder aufwärmen können.",
+            "hu": "A téli túra a Portal de Sant Roc-nál indul, ahol hűvös szellő fúj át a régi városkapun. A La Mola felé vezető út télen különösen vonzó, mivel a kopár táj szinte misztikus nyugalmat áraszt. A napot a Menorca Múzeum látogatása zárja, ahol a szeles félszigeti tekerés után újra felmelegedhet.",
+            "ro": "Turul de iarnă începe la Portal de Sant Roc, unde briza rece suflă prin vechea poartă a orașului. Drumul spre La Mola este deosebit de atractiv iarna, deoarece peisajul arid emană o liniște aproape mistică. Finalul este marcat de vizita la Muzeul din Menorca, unde vă puteți reîncălzi după drumul vântos prin peninsulă.",
+            "en": "The winter tour starts at Portal de Sant Roc, where a cool breeze blows through the old city gate. The ride to La Mola is particularly attractive in winter, as the barren landscape exudes an almost mystical calm. The day concludes with a visit to the Museum of Menorca, where you can warm up after the windy ride across the headland."
+          },
+          "stops": [
+            {
+              "name": "Portal de Sant Roc",
+              "tip_5lang": {
+                "de": "Guter Startpunkt, um sich mit dem Rad warmzufahren.",
+                "hu": "Jó kiindulópont a bemelegítéshez a kerékpárral.",
+                "ro": "Un bun punct de plecare pentru a vă încălzi pe bicicletă.",
+                "en": "A good starting point to warm up on the bike."
+              }
+            },
+            {
+              "name": "Gin-Destillerie Xoriguer",
+              "tip_5lang": {
+                "de": "Ein kleiner Gin hilft gegen das Frösteln nach der Abfahrt.",
+                "hu": "Egy kevés gin segít a fázás ellen a lejtőzés után.",
+                "ro": "Puțin gin ajută împotriva frigului după coborâre.",
+                "en": "A little gin helps against the chill after the descent."
+              }
+            },
+            {
+              "name": "Festung La Mola",
+              "tip_5lang": {
+                "de": "In den Tunneln der Festung ist es oft wärmer als draußen im Wind.",
+                "hu": "Az erőd alagútjaiban gyakran melegebb van, mint kint a szélben.",
+                "ro": "În tunelurile cetății este adesea mai cald decât afară în vânt.",
+                "en": "It's often warmer in the fortress tunnels than out in the wind."
+              }
+            },
+            {
+              "name": "Museum von Menorca",
+              "tip_5lang": {
+                "de": "Die Garderobe bietet Platz für Ihre dicke Winterkleidung.",
+                "hu": "A ruhatárban kényelmesen elfér a vastag téli ruházat.",
+                "ro": "Garderoba oferă spațiu pentru hainele groase de iarnă.",
+                "en": "The cloakroom has plenty of space for your heavy winter gear."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Handschuhe, da der Fahrtwind am Hafen sehr beißend sein kann.",
+              "Planen Sie die Rückfahrt von La Mola vor Einbruch der Dunkelheit ein.",
+              "Das Zwiebelprinzip ist bei den wechselnden Intensitäten ideal.",
+              "Prüfen Sie Ihre Fahrradbeleuchtung für den frühen Sonnenuntergang.",
+              "Die Strecke nach La Mola ist im Winter fast verkehrsfrei."
+            ],
+            "hu": [
+              "Viseljen kesztyűt, mert a menetszél a kikötőnél nagyon metsző lehet.",
+              "A La Mola-ról való visszautat sötétedés előttre tervezze.",
+              "A réteges öltözködés ideális a változó intenzitású mozgáshoz.",
+              "Ellenőrizze a kerékpár világítását a korai naplemente miatt.",
+              "A La Mola felé vezető szakasz télen szinte forgalommentes."
+            ],
+            "ro": [
+              "Purtați mănuși, deoarece curentul de aer în port poate fi foarte tăios.",
+              "Planificați drumul de întoarcere de la La Mola înainte de lăsarea întunericului.",
+              "Sistemul de îmbrăcare în straturi este ideal pentru intensitatea variabilă.",
+              "Verificați luminile bicicletei pentru apusul timpuriu.",
+              "Traseul spre La Mola este aproape lipsit de trafic în timpul iernii."
+            ],
+            "en": [
+              "Wear gloves, as the wind chill at the harbor can be very biting.",
+              "Plan your return from La Mola before darkness falls.",
+              "Layering is ideal for the varying intensities of the ride.",
+              "Check your bike lights for the early sunset.",
+              "The route to La Mola is almost traffic-free in winter."
+            ]
+          }
+        }
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 15.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Festung La Mola",
+          "coords": [
+            4.3125,
+            39.8755
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:20",
+          "stay_min": 120,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Früh starten, um die Hitze in der Festung zu meiden.",
+            "hu": "Induljon korán, hogy elkerülje a hőséget az erődben.",
+            "ro": "Porniți devreme pentru a evita căldura în fortăreață.",
+            "en": "Start early to avoid the heat in the fortress."
+          }
+        },
+        {
+          "name": "Portal de Sant Roc",
+          "coords": [
+            4.2625,
+            39.8885
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:50",
+          "stay_min": 30,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 7.0,
+          "tip_5lang": {
+            "de": "Parken Sie im Parkhaus 'Es Freginal'.",
+            "hu": "Parkoljon az 'Es Freginal' parkolóházban.",
+            "ro": "Parcați în parcarea 'Es Freginal'.",
+            "en": "Park in the 'Es Freginal' parking garage."
+          }
+        },
+        {
+          "name": "Fischmarkt (Mercat del Peix)",
+          "coords": [
+            4.2642,
+            39.8892
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ideal für ein Tapas-Mittagessen.",
+            "hu": "Ideális hely egy tapas-ebédhez.",
+            "ro": "Ideal pentru un prânz cu tapas.",
+            "en": "Ideal for a tapas lunch."
+          }
+        },
+        {
+          "name": "Gin-Destillerie Xoriguer",
+          "coords": [
+            4.2675,
+            39.8925
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "14:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Kostenlose Verkostungen für Beifahrer.",
+            "hu": "Ingyenes kóstoló az utasoknak.",
+            "ro": "Degustări gratuite pentru pasageri.",
+            "en": "Free tastings for passengers."
+          }
+        },
+        {
+          "name": "Illa del Rei",
+          "coords": [
+            4.2885,
+            39.8935
+          ],
+          "category": "natural features",
+          "arrive_at": "15:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Das Boot setzt vom 'Moll de l'Hospital' über.",
+            "hu": "A hajó a 'Moll de l'Hospital' mólótól indul.",
+            "ro": "Barca pleacă de la 'Moll de l'Hospital'.",
+            "en": "The boat departs from 'Moll de l'Hospital'."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto besuchen Sie zuerst die beeindruckende Festung La Mola am Hafeneingang. Danach geht es ins Zentrum zum Portal de Sant Roc und für kulinarische Genüsse zum Fischmarkt. Nach einem Besuch der Gin-Destillerie im Hafen krönen Sie den Tag mit einer kurzen Bootsfahrt zur historischen Illa del Rei.",
+        "hu": "Autóval először a kikötő bejáratánál lévő lenyűgöző La Mola erődöt látogatjuk meg. Ezután a központba hajtunk a Portal de Sant Roc-hoz, majd gasztronómiai élvezetekért a halpiacra. A kikötői ginlepárló után a napot egy rövid hajóúttal zárjuk a történelmi Illa del Rei szigetre.",
+        "ro": "Cu mașina vizitați mai întâi impresionanta fortăreață La Mola de la intrarea în port. Apoi mergeți în centru la Portal de Sant Roc și la piața de pește pentru delicii culinare. După o vizită la distileria de gin, încheiați ziua cu o scurtă plimbare cu barca spre istorica Illa del Rei.",
+        "en": "By car, first visit the impressive La Mola fortress at the harbor entrance. Then head to the center to Portal de Sant Roc and for culinary delights at the fish market. After a visit to the gin distillery, crown the day with a short boat trip to the historic Illa del Rei."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Caldereta de langosta",
+            "tip": "Berühmter menorquinischer Hummereintopf."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Caldereta de langosta",
+            "tip": "Híres menorcai homárleves."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Caldereta de langosta",
+            "tip": "Faimoasa tocană de homar din Menorca."
+          }
+        ],
+        "en": [
+          {
+            "name": "Caldereta de langosta",
+            "tip": "Famous Menorcan lobster stew."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Cala Mesquida",
+            "tip": "Nahegelegener Strand für eine Ruhepause.",
+            "emoji": "🏖️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cala Mesquida",
+            "tip": "Közeli strand egy kis pihenéshez.",
+            "emoji": "🏖️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cala Mesquida",
+            "tip": "Plajă apropiată pentru o pauză de liniște.",
+            "emoji": "🏖️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cala Mesquida",
+            "tip": "Nearby beach for a quiet break.",
+            "emoji": "🏖️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Gin Xoriguer",
+            "tip": "Die grüne Flasche als perfektes Mitbringsel."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Xoriguer gin",
+            "tip": "A zöld üveges gin tökéletes ajándék."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gin Xoriguer",
+            "tip": "Sticla verde este suvenirul perfect."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gin Xoriguer",
+            "tip": "The green bottle is the perfect souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Vermeiden Sie die Einfahrt in die engen Gassen der Altstadt.",
+          "Parken Sie am Hafen oder in den ausgewiesenen Parkhäusern.",
+          "Buchen Sie die Bootsfahrt zur Illa del Rei im Voraus.",
+          "Die Straße nach La Mola ist gut ausgebaut."
+        ],
+        "hu": [
+          "Kerülje el az óváros szűk utcáit autóval.",
+          "Parkoljon a kikötőben vagy kijelölt parkolóházakban.",
+          "Foglalja le előre a hajóutat az Illa del Rei-re.",
+          "A La Mola-hoz vezető út jól kiépített."
+        ],
+        "ro": [
+          "Evitați intrarea cu mașina pe străzile înguste din centrul vechi.",
+          "Parcați în port sau în parcările subterane amenajate.",
+          "Rezervați din timp plimbarea cu barca spre Illa del Rei.",
+          "Drumul spre La Mola este bine întreținut."
+        ],
+        "en": [
+          "Avoid driving into the narrow streets of the old town.",
+          "Park at the harbor or in designated parking garages.",
+          "Book the boat trip to Illa del Rei in advance.",
+          "The road to La Mola is well-maintained."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto besuchen Sie zuerst die beeindruckende Festung La Mola am Hafeneingang. Danach geht es ins Zentrum zum Portal de Sant Roc und für kulinarische Genüsse zum Fischmarkt. Nach einem Besuch der Gin-Destillerie im Hafen krönen Sie den Tag mit einer kurzen Bootsfahrt zur historischen Illa del Rei.",
+            "hu": "Autóval először a kikötő bejáratánál lévő lenyűgöző La Mola erődöt látogatjuk meg. Ezután a központba hajtunk a Portal de Sant Roc-hoz, majd gasztronómiai élvezetekért a halpiacra. A kikötői ginlepárló után a napot egy rövid hajóúttal zárjuk a történelmi Illa del Rei szigetre.",
+            "ro": "Cu mașina vizitați mai întâi impresionanta fortăreață La Mola de la intrarea în port. Apoi mergeți în centru la Portal de Sant Roc și la piața de pește pentru delicii culinare. După o vizită la distileria de gin, încheiați ziua cu o scurtă plimbare cu barca spre istorica Illa del Rei.",
+            "en": "By car, first visit the impressive La Mola fortress at the harbor entrance. Then head to the center to Portal de Sant Roc and for culinary delights at the fish market. After a visit to the gin distillery, crown the day with a short boat trip to the historic Illa del Rei."
+          },
+          "stops": [
+            {
+              "name": "Festung La Mola",
+              "tip_5lang": {
+                "de": "Früh starten, um die Hitze in der Festung zu meiden.",
+                "hu": "Induljon korán, hogy elkerülje a hőséget az erődben.",
+                "ro": "Porniți devreme pentru a evita căldura în fortăreață.",
+                "en": "Start early to avoid the heat in the fortress."
+              }
+            },
+            {
+              "name": "Portal de Sant Roc",
+              "tip_5lang": {
+                "de": "Parken Sie im Parkhaus 'Es Freginal'.",
+                "hu": "Parkoljon az 'Es Freginal' parkolóházban.",
+                "ro": "Parcați în parcarea 'Es Freginal'.",
+                "en": "Park in the 'Es Freginal' parking garage."
+              }
+            },
+            {
+              "name": "Fischmarkt (Mercat del Peix)",
+              "tip_5lang": {
+                "de": "Ideal für ein Tapas-Mittagessen.",
+                "hu": "Ideális hely egy tapas-ebédhez.",
+                "ro": "Ideal pentru un prânz cu tapas.",
+                "en": "Ideal for a tapas lunch."
+              }
+            },
+            {
+              "name": "Gin-Destillerie Xoriguer",
+              "tip_5lang": {
+                "de": "Kostenlose Verkostungen für Beifahrer.",
+                "hu": "Ingyenes kóstoló az utasoknak.",
+                "ro": "Degustări gratuite pentru pasageri.",
+                "en": "Free tastings for passengers."
+              }
+            },
+            {
+              "name": "Illa del Rei",
+              "tip_5lang": {
+                "de": "Das Boot setzt vom 'Moll de l'Hospital' über.",
+                "hu": "A hajó a 'Moll de l'Hospital' mólótól indul.",
+                "ro": "Barca pleacă de la 'Moll de l'Hospital'.",
+                "en": "The boat departs from 'Moll de l'Hospital'."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Caldereta de langosta",
+                "tip": "Berühmter menorquinischer Hummereintopf."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Caldereta de langosta",
+                "tip": "Híres menorcai homárleves."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Caldereta de langosta",
+                "tip": "Faimoasa tocană de homar din Menorca."
+              }
+            ],
+            "en": [
+              {
+                "name": "Caldereta de langosta",
+                "tip": "Famous Menorcan lobster stew."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Cala Mesquida",
+                "tip": "Nahegelegener Strand für eine Ruhepause.",
+                "emoji": "🏖️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Cala Mesquida",
+                "tip": "Közeli strand egy kis pihenéshez.",
+                "emoji": "🏖️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Cala Mesquida",
+                "tip": "Plajă apropiată pentru o pauză de liniște.",
+                "emoji": "🏖️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Cala Mesquida",
+                "tip": "Nearby beach for a quiet break.",
+                "emoji": "🏖️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Gin Xoriguer",
+                "tip": "Die grüne Flasche als perfektes Mitbringsel."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Xoriguer gin",
+                "tip": "A zöld üveges gin tökéletes ajándék."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Gin Xoriguer",
+                "tip": "Sticla verde este suvenirul perfect."
+              }
+            ],
+            "en": [
+              {
+                "name": "Gin Xoriguer",
+                "tip": "The green bottle is the perfect souvenir."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Vermeiden Sie die Einfahrt in die engen Gassen der Altstadt.",
+              "Parken Sie am Hafen oder in den ausgewiesenen Parkhäusern.",
+              "Buchen Sie die Bootsfahrt zur Illa del Rei im Voraus.",
+              "Die Straße nach La Mola ist gut ausgebaut."
+            ],
+            "hu": [
+              "Kerülje el az óváros szűk utcáit autóval.",
+              "Parkoljon a kikötőben vagy kijelölt parkolóházakban.",
+              "Foglalja le előre a hajóutat az Illa del Rei-re.",
+              "A La Mola-hoz vezető út jól kiépített."
+            ],
+            "ro": [
+              "Evitați intrarea cu mașina pe străzile înguste din centrul vechi.",
+              "Parcați în port sau în parcările subterane amenajate.",
+              "Rezervați din timp plimbarea cu barca spre Illa del Rei.",
+              "Drumul spre La Mola este bine întreținut."
+            ],
+            "en": [
+              "Avoid driving into the narrow streets of the old town.",
+              "Park at the harbor or in designated parking garages.",
+              "Book the boat trip to Illa del Rei in advance.",
+              "The road to La Mola is well-maintained."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erreichen Sie die Festung La Mola bequem und trocken, auch wenn der Wind am Kap peitscht. Zurück in der Stadt parken Sie nahe dem Portal de Sant Roc und schlendern kurz zum Fischmarkt für ein gemütliches Mittagessen. Die Illa del Rei lässt sich auch bei Regen besuchen, da die Fähren überdacht sind und das alte Hospital Schutz bietet.",
+            "hu": "Autóval kényelmesen és szárazon érheti el a La Mola erődöt, még ha a szél korbácsolja is a fokot. Visszatérve a városba, parkoljon a Portal de Sant Roc közelében, és ugorjon be a halpiacra egy kellemes ebédre. Az Illa del Rei esőben is látogatható, mivel a kompok fedettek, a régi kórházépület pedig védelmet nyújt.",
+            "ro": "Cu mașina ajungeți la cetatea La Mola confortabil și uscat, chiar dacă vântul bate puternic la cap. Întorși în oraș, parcați lângă Portal de Sant Roc și mergeți scurt până la piața de pește pentru un prânz plăcut. Illa del Rei poate fi vizitată și pe ploaie, deoarece feriboturile sunt acoperite, iar vechiul spital oferă adăpost.",
+            "en": "By car, you can reach La Mola fortress comfortably and dry, even when the wind lashes the cape. Back in the city, park near Portal de Sant Roc and take a short stroll to the fish market for a cozy lunch. Illa del Rei can still be visited in the rain, as the ferries are covered and the old hospital provides shelter."
+          },
+          "stops": [
+            {
+              "name": "Festung La Mola",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz direkt am Eingang, um nass zu werden.",
+                "hu": "Használja a közvetlenül a bejáratnál lévő parkolót az eső elkerülésére.",
+                "ro": "Folosiți parcarea chiar de la intrare pentru a nu vă uda.",
+                "en": "Use the parking lot right at the entrance to avoid getting wet."
+              }
+            },
+            {
+              "name": "Portal de Sant Roc",
+              "tip_5lang": {
+                "de": "Parkhaus 'Es Freginal' ist eine gute, nahe gelegene Option.",
+                "hu": "Az 'Es Freginal' parkolóház jó és közeli opció.",
+                "ro": "Parcarea supraetajată 'Es Freginal' este o opțiune bună în apropiere.",
+                "en": "Parking garage 'Es Freginal' is a good, nearby option."
+              }
+            },
+            {
+              "name": "Fischmarkt (Mercat del Peix)",
+              "tip_5lang": {
+                "de": "Ideal, um das Auto stehen zu lassen und die Markthalle zu genießen.",
+                "hu": "Ideális hely az autó leállítására és a vásárcsarnok élvezetére.",
+                "ro": "Ideal pentru a lăsa mașina și a vă bucura de hala pieței.",
+                "en": "Ideal to leave the car and enjoy the market hall."
+              }
+            },
+            {
+              "name": "Gin-Destillerie Xoriguer",
+              "tip_5lang": {
+                "de": "Kurzer Stopp möglich, aber Parken am Hafen ist oft begrenzt.",
+                "hu": "Rövid megállás lehetséges, de a parkolás a kikötőben korlátozott.",
+                "ro": "Oprire scurtă posibilă, dar parcarea în port este adesea limitată.",
+                "en": "Short stop possible, but parking at the harbor is often limited."
+              }
+            },
+            {
+              "name": "Illa del Rei",
+              "tip_5lang": {
+                "de": "Das Boot zur Insel bietet einen geschlossenen Bereich.",
+                "hu": "A szigetre tartó hajónak van zárt utastere.",
+                "ro": "Barca spre insulă are o zonă închisă.",
+                "en": "The boat to the island has an enclosed area."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Das Parkhaus 'Es Freginal' bietet trockenen Zugang zum Stadtzentrum.",
+              "Vermeiden Sie das Parken in tiefgelegenen Zonen am Hafen bei Starkregen.",
+              "Die Straßen zur La Mola können bei Nässe rutschig sein.",
+              "Nutzen Sie die Fahrtzeit zwischen den Stopps, um sich aufzuwärmen.",
+              "Prüfen Sie die Fährzeiten zur Illa del Rei, da sie wetterabhängig sind."
+            ],
+            "hu": [
+              "Az 'Es Freginal' parkolóház száraz utat biztosít a városközpontba.",
+              "Heves esőben kerülje a mélyebben fekvő parkolóhelyeket a kikötőben.",
+              "A La Mola felé vezető utak csúszósak lehetnek nedvesen.",
+              "Használja ki a megállók közötti utazási időt a felmelegedésre.",
+              "Ellenőrizze az Illa del Rei kompjáratokat, mert időjárásfüggőek."
+            ],
+            "ro": [
+              "Parcarea 'Es Freginal' oferă acces uscat spre centrul orașului.",
+              "Evitați parcarea în zonele joase ale portului în timpul ploilor torențiale.",
+              "Drumurile spre La Mola pot fi alunecoase când sunt ude.",
+              "Folosiți timpul de condus între opriri pentru a vă încălzi.",
+              "Verificați programul feribotului spre Illa del Rei, poate depinde de vreme."
+            ],
+            "en": [
+              "The 'Es Freginal' parking garage offers dry access to the city center.",
+              "Avoid parking in low-lying zones at the harbor during heavy rain.",
+              "The roads to La Mola can be slippery when wet.",
+              "Use the driving time between stops to warm up.",
+              "Check ferry times to Illa del Rei, as they depend on the weather."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Spritztour führt Sie zuerst zur einsamen Festung La Mola, wo die Aussicht auf das Meer grenzenlos scheint. In Maó angekommen, lässt sich die Stadt ohne die sommerliche Hitze entspannt erkunden. Der Ausflug zur Illa del Rei am Nachmittag ist besonders stimmungsvoll, wenn die tiefstehende Sonne die alten Gemäuer verzaubert.",
+            "hu": "A téli autós kirándulás először a magányos La Mola erődhöz viszi, ahol a kilátás a tengerre végtelennek tűnik. Maóba érve a város a nyári hőség nélkül, nyugodtan fedezhető fel. A délutáni kirándulás az Illa del Rei szigetre különösen hangulatos, amikor az alacsonyan járó nap megvilágítja a régi falakat.",
+            "ro": "O plimbare de iarnă vă duce mai întâi la cetatea singuratică La Mola, unde vederea spre mare pare nesfârșită. Ajunși în Maó, orașul poate fi explorat relaxat, fără căldura verii. Excursia la Illa del Rei de după-amiază este deosebit de sugestivă când soarele apune peste zidurile vechi.",
+            "en": "A winter drive takes you first to the lonely La Mola fortress, where the view of the sea seems endless. Once in Maó, the city can be explored in a relaxed way without the summer heat. The afternoon trip to Illa del Rei is particularly atmospheric as the low sun enchants the old buildings."
+          },
+          "stops": [
+            {
+              "name": "Festung La Mola",
+              "tip_5lang": {
+                "de": "Beste Zeit für Panoramafotos ohne Touristenmassen.",
+                "hu": "A legjobb idő a panorámafotókhoz turistaáradat nélkül.",
+                "ro": "Cel mai bun moment pentru poze panoramice fără mulțimi de turiști.",
+                "en": "Best time for panoramic photos without the tourist crowds."
+              }
+            },
+            {
+              "name": "Portal de Sant Roc",
+              "tip_5lang": {
+                "de": "Parkplätze in der blauen Zone sind im Winter leichter zu finden.",
+                "hu": "A kék zónás parkolóhelyek télen könnyebben elérhetőek.",
+                "ro": "Locurile de parcare din zona albastră sunt mai ușor de găsit iarna.",
+                "en": "Parking spaces in the blue zone are easier to find in winter."
+              }
+            },
+            {
+              "name": "Fischmarkt (Mercat del Peix)",
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe und ein Glas Wein im Winterlicht.",
+                "hu": "Élvezze a nyugalmat és egy pohár bort a téli fényben.",
+                "ro": "Bucurați-vă de liniște și de un pahar de vin în lumina iernii.",
+                "en": "Enjoy the tranquility and a glass of wine in the winter light."
+              }
+            },
+            {
+              "name": "Gin-Destillerie Xoriguer",
+              "tip_5lang": {
+                "de": "Kaufen Sie den typischen Gin als Wintervorrat.",
+                "hu": "Vásárolja meg a jellegzetes gint téli készletnek.",
+                "ro": "Cumpărați ginul tipic ca provizie pentru iarnă.",
+                "en": "Buy the signature gin as a winter supply."
+              }
+            },
+            {
+              "name": "Illa del Rei",
+              "tip_5lang": {
+                "de": "Prüfen Sie, ob das Boot im Winter nur am Wochenende fährt.",
+                "hu": "Ellenőrizze, hogy télen csak hétvégén jár-e a hajó.",
+                "ro": "Verificați dacă barca circulă doar în weekend pe timpul iernii.",
+                "en": "Check if the boat only runs on weekends during winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Parken am Hafen ist im Winter meist kostenlos oder deutlich günstiger.",
+              "Die klare Winterluft sorgt für perfekte Sichtverhältnisse auf La Mola.",
+              "Achten Sie auf die verkürzten Fährzeiten zur Illa del Rei.",
+              "Einige Restaurants am Hafen machen im Januar/Februar Betriebsurlaub.",
+              "Die Heizung im Auto ist nach dem zugigen Besuch in La Mola ein Segen."
+            ],
+            "hu": [
+              "A kikötői parkolás télen többnyire ingyenes vagy jóval olcsóbb.",
+              "A tiszta téli levegő tökéletes látási viszonyokat biztosít La Molánál.",
+              "Ügyeljen az Illa del Rei szigetre közlekedő kompok rövidített menetrendjére.",
+              "Néhány kikötői étterem januárban/februárban üzemszünetet tart.",
+              "Az autó fűtése áldás lesz a huzatos La Mola látogatása után."
+            ],
+            "ro": [
+              "Parcarea în port este de obicei gratuită sau mult mai ieftină iarna.",
+              "Aerul curat de iarnă asigură condiții perfecte de vizibilitate la La Mola.",
+              "Atenție la programul redus al feribotului către Illa del Rei.",
+              "Unele restaurante din port sunt închise pentru vacanță în ianuarie/februarie.",
+              "Încălzirea din mașină este o binecuvântare după vizita vântoasă la La Mola."
+            ],
+            "en": [
+              "Parking at the harbor is usually free or much cheaper in winter.",
+              "The clear winter air provides perfect visibility at La Mola.",
+              "Be aware of the reduced ferry times to Illa del Rei.",
+              "Some harbor restaurants close for annual leave in January/February.",
+              "The car's heater will be a blessing after a breezy visit to La Mola."
+            ]
+          }
+        }
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 8.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Kirche Santa Maria",
+          "coords": [
+            4.2648,
+            39.8895
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:20",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Vom Busbahnhof 'Estació d'Autobusos' nur 5 Min. zu Fuß.",
+            "hu": "A buszpályaudvartól csak 5 perc gyalog.",
+            "ro": "La doar 5 minute de mers pe jos de autogară.",
+            "en": "Only 5 minutes walk from the bus station."
+          }
+        },
+        {
+          "name": "Museum von Menorca",
+          "coords": [
+            4.2685,
+            39.8912
+          ],
+          "category": "museums",
+          "arrive_at": "10:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Interaktive Ausstellungen zur Inselgeschichte.",
+            "hu": "Interaktív kiállítások a sziget történetéről.",
+            "ro": "Expoziții interactive despre istoria insulei.",
+            "en": "Interactive exhibitions on the island's history."
+          }
+        },
+        {
+          "name": "Fischmarkt (Mercat del Peix)",
+          "coords": [
+            4.2642,
+            39.8892
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Hier treffen sich Einheimische zum Aperitif.",
+            "hu": "Itt találkoznak a helyiek egy aperitifre.",
+            "ro": "Localnicii se întâlnesc aici pentru aperitiv.",
+            "en": "Locals meet here for an aperitif."
+          }
+        },
+        {
+          "name": "Illa del Rei",
+          "coords": [
+            4.2885,
+            39.8935
+          ],
+          "category": "natural features",
+          "arrive_at": "14:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Das Gelbe Boot (Yellow Catamarans) fährt zur Insel.",
+            "hu": "A 'Sárga Katamarán' visz át a szigetre.",
+            "ro": "Catamaranele galbene oferă transport către insulă.",
+            "en": "The Yellow Catamarans provide transport to the island."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nach der Ankunft am zentralen Busbahnhof erkunden Sie die Oberstadt mit der Kirche Santa Maria und dem Museum. Zum Mittagessen schlendern Sie zum Fischmarkt. Am Nachmittag bringt Sie ein Boot vom Hafen zur Illa del Rei, wo Sie moderne Kunst bei Hauser & Wirth und die Natur der Hafeninsel genießen können.",
+        "hu": "A központi buszpályaudvarra érkezés után felfedezzük a felsővárost a Santa Maria templommal és a múzeummal. Ebédre a halpiac felé vesszük az irányt. Délután egy hajó visz át a kikötőből az Illa del Rei szigetre, ahol a Hauser & Wirth galéria modern művészetét és a természetet élvezhetjük.",
+        "ro": "După sosirea la autogara centrală, explorați orașul de sus cu biserica Santa Maria și muzeul. Pentru prânz, mergeți la piața de pește. După-amiaza, o barcă vă duce din port la Illa del Rei, unde vă puteți bucura de artă modernă la Hauser & Wirth și de natura insulei.",
+        "en": "After arriving at the central bus station, explore the upper town with Santa Maria church and the museum. For lunch, stroll to the fish market. In the afternoon, a boat takes you from the harbor to Illa del Rei, where you can enjoy modern art at Hauser & Wirth and the island's nature."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Mayonnaise",
+            "tip": "Soll ursprünglich aus Mahón kommen (Salsa Mahonesa)."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Majonéz",
+            "tip": "Úgy tartják, Mahónból származik (Salsa Mahonesa)."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Maioneză",
+            "tip": "Se spune că provine inițial din Mahón (Salsa Mahonesa)."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mayonnaise",
+            "tip": "Said to have originated in Mahón (Salsa Mahonesa)."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Passeig Marítim",
+            "tip": "Langer Spaziergang am Hafenbecken.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Passeig Marítim",
+            "tip": "Hosszú séta a kikötő partján.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Passeig Marítim",
+            "tip": "Plimbare lungă pe malul portului.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Passeig Marítim",
+            "tip": "Long walk along the harbor basin.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Ensaimadas",
+            "tip": "Im Karton verpackt für die Heimreise."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ensaimada",
+            "tip": "Dobozba csomagolva hazavihető."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ensaimadas",
+            "tip": "Ambalate în cutii pentru drumul spre casă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ensaimadas",
+            "tip": "Packed in boxes for the journey home."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Buslinie L1 verbindet die wichtigsten Punkte der Stadt.",
+          "Nutzen Sie die Hafenrundfahrt-Boote für einen Überblick.",
+          "Die Busse fahren pünktlich ab dem Hauptbahnhof.",
+          "Am Sonntag sind die Fahrpläne eingeschränkt."
+        ],
+        "hu": [
+          "Az L1-es buszjárat összeköti a város fő pontjait.",
+          "Vegyen részt egy kikötői hajókázáson az áttekintésért.",
+          "A buszok pontosan indulnak a pályaudvarról.",
+          "Vasárnap ritkábban járnak a buszok."
+        ],
+        "ro": [
+          "Linia de autobuz L1 conectează punctele principale ale orașului.",
+          "Folosiți bărcile de tur al portului pentru o vedere de ansamblu.",
+          "Autobuzele pleacă la timp din autogara principală.",
+          "Duminica orarul transportului este redus."
+        ],
+        "en": [
+          "The L1 bus line connects the main points of the city.",
+          "Use the harbor cruise boats for an overview.",
+          "Buses depart on time from the main station.",
+          "Bus schedules are limited on Sundays."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Nach der Ankunft am zentralen Busbahnhof erkunden Sie die Oberstadt mit der Kirche Santa Maria und dem Museum. Zum Mittagessen schlendern Sie zum Fischmarkt. Am Nachmittag bringt Sie ein Boot vom Hafen zur Illa del Rei, wo Sie moderne Kunst bei Hauser & Wirth und die Natur der Hafeninsel genießen können.",
+            "hu": "A központi buszpályaudvarra érkezés után felfedezzük a felsővárost a Santa Maria templommal és a múzeummal. Ebédre a halpiac felé vesszük az irányt. Délután egy hajó visz át a kikötőből az Illa del Rei szigetre, ahol a Hauser & Wirth galéria modern művészetét és a természetet élvezhetjük.",
+            "ro": "După sosirea la autogara centrală, explorați orașul de sus cu biserica Santa Maria și muzeul. Pentru prânz, mergeți la piața de pește. După-amiaza, o barcă vă duce din port la Illa del Rei, unde vă puteți bucura de artă modernă la Hauser & Wirth și de natura insulei.",
+            "en": "After arriving at the central bus station, explore the upper town with Santa Maria church and the museum. For lunch, stroll to the fish market. In the afternoon, a boat takes you from the harbor to Illa del Rei, where you can enjoy modern art at Hauser & Wirth and the island's nature."
+          },
+          "stops": [
+            {
+              "name": "Kirche Santa Maria",
+              "tip_5lang": {
+                "de": "Vom Busbahnhof 'Estació d'Autobusos' nur 5 Min. zu Fuß.",
+                "hu": "A buszpályaudvartól csak 5 perc gyalog.",
+                "ro": "La doar 5 minute de mers pe jos de autogară.",
+                "en": "Only 5 minutes walk from the bus station."
+              }
+            },
+            {
+              "name": "Museum von Menorca",
+              "tip_5lang": {
+                "de": "Interaktive Ausstellungen zur Inselgeschichte.",
+                "hu": "Interaktív kiállítások a sziget történetéről.",
+                "ro": "Expoziții interactive despre istoria insulei.",
+                "en": "Interactive exhibitions on the island's history."
+              }
+            },
+            {
+              "name": "Fischmarkt (Mercat del Peix)",
+              "tip_5lang": {
+                "de": "Hier treffen sich Einheimische zum Aperitif.",
+                "hu": "Itt találkoznak a helyiek egy aperitifre.",
+                "ro": "Localnicii se întâlnesc aici pentru aperitiv.",
+                "en": "Locals meet here for an aperitif."
+              }
+            },
+            {
+              "name": "Illa del Rei",
+              "tip_5lang": {
+                "de": "Das Gelbe Boot (Yellow Catamarans) fährt zur Insel.",
+                "hu": "A 'Sárga Katamarán' visz át a szigetre.",
+                "ro": "Catamaranele galbene oferă transport către insulă.",
+                "en": "The Yellow Catamarans provide transport to the island."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Mayonnaise",
+                "tip": "Soll ursprünglich aus Mahón kommen (Salsa Mahonesa)."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Majonéz",
+                "tip": "Úgy tartják, Mahónból származik (Salsa Mahonesa)."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Maioneză",
+                "tip": "Se spune că provine inițial din Mahón (Salsa Mahonesa)."
+              }
+            ],
+            "en": [
+              {
+                "name": "Mayonnaise",
+                "tip": "Said to have originated in Mahón (Salsa Mahonesa)."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Passeig Marítim",
+                "tip": "Langer Spaziergang am Hafenbecken.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Passeig Marítim",
+                "tip": "Hosszú séta a kikötő partján.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Passeig Marítim",
+                "tip": "Plimbare lungă pe malul portului.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Passeig Marítim",
+                "tip": "Long walk along the harbor basin.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Ensaimadas",
+                "tip": "Im Karton verpackt für die Heimreise."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Ensaimada",
+                "tip": "Dobozba csomagolva hazavihető."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Ensaimadas",
+                "tip": "Ambalate în cutii pentru drumul spre casă."
+              }
+            ],
+            "en": [
+              {
+                "name": "Ensaimadas",
+                "tip": "Packed in boxes for the journey home."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Die Buslinie L1 verbindet die wichtigsten Punkte der Stadt.",
+              "Nutzen Sie die Hafenrundfahrt-Boote für einen Überblick.",
+              "Die Busse fahren pünktlich ab dem Hauptbahnhof.",
+              "Am Sonntag sind die Fahrpläne eingeschränkt."
+            ],
+            "hu": [
+              "Az L1-es buszjárat összeköti a város fő pontjait.",
+              "Vegyen részt egy kikötői hajókázáson az áttekintésért.",
+              "A buszok pontosan indulnak a pályaudvarról.",
+              "Vasárnap ritkábban járnak a buszok."
+            ],
+            "ro": [
+              "Linia de autobuz L1 conectează punctele principale ale orașului.",
+              "Folosiți bărcile de tur al portului pentru o vedere de ansamblu.",
+              "Autobuzele pleacă la timp din autogara principală.",
+              "Duminica orarul transportului este redus."
+            ],
+            "en": [
+              "The L1 bus line connects the main points of the city.",
+              "Use the harbor cruise boats for an overview.",
+              "Buses depart on time from the main station.",
+              "Bus schedules are limited on Sundays."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie das dichte Busnetz von Maó, um trocken zwischen den Sehenswürdigkeiten zu pendeln. Starten Sie an der Kirche Santa Maria im Stadtzentrum und nehmen Sie den Bus zum Museum von Menorca. Nach einer Stärkung am Fischmarkt bringt Sie die Hafenlinie direkt zum Anleger der Illa del Rei, wo das überdachte Boot wartet.",
+            "hu": "Használja Maó sűrű buszhálózatát, hogy szárazon közlekedhessen a látnivalók között. Kezdjen a belvárosi Santa Maria templomnál, majd pattanjon buszra a Menorca Múzeum felé. A halpiacon elköltött ebéd után a kikötői buszjárat egyenesen az Illa del Rei komphajójához viszi.",
+            "ro": "Folosiți rețeaua densă de autobuze din Maó pentru a naviga uscat între obiective. Începeți la biserica Santa Maria din centru și luați autobuzul spre Muzeul din Menorca. După o masă la piața de pește, linia portului vă duce direct la debarcaderul spre Illa del Rei.",
+            "en": "Use Maó's dense bus network to commute dryly between sights. Start at Santa Maria Church in the city center and take a bus to the Museum of Menorca. After refueling at the fish market, the harbor line takes you directly to the Illa del Rei ferry landing."
+          },
+          "stops": [
+            {
+              "name": "Kirche Santa Maria",
+              "tip_5lang": {
+                "de": "Zentrale Bushaltestelle 'Plaça de s'Esplanada' ist nur 5 Gehminuten entfernt.",
+                "hu": "A központi 'Plaça de s'Esplanada' buszmegálló 5 perc séta.",
+                "ro": "Stația centrală 'Plaça de s'Esplanada' este la 5 minute de mers.",
+                "en": "Central bus stop 'Plaça de s'Esplanada' is a 5-minute walk away."
+              }
+            },
+            {
+              "name": "Museum von Menorca",
+              "tip_5lang": {
+                "de": "Der Bus hält fast direkt vor dem ehemaligen Kloster.",
+                "hu": "A busz szinte közvetlenül az egykori kolostor előtt áll meg.",
+                "ro": "Autobuzul oprește aproape direct în fața fostei mănăstiri.",
+                "en": "The bus stops almost directly in front of the former convent."
+              }
+            },
+            {
+              "name": "Fischmarkt (Mercat del Peix)",
+              "tip_5lang": {
+                "de": "Verbinden Sie den Besuch mit der Busfahrt hinunter zum Hafen.",
+                "hu": "Kösse össze a látogatást a kikötőbe tartó buszozással.",
+                "ro": "Combinați vizita cu drumul cu autobuzul spre port.",
+                "en": "Combine the visit with the bus ride down to the harbor."
+              }
+            },
+            {
+              "name": "Illa del Rei",
+              "tip_5lang": {
+                "de": "Der Bus bringt Sie direkt zum Hafen, wo die Fähre ablegt.",
+                "hu": "A busz közvetlenül a kikötőbe visz, ahonnan a komp indul.",
+                "ro": "Autobuzul vă duce direct în port, de unde pleacă feribotul.",
+                "en": "The bus takes you directly to the harbor for the ferry."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kaufen Sie eine Mehrfahrtenkarte direkt beim Busfahrer.",
+              "Die App 'TIB Menorca' zeigt Echtzeit-Abfahrten bei Regen an.",
+              "Haupthalt für alle Linien ist der Busbahnhof an der Explanada.",
+              "Die Busse sind im Winter gut beheizt.",
+              "Nutzen Sie die Hafenlinie (L15), um steile Wege im Regen zu vermeiden."
+            ],
+            "hu": [
+              "Vásároljon gyűjtőjegyet közvetlenül a buszsofőrnél.",
+              "A 'TIB Menorca' alkalmazás valós idejű indulásokat mutat esőben is.",
+              "Minden járat fő megállója az Explanada melletti buszpályaudvar.",
+              "A buszok télen jól fűtöttek.",
+              "Használja a kikötői járatot (L15), hogy elkerülje a meredek utakat esőben."
+            ],
+            "ro": [
+              "Cumpărați un bilet cu mai multe călătorii direct de la șofer.",
+              "Aplicația 'TIB Menorca' arată plecările în timp real pe ploaie.",
+              "Stația principală pentru toate liniile este autogara de la Explanada.",
+              "Autobuzele sunt bine încălzite în timpul iernii.",
+              "Folosiți linia portului (L15) pentru a evita drumurile abrupte pe ploaie."
+            ],
+            "en": [
+              "Purchase a multi-trip card directly from the bus driver.",
+              "The 'TIB Menorca' app shows real-time departures during rain.",
+              "The main hub for all lines is the bus station at Explanada.",
+              "Buses are well-heated during the winter months.",
+              "Use the harbor line (L15) to avoid steep walks in the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie Maó entspannt mit dem Bus, der Sie direkt zum Herzen der Altstadt an der Kirche Santa Maria bringt. Im Winter genießen Sie die kurzen Wege zwischen den warmen Bussen und den Museen. Den Tag lassen Sie am Hafen ausklingen, den Sie bequem mit der Hafenlinie erreichen, bevor der frühe Winterabend einsetzt.",
+            "hu": "Fedezze fel Maót kényelmesen busszal, amely egyenesen az óváros szívébe, a Santa Maria templomhoz viszi. Télen élvezze a rövid sétákat a fűtött buszok és a múzeumok között. A napot a kikötőben zárhatja, ahová könnyen eljuthat a kikötői járattal, még mielőtt beköszönt a korai téli este.",
+            "ro": "Explorați Maó relaxat cu autobuzul, care vă lasă direct în inima orașului vechi, la biserica Santa Maria. Iarna, bucurați-vă de distanțele scurte între autobuzele calde și muzee. Încheiați ziua în port, unde puteți ajunge ușor cu linia portului înainte de lăsarea serii timpurii de iarnă.",
+            "en": "Explore Maó in a relaxed way by bus, taking you straight to the heart of the old town at Santa Maria Church. In winter, enjoy the short distances between the warm buses and the museums. End your day at the harbor, easily reached by the harbor line before the early winter evening sets in."
+          },
+          "stops": [
+            {
+              "name": "Kirche Santa Maria",
+              "tip_5lang": {
+                "de": "Zentrale Lage, von fast allen Stadtlinien angefahren.",
+                "hu": "Központi elhelyezkedés, szinte minden városi járat érinti.",
+                "ro": "Locație centrală, deservită de aproape toate liniile urbane.",
+                "en": "Central location, served by almost all city bus lines."
+              }
+            },
+            {
+              "name": "Museum von Menorca",
+              "tip_5lang": {
+                "de": "Ein kurzer Fußweg von der Bushaltestelle durch die ruhige Winterstadt.",
+                "hu": "Rövid séta a buszmegállótól a csendes téli városon át.",
+                "ro": "O scurtă plimbare de la stație prin orașul liniștit de iarnă.",
+                "en": "A short walk from the bus stop through the quiet winter town."
+              }
+            },
+            {
+              "name": "Fischmarkt (Mercat del Peix)",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Aufzug am Hafen, falls der Bus nicht direkt hält.",
+                "hu": "Használja a kikötői liftet, ha a busz nem áll meg közvetlenül.",
+                "ro": "Folosiți liftul din port dacă autobuzul nu oprește direct.",
+                "en": "Use the harbor elevator if the bus doesn't stop directly."
+              }
+            },
+            {
+              "name": "Illa del Rei",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Winter-Fahrplan der Hafenbusse genau.",
+                "hu": "Ellenőrizze pontosan a kikötői buszok téli menetrendjét.",
+                "ro": "Verificați cu atenție programul de iarnă al autobuzelor din port.",
+                "en": "Check the winter schedule of the harbor buses carefully."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Fahrpläne sind im Winter etwas ausgedünnt, planen Sie Pufferzeiten ein.",
+              "Der Busbahnhof bietet einen warmen Wartesaal.",
+              "Nutzen Sie die Gelegenheit, mit Einheimischen im Bus ins Gespräch zu kommen.",
+              "Die Hafenlinie (L15) ist ideal, um die windigen Hänge zu umgehen.",
+              "Hinterlegen Sie Ihr Gepäck ggf. in den Schließfächern am Busbahnhof."
+            ],
+            "hu": [
+              "A menetrend télen ritkább, tervezzen be némi várakozási időt.",
+              "A buszpályaudvarnak van fűtött váróterme.",
+              "Használja ki az alkalmat, hogy beszélgessen a helyiekkel a buszon.",
+              "A kikötői járat (L15) ideális a szeles domboldalak elkerülésére.",
+              "Szükség esetén hagyja csomagjait a buszpályaudvar megőrzőjében."
+            ],
+            "ro": [
+              "Orarele sunt mai rare iarna, planificați timpi de așteptare.",
+              "Autogara oferă o sală de așteptare încălzită.",
+              "Folosiți ocazia pentru a intra în vorbă cu localnicii în autobuz.",
+              "Linia portului (L15) este ideală pentru a evita versanții vântoși.",
+              "Lăsați-vă bagajele în dulapurile din autogară dacă este necesar."
+            ],
+            "en": [
+              "Schedules are slightly reduced in winter, plan for some buffer time.",
+              "The bus station offers a warm waiting room.",
+              "Take the opportunity to chat with locals on the bus.",
+              "The harbor line (L15) is ideal for bypassing the windy slopes.",
+              "Store your luggage in the lockers at the bus station if needed."
+            ]
+          }
+        }
+      }
+    }
+  },
+  "external_resources": {
+    "tourism_office": "https://www.menorca.es/",
+    "transit_official": "https://www.tib.org/",
+    "museum_tickets": "https://www.museudemenorca.com/",
+    "language_tips": {
+      "de": "In Maó (Mahón) sprechen Einheimische Menorquí (Katalanisch) und Spanisch. Englisch ist im Hafen verbreitet, ein 'Bon dia' öffnet aber Türen. Deutsch versteht man in Touristenrestaurants meist nicht.",
+      "hu": "Maóban menorcai katalánul és spanyolul beszélnek, a kikötőben angolul is. Egy 'bon dia' köszönés kedves gesztus a helyiek felé. Magyarul senki nem ért, készülj angol vagy spanyol alaptudással.",
+      "ro": "În Maó se vorbește catalană menorchină și spaniolă, iar în port se descurcă și cu engleza. Un 'bon dia' îți deschide ușa la localnici. Româna nu e cunoscută, pregătește engleză sau spaniolă de bază.",
+      "en": "Locals speak Menorquí (Catalan) and Spanish; English works in the port and tourist spots. A friendly 'bon dia' goes a long way with locals. Don't expect German or French outside hotels."
+    },
+    "best_time_to_visit": {
+      "de": "Mai-Juni und September sind ideal: 22-28°C, leere Strände, Hafenrestaurants offen. Juli-August ist heiß und voll, Winter mild aber viele Schließungen.",
+      "hu": "Május-június és szeptember a legjobb: 22-28°C, üres strandok, nyitva tartó kikötői éttermek. Július-augusztus forró és zsúfolt, télen enyhe, de sok hely zárva.",
+      "ro": "Mai-iunie și septembrie sunt ideale: 22-28°C, plaje libere, restaurante deschise în port. Iulie-august e fierbinte și aglomerat, iarna e blândă dar multe locuri închise.",
+      "en": "May-June and September are ideal: 22-28°C, empty beaches, open harbour restaurants. July-August is hot and packed; winter is mild but many places shut."
+    },
+    "neighborhood_warnings": {
+      "de": "Maó ist sehr sicher, auch nachts am Hafen. Taschendiebe nur in der Hochsaison auf belebten Plätzen. Mietwagen niemals mit Wertsachen sichtbar parken.",
+      "hu": "Maó nagyon biztonságos, éjjel is sétálhatsz a kikötőben. Zsebtolvajok csak főszezonban, forgalmas tereken jelennek meg. Bérautóba sose hagyj látható értéket.",
+      "ro": "Maó e foarte sigur, inclusiv noaptea în port. Hoții de buzunare apar doar în vârf de sezon, în piețe aglomerate. Nu lăsa nimic vizibil în mașina închiriată.",
+      "en": "Maó is very safe, even at night by the harbour. Pickpockets only in peak season at busy plazas. Never leave valuables visible in a rental car."
+    }
+  }
+}

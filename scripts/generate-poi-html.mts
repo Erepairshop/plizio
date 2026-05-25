@@ -250,6 +250,14 @@ const TYPE_ALIAS: Record<string, string> = {
   forest: "nature", island: "nature", sea: "nature", bay: "nature",
 };
 
+// PlizioGo POI ID set — these get "PlizioGo" branding instead of "Plizio Visual Lab".
+const PLIZIOGO_SET: Set<string> = (() => {
+  try {
+    const p = path.resolve(process.cwd(), "scripts", "_pliziogo_slugs.json");
+    return new Set(JSON.parse(fs.readFileSync(p, "utf-8")) as string[]);
+  } catch { return new Set(); }
+})();
+
 function buildPoiTitle(name: string, poi: POI, lang: Lang): string {
   const bucket = TYPE_ALIAS[poi.type] || (TITLE_KEYWORDS[poi.type] ? poi.type : "landmark");
   const kw = TITLE_KEYWORDS[bucket]?.[lang] || TITLE_KEYWORDS.landmark[lang] || TITLE_KEYWORDS.landmark.en!;
@@ -263,7 +271,7 @@ function buildPoiTitle(name: string, poi: POI, lang: Lang): string {
       || "";
   }
   const showState = stateName && stateName.toLowerCase() !== name.toLowerCase();
-  const SUFFIX = " | Plizio";
+  const SUFFIX = PLIZIOGO_SET.has(poi.id) ? " | PlizioGo" : " | Plizio";
   const MAX = 70;
   const tryBuild = (withState: boolean, n: number): string => {
     const kws = kw.slice(0, n).join(", ");
@@ -286,6 +294,22 @@ function hasIndexableContent(poi: POI): boolean {
   }
   return false;
 }
+
+// AdSense eligibility: only show ads on pages with genuinely rich content.
+// Criteria: PlizioGo POI OR (descriptionAdvanced ≥500 chars in current lang AND facts/factsAdvanced present).
+function isAdSenseEligible(poi: POI, lang: Lang): boolean {
+  if (PLIZIOGO_SET.has(poi.id)) return true;
+  const descAdv = (poi as { descriptionAdvanced?: Record<string, string> }).descriptionAdvanced;
+  const factsAdv = (poi as { factsAdvanced?: Record<string, string[]> }).factsAdvanced;
+  const facts = poi.facts as Record<string, string[]> | undefined;
+  const da = descAdv?.[lang] || "";
+  if (da.length < 500) return false;
+  const fa = factsAdv?.[lang] || facts?.[lang];
+  if (!Array.isArray(fa) || fa.length < 4) return false;
+  return true;
+}
+const ADSENSE_HEAD = `<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9658871334491770" crossorigin="anonymous"></script>
+<meta name="google-adsense-account" content="ca-pub-9658871334491770">`;
 
 function getPoiAlternates(poi: POI): Record<string, string> {
   // FR POIs get an extra fr alternate; DE POIs get an extra tr (Turkish residents).
@@ -754,17 +778,27 @@ function renderCityItinerary(poi: POI, lang: Lang): string {
     k === "follow" ? "noopener"
     : k === "sponsored" ? "sponsored nofollow noopener"
     : "nofollow noopener";
+  // Pick first valid URL from value (string OR object whose values are URLs).
+  function firstUrl(v: any): string | null {
+    if (typeof v === "string" && /^https?:\/\//.test(v) && v.length >= 10) return v;
+    if (v && typeof v === "object") {
+      for (const x of Object.values(v)) {
+        if (typeof x === "string" && /^https?:\/\//.test(x) && x.length >= 10) return x;
+      }
+    }
+    return null;
+  }
   const resCells = resRows.map(([k, emoji, label, rk]) => {
-    const u = er[k];
-    if (!u || typeof u !== "string") return "";
-    if (!/^https?:\/\//.test(u)) return "";
-    if (u.length < 10) return "";
+    const u = firstUrl(er[k]);
+    if (!u) return "";
     return `<a class="plz-itin-res-cell" href="${escapeHtml(u)}" target="_blank" rel="${relAttr(rk)}"><span class="plz-itin-res-icon">${emoji}</span><span>${escapeHtml(label)}</span></a>`;
   }).filter(Boolean).join("");
   const resGrid = resCells ? `<div class="plz-itin-res-grid">${resCells}</div>` : "";
   const best = (er.best_time_to_visit || {})[lang] || "";
   const warn = (er.neighborhood_warnings || {})[lang] || "";
-  const langT = (er.language_tips || {})[lang] || "";
+  // language_tips must be a real sentence (not just a 1-word language name like "Horvát").
+  const rawLangT = (er.language_tips || {})[lang] || "";
+  const langT = rawLangT.length >= 25 ? rawLangT : "";
   const infoBlocks: string[] = [];
   if (best) infoBlocks.push(`<div class="plz-itin-info"><h3>${C.bestTime}</h3><p>${escapeHtml(best)}</p></div>`);
   if (warn) infoBlocks.push(`<div class="plz-itin-info plz-itin-warn"><h3>${C.warnings}</h3><p>${escapeHtml(warn)}</p></div>`);
@@ -1103,6 +1137,7 @@ ${hreflangLinks}
 <meta property="og:url" content="${url}"/>
 <meta property="og:type" content="website"/>
 ${poi.image ? `<meta property="og:image" content="${SITE_URL}${escapeHtml(poi.image)}"/>` : ""}
+${isAdSenseEligible(poi, lang) ? ADSENSE_HEAD : ""}
 <link rel="stylesheet" href="/poi-static/poi.css?v=20260524i"/>
 ${structuredData(poi, lang, url, metaDesc, countryId, countrySlugFor(lang, countryId).replace(/-/g, " "), faqItems, [
   { name: I("home", lang), url: `/${lang}/` },
@@ -1126,7 +1161,7 @@ ${structuredData(poi, lang, url, metaDesc, countryId, countrySlugFor(lang, count
   <nav class="plz-breadcrumb">
     ${breadcrumbHome}<span>›</span>${breadcrumbCountry}${breadcrumbState ? `<span>›</span>${breadcrumbState}` : ""}<span>›</span><span>${escapeHtml(name)}</span>
   </nav>
-  <div class="plz-title-row">${coaHtml}<div><p class="plz-eyebrow">Plizio Visual Lab</p><h1>${escapeHtml(name)}</h1></div></div>
+  <div class="plz-title-row">${coaHtml}<div><p class="plz-eyebrow">${PLIZIOGO_SET.has(poi.id) ? "PlizioGo" : "Plizio Visual Lab"}</p><h1>${escapeHtml(name)}</h1></div></div>
   <span class="plz-type-tag">${escapeHtml(typeLabel)}</span>
   ${audioHtml}
   <div class="plz-hero-grid">
@@ -1376,6 +1411,7 @@ ${hreflangLinks}
 <meta property="og:description" content="${escapeHtml(metaDesc)}"/>
 <meta property="og:url" content="${sightUrl}"/>
 <meta property="og:type" content="article"/>
+${isAdSenseEligible(poi, lang) ? ADSENSE_HEAD : ""}
 <link rel="stylesheet" href="/poi-static/poi.css?v=20260524i"/>
 <style>
 .plz-sp-back{display:inline-flex;align-items:center;gap:.4rem;color:#4cc;text-decoration:none;font-size:.85rem;margin-bottom:.5rem}

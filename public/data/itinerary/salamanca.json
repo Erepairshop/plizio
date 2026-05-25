@@ -1,0 +1,3066 @@
+{
+  "city_id": "salamanca",
+  "anchor": {
+    "name": "Plaza Mayor",
+    "coords": [
+      -5.6641,
+      40.965
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 2.8,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Plaza Mayor",
+            "hu": "Plaza Mayor",
+            "ro": "Plaza Mayor",
+            "en": "Plaza Mayor"
+          },
+          "coords": [
+            -5.6641,
+            40.965
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Frühstücken Sie unter den Arkaden.",
+            "hu": "Reggelizz az árkádok alatt.",
+            "ro": "Luați micul dejun sub arcade.",
+            "en": "Have breakfast under the arches."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa de las Conchas",
+            "hu": "Kagylós ház",
+            "ro": "Casa de las Conchas",
+            "en": "House of Shells"
+          },
+          "coords": [
+            -5.6662,
+            40.9631
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:05",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Zählen Sie die Muscheln an der Fassade.",
+            "hu": "Számold meg a kagylókat a homlokzaton.",
+            "ro": "Numărați scoicile de pe fațadă.",
+            "en": "Count the shells on the facade."
+          }
+        },
+        {
+          "name": {
+            "de": "La Clerecía",
+            "hu": "La Clerecía",
+            "ro": "La Clerecía",
+            "en": "La Clerecia"
+          },
+          "coords": [
+            -5.6665,
+            40.963
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:40",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Besteigen Sie die Türme für die Aussicht.",
+            "hu": "Mássz fel a tornyokba a kilátásért.",
+            "ro": "Urcați în turnuri pentru priveliște.",
+            "en": "Climb the towers for the best view."
+          }
+        },
+        {
+          "name": {
+            "de": "Universität von Salamanca",
+            "hu": "Salamancai Egyetem",
+            "ro": "Universitatea din Salamanca",
+            "en": "University of Salamanca"
+          },
+          "coords": [
+            -5.6675,
+            40.9615
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "11:45",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Suchen Sie den Frosch an der Fassade.",
+            "hu": "Keresd meg a békát a homlokzaton.",
+            "ro": "Căutați broasca de pe fațadă.",
+            "en": "Find the frog on the facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Catedral Nueva & Vieja",
+            "hu": "Új és Régi Székesegyház",
+            "ro": "Catedrala Nouă și Veche",
+            "en": "New and Old Cathedrals"
+          },
+          "coords": [
+            -5.666,
+            40.9605
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Suchen Sie den Astronauten am Portal.",
+            "hu": "Keresd az űrhajóst a kapunál.",
+            "ro": "Căutați astronautul la poartă.",
+            "en": "Look for the astronaut at the portal."
+          }
+        },
+        {
+          "name": {
+            "de": "Huerto de Calixto y Melibea",
+            "hu": "Kalisztó és Melibea kertje",
+            "ro": "Grădina Calixto și Melibea",
+            "en": "Garden of Calixto and Melibea"
+          },
+          "coords": [
+            -5.6645,
+            40.96
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein romantischer Ort zum Ausruhen.",
+            "hu": "Romantikus hely a pihenéshez.",
+            "ro": "Un loc romantic pentru odihnă.",
+            "en": "A romantic spot for a short break."
+          }
+        },
+        {
+          "name": {
+            "de": "Convento de San Esteban",
+            "hu": "Szent István kolostor",
+            "ro": "Conventul San Esteban",
+            "en": "Convent of San Esteban"
+          },
+          "coords": [
+            -5.662,
+            40.9615
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:15",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie das platereske Portal.",
+            "hu": "Csodáld meg a platereszk kaput.",
+            "ro": "Admirați portalul plateresc.",
+            "en": "Admire the Plateresque portal."
+          }
+        },
+        {
+          "name": {
+            "de": "Puente Romano",
+            "hu": "Római híd",
+            "ro": "Podul Roman",
+            "en": "Roman Bridge"
+          },
+          "coords": [
+            -5.6667,
+            40.9575
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "17:20",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Perfekt für Fotos bei Sonnenuntergang.",
+            "hu": "Tökéletes fotóhelyszín naplementekor.",
+            "ro": "Perfect pentru fotografii la apus.",
+            "en": "Perfect for sunset photos."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag auf der prächtigen Plaza Mayor, dem Herzen der Stadt. Erkunden Sie das historische Zentrum mit der Casa de las Conchas und den majestätischen Kathedralen. Mittags tauchen Sie in die akademische Geschichte der ältesten Universität Spaniens ein. Der Nachmittag gehört der Stille in den Gärten von Calixto und dem beeindruckenden San Esteban Kloster, bevor Sie den Tag am Ufer des Tormes an der römischen Brücke ausklingen lassen.",
+        "hu": "Kezdd a napot a fenséges Plaza Mayoron, a város szívében. Fedezd fel a történelmi központot a Kagylós házzal és a monumentális székesegyházakkal. Délben merülj el Spanyolország legrégebbi egyetemének akadémiai világában. A délután a nyugalomé Calixto kertjében és a lenyűgöző San Esteban kolostorban, mielőtt a napot a Tormes-folyó partján, a római hídnál zárnád.",
+        "ro": "Începeți ziua în magnifica Plaza Mayor, inima orașului. Explorați centrul istoric cu Casa de las Conchas și catedralele maiestuoase. La prânz, scufundați-vă în istoria academică a celei mai vechi universități din Spania. După-amiaza aparține liniștii din grădinile Calixto și impresionantului convent San Esteban, înainte de a încheia ziua pe malul râului Tormes, la podul roman.",
+        "en": "Start your day at the magnificent Plaza Mayor, the heart of the city. Explore the historic center including the House of Shells and the majestic cathedrals. At midday, dive into the academic history of Spain's oldest university. The afternoon is for tranquility in the Calixto garden and the impressive San Esteban convent, before finishing your day at the banks of the Tormes river by the Roman bridge."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Hornazo",
+            "tip": "Herzhafter Fleischkuchen aus Salamanca."
+          },
+          {
+            "name": "Corte y Cata",
+            "tip": "Hervorragender Schinken (Jamón de Guijuelo)."
+          },
+          {
+            "name": "Bambú",
+            "tip": "Kreative Tapas direkt an der Plaza Mayor."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hornazo",
+            "tip": "Hússal töltött sós pite, helyi specialitás."
+          },
+          {
+            "name": "Corte y Cata",
+            "tip": "Kiváló sonka (Jamón de Guijuelo)."
+          },
+          {
+            "name": "Bambú",
+            "tip": "Kreatív tapasok a Plaza Mayor mellett."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Hornazo",
+            "tip": "Plăcintă sărată cu carne, specifică regiunii."
+          },
+          {
+            "name": "Corte y Cata",
+            "tip": "Șuncă excelentă (Jamón de Guijuelo)."
+          },
+          {
+            "name": "Bambú",
+            "tip": "Tapas creative chiar lângă Plaza Mayor."
+          }
+        ],
+        "en": [
+          {
+            "name": "Hornazo",
+            "tip": "Savory meat-filled pie, a local specialty."
+          },
+          {
+            "name": "Corte y Cata",
+            "tip": "Excellent ham (Jamón de Guijuelo)."
+          },
+          {
+            "name": "Bambú",
+            "tip": "Creative tapas right by Plaza Mayor."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Huerto de Calixto y Melibea",
+            "tip": "Ein verträumter Garten mit Stadtmauer-Blick.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "Tormes-Ufer",
+            "tip": "Ruhiger Spaziergang entlang des Flusses.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "San Esteban Kreuzgang",
+            "tip": "Stille und Architektur genießen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kalisztó és Melibea kertje",
+            "tip": "Álomszerű kert kilátással a városfalra.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "Tormes-part",
+            "tip": "Csendes séta a folyó mentén.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "San Esteban kerengő",
+            "tip": "Élvezd a csendet és az építészetet.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Calixto și Melibea",
+            "tip": "O grădină de poveste cu vedere la zidul cetății.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "Malul Tormes",
+            "tip": "O plimbare liniștită de-a lungul râului.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Claustrul San Esteban",
+            "tip": "Bucurați-vă de liniște și arhitectură.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Garden of Calixto and Melibea",
+            "tip": "A dreamy garden with views of the city walls.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "Tormes Banks",
+            "tip": "Quiet walk along the river.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "San Esteban Cloister",
+            "tip": "Enjoy silence and architecture.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mercado Central",
+            "tip": "Frische lokale Produkte und Käse."
+          },
+          {
+            "name": "Calle Toro",
+            "tip": "Haupteinkaufsstraße mit bekannten Marken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mercado Central",
+            "tip": "Friss helyi termékek és sajtok."
+          },
+          {
+            "name": "Calle Toro",
+            "tip": "Fő bevásárlóutca ismert márkákkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mercado Central",
+            "tip": "Produse locale proaspete și brânzeturi."
+          },
+          {
+            "name": "Calle Toro",
+            "tip": "Strada principală de cumpărături."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mercado Central",
+            "tip": "Fresh local products and cheeses."
+          },
+          {
+            "name": "Calle Toro",
+            "tip": "Main shopping street with major brands."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Salamanca ist ideal zu Fuß zu erkunden, da fast alles im Zentrum liegt.",
+          "Besuchen Sie die Plaza Mayor sowohl am Tag als auch beleuchtet bei Nacht.",
+          "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster der Altstadt.",
+          "Die meisten Sehenswürdigkeiten bieten ermäßigte Preise für Studenten an.",
+          "Probieren Sie den lokalen Wein aus den Arribes del Duero."
+        ],
+        "hu": [
+          "Salamanca gyalogosan fedezhető fel legjobban, minden a központban van.",
+          "Nézd meg a Plaza Mayort nappal és kivilágítva éjszaka is.",
+          "Viselj kényelmes cipőt az óváros macskaköves utcáihoz.",
+          "A legtöbb látnivalónál van kedvezményes diákjegy.",
+          "Kóstold meg az Arribes del Duero régió helyi borait."
+        ],
+        "ro": [
+          "Salamanca este ideal de explorat pe jos, totul fiind în centru.",
+          "Vizitați Plaza Mayor atât ziua, cât și iluminată noaptea.",
+          "Purtați încălțăminte confortabilă pentru străzile pietruite.",
+          "Majoritatea obiectivelor oferă prețuri reduse pentru studenți.",
+          "Gustați vinul local din regiunea Arribes del Duero."
+        ],
+        "en": [
+          "Salamanca is best explored on foot as everything is in the center.",
+          "Visit Plaza Mayor both during the day and lit up at night.",
+          "Wear comfortable shoes for the cobblestone streets of the old town.",
+          "Most sights offer discounted tickets for students.",
+          "Try the local wine from the Arribes del Duero region."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag auf der prächtigen Plaza Mayor, dem Herzen der Stadt. Erkunden Sie das historische Zentrum mit der Casa de las Conchas und den majestätischen Kathedralen. Mittags tauchen Sie in die akademische Geschichte der ältesten Universität Spaniens ein. Der Nachmittag gehört der Stille in den Gärten von Calixto und dem beeindruckenden San Esteban Kloster, bevor Sie den Tag am Ufer des Tormes an der römischen Brücke ausklingen lassen.",
+            "hu": "Kezdd a napot a fenséges Plaza Mayoron, a város szívében. Fedezd fel a történelmi központot a Kagylós házzal és a monumentális székesegyházakkal. Délben merülj el Spanyolország legrégebbi egyetemének akadémiai világában. A délután a nyugalomé Calixto kertjében és a lenyűgöző San Esteban kolostorban, mielőtt a napot a Tormes-folyó partján, a római hídnál zárnád.",
+            "ro": "Începeți ziua în magnifica Plaza Mayor, inima orașului. Explorați centrul istoric cu Casa de las Conchas și catedralele maiestuoase. La prânz, scufundați-vă în istoria academică a celei mai vechi universități din Spania. După-amiaza aparține liniștii din grădinile Calixto și impresionantului convent San Esteban, înainte de a încheia ziua pe malul râului Tormes, la podul roman.",
+            "en": "Start your day at the magnificent Plaza Mayor, the heart of the city. Explore the historic center including the House of Shells and the majestic cathedrals. At midday, dive into the academic history of Spain's oldest university. The afternoon is for tranquility in the Calixto garden and the impressive San Esteban convent, before finishing your day at the banks of the Tormes river by the Roman bridge."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Plaza Mayor",
+                "hu": "Plaza Mayor",
+                "ro": "Plaza Mayor",
+                "en": "Plaza Mayor"
+              },
+              "tip_5lang": {
+                "de": "Frühstücken Sie unter den Arkaden.",
+                "hu": "Reggelizz az árkádok alatt.",
+                "ro": "Luați micul dejun sub arcade.",
+                "en": "Have breakfast under the arches."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa de las Conchas",
+                "hu": "Kagylós ház",
+                "ro": "Casa de las Conchas",
+                "en": "House of Shells"
+              },
+              "tip_5lang": {
+                "de": "Zählen Sie die Muscheln an der Fassade.",
+                "hu": "Számold meg a kagylókat a homlokzaton.",
+                "ro": "Numărați scoicile de pe fațadă.",
+                "en": "Count the shells on the facade."
+              }
+            },
+            {
+              "name": {
+                "de": "La Clerecía",
+                "hu": "La Clerecía",
+                "ro": "La Clerecía",
+                "en": "La Clerecia"
+              },
+              "tip_5lang": {
+                "de": "Besteigen Sie die Türme für die Aussicht.",
+                "hu": "Mássz fel a tornyokba a kilátásért.",
+                "ro": "Urcați în turnuri pentru priveliște.",
+                "en": "Climb the towers for the best view."
+              }
+            },
+            {
+              "name": {
+                "de": "Universität von Salamanca",
+                "hu": "Salamancai Egyetem",
+                "ro": "Universitatea din Salamanca",
+                "en": "University of Salamanca"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie den Frosch an der Fassade.",
+                "hu": "Keresd meg a békát a homlokzaton.",
+                "ro": "Căutați broasca de pe fațadă.",
+                "en": "Find the frog on the facade."
+              }
+            },
+            {
+              "name": {
+                "de": "Catedral Nueva & Vieja",
+                "hu": "Új és Régi Székesegyház",
+                "ro": "Catedrala Nouă și Veche",
+                "en": "New and Old Cathedrals"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie den Astronauten am Portal.",
+                "hu": "Keresd az űrhajóst a kapunál.",
+                "ro": "Căutați astronautul la poartă.",
+                "en": "Look for the astronaut at the portal."
+              }
+            },
+            {
+              "name": {
+                "de": "Huerto de Calixto y Melibea",
+                "hu": "Kalisztó és Melibea kertje",
+                "ro": "Grădina Calixto și Melibea",
+                "en": "Garden of Calixto and Melibea"
+              },
+              "tip_5lang": {
+                "de": "Ein romantischer Ort zum Ausruhen.",
+                "hu": "Romantikus hely a pihenéshez.",
+                "ro": "Un loc romantic pentru odihnă.",
+                "en": "A romantic spot for a short break."
+              }
+            },
+            {
+              "name": {
+                "de": "Convento de San Esteban",
+                "hu": "Szent István kolostor",
+                "ro": "Conventul San Esteban",
+                "en": "Convent of San Esteban"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie das platereske Portal.",
+                "hu": "Csodáld meg a platereszk kaput.",
+                "ro": "Admirați portalul plateresc.",
+                "en": "Admire the Plateresque portal."
+              }
+            },
+            {
+              "name": {
+                "de": "Puente Romano",
+                "hu": "Római híd",
+                "ro": "Podul Roman",
+                "en": "Roman Bridge"
+              },
+              "tip_5lang": {
+                "de": "Perfekt für Fotos bei Sonnenuntergang.",
+                "hu": "Tökéletes fotóhelyszín naplementekor.",
+                "ro": "Perfect pentru fotografii la apus.",
+                "en": "Perfect for sunset photos."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Hornazo",
+                "tip": "Herzhafter Fleischkuchen aus Salamanca."
+              },
+              {
+                "name": "Corte y Cata",
+                "tip": "Hervorragender Schinken (Jamón de Guijuelo)."
+              },
+              {
+                "name": "Bambú",
+                "tip": "Kreative Tapas direkt an der Plaza Mayor."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Hornazo",
+                "tip": "Hússal töltött sós pite, helyi specialitás."
+              },
+              {
+                "name": "Corte y Cata",
+                "tip": "Kiváló sonka (Jamón de Guijuelo)."
+              },
+              {
+                "name": "Bambú",
+                "tip": "Kreatív tapasok a Plaza Mayor mellett."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Hornazo",
+                "tip": "Plăcintă sărată cu carne, specifică regiunii."
+              },
+              {
+                "name": "Corte y Cata",
+                "tip": "Șuncă excelentă (Jamón de Guijuelo)."
+              },
+              {
+                "name": "Bambú",
+                "tip": "Tapas creative chiar lângă Plaza Mayor."
+              }
+            ],
+            "en": [
+              {
+                "name": "Hornazo",
+                "tip": "Savory meat-filled pie, a local specialty."
+              },
+              {
+                "name": "Corte y Cata",
+                "tip": "Excellent ham (Jamón de Guijuelo)."
+              },
+              {
+                "name": "Bambú",
+                "tip": "Creative tapas right by Plaza Mayor."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Huerto de Calixto y Melibea",
+                "tip": "Ein verträumter Garten mit Stadtmauer-Blick.",
+                "emoji": "🌿"
+              },
+              {
+                "name": "Tormes-Ufer",
+                "tip": "Ruhiger Spaziergang entlang des Flusses.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "San Esteban Kreuzgang",
+                "tip": "Stille und Architektur genießen.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Kalisztó és Melibea kertje",
+                "tip": "Álomszerű kert kilátással a városfalra.",
+                "emoji": "🌿"
+              },
+              {
+                "name": "Tormes-part",
+                "tip": "Csendes séta a folyó mentén.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "San Esteban kerengő",
+                "tip": "Élvezd a csendet és az építészetet.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Grădina Calixto și Melibea",
+                "tip": "O grădină de poveste cu vedere la zidul cetății.",
+                "emoji": "🌿"
+              },
+              {
+                "name": "Malul Tormes",
+                "tip": "O plimbare liniștită de-a lungul râului.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Claustrul San Esteban",
+                "tip": "Bucurați-vă de liniște și arhitectură.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Garden of Calixto and Melibea",
+                "tip": "A dreamy garden with views of the city walls.",
+                "emoji": "🌿"
+              },
+              {
+                "name": "Tormes Banks",
+                "tip": "Quiet walk along the river.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "San Esteban Cloister",
+                "tip": "Enjoy silence and architecture.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Mercado Central",
+                "tip": "Frische lokale Produkte und Käse."
+              },
+              {
+                "name": "Calle Toro",
+                "tip": "Haupteinkaufsstraße mit bekannten Marken."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Mercado Central",
+                "tip": "Friss helyi termékek és sajtok."
+              },
+              {
+                "name": "Calle Toro",
+                "tip": "Fő bevásárlóutca ismert márkákkal."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Mercado Central",
+                "tip": "Produse locale proaspete și brânzeturi."
+              },
+              {
+                "name": "Calle Toro",
+                "tip": "Strada principală de cumpărături."
+              }
+            ],
+            "en": [
+              {
+                "name": "Mercado Central",
+                "tip": "Fresh local products and cheeses."
+              },
+              {
+                "name": "Calle Toro",
+                "tip": "Main shopping street with major brands."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Salamanca ist ideal zu Fuß zu erkunden, da fast alles im Zentrum liegt.",
+              "Besuchen Sie die Plaza Mayor sowohl am Tag als auch beleuchtet bei Nacht.",
+              "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster der Altstadt.",
+              "Die meisten Sehenswürdigkeiten bieten ermäßigte Preise für Studenten an.",
+              "Probieren Sie den lokalen Wein aus den Arribes del Duero."
+            ],
+            "hu": [
+              "Salamanca gyalogosan fedezhető fel legjobban, minden a központban van.",
+              "Nézd meg a Plaza Mayort nappal és kivilágítva éjszaka is.",
+              "Viselj kényelmes cipőt az óváros macskaköves utcáihoz.",
+              "A legtöbb látnivalónál van kedvezményes diákjegy.",
+              "Kóstold meg az Arribes del Duero régió helyi borait."
+            ],
+            "ro": [
+              "Salamanca este ideal de explorat pe jos, totul fiind în centru.",
+              "Vizitați Plaza Mayor atât ziua, cât și iluminată noaptea.",
+              "Purtați încălțăminte confortabilă pentru străzile pietruite.",
+              "Majoritatea obiectivelor oferă prețuri reduse pentru studenți.",
+              "Gustați vinul local din regiunea Arribes del Duero."
+            ],
+            "en": [
+              "Salamanca is best explored on foot as everything is in the center.",
+              "Visit Plaza Mayor both during the day and lit up at night.",
+              "Wear comfortable shoes for the cobblestone streets of the old town.",
+              "Most sights offer discounted tickets for students.",
+              "Try the local wine from the Arribes del Duero region."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag unter den schützenden Arkaden der Plaza Mayor, während der Regen auf das Kopfsteinpflaster prasselt. Die Casa de las Conchas bietet einen schnellen Unterschlupf, bevor Sie die spirituelle Ruhe der La Clerecia genießen.\n\nMittags tauchen Sie tief in die Geschichte der Universität ein. Die dicken Mauern lassen die Welt draußen vergessen, während Sie die beeindruckende Bibliothek und die Hörsäle erkunden, ohne nass zu werden.\n\nDer Nachmittag gehört den majestätischen Kathedralen. Da es draußen regnet, nehmen Sie sich mehr Zeit für die Innenräume. Ein kurzer, erfrischender Abstecher in den Garten von Calixto und Melibea zeigt die Natur in satten Farben.\n\nZum Abschluss führt der Weg zum Convento de San Esteban und schließlich zur Römischen Brücke. Die Spiegelungen der Stadtlichter in den Pfützen auf der Brücke bieten trotz des Wetters ein magisches Fotomotiv.",
+            "hu": "Kezdje a napot a Plaza Mayor árkádjai alatt, ahol a boltívek tökéletes védelmet nyújtanak az eső ellen. A Kagylós Ház udvarán gyorsan menedéket találhat, mielőtt felfedezné a La Clerecía templom belső nyugalmát.\n\nDélben merüljön el az Egyetem történelmében. A vastag falak között elfelejtheti a kinti esőt, miközben az ősi könyvtárat és a tantermeket csodálja meg, teljesen szárazon maradva.\n\nDélután a fenséges székesegyházaké a főszerep. Mivel kint esik, töltsön több időt a belső terek felfedezésével. Egy rövid séta a Calixto és Melibea kertben megmutatja a természet élénk színeit az eső után.\n\nBefejezésül látogasson el a San Esteban kolostorba, majd a Római hídhoz. A város fényei varázslatosan tükröződnek a hídon lévő tócsákban, ami még esőben is felejthetetlen látványt nyújt.",
+            "ro": "Începeți ziua sub arcadele protectoare din Plaza Mayor, în timp ce ploaia cade pe pavaj. Casa de las Conchas oferă un adăpost rapid înainte de a vă bucura de liniștea spirituală din La Clerecía.\n\nLa prânz, pătrundeți adânc în istoria Universității. Zidurile groase vă fac să uitați de lumea de afară în timp ce explorați biblioteca impresionantă și sălile de curs, fără a vă uda.\n\nDupă-amiaza aparține catedralelor maiestuoase. Deoarece plouă afară, acordați mai mult timp spațiilor interioare. O scurtă vizită în Grădina lui Calixto și Melibea arată natura în culori vii.\n\nÎn final, drumul duce la Mănăstirea San Esteban și apoi la Podul Roman. Reflexiile luminilor orașului în bălțile de pe pod oferă o oportunitate foto magică, în ciuda vremii.",
+            "en": "Start your day under the protective arcades of Plaza Mayor as the rain hits the cobblestones. The House of Shells offers a quick shelter before you enjoy the spiritual peace of La Clerecia.\n\nAt noon, dive deep into the history of the University. The thick walls make you forget the world outside while you explore the impressive library and classrooms, staying completely dry.\n\nAfternoon belongs to the majestic cathedrals. Since it's raining outside, take more time for the interiors. A short, refreshing detour to the Garden of Calixto and Melibea shows nature in vivid colors.\n\nFinally, the path leads to the Convent of San Esteban and then to the Roman Bridge. The reflections of city lights in the puddles on the bridge offer a magical photo opportunity despite the weather."
+          },
+          "stops": [
+            {
+              "name": "Plaza Mayor",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkaden, um trocken zu bleiben.",
+                "hu": "Használja az árkádokat a szárazon maradáshoz.",
+                "ro": "Folosiți arcadele pentru a rămâne uscat.",
+                "en": "Use the arcades to stay dry while exploring."
+              }
+            },
+            {
+              "name": "House of Shells",
+              "tip_5lang": {
+                "de": "Der Innenhof bietet guten Schutz vor Schauern.",
+                "hu": "A belső udvar jó védelmet nyújt a záporok ellen.",
+                "ro": "Curtea interioară oferă un adăpost bun.",
+                "en": "The inner courtyard offers good shelter from showers."
+              }
+            },
+            {
+              "name": "La Clerecia",
+              "tip_5lang": {
+                "de": "Innenbesichtigung ist ideal bei Regen.",
+                "hu": "A belső látogatás ideális esőben.",
+                "ro": "Vizita interioară este ideală pe ploaie.",
+                "en": "Indoor visit is ideal when it's raining."
+              }
+            },
+            {
+              "name": "University of Salamanca",
+              "tip_5lang": {
+                "de": "Verbringen Sie mehr Zeit in der Bibliothek.",
+                "hu": "Töltsön több időt a könyvtárban.",
+                "ro": "Petreceți mai mult timp în bibliotecă.",
+                "en": "Spend more time in the historic library."
+              }
+            },
+            {
+              "name": "New and Old Cathedrals",
+              "tip_5lang": {
+                "de": "Die weitläufigen Hallen sind perfekt trocken.",
+                "hu": "A tágas csarnokok teljesen szárazak.",
+                "ro": "Halele spațioase sunt perfect uscate.",
+                "en": "The spacious halls are perfectly dry and warm."
+              }
+            },
+            {
+              "name": "Garden of Calixto and Melibea",
+              "tip_5lang": {
+                "de": "Vorsicht, die Steinwege können rutschig sein.",
+                "hu": "Vigyázat, a kőutak csúszósak lehetnek.",
+                "ro": "Atenție, potecile de piatră pot fi alunecoase.",
+                "en": "Caution, stone paths can be slippery when wet."
+              }
+            },
+            {
+              "name": "Convent of San Esteban",
+              "tip_5lang": {
+                "de": "Der Kreuzgang bietet Schutz und tolle Akustik.",
+                "hu": "A kolostorudvar védelmet és jó akusztikát nyújt.",
+                "ro": "Claustrul oferă protecție și o acustică excelentă.",
+                "en": "The cloister offers shelter and great acoustics."
+              }
+            },
+            {
+              "name": "Roman Bridge",
+              "tip_5lang": {
+                "de": "Genießen Sie die Spiegelungen auf dem Asphalt.",
+                "hu": "Élvezze a tükröződéseket az aszfalton.",
+                "ro": "Bucurați-vă de reflexiile de pe asfalt.",
+                "en": "Enjoy the light reflections on the wet stones."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Salamanca hat viele Arkaden, nutzen Sie diese.",
+              "Die Museen sind gute Rückzugsorte bei Dauerregen.",
+              "Ein Regenschirm ist wegen des Windes oft unpraktisch.",
+              "Tragen Sie wasserfeste Schuhe für das Kopfsteinpflaster.",
+              "Genießen Sie Churros in einem der Cafés am Hauptplatz."
+            ],
+            "hu": [
+              "Salamanca sok árkáddal rendelkezik, használja őket.",
+              "A múzeumok jó menedékhelyek tartós esőben.",
+              "Az esernyő a szél miatt gyakran nem praktikus.",
+              "Viseljen vízálló cipőt a macskaköves utcákhoz.",
+              "Élvezze a churrost a főtér egyik kávézójában."
+            ],
+            "ro": [
+              "Salamanca are multe arcade, profitați de ele.",
+              "Muzeele sunt locuri bune de refugiu în caz de ploaie.",
+              "Umbrela este adesea impracticabilă din cauza vântului.",
+              "Purtați pantofi impermeabili pentru străzile cu piatră.",
+              "Savurați churros într-una dintre cafenelele din piață."
+            ],
+            "en": [
+              "Salamanca has many arcades, make use of them.",
+              "Museums are great retreats during persistent rain.",
+              "Umbrellas can be impractical due to the wind.",
+              "Wear waterproof shoes for the cobblestone streets.",
+              "Enjoy some churros in a cafe at the main square."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens liegt oft ein mystischer Nebel über der Stadt. An der Plaza Mayor wärmen Sie sich mit einem ersten Kaffee auf, bevor die Wintersonne die Fassade der Casa de las Conchas in goldenes Licht taucht.\n\nMittags ist die kühle Luft perfekt für einen zügigen Spaziergang zur Universität. In den historischen Räumen herrscht eine behagliche Stille, die ideal ist, um den Details der berühmten Fassade nachzuspüren.\n\nDer Nachmittag bietet in den Kathedralen einen Ort der inneren Einkehr. Wenn die Sonne gegen 17:30 Uhr untergeht, leuchten die Sandsteingebäude von Salamanca in einem tiefen Orange, das besonders im Winter intensiv wirkt.\n\nAbends erreichen Sie die Römische Brücke pünktlich zur blauen Stunde. Die Kälte des Tormes-Flusses wird durch den Anblick der festlich beleuchteten Altstadt mehr als wettgemacht.",
+            "hu": "Reggel gyakran misztikus köd borítja a várost. A Plaza Mayoron melegedjen fel egy kávéval, mielőtt a téli napsütés arany fénybe vonná a Kagylós Ház homlokzatát.\n\nDélben a hűvös levegő tökéletes egy tempós sétához az Egyetem felé. A történelmi termekben barátságos csend honol, ami ideális a híres homlokzat részleteinek megfigyeléséhez.\n\nDélután a székesegyházak a belső elcsendesedés helyszínévé válnak. Amikor a nap 17:30 körül lenyugszik, Salamanca homokkő épületei mély narancssárga színben izzanak.\n\nEste érje el a Római hidat pontosan a kék órában. A Tormes-folyó felőli hideget bőven kárpótolja a díszesen kivilágított óváros látványa.",
+            "ro": "Dimineața, o ceață mistică acoperă adesea orașul. În Plaza Mayor, încălziți-vă cu o cafea înainte ca soarele de iarnă să scalde fațada Casei de las Conchas în lumină aurie.\n\nLa prânz, aerul răcoros este perfect pentru o plimbare vioaie spre Universitate. În sălile istorice domnește o liniște primitoare, ideală pentru a admira detaliile celebrei fațade.\n\nDupă-amiaza oferă în catedrale un loc de reflecție. Când soarele apune în jurul orei 17:30, clădirile din gresie ale Salamancăi strălucesc într-un portocaliu intens.\n\nSeara ajungeți la Podul Roman exact la ora albastră. Frigul de la râul Tormes este compensat din plin de vederea orașului vechi iluminat festiv.",
+            "en": "In the morning, a mystical fog often covers the city. At Plaza Mayor, warm up with a coffee before the winter sun bathes the facade of the House of Shells in golden light.\n\nAt noon, the cool air is perfect for a brisk walk to the University. The historic rooms offer a cozy silence, ideal for tracing the details of the famous facade.\n\nAfternoon in the cathedrals provides a place for inner contemplation. When the sun sets around 17:30, Salamanca's sandstone buildings glow in a deep orange.\n\nIn the evening, reach the Roman Bridge just in time for the blue hour. The cold from the Tormes river is more than made up for by the sight of the festively lit old town."
+          },
+          "stops": [
+            {
+              "name": "Plaza Mayor",
+              "tip_5lang": {
+                "de": "Genießen Sie eine heiße Schokolade.",
+                "hu": "Élvezze a forró csokoládét.",
+                "ro": "Savurați o ciocolată caldă.",
+                "en": "Enjoy a hot chocolate to warm up."
+              }
+            },
+            {
+              "name": "House of Shells",
+              "tip_5lang": {
+                "de": "Das Licht am Vormittag ist ideal für Fotos.",
+                "hu": "A délelőtti fények ideálisak a fotózáshoz.",
+                "ro": "Lumina de dimineață este ideală pentru poze.",
+                "en": "Morning light is ideal for photography here."
+              }
+            },
+            {
+              "name": "La Clerecia",
+              "tip_5lang": {
+                "de": "Aussichtstürme sind im Winter oft windig.",
+                "hu": "A kilátótornyok télen gyakran szelesek.",
+                "ro": "Turnurile sunt adesea vântoase iarna.",
+                "en": "The observation towers can be windy in winter."
+              }
+            },
+            {
+              "name": "University of Salamanca",
+              "tip_5lang": {
+                "de": "Suchen Sie den Frosch im warmen Licht.",
+                "hu": "Keresse meg a békát a meleg fényben.",
+                "ro": "Căutați broasca în lumina caldă.",
+                "en": "Look for the frog in the warm winter light."
+              }
+            },
+            {
+              "name": "New and Old Cathedrals",
+              "tip_5lang": {
+                "de": "Drinnen ist es deutlich wärmer als draußen.",
+                "hu": "Bent lényegesen melegebb van, mint kint.",
+                "ro": "În interior este mult mai cald decât afară.",
+                "en": "It's significantly warmer inside than outside."
+              }
+            },
+            {
+              "name": "Garden of Calixto and Melibea",
+              "tip_5lang": {
+                "de": "Der Sonnenuntergang ist hier wunderschön.",
+                "hu": "A naplemente itt gyönyörű.",
+                "ro": "Apusul de soare este superb aici.",
+                "en": "The sunset views from here are beautiful."
+              }
+            },
+            {
+              "name": "Convent of San Esteban",
+              "tip_5lang": {
+                "de": "Die Fassade leuchtet in der Abendsonne.",
+                "hu": "A homlokzat ragyog az esti napsütésben.",
+                "ro": "Fațada strălucește în soarele serii.",
+                "en": "The facade glows in the evening sun."
+              }
+            },
+            {
+              "name": "Roman Bridge",
+              "tip_5lang": {
+                "de": "Warme Kleidung ist am Fluss unerlässlich.",
+                "hu": "A folyónál elengedhetetlen a meleg ruha.",
+                "ro": "Hainele groase sunt esențiale lângă râu.",
+                "en": "Warm clothing is essential near the river."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht bereits gegen 17:30 Uhr unter.",
+              "Der Wind kann in den engen Gassen sehr kalt sein.",
+              "Probieren Sie Hornazo, eine lokale Spezialität.",
+              "Die Gebäude leuchten im Winter besonders intensiv.",
+              "Abends sind die Monumente wunderschön beleuchtet."
+            ],
+            "hu": [
+              "A nap már 17:30 körül lenyugszik.",
+              "A szél a szűk utcákban nagyon hideg lehet.",
+              "Kóstolja meg a hornazót, a helyi különlegességet.",
+              "Az épületek télen különösen szépen ragyognak.",
+              "Este a műemlékek gyönyörűen ki vannak világítva."
+            ],
+            "ro": [
+              "Soarele apune deja în jurul orei 17:30.",
+              "Vântul poate fi foarte rece pe străzile înguste.",
+              "Încercați hornazo, o specialitate locală.",
+              "Clădirile strălucesc intens în timpul iernii.",
+              "Seara, monumentele sunt iluminate superb."
+            ],
+            "en": [
+              "The sun sets early, around 17:30.",
+              "The wind can be very cold in the narrow streets.",
+              "Try hornazo, a local meat-filled pastry.",
+              "Buildings glow intensely in the winter sun.",
+              "Monuments are beautifully illuminated at night."
+            ]
+          }
+        }
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "15:45",
+      "total_km": 8.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Plaza Mayor",
+            "hu": "Plaza Mayor",
+            "ro": "Plaza Mayor",
+            "en": "Plaza Mayor"
+          },
+          "coords": [
+            -5.6641,
+            40.965
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Starten Sie früh, bevor es voll wird.",
+            "hu": "Kezdj korán, mielőtt tömeg lesz.",
+            "ro": "Începeți devreme, înainte de aglomerație.",
+            "en": "Start early before the crowds arrive."
+          }
+        },
+        {
+          "name": {
+            "de": "Universität von Salamanca",
+            "hu": "Salamancai Egyetem",
+            "ro": "Universitatea din Salamanca",
+            "en": "University of Salamanca"
+          },
+          "coords": [
+            -5.6675,
+            40.9615
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Rad sicher am Eingang.",
+            "hu": "Zárd le a biciklit biztonságosan a bejáratnál.",
+            "ro": "Parcați bicicleta în siguranță la intrare.",
+            "en": "Lock your bike securely at the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Catedral Nueva",
+            "hu": "Új Székesegyház",
+            "ro": "Catedrala Nouă",
+            "en": "New Cathedral"
+          },
+          "coords": [
+            -5.666,
+            40.9605
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein Muss für Architekturfans.",
+            "hu": "Építészet kedvelőknek kötelező.",
+            "ro": "O necesitate pentru fanii arhitecturii.",
+            "en": "A must-see for architecture fans."
+          }
+        },
+        {
+          "name": {
+            "de": "Puente Romano",
+            "hu": "Római híd",
+            "ro": "Podul Roman",
+            "en": "Roman Bridge"
+          },
+          "coords": [
+            -5.6667,
+            40.9575
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "12:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Fahren Sie über die Brücke für den besten Blick.",
+            "hu": "Tekerj át a hídon a legjobb kilátásért.",
+            "ro": "Traversați podul pentru cea mai bună vedere.",
+            "en": "Ride across the bridge for the best view."
+          }
+        },
+        {
+          "name": {
+            "de": "Tormes Radweg",
+            "hu": "Tormes kerékpárút",
+            "ro": "Pista de biciclete Tormes",
+            "en": "Tormes Bike Path"
+          },
+          "coords": [
+            -5.675,
+            40.955
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:55",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Genießen Sie die Fahrt am Flussufer.",
+            "hu": "Élvezd a tekerést a folyóparton.",
+            "ro": "Bucurați-vă de plimbarea pe malul râului.",
+            "en": "Enjoy the ride along the riverbank."
+          }
+        },
+        {
+          "name": {
+            "de": "Convento de San Esteban",
+            "hu": "Szent István kolostor",
+            "ro": "Conventul San Esteban",
+            "en": "Convent of San Esteban"
+          },
+          "coords": [
+            -5.662,
+            40.9615
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:55",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Besichtigen Sie die prächtige Fassade.",
+            "hu": "Nézd meg a pompás homlokzatot.",
+            "ro": "Vizitați fațada splendidă.",
+            "en": "Visit the magnificent facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Palacio de Anaya",
+            "hu": "Anaya palota",
+            "ro": "Palatul Anaya",
+            "en": "Anaya Palace"
+          },
+          "coords": [
+            -5.6655,
+            40.961
+          ],
+          "category": "famous residences",
+          "arrive_at": "14:55",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Schöner Abschluss der Tour.",
+            "hu": "A túra szép lezárása.",
+            "ro": "Un final frumos al turului.",
+            "en": "A beautiful end to the tour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie Salamanca auf zwei Rädern! Nach dem Start an der Plaza Mayor erkunden wir die Universität und die Kathedralen. Eine entspannte Fahrt führt uns über die römische Brücke auf den Radweg am Fluss Tormes. Am Nachmittag kehren wir ins Zentrum zurück, um das San Esteban Kloster und den Palacio de Anaya zu bewundern. Eine perfekte Mischung aus Kultur und Natur.",
+        "hu": "Fedezd fel Salamancát két keréken! A Plaza Mayortól indulva meglátogatjuk az egyetemet és a székesegyházakat. Egy pihentető tekerés a római hídon át a Tormes-folyó menti kerékpárútra visz. Délután visszatérünk a központba, hogy megcsodáljuk a San Esteban kolostort és az Anaya palotát. A kultúra és a természet tökéletes keveréke.",
+        "ro": "Descoperiți Salamanca pe două roți! După startul din Plaza Mayor, explorăm universitatea și catedralele. O plimbare relaxantă ne duce peste podul roman pe pista de biciclete de pe malul râului Tormes. După-amiaza revenim în centru pentru a admira conventul San Esteban și palatul Anaya. Un amestec perfect de cultură și natură.",
+        "en": "Discover Salamanca on two wheels! After starting at Plaza Mayor, we explore the university and the cathedrals. A relaxing ride takes us across the Roman bridge onto the bike path along the Tormes river. In the afternoon, we return to the center to admire the San Esteban convent and the Anaya Palace. A perfect mix of culture and nature."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "La Hoja 21",
+            "tip": "Moderne Küche für eine Pause."
+          },
+          {
+            "name": "Chocolatería Valor",
+            "tip": "Beste Churros der Stadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "La Hoja 21",
+            "tip": "Modern konyha egy pihenőhöz."
+          },
+          {
+            "name": "Chocolatería Valor",
+            "tip": "A város legjobb churosa."
+          }
+        ],
+        "ro": [
+          {
+            "name": "La Hoja 21",
+            "tip": "Bucătărie modernă pentru o pauză."
+          },
+          {
+            "name": "Chocolatería Valor",
+            "tip": "Cei mai buni churros din oraș."
+          }
+        ],
+        "en": [
+          {
+            "name": "La Hoja 21",
+            "tip": "Modern cuisine for a break."
+          },
+          {
+            "name": "Chocolatería Valor",
+            "tip": "Best churros in town."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Park Elio Antonio de Nebrija",
+            "tip": "Bester Blick auf die Skyline.",
+            "emoji": "🏙️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Elio Antonio de Nebrija park",
+            "tip": "Legjobb kilátás a városra.",
+            "emoji": "🏙️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Elio Antonio de Nebrija",
+            "tip": "Cea mai bună vedere asupra orașului.",
+            "emoji": "🏙️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Park Elio Antonio de Nebrija",
+            "tip": "Best view of the skyline.",
+            "emoji": "🏙️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Salamanca Souvenirs",
+            "tip": "Kleine Frösche und Typisches."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Salamanca Souvenirs",
+            "tip": "Kis békák és helyi tárgyak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Salamanca Souvenirs",
+            "tip": "Mici broscuțe și suveniruri tipice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Salamanca Souvenirs",
+            "tip": "Small frogs and typical items."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die Radwege entlang des Flusses.",
+          "In der Fußgängerzone müssen Sie Ihr Rad eventuell schieben.",
+          "Mieten Sie E-Bikes für die leichten Hügel."
+        ],
+        "hu": [
+          "Használd a folyó menti kerékpárutakat.",
+          "A sétálóövezetben néhol tolni kell a biciklit.",
+          "Bérelj e-bike-ot a kisebb emelkedőkhöz."
+        ],
+        "ro": [
+          "Utilizați pistele de biciclete de-a lungul râului.",
+          "În zona pietonală s-ar putea să trebuiască să mergeți pe lângă bicicletă.",
+          "Închiriați biciclete electrice pentru dealurile ușoare."
+        ],
+        "en": [
+          "Use the bike paths along the river.",
+          "In the pedestrian zone, you might need to push your bike.",
+          "Rent e-bikes for the slight hills."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Entdecken Sie Salamanca auf zwei Rädern! Nach dem Start an der Plaza Mayor erkunden wir die Universität und die Kathedralen. Eine entspannte Fahrt führt uns über die römische Brücke auf den Radweg am Fluss Tormes. Am Nachmittag kehren wir ins Zentrum zurück, um das San Esteban Kloster und den Palacio de Anaya zu bewundern. Eine perfekte Mischung aus Kultur und Natur.",
+            "hu": "Fedezd fel Salamancát két keréken! A Plaza Mayortól indulva meglátogatjuk az egyetemet és a székesegyházakat. Egy pihentető tekerés a római hídon át a Tormes-folyó menti kerékpárútra visz. Délután visszatérünk a központba, hogy megcsodáljuk a San Esteban kolostort és az Anaya palotát. A kultúra és a természet tökéletes keveréke.",
+            "ro": "Descoperiți Salamanca pe două roți! După startul din Plaza Mayor, explorăm universitatea și catedralele. O plimbare relaxantă ne duce peste podul roman pe pista de biciclete de pe malul râului Tormes. După-amiaza revenim în centru pentru a admira conventul San Esteban și palatul Anaya. Un amestec perfect de cultură și natură.",
+            "en": "Discover Salamanca on two wheels! After starting at Plaza Mayor, we explore the university and the cathedrals. A relaxing ride takes us across the Roman bridge onto the bike path along the Tormes river. In the afternoon, we return to the center to admire the San Esteban convent and the Anaya Palace. A perfect mix of culture and nature."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Plaza Mayor",
+                "hu": "Plaza Mayor",
+                "ro": "Plaza Mayor",
+                "en": "Plaza Mayor"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie früh, bevor es voll wird.",
+                "hu": "Kezdj korán, mielőtt tömeg lesz.",
+                "ro": "Începeți devreme, înainte de aglomerație.",
+                "en": "Start early before the crowds arrive."
+              }
+            },
+            {
+              "name": {
+                "de": "Universität von Salamanca",
+                "hu": "Salamancai Egyetem",
+                "ro": "Universitatea din Salamanca",
+                "en": "University of Salamanca"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad sicher am Eingang.",
+                "hu": "Zárd le a biciklit biztonságosan a bejáratnál.",
+                "ro": "Parcați bicicleta în siguranță la intrare.",
+                "en": "Lock your bike securely at the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Catedral Nueva",
+                "hu": "Új Székesegyház",
+                "ro": "Catedrala Nouă",
+                "en": "New Cathedral"
+              },
+              "tip_5lang": {
+                "de": "Ein Muss für Architekturfans.",
+                "hu": "Építészet kedvelőknek kötelező.",
+                "ro": "O necesitate pentru fanii arhitecturii.",
+                "en": "A must-see for architecture fans."
+              }
+            },
+            {
+              "name": {
+                "de": "Puente Romano",
+                "hu": "Római híd",
+                "ro": "Podul Roman",
+                "en": "Roman Bridge"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie über die Brücke für den besten Blick.",
+                "hu": "Tekerj át a hídon a legjobb kilátásért.",
+                "ro": "Traversați podul pentru cea mai bună vedere.",
+                "en": "Ride across the bridge for the best view."
+              }
+            },
+            {
+              "name": {
+                "de": "Tormes Radweg",
+                "hu": "Tormes kerékpárút",
+                "ro": "Pista de biciclete Tormes",
+                "en": "Tormes Bike Path"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Fahrt am Flussufer.",
+                "hu": "Élvezd a tekerést a folyóparton.",
+                "ro": "Bucurați-vă de plimbarea pe malul râului.",
+                "en": "Enjoy the ride along the riverbank."
+              }
+            },
+            {
+              "name": {
+                "de": "Convento de San Esteban",
+                "hu": "Szent István kolostor",
+                "ro": "Conventul San Esteban",
+                "en": "Convent of San Esteban"
+              },
+              "tip_5lang": {
+                "de": "Besichtigen Sie die prächtige Fassade.",
+                "hu": "Nézd meg a pompás homlokzatot.",
+                "ro": "Vizitați fațada splendidă.",
+                "en": "Visit the magnificent facade."
+              }
+            },
+            {
+              "name": {
+                "de": "Palacio de Anaya",
+                "hu": "Anaya palota",
+                "ro": "Palatul Anaya",
+                "en": "Anaya Palace"
+              },
+              "tip_5lang": {
+                "de": "Schöner Abschluss der Tour.",
+                "hu": "A túra szép lezárása.",
+                "ro": "Un final frumos al turului.",
+                "en": "A beautiful end to the tour."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "La Hoja 21",
+                "tip": "Moderne Küche für eine Pause."
+              },
+              {
+                "name": "Chocolatería Valor",
+                "tip": "Beste Churros der Stadt."
+              }
+            ],
+            "hu": [
+              {
+                "name": "La Hoja 21",
+                "tip": "Modern konyha egy pihenőhöz."
+              },
+              {
+                "name": "Chocolatería Valor",
+                "tip": "A város legjobb churosa."
+              }
+            ],
+            "ro": [
+              {
+                "name": "La Hoja 21",
+                "tip": "Bucătărie modernă pentru o pauză."
+              },
+              {
+                "name": "Chocolatería Valor",
+                "tip": "Cei mai buni churros din oraș."
+              }
+            ],
+            "en": [
+              {
+                "name": "La Hoja 21",
+                "tip": "Modern cuisine for a break."
+              },
+              {
+                "name": "Chocolatería Valor",
+                "tip": "Best churros in town."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Park Elio Antonio de Nebrija",
+                "tip": "Bester Blick auf die Skyline.",
+                "emoji": "🏙️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Elio Antonio de Nebrija park",
+                "tip": "Legjobb kilátás a városra.",
+                "emoji": "🏙️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Parcul Elio Antonio de Nebrija",
+                "tip": "Cea mai bună vedere asupra orașului.",
+                "emoji": "🏙️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Park Elio Antonio de Nebrija",
+                "tip": "Best view of the skyline.",
+                "emoji": "🏙️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Salamanca Souvenirs",
+                "tip": "Kleine Frösche und Typisches."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Salamanca Souvenirs",
+                "tip": "Kis békák és helyi tárgyak."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Salamanca Souvenirs",
+                "tip": "Mici broscuțe și suveniruri tipice."
+              }
+            ],
+            "en": [
+              {
+                "name": "Salamanca Souvenirs",
+                "tip": "Small frogs and typical items."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Nutzen Sie die Radwege entlang des Flusses.",
+              "In der Fußgängerzone müssen Sie Ihr Rad eventuell schieben.",
+              "Mieten Sie E-Bikes für die leichten Hügel."
+            ],
+            "hu": [
+              "Használd a folyó menti kerékpárutakat.",
+              "A sétálóövezetben néhol tolni kell a biciklit.",
+              "Bérelj e-bike-ot a kisebb emelkedőkhöz."
+            ],
+            "ro": [
+              "Utilizați pistele de biciclete de-a lungul râului.",
+              "În zona pietonală s-ar putea să trebuiască să mergeți pe lângă bicicletă.",
+              "Închiriați biciclete electrice pentru dealurile ușoare."
+            ],
+            "en": [
+              "Use the bike paths along the river.",
+              "In the pedestrian zone, you might need to push your bike.",
+              "Rent e-bikes for the slight hills."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren im Regen erfordert in Salamancas Altstadt Vorsicht, besonders auf dem glatten Kopfsteinpflaster. Starten Sie vorsichtig an der Plaza Mayor und nutzen Sie die kurzen Wege zwischen den Monumenten.\n\nMittags bieten die Universität und die Kathedrale trockene Pausen für Ihr Fahrrad und Sie selbst. Die kurzen Distanzen ermöglichen es, schnell zwischen den überdachten Bereichen zu wechseln.\n\nDer Nachmittag führt Sie über den Tormes. Die Radwege am Flussufer können Pfützen haben, bieten aber eine erfrischende Perspektive auf die regennasse Silhouette der Stadt.\n\nZum Abschluss geht es am Anaya-Palast vorbei. Die kurzen Fahrzeiten sorgen dafür, dass Sie trotz des Wetters viel sehen, ohne komplett durchnässt zu werden.",
+            "hu": "Az esőben való biciklizés Salamanca óvárosában óvatosságot igényel a csúszós macskakő miatt. Kezdjen óvatosan a Plaza Mayoron, kihasználva a műemlékek közötti rövid távolságokat.\n\nDélben az Egyetem és a Székesegyház száraz pihenőt kínál Önnek és a biciklijének is. A rövid távolságok lehetővé teszik a gyors váltást a fedett területek között.\n\nDélután a Tormes-folyó mentén tekerhet. A folyóparti kerékpárutakon tócsák lehetnek, de friss perspektívát nyújtanak az eső áztatta városra.\n\nBefejezésül az Anaya-palota mellett halad el. A rövid menetidők biztosítják, hogy az eső ellenére is sokat lásson anélkül, hogy teljesen elázna.",
+            "ro": "Mersul pe bicicletă în ploaie necesită prudență în centrul vechi din Salamanca, din cauza pavajului alunecos. Începeți cu grijă în Plaza Mayor, profitând de distanțele scurte.\n\nLa prânz, Universitatea și Catedrala oferă pauze uscate pentru dvs. și bicicletă. Distanțele scurte permit deplasarea rapidă între zonele acoperite.\n\nDupă-amiaza vă poartă de-a lungul râului Tormes. Pistele de biciclete pot avea bălți, dar oferă o perspectivă proaspătă asupra orașului sub ploaie.\n\nÎn final, treceți pe lângă Palatul Anaya. Timpul scurt de deplasare vă asigură că vedeți multe fără a vă uda complet.",
+            "en": "Cycling in the rain requires caution in Salamanca's old town due to slippery cobblestones. Start carefully at Plaza Mayor, taking advantage of the short distances between monuments.\n\nAt noon, the University and Cathedral offer dry breaks for both you and your bike. Short distances allow for quick movement between covered areas.\n\nAfternoon takes you along the Tormes river. The bike paths may have puddles but offer a refreshing perspective on the rain-soaked city skyline.\n\nFinally, pass by the Anaya Palace. Short riding times ensure you see a lot despite the weather without getting completely soaked."
+          },
+          "stops": [
+            {
+              "name": "Plaza Mayor",
+              "tip_5lang": {
+                "de": "Vorsicht beim Anfahren auf nassem Stein.",
+                "hu": "Vigyázat az induláskor a nedves kövön.",
+                "ro": "Atenție la plecare pe piatra umedă.",
+                "en": "Be careful when starting on wet stones."
+              }
+            },
+            {
+              "name": "University of Salamanca",
+              "tip_5lang": {
+                "de": "Nutzen Sie Fahrradständer in Gebäudenähe.",
+                "hu": "Használjon kerékpártárolókat az épületnél.",
+                "ro": "Folosiți rastelele de lângă clădire.",
+                "en": "Use bike racks close to the building entrance."
+              }
+            },
+            {
+              "name": "New Cathedral",
+              "tip_5lang": {
+                "de": "Perfekter Ort für eine lange trockene Pause.",
+                "hu": "Tökéletes hely egy hosszú, száraz szünethez.",
+                "ro": "Locul perfect pentru o pauză lungă și uscată.",
+                "en": "Perfect spot for a long, dry break."
+              }
+            },
+            {
+              "name": "Roman Bridge",
+              "tip_5lang": {
+                "de": "Die Brücke ist bei Regen sehr rutschig.",
+                "hu": "A híd esőben nagyon csúszós.",
+                "ro": "Podul este foarte alunecos pe ploaie.",
+                "en": "The bridge is very slippery when wet."
+              }
+            },
+            {
+              "name": "Tormes Bike Path",
+              "tip_5lang": {
+                "de": "Achten Sie auf Pfützen auf dem Radweg.",
+                "hu": "Ügyeljen a tócsákra a kerékpárúton.",
+                "ro": "Atenție la bălțile de pe pistă.",
+                "en": "Watch out for puddles on the path."
+              }
+            },
+            {
+              "name": "Convent of San Esteban",
+              "tip_5lang": {
+                "de": "Schneller Wechsel ins trockene Innere.",
+                "hu": "Gyors váltás a száraz belső térbe.",
+                "ro": "Trecere rapidă în interiorul uscat.",
+                "en": "Quick transition to the dry interior."
+              }
+            },
+            {
+              "name": "Anaya Palace",
+              "tip_5lang": {
+                "de": "Kurzer Stopp vor der Rückgabe.",
+                "hu": "Rövid megálló a leadás előtt.",
+                "ro": "O scurtă oprire înainte de returnare.",
+                "en": "A short stop before returning the bike."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine gute Regenjacke.",
+              "Vermeiden Sie abruptes Bremsen auf Kopfsteinpflaster.",
+              "Achten Sie auf die Sichtverhältnisse.",
+              "Nutzen Sie Schutzbleche, falls vorhanden.",
+              "Parken Sie das Rad nach Möglichkeit überdacht."
+            ],
+            "hu": [
+              "Viseljen jó esőkabátot.",
+              "Kerülje a hirtelen fékezést a macskakövön.",
+              "Ügyeljen a látási viszonyokra.",
+              "Használjon sárvédőt, ha van.",
+              "Parkoljon a biciklivel fedett helyen, ha lehet."
+            ],
+            "ro": [
+              "Purtați o jachetă de ploaie bună.",
+              "Evitați frânarea bruscă pe pavaj.",
+              "Fiți atenți la vizibilitate.",
+              "Folosiți apărători de noroi dacă aveți.",
+              "Parcați bicicleta la adăpost dacă se poate."
+            ],
+            "en": [
+              "Wear a high-quality raincoat.",
+              "Avoid sudden braking on cobblestones.",
+              "Pay attention to visibility conditions.",
+              "Use mudguards if available.",
+              "Park the bike under cover if possible."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die klare Winterluft macht das Radfahren in Salamanca zu einem belebenden Erlebnis. Starten Sie warm eingepackt an der Plaza Mayor und genießen Sie die freie Fahrt durch die weniger vollen Gassen.\n\nMittags erreichen Sie die Universität. Die körperliche Aktivität hält Sie warm, während Sie die monumentale Architektur bewundern. Die Sonne steht tief und wirft lange Schatten auf den Asphalt.\n\nDer Nachmittag am Flussufer ist kühl, aber die Aussicht auf die Kathedrale ist im Winterlicht besonders klar. Der Radweg bietet eine flache, angenehme Strecke ohne viel Verkehr.\n\nZum Abend hin wird es schnell kalt. Nutzen Sie die letzte Helligkeit für einen Blick auf den Anaya-Palast, bevor Sie das Fahrrad zurückgeben und sich in einer Bar aufwärmen.",
+            "hu": "A tiszta téli levegő élénkítő élménnyé teszi a biciklizést Salamancában. Kezdjen jól felöltözve a Plaza Mayoron, és élvezze a szabad haladást a kevésbé zsúfolt utcákon.\n\nDélben éri el az Egyetemet. A mozgás melegen tartja, miközben a monumentális építészetet csodálja. A nap alacsonyan jár, hosszú árnyékokat vetve az aszfaltra.\n\nDélután a folyópart hűvös, de a Székesegyház látványa a téli fényben különösen tiszta. A kerékpárút sík és kellemes útvonalat kínál forgalom nélkül.\n\nEste felé gyorsan lehűl az idő. Használja ki az utolsó világos perceket az Anaya-palotánál, mielőtt leadná a biciklit és beülne egy bárba melegedni.",
+            "ro": "Aerul curat de iarnă transformă mersul pe bicicletă într-o experiență revigorantă. Începeți bine echipat din Plaza Mayor și bucurați-vă de străzile mai puțin aglomerate.\n\nLa prânz ajungeți la Universitate. Activitatea fizică vă ține de cald în timp ce admirați arhitectura. Soarele este jos, proiectând umbre lungi pe asfalt.\n\nDupă-amiaza pe malul râului este răcoroasă, dar vederea Catedralei este clară în lumina de iarnă. Pista de biciclete oferă un traseu plat și plăcut.\n\nSpre seară se face rapid frig. Profitați de ultima lumină la Palatul Anaya înainte de a returna bicicleta și de a vă încălzi într-un bar.",
+            "en": "The crisp winter air makes cycling in Salamanca an invigorating experience. Start well-wrapped at Plaza Mayor and enjoy riding through the less crowded streets.\n\nAt noon, you reach the University. The physical activity keeps you warm while you admire the architecture. The sun stays low, casting long shadows on the pavement.\n\nAfternoon by the river is cool, but the view of the Cathedral is especially clear in the winter light. The bike path offers a flat, pleasant route without much traffic.\n\nToward evening, it cools down quickly. Use the last bit of daylight for a look at Anaya Palace before returning the bike and warming up in a bar."
+          },
+          "stops": [
+            {
+              "name": "Plaza Mayor",
+              "tip_5lang": {
+                "de": "Handschuhe sind beim Fahren wichtig.",
+                "hu": "A kesztyű fontos biciklizés közben.",
+                "ro": "Mănușile sunt importante la pedalat.",
+                "en": "Gloves are essential for winter cycling."
+              }
+            },
+            {
+              "name": "University of Salamanca",
+              "tip_5lang": {
+                "de": "Machen Sie eine kurze Aufwärmpause innen.",
+                "hu": "Tartson egy rövid melegedő szünetet bent.",
+                "ro": "Faceți o scurtă pauză de încălzire în interior.",
+                "en": "Take a short warm-up break inside."
+              }
+            },
+            {
+              "name": "New Cathedral",
+              "tip_5lang": {
+                "de": "Nutzen Sie das milde Licht für Fotos.",
+                "hu": "Használja a lágy fényt a fotózáshoz.",
+                "ro": "Folosiți lumina blândă pentru poze.",
+                "en": "Use the soft winter light for photos."
+              }
+            },
+            {
+              "name": "Roman Bridge",
+              "tip_5lang": {
+                "de": "Der Wind am Fluss ist eisig.",
+                "hu": "A szél a folyónál jeges.",
+                "ro": "Vântul de la râu este înghețat.",
+                "en": "The wind at the river can be icy."
+              }
+            },
+            {
+              "name": "Tormes Bike Path",
+              "tip_5lang": {
+                "de": "Zügiges Fahren hält die Wärme.",
+                "hu": "A tempós haladás melegen tart.",
+                "ro": "Pedalatul vioi vă ține de cald.",
+                "en": "Brisk riding helps keep you warm."
+              }
+            },
+            {
+              "name": "Convent of San Esteban",
+              "tip_5lang": {
+                "de": "Bewundern Sie die goldene Fassade.",
+                "hu": "Csodálja meg az aranyló homlokzatot.",
+                "ro": "Admirați fațada aurie.",
+                "en": "Admire the golden facade in the sun."
+              }
+            },
+            {
+              "name": "Anaya Palace",
+              "tip_5lang": {
+                "de": "Frühzeitige Rückgabe vor dem Frost.",
+                "hu": "Időben adja le a biciklit a fagy előtt.",
+                "ro": "Returnați bicicleta înainte de îngheț.",
+                "en": "Return the bike before it gets too cold."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Schichten (Zwiebelprinzip).",
+              "Prüfen Sie den Reifendruck bei Kälte.",
+              "Das Licht ist ab 16:00 Uhr am besten.",
+              "Halten Sie die Fahrtzeiten kurz.",
+              "Vergessen Sie nicht, ausreichend zu trinken."
+            ],
+            "hu": [
+              "Öltözzön rétegesen.",
+              "Ellenőrizze a keréknyomást a hidegben.",
+              "A fények 16:00-tól a legszebbek.",
+              "Tartsa röviden a menetidőket.",
+              "Ne felejtsen el elegendő folyadékot inni."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi.",
+              "Verificați presiunea roților la frig.",
+              "Lumina este optimă de la ora 16:00.",
+              "Mențineți timpii de deplasare scurți.",
+              "Nu uitați să vă hidratați corespunzător."
+            ],
+            "en": [
+              "Dress in layers to stay warm.",
+              "Check tire pressure in cold weather.",
+              "Light is best for photos from 16:00.",
+              "Keep the riding segments short.",
+              "Don't forget to stay hydrated."
+            ]
+          }
+        }
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 24.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Plaza Mayor",
+            "hu": "Plaza Mayor",
+            "ro": "Plaza Mayor",
+            "en": "Plaza Mayor"
+          },
+          "coords": [
+            -5.6641,
+            40.965
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Parken Sie im Parkhaus am Marktplatz.",
+            "hu": "Parkolj a piactér melletti parkolóházban.",
+            "ro": "Parcați în parcarea de lângă piață.",
+            "en": "Park in the underground lot by the market."
+          }
+        },
+        {
+          "name": {
+            "de": "Catedral Nueva",
+            "hu": "Új Székesegyház",
+            "ro": "Catedrala Nouă",
+            "en": "New Cathedral"
+          },
+          "coords": [
+            -5.666,
+            40.9605
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die monumentale Größe.",
+            "hu": "Csodáld meg a monumentális méretet.",
+            "ro": "Admirați dimensiunea monumentală.",
+            "en": "Admire the monumental size."
+          }
+        },
+        {
+          "name": {
+            "de": "Universität von Salamanca",
+            "hu": "Salamancai Egyetem",
+            "ro": "Universitatea din Salamanca",
+            "en": "University of Salamanca"
+          },
+          "coords": [
+            -5.6675,
+            40.9615
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "11:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie die alte Bibliothek.",
+            "hu": "Látogasd meg a régi könyvtárat.",
+            "ro": "Vizitați vechea bibliotecă.",
+            "en": "Visit the old library."
+          }
+        },
+        {
+          "name": {
+            "de": "Convento de San Esteban",
+            "hu": "Szent István kolostor",
+            "ro": "Conventul San Esteban",
+            "en": "Convent of San Esteban"
+          },
+          "coords": [
+            -5.662,
+            40.9615
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:15",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Ein Juwel des spanischen Barock.",
+            "hu": "A spanyol barokk ékszere.",
+            "ro": "O bijuterie a barocului spaniol.",
+            "en": "A jewel of Spanish Baroque."
+          }
+        },
+        {
+          "name": {
+            "de": "Ledesma (Ausflug)",
+            "hu": "Ledesma (kirándulás)",
+            "ro": "Ledesma (excursie)",
+            "en": "Ledesma (Excursion)"
+          },
+          "coords": [
+            -5.998,
+            41.088
+          ],
+          "category": "region",
+          "arrive_at": "14:45",
+          "stay_min": 120,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 18.0,
+          "tip_5lang": {
+            "de": "Mittelalterliches Dorf nahe Salamanca.",
+            "hu": "Középkori falu Salamanca közelében.",
+            "ro": "Sat medieval lângă Salamanca.",
+            "en": "Medieval village near Salamanca."
+          }
+        },
+        {
+          "name": {
+            "de": "Puente Romano",
+            "hu": "Római híd",
+            "ro": "Podul Roman",
+            "en": "Roman Bridge"
+          },
+          "coords": [
+            -5.6667,
+            40.9575
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "17:15",
+          "stay_min": 15,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 18.0,
+          "tip_5lang": {
+            "de": "Kurzer Stopp für das Panorama.",
+            "hu": "Rövid megálló a panorámáért.",
+            "ro": "Oprire scurtă pentru panoramă.",
+            "en": "Short stop for the panorama."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto entdecken Sie nicht nur das Zentrum Salamancas, sondern auch seine wunderschöne Umgebung. Vormittags besuchen wir die Highlights wie die Plaza Mayor und die Kathedrale. Nach dem Mittagessen machen wir einen Abstecher in das mittelalterliche Ledesma, um die historische Architektur und die Landschaft zu genießen, bevor wir zum Sonnenuntergang an die Tormes-Brücke zurückkehren.",
+        "hu": "Autóval nemcsak Salamanca központját, hanem gyönyörű környékét is felfedezheted. Délelőtt a főbb látnivalókat látogatjuk meg, mint a Plaza Mayor és a székesegyház. Ebéd után kiruccanunk a középkori Ledesmába, hogy élvezzük a történelmi építészetet és a tájat, majd naplementére visszatérünk a Tormes-hídhoz.",
+        "ro": "Cu mașina descoperiți nu doar centrul orașului Salamanca, ci și împrejurimile sale frumoase. Dimineața vizităm punctele de interes precum Plaza Mayor și catedrala. După prânz, facem o excursie în satul medieval Ledesma pentru a ne bucura de arhitectura istorică și peisaj, înainte de a reveni la podul Tormes pentru apus.",
+        "en": "With a car, you can discover not only the center of Salamanca but also its beautiful surroundings. In the morning, we visit highlights like Plaza Mayor and the cathedral. After lunch, we take a trip to the medieval village of Ledesma to enjoy the historic architecture and landscape, returning to the Tormes bridge for sunset."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurante El Alquiler",
+            "tip": "In Ledesma probieren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Restaurante El Alquiler",
+            "tip": "Próbáld ki Ledesmában."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurante El Alquiler",
+            "tip": "Încercați în Ledesma."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurante El Alquiler",
+            "tip": "Try it in Ledesma."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ledesma Stadtmauern",
+            "tip": "Friedlicher Blick über den Fluss.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ledesma városfalak",
+            "tip": "Békés kilátás a folyóra.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zidurile cetății Ledesma",
+            "tip": "Vedere liniștită asupra râului.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Ledesma City Walls",
+            "tip": "Peaceful view over the river.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Vía de la Plata Souvenirs",
+            "tip": "Traditionelles Handwerk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vía de la Plata Souvenirs",
+            "tip": "Hagyományos kézműves termékek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vía de la Plata Souvenirs",
+            "tip": "Artizanat tradițional."
+          }
+        ],
+        "en": [
+          {
+            "name": "Vía de la Plata Souvenirs",
+            "tip": "Traditional crafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Achten Sie auf die Parkzonen (Blaue Zone).",
+          "Das historische Zentrum ist teilweise für Autos gesperrt.",
+          "Die Straßen nach Ledesma sind gut ausgebaut."
+        ],
+        "hu": [
+          "Figyelj a parkolási zónákra (kék zóna).",
+          "A történelmi központ részben le van zárva az autók elől.",
+          "A Ledesmába vezető utak jól karbantartottak."
+        ],
+        "ro": [
+          "Atenție la zonele de parcare (zona albastră).",
+          "Centrul istoric este parțial închis pentru mașini.",
+          "Drumurile spre Ledesma sunt bine întreținute."
+        ],
+        "en": [
+          "Pay attention to the parking zones (blue zone).",
+          "The historic center is partially closed to cars.",
+          "The roads to Ledesma are well maintained."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto entdecken Sie nicht nur das Zentrum Salamancas, sondern auch seine wunderschöne Umgebung. Vormittags besuchen wir die Highlights wie die Plaza Mayor und die Kathedrale. Nach dem Mittagessen machen wir einen Abstecher in das mittelalterliche Ledesma, um die historische Architektur und die Landschaft zu genießen, bevor wir zum Sonnenuntergang an die Tormes-Brücke zurückkehren.",
+            "hu": "Autóval nemcsak Salamanca központját, hanem gyönyörű környékét is felfedezheted. Délelőtt a főbb látnivalókat látogatjuk meg, mint a Plaza Mayor és a székesegyház. Ebéd után kiruccanunk a középkori Ledesmába, hogy élvezzük a történelmi építészetet és a tájat, majd naplementére visszatérünk a Tormes-hídhoz.",
+            "ro": "Cu mașina descoperiți nu doar centrul orașului Salamanca, ci și împrejurimile sale frumoase. Dimineața vizităm punctele de interes precum Plaza Mayor și catedrala. După prânz, facem o excursie în satul medieval Ledesma pentru a ne bucura de arhitectura istorică și peisaj, înainte de a reveni la podul Tormes pentru apus.",
+            "en": "With a car, you can discover not only the center of Salamanca but also its beautiful surroundings. In the morning, we visit highlights like Plaza Mayor and the cathedral. After lunch, we take a trip to the medieval village of Ledesma to enjoy the historic architecture and landscape, returning to the Tormes bridge for sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Plaza Mayor",
+                "hu": "Plaza Mayor",
+                "ro": "Plaza Mayor",
+                "en": "Plaza Mayor"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie im Parkhaus am Marktplatz.",
+                "hu": "Parkolj a piactér melletti parkolóházban.",
+                "ro": "Parcați în parcarea de lângă piață.",
+                "en": "Park in the underground lot by the market."
+              }
+            },
+            {
+              "name": {
+                "de": "Catedral Nueva",
+                "hu": "Új Székesegyház",
+                "ro": "Catedrala Nouă",
+                "en": "New Cathedral"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die monumentale Größe.",
+                "hu": "Csodáld meg a monumentális méretet.",
+                "ro": "Admirați dimensiunea monumentală.",
+                "en": "Admire the monumental size."
+              }
+            },
+            {
+              "name": {
+                "de": "Universität von Salamanca",
+                "hu": "Salamancai Egyetem",
+                "ro": "Universitatea din Salamanca",
+                "en": "University of Salamanca"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die alte Bibliothek.",
+                "hu": "Látogasd meg a régi könyvtárat.",
+                "ro": "Vizitați vechea bibliotecă.",
+                "en": "Visit the old library."
+              }
+            },
+            {
+              "name": {
+                "de": "Convento de San Esteban",
+                "hu": "Szent István kolostor",
+                "ro": "Conventul San Esteban",
+                "en": "Convent of San Esteban"
+              },
+              "tip_5lang": {
+                "de": "Ein Juwel des spanischen Barock.",
+                "hu": "A spanyol barokk ékszere.",
+                "ro": "O bijuterie a barocului spaniol.",
+                "en": "A jewel of Spanish Baroque."
+              }
+            },
+            {
+              "name": {
+                "de": "Ledesma (Ausflug)",
+                "hu": "Ledesma (kirándulás)",
+                "ro": "Ledesma (excursie)",
+                "en": "Ledesma (Excursion)"
+              },
+              "tip_5lang": {
+                "de": "Mittelalterliches Dorf nahe Salamanca.",
+                "hu": "Középkori falu Salamanca közelében.",
+                "ro": "Sat medieval lângă Salamanca.",
+                "en": "Medieval village near Salamanca."
+              }
+            },
+            {
+              "name": {
+                "de": "Puente Romano",
+                "hu": "Római híd",
+                "ro": "Podul Roman",
+                "en": "Roman Bridge"
+              },
+              "tip_5lang": {
+                "de": "Kurzer Stopp für das Panorama.",
+                "hu": "Rövid megálló a panorámáért.",
+                "ro": "Oprire scurtă pentru panoramă.",
+                "en": "Short stop for the panorama."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Restaurante El Alquiler",
+                "tip": "In Ledesma probieren."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Restaurante El Alquiler",
+                "tip": "Próbáld ki Ledesmában."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Restaurante El Alquiler",
+                "tip": "Încercați în Ledesma."
+              }
+            ],
+            "en": [
+              {
+                "name": "Restaurante El Alquiler",
+                "tip": "Try it in Ledesma."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Ledesma Stadtmauern",
+                "tip": "Friedlicher Blick über den Fluss.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Ledesma városfalak",
+                "tip": "Békés kilátás a folyóra.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Zidurile cetății Ledesma",
+                "tip": "Vedere liniștită asupra râului.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Ledesma City Walls",
+                "tip": "Peaceful view over the river.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Vía de la Plata Souvenirs",
+                "tip": "Traditionelles Handwerk."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Vía de la Plata Souvenirs",
+                "tip": "Hagyományos kézműves termékek."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Vía de la Plata Souvenirs",
+                "tip": "Artizanat tradițional."
+              }
+            ],
+            "en": [
+              {
+                "name": "Vía de la Plata Souvenirs",
+                "tip": "Traditional crafts."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Achten Sie auf die Parkzonen (Blaue Zone).",
+              "Das historische Zentrum ist teilweise für Autos gesperrt.",
+              "Die Straßen nach Ledesma sind gut ausgebaut."
+            ],
+            "hu": [
+              "Figyelj a parkolási zónákra (kék zóna).",
+              "A történelmi központ részben le van zárva az autók elől.",
+              "A Ledesmába vezető utak jól karbantartottak."
+            ],
+            "ro": [
+              "Atenție la zonele de parcare (zona albastră).",
+              "Centrul istoric este parțial închis pentru mașini.",
+              "Drumurile spre Ledesma sunt bine întreținute."
+            ],
+            "en": [
+              "Pay attention to the parking zones (blue zone).",
+              "The historic center is partially closed to cars.",
+              "The roads to Ledesma are well maintained."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto sind Sie in Salamanca bei Regen bestens mobil. Parken Sie in der Nähe der Plaza Mayor und genießen Sie den Luxus eines trockenen Fahrzeugs zwischen den Besichtigungen.\n\nMittags führt die Fahrt zur Kathedrale und zur Universität. Sie müssen sich keine Sorgen um das Wetter machen, während Sie von einem monumentalen Highlight zum nächsten wechseln.\n\nDer Nachmittag bietet sich für einen Ausflug nach Ledesma an. Die Regenfahrt durch die kastilische Landschaft hat ihren ganz eigenen, melancholischen Reiz und Ledesmas Granitmauern wirken im Regen besonders imposant.\n\nZum Abschluss parken Sie nahe der Römischen Brücke. Ein kurzer Sprint zum Aussichtspunkt genügt, um die Stadt im Regenlicht zu bewundern, bevor Sie wieder ins warme Auto steigen.",
+            "hu": "Autóval Salamancában esőben is kényelmesen mozoghat. Parkoljon a Plaza Mayor közelében, és élvezze a száraz autó luxusát a látnivalók között.\n\nDélben az út a Székesegyházhoz és az Egyetemhez vezet. Nem kell aggódnia az időjárás miatt, miközben egyik monumentális helyszínről a másikra megy.\n\nDélután kiváló lehetőség nyílik egy kirándulásra Ledesmába. Az esős utazás a kasztíliai tájon különleges, melankolikus bájt áraszt, Ledesma gránitfalai pedig különösen impozánsak az esőben.\n\nBefejezésül parkoljon a Római híd közelében. Egy rövid futás a kilátóponthoz elég, hogy megcsodálja a várost az esőben, mielőtt visszaszállna a meleg autóba.",
+            "ro": "Cu mașina sunteți foarte mobil în Salamanca pe timp de ploaie. Parcați lângă Plaza Mayor și bucurați-vă de confortul vehiculului uscat între vizite.\n\nLa prânz, drumul duce la Catedrală și Universitate. Nu trebuie să vă faceți griji pentru vreme în timp ce vă deplasați între atracțiile monumentale.\n\nDupă-amiaza este ideală pentru o excursie la Ledesma. Drumul prin peisajul castilian pe ploaie are un farmec melancolic, iar zidurile de granit din Ledesma par impresionante.\n\nÎn final, parcați lângă Podul Roman. Un scurt sprint până la punctul de belvedere este suficient pentru a admira orașul în ploaie înainte de a reveni în mașină.",
+            "en": "By car, you are perfectly mobile in Salamanca during rain. Park near Plaza Mayor and enjoy the luxury of a dry vehicle between your sightseeing stops.\n\nAt noon, drive to the Cathedral and University. No need to worry about the weather as you transition from one monumental highlight to the next.\n\nAfternoon is great for an excursion to Ledesma. Driving through the Castilian landscape in the rain has a melancholic charm, and Ledesma's granite walls look imposing.\n\nFinally, park near the Roman Bridge. A short sprint to the viewpoint is enough to admire the city in the rain before returning to your warm car."
+          },
+          "stops": [
+            {
+              "name": "Plaza Mayor",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Tiefgarage direkt unter dem Platz.",
+                "hu": "Használja a mélygarázst közvetlenül a tér alatt.",
+                "ro": "Folosiți parcarea subterană de sub piață.",
+                "en": "Use the underground parking right below the square."
+              }
+            },
+            {
+              "name": "New Cathedral",
+              "tip_5lang": {
+                "de": "Parken Sie im Parkhaus am Flussufer.",
+                "hu": "Parkoljon a folyóparti parkolóházban.",
+                "ro": "Parcați în parcarea de pe malul râului.",
+                "en": "Park in the garage by the riverbank."
+              }
+            },
+            {
+              "name": "University of Salamanca",
+              "tip_5lang": {
+                "de": "Der Fußweg vom Parkplatz ist kurz.",
+                "hu": "A gyalogút a parkolótól rövid.",
+                "ro": "Drum pe jos de la parcare este scurt.",
+                "en": "The walk from the parking area is short."
+              }
+            },
+            {
+              "name": "Convent of San Esteban",
+              "tip_5lang": {
+                "de": "Hinter dem Kloster gibt es Parkplätze.",
+                "hu": "A kolostor mögött vannak parkolóhelyek.",
+                "ro": "Există locuri de parcare în spatele mănăstirii.",
+                "en": "There are parking spots behind the monastery."
+              }
+            },
+            {
+              "name": "Ledesma (Excursion)",
+              "tip_5lang": {
+                "de": "Vorsicht bei Aquaplaning auf der Landstraße.",
+                "hu": "Vigyázat az akvaplaninggal az országúton.",
+                "ro": "Atenție la acvaplanare pe drumul național.",
+                "en": "Watch out for aquaplaning on the highway."
+              }
+            },
+            {
+              "name": "Roman Bridge",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp direkt vom Auto aus.",
+                "hu": "Rövid fotómegálló közvetlenül az autóból.",
+                "ro": "Scurtă oprire foto direct din mașină.",
+                "en": "Short photo stop directly from the car."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Tiefgaragen im Zentrum.",
+              "Achten Sie auf Fußgänger mit Regenschirmen.",
+              "Die Straßen können bei Regen rutschig sein.",
+              "Ledesma ist etwa 30 Minuten Fahrt entfernt.",
+              "Prüfen Sie den Zustand Ihrer Scheibenwischer."
+            ],
+            "hu": [
+              "Használja a központi mélygarázsokat.",
+              "Ügyeljen az esernyős gyalogosokra.",
+              "Az utak esőben csúszósak lehetnek.",
+              "Ledesma kb. 30 perc autóval.",
+              "Ellenőrizze az ablaktörlők állapotát."
+            ],
+            "ro": [
+              "Folosiți parcările subterane centrale.",
+              "Atenție la pietonii cu umbrele.",
+              "Străzile pot fi alunecoase pe ploaie.",
+              "Ledesma este la aproximativ 30 de minute.",
+              "Verificați starea ștergătoarelor de parbriz."
+            ],
+            "en": [
+              "Use the underground parking in the center.",
+              "Watch out for pedestrians with umbrellas.",
+              "Roads can be slippery during rain.",
+              "Ledesma is about a 30-minute drive away.",
+              "Check the condition of your windshield wipers."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Wintertag in Salamanca lässt sich am besten mit dem Auto erkunden, wenn Sie die Kälte meiden möchten. Starten Sie an der Plaza Mayor, wo die festliche Beleuchtung oft noch bis in den Vormittag wirkt.\n\nMittags führt die Route zur Universität und zur Kathedrale. Die Heizung im Auto sorgt für angenehme Pausen zwischen den architektonischen Wundern der Stadt.\n\nDer Nachmittag ist perfekt für den Ausflug ins historische Ledesma. Die kahle Winterlandschaft Kastiliens bietet weite Ausblicke und die Granitstadt wirkt in der klaren Luft fast wie aus einer anderen Zeit.\n\nZum Sonnenuntergang kehren Sie zur Römischen Brücke zurück. Der Anblick der beleuchteten Kathedrale vom Flussufer aus ist im Winter, wenn die Luft so klar ist, besonders beeindruckend.",
+            "hu": "Egy téli napot Salamancában legjobb autóval felfedezni, ha el szeretné kerülni a hideget. Kezdjen a Plaza Mayoron, ahol az ünnepi kivilágítás gyakran délelőttig megmarad.\n\nDélben az útvonal az Egyetemhez és a Székesegyházhoz vezet. Az autó fűtése kellemes pihenőt biztosít a város építészeti csodái között.\n\nDélután tökéletes időpont a történelmi Ledesma meglátogatására. Kasztília téli tája tágas kilátást nyújt, a gránitváros pedig a tiszta levegőben szinte egy másik korból származónak tűnik.\n\nNaplementekor térjen vissza a Római hídhoz. A kivilágított székesegyház látványa a folyópartról különösen lenyűgöző a tiszta téli levegőben.",
+            "ro": "O zi de iarnă în Salamanca este cel mai bine explorată cu mașina dacă doriți să evitați frigul. Începeți în Plaza Mayor, unde iluminatul festiv persistă uneori până dimineața.\n\nLa prânz, traseul duce la Universitate și Catedrală. Încălzirea din mașină oferă pauze plăcute între minunile arhitecturale ale orașului.\n\nDupă-amiaza este perfectă pentru o excursie în istoricul Ledesma. Peisajul de iarnă al Castiliei oferă vederi largi, iar orașul de granit pare din alt timp.\n\nLa apus, reveniți la Podul Roman. Vederea catedralei iluminate de pe malul râului este impresionantă iarna, când aerul este foarte clar.",
+            "en": "A winter day in Salamanca is best explored by car if you want to avoid the cold. Start at Plaza Mayor, where festive lighting often lasts into the morning.\n\nAt noon, the route leads to the University and the Cathedral. The car's heater provides comfortable breaks between the city's architectural wonders.\n\nAfternoon is perfect for an excursion to historic Ledesma. The bare winter landscape of Castile offers wide views, and the granite city looks timeless in the clear air.\n\nAt sunset, return to the Roman Bridge. The sight of the illuminated cathedral from the riverbank is particularly impressive in the clear winter air."
+          },
+          "stops": [
+            {
+              "name": "Plaza Mayor",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich im Auto kurz auf.",
+                "hu": "Melegedjen fel egy kicsit az autóban.",
+                "ro": "Încălziți-vă puțin în mașină.",
+                "en": "Take a moment to warm up in the car."
+              }
+            },
+            {
+              "name": "New Cathedral",
+              "tip_5lang": {
+                "de": "Nutzen Sie Parkplätze mit direktem Zugang.",
+                "hu": "Használjon közvetlen bejáratú parkolókat.",
+                "ro": "Folosiți parcările cu acces direct.",
+                "en": "Use parking spots with direct access."
+              }
+            },
+            {
+              "name": "University of Salamanca",
+              "tip_5lang": {
+                "de": "Die Fassade ist im Winterlicht toll.",
+                "hu": "A homlokzat remek a téli fényben.",
+                "ro": "Fațada arată excelent în lumina de iarnă.",
+                "en": "The facade looks great in the winter light."
+              }
+            },
+            {
+              "name": "Convent of San Esteban",
+              "tip_5lang": {
+                "de": "Parken Sie windgeschützt hinter Mauern.",
+                "hu": "Parkoljon szélvédett helyen a falak mögött.",
+                "ro": "Parcați la adăpost de vânt după ziduri.",
+                "en": "Park in a wind-sheltered spot behind walls."
+              }
+            },
+            {
+              "name": "Ledesma (Excursion)",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glätte bei Frost.",
+                "hu": "Ügyeljen a csúszós utakra fagy esetén.",
+                "ro": "Atenție la polei în caz de îngheț.",
+                "en": "Watch out for icy patches if it's freezing."
+              }
+            },
+            {
+              "name": "Roman Bridge",
+              "tip_5lang": {
+                "de": "Bester Blick auf die Lichter der Stadt.",
+                "hu": "A legjobb kilátás a város fényeire.",
+                "ro": "Cea mai bună vedere la luminile orașului.",
+                "en": "Best view of the city lights from the car."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Heizen Sie das Auto vor der Fahrt auf.",
+              "Eiskratzer kann morgens nötig sein.",
+              "Sonne blendet im Winter oft sehr tief.",
+              "Ledesma hat tolle rustikale Restaurants.",
+              "Parkplätze sind im Winter leichter zu finden."
+            ],
+            "hu": [
+              "Fűtse fel az autót indulás előtt.",
+              "Reggel szükség lehet jégkaparóra.",
+              "A nap télen gyakran zavaróan alacsonyan van.",
+              "Ledesmában remek rusztikus éttermek vannak.",
+              "Télen könnyebb parkolóhelyet találni."
+            ],
+            "ro": [
+              "Încălziți mașina înainte de plecare.",
+              "Racleta poate fi necesară dimineața.",
+              "Soarele de iarnă poate fi orbitor.",
+              "Ledesma are restaurante rustice excelente.",
+              "Locurile de parcare sunt mai ușor de găsit."
+            ],
+            "en": [
+              "Pre-heat the car before you set off.",
+              "An ice scraper might be needed in the morning.",
+              "The sun can be blindingly low in winter.",
+              "Ledesma has great rustic restaurants.",
+              "Parking is usually easier to find in winter."
+            ]
+          }
+        }
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 6.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Plaza Mayor",
+            "hu": "Plaza Mayor",
+            "ro": "Plaza Mayor",
+            "en": "Plaza Mayor"
+          },
+          "coords": [
+            -5.6641,
+            40.965
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Haupthalt für alle Buslinien.",
+            "hu": "Minden buszjárat fő megállója.",
+            "ro": "Stația principală pentru toate liniile.",
+            "en": "Main stop for all bus lines."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa de las Conchas",
+            "hu": "Kagylós ház",
+            "ro": "Casa de las Conchas",
+            "en": "House of Shells"
+          },
+          "coords": [
+            -5.6662,
+            40.9631
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "In der Nähe der Universität.",
+            "hu": "Az egyetem közelében.",
+            "ro": "Aproape de universitate.",
+            "en": "Near the university."
+          }
+        },
+        {
+          "name": {
+            "de": "Universität von Salamanca",
+            "hu": "Salamancai Egyetem",
+            "ro": "Universitatea din Salamanca",
+            "en": "University of Salamanca"
+          },
+          "coords": [
+            -5.6675,
+            40.9615
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "10:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Besuchen Sie das Escuelas Mayores.",
+            "hu": "Látogasd meg az Escuelas Mayorest.",
+            "ro": "Vizitați Escuelas Mayores.",
+            "en": "Visit the Escuelas Mayores."
+          }
+        },
+        {
+          "name": {
+            "de": "Catedral Nueva",
+            "hu": "Új Székesegyház",
+            "ro": "Catedrala Nouă",
+            "en": "New Cathedral"
+          },
+          "coords": [
+            -5.666,
+            40.9605
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Kombinieren Sie den Besuch beider Kathedralen.",
+            "hu": "Látogasd meg mindkét székesegyházat.",
+            "ro": "Combinați vizita ambelor catedrale.",
+            "en": "Combine a visit to both cathedrals."
+          }
+        },
+        {
+          "name": {
+            "de": "Convento de San Esteban",
+            "hu": "Szent István kolostor",
+            "ro": "Conventul San Esteban",
+            "en": "Convent of San Esteban"
+          },
+          "coords": [
+            -5.662,
+            40.9615
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:45",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Buslinie 4 oder 8 nutzen.",
+            "hu": "Használd a 4-es vagy 8-as buszt.",
+            "ro": "Folosiți linia de autobuz 4 sau 8.",
+            "en": "Use bus line 4 or 8."
+          }
+        },
+        {
+          "name": {
+            "de": "Huerto de Calixto y Melibea",
+            "hu": "Kalisztó és Melibea kertje",
+            "ro": "Grădina Calixto și Melibea",
+            "en": "Garden of Calixto and Melibea"
+          },
+          "coords": [
+            -5.6645,
+            40.96
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ruhiger Park mit toller Aussicht.",
+            "hu": "Csendes park remek kilátással.",
+            "ro": "Parc liniștit cu o vedere superbă.",
+            "en": "Quiet park with great views."
+          }
+        },
+        {
+          "name": {
+            "de": "Puente Romano",
+            "hu": "Római híd",
+            "ro": "Podul Roman",
+            "en": "Roman Bridge"
+          },
+          "coords": [
+            -5.6667,
+            40.9575
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "16:05",
+          "stay_min": 65,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Letzter Halt am Fluss.",
+            "hu": "Utolsó megálló a folyónál.",
+            "ro": "Ultima oprire la râu.",
+            "en": "Last stop by the river."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das effiziente Bussystem Salamancas, um die Stadt bequem zu erkunden. Wir starten im historischen Kern und bewegen uns zwischen den monumentalen Kathedralen und der berühmten Universität. Die Busverbindungen ermöglichen es uns, mühelos zwischen den Sehenswürdigkeiten wie dem San Esteban Kloster und den ruhigen Gärten am Flussufer zu wechseln.",
+        "hu": "Használd Salamanca hatékony buszhálózatát a város kényelmes felfedezéséhez. A történelmi magból indulunk, és a monumentális székesegyházak, valamint a híres egyetem között közlekedünk. A buszjáratok lehetővé teszik, hogy könnyedén váltsunk a látnivalók, például a San Esteban kolostor és a folyóparti csendes kertek között.",
+        "ro": "Folosiți sistemul eficient de autobuze din Salamanca pentru a explora orașul confortabil. Începem în nucleul istoric și ne deplasăm între catedralele monumentale și faimoasa universitate. Conexiunile de autobuz ne permit să trecem fără efort între obiective precum conventul San Esteban și grădinile liniștite de pe malul râului.",
+        "en": "Use Salamanca's efficient bus system to explore the city comfortably. We start in the historic core and move between the monumental cathedrals and the famous university. The bus connections allow us to easily switch between sights like the San Esteban convent and the quiet gardens by the riverbank."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Vida & Comida",
+            "tip": "Moderne Tapas in Busnähe."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vida & Comida",
+            "tip": "Modern tapas a buszmegálló közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vida & Comida",
+            "tip": "Tapas moderne lângă stația de autobuz."
+          }
+        ],
+        "en": [
+          {
+            "name": "Vida & Comida",
+            "tip": "Modern tapas near the bus stop."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kircheninneres der Clerecía",
+            "tip": "Stille Kontemplation.",
+            "emoji": "⛪"
+          }
+        ],
+        "hu": [
+          {
+            "name": "La Clerecía belső tere",
+            "tip": "Csendes elmélyülés.",
+            "emoji": "⛪"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Interiorul bisericii Clerecía",
+            "tip": "Contemplare liniștită.",
+            "emoji": "⛪"
+          }
+        ],
+        "en": [
+          {
+            "name": "Clerecia Interior",
+            "tip": "Quiet contemplation.",
+            "emoji": "⛪"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Calle María Auxiliadora",
+            "tip": "Einkaufszone abseits der Touristenpfade."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Calle María Auxiliadora",
+            "tip": "Bevásárlóövezet a turistautakon kívül."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Calle María Auxiliadora",
+            "tip": "Zonă de cumpărături în afara traseelor turistice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Calle Maria Auxiliadora",
+            "tip": "Shopping area off the tourist path."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Zehnerkarte für günstigere Fahrten.",
+          "Die Busse fahren sehr pünktlich.",
+          "Laden Sie die offizielle Bus-App herunter."
+        ],
+        "hu": [
+          "Vegyél 10 utazásra szóló bérletet az olcsóbb jegyekért.",
+          "A buszok nagyon pontosak.",
+          "Töltsd le a hivatalos buszos applikációt."
+        ],
+        "ro": [
+          "Cumpărați un bilet cu 10 călătorii pentru tarife mai mici.",
+          "Autobuzele sunt foarte punctuale.",
+          "Descărcați aplicația oficială pentru transportul în comun."
+        ],
+        "en": [
+          "Buy a 10-trip pass for cheaper fares.",
+          "The buses are very punctual.",
+          "Download the official bus app."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie das effiziente Bussystem Salamancas, um die Stadt bequem zu erkunden. Wir starten im historischen Kern und bewegen uns zwischen den monumentalen Kathedralen und der berühmten Universität. Die Busverbindungen ermöglichen es uns, mühelos zwischen den Sehenswürdigkeiten wie dem San Esteban Kloster und den ruhigen Gärten am Flussufer zu wechseln.",
+            "hu": "Használd Salamanca hatékony buszhálózatát a város kényelmes felfedezéséhez. A történelmi magból indulunk, és a monumentális székesegyházak, valamint a híres egyetem között közlekedünk. A buszjáratok lehetővé teszik, hogy könnyedén váltsunk a látnivalók, például a San Esteban kolostor és a folyóparti csendes kertek között.",
+            "ro": "Folosiți sistemul eficient de autobuze din Salamanca pentru a explora orașul confortabil. Începem în nucleul istoric și ne deplasăm între catedralele monumentale și faimoasa universitate. Conexiunile de autobuz ne permit să trecem fără efort între obiective precum conventul San Esteban și grădinile liniștite de pe malul râului.",
+            "en": "Use Salamanca's efficient bus system to explore the city comfortably. We start in the historic core and move between the monumental cathedrals and the famous university. The bus connections allow us to easily switch between sights like the San Esteban convent and the quiet gardens by the riverbank."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Plaza Mayor",
+                "hu": "Plaza Mayor",
+                "ro": "Plaza Mayor",
+                "en": "Plaza Mayor"
+              },
+              "tip_5lang": {
+                "de": "Haupthalt für alle Buslinien.",
+                "hu": "Minden buszjárat fő megállója.",
+                "ro": "Stația principală pentru toate liniile.",
+                "en": "Main stop for all bus lines."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa de las Conchas",
+                "hu": "Kagylós ház",
+                "ro": "Casa de las Conchas",
+                "en": "House of Shells"
+              },
+              "tip_5lang": {
+                "de": "In der Nähe der Universität.",
+                "hu": "Az egyetem közelében.",
+                "ro": "Aproape de universitate.",
+                "en": "Near the university."
+              }
+            },
+            {
+              "name": {
+                "de": "Universität von Salamanca",
+                "hu": "Salamancai Egyetem",
+                "ro": "Universitatea din Salamanca",
+                "en": "University of Salamanca"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das Escuelas Mayores.",
+                "hu": "Látogasd meg az Escuelas Mayorest.",
+                "ro": "Vizitați Escuelas Mayores.",
+                "en": "Visit the Escuelas Mayores."
+              }
+            },
+            {
+              "name": {
+                "de": "Catedral Nueva",
+                "hu": "Új Székesegyház",
+                "ro": "Catedrala Nouă",
+                "en": "New Cathedral"
+              },
+              "tip_5lang": {
+                "de": "Kombinieren Sie den Besuch beider Kathedralen.",
+                "hu": "Látogasd meg mindkét székesegyházat.",
+                "ro": "Combinați vizita ambelor catedrale.",
+                "en": "Combine a visit to both cathedrals."
+              }
+            },
+            {
+              "name": {
+                "de": "Convento de San Esteban",
+                "hu": "Szent István kolostor",
+                "ro": "Conventul San Esteban",
+                "en": "Convent of San Esteban"
+              },
+              "tip_5lang": {
+                "de": "Buslinie 4 oder 8 nutzen.",
+                "hu": "Használd a 4-es vagy 8-as buszt.",
+                "ro": "Folosiți linia de autobuz 4 sau 8.",
+                "en": "Use bus line 4 or 8."
+              }
+            },
+            {
+              "name": {
+                "de": "Huerto de Calixto y Melibea",
+                "hu": "Kalisztó és Melibea kertje",
+                "ro": "Grădina Calixto și Melibea",
+                "en": "Garden of Calixto and Melibea"
+              },
+              "tip_5lang": {
+                "de": "Ruhiger Park mit toller Aussicht.",
+                "hu": "Csendes park remek kilátással.",
+                "ro": "Parc liniștit cu o vedere superbă.",
+                "en": "Quiet park with great views."
+              }
+            },
+            {
+              "name": {
+                "de": "Puente Romano",
+                "hu": "Római híd",
+                "ro": "Podul Roman",
+                "en": "Roman Bridge"
+              },
+              "tip_5lang": {
+                "de": "Letzter Halt am Fluss.",
+                "hu": "Utolsó megálló a folyónál.",
+                "ro": "Ultima oprire la râu.",
+                "en": "Last stop by the river."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Vida & Comida",
+                "tip": "Moderne Tapas in Busnähe."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Vida & Comida",
+                "tip": "Modern tapas a buszmegálló közelében."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Vida & Comida",
+                "tip": "Tapas moderne lângă stația de autobuz."
+              }
+            ],
+            "en": [
+              {
+                "name": "Vida & Comida",
+                "tip": "Modern tapas near the bus stop."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Kircheninneres der Clerecía",
+                "tip": "Stille Kontemplation.",
+                "emoji": "⛪"
+              }
+            ],
+            "hu": [
+              {
+                "name": "La Clerecía belső tere",
+                "tip": "Csendes elmélyülés.",
+                "emoji": "⛪"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Interiorul bisericii Clerecía",
+                "tip": "Contemplare liniștită.",
+                "emoji": "⛪"
+              }
+            ],
+            "en": [
+              {
+                "name": "Clerecia Interior",
+                "tip": "Quiet contemplation.",
+                "emoji": "⛪"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Calle María Auxiliadora",
+                "tip": "Einkaufszone abseits der Touristenpfade."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Calle María Auxiliadora",
+                "tip": "Bevásárlóövezet a turistautakon kívül."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Calle María Auxiliadora",
+                "tip": "Zonă de cumpărături în afara traseelor turistice."
+              }
+            ],
+            "en": [
+              {
+                "name": "Calle Maria Auxiliadora",
+                "tip": "Shopping area off the tourist path."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Kaufen Sie eine Zehnerkarte für günstigere Fahrten.",
+              "Die Busse fahren sehr pünktlich.",
+              "Laden Sie die offizielle Bus-App herunter."
+            ],
+            "hu": [
+              "Vegyél 10 utazásra szóló bérletet az olcsóbb jegyekért.",
+              "A buszok nagyon pontosak.",
+              "Töltsd le a hivatalos buszos applikációt."
+            ],
+            "ro": [
+              "Cumpărați un bilet cu 10 călătorii pentru tarife mai mici.",
+              "Autobuzele sunt foarte punctuale.",
+              "Descărcați aplicația oficială pentru transportul în comun."
+            ],
+            "en": [
+              "Buy a 10-trip pass for cheaper fares.",
+              "The buses are very punctual.",
+              "Download the official bus app."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Salamancas Stadtbusse bringen Sie bei Regen bequem und trocken zu den wichtigsten Punkten. Starten Sie an der Plaza Mayor und nutzen Sie die Linien, um die Distanzen zwischen den Monumenten zu überbrücken.\n\nMittags erreichen Sie die Universität und die Kathedrale. Die kurzen Fahrten bieten immer wieder die Gelegenheit, sich aufzuwärmen und den Regen von drinnen zu beobachten.\n\nDer Nachmittag führt Sie zum Calixto-Garten und zum San Esteban Kloster. Die Busse halten oft direkt vor den monumentalen Toren, sodass Sie kaum dem Wetter ausgesetzt sind.\n\nZum Abschluss führt der Weg zur Römischen Brücke. Nutzen Sie die Busverbindung zurück ins Zentrum, um den Tag gemütlich ausklingen zu lassen, ohne durch nasse Straßen laufen zu müssen.",
+            "hu": "Salamanca városi buszai kényelmesen és szárazon viszik el a legfontosabb pontokhoz esőben. Kezdjen a Plaza Mayoron, és használja a járatokat a műemlékek közötti távolságok áthidalására.\n\nDélben éri el az Egyetemet és a Székesegyházat. A rövid utazások lehetőséget adnak a melegedésre és az eső figyelésére az ablakból.\n\nDélután a Calixto kerthez és a San Esteban kolostorhoz látogat. A buszok gyakran közvetlenül a monumentális kapuk előtt állnak meg, így alig kell érintkeznie az időjárással.\n\nBefejezésül az út a Római hídhoz vezet. Használja a buszjáratot vissza a központba, hogy kényelmesen zárja a napot anélkül, hogy a vizes utcákon kellene gyalogolnia.",
+            "ro": "Autobuzele din Salamanca vă duc confortabil și uscat la cele mai importante puncte pe ploaie. Începeți în Plaza Mayor și folosiți liniile pentru a acoperi distanțele dintre monumente.\n\nLa prânz ajungeți la Universitate și Catedrală. Călătoriile scurte oferă mereu ocazia de a vă încălzi și de a privi ploaia de la fereastră.\n\nDupă-amiaza vă îndreptați spre Grădina Calixto și Mănăstirea San Esteban. Autobuzele opresc adesea chiar în fața porților monumentale, minimizând expunerea la vreme.\n\nÎn final, drumul duce la Podul Roman. Folosiți conexiunea de autobuz înapoi spre centru pentru a încheia ziua confortabil, fără a merge prin ploaie.",
+            "en": "Salamanca's city buses take you comfortably and dry to the most important spots during rain. Start at Plaza Mayor and use the lines to bridge the distances between monuments.\n\nAt noon, reach the University and the Cathedral. The short rides offer frequent opportunities to warm up and watch the rain from inside.\n\nAfternoon takes you to the Calixto Garden and San Esteban Monastery. Buses often stop right in front of the monumental gates, so you're hardly exposed to the weather.\n\nFinally, the path leads to the Roman Bridge. Use the bus connection back to the center to end the day comfortably without having to walk through wet streets."
+          },
+          "stops": [
+            {
+              "name": "Plaza Mayor",
+              "tip_5lang": {
+                "de": "Haltestellen sind oft überdacht.",
+                "hu": "A megállók gyakran fedettek.",
+                "ro": "Stațiile sunt adesea acoperite.",
+                "en": "Bus stops are often covered here."
+              }
+            },
+            {
+              "name": "House of Shells",
+              "tip_5lang": {
+                "de": "Kurzer Weg von der Haltestelle.",
+                "hu": "Rövid út a megállótól.",
+                "ro": "Drum scurt de la stație.",
+                "en": "Short walk from the bus stop."
+              }
+            },
+            {
+              "name": "University of Salamanca",
+              "tip_5lang": {
+                "de": "Warten Sie im Foyer auf den Bus.",
+                "hu": "Várja a buszt az előcsarnokban.",
+                "ro": "Așteptați autobuzul în hol.",
+                "en": "Wait for the bus in the foyer."
+              }
+            },
+            {
+              "name": "New Cathedral",
+              "tip_5lang": {
+                "de": "Zentraler Knotenpunkt vieler Linien.",
+                "hu": "Sok járat központi csomópontja.",
+                "ro": "Nod central pentru multe linii.",
+                "en": "Central hub for many bus lines."
+              }
+            },
+            {
+              "name": "Convent of San Esteban",
+              "tip_5lang": {
+                "de": "Linie 1 und 8 halten ganz nah.",
+                "hu": "Az 1-es és 8-as busz közel áll meg.",
+                "ro": "Liniile 1 și 8 opresc foarte aproape.",
+                "en": "Lines 1 and 8 stop very close by."
+              }
+            },
+            {
+              "name": "Garden of Calixto and Melibea",
+              "tip_5lang": {
+                "de": "Suchen Sie bei Schauern den Bus auf.",
+                "hu": "Zápor esetén keressen menedéket a buszon.",
+                "ro": "Adăpostiți-vă în autobuz la nevoie.",
+                "en": "Take the bus if a shower starts."
+              }
+            },
+            {
+              "name": "Roman Bridge",
+              "tip_5lang": {
+                "de": "Letzter Bus zurück ins Zentrum.",
+                "hu": "Az utolsó busz vissza a központba.",
+                "ro": "Ultimul autobuz înapoi spre centru.",
+                "en": "Check for the last bus back to the center."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kaufen Sie eine Mehrfahrtenkarte.",
+              "Nutzen Sie die App für Echtzeitdaten.",
+              "Busse sind bei Regen oft voller.",
+              "Achten Sie auf die Ansagen der Haltestellen.",
+              "Tragen Sie einen kleinen faltbaren Schirm."
+            ],
+            "hu": [
+              "Vásároljon gyűjtőjegyet.",
+              "Használja az alkalmazást a valós adatokhoz.",
+              "A buszok esőben gyakran zsúfoltabbak.",
+              "Ügyeljen a megállók bemondására.",
+              "Vigyen magával egy kis összecsukható ernyőt."
+            ],
+            "ro": [
+              "Cumpărați o cartelă cu mai multe călătorii.",
+              "Folosiți aplicația pentru date în timp real.",
+              "Autobuzele sunt mai pline pe ploaie.",
+              "Fiți atenți la anunțurile stațiilor.",
+              "Purtați o umbrelă mică pliabilă."
+            ],
+            "en": [
+              "Buy a multi-trip card to save money.",
+              "Use the transit app for real-time data.",
+              "Buses are often more crowded in the rain.",
+              "Pay attention to the stop announcements.",
+              "Carry a small foldable umbrella."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die beheizten Busse sind im Winter der ideale Weg, um Salamanca ohne Frieren zu erleben. Starten Sie an der Plaza Mayor und genießen Sie die Aussicht auf die winterliche Stadt aus dem warmen Bus heraus.\n\nMittags erreichen Sie die Universität. Der Kontrast zwischen der klaren Kälte draußen und der Wärme im Bus macht die Besichtigungstour sehr angenehm und entspannt.\n\nDer Nachmittag führt Sie zu den Kathedralen und Klöstern. Im Winter sind die Busse oft ein Treffpunkt der Einheimischen, was Ihnen einen authentischen Einblick in das Leben der Stadt gibt.\n\nZum Abend hin, wenn es dunkel wird, bietet die Fahrt zur Römischen Brücke einen tollen Blick auf die beleuchteten Wahrzeichen. Die Busverbindung bringt Sie sicher und warm zurück zu Ihrem Hotel oder Restaurant.",
+            "hu": "A fűtött buszok télen ideálisak Salamanca felfedezéséhez fagyoskodás nélkül. Kezdjen a Plaza Mayoron, és élvezze a téli város látványát a meleg buszból.\n\nDélben éri el az Egyetemet. A kinti tiszta hideg és a busz belső melege közötti kontraszt nagyon kellemessé és pihentetővé teszi a városnézést.\n\nDélután a székesegyházakhoz és kolostorokhoz látogat. Télen a buszok gyakran a helyiek találkozóhelyei, ami hiteles betekintést nyújt a város életébe.\n\nEste felé, amikor sötétedik, a Római hídhoz vezető út remek kilátást nyújt a kivilágított jelképekre. A busz biztonságban és melegben viszi vissza a szállodájához vagy egy étteremhez.",
+            "ro": "Autobuzele încălzite sunt modul ideal de a experimenta Salamanca iarna fără a îngheța. Începeți în Plaza Mayor și bucurați-vă de vederea orașului de iarnă din autobuzul cald.\n\nLa prânz ajungeți la Universitate. Contrastul dintre frigul de afară și căldura din autobuz face turul de vizitare foarte plăcut și relaxant.\n\nDupă-amiaza vă îndreptați spre catedrale și mănăstiri. Iarna, autobuzele sunt adesea un loc de întâlnire pentru localnici, oferindu-vă o imagine autentică.\n\nSpre seară, când se întunecă, drumul spre Podul Roman oferă o vedere excelentă asupra monumentelor iluminate. Autobuzul vă aduce în siguranță înapoi.",
+            "en": "Heated buses are the ideal way to experience Salamanca in winter without freezing. Start at Plaza Mayor and enjoy the view of the winter city from the warm bus.\n\nAt noon, reach the University. The contrast between the crisp cold outside and the warmth in the bus makes the sightseeing tour very pleasant and relaxed.\n\nAfternoon takes you to the cathedrals and monasteries. In winter, buses are often a meeting point for locals, giving you an authentic insight into city life.\n\nToward evening, as it gets dark, the ride to the Roman Bridge offers a great view of the illuminated landmarks. The bus brings you back safely and warmly."
+          },
+          "stops": [
+            {
+              "name": "Plaza Mayor",
+              "tip_5lang": {
+                "de": "Busse fahren im Winter pünktlich.",
+                "hu": "A buszok télen is pontosan járnak.",
+                "ro": "Autobuzele sunt punctuale iarna.",
+                "en": "Buses run punctually during winter."
+              }
+            },
+            {
+              "name": "House of Shells",
+              "tip_5lang": {
+                "de": "Nahegelegene Cafés zum Aufwärmen.",
+                "hu": "Közeli kávézók a melegedéshez.",
+                "ro": "Cafenele în apropiere pentru încălzire.",
+                "en": "Nearby cafes to warm up before the bus."
+              }
+            },
+            {
+              "name": "University of Salamanca",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Sitzplätze im Bus.",
+                "hu": "Használja ki az ülőhelyeket a buszon.",
+                "ro": "Profitați de locurile pe scaun.",
+                "en": "Make use of the seating in the bus."
+              }
+            },
+            {
+              "name": "New Cathedral",
+              "tip_5lang": {
+                "de": "Bester Umstiegspunkt bei Kälte.",
+                "hu": "A legjobb átszállóhely hidegben.",
+                "ro": "Cel mai bun punct de transfer la frig.",
+                "en": "Best transfer point in cold weather."
+              }
+            },
+            {
+              "name": "Convent of San Esteban",
+              "tip_5lang": {
+                "de": "Haltestelle bietet Windschutz.",
+                "hu": "A megálló szélvédelmet nyújt.",
+                "ro": "Stația oferă protecție contra vântului.",
+                "en": "The bus stop provides wind protection."
+              }
+            },
+            {
+              "name": "Garden of Calixto and Melibea",
+              "tip_5lang": {
+                "de": "Rövid tartózkodás a hideg miatt.",
+                "hu": "Rövid tartózkodás a hideg miatt.",
+                "ro": "Vizită scurtă din cauza frigului.",
+                "en": "Keep the visit short due to the cold."
+              }
+            },
+            {
+              "name": "Roman Bridge",
+              "tip_5lang": {
+                "de": "Busse fahren bis spät am Abend.",
+                "hu": "A buszok késő estig közlekednek.",
+                "ro": "Autobuzele circulă până târziu.",
+                "en": "Buses run until late in the evening."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Genießen Sie die Fahrt durch die Stadt.",
+              "Tragen Sie warme Kleidung für die Wartezeit.",
+              "Abends ist der Bus gemütlich beleuchtet.",
+              "Fragen Sie den Fahrer nach dem Weg.",
+              "Fahrpläne hängen an jeder Haltestelle aus."
+            ],
+            "hu": [
+              "Élvezze az utazást a városon át.",
+              "Viseljen meleg ruhát a várakozáshoz.",
+              "Este a busz barátságosan kivilágított.",
+              "Kérdezze a sofőrt az útvonalról.",
+              "A menetrendek minden megállóban kint vannak."
+            ],
+            "ro": [
+              "Bucurați-vă de drumul prin oraș.",
+              "Purtați haine groase pentru așteptare.",
+              "Seara, autobuzul este iluminat plăcut.",
+              "Întrebați șoferul despre traseu.",
+              "Orarele sunt afișate în fiecare stație."
+            ],
+            "en": [
+              "Enjoy the ride through the city.",
+              "Wear warm clothes for the waiting time.",
+              "In the evening, the bus is cozily lit.",
+              "Ask the driver if you're unsure of the way.",
+              "Schedules are posted at every stop."
+            ]
+          }
+        }
+      }
+    }
+  },
+  "external_resources": {
+    "tourism_office": "https://www.salamanca.es/en/turismo",
+    "city_card": "https://salamanca.es/en/tarjeta-turistica",
+    "events": "https://salamanca.es/en/agenda",
+    "transit_official": "https://www.aytosalamanca.gob.es/es/serviciosmunicipales/transporteurbano",
+    "museum_tickets": "https://catedralsalamanca.org/",
+    "language_tips": {
+      "de": "Salamanca gilt als die Stadt mit dem reinsten Spanisch Spaniens, ideal zum Sprachen lernen. Tausende internationale Studenten machen die Stadt englischfreundlich, in Bars und Kneipen klappt es problemlos. 'Vamos de tapas?' (gehen wir Tapas essen?) ist hier Lebensgefuehl.",
+      "hu": "Salamanca Spanyolorszag legtisztabb spanyoljat beszeli, idealis nyelvtanulasra. Tobb ezer nemzetkozi diak miatt a varos angolbarat, barokban es kocsmakban problema nelkul megy. 'Vamos de tapas?' (megyunk tapazni?) itt eletform.",
+      "ro": "Salamanca e considerata orasul cu cea mai pura spaniola din Spania, ideal pentru invatat limba. Mii de studenti internationali fac orasul prietenos cu engleza, in baruri si carciumi merge fara probleme. 'Vamos de tapas?' (mergem la tapas?) aici e mod de viata.",
+      "en": "Salamanca is reputed to speak Spain's purest Spanish — ideal for language learners. Thousands of international students make the city English-friendly, especially in bars and pubs. 'Vamos de tapas?' (let's go for tapas?) is the local lifestyle motto."
+    },
+    "best_time_to_visit": {
+      "de": "Mai, Juni und September sind perfekt: 18-26 Grad, goldener Sandstein leuchtet im Abendlicht. Juli und August heiss (35 Grad), aber das Studentenleben pausiert, also weniger Trubel. Winter eiskalt (oft unter Null), aber die Plaza Mayor in der Weihnachtsbeleuchtung ist Postkarten-Material.",
+      "hu": "Majus, junius es szeptember a tokeletes: 18-26 fok, az aranyszinu homokko ragyog az esti fenyben. Julius-augusztus forro (35 fok), de a diakelet szunetel, kevesbe nyuzsgo. Telen jegmegszi (gyakran fagypont alatt), de a karacsonyi diszben uszo Plaza Mayor kepeslapra valo.",
+      "ro": "Mai, iunie si septembrie sunt perfecte: 18-26 grade, gresia aurie straluceste in lumina serii. Iulie si august sunt calde (35 grade), dar viata studenteasca face pauza, mai putina agitatie. Iarna geroasa (deseori sub zero), dar Plaza Mayor in luminile de Craciun e de carte postala.",
+      "en": "May, June and September are perfect: 18-26°C, golden sandstone glowing in evening light. July and August get hot (35°C), but student life pauses so the city is calmer. Winter is freezing (often below zero), but Plaza Mayor in Christmas lights is postcard-perfect."
+    },
+    "neighborhood_warnings": {
+      "de": "Eine der sichersten Staedte Spaniens, Studentenstadt mit Polizeipraesenz. Plaza Mayor und Calle Toro nachts belebt und entspannt. Einzige Vorsicht: am Wochenende koennen Studentenpartys laut werden, also Unterkunft nicht direkt am Plaza Mayor buchen wenn du frueh schlafen willst.",
+      "hu": "Spanyolorszag egyik legbiztonsagosabb varosa, diakvaros sok rendori jelenlettel. A Plaza Mayor es a Calle Toro ejjel is laza es elenk. Egyetlen ovatossag: hetvegen a diakbulik hangosak, ne foglalj a Plaza Mayoron alvasra ha korai alvo vagy.",
+      "ro": "Unul din cele mai sigure orase din Spania, oras studentesc cu prezenta politiei vizibila. Plaza Mayor si Calle Toro sunt vii si relaxate noaptea. Singura atentie: in weekend petrecerile studentilor pot fi zgomotoase, nu rezerva chiar pe Plaza Mayor daca vrei sa dormi devreme.",
+      "en": "One of Spain's safest cities, a student town with strong police presence. Plaza Mayor and Calle Toro are lively and relaxed at night. Only caveat: weekend student parties get loud, so don't book lodging on Plaza Mayor itself if you sleep early."
+    },
+    "webcam": "https://www.skylinewebcams.com/en/webcam/espana/castilla-y-leon/salamanca.html"
+  }
+}

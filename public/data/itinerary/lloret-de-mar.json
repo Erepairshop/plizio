@@ -1,0 +1,2593 @@
+{
+  "city_id": "lloret-de-mar",
+  "anchor": {
+    "name": "Lloret de Mar Center",
+    "coords": [
+      2.845,
+      41.7
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "18:45",
+      "total_km": 4.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Església de Sant Romà",
+            "hu": "Szent Roman-templom",
+            "ro": "Biserica Sant Romà",
+            "en": "Church of Sant Romà"
+          },
+          "coords": [
+            2.8475,
+            41.7001
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Achten Sie auf die farbenfrohen Dachziegel.",
+            "hu": "Figyelje meg a színes tetőcserepeket.",
+            "ro": "Observați țiglele colorate de pe acoperiș.",
+            "en": "Look up at the colorful mosaic tiles on the roof."
+          }
+        },
+        {
+          "name": {
+            "de": "Museu del Mar",
+            "hu": "Tengerészeti Múzeum",
+            "ro": "Muzeul Mării",
+            "en": "Maritime Museum"
+          },
+          "coords": [
+            2.8492,
+            41.7005
+          ],
+          "category": "museums",
+          "arrive_at": "10:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Das Gebäude Can Garriga selbst ist ein Juwel.",
+            "hu": "A Can Garriga épülete önmagában is ékszerdoboz.",
+            "ro": "Clădirea Can Garriga este o bijuterie în sine.",
+            "en": "The Can Garriga building is a gem in itself."
+          }
+        },
+        {
+          "name": {
+            "de": "Castell d'en Plaja",
+            "hu": "Castell d'en Plaja",
+            "ro": "Castell d'en Plaja",
+            "en": "Castell d'en Plaja"
+          },
+          "coords": [
+            2.8588,
+            41.6995
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein moderner Bau, der wie eine mittelalterliche Burg wirkt.",
+            "hu": "Modern építmény, amely középkori várnak tűnik.",
+            "ro": "O structură modernă care arată ca un castel medieval.",
+            "en": "A modern structure that looks like a medieval castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Dona Marinera",
+            "hu": "A halász felesége szobor",
+            "ro": "Statuia Dona Marinera",
+            "en": "Dona Marinera Statue"
+          },
+          "coords": [
+            2.8422,
+            41.6963
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "14:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Berühren Sie den Fuß der Statue für Glück.",
+            "hu": "Érintse meg a szobor lábát a szerencse érdekében.",
+            "ro": "Atingeți piciorul statuii pentru noroc.",
+            "en": "Touch the foot of the statue for good luck."
+          }
+        },
+        {
+          "name": {
+            "de": "Castell de Sant Joan",
+            "hu": "Szent János-vár",
+            "ro": "Castelul Sant Joan",
+            "en": "Sant Joan Castle"
+          },
+          "coords": [
+            2.8358,
+            41.6936
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Bester Panoramablick auf die gesamte Bucht.",
+            "hu": "A legjobb panoráma az egész öbölre.",
+            "ro": "Cea mai bună vedere panoramică asupra întregului golf.",
+            "en": "Best panoramic view of the entire bay."
+          }
+        },
+        {
+          "name": {
+            "de": "Platja de Fenals",
+            "hu": "Fenals strand",
+            "ro": "Plaja Fenals",
+            "en": "Fenals Beach"
+          },
+          "coords": [
+            2.8315,
+            41.6925
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "17:05",
+          "stay_min": 130,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Ruhiger als der Hauptstrand von Lloret.",
+            "hu": "Nyugodtabb, mint Lloret fő strandja.",
+            "ro": "Mai liniștită decât plaja principală din Lloret.",
+            "en": "Quieter than the main beach of Lloret."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt im historischen Zentrum bei der fotogenen Kirche Sant Romà mit ihren bunten Kuppeln. Danach tauchen wir im Schifffahrtsmuseum in die maritime Vergangenheit der Stadt ein.\n\nMittags spazieren wir entlang der Küste zum Castell d'en Plaja, das majestätisch über den Klippen thront. Es ist der perfekte Ort für beeindruckende Urlaubsfotos vor dem azurblauen Meer.\n\nAm Nachmittag führt der Weg zur Dona Marinera, der Bronzestatue, die über das Meer wacht. Von dort steigen wir hinauf zur alten Festung Sant Joan, um den weiten Blick über die Costa Brava zu genießen.\n\nDer Tag endet entspannt am Platja de Fenals. In den umliegenden Strandbars kann man den Sonnenuntergang bei einem kühlen Getränk und lokalen Spezialitäten ausklingen lassen.",
+        "hu": "A reggelt a történelmi központban kezdjük a fotogén Sant Romà-templomnál, amely színes kupoláival hívja fel magára a figyelmet. Ezután a tengerészeti múzeumban merülünk el a város hajózási múltjában.\n\nDélben a tengerpart mentén sétálunk a Castell d'en Plaja felé, amely méltóságteljesen magasodik a sziklák fölé. Tökéletes helyszín lenyűgöző fotók készítéséhez az azúrkék tenger előtt.\n\nDélután a Dona Marinera bronzszobrához vezet az utunk, amely a tenger felett őrködik. Innen felkapaszkodunk a Sant Joan-vár romjaihoz, hogy élvezzük a Costa Brava legszebb panorámáját.\n\nA napot a Fenals-strandon zárjuk. A környékbeli bárokban egy hűsítő ital és helyi falatok mellett nézhetjük végig, ahogy a nap lassan a horizont alá bukik.",
+        "ro": "Dimineața începe în centrul istoric, la fotogenica biserică Sant Romà, cu cupolele sale colorate. Apoi, ne scufundăm în trecutul maritim al orașului la Muzeul Mării.\n\nLa prânz, ne plimbăm de-a lungul coastei spre Castell d'en Plaja, care tronează maiestuos deasupra stâncilor. Este locul perfect pentru fotografii de vacanță impresionante în fața mării azurii.\n\nDupă-amiaza, drumul ne duce la Dona Marinera, statuia de bronz care veghează asupra mării. De acolo, urcăm la vechea cetate Sant Joan pentru a ne bucura de o vedere panoramică asupra Costa Brava.\n\nZiua se încheie relaxat pe plaja Fenals. La barurile de pe plajă, puteți savura apusul cu o băutură rece și specialități locale, încheind vizita într-o notă liniștită.",
+        "en": "The morning starts in the historical center at the photogenic Sant Romà church with its colorful domes. Afterwards, we dive into the city's maritime past at the Sea Museum.\n\nAt noon, we walk along the coast to Castell d'en Plaja, which towers majestically over the cliffs. It is the perfect spot for impressive holiday photos in front of the azure sea.\n\nIn the afternoon, the path leads to Dona Marinera, the bronze statue watching over the sea. From there, we climb up to the old Sant Joan fortress to enjoy the wide view over the Costa Brava.\n\nThe day ends relaxingly at Fenals Beach. In the nearby beach bars, you can end the day watching the sunset with a cool drink and local specialties."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Arroz Negro",
+            "tip": "Schwarzer Reis mit Tintenfisch, eine lokale Spezialität."
+          },
+          {
+            "name": "Restaurant El Trull",
+            "tip": "Exzellente Meeresfrüchte in der Nähe der Bucht von Canyelles."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Arroz Negro",
+            "tip": "Fekete rizs tintahallal, igazi katalán különlegesség."
+          },
+          {
+            "name": "Restaurant El Trull",
+            "tip": "Kiváló tengeri ételek a Canyelles-öböl közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Arroz Negro",
+            "tip": "Orez negru cu calamar, o specialitate locală autentică."
+          },
+          {
+            "name": "Restaurant El Trull",
+            "tip": "Fructe de mare excelente lângă golful Canyelles."
+          }
+        ],
+        "en": [
+          {
+            "name": "Arroz Negro",
+            "tip": "Black rice with squid, a true local Catalan specialty."
+          },
+          {
+            "name": "Restaurant El Trull",
+            "tip": "Excellent seafood located near Canyelles bay."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Cala Banys",
+            "tip": "Felsige Bucht, ideal für einen Drink in Ruhe.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Sa Caleta",
+            "tip": "Kleine Bucht unterhalb des Schlosses.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cala Banys",
+            "tip": "Sziklás öböl, ideális egy nyugodt italhoz.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Sa Caleta",
+            "tip": "Kis öböl közvetlenül a vár alatt.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cala Banys",
+            "tip": "Golf stâncos, ideal pentru o băutură în liniște.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Sa Caleta",
+            "tip": "Mic golfuleț situat chiar sub castel.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cala Banys",
+            "tip": "Rocky bay, ideal for a quiet drink by the sea.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Sa Caleta",
+            "tip": "Small cove located directly below the castle.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Carrer de Sant Pere",
+            "tip": "Die Haupteinkaufsstraße mit vielen Boutiquen."
+          },
+          {
+            "name": "Wochenmarkt",
+            "tip": "Jeden Dienstagvormittag gibt es lokale Produkte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Carrer de Sant Pere",
+            "tip": "A fő bevásárlóutca számos butikkal."
+          },
+          {
+            "name": "Heti piac",
+            "tip": "Minden kedd délelőtt helyi termékekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Carrer de Sant Pere",
+            "tip": "Principala stradă comercială cu multe buticuri."
+          },
+          {
+            "name": "Piața săptămânală",
+            "tip": "În fiecare marți dimineața cu produse locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Carrer de Sant Pere",
+            "tip": "The main shopping street with many boutiques."
+          },
+          {
+            "name": "Weekly Market",
+            "tip": "Every Tuesday morning featuring local products."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für die Küstenwege.",
+          "Besuchen Sie die Kirche am frühen Vormittag.",
+          "Die Küstenpfade (Camí de Ronda) sind ein Muss.",
+          "Vermeiden Sie die Mittagshitze am Hauptstrand."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt a tengerparti ösvényekhez.",
+          "Látogassa meg a templomot kora délelőtt.",
+          "A tengerparti gyalogutak (Camí de Ronda) kihagyhatatlanok.",
+          "Kerülje a déli hőséget a fő strandon."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă pentru potecile de coastă.",
+          "Vizitați biserica dimineața devreme.",
+          "Traseele de coastă (Camí de Ronda) sunt obligatorii.",
+          "Evitați căldura de la prânz pe plaja principală."
+        ],
+        "en": [
+          "Wear comfortable shoes for the coastal paths.",
+          "Visit the church in the early morning.",
+          "The coastal footpaths (Camí de Ronda) are a must.",
+          "Avoid the midday heat on the main beach."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt im historischen Zentrum bei der fotogenen Kirche Sant Romà mit ihren bunten Kuppeln. Danach tauchen wir im Schifffahrtsmuseum in die maritime Vergangenheit der Stadt ein.\n\nMittags spazieren wir entlang der Küste zum Castell d'en Plaja, das majestätisch über den Klippen thront. Es ist der perfekte Ort für beeindruckende Urlaubsfotos vor dem azurblauen Meer.\n\nAm Nachmittag führt der Weg zur Dona Marinera, der Bronzestatue, die über das Meer wacht. Von dort steigen wir hinauf zur alten Festung Sant Joan, um den weiten Blick über die Costa Brava zu genießen.\n\nDer Tag endet entspannt am Platja de Fenals. In den umliegenden Strandbars kann man den Sonnenuntergang bei einem kühlen Getränk und lokalen Spezialitäten ausklingen lassen.",
+            "hu": "A reggelt a történelmi központban kezdjük a fotogén Sant Romà-templomnál, amely színes kupoláival hívja fel magára a figyelmet. Ezután a tengerészeti múzeumban merülünk el a város hajózási múltjában.\n\nDélben a tengerpart mentén sétálunk a Castell d'en Plaja felé, amely méltóságteljesen magasodik a sziklák fölé. Tökéletes helyszín lenyűgöző fotók készítéséhez az azúrkék tenger előtt.\n\nDélután a Dona Marinera bronzszobrához vezet az utunk, amely a tenger felett őrködik. Innen felkapaszkodunk a Sant Joan-vár romjaihoz, hogy élvezzük a Costa Brava legszebb panorámáját.\n\nA napot a Fenals-strandon zárjuk. A környékbeli bárokban egy hűsítő ital és helyi falatok mellett nézhetjük végig, ahogy a nap lassan a horizont alá bukik.",
+            "ro": "Dimineața începe în centrul istoric, la fotogenica biserică Sant Romà, cu cupolele sale colorate. Apoi, ne scufundăm în trecutul maritim al orașului la Muzeul Mării.\n\nLa prânz, ne plimbăm de-a lungul coastei spre Castell d'en Plaja, care tronează maiestuos deasupra stâncilor. Este locul perfect pentru fotografii de vacanță impresionante în fața mării azurii.\n\nDupă-amiaza, drumul ne duce la Dona Marinera, statuia de bronz care veghează asupra mării. De acolo, urcăm la vechea cetate Sant Joan pentru a ne bucura de o vedere panoramică asupra Costa Brava.\n\nZiua se încheie relaxat pe plaja Fenals. La barurile de pe plajă, puteți savura apusul cu o băutură rece și specialități locale, încheind vizita într-o notă liniștită.",
+            "en": "The morning starts in the historical center at the photogenic Sant Romà church with its colorful domes. Afterwards, we dive into the city's maritime past at the Sea Museum.\n\nAt noon, we walk along the coast to Castell d'en Plaja, which towers majestically over the cliffs. It is the perfect spot for impressive holiday photos in front of the azure sea.\n\nIn the afternoon, the path leads to Dona Marinera, the bronze statue watching over the sea. From there, we climb up to the old Sant Joan fortress to enjoy the wide view over the Costa Brava.\n\nThe day ends relaxingly at Fenals Beach. In the nearby beach bars, you can end the day watching the sunset with a cool drink and local specialties."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Església de Sant Romà",
+                "hu": "Szent Roman-templom",
+                "ro": "Biserica Sant Romà",
+                "en": "Church of Sant Romà"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf die farbenfrohen Dachziegel.",
+                "hu": "Figyelje meg a színes tetőcserepeket.",
+                "ro": "Observați țiglele colorate de pe acoperiș.",
+                "en": "Look up at the colorful mosaic tiles on the roof."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu del Mar",
+                "hu": "Tengerészeti Múzeum",
+                "ro": "Muzeul Mării",
+                "en": "Maritime Museum"
+              },
+              "tip_5lang": {
+                "de": "Das Gebäude Can Garriga selbst ist ein Juwel.",
+                "hu": "A Can Garriga épülete önmagában is ékszerdoboz.",
+                "ro": "Clădirea Can Garriga este o bijuterie în sine.",
+                "en": "The Can Garriga building is a gem in itself."
+              }
+            },
+            {
+              "name": {
+                "de": "Castell d'en Plaja",
+                "hu": "Castell d'en Plaja",
+                "ro": "Castell d'en Plaja",
+                "en": "Castell d'en Plaja"
+              },
+              "tip_5lang": {
+                "de": "Ein moderner Bau, der wie eine mittelalterliche Burg wirkt.",
+                "hu": "Modern építmény, amely középkori várnak tűnik.",
+                "ro": "O structură modernă care arată ca un castel medieval.",
+                "en": "A modern structure that looks like a medieval castle."
+              }
+            },
+            {
+              "name": {
+                "de": "Dona Marinera",
+                "hu": "A halász felesége szobor",
+                "ro": "Statuia Dona Marinera",
+                "en": "Dona Marinera Statue"
+              },
+              "tip_5lang": {
+                "de": "Berühren Sie den Fuß der Statue für Glück.",
+                "hu": "Érintse meg a szobor lábát a szerencse érdekében.",
+                "ro": "Atingeți piciorul statuii pentru noroc.",
+                "en": "Touch the foot of the statue for good luck."
+              }
+            },
+            {
+              "name": {
+                "de": "Castell de Sant Joan",
+                "hu": "Szent János-vár",
+                "ro": "Castelul Sant Joan",
+                "en": "Sant Joan Castle"
+              },
+              "tip_5lang": {
+                "de": "Bester Panoramablick auf die gesamte Bucht.",
+                "hu": "A legjobb panoráma az egész öbölre.",
+                "ro": "Cea mai bună vedere panoramică asupra întregului golf.",
+                "en": "Best panoramic view of the entire bay."
+              }
+            },
+            {
+              "name": {
+                "de": "Platja de Fenals",
+                "hu": "Fenals strand",
+                "ro": "Plaja Fenals",
+                "en": "Fenals Beach"
+              },
+              "tip_5lang": {
+                "de": "Ruhiger als der Hauptstrand von Lloret.",
+                "hu": "Nyugodtabb, mint Lloret fő strandja.",
+                "ro": "Mai liniștită decât plaja principală din Lloret.",
+                "en": "Quieter than the main beach of Lloret."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Arroz Negro",
+                "tip": "Schwarzer Reis mit Tintenfisch, eine lokale Spezialität."
+              },
+              {
+                "name": "Restaurant El Trull",
+                "tip": "Exzellente Meeresfrüchte in der Nähe der Bucht von Canyelles."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Arroz Negro",
+                "tip": "Fekete rizs tintahallal, igazi katalán különlegesség."
+              },
+              {
+                "name": "Restaurant El Trull",
+                "tip": "Kiváló tengeri ételek a Canyelles-öböl közelében."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Arroz Negro",
+                "tip": "Orez negru cu calamar, o specialitate locală autentică."
+              },
+              {
+                "name": "Restaurant El Trull",
+                "tip": "Fructe de mare excelente lângă golful Canyelles."
+              }
+            ],
+            "en": [
+              {
+                "name": "Arroz Negro",
+                "tip": "Black rice with squid, a true local Catalan specialty."
+              },
+              {
+                "name": "Restaurant El Trull",
+                "tip": "Excellent seafood located near Canyelles bay."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Cala Banys",
+                "tip": "Felsige Bucht, ideal für einen Drink in Ruhe.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Sa Caleta",
+                "tip": "Kleine Bucht unterhalb des Schlosses.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Cala Banys",
+                "tip": "Sziklás öböl, ideális egy nyugodt italhoz.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Sa Caleta",
+                "tip": "Kis öböl közvetlenül a vár alatt.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Cala Banys",
+                "tip": "Golf stâncos, ideal pentru o băutură în liniște.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Sa Caleta",
+                "tip": "Mic golfuleț situat chiar sub castel.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Cala Banys",
+                "tip": "Rocky bay, ideal for a quiet drink by the sea.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Sa Caleta",
+                "tip": "Small cove located directly below the castle.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Carrer de Sant Pere",
+                "tip": "Die Haupteinkaufsstraße mit vielen Boutiquen."
+              },
+              {
+                "name": "Wochenmarkt",
+                "tip": "Jeden Dienstagvormittag gibt es lokale Produkte."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Carrer de Sant Pere",
+                "tip": "A fő bevásárlóutca számos butikkal."
+              },
+              {
+                "name": "Heti piac",
+                "tip": "Minden kedd délelőtt helyi termékekkel."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Carrer de Sant Pere",
+                "tip": "Principala stradă comercială cu multe buticuri."
+              },
+              {
+                "name": "Piața săptămânală",
+                "tip": "În fiecare marți dimineața cu produse locale."
+              }
+            ],
+            "en": [
+              {
+                "name": "Carrer de Sant Pere",
+                "tip": "The main shopping street with many boutiques."
+              },
+              {
+                "name": "Weekly Market",
+                "tip": "Every Tuesday morning featuring local products."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Tragen Sie bequeme Schuhe für die Küstenwege.",
+              "Besuchen Sie die Kirche am frühen Vormittag.",
+              "Die Küstenpfade (Camí de Ronda) sind ein Muss.",
+              "Vermeiden Sie die Mittagshitze am Hauptstrand."
+            ],
+            "hu": [
+              "Viseljen kényelmes cipőt a tengerparti ösvényekhez.",
+              "Látogassa meg a templomot kora délelőtt.",
+              "A tengerparti gyalogutak (Camí de Ronda) kihagyhatatlanok.",
+              "Kerülje a déli hőséget a fő strandon."
+            ],
+            "ro": [
+              "Purtați încălțăminte confortabilă pentru potecile de coastă.",
+              "Vizitați biserica dimineața devreme.",
+              "Traseele de coastă (Camí de Ronda) sunt obligatorii.",
+              "Evitați căldura de la prânz pe plaja principală."
+            ],
+            "en": [
+              "Wear comfortable shoes for the coastal paths.",
+              "Visit the church in the early morning.",
+              "The coastal footpaths (Camí de Ronda) are a must.",
+              "Avoid the midday heat on the main beach."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bewundern wir die bunten Mosaike der Kirche Sant Romà, während der Regen auf die Kuppeln trommelt. Danach bietet das Meeresmuseum einen trockenen Zufluchtsort mit maritimer Geschichte.\n\nMittags führt der Küstenweg zum Castell d'en Plaja, wo die Wellen dramatisch gegen die Felsen schlagen. Ein Regenschirm ist auf dem exponierten Pfad unerlässlich.\n\nAm Nachmittag trotzen wir dem Wetter bei der Dona Marinera Statue und steigen zum Sant Joan Castle auf, um den stürmischen Blick über das Meer zu genießen.\n\nAbends beenden wir die Tour am Fenals Beach, wo die graue See eine ganz eigene, mystische Ruhe ausstrahlt, bevor wir in eine gemütliche Bar einkehren.",
+            "hu": "Reggel a Sant Romà templom színes mozaikjaiban gyönyörködünk, miközben az eső kopog a kupolákon. Ezután a Tengerészeti Múzeum nyújt száraz menedéket a tengerhajózás történetével.\n\nDélben a tengerparti sétányon haladunk a Castell d'en Plaja felé, ahol a hullámok drámai módon csapkodják a sziklákat. Az ernyő elengedhetetlen a szeles ösvényen.\n\nDélután meglátogatjuk a Dona Marinera szobrot, majd felkapaszkodunk a Sant Joan várba a viharos tengeri panorámáért.\n\nEste a Fenals strandon zárjuk a napot, ahol a szürke víztükör misztikus nyugalmat áraszt, mielőtt betérnénk egy hangulatos belvárosi tapas bárba.",
+            "ro": "Dimineața admirăm mozaicurile colorate ale bisericii Sant Romà în timp ce ploaia bate în cupole. Muzeul Maritim oferă apoi un refugiu uscat plin de istorie navală.\n\nLa prânz, drumul de coastă ne duce spre Castell d'en Plaja, unde valurile se sparg dramatic de stânci. Umbrela este esențială pe poteca expusă vântului.\n\nDupă-amiaza vizităm statuia Dona Marinera și urcăm la Castelul Sant Joan pentru o panoramă spectaculoasă asupra mării agitate.\n\nSeara încheiem turul pe plaja Fenals, unde marea cenușie emană o liniște mistică, înainte de a ne retrage într-un local primitor din centru.",
+            "en": "In the morning, we admire the colorful mosaics of Sant Romà Church as rain taps on the domes. The Maritime Museum then provides a dry haven with seafaring history.\n\nAt midday, the coastal path leads to Castell d'en Plaja, where waves crash dramatically against the rocks. An umbrella is essential on the exposed trail.\n\nIn the afternoon, we visit the Dona Marinera statue and climb to Sant Joan Castle for a stormy yet grand sea view.\n\nIn the evening, we end at Fenals Beach, where the grey sea offers a unique, mystical calm before retreating to a cozy downtown tapas bar."
+          },
+          "stops": [
+            {
+              "name": "Church of Sant Romà",
+              "tip_5lang": {
+                "de": "Der Innenraum bietet perfekten Schutz vor Schauern.",
+                "hu": "A belső tér tökéletes menedék a záporok elől.",
+                "ro": "Interiorul oferă adăpost perfect împotriva ploii.",
+                "en": "The interior provides perfect shelter from showers."
+              }
+            },
+            {
+              "name": "Maritime Museum",
+              "tip_5lang": {
+                "de": "Ideal für eine ausgiebige Besichtigung bei starkem Regen.",
+                "hu": "Ideális egy hosszú látogatásra szakadó esőben.",
+                "ro": "Ideal pentru o vizită lungă când plouă torențial.",
+                "en": "Ideal for an extended visit during heavy rain."
+              }
+            },
+            {
+              "name": "Castell d'en Plaja",
+              "tip_5lang": {
+                "de": "Vorsicht, die Felsenpfade können bei Nässe rutschig sein.",
+                "hu": "Vigyázat, a sziklás ösvények csúszósak lehetnek.",
+                "ro": "Atenție, potecile stâncoase pot fi alunecoase pe ploaie.",
+                "en": "Caution, the rocky paths can be slippery when wet."
+              }
+            },
+            {
+              "name": "Dona Marinera Statue",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp; der Wind ist hier bei Regen oft stark.",
+                "hu": "Gyors fotómegálló; a szél itt gyakran erős esőben.",
+                "ro": "Oprire scurtă; vântul este adesea puternic aici.",
+                "en": "Quick photo stop; wind is often strong here in the rain."
+              }
+            },
+            {
+              "name": "Sant Joan Castle",
+              "tip_5lang": {
+                "de": "Fester Tritt auf dem Weg nach oben ist bei Regen wichtig.",
+                "hu": "Fontos a biztos lépés felfelé az esőben.",
+                "ro": "Pașii siguri sunt importanți la urcare pe ploaie.",
+                "en": "Sure footing is important on the climb during rain."
+              }
+            },
+            {
+              "name": "Fenals Beach",
+              "tip_5lang": {
+                "de": "Die Cafés an der Promenade bieten trockene Sitzplätze.",
+                "hu": "A sétány kávézói száraz ülőhelyeket kínálnak.",
+                "ro": "Cafenelele de pe faleză oferă locuri uscate.",
+                "en": "Promenade cafes offer dry seating areas."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie rutschfeste Schuhe für die Küstenwege.",
+              "Das Meeresmuseum ist der beste Ort für längere Regengüsse.",
+              "Die Windböen am Meer können Billigregenschirme zerstören.",
+              "Viele Bars in der Carrer de la Vila bieten warme Tapas."
+            ],
+            "hu": [
+              "Viseljen csúszásmentes cipőt a parti ösvényeken.",
+              "A Tengerészeti Múzeum a legjobb hely tartós eső esetén.",
+              "A tengerparti széllökések tönkretehetik az olcsó ernyőket.",
+              "A Carrer de la Vila bárjai kiváló meleg tapasokat kínálnak."
+            ],
+            "ro": [
+              "Purtați încălțăminte antiderapantă pentru potecile de coastă.",
+              "Muzeul Maritim este cel mai bun loc în caz de ploaie de durată.",
+              "Rafalele de vânt de pe mal pot distruge umbrelele ieftine.",
+              "Multe baruri de pe Carrer de la Vila oferă tapas calde."
+            ],
+            "en": [
+              "Wear non-slip shoes for the coastal paths.",
+              "The Maritime Museum is the best spot during persistent rain.",
+              "Coastal wind gusts can easily break cheap umbrellas.",
+              "Many bars on Carrer de la Vila offer great warm tapas."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen beginnt frisch an der Kirche Sant Romà. Die klare Luft lässt die Farben der Modernisten-Architektur besonders intensiv leuchten.\n\nMittags erkunden wir das Meeresmuseum. Ohne die Sommermassen kann man die Exponate in aller Ruhe studieren, während die milde Wintersonne durch die Fenster scheint.\n\nAm Nachmittag wandern wir zum Castell d'en Plaja und weiter zur Dona Marinera. Die Sicht ist im Winter oft klarer, was den Blick auf die Costa Brava spektakulär macht.\n\nZum Abendessen erreichen wir das Sant Joan Castle pünktlich zum frühen Sonnenuntergang um 17:30 Uhr, gefolgt von einem ruhigen Spaziergang am leeren Fenals Beach.",
+            "hu": "A téli reggel frissen indul a Sant Romà templomnál. A tiszta levegőben a modernista építészet színei különösen intenzíven ragyognak.\n\nDélben a Tengerészeti Múzeumot fedezzük fel. A nyári tömeg nélkül nyugodtan tanulmányozhatjuk a tárlatot, miközben a gyenge téli nap besüt az ablakokon.\n\nDélután elgyalogolunk a Castell d'en Plaja-hoz és a Dona Marinera szoborhoz. A látótávolság télen gyakran nagyobb, így a panoráma lenyűgöző.\n\nEste a Sant Joan várhoz érünk, épp az 17:30-as korai naplementére, majd egy csendes sétát teszünk az üres Fenals strandon.",
+            "ro": "Dimineața de iarnă începe proaspăt la biserica Sant Romà. Aerul curat face culorile arhitecturii moderniste să strălucească intens.\n\nLa prânz explorăm Muzeul Maritim. Fără mulțimile de vară, exponatele pot fi studiate în liniște, în timp ce soarele blând de iarnă pătrunde prin ferestre.\n\nDupă-amiaza mergem spre Castell d'en Plaja și Dona Marinera. Vizibilitatea este adesea mai bună iarna, făcând priveliștea asupra Costa Brava spectaculoasă.\n\nSeara ajungem la Castelul Sant Joan exact pentru apusul devreme de la ora 17:30, urmat de o plimbare liniștită pe plaja Fenals pustie.",
+            "en": "The winter morning starts fresh at Sant Romà Church. The crisp air makes the colors of the Modernist architecture shine intensely.\n\nAt midday, we explore the Maritime Museum. Without the summer crowds, you can study the exhibits in peace while mild winter sun streams through the windows.\n\nIn the afternoon, we walk to Castell d'en Plaja and Dona Marinera. Visibility is often clearer in winter, making the Costa Brava views spectacular.\n\nBy evening, we reach Sant Joan Castle just in time for the early 5:30 PM sunset, followed by a quiet stroll on the empty Fenals Beach."
+          },
+          "stops": [
+            {
+              "name": "Church of Sant Romà",
+              "tip_5lang": {
+                "de": "Genießen Sie die Details ohne die üblichen Touristenmassen.",
+                "hu": "Élvezze a részleteket a szokásos turistaáradat nélkül.",
+                "ro": "Bucurați-vă de detalii fără aglomerația obișnuită.",
+                "en": "Enjoy the details without the usual tourist crowds."
+              }
+            },
+            {
+              "name": "Maritime Museum",
+              "tip_5lang": {
+                "de": "Ein angenehm beheizter Stopp während der Mittagszeit.",
+                "hu": "Kellemesen fűtött megálló a déli órákban.",
+                "ro": "O oprire încălzită plăcut în timpul prânzului.",
+                "en": "A pleasantly heated stop during the midday hours."
+              }
+            },
+            {
+              "name": "Castell d'en Plaja",
+              "tip_5lang": {
+                "de": "Das Winterlicht eignet sich hervorragend für Fotos.",
+                "hu": "A téli fények kiválóak a fotózáshoz.",
+                "ro": "Lumina de iarnă este excelentă pentru fotografii.",
+                "en": "The winter light is excellent for photography."
+              }
+            },
+            {
+              "name": "Dona Marinera Statue",
+              "tip_5lang": {
+                "de": "Warme Kleidung ist wegen der Meeresbrise nötig.",
+                "hu": "Meleg ruházat szükséges a tengeri szél miatt.",
+                "ro": "Hainele groase sunt necesare din cauza brizei marine.",
+                "en": "Warm clothing is necessary due to the sea breeze."
+              }
+            },
+            {
+              "name": "Sant Joan Castle",
+              "tip_5lang": {
+                "de": "Bester Spot für den frühen Sonnenuntergang gegen 17:30.",
+                "hu": "Legjobb hely a korai, 17:30 körüli naplementéhez.",
+                "ro": "Cel mai bun loc pentru apusul devreme de la ora 17:30.",
+                "en": "Best spot for the early sunset around 5:30 PM."
+              }
+            },
+            {
+              "name": "Fenals Beach",
+              "tip_5lang": {
+                "de": "Ideal für einen meditativen Strandspaziergang.",
+                "hu": "Ideális egy meditatív tengerparti sétához.",
+                "ro": "Ideal pentru o plimbare meditativă pe plajă.",
+                "en": "Ideal for a meditative beach stroll."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht früh unter; planen Sie Besichtigungen vor 17:00.",
+              "Zwiebelprinzip bei der Kleidung schützt vor kühlem Seewind.",
+              "Viele saisonale Hotels sind zu, aber Cafés im Zentrum haben offen.",
+              "Nutzen Sie die klare Fernsicht für Fotos der Küstenlinie."
+            ],
+            "hu": [
+              "A nap korán nyugszik; a látnivalókat tervezze 17:00 elé.",
+              "A réteges öltözködés véd a hűvös tengeri széltől.",
+              "Sok szezonális hotel zárva van, de a központi kávézók nyitva.",
+              "Használja ki a tiszta látási viszonyokat a parti fotókhoz."
+            ],
+            "ro": [
+              "Soarele apune devreme; planificați vizitele înainte de ora 17:00.",
+              "Îmbrăcămintea în straturi protejează de vântul rece de mare.",
+              "Multe hoteluri sezoniere sunt închise, dar cafenelele centrale rămân deschise.",
+              "Profită de vizibilitatea clară pentru fotografii de coastă."
+            ],
+            "en": [
+              "Sunset is early; plan your sightseeing before 5:00 PM.",
+              "Layered clothing protects against the cool sea breeze.",
+              "Many seasonal hotels are closed, but central cafes remain open.",
+              "Take advantage of the clear visibility for coastal photos."
+            ]
+          }
+        }
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 8.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Castell d'en Plaja",
+            "hu": "Castell d'en Plaja",
+            "ro": "Castell d'en Plaja",
+            "en": "Castell d'en Plaja"
+          },
+          "coords": [
+            2.8588,
+            41.6995
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Starten Sie hier für die beste Aussicht am Morgen.",
+            "hu": "Kezdjen itt a legjobb reggeli kilátásért.",
+            "ro": "Începeți aici pentru cea mai bună vedere de dimineață.",
+            "en": "Start here for the best morning views."
+          }
+        },
+        {
+          "name": {
+            "de": "Cementiri Modernista",
+            "hu": "Modernista temető",
+            "ro": "Cimitirul Modernist",
+            "en": "Modernist Cemetery"
+          },
+          "coords": [
+            2.8365,
+            41.7012
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:35",
+          "stay_min": 50,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Eindrucksvolle Grabmäler katalanischer Künstler.",
+            "hu": "Katalán művészek lenyűgöző síremlékei.",
+            "ro": "Monumente funerare impresionante ale artiștilor catalani.",
+            "en": "Impressive tombs by Catalan Modernist artists."
+          }
+        },
+        {
+          "name": {
+            "de": "Jardins de Santa Clotilde",
+            "hu": "Santa Clotilde kertek",
+            "ro": "Grădinile Santa Clotilde",
+            "en": "Santa Clotilde Gardens"
+          },
+          "coords": [
+            2.8255,
+            41.6912
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:45",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Ein Renaissance-Garten direkt über dem Meer.",
+            "hu": "Reneszánsz kert közvetlenül a tenger felett.",
+            "ro": "O grădină renascentistă chiar deasupra mării.",
+            "en": "A Renaissance-style garden overlooking the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Platja de Fenals",
+            "hu": "Fenals strand",
+            "ro": "Plaja Fenals",
+            "en": "Fenals Beach"
+          },
+          "coords": [
+            2.8315,
+            41.6925
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:00",
+          "stay_min": 150,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Fahrradparkplätze sind an der Promenade vorhanden.",
+            "hu": "Kerékpárparkolók találhatók a sétányon.",
+            "ro": "Parcările pentru biciclete sunt disponibile pe faleză.",
+            "en": "Bicycle parking is available on the promenade."
+          }
+        },
+        {
+          "name": {
+            "de": "Castell de Sant Joan",
+            "hu": "Szent János-vár",
+            "ro": "Castelul Sant Joan",
+            "en": "Sant Joan Castle"
+          },
+          "coords": [
+            2.8358,
+            41.6936
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "16:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Der Aufstieg lohnt sich für den Sonnenuntergang.",
+            "hu": "A felfelé vezető út megéri a naplemente miatt.",
+            "ro": "Urcarea merită pentru apusul soarelui.",
+            "en": "The climb is worth it for the golden hour views."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Fahrrad erkunden wir Lloret abseits der Hauptwege. Wir starten am ikonischen Schloß am Ende der Bucht und radeln dann zum außergewöhnlichen modernistischen Friedhof.\n\nMittags erreichen wir die prächtigen Gärten von Santa Clotilde. Die kühlen Alleen und der Blick auf die Klippen bieten eine perfekte Erholungspause.\n\nNachmittags geht es hinunter zum Fenals-Strand für eine ausgiebige Badepause. Die breite Promenade lässt sich ideal mit dem Rad befahren.\n\nZum Abschluss fordern wir unsere Waden beim kurzen Anstieg zum Castell de Sant Joan heraus, wo wir mit der besten Aussicht auf die Stadt belohnt werden.",
+        "hu": "Kerékpárral fedezzük fel Lloretet a forgalmas utak elkerülésével. Az ikonikus kastélynál kezdünk az öböl végén, majd a rendkívüli modernista temető felé tekerünk.\n\nDélben elérjük a Santa Clotilde kerteket. A hűvös fasorok és a sziklákra nyíló kilátás tökéletes pihenést nyújtanak.\n\nDélután legurulunk a Fenals-strandra egy hosszabb fürdőzésre. A széles sétány ideális a kerékpározáshoz.\n\nBefejezésül próbára tesszük a lábainkat a Sant Joan-várhoz vezető rövid emelkedővel, ahol a város legszebb látképe kárpótol a fáradtságért.",
+        "ro": "Cu bicicleta explorăm Lloret în afara drumurilor principale. Începem la castelul iconic de la capătul golfului, apoi pedalăm spre extraordinarul cimitir modernist.\n\nLa prânz ajungem la grădinile Santa Clotilde. Aleile răcoroase și vederea spre stânci oferă o pauză de relaxare perfectă.\n\nDupă-amiaza coborâm la plaja Fenals pentru o pauză lungă de baie. Faleza largă este ideală pentru parcursul cu bicicleta.\n\nLa final, ne provocăm picioarele cu urcarea scurtă spre Castelul Sant Joan, unde suntem răsplătiți cu cea mai bună priveliște asupra orașului.",
+        "en": "By bike, we explore Lloret away from the main streets. We start at the iconic castle at the end of the bay and then pedal towards the extraordinary modernist cemetery.\n\nAt noon, we reach the magnificent Santa Clotilde Gardens. The cool alleys and cliff views offer a perfect relaxation break.\n\nIn the afternoon, we head down to Fenals Beach for a long swim. The wide promenade is ideal for cycling.\n\nTo finish, we challenge our legs with the short climb to Sant Joan Castle, where we are rewarded with the best view of the town."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fideuà",
+            "tip": "Nudelpasta ähnlich wie Paella mit Meeresfrüchten."
+          },
+          {
+            "name": "Bodega Sa Xarxa",
+            "tip": "Traditionelle Tapas und lokales Bier."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fideuà",
+            "tip": "Tésztaalapú paella tenger gyümölcseivel."
+          },
+          {
+            "name": "Bodega Sa Xarxa",
+            "tip": "Hagyományos tapasok és helyi sörök."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fideuà",
+            "tip": "Paste similare cu paella, cu fructe de mare."
+          },
+          {
+            "name": "Bodega Sa Xarxa",
+            "tip": "Tapas tradiționale și bere locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fideuà",
+            "tip": "Noodle-based paella with seafood."
+          },
+          {
+            "name": "Bodega Sa Xarxa",
+            "tip": "Traditional tapas and local craft beer."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Santa Clotilde",
+            "tip": "Stille Ecken in den Gärten.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Santa Clotilde",
+            "tip": "Csendes zugok a kertek mélyén.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Santa Clotilde",
+            "tip": "Colțuri liniștite în grădini.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Santa Clotilde",
+            "tip": "Quiet corners deep within the gardens.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "L'Art de la Terrissa",
+            "tip": "Handgefertigte Keramik."
+          }
+        ],
+        "hu": [
+          {
+            "name": "L'Art de la Terrissa",
+            "tip": "Kézzel készített kerámiák."
+          }
+        ],
+        "ro": [
+          {
+            "name": "L'Art de la Terrissa",
+            "tip": "Ceramică lucrată manual."
+          }
+        ],
+        "en": [
+          {
+            "name": "L'Art de la Terrissa",
+            "tip": "Handmade traditional ceramics."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein E-Bike für die Hügel.",
+          "Nutzen Sie die Radwege entlang der Hauptstraße.",
+          "Schließen Sie Ihr Rad immer gut ab.",
+          "Tragen Sie einen Helm, besonders auf den Küstenstraßen."
+        ],
+        "hu": [
+          "Béreljen elektromos biciklit a dombokhoz.",
+          "Használja a főút menti kerékpárutakat.",
+          "Mindig zárja le biztonságosan a biciklit.",
+          "Viseljen sisakot, különösen a parti utakon."
+        ],
+        "ro": [
+          "Închiriați o bicicletă electrică pentru dealuri.",
+          "Folosiți pistele de biciclete de-a lungul drumului principal.",
+          "Încuiați întotdeauna bine bicicleta.",
+          "Purtați cască, mai ales pe drumurile de coastă."
+        ],
+        "en": [
+          "Rent an e-bike for the hilly sections.",
+          "Use the bike lanes along the main road.",
+          "Always lock your bike securely.",
+          "Wear a helmet, especially on coastal roads."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mit dem Fahrrad erkunden wir Lloret abseits der Hauptwege. Wir starten am ikonischen Schloß am Ende der Bucht und radeln dann zum außergewöhnlichen modernistischen Friedhof.\n\nMittags erreichen wir die prächtigen Gärten von Santa Clotilde. Die kühlen Alleen und der Blick auf die Klippen bieten eine perfekte Erholungspause.\n\nNachmittags geht es hinunter zum Fenals-Strand für eine ausgiebige Badepause. Die breite Promenade lässt sich ideal mit dem Rad befahren.\n\nZum Abschluss fordern wir unsere Waden beim kurzen Anstieg zum Castell de Sant Joan heraus, wo wir mit der besten Aussicht auf die Stadt belohnt werden.",
+            "hu": "Kerékpárral fedezzük fel Lloretet a forgalmas utak elkerülésével. Az ikonikus kastélynál kezdünk az öböl végén, majd a rendkívüli modernista temető felé tekerünk.\n\nDélben elérjük a Santa Clotilde kerteket. A hűvös fasorok és a sziklákra nyíló kilátás tökéletes pihenést nyújtanak.\n\nDélután legurulunk a Fenals-strandra egy hosszabb fürdőzésre. A széles sétány ideális a kerékpározáshoz.\n\nBefejezésül próbára tesszük a lábainkat a Sant Joan-várhoz vezető rövid emelkedővel, ahol a város legszebb látképe kárpótol a fáradtságért.",
+            "ro": "Cu bicicleta explorăm Lloret în afara drumurilor principale. Începem la castelul iconic de la capătul golfului, apoi pedalăm spre extraordinarul cimitir modernist.\n\nLa prânz ajungem la grădinile Santa Clotilde. Aleile răcoroase și vederea spre stânci oferă o pauză de relaxare perfectă.\n\nDupă-amiaza coborâm la plaja Fenals pentru o pauză lungă de baie. Faleza largă este ideală pentru parcursul cu bicicleta.\n\nLa final, ne provocăm picioarele cu urcarea scurtă spre Castelul Sant Joan, unde suntem răsplătiți cu cea mai bună priveliște asupra orașului.",
+            "en": "By bike, we explore Lloret away from the main streets. We start at the iconic castle at the end of the bay and then pedal towards the extraordinary modernist cemetery.\n\nAt noon, we reach the magnificent Santa Clotilde Gardens. The cool alleys and cliff views offer a perfect relaxation break.\n\nIn the afternoon, we head down to Fenals Beach for a long swim. The wide promenade is ideal for cycling.\n\nTo finish, we challenge our legs with the short climb to Sant Joan Castle, where we are rewarded with the best view of the town."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Castell d'en Plaja",
+                "hu": "Castell d'en Plaja",
+                "ro": "Castell d'en Plaja",
+                "en": "Castell d'en Plaja"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie hier für die beste Aussicht am Morgen.",
+                "hu": "Kezdjen itt a legjobb reggeli kilátásért.",
+                "ro": "Începeți aici pentru cea mai bună vedere de dimineață.",
+                "en": "Start here for the best morning views."
+              }
+            },
+            {
+              "name": {
+                "de": "Cementiri Modernista",
+                "hu": "Modernista temető",
+                "ro": "Cimitirul Modernist",
+                "en": "Modernist Cemetery"
+              },
+              "tip_5lang": {
+                "de": "Eindrucksvolle Grabmäler katalanischer Künstler.",
+                "hu": "Katalán művészek lenyűgöző síremlékei.",
+                "ro": "Monumente funerare impresionante ale artiștilor catalani.",
+                "en": "Impressive tombs by Catalan Modernist artists."
+              }
+            },
+            {
+              "name": {
+                "de": "Jardins de Santa Clotilde",
+                "hu": "Santa Clotilde kertek",
+                "ro": "Grădinile Santa Clotilde",
+                "en": "Santa Clotilde Gardens"
+              },
+              "tip_5lang": {
+                "de": "Ein Renaissance-Garten direkt über dem Meer.",
+                "hu": "Reneszánsz kert közvetlenül a tenger felett.",
+                "ro": "O grădină renascentistă chiar deasupra mării.",
+                "en": "A Renaissance-style garden overlooking the sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Platja de Fenals",
+                "hu": "Fenals strand",
+                "ro": "Plaja Fenals",
+                "en": "Fenals Beach"
+              },
+              "tip_5lang": {
+                "de": "Fahrradparkplätze sind an der Promenade vorhanden.",
+                "hu": "Kerékpárparkolók találhatók a sétányon.",
+                "ro": "Parcările pentru biciclete sunt disponibile pe faleză.",
+                "en": "Bicycle parking is available on the promenade."
+              }
+            },
+            {
+              "name": {
+                "de": "Castell de Sant Joan",
+                "hu": "Szent János-vár",
+                "ro": "Castelul Sant Joan",
+                "en": "Sant Joan Castle"
+              },
+              "tip_5lang": {
+                "de": "Der Aufstieg lohnt sich für den Sonnenuntergang.",
+                "hu": "A felfelé vezető út megéri a naplemente miatt.",
+                "ro": "Urcarea merită pentru apusul soarelui.",
+                "en": "The climb is worth it for the golden hour views."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Fideuà",
+                "tip": "Nudelpasta ähnlich wie Paella mit Meeresfrüchten."
+              },
+              {
+                "name": "Bodega Sa Xarxa",
+                "tip": "Traditionelle Tapas und lokales Bier."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Fideuà",
+                "tip": "Tésztaalapú paella tenger gyümölcseivel."
+              },
+              {
+                "name": "Bodega Sa Xarxa",
+                "tip": "Hagyományos tapasok és helyi sörök."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Fideuà",
+                "tip": "Paste similare cu paella, cu fructe de mare."
+              },
+              {
+                "name": "Bodega Sa Xarxa",
+                "tip": "Tapas tradiționale și bere locală."
+              }
+            ],
+            "en": [
+              {
+                "name": "Fideuà",
+                "tip": "Noodle-based paella with seafood."
+              },
+              {
+                "name": "Bodega Sa Xarxa",
+                "tip": "Traditional tapas and local craft beer."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Santa Clotilde",
+                "tip": "Stille Ecken in den Gärten.",
+                "emoji": "🍃"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Santa Clotilde",
+                "tip": "Csendes zugok a kertek mélyén.",
+                "emoji": "🍃"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Santa Clotilde",
+                "tip": "Colțuri liniștite în grădini.",
+                "emoji": "🍃"
+              }
+            ],
+            "en": [
+              {
+                "name": "Santa Clotilde",
+                "tip": "Quiet corners deep within the gardens.",
+                "emoji": "🍃"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "L'Art de la Terrissa",
+                "tip": "Handgefertigte Keramik."
+              }
+            ],
+            "hu": [
+              {
+                "name": "L'Art de la Terrissa",
+                "tip": "Kézzel készített kerámiák."
+              }
+            ],
+            "ro": [
+              {
+                "name": "L'Art de la Terrissa",
+                "tip": "Ceramică lucrată manual."
+              }
+            ],
+            "en": [
+              {
+                "name": "L'Art de la Terrissa",
+                "tip": "Handmade traditional ceramics."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Mieten Sie ein E-Bike für die Hügel.",
+              "Nutzen Sie die Radwege entlang der Hauptstraße.",
+              "Schließen Sie Ihr Rad immer gut ab.",
+              "Tragen Sie einen Helm, besonders auf den Küstenstraßen."
+            ],
+            "hu": [
+              "Béreljen elektromos biciklit a dombokhoz.",
+              "Használja a főút menti kerékpárutakat.",
+              "Mindig zárja le biztonságosan a biciklit.",
+              "Viseljen sisakot, különösen a parti utakon."
+            ],
+            "ro": [
+              "Închiriați o bicicletă electrică pentru dealuri.",
+              "Folosiți pistele de biciclete de-a lungul drumului principal.",
+              "Încuiați întotdeauna bine bicicleta.",
+              "Purtați cască, mai ales pe drumurile de coastă."
+            ],
+            "en": [
+              "Rent an e-bike for the hilly sections.",
+              "Use the bike lanes along the main road.",
+              "Always lock your bike securely.",
+              "Wear a helmet, especially on coastal roads."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Radtour beginnt vorsichtig am Castell d'en Plaja. Bei Regen sind die asphaltierten Wege griffiger als die Schotterpfade an der Küste.\n\nMittags radeln wir zum Modernistischen Friedhof. Die Skulpturen wirken unter dem grauen Himmel besonders eindrucksvoll und melancholisch.\n\nAm Nachmittag suchen wir Schutz in den Gärten von Santa Clotilde. Die dichten Pinien bieten zeitweise Schirm vor leichtem Nieselregen.\n\nDen Tag beschließen wir am Fenals Beach und fahren zum Sant Joan Castle hoch, wobei wir auf die Pfützen und rutschigen Kurven achten müssen.",
+            "hu": "A biciklitúra óvatosan indul a Castell d'en Plaja-nál. Esőben az aszfaltozott utak biztonságosabbak, mint a parti murvás ösvények.\n\nDélben a Modernista temetőhöz tekerünk. A szobrok a szürke ég alatt különösen hatásosak és melankolikusak.\n\nDélután a Santa Clotilde kertekben keresünk menedéket. A sűrű fenyvesek átmeneti védelmet nyújtanak a szemerkélő esőben.\n\nA napot a Fenals strandon zárjuk, majd feltekerünk a Sant Joan várhoz, ügyelve a tócsákra és a csúszós kanyarokra.",
+            "ro": "Turul cu bicicleta începe cu prudență la Castell d'en Plaja. Pe ploaie, drumurile asfaltate sunt mai sigure decât potecile cu pietriș de pe coastă.\n\nLa prânz pedalăm spre Cimitirul Modernist. Sculpturile par deosebit de impresionante și melancolice sub cerul cenușiu.\n\nDupă-amiaza căutăm adăpost în Grădinile Santa Clotilde. Pinii deși oferă protecție temporară împotriva burniței.\n\nÎncheiem ziua la plaja Fenals și urcăm cu bicicleta la Castelul Sant Joan, fiind atenți la bălți și virajele alunecoase.",
+            "en": "The bike tour starts cautiously at Castell d'en Plaja. In the rain, paved roads offer better grip than the gravel coastal paths.\n\nAt midday, we cycle to the Modernist Cemetery. The sculptures look particularly striking and melancholic under the grey sky.\n\nIn the afternoon, we seek shelter in the Santa Clotilde Gardens. The dense pines provide temporary cover from light drizzle.\n\nWe conclude the day at Fenals Beach and ride up to Sant Joan Castle, being mindful of puddles and slippery curves."
+          },
+          "stops": [
+            {
+              "name": "Castell d'en Plaja",
+              "tip_5lang": {
+                "de": "Vermeiden Sie steile, nasse Schotterwege direkt am Hang.",
+                "hu": "Kerülje a meredek, vizes murvás utakat a hegyoldalban.",
+                "ro": "Evitați potecile abrupte cu pietriș umed de pe versant.",
+                "en": "Avoid steep, wet gravel paths directly on the slope."
+              }
+            },
+            {
+              "name": "Modernist Cemetery",
+              "tip_5lang": {
+                "de": "Die befestigten Wege sind gut mit dem Rad befahrbar.",
+                "hu": "A kiépített utak jól kerékpározhatóak esőben is.",
+                "ro": "Aleile pavate sunt ușor de parcurs cu bicicleta.",
+                "en": "The paved paths are easily navigable by bike."
+              }
+            },
+            {
+              "name": "Santa Clotilde Gardens",
+              "tip_5lang": {
+                "de": "Stellen Sie das Rad am Eingang unter und gehen Sie zu Fuß.",
+                "hu": "Hagyja a biciklit a bejáratnál, és sétáljon bent.",
+                "ro": "Lăsați bicicleta la intrare și vizitați pe jos.",
+                "en": "Park the bike at the entrance and walk inside."
+              }
+            },
+            {
+              "name": "Fenals Beach",
+              "tip_5lang": {
+                "de": "Vorsicht vor Sand auf dem Radweg, der bei Regen schmiert.",
+                "hu": "Vigyázat, a vizes homok csúszóssá teszi a kerékpárutat.",
+                "ro": "Atenție la nisipul de pe pistă, devine alunecos pe ploaie.",
+                "en": "Watch out for sand on the bike path, which gets slippery when wet."
+              }
+            },
+            {
+              "name": "Sant Joan Castle",
+              "tip_5lang": {
+                "de": "Der Anstieg erfordert bei Nässe gute Bremsen.",
+                "hu": "Az emelkedő és a lejtő jó fékeket igényel vizes úton.",
+                "ro": "Urcarea și coborârea necesită frâne bune pe carosabil ud.",
+                "en": "The climb and descent require good brakes on wet roads."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine auffällige Regenjacke für bessere Sichtbarkeit.",
+              "Prüfen Sie Ihre Bremsen vor der Abfahrt vom Sant Joan Castle.",
+              "Schutzbleche am Rad verhindern nasse Kleidung durch Spritzer.",
+              "Nutzen Sie die Radwege im flacheren Teil der Stadt."
+            ],
+            "hu": [
+              "Viseljen feltűnő esőkabátot a jobb láthatóságért.",
+              "Ellenőrizze a fékeket a Sant Joan vártól való leereszkedés előtt.",
+              "A sárvédő elengedhetetlen, hogy ne legyen csupa víz a ruhája.",
+              "Használja a város laposabb részein lévő kerékpárutakat."
+            ],
+            "ro": [
+              "Purtați o jachetă de ploaie reflectorizantă pentru vizibilitate.",
+              "Verificați frânele înainte de a coborî de la Castelul Sant Joan.",
+              "Apărătorile de noroi sunt esențiale pentru a evita stropirea.",
+              "Folosiți pistele de biciclete din zona mai plană a orașului."
+            ],
+            "en": [
+              "Wear a high-visibility rain jacket for better safety.",
+              "Check your brakes before descending from Sant Joan Castle.",
+              "Mudguards are essential to prevent getting soaked by splashes.",
+              "Utilize bike lanes in the flatter parts of the city."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Wintertag auf zwei Rädern beginnt am Castell d'en Plaja. Die kühle Meeresbrise ist belebend beim ersten Anstieg.\n\nMittags radeln wir zum Modernistischen Friedhof. In der Wintersonne wirken die steinernen Monumente besonders plastisch und friedlich.\n\nAm Nachmittag geht es weiter zu den Santa Clotilde Gärten. Das Immergrün der Zypressen sorgt auch im Winter für eine prächtige Kulisse über dem Meer.\n\nZum Abschluss genießen wir die Fahrt zum Fenals Beach und den steilen Weg zum Sant Joan Castle, um den goldenen Sonnenuntergang einzufangen, bevor es kühl wird.",
+            "hu": "A friss téli nap két keréken indul a Castell d'en Plaja-nál. A hűvös tengeri szél élénkítő az első emelkedőnél.\n\nDélben a Modernista temetőhöz tekerünk. A téli napsütésben a kőmonumentumok különösen plasztikusnak és békésnek tűnnek.\n\nDélután a Santa Clotilde kertek felé vesszük az irányt. A ciprusok örökzöldje télen is pompás díszletet ad a tenger felett.\n\nZárásként élvezzük a gurulást a Fenals strandhoz és a Sant Joan várhoz vezető kaptatót az aranyló naplementéért.",
+            "ro": "O zi proaspătă de iarnă pe două roți începe la Castell d'en Plaja. Briza rece a mării este revigorantă la prima urcare.\n\nLa prânz pedalăm spre Cimitirul Modernist. În soarele de iarnă, monumentele de piatră par deosebit de bine definite și liniștite.\n\nDupă-amiaza continuăm spre Grădinile Santa Clotilde. Chiparoșii mereu verzi oferă un decor superb deasupra mării chiar și iarna.\n\nLa final, ne bucurăm de drumul spre plaja Fenals și urcarea spre Castelul Sant Joan pentru un apus auriu înainte de lăsarea frigului.",
+            "en": "A fresh winter day on two wheels starts at Castell d'en Plaja. The cool sea breeze is invigorating during the first climb.\n\nAt midday, we cycle to the Modernist Cemetery. In the winter sun, the stone monuments look particularly textured and peaceful.\n\nIn the afternoon, we head to the Santa Clotilde Gardens. The evergreen cypresses provide a magnificent backdrop over the sea even in winter.\n\nTo finish, we enjoy the ride to Fenals Beach and the steep path to Sant Joan Castle to catch the golden sunset before it gets cold."
+          },
+          "stops": [
+            {
+              "name": "Castell d'en Plaja",
+              "tip_5lang": {
+                "de": "Handschuhe sind für die Abfahrt im Winter empfehlenswert.",
+                "hu": "A téli lejtőzéshez kesztyű erősen ajánlott.",
+                "ro": "Mănușile sunt recomandate pentru coborârile de iarnă.",
+                "en": "Gloves are highly recommended for winter descents."
+              }
+            },
+            {
+              "name": "Modernist Cemetery",
+              "tip_5lang": {
+                "de": "Wenig Betrieb; ideal für eine ruhige Durchfahrt.",
+                "hu": "Kevés látogató; ideális egy nyugodt áttekeréshez.",
+                "ro": "Puțini vizitatori; ideal pentru o traversare liniștită.",
+                "en": "Few visitors; ideal for a quiet ride through."
+              }
+            },
+            {
+              "name": "Santa Clotilde Gardens",
+              "tip_5lang": {
+                "de": "Die Gärten schließen im Winter früher (meist 17:30).",
+                "hu": "A kertek télen korábban zárnak (általában 17:30).",
+                "ro": "Grădinile se închid mai devreme iarna (de obicei 17:30).",
+                "en": "The gardens close earlier in winter (usually 5:30 PM)."
+              }
+            },
+            {
+              "name": "Fenals Beach",
+              "tip_5lang": {
+                "de": "Perfekt für eine kurze Pause in der Nachmittagssonne.",
+                "hu": "Tökéletes egy rövid pihenőre a délutáni napsütésben.",
+                "ro": "Perfect pentru o scurtă pauză la soarele de după-amiază.",
+                "en": "Perfect for a short break in the afternoon sun."
+              }
+            },
+            {
+              "name": "Sant Joan Castle",
+              "tip_5lang": {
+                "de": "Denken Sie an funktionierende Lichter für den Rückweg.",
+                "hu": "Ne felejtse el a működő lámpákat a hazaúthoz.",
+                "ro": "Nu uitați de lumini funcționale pentru drumul de întoarcere.",
+                "en": "Don't forget working lights for the ride back."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahren Sie los, sobald es hell ist, um die Wärme zu nutzen.",
+              "Vermeiden Sie schattige Waldwege, dort ist es deutlich kühler.",
+              "Ein heißer Kaffee im Zentrum wärmt nach der Tour auf.",
+              "Die Hauptstraßen sind im Winter viel entspannter zu befahren."
+            ],
+            "hu": [
+              "Induljon el, amint kivilágosodik, hogy kihasználja a meleget.",
+              "Kerülje az árnyékos erdei utakat, ott jóval hűvösebb van.",
+              "Egy forró kávé a belvárosban jól esik a túra után.",
+              "A főutakon télen sokkal nyugodtabb a kerékpározás."
+            ],
+            "ro": [
+              "Plecați imediat ce se luminează pentru a profita de căldură.",
+              "Evitați potecile umbrite din pădure, acolo este mult mai frig.",
+              "O cafea fierbinte în centru prinde bine după tur.",
+              "Drumurile principale sunt mult mai relaxate pentru ciclism iarna."
+            ],
+            "en": [
+              "Start as soon as it gets light to maximize the warmth.",
+              "Avoid shaded forest paths, as they are significantly cooler.",
+              "A hot coffee in the center is perfect after the tour.",
+              "Main roads are much more relaxed for cycling in winter."
+            ]
+          }
+        }
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 15.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Cementiri Modernista",
+            "hu": "Modernista temető",
+            "ro": "Cimitirul Modernist",
+            "en": "Modernist Cemetery"
+          },
+          "coords": [
+            2.8365,
+            41.7012
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Parkplatz direkt vor dem Eingang.",
+            "hu": "Parkoló közvetlenül a bejáratnál.",
+            "ro": "Parcare chiar în fața intrării.",
+            "en": "Parking is available directly in front of the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Jardins de Santa Clotilde",
+            "hu": "Santa Clotilde kertek",
+            "ro": "Grădinile Santa Clotilde",
+            "en": "Santa Clotilde Gardens"
+          },
+          "coords": [
+            2.8255,
+            41.6912
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Kombinieren Sie den Besuch mit der Bucht Boadella.",
+            "hu": "Kombinálja a látogatást a Boadella-öböllel.",
+            "ro": "Combinați vizita cu golful Boadella.",
+            "en": "Combine the visit with a stop at Boadella cove."
+          }
+        },
+        {
+          "name": {
+            "de": "Blanes - Marimurtra",
+            "hu": "Blanes - Marimurtra botanikus kert",
+            "ro": "Blanes - Grădina Marimurtra",
+            "en": "Blanes - Marimurtra Garden"
+          },
+          "coords": [
+            2.8025,
+            41.6775
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Kurze Fahrt in die Nachbarstadt für den besten Garten.",
+            "hu": "Rövid út a szomszédos városba a legjobb kertért.",
+            "ro": "Scurtă călătorie în orașul vecin pentru cea mai frumoasă grădină.",
+            "en": "Short drive to the neighboring town for the best garden."
+          }
+        },
+        {
+          "name": {
+            "de": "Castell de Sant Joan",
+            "hu": "Szent János-vár",
+            "ro": "Castelul Sant Joan",
+            "en": "Sant Joan Castle"
+          },
+          "coords": [
+            2.8358,
+            41.6936
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Steile Auffahrt, aber Parkplatz oben möglich.",
+            "hu": "Meredek út, de fent van parkolási lehetőség.",
+            "ro": "Urcare abruptă, dar parcare posibilă sus.",
+            "en": "Steep drive, but parking is possible at the top."
+          }
+        },
+        {
+          "name": {
+            "de": "Platja de Fenals",
+            "hu": "Fenals strand",
+            "ro": "Plaja Fenals",
+            "en": "Fenals Beach"
+          },
+          "coords": [
+            2.8315,
+            41.6925
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:45",
+          "stay_min": 105,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Großes Parkhaus in der Nähe des Strandes.",
+            "hu": "Nagy parkolóház a strand közelében.",
+            "ro": "Parcare mare acoperită lângă plajă.",
+            "en": "Large parking garage located near the beach."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erschließen wir die Höhepunkte von Lloret und der Umgebung. Der Tag beginnt am modernistischen Friedhof, bevor wir zu den Klippengärten von Santa Clotilde fahren.\n\nMittags machen wir einen kurzen Abstecher ins nahegelegene Blanes, um den weltberühmten botanischen Garten Marimurtra zu besuchen.\n\nAm Nachmittag kehren wir nach Lloret zurück und fahren direkt zum Castell de Sant Joan für den ultimativen Überblick.\n\nDer Tag endet entspannt am Fenals-Strand, wo man dank des Autos flexibel zu einem der hervorragenden Restaurants in den Außenbezirken fahren kann.",
+        "hu": "Autóval kényelmesen érjük el Lloret és környéke legszebb pontjait. A napot a modernista temetőnél kezdjük, majd a Santa Clotilde kertek felé vesszük az irányt.\n\nDélben egy rövid kitérőt teszünk a közeli Blanesbe, hogy meglátogassuk a világhírű Marimurtra botanikus kertet.\n\nDélután visszatérünk Lloretbe, és egyenesen a Sant Joan-várhoz hajtunk a legszebb kilátásért.\n\nA napot a Fenals-strandon zárjuk, ahonnan autóval rugalmasan választhatunk a külső kerületek kiváló éttermei közül.",
+        "ro": "Cu mașina accesăm ușor punctele culminante din Lloret și împrejurimi. Ziua începe la cimitirul modernist, înainte de a conduce spre grădinile Santa Clotilde.\n\nLa prânz facem o scurtă excursie în orașul vecin Blanes pentru a vizita faimoasa grădină botanică Marimurtra.\n\nDupă-amiaza ne întoarcem în Lloret și conducem direct la Castelul Sant Joan pentru o privire de ansamblu.\n\nZiua se încheie relaxat la plaja Fenals, de unde, datorită mașinii, puteți merge flexibil la unul dintre restaurantele excelente din împrejurimi.",
+        "en": "By car, we easily reach the highlights of Lloret and its surroundings. The day starts at the modernist cemetery before driving to the cliffside Santa Clotilde Gardens.\n\nAt noon, we take a short trip to nearby Blanes to visit the world-famous Marimurtra Botanical Garden.\n\nIn the afternoon, we return to Lloret and drive straight to Sant Joan Castle for the ultimate panoramic view.\n\nThe day ends relaxingly at Fenals Beach, from where you can flexibly drive to one of the excellent restaurants on the outskirts."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Crema Catalana",
+            "tip": "Traditionelles Dessert mit Karamellkruste."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Crema Catalana",
+            "tip": "Hagyományos desszert karamellizált cukorral."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Crema Catalana",
+            "tip": "Desert tradițional cu crustă de caramel."
+          }
+        ],
+        "en": [
+          {
+            "name": "Crema Catalana",
+            "tip": "Traditional custard dessert with a burnt sugar crust."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ermita de Santa Cristina",
+            "tip": "Ruhige Kapelle mit Meerblick.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ermita de Santa Cristina",
+            "tip": "Csendes kápolna tengeri kilátással.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ermita de Santa Cristina",
+            "tip": "Capelă liniștită cu vedere la mare.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Ermita de Santa Cristina",
+            "tip": "Quiet chapel with stunning sea views.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Port Pi Verda",
+            "tip": "Lokal hergestelltes Olivenöl."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Port Pi Verda",
+            "tip": "Helyi termelésű olívaolaj."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Port Pi Verda",
+            "tip": "Ulei de măsline produs local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Port Pi Verda",
+            "tip": "Locally produced high-quality olive oil."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken im Zentrum ist schwierig, nutzen Sie Parkhäuser.",
+          "Blaue Zonen (Zona Blava) sind gebührenpflichtig.",
+          "Die Küstenstraße GI-682 nach Tossa ist wunderschön.",
+          "Lassen Sie keine Wertsachen im Auto."
+        ],
+        "hu": [
+          "A központban nehéz parkolni, használjon parkolóházakat.",
+          "A kék zónák (Zona Blava) fizetősek.",
+          "A Tossa felé vezető GI-682-es út gyönyörű.",
+          "Ne hagyjon értéket az autóban."
+        ],
+        "ro": [
+          "Parcarea în centru este dificilă, folosiți parcările etajate.",
+          "Zonele albastre (Zona Blava) sunt cu plată.",
+          "Drumul de coastă GI-682 spre Tossa este superb.",
+          "Nu lăsați obiecte de valoare în mașină."
+        ],
+        "en": [
+          "Parking in the center is difficult, use parking garages.",
+          "Blue zones (Zona Blava) require payment.",
+          "The GI-682 coastal road to Tossa is beautiful.",
+          "Do not leave valuables inside the car."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erschließen wir die Höhepunkte von Lloret und der Umgebung. Der Tag beginnt am modernistischen Friedhof, bevor wir zu den Klippengärten von Santa Clotilde fahren.\n\nMittags machen wir einen kurzen Abstecher ins nahegelegene Blanes, um den weltberühmten botanischen Garten Marimurtra zu besuchen.\n\nAm Nachmittag kehren wir nach Lloret zurück und fahren direkt zum Castell de Sant Joan für den ultimativen Überblick.\n\nDer Tag endet entspannt am Fenals-Strand, wo man dank des Autos flexibel zu einem der hervorragenden Restaurants in den Außenbezirken fahren kann.",
+            "hu": "Autóval kényelmesen érjük el Lloret és környéke legszebb pontjait. A napot a modernista temetőnél kezdjük, majd a Santa Clotilde kertek felé vesszük az irányt.\n\nDélben egy rövid kitérőt teszünk a közeli Blanesbe, hogy meglátogassuk a világhírű Marimurtra botanikus kertet.\n\nDélután visszatérünk Lloretbe, és egyenesen a Sant Joan-várhoz hajtunk a legszebb kilátásért.\n\nA napot a Fenals-strandon zárjuk, ahonnan autóval rugalmasan választhatunk a külső kerületek kiváló éttermei közül.",
+            "ro": "Cu mașina accesăm ușor punctele culminante din Lloret și împrejurimi. Ziua începe la cimitirul modernist, înainte de a conduce spre grădinile Santa Clotilde.\n\nLa prânz facem o scurtă excursie în orașul vecin Blanes pentru a vizita faimoasa grădină botanică Marimurtra.\n\nDupă-amiaza ne întoarcem în Lloret și conducem direct la Castelul Sant Joan pentru o privire de ansamblu.\n\nZiua se încheie relaxat la plaja Fenals, de unde, datorită mașinii, puteți merge flexibil la unul dintre restaurantele excelente din împrejurimi.",
+            "en": "By car, we easily reach the highlights of Lloret and its surroundings. The day starts at the modernist cemetery before driving to the cliffside Santa Clotilde Gardens.\n\nAt noon, we take a short trip to nearby Blanes to visit the world-famous Marimurtra Botanical Garden.\n\nIn the afternoon, we return to Lloret and drive straight to Sant Joan Castle for the ultimate panoramic view.\n\nThe day ends relaxingly at Fenals Beach, from where you can flexibly drive to one of the excellent restaurants on the outskirts."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Cementiri Modernista",
+                "hu": "Modernista temető",
+                "ro": "Cimitirul Modernist",
+                "en": "Modernist Cemetery"
+              },
+              "tip_5lang": {
+                "de": "Parkplatz direkt vor dem Eingang.",
+                "hu": "Parkoló közvetlenül a bejáratnál.",
+                "ro": "Parcare chiar în fața intrării.",
+                "en": "Parking is available directly in front of the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Jardins de Santa Clotilde",
+                "hu": "Santa Clotilde kertek",
+                "ro": "Grădinile Santa Clotilde",
+                "en": "Santa Clotilde Gardens"
+              },
+              "tip_5lang": {
+                "de": "Kombinieren Sie den Besuch mit der Bucht Boadella.",
+                "hu": "Kombinálja a látogatást a Boadella-öböllel.",
+                "ro": "Combinați vizita cu golful Boadella.",
+                "en": "Combine the visit with a stop at Boadella cove."
+              }
+            },
+            {
+              "name": {
+                "de": "Blanes - Marimurtra",
+                "hu": "Blanes - Marimurtra botanikus kert",
+                "ro": "Blanes - Grădina Marimurtra",
+                "en": "Blanes - Marimurtra Garden"
+              },
+              "tip_5lang": {
+                "de": "Kurze Fahrt in die Nachbarstadt für den besten Garten.",
+                "hu": "Rövid út a szomszédos városba a legjobb kertért.",
+                "ro": "Scurtă călătorie în orașul vecin pentru cea mai frumoasă grădină.",
+                "en": "Short drive to the neighboring town for the best garden."
+              }
+            },
+            {
+              "name": {
+                "de": "Castell de Sant Joan",
+                "hu": "Szent János-vár",
+                "ro": "Castelul Sant Joan",
+                "en": "Sant Joan Castle"
+              },
+              "tip_5lang": {
+                "de": "Steile Auffahrt, aber Parkplatz oben möglich.",
+                "hu": "Meredek út, de fent van parkolási lehetőség.",
+                "ro": "Urcare abruptă, dar parcare posibilă sus.",
+                "en": "Steep drive, but parking is possible at the top."
+              }
+            },
+            {
+              "name": {
+                "de": "Platja de Fenals",
+                "hu": "Fenals strand",
+                "ro": "Plaja Fenals",
+                "en": "Fenals Beach"
+              },
+              "tip_5lang": {
+                "de": "Großes Parkhaus in der Nähe des Strandes.",
+                "hu": "Nagy parkolóház a strand közelében.",
+                "ro": "Parcare mare acoperită lângă plajă.",
+                "en": "Large parking garage located near the beach."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Crema Catalana",
+                "tip": "Traditionelles Dessert mit Karamellkruste."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Crema Catalana",
+                "tip": "Hagyományos desszert karamellizált cukorral."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Crema Catalana",
+                "tip": "Desert tradițional cu crustă de caramel."
+              }
+            ],
+            "en": [
+              {
+                "name": "Crema Catalana",
+                "tip": "Traditional custard dessert with a burnt sugar crust."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Ermita de Santa Cristina",
+                "tip": "Ruhige Kapelle mit Meerblick.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Ermita de Santa Cristina",
+                "tip": "Csendes kápolna tengeri kilátással.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Ermita de Santa Cristina",
+                "tip": "Capelă liniștită cu vedere la mare.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Ermita de Santa Cristina",
+                "tip": "Quiet chapel with stunning sea views.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Port Pi Verda",
+                "tip": "Lokal hergestelltes Olivenöl."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Port Pi Verda",
+                "tip": "Helyi termelésű olívaolaj."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Port Pi Verda",
+                "tip": "Ulei de măsline produs local."
+              }
+            ],
+            "en": [
+              {
+                "name": "Port Pi Verda",
+                "tip": "Locally produced high-quality olive oil."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Parken im Zentrum ist schwierig, nutzen Sie Parkhäuser.",
+              "Blaue Zonen (Zona Blava) sind gebührenpflichtig.",
+              "Die Küstenstraße GI-682 nach Tossa ist wunderschön.",
+              "Lassen Sie keine Wertsachen im Auto."
+            ],
+            "hu": [
+              "A központban nehéz parkolni, használjon parkolóházakat.",
+              "A kék zónák (Zona Blava) fizetősek.",
+              "A Tossa felé vezető GI-682-es út gyönyörű.",
+              "Ne hagyjon értéket az autóban."
+            ],
+            "ro": [
+              "Parcarea în centru este dificilă, folosiți parcările etajate.",
+              "Zonele albastre (Zona Blava) sunt cu plată.",
+              "Drumul de coastă GI-682 spre Tossa este superb.",
+              "Nu lăsați obiecte de valoare în mașină."
+            ],
+            "en": [
+              "Parking in the center is difficult, use parking garages.",
+              "Blue zones (Zona Blava) require payment.",
+              "The GI-682 coastal road to Tossa is beautiful.",
+              "Do not leave valuables inside the car."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist der Regentag in Lloret entspannt. Wir starten am Modernistischen Friedhof, wo wir nah am Eingang parken können.\n\nMittags fahren wir zu den Gärten von Santa Clotilde. Auch bei Regen ist die Aussicht auf die Küste vom Auto aus oder unter den Bäumen beeindruckend.\n\nEin Abstecher nach Blanes zum Marimurtra Garten lohnt sich, da man die Strecke trocken zurücklegt. Die Gewächshäuser bieten dort Schutz.\n\nAm Nachmittag besuchen wir das Sant Joan Castle und beenden den Tag am Fenals Beach, wobei das Auto als komfortabler Rückzugsort zwischen den Stopps dient.",
+            "hu": "Autóval az esős nap is kényelmes Lloretben. A Modernista temetőnél kezdünk, ahol közel tudunk parkolni a bejárathoz.\n\nDélben a Santa Clotilde kertekhez hajtunk. Esőben is lenyűgöző a parti kilátás, akár az autóból, akár a fák alól nézve.\n\nÉrdemes átruccanni Blanesbe a Marimurtra kertbe, mert az utat szárazon tesszük meg. Az ottani üvegházak védelmet nyújtanak.\n\nDélután a Sant Joan várat érintjük, majd a Fenals strandon zárunk, az autó pedig komfortos menedék a megállók között.",
+            "ro": "Cu mașina, o zi ploioasă în Lloret este relaxantă. Începem la Cimitirul Modernist, unde putem parca aproape de intrare.\n\nLa prânz conducem spre Grădinile Santa Clotilde. Chiar și pe ploaie, vederea spre coastă este impresionantă din mașină sau de sub copaci.\n\nO escapadă la Blanes pentru grădina Marimurtra merită, deoarece parcurgeți drumul la adăpost. Serele de acolo oferă protecție.\n\nDupă-amiaza vizităm Castelul Sant Joan și încheiem ziua la plaja Fenals, mașina fiind un refugiu confortabil între opriri.",
+            "en": "By car, a rainy day in Lloret is comfortable. We start at the Modernist Cemetery, where we can park close to the entrance.\n\nAt midday, we drive to the Santa Clotilde Gardens. Even in the rain, the coastal views are impressive from the car or under the trees.\n\nA detour to Blanes for the Marimurtra Garden is worth it, as the drive is dry. The greenhouses there provide shelter.\n\nIn the afternoon, we visit Sant Joan Castle and end the day at Fenals Beach, with the car serving as a cozy retreat between stops."
+          },
+          "stops": [
+            {
+              "name": "Modernist Cemetery",
+              "tip_5lang": {
+                "de": "Parken Sie direkt am Haupteingang für kurze Wege.",
+                "hu": "Parkoljon közvetlenül a főbejáratnál a rövid séta érdekében.",
+                "ro": "Parcați direct la intrarea principală pentru acces rapid.",
+                "en": "Park right at the main entrance for a short walk."
+              }
+            },
+            {
+              "name": "Santa Clotilde Gardens",
+              "tip_5lang": {
+                "de": "Der Parkplatz ist bei Regen meist leer und nah am Tor.",
+                "hu": "A parkoló esőben általában üres és közel van a kapuhoz.",
+                "ro": "Parcarea este de obicei goală pe ploaie și aproape de poartă.",
+                "en": "The parking lot is usually empty and close to the gate in the rain."
+              }
+            },
+            {
+              "name": "Blanes - Marimurtra Garden",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Fahrtzeit für eine Regenpause.",
+                "hu": "Használja ki az utazási időt egy kis pihenőre az esőben.",
+                "ro": "Folosiți timpul de condus pentru o pauză de ploaie.",
+                "en": "Use the driving time as a break from the rain."
+              }
+            },
+            {
+              "name": "Sant Joan Castle",
+              "tip_5lang": {
+                "de": "Die Zufahrt ist schmal; bei Nässe vorsichtig fahren.",
+                "hu": "Az út keskeny; vizes aszfalton vezessen óvatosan.",
+                "ro": "Drumul este îngust; conduceți cu prudență pe carosabil ud.",
+                "en": "The road is narrow; drive carefully on wet pavement."
+              }
+            },
+            {
+              "name": "Fenals Beach",
+              "tip_5lang": {
+                "de": "Parkplätze direkt am Strand ermöglichen Sicht aufs Meer.",
+                "hu": "A közvetlen tengerparti parkolók kilátást adnak a vízre.",
+                "ro": "Parcările de pe plajă permit vizionarea mării din mașină.",
+                "en": "Beachfront parking allows for sea views from the car."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die strandnahen Parkplätze für Meerblick im Trockenen.",
+              "Vermeiden Sie unbefestigte Parkflächen bei starkem Regen (Matsch).",
+              "Klimaanlage anlassen, um das Beschlagen der Scheiben zu verhindern.",
+              "In Blanes gibt es überdachte Parkhäuser nahe dem Zentrum."
+            ],
+            "hu": [
+              "Használja a tengerparti parkolókat a száraz nézelődéshez.",
+              "Kerülje a nem aszfaltozott parkolókat nagy esőben (sár).",
+              "Használja a légkondicionálót a szélvédő párátlanítására.",
+              "Blanesben fedett parkolóházak is vannak a központ közelében."
+            ],
+            "ro": [
+              "Folosiți parcările de lângă plajă pentru a vedea marea la uscat.",
+              "Evitați parcările neasfaltate în caz de ploaie torențială (nămol).",
+              "Folosiți aerul condiționat pentru a dezaburi parbrizul.",
+              "În Blanes există parcări acoperite aproape de centru."
+            ],
+            "en": [
+              "Use beachfront parking for dry sea-watching.",
+              "Avoid unpaved parking areas during heavy rain (mud).",
+              "Keep the AC on to prevent the windshield from fogging up.",
+              "Blanes has covered parking garages near the town center."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein sonniger Wintertag mit dem Auto beginnt am Modernistischen Friedhof. Parkplatzsuche ist in dieser Jahreszeit kein Problem.\n\nMittags fahren wir bequem zu den Santa Clotilde Gärten. Die milde Heizung im Auto ist nach dem Spaziergang in der frischen Brise sehr angenehm.\n\nDie Fahrt nach Blanes zum Marimurtra Garten bietet tolle Ausblicke auf die felsige Küste. Im Winter ist der Verkehr auf der Küstenstraße minimal.\n\nAm Nachmittag steuern wir das Sant Joan Castle an und beenden den Tag am Fenals Beach. Wir genießen die Ruhe der Nebensaison vom Komfort unseres Wagens aus.",
+            "hu": "A napsütéses téli nap autóval kezdődik a Modernista temetőnél. A parkolás ilyenkor egyáltalán nem probléma.\n\nDélben kényelmesen elhajtunk a Santa Clotilde kertekhez. Az autó fűtése nagyon jól esik a friss szélben tett séta után.\n\nA Blanesbe vezető út a Marimurtra kerthez remek kilátást nyújt a sziklás partra. Télen a forgalom minimális a parti úton.\n\nDélután a Sant Joan várat vesszük célba, majd a Fenals strandon zárunk. Élvezzük az előszezon nyugalmát az autónk kényelméből.",
+            "ro": "O zi însorită de iarnă cu mașina începe la Cimitirul Modernist. Găsirea unui loc de parcare nu este o problemă în acest sezon.\n\nLa prânz conducem confortabil spre Grădinile Santa Clotilde. Încălzirea din mașină este foarte plăcută după plimbarea în briza rece.\n\nDrumul spre Blanes pentru grădina Marimurtra oferă vederi superbe ale coastei stâncoase. Iarna, traficul pe drumul de coastă este minim.\n\nDupă-amiaza vizităm Castelul Sant Joan și încheiem ziua la plaja Fenals. Ne bucurăm de liniștea extrasezonului din confortul mașinii.",
+            "en": "A sunny winter day by car starts at the Modernist Cemetery. Finding parking is no problem at all during this season.\n\nAt midday, we drive comfortably to the Santa Clotilde Gardens. The car's heating is very pleasant after a walk in the fresh breeze.\n\nThe drive to Blanes for the Marimurtra Garden offers great views of the rocky coast. In winter, traffic on the coastal road is minimal.\n\nIn the afternoon, we head to Sant Joan Castle and finish at Fenals Beach. We enjoy the off-season peace from the comfort of our car."
+          },
+          "stops": [
+            {
+              "name": "Modernist Cemetery",
+              "tip_5lang": {
+                "de": "Keine Parkgebühren in vielen Zonen während des Winters.",
+                "hu": "Télen sok zónában nincs parkolási díj.",
+                "ro": "În multe zone nu se plătește parcarea pe timpul iernii.",
+                "en": "No parking fees in many zones during the winter."
+              }
+            },
+            {
+              "name": "Santa Clotilde Gardens",
+              "tip_5lang": {
+                "de": "Ideale Besuchszeit ist 12:00 bis 14:00 für maximale Sonne.",
+                "hu": "Az ideális látogatási idő 12:00 és 14:00 között van a napsütés miatt.",
+                "ro": "Intervalul ideal de vizită este 12:00-14:00 pentru soare maxim.",
+                "en": "Ideal visiting time is 12:00 to 2:00 PM for maximum sun."
+              }
+            },
+            {
+              "name": "Blanes - Marimurtra Garden",
+              "tip_5lang": {
+                "de": "Parken Sie oben am Eingang; im Winter ist dort meist Platz.",
+                "hu": "Parkoljon fent a bejáratnál; télen általában van hely.",
+                "ro": "Parcați sus la intrare; iarna de obicei sunt locuri libere.",
+                "en": "Park at the top entrance; there's usually space in winter."
+              }
+            },
+            {
+              "name": "Sant Joan Castle",
+              "tip_5lang": {
+                "de": "Genießen Sie die Aussicht direkt vom Parkplatz aus.",
+                "hu": "Élvezze a kilátást közvetlenül a parkolóból.",
+                "ro": "Bucurați-vă de priveliște direct din parcare.",
+                "en": "Enjoy the view directly from the parking area."
+              }
+            },
+            {
+              "name": "Fenals Beach",
+              "tip_5lang": {
+                "de": "Blaue Zonen sind oft kostenlos oder günstiger im Winter.",
+                "hu": "A kék zónák télen gyakran ingyenesek vagy olcsóbbak.",
+                "ro": "Zonele albastre sunt adesea gratuite sau mai ieftine iarna.",
+                "en": "Blue zones are often free or cheaper in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Parkplatzsuche im Zentrum ist im Winter extrem einfach.",
+              "Achten Sie auf geänderte Einbahnstraßenregeln in der Nebensaison.",
+              "Einige Küstenstraßen können bei Frost am frühen Morgen glatt sein.",
+              "Nutzen Sie das Auto als Basis für Wanderungen an leeren Stränden."
+            ],
+            "hu": [
+              "A belvárosi parkolás télen rendkívül egyszerű.",
+              "Ügyeljen az előszezonban megváltozott forgalmi rendekre.",
+              "Néhány parti út kora reggel jeges vagy csúszós lehet.",
+              "Használja az autót bázisként az üres strandokon tett sétákhoz."
+            ],
+            "ro": [
+              "Găsirea parcării în centru este extrem de ușoară iarna.",
+              "Atenție la regulile de circulație modificate în extrasezon.",
+              "Unele drumuri de coastă pot fi alunecoase dimineața devreme.",
+              "Folosiți mașina ca bază pentru plimbări pe plajele pustii."
+            ],
+            "en": [
+              "Finding parking in the center is extremely easy in winter.",
+              "Watch for changed traffic rules or one-way streets in off-season.",
+              "Some coastal roads can be slippery during early morning frost.",
+              "Use the car as a base for walks on the empty beaches."
+            ]
+          }
+        }
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 10.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Església de Sant Romà",
+            "hu": "Szent Roman-templom",
+            "ro": "Biserica Sant Romà",
+            "en": "Church of Sant Romà"
+          },
+          "coords": [
+            2.8475,
+            41.7001
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:15",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Zentrale Haltestelle 'Ajuntament'.",
+            "hu": "Központi megálló: 'Ajuntament'.",
+            "ro": "Stația centrală 'Ajuntament'.",
+            "en": "Central stop 'Ajuntament' is nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Museu del Mar",
+            "hu": "Tengerészeti Múzeum",
+            "ro": "Muzeul Mării",
+            "en": "Maritime Museum"
+          },
+          "coords": [
+            2.8492,
+            41.7005
+          ],
+          "category": "museums",
+          "arrive_at": "10:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Nur wenige Schritte von der Promenade entfernt.",
+            "hu": "Csak pár lépés a sétánytól.",
+            "ro": "La doar câțiva pași de faleză.",
+            "en": "Just a few steps from the promenade."
+          }
+        },
+        {
+          "name": {
+            "de": "Jardins de Santa Clotilde",
+            "hu": "Santa Clotilde kertek",
+            "ro": "Grădinile Santa Clotilde",
+            "en": "Santa Clotilde Gardens"
+          },
+          "coords": [
+            2.8255,
+            41.6912
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Bus L2 hält direkt am Eingang.",
+            "hu": "Az L2-es busz közvetlenül a bejáratnál áll meg.",
+            "ro": "Autobuzul L2 oprește chiar la intrare.",
+            "en": "Bus L2 stops directly at the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Platja de Fenals",
+            "hu": "Fenals strand",
+            "ro": "Plaja Fenals",
+            "en": "Fenals Beach"
+          },
+          "coords": [
+            2.8315,
+            41.6925
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:30",
+          "stay_min": 150,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Gute Busanbindung zurück ins Zentrum.",
+            "hu": "Jó buszközlekedés vissza a központba.",
+            "ro": "Conexiune bună de autobuz înapoi spre centru.",
+            "en": "Good bus frequency back to the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Castell d'en Plaja",
+            "hu": "Castell d'en Plaja",
+            "ro": "Castell d'en Plaja",
+            "en": "Castell d'en Plaja"
+          },
+          "coords": [
+            2.8588,
+            41.6995
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "17:20",
+          "stay_min": 70,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Abendspaziergang zurück zum Terminal.",
+            "hu": "Esti séta vissza a buszpályaudvarhoz.",
+            "ro": "Plimbare de seară înapoi spre terminal.",
+            "en": "Evening walk back to the main terminal."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem lokalen Bussystem 'Línea Lloret' erreichen wir bequem alle Sehenswürdigkeiten. Wir starten im Zentrum bei der Kirche und dem Museum.\n\nMittags nehmen wir den Bus zu den Gärten von Santa Clotilde, die etwas außerhalb liegen und zu Fuß mühsam zu erreichen wären.\n\nDen Nachmittag verbringen wir am entspannten Fenals-Strand, bevor uns der Bus zurück in den Norden der Bucht bringt.\n\nZum Abschluss spazieren wir zum Schloß Plaja, um den Tag mit einem Blick über die Lichter der Stadt ausklingen zu lassen.",
+        "hu": "A helyi 'Línea Lloret' buszhálózattal kényelmesen elérünk minden látnivalót. A központban kezdünk a templommal és a múzeummal.\n\nDélben busszal utazunk a Santa Clotilde kertekhez, amelyek kissé kiesnek a központból, és gyalog fárasztó lenne az út.\n\nA délutánt a pihentető Fenals-strandon töltjük, mielőtt a busz visszavinne minket az öböl északi részére.\n\nBefejezésül elsétálunk a Plaja-kastélyhoz, hogy a város fényeiben gyönyörködve zárjuk a napot.",
+        "ro": "Cu sistemul local de autobuze 'Línea Lloret' ajungem confortabil la toate atracțiile. Începem în centru cu biserica și muzeul.\n\nLa prânz luăm autobuzul spre grădinile Santa Clotilde, care sunt puțin în afara centrului și ar fi greu de accesat pe jos.\n\nDupă-amiaza o petrecem pe plaja relaxantă Fenals, înainte ca autobuzul să ne ducă înapoi în nordul golfului.\n\nLa final, ne plimbăm spre castelul Plaja pentru a încheia ziua cu o privire asupra luminilor orașului.",
+        "en": "With the local 'Línea Lloret' bus system, we comfortably reach all the sights. We start in the center with the church and the museum.\n\nAt noon, we take the bus to the Santa Clotilde Gardens, which are located a bit outside and would be tiring to reach on foot.\n\nWe spend the afternoon at the relaxed Fenals Beach before the bus takes us back to the north of the bay.\n\nTo finish, we walk to Plaja Castle to end the day with a view over the city lights."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gambas de Blanes",
+            "tip": "Frische Riesengarnelen aus der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gambas de Blanes",
+            "tip": "Friss óriásgarnéla a régióból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gambas de Blanes",
+            "tip": "Creveți uriași proaspeți din regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gambas de Blanes",
+            "tip": "Fresh king prawns sourced from the local region."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Jardins de Santa Clotilde",
+            "tip": "Klassische Musik und Meerblick.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jardins de Santa Clotilde",
+            "tip": "Komolyzene és tengeri kilátás.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Jardins de Santa Clotilde",
+            "tip": "Muzică clasică și vedere la mare.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Jardins de Santa Clotilde",
+            "tip": "Classical music ambiance and sea views.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mercat Municipal",
+            "tip": "Die städtische Markthalle."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mercat Municipal",
+            "tip": "A városi vásárcsarnok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mercat Municipal",
+            "tip": "Hala pieței municipale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mercat Municipal",
+            "tip": "The central municipal market hall."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine T-10 Mehrfahrtenkarte.",
+          "Die Busse sind im Sommer klimatisiert.",
+          "Laden Sie die 'Lloret Bus' App für Echtzeitdaten.",
+          "Vom Busbahnhof gibt es Verbindungen nach Barcelona."
+        ],
+        "hu": [
+          "Vásároljon T-10-es gyűjtőjegyet.",
+          "A buszok nyáron légkondicionáltak.",
+          "Töltse le a 'Lloret Bus' alkalmazást a menetrendhez.",
+          "A buszpályaudvarról közvetlen járatok indulnak Barcelonába."
+        ],
+        "ro": [
+          "Cumpărați un card de călătorii T-10.",
+          "Autobuzele sunt climatizate pe timpul verii.",
+          "Descărcați aplicația 'Lloret Bus' pentru date în timp real.",
+          "De la autogară există conexiuni spre Barcelona."
+        ],
+        "en": [
+          "Purchase a T-10 multi-journey ticket.",
+          "Buses are air-conditioned during summer.",
+          "Download the 'Lloret Bus' app for real-time tracking.",
+          "The main bus station has connections to Barcelona."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mit dem lokalen Bussystem 'Línea Lloret' erreichen wir bequem alle Sehenswürdigkeiten. Wir starten im Zentrum bei der Kirche und dem Museum.\n\nMittags nehmen wir den Bus zu den Gärten von Santa Clotilde, die etwas außerhalb liegen und zu Fuß mühsam zu erreichen wären.\n\nDen Nachmittag verbringen wir am entspannten Fenals-Strand, bevor uns der Bus zurück in den Norden der Bucht bringt.\n\nZum Abschluss spazieren wir zum Schloß Plaja, um den Tag mit einem Blick über die Lichter der Stadt ausklingen zu lassen.",
+            "hu": "A helyi 'Línea Lloret' buszhálózattal kényelmesen elérünk minden látnivalót. A központban kezdünk a templommal és a múzeummal.\n\nDélben busszal utazunk a Santa Clotilde kertekhez, amelyek kissé kiesnek a központból, és gyalog fárasztó lenne az út.\n\nA délutánt a pihentető Fenals-strandon töltjük, mielőtt a busz visszavinne minket az öböl északi részére.\n\nBefejezésül elsétálunk a Plaja-kastélyhoz, hogy a város fényeiben gyönyörködve zárjuk a napot.",
+            "ro": "Cu sistemul local de autobuze 'Línea Lloret' ajungem confortabil la toate atracțiile. Începem în centru cu biserica și muzeul.\n\nLa prânz luăm autobuzul spre grădinile Santa Clotilde, care sunt puțin în afara centrului și ar fi greu de accesat pe jos.\n\nDupă-amiaza o petrecem pe plaja relaxantă Fenals, înainte ca autobuzul să ne ducă înapoi în nordul golfului.\n\nLa final, ne plimbăm spre castelul Plaja pentru a încheia ziua cu o privire asupra luminilor orașului.",
+            "en": "With the local 'Línea Lloret' bus system, we comfortably reach all the sights. We start in the center with the church and the museum.\n\nAt noon, we take the bus to the Santa Clotilde Gardens, which are located a bit outside and would be tiring to reach on foot.\n\nWe spend the afternoon at the relaxed Fenals Beach before the bus takes us back to the north of the bay.\n\nTo finish, we walk to Plaja Castle to end the day with a view over the city lights."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Església de Sant Romà",
+                "hu": "Szent Roman-templom",
+                "ro": "Biserica Sant Romà",
+                "en": "Church of Sant Romà"
+              },
+              "tip_5lang": {
+                "de": "Zentrale Haltestelle 'Ajuntament'.",
+                "hu": "Központi megálló: 'Ajuntament'.",
+                "ro": "Stația centrală 'Ajuntament'.",
+                "en": "Central stop 'Ajuntament' is nearby."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu del Mar",
+                "hu": "Tengerészeti Múzeum",
+                "ro": "Muzeul Mării",
+                "en": "Maritime Museum"
+              },
+              "tip_5lang": {
+                "de": "Nur wenige Schritte von der Promenade entfernt.",
+                "hu": "Csak pár lépés a sétánytól.",
+                "ro": "La doar câțiva pași de faleză.",
+                "en": "Just a few steps from the promenade."
+              }
+            },
+            {
+              "name": {
+                "de": "Jardins de Santa Clotilde",
+                "hu": "Santa Clotilde kertek",
+                "ro": "Grădinile Santa Clotilde",
+                "en": "Santa Clotilde Gardens"
+              },
+              "tip_5lang": {
+                "de": "Bus L2 hält direkt am Eingang.",
+                "hu": "Az L2-es busz közvetlenül a bejáratnál áll meg.",
+                "ro": "Autobuzul L2 oprește chiar la intrare.",
+                "en": "Bus L2 stops directly at the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Platja de Fenals",
+                "hu": "Fenals strand",
+                "ro": "Plaja Fenals",
+                "en": "Fenals Beach"
+              },
+              "tip_5lang": {
+                "de": "Gute Busanbindung zurück ins Zentrum.",
+                "hu": "Jó buszközlekedés vissza a központba.",
+                "ro": "Conexiune bună de autobuz înapoi spre centru.",
+                "en": "Good bus frequency back to the center."
+              }
+            },
+            {
+              "name": {
+                "de": "Castell d'en Plaja",
+                "hu": "Castell d'en Plaja",
+                "ro": "Castell d'en Plaja",
+                "en": "Castell d'en Plaja"
+              },
+              "tip_5lang": {
+                "de": "Abendspaziergang zurück zum Terminal.",
+                "hu": "Esti séta vissza a buszpályaudvarhoz.",
+                "ro": "Plimbare de seară înapoi spre terminal.",
+                "en": "Evening walk back to the main terminal."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Gambas de Blanes",
+                "tip": "Frische Riesengarnelen aus der Region."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Gambas de Blanes",
+                "tip": "Friss óriásgarnéla a régióból."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Gambas de Blanes",
+                "tip": "Creveți uriași proaspeți din regiune."
+              }
+            ],
+            "en": [
+              {
+                "name": "Gambas de Blanes",
+                "tip": "Fresh king prawns sourced from the local region."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Jardins de Santa Clotilde",
+                "tip": "Klassische Musik und Meerblick.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Jardins de Santa Clotilde",
+                "tip": "Komolyzene és tengeri kilátás.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Jardins de Santa Clotilde",
+                "tip": "Muzică clasică și vedere la mare.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Jardins de Santa Clotilde",
+                "tip": "Classical music ambiance and sea views.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Mercat Municipal",
+                "tip": "Die städtische Markthalle."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Mercat Municipal",
+                "tip": "A városi vásárcsarnok."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Mercat Municipal",
+                "tip": "Hala pieței municipale."
+              }
+            ],
+            "en": [
+              {
+                "name": "Mercat Municipal",
+                "tip": "The central municipal market hall."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Kaufen Sie eine T-10 Mehrfahrtenkarte.",
+              "Die Busse sind im Sommer klimatisiert.",
+              "Laden Sie die 'Lloret Bus' App für Echtzeitdaten.",
+              "Vom Busbahnhof gibt es Verbindungen nach Barcelona."
+            ],
+            "hu": [
+              "Vásároljon T-10-es gyűjtőjegyet.",
+              "A buszok nyáron légkondicionáltak.",
+              "Töltse le a 'Lloret Bus' alkalmazást a menetrendhez.",
+              "A buszpályaudvarról közvetlen járatok indulnak Barcelonába."
+            ],
+            "ro": [
+              "Cumpărați un card de călătorii T-10.",
+              "Autobuzele sunt climatizate pe timpul verii.",
+              "Descărcați aplicația 'Lloret Bus' pentru date în timp real.",
+              "De la autogară există conexiuni spre Barcelona."
+            ],
+            "en": [
+              "Purchase a T-10 multi-journey ticket.",
+              "Buses are air-conditioned during summer.",
+              "Download the 'Lloret Bus' app for real-time tracking.",
+              "The main bus station has connections to Barcelona."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Bus navigieren wir sicher durch das verregnete Lloret. Wir starten an der Kirche Sant Romà, die gut an das lokale Netz angebunden ist.\n\nMittags bringt uns die Linie L2 zum Meeresmuseum. Die Busse sind trocken und bieten eine gute Alternative zum Laufen im Regen.\n\nAm Nachmittag fahren wir zu den Santa Clotilde Gärten. Wir warten unter den überdachten Haltestellen, bis der Regen nachlässt.\n\nDen Abend verbringen wir am Fenals Beach und dem Castell d'en Plaja, wobei wir die Fahrpläne nutzen, um die Zeit im Freien bei Güssen zu minimieren.",
+            "hu": "Busszal biztonságosan navigálunk az esős Lloretben. A Sant Romà templomnál kezdünk, amely jól kapcsolódik a helyi hálózathoz.\n\nDélben az L2-es vonal visz minket a Tengerészeti Múzeumhoz. A buszok szárazak, és remek alternatívát nyújtanak a gyaloglással szemben.\n\nDélután a Santa Clotilde kertekhez utazunk. A fedett megállók alatt várjuk meg, amíg az eső alábbhagy.\n\nAz estét a Fenals strandon és a Castell d'en Plaja-nál töltjük, a menetrendet használva, hogy minimalizáljuk a kint töltött időt.",
+            "ro": "Cu autobuzul navigăm în siguranță prin Lloretul ploios. Începem la biserica Sant Romà, bine conectată la rețeaua locală.\n\nLa prânz, linia L2 ne duce la Muzeul Maritim. Autobuzele sunt uscate și oferă o alternativă excelentă la mersul pe jos prin ploaie.\n\nDupă-amiaza mergem la Grădinile Santa Clotilde. Așteptăm sub stațiile acoperite până când ploaia se mai potolește.\n\nSeara o petrecem la plaja Fenals și Castell d'en Plaja, folosind orarul pentru a minimiza timpul petrecut afară în timpul averselor.",
+            "en": "By bus, we navigate safely through rainy Lloret. We start at Sant Romà Church, which is well-connected to the local network.\n\nAt midday, the L2 line takes us to the Maritime Museum. The buses are dry and offer a great alternative to walking in the rain.\n\nIn the afternoon, we travel to the Santa Clotilde Gardens. We wait under covered bus stops until the rain eases off.\n\nWe spend the evening at Fenals Beach and Castell d'en Plaja, using the schedule to minimize time spent outside during downpours."
+          },
+          "stops": [
+            {
+              "name": "Church of Sant Romà",
+              "tip_5lang": {
+                "de": "Die zentrale Haltestelle ist nur wenige Schritte entfernt.",
+                "hu": "A központi megálló mindössze pár lépésre található.",
+                "ro": "Stația centrală este la doar câțiva pași distanță.",
+                "en": "The central bus stop is only a few steps away."
+              }
+            },
+            {
+              "name": "Maritime Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die L1 oder L2 für eine schnelle, trockene Fahrt.",
+                "hu": "Használja az L1 vagy L2 vonalat a gyors, száraz útért.",
+                "ro": "Folosiți L1 sau L2 pentru o călătorie rapidă și uscată.",
+                "en": "Use the L1 or L2 line for a quick, dry journey."
+              }
+            },
+            {
+              "name": "Santa Clotilde Gardens",
+              "tip_5lang": {
+                "de": "Die Haltestelle Fenals ist überdacht; ideal bei Regen.",
+                "hu": "A fenalsi megálló fedett; ideális esőben várakozni.",
+                "ro": "Stația Fenals este acoperită; ideală pentru așteptat pe ploaie.",
+                "en": "The Fenals stop is covered; ideal for waiting during rain."
+              }
+            },
+            {
+              "name": "Fenals Beach",
+              "tip_5lang": {
+                "de": "Busse fahren regelmäßig zurück ins Stadtzentrum.",
+                "hu": "A buszok rendszeresen járnak vissza a városközpontba.",
+                "ro": "Autobuzele circulă regulat înapoi spre centrul orașului.",
+                "en": "Buses run regularly back to the city center."
+              }
+            },
+            {
+              "name": "Castell d'en Plaja",
+              "tip_5lang": {
+                "de": "Planen Sie den Fußweg von der Haltestelle mit Schirm ein.",
+                "hu": "Tervezze meg a sétát a megállótól esernyővel.",
+                "ro": "Planificați mersul pe jos de la stație cu umbrela pregătită.",
+                "en": "Plan the walk from the stop with an umbrella ready."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Laden Sie die 'Lloret Bus' App für Echtzeit-Infos herunter.",
+              "Halten Sie Kleingeld oder eine Kontaktlos-Karte bereit.",
+              "Busse können bei Regen wegen des Verkehrs etwas Verspätung haben.",
+              "Die Hauptstation (Terminal) bietet den besten Wetterschutz."
+            ],
+            "hu": [
+              "Töltse le a 'Lloret Bus' appot a valós idejű infókért.",
+              "Készítsen be aprópénzt vagy érintős bankkártyát.",
+              "A buszok esőben a forgalom miatt kicsit késhetnek.",
+              "A központi buszpályaudvar nyújtja a legjobb védelmet."
+            ],
+            "ro": [
+              "Descărcați aplicația 'Lloret Bus' pentru info în timp real.",
+              "Pregătiți mărunțiș sau un card contactless pentru plată.",
+              "Autobuzele pot avea întârzieri pe ploaie din cauza traficului.",
+              "Autogara centrală oferă cea mai bună protecție contra vremii."
+            ],
+            "en": [
+              "Download the 'Lloret Bus' app for real-time information.",
+              "Have small change or a contactless card ready for the fare.",
+              "Buses may be slightly delayed during rain due to traffic.",
+              "The main bus terminal offers the best weather protection."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintertag mit dem ÖPNV startet an der Kirche Sant Romà. Die Busse sind in der Nebensaison weniger voll und sehr pünktlich.\n\nMittags bringt uns der Bus zum Meeresmuseum. Wir genießen den Blick aus dem Fenster auf die ruhigen Straßen der Stadt.\n\nAm Nachmittag fahren wir zu den Santa Clotilde Gärten. Die Linien L1 und L2 verkehren auch im Winter zuverlässig zu den wichtigsten Parks.\n\nDen Tag lassen wir am Fenals Beach und dem Castell d'en Plaja ausklingen. Wir achten auf den frühen Sonnenuntergang und die leicht reduzierten Abendfahrpläne.",
+            "hu": "A téli nap tömegközlekedéssel indul a Sant Romà templomnál. A buszok az előszezonban kevésbé zsúfoltak és nagyon pontosak.\n\nDélben busszal megyünk a Tengerészeti Múzeumhoz. Élvezzük a kilátást az ablakból a város nyugodt utcáira.\n\nDélután a Santa Clotilde kertekhez utazunk. Az L1-es és L2-es vonalak télen is megbízhatóan közlekednek a főbb parkokhoz.\n\nA napot a Fenals strandon és a Castell d'en Plaja-nál zárjuk. Ügyelünk a korai naplementére és a kicsit ritkább esti menetrendre.",
+            "ro": "Ziua de iarnă cu transportul public începe la biserica Sant Romà. Autobuzele sunt mai puțin aglomerate și foarte punctuale în extrasezon.\n\nLa prânz luăm autobuzul spre Muzeul Maritim. Ne bucurăm de vederea de pe fereastră asupra străzilor liniștite ale orașului.\n\nDupă-amiaza mergem la Grădinile Santa Clotilde. Liniile L1 și L2 circulă constant și iarna către principalele parcuri.\n\nÎncheiem ziua la plaja Fenals și Castell d'en Plaja. Suntem atenți la apusul devreme și la orarul de seară ușor redus.",
+            "en": "The winter day by public transit starts at Sant Romà Church. Buses are less crowded and very punctual in the off-season.\n\nAt midday, the bus takes us to the Maritime Museum. We enjoy the view from the window of the city's quiet streets.\n\nIn the afternoon, we travel to the Santa Clotilde Gardens. Lines L1 and L2 run reliably to the main parks even in winter.\n\nWe end the day at Fenals Beach and Castell d'en Plaja. We keep an eye on the early sunset and the slightly reduced evening schedules."
+          },
+          "stops": [
+            {
+              "name": "Church of Sant Romà",
+              "tip_5lang": {
+                "de": "Zentraler Knotenpunkt; idealer Startpunkt im Winter.",
+                "hu": "Központi csomópont; ideális kiindulópont télen.",
+                "ro": "Nod central; punct de plecare ideal pe timp de iarnă.",
+                "en": "Central hub; ideal starting point in winter."
+              }
+            },
+            {
+              "name": "Maritime Museum",
+              "tip_5lang": {
+                "de": "Kurze Intervalle der Busse sorgen für wenig Wartezeit.",
+                "hu": "A buszok gyakori követése miatt kevés a várakozási idő.",
+                "ro": "Intervalele scurte ale autobuzelor înseamnă puțină așteptare.",
+                "en": "Frequent bus intervals mean very little waiting time."
+              }
+            },
+            {
+              "name": "Santa Clotilde Gardens",
+              "tip_5lang": {
+                "de": "Prüfen Sie die letzte Rückfahrt vor Einbruch der Dunkelheit.",
+                "hu": "Ellenőrizze az utolsó visszautat sötétedés előtt.",
+                "ro": "Verificați ultima cursă de întoarcere înainte de lăsarea serii.",
+                "en": "Check the last return trip before darkness falls."
+              }
+            },
+            {
+              "name": "Fenals Beach",
+              "tip_5lang": {
+                "de": "Die Haltestelle liegt direkt am Zugang zum Strand.",
+                "hu": "A megálló közvetlenül a strand bejáratánál található.",
+                "ro": "Stația se află direct la accesul spre plajă.",
+                "en": "The stop is located right at the beach access point."
+              }
+            },
+            {
+              "name": "Castell d'en Plaja",
+              "tip_5lang": {
+                "de": "Abendliche Busse fahren seltener; Zeitplan checken.",
+                "hu": "Az esti buszok ritkábban járnak; ellenőrizze az időpontokat.",
+                "ro": "Autobuzele de seară circulă mai rar; verificați orarul.",
+                "en": "Evening buses run less frequently; check the schedule."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterfahrpläne gelten ab November; oft leicht reduziert.",
+              "Nutzen Sie die beheizten Busse für kleine Pausen.",
+              "Die 10er-Karte (T-10) lohnt sich auch für einen Tag.",
+              "Sonntags fahren die Busse deutlich seltener als werktags."
+            ],
+            "hu": [
+              "A téli menetrend novembertől él; néha ritkább járatokkal.",
+              "Használja a fűtött buszokat egy kis pihenésre.",
+              "A 10 alkalmas gyűjtőjegy (T-10) egy napra is megéri.",
+              "Vasárnap a buszok jóval ritkábban járnak, mint hétköznap."
+            ],
+            "ro": [
+              "Orarele de iarnă se aplică din noiembrie; cursele sunt mai rare.",
+              "Folosiți autobuzele încălzite pentru scurte pauze.",
+              "Cartela cu 10 călătorii (T-10) merită chiar și pentru o zi.",
+              "Duminica autobuzele circulă mult mai rar decât în restul săptămânii."
+            ],
+            "en": [
+              "Winter schedules apply from November; often slightly reduced.",
+              "Utilize the heated buses for short breaks between stops.",
+              "The 10-trip card (T-10) is worth it even for a single day.",
+              "Buses run much less frequently on Sundays than on weekdays."
+            ]
+          }
+        }
+      }
+    }
+  },
+  "external_resources": {
+    "tourism_office": "https://www.lloretdemar.org/en/",
+    "transit_official": "https://www.sagales.com/",
+    "events": "https://www.civitatis.com/en/lloret-de-mar/",
+    "webcam": "https://www.skylinewebcams.com/en/webcam/espana/cataluna/girona/lloret-de-mar.html",
+    "parking_real_time": "https://www.parclick.es/",
+    "restaurants_booking": "https://www.thefork.com/",
+    "language_tips": {
+      "de": "In Lloret hört man Katalanisch, Spanisch und sehr viel Englisch, Französisch, Deutsch und Russisch. Wegen des Massentourismus arbeiten fast alle Servicekräfte mehrsprachig. Ein 'Bon dia' wirkt aber sofort sympathisch und holt Sie aus der Touristenschublade.",
+      "hu": "Lloretben kevered a katalán, spanyol, angol, francia, német és orosz nyelvet. A tömegturizmus miatt a pincérek és recepciósok többnyelvűek. Egy 'Bon dia' viszont azonnal kiemel a turisták közül és barátságos arcot kapsz cserébe.",
+      "ro": "În Lloret se aud catalană, spaniolă, engleză, franceză, germană și rusă. Din cauza turismului de masă, personalul vorbește mai multe limbi. Un 'Bon dia' în catalană te scoate imediat din categoria turist anonim.",
+      "en": "Lloret mixes Catalan, Spanish and lots of English, French, German and Russian. Thanks to mass tourism, most staff speak several languages. Still, a 'Bon dia' immediately sets you apart from the average tourist."
+    },
+    "best_time_to_visit": {
+      "de": "Mai, Juni und September bieten warmes Meer ohne den Trubel der Schulferien. Juli und August sind extrem voll, vor allem mit jungen Partygästen. Im Oktober wird es ruhiger, viele Strandbars schließen aber bereits.",
+      "hu": "Május, június és szeptember ideális: meleg tenger nyári tömeg nélkül. Júliusban-augusztusban zsúfolt és hangos, főleg a fiatal partizó tömeg miatt. Októberben már csendes, de a strandbárok jó része bezár.",
+      "ro": "Mai, iunie și septembrie oferă mare caldă fără aglomerația estivală. Iulie și august sunt foarte zgomotoase, plin de tineri la party. În octombrie e liniștit, dar multe baruri de plajă se închid.",
+      "en": "May, June and September give you warm sea without the school-holiday crowds. July and August get loud and packed with party crowds. October is calm but many beach bars start closing."
+    },
+    "neighborhood_warnings": {
+      "de": "Lloret ist generell sicher, hat aber das aktivste Nachtleben der Costa Brava. Rund um die Carrer de la Riera nachts auf Taschendiebe und aggressive Werber achten. Allein als Frau besser per Taxi zurück ins Hotel, besonders nach 2 Uhr morgens.",
+      "hu": "Lloret általában biztonságos, de a Costa Brava legpörgősebb éjszakai élete itt van. A Carrer de la Riera környékén éjjel figyelj a zsebtolvajokra és a tolakodó hostességekre. Nőként egyedül érdemes taxival visszamenni a szállodába, főleg hajnal 2 után.",
+      "ro": "Lloret e în general sigur, dar are cea mai intensă viață de noapte de pe Costa Brava. Pe Carrer de la Riera, noaptea, atenție la buzunare și la racolatori agresivi. Femeile singure ar trebui să ia taxi spre hotel după ora 2 noaptea.",
+      "en": "Lloret is generally safe but has Costa Brava's wildest nightlife. Around Carrer de la Riera at night watch for pickpockets and pushy club promoters. Solo female travellers should taxi back to the hotel after 2 a.m."
+    }
+  }
+}

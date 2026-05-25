@@ -1,0 +1,2781 @@
+{
+  "city_id": "ibiza-town",
+  "anchor": {
+    "name": "Ibiza Town (Eivissa)",
+    "coords": [
+      38.9067,
+      1.4206
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "19:15",
+      "total_km": 3.4,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Vara de Rey",
+            "hu": "Vara de Rey korzó",
+            "ro": "Vara de Rey",
+            "en": "Vara de Rey"
+          },
+          "coords": [
+            38.9092,
+            1.4328
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Perfekter Ort für einen Morgenkaffee.",
+            "hu": "Ideális hely egy reggeli kávéhoz.",
+            "ro": "Loc perfect pentru o cafea de dimineață.",
+            "en": "Perfect spot for a morning coffee."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen von Eivissa",
+            "hu": "Ibiza kikötő",
+            "ro": "Portul Eivissa",
+            "en": "Port of Ibiza"
+          },
+          "coords": [
+            38.9105,
+            1.4365
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Beobachten Sie die luxuriösen Yachten.",
+            "hu": "Nézze meg a luxusjachtokat a mólónál.",
+            "ro": "Admirați iahturile de lux din port.",
+            "en": "Watch the luxury yachts at the pier."
+          }
+        },
+        {
+          "name": {
+            "de": "Dalt Vila",
+            "hu": "Dalt Vila (Óváros)",
+            "ro": "Dalt Vila",
+            "en": "Dalt Vila"
+          },
+          "coords": [
+            38.9069,
+            1.4361
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster.",
+            "hu": "Kényelmes cipőben induljon a macskaköves utakra.",
+            "ro": "Purtați încălțăminte comodă pentru pavaj.",
+            "en": "Wear comfortable shoes for the cobblestones."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale Santa Maria",
+            "hu": "Santa Maria katedrális",
+            "ro": "Catedrala Santa Maria",
+            "en": "Cathedral of Santa Maria"
+          },
+          "coords": [
+            38.9058,
+            1.4364
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie die Aussicht vom Vorplatz.",
+            "hu": "Élvezze a kilátást a templom előtti térről.",
+            "ro": "Bucurați-vă de priveliștea din fața catedralei.",
+            "en": "Enjoy the view from the church square."
+          }
+        },
+        {
+          "name": {
+            "de": "Castell d'Eivissa",
+            "hu": "Ibiza vára",
+            "ro": "Castelul din Ibiza",
+            "en": "Ibiza Castle"
+          },
+          "coords": [
+            38.9061,
+            1.4372
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Waffenkammer.",
+            "hu": "Nézze meg a vár fegyvertárát is.",
+            "ro": "Vizitați sala de arme a castelului.",
+            "en": "Visit the castle's armory room."
+          }
+        },
+        {
+          "name": {
+            "de": "Puget-Museum",
+            "hu": "Puget Múzeum",
+            "ro": "Muzeul Puget",
+            "en": "Puget Museum"
+          },
+          "coords": [
+            38.9072,
+            1.4355
+          ],
+          "category": "museums",
+          "arrive_at": "15:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Wunderschönes Herrenhaus aus dem 15. Jahrhundert.",
+            "hu": "Gyönyörű 15. századi nemesi palotában található.",
+            "ro": "O casă nobiliară superbă din secolul XV.",
+            "en": "Located in a beautiful 15th-century mansion."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Sant Domènec",
+            "hu": "Sant Domènec templom",
+            "ro": "Biserica Sant Domènec",
+            "en": "Church of Sant Domènec"
+          },
+          "coords": [
+            38.9081,
+            1.4358
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "17:05",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Achten Sie auf die Fresken an der Decke.",
+            "hu": "Figyelje meg a mennyezeti freskókat.",
+            "ro": "Observați frescele de pe tavan.",
+            "en": "Pay attention to the ceiling frescoes."
+          }
+        },
+        {
+          "name": {
+            "de": "Nekropole Puig des Molins",
+            "hu": "Puig des Molins nekropolisz",
+            "ro": "Necropola Puig des Molins",
+            "en": "Puig des Molins Necropolis"
+          },
+          "coords": [
+            38.9075,
+            1.4285
+          ],
+          "category": "museums",
+          "arrive_at": "18:10",
+          "stay_min": 65,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Die größte phönizische Nekropole der Welt.",
+            "hu": "A világ legnagyobb föníciai nekropolisza.",
+            "ro": "Cea mai mare necropolă feniciană din lume.",
+            "en": "The largest Phoenician necropolis in the world."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag auf der Vara de Rey und spazieren Sie am belebten Hafen entlang. Am Vormittag erklimmen Sie die Dalt Vila, das historische Herz von Ibiza-Stadt, das zum UNESCO-Weltkulturerbe gehört. Mittags erkunden Sie die Kathedrale und das Schloss mit atemberaubendem Blick auf das Meer. Den Nachmittag verbringen Sie in den Kunstgalerien des Puget-Museums und beenden Ihre Reise bei der faszinierenden punischen Nekropole.",
+        "hu": "Kezdje a napot a Vara de Rey korzón, majd sétáljon végig a nyüzsgő kikötőben. Délelőtt másszon fel a Dalt Vila várnegyedbe, Ibiza történelmi szívébe. Ebédidőben fedezze fel a katedrálist és az erődöt, ahonnan pazar kilátás nyílik a tengerre. Délután látogasson el a Puget Múzeumba, végül pedig ismerje meg a sziget ősi múltját a Puig des Molins nekropolisz sírkamrái között.",
+        "ro": "Începeți ziua pe bulevardul Vara de Rey și plimbați-vă prin portul animat. Dimineața, urcați în Dalt Vila, inima istorică a Ibizei, inclusă în patrimoniul UNESCO. La prânz, explorați catedrala și castelul cu vederi uluitoare spre mare. Petreceți după-amiaza în galeriile Muzeului Puget și încheiați călătoria la fascinanta necropolă punică, cea mai mare de acest fel.",
+        "en": "Start your day at the Vara de Rey promenade and walk along the bustling harbor. In the morning, climb up to Dalt Vila, the historic heart of Ibiza Town and a UNESCO World Heritage site. Midday, explore the cathedral and the fortress with stunning views of the Mediterranean. Spend the afternoon in the Puget Museum and finish your journey at the ancient Punic necropolis of Puig des Molins."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Flaó",
+            "tip": "Traditioneller Käsekuchen mit Minze im La Brasa."
+          },
+          {
+            "name": "Bullit de Peix",
+            "tip": "Fischtopf im Restaurant El Faro am Hafen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Flaó",
+            "tip": "Hagyományos mentás sajttorta a La Brasa étteremben."
+          },
+          {
+            "name": "Bullit de Peix",
+            "tip": "Helyi halragu az El Faro étteremben a kikötőnél."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Flaó",
+            "tip": "Prăjitură tradițională cu brânză și mentă la La Brasa."
+          },
+          {
+            "name": "Bullit de Peix",
+            "tip": "Tocăniță de pește la El Faro, în zona portului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Flaó",
+            "tip": "Traditional mint cheesecake at La Brasa restaurant."
+          },
+          {
+            "name": "Bullit de Peix",
+            "tip": "Local fish stew at El Faro by the harbor."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Baluarte de Santa Lucía",
+            "tip": "Ruhiger Aussichtspunkt in der Festung.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Kirchplatz der Kathedrale",
+            "tip": "Friedlicher Ort am frühen Morgen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Baluarte de Santa Lucía",
+            "tip": "Csendes bástya panorámával a tengerre.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Katedrális tere",
+            "tip": "Békés hely a kora reggeli órákban.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Baluarte de Santa Lucía",
+            "tip": "Bastion liniștit cu panoramă spre mare.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Piața Catedralei",
+            "tip": "Un loc liniștit la orele dimineții.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Baluarte de Santa Lucía",
+            "tip": "Quiet bastion with sea views.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Cathedral Square",
+            "tip": "Peaceful spot during early morning hours.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mercat Vell",
+            "tip": "Historischer Markt für lokale Produkte."
+          },
+          {
+            "name": "Adlib Mode",
+            "tip": "Typisch weiße Ibiza-Kleidung in der Altstadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mercat Vell",
+            "tip": "Történelmi piac helyi termékekkel."
+          },
+          {
+            "name": "Adlib divat",
+            "tip": "Tipikus fehér ibizai ruhák az óvárosban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mercat Vell",
+            "tip": "Piață istorică pentru produse locale."
+          },
+          {
+            "name": "Moda Adlib",
+            "tip": "Haine albe tipice Ibizei în orașul vechi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mercat Vell",
+            "tip": "Historic market for local products."
+          },
+          {
+            "name": "Adlib Fashion",
+            "tip": "Typical white Ibiza clothing in the old town."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Besuchen Sie die Dalt Vila früh, um die Hitze zu vermeiden.",
+          "Die steilen Gassen erfordern festes Schuhwerk.",
+          "Trinken Sie ausreichend Wasser während des Aufstiegs.",
+          "Die Aussicht vom Schloss ist bei Sonnenuntergang am schönsten."
+        ],
+        "hu": [
+          "Látogassa meg a Dalt Vilát korán, hogy elkerülje a hőséget.",
+          "A meredek sikátorokhoz stabil lábbeli szükséges.",
+          "Igyon sok vizet a várba való felkapaszkodás közben.",
+          "A vár kilátása naplementekor a legszebb."
+        ],
+        "ro": [
+          "Vizitați Dalt Vila dimineața devreme pentru a evita căldura.",
+          "Străzile abrupte necesită încălțăminte stabilă.",
+          "Beți multă apă în timpul urcării spre castel.",
+          "Priveliștea de la castel este superbă la apus."
+        ],
+        "en": [
+          "Visit Dalt Vila early to avoid the midday heat.",
+          "The steep alleys require sturdy footwear.",
+          "Drink plenty of water during the climb to the castle.",
+          "The castle view is most beautiful at sunset."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag auf der Vara de Rey und spazieren Sie am belebten Hafen entlang. Am Vormittag erklimmen Sie die Dalt Vila, das historische Herz von Ibiza-Stadt, das zum UNESCO-Weltkulturerbe gehört. Mittags erkunden Sie die Kathedrale und das Schloss mit atemberaubendem Blick auf das Meer. Den Nachmittag verbringen Sie in den Kunstgalerien des Puget-Museums und beenden Ihre Reise bei der faszinierenden punischen Nekropole.",
+            "hu": "Kezdje a napot a Vara de Rey korzón, majd sétáljon végig a nyüzsgő kikötőben. Délelőtt másszon fel a Dalt Vila várnegyedbe, Ibiza történelmi szívébe. Ebédidőben fedezze fel a katedrálist és az erődöt, ahonnan pazar kilátás nyílik a tengerre. Délután látogasson el a Puget Múzeumba, végül pedig ismerje meg a sziget ősi múltját a Puig des Molins nekropolisz sírkamrái között.",
+            "ro": "Începeți ziua pe bulevardul Vara de Rey și plimbați-vă prin portul animat. Dimineața, urcați în Dalt Vila, inima istorică a Ibizei, inclusă în patrimoniul UNESCO. La prânz, explorați catedrala și castelul cu vederi uluitoare spre mare. Petreceți după-amiaza în galeriile Muzeului Puget și încheiați călătoria la fascinanta necropolă punică, cea mai mare de acest fel.",
+            "en": "Start your day at the Vara de Rey promenade and walk along the bustling harbor. In the morning, climb up to Dalt Vila, the historic heart of Ibiza Town and a UNESCO World Heritage site. Midday, explore the cathedral and the fortress with stunning views of the Mediterranean. Spend the afternoon in the Puget Museum and finish your journey at the ancient Punic necropolis of Puig des Molins."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Vara de Rey",
+                "hu": "Vara de Rey korzó",
+                "ro": "Vara de Rey",
+                "en": "Vara de Rey"
+              },
+              "tip_5lang": {
+                "de": "Perfekter Ort für einen Morgenkaffee.",
+                "hu": "Ideális hely egy reggeli kávéhoz.",
+                "ro": "Loc perfect pentru o cafea de dimineață.",
+                "en": "Perfect spot for a morning coffee."
+              }
+            },
+            {
+              "name": {
+                "de": "Hafen von Eivissa",
+                "hu": "Ibiza kikötő",
+                "ro": "Portul Eivissa",
+                "en": "Port of Ibiza"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die luxuriösen Yachten.",
+                "hu": "Nézze meg a luxusjachtokat a mólónál.",
+                "ro": "Admirați iahturile de lux din port.",
+                "en": "Watch the luxury yachts at the pier."
+              }
+            },
+            {
+              "name": {
+                "de": "Dalt Vila",
+                "hu": "Dalt Vila (Óváros)",
+                "ro": "Dalt Vila",
+                "en": "Dalt Vila"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster.",
+                "hu": "Kényelmes cipőben induljon a macskaköves utakra.",
+                "ro": "Purtați încălțăminte comodă pentru pavaj.",
+                "en": "Wear comfortable shoes for the cobblestones."
+              }
+            },
+            {
+              "name": {
+                "de": "Kathedrale Santa Maria",
+                "hu": "Santa Maria katedrális",
+                "ro": "Catedrala Santa Maria",
+                "en": "Cathedral of Santa Maria"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Aussicht vom Vorplatz.",
+                "hu": "Élvezze a kilátást a templom előtti térről.",
+                "ro": "Bucurați-vă de priveliștea din fața catedralei.",
+                "en": "Enjoy the view from the church square."
+              }
+            },
+            {
+              "name": {
+                "de": "Castell d'Eivissa",
+                "hu": "Ibiza vára",
+                "ro": "Castelul din Ibiza",
+                "en": "Ibiza Castle"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Waffenkammer.",
+                "hu": "Nézze meg a vár fegyvertárát is.",
+                "ro": "Vizitați sala de arme a castelului.",
+                "en": "Visit the castle's armory room."
+              }
+            },
+            {
+              "name": {
+                "de": "Puget-Museum",
+                "hu": "Puget Múzeum",
+                "ro": "Muzeul Puget",
+                "en": "Puget Museum"
+              },
+              "tip_5lang": {
+                "de": "Wunderschönes Herrenhaus aus dem 15. Jahrhundert.",
+                "hu": "Gyönyörű 15. századi nemesi palotában található.",
+                "ro": "O casă nobiliară superbă din secolul XV.",
+                "en": "Located in a beautiful 15th-century mansion."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Sant Domènec",
+                "hu": "Sant Domènec templom",
+                "ro": "Biserica Sant Domènec",
+                "en": "Church of Sant Domènec"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf die Fresken an der Decke.",
+                "hu": "Figyelje meg a mennyezeti freskókat.",
+                "ro": "Observați frescele de pe tavan.",
+                "en": "Pay attention to the ceiling frescoes."
+              }
+            },
+            {
+              "name": {
+                "de": "Nekropole Puig des Molins",
+                "hu": "Puig des Molins nekropolisz",
+                "ro": "Necropola Puig des Molins",
+                "en": "Puig des Molins Necropolis"
+              },
+              "tip_5lang": {
+                "de": "Die größte phönizische Nekropole der Welt.",
+                "hu": "A világ legnagyobb föníciai nekropolisza.",
+                "ro": "Cea mai mare necropolă feniciană din lume.",
+                "en": "The largest Phoenician necropolis in the world."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Flaó",
+                "tip": "Traditioneller Käsekuchen mit Minze im La Brasa."
+              },
+              {
+                "name": "Bullit de Peix",
+                "tip": "Fischtopf im Restaurant El Faro am Hafen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Flaó",
+                "tip": "Hagyományos mentás sajttorta a La Brasa étteremben."
+              },
+              {
+                "name": "Bullit de Peix",
+                "tip": "Helyi halragu az El Faro étteremben a kikötőnél."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Flaó",
+                "tip": "Prăjitură tradițională cu brânză și mentă la La Brasa."
+              },
+              {
+                "name": "Bullit de Peix",
+                "tip": "Tocăniță de pește la El Faro, în zona portului."
+              }
+            ],
+            "en": [
+              {
+                "name": "Flaó",
+                "tip": "Traditional mint cheesecake at La Brasa restaurant."
+              },
+              {
+                "name": "Bullit de Peix",
+                "tip": "Local fish stew at El Faro by the harbor."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Baluarte de Santa Lucía",
+                "tip": "Ruhiger Aussichtspunkt in der Festung.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Kirchplatz der Kathedrale",
+                "tip": "Friedlicher Ort am frühen Morgen.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Baluarte de Santa Lucía",
+                "tip": "Csendes bástya panorámával a tengerre.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Katedrális tere",
+                "tip": "Békés hely a kora reggeli órákban.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Baluarte de Santa Lucía",
+                "tip": "Bastion liniștit cu panoramă spre mare.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Piața Catedralei",
+                "tip": "Un loc liniștit la orele dimineții.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Baluarte de Santa Lucía",
+                "tip": "Quiet bastion with sea views.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Cathedral Square",
+                "tip": "Peaceful spot during early morning hours.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Mercat Vell",
+                "tip": "Historischer Markt für lokale Produkte."
+              },
+              {
+                "name": "Adlib Mode",
+                "tip": "Typisch weiße Ibiza-Kleidung in der Altstadt."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Mercat Vell",
+                "tip": "Történelmi piac helyi termékekkel."
+              },
+              {
+                "name": "Adlib divat",
+                "tip": "Tipikus fehér ibizai ruhák az óvárosban."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Mercat Vell",
+                "tip": "Piață istorică pentru produse locale."
+              },
+              {
+                "name": "Moda Adlib",
+                "tip": "Haine albe tipice Ibizei în orașul vechi."
+              }
+            ],
+            "en": [
+              {
+                "name": "Mercat Vell",
+                "tip": "Historic market for local products."
+              },
+              {
+                "name": "Adlib Fashion",
+                "tip": "Typical white Ibiza clothing in the old town."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Besuchen Sie die Dalt Vila früh, um die Hitze zu vermeiden.",
+              "Die steilen Gassen erfordern festes Schuhwerk.",
+              "Trinken Sie ausreichend Wasser während des Aufstiegs.",
+              "Die Aussicht vom Schloss ist bei Sonnenuntergang am schönsten."
+            ],
+            "hu": [
+              "Látogassa meg a Dalt Vilát korán, hogy elkerülje a hőséget.",
+              "A meredek sikátorokhoz stabil lábbeli szükséges.",
+              "Igyon sok vizet a várba való felkapaszkodás közben.",
+              "A vár kilátása naplementekor a legszebb."
+            ],
+            "ro": [
+              "Vizitați Dalt Vila dimineața devreme pentru a evita căldura.",
+              "Străzile abrupte necesită încălțăminte stabilă.",
+              "Beți multă apă în timpul urcării spre castel.",
+              "Priveliștea de la castel este superbă la apus."
+            ],
+            "en": [
+              "Visit Dalt Vila early to avoid the midday heat.",
+              "The steep alleys require sturdy footwear.",
+              "Drink plenty of water during the climb to the castle.",
+              "The castle view is most beautiful at sunset."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie mit einem Kaffee am Vara de Rey, um dem Morgenregen zu entgehen.\n\nNavigieren Sie mittags vorsichtig über das rutschige Kopfsteinpflaster von Dalt Vila.\n\nVerbringen Sie einen trockenen Nachmittag im Puget-Museum.\n\nBeenden Sie den Tag mit einem stimmungsvollen Spaziergang in der Nekropole.",
+            "hu": "Kezdj egy kávéval a Vara de Rey-en, menedéket keresve a reggeli eső elől.\n\nDélben óvatosan sétálj a Dalt Vila csúszós macskakövein.\n\nTölts egy száraz délutánt a Puget Múzeum kiállításain.\n\nZárd a napot egy hangulatos, esős esti sétával a Nekropolisznál.",
+            "ro": "Începeți cu o cafea la Vara de Rey pentru a scăpa de ploaia matinală.\n\nLa prânz, navigați cu grijă pe pietrele alunecoase din Dalt Vila.\n\nPetreceți o după-amiază uscată explorând Muzeul Puget.\n\nÎncheiați cu o plimbare melancolică de seară pe la Necropolă.",
+            "en": "Start with a coffee at Vara de Rey to escape the morning rain.\n\nCarefully navigate the slippery cobblestones of Dalt Vila at noon.\n\nSpend a dry afternoon exploring the indoor Puget Museum.\n\nConclude with a moody, damp evening walk around the Necropolis."
+          },
+          "stops": [
+            {
+              "name": "Vara de Rey",
+              "tip_5lang": {
+                "de": "Trinken Sie hier einen warmen Kaffee und warten Sie den Schauer ab.",
+                "hu": "Igyál itt egy meleg kávét, amíg eláll a heves reggeli eső.",
+                "ro": "Beți o cafea caldă aici pentru a aștepta trecerea ploii.",
+                "en": "Grab a warm coffee here to wait out any heavy morning showers."
+              }
+            },
+            {
+              "name": "Port of Ibiza",
+              "tip_5lang": {
+                "de": "Halten Sie Ihren Regenschirm fest, am Wasser kann es windig sein.",
+                "hu": "Tartsd erősen az esernyőt, a vízparton szeles lehet az idő.",
+                "ro": "Țineți bine umbrela, poate fi vânt puternic pe malul apei.",
+                "en": "Hold onto your umbrella tightly, it gets windy by the water."
+              }
+            },
+            {
+              "name": "Dalt Vila",
+              "tip_5lang": {
+                "de": "Gehen Sie sehr langsam, das nasse Pflaster ist extrem rutschig.",
+                "hu": "Sétálj nagyon lassan, a nedves macskakő rendkívül csúszós.",
+                "ro": "Pășiți foarte încet, pietrele umede sunt extrem de alunecoase.",
+                "en": "Walk very slowly, the wet cobblestones are extremely slippery."
+              }
+            },
+            {
+              "name": "Cathedral of Santa Maria",
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz in der Kathedrale und bewundern Sie die Details.",
+                "hu": "Keress menedéket a katedrálisban, és csodáld meg a részleteket.",
+                "ro": "Căutați adăpost în catedrală și admirați detaliile interioare.",
+                "en": "Seek shelter inside the cathedral and admire the fine details."
+              }
+            },
+            {
+              "name": "Ibiza Castle",
+              "tip_5lang": {
+                "de": "Vorsicht auf den nassen Steinstufen rund um die Burgmauern.",
+                "hu": "Vigyázz a nedves kőlépcsőkön a várfalak környékén.",
+                "ro": "Atenție pe treptele de piatră umede din jurul zidurilor castelului.",
+                "en": "Be careful on the wet stone steps around the castle walls."
+              }
+            },
+            {
+              "name": "Puget Museum",
+              "tip_5lang": {
+                "de": "Der perfekte Ort im Innenbereich, um bei Regen Kunst zu genießen.",
+                "hu": "Tökéletes beltéri helyszín a művészet élvezetére esőben.",
+                "ro": "Locul perfect la interior pentru a vă bucura de artă pe ploaie.",
+                "en": "The perfect indoor spot to enjoy local art while it rains."
+              }
+            },
+            {
+              "name": "Church of Sant Domènec",
+              "tip_5lang": {
+                "de": "Eine ruhige, trockene Zuflucht vor dem Regen am späten Nachmittag.",
+                "hu": "Csendes, száraz menedék a késő délutáni záporok elől.",
+                "ro": "Un refugiu liniștit și uscat de ploaia de după-amiază târzie.",
+                "en": "A quiet, dry refuge from the late afternoon showers."
+              }
+            },
+            {
+              "name": "Puig des Molins Necropolis",
+              "tip_5lang": {
+                "de": "Erkunden Sie die faszinierenden Ausstellungen im trockenen Museum.",
+                "hu": "Fedezd fel a lenyűgöző kiállításokat a száraz múzeumépületben.",
+                "ro": "Explorați expozițiile fascinante în interiorul muzeului uscat.",
+                "en": "Explore the fascinating indoor exhibits to stay completely dry."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Schuhe mit gutem Profil auf nassem Kopfsteinpflaster.",
+              "Bringen Sie einen kompakten, windfesten Regenschirm mit.",
+              "Museen bieten großartigen und trockenen Schutz.",
+              "Suchen Sie Cafés in Dalt Vila auf, wenn es stark regnet."
+            ],
+            "hu": [
+              "Viselj jól tapadó cipőt a nedves macskaköveken.",
+              "Hozz magaddal egy kompakt, szélálló esernyőt.",
+              "A múzeumok nagyszerű és száraz menedéket nyújtanak.",
+              "Keress kávézókat a Dalt Vila-ban, ha hevesen esik."
+            ],
+            "ro": [
+              "Purtați pantofi cu aderență bună pe pietrele umede.",
+              "Aduceți o umbrelă compactă și rezistentă la vânt.",
+              "Muzeele oferă un adăpost uscat excelent.",
+              "Căutați cafenele în Dalt Vila dacă plouă torențial."
+            ],
+            "en": [
+              "Wear shoes with good grip on the wet cobblestones.",
+              "Bring a compact, wind-resistant umbrella.",
+              "Museums offer great dry shelter during heavy downpours.",
+              "Seek out local cafes in Dalt Vila if it suddenly pours."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie einen friedlichen, frischen Wintermorgen am Vara de Rey.\n\nErklimmen Sie Dalt Vila mittags bequem ohne die sommerliche Hitze.\n\nErkunden Sie nachmittags die ruhigen Museen in Ihrem eigenen Tempo.\n\nErleben Sie den frühen Sonnenuntergang nahe der Nekropole vor dem Abendessen.",
+            "hu": "Élvezd a békés, friss téli reggelt a Vara de Rey téren.\n\nDélben kényelmesen, a nyári hőség nélkül mássz fel a Dalt Vila-ba.\n\nDélután fedezd fel a csendes múzeumokat a saját tempódban.\n\nCsípd el a korai téli naplementét a Nekropolisz közelében egy meghitt vacsora előtt.",
+            "ro": "Bucurați-vă de o dimineață de iarnă liniștită la Vara de Rey.\n\nUrcați în Dalt Vila la prânz, confortabil, fără căldura verii.\n\nExplorați muzeele liniștite în ritmul propriu după-amiaza.\n\nPrindeți apusul devreme lângă Necropolă înainte de o cină caldă.",
+            "en": "Enjoy a peaceful, crisp winter morning at Vara de Rey.\n\nClimb Dalt Vila at noon comfortably without the intense summer heat.\n\nExplore the quiet museums and churches at your own pace in the afternoon.\n\nCatch the early winter sunset near the Necropolis before a cozy dinner."
+          },
+          "stops": [
+            {
+              "name": "Vara de Rey",
+              "tip_5lang": {
+                "de": "Suchen Sie sich einen sonnigen Platz für Ihren Morgenkaffee.",
+                "hu": "Keress egy napos helyet a reggeli kávédhoz ezen a téren.",
+                "ro": "Găsiți un loc însorit pentru a savura cafeaua de dimineață.",
+                "en": "Find a sunny spot in the square for your morning coffee."
+              }
+            },
+            {
+              "name": "Port of Ibiza",
+              "tip_5lang": {
+                "de": "Ziehen Sie sich warm an, die Meeresbrise ist im Winter frisch.",
+                "hu": "Öltözz melegen, a tengeri szél frissítő lehet télen.",
+                "ro": "Îmbrăcați-vă călduros, briza mării este rece iarna.",
+                "en": "Bundle up a bit, the sea breeze is brisk during the winter."
+              }
+            },
+            {
+              "name": "Dalt Vila",
+              "tip_5lang": {
+                "de": "Der Aufstieg ist im Winter ohne die Hitze viel angenehmer.",
+                "hu": "A feljutás télen, a nagy hőség nélkül sokkal kellemesebb.",
+                "ro": "Urcușul este mult mai plăcut iarna, fără căldura extremă.",
+                "en": "The climb is much more pleasant in winter without the heat."
+              }
+            },
+            {
+              "name": "Cathedral of Santa Maria",
+              "tip_5lang": {
+                "de": "Im Inneren kann es kühl sein, behalten Sie Ihre Jacke an.",
+                "hu": "Bent hűvös lehet, érdemes magadon hagyni a kabátot.",
+                "ro": "Poate fi răcoare înăuntru, păstrați jacheta pe dumneavoastră.",
+                "en": "It can be chilly inside, so keep your jacket on."
+              }
+            },
+            {
+              "name": "Ibiza Castle",
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Wintersicht über die ganze Insel.",
+                "hu": "Élvezd a tiszta téli kilátást az egész szigetre a falakról.",
+                "ro": "Bucurați-vă de priveliștile clare de iarnă asupra insulei.",
+                "en": "Enjoy the crystal clear winter views across the entire island."
+              }
+            },
+            {
+              "name": "Puget Museum",
+              "tip_5lang": {
+                "de": "Freuen Sie sich über die leeren Säle ohne Touristenmassen.",
+                "hu": "Örülj a szinte üres termeknek a turistatömegek nélkül.",
+                "ro": "Bucurați-vă de sălile goale, fără aglomerația de turiști.",
+                "en": "Appreciate the empty halls without the summer tourist crowds."
+              }
+            },
+            {
+              "name": "Church of Sant Domènec",
+              "tip_5lang": {
+                "de": "Ein ruhiger Moment der Besinnung in der Winterstille.",
+                "hu": "Egy csendes pillanat a téli nyugalom közepette.",
+                "ro": "Un moment liniștit de reflecție în liniștea iernii.",
+                "en": "A quiet moment of reflection in the peaceful winter stillness."
+              }
+            },
+            {
+              "name": "Puig des Molins Necropolis",
+              "tip_5lang": {
+                "de": "Beachten Sie die winterlichen Schließzeiten am Nachmittag.",
+                "hu": "Figyelj a koraibb téli zárvatartási időkre délután.",
+                "ro": "Fiți atenți la orele de închidere mai devreme pe timp de iarnă.",
+                "en": "Be mindful of the earlier winter closing times in the afternoon."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie warme Schichten für die frische Brise.",
+              "Nutzen Sie die leeren Straßen für tolle Fotos.",
+              "Prüfen Sie die Winteröffnungszeiten der Museen.",
+              "Sonnenuntergang ist gegen 17:30 Uhr, planen Sie entsprechend."
+            ],
+            "hu": [
+              "Öltözz meleg rétegekbe a friss szél miatt.",
+              "Használd ki a tömegmentes utcákat a fotózáshoz.",
+              "Ellenőrizd a múzeumok téli nyitvatartását.",
+              "A naplemente 17:30 körül van, tervezz ezzel."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi calde pentru briza rece.",
+              "Profitați de străzile fără aglomerație pentru fotografii.",
+              "Verificați orele de deschidere de iarnă ale muzeelor.",
+              "Apusul este în jur de 17:30, planificați în consecință."
+            ],
+            "en": [
+              "Dress in warm layers for the crisp sea breeze.",
+              "Take advantage of crowd-free photography.",
+              "Check winter opening hours for museums in advance.",
+              "Sunset is around 17:30, plan your evening accordingly."
+            ]
+          }
+        }
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Vara de Rey",
+            "hu": "Vara de Rey",
+            "ro": "Vara de Rey",
+            "en": "Vara de Rey"
+          },
+          "coords": [
+            38.9092,
+            1.4328
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Startpunkt für Radtouren.",
+            "hu": "Kerékpáros túrák kiindulópontja.",
+            "ro": "Punct de plecare pentru tururi cu bicicleta.",
+            "en": "Starting point for bike tours."
+          }
+        },
+        {
+          "name": {
+            "de": "Marina Botafoch",
+            "hu": "Marina Botafoch",
+            "ro": "Marina Botafoch",
+            "en": "Marina Botafoch"
+          },
+          "coords": [
+            38.9155,
+            1.4425
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:55",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Schöner Radweg entlang des Hafens.",
+            "hu": "Szép kerékpárút a kikötő mentén.",
+            "ro": "Pistă de biciclete frumoasă de-a lungul portului.",
+            "en": "Nice bike path along the harbor."
+          }
+        },
+        {
+          "name": {
+            "de": "Talamanca Strand",
+            "hu": "Talamanca strand",
+            "ro": "Plaja Talamanca",
+            "en": "Talamanca Beach"
+          },
+          "coords": [
+            38.9185,
+            1.4515
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:00",
+          "stay_min": 180,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Perfekt für eine Badepause.",
+            "hu": "Tökéletes hely egy fürdőzésre.",
+            "ro": "Perfect pentru o pauză de baie.",
+            "en": "Perfect for a swimming break."
+          }
+        },
+        {
+          "name": {
+            "de": "Nekropole Puig des Molins",
+            "hu": "Puig des Molins nekropolisz",
+            "ro": "Necropola Puig des Molins",
+            "en": "Puig des Molins Necropolis"
+          },
+          "coords": [
+            38.9075,
+            1.4285
+          ],
+          "category": "museums",
+          "arrive_at": "14:25",
+          "stay_min": 100,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Fahrradparkplätze vorhanden.",
+            "hu": "Kerékpártárolók a bejáratnál.",
+            "ro": "Parcare pentru biciclete disponibilă.",
+            "en": "Bike parking available at the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen von Eivissa",
+            "hu": "Ibiza kikötő",
+            "ro": "Portul Eivissa",
+            "en": "Port of Ibiza"
+          },
+          "coords": [
+            38.9105,
+            1.4365
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Fahrt entlang der Flaniermeile.",
+            "hu": "Tekerjen végig a sétányon.",
+            "ro": "Plimbare cu bicicleta pe faleză.",
+            "en": "Ride along the promenade."
+          }
+        },
+        {
+          "name": {
+            "de": "Dalt Vila Eingang",
+            "hu": "Dalt Vila bejárat",
+            "ro": "Intrare Dalt Vila",
+            "en": "Dalt Vila Entrance"
+          },
+          "coords": [
+            38.9085,
+            1.4352
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "17:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Schieben Sie das Rad durch das Tor.",
+            "hu": "Tolja be a biciklit a kapun.",
+            "ro": "Împingeți bicicleta prin poarta cetății.",
+            "en": "Push your bike through the main gate."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Ibiza-Stadt und seine Umgebung mit dem Fahrrad. Starten Sie im Zentrum und radeln Sie zur luxuriösen Marina Botafoch. Genießen Sie den Vormittag am flachen Sandstrand von Talamanca. Nach einer entspannten Badepause fahren Sie zurück zur Nekropole Puig des Molins. Beenden Sie den Tag mit einer Fahrt am Hafen und einem kurzen Abstecher zum majestätischen Eingang der Altstadt Dalt Vila.",
+        "hu": "Fedezze fel Ibiza várost és környékét két keréken. Kezdjen a központban, majd tekerjen el a fényűző Marina Botafoch kikötőbe. Töltse a délelőttöt a Talamanca strand sekély vizénél. Egy frissítő fürdőzés után látogasson el a Puig des Molins nekropoliszhoz. A napot a kikötői sétányon való tekeréssel és az óváros lenyűgöző kapujának megtekintésével zárja.",
+        "ro": "Explorați orașul Ibiza și împrejurimile sale pe bicicletă. Începeți în centru și pedalați spre luxoasa Marina Botafoch. Bucurați-vă de dimineață pe plaja Talamanca. După o pauză relaxantă de baie, pedalați spre necropola Puig des Molins. Încheiați ziua cu o tură prin port și o scurtă oprire la intrarea maiestuoasă în orașul vechi Dalt Vila.",
+        "en": "Explore Ibiza Town and its surroundings by bike. Start in the center and cycle to the luxurious Marina Botafoch. Enjoy the morning at the sandy Talamanca Beach. After a relaxing swimming break, ride back to the Puig des Molins necropolis. Finish the day with a ride along the harbor and a short stop at the majestic entrance of the Dalt Vila old town."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Arroz de Matanzas",
+            "tip": "Herzhaftes Reisgericht im Es Virgili."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Arroz de Matanzas",
+            "tip": "Kiadós rizses húsétel az Es Virgili-ben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Arroz de Matanzas",
+            "tip": "Mâncare consistentă cu orez la Es Virgili."
+          }
+        ],
+        "en": [
+          {
+            "name": "Arroz de Matanzas",
+            "tip": "Hearty rice dish at Es Virgili restaurant."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Talamanca Promenade",
+            "tip": "Ruhiger Weg am Morgen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Talamanca sétány",
+            "tip": "Csendes útvonal reggelente.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Faleza Talamanca",
+            "tip": "Traseu liniștit dimineața.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Talamanca Promenade",
+            "tip": "Quiet path in the morning.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradverleih Shops",
+            "tip": "Kaufen Sie lokales Zubehör."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárboltok",
+            "tip": "Vásároljon helyi kiegészítőket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine moto/velo",
+            "tip": "Cumpărați accesorii locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Rental Shops",
+            "tip": "Buy local cycling accessories."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die Radwege am Hafen.",
+          "In Dalt Vila ist Radfahren eingeschränkt.",
+          "Achten Sie auf Fußgänger in Vara de Rey.",
+          "Sperren Sie Ihr Rad immer gut ab."
+        ],
+        "hu": [
+          "Használja a kikötői kerékpárutakat.",
+          "A Dalt Vila belső részén korlátozott a biciklizés.",
+          "Figyeljen a gyalogosokra a Vara de Rey-en.",
+          "Mindig zárja le biztonságosan a kerékpárt."
+        ],
+        "ro": [
+          "Folosiți pistele de biciclete din port.",
+          "Ciclismul este restricționat în interiorul Dalt Vila.",
+          "Atenție la pietoni în zona Vara de Rey.",
+          "Blocați întotdeauna bicicleta cu un sistem antifurt."
+        ],
+        "en": [
+          "Use the bike paths near the harbor.",
+          "Cycling is restricted inside Dalt Vila.",
+          "Watch out for pedestrians on Vara de Rey.",
+          "Always lock your bike securely."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie Ibiza-Stadt und seine Umgebung mit dem Fahrrad. Starten Sie im Zentrum und radeln Sie zur luxuriösen Marina Botafoch. Genießen Sie den Vormittag am flachen Sandstrand von Talamanca. Nach einer entspannten Badepause fahren Sie zurück zur Nekropole Puig des Molins. Beenden Sie den Tag mit einer Fahrt am Hafen und einem kurzen Abstecher zum majestätischen Eingang der Altstadt Dalt Vila.",
+            "hu": "Fedezze fel Ibiza várost és környékét két keréken. Kezdjen a központban, majd tekerjen el a fényűző Marina Botafoch kikötőbe. Töltse a délelőttöt a Talamanca strand sekély vizénél. Egy frissítő fürdőzés után látogasson el a Puig des Molins nekropoliszhoz. A napot a kikötői sétányon való tekeréssel és az óváros lenyűgöző kapujának megtekintésével zárja.",
+            "ro": "Explorați orașul Ibiza și împrejurimile sale pe bicicletă. Începeți în centru și pedalați spre luxoasa Marina Botafoch. Bucurați-vă de dimineață pe plaja Talamanca. După o pauză relaxantă de baie, pedalați spre necropola Puig des Molins. Încheiați ziua cu o tură prin port și o scurtă oprire la intrarea maiestuoasă în orașul vechi Dalt Vila.",
+            "en": "Explore Ibiza Town and its surroundings by bike. Start in the center and cycle to the luxurious Marina Botafoch. Enjoy the morning at the sandy Talamanca Beach. After a relaxing swimming break, ride back to the Puig des Molins necropolis. Finish the day with a ride along the harbor and a short stop at the majestic entrance of the Dalt Vila old town."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Vara de Rey",
+                "hu": "Vara de Rey",
+                "ro": "Vara de Rey",
+                "en": "Vara de Rey"
+              },
+              "tip_5lang": {
+                "de": "Startpunkt für Radtouren.",
+                "hu": "Kerékpáros túrák kiindulópontja.",
+                "ro": "Punct de plecare pentru tururi cu bicicleta.",
+                "en": "Starting point for bike tours."
+              }
+            },
+            {
+              "name": {
+                "de": "Marina Botafoch",
+                "hu": "Marina Botafoch",
+                "ro": "Marina Botafoch",
+                "en": "Marina Botafoch"
+              },
+              "tip_5lang": {
+                "de": "Schöner Radweg entlang des Hafens.",
+                "hu": "Szép kerékpárút a kikötő mentén.",
+                "ro": "Pistă de biciclete frumoasă de-a lungul portului.",
+                "en": "Nice bike path along the harbor."
+              }
+            },
+            {
+              "name": {
+                "de": "Talamanca Strand",
+                "hu": "Talamanca strand",
+                "ro": "Plaja Talamanca",
+                "en": "Talamanca Beach"
+              },
+              "tip_5lang": {
+                "de": "Perfekt für eine Badepause.",
+                "hu": "Tökéletes hely egy fürdőzésre.",
+                "ro": "Perfect pentru o pauză de baie.",
+                "en": "Perfect for a swimming break."
+              }
+            },
+            {
+              "name": {
+                "de": "Nekropole Puig des Molins",
+                "hu": "Puig des Molins nekropolisz",
+                "ro": "Necropola Puig des Molins",
+                "en": "Puig des Molins Necropolis"
+              },
+              "tip_5lang": {
+                "de": "Fahrradparkplätze vorhanden.",
+                "hu": "Kerékpártárolók a bejáratnál.",
+                "ro": "Parcare pentru biciclete disponibilă.",
+                "en": "Bike parking available at the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Hafen von Eivissa",
+                "hu": "Ibiza kikötő",
+                "ro": "Portul Eivissa",
+                "en": "Port of Ibiza"
+              },
+              "tip_5lang": {
+                "de": "Fahrt entlang der Flaniermeile.",
+                "hu": "Tekerjen végig a sétányon.",
+                "ro": "Plimbare cu bicicleta pe faleză.",
+                "en": "Ride along the promenade."
+              }
+            },
+            {
+              "name": {
+                "de": "Dalt Vila Eingang",
+                "hu": "Dalt Vila bejárat",
+                "ro": "Intrare Dalt Vila",
+                "en": "Dalt Vila Entrance"
+              },
+              "tip_5lang": {
+                "de": "Schieben Sie das Rad durch das Tor.",
+                "hu": "Tolja be a biciklit a kapun.",
+                "ro": "Împingeți bicicleta prin poarta cetății.",
+                "en": "Push your bike through the main gate."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Arroz de Matanzas",
+                "tip": "Herzhaftes Reisgericht im Es Virgili."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Arroz de Matanzas",
+                "tip": "Kiadós rizses húsétel az Es Virgili-ben."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Arroz de Matanzas",
+                "tip": "Mâncare consistentă cu orez la Es Virgili."
+              }
+            ],
+            "en": [
+              {
+                "name": "Arroz de Matanzas",
+                "tip": "Hearty rice dish at Es Virgili restaurant."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Talamanca Promenade",
+                "tip": "Ruhiger Weg am Morgen.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Talamanca sétány",
+                "tip": "Csendes útvonal reggelente.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Faleza Talamanca",
+                "tip": "Traseu liniștit dimineața.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Talamanca Promenade",
+                "tip": "Quiet path in the morning.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Fahrradverleih Shops",
+                "tip": "Kaufen Sie lokales Zubehör."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Kerékpárboltok",
+                "tip": "Vásároljon helyi kiegészítőket."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Magazine moto/velo",
+                "tip": "Cumpărați accesorii locale."
+              }
+            ],
+            "en": [
+              {
+                "name": "Bike Rental Shops",
+                "tip": "Buy local cycling accessories."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Nutzen Sie die Radwege am Hafen.",
+              "In Dalt Vila ist Radfahren eingeschränkt.",
+              "Achten Sie auf Fußgänger in Vara de Rey.",
+              "Sperren Sie Ihr Rad immer gut ab."
+            ],
+            "hu": [
+              "Használja a kikötői kerékpárutakat.",
+              "A Dalt Vila belső részén korlátozott a biciklizés.",
+              "Figyeljen a gyalogosokra a Vara de Rey-en.",
+              "Mindig zárja le biztonságosan a kerékpárt."
+            ],
+            "ro": [
+              "Folosiți pistele de biciclete din port.",
+              "Ciclismul este restricționat în interiorul Dalt Vila.",
+              "Atenție la pietoni în zona Vara de Rey.",
+              "Blocați întotdeauna bicicleta cu un sistem antifurt."
+            ],
+            "en": [
+              "Use the bike paths near the harbor.",
+              "Cycling is restricted inside Dalt Vila.",
+              "Watch out for pedestrians on Vara de Rey.",
+              "Always lock your bike securely."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihre nasse Fahrt am Morgen vorsichtig am Vara de Rey.\n\nVermeiden Sie mittags tiefe Pfützen auf dem Weg zum Talamanca-Strand.\n\nMachen Sie nachmittags eine regenfreie Pause in der Nekropole.\n\nSchieben Sie Ihr Fahrrad abends am rutschigen Eingang von Dalt Vila.",
+            "hu": "Kezdj óvatosan a nedves úton a Vara de Rey-nél reggel.\n\nKerüld el a mély tócsákat, miközben délben a Talamanca part felé tekersz.\n\nDélután tarts egy száraz szünetet a Nekropolisz falai között.\n\nEste szállj le és told a biciklit a Dalt Vila csúszós bejáratánál.",
+            "ro": "Începeți plimbarea umedă cu prudență la Vara de Rey dimineața.\n\nEvitați bălțile adânci la prânz în drum spre plaja Talamanca.\n\nFaceți o pauză de la ploaie în interiorul Necropolei după-amiaza.\n\nDescălecați și împingeți bicicleta la Dalt Vila în seara alunecoasă.",
+            "en": "Begin your wet ride cautiously at Vara de Rey in the morning.\n\nAvoid deep puddles on your midday cycle towards Talamanca Beach.\n\nTake a break from the rain inside the Necropolis during the afternoon.\n\nDismount and walk your bike at Dalt Vila in the slippery evening."
+          },
+          "stops": [
+            {
+              "name": "Vara de Rey",
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen, bevor Sie auf nasser Straße losfahren.",
+                "hu": "Ellenőrizd a fékeket, mielőtt elindulsz a nedves úton.",
+                "ro": "Verificați frânele înainte de a porni pe drumul umed.",
+                "en": "Check your brakes before setting off on the wet roads."
+              }
+            },
+            {
+              "name": "Marina Botafoch",
+              "tip_5lang": {
+                "de": "Der Hafenweg kann bei Regen rutschig werden, fahren Sie langsam.",
+                "hu": "A kikötői út csúszós lehet esőben, tekerj lassan.",
+                "ro": "Aleea portului poate fi alunecoasă pe ploaie, mergeți încet.",
+                "en": "The marina path can get slick in the rain, cycle slowly."
+              }
+            },
+            {
+              "name": "Talamanca Beach",
+              "tip_5lang": {
+                "de": "Vermeiden Sie schlammige Sandwege nahe dem Strand bei Nässe.",
+                "hu": "Kerüld a saras, homokos ösvényeket a part közelében esőben.",
+                "ro": "Evitați potecile nisipoase și noroioase de lângă plajă.",
+                "en": "Avoid the muddy sandy paths near the beach when it's wet."
+              }
+            },
+            {
+              "name": "Puig des Molins Necropolis",
+              "tip_5lang": {
+                "de": "Ein toller Ort, um sich drinnen aufzuwärmen und abzutrocknen.",
+                "hu": "Remek hely arra, hogy bent felmelegedj és megszáradj.",
+                "ro": "Un loc excelent pentru a vă încălzi și a vă usca înăuntru.",
+                "en": "A great spot to head indoors, warm up, and dry off."
+              }
+            },
+            {
+              "name": "Port of Ibiza",
+              "tip_5lang": {
+                "de": "Achten Sie auf Pfützen und Hafenverkehr bei schlechter Sicht.",
+                "hu": "Vigyázz a tócsákra és a forgalomra a rossz látási viszonyoknál.",
+                "ro": "Atenție la bălți și traficul din port vizibilitatea fiind redusă.",
+                "en": "Watch for puddles and port traffic during low visibility."
+              }
+            },
+            {
+              "name": "Dalt Vila Entrance",
+              "tip_5lang": {
+                "de": "Steigen Sie ab. Nasses Pflaster ist zu gefährlich zum Fahren.",
+                "hu": "Szállj le a bicikliről. A nedves macskakő túl veszélyes.",
+                "ro": "Descălecați. Pietrele umede sunt prea periculoase pentru ciclism.",
+                "en": "Dismount here. Wet cobblestones are too dangerous to ride on."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine wasserdichte Fahrradjacke und -hose.",
+              "Bremsen Sie auf nassen, rutschigen Straßen viel früher.",
+              "Vermeiden Sie das Fahren auf dem Kopfsteinpflaster von Dalt Vila.",
+              "Bringen Sie eine Plastiktüte für Ihr Handy mit."
+            ],
+            "hu": [
+              "Viselj vízálló kerékpáros kabátot és nadrágot.",
+              "Fékezz sokkal korábban a nedves, csúszós utakon.",
+              "Kerüld a kerékpározást a Dalt Vila macskakövein.",
+              "Vigyél egy műanyag zacskót a telefonod védelmére."
+            ],
+            "ro": [
+              "Purtați o jachetă și pantaloni impermeabili pentru ciclism.",
+              "Frânați mult mai devreme pe drumurile umede și alunecoase.",
+              "Evitați ciclismul pe pietrele cubice din Dalt Vila.",
+              "Aduceți o pungă de plastic pentru telefon sau hartă."
+            ],
+            "en": [
+              "Wear a waterproof cycling jacket and pants.",
+              "Brake much earlier on wet, slick roads.",
+              "Avoid riding on the slippery cobblestones of Dalt Vila.",
+              "Bring a plastic bag to keep your phone or map dry."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihre Winterradtour am Vara de Rey, während die Stadt erwacht.\n\nGenießen Sie mittags den fast menschenleeren Talamanca-Strand.\n\nFahren Sie nachmittags ohne starkes Schwitzen zur Nekropole hinauf.\n\nBeenden Sie die Tour an Dalt Vila im goldenen Licht des Winterabends.",
+            "hu": "Kezdj egy frissítő téli tekeréssel a Vara de Rey-nél, ahogy a város ébred.\n\nDélben élvezd, hogy a Talamanca part szinte teljesen a tiéd.\n\nDélután tekerj fel a Nekropoliszhoz anélkül, hogy túlságosan megizzadnál.\n\nZárd a napot a Dalt Vila-nál, amikor a téli aranyóra megvilágítja a falakat.",
+            "ro": "Începeți ciclismul de iarnă la Vara de Rey pe măsură ce orașul se trezește.\n\nBucurați-vă de plaja Talamanca aproape goală la prânz.\n\nUrcați la Necropolă după-amiaza fără să transpirați prea mult.\n\nTerminați la Dalt Vila fix când ora de aur de iarnă luminează zidurile.",
+            "en": "Start your brisk winter cycle at Vara de Rey as the city wakes up.\n\nEnjoy having the beautiful Talamanca Beach mostly to yourself at noon.\n\nRide up to the Necropolis in the afternoon without breaking a heavy sweat.\n\nFinish at Dalt Vila just as the winter golden hour illuminates the walls."
+          },
+          "stops": [
+            {
+              "name": "Vara de Rey",
+              "tip_5lang": {
+                "de": "Tragen Sie Handschuhe, der winterliche Morgenwind ist frisch.",
+                "hu": "Viselj kesztyűt, a téli reggeli szél csípős lehet tekerés közben.",
+                "ro": "Purtați mănuși, vântul de dimineață iarna este destul de rece.",
+                "en": "Wear gloves, the crisp winter morning wind can chill your hands."
+              }
+            },
+            {
+              "name": "Marina Botafoch",
+              "tip_5lang": {
+                "de": "Erfreuen Sie sich am ruhigen Hafenverkehr in den Wintermonaten.",
+                "hu": "Élvezd a nyugodt kikötői forgalmat a csendes téli hónapokban.",
+                "ro": "Bucurați-vă de traficul calm din port în lunile liniștite de iarnă.",
+                "en": "Enjoy the calm and quiet marina traffic during the winter months."
+              }
+            },
+            {
+              "name": "Talamanca Beach",
+              "tip_5lang": {
+                "de": "Perfekt für eine Pause: Der Strand ist jetzt völlig menschenleer.",
+                "hu": "Tökéletes pihenő: a part ilyenkor teljesen embermentes.",
+                "ro": "Perfect pentru o pauză: plaja este complet lipsită de aglomerație.",
+                "en": "Perfect for a break: the beach is completely free of crowds now."
+              }
+            },
+            {
+              "name": "Puig des Molins Necropolis",
+              "tip_5lang": {
+                "de": "Der Anstieg hierher ist im Winter angenehm und nicht anstrengend.",
+                "hu": "Az ide vezető emelkedő télen kifejezetten kellemes és nem fárasztó.",
+                "ro": "Urcușul până aici este plăcut iarna, fără căldura obositoare.",
+                "en": "The climb up here is pleasant and sweat-free in the winter."
+              }
+            },
+            {
+              "name": "Port of Ibiza",
+              "tip_5lang": {
+                "de": "Wunderschönes Licht am späten Nachmittag für tolle Hafenbilder.",
+                "hu": "Gyönyörű késő délutáni fények a remek kikötői fotókhoz.",
+                "ro": "Lumină superbă după-amiaza târziu pentru fotografii în port.",
+                "en": "Beautiful late afternoon light makes for great harbor photos."
+              }
+            },
+            {
+              "name": "Dalt Vila Entrance",
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Fahrrad, bevor es um 17:30 Uhr dunkel wird.",
+                "hu": "Parkold le a biciklit biztonságban, mielőtt 17:30-kor besötétedik.",
+                "ro": "Parcați bicicleta în siguranță înainte să se întunece la 17:30.",
+                "en": "Park your bike safely before it gets completely dark around 17:30."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie warme Handschuhe gegen den kalten Wind.",
+              "Der Winter ist perfekt für schweißfreies Radfahren.",
+              "Achten Sie auf frühe Sonnenuntergänge ohne Licht.",
+              "Genießen Sie die fast völlig leeren Strandwege."
+            ],
+            "hu": [
+              "Viselj meleg kesztyűt a hűvös szél ellen.",
+              "A tél tökéletes az izzadásmentes kerékpározáshoz.",
+              "Figyelj a korai sötétedésre, használj lámpát.",
+              "Élvezd a teljesen üres parti ösvényeket."
+            ],
+            "ro": [
+              "Purtați mănuși calde pentru a bloca vântul rece.",
+              "Iarna este perfectă pentru ciclism fără transpirație.",
+              "Atenție la apusurile timpurii dacă nu aveți lumini.",
+              "Bucurați-vă de potecile de plajă complet goale."
+            ],
+            "en": [
+              "Wear warm gloves to block the chilly riding wind.",
+              "Winter is perfect for comfortable, sweat-free cycling.",
+              "Watch out for earlier sunsets if your bike lacks lights.",
+              "Enjoy riding along the completely empty beach paths."
+            ]
+          }
+        }
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "18:30",
+      "total_km": 25.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Dalt Vila",
+            "hu": "Dalt Vila",
+            "ro": "Dalt Vila",
+            "en": "Dalt Vila"
+          },
+          "coords": [
+            38.9069,
+            1.4361
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Parken Sie im Parkhaus Es Pratet.",
+            "hu": "Parkoljon az Es Pratet mélygarázsban.",
+            "ro": "Parcați în parcarea Es Pratet.",
+            "en": "Park at the Es Pratet parking garage."
+          }
+        },
+        {
+          "name": {
+            "de": "Marina Botafoch",
+            "hu": "Marina Botafoch",
+            "ro": "Marina Botafoch",
+            "en": "Marina Botafoch"
+          },
+          "coords": [
+            38.9155,
+            1.4425
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Ideal für ein Mittagessen am Wasser.",
+            "hu": "Ideális egy vízparti ebédhez.",
+            "ro": "Ideal pentru un prânz pe malul apei.",
+            "en": "Ideal for a lunch by the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Ses Salines Naturpark",
+            "hu": "Ses Salines natúrpark",
+            "ro": "Parcul Natural Ses Salines",
+            "en": "Ses Salines Natural Park"
+          },
+          "coords": [
+            38.8415,
+            1.3915
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:00",
+          "stay_min": 180,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 10.0,
+          "tip_5lang": {
+            "de": "Wunderschöne Salzseen und Strände.",
+            "hu": "Gyönyörű sóstavak és strandok.",
+            "ro": "Lacuri sărate și plaje superbe.",
+            "en": "Beautiful salt lakes and beaches."
+          }
+        },
+        {
+          "name": {
+            "de": "Nekropole Puig des Molins",
+            "hu": "Puig des Molins nekropolisz",
+            "ro": "Necropola Puig des Molins",
+            "en": "Puig des Molins Necropolis"
+          },
+          "coords": [
+            38.9075,
+            1.4285
+          ],
+          "category": "museums",
+          "arrive_at": "16:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 9.0,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg vom Parkplatz.",
+            "hu": "Rövid séta a parkolótól.",
+            "ro": "Scurtă plimbare de la parcare.",
+            "en": "Short walk from the parking area."
+          }
+        },
+        {
+          "name": {
+            "de": "Vara de Rey",
+            "hu": "Vara de Rey",
+            "ro": "Vara de Rey",
+            "en": "Vara de Rey"
+          },
+          "coords": [
+            38.9092,
+            1.4328
+          ],
+          "category": "squares",
+          "arrive_at": "18:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Abschluss im Herzen der Stadt.",
+            "hu": "A nap zárása a város szívében.",
+            "ro": "Încheiere în inima orașului.",
+            "en": "Ending in the heart of the city."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto verbinden Sie das historische Ibiza-Stadt mit den Naturwundern im Süden. Erkunden Sie zuerst die Dalt Vila und den Hafen. Danach fahren Sie zum Naturpark Ses Salines, um die berühmten Salzbecken und den kristallklaren Strand zu genießen. Kehren Sie am Nachmittag für die Nekropole Puig des Molins in die Stadt zurück und lassen Sie den Tag auf der Vara de Rey ausklingen.",
+        "hu": "Autóval könnyen összekötheti Ibiza városát a déli rész természeti csodáival. Kezdje a Dalt Vila felfedezésével, majd autózzon el a Ses Salines natúrparkba. Csodálja meg a sólepárlókat és élvezze a kristálytiszta vizű strandot. Délután térjen vissza a városba a Puig des Molins nekropolisz kedvéért, a napot pedig a Vara de Rey korzón fejezze be.",
+        "ro": "Cu mașina puteți combina vizitarea orașului istoric cu minunile naturale din sud. Explorați mai întâi Dalt Vila, apoi conduceți spre Parcul Natural Ses Salines pentru a vedea celebrele lacuri sărate și plaja cu apă cristalină. Reveniți în oraș după-amiaza pentru necropola Puig des Molins și încheiați ziua pe bulevardul Vara de Rey.",
+        "en": "By car, you can easily combine historic Ibiza Town with the natural wonders of the south. Explore Dalt Vila first, then drive to the Ses Salines Natural Park to see the famous salt pans and enjoy the pristine beach. Return to the city in the afternoon for the Puig des Molins necropolis and finish your day at the Vara de Rey promenade."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Sofrit Pagès",
+            "tip": "Traditionelles Fleischgericht im Ca n'Alfredo."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sofrit Pagès",
+            "tip": "Hagyományos húsétel a Ca n'Alfredo étteremben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sofrit Pagès",
+            "tip": "Mâncare tradițională cu carne la Ca n'Alfredo."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sofrit Pagès",
+            "tip": "Traditional meat dish at Ca n'Alfredo."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ses Salines Salzbecken",
+            "tip": "Friedliche Naturlandschaft.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ses Salines sólepárlók",
+            "tip": "Békés természeti táj.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Salinele din Ses Salines",
+            "tip": "Peisaj natural liniștit.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Ses Salines Salt Pans",
+            "tip": "Peaceful natural landscape.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Sal de Ibiza Shop",
+            "tip": "Kaufen Sie das berühmte Meersalz."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sal de Ibiza bolt",
+            "tip": "Vásárolja meg a híres tengeri sót."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin Sal de Ibiza",
+            "tip": "Cumpărați faimoasa sare de mare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sal de Ibiza Shop",
+            "tip": "Buy the famous sea salt souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken in der Innenstadt ist schwierig.",
+          "Nutzen Sie offizielle Parkplätze.",
+          "Vermeiden Sie die Rushhour am Nachmittag.",
+          "Achten Sie auf Einbahnstraßen in der Nähe des Hafens."
+        ],
+        "hu": [
+          "A belvárosi parkolás nehézkes lehet.",
+          "Használja a kijelölt parkolókat.",
+          "Kerülje a délutáni csúcsforgalmat.",
+          "Figyeljen az egyirányú utcákra a kikötő közelében."
+        ],
+        "ro": [
+          "Parcarea în centru poate fi dificilă.",
+          "Folosiți parcările oficiale.",
+          "Evitați orele de vârf de după-amiază.",
+          "Atenție la străzile cu sens unic din zona portului."
+        ],
+        "en": [
+          "Parking in the city center can be difficult.",
+          "Use official parking lots.",
+          "Avoid afternoon rush hour.",
+          "Watch out for one-way streets near the harbor."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto verbinden Sie das historische Ibiza-Stadt mit den Naturwundern im Süden. Erkunden Sie zuerst die Dalt Vila und den Hafen. Danach fahren Sie zum Naturpark Ses Salines, um die berühmten Salzbecken und den kristallklaren Strand zu genießen. Kehren Sie am Nachmittag für die Nekropole Puig des Molins in die Stadt zurück und lassen Sie den Tag auf der Vara de Rey ausklingen.",
+            "hu": "Autóval könnyen összekötheti Ibiza városát a déli rész természeti csodáival. Kezdje a Dalt Vila felfedezésével, majd autózzon el a Ses Salines natúrparkba. Csodálja meg a sólepárlókat és élvezze a kristálytiszta vizű strandot. Délután térjen vissza a városba a Puig des Molins nekropolisz kedvéért, a napot pedig a Vara de Rey korzón fejezze be.",
+            "ro": "Cu mașina puteți combina vizitarea orașului istoric cu minunile naturale din sud. Explorați mai întâi Dalt Vila, apoi conduceți spre Parcul Natural Ses Salines pentru a vedea celebrele lacuri sărate și plaja cu apă cristalină. Reveniți în oraș după-amiaza pentru necropola Puig des Molins și încheiați ziua pe bulevardul Vara de Rey.",
+            "en": "By car, you can easily combine historic Ibiza Town with the natural wonders of the south. Explore Dalt Vila first, then drive to the Ses Salines Natural Park to see the famous salt pans and enjoy the pristine beach. Return to the city in the afternoon for the Puig des Molins necropolis and finish your day at the Vara de Rey promenade."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Dalt Vila",
+                "hu": "Dalt Vila",
+                "ro": "Dalt Vila",
+                "en": "Dalt Vila"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie im Parkhaus Es Pratet.",
+                "hu": "Parkoljon az Es Pratet mélygarázsban.",
+                "ro": "Parcați în parcarea Es Pratet.",
+                "en": "Park at the Es Pratet parking garage."
+              }
+            },
+            {
+              "name": {
+                "de": "Marina Botafoch",
+                "hu": "Marina Botafoch",
+                "ro": "Marina Botafoch",
+                "en": "Marina Botafoch"
+              },
+              "tip_5lang": {
+                "de": "Ideal für ein Mittagessen am Wasser.",
+                "hu": "Ideális egy vízparti ebédhez.",
+                "ro": "Ideal pentru un prânz pe malul apei.",
+                "en": "Ideal for a lunch by the water."
+              }
+            },
+            {
+              "name": {
+                "de": "Ses Salines Naturpark",
+                "hu": "Ses Salines natúrpark",
+                "ro": "Parcul Natural Ses Salines",
+                "en": "Ses Salines Natural Park"
+              },
+              "tip_5lang": {
+                "de": "Wunderschöne Salzseen und Strände.",
+                "hu": "Gyönyörű sóstavak és strandok.",
+                "ro": "Lacuri sărate și plaje superbe.",
+                "en": "Beautiful salt lakes and beaches."
+              }
+            },
+            {
+              "name": {
+                "de": "Nekropole Puig des Molins",
+                "hu": "Puig des Molins nekropolisz",
+                "ro": "Necropola Puig des Molins",
+                "en": "Puig des Molins Necropolis"
+              },
+              "tip_5lang": {
+                "de": "Kurzer Fußweg vom Parkplatz.",
+                "hu": "Rövid séta a parkolótól.",
+                "ro": "Scurtă plimbare de la parcare.",
+                "en": "Short walk from the parking area."
+              }
+            },
+            {
+              "name": {
+                "de": "Vara de Rey",
+                "hu": "Vara de Rey",
+                "ro": "Vara de Rey",
+                "en": "Vara de Rey"
+              },
+              "tip_5lang": {
+                "de": "Abschluss im Herzen der Stadt.",
+                "hu": "A nap zárása a város szívében.",
+                "ro": "Încheiere în inima orașului.",
+                "en": "Ending in the heart of the city."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Sofrit Pagès",
+                "tip": "Traditionelles Fleischgericht im Ca n'Alfredo."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Sofrit Pagès",
+                "tip": "Hagyományos húsétel a Ca n'Alfredo étteremben."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Sofrit Pagès",
+                "tip": "Mâncare tradițională cu carne la Ca n'Alfredo."
+              }
+            ],
+            "en": [
+              {
+                "name": "Sofrit Pagès",
+                "tip": "Traditional meat dish at Ca n'Alfredo."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Ses Salines Salzbecken",
+                "tip": "Friedliche Naturlandschaft.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Ses Salines sólepárlók",
+                "tip": "Békés természeti táj.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Salinele din Ses Salines",
+                "tip": "Peisaj natural liniștit.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Ses Salines Salt Pans",
+                "tip": "Peaceful natural landscape.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Sal de Ibiza Shop",
+                "tip": "Kaufen Sie das berühmte Meersalz."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Sal de Ibiza bolt",
+                "tip": "Vásárolja meg a híres tengeri sót."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Magazin Sal de Ibiza",
+                "tip": "Cumpărați faimoasa sare de mare."
+              }
+            ],
+            "en": [
+              {
+                "name": "Sal de Ibiza Shop",
+                "tip": "Buy the famous sea salt souvenirs."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Parken in der Innenstadt ist schwierig.",
+              "Nutzen Sie offizielle Parkplätze.",
+              "Vermeiden Sie die Rushhour am Nachmittag.",
+              "Achten Sie auf Einbahnstraßen in der Nähe des Hafens."
+            ],
+            "hu": [
+              "A belvárosi parkolás nehézkes lehet.",
+              "Használja a kijelölt parkolókat.",
+              "Kerülje a délutáni csúcsforgalmat.",
+              "Figyeljen az egyirányú utcákra a kikötő közelében."
+            ],
+            "ro": [
+              "Parcarea în centru poate fi dificilă.",
+              "Folosiți parcările oficiale.",
+              "Evitați orele de vârf de după-amiază.",
+              "Atenție la străzile cu sens unic din zona portului."
+            ],
+            "en": [
+              "Parking in the city center can be difficult.",
+              "Use official parking lots.",
+              "Avoid afternoon rush hour.",
+              "Watch out for one-way streets near the harbor."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Fahren Sie früh nach Dalt Vila und nutzen Sie den Schutz des Autos.\n\nFahren Sie mittags nach Marina Botafoch für ein trockenes Mittagessen.\n\nMachen Sie nachmittags eine stimmungsvolle Fahrt durch das nasse Ses Salines.\n\nParken Sie abends nahe der Nekropole für Erkundungen im Innenbereich.",
+            "hu": "Autózz fel korán a Dalt Vila-hoz, kihasználva a kocsi nyújtotta menedéket.\n\nDélben menj a Marina Botafoch-hoz egy száraz ebédre, kilátással az esős kikötőre.\n\nDélután tegyél egy hangulatos autózást a nedves Ses Salines parkban.\n\nParkolj a Nekropolisz és a Vara de Rey közelében az esti beltéri programokhoz.",
+            "ro": "Conduceți devreme la Dalt Vila, profitând de adăpostul mașinii.\n\nMergeți la Marina Botafoch la prânz pentru un prânz uscat privind portul ploios.\n\nFaceți o plimbare de după-amiază prin parcul umed Ses Salines.\n\nParcați lângă Necropolă seara pentru o explorare la interior.",
+            "en": "Drive to Dalt Vila early, taking advantage of the car's shelter.\n\nHead to Marina Botafoch at noon for a dry lunch viewing the rainy port.\n\nTake an atmospheric afternoon drive through the wet Ses Salines.\n\nPark near the Necropolis and Vara de Rey for indoor evening exploration."
+          },
+          "stops": [
+            {
+              "name": "Dalt Vila",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang, um nicht lange im Regen zu laufen.",
+                "hu": "Parkolj közel a bejárathoz, hogy ne kelljen sokat sétálni esőben.",
+                "ro": "Parcați aproape de intrare pentru a evita mersul mult prin ploaie.",
+                "en": "Park close to the entrance to minimize walking in the rain."
+              }
+            },
+            {
+              "name": "Marina Botafoch",
+              "tip_5lang": {
+                "de": "Viele Restaurants hier haben überdachte, wetterfeste Terrassen.",
+                "hu": "Sok itteni étterem rendelkezik fedett, időjárásálló terasszal.",
+                "ro": "Multe restaurante de aici au terase acoperite, ferite de vreme.",
+                "en": "Many restaurants here have covered, weather-proof terraces."
+              }
+            },
+            {
+              "name": "Ses Salines Natural Park",
+              "tip_5lang": {
+                "de": "Genießen Sie die wilde, regnerische Aussicht bequem vom Auto aus.",
+                "hu": "Élvezd a vad, esős tájat kényelmesen az autóból nézve.",
+                "ro": "Bucurați-vă de peisajul sălbatic și ploios din confortul mașinii.",
+                "en": "Enjoy the wild, rainy landscape comfortably from inside your car."
+              }
+            },
+            {
+              "name": "Puig des Molins Necropolis",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch als Flucht vor dem Nachmittagsregen.",
+                "hu": "Használd a múzeumlátogatást menedékként a délutáni eső elől.",
+                "ro": "Folosiți vizita la muzeu ca refugiu de ploaia de după-amiază.",
+                "en": "Use the museum visit as a perfect escape from the afternoon rain."
+              }
+            },
+            {
+              "name": "Vara de Rey",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Tiefgaragen, um abends trocken ins Zentrum zu kommen.",
+                "hu": "Használj mélygarázst, hogy szárazon juss a központba este.",
+                "ro": "Folosiți parcarea subterană pentru a ajunge uscat în centru.",
+                "en": "Use the underground parking options to stay dry in the evening."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahren Sie vorsichtig, lokale Straßen können schnell überfluten.",
+              "Das Parken ist an Regentagen wesentlich einfacher.",
+              "Nutzen Sie überdachte Parkplätze im Stadtzentrum.",
+              "Bewahren Sie einen trockenen Regenschirm im Kofferraum auf."
+            ],
+            "hu": [
+              "Vezess óvatosan, a helyi utak gyorsan elárasztódhatnak.",
+              "A parkolás sokkal könnyebb az esős napokon.",
+              "Használj fedett parkolókat a belvárosban.",
+              "Tarts egy száraz esernyőt a csomagtartóban."
+            ],
+            "ro": [
+              "Conduceți cu atenție, drumurile locale se pot inunda rapid.",
+              "Parcarea este mult mai ușoară în zilele ploioase.",
+              "Folosiți parcări acoperite în centrul orașului.",
+              "Păstrați o umbrelă uscată în portbagaj."
+            ],
+            "en": [
+              "Drive carefully, as local roads can flood quickly.",
+              "Finding parking is much easier during rainy days.",
+              "Use covered parking garages in the city center.",
+              "Keep a dry umbrella ready in your car's trunk."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Fahren Sie morgens entspannt nach Dalt Vila mit vielen Winterparkplätzen.\n\nHalten Sie mittags an der Marina Botafoch für einen ruhigen Spaziergang.\n\nBeobachten Sie nachmittags Flamingos vom Auto aus in Ses Salines.\n\nBeenden Sie den Tag am Vara de Rey, wenn die frühe Winternacht hereinbricht.",
+            "hu": "Autózz kényelmesen a Dalt Vila-hoz reggel, élvezve a bőséges téli parkolóhelyeket.\n\nDélben állj meg a Marina Botafoch-nál egy csendes sétára a jachtok mellett.\n\nDélután figyeld meg a flamingókat az autóból a békés Ses Salines-ben.\n\nZárd a napot a Vara de Rey-nél, ahogy a korai téli éjszaka békésen leszáll.",
+            "ro": "Conduceți ușor spre Dalt Vila dimineața, având parcări libere iarna.\n\nOpriți la Marina Botafoch la prânz pentru o plimbare liniștită.\n\nObservați păsările flamingo din mașină în Ses Salines după-amiaza.\n\nÎncheiați la Vara de Rey pe măsură ce noaptea de iarnă se lasă liniștită.",
+            "en": "Drive easily to Dalt Vila in the morning, enjoying abundant winter parking.\n\nStop at Marina Botafoch at noon for a quiet stroll by the yachts.\n\nSpot flamingos from your car in Ses Salines during a calm afternoon.\n\nConclude at Vara de Rey as the early winter night sets in peacefully."
+          },
+          "stops": [
+            {
+              "name": "Dalt Vila",
+              "tip_5lang": {
+                "de": "Kostenloses und leichtes Parken direkt an den Mauern im Winter.",
+                "hu": "Ingyenes és egyszerű parkolás közvetlenül a falaknál télen.",
+                "ro": "Parcare gratuită și ușoară chiar lângă ziduri pe timp de iarnă.",
+                "en": "Enjoy free and easy parking right next to the walls in winter."
+              }
+            },
+            {
+              "name": "Marina Botafoch",
+              "tip_5lang": {
+                "de": "Ein sehr ruhiger Spaziergang ohne den Sommer-Jetset-Trubel.",
+                "hu": "Nagyon csendes séta a nyári jet-set nyüzsgés nélkül.",
+                "ro": "O plimbare foarte liniștită fără agitația jet-set-ului de vară.",
+                "en": "A very quiet stroll without the bustling summer jet-set crowd."
+              }
+            },
+            {
+              "name": "Ses Salines Natural Park",
+              "tip_5lang": {
+                "de": "Fahren Sie langsam: Die Wintermonate sind ideal, um Flamingos zu sehen.",
+                "hu": "Vezess lassan: a téli hónapok ideálisak a flamingók megfigyelésére.",
+                "ro": "Conduceți încet: lunile de iarnă sunt ideale pentru a vedea flamingo.",
+                "en": "Drive slowly: the winter months are ideal for spotting flamingos."
+              }
+            },
+            {
+              "name": "Puig des Molins Necropolis",
+              "tip_5lang": {
+                "de": "Wunderschönes Licht in der Dämmerung, aber achten Sie auf die Öffnungszeiten.",
+                "hu": "Gyönyörű fények alkonyatkor, de ügyelj a nyitvatartásra.",
+                "ro": "Lumină frumoasă la amurg, dar fiți atenți la programul de iarnă.",
+                "en": "Beautiful dusk lighting, but keep an eye on winter closing times."
+              }
+            },
+            {
+              "name": "Vara de Rey",
+              "tip_5lang": {
+                "de": "Genießen Sie abends die warme Beleuchtung ohne Verkehrsstau.",
+                "hu": "Élvezd a meleg esti kivilágítást bosszantó forgalmi dugók nélkül.",
+                "ro": "Bucurați-vă de iluminatul cald de seară fără blocaje în trafic.",
+                "en": "Enjoy the warm evening lights without dealing with traffic jams."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die vielen freien Winterparkplätze im Zentrum.",
+              "Halten Sie in Ses Salines vom Auto aus Ausschau nach Flamingos.",
+              "Prüfen Sie Rabatte für Mietwagen in der Nebensaison.",
+              "Fahren Sie entspannt durch die ruhigen, leeren Straßen."
+            ],
+            "hu": [
+              "Használd ki a bőséges ingyenes téli parkolóhelyeket.",
+              "Keresd a flamingókat a Ses Salines parkban az autóból.",
+              "Érdeklődj a szezonon kívüli autóbérlési kedvezményekről.",
+              "Vezess kényelmesen a csendes, üres utcákon."
+            ],
+            "ro": [
+              "Bucurați-vă de abundența locurilor de parcare libere iarna.",
+              "Căutați păsările flamingo în Ses Salines din mașină.",
+              "Verificați reducerile pentru închirieri auto în extrasezon.",
+              "Conduceți încet pe străzile liniștite și libere."
+            ],
+            "en": [
+              "Enjoy the abundance of free winter parking spaces in the city.",
+              "Look out for wild flamingos in Ses Salines from your car.",
+              "Check for out-of-season rental car discounts.",
+              "Drive slowly and stress-free in the quiet, uncrowded streets."
+            ]
+          }
+        }
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:45",
+      "total_km": 8.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Vara de Rey",
+            "hu": "Vara de Rey",
+            "ro": "Vara de Rey",
+            "en": "Vara de Rey"
+          },
+          "coords": [
+            38.9092,
+            1.4328
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Zentraler Busknotenpunkt.",
+            "hu": "Központi buszmegálló közelében.",
+            "ro": "Nod central pentru autobuze.",
+            "en": "Central bus hub nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Dalt Vila",
+            "hu": "Dalt Vila",
+            "ro": "Dalt Vila",
+            "en": "Dalt Vila"
+          },
+          "coords": [
+            38.9069,
+            1.4361
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Linie L45 fährt zur Altstadt.",
+            "hu": "Az L45-ös busz az óvároshoz visz.",
+            "ro": "Linia L45 merge spre orașul vechi.",
+            "en": "Line L45 goes to the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale Santa Maria",
+            "hu": "Santa Maria katedrális",
+            "ro": "Catedrala Santa Maria",
+            "en": "Cathedral of Santa Maria"
+          },
+          "coords": [
+            38.9058,
+            1.4364
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Höchster Punkt der Route.",
+            "hu": "Az útvonal legmagasabb pontja.",
+            "ro": "Cel mai înalt punct al rutei.",
+            "en": "Highest point of the route."
+          }
+        },
+        {
+          "name": {
+            "de": "Marina Botafoch",
+            "hu": "Marina Botafoch",
+            "ro": "Marina Botafoch",
+            "en": "Marina Botafoch"
+          },
+          "coords": [
+            38.9155,
+            1.4425
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Nutzen Sie das Wassertaxi.",
+            "hu": "Használja a vízitaxit (Aqua Bus).",
+            "ro": "Folosiți taxiul pe apă.",
+            "en": "Use the water taxi (Aqua Bus)."
+          }
+        },
+        {
+          "name": {
+            "de": "Nekropole Puig des Molins",
+            "hu": "Puig des Molins nekropolisz",
+            "ro": "Necropola Puig des Molins",
+            "en": "Puig des Molins Necropolis"
+          },
+          "coords": [
+            38.9075,
+            1.4285
+          ],
+          "category": "museums",
+          "arrive_at": "15:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Bushaltestelle direkt davor.",
+            "hu": "Buszmegálló közvetlenül a bejáratnál.",
+            "ro": "Stație de autobuz chiar în față.",
+            "en": "Bus stop right in front of the site."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen von Eivissa",
+            "hu": "Ibiza kikötő",
+            "ro": "Portul Eivissa",
+            "en": "Port of Ibiza"
+          },
+          "coords": [
+            38.9105,
+            1.4365
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "17:40",
+          "stay_min": 65,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Genießen Sie den Abend am Hafen.",
+            "hu": "Élvezze az estét a kikötőben.",
+            "ro": "Bucurați-vă de seară în port.",
+            "en": "Enjoy the evening by the harbor."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das effiziente Bussystem und das charmante Wassertaxi von Ibiza. Starten Sie an der Vara de Rey und fahren Sie hinauf zur Dalt Vila. Nach der Besichtigung der Kathedrale nehmen Sie das Boot zur Marina Botafoch für ein entspanntes Mittagessen. Am Nachmittag bringt Sie der Bus zur antiken Nekropole und schließlich zurück zum Hafen für einen perfekten Ausklang des Tages.",
+        "hu": "Használja Ibiza hatékony buszhálózatát és a bájos vízitaxit. Kezdjen a Vara de Rey-nél, majd buszozzon fel a Dalt Vila negyedbe. A katedrális megtekintése után hajózzon át a Marina Botafoch kikötőbe egy kényelmes ebédre. Délután busszal látogasson el a nekropoliszhoz, végül pedig térjen vissza a kikötőbe, hogy lezárja a napot.",
+        "ro": "Folosiți rețeaua eficientă de autobuze și fermecătorul taxi pe apă din Ibiza. Începeți la Vara de Rey și urcați cu autobuzul în Dalt Vila. După vizitarea catedralei, luați barca spre Marina Botafoch pentru un prânz relaxant. După-amiaza, autobuzul vă duce la necropola antică și, în final, înapoi în port pentru o încheiere perfectă a zilei.",
+        "en": "Use Ibiza's efficient bus system and the charming water taxi. Start at Vara de Rey and take the bus up to Dalt Vila. After visiting the cathedral, take a boat across the harbor to Marina Botafoch for a relaxed lunch. In the afternoon, catch a bus to the ancient necropolis and finally return to the harbor for a perfect end to your day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bocadillo",
+            "tip": "Schneller Snack im Can Gourmet."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bocadillo",
+            "tip": "Gyors szendvics a Can Gourmet-ben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bocadillo",
+            "tip": "Sandviș rapid la Can Gourmet."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bocadillo",
+            "tip": "Quick sandwich snack at Can Gourmet."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aqua Bus Fahrt",
+            "tip": "Entspannende Bootsfahrt.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Aqua Bus utazás",
+            "tip": "Pihentető hajókázás.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Călătoria cu Aqua Bus",
+            "tip": "O plimbare relaxantă cu barca.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Aqua Bus Ride",
+            "tip": "Relaxing boat trip across the bay.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "La Marina Viertel",
+            "tip": "Kleine Boutiquen in den Gassen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "La Marina negyed",
+            "tip": "Kis butikok a szűk utcákban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cartierul La Marina",
+            "tip": "Mici buticuri pe străduțele înguste."
+          }
+        ],
+        "en": [
+          {
+            "name": "La Marina District",
+            "tip": "Small boutiques in the narrow streets."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie Tickets beim Fahrer.",
+          "Das Wassertaxi spart viel Zeit.",
+          "Busse fahren im Sommer sehr häufig.",
+          "Achten Sie auf die digitalen Anzeigen."
+        ],
+        "hu": [
+          "Vásároljon jegyet a sofőrnél.",
+          "A vízitaxi sok időt spórol meg.",
+          "A buszok nyáron sűrűn járnak.",
+          "Figyelje a digitális kijelzőket."
+        ],
+        "ro": [
+          "Cumpărați biletele direct de la șofer.",
+          "Taxiul pe apă economisește mult timp.",
+          "Autobuzele circulă des pe timpul verii.",
+          "Urmăriți panourile digitale din stații."
+        ],
+        "en": [
+          "Buy tickets from the driver.",
+          "The water taxi saves a lot of time.",
+          "Buses run frequently during summer.",
+          "Check the digital displays at stops."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie das effiziente Bussystem und das charmante Wassertaxi von Ibiza. Starten Sie an der Vara de Rey und fahren Sie hinauf zur Dalt Vila. Nach der Besichtigung der Kathedrale nehmen Sie das Boot zur Marina Botafoch für ein entspanntes Mittagessen. Am Nachmittag bringt Sie der Bus zur antiken Nekropole und schließlich zurück zum Hafen für einen perfekten Ausklang des Tages.",
+            "hu": "Használja Ibiza hatékony buszhálózatát és a bájos vízitaxit. Kezdjen a Vara de Rey-nél, majd buszozzon fel a Dalt Vila negyedbe. A katedrális megtekintése után hajózzon át a Marina Botafoch kikötőbe egy kényelmes ebédre. Délután busszal látogasson el a nekropoliszhoz, végül pedig térjen vissza a kikötőbe, hogy lezárja a napot.",
+            "ro": "Folosiți rețeaua eficientă de autobuze și fermecătorul taxi pe apă din Ibiza. Începeți la Vara de Rey și urcați cu autobuzul în Dalt Vila. După vizitarea catedralei, luați barca spre Marina Botafoch pentru un prânz relaxant. După-amiaza, autobuzul vă duce la necropola antică și, în final, înapoi în port pentru o încheiere perfectă a zilei.",
+            "en": "Use Ibiza's efficient bus system and the charming water taxi. Start at Vara de Rey and take the bus up to Dalt Vila. After visiting the cathedral, take a boat across the harbor to Marina Botafoch for a relaxed lunch. In the afternoon, catch a bus to the ancient necropolis and finally return to the harbor for a perfect end to your day."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Vara de Rey",
+                "hu": "Vara de Rey",
+                "ro": "Vara de Rey",
+                "en": "Vara de Rey"
+              },
+              "tip_5lang": {
+                "de": "Zentraler Busknotenpunkt.",
+                "hu": "Központi buszmegálló közelében.",
+                "ro": "Nod central pentru autobuze.",
+                "en": "Central bus hub nearby."
+              }
+            },
+            {
+              "name": {
+                "de": "Dalt Vila",
+                "hu": "Dalt Vila",
+                "ro": "Dalt Vila",
+                "en": "Dalt Vila"
+              },
+              "tip_5lang": {
+                "de": "Linie L45 fährt zur Altstadt.",
+                "hu": "Az L45-ös busz az óvároshoz visz.",
+                "ro": "Linia L45 merge spre orașul vechi.",
+                "en": "Line L45 goes to the old town."
+              }
+            },
+            {
+              "name": {
+                "de": "Kathedrale Santa Maria",
+                "hu": "Santa Maria katedrális",
+                "ro": "Catedrala Santa Maria",
+                "en": "Cathedral of Santa Maria"
+              },
+              "tip_5lang": {
+                "de": "Höchster Punkt der Route.",
+                "hu": "Az útvonal legmagasabb pontja.",
+                "ro": "Cel mai înalt punct al rutei.",
+                "en": "Highest point of the route."
+              }
+            },
+            {
+              "name": {
+                "de": "Marina Botafoch",
+                "hu": "Marina Botafoch",
+                "ro": "Marina Botafoch",
+                "en": "Marina Botafoch"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das Wassertaxi.",
+                "hu": "Használja a vízitaxit (Aqua Bus).",
+                "ro": "Folosiți taxiul pe apă.",
+                "en": "Use the water taxi (Aqua Bus)."
+              }
+            },
+            {
+              "name": {
+                "de": "Nekropole Puig des Molins",
+                "hu": "Puig des Molins nekropolisz",
+                "ro": "Necropola Puig des Molins",
+                "en": "Puig des Molins Necropolis"
+              },
+              "tip_5lang": {
+                "de": "Bushaltestelle direkt davor.",
+                "hu": "Buszmegálló közvetlenül a bejáratnál.",
+                "ro": "Stație de autobuz chiar în față.",
+                "en": "Bus stop right in front of the site."
+              }
+            },
+            {
+              "name": {
+                "de": "Hafen von Eivissa",
+                "hu": "Ibiza kikötő",
+                "ro": "Portul Eivissa",
+                "en": "Port of Ibiza"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Abend am Hafen.",
+                "hu": "Élvezze az estét a kikötőben.",
+                "ro": "Bucurați-vă de seară în port.",
+                "en": "Enjoy the evening by the harbor."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Bocadillo",
+                "tip": "Schneller Snack im Can Gourmet."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Bocadillo",
+                "tip": "Gyors szendvics a Can Gourmet-ben."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Bocadillo",
+                "tip": "Sandviș rapid la Can Gourmet."
+              }
+            ],
+            "en": [
+              {
+                "name": "Bocadillo",
+                "tip": "Quick sandwich snack at Can Gourmet."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Aqua Bus Fahrt",
+                "tip": "Entspannende Bootsfahrt.",
+                "emoji": "🍃"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Aqua Bus utazás",
+                "tip": "Pihentető hajókázás.",
+                "emoji": "🍃"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Călătoria cu Aqua Bus",
+                "tip": "O plimbare relaxantă cu barca.",
+                "emoji": "🍃"
+              }
+            ],
+            "en": [
+              {
+                "name": "Aqua Bus Ride",
+                "tip": "Relaxing boat trip across the bay.",
+                "emoji": "🍃"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "La Marina Viertel",
+                "tip": "Kleine Boutiquen in den Gassen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "La Marina negyed",
+                "tip": "Kis butikok a szűk utcákban."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Cartierul La Marina",
+                "tip": "Mici buticuri pe străduțele înguste."
+              }
+            ],
+            "en": [
+              {
+                "name": "La Marina District",
+                "tip": "Small boutiques in the narrow streets."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Kaufen Sie Tickets beim Fahrer.",
+              "Das Wassertaxi spart viel Zeit.",
+              "Busse fahren im Sommer sehr häufig.",
+              "Achten Sie auf die digitalen Anzeigen."
+            ],
+            "hu": [
+              "Vásároljon jegyet a sofőrnél.",
+              "A vízitaxi sok időt spórol meg.",
+              "A buszok nyáron sűrűn járnak.",
+              "Figyelje a digitális kijelzőket."
+            ],
+            "ro": [
+              "Cumpărați biletele direct de la șofer.",
+              "Taxiul pe apă economisește mult timp.",
+              "Autobuzele circulă des pe timpul verii.",
+              "Urmăriți panourile digitale din stații."
+            ],
+            "en": [
+              "Buy tickets from the driver.",
+              "The water taxi saves a lot of time.",
+              "Buses run frequently during summer.",
+              "Check the digital displays at stops."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie am Vara de Rey, einem guten Knotenpunkt für trockene Busfahrten.\n\nFahren Sie mittags kurz nach Dalt Vila und halten Sie den Regenschirm bereit.\n\nFahren Sie nachmittags zur Marina Botafoch, um in einem Café dem Regen zu entgehen.\n\nBeenden Sie den Abend in den überdachten Bereichen am Hafen und der Nekropole.",
+            "hu": "Kezdj a Vara de Rey-nél, ami jó csomópont a reggeli száraz buszra szálláshoz.\n\nDélben tegyél egy rövid buszutat a Dalt Vila-ba, kéznél tartva az esernyőt.\n\nDélután menj a Marina Botafoch-hoz, hogy egy kávézóban vészeld át az esőt.\n\nZárd az estét a kikötő és a Nekropolisz fedett részei között ugrálva.",
+            "ro": "Începeți la Vara de Rey, un hub bun pentru a lua un autobuz uscat dimineața.\n\nLuați autobuzul scurt spre Dalt Vila la prânz, ținând umbrela la îndemână.\n\nMergeți la Marina Botafoch după-amiaza pentru a evita ploaia într-o cafenea.\n\nÎncheiați seara sărind între zonele acoperite din Port și Necropolă.",
+            "en": "Start at Vara de Rey, a good hub to quickly board a dry bus in the morning.\n\nTake a short bus ride to Dalt Vila at noon, keeping your umbrella handy.\n\nHead to Marina Botafoch in the afternoon to avoid the rain in a local cafe.\n\nFinish the evening hopping between covered areas at the Port and Necropolis."
+          },
+          "stops": [
+            {
+              "name": "Vara de Rey",
+              "tip_5lang": {
+                "de": "Bushaltestellen bieten hier oft guten Schutz vor starken Schauern.",
+                "hu": "A buszmegállók itt gyakran jó menedéket nyújtanak a záporok elől.",
+                "ro": "Stațiile de autobuz oferă adesea un adăpost bun împotriva ploii.",
+                "en": "Bus stops here often provide good shelter from heavy showers."
+              }
+            },
+            {
+              "name": "Dalt Vila",
+              "tip_5lang": {
+                "de": "Der Bus erspart Ihnen den nassen und rutschigen Fußweg bergauf.",
+                "hu": "A busz megkímél a nedves és csúszós gyaloglástól felfelé.",
+                "ro": "Autobuzul vă scutește de urcușul umed și alunecos pe jos.",
+                "en": "Taking the bus saves you from a wet, slippery walk uphill."
+              }
+            },
+            {
+              "name": "Cathedral of Santa Maria",
+              "tip_5lang": {
+                "de": "Ein trockenes Highlight direkt nach dem Aussteigen aus dem Bus.",
+                "hu": "Száraz látványosság közvetlenül a buszról való leszállás után.",
+                "ro": "O atracție uscată imediat după coborârea din autobuz.",
+                "en": "A dry highlight to explore right after stepping off the bus."
+              }
+            },
+            {
+              "name": "Marina Botafoch",
+              "tip_5lang": {
+                "de": "Busse halten nah an den Cafés, rennen Sie schnell ins Trockene.",
+                "hu": "A buszok közel állnak meg a kávézókhoz, fuss gyorsan fedezékbe.",
+                "ro": "Autobuzele opresc aproape de cafenele, fugiți rapid la adăpost.",
+                "en": "Buses stop close to the cafes, make a quick dash inside."
+              }
+            },
+            {
+              "name": "Puig des Molins Necropolis",
+              "tip_5lang": {
+                "de": "Ein perfektes, regengeschütztes Ziel für den späten Nachmittag.",
+                "hu": "Tökéletes, esővédett célpont a késő délutáni órákban.",
+                "ro": "O destinație perfectă, ferită de ploaie pentru după-amiaza târzie.",
+                "en": "A perfect, rain-protected destination for the late afternoon."
+              }
+            },
+            {
+              "name": "Port of Ibiza",
+              "tip_5lang": {
+                "de": "Warten Sie im überdachten Terminal auf Ihren Anschlussbus.",
+                "hu": "Várd meg a csatlakozó buszt a fedett terminál épületében.",
+                "ro": "Așteptați autobuzul de legătură în terminalul acoperit.",
+                "en": "Wait for your connecting bus inside the covered terminal."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Halten Sie zwischen den Stationen einen Regenschirm bereit.",
+              "Halten Sie Kleingeld bereit, um schnell einsteigen zu können.",
+              "Prüfen Sie, ob sich Busse durch starken Regen verspäten.",
+              "Vermeiden Sie es, mit nasser Kleidung unter der Klimaanlage zu sitzen."
+            ],
+            "hu": [
+              "Tarts kéznél egy esernyőt a megállók közötti rövid utakra.",
+              "Készíts elő aprópénzt a gyors felszállás érdekében.",
+              "Számolj azzal, hogy a heves eső miatt késhetnek a buszok.",
+              "Kerüld a nedves ruhában való ülést a klíma alatt."
+            ],
+            "ro": [
+              "Păstrați o umbrelă pregătită între stații.",
+              "Pregătiți mărunțiș pentru o îmbarcare rapidă.",
+              "Verificați dacă autobuzele au întârzieri din cauza ploii.",
+              "Evitați să stați cu haine ude sub aerul condiționat."
+            ],
+            "en": [
+              "Keep a travel umbrella ready for short walks between stops.",
+              "Prepare small change for quick boarding in the rain.",
+              "Check if local buses are delayed by heavy rainfall.",
+              "Avoid sitting in wet clothes under the bus air conditioning."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie am Vara de Rey und prüfen Sie früh die Winterbusfahrpläne.\n\nGenießen Sie mittags die leere Busfahrt nach Dalt Vila für Erkundungen.\n\nNehmen Sie nachmittags einen Bus zur Marina Botafoch am ruhigen Winterhafen.\n\nKehren Sie vor dem Abend zurück, da die Winterbusse früh den Betrieb einstellen.",
+            "hu": "Kezdj a Vara de Rey-nél, korán ellenőrizve a ritkább téli menetrendeket.\n\nÉlvezd a tömegmentes buszutat a Dalt Vila-ba egy déli felfedezéshez.\n\nDélután utazz a Marina Botafoch-hoz, hogy megnézd a csendes téli kikötőt.\n\nTérj vissza a központba kora este, mivel a téli járatok hamarabb leállnak.",
+            "ro": "Începeți la Vara de Rey, verificând devreme orarele reduse de iarnă.\n\nBucurați-vă de drumul liber spre Dalt Vila pentru o explorare la prânz.\n\nLuați un autobuz de după-amiază spre Marina Botafoch la portul liniștit.\n\nÎntoarceți-vă în centru înainte de seară, deoarece autobuzele se opresc devreme.",
+            "en": "Begin at Vara de Rey, checking the reduced winter bus schedules early.\n\nEnjoy the uncrowded transit ride to Dalt Vila for a midday exploration.\n\nCatch an afternoon bus to Marina Botafoch to see the quiet winter harbor.\n\nReturn to the center before evening, as winter bus services wrap up early."
+          },
+          "stops": [
+            {
+              "name": "Vara de Rey",
+              "tip_5lang": {
+                "de": "Nutzen Sie das WLAN in den Cafés hier, um Fahrpläne zu prüfen.",
+                "hu": "Használd a kávézók wifijét a menetrendek ellenőrzésére.",
+                "ro": "Folosiți WiFi-ul cafenelelor de aici pentru a verifica orarele.",
+                "en": "Use the local cafe WiFi here to check the winter bus schedules."
+              }
+            },
+            {
+              "name": "Dalt Vila",
+              "tip_5lang": {
+                "de": "Der Bus bringt Sie bequem nach oben, was an kalten Tagen ideal ist.",
+                "hu": "A busz kényelmesen felvisz, ami ideális a hidegebb napokon.",
+                "ro": "Autobuzul vă duce confortabil sus, ideal în zilele reci.",
+                "en": "The bus takes you comfortably to the top, ideal on chilly days."
+              }
+            },
+            {
+              "name": "Cathedral of Santa Maria",
+              "tip_5lang": {
+                "de": "Eine ruhige, winterliche Atmosphäre nach dem Aussteigen.",
+                "hu": "Nyugodt, téli atmoszféra fogad rögtön a leszállás után.",
+                "ro": "O atmosferă de iarnă liniștită imediat după coborâre.",
+                "en": "A peaceful winter atmosphere greets you right off the bus."
+              }
+            },
+            {
+              "name": "Marina Botafoch",
+              "tip_5lang": {
+                "de": "Achten Sie auf die im Winter seltenen Rückfahrten zum Zentrum.",
+                "hu": "Figyelj a ritkább téli visszjáratokra a központ felé.",
+                "ro": "Atenție la autobuzele de întoarcere mai rare pe timp de iarnă.",
+                "en": "Pay attention to the less frequent return buses in winter."
+              }
+            },
+            {
+              "name": "Puig des Molins Necropolis",
+              "tip_5lang": {
+                "de": "Planen Sie so, dass Sie vor der frühen Winterschließung ankommen.",
+                "hu": "Tervezz úgy, hogy a korai téli zárás előtt érkezz meg.",
+                "ro": "Planificați sosirea înainte de ora de închidere devreme iarna.",
+                "en": "Plan your bus ride to arrive well before the early winter closing."
+              }
+            },
+            {
+              "name": "Port of Ibiza",
+              "tip_5lang": {
+                "de": "Der Knotenpunkt ist abends ruhig; verpassen Sie nicht den letzten Bus.",
+                "hu": "A csomópont este nagyon csendes; ne késd le az utolsó buszt.",
+                "ro": "Hub-ul este liniștit seara; nu pierdeți ultimul autobuz.",
+                "en": "The hub is very quiet at night; don't miss the final bus."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie immer die reduzierten Winterfahrpläne.",
+              "Laden Sie die lokale Bus-App für Live-Updates herunter.",
+              "Beachten Sie, dass der Abendbetrieb viel früher endet.",
+              "Die Busse sind im Winter viel leerer und sehr angenehm."
+            ],
+            "hu": [
+              "Mindig ellenőrizd a ritkább téli menetrendeket.",
+              "Töltsd le a helyi buszos appot a friss infókért.",
+              "Vedd figyelembe, hogy az esti járatok sokkal hamarabb leállnak.",
+              "A buszok télen sokkal üresebbek és nagyon kényelmesek."
+            ],
+            "ro": [
+              "Verificați întotdeauna orarele reduse de iarnă.",
+              "Descărcați aplicația locală de autobuz pentru actualizări.",
+              "Rețineți că serviciile de seară se termină mult mai devreme.",
+              "Autobuzele sunt mult mai puțin aglomerate iarna."
+            ],
+            "en": [
+              "Always double-check the reduced winter timetables.",
+              "Download the local bus app for live route updates.",
+              "Be aware that evening transit services end much earlier.",
+              "Buses are much less crowded and very pleasant in winter."
+            ]
+          }
+        }
+      }
+    }
+  },
+  "external_resources": {
+    "tourism_office": "https://www.eivissa.es/portal/",
+    "transit_official": "https://www.ibizabus.com/",
+    "events": "https://www.eivissa.es/agenda",
+    "webcam": "https://www.skylinewebcams.com/es/webcam/espana/islas-baleares/ibiza.html",
+    "parking_real_time": "https://www.eivissa.es/portal/index.php/es/aparcaments",
+    "museum_tickets": "https://www.maef.eu/",
+    "language_tips": {
+      "de": "In Ibiza-Stadt sind Katalanisch (Eivissenc) und Spanisch offiziell, durch Tourismus auch Englisch, Italienisch und Deutsch verbreitet. In Clubs reicht Englisch komplett. Tagsüber in Dalt Vila lohnt sich ein 'hola'.",
+      "hu": "Ibiza városban katalánul (eivissenc) és spanyolul beszélnek, a turizmus miatt angol, olasz és német is megy. Klubban az angol bőven elég. A Dalt Vila óvárosban egy 'hola' kedves gesztus.",
+      "ro": "În Ibiza Town se vorbește catalană (eivissenc) și spaniolă, iar din cauza turismului și engleza, italiana, germana. În cluburi engleza ajunge. În Dalt Vila, un 'hola' e apreciat.",
+      "en": "Ibiza Town uses Catalan (Eivissenc) and Spanish officially; tourism brings English, Italian and German everywhere. Clubs run on English. In Dalt Vila old town a simple 'hola' is appreciated."
+    },
+    "best_time_to_visit": {
+      "de": "Mai-Juni und September für ruhige Strände und offene Clubs ohne Wahnsinn. Juli-August ist die Party-Hochsaison, Preise explodieren. Oktober-April ruhig, viele Clubs zu.",
+      "hu": "Május-június és szeptember a legjobb: nyugodt strandok, nyitva tartó klubok őrület nélkül. Július-augusztus a party-csúcs, az árak az egekben. Október-április csendes, klubok zárva.",
+      "ro": "Mai-iunie și septembrie pentru plaje liniștite și cluburi deschise fără nebunie. Iulie-august e vârful party, prețurile zboară. Octombrie-aprilie e calm, multe cluburi închise.",
+      "en": "May-June and September give you calm beaches and open clubs without madness. July-August is peak party season with sky-high prices. October-April is quiet, most clubs closed."
+    },
+    "neighborhood_warnings": {
+      "de": "Allgemein sicher, aber nachts in der Party-Zone (Figueretas, Playa d'en Bossa) Taschendiebe und überteuerte Drinks. Niemals Drogen von Strandverkäufern, das endet teuer. Taxis nur offizielle nehmen.",
+      "hu": "Általában biztonságos, de éjjel a party-zónában (Figueretas, Playa d'en Bossa) zsebtolvajok és túlárazott italok. Drogot strandárustól soha, drágán végződik. Taxiból csak hivatalos.",
+      "ro": "În general sigur, dar noaptea în zona de party (Figueretas, Playa d'en Bossa) atenție la hoți și băuturi supraprețate. Niciodată droguri de la vânzători de plajă. Taxi doar oficial.",
+      "en": "Generally safe, but at night in party zones (Figueretas, Playa d'en Bossa) watch for pickpockets and rip-off drinks. Never buy drugs from beach hawkers - it ends badly. Use only official taxis."
+    }
+  }
+}

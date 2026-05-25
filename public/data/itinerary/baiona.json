@@ -1,0 +1,2374 @@
+{
+  "city_id": "baiona",
+  "anchor": {
+    "name": "Baiona",
+    "coords": [
+      -8.8489,
+      42.1228
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "18:30",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Casco Antiguo",
+          "coords": [
+            -8.8492,
+            42.1225
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Frühstücken Sie in einer der Bars am Plaza del Ayuntamiento.",
+            "hu": "Reggelizzen a városháza melletti hangulatos kávézók egyikében.",
+            "ro": "Luați micul dejun la una dintre cafenelele din Plaza del Ayuntamiento.",
+            "en": "Have breakfast at one of the cozy cafes near the Town Hall."
+          }
+        },
+        {
+          "name": "Museo de la Carabela Pinta",
+          "coords": [
+            -8.8475,
+            42.1242
+          ],
+          "category": "museums",
+          "arrive_at": "10:05",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Replik des Schiffes, das Amerika entdeckte.",
+            "hu": "Látogasson el az Amerika felfedezését hírül hozó hajó másolatára.",
+            "ro": "Vizitați replica navei care a adus vestea descoperirii Americii.",
+            "en": "Visit the replica of the ship that brought the news of America's discovery."
+          }
+        },
+        {
+          "name": "Fortaleza de Monterreal",
+          "coords": [
+            -8.8465,
+            42.1265
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:50",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Gehen Sie die 3 km lange Mauer entlang für tolle Ausblicke.",
+            "hu": "Sétáljon végig a 3 km hosszú várfalon a pazar kilátásért.",
+            "ro": "Mergeți de-a lungul zidului de 3 km pentru vederi spectaculoase.",
+            "en": "Walk along the 3 km long wall for spectacular ocean views."
+          }
+        },
+        {
+          "name": "Colegiata de Santa María",
+          "coords": [
+            -8.8505,
+            42.1235
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:45",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie die romanisch-gotische Architektur dieser Kirche.",
+            "hu": "Csodálja meg a templom román-gótikus építészeti jegyeit.",
+            "ro": "Admirați arhitectura romanico-gotică a acestei biserici vechi.",
+            "en": "Admire the Romanesque-Gothic architecture of this historic church."
+          }
+        },
+        {
+          "name": "Paseo de Monte Boi",
+          "coords": [
+            -8.851,
+            42.128
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:50",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Ideal für ein Picknick oder ein Bad an den kleinen Buchten.",
+            "hu": "Ideális hely egy piknikhez vagy fürdéshez a kis öblökben.",
+            "ro": "Loc ideal pentru un picnic sau o baie în micile golfuri.",
+            "en": "Perfect spot for a picnic or a swim in the small hidden coves."
+          }
+        },
+        {
+          "name": "Monumento Encuentro mundos",
+          "coords": [
+            -8.853,
+            42.125
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "17:05",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Ein modernes Denkmal zur Feier der Entdeckung Amerikas.",
+            "hu": "Modern emlékmű az Amerika-felfedezés emlékére.",
+            "ro": "Un monument modern care celebrează descoperirea Americii.",
+            "en": "A modern monument celebrating the discovery of America."
+          }
+        },
+        {
+          "name": "Virgen de la Roca",
+          "coords": [
+            -8.856,
+            42.1215
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "17:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Steigen Sie in das Boot in den Händen der Jungfrau Maria.",
+            "hu": "Másszon fel a Szűzanya kezében tartott kőhajóba a panorámáért.",
+            "ro": "Urcați în barca de piatră din mâinile Fecioarei pentru panoramă.",
+            "en": "Climb up into the stone boat in the Virgin's hands for the view."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Baiona ist ein historisches Juwel an der Küste Galiciens. Ihr Vormittag beginnt in der charmanten Altstadt und am Hafen, wo die Pinta-Karavelle an die Entdeckung Amerikas erinnert. Mittags erkunden Sie die gewaltige Festung Monterreal. Der Nachmittag gehört der Natur am Paseo de Monte Boi. Den Tag beenden Sie an der monumentalen Statue Virgen de la Roca mit einem fantastischen Blick auf den Atlantik.",
+        "hu": "Baiona Galícia tengerparti ékköve, ahol a történelem és az óceán találkozik. A délelőttöt az óvárosban és a kikötőben töltjük, megtekintve a híres Pinta karavellát. Ebéd után a Monterreal erőd hatalmas falai között kalandozunk. A délutáni napsütésben a Monte Boi sétányon élvezhetjük a sós levegőt, végül a Szikla Szűz szobra mellől csodálhatjuk meg a lenyugvó napot.",
+        "ro": "Baiona este o bijuterie istorică pe coasta Galiciei. Dimineața începe în centrul vechi și în port, unde caravela Pinta amintește de descoperirea Americii. La prânz explorăm impresionanta fortăreață Monterreal. După-amiaza este dedicată naturii pe faleza Monte Boi. Încheiem ziua la monumentala statuie Virgen de la Roca, cu o priveliște panoramică asupra Atlanticului.",
+        "en": "Baiona is a historic coastal gem in Galicia. Your morning starts in the charming old town and the harbor, where the Pinta caravel commemorates the discovery of America. Midday is spent exploring the massive Monterreal fortress. The afternoon belongs to nature on the Monte Boi promenade. End your day at the monumental Virgen de la Roca statue with a fantastic view over the Atlantic."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pulpo a feira",
+            "tip": "Probieren Sie den galicischen Oktopus in der Taberna de Pintos."
+          },
+          {
+            "name": "Zamburiñas",
+            "tip": "Kleine Jakobsmuscheln sind eine lokale Delikatesse im Restaurant Paco Casa."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pulpo a feira",
+            "tip": "Kóstolja meg a galíciai polipot a Taberna de Pintos-ban."
+          },
+          {
+            "name": "Zamburiñas",
+            "tip": "A fésűkagyló helyi változata kötelező fogás a Paco Casa étteremben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pulpo a feira",
+            "tip": "Gustați caracatița galiciană la Taberna de Pintos."
+          },
+          {
+            "name": "Zamburiñas",
+            "tip": "Scoicile mici sunt o delicatesă locală la restaurantul Paco Casa."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pulpo a feira",
+            "tip": "Try the authentic Galician octopus at Taberna de Pintos."
+          },
+          {
+            "name": "Zamburiñas",
+            "tip": "Small scallops are a local delicacy at Paco Casa restaurant."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Festungsmauern",
+            "tip": "Die Westseite der Mauer ist perfekt für den Sonnenuntergang.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Playa de los Frades",
+            "tip": "Ruhiger Strand unterhalb der Festung.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Várfalnyugalom",
+            "tip": "A várfal nyugati oldala tökéletes naplemente nézéséhez.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Playa de los Frades",
+            "tip": "Csendes kis strand közvetlenül az erőd tövében.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zidurile cetății",
+            "tip": "Partea de vest a zidului este perfectă pentru apus.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Playa de los Frades",
+            "tip": "O plajă liniștită chiar sub zidurile fortăreței.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Fortress Walls",
+            "tip": "The west side of the wall is perfect for sunset watching.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Playa de los Frades",
+            "tip": "Quiet beach located right beneath the fortress walls.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Calle Elduayen",
+            "tip": "Hübsche Läden für lokales Kunsthandwerk und Mode."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Calle Elduayen",
+            "tip": "Kedves üzletek helyi kézműves termékekkel és divattal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Calle Elduayen",
+            "tip": "Magazine drăguțe cu artizanat local și modă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Calle Elduayen",
+            "tip": "Charming shops for local handicrafts and fashion."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für die Festungsmauern.",
+          "Reservieren Sie in der Hochsaison einen Tisch für das Mittagessen.",
+          "Der Sonnenuntergang bei der Virgen de la Roca ist magisch."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt a várfalon való sétához.",
+          "Főszezonban érdemes előre asztalt foglalni az ebédhez.",
+          "A naplemente a Szikla Szűz szobránál felejthetetlen élmény."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă pentru plimbarea pe zidurile cetății.",
+          "Rezervați o masă pentru prânz în timpul sezonului de vârf.",
+          "Apusul la Virgen de la Roca este cu adevărat magic."
+        ],
+        "en": [
+          "Wear comfortable shoes for the walk on the fortress walls.",
+          "Book a table for lunch in advance during the high season.",
+          "The sunset at Virgen de la Roca is a magical experience."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Baiona ist ein historisches Juwel an der Küste Galiciens. Ihr Vormittag beginnt in der charmanten Altstadt und am Hafen, wo die Pinta-Karavelle an die Entdeckung Amerikas erinnert. Mittags erkunden Sie die gewaltige Festung Monterreal. Der Nachmittag gehört der Natur am Paseo de Monte Boi. Den Tag beenden Sie an der monumentalen Statue Virgen de la Roca mit einem fantastischen Blick auf den Atlantik.",
+            "hu": "Baiona Galícia tengerparti ékköve, ahol a történelem és az óceán találkozik. A délelőttöt az óvárosban és a kikötőben töltjük, megtekintve a híres Pinta karavellát. Ebéd után a Monterreal erőd hatalmas falai között kalandozunk. A délutáni napsütésben a Monte Boi sétányon élvezhetjük a sós levegőt, végül a Szikla Szűz szobra mellől csodálhatjuk meg a lenyugvó napot.",
+            "ro": "Baiona este o bijuterie istorică pe coasta Galiciei. Dimineața începe în centrul vechi și în port, unde caravela Pinta amintește de descoperirea Americii. La prânz explorăm impresionanta fortăreață Monterreal. După-amiaza este dedicată naturii pe faleza Monte Boi. Încheiem ziua la monumentala statuie Virgen de la Roca, cu o priveliște panoramică asupra Atlanticului.",
+            "en": "Baiona is a historic coastal gem in Galicia. Your morning starts in the charming old town and the harbor, where the Pinta caravel commemorates the discovery of America. Midday is spent exploring the massive Monterreal fortress. The afternoon belongs to nature on the Monte Boi promenade. End your day at the monumental Virgen de la Roca statue with a fantastic view over the Atlantic."
+          },
+          "stops": [
+            {
+              "name": "Casco Antiguo",
+              "tip_5lang": {
+                "de": "Frühstücken Sie in einer der Bars am Plaza del Ayuntamiento.",
+                "hu": "Reggelizzen a városháza melletti hangulatos kávézók egyikében.",
+                "ro": "Luați micul dejun la una dintre cafenelele din Plaza del Ayuntamiento.",
+                "en": "Have breakfast at one of the cozy cafes near the Town Hall."
+              }
+            },
+            {
+              "name": "Museo de la Carabela Pinta",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Replik des Schiffes, das Amerika entdeckte.",
+                "hu": "Látogasson el az Amerika felfedezését hírül hozó hajó másolatára.",
+                "ro": "Vizitați replica navei care a adus vestea descoperirii Americii.",
+                "en": "Visit the replica of the ship that brought the news of America's discovery."
+              }
+            },
+            {
+              "name": "Fortaleza de Monterreal",
+              "tip_5lang": {
+                "de": "Gehen Sie die 3 km lange Mauer entlang für tolle Ausblicke.",
+                "hu": "Sétáljon végig a 3 km hosszú várfalon a pazar kilátásért.",
+                "ro": "Mergeți de-a lungul zidului de 3 km pentru vederi spectaculoase.",
+                "en": "Walk along the 3 km long wall for spectacular ocean views."
+              }
+            },
+            {
+              "name": "Colegiata de Santa María",
+              "tip_5lang": {
+                "de": "Bewundern Sie die romanisch-gotische Architektur dieser Kirche.",
+                "hu": "Csodálja meg a templom román-gótikus építészeti jegyeit.",
+                "ro": "Admirați arhitectura romanico-gotică a acestei biserici vechi.",
+                "en": "Admire the Romanesque-Gothic architecture of this historic church."
+              }
+            },
+            {
+              "name": "Paseo de Monte Boi",
+              "tip_5lang": {
+                "de": "Ideal für ein Picknick oder ein Bad an den kleinen Buchten.",
+                "hu": "Ideális hely egy piknikhez vagy fürdéshez a kis öblökben.",
+                "ro": "Loc ideal pentru un picnic sau o baie în micile golfuri.",
+                "en": "Perfect spot for a picnic or a swim in the small hidden coves."
+              }
+            },
+            {
+              "name": "Monumento Encuentro mundos",
+              "tip_5lang": {
+                "de": "Ein modernes Denkmal zur Feier der Entdeckung Amerikas.",
+                "hu": "Modern emlékmű az Amerika-felfedezés emlékére.",
+                "ro": "Un monument modern care celebrează descoperirea Americii.",
+                "en": "A modern monument celebrating the discovery of America."
+              }
+            },
+            {
+              "name": "Virgen de la Roca",
+              "tip_5lang": {
+                "de": "Steigen Sie in das Boot in den Händen der Jungfrau Maria.",
+                "hu": "Másszon fel a Szűzanya kezében tartott kőhajóba a panorámáért.",
+                "ro": "Urcați în barca de piatră din mâinile Fecioarei pentru panoramă.",
+                "en": "Climb up into the stone boat in the Virgin's hands for the view."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Pulpo a feira",
+                "tip": "Probieren Sie den galicischen Oktopus in der Taberna de Pintos."
+              },
+              {
+                "name": "Zamburiñas",
+                "tip": "Kleine Jakobsmuscheln sind eine lokale Delikatesse im Restaurant Paco Casa."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Pulpo a feira",
+                "tip": "Kóstolja meg a galíciai polipot a Taberna de Pintos-ban."
+              },
+              {
+                "name": "Zamburiñas",
+                "tip": "A fésűkagyló helyi változata kötelező fogás a Paco Casa étteremben."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Pulpo a feira",
+                "tip": "Gustați caracatița galiciană la Taberna de Pintos."
+              },
+              {
+                "name": "Zamburiñas",
+                "tip": "Scoicile mici sunt o delicatesă locală la restaurantul Paco Casa."
+              }
+            ],
+            "en": [
+              {
+                "name": "Pulpo a feira",
+                "tip": "Try the authentic Galician octopus at Taberna de Pintos."
+              },
+              {
+                "name": "Zamburiñas",
+                "tip": "Small scallops are a local delicacy at Paco Casa restaurant."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Festungsmauern",
+                "tip": "Die Westseite der Mauer ist perfekt für den Sonnenuntergang.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Playa de los Frades",
+                "tip": "Ruhiger Strand unterhalb der Festung.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Várfalnyugalom",
+                "tip": "A várfal nyugati oldala tökéletes naplemente nézéséhez.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Playa de los Frades",
+                "tip": "Csendes kis strand közvetlenül az erőd tövében.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Zidurile cetății",
+                "tip": "Partea de vest a zidului este perfectă pentru apus.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Playa de los Frades",
+                "tip": "O plajă liniștită chiar sub zidurile fortăreței.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Fortress Walls",
+                "tip": "The west side of the wall is perfect for sunset watching.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Playa de los Frades",
+                "tip": "Quiet beach located right beneath the fortress walls.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Calle Elduayen",
+                "tip": "Hübsche Läden für lokales Kunsthandwerk und Mode."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Calle Elduayen",
+                "tip": "Kedves üzletek helyi kézműves termékekkel és divattal."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Calle Elduayen",
+                "tip": "Magazine drăguțe cu artizanat local și modă."
+              }
+            ],
+            "en": [
+              {
+                "name": "Calle Elduayen",
+                "tip": "Charming shops for local handicrafts and fashion."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Tragen Sie bequeme Schuhe für die Festungsmauern.",
+              "Reservieren Sie in der Hochsaison einen Tisch für das Mittagessen.",
+              "Der Sonnenuntergang bei der Virgen de la Roca ist magisch."
+            ],
+            "hu": [
+              "Viseljen kényelmes cipőt a várfalon való sétához.",
+              "Főszezonban érdemes előre asztalt foglalni az ebédhez.",
+              "A naplemente a Szikla Szűz szobránál felejthetetlen élmény."
+            ],
+            "ro": [
+              "Purtați încălțăminte confortabilă pentru plimbarea pe zidurile cetății.",
+              "Rezervați o masă pentru prânz în timpul sezonului de vârf.",
+              "Apusul la Virgen de la Roca este cu adevărat magic."
+            ],
+            "en": [
+              "Wear comfortable shoes for the walk on the fortress walls.",
+              "Book a table for lunch in advance during the high season.",
+              "The sunset at Virgen de la Roca is a magical experience."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag in den schmalen Gassen der Altstadt, die begrenzten Schutz vor dem galicischen Regen bieten. Mittags bietet das Carabela Pinta Museum einen perfekten, trockenen Zufluchtsort. Nachmittags erkunden Sie die Festung Monterreal; die hohen Mauern brechen den Wind, aber ein Regenschirm ist Pflicht. Der Abend endet bei der Virgen de la Roca, wo der Regen eine mystische Küstenatmosphäre schafft.",
+            "hu": "Kezdje a napot az óváros szűk utcáin, amelyek némi menedéket nyújtanak a galíciai eső elől. Délben a Karavella Múzeum tökéletes fedett programot kínál. Délután a Monterreal erőd falai között sétálhat, ahol a kőfalak védik a széltől, de az esernyő kötelező. Az este a szikla melletti Szűz szobornál zárul, ahol az eső misztikus hangulatot kölcsönöz az óceánparti látképnek.",
+            "ro": "Începeți ziua pe străzile înguste din orașul vechi, care oferă o protecție limitată împotriva ploii galiciene. La prânz, Muzeul Caravela Pinta este refugiul perfect la interior. După-amiaza, explorați fortăreața Monterreal; zidurile înalte sparg vântul, dar umbrela este obligatorie. Seara se încheie la Virgen de la Roca, unde ploaia creează o atmosferă mistică pe malul oceanului.",
+            "en": "Start the day in the narrow streets of the old town, offering some shelter from the Galician rain. At noon, the Carabela Pinta Museum provides a perfect dry escape. In the afternoon, explore the Monterreal Fortress; the high walls break the wind, but an umbrella is essential. The evening ends at the Virgin of the Rock, where the rain adds a mystic coastal atmosphere to the Atlantic view."
+          },
+          "stops": [
+            {
+              "name": "Casco Antiguo",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkaden und schmalen Gassen als natürlichen Regenschutz.",
+                "hu": "Használja az árkádokat és a szűk utcákat természetes esővédőként.",
+                "ro": "Folosiți arcadele și străzile înguste ca protecție naturală împotriva ploii.",
+                "en": "Use the arcades and narrow streets as natural rain shelter."
+              }
+            },
+            {
+              "name": "Museo de la Carabela Pinta",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um einen starken Regenschauer im Trockenen abzuwarten.",
+                "hu": "Ideális hely egy erősebb zápor szárazon történő átvészeléséhez.",
+                "ro": "Un loc ideal pentru a aștepta trecerea unei averse puternice la adăpost.",
+                "en": "An ideal place to wait out a heavy downpour in the dry."
+              }
+            },
+            {
+              "name": "Fortaleza de Monterreal",
+              "tip_5lang": {
+                "de": "Vorsicht auf den Mauern; bei Nässe können die Steinplatten rutschig sein.",
+                "hu": "Vigyázat a falakon; nedvesen a kőlapok csúszósak lehetnek.",
+                "ro": "Atenție pe ziduri; dalele de piatră pot fi alunecoase când sunt ude.",
+                "en": "Watch your step on the walls; stone slabs can be slippery when wet."
+              }
+            },
+            {
+              "name": "Colegiata de Santa María",
+              "tip_5lang": {
+                "de": "Bewundern Sie die gotische Architektur, während Sie im Inneren Schutz suchen.",
+                "hu": "Csodálja meg a gótikus építészetet, miközben bent keres menedéket.",
+                "ro": "Admirați arhitectura gotică în timp ce vă adăpostiți în interior.",
+                "en": "Admire the Gothic architecture while taking shelter inside."
+              }
+            },
+            {
+              "name": "Paseo de Monte Boi",
+              "tip_5lang": {
+                "de": "Tragen Sie wasserfeste Schuhe, da sich Pfützen auf dem Weg bilden können.",
+                "hu": "Viseljen vízálló cipőt, mert tócsák alakulhatnak ki az ösvényen.",
+                "ro": "Purtați încălțăminte impermeabilă, pot apărea bălți pe traseu.",
+                "en": "Wear waterproof shoes as puddles may form along the path."
+              }
+            },
+            {
+              "name": "Monumento Encuentro mundos",
+              "tip_5lang": {
+                "de": "Kurzer Stopp für Fotos; der Granit glänzt bei Regen besonders schön.",
+                "hu": "Rövid megálló fotózáshoz; a gránit esőben különösen szépen csillog.",
+                "ro": "Oprire scurtă pentru poze; granitul strălucește frumos în ploaie.",
+                "en": "Short stop for photos; the granite shines beautifully in the rain."
+              }
+            },
+            {
+              "name": "Virgen de la Roca",
+              "tip_5lang": {
+                "de": "Der Aufstieg zur Aussichtsplattform kann bei Wind und Regen fordernd sein.",
+                "hu": "A kilátóba való feljutás szélben és esőben embert próbáló lehet.",
+                "ro": "Urcarea spre platformă poate fi dificilă pe vânt și ploaie.",
+                "en": "Climbing to the viewing platform can be challenging in wind and rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein stabiler Regenschirm ist wegen des Küstenwinds besser als ein Knirps.",
+              "Galicischer Regen ('chuvia') gehört zur lokalen Erfahrung dazu.",
+              "Wasserdichte Wanderschuhe sind für die Festungsmauern unverzichtbar.",
+              "Kehren Sie in eine Taberna in der Altstadt ein, um sich aufzuwärmen."
+            ],
+            "hu": [
+              "A tengerparti szél miatt egy stabil esernyő jobb, mint az összecsukható.",
+              "A galíciai eső ('chuvia') a helyi élmény szerves része.",
+              "A vízálló túracipő elengedhetetlen az erőd falaihoz.",
+              "Térjen be egy óvárosi tabernába felmelegedni a séta után."
+            ],
+            "ro": [
+              "O umbrelă stabilă este mai bună decât una pliabilă din cauza vântului.",
+              "Ploaia galiciană ('chuvia') face parte din experiența locală.",
+              "Încălțămintea impermeabilă este indispensabilă pentru zidurile cetății.",
+              "Intrați într-o tavernă din orașul vechi pentru a vă încălzi."
+            ],
+            "en": [
+              "A sturdy umbrella is better than a travel one due to coastal winds.",
+              "Galician rain ('chuvia') is a quintessential part of the experience.",
+              "Waterproof hiking shoes are essential for the fortress walls.",
+              "Stop by a tavern in the old town to warm up after your walk."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Wintermorgen in Baiona sind frisch und klar, ideal für die Altstadt. Mittags wärmt die Sonne die Carabela Pinta am Hafen. Am Nachmittag bietet die Festung Monterreal weite Ausblicke über den stürmischen Atlantik. Da die Sonne bereits gegen 18:00 Uhr untergeht, erreichen Sie die Virgen de la Roca rechtzeitig zum dramatischen Dämmerlicht über den Cíes-Inseln.",
+            "hu": "A téli reggelek Baionában frissek és tiszták, ideálisak az óvárosi sétához. Délben a nap melengeti a kikötőben álló Karavellát. Délután a Monterreal erőd tágas kilátást nyújt a viharos Atlanti-óceánra. Mivel a nap már 18:00 körül lemegy, időben érkezik a szikla melletti Szűzhöz a Cíes-szigetek feletti drámai szürkületre.",
+            "ro": "Diminețile de iarnă în Baiona sunt proaspete și senine, ideale pentru orașul vechi. La prânz, soarele încălzește replica Caravela Pinta din port. După-amiaza, fortăreața Monterreal oferă priveliști vaste peste Atlanticul agitat. Deoarece soarele apune în jurul orei 18:00, ajungeți la Virgen de la Roca la timp pentru amurgul dramatic peste insulele Cíes.",
+            "en": "Winter mornings in Baiona are fresh and clear, ideal for exploring the old town. At noon, the sun warms the Carabela replica in the harbor. In the afternoon, the Monterreal Fortress offers expansive views over the stormy Atlantic. Since the sun sets around 18:00, you will reach the Virgin of the Rock just in time for the dramatic twilight over the Cíes Islands."
+          },
+          "stops": [
+            {
+              "name": "Casco Antiguo",
+              "tip_5lang": {
+                "de": "Genießen Sie die ruhige Atmosphäre abseits der sommerlichen Touristenmassen.",
+                "hu": "Élvezze a nyugodt hangulatot a nyári turistaáradat nélkül.",
+                "ro": "Bucurați-vă de atmosfera liniștită fără masele de turiști din vară.",
+                "en": "Enjoy the quiet atmosphere away from the summer tourist crowds."
+              }
+            },
+            {
+              "name": "Museo de la Carabela Pinta",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Winteröffnungszeiten, die oft kürzer als im Sommer sind.",
+                "hu": "Ellenőrizze a téli nyitvatartást, amely gyakran rövidebb, mint nyáron.",
+                "ro": "Verificați programul de iarnă, care este adesea mai scurt decât vara.",
+                "en": "Check winter opening hours, which are often shorter than in summer."
+              }
+            },
+            {
+              "name": "Fortaleza de Monterreal",
+              "tip_5lang": {
+                "de": "Tragen Sie eine winddichte Jacke; der Wind auf den Mauern ist im Winter kalt.",
+                "hu": "Viseljen szélálló kabátot; a falakon a szél télen hideg.",
+                "ro": "Purtați o jachetă rezistentă la vânt; briza pe ziduri e rece iarna.",
+                "en": "Wear a windproof jacket; the wind on the walls is cold in winter."
+              }
+            },
+            {
+              "name": "Colegiata de Santa María",
+              "tip_5lang": {
+                "de": "In den alten Steinkirchen kann es im Winter sehr kühl sein.",
+                "hu": "A régi kőtemplomokban télen nagyon hűvös lehet.",
+                "ro": "În bisericile vechi de piatră poate fi foarte răcoare iarna.",
+                "en": "It can be very chilly inside the old stone churches in winter."
+              }
+            },
+            {
+              "name": "Paseo de Monte Boi",
+              "tip_5lang": {
+                "de": "Bester Zeitpunkt für Fotos der tosenden Brandung des Winteratlantiks.",
+                "hu": "A legjobb időpont a téli Atlanti-óceán zúgó hullámainak fotózásához.",
+                "ro": "Cel mai bun moment pentru poze cu valurile agitate ale Atlanticului.",
+                "en": "Best time for photos of the crashing winter Atlantic surf."
+              }
+            },
+            {
+              "name": "Monumento Encuentro mundos",
+              "tip_5lang": {
+                "de": "Das Licht der tiefstehenden Wintersonne betont die Textur der Skulptur.",
+                "hu": "Az alacsonyan járó téli nap fénye kiemeli a szobor textúráját.",
+                "ro": "Lumina soarelui de iarnă subliniază textura sculpturii.",
+                "en": "The low winter sun highlights the texture of the sculpture."
+              }
+            },
+            {
+              "name": "Virgen de la Roca",
+              "tip_5lang": {
+                "de": "Planen Sie den Besuch vor 17:30 Uhr ein, um den Sonnenuntergang zu sehen.",
+                "hu": "Tervezze a látogatást 17:30 előttre, hogy lássa a naplementét.",
+                "ro": "Planificați vizita înainte de 17:30 pentru a prinde apusul.",
+                "en": "Plan your visit before 17:30 to catch the sunset."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Zwiebelprinzip bei der Kleidung: Windschutz ist wichtiger als dicke Isolierung.",
+              "Die Sonne geht früh unter (ca. 18:00), planen Sie Outdoor-Aktivitäten früh.",
+              "Probieren Sie lokale Meeresfrüchte, die im Winter besonders frisch sind.",
+              "Die Cíes-Inseln sind im Hintergrund oft besonders scharf zu sehen."
+            ],
+            "hu": [
+              "Réteges öltözködés: a szélvédelem fontosabb, mint a vastag hőszigetelés.",
+              "A nap korán nyugszik (kb. 18:00), tervezze korábbra a kinti programokat.",
+              "Kóstolja meg a tenger gyümölcseit, amik télen a legfrissebbek.",
+              "A Cíes-szigetek a háttérben gyakran tisztábban látszanak télen."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi: protecția contra vântului e vitală.",
+              "Soarele apune devreme (cca 18:00), planificați activitățile matinal.",
+              "Gustați fructele de mare locale, care sunt foarte proaspete iarna.",
+              "Insulele Cíes se văd adesea mult mai clar în fundal iarna."
+            ],
+            "en": [
+              "Dress in layers: wind protection is more important than heavy insulation.",
+              "The sun sets early (around 18:00), plan outdoor activities early.",
+              "Try local seafood, which is exceptionally fresh in winter.",
+              "The Cíes Islands are often visible with great clarity in winter air."
+            ]
+          }
+        }
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Paseo Marítimo",
+          "coords": [
+            -8.8475,
+            42.124
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Genießen Sie die flache Strecke entlang des Hafens.",
+            "hu": "Élvezze a sík terepet a kikötő mentén.",
+            "ro": "Bucurați-vă de traseul plat de-a lungul portului.",
+            "en": "Enjoy the flat route along the harbor front."
+          }
+        },
+        {
+          "name": "Puente de la Ramallosa",
+          "coords": [
+            -8.8255,
+            42.1155
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "10:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Diese mittelalterliche Brücke ist ein Muss für Fotos.",
+            "hu": "Ez a középkori híd kötelező fotópont a túrán.",
+            "ro": "Acest pod medieval este un punct obligatoriu pentru fotografii.",
+            "en": "This medieval bridge is a must-stop for photos."
+          }
+        },
+        {
+          "name": "Playa Ladeira",
+          "coords": [
+            -8.835,
+            42.119
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:30",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Der größte Strand von Baiona, perfekt für eine Pause.",
+            "hu": "Baiona legnagyobb strandja, tökéletes egy pihenőhöz.",
+            "ro": "Cea mai mare plajă din Baiona, perfectă pentru o pauză.",
+            "en": "The largest beach in Baiona, perfect for a break."
+          }
+        },
+        {
+          "name": "Fortaleza de Monterreal",
+          "coords": [
+            -8.8465,
+            42.1265
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Fahrräder müssen am Eingang geparkt werden.",
+            "hu": "A kerékpárokat a bejáratnál kell leparkolni.",
+            "ro": "Bicicletele trebuie parcate la intrare.",
+            "en": "Bicycles must be parked at the entrance."
+          }
+        },
+        {
+          "name": "Casco Antiguo",
+          "coords": [
+            -8.8492,
+            42.1225
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "15:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Zeit für Tapas in den engen Gassen.",
+            "hu": "Itt az idő egy kis tapasozásra a szűk utcákban.",
+            "ro": "E timpul pentru niște tapas pe străzile înguste.",
+            "en": "Time for some tapas in the narrow streets."
+          }
+        },
+        {
+          "name": "Virgen de la Roca",
+          "coords": [
+            -8.856,
+            42.1215
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "16:40",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Ein letzter Anstieg für den besten Ausblick.",
+            "hu": "Egy utolsó emelkedő a legjobb kilátásért.",
+            "ro": "O ultimă urcare pentru cea mai bună priveliște.",
+            "en": "One last climb for the best panoramic view."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Fahrrad erkunden Sie Baiona und seine Umgebung effizient. Die Tour führt vom Hafen über die Ladeira-Strände bis zur historischen Ramallosa-Brücke. Nach einer entspannten Fahrt kehren Sie zur Festung zurück und erkunden das historische Zentrum, bevor Sie den Tag mit dem Blick von der Virgen de la Roca krönen.",
+        "hu": "Kerékpárral Baiona és környéke kényelmesen felfedezhető. A túra a kikötőtől indul, érinti a Ladeira strandot és a középkori Ramallosa-hidat. A pihentető tekerés után visszatérünk az erődbe és az óvárosba, majd a napot a Szikla Szűz panorámájával zárjuk.",
+        "ro": "Cu bicicleta veți explora eficient Baiona și împrejurimile sale. Turul merge din port pe lângă plaja Ladeira până la podul medieval Ramallosa. După o plimbare relaxantă ne întoarcem la cetate și în centrul istoric, înainte de a încheia ziua cu panorama de la statuia Virgen de la Roca.",
+        "en": "Explore Baiona and its surroundings efficiently by bike. The route takes you from the harbor past Ladeira beach to the medieval Ramallosa bridge. After a relaxed ride, return to the fortress and the historic center before topping off the day with the view from Virgen de la Roca."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Empanada Gallega",
+            "tip": "Herzhafter Kuchen, ideal für den schnellen Hunger beim Radfahren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Empanada Gallega",
+            "tip": "Húsos vagy halas pite, tökéletes tízórai biciklizés közben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Empanada Gallega",
+            "tip": "Plăcintă sărată galiciană, ideală pentru o gustare rapidă pe bicicletă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Empanada Gallega",
+            "tip": "Savory Galician pie, perfect for a quick snack while cycling."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Marismas del Miñor",
+            "tip": "Vogelbeobachtung in den Feuchtgebieten bei Ramallosa.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Marismas del Miñor",
+            "tip": "Madármegfigyelés a Ramallosa melletti vizes élőhelyeken.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Marismas del Miñor",
+            "tip": "Observarea păsărilor în zonele umede de lângă Ramallosa.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Marismas del Miñor",
+            "tip": "Birdwatching in the wetlands near Ramallosa.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fischmarkt",
+            "tip": "Beobachten Sie das bunte Treiben am Vormittag."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Halpiac",
+            "tip": "Nézze meg a reggeli halpiac nyüzsgését a kikötőben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața de pește",
+            "tip": "Observați agitația de dimineață din port."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fish Market",
+            "tip": "Watch the morning hustle and bustle at the port market."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Der Radweg nach Ramallosa ist flach und sicher.",
+          "In der Altstadt ist Schieben oft besser wegen der Fußgänger.",
+          "Nutzen Sie ein Schloss, wenn Sie die Festung besuchen."
+        ],
+        "hu": [
+          "A Ramallosa felé vezető kerékpárút sík és biztonságos.",
+          "Az óvárosban érdemes tolni a biciklit a gyalogosok miatt.",
+          "Használjon lakatot, amíg az erődben sétál."
+        ],
+        "ro": [
+          "Pista de biciclete spre Ramallosa este plată și sigură.",
+          "În centrul vechi este mai bine să mergeți pe lângă bicicletă.",
+          "Folosiți un lacăt cât timp vizitați fortăreața."
+        ],
+        "en": [
+          "The bike path to Ramallosa is flat and safe.",
+          "In the old town, it's better to walk your bike due to pedestrians.",
+          "Use a lock while you are visiting the fortress on foot."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mit dem Fahrrad erkunden Sie Baiona und seine Umgebung effizient. Die Tour führt vom Hafen über die Ladeira-Strände bis zur historischen Ramallosa-Brücke. Nach einer entspannten Fahrt kehren Sie zur Festung zurück und erkunden das historische Zentrum, bevor Sie den Tag mit dem Blick von der Virgen de la Roca krönen.",
+            "hu": "Kerékpárral Baiona és környéke kényelmesen felfedezhető. A túra a kikötőtől indul, érinti a Ladeira strandot és a középkori Ramallosa-hidat. A pihentető tekerés után visszatérünk az erődbe és az óvárosba, majd a napot a Szikla Szűz panorámájával zárjuk.",
+            "ro": "Cu bicicleta veți explora eficient Baiona și împrejurimile sale. Turul merge din port pe lângă plaja Ladeira până la podul medieval Ramallosa. După o plimbare relaxantă ne întoarcem la cetate și în centrul istoric, înainte de a încheia ziua cu panorama de la statuia Virgen de la Roca.",
+            "en": "Explore Baiona and its surroundings efficiently by bike. The route takes you from the harbor past Ladeira beach to the medieval Ramallosa bridge. After a relaxed ride, return to the fortress and the historic center before topping off the day with the view from Virgen de la Roca."
+          },
+          "stops": [
+            {
+              "name": "Paseo Marítimo",
+              "tip_5lang": {
+                "de": "Genießen Sie die flache Strecke entlang des Hafens.",
+                "hu": "Élvezze a sík terepet a kikötő mentén.",
+                "ro": "Bucurați-vă de traseul plat de-a lungul portului.",
+                "en": "Enjoy the flat route along the harbor front."
+              }
+            },
+            {
+              "name": "Puente de la Ramallosa",
+              "tip_5lang": {
+                "de": "Diese mittelalterliche Brücke ist ein Muss für Fotos.",
+                "hu": "Ez a középkori híd kötelező fotópont a túrán.",
+                "ro": "Acest pod medieval este un punct obligatoriu pentru fotografii.",
+                "en": "This medieval bridge is a must-stop for photos."
+              }
+            },
+            {
+              "name": "Playa Ladeira",
+              "tip_5lang": {
+                "de": "Der größte Strand von Baiona, perfekt für eine Pause.",
+                "hu": "Baiona legnagyobb strandja, tökéletes egy pihenőhöz.",
+                "ro": "Cea mai mare plajă din Baiona, perfectă pentru o pauză.",
+                "en": "The largest beach in Baiona, perfect for a break."
+              }
+            },
+            {
+              "name": "Fortaleza de Monterreal",
+              "tip_5lang": {
+                "de": "Fahrräder müssen am Eingang geparkt werden.",
+                "hu": "A kerékpárokat a bejáratnál kell leparkolni.",
+                "ro": "Bicicletele trebuie parcate la intrare.",
+                "en": "Bicycles must be parked at the entrance."
+              }
+            },
+            {
+              "name": "Casco Antiguo",
+              "tip_5lang": {
+                "de": "Zeit für Tapas in den engen Gassen.",
+                "hu": "Itt az idő egy kis tapasozásra a szűk utcákban.",
+                "ro": "E timpul pentru niște tapas pe străzile înguste.",
+                "en": "Time for some tapas in the narrow streets."
+              }
+            },
+            {
+              "name": "Virgen de la Roca",
+              "tip_5lang": {
+                "de": "Ein letzter Anstieg für den besten Ausblick.",
+                "hu": "Egy utolsó emelkedő a legjobb kilátásért.",
+                "ro": "O ultimă urcare pentru cea mai bună priveliște.",
+                "en": "One last climb for the best panoramic view."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Empanada Gallega",
+                "tip": "Herzhafter Kuchen, ideal für den schnellen Hunger beim Radfahren."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Empanada Gallega",
+                "tip": "Húsos vagy halas pite, tökéletes tízórai biciklizés közben."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Empanada Gallega",
+                "tip": "Plăcintă sărată galiciană, ideală pentru o gustare rapidă pe bicicletă."
+              }
+            ],
+            "en": [
+              {
+                "name": "Empanada Gallega",
+                "tip": "Savory Galician pie, perfect for a quick snack while cycling."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Marismas del Miñor",
+                "tip": "Vogelbeobachtung in den Feuchtgebieten bei Ramallosa.",
+                "emoji": "🍃"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Marismas del Miñor",
+                "tip": "Madármegfigyelés a Ramallosa melletti vizes élőhelyeken.",
+                "emoji": "🍃"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Marismas del Miñor",
+                "tip": "Observarea păsărilor în zonele umede de lângă Ramallosa.",
+                "emoji": "🍃"
+              }
+            ],
+            "en": [
+              {
+                "name": "Marismas del Miñor",
+                "tip": "Birdwatching in the wetlands near Ramallosa.",
+                "emoji": "🍃"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Fischmarkt",
+                "tip": "Beobachten Sie das bunte Treiben am Vormittag."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Halpiac",
+                "tip": "Nézze meg a reggeli halpiac nyüzsgését a kikötőben."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Piața de pește",
+                "tip": "Observați agitația de dimineață din port."
+              }
+            ],
+            "en": [
+              {
+                "name": "Fish Market",
+                "tip": "Watch the morning hustle and bustle at the port market."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Der Radweg nach Ramallosa ist flach und sicher.",
+              "In der Altstadt ist Schieben oft besser wegen der Fußgänger.",
+              "Nutzen Sie ein Schloss, wenn Sie die Festung besuchen."
+            ],
+            "hu": [
+              "A Ramallosa felé vezető kerékpárút sík és biztonságos.",
+              "Az óvárosban érdemes tolni a biciklit a gyalogosok miatt.",
+              "Használjon lakatot, amíg az erődben sétál."
+            ],
+            "ro": [
+              "Pista de biciclete spre Ramallosa este plată și sigură.",
+              "În centrul vechi este mai bine să mergeți pe lângă bicicletă.",
+              "Folosiți un lacăt cât timp vizitați fortăreața."
+            ],
+            "en": [
+              "The bike path to Ramallosa is flat and safe.",
+              "In the old town, it's better to walk your bike due to pedestrians.",
+              "Use a lock while you are visiting the fortress on foot."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour am Paseo Marítimo erfordert bei Regen gute Kleidung, bietet aber freie Wege. Mittags ist die Brücke von Ramallosa besonders atmosphärisch, wenn der Nebel über dem Fluss steht. Der Strand Ladeira ist menschenleer und wild. Nachmittags kehren Sie zur Festung zurück, wo die asphaltierten Wege sichereres Fahren als die Waldpfade ermöglichen.",
+            "hu": "A Paseo Marítimo menti kerékpározás esőben jó felszerelést igényel, de cserébe üres utakat kínál. Délben a Ramallosa híd különösen hangulatos a folyó feletti ködben. A Ladeira strand ilyenkor néptelen és vad. Délután térjen vissza az erődhöz, ahol az aszfaltozott utak biztonságosabbak, mint az erdei ösvények.",
+            "ro": "O plimbare cu bicicleta pe Paseo Marítimo necesită echipament bun pe ploaie, dar oferă piste libere. La prânz, podul Ramallosa este atmosferic cu ceața peste râu. Plaja Ladeira este pustie și sălbatică. După-amiaza reveniți la cetate, unde drumurile asfaltate sunt mai sigure decât potecile.",
+            "en": "Cycling along the Paseo Marítimo in the rain requires good gear but offers empty paths. At noon, the Ramallosa Bridge is especially atmospheric with mist over the river. Ladeira Beach is deserted and wild. In the afternoon, return to the fortress, where paved paths offer safer riding than forest trails."
+          },
+          "stops": [
+            {
+              "name": "Paseo Marítimo",
+              "tip_5lang": {
+                "de": "Achten Sie auf Pfützen; die Uferpromenade kann bei starkem Regen fluten.",
+                "hu": "Vigyázzon a tócsákra; a sétány erős esőben víz alá kerülhet.",
+                "ro": "Atenție la bălți; faleza se poate inunda la ploi torențiale.",
+                "en": "Watch out for puddles; the promenade can flood during heavy rain."
+              }
+            },
+            {
+              "name": "Puente de la Ramallosa",
+              "tip_5lang": {
+                "de": "Die mittelalterlichen Steine sind bei Nässe extrem rutschig für Reifen.",
+                "hu": "A középkori kövek nedvesen rendkívül csúszósak a gumiknak.",
+                "ro": "Pietrele medievale sunt extrem de alunecoase pentru anvelope când sunt ude.",
+                "en": "Medieval stones are extremely slippery for tires when wet."
+              }
+            },
+            {
+              "name": "Playa Ladeira",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Radwege abseits des Sandes, um nicht steckenzubleiben.",
+                "hu": "Használja a homoktól távolabbi kerékpárutakat, hogy ne akadjon el.",
+                "ro": "Folosiți pistele de biciclete departe de nisip pentru a nu rămâne blocat.",
+                "en": "Use the bike paths away from the sand to avoid getting stuck."
+              }
+            },
+            {
+              "name": "Fortaleza de Monterreal",
+              "tip_5lang": {
+                "de": "Steile Anstiege erfordern gute Traktion auf nassem Untergrund.",
+                "hu": "A meredek emelkedők jó tapadást igényelnek a nedves talajon.",
+                "ro": "Urcările abrupte necesită tracțiune bună pe suprafața umedă.",
+                "en": "Steep climbs require good traction on the wet surface."
+              }
+            },
+            {
+              "name": "Casco Antiguo",
+              "tip_5lang": {
+                "de": "Schieben Sie das Rad in den engsten Gassen, um Unfälle zu vermeiden.",
+                "hu": "Tolja a biciklit a legszűkebb utcákban a balesetek elkerülésére.",
+                "ro": "Împingeți bicicleta pe străzile foarte înguste pentru a evita accidentele.",
+                "en": "Walk your bike in the narrowest streets to avoid accidents."
+              }
+            },
+            {
+              "name": "Virgen de la Roca",
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen vor der Abfahrt von der Anhöhe.",
+                "hu": "Ellenőrizze a fékeit, mielőtt legurul a dombról.",
+                "ro": "Verificați frânele înainte de a coborî de pe colină.",
+                "en": "Check your brakes before descending from the hill."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Verwenden Sie unbedingt Schutzbleche gegen das Spritzwasser.",
+              "Vermeiden Sie abruptes Bremsen auf Kopfsteinpflaster.",
+              "Wasserdichte Handschuhe halten die Hände bei der Fahrt warm.",
+              "Planen Sie mehr Zeit für die Strecke ein, da man langsamer fährt."
+            ],
+            "hu": [
+              "Mindenképpen használjon sárvédőt a felcsapódó víz ellen.",
+              "Kerülje a hirtelen fékezést a macskaköves szakaszokon.",
+              "A vízálló kesztyű melegen tartja a kezét tekerés közben.",
+              "Tervezzen több időt az útra, mert lassabban lehet haladni."
+            ],
+            "ro": [
+              "Folosiți neapărat aripi de protecție împotriva stropilor.",
+              "Evitați frânarea bruscă pe porțiunile cu piatră cubică.",
+              "Mănușile impermeabile vă vor ține mâinile calde în timpul mersului.",
+              "Planificați mai mult timp, deoarece se înaintează mai greu."
+            ],
+            "en": [
+              "Be sure to use mudguards against road spray.",
+              "Avoid sudden braking on cobblestone sections.",
+              "Waterproof gloves will keep your hands warm while riding.",
+              "Allow more time for the route as travel will be slower."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radfahren in Baiona ist erfrischend. Der Paseo Marítimo bietet freien Blick auf die Brandung. Mittags erreichen Sie die Ramallosa-Brücke, wo das Licht der Wintersonne perfekt für Fotos ist. Der Nachmittag an der Festung Monterreal ist windig, aber die Sicht ist oft besser als im Sommer. Beenden Sie die Tour vor Einbruch der Dunkelheit an der Virgen de la Roca.",
+            "hu": "A téli kerékpározás Baionában frissítő élmény. A Paseo Marítimo zavartalan kilátást nyújt a hullámverésre. Délben éri el a Ramallosa-hidat, ahol a téli nap fénye tökéletes a fotózáshoz. A délután a Monterreal erődnél szeles, de a kilátás gyakran tisztább, mint nyáron. Fejezze be a túrát sötétedés előtt a szikla melletti Szűznél.",
+            "ro": "Ciclismul de iarnă în Baiona este revigorant. Paseo Marítimo oferă vedere clară spre valuri. La prânz ajungeți la podul Ramallosa, unde lumina iernii e perfectă pentru poze. După-amiaza la cetate este vântos, dar vizibilitatea e adesea mai bună ca vara. Încheiați turul înainte de lăsarea întunericului la Virgen de la Roca.",
+            "en": "Winter cycling in Baiona is refreshing. The Paseo Marítimo offers unobstructed views of the surf. At noon, you reach the Ramallosa Bridge, where the winter sun is perfect for photos. The afternoon at the Monterreal Fortress is windy, but visibility is often better than in summer. Finish the tour before dark at the Virgin of the Rock."
+          },
+          "stops": [
+            {
+              "name": "Paseo Marítimo",
+              "tip_5lang": {
+                "de": "Nutzen Sie das klare Wetter für Panoramabilder der Bucht.",
+                "hu": "Használja ki a tiszta időt az öböl panorámaképeihez.",
+                "ro": "Profități de vremea senină pentru fotografii panoramice ale golfului.",
+                "en": "Take advantage of the clear weather for panoramic bay photos."
+              }
+            },
+            {
+              "name": "Puente de la Ramallosa",
+              "tip_5lang": {
+                "de": "Die tiefstehende Sonne kann beim Überqueren der Brücke blenden.",
+                "hu": "Az alacsonyan járó nap elvakíthat a hídon való átkeléskor.",
+                "ro": "Soarele jos vă poate orbi la traversarea podului.",
+                "en": "The low sun can be blinding when crossing the bridge."
+              }
+            },
+            {
+              "name": "Playa Ladeira",
+              "tip_5lang": {
+                "de": "Ideal für eine Pause, wenn der Wind nicht zu stark von See weht.",
+                "hu": "Ideális egy pihenőre, ha a szél nem túl erős a tenger felől.",
+                "ro": "Ideal pentru o pauză dacă vântul nu bate prea tare dinspre mare.",
+                "en": "Ideal for a break if the wind isn't too strong from the sea."
+              }
+            },
+            {
+              "name": "Fortaleza de Monterreal",
+              "tip_5lang": {
+                "de": "Starke Böen am äußeren Ringweg; halten Sie den Lenker gut fest.",
+                "hu": "Erős széllökések a külső körúton; fogja erősen a kormányt.",
+                "ro": "Rafale puternice pe drumul exterior; țineți bine de ghidon.",
+                "en": "Strong gusts on the outer ring road; hold the handlebars firmly."
+              }
+            },
+            {
+              "name": "Casco Antiguo",
+              "tip_5lang": {
+                "de": "Ein heißer Kaffee in einer der Bars ist der ideale Zwischenstopp.",
+                "hu": "Egy forró kávé az egyik bárban ideális pihenőhely.",
+                "ro": "O cafea fierbinte într-unul din baruri este oprirea ideală.",
+                "en": "A hot coffee in one of the bars is the perfect pit stop."
+              }
+            },
+            {
+              "name": "Virgen de la Roca",
+              "tip_5lang": {
+                "de": "Denken Sie an funktionierende Lichter für die Rückfahrt im Dunkeln.",
+                "hu": "Gondoskodjon működő lámpákról a sötétben való visszatéréshez.",
+                "ro": "Asigurați-vă că aveți lumini funcționale pentru întoarcerea pe întuneric.",
+                "en": "Ensure you have working lights for the return trip in the dark."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Licht ist ab 17:30 Uhr aufgrund der frühen Dämmerung Pflicht.",
+              "Trinken Sie genug, auch wenn Sie bei Kälte weniger Durst verspüren.",
+              "Eine winddichte Weste schützt den Oberkörper vor Auskühlung.",
+              "Achten Sie auf Raureif an schattigen Stellen am Morgen."
+            ],
+            "hu": [
+              "A korai szürkület miatt 17:30-tól kötelező a világítás.",
+              "Igyon eleget, még ha a hidegben kevésbé is érzi szomjasnak magát.",
+              "Egy szélálló mellény megvédi a felsőtestet a kihűléstől.",
+              "Reggelente figyeljen a zúzmarás részekre az árnyékos helyeken."
+            ],
+            "ro": [
+              "Luminile sunt obligatorii de la 17:30 din cauza amurgului timpuriu.",
+              "Beți suficiente lichide, chiar dacă senzația de sete e mai mică.",
+              "O vestă anti-vânt protejează corpul de răcire.",
+              "Atenție la porțiunile cu polei în locurile umbrite dimineața."
+            ],
+            "en": [
+              "Lights are mandatory from 17:30 due to early twilight.",
+              "Stay hydrated even if you feel less thirsty in the cold.",
+              "A windproof vest protects your core from cooling down.",
+              "Watch out for frost in shaded areas during the morning."
+            ]
+          }
+        }
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 25.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Cabo Silleiro",
+          "coords": [
+            -8.895,
+            42.11
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "09:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Atemberaubender Leuchtturm mit Blick auf die offene See.",
+            "hu": "Lenyűgöző világítótorony nyílt tengeri panorámával.",
+            "ro": "Far spectaculos cu vedere la marea deschisă.",
+            "en": "Stunning lighthouse with views over the open sea."
+          }
+        },
+        {
+          "name": "Virgen de la Roca",
+          "coords": [
+            -8.856,
+            42.1215
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:20",
+          "stay_min": 50,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Kostenloser Parkplatz direkt am Monument.",
+            "hu": "Ingyenes parkoló közvetlenül az emlékműnél.",
+            "ro": "Parcare gratuită chiar lângă monument.",
+            "en": "Free parking available right next to the monument."
+          }
+        },
+        {
+          "name": "Fortaleza de Monterreal",
+          "coords": [
+            -8.8465,
+            42.1265
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:25",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Man kann in das Hotel (Parador) hineinfahren zum Parken.",
+            "hu": "A vár területén belül, a Paradornál is lehet parkolni.",
+            "ro": "Se poate intra cu mașina în incinta cetății pentru parcare.",
+            "en": "You can drive inside the fortress to park at the Parador."
+          }
+        },
+        {
+          "name": "Museo de la Carabela Pinta",
+          "coords": [
+            -8.8475,
+            42.1242
+          ],
+          "category": "museums",
+          "arrive_at": "13:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Nutzen Sie das Parkhaus am Hafen.",
+            "hu": "Használja a kikötői mélygarázst.",
+            "ro": "Folosiți parcarea subterană din port.",
+            "en": "Use the underground parking lot at the harbor."
+          }
+        },
+        {
+          "name": "Puente de la Ramallosa",
+          "coords": [
+            -8.8255,
+            42.1155
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "15:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie danach den nahegelegenen Strand Playa América.",
+            "hu": "Látogasson el a közeli Playa América strandra is.",
+            "ro": "Vizitați și plaja Playa América din apropiere.",
+            "en": "Visit the nearby Playa América beach afterwards."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erreichen Sie auch die entlegeneren Highlights wie das Cabo Silleiro. Nach dem wilden Kap besuchen wir die Virgen de la Roca und die Festung Monterreal. Der Nachmittag endet entspannt an der Ramallosa-Brücke und den weiten Sandstränden der Playa América, bevor es zurück ins Zentrum geht.",
+        "hu": "Autóval a távolabbi látnivalók, mint a Cabo Silleiro világítótorony is elérhetőek. A vad tengerpart után a Szikla Szűz és a Monterreal erőd következik. A délutánt a Ramallosa-hídnál és a Playa América végtelen homokos strandján zárjuk, tökéletes kényelemben.",
+        "ro": "Cu mașina puteți ajunge la atracții mai îndepărtate, cum ar fi farul Cabo Silleiro. După capul sălbatic, vizităm Virgen de la Roca și cetatea Monterreal. După-amiaza se încheie relaxat la podul Ramallosa și pe plajele întinse de la Playa América.",
+        "en": "By car, you can reach more distant highlights like the Cabo Silleiro lighthouse. After the wild coast, we visit Virgen de la Roca and the Monterreal fortress. The afternoon ends relaxingly at the Ramallosa bridge and the vast sandy beaches of Playa América."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Chuletón de buey",
+            "tip": "Für Fleischliebhaber ist das Restaurant El Mosquito hervorragend."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Chuletón de buey",
+            "tip": "A húsimádóknak az El Mosquito étterem a legjobb választás."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chuletón de buey",
+            "tip": "Pentru iubitorii de carne, restaurantul El Mosquito este excelent."
+          }
+        ],
+        "en": [
+          {
+            "name": "Chuletón de buey",
+            "tip": "For meat lovers, El Mosquito restaurant is an excellent choice."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Mirador de Silleiro",
+            "tip": "Panoramablick über die Rias Baixas.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Silleiro kilátó",
+            "tip": "Panoráma a Rias Baixas öblökre.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mirador de Silleiro",
+            "tip": "Vedere panoramică peste Rias Baixas.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Silleiro Viewpoint",
+            "tip": "Panoramic view over the Rias Baixas bays.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Zentrum von Baiona",
+            "tip": "Lokaler Wein und Konserven sind tolle Mitbringsel."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Baiona belváros",
+            "tip": "A helyi borok és halkonzervek nagyszerű ajándékok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul Baiona",
+            "tip": "Vinul local și conservele de pește sunt suveniruri grozave."
+          }
+        ],
+        "en": [
+          {
+            "name": "Baiona Center",
+            "tip": "Local wine and canned seafood are great souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken ist im Sommer im Zentrum schwierig, nutzen Sie Parkhäuser.",
+          "Die Küstenstraße nach Silleiro ist sehr kurvig, aber schön.",
+          "Achten Sie auf die Einbahnstraßen in der Altstadt."
+        ],
+        "hu": [
+          "Nyáron nehéz parkolni a központban, használja a mélygarázsokat.",
+          "A Silleiro felé vezető út kanyargós, de gyönyörű.",
+          "Figyeljen az óvárosi egyirányú utcákra."
+        ],
+        "ro": [
+          "Parcarea este dificilă vara în centru, folosiți parcările etajate.",
+          "Drumul de coastă spre Silleiro este sinuos, dar pitoresc.",
+          "Atenție la străzile cu sens unic din centrul vechi."
+        ],
+        "en": [
+          "Parking is difficult in summer, use underground parking lots.",
+          "The coastal road to Silleiro is winding but beautiful.",
+          "Watch out for one-way streets in the historic center."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erreichen Sie auch die entlegeneren Highlights wie das Cabo Silleiro. Nach dem wilden Kap besuchen wir die Virgen de la Roca und die Festung Monterreal. Der Nachmittag endet entspannt an der Ramallosa-Brücke und den weiten Sandstränden der Playa América, bevor es zurück ins Zentrum geht.",
+            "hu": "Autóval a távolabbi látnivalók, mint a Cabo Silleiro világítótorony is elérhetőek. A vad tengerpart után a Szikla Szűz és a Monterreal erőd következik. A délutánt a Ramallosa-hídnál és a Playa América végtelen homokos strandján zárjuk, tökéletes kényelemben.",
+            "ro": "Cu mașina puteți ajunge la atracții mai îndepărtate, cum ar fi farul Cabo Silleiro. După capul sălbatic, vizităm Virgen de la Roca și cetatea Monterreal. După-amiaza se încheie relaxat la podul Ramallosa și pe plajele întinse de la Playa América.",
+            "en": "By car, you can reach more distant highlights like the Cabo Silleiro lighthouse. After the wild coast, we visit Virgen de la Roca and the Monterreal fortress. The afternoon ends relaxingly at the Ramallosa bridge and the vast sandy beaches of Playa América."
+          },
+          "stops": [
+            {
+              "name": "Cabo Silleiro",
+              "tip_5lang": {
+                "de": "Atemberaubender Leuchtturm mit Blick auf die offene See.",
+                "hu": "Lenyűgöző világítótorony nyílt tengeri panorámával.",
+                "ro": "Far spectaculos cu vedere la marea deschisă.",
+                "en": "Stunning lighthouse with views over the open sea."
+              }
+            },
+            {
+              "name": "Virgen de la Roca",
+              "tip_5lang": {
+                "de": "Kostenloser Parkplatz direkt am Monument.",
+                "hu": "Ingyenes parkoló közvetlenül az emlékműnél.",
+                "ro": "Parcare gratuită chiar lângă monument.",
+                "en": "Free parking available right next to the monument."
+              }
+            },
+            {
+              "name": "Fortaleza de Monterreal",
+              "tip_5lang": {
+                "de": "Man kann in das Hotel (Parador) hineinfahren zum Parken.",
+                "hu": "A vár területén belül, a Paradornál is lehet parkolni.",
+                "ro": "Se poate intra cu mașina în incinta cetății pentru parcare.",
+                "en": "You can drive inside the fortress to park at the Parador."
+              }
+            },
+            {
+              "name": "Museo de la Carabela Pinta",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Parkhaus am Hafen.",
+                "hu": "Használja a kikötői mélygarázst.",
+                "ro": "Folosiți parcarea subterană din port.",
+                "en": "Use the underground parking lot at the harbor."
+              }
+            },
+            {
+              "name": "Puente de la Ramallosa",
+              "tip_5lang": {
+                "de": "Besuchen Sie danach den nahegelegenen Strand Playa América.",
+                "hu": "Látogasson el a közeli Playa América strandra is.",
+                "ro": "Vizitați și plaja Playa América din apropiere.",
+                "en": "Visit the nearby Playa América beach afterwards."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Chuletón de buey",
+                "tip": "Für Fleischliebhaber ist das Restaurant El Mosquito hervorragend."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Chuletón de buey",
+                "tip": "A húsimádóknak az El Mosquito étterem a legjobb választás."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Chuletón de buey",
+                "tip": "Pentru iubitorii de carne, restaurantul El Mosquito este excelent."
+              }
+            ],
+            "en": [
+              {
+                "name": "Chuletón de buey",
+                "tip": "For meat lovers, El Mosquito restaurant is an excellent choice."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Mirador de Silleiro",
+                "tip": "Panoramablick über die Rias Baixas.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Silleiro kilátó",
+                "tip": "Panoráma a Rias Baixas öblökre.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Mirador de Silleiro",
+                "tip": "Vedere panoramică peste Rias Baixas.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Silleiro Viewpoint",
+                "tip": "Panoramic view over the Rias Baixas bays.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Zentrum von Baiona",
+                "tip": "Lokaler Wein und Konserven sind tolle Mitbringsel."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Baiona belváros",
+                "tip": "A helyi borok és halkonzervek nagyszerű ajándékok."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Centrul Baiona",
+                "tip": "Vinul local și conservele de pește sunt suveniruri grozave."
+              }
+            ],
+            "en": [
+              {
+                "name": "Baiona Center",
+                "tip": "Local wine and canned seafood are great souvenirs."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Parken ist im Sommer im Zentrum schwierig, nutzen Sie Parkhäuser.",
+              "Die Küstenstraße nach Silleiro ist sehr kurvig, aber schön.",
+              "Achten Sie auf die Einbahnstraßen in der Altstadt."
+            ],
+            "hu": [
+              "Nyáron nehéz parkolni a központban, használja a mélygarázsokat.",
+              "A Silleiro felé vezető út kanyargós, de gyönyörű.",
+              "Figyeljen az óvárosi egyirányú utcákra."
+            ],
+            "ro": [
+              "Parcarea este dificilă vara în centru, folosiți parcările etajate.",
+              "Drumul de coastă spre Silleiro este sinuos, dar pitoresc.",
+              "Atenție la străzile cu sens unic din centrul vechi."
+            ],
+            "en": [
+              "Parking is difficult in summer, use underground parking lots.",
+              "The coastal road to Silleiro is winding but beautiful.",
+              "Watch out for one-way streets in the historic center."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist Cabo Silleiro bei Regen ein Erlebnis; die Wellen schlagen dramatisch gegen die Felsen. Die Fahrt zur Virgen de la Roca bietet auch bei schlechtem Wetter Komfort. Mittags ist die Festung Monterreal gut erreichbar, da Parkplätze nah am Eingang liegen. Den Nachmittag verbringen Sie im Museum der Carabela Pinta, sicher geschützt vor dem galicischen Wetter.",
+            "hu": "Autóval a Silleiro-fok esőben is élmény; a hullámok drámaian csapkodják a sziklákat. A szikla melletti Szűzhöz vezető út rossz időben is kényelmes. Délben a Monterreal erőd könnyen elérhető, a parkolók közel vannak a bejárathoz. A délutánt a Karavella Múzeumban töltheti, biztonságban a galíciai időjárástól.",
+            "ro": "Cu mașina, Cabo Silleiro e o experiență pe ploaie; valurile se izbesc dramatic de stânci. Drumul spre Virgen de la Roca e confortabil și pe vreme rea. La prânz, cetatea Monterreal e ușor accesibilă cu parcări aproape de intrare. După-amiaza o petreceți la Muzeul Caravela Pinta, protejați de vremea galiciană.",
+            "en": "By car, Cabo Silleiro is an experience in the rain; waves crash dramatically against the rocks. The drive to the Virgin of the Rock remains comfortable even in bad weather. At noon, the Monterreal Fortress is easily accessible with parking near the entrance. Spend the afternoon at the Carabela Pinta Museum, safe from the Galician weather."
+          },
+          "stops": [
+            {
+              "name": "Cabo Silleiro",
+              "tip_5lang": {
+                "de": "Bleiben Sie bei Sturm im Auto und genießen Sie die Sicht vom Parkplatz.",
+                "hu": "Vihar esetén maradjon az autóban, és élvezze a kilátást a parkolóból.",
+                "ro": "Rămâneți în mașină în caz de furtună și admirați vederea din parcare.",
+                "en": "Stay in the car during storms and enjoy the view from the parking lot."
+              }
+            },
+            {
+              "name": "Virgen de la Roca",
+              "tip_5lang": {
+                "de": "Der Parkplatz ist nah; nutzen Sie Regenpausen für einen kurzen Sprint.",
+                "hu": "A parkoló közeli; használja ki az esőszüneteket egy rövid futásra.",
+                "ro": "Parcarea e aproape; profitați de pauzele de ploaie pentru o vizită scurtă.",
+                "en": "Parking is close by; use rain breaks for a quick dash to the statue."
+              }
+            },
+            {
+              "name": "Fortaleza de Monterreal",
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf den gepflasterten Zufahrtswegen der Festung.",
+                "hu": "Vezessen óvatosan az erőd macskaköves bekötőútjain.",
+                "ro": "Conduceți cu prudență pe drumurile pavate de acces spre cetate.",
+                "en": "Drive carefully on the cobblestone access roads to the fortress."
+              }
+            },
+            {
+              "name": "Museo de la Carabela Pinta",
+              "tip_5lang": {
+                "de": "Nahegelegene Parkhäuser bieten trockenen Zugang zum Hafenbereich.",
+                "hu": "A közeli parkolóházak száraz hozzáférést biztosítanak a kikötőhöz.",
+                "ro": "Parcările subterane din apropiere oferă acces uscat spre port.",
+                "en": "Nearby parking garages offer dry access to the harbor area."
+              }
+            },
+            {
+              "name": "Puente de la Ramallosa",
+              "tip_5lang": {
+                "de": "Bei starkem Regen kann die Sicht auf die Brücke eingeschränkt sein.",
+                "hu": "Heves esőben a kilátás a hídra korlátozott lehet.",
+                "ro": "La ploi torențiale vizibilitatea spre pod poate fi limitată.",
+                "en": "In heavy rain, visibility of the bridge may be limited."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Aquaplaning auf der Küstenstraße PO-552.",
+              "Halten Sie die Scheiben beschlagfrei für optimale Sicht auf das Meer.",
+              "Ein Regenschirm im Kofferraum ist für die kurzen Wege Pflicht.",
+              "Nutzen Sie Park-Apps, um das Bezahlen im Regen zu vermeiden."
+            ],
+            "hu": [
+              "Figyeljen az aquaplaningre a PO-552-es parti úton.",
+              "Tartsa páramentesen a szélvédőt a tengeri kilátás érdekében.",
+              "A csomagtartóban tartott esernyő kötelező a rövid sétákhoz.",
+              "Használjon parkolási appot, hogy ne kelljen az esőben fizetni."
+            ],
+            "ro": [
+              "Atenție la acvaplanare pe drumul de coastă PO-552.",
+              "Păstrați parbrizul dezaburit pentru vizibilitate optimă spre mare.",
+              "O umbrelă în portbagaj este obligatorie pentru distanțele scurte.",
+              "Folosiți aplicații de parcare pentru a evita plata în ploaie."
+            ],
+            "en": [
+              "Watch out for aquaplaning on the PO-552 coastal road.",
+              "Keep your windshield clear for optimal sea views.",
+              "A trunk umbrella is a must for short walks to the sights.",
+              "Use parking apps to avoid paying at machines in the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Winterfahrt entlang der Küste von Cabo Silleiro ist spektakulär und bietet klare Sicht auf den Horizont. Mittags liegt die Festung Monterreal friedlich in der Wintersonne. Der Besuch der Carabela Pinta im Hafen lässt sich perfekt mit einem warmen Essen in der Nähe verbinden. Zum Abschluss bietet die Fahrt zur Virgen de la Roca den besten Platz für den frühen Sonnenuntergang.",
+            "hu": "A téli autózás a Silleiro-fok mentén látványos, tiszta kilátást nyújt a horizontra. Délben a Monterreal erőd békésen fürdik a téli napsütésben. A kikötői Karavella-látogatás tökéletesen összeköthető egy közeli meleg ebéddel. Végezetül a szikla melletti Szűzhöz vezető út kínálja a legjobb helyet a korai naplementéhez.",
+            "ro": "Drumul de iarnă pe coastă la Cabo Silleiro este spectaculos și oferă vederi clare spre orizont. La prânz, cetatea Monterreal stă liniștită sub soarele iernii. Vizita la Caravela Pinta din port se poate combina cu un prânz cald în apropiere. La final, drumul spre Virgen de la Roca oferă cel mai bun loc pentru apusul devreme.",
+            "en": "The winter drive along the coast at Cabo Silleiro is spectacular, offering clear views of the horizon. At noon, the Monterreal Fortress lies peaceful in the winter sun. A visit to the Carabela replica in the harbor pairs perfectly with a warm lunch nearby. Finally, the drive to the Virgin of the Rock offers the best spot for the early sunset."
+          },
+          "stops": [
+            {
+              "name": "Cabo Silleiro",
+              "tip_5lang": {
+                "de": "Das Licht am Morgen ist hier perfekt für Landschaftsfotografie.",
+                "hu": "A reggeli fények itt tökéletesek a tájfotózáshoz.",
+                "ro": "Lumina dimineții este perfectă aici pentru fotografii de peisaj.",
+                "en": "Morning light here is perfect for landscape photography."
+              }
+            },
+            {
+              "name": "Virgen de la Roca",
+              "tip_5lang": {
+                "de": "Die Parkplätze sind im Winter leerer; beste Sicht ohne Gedränge.",
+                "hu": "A parkolók télen üresebbek; legjobb kilátás tömeg nélkül.",
+                "ro": "Parcările sunt mai libere iarna; cea mai bună vedere fără aglomerație.",
+                "en": "Parking lots are emptier in winter; best views without crowds."
+              }
+            },
+            {
+              "name": "Fortaleza de Monterreal",
+              "tip_5lang": {
+                "de": "Nutzen Sie den PKW-Rundweg innerhalb der Festungsmauern.",
+                "hu": "Használja ki a várfalakon belüli autós körutat.",
+                "ro": "Folosiți drumul circular pentru mașini din interiorul zidurilor cetății.",
+                "en": "Take advantage of the driving loop inside the fortress walls."
+              }
+            },
+            {
+              "name": "Museo de la Carabela Pinta",
+              "tip_5lang": {
+                "de": "Parken Sie am Hafen, um kurze Wege zu den Cafés zu haben.",
+                "hu": "Parkoljon a kikötőben, hogy közel legyenek a kávézók.",
+                "ro": "Parcați la port pentru acces rapid spre cafenele.",
+                "en": "Park at the harbor for short walks to nearby cafes."
+              }
+            },
+            {
+              "name": "Puente de la Ramallosa",
+              "tip_5lang": {
+                "de": "Die Abenddämmerung an der Brücke ist im Winter besonders malerisch.",
+                "hu": "A híd körüli alkonyat télen különösen festői.",
+                "ro": "Amurgul la pod este deosebit de pitoresc iarna.",
+                "en": "The twilight around the bridge is particularly picturesque in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die PO-552 bietet im Winter oft eine fantastische Fernsicht.",
+              "Prüfen Sie den Reifendruck; Kälte kann ihn beeinflussen.",
+              "Genießen Sie die Heizung zwischen den Stopps an der windigen Küste.",
+              "Beachten Sie, dass einige Strandparkplätze im Winter gesperrt sein könnten."
+            ],
+            "hu": [
+              "A PO-552-es út télen gyakran fantasztikus távoli kilátást nyújt.",
+              "Ellenőrizze a guminyomást; a hideg befolyásolhatja azt.",
+              "Élvezze a fűtést a szeles parti megállók között.",
+              "Vegye figyelembe, hogy néhány strandparkoló télen zárva lehet."
+            ],
+            "ro": [
+              "Drumul PO-552 oferă adesea o vizibilitate la distanță fantastică iarna.",
+              "Verificați presiunea roților; frigul o poate influența.",
+              "Bucurați-vă de căldura din mașină între opririle pe coasta vântoasă.",
+              "Unele parcări de plajă pot fi închise pe timpul iernii."
+            ],
+            "en": [
+              "The PO-552 road often offers fantastic long-distance views in winter.",
+              "Check your tire pressure; cold weather can affect it.",
+              "Enjoy the car heater between stops on the windy coast.",
+              "Note that some beach parking areas might be closed in winter."
+            ]
+          }
+        }
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 10.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Casco Antiguo",
+          "coords": [
+            -8.8492,
+            42.1225
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Die Bushaltestelle liegt direkt am Hafen.",
+            "hu": "A buszmegálló közvetlenül a kikötő mellett található.",
+            "ro": "Stația de autobuz este chiar lângă port.",
+            "en": "The bus stop is located right by the harbor."
+          }
+        },
+        {
+          "name": "Museo de la Carabela Pinta",
+          "coords": [
+            -8.8475,
+            42.1242
+          ],
+          "category": "museums",
+          "arrive_at": "10:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg vom Bus.",
+            "hu": "Csak pár perc séta a busztól.",
+            "ro": "La scurtă distanță de mers pe jos de autobuz.",
+            "en": "Just a short walk from the bus stop."
+          }
+        },
+        {
+          "name": "Fortaleza de Monterreal",
+          "coords": [
+            -8.8465,
+            42.1265
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Der Haupteingang ist gut zu Fuß erreichbar.",
+            "hu": "A főbejárat gyalogosan könnyen megközelíthető.",
+            "ro": "Intrarea principală este ușor accesibilă pe jos.",
+            "en": "The main entrance is easily accessible on foot."
+          }
+        },
+        {
+          "name": "Paseo de Monte Boi",
+          "coords": [
+            -8.851,
+            42.128
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:55",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein entspannter Rundweg um die Halbinsel.",
+            "hu": "Kellemes körséta a félsziget körül.",
+            "ro": "Un traseu circular relaxant în jurul peninsulei.",
+            "en": "A relaxing circular walk around the peninsula."
+          }
+        },
+        {
+          "name": "Puente de la Ramallosa",
+          "coords": [
+            -8.8255,
+            42.1155
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "16:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus Richtung Vigo für diese Station.",
+            "hu": "Szálljon fel a Vigo felé tartó buszra ehhez a megállóhoz.",
+            "ro": "Luați autobuzul spre Vigo pentru această stație.",
+            "en": "Take the bus towards Vigo for this stop."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Baiona ist mit dem Bus (ATS oder Lugove) gut an Vigo angebunden. Im Zentrum liegen die meisten Sehenswürdigkeiten nah beieinander. Nach der Festung und dem Museum können Sie den Bus nutzen, um zur historischen Ramallosa-Brücke zu gelangen, die ein echtes Fotomotiv bietet.",
+        "hu": "Baiona busszal (ATS vagy Lugove) jól megközelíthető Vigo felől. A központban a legtöbb látnivaló gyalog is elérhető. Az erőd és a múzeum után érdemes buszra szállni, hogy megnézzük a történelmi Ramallosa-hidat, ami remek fotótéma.",
+        "ro": "Baiona este bine conectată cu autobuzul de Vigo. În centru, majoritatea atracțiilor sunt aproape una de alta. După cetate și muzeu, puteți folosi autobuzul pentru a ajunge la podul istoric Ramallosa, un punct excelent pentru fotografii.",
+        "en": "Baiona is well-connected by bus to Vigo. In the center, most sights are close to each other. After visiting the fortress and the museum, you can take a bus to see the historic Ramallosa bridge, which is a great photo opportunity."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Caldeirada de pescado",
+            "tip": "Traditioneller galicischer Fischeintopf."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Caldeirada de pescado",
+            "tip": "Hagyományos galíciai halragu, laktató ebéd."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Caldeirada de pescado",
+            "tip": "Tocăniță tradițională de pește galiciană."
+          }
+        ],
+        "en": [
+          {
+            "name": "Caldeirada de pescado",
+            "tip": "Traditional Galician fish stew, very filling."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Colegiata Garten",
+            "tip": "Kleiner ruhiger Platz neben der Kirche.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Colegiata kert",
+            "tip": "Csendes kis kert a templom mellett.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Colegiata",
+            "tip": "Mic loc liniștit lângă biserică.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Colegiata Garden",
+            "tip": "Small quiet spot next to the church.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Markthalle",
+            "tip": "Kaufen Sie frischen Käse (Tetilla)."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vásárcsarnok",
+            "tip": "Vásároljon friss helyi sajtot (Tetilla)."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața acoperită",
+            "tip": "Cumpărați brânză proaspătă locală (Tetilla)."
+          }
+        ],
+        "en": [
+          {
+            "name": "Market Hall",
+            "tip": "Buy fresh local cheese (Tetilla)."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Abfahrtszeiten online auf der ATS-Website.",
+          "Die Busse nach Vigo fahren alle 30-60 Minuten.",
+          "Zahlen Sie beim Fahrer in bar oder mit Karte, falls möglich."
+        ],
+        "hu": [
+          "Ellenőrizze a menetrendet az ATS honlapján.",
+          "A buszok Vigo felé 30-60 percenként járnak.",
+          "A buszon készpénzzel vagy kártyával is fizethet, ha engedélyezett."
+        ],
+        "ro": [
+          "Verificați orarul pe site-ul oficial ATS.",
+          "Autobuzele spre Vigo circulă la fiecare 30-60 de minute.",
+          "Plătiți la șofer în numerar sau cu cardul, dacă este posibil."
+        ],
+        "en": [
+          "Check the bus schedule online on the ATS website.",
+          "Buses to Vigo run every 30-60 minutes.",
+          "Pay the driver in cash or check for card payment options."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Baiona ist mit dem Bus (ATS oder Lugove) gut an Vigo angebunden. Im Zentrum liegen die meisten Sehenswürdigkeiten nah beieinander. Nach der Festung und dem Museum können Sie den Bus nutzen, um zur historischen Ramallosa-Brücke zu gelangen, die ein echtes Fotomotiv bietet.",
+            "hu": "Baiona busszal (ATS vagy Lugove) jól megközelíthető Vigo felől. A központban a legtöbb látnivaló gyalog is elérhető. Az erőd és a múzeum után érdemes buszra szállni, hogy megnézzük a történelmi Ramallosa-hidat, ami remek fotótéma.",
+            "ro": "Baiona este bine conectată cu autobuzul de Vigo. În centru, majoritatea atracțiilor sunt aproape una de alta. După cetate și muzeu, puteți folosi autobuzul pentru a ajunge la podul istoric Ramallosa, un punct excelent pentru fotografii.",
+            "en": "Baiona is well-connected by bus to Vigo. In the center, most sights are close to each other. After visiting the fortress and the museum, you can take a bus to see the historic Ramallosa bridge, which is a great photo opportunity."
+          },
+          "stops": [
+            {
+              "name": "Casco Antiguo",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle liegt direkt am Hafen.",
+                "hu": "A buszmegálló közvetlenül a kikötő mellett található.",
+                "ro": "Stația de autobuz este chiar lângă port.",
+                "en": "The bus stop is located right by the harbor."
+              }
+            },
+            {
+              "name": "Museo de la Carabela Pinta",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg vom Bus.",
+                "hu": "Csak pár perc séta a busztól.",
+                "ro": "La scurtă distanță de mers pe jos de autobuz.",
+                "en": "Just a short walk from the bus stop."
+              }
+            },
+            {
+              "name": "Fortaleza de Monterreal",
+              "tip_5lang": {
+                "de": "Der Haupteingang ist gut zu Fuß erreichbar.",
+                "hu": "A főbejárat gyalogosan könnyen megközelíthető.",
+                "ro": "Intrarea principală este ușor accesibilă pe jos.",
+                "en": "The main entrance is easily accessible on foot."
+              }
+            },
+            {
+              "name": "Paseo de Monte Boi",
+              "tip_5lang": {
+                "de": "Ein entspannter Rundweg um die Halbinsel.",
+                "hu": "Kellemes körséta a félsziget körül.",
+                "ro": "Un traseu circular relaxant în jurul peninsulei.",
+                "en": "A relaxing circular walk around the peninsula."
+              }
+            },
+            {
+              "name": "Puente de la Ramallosa",
+              "tip_5lang": {
+                "de": "Nehmen Sie den Bus Richtung Vigo für diese Station.",
+                "hu": "Szálljon fel a Vigo felé tartó buszra ehhez a megállóhoz.",
+                "ro": "Luați autobuzul spre Vigo pentru această stație.",
+                "en": "Take the bus towards Vigo for this stop."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Caldeirada de pescado",
+                "tip": "Traditioneller galicischer Fischeintopf."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Caldeirada de pescado",
+                "tip": "Hagyományos galíciai halragu, laktató ebéd."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Caldeirada de pescado",
+                "tip": "Tocăniță tradițională de pește galiciană."
+              }
+            ],
+            "en": [
+              {
+                "name": "Caldeirada de pescado",
+                "tip": "Traditional Galician fish stew, very filling."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Colegiata Garten",
+                "tip": "Kleiner ruhiger Platz neben der Kirche.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Colegiata kert",
+                "tip": "Csendes kis kert a templom mellett.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Grădina Colegiata",
+                "tip": "Mic loc liniștit lângă biserică.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Colegiata Garden",
+                "tip": "Small quiet spot next to the church.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Markthalle",
+                "tip": "Kaufen Sie frischen Käse (Tetilla)."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Vásárcsarnok",
+                "tip": "Vásároljon friss helyi sajtot (Tetilla)."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Piața acoperită",
+                "tip": "Cumpărați brânză proaspătă locală (Tetilla)."
+              }
+            ],
+            "en": [
+              {
+                "name": "Market Hall",
+                "tip": "Buy fresh local cheese (Tetilla)."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Prüfen Sie die Abfahrtszeiten online auf der ATS-Website.",
+              "Die Busse nach Vigo fahren alle 30-60 Minuten.",
+              "Zahlen Sie beim Fahrer in bar oder mit Karte, falls möglich."
+            ],
+            "hu": [
+              "Ellenőrizze a menetrendet az ATS honlapján.",
+              "A buszok Vigo felé 30-60 percenként járnak.",
+              "A buszon készpénzzel vagy kártyával is fizethet, ha engedélyezett."
+            ],
+            "ro": [
+              "Verificați orarul pe site-ul oficial ATS.",
+              "Autobuzele spre Vigo circulă la fiecare 30-60 de minute.",
+              "Plătiți la șofer în numerar sau cu cardul, dacă este posibil."
+            ],
+            "en": [
+              "Check the bus schedule online on the ATS website.",
+              "Buses to Vigo run every 30-60 minutes.",
+              "Pay the driver in cash or check for card payment options."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie die Busse, um bei Regen bequem zwischen den Sehenswürdigkeiten zu pendeln. Die Altstadt und das Museum sind gut angebunden und bieten viel Zeit im Trockenen. Nachmittags bringt Sie der Bus zur Festung Monterreal, deren Eingangsbereich Schutz bietet. Der Tag endet an der Brücke von Ramallosa, die per Bus bequem erreichbar ist, ohne lange im Regen zu stehen.",
+            "hu": "Használja a buszokat, hogy esőben kényelmesen ingázzon a látnivalók között. Az óváros és a múzeum jól megközelíthető, és sok időt tölthet fedett helyen. Délután a busz elviszi a Monterreal erődhöz, melynek bejárata menedéket nyújt. A nap a Ramallosa hídnál ér véget, amely busszal könnyen elérhető anélkül, hogy sokat ázna.",
+            "ro": "Folosiți autobuzele pentru a naviga confortabil între atracții pe ploaie. Orașul vechi și muzeul sunt bine conectate și oferă mult timp la adăpost. După-amiaza autobuzul vă duce la cetatea Monterreal, al cărei acces oferă protecție. Ziua se încheie la podul Ramallosa, accesibil fără a sta mult în ploaie.",
+            "en": "Use buses to commute comfortably between sights during the rain. The old town and museum are well-connected and offer plenty of indoor time. In the afternoon, the bus takes you to the Monterreal Fortress, where the entrance area provides cover. The day ends at the Ramallosa Bridge, easily reached by bus without long exposure to rain."
+          },
+          "stops": [
+            {
+              "name": "Casco Antiguo",
+              "tip_5lang": {
+                "de": "Die Bushaltestellen im Zentrum sind meist überdacht.",
+                "hu": "A központi buszmegállók többnyire fedettek.",
+                "ro": "Stațiile de autobuz din centru sunt în mare parte acoperite.",
+                "en": "The bus stops in the center are mostly covered."
+              }
+            },
+            {
+              "name": "Museo de la Carabela Pinta",
+              "tip_5lang": {
+                "de": "Nur ein kurzer Fußweg von der Haltestelle am Hafen.",
+                "hu": "Csak rövid séta a kikötői buszmegállótól.",
+                "ro": "Doar o scurtă plimbare de la stația din port.",
+                "en": "Only a short walk from the harbor bus stop."
+              }
+            },
+            {
+              "name": "Fortaleza de Monterreal",
+              "tip_5lang": {
+                "de": "Der Bus hält nah am Haupttor; wenig Zeit im Regen.",
+                "hu": "A busz közel áll meg a főkapuhoz; kevés idő az esőben.",
+                "ro": "Autobuzul oprește aproape de poarta principală; puțin timp în ploaie.",
+                "en": "The bus stops near the main gate; minimal time in the rain."
+              }
+            },
+            {
+              "name": "Paseo de Monte Boi",
+              "tip_5lang": {
+                "de": "Bei starkem Regen ist dieser Stopp sehr exponiert.",
+                "hu": "Heves esőben ez a megálló nagyon kitett a szélnek.",
+                "ro": "La ploi puternice, această oprire este foarte expusă.",
+                "en": "During heavy rain, this stop is very exposed to the elements."
+              }
+            },
+            {
+              "name": "Puente de la Ramallosa",
+              "tip_5lang": {
+                "de": "Gute Frequenz der Busse zurück nach Baiona für den Abend.",
+                "hu": "Gyakori buszjáratok indulnak vissza Baionába este.",
+                "ro": "Frecvență bună a autobuzelor înapoi spre Baiona seara.",
+                "en": "Good frequency of buses back to Baiona for the evening."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Laden Sie die lokale Verkehrs-App für Echtzeit-Infos bei Verspätungen.",
+              "Haben Sie Kleingeld oder eine Transportkarte griffbereit.",
+              "Busse sind bei Regen oft voll; planen Sie Pufferzeiten ein.",
+              "Nutzen Sie die Wartehäuschen, um trocken zu bleiben."
+            ],
+            "hu": [
+              "Töltse le a helyi közlekedési appot a késések követéséhez.",
+              "Legyen Önnél aprópénz vagy közlekedési kártya.",
+              "Esőben a buszok gyakran zsúfoltak; tervezzen be ráhagyást.",
+              "Használja a várótermeket, hogy száraz maradjon."
+            ],
+            "ro": [
+              "Descărcați aplicația locală de transport pentru info în timp real.",
+              "Aveți pregătit mărunt sau un card de transport.",
+              "Autobuzele sunt deseori pline pe ploaie; planificați timp suplimentar.",
+              "Folosiți refugiile din stații pentru a rămâne uscați."
+            ],
+            "en": [
+              "Download the local transit app for real-time delay info.",
+              "Have exact change or a transport card ready.",
+              "Buses are often crowded during rain; allow extra time.",
+              "Make use of bus shelters to stay dry while waiting."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie Baiona im Winter stressfrei mit dem öffentlichen Nahverkehr. Der Vormittag in der Altstadt ist ruhig, und die Busverbindungen zum Hafen sind zuverlässig. Mittags erreichen Sie bequem die Festung Monterreal. Am Nachmittag bietet der Paseo de Monte Boi frische Meeresluft, bevor Sie den Tag an der malerischen Ramallosa-Brücke bei Sonnenuntergang ausklingen lassen.",
+            "hu": "Fedezze fel Baionát télen stresszmentesen tömegközlekedéssel. A délelőtt az óvárosban nyugodt, a kikötői buszjáratok megbízhatóak. Délben kényelmesen elérheti a Monterreal erődöt. Délután a Paseo de Monte Boi friss tengeri levegőt kínál, mielőtt a napot a festői Ramallosa hídnál zárná a naplementében.",
+            "ro": "Explorați Baiona iarna fără stres cu transportul public. Dimineața în orașul vechi e liniștită, iar legăturile spre port sunt sigure. La prânz ajungeți ușor la cetatea Monterreal. După-amiaza, Paseo de Monte Boi oferă aer marin proaspăt înainte de a încheia ziua la pitorescul pod Ramallosa.",
+            "en": "Explore Baiona in winter stress-free using public transit. The morning in the old town is quiet, and bus connections to the harbor are reliable. At noon, you can easily reach the Monterreal Fortress. In the afternoon, Paseo de Monte Boi offers fresh sea air before ending the day at the picturesque Ramallosa Bridge at sunset."
+          },
+          "stops": [
+            {
+              "name": "Casco Antiguo",
+              "tip_5lang": {
+                "de": "Weniger Wartezeit an den Haltestellen durch geringeres Verkehrsaufkommen.",
+                "hu": "Kevesebb várakozási idő a megállókban a kisebb forgalom miatt.",
+                "ro": "Timp de așteptare mai mic în stații datorită traficului redus.",
+                "en": "Less waiting time at stops due to lower traffic volume."
+              }
+            },
+            {
+              "name": "Museo de la Carabela Pinta",
+              "tip_5lang": {
+                "de": "Die Busse sind im Winter gut beheizt.",
+                "hu": "A buszok télen jól fűtöttek.",
+                "ro": "Autobuzele sunt bine încălzite iarna.",
+                "en": "Buses are well-heated during the winter months."
+              }
+            },
+            {
+              "name": "Fortaleza de Monterreal",
+              "tip_5lang": {
+                "de": "Genießen Sie die Fahrt entlang der Küstenstraße im Warmen.",
+                "hu": "Élvezze a parti úton való utazást a melegben.",
+                "ro": "Bucurați-vă de drumul pe coastă din interiorul cald.",
+                "en": "Enjoy the ride along the coastal road in the warmth."
+              }
+            },
+            {
+              "name": "Paseo de Monte Boi",
+              "tip_5lang": {
+                "de": "Achten Sie auf den Fahrplan für die Rückfahrt vor Einbruch der Dunkelheit.",
+                "hu": "Figyeljen a menetrendre a sötétedés előtti visszautazáshoz.",
+                "ro": "Atenție la orar pentru întoarcerea înainte de lăsarea serii.",
+                "en": "Check the schedule for your return trip before it gets dark."
+              }
+            },
+            {
+              "name": "Puente de la Ramallosa",
+              "tip_5lang": {
+                "de": "Die letzte Fahrt bietet oft einen schönen Blick auf die beleuchtete Stadt.",
+                "hu": "Az utolsó járatról gyakran szép kilátás nyílik a kivilágított városra.",
+                "ro": "Ultima cursă oferă adesea o vedere frumoasă spre orașul iluminat.",
+                "en": "The last trip often offers a beautiful view of the illuminated city."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterfahrpläne können an Wochenenden eingeschränkt sein.",
+              "Nutzen Sie die Zeit im Bus, um Fotos zu sichten.",
+              "Warme Kleidung für die Wartezeiten an den Haltestellen ist wichtig.",
+              "Die Buslinie zwischen Baiona und Ramallosa ist sehr zuverlässig."
+            ],
+            "hu": [
+              "A téli menetrend hétvégente korlátozott lehet.",
+              "Használja ki a buszon töltött időt a fotók válogatására.",
+              "Fontos a meleg ruházat a megállókban való várakozáshoz.",
+              "A Baiona és Ramallosa közötti buszvonal nagyon megbízható."
+            ],
+            "ro": [
+              "Orarele de iarnă pot fi reduse în weekend.",
+              "Folosiți timpul din autobuz pentru a tria fotografiile.",
+              "Hainele groase sunt importante pentru așteptarea în stații.",
+              "Linia de autobuz între Baiona și Ramallosa este foarte sigură."
+            ],
+            "en": [
+              "Winter schedules may be restricted on weekends.",
+              "Use the time on the bus to review your photos.",
+              "Warm clothing is important for waiting at the bus stops.",
+              "The bus line between Baiona and Ramallosa is very reliable."
+            ]
+          }
+        }
+      }
+    }
+  },
+  "external_resources": {
+    "tourism_office": "https://www.baiona.gal",
+    "events": "https://www.turismoriasbaixas.com",
+    "transit_official": "https://www.monbus.es",
+    "language_tips": {
+      "de": "In Galicien wird neben Spanisch auch Galego gesprochen, eine eigene Sprache. Spanisch funktioniert überall, Englisch in den großen Pensionen und Restaurants am Hafen, ein paar Worte Galego freuen die Einheimischen sehr.",
+      "hu": "Galíciában a spanyol mellett a galego is hivatalos, saját nyelv. A spanyol mindenhol megy, az angol a nagyobb panziókban és a kikötői éttermekben, viszont egy-két galego szóért a helyiek megolvadnak.",
+      "ro": "În Galicia se vorbește și galega pe lângă spaniolă. Spaniola merge peste tot, engleza în pensiunile mai mari și restaurantele din port, iar câteva cuvinte de galego îi fac pe localnici să zâmbească.",
+      "en": "Galicia speaks Galego alongside Spanish. Spanish works everywhere, English in larger guesthouses and harbourside restaurants, and a few Galego words really melt locals' hearts."
+    },
+    "best_time_to_visit": {
+      "de": "Mai bis September ist die beste Zeit, dann ist es 20-26 Grad warm. Anfang März feiert Baiona die Fiesta da Arribada, das Festival zur Rückkehr der Pinta von Kolumbus 1493, dann ist die Altstadt überfüllt aber spektakulär.",
+      "hu": "Május-szeptember a legjobb, 20-26 fok. Március elején Baiona az Arribada fesztivált tartja, amikor Kolumbusz Pinta hajója 1493-ban itt landolt, akkor a városka tömött de látványos.",
+      "ro": "Mai-septembrie e cel mai bun, 20-26 grade. La început de martie, Baiona ține festivalul Arribada, marcând întoarcerea Pintei lui Columb în 1493, oraș aglomerat dar spectaculos.",
+      "en": "May to September is best, 20-26 C. Early March hosts the Arribada festival commemorating Columbus's Pinta landing here in 1493, the old town packs out but the show is spectacular."
+    },
+    "neighborhood_warnings": {
+      "de": "Sehr sicheres kleines Städtchen, kaum Kriminalität. Die Felsen am Monterreal können bei nasser Witterung rutschig sein, festes Schuhwerk lohnt sich.",
+      "hu": "Nagyon biztonságos kisváros, alig van bűnözés. A Monterreal sziklái nedves időben csúszósak, jó cipő kell.",
+      "ro": "Orășel foarte sigur, criminalitate minimă. Stâncile de la Monterreal sunt alunecoase pe vreme umedă, încălțăminte solidă recomandată.",
+      "en": "Very safe small town, almost no crime. The Monterreal cliffs get slippery when wet, proper footwear is worth it."
+    }
+  }
+}

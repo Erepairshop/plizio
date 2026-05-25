@@ -1,0 +1,2692 @@
+{
+  "city_id": "pollensa",
+  "anchor": {
+    "name": "Pollença",
+    "coords": [
+      3.0167,
+      39.8769
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 3.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Plaça Major",
+          "coords": [
+            3.0165,
+            39.8772
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie einen Kaffee unter den Platanen.",
+            "hu": "Igyon egy kávét a platánfák hűvösében.",
+            "ro": "Savurați o cafea sub platani.",
+            "en": "Enjoy a coffee under the plane trees."
+          }
+        },
+        {
+          "name": "Oratori de Sant Jordi",
+          "coords": [
+            3.0182,
+            39.8785
+          ],
+          "category": "churches",
+          "arrive_at": "10:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie das barocke Altarbild.",
+            "hu": "Csodálja meg a barokk oltárképet.",
+            "ro": "Admirați altarul baroc.",
+            "en": "Admire the baroque altarpiece."
+          }
+        },
+        {
+          "name": "Museum von Pollença",
+          "coords": [
+            3.0155,
+            39.8778
+          ],
+          "category": "museums",
+          "arrive_at": "11:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Sehen Sie die buddhistischen Mandalas.",
+            "hu": "Nézze meg a buddhista mandalákat.",
+            "ro": "Vedeți mandalele budiste.",
+            "en": "See the Buddhist mandalas."
+          }
+        },
+        {
+          "name": "Kreuzgang von Sant Domingo",
+          "coords": [
+            3.0152,
+            39.8775
+          ],
+          "category": "historical",
+          "arrive_at": "13:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Perfekter Ort für kühle Ruhe.",
+            "hu": "Tökéletes hely a hűvös pihenésre.",
+            "ro": "Loc perfect pentru liniște răcoroasă.",
+            "en": "Perfect place for cool peace."
+          }
+        },
+        {
+          "name": "El Calvari Treppe",
+          "coords": [
+            3.0135,
+            39.8788
+          ],
+          "category": "historical",
+          "arrive_at": "14:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Zählen Sie die 365 Stufen.",
+            "hu": "Számolja meg a 365 lépcsőfokot.",
+            "ro": "Numărați cele 365 de trepte.",
+            "en": "Count the 365 steps."
+          }
+        },
+        {
+          "name": "Pont Romà",
+          "coords": [
+            3.0185,
+            39.8812
+          ],
+          "category": "bridges",
+          "arrive_at": "16:20",
+          "stay_min": 30,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Ein Erbe aus der Römerzeit.",
+            "hu": "Római kori örökség a patak felett.",
+            "ro": "O moștenire din epoca romană.",
+            "en": "A heritage from the Roman era."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Vormittag beginnt auf der lebhaften Plaça Major, gefolgt von sakraler Kunst im Oratori. Mittags vertiefen Sie sich in die Geschichte im Museum und genießen die Stille des Kreuzgangs. Am Nachmittag erklimmen Sie die berühmte Calvari-Treppe für ein Panorama, bevor Sie den Tag an der antiken Römerbrücke ausklingen lassen.",
+        "hu": "A délelőtt a nyüzsgő Főtéren indul, majd a Sant Jordi oratórium szakrális művészete következik. Délben a múzeum és a kolostor kerengője kínál történelmi elmélyülést. Délután megmásszuk a 365 lépcsőfokos Kálváriát a kilátásért, végül a római hídnál fejezzük be a sétát a város szélén.",
+        "ro": "Dimineața începe în Piața Mare plină de viață, urmată de artă sacră în oratoriu. La prânz, vizitați muzeul și bucurați-vă de liniștea mănăstirii. După-amiaza, urcați faimoasele trepte Calvari pentru o panoramă superbă, înainte de a încheia ziua la podul roman antic.",
+        "en": "The morning starts at the lively Plaça Major, followed by sacred art at the Oratori. At midday, dive into history at the Museum and enjoy the peace of the cloister. In the afternoon, climb the famous Calvari steps for a panorama before ending the day at the ancient Roman Bridge."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ensaimada",
+            "tip": "Probieren Sie dieses Gebäck in der Bäckerei Ca'n Xim."
+          },
+          {
+            "name": "Pa amb Oli",
+            "tip": "Regionale Brotzeit im Restaurant Il Giardino."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ensaimada",
+            "tip": "Kóstolja meg a helyi péksüteményt a Ca'n Xim-ben."
+          },
+          {
+            "name": "Pa amb Oli",
+            "tip": "Helyi kenyérválogatás az Il Giardino étteremben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ensaimada",
+            "tip": "Gustați acest produs de patiserie la Ca'n Xim."
+          },
+          {
+            "name": "Pa amb Oli",
+            "tip": "Gustare locală la restaurantul Il Giardino."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ensaimada",
+            "tip": "Try this local pastry at Ca'n Xim bakery."
+          },
+          {
+            "name": "Pa amb Oli",
+            "tip": "Regional bread platter at Il Giardino restaurant."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Calvari Kapelle",
+            "tip": "Ruhe mit Blick auf die Dächer.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Pont Romà Park",
+            "tip": "Grüne Idylle am Flussufer.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kálvária kápolna",
+            "tip": "Csendes pihenő a háztetők felett.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Római híd park",
+            "tip": "Zöld idill a patakparton.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Capela Calvari",
+            "tip": "Liniște cu vedere peste acoperișuri.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Parcul Pont Romà",
+            "tip": "Idilă verde pe malul râului.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Calvari Chapel",
+            "tip": "Peace with a view over the roofs.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Roman Bridge Park",
+            "tip": "Green idyll by the river bank.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Sonntagsmarkt",
+            "tip": "Lokale Produkte auf der Plaça Major."
+          },
+          {
+            "name": "Teixits Vicens",
+            "tip": "Traditionelle mallorquinische Stoffe."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vasárnapi piac",
+            "tip": "Helyi termékek a Főtéren."
+          },
+          {
+            "name": "Teixits Vicens",
+            "tip": "Hagyományos mallorcai textiláruk."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața de duminică",
+            "tip": "Produse locale în Piața Mare."
+          },
+          {
+            "name": "Teixits Vicens",
+            "tip": "Țesături tradiționale din Mallorca."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sunday Market",
+            "tip": "Local products on Plaça Major."
+          },
+          {
+            "name": "Teixits Vicens",
+            "tip": "Traditional Mallorcan fabrics."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Besuchen Sie Pollença an einem Sonntag für den Markt.",
+          "Tragen Sie bequeme Schuhe für die Calvari-Treppe.",
+          "Die Gassen sind eng, parken Sie außerhalb des Zentrums.",
+          "Mittagsruhe beachten, viele Läden schließen zwischen 14 und 17 Uhr."
+        ],
+        "hu": [
+          "Látogasson el vasárnap a híres főtéri piac miatt.",
+          "Viseljen kényelmes cipőt a Kálvária-lépcső megmászásához.",
+          "A sikátorok szűkek, érdemes a központon kívül parkolni.",
+          "Vegyük figyelembe a sziesztát, sok bolt bezár 14 és 17 óra között."
+        ],
+        "ro": [
+          "Vizitați Pollença duminica pentru piața locală.",
+          "Purtați pantofi confortabili pentru treptele Calvari.",
+          "Străzile sunt înguste, parcați în afara centrului.",
+          "Respectați siesta, multe magazine închid între 14 și 17."
+        ],
+        "en": [
+          "Visit Pollença on a Sunday for the market experience.",
+          "Wear comfortable shoes for the 365 Calvari steps.",
+          "Streets are narrow, it is better to park outside the center.",
+          "Note the siesta, many shops close between 2 PM and 5 PM."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Der Vormittag beginnt auf der lebhaften Plaça Major, gefolgt von sakraler Kunst im Oratori. Mittags vertiefen Sie sich in die Geschichte im Museum und genießen die Stille des Kreuzgangs. Am Nachmittag erklimmen Sie die berühmte Calvari-Treppe für ein Panorama, bevor Sie den Tag an der antiken Römerbrücke ausklingen lassen.",
+            "hu": "A délelőtt a nyüzsgő Főtéren indul, majd a Sant Jordi oratórium szakrális művészete következik. Délben a múzeum és a kolostor kerengője kínál történelmi elmélyülést. Délután megmásszuk a 365 lépcsőfokos Kálváriát a kilátásért, végül a római hídnál fejezzük be a sétát a város szélén.",
+            "ro": "Dimineața începe în Piața Mare plină de viață, urmată de artă sacră în oratoriu. La prânz, vizitați muzeul și bucurați-vă de liniștea mănăstirii. După-amiaza, urcați faimoasele trepte Calvari pentru o panoramă superbă, înainte de a încheia ziua la podul roman antic.",
+            "en": "The morning starts at the lively Plaça Major, followed by sacred art at the Oratori. At midday, dive into history at the Museum and enjoy the peace of the cloister. In the afternoon, climb the famous Calvari steps for a panorama before ending the day at the ancient Roman Bridge."
+          },
+          "stops": [
+            {
+              "name": "Plaça Major",
+              "tip_5lang": {
+                "de": "Genießen Sie einen Kaffee unter den Platanen.",
+                "hu": "Igyon egy kávét a platánfák hűvösében.",
+                "ro": "Savurați o cafea sub platani.",
+                "en": "Enjoy a coffee under the plane trees."
+              }
+            },
+            {
+              "name": "Oratori de Sant Jordi",
+              "tip_5lang": {
+                "de": "Bewundern Sie das barocke Altarbild.",
+                "hu": "Csodálja meg a barokk oltárképet.",
+                "ro": "Admirați altarul baroc.",
+                "en": "Admire the baroque altarpiece."
+              }
+            },
+            {
+              "name": "Museum von Pollença",
+              "tip_5lang": {
+                "de": "Sehen Sie die buddhistischen Mandalas.",
+                "hu": "Nézze meg a buddhista mandalákat.",
+                "ro": "Vedeți mandalele budiste.",
+                "en": "See the Buddhist mandalas."
+              }
+            },
+            {
+              "name": "Kreuzgang von Sant Domingo",
+              "tip_5lang": {
+                "de": "Perfekter Ort für kühle Ruhe.",
+                "hu": "Tökéletes hely a hűvös pihenésre.",
+                "ro": "Loc perfect pentru liniște răcoroasă.",
+                "en": "Perfect place for cool peace."
+              }
+            },
+            {
+              "name": "El Calvari Treppe",
+              "tip_5lang": {
+                "de": "Zählen Sie die 365 Stufen.",
+                "hu": "Számolja meg a 365 lépcsőfokot.",
+                "ro": "Numărați cele 365 de trepte.",
+                "en": "Count the 365 steps."
+              }
+            },
+            {
+              "name": "Pont Romà",
+              "tip_5lang": {
+                "de": "Ein Erbe aus der Römerzeit.",
+                "hu": "Római kori örökség a patak felett.",
+                "ro": "O moștenire din epoca romană.",
+                "en": "A heritage from the Roman era."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Ensaimada",
+                "tip": "Probieren Sie dieses Gebäck in der Bäckerei Ca'n Xim."
+              },
+              {
+                "name": "Pa amb Oli",
+                "tip": "Regionale Brotzeit im Restaurant Il Giardino."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Ensaimada",
+                "tip": "Kóstolja meg a helyi péksüteményt a Ca'n Xim-ben."
+              },
+              {
+                "name": "Pa amb Oli",
+                "tip": "Helyi kenyérválogatás az Il Giardino étteremben."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Ensaimada",
+                "tip": "Gustați acest produs de patiserie la Ca'n Xim."
+              },
+              {
+                "name": "Pa amb Oli",
+                "tip": "Gustare locală la restaurantul Il Giardino."
+              }
+            ],
+            "en": [
+              {
+                "name": "Ensaimada",
+                "tip": "Try this local pastry at Ca'n Xim bakery."
+              },
+              {
+                "name": "Pa amb Oli",
+                "tip": "Regional bread platter at Il Giardino restaurant."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Calvari Kapelle",
+                "tip": "Ruhe mit Blick auf die Dächer.",
+                "emoji": "🧘"
+              },
+              {
+                "name": "Pont Romà Park",
+                "tip": "Grüne Idylle am Flussufer.",
+                "emoji": "🍃"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Kálvária kápolna",
+                "tip": "Csendes pihenő a háztetők felett.",
+                "emoji": "🧘"
+              },
+              {
+                "name": "Római híd park",
+                "tip": "Zöld idill a patakparton.",
+                "emoji": "🍃"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Capela Calvari",
+                "tip": "Liniște cu vedere peste acoperișuri.",
+                "emoji": "🧘"
+              },
+              {
+                "name": "Parcul Pont Romà",
+                "tip": "Idilă verde pe malul râului.",
+                "emoji": "🍃"
+              }
+            ],
+            "en": [
+              {
+                "name": "Calvari Chapel",
+                "tip": "Peace with a view over the roofs.",
+                "emoji": "🧘"
+              },
+              {
+                "name": "Roman Bridge Park",
+                "tip": "Green idyll by the river bank.",
+                "emoji": "🍃"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Sonntagsmarkt",
+                "tip": "Lokale Produkte auf der Plaça Major."
+              },
+              {
+                "name": "Teixits Vicens",
+                "tip": "Traditionelle mallorquinische Stoffe."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Vasárnapi piac",
+                "tip": "Helyi termékek a Főtéren."
+              },
+              {
+                "name": "Teixits Vicens",
+                "tip": "Hagyományos mallorcai textiláruk."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Piața de duminică",
+                "tip": "Produse locale în Piața Mare."
+              },
+              {
+                "name": "Teixits Vicens",
+                "tip": "Țesături tradiționale din Mallorca."
+              }
+            ],
+            "en": [
+              {
+                "name": "Sunday Market",
+                "tip": "Local products on Plaça Major."
+              },
+              {
+                "name": "Teixits Vicens",
+                "tip": "Traditional Mallorcan fabrics."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Besuchen Sie Pollença an einem Sonntag für den Markt.",
+              "Tragen Sie bequeme Schuhe für die Calvari-Treppe.",
+              "Die Gassen sind eng, parken Sie außerhalb des Zentrums.",
+              "Mittagsruhe beachten, viele Läden schließen zwischen 14 und 17 Uhr."
+            ],
+            "hu": [
+              "Látogasson el vasárnap a híres főtéri piac miatt.",
+              "Viseljen kényelmes cipőt a Kálvária-lépcső megmászásához.",
+              "A sikátorok szűkek, érdemes a központon kívül parkolni.",
+              "Vegyük figyelembe a sziesztát, sok bolt bezár 14 és 17 óra között."
+            ],
+            "ro": [
+              "Vizitați Pollença duminica pentru piața locală.",
+              "Purtați pantofi confortabili pentru treptele Calvari.",
+              "Străzile sunt înguste, parcați în afara centrului.",
+              "Respectați siesta, multe magazine închid între 14 și 17."
+            ],
+            "en": [
+              "Visit Pollença on a Sunday for the market experience.",
+              "Wear comfortable shoes for the 365 Calvari steps.",
+              "Streets are narrow, it is better to park outside the center.",
+              "Note the siesta, many shops close between 2 PM and 5 PM."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens suchen wir Schutz unter den Arkaden der Plaça Major bei einem heißen Kaffee. Mittags bieten die dicken Mauern der Kirche Sant Jordi und des Museums einen trockenen Zufluchtsort vor den Schauern.\n\nNachmittags steigen wir vorsichtig die 365 Stufen des Calvari hinauf, die bei Regen rutschig sein können. Abends bewundern wir die Pont Romà, während der Regen in den Sturzbächen darunter rauscht.",
+            "hu": "Reggel a Plaça Major árkádjai alatt kezdünk egy forró kávéval, figyelve az eső kopogását. Délben a Sant Jordi oratórium és a múzeum vastag falai nyújtanak tökéletes menedéket a záporok elől.\n\nDélután óvatosan kapaszkodunk fel a Kálvária-lépcsőn, a vizes fokok fokozott figyelmet igényelnek. Este a római hídnál fejezzük be a sétát, élvezve a vihar utáni friss hegyi levegő illatát.",
+            "ro": "Dimineața ne adăpostim sub arcadele din Plaça Major cu o cafea fierbinte. La prânz, zidurile groase ale bisericii Sant Jordi și ale muzeului oferă un refugiu uscat împotriva averselor.\n\nDupă-amiaza urcăm cu grijă cele 365 de trepte de la El Calvari, care pot fi alunecoase pe ploaie. Seara admirăm Pont Romà, în timp ce sunetul ploii acompaniază curgerea apei sub podul antic.",
+            "en": "In the morning, we seek shelter under the arcades of Plaça Major with a hot coffee. At midday, the thick walls of Sant Jordi church and the museum provide a dry sanctuary from the rain showers.\n\nIn the afternoon, we carefully climb the 365 steps of El Calvari, which can be slippery when wet. In the evening, we end at Pont Romà, enjoying the fresh scent of the mountains after the storm."
+          },
+          "stops": [
+            {
+              "name": "Plaça Major",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Cafés mit Markisen, um trocken zu bleiben.",
+                "hu": "Használja a napellenzős kávézókat, hogy száraz maradjon.",
+                "ro": "Folosiți cafenelele cu copertine pentru a rămâne uscați.",
+                "en": "Use the cafes with awnings to stay dry while people-watching."
+              }
+            },
+            {
+              "name": "Oratori de Sant Jordi",
+              "tip_5lang": {
+                "de": "Idealer Ort, um einen starken Regenguss drinnen abzuwarten.",
+                "hu": "Ideális hely egy erős zápor kivárására a belső térben.",
+                "ro": "Loc ideal pentru a aștepta trecerea unei ploi torențiale.",
+                "en": "An ideal spot to wait out a heavy downpour indoors."
+              }
+            },
+            {
+              "name": "Museum von Pollença",
+              "tip_5lang": {
+                "de": "Verlängern Sie den Besuch, bis der Regen nachlässt.",
+                "hu": "Hosszabbítsa meg a látogatást, amíg alábbhagy az eső.",
+                "ro": "Prelungiți vizita până când ploaia se mai domolește.",
+                "en": "Extend your visit here until the rain clears up."
+              }
+            },
+            {
+              "name": "Kreuzgang von Sant Domingo",
+              "tip_5lang": {
+                "de": "Der überdachte Kreuzgang bietet guten Schutz vor Nässe.",
+                "hu": "A fedett kerengő kiváló védelmet nyújt a csapadék ellen.",
+                "ro": "Claustrul acoperit oferă o protecție excelentă împotriva ploii.",
+                "en": "The covered cloister provides excellent protection from the wet."
+              }
+            },
+            {
+              "name": "El Calvari Treppe",
+              "tip_5lang": {
+                "de": "Vorsicht, die Steinstufen sind bei Nässe extrem rutschig.",
+                "hu": "Vigyázat, a kőlépcsők vizesen rendkívül csúszósak.",
+                "ro": "Atenție, treptele de piatră sunt extrem de alunecoase pe ploaie.",
+                "en": "Caution: the stone steps are extremely slippery when wet."
+              }
+            },
+            {
+              "name": "Pont Romà",
+              "tip_5lang": {
+                "de": "Kurzer Stopp reicht, da es hier kaum Unterstand gibt.",
+                "hu": "Rövid megálló javasolt, mivel itt kevés a fedett rész.",
+                "ro": "O oprire scurtă e suficientă, fiind puțin adăpost aici.",
+                "en": "A brief stop is enough as there is little shelter here."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Schuhe mit gutem Profil für die Calvari-Treppen.",
+              "Die Museen im Zentrum sind perfekte Regen-Alternativen.",
+              "Regenschirme können in den kleinen Läden am Markt gekauft werden.",
+              "Nutzen Sie die Pausen zwischen den Schauern für Außenaufnahmen.",
+              "Viele Cafés haben Innenbereiche, die im Sommer oft übersehen werden."
+            ],
+            "hu": [
+              "Viseljen jó tapadású cipőt a Kálvária-lépcsőkhöz.",
+              "A központ múzeumai tökéletes alternatívák esős időben.",
+              "Esernyőt a piac környéki kisboltokban is vásárolhat.",
+              "Használja ki a záporok közötti szüneteket a fotózáshoz.",
+              "Sok kávézónak van belső része, amit nyáron gyakran észre sem veszünk."
+            ],
+            "ro": [
+              "Purtați încălțăminte cu aderență bună pentru treptele Calvari.",
+              "Muzeele din centru sunt alternative perfecte pe timp de ploaie.",
+              "Puteți cumpăra umbrele de la micile magazine de lângă piață.",
+              "Profitați de pauzele dintre averse pentru fotografiile în exterior.",
+              "Multe cafenele au zone interioare care vara sunt adesea ignorate."
+            ],
+            "en": [
+              "Wear shoes with good grip for the Calvari steps.",
+              "The museums in the center are perfect rainy-day alternatives.",
+              "Umbrellas can be purchased in the small shops around the market.",
+              "Take advantage of breaks between showers for outdoor photos.",
+              "Many cafes have indoor seating that is often overlooked in summer."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt frisch auf der Plaça Major, wo Einheimische die milde Wintersonne genießen. Mittags ist das Licht in den Kirchen und im Museum besonders klar und ruhig, ohne die sommerlichen Touristenmassen.\n\nNachmittags ist der Aufstieg zum Calvari bei kühlen Temperaturen deutlich angenehmer als im August. Da die Sonne gegen 17:30 Uhr untergeht, erreichen wir die Pont Romà im sanften Dämmerlicht des mallorquinischen Winters.",
+            "hu": "A reggel frissen indul a Plaça Majoron, ahol a helyiek a lágy téli napsütést élvezik. Délben a templomok és a múzeum fénye különösen tiszta és nyugodt, a nyári turistatömeg nélkül.\n\nDélután a Kálvária megmászása a hűvös időben sokkal kellemesebb, mint az augusztusi hőségben. Mivel a nap 17:30 körül nyugszik, a római hidat már a mallorcai tél puha szürkületében érjük el.",
+            "ro": "Dimineața începe cu aer proaspăt în Plaça Major, unde localnicii se bucură de soarele blând de iarnă. La prânz, lumina în biserici și muzeu este clară și liniștită, fără mulțimile de vară.\n\nDupă-amiaza, urcarea la Calvari este mult mai plăcută la temperaturi scăzute decât în august. Deoarece soarele apune în jur de 17:30, ajungem la Pont Romà în amurgul blând al iernii mallorchine.",
+            "en": "The morning starts crisp in Plaça Major, where locals enjoy the mild winter sun. At midday, the light in the churches and museum is particularly clear and peaceful, free from the summer tourist crowds.\n\nIn the afternoon, the climb to Calvari is much more pleasant in the cool air than in the August heat. As the sun sets around 17:30, we reach Pont Romà in the soft twilight of the Mallorcan winter."
+          },
+          "stops": [
+            {
+              "name": "Plaça Major",
+              "tip_5lang": {
+                "de": "Wählen Sie einen Tisch in der Sonne für natürliche Wärme.",
+                "hu": "Válasszon napos asztalt a természetes melegért.",
+                "ro": "Alegeți o masă la soare pentru căldură naturală.",
+                "en": "Choose a table in the sun for natural warmth."
+              }
+            },
+            {
+              "name": "Oratori de Sant Jordi",
+              "tip_5lang": {
+                "de": "Kirchen können im Winter kühl sein, behalten Sie die Jacke an.",
+                "hu": "A templomok télen hűvösek lehetnek, tartsa magán a kabátot.",
+                "ro": "Bisericile pot fi răcoroase iarna, păstrați haina pe dvs.",
+                "en": "Churches can be chilly in winter, keep your jacket on."
+              }
+            },
+            {
+              "name": "Museum von Pollença",
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe der Ausstellungen ohne Warteschlangen.",
+                "hu": "Élvezze a kiállítások nyugalmát sorban állás nélkül.",
+                "ro": "Bucurați-vă de liniștea expozițiilor fără cozi.",
+                "en": "Enjoy the tranquility of the exhibits without any queues."
+              }
+            },
+            {
+              "name": "Kreuzgang von Sant Domingo",
+              "tip_5lang": {
+                "de": "Das Winterlicht im Kreuzgang ist fantastisch für Fotos.",
+                "hu": "A téli fények a kerengőben fantasztikusak a fotózáshoz.",
+                "ro": "Lumina de iarnă în claustru este fantastică pentru fotografii.",
+                "en": "The winter light in the cloister is fantastic for photography."
+              }
+            },
+            {
+              "name": "El Calvari Treppe",
+              "tip_5lang": {
+                "de": "Perfekte Zeit für den Aufstieg ohne Hitzeerschöpfung.",
+                "hu": "Tökéletes időpont a mászáshoz hőségriadó nélkül.",
+                "ro": "Moment perfect pentru urcare fără epuizarea cauzată de căldură.",
+                "en": "Perfect time for the climb without heat exhaustion."
+              }
+            },
+            {
+              "name": "Pont Romà",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Brücke vor 17:00 Uhr für das beste Licht.",
+                "hu": "Látogassa meg a hidat 17:00 előtt a legjobb fényekért.",
+                "ro": "Vizitați podul înainte de ora 17:00 pentru cea mai bună lumină.",
+                "en": "Visit the bridge before 17:00 for the best daylight."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Zwiebelprinzip bei der Kleidung ist wegen kühler Schatten ratsam.",
+              "Die Sonne geht früh unter, planen Sie den Calvari-Aufstieg rechtzeitig.",
+              "Einige kleinere Läden könnten im Winter reduzierte Öffnungszeiten haben.",
+              "Probieren Sie lokale Winterspezialitäten wie 'Arros Brut'.",
+              "Die Luft ist klarer, ideal für Weitwinkel-Aufnahmen der Stadt."
+            ],
+            "hu": [
+              "A réteges öltözködés javasolt a hűvös árnyékok miatt.",
+              "A nap korán nyugszik, tervezze a Kálvária-mászást időben.",
+              "Néhány kisebb bolt télen rövidebb ideig tarthat nyitva.",
+              "Kóstolja meg a helyi téli ételeket, például az 'Arros Brut'-ot.",
+              "A levegő tisztább, ideális a városról készült tájképekhez."
+            ],
+            "ro": [
+              "Se recomandă îmbrăcămintea în straturi din cauza umbrelor reci.",
+              "Soarele apune devreme, planificați urcarea la Calvari din timp.",
+              "Unele magazine mici ar putea avea program redus iarna.",
+              "Încercați specialitățile locale de iarnă, cum ar fi 'Arros Brut'.",
+              "Aerul este mai clar, ideal pentru fotografii panoramice ale orașului."
+            ],
+            "en": [
+              "Layered clothing is advised due to the cool shadows.",
+              "Sun sets early, plan your Calvari climb in good time.",
+              "Some smaller shops might have reduced opening hours in winter.",
+              "Try local winter specialties like 'Arros Brut' (dirty rice).",
+              "The air is clearer, ideal for wide-angle shots of the town."
+            ]
+          }
+        }
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:20",
+      "total_km": 15.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Plaça Major",
+          "coords": [
+            3.0165,
+            39.8772
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Sammelpunkt für Radfahrer.",
+            "hu": "Kerékpárosok kedvelt találkozóhelye.",
+            "ro": "Punct de întâlnire pentru bicicliști.",
+            "en": "Meeting point for cyclists."
+          }
+        },
+        {
+          "name": "Puig de Maria",
+          "coords": [
+            3.0235,
+            39.8715
+          ],
+          "category": "natural features",
+          "arrive_at": "10:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Steiler Aufstieg, belohnt mit Fernsicht.",
+            "hu": "Meredek emelkedő, csodás panorámával.",
+            "ro": "Urcare abruptă, răsplătită cu vedere.",
+            "en": "Steep climb, rewarded with a view."
+          }
+        },
+        {
+          "name": "Pont Romà",
+          "coords": [
+            3.0185,
+            39.8812
+          ],
+          "category": "bridges",
+          "arrive_at": "12:40",
+          "stay_min": 30,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Fotostopp auf der alten Brücke.",
+            "hu": "Fotómegálló az ódon hídon.",
+            "ro": "Oprire foto pe podul vechi.",
+            "en": "Photo stop on the old bridge."
+          }
+        },
+        {
+          "name": "Cala Sant Vicenç",
+          "coords": [
+            3.0565,
+            39.9195
+          ],
+          "category": "parks",
+          "arrive_at": "13:50",
+          "stay_min": 120,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Kristallklares Wasser für eine Abkühlung.",
+            "hu": "Kristálytiszta víz egy gyors csobbanáshoz.",
+            "ro": "Apă cristalină pentru o răcorire.",
+            "en": "Crystal clear water for a swim."
+          }
+        },
+        {
+          "name": "Wachturm von Albercutx",
+          "coords": [
+            3.1145,
+            39.9325
+          ],
+          "category": "towers",
+          "arrive_at": "16:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Spektakulärer Blick auf Formentor.",
+            "hu": "Látványos kilátás Formentor felé.",
+            "ro": "Vedere spectaculoasă spre Formentor.",
+            "en": "Spectacular view towards Formentor."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie im Zentrum und fordern Sie sich am Puig de Maria heraus. Nach dem Abstieg geht es über die Römerbrücke in Richtung Küste. Genießen Sie den Mittag an der Bucht Cala Sant Vicenç und radeln Sie am späten Nachmittag zum Albercutx Turm für einen unvergleichlichen Ausblick auf das Meer.",
+        "hu": "A központból indulva küzdjünk meg a Puig de Maria emelkedőjével. A leereszkedés után a római hídon át tekerjünk a part felé. Töltse a délutánt Cala Sant Vicenç öblénél, majd tekerjen fel az Albercutx toronyhoz a tengerre nyíló páratlan kilátásért.",
+        "ro": "Porniți din centru și provocați-vă pe Puig de Maria. După coborâre, treceți pe podul roman spre coastă. Bucurați-vă de amiază la golful Cala Sant Vicenç și pedalați spre seară la turnul Albercutx pentru o priveliște de neegalat asupra mării.",
+        "en": "Start in the center and challenge yourself at Puig de Maria. After the descent, cycle via the Roman Bridge towards the coast. Enjoy the afternoon at Cala Sant Vicenç bay and cycle to the Albercutx Tower for an incomparable view over the sea."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Arros Brut",
+            "tip": "Deftiges Reisgericht im C'an Cuarassa."
+          },
+          {
+            "name": "Tumbet",
+            "tip": "Mallorquinisches Gemüsegericht."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Arros Brut",
+            "tip": "Húsos rizsétel a C'an Cuarassa étteremben."
+          },
+          {
+            "name": "Tumbet",
+            "tip": "Helyi sült zöldségtál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Arros Brut",
+            "tip": "Mâncare de orez la C'an Cuarassa."
+          },
+          {
+            "name": "Tumbet",
+            "tip": "Mâncare tradițională de legume."
+          }
+        ],
+        "en": [
+          {
+            "name": "Arros Brut",
+            "tip": "Hearty rice dish at C'an Cuarassa."
+          },
+          {
+            "name": "Tumbet",
+            "tip": "Mallorcan vegetable dish."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Puig de Maria Kloster",
+            "tip": "Stille in den Bergen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cala Molins",
+            "tip": "Abgelegener Küstenabschnitt.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Puig de Maria kolostor",
+            "tip": "Hegyvidéki csend és nyugalom.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cala Molins",
+            "tip": "Félreeső tengerparti szakasz.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mănăstirea Puig de Maria",
+            "tip": "Liniște în munți.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cala Molins",
+            "tip": "Segment de coastă retras.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Puig de Maria Monastery",
+            "tip": "Serenity in the mountains.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cala Molins",
+            "tip": "Secluded coastal spot.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Handgefertigte Keramik",
+            "tip": "In den Ateliers der Altstadt."
+          },
+          {
+            "name": "Lokaler Honig",
+            "tip": "Vom Wochenmarkt in Pollença."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kézműves kerámia",
+            "tip": "Az óvárosi műhelyekben."
+          },
+          {
+            "name": "Helyi méz",
+            "tip": "A pollencai heti piacról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ceramică artizanală",
+            "tip": "În atelierele din centrul vechi."
+          },
+          {
+            "name": "Miere locală",
+            "tip": "De la piața din Pollença."
+          }
+        ],
+        "en": [
+          {
+            "name": "Handmade Ceramics",
+            "tip": "In the workshops of the old town."
+          },
+          {
+            "name": "Local Honey",
+            "tip": "From the Pollença weekly market."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Straße zum Puig de Maria ist schmal und steil.",
+          "Ausreichend Wasser mitnehmen, die Küstenstraße ist sonnig.",
+          "Prüfen Sie Ihre Bremsen vor der Abfahrt vom Albercutx Turm.",
+          "Fahrradschlösser sind ein Muss in touristischen Zonen."
+        ],
+        "hu": [
+          "A Puig de Maria-ra vezető út keskeny és meredek.",
+          "Vigyünk elég vizet, a parti út nagyon napos.",
+          "Ellenőrizze a fékeket az Albercutx toronytól való leereszkedés előtt.",
+          "Kerékpárzár használata kötelező a turisztikai zónákban."
+        ],
+        "ro": [
+          "Drumul spre Puig de Maria este îngust și abrupt.",
+          "Luați destulă apă, drumul de coastă este însorit.",
+          "Verificați frânele înainte de coborârea de la turnul Albercutx.",
+          "Antifurtul este obligatoriu în zonele turistice."
+        ],
+        "en": [
+          "The road to Puig de Maria is narrow and steep.",
+          "Take enough water, the coastal road is very sunny.",
+          "Check your brakes before descending from Albercutx Tower.",
+          "Bicycle locks are a must in tourist zones."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Starten Sie im Zentrum und fordern Sie sich am Puig de Maria heraus. Nach dem Abstieg geht es über die Römerbrücke in Richtung Küste. Genießen Sie den Mittag an der Bucht Cala Sant Vicenç und radeln Sie am späten Nachmittag zum Albercutx Turm für einen unvergleichlichen Ausblick auf das Meer.",
+            "hu": "A központból indulva küzdjünk meg a Puig de Maria emelkedőjével. A leereszkedés után a római hídon át tekerjünk a part felé. Töltse a délutánt Cala Sant Vicenç öblénél, majd tekerjen fel az Albercutx toronyhoz a tengerre nyíló páratlan kilátásért.",
+            "ro": "Porniți din centru și provocați-vă pe Puig de Maria. După coborâre, treceți pe podul roman spre coastă. Bucurați-vă de amiază la golful Cala Sant Vicenç și pedalați spre seară la turnul Albercutx pentru o priveliște de neegalat asupra mării.",
+            "en": "Start in the center and challenge yourself at Puig de Maria. After the descent, cycle via the Roman Bridge towards the coast. Enjoy the afternoon at Cala Sant Vicenç bay and cycle to the Albercutx Tower for an incomparable view over the sea."
+          },
+          "stops": [
+            {
+              "name": "Plaça Major",
+              "tip_5lang": {
+                "de": "Sammelpunkt für Radfahrer.",
+                "hu": "Kerékpárosok kedvelt találkozóhelye.",
+                "ro": "Punct de întâlnire pentru bicicliști.",
+                "en": "Meeting point for cyclists."
+              }
+            },
+            {
+              "name": "Puig de Maria",
+              "tip_5lang": {
+                "de": "Steiler Aufstieg, belohnt mit Fernsicht.",
+                "hu": "Meredek emelkedő, csodás panorámával.",
+                "ro": "Urcare abruptă, răsplătită cu vedere.",
+                "en": "Steep climb, rewarded with a view."
+              }
+            },
+            {
+              "name": "Pont Romà",
+              "tip_5lang": {
+                "de": "Fotostopp auf der alten Brücke.",
+                "hu": "Fotómegálló az ódon hídon.",
+                "ro": "Oprire foto pe podul vechi.",
+                "en": "Photo stop on the old bridge."
+              }
+            },
+            {
+              "name": "Cala Sant Vicenç",
+              "tip_5lang": {
+                "de": "Kristallklares Wasser für eine Abkühlung.",
+                "hu": "Kristálytiszta víz egy gyors csobbanáshoz.",
+                "ro": "Apă cristalină pentru o răcorire.",
+                "en": "Crystal clear water for a swim."
+              }
+            },
+            {
+              "name": "Wachturm von Albercutx",
+              "tip_5lang": {
+                "de": "Spektakulärer Blick auf Formentor.",
+                "hu": "Látványos kilátás Formentor felé.",
+                "ro": "Vedere spectaculoasă spre Formentor.",
+                "en": "Spectacular view towards Formentor."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Arros Brut",
+                "tip": "Deftiges Reisgericht im C'an Cuarassa."
+              },
+              {
+                "name": "Tumbet",
+                "tip": "Mallorquinisches Gemüsegericht."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Arros Brut",
+                "tip": "Húsos rizsétel a C'an Cuarassa étteremben."
+              },
+              {
+                "name": "Tumbet",
+                "tip": "Helyi sült zöldségtál."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Arros Brut",
+                "tip": "Mâncare de orez la C'an Cuarassa."
+              },
+              {
+                "name": "Tumbet",
+                "tip": "Mâncare tradițională de legume."
+              }
+            ],
+            "en": [
+              {
+                "name": "Arros Brut",
+                "tip": "Hearty rice dish at C'an Cuarassa."
+              },
+              {
+                "name": "Tumbet",
+                "tip": "Mallorcan vegetable dish."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Puig de Maria Kloster",
+                "tip": "Stille in den Bergen.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Cala Molins",
+                "tip": "Abgelegener Küstenabschnitt.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Puig de Maria kolostor",
+                "tip": "Hegyvidéki csend és nyugalom.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Cala Molins",
+                "tip": "Félreeső tengerparti szakasz.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Mănăstirea Puig de Maria",
+                "tip": "Liniște în munți.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Cala Molins",
+                "tip": "Segment de coastă retras.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Puig de Maria Monastery",
+                "tip": "Serenity in the mountains.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Cala Molins",
+                "tip": "Secluded coastal spot.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Handgefertigte Keramik",
+                "tip": "In den Ateliers der Altstadt."
+              },
+              {
+                "name": "Lokaler Honig",
+                "tip": "Vom Wochenmarkt in Pollença."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Kézműves kerámia",
+                "tip": "Az óvárosi műhelyekben."
+              },
+              {
+                "name": "Helyi méz",
+                "tip": "A pollencai heti piacról."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Ceramică artizanală",
+                "tip": "În atelierele din centrul vechi."
+              },
+              {
+                "name": "Miere locală",
+                "tip": "De la piața din Pollença."
+              }
+            ],
+            "en": [
+              {
+                "name": "Handmade Ceramics",
+                "tip": "In the workshops of the old town."
+              },
+              {
+                "name": "Local Honey",
+                "tip": "From the Pollença weekly market."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Die Straße zum Puig de Maria ist schmal und steil.",
+              "Ausreichend Wasser mitnehmen, die Küstenstraße ist sonnig.",
+              "Prüfen Sie Ihre Bremsen vor der Abfahrt vom Albercutx Turm.",
+              "Fahrradschlösser sind ein Muss in touristischen Zonen."
+            ],
+            "hu": [
+              "A Puig de Maria-ra vezető út keskeny és meredek.",
+              "Vigyünk elég vizet, a parti út nagyon napos.",
+              "Ellenőrizze a fékeket az Albercutx toronytól való leereszkedés előtt.",
+              "Kerékpárzár használata kötelező a turisztikai zónákban."
+            ],
+            "ro": [
+              "Drumul spre Puig de Maria este îngust și abrupt.",
+              "Luați destulă apă, drumul de coastă este însorit.",
+              "Verificați frânele înainte de coborârea de la turnul Albercutx.",
+              "Antifurtul este obligatoriu în zonele turistice."
+            ],
+            "en": [
+              "The road to Puig de Maria is narrow and steep.",
+              "Take enough water, the coastal road is very sunny.",
+              "Check your brakes before descending from Albercutx Tower.",
+              "Bicycle locks are a must in tourist zones."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir starten vorsichtig an der Plaça Major auf nassen Reifen. Der Aufstieg zum Puig de Maria ist im Regen eine Herausforderung, da der Boden rutschig und schlammig sein kann.\n\nAuf der Abfahrt zur Pont Romà ist Bremsvorsicht geboten. Die Fahrt zur Cala Sant Vicenç und zum Albercutx Turm ist windgepeitscht, bietet aber dramatische Ausblicke auf die aufgewühlte See.",
+            "hu": "Óvatosan indulunk a Plaça Majorról vizes gumikkal. A Puig de Maria megmászása esőben kihívást jelent, mivel az út csúszós és sáros lehet.\n\nA római híd felé vezető lejtőn fokozott fékezési óvatosság szükséges. A Cala Sant Vicenç és az Albercutx torony felé vezető út szeles, de drámai kilátást nyújt a felkorbácsolt tengerre.",
+            "ro": "Pornim cu atenție din Plaça Major cu anvelopele ude. Urcarea spre Puig de Maria pe ploaie este o provocare, deoarece drumul poate fi alunecos și noroios.\n\nLa coborârea spre Pont Romà e necesară prudență la frânare. Drumul spre Cala Sant Vicenç și turnul Albercutx este bătut de vânt, dar oferă vederi dramatice asupra mării agitate.",
+            "en": "We start cautiously from Plaça Major on wet tires. The climb to Puig de Maria in the rain is a challenge as the path can be slippery and muddy.\n\nOn the descent towards Pont Romà, careful braking is required. The ride to Cala Sant Vicenç and Albercutx tower is windswept but offers dramatic views of the churning sea."
+          },
+          "stops": [
+            {
+              "name": "Plaça Major",
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen, bevor Sie auf die nassen Straßen starten.",
+                "hu": "Ellenőrizze a fékeket, mielőtt a vizes utakra hajtana.",
+                "ro": "Verificați frânele înainte de a porni pe străzile ude.",
+                "en": "Check your brakes before heading out onto the wet streets."
+              }
+            },
+            {
+              "name": "Puig de Maria",
+              "tip_5lang": {
+                "de": "Der gepflasterte Weg wird bei Regen extrem glatt.",
+                "hu": "A kövezett út esőben rendkívül csúszóssá válik.",
+                "ro": "Drumul pavat devine extrem de alunecos pe ploaie.",
+                "en": "The paved path becomes extremely slick when it rains."
+              }
+            },
+            {
+              "name": "Pont Romà",
+              "tip_5lang": {
+                "de": "Kurze Pause zum Abtrocknen der Ausrüstung unter den Bäumen.",
+                "hu": "Rövid szünet a felszerelés letörlésére a fák alatt.",
+                "ro": "Scurtă pauză sub copaci pentru a vă șterge echipamentul.",
+                "en": "Short break to wipe down your gear under the trees."
+              }
+            },
+            {
+              "name": "Cala Sant Vicenç",
+              "tip_5lang": {
+                "de": "Vorsicht vor starken Windböen an der Küstenstraße.",
+                "hu": "Vigyázzon az erős széllökésekre a parti úton.",
+                "ro": "Atenție la rafalele puternice de vânt pe drumul de coastă.",
+                "en": "Watch out for strong wind gusts on the coastal road."
+              }
+            },
+            {
+              "name": "Wachturm von Albercutx",
+              "tip_5lang": {
+                "de": "Exponierte Lage; halten Sie Ihr Rad bei Wind gut fest.",
+                "hu": "Kitett hely; szélben erősen fogja a kerékpárt.",
+                "ro": "Loc expus; țineți bine de bicicletă în caz de vânt.",
+                "en": "Exposed location; hold onto your bike firmly in the wind."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche sind bei Regen auf Mallorca unerlässlich.",
+              "Vermeiden Sie das Überfahren von weißen Linien, sie sind rutschig.",
+              "Tragen Sie eine auffällige Regenjacke für bessere Sichtbarkeit.",
+              "Die Abfahrten erfordern doppelte Vorsicht und frühes Bremsen.",
+              "Wärmen Sie sich nach der Tour in einer lokalen Bar auf."
+            ],
+            "hu": [
+              "A sárvédő elengedhetetlen az esős mallorcai utakon.",
+              "Kerülje az útfestéseket, mert vizesen nagyon csúsznak.",
+              "Viseljen feltűnő esőkabátot a jobb láthatóságért.",
+              "A lejtők dupla óvatosságot és korai fékezést igényelnek.",
+              "A túra után melegedjen fel egy helyi bárban."
+            ],
+            "ro": [
+              "Apărătorile de noroi sunt esențiale pe ploaie în Mallorca.",
+              "Evitați liniile albe marcate, sunt foarte alunecoase.",
+              "Purtați o jachetă de ploaie stridentă pentru vizibilitate.",
+              "Coborârile necesită prudență dublă și frânare timpurie.",
+              "Încălziți-vă după tură într-un bar local."
+            ],
+            "en": [
+              "Mudguards are essential for rainy rides in Mallorca.",
+              "Avoid riding over white road markings; they are slippery.",
+              "Wear a high-visibility rain jacket for better safety.",
+              "Descents require double caution and early braking.",
+              "Warm up in a local bar after the tour."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ideales Fahrradwetter! Wir starten frisch an der Plaça Major. Der Aufstieg zum Puig de Maria ist im Winter ein Genuss, ohne die Sommerhitze im Nacken.\n\nNach der Pont Romà genießen wir die leeren Straßen Richtung Cala Sant Vicenç. Der finale Anstieg zum Albercutx Wachturm bietet im Winter eine Fernsicht, die im Sommer oft durch Dunst getrübt ist.",
+            "hu": "Ideális kerékpáros idő! Frissen indulunk a Plaça Majorról. A Puig de Maria megmászása télen igazi élvezet, nincs a nyakunkon a nyári hőség.\n\nA római híd után élvezzük az üres utakat Cala Sant Vicenç felé. A záró emelkedő az Albercutx őrtoronyhoz olyan távlati kilátást nyújt, amit nyáron gyakran elhomályosít a pára.",
+            "ro": "Vreme ideală pentru ciclism! Pornim cu forțe proaspete din Plaça Major. Urcarea spre Puig de Maria este o plăcere iarna, fără arșița verii.\n\nDupă Pont Romà ne bucurăm de drumurile libere spre Cala Sant Vicenç. Urcarea finală spre turnul Albercutx oferă o vizibilitate la distanță care vara este adesea estompată de pâclă.",
+            "en": "Ideal cycling weather! We start fresh from Plaça Major. The climb to Puig de Maria is a joy in winter, without the summer heat on our backs.\n\nAfter Pont Romà, we enjoy the empty roads towards Cala Sant Vicenç. The final ascent to Albercutx tower offers a long-distance clarity often blurred by haze in summer."
+          },
+          "stops": [
+            {
+              "name": "Plaça Major",
+              "tip_5lang": {
+                "de": "Nutzen Sie den kühlen Morgen für einen zügigen Start.",
+                "hu": "Használja ki a hűvös reggelt a tempós kezdéshez.",
+                "ro": "Profitați de dimineața răcoroasă pentru un start rapid.",
+                "en": "Take advantage of the cool morning for a brisk start."
+              }
+            },
+            {
+              "name": "Puig de Maria",
+              "tip_5lang": {
+                "de": "Oben weht im Winter oft ein kalter Wind; Jacke mitnehmen.",
+                "hu": "Fent télen gyakran fúj hideg szél; vigyen kabátot.",
+                "ro": "Sus bate adesea un vânt rece iarna; luați o jachetă.",
+                "en": "A cold wind often blows at the top in winter; bring a jacket."
+              }
+            },
+            {
+              "name": "Pont Romà",
+              "tip_5lang": {
+                "de": "Wenig Verkehr macht die Anfahrt hierher sehr entspannt.",
+                "hu": "A kevés forgalom miatt az ideút nagyon pihentető.",
+                "ro": "Traficul redus face drumul până aici foarte relaxant.",
+                "en": "Low traffic makes the ride here very relaxed."
+              }
+            },
+            {
+              "name": "Cala Sant Vicenç",
+              "tip_5lang": {
+                "de": "Genießen Sie die Bucht fast für sich allein.",
+                "hu": "Élvezze az öblöt, szinte teljesen egyedül.",
+                "ro": "Bucurați-vă de golf aproape singuri.",
+                "en": "Enjoy the cove almost entirely to yourself."
+              }
+            },
+            {
+              "name": "Wachturm von Albercutx",
+              "tip_5lang": {
+                "de": "Lichtverhältnisse für Fotos sind am Nachmittag perfekt.",
+                "hu": "A délutáni fényviszonyok tökéletesek a fotózáshoz.",
+                "ro": "Condițiile de lumină pentru poze sunt perfecte după-amiaza.",
+                "en": "Light conditions for photos are perfect in the afternoon."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie winddichte Kleidung, besonders für die Abfahrten.",
+              "Die Straßen sind im Winter viel sicherer wegen weniger Mietwagen.",
+              "Nehmen Sie Licht mit, falls die Tour bis zum Sonnenuntergang dauert.",
+              "Mallorca ist im Winter ein Paradies für Profi-Radfahrer.",
+              "Stellen Sie sicher, dass Ihre Reifen den richtigen Druck für kühle Luft haben."
+            ],
+            "hu": [
+              "Viseljen szélálló ruházatot, különösen a lejtőkhöz.",
+              "Az utak télen sokkal biztonságosabbak a kevesebb bérautó miatt.",
+              "Vigyen lámpát, ha a túra naplementéig tartana.",
+              "Mallorca télen a profi kerékpárosok paradicsoma.",
+              "Ellenőrizze a guminyomást, a hideg levegőben változhat."
+            ],
+            "ro": [
+              "Purtați haine rezistente la vânt, mai ales pentru coborâri.",
+              "Drumurile sunt mult mai sigure iarna datorită traficului redus.",
+              "Luați lumini cu dvs. în caz că tura durează până la apus.",
+              "Mallorca este un paradis pentru bicicliștii profesioniști iarna.",
+              "Asigurați-vă că anvelopele au presiunea corectă pentru aerul rece."
+            ],
+            "en": [
+              "Wear windproof clothing, especially for the descents.",
+              "Roads are much safer in winter due to fewer rental cars.",
+              "Bring lights in case the tour lasts until sunset.",
+              "Mallorca is a paradise for professional cyclists in winter.",
+              "Ensure your tires have the right pressure for the cool air."
+            ]
+          }
+        }
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 42.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Plaça Major",
+          "coords": [
+            3.0165,
+            39.8772
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Frühstück am lebhaften Platz.",
+            "hu": "Reggeli a nyüzsgő főtéren.",
+            "ro": "Micul dejun în piața animată.",
+            "en": "Breakfast at the lively square."
+          }
+        },
+        {
+          "name": "El Calvari Treppe",
+          "coords": [
+            3.0135,
+            39.8788
+          ],
+          "category": "historical",
+          "arrive_at": "10:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Parken Sie am Fuße der Treppe.",
+            "hu": "Parkoljon a lépcső lábánál.",
+            "ro": "Parcați la baza treptelor.",
+            "en": "Park at the base of the steps."
+          }
+        },
+        {
+          "name": "Cap de Formentor Leuchtturm",
+          "coords": [
+            3.2115,
+            39.9612
+          ],
+          "category": "lighthouses",
+          "arrive_at": "12:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 15.0,
+          "tip_5lang": {
+            "de": "Ende der Welt Feeling am Nordkap.",
+            "hu": "A világ vége érzés a sziget északi fokán.",
+            "ro": "Senzația de capăt al lumii la far.",
+            "en": "End-of-the-world feeling at the lighthouse."
+          }
+        },
+        {
+          "name": "Wachturm von Albercutx",
+          "coords": [
+            3.1145,
+            39.9325
+          ],
+          "category": "towers",
+          "arrive_at": "14:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 12.0,
+          "tip_5lang": {
+            "de": "Kurzer Stopp für den besten Ausblick.",
+            "hu": "Rövid megálló a legjobb panorámáért.",
+            "ro": "Oprire scurtă pentru cea mai bună vedere.",
+            "en": "Short stop for the best view."
+          }
+        },
+        {
+          "name": "Cala Sant Vicenç",
+          "coords": [
+            3.0565,
+            39.9195
+          ],
+          "category": "parks",
+          "arrive_at": "15:40",
+          "stay_min": 120,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 12.0,
+          "tip_5lang": {
+            "de": "Baden in türkisblauem Wasser.",
+            "hu": "Fürdés a türkizkék vízben.",
+            "ro": "Baie în apă turcoaz.",
+            "en": "Swimming in turquoise water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie im historischen Kern von Pollença. Die Reise führt Sie dann zum spektakulären Cap de Formentor, dem nördlichsten Punkt Mallorcas. Nach dem windigen Kap genießen Sie das Panorama vom Albercutx Turm und beenden den Ausflug mit entspannten Stunden am Strand von Cala Sant Vicenç.",
+        "hu": "Kezdje a napot Pollença történelmi magjában. Az út ezután a látványos Cap de Formentorhoz vezet, Mallorca legészakibb pontjához. A szeles fok után élvezze az Albercutx torony panorámáját, majd zárja a kirándulást pihentető órákkal Cala Sant Vicenç strandján.",
+        "ro": "Începeți în centrul istoric al Pollençei. Călătoria vă duce apoi la spectaculosul Cap de Formentor, cel mai nordic punct al Mallorcăi. După capul vântos, bucurați-vă de panorama de la turnul Albercutx și încheiați excursia cu ore relaxante pe plaja Cala Sant Vicenç.",
+        "en": "Start in the historic core of Pollença. The journey then takes you to the spectacular Cap de Formentor, the northernmost point of Mallorca. After the windy cape, enjoy the panorama from the Albercutx Tower and end the trip with relaxing hours at the beach of Cala Sant Vicenç."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Llonguet",
+            "tip": "Belegtes Brötchen im Ca'n Moixet."
+          },
+          {
+            "name": "Gambas Rojas",
+            "tip": "Frische Garnelen am Hafen von Pollença."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Llonguet",
+            "tip": "Töltött zsemle a Ca'n Moixet-ben."
+          },
+          {
+            "name": "Gambas Rojas",
+            "tip": "Friss garnélarák Port de Pollença-ban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Llonguet",
+            "tip": "Sandviș tipic la Ca'n Moixet."
+          },
+          {
+            "name": "Gambas Rojas",
+            "tip": "Creveți proaspeți în Port de Pollença."
+          }
+        ],
+        "en": [
+          {
+            "name": "Llonguet",
+            "tip": "Traditional roll at Ca'n Moixet."
+          },
+          {
+            "name": "Gambas Rojas",
+            "tip": "Fresh prawns at Port de Pollença."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Mirador Es Colomer",
+            "tip": "Ikonischer Aussichtspunkt.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Cala Clara",
+            "tip": "Kleine, ruhige Felsbucht.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mirador Es Colomer",
+            "tip": "Ikonikus kilátóhely a tenger felett.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Cala Clara",
+            "tip": "Kicsi, csendes sziklás öböl.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mirador Es Colomer",
+            "tip": "Punct de observație iconic.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Cala Clara",
+            "tip": "Golf mic și liniștit.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Mirador Es Colomer",
+            "tip": "Iconic viewpoint over the sea.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Cala Clara",
+            "tip": "Small, quiet rocky cove.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bodega Ca'n Vidalet",
+            "tip": "Wein direkt vom Weingut."
+          },
+          {
+            "name": "L'Agulla",
+            "tip": "Handgefertigte Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bodega Ca'n Vidalet",
+            "tip": "Helyi bor közvetlenül a borászatból."
+          },
+          {
+            "name": "L'Agulla",
+            "tip": "Kézműves ajándéktárgyak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bodega Ca'n Vidalet",
+            "tip": "Vin direct de la cramă."
+          },
+          {
+            "name": "L'Agulla",
+            "tip": "Suveniruri artizanale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bodega Ca'n Vidalet",
+            "tip": "Wine directly from the vineyard."
+          },
+          {
+            "name": "L'Agulla",
+            "tip": "Handmade souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Straße zum Formentor Leuchtturm ist im Sommer gesperrt (Shuttle nutzen).",
+          "Früh aufbrechen, um Parkplatzprobleme am Kap zu vermeiden.",
+          "Die Bergstraßen sind kurvenreich, fahren Sie vorsichtig.",
+          "In Cala Sant Vicenç gibt es öffentliche Parkplätze nah am Strand."
+        ],
+        "hu": [
+          "A Formentor világítótoronyhoz vezető út nyáron le van zárva (busz jár).",
+          "Induljon korán, hogy elkerülje a parkolási gondokat a foknál.",
+          "A hegyi utak kanyargósak, vezessen óvatosan.",
+          "Cala Sant Vicenç-ben van nyilvános parkoló a strand közelében."
+        ],
+        "ro": [
+          "Drumul spre farul Formentor este închis vara (folosiți autobuzul).",
+          "Plecați devreme pentru a evita problemele de parcare.",
+          "Drumurile de munte sunt sinuoase, conduceți cu prudență.",
+          "În Cala Sant Vicenç există parcări publice aproape de plajă."
+        ],
+        "en": [
+          "The road to Formentor lighthouse is restricted in summer (use shuttle).",
+          "Leave early to avoid parking issues at the cape.",
+          "The mountain roads are winding, drive carefully.",
+          "In Cala Sant Vicenç there are public car parks near the beach."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie im historischen Kern von Pollença. Die Reise führt Sie dann zum spektakulären Cap de Formentor, dem nördlichsten Punkt Mallorcas. Nach dem windigen Kap genießen Sie das Panorama vom Albercutx Turm und beenden den Ausflug mit entspannten Stunden am Strand von Cala Sant Vicenç.",
+            "hu": "Kezdje a napot Pollença történelmi magjában. Az út ezután a látványos Cap de Formentorhoz vezet, Mallorca legészakibb pontjához. A szeles fok után élvezze az Albercutx torony panorámáját, majd zárja a kirándulást pihentető órákkal Cala Sant Vicenç strandján.",
+            "ro": "Începeți în centrul istoric al Pollençei. Călătoria vă duce apoi la spectaculosul Cap de Formentor, cel mai nordic punct al Mallorcăi. După capul vântos, bucurați-vă de panorama de la turnul Albercutx și încheiați excursia cu ore relaxante pe plaja Cala Sant Vicenç.",
+            "en": "Start in the historic core of Pollença. The journey then takes you to the spectacular Cap de Formentor, the northernmost point of Mallorca. After the windy cape, enjoy the panorama from the Albercutx Tower and end the trip with relaxing hours at the beach of Cala Sant Vicenç."
+          },
+          "stops": [
+            {
+              "name": "Plaça Major",
+              "tip_5lang": {
+                "de": "Frühstück am lebhaften Platz.",
+                "hu": "Reggeli a nyüzsgő főtéren.",
+                "ro": "Micul dejun în piața animată.",
+                "en": "Breakfast at the lively square."
+              }
+            },
+            {
+              "name": "El Calvari Treppe",
+              "tip_5lang": {
+                "de": "Parken Sie am Fuße der Treppe.",
+                "hu": "Parkoljon a lépcső lábánál.",
+                "ro": "Parcați la baza treptelor.",
+                "en": "Park at the base of the steps."
+              }
+            },
+            {
+              "name": "Cap de Formentor Leuchtturm",
+              "tip_5lang": {
+                "de": "Ende der Welt Feeling am Nordkap.",
+                "hu": "A világ vége érzés a sziget északi fokán.",
+                "ro": "Senzația de capăt al lumii la far.",
+                "en": "End-of-the-world feeling at the lighthouse."
+              }
+            },
+            {
+              "name": "Wachturm von Albercutx",
+              "tip_5lang": {
+                "de": "Kurzer Stopp für den besten Ausblick.",
+                "hu": "Rövid megálló a legjobb panorámáért.",
+                "ro": "Oprire scurtă pentru cea mai bună vedere.",
+                "en": "Short stop for the best view."
+              }
+            },
+            {
+              "name": "Cala Sant Vicenç",
+              "tip_5lang": {
+                "de": "Baden in türkisblauem Wasser.",
+                "hu": "Fürdés a türkizkék vízben.",
+                "ro": "Baie în apă turcoaz.",
+                "en": "Swimming in turquoise water."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Llonguet",
+                "tip": "Belegtes Brötchen im Ca'n Moixet."
+              },
+              {
+                "name": "Gambas Rojas",
+                "tip": "Frische Garnelen am Hafen von Pollença."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Llonguet",
+                "tip": "Töltött zsemle a Ca'n Moixet-ben."
+              },
+              {
+                "name": "Gambas Rojas",
+                "tip": "Friss garnélarák Port de Pollença-ban."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Llonguet",
+                "tip": "Sandviș tipic la Ca'n Moixet."
+              },
+              {
+                "name": "Gambas Rojas",
+                "tip": "Creveți proaspeți în Port de Pollença."
+              }
+            ],
+            "en": [
+              {
+                "name": "Llonguet",
+                "tip": "Traditional roll at Ca'n Moixet."
+              },
+              {
+                "name": "Gambas Rojas",
+                "tip": "Fresh prawns at Port de Pollença."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Mirador Es Colomer",
+                "tip": "Ikonischer Aussichtspunkt.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Cala Clara",
+                "tip": "Kleine, ruhige Felsbucht.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Mirador Es Colomer",
+                "tip": "Ikonikus kilátóhely a tenger felett.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Cala Clara",
+                "tip": "Kicsi, csendes sziklás öböl.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Mirador Es Colomer",
+                "tip": "Punct de observație iconic.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Cala Clara",
+                "tip": "Golf mic și liniștit.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Mirador Es Colomer",
+                "tip": "Iconic viewpoint over the sea.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Cala Clara",
+                "tip": "Small, quiet rocky cove.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Bodega Ca'n Vidalet",
+                "tip": "Wein direkt vom Weingut."
+              },
+              {
+                "name": "L'Agulla",
+                "tip": "Handgefertigte Souvenirs."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Bodega Ca'n Vidalet",
+                "tip": "Helyi bor közvetlenül a borászatból."
+              },
+              {
+                "name": "L'Agulla",
+                "tip": "Kézműves ajándéktárgyak."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Bodega Ca'n Vidalet",
+                "tip": "Vin direct de la cramă."
+              },
+              {
+                "name": "L'Agulla",
+                "tip": "Suveniruri artizanale."
+              }
+            ],
+            "en": [
+              {
+                "name": "Bodega Ca'n Vidalet",
+                "tip": "Wine directly from the vineyard."
+              },
+              {
+                "name": "L'Agulla",
+                "tip": "Handmade souvenirs."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Die Straße zum Formentor Leuchtturm ist im Sommer gesperrt (Shuttle nutzen).",
+              "Früh aufbrechen, um Parkplatzprobleme am Kap zu vermeiden.",
+              "Die Bergstraßen sind kurvenreich, fahren Sie vorsichtig.",
+              "In Cala Sant Vicenç gibt es öffentliche Parkplätze nah am Strand."
+            ],
+            "hu": [
+              "A Formentor világítótoronyhoz vezető út nyáron le van zárva (busz jár).",
+              "Induljon korán, hogy elkerülje a parkolási gondokat a foknál.",
+              "A hegyi utak kanyargósak, vezessen óvatosan.",
+              "Cala Sant Vicenç-ben van nyilvános parkoló a strand közelében."
+            ],
+            "ro": [
+              "Drumul spre farul Formentor este închis vara (folosiți autobuzul).",
+              "Plecați devreme pentru a evita problemele de parcare.",
+              "Drumurile de munte sunt sinuoase, conduceți cu prudență.",
+              "În Cala Sant Vicenç există parcări publice aproape de plajă."
+            ],
+            "en": [
+              "The road to Formentor lighthouse is restricted in summer (use shuttle).",
+              "Leave early to avoid parking issues at the cape.",
+              "The mountain roads are winding, drive carefully.",
+              "In Cala Sant Vicenç there are public car parks near the beach."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Bequem im Trockenen starten wir an der Plaça Major. Der Stopp am Calvari ist kurz gehalten, da die Stufen bei Regen Aufmerksamkeit fordern.\n\nDie Fahrt zum Formentor Leuchtturm ist bei Regen dramatisch, erfordert aber volle Konzentration auf der kurvigen Straße. Den Nachmittag verbringen wir geschützt im Auto beim Albercutx Aussichtspunkt und beenden den Tag in der Bucht von Sant Vicenç.",
+            "hu": "Kényelmesen, szárazon indulunk a Plaça Majorról. A Kálvária-megálló rövid, mivel a lépcsők esőben fokozott figyelmet igényelnek.\n\nA Formentor világítótoronyhoz vezető út esőben drámai, de teljes koncentrációt igényel a kanyargós úton. A délutánt az autó védelmében töltjük az Albercutx kilátónál, majd Sant Vicenç öblében zárjuk a napot.",
+            "ro": "Pornim confortabil și la adăpost din Plaça Major. Oprirea la Calvari este scurtă, deoarece treptele necesită atenție sporită pe ploaie.\n\nDrumul spre farul Formentor este dramatic pe ploaie, dar necesită concentrare maximă pe șoseaua sinuoasă. După-amiaza o petrecem protejați în mașină la punctul de belvedere Albercutx și încheiem ziua în golful Sant Vicenç.",
+            "en": "Starting comfortably dry from Plaça Major. The Calvari stop is kept brief as the steps demand extra attention in the rain.\n\nThe drive to Formentor lighthouse is dramatic in wet weather but requires full concentration on the winding road. We spend the afternoon sheltered in the car at the Albercutx viewpoint and end the day in Sant Vicenç bay."
+          },
+          "stops": [
+            {
+              "name": "Plaça Major",
+              "tip_5lang": {
+                "de": "Parken Sie im nahen Parkhaus, um trocken ins Zentrum zu kommen.",
+                "hu": "Parkoljon a közeli parkolóházban, hogy szárazon jusson a központba.",
+                "ro": "Parcați în parcarea etajată din apropiere pentru a ajunge uscați în centru.",
+                "en": "Park in the nearby parking garage to reach the center dry."
+              }
+            },
+            {
+              "name": "El Calvari Treppe",
+              "tip_5lang": {
+                "de": "Fahren Sie zum oberen Teil, wenn der Regen zu stark ist.",
+                "hu": "Hajtson fel a felső részhez, ha túl erősen esik.",
+                "ro": "Conduceți spre partea de sus dacă ploaia este prea puternică.",
+                "en": "Drive to the upper part if the rain is too heavy to walk."
+              }
+            },
+            {
+              "name": "Cap de Formentor Leuchtturm",
+              "tip_5lang": {
+                "de": "Vorsicht vor Aquaplaning auf der schmalen Straße.",
+                "hu": "Vigyázzon a vízenfutásra (aquaplaning) a szűk úton.",
+                "ro": "Atenție la acvaplanare pe drumul îngust.",
+                "en": "Beware of aquaplaning on the narrow road."
+              }
+            },
+            {
+              "name": "Wachturm von Albercutx",
+              "tip_5lang": {
+                "de": "Gute Sicht auch aus dem Autofenster bei starkem Guss.",
+                "hu": "Jó kilátás az autó ablakából is erős zápor esetén.",
+                "ro": "Vedere bună chiar și din fereastra mașinii în caz de ploaie.",
+                "en": "Good views even from the car window during a heavy shower."
+              }
+            },
+            {
+              "name": "Cala Sant Vicenç",
+              "tip_5lang": {
+                "de": "Parken Sie direkt am Strand und genießen Sie das wilde Meer.",
+                "hu": "Parkoljon közvetlenül a strandon, és nézze a vad tengert.",
+                "ro": "Parcați direct pe plajă și bucurați-vă de marea agitată.",
+                "en": "Park directly by the beach and enjoy the wild sea."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Überprüfen Sie den Zustand der Scheibenwischer am Mietwagen.",
+              "Formentor kann bei starkem Regen für den Verkehr gesperrt werden.",
+              "Die Wolken hängen oft tief, rechnen Sie mit Nebel in den Bergen.",
+              "Nutzen Sie die Parkplätze so nah wie möglich an den Sehenswürdigkeiten.",
+              "Einige Bergstraßen können nach Regen Steinschlag aufweisen."
+            ],
+            "hu": [
+              "Ellenőrizze az ablaktörlők állapotát a bérautón.",
+              "A Formentort erős esőben lezárhatják a forgalom elől.",
+              "A felhők gyakran alacsonyan szállnak, ködre számítson a hegyekben.",
+              "Használja a látnivalókhoz legközelebbi parkolókat.",
+              "Egyes hegyi utakon kőomlás fordulhat elő eső után."
+            ],
+            "ro": [
+              "Verificați starea ștergătoarelor la mașina închiriată.",
+              "Formentor poate fi închis traficului în caz de ploaie torențială.",
+              "Norii sunt adesea joși, așteptați-vă la ceață în munți.",
+              "Folosiți parcările cât mai aproape de obiectivele turistice.",
+              "Unele drumuri de munte pot avea căderi de pietre după ploaie."
+            ],
+            "en": [
+              "Check the condition of the windshield wipers on your rental car.",
+              "Formentor can be closed to traffic during heavy rain.",
+              "Clouds often hang low; expect fog in the mountains.",
+              "Use parking spots as close to the attractions as possible.",
+              "Some mountain roads may have fallen rocks after rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein entspannter Tag ohne Parkplatzsorgen! Wir starten an der Plaça Major und genießen den Calvari-Aufstieg in der milden Winterluft.\n\nDie Fahrt zum Cap de Formentor ist im Winter ein Highlight, da die sommerlichen Zugangsbeschränkungen nicht gelten. Wir beenden die Tour beim Albercutx Wachturm und der Cala Sant Vicenç im klaren, tiefstehenden Sonnenlicht des Nachmittags.",
+            "hu": "Egy pihentető nap parkolási gondok nélkül! A Plaça Majorról indulunk, és élvezzük a Kálvária-mászást a lágy téli levegőben.\n\nA Formentor-fokhoz vezető út télen igazi fénypont, mivel a nyári korlátozások ilyenkor nem érvényesek. A túrát az Albercutx őrtoronynál és Cala Sant Vicenç-nél zárjuk a délutáni tiszta, alacsonyan járó napfényben.",
+            "ro": "O zi relaxantă fără grija parcării! Pornim din Plaça Major și ne bucurăm de urcarea la Calvari în aerul blând de iarnă.\n\nDrumul spre Cap de Formentor este un punct forte iarna, deoarece restricțiile de vară nu se aplică. Încheiem turul la turnul Albercutx și Cala Sant Vicenç în lumina clară a soarelui de după-amiază.",
+            "en": "A relaxed day without parking worries! We start at Plaça Major and enjoy the Calvari climb in the mild winter air.\n\nThe drive to Cap de Formentor is a highlight in winter as summer access restrictions do not apply. We finish the tour at Albercutx tower and Cala Sant Vicenç in the clear, low-hanging afternoon sunlight."
+          },
+          "stops": [
+            {
+              "name": "Plaça Major",
+              "tip_5lang": {
+                "de": "Parken ist im Winter im Zentrum viel einfacher.",
+                "hu": "A parkolás télen sokkal egyszerűbb a központban.",
+                "ro": "Parcarea este mult mai ușoară în centru iarna.",
+                "en": "Parking is much easier in the center during winter."
+              }
+            },
+            {
+              "name": "El Calvari Treppe",
+              "tip_5lang": {
+                "de": "Ideales Licht für Panoramafotos vom Gipfel am Vormittag.",
+                "hu": "Ideális fények a csúcsról készült panorámaképekhez délelőtt.",
+                "ro": "Lumină ideală pentru fotografii panoramice de sus dimineața.",
+                "en": "Ideal light for panorama photos from the top in the morning."
+              }
+            },
+            {
+              "name": "Cap de Formentor Leuchtturm",
+              "tip_5lang": {
+                "de": "Keine Shuttles nötig, Sie können direkt zum Leuchtturm fahren.",
+                "hu": "Nincs szükség transzferbuszra, közvetlenül a toronyhoz hajthat.",
+                "ro": "Nu e nevoie de autobuze, puteți conduce direct la far.",
+                "en": "No shuttles needed; you can drive directly to the lighthouse."
+              }
+            },
+            {
+              "name": "Wachturm von Albercutx",
+              "tip_5lang": {
+                "de": "Parken Sie oben und genießen Sie die Stille.",
+                "hu": "Parkoljon fent, és élvezze a csendet.",
+                "ro": "Parcați sus și bucurați-vă de liniște.",
+                "en": "Park at the top and enjoy the silence."
+              }
+            },
+            {
+              "name": "Cala Sant Vicenç",
+              "tip_5lang": {
+                "de": "Die Restaurants am Strand haben oft Winterpause.",
+                "hu": "A strand menti éttermek gyakran zárva tartanak télen.",
+                "ro": "Restaurantele de pe plajă sunt adesea închise iarna.",
+                "en": "Beachfront restaurants often have a winter break."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Genießen Sie die Freiheit der Straßen ohne Touristenbusse.",
+              "Die Temperaturen können im Auto bei Sonne schnell steigen.",
+              "Formentor ist im Winter frei befahrbar (keine Sperrzeiten).",
+              "Planen Sie die Rückreise vor 17:30 Uhr wegen der Dunkelheit.",
+              "Einige Bergstraßen können im Schatten feucht und rutschig sein."
+            ],
+            "hu": [
+              "Élvezze az utak szabadságát turistabuszok nélkül.",
+              "A hőmérséklet az autóban a napon gyorsan megemelkedhet.",
+              "A Formentor télen szabadon autózható (nincsenek tiltott idősávok).",
+              "A sötétség miatt tervezze a visszaútat 17:30 elé.",
+              "Néhány hegyi út az árnyékos részeken nedves és csúszós lehet."
+            ],
+            "ro": [
+              "Bucurați-vă de libertatea drumurilor fără autobuze turistice.",
+              "Temperaturile din mașină pot crește rapid când e soare.",
+              "Formentor este liber accesibil iarna (fără restricții de timp).",
+              "Planificați drumul de întoarcere înainte de 17:30 din cauza întunericului.",
+              "Unele drumuri de munte pot fi umede și alunecoase la umbră."
+            ],
+            "en": [
+              "Enjoy the freedom of the roads without tourist buses.",
+              "Temperatures inside the car can rise quickly in the sun.",
+              "Formentor is fully accessible in winter (no restricted hours).",
+              "Plan your return journey before 17:30 due to darkness.",
+              "Some mountain roads can be damp and slippery in the shadows."
+            ]
+          }
+        }
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 12.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Plaça Major",
+          "coords": [
+            3.0165,
+            39.8772
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Zentrale Bushaltestelle in Gehweite.",
+            "hu": "Központi buszmegálló sétatávolságra.",
+            "ro": "Stația centrală de autobuz la mică distanță.",
+            "en": "Central bus stop within walking distance."
+          }
+        },
+        {
+          "name": "Kreuzgang von Sant Domingo",
+          "coords": [
+            3.0152,
+            39.8775
+          ],
+          "category": "historical",
+          "arrive_at": "10:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Nahe der Haltestelle Pollença Centre.",
+            "hu": "Pollença Centre megálló közelében.",
+            "ro": "Lângă stația Pollença Centre.",
+            "en": "Near the Pollença Centre stop."
+          }
+        },
+        {
+          "name": "Cala Sant Vicenç",
+          "coords": [
+            3.0565,
+            39.9195
+          ],
+          "category": "parks",
+          "arrive_at": "11:30",
+          "stay_min": 180,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 7.0,
+          "tip_5lang": {
+            "de": "Linie 322 verbindet Pollença mit der Bucht.",
+            "hu": "A 322-es busz köti össze a várost az öböllel.",
+            "ro": "Linia 322 leagă Pollença de golf.",
+            "en": "Line 322 connects Pollença with the bay."
+          }
+        },
+        {
+          "name": "Pont Romà",
+          "coords": [
+            3.0185,
+            39.8812
+          ],
+          "category": "bridges",
+          "arrive_at": "15:20",
+          "stay_min": 30,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Rückfahrt in den Ort mit dem Bus.",
+            "hu": "Visszatérés a városba busszal.",
+            "ro": "Întoarcere în oraș cu autobuzul.",
+            "en": "Return to the town by bus."
+          }
+        },
+        {
+          "name": "Museum von Pollença",
+          "coords": [
+            3.0155,
+            39.8778
+          ],
+          "category": "museums",
+          "arrive_at": "16:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Letzter Stopp vor der Abfahrt.",
+            "hu": "Utolsó kulturális megálló indulás előtt.",
+            "ro": "Ultima oprire înainte de plecare.",
+            "en": "Final stop before departure."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem TIB-Bus erkunden Sie bequem die Highlights. Beginnen Sie im Zentrum und besuchen Sie den friedlichen Kreuzgang. Der Bus 322 bringt Sie direkt zur traumhaften Cala Sant Vicenç für einen langen Strandaufenthalt. Nachmittags kehren Sie zurück, um die Römerbrücke und das Stadtmuseum zu besichtigen.",
+        "hu": "A TIB buszokkal kényelmesen felfedezheti a környéket. Kezdje a központban a kolostor látogatásával, majd a 322-es busszal irány Cala Sant Vicenç álomszép öble. Itt egy hosszú strandolás után délután térjen vissza a városba a római hídhoz és a múzeumhoz.",
+        "ro": "Explorați punctele de interes cu autobuzul TIB. Începeți în centru cu vizitarea mănăstirii, apoi luați autobuzul 322 spre golful superb Cala Sant Vicenç. După o sesiune lungă de plajă, reveniți în oraș pentru podul roman și muzeu.",
+        "en": "Explore the highlights easily with TIB buses. Start in the center visiting the peaceful cloister. Bus 322 takes you directly to the stunning Cala Sant Vicenç for a long beach session. In the afternoon, return to see the Roman Bridge and the town museum."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Sobrassada",
+            "tip": "Würzige Streichwurst vom Markt."
+          },
+          {
+            "name": "Frito Mallorquín",
+            "tip": "Innereien mit Gemüse, sehr lokal."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sobrassada",
+            "tip": "Fűszeres kolbászkrém a piacról."
+          },
+          {
+            "name": "Frito Mallorquín",
+            "tip": "Helyi sült belsőség zöldségekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sobrassada",
+            "tip": "Pastă de cârnat condimentată de la piață."
+          },
+          {
+            "name": "Frito Mallorquín",
+            "tip": "Mâncare tradițională cu măruntaie și legume."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sobrassada",
+            "tip": "Spicy sausage paste from the market."
+          },
+          {
+            "name": "Frito Mallorquín",
+            "tip": "Traditional fried offal with vegetables."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Jardi de Joan March",
+            "tip": "Ruhiger Stadtgarten.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Cala Barques",
+            "tip": "Kristallklares Wasser bei Sonnenuntergang.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Joan March kert",
+            "tip": "Csendes városi park.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Cala Barques",
+            "tip": "Kristálytiszta víz naplementekor.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Joan March",
+            "tip": "Parc urban liniștit.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Cala Barques",
+            "tip": "Apă cristalină la apus.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Joan March Garden",
+            "tip": "Quiet city park.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Cala Barques",
+            "tip": "Crystal clear water at sunset.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mercat de Pollença",
+            "tip": "Jeden Sonntag Kunsthandwerk."
+          },
+          {
+            "name": "C'an Moixet Souvenirs",
+            "tip": "Hübsche lokale Geschenke."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mercat de Pollença",
+            "tip": "Minden vasárnap kézműves termékek."
+          },
+          {
+            "name": "C'an Moixet Souvenirs",
+            "tip": "Szép helyi ajándéktárgyak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mercat de Pollença",
+            "tip": "Produse artizanale în fiecare duminică."
+          },
+          {
+            "name": "C'an Moixet Souvenirs",
+            "tip": "Cadouri locale drăguțe."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mercat de Pollença",
+            "tip": "Handicrafts every Sunday."
+          },
+          {
+            "name": "C'an Moixet Souvenirs",
+            "tip": "Lovely local gifts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die TIB-Karte oder kontaktloses Bezahlen im Bus.",
+          "Die Busfrequenz nach Cala Sant Vicenç variiert saisonal.",
+          "Bushaltestellen sind oft mit 'Pollença' oder 'Port de Pollença' beschriftet.",
+          "Schatten an Bushaltestellen ist oft knapp, Hut mitnehmen."
+        ],
+        "hu": [
+          "Használja a TIB-kártyát vagy bankkártyáját a buszon.",
+          "A Cala Sant Vicenç-be tartó buszok sűrűsége szezonfüggő.",
+          "A buszmegállókat gyakran 'Pollença' vagy 'Port de Pollença' néven jelzik.",
+          "A buszmegállókban kevés az árnyék, legyen nálunk kalap."
+        ],
+        "ro": [
+          "Folosiți cardul TIB sau plata contactless în autobuz.",
+          "Frecvența autobuzelor spre Cala Sant Vicenç variază sezonier.",
+          "Stațiile sunt adesea marcate ca 'Pollença' sau 'Port de Pollença'.",
+          "Umbra în stații este rară, luați o pălărie."
+        ],
+        "en": [
+          "Use the TIB card or contactless payment on the bus.",
+          "Bus frequency to Cala Sant Vicenç varies seasonally.",
+          "Bus stops are often labeled 'Pollença' or 'Port de Pollença'.",
+          "Shade at bus stops is often scarce, bring a hat."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mit dem TIB-Bus erkunden Sie bequem die Highlights. Beginnen Sie im Zentrum und besuchen Sie den friedlichen Kreuzgang. Der Bus 322 bringt Sie direkt zur traumhaften Cala Sant Vicenç für einen langen Strandaufenthalt. Nachmittags kehren Sie zurück, um die Römerbrücke und das Stadtmuseum zu besichtigen.",
+            "hu": "A TIB buszokkal kényelmesen felfedezheti a környéket. Kezdje a központban a kolostor látogatásával, majd a 322-es busszal irány Cala Sant Vicenç álomszép öble. Itt egy hosszú strandolás után délután térjen vissza a városba a római hídhoz és a múzeumhoz.",
+            "ro": "Explorați punctele de interes cu autobuzul TIB. Începeți în centru cu vizitarea mănăstirii, apoi luați autobuzul 322 spre golful superb Cala Sant Vicenç. După o sesiune lungă de plajă, reveniți în oraș pentru podul roman și muzeu.",
+            "en": "Explore the highlights easily with TIB buses. Start in the center visiting the peaceful cloister. Bus 322 takes you directly to the stunning Cala Sant Vicenç for a long beach session. In the afternoon, return to see the Roman Bridge and the town museum."
+          },
+          "stops": [
+            {
+              "name": "Plaça Major",
+              "tip_5lang": {
+                "de": "Zentrale Bushaltestelle in Gehweite.",
+                "hu": "Központi buszmegálló sétatávolságra.",
+                "ro": "Stația centrală de autobuz la mică distanță.",
+                "en": "Central bus stop within walking distance."
+              }
+            },
+            {
+              "name": "Kreuzgang von Sant Domingo",
+              "tip_5lang": {
+                "de": "Nahe der Haltestelle Pollença Centre.",
+                "hu": "Pollença Centre megálló közelében.",
+                "ro": "Lângă stația Pollença Centre.",
+                "en": "Near the Pollença Centre stop."
+              }
+            },
+            {
+              "name": "Cala Sant Vicenç",
+              "tip_5lang": {
+                "de": "Linie 322 verbindet Pollença mit der Bucht.",
+                "hu": "A 322-es busz köti össze a várost az öböllel.",
+                "ro": "Linia 322 leagă Pollença de golf.",
+                "en": "Line 322 connects Pollença with the bay."
+              }
+            },
+            {
+              "name": "Pont Romà",
+              "tip_5lang": {
+                "de": "Rückfahrt in den Ort mit dem Bus.",
+                "hu": "Visszatérés a városba busszal.",
+                "ro": "Întoarcere în oraș cu autobuzul.",
+                "en": "Return to the town by bus."
+              }
+            },
+            {
+              "name": "Museum von Pollença",
+              "tip_5lang": {
+                "de": "Letzter Stopp vor der Abfahrt.",
+                "hu": "Utolsó kulturális megálló indulás előtt.",
+                "ro": "Ultima oprire înainte de plecare.",
+                "en": "Final stop before departure."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Sobrassada",
+                "tip": "Würzige Streichwurst vom Markt."
+              },
+              {
+                "name": "Frito Mallorquín",
+                "tip": "Innereien mit Gemüse, sehr lokal."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Sobrassada",
+                "tip": "Fűszeres kolbászkrém a piacról."
+              },
+              {
+                "name": "Frito Mallorquín",
+                "tip": "Helyi sült belsőség zöldségekkel."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Sobrassada",
+                "tip": "Pastă de cârnat condimentată de la piață."
+              },
+              {
+                "name": "Frito Mallorquín",
+                "tip": "Mâncare tradițională cu măruntaie și legume."
+              }
+            ],
+            "en": [
+              {
+                "name": "Sobrassada",
+                "tip": "Spicy sausage paste from the market."
+              },
+              {
+                "name": "Frito Mallorquín",
+                "tip": "Traditional fried offal with vegetables."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Jardi de Joan March",
+                "tip": "Ruhiger Stadtgarten.",
+                "emoji": "🍃"
+              },
+              {
+                "name": "Cala Barques",
+                "tip": "Kristallklares Wasser bei Sonnenuntergang.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Joan March kert",
+                "tip": "Csendes városi park.",
+                "emoji": "🍃"
+              },
+              {
+                "name": "Cala Barques",
+                "tip": "Kristálytiszta víz naplementekor.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Grădina Joan March",
+                "tip": "Parc urban liniștit.",
+                "emoji": "🍃"
+              },
+              {
+                "name": "Cala Barques",
+                "tip": "Apă cristalină la apus.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Joan March Garden",
+                "tip": "Quiet city park.",
+                "emoji": "🍃"
+              },
+              {
+                "name": "Cala Barques",
+                "tip": "Crystal clear water at sunset.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Mercat de Pollença",
+                "tip": "Jeden Sonntag Kunsthandwerk."
+              },
+              {
+                "name": "C'an Moixet Souvenirs",
+                "tip": "Hübsche lokale Geschenke."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Mercat de Pollença",
+                "tip": "Minden vasárnap kézműves termékek."
+              },
+              {
+                "name": "C'an Moixet Souvenirs",
+                "tip": "Szép helyi ajándéktárgyak."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Mercat de Pollença",
+                "tip": "Produse artizanale în fiecare duminică."
+              },
+              {
+                "name": "C'an Moixet Souvenirs",
+                "tip": "Cadouri locale drăguțe."
+              }
+            ],
+            "en": [
+              {
+                "name": "Mercat de Pollença",
+                "tip": "Handicrafts every Sunday."
+              },
+              {
+                "name": "C'an Moixet Souvenirs",
+                "tip": "Lovely local gifts."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Nutzen Sie die TIB-Karte oder kontaktloses Bezahlen im Bus.",
+              "Die Busfrequenz nach Cala Sant Vicenç variiert saisonal.",
+              "Bushaltestellen sind oft mit 'Pollença' oder 'Port de Pollença' beschriftet.",
+              "Schatten an Bushaltestellen ist oft knapp, Hut mitnehmen."
+            ],
+            "hu": [
+              "Használja a TIB-kártyát vagy bankkártyáját a buszon.",
+              "A Cala Sant Vicenç-be tartó buszok sűrűsége szezonfüggő.",
+              "A buszmegállókat gyakran 'Pollença' vagy 'Port de Pollença' néven jelzik.",
+              "A buszmegállókban kevés az árnyék, legyen nálunk kalap."
+            ],
+            "ro": [
+              "Folosiți cardul TIB sau plata contactless în autobuz.",
+              "Frecvența autobuzelor spre Cala Sant Vicenç variază sezonier.",
+              "Stațiile sunt adesea marcate ca 'Pollença' sau 'Port de Pollença'.",
+              "Umbra în stații este rară, luați o pălărie."
+            ],
+            "en": [
+              "Use the TIB card or contactless payment on the bus.",
+              "Bus frequency to Cala Sant Vicenç varies seasonally.",
+              "Bus stops are often labeled 'Pollença' or 'Port de Pollença'.",
+              "Shade at bus stops is often scarce, bring a hat."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Bus erreichen wir bequem die Plaça Major. Den Vormittag verbringen wir im Kreuzgang Sant Domingo, geschützt vor dem Regen.\n\nMittags nehmen wir den Bus zur Cala Sant Vicenç, wo wir die raue See vom Fenster eines Cafés aus beobachten. Den Nachmittag beenden wir im trockenen Museum von Pollença, bevor uns der Bus zurückbringt.",
+            "hu": "Busszal kényelmesen érjük el a Plaça Majort. A délelőttöt a Sant Domingo kerengőben töltjük, védve az esőtől.\n\nDélben busszal megyünk Cala Sant Vicenç-be, ahol egy kávézó ablakából nézzük a dühöngő tengert. A délutánt a száraz pollencai múzeumban zárjuk, mielőtt a busz visszavinne minket.",
+            "ro": "Ajungem confortabil cu autobuzul în Plaça Major. Petrecem dimineața în claustrul Sant Domingo, protejați de ploaie.\n\nLa prânz luăm autobuzul spre Cala Sant Vicenç, unde observăm marea agitată de la fereastra unei cafenele. Încheiem după-amiaza la muzeul din Pollença, înainte ca autobuzul să ne ducă înapoi.",
+            "en": "We reach Plaça Major comfortably by bus. We spend the morning in the Sant Domingo cloister, protected from the rain.\n\nAt midday, we take the bus to Cala Sant Vicenç, watching the rough sea from a cafe window. We finish the afternoon in the dry Museum of Pollença before the bus takes us back."
+          },
+          "stops": [
+            {
+              "name": "Plaça Major",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle liegt nur wenige Gehminuten entfernt.",
+                "hu": "A buszmegálló csak pár perc sétára található.",
+                "ro": "Stația de autobuz este la doar câteva minute de mers pe jos.",
+                "en": "The bus stop is just a few minutes' walk away."
+              }
+            },
+            {
+              "name": "Kreuzgang von Sant Domingo",
+              "tip_5lang": {
+                "de": "Bietet perfekten Schutz während der Wartezeit auf den Bus.",
+                "hu": "Tökéletes védelmet nyújt a buszra való várakozás közben.",
+                "ro": "Oferă protecție perfectă în timp ce așteptați autobuzul.",
+                "en": "Provides perfect shelter while waiting for your next bus."
+              }
+            },
+            {
+              "name": "Cala Sant Vicenç",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Wartehäuschen bei der Bushaltestelle.",
+                "hu": "Használja a buszmegálló melletti váróhelyiséget.",
+                "ro": "Folosiți adăpostul de la stația de autobuz.",
+                "en": "Use the shelter at the bus stop to stay dry."
+              }
+            },
+            {
+              "name": "Pont Romà",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg vom Bus, Schirm unbedingt mitnehmen.",
+                "hu": "Rövid séta a busztól, mindenképpen vigyen esernyőt.",
+                "ro": "Scurtă plimbare de la autobuz, luați neapărat umbrela.",
+                "en": "Short walk from the bus stop; be sure to bring an umbrella."
+              }
+            },
+            {
+              "name": "Museum von Pollença",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um die Zeit bis zur Abfahrt sinnvoll zu nutzen.",
+                "hu": "Tökéletes hely az indulásig tartó idő hasznos eltöltésére.",
+                "ro": "Loc perfect pentru a petrece timpul util până la plecare.",
+                "en": "Perfect place to spend your time usefully until departure."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie die TIB-App für Echtzeit-Infos bei Regen-Verzögerungen.",
+              "Die Busse sind klimatisiert und bieten Schutz vor der Feuchtigkeit.",
+              "Halten Sie Ihre Transportkarte griffbereit, um schnell einzusteigen.",
+              "Tragen Sie wasserfeste Schuhe für die Wege zwischen den Haltestellen.",
+              "Bei Gewitter kann es zu kurzzeitigen Fahrplanänderungen kommen."
+            ],
+            "hu": [
+              "Ellenőrizze a TIB appot az eső miatti esetleges késésekért.",
+              "A buszok légkondicionáltak és védelmet nyújtanak a pára ellen.",
+              "Tartsa készenlétben az utazási kártyáját a gyors beszálláshoz.",
+              "Viseljen vízálló cipőt a megállók közötti gyalogláshoz.",
+              "Vihar esetén rövid ideig tartó menetrendi változások fordulhatnak elő."
+            ],
+            "ro": [
+              "Verificați aplicația TIB pentru info în timp real despre întârzieri.",
+              "Autobuzele au aer condiționat și oferă protecție împotriva umidității.",
+              "Aveți cardul de transport la îndemână pentru o îmbarcare rapidă.",
+              "Purtați încălțăminte impermeabilă pentru drumul dintre stații.",
+              "În caz de furtună, pot apărea modificări temporare de program."
+            ],
+            "en": [
+              "Check the TIB app for real-time info on rain-related delays.",
+              "Buses are air-conditioned and provide shelter from the damp.",
+              "Have your transport card ready for a quick boarding.",
+              "Wear waterproof shoes for the walks between stops.",
+              "Short-term schedule changes may occur during thunderstorms."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein ruhiger Wintertag beginnt mit der Busfahrt zur Plaça Major. Wir genießen die entspannte Atmosphäre im Kreuzgang Sant Domingo ohne den sommerlichen Lärm.\n\nMittags bringt uns der Bus zur Cala Sant Vicenç, die im Winterlicht fast magisch wirkt. Zurück in Pollença besuchen wir die Pont Romà und das Museum, bevor wir den letzten Bus vor Einbruch der Dunkelheit nehmen.",
+            "hu": "Egy nyugodt téli nap kezdődik a Plaça Major-ba tartó buszúttal. Élvezzük a Sant Domingo kerengő pihentető hangulatát a nyári zaj nélkül.\n\nDélben a busz Cala Sant Vicenç-be visz minket, ami a téli fényben szinte varázslatos. Visszatérve Pollencába meglátogatjuk a római hidat és a múzeumot, mielőtt a sötétedés előtti utolsó buszt elérnénk.",
+            "ro": "O zi liniștită de iarnă începe cu drumul cu autobuzul spre Plaça Major. Ne bucurăm de atmosfera relaxantă din claustrul Sant Domingo fără zgomotul verii.\n\nLa prânz, autobuzul ne duce la Cala Sant Vicenç, care pare aproape magică în lumina iernii. Revenind în Pollença, vizităm Pont Romà și muzeul înainte de a lua ultimul autobuz înainte de lăsarea întunericului.",
+            "en": "A peaceful winter day begins with the bus ride to Plaça Major. We enjoy the relaxed atmosphere of the Sant Domingo cloister without the summer noise.\n\nAt midday, the bus takes us to Cala Sant Vicenç, which looks almost magical in the winter light. Back in Pollença, we visit Pont Romà and the museum before taking the last bus before dark."
+          },
+          "stops": [
+            {
+              "name": "Plaça Major",
+              "tip_5lang": {
+                "de": "Im Winter sind die Busse oft pünktlicher wegen weniger Verkehr.",
+                "hu": "Télen a buszok gyakran pontosabbak a kisebb forgalom miatt.",
+                "ro": "Iarna, autobuzele sunt adesea mai punctuale datorită traficului redus.",
+                "en": "Buses are often more punctual in winter due to less traffic."
+              }
+            },
+            {
+              "name": "Kreuzgang von Sant Domingo",
+              "tip_5lang": {
+                "de": "Keine Wartezeiten beim Eintritt in den Wintermonaten.",
+                "hu": "A téli hónapokban nincs várakozási idő a belépésnél.",
+                "ro": "Nu există timpi de așteptare la intrare în lunile de iarnă.",
+                "en": "No waiting times for entry during the winter months."
+              }
+            },
+            {
+              "name": "Cala Sant Vicenç",
+              "tip_5lang": {
+                "de": "Achten Sie auf den reduzierten Winterfahrplan.",
+                "hu": "Ügyeljen a ritkított téli menetrendre.",
+                "ro": "Atenție la orarul de iarnă redus.",
+                "en": "Pay attention to the reduced winter bus schedule."
+              }
+            },
+            {
+              "name": "Pont Romà",
+              "tip_5lang": {
+                "de": "Genießen Sie den Spaziergang in der frischen Winterluft.",
+                "hu": "Élvezze a sétát a friss téli levegőn.",
+                "ro": "Bucurați-vă de plimbare în aerul proaspăt de iarnă.",
+                "en": "Enjoy the walk in the fresh winter air."
+              }
+            },
+            {
+              "name": "Museum von Pollença",
+              "tip_5lang": {
+                "de": "Warmer Rückzugsort am späten Nachmittag.",
+                "hu": "Meleg menedék késő délután.",
+                "ro": "Un loc cald de retragere după-amiaza târziu.",
+                "en": "A warm retreat in the late afternoon."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Der Winterfahrplan (L321/L322) kann seltener sein.",
+              "Nutzen Sie die kontaktlose Zahlung beim Fahrer für Einfachheit.",
+              "Die Haltestellen sind im Winter viel leerer und ruhiger.",
+              "Kombinieren Sie Busfahrten mit kurzen Wanderungen.",
+              "Tragen Sie eine warme Schicht für das Warten an der Haltestelle."
+            ],
+            "hu": [
+              "A téli menetrend (L321/L322) ritkább járatokat jelenthet.",
+              "Használja az érintésmentes fizetést a sofőrnél az egyszerűségért.",
+              "A megállók télen sokkal üresebbek és csendesebbek.",
+              "Kombinálja a buszozást rövid sétákkal.",
+              "Viseljen meleg ruhát a megállóban való várakozáshoz."
+            ],
+            "ro": [
+              "Orarul de iarnă (L321/L322) poate fi mai rar.",
+              "Folosiți plata contactless la șofer pentru simplitate.",
+              "Stațiile sunt mult mai goale și mai liniștite iarna.",
+              "Combinați mersul cu autobuzul cu scurte drumeții.",
+              "Purtați haine călduroase pentru așteptarea în stație."
+            ],
+            "en": [
+              "The winter schedule (L321/L322) may have fewer services.",
+              "Use contactless payment with the driver for simplicity.",
+              "Bus stops are much emptier and quieter in winter.",
+              "Combine bus trips with short walks/hikes.",
+              "Wear a warm layer for waiting at the bus stop."
+            ]
+          }
+        }
+      }
+    }
+  },
+  "external_resources": {
+    "tourism_office": "https://www.ajpollenca.net/",
+    "events": "https://www.pollensa.com/",
+    "transit_official": "https://www.tib.org/",
+    "language_tips": {
+      "de": "Pollença ist katalanisch-sprachig (Mallorquí), 'bon dia' und 'adéu' (Auf Wiedersehen) sind die täglichen Grüße. Englisch ist Standard im Hafen (Port de Pollença), wo viele Briten leben. Deutsch versteht man in den meisten Hotels und Restaurants entlang der Promenade.",
+      "hu": "Pollença katalán nyelvű (mallorquí), a 'bon dia' és 'adéu' a napi köszönések. A kikötőben (Port de Pollença) az angol alap, sok brit lakik ott. A német is működik a sétány menti hotelek és éttermek többségében.",
+      "ro": "Pollença este vorbitoare de catalană (mallorquí), 'bon dia' și 'adéu' sunt salutările zilnice. În port (Port de Pollença), engleza este standard, mulți britanici locuiesc acolo. Germana funcționează în majoritatea hotelurilor și restaurantelor de pe promenadă.",
+      "en": "Pollença is Catalan-speaking (Mallorquí), with 'bon dia' and 'adéu' as daily greetings. English is standard around the port (Port de Pollença) where many Brits live. German works in most hotels and restaurants along the promenade."
+    },
+    "best_time_to_visit": {
+      "de": "Mai, Juni und September bieten 23-28°C, warmes Meer und das Pollença-Musikfestival im Kreuzgang. Juli-August sind voll, vor allem britische Familien. Im Winter (12-16°C) bleibt Pollença lebendiger als andere Dörfer, ideal für Wanderungen am Cap de Formentor.",
+      "hu": "Május, június és szeptember 23-28°C-ot, meleg tengert és a kolostorudvarbeli Pollença Zenei Fesztivált kínálja. Júliusban-augusztusban főleg brit családokkal van tele. Télen (12-16°C) Pollença élőbb marad mint a többi falu, ideális a Cap de Formentor-i túrákhoz.",
+      "ro": "Mai, iunie și septembrie oferă 23-28°C, mare caldă și Festivalul de Muzică Pollença în claustru. Iulie-august sunt aglomerate, mai ales cu familii britanice. Iarna (12-16°C), Pollença rămâne mai vie decât alte sate, ideal pentru drumeții la Cap de Formentor.",
+      "en": "May, June and September bring 23-28°C, warm sea and the Pollença Music Festival in the cloister. July-August are crowded, especially with British families. Winter (12-16°C) leaves Pollença livelier than other villages, ideal for Cap de Formentor hikes."
+    },
+    "neighborhood_warnings": {
+      "de": "Pollença ist sehr sicher, mit dem üblichen Touristenrisiko: Taschendiebstahl an der Plaça Major an Markttagen (Sonntag). Die 365 Stufen zum Calvari sind steil und ohne Geländer, bei Hitze nicht für jeden geeignet. Im Port de Pollença ist Trunkenheit am Wochenende der einzige Aufreger.",
+      "hu": "Pollença nagyon biztonságos, a szokásos turistakockázattal: a vasárnapi piacon a Plaça Mayor-on zsebtolvajok aktívak. A Calvari-ra vezető 365 lépcső meredek és korlát nélküli, hőségben nem mindenkinek ajánlott. Port de Pollençában hétvégén a részegeskedés az egyetlen apró bosszúság.",
+      "ro": "Pollença este foarte sigur, cu riscul turistic obișnuit: hoți de buzunare în Plaça Major în zilele de piață (duminica). Cele 365 de trepte spre Calvari sunt abrupte și fără balustradă, nu sunt potrivite pentru toți pe căldură. În Port de Pollença, beția de weekend este singura sursă de neplăceri.",
+      "en": "Pollença is very safe, with the usual tourist risk: pickpockets at Plaça Major on Sunday market days. The 365 steps to Calvari are steep and railing-free, not for everyone in summer heat. In Port de Pollença, weekend drunkenness is the only minor nuisance."
+    }
+  }
+}

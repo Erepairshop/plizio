@@ -1,0 +1,2439 @@
+{
+  "city_id": "toledo",
+  "anchor": {
+    "name": "Puerta de Bisagra",
+    "coords": [
+      -4.0273,
+      39.8628
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "19:00",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Puerta de Bisagra",
+          "coords": [
+            -4.0253,
+            39.8628
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Achten Sie auf den doppelköpfigen Adler Karls V. über dem Torbogen.",
+            "hu": "Figyeljük meg V. Károly kétfejű sasos címerét a kapu boltíve felett.",
+            "ro": "Observați vulturul bicefal al lui Carol al V-lea deasupra porții.",
+            "en": "Look for the double-headed eagle of Charles V above the main archway."
+          }
+        },
+        {
+          "name": "Catedral de Toledo",
+          "coords": [
+            -4.0244,
+            39.8571
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Das 'Transparente' Altarbild hinter dem Hochaltar ist ein Meisterwerk des Barock.",
+            "hu": "A főoltár mögötti 'Transparente' ablak a barokk fényhatások mesterműve.",
+            "ro": "Altarul 'Transparente' din spatele altarului mare este o capodoperă barocă.",
+            "en": "The 'Transparente' altarpiece behind the high altar is a masterpiece of light."
+          }
+        },
+        {
+          "name": "Alcázar von Toledo",
+          "coords": [
+            -4.0205,
+            39.8581
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Die Cafeteria in der obersten Etage bietet einen 360-Grad-Blick über die Stadt.",
+            "hu": "A legfelső emeleti kávézóból 360 fokos panoráma nyílik az egész városra.",
+            "ro": "Cafeneaua de la ultimul etaj oferă o vedere de 360 de grade asupra orașului.",
+            "en": "The cafeteria on the top floor offers a 360-degree view over the city."
+          }
+        },
+        {
+          "name": "Iglesia de Santo Tomé",
+          "coords": [
+            -4.0289,
+            39.8569
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:30",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Hier befindet sich El Grecos berühmtestes Werk 'Das Begräbnis des Grafen von Orgaz'.",
+            "hu": "Itt látható El Greco leghíresebb műve, az 'Orgaz gróf temetése'.",
+            "ro": "Aici se află celebra operă a lui El Greco, 'Înmormântarea contelui de Orgaz'.",
+            "en": "This church houses El Greco's masterpiece 'The Burial of the Count of Orgaz'."
+          }
+        },
+        {
+          "name": "Museo del Greco",
+          "coords": [
+            -4.0301,
+            39.856
+          ],
+          "category": "museums",
+          "arrive_at": "14:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Besuchen Sie die rekonstruierte Küche und den Garten des Malers im jüdischen Viertel.",
+            "hu": "Nézzük meg a festő rekonstruált konyháját és kertjét a zsidó negyedben.",
+            "ro": "Vizitați bucătăria și grădina reconstruită a pictorului în cartierul evreiesc.",
+            "en": "Visit the painter's reconstructed kitchen and garden in the Jewish quarter."
+          }
+        },
+        {
+          "name": "Monasterio de San Juan de los Reyes",
+          "coords": [
+            -4.0322,
+            39.8581
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Achten Sie auf die Ketten an der Außenfassade, die von befreiten Gefangenen stammen.",
+            "hu": "Figyeljük meg a külső falon lógó láncokat, amelyeket kiszabadított rabok hagytak itt.",
+            "ro": "Observați lanțurile de pe fațada exterioară, lăsate de prizonierii eliberați.",
+            "en": "Look for the chains on the exterior facade, left by liberated prisoners."
+          }
+        },
+        {
+          "name": "Puente de San Martín",
+          "coords": [
+            -4.035,
+            39.8575
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "17:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Der beste Ort für Fotos vom Tajo-Fluss bei Sonnenuntergang.",
+            "hu": "A legjobb helyszín a Tajo-folyó és a város fotózásához naplementekor.",
+            "ro": "Cel mai bun loc pentru fotografii cu râul Tajo la apus.",
+            "en": "The best spot for photos of the Tagus river during sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt am prächtigen Bisagra-Tor, dem Haupteingang zur mittelalterlichen Stadt. Von dort spazieren Sie hinauf zur Kathedrale, einem Juwel der spanischen Gotik mit unzähligen Kunstschätzen. Mittags erkunden Sie den Alcázar, der die Skyline beherrscht.\n\nAm Nachmittag tauchen Sie in das jüdische Viertel ein. In der Kirche Santo Tomé bewundern Sie El Grecos Vision des Himmels und der Erde. Danach führt der Weg zum Wohnhaus des Künstlers, das heute ein Museum ist.\n\nZum Abschluss besuchen Sie das Kloster San Juan de los Reyes, das für die Katholischen Könige erbaut wurde. Den Abend lassen Sie auf der San-Martín-Brücke ausklingen, wo Sie den Blick auf die gewaltige Stadtmauer und den Fluss genießen können.",
+        "hu": "A napot a monumentális Bisagra-kapunál kezdjük, amely Toledo középkori bejárata. Innen sétálunk fel a gótikus katedrálishoz, amely Spanyolország egyik leggazdagabb egyházi épülete. Dél körül az Alcázar erődöt keressük fel, amely a város legmagasabb pontján trónol.\n\nDélután a zsidó negyed szűk utcái következnek. A Santo Tomé templomban El Greco leghíresebb festményét láthatjuk, majd a festő egykori házában berendezett múzeumba látogatunk. Ez a környék Toledo egyik leghangulatosabb része.\n\nA túrát a San Juan de los Reyes kolostor lenyűgöző kerengőjével folytatjuk. A napot a Tajo-folyó felett ívelő középkori San Martín hídon fejezzük be, ahol a lemenő nap sugarai aranyba borítják a város falait.",
+        "ro": "Ziua începe la poarta monumentală Bisagra, intrarea principală în orașul medieval. De acolo, urcați spre catedrală, o bijuterie a goticului spaniol cu numeroase comori artistice. La prânz, explorați Alcázar-ul, care domină orizontul orașului.\n\nDupă-amiaza, pătrundeți în cartierul evreiesc. În biserica Santo Tomé, admirați viziunea lui El Greco asupra cerului și pământului, apoi vizitați casa artistului, transformată în muzeu. Este zona cea mai pitorească a vechiului Toledo.\n\nÎncheiați vizita la mănăstirea San Juan de los Reyes, construită pentru Regii Catolici. Seara se termină pe podul San Martín, de unde puteți admira zidurile masive ale orașului și râul Tajo în lumina apusului.",
+        "en": "Start your day at the magnificent Bisagra Gate, the main entrance to the medieval city. From there, walk up to the Cathedral, a jewel of Spanish Gothic architecture. At noon, explore the Alcázar fortress, which dominates the city skyline.\n\nIn the afternoon, dive into the Jewish Quarter. In Santo Tomé Church, admire El Greco's famous painting of heaven and earth, then head to the artist's former home and museum. This area captures the essence of historic Toledo.\n\nConclude your visit at the San Juan de los Reyes Monastery, built for the Catholic Monarchs. End the day at the medieval San Martín Bridge, enjoying the view of the city walls and the Tagus River at sunset."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Mazapán de Toledo",
+            "tip": "Probieren Sie das handgemachte Marzipan im 'Confitería Santo Tomé'."
+          },
+          {
+            "name": "Carcamusas",
+            "tip": "Ein typischer Schmortopf aus Schweinefleisch und Erbsen im 'Bar Ludeña'."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Toledói marcipán",
+            "tip": "Kóstoljuk meg a kézműves édességet a 'Confitería Santo Tomé' üzletben."
+          },
+          {
+            "name": "Carcamusas",
+            "tip": "Helyi sertéshúsos ragu borsóval, a legjobb a 'Bar Ludeña' teraszán."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mazapán de Toledo",
+            "tip": "Gustați marțipanul artizanal la 'Confitería Santo Tomé'."
+          },
+          {
+            "name": "Carcamusas",
+            "tip": "O tocană tipică de porc cu mazăre, excelentă la 'Bar Ludeña'."
+          }
+        ],
+        "en": [
+          {
+            "name": "Toledo Marzipan",
+            "tip": "Try the traditional handmade sweets at 'Confitería Santo Tomé'."
+          },
+          {
+            "name": "Carcamusas",
+            "tip": "A typical pork stew with peas, best served at 'Bar Ludeña'."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Claustro de San Juan de los Reyes",
+            "tip": "Ein friedlicher gotischer Kreuzgang mit filigranen Steinmetzarbeiten.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Uferweg am Tajo",
+            "tip": "Ein ruhiger Pfad entlang des Flusses unterhalb der Stadtmauer.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "San Juan de los Reyes kerengője",
+            "tip": "Békés gótikus udvar filigrán kőfaragványokkal.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Tajo-parti sétaút",
+            "tip": "Csendes ösvény a folyó mentén, a városfalak alatt.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Claustrul San Juan de los Reyes",
+            "tip": "O curte gotică liniștită, cu sculpturi în piatră delicate.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Malul râului Tajo",
+            "tip": "O potecă liniștită de-a lungul râului, sub zidurile orașului.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "San Juan de los Reyes Cloister",
+            "tip": "A peaceful Gothic courtyard with intricate stonework.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Tagus Riverside Path",
+            "tip": "A quiet trail along the river below the city walls.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Damasquinado-Schmuck",
+            "tip": "In Gold eingelegte Eisenarbeiten, eine jahrhundertealte Tradition."
+          },
+          {
+            "name": "Toledo-Stahl",
+            "tip": "Weltberühmte Schwerter und Messer aus lokalem Handwerk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Damaszkolt ékszerek",
+            "tip": "Arannyal díszített fekete acélművesség, ősi helyi tradíció."
+          },
+          {
+            "name": "Toledói acél",
+            "tip": "Világhírű kardok és kések a helyi műhelyekből."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bijuterii Damasquinado",
+            "tip": "Lucrări în fier încrustate cu aur, o tradiție de secole."
+          },
+          {
+            "name": "Oțel de Toledo",
+            "tip": "Săbii și cuțite celebre în întreaga lume, realizate local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Damascene Jewelry",
+            "tip": "Gold-inlaid ironwork, a craft tradition dating back centuries."
+          },
+          {
+            "name": "Toledo Steel",
+            "tip": "World-famous swords and knives from local workshops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da die Straßen sehr steil und gepflastert sind.",
+          "Die Kathedrale schließt sonntags für Touristen früher wegen der Messe.",
+          "Kaufen Sie das Armband 'Pulsera Turística' für den Zugang zu 7 Monumenten.",
+          "Meiden Sie die Mittagszeit im Sommer, da es in den Gassen extrem heiß wird."
+        ],
+        "hu": [
+          "Viseljünk kényelmes cipőt, mert az utcák meredekek és macskakövesek.",
+          "A katedrális vasárnap korábban zár a turisták előtt a szentmisék miatt.",
+          "Érdemes megvenni a 'Pulsera Turística' karszalagot 7 látnivalóhoz.",
+          "Nyáron kerüljük a déli órákat, mert a szűk utcákban megreked a hőség."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, străzile sunt abrupte și pavate cu piatră.",
+          "Catedrala se închide mai devreme pentru turiști duminica din cauza slujbei.",
+          "Cumpărați brățara 'Pulsera Turística' pentru acces la 7 monumente.",
+          "Evitați orele amiezii vara, deoarece căldura devine extremă în labirint."
+        ],
+        "en": [
+          "Wear comfortable shoes as the streets are steep and cobblestoned.",
+          "The Cathedral closes earlier to tourists on Sundays due to mass.",
+          "Get the 'Pulsera Turística' wristband for access to 7 key monuments.",
+          "Avoid midday in summer, as the heat gets trapped in the narrow alleys."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Ihr Tag beginnt am prächtigen Bisagra-Tor, dem Haupteingang zur mittelalterlichen Stadt. Von dort spazieren Sie hinauf zur Kathedrale, einem Juwel der spanischen Gotik mit unzähligen Kunstschätzen. Mittags erkunden Sie den Alcázar, der die Skyline beherrscht.\n\nAm Nachmittag tauchen Sie in das jüdische Viertel ein. In der Kirche Santo Tomé bewundern Sie El Grecos Vision des Himmels und der Erde. Danach führt der Weg zum Wohnhaus des Künstlers, das heute ein Museum ist.\n\nZum Abschluss besuchen Sie das Kloster San Juan de los Reyes, das für die Katholischen Könige erbaut wurde. Den Abend lassen Sie auf der San-Martín-Brücke ausklingen, wo Sie den Blick auf die gewaltige Stadtmauer und den Fluss genießen können.",
+            "hu": "A napot a monumentális Bisagra-kapunál kezdjük, amely Toledo középkori bejárata. Innen sétálunk fel a gótikus katedrálishoz, amely Spanyolország egyik leggazdagabb egyházi épülete. Dél körül az Alcázar erődöt keressük fel, amely a város legmagasabb pontján trónol.\n\nDélután a zsidó negyed szűk utcái következnek. A Santo Tomé templomban El Greco leghíresebb festményét láthatjuk, majd a festő egykori házában berendezett múzeumba látogatunk. Ez a környék Toledo egyik leghangulatosabb része.\n\nA túrát a San Juan de los Reyes kolostor lenyűgöző kerengőjével folytatjuk. A napot a Tajo-folyó felett ívelő középkori San Martín hídon fejezzük be, ahol a lemenő nap sugarai aranyba borítják a város falait.",
+            "ro": "Ziua începe la poarta monumentală Bisagra, intrarea principală în orașul medieval. De acolo, urcați spre catedrală, o bijuterie a goticului spaniol cu numeroase comori artistice. La prânz, explorați Alcázar-ul, care domină orizontul orașului.\n\nDupă-amiaza, pătrundeți în cartierul evreiesc. În biserica Santo Tomé, admirați viziunea lui El Greco asupra cerului și pământului, apoi vizitați casa artistului, transformată în muzeu. Este zona cea mai pitorească a vechiului Toledo.\n\nÎncheiați vizita la mănăstirea San Juan de los Reyes, construită pentru Regii Catolici. Seara se termină pe podul San Martín, de unde puteți admira zidurile masive ale orașului și râul Tajo în lumina apusului.",
+            "en": "Start your day at the magnificent Bisagra Gate, the main entrance to the medieval city. From there, walk up to the Cathedral, a jewel of Spanish Gothic architecture. At noon, explore the Alcázar fortress, which dominates the city skyline.\n\nIn the afternoon, dive into the Jewish Quarter. In Santo Tomé Church, admire El Greco's famous painting of heaven and earth, then head to the artist's former home and museum. This area captures the essence of historic Toledo.\n\nConclude your visit at the San Juan de los Reyes Monastery, built for the Catholic Monarchs. End the day at the medieval San Martín Bridge, enjoying the view of the city walls and the Tagus River at sunset."
+          },
+          "stops": [
+            {
+              "name": "Puerta de Bisagra",
+              "tip_5lang": {
+                "de": "Achten Sie auf den doppelköpfigen Adler Karls V. über dem Torbogen.",
+                "hu": "Figyeljük meg V. Károly kétfejű sasos címerét a kapu boltíve felett.",
+                "ro": "Observați vulturul bicefal al lui Carol al V-lea deasupra porții.",
+                "en": "Look for the double-headed eagle of Charles V above the main archway."
+              }
+            },
+            {
+              "name": "Catedral de Toledo",
+              "tip_5lang": {
+                "de": "Das 'Transparente' Altarbild hinter dem Hochaltar ist ein Meisterwerk des Barock.",
+                "hu": "A főoltár mögötti 'Transparente' ablak a barokk fényhatások mesterműve.",
+                "ro": "Altarul 'Transparente' din spatele altarului mare este o capodoperă barocă.",
+                "en": "The 'Transparente' altarpiece behind the high altar is a masterpiece of light."
+              }
+            },
+            {
+              "name": "Alcázar von Toledo",
+              "tip_5lang": {
+                "de": "Die Cafeteria in der obersten Etage bietet einen 360-Grad-Blick über die Stadt.",
+                "hu": "A legfelső emeleti kávézóból 360 fokos panoráma nyílik az egész városra.",
+                "ro": "Cafeneaua de la ultimul etaj oferă o vedere de 360 de grade asupra orașului.",
+                "en": "The cafeteria on the top floor offers a 360-degree view over the city."
+              }
+            },
+            {
+              "name": "Iglesia de Santo Tomé",
+              "tip_5lang": {
+                "de": "Hier befindet sich El Grecos berühmtestes Werk 'Das Begräbnis des Grafen von Orgaz'.",
+                "hu": "Itt látható El Greco leghíresebb műve, az 'Orgaz gróf temetése'.",
+                "ro": "Aici se află celebra operă a lui El Greco, 'Înmormântarea contelui de Orgaz'.",
+                "en": "This church houses El Greco's masterpiece 'The Burial of the Count of Orgaz'."
+              }
+            },
+            {
+              "name": "Museo del Greco",
+              "tip_5lang": {
+                "de": "Besuchen Sie die rekonstruierte Küche und den Garten des Malers im jüdischen Viertel.",
+                "hu": "Nézzük meg a festő rekonstruált konyháját és kertjét a zsidó negyedben.",
+                "ro": "Vizitați bucătăria și grădina reconstruită a pictorului în cartierul evreiesc.",
+                "en": "Visit the painter's reconstructed kitchen and garden in the Jewish quarter."
+              }
+            },
+            {
+              "name": "Monasterio de San Juan de los Reyes",
+              "tip_5lang": {
+                "de": "Achten Sie auf die Ketten an der Außenfassade, die von befreiten Gefangenen stammen.",
+                "hu": "Figyeljük meg a külső falon lógó láncokat, amelyeket kiszabadított rabok hagytak itt.",
+                "ro": "Observați lanțurile de pe fațada exterioară, lăsate de prizonierii eliberați.",
+                "en": "Look for the chains on the exterior facade, left by liberated prisoners."
+              }
+            },
+            {
+              "name": "Puente de San Martín",
+              "tip_5lang": {
+                "de": "Der beste Ort für Fotos vom Tajo-Fluss bei Sonnenuntergang.",
+                "hu": "A legjobb helyszín a Tajo-folyó és a város fotózásához naplementekor.",
+                "ro": "Cel mai bun loc pentru fotografii cu râul Tajo la apus.",
+                "en": "The best spot for photos of the Tagus river during sunset."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Mazapán de Toledo",
+                "tip": "Probieren Sie das handgemachte Marzipan im 'Confitería Santo Tomé'."
+              },
+              {
+                "name": "Carcamusas",
+                "tip": "Ein typischer Schmortopf aus Schweinefleisch und Erbsen im 'Bar Ludeña'."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Toledói marcipán",
+                "tip": "Kóstoljuk meg a kézműves édességet a 'Confitería Santo Tomé' üzletben."
+              },
+              {
+                "name": "Carcamusas",
+                "tip": "Helyi sertéshúsos ragu borsóval, a legjobb a 'Bar Ludeña' teraszán."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Mazapán de Toledo",
+                "tip": "Gustați marțipanul artizanal la 'Confitería Santo Tomé'."
+              },
+              {
+                "name": "Carcamusas",
+                "tip": "O tocană tipică de porc cu mazăre, excelentă la 'Bar Ludeña'."
+              }
+            ],
+            "en": [
+              {
+                "name": "Toledo Marzipan",
+                "tip": "Try the traditional handmade sweets at 'Confitería Santo Tomé'."
+              },
+              {
+                "name": "Carcamusas",
+                "tip": "A typical pork stew with peas, best served at 'Bar Ludeña'."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Claustro de San Juan de los Reyes",
+                "tip": "Ein friedlicher gotischer Kreuzgang mit filigranen Steinmetzarbeiten.",
+                "emoji": "🧘"
+              },
+              {
+                "name": "Uferweg am Tajo",
+                "tip": "Ein ruhiger Pfad entlang des Flusses unterhalb der Stadtmauer.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "San Juan de los Reyes kerengője",
+                "tip": "Békés gótikus udvar filigrán kőfaragványokkal.",
+                "emoji": "🧘"
+              },
+              {
+                "name": "Tajo-parti sétaút",
+                "tip": "Csendes ösvény a folyó mentén, a városfalak alatt.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Claustrul San Juan de los Reyes",
+                "tip": "O curte gotică liniștită, cu sculpturi în piatră delicate.",
+                "emoji": "🧘"
+              },
+              {
+                "name": "Malul râului Tajo",
+                "tip": "O potecă liniștită de-a lungul râului, sub zidurile orașului.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "San Juan de los Reyes Cloister",
+                "tip": "A peaceful Gothic courtyard with intricate stonework.",
+                "emoji": "🧘"
+              },
+              {
+                "name": "Tagus Riverside Path",
+                "tip": "A quiet trail along the river below the city walls.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Damasquinado-Schmuck",
+                "tip": "In Gold eingelegte Eisenarbeiten, eine jahrhundertealte Tradition."
+              },
+              {
+                "name": "Toledo-Stahl",
+                "tip": "Weltberühmte Schwerter und Messer aus lokalem Handwerk."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Damaszkolt ékszerek",
+                "tip": "Arannyal díszített fekete acélművesség, ősi helyi tradíció."
+              },
+              {
+                "name": "Toledói acél",
+                "tip": "Világhírű kardok és kések a helyi műhelyekből."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Bijuterii Damasquinado",
+                "tip": "Lucrări în fier încrustate cu aur, o tradiție de secole."
+              },
+              {
+                "name": "Oțel de Toledo",
+                "tip": "Săbii și cuțite celebre în întreaga lume, realizate local."
+              }
+            ],
+            "en": [
+              {
+                "name": "Damascene Jewelry",
+                "tip": "Gold-inlaid ironwork, a craft tradition dating back centuries."
+              },
+              {
+                "name": "Toledo Steel",
+                "tip": "World-famous swords and knives from local workshops."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Tragen Sie bequeme Schuhe, da die Straßen sehr steil und gepflastert sind.",
+              "Die Kathedrale schließt sonntags für Touristen früher wegen der Messe.",
+              "Kaufen Sie das Armband 'Pulsera Turística' für den Zugang zu 7 Monumenten.",
+              "Meiden Sie die Mittagszeit im Sommer, da es in den Gassen extrem heiß wird."
+            ],
+            "hu": [
+              "Viseljünk kényelmes cipőt, mert az utcák meredekek és macskakövesek.",
+              "A katedrális vasárnap korábban zár a turisták előtt a szentmisék miatt.",
+              "Érdemes megvenni a 'Pulsera Turística' karszalagot 7 látnivalóhoz.",
+              "Nyáron kerüljük a déli órákat, mert a szűk utcákban megreked a hőség."
+            ],
+            "ro": [
+              "Purtați încălțăminte confortabilă, străzile sunt abrupte și pavate cu piatră.",
+              "Catedrala se închide mai devreme pentru turiști duminica din cauza slujbei.",
+              "Cumpărați brățara 'Pulsera Turística' pentru acces la 7 monumente.",
+              "Evitați orele amiezii vara, deoarece căldura devine extremă în labirint."
+            ],
+            "en": [
+              "Wear comfortable shoes as the streets are steep and cobblestoned.",
+              "The Cathedral closes earlier to tourists on Sundays due to mass.",
+              "Get the 'Pulsera Turística' wristband for access to 7 key monuments.",
+              "Avoid midday in summer, as the heat gets trapped in the narrow alleys."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag an der Puerta de Bisagra, wo die massiven Mauern ersten Schutz bieten. Mittags erkunden Sie das Innere der Kathedrale und des Alcázar, um dem Regen zu entgehen. Am Nachmittag führt der Weg durch die engen Gassen zur Kirche Santo Tomé und dem El Greco Museum. Den Abend lassen Sie trocken an der San-Martín-Brücke ausklingen, während der Regen auf den Tajo prasselt.",
+            "hu": "Kezdje a napot a Puerta de Bisagra kapunál, melynek boltívei menedéket nyújtanak. Délben a katedrális és az Alcázar belső tereiben vészelheti át a záport. Délután a Santo Tomé templom és az El Greco Múzeum kínál fedett kulturális élményt. Az estét a San Martín hídnál zárhatja, figyelve a folyóra hulló esőcseppeket, majd keressen egy hangulatos, fedett tavernát a közelben.",
+            "ro": "Începeți ziua la Puerta de Bisagra, unde zidurile masive oferă adăpost inițial. La prânz, explorați interiorul Catedralei și al Alcázarului pentru a evita ploaia. După-amiaza, vizitați Biserica Santo Tomé și Muzeul El Greco, ambele fiind refugii culturale ideale. Seara se încheie la Podul San Martín, admirând Tajo sub stropii de ploaie, înainte de a vă retrage într-un restaurant primitor.",
+            "en": "Start your day at Puerta de Bisagra, where the massive stone arches provide initial shelter. At noon, retreat into the vast interiors of the Cathedral and the Alcázar to stay dry. In the afternoon, focus on the indoor treasures of Santo Tomé and the El Greco Museum. End your rainy day at San Martín Bridge, watching the rain dance on the Tagus river before finding a cozy indoor spot."
+          },
+          "stops": [
+            {
+              "name": "Puerta de Bisagra",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Torbögen als Unterstand bei plötzlichen Güssen.",
+                "hu": "Használja a kapualjakat menedékként hirtelen zápor esetén.",
+                "ro": "Folosiți arcadele porții ca adăpost în caz de ploaie bruscă.",
+                "en": "Use the gate's arches as a quick shelter from sudden downpours."
+              }
+            },
+            {
+              "name": "Catedral de Toledo",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um eine Stunde im Trockenen zu verbringen.",
+                "hu": "Tökéletes helyszín egy órát szárazon tölteni a műkincsek közt.",
+                "ro": "Locul perfect pentru a petrece o oră la adăpost de ploaie.",
+                "en": "A perfect place to spend over an hour staying completely dry."
+              }
+            },
+            {
+              "name": "Alcázar von Toledo",
+              "tip_5lang": {
+                "de": "Das Militärmuseum bietet stundenlangen Schutz vor Regen.",
+                "hu": "A hadtörténeti múzeum órákig tartó védelmet nyújt az eső elől.",
+                "ro": "Muzeul militar oferă ore întregi de protecție împotriva ploii.",
+                "en": "The military museum provides hours of shelter from the rain."
+              }
+            },
+            {
+              "name": "Iglesia de Santo Tomé",
+              "tip_5lang": {
+                "de": "Kurzer Sprint zum Eingang; drinnen ist es absolut trocken.",
+                "hu": "Rövid futás a bejáratig; bent teljes biztonságban van az esőtől.",
+                "ro": "Sprint scurt până la intrare; interiorul este perfect uscat.",
+                "en": "A short dash to the entrance; the interior is completely dry."
+              }
+            },
+            {
+              "name": "Museo del Greco",
+              "tip_5lang": {
+                "de": "Idealer Rückzugsort, um den Regen bei Kunst zu vergessen.",
+                "hu": "Ideális búvóhely, ahol a művészet mellett elfelejtheti a borút.",
+                "ro": "Refugiu ideal pentru a uita de ploaie admirând arta.",
+                "en": "Ideal retreat to forget the weather while enjoying fine art."
+              }
+            },
+            {
+              "name": "Monasterio de San Juan de los Reyes",
+              "tip_5lang": {
+                "de": "Der Kreuzgang bietet auch bei Regen eine mystische Atmosphäre.",
+                "hu": "A kolostor kerengője esőben is különleges, misztikus hangulatú.",
+                "ro": "Claustrul oferă o atmosferă mistică chiar și pe timp de ploaie.",
+                "en": "The cloister offers a mystical atmosphere even when it rains."
+              }
+            },
+            {
+              "name": "Puente de San Martín",
+              "tip_5lang": {
+                "de": "Vorsicht, das Pflaster der Brücke kann bei Nässe glatt sein.",
+                "hu": "Vigyázat, a híd macskakövei nedvesen csúszósak lehetnek.",
+                "ro": "Atenție, pavajul podului poate fi alunecos când este ud.",
+                "en": "Be careful, the bridge's cobblestones can be slippery when wet."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe für das Kopfsteinpflaster.",
+              "Nutzen Sie die vielen Museen als strategische Regenpausen.",
+              "Ein stabiler Regenschirm ist wegen des Winds in den Gassen wichtig.",
+              "Die Kathedrale ist der größte überdachte Raum der Altstadt."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt a macskaköves utcák miatt.",
+              "Használja a múzeumokat stratégiai pihenőként az eső elől.",
+              "A szűk utcákban felerősödő szél miatt erős esernyő ajánlott.",
+              "A katedrális a legjobb hely egy hosszabb zápor átvészelésére."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă pentru străzile pietruite.",
+              "Folosiți muzeele ca pauze strategice împotriva ploii.",
+              "O umbrelă rezistentă este necesară din cauza vântului de pe străzi.",
+              "Catedrala este cel mai mare spațiu acoperit din centrul vechi."
+            ],
+            "en": [
+              "Wear waterproof shoes for the slippery cobblestone streets.",
+              "Use museums as strategic breaks to stay dry during heavy rain.",
+              "A sturdy umbrella is essential due to wind tunnels in narrow alleys.",
+              "The Cathedral is the best large indoor space to wait out a storm."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie morgens an der Puerta de Bisagra, wenn die Wintersonne tief steht. Mittags wärmen Sie sich in der prachtvollen Kathedrale und im Alcázar auf. Am Nachmittag laden die Museen zum Verweilen im Geheizten ein, bevor Sie pünktlich zum frühen Sonnenuntergang gegen 17:30 Uhr an der Puente de San Martín eintreffen. Den Abend genießen Sie bei typischem Marzipan und heißem Tee.",
+            "hu": "Indítsa a reggelt a Puerta de Bisagra kapunál a hűvös téri napsütésben. Délben a katedrális és az Alcázar falai között melegedhet fel. Délután a Santo Tomé és az El Greco Múzeum belső terei nyújtanak kényelmet. A korai, 17:30 körüli naplementét már a San Martín hídról csodálhatja meg, majd kóstolja meg a híres toledói marcipánt egy forró ital mellé.",
+            "ro": "Începeți dimineața la Puerta de Bisagra în aerul rece de iarnă. La prânz, încălziți-vă în interiorul somptuos al Catedralei și în Alcázar. După-amiaza este dedicată muzeelor încălzite, înainte de a ajunge la Podul San Martín pentru apusul devreme de la ora 17:30. Seara se încheie perfect cu marțipan local și o băutură caldă într-o cafenea centrală.",
+            "en": "Start your crisp winter morning at Puerta de Bisagra. At noon, seek warmth inside the majestic Cathedral and the sturdy Alcázar. Spend the afternoon in the heated halls of Santo Tomé and the El Greco Museum. Ensure you reach San Martín Bridge by 5:30 PM for the early winter sunset, then warm up in a local cafe with traditional marzipan and hot chocolate."
+          },
+          "stops": [
+            {
+              "name": "Puerta de Bisagra",
+              "tip_5lang": {
+                "de": "Im Schatten der Mauern kann es morgens sehr kühl sein.",
+                "hu": "A falak árnyékában reggelente nagyon hideg lehet a levegő.",
+                "ro": "La umbra zidurilor poate fi foarte frig dimineața devreme.",
+                "en": "It can be very chilly in the shadow of the walls in the morning."
+              }
+            },
+            {
+              "name": "Catedral de Toledo",
+              "tip_5lang": {
+                "de": "Die dicken Mauern speichern die Kälte; warm anziehen.",
+                "hu": "A vastag falak tartják a hideget, öltözzön rétegesen.",
+                "ro": "Zidurile groase rețin frigul; îmbrăcați-vă gros în interior.",
+                "en": "The thick walls retain the cold; dress warmly for the interior."
+              }
+            },
+            {
+              "name": "Alcázar von Toledo",
+              "tip_5lang": {
+                "de": "Gut beheizte Räume im Museumsbereich zum Aufwärmen.",
+                "hu": "A múzeumi rész jól fűtött, kiváló hely a felmelegedéshez.",
+                "ro": "Spații bine încălzite în zona muzeului pentru revigorare.",
+                "en": "Well-heated rooms in the museum area to warm up your hands."
+              }
+            },
+            {
+              "name": "Iglesia de Santo Tomé",
+              "tip_5lang": {
+                "de": "Kleiner, warmer Innenraum – perfekt für eine kurze Pause.",
+                "hu": "Kisebb, temperált belső tér, ideális egy rövid pihenőre.",
+                "ro": "Spațiu interior mic și cald – perfect pentru o scurtă pauză.",
+                "en": "Small, climate-controlled interior – perfect for a quick break."
+              }
+            },
+            {
+              "name": "Museo del Greco",
+              "tip_5lang": {
+                "de": "Genießen Sie die gemütliche Atmosphäre im geheizten Museum.",
+                "hu": "Élvezze a kellemes hőmérsékletet a fűtött múzeumban.",
+                "ro": "Bucurați-vă de atmosfera primitoare din muzeul încălzit.",
+                "en": "Enjoy the cozy atmosphere inside the heated museum galleries."
+              }
+            },
+            {
+              "name": "Monasterio de San Juan de los Reyes",
+              "tip_5lang": {
+                "de": "Im Winter oft windig im Kreuzgang, Mütze empfohlen.",
+                "hu": "A kerengőben télen gyakori a huzat, sapka viselése ajánlott.",
+                "ro": "Deseori bate vântul în claustru iarna; se recomandă căciulă.",
+                "en": "The cloister can be drafty in winter; a hat is recommended."
+              }
+            },
+            {
+              "name": "Puente de San Martín",
+              "tip_5lang": {
+                "de": "Bester Spot für den frühen Sonnenuntergang gegen 17:30.",
+                "hu": "A legjobb hely a korai naplemente megtekintéséhez 17:30 körül.",
+                "ro": "Cel mai bun loc pentru apusul devreme, în jur de ora 17:30.",
+                "en": "Best spot for the early winter sunset around 5:30 PM."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schichten Sie Ihre Kleidung, da es drinnen warm und draußen kalt ist.",
+              "Der Sonnenuntergang ist im Winter viel früher (ca. 17:30 Uhr).",
+              "Probieren Sie Toledos berühmtes Marzipan als Energiespender.",
+              "Kopfsteinpflaster leitet die Bodenkälte schnell an die Füße weiter."
+            ],
+            "hu": [
+              "Öltözzön rétegesen, mert a múzeumokban meleg, kint hideg van.",
+              "A naplemente télen jóval korábban, 17:30 körül várható.",
+              "Kóstolja meg a híres toledói marcipánt, ami remek energiaforrás.",
+              "A macskakő gyorsan átveszi a hideget, vastag talpú cipő javasolt."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi: e cald în muzee, dar frig afară.",
+              "Apusul soarelui are loc mult mai devreme (aprox. ora 17:30).",
+              "Gustați marțipanul faimos din Toledo pentru un plus de energie.",
+              "Pavajul transmite rapid frigul; alegeți încălțăminte cu talpă groasă."
+            ],
+            "en": [
+              "Dress in layers as interiors are warm but streets are cold.",
+              "Sunset is much earlier in winter (around 5:30 PM).",
+              "Try Toledo's famous marzipan for a sweet energy boost.",
+              "Cobblestones transfer ground cold quickly; wear thick-soled shoes."
+            ]
+          }
+        }
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Puerta de Bisagra",
+          "coords": [
+            -4.0253,
+            39.8628
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ideal als Startpunkt, um den Verkehr im Zentrum zu umgehen.",
+            "hu": "Ideális kiindulópont, hogy elkerüljük a belvárosi forgalmat.",
+            "ro": "Punct de plecare ideal pentru a evita traficul din centru.",
+            "en": "Ideal starting point to avoid the inner city traffic."
+          }
+        },
+        {
+          "name": "Mirador del Valle",
+          "coords": [
+            -4.021,
+            39.849
+          ],
+          "category": "natural features",
+          "arrive_at": "10:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.2,
+          "tip_5lang": {
+            "de": "Die Auffahrt ist steil, aber der Panoramablick belohnt jede Anstrengung.",
+            "hu": "Az emelkedő meredek, de a panoráma kárpótol minden fáradságért.",
+            "ro": "Urcarea este abruptă, dar panorama merită tot efortul.",
+            "en": "The climb is steep, but the panoramic view rewards every effort."
+          }
+        },
+        {
+          "name": "Puente de San Martín",
+          "coords": [
+            -4.035,
+            39.8575
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "11:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Überqueren Sie die Brücke zu Fuß, Fahrräder müssen geschoben werden.",
+            "hu": "A hídon toljuk a kerékpárt, mert a gyalogosforgalom jelentős.",
+            "ro": "Traversați podul pe lângă bicicletă, traficul pietonal este intens.",
+            "en": "Walk your bike across the bridge due to pedestrian traffic."
+          }
+        },
+        {
+          "name": "Monasterio de San Juan de los Reyes",
+          "coords": [
+            -4.0322,
+            39.8581
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:45",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Es gibt Fahrradständer in der Nähe des Eingangs.",
+            "hu": "A bejárat közelében találunk kerékpártárolókat.",
+            "ro": "Există suporturi pentru biciclete în apropierea intrării.",
+            "en": "There are bike racks available near the entrance."
+          }
+        },
+        {
+          "name": "Sinagoga de Santa María la Blanca",
+          "coords": [
+            -4.0303,
+            39.8576
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Die weißen Hufeisenbögen im Inneren sind ein Meisterwerk der Mudéjar-Kunst.",
+            "hu": "A belső tér fehér patkóívei a mudéjar művészet remekművei.",
+            "ro": "Arcurile în formă de potcoavă din interior sunt capodopere mudéjar.",
+            "en": "The white horseshoe arches inside are a Mudéjar masterpiece."
+          }
+        },
+        {
+          "name": "Alcázar von Toledo",
+          "coords": [
+            -4.0205,
+            39.8581
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Nutzen Sie die Rolltreppen am Nordhang, um den Höhenunterschied zu bewältigen.",
+            "hu": "Használjuk az északi oldalon lévő mozgólépcsőket a szintkülönbség leküzdéséhez.",
+            "ro": "Folosiți scările rulante de pe versantul nordic pentru a urca ușor.",
+            "en": "Use the escalators on the north slope to overcome the elevation change."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Fahrradtour führt Sie um die Stadtmauer herum zum spektakulären Mirador del Valle, von wo aus Sie das berühmte Postkartenmotiv Toledos sehen. Danach fahren Sie hinunter zum Fluss und überqueren die historische San-Martín-Brücke.\n\nDer Nachmittag ist der Erkundung des jüdischen Viertels gewidmet, wo Sie das Kloster San Juan de los Reyes und die Synagoge Santa María la Blanca besuchen. Die Route endet am majestätischen Alcázar auf dem Gipfel des Hügels.",
+        "hu": "Ez a kerékpáros túra a városfalak körül vezet a látványos Mirador del Valle kilátóhoz, ahonnan Toledo híres képeslap-panorámája tárul elénk. Ezután leereszkedünk a folyóhoz, és átkelünk a történelmi San Martín hídon.\n\nA délutánt a zsidó negyed felfedezésének szenteljük, meglátogatva a San Juan de los Reyes kolostort és a Santa María la Blanca zsinagógát. A túra a dombtetőn álló fenséges Alcázar erődnél zárul.",
+        "ro": "Acest tur cu bicicleta vă poartă în jurul zidurilor orașului până la spectaculosul Mirador del Valle, de unde aveți celebra panoramă de carte poștală. Apoi coborâți spre râu și traversați podul istoric San Martín.\n\nDupă-amiaza este dedicată explorării cartierului evreiesc, vizitând mănăstirea San Juan de los Reyes și sinagoga Santa María la Blanca. Traseul se încheie la maiestuosul Alcázar, în vârful dealului.",
+        "en": "This bike tour takes you around the city walls to the spectacular Mirador del Valle, offering the famous postcard view of Toledo. Then, ride down to the river and cross the historic San Martín Bridge.\n\nThe afternoon is dedicated to exploring the Jewish Quarter, visiting the San Juan de los Reyes Monastery and the Santa María la Blanca Synagogue. The route concludes at the majestic Alcázar at the top of the hill."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Perdiz a la toledana",
+            "tip": "Geschmorte Rebhühner, ein Klassiker der lokalen Küche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Perdiz a la toledana",
+            "tip": "Toledói párolt fogoly, a régió egyik legfontosabb fogása."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Perdiz a la toledana",
+            "tip": "Potârniche înăbușită, un clasic al gastronomiei locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Toledo-style Partridge",
+            "tip": "Stewed partridge, a cornerstone of local hunting cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ermita del Valle",
+            "tip": "Eine kleine Kapelle am Aussichtspunkt, fernab vom Trubel.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ermita del Valle",
+            "tip": "Kis kápolna a kilátónál, távol a város zajától.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ermita del Valle",
+            "tip": "O mică capelă lângă punctul de belvedere, departe de agitație.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Ermita del Valle",
+            "tip": "A small chapel at the viewpoint, far from the city noise.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Artesanía de Madera",
+            "tip": "Handgeschnitzte Holzarbeiten aus Olivenholz."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fafaragványok",
+            "tip": "Kézzel készített dísztárgyak olajfából."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Artizanat din lemn",
+            "tip": "Obiecte sculptate manual din lemn de măslin."
+          }
+        ],
+        "en": [
+          {
+            "name": "Wooden Handicrafts",
+            "tip": "Hand-carved items made from local olive wood."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein E-Bike, um die steilen Hügel mühelos zu bewältigen.",
+          "Fahren Sie auf der 'Ronda del Valle' für die besten Aussichten.",
+          "Achten Sie in den engen Gassen der Altstadt auf Fußgänger.",
+          "Nehmen Sie ausreichend Wasser mit, besonders für die Auffahrt zum Mirador."
+        ],
+        "hu": [
+          "Béreljünk elektromos kerékpárt a meredek emelkedők miatt.",
+          "A 'Ronda del Valle' útvonalon tekerjünk a legjobb kilátásért.",
+          "Az óváros szűk utcáin fokozottan ügyeljünk a gyalogosokra.",
+          "Vigyünk magunkkal elég vizet, főleg a Mirador felé vezető úton."
+        ],
+        "ro": [
+          "Închiriați o bicicletă electrică pentru a urca dealurile fără efort.",
+          "Mergeți pe 'Ronda del Valle' pentru cele mai bune priveliști.",
+          "Fiți atenți la pietoni în străzile înguste din centrul vechi.",
+          "Luați suficientă apă, mai ales pentru urcarea spre Mirador."
+        ],
+        "en": [
+          "Rent an e-bike to tackle the steep hills without exhaustion.",
+          "Ride along the 'Ronda del Valle' road for the best views.",
+          "Watch out for pedestrians in the narrow old town streets.",
+          "Carry enough water, especially for the climb to the viewpoint."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Diese Fahrradtour führt Sie um die Stadtmauer herum zum spektakulären Mirador del Valle, von wo aus Sie das berühmte Postkartenmotiv Toledos sehen. Danach fahren Sie hinunter zum Fluss und überqueren die historische San-Martín-Brücke.\n\nDer Nachmittag ist der Erkundung des jüdischen Viertels gewidmet, wo Sie das Kloster San Juan de los Reyes und die Synagoge Santa María la Blanca besuchen. Die Route endet am majestätischen Alcázar auf dem Gipfel des Hügels.",
+            "hu": "Ez a kerékpáros túra a városfalak körül vezet a látványos Mirador del Valle kilátóhoz, ahonnan Toledo híres képeslap-panorámája tárul elénk. Ezután leereszkedünk a folyóhoz, és átkelünk a történelmi San Martín hídon.\n\nA délutánt a zsidó negyed felfedezésének szenteljük, meglátogatva a San Juan de los Reyes kolostort és a Santa María la Blanca zsinagógát. A túra a dombtetőn álló fenséges Alcázar erődnél zárul.",
+            "ro": "Acest tur cu bicicleta vă poartă în jurul zidurilor orașului până la spectaculosul Mirador del Valle, de unde aveți celebra panoramă de carte poștală. Apoi coborâți spre râu și traversați podul istoric San Martín.\n\nDupă-amiaza este dedicată explorării cartierului evreiesc, vizitând mănăstirea San Juan de los Reyes și sinagoga Santa María la Blanca. Traseul se încheie la maiestuosul Alcázar, în vârful dealului.",
+            "en": "This bike tour takes you around the city walls to the spectacular Mirador del Valle, offering the famous postcard view of Toledo. Then, ride down to the river and cross the historic San Martín Bridge.\n\nThe afternoon is dedicated to exploring the Jewish Quarter, visiting the San Juan de los Reyes Monastery and the Santa María la Blanca Synagogue. The route concludes at the majestic Alcázar at the top of the hill."
+          },
+          "stops": [
+            {
+              "name": "Puerta de Bisagra",
+              "tip_5lang": {
+                "de": "Ideal als Startpunkt, um den Verkehr im Zentrum zu umgehen.",
+                "hu": "Ideális kiindulópont, hogy elkerüljük a belvárosi forgalmat.",
+                "ro": "Punct de plecare ideal pentru a evita traficul din centru.",
+                "en": "Ideal starting point to avoid the inner city traffic."
+              }
+            },
+            {
+              "name": "Mirador del Valle",
+              "tip_5lang": {
+                "de": "Die Auffahrt ist steil, aber der Panoramablick belohnt jede Anstrengung.",
+                "hu": "Az emelkedő meredek, de a panoráma kárpótol minden fáradságért.",
+                "ro": "Urcarea este abruptă, dar panorama merită tot efortul.",
+                "en": "The climb is steep, but the panoramic view rewards every effort."
+              }
+            },
+            {
+              "name": "Puente de San Martín",
+              "tip_5lang": {
+                "de": "Überqueren Sie die Brücke zu Fuß, Fahrräder müssen geschoben werden.",
+                "hu": "A hídon toljuk a kerékpárt, mert a gyalogosforgalom jelentős.",
+                "ro": "Traversați podul pe lângă bicicletă, traficul pietonal este intens.",
+                "en": "Walk your bike across the bridge due to pedestrian traffic."
+              }
+            },
+            {
+              "name": "Monasterio de San Juan de los Reyes",
+              "tip_5lang": {
+                "de": "Es gibt Fahrradständer in der Nähe des Eingangs.",
+                "hu": "A bejárat közelében találunk kerékpártárolókat.",
+                "ro": "Există suporturi pentru biciclete în apropierea intrării.",
+                "en": "There are bike racks available near the entrance."
+              }
+            },
+            {
+              "name": "Sinagoga de Santa María la Blanca",
+              "tip_5lang": {
+                "de": "Die weißen Hufeisenbögen im Inneren sind ein Meisterwerk der Mudéjar-Kunst.",
+                "hu": "A belső tér fehér patkóívei a mudéjar művészet remekművei.",
+                "ro": "Arcurile în formă de potcoavă din interior sunt capodopere mudéjar.",
+                "en": "The white horseshoe arches inside are a Mudéjar masterpiece."
+              }
+            },
+            {
+              "name": "Alcázar von Toledo",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Rolltreppen am Nordhang, um den Höhenunterschied zu bewältigen.",
+                "hu": "Használjuk az északi oldalon lévő mozgólépcsőket a szintkülönbség leküzdéséhez.",
+                "ro": "Folosiți scările rulante de pe versantul nordic pentru a urca ușor.",
+                "en": "Use the escalators on the north slope to overcome the elevation change."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Perdiz a la toledana",
+                "tip": "Geschmorte Rebhühner, ein Klassiker der lokalen Küche."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Perdiz a la toledana",
+                "tip": "Toledói párolt fogoly, a régió egyik legfontosabb fogása."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Perdiz a la toledana",
+                "tip": "Potârniche înăbușită, un clasic al gastronomiei locale."
+              }
+            ],
+            "en": [
+              {
+                "name": "Toledo-style Partridge",
+                "tip": "Stewed partridge, a cornerstone of local hunting cuisine."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Ermita del Valle",
+                "tip": "Eine kleine Kapelle am Aussichtspunkt, fernab vom Trubel.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Ermita del Valle",
+                "tip": "Kis kápolna a kilátónál, távol a város zajától.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Ermita del Valle",
+                "tip": "O mică capelă lângă punctul de belvedere, departe de agitație.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Ermita del Valle",
+                "tip": "A small chapel at the viewpoint, far from the city noise.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Artesanía de Madera",
+                "tip": "Handgeschnitzte Holzarbeiten aus Olivenholz."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Fafaragványok",
+                "tip": "Kézzel készített dísztárgyak olajfából."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Artizanat din lemn",
+                "tip": "Obiecte sculptate manual din lemn de măslin."
+              }
+            ],
+            "en": [
+              {
+                "name": "Wooden Handicrafts",
+                "tip": "Hand-carved items made from local olive wood."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Mieten Sie ein E-Bike, um die steilen Hügel mühelos zu bewältigen.",
+              "Fahren Sie auf der 'Ronda del Valle' für die besten Aussichten.",
+              "Achten Sie in den engen Gassen der Altstadt auf Fußgänger.",
+              "Nehmen Sie ausreichend Wasser mit, besonders für die Auffahrt zum Mirador."
+            ],
+            "hu": [
+              "Béreljünk elektromos kerékpárt a meredek emelkedők miatt.",
+              "A 'Ronda del Valle' útvonalon tekerjünk a legjobb kilátásért.",
+              "Az óváros szűk utcáin fokozottan ügyeljünk a gyalogosokra.",
+              "Vigyünk magunkkal elég vizet, főleg a Mirador felé vezető úton."
+            ],
+            "ro": [
+              "Închiriați o bicicletă electrică pentru a urca dealurile fără efort.",
+              "Mergeți pe 'Ronda del Valle' pentru cele mai bune priveliști.",
+              "Fiți atenți la pietoni în străzile înguste din centrul vechi.",
+              "Luați suficientă apă, mai ales pentru urcarea spre Mirador."
+            ],
+            "en": [
+              "Rent an e-bike to tackle the steep hills without exhaustion.",
+              "Ride along the 'Ronda del Valle' road for the best views.",
+              "Watch out for pedestrians in the narrow old town streets.",
+              "Carry enough water, especially for the climb to the viewpoint."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen erfordert Vorsicht auf Toledos Hügeln. Beginnen Sie an der Puerta de Bisagra und fahren Sie vorsichtig zum Mirador del Valle, wo der Blick auf die nasse Stadt spektakulär ist. Überqueren Sie die Puente de San Martín und suchen Sie Schutz im Kloster und der Synagoge. Der Alcázar markiert das trockene Ziel Ihrer Tour, wo Sie Ihr Rad sicher abstellen können.",
+            "hu": "Az esős biciklizés óvatosságot igényel Toledo dombjain. Kezdje a Puerta de Bisagra kapunál, majd tekerjen fel a Mirador del Valle kilátóhoz a párás városképért. A San Martín hídon átvágva keressen menedéket a kolostorban és a zsinagógában. A túrát az Alcázar fedett múzeumában zárhatja, ahol biztonságban tudhatja kerékpárját.",
+            "ro": "O tură cu bicicleta pe ploaie necesită prudență pe dealurile din Toledo. Începeți la Puerta de Bisagra și pedalați spre Mirador del Valle pentru o panoramă spectaculoasă. Traversați Podul San Martín și adăpostiți-vă la mănăstire și sinagogă. Alcázarul marchează destinația finală uscată, unde puteți lăsa bicicleta în siguranță.",
+            "en": "Cycling in the rain requires caution on Toledo's slopes. Start at Puerta de Bisagra and ride carefully to Mirador del Valle for a misty, dramatic view of the city. Cross San Martín Bridge and find shelter at the monastery and synagogue. The Alcázar serves as your dry final destination, where you can safely park your bike and explore indoors."
+          },
+          "stops": [
+            {
+              "name": "Puerta de Bisagra",
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen, bevor Sie die nassen Hänge befahren.",
+                "hu": "Ellenőrizze a fékeket, mielőtt a nedves lejtőkön elindulna.",
+                "ro": "Verificați frânele înainte de a coborî pantele umede.",
+                "en": "Check your brakes thoroughly before tackling the wet slopes."
+              }
+            },
+            {
+              "name": "Mirador del Valle",
+              "tip_5lang": {
+                "de": "Vorsicht in den Kurven der Ringstraße bei Nässe.",
+                "hu": "Vigyázat a körút kanyarjaiban a nedves aszfalton.",
+                "ro": "Atenție sporită în curbele șoselei de centură pe carosabil ud.",
+                "en": "Take extra care on the ring road curves when the surface is wet."
+              }
+            },
+            {
+              "name": "Puente de San Martín",
+              "tip_5lang": {
+                "de": "Fahren Sie langsam; das Holz und Stein auf der Brücke ist glatt.",
+                "hu": "Hajtson lassan; a híd fa- és kőburkolata csúszik.",
+                "ro": "Circulați cu viteză redusă; lemnul și piatra podului alunecă.",
+                "en": "Ride slowly; both wood and stone on the bridge are slippery."
+              }
+            },
+            {
+              "name": "Monasterio de San Juan de los Reyes",
+              "tip_5lang": {
+                "de": "Stellen Sie das Rad unter einem Mauervorsprung ab.",
+                "hu": "Parkolja a biciklit egy falmélyedés vagy eresztélék alá.",
+                "ro": "Parcați bicicleta sub o proeminență a zidului pentru protecție.",
+                "en": "Park your bike under a wall overhang to keep the seat dry."
+              }
+            },
+            {
+              "name": "Sinagoga de Santa María la Blanca",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Besuch für eine kurze Trockenpause.",
+                "hu": "Használja ki a látogatást egy rövid száradásra.",
+                "ro": "Profitați de vizită pentru o scurtă pauză de uscare.",
+                "en": "Use this stop as a strategic break to dry off a bit."
+              }
+            },
+            {
+              "name": "Alcázar von Toledo",
+              "tip_5lang": {
+                "de": "Ziel erreicht! Parken Sie im Trockenen nahe dem Eingang.",
+                "hu": "Célba ért! Parkoljon fedett helyen a bejárat közelében.",
+                "ro": "Destinație atinsă! Parcați într-un loc ferit lângă intrare.",
+                "en": "Destination reached! Park in a sheltered spot near the entrance."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie plötzliches Bremsen auf nassem Kopfsteinpflaster.",
+              "Vorder- und Rücklicht sind bei Regen für die Sichtbarkeit Pflicht.",
+              "Tragen Sie einen wasserdichten Poncho statt einer schweren Jacke.",
+              "Die Ringstraße (Ronda) bietet bei Regen weniger Grip."
+            ],
+            "hu": [
+              "Kerülje a hirtelen fékezést a nedves macskakövön.",
+              "Az első és hátsó lámpa használata esőben kötelező a láthatóságért.",
+              "Viseljen vízálló pelerint a nehéz kabát helyett.",
+              "A körút (Ronda) aszfaltja esőben veszít a tapadásából."
+            ],
+            "ro": [
+              "Evitați frânarea bruscă pe pavajul umed.",
+              "Luminile față și spate sunt obligatorii pentru vizibilitate pe ploaie.",
+              "Purtați o pelerină impermeabilă în locul unei jachete grele.",
+              "Șoseaua de centură (Ronda) are aderență redusă când plouă."
+            ],
+            "en": [
+              "Avoid sudden braking on wet cobblestones at all costs.",
+              "Front and rear lights are mandatory for visibility in the rain.",
+              "A waterproof poncho is better than a heavy jacket for cycling.",
+              "The ring road (Ronda) offers much less grip when wet."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintertag ist perfekt für die Ringstraße. Starten Sie an der Puerta de Bisagra und genießen Sie den Mirador del Valle ohne Sommerhitze. Die kühle Brise an der Puente de San Martín belebt, bevor Sie sich im Kloster und der Synagoge aufwärmen. Beenden Sie die Tour am Alcázar, wenn das goldene Licht der tiefstehenden Sonne die Steine Toledos zum Leuchten bringt.",
+            "hu": "Egy tiszta téli nap ideális a körúti tekeréshez. Induljon a Puerta de Bisagra kaputól, és élvezze a Mirador del Valle kilátást hőség nélkül. A San Martín híd hűvös szellője frissítő, mielőtt felmelegedne a kolostorban. A túrát az Alcázarnál fejezze be, amikor a lemenő nap aranyló fénye megvilágítja Toledo ódon falait.",
+            "ro": "O zi senină de iarnă este perfectă pentru șoseaua de centură. Începeți la Puerta de Bisagra și savurați panorama de la Mirador del Valle fără caniculă. Briza rece de la Podul San Martín vă va revigora înainte de a intra în mănăstire. Încheiați turul la Alcázar, când lumina aurie a apusului face zidurile orașului să strălucească.",
+            "en": "A clear winter day is ideal for the outer ring road. Start at Puerta de Bisagra and enjoy Mirador del Valle without the summer heat. The cool breeze at San Martín Bridge is refreshing before you warm up inside the monastery and synagogue. Finish at the Alcázar just as the low winter sun turns Toledo's stones into glowing gold."
+          },
+          "stops": [
+            {
+              "name": "Puerta de Bisagra",
+              "tip_5lang": {
+                "de": "Tragen Sie Handschuhe; der Fahrtwind ist im Winter eisig.",
+                "hu": "Viseljen kesztyűt; a menetszél télen nagyon hideg.",
+                "ro": "Purtați mănuși; vântul din timpul mersului este înghețat.",
+                "en": "Wear gloves; the wind chill while riding is biting in winter."
+              }
+            },
+            {
+              "name": "Mirador del Valle",
+              "tip_5lang": {
+                "de": "Perfektes Fotolicht am Vormittag bei tiefstehender Sonne.",
+                "hu": "Tökéletes fotófények délelőtt az alacsony napállás miatt.",
+                "ro": "Lumină perfectă pentru fotografii dimineața datorită soarelui jos.",
+                "en": "Perfect light for photos in the morning with the low sun."
+              }
+            },
+            {
+              "name": "Puente de San Martín",
+              "tip_5lang": {
+                "de": "Im Schatten des Tals ist es hier deutlich kälter als oben.",
+                "hu": "A völgy árnyékában itt sokkal hidegebb van, mint fent.",
+                "ro": "În umbra văii este mult mai frig aici decât în oraș.",
+                "en": "It is significantly colder down here in the valley's shadow."
+              }
+            },
+            {
+              "name": "Monasterio de San Juan de los Reyes",
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp drinnen hilft, die Finger aufzuwärmen.",
+                "hu": "Egy rövid benti megálló segít átmelegíteni az ujjakat.",
+                "ro": "O scurtă oprire în interior ajută la încălzirea degetelor.",
+                "en": "A short stop inside will help warm up your frozen fingers."
+              }
+            },
+            {
+              "name": "Sinagoga de Santa María la Blanca",
+              "tip_5lang": {
+                "de": "Stellen Sie das Rad in die Sonne, um den Sattel zu wärmen.",
+                "hu": "Parkoljon napos helyre, hogy ne hűljön ki a nyereg.",
+                "ro": "Lăsați bicicleta la soare pentru a păstra șaua caldă.",
+                "en": "Park your bike in a sunny spot to keep the seat from freezing."
+              }
+            },
+            {
+              "name": "Alcázar von Toledo",
+              "tip_5lang": {
+                "de": "Achten Sie auf das Ende der Leihzeit vor der Dunkelheit.",
+                "hu": "Ügyeljen a bérlési idő végére a sötétedés előtt.",
+                "ro": "Aveți grijă la limita timpului de închiriere înainte de amurg.",
+                "en": "Be mindful of bike rental return times before it gets dark."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterfeste Handschuhe sind absolut notwendig.",
+              "Die tiefstehende Sonne kann beim Fahren stark blenden.",
+              "Planen Sie die Rückkehr vor 17:30 Uhr ein (Dämmerung).",
+              "Trinken Sie zwischendurch etwas Warmes in der Altstadt."
+            ],
+            "hu": [
+              "Téli kesztyű használata elengedhetetlen a túrához.",
+              "Az alacsonyan járó nap erősen elvakíthat menet közben.",
+              "Tervezze a visszaérkezést 17:30 előtt, a sötétedés miatt.",
+              "Igyon egy forró italt pihenésképpen az óvárosban."
+            ],
+            "ro": [
+              "Mănușile de iarnă sunt absolut necesare pentru pedalat.",
+              "Soarele jos poate fi orbitor în timpul deplasării.",
+              "Planificați întoarcerea înainte de 17:30 (lăsarea serii).",
+              "Faceți o pauză pentru o băutură caldă în centrul vechi."
+            ],
+            "en": [
+              "Winter cycling gloves are absolutely essential for comfort.",
+              "The low winter sun can be very blinding while riding.",
+              "Plan to return your bike by 5:30 PM as it gets dark quickly.",
+              "Take a break for a hot drink in the old town to stay warm."
+            ]
+          }
+        }
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 15.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Mirador del Valle",
+          "coords": [
+            -4.021,
+            39.849
+          ],
+          "category": "natural features",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Es gibt kostenlose Parkplätze direkt am Aussichtspunkt.",
+            "hu": "Ingyenes parkolóhelyek állnak rendelkezésre közvetlenül a kilátónál.",
+            "ro": "Există locuri de parcare gratuite chiar la punctul de belvedere.",
+            "en": "Free parking spots are available directly at the viewpoint."
+          }
+        },
+        {
+          "name": "Puerta de Bisagra",
+          "coords": [
+            -4.0253,
+            39.8628
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Parken Sie im 'Parking Safont' außerhalb der Stadtmauer.",
+            "hu": "Parkoljunk a városfalon kívüli 'Parking Safont' mélygarázsban.",
+            "ro": "Parcați în 'Parking Safont', situat în afara zidurilor orașului.",
+            "en": "Park at 'Parking Safont', located just outside the city walls."
+          }
+        },
+        {
+          "name": "Catedral de Toledo",
+          "coords": [
+            -4.0244,
+            39.8571
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Fahren Sie nicht mit dem Auto in die unmittelbare Nähe der Kathedrale.",
+            "hu": "Ne próbáljunk meg autóval a katedrális közvetlen közelébe hajtani.",
+            "ro": "Nu încercați să conduceți până în imediata apropiere a catedralei.",
+            "en": "Do not attempt to drive into the immediate vicinity of the cathedral."
+          }
+        },
+        {
+          "name": "Alcázar von Toledo",
+          "coords": [
+            -4.0205,
+            39.8581
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:45",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Das Heeresmuseum im Inneren ist montags geschlossen.",
+            "hu": "Az erődben található hadtörténeti múzeum hétfőnként zárva tart.",
+            "ro": "Muzeul armatei din interior este închis în zilele de luni.",
+            "en": "The army museum inside the fortress is closed on Mondays."
+          }
+        },
+        {
+          "name": "Sinagoga del Tránsito",
+          "coords": [
+            -4.0305,
+            39.8558
+          ],
+          "category": "museums",
+          "arrive_at": "15:45",
+          "stay_min": 70,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die prächtigen Stuckarbeiten im sephardischen Stil.",
+            "hu": "Csodáljuk meg a szefárd stílusú, gazdagon díszített stukkókat.",
+            "ro": "Admirați decorațiunile din stuc în stil sefard, extrem de detaliate.",
+            "en": "Admire the magnificent Sephardic-style intricate stucco work."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Besuch mit dem Auto am Mirador del Valle, um den besten Überblick über Toledo zu erhalten. Danach parken Sie am Safont-Parkplatz und betreten die Stadt durch das historische Bisagra-Tor.\n\nDer Rest der Tour führt Sie zu Fuß durch das Herz der Altstadt zur Kathedrale und zum Alcázar. Am Nachmittag erkunden Sie das jüdische Viertel und die Synagoge del Tránsito, bevor Sie zu Ihrem Fahrzeug zurückkehren.",
+        "hu": "Autós látogatásunkat a Mirador del Valle kilátónál kezdjük, hogy teljes képet kapjunk Toledo szerkezetéről. Ezután a Safont parkolóban hagyjuk az autót, és a Bisagra-kapun keresztül lépünk be a városba.\n\nA túra további része gyalogosan folytatódik az óváros szívében, érintve a katedrálist és az Alcázart. Délután a zsidó negyedet és a Tránsito zsinagógát fedezzük fel, mielőtt visszatérnénk a járműhöz.",
+        "ro": "Începeți vizita cu mașina la Mirador del Valle pentru a avea cea mai bună imagine de ansamblu. Apoi parcați la Safont și intrați în oraș prin poarta istorică Bisagra.\n\nRestul turului se desfășoară pe jos prin inima centrului vechi, vizitând catedrala și Alcázar-ul. După-amiaza explorați cartierul evreiesc și sinagoga del Tránsito înainte de a reveni la vehicul.",
+        "en": "Start your car trip at Mirador del Valle for the best overview of Toledo. Then, park at Safont parking and enter the city through the historic Bisagra Gate.\n\nThe rest of the tour is on foot through the heart of the old town, visiting the Cathedral and the Alcázar. In the afternoon, explore the Jewish Quarter and the Tránsito Synagogue before heading back to your car."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Sopa Castellana",
+            "tip": "Traditionelle Knoblauchsuppe, besonders gut im Winter."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sopa Castellana",
+            "tip": "Hagyományos fokhagymaleves, különösen télen népszerű."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sopa Castellana",
+            "tip": "Supă tradițională de usturoi, excelentă mai ales iarna."
+          }
+        ],
+        "en": [
+          {
+            "name": "Castilian Soup",
+            "tip": "Traditional garlic soup, especially comforting in winter."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Mirador del Valle",
+            "tip": "Der perfekte Ort für ein Picknick mit Blick auf die Stadt.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mirador del Valle",
+            "tip": "Tökéletes hely egy piknikhez a városra néző kilátással.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mirador del Valle",
+            "tip": "Locul perfect pentru un picnic cu vedere spre oraș.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Mirador del Valle",
+            "tip": "The perfect spot for a picnic with a full view of the city.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Queso Manchego",
+            "tip": "Der berühmte Schafskäse aus der Region Kastilien-La Mancha."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Manchego sajt",
+            "tip": "A híres juhsajt Kasztília-La Mancha régióból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Queso Manchego",
+            "tip": "Celebra brânză de oaie din regiunea Castilia-La Mancha."
+          }
+        ],
+        "en": [
+          {
+            "name": "Manchego Cheese",
+            "tip": "The famous sheep's milk cheese from the Castile-La Mancha region."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Fahren Sie niemals in die Altstadt hinein; die Gassen sind extrem eng.",
+          "Nutzen Sie die Parkhäuser am Stadtrand (Safont oder Miradero).",
+          "Die Ringstraße 'Ronda del Valle' bietet viele Haltebuchten für Fotos.",
+          "Beachten Sie die Einbahnstraßenregelungen rund um die Stadtmauer."
+        ],
+        "hu": [
+          "Soha ne hajtsunk be az óvárosba; az utcák rendkívül szűkek.",
+          "Használjuk a város szélén lévő parkolóházakat (Safont vagy Miradero).",
+          "A 'Ronda del Valle' körgyűrűn több megállóhely van fotózáshoz.",
+          "Ügyeljünk az egyirányú forgalmi rendszereket a városfal körül."
+        ],
+        "ro": [
+          "Nu intrați niciodată cu mașina în centrul vechi; străzile sunt extrem de înguste.",
+          "Folosiți parcările de la marginea orașului (Safont sau Miradero).",
+          "Șoseaua de centură 'Ronda del Valle' are multe refugii pentru fotografii.",
+          "Atenție la sensurile unice din jurul zidurilor orașului."
+        ],
+        "en": [
+          "Never drive into the old town center; the streets are extremely narrow.",
+          "Use the parking garages on the outskirts (Safont or Miradero).",
+          "The 'Ronda del Valle' ring road has many pull-off areas for photos.",
+          "Be aware of the one-way traffic systems around the city walls."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Besuch mit dem Auto am Mirador del Valle, um den besten Überblick über Toledo zu erhalten. Danach parken Sie am Safont-Parkplatz und betreten die Stadt durch das historische Bisagra-Tor.\n\nDer Rest der Tour führt Sie zu Fuß durch das Herz der Altstadt zur Kathedrale und zum Alcázar. Am Nachmittag erkunden Sie das jüdische Viertel und die Synagoge del Tránsito, bevor Sie zu Ihrem Fahrzeug zurückkehren.",
+            "hu": "Autós látogatásunkat a Mirador del Valle kilátónál kezdjük, hogy teljes képet kapjunk Toledo szerkezetéről. Ezután a Safont parkolóban hagyjuk az autót, és a Bisagra-kapun keresztül lépünk be a városba.\n\nA túra további része gyalogosan folytatódik az óváros szívében, érintve a katedrálist és az Alcázart. Délután a zsidó negyedet és a Tránsito zsinagógát fedezzük fel, mielőtt visszatérnénk a járműhöz.",
+            "ro": "Începeți vizita cu mașina la Mirador del Valle pentru a avea cea mai bună imagine de ansamblu. Apoi parcați la Safont și intrați în oraș prin poarta istorică Bisagra.\n\nRestul turului se desfășoară pe jos prin inima centrului vechi, vizitând catedrala și Alcázar-ul. După-amiaza explorați cartierul evreiesc și sinagoga del Tránsito înainte de a reveni la vehicul.",
+            "en": "Start your car trip at Mirador del Valle for the best overview of Toledo. Then, park at Safont parking and enter the city through the historic Bisagra Gate.\n\nThe rest of the tour is on foot through the heart of the old town, visiting the Cathedral and the Alcázar. In the afternoon, explore the Jewish Quarter and the Tránsito Synagogue before heading back to your car."
+          },
+          "stops": [
+            {
+              "name": "Mirador del Valle",
+              "tip_5lang": {
+                "de": "Es gibt kostenlose Parkplätze direkt am Aussichtspunkt.",
+                "hu": "Ingyenes parkolóhelyek állnak rendelkezésre közvetlenül a kilátónál.",
+                "ro": "Există locuri de parcare gratuite chiar la punctul de belvedere.",
+                "en": "Free parking spots are available directly at the viewpoint."
+              }
+            },
+            {
+              "name": "Puerta de Bisagra",
+              "tip_5lang": {
+                "de": "Parken Sie im 'Parking Safont' außerhalb der Stadtmauer.",
+                "hu": "Parkoljunk a városfalon kívüli 'Parking Safont' mélygarázsban.",
+                "ro": "Parcați în 'Parking Safont', situat în afara zidurilor orașului.",
+                "en": "Park at 'Parking Safont', located just outside the city walls."
+              }
+            },
+            {
+              "name": "Catedral de Toledo",
+              "tip_5lang": {
+                "de": "Fahren Sie nicht mit dem Auto in die unmittelbare Nähe der Kathedrale.",
+                "hu": "Ne próbáljunk meg autóval a katedrális közvetlen közelébe hajtani.",
+                "ro": "Nu încercați să conduceți până în imediata apropiere a catedralei.",
+                "en": "Do not attempt to drive into the immediate vicinity of the cathedral."
+              }
+            },
+            {
+              "name": "Alcázar von Toledo",
+              "tip_5lang": {
+                "de": "Das Heeresmuseum im Inneren ist montags geschlossen.",
+                "hu": "Az erődben található hadtörténeti múzeum hétfőnként zárva tart.",
+                "ro": "Muzeul armatei din interior este închis în zilele de luni.",
+                "en": "The army museum inside the fortress is closed on Mondays."
+              }
+            },
+            {
+              "name": "Sinagoga del Tránsito",
+              "tip_5lang": {
+                "de": "Bewundern Sie die prächtigen Stuckarbeiten im sephardischen Stil.",
+                "hu": "Csodáljuk meg a szefárd stílusú, gazdagon díszített stukkókat.",
+                "ro": "Admirați decorațiunile din stuc în stil sefard, extrem de detaliate.",
+                "en": "Admire the magnificent Sephardic-style intricate stucco work."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Sopa Castellana",
+                "tip": "Traditionelle Knoblauchsuppe, besonders gut im Winter."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Sopa Castellana",
+                "tip": "Hagyományos fokhagymaleves, különösen télen népszerű."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Sopa Castellana",
+                "tip": "Supă tradițională de usturoi, excelentă mai ales iarna."
+              }
+            ],
+            "en": [
+              {
+                "name": "Castilian Soup",
+                "tip": "Traditional garlic soup, especially comforting in winter."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Mirador del Valle",
+                "tip": "Der perfekte Ort für ein Picknick mit Blick auf die Stadt.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Mirador del Valle",
+                "tip": "Tökéletes hely egy piknikhez a városra néző kilátással.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Mirador del Valle",
+                "tip": "Locul perfect pentru un picnic cu vedere spre oraș.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Mirador del Valle",
+                "tip": "The perfect spot for a picnic with a full view of the city.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Queso Manchego",
+                "tip": "Der berühmte Schafskäse aus der Region Kastilien-La Mancha."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Manchego sajt",
+                "tip": "A híres juhsajt Kasztília-La Mancha régióból."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Queso Manchego",
+                "tip": "Celebra brânză de oaie din regiunea Castilia-La Mancha."
+              }
+            ],
+            "en": [
+              {
+                "name": "Manchego Cheese",
+                "tip": "The famous sheep's milk cheese from the Castile-La Mancha region."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Fahren Sie niemals in die Altstadt hinein; die Gassen sind extrem eng.",
+              "Nutzen Sie die Parkhäuser am Stadtrand (Safont oder Miradero).",
+              "Die Ringstraße 'Ronda del Valle' bietet viele Haltebuchten für Fotos.",
+              "Beachten Sie die Einbahnstraßenregelungen rund um die Stadtmauer."
+            ],
+            "hu": [
+              "Soha ne hajtsunk be az óvárosba; az utcák rendkívül szűkek.",
+              "Használjuk a város szélén lévő parkolóházakat (Safont vagy Miradero).",
+              "A 'Ronda del Valle' körgyűrűn több megállóhely van fotózáshoz.",
+              "Ügyeljünk az egyirányú forgalmi rendszereket a városfal körül."
+            ],
+            "ro": [
+              "Nu intrați niciodată cu mașina în centrul vechi; străzile sunt extrem de înguste.",
+              "Folosiți parcările de la marginea orașului (Safont sau Miradero).",
+              "Șoseaua de centură 'Ronda del Valle' are multe refugii pentru fotografii.",
+              "Atenție la sensurile unice din jurul zidurilor orașului."
+            ],
+            "en": [
+              "Never drive into the old town center; the streets are extremely narrow.",
+              "Use the parking garages on the outskirts (Safont or Miradero).",
+              "The 'Ronda del Valle' ring road has many pull-off areas for photos.",
+              "Be aware of the one-way traffic systems around the city walls."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist Toledo bei Regen komfortabel. Starten Sie am Mirador del Valle für das Panorama aus dem trockenen Fahrzeug. Parken Sie nahe der Puerta de Bisagra und nutzen Sie die Rolltreppen zur Kathedrale und zum Alcázar. Die Synagoge del Tránsito bietet am Nachmittag einen kulturellen Rückzugsort, bevor Sie bequem im Auto die Heimreise antreten.",
+            "hu": "Autóval Toledo kényelmesen felfedezhető esőben is. Kezdje a Mirador del Valle kilátónál, ahol a száraz kocsiból is csodás a kép. Parkoljon a Puerta de Bisagra közelében, és használja a mozgólépcsőket a katedrálishoz és az Alcázarhoz. A Tránsito zsinagóga délutáni menedék, mielőtt kényelmesen elindulna haza.",
+            "ro": "Cu mașina, Toledo este confortabil chiar și pe ploaie. Începeți la Mirador del Valle pentru o panoramă din interiorul vehiculului. Parcați lângă Puerta de Bisagra și folosiți scările rulante spre Catedrală și Alcázar. Sinagoga del Tránsito oferă un refugiu cultural după-amiaza, înainte de plecarea spre casă.",
+            "en": "Exploring Toledo by car is very comfortable during rain. Start at Mirador del Valle for a panoramic view from the dry interior of your car. Park near Puerta de Bisagra and use the public escalators to reach the Cathedral and Alcázar. The Tránsito Synagogue offers a dry cultural retreat in the afternoon before you drive back cozy and dry."
+          },
+          "stops": [
+            {
+              "name": "Mirador del Valle",
+              "tip_5lang": {
+                "de": "Sie können das Panorama direkt vom Fahrersitz genießen.",
+                "hu": "A panorámát közvetlenül a vezetőülésből is élvezheti.",
+                "ro": "Puteți admira panorama direct de pe scaunul șoferului.",
+                "en": "You can enjoy the panoramic view right from the driver's seat."
+              }
+            },
+            {
+              "name": "Puerta de Bisagra",
+              "tip_5lang": {
+                "de": "Nutzen Sie das nahegelegene Parkhaus 'Safont' im Trockenen.",
+                "hu": "Használja a közeli 'Safont' parkolóházat, hogy száraz maradjon.",
+                "ro": "Folosiți parcarea acoperită 'Safont' din apropiere.",
+                "en": "Use the nearby 'Safont' indoor parking to stay dry."
+              }
+            },
+            {
+              "name": "Catedral de Toledo",
+              "tip_5lang": {
+                "de": "Lassen Sie Passagiere nah am Eingang aussteigen.",
+                "hu": "Engedje ki az utasokat közvetlenül a bejárat közelében.",
+                "ro": "Lăsați pasagerii să coboare cât mai aproape de intrare.",
+                "en": "Drop off passengers as close to the entrance as possible."
+              }
+            },
+            {
+              "name": "Alcázar von Toledo",
+              "tip_5lang": {
+                "de": "Das Parkhaus am Alcázar führt direkt zum Aufzug.",
+                "hu": "Az Alcázar parkolóháza közvetlenül a lifthez vezet.",
+                "ro": "Parcarea de la Alcázar oferă acces direct la lift.",
+                "en": "The Alcázar parking garage provides direct access to elevators."
+              }
+            },
+            {
+              "name": "Sinagoga del Tránsito",
+              "tip_5lang": {
+                "de": "Parken Sie im Viertel 'Judería' für kurze Fußwege.",
+                "hu": "Parkoljon a 'Judería' negyedben a rövid séta érdekében.",
+                "ro": "Parcați în cartierul 'Judería' pentru drumuri scurte pe jos.",
+                "en": "Park in the 'Judería' district to minimize walking in rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie Parkhäuser statt Außenparkplätzen.",
+              "Die Rolltreppen (Escaleras Mecánicas) sparen Zeit im Regen.",
+              "Vermeiden Sie das Fahren in den extrem engen Gassen der Altstadt.",
+              "Prüfen Sie die Scheibenwischer vor der Fahrt über die Hügel."
+            ],
+            "hu": [
+              "Használjon fedett parkolóházakat a szabadtéri helyek helyett.",
+              "A mozgólépcsőkkel (Escaleras Mecánicas) időt nyer az esőben.",
+              "Kerülje a behajtást az óváros extrém szűk utcáiba.",
+              "Ellenőrizze az ablaktörlőket a dombvidéki vezetés előtt."
+            ],
+            "ro": [
+              "Folosiți parcările etajate în locul celor în aer liber.",
+              "Scările rulante (Escaleras Mecánicas) vă scutesc de ploaie.",
+              "Evitați să conduceți pe străzile extrem de înguste din centru.",
+              "Verificați ștergătoarele înainte de a porni pe drumurile de deal."
+            ],
+            "en": [
+              "Prefer indoor parking garages over outdoor street parking.",
+              "Public escalators (Escaleras Mecánicas) are great time-savers.",
+              "Avoid driving into the extremely narrow alleys of the old town.",
+              "Check your windshield wipers before driving the hilly roads."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Wintersonne macht die Fahrt zum Mirador del Valle unvergesslich. Parken Sie komfortabel und erkunden Sie die Puerta de Bisagra, bevor Sie sich in der Kathedrale und dem Alcázar aufwärmen. Die Museen der Judería sind am Nachmittag angenehm geheizt. Beenden Sie den Tag pünktlich zum frühen Sonnenuntergang, während die Sitzheizung Ihres Autos für angenehme Wärme sorgt.",
+            "hu": "A téli napsütés felejthetetlenné teszi az utat a Mirador del Valle kilátóhoz. Parkoljon kényelmesen a Puerta de Bisagra közelében, majd melegedjen fel a katedrális és az Alcázar falai között. A zsidó negyed múzeumaiban délután kellemes a hőmérséklet. Zárja a napot a korai naplementével, miközben az autó fűtése gondoskodik a komfortról.",
+            "ro": "Soarele de iarnă face drumul spre Mirador del Valle de neuitat. Parcați confortabil și vizitați Puerta de Bisagra, apoi încălziți-vă în Catedrală și Alcázar. Muzeele din Judería sunt plăcut încălzite după-amiaza. Încheiați ziua exact la apus, în timp ce căldura din mașină vă oferă tot confortul necesar.",
+            "en": "Winter sunshine makes the drive to Mirador del Valle truly memorable. Park conveniently to explore Puerta de Bisagra, then seek warmth inside the Cathedral and Alcázar. The museums in the Judería are pleasantly heated in the afternoon. Finish your day right at the early sunset, enjoying the warmth of your car's heater on the way back."
+          },
+          "stops": [
+            {
+              "name": "Mirador del Valle",
+              "tip_5lang": {
+                "de": "Heizung anlassen, während Sie kurz für ein Foto aussteigen.",
+                "hu": "Hagyja menni a fűtést, amíg kiszáll egy gyors fotóra.",
+                "ro": "Lăsați căldura pornită cât timp coborâți pentru o poză.",
+                "en": "Keep the heater running while you hop out for a quick photo."
+              }
+            },
+            {
+              "name": "Puerta de Bisagra",
+              "tip_5lang": {
+                "de": "Schattenparkplätze meiden; in der Sonne taut das Auto auf.",
+                "hu": "Kerülje az árnyékos helyeket; a napon hamarabb bemelegszik az autó.",
+                "ro": "Evitați parcările la umbră; la soare mașina se dezgheață rapid.",
+                "en": "Avoid shaded parking; sun-exposed spots keep the car warmer."
+              }
+            },
+            {
+              "name": "Catedral de Toledo",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Tiefgarage am Rathausplatz (Ayuntamiento).",
+                "hu": "Használja a városháza téri (Ayuntamiento) mélygarázst.",
+                "ro": "Folosiți parcarea subterană de la Piața Primăriei.",
+                "en": "Use the underground parking at City Hall Square (Ayuntamiento)."
+              }
+            },
+            {
+              "name": "Alcázar von Toledo",
+              "tip_5lang": {
+                "de": "Das Auto bleibt im Parkhaus angenehm temperiert.",
+                "hu": "Az autó a parkolóházban nem hűl le túlságosan.",
+                "ro": "Mașina va rămâne la o temperatură plăcută în parcarea etajată.",
+                "en": "The car will stay at a reasonable temperature in the garage."
+              }
+            },
+            {
+              "name": "Sinagoga del Tránsito",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg vom Parkplatz Paseo del Tránsito.",
+                "hu": "Rövid séta a Paseo del Tránsito parkolótól.",
+                "ro": "Drum scurt pe jos de la parcarea Paseo del Tránsito.",
+                "en": "Very short walk from the Paseo del Tránsito parking area."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf mögliche Glätte auf der schattigen Nordseite.",
+              "Die Parkhäuser sind im Winter oft wärmer als Außenplätze.",
+              "Der Sonnenuntergang ist bereits gegen 17:30 Uhr.",
+              "Nutzen Sie die Sitzheizung nach langen Spaziergängen."
+            ],
+            "hu": [
+              "Vigyázzon az esetleges jegesedésre az árnyékos északi oldalon.",
+              "A parkolóházak télen melegebbek, mint a kültéri helyek.",
+              "A nap már 17:30 körül nyugovóra tér.",
+              "Használja az ülésfűtést a hosszú séták után."
+            ],
+            "ro": [
+              "Atenție la polei pe partea nordică, aflată la umbră.",
+              "Parcările etajate sunt adesea mai calde iarna decât cele de afară.",
+              "Apusul soarelui are loc deja în jurul orei 17:30.",
+              "Folosiți încălzirea în scaune după plimbările lungi pe jos."
+            ],
+            "en": [
+              "Watch out for potential black ice on shaded north-facing roads.",
+              "Indoor parking garages are often warmer than street parking.",
+              "Sunset occurs early, around 5:30 PM in winter.",
+              "Enjoy your seat heaters after long walks in the cold air."
+            ]
+          }
+        }
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:30",
+      "total_km": 8.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Puerta de Bisagra",
+          "coords": [
+            -4.0253,
+            39.8628
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Vom Bahnhof (AVE) fahren die Buslinien L5, L61 und L62 hierher.",
+            "hu": "A vasútállomástól (AVE) az L5, L61 és L62 buszokkal juthatunk ide.",
+            "ro": "De la gară (AVE) puteți ajunge aici cu liniile L5, L61 și L62.",
+            "en": "From the train station (AVE), bus lines L5, L61, and L62 stop here."
+          }
+        },
+        {
+          "name": "Alcázar von Toledo",
+          "coords": [
+            -4.0205,
+            39.8581
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Der Zocobús startet am nahegelegenen Plaza de Zocodover.",
+            "hu": "A Zocobús városnéző busz a közeli Plaza de Zocodover térről indul.",
+            "ro": "Zocobús pleacă din Plaza de Zocodover, situată în apropiere.",
+            "en": "The Zocobús tourist bus starts from the nearby Plaza de Zocodover."
+          }
+        },
+        {
+          "name": "Catedral de Toledo",
+          "coords": [
+            -4.0244,
+            39.8571
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Kaufen Sie Tickets online, um lange Warteschlangen zu vermeiden.",
+            "hu": "Vegyünk jegyet online, hogy elkerüljük a hosszú sorban állást.",
+            "ro": "Cumpărați bilete online pentru a evita cozile lungi.",
+            "en": "Buy tickets online to avoid long queues at the entrance."
+          }
+        },
+        {
+          "name": "Mirador del Valle",
+          "coords": [
+            -4.021,
+            39.849
+          ],
+          "category": "natural features",
+          "arrive_at": "14:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus L71 für eine Panoramafahrt zum Aussichtspunkt.",
+            "hu": "Szálljunk fel az L71-es buszra egy panorámás utazáshoz a kilátóig.",
+            "ro": "Luați autobuzul L71 pentru o călătorie panoramică spre belvedere.",
+            "en": "Take bus L71 for a scenic panoramic ride to the viewpoint."
+          }
+        },
+        {
+          "name": "Puente de San Martín",
+          "coords": [
+            -4.035,
+            39.8575
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "16:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Die Buslinie L12 verbindet die Brücke mit dem Zentrum.",
+            "hu": "Az L12-es buszjárat összeköti a hidat a városközponttal.",
+            "ro": "Linia de autobuz L12 conectează podul de centrul orașului.",
+            "en": "Bus line L12 connects the bridge back to the city center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Tour nutzt das effiziente Bussystem Toledos. Sie starten am Bisagra-Tor und fahren hinauf zum Plaza de Zocodover, dem pulsierenden Herz der Stadt. Von dort erkunden Sie den Alcázar und die Kathedrale zu Fuß.\n\nDas Highlight ist die Fahrt mit der Linie L71 zum Mirador del Valle, die Ihnen atemberaubende Ausblicke ohne mühsames Klettern ermöglicht. Den Abschluss bildet der Besuch der San-Martín-Brücke, bevor Sie mit dem Bus zurück zum Zentrum oder zum Bahnhof fahren.",
+        "hu": "Ez a túra Toledo hatékony buszhálózatát használja ki. A Bisagra-kaputól indulunk, és felutazunk a Plaza de Zocodover térre, a város lüktető szívébe. Innen gyalog fedezzük fel az Alcázart és a katedrálist.\n\nA nap fénypontja az L71-es busszal tett körutazás a Mirador del Valle kilátóhoz, amely kényelmesen nyújt lélegzetelállító panorámát. A túra a San Martín hídnál ér véget, ahonnan busszal juthatunk vissza a központba vagy a vasútállomásra.",
+        "ro": "Acest tur folosește rețeaua eficientă de autobuze din Toledo. Începeți la poarta Bisagra și urcați spre Plaza de Zocodover, inima orașului. De acolo, explorați Alcázar-ul și catedrala pe jos.\n\nPunctul culminant este călătoria cu linia L71 spre Mirador del Valle, care oferă vederi spectaculoase fără efort. Vizita se încheie la podul San Martín, de unde puteți lua autobuzul înapoi spre centru sau gară.",
+        "en": "This tour makes use of Toledo's efficient bus network. Start at Bisagra Gate and head up to Plaza de Zocodover, the city's main square. From there, explore the Alcázar and the Cathedral on foot.\n\nThe highlight is the ride on bus line L71 to Mirador del Valle, offering breathtaking views without the steep climb. End your day at the San Martín Bridge before taking a bus back to the center or the train station."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Cochinillo",
+            "tip": "Spanferkel, eine Spezialität der kastilischen Hochebene."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cochinillo",
+            "tip": "Sült malac, a kasztíliai fennsík egyik fő specialitása."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cochinillo",
+            "tip": "Purceluș de lapte la cuptor, o specialitate castiliană."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cochinillo",
+            "tip": "Roast suckling pig, a specialty of the Castilian plains."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Plaza del Ayuntamiento",
+            "tip": "Ein schöner Platz zwischen Rathaus und Kathedrale zum Ausruhen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Plaza del Ayuntamiento",
+            "tip": "Szép tér a városháza és a katedrális között, ideális pihenőhely.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plaza del Ayuntamiento",
+            "tip": "O piață frumoasă între primărie și catedrală pentru odihnă.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Plaza del Ayuntamiento",
+            "tip": "A beautiful square between the town hall and cathedral to rest.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mercadillo del Martes",
+            "tip": "Dienstagsmarkt mit lokalen Produkten am Paseo de la Vega."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kedd reggeli piac",
+            "tip": "Helyi termékek piaca keddenként a Paseo de la Vega mellett."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mercadillo del Martes",
+            "tip": "Piața de marți cu produse locale în Paseo de la Vega."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tuesday Market",
+            "tip": "Local market every Tuesday morning near Paseo de la Vega."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Laden Sie die 'Toledo Bus' App für Echtzeit-Fahrpläne herunter.",
+          "Ein Einzelticket kostet etwa 1,40 Euro und wird bar beim Fahrer bezahlt.",
+          "Die Busse fahren häufig, aber am Wochenende gibt es weniger Verbindungen.",
+          "Nutzen Sie die Rolltreppen (Escaleras Mecánicas) für den Weg in die Oberstadt."
+        ],
+        "hu": [
+          "Töltsük le a 'Toledo Bus' alkalmazást a valós idejű menetrendhez.",
+          "Az egyirányú jegy kb. 1,40 euró, a sofőrnél készpénzzel fizethető.",
+          "A buszok gyakran járnak, de hétvégén ritkább a közlekedés.",
+          "Használjuk a nyilvános mozgólépcsőket a felsővárosba jutáshoz."
+        ],
+        "ro": [
+          "Descărcați aplicația 'Toledo Bus' pentru orare în timp real.",
+          "Un bilet simplu costă aproximativ 1,40 euro și se plătește la șofer.",
+          "Autobuzele sunt frecvente, dar în weekend programul este redus.",
+          "Folosiți scările rulante publice pentru a urca în partea de sus a orașului."
+        ],
+        "en": [
+          "Download the 'Toledo Bus' app for real-time schedules.",
+          "A single ticket costs about 1.40 Euros and is paid in cash to the driver.",
+          "Buses are frequent, but check the reduced weekend schedules.",
+          "Use the public escalators (Escaleras Mecánicas) to reach the upper city."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Diese Tour nutzt das effiziente Bussystem Toledos. Sie starten am Bisagra-Tor und fahren hinauf zum Plaza de Zocodover, dem pulsierenden Herz der Stadt. Von dort erkunden Sie den Alcázar und die Kathedrale zu Fuß.\n\nDas Highlight ist die Fahrt mit der Linie L71 zum Mirador del Valle, die Ihnen atemberaubende Ausblicke ohne mühsames Klettern ermöglicht. Den Abschluss bildet der Besuch der San-Martín-Brücke, bevor Sie mit dem Bus zurück zum Zentrum oder zum Bahnhof fahren.",
+            "hu": "Ez a túra Toledo hatékony buszhálózatát használja ki. A Bisagra-kaputól indulunk, és felutazunk a Plaza de Zocodover térre, a város lüktető szívébe. Innen gyalog fedezzük fel az Alcázart és a katedrálist.\n\nA nap fénypontja az L71-es busszal tett körutazás a Mirador del Valle kilátóhoz, amely kényelmesen nyújt lélegzetelállító panorámát. A túra a San Martín hídnál ér véget, ahonnan busszal juthatunk vissza a központba vagy a vasútállomásra.",
+            "ro": "Acest tur folosește rețeaua eficientă de autobuze din Toledo. Începeți la poarta Bisagra și urcați spre Plaza de Zocodover, inima orașului. De acolo, explorați Alcázar-ul și catedrala pe jos.\n\nPunctul culminant este călătoria cu linia L71 spre Mirador del Valle, care oferă vederi spectaculoase fără efort. Vizita se încheie la podul San Martín, de unde puteți lua autobuzul înapoi spre centru sau gară.",
+            "en": "This tour makes use of Toledo's efficient bus network. Start at Bisagra Gate and head up to Plaza de Zocodover, the city's main square. From there, explore the Alcázar and the Cathedral on foot.\n\nThe highlight is the ride on bus line L71 to Mirador del Valle, offering breathtaking views without the steep climb. End your day at the San Martín Bridge before taking a bus back to the center or the train station."
+          },
+          "stops": [
+            {
+              "name": "Puerta de Bisagra",
+              "tip_5lang": {
+                "de": "Vom Bahnhof (AVE) fahren die Buslinien L5, L61 und L62 hierher.",
+                "hu": "A vasútállomástól (AVE) az L5, L61 és L62 buszokkal juthatunk ide.",
+                "ro": "De la gară (AVE) puteți ajunge aici cu liniile L5, L61 și L62.",
+                "en": "From the train station (AVE), bus lines L5, L61, and L62 stop here."
+              }
+            },
+            {
+              "name": "Alcázar von Toledo",
+              "tip_5lang": {
+                "de": "Der Zocobús startet am nahegelegenen Plaza de Zocodover.",
+                "hu": "A Zocobús városnéző busz a közeli Plaza de Zocodover térről indul.",
+                "ro": "Zocobús pleacă din Plaza de Zocodover, situată în apropiere.",
+                "en": "The Zocobús tourist bus starts from the nearby Plaza de Zocodover."
+              }
+            },
+            {
+              "name": "Catedral de Toledo",
+              "tip_5lang": {
+                "de": "Kaufen Sie Tickets online, um lange Warteschlangen zu vermeiden.",
+                "hu": "Vegyünk jegyet online, hogy elkerüljük a hosszú sorban állást.",
+                "ro": "Cumpărați bilete online pentru a evita cozile lungi.",
+                "en": "Buy tickets online to avoid long queues at the entrance."
+              }
+            },
+            {
+              "name": "Mirador del Valle",
+              "tip_5lang": {
+                "de": "Nehmen Sie den Bus L71 für eine Panoramafahrt zum Aussichtspunkt.",
+                "hu": "Szálljunk fel az L71-es buszra egy panorámás utazáshoz a kilátóig.",
+                "ro": "Luați autobuzul L71 pentru o călătorie panoramică spre belvedere.",
+                "en": "Take bus L71 for a scenic panoramic ride to the viewpoint."
+              }
+            },
+            {
+              "name": "Puente de San Martín",
+              "tip_5lang": {
+                "de": "Die Buslinie L12 verbindet die Brücke mit dem Zentrum.",
+                "hu": "Az L12-es buszjárat összeköti a hidat a városközponttal.",
+                "ro": "Linia de autobuz L12 conectează podul de centrul orașului.",
+                "en": "Bus line L12 connects the bridge back to the city center."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Cochinillo",
+                "tip": "Spanferkel, eine Spezialität der kastilischen Hochebene."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Cochinillo",
+                "tip": "Sült malac, a kasztíliai fennsík egyik fő specialitása."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Cochinillo",
+                "tip": "Purceluș de lapte la cuptor, o specialitate castiliană."
+              }
+            ],
+            "en": [
+              {
+                "name": "Cochinillo",
+                "tip": "Roast suckling pig, a specialty of the Castilian plains."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Plaza del Ayuntamiento",
+                "tip": "Ein schöner Platz zwischen Rathaus und Kathedrale zum Ausruhen.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Plaza del Ayuntamiento",
+                "tip": "Szép tér a városháza és a katedrális között, ideális pihenőhely.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Plaza del Ayuntamiento",
+                "tip": "O piață frumoasă între primărie și catedrală pentru odihnă.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Plaza del Ayuntamiento",
+                "tip": "A beautiful square between the town hall and cathedral to rest.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Mercadillo del Martes",
+                "tip": "Dienstagsmarkt mit lokalen Produkten am Paseo de la Vega."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Kedd reggeli piac",
+                "tip": "Helyi termékek piaca keddenként a Paseo de la Vega mellett."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Mercadillo del Martes",
+                "tip": "Piața de marți cu produse locale în Paseo de la Vega."
+              }
+            ],
+            "en": [
+              {
+                "name": "Tuesday Market",
+                "tip": "Local market every Tuesday morning near Paseo de la Vega."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Laden Sie die 'Toledo Bus' App für Echtzeit-Fahrpläne herunter.",
+              "Ein Einzelticket kostet etwa 1,40 Euro und wird bar beim Fahrer bezahlt.",
+              "Die Busse fahren häufig, aber am Wochenende gibt es weniger Verbindungen.",
+              "Nutzen Sie die Rolltreppen (Escaleras Mecánicas) für den Weg in die Oberstadt."
+            ],
+            "hu": [
+              "Töltsük le a 'Toledo Bus' alkalmazást a valós idejű menetrendhez.",
+              "Az egyirányú jegy kb. 1,40 euró, a sofőrnél készpénzzel fizethető.",
+              "A buszok gyakran járnak, de hétvégén ritkább a közlekedés.",
+              "Használjuk a nyilvános mozgólépcsőket a felsővárosba jutáshoz."
+            ],
+            "ro": [
+              "Descărcați aplicația 'Toledo Bus' pentru orare în timp real.",
+              "Un bilet simplu costă aproximativ 1,40 euro și se plătește la șofer.",
+              "Autobuzele sunt frecvente, dar în weekend programul este redus.",
+              "Folosiți scările rulante publice pentru a urca în partea de sus a orașului."
+            ],
+            "en": [
+              "Download the 'Toledo Bus' app for real-time schedules.",
+              "A single ticket costs about 1.40 Euros and is paid in cash to the driver.",
+              "Buses are frequent, but check the reduced weekend schedules.",
+              "Use the public escalators (Escaleras Mecánicas) to reach the upper city."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Toledos Busse sind der perfekte Regenschutz. Starten Sie an der Puerta de Bisagra und fahren Sie mit der Linie L12 zum Alcázar und zur Kathedrale. Die Busfahrt zum Mirador del Valle bietet trockene Ausblicke auf den Tajo. Den Tag beenden Sie an der Puente de San Martín, von wo Sie bequem per Bus zurück ins Zentrum oder zum Bahnhof gelangen.",
+            "hu": "Toledo buszai tökéletes védelmet nyújtanak az eső ellen. Kezdjen a Puerta de Bisagra kapunál, majd az L12-es busszal menjen az Alcázarhoz és a katedrálishoz. A Mirador del Valle felé tartó buszút száraz kilátást nyújt a Tajóra. A napot a San Martín hídnál zárja, ahonnan kényelmesen visszabuszozhat a központba vagy az állomásra.",
+            "ro": "Autobuzele din Toledo sunt protecția perfectă împotriva ploii. Începeți la Puerta de Bisagra și luați linia L12 spre Alcázar și Catedrală. Călătoria spre Mirador del Valle oferă vederi spectaculoase fără a vă uda. Încheiați ziua la Podul San Martín, de unde aveți autobuze directe spre centru sau gară.",
+            "en": "Toledo's buses are the perfect shelter from the rain. Start at Puerta de Bisagra and take line L12 to reach the Alcázar and Cathedral area. The bus ride to Mirador del Valle offers great views while you stay dry. Finish your day at San Martín Bridge, where frequent bus connections will take you back to the center or the train station."
+          },
+          "stops": [
+            {
+              "name": "Puerta de Bisagra",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle bietet ein Dach gegen den Regen.",
+                "hu": "A buszmegálló fedett, így védelmet nyújt az eső elől.",
+                "ro": "Stația de autobuz este acoperită, oferind protecție.",
+                "en": "The bus stop is covered, providing good shelter from rain."
+              }
+            },
+            {
+              "name": "Alcázar von Toledo",
+              "tip_5lang": {
+                "de": "Der Bus hält fast direkt vor dem Eingang zum Museum.",
+                "hu": "A busz szinte közvetlenül a múzeum bejárata előtt áll meg.",
+                "ro": "Autobuzul oprește aproape direct în fața intrării.",
+                "en": "The bus stops almost right in front of the museum entrance."
+              }
+            },
+            {
+              "name": "Catedral de Toledo",
+              "tip_5lang": {
+                "de": "Vom Zocodover-Platz ist es nur ein kurzer Gang im Regen.",
+                "hu": "A Zocodover térről csak egy rövid séta az esőben.",
+                "ro": "De la Piața Zocodover este doar o scurtă plimbare pe ploaie.",
+                "en": "It's only a short walk from Zocodover Square in the rain."
+              }
+            },
+            {
+              "name": "Mirador del Valle",
+              "tip_5lang": {
+                "de": "Bleiben Sie im Bus für die Rundfahrt, wenn es stark regnet.",
+                "hu": "Maradjon a buszon a körúthoz, ha nagyon esik az eső.",
+                "ro": "Rămâneți în autobuz pentru tur dacă plouă torențial.",
+                "en": "Stay on the bus for the scenic loop if it's raining hard."
+              }
+            },
+            {
+              "name": "Puente de San Martín",
+              "tip_5lang": {
+                "de": "Warten Sie im Unterstand der Haltestelle auf den Rückbus.",
+                "hu": "Várjon a megálló fedezékében a visszatérő buszra.",
+                "ro": "Așteptați autobuzul de întoarcere sub copertina stației.",
+                "en": "Wait for the return bus under the shelter of the stop."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die 'Toledo Bus' App für Echtzeit-Infos.",
+              "Die Linie L12 verbindet die wichtigsten Punkte im Trockenen.",
+              "Halten Sie Kleingeld oder eine Kontaktlos-Karte bereit.",
+              "Busse sind bei Regen oft voll; planen Sie Pufferzeit ein."
+            ],
+            "hu": [
+              "Használja a 'Toledo Bus' appot a valós idejű infókért.",
+              "Az L12-es vonal szárazon köti össze a főbb pontokat.",
+              "Készítsen elő aprópénzt vagy érintős kártyát a jegyhez.",
+              "Esőben a buszok zsúfoltabbak; számoljon több idővel."
+            ],
+            "ro": [
+              "Folosiți aplicația 'Toledo Bus' pentru informații în timp real.",
+              "Linia L12 face legătura între punctele principale la adăpost.",
+              "Aveți pregătite monede sau un card contactless pentru bilet.",
+              "Autobuzele sunt aglomerate pe ploaie; alocați timp suplimentar."
+            ],
+            "en": [
+              "Use the 'Toledo Bus' app for real-time arrival information.",
+              "Line L12 connects all major sights while keeping you dry.",
+              "Have small change or a contactless card ready for the fare.",
+              "Buses get crowded during rain; allow for some extra travel time."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterausflüge mit dem Bus sind in Toledo sehr gemütlich. Starten Sie an der Puerta de Bisagra und nutzen Sie die geheizten Busse zum Alcázar. Ein Highlight ist die Fahrt zum Mirador del Valle, um das Winterlicht über der Stadt zu sehen. Besuchen Sie die Kathedrale und beenden Sie den Tag an der Puente de San Martín, bevor Sie im warmen Bus zurück zum Bahnhof fahren.",
+            "hu": "A téli buszos kirándulás Toledo dombjai között nagyon kényelmes. Induljon a Puerta de Bisagra kaputól, és élvezze a fűtött buszokat az Alcázar felé. A Mirador del Valle felé tartó út során csodálja meg a téli fényeket a város felett. Látogassa meg a katedrálist, majd zárja a napot a San Martín hídnál, mielőtt visszatérne a meleg buszhoz.",
+            "ro": "Excursiile cu autobuzul iarna sunt foarte plăcute în Toledo. Începeți la Puerta de Bisagra și folosiți autobuzele încălzite spre Alcázar. Un punct culminant este drumul spre Mirador del Valle pentru lumina de iarnă. Vizitați Catedrala și încheiați ziua la Podul San Martín înainte de a lua autobuzul cald înapoi.",
+            "en": "Winter trips by bus are very cozy in Toledo. Start at Puerta de Bisagra and take advantage of the heated buses to reach the Alcázar. A highlight is the ride to Mirador del Valle to witness the crisp winter light over the city. Visit the Cathedral and finish your day at San Martín Bridge before catching a warm bus back to your starting point."
+          },
+          "stops": [
+            {
+              "name": "Puerta de Bisagra",
+              "tip_5lang": {
+                "de": "Der Bus ist eine warme Alternative zum Fußweg bergauf.",
+                "hu": "A busz meleg alternatíva a hegynek felfelé való sétához.",
+                "ro": "Autobuzul este o alternativă caldă la urcatul dealului pe jos.",
+                "en": "The bus is a warm alternative to walking uphill in the cold."
+              }
+            },
+            {
+              "name": "Alcázar von Toledo",
+              "tip_5lang": {
+                "de": "Genießen Sie die Heizung im Bus nach dem Außenstopp.",
+                "hu": "Élvezze a busz fűtését a szabadtéri megálló után.",
+                "ro": "Bucurați-vă de căldura din autobuz după oprirea afară.",
+                "en": "Enjoy the bus heating after your outdoor photo stop."
+              }
+            },
+            {
+              "name": "Catedral de Toledo",
+              "tip_5lang": {
+                "de": "Zentraler Umstiegspunkt am Zocodover für viele Linien.",
+                "hu": "Központi átszállási pont a Zocodoveren sok buszvonalhoz.",
+                "ro": "Punct central de transfer la Zocodover pentru multe linii.",
+                "en": "Central transfer point at Zocodover for many bus lines."
+              }
+            },
+            {
+              "name": "Mirador del Valle",
+              "tip_5lang": {
+                "de": "Der Winterwind am Aussichtspunkt ist stark; warm anziehen.",
+                "hu": "A kilátónál erős a téli szél, öltözzön fel alaposan.",
+                "ro": "Vântul de iarnă la punctul de belvedere este tăios.",
+                "en": "The winter wind at the viewpoint is biting; dress warmly."
+              }
+            },
+            {
+              "name": "Puente de San Martín",
+              "tip_5lang": {
+                "de": "Letzter Bus zurück meist gegen 21:00 Uhr; Plan prüfen.",
+                "hu": "Az utolsó busz visszafelé 21:00 körül indul; ellenőrizze.",
+                "ro": "Ultimul autobuz pleacă spre centru în jur de ora 21:00.",
+                "en": "Last bus back is usually around 9:00 PM; check the schedule."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse sind im Winter die wärmste Art der Fortbewegung.",
+              "Planen Sie die Rückfahrt vor Einbruch der Dunkelheit.",
+              "Die Busse fahren im Winter nach dem regulären Fahrplan.",
+              "Vom Zocodover-Platz fahren fast alle Linien ab."
+            ],
+            "hu": [
+              "A busz télen a legmelegebb közlekedési mód Toledóban.",
+              "Tervezze meg a visszautat a sötétség beállta előtt.",
+              "A buszok télen a rendes menetrend szerint közlekednek.",
+              "A Zocodover térről szinte minden fontos vonal elérhető."
+            ],
+            "ro": [
+              "Autobuzul este cel mai cald mod de transport iarna.",
+              "Planificați călătoria de întoarcere înainte de lăsarea serii.",
+              "Autobuzele circulă iarna conform orarului obișnuit.",
+              "Din Piața Zocodover pleacă aproape toate liniile principale."
+            ],
+            "en": [
+              "Buses are the warmest way to get around Toledo in winter.",
+              "Plan your return trip before the early darkness sets in.",
+              "Buses run on their regular schedule during the winter months.",
+              "Almost all major lines depart from Zocodover Square."
+            ]
+          }
+        }
+      }
+    }
+  },
+  "external_resources": {
+    "city_card": "https://toledomonumental.com/en/pulsera-turistica/",
+    "tourism_office": "https://turismo.toledo.es/",
+    "museum_tickets": "https://catedralprimada.es/en/tickets/",
+    "language_tips": {
+      "de": "Toledo spricht klares Kastilisch, leichter zu verstehen als Andalusisch. Englisch funktioniert in der Altstadt und in Museen gut, in Tapas-Bars weniger. 'Marzipan' heisst hier 'mazapan' und ist ein Muss — 'un mazapan, por favor' bringt dir das suesseste Souvenir der Stadt.",
+      "hu": "Toledo tiszta kasztiliait beszel, konnyebb erteni mint az andaluzt. Az obvarosban es a muzeumokban az angol jol megy, tapas-baroban kevesbe. A marcipant itt 'mazapan'-nak hivjak, kotelezo — 'un mazapan, por favor' a varos legedesebb szuvenirjehez juttat.",
+      "ro": "Toledo vorbeste castiliana clara, mai usor de inteles decat andaluza. In centrul vechi si la muzee engleza merge bine, in tapas-bar-uri mai putin. Martipanul aici se numeste 'mazapan' si e obligatoriu, 'un mazapan, por favor' iti aduce cel mai dulce suvenir al orasului.",
+      "en": "Toledo speaks clear Castilian — easier to understand than Andalusian. English works well in the old town and museums, less in tapas bars. Marzipan here is 'mazapan' and a must-try — order 'un mazapan, por favor' for the city's sweetest souvenir."
+    },
+    "best_time_to_visit": {
+      "de": "April, Mai und September bis Oktober sind ideal: 18-26 Grad, perfekt fuer Wanderungen durch die Gassen. Juli und August sehr heiss (38 Grad plus) und voll mit Madrider Tagestouristen — wenn moeglich unter der Woche kommen. Im Winter klar und kalt, Sonnenaufgang ueber dem Tajo ist atemberaubend.",
+      "hu": "Aprilis, majus es szeptember-oktober az ideal: 18-26 fok, tokeletes a sikatorok bejarasara. Julius-augusztus nagyon forro (38 fok folott) es teli madridiakkal, hetkozben gyere ha tudsz. Telen tiszta es hideg, a Tajo feletti napfelkelte lelegzetelallito.",
+      "ro": "Aprilie, mai si septembrie-octombrie sunt ideale: 18-26 grade, perfect pentru plimbari pe straduze. Iulie si august foarte calde (peste 38 grade) si pline de madrileni in excursii de o zi, vino in cursul saptamanii daca poti. Iarna senin si rece, rasaritul peste Tajo e impresionant.",
+      "en": "April-May and September-October are ideal: 18-26°C, perfect for wandering the alleys. July and August get very hot (38°C+) and crowded with Madrid day-trippers — come midweek if possible. Winter is crisp and cold, with breathtaking sunrises over the Tajo."
+    },
+    "neighborhood_warnings": {
+      "de": "Sehr sichere Stadt, auch nachts. Hauptproblem ist eher die Logistik: Altstadt-Gassen sind eng und schlecht beschildert, leicht zu verlaufen — GPS oft unzuverlaessig zwischen den hohen Mauern. Auf Stufen und Kopfsteinpflaster bequeme Schuhe pflicht.",
+      "hu": "Nagyon biztonsagos varos, ejjel is. A fo problema inkabb a logisztika: az obvarosi sikatorok keskenyek es rosszul jelolttek, konnyu eltevedni — a GPS gyakran megbizhatatlan a magas falak kozott. Lepcsokon es macskakovon kenyelmes cipo kotelezo.",
+      "ro": "Oras foarte sigur, chiar si noaptea. Problema principala e mai degraba logistica: aleile din centrul vechi sunt inguste si prost semnalizate, e usor sa te pierzi, GPS-ul e deseori nesigur intre ziduri inalte. Pantofi comozi obligatoriu pentru trepte si pavaj.",
+      "en": "Very safe city, even at night. The main issue is logistics: old town alleys are narrow and poorly signed, easy to get lost — GPS often unreliable between high walls. Comfy shoes are mandatory for steps and cobblestones."
+    },
+    "transit_official": "https://www.unauto.es/"
+  }
+}

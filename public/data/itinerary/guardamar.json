@@ -1,0 +1,2234 @@
+{
+  "city_id": "guardamar",
+  "anchor": {
+    "name": "Guardamar del Segura",
+    "coords": [
+      -0.6539,
+      38.0876
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "18:15",
+      "total_km": 3.5,
+      "stop_count": 4,
+      "stops": [
+        {
+          "name": {
+            "de": "Museo Arqueológico de Guardamar",
+            "hu": "Guardamari Régészeti Múzeum",
+            "ro": "Muzeul Arheologic din Guardamar",
+            "en": "Archaeological Museum of Guardamar"
+          },
+          "coords": [
+            -0.654,
+            38.085
+          ],
+          "category": "museums",
+          "arrive_at": "09:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Sehen Sie die berühmte Dama de Guardamar.",
+            "hu": "Nézze meg a híres Guardamari Hölgy szobrát.",
+            "ro": "Vedeți faimoasa statuie Dama de Guardamar.",
+            "en": "See the famous Dama de Guardamar bust here."
+          }
+        },
+        {
+          "name": {
+            "de": "Castillo de Guardamar",
+            "hu": "Guardamari vár",
+            "ro": "Castelul din Guardamar",
+            "en": "Guardamar Castle"
+          },
+          "coords": [
+            -0.655,
+            38.088
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Die Aussicht auf die Küste ist von hier oben grandios.",
+            "hu": "A kilátás a partvidékre lenyűgöző innen fentről.",
+            "ro": "Priveliștea asupra coastei este grandioasă de aici.",
+            "en": "The views of the coast are magnificent from up here."
+          }
+        },
+        {
+          "name": {
+            "de": "Parque de la Reina Sofía",
+            "hu": "Zsófia Királyné park",
+            "ro": "Parcul Regina Sofía",
+            "en": "Reina Sofía Park"
+          },
+          "coords": [
+            -0.648,
+            38.086
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:35",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Füttern Sie die Enten und Pfaue im Schatten der Bäume.",
+            "hu": "Etessen kacsákat és pávákat a fák hűs árnyékában.",
+            "ro": "Hrăniți rațele și păunii la umbra copacilor.",
+            "en": "Feed the ducks and peacocks in the shade of the trees."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa de la Roqueta",
+            "hu": "Roqueta strand",
+            "ro": "Plaja de la Roqueta",
+            "en": "Roqueta Beach"
+          },
+          "coords": [
+            -0.645,
+            38.08
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:50",
+          "stay_min": 180,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Feiner Sand und flaches Wasser, ideal für Familien.",
+            "hu": "Finom homok és sekély víz, ideális családoknak.",
+            "ro": "Nisip fin și apă puțin adâncă, ideal pentru familii.",
+            "en": "Fine sand and shallow water, perfect for families."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Guardamar zu Fuß, beginnend mit der reichen Geschichte im archäologischen Museum und auf dem Burghügel. Wandeln Sie dann durch den üppigen Reina-Sofía-Park, eine grüne Oase im Stadtzentrum. Den Nachmittag verbringen Sie am weitläufigen Strand La Roqueta, wo der feine goldene Sand und das klare Mittelmeer zur Entspannung einladen.",
+        "hu": "Fedezze fel Guardamart gyalogosan, kezdve a gazdag történelemmel a régészeti múzeumban és a várhegyen. Sétáljon át a dús növényzetű Zsófia királyné parkon, amely a városközpont zöld oázisa. A délutánt töltse a tágas La Roqueta strandon, ahol a finom aranyhomok és a tiszta tenger tökéletes helyszínt kínál a pihenéshez.",
+        "ro": "Explorați Guardamar pe jos, începând cu istoria bogată de la muzeul arheologic și de pe colina castelului. Plimbați-vă apoi prin parcul luxuriant Regina Sofía, o oază de verdeață în centrul orașului. Petreceți după-amiaza pe plaja spațioasă La Roqueta, unde nisipul fin și marea curată vă invită la relaxare.",
+        "en": "Explore Guardamar on foot, starting with the rich history at the archaeological museum and on the castle hill. Wander through the lush Reina Sofía Park, a green oasis in the city center. Spend your afternoon at the expansive La Roqueta Beach, where the fine golden sand and clear Mediterranean waters are perfect for relaxing."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Langostinos de Guardamar",
+            "tip": "Die berühmten Riesengarnelen, frisch zubereitet im Restaurant El Jardín."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Guardamari Királyrák",
+            "tip": "Híres helyi királyrák, kóstolja meg az El Jardín étteremben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Creveți de Guardamar",
+            "tip": "Faimoșii creveți uriași, preparați proaspăt la restaurantul El Jardín."
+          }
+        ],
+        "en": [
+          {
+            "name": "Guardamar King Prawns",
+            "tip": "The famous local king prawns, freshly prepared at El Jardín Restaurant."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parque Alfonso XIII",
+            "tip": "Ruhige Waldwege durch die Pinienwälder.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Alfonz XIII. park",
+            "tip": "Csendes erdei utak a fenyveseken keresztül.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Alfonso XIII",
+            "tip": "Poteci forestiere liniștite prin pădurile de pini.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Alfonso XIII Park",
+            "tip": "Quiet forest paths through the pine groves.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mercadillo de los Miércoles",
+            "tip": "Großer Wochenmarkt mit Kleidung und Lebensmitteln."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szerdai Piac",
+            "tip": "Hatalmas heti piac ruhákkal és élelmiszerekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața de miercuri",
+            "tip": "Piață săptămânală mare cu haine și alimente."
+          }
+        ],
+        "en": [
+          {
+            "name": "Wednesday Market",
+            "tip": "Large weekly street market with clothing and local food."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Der Aufstieg zur Burg ist kurz, aber steil.",
+          "Im Reina-Sofía-Park gibt es viele schattige Plätze.",
+          "Die Promenade bietet viele Möglichkeiten für ein Mittagessen."
+        ],
+        "hu": [
+          "A várba vezető út rövid, de meredek.",
+          "A Zsófia királyné parkban rengeteg árnyékos pad található.",
+          "A tengerparti sétányon számos ebédelési lehetőség várja."
+        ],
+        "ro": [
+          "Urcarea la castel este scurtă, dar abruptă.",
+          "În parcul Regina Sofía sunt multe locuri umbroase.",
+          "Faleza oferă numeroase opțiuni pentru prânz."
+        ],
+        "en": [
+          "The walk up to the castle is short but steep.",
+          "There are plenty of shaded benches in Reina Sofía Park.",
+          "The promenade offers many excellent options for lunch."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie Guardamar zu Fuß, beginnend mit der reichen Geschichte im archäologischen Museum und auf dem Burghügel. Wandeln Sie dann durch den üppigen Reina-Sofía-Park, eine grüne Oase im Stadtzentrum. Den Nachmittag verbringen Sie am weitläufigen Strand La Roqueta, wo der feine goldene Sand und das klare Mittelmeer zur Entspannung einladen.",
+            "hu": "Fedezze fel Guardamart gyalogosan, kezdve a gazdag történelemmel a régészeti múzeumban és a várhegyen. Sétáljon át a dús növényzetű Zsófia királyné parkon, amely a városközpont zöld oázisa. A délutánt töltse a tágas La Roqueta strandon, ahol a finom aranyhomok és a tiszta tenger tökéletes helyszínt kínál a pihenéshez.",
+            "ro": "Explorați Guardamar pe jos, începând cu istoria bogată de la muzeul arheologic și de pe colina castelului. Plimbați-vă apoi prin parcul luxuriant Regina Sofía, o oază de verdeață în centrul orașului. Petreceți după-amiaza pe plaja spațioasă La Roqueta, unde nisipul fin și marea curată vă invită la relaxare.",
+            "en": "Explore Guardamar on foot, starting with the rich history at the archaeological museum and on the castle hill. Wander through the lush Reina Sofía Park, a green oasis in the city center. Spend your afternoon at the expansive La Roqueta Beach, where the fine golden sand and clear Mediterranean waters are perfect for relaxing."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museo Arqueológico de Guardamar",
+                "hu": "Guardamari Régészeti Múzeum",
+                "ro": "Muzeul Arheologic din Guardamar",
+                "en": "Archaeological Museum of Guardamar"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie die berühmte Dama de Guardamar.",
+                "hu": "Nézze meg a híres Guardamari Hölgy szobrát.",
+                "ro": "Vedeți faimoasa statuie Dama de Guardamar.",
+                "en": "See the famous Dama de Guardamar bust here."
+              }
+            },
+            {
+              "name": {
+                "de": "Castillo de Guardamar",
+                "hu": "Guardamari vár",
+                "ro": "Castelul din Guardamar",
+                "en": "Guardamar Castle"
+              },
+              "tip_5lang": {
+                "de": "Die Aussicht auf die Küste ist von hier oben grandios.",
+                "hu": "A kilátás a partvidékre lenyűgöző innen fentről.",
+                "ro": "Priveliștea asupra coastei este grandioasă de aici.",
+                "en": "The views of the coast are magnificent from up here."
+              }
+            },
+            {
+              "name": {
+                "de": "Parque de la Reina Sofía",
+                "hu": "Zsófia Királyné park",
+                "ro": "Parcul Regina Sofía",
+                "en": "Reina Sofía Park"
+              },
+              "tip_5lang": {
+                "de": "Füttern Sie die Enten und Pfaue im Schatten der Bäume.",
+                "hu": "Etessen kacsákat és pávákat a fák hűs árnyékában.",
+                "ro": "Hrăniți rațele și păunii la umbra copacilor.",
+                "en": "Feed the ducks and peacocks in the shade of the trees."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa de la Roqueta",
+                "hu": "Roqueta strand",
+                "ro": "Plaja de la Roqueta",
+                "en": "Roqueta Beach"
+              },
+              "tip_5lang": {
+                "de": "Feiner Sand und flaches Wasser, ideal für Familien.",
+                "hu": "Finom homok és sekély víz, ideális családoknak.",
+                "ro": "Nisip fin și apă puțin adâncă, ideal pentru familii.",
+                "en": "Fine sand and shallow water, perfect for families."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Langostinos de Guardamar",
+                "tip": "Die berühmten Riesengarnelen, frisch zubereitet im Restaurant El Jardín."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Guardamari Királyrák",
+                "tip": "Híres helyi királyrák, kóstolja meg az El Jardín étteremben."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Creveți de Guardamar",
+                "tip": "Faimoșii creveți uriași, preparați proaspăt la restaurantul El Jardín."
+              }
+            ],
+            "en": [
+              {
+                "name": "Guardamar King Prawns",
+                "tip": "The famous local king prawns, freshly prepared at El Jardín Restaurant."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Parque Alfonso XIII",
+                "tip": "Ruhige Waldwege durch die Pinienwälder.",
+                "emoji": "🍃"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Alfonz XIII. park",
+                "tip": "Csendes erdei utak a fenyveseken keresztül.",
+                "emoji": "🍃"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Parcul Alfonso XIII",
+                "tip": "Poteci forestiere liniștite prin pădurile de pini.",
+                "emoji": "🍃"
+              }
+            ],
+            "en": [
+              {
+                "name": "Alfonso XIII Park",
+                "tip": "Quiet forest paths through the pine groves.",
+                "emoji": "🍃"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Mercadillo de los Miércoles",
+                "tip": "Großer Wochenmarkt mit Kleidung und Lebensmitteln."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Szerdai Piac",
+                "tip": "Hatalmas heti piac ruhákkal és élelmiszerekkel."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Piața de miercuri",
+                "tip": "Piață săptămânală mare cu haine și alimente."
+              }
+            ],
+            "en": [
+              {
+                "name": "Wednesday Market",
+                "tip": "Large weekly street market with clothing and local food."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Der Aufstieg zur Burg ist kurz, aber steil.",
+              "Im Reina-Sofía-Park gibt es viele schattige Plätze.",
+              "Die Promenade bietet viele Möglichkeiten für ein Mittagessen."
+            ],
+            "hu": [
+              "A várba vezető út rövid, de meredek.",
+              "A Zsófia királyné parkban rengeteg árnyékos pad található.",
+              "A tengerparti sétányon számos ebédelési lehetőség várja."
+            ],
+            "ro": [
+              "Urcarea la castel este scurtă, dar abruptă.",
+              "În parcul Regina Sofía sunt multe locuri umbroase.",
+              "Faleza oferă numeroase opțiuni pentru prânz."
+            ],
+            "en": [
+              "The walk up to the castle is short but steep.",
+              "There are plenty of shaded benches in Reina Sofía Park.",
+              "The promenade offers many excellent options for lunch."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt im Archäologischen Museum, einem idealen Zufluchtsort vor dem Regen. Mittags erklimmen wir die Burg, wo die nassen Steine der Ruine eine mystische Atmosphäre schaffen. Am Nachmittag spazieren wir durch den Reina-Sofía-Park, dessen dichte Bäume Schutz bieten. Den Tag lassen wir am Roqueta-Strand ausklingen, während wir die stürmischen Wellen des Mittelmeers beobachten.",
+            "hu": "A reggelt a Régészeti Múzeumban kezdjük, amely tökéletes menedék az eső elől. Délben a várromhoz látogatunk, ahol a nedves kövek misztikus hangulatot árasztanak. Délután a Reina Sofía park sűrű lombjai alatt sétálunk, amelyek némi védelmet nyújtanak. A napot a Roqueta strandon zárjuk, figyelve a Földközi-tenger drámai, viharos hullámait.",
+            "ro": "Dimineața începe la Muzeul Arheologic, refugiul perfect împotriva ploii. La prânz urcăm la castel, unde pietrele umede ale ruinelor creează o atmosferă mistică. După-amiaza ne plimbăm prin Parcul Reina Sofía, copacii de aici oferind adăpost parțial. Încheiem ziua pe plaja Roqueta, admirând valurile dramatice ale Mediteranei în timp ce ploaia se domolește.",
+            "en": "The morning starts at the Archaeological Museum, a perfect refuge from the rain. At noon, we climb to the castle ruins, where the wet stones create a mystical atmosphere. In the afternoon, we stroll through Reina Sofía Park, with its dense trees providing some shelter. We end the day at Roqueta Beach, watching the dramatic waves of the Mediterranean under the rainy sky."
+          },
+          "stops": [
+            {
+              "name": "Archaeological Museum of Guardamar",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit im Trockenen, um die phönizischen Funde in aller Ruhe zu studieren.",
+                "hu": "Használja ki a száraz időt a föníciai leletek nyugodt tanulmányozására.",
+                "ro": "Profită de timpul la adăpost pentru a studia în liniște artefactele feniciene.",
+                "en": "Use the dry time indoors to study the Phoenician findings in peace."
+              }
+            },
+            {
+              "name": "Guardamar Castle",
+              "tip_5lang": {
+                "de": "Vorsicht auf den steinernen Rampen, diese können bei Nässe sehr rutschig sein.",
+                "hu": "Vigyázat a kőrámpákon, ezek esőben rendkívül csúszóssá válhatnak.",
+                "ro": "Atenție pe rampele de piatră, acestea pot deveni foarte alunecoase când sunt ude.",
+                "en": "Be careful on the stone ramps; they can become very slippery when wet."
+              }
+            },
+            {
+              "name": "Reina Sofía Park",
+              "tip_5lang": {
+                "de": "Die dichten Pinien bieten einen guten natürlichen Regenschutz für einen kurzen Spaziergang.",
+                "hu": "A sűrű fenyőfák jó természetes esővédelmet nyújtanak egy rövid sétához.",
+                "ro": "Pinii deși oferă o bună protecție naturală împotriva ploii pentru o scurtă plimbare.",
+                "en": "The dense pines provide good natural rain protection for a short walk."
+              }
+            },
+            {
+              "name": "Roqueta Beach",
+              "green": true,
+              "tip_5lang": {
+                "de": "Genießen Sie die raue See von der Promenade aus, anstatt den nassen Sand zu betreten.",
+                "hu": "Élvezze a haragos tengert a sétányról, ahelyett, hogy a nedves homokba menne.",
+                "ro": "Bucură-te de marea agitată de pe faleză în loc să mergi pe nisipul ud.",
+                "en": "Enjoy the rough sea from the promenade instead of walking on the wet sand."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine windfeste Regenjacke, da es an der Küste bei Regen oft böig wird.",
+              "Das Museum bietet den besten Schutz für die intensivsten Regenschauer am Morgen.",
+              "Die Steinpfade an der Burg erfordern festes Schuhwerk mit gutem Profil.",
+              "Suchen Sie bei starkem Regen Unterschlupf in den Cafés entlang der Avenida de los Pinos.",
+              "Die Sicht auf die Dünen ist bei Regen oft begrenzt, konzentrieren Sie sich auf das Meer."
+            ],
+            "hu": [
+              "Viseljen szélálló esőkabátot, mert a parton esőben gyakran fúj erős szél.",
+              "A múzeum nyújtja a legjobb védelmet a reggeli intenzív záporok idején.",
+              "A vár kőösvényei jó tapadású, zárt cipőt igényelnek.",
+              "Heves esőzés esetén keressen menedéket az Avenida de los Pinos kávézóiban.",
+              "A dűnék látványa esőben korlátozott lehet, koncentráljon a tenger morajlására."
+            ],
+            "ro": [
+              "Poartă o jachetă de ploaie rezistentă la vânt, deoarece coasta devine adesea instabilă.",
+              "Muzeul oferă cel mai bun adăpost pentru reprizele de ploaie intensă de dimineață.",
+              "Potecile de piatră de la castel necesită încălțăminte cu talpă aderentă.",
+              "În caz de ploaie torențială, caută adăpost în cafenelele de pe Avenida de los Pinos.",
+              "Vizibilitatea asupra dunelor este limitată pe ploaie, concentrează-te pe spectacolul mării."
+            ],
+            "en": [
+              "Wear a windproof raincoat, as the coast often gets gusty during rainfall.",
+              "The museum provides the best shelter during the most intense morning showers.",
+              "The stone paths at the castle require sturdy footwear with good grip.",
+              "If the rain gets too heavy, find shelter in the cafes along Avenida de los Pinos.",
+              "Dune visibility is often limited in the rain; focus on the crashing waves."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen ist mild und klar, perfekt für den Besuch des Archäologischen Museums. Mittags genießen wir die warme Wintersonne auf den Ruinen der Burg von Guardamar. Am Nachmittag schlendern wir durch den ruhigen Reina-Sofía-Park, in dem die Teiche eine stille Kälte ausstrahlen. Vor Sonnenuntergang erreichen wir den Roqueta-Strand für einen erfrischenden Spaziergang in der kühlen Meeresluft.",
+            "hu": "A téli reggel enyhe és tiszta, ideális a Régészeti Múzeum felfedezéséhez. Délben a várromok között élvezzük a melengető téli napsütést. Délután a csendes Reina Sofía parkban sétálunk, ahol a tavak hűvös nyugalmat árasztanak. Naplemente előtt érünk a Roqueta strandra egy frissítő sétára a hűvös tengeri levegőn.",
+            "ro": "Dimineața de iarnă este blândă și senină, perfectă pentru vizitarea Muzeului Arheologic. La prânz ne bucurăm de soarele cald de iarnă printre ruinele castelului. După-amiaza ne plimbăm prin Parcul Reina Sofía, unde iazurile emană o liniște răcoroasă. Înainte de apus, ajungem pe plaja Roqueta pentru o plimbare revigorantă în aerul sărat al mării.",
+            "en": "The winter morning is mild and clear, perfect for visiting the Archaeological Museum. At noon, we enjoy the warm winter sun among the ruins of Guardamar Castle. In the afternoon, we stroll through the quiet Reina Sofía Park, where the ponds exude a still chill. Before sunset, we reach Roqueta Beach for a refreshing walk in the cool sea air."
+          },
+          "stops": [
+            {
+              "name": "Archaeological Museum of Guardamar",
+              "tip_5lang": {
+                "de": "Ein angenehm temperierter Start in den Tag, bevor es nach draußen geht.",
+                "hu": "Kellemes hőmérsékletű kezdés a naphoz, mielőtt a szabadba indulna.",
+                "ro": "Un început de zi cu temperatură plăcută înainte de a ieși în aer liber.",
+                "en": "A pleasantly tempered start to the day before heading outdoors."
+              }
+            },
+            {
+              "name": "Guardamar Castle",
+              "tip_5lang": {
+                "de": "Die Mittagssonne ist hier oben am stärksten und wärmt angenehm auf.",
+                "hu": "A déli napsütés itt a legerősefter és kellemesen felmelegít.",
+                "ro": "Soarele de la amiază este cel mai puternic aici și te încălzește plăcut.",
+                "en": "The midday sun is strongest up here and warms you up pleasantly."
+              }
+            },
+            {
+              "name": "Reina Sofía Park",
+              "tip_5lang": {
+                "de": "Beobachten Sie die Schwäne; im Winter ist der Park besonders friedlich.",
+                "hu": "Figyelje meg a hattyúkat; télen a park különösen békés és csendes.",
+                "ro": "Observă lebădele; iarna parcul este deosebit de liniștit și pașnic.",
+                "en": "Watch the swans; the park is especially peaceful and quiet in winter."
+              }
+            },
+            {
+              "name": "Roqueta Beach",
+              "tip_5lang": {
+                "de": "Planen Sie den Strandbesuch vor 17:30 Uhr ein, bevor die Kälte mit dem Apus einsetzt.",
+                "hu": "Tervezze a strandlátogatást 17:30 előttre, mielőtt a naplementével megérkezik a hideg.",
+                "ro": "Planifică vizita la plajă înainte de ora 17:30, înainte de lăsarea frigului.",
+                "en": "Plan your beach visit before 5:30 PM, before the chill sets in with sunset."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kleiden Sie sich nach dem Zwiebelprinzip, da es im Schatten deutlich kühler ist.",
+              "Die Sonne geht im Winter gegen 18:00 Uhr unter, nutzen Sie das Tageslicht früh.",
+              "Der Wind am Strand kann auch bei Sonnenschein sehr kühl sein; Schal empfohlen.",
+              "Die Burg bietet im Winter die beste Fernsicht auf die schneebedeckten Berge im Hinterland.",
+              "Viele Cafés am Meer haben auch im Winter geöffnet und bieten sonnige Terrassen."
+            ],
+            "hu": [
+              "Öltözködjön rétegesen, mert az árnyékban jelentősen hűvösebb van.",
+              "A nap télen 18:00 körül nyugszik, használja ki korán a nappali fényt.",
+              "A tengerparti szél napsütésben is metsző lehet; sál használata javasolt.",
+              "A várból télen a legjobb a kilátás a háttérben lévő havas hegyekre.",
+              "Sok tengerparti kávézó télen is nyitva tart, napos teraszokat kínálva."
+            ],
+            "ro": [
+              "Îmbracă-te în straturi, deoarece la umbră este semnificativ mai răcoare.",
+              "Soarele apune în jur de ora 18:00 iarna, profită de lumina zilei devreme.",
+              "Vântul de pe plajă poate fi tăios chiar și cu soare; e recomandat un fular.",
+              "Castelul oferă iarna cea mai bună vizibilitate spre munții înzăpeziți din depărtare.",
+              "Multe cafenele de pe malul mării sunt deschise și oferă terase însorite."
+            ],
+            "en": [
+              "Dress in layers, as it is significantly cooler in the shade than in the sun.",
+              "The sun sets around 6:00 PM in winter; use the daylight early.",
+              "The beach wind can be very chilly even when sunny; a scarf is recommended.",
+              "The castle offers the best visibility in winter towards the snowy inland mountains.",
+              "Many seaside cafes remain open in winter, offering sunny terraces."
+            ]
+          }
+        }
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 8.5,
+      "stop_count": 4,
+      "stops": [
+        {
+          "name": {
+            "de": "Puerto Deportivo Marina de las Dunas",
+            "hu": "Marina de las Dunas kikötő",
+            "ro": "Puerto Marina de las Dunas",
+            "en": "Marina de las Dunas Port"
+          },
+          "coords": [
+            -0.648,
+            38.105
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Beobachten Sie die Fischer an der Mündung des Segura.",
+            "hu": "Figyelje a halászokat a Segura-folyó torkolatánál.",
+            "ro": "Observați pescarii la gura de vărsare a râului Segura.",
+            "en": "Watch the fishermen at the mouth of the Segura River."
+          }
+        },
+        {
+          "name": {
+            "de": "Pinada de Guardamar",
+            "hu": "Guardamari Fenyves",
+            "ro": "Pinada de Guardamar",
+            "en": "Guardamar Pine Forest"
+          },
+          "coords": [
+            -0.642,
+            38.1
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:40",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Radeln Sie auf den schattigen Wegen durch die Dünen.",
+            "hu": "Tekerjen az árnyas utakon a dűnék között.",
+            "ro": "Pedalați pe potecile umbrite prin dune.",
+            "en": "Cycle along the shaded paths through the dunes."
+          }
+        },
+        {
+          "name": {
+            "de": "Dunas de Guardamar",
+            "hu": "Guardamari dűnék",
+            "ro": "Dunele din Guardamar",
+            "en": "Guardamar Dunes"
+          },
+          "coords": [
+            -0.64,
+            38.09
+          ],
+          "category": "natural features",
+          "arrive_at": "12:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Einzigartiges Ökosystem direkt am Meer.",
+            "hu": "Egyedülálló ökoszisztéma közvetlenül a tengerparton.",
+            "ro": "Ecosistem unic chiar lângă mare.",
+            "en": "Unique ecosystem located right by the seaside."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa de la Roqueta",
+            "hu": "Roqueta strand",
+            "ro": "Plaja de la Roqueta",
+            "en": "Roqueta Beach"
+          },
+          "coords": [
+            -0.645,
+            38.08
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:40",
+          "stay_min": 155,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad an den markierten Ständern ab.",
+            "hu": "Hagyja kerékpárját a kijelölt tárolókban.",
+            "ro": "Lăsați bicicleta în rastelele marcate.",
+            "en": "Park your bike in the designated racks near the beach."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Fahrradtour führt Sie durch die beeindruckenden Naturlandschaften von Guardamar. Starten Sie am Jachthafen und radeln Sie durch die weitläufige Pinada, die im 19. Jahrhundert angelegt wurde, um die Dünen zu festigen. Genießen Sie die Fahrt auf den befestigten Sandwegen bis hin zu den Dünenlandschaften und kühlen Sie sich anschließend bei einem ausgiebigen Bad im Meer am Roqueta-Strand ab.",
+        "hu": "Ez a kerékpártúra Guardamar lenyűgöző természeti tájain vezet keresztül. Kezdjen a jachtkikötőnél, majd tekerjen végig a hatalmas fenyvesen, amelyet a 19. században telepítettek a dűnék megfékezésére. Élvezze az utat a homokos ösvényeken egészen a dűnékig, végül hűsöljön egy nagyot a tengerben a Roqueta strandon.",
+        "ro": "Acest tur cu bicicleta vă poartă prin peisajele naturale impresionante din Guardamar. Începeți la portul sportiv și pedalați prin vasta pădure de pini, creată în secolul al XIX-lea pentru a fixa dunele. Bucurați-vă de plimbarea pe potecile de nisip până la zonele de dune și răcoriți-vă apoi cu o baie lungă în mare pe plaja Roqueta.",
+        "en": "This bike tour takes you through Guardamar's impressive natural landscapes. Start at the marina and cycle through the vast pine forest, planted in the 19th century to stabilize the dunes. Enjoy the ride on the sand paths reaching the dune areas, and finally cool off with a refreshing swim at Roqueta Beach."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Nyora-Paprika",
+            "tip": "Getrocknete Paprika, ein lokales Symbol, erhältlich in vielen Tapas-Bars."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Nyora Paprika",
+            "tip": "Szárított paprika, helyi szimbólum, sok tapas bárban alapanyag."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ardei Nyora",
+            "tip": "Ardei uscați, un simbol local, folosiți în multe baruri de tapas."
+          }
+        ],
+        "en": [
+          {
+            "name": "Nyora Peppers",
+            "tip": "Dried peppers, a local symbol, used in many tapas dishes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Dünen-Holzstege",
+            "tip": "Ruhige Spaziergänge über dem Sand bei Sonnenaufgang.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Dűne-pallók",
+            "tip": "Csendes séták a homok feletti fapallókon napkeltekor.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Podiumuri de lemn în dune",
+            "tip": "Plimbări liniștite peste nisip la răsărit.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Dune Boardwalks",
+            "tip": "Quiet walks over the sand on wooden boardwalks at sunrise.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Puerto Marina Shops",
+            "tip": "Kleine Läden für Bootszubehör und Freizeitmode."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Puerto Marina üzletek",
+            "tip": "Kis boltok hajós kiegészítőkkel és szabadidős ruhákkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinele din Puerto Marina",
+            "tip": "Mici magazine pentru accesorii nautice și modă casual."
+          }
+        ],
+        "en": [
+          {
+            "name": "Puerto Marina Shops",
+            "tip": "Small shops offering nautical accessories and casual wear."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Wege durch den Wald sind flach und einfach zu befahren.",
+          "Nehmen Sie ausreichend Wasser mit, im Wald gibt es kaum Kioske.",
+          "Meiden Sie die Mittagszeit, da der Sand reflektiert."
+        ],
+        "hu": [
+          "Az erdei utak síkak és könnyen tekerhetők.",
+          "Vigyen magával elég vizet, az erdőben kevés a büfé.",
+          "Kerülje a délidőt, mert a homok erősen visszaveri a hőt."
+        ],
+        "ro": [
+          "Potecile prin pădure sunt plate și ușor de parcurs.",
+          "Luați suficientă apă, sunt puține chioșcuri în pădure.",
+          "Evitați orele prânzului, deoarece nisipul reflectă căldura."
+        ],
+        "en": [
+          "The forest paths are flat and very easy to cycle.",
+          "Bring plenty of water as there are few kiosks in the forest.",
+          "Avoid the midday sun as the sand reflects a lot of heat."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Diese Fahrradtour führt Sie durch die beeindruckenden Naturlandschaften von Guardamar. Starten Sie am Jachthafen und radeln Sie durch die weitläufige Pinada, die im 19. Jahrhundert angelegt wurde, um die Dünen zu festigen. Genießen Sie die Fahrt auf den befestigten Sandwegen bis hin zu den Dünenlandschaften und kühlen Sie sich anschließend bei einem ausgiebigen Bad im Meer am Roqueta-Strand ab.",
+            "hu": "Ez a kerékpártúra Guardamar lenyűgöző természeti tájain vezet keresztül. Kezdjen a jachtkikötőnél, majd tekerjen végig a hatalmas fenyvesen, amelyet a 19. században telepítettek a dűnék megfékezésére. Élvezze az utat a homokos ösvényeken egészen a dűnékig, végül hűsöljön egy nagyot a tengerben a Roqueta strandon.",
+            "ro": "Acest tur cu bicicleta vă poartă prin peisajele naturale impresionante din Guardamar. Începeți la portul sportiv și pedalați prin vasta pădure de pini, creată în secolul al XIX-lea pentru a fixa dunele. Bucurați-vă de plimbarea pe potecile de nisip până la zonele de dune și răcoriți-vă apoi cu o baie lungă în mare pe plaja Roqueta.",
+            "en": "This bike tour takes you through Guardamar's impressive natural landscapes. Start at the marina and cycle through the vast pine forest, planted in the 19th century to stabilize the dunes. Enjoy the ride on the sand paths reaching the dune areas, and finally cool off with a refreshing swim at Roqueta Beach."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Puerto Deportivo Marina de las Dunas",
+                "hu": "Marina de las Dunas kikötő",
+                "ro": "Puerto Marina de las Dunas",
+                "en": "Marina de las Dunas Port"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die Fischer an der Mündung des Segura.",
+                "hu": "Figyelje a halászokat a Segura-folyó torkolatánál.",
+                "ro": "Observați pescarii la gura de vărsare a râului Segura.",
+                "en": "Watch the fishermen at the mouth of the Segura River."
+              }
+            },
+            {
+              "name": {
+                "de": "Pinada de Guardamar",
+                "hu": "Guardamari Fenyves",
+                "ro": "Pinada de Guardamar",
+                "en": "Guardamar Pine Forest"
+              },
+              "tip_5lang": {
+                "de": "Radeln Sie auf den schattigen Wegen durch die Dünen.",
+                "hu": "Tekerjen az árnyas utakon a dűnék között.",
+                "ro": "Pedalați pe potecile umbrite prin dune.",
+                "en": "Cycle along the shaded paths through the dunes."
+              }
+            },
+            {
+              "name": {
+                "de": "Dunas de Guardamar",
+                "hu": "Guardamari dűnék",
+                "ro": "Dunele din Guardamar",
+                "en": "Guardamar Dunes"
+              },
+              "tip_5lang": {
+                "de": "Einzigartiges Ökosystem direkt am Meer.",
+                "hu": "Egyedülálló ökoszisztéma közvetlenül a tengerparton.",
+                "ro": "Ecosistem unic chiar lângă mare.",
+                "en": "Unique ecosystem located right by the seaside."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa de la Roqueta",
+                "hu": "Roqueta strand",
+                "ro": "Plaja de la Roqueta",
+                "en": "Roqueta Beach"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Fahrrad an den markierten Ständern ab.",
+                "hu": "Hagyja kerékpárját a kijelölt tárolókban.",
+                "ro": "Lăsați bicicleta în rastelele marcate.",
+                "en": "Park your bike in the designated racks near the beach."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Nyora-Paprika",
+                "tip": "Getrocknete Paprika, ein lokales Symbol, erhältlich in vielen Tapas-Bars."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Nyora Paprika",
+                "tip": "Szárított paprika, helyi szimbólum, sok tapas bárban alapanyag."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Ardei Nyora",
+                "tip": "Ardei uscați, un simbol local, folosiți în multe baruri de tapas."
+              }
+            ],
+            "en": [
+              {
+                "name": "Nyora Peppers",
+                "tip": "Dried peppers, a local symbol, used in many tapas dishes."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Dünen-Holzstege",
+                "tip": "Ruhige Spaziergänge über dem Sand bei Sonnenaufgang.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Dűne-pallók",
+                "tip": "Csendes séták a homok feletti fapallókon napkeltekor.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Podiumuri de lemn în dune",
+                "tip": "Plimbări liniștite peste nisip la răsărit.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Dune Boardwalks",
+                "tip": "Quiet walks over the sand on wooden boardwalks at sunrise.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Puerto Marina Shops",
+                "tip": "Kleine Läden für Bootszubehör und Freizeitmode."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Puerto Marina üzletek",
+                "tip": "Kis boltok hajós kiegészítőkkel és szabadidős ruhákkal."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Magazinele din Puerto Marina",
+                "tip": "Mici magazine pentru accesorii nautice și modă casual."
+              }
+            ],
+            "en": [
+              {
+                "name": "Puerto Marina Shops",
+                "tip": "Small shops offering nautical accessories and casual wear."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Die Wege durch den Wald sind flach und einfach zu befahren.",
+              "Nehmen Sie ausreichend Wasser mit, im Wald gibt es kaum Kioske.",
+              "Meiden Sie die Mittagszeit, da der Sand reflektiert."
+            ],
+            "hu": [
+              "Az erdei utak síkak és könnyen tekerhetők.",
+              "Vigyen magával elég vizet, az erdőben kevés a büfé.",
+              "Kerülje a délidőt, mert a homok erősen visszaveri a hőt."
+            ],
+            "ro": [
+              "Potecile prin pădure sunt plate și ușor de parcurs.",
+              "Luați suficientă apă, sunt puține chioșcuri în pădure.",
+              "Evitați orele prânzului, deoarece nisipul reflectă căldura."
+            ],
+            "en": [
+              "The forest paths are flat and very easy to cycle.",
+              "Bring plenty of water as there are few kiosks in the forest.",
+              "Avoid the midday sun as the sand reflects a lot of heat."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir starten am Hafen Marina de las Dunas, wo der Regen auf die Masten der Boote trommelt. Danach radeln wir durch den Pinienwald, dessen Nadeln den Boden vor allzu viel Matsch schützen. Die Dünen von Guardamar wirken im Grau des Regens fast unwirklich weitläufig. Den Abschluss bildet der Roqueta-Strand, wo der feuchte Sand eine feste, gut befahrbare Fläche bietet.",
+            "hu": "A Marina de las Dunas kikötőben kezdünk, ahol az eső a hajóárbocokon kopog. Ezután a fenyőerdőn keresztül kerekezünk, ahol a tűlevelek megvédik a talajt a sártól. Guardamar dűnéi a szürke esőben szinte valószerűtlenül tágasnak tűnnek. A túrát a Roqueta strandon zárjuk, ahol a nedves homok kemény, jól kerékpározható felületet ad.",
+            "ro": "Începem la portul Marina de las Dunas, unde ploaia răpăie pe catargele bărcilor. Apoi pedalăm prin pădurea de pini, ale cărei ace protejează solul de noroi excesiv. Dunele din Guardamar par ireal de vaste în griul ploii. Încheiem la plaja Roqueta, unde nisipul umed oferă o suprafață fermă și ușor de parcurs cu bicicleta.",
+            "en": "We start at Marina de las Dunas Port, where the rain drums on the boat masts. Then we cycle through the pine forest, where the needles protect the ground from excessive mud. The dunes of Guardamar look unrealistically vast in the gray rain. We finish at Roqueta Beach, where the wet sand provides a firm, bikeable surface."
+          },
+          "stops": [
+            {
+              "name": "Marina de las Dunas Port",
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen; die Stege am Hafen können bei Nässe glatt sein.",
+                "hu": "Ellenőrizze a fékeit; a kikötői mólók nedvesen csúszósak lehetnek.",
+                "ro": "Verifică frânele; pontoanele din port pot fi alunecoase când sunt ude.",
+                "en": "Check your brakes; the port piers can be slippery when wet."
+              }
+            },
+            {
+              "name": "Guardamar Pine Forest",
+              "tip_5lang": {
+                "de": "Die Pinien dämpfen den Regen; bleiben Sie auf den befestigten Hauptwegen.",
+                "hu": "A fenyők csillapítják az esőt; maradjon a kijelölt, keményebb utakon.",
+                "ro": "Pinii atenuează ploaia; rămâi pe potecile principale amenajate.",
+                "en": "The pines dampen the rain; stay on the main paved or firm paths."
+              }
+            },
+            {
+              "name": "Guardamar Dunes",
+              "tip_5lang": {
+                "de": "Vermeiden Sie tiefe Pfützen im Sand, da diese tiefer sein können als sie scheinen.",
+                "hu": "Kerülje a mély tócsákat a homokban, mert mélyebbek lehetnek, mint látszanak.",
+                "ro": "Evită bălțile adânci din nisip, pot fi mai înșelătoare decât par.",
+                "en": "Avoid deep puddles in the sand, as they can be deeper than they appear."
+              }
+            },
+            {
+              "name": "Roqueta Beach",
+              "tip_5lang": {
+                "de": "Das Radfahren auf festem, nassem Sand am Flutsaum ist bei Regen oft einfacher.",
+                "hu": "A kemény, nedves homokon való bringázás a hullámtörésnél gyakran könnyebb.",
+                "ro": "Pedalatul pe nisipul ud și ferm de lângă apă este adesea mai ușor pe ploaie.",
+                "en": "Cycling on firm, wet sand near the water line is often easier in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Verwenden Sie Schutzbleche, um sich vor aufgewirbeltem Schlamm und Wasser zu schützen.",
+              "Vermeiden Sie scharfe Kurven auf den Holzstegen in den Dünen, da diese spiegelglatt sind.",
+              "Tragen Sie eine Brille mit klaren Gläsern, um die Augen vor Regentropfen zu schützen.",
+              "Der Pinienwald bietet den besten Windschutz während der gesamten Tour.",
+              "Trocknen Sie die Kette Ihres Fahrrads nach der Tour gründlich ab, um Rost zu vermeiden."
+            ],
+            "hu": [
+              "Használjon sárvédőt, hogy megvédje magát a felverődő sártól és víztől.",
+              "Kerülje az éles kanyarokat a dűnék fapallóin, mert tükörsimára csúsznak.",
+              "Viseljen víztiszta lencséjű szemüveget, hogy megvédje szemét az esőcseppektől.",
+              "A fenyőerdő nyújtja a legjobb szélvédelmet a teljes túra során.",
+              "A túra után alaposan törölje szárazra a kerékpárláncot a rozsdásodás megelőzésére."
+            ],
+            "ro": [
+              "Folosește aripi la bicicletă pentru a te proteja de noroiul și apa împroșcată.",
+              "Evită virajele bruște pe pasarelele de lemn din dune, deoarece sunt extrem de alunecoase.",
+              "Poartă ochelari cu lentile clare pentru a-ți proteja ochii de picăturile de ploaie.",
+              "Pădurea de pini oferă cea mai bună protecție împotriva vântului pe tot traseul.",
+              "Șterge bine lanțul bicicletei după tură pentru a preveni ruginirea."
+            ],
+            "en": [
+              "Use mudguards to protect yourself from splashed mud and water.",
+              "Avoid sharp turns on the wooden boardwalks in the dunes; they are mirror-slick.",
+              "Wear clear-lens glasses to protect your eyes from raindrops while riding.",
+              "The pine forest provides the best wind protection throughout the entire tour.",
+              "Dry your bike chain thoroughly after the trip to prevent rust."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Wintermorgen am Hafen Marina de las Dunas beginnt mit klarer Sicht auf das Meer. Wir radeln durch den duftenden Pinienwald, wo die kühle Luft die Anstrengung erleichtert. In den Dünen reflektiert der helle Sand das sanfte Winterlicht. Die Tour endet am Roqueta-Strand, wo der Wind zwar kühl weht, aber die weite Sicht bis zum Horizont atemberaubend ist.",
+            "hu": "Friss téli reggel a Marina de las Dunas kikötőben, tiszta kilátással a tengerre. Az illatos fenyőerdőn keresztül kerekezünk, ahol a hűvös levegő könnyebbé teszi a tekerést. A dűnék között a világos homok visszaveri a lágy téli fényt. A túra a Roqueta strandon ér véget, ahol a szél bár hűvös, a horizontig tartó kilátás lélegzetelállító.",
+            "ro": "O dimineață răcoroasă de iarnă în portul Marina de las Dunas începe cu o vizibilitate clară spre mare. Pedalăm prin pădurea de pini parfumată, unde aerul rece face efortul mai ușor. În dune, nisipul deschis reflectă lumina blândă de iarnă. Turul se încheie pe plaja Roqueta, unde, deși vântul suflă rece, vederea panoramică până la orizont este uluitoare.",
+            "en": "A fresh winter morning at Marina de las Dunas Port begins with clear views of the sea. We cycle through the fragrant pine forest, where the cool air makes the effort easier. In the dunes, the light sand reflects the soft winter light. The tour ends at Roqueta Beach, where the wind blows cool, but the wide view to the horizon is breathtaking."
+          },
+          "stops": [
+            {
+              "name": "Marina de las Dunas Port",
+              "tip_5lang": {
+                "de": "Genießen Sie den morgendlichen Kaffee in der Sonne, bevor Sie losradeln.",
+                "hu": "Élvezze a reggeli kávét a napsütésben, mielőtt útnak indulna.",
+                "ro": "Savurează cafeaua de dimineață la soare înainte de a porni la drum.",
+                "en": "Enjoy a morning coffee in the sun before you start cycling."
+              }
+            },
+            {
+              "name": "Guardamar Pine Forest",
+              "tip_5lang": {
+                "de": "Die Luft unter den Pinien ist im Winter besonders sauerstoffreich und frisch.",
+                "hu": "A fenyők alatti levegő télen különösen oxigéndús és frissítő.",
+                "ro": "Aerul de sub pini este deosebit de bogat în oxigen și proaspăt iarna.",
+                "en": "The air under the pines is especially oxygen-rich and fresh in winter."
+              }
+            },
+            {
+              "name": "Guardamar Dunes",
+              "tip_5lang": {
+                "de": "Nutzen Sie das flache Sonnenlicht für spektakuläre Fotos der Sandformationen.",
+                "hu": "Használja ki az alacsony szögű napfényt a homokformák látványos fotózásához.",
+                "ro": "Profită de lumina joasă a soarelui pentru fotografii spectaculoase ale dunelor.",
+                "en": "Use the low sunlight for spectacular photos of the sand formations."
+              }
+            },
+            {
+              "name": "Roqueta Beach",
+              "tip_5lang": {
+                "de": "Ein Windstopper unter der Jacke ist für das Radeln am Strandabschnitt ratsam.",
+                "hu": "A tengerparti szakaszon a széldzseki alatt érdemes plusz réteget viselni.",
+                "ro": "O jachetă rezistentă la vânt este recomandată pentru pedalatul pe plajă.",
+                "en": "A windstopper under your jacket is advisable for cycling along the beach."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie dünne Handschuhe, da der Fahrtwind die Finger schnell auskühlt.",
+              "Im Winter ist der Pinienwald fast menschenleer; genießen Sie die Stille.",
+              "Die Lichtverhältnisse sind zwischen 10:00 und 15:00 Uhr am besten zum Radeln.",
+              "Nehmen Sie ein warmes Getränk in einer Thermosflasche für die Pause in den Dünen mit.",
+              "Achten Sie auf die Sonne; sobald sie weg ist, sinken die Temperaturen rapide."
+            ],
+            "hu": [
+              "Viseljen vékony kesztyűt, mert a menetszél gyorsan lehűti az ujjakat.",
+              "Télen a fenyőerdő szinte néptelen; élvezze a zavartalan csendet.",
+              "A fényviszonyok 10:00 és 15:00 óra között a legjobbak a kerékpározáshoz.",
+              "Vigyen magával meleg italt termosztban a dűnék közötti pihenőhöz.",
+              "Ügyeljen az időre; amint lemegy a nap, a hőmérséklet hirtelen visszaesik."
+            ],
+            "ro": [
+              "Poartă mănuși subțiri, deoarece vântul îți răcește rapid degetele pe bicicletă.",
+              "Iarna, pădurea de pini este aproape pustie; bucură-te de liniștea deplină.",
+              "Condițiile de lumină sunt cele mai bune pentru pedalat între orele 10:00 și 15:00.",
+              "Ia o băutură caldă într-un termos pentru pauza dintre dune.",
+              "Fii atent la soare; odată ce apune, temperatura scade brusc."
+            ],
+            "en": [
+              "Wear thin gloves, as the wind chill quickly cools down your fingers.",
+              "In winter, the pine forest is almost deserted; enjoy the absolute silence.",
+              "Light conditions are best for cycling between 10:00 AM and 3:00 PM.",
+              "Take a warm drink in a thermos for your break in the dunes.",
+              "Watch the time; as soon as the sun goes down, temperatures drop rapidly."
+            ]
+          }
+        }
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 15.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Castillo de Guardamar",
+            "hu": "Guardamari vár",
+            "ro": "Castelul din Guardamar",
+            "en": "Guardamar Castle"
+          },
+          "coords": [
+            -0.655,
+            38.088
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parkplätze befinden sich unterhalb des Hügels.",
+            "hu": "Parkolóhelyek a domb lábánál találhatók.",
+            "ro": "Locuri de parcare se găsesc la baza colinei.",
+            "en": "Parking spaces are available at the base of the hill."
+          }
+        },
+        {
+          "name": {
+            "de": "Rábita Califal",
+            "hu": "Kalifa rábita",
+            "ro": "Rábita Califală",
+            "en": "Caliphal Rabita"
+          },
+          "coords": [
+            -0.646,
+            38.094
+          ],
+          "category": "historical",
+          "arrive_at": "10:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Einzigartige Überreste eines Klosters aus der Zeit des Kalifats.",
+            "hu": "A kalifátus idejéből származó kolostor egyedülálló romjai.",
+            "ro": "Rămășițe unice ale unei mănăstiri din epoca califatului.",
+            "en": "Unique remains of a monastery from the Caliphate era."
+          }
+        },
+        {
+          "name": {
+            "de": "La Fonteta",
+            "hu": "La Fonteta",
+            "ro": "La Fonteta",
+            "en": "La Fonteta"
+          },
+          "coords": [
+            -0.645,
+            38.095
+          ],
+          "category": "historical",
+          "arrive_at": "11:50",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Ausgrabungen der phönizischen Hafenstadt.",
+            "hu": "Nézze meg a föníciai kikötőváros feltárásait.",
+            "ro": "Vizitați excavațiile orașului port fenician.",
+            "en": "Visit the excavations of the ancient Phoenician port city."
+          }
+        },
+        {
+          "name": {
+            "de": "Dunas de Guardamar",
+            "hu": "Guardamari dűnék",
+            "ro": "Dunele din Guardamar",
+            "en": "Guardamar Dunes"
+          },
+          "coords": [
+            -0.64,
+            38.09
+          ],
+          "category": "natural features",
+          "arrive_at": "12:55",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Nutzen Sie den Parkplatz am Eingang des Alfonso XIII Parks.",
+            "hu": "Használja az Alfonz XIII. park bejáratánál lévő parkolót.",
+            "ro": "Folosiți parcarea de la intrarea în parcul Alfonso XIII.",
+            "en": "Use the parking area at the entrance of Alfonso XIII Park."
+          }
+        },
+        {
+          "name": {
+            "de": "Pinada de Guardamar",
+            "hu": "Guardamari Fenyves",
+            "ro": "Pinada de Guardamar",
+            "en": "Guardamar Pine Forest"
+          },
+          "coords": [
+            -0.642,
+            38.1
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:40",
+          "stay_min": 140,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Ideal für ein Picknick im kühlen Schatten.",
+            "hu": "Ideális helyszín egy piknikhez a hűvös árnyékban.",
+            "ro": "Ideal pentru un picnic la umbra răcoroasă.",
+            "en": "Ideal spot for a picnic in the cool shade of the trees."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erschließen Sie die bedeutendsten archäologischen Stätten Guardamars. Beginnen Sie bei der mittelalterlichen Burg und tauchen Sie dann ein in die Welt der Phönizier und des Kalifats bei La Fonteta und der Rábita. Der Nachmittag gehört den Dünen und dem Pinienwald, wo Sie die beeindruckende Naturleistung bestaunen können, die die Stadt vor dem Wandersturm bewahrte.",
+        "hu": "Autóval könnyedén elérheti Guardamar legfontosabb régészeti lelőhelyeit. Kezdje a középkori várnál, majd merüljön el a föníciaiak és a kalifátus világában a La Fonteta és a Rábita romjainál. A délután a dűnéké és a fenyvesé, ahol megcsodálhatja azt a hatalmas természetvédelmi munkát, amely megvédte a várost a vándorló homoktól.",
+        "ro": "Cu mașina puteți vizita cele mai importante situri arheologice din Guardamar. Începeți la castelul medieval și apoi pătrundeți în lumea fenicienilor și a califatului la La Fonteta și Rábita. După-amiaza este dedicată dunelor și pădurii de pini, unde puteți admira efortul natural impresionant care a salvat orașul de nisipurile mișcătoare.",
+        "en": "By car, you can easily reach Guardamar's most important archaeological sites. Start at the medieval castle and then dive into the world of the Phoenicians and the Caliphate at La Fonteta and the Rabita ruins. The afternoon is dedicated to the dunes and the pine forest, where you can admire the impressive natural feat that saved the city from the shifting sands."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Caldero",
+            "tip": "Ein intensiver Fischeintopf, typisch für diese Küstenregion."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Caldero",
+            "tip": "Intenzív halragu, a tengerparti régió jellegzetes étele."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Caldero",
+            "tip": "O tocană de pește intensă, tipică pentru această regiune de coastă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Caldero",
+            "tip": "An intense fish stew, typical of this coastal region."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Mündung des Segura",
+            "tip": "Beobachten Sie Vögel in der Flussmündung bei Sonnenuntergang.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Segura-torkolat",
+            "tip": "Figyelje a madarakat a folyótorkolatnál naplementekor.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gura de vărsare a râului Segura",
+            "tip": "Observați păsările la gura râului la apus.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Mouth of the Segura",
+            "tip": "Bird watching at the river mouth during sunset.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Bäckereien",
+            "tip": "Probieren Sie handwerkliches Brot und süßes Gebäck im Zentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi pékségek",
+            "tip": "Kóstolja meg a kézműves kenyereket és édes süteményeket a központban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brătării locale",
+            "tip": "Încercați pâinea artizanală și produsele de patiserie dulci din centru."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Bakeries",
+            "tip": "Try artisanal bread and sweet pastries in the town center."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken im Stadtzentrum kann im Sommer schwierig sein, nutzen Sie öffentliche Parkplätze.",
+          "Die archäologischen Stätten haben oft eingeschränkte Öffnungszeiten.",
+          "Fahren Sie vorsichtig auf den schmalen Straßen nahe der Dünen."
+        ],
+        "hu": [
+          "A városközpontban nyáron nehéz parkolni, használja a kijelölt parkolókat.",
+          "A régészeti lelőhelyeknek gyakran korlátozott a nyitvatartása.",
+          "Vezessen óvatosan a dűnék melletti szűk utakon."
+        ],
+        "ro": [
+          "Parcarea în centrul orașului poate fi dificilă vara, folosiți parcările publice.",
+          "Siturilor arheologice au adesea program de vizitare limitat.",
+          "Conduceți cu atenție pe străzile înguste de lângă dune."
+        ],
+        "en": [
+          "Parking in the city center can be tough in summer; use public parking lots.",
+          "Archaeological sites often have limited visiting hours.",
+          "Drive carefully on the narrow roads near the dunes."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erschließen Sie die bedeutendsten archäologischen Stätten Guardamars. Beginnen Sie bei der mittelalterlichen Burg und tauchen Sie dann ein in die Welt der Phönizier und des Kalifats bei La Fonteta und der Rábita. Der Nachmittag gehört den Dünen und dem Pinienwald, wo Sie die beeindruckende Naturleistung bestaunen können, die die Stadt vor dem Wandersturm bewahrte.",
+            "hu": "Autóval könnyedén elérheti Guardamar legfontosabb régészeti lelőhelyeit. Kezdje a középkori várnál, majd merüljön el a föníciaiak és a kalifátus világában a La Fonteta és a Rábita romjainál. A délután a dűnéké és a fenyvesé, ahol megcsodálhatja azt a hatalmas természetvédelmi munkát, amely megvédte a várost a vándorló homoktól.",
+            "ro": "Cu mașina puteți vizita cele mai importante situri arheologice din Guardamar. Începeți la castelul medieval și apoi pătrundeți în lumea fenicienilor și a califatului la La Fonteta și Rábita. După-amiaza este dedicată dunelor și pădurii de pini, unde puteți admira efortul natural impresionant care a salvat orașul de nisipurile mișcătoare.",
+            "en": "By car, you can easily reach Guardamar's most important archaeological sites. Start at the medieval castle and then dive into the world of the Phoenicians and the Caliphate at La Fonteta and the Rabita ruins. The afternoon is dedicated to the dunes and the pine forest, where you can admire the impressive natural feat that saved the city from the shifting sands."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Castillo de Guardamar",
+                "hu": "Guardamari vár",
+                "ro": "Castelul din Guardamar",
+                "en": "Guardamar Castle"
+              },
+              "tip_5lang": {
+                "de": "Parkplätze befinden sich unterhalb des Hügels.",
+                "hu": "Parkolóhelyek a domb lábánál találhatók.",
+                "ro": "Locuri de parcare se găsesc la baza colinei.",
+                "en": "Parking spaces are available at the base of the hill."
+              }
+            },
+            {
+              "name": {
+                "de": "Rábita Califal",
+                "hu": "Kalifa rábita",
+                "ro": "Rábita Califală",
+                "en": "Caliphal Rabita"
+              },
+              "tip_5lang": {
+                "de": "Einzigartige Überreste eines Klosters aus der Zeit des Kalifats.",
+                "hu": "A kalifátus idejéből származó kolostor egyedülálló romjai.",
+                "ro": "Rămășițe unice ale unei mănăstiri din epoca califatului.",
+                "en": "Unique remains of a monastery from the Caliphate era."
+              }
+            },
+            {
+              "name": {
+                "de": "La Fonteta",
+                "hu": "La Fonteta",
+                "ro": "La Fonteta",
+                "en": "La Fonteta"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Ausgrabungen der phönizischen Hafenstadt.",
+                "hu": "Nézze meg a föníciai kikötőváros feltárásait.",
+                "ro": "Vizitați excavațiile orașului port fenician.",
+                "en": "Visit the excavations of the ancient Phoenician port city."
+              }
+            },
+            {
+              "name": {
+                "de": "Dunas de Guardamar",
+                "hu": "Guardamari dűnék",
+                "ro": "Dunele din Guardamar",
+                "en": "Guardamar Dunes"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz am Eingang des Alfonso XIII Parks.",
+                "hu": "Használja az Alfonz XIII. park bejáratánál lévő parkolót.",
+                "ro": "Folosiți parcarea de la intrarea în parcul Alfonso XIII.",
+                "en": "Use the parking area at the entrance of Alfonso XIII Park."
+              }
+            },
+            {
+              "name": {
+                "de": "Pinada de Guardamar",
+                "hu": "Guardamari Fenyves",
+                "ro": "Pinada de Guardamar",
+                "en": "Guardamar Pine Forest"
+              },
+              "tip_5lang": {
+                "de": "Ideal für ein Picknick im kühlen Schatten.",
+                "hu": "Ideális helyszín egy piknikhez a hűvös árnyékban.",
+                "ro": "Ideal pentru un picnic la umbra răcoroasă.",
+                "en": "Ideal spot for a picnic in the cool shade of the trees."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Caldero",
+                "tip": "Ein intensiver Fischeintopf, typisch für diese Küstenregion."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Caldero",
+                "tip": "Intenzív halragu, a tengerparti régió jellegzetes étele."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Caldero",
+                "tip": "O tocană de pește intensă, tipică pentru această regiune de coastă."
+              }
+            ],
+            "en": [
+              {
+                "name": "Caldero",
+                "tip": "An intense fish stew, typical of this coastal region."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Mündung des Segura",
+                "tip": "Beobachten Sie Vögel in der Flussmündung bei Sonnenuntergang.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Segura-torkolat",
+                "tip": "Figyelje a madarakat a folyótorkolatnál naplementekor.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Gura de vărsare a râului Segura",
+                "tip": "Observați păsările la gura râului la apus.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Mouth of the Segura",
+                "tip": "Bird watching at the river mouth during sunset.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Lokale Bäckereien",
+                "tip": "Probieren Sie handwerkliches Brot und süßes Gebäck im Zentrum."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Helyi pékségek",
+                "tip": "Kóstolja meg a kézműves kenyereket és édes süteményeket a központban."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Brătării locale",
+                "tip": "Încercați pâinea artizanală și produsele de patiserie dulci din centru."
+              }
+            ],
+            "en": [
+              {
+                "name": "Local Bakeries",
+                "tip": "Try artisanal bread and sweet pastries in the town center."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Parken im Stadtzentrum kann im Sommer schwierig sein, nutzen Sie öffentliche Parkplätze.",
+              "Die archäologischen Stätten haben oft eingeschränkte Öffnungszeiten.",
+              "Fahren Sie vorsichtig auf den schmalen Straßen nahe der Dünen."
+            ],
+            "hu": [
+              "A városközpontban nyáron nehéz parkolni, használja a kijelölt parkolókat.",
+              "A régészeti lelőhelyeknek gyakran korlátozott a nyitvatartása.",
+              "Vezessen óvatosan a dűnék melletti szűk utakon."
+            ],
+            "ro": [
+              "Parcarea în centrul orașului poate fi dificilă vara, folosiți parcările publice.",
+              "Siturilor arheologice au adesea program de vizitare limitat.",
+              "Conduceți cu atenție pe străzile înguste de lângă dune."
+            ],
+            "en": [
+              "Parking in the city center can be tough in summer; use public parking lots.",
+              "Archaeological sites often have limited visiting hours.",
+              "Drive carefully on the narrow roads near the dunes."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir beginnen die Fahrt an der Burg von Guardamar, von wo aus wir den Regen über der Stadt beobachten. Danach besuchen wir die Caliphal Rabita und La Fonteta, wo die antiken Steine im Regen glänzen. Ein kurzer Abstecher zu den Dünen zeigt uns die raue Natur. Die Fahrt endet im Pinienwald, der im Regen besonders intensiv nach Harz duftet.",
+            "hu": "Az utazást a guardamari várnál kezdjük, ahonnan figyeljük a város feletti esőt. Ezután meglátogatjuk a Caliphal Rabita-t és La Fonteta-t, ahol az ősi kövek fényesen csillognak a nedvességtől. Rövid kitérő a dűnékhez megmutatja a természet zord oldalát. Az út a fenyőerdőben ér véget, amely esőben különösen intenzív gyantaillatot áraszt.",
+            "ro": "Începem călătoria la castelul din Guardamar, de unde observăm ploaia deasupra orașului. Apoi vizităm Caliphal Rabita și La Fonteta, unde pietrele antice strălucesc în ploaie. O scurtă oprire la dune ne arată partea aspră a naturii. Călătoria se încheie în pădurea de pini, care emană un miros intens de rășină pe ploaie.",
+            "en": "We start the drive at Guardamar Castle, watching the rain over the city. Next, we visit the Caliphal Rabita and La Fonteta, where the ancient stones shine in the rain. A short detour to the dunes shows us the raw side of nature. The drive ends in the pine forest, which smells especially intense of resin in the rain."
+          },
+          "stops": [
+            {
+              "name": "Guardamar Castle",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Aufgang, um den Weg im Regen kurzzuhalten.",
+                "hu": "Parkoljon közel a feljáróhoz, hogy lerövidítse az esőben megtett utat.",
+                "ro": "Parchează aproape de intrare pentru a scurta drumul prin ploaie.",
+                "en": "Park close to the entrance to keep the walk in the rain short."
+              }
+            },
+            {
+              "name": "Caliphal Rabita",
+              "tip_5lang": {
+                "de": "Ein Regenschirm ist für die Erkundung der Ausgrabungen unerlässlich.",
+                "hu": "Egy esernyő elengedhetetlen a szabadtéri ásatások felfedezéséhez.",
+                "ro": "O umbrelă este esențială pentru explorarea sitului arheologic.",
+                "en": "An umbrella is essential for exploring the outdoor excavations."
+              }
+            },
+            {
+              "name": "La Fonteta",
+              "tip_5lang": {
+                "de": "Die sandigen Wege zwischen den Ruinen können matschig sein.",
+                "hu": "A romok közötti homokos ösvények sárossá válhatnak.",
+                "ro": "Potecile de nisip dintre ruine pot deveni noroioase.",
+                "en": "The sandy paths between the ruins can become muddy."
+              }
+            },
+            {
+              "name": "Guardamar Dunes",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick aus dem Auto, wenn der Regen zu stark wird.",
+                "hu": "Élvezze a kilátást az autóból, ha az eső túl hevessé válik.",
+                "ro": "Bucură-te de priveliște din mașină dacă ploaia devine prea puternică.",
+                "en": "Enjoy the view from the car if the rain becomes too heavy."
+              }
+            },
+            {
+              "name": "Guardamar Pine Forest",
+              "tip_5lang": {
+                "de": "Fahren Sie langsam auf den Waldwegen, um Aquaplaning zu vermeiden.",
+                "hu": "Vezessen lassan az erdei utakon a vízenfutás elkerülése érdekében.",
+                "ro": "Condu încet pe drumurile forestiere pentru a evita acvaplanarea.",
+                "en": "Drive slowly on the forest roads to avoid aquaplaning."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Zustand der Scheibenwischer vor der Abfahrt an der Küste.",
+              "Die Parkplätze an den historischen Stätten sind bei Regen oft leerer.",
+              "Halten Sie ein Handtuch im Auto bereit, um sich nach den kurzen Stopps abzutrocknen.",
+              "Die kurvigen Straßen zur Burg erfordern bei Nässe erhöhte Aufmerksamkeit.",
+              "Nutzen Sie die Fahrt durch den Pinienwald als Panorama-Erlebnis im Trockenen."
+            ],
+            "hu": [
+              "Indulás előtt ellenőrizze az ablaktörlők állapotát a tengerparti szél miatt.",
+              "A történelmi helyszínek parkolói esőben gyakran üresebbek.",
+              "Tartson egy törölközőt az autóban, hogy megszárítkozhasson a rövid megállók után.",
+              "A várhoz vezető kanyargós utak nedvesen fokozott figyelmet igényelnek.",
+              "Használja a fenyőerdőn átvezető utat panoráma-élményként a száraz autóban."
+            ],
+            "ro": [
+              "Verifică starea ștergătoarelor înainte de a pleca pe drumurile de coastă.",
+              "Parcările de la siturile istorice sunt adesea mai libere pe ploaie.",
+              "Ține un prosop în mașină pentru a te usca după scurtele opriri la obiective.",
+              "Drumurile virajate spre castel necesită atenție sporită pe carosabil umed.",
+              "Folosește drumul prin pădurea de pini ca pe o experiență panoramică la adăpost."
+            ],
+            "en": [
+              "Check your windshield wiper condition before heading out on the coast.",
+              "Parking lots at historical sites are often emptier during rainy weather.",
+              "Keep a towel in the car to dry off after the short stops at attractions.",
+              "The winding roads to the castle require extra attention when wet.",
+              "Use the drive through the pine forest as a scenic panorama experience from the dry car."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "An einem sonnigen Wintermorgen fahren wir zur Burg von Guardamar und genießen die weite Sicht. Danach erkunden wir die Caliphal Rabita und La Fonteta ohne die drückende Sommerhitze. Die Dünen von Guardamar liegen friedlich im goldenen Nachmittagslicht. Zum Abschluss fahren wir durch den Pinienwald, wo die tiefstehende Sonne lange Schatten wirft.",
+            "hu": "Egy napsütéses téli reggelen a guardamari várhoz autózunk, élvezve a tiszta kilátást. Ezután a Caliphal Rabita-t és La Fonteta-t fedezzük fel a nyomasztó nyári hőség nélkül. Guardamar dűnéi békésen pihennek az aranyló délutáni fényben. Végül a fenyőerdőn hajtunk át, ahol az alacsonyan járó nap hosszú árnyékokat vet.",
+            "ro": "Într-o dimineață însorită de iarnă conducem spre castelul din Guardamar și savurăm priveliștea vastă. Apoi explorăm Caliphal Rabita și La Fonteta fără căldura sufocantă a verii. Dunele din Guardamar stau liniștite în lumina aurie a după-amiezii. La final, traversăm pădurea de pini, unde soarele jos proiectează umbre lungi.",
+            "en": "On a sunny winter morning, we drive to Guardamar Castle and enjoy the vast views. Next, we explore the Caliphal Rabita and La Fonteta without the oppressive summer heat. The dunes of Guardamar lie peacefully in the golden afternoon light. To conclude, we drive through the pine forest, where the low sun casts long shadows."
+          },
+          "stops": [
+            {
+              "name": "Guardamar Castle",
+              "tip_5lang": {
+                "de": "Nutzen Sie die klare Winterluft für Fotos bis hin zum Tabarca-Archipel.",
+                "hu": "Használja ki a tiszta téli levegőt a Tabarca-szigetekig tartó fotózáshoz.",
+                "ro": "Profită de aerul clar de iarnă pentru fotografii până spre arhipelagul Tabarca.",
+                "en": "Use the clear winter air for photos stretching as far as the Tabarca archipelago."
+              }
+            },
+            {
+              "name": "Caliphal Rabita",
+              "tip_5lang": {
+                "de": "Die Besichtigung der Ausgrabungen ist bei milden 15 Grad sehr angenehm.",
+                "hu": "Az ásatások megtekintése a kellemes 15 fokban nagyon élvezetes.",
+                "ro": "Vizitarea sitului este foarte plăcută la cele 15 grade blânde de iarnă.",
+                "en": "Visiting the excavations is very pleasant in the mild 15-degree winter weather."
+              }
+            },
+            {
+              "name": "La Fonteta",
+              "tip_5lang": {
+                "de": "Im Winter ist es hier deutlich weniger windig als direkt am offenen Strand.",
+                "hu": "Télen itt lényegesen kevésbé fúj a szél, mint kint a nyílt strandon.",
+                "ro": "Iarna este mult mai puțin vânt aici decât direct pe plaja deschisă.",
+                "en": "In winter, it is significantly less windy here than directly on the open beach."
+              }
+            },
+            {
+              "name": "Guardamar Dunes",
+              "tip_5lang": {
+                "de": "Der Parkplatz an den Dünen ist im Winter meist problemlos verfügbar.",
+                "hu": "A dűnék melletti parkoló télen általában könnyen elérhető és szabad.",
+                "ro": "Parcarea de la dune este de obicei ușor accesibilă iarna.",
+                "en": "The parking lot at the dunes is usually easily available in winter."
+              }
+            },
+            {
+              "name": "Guardamar Pine Forest",
+              "tip_5lang": {
+                "de": "Fahren Sie bei offenem Fenster, um den frischen Piniencharakter zu riechen.",
+                "hu": "Hajtson leeresztett ablakkal, hogy érezze a friss fenyőillatot.",
+                "ro": "Condu cu geamul deschis pentru a simți mirosul proaspăt de pin.",
+                "en": "Drive with the window down to smell the fresh pine fragrance."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Straßen sind im Winter frei von Touristenstaus, das Fahren ist entspannt.",
+              "Achten Sie auf Wanderer und Radfahrer, die im Winter vermehrt im Wald unterwegs sind.",
+              "Die Klimaanlage auf Entfeuchten zu stellen hilft gegen beschlagene Scheiben am Morgen.",
+              "Besuchen Sie die Burg am späten Vormittag, wenn die Sonne die Mauern aufgewärmt hat.",
+              "Die Lichtverhältnisse in den Dünen sind kurz vor 17:00 Uhr am spektakulärsten."
+            ],
+            "hu": [
+              "Az utak télen mentesek a turistaforgalomtól, az autózás pihentető.",
+              "Ügyeljen a gyalogosokra és biciklisekre, akik télen többen vannak az erdőben.",
+              "A légkondicionáló páramentesítő funkciója segít a reggeli ablakpárásodás ellen.",
+              "A várat késő délelőtt látogassa meg, amikor a nap már felmelegítette a falakat.",
+              "A fényviszonyok a dűnék között 17:00 óra előtt a leglátványosabbak."
+            ],
+            "ro": [
+              "Drumurile sunt libere de ambuteiaje iarna, condusul este relaxant.",
+              "Fii atent la drumeți și bicicliști, care sunt mai numeroși în pădure iarna.",
+              "Setarea aerului condiționat pe dezumidificare ajută împotriva aburirii geamurilor.",
+              "Vizitează castelul la sfârșitul dimineții, când soarele a încălzit deja zidurile.",
+              "Lumina în dune este spectaculoasă chiar înainte de ora 17:00."
+            ],
+            "en": [
+              "Roads are free of tourist traffic in winter, making driving very relaxed.",
+              "Watch out for hikers and cyclists, who are more numerous in the forest in winter.",
+              "Setting the AC to dehumidify helps with foggy windows in the morning.",
+              "Visit the castle in the late morning once the sun has warmed the walls.",
+              "Light conditions in the dunes are most spectacular shortly before 5:00 PM."
+            ]
+          }
+        }
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 10.0,
+      "stop_count": 4,
+      "stops": [
+        {
+          "name": {
+            "de": "Castillo de Guardamar",
+            "hu": "Guardamari vár",
+            "ro": "Castelul din Guardamar",
+            "en": "Guardamar Castle"
+          },
+          "coords": [
+            -0.655,
+            38.088
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Die Haltestelle liegt am Fuß des Hügels.",
+            "hu": "A megálló a domb lábánál található.",
+            "ro": "Stația este situată la baza colinei.",
+            "en": "The bus stop is located at the foot of the hill."
+          }
+        },
+        {
+          "name": {
+            "de": "Parque de la Reina Sofía",
+            "hu": "Zsófia Királyné park",
+            "ro": "Parcul Regina Sofía",
+            "en": "Reina Sofía Park"
+          },
+          "coords": [
+            -0.648,
+            38.086
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:50",
+          "stay_min": 110,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom zentralen Busstopp.",
+            "hu": "Rövid séta a központi buszmegállótól.",
+            "ro": "O scurtă plimbare de la stația centrală de autobuz.",
+            "en": "A short walk from the central bus stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Dunas de Guardamar",
+            "hu": "Guardamari dűnék",
+            "ro": "Dunele din Guardamar",
+            "en": "Guardamar Dunes"
+          },
+          "coords": [
+            -0.64,
+            38.09
+          ],
+          "category": "natural features",
+          "arrive_at": "12:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Die Linie zum Strand hält in der Nähe der Dünen.",
+            "hu": "A strandjárat a dűnék közelében áll meg.",
+            "ro": "Linia spre plajă oprește în apropierea dunelor.",
+            "en": "The beach bus line stops near the dune area."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa de la Roqueta",
+            "hu": "Roqueta strand",
+            "ro": "Plaja de la Roqueta",
+            "en": "Roqueta Beach"
+          },
+          "coords": [
+            -0.645,
+            38.08
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:25",
+          "stay_min": 165,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Busse verkehren im Sommer regelmäßig zur Promenade.",
+            "hu": "Nyáron rendszeres buszjárat közlekedik a sétányhoz.",
+            "ro": "Autobuzele circulă regulat spre faleză în timpul verii.",
+            "en": "Buses run regularly to the promenade during the summer."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie den Ortsbus, um bequem zwischen der Burg, dem Reina-Sofía-Park und den weitläufigen Stränden zu pendeln. Ohne die Sorge um einen Parkplatz können Sie die grüne Lunge der Stadt erkunden und die Dünenlandschaft genießen. Den Abschluss bildet ein entspannter Nachmittag am Strand, bevor Sie mit dem Bus zurück ins Stadtzentrum fahren.",
+        "hu": "Használja a helyi buszt, hogy kényelmesen közlekedjen a vár, a Zsófia királyné park és a tágas strandok között. Parkolási gondok nélkül fedezheti fel a város zöld tüdejét és élvezheti a dűnék látványát. A napot egy pihentető tengerparti délután zárja, mielőtt busszal visszatérne a városközpontba.",
+        "ro": "Folosiți autobuzul local pentru a naveta confortabil între castel, parcul Regina Sofía și plajele întinse. Fără grija parcării, puteți explora plămânul verde al orașului și vă puteți bucura de dune. Încheiați cu o după-amiază relaxantă pe plajă, înainte de a vă întoarce cu autobuzul în centrul orașului.",
+        "en": "Use the local bus to travel comfortably between the castle, Reina Sofía Park, and the wide beaches. Without the hassle of parking, you can explore the city's green lung and enjoy the dune landscapes. Finish with a relaxing afternoon at the beach before heading back to the town center by bus."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fideuà",
+            "tip": "Nudelspeise mit Meeresfrüchten, eine tolle Alternative zur Paella."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fideuà",
+            "tip": "Tésztaalapú tenger gyümölcsei étel, remek alternatíva a paellára."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fideuà",
+            "tip": "Preparat cu tăiței și fructe de mare, o alternativă excelentă la paella."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fideuà",
+            "tip": "Noodle-based seafood dish, a great alternative to paella."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Park Alfonso XIII",
+            "tip": "Genießen Sie die Stille im Schatten der Tausenden von Pinien.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Alfonz XIII. park",
+            "tip": "Élvezze a csendet a több ezer fenyőfa árnyékában.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Alfonso XIII",
+            "tip": "Bucurați-vă de liniște la umbra miilor de pini.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Alfonso XIII Park",
+            "tip": "Enjoy the silence in the shade of thousands of pine trees.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Avenida Cervantes Shops",
+            "tip": "Modegeschäfte und typische Strandartikel."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Avenida Cervantes üzletek",
+            "tip": "Divatüzletek és tipikus tengerparti cikkek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinele de pe Avenida Cervantes",
+            "tip": "Magazine de modă și articole tipice de plajă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Avenida Cervantes Shops",
+            "tip": "Fashion boutiques and typical beach supplies."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie die Busfahrpläne online oder an der Touristeninformation.",
+          "Die Busse können bei Strandwetter voll sein.",
+          "Halten Sie Kleingeld für das Busticket bereit."
+        ],
+        "hu": [
+          "Ellenőrizze a buszmenetrendet online vagy a turista irodában.",
+          "Strandidőben a buszok zsúfoltak lehetnek.",
+          "Készítsen elő aprópénzt a buszjegyhez."
+        ],
+        "ro": [
+          "Verificați orarul autobuzelor online sau la biroul de turism.",
+          "Autobuzele pot fi aglomerate când vremea este bună de plajă.",
+          "Pregătiți mărunțiș pentru biletul de autobuz."
+        ],
+        "en": [
+          "Check bus schedules online or at the tourist information office.",
+          "Buses can be crowded during peak beach hours.",
+          "Have some small change ready for the bus ticket."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie den Ortsbus, um bequem zwischen der Burg, dem Reina-Sofía-Park und den weitläufigen Stränden zu pendeln. Ohne die Sorge um einen Parkplatz können Sie die grüne Lunge der Stadt erkunden und die Dünenlandschaft genießen. Den Abschluss bildet ein entspannter Nachmittag am Strand, bevor Sie mit dem Bus zurück ins Stadtzentrum fahren.",
+            "hu": "Használja a helyi buszt, hogy kényelmesen közlekedjen a vár, a Zsófia királyné park és a tágas strandok között. Parkolási gondok nélkül fedezheti fel a város zöld tüdejét és élvezheti a dűnék látványát. A napot egy pihentető tengerparti délután zárja, mielőtt busszal visszatérne a városközpontba.",
+            "ro": "Folosiți autobuzul local pentru a naveta confortabil între castel, parcul Regina Sofía și plajele întinse. Fără grija parcării, puteți explora plămânul verde al orașului și vă puteți bucura de dune. Încheiați cu o după-amiază relaxantă pe plajă, înainte de a vă întoarce cu autobuzul în centrul orașului.",
+            "en": "Use the local bus to travel comfortably between the castle, Reina Sofía Park, and the wide beaches. Without the hassle of parking, you can explore the city's green lung and enjoy the dune landscapes. Finish with a relaxing afternoon at the beach before heading back to the town center by bus."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Castillo de Guardamar",
+                "hu": "Guardamari vár",
+                "ro": "Castelul din Guardamar",
+                "en": "Guardamar Castle"
+              },
+              "tip_5lang": {
+                "de": "Die Haltestelle liegt am Fuß des Hügels.",
+                "hu": "A megálló a domb lábánál található.",
+                "ro": "Stația este situată la baza colinei.",
+                "en": "The bus stop is located at the foot of the hill."
+              }
+            },
+            {
+              "name": {
+                "de": "Parque de la Reina Sofía",
+                "hu": "Zsófia Királyné park",
+                "ro": "Parcul Regina Sofía",
+                "en": "Reina Sofía Park"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Spaziergang vom zentralen Busstopp.",
+                "hu": "Rövid séta a központi buszmegállótól.",
+                "ro": "O scurtă plimbare de la stația centrală de autobuz.",
+                "en": "A short walk from the central bus stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Dunas de Guardamar",
+                "hu": "Guardamari dűnék",
+                "ro": "Dunele din Guardamar",
+                "en": "Guardamar Dunes"
+              },
+              "tip_5lang": {
+                "de": "Die Linie zum Strand hält in der Nähe der Dünen.",
+                "hu": "A strandjárat a dűnék közelében áll meg.",
+                "ro": "Linia spre plajă oprește în apropierea dunelor.",
+                "en": "The beach bus line stops near the dune area."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa de la Roqueta",
+                "hu": "Roqueta strand",
+                "ro": "Plaja de la Roqueta",
+                "en": "Roqueta Beach"
+              },
+              "tip_5lang": {
+                "de": "Busse verkehren im Sommer regelmäßig zur Promenade.",
+                "hu": "Nyáron rendszeres buszjárat közlekedik a sétányhoz.",
+                "ro": "Autobuzele circulă regulat spre faleză în timpul verii.",
+                "en": "Buses run regularly to the promenade during the summer."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Fideuà",
+                "tip": "Nudelspeise mit Meeresfrüchten, eine tolle Alternative zur Paella."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Fideuà",
+                "tip": "Tésztaalapú tenger gyümölcsei étel, remek alternatíva a paellára."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Fideuà",
+                "tip": "Preparat cu tăiței și fructe de mare, o alternativă excelentă la paella."
+              }
+            ],
+            "en": [
+              {
+                "name": "Fideuà",
+                "tip": "Noodle-based seafood dish, a great alternative to paella."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Park Alfonso XIII",
+                "tip": "Genießen Sie die Stille im Schatten der Tausenden von Pinien.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Alfonz XIII. park",
+                "tip": "Élvezze a csendet a több ezer fenyőfa árnyékában.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Parcul Alfonso XIII",
+                "tip": "Bucurați-vă de liniște la umbra miilor de pini.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Alfonso XIII Park",
+                "tip": "Enjoy the silence in the shade of thousands of pine trees.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Avenida Cervantes Shops",
+                "tip": "Modegeschäfte und typische Strandartikel."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Avenida Cervantes üzletek",
+                "tip": "Divatüzletek és tipikus tengerparti cikkek."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Magazinele de pe Avenida Cervantes",
+                "tip": "Magazine de modă și articole tipice de plajă."
+              }
+            ],
+            "en": [
+              {
+                "name": "Avenida Cervantes Shops",
+                "tip": "Fashion boutiques and typical beach supplies."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Überprüfen Sie die Busfahrpläne online oder an der Touristeninformation.",
+              "Die Busse können bei Strandwetter voll sein.",
+              "Halten Sie Kleingeld für das Busticket bereit."
+            ],
+            "hu": [
+              "Ellenőrizze a buszmenetrendet online vagy a turista irodában.",
+              "Strandidőben a buszok zsúfoltak lehetnek.",
+              "Készítsen elő aprópénzt a buszjegyhez."
+            ],
+            "ro": [
+              "Verificați orarul autobuzelor online sau la biroul de turism.",
+              "Autobuzele pot fi aglomerate când vremea este bună de plajă.",
+              "Pregătiți mărunțiș pentru biletul de autobuz."
+            ],
+            "en": [
+              "Check bus schedules online or at the tourist information office.",
+              "Buses can be crowded during peak beach hours.",
+              "Have some small change ready for the bus ticket."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir nehmen den Bus zur Burg von Guardamar und beobachten den Regen aus dem Fenster. Danach geht es zum Reina-Sofía-Park, wo wir unter den Bäumen Schutz suchen. Die Dünen von Guardamar besichtigen wir kurz, bevor wir den Tag am Roqueta-Strand ausklingen lassen, wo wir uns in ein nahes Café flüchten.",
+            "hu": "Busszal megyünk a guardamari várhoz, az ablakból figyelve az esőt. Ezután a Reina Sofía park következik, ahol a fák alatt keresünk menedéket. A dűnéket csak röviden tekintjük meg, majd a napot a Roqueta strandon zárjuk, egy közeli kávézóba húzódva az eső elől.",
+            "ro": "Luăm autobuzul spre castelul din Guardamar și observăm ploaia de pe fereastră. Apoi mergem în Parcul Reina Sofía, unde căutăm adăpost sub copaci. Vizităm scurt dunele înainte de a încheia ziua pe plaja Roqueta, refugiindu-ne într-o cafenea din apropiere.",
+            "en": "We take the bus to Guardamar Castle, watching the rain from the window. Next, we head to Reina Sofía Park, seeking shelter under the trees. We take a quick look at the dunes before ending the day at Roqueta Beach, retreating to a nearby cafe from the rain."
+          },
+          "stops": [
+            {
+              "name": "Guardamar Castle",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle liegt etwa 10 Gehminuten unterhalb der Burgruine.",
+                "hu": "A buszmegálló körülbelül 10 perc sétára van a várrom alatt.",
+                "ro": "Stația de autobuz este la aproximativ 10 minute de mers sub ruinele castelului.",
+                "en": "The bus stop is about a 10-minute walk below the castle ruins."
+              }
+            },
+            {
+              "name": "Reina Sofía Park",
+              "tip_5lang": {
+                "de": "Vom Busbahnhof aus ist der Park schnell zu Fuß und im Trockenen erreichbar.",
+                "hu": "A buszpályaudvartól a park gyorsan, gyalogosan is elérhető.",
+                "ro": "Parcul este rapid accesibil pe jos de la autogară.",
+                "en": "The park is quickly accessible on foot from the bus station."
+              }
+            },
+            {
+              "name": "Guardamar Dunes",
+              "tip_5lang": {
+                "de": "Der Bus hält in der Nähe des Eingangs; nutzen Sie das Wartehäuschen.",
+                "hu": "A busz a bejárat közelében áll meg; használja a várótermet menedékként.",
+                "ro": "Autobuzul oprește lângă intrare; folosește refugiul stației.",
+                "en": "The bus stops near the entrance; use the bus shelter if needed."
+              }
+            },
+            {
+              "name": "Roqueta Beach",
+              "tip_5lang": {
+                "de": "Warten Sie in einem der Strandcafés auf Ihren Bus zurück ins Zentrum.",
+                "hu": "Várjon a visszainduló buszra az egyik tengerparti kávézóban.",
+                "ro": "Așteaptă autobuzul de întoarcere într-una dintre cafenelele de pe plajă.",
+                "en": "Wait for your bus back to the center in one of the beach cafes."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Winterfahrplan, da Busse bei starkem Regen seltener fahren könnten.",
+              "Das Wartehäuschen am zentralen Busbahnhof bietet guten Schutz vor Wind und Regen.",
+              "Halten Sie Kleingeld oder Ihre Karte für die schnelle Bezahlung beim Einsteigen bereit.",
+              "Die Route führt an vielen überdachten Passagen in der Innenstadt vorbei.",
+              "Nutzen Sie die App des Verkehrsverbunds für Echtzeit-Infos bei Wetterverzögerungen."
+            ],
+            "hu": [
+              "Ellenőrizze a menetrendet, mert heves esőzéskor előfordulhatnak késések.",
+              "A központi buszpályaudvar várója jó védelmet nyújt a szél és az eső ellen.",
+              "Készítse elő aprópénzét vagy kártyáját a gyors fizetéshez felszálláskor.",
+              "Az útvonal sok fedett passzázs mellett halad el a belvárosban.",
+              "Használja a közlekedési alkalmazást a valós idejű információkért."
+            ],
+            "ro": [
+              "Verifică orarul, deoarece pot apărea întârzieri în caz de ploaie torențială.",
+              "Refugiul din autogara centrală oferă protecție bună împotriva vântului și ploii.",
+              "Pregătește mărunțișul sau cardul pentru plata rapidă la urcare.",
+              "Traseul trece pe lângă multe pasaje acoperite din centrul orașului.",
+              "Folosește aplicația de transport pentru informații în timp real despre întârzieri."
+            ],
+            "en": [
+              "Check the schedule, as heavy rain might cause minor delays in transit.",
+              "The shelter at the central bus station provides good protection from wind and rain.",
+              "Have your change or card ready for quick payment when boarding the bus.",
+              "The route passes many covered passages in the city center.",
+              "Use the transit app for real-time info in case of weather-related delays."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Wir starten mit dem Bus zur Burg von Guardamar und genießen die morgendliche Frische. Danach führt uns die Fahrt zum Reina-Sofía-Park, der im Winterlicht besonders ruhig wirkt. Die Dünen besichtigen wir am Nachmittag bei angenehmen Temperaturen. Den Tag schließen wir am Roqueta-Strand ab, rechtzeitig bevor die Wintersonne im Meer versinkt.",
+            "hu": "Busszal indulunk a guardamari várhoz, élvezve a reggeli frissességet. Ezután az út a Reina Sofía parkhoz vezet, amely a téli fényben különösen nyugodt. A dűnéket délután, kellemes hőmérséklet mellett tekintjük meg. A napot a Roqueta strandon zárjuk, még mielőtt a téli nap a tengerbe veszne.",
+            "ro": "Pornim cu autobuzul spre castelul din Guardamar și savurăm prospețimea dimineții. Apoi călătoria ne duce în Parcul Reina Sofía, care pare extrem de liniștit în lumina iernii. Vizităm dunele după-amiaza, la temperaturi plăcute. Încheiem ziua pe plaja Roqueta, înainte ca soarele de iarnă să apună în mare.",
+            "en": "We start by bus to Guardamar Castle, enjoying the morning freshness. Next, the ride takes us to Reina Sofía Park, which feels especially calm in the winter light. We visit the dunes in the afternoon at pleasant temperatures. We conclude the day at Roqueta Beach, just before the winter sun sets into the sea."
+          },
+          "stops": [
+            {
+              "name": "Guardamar Castle",
+              "tip_5lang": {
+                "de": "Im Winter ist der Aufstieg vom Bus aus weniger anstrengend als im Sommer.",
+                "hu": "Télen a busztól való feljutás lényegesen kevésbé megterhelő, mint nyáron.",
+                "ro": "Iarna, urcarea de la autobuz este mult mai puțin obositoare decât vara.",
+                "en": "In winter, the climb from the bus is much less strenuous than in summer."
+              }
+            },
+            {
+              "name": "Reina Sofía Park",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Busverbindung direkt zum Haupteingang des Parks.",
+                "hu": "Használja a közvetlen buszjáratot a park főbejáratához.",
+                "ro": "Folosește conexiunea directă de autobuz până la intrarea principală în parc.",
+                "en": "Use the direct bus connection to the main entrance of the park."
+              }
+            },
+            {
+              "name": "Guardamar Dunes",
+              "tip_5lang": {
+                "de": "Achten Sie auf die Abfahrtszeiten; im Winter fahren die Busse seltener.",
+                "hu": "Ügyeljen az indulási időkre; télen ritkábban járnak a buszok.",
+                "ro": "Fii atent la orele de plecare; iarna autobuzele circulă mai rar.",
+                "en": "Watch the departure times; buses run less frequently in the winter season."
+              }
+            },
+            {
+              "name": "Roqueta Beach",
+              "tip_5lang": {
+                "de": "Der letzte Bus zurück ins Zentrum fährt oft kurz nach Sonnenuntergang.",
+                "hu": "Az utolsó busz a központba gyakran röviddel naplemente után indul.",
+                "ro": "Ultimul autobuz spre centru pleacă adesea la scurt timp după apus.",
+                "en": "The last bus back to the center often departs shortly after sunset."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Busse sind im Winter angenehm leer und gut beheizt.",
+              "Kombinieren Sie die Fahrt mit einem Besuch des Wochenmarktes, falls es Mittwoch ist.",
+              "Die zentrale Haltestelle bietet im Winter oft sonnige Plätze zum Warten.",
+              "Nutzen Sie die Zeit im Bus, um sich zwischen den Spaziergängen kurz aufzuwärmen.",
+              "Der Fußweg zwischen den Haltestellen und den Zielen ist im Winter sehr angenehm."
+            ],
+            "hu": [
+              "A buszok télen kellemesen üresek és jól fűtöttek.",
+              "Szerdánként kösse össze az utazást a helyi piac meglátogatásával.",
+              "A központi megállóban télen gyakran találhatunk napos váróhelyeket.",
+              "Használja ki a buszon töltött időt a séták közötti rövid felmelegedésre.",
+              "A megállók és a célpontok közötti gyalogút télen kifejezetten kellemes."
+            ],
+            "ro": [
+              "Autobuzele sunt plăcut de libere iarna și bine încălzite.",
+              "Combină călătoria cu o vizită la piața săptămânală, dacă este miercuri.",
+              "Stația centrală oferă adesea locuri însorite pentru așteptare iarna.",
+              "Folosește timpul din autobuz pentru a te încălzi puțin între plimbări.",
+              "Mersul pe jos între stații și obiective este foarte plăcut iarna."
+            ],
+            "en": [
+              "Buses are pleasantly empty and well-heated during the winter months.",
+              "Combine the trip with a visit to the weekly market if it happens to be Wednesday.",
+              "The central stop often offers sunny spots for waiting in winter.",
+              "Use the time on the bus to warm up briefly between your walks.",
+              "The walking distance between stops and attractions is very pleasant in winter."
+            ]
+          }
+        }
+      }
+    }
+  },
+  "external_resources": {
+    "tourism_office": "https://www.guardamar.net/turismo",
+    "events": "https://www.guardamar.net/agenda",
+    "language_tips": {
+      "de": "Guardamar ist deutlich weniger touristisch als die Nachbarorte, Spanisch ist hier wirklich noetig. In den Restaurants am Pinienwald reicht oft ein freundliches Laecheln und Zeigefinger. 'La nuestra es la mejor paella' bekommt man oft zu hoeren, also ruhig nicken und probieren.",
+      "hu": "Guardamar sokkal kevesbe turistasodott a szomszedoknal, itt tenyleg jol jon a spanyol. A fenyves szeli ettermekben gyakran egy mosoly es a mutatoujj is elcg. 'La nuestra es la mejor paella' szol mindenhol, bolints ra es kostold meg, nem fogsz csalodni.",
+      "ro": "Guardamar e mult mai putin turistic decat vecinii, aici chiar ai nevoie de spaniola. La restaurantele de langa padurea de pini, un zambet si degetul aratator rezolva multe. Vei auzi des 'La nuestra es la mejor paella', accepta provocarea, rar ramai dezamagit.",
+      "en": "Guardamar is far less touristy than its neighbours, so basic Spanish actually helps here. In pine-forest restaurants a smile and pointing finger usually do the trick. You'll often hear 'La nuestra es la mejor paella' so nod and try it, rarely a letdown."
+    },
+    "best_time_to_visit": {
+      "de": "Mai, Juni und September sind ideal, das 14 Kilometer lange Duenenstrandgebiet bietet dann Platz fuer alle. Im Juli und August sind die spanischen Familien da und die Strandbars 'chiringuitos' platzen aus allen Naehten. Ostern ist sehr feucht und windig, Pinienwald-Picknicks dann nur eingeschraenkt sinnvoll.",
+      "hu": "Majus, junius es szeptember a legjobb, a 14 km hosszu dunes part mindenkinek ad helyet. Julius-augusztusban a spanyol csaladok dominalnak, a 'chiringuito' standoknal szettoljak az asztalokat. Husveti idoszak nedves es szeles, a fenyves piknik csak korlatozottan elvezheto.",
+      "ro": "Mai, iunie si septembrie sunt ideale, fasia de dune de 14 km are loc pentru toata lumea. Iulie-august sosesc familiile spaniole iar 'chiringuito'-urile sunt pline pana la refuz. Pastele e umed si vantos, picnicurile in padurea de pini fiind incomode.",
+      "en": "May, June and September are ideal, with 14 km of dune beach absorbing everyone comfortably. July-August brings Spanish family crowds and the chiringuito beach bars overflow. Easter tends to be damp and windy, limiting pine-forest picnicking."
+    },
+    "neighborhood_warnings": {
+      "de": "Guardamar ist sehr ruhig, das groesste Risiko sind starke Stroemungen am Duenenstrand bei Wind aus Sueden. Im Pinienwald gibt es Wildschweine, die in der Daemmerung Muellsaecken nicht widerstehen koennen. Die N-332 zwischen Guardamar und Torrevieja hat haeufig schwere Unfaelle, vorsichtig fahren.",
+      "hu": "Guardamar nagyon csendes, a legnagyobb veszely a deli szelben kialakulo eros aramlat a dunes parton. A fenyvesben vaddisznok elnek, esti szurkuletben a kuka mellol nehez elzavarni oket. Az N-332-es ut Torrevieja fele baleseti gocpont, lassan menj.",
+      "ro": "Guardamar e foarte linistit, riscul principal sunt curentii puternici la plaja cu dune cand bate vantul de sud. In padurea de pini sunt mistreti care la apus ataca pungile cu gunoi. Drumul N-332 spre Torrevieja are accidente grave dese, rulati cu prudenta.",
+      "en": "Guardamar is very quiet, with strong south-wind rip currents at the dune beach being the main hazard. The pine forest has wild boar that raid trash bags around dusk. The N-332 toward Torrevieja sees frequent serious accidents, so drive carefully."
+    }
+  }
+}

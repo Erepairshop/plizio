@@ -1,0 +1,2466 @@
+{
+  "city_id": "roses",
+  "anchor": {
+    "name": "Roses Center",
+    "coords": [
+      3.1764,
+      42.2625
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "18:30",
+      "total_km": 3.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Ciutadella de Roses",
+            "hu": "Roses citadellája",
+            "ro": "Ciutadella de Roses",
+            "en": "Citadel of Roses"
+          },
+          "coords": [
+            3.1695,
+            42.2662
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Griechische und römische Ruinen an einem Ort.",
+            "hu": "Görög és római romok egy helyen.",
+            "ro": "Ruine grecești și romane într-un singur loc.",
+            "en": "Greek and Roman ruins found in one site."
+          }
+        },
+        {
+          "name": {
+            "de": "Santa Maria de Roses",
+            "hu": "Rosesi Szűz Mária-templom",
+            "ro": "Santa Maria de Roses",
+            "en": "Santa Maria de Roses"
+          },
+          "coords": [
+            3.1775,
+            42.2635
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Schöne neoklassizistische Fassade.",
+            "hu": "Szép neoklasszicista homlokzat.",
+            "ro": "Frumoasă fațadă neoclasică.",
+            "en": "Beautiful neoclassical facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Passeig Marítim",
+            "hu": "Tengerparti sétány",
+            "ro": "Passeig Marítim",
+            "en": "Passeig Marítim"
+          },
+          "coords": [
+            3.1755,
+            42.2615
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Perfekt für eine Mittagspause am Meer.",
+            "hu": "Tökéletes egy tengerparti ebédszünethez.",
+            "ro": "Perfect pentru o pauză de prânz la mare.",
+            "en": "Perfect for a seaside lunch break."
+          }
+        },
+        {
+          "name": {
+            "de": "Platja de la Punta",
+            "hu": "Punta strand",
+            "ro": "Platja de la Punta",
+            "en": "Platja de la Punta"
+          },
+          "coords": [
+            3.1795,
+            42.2595
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:40",
+          "stay_min": 180,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Feiner Sand und flaches Wasser.",
+            "hu": "Finom homok és sekély víz.",
+            "ro": "Nisip fin și apă puțin adâncă.",
+            "en": "Fine sand and shallow, calm waters."
+          }
+        },
+        {
+          "name": {
+            "de": "Castell de la Trinitat",
+            "hu": "Szentháromság-vár",
+            "ro": "Castell de la Trinitat",
+            "en": "Trinitat Castle"
+          },
+          "coords": [
+            3.1905,
+            42.2475
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "17:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Die sternförmige Festung bietet tolles Licht am Abend.",
+            "hu": "A csillag alakú erőd remek fényeket kínál este.",
+            "ro": "Fortăreața în formă de stea oferă lumină superbă seara.",
+            "en": "The star-shaped fortress offers great evening light."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Unser Rundgang beginnt in der gewaltigen Ciutadella, wo Jahrtausende der Geschichte aufeinanderprallen. Danach besuchen wir die Kirche Santa Maria im Herzen der Altstadt.\n\nMittags schlendern wir den Passeig Marítim entlang, genießen die Meeresbrise und suchen uns ein gemütliches Restaurant für frischen Fisch.\n\nDer Nachmittag gehört der Entspannung am Platja de la Punta. Das flache Wasser ist ideal für ein erfrischendes Bad.\n\nZum krönenden Abschluss wandern wir leicht bergauf zum Castell de la Trinitat, von wo aus man den spektakulären Blick über den gesamten Golf von Roses genießen kann.",
+        "hu": "Sétánk a hatalmas Citadellában kezdődik, ahol évezredek történelme találkozik. Ezután meglátogatjuk a Szűz Mária-templomot az óváros szívében.\n\nDélben a Passeig Marítim sétányon barangolunk, élvezve a tengeri szellőt, és keresünk egy hangulatos éttermet a friss halakhoz.\n\nA délután a pihenésé a Punta-strandon. A sekély víz tökéletes egy frissítő fürdőzéshez.\n\nZárásként egy könnyű emelkedővel felgyalogolunk a Szentháromság-várhoz, ahonnan lenyűgöző kilátás nyílik az egész Rosesi-öbölre.",
+        "ro": "Turul nostru începe în uriașa Ciutadella, unde se întâlnesc milenii de istorie. Apoi vizităm biserica Santa Maria din inima orașului vechi.\n\nLa prânz ne plimbăm pe Passeig Marítim, bucurându-ne de briza mării și căutând un restaurant primitor pentru pește proaspăt.\n\nDupă-amiaza este dedicată relaxării pe plaja La Punta. Apa puțin adâncă este ideală pentru o baie răcoritoare.\n\nLa final, urcăm ușor spre Castell de la Trinitat, de unde puteți admira vederea spectaculoasă asupra întregului golf Roses.",
+        "en": "Our tour begins in the massive Citadel, where millennia of history collide. Afterwards, we visit the Santa Maria church in the heart of the old town.\n\nAt noon, we stroll along the Passeig Marítim, enjoying the sea breeze and finding a cozy restaurant for fresh seafood.\n\nThe afternoon is dedicated to relaxation at Platja de la Punta. The shallow water is ideal for a refreshing swim.\n\nFor the grand finale, we walk slightly uphill to Trinitat Castle, where you can enjoy the spectacular view over the entire Gulf of Roses."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Suquet de Peix",
+            "tip": "Traditioneller Fischertopf aus Roses."
+          },
+          {
+            "name": "Restaurant Sodemar",
+            "tip": "Frischer Fisch direkt am Hafen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Suquet de Peix",
+            "tip": "Hagyományos rosesi halragu."
+          },
+          {
+            "name": "Restaurant Sodemar",
+            "tip": "Friss halak közvetlenül a kikötőben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Suquet de Peix",
+            "tip": "Tocăniță tradițională de pește din Roses."
+          },
+          {
+            "name": "Restaurant Sodemar",
+            "tip": "Pește proaspăt chiar în port."
+          }
+        ],
+        "en": [
+          {
+            "name": "Suquet de Peix",
+            "tip": "Traditional fisherman's stew from Roses."
+          },
+          {
+            "name": "Restaurant Sodemar",
+            "tip": "Fresh seafood located directly by the harbor."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Far de Roses",
+            "tip": "Ruhiger Platz am Leuchtturm.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Far de Roses",
+            "tip": "Nyugodt hely a világítótoronynál.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Far de Roses",
+            "tip": "Loc liniștit lângă far.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Far de Roses",
+            "tip": "A quiet spot by the lighthouse.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Altstadtgassen",
+            "tip": "Kleine Läden mit lokalem Kunsthandwerk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Óvárosi utcák",
+            "tip": "Kis üzletek helyi kézműves termékekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Străzile vechi",
+            "tip": "Magazine mici cu artizanat local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Old Town Alleys",
+            "tip": "Small shops featuring local handicrafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Ciutadella ist sehr weitläufig, nehmen Sie Wasser mit.",
+          "Buchen Sie das Abendticket für das Castell de la Trinitat.",
+          "Die Altstadt ist am späten Vormittag am schönsten.",
+          "Tragen Sie Sonnencreme, da es auf der Promenade wenig Schatten gibt."
+        ],
+        "hu": [
+          "A Citadella nagyon kiterjedt, vigyen magával vizet.",
+          "Váltson esti jegyet a Szentháromság-várhoz.",
+          "Az óváros késő délelőtt a leghangulatosabb.",
+          "Használjon naptejet, mert a sétányon kevés az árnyék."
+        ],
+        "ro": [
+          "Ciutadella este foarte întinsă, luați apă cu voi.",
+          "Rezervați biletul de seară pentru Castell de la Trinitat.",
+          "Orașul vechi este cel mai frumos spre sfârșitul dimineții.",
+          "Folosiți cremă solară, faleza are puțină umbră."
+        ],
+        "en": [
+          "The Citadel is very extensive, bring plenty of water.",
+          "Book an evening ticket for Trinitat Castle for the best light.",
+          "The old town is most charming in the late morning.",
+          "Wear sunscreen as there is little shade on the promenade."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Unser Rundgang beginnt in der gewaltigen Ciutadella, wo Jahrtausende der Geschichte aufeinanderprallen. Danach besuchen wir die Kirche Santa Maria im Herzen der Altstadt.\n\nMittags schlendern wir den Passeig Marítim entlang, genießen die Meeresbrise und suchen uns ein gemütliches Restaurant für frischen Fisch.\n\nDer Nachmittag gehört der Entspannung am Platja de la Punta. Das flache Wasser ist ideal für ein erfrischendes Bad.\n\nZum krönenden Abschluss wandern wir leicht bergauf zum Castell de la Trinitat, von wo aus man den spektakulären Blick über den gesamten Golf von Roses genießen kann.",
+            "hu": "Sétánk a hatalmas Citadellában kezdődik, ahol évezredek történelme találkozik. Ezután meglátogatjuk a Szűz Mária-templomot az óváros szívében.\n\nDélben a Passeig Marítim sétányon barangolunk, élvezve a tengeri szellőt, és keresünk egy hangulatos éttermet a friss halakhoz.\n\nA délután a pihenésé a Punta-strandon. A sekély víz tökéletes egy frissítő fürdőzéshez.\n\nZárásként egy könnyű emelkedővel felgyalogolunk a Szentháromság-várhoz, ahonnan lenyűgöző kilátás nyílik az egész Rosesi-öbölre.",
+            "ro": "Turul nostru începe în uriașa Ciutadella, unde se întâlnesc milenii de istorie. Apoi vizităm biserica Santa Maria din inima orașului vechi.\n\nLa prânz ne plimbăm pe Passeig Marítim, bucurându-ne de briza mării și căutând un restaurant primitor pentru pește proaspăt.\n\nDupă-amiaza este dedicată relaxării pe plaja La Punta. Apa puțin adâncă este ideală pentru o baie răcoritoare.\n\nLa final, urcăm ușor spre Castell de la Trinitat, de unde puteți admira vederea spectaculoasă asupra întregului golf Roses.",
+            "en": "Our tour begins in the massive Citadel, where millennia of history collide. Afterwards, we visit the Santa Maria church in the heart of the old town.\n\nAt noon, we stroll along the Passeig Marítim, enjoying the sea breeze and finding a cozy restaurant for fresh seafood.\n\nThe afternoon is dedicated to relaxation at Platja de la Punta. The shallow water is ideal for a refreshing swim.\n\nFor the grand finale, we walk slightly uphill to Trinitat Castle, where you can enjoy the spectacular view over the entire Gulf of Roses."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ciutadella de Roses",
+                "hu": "Roses citadellája",
+                "ro": "Ciutadella de Roses",
+                "en": "Citadel of Roses"
+              },
+              "tip_5lang": {
+                "de": "Griechische und römische Ruinen an einem Ort.",
+                "hu": "Görög és római romok egy helyen.",
+                "ro": "Ruine grecești și romane într-un singur loc.",
+                "en": "Greek and Roman ruins found in one site."
+              }
+            },
+            {
+              "name": {
+                "de": "Santa Maria de Roses",
+                "hu": "Rosesi Szűz Mária-templom",
+                "ro": "Santa Maria de Roses",
+                "en": "Santa Maria de Roses"
+              },
+              "tip_5lang": {
+                "de": "Schöne neoklassizistische Fassade.",
+                "hu": "Szép neoklasszicista homlokzat.",
+                "ro": "Frumoasă fațadă neoclasică.",
+                "en": "Beautiful neoclassical facade."
+              }
+            },
+            {
+              "name": {
+                "de": "Passeig Marítim",
+                "hu": "Tengerparti sétány",
+                "ro": "Passeig Marítim",
+                "en": "Passeig Marítim"
+              },
+              "tip_5lang": {
+                "de": "Perfekt für eine Mittagspause am Meer.",
+                "hu": "Tökéletes egy tengerparti ebédszünethez.",
+                "ro": "Perfect pentru o pauză de prânz la mare.",
+                "en": "Perfect for a seaside lunch break."
+              }
+            },
+            {
+              "name": {
+                "de": "Platja de la Punta",
+                "hu": "Punta strand",
+                "ro": "Platja de la Punta",
+                "en": "Platja de la Punta"
+              },
+              "tip_5lang": {
+                "de": "Feiner Sand und flaches Wasser.",
+                "hu": "Finom homok és sekély víz.",
+                "ro": "Nisip fin și apă puțin adâncă.",
+                "en": "Fine sand and shallow, calm waters."
+              }
+            },
+            {
+              "name": {
+                "de": "Castell de la Trinitat",
+                "hu": "Szentháromság-vár",
+                "ro": "Castell de la Trinitat",
+                "en": "Trinitat Castle"
+              },
+              "tip_5lang": {
+                "de": "Die sternförmige Festung bietet tolles Licht am Abend.",
+                "hu": "A csillag alakú erőd remek fényeket kínál este.",
+                "ro": "Fortăreața în formă de stea oferă lumină superbă seara.",
+                "en": "The star-shaped fortress offers great evening light."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Suquet de Peix",
+                "tip": "Traditioneller Fischertopf aus Roses."
+              },
+              {
+                "name": "Restaurant Sodemar",
+                "tip": "Frischer Fisch direkt am Hafen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Suquet de Peix",
+                "tip": "Hagyományos rosesi halragu."
+              },
+              {
+                "name": "Restaurant Sodemar",
+                "tip": "Friss halak közvetlenül a kikötőben."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Suquet de Peix",
+                "tip": "Tocăniță tradițională de pește din Roses."
+              },
+              {
+                "name": "Restaurant Sodemar",
+                "tip": "Pește proaspăt chiar în port."
+              }
+            ],
+            "en": [
+              {
+                "name": "Suquet de Peix",
+                "tip": "Traditional fisherman's stew from Roses."
+              },
+              {
+                "name": "Restaurant Sodemar",
+                "tip": "Fresh seafood located directly by the harbor."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Far de Roses",
+                "tip": "Ruhiger Platz am Leuchtturm.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Far de Roses",
+                "tip": "Nyugodt hely a világítótoronynál.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Far de Roses",
+                "tip": "Loc liniștit lângă far.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Far de Roses",
+                "tip": "A quiet spot by the lighthouse.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Altstadtgassen",
+                "tip": "Kleine Läden mit lokalem Kunsthandwerk."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Óvárosi utcák",
+                "tip": "Kis üzletek helyi kézműves termékekkel."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Străzile vechi",
+                "tip": "Magazine mici cu artizanat local."
+              }
+            ],
+            "en": [
+              {
+                "name": "Old Town Alleys",
+                "tip": "Small shops featuring local handicrafts."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Die Ciutadella ist sehr weitläufig, nehmen Sie Wasser mit.",
+              "Buchen Sie das Abendticket für das Castell de la Trinitat.",
+              "Die Altstadt ist am späten Vormittag am schönsten.",
+              "Tragen Sie Sonnencreme, da es auf der Promenade wenig Schatten gibt."
+            ],
+            "hu": [
+              "A Citadella nagyon kiterjedt, vigyen magával vizet.",
+              "Váltson esti jegyet a Szentháromság-várhoz.",
+              "Az óváros késő délelőtt a leghangulatosabb.",
+              "Használjon naptejet, mert a sétányon kevés az árnyék."
+            ],
+            "ro": [
+              "Ciutadella este foarte întinsă, luați apă cu voi.",
+              "Rezervați biletul de seară pentru Castell de la Trinitat.",
+              "Orașul vechi este cel mai frumos spre sfârșitul dimineții.",
+              "Folosiți cremă solară, faleza are puțină umbră."
+            ],
+            "en": [
+              "The Citadel is very extensive, bring plenty of water.",
+              "Book an evening ticket for Trinitat Castle for the best light.",
+              "The old town is most charming in the late morning.",
+              "Wear sunscreen as there is little shade on the promenade."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt in der Zitadelle, wo das Museum Schutz vor dem Regen bietet. Mittags finden Sie in der Kirche Santa Maria einen ruhigen Zufluchtsort. Am Nachmittag führt ein frischer Spaziergang entlang der überdachten Cafés des Passeig Marítim. Den Abend lassen wir im Trinitat Castle ausklingen, dessen Mauern trotz des Wetters eine mystische Aussicht auf die Bucht bieten.",
+            "hu": "A reggel a Citadellában indul, ahol a múzeum belső terei nyújtanak menedéket az eső elől. Délben a Santa Maria templom csendes békéjében pihenhetünk meg. Délután a Passeig Marítim fedett teraszai mentén sétálunk a friss tengeri levegőn. Az estét a Trinitat vár falai között zárjuk, ahonnan az esőfátyolos öböl látványa egészen misztikus hangulatot áraszt.",
+            "ro": "Dimineața începe la Cetatea Roses, unde muzeul interior oferă adăpost împotriva ploii. La prânz, biserica Santa Maria devine un refugiu liniștit. După-amiaza, o plimbare revigorantă pe Passeig Marítim vă poartă pe lângă cafenelele cu terase acoperite. Seara se încheie la Castelul Trinitat, ale cărui ziduri oferă o perspectivă mistică asupra golfului, în ciuda vremii.",
+            "en": "The morning starts at the Citadel, where the indoor museum provides shelter from the rain. At noon, Santa Maria church offers a peaceful refuge. In the afternoon, enjoy a fresh walk along Passeig Marítim's covered cafe terraces. The evening concludes at Trinitat Castle, where the walls offer a mystical view of the bay despite the wet weather."
+          },
+          "stops": [
+            {
+              "name": "Citadel of Roses",
+              "tip_4lang": {
+                "de": "Besuchen Sie zuerst das Museum im Inneren, um trocken zu bleiben.",
+                "hu": "Kezdje a benti múzeumi résszel, hogy szárazon maradjon.",
+                "ro": "Vizitați mai întâi muzeul din interior pentru a rămâne uscat.",
+                "en": "Start with the indoor museum section to stay dry."
+              }
+            },
+            {
+              "name": "Santa Maria de Roses",
+              "tip_4lang": {
+                "de": "Ein perfekter Ort, um einen heftigen Regenschauer abzuwarten.",
+                "hu": "Tökéletes helyszín egy hirtelen zápor átvészelésére.",
+                "ro": "Un loc perfect pentru a aștepta trecerea unei averse.",
+                "en": "A perfect spot to wait out a sudden rain shower."
+              }
+            },
+            {
+              "name": "Passeig Marítim",
+              "tip_4lang": {
+                "de": "Nutzen Sie die Markisen der Strandcafés als Regenschutz.",
+                "hu": "Használja a parti kávézók napellenzőit esernyő helyett.",
+                "ro": "Folosiți copertinele cafenelelor de pe mal ca adăpost.",
+                "en": "Use the beach cafe awnings as rain protection."
+              }
+            },
+            {
+              "name": "Platja de la Punta",
+              "tip_4lang": {
+                "de": "Der nasse Sand ist fest und ideal für einen kurzen Strandgang.",
+                "hu": "A vizes homok kemény és ideális egy rövid tengerparti sétához.",
+                "ro": "Nisipul umed este compact și ideal pentru o scurtă plimbare.",
+                "en": "The wet sand is firm and ideal for a brief beach stroll."
+              }
+            },
+            {
+              "name": "Trinitat Castle",
+              "tip_4lang": {
+                "de": "Die Innenräume bieten Schutz und tolle Fotomotive der grauen Bucht.",
+                "hu": "A belső terek védelmet és remek fotótémákat kínálnak az öbölről.",
+                "ro": "Spațiile interioare oferă protecție și cadre foto superbe cu golful.",
+                "en": "The interior spaces offer protection and great photo ops of the bay."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine hochwertige Regenjacke, da der Wind Schirme nutzlos machen kann.",
+              "Die Steinpfade in der Zitadelle können bei Nässe rutschig sein.",
+              "Suchen Sie Schutz in den zahlreichen Arkaden und Cafés am Yachthafen.",
+              "Prüfen Sie die Öffnungszeiten der Museen, sie sind bei Regen oft gut besucht.",
+              "Warme Schuhe sind wichtig, da die Meeresbrise bei Regen stark abkühlt."
+            ],
+            "hu": [
+              "Viseljen jó minőségű esőkabátot, mert a szél miatt az esernyő használhatatlan.",
+              "A Citadella kőútjai vizesen csúszósak lehetnek, óvatosan lépkedjen.",
+              "Keressen menedéket a kikötő környéki árkádok és kávézók alatt.",
+              "Ellenőrizze a múzeumok nyitvatartását, esőben hamar megtelhetnek.",
+              "A vízhatlan cipő elengedhetetlen, a tengeri szélben gyorsan ázik a láb."
+            ],
+            "ro": [
+              "Purtați o jachetă impermeabilă de calitate, vântul poate face umbrela inutilă.",
+              "Cărările de piatră din cetate pot fi alunecoase când sunt ude.",
+              "Căutați adăpost sub numeroasele arcade și cafenele din zona portului.",
+              "Verificați programul muzeelor, acestea sunt aglomerate când plouă.",
+              "Încălțămintea rezistentă la apă este esențială pentru confortul termic."
+            ],
+            "en": [
+              "Wear a high-quality raincoat as the wind can make umbrellas useless.",
+              "The stone paths in the Citadel can be slippery when wet.",
+              "Seek shelter under the numerous arcades and cafes near the marina.",
+              "Check museum opening hours, as they are often busy during rain.",
+              "Waterproof shoes are essential as the sea breeze cools down quickly."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "An einem klaren Wintermorgen ist die Zitadelle herrlich ruhig und geschichtsträchtig. Mittags wärmt die tiefstehende Sonne die Mauern von Santa Maria. Am Nachmittag genießen Sie die frische Brise am Passeig Marítim ohne die Sommerhitze. Der Tag endet am Trinitat Castle mit einem spektakulären, frühen Sonnenuntergang über den schneebedeckten Gipfeln der Pyrenäen im Hintergrund.",
+            "hu": "A tiszta téli reggelen a Citadella csendes és történelemben gazdag arcát mutatja. Délben az alacsonyan járó nap melegíti a Santa Maria templom falait. Délután a Passeig Marítim friss szellőjét élvezzük a nyári hőség nélkül. A nap a Trinitat várnál ér véget, ahonnan korai, látványos naplementét láthatunk a háttérben magasodó, havas Pireneusok felé.",
+            "ro": "Într-o dimineață senină de iarnă, cetatea este minunat de liniștită și plină de istorie. La prânz, soarele blând încălzește zidurile bisericii Santa Maria. După-amiaza, vă bucurați de briza proaspătă de pe Passeig Marítim fără arșița verii. Ziua se încheie la Castelul Trinitat cu un apus spectaculos deasupra vârfurilor înzăpezite ale Pirineilor.",
+            "en": "On a clear winter morning, the Citadel is wonderfully quiet and rich in history. At noon, the low winter sun warms the walls of Santa Maria. In the afternoon, enjoy the fresh breeze on Passeig Marítim without the summer heat. The day ends at Trinitat Castle with a spectacular, early sunset over the snowy Pyrenees peaks in the distance."
+          },
+          "stops": [
+            {
+              "name": "Citadel of Roses",
+              "tip_4lang": {
+                "de": "Genießen Sie die Stille der Ruinen ohne die sommerlichen Touristenmassen.",
+                "hu": "Élvezze a romok csendjét a nyári turistatömeg nélkül.",
+                "ro": "Bucurați-vă de liniștea ruinelor fără mulțimile de turiști din vară.",
+                "en": "Enjoy the silence of the ruins without the summer tourist crowds."
+              }
+            },
+            {
+              "name": "Santa Maria de Roses",
+              "tip_4lang": {
+                "de": "Die dicken Mauern speichern die Wärme der Mittagssonne.",
+                "hu": "A vastag falak jól megtartják a déli napsütés melegét.",
+                "ro": "Zidurile groase rețin bine căldura soarelui de la amiază.",
+                "en": "The thick walls retain the warmth of the midday sun well."
+              }
+            },
+            {
+              "name": "Passeig Marítim",
+              "tip_4lang": {
+                "de": "Ideal für einen zügigen Spaziergang, um warm zu bleiben.",
+                "hu": "Ideális egy tempós sétához, hogy mozgásban maradjon és ne fázzon.",
+                "ro": "Ideal pentru o plimbare rapidă pentru a vă menține cald.",
+                "en": "Ideal for a brisk walk to keep moving and stay warm."
+              }
+            },
+            {
+              "name": "Platja de la Punta",
+              "tip_4lang": {
+                "de": "Holen Sie sich einen heißen Kakao in einer Bar in der Nähe.",
+                "hu": "Igyon egy forró csokoládét a közeli bárok egyikében.",
+                "ro": "Luați o ciocolată caldă de la unul dintre barurile din apropiere.",
+                "en": "Grab a hot chocolate from one of the nearby bars."
+              }
+            },
+            {
+              "name": "Trinitat Castle",
+              "tip_4lang": {
+                "de": "Seien Sie gegen 17:00 Uhr hier, um den Sonnenuntergang nicht zu verpassen.",
+                "hu": "Legyen itt 17:00 körül, hogy ne maradjon le a naplementéről.",
+                "ro": "Fiți aici în jurul orei 17:00 pentru a nu rata apusul.",
+                "en": "Be here around 17:00 so you don't miss the early sunset."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf den Tramuntana-Wind, der sehr kalt sein kann.",
+              "Zwiebelprinzip bei der Kleidung ist wegen des Windes ratsam.",
+              "Die Sonne geht früh unter, planen Sie Ihre Route entsprechend.",
+              "Viele Strandbars sind geschlossen, nutzen Sie die Cafés im Stadtzentrum.",
+              "Genießen Sie die klare Sicht auf die schneebedeckten Pyrenäen."
+            ],
+            "hu": [
+              "Vigyázzon a Tramuntana széllel, ami nagyon hideg tud lenni.",
+              "Öltözzön rétegesen, mert a szélben sokkal hűvösebbnek érződik az idő.",
+              "A nap korán nyugszik, tervezze a várnézést a délután közepére.",
+              "Sok parti bár zárva tart, keresse a belvárosi kávézókat.",
+              "Élvezze a tiszta kilátást a Pireneusok havas csúcsaira."
+            ],
+            "ro": [
+              "Atenție la vântul Tramuntana, care poate fi foarte rece.",
+              "Îmbrăcați-vă în straturi, vântul face ca temperatura să pară mai mică.",
+              "Soarele apune devreme, planificați vizita la castel în consecință.",
+              "Multe baruri de pe plajă sunt închise, folosiți cafenelele din centru.",
+              "Bucurați-vă de vizibilitatea clară spre vârfurile înzăpezite ale Pirineilor."
+            ],
+            "en": [
+              "Watch out for the Tramuntana wind, which can be very cold.",
+              "Dress in layers as the wind makes it feel much colder.",
+              "The sun sets early, plan your castle visit accordingly.",
+              "Many beach bars are closed, use the cafes in the city center.",
+              "Enjoy the clear views of the snow-capped Pyrenees mountains."
+            ]
+          }
+        }
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 12.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Ciutadella de Roses",
+            "hu": "Roses citadellája",
+            "ro": "Ciutadella de Roses",
+            "en": "Citadel of Roses"
+          },
+          "coords": [
+            3.1695,
+            42.2662
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Fahrradständer am Haupteingang.",
+            "hu": "Kerékpártárolók a főbejáratnál.",
+            "ro": "Suporturi de biciclete la intrarea principală.",
+            "en": "Bicycle racks are available at the main entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Castell de la Trinitat",
+            "hu": "Szentháromság-vár",
+            "ro": "Castell de la Trinitat",
+            "en": "Trinitat Castle"
+          },
+          "coords": [
+            3.1905,
+            42.2475
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Stetiger Anstieg, aber tolle Aussicht.",
+            "hu": "Folyamatos emelkedő, de pazar kilátás.",
+            "ro": "Urcare constantă, dar vedere superbă.",
+            "en": "Steady climb, but rewarded with great views."
+          }
+        },
+        {
+          "name": {
+            "de": "Far de Roses",
+            "hu": "Rosesi világítótorony",
+            "ro": "Farul din Roses",
+            "en": "Roses Lighthouse"
+          },
+          "coords": [
+            3.1895,
+            42.2455
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "12:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Schöner Fotostopp am Kap.",
+            "hu": "Szép fotómegálló a foknál.",
+            "ro": "Popas foto frumos la cap.",
+            "en": "A beautiful photo stop at the cape."
+          }
+        },
+        {
+          "name": {
+            "de": "Passeig Marítim",
+            "hu": "Tengerparti sétány",
+            "ro": "Passeig Marítim",
+            "en": "Passeig Marítim"
+          },
+          "coords": [
+            3.1755,
+            42.2615
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Radfahren ist auf dem markierten Weg erlaubt.",
+            "hu": "A kerékpározás a kijelölt úton engedélyezett.",
+            "ro": "Bicicletismul este permis pe traseul marcat.",
+            "en": "Cycling is permitted on the designated path."
+          }
+        },
+        {
+          "name": {
+            "de": "Platja de la Punta",
+            "hu": "Punta strand",
+            "ro": "Platja de la Punta",
+            "en": "Platja de la Punta"
+          },
+          "coords": [
+            3.1795,
+            42.2595
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:50",
+          "stay_min": 160,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entspannen nach der Tour.",
+            "hu": "Pihenés a túra után.",
+            "ro": "Relaxare după tur.",
+            "en": "Relax here after your cycling tour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Auf zwei Rädern erkunden wir die Bucht von Roses. Wir starten an der Ciutadella und radeln dann entlang der Küste zum Castell de la Trinitat.\n\nMittags geht es am Leuchtturm vorbei zurück zur Promenade. Der Radweg bietet eine entspannte Fahrt mit ständigem Meerblick.\n\nNachmittags genießen wir die Freiheit auf dem Passeig Marítim und suchen uns ein schattiges Plätzchen für eine Erfrischung.\n\nDer Tag endet mit einer wohlverdienten Pause am Platja de la Punta, bevor wir die Räder zurückbringen.",
+        "hu": "Két keréken fedezzük fel a Rosesi-öblöt. A Citadellánál kezdünk, majd a part mentén a Szentháromság-várhoz tekerünk.\n\nDélben a világítótorony érintésével térünk vissza a sétányra. A kerékpárút pihentető tekerést kínál állandó tengeri kilátással.\n\nDélután élvezzük a szabadságot a Passeig Marítimon, és keresünk egy árnyékos helyet egy kis frissítőhöz.\n\nA napot egy jól megérdemelt pihenéssel zárjuk a Punta-strandon, mielőtt visszavinnénk a bicikliket.",
+        "ro": "Pe două roți explorăm golful Roses. Începem la Ciutadella și pedalăm de-a lungul coastei spre Castell de la Trinitat.\n\nLa prânz trecem pe lângă far înapoi spre faleză. Pistă de biciclete oferă o plimbare relaxantă cu vedere constantă la mare.\n\nDupă-amiaza ne bucurăm de libertate pe Passeig Marítim și căutăm un loc umbros pentru o băutură răcoritoare.\n\nZiua se încheie cu o pauză binemeritată pe plaja La Punta, înainte de a returna bicicletele.",
+        "en": "On two wheels, we explore the Bay of Roses. We start at the Citadel and then pedal along the coast towards Trinitat Castle.\n\nAt noon, we pass the lighthouse on our way back to the promenade. The bike path offers a relaxed ride with constant sea views.\n\nIn the afternoon, we enjoy the freedom on Passeig Marítim and find a shaded spot for some refreshments.\n\nThe day ends with a well-deserved break at Platja de la Punta before returning the bikes."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Anchovis de L'Escala",
+            "tip": "Berühmte Sardellen aus der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Anchovis de L'Escala",
+            "tip": "Híres szardella a régióból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Anchovis de L'Escala",
+            "tip": "Anșoa faimoasă din regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Anchovis de L'Escala",
+            "tip": "Famous anchovies from the local region."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parc de les Ginesteres",
+            "tip": "Ruhiger Park abseits der Touristenströme.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parc de les Ginesteres",
+            "tip": "Csendes park a turistatömegektől távol.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parc de les Ginesteres",
+            "tip": "Parc liniștit departe de mulțimile de turiști.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parc de les Ginesteres",
+            "tip": "A quiet park away from the main tourist crowds.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Markthalle",
+            "tip": "Frische Produkte und Käse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vásárcsarnok",
+            "tip": "Friss termékek és sajtok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Hala pieței",
+            "tip": "Produse proaspete și brânzeturi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Market Hall",
+            "tip": "Fresh produce and local cheeses."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Küstenstraße nach Canyelles ist hügelig.",
+          "Nutzen Sie die Fahrradwege im Stadtgebiet.",
+          "Achten Sie auf Fußgänger auf der Promenade.",
+          "Mieten Sie ein Fahrrad mit Korb für Strandtücher."
+        ],
+        "hu": [
+          "A Canyelles felé vezető parti út dombos.",
+          "Használja a városi kerékpárutakat.",
+          "Ügyeljen a gyalogosokra a sétányon.",
+          "Béreljen kosaras biciklit a strandtörölközőknek."
+        ],
+        "ro": [
+          "Drumul de coastă spre Canyelles este deluros.",
+          "Folosiți pistele de biciclete din zona urbană.",
+          "Atenție la pietonii de pe faleză.",
+          "Închiriați o bicicletă cu coș pentru prosoapele de plajă."
+        ],
+        "en": [
+          "The coastal road to Canyelles is quite hilly.",
+          "Utilize the bike lanes within the urban area.",
+          "Watch out for pedestrians on the promenade.",
+          "Rent a bike with a basket for your beach gear."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Auf zwei Rädern erkunden wir die Bucht von Roses. Wir starten an der Ciutadella und radeln dann entlang der Küste zum Castell de la Trinitat.\n\nMittags geht es am Leuchtturm vorbei zurück zur Promenade. Der Radweg bietet eine entspannte Fahrt mit ständigem Meerblick.\n\nNachmittags genießen wir die Freiheit auf dem Passeig Marítim und suchen uns ein schattiges Plätzchen für eine Erfrischung.\n\nDer Tag endet mit einer wohlverdienten Pause am Platja de la Punta, bevor wir die Räder zurückbringen.",
+            "hu": "Két keréken fedezzük fel a Rosesi-öblöt. A Citadellánál kezdünk, majd a part mentén a Szentháromság-várhoz tekerünk.\n\nDélben a világítótorony érintésével térünk vissza a sétányra. A kerékpárút pihentető tekerést kínál állandó tengeri kilátással.\n\nDélután élvezzük a szabadságot a Passeig Marítimon, és keresünk egy árnyékos helyet egy kis frissítőhöz.\n\nA napot egy jól megérdemelt pihenéssel zárjuk a Punta-strandon, mielőtt visszavinnénk a bicikliket.",
+            "ro": "Pe două roți explorăm golful Roses. Începem la Ciutadella și pedalăm de-a lungul coastei spre Castell de la Trinitat.\n\nLa prânz trecem pe lângă far înapoi spre faleză. Pistă de biciclete oferă o plimbare relaxantă cu vedere constantă la mare.\n\nDupă-amiaza ne bucurăm de libertate pe Passeig Marítim și căutăm un loc umbros pentru o băutură răcoritoare.\n\nZiua se încheie cu o pauză binemeritată pe plaja La Punta, înainte de a returna bicicletele.",
+            "en": "On two wheels, we explore the Bay of Roses. We start at the Citadel and then pedal along the coast towards Trinitat Castle.\n\nAt noon, we pass the lighthouse on our way back to the promenade. The bike path offers a relaxed ride with constant sea views.\n\nIn the afternoon, we enjoy the freedom on Passeig Marítim and find a shaded spot for some refreshments.\n\nThe day ends with a well-deserved break at Platja de la Punta before returning the bikes."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ciutadella de Roses",
+                "hu": "Roses citadellája",
+                "ro": "Ciutadella de Roses",
+                "en": "Citadel of Roses"
+              },
+              "tip_5lang": {
+                "de": "Fahrradständer am Haupteingang.",
+                "hu": "Kerékpártárolók a főbejáratnál.",
+                "ro": "Suporturi de biciclete la intrarea principală.",
+                "en": "Bicycle racks are available at the main entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Castell de la Trinitat",
+                "hu": "Szentháromság-vár",
+                "ro": "Castell de la Trinitat",
+                "en": "Trinitat Castle"
+              },
+              "tip_5lang": {
+                "de": "Stetiger Anstieg, aber tolle Aussicht.",
+                "hu": "Folyamatos emelkedő, de pazar kilátás.",
+                "ro": "Urcare constantă, dar vedere superbă.",
+                "en": "Steady climb, but rewarded with great views."
+              }
+            },
+            {
+              "name": {
+                "de": "Far de Roses",
+                "hu": "Rosesi világítótorony",
+                "ro": "Farul din Roses",
+                "en": "Roses Lighthouse"
+              },
+              "tip_5lang": {
+                "de": "Schöner Fotostopp am Kap.",
+                "hu": "Szép fotómegálló a foknál.",
+                "ro": "Popas foto frumos la cap.",
+                "en": "A beautiful photo stop at the cape."
+              }
+            },
+            {
+              "name": {
+                "de": "Passeig Marítim",
+                "hu": "Tengerparti sétány",
+                "ro": "Passeig Marítim",
+                "en": "Passeig Marítim"
+              },
+              "tip_5lang": {
+                "de": "Radfahren ist auf dem markierten Weg erlaubt.",
+                "hu": "A kerékpározás a kijelölt úton engedélyezett.",
+                "ro": "Bicicletismul este permis pe traseul marcat.",
+                "en": "Cycling is permitted on the designated path."
+              }
+            },
+            {
+              "name": {
+                "de": "Platja de la Punta",
+                "hu": "Punta strand",
+                "ro": "Platja de la Punta",
+                "en": "Platja de la Punta"
+              },
+              "tip_5lang": {
+                "de": "Entspannen nach der Tour.",
+                "hu": "Pihenés a túra után.",
+                "ro": "Relaxare după tur.",
+                "en": "Relax here after your cycling tour."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Anchovis de L'Escala",
+                "tip": "Berühmte Sardellen aus der Region."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Anchovis de L'Escala",
+                "tip": "Híres szardella a régióból."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Anchovis de L'Escala",
+                "tip": "Anșoa faimoasă din regiune."
+              }
+            ],
+            "en": [
+              {
+                "name": "Anchovis de L'Escala",
+                "tip": "Famous anchovies from the local region."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Parc de les Ginesteres",
+                "tip": "Ruhiger Park abseits der Touristenströme.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Parc de les Ginesteres",
+                "tip": "Csendes park a turistatömegektől távol.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Parc de les Ginesteres",
+                "tip": "Parc liniștit departe de mulțimile de turiști.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Parc de les Ginesteres",
+                "tip": "A quiet park away from the main tourist crowds.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Markthalle",
+                "tip": "Frische Produkte und Käse."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Vásárcsarnok",
+                "tip": "Friss termékek és sajtok."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Hala pieței",
+                "tip": "Produse proaspete și brânzeturi."
+              }
+            ],
+            "en": [
+              {
+                "name": "Market Hall",
+                "tip": "Fresh produce and local cheeses."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Die Küstenstraße nach Canyelles ist hügelig.",
+              "Nutzen Sie die Fahrradwege im Stadtgebiet.",
+              "Achten Sie auf Fußgänger auf der Promenade.",
+              "Mieten Sie ein Fahrrad mit Korb für Strandtücher."
+            ],
+            "hu": [
+              "A Canyelles felé vezető parti út dombos.",
+              "Használja a városi kerékpárutakat.",
+              "Ügyeljen a gyalogosokra a sétányon.",
+              "Béreljen kosaras biciklit a strandtörölközőknek."
+            ],
+            "ro": [
+              "Drumul de coastă spre Canyelles este deluros.",
+              "Folosiți pistele de biciclete din zona urbană.",
+              "Atenție la pietonii de pe faleză.",
+              "Închiriați o bicicletă cu coș pentru prosoapele de plajă."
+            ],
+            "en": [
+              "The coastal road to Canyelles is quite hilly.",
+              "Utilize the bike lanes within the urban area.",
+              "Watch out for pedestrians on the promenade.",
+              "Rent a bike with a basket for your beach gear."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine nasse Radtour beginnt an der Zitadelle, wo wir die Räder kurz abstellen. Mittags fordern die Anstiege zum Trinitat Castle auf regennassen Straßen Ihre Geschicklichkeit. Nachmittags fahren wir vorsichtig zum Leuchtturm, begleitet vom Peitschen der Gischt. Den Tag lassen wir entspannt beim Radschieben entlang der Promenade ausklingen, während der Regen langsam nachlässt.",
+            "hu": "A vizes bringázás a Citadellánál indul, ahol rövid időre leparkoljuk a gépeket. Délben a Trinitat várba vezető emelkedő próbára teszi az ügyességet a csúszós aszfalton. Délután óvatosan tekerünk a világítótoronyhoz a felcsapó sós pára mellett. A napot a sétányon tolt biciklikkel zárjuk, ahogy az eső lassan csendesedik.",
+            "ro": "O tură cu bicicleta pe ploaie începe la cetate, unde parcăm scurt. La prânz, urcarea spre Castelul Trinitat pe drumuri ude vă testează abilitățile. După-amiaza pedalăm cu grijă spre far, acompaniați de stropii sărați ai mării. Încheiem ziua împingând bicicletele pe faleză, în timp ce ploaia se domolește treptat.",
+            "en": "A wet bike ride starts at the Citadel, where we park the bikes briefly. At noon, the climbs to Trinitat Castle on rain-slicked roads test your skills. In the afternoon, we cycle carefully to the lighthouse accompanied by the salt spray. The day ends with bikes pushed along the promenade as the rain slowly subsides."
+          },
+          "stops": [
+            {
+              "name": "Citadel of Roses",
+              "tip_4lang": {
+                "de": "Nutzen Sie die Fahrradständer in der Nähe des Eingangs.",
+                "hu": "Használja a bejárat közelében található kerékpártámaszokat.",
+                "ro": "Folosiți rastelele de biciclete situate lângă intrare.",
+                "en": "Use the bike racks located near the entrance."
+              }
+            },
+            {
+              "name": "Trinitat Castle",
+              "tip_4lang": {
+                "de": "Vorsicht beim Bergauffahren, die Kurven können rutschig sein.",
+                "hu": "Vigyázzon emelkedő közben, a kanyarok csúszósak lehetnek.",
+                "ro": "Atenție la urcare, curbele pot fi alunecoase pe ploaie.",
+                "en": "Be careful while climbing, the turns can be slippery."
+              }
+            },
+            {
+              "name": "Roses Lighthouse",
+              "tip_4lang": {
+                "de": "Achten Sie auf starken Seitenwind am exponierten Leuchtturm.",
+                "hu": "Ügyeljen az erős oldalszélre a nyitott világítótorony környékén.",
+                "ro": "Atenție la vântul lateral puternic în zona farului.",
+                "en": "Watch out for strong side winds near the exposed lighthouse."
+              }
+            },
+            {
+              "name": "Passeig Marítim",
+              "tip_4lang": {
+                "de": "Fahren Sie auf den gefliesten Abschnitten besonders langsam.",
+                "hu": "A kövezett szakaszokon tekerjen különösen lassan.",
+                "ro": "Circulați foarte lent pe porțiunile pavate ale falezei.",
+                "en": "Ride particularly slowly on the tiled sections of the promenade."
+              }
+            },
+            {
+              "name": "Platja de la Punta",
+              "tip_4lang": {
+                "de": "Sperren Sie Ihr Rad gut ab und suchen Sie sich einen Unterstand.",
+                "hu": "Zárja le a biciklit és keressen egy fedett beállót.",
+                "ro": "Încuiați bine bicicleta și căutați un loc adăpostit.",
+                "en": "Lock your bike well and look for a covered shelter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche sind bei diesem Wetter absolut notwendig.",
+              "Reduzieren Sie den Reifendruck leicht für besseren Grip.",
+              "Vermeiden Sie abrupte Bremsmanöver auf nassem Asphalt.",
+              "Tragen Sie neongelbe Regenkleidung für bessere Sichtbarkeit.",
+              "Reinigen Sie Ihre Kette nach der Tour vom salzigen Spritzwasser."
+            ],
+            "hu": [
+              "A sárvédő ebben az időben elengedhetetlen tartozék.",
+              "Csökkentse kicsit a guminyomást a jobb tapadás érdekében.",
+              "Kerülje a hirtelen fékezést a vizes aszfalton.",
+              "Viseljen feltűnő esőruházatot a jobb láthatóságért.",
+              "A túra után tisztítsa meg a láncot a sós vízpermettől."
+            ],
+            "ro": [
+              "Apărătorile de noroi sunt absolut necesare pe această vreme.",
+              "Reduceți ușor presiunea în pneuri pentru o aderență mai bună.",
+              "Evitați frânările bruște pe asfaltul umed și alunecos.",
+              "Purtați haine de ploaie reflectorizante pentru vizibilitate sporită.",
+              "Curățați lanțul după tură pentru a elimina apa sărată."
+            ],
+            "en": [
+              "Mudguards are absolutely necessary in this weather.",
+              "Reduce tire pressure slightly for better grip on wet roads.",
+              "Avoid abrupt braking maneuvers on wet asphalt.",
+              "Wear high-visibility rain gear for better safety.",
+              "Clean your chain after the ride to remove salty spray."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Wintermorgen beginnt mit einer Fahrt zur Zitadelle unter klarem Himmel. Mittags kurbeln wir uns zum Trinitat Castle hoch, wo uns die Anstrengung warm hält. Nachmittags geht es weiter zum Leuchtturm, während das Licht der Wintersonne das Meer in Silber taucht. Der Tag endet mit einer schnellen Rückfahrt entlang der windigen Promenade, bevor die Kälte der Nacht einsetzt.",
+            "hu": "A friss téli reggelen a Citadellához tekerünk a tiszta égbolt alatt. Délben felküzdjük magunkat a Trinitat várhoz, a mozgás segít melegen tartani a testet. Délután a világítótorony felé vesszük az irányt, miközben a téli nap ezüstre festi a tengert. A nap egy gyors visszatekeréssel zárul a szeles sétányon, mielőtt beállna az esti hideg.",
+            "ro": "O dimineață răcoroasă de iarnă începe cu o tură spre cetate sub cerul senin. La prânz urcăm spre Castelul Trinitat, efortul menținându-ne căldura corporală. După-amiaza continuăm spre far, în timp ce lumina iernii argintează marea. Ziua se încheie cu o întoarcere rapidă pe faleza vântoasă, înainte de lăsarea frigului serii.",
+            "en": "A crisp winter morning starts with a ride to the Citadel under clear skies. At noon, we pedal up to Trinitat Castle, the exertion keeping us warm. In the afternoon, we head to the lighthouse as the winter sun turns the sea to silver. The day ends with a quick ride back along the windy promenade before the night chill sets in."
+          },
+          "stops": [
+            {
+              "name": "Citadel of Roses",
+              "tip_4lang": {
+                "de": "Stellen Sie Ihr Rad im Windschatten der Mauern ab.",
+                "hu": "Parkolja a biciklit a falak szélvédett oldalán.",
+                "ro": "Parcați bicicleta la adăpostul zidurilor cetății.",
+                "en": "Park your bike in the wind shadow of the walls."
+              }
+            },
+            {
+              "name": "Trinitat Castle",
+              "tip_4lang": {
+                "de": "Oben angekommen, ziehen Sie sofort eine Windjacke über.",
+                "hu": "Amint felért, azonnal vegyen fel egy szélálló dzsekit.",
+                "ro": "Odată ajuns sus, puneți imediat o jachetă de vânt.",
+                "en": "Once at the top, immediately put on a windbreaker."
+              }
+            },
+            {
+              "name": "Roses Lighthouse",
+              "tip_4lang": {
+                "de": "Halten Sie die Griffe fest, der Wind am Kap ist im Winter stark.",
+                "hu": "Fogja erősen a kormányt, a foknál télen erős a szél.",
+                "ro": "Țineți bine ghidonul, vântul la capăt e puternic iarna.",
+                "en": "Hold the bars tight, the wind at the cape is strong in winter."
+              }
+            },
+            {
+              "name": "Passeig Marítim",
+              "tip_4lang": {
+                "de": "Genießen Sie den freien Radweg ohne Fußgänger.",
+                "hu": "Élvezze a szabad kerékpárutat gyalogosok nélkül.",
+                "ro": "Bucurați-vă de pista de biciclete liberă de pietoni.",
+                "en": "Enjoy the empty bike path without any pedestrians."
+              }
+            },
+            {
+              "name": "Platja de la Punta",
+              "tip_4lang": {
+                "de": "Ein kurzer Stopp reicht, die Kälte zieht schnell in die Glieder.",
+                "hu": "Egy rövid megálló elég, a hideg hamar átjárja a végtagokat.",
+                "ro": "O oprire scurtă e suficientă, frigul pătrunde repede.",
+                "en": "A short stop is enough, the cold seeps in quickly."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Thermo-Fahrradhandschuhe gegen den kalten Wind.",
+              "Ein Stirnband unter dem Helm schützt Ihre Ohren.",
+              "Die Tage sind kurz, stellen Sie sicher, dass Ihr Licht funktioniert.",
+              "Verwenden Sie Lippenbalsam gegen das Austrocknen im Wind.",
+              "Vermeiden Sie langes Stehenbleiben, um nicht auszukühlen."
+            ],
+            "hu": [
+              "Viseljen termo kerékpáros kesztyűt a hideg szél ellen.",
+              "A sisak alatt viselt pánt védi a fület a fagyástól.",
+              "A nappalok rövidek, ellenőrizze a világítás működését.",
+              "Használjon ajakírt a szél okozta kiszáradás ellen.",
+              "Kerülje a hosszú egy helyben állást, hogy ne hűljön ki."
+            ],
+            "ro": [
+              "Purtați mănuși termice de ciclism împotriva vântului rece.",
+              "O bentiță sub cască vă va proteja urechile de frig.",
+              "Zilele sunt scurte, asigurați-vă că luminile funcționează.",
+              "Folosiți balsam de buze împotriva uscării cauzate de vânt.",
+              "Evitați staționările lungi pentru a nu vă răci corpul."
+            ],
+            "en": [
+              "Wear thermal cycling gloves against the cold wind.",
+              "A headband under your helmet will protect your ears.",
+              "Days are short, make sure your bike lights are working.",
+              "Use lip balm against drying out in the wind.",
+              "Avoid standing still for too long to prevent chilling."
+            ]
+          }
+        }
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 18.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Dolmen de la Creu d'en Cobertella",
+            "hu": "Dolmen de la Creu d'en Cobertella",
+            "ro": "Dolmen de la Creu d'en Cobertella",
+            "en": "Dolmen de la Creu d'en Cobertella"
+          },
+          "coords": [
+            3.1955,
+            42.2755
+          ],
+          "category": "museums",
+          "arrive_at": "09:15",
+          "stay_min": 70,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Größter Dolmen in Katalonien.",
+            "hu": "Katalónia legnagyobb dolmenje.",
+            "ro": "Cel mai mare dolmen din Catalonia.",
+            "en": "The largest dolmen in Catalonia."
+          }
+        },
+        {
+          "name": {
+            "de": "Ciutadella de Roses",
+            "hu": "Roses citadellája",
+            "ro": "Ciutadella de Roses",
+            "en": "Citadel of Roses"
+          },
+          "coords": [
+            3.1695,
+            42.2662
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:45",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Großer Parkplatz direkt am Eingang.",
+            "hu": "Nagy parkoló közvetlenül a bejáratnál.",
+            "ro": "Parcare mare chiar la intrare.",
+            "en": "Large parking lot located right at the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Castell de la Trinitat",
+            "hu": "Szentháromság-vár",
+            "ro": "Castell de la Trinitat",
+            "en": "Trinitat Castle"
+          },
+          "coords": [
+            3.1905,
+            42.2475
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Bequeme Anfahrt mit dem Auto möglich.",
+            "hu": "Kényelmesen megközelíthető autóval.",
+            "ro": "Acces confortabil cu mașina.",
+            "en": "Easily accessible by car."
+          }
+        },
+        {
+          "name": {
+            "de": "Empuriabrava - Kanäle",
+            "hu": "Empuriabrava csatornái",
+            "ro": "Canalele Empuriabrava",
+            "en": "Empuriabrava Canals"
+          },
+          "coords": [
+            3.1255,
+            42.2475
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Das 'Venedig Spaniens' ist nur 10 Min. entfernt.",
+            "hu": "A 'spanyol Velence' csak 10 percre van.",
+            "ro": "„Veneția Spaniei” este la doar 10 minute distanță.",
+            "en": "The 'Venice of Spain' is just a 10-minute drive."
+          }
+        },
+        {
+          "name": {
+            "de": "Platja de la Punta",
+            "hu": "Punta strand",
+            "ro": "Platja de la Punta",
+            "en": "Platja de la Punta"
+          },
+          "coords": [
+            3.1795,
+            42.2595
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:10",
+          "stay_min": 95,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Parkhaus im Zentrum nutzen.",
+            "hu": "Használja a központi parkolóházat.",
+            "ro": "Folosiți parcarea etajată din centru.",
+            "en": "Use the multi-story car park in the center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden wir die prähistorischen Schätze und die Umgebung von Roses. Wir beginnen beim beeindruckenden Dolmen in den Hügeln.\n\nMittags besuchen wir die Ciutadella und das Castell de la Trinitat, wobei uns das Auto die steilen Wege abnimmt.\n\nNachmittags machen wir einen Ausflug ins nahegelegene Empuriabrava, um die berühmten Kanäle zu bewundern.\n\nDer Tag endet entspannt in Roses am Strand, von wo aus wir flexibel zu einem der besten Fischrestaurants der Region weiterfahren können.",
+        "hu": "Autóval fedezzük fel Roses őskori kincseit és környékét. A dombok között található lenyűgöző dolmennél kezdünk.\n\nDélben meglátogatjuk a Citadellát és a Szentháromság-várat, az autóval megspórolva a meredek szakaszokat.\n\nDélután egy kirándulást teszünk a közeli Empuriabravába, hogy megcsodáljuk a híres csatornákat.\n\nA napot Roses strandján zárjuk, ahonnan rugalmasan továbbutazhatunk a régió egyik legjobb haléttermébe.",
+        "ro": "Cu mașina explorăm comorile preistorice și împrejurimile orașului Roses. Începem la impresionantul dolmen din dealuri.\n\nLa prânz vizităm Ciutadella și Castell de la Trinitat, mașina scutindu-ne de drumurile abrupte.\n\nDupă-amiaza facem o excursie în apropiere, la Empuriabrava, pentru a admira faimoasele canale.\n\nZiua se încheie relaxat în Roses, la plajă, de unde putem merge flexibil la unul dintre cele mai bune restaurante de pește din regiune.",
+        "en": "By car, we explore the prehistoric treasures and the surroundings of Roses. We start at the impressive dolmen in the hills.\n\nAt noon, we visit the Citadel and Trinitat Castle, with the car handling the steep sections for us.\n\nIn the afternoon, we take a trip to nearby Empuriabrava to admire its famous canals.\n\nThe day ends relaxingly at Roses beach, from where we can flexibly drive to one of the region's best seafood restaurants."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Butifarra con Alubias",
+            "tip": "Katalanische Wurst mit weißen Bohnen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Butifarra con Alubias",
+            "tip": "Katalán kolbász fehér babbal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Butifarra con Alubias",
+            "tip": "Cârnați catalani cu fasole albă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Butifarra con Alubias",
+            "tip": "Catalan sausage served with white beans."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Cap de Creus",
+            "tip": "Wildes Kap mit fantastischer Aussicht.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cap de Creus",
+            "tip": "Vad fok fantasztikus kilátással.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cap de Creus",
+            "tip": "Cap sălbatic cu o vedere fantastică.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cap de Creus",
+            "tip": "A wild cape with breathtaking panoramic views.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Vinya Roses",
+            "tip": "Lokaler Wein und Olivenöl."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vinya Roses",
+            "tip": "Helyi borok és olívaolaj."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vinya Roses",
+            "tip": "Vin local și ulei de măsline."
+          }
+        ],
+        "en": [
+          {
+            "name": "Vinya Roses",
+            "tip": "Local wines and high-quality olive oil."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die Parkplätze am Hafen.",
+          "Die Straße zum Dolmen ist schmal, fahren Sie vorsichtig.",
+          "Ein Besuch im Naturpark Aiguamolls lohnt sich.",
+          "Parken im Sand ist verboten."
+        ],
+        "hu": [
+          "Használja a kikötői parkolókat.",
+          "A dolmenhez vezető út keskeny, vezessen óvatosan.",
+          "Az Aiguamolls natúrpark látogatása megéri az utat.",
+          "A homokban parkolni tilos."
+        ],
+        "ro": [
+          "Folosiți parcările din port.",
+          "Drumul spre dolmen este îngust, conduceți cu atenție.",
+          "O vizită la parcul natural Aiguamolls merită.",
+          "Parcarea pe nisip este interzisă."
+        ],
+        "en": [
+          "Utilize the parking areas near the harbor.",
+          "The road to the dolmen is narrow, drive carefully.",
+          "A visit to the Aiguamolls Natural Park is well worth it.",
+          "Parking on the sand is strictly prohibited."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden wir die prähistorischen Schätze und die Umgebung von Roses. Wir beginnen beim beeindruckenden Dolmen in den Hügeln.\n\nMittags besuchen wir die Ciutadella und das Castell de la Trinitat, wobei uns das Auto die steilen Wege abnimmt.\n\nNachmittags machen wir einen Ausflug ins nahegelegene Empuriabrava, um die berühmten Kanäle zu bewundern.\n\nDer Tag endet entspannt in Roses am Strand, von wo aus wir flexibel zu einem der besten Fischrestaurants der Region weiterfahren können.",
+            "hu": "Autóval fedezzük fel Roses őskori kincseit és környékét. A dombok között található lenyűgöző dolmennél kezdünk.\n\nDélben meglátogatjuk a Citadellát és a Szentháromság-várat, az autóval megspórolva a meredek szakaszokat.\n\nDélután egy kirándulást teszünk a közeli Empuriabravába, hogy megcsodáljuk a híres csatornákat.\n\nA napot Roses strandján zárjuk, ahonnan rugalmasan továbbutazhatunk a régió egyik legjobb haléttermébe.",
+            "ro": "Cu mașina explorăm comorile preistorice și împrejurimile orașului Roses. Începem la impresionantul dolmen din dealuri.\n\nLa prânz vizităm Ciutadella și Castell de la Trinitat, mașina scutindu-ne de drumurile abrupte.\n\nDupă-amiaza facem o excursie în apropiere, la Empuriabrava, pentru a admira faimoasele canale.\n\nZiua se încheie relaxat în Roses, la plajă, de unde putem merge flexibil la unul dintre cele mai bune restaurante de pește din regiune.",
+            "en": "By car, we explore the prehistoric treasures and the surroundings of Roses. We start at the impressive dolmen in the hills.\n\nAt noon, we visit the Citadel and Trinitat Castle, with the car handling the steep sections for us.\n\nIn the afternoon, we take a trip to nearby Empuriabrava to admire its famous canals.\n\nThe day ends relaxingly at Roses beach, from where we can flexibly drive to one of the region's best seafood restaurants."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Dolmen de la Creu d'en Cobertella",
+                "hu": "Dolmen de la Creu d'en Cobertella",
+                "ro": "Dolmen de la Creu d'en Cobertella",
+                "en": "Dolmen de la Creu d'en Cobertella"
+              },
+              "tip_5lang": {
+                "de": "Größter Dolmen in Katalonien.",
+                "hu": "Katalónia legnagyobb dolmenje.",
+                "ro": "Cel mai mare dolmen din Catalonia.",
+                "en": "The largest dolmen in Catalonia."
+              }
+            },
+            {
+              "name": {
+                "de": "Ciutadella de Roses",
+                "hu": "Roses citadellája",
+                "ro": "Ciutadella de Roses",
+                "en": "Citadel of Roses"
+              },
+              "tip_5lang": {
+                "de": "Großer Parkplatz direkt am Eingang.",
+                "hu": "Nagy parkoló közvetlenül a bejáratnál.",
+                "ro": "Parcare mare chiar la intrare.",
+                "en": "Large parking lot located right at the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Castell de la Trinitat",
+                "hu": "Szentháromság-vár",
+                "ro": "Castell de la Trinitat",
+                "en": "Trinitat Castle"
+              },
+              "tip_5lang": {
+                "de": "Bequeme Anfahrt mit dem Auto möglich.",
+                "hu": "Kényelmesen megközelíthető autóval.",
+                "ro": "Acces confortabil cu mașina.",
+                "en": "Easily accessible by car."
+              }
+            },
+            {
+              "name": {
+                "de": "Empuriabrava - Kanäle",
+                "hu": "Empuriabrava csatornái",
+                "ro": "Canalele Empuriabrava",
+                "en": "Empuriabrava Canals"
+              },
+              "tip_5lang": {
+                "de": "Das 'Venedig Spaniens' ist nur 10 Min. entfernt.",
+                "hu": "A 'spanyol Velence' csak 10 percre van.",
+                "ro": "„Veneția Spaniei” este la doar 10 minute distanță.",
+                "en": "The 'Venice of Spain' is just a 10-minute drive."
+              }
+            },
+            {
+              "name": {
+                "de": "Platja de la Punta",
+                "hu": "Punta strand",
+                "ro": "Platja de la Punta",
+                "en": "Platja de la Punta"
+              },
+              "tip_5lang": {
+                "de": "Parkhaus im Zentrum nutzen.",
+                "hu": "Használja a központi parkolóházat.",
+                "ro": "Folosiți parcarea etajată din centru.",
+                "en": "Use the multi-story car park in the center."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Butifarra con Alubias",
+                "tip": "Katalanische Wurst mit weißen Bohnen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Butifarra con Alubias",
+                "tip": "Katalán kolbász fehér babbal."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Butifarra con Alubias",
+                "tip": "Cârnați catalani cu fasole albă."
+              }
+            ],
+            "en": [
+              {
+                "name": "Butifarra con Alubias",
+                "tip": "Catalan sausage served with white beans."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Cap de Creus",
+                "tip": "Wildes Kap mit fantastischer Aussicht.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Cap de Creus",
+                "tip": "Vad fok fantasztikus kilátással.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Cap de Creus",
+                "tip": "Cap sălbatic cu o vedere fantastică.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Cap de Creus",
+                "tip": "A wild cape with breathtaking panoramic views.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Vinya Roses",
+                "tip": "Lokaler Wein und Olivenöl."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Vinya Roses",
+                "tip": "Helyi borok és olívaolaj."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Vinya Roses",
+                "tip": "Vin local și ulei de măsline."
+              }
+            ],
+            "en": [
+              {
+                "name": "Vinya Roses",
+                "tip": "Local wines and high-quality olive oil."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Nutzen Sie die Parkplätze am Hafen.",
+              "Die Straße zum Dolmen ist schmal, fahren Sie vorsichtig.",
+              "Ein Besuch im Naturpark Aiguamolls lohnt sich.",
+              "Parken im Sand ist verboten."
+            ],
+            "hu": [
+              "Használja a kikötői parkolókat.",
+              "A dolmenhez vezető út keskeny, vezessen óvatosan.",
+              "Az Aiguamolls natúrpark látogatása megéri az utat.",
+              "A homokban parkolni tilos."
+            ],
+            "ro": [
+              "Folosiți parcările din port.",
+              "Drumul spre dolmen este îngust, conduceți cu atenție.",
+              "O vizită la parcul natural Aiguamolls merită.",
+              "Parcarea pe nisip este interzisă."
+            ],
+            "en": [
+              "Utilize the parking areas near the harbor.",
+              "The road to the dolmen is narrow, drive carefully.",
+              "A visit to the Aiguamolls Natural Park is well worth it.",
+              "Parking on the sand is strictly prohibited."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir starten trocken mit einer Fahrt zum prähistorischen Dolmen. Mittags bietet die Zitadelle mit ihrem Museum eine ideale Indoor-Beschäftigung. Am Nachmittag fahren wir hinauf zum Trinitat Castle, wo man die Aussicht bequem aus dem Auto genießen kann. Der Tag endet mit einer Panoramafahrt entlang der Kanäle von Empuriabrava, während die Regentropfen auf das Schiebedach trommeln.",
+            "hu": "Szárazon indulunk az őskori dolmenek felé. Délben a Citadella és múzeuma ideális beltéri programot kínál az esőben. Délután felautózunk a Trinitat várhoz, ahonnan a kilátást kényelmesen, az autóból is élvezhetjük. A napot az Empuriabrava csatornái melletti autózással zárjuk, miközben az esőcseppek dobolnak a tetőn.",
+            "ro": "Începem fără grija ploii cu o vizită la dolmenii preistorici. La prânz, cetatea cu muzeul său oferă o activitate ideală de interior. După-amiaza urcăm cu mașina la Castelul Trinitat, unde panorama poate fi admirată din confortul vehiculului. Ziua se încheie cu o plimbare auto pe lângă canalele din Empuriabrava.",
+            "en": "We start dry with a drive to the prehistoric dolmens. At noon, the Citadel and its museum offer an ideal indoor activity during the rain. In the afternoon, we drive up to Trinitat Castle, where the view can be comfortably enjoyed from the car. The day ends with a scenic drive along the canals of Empuriabrava as raindrops drum on the roof."
+          },
+          "stops": [
+            {
+              "name": "Dolmen de la Creu d'en Cobertella",
+              "tip_4lang": {
+                "de": "Parken Sie so nah wie möglich, der Weg zum Dolmen ist kurz.",
+                "hu": "Parkoljon a lehető legközelebb, a dolmenhez vezető út rövid.",
+                "ro": "Parcați cât mai aproape, drumul până la dolmen este scurt.",
+                "en": "Park as close as possible, the path to the dolmen is short."
+              }
+            },
+            {
+              "name": "Citadel of Roses",
+              "tip_4lang": {
+                "de": "Es gibt einen großen Parkplatz direkt vor dem Haupteingang.",
+                "hu": "Közvetlenül a főbejárat előtt tágas parkoló található.",
+                "ro": "Există o parcare mare chiar în fața intrării principale.",
+                "en": "There is a large parking lot right in front of the main entrance."
+              }
+            },
+            {
+              "name": "Trinitat Castle",
+              "tip_4lang": {
+                "de": "Die Straße nach oben ist schmal, fahren Sie bei Regen vorsichtig.",
+                "hu": "A felfelé vezető út szűk, esőben vezessen óvatosan.",
+                "ro": "Drumul spre vârf este îngust, conduceți prudent pe ploaie.",
+                "en": "The road up is narrow, drive carefully in the rain."
+              }
+            },
+            {
+              "name": "Empuriabrava Canals",
+              "tip_4lang": {
+                "de": "Genießen Sie die Fahrt durch das 'Venedig Spaniens' vom Auto aus.",
+                "hu": "Élvezze a 'spanyol Velence' látványát az autóból.",
+                "ro": "Bucurați-vă de 'Veneția Spaniei' din confortul mașinii.",
+                "en": "Enjoy the 'Venice of Spain' from the comfort of your car."
+              }
+            },
+            {
+              "name": "Platja de la Punta",
+              "tip_4lang": {
+                "de": "Finden Sie einen Parkplatz mit Blick aufs stürmische Meer.",
+                "hu": "Keressen egy parkolóhelyet kilátással a viharos tengerre.",
+                "ro": "Găsiți un loc de parcare cu vedere la marea învolburată.",
+                "en": "Find a parking spot with a view of the stormy sea."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Zustand Ihrer Scheibenwischer vor der Abfahrt.",
+              "Parkplätze an der Küste sind bei Regen meist leicht zu finden.",
+              "Vermeiden Sie unbefestigte Parkflächen, die matschig sein könnten.",
+              "Lüften Sie das Auto gut, um das Beschlagen der Scheiben zu verhindern.",
+              "Nutzen Sie die Fahrt für Abstecher in kleine Küstenorte."
+            ],
+            "hu": [
+              "Indulás előtt ellenőrizze az ablaktörlők állapotát.",
+              "A tengerparti parkolók esőben általában könnyen elérhetőek.",
+              "Kerülje a nem aszfaltozott parkolókat a sárveszély miatt.",
+              "Szellőztesse jól az autót, hogy elkerülje a szélvédő párásodását.",
+              "Használja ki az autót a közeli kis parti falvak felfedezésére."
+            ],
+            "ro": [
+              "Verificați starea ștergătoarelor înainte de a porni la drum.",
+              "Locurile de parcare de pe coastă sunt ușor de găsit când plouă.",
+              "Evitați parcările neamenajate care pot deveni noroioase.",
+              "Ventilați bine mașina pentru a preveni aburirea geamurilor.",
+              "Folosiți mașina pentru scurte incursiuni în satele vecine."
+            ],
+            "en": [
+              "Check the condition of your wipers before starting the trip.",
+              "Coastal parking spots are usually easy to find in the rain.",
+              "Avoid unpaved parking areas that might become muddy.",
+              "Ventilate the car well to prevent windows from fogging up.",
+              "Use the car to explore nearby small coastal villages."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "An einem sonnigen Wintermorgen fahren wir zuerst zum Dolmen in den Hügeln. Mittags erkunden wir die geschichtsträchtige Zitadelle, bevor es zum Trinitat Castle geht. Am Nachmittag ist die Fahrt entlang der Kanäle von Empuriabrava besonders stimmungsvoll im goldenen Licht. Den Tag lassen wir mit dem Auto direkt am Strand von Platja de la Punta ausklingen, um den Sonnenuntergang im Warmen zu sehen.",
+            "hu": "Egy napsütéses téli reggelen először a dombok közötti dolmenhez autózunk. Délben a történelmi Citadellát fedezzük fel, majd a Trinitat vár következik. Délután az Empuriabrava csatornái melletti autózás különösen hangulatos az aranyló fényekben. A napot az autóban ülve, a tengerparton zárjuk, élvezve a naplementét a meleg utastérből.",
+            "ro": "Într-o dimineață însorită de iarnă, conducem spre dolmenii din dealuri. La prânz explorăm cetatea istorică înainte de a urca la Castelul Trinitat. După-amiaza, plimbarea pe lângă canalele din Empuriabrava este deosebită în lumina aurie. Încheiem ziua direct pe plajă, admirând apusul din mașina încălzită.",
+            "en": "On a sunny winter morning, we first drive to the dolmens in the hills. At noon, we explore the historic Citadel before heading to Trinitat Castle. In the afternoon, the drive along the canals of Empuriabrava is especially atmospheric in the golden light. We end the day right by the beach, enjoying the sunset from the warm car interior."
+          },
+          "stops": [
+            {
+              "name": "Dolmen de la Creu d'en Cobertella",
+              "tip_4lang": {
+                "de": "In den Hügeln kann es im Winter deutlich kühler sein.",
+                "hu": "A dombok között télen érezhetően hűvösebb lehet az idő.",
+                "ro": "În dealuri poate fi considerabil mai răcoare în timpul iernii.",
+                "en": "In the hills, it can be significantly cooler during winter."
+              }
+            },
+            {
+              "name": "Citadel of Roses",
+              "tip_4lang": {
+                "de": "Nutzen Sie den windgeschützten Parkplatz direkt am Eingang.",
+                "hu": "Használja a bejáratnál lévő szélvédett parkolót.",
+                "ro": "Folosiți parcarea protejată de vânt de la intrare.",
+                "en": "Use the wind-sheltered parking lot right at the entrance."
+              }
+            },
+            {
+              "name": "Trinitat Castle",
+              "tip_4lang": {
+                "de": "Die Aussicht auf die Pyrenäen ist im Winter am klarsten.",
+                "hu": "A kilátás a Pireneusokra télen a legtisztább.",
+                "ro": "Vederea spre Pirinei este cea mai clară în timpul iernii.",
+                "en": "The view of the Pyrenees is clearest during winter."
+              }
+            },
+            {
+              "name": "Empuriabrava Canals",
+              "tip_4lang": {
+                "de": "Die tiefstehende Sonne spiegelt sich wunderschön im Wasser.",
+                "hu": "Az alacsonyan járó nap gyönyörűen csillog a csatornák vizén.",
+                "ro": "Soarele jos se reflectă superb în apa canalelor.",
+                "en": "The low winter sun reflects beautifully in the canal water."
+              }
+            },
+            {
+              "name": "Platja de la Punta",
+              "tip_4lang": {
+                "de": "Ein idealer Ort für den Sonnenuntergang ohne zu frieren.",
+                "hu": "Ideális helyszín a naplemente nézéséhez fázás nélkül.",
+                "ro": "Un loc ideal pentru apus fără a resimți frigul.",
+                "en": "An ideal spot for the sunset without feeling the cold."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Wintersonne kann beim Fahren stark blenden, Sonnenbrille mitnehmen.",
+              "Prüfen Sie den Reifendruck, er sinkt bei Kälte oft leicht ab.",
+              "Die Parkplatzsituation ist im Winter extrem entspannt.",
+              "Heizen Sie das Auto vor, um die Fahrt gemütlich zu machen.",
+              "Beachten Sie die frühen Schließzeiten einiger Attraktionen."
+            ],
+            "hu": [
+              "A téli nap vezetés közben vakíthat, vigyen napszemüveget.",
+              "Ellenőrizze a guminyomást, a hidegben gyakran csökken.",
+              "A parkolás télen rendkívül egyszerű és kényelmes.",
+              "Fűtse fel az autót, hogy a megállók között komfortos legyen az út.",
+              "Ügyeljen a látnivalók korábbi téli zárási időpontjaira."
+            ],
+            "ro": [
+              "Soarele de iarnă poate fi orbitor la volan, luați ochelari de soare.",
+              "Verificați presiunea în pneuri, aceasta scade adesea la rece.",
+              "Situația parcărilor este extrem de relaxată în timpul iernii.",
+              "Încălziți mașina pentru a face călătoria cât mai confortabilă.",
+              "Atenție la orele de închidere timpurii ale obiectivelor turistice."
+            ],
+            "en": [
+              "The winter sun can be dazzling while driving, bring sunglasses.",
+              "Check tire pressure as it often drops in cold weather.",
+              "The parking situation is extremely relaxed during winter.",
+              "Pre-heat the car to make the drive between stops cozy.",
+              "Note the early winter closing times of some attractions."
+            ]
+          }
+        }
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 10.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Ciutadella de Roses",
+            "hu": "Roses citadellája",
+            "ro": "Ciutadella de Roses",
+            "en": "Citadel of Roses"
+          },
+          "coords": [
+            3.1695,
+            42.2662
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Bushaltestelle 'Citadella' direkt davor.",
+            "hu": "Buszmegálló: 'Citadella' közvetlenül előtte.",
+            "ro": "Stația de autobuz 'Citadella' chiar în față.",
+            "en": "The 'Citadella' bus stop is directly in front."
+          }
+        },
+        {
+          "name": {
+            "de": "Santa Maria de Roses",
+            "hu": "Rosesi Szűz Mária-templom",
+            "ro": "Santa Maria de Roses",
+            "en": "Santa Maria de Roses"
+          },
+          "coords": [
+            3.1775,
+            42.2635
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "In der Nähe des zentralen Busbahnhofs.",
+            "hu": "A központi buszpályaudvar közelében.",
+            "ro": "Lângă autogara centrală.",
+            "en": "Located near the central bus station."
+          }
+        },
+        {
+          "name": {
+            "de": "Passeig Marítim",
+            "hu": "Tengerparti sétány",
+            "ro": "Passeig Marítim",
+            "en": "Passeig Marítim"
+          },
+          "coords": [
+            3.1755,
+            42.2615
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Zentraler Treffpunkt für alle Buslinien.",
+            "hu": "Minden buszjárat központi találkozóhelye.",
+            "ro": "Punct de întâlnire central pentru toate liniile.",
+            "en": "The central meeting point for all bus lines."
+          }
+        },
+        {
+          "name": {
+            "de": "Castell de la Trinitat",
+            "hu": "Szentháromság-vár",
+            "ro": "Castell de la Trinitat",
+            "en": "Trinitat Castle"
+          },
+          "coords": [
+            3.1905,
+            42.2475
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Nutzen Sie den touristischen Zug 'Roses Express'.",
+            "hu": "Használja a 'Roses Express' kisvonatot.",
+            "ro": "Folosiți trenulețul turistic 'Roses Express'.",
+            "en": "Ride the 'Roses Express' tourist train."
+          }
+        },
+        {
+          "name": {
+            "de": "Platja de la Punta",
+            "hu": "Punta strand",
+            "ro": "Platja de la Punta",
+            "en": "Platja de la Punta"
+          },
+          "coords": [
+            3.1795,
+            42.2595
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:40",
+          "stay_min": 125,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Letzte Haltestelle vor der Rückfahrt.",
+            "hu": "Utolsó megálló a visszautazás előtt.",
+            "ro": "Ultima stație înainte de întoarcere.",
+            "en": "The final stop before heading back."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Bus und dem touristischen Zug erkunden wir Roses stressfrei. Wir starten bei der Ciutadella und dem historischen Zentrum.\n\nMittags genießen wir das bunte Treiben auf der Promenade, bevor wir den 'Roses Express' zum Castell de la Trinitat nehmen.\n\nDer touristische Zug bietet eine tolle Aussicht während der Fahrt und erspart uns den steilen Aufstieg.\n\nDer Tag endet entspannt am Strand, von wo aus wir den Busbahnhof in wenigen Minuten zu Fuß erreichen können.",
+        "hu": "Busszal és a kisvonattal stresszmentesen fedezzük fel Rosest. A Citadellánál és a történelmi központban kezdünk.\n\nDélben élvezzük a nyüzsgést a sétányon, mielőtt felszállnánk a 'Roses Express'-re a Szentháromság-várhoz.\n\nA kisvonat remek kilátást nyújt az út alatt, és megkímél minket a meredek emelkedőtől.\n\nA napot a strandon zárjuk, ahonnan a buszpályaudvar pár perc alatt elérhető gyalog.",
+        "ro": "Cu autobuzul și trenulețul turistic explorăm Roses fără stres. Începem la Ciutadella și centrul istoric.\n\nLa prânz ne bucurăm de agitația de pe faleză, înainte de a lua 'Roses Express' spre Castell de la Trinitat.\n\nTrenulețul turistic oferă o vedere excelentă în timpul călătoriei și ne scutește de urcarea abruptă.\n\nZiua se încheie relaxat la plajă, de unde putem ajunge la autogară în câteva minute pe jos.",
+        "en": "Explore Roses stress-free using the bus and the tourist train. We start at the Citadel and the historical center.\n\nAt noon, enjoy the bustle on the promenade before catching the 'Roses Express' to Trinitat Castle.\n\nThe tourist train provides great views during the ride and saves us the steep walk up.\n\nThe day ends relaxingly at the beach, just a few minutes' walk from the bus station."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Escalivada",
+            "tip": "Geröstetes Gemüse mit Olivenöl."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Escalivada",
+            "tip": "Sült zöldségek olívaolajjal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Escalivada",
+            "tip": "Legume coapte cu ulei de măsline."
+          }
+        ],
+        "en": [
+          {
+            "name": "Escalivada",
+            "tip": "Roasted vegetables drizzled with olive oil."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Platja de Palangrers",
+            "tip": "Kleinerer, ruhigerer Strand.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Platja de Palangrers",
+            "tip": "Kisebb, nyugodtabb strand.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Platja de Palangrers",
+            "tip": "Plajă mai mică și mai liniștită.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Platja de Palangrers",
+            "tip": "A smaller and quieter beach option.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mercadillo de Roses",
+            "tip": "Großer Markt an Sonntagen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rosesi piac",
+            "tip": "Nagy piac vasárnaponként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața din Roses",
+            "tip": "Piață mare în zilele de duminică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Roses Street Market",
+            "tip": "A large local market held every Sunday."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Fahrplan des Roses Express.",
+          "Einzelfahrscheine gibt es beim Fahrer.",
+          "Die Hauptstation ist 'SARFA Roses'.",
+          "In der Hochsaison können Busse Verspätung haben."
+        ],
+        "hu": [
+          "Ellenőrizze a Roses Express menetrendjét.",
+          "Vonaljegyet a vezetőnél lehet venni.",
+          "A fő megálló a 'SARFA Roses'.",
+          "Főszezonban a buszok késhetnek."
+        ],
+        "ro": [
+          "Verificați orarul pentru Roses Express.",
+          "Biletele individuale se cumpără de la șofer.",
+          "Stația principală este 'SARFA Roses'.",
+          "În plin sezon, autobuzele pot avea întârzieri."
+        ],
+        "en": [
+          "Check the Roses Express timetable in advance.",
+          "Single tickets can be purchased from the driver.",
+          "The main transport hub is 'SARFA Roses'.",
+          "Buses may experience delays during high season."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mit dem Bus und dem touristischen Zug erkunden wir Roses stressfrei. Wir starten bei der Ciutadella und dem historischen Zentrum.\n\nMittags genießen wir das bunte Treiben auf der Promenade, bevor wir den 'Roses Express' zum Castell de la Trinitat nehmen.\n\nDer touristische Zug bietet eine tolle Aussicht während der Fahrt und erspart uns den steilen Aufstieg.\n\nDer Tag endet entspannt am Strand, von wo aus wir den Busbahnhof in wenigen Minuten zu Fuß erreichen können.",
+            "hu": "Busszal és a kisvonattal stresszmentesen fedezzük fel Rosest. A Citadellánál és a történelmi központban kezdünk.\n\nDélben élvezzük a nyüzsgést a sétányon, mielőtt felszállnánk a 'Roses Express'-re a Szentháromság-várhoz.\n\nA kisvonat remek kilátást nyújt az út alatt, és megkímél minket a meredek emelkedőtől.\n\nA napot a strandon zárjuk, ahonnan a buszpályaudvar pár perc alatt elérhető gyalog.",
+            "ro": "Cu autobuzul și trenulețul turistic explorăm Roses fără stres. Începem la Ciutadella și centrul istoric.\n\nLa prânz ne bucurăm de agitația de pe faleză, înainte de a lua 'Roses Express' spre Castell de la Trinitat.\n\nTrenulețul turistic oferă o vedere excelentă în timpul călătoriei și ne scutește de urcarea abruptă.\n\nZiua se încheie relaxat la plajă, de unde putem ajunge la autogară în câteva minute pe jos.",
+            "en": "Explore Roses stress-free using the bus and the tourist train. We start at the Citadel and the historical center.\n\nAt noon, enjoy the bustle on the promenade before catching the 'Roses Express' to Trinitat Castle.\n\nThe tourist train provides great views during the ride and saves us the steep walk up.\n\nThe day ends relaxingly at the beach, just a few minutes' walk from the bus station."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ciutadella de Roses",
+                "hu": "Roses citadellája",
+                "ro": "Ciutadella de Roses",
+                "en": "Citadel of Roses"
+              },
+              "tip_5lang": {
+                "de": "Bushaltestelle 'Citadella' direkt davor.",
+                "hu": "Buszmegálló: 'Citadella' közvetlenül előtte.",
+                "ro": "Stația de autobuz 'Citadella' chiar în față.",
+                "en": "The 'Citadella' bus stop is directly in front."
+              }
+            },
+            {
+              "name": {
+                "de": "Santa Maria de Roses",
+                "hu": "Rosesi Szűz Mária-templom",
+                "ro": "Santa Maria de Roses",
+                "en": "Santa Maria de Roses"
+              },
+              "tip_5lang": {
+                "de": "In der Nähe des zentralen Busbahnhofs.",
+                "hu": "A központi buszpályaudvar közelében.",
+                "ro": "Lângă autogara centrală.",
+                "en": "Located near the central bus station."
+              }
+            },
+            {
+              "name": {
+                "de": "Passeig Marítim",
+                "hu": "Tengerparti sétány",
+                "ro": "Passeig Marítim",
+                "en": "Passeig Marítim"
+              },
+              "tip_5lang": {
+                "de": "Zentraler Treffpunkt für alle Buslinien.",
+                "hu": "Minden buszjárat központi találkozóhelye.",
+                "ro": "Punct de întâlnire central pentru toate liniile.",
+                "en": "The central meeting point for all bus lines."
+              }
+            },
+            {
+              "name": {
+                "de": "Castell de la Trinitat",
+                "hu": "Szentháromság-vár",
+                "ro": "Castell de la Trinitat",
+                "en": "Trinitat Castle"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den touristischen Zug 'Roses Express'.",
+                "hu": "Használja a 'Roses Express' kisvonatot.",
+                "ro": "Folosiți trenulețul turistic 'Roses Express'.",
+                "en": "Ride the 'Roses Express' tourist train."
+              }
+            },
+            {
+              "name": {
+                "de": "Platja de la Punta",
+                "hu": "Punta strand",
+                "ro": "Platja de la Punta",
+                "en": "Platja de la Punta"
+              },
+              "tip_5lang": {
+                "de": "Letzte Haltestelle vor der Rückfahrt.",
+                "hu": "Utolsó megálló a visszautazás előtt.",
+                "ro": "Ultima stație înainte de întoarcere.",
+                "en": "The final stop before heading back."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Escalivada",
+                "tip": "Geröstetes Gemüse mit Olivenöl."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Escalivada",
+                "tip": "Sült zöldségek olívaolajjal."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Escalivada",
+                "tip": "Legume coapte cu ulei de măsline."
+              }
+            ],
+            "en": [
+              {
+                "name": "Escalivada",
+                "tip": "Roasted vegetables drizzled with olive oil."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Platja de Palangrers",
+                "tip": "Kleinerer, ruhigerer Strand.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Platja de Palangrers",
+                "tip": "Kisebb, nyugodtabb strand.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Platja de Palangrers",
+                "tip": "Plajă mai mică și mai liniștită.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Platja de Palangrers",
+                "tip": "A smaller and quieter beach option.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Mercadillo de Roses",
+                "tip": "Großer Markt an Sonntagen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Rosesi piac",
+                "tip": "Nagy piac vasárnaponként."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Piața din Roses",
+                "tip": "Piață mare în zilele de duminică."
+              }
+            ],
+            "en": [
+              {
+                "name": "Roses Street Market",
+                "tip": "A large local market held every Sunday."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Prüfen Sie den Fahrplan des Roses Express.",
+              "Einzelfahrscheine gibt es beim Fahrer.",
+              "Die Hauptstation ist 'SARFA Roses'.",
+              "In der Hochsaison können Busse Verspätung haben."
+            ],
+            "hu": [
+              "Ellenőrizze a Roses Express menetrendjét.",
+              "Vonaljegyet a vezetőnél lehet venni.",
+              "A fő megálló a 'SARFA Roses'.",
+              "Főszezonban a buszok késhetnek."
+            ],
+            "ro": [
+              "Verificați orarul pentru Roses Express.",
+              "Biletele individuale se cumpără de la șofer.",
+              "Stația principală este 'SARFA Roses'.",
+              "În plin sezon, autobuzele pot avea întârzieri."
+            ],
+            "en": [
+              "Check the Roses Express timetable in advance.",
+              "Single tickets can be purchased from the driver.",
+              "The main transport hub is 'SARFA Roses'.",
+              "Buses may experience delays during high season."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Bus geht es trocken zur Zitadelle, wo das Museum wartet. Mittags bietet die Kirche Santa Maria im Zentrum Schutz vor den Schauern. Am Nachmittag spazieren wir kurz über den Passeig Marítim, bevor wir den Bus zum Trinitat Castle nehmen. Den Abend lassen wir entspannt in einem Café am Strand ausklingen, während wir auf die Rückfahrt warten.",
+            "hu": "Busszal indulunk a Citadellához, ahol a múzeum nyújt menedéket. Délben a központi Santa Maria templom véd meg a záporoktól. Délután teszünk egy rövid sétát a sétányon, majd busszal megyünk fel a Trinitat várhoz. Az estét egy tengerparti kávézóban zárjuk, miközben a visszaútra várunk.",
+            "ro": "Mergem cu autobuzul spre cetate, unde muzeul oferă adăpost. La prânz, biserica Santa Maria din centru ne ferește de averse. După-amiaza ne plimbăm scurt pe faleză înainte de a lua autobuzul spre Castelul Trinitat. Seara se încheie relaxat la o cafenea, așteptând cursa de întoarcere.",
+            "en": "We take the bus to the Citadel, where the museum provides shelter. At noon, Santa Maria church in the center protects us from the showers. In the afternoon, a short walk on the promenade is followed by a bus ride to Trinitat Castle. The evening ends at a cozy cafe while waiting for the return trip."
+          },
+          "stops": [
+            {
+              "name": "Citadel of Roses",
+              "tip_4lang": {
+                "de": "Die Bushaltestelle befindet sich fast direkt vor dem Eingang.",
+                "hu": "A buszmegálló szinte közvetlenül a bejárat előtt van.",
+                "ro": "Stația de autobuz se află aproape de intrarea principală.",
+                "en": "The bus stop is located almost directly in front of the entrance."
+              }
+            },
+            {
+              "name": "Santa Maria de Roses",
+              "tip_4lang": {
+                "de": "Vom Stadtzentrum aus sind alle Busverbindungen schnell erreichbar.",
+                "hu": "A városközpontból minden buszjárat könnyen elérhető.",
+                "ro": "Din centrul orașului, toate conexiunile sunt ușor accesibile.",
+                "en": "From the city center, all bus connections are easily accessible."
+              }
+            },
+            {
+              "name": "Passeig Marítim",
+              "tip_4lang": {
+                "de": "Die Wartehäuschen an der Promenade bieten Schutz vor Regen.",
+                "hu": "A sétány menti buszvárók fedettek, védenek az esőtől.",
+                "ro": "Refugiile din stațiile de pe faleză vă protejează de ploaie.",
+                "en": "The bus shelters along the promenade provide rain protection."
+              }
+            },
+            {
+              "name": "Trinitat Castle",
+              "tip_4lang": {
+                "de": "Prüfen Sie den Busfahrplan genau, es fährt nur eine Linie hoch.",
+                "hu": "Nézze meg pontosan a menetrendet, csak egy járat megy fel.",
+                "ro": "Verificați orarul, există o singură linie care urcă la castel.",
+                "en": "Check the bus schedule carefully, only one line goes up."
+              }
+            },
+            {
+              "name": "Platja de la Punta",
+              "tip_4lang": {
+                "de": "Nutzen Sie die Zeit im Café, um die nächste Verbindung zu checken.",
+                "hu": "Használja ki a kávézóban töltött időt a menetrend ellenőrzésére.",
+                "ro": "Folosiți timpul de la cafenea pentru a verifica mersul autobuzelor.",
+                "en": "Use the time at the cafe to check the next bus connection."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Halten Sie Kleingeld oder eine Fahrkarte bereit.",
+              "Die Busse sind im Regen oft voll, steigen Sie frühzeitig ein.",
+              "Nutzen Sie die App für Echtzeit-Fahrplanauskünfte.",
+              "Die Haltestellen am Hafen sind gut überdacht.",
+              "Einige Linien verkehren bei schlechtem Wetter seltener."
+            ],
+            "hu": [
+              "Készítsen ki aprópénzt vagy érvényes jegyet a felszálláshoz.",
+              "Esőben a buszok hamar megtelnek, próbáljon időben érkezni.",
+              "Használja a mobilalkalmazást a valós idejű menetrendhez.",
+              "A kikötői megállók jól fedettek az eső ellen.",
+              "Rossz időben egyes járatok ritkábban közlekedhetnek."
+            ],
+            "ro": [
+              "Pregătiți mărunțiș sau un bilet valabil pentru călătorie.",
+              "Autobuzele sunt aglomerate când plouă, veniți din timp în stație.",
+              "Folosiți aplicația pentru informații în timp real despre mersul curselor.",
+              "Stațiile din zona portului sunt bine acoperite.",
+              "Unele linii pot avea frecvență redusă pe vreme nefavorabilă."
+            ],
+            "en": [
+              "Have some small change or a valid ticket ready for boarding.",
+              "Buses are often crowded in the rain, arrive at the stop early.",
+              "Use the mobile app for real-time bus tracking.",
+              "The stops near the harbor are well-sheltered from the rain.",
+              "Some bus lines might run less frequently in bad weather."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen beginnt mit einer Busfahrt zur ruhigen Zitadelle. Mittags wärmen wir uns in der Kirche Santa Maria auf, bevor es zurück zur Promenade geht. Am Nachmittag bringt uns der Bus zum Trinitat Castle für eine fantastische Fernsicht. Der Tag endet mit einer gemütlichen Rückfahrt ins Zentrum, während draußen der kühle Winterabend einsetzt.",
+            "hu": "A tiszta téli reggelen busszal megyünk a csendes Citadellához. Délben a Santa Maria templomban melegszünk fel, mielőtt visszatérnénk a sétányra. Délután a busz felvisz a Trinitat várhoz a fantasztikus kilátásért. A nap egy kényelmes buszos visszautazással zárul, ahogy kint leszáll a hűvös téli este.",
+            "ro": "O dimineață senină de iarnă începe cu o cursă spre cetatea liniștită. La prânz ne încălzim în biserica Santa Maria înainte de a reveni pe faleză. După-amiaza luăm autobuzul spre Castelul Trinitat pentru vederi panoramice. Ziua se încheie cu o întoarcere relaxată spre centru, pe măsură ce seara rece se instalează.",
+            "en": "A clear winter morning starts with a bus ride to the quiet Citadel. At noon, we warm up in Santa Maria church before returning to the promenade. In the afternoon, the bus takes us up to Trinitat Castle for fantastic long-distance views. The day ends with a comfortable ride back to the center as the cool winter evening sets in."
+          },
+          "stops": [
+            {
+              "name": "Citadel of Roses",
+              "tip_4lang": {
+                "de": "Im Winter sind die Busse angenehm leer.",
+                "hu": "Télen a buszok kellemesen üresek és kényelmesek.",
+                "ro": "Iarna, autobuzele sunt mult mai libere și confortabile.",
+                "en": "In winter, the buses are pleasantly empty and comfortable."
+              }
+            },
+            {
+              "name": "Santa Maria de Roses",
+              "tip_4lang": {
+                "de": "Ein guter Ort, um im Warmen auf den nächsten Bus zu warten.",
+                "hu": "Jó helyszín a melegben várni a következő buszjáratra.",
+                "ro": "Un loc bun pentru a aștepta următorul autobuz la căldură.",
+                "en": "A good place to wait in the warm for the next bus."
+              }
+            },
+            {
+              "name": "Passeig Marítim",
+              "tip_4lang": {
+                "de": "Genießen Sie die Aussicht aus dem beheizten Bus.",
+                "hu": "Élvezze a tengerparti kilátást a fűtött buszból.",
+                "ro": "Bucurați-vă de vederea la mare din autobuzul încălzit.",
+                "en": "Enjoy the seaside views from the heated bus."
+              }
+            },
+            {
+              "name": "Trinitat Castle",
+              "tip_4lang": {
+                "de": "Beachten Sie den ausgedünnten Winterfahrplan zum Schloss.",
+                "hu": "Ügyeljen a ritkított téli menetrendre a vár felé.",
+                "ro": "Atenție la frecvența redusă a curselor spre castel iarna.",
+                "en": "Note the reduced winter bus schedule to the castle."
+              }
+            },
+            {
+              "name": "Platja de la Punta",
+              "tip_4lang": {
+                "de": "Der letzte Bus zurück fährt im Winter oft früher.",
+                "hu": "Az utolsó busz visszafelé télen gyakran korábban indul.",
+                "ro": "Ultimul autobuz de întoarcere pleacă adesea mai devreme iarna.",
+                "en": "The last bus back often leaves earlier during the winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Winterfahrplan, da weniger Busse fahren.",
+              "Warten Sie in Innenräumen, wenn der Bus Verspätung hat.",
+              "Tragen Sie warme Kleidung für die Wartezeiten an den Haltestellen.",
+              "Die Busse sind gut beheizt und bieten Komfort.",
+              "Nutzen Sie Tageskarten für unbegrenzte Fahrten."
+            ],
+            "hu": [
+              "Ellenőrizze a téli menetrendet, mert kevesebb járat indul.",
+              "Várjon fedett helyen, ha késne a buszcsatlakozás.",
+              "Viseljen meleg ruhát a megállókban töltött várakozási időre.",
+              "A buszok jól fűtöttek és kényelmes utazást biztosítanak.",
+              "Használjon napijegyet a korlátlan utazási lehetőségért."
+            ],
+            "ro": [
+              "Verificați orarul de iarnă, deoarece sunt mai puține curse.",
+              "Așteptați în spații închise dacă autobuzul are întârziere.",
+              "Purtați haine groase pentru timpul petrecut în stații.",
+              "Autobuzele sunt bine încălzite și oferă confort termic.",
+              "Folosiți permise de o zi pentru călătorii nelimitate."
+            ],
+            "en": [
+              "Check the winter schedule as there are fewer bus runs.",
+              "Wait indoors if the bus connection is delayed.",
+              "Wear warm clothes for the waiting times at the stops.",
+              "Buses are well-heated and provide a comfortable ride.",
+              "Use day passes for unlimited travel throughout the day."
+            ]
+          }
+        }
+      }
+    }
+  },
+  "external_resources": {
+    "tourism_office": "https://www.visitroses.cat/",
+    "transit_official": "https://www.sagales.com/",
+    "events": "https://www.civitatis.com/en/roses/",
+    "webcam": "https://www.skylinewebcams.com/en/webcam/espana/cataluna/girona/roses.html",
+    "parking_real_time": "https://www.parclick.es/",
+    "restaurants_booking": "https://www.thefork.com/",
+    "language_tips": {
+      "de": "In Roses dominiert das Katalanische, Spanisch versteht jeder. Französische Gäste sind so häufig, dass viele Schilder zweisprachig oder dreisprachig sind. 'Bon dia' und 'Adéu' (Tschüss) sind die ersten Wörter, die Sie hier hören werden.",
+      "hu": "Rosesben a katalán a fő nyelv, spanyolt mindenki ért. A francia turistából annyi van, hogy a táblák és menük gyakran háromnyelvűek. 'Bon dia' és 'Adéu' (viszlát) lesz az első két szó, amit megtanulsz a helyiektől.",
+      "ro": "În Roses domină catalana, dar toți înțeleg spaniola. Sunt atât de mulți turiști francezi încât multe panouri sunt trilingve. Primele cuvinte pe care le auzi sunt 'Bon dia' și 'Adéu' (la revedere).",
+      "en": "Catalan dominates in Roses but everyone understands Spanish. French tourists are so common that signs and menus are often trilingual. The first words you'll pick up are 'Bon dia' and 'Adéu' (goodbye)."
+    },
+    "best_time_to_visit": {
+      "de": "Mai bis Juni und September: ruhig, warm und die Naturparks Cap de Creus und Aiguamolls sind in voller Pracht. Juli und August sind heiß und voll. Im Frühling steht das Sterne-Erbe von El Bulli und die neuen Gastro-Routen besonders im Fokus.",
+      "hu": "Május-június és szeptember a top: nyugodt, meleg, és a Cap de Creus meg az Aiguamolls természetvédelmi terület pazar állapotban. Júliusban-augusztusban forró és zsúfolt. Tavasszal a Bulli-örökség és az új gasztrótúrák kiemelkednek.",
+      "ro": "Mai-iunie și septembrie: liniște, căldură și parcurile Cap de Creus și Aiguamolls la apogeu. Iulie-august sunt fierbinți și aglomerate. Primăvara, moștenirea El Bulli și noile trasee gastronomice sunt în prim plan.",
+      "en": "May-June and September are ideal: calm, warm and the Cap de Creus and Aiguamolls nature parks at their best. July-August are hot and busy. Spring highlights the El Bulli culinary legacy and new gastro routes."
+    },
+    "neighborhood_warnings": {
+      "de": "Roses ist sicher und familienfreundlich. In den Sommernächten an der Promenade auf Taschendiebe achten. Die Bergstraßen ins Cap de Creus sind eng und kurvig, fahren Sie tagsüber und tanken Sie vorher.",
+      "hu": "Roses biztonságos, családbarát hely. Nyári estéken a sétányon figyelj a zsebtolvajokra. A Cap de Creus felé vezető hegyi utak keskenyek és kanyargósak, nappal menj és előre tankolj.",
+      "ro": "Roses este sigur și prietenos cu familiile. Vara, pe promenadă noaptea, atenție la buzunare. Drumurile montane spre Cap de Creus sunt înguste și serpuite, condu ziua și pune benzină din timp.",
+      "en": "Roses is safe and family-friendly. Watch for pickpockets along the promenade on summer evenings. Mountain roads into Cap de Creus are narrow and twisty, drive in daylight and fuel up beforehand."
+    }
+  }
+}

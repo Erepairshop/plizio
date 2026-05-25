@@ -1,0 +1,2290 @@
+{
+  "city_id": "cartagena",
+  "anchor": {
+    "name": "Cartagena",
+    "coords": [
+      -0.9819,
+      37.6
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "18:40",
+      "total_km": 3.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Calle Mayor",
+            "hu": "Calle Mayor",
+            "ro": "Calle Mayor",
+            "en": "Calle Mayor"
+          },
+          "coords": [
+            -0.9842,
+            37.6015
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Achten Sie auf die blauen Fliesen am Boden.",
+            "hu": "Figyeld a kék csempéket a burkolaton.",
+            "ro": "Observați plăcile albastre de pe pavaj.",
+            "en": "Look for the blue tiles on the pavement."
+          }
+        },
+        {
+          "name": {
+            "de": "Palacio Consistorial",
+            "hu": "Palacio Consistorial",
+            "ro": "Palacio Consistorial",
+            "en": "Palacio Consistorial"
+          },
+          "coords": [
+            -0.9835,
+            37.5995
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Die Fassade ist nachts wunderschön beleuchtet.",
+            "hu": "A homlokzat éjszaka kivilágítva a legszebb.",
+            "ro": "Fațada este superb iluminată noaptea.",
+            "en": "The facade is beautifully lit at night."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro Romano",
+            "hu": "Teatro Romano",
+            "ro": "Teatru Roman",
+            "en": "Roman Theatre"
+          },
+          "coords": [
+            -0.9818,
+            37.5992
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "10:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Der Eingang erfolgt über das moderne Museum.",
+            "hu": "A bejárat a modern múzeumon keresztül van.",
+            "ro": "Intrarea se face prin muzeul modern.",
+            "en": "Entrance is through the modern museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Catedral de Santa María la Vieja",
+            "hu": "Catedral de Santa María la Vieja",
+            "ro": "Catedrala Santa María la Vieja",
+            "en": "Cathedral of Santa María la Vieja"
+          },
+          "coords": [
+            -0.9812,
+            37.5998
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:35",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Diese Ruine stammt aus dem 13. Jahrhundert.",
+            "hu": "Ez a rom a 13. századból származik.",
+            "ro": "Această ruină datează din secolul al XIII-lea.",
+            "en": "This ruin dates back to the 13th century."
+          }
+        },
+        {
+          "name": {
+            "de": "Forum Romano Molinete",
+            "hu": "Forum Romano Molinete",
+            "ro": "Forum Roman Molinete",
+            "en": "Roman Forum Molinete"
+          },
+          "coords": [
+            -0.9855,
+            37.6025
+          ],
+          "category": "historical",
+          "arrive_at": "14:40",
+          "stay_min": 90,
+          "hop_from_prev_min": 120,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Besuchen Sie die antiken Thermalbäder.",
+            "hu": "Nézd meg az antik termálfürdőket.",
+            "ro": "Vizitați băile termale antice.",
+            "en": "Visit the ancient thermal baths."
+          }
+        },
+        {
+          "name": {
+            "de": "Castillo de la Concepción",
+            "hu": "Castillo de la Concepción",
+            "ro": "Castillo de la Concepción",
+            "en": "Concepción Castle"
+          },
+          "coords": [
+            -0.9785,
+            37.6008
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "16:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Der Panoramalift erspart den steilen Aufstieg.",
+            "hu": "A panorámalift megkímél a meredek lépcsőzéstől.",
+            "ro": "Liftul panoramic vă scutește de urcarea abruptă.",
+            "en": "The panoramic lift saves you the steep climb."
+          }
+        },
+        {
+          "name": {
+            "de": "Muralla del Mar",
+            "hu": "Muralla del Mar",
+            "ro": "Zidul Mării",
+            "en": "Sea Wall"
+          },
+          "coords": [
+            -0.9822,
+            37.5982
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "18:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Perfekt für einen Spaziergang im Sonnenuntergang.",
+            "hu": "Tökéletes helyszín egy naplementés sétához.",
+            "ro": "Perfect pentru o plimbare la apus.",
+            "en": "Perfect for a sunset stroll."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt in der Calle Mayor, dem Herzstück der modernistischen Architektur der Stadt. Mittags tauchen wir im römischen Theater tief in die antike Geschichte ein, bevor wir die Ruinen der alten Kathedrale besichtigen. Der Nachmittag gehört den Ausgrabungen des Forums und dem Aufstieg zur Burg für den besten Ausblick. Den Abend lassen wir an der massiven Seemauer am Hafen ausklingen.",
+        "hu": "A reggel a Calle Mayor elegáns épületei között indul, ahol a városháza homlokzata uralja a teret. Délben a római színház monumentális lépcsőin pihenünk meg, majd a katedrális romjait érintve érjük el a Molinete fórumot. A délutáni kaptató a várhegyre kifizetődik a kikötői panorámáért. Az estét a tengeri fal mentén, a sós levegőt élvezve zárjuk, figyelve a hajók mozgását.",
+        "ro": "Dimineața începe pe Calle Mayor, inima arhitecturii moderniste a orașului. La prânz, ne scufundăm în istoria antică la teatrul roman, înainte de a vizita ruinele vechii catedrale. După-amiaza este dedicată excavărilor din forum și urcării la castel pentru cea mai bună vedere. Seara se încheie la zidul masiv al mării, lângă port, unde briza mediteraneană răcorește străzile istorice.",
+        "en": "The morning begins on Calle Mayor, the heart of the city's modernist architecture. At noon, we dive deep into ancient history at the Roman Theatre before visiting the ruins of the old cathedral. The afternoon is dedicated to the excavations of the Forum and the climb to the castle for the best viewpoint. We end the evening by the massive Sea Wall at the harbor, watching the naval activity."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Caldero",
+            "tip": "Reisgericht mit lokalem Fisch."
+          },
+          {
+            "name": "Asiático",
+            "tip": "Kaffee mit Kondensmilch, Brandy und Likör 43."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Caldero",
+            "tip": "Helyi halas rizsétel."
+          },
+          {
+            "name": "Asiático",
+            "tip": "Kávé sűrített tejjel, konyakkal és Likőr 43-mal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Caldero",
+            "tip": "Orez cu pește local."
+          },
+          {
+            "name": "Asiático",
+            "tip": "Cafea cu lapte condensat, brandy și Licor 43."
+          }
+        ],
+        "en": [
+          {
+            "name": "Caldero",
+            "tip": "Local rice dish with fish broth."
+          },
+          {
+            "name": "Asiático",
+            "tip": "Coffee with condensed milk, brandy, and Licor 43."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parque Torres",
+            "tip": "Ruhiger Park auf dem Gipfel.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cala Cortina",
+            "tip": "Nahegelegener Strand zum Entspannen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parque Torres",
+            "tip": "Csendes park a dombtetőn.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cala Cortina",
+            "tip": "Közeli öböl a lazításhoz.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parque Torres",
+            "tip": "Parc liniștit pe vârful dealului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cala Cortina",
+            "tip": "Golf din apropiere pentru relaxare.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parque Torres",
+            "tip": "Quiet park at the hill top.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cala Cortina",
+            "tip": "Nearby cove for relaxing.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Calle Mayor",
+            "tip": "Lokale Kunsthandwerksläden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Calle Mayor",
+            "tip": "Helyi kézműves boltok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Calle Mayor",
+            "tip": "Magazine locale de artizanat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Calle Mayor",
+            "tip": "Local handicraft shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster.",
+          "Kaufen Sie das Kombiticket für alle Museen.",
+          "Vermeiden Sie die Mittagsruhe (14-17 Uhr) für Shopping.",
+          "Der Aufzug zum Schloss kostet eine kleine Gebühr."
+        ],
+        "hu": [
+          "Viselj kényelmes cipőt a macskakövek miatt.",
+          "Vegyél kombinált jegyet az összes múzeumba.",
+          "Kerüld a szieszta idejét (14-17 óra) vásárláshoz.",
+          "A várba vezető lift fizetős, de megéri."
+        ],
+        "ro": [
+          "Purtați încălțăminte comodă pentru pavajul de piatră.",
+          "Cumpărați biletul combinat pentru toate muzeele.",
+          "Evitați orele de siestă (14-17) pentru cumpărături.",
+          "Liftul către castel costă o taxă mică."
+        ],
+        "en": [
+          "Wear comfortable shoes for the cobblestones.",
+          "Buy the combined ticket for all archaeological sites.",
+          "Avoid siesta hours (2-5 PM) for shopping.",
+          "The lift to the castle has a small fee."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt in der Calle Mayor, dem Herzstück der modernistischen Architektur der Stadt. Mittags tauchen wir im römischen Theater tief in die antike Geschichte ein, bevor wir die Ruinen der alten Kathedrale besichtigen. Der Nachmittag gehört den Ausgrabungen des Forums und dem Aufstieg zur Burg für den besten Ausblick. Den Abend lassen wir an der massiven Seemauer am Hafen ausklingen.",
+            "hu": "A reggel a Calle Mayor elegáns épületei között indul, ahol a városháza homlokzata uralja a teret. Délben a római színház monumentális lépcsőin pihenünk meg, majd a katedrális romjait érintve érjük el a Molinete fórumot. A délutáni kaptató a várhegyre kifizetődik a kikötői panorámáért. Az estét a tengeri fal mentén, a sós levegőt élvezve zárjuk, figyelve a hajók mozgását.",
+            "ro": "Dimineața începe pe Calle Mayor, inima arhitecturii moderniste a orașului. La prânz, ne scufundăm în istoria antică la teatrul roman, înainte de a vizita ruinele vechii catedrale. După-amiaza este dedicată excavărilor din forum și urcării la castel pentru cea mai bună vedere. Seara se încheie la zidul masiv al mării, lângă port, unde briza mediteraneană răcorește străzile istorice.",
+            "en": "The morning begins on Calle Mayor, the heart of the city's modernist architecture. At noon, we dive deep into ancient history at the Roman Theatre before visiting the ruins of the old cathedral. The afternoon is dedicated to the excavations of the Forum and the climb to the castle for the best viewpoint. We end the evening by the massive Sea Wall at the harbor, watching the naval activity."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Calle Mayor",
+                "hu": "Calle Mayor",
+                "ro": "Calle Mayor",
+                "en": "Calle Mayor"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf die blauen Fliesen am Boden.",
+                "hu": "Figyeld a kék csempéket a burkolaton.",
+                "ro": "Observați plăcile albastre de pe pavaj.",
+                "en": "Look for the blue tiles on the pavement."
+              }
+            },
+            {
+              "name": {
+                "de": "Palacio Consistorial",
+                "hu": "Palacio Consistorial",
+                "ro": "Palacio Consistorial",
+                "en": "Palacio Consistorial"
+              },
+              "tip_5lang": {
+                "de": "Die Fassade ist nachts wunderschön beleuchtet.",
+                "hu": "A homlokzat éjszaka kivilágítva a legszebb.",
+                "ro": "Fațada este superb iluminată noaptea.",
+                "en": "The facade is beautifully lit at night."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro Romano",
+                "hu": "Teatro Romano",
+                "ro": "Teatru Roman",
+                "en": "Roman Theatre"
+              },
+              "tip_5lang": {
+                "de": "Der Eingang erfolgt über das moderne Museum.",
+                "hu": "A bejárat a modern múzeumon keresztül van.",
+                "ro": "Intrarea se face prin muzeul modern.",
+                "en": "Entrance is through the modern museum."
+              }
+            },
+            {
+              "name": {
+                "de": "Catedral de Santa María la Vieja",
+                "hu": "Catedral de Santa María la Vieja",
+                "ro": "Catedrala Santa María la Vieja",
+                "en": "Cathedral of Santa María la Vieja"
+              },
+              "tip_5lang": {
+                "de": "Diese Ruine stammt aus dem 13. Jahrhundert.",
+                "hu": "Ez a rom a 13. századból származik.",
+                "ro": "Această ruină datează din secolul al XIII-lea.",
+                "en": "This ruin dates back to the 13th century."
+              }
+            },
+            {
+              "name": {
+                "de": "Forum Romano Molinete",
+                "hu": "Forum Romano Molinete",
+                "ro": "Forum Roman Molinete",
+                "en": "Roman Forum Molinete"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die antiken Thermalbäder.",
+                "hu": "Nézd meg az antik termálfürdőket.",
+                "ro": "Vizitați băile termale antice.",
+                "en": "Visit the ancient thermal baths."
+              }
+            },
+            {
+              "name": {
+                "de": "Castillo de la Concepción",
+                "hu": "Castillo de la Concepción",
+                "ro": "Castillo de la Concepción",
+                "en": "Concepción Castle"
+              },
+              "tip_5lang": {
+                "de": "Der Panoramalift erspart den steilen Aufstieg.",
+                "hu": "A panorámalift megkímél a meredek lépcsőzéstől.",
+                "ro": "Liftul panoramic vă scutește de urcarea abruptă.",
+                "en": "The panoramic lift saves you the steep climb."
+              }
+            },
+            {
+              "name": {
+                "de": "Muralla del Mar",
+                "hu": "Muralla del Mar",
+                "ro": "Zidul Mării",
+                "en": "Sea Wall"
+              },
+              "tip_5lang": {
+                "de": "Perfekt für einen Spaziergang im Sonnenuntergang.",
+                "hu": "Tökéletes helyszín egy naplementés sétához.",
+                "ro": "Perfect pentru o plimbare la apus.",
+                "en": "Perfect for a sunset stroll."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Caldero",
+                "tip": "Reisgericht mit lokalem Fisch."
+              },
+              {
+                "name": "Asiático",
+                "tip": "Kaffee mit Kondensmilch, Brandy und Likör 43."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Caldero",
+                "tip": "Helyi halas rizsétel."
+              },
+              {
+                "name": "Asiático",
+                "tip": "Kávé sűrített tejjel, konyakkal és Likőr 43-mal."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Caldero",
+                "tip": "Orez cu pește local."
+              },
+              {
+                "name": "Asiático",
+                "tip": "Cafea cu lapte condensat, brandy și Licor 43."
+              }
+            ],
+            "en": [
+              {
+                "name": "Caldero",
+                "tip": "Local rice dish with fish broth."
+              },
+              {
+                "name": "Asiático",
+                "tip": "Coffee with condensed milk, brandy, and Licor 43."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Parque Torres",
+                "tip": "Ruhiger Park auf dem Gipfel.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Cala Cortina",
+                "tip": "Nahegelegener Strand zum Entspannen.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Parque Torres",
+                "tip": "Csendes park a dombtetőn.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Cala Cortina",
+                "tip": "Közeli öböl a lazításhoz.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Parque Torres",
+                "tip": "Parc liniștit pe vârful dealului.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Cala Cortina",
+                "tip": "Golf din apropiere pentru relaxare.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Parque Torres",
+                "tip": "Quiet park at the hill top.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Cala Cortina",
+                "tip": "Nearby cove for relaxing.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Calle Mayor",
+                "tip": "Lokale Kunsthandwerksläden."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Calle Mayor",
+                "tip": "Helyi kézműves boltok."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Calle Mayor",
+                "tip": "Magazine locale de artizanat."
+              }
+            ],
+            "en": [
+              {
+                "name": "Calle Mayor",
+                "tip": "Local handicraft shops."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster.",
+              "Kaufen Sie das Kombiticket für alle Museen.",
+              "Vermeiden Sie die Mittagsruhe (14-17 Uhr) für Shopping.",
+              "Der Aufzug zum Schloss kostet eine kleine Gebühr."
+            ],
+            "hu": [
+              "Viselj kényelmes cipőt a macskakövek miatt.",
+              "Vegyél kombinált jegyet az összes múzeumba.",
+              "Kerüld a szieszta idejét (14-17 óra) vásárláshoz.",
+              "A várba vezető lift fizetős, de megéri."
+            ],
+            "ro": [
+              "Purtați încălțăminte comodă pentru pavajul de piatră.",
+              "Cumpărați biletul combinat pentru toate muzeele.",
+              "Evitați orele de siestă (14-17) pentru cumpărături.",
+              "Liftul către castel costă o taxă mică."
+            ],
+            "en": [
+              "Wear comfortable shoes for the cobblestones.",
+              "Buy the combined ticket for all archaeological sites.",
+              "Avoid siesta hours (2-5 PM) for shopping.",
+              "The lift to the castle has a small fee."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bietet die Calle Mayor Schutz unter den Balkonen. Mittags erkunden Sie den überdachten Teil des Römischen Forums Molinete. Der Nachmittag gehört dem geschützten Museum des Römischen Theaters. Abends genießen Sie den Blick auf den Hafen vom überdachten Besucherzentrum der Burg aus, während der Regen auf die alten Mauern peitscht.",
+            "hu": "Reggel a Calle Mayor erkélyei alatt vagy egy hangulatos kávézóban kezdjük. Délben a Molinete régészeti park modern védőtetője alatt maradunk szárazon. Délután a Római Színház múzeumi része kínál menedéket a csapadék elől. Estére a vár látogatóközpontjából csodáljuk a kikötőt, elkerülve a csúszós szabadtéri lépcsőket.",
+            "ro": "Dimineața, Calle Mayor oferă adăpost sub balcoanele sale elegante. La prânz, explorăm parcul arheologic Molinete, protejat de un acoperiș modern vast. După-amiaza este dedicată muzeului interior al Teatrului Roman. Seara, centrul de vizitatori al castelului oferă o priveliște superbă asupra portului, ferindu-vă de ploaia de coastă.",
+            "en": "Morning starts under the balconies of Calle Mayor. At noon, the massive canopy of the Roman Forum Molinete keeps you dry while exploring ruins. Afternoon is spent inside the excellent Roman Theatre Museum. In the evening, the castle's visitor center provides a sheltered vantage point to watch the rain over the Mediterranean port."
+          },
+          "stops": [
+            {
+              "name": "Calle Mayor",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkaden und Cafés als Regenschutz.",
+                "hu": "Használja az erkélyeket és kávézókat esernyő helyett.",
+                "ro": "Folosiți arcadele și cafenelele pentru a evita ploaia.",
+                "en": "Use the shop awnings and cafes to stay dry."
+              }
+            },
+            {
+              "name": "Palacio Consistorial",
+              "tip_5lang": {
+                "de": "Besichtigung des prächtigen Innenraums ist ideal bei Regen.",
+                "hu": "A pompás belső terek látogatása tökéletes esős időben.",
+                "ro": "Vizitarea interiorului somptuos este ideală pe ploaie.",
+                "en": "Touring the grand interior is perfect for rainy days."
+              }
+            },
+            {
+              "name": "Roman Theatre",
+              "tip_5lang": {
+                "de": "Der Großteil des Museums ist unterirdisch und trocken.",
+                "hu": "A múzeum nagy része a föld alatt van, teljesen száraz.",
+                "ro": "Cea mai mare parte a muzeului este subterană și uscată.",
+                "en": "Most of the museum is underground and stay dry."
+              }
+            },
+            {
+              "name": "Cathedral of Santa María la Vieja",
+              "tip_5lang": {
+                "de": "Vorsicht, die Ruinen haben keinen Regenschutz.",
+                "hu": "Vigyázat, a romok felett nincs tető, gyors megálló.",
+                "ro": "Atenție, ruinele nu au acoperiș, vizită rapidă.",
+                "en": "Warning: the ruins have no roof; keep the visit brief."
+              }
+            },
+            {
+              "name": "Roman Forum Molinete",
+              "tip_5lang": {
+                "de": "Ein riesiges Dach schützt die Ausgrabungen vor Regen.",
+                "hu": "Hatalmas védőtető óvja a romokat az esőtől.",
+                "ro": "Un acoperiș gigant protejează ruinele de ploaie.",
+                "en": "A massive canopy protects the excavations from rain."
+              }
+            },
+            {
+              "name": "Concepción Castle",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Panoramalift, um nasse Wege zu vermeiden.",
+                "hu": "Használja a panorámaliftet a vizes emelkedők helyett.",
+                "ro": "Folosiți liftul panoramic pentru a evita potecile ude.",
+                "en": "Take the panoramic lift to avoid slippery outdoor paths."
+              }
+            },
+            {
+              "name": "Sea Wall",
+              "tip_5lang": {
+                "de": "Die Mauer ist exponiert, kurzer Blick auf die Gischt.",
+                "hu": "A fal mentén erős lehet a szél, csak rövid séta.",
+                "ro": "Zidul este expus, faceți doar o scurtă plimbare.",
+                "en": "The wall is very exposed; watch the waves briefly."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie den Aufzug zum Castillo, um rutschige Treppen zu vermeiden.",
+              "Das Molinete-Forum ist dank des Daches ein perfektes Regen-Ziel.",
+              "Besuchen Sie die Cafés in der Calle Mayor für Pausen.",
+              "Achten Sie auf glatte Marmorplatten in der Altstadt.",
+              "Regenschirme können bei Wind am Hafen unpraktisch sein."
+            ],
+            "hu": [
+              "Használja a várba vezető liftet a csúszós lépcsők elkerülésére.",
+              "A Molinete múzeum teteje miatt esőben is kiváló program.",
+              "A Calle Mayor kávézói jó menedéket nyújtanak.",
+              "Vigyázzon a belváros csiszolt kőburkolatára, mert vizesen csúszik.",
+              "A kikötőnél a szél tönkreteheti az esernyőket, a széldzseki jobb."
+            ],
+            "ro": [
+              "Folosiți liftul spre Castillo pentru a evita scările alunecoase.",
+              "Forumul Molinete este o destinație perfectă datorită acoperișului.",
+              "Cafenelele de pe Calle Mayor sunt bune pentru pauze.",
+              "Atenție la pavajul de marmură din centru, devine foarte alunecos.",
+              "Pelerinele sunt mai bune decât umbrelele în zona portului."
+            ],
+            "en": [
+              "Use the panoramic lift to the castle to avoid wet, slippery stairs.",
+              "The Molinete Forum is ideal for rain as it is mostly covered.",
+              "Stop at Calle Mayor cafes to wait out heavy showers.",
+              "Be careful on the polished marble floors in the old town.",
+              "Raincoats are better than umbrellas due to coastal winds."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt frisch auf der Calle Mayor bei mildem Winterlicht. Mittags wärmt die Sonne die antiken Steine des Römischen Forums. Nachmittags erkunden Sie die Burg Concepción, wenn die Luft kristallklar ist. Abends bietet die Stadtmauer einen spektakulären Blick auf den frühen Sonnenuntergang über dem Mittelmeer.",
+            "hu": "A reggel frissen indul a Calle Mayoron a téli napsütésben. Délben a Római Fórum kövei magukba szívják a déli hőt, kellemessé téve a sétát. Délután a Concepción-várat keressük fel a tiszta téli levegőben. Este a városfalról csodáljuk meg a korai naplementét, amely ilyenkor különösen narancssárga.",
+            "ro": "Dimineața începe cu aer proaspăt pe Calle Mayor în lumina blândă a iernii. La prânz, soarele încălzește pietrele antice ale Forumului Roman. După-amiaza explorăm Castelul Concepción în aerul curat de coastă. Seara oferă o priveliște spectaculoasă a apusului timpuriu de pe zidul vechi al orașului.",
+            "en": "Morning begins with crisp air on Calle Mayor under soft winter light. At noon, the sun warms the ancient stones of the Roman Forum. Afternoon is perfect for the climb to Concepción Castle in the clear Mediterranean air. In the evening, the sea wall provides a front-row seat for the early, vivid winter sunset."
+          },
+          "stops": [
+            {
+              "name": "Calle Mayor",
+              "tip_5lang": {
+                "de": "Genießen Sie die Sonne in den Straßencafés.",
+                "hu": "Élvezze a téli napsütést a teraszokon.",
+                "ro": "Bucurați-vă de soarele iernii la terase.",
+                "en": "Enjoy the winter sun at the outdoor terraces."
+              }
+            },
+            {
+              "name": "Palacio Consistorial",
+              "tip_5lang": {
+                "de": "Die Fassade leuchtet besonders schön im Winterlicht.",
+                "hu": "A homlokzat gyönyörűen csillog a téli fényben.",
+                "ro": "Fațada strălucește frumos în lumina iernii.",
+                "en": "The facade glows beautifully in the winter light."
+              }
+            },
+            {
+              "name": "Roman Theatre",
+              "tip_5lang": {
+                "de": "Ideal zur Mittagszeit, wenn es draußen mild ist.",
+                "hu": "Ideális délidőben, amikor kint is enyhe az idő.",
+                "ro": "Ideal la prânz, când vremea este blândă afară.",
+                "en": "Great at midday when the temperature is mild."
+              }
+            },
+            {
+              "name": "Cathedral of Santa María la Vieja",
+              "tip_5lang": {
+                "de": "Windgeschützte Ecken in den Ruinen suchen.",
+                "hu": "Keressen szélvédett sarkokat a romok között.",
+                "ro": "Căutați colțuri ferite de vânt printre ruine.",
+                "en": "Look for wind-sheltered spots among the ruins."
+              }
+            },
+            {
+              "name": "Roman Forum Molinete",
+              "tip_5lang": {
+                "de": "Die Wintersonne erreicht viele Bereiche des Forums.",
+                "hu": "A téli nap jól bevilágítja a fórum területét.",
+                "ro": "Soarele de iarnă luminează bine zona forumului.",
+                "en": "Winter sun reaches many parts of the forum site."
+              }
+            },
+            {
+              "name": "Concepción Castle",
+              "tip_5lang": {
+                "de": "Bester Ort für den Sonnenuntergang gegen 17:50 Uhr.",
+                "hu": "A legjobb hely a naplemente nézéséhez 17:50 körül.",
+                "ro": "Cel mai bun loc pentru apus în jurul orei 17:50.",
+                "en": "Best spot for the sunset around 17:50."
+              }
+            },
+            {
+              "name": "Sea Wall",
+              "tip_5lang": {
+                "de": "Warme Jacke nötig wegen der kühlen Meeresbrise.",
+                "hu": "Meleg kabát kell a hűvös tengeri szél miatt.",
+                "ro": "Geacă groasă necesară din cauza vântului marin.",
+                "en": "Warm jacket needed for the cool sea breeze."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne ist tagsüber stark, aber im Schatten ist es kühl.",
+              "Sonnenuntergang ist bereits gegen 17:45 Uhr.",
+              "Tragen Sie Zwiebelschichten für wechselnde Temperaturen.",
+              "Die Museen sind gut geheizt und bieten Aufwärmpausen.",
+              "Die Meeresbrise am Hafen kann im Winter schneidend sein."
+            ],
+            "hu": [
+              "A nap erős, de árnyékban hűvös lehet az idő.",
+              "A naplemente korán, 17:45 körül van.",
+              "Öltözzön rétegesen a változó hőmérséklet miatt.",
+              "A múzeumok jól fűtöttek, jó megállók melegedni.",
+              "A kikötői szél télen metsző lehet, sál ajánlott."
+            ],
+            "ro": [
+              "Soarele este puternic ziua, dar la umbră este răcoare.",
+              "Apusul este devreme, în jur de ora 17:45.",
+              "Îmbrăcați-vă în straturi pentru temperaturi variabile.",
+              "Muzeele sunt bine încălzite, ideale pentru pauze.",
+              "Vântul din port poate fi tăios iarna, purtați eșarfă."
+            ],
+            "en": [
+              "The sun is strong at noon, but shadows remain chilly.",
+              "Sunset occurs early, around 17:45 in mid-winter.",
+              "Dress in layers for the varying sun and shade temperatures.",
+              "Museums are well-heated and perfect for warming up.",
+              "The sea breeze in the port can be biting in winter."
+            ]
+          }
+        }
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Museo Naval",
+            "hu": "Museo Naval",
+            "ro": "Museo Naval",
+            "en": "Naval Museum"
+          },
+          "coords": [
+            -0.9855,
+            37.5975
+          ],
+          "category": "museums",
+          "arrive_at": "09:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Das Isaac-Peral-U-Boot ist das Highlight.",
+            "hu": "Az Isaac Peral tengeralattjáró a fő látványosság.",
+            "ro": "Submarinul Isaac Peral este atracția principală.",
+            "en": "The Isaac Peral submarine is the highlight."
+          }
+        },
+        {
+          "name": {
+            "de": "ARQUA",
+            "hu": "ARQUA",
+            "ro": "ARQUA",
+            "en": "ARQUA"
+          },
+          "coords": [
+            -0.9795,
+            37.5978
+          ],
+          "category": "museums",
+          "arrive_at": "11:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Museum für Unterwasserarchäologie.",
+            "hu": "Víz alatti régészeti múzeum.",
+            "ro": "Muzeu de arheologie subacvatică.",
+            "en": "National Museum of Underwater Archaeology."
+          }
+        },
+        {
+          "name": {
+            "de": "Muralla del Mar",
+            "hu": "Muralla del Mar",
+            "ro": "Muralla del Mar",
+            "en": "Sea Wall"
+          },
+          "coords": [
+            -0.9822,
+            37.5982
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:50",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Breiter Weg entlang des Hafens.",
+            "hu": "Széles sétány a kikötő mentén.",
+            "ro": "Cale largă de-a lungul portului.",
+            "en": "Wide path along the harbor."
+          }
+        },
+        {
+          "name": {
+            "de": "Punic Wall",
+            "hu": "Pun fal",
+            "ro": "Zidul Punic",
+            "en": "Punic Wall"
+          },
+          "coords": [
+            -0.9785,
+            37.6042
+          ],
+          "category": "historical",
+          "arrive_at": "14:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 90,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Reste der Stadtmauer aus dem Jahr 227 v. Chr.",
+            "hu": "A városfal maradványai i.e. 227-ből.",
+            "ro": "Resturi ale zidului orașului din 227 î.Hr.",
+            "en": "Remains of the city wall from 227 BC."
+          }
+        },
+        {
+          "name": {
+            "de": "Forum Romano Molinete",
+            "hu": "Forum Romano Molinete",
+            "ro": "Forum Romano Molinete",
+            "en": "Roman Forum Molinete"
+          },
+          "coords": [
+            -0.9855,
+            37.6025
+          ],
+          "category": "historical",
+          "arrive_at": "16:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Gut mit dem Fahrrad erreichbar.",
+            "hu": "Kerékpárral könnyen megközelíthető.",
+            "ro": "Ușor accesibil cu bicicleta.",
+            "en": "Easily accessible by bike."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Fahrrad erkunden wir die maritime Geschichte, beginnend im Marinemuseum. Die Route führt entlang der Hafenmauer zum ARQUA und weiter zu den punischen Befestigungen. Es ist ein effizienter Weg, um die verstreuten archäologischen Stätten und Museen zu verbinden.",
+        "hu": "Bringával fedezzük fel a tengerészeti múltat, kezdve a haditengerészeti múzeumnál. Az útvonal a kikötői fal mentén halad az ARQUA-hoz, majd a pun védművekhez. Ez a leghatékonyabb módja a távolabb eső régészeti helyszínek és múzeumok összekötésének.",
+        "ro": "Cu bicicleta explorăm istoria maritimă, începând de la muzeul naval. Traseul duce de-a lungul zidului portului către ARQUA și mai departe către fortificațiile punice. Este un mod eficient de a conecta siturile arheologice și muzeele împrăștiate.",
+        "en": "By bike, we explore the maritime history, starting at the Naval Museum. The route follows the harbor wall to ARQUA and continues to the Punic fortifications. It's an efficient way to connect the scattered archaeological sites and museums."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kiosko El Faro",
+            "tip": "Fisch Tapas am Hafen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kiosko El Faro",
+            "tip": "Halas tapasok a kikötőben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kiosko El Faro",
+            "tip": "Tapas cu pește în port."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosko El Faro",
+            "tip": "Fish tapas at the harbor."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Muelle de Alfonso XII",
+            "tip": "Ruhiger Kai zum Radfahren.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Muelle de Alfonso XII",
+            "tip": "Csendes rakpart tekerni.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Muelle de Alfonso XII",
+            "tip": "Dig liniștit pentru ciclism.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Muelle de Alfonso XII",
+            "tip": "Quiet quay for cycling.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hafenmarkt",
+            "tip": "Gelegentliche Kunsthandwerksmärkte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kikötői piac",
+            "tip": "Alkalmi kézműves vásárok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața din port",
+            "tip": "Piețe ocazionale de artizanat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Harbor market",
+            "tip": "Occasional craft markets."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die Radwege am Hafen.",
+          "Achten Sie in der Altstadt auf Fußgänger."
+        ],
+        "hu": [
+          "Használd a kikötői kerékpárutakat.",
+          "A belvárosban figyelj a gyalogosokra."
+        ],
+        "ro": [
+          "Folosiți pistele de biciclete din port.",
+          "Atenție la pietoni în centrul vechi."
+        ],
+        "en": [
+          "Use the cycling lanes at the harbor.",
+          "Watch out for pedestrians in the old town."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mit dem Fahrrad erkunden wir die maritime Geschichte, beginnend im Marinemuseum. Die Route führt entlang der Hafenmauer zum ARQUA und weiter zu den punischen Befestigungen. Es ist ein effizienter Weg, um die verstreuten archäologischen Stätten und Museen zu verbinden.",
+            "hu": "Bringával fedezzük fel a tengerészeti múltat, kezdve a haditengerészeti múzeumnál. Az útvonal a kikötői fal mentén halad az ARQUA-hoz, majd a pun védművekhez. Ez a leghatékonyabb módja a távolabb eső régészeti helyszínek és múzeumok összekötésének.",
+            "ro": "Cu bicicleta explorăm istoria maritimă, începând de la muzeul naval. Traseul duce de-a lungul zidului portului către ARQUA și mai departe către fortificațiile punice. Este un mod eficient de a conecta siturile arheologice și muzeele împrăștiate.",
+            "en": "By bike, we explore the maritime history, starting at the Naval Museum. The route follows the harbor wall to ARQUA and continues to the Punic fortifications. It's an efficient way to connect the scattered archaeological sites and museums."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museo Naval",
+                "hu": "Museo Naval",
+                "ro": "Museo Naval",
+                "en": "Naval Museum"
+              },
+              "tip_5lang": {
+                "de": "Das Isaac-Peral-U-Boot ist das Highlight.",
+                "hu": "Az Isaac Peral tengeralattjáró a fő látványosság.",
+                "ro": "Submarinul Isaac Peral este atracția principală.",
+                "en": "The Isaac Peral submarine is the highlight."
+              }
+            },
+            {
+              "name": {
+                "de": "ARQUA",
+                "hu": "ARQUA",
+                "ro": "ARQUA",
+                "en": "ARQUA"
+              },
+              "tip_5lang": {
+                "de": "Museum für Unterwasserarchäologie.",
+                "hu": "Víz alatti régészeti múzeum.",
+                "ro": "Muzeu de arheologie subacvatică.",
+                "en": "National Museum of Underwater Archaeology."
+              }
+            },
+            {
+              "name": {
+                "de": "Muralla del Mar",
+                "hu": "Muralla del Mar",
+                "ro": "Muralla del Mar",
+                "en": "Sea Wall"
+              },
+              "tip_5lang": {
+                "de": "Breiter Weg entlang des Hafens.",
+                "hu": "Széles sétány a kikötő mentén.",
+                "ro": "Cale largă de-a lungul portului.",
+                "en": "Wide path along the harbor."
+              }
+            },
+            {
+              "name": {
+                "de": "Punic Wall",
+                "hu": "Pun fal",
+                "ro": "Zidul Punic",
+                "en": "Punic Wall"
+              },
+              "tip_5lang": {
+                "de": "Reste der Stadtmauer aus dem Jahr 227 v. Chr.",
+                "hu": "A városfal maradványai i.e. 227-ből.",
+                "ro": "Resturi ale zidului orașului din 227 î.Hr.",
+                "en": "Remains of the city wall from 227 BC."
+              }
+            },
+            {
+              "name": {
+                "de": "Forum Romano Molinete",
+                "hu": "Forum Romano Molinete",
+                "ro": "Forum Romano Molinete",
+                "en": "Roman Forum Molinete"
+              },
+              "tip_5lang": {
+                "de": "Gut mit dem Fahrrad erreichbar.",
+                "hu": "Kerékpárral könnyen megközelíthető.",
+                "ro": "Ușor accesibil cu bicicleta.",
+                "en": "Easily accessible by bike."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Kiosko El Faro",
+                "tip": "Fisch Tapas am Hafen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Kiosko El Faro",
+                "tip": "Halas tapasok a kikötőben."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Kiosko El Faro",
+                "tip": "Tapas cu pește în port."
+              }
+            ],
+            "en": [
+              {
+                "name": "Kiosko El Faro",
+                "tip": "Fish tapas at the harbor."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Muelle de Alfonso XII",
+                "tip": "Ruhiger Kai zum Radfahren.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Muelle de Alfonso XII",
+                "tip": "Csendes rakpart tekerni.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Muelle de Alfonso XII",
+                "tip": "Dig liniștit pentru ciclism.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Muelle de Alfonso XII",
+                "tip": "Quiet quay for cycling.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Hafenmarkt",
+                "tip": "Gelegentliche Kunsthandwerksmärkte."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Kikötői piac",
+                "tip": "Alkalmi kézműves vásárok."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Piața din port",
+                "tip": "Piețe ocazionale de artizanat."
+              }
+            ],
+            "en": [
+              {
+                "name": "Harbor market",
+                "tip": "Occasional craft markets."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Nutzen Sie die Radwege am Hafen.",
+              "Achten Sie in der Altstadt auf Fußgänger."
+            ],
+            "hu": [
+              "Használd a kikötői kerékpárutakat.",
+              "A belvárosban figyelj a gyalogosokra."
+            ],
+            "ro": [
+              "Folosiți pistele de biciclete din port.",
+              "Atenție la pietoni în centrul vechi."
+            ],
+            "en": [
+              "Use the cycling lanes at the harbor.",
+              "Watch out for pedestrians in the old town."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Am Morgen radeln Sie vorsichtig zum Marinemuseum. Mittags bietet das ARQUA-Museum ein langes, trockenes Erlebnis unter der Erde. Nachmittags geht es entlang der Stadtmauer, wobei Sie Pfützen meiden. Abends beenden Sie die Tour am überdachten Molinete-Forum, um den letzten Schauern zu entgehen.",
+            "hu": "Reggel óvatosan tekerünk a Haditengerészeti Múzeumhoz. Délben az ARQUA múzeum föld alatti kiállítása nyújt hosszú és száraz programot. Délután a városfal mellett haladunk, kerülve a tócsákat. Estére a Molinete-fórum fedett romjaihoz érünk, ahol az eső nem zavarja a nézelődést.",
+            "ro": "Dimineața pedalăm cu grijă spre Muzeul Naval. La prânz, muzeul ARQUA oferă o experiență lungă și uscată sub nivelul mării. După-amiaza continuăm pe lângă zidul mării, evitând bălțile. Seara încheiem turul la Forumul Molinete, protejat de ploaie de acoperișul său.",
+            "en": "Morning involves a cautious ride to the Naval Museum. At noon, the ARQUA museum offers a long, dry experience below ground level. In the afternoon, cycle along the sea wall avoiding puddles. In the evening, end your tour at the sheltered Roman Forum Molinete to stay out of the final showers."
+          },
+          "stops": [
+            {
+              "name": "Naval Museum",
+              "tip_5lang": {
+                "de": "Sicheres Abstellen der Räder am Eingang möglich.",
+                "hu": "A kerékpárok biztonságosan lezárhatók a bejáratnál.",
+                "ro": "Bicicletele pot fi parcate în siguranță la intrare.",
+                "en": "Bikes can be safely locked near the entrance."
+              }
+            },
+            {
+              "name": "ARQUA",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um starken Regen abzuwarten.",
+                "hu": "Tökéletes hely egy nagyobb zápor kivárására.",
+                "ro": "Loc perfect pentru a aștepta trecerea unei ploi.",
+                "en": "Perfect place to wait out a heavy downpour."
+              }
+            },
+            {
+              "name": "Sea Wall",
+              "tip_5lang": {
+                "de": "Vorsicht vor Gischt und rutschigem Asphalt.",
+                "hu": "Vigyázzon a felcsapó hullámokra és a csúszós útra.",
+                "ro": "Atenție la valuri și la asfaltul alunecos.",
+                "en": "Watch out for sea spray and slippery asphalt."
+              }
+            },
+            {
+              "name": "Punic Wall",
+              "tip_5lang": {
+                "de": "Das Museum ist komplett überdacht und trocken.",
+                "hu": "A múzeum teljesen fedett és száraz helyszín.",
+                "ro": "Muzeul este complet acoperit și uscat.",
+                "en": "The museum is completely indoors and dry."
+              }
+            },
+            {
+              "name": "Roman Forum Molinete",
+              "tip_5lang": {
+                "de": "Stellen Sie das Rad unter das Vordach am Eingang.",
+                "hu": "Tegye a biciklit a bejárat melletti előtető alá.",
+                "ro": "Lăsați bicicleta sub copertina de la intrare.",
+                "en": "Park your bike under the canopy at the entrance."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie die polierten Fliesen in der Calle Mayor.",
+              "Nutzen Sie wasserfeste Packtaschen für Ihre Ausrüstung.",
+              "Die Hafenpromenade kann bei Wind sehr ungemütlich sein.",
+              "Prüfen Sie Ihre Bremsen vor der Abfahrt im Regen.",
+              "Kombinieren Sie die Fahrt mit langen Museumsaufenthalten."
+            ],
+            "hu": [
+              "Kerülje a Calle Mayor polírozott köveit vizesen.",
+              "Használjon vízálló táskát az értékei védelmére.",
+              "A kikötői sétány szeles időben kellemetlen lehet.",
+              "Ellenőrizze a fékeket az esőben való indulás előtt.",
+              "Hosszabb múzeumlátogatásokkal törje meg a biciklizést."
+            ],
+            "ro": [
+              "Evitați plăcile lustruite de pe Calle Mayor când sunt ude.",
+              "Folosiți genți impermeabile pentru echipament.",
+              "Promenada portului poate fi neplăcută pe vânt.",
+              "Verificați frânele înainte de a pleca pe ploaie.",
+              "Combinați mersul pe bicicletă cu vizite lungi la muzee."
+            ],
+            "en": [
+              "Avoid the polished marble tiles of Calle Mayor when wet.",
+              "Use waterproof panniers to protect your gear.",
+              "The port promenade can be very windy and exposed.",
+              "Test your brakes frequently in wet conditions.",
+              "Plan for longer museum breaks to stay dry."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Wintermorgen am Hafen führt Sie zum Marinemuseum. Mittags genießen Sie die Fahrt entlang der sonnigen Hafenmauer zum ARQUA. Nachmittags radeln Sie zur Punischen Mauer, wobei das milde Licht die antiken Steine betont. Abends beenden Sie die Tour am Forum Molinete vor der frühen Dämmerung.",
+            "hu": "Friss téli reggel a kikötőben, cél a Haditengerészeti Múzeum. Délben a napos rakparton tekerünk az ARQUA felé. Délután a Pún falhoz látogatunk, ahol a téli fények kiemelik a romok szépségét. Este a Molinete-fórumnál fejezzük be a kört, még a korai sötétedés előtt.",
+            "ro": "O dimineață răcoroasă în port vă conduce spre Muzeul Naval. La prânz, pedalați pe faleza însorită spre ARQUA. După-amiaza vizităm Zidul Punic, lumina iernii fiind perfectă pentru poze. Seara încheiem la Forumul Molinete înainte de lăsarea întunerikuil.",
+            "en": "A crisp winter morning by the port leads you to the Naval Museum. At noon, enjoy cycling along the sunny sea wall towards ARQUA. In the afternoon, ride to the Punic Wall as the low sun highlights the ancient textures. End your tour at the Molinete Forum before the early winter dusk sets in."
+          },
+          "stops": [
+            {
+              "name": "Naval Museum",
+              "tip_5lang": {
+                "de": "Angenehme Kühle im Museum, ideal nach der Fahrt.",
+                "hu": "Kellemes hűvös a múzeumban, jól esik a tekerés után.",
+                "ro": "Răcoare plăcută în muzeu, ideală după pedalat.",
+                "en": "Pleasant cool temperature inside after the ride."
+              }
+            },
+            {
+              "name": "ARQUA",
+              "tip_5lang": {
+                "de": "Die Glasfassade fängt die warme Wintersonne ein.",
+                "hu": "Az üveghomlokzat összegyűjti a téli napfényt.",
+                "ro": "Fațada de sticlă captează soarele cald de iarnă.",
+                "en": "The glass facade captures the warm winter sun."
+              }
+            },
+            {
+              "name": "Sea Wall",
+              "tip_5lang": {
+                "de": "Windfeste Kleidung für den Küstenabschnitt wählen.",
+                "hu": "Szélálló öltözet ajánlott a tengerparti szakaszon.",
+                "ro": "Îmbrăcăminte rezistentă la vânt pentru zona de coastă.",
+                "en": "Wear windproof clothing for the coastal stretch."
+              }
+            },
+            {
+              "name": "Punic Wall",
+              "tip_5lang": {
+                "de": "Drinnen ist es deutlich wärmer als draußen.",
+                "hu": "Bent jóval melegebb van, mint a szabadban.",
+                "ro": "În interior este mult mai cald decât afară.",
+                "en": "The indoor site is much warmer than the outdoors."
+              }
+            },
+            {
+              "name": "Roman Forum Molinete",
+              "tip_5lang": {
+                "de": "Besuch vor 17:30 Uhr planen wegen der Helligkeit.",
+                "hu": "Látogatás 17:30 előtt javasolt a fényviszonyok miatt.",
+                "ro": "Vizitați înainte de 17:30 pentru lumină bună.",
+                "en": "Plan your visit before 17:30 for good light."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Handschuhe sind für die Abfahrten am Morgen ratsam.",
+              "Die Wintersonne steht tief und kann beim Fahren blenden.",
+              "Planen Sie das Ende der Tour vor 18:00 Uhr ein.",
+              "Die Luft ist im Winter sehr klar, ideal für Fernsichten.",
+              "Am Hafen ist es durch den Wind kühler als in der Stadt."
+            ],
+            "hu": [
+              "A reggeli induláshoz kesztyű ajánlott.",
+              "A téli nap alacsonyan jár, elvakíthat tekerés közben.",
+              "Tervezze a túra végét 18:00 előttre.",
+              "A levegő télen nagyon tiszta, messzire el lehet látni.",
+              "A kikötőnél a szél miatt hidegebb van, mint a belvárosban."
+            ],
+            "ro": [
+              "Mănușile sunt recomandate pentru plecările de dimineață.",
+              "Soarele de iarnă este jos și poate fi orbitor.",
+              "Planificați finalul turului înainte de ora 18:00.",
+              "Aerul este foarte curat iarna, ideal pentru panorame.",
+              "În port este mai frig decât în oraș din cauza vântului."
+            ],
+            "en": [
+              "Gloves are recommended for the crisp morning start.",
+              "The low winter sun can be blinding while cycling.",
+              "Aim to finish your cycling route by 18:00.",
+              "Winter air is very clear, offering great distant views.",
+              "It feels colder at the port than in the city center."
+            ]
+          }
+        }
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 25,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 42.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Batería de Castillitos",
+            "hu": "Batería de Castillitos",
+            "ro": "Batería de Castillitos",
+            "en": "Castillitos Battery"
+          },
+          "coords": [
+            -1.1215,
+            37.5395
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:40",
+          "stay_min": 90,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 28.0,
+          "tip_5lang": {
+            "de": "Riesige Kanonen mit Disney-Schloss-Architektur.",
+            "hu": "Hatalmas ágyúk Disney-kastély stílusban.",
+            "ro": "Tunuri uriașe cu arhitectură de castel Disney.",
+            "en": "Huge cannons with Disney-castle architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Castillo de la Concepción",
+            "hu": "Castillo de la Concepción",
+            "ro": "Castillo de la Concepción",
+            "en": "Concepción Castle"
+          },
+          "coords": [
+            -0.9785,
+            37.6008
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:50",
+          "stay_min": 70,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 28.5,
+          "tip_5lang": {
+            "de": "Parken Sie im Parkhaus am Hafen.",
+            "hu": "Parkolj a kikötői parkolóházban.",
+            "ro": "Parcați în parcarea din port.",
+            "en": "Park in the harbor parking garage."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro Romano",
+            "hu": "Teatro Romano",
+            "ro": "Teatru Roman",
+            "en": "Roman Theatre"
+          },
+          "coords": [
+            -0.9818,
+            37.5992
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "14:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 120,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Hinterausgang zur Kathedrale nutzen.",
+            "hu": "Használd a hátsó kijáratot a katedrálishoz.",
+            "ro": "Folosiți ieșirea din spate către catedrală.",
+            "en": "Use the back exit towards the cathedral."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erreichen wir die spektakuläre Batería de Castillitos außerhalb der Stadt, eine Festung mit gigantischen Kanonen. Danach kehren wir ins Zentrum zurück, um das Schloss und das römische Theater zu besichtigen. Diese Route verbindet wilde Küstenpanoramen mit städtischer Geschichte.",
+        "hu": "Autóval elérjük a városon kívüli, látványos Batería de Castillitost, egy hatalmas ágyúkkal felszerelt erődöt. Ezután visszatérünk a központba a vár és a római színház megtekintésére. Ez az útvonal ötvözi a vad tengerparti panorámát a városi történelemmel.",
+        "ro": "Cu mașina ajungem la spectaculoasa Batería de Castillitos din afara orașului, o fortăreață cu tunuri gigantice. Apoi revenim în centru pentru a vizita castelul și teatrul roman. Acest traseu combină panoramele de coastă sălbatice cu istoria urbană.",
+        "en": "By car, we reach the spectacular Batería de Castillitos outside the city, a fortress with gigantic cannons. Then we return to the center to visit the castle and the Roman Theatre. This route combines wild coastal panoramas with urban history."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurante Barrio de Foro",
+            "tip": "Moderne Küche im Zentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Restaurante Barrio de Foro",
+            "tip": "Modern konyha a központban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurante Barrio de Foro",
+            "tip": "Bucătărie modernă în centru."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurante Barrio de Foro",
+            "tip": "Modern cuisine in the center."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Mirador de Castillitos",
+            "tip": "Atemberaubender Blick auf das Meer.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mirador de Castillitos",
+            "tip": "Lélegzetelállító kilátás a tengerre.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mirador de Castillitos",
+            "tip": "Vedere uluitoare la mare.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Mirador de Castillitos",
+            "tip": "Breathtaking view of the sea.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "El Corte Inglés",
+            "tip": "Großes Kaufhaus im Norden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "El Corte Inglés",
+            "tip": "Nagy áruház északon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "El Corte Inglés",
+            "tip": "Magazin universal mare în nord."
+          }
+        ],
+        "en": [
+          {
+            "name": "El Corte Inglés",
+            "tip": "Large department store in the north."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Straße nach Castillitos ist sehr kurvig.",
+          "Parken im Zentrum ist schwierig, nutzen Sie Parkhäuser."
+        ],
+        "hu": [
+          "A Castillitosba vezető út nagyon kanyargós.",
+          "A központban nehéz parkolni, használj parkolóházat."
+        ],
+        "ro": [
+          "Drumul spre Castillitos este foarte sinuos.",
+          "Parcarea în centru este dificilă, folosiți parcări etajate."
+        ],
+        "en": [
+          "The road to Castillitos is very winding.",
+          "Parking in the center is difficult; use underground parking."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erreichen wir die spektakuläre Batería de Castillitos außerhalb der Stadt, eine Festung mit gigantischen Kanonen. Danach kehren wir ins Zentrum zurück, um das Schloss und das römische Theater zu besichtigen. Diese Route verbindet wilde Küstenpanoramen mit städtischer Geschichte.",
+            "hu": "Autóval elérjük a városon kívüli, látványos Batería de Castillitost, egy hatalmas ágyúkkal felszerelt erődöt. Ezután visszatérünk a központba a vár és a római színház megtekintésére. Ez az útvonal ötvözi a vad tengerparti panorámát a városi történelemmel.",
+            "ro": "Cu mașina ajungem la spectaculoasa Batería de Castillitos din afara orașului, o fortăreață cu tunuri gigantice. Apoi revenim în centru pentru a vizita castelul și teatrul roman. Acest traseu combină panoramele de coastă sălbatice cu istoria urbană.",
+            "en": "By car, we reach the spectacular Batería de Castillitos outside the city, a fortress with gigantic cannons. Then we return to the center to visit the castle and the Roman Theatre. This route combines wild coastal panoramas with urban history."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Batería de Castillitos",
+                "hu": "Batería de Castillitos",
+                "ro": "Batería de Castillitos",
+                "en": "Castillitos Battery"
+              },
+              "tip_5lang": {
+                "de": "Riesige Kanonen mit Disney-Schloss-Architektur.",
+                "hu": "Hatalmas ágyúk Disney-kastély stílusban.",
+                "ro": "Tunuri uriașe cu arhitectură de castel Disney.",
+                "en": "Huge cannons with Disney-castle architecture."
+              }
+            },
+            {
+              "name": {
+                "de": "Castillo de la Concepción",
+                "hu": "Castillo de la Concepción",
+                "ro": "Castillo de la Concepción",
+                "en": "Concepción Castle"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie im Parkhaus am Hafen.",
+                "hu": "Parkolj a kikötői parkolóházban.",
+                "ro": "Parcați în parcarea din port.",
+                "en": "Park in the harbor parking garage."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro Romano",
+                "hu": "Teatro Romano",
+                "ro": "Teatru Roman",
+                "en": "Roman Theatre"
+              },
+              "tip_5lang": {
+                "de": "Hinterausgang zur Kathedrale nutzen.",
+                "hu": "Használd a hátsó kijáratot a katedrálishoz.",
+                "ro": "Folosiți ieșirea din spate către catedrală.",
+                "en": "Use the back exit towards the cathedral."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Restaurante Barrio de Foro",
+                "tip": "Moderne Küche im Zentrum."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Restaurante Barrio de Foro",
+                "tip": "Modern konyha a központban."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Restaurante Barrio de Foro",
+                "tip": "Bucătărie modernă în centru."
+              }
+            ],
+            "en": [
+              {
+                "name": "Restaurante Barrio de Foro",
+                "tip": "Modern cuisine in the center."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Mirador de Castillitos",
+                "tip": "Atemberaubender Blick auf das Meer.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Mirador de Castillitos",
+                "tip": "Lélegzetelállító kilátás a tengerre.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Mirador de Castillitos",
+                "tip": "Vedere uluitoare la mare.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Mirador de Castillitos",
+                "tip": "Breathtaking view of the sea.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "El Corte Inglés",
+                "tip": "Großes Kaufhaus im Norden."
+              }
+            ],
+            "hu": [
+              {
+                "name": "El Corte Inglés",
+                "tip": "Nagy áruház északon."
+              }
+            ],
+            "ro": [
+              {
+                "name": "El Corte Inglés",
+                "tip": "Magazin universal mare în nord."
+              }
+            ],
+            "en": [
+              {
+                "name": "El Corte Inglés",
+                "tip": "Large department store in the north."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Die Straße nach Castillitos ist sehr kurvig.",
+              "Parken im Zentrum ist schwierig, nutzen Sie Parkhäuser."
+            ],
+            "hu": [
+              "A Castillitosba vezető út nagyon kanyargós.",
+              "A központban nehéz parkolni, használj parkolóházat."
+            ],
+            "ro": [
+              "Drumul spre Castillitos este foarte sinuos.",
+              "Parcarea în centru este dificilă, folosiți parcări etajate."
+            ],
+            "en": [
+              "The road to Castillitos is very winding.",
+              "Parking in the center is difficult; use underground parking."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens fahren Sie zur Bateria de Castillitos, wobei Sie vorsichtig auf der kurvigen Küstenstraße navigieren. Mittags parken Sie nahe der Burg Concepción und nutzen den Aufzug. Nachmittags bietet das Römische Theater ein geschütztes Kulturhighlight. Abends genießen Sie ein Abendessen in der Stadt, während der Regen draußen nachlässt.",
+            "hu": "Reggel a Castillitos üteghez hajtunk, óvatosan a kanyargós parti úton. Délben a Concepción-vár közelében parkolunk, és lifttel megyünk fel. Délután a Római Színház fedett múzeuma a legjobb választás. Este a belvárosban vacsorázunk, biztonságban az esőtől.",
+            "ro": "Dimineața conduceți spre Bateria de Castillitos, cu atenție pe drumul sinuos de coastă. La prânz, parcați lângă Castelul Concepción și folosiți liftul. După-amiaza, Teatrul Roman oferă un refugiu cultural uscat. Seara, vă bucurați de cină în oraș în timp ce ploaia se potolește.",
+            "en": "Morning starts with a drive to Castillitos Battery; take care on the winding coastal road in the rain. At noon, park near Concepción Castle and use the lift to stay dry. Afternoon is perfect for the sheltered Roman Theatre Museum. In the evening, enjoy dinner in the city center as the rain fades."
+          },
+          "stops": [
+            {
+              "name": "Castillitos Battery",
+              "tip_5lang": {
+                "de": "Vorsicht auf der schmalen Straße bei Nässe.",
+                "hu": "Vigyázzon a keskeny, vizes úton a kanyarokban.",
+                "ro": "Atenție pe drumul îngust și ud în curbe.",
+                "en": "Exercise caution on the narrow, wet road."
+              }
+            },
+            {
+              "name": "Concepción Castle",
+              "tip_5lang": {
+                "de": "Parkhaus in der Nähe nutzen, um trocken zu bleiben.",
+                "hu": "Használja a közeli parkolóházat, hogy száraz maradjon.",
+                "ro": "Folosiți parcarea subterană din apropiere.",
+                "en": "Use the nearby underground parking to stay dry."
+              }
+            },
+            {
+              "name": "Roman Theatre",
+              "tip_5lang": {
+                "de": "Der Eingangsbereich bietet guten Regenschutz.",
+                "hu": "A bejárati rész jó védelmet nyújt az eső ellen.",
+                "ro": "Zona de intrare oferă protecție bună contra ploii.",
+                "en": "The entrance area provides good rain shelter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Straße nach Castillitos kann bei Starkregen rutschig sein.",
+              "Nutzen Sie Parkhäuser in der Innenstadt (z.B. am Hafen).",
+              "Achten Sie auf Pfützen in den tiefer gelegenen Straßen.",
+              "Die Sicht auf die Küste kann bei Regen eingeschränkt sein.",
+              "Das Auto ist der beste Schutz gegen plötzliche Schauer."
+            ],
+            "hu": [
+              "A Castillitos felé vezető út erős esőben csúszós lehet.",
+              "Használja a belvárosi (pl. kikötői) parkolóházakat.",
+              "Vigyázzon a mélyebben fekvő utcákban kialakuló tócsákra.",
+              "A tengerparti kilátás korlátozott lehet esőben.",
+              "Az autó a legjobb védekezés a hirtelen záporok ellen."
+            ],
+            "ro": [
+              "Drumul spre Castillitos poate fi alunecos pe ploaie torențială.",
+              "Folosiți parcările acoperite din centru (ex. zona portului).",
+              "Atenție la bălțile mari de pe străzile joase.",
+              "Vizibilitatea asupra coastei poate fi redusă pe ploaie.",
+              "Mașina este cea mai bună protecție contra averselor."
+            ],
+            "en": [
+              "The road to Castillitos can be slippery during heavy rain.",
+              "Prefer underground parking lots (e.g., at the port).",
+              "Watch out for deep puddles in low-lying city streets.",
+              "Coastal visibility might be reduced during storms.",
+              "The car is your best refuge during sudden downpours."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen führt Sie zur spektakulären Bateria de Castillitos mit Fernsicht. Mittags erreichen Sie die Burg Concepción unter strahlend blauem Himmel. Nachmittags besuchen Sie das Römische Theater, wenn die Schatten länger werden. Abends erleben Sie die beleuchtete Altstadt, bevor die Winterkälte einsetzt.",
+            "hu": "Tiszta téli reggel, irány a Castillitos üteg a lenyűgöző panorámáért. Délben a Concepción-várat látogatjuk meg a ragyogó kék ég alatt. Délután a Római Színház romjai között sétálunk a hosszú árnyékokban. Este a kivilágított óvárosban gyönyörködünk, mielőtt lehűlne az idő.",
+            "ro": "O dimineață senină de iarnă vă duce la Bateria de Castillitos pentru panorame vaste. La prânz ajungeți la Castelul Concepción sub un cer albastru strălucitor. După-amiaza vizitați Teatrul Roman în lumina caldă a soarelui jos. Seara explorați centrul iluminat înainte de lăsarea frigului.",
+            "en": "A clear winter morning takes you to the spectacular Castillitos Battery for endless views. At noon, reach Concepción Castle under a brilliant blue sky. In the afternoon, explore the Roman Theatre as the winter shadows lengthen. In the evening, enjoy the illuminated old town before the nightly chill sets in."
+          },
+          "stops": [
+            {
+              "name": "Castillitos Battery",
+              "tip_5lang": {
+                "de": "Perfekte Fernsicht bei klarer Winterluft.",
+                "hu": "Tökéletes kilátás a tiszta téli levegőben.",
+                "ro": "Vizibilitate perfectă în aerul curat de iarnă.",
+                "en": "Perfect long-distance views in the clear winter air."
+              }
+            },
+            {
+              "name": "Concepción Castle",
+              "tip_5lang": {
+                "de": "Sonnige Plätze auf den Mauern zum Aufwärmen.",
+                "hu": "Napos helyek a falakon a felmelegedéshez.",
+                "ro": "Locuri însorite pe ziduri pentru încălzire.",
+                "en": "Sunny spots on the walls are great for warming up."
+              }
+            },
+            {
+              "name": "Roman Theatre",
+              "tip_5lang": {
+                "de": "Das Museum ist angenehm temperiert.",
+                "hu": "A múzeumban kellemes a hőmérséklet.",
+                "ro": "Muzeul are o temperatură foarte plăcută.",
+                "en": "The museum interior is comfortably tempered."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sicht von Castillitos ist im Winter oft am besten.",
+              "Parken am Hafen ist im Winter unkompliziert.",
+              "Beachten Sie die kurze Tageslichtdauer für Fotos.",
+              "Nach Sonnenuntergang kühlt es im Auto schnell ab.",
+              "Die Küstenstraßen sind im Winter weniger befahren."
+            ],
+            "hu": [
+              "A kilátás Castillitos-ból télen a legtisztább.",
+              "A kikötői parkolás télen egyszerűbb.",
+              "Ügyeljen a kevés nappali fényre a fotózáskor.",
+              "Naplemente után az autóban is gyorsan lehűl a levegő.",
+              "A parti utak télen sokkal forgalmatlanabbak."
+            ],
+            "ro": [
+              "Vizibilitatea de la Castillitos este adesea optimă iarna.",
+              "Parcarea în port este mai ușoară în sezonul rece.",
+              "Țineți cont de lumina naturală scurtă pentru fotografii.",
+              "După apus, temperatura scade rapid și în mașină.",
+              "Drumurile de coastă sunt mult mai libere iarna."
+            ],
+            "en": [
+              "Visibility from Castillitos is often best during winter.",
+              "Parking at the port is generally easier in the off-season.",
+              "Plan your photography for the limited daylight hours.",
+              "Temperatures drop quickly once the sun goes down.",
+              "Coastal roads are much quieter and more enjoyable in winter."
+            ]
+          }
+        }
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 5.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Calle Mayor",
+            "hu": "Calle Mayor",
+            "ro": "Calle Mayor",
+            "en": "Calle Mayor"
+          },
+          "coords": [
+            -0.9842,
+            37.6015
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Zentraler Ausstiegspunkt.",
+            "hu": "Központi leszállóhely.",
+            "ro": "Punct central de coborâre.",
+            "en": "Central drop-off point."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro Romano",
+            "hu": "Teatro Romano",
+            "ro": "Teatru Roman",
+            "en": "Roman Theatre"
+          },
+          "coords": [
+            -0.9818,
+            37.5992
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "10:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg von der Bushaltestelle.",
+            "hu": "Rövid séta a buszmegállótól.",
+            "ro": "Scurtă plimbare de la stația de autobuz.",
+            "en": "Short walk from the bus stop."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem öffentlichen Nahverkehr erreichen wir bequem die Hauptsehenswürdigkeiten. Wir starten im historischen Zentrum und nutzen den Bus, um zwischen dem Hafen und den Museen zu pendeln. Es ist eine stressfreie Art, die Stadt ohne Parkplatzsorgen zu erleben.",
+        "hu": "Tömegközlekedéssel kényelmesen elérjük a fő látnivalókat. A történelmi központból indulunk, és busszal ingázunk a kikötő és a múzeumok között. Stresszmentes módja a város felfedezésének parkolási gondok nélkül.",
+        "ro": "Cu transportul public ajungem confortabil la principalele atracții. Începem în centrul istoric și folosim autobuzul pentru a face naveta între port și muzee. Este un mod fără stres de a experimenta orașul fără grija parcării.",
+        "en": "With public transit, we comfortably reach the main sights. We start in the historic center and use the bus to shuttle between the harbor and the museums. It's a stress-free way to experience the city without parking worries."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "La Tartana",
+            "tip": "Traditionelle Tapas-Bar."
+          }
+        ],
+        "hu": [
+          {
+            "name": "La Tartana",
+            "tip": "Tradicionális tapas bár."
+          }
+        ],
+        "ro": [
+          {
+            "name": "La Tartana",
+            "tip": "Bar tradițional de tapas."
+          }
+        ],
+        "en": [
+          {
+            "name": "La Tartana",
+            "tip": "Traditional tapas bar."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Plaza San Francisco",
+            "tip": "Schattiger Platz unter Ficus-Bäumen.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Plaza San Francisco",
+            "tip": "Árnyas tér fikuszfák alatt.",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plaza San Francisco",
+            "tip": "Piață umbrită sub ficuși.",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "Plaza San Francisco",
+            "tip": "Shaded square under ficus trees.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Calle del Carmen",
+            "tip": "Haupteinkaufsstraße."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Calle del Carmen",
+            "tip": "Fő bevásárlóutca."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Calle del Carmen",
+            "tip": "Strada principală de cumpărături."
+          }
+        ],
+        "en": [
+          {
+            "name": "Calle del Carmen",
+            "tip": "Main shopping street."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Linien 1, 2 und 7 verbinden die wichtigsten Punkte.",
+          "Fahrkarten können beim Fahrer gekauft werden."
+        ],
+        "hu": [
+          "Az 1-es, 2-es és 7-es járatok kötik össze a főbb pontokat.",
+          "Jegyet a vezetőnél lehet venni."
+        ],
+        "ro": [
+          "Liniile 1, 2 și 7 conectează principalele puncte.",
+          "Biletele pot fi cumpărate de la șofer."
+        ],
+        "en": [
+          "Lines 1, 2, and 7 connect the most important points.",
+          "Tickets can be bought from the driver."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mit dem öffentlichen Nahverkehr erreichen wir bequem die Hauptsehenswürdigkeiten. Wir starten im historischen Zentrum und nutzen den Bus, um zwischen dem Hafen und den Museen zu pendeln. Es ist eine stressfreie Art, die Stadt ohne Parkplatzsorgen zu erleben.",
+            "hu": "Tömegközlekedéssel kényelmesen elérjük a fő látnivalókat. A történelmi központból indulunk, és busszal ingázunk a kikötő és a múzeumok között. Stresszmentes módja a város felfedezésének parkolási gondok nélkül.",
+            "ro": "Cu transportul public ajungem confortabil la principalele atracții. Începem în centrul istoric și folosim autobuzul pentru a face naveta între port și muzee. Este un mod fără stres de a experimenta orașul fără grija parcării.",
+            "en": "With public transit, we comfortably reach the main sights. We start in the historic center and use the bus to shuttle between the harbor and the museums. It's a stress-free way to experience the city without parking worries."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Calle Mayor",
+                "hu": "Calle Mayor",
+                "ro": "Calle Mayor",
+                "en": "Calle Mayor"
+              },
+              "tip_5lang": {
+                "de": "Zentraler Ausstiegspunkt.",
+                "hu": "Központi leszállóhely.",
+                "ro": "Punct central de coborâre.",
+                "en": "Central drop-off point."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro Romano",
+                "hu": "Teatro Romano",
+                "ro": "Teatru Roman",
+                "en": "Roman Theatre"
+              },
+              "tip_5lang": {
+                "de": "Kurzer Fußweg von der Bushaltestelle.",
+                "hu": "Rövid séta a buszmegállótól.",
+                "ro": "Scurtă plimbare de la stația de autobuz.",
+                "en": "Short walk from the bus stop."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "La Tartana",
+                "tip": "Traditionelle Tapas-Bar."
+              }
+            ],
+            "hu": [
+              {
+                "name": "La Tartana",
+                "tip": "Tradicionális tapas bár."
+              }
+            ],
+            "ro": [
+              {
+                "name": "La Tartana",
+                "tip": "Bar tradițional de tapas."
+              }
+            ],
+            "en": [
+              {
+                "name": "La Tartana",
+                "tip": "Traditional tapas bar."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Plaza San Francisco",
+                "tip": "Schattiger Platz unter Ficus-Bäumen.",
+                "emoji": "🌳"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Plaza San Francisco",
+                "tip": "Árnyas tér fikuszfák alatt.",
+                "emoji": "🌳"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Plaza San Francisco",
+                "tip": "Piață umbrită sub ficuși.",
+                "emoji": "🌳"
+              }
+            ],
+            "en": [
+              {
+                "name": "Plaza San Francisco",
+                "tip": "Shaded square under ficus trees.",
+                "emoji": "🌳"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Calle del Carmen",
+                "tip": "Haupteinkaufsstraße."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Calle del Carmen",
+                "tip": "Fő bevásárlóutca."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Calle del Carmen",
+                "tip": "Strada principală de cumpărături."
+              }
+            ],
+            "en": [
+              {
+                "name": "Calle del Carmen",
+                "tip": "Main shopping street."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Die Linien 1, 2 und 7 verbinden die wichtigsten Punkte.",
+              "Fahrkarten können beim Fahrer gekauft werden."
+            ],
+            "hu": [
+              "Az 1-es, 2-es és 7-es járatok kötik össze a főbb pontokat.",
+              "Jegyet a vezetőnél lehet venni."
+            ],
+            "ro": [
+              "Liniile 1, 2 și 7 conectează principalele puncte.",
+              "Biletele pot fi cumpărate de la șofer."
+            ],
+            "en": [
+              "Lines 1, 2, and 7 connect the most important points.",
+              "Tickets can be bought from the driver."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens nutzen Sie den Bus zur Calle Mayor und bleiben im Schutz der Geschäfte. Mittags bietet das Römische Theater eine lange, trockene Besichtigung. Nachmittags fahren Sie mit der Linie 7 zu weiteren überdachten Zielen. Abends beenden Sie den Tag in einem gemütlichen Restaurant nahe einer Bushaltestelle.",
+            "hu": "Reggel busszal érkezünk a Calle Mayorhoz, az üzletek védelmében maradva. Délben a Római Színház kínál hosszú, száraz programot. Délután a 7-es busszal utazunk más fedett látnivalók felé. Estére egy buszmegállóhoz közeli, barátságos éttermet választunk a vacsorához.",
+            "ro": "Dimineața luați autobuzul spre Calle Mayor și rămâneți sub protecția magazinelor. La prânz, Teatrul Roman oferă o vizită lungă și uscată. După-amiaza folosiți linia 7 spre alte obiective acoperite. Seara se încheie într-un restaurant primitor situat lângă o stație de autobuz.",
+            "en": "Morning starts with a bus ride to Calle Mayor, keeping under the shop awnings. At noon, the Roman Theatre provides a long and dry indoor visit. In the afternoon, use line 7 to reach other sheltered spots. End your evening in a cozy restaurant conveniently located near a bus stop."
+          },
+          "stops": [
+            {
+              "name": "Calle Mayor",
+              "tip_5lang": {
+                "de": "Bushaltestelle 'Plaza de España' ist nah und zentral.",
+                "hu": "A 'Plaza de España' megálló közel van és központi.",
+                "ro": "Stația 'Plaza de España' este aproape și centrală.",
+                "en": "The 'Plaza de España' bus stop is central and close by."
+              }
+            },
+            {
+              "name": "Roman Theatre",
+              "tip_5lang": {
+                "de": "Vom Busbahnhof sind es nur wenige Gehminuten.",
+                "hu": "A buszpályaudvartól csak pár perc séta.",
+                "ro": "De la autogară sunt doar câteva minute de mers.",
+                "en": "Only a few minutes' walk from the bus station."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die App 'Cartagena Bus' für Echtzeit-Infos.",
+              "Bushaltestellen bieten oft nur wenig Regenschutz.",
+              "Planen Sie Umstiege an großen Stationen ein.",
+              "Der Bus ist ideal, um lange Fußwege im Regen zu vermeiden.",
+              "Kaufen Sie ein Zehner-Ticket (Bonobús) für Ersparnisse."
+            ],
+            "hu": [
+              "Használja a 'Cartagena Bus' appot a valós idejű infókért.",
+              "A buszmegállók gyakran csak kevés védelmet adnak az esőben.",
+              "A nagyobb csomópontokon tervezze az átszállást.",
+              "A busz ideális a hosszú, esős séták elkerülésére.",
+              "Vegyen tíz alkalomra szóló jegyet (Bonobús) a spóroláshoz."
+            ],
+            "ro": [
+              "Folosiți aplicația 'Cartagena Bus' pentru info în timp real.",
+              "Stațiile de autobuz oferă adesea puțin adăpost contra ploii.",
+              "Planificați legăturile în stațiile mari, mai bine dotate.",
+              "Autobuzul este ideal pentru a evita mersul pe jos prin ploaie.",
+              "Cumpărați un bilet cu 10 călătorii (Bonobús) pentru economii."
+            ],
+            "en": [
+              "Use the 'Cartagena Bus' app for real-time arrival info.",
+              "Bus stops often provide limited shelter from the rain.",
+              "Try to time your transfers at larger, sheltered stations.",
+              "Buses are perfect for skipping long walks in heavy rain.",
+              "Purchase a 10-trip pass (Bonobús) to save money."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein sonniger Wintermorgen beginnt mit einer Busfahrt ins Zentrum zur Calle Mayor. Mittags besuchen Sie das Römische Theater, wenn die Sonne die Steine erwärmt. Nachmittags nutzen Sie den Transit zum Hafen, um die Winterbrise zu genießen. Abends bringt Sie der Bus sicher zurück, bevor es draußen richtig abkühlt.",
+            "hu": "Napsütéses téli reggel, busszal utazunk a belvárosba, a Calle Mayorhoz. Délben a Római Színházat látogatjuk meg, miközben a nap melegíti a köveket. Délután a kikötő felé vesszük az irányt tömegközlekedéssel. Este a busz kényelmesen visszavisz, mielőtt igazán lehűlne a levegő.",
+            "ro": "O dimineață însorită de iarnă începe cu un drum cu autobuzul spre Calle Mayor. La prânz vizitați Teatrul Roman în timp ce soarele încălzește ruinele. După-amiaza folosiți transportul spre port pentru a simți briza iernii. Seara, autobuzul vă duce înapoi confortabil înainte de lăsarea frigului.",
+            "en": "A sunny winter morning begins with a bus ride to the center and Calle Mayor. At noon, visit the Roman Theatre as the sun warms the ancient stones. In the afternoon, take transit to the port area to enjoy the brisk winter air. In the evening, the bus gets you back warmly before the night chill sets in."
+          },
+          "stops": [
+            {
+              "name": "Calle Mayor",
+              "tip_5lang": {
+                "de": "Busse sind im Winter gut beheizt.",
+                "hu": "A buszok télen jól fűtöttek.",
+                "ro": "Autobuzele sunt bine încălzite iarna.",
+                "en": "Buses are well-heated during the winter months."
+              }
+            },
+            {
+              "name": "Roman Theatre",
+              "tip_5lang": {
+                "de": "Sonnige Haltestellen zum Warten bevorzugen.",
+                "hu": "Várjon a napsütötte megállókban a buszra.",
+                "ro": "Așteptați autobuzul în stațiile însorite.",
+                "en": "Wait for your bus at the sunnier stops."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse fahren im Winter nach dem regulären Fahrplan.",
+              "Ab 18:30 Uhr wird es in den Bussen deutlich voller.",
+              "Die Heizung in den Bussen kann sehr warm sein.",
+              "Nutzen Sie den Transit für Fahrten zu entfernteren Vierteln.",
+              "Die Busse sind eine gute Option, wenn der Wind zu stark wird."
+            ],
+            "hu": [
+              "A buszok télen a rendes menetrend szerint járnak.",
+              "18:30 után a buszok érezhetően zsúfoltabbak.",
+              "A fűtés a buszokon néha túl meleg is lehet.",
+              "Használja a buszt a távolabbi városrészek eléréséhez.",
+              "A busz jó menekülőút, ha a szél túl erőssé válik."
+            ],
+            "ro": [
+              "Autobuzele circulă după orarul normal și iarna.",
+              "După ora 18:30, autobuzele devin mult mai aglomerate.",
+              "Încălzirea din autobuze poate fi uneori prea puternică.",
+              "Folosiți transportul public pentru cartierele mai îndepărtate.",
+              "Autobuzul este o opțiune bună dacă vântul devine prea tăios."
+            ],
+            "en": [
+              "Buses operate on their regular schedule during winter.",
+              "Buses become significantly more crowded after 18:30.",
+              "Be prepared for the bus heating to be quite warm.",
+              "Use transit to explore residential districts further out.",
+              "Buses are a great refuge if the coastal wind gets too strong."
+            ]
+          }
+        }
+      }
+    }
+  },
+  "external_resources": {
+    "tourism_office": "https://turismo.cartagena.es/",
+    "transit_official": "https://www.cartagena.es/",
+    "events": "https://www.cartagena.es/",
+    "language_tips": {
+      "de": "Cartagena ist eine echte spanische Hafenstadt, ausserhalb der Hauptattraktionen ist Spanisch fast unverzichtbar. Die Murcianer schlucken Endungen ('grasia' statt 'gracias'), nicht erschrecken. Mit einem 'mijico' (mein Lieber) wird man oft angesprochen, das ist freundlich gemeint.",
+      "hu": "Cartagena igazi spanyol kikotovaros, a fo latvanyossagokon kivul a spanyol tudas szinte kotelezo. A murciaiak lenyelik a szovegi vegzodest ('grasia' a 'gracias' helyett), ne lepodj meg. Gyakran 'mijico'-nak (kedvesem) szolitanak, ez baratsagos szandekkal van.",
+      "ro": "Cartagena e un port spaniol autentic, in afara atractiilor principale spaniola devine aproape obligatorie. Murcienii inghit terminatiile ('grasia' in loc de 'gracias'), sa nu te miri. Te vor striga des 'mijico' (draga), e doar prietenos.",
+      "en": "Cartagena is a real Spanish port city, with Spanish nearly essential outside the main sights. Locals from Murcia drop word endings ('grasia' for 'gracias'), don't be alarmed. You'll often be addressed as 'mijico' (my dear), which is a friendly term."
+    },
+    "best_time_to_visit": {
+      "de": "Maerz bis Juni und September bis Oktober sind perfekt: 18 bis 28 Grad und gute Sicht im Roemischen Theater. Mitte September laeuft das Festival Cartagena Jazz und im November die Carthaginienses-y-Romanos-Spektakel. Juli und August sind druckend heiss, der Innenhafen wirkt dann wie ein Backofen.",
+      "hu": "Marcius-junius es szeptember-oktober a topido: 18-28 fok, jo lathatosag a romai szinhaznal. Szeptember kozepen a Cartagena Jazz fesztival, novemberben a Carthaginienses y Romanos jatekok zajlanak. Julius-augusztus nyomaszto, a belso kikoto akar a sutoke melc.",
+      "ro": "Martie-iunie si septembrie-octombrie sunt ideale: 18-28 grade si vizibilitate buna la Teatrul Roman. La mijlocul lui septembrie are loc festivalul Cartagena Jazz, iar in noiembrie spectacolele Carthaginienses y Romanos. Iulie-august sunt apasator de calde, portul interior devine cuptor.",
+      "en": "March-June and September-October are perfect: 18-28C with clear views of the Roman Theatre. Mid-September brings the Cartagena Jazz festival and November the Carthaginienses y Romanos pageant. July-August get oppressively hot, with the inner harbour baking like an oven."
+    },
+    "neighborhood_warnings": {
+      "de": "Das Zentrum und der Hafen sind sicher, das Viertel Lo Campano im Westen sollte man als Tourist meiden. Am Bahnhof Cartagena gibt es vereinzelt Trickdiebe, die nach dem Weg fragen. Beim Aufstieg zum Conception-Schloss am Abend wenig Beleuchtung, lieber tagsueber.",
+      "hu": "A belvaros es a kikoto biztonsagos, a Lo Campano negyedet nyugaton turistakent kerulendo. A cartagenai palyaudvaron felbukkanhatnak utbaigazitos trukk-tolvajok. A Conception varhoz estere kevesbe kivilagitott az ut, jobb napkozben felmenni.",
+      "ro": "Centrul si portul sunt sigure, cartierul Lo Campano de la vest e de evitat ca turist. La gara Cartagena apar uneori hoti care cer indicatii. Urcusul la castelul Conception e slab iluminat seara, mai bine in timpul zilei.",
+      "en": "The centre and port are safe, but tourists should avoid the western Lo Campano district. Petty con-thieves occasionally work Cartagena train station asking for directions. The climb to Conception Castle is poorly lit after dark, so do it by day."
+    }
+  }
+}

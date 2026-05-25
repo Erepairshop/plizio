@@ -1,0 +1,2407 @@
+{
+  "city_id": "puerto-de-mogan",
+  "anchor": {
+    "name": "Puerto de Mogán",
+    "coords": [
+      27.8156,
+      -15.7625
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 3.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Puerto de Mogán (Klein-Venedig)",
+            "hu": "Puerto de Mogán (Kis-Velence)",
+            "ro": "Puerto de Mogán (Mica Veneție)",
+            "en": "Puerto de Mogán (Little Venice)"
+          },
+          "coords": [
+            -15.765,
+            27.817
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_4lang": {
+            "de": "Bummeln Sie durch die blumengeschmückten Gassen.",
+            "hu": "Sétáljon végig a virágokkal díszített sikátorokon.",
+            "ro": "Plimbați-vă pe străduțele pline de flori.",
+            "en": "Stroll through the narrow lanes adorned with bougainvillea."
+          }
+        },
+        {
+          "name": {
+            "de": "Mercado de Mogán",
+            "hu": "Mogáni piac",
+            "ro": "Piața din Mogán",
+            "en": "Mogán Market"
+          },
+          "coords": [
+            -15.764,
+            27.818
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_4lang": {
+            "de": "Findet jeden Freitag statt; kommen Sie früh.",
+            "hu": "Minden pénteken tartják; érkezzen korán.",
+            "ro": "Are loc în fiecare vineri; veniți devreme.",
+            "en": "Held every Friday; arrive early to beat the crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Cañada de los Gatos",
+            "hu": "Cañada de los Gatos régészeti park",
+            "ro": "Cañada de los Gatos",
+            "en": "Cañada de los Gatos"
+          },
+          "coords": [
+            -15.763,
+            27.819
+          ],
+          "category": "museums",
+          "arrive_at": "11:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_4lang": {
+            "de": "Erfahren Sie mehr über die Ureinwohner der Insel.",
+            "hu": "Tudjon meg többet a sziget őslakosairól.",
+            "ro": "Aflați mai multe despre aborigenii insulei.",
+            "en": "Discover the history of the island's indigenous people."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirador de Puerto de Mogán",
+            "hu": "Puerto de Mogán kilátó",
+            "ro": "Mirador de Puerto de Mogán",
+            "en": "Puerto de Mogán Viewpoint"
+          },
+          "coords": [
+            -15.766,
+            27.8195
+          ],
+          "category": "natural features",
+          "arrive_at": "13:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_4lang": {
+            "de": "Der Aufstieg lohnt sich für den Postkartenblick.",
+            "hu": "A lépcsőzés megéri a képeslapra illő kilátásért.",
+            "ro": "Urcarea merită pentru vederea de carte poștală.",
+            "en": "The climb is worth it for the postcard views."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa de Mogán",
+            "hu": "Mogán strand",
+            "ro": "Plaja Mogán",
+            "en": "Mogán Beach"
+          },
+          "coords": [
+            -15.764,
+            27.8175
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:55",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_4lang": {
+            "de": "Das ruhige Wasser ist ideal zum Schnorcheln.",
+            "hu": "A nyugodt víz ideális a sznorkelezéshez.",
+            "ro": "Apa liniștită este ideală pentru snorkeling.",
+            "en": "The calm waters are perfect for a relaxing swim."
+          }
+        },
+        {
+          "name": {
+            "de": "Submarine Adventure",
+            "hu": "Tengeralattjáró kaland",
+            "ro": "Aventură cu submarinul",
+            "en": "Submarine Adventure"
+          },
+          "coords": [
+            -15.767,
+            27.816
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "16:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_4lang": {
+            "de": "Buchen Sie im Voraus für eine garantierte Fahrt.",
+            "hu": "Foglaljon előre a garantált induláshoz.",
+            "ro": "Rezervați din timp pentru o călătorie garantată.",
+            "en": "Book in advance to secure your underwater trip."
+          }
+        },
+        {
+          "name": {
+            "de": "Paseo Marítimo",
+            "hu": "Tengerparti sétány",
+            "ro": "Paseo Marítimo",
+            "en": "Paseo Marítimo"
+          },
+          "coords": [
+            -15.762,
+            27.8165
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "17:15",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_4lang": {
+            "de": "Perfekt für einen kurzen Abendspaziergang.",
+            "hu": "Tökéletes egy rövid esti sétához.",
+            "ro": "Perfect pentru o scurtă plimbare de seară.",
+            "en": "Perfect for a brief sunset stroll."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Puerto de Mogán verzaubert mit seinem Venedig-Flair. Erkunden Sie morgens das Hafenviertel und den Markt, bevor Sie in die archäologische Geschichte im Cañada de los Gatos eintauchen. Nach dem Aufstieg zum Mirador genießen Sie den Nachmittag am familienfreundlichen Strand und erleben zum Abschluss eine Unterwasserwelt per U-Boot.",
+        "hu": "Puerto de Mogán elvarázsolja velencei hangulatával. Fedezze fel reggel a kikötőnegyedet és a piacot, majd merüljön el a történelmi múltban a Cañada de los Gatosnál. A kilátópontról nyíló panoráma után töltse a délutánt a strandon, végül ismerje meg a víz alatti világot egy tengeralattjáróval.",
+        "ro": "Puerto de Mogán încântă cu atmosfera sa venețiană. Explorați portul și piața dimineața, apoi descoperiți istoria la Cañada de los Gatos. După urcarea la Mirador, bucurați-vă de după-amiază pe plajă și încheiați ziua cu o aventură subacvatică într-un submarin.",
+        "en": "Puerto de Mogán enchants with its Venetian charm. Explore the harbour and market in the morning before diving into local history at Cañada de los Gatos. After enjoying the view from the Mirador, spend your afternoon at the beach and wrap up with an exciting submarine tour."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Frischer Fisch",
+            "tip": "Direkt vom Hafen in den Restaurants am Kai."
+          },
+          {
+            "name": "Que Tal",
+            "tip": "Exklusive Gourmet-Erfahrung am Abend."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Friss hal",
+            "tip": "Közvetlenül a kikötőből a parti éttermekbe."
+          },
+          {
+            "name": "Que Tal",
+            "tip": "Exkluzív gasztronómiai élmény este."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pește proaspăt",
+            "tip": "Direct din port în restaurantele de pe mal."
+          },
+          {
+            "name": "Que Tal",
+            "tip": "Experiență gourmet exclusivă seara."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fresh Fish",
+            "tip": "Catch of the day at the harbour-side restaurants."
+          },
+          {
+            "name": "Que Tal",
+            "tip": "An exclusive gourmet dining experience."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Mirador",
+            "tip": "Stiller Blick über den Hafen.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Hintergassen",
+            "tip": "Ruhige Momente abseits der Hauptwege.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mirador",
+            "tip": "Csendes kilátás a kikötőre.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Mellékutcák",
+            "tip": "Nyugodt pillanatok a tömegtől távol.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mirador",
+            "tip": "Privire liniștită peste port.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Străduțe lăturalnice",
+            "tip": "Momente de liniște departe de agitație.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Mirador",
+            "tip": "Quiet views over the harbour at dusk.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Backstreets",
+            "tip": "Peaceful moments away from the main routes.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt",
+            "tip": "Kunsthandwerk und lokale Produkte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heti piac",
+            "tip": "Kézműves termékek és helyi áruk."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală",
+            "tip": "Artizanat și produse locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weekly Market",
+            "tip": "Local crafts and fresh produce."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Besuchen Sie den Hafen am frühen Morgen für die beste Fotobeleuchtung.",
+          "Tragen Sie rutschfeste Schuhe für den Aufstieg zum Mirador."
+        ],
+        "hu": [
+          "Látogasson el a kikötőbe kora reggel a legjobb fotófényekért.",
+          "Viseljen csúszásmentes cipőt a kilátóhoz való feljutáshoz."
+        ],
+        "ro": [
+          "Vizitați portul dimineața devreme pentru cele mai bune fotografii.",
+          "Purtați încălțăminte aderentă pentru urcarea la Mirador."
+        ],
+        "en": [
+          "Visit the harbour early in the morning for the best photography light.",
+          "Wear sturdy shoes for the steep climb up to the viewpoint."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Puerto de Mogán verzaubert mit seinem Venedig-Flair. Erkunden Sie morgens das Hafenviertel und den Markt, bevor Sie in die archäologische Geschichte im Cañada de los Gatos eintauchen. Nach dem Aufstieg zum Mirador genießen Sie den Nachmittag am familienfreundlichen Strand und erleben zum Abschluss eine Unterwasserwelt per U-Boot.",
+            "hu": "Puerto de Mogán elvarázsolja velencei hangulatával. Fedezze fel reggel a kikötőnegyedet és a piacot, majd merüljön el a történelmi múltban a Cañada de los Gatosnál. A kilátópontról nyíló panoráma után töltse a délutánt a strandon, végül ismerje meg a víz alatti világot egy tengeralattjáróval.",
+            "ro": "Puerto de Mogán încântă cu atmosfera sa venețiană. Explorați portul și piața dimineața, apoi descoperiți istoria la Cañada de los Gatos. După urcarea la Mirador, bucurați-vă de după-amiază pe plajă și încheiați ziua cu o aventură subacvatică într-un submarin.",
+            "en": "Puerto de Mogán enchants with its Venetian charm. Explore the harbour and market in the morning before diving into local history at Cañada de los Gatos. After enjoying the view from the Mirador, spend your afternoon at the beach and wrap up with an exciting submarine tour."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Puerto de Mogán (Klein-Venedig)",
+                "hu": "Puerto de Mogán (Kis-Velence)",
+                "ro": "Puerto de Mogán (Mica Veneție)",
+                "en": "Puerto de Mogán (Little Venice)"
+              },
+              "tip_5lang": null
+            },
+            {
+              "name": {
+                "de": "Mercado de Mogán",
+                "hu": "Mogáni piac",
+                "ro": "Piața din Mogán",
+                "en": "Mogán Market"
+              },
+              "tip_5lang": null
+            },
+            {
+              "name": {
+                "de": "Cañada de los Gatos",
+                "hu": "Cañada de los Gatos régészeti park",
+                "ro": "Cañada de los Gatos",
+                "en": "Cañada de los Gatos"
+              },
+              "tip_5lang": null
+            },
+            {
+              "name": {
+                "de": "Mirador de Puerto de Mogán",
+                "hu": "Puerto de Mogán kilátó",
+                "ro": "Mirador de Puerto de Mogán",
+                "en": "Puerto de Mogán Viewpoint"
+              },
+              "tip_5lang": null
+            },
+            {
+              "name": {
+                "de": "Playa de Mogán",
+                "hu": "Mogán strand",
+                "ro": "Plaja Mogán",
+                "en": "Mogán Beach"
+              },
+              "tip_5lang": null
+            },
+            {
+              "name": {
+                "de": "Submarine Adventure",
+                "hu": "Tengeralattjáró kaland",
+                "ro": "Aventură cu submarinul",
+                "en": "Submarine Adventure"
+              },
+              "tip_5lang": null
+            },
+            {
+              "name": {
+                "de": "Paseo Marítimo",
+                "hu": "Tengerparti sétány",
+                "ro": "Paseo Marítimo",
+                "en": "Paseo Marítimo"
+              },
+              "tip_5lang": null
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Frischer Fisch",
+                "tip": "Direkt vom Hafen in den Restaurants am Kai."
+              },
+              {
+                "name": "Que Tal",
+                "tip": "Exklusive Gourmet-Erfahrung am Abend."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Friss hal",
+                "tip": "Közvetlenül a kikötőből a parti éttermekbe."
+              },
+              {
+                "name": "Que Tal",
+                "tip": "Exkluzív gasztronómiai élmény este."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Pește proaspăt",
+                "tip": "Direct din port în restaurantele de pe mal."
+              },
+              {
+                "name": "Que Tal",
+                "tip": "Experiență gourmet exclusivă seara."
+              }
+            ],
+            "en": [
+              {
+                "name": "Fresh Fish",
+                "tip": "Catch of the day at the harbour-side restaurants."
+              },
+              {
+                "name": "Que Tal",
+                "tip": "An exclusive gourmet dining experience."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Mirador",
+                "tip": "Stiller Blick über den Hafen.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Hintergassen",
+                "tip": "Ruhige Momente abseits der Hauptwege.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Mirador",
+                "tip": "Csendes kilátás a kikötőre.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Mellékutcák",
+                "tip": "Nyugodt pillanatok a tömegtől távol.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Mirador",
+                "tip": "Privire liniștită peste port.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Străduțe lăturalnice",
+                "tip": "Momente de liniște departe de agitație.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Mirador",
+                "tip": "Quiet views over the harbour at dusk.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Backstreets",
+                "tip": "Peaceful moments away from the main routes.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Wochenmarkt",
+                "tip": "Kunsthandwerk und lokale Produkte."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Heti piac",
+                "tip": "Kézműves termékek és helyi áruk."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Piața săptămânală",
+                "tip": "Artizanat și produse locale."
+              }
+            ],
+            "en": [
+              {
+                "name": "Weekly Market",
+                "tip": "Local crafts and fresh produce."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Besuchen Sie den Hafen am frühen Morgen für die beste Fotobeleuchtung.",
+              "Tragen Sie rutschfeste Schuhe für den Aufstieg zum Mirador."
+            ],
+            "hu": [
+              "Látogasson el a kikötőbe kora reggel a legjobb fotófényekért.",
+              "Viseljen csúszásmentes cipőt a kilátóhoz való feljutáshoz."
+            ],
+            "ro": [
+              "Vizitați portul dimineața devreme pentru cele mai bune fotografii.",
+              "Purtați încălțăminte aderentă pentru urcarea la Mirador."
+            ],
+            "en": [
+              "Visit the harbour early in the morning for the best photography light.",
+              "Wear sturdy shoes for the steep climb up to the viewpoint."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bieten die engen Gassen von Klein-Venedig unter den blühenden Bögen etwas Schutz vor dem Regen. Mittags erkunden Sie die archäologische Stätte, deren Pfade bei Nässe rutschig sein können. Nachmittags ist die U-Boot-Tour der perfekte trockene Rückzugsort, um die Unterwelt zu bestaunen. Abends genießen Sie den Blick auf den Hafen von einem der überdachten Cafés an der Promenade.",
+            "hu": "Reggel a Kis Velence virágos árkádjai nyújtanak némi menedéket az eső elől. Délben a régészeti lelőhelyet látogatjuk meg, ahol a köves utak csúszósak lehetnek. Délután a sárga tengeralattjáró a legjobb választás, hiszen teljesen szárazon csodálhatjuk meg a halakat. Este a kikötő menti éttermek fedett teraszairól figyelhetjük a hullámokat és a vízcseppeket a vízen.",
+            "ro": "Dimineața, străzile înguste din Mica Veneție oferă adăpost sub arcadele înflorite. La prânz, vizitați situl arheologic, dar aveți grijă la potecile alunecoase. După-amiaza, aventura cu submarinul este refugiul perfect uscat pentru a admira fauna marină. Seara, bucurați-vă de atmosfera portului de la o terasă acoperită de pe faleza Paseo Marítimo.",
+            "en": "Morning walks through Little Venice offer some shelter under flowery arches. At midday, explore the archaeological site, being careful on wet paths. Afternoon brings the Submarine Adventure, a perfect dry escape to see marine life. Evening is best spent under the covered awnings of harbor-side restaurants, enjoying the sound of rain on the Atlantic."
+          },
+          "stops": [
+            {
+              "name": "Puerto de Mogán (Little Venice)",
+              "tip_5lang": {
+                "de": "Die Torbögen bieten Schutz; ideal für Fotos bei weichem Regenlicht.",
+                "hu": "Az átjárók védenek az esőtől; a lágy fényekben gyönyörűek a fotók.",
+                "ro": "Arcadele oferă protecție; lumina difuză este ideală pentru fotografii.",
+                "en": "Archways provide shelter; soft rainy light is great for photography."
+              }
+            },
+            {
+              "name": "Mogán Market",
+              "tip_5lang": {
+                "de": "Achten Sie auf Pfützen zwischen den Ständen; feste Sohlen empfohlen.",
+                "hu": "Vigyázzon a tócsákra az árusok között; tapadós talpú cipő ajánlott.",
+                "ro": "Atenție la bălți între tarabe; se recomandă încălțăminte aderentă.",
+                "en": "Watch for puddles between stalls; non-slip shoes are recommended."
+              }
+            },
+            {
+              "name": "Cañada de los Gatos",
+              "tip_5lang": {
+                "de": "Einige Bereiche sind überdacht, aber die Außenwege sind rutschig.",
+                "hu": "Néhány rész fedett, de a külső ösvények csúszósak lehetnek.",
+                "ro": "Unele zone sunt acoperite, dar potecile exterioare sunt alunecoase.",
+                "en": "Some areas are covered, but exterior paths can be slippery."
+              }
+            },
+            {
+              "name": "Puerto de Mogán Viewpoint",
+              "tip_5lang": {
+                "de": "Der Aufstieg über die Stufen erfordert bei Regen Vorsicht.",
+                "hu": "Az esőben a lépcsőkön való feljutás fokozott óvatosságot igényel.",
+                "ro": "Urcarea pe trepte necesită prudență sporită pe timp de ploaie.",
+                "en": "Climbing the steps requires extra caution during rainfall."
+              }
+            },
+            {
+              "name": "Mogán Beach",
+              "tip_5lang": {
+                "de": "Wählen Sie eine Strandbar mit festem Dach für eine Pause.",
+                "hu": "Válasszon egy fix tetővel rendelkező strandbárt a pihenőhöz.",
+                "ro": "Alegeți un bar pe plajă cu acoperiș solid pentru o pauză.",
+                "en": "Choose a beach bar with a solid roof for your break."
+              }
+            },
+            {
+              "name": "Submarine Adventure",
+              "tip_5lang": {
+                "de": "Das beste Ziel bei Regen; man bleibt garantiert trocken.",
+                "hu": "A legjobb úti cél esőben; itt garantáltan száraz marad.",
+                "ro": "Cea mai bună destinație pe ploaie; veți rămâne garantat uscat.",
+                "en": "The best rainy day activity; you are guaranteed to stay dry."
+              }
+            },
+            {
+              "name": "Paseo Marítimo",
+              "tip_5lang": {
+                "de": "Die Restaurants haben große Markisen, die den Gehweg teils abdecken.",
+                "hu": "Az éttermek nagy napellenzői részben lefedik a sétányt.",
+                "ro": "Copertinele mari ale restaurantelor acoperă parțial faleza.",
+                "en": "Large restaurant awnings partially cover the promenade walkway."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine leichte Regenjacke statt eines sperrigen Schirms.",
+              "Die U-Boot-Tour ist bei Regen sehr beliebt, buchen Sie vorab.",
+              "Vermeiden Sie die steilen Treppen im alten Viertel bei Starkregen.",
+              "Nutzen Sie die Arkaden der Geschäfte als natürliche Unterstände."
+            ],
+            "hu": [
+              "Viseljen könnyű esőkabátot a méretes esernyő helyett.",
+              "A tengeralattjáró túra esőben népszerű, foglaljon előre.",
+              "Erős esőben kerülje az óváros meredek lépcsőit.",
+              "Használja az üzletek árkádjait természetes menedékként."
+            ],
+            "ro": [
+              "Purtați o pelerină ușoară în locul unei umbrele voluminoase.",
+              "Turul cu submarinul e popular pe ploaie; rezervați din timp.",
+              "Evitați scările abrupte din cartierul vechi în caz de ploaie torențială.",
+              "Folosiți arcadele magazinelor ca adăposturi naturale."
+            ],
+            "en": [
+              "Wear a light raincoat instead of a bulky umbrella.",
+              "The submarine tour is popular when it rains; book in advance.",
+              "Avoid the steep old town stairs during heavy downpours.",
+              "Utilize the shop arcades as natural shelters along the way."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen ist mild und ideal für einen Spaziergang durch die bunten Gassen ohne die Hitze. Mittags glänzt die Sonne sanft auf den archäologischen Ruinen. Am Nachmittag ist das Licht für die U-Boot-Fahrt besonders klar. Da die Sonne gegen 18 Uhr untergeht, ist der Aussichtspunkt der perfekte Ort, um den frühen, spektakulären Sonnenuntergang über dem Atlantik zu beobachten.",
+            "hu": "A téli reggel enyhe, ideális a színes utcák felfedezéséhez a nyári hőség nélkül. Délben a nap lágyan csillog a régészeti romokon. Délután a fények különösen tiszták a tengeralattjárós merüléshez. Mivel a nap 18 óra körül nyugszik, a kilátópont tökéletes helyszín a korai, látványos atlanti naplemente megtekintéséhez.",
+            "ro": "Dimineața de iarnă este blândă, ideală pentru explorarea străzilor colorate fără caniculă. La prânz, soarele strălucește blând peste ruinele arheologice. După-amiaza, lumina este clară pentru scufundarea cu submarinul. Deoarece soarele apune în jur de ora 18, punctul de belvedere este locul perfect pentru apusul spectaculos peste Atlantic.",
+            "en": "Winter mornings are mild, perfect for wandering the colorful streets without the heat. Midday sun shines gently on the archaeological ruins. In the afternoon, the winter light offers great visibility for the submarine trip. As sunset is around 6 PM, the viewpoint is the prime spot to catch the early, spectacular colors over the Atlantic horizon."
+          },
+          "stops": [
+            {
+              "name": "Puerto de Mogán (Little Venice)",
+              "tip_5lang": {
+                "de": "Das milde Licht betont die Pastellfarben der Häuser perfekt.",
+                "hu": "Az enyhe fény tökéletesen kiemeli a házak pasztell színeit.",
+                "ro": "Lumina blândă scoate în evidență culorile pastelate ale caselor.",
+                "en": "Mild light perfectly emphasizes the pastel colors of the houses."
+              }
+            },
+            {
+              "name": "Mogán Market",
+              "tip_5lang": {
+                "de": "Weniger Gedränge als im Sommer; genießen Sie lokale Winterfrüchte.",
+                "hu": "Kisebb a tömeg, mint nyáron; kóstolja meg a helyi téli gyümölcsöket.",
+                "ro": "Mai puțină aglomerație; savurați fructele locale de iarnă.",
+                "en": "Less crowded than summer; try local seasonal winter fruits."
+              }
+            },
+            {
+              "name": "Cañada de los Gatos",
+              "tip_5lang": {
+                "de": "Perfekt für den Aufstieg, da es mittags nicht zu heiß ist.",
+                "hu": "Tökéletes a felfelé úthoz, mert délben sem túl forró a levegő.",
+                "ro": "Perfect pentru urcare, deoarece nu este prea cald la prânz.",
+                "en": "Ideal for the climb, as it is not too hot even at midday."
+              }
+            },
+            {
+              "name": "Puerto de Mogán Viewpoint",
+              "tip_5lang": {
+                "de": "Seien Sie vor 17:45 Uhr hier, um den Sonnenuntergang zu sehen.",
+                "hu": "Legyen itt 17:45 előtt, hogy elcsípje a naplementét.",
+                "ro": "Fiți aici înainte de 17:45 pentru a prinde apusul soarelui.",
+                "en": "Be here before 5:45 PM to catch the winter sunset."
+              }
+            },
+            {
+              "name": "Mogán Beach",
+              "tip_5lang": {
+                "de": "Das Wasser ist mit 19°C erfrischend; ideal für ein kurzes Bad.",
+                "hu": "A víz 19 fokos, frissítő; ideális egy rövid mártózáshoz.",
+                "ro": "Apa are 19°C, fiind revigorantă; ideală pentru o baie scurtă.",
+                "en": "The water is 19°C, refreshing and ideal for a quick dip."
+              }
+            },
+            {
+              "name": "Submarine Adventure",
+              "tip_5lang": {
+                "de": "Das klare Winterwasser bietet oft eine bessere Sichtweite.",
+                "hu": "A tiszta téli vízben gyakran jobb a látótávolság.",
+                "ro": "Apa clară de iarnă oferă adesea o vizibilitate mai bună.",
+                "en": "Clear winter waters often provide better underwater visibility."
+              }
+            },
+            {
+              "name": "Paseo Marítimo",
+              "tip_5lang": {
+                "de": "Abends kühlt es ab; eine leichte Jacke ist empfehlenswert.",
+                "hu": "Este lehűl a levegő; egy könnyű dzseki ajánlott.",
+                "ro": "Seara se răcorește; se recomandă o jachetă ușoară.",
+                "en": "It cools down in the evening; a light jacket is recommended."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die angenehmen Mittagstemperaturen für längere Erkundungen.",
+              "Die UV-Strahlung ist auch im Winter stark; Sonnenschutz verwenden.",
+              "Der Sonnenuntergang findet früher statt als in Nordeuropa.",
+              "Abends sind Terrassenheizungen in den Restaurants üblich."
+            ],
+            "hu": [
+              "Használja ki a kellemes déli hőmérsékletet a felfedezéshez.",
+              "Az UV sugárzás télen is erős; használjon naptejet.",
+              "A naplemente korábban van, mint Észak-Európában.",
+              "Este az éttermekben gyakoriak a teraszfűtők."
+            ],
+            "ro": [
+              "Profită de temperaturile plăcute de la prânz pentru explorare.",
+              "Radiațiile UV sunt puternice și iarna; folosiți protecție solară.",
+              "Apusul are loc mai devreme decât în nordul Europei.",
+              "Seara, încălzitoarele de terasă sunt obișnuite în restaurante."
+            ],
+            "en": [
+              "Take advantage of pleasant midday temperatures for exploring.",
+              "UV radiation is strong even in winter; use sun protection.",
+              "Sunset occurs earlier than in Northern Europe.",
+              "Terrace heaters are common in restaurants during winter evenings."
+            ]
+          }
+        }
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "15:30",
+      "total_km": 8.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Puerto Deportivo",
+            "hu": "Puerto Deportivo kikötő",
+            "ro": "Puerto Deportivo",
+            "en": "Puerto Deportivo"
+          },
+          "coords": [
+            -15.766,
+            27.816
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_4lang": {
+            "de": "Beobachten Sie das Einlaufen der Segelboote.",
+            "hu": "Figyelje meg a befutó vitorlásokat.",
+            "ro": "Urmăriți iahturile care intră în port.",
+            "en": "Watch the sailboats entering the harbour."
+          }
+        },
+        {
+          "name": {
+            "de": "Puerto de Mogán (Klein-Venedig)",
+            "hu": "Puerto de Mogán",
+            "ro": "Puerto de Mogán",
+            "en": "Puerto de Mogán"
+          },
+          "coords": [
+            -15.765,
+            27.817
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_4lang": {
+            "de": "Schieben Sie das Rad in den engen Fußgängerzonen.",
+            "hu": "Tolja a kerékpárt a szűk sétálóutcákban.",
+            "ro": "Împingeți bicicleta în zonele pietonale înguste.",
+            "en": "Walk your bike through the narrow pedestrian zones."
+          }
+        },
+        {
+          "name": {
+            "de": "Paseo Marítimo",
+            "hu": "Tengerparti sétány",
+            "ro": "Paseo Marítimo",
+            "en": "Paseo Marítimo"
+          },
+          "coords": [
+            -15.76,
+            27.8165
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_4lang": {
+            "de": "Flache Strecke entlang der Küste.",
+            "hu": "Lapos szakasz a tengerpart mentén.",
+            "ro": "Traseu plat de-a lungul coastei.",
+            "en": "Enjoy the flat path along the coastline."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa de Mogán",
+            "hu": "Mogán strand",
+            "ro": "Plaja Mogán",
+            "en": "Mogán Beach"
+          },
+          "coords": [
+            -15.764,
+            27.8175
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:00",
+          "stay_min": 150,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_4lang": {
+            "de": "Sicherer Abstellplatz für Räder in Strandnähe.",
+            "hu": "Biztonságos kerékpártároló a strand közelében.",
+            "ro": "Parcare sigură pentru biciclete lângă plajă.",
+            "en": "Secure bike parking available near the beach entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Mercado de Mogán",
+            "hu": "Mogáni piac",
+            "ro": "Piața din Mogán",
+            "en": "Mogán Market"
+          },
+          "coords": [
+            -15.764,
+            27.818
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "14:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_4lang": {
+            "de": "Ideal für ein schnelles Souvenir.",
+            "hu": "Ideális egy gyors ajándéktárgy beszerzéséhez.",
+            "ro": "Ideal pentru un suvenir rapid.",
+            "en": "Ideal for a quick souvenir before finishing."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erfahren Sie Puerto de Mogán entspannt mit dem Rad. Entlang der Küste und durch den Hafen entdecken Sie die schönsten Ecken der Stadt. Nach einem erfrischenden Badestopp am Strand beenden Sie Ihre Tour mit einem Besuch auf dem bunten Markt.",
+        "hu": "Fedezze fel Puerto de Mogánt kényelmesen kerékpárral. A tengerpart mentén és a kikötőn keresztül megismerheti a város legszebb zugait. Egy frissítő fürdőzés után zárja túráját a színes piacon.",
+        "ro": "Descoperiți Puerto de Mogán relaxat, pe bicicletă. De-a lungul coastei și prin port, veți vedea cele mai frumoase colțuri ale orașului. După o baie revigorantă, încheiați turul la piața colorată.",
+        "en": "Enjoy a relaxed cycling tour around Puerto de Mogán. Pedal along the coastline and through the harbour to discover the city's gems. After a refreshing break at the beach, finish your ride at the vibrant local market."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Tapitas",
+            "tip": "Kleine Snacks für zwischendurch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tapitas",
+            "tip": "Kisebb harapnivalók útközben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tapitas",
+            "tip": "Gustări mici pe traseu."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tapitas",
+            "tip": "Small snacks for a quick energy boost."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Hafeneinfahrt",
+            "tip": "Windige Ruhe am Pier.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kikötőbejárat",
+            "tip": "Szeles nyugalom a mólónál.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Intrarea în port",
+            "tip": "Liniște pe dig.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Harbour Entrance",
+            "tip": "Breezy quiet spot at the pier.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mogán Mall",
+            "tip": "Moderne Läden (kurze Fahrt entfernt)."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mogán Mall",
+            "tip": "Modern üzletek (rövid tekerés)."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mogán Mall",
+            "tip": "Magazine moderne (la scurtă distanță)."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mogán Mall",
+            "tip": "Modern shops (a short ride away)."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Uferpromenade ist meist flach und gut befahrbar.",
+          "Vermeiden Sie das Radfahren in den Mittagsstunden."
+        ],
+        "hu": [
+          "A tengerparti sétány többnyire sík és jól járható.",
+          "Kerülje a kerékpározást a déli hőségben."
+        ],
+        "ro": [
+          "Faleza este în mare parte plată și ușor de parcurs.",
+          "Evitați ciclismul în orele amiezii."
+        ],
+        "en": [
+          "The waterfront promenade is mostly flat and bike-friendly.",
+          "Avoid cycling during the hottest hours of the day."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Erfahren Sie Puerto de Mogán entspannt mit dem Rad. Entlang der Küste und durch den Hafen entdecken Sie die schönsten Ecken der Stadt. Nach einem erfrischenden Badestopp am Strand beenden Sie Ihre Tour mit einem Besuch auf dem bunten Markt.",
+            "hu": "Fedezze fel Puerto de Mogánt kényelmesen kerékpárral. A tengerpart mentén és a kikötőn keresztül megismerheti a város legszebb zugait. Egy frissítő fürdőzés után zárja túráját a színes piacon.",
+            "ro": "Descoperiți Puerto de Mogán relaxat, pe bicicletă. De-a lungul coastei și prin port, veți vedea cele mai frumoase colțuri ale orașului. După o baie revigorantă, încheiați turul la piața colorată.",
+            "en": "Enjoy a relaxed cycling tour around Puerto de Mogán. Pedal along the coastline and through the harbour to discover the city's gems. After a refreshing break at the beach, finish your ride at the vibrant local market."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Puerto Deportivo",
+                "hu": "Puerto Deportivo kikötő",
+                "ro": "Puerto Deportivo",
+                "en": "Puerto Deportivo"
+              },
+              "tip_5lang": null
+            },
+            {
+              "name": {
+                "de": "Puerto de Mogán (Klein-Venedig)",
+                "hu": "Puerto de Mogán",
+                "ro": "Puerto de Mogán",
+                "en": "Puerto de Mogán"
+              },
+              "tip_5lang": null
+            },
+            {
+              "name": {
+                "de": "Paseo Marítimo",
+                "hu": "Tengerparti sétány",
+                "ro": "Paseo Marítimo",
+                "en": "Paseo Marítimo"
+              },
+              "tip_5lang": null
+            },
+            {
+              "name": {
+                "de": "Playa de Mogán",
+                "hu": "Mogán strand",
+                "ro": "Plaja Mogán",
+                "en": "Mogán Beach"
+              },
+              "tip_5lang": null
+            },
+            {
+              "name": {
+                "de": "Mercado de Mogán",
+                "hu": "Mogáni piac",
+                "ro": "Piața din Mogán",
+                "en": "Mogán Market"
+              },
+              "tip_5lang": null
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Tapitas",
+                "tip": "Kleine Snacks für zwischendurch."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Tapitas",
+                "tip": "Kisebb harapnivalók útközben."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Tapitas",
+                "tip": "Gustări mici pe traseu."
+              }
+            ],
+            "en": [
+              {
+                "name": "Tapitas",
+                "tip": "Small snacks for a quick energy boost."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Hafeneinfahrt",
+                "tip": "Windige Ruhe am Pier.",
+                "emoji": "🍃"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Kikötőbejárat",
+                "tip": "Szeles nyugalom a mólónál.",
+                "emoji": "🍃"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Intrarea în port",
+                "tip": "Liniște pe dig.",
+                "emoji": "🍃"
+              }
+            ],
+            "en": [
+              {
+                "name": "Harbour Entrance",
+                "tip": "Breezy quiet spot at the pier.",
+                "emoji": "🍃"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Mogán Mall",
+                "tip": "Moderne Läden (kurze Fahrt entfernt)."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Mogán Mall",
+                "tip": "Modern üzletek (rövid tekerés)."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Mogán Mall",
+                "tip": "Magazine moderne (la scurtă distanță)."
+              }
+            ],
+            "en": [
+              {
+                "name": "Mogán Mall",
+                "tip": "Modern shops (a short ride away)."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Die Uferpromenade ist meist flach und gut befahrbar.",
+              "Vermeiden Sie das Radfahren in den Mittagsstunden."
+            ],
+            "hu": [
+              "A tengerparti sétány többnyire sík és jól járható.",
+              "Kerülje a kerékpározást a déli hőségben."
+            ],
+            "ro": [
+              "Faleza este în mare parte plată și ușor de parcurs.",
+              "Evitați ciclismul în orele amiezii."
+            ],
+            "en": [
+              "The waterfront promenade is mostly flat and bike-friendly.",
+              "Avoid cycling during the hottest hours of the day."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Tag im Sattel beginnt vorsichtig am Hafenbecken. Mittags radeln Sie zur geschützten Strandpromenade, während Sie den Kopfwind spüren. Am Nachmittag bietet der Marktbesuch eine willkommene Pause unter den Vordächern. Trotz Regen bleibt die Küstenstrecke befahrbar, erfordert aber erhöhte Konzentration auf den glatten Wegen rund um den Puerto Deportivo.",
+            "hu": "Az esős nap a nyeregben óvatosan indul a kikötőnél. Délben a széllel dacolva tekerünk a védettebb parti sétány felé. Délután a piac meglátogatása kínál pihenőt az ereszek alatt. Az eső ellenére a parti útvonal járható marad, de a Puerto Deportivo körüli csúszós szakaszokon fokozott koncentrációra van szükség.",
+            "ro": "O zi ploioasă pe bicicletă începe cu prudență în zona portului. La prânz, pedalați spre faleza protejată, simțind briza umedă. După-amiaza, o oprire la piață oferă un răgaz sub streșini. În ciuda ploii, traseul de coastă rămâne practicabil, dar necesită concentrare pe zonele alunecoase din Puerto Deportivo.",
+            "en": "A rainy day in the saddle starts cautiously near the docks. At midday, pedal towards the sheltered promenade while bracing against the wind. The afternoon market visit offers a welcome break under the eaves. Despite the rain, the coastal route remains open, though the slippery surfaces around Puerto Deportivo require focus."
+          },
+          "stops": [
+            {
+              "name": "Puerto Deportivo",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem Kopfsteinpflaster; es wird bei Nässe extrem glatt.",
+                "hu": "Vigyázat a macskakövön; nedvesen rendkívül csúszóssá válik.",
+                "ro": "Atenție pe pavaj; devine extrem de alunecos când este ud.",
+                "en": "Caution on the cobblestones; they become extremely slick when wet."
+              }
+            },
+            {
+              "name": "Puerto de Mogán",
+              "tip_5lang": {
+                "de": "Nutzen Sie die breiten Hauptwege; enge Gassen sind für Räder gesperrt.",
+                "hu": "Használja a széles utakat; a szűk utcákból ki vannak tiltva a bringák.",
+                "ro": "Folosiți căile principale; bicicletele sunt interzise pe străzile înguste.",
+                "en": "Use the wide main paths; bikes are restricted in narrow alleys."
+              }
+            },
+            {
+              "name": "Paseo Marítimo",
+              "tip_5lang": {
+                "de": "Fahren Sie defensiv; Fußgänger suchen oft hastig Schutz.",
+                "hu": "Tekerjen óvatosan; a gyalogosok gyakran hirtelen keresnek menedéket.",
+                "ro": "Conduceți defensiv; pietonii caută adesea adăpost în grabă.",
+                "en": "Ride defensively; pedestrians often rush for cover during rain."
+              }
+            },
+            {
+              "name": "Mogán Beach",
+              "tip_5lang": {
+                "de": "Parken Sie das Rad in der Nähe der überdachten Kiosk-Zonen.",
+                "hu": "Parkolja a bringát a fedett kioszkok közelébe.",
+                "ro": "Parcați bicicleta în apropierea zonelor de chioșcuri acoperite.",
+                "en": "Park your bike near the sheltered kiosk areas."
+              }
+            },
+            {
+              "name": "Mogán Market",
+              "tip_5lang": {
+                "de": "Schieben Sie das Rad durch die Marktzonen; der Boden ist rutschig.",
+                "hu": "Tolja a biciklit a piaci részen; a talaj csúszós.",
+                "ro": "Împingeți bicicleta prin zonele de piață; solul este alunecos.",
+                "en": "Walk your bike through the market zones; the ground is slippery."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie starkes Bremsen auf den weißen Fahrbahnmarkierungen.",
+              "Ein Regenponcho schützt besser als eine normale Jacke beim Radeln.",
+              "Prüfen Sie den Reifendruck; etwas weniger Druck gibt mehr Grip.",
+              "Nutzen Sie die Fahrradständer nahe der Hafenmeisterei."
+            ],
+            "hu": [
+              "Kerülje az erős fékezést a fehér útburkolati jeleken.",
+              "Az esőponcsó jobban véd tekerés közben, mint egy sima dzseki.",
+              "Ellenőrizze a guminyomást; a kicsit laposabb gumi jobban tapad.",
+              "Használja a kikötőmesteri iroda közeli tárolókat."
+            ],
+            "ro": [
+              "Evitați frânarea bruscă pe marcajele rutiere albe.",
+              "O pelerină de ploaie protejează mai bine decât o jachetă simplă.",
+              "Verificați presiunea; o presiune mai mică oferă aderență mai bună.",
+              "Folosiți rastelele de biciclete de lângă biroul căpitanului."
+            ],
+            "en": [
+              "Avoid heavy braking on the white road markings.",
+              "A rain poncho offers better protection than a jacket while cycling.",
+              "Check tire pressure; slightly lower pressure provides more grip.",
+              "Use the bike racks located near the harbor master's office."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die kühle Morgenluft am Hafen ist perfekt für einen aktiven Start. Mittags genießen Sie die Sonne auf dem Paseo Marítimo, ohne zu schwitzen. Am Nachmittag bietet der Strand eine entspannte Pause, bevor Sie zum Markt radeln. Da es früher dunkel wird, genießen Sie die beleuchteten Kanäle von Klein-Venedig zum Abschluss Ihrer Tour im sanften Winterlicht.",
+            "hu": "A kikötő hűvös reggeli levegője tökéletes az aktív kezdéshez. Délben izzadás nélkül élvezheti a napsütést a Paseo Marítimo sétányon. Délután a strand nyugodt pihenőt kínál, mielőtt a piachoz tekernénk. Mivel korábban sötétedik, a túrát a Kis Velence kivilágított csatornái mellett fejezheti be a lágy téli fényben.",
+            "ro": "Aerul răcoros de dimineață din port este perfect pentru un start activ. La prânz, savurați soarele pe Paseo Marítimo fără să transpirați. După-amiaza, plaja oferă un răgaz relaxant înainte de a pedala spre piață. Deoarece se întunecă devreme, încheiați turul admirând canalele luminate în lumina blândă de iarnă.",
+            "en": "Cool morning air at the harbor is perfect for an energetic start. Midday sun on the Paseo Marítimo is enjoyable without breaking a sweat. In the afternoon, the beach provides a relaxing pause before cycling to the market. With earlier nightfall, finish your tour by the illuminated canals of Little Venice in the soft winter glow."
+          },
+          "stops": [
+            {
+              "name": "Puerto Deportivo",
+              "tip_5lang": {
+                "de": "Ideale Temperaturen für Erkundungen im Werftbereich.",
+                "hu": "Ideális hőmérséklet a hajógyári terület felfedezéséhez.",
+                "ro": "Temperaturi ideale pentru explorarea zonei șantierului naval.",
+                "en": "Ideal temperatures for exploring the shipyard area."
+              }
+            },
+            {
+              "name": "Puerto de Mogán",
+              "tip_5lang": {
+                "de": "Die tiefstehende Wintersonne wirft wunderschöne lange Schatten.",
+                "hu": "Az alacsonyan járó téli nap gyönyörű hosszú árnyékokat vet.",
+                "ro": "Soarele de iarnă aruncă umbre lungi și frumoase.",
+                "en": "The low winter sun casts beautiful long shadows for photos."
+              }
+            },
+            {
+              "name": "Paseo Marítimo",
+              "tip_5lang": {
+                "de": "Ein leichter Windbreaker ist für die Fahrt am Meer ratsam.",
+                "hu": "Egy könnyű széldzseki tanácsos a tengerparti tekeréshez.",
+                "ro": "Se recomandă o jachetă anti-vânt ușoară pentru faleză.",
+                "en": "A light windbreaker is advisable for the coastal ride."
+              }
+            },
+            {
+              "name": "Mogán Beach",
+              "tip_5lang": {
+                "de": "Der Sand ist nicht so heiß wie im Sommer; ideal für Barfußpausen.",
+                "hu": "A homok nem olyan forró, mint nyáron; ideális mezítlábas pihenőhöz.",
+                "ro": "Nisipul nu este atât de fierbinte; ideal pentru pauze desculț.",
+                "en": "The sand is not as hot as in summer; ideal for barefoot breaks."
+              }
+            },
+            {
+              "name": "Mogán Market",
+              "tip_5lang": {
+                "de": "Kaufen Sie frische kanarische Bananen als Energiekick für die Fahrt.",
+                "hu": "Vegyen friss kanári banánt energiapótlásnak a tekeréshez.",
+                "ro": "Cumpărați banane canariene proaspete pentru energie.",
+                "en": "Buy fresh Canarian bananas as an energy boost for your ride."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Planen Sie Ihre Tour so, dass Sie vor 18 Uhr zurück sind.",
+              "Die Luftfeuchtigkeit ist im Winter geringer, was das Atmen erleichtert.",
+              "Trinken Sie trotz kühlerer Temperaturen ausreichend Wasser.",
+              "Achten Sie auf funktionierende Lichter am Rad für die Dämmerung."
+            ],
+            "hu": [
+              "Tervezze úgy a túrát, hogy 18 óra előtt visszaérjen.",
+              "Télen alacsonyabb a páratartalom, ami megkönnyíti a légzést.",
+              "A hűvösebb idő ellenére is igyon elegendő vizet.",
+              "Ügyeljen a kerékpár lámpáira a korai szürkületben."
+            ],
+            "ro": [
+              "Planificați turul astfel încât să reveniți înainte de ora 18.",
+              "Umiditatea este mai mică iarna, ceea ce ușurează respirația.",
+              "Beți suficientă apă, în ciuda temperaturilor mai scăzute.",
+              "Asigurați-vă că luminile bicicletei funcționează pentru amurg."
+            ],
+            "en": [
+              "Plan your tour to be back before 6 PM.",
+              "Lower winter humidity makes breathing easier during exertion.",
+              "Stay hydrated and drink plenty of water despite cooler air.",
+              "Ensure your bike lights are working for the early dusk."
+            ]
+          }
+        }
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "15:15",
+      "total_km": 15.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Puerto de Mogán (Klein-Venedig)",
+            "hu": "Puerto de Mogán",
+            "ro": "Puerto de Mogán",
+            "en": "Puerto de Mogán"
+          },
+          "coords": [
+            -15.765,
+            27.817
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_4lang": {
+            "de": "Ein großes Parkhaus befindet sich direkt am Ortseingang.",
+            "hu": "A falu bejáratánál egy nagy mélygarázs található.",
+            "ro": "O parcare mare se află chiar la intrarea în localitate.",
+            "en": "A large parking garage is located at the entrance to the port."
+          }
+        },
+        {
+          "name": {
+            "de": "Cañada de los Gatos",
+            "hu": "Cañada de los Gatos",
+            "ro": "Cañada de los Gatos",
+            "en": "Cañada de los Gatos"
+          },
+          "coords": [
+            -15.763,
+            27.819
+          ],
+          "category": "museums",
+          "arrive_at": "10:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_4lang": {
+            "de": "Gut erreichbar mit Parkmöglichkeiten in der Nähe.",
+            "hu": "Könnyen elérhető, parkolási lehetőség a közelben.",
+            "ro": "Ușor accesibil cu parcare în apropiere.",
+            "en": "Easily accessible with nearby street parking."
+          }
+        },
+        {
+          "name": {
+            "de": "Submarine Adventure",
+            "hu": "Tengeralattjáró",
+            "ro": "Submarin",
+            "en": "Submarine Adventure"
+          },
+          "coords": [
+            -15.767,
+            27.816
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "12:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_4lang": {
+            "de": "Kostenloses Parken oft bei Tourbuchung inklusive.",
+            "hu": "Ingyenes parkolás gyakran jár a foglaláshoz.",
+            "ro": "Parcare gratuită adesea inclusă la rezervare.",
+            "en": "Free parking is often included with your tour booking."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa de Mogán",
+            "hu": "Mogán strand",
+            "ro": "Plaja Mogán",
+            "en": "Mogán Beach"
+          },
+          "coords": [
+            -15.764,
+            27.8175
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_4lang": {
+            "de": "Kurze Wege vom Auto zum Sandstrand.",
+            "hu": "Rövid séta az autótól a homokos partig.",
+            "ro": "Distanță mică de la mașină la plajă.",
+            "en": "Short walk from your car to the sandy shore."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirador de Puerto de Mogán",
+            "hu": "Puerto de Mogán kilátó",
+            "ro": "Mirador de Puerto de Mogán",
+            "en": "Puerto de Mogán Viewpoint"
+          },
+          "coords": [
+            -15.766,
+            27.8195
+          ],
+          "category": "natural features",
+          "arrive_at": "15:00",
+          "stay_min": 15,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.8,
+          "tip_4lang": {
+            "de": "Schneller Stopp für den Überblick.",
+            "hu": "Gyors megálló az átfogó képért.",
+            "ro": "Oprire rapidă pentru panoramă.",
+            "en": "A quick stop for a panoramic overview."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Puerto de Mogán lässt sich wunderbar mit dem Auto ansteuern. Erkunden Sie den Hafen, das Museum und die Unterwasserwelt, bevor Sie sich am Strand entspannen. Der Mirador bietet zum Abschluss den perfekten Blick über die gesamte Bucht.",
+        "hu": "Puerto de Mogán kiválóan megközelíthető autóval. Fedezze fel a kikötőt, a múzeumot és a víz alatti világot, majd pihenjen a strandon. A kilátópontról nyíló panoráma tökéletes befejezése a napnak.",
+        "ro": "Puerto de Mogán este ușor de vizitat cu mașina. Explorați portul, muzeul și lumea subacvatică, apoi relaxați-vă pe plajă. Mirador oferă vederea perfectă peste întreaga baie la finalul zilei.",
+        "en": "Visiting Puerto de Mogán by car is very convenient. Explore the harbour, museum, and submarine tour before heading to the beach. End your day at the Mirador for a stunning view of the entire bay."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Cofradia de Pescadores",
+            "tip": "Authentische Fischgerichte zu fairen Preisen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cofradia de Pescadores",
+            "tip": "Autentikus halételek korrekt áron."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cofradia de Pescadores",
+            "tip": "Mâncăruri de pește autentice la prețuri corecte."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cofradia de Pescadores",
+            "tip": "Authentic fish dishes at reasonable prices."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Mogán Hafenmole",
+            "tip": "Ruhiger Ausklang am Wasser.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mogáni móló",
+            "tip": "Csendes lezárás a víznél.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Digul din Mogán",
+            "tip": "Final liniștit lângă apă.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Mogán Pier",
+            "tip": "Quiet evening by the water.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Avenida de las Artes",
+            "tip": "Kleine Kunstgalerien und Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Avenida de las Artes",
+            "tip": "Művészeti galériák és szuvenírek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Avenida de las Artes",
+            "tip": "Galerii de artă și suveniruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Avenida de las Artes",
+            "tip": "Small art galleries and souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die Tiefgarage für schattiges Parken.",
+          "Die Anfahrt über die GC-1 ist sehr direkt."
+        ],
+        "hu": [
+          "Használja a mélygarázst az árnyékos parkolásért.",
+          "A GC-1 autópályán az út nagyon egyszerű."
+        ],
+        "ro": [
+          "Folosiți parcarea subterană pentru umbră.",
+          "Accesul prin GC-1 este foarte direct."
+        ],
+        "en": [
+          "Use the underground parking for shade.",
+          "Access via the GC-1 motorway is very straightforward."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Puerto de Mogán lässt sich wunderbar mit dem Auto ansteuern. Erkunden Sie den Hafen, das Museum und die Unterwasserwelt, bevor Sie sich am Strand entspannen. Der Mirador bietet zum Abschluss den perfekten Blick über die gesamte Bucht.",
+            "hu": "Puerto de Mogán kiválóan megközelíthető autóval. Fedezze fel a kikötőt, a múzeumot és a víz alatti világot, majd pihenjen a strandon. A kilátópontról nyíló panoráma tökéletes befejezése a napnak.",
+            "ro": "Puerto de Mogán este ușor de vizitat cu mașina. Explorați portul, muzeul și lumea subacvatică, apoi relaxați-vă pe plajă. Mirador oferă vederea perfectă peste întreaga baie la finalul zilei.",
+            "en": "Visiting Puerto de Mogán by car is very convenient. Explore the harbour, museum, and submarine tour before heading to the beach. End your day at the Mirador for a stunning view of the entire bay."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Puerto de Mogán (Klein-Venedig)",
+                "hu": "Puerto de Mogán",
+                "ro": "Puerto de Mogán",
+                "en": "Puerto de Mogán"
+              },
+              "tip_5lang": null
+            },
+            {
+              "name": {
+                "de": "Cañada de los Gatos",
+                "hu": "Cañada de los Gatos",
+                "ro": "Cañada de los Gatos",
+                "en": "Cañada de los Gatos"
+              },
+              "tip_5lang": null
+            },
+            {
+              "name": {
+                "de": "Submarine Adventure",
+                "hu": "Tengeralattjáró",
+                "ro": "Submarin",
+                "en": "Submarine Adventure"
+              },
+              "tip_5lang": null
+            },
+            {
+              "name": {
+                "de": "Playa de Mogán",
+                "hu": "Mogán strand",
+                "ro": "Plaja Mogán",
+                "en": "Mogán Beach"
+              },
+              "tip_5lang": null
+            },
+            {
+              "name": {
+                "de": "Mirador de Puerto de Mogán",
+                "hu": "Puerto de Mogán kilátó",
+                "ro": "Mirador de Puerto de Mogán",
+                "en": "Puerto de Mogán Viewpoint"
+              },
+              "tip_5lang": null
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Cofradia de Pescadores",
+                "tip": "Authentische Fischgerichte zu fairen Preisen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Cofradia de Pescadores",
+                "tip": "Autentikus halételek korrekt áron."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Cofradia de Pescadores",
+                "tip": "Mâncăruri de pește autentice la prețuri corecte."
+              }
+            ],
+            "en": [
+              {
+                "name": "Cofradia de Pescadores",
+                "tip": "Authentic fish dishes at reasonable prices."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Mogán Hafenmole",
+                "tip": "Ruhiger Ausklang am Wasser.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Mogáni móló",
+                "tip": "Csendes lezárás a víznél.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Digul din Mogán",
+                "tip": "Final liniștit lângă apă.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Mogán Pier",
+                "tip": "Quiet evening by the water.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Avenida de las Artes",
+                "tip": "Kleine Kunstgalerien und Souvenirs."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Avenida de las Artes",
+                "tip": "Művészeti galériák és szuvenírek."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Avenida de las Artes",
+                "tip": "Galerii de artă și suveniruri."
+              }
+            ],
+            "en": [
+              {
+                "name": "Avenida de las Artes",
+                "tip": "Small art galleries and souvenirs."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Nutzen Sie die Tiefgarage für schattiges Parken.",
+              "Die Anfahrt über die GC-1 ist sehr direkt."
+            ],
+            "hu": [
+              "Használja a mélygarázst az árnyékos parkolásért.",
+              "A GC-1 autópályán az út nagyon egyszerű."
+            ],
+            "ro": [
+              "Folosiți parcarea subterană pentru umbră.",
+              "Accesul prin GC-1 este foarte direct."
+            ],
+            "en": [
+              "Use the underground parking for shade.",
+              "Access via the GC-1 motorway is very straightforward."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erreichen Sie den Hafen bequem und bleiben beim Parken im Parkhaus trocken. Mittags führt die Fahrt zur archäologischen Stätte, die direkt erreichbar ist. Das Highlight am Nachmittag ist die U-Boot-Fahrt, bei der das Wetter keine Rolle spielt. Zum Abschluss genießen Sie den Blick vom Aussichtspunkt direkt aus dem trockenen Wagen, bevor es zurück geht.",
+            "hu": "Autóval kényelmesen elérheti a kikötőt, a parkolóházban pedig szárazon maradhat. Délben a régészeti lelőhelyhez hajtunk, amely közvetlenül elérhető. A délután fénypontja a tengeralattjárózás, ahol az időjárás nem számít. Végezetül a kilátópontról a kocsi ablakából csodálhatjuk meg a tájat, mielőtt elindulnánk.",
+            "ro": "Cu mașina ajungeți confortabil în port, rămânând uscat în parcarea subterană. La prânz, conduceți spre situl arheologic, care este ușor accesibil. Punctul culminant al după-amiezii este submarinul, unde vremea nu contează. La final, admirați priveliștea de la belvedere direct din mașină, înainte de plecare.",
+            "en": "By car, you reach the harbor comfortably, staying dry in the multi-story parking. Midday involves a short drive to the archaeological site. The afternoon highlight is the submarine adventure, unaffected by the weather. Finish by driving to the viewpoint and enjoying the vista from the warmth of your car before heading back."
+          },
+          "stops": [
+            {
+              "name": "Puerto de Mogán",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Parkhaus am Eingang, um direkt ins Zentrum zu gelangen.",
+                "hu": "Használja a bejáratnál lévő parkolóházat a központ eléréséhez.",
+                "ro": "Folosiți parcarea de la intrare pentru a ajunge direct în centru.",
+                "en": "Use the parking garage at the entrance to reach the center directly."
+              }
+            },
+            {
+              "name": "Cañada de los Gatos",
+              "tip_5lang": {
+                "de": "Parkplätze befinden sich direkt gegenüber dem Eingang.",
+                "hu": "Parkolóhelyek közvetlenül a bejárattal szemben találhatók.",
+                "ro": "Locurile de parcare se află direct vizavi de intrare.",
+                "en": "Parking spaces are located directly opposite the entrance."
+              }
+            },
+            {
+              "name": "Submarine Adventure",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg vom Parkplatz; ideal bei wechselhaftem Wetter.",
+                "hu": "Rövid séta a parkolótól; ideális változékony időben.",
+                "ro": "Scurtă plimbare de la parcare; ideal pe vreme schimbătoare.",
+                "en": "Short walk from the parking; ideal for changeable weather."
+              }
+            },
+            {
+              "name": "Mogán Beach",
+              "tip_5lang": {
+                "de": "Hinter dem Strand gibt es bewachte Parkplätze.",
+                "hu": "A strand mögött őrzött parkolók találhatók.",
+                "ro": "Există parcări păzite în spatele plajei.",
+                "en": "There are monitored parking lots located behind the beach."
+              }
+            },
+            {
+              "name": "Puerto de Mogán Viewpoint",
+              "tip_5lang": {
+                "de": "Die Straße zum Aussichtspunkt bietet Platz für einen kurzen Stopp.",
+                "hu": "A kilátóhoz vezető úton van hely egy rövid megálláshoz.",
+                "ro": "Drumul spre belvedere oferă spațiu pentru o oprire scurtă.",
+                "en": "The road to the viewpoint has space for a brief stop."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Parkhäuser sind bei Regen oft schneller voll; kommen Sie früh.",
+              "Fahren Sie vorsichtig auf den kurvigen Zufahrtsstraßen bei Nässe.",
+              "Nutzen Sie die Scheibenwischer-Intervallschaltung bei Nieselregen.",
+              "In den Parkhäusern bleibt Ihr Auto kühl und trocken."
+            ],
+            "hu": [
+              "A parkolóházak esőben hamarabb megtelnek; érkezzen korán.",
+              "Vezessen óvatosan a kanyargós utakon nedves időben.",
+              "Használja az ablaktörlő szakaszos üzemmódját szemerkélő esőben.",
+              "A parkolóházakban az autó hűvös és száraz marad."
+            ],
+            "ro": [
+              "Parcările acoperite se umplu repede pe ploaie; veniți devreme.",
+              "Conduceți cu atenție pe drumurile cu serpentine când sunt ude.",
+              "Folosiți ștergătoarele pe modul intermitent în caz de burniță.",
+              "Mașina va rămâne răcoroasă și uscată în parcările subterane."
+            ],
+            "en": [
+              "Parking garages fill up faster when it rains; arrive early.",
+              "Drive carefully on the winding access roads in wet conditions.",
+              "Use intermittent wiper settings during light drizzle.",
+              "Your car stays cool and dry inside the parking garages."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintertag beginnt mit einer Panoramafahrt zum Hafen. Mittags erkunden Sie die archäologische Stätte bei angenehmen Temperaturen. Nachmittags wartet das U-Boot, bevor Sie zum Strand fahren. Der Tag endet am Aussichtspunkt, wo Sie im Auto sitzend den spektakulären Sonnenuntergang genießen können, ohne dass es am Abend zu kühl wird.",
+            "hu": "A téli nap egy panorámás autózással indul a kikötőhöz. Délben kellemes hőmérsékletben fedezheti fel a régészeti lelőhelyet. Délután a tengeralattjáró várja, mielőtt a strandhoz hajtana. A nap a kilátópontnál ér véget, ahol az autóban ülve élvezheti a látványos naplementét anélkül, hogy lehűlne.",
+            "ro": "Ziua de iarnă începe cu o plimbare panoramică spre port. La prânz, explorați situl arheologic la temperaturi plăcute. După-amiaza vă așteaptă submarinul, înainte de a merge la plajă. Ziua se încheie la belvedere, unde puteți admira apusul spectacol din mașină.",
+            "en": "A winter day starts with a scenic drive to the harbor. At midday, explore the archaeological site in comfortable temperatures. The afternoon features the submarine trip before a beach visit. The day ends at the viewpoint, where you can enjoy the spectacular sunset from the car as the air cools down."
+          },
+          "stops": [
+            {
+              "name": "Puerto de Mogán",
+              "tip_5lang": {
+                "de": "Parken ist im Winter einfacher, da weniger Tagestouristen kommen.",
+                "hu": "Télen könnyebb parkolni, mert kevesebb a napi turista.",
+                "ro": "Parcarea este mai ușoară iarna, fiind mai puțini turiști.",
+                "en": "Parking is easier in winter with fewer day-trippers visiting."
+              }
+            },
+            {
+              "name": "Cañada de los Gatos",
+              "tip_5lang": {
+                "de": "Die Mittagssonne ist hier im Winter sehr angenehm.",
+                "hu": "A déli napsütés itt télen nagyon kellemes.",
+                "ro": "Soarele de la prânz este foarte plăcut aici iarna.",
+                "en": "The midday sun is very pleasant here during winter months."
+              }
+            },
+            {
+              "name": "Submarine Adventure",
+              "tip_5lang": {
+                "de": "Keine Klimaanlage im Auto nötig; genießen Sie die frische Meeresluft.",
+                "hu": "Nincs szükség klímára az autóban; élvezze a friss tengeri levegőt.",
+                "ro": "Nu e nevoie de aer condiționat; bucurați-vă de aerul marin.",
+                "en": "No AC needed in the car; enjoy the fresh sea air while driving."
+              }
+            },
+            {
+              "name": "Mogán Beach",
+              "tip_5lang": {
+                "de": "Strandnahes Parken ermöglicht schnelles Umziehen nach dem Baden.",
+                "hu": "A strandközeli parkolás lehetővé teszi a gyors átöltözést fürdés után.",
+                "ro": "Parcarea lângă plajă permite schimbarea rapidă după baie.",
+                "en": "Beach-side parking allows for quick changing after a swim."
+              }
+            },
+            {
+              "name": "Puerto de Mogán Viewpoint",
+              "tip_5lang": {
+                "de": "Perfekter Ort für ein Picknick im Auto zum Sonnenuntergang.",
+                "hu": "Tökéletes hely egy autós piknikhez a naplementében.",
+                "ro": "Locul perfect pentru un picnic în mașină la apus.",
+                "en": "Perfect spot for a car picnic while watching the sunset."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Nebensaison für stressfreies Parken.",
+              "Die Bergstraßen sind im Winter oft grüner und schöner für die Fahrt.",
+              "Lassen Sie keine Wertsachen sichtbar im Auto liegen.",
+              "Planen Sie die Rückfahrt vor Einbruch der Dunkelheit ein."
+            ],
+            "hu": [
+              "Használja ki az utószezont a stresszmentes parkoláshoz.",
+              "A hegyi utak télen zöldebbek és szebbek az autózáshoz.",
+              "Ne hagyjon értéktárgyat látható helyen az autóban.",
+              "Tervezze meg a visszautat sötétedés előtt."
+            ],
+            "ro": [
+              "Profită de extrasezon pentru o parcare fără stres.",
+              "Drumurile montane sunt mai verzi și mai frumoase iarna.",
+              "Nu lăsați obiecte de valoare la vedere în mașină.",
+              "Planificați drumul de întoarcere înainte de lăsarea întunericului."
+            ],
+            "en": [
+              "Take advantage of the low season for stress-free parking.",
+              "Mountain roads are greener and more beautiful for driving in winter.",
+              "Do not leave any valuables visible inside the car.",
+              "Plan your return journey before it gets dark."
+            ]
+          }
+        }
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "15:30",
+      "total_km": 10.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Puerto de Mogán (Klein-Venedig)",
+            "hu": "Puerto de Mogán",
+            "ro": "Puerto de Mogán",
+            "en": "Puerto de Mogán"
+          },
+          "coords": [
+            -15.765,
+            27.817
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.0,
+          "tip_4lang": {
+            "de": "Der Busbahnhof liegt nur 5 Minuten Fußweg entfernt.",
+            "hu": "A buszpályaudvar csak 5 perc sétára van.",
+            "ro": "Stația de autobuz este la doar 5 minute de mers pe jos.",
+            "en": "The bus station is just a 5-minute walk away."
+          }
+        },
+        {
+          "name": {
+            "de": "Mercado de Mogán",
+            "hu": "Mogáni piac",
+            "ro": "Piața din Mogán",
+            "en": "Mogán Market"
+          },
+          "coords": [
+            -15.764,
+            27.818
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_4lang": {
+            "de": "Am Markttag sind die Busse sehr voll.",
+            "hu": "Piaci napokon a buszok nagyon zsúfoltak.",
+            "ro": "În zilele de piață autobuzele sunt foarte pline.",
+            "en": "Buses can be very crowded on market days."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa de Mogán",
+            "hu": "Mogán strand",
+            "ro": "Plaja Mogán",
+            "en": "Mogán Beach"
+          },
+          "coords": [
+            -15.764,
+            27.8175
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:45",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_4lang": {
+            "de": "Der Bus 1 verbindet alle Küstenorte.",
+            "hu": "Az 1-es busz összeköti a parti településeket.",
+            "ro": "Autobuzul 1 leagă toate stațiunile de coastă.",
+            "en": "Bus line 1 connects all major coastal resorts."
+          }
+        },
+        {
+          "name": {
+            "de": "Puerto Deportivo",
+            "hu": "Puerto Deportivo",
+            "ro": "Puerto Deportivo",
+            "en": "Puerto Deportivo"
+          },
+          "coords": [
+            -15.766,
+            27.816
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "14:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_4lang": {
+            "de": "Genießen Sie das bunte Treiben im Hafen.",
+            "hu": "Élvezze a nyüzsgést a kikötőben.",
+            "ro": "Bucurați-vă de agitația din port.",
+            "en": "Enjoy the lively atmosphere at the marina."
+          }
+        },
+        {
+          "name": {
+            "de": "Paseo Marítimo",
+            "hu": "Tengerparti sétány",
+            "ro": "Paseo Marítimo",
+            "en": "Paseo Marítimo"
+          },
+          "coords": [
+            -15.762,
+            27.8165
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_4lang": {
+            "de": "Letzter Spaziergang vor der Abfahrt.",
+            "hu": "Utolsó séta az indulás előtt.",
+            "ro": "Ultima plimbare înainte de plecare.",
+            "en": "A final stroll before catching your bus."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Puerto de Mogán ist ideal an das Global-Busnetz angebunden. Entdecken Sie das charmante Hafenviertel und den Markt ganz ohne Parkplatzsorgen. Nach einem ausgiebigen Strandbesuch können Sie den Tag gemütlich am Hafen ausklingen lassen, bevor Sie den Bus zurück nehmen.",
+        "hu": "Puerto de Mogán kiválóan kapcsolódik a Global buszhálózathoz. Fedezze fel a bájos kikötőnegyedet és a piacot parkolási gondok nélkül. Egy kiadós strandolás után lazítson a kikötőben, mielőtt visszaszállna a buszra.",
+        "ro": "Puerto de Mogán este bine conectat la rețeaua de autobuze Global. Descoperiți portul fermecător și piața fără grija parcării. După o vizită lungă la plajă, relaxați-vă în port înainte de a lua autobuzul înapoi.",
+        "en": "Puerto de Mogán is easily reachable via the Global bus network. Explore the charming harbour area and market without any parking stress. After a relaxing time at the beach, enjoy the atmosphere of the marina before catching your return bus."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "La Linterna",
+            "tip": "Gute Tapas-Auswahl in Hafennähe."
+          }
+        ],
+        "hu": [
+          {
+            "name": "La Linterna",
+            "tip": "Jó tapas válogatás a kikötő közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "La Linterna",
+            "tip": "Selecție bună de tapas lângă port."
+          }
+        ],
+        "en": [
+          {
+            "name": "La Linterna",
+            "tip": "Great selection of tapas near the harbour."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Strandpromenade",
+            "tip": "Abendliche Ruhe am Wasser.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tengerparti sétány",
+            "tip": "Esti nyugalom a víznél.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Faleza",
+            "tip": "Liniște de seară lângă apă.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Waterfront Promenade",
+            "tip": "Evening calm by the sea.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Puerto Plaza",
+            "tip": "Kleine Boutiquen im Hafen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Puerto Plaza",
+            "tip": "Kis butikok a kikötőben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Puerto Plaza",
+            "tip": "Boutique-uri mici în port."
+          }
+        ],
+        "en": [
+          {
+            "name": "Puerto Plaza",
+            "tip": "Charming boutiques within the harbour area."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie die Fahrpläne der Linie 1 oder 91.",
+          "Die Busstation bietet Schatten und Sitzplätze."
+        ],
+        "hu": [
+          "Ellenőrizze az 1-es vagy 91-es járat menetrendjét.",
+          "A buszmegálló árnyékos és van ülőhely."
+        ],
+        "ro": [
+          "Verificați orarul liniilor 1 sau 91.",
+          "Stația de autobuz oferă umbră și locuri de șezut."
+        ],
+        "en": [
+          "Check the schedule for bus lines 1 or 91.",
+          "The bus station provides shade and seating while you wait."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Puerto de Mogán ist ideal an das Global-Busnetz angebunden. Entdecken Sie das charmante Hafenviertel und den Markt ganz ohne Parkplatzsorgen. Nach einem ausgiebigen Strandbesuch können Sie den Tag gemütlich am Hafen ausklingen lassen, bevor Sie den Bus zurück nehmen.",
+            "hu": "Puerto de Mogán kiválóan kapcsolódik a Global buszhálózathoz. Fedezze fel a bájos kikötőnegyedet és a piacot parkolási gondok nélkül. Egy kiadós strandolás után lazítson a kikötőben, mielőtt visszaszállna a buszra.",
+            "ro": "Puerto de Mogán este bine conectat la rețeaua de autobuze Global. Descoperiți portul fermecător și piața fără grija parcării. După o vizită lungă la plajă, relaxați-vă în port înainte de a lua autobuzul înapoi.",
+            "en": "Puerto de Mogán is easily reachable via the Global bus network. Explore the charming harbour area and market without any parking stress. After a relaxing time at the beach, enjoy the atmosphere of the marina before catching your return bus."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Puerto de Mogán (Klein-Venedig)",
+                "hu": "Puerto de Mogán",
+                "ro": "Puerto de Mogán",
+                "en": "Puerto de Mogán"
+              },
+              "tip_5lang": null
+            },
+            {
+              "name": {
+                "de": "Mercado de Mogán",
+                "hu": "Mogáni piac",
+                "ro": "Piața din Mogán",
+                "en": "Mogán Market"
+              },
+              "tip_5lang": null
+            },
+            {
+              "name": {
+                "de": "Playa de Mogán",
+                "hu": "Mogán strand",
+                "ro": "Plaja Mogán",
+                "en": "Mogán Beach"
+              },
+              "tip_5lang": null
+            },
+            {
+              "name": {
+                "de": "Puerto Deportivo",
+                "hu": "Puerto Deportivo",
+                "ro": "Puerto Deportivo",
+                "en": "Puerto Deportivo"
+              },
+              "tip_5lang": null
+            },
+            {
+              "name": {
+                "de": "Paseo Marítimo",
+                "hu": "Tengerparti sétány",
+                "ro": "Paseo Marítimo",
+                "en": "Paseo Marítimo"
+              },
+              "tip_5lang": null
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "La Linterna",
+                "tip": "Gute Tapas-Auswahl in Hafennähe."
+              }
+            ],
+            "hu": [
+              {
+                "name": "La Linterna",
+                "tip": "Jó tapas válogatás a kikötő közelében."
+              }
+            ],
+            "ro": [
+              {
+                "name": "La Linterna",
+                "tip": "Selecție bună de tapas lângă port."
+              }
+            ],
+            "en": [
+              {
+                "name": "La Linterna",
+                "tip": "Great selection of tapas near the harbour."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Strandpromenade",
+                "tip": "Abendliche Ruhe am Wasser.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Tengerparti sétány",
+                "tip": "Esti nyugalom a víznél.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Faleza",
+                "tip": "Liniște de seară lângă apă.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Waterfront Promenade",
+                "tip": "Evening calm by the sea.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Puerto Plaza",
+                "tip": "Kleine Boutiquen im Hafen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Puerto Plaza",
+                "tip": "Kis butikok a kikötőben."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Puerto Plaza",
+                "tip": "Boutique-uri mici în port."
+              }
+            ],
+            "en": [
+              {
+                "name": "Puerto Plaza",
+                "tip": "Charming boutiques within the harbour area."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Überprüfen Sie die Fahrpläne der Linie 1 oder 91.",
+              "Die Busstation bietet Schatten und Sitzplätze."
+            ],
+            "hu": [
+              "Ellenőrizze az 1-es vagy 91-es járat menetrendjét.",
+              "A buszmegálló árnyékos és van ülőhely."
+            ],
+            "ro": [
+              "Verificați orarul liniilor 1 sau 91.",
+              "Stația de autobuz oferă umbră și locuri de șezut."
+            ],
+            "en": [
+              "Check the schedule for bus lines 1 or 91.",
+              "The bus station provides shade and seating while you wait."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie den Tag mit dem Bus, der Sie direkt zum überdachten Terminal bringt. Mittags besuchen Sie den Markt, wobei die Standdächer Schutz bieten. Nachmittags ist der Strandspaziergang kurz, bevor Sie in den Hafenbereich flüchten. Der Busbahnhof ist ein sicherer, trockener Treffpunkt für die Rückfahrt, während der Regen auf die Scheiben trommelt.",
+            "hu": "Kezdje a napot busszal, amely közvetlenül a fedett terminálhoz viszi. Délben látogasson el a piacra, ahol az árusok ernyői védenek. Délután a strandolás rövid lesz, mielőtt a kikötő felé menekülne. A buszállomás biztonságos, száraz találkozóhely a visszautazáshoz, miközben az eső kopog az ablakokon.",
+            "ro": "Începeți ziua cu autobuzul, care vă lasă direct la terminalul acoperit. La prânz, vizitați piața, unde copertinele tarabelor oferă protecție. După-amiaza, plimbarea pe plajă va fi scurtă înainte de a vă retrage în port. Autogara este un punct de întâlnire uscat pentru drumul de întoarcere.",
+            "en": "Start the day by bus, arriving at the sheltered terminal near the harbor. At midday, visit the market where stall roofs provide cover. The afternoon beach walk is brief before retreating to the marina area. The bus station serves as a safe, dry hub for your return journey as rain taps on the windows."
+          },
+          "stops": [
+            {
+              "name": "Puerto de Mogán",
+              "tip_5lang": {
+                "de": "Der Busbahnhof verfügt über große überdachte Wartebereiche.",
+                "hu": "A buszpályaudvar nagy fedett várótermekkel rendelkezik.",
+                "ro": "Autogara are zone de așteptare mari și acoperite.",
+                "en": "The bus station features large sheltered waiting areas."
+              }
+            },
+            {
+              "name": "Mogán Market",
+              "tip_5lang": {
+                "de": "Vom Bus aus ist es nur ein kurzer, trockener Weg zu den ersten Ständen.",
+                "hu": "A busztól csak egy rövid, száraz út vezet az első árusokhoz.",
+                "ro": "De la autobuz este doar un drum scurt și uscat până la primele tarabe.",
+                "en": "It is only a short, dry walk from the bus to the first stalls."
+              }
+            },
+            {
+              "name": "Mogán Beach",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle 'Playa de Mogán' ist nah an den Cafés.",
+                "hu": "A 'Playa de Mogán' buszmegálló közel van a kávézókhoz.",
+                "ro": "Stația de autobuz 'Playa de Mogán' este aproape de cafenele.",
+                "en": "The 'Playa de Mogán' bus stop is conveniently close to the cafes."
+              }
+            },
+            {
+              "name": "Puerto Deportivo",
+              "tip_5lang": {
+                "de": "Kurze Wege zwischen den Sehenswürdigkeiten minimieren Regenzeit.",
+                "hu": "A látnivalók közötti rövid távolság csökkenti az esőben töltött időt.",
+                "ro": "Distanțele scurte între obiective reduc timpul petrecut în ploaie.",
+                "en": "Short distances between sights minimize time spent in the rain."
+              }
+            },
+            {
+              "name": "Paseo Marítimo",
+              "tip_5lang": {
+                "de": "Das Terminal bietet Schutz bis zur Abfahrt des Busses.",
+                "hu": "A terminál védelmet nyújt a busz indulásáig.",
+                "ro": "Terminalul oferă protecție până la plecarea autobuzului.",
+                "en": "The terminal provides shelter right up until your bus departs."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die 'Global' Bus-App für Live-Abfahrtszeiten.",
+              "Busse sind bei Regen oft voll besetzt; planen Sie Puffer ein.",
+              "Halten Sie Ihre Fahrkarte oder Zahlungskarte griffbereit.",
+              "Der Hauptbusbahnhof ist der beste Ort zum Warten bei Regen."
+            ],
+            "hu": [
+              "Használja a 'Global' buszalkalmazást az élő menetrendhez.",
+              "Esőben a buszok gyakran telítettek; számoljon rá időt.",
+              "Tartsa jegyét vagy bankkártyáját kéznél a felszálláshoz.",
+              "A fő buszpályaudvar a legjobb hely a várakozásra esőben."
+            ],
+            "ro": [
+              "Folosiți aplicația 'Global' pentru orele de plecare în timp real.",
+              "Autobuzele sunt adesea pline pe ploaie; planificați o marjă de timp.",
+              "Țineți biletul sau cardul bancar la îndemână.",
+              "Autogara principală este cel mai bun loc de așteptare pe ploaie."
+            ],
+            "en": [
+              "Use the 'Global' bus app for live departure times.",
+              "Buses are often crowded during rain; allow extra travel time.",
+              "Keep your ticket or payment card ready for quick boarding.",
+              "The main bus station is the best place to wait during a downpour."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein milder Wintermorgen beginnt mit einer entspannten Busfahrt entlang der Küste. Mittags besuchen Sie den Markt und genießen die Sonne. Nachmittags entspannen Sie am Strand, bevor Sie den Puerto Deportivo erkunden. Da die Busfrequenz am frühen Abend stabil bleibt, können Sie den Sonnenuntergang voll auskosten, bevor Sie bequem zurückfahren.",
+            "hu": "Enyhe téli reggel indul egy pihentető buszozással a part mentén. Délben látogasson el a piacra, és élvezze a napsütést. Délután pihenjen a strandon, mielőtt felfedezné a Puerto Deportivót. Mivel a buszjáratok kora este is gyakoriak, teljes mértékben kihasználhatja a naplementét a visszautazás előtt.",
+            "ro": "O dimineață blândă de iarnă începe cu o călătorie relaxantă cu autobuzul pe coastă. La prânz, vizitați piața și bucurați-vă de soare. După-amiaza, relaxați-vă pe plajă înainte de a explora portul. Deoarece frecvența autobuzelor rămâne stabilă, puteți savura apusul înainte de plecare.",
+            "en": "A mild winter morning starts with a relaxing bus ride along the coast. At midday, enjoy the sun while visiting the market. Spend the afternoon at the beach before exploring the marina. Since bus frequency remains steady in the early evening, you can fully enjoy the sunset before your comfortable journey back."
+          },
+          "stops": [
+            {
+              "name": "Puerto de Mogán",
+              "tip_5lang": {
+                "de": "Die Klimaanlage im Bus ist im Winter angenehm moderat.",
+                "hu": "A buszon a légkondicionálás télen kellemesen mérsékelt.",
+                "ro": "Aerul condiționat din autobuz este reglat moderat iarna.",
+                "en": "The bus air conditioning is comfortably moderate in winter."
+              }
+            },
+            {
+              "name": "Mogán Market",
+              "tip_5lang": {
+                "de": "Die Wintersonne macht das Warten auf den Bus sehr angenehm.",
+                "hu": "A téli napsütés nagyon kellemessé teszi a buszra várást.",
+                "ro": "Soarele de iarnă face așteptarea autobuzului foarte plăcută.",
+                "en": "The winter sun makes waiting for the bus very pleasant."
+              }
+            },
+            {
+              "name": "Mogán Beach",
+              "tip_5lang": {
+                "de": "Direkte Busverbindungen zu anderen Urlaubsorten im Süden.",
+                "hu": "Közvetlen buszjáratok más déli üdülőhelyekre.",
+                "ro": "Legături directe cu autobuzul către alte stațiuni din sud.",
+                "en": "Direct bus connections are available to other southern resorts."
+              }
+            },
+            {
+              "name": "Puerto Deportivo",
+              "tip_5lang": {
+                "de": "Kurze Gehwege vom Terminal zu den Jachten.",
+                "hu": "Rövid séta a termináltól a jachtokig.",
+                "ro": "Distanțe scurte de mers de la terminal până la iahturi.",
+                "en": "Short walking distances from the terminal to the yachts."
+              }
+            },
+            {
+              "name": "Paseo Marítimo",
+              "tip_5lang": {
+                "de": "Buslinien 1, 33 und 91 verkehren regelmäßig bis zum Abend.",
+                "hu": "Az 1-es, 33-as és 91-es buszok rendszeresen járnak estig.",
+                "ro": "Liniile de autobuz 1, 33 și 91 circulă regulat până seara.",
+                "en": "Bus lines 1, 33, and 91 run regularly until late evening."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die günstigeren Tarife mit einer 'Global' Guthabenkarte.",
+              "Genießen Sie die Aussicht von der rechten Seite des Busses (Richtung Süden).",
+              "Busse fahren im Winter nach dem Standardfahrplan.",
+              "Nehmen Sie einen Pullover für die klimatisierte Busfahrt mit."
+            ],
+            "hu": [
+              "Használja az olcsóbb tarifákat 'Global' feltöltőkártyával.",
+              "Élvezze a kilátást a busz jobb oldaláról (déli irányban).",
+              "A buszok télen a standard menetrend szerint közlekednek.",
+              "Vigyen pulóvert a légkondicionált buszos utazáshoz."
+            ],
+            "ro": [
+              "Folosiți tarifele mai mici cu un card reîncărcabil 'Global'.",
+              "Savurați priveliștea de pe partea dreaptă a autobuzului (spre sud).",
+              "Autobuzele circulă iarna conform orarului standard.",
+              "Luați un pulover pentru călătoria cu autobuzul climatizat."
+            ],
+            "en": [
+              "Use lower fares by getting a 'Global' prepaid transit card.",
+              "Enjoy the view from the right side of the bus (heading south).",
+              "Buses operate on a standard schedule during the winter months.",
+              "Bring a sweater for the air-conditioned bus ride back."
+            ]
+          }
+        }
+      }
+    }
+  },
+  "external_resources": {
+    "tourism_office": "https://www.mogan.es",
+    "events": "https://www.hellocanaryislands.com/gran-canaria/",
+    "transit_official": "https://www.guaguasglobal.com",
+    "language_tips": {
+      "de": "Spanisch ist die Hauptsprache, doch im touristisch geprägten Puerto de Mogán sprechen die meisten Kellner und Vermieter passables Deutsch und Englisch. Ein freundliches Hola und Gracias öffnet trotzdem viele Türen, vor allem im Fischerhafen abseits der Promenade.",
+      "hu": "Spanyolul mennek a dolgok, de a kanári turizmus annyira német és angol nyelvű, hogy gyakorlatilag bármelyik étteremben elboldogulsz. Egy mosolygós Hola és Gracias mégis sokat dob a halászkikötő hangulatos részein, ahol már nem csak turisták járnak.",
+      "ro": "Spaniola este limba oficială, dar în zona turistică Puerto de Mogán mulți chelneri și proprietari vorbesc germană sau engleză decentă. Totuși, un Hola și Gracias prietenos te ajută mai ales în partea pescărească a portului, departe de promenadă.",
+      "en": "Spanish is the everyday language, but in tourist-heavy Puerto de Mogán most waiters and shop owners speak workable English and German. A friendly Hola and Gracias still opens doors, especially in the old fishing port away from the main promenade."
+    },
+    "best_time_to_visit": {
+      "de": "Puerto de Mogán hat ganzjährig 20-26 Grad, optimal sind November bis April, wenn Europa friert. Der Freitagsmarkt zieht Massen, früh kommen oder lieber Donnerstag oder Samstag bleiben.",
+      "hu": "Egész évben 20-26 fok, a tél a legjobb, amikor itthon dideregsz. A péntek reggeli piac viszont turista-cunamit hoz, vagy kelj korán, vagy maradj inkább csütörtök vagy szombat.",
+      "ro": "Puerto de Mogán are 20-26 grade tot anul, ideal noiembrie-aprilie când Europa îngheață. Piața de vineri aduce mulțimi uriașe, vino devreme sau alege joi sau sâmbătă.",
+      "en": "Mogán enjoys 20-26 C all year, peak appeal is November to April when Europe shivers. Friday morning market draws huge crowds, arrive early or pick Thursday or Saturday instead."
+    },
+    "neighborhood_warnings": {
+      "de": "Die Promenade und der Hafen sind sehr sicher, auch nachts. Pass an überfüllten Markttagen auf Taschendiebe auf, und meide die steilen Klippenwege bei Wind, dort sind schon Touristen abgerutscht.",
+      "hu": "A sétány és a kikötő nagyon biztonságos, éjjel is. Piacnapokon a zsebtolvajokra figyelj, és szeles időben kerüld a meredek sziklaösvényeket, már több turista is megcsúszott.",
+      "ro": "Promenada și portul sunt foarte sigure, chiar și noaptea. Atenție la hoți de buzunare în zilele de piață și evită potecile abrupte de pe stâncă pe vânt, mai mulți turiști au alunecat acolo.",
+      "en": "The promenade and harbour are very safe even at night. Watch pockets on crowded market days, and skip the steep cliff paths in strong wind, several tourists have slipped there."
+    }
+  }
+}

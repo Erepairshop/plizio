@@ -1,0 +1,2343 @@
+{
+  "city_id": "javea",
+  "anchor": {
+    "name": "Jávea",
+    "coords": [
+      0.17,
+      38.79
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "18:40",
+      "total_km": 4.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Casco Antiguo",
+            "hu": "Óváros",
+            "ro": "Orașul Vechi",
+            "en": "Old Town"
+          },
+          "coords": [
+            0.17,
+            38.79
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie den charmanten Markt am Donnerstagmorgen.",
+            "hu": "Csütörtökönként hangulatos helyi piac várja az utazókat.",
+            "ro": "Vizitați piața locală plină de viață în diminețile de joi.",
+            "en": "Visit the charming local market on Thursday mornings."
+          }
+        },
+        {
+          "name": {
+            "de": "Iglesia de San Bartolomé",
+            "hu": "Szent Bertalan-templom",
+            "ro": "Biserica San Bartolomé",
+            "en": "Church of San Bartolomé"
+          },
+          "coords": [
+            0.171,
+            38.789
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:55",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die gotische Architektur dieser Wehrkirche.",
+            "hu": "Csodálja meg a gótikus erődtemplom robusztus falait.",
+            "ro": "Admirați arhitectura gotică a acestei biserici fortificate.",
+            "en": "Admire the Gothic architecture of this fortified church."
+          }
+        },
+        {
+          "name": {
+            "de": "Museu Soler Blasco",
+            "hu": "Soler Blasco Múzeum",
+            "ro": "Muzeul Soler Blasco",
+            "en": "Soler Blasco Museum"
+          },
+          "coords": [
+            0.172,
+            38.791
+          ],
+          "category": "museums",
+          "arrive_at": "10:50",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die archäologischen Schätze der Region.",
+            "hu": "Fedezze fel a régió gazdag régészeti kincseit a palotában.",
+            "ro": "Descoperiți comorile arheologice ale regiunii în palat.",
+            "en": "Discover the archaeological treasures of the region here."
+          }
+        },
+        {
+          "name": {
+            "de": "Parroquia de Nuestra Señora de Loreto",
+            "hu": "Loreto Miasszonyunk plébánia",
+            "ro": "Parohia Nuestra Señora de Loreto",
+            "en": "Parish of Our Lady of Loreto"
+          },
+          "coords": [
+            0.185,
+            38.795
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Das Dach erinnert an den Kiel eines Fischerbootes.",
+            "hu": "Nézze meg a tetőt, amely egy hajó gerincére emlékeztet.",
+            "ro": "Acoperișul seamănă cu chila unei bărci de pescuit.",
+            "en": "The roof resembles the keel of a traditional fishing boat."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa del Arenal",
+            "hu": "Arenal strand",
+            "ro": "Plaja Arenal",
+            "en": "Arenal Beach"
+          },
+          "coords": [
+            0.191,
+            38.773
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:20",
+          "stay_min": 210,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Perfekt für einen Drink bei Sonnenuntergang an der Promenade.",
+            "hu": "Ideális hely egy naplemente utáni koktélhoz a sétányon.",
+            "ro": "Perfect pentru o băutură la apus pe faleză.",
+            "en": "Perfect for a sunset drink along the lively promenade."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im historischen Zentrum von Jávea mit seinen schmalen Gassen und der beeindruckenden Wehrkirche. Nach dem Besuch des Museums spazieren Sie hinunter zum Hafenviertel, wo die moderne Architektur der Loreto-Kirche fasziniert. Den Nachmittag verbringen Sie entspannt am feinsandigen Arenal-Strand, umgeben von gemütlichen Cafés und dem Rauschen des Mittelmeers.",
+        "hu": "Kezdje a napot Jávea történelmi központjában, ahol szűk utcák és az impozáns erődtemplom várja. A múzeumlátogatás után sétáljon le a kikötőnegyedbe, hogy megcsodálja a modern Loreto-templom különleges hajóformáját. A délutánt töltse az Arenal homokos partján, élvezve a mediterrán napsütést és a tengerparti sétány nyüzsgését.",
+        "ro": "Începeți ziua în centrul istoric al orașului Jávea, cu străzile sale înguste și biserica fortificată impresionantă. După vizitarea muzeului, coborâți spre zona portului pentru a admira arhitectura modernă a bisericii Loreto. Petreceți după-amiaza relaxându-vă pe plaja cu nisip Arenal, înconjurat de cafenele primitoare și briza mării.",
+        "en": "Start your day in the historic center of Jávea, exploring its narrow streets and the impressive fortified church. After visiting the museum, walk down to the port area to see the unique ship-like architecture of the Loreto church. Spend a relaxing afternoon at Arenal Beach, enjoying the Mediterranean sun and the vibrant atmosphere of the promenade."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Arròs a banda",
+            "tip": "Ein klassisches Reisgericht der Fischer, serviert im Restaurante La Boheme."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Arròs a banda",
+            "tip": "Hagyományos halas rizsétel, kóstolja meg a La Boheme étteremben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Arròs a banda",
+            "tip": "Un preparat tradițional din orez și pește la restaurantul La Boheme."
+          }
+        ],
+        "en": [
+          {
+            "name": "Arròs a banda",
+            "tip": "A classic fisherman's rice dish, best enjoyed at Restaurante La Boheme."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Cala del Tangó",
+            "tip": "Ruhige Bucht hinter dem Hafen für eine Pause.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cala del Tangó",
+            "tip": "Csendes öböl a kikötő mögött, tökéletes pihenőhely.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cala del Tangó",
+            "tip": "Golf liniștit în spatele portului pentru o pauză relaxantă.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cala del Tangó",
+            "tip": "Quiet cove behind the port, ideal for a peaceful break.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mercat Municipal",
+            "tip": "Frische lokale Produkte in einer historischen Markthalle."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mercat Municipal",
+            "tip": "Friss helyi termékek a történelmi vásárcsarnokban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mercat Municipal",
+            "tip": "Produse locale proaspete într-o hală istorică de piață."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mercat Municipal",
+            "tip": "Fresh local products inside a historic indoor market hall."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster im Zentrum.",
+          "In den Sommermonaten ist die Parkplatzsuche schwierig, kommen Sie früh.",
+          "Nutzen Sie den Schatten in den engen Gassen der Altstadt."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt az óváros macskaköves utcáihoz.",
+          "A nyári hónapokban nehéz parkolót találni, érdemes korán érkezni.",
+          "Használja ki a szűk utcák árnyékát a déli hőségben."
+        ],
+        "ro": [
+          "Purtați încălțăminte comodă pentru străzile pietruite din centru.",
+          "Parcarea este dificilă vara, așa că veniți devreme.",
+          "Profitați de umbra de pe străzile înguste ale orașului vechi."
+        ],
+        "en": [
+          "Wear comfortable shoes for the cobblestone streets in the old town.",
+          "Parking can be difficult in summer, so arrive early.",
+          "Take advantage of the shade in the narrow streets during midday."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag im historischen Zentrum von Jávea mit seinen schmalen Gassen und der beeindruckenden Wehrkirche. Nach dem Besuch des Museums spazieren Sie hinunter zum Hafenviertel, wo die moderne Architektur der Loreto-Kirche fasziniert. Den Nachmittag verbringen Sie entspannt am feinsandigen Arenal-Strand, umgeben von gemütlichen Cafés und dem Rauschen des Mittelmeers.",
+            "hu": "Kezdje a napot Jávea történelmi központjában, ahol szűk utcák és az impozáns erődtemplom várja. A múzeumlátogatás után sétáljon le a kikötőnegyedbe, hogy megcsodálja a modern Loreto-templom különleges hajóformáját. A délutánt töltse az Arenal homokos partján, élvezve a mediterrán napsütést és a tengerparti sétány nyüzsgését.",
+            "ro": "Începeți ziua în centrul istoric al orașului Jávea, cu străzile sale înguste și biserica fortificată impresionantă. După vizitarea muzeului, coborâți spre zona portului pentru a admira arhitectura modernă a bisericii Loreto. Petreceți după-amiaza relaxându-vă pe plaja cu nisip Arenal, înconjurat de cafenele primitoare și briza mării.",
+            "en": "Start your day in the historic center of Jávea, exploring its narrow streets and the impressive fortified church. After visiting the museum, walk down to the port area to see the unique ship-like architecture of the Loreto church. Spend a relaxing afternoon at Arenal Beach, enjoying the Mediterranean sun and the vibrant atmosphere of the promenade."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Casco Antiguo",
+                "hu": "Óváros",
+                "ro": "Orașul Vechi",
+                "en": "Old Town"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie den charmanten Markt am Donnerstagmorgen.",
+                "hu": "Csütörtökönként hangulatos helyi piac várja az utazókat.",
+                "ro": "Vizitați piața locală plină de viață în diminețile de joi.",
+                "en": "Visit the charming local market on Thursday mornings."
+              }
+            },
+            {
+              "name": {
+                "de": "Iglesia de San Bartolomé",
+                "hu": "Szent Bertalan-templom",
+                "ro": "Biserica San Bartolomé",
+                "en": "Church of San Bartolomé"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die gotische Architektur dieser Wehrkirche.",
+                "hu": "Csodálja meg a gótikus erődtemplom robusztus falait.",
+                "ro": "Admirați arhitectura gotică a acestei biserici fortificate.",
+                "en": "Admire the Gothic architecture of this fortified church."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu Soler Blasco",
+                "hu": "Soler Blasco Múzeum",
+                "ro": "Muzeul Soler Blasco",
+                "en": "Soler Blasco Museum"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie die archäologischen Schätze der Region.",
+                "hu": "Fedezze fel a régió gazdag régészeti kincseit a palotában.",
+                "ro": "Descoperiți comorile arheologice ale regiunii în palat.",
+                "en": "Discover the archaeological treasures of the region here."
+              }
+            },
+            {
+              "name": {
+                "de": "Parroquia de Nuestra Señora de Loreto",
+                "hu": "Loreto Miasszonyunk plébánia",
+                "ro": "Parohia Nuestra Señora de Loreto",
+                "en": "Parish of Our Lady of Loreto"
+              },
+              "tip_5lang": {
+                "de": "Das Dach erinnert an den Kiel eines Fischerbootes.",
+                "hu": "Nézze meg a tetőt, amely egy hajó gerincére emlékeztet.",
+                "ro": "Acoperișul seamănă cu chila unei bărci de pescuit.",
+                "en": "The roof resembles the keel of a traditional fishing boat."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa del Arenal",
+                "hu": "Arenal strand",
+                "ro": "Plaja Arenal",
+                "en": "Arenal Beach"
+              },
+              "tip_5lang": {
+                "de": "Perfekt für einen Drink bei Sonnenuntergang an der Promenade.",
+                "hu": "Ideális hely egy naplemente utáni koktélhoz a sétányon.",
+                "ro": "Perfect pentru o băutură la apus pe faleză.",
+                "en": "Perfect for a sunset drink along the lively promenade."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Arròs a banda",
+                "tip": "Ein klassisches Reisgericht der Fischer, serviert im Restaurante La Boheme."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Arròs a banda",
+                "tip": "Hagyományos halas rizsétel, kóstolja meg a La Boheme étteremben."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Arròs a banda",
+                "tip": "Un preparat tradițional din orez și pește la restaurantul La Boheme."
+              }
+            ],
+            "en": [
+              {
+                "name": "Arròs a banda",
+                "tip": "A classic fisherman's rice dish, best enjoyed at Restaurante La Boheme."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Cala del Tangó",
+                "tip": "Ruhige Bucht hinter dem Hafen für eine Pause.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Cala del Tangó",
+                "tip": "Csendes öböl a kikötő mögött, tökéletes pihenőhely.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Cala del Tangó",
+                "tip": "Golf liniștit în spatele portului pentru o pauză relaxantă.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Cala del Tangó",
+                "tip": "Quiet cove behind the port, ideal for a peaceful break.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Mercat Municipal",
+                "tip": "Frische lokale Produkte in einer historischen Markthalle."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Mercat Municipal",
+                "tip": "Friss helyi termékek a történelmi vásárcsarnokban."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Mercat Municipal",
+                "tip": "Produse locale proaspete într-o hală istorică de piață."
+              }
+            ],
+            "en": [
+              {
+                "name": "Mercat Municipal",
+                "tip": "Fresh local products inside a historic indoor market hall."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster im Zentrum.",
+              "In den Sommermonaten ist die Parkplatzsuche schwierig, kommen Sie früh.",
+              "Nutzen Sie den Schatten in den engen Gassen der Altstadt."
+            ],
+            "hu": [
+              "Viseljen kényelmes cipőt az óváros macskaköves utcáihoz.",
+              "A nyári hónapokban nehéz parkolót találni, érdemes korán érkezni.",
+              "Használja ki a szűk utcák árnyékát a déli hőségben."
+            ],
+            "ro": [
+              "Purtați încălțăminte comodă pentru străzile pietruite din centru.",
+              "Parcarea este dificilă vara, așa că veniți devreme.",
+              "Profitați de umbra de pe străzile înguste ale orașului vechi."
+            ],
+            "en": [
+              "Wear comfortable shoes for the cobblestone streets in the old town.",
+              "Parking can be difficult in summer, so arrive early.",
+              "Take advantage of the shade in the narrow streets during midday."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag in der charmanten Altstadt, wo die engen Gassen bei leichtem Regen natürlichen Schutz bieten. Besuchen Sie die wehrhafte Kirche San Bartolomé, ein beeindruckendes Beispiel gotischer Architektur, das Sie trocken hält.\n\nMittags tauchen Sie im Soler Blasco Museum tief in die lokale Geschichte ein. Die Ausstellungen bieten einen faszinierenden Rückzugsort vor dem nassen Wetter.\n\nAm Nachmittag spazieren Sie zum Hafen und bewundern die moderne Kirche Unserer Lieben Frau von Loreto, deren Schiffsform im Regen besonders dramatisch wirkt.\n\nBeenden Sie den Tag mit einem erfrischenden Spaziergang am Strand von Arenal. Der Klang des Regens auf dem Meer schafft eine beruhigende Atmosphäre, bevor Sie in ein gemütliches Restaurant einkehren.",
+            "hu": "Kezdje a napot az óváros szűk utcáin, ahol a kőfalak némi menedéket nyújtanak a szemerkélő esőben. Látogasson el a San Bartolomé erődtemplomba, amely zord külsejével és védelmet nyújtó belső terével várja.\n\nDélben a Soler Blasco Múzeum termeiben merülhet el a történelemben, miközben az eső kopog a tetőn. Ez a legjobb hely a kulturális feltöltődésre.\n\nDélután sétáljon le a kikötőbe a Loreto-i Szűzanya templomhoz, amelynek modern, hajótestet formázó épülete különleges látványt nyújt a felhős égbolt alatt.\n\nAz estét zárja az Arenal strandon. Az eső áztatta homok és a tenger morajlása melankolikus, mégis szép élmény, mielőtt egy fedett teraszon megvacsorázna.",
+            "ro": "Începeți ziua în orașul vechi, unde străzile înguste oferă protecție naturală împotriva ploii ușoare. Vizitați Biserica San Bartolomé, o fortăreață gotică impunătoare care vă va ține la adăpost.\n\nLa prânz, explorați Muzeul Soler Blasco pentru a descoperi istoria locală fără a vă uda. Este refugiul perfect pentru o zi ploioasă.\n\nDupă-amiaza, îndreptați-vă spre port pentru a vedea Biserica Maicii Domnului din Loreto, o capodoperă modernă a cărei formă de navă este fascinantă pe vreme gri.\n\nÎncheiați ziua cu o plimbare pe faleza plajei Arenal. Sunetul ploii care cade peste mare creează o atmosferă relaxantă înainte de a intra într-un restaurant primitor.",
+            "en": "Start your day in the charming Old Town, where the narrow streets provide natural shelter during light rain. Visit the fortified Church of San Bartolomé, a great spot to stay dry and admire Gothic architecture.\n\nAt noon, dive into local history at the Soler Blasco Museum. The indoor exhibits offer a fascinating retreat from the wet weather.\n\nIn the afternoon, walk towards the port to see the Parish of Our Lady of Loreto. Its modern ship-like design looks particularly striking under a cloudy sky.\n\nEnd the day with a refreshing stroll along Arenal Beach. The sound of rain on the sea creates a soothing atmosphere before you head into a cozy local eatery."
+          },
+          "stops": [
+            {
+              "name": "Old Town",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkaden und engen Gassen als natürlichen Regenschutz beim Erkunden.",
+                "hu": "Használja az árkádokat és a szűk utcákat természetes esővédőként a felfedezés közben.",
+                "ro": "Folosiți arcadele și străzile înguste ca adăpost natural împotriva ploii în timp ce explorați.",
+                "en": "Use the archways and narrow streets as natural rain cover while exploring."
+              }
+            },
+            {
+              "name": "Church of San Bartolomé",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um die Architektur zu bewundern und gleichzeitig trocken zu bleiben.",
+                "hu": "Ideális hely az építészet megcsodálására, miközben szárazon marad.",
+                "ro": "Un loc ideal pentru a admira arhitectura în timp ce rămâneți la adăpost de ploaie.",
+                "en": "An ideal spot to admire architecture while staying dry."
+              }
+            },
+            {
+              "name": "Soler Blasco Museum",
+              "tip_5lang": {
+                "de": "Planen Sie hier mehr Zeit ein, um den stärksten Regen im Inneren abzuwarten.",
+                "hu": "Töltsön itt több időt, hogy bent várja meg a hevesebb eső végét.",
+                "ro": "Petreceți mai mult timp aici pentru a aștepta trecerea ploii mai intense la interior.",
+                "en": "Plan to spend more time here to wait out the heaviest rain indoors."
+              }
+            },
+            {
+              "name": "Parish of Our Lady of Loreto",
+              "tip_5lang": {
+                "de": "Die moderne Decke erinnert an einen Schiffsrumpf; ein toller Zufluchtsort bei Regen.",
+                "hu": "A modern mennyezet egy hajótestre emlékeztet; remek menedék esőben.",
+                "ro": "Tavanul modern seamănă cu coca unei nave; un refugiu excelent pe timp de ploaie.",
+                "en": "The modern ceiling resembles a ship's hull; a great refuge during rain."
+              }
+            },
+            {
+              "name": "Arenal Beach",
+              "tip_5lang": {
+                "de": "Die Promenade bietet viele Cafés mit Markisen für einen Blick aufs regnerische Meer.",
+                "hu": "A sétányon számos kávézó található ponyvával, ahonnan nézhetjük az esős tengert.",
+                "ro": "Faleza are multe cafenele cu copertine pentru a privi marea pe timp de ploaie.",
+                "en": "The promenade has many cafes with awnings for a view of the rainy sea."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe, da das Kopfsteinpflaster in der Altstadt rutschig sein kann.",
+              "Die Markthalle (Mercado Municipal) ist ein hervorragender überdachter Ort für lokale Snacks.",
+              "Museen in Jávea sind oft montags geschlossen; prüfen Sie den Wochentag.",
+              "Ein Taschenschirm ist bei den plötzlichen Küstenschauern Gold wert.",
+              "Nutzen Sie die Regenpause für Fotos von den glänzenden Gassen der Altstadt."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt, mert az óváros macskakövei csúszósak lehetnek.",
+              "A vásárcsarnok (Mercado Municipal) kiváló fedett hely a helyi finomságok kóstolására.",
+              "A jáveai múzeumok hétfőnként gyakran zárva tartanak; ellenőrizze a napot.",
+              "Egy összecsukható esernyő aranyat ér a hirtelen partmenti záporok idején.",
+              "Használja ki az esőszüneteket az óváros csillogó utcáinak fotózására."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă, deoarece pavajul din orașul vechi poate deveni alunecos.",
+              "Piața acoperită (Mercado Municipal) este un loc excelent pentru gustări locale la adăpost.",
+              "Muzeele din Jávea sunt adesea închise lunea; verificați ziua săptămânii.",
+              "O umbrelă compactă este esențială în timpul averselor de coastă bruște.",
+              "Profită de pauzele de ploaie pentru a fotografia străzile strălucitoare ale centrului vechi."
+            ],
+            "en": [
+              "Wear waterproof shoes as the cobblestones in the Old Town can become slippery.",
+              "The indoor market (Mercado Municipal) is an excellent covered spot for local snacks.",
+              "Museums in Jávea are often closed on Mondays; check the day of the week.",
+              "A compact umbrella is worth its weight in gold during sudden coastal showers.",
+              "Take advantage of rain breaks to photograph the glistening streets of the Old Town."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie die milde Wintersonne in der Altstadt von Jávea. Die kühle Morgenluft ist ideal, um die historischen Gebäude ohne die Sommerhitze zu erkunden.\n\nMittags bietet sich ein Lunch auf einer sonnigen Terrasse an. Die Wintersonne ist kräftig genug, um das Essen im Freien zu genießen.\n\nAm Nachmittag spazieren Sie zum Hafen. Die moderne Kirche von Loreto ist ein architektonisches Highlight, das im klaren Winterlicht besonders gut zur Geltung kommt.\n\nDer Tag endet am Strand von Arenal. Da die Sonne gegen 17:30 Uhr untergeht, können Sie einen spektakulären Sonnenuntergang erleben, bevor die abendliche Kühle einsetzt.",
+            "hu": "Élvezze a lágy téli napsütést Jávea óvárosában. A friss reggeli levegő tökéletes a történelmi épületek felfedezéséhez a nyári hőség nélkül.\n\nDélben keressen egy napsütötte teraszt az ebdédhez. A téli nap ereje ilyenkor is elég ahhoz, hogy kellemesen étkezhessen a szabadban.\n\nDélután tegyen egy sétát a kikötő felé. A Loreto-i templom modern vonalai tisztán látszanak a ragyogó téli fényben.\n\nA nap az Arenal strandon ér véget. Mivel a nap 17:30 körül nyugszik, csodálatos színekben gyönyörködhet, mielőtt leszállna az esti hűvös.",
+            "ro": "Bucurați-vă de soarele blând de iarnă în orașul vechi din Jávea. Aerul proaspăt al dimineții este ideal pentru a explora clădirile istorice fără căldura verii.\n\nLa prânz, alegeți o terasă însorită pentru masă. Soarele de iarnă este suficient de puternic pentru a vă bucura de un prânz în aer liber.\n\nDupă-amiaza, plimbați-vă spre port. Biserica modernă din Loreto este un punct de atracție arhitectural care arată spectaculos în lumina clară de iarnă.\n\nZiua se încheie la plaja Arenal. Deoarece soarele apune în jur de 17:30, puteți admira un apus superb înainte ca răcoarea serii să se instaleze.",
+            "en": "Enjoy the mild winter sun in Jávea's Old Town. The crisp morning air is perfect for exploring historical buildings without the summer heat.\n\nAt noon, find a sunny terrace for lunch. The winter sun is strong enough to make outdoor dining very pleasant.\n\nIn the afternoon, take a stroll towards the port. The modern Loreto church is an architectural highlight that stands out beautifully in the clear winter light.\n\nEnd the day at Arenal Beach. Since the sun sets around 5:30 PM, you can enjoy a spectacular sunset before the evening chill sets in."
+          },
+          "stops": [
+            {
+              "name": "Old Town",
+              "tip_5lang": {
+                "de": "Die Gassen sind im Winter viel ruhiger und bieten eine authentische Atmosphäre.",
+                "hu": "Az utcák télen sokkal csendesebbek, és autentikus hangulatot árasztanak.",
+                "ro": "Străzile sunt mult mai liniștite iarna, oferind o atmosferă autentică.",
+                "en": "The streets are much quieter in winter, offering an authentic atmosphere."
+              }
+            },
+            {
+              "name": "Church of San Bartolomé",
+              "tip_5lang": {
+                "de": "Im Inneren kann es kühl sein; behalten Sie Ihre Jacke während der Besichtigung an.",
+                "hu": "Odabent hűvös lehet; tartsa magán a kabátját a látogatás alatt.",
+                "ro": "Poate fi răcoare în interior; păstrați jacheta pe dvs. în timpul vizitei.",
+                "en": "It can be chilly inside; keep your jacket on during the visit."
+              }
+            },
+            {
+              "name": "Soler Blasco Museum",
+              "tip_5lang": {
+                "de": "Ein schöner Ort, um sich zwischen den Spaziergängen ein wenig aufzuwärmen.",
+                "hu": "Kellemes hely, ahol egy kicsit felmelegedhet a séták között.",
+                "ro": "Un loc plăcut pentru a vă încălzi puțin între plimbări.",
+                "en": "A pleasant place to warm up a bit between your walks."
+              }
+            },
+            {
+              "name": "Parish of Our Lady of Loreto",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kirche am späten Nachmittag, wenn das Licht durch die Fenster fällt.",
+                "hu": "Késő délután látogassa meg, amikor a fény átszűrődik az ablakokon.",
+                "ro": "Vizitați biserica după-amiaza târziu, când lumina pătrunde prin ferestre.",
+                "en": "Visit in the late afternoon when the light filters through the windows."
+              }
+            },
+            {
+              "name": "Arenal Beach",
+              "tip_5lang": {
+                "de": "Bringen Sie eine Schicht Kleidung für den Moment mit, wenn die Sonne untergeht.",
+                "hu": "Vigyen magával egy plusz réteg ruhát arra az időre, amikor a nap lemegy.",
+                "ro": "Aduceți un strat suplimentar de haine pentru momentul în care soarele apune.",
+                "en": "Bring an extra layer of clothing for the moment the sun goes down."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schichten Sie Ihre Kleidung (Zwiebelprinzip), da es im Schatten kühl sein kann.",
+              "Die Sonne geht früh unter (ca. 17:30), planen Sie Ihre Outdoor-Aktivitäten entsprechend.",
+              "Probieren Sie 'Chocolate con churros' in einem der Cafés in der Altstadt.",
+              "Die UV-Strahlung ist auch im Winter vorhanden; Sonnenschutz ist empfehlenswert.",
+              "Viele Hotels bieten im Winter günstigere Raten für längere Aufenthalte an."
+            ],
+            "hu": [
+              "Öltözzön rétegesen, mert az árnyékos helyeken hűvös lehet a levegő.",
+              "A nap korán nyugszik (17:30 körül), tervezze ehhez a kinti programokat.",
+              "Kóstolja meg a 'Chocolate con churros'-t az óváros egyik kávézójában.",
+              "Az UV-sugárzás télen is jelen van; a naptej használata javasolt.",
+              "Sok szálloda télen kedvezőbb árakat kínál a hosszabb tartózkodásra."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi, deoarece poate fi destul de răcoare la umbră.",
+              "Soarele apune devreme (aprox. 17:30), planificați activitățile în aer liber în consecință.",
+              "Încercați 'Chocolate con churros' la una dintre cafenelele din centrul vechi.",
+              "Radiațiile UV sunt prezente și iarna; se recomandă protecție solară.",
+              "Multe hoteluri oferă tarife mai mici iarna pentru sejururi prelungite."
+            ],
+            "en": [
+              "Dress in layers as it can be quite chilly in the shade despite the sun.",
+              "The sun sets early (around 5:30 PM), plan your outdoor activities accordingly.",
+              "Try 'Chocolate con churros' in one of the cafes in the Old Town.",
+              "UV radiation is still present in winter; sun protection is recommended.",
+              "Many hotels offer better rates in winter for longer stays."
+            ]
+          }
+        }
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 12.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Els Molins",
+            "hu": "Szélmalmok",
+            "ro": "Els Molins",
+            "en": "The Windmills"
+          },
+          "coords": [
+            0.155,
+            38.798
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:25",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick über die gesamte Bucht.",
+            "hu": "Élvezze a panorámás kilátást az egész öbölre a malmoktól.",
+            "ro": "Bucurați-vă de panorama asupra întregului golf de la mori.",
+            "en": "Enjoy the panoramic views over the entire bay from the mills."
+          }
+        },
+        {
+          "name": {
+            "de": "Cabo de San Antonio",
+            "hu": "Szent Antal-fok",
+            "ro": "Cabo de San Antonio",
+            "en": "Cape San Antonio"
+          },
+          "coords": [
+            0.19,
+            38.81
+          ],
+          "category": "natural features",
+          "arrive_at": "10:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.8,
+          "tip_5lang": {
+            "de": "Ein spektakulärer Ort für Fotos an der Klippenkante.",
+            "hu": "Látványos helyszín fotózáshoz a sziklák peremén.",
+            "ro": "Un loc spectaculos pentru fotografii pe marginea falezei.",
+            "en": "A spectacular spot for photos at the edge of the cliffs."
+          }
+        },
+        {
+          "name": {
+            "de": "Parroquia de Nuestra Señora de Loreto",
+            "hu": "Loreto Miasszonyunk plébánia",
+            "ro": "Parohia Nuestra Señora de Loreto",
+            "en": "Parish of Our Lady of Loreto"
+          },
+          "coords": [
+            0.185,
+            38.795
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie den angrenzenden Fischereihafen.",
+            "hu": "Látogasson el a közvetlenül mellette lévő halászkikötőbe.",
+            "ro": "Vizitați portul de pescuit situat chiar lângă biserică.",
+            "en": "Visit the adjacent fishing port right next to the church."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa del Arenal",
+            "hu": "Arenal strand",
+            "ro": "Plaja Arenal",
+            "en": "Arenal Beach"
+          },
+          "coords": [
+            0.191,
+            38.773
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:55",
+          "stay_min": 150,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad an der Promenade sicher an.",
+            "hu": "Zárja le biztonságosan a kerékpárját a sétány mentén.",
+            "ro": "Asigurați-vă bicicleta corespunzător de-a lungul falezei.",
+            "en": "Lock your bike securely along the promenade racks."
+          }
+        },
+        {
+          "name": {
+            "de": "Casco Antiguo",
+            "hu": "Óváros",
+            "ro": "Orașul Vechi",
+            "en": "Old Town"
+          },
+          "coords": [
+            0.17,
+            38.79
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "15:40",
+          "stay_min": 65,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Gönnen Sie sich ein Eis in einer der handwerklichen Dielen.",
+            "hu": "Kóstoljon meg egy kézműves fagyit az egyik helyi üzletben.",
+            "ro": "Savurați o înghețată artizanală la una dintre gelateriile locale.",
+            "en": "Treat yourself to an artisanal ice cream in the old town."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie hinauf zu den historischen Windmühlen für den besten Ausblick, bevor Sie das windgepeitschte Kap von San Antonio erreichen. Rollen Sie dann gemütlich hinunter zum Hafen und weiter zum Arenal-Strand. Die flache Küstenstraße bietet eine entspannte Fahrt mit Meeresbrise, bevor Sie den Tag im charmanten historischen Zentrum ausklingen lassen.",
+        "hu": "Tekerjen fel a történelmi szélmalmokhoz a legjobb kilátásért, mielőtt elérné a Szent Antal-fok sziklás peremét. Guruljon le kényelmesen a kikötőbe, majd folytassa útját az Arenal strandig. A sík tengerparti út pihentető kerékpározást kínál, mielőtt a napot a hangulatos óvárosban fejezné be.",
+        "ro": "Pedalați până la morile de vânt istorice pentru cea mai bună priveliște, înainte de a ajunge la Capul San Antonio. Coborâți apoi lejer spre port și continuați spre plaja Arenal. Drumul plat de coastă oferă o plimbare relaxantă cu briza mării, înainte de a încheia ziua în fermecătorul centru istoric.",
+        "en": "Cycle up to the historic windmills for the best views before reaching the windswept Cape San Antonio. Coast down to the port area and continue to Arenal Beach. The flat coastal road offers a relaxed ride with sea breezes before finishing your day in the charming historic old town."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Tapas am Hafen",
+            "tip": "Frische Meeresfrüchte-Tapas direkt bei der Fischauktionshalle."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kikötői Tapas",
+            "tip": "Friss tenger gyümölcsei tapasok közvetlenül a halpiac mellett."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tapas în port",
+            "tip": "Tapas proaspete cu fructe de mare chiar lângă bursa de pește."
+          }
+        ],
+        "en": [
+          {
+            "name": "Port Tapas",
+            "tip": "Fresh seafood tapas right by the fish auction hall (Lonja)."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Mirador dels Molins",
+            "tip": "Ein friedlicher Ort zum Durchatmen hoch über der Stadt.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mirador dels Molins",
+            "tip": "Békés pont a város felett a mély levegővételhez.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mirador dels Molins",
+            "tip": "Un loc liniștit pentru a respira adânc deasupra orașului.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Mirador dels Molins",
+            "tip": "A peaceful spot to take a breather high above the town.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Xàbia Port Shops",
+            "tip": "Moderne Boutiquen und nautisches Zubehör."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Xàbia Port üzletek",
+            "tip": "Modern butikok és tengerész stílusú kiegészítők."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinele din Port",
+            "tip": "Buticuri moderne și accesorii nautice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Xàbia Port Shops",
+            "tip": "Modern boutiques and nautical-themed accessories."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Auffahrt zu den Mühlen ist steil, schieben ist okay.",
+          "Achten Sie auf Fußgänger an der Küstenpromenade.",
+          "Mieten Sie ein Fahrrad mit Gangschaltung für die Hügel."
+        ],
+        "hu": [
+          "A malmokhoz vezető út meredek, nyugodtan tolja a biciklit.",
+          "Figyeljen a gyalogosokra a tengerparti sétányon.",
+          "Béreljen váltós kerékpárt a dombos szakaszokhoz."
+        ],
+        "ro": [
+          "Urcarea spre mori este abruptă, este în regulă să împingeți bicicleta.",
+          "Atenție la pietoni pe faleza de coastă.",
+          "Închiriați o bicicletă cu viteze pentru porțiunile de deal."
+        ],
+        "en": [
+          "The climb to the mills is steep; it is perfectly fine to push your bike.",
+          "Watch out for pedestrians along the coastal promenade.",
+          "Rent a bike with gears to handle the hilly sections."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Radeln Sie hinauf zu den historischen Windmühlen für den besten Ausblick, bevor Sie das windgepeitschte Kap von San Antonio erreichen. Rollen Sie dann gemütlich hinunter zum Hafen und weiter zum Arenal-Strand. Die flache Küstenstraße bietet eine entspannte Fahrt mit Meeresbrise, bevor Sie den Tag im charmanten historischen Zentrum ausklingen lassen.",
+            "hu": "Tekerjen fel a történelmi szélmalmokhoz a legjobb kilátásért, mielőtt elérné a Szent Antal-fok sziklás peremét. Guruljon le kényelmesen a kikötőbe, majd folytassa útját az Arenal strandig. A sík tengerparti út pihentető kerékpározást kínál, mielőtt a napot a hangulatos óvárosban fejezné be.",
+            "ro": "Pedalați până la morile de vânt istorice pentru cea mai bună priveliște, înainte de a ajunge la Capul San Antonio. Coborâți apoi lejer spre port și continuați spre plaja Arenal. Drumul plat de coastă oferă o plimbare relaxantă cu briza mării, înainte de a încheia ziua în fermecătorul centru istoric.",
+            "en": "Cycle up to the historic windmills for the best views before reaching the windswept Cape San Antonio. Coast down to the port area and continue to Arenal Beach. The flat coastal road offers a relaxed ride with sea breezes before finishing your day in the charming historic old town."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Els Molins",
+                "hu": "Szélmalmok",
+                "ro": "Els Molins",
+                "en": "The Windmills"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Panoramablick über die gesamte Bucht.",
+                "hu": "Élvezze a panorámás kilátást az egész öbölre a malmoktól.",
+                "ro": "Bucurați-vă de panorama asupra întregului golf de la mori.",
+                "en": "Enjoy the panoramic views over the entire bay from the mills."
+              }
+            },
+            {
+              "name": {
+                "de": "Cabo de San Antonio",
+                "hu": "Szent Antal-fok",
+                "ro": "Cabo de San Antonio",
+                "en": "Cape San Antonio"
+              },
+              "tip_5lang": {
+                "de": "Ein spektakulärer Ort für Fotos an der Klippenkante.",
+                "hu": "Látványos helyszín fotózáshoz a sziklák peremén.",
+                "ro": "Un loc spectaculos pentru fotografii pe marginea falezei.",
+                "en": "A spectacular spot for photos at the edge of the cliffs."
+              }
+            },
+            {
+              "name": {
+                "de": "Parroquia de Nuestra Señora de Loreto",
+                "hu": "Loreto Miasszonyunk plébánia",
+                "ro": "Parohia Nuestra Señora de Loreto",
+                "en": "Parish of Our Lady of Loreto"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie den angrenzenden Fischereihafen.",
+                "hu": "Látogasson el a közvetlenül mellette lévő halászkikötőbe.",
+                "ro": "Vizitați portul de pescuit situat chiar lângă biserică.",
+                "en": "Visit the adjacent fishing port right next to the church."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa del Arenal",
+                "hu": "Arenal strand",
+                "ro": "Plaja Arenal",
+                "en": "Arenal Beach"
+              },
+              "tip_5lang": {
+                "de": "Schließen Sie Ihr Fahrrad an der Promenade sicher an.",
+                "hu": "Zárja le biztonságosan a kerékpárját a sétány mentén.",
+                "ro": "Asigurați-vă bicicleta corespunzător de-a lungul falezei.",
+                "en": "Lock your bike securely along the promenade racks."
+              }
+            },
+            {
+              "name": {
+                "de": "Casco Antiguo",
+                "hu": "Óváros",
+                "ro": "Orașul Vechi",
+                "en": "Old Town"
+              },
+              "tip_5lang": {
+                "de": "Gönnen Sie sich ein Eis in einer der handwerklichen Dielen.",
+                "hu": "Kóstoljon meg egy kézműves fagyit az egyik helyi üzletben.",
+                "ro": "Savurați o înghețată artizanală la una dintre gelateriile locale.",
+                "en": "Treat yourself to an artisanal ice cream in the old town."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Tapas am Hafen",
+                "tip": "Frische Meeresfrüchte-Tapas direkt bei der Fischauktionshalle."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Kikötői Tapas",
+                "tip": "Friss tenger gyümölcsei tapasok közvetlenül a halpiac mellett."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Tapas în port",
+                "tip": "Tapas proaspete cu fructe de mare chiar lângă bursa de pește."
+              }
+            ],
+            "en": [
+              {
+                "name": "Port Tapas",
+                "tip": "Fresh seafood tapas right by the fish auction hall (Lonja)."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Mirador dels Molins",
+                "tip": "Ein friedlicher Ort zum Durchatmen hoch über der Stadt.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Mirador dels Molins",
+                "tip": "Békés pont a város felett a mély levegővételhez.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Mirador dels Molins",
+                "tip": "Un loc liniștit pentru a respira adânc deasupra orașului.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Mirador dels Molins",
+                "tip": "A peaceful spot to take a breather high above the town.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Xàbia Port Shops",
+                "tip": "Moderne Boutiquen und nautisches Zubehör."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Xàbia Port üzletek",
+                "tip": "Modern butikok és tengerész stílusú kiegészítők."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Magazinele din Port",
+                "tip": "Buticuri moderne și accesorii nautice."
+              }
+            ],
+            "en": [
+              {
+                "name": "Xàbia Port Shops",
+                "tip": "Modern boutiques and nautical-themed accessories."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Die Auffahrt zu den Mühlen ist steil, schieben ist okay.",
+              "Achten Sie auf Fußgänger an der Küstenpromenade.",
+              "Mieten Sie ein Fahrrad mit Gangschaltung für die Hügel."
+            ],
+            "hu": [
+              "A malmokhoz vezető út meredek, nyugodtan tolja a biciklit.",
+              "Figyeljen a gyalogosokra a tengerparti sétányon.",
+              "Béreljen váltós kerékpárt a dombos szakaszokhoz."
+            ],
+            "ro": [
+              "Urcarea spre mori este abruptă, este în regulă să împingeți bicicleta.",
+              "Atenție la pietoni pe faleza de coastă.",
+              "Închiriați o bicicletă cu viteze pentru porțiunile de deal."
+            ],
+            "en": [
+              "The climb to the mills is steep; it is perfectly fine to push your bike.",
+              "Watch out for pedestrians along the coastal promenade.",
+              "Rent a bike with gears to handle the hilly sections."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie Ihre Radtour trotz des Regens bei den Windmühlen. Die kurze Fahrt wird durch die weite Aussicht auf das stürmische Meer belohnt.\n\nMittags erreichen Sie das Kap San Antonio. Der Leuchtturm im Nebel und Regen hat eine fast mystische Ausstrahlung.\n\nAm Nachmittag radeln Sie bergab zum Hafen und finden Zuflucht in der Kirche von Loreto. Das schützende Dach bietet eine willkommene Pause.\n\nNach einem Stopp am Strand von Arenal beenden Sie die Tour in der Altstadt. Die nassen Gassen reflektieren das warme Licht der Straßenlaternen auf wunderschöne Weise.",
+            "hu": "Az eső ellenére induljon a szélmalmoktól. A rövid tekerést a viharos tenger látványa teszi emlékezetessé.\n\nDélben érje el a San Antonio-fokot. A ködbe és esőbe burkolózó világítótorony szinte misztikus látványt nyújt.\n\nDélután guruljon le a kikötőbe, és keressen menedéket a Loreto-i templomban. A védelmet nyújtó tető alatt megpihenhet.\n\nAz Arenal strand érintése után fejezze be a túrát az óvárosban. A vizes utcák csodásan tükrözik vissza az utcai lámpák meleg fényét.",
+            "ro": "Începeți tura cu bicicleta în ciuda ploii la morile de vânt. Scurta plimbare este răsplătită de vederea panoramică asupra mării agitate.\n\nLa prânz ajungeți la Capul San Antonio. Farul învăluit în ceață și ploaie are o alură aproape mistică.\n\nDupă-amiaza pedalați la vale spre port și găsiți refugiu în Biserica Loreto. Acoperișul protector oferă o pauză binevenită.\n\nDupă o oprire la plaja Arenal, încheiați turul în orașul vechi. Străzile ude reflectă frumos lumina caldă a felinarelor.",
+            "en": "Start your bike ride despite the rain at the Windmills. The short ride is rewarded by expansive views of the stormy sea.\n\nBy noon, reach Cape San Antonio. The lighthouse shrouded in mist and rain has an almost mystical feel to it.\n\nIn the afternoon, cycle downhill to the port and find shelter in the Loreto church. The protective roof offers a welcome break.\n\nAfter a stop at Arenal Beach, finish the tour in the Old Town. The wet streets reflect the warm light of the street lamps in a beautiful way."
+          },
+          "stops": [
+            {
+              "name": "The Windmills",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem unbefestigten Weg; bei Regen kann es hier matschig sein.",
+                "hu": "Vigyázat a földúton; esőben sáros lehet a terep.",
+                "ro": "Atenție pe drumul neasfaltat; poate fi noroios când plouă.",
+                "en": "Watch out on the unpaved path; it can get muddy when it rains."
+              }
+            },
+            {
+              "name": "Cape San Antonio",
+              "tip_5lang": {
+                "de": "Der Wind kann hier oben bei Regen stark sein; halten Sie Ihren Lenker gut fest.",
+                "hu": "A szél itt fent esőben erős lehet; fogja erősen a kormányt.",
+                "ro": "Vântul poate fi puternic aici pe ploaie; țineți bine de ghidon.",
+                "en": "The wind can be strong up here during rain; hold your handlebars firmly."
+              }
+            },
+            {
+              "name": "Parish of Our Lady of Loreto",
+              "tip_5lang": {
+                "de": "Ein guter Ort, um die Regenbekleidung kurz zu lüften und sich auszuruhen.",
+                "hu": "Jó hely az esőruházat rövid szellőztetésére és a pihenésre.",
+                "ro": "Un loc bun pentru a aerisi puțin echipamentul de ploaie și pentru odihnă.",
+                "en": "A good place to briefly air out your rain gear and rest."
+              }
+            },
+            {
+              "name": "Arenal Beach",
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf den glatten Fliesen der Promenade.",
+                "hu": "Óvatosan közlekedjen a sétány csúszós járólapjain.",
+                "ro": "Conduceți cu prudență pe plăcile alunecoase ale falezei.",
+                "en": "Ride carefully on the slippery tiles of the promenade."
+              }
+            },
+            {
+              "name": "Old Town",
+              "tip_5lang": {
+                "de": "Das Kopfsteinpflaster ist extrem rutschig; steigen Sie im Zweifel lieber ab.",
+                "hu": "A macskakő rendkívül csúszós; kétség esetén inkább szálljon le a bicikliről.",
+                "ro": "Pavajul este extrem de alunecos; dacă aveți dubii, mai bine coborâți de pe bicicletă.",
+                "en": "The cobblestones are extremely slippery; if in doubt, it's better to dismount."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine hochwertige Regenjacke und am besten eine Regenhose.",
+              "Reduzieren Sie den Reifendruck leicht für besseren Grip auf nasser Fahrbahn.",
+              "Bremsen Sie frühzeitig, da Bremsen auf nassen Felgen verzögert reagieren.",
+              "Vermeiden Sie Markierungen auf der Straße, da diese bei Nässe sehr glatt sind.",
+              "Ein Schutzblech schützt Sie vor dem Spritzwasser der eigenen Reifen."
+            ],
+            "hu": [
+              "Viseljen jó minőségű esőkabátot és lehetőleg esőnadrágot is.",
+              "Kicsit csökkentse a guminyomást a jobb tapadás érdekében a vizes úton.",
+              "Fékezzen időben, mert a vizes felniken a fékek lassabban fognak.",
+              "Kerülje az útburkolati jeleket, mert nedvesen nagyon csúszósak.",
+              "A sárvédő megvédi Önt a saját kerekei által felcsapott víztől."
+            ],
+            "ro": [
+              "Purtați o jachetă de ploaie de calitate și, preferabil, pantaloni de ploaie.",
+              "Reduceți ușor presiunea în anvelope pentru o aderență mai bună pe carosabil ud.",
+              "Frânați din timp, deoarece frânele pe jante ude reacționează cu întârziere.",
+              "Evitați marcajele rutiere, deoarece sunt foarte alunecoase pe timp de ploaie.",
+              "O aripă de protecție vă va feri de apa împroșcată de propriile anvelope."
+            ],
+            "en": [
+              "Wear a high-quality rain jacket and preferably rain pants as well.",
+              "Slightly reduce tire pressure for better grip on wet roads.",
+              "Brake early as rim brakes have a delayed reaction on wet surfaces.",
+              "Avoid road markings as they become very slippery when wet.",
+              "Mudguards will protect you from the spray of your own tires."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Wintertour beginnt bei den Windmühlen, wo die klare Luft eine fantastische Sicht auf den Montgó bietet. Die Temperaturen sind perfekt für den ersten Anstieg.\n\nMittags erreichen Sie das Kap San Antonio. Genießen Sie den Panoramablick; im Winter ist die Luft oft viel klarer als im dunstigen Sommer.\n\nNach der Abfahrt besuchen Sie die moderne Kirche im Hafen. Das kühle Innere ist eine erfrischende Pause vor der Weiterfahrt.\n\nAm Nachmittag radeln Sie entspannt am Strand von Arenal entlang und beenden den Tag in der Altstadt, wo die tiefe Wintersonne die Fassaden golden färbt.",
+            "hu": "A téli túra a szélmalmoknál kezdődik, ahol a tiszta levegőben fantasztikus kilátás nyílik a Montgó-hegyre. A hőmérséklet ideális az első emelkedőhöz.\n\nDélben érje el a San Antonio-fokot. Élvezze a panorámát; télen a levegő gyakran sokkal tisztább, mint a párás nyári napokon.\n\nA leereszkedés után látogassa meg a kikötő modern templomát. A hűvös belső tér frissítő pihenő a folytatás előtt.\n\nDélután tekerjen kényelmesen az Arenal strand mentén, majd zárja a napot az óvárosban, ahol az alacsonyan járó nap aranyba vonja a homlokzatokat.",
+            "ro": "Turul de iarnă începe la morile de vânt, unde aerul curat oferă o vedere fantastică spre muntele Montgó. Temperaturile sunt perfecte pentru prima urcare.\n\nLa prânz ajungeți la Capul San Antonio. Bucurați-vă de panorama; iarna aerul este adesea mult mai clar decât în verile vaporoase.\n\nDupă coborâre, vizitați biserica modernă din port. Interiorul răcoros este o pauză revigorantă înainte de a continua.\n\nDupă-amiaza pedalați relaxat de-a lungul plajei Arenal și încheiați ziua în orașul vechi, unde soarele de iarnă colorează fațadele în auriu.",
+            "en": "The winter tour starts at the Windmills, where the clear air offers fantastic views of Montgó. The temperatures are perfect for the first climb.\n\nBy noon, reach Cape San Antonio. Enjoy the panorama; in winter, the air is often much clearer than in the hazy summer.\n\nAfter the descent, visit the modern church in the port. The cool interior is a refreshing break before continuing.\n\nIn the afternoon, cycle leisurely along Arenal Beach and end the day in the Old Town, where the low winter sun turns the facades golden."
+          },
+          "stops": [
+            {
+              "name": "The Windmills",
+              "tip_5lang": {
+                "de": "Perfektes Fotolicht am Morgen ohne den sommerlichen Dunst.",
+                "hu": "Tökéletes fotófények reggel, a nyári pára nélkül.",
+                "ro": "Lumină perfectă pentru fotografii dimineața, fără pâcla de vară.",
+                "en": "Perfect morning photo light without the summer haze."
+              }
+            },
+            {
+              "name": "Cape San Antonio",
+              "tip_5lang": {
+                "de": "Bringen Sie eine Windjacke für die Pause am Aussichtspunkt mit.",
+                "hu": "Vigyen szélkabátot a kilátópontnál tartott pihenőhöz.",
+                "ro": "Aduceți o jachetă de vânt pentru pauza la punctul de belvedere.",
+                "en": "Bring a windbreaker for the break at the viewpoint."
+              }
+            },
+            {
+              "name": "Parish of Our Lady of Loreto",
+              "tip_5lang": {
+                "de": "Die Radwege im Hafenbereich sind im Winter angenehm leer.",
+                "hu": "A kikötői kerékpárutak télen kellemesen üresek.",
+                "ro": "Pistele de biciclete din zona portului sunt plăcut de libere iarna.",
+                "en": "The bike paths in the port area are pleasantly empty in winter."
+              }
+            },
+            {
+              "name": "Arenal Beach",
+              "tip_5lang": {
+                "de": "Ideal für eine entspannte Runde auf dem Radweg direkt am Meer.",
+                "hu": "Ideális egy pihentető körre a közvetlenül a tenger melletti kerékpárúton.",
+                "ro": "Ideal pentru o tură relaxată pe pista de biciclete de lângă mare.",
+                "en": "Ideal for a relaxed lap on the bike path right by the sea."
+              }
+            },
+            {
+              "name": "Old Town",
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad und genießen Sie einen warmen Tee in der Sonne.",
+                "hu": "Parkolja le a biciklit, és élvezzen egy meleg teát a napsütésben.",
+                "ro": "Parcați bicicleta și bucurați-vă de un ceai cald la soare.",
+                "en": "Park your bike and enjoy a warm tea in the sun."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Handschuhe, da der Fahrtwind die Finger schnell auskühlen lässt.",
+              "Nutzen Sie die Mittagssonne für längere Pausen im Freien.",
+              "Die Tage sind kürzer; achten Sie auf eine funktionierende Fahrradbeleuchtung.",
+              "Ein Multifunktionstuch schützt Hals und Gesicht vor kühlem Wind.",
+              "Die Luftfeuchtigkeit ist im Winter geringer, was das Atmen beim Sport erleichtert."
+            ],
+            "hu": [
+              "Viseljen kesztyűt, mert a menetszél gyorsan lehűti az ujjait.",
+              "Használja ki a déli napsütést a hosszabb kinti pihenőkhöz.",
+              "A nappalok rövidebbek; ügyeljen a kerékpáros világításra.",
+              "Egy csősál megvédi a nyakát és az arcát a hűvös széltől.",
+              "Télen alacsonyabb a páratartalom, ami megkönnyíti a légzést sportolás közben."
+            ],
+            "ro": [
+              "Purtați mănuși, deoarece vântul de deplasare vă poate răci rapid degetele.",
+              "Profită de soarele de la prânz pentru pauze mai lungi în aer liber.",
+              "Zilele sunt mai scurte; asigurați-vă că luminile bicicletei funcționează.",
+              "O eșarfă tip tub vă va proteja gâtul și fața de vântul rece.",
+              "Umiditatea este mai scăzută iarna, ceea ce facilitează respirația în timpul sportului."
+            ],
+            "en": [
+              "Wear gloves as the wind chill can quickly cool down your fingers.",
+              "Utilize the midday sun for longer outdoor breaks.",
+              "Days are shorter; make sure your bike lights are working properly.",
+              "A neck warmer or buff protects your neck and face from the cold wind.",
+              "Humidity is lower in winter, making breathing easier during exercise."
+            ]
+          }
+        }
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 28.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Parque Natural del Montgó",
+            "hu": "Montgó Natúrpark",
+            "ro": "Parcul Natural Montgó",
+            "en": "Montgó Natural Park"
+          },
+          "coords": [
+            0.13,
+            38.8
+          ],
+          "category": "natural features",
+          "arrive_at": "09:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Wandern Sie ein Stück auf den markierten Pfaden.",
+            "hu": "Tegyen egy rövid túrát a kijelölt ösvényeken.",
+            "ro": "Faceți o drumeție scurtă pe traseele marcate.",
+            "en": "Take a short hike along the well-marked trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Cabo de San Antonio",
+            "hu": "Szent Antal-fok",
+            "ro": "Cabo de San Antonio",
+            "en": "Cape San Antonio"
+          },
+          "coords": [
+            0.19,
+            38.81
+          ],
+          "category": "natural features",
+          "arrive_at": "11:20",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Von hier sieht man bei klarer Sicht bis nach Ibiza.",
+            "hu": "Tiszta időben innen ellátni egészen Ibizáig.",
+            "ro": "În zilele senine, de aici se poate vedea până în Ibiza.",
+            "en": "On clear days, you can see all the way to Ibiza from here."
+          }
+        },
+        {
+          "name": {
+            "de": "Cabo de la Nao",
+            "hu": "Nao-fok",
+            "ro": "Cabo de la Nao",
+            "en": "Cape Nao"
+          },
+          "coords": [
+            0.23,
+            38.74
+          ],
+          "category": "natural features",
+          "arrive_at": "12:35",
+          "stay_min": 50,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 10.0,
+          "tip_5lang": {
+            "de": "Der östlichste Punkt der Provinz mit Leuchtturm.",
+            "hu": "A tartomány legkeletibb pontja egy világítótoronnyal.",
+            "ro": "Cel mai estic punct al provinciei, marcat de un far.",
+            "en": "The easternmost point of the province with a lighthouse."
+          }
+        },
+        {
+          "name": {
+            "de": "Cala Granadella",
+            "hu": "Granadella-öböl",
+            "ro": "Cala Granadella",
+            "en": "Granadella Cove"
+          },
+          "coords": [
+            0.2,
+            38.72
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:45",
+          "stay_min": 150,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Kiesstrand mit kristallklarem Wasser, ideal zum Schnorcheln.",
+            "hu": "Kavicsos strand kristálytiszta vízzel, búvárkodáshoz kiváló.",
+            "ro": "Plajă cu pietriș și apă cristalină, ideală pentru snorkeling.",
+            "en": "Pebble beach with crystal-clear water, ideal for snorkeling."
+          }
+        },
+        {
+          "name": {
+            "de": "Casco Antiguo",
+            "hu": "Óváros",
+            "ro": "Orașul Vechi",
+            "en": "Old Town"
+          },
+          "coords": [
+            0.17,
+            38.79
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "16:40",
+          "stay_min": 35,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 7.0,
+          "tip_5lang": {
+            "de": "Parken Sie im unterirdischen Parkhaus am Plaza de la Constitución.",
+            "hu": "Parkoljon a Plaza de la Constitución alatti mélygarázsban.",
+            "ro": "Parcați în garajul subteran de la Plaza de la Constitución.",
+            "en": "Park in the underground garage at Plaza de la Constitución."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erreichen Sie die entlegensten Naturschätze von Jávea. Beginnen Sie am Fuße des Montgó und erkunden Sie die spektakulären Kaps San Antonio und Nao. Den Nachmittag verbringen Sie in der versteckten Bucht Granadella, einer der schönsten Spaniens. Zum Abschluss genießen Sie die Abendstimmung bei einem kurzen Spaziergang durch die historischen Gassen des Zentrums.",
+        "hu": "Autóval elérheti Jávea legtávolabbi természeti kincseit is. Kezdje a Montgó lábánál, majd fedezze fel a látványos Szent Antal és Nao fokokat. A délutánt töltse a rejtett Granadella-öbölben, amely Spanyolország egyik legszebb strandja. Végezetül élvezze az esti hangulatot egy rövid sétával a történelmi városközpont szűk utcáin.",
+        "ro": "Cu mașina puteți ajunge la cele mai retrase comori naturale din Jávea. Începeți la poalele muntelui Montgó și explorați spectaculoasele capuri San Antonio și Nao. Petreceți după-amiaza în golful ascuns Granadella, unul dintre cele mai frumoase din Spania. La final, bucurați-vă de atmosfera serii cu o scurtă plimbare prin centrul istoric.",
+        "en": "By car, you can reach Jávea's most remote natural treasures. Start at the base of Montgó and explore the spectacular Capes San Antonio and Nao. Spend the afternoon at the hidden Granadella Cove, one of Spain's most beautiful beaches. Finally, enjoy the evening atmosphere with a short stroll through the historic streets of the town center."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Paella de Marisco",
+            "tip": "Frische Meeresfrüchte-Paella im Restaurant Sur in der Cala Granadella."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tengeri Paella",
+            "tip": "Friss tengeri paella a Sur étteremben, a Granadella-öbölnél."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Paella de Marisco",
+            "tip": "Paella cu fructe de mare la restaurantul Sur din Cala Granadella."
+          }
+        ],
+        "en": [
+          {
+            "name": "Seafood Paella",
+            "tip": "Fresh seafood paella at Restaurant Sur in Cala Granadella."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Mirador de la Falzia",
+            "tip": "Blick auf den Portichol-Felsbogen in absoluter Stille.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mirador de la Falzia",
+            "tip": "Kilátás a Portichol-sziklára teljes csendben.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mirador de la Falzia",
+            "tip": "Vedere spre stânca Portichol în liniște absolută.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Mirador de la Falzia",
+            "tip": "View of the Portichol arch in absolute silence.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "L'Almadrava",
+            "tip": "Lokale Weine und Olivenöle direkt aus der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "L'Almadrava",
+            "tip": "Helyi borok és olívaolajok közvetlenül a régióból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "L'Almadrava",
+            "tip": "Vinuri locale și uleiuri de măsline direct din regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "L'Almadrava",
+            "tip": "Local wines and olive oils sourced directly from the region."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Zufahrt zur Granadella ist im Sommer für Autos oft gesperrt, nutzen Sie den Shuttle.",
+          "Die Straßen zu den Kaps sind kurvig, fahren Sie vorsichtig.",
+          "Buchen Sie Restauranttische in Strandnähe im Voraus."
+        ],
+        "hu": [
+          "A Granadella-öbölbe nyáron korlátozzák az autós forgalmat, használja a transzfert.",
+          "A fokokhoz vezető utak kanyargósak, vezessen óvatosan.",
+          "Foglaljon asztalt előre a népszerű tengerparti éttermekben."
+        ],
+        "ro": [
+          "Accesul auto la Granadella este adesea restricționat vara, folosiți shuttle-ul.",
+          "Drumurile spre capuri sunt sinuoase, conduceți cu atenție.",
+          "Rezervați din timp masa la restaurantele de lângă plajă."
+        ],
+        "en": [
+          "Access to Granadella is often restricted for cars in summer; use the shuttle bus.",
+          "The roads to the capes are winding; drive carefully.",
+          "Book restaurant tables near the beach in advance."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erreichen Sie die entlegensten Naturschätze von Jávea. Beginnen Sie am Fuße des Montgó und erkunden Sie die spektakulären Kaps San Antonio und Nao. Den Nachmittag verbringen Sie in der versteckten Bucht Granadella, einer der schönsten Spaniens. Zum Abschluss genießen Sie die Abendstimmung bei einem kurzen Spaziergang durch die historischen Gassen des Zentrums.",
+            "hu": "Autóval elérheti Jávea legtávolabbi természeti kincseit is. Kezdje a Montgó lábánál, majd fedezze fel a látványos Szent Antal és Nao fokokat. A délutánt töltse a rejtett Granadella-öbölben, amely Spanyolország egyik legszebb strandja. Végezetül élvezze az esti hangulatot egy rövid sétával a történelmi városközpont szűk utcáin.",
+            "ro": "Cu mașina puteți ajunge la cele mai retrase comori naturale din Jávea. Începeți la poalele muntelui Montgó și explorați spectaculoasele capuri San Antonio și Nao. Petreceți după-amiaza în golful ascuns Granadella, unul dintre cele mai frumoase din Spania. La final, bucurați-vă de atmosfera serii cu o scurtă plimbare prin centrul istoric.",
+            "en": "By car, you can reach Jávea's most remote natural treasures. Start at the base of Montgó and explore the spectacular Capes San Antonio and Nao. Spend the afternoon at the hidden Granadella Cove, one of Spain's most beautiful beaches. Finally, enjoy the evening atmosphere with a short stroll through the historic streets of the town center."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Parque Natural del Montgó",
+                "hu": "Montgó Natúrpark",
+                "ro": "Parcul Natural Montgó",
+                "en": "Montgó Natural Park"
+              },
+              "tip_5lang": {
+                "de": "Wandern Sie ein Stück auf den markierten Pfaden.",
+                "hu": "Tegyen egy rövid túrát a kijelölt ösvényeken.",
+                "ro": "Faceți o drumeție scurtă pe traseele marcate.",
+                "en": "Take a short hike along the well-marked trails."
+              }
+            },
+            {
+              "name": {
+                "de": "Cabo de San Antonio",
+                "hu": "Szent Antal-fok",
+                "ro": "Cabo de San Antonio",
+                "en": "Cape San Antonio"
+              },
+              "tip_5lang": {
+                "de": "Von hier sieht man bei klarer Sicht bis nach Ibiza.",
+                "hu": "Tiszta időben innen ellátni egészen Ibizáig.",
+                "ro": "În zilele senine, de aici se poate vedea până în Ibiza.",
+                "en": "On clear days, you can see all the way to Ibiza from here."
+              }
+            },
+            {
+              "name": {
+                "de": "Cabo de la Nao",
+                "hu": "Nao-fok",
+                "ro": "Cabo de la Nao",
+                "en": "Cape Nao"
+              },
+              "tip_5lang": {
+                "de": "Der östlichste Punkt der Provinz mit Leuchtturm.",
+                "hu": "A tartomány legkeletibb pontja egy világítótoronnyal.",
+                "ro": "Cel mai estic punct al provinciei, marcat de un far.",
+                "en": "The easternmost point of the province with a lighthouse."
+              }
+            },
+            {
+              "name": {
+                "de": "Cala Granadella",
+                "hu": "Granadella-öböl",
+                "ro": "Cala Granadella",
+                "en": "Granadella Cove"
+              },
+              "tip_5lang": {
+                "de": "Kiesstrand mit kristallklarem Wasser, ideal zum Schnorcheln.",
+                "hu": "Kavicsos strand kristálytiszta vízzel, búvárkodáshoz kiváló.",
+                "ro": "Plajă cu pietriș și apă cristalină, ideală pentru snorkeling.",
+                "en": "Pebble beach with crystal-clear water, ideal for snorkeling."
+              }
+            },
+            {
+              "name": {
+                "de": "Casco Antiguo",
+                "hu": "Óváros",
+                "ro": "Orașul Vechi",
+                "en": "Old Town"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie im unterirdischen Parkhaus am Plaza de la Constitución.",
+                "hu": "Parkoljon a Plaza de la Constitución alatti mélygarázsban.",
+                "ro": "Parcați în garajul subteran de la Plaza de la Constitución.",
+                "en": "Park in the underground garage at Plaza de la Constitución."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Paella de Marisco",
+                "tip": "Frische Meeresfrüchte-Paella im Restaurant Sur in der Cala Granadella."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Tengeri Paella",
+                "tip": "Friss tengeri paella a Sur étteremben, a Granadella-öbölnél."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Paella de Marisco",
+                "tip": "Paella cu fructe de mare la restaurantul Sur din Cala Granadella."
+              }
+            ],
+            "en": [
+              {
+                "name": "Seafood Paella",
+                "tip": "Fresh seafood paella at Restaurant Sur in Cala Granadella."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Mirador de la Falzia",
+                "tip": "Blick auf den Portichol-Felsbogen in absoluter Stille.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Mirador de la Falzia",
+                "tip": "Kilátás a Portichol-sziklára teljes csendben.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Mirador de la Falzia",
+                "tip": "Vedere spre stânca Portichol în liniște absolută.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Mirador de la Falzia",
+                "tip": "View of the Portichol arch in absolute silence.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "L'Almadrava",
+                "tip": "Lokale Weine und Olivenöle direkt aus der Region."
+              }
+            ],
+            "hu": [
+              {
+                "name": "L'Almadrava",
+                "tip": "Helyi borok és olívaolajok közvetlenül a régióból."
+              }
+            ],
+            "ro": [
+              {
+                "name": "L'Almadrava",
+                "tip": "Vinuri locale și uleiuri de măsline direct din regiune."
+              }
+            ],
+            "en": [
+              {
+                "name": "L'Almadrava",
+                "tip": "Local wines and olive oils sourced directly from the region."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Die Zufahrt zur Granadella ist im Sommer für Autos oft gesperrt, nutzen Sie den Shuttle.",
+              "Die Straßen zu den Kaps sind kurvig, fahren Sie vorsichtig.",
+              "Buchen Sie Restauranttische in Strandnähe im Voraus."
+            ],
+            "hu": [
+              "A Granadella-öbölbe nyáron korlátozzák az autós forgalmat, használja a transzfert.",
+              "A fokokhoz vezető utak kanyargósak, vezessen óvatosan.",
+              "Foglaljon asztalt előre a népszerű tengerparti éttermekben."
+            ],
+            "ro": [
+              "Accesul auto la Granadella este adesea restricționat vara, folosiți shuttle-ul.",
+              "Drumurile spre capuri sunt sinuoase, conduceți cu atenție.",
+              "Rezervați din timp masa la restaurantele de lângă plajă."
+            ],
+            "en": [
+              "Access to Granadella is often restricted for cars in summer; use the shuttle bus.",
+              "The roads to the capes are winding; drive carefully.",
+              "Book restaurant tables near the beach in advance."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie Ihre Fahrt zum Naturpark Montgó. Selbst im Regen ist der Blick auf den massiven Berg beeindruckend, während Sie trocken im Auto sitzen.\n\nMittags geht es zum Kap San Antonio. Der Regen peitscht gegen die Klippen, was ein dramatisches Naturschauspiel bietet, das man am besten vom Auto oder dem nahen Restaurant beobachtet.\n\nAm Nachmittag setzen Sie die Tour zum Kap Nao und zur Granadella-Bucht fort. Die Vegetation wirkt durch den Regen besonders satt und grün.\n\nZum Abschluss parken Sie in der Altstadt. Ein kurzer Sprint zum nächsten Café bringt Sie ins Trockene, wo Sie den Tag gemütlich ausklingen lassen können.",
+            "hu": "Induljon el a Montgó Természeti Park felé. Még esőben is lenyűgöző a hatalmas hegy látványa, miközben Ön szárazon ül az autóban.\n\nDélben irány a San Antonio-fok. A szikláknak csapódó eső drámai természeti látványt nyújt, amit legjobb az autóból vagy a közeli étteremből nézni.\n\nDélután folytassa az utat a Nao-fokhoz és a Granadella-öbölhöz. A növényzet az esőtől különösen üdének és zöldnek tűnik.\n\nBefejezésül parkoljon le az óvárosban. Egy rövid sprint a legközelebbi kávézóig, és már élvezheti is a nap végét a szárazon.",
+            "ro": "Începeți drumul spre Parcul Natural Montgó. Chiar și pe ploaie, vederea muntelui masiv este impresionantă în timp ce stați la uscat în mașină.\n\nLa prânz, mergeți spre Capul San Antonio. Ploaia care lovește stâncile oferă un spectacol dramatic, cel mai bine observat din mașină sau de la restaurantul din apropiere.\n\nDupă-amiaza, continuați turul spre Capul Nao și golful Granadella. Vegetația pare deosebit de bogată și verde datorită ploii.\n\nLa final, parcați în orașul vechi. Un scurt sprint până la cea mai apropiată cafenea vă va duce la adăpost pentru a încheia ziua confortabil.",
+            "en": "Start your drive to Montgó Natural Park. Even in the rain, the view of the massive mountain is impressive while you sit dry in your car.\n\nAt noon, head to Cape San Antonio. The rain lashing against the cliffs provides a dramatic natural spectacle, best viewed from the car or the nearby restaurant.\n\nIn the afternoon, continue the tour to Cape Nao and Granadella Cove. The vegetation looks particularly lush and green thanks to the rain.\n\nTo finish, park in the Old Town. A quick sprint to the nearest cafe gets you into the dry, where you can end the day comfortably."
+          },
+          "stops": [
+            {
+              "name": "Montgó Natural Park",
+              "tip_5lang": {
+                "de": "Bleiben Sie auf den befestigten Parkplätzen, um nicht im Schlamm steckenzubleiben.",
+                "hu": "Maradjon a szilárd burkolatú parkolókban, hogy ne akadjon el a sárban.",
+                "ro": "Rămâneți în parcările amenajate pentru a evita să rămâneți blocat în noroi.",
+                "en": "Stay in the paved parking areas to avoid getting stuck in the mud."
+              }
+            },
+            {
+              "name": "Cape San Antonio",
+              "tip_5lang": {
+                "de": "Das Auto bietet den perfekten Schutz für die Aussicht bei Sturm.",
+                "hu": "Az autó tökéletes védelmet nyújt a kilátáshoz viharos időben.",
+                "ro": "Mașina oferă protecția perfectă pentru a admira priveliștea pe furtună.",
+                "en": "The car provides perfect protection for the view during a storm."
+              }
+            },
+            {
+              "name": "Cape Nao",
+              "tip_5lang": {
+                "de": "Die kurvige Straße kann bei Regen rutschig sein; fahren Sie langsam.",
+                "hu": "A kanyargós út esőben csúszós lehet; vezessen lassan.",
+                "ro": "Drumul sinuos poate fi alunecos pe ploaie; conduceți încet.",
+                "en": "The winding road can be slippery in the rain; drive slowly."
+              }
+            },
+            {
+              "name": "Granadella Cove",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf das raue Meer bequem von Ihrem Fahrzeug aus.",
+                "hu": "Élvezze a zord tenger látványát kényelmesen a járművéből.",
+                "ro": "Bucurați-vă de vederea mării agitate confortabil din vehicul.",
+                "en": "Enjoy the view of the rough sea comfortably from your vehicle."
+              }
+            },
+            {
+              "name": "Old Town",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Parkhaus am 'Portal del Clot', um trocken in die Stadt zu gelangen.",
+                "hu": "Használja a 'Portal del Clot' parkolóházat, hogy szárazon jusson a városba.",
+                "ro": "Folosiți parcarea subterană 'Portal del Clot' pentru a ajunge la uscat în oraș.",
+                "en": "Use the 'Portal del Clot' parking garage to get into town dry."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Scheibenwischer und den Reifendruck vor der Abfahrt.",
+              "Vermeiden Sie bei Starkregen tiefgelegene Straßen, die überflutet sein könnten.",
+              "Parkhäuser sind bequemer als Parkplätze im Freien, um trocken zu bleiben.",
+              "Lassen Sie die Klimaanlage laufen, um das Beschlagen der Scheiben zu verhindern.",
+              "Die Sicht kann an den Kaps bei Regen stark eingeschränkt sein."
+            ],
+            "hu": [
+              "Indulás előtt ellenőrizze az ablaktörlőket és a guminyomást.",
+              "Heves esőzéskor kerülje az alacsonyan fekvő utakat, amelyek víz alá kerülhetnek.",
+              "A parkolóházak kényelmesebbek a nyitott parkolóknál, ha szárazon akar maradni.",
+              "Használja a légkondicionálót a szélvédő párátlanítására.",
+              "A fokoknál esőben a látótávolság jelentősen lecsökkenhet."
+            ],
+            "ro": [
+              "Verificați ștergătoarele și presiunea în anvelope înainte de plecare.",
+              "Evitați drumurile joase care pot fi inundate în timpul ploilor torențiale.",
+              "Parcările acoperite sunt mai convenabile decât cele în aer liber pentru a rămâne uscat.",
+              "Folosiți aerul condiționat pentru a preveni aburirea geamurilor.",
+              "Vizibilitatea la capuri poate fi sever limitată în timpul ploii."
+            ],
+            "en": [
+              "Check your windshield wipers and tire pressure before setting off.",
+              "Avoid low-lying roads that could be flooded during heavy rain.",
+              "Parking garages are more convenient than outdoor lots to stay dry.",
+              "Keep the air conditioning running to prevent windows from fogging up.",
+              "Visibility at the capes can be severely limited during rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein sonniger Wintertag ist perfekt für eine Fahrt zum Montgó. Die Luft ist klar und die Sicht reicht oft bis nach Ibiza.\n\nMittags erkunden Sie die Kaps San Antonio und Nao. Ohne die sommerlichen Touristenmassen können Sie die Aussichtspunkte in aller Ruhe genießen.\n\nAm Nachmittag führt die Fahrt hinunter zur Granadella-Bucht. Das türkisblaue Wasser wirkt im Winterlicht besonders intensiv.\n\nBeenden Sie die Tour in der Altstadt. Die kühlen Abendstunden laden dazu ein, in den beheizten Innenräumen der Restaurants die lokale Küche zu probieren.",
+            "hu": "Egy napos téli nap tökéletes a Montgóhoz való autózáshoz. A levegő tiszta, és a kilátás gyakran Ibizáig is ellát.\n\nDélben fedezze fel a San Antonio- és Nao-fokot. A nyári turistatömeg nélkül nyugodtan élvezheti a kilátópontokat.\n\nDélután az út a Granadella-öbölhöz vezet. A türkizkék víz a téli fényben különösen intenzívnek tűnik.\n\nZárja a túrát az óvárosban. A hűvös esti órák kiválóak arra, hogy az éttermek fűtött belső tereiben megkóstolja a helyi konyhát.",
+            "ro": "O zi însorită de iarnă este perfectă pentru un drum spre Montgó. Aerul este clar și vederea se întinde adesea până la Ibiza.\n\nLa prânz, explorați capurile San Antonio și Nao. Fără mulțimile de turiști de vară, vă puteți bucura de belvedere în liniște.\n\nDupă-amiaza, drumul coboară spre golful Granadella. Apa turcoaz pare deosebit de intensă în lumina iernii.\n\nÎncheiați turul în orașul vechi. Orele răcoroase de seară vă invită să încercați bucătăria locală în interiorul încălzit al restaurantelor.",
+            "en": "A sunny winter day is perfect for a drive to Montgó. The air is clear, and views often stretch all the way to Ibiza.\n\nAt noon, explore Cape San Antonio and Cape Nao. Without the summer tourist crowds, you can enjoy the viewpoints in peace.\n\nIn the afternoon, the drive leads down to Granadella Cove. The turquoise water looks particularly intense in the winter light.\n\nEnd the tour in the Old Town. The cool evening hours are perfect for sampling local cuisine in the heated interiors of restaurants."
+          },
+          "stops": [
+            {
+              "name": "Montgó Natural Park",
+              "tip_5lang": {
+                "de": "Hervorragende Fernsicht im Winter; Fernglas nicht vergessen.",
+                "hu": "Kiváló kilátás télen; ne felejtse otthon a távcsövet.",
+                "ro": "Vizibilitate excelentă iarna; nu uitați binoclul.",
+                "en": "Excellent long-distance visibility in winter; don't forget binoculars."
+              }
+            },
+            {
+              "name": "Cape San Antonio",
+              "tip_5lang": {
+                "de": "Viel einfacherer Zugang zu Parkplätzen als in der Hochsaison.",
+                "hu": "Sokkal könnyebb parkolóhelyet találni, mint a főszezonban.",
+                "ro": "Acces mult mai ușor la locurile de parcare decât în plin sezon.",
+                "en": "Much easier access to parking than during high season."
+              }
+            },
+            {
+              "name": "Cape Nao",
+              "tip_5lang": {
+                "de": "Genießen Sie den Sonnenuntergang von den Klippen aus.",
+                "hu": "Élvezze a naplementét a sziklák tetejéről.",
+                "ro": "Bucurați-vă de apusul soarelui de pe stânci.",
+                "en": "Enjoy the sunset from the cliffs."
+              }
+            },
+            {
+              "name": "Granadella Cove",
+              "tip_5lang": {
+                "de": "Im Winter können Sie oft direkt am Strand parken.",
+                "hu": "Télen gyakran közvetlenül a strandnál is parkolhat.",
+                "ro": "Iarna puteți parca adesea chiar lângă plajă.",
+                "en": "In winter, you can often park right next to the beach."
+              }
+            },
+            {
+              "name": "Old Town",
+              "tip_5lang": {
+                "de": "Die Abendbeleuchtung der Altstadt ist im Winter besonders stimmungsvoll.",
+                "hu": "Az óváros esti kivilágítása télen különösen hangulatos.",
+                "ro": "Iluminatul de seară al orașului vechi este deosebit de atmosferic iarna.",
+                "en": "The evening lighting of the Old Town is particularly atmospheric in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Bergstraßen können morgens im Schatten etwas glatt sein.",
+              "Nutzen Sie die Nebensaison für stressfreies Fahren und Parken.",
+              "Bringen Sie eine Decke mit, falls Sie für den Sonnenuntergang anhalten.",
+              "Die Tankstellen in Küstennähe sind im Winter weniger überlaufen.",
+              "Achten Sie auf Wanderer, die die kühleren Temperaturen für Touren nutzen."
+            ],
+            "hu": [
+              "A hegyi utak reggel az árnyékos részeken kissé csúszósak lehetnek.",
+              "Használja ki az utószezont a stresszmentes vezetéshez és parkoláshoz.",
+              "Vigyen magával takarót, ha megállna a naplementét nézni.",
+              "A parthoz közeli benzinkutak télen kevésbé zsúfoltak.",
+              "Ügyeljen a túrázókra, akik kihasználják a hűvösebb időt a kirándulásra."
+            ],
+            "ro": [
+              "Drumurile montane pot fi ușor alunecoase dimineața în zonele cu umbră.",
+              "Profită de extrasezon pentru condus și parcare fără stres.",
+              "Aduceți o pătură dacă vă opriți pentru a vedea apusul.",
+              "Benzinăriile de lângă coastă sunt mai puțin aglomerate iarna.",
+              "Atenție la drumeții care profită de temperaturile mai scăzute pentru tururi."
+            ],
+            "en": [
+              "Mountain roads can be slightly slippery in shaded spots in the morning.",
+              "Take advantage of the low season for stress-free driving and parking.",
+              "Bring a blanket if you plan to stop and watch the sunset.",
+              "Coastal gas stations are much less crowded in winter.",
+              "Watch out for hikers taking advantage of the cooler weather."
+            ]
+          }
+        }
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:20",
+      "total_km": 14.5,
+      "stop_count": 4,
+      "stops": [
+        {
+          "name": {
+            "de": "Casco Antiguo",
+            "hu": "Óváros",
+            "ro": "Orașul Vechi",
+            "en": "Old Town"
+          },
+          "coords": [
+            0.17,
+            38.79
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:15",
+          "stay_min": 70,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Die Bushaltestelle liegt nahe der Markthalle.",
+            "hu": "A buszmegálló a vásárcsarnok közelében található.",
+            "ro": "Stația de autobuz este aproape de hala pieței.",
+            "en": "The bus stop is located near the indoor market hall."
+          }
+        },
+        {
+          "name": {
+            "de": "Parroquia de Nuestra Señora de Loreto",
+            "hu": "Loreto Miasszonyunk plébánia",
+            "ro": "Parohia Nuestra Señora de Loreto",
+            "en": "Parish of Our Lady of Loreto"
+          },
+          "coords": [
+            0.185,
+            38.795
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Laufen Sie vom Hafenstopp nur wenige Minuten.",
+            "hu": "A kikötői megállótól csak pár perc séta a templom.",
+            "ro": "Mergeți doar câteva minute de la stația din port.",
+            "en": "Walk just a few minutes from the port bus stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa del Arenal",
+            "hu": "Arenal strand",
+            "ro": "Plaja Arenal",
+            "en": "Arenal Beach"
+          },
+          "coords": [
+            0.191,
+            38.773
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:00",
+          "stay_min": 180,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Zentrale Haltestelle direkt hinter dem Strand.",
+            "hu": "Központi megálló közvetlenül a strand mögött.",
+            "ro": "Stație centrală chiar în spatele plajei.",
+            "en": "Central bus stop located right behind the beach."
+          }
+        },
+        {
+          "name": {
+            "de": "Cala Granadella",
+            "hu": "Granadella-öböl",
+            "ro": "Cala Granadella",
+            "en": "Granadella Cove"
+          },
+          "coords": [
+            0.2,
+            38.72
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:30",
+          "stay_min": 140,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Nutzen Sie im Sommer den speziellen Shuttle-Bus.",
+            "hu": "Nyáron vegye igénybe a speciális transzferbuszt.",
+            "ro": "Folosiți autobuzul special de transfer în timpul verii.",
+            "en": "Use the special tourist shuttle bus during the summer."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie die lokalen Buslinien, um die drei Zentren von Jávea zu verbinden: das historische Dorf, den Hafen und den Arenal-Strand. Im Sommer bringt Sie ein zusätzlicher Shuttle zur malerischen Granadella-Bucht. So genießen Sie den Tag ohne Parkplatzsorgen und können die Aussicht während der Fahrt entlang der Küste entspannt auf sich wirken lassen.",
+        "hu": "Használja a helyi buszjáratokat Jávea három központjának összekötésére: a történelmi falut, a kikötőt és az Arenal strandot. Nyáron egy extra transzferjárat visz el a festői Granadella-öbölbe. Így parkolási gondok nélkül élvezheti a napot, és a buszból csodálhatja a tengerparti tájat az utazás alatt.",
+        "ro": "Folosiți liniile locale de autobuz pentru a conecta cele trei centre ale orașului Jávea: satul istoric, portul și plaja Arenal. Vara, un shuttle suplimentar vă duce la pitorescul golf Granadella. Astfel, vă bucurați de zi fără grija parcării și puteți admira peisajul de coastă în timpul călătoriei.",
+        "en": "Use the local bus lines to connect Jávea's three centers: the historic village, the port, and Arenal Beach. In summer, an additional shuttle takes you to the scenic Granadella Cove. This allows you to enjoy the day without parking worries while taking in the coastal views during the ride."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gambas de Dénia/Xàbia",
+            "tip": "Frische rote Garnelen, serviert in den Restaurants am Hafen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vörös Garnéla",
+            "tip": "Helyi vörös garnélarák, a kikötői éttermek specialitása."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Creveți roșii",
+            "tip": "Creveți roșii proaspeți, serviți la restaurantele din port."
+          }
+        ],
+        "en": [
+          {
+            "name": "Xàbia Red Prawns",
+            "tip": "Fresh local red prawns, a delicacy served in the port restaurants."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Paseo del Montañar",
+            "tip": "Spazierweg am Ufer zwischen Hafen und Arenal.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Paseo del Montañar",
+            "tip": "Sétány a parton a kikötő és az Arenal között.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Paseo del Montañar",
+            "tip": "Promenadă pe malul mării între port și Arenal.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Paseo del Montañar",
+            "tip": "Seaside walking path between the port and Arenal.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Arenal Promenade",
+            "tip": "Viele kleine Souvenirgeschäfte und Strandmode."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Arenal sétány",
+            "tip": "Számos ajándékbolt és stranddivat üzlet a parton."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Faleza Arenal",
+            "tip": "Multe magazine de suveniruri și modă de plajă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Arenal Promenade",
+            "tip": "Numerous souvenir shops and beachwear boutiques."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie ein Mehrfahrten-Ticket beim Busfahrer für Ersparnisse.",
+          "Die Busfrequenz kann mittags variieren, planen Sie Pufferzeit ein.",
+          "Die Haltestellen sind meist gut mit 'Bus' markiert."
+        ],
+        "hu": [
+          "Vásároljon gyűjtőjegyet a buszvezetőnél a kedvezőbb árért.",
+          "A buszok sűrűsége délben változhat, tervezzen némi tartalékidőt.",
+          "A megállókat általában egyértelmű 'Bus' felirat jelzi."
+        ],
+        "ro": [
+          "Cumpărați un bilet cu mai multe călătorii de la șofer pentru a economisi.",
+          "Frecvența autobuzelor poate varia la prânz, planificați o rezervă de timp.",
+          "Stațiile sunt de obicei bine marcate cu 'Bus'."
+        ],
+        "en": [
+          "Buy a multi-trip ticket from the bus driver for better savings.",
+          "Bus frequency can vary during midday; allow some buffer time.",
+          "Bus stops are usually clearly marked with a 'Bus' sign."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie die lokalen Buslinien, um die drei Zentren von Jávea zu verbinden: das historische Dorf, den Hafen und den Arenal-Strand. Im Sommer bringt Sie ein zusätzlicher Shuttle zur malerischen Granadella-Bucht. So genießen Sie den Tag ohne Parkplatzsorgen und können die Aussicht während der Fahrt entlang der Küste entspannt auf sich wirken lassen.",
+            "hu": "Használja a helyi buszjáratokat Jávea három központjának összekötésére: a történelmi falut, a kikötőt és az Arenal strandot. Nyáron egy extra transzferjárat visz el a festői Granadella-öbölbe. Így parkolási gondok nélkül élvezheti a napot, és a buszból csodálhatja a tengerparti tájat az utazás alatt.",
+            "ro": "Folosiți liniile locale de autobuz pentru a conecta cele trei centre ale orașului Jávea: satul istoric, portul și plaja Arenal. Vara, un shuttle suplimentar vă duce la pitorescul golf Granadella. Astfel, vă bucurați de zi fără grija parcării și puteți admira peisajul de coastă în timpul călătoriei.",
+            "en": "Use the local bus lines to connect Jávea's three centers: the historic village, the port, and Arenal Beach. In summer, an additional shuttle takes you to the scenic Granadella Cove. This allows you to enjoy the day without parking worries while taking in the coastal views during the ride."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Casco Antiguo",
+                "hu": "Óváros",
+                "ro": "Orașul Vechi",
+                "en": "Old Town"
+              },
+              "tip_5lang": {
+                "de": "Die Bushaltestelle liegt nahe der Markthalle.",
+                "hu": "A buszmegálló a vásárcsarnok közelében található.",
+                "ro": "Stația de autobuz este aproape de hala pieței.",
+                "en": "The bus stop is located near the indoor market hall."
+              }
+            },
+            {
+              "name": {
+                "de": "Parroquia de Nuestra Señora de Loreto",
+                "hu": "Loreto Miasszonyunk plébánia",
+                "ro": "Parohia Nuestra Señora de Loreto",
+                "en": "Parish of Our Lady of Loreto"
+              },
+              "tip_5lang": {
+                "de": "Laufen Sie vom Hafenstopp nur wenige Minuten.",
+                "hu": "A kikötői megállótól csak pár perc séta a templom.",
+                "ro": "Mergeți doar câteva minute de la stația din port.",
+                "en": "Walk just a few minutes from the port bus stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa del Arenal",
+                "hu": "Arenal strand",
+                "ro": "Plaja Arenal",
+                "en": "Arenal Beach"
+              },
+              "tip_5lang": {
+                "de": "Zentrale Haltestelle direkt hinter dem Strand.",
+                "hu": "Központi megálló közvetlenül a strand mögött.",
+                "ro": "Stație centrală chiar în spatele plajei.",
+                "en": "Central bus stop located right behind the beach."
+              }
+            },
+            {
+              "name": {
+                "de": "Cala Granadella",
+                "hu": "Granadella-öböl",
+                "ro": "Cala Granadella",
+                "en": "Granadella Cove"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie im Sommer den speziellen Shuttle-Bus.",
+                "hu": "Nyáron vegye igénybe a speciális transzferbuszt.",
+                "ro": "Folosiți autobuzul special de transfer în timpul verii.",
+                "en": "Use the special tourist shuttle bus during the summer."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Gambas de Dénia/Xàbia",
+                "tip": "Frische rote Garnelen, serviert in den Restaurants am Hafen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Vörös Garnéla",
+                "tip": "Helyi vörös garnélarák, a kikötői éttermek specialitása."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Creveți roșii",
+                "tip": "Creveți roșii proaspeți, serviți la restaurantele din port."
+              }
+            ],
+            "en": [
+              {
+                "name": "Xàbia Red Prawns",
+                "tip": "Fresh local red prawns, a delicacy served in the port restaurants."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Paseo del Montañar",
+                "tip": "Spazierweg am Ufer zwischen Hafen und Arenal.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Paseo del Montañar",
+                "tip": "Sétány a parton a kikötő és az Arenal között.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Paseo del Montañar",
+                "tip": "Promenadă pe malul mării între port și Arenal.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Paseo del Montañar",
+                "tip": "Seaside walking path between the port and Arenal.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Arenal Promenade",
+                "tip": "Viele kleine Souvenirgeschäfte und Strandmode."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Arenal sétány",
+                "tip": "Számos ajándékbolt és stranddivat üzlet a parton."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Faleza Arenal",
+                "tip": "Multe magazine de suveniruri și modă de plajă."
+              }
+            ],
+            "en": [
+              {
+                "name": "Arenal Promenade",
+                "tip": "Numerous souvenir shops and beachwear boutiques."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Kaufen Sie ein Mehrfahrten-Ticket beim Busfahrer für Ersparnisse.",
+              "Die Busfrequenz kann mittags variieren, planen Sie Pufferzeit ein.",
+              "Die Haltestellen sind meist gut mit 'Bus' markiert."
+            ],
+            "hu": [
+              "Vásároljon gyűjtőjegyet a buszvezetőnél a kedvezőbb árért.",
+              "A buszok sűrűsége délben változhat, tervezzen némi tartalékidőt.",
+              "A megállókat általában egyértelmű 'Bus' felirat jelzi."
+            ],
+            "ro": [
+              "Cumpărați un bilet cu mai multe călătorii de la șofer pentru a economisi.",
+              "Frecvența autobuzelor poate varia la prânz, planificați o rezervă de timp.",
+              "Stațiile sunt de obicei bine marcate cu 'Bus'."
+            ],
+            "en": [
+              "Buy a multi-trip ticket from the bus driver for better savings.",
+              "Bus frequency can vary during midday; allow some buffer time.",
+              "Bus stops are usually clearly marked with a 'Bus' sign."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie Ihre Reise mit dem Bus in die Altstadt. Die Fahrt bietet einen trockenen Ausblick auf die Küste, während der Regen die Landschaft erfrischt.\n\nMittags nehmen Sie die Verbindung zum Hafen. Die moderne Architektur der Loreto-Kirche ist nur einen kurzen Fußweg von der Bushaltestelle entfernt.\n\nAm Nachmittag geht es weiter zum Arenal. Die vielen Cafés an der Promenade bieten den perfekten Schutz, um das stürmische Meer bei einem Kaffee zu beobachten.\n\nBeenden Sie den Tag mit der Rückfahrt. Die beleuchteten Busfenster und die Reflexionen des Regens auf der Straße sorgen für eine gemütliche Atmosphäre.",
+            "hu": "Kezdje az utat busszal az óváros felé. A járat száraz kilátást nyújt a partra, miközben az eső felfrissíti a tájat.\n\nDélben menjen át a kikötőbe. A Loreto-templom modern épülete csak egy rövid sétára van a buszmegállótól.\n\nDélután irány az Arenal. A sétány számos kávézója tökéletes menedéket nyújt, hogy egy kávé mellett nézzük a viharos tengert.\n\nZárja a napot a visszautazással. A kivilágított buszablakok és az eső tükröződése az úton meghitt hangulatot áraszt.",
+            "ro": "Începeți călătoria cu autobuzul spre orașul vechi. Drumul oferă o vedere ferită de ploaie asupra coastei, în timp ce peisajul este împrospătat.\n\nLa prânz, luați legătura spre port. Arhitectura modernă a bisericii Loreto este la doar câțiva pași de stația de autobuz.\n\nDupă-amiaza, continuați spre Arenal. Numeroasele cafenele de pe faleză oferă adăpostul perfect pentru a observa marea agitată la o cafea.\n\nÎncheiați ziua cu drumul de întoarcere. Ferestrele luminate ale autobuzului și reflexiile ploii pe asfalt creează o atmosferă plăcută.",
+            "en": "Start your journey by bus to the Old Town. The ride offers a dry view of the coast while the rain refreshes the landscape.\n\nAt noon, take the connection to the port. The modern architecture of the Loreto church is just a short walk from the bus stop.\n\nIn the afternoon, head to Arenal. The many cafes on the promenade offer the perfect shelter to watch the stormy sea over a coffee.\n\nEnd the day with the return journey. The lit bus windows and the reflections of the rain on the road create a cozy atmosphere."
+          },
+          "stops": [
+            {
+              "name": "Old Town",
+              "tip_5lang": {
+                "de": "Die Bushaltestellen in der Altstadt haben oft kleine Unterstände.",
+                "hu": "Az óvárosi buszmegállók gyakran rendelkeznek kis váróval.",
+                "ro": "Stațiile de autobuz din orașul vechi au adesea mici adăposturi.",
+                "en": "The bus stops in the Old Town often have small shelters."
+              }
+            },
+            {
+              "name": "Parish of Our Lady of Loreto",
+              "tip_5lang": {
+                "de": "Der Bus hält ganz in der Nähe der Kirche; ideal bei Regen.",
+                "hu": "A busz egészen közel áll meg a templomhoz; ideális esőben.",
+                "ro": "Autobuzul oprește foarte aproape de biserică; ideal pe ploaie.",
+                "en": "The bus stops very close to the church; ideal when it rains."
+              }
+            },
+            {
+              "name": "Arenal Beach",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Bus, um direkt zur überdachten Promenade zu gelangen.",
+                "hu": "Használja a buszt, hogy közvetlenül a fedett sétányhoz jusson.",
+                "ro": "Folosiți autobuzul pentru a ajunge direct la faleza acoperită.",
+                "en": "Use the bus to get directly to the covered promenade areas."
+              }
+            },
+            {
+              "name": "Granadella Cove",
+              "tip_5lang": {
+                "de": "Prüfen Sie, ob der Shuttle-Bus bei schlechtem Wetter verkehrt.",
+                "hu": "Ellenőrizze, hogy a transzferbusz közlekedik-e rossz időben.",
+                "ro": "Verificați dacă autobuzul de transfer circulă pe vreme rea.",
+                "en": "Check if the shuttle bus is operating during bad weather."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Haben Sie Kleingeld für das Busticket bereit, falls keine Kartenzahlung möglich ist.",
+              "Die Busse können bei Regen aufgrund des Verkehrs etwas Verspätung haben.",
+              "Nutzen Sie die 'Xàbia Connect' App für Echtzeit-Informationen.",
+              "Tragen Sie Ihre Regenjacke auch im Bus, um beim Aussteigen bereit zu sein.",
+              "In der Nähe der Haltestellen gibt es oft Kioske, falls Sie einen Schirm brauchen."
+            ],
+            "hu": [
+              "Legyen Önnél aprópénz a buszjegyhez, ha nem lehetséges a kártyás fizetés.",
+              "Az eső miatti forgalom miatt a buszok késhetnek egy keveset.",
+              "Használja az 'Xàbia Connect' alkalmazást a valós idejű információkért.",
+              "A buszon is tartsa magán az esőkabátot, hogy kiszálláskor kész legyen.",
+              "A megállók közelében gyakran vannak újságosok, ha esernyőre lenne szüksége."
+            ],
+            "ro": [
+              "Aveți pregătit mărunțiș pentru bilet, în caz că nu se poate plăti cu cardul.",
+              "Autobuzele pot avea mici întârzieri din cauza traficului pe timp de ploaie.",
+              "Folosiți aplicația 'Xàbia Connect' pentru informații în timp real.",
+              "Păstrați jacheta de ploaie pe dvs. și în autobuz pentru a fi gata la coborâre.",
+              "Lângă stații se află adesea chioșcuri, în caz că aveți nevoie de o umbrelă."
+            ],
+            "en": [
+              "Have small change ready for the bus ticket in case card payment isn't available.",
+              "Buses may experience slight delays due to traffic during rainy weather.",
+              "Use the 'Xàbia Connect' app for real-time transit information.",
+              "Keep your rain jacket on while on the bus to be ready when you get off.",
+              "Kiosks near bus stops often sell umbrellas if you find yourself without one."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie den lokalen Bus für einen entspannten Wintertag in der Altstadt. Die klare Sicht aus dem Fenster macht die kurze Fahrt zu einem Genuss.\n\nMittags bringt Sie der Bus zum Hafen. Spazieren Sie zur Loreto-Kirche und genießen Sie das angenehme Klima am Meer.\n\nAm Nachmittag führt die Route zum Strand von Arenal. Die Busfahrt entlang der Küste bietet tolle Ausblicke auf das tiefblaue Wintermeer.\n\nBeenden Sie den Tag mit einer Fahrt zur Granadella-Bucht, falls der saisonale Dienst verfügbar ist, oder kehren Sie rechtzeitig vor Sonnenuntergang zurück.",
+            "hu": "Használja a helyi buszt egy pihentető téli naphoz az óvárosban. Az ablakból nyíló tiszta kilátás élvezetessé teszi a rövid utat.\n\nDélben a busz a kikötőbe viszi. Sétáljon el a Loreto-templomhoz, és élvezze a kellemes tengerparti klímát.\n\nDélután az útvonal az Arenal strandra vezet. A part menti buszozás nagyszerű kilátást nyújt a mélykék téli tengerre.\n\nZárja a napot egy úttal a Granadella-öbölhöz, ha a szezonális járat közlekedik, vagy térjen vissza időben a naplemente előtt.",
+            "ro": "Folosiți autobuzul local pentru o zi relaxantă de iarnă în orașul vechi. Vederea clară de pe fereastră face ca scurta călătorie să fie o plăcere.\n\nLa prânz, autobuzul vă duce în port. Plimbați-vă până la biserica Loreto și bucurați-vă de climatul plăcut de la malul mării.\n\nDupă-amiaza, traseul continuă spre plaja Arenal. Călătoria de-a lungul coastei oferă priveliști superbe asupra mării albastre de iarnă.\n\nÎncheiați ziua cu o vizită la golful Granadella, dacă serviciul sezonier este disponibil, sau întoarceți-vă înainte de apus.",
+            "en": "Use the local bus for a relaxed winter day in the Old Town. The clear views from the window make the short trip a pleasure.\n\nAt noon, the bus takes you to the port. Stroll to the Loreto church and enjoy the pleasant seaside climate.\n\nIn the afternoon, the route leads to Arenal Beach. The bus ride along the coast offers great views of the deep blue winter sea.\n\nEnd the day with a trip to Granadella Cove if the seasonal service is running, or return in good time before sunset."
+          },
+          "stops": [
+            {
+              "name": "Old Town",
+              "tip_5lang": {
+                "de": "Im Winter sind die Busse weniger überfüllt und man findet leicht einen Platz.",
+                "hu": "Télen a buszok kevésbé zsúfoltak, könnyen találhat ülőhelyet.",
+                "ro": "Iarna autobuzele sunt mai puțin aglomerate și veți găsi ușor un loc.",
+                "en": "Buses are less crowded in winter, making it easy to find a seat."
+              }
+            },
+            {
+              "name": "Parish of Our Lady of Loreto",
+              "tip_5lang": {
+                "de": "Genießen Sie den kurzen Spaziergang vom Bus zum Hafen in der milden Sonne.",
+                "hu": "Élvezze a rövid sétát a busztól a kikötőig a lágy napsütésben.",
+                "ro": "Bucurați-vă de scurta plimbare de la autobuz spre port în soarele blând.",
+                "en": "Enjoy the short walk from the bus to the port in the mild sun."
+              }
+            },
+            {
+              "name": "Arenal Beach",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle liegt direkt am Geschehen der Promenade.",
+                "hu": "A buszmegálló közvetlenül a sétány eseményeinek közelében van.",
+                "ro": "Stația de autobuz se află chiar lângă animația de pe faleză.",
+                "en": "The bus stop is located right by the action on the promenade."
+              }
+            },
+            {
+              "name": "Granadella Cove",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Winterfahrplan, da die Frequenz reduziert sein kann.",
+                "hu": "Ellenőrizze a téli menetrendet, mert a járatok ritkábbak lehetnek.",
+                "ro": "Verificați mersul autobuzelor de iarnă, frecvența poate fi redusă.",
+                "en": "Check the winter timetable as the frequency may be reduced."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Busse sind im Winter beheizt, was sehr angenehm sein kann.",
+              "Nutzen Sie die Zeit im Bus, um den nächsten Stopp auf der Karte zu planen.",
+              "Die Fahrpläne können im Winter von den Sommerzeiten abweichen.",
+              "Einige Linien verkehren am Wochenende seltener; planen Sie voraus.",
+              "Die Haltestellen sind gute Orte, um mit Einheimischen in Kontakt zu kommen."
+            ],
+            "hu": [
+              "A buszok télen fűtöttek, ami nagyon kellemes tud lenni.",
+              "Használja ki a buszon töltött időt a következő állomás megtervezésére.",
+              "A menetrendek télen eltérhetnek a nyári időszaktól.",
+              "Egyes vonalak hétvégén ritkábban járnak; tervezzen előre.",
+              "A buszmegállók jó helyek a helyiekkel való kapcsolatteremtésre."
+            ],
+            "ro": [
+              "Autobuzele sunt încălzite iarna, ceea ce poate fi foarte plăcut.",
+              "Folosiți timpul în autobuz pentru a planifica următoarea oprire pe hartă.",
+              "Orarele pot diferi iarna față de perioada de vară.",
+              "Unele linii circulă mai rar în weekend; planificați din timp.",
+              "Stațiile sunt locuri bune pentru a intra în contact cu localnicii."
+            ],
+            "en": [
+              "Buses are heated in winter, which can be very comfortable.",
+              "Use your time on the bus to plan your next stop on the map.",
+              "Schedules in winter may differ from the summer peak times.",
+              "Some lines run less frequently on weekends; plan ahead.",
+              "Bus stops are good places to interact with friendly locals."
+            ]
+          }
+        }
+      }
+    }
+  },
+  "external_resources": {
+    "webcam": "https://www.windy.com/-Webcams/webcams/1607694430?38.788,0.166,11",
+    "tourism_office": "https://www.xabia.org/",
+    "language_tips": {
+      "de": "Javea hat eine grosse britische und deutsche Community, viele Geschaefte und Aerzte sprechen Englisch. Im historischen Stadtkern wird hauptsaechlich Valencianisch gesprochen, ein 'bona vesprada' wird dort herzlich beantwortet. Bestelle 'arros del senyoret' statt 'arroz' und du wirst wie ein Wiederholungsgast behandelt.",
+      "hu": "Javean hatalmas brit es nemet kozosseg el, a boltok es orvosok sokszor angolul fogadnak. A regi vorosban valenciai a meghatarozo nyelv, egy 'bona vesprada' kifejezetten meleg fogadtatast szul. Rendelj 'arros del senyoret'-et 'arroz' helyett, es mar visszajaro vendegnek nez a pincer.",
+      "ro": "Javea are o comunitate britanica si germana mare, magazinele si medicii vorbesc des in engleza. In centrul vechi se vorbeste mai ales valenciana, un 'bona vesprada' fiind primit foarte calduros. Cere 'arros del senyoret' in loc de 'arroz' si vei fi tratat ca un client fidel.",
+      "en": "Javea hosts a large British and German community, with many shops and doctors comfortable in English. The old town still leans Valencian, where 'bona vesprada' earns warm replies. Order 'arros del senyoret' instead of 'arroz' and you'll be treated like a regular."
+    },
+    "best_time_to_visit": {
+      "de": "Mai bis Juni und September sind das Optimum: warmes Meer, sonnige Tage, aber kein Verkehrschaos um den Cap de la Nau. Im August fuellen sich Granadella und Portitxol bereits um 9 Uhr morgens und die Parkplatzsuche wird zur Geduldsprobe. Ostern ist regional sehr beliebt, Reservierung im Hafenviertel ist Pflicht.",
+      "hu": "Majus-junius es szeptember a top: meleg a viz, napsutes, de meg nincs autodugo a Cap de la Nau korul. Augusztusban a Granadella es a Portitxol mar reggel 9-re megtelik, a parkolokeresesbol idegtepo jatek lesz. A husvet hetenel a kikoto kornyekere kotelezo eloreszallodat foglalni.",
+      "ro": "Mai-iunie si septembrie sunt momentul perfect: mare calda, soare, fara haosul rutier de la Cap de la Nau. In august Granadella si Portitxol se umplu deja la 9 dimineata si parcarea devine cosmar. La Pasti zona portului trebuie rezervata din timp.",
+      "en": "May-June and September hit the sweet spot: warm sea, sunshine, no traffic chaos around Cap de la Nau. In August, Granadella and Portitxol fill up by 9am and parking turns into a nightmare. Easter is hugely popular regionally, so book port-area lodgings ahead."
+    },
+    "neighborhood_warnings": {
+      "de": "Javea ist eine der sichersten Gemeinden der Costa Blanca, naechtliche Spaziergaenge sind unproblematisch. Vorsicht vor Quallen im Spaetsommer, an der Granadella-Bucht gibt es selten Rettungsschwimmer. Auf der Strasse zum Cap de Sant Antoni sind die Kurven eng, Mietwagen-Anfaenger sollten tagsueber fahren.",
+      "hu": "Javea a Costa Blanca egyik legbiztonsagosabb varosa, ejszakai setak nyugodtan vallalhatok. Nyarvegen vigyazz a medusakkal, a Granadella oblen ritkan van usszomester. A Cap de Sant Antoni-ra vezeto uton szuk kanyargok, kezdo aut vezetonek napvilag ajanlott.",
+      "ro": "Javea e printre cele mai sigure orase de pe Costa Blanca, plimbarile nocturne sunt fara griji. Atentie la meduze la final de vara, in golful Granadella rar exista salvamar. Drumul spre Cap de Sant Antoni e plin de viraje stranse, soferii incepatori sa conduca doar ziua.",
+      "en": "Javea ranks among the safest Costa Blanca towns, with hassle-free nighttime walks. Watch for jellyfish in late summer, since Granadella cove rarely has a lifeguard. The Cap de Sant Antoni road has tight bends, so novice rental drivers should stick to daylight."
+    }
+  }
+}

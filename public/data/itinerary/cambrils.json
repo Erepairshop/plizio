@@ -1,0 +1,3038 @@
+{
+  "city_id": "cambrils",
+  "anchor": {
+    "name": "Port de Cambrils",
+    "coords": [
+      1.0621,
+      41.0651
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "18:45",
+      "total_km": 4.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Torre de l'Ermita",
+            "hu": "Remete-torony",
+            "ro": "Torre de l'Ermita",
+            "en": "Ermita Tower"
+          },
+          "coords": [
+            1.0535,
+            41.0715
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Besteigen Sie den Turm für eine tolle Aussicht.",
+            "hu": "Mássz fel a toronyba a városi panorámáért.",
+            "ro": "Urcați în turn pentru o panoramă superbă.",
+            "en": "Climb the tower for a great view of the town."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Romana de la Llosa",
+            "hu": "Llosa római villa",
+            "ro": "Vila Romană de la Llosa",
+            "en": "La Llosa Roman Villa"
+          },
+          "coords": [
+            1.0555,
+            41.0665
+          ],
+          "category": "historical",
+          "arrive_at": "10:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Gut erhaltene römische Mosaike.",
+            "hu": "Kiváló állapotban maradt római mozaikok.",
+            "ro": "Mozaicuri romane bine conservate.",
+            "en": "Well-preserved Roman mosaics."
+          }
+        },
+        {
+          "name": {
+            "de": "Museu de la Torre del Port",
+            "hu": "Kikötői Torony Múzeum",
+            "ro": "Muzeul Turnului Portului",
+            "en": "Port Tower Museum"
+          },
+          "coords": [
+            1.0615,
+            41.0655
+          ],
+          "category": "museum",
+          "arrive_at": "11:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über die Fischereigeschichte.",
+            "hu": "Ismerd meg a helyi halászat történetét.",
+            "ro": "Aflați mai multe despre istoria pescuitului.",
+            "en": "Learn about the local fishing history."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc del Pescador",
+            "hu": "Halászok parkja",
+            "ro": "Parcul Pescarului",
+            "en": "Fisherman's Park"
+          },
+          "coords": [
+            1.0635,
+            41.0645
+          ],
+          "category": "park",
+          "arrive_at": "13:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Perfekt für eine Mittagspause im Schatten.",
+            "hu": "Tökéletes hely egy árnyékos ebédszünethez.",
+            "ro": "Locul perfect pentru o pauză de prânz la umbră.",
+            "en": "Perfect spot for a shaded lunch break."
+          }
+        },
+        {
+          "name": {
+            "de": "Port de Cambrils",
+            "hu": "Cambrils kikötője",
+            "ro": "Portul Cambrils",
+            "en": "Cambrils Port"
+          },
+          "coords": [
+            1.0625,
+            41.0658
+          ],
+          "category": "park",
+          "arrive_at": "15:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Beobachten Sie die ankommenden Fischerboote.",
+            "hu": "Figyeld meg a kikötőbe érkező halászhajókat.",
+            "ro": "Urmăriți bărcile de pescuit care sosesc.",
+            "en": "Watch the fishing boats returning to port."
+          }
+        },
+        {
+          "name": {
+            "de": "Platja del Regueral",
+            "hu": "Regueral strand",
+            "ro": "Plaja Regueral",
+            "en": "Regueral Beach"
+          },
+          "coords": [
+            1.0685,
+            41.0652
+          ],
+          "category": "beach",
+          "arrive_at": "16:45",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Genießen Sie den Sonnenuntergang am Meer.",
+            "hu": "Élvezd a naplementét a tengerparton.",
+            "ro": "Bucurați-vă de apusul de soare la malul mării.",
+            "en": "Enjoy the sunset by the sea."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im historischen Zentrum von Cambrils bei der Torre de l'Ermita, einem Wachturm aus dem 14. Jahrhundert. Danach tauchen Sie in der Villa Romana de la Llosa in die römische Vergangenheit der Region ein. Zum Mittagessen spazieren Sie zum Hafen.\n\nAm Nachmittag erkunden Sie das Schifffahrtsmuseum im Torre del Port und genießen die grüne Oase des Parc del Pescador. Der Hafenbereich ist das pulsierende Herz der Stadt, wo Tradition auf Moderne trifft.\n\nLassen Sie den Tag entspannt an der Platja del Regueral ausklingen, dem Hauptstrand von Cambrils mit feinem Sand und kristallklarem Wasser. Die Promenade bietet zahlreiche Cafés für einen Drink am Abend.",
+        "hu": "Kezdje a napot Cambrils történelmi magjában a Torre de l'Ermita toronynál, majd fedezze fel a La Llosa római villa lenyűgöző romjait. Ez a séta bemutatja a város középkori védelmi rendszerét és ókori gyökereit is.\n\nDélután látogasson el a kikötői torony múzeumába, ahol a tengeri életmód emlékeit őrzik, majd pihenjen meg a Halászok parkjának árnyas fái alatt. A kikötői séta során láthatja a helyi halászok mindennapjait.\n\nA napot a Platja del Regueral homokos partján zárja, amely Cambrils legnépszerűbb strandja. Itt megmártózhat a tengerben vagy egy koktéllal a kezében élvezheti a mediterrán alkonyt a sétányon.",
+        "ro": "Începeți ziua în centrul istoric la Torre de l'Ermita, un turn de veghe medieval, apoi explorați vestigiile romane de la Villa de la Llosa. Această plimbare vă poartă prin istoria bogată a orașului Cambrils.\n\nDupă-amiaza este dedicată zonei portuare, vizitând muzeul din Torre del Port și relaxându-vă în Parcul Pescarului. Portul este locul ideal pentru a observa viața locală și tradiția pescărească bine păstrată.\n\nÎncheiați ziua pe Platja del Regueral, cea mai populară plajă din oraș. Nisipul fin și apa caldă sunt perfecte pentru o baie târzie, urmată de o cină cu fructe de mare la unul dintre restaurantele de pe faleză.",
+        "en": "Start your day in the historic heart of Cambrils at the Ermita Tower, then explore the ancient Roman ruins of Villa de la Llosa. This walk showcases the transition from ancient history to medieval defense.\n\nIn the afternoon, head to the port to visit the maritime museum in the Port Tower and enjoy the lush greenery of the Fisherman's Park. The harbor area is perfect for feeling the authentic coastal atmosphere.\n\nFinish your journey at Regueral Beach, the city's main stretch of sand. It's the ideal spot for a refreshing swim or simply watching the sunset over the Mediterranean with a drink in hand."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Arroz Negro",
+            "tip": "Probieren Sie den schwarzen Reis mit Tintenfisch bei Casa Gallau."
+          },
+          {
+            "name": "Suquet de Peix",
+            "tip": "Traditioneller katalanischer Eintopf im El Pescador."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Arroz Negro",
+            "tip": "Kóstolja meg a fekete rizst tintahallal a Casa Gallau-ban."
+          },
+          {
+            "name": "Suquet de Peix",
+            "tip": "Hagyományos katalán halragu az El Pescador étteremben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Arroz Negro",
+            "tip": "Încercați orezul negru cu calamar la Casa Gallau."
+          },
+          {
+            "name": "Suquet de Peix",
+            "tip": "Tocană tradițională catalană de pește la El Pescador."
+          }
+        ],
+        "en": [
+          {
+            "name": "Arroz Negro",
+            "tip": "Try the authentic black rice with squid at Casa Gallau."
+          },
+          {
+            "name": "Suquet de Peix",
+            "tip": "Traditional Catalan fish stew at El Pescador restaurant."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parc del Pescador",
+            "tip": "Ruhiger Schattenplatz am Teich.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Leuchtturm am Pier",
+            "tip": "Blick auf das offene Meer.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Halászok parkja",
+            "tip": "Csendes árnyékos hely a tavonál.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Világítótorony a mólón",
+            "tip": "Panoráma a nyílt tengerre.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Pescarului",
+            "tip": "Loc liniștit și umbros lângă iaz.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Farul de pe dig",
+            "tip": "Vedere panoramică spre mare.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Fisherman's Park",
+            "tip": "Quiet shaded spot near the pond.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Lighthouse Pier",
+            "tip": "Panoramic view of the open sea.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mercat Municipal",
+            "tip": "Lokale Produkte und frischer Fisch."
+          },
+          {
+            "name": "Cooperativa Agrícola",
+            "tip": "Hervorragendes lokales Olivenöl Siurana."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Városi Piac",
+            "tip": "Helyi termékek és friss halak."
+          },
+          {
+            "name": "Cooperativa Agrícola",
+            "tip": "Kiváló helyi Siurana olívaolaj vásárolható."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Municipală",
+            "tip": "Produse locale și pește proaspăt."
+          },
+          {
+            "name": "Cooperativa Agrícola",
+            "tip": "Ulei de măsline Siurana local de calitate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Municipal Market",
+            "tip": "Fresh local produce and seafood."
+          },
+          {
+            "name": "Agricultural Cooperative",
+            "tip": "Buy high-quality local Siurana olive oil."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Cambrils ist die gastronomische Hauptstadt der Costa Daurada.",
+          "Tragen Sie bequeme Schuhe für die Altstadt.",
+          "Die Fischauktion am Hafen ist sehenswert.",
+          "Reservieren Sie Restaurants im Voraus."
+        ],
+        "hu": [
+          "Cambrils a Costa Daurada gasztronómiai fővárosa.",
+          "Viseljen kényelmes cipőt az óvárosi részhez.",
+          "A kikötői halárverés különleges látvány.",
+          "Érdemes előre asztalt foglalni az éttermekben."
+        ],
+        "ro": [
+          "Cambrils este capitala gastronomică a Coastei Daurada.",
+          "Purtați încălțăminte comodă pentru zona veche.",
+          "Licitația de pește din port merită văzută.",
+          "Rezervați masa la restaurant în avans."
+        ],
+        "en": [
+          "Cambrils is the culinary capital of the Costa Daurada.",
+          "Wear comfortable shoes for the old town streets.",
+          "The fish auction at the port is a unique sight.",
+          "Book your restaurant table in advance."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag im historischen Zentrum von Cambrils bei der Torre de l'Ermita, einem Wachturm aus dem 14. Jahrhundert. Danach tauchen Sie in der Villa Romana de la Llosa in die römische Vergangenheit der Region ein. Zum Mittagessen spazieren Sie zum Hafen.\n\nAm Nachmittag erkunden Sie das Schifffahrtsmuseum im Torre del Port und genießen die grüne Oase des Parc del Pescador. Der Hafenbereich ist das pulsierende Herz der Stadt, wo Tradition auf Moderne trifft.\n\nLassen Sie den Tag entspannt an der Platja del Regueral ausklingen, dem Hauptstrand von Cambrils mit feinem Sand und kristallklarem Wasser. Die Promenade bietet zahlreiche Cafés für einen Drink am Abend.",
+            "hu": "Kezdje a napot Cambrils történelmi magjában a Torre de l'Ermita toronynál, majd fedezze fel a La Llosa római villa lenyűgöző romjait. Ez a séta bemutatja a város középkori védelmi rendszerét és ókori gyökereit is.\n\nDélután látogasson el a kikötői torony múzeumába, ahol a tengeri életmód emlékeit őrzik, majd pihenjen meg a Halászok parkjának árnyas fái alatt. A kikötői séta során láthatja a helyi halászok mindennapjait.\n\nA napot a Platja del Regueral homokos partján zárja, amely Cambrils legnépszerűbb strandja. Itt megmártózhat a tengerben vagy egy koktéllal a kezében élvezheti a mediterrán alkonyt a sétányon.",
+            "ro": "Începeți ziua în centrul istoric la Torre de l'Ermita, un turn de veghe medieval, apoi explorați vestigiile romane de la Villa de la Llosa. Această plimbare vă poartă prin istoria bogată a orașului Cambrils.\n\nDupă-amiaza este dedicată zonei portuare, vizitând muzeul din Torre del Port și relaxându-vă în Parcul Pescarului. Portul este locul ideal pentru a observa viața locală și tradiția pescărească bine păstrată.\n\nÎncheiați ziua pe Platja del Regueral, cea mai populară plajă din oraș. Nisipul fin și apa caldă sunt perfecte pentru o baie târzie, urmată de o cină cu fructe de mare la unul dintre restaurantele de pe faleză.",
+            "en": "Start your day in the historic heart of Cambrils at the Ermita Tower, then explore the ancient Roman ruins of Villa de la Llosa. This walk showcases the transition from ancient history to medieval defense.\n\nIn the afternoon, head to the port to visit the maritime museum in the Port Tower and enjoy the lush greenery of the Fisherman's Park. The harbor area is perfect for feeling the authentic coastal atmosphere.\n\nFinish your journey at Regueral Beach, the city's main stretch of sand. It's the ideal spot for a refreshing swim or simply watching the sunset over the Mediterranean with a drink in hand."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Torre de l'Ermita",
+                "hu": "Remete-torony",
+                "ro": "Torre de l'Ermita",
+                "en": "Ermita Tower"
+              },
+              "tip_5lang": {
+                "de": "Besteigen Sie den Turm für eine tolle Aussicht.",
+                "hu": "Mássz fel a toronyba a városi panorámáért.",
+                "ro": "Urcați în turn pentru o panoramă superbă.",
+                "en": "Climb the tower for a great view of the town."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa Romana de la Llosa",
+                "hu": "Llosa római villa",
+                "ro": "Vila Romană de la Llosa",
+                "en": "La Llosa Roman Villa"
+              },
+              "tip_5lang": {
+                "de": "Gut erhaltene römische Mosaike.",
+                "hu": "Kiváló állapotban maradt római mozaikok.",
+                "ro": "Mozaicuri romane bine conservate.",
+                "en": "Well-preserved Roman mosaics."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu de la Torre del Port",
+                "hu": "Kikötői Torony Múzeum",
+                "ro": "Muzeul Turnului Portului",
+                "en": "Port Tower Museum"
+              },
+              "tip_5lang": {
+                "de": "Erfahren Sie mehr über die Fischereigeschichte.",
+                "hu": "Ismerd meg a helyi halászat történetét.",
+                "ro": "Aflați mai multe despre istoria pescuitului.",
+                "en": "Learn about the local fishing history."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc del Pescador",
+                "hu": "Halászok parkja",
+                "ro": "Parcul Pescarului",
+                "en": "Fisherman's Park"
+              },
+              "tip_5lang": {
+                "de": "Perfekt für eine Mittagspause im Schatten.",
+                "hu": "Tökéletes hely egy árnyékos ebédszünethez.",
+                "ro": "Locul perfect pentru o pauză de prânz la umbră.",
+                "en": "Perfect spot for a shaded lunch break."
+              }
+            },
+            {
+              "name": {
+                "de": "Port de Cambrils",
+                "hu": "Cambrils kikötője",
+                "ro": "Portul Cambrils",
+                "en": "Cambrils Port"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die ankommenden Fischerboote.",
+                "hu": "Figyeld meg a kikötőbe érkező halászhajókat.",
+                "ro": "Urmăriți bărcile de pescuit care sosesc.",
+                "en": "Watch the fishing boats returning to port."
+              }
+            },
+            {
+              "name": {
+                "de": "Platja del Regueral",
+                "hu": "Regueral strand",
+                "ro": "Plaja Regueral",
+                "en": "Regueral Beach"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Sonnenuntergang am Meer.",
+                "hu": "Élvezd a naplementét a tengerparton.",
+                "ro": "Bucurați-vă de apusul de soare la malul mării.",
+                "en": "Enjoy the sunset by the sea."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Arroz Negro",
+                "tip": "Probieren Sie den schwarzen Reis mit Tintenfisch bei Casa Gallau."
+              },
+              {
+                "name": "Suquet de Peix",
+                "tip": "Traditioneller katalanischer Eintopf im El Pescador."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Arroz Negro",
+                "tip": "Kóstolja meg a fekete rizst tintahallal a Casa Gallau-ban."
+              },
+              {
+                "name": "Suquet de Peix",
+                "tip": "Hagyományos katalán halragu az El Pescador étteremben."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Arroz Negro",
+                "tip": "Încercați orezul negru cu calamar la Casa Gallau."
+              },
+              {
+                "name": "Suquet de Peix",
+                "tip": "Tocană tradițională catalană de pește la El Pescador."
+              }
+            ],
+            "en": [
+              {
+                "name": "Arroz Negro",
+                "tip": "Try the authentic black rice with squid at Casa Gallau."
+              },
+              {
+                "name": "Suquet de Peix",
+                "tip": "Traditional Catalan fish stew at El Pescador restaurant."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Parc del Pescador",
+                "tip": "Ruhiger Schattenplatz am Teich.",
+                "emoji": "🍃"
+              },
+              {
+                "name": "Leuchtturm am Pier",
+                "tip": "Blick auf das offene Meer.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Halászok parkja",
+                "tip": "Csendes árnyékos hely a tavonál.",
+                "emoji": "🍃"
+              },
+              {
+                "name": "Világítótorony a mólón",
+                "tip": "Panoráma a nyílt tengerre.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Parcul Pescarului",
+                "tip": "Loc liniștit și umbros lângă iaz.",
+                "emoji": "🍃"
+              },
+              {
+                "name": "Farul de pe dig",
+                "tip": "Vedere panoramică spre mare.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Fisherman's Park",
+                "tip": "Quiet shaded spot near the pond.",
+                "emoji": "🍃"
+              },
+              {
+                "name": "Lighthouse Pier",
+                "tip": "Panoramic view of the open sea.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Mercat Municipal",
+                "tip": "Lokale Produkte und frischer Fisch."
+              },
+              {
+                "name": "Cooperativa Agrícola",
+                "tip": "Hervorragendes lokales Olivenöl Siurana."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Városi Piac",
+                "tip": "Helyi termékek és friss halak."
+              },
+              {
+                "name": "Cooperativa Agrícola",
+                "tip": "Kiváló helyi Siurana olívaolaj vásárolható."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Piața Municipală",
+                "tip": "Produse locale și pește proaspăt."
+              },
+              {
+                "name": "Cooperativa Agrícola",
+                "tip": "Ulei de măsline Siurana local de calitate."
+              }
+            ],
+            "en": [
+              {
+                "name": "Municipal Market",
+                "tip": "Fresh local produce and seafood."
+              },
+              {
+                "name": "Agricultural Cooperative",
+                "tip": "Buy high-quality local Siurana olive oil."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Cambrils ist die gastronomische Hauptstadt der Costa Daurada.",
+              "Tragen Sie bequeme Schuhe für die Altstadt.",
+              "Die Fischauktion am Hafen ist sehenswert.",
+              "Reservieren Sie Restaurants im Voraus."
+            ],
+            "hu": [
+              "Cambrils a Costa Daurada gasztronómiai fővárosa.",
+              "Viseljen kényelmes cipőt az óvárosi részhez.",
+              "A kikötői halárverés különleges látvány.",
+              "Érdemes előre asztalt foglalni az éttermekben."
+            ],
+            "ro": [
+              "Cambrils este capitala gastronomică a Coastei Daurada.",
+              "Purtați încălțăminte comodă pentru zona veche.",
+              "Licitația de pește din port merită văzută.",
+              "Rezervați masa la restaurant în avans."
+            ],
+            "en": [
+              "Cambrils is the culinary capital of the Costa Daurada.",
+              "Wear comfortable shoes for the old town streets.",
+              "The fish auction at the port is a unique sight.",
+              "Book your restaurant table in advance."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bietet der Ermita-Turm Schutz vor den ersten Tropfen. Mittags erkunden Sie die überdachten römischen Ausgrabungen der Villa La Llosa, ideal bei Regen.\nNachmittags ist das Turmmuseum am Hafen der perfekte trockene Ort für Geschichte. Abends genießen Sie die maritime Atmosphäre Cambrils' unter dem Regenschirm bei einem Spaziergang am Hafen.",
+            "hu": "Reggel az Ermita-torony falai között találunk menedéket a szitáló eső elől. Délben a La Llosa római villa fedett részeit járjuk be, ahol a mozaikok esőben is megtekinthetők.\nDélután a kikötői toronymúzeum zárt terei nyújtanak száraz programot a történelem kedvelőinek. Este a kikötő környékén sétálunk, ahol a vizes aszfalton megcsillannak a parti fények.",
+            "ro": "Dimineața, Turnul Ermita oferă un adăpost istoric împotriva ploii de coastă. La prânz, explorăm zonele acoperite ale Vilei Romane La Llosa, feriți de intemperii.\nDupă-amiaza, Muzeul Turnului Portului este refugiul ideal pentru a descoperi trecutul pescăresc. Seara, încheiem ziua cu o plimbare scurtă în port, admirând reflexiile luminilor în apă.",
+            "en": "Morning starts at Ermita Tower, providing a quick escape from coastal showers. At noon, the covered sections of La Llosa Roman Villa keep you dry while exploring ancient ruins.\nAfternoon is best spent inside the Port Tower Museum, safe from the rain. In the evening, the harbor lights create a beautiful atmosphere on the wet pavement near the docks."
+          },
+          "stops": [
+            {
+              "name": "Ermita Tower",
+              "tip_5lang": {
+                "de": "Der Turm bietet guten Schutz bei plötzlichen Schauern.",
+                "hu": "A torony belső terei kiváló menedéket nyújtanak zápor esetén.",
+                "ro": "Turnul oferă un adăpost solid în caz de ploaie bruscă.",
+                "en": "The tower interior offers good shelter during sudden showers."
+              }
+            },
+            {
+              "name": "La Llosa Roman Villa",
+              "tip_5lang": {
+                "de": "Die wichtigsten Ausgrabungen sind zum Schutz überdacht.",
+                "hu": "A legfontosabb ásatási területek tetővel védettek.",
+                "ro": "Principalele situri arheologice sunt protejate de acoperiș.",
+                "en": "The main archaeological sites are covered for protection."
+              }
+            },
+            {
+              "name": "Port Tower Museum",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um die Regenpause kulturell zu nutzen.",
+                "hu": "Tökéletes helyszín a kulturált esőbeállónak.",
+                "ro": "Locul perfect pentru o pauză culturală ferită de ploaie.",
+                "en": "Perfect spot to wait out the rain while exploring history."
+              }
+            },
+            {
+              "name": "Fisherman's Park",
+              "tip_5lang": {
+                "de": "Die dichten Bäume bieten etwas Schutz bei leichtem Regen.",
+                "hu": "A sűrű lombozat némi védelmet nyújt szemerkélő esőben.",
+                "ro": "Copacii deși oferă o protecție parțială împotriva burniței.",
+                "en": "The dense foliage provides some cover during light drizzle."
+              }
+            },
+            {
+              "name": "Cambrils Port",
+              "tip_5lang": {
+                "de": "Vorsicht, die Hafenmauer kann bei Nässe rutschig sein.",
+                "hu": "Vigyázat, a móló kövezete nedvesen csúszóssá válhat.",
+                "ro": "Atenție, digul portului poate fi alunecos când este ud.",
+                "en": "Careful, the pier surfaces can be slippery when wet."
+              }
+            },
+            {
+              "name": "Regueral Beach",
+              "tip_5lang": {
+                "de": "Die Cafés an der Promenade bieten trockene Plätze mit Meerblick.",
+                "hu": "A sétány kávézói száraz helyet kínálnak tengeri kilátással.",
+                "ro": "Cafenelele de pe faleză oferă locuri uscate cu vedere la mare.",
+                "en": "Promenade cafes offer dry seating with great sea views."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie rutschfeste Schuhe für die nassen Hafenwege.",
+              "Die Museen in Cambrils sind die besten Rückzugsorte bei Dauerregen.",
+              "Ein windfester Regenschirm ist wegen der Meeresbrise ratsam.",
+              "Nutzen Sie die Arkaden in der Altstadt als natürliche Unterstände."
+            ],
+            "hu": [
+              "Viseljen csúszásmentes talpú cipőt a kikötői sétához.",
+              "A helyi múzeumok a legjobb menedékek tartós eső esetén.",
+              "Szélálló esernyő ajánlott a tengerparti fuvallatok miatt.",
+              "Használja az óváros árkádjait természetes esővédőként."
+            ],
+            "ro": [
+              "Purtați încălțăminte antiderapantă pentru zonele umede din port.",
+              "Muzeele din Cambrils sunt cele mai bune refugii în caz de ploaie.",
+              "O umbrelă rezistentă la vânt este necesară din cauza brizelor.",
+              "Folosiți arcadele din orașul vechi ca adăpost natural."
+            ],
+            "en": [
+              "Wear non-slip shoes for the wet harbor walkways.",
+              "Local museums are your best bet during persistent rain.",
+              "A windproof umbrella is essential due to coastal gusts.",
+              "Utilize the old town arcades as natural rain shelters."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens erkunden Sie den Ermita-Turm in der klaren, kühlen Winterluft. Mittags wärmt die milde Wintersonne Ihren Besuch der Villa La Llosa.\nNachmittags tauchen Sie im Turmmuseum in die Geschichte ein, bevor es früh dunkel wird. Abends genießen Sie das festlich beleuchtete Cambrils und einen heißen Tee im Hafenviertel.",
+            "hu": "Reggel a friss, hűvös téli levegőben látogatjuk meg az Ermita-tornyot. Délben a gyenge téli napsütés kellemesebbé teszi a La Llosa villa romjainak bejárását.\nDélután a kikötői múzeumban melegszünk fel, figyelembe véve a korai naplementét. Este a kikötő fényeiben gyönyörködünk, egy forró ital társaságában valamelyik parti bárban.",
+            "ro": "Dimineața, explorăm Turnul Ermita în aerul rece și curat de iarnă. La prânz, soarele blând de iarnă face vizita la Vila La Llosa foarte plăcută.\nDupă-amiaza ne încălzim în Muzeul Turnului înainte de apusul devreme. Seara admirăm luminile festive din port și savurăm o băutură caldă la o terasă încălzită.",
+            "en": "Morning starts with a crisp walk to Ermita Tower in the cool winter air. At noon, the mild Mediterranean sun warms your visit to the Roman ruins of La Llosa.\nAfternoon is perfect for the indoor museum at the port before the early winter dusk. In the evening, enjoy the beautifully lit harbor and a warm drink in the port district."
+          },
+          "stops": [
+            {
+              "name": "Ermita Tower",
+              "tip_5lang": {
+                "de": "Die Aussicht ist bei klarer Winterluft besonders weit.",
+                "hu": "A kilátás a tiszta téli levegőben különösen messzire ér.",
+                "ro": "Vizibilitatea este excelentă în aerul curat de iarnă.",
+                "en": "Visibility is exceptional in the clear winter air."
+              }
+            },
+            {
+              "name": "La Llosa Roman Villa",
+              "tip_5lang": {
+                "de": "Mittags ist es hier durch die direkte Sonne am wärmsten.",
+                "hu": "Délidőben, a közvetlen napsütésben itt a legmelegebb.",
+                "ro": "La prânz este cel mai cald aici datorită expunerii la soare.",
+                "en": "Noontime sun makes this the warmest part of the day here."
+              }
+            },
+            {
+              "name": "Port Tower Museum",
+              "tip_5lang": {
+                "de": "Guter Ort, um sich zwischen den Spaziergängen aufzuwärmen.",
+                "hu": "Jó helyszín a felmelegedésre a két séta között.",
+                "ro": "Un loc bun pentru a te încălzi între plimbări.",
+                "en": "A great place to warm up between outdoor segments."
+              }
+            },
+            {
+              "name": "Fisherman's Park",
+              "tip_5lang": {
+                "de": "Die Wintersonne erreicht hier auch die schattigen Bänke.",
+                "hu": "A téli nap sugarai itt még az árnyékos padokat is elérik.",
+                "ro": "Soarele de iarnă ajunge chiar și pe băncile umbroase.",
+                "en": "Winter sun reaches even the usually shaded benches now."
+              }
+            },
+            {
+              "name": "Cambrils Port",
+              "tip_5lang": {
+                "de": "Der Sonnenuntergang ist im Winter bereits gegen 17:30 Uhr.",
+                "hu": "A naplemente télen már 17:30 körül bekövetkezik.",
+                "ro": "Apusul de soare are loc deja în jurul orei 17:30 iarna.",
+                "en": "Sunset occurs as early as 5:30 PM during the winter months."
+              }
+            },
+            {
+              "name": "Regueral Beach",
+              "tip_5lang": {
+                "de": "Perfekt für einen erfrischenden Winterspaziergang am Meer.",
+                "hu": "Tökéletes helyszín egy frissítő téli tengerparti sétához.",
+                "ro": "Locație perfectă pentru o plimbare revigorantă pe plajă.",
+                "en": "Ideal location for a refreshing winter walk by the sea."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kleiden Sie sich im Zwiebelprinzip für den kühlen Seewind.",
+              "Viele Restaurants am Hafen haben auch im Winter beheizte Terrassen.",
+              "Nutzen Sie die Mittagsstunden für Außenbesichtigungen.",
+              "Die Sonne geht im Dezember bereits vor 18:00 Uhr unter."
+            ],
+            "hu": [
+              "Öltözzön rétegesen a hűvös tengeri szél miatt.",
+              "Sok kikötői étterem télen is üzemeltet fűtött teraszt.",
+              "A kültéri látnivalókat érdemes a déli órákra időzíteni.",
+              "A nap decemberben már 18:00 előtt lemegy."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi pentru a vă proteja de vântul mării.",
+              "Multe restaurante din port au terase încălzite și iarna.",
+              "Planificați vizitele în aer liber pentru orele amiezii.",
+              "Soarele apune înainte de ora 18:00 în luna decembrie."
+            ],
+            "en": [
+              "Dress in layers to stay warm against the sea breeze.",
+              "Many harbor restaurants offer heated terraces even in winter.",
+              "Schedule outdoor sightseeing for the warmer midday hours.",
+              "The sun sets before 6:00 PM during the winter season."
+            ]
+          }
+        }
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 12.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Castell de Vilafortuny",
+            "hu": "Vilafortuny kastély",
+            "ro": "Castelul Vilafortuny",
+            "en": "Vilafortuny Castle"
+          },
+          "coords": [
+            1.1021,
+            41.0745
+          ],
+          "category": "historical",
+          "arrive_at": "09:25",
+          "stay_min": 50,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Ein schönes Schloss am Stadtrand.",
+            "hu": "Gyönyörű kastély a város szélén.",
+            "ro": "Un castel frumos la marginea orașului.",
+            "en": "A beautiful castle on the outskirts."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre de l'Esquirol",
+            "hu": "Mókus-torony",
+            "ro": "Torre de l'Esquirol",
+            "en": "Esquirol Tower"
+          },
+          "coords": [
+            1.0855,
+            41.0668
+          ],
+          "category": "historical",
+          "arrive_at": "10:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Historischer Telegrafenturm direkt am Meer.",
+            "hu": "Történelmi távírótorony közvetlenül a parton.",
+            "ro": "Turn istoric de telegraf chiar pe malul mării.",
+            "en": "Historic telegraph tower right by the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Platja del Regueral",
+            "hu": "Regueral strand",
+            "ro": "Plaja Regueral",
+            "en": "Regueral Beach"
+          },
+          "coords": [
+            1.0685,
+            41.0652
+          ],
+          "category": "beach",
+          "arrive_at": "11:25",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Perfekt für eine Erfrischung während der Tour.",
+            "hu": "Tökéletes felfrissülés a túra közben.",
+            "ro": "Perfect pentru o răcorire în timpul turului.",
+            "en": "Perfect for a quick swim during the ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Port de Cambrils",
+            "hu": "Cambrils kikötője",
+            "ro": "Portul Cambrils",
+            "en": "Cambrils Port"
+          },
+          "coords": [
+            1.0625,
+            41.0658
+          ],
+          "category": "park",
+          "arrive_at": "13:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Stellen Sie das Rad ab und genießen Sie Tapas.",
+            "hu": "Tedd le a biciklit és egyél pár tapast.",
+            "ro": "Lăsați bicicleta și savurați câteva tapas.",
+            "en": "Park your bike and enjoy some tapas."
+          }
+        },
+        {
+          "name": {
+            "de": "Mare de Déu del Camí",
+            "hu": "Úti Szűzanya templom",
+            "ro": "Biserica Mare de Déu del Camí",
+            "en": "Mare de Déu del Camí Church"
+          },
+          "coords": [
+            1.0538,
+            41.0712
+          ],
+          "category": "religious",
+          "arrive_at": "14:45",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Wichtiger Wallfahrtsort mit schöner Fassade.",
+            "hu": "Fontos zarándokhely szép homlokzattal.",
+            "ro": "Loc de pelerinaj important cu fațadă frumoasă.",
+            "en": "Important pilgrimage site with a nice facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Romana de la Llosa",
+            "hu": "Llosa római villa",
+            "ro": "Vila Romană de la Llosa",
+            "en": "La Llosa Roman Villa"
+          },
+          "coords": [
+            1.0555,
+            41.0665
+          ],
+          "category": "historical",
+          "arrive_at": "15:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Archäologischer Park im Freien.",
+            "hu": "Szabadtéri régészeti park.",
+            "ro": "Parc arheologic în aer liber.",
+            "en": "Open-air archaeological park."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc del Pescador",
+            "hu": "Halászok parkja",
+            "ro": "Parcul Pescarului",
+            "en": "Fisherman's Park"
+          },
+          "coords": [
+            1.0635,
+            41.0645
+          ],
+          "category": "park",
+          "arrive_at": "17:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Kühler Ausklang der Radtour.",
+            "hu": "Hűsítő pihenő a túra végén.",
+            "ro": "Final răcoros al turului cu bicicleta.",
+            "en": "Cool finish to your cycling tour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie die Küste von Cambrils mit dem Fahrrad auf dem flachen und sicheren Radweg. Starten Sie beim Schloss Vilafortuny im Osten und radeln Sie westwärts vorbei an historischen Wachtürmen.\n\nNach einer Mittagspause am lebhaften Hafen führt die Route landeinwärts zur Wallfahrtskirche Mare de Déu del Camí und den römischen Ruinen. Die Mischung aus Meeresbrise und Geschichte macht diese Tour besonders reizvoll.\n\nBeenden Sie Ihre Fahrt im Fischerpark, wo Sie im Schatten der mediterranen Bäume entspannen können. Cambrils ist ideal für Radfahrer, da fast die gesamte Küste durch Wege verbunden ist.",
+        "hu": "Fedezze fel Cambrils partvonalát kerékpárral a lapos és biztonságos kerékpárúton. Kezdje a Vilafortuny kastélynál keleten, majd tekerjen nyugat felé a tengerparti őrtornyok mellett.\n\nA kikötői ebédszünet után az útvonal a szárazföld felé kanyarodik az Úti Szűzanya templomhoz és a római romokhoz. A tengeri szellő és a történelmi látnivalók kombinációja teszi ezt a túrát felejthetetlenné.\n\nA túrát a Halászok parkjában fejezze be, ahol a mediterrán fák árnyékában pihenhet meg. Cambrils ideális a bringásoknak, mivel szinte a teljes part mentén kiépített utak vannak.",
+        "ro": "Explorați coasta orașului Cambrils cu bicicleta pe pistele plate și sigure. Începeți de la Castelul Vilafortuny în est și pedalați spre vest, trecând pe lângă turnurile istorice de veghe de pe malul mării.\n\nDupă prânzul în portul plin de viață, traseul se îndreaptă spre interiorul orașului, către biserica Mare de Déu del Camí și vestigiile romane. Briza mării și istoria fac din acest tur o experiență relaxantă.\n\nÎncheiați plimbarea în Parcul Pescarului, unde vă puteți odihni la umbra copacilor mediteraneeni. Cambrils este ideal pentru bicicliști, coasta fiind legată aproape integral prin piste.",
+        "en": "Explore the coast of Cambrils by bike using the flat and safe cycling paths. Start at Vilafortuny Castle in the east and pedal westwards past historic watchtowers along the sea.\n\nAfter a lunch break at the bustling port, the route heads inland to the Mare de Déu del Camí sanctuary and the Roman ruins. The mix of sea breeze and history makes this ride very enjoyable.\n\nFinish your trip at the Fisherman's Park, relaxing in the shade of Mediterranean trees. Cambrils is perfect for cyclists as almost the entire coastline is connected by dedicated paths."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fideuà",
+            "tip": "Dünne Nudeln mit Meeresfrüchten bei Miramar."
+          },
+          {
+            "name": "Cambrils Eis",
+            "tip": "Hausgemachtes Eis bei Antonio Sirvent."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fideuà",
+            "tip": "Tészta alapú tengeri fogás a Miramar-ban."
+          },
+          {
+            "name": "Cambrils-i fagyi",
+            "tip": "Kézműves fagylalt az Antonio Sirventnél."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fideuà",
+            "tip": "Paste subțiri cu fructe de mare la Miramar."
+          },
+          {
+            "name": "Înghețată Cambrils",
+            "tip": "Înghețată artizanală la Antonio Sirvent."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fideuà",
+            "tip": "Noodle-based seafood dish at Miramar."
+          },
+          {
+            "name": "Cambrils Ice Cream",
+            "tip": "Artisan gelato at Antonio Sirvent's shop."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Platja de Vilafortuny",
+            "tip": "Weniger belebter Strandabschnitt.",
+            "emoji": "🏖️"
+          },
+          {
+            "name": "Römische Ruinen",
+            "tip": "Stille Ecke abseits der Promenade.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vilafortuny strand",
+            "tip": "Kevésbé zsúfolt partszakasz.",
+            "emoji": "🏖️"
+          },
+          {
+            "name": "Római romok",
+            "tip": "Csendes sarok távol a sétánytól.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plaja Vilafortuny",
+            "tip": "Zonă de plajă mai puțin aglomerată.",
+            "emoji": "🏖️"
+          },
+          {
+            "name": "Ruinele Romane",
+            "tip": "Colț liniștit departe de faleză.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Vilafortuny Beach",
+            "tip": "Less crowded stretch of beach.",
+            "emoji": "🏖️"
+          },
+          {
+            "name": "Roman Ruins",
+            "tip": "Quiet corner away from the promenade.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Cooperativa Agrícola",
+            "tip": "Kaufen Sie lokales Olivenöl."
+          },
+          {
+            "name": "Hafenpromenade",
+            "tip": "Kleine Boutiquen und Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cooperativa Agrícola",
+            "tip": "Vásároljon helyi olívaolajat."
+          },
+          {
+            "name": "Kikötői sétány",
+            "tip": "Kis butikok és ajándéktárgyak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cooperativa Agrícola",
+            "tip": "Cumpărați ulei de măsline local."
+          },
+          {
+            "name": "Faleza portului",
+            "tip": "Mici buticuri și suveniruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Agricultural Cooperative",
+            "tip": "Buy high-quality local olive oil."
+          },
+          {
+            "name": "Port Promenade",
+            "tip": "Small boutiques and souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Radwege sind oft vom Fußgängerbereich getrennt.",
+          "Achten Sie auf Fußgänger am Hafen.",
+          "Fahrradverleih gibt es am Hafen und bei vielen Hotels.",
+          "Sichern Sie Ihr Rad immer ab."
+        ],
+        "hu": [
+          "A kerékpárutak gyakran el vannak választva a gyalogosoktól.",
+          "Figyeljen a gyalogosokra a kikötőben.",
+          "Bicikli bérlés elérhető a kikötőben és a hoteleknél.",
+          "Mindig zárja le a kerékpárt."
+        ],
+        "ro": [
+          "Pistele de biciclete sunt adesea separate de zona pietonală.",
+          "Atenție la pietoni în zona portului.",
+          "Închirierea bicicletelor e disponibilă în port și la hoteluri.",
+          "Asigurați întotdeauna bicicleta."
+        ],
+        "en": [
+          "Cycling paths are often separated from pedestrian zones.",
+          "Watch out for pedestrians in the port area.",
+          "Bike rentals are available at the port and many hotels.",
+          "Always lock your bike when parking."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie die Küste von Cambrils mit dem Fahrrad auf dem flachen und sicheren Radweg. Starten Sie beim Schloss Vilafortuny im Osten und radeln Sie westwärts vorbei an historischen Wachtürmen.\n\nNach einer Mittagspause am lebhaften Hafen führt die Route landeinwärts zur Wallfahrtskirche Mare de Déu del Camí und den römischen Ruinen. Die Mischung aus Meeresbrise und Geschichte macht diese Tour besonders reizvoll.\n\nBeenden Sie Ihre Fahrt im Fischerpark, wo Sie im Schatten der mediterranen Bäume entspannen können. Cambrils ist ideal für Radfahrer, da fast die gesamte Küste durch Wege verbunden ist.",
+            "hu": "Fedezze fel Cambrils partvonalát kerékpárral a lapos és biztonságos kerékpárúton. Kezdje a Vilafortuny kastélynál keleten, majd tekerjen nyugat felé a tengerparti őrtornyok mellett.\n\nA kikötői ebédszünet után az útvonal a szárazföld felé kanyarodik az Úti Szűzanya templomhoz és a római romokhoz. A tengeri szellő és a történelmi látnivalók kombinációja teszi ezt a túrát felejthetetlenné.\n\nA túrát a Halászok parkjában fejezze be, ahol a mediterrán fák árnyékában pihenhet meg. Cambrils ideális a bringásoknak, mivel szinte a teljes part mentén kiépített utak vannak.",
+            "ro": "Explorați coasta orașului Cambrils cu bicicleta pe pistele plate și sigure. Începeți de la Castelul Vilafortuny în est și pedalați spre vest, trecând pe lângă turnurile istorice de veghe de pe malul mării.\n\nDupă prânzul în portul plin de viață, traseul se îndreaptă spre interiorul orașului, către biserica Mare de Déu del Camí și vestigiile romane. Briza mării și istoria fac din acest tur o experiență relaxantă.\n\nÎncheiați plimbarea în Parcul Pescarului, unde vă puteți odihni la umbra copacilor mediteraneeni. Cambrils este ideal pentru bicicliști, coasta fiind legată aproape integral prin piste.",
+            "en": "Explore the coast of Cambrils by bike using the flat and safe cycling paths. Start at Vilafortuny Castle in the east and pedal westwards past historic watchtowers along the sea.\n\nAfter a lunch break at the bustling port, the route heads inland to the Mare de Déu del Camí sanctuary and the Roman ruins. The mix of sea breeze and history makes this ride very enjoyable.\n\nFinish your trip at the Fisherman's Park, relaxing in the shade of Mediterranean trees. Cambrils is perfect for cyclists as almost the entire coastline is connected by dedicated paths."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Castell de Vilafortuny",
+                "hu": "Vilafortuny kastély",
+                "ro": "Castelul Vilafortuny",
+                "en": "Vilafortuny Castle"
+              },
+              "tip_5lang": {
+                "de": "Ein schönes Schloss am Stadtrand.",
+                "hu": "Gyönyörű kastély a város szélén.",
+                "ro": "Un castel frumos la marginea orașului.",
+                "en": "A beautiful castle on the outskirts."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre de l'Esquirol",
+                "hu": "Mókus-torony",
+                "ro": "Torre de l'Esquirol",
+                "en": "Esquirol Tower"
+              },
+              "tip_5lang": {
+                "de": "Historischer Telegrafenturm direkt am Meer.",
+                "hu": "Történelmi távírótorony közvetlenül a parton.",
+                "ro": "Turn istoric de telegraf chiar pe malul mării.",
+                "en": "Historic telegraph tower right by the sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Platja del Regueral",
+                "hu": "Regueral strand",
+                "ro": "Plaja Regueral",
+                "en": "Regueral Beach"
+              },
+              "tip_5lang": {
+                "de": "Perfekt für eine Erfrischung während der Tour.",
+                "hu": "Tökéletes felfrissülés a túra közben.",
+                "ro": "Perfect pentru o răcorire în timpul turului.",
+                "en": "Perfect for a quick swim during the ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Port de Cambrils",
+                "hu": "Cambrils kikötője",
+                "ro": "Portul Cambrils",
+                "en": "Cambrils Port"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie das Rad ab und genießen Sie Tapas.",
+                "hu": "Tedd le a biciklit és egyél pár tapast.",
+                "ro": "Lăsați bicicleta și savurați câteva tapas.",
+                "en": "Park your bike and enjoy some tapas."
+              }
+            },
+            {
+              "name": {
+                "de": "Mare de Déu del Camí",
+                "hu": "Úti Szűzanya templom",
+                "ro": "Biserica Mare de Déu del Camí",
+                "en": "Mare de Déu del Camí Church"
+              },
+              "tip_5lang": {
+                "de": "Wichtiger Wallfahrtsort mit schöner Fassade.",
+                "hu": "Fontos zarándokhely szép homlokzattal.",
+                "ro": "Loc de pelerinaj important cu fațadă frumoasă.",
+                "en": "Important pilgrimage site with a nice facade."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa Romana de la Llosa",
+                "hu": "Llosa római villa",
+                "ro": "Vila Romană de la Llosa",
+                "en": "La Llosa Roman Villa"
+              },
+              "tip_5lang": {
+                "de": "Archäologischer Park im Freien.",
+                "hu": "Szabadtéri régészeti park.",
+                "ro": "Parc arheologic în aer liber.",
+                "en": "Open-air archaeological park."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc del Pescador",
+                "hu": "Halászok parkja",
+                "ro": "Parcul Pescarului",
+                "en": "Fisherman's Park"
+              },
+              "tip_5lang": {
+                "de": "Kühler Ausklang der Radtour.",
+                "hu": "Hűsítő pihenő a túra végén.",
+                "ro": "Final răcoros al turului cu bicicleta.",
+                "en": "Cool finish to your cycling tour."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Fideuà",
+                "tip": "Dünne Nudeln mit Meeresfrüchten bei Miramar."
+              },
+              {
+                "name": "Cambrils Eis",
+                "tip": "Hausgemachtes Eis bei Antonio Sirvent."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Fideuà",
+                "tip": "Tészta alapú tengeri fogás a Miramar-ban."
+              },
+              {
+                "name": "Cambrils-i fagyi",
+                "tip": "Kézműves fagylalt az Antonio Sirventnél."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Fideuà",
+                "tip": "Paste subțiri cu fructe de mare la Miramar."
+              },
+              {
+                "name": "Înghețată Cambrils",
+                "tip": "Înghețată artizanală la Antonio Sirvent."
+              }
+            ],
+            "en": [
+              {
+                "name": "Fideuà",
+                "tip": "Noodle-based seafood dish at Miramar."
+              },
+              {
+                "name": "Cambrils Ice Cream",
+                "tip": "Artisan gelato at Antonio Sirvent's shop."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Platja de Vilafortuny",
+                "tip": "Weniger belebter Strandabschnitt.",
+                "emoji": "🏖️"
+              },
+              {
+                "name": "Römische Ruinen",
+                "tip": "Stille Ecke abseits der Promenade.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Vilafortuny strand",
+                "tip": "Kevésbé zsúfolt partszakasz.",
+                "emoji": "🏖️"
+              },
+              {
+                "name": "Római romok",
+                "tip": "Csendes sarok távol a sétánytól.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Plaja Vilafortuny",
+                "tip": "Zonă de plajă mai puțin aglomerată.",
+                "emoji": "🏖️"
+              },
+              {
+                "name": "Ruinele Romane",
+                "tip": "Colț liniștit departe de faleză.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Vilafortuny Beach",
+                "tip": "Less crowded stretch of beach.",
+                "emoji": "🏖️"
+              },
+              {
+                "name": "Roman Ruins",
+                "tip": "Quiet corner away from the promenade.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Cooperativa Agrícola",
+                "tip": "Kaufen Sie lokales Olivenöl."
+              },
+              {
+                "name": "Hafenpromenade",
+                "tip": "Kleine Boutiquen und Souvenirs."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Cooperativa Agrícola",
+                "tip": "Vásároljon helyi olívaolajat."
+              },
+              {
+                "name": "Kikötői sétány",
+                "tip": "Kis butikok és ajándéktárgyak."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Cooperativa Agrícola",
+                "tip": "Cumpărați ulei de măsline local."
+              },
+              {
+                "name": "Faleza portului",
+                "tip": "Mici buticuri și suveniruri."
+              }
+            ],
+            "en": [
+              {
+                "name": "Agricultural Cooperative",
+                "tip": "Buy high-quality local olive oil."
+              },
+              {
+                "name": "Port Promenade",
+                "tip": "Small boutiques and souvenirs."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Radwege sind oft vom Fußgängerbereich getrennt.",
+              "Achten Sie auf Fußgänger am Hafen.",
+              "Fahrradverleih gibt es am Hafen und bei vielen Hotels.",
+              "Sichern Sie Ihr Rad immer ab."
+            ],
+            "hu": [
+              "A kerékpárutak gyakran el vannak választva a gyalogosoktól.",
+              "Figyeljen a gyalogosokra a kikötőben.",
+              "Bicikli bérlés elérhető a kikötőben és a hoteleknél.",
+              "Mindig zárja le a kerékpárt."
+            ],
+            "ro": [
+              "Pistele de biciclete sunt adesea separate de zona pietonală.",
+              "Atenție la pietoni în zona portului.",
+              "Închirierea bicicletelor e disponibilă în port și la hoteluri.",
+              "Asigurați întotdeauna bicicleta."
+            ],
+            "en": [
+              "Cycling paths are often separated from pedestrian zones.",
+              "Watch out for pedestrians in the port area.",
+              "Bike rentals are available at the port and many hotels.",
+              "Always lock your bike when parking."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens radeln Sie vorsichtig zum Schloss Vilafortuny auf nassen Wegen. Mittags bietet der Esquirol-Turm einen schnellen Stopp im Trockenen.\nNachmittags führt die Route zum Hafen, wo die Meeresbrise den Regen intensiviert. Abends beenden Sie die Tour an der Villa La Llosa und dem Fischerpark auf asphaltierten Wegen.",
+            "hu": "Reggel óvatosan tekerünk a Vilafortuny kastélyhoz a nedves utakon. Délben az Esquirol-torony nyújt gyors, száraz pihenőpontot.\nDélután a kikötő felé vesszük az irányt, ahol a tengeri szél felerősíti az esőt. Este a La Llosa villánál és a Halászpark aszfaltozott útjain fejezzük be a túrát.",
+            "ro": "Dimineața pedalăm cu atenție spre Castelul Vilafortuny pe drumuri ude. La prânz, Turnul Esquirol oferă un scurt punct de oprire la adăpost.\nDupă-amiaza traseul ne duce spre port, unde briza mării intensifică ploaia. Seara încheiem turul la Vila La Llosa pe aleile asfaltate ale parcului.",
+            "en": "Morning bike ride to Vilafortuny Castle requires caution on wet paths. At noon, Esquirol Tower serves as a quick dry stopping point.\nAfternoon cycling near the port is windy and rainy, stay focused. Evening ends at La Llosa Villa and Fisherman's Park using the paved, safer routes."
+          },
+          "stops": [
+            {
+              "name": "Vilafortuny Castle",
+              "tip_5lang": {
+                "de": "Vorsicht vor Laub auf den Radwegen zum Schloss.",
+                "hu": "Vigyázat, a kastélyhoz vezető úton a levelek csúszhatnak.",
+                "ro": "Atenție la frunzele ude de pe pistele spre castel.",
+                "en": "Watch out for wet leaves on the bike paths to the castle."
+              }
+            },
+            {
+              "name": "Esquirol Tower",
+              "tip_5lang": {
+                "de": "Kurzer Stopp unter dem Vordach bei starkem Regen.",
+                "hu": "Rövid megálló az előtető alatt heves esőzéskor.",
+                "ro": "Scurt popas sub streașină în caz de ploaie torențială.",
+                "en": "Quick stop under the overhang if the rain gets heavy."
+              }
+            },
+            {
+              "name": "Regueral Beach",
+              "tip_5lang": {
+                "de": "Der Radweg ist gut asphaltiert und bei Regen sicher.",
+                "hu": "A kerékpárút jól aszfaltozott és esőben is biztonságos.",
+                "ro": "Pista de biciclete este bine asfaltată și sigură pe ploaie.",
+                "en": "The bike path is well-paved and remains safe in the rain."
+              }
+            },
+            {
+              "name": "Cambrils Port",
+              "tip_5lang": {
+                "de": "Bremshilfen nutzen, der Boden kann sehr rutschig sein.",
+                "hu": "Használja a féket óvatosan, a talaj nagyon csúszós lehet.",
+                "ro": "Folosiți frânele cu grijă, pavajul poate fi alunecos.",
+                "en": "Use brakes carefully as the pavement can be very slippery."
+              }
+            },
+            {
+              "name": "Mare de Déu del Camí Church",
+              "tip_5lang": {
+                "de": "Fahrradständer befinden sich nahe dem Kircheneingang.",
+                "hu": "A kerékpártárolók a templom bejárata közelében vannak.",
+                "ro": "Suporturile de biciclete sunt aproape de intrarea în biserică.",
+                "en": "Bike racks are located conveniently near the church entrance."
+              }
+            },
+            {
+              "name": "La Llosa Roman Villa",
+              "tip_5lang": {
+                "de": "Überdachter Bereich bietet Schutz während der Besichtigung.",
+                "hu": "A fedett rész védelmet nyújt a látogatás ideje alatt.",
+                "ro": "Zona acoperită oferă protecție în timpul vizitei.",
+                "en": "The covered area provides shelter during your exploration."
+              }
+            },
+            {
+              "name": "Fisherman's Park",
+              "tip_5lang": {
+                "de": "Vermeiden Sie unbefestigte Wege, sie könnten schlammig sein.",
+                "hu": "Kerülje a földutakat, mert sárosak lehetnek.",
+                "ro": "Evitați potecile de pământ, pot fi noroioase.",
+                "en": "Avoid unpaved trails as they might become muddy."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Bremsen vor der Abfahrt auf nasser Fahrbahn.",
+              "Vermeiden Sie scharfe Kurven auf den glatten Hafenfliesen.",
+              "Tragen Sie wasserdichte Kleidung und nutzen Sie Schutzbleche.",
+              "Beleuchtung einschalten, da die Sicht bei Regen eingeschränkt ist."
+            ],
+            "hu": [
+              "Indulás előtt ellenőrizze a fékeket a nedves útfelület miatt.",
+              "Kerülje az éles kanyarokat a csúszós kikötői köveken.",
+              "Viseljen vízálló ruházatot és használjon sárvédőt.",
+              "Kapcsolja be a világítást a csökkent látási viszonyok miatt."
+            ],
+            "ro": [
+              "Verificați frânele înainte de plecare pentru asfalt ud.",
+              "Evitați virajele strânse pe pavajul alunecos din port.",
+              "Purtați haine impermeabile și folosiți apărători de noroi.",
+              "Aprindeți luminile deoarece vizibilitatea este redusă pe ploaie."
+            ],
+            "en": [
+              "Test your brakes before heading out on wet roads.",
+              "Avoid sharp turns on the slippery harbor tiles.",
+              "Wear waterproof gear and ensure your bike has mudguards.",
+              "Turn on your lights as visibility is reduced in the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens genießen Sie eine frische Fahrt zum Schloss Vilafortuny. Mittags radeln Sie entlang der Strandpromenade unter der milden Wintersonne zum Hafen.\nNachmittags besuchen Sie die geschichtsträchtigen Orte wie die Kirche Mare de Déu. Abends kehren Sie vor dem frühen Einbruch der Dunkelheit über den Fischerpark zurück.",
+            "hu": "Reggel frissítő tekeréssel indulunk a Vilafortuny kastély felé. Délben a parti sétányon, a gyenge téli napsütésben biciklizünk a kikötőig.\nDélután meglátogatjuk a történelmi helyszíneket, köztük a Mare de Déu templomot. Este a korai sötétedés előtt érünk vissza a Halászparkon keresztül.",
+            "ro": "Dimineața ne bucurăm de o cursă revigorantă spre Castelul Vilafortuny. La prânz pedalăm pe faleză sub soarele blând de iarnă spre port.\nDupă-amiaza vizităm locurile istorice precum Biserica Mare de Déu. Seara revenim prin Parcul Pescăresc înainte de lăsarea timpurie a întunericului.",
+            "en": "Morning offers a crisp, refreshing ride to Vilafortuny Castle. At noon, cycle along the promenade under the gentle winter sun towards the harbor.\nAfternoon is spent visiting historical sites like the Mare de Déu Church. Return through Fisherman's Park in the evening before the early winter dusk."
+          },
+          "stops": [
+            {
+              "name": "Vilafortuny Castle",
+              "tip_5lang": {
+                "de": "Handschuhe sind für die Fahrt am frühen Morgen ratsam.",
+                "hu": "A kora reggeli tekeréshez kesztyű használata ajánlott.",
+                "ro": "Mănușile sunt recomandate pentru cursa de dimineață.",
+                "en": "Gloves are highly recommended for the early morning ride."
+              }
+            },
+            {
+              "name": "Esquirol Tower",
+              "tip_5lang": {
+                "de": "Helles Sonnenlicht kann am Vormittag blenden.",
+                "hu": "A délelőtti erős napsütés elvakíthat biciklizés közben.",
+                "ro": "Lumina puternică a soarelui poate fi orbitoare dimineața.",
+                "en": "Bright morning sunlight can be blinding while cycling."
+              }
+            },
+            {
+              "name": "Regueral Beach",
+              "tip_5lang": {
+                "de": "Weniger Fußgänger machen den Radweg im Winter frei.",
+                "hu": "A kevesebb gyalogos miatt télen szabadabb a kerékpárút.",
+                "ro": "Mai puțini pietoni fac pista de biciclete liberă iarna.",
+                "en": "Fewer pedestrians mean a clearer bike path in winter."
+              }
+            },
+            {
+              "name": "Cambrils Port",
+              "tip_5lang": {
+                "de": "Genießen Sie den weiten Blick über das ruhige Meer.",
+                "hu": "Élvezze a tágas kilátást a nyugodt téli tengerre.",
+                "ro": "Bucurați-vă de vederea largă asupra mării liniștite.",
+                "en": "Enjoy the expansive views over the calm winter sea."
+              }
+            },
+            {
+              "name": "Mare de Déu del Camí Church",
+              "tip_5lang": {
+                "de": "Die Kirche bietet einen windgeschützten Rastplatz.",
+                "hu": "A templom környéke szélvédett pihenőhelyet kínál.",
+                "ro": "Zona bisericii oferă un loc de odihnă ferit de vânt.",
+                "en": "The church grounds offer a wind-sheltered resting spot."
+              }
+            },
+            {
+              "name": "La Llosa Roman Villa",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Tageslicht für die Außenbereiche.",
+                "hu": "Használja ki a nappali fényt a kültéri részekhez.",
+                "ro": "Profitați de lumina zilei pentru zonele exterioare.",
+                "en": "Make the most of the daylight for the outdoor areas."
+              }
+            },
+            {
+              "name": "Fisherman's Park",
+              "tip_5lang": {
+                "de": "Vorder- und Rücklicht für die Rückfahrt prüfen.",
+                "hu": "Ellenőrizze az első és hátsó lámpát a visszautazáshoz.",
+                "ro": "Verificați luminile față și spate pentru drumul de întoarcere.",
+                "en": "Check your front and rear lights for the ride back."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Wintersonne kann blenden, Sonnenbrille mitnehmen.",
+              "Die Radwege sind im Winter deutlich leerer als im Sommer.",
+              "Achten Sie auf die frühe Dämmerung ab 17:00 Uhr.",
+              "Warme Kleidung schützt vor dem kalten Fahrtwind am Meer."
+            ],
+            "hu": [
+              "A téli nap elvakíthat, vigyen napszemüveget.",
+              "A kerékpárutak télen sokkal üresebbek, mint nyáron.",
+              "Ügyeljen a korai sötétedésre 17:00 órától.",
+              "A meleg ruházat véd a hideg menetszéltől a parton."
+            ],
+            "ro": [
+              "Soarele de iarnă poate fi orbitor, luați ochelari de soare.",
+              "Pistele de biciclete sunt mult mai libere iarna decât vara.",
+              "Atenție la amurgul timpuriu începând cu ora 17:00.",
+              "Hainele groase protejează împotriva vântului rece de coastă."
+            ],
+            "en": [
+              "Winter sun can be low and blinding, bring sunglasses.",
+              "Bike paths are significantly less crowded in winter.",
+              "Be aware of the early dusk starting around 5:00 PM.",
+              "Warm clothing is vital against the cold sea breeze while riding."
+            ]
+          }
+        }
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 18.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Parc Samà",
+            "hu": "Samà park",
+            "ro": "Parcul Samà",
+            "en": "Samà Park"
+          },
+          "coords": [
+            1.0221,
+            41.1045
+          ],
+          "category": "park",
+          "arrive_at": "09:20",
+          "stay_min": 150,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Wunderschöner botanischer Garten mit Pfauen.",
+            "hu": "Gyönyörű botanikus kert pávákkal.",
+            "ro": "Grădină botanică superbă cu păuni.",
+            "en": "Beautiful botanical garden with peacocks."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre de l'Ermita",
+            "hu": "Remete-torony",
+            "ro": "Torre de l'Ermita",
+            "en": "Ermita Tower"
+          },
+          "coords": [
+            1.0535,
+            41.0715
+          ],
+          "category": "historical",
+          "arrive_at": "12:15",
+          "stay_min": 50,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Historisches Zentrum von Cambrils.",
+            "hu": "Cambrils történelmi központja.",
+            "ro": "Centrul istoric al orașului Cambrils.",
+            "en": "Historic center of Cambrils."
+          }
+        },
+        {
+          "name": {
+            "de": "Port de Cambrils",
+            "hu": "Cambrils kikötője",
+            "ro": "Portul Cambrils",
+            "en": "Cambrils Port"
+          },
+          "coords": [
+            1.0625,
+            41.0658
+          ],
+          "category": "park",
+          "arrive_at": "13:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Mittagessen in den besten Fischrestaurants.",
+            "hu": "Ebéd a legjobb haléttermekben.",
+            "ro": "Prânz la cele mai bune restaurante de pește.",
+            "en": "Lunch at the best seafood restaurants."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Romana de la Llosa",
+            "hu": "Llosa római villa",
+            "ro": "Vila Romană de la Llosa",
+            "en": "La Llosa Roman Villa"
+          },
+          "coords": [
+            1.0555,
+            41.0665
+          ],
+          "category": "historical",
+          "arrive_at": "15:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Einfaches Parken in der Nähe.",
+            "hu": "Könnyű parkolás a közelben.",
+            "ro": "Parcare ușoară în apropiere.",
+            "en": "Easy parking available nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Platja del Regueral",
+            "hu": "Regueral strand",
+            "ro": "Plaja Regueral",
+            "en": "Regueral Beach"
+          },
+          "coords": [
+            1.0685,
+            41.0652
+          ],
+          "category": "beach",
+          "arrive_at": "16:25",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Perfekt für den späten Nachmittag.",
+            "hu": "Tökéletes késő délutáni pihenő.",
+            "ro": "Perfect pentru după-amiaza târzie.",
+            "en": "Perfect for late afternoon relaxation."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das Auto, um das beeindruckende Hinterland von Cambrils zu erkunden. Beginnen Sie im Parc Samà, einem exotischen Gartenjuwel nur wenige Kilometer landeinwärts. Die Kolonialarchitektur und die üppige Flora sind ein Muss.\n\nFahren Sie zurück ins Stadtzentrum für ein Mittagessen am Hafen und besuchen Sie den historischen Turm und die römischen Ausgrabungen. Mit dem Auto erreichen Sie alle Punkte bequem und schnell.\n\nSchließen Sie den Tag am Strand Regueral ab, wo es Parkplätze in der Nähe der Promenade gibt. Ein Auto ermöglicht es Ihnen, auch die abgelegeneren Ecken der Küste flexibel zu besuchen.",
+        "hu": "Használja az autót Cambrils lenyűgöző környékének felfedezéséhez. Kezdje a Samà parkban, amely egy egzotikus oázis pár kilométerre a parttól. A koloniális építészet és a dús növényzet lenyűgöző látvány.\n\nTérjen vissza a városközpontba egy kikötői ebédre, majd látogasson el a történelmi toronyhoz és a római romokhoz. Autóval kényelmesen és gyorsan elérheti az összes fontos pontot.\n\nZárja a napot a Regueral strandon, ahol a sétány közelében több parkoló is található. Az autó rugalmasságot ad, hogy a part távolabbi szakaszait is meglátogassa.",
+        "ro": "Folosiți mașina pentru a explora împrejurimile impresionante ale orașului Cambrils. Începeți la Parcul Samà, o bijuterie exotică situată la câțiva kilometri în interiorul țării. Arhitectura colonială și flora luxuriantă sunt de neratat.\n\nReveniți în centrul orașului pentru prânz în port și vizitați turnul istoric și vestigiile romane. Cu mașina, ajungeți rapid și confortabil la toate punctele de interes.\n\nÎncheiați ziua pe plaja Regueral, unde există parcări în apropierea falezei. Mașina vă oferă flexibilitatea de a vizita și zonele mai retrase ale coastei.",
+        "en": "Use a car to discover the impressive surroundings of Cambrils. Start at Samà Park, an exotic garden jewel located just a few kilometers inland. The colonial architecture and lush flora are a must-see.\n\nDrive back to the city center for lunch at the port and visit the historic tower and Roman ruins. By car, you can reach all points quickly and comfortably.\n\nEnd your day at Regueral Beach, with parking available near the promenade. Having a car allows you to flexibly visit more remote parts of the coastline as well."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Can Bosch",
+            "tip": "Michelin-Stern Restaurant für besondere Anlässe."
+          },
+          {
+            "name": "Gambas de Cambrils",
+            "tip": "Berühmte rote Garnelen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Can Bosch",
+            "tip": "Michelin-csillagos étterem különleges alkalmakra."
+          },
+          {
+            "name": "Gambas de Cambrils",
+            "tip": "A híres helyi vörös garnélarák."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Can Bosch",
+            "tip": "Restaurant cu stele Michelin pentru ocazii speciale."
+          },
+          {
+            "name": "Gambas de Cambrils",
+            "tip": "Celebri creveți roșii locali."
+          }
+        ],
+        "en": [
+          {
+            "name": "Can Bosch",
+            "tip": "Michelin-starred restaurant for special occasions."
+          },
+          {
+            "name": "Gambas de Cambrils",
+            "tip": "The famous local red prawns."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parc Samà See",
+            "tip": "Stille am künstlichen See.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Castell de Vilafortuny",
+            "tip": "Ruhige Wohngegend.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Samà parki tó",
+            "tip": "Csend a mesterséges tónál.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Vilafortuny kastély",
+            "tip": "Csendes lakóövezet.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lacul din Parcul Samà",
+            "tip": "Liniște lângă lacul artificial.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Castelul Vilafortuny",
+            "tip": "Zonă rezidențială liniștită.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Samà Park Lake",
+            "tip": "Tranquility by the artificial lake.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Vilafortuny Castle",
+            "tip": "Quiet residential neighborhood.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Olivenöl-Museum",
+            "tip": "Kauf von Premium-Ölen."
+          },
+          {
+            "name": "Aldi/Lidl",
+            "tip": "Große Supermärkte am Stadtrand."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Olívaolaj Múzeum",
+            "tip": "Prémium olajok vásárlása."
+          },
+          {
+            "name": "Aldi/Lidl",
+            "tip": "Nagy szupermarketek a város szélén."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Muzeul Uleiului de Măsline",
+            "tip": "Cumpărați uleiuri premium."
+          },
+          {
+            "name": "Aldi/Lidl",
+            "tip": "Supermarketuri mari la marginea orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Olive Oil Museum",
+            "tip": "Buy premium local oils."
+          },
+          {
+            "name": "Aldi/Lidl",
+            "tip": "Large supermarkets on the outskirts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken im blauen Bereich ist gebührenpflichtig.",
+          "Es gibt eine große kostenlose Tiefgarage am Hafen.",
+          "Vermeiden Sie die Rushhour am Nachmittag.",
+          "Navigationsgeräte finden Ziele im Hinterland problemlos."
+        ],
+        "hu": [
+          "A kék zónás parkolás díjköteles.",
+          "Van egy nagy ingyenes mélygarázs a kikötőnél.",
+          "Kerülje el a délutáni csúcsforgalmat.",
+          "A GPS könnyen megtalálja a környékbeli célpontokat."
+        ],
+        "ro": [
+          "Parcarea în zona albastră este cu plată.",
+          "Există o parcare subterană mare gratuită în port.",
+          "Evitați orele de vârf de după-amiază.",
+          "Sistemele GPS găsesc ușor destinațiile din împrejurimi."
+        ],
+        "en": [
+          "Parking in the blue zone is paid.",
+          "There is a large free underground parking near the port.",
+          "Avoid the afternoon rush hour traffic.",
+          "GPS devices easily find inland destinations."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie das Auto, um das beeindruckende Hinterland von Cambrils zu erkunden. Beginnen Sie im Parc Samà, einem exotischen Gartenjuwel nur wenige Kilometer landeinwärts. Die Kolonialarchitektur und die üppige Flora sind ein Muss.\n\nFahren Sie zurück ins Stadtzentrum für ein Mittagessen am Hafen und besuchen Sie den historischen Turm und die römischen Ausgrabungen. Mit dem Auto erreichen Sie alle Punkte bequem und schnell.\n\nSchließen Sie den Tag am Strand Regueral ab, wo es Parkplätze in der Nähe der Promenade gibt. Ein Auto ermöglicht es Ihnen, auch die abgelegeneren Ecken der Küste flexibel zu besuchen.",
+            "hu": "Használja az autót Cambrils lenyűgöző környékének felfedezéséhez. Kezdje a Samà parkban, amely egy egzotikus oázis pár kilométerre a parttól. A koloniális építészet és a dús növényzet lenyűgöző látvány.\n\nTérjen vissza a városközpontba egy kikötői ebédre, majd látogasson el a történelmi toronyhoz és a római romokhoz. Autóval kényelmesen és gyorsan elérheti az összes fontos pontot.\n\nZárja a napot a Regueral strandon, ahol a sétány közelében több parkoló is található. Az autó rugalmasságot ad, hogy a part távolabbi szakaszait is meglátogassa.",
+            "ro": "Folosiți mașina pentru a explora împrejurimile impresionante ale orașului Cambrils. Începeți la Parcul Samà, o bijuterie exotică situată la câțiva kilometri în interiorul țării. Arhitectura colonială și flora luxuriantă sunt de neratat.\n\nReveniți în centrul orașului pentru prânz în port și vizitați turnul istoric și vestigiile romane. Cu mașina, ajungeți rapid și confortabil la toate punctele de interes.\n\nÎncheiați ziua pe plaja Regueral, unde există parcări în apropierea falezei. Mașina vă oferă flexibilitatea de a vizita și zonele mai retrase ale coastei.",
+            "en": "Use a car to discover the impressive surroundings of Cambrils. Start at Samà Park, an exotic garden jewel located just a few kilometers inland. The colonial architecture and lush flora are a must-see.\n\nDrive back to the city center for lunch at the port and visit the historic tower and Roman ruins. By car, you can reach all points quickly and comfortably.\n\nEnd your day at Regueral Beach, with parking available near the promenade. Having a car allows you to flexibly visit more remote parts of the coastline as well."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Parc Samà",
+                "hu": "Samà park",
+                "ro": "Parcul Samà",
+                "en": "Samà Park"
+              },
+              "tip_5lang": {
+                "de": "Wunderschöner botanischer Garten mit Pfauen.",
+                "hu": "Gyönyörű botanikus kert pávákkal.",
+                "ro": "Grădină botanică superbă cu păuni.",
+                "en": "Beautiful botanical garden with peacocks."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre de l'Ermita",
+                "hu": "Remete-torony",
+                "ro": "Torre de l'Ermita",
+                "en": "Ermita Tower"
+              },
+              "tip_5lang": {
+                "de": "Historisches Zentrum von Cambrils.",
+                "hu": "Cambrils történelmi központja.",
+                "ro": "Centrul istoric al orașului Cambrils.",
+                "en": "Historic center of Cambrils."
+              }
+            },
+            {
+              "name": {
+                "de": "Port de Cambrils",
+                "hu": "Cambrils kikötője",
+                "ro": "Portul Cambrils",
+                "en": "Cambrils Port"
+              },
+              "tip_5lang": {
+                "de": "Mittagessen in den besten Fischrestaurants.",
+                "hu": "Ebéd a legjobb haléttermekben.",
+                "ro": "Prânz la cele mai bune restaurante de pește.",
+                "en": "Lunch at the best seafood restaurants."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa Romana de la Llosa",
+                "hu": "Llosa római villa",
+                "ro": "Vila Romană de la Llosa",
+                "en": "La Llosa Roman Villa"
+              },
+              "tip_5lang": {
+                "de": "Einfaches Parken in der Nähe.",
+                "hu": "Könnyű parkolás a közelben.",
+                "ro": "Parcare ușoară în apropiere.",
+                "en": "Easy parking available nearby."
+              }
+            },
+            {
+              "name": {
+                "de": "Platja del Regueral",
+                "hu": "Regueral strand",
+                "ro": "Plaja Regueral",
+                "en": "Regueral Beach"
+              },
+              "tip_5lang": {
+                "de": "Perfekt für den späten Nachmittag.",
+                "hu": "Tökéletes késő délutáni pihenő.",
+                "ro": "Perfect pentru după-amiaza târzie.",
+                "en": "Perfect for late afternoon relaxation."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Can Bosch",
+                "tip": "Michelin-Stern Restaurant für besondere Anlässe."
+              },
+              {
+                "name": "Gambas de Cambrils",
+                "tip": "Berühmte rote Garnelen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Can Bosch",
+                "tip": "Michelin-csillagos étterem különleges alkalmakra."
+              },
+              {
+                "name": "Gambas de Cambrils",
+                "tip": "A híres helyi vörös garnélarák."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Can Bosch",
+                "tip": "Restaurant cu stele Michelin pentru ocazii speciale."
+              },
+              {
+                "name": "Gambas de Cambrils",
+                "tip": "Celebri creveți roșii locali."
+              }
+            ],
+            "en": [
+              {
+                "name": "Can Bosch",
+                "tip": "Michelin-starred restaurant for special occasions."
+              },
+              {
+                "name": "Gambas de Cambrils",
+                "tip": "The famous local red prawns."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Parc Samà See",
+                "tip": "Stille am künstlichen See.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Castell de Vilafortuny",
+                "tip": "Ruhige Wohngegend.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Samà parki tó",
+                "tip": "Csend a mesterséges tónál.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Vilafortuny kastély",
+                "tip": "Csendes lakóövezet.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Lacul din Parcul Samà",
+                "tip": "Liniște lângă lacul artificial.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Castelul Vilafortuny",
+                "tip": "Zonă rezidențială liniștită.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Samà Park Lake",
+                "tip": "Tranquility by the artificial lake.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Vilafortuny Castle",
+                "tip": "Quiet residential neighborhood.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Olivenöl-Museum",
+                "tip": "Kauf von Premium-Ölen."
+              },
+              {
+                "name": "Aldi/Lidl",
+                "tip": "Große Supermärkte am Stadtrand."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Olívaolaj Múzeum",
+                "tip": "Prémium olajok vásárlása."
+              },
+              {
+                "name": "Aldi/Lidl",
+                "tip": "Nagy szupermarketek a város szélén."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Muzeul Uleiului de Măsline",
+                "tip": "Cumpărați uleiuri premium."
+              },
+              {
+                "name": "Aldi/Lidl",
+                "tip": "Supermarketuri mari la marginea orașului."
+              }
+            ],
+            "en": [
+              {
+                "name": "Olive Oil Museum",
+                "tip": "Buy premium local oils."
+              },
+              {
+                "name": "Aldi/Lidl",
+                "tip": "Large supermarkets on the outskirts."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Parken im blauen Bereich ist gebührenpflichtig.",
+              "Es gibt eine große kostenlose Tiefgarage am Hafen.",
+              "Vermeiden Sie die Rushhour am Nachmittag.",
+              "Navigationsgeräte finden Ziele im Hinterland problemlos."
+            ],
+            "hu": [
+              "A kék zónás parkolás díjköteles.",
+              "Van egy nagy ingyenes mélygarázs a kikötőnél.",
+              "Kerülje el a délutáni csúcsforgalmat.",
+              "A GPS könnyen megtalálja a környékbeli célpontokat."
+            ],
+            "ro": [
+              "Parcarea în zona albastră este cu plată.",
+              "Există o parcare subterană mare gratuită în port.",
+              "Evitați orele de vârf de după-amiază.",
+              "Sistemele GPS găsesc ușor destinațiile din împrejurimi."
+            ],
+            "en": [
+              "Parking in the blue zone is paid.",
+              "There is a large free underground parking near the port.",
+              "Avoid the afternoon rush hour traffic.",
+              "GPS devices easily find inland destinations."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens fahren Sie entspannt zum Parc Samà, der bei Regen besonders üppig wirkt. Mittags erreichen Sie Cambrils und parken nahe dem Ermita-Turm.\nNachmittags bietet der Hafen gute Parkmöglichkeiten für einen kurzen Spaziergang im Regen. Abends fahren Sie komfortabel im Trockenen zur Villa La Llosa und zum Strand von Regueral.",
+            "hu": "Reggel kényelmesen autózunk a Samà parkba, amely esőben különösen dús látványt nyújt. Délben Cambrilsba érünk, és az Ermita-torony közelében parkolunk.\nDélután a kikötőnél találunk parkolóhelyet egy rövid, esernyős sétához. Este szárazon és kényelemben érjük el a La Llosa villát és a Regueral strandot.",
+            "ro": "Dimineața conducem relaxați spre Parcul Samà, care pare luxuriant pe ploaie. La prânz ajungem în Cambrils și parcăm lângă Turnul Ermita.\nDupă-amiaza portul oferă locuri bune de parcare pentru o scurtă plimbare. Seara ajungem confortabil la Vila La Llosa și la plaja Regueral, feriți de ploaie.",
+            "en": "Morning drive to Samà Park is pleasant; the rain makes the gardens look lush. At noon, reach Cambrils and find easy parking near Ermita Tower.\nAfternoon offers convenient parking at the port for a brief rainy walk. In the evening, travel in comfort to La Llosa Villa and Regueral Beach, staying dry inside your car."
+          },
+          "stops": [
+            {
+              "name": "Samà Park",
+              "tip_5lang": {
+                "de": "Die Parkwege können bei starkem Regen matschig sein.",
+                "hu": "A park ösvényei heves esőzéskor sárosak lehetnek.",
+                "ro": "Potecile parcului pot deveni noroioase în caz de ploaie.",
+                "en": "Park trails can get muddy during heavy rainfall."
+              }
+            },
+            {
+              "name": "Ermita Tower",
+              "tip_5lang": {
+                "de": "Kostenloses Parken ist oft in den Nebenstraßen möglich.",
+                "hu": "Ingyenes parkolás gyakran lehetséges a mellékutcákban.",
+                "ro": "Parcarea gratuită este adesea posibilă pe străzile laterale.",
+                "en": "Free parking is often available in the side streets nearby."
+              }
+            },
+            {
+              "name": "Cambrils Port",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Tiefgaragen-Parkhaus direkt am Hafen.",
+                "hu": "Használja a közvetlenül a kikötőnél lévő mélygarázst.",
+                "ro": "Folosiți parcarea subterană situată chiar în port.",
+                "en": "Utilize the underground parking garage right by the harbor."
+              }
+            },
+            {
+              "name": "La Llosa Roman Villa",
+              "tip_5lang": {
+                "de": "Ein kleiner Parkplatz befindet sich direkt am Eingang.",
+                "hu": "Egy kis parkoló található közvetlenül a bejáratnál.",
+                "ro": "O mică parcare este situată chiar la intrare.",
+                "en": "A small parking area is located right at the entrance."
+              }
+            },
+            {
+              "name": "Regueral Beach",
+              "tip_5lang": {
+                "de": "Die strandnahen Parkplätze sind bei Regen meist leer.",
+                "hu": "A strandközeli parkolók esőben többnyire üresek.",
+                "ro": "Parcările de lângă plajă sunt de obicei goale pe ploaie.",
+                "en": "Beachfront parking spaces are usually empty when it rains."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahren Sie vorsichtig bei Aquaplaning-Gefahr auf der Küstenstraße.",
+              "Nutzen Sie Parkhäuser, um trocken in die Innenstadt zu gelangen.",
+              "Sichtverhältnisse können durch starken Regen eingeschränkt sein.",
+              "Im Parc Samà sind feste Schuhe bei Nässe unerlässlich."
+            ],
+            "hu": [
+              "Vezessen óvatosan a parti úton az aquaplaning veszélye miatt.",
+              "Használja a parkolóházakat, hogy szárazon jusson a belvárosba.",
+              "A látási viszonyok korlátozottak lehetnek a heves esőben.",
+              "A Samà parkban elengedhetetlen a zárt cipő esős időben."
+            ],
+            "ro": [
+              "Conduceți cu atenție pe drumul de coastă din cauza acvaplanării.",
+              "Folosiți parcările etajate pentru a ajunge uscați în centru.",
+              "Vizibilitatea poate fi redusă în timpul ploilor torențiale.",
+              "În Parcul Samà încălțămintea solidă este esențială pe ploaie."
+            ],
+            "en": [
+              "Drive carefully on coastal roads due to hydroplaning risks.",
+              "Use parking garages to access the city center while staying dry.",
+              "Visibility may be limited during heavy downpours.",
+              "Sturdy shoes are a must for Samà Park in wet weather."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens genießen Sie die Fahrt zum Parc Samà durch die ruhige Winterlandschaft. Mittags besuchen Sie den Ermita-Turm ohne die sommerlichen Touristenströme.\nNachmittags parken Sie bequem am Hafen und spazieren an der frischen Meeresluft. Abends erreichen Sie die Villa La Llosa und den Strand Regueral pünktlich zum frühen Sonnenuntergang.",
+            "hu": "Reggel a nyugodt téli tájon keresztül autózunk a Samà parkba. Délben a nyári tömeg nélkül látogatjuk meg az Ermita-tornyot.\nDélután kényelmesen parkolunk a kikötőben, és sétálunk a friss tengeri levegőn. Este a korai naplementére érünk a La Llosa villához és a Regueral strandhoz.",
+            "ro": "Dimineața ne bucurăm de drumul spre Parcul Samà prin peisajul liniștit de iarnă. La prânz vizităm Turnul Ermita fără aglomerația de vară.\nDupă-amiaza parcăm ușor în port și ne plimbăm în aerul proaspăt marin. Seara ajungem la Vila La Llosa și plaja Regueral fix pentru apusul devreme.",
+            "en": "Morning drive to Samà Park through the peaceful winter scenery. At noon, visit Ermita Tower without the summer crowds.\nAfternoon parking at the harbor is easy, allowing for a brisk walk in the sea air. In the evening, reach La Llosa Villa and Regueral Beach just in time for the early sunset."
+          },
+          "stops": [
+            {
+              "name": "Samà Park",
+              "tip_5lang": {
+                "de": "Der Park ist im Winter weniger besucht und sehr friedlich.",
+                "hu": "A park télen kevésbé látogatott és rendkívül békés.",
+                "ro": "Parcul este mai puțin vizitat iarna și foarte liniștit.",
+                "en": "The park is less crowded in winter and very peaceful."
+              }
+            },
+            {
+              "name": "Ermita Tower",
+              "tip_5lang": {
+                "de": "Im Winter finden Sie problemlos Parkplätze direkt davor.",
+                "hu": "Télen gond nélkül találhat parkolóhelyet közvetlenül előtte.",
+                "ro": "Iarna găsiți ușor locuri de parcare chiar în față.",
+                "en": "In winter, you'll easily find parking spots right in front."
+              }
+            },
+            {
+              "name": "Cambrils Port",
+              "tip_5lang": {
+                "de": "Die Parkgebühren sind in der Nebensaison oft günstiger.",
+                "hu": "A parkolási díjak főszezonon kívül gyakran alacsonyabbak.",
+                "ro": "Tarifele de parcare sunt adesea mai mici în extrasezon.",
+                "en": "Parking rates are often lower during the off-season."
+              }
+            },
+            {
+              "name": "La Llosa Roman Villa",
+              "tip_5lang": {
+                "de": "Die tiefstehende Sonne bietet tolles Licht für Fotos.",
+                "hu": "Az alacsonyan járó nap remek fényeket ad a fotózáshoz.",
+                "ro": "Soarele jos oferă o lumină excelentă pentru fotografii.",
+                "en": "The low winter sun provides great lighting for photos."
+              }
+            },
+            {
+              "name": "Regueral Beach",
+              "tip_5lang": {
+                "de": "Ideal, um den Sonnenuntergang direkt vom Auto aus zu sehen.",
+                "hu": "Ideális a naplemente megtekintéséhez közvetlenül az autóból.",
+                "ro": "Ideal pentru a vedea apusul direct din mașină.",
+                "en": "Ideal for watching the sunset directly from your car."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Parkplatzsuche ist im Winter in Cambrils völlig stressfrei.",
+              "Achten Sie auf eventuelle Straßensperren durch Winterbauarbeiten.",
+              "Die Heizung im Auto sorgt für Wärme zwischen den Stopps.",
+              "Nutzen Sie die Strandparkplätze für ungestörte Meerblicke."
+            ],
+            "hu": [
+              "A parkolóhely-keresés télen teljesen stresszmentes Cambrilsban.",
+              "Ügyeljen az esetleges téli útkarbantartási lezárásokra.",
+              "Az autó fűtése kellemes meleget ad a megállók között.",
+              "Használja a parti parkolókat a zavartalan tengeri kilátáshoz."
+            ],
+            "ro": [
+              "Găsirea unui loc de parcare este fără stres iarna în Cambrils.",
+              "Atenție la eventualele restricții rutiere pentru lucrări de iarnă.",
+              "Încălzirea din mașină oferă confort între punctele de oprire.",
+              "Folosiți parcările de pe plajă pentru vederi neîntrerupte la mare."
+            ],
+            "en": [
+              "Parking in Cambrils is completely stress-free during winter.",
+              "Watch out for potential road maintenance closures in winter.",
+              "The car heater provides a cozy refuge between stops.",
+              "Use beachfront parking for undisturbed views of the Mediterranean."
+            ]
+          }
+        }
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:30",
+      "total_km": 6.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Torre de l'Ermita",
+            "hu": "Remete-torony",
+            "ro": "Torre de l'Ermita",
+            "en": "Ermita Tower"
+          },
+          "coords": [
+            1.0535,
+            41.0715
+          ],
+          "category": "historical",
+          "arrive_at": "09:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Bushaltestelle in Gehweite.",
+            "hu": "Buszmegálló sétatávolságra.",
+            "ro": "Stație de autobuz la mică distanță.",
+            "en": "Bus stop within walking distance."
+          }
+        },
+        {
+          "name": {
+            "de": "Mare de Déu del Camí",
+            "hu": "Úti Szűzanya templom",
+            "ro": "Biserica Mare de Déu del Camí",
+            "en": "Mare de Déu del Camí Church"
+          },
+          "coords": [
+            1.0538,
+            41.0712
+          ],
+          "category": "religious",
+          "arrive_at": "10:20",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Direkt neben dem Turm.",
+            "hu": "Közvetlenül a torony mellett.",
+            "ro": "Chiar lângă turn.",
+            "en": "Located right next to the tower."
+          }
+        },
+        {
+          "name": {
+            "de": "Port de Cambrils",
+            "hu": "Cambrils kikötője",
+            "ro": "Portul Cambrils",
+            "en": "Cambrils Port"
+          },
+          "coords": [
+            1.0625,
+            41.0658
+          ],
+          "category": "park",
+          "arrive_at": "11:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Zentraler Umsteigepunkt für Busse.",
+            "hu": "Központi buszos csomópont.",
+            "ro": "Nod central pentru autobuze.",
+            "en": "Central hub for local buses."
+          }
+        },
+        {
+          "name": {
+            "de": "Museu de la Torre del Port",
+            "hu": "Kikötői Torony Múzeum",
+            "ro": "Muzeul Turnului Portului",
+            "en": "Port Tower Museum"
+          },
+          "coords": [
+            1.0615,
+            41.0655
+          ],
+          "category": "museum",
+          "arrive_at": "13:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ikone des Hafens.",
+            "hu": "A kikötő jelképe.",
+            "ro": "Simbolul portului.",
+            "en": "Icon of the harbor."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Romana de la Llosa",
+            "hu": "Llosa római villa",
+            "ro": "Vila Romană de la Llosa",
+            "en": "La Llosa Roman Villa"
+          },
+          "coords": [
+            1.0555,
+            41.0665
+          ],
+          "category": "historical",
+          "arrive_at": "14:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Mit dem Stadtbus gut erreichbar.",
+            "hu": "Városi busszal jól elérhető.",
+            "ro": "Ușor accesibil cu autobuzul urban.",
+            "en": "Easily accessible by city bus."
+          }
+        },
+        {
+          "name": {
+            "de": "Platja del Regueral",
+            "hu": "Regueral strand",
+            "ro": "Plaja Regueral",
+            "en": "Regueral Beach"
+          },
+          "coords": [
+            1.0685,
+            41.0652
+          ],
+          "category": "beach",
+          "arrive_at": "16:20",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Busse nach Salou/Tarragona halten hier.",
+            "hu": "Salou/Tarragona felé tartó buszok megállnak itt.",
+            "ro": "Autobuzele spre Salou/Tarragona opresc aici.",
+            "en": "Buses towards Salou/Tarragona stop here."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Cambrils verfügt über ein effizientes Bussystem, das die Altstadt mit dem Hafen und den Stränden verbindet. Starten Sie im historischen Zentrum und nutzen Sie den Stadtbus, um zum belebten Hafen zu gelangen.\n\nBesuchen Sie die Museen und Kirchen, ohne sich um Parkplätze sorgen zu müssen. Die Busse verkehren regelmäßig und verbinden alle wichtigen touristischen Punkte der Stadt.\n\nDen Nachmittag verbringen Sie am Strand von Regueral. Von hier aus gibt es hervorragende Verbindungen zurück zu Ihrem Hotel oder in Nachbarstädte wie Salou. Transit ist die entspannteste Art, Cambrils zu erleben.",
+        "hu": "Cambrils hatékony buszhálózattal rendelkezik, amely összeköti az óvárost a kikötővel és a strandokkal. Kezdje a történelmi központban, majd használja a városi buszt a nyüzsgő kikötő eléréséhez.\n\nLátogasson el a múzeumokba és templomokba anélkül, hogy a parkolás miatt aggódna. A buszok rendszeresen járnak és minden fontos turisztikai pontot érintenek.\n\nA délutánt a Regueral strandon töltse. Innen kiváló buszközlekedés van vissza a szállodákhoz vagy a szomszédos városokba, mint Salou. A tömegközlekedés a legnyugodtabb módja Cambrils felfedezésének.",
+        "ro": "Cambrils are un sistem de autobuze eficient care leagă orașul vechi de port și plaje. Începeți în centrul istoric și folosiți autobuzul urban pentru a ajunge în portul animat.\n\nVizitați muzeele și bisericile fără grija parcării. Autobuzele circulă regulat și conectează toate punctele turistice importante ale orașului.\n\nPetreceți după-amiaza pe plaja Regueral. De aici există conexiuni excelente înapoi spre hotel sau către orașele vecine precum Salou. Transportul în comun este cel mai relaxant mod de a experimenta Cambrils.",
+        "en": "Cambrils has an efficient bus system connecting the old town with the port and the beaches. Start in the historic center and take the city bus to reach the lively harbor area.\n\nVisit the museums and churches without worrying about parking. Buses run regularly and stop at all major tourist points across the city.\n\nSpend your afternoon at Regueral Beach. From here, you have excellent bus connections back to your hotel or to neighboring towns like Salou. Transit is the most relaxed way to experience Cambrils."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Romesco de Peix",
+            "tip": "Probieren Sie die Romesco-Sauce."
+          },
+          {
+            "name": "Chiringuito-Snacks",
+            "tip": "Tapia am Strand genießen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Romesco de Peix",
+            "tip": "Kóstolja meg a helyi Romesco mártást."
+          },
+          {
+            "name": "Chiringuito falatok",
+            "tip": "Egyél tapast a tengerparti bárban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Romesco de Peix",
+            "tip": "Încercați sosul Romesco local."
+          },
+          {
+            "name": "Gustări la Chiringuito",
+            "tip": "Savurați tapas la barul de pe plajă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Romesco de Peix",
+            "tip": "Try the authentic local Romesco sauce."
+          },
+          {
+            "name": "Chiringuito snacks",
+            "tip": "Enjoy tapas at a beach bar."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Innenhof Ermita",
+            "tip": "Stiller Ort zum Nachdenken.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Strand am frühen Morgen",
+            "tip": "Ruhe vor den Touristenmassen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Remete-kápolna udvara",
+            "tip": "Csendes hely az elmélkedésre.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Strand kora reggel",
+            "tip": "Nyugalom a tömeg előtt.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Curtea Bisericii Ermita",
+            "tip": "Loc liniștit pentru reflecție.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Plaja dimineața devreme",
+            "tip": "Liniște înainte de aglomerație.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Ermita Courtyard",
+            "tip": "Quiet place for reflection.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Beach at early morning",
+            "tip": "Tranquility before the crowds arrive.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Busstation Souvenirs",
+            "tip": "Schnelle Mitbringsel."
+          },
+          {
+            "name": "Wochenmarkt",
+            "tip": "Jeden Mittwoch (Vila-Viertel)."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Buszállomás ajándékbolt",
+            "tip": "Gyors szuvenírek."
+          },
+          {
+            "name": "Heti piac",
+            "tip": "Minden szerdán a Vila negyedben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Suveniruri la autogară",
+            "tip": "Cadouri rapide de ultim moment."
+          },
+          {
+            "name": "Piața săptămânală",
+            "tip": "În fiecare miercuri în cartierul Vila."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bus Station Souvenirs",
+            "tip": "Quick last-minute gifts."
+          },
+          {
+            "name": "Weekly Market",
+            "tip": "Every Wednesday in the Vila district."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie ein Zehnerticket (T-10) für Ersparnisse.",
+          "Fahrpläne hängen an den Hauptstationen aus.",
+          "Bus Plana ist der Hauptanbieter.",
+          "Die Haltestellen sind gut markiert."
+        ],
+        "hu": [
+          "Vegyen gyűjtőjegyet (T-10) a megtakarításhoz.",
+          "A menetrendek ki vannak függesztve a főbb megállókban.",
+          "A Bus Plana a legfőbb szolgáltató.",
+          "A megállók jól láthatóan jelölve vannak."
+        ],
+        "ro": [
+          "Cumpărați un bilet cu 10 călătorii (T-10) pentru economii.",
+          "Orarele sunt afișate în principalele stații.",
+          "Bus Plana este principalul operator.",
+          "Stațiile sunt bine marcate."
+        ],
+        "en": [
+          "Buy a 10-trip card (T-10) to save money.",
+          "Schedules are posted at all major bus stops.",
+          "Bus Plana is the main service provider.",
+          "Stops are clearly marked and easy to find."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Cambrils verfügt über ein effizientes Bussystem, das die Altstadt mit dem Hafen und den Stränden verbindet. Starten Sie im historischen Zentrum und nutzen Sie den Stadtbus, um zum belebten Hafen zu gelangen.\n\nBesuchen Sie die Museen und Kirchen, ohne sich um Parkplätze sorgen zu müssen. Die Busse verkehren regelmäßig und verbinden alle wichtigen touristischen Punkte der Stadt.\n\nDen Nachmittag verbringen Sie am Strand von Regueral. Von hier aus gibt es hervorragende Verbindungen zurück zu Ihrem Hotel oder in Nachbarstädte wie Salou. Transit ist die entspannteste Art, Cambrils zu erleben.",
+            "hu": "Cambrils hatékony buszhálózattal rendelkezik, amely összeköti az óvárost a kikötővel és a strandokkal. Kezdje a történelmi központban, majd használja a városi buszt a nyüzsgő kikötő eléréséhez.\n\nLátogasson el a múzeumokba és templomokba anélkül, hogy a parkolás miatt aggódna. A buszok rendszeresen járnak és minden fontos turisztikai pontot érintenek.\n\nA délutánt a Regueral strandon töltse. Innen kiváló buszközlekedés van vissza a szállodákhoz vagy a szomszédos városokba, mint Salou. A tömegközlekedés a legnyugodtabb módja Cambrils felfedezésének.",
+            "ro": "Cambrils are un sistem de autobuze eficient care leagă orașul vechi de port și plaje. Începeți în centrul istoric și folosiți autobuzul urban pentru a ajunge în portul animat.\n\nVizitați muzeele și bisericile fără grija parcării. Autobuzele circulă regulat și conectează toate punctele turistice importante ale orașului.\n\nPetreceți după-amiaza pe plaja Regueral. De aici există conexiuni excelente înapoi spre hotel sau către orașele vecine precum Salou. Transportul în comun este cel mai relaxant mod de a experimenta Cambrils.",
+            "en": "Cambrils has an efficient bus system connecting the old town with the port and the beaches. Start in the historic center and take the city bus to reach the lively harbor area.\n\nVisit the museums and churches without worrying about parking. Buses run regularly and stop at all major tourist points across the city.\n\nSpend your afternoon at Regueral Beach. From here, you have excellent bus connections back to your hotel or to neighboring towns like Salou. Transit is the most relaxed way to experience Cambrils."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Torre de l'Ermita",
+                "hu": "Remete-torony",
+                "ro": "Torre de l'Ermita",
+                "en": "Ermita Tower"
+              },
+              "tip_5lang": {
+                "de": "Bushaltestelle in Gehweite.",
+                "hu": "Buszmegálló sétatávolságra.",
+                "ro": "Stație de autobuz la mică distanță.",
+                "en": "Bus stop within walking distance."
+              }
+            },
+            {
+              "name": {
+                "de": "Mare de Déu del Camí",
+                "hu": "Úti Szűzanya templom",
+                "ro": "Biserica Mare de Déu del Camí",
+                "en": "Mare de Déu del Camí Church"
+              },
+              "tip_5lang": {
+                "de": "Direkt neben dem Turm.",
+                "hu": "Közvetlenül a torony mellett.",
+                "ro": "Chiar lângă turn.",
+                "en": "Located right next to the tower."
+              }
+            },
+            {
+              "name": {
+                "de": "Port de Cambrils",
+                "hu": "Cambrils kikötője",
+                "ro": "Portul Cambrils",
+                "en": "Cambrils Port"
+              },
+              "tip_5lang": {
+                "de": "Zentraler Umsteigepunkt für Busse.",
+                "hu": "Központi buszos csomópont.",
+                "ro": "Nod central pentru autobuze.",
+                "en": "Central hub for local buses."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu de la Torre del Port",
+                "hu": "Kikötői Torony Múzeum",
+                "ro": "Muzeul Turnului Portului",
+                "en": "Port Tower Museum"
+              },
+              "tip_5lang": {
+                "de": "Ikone des Hafens.",
+                "hu": "A kikötő jelképe.",
+                "ro": "Simbolul portului.",
+                "en": "Icon of the harbor."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa Romana de la Llosa",
+                "hu": "Llosa római villa",
+                "ro": "Vila Romană de la Llosa",
+                "en": "La Llosa Roman Villa"
+              },
+              "tip_5lang": {
+                "de": "Mit dem Stadtbus gut erreichbar.",
+                "hu": "Városi busszal jól elérhető.",
+                "ro": "Ușor accesibil cu autobuzul urban.",
+                "en": "Easily accessible by city bus."
+              }
+            },
+            {
+              "name": {
+                "de": "Platja del Regueral",
+                "hu": "Regueral strand",
+                "ro": "Plaja Regueral",
+                "en": "Regueral Beach"
+              },
+              "tip_5lang": {
+                "de": "Busse nach Salou/Tarragona halten hier.",
+                "hu": "Salou/Tarragona felé tartó buszok megállnak itt.",
+                "ro": "Autobuzele spre Salou/Tarragona opresc aici.",
+                "en": "Buses towards Salou/Tarragona stop here."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Romesco de Peix",
+                "tip": "Probieren Sie die Romesco-Sauce."
+              },
+              {
+                "name": "Chiringuito-Snacks",
+                "tip": "Tapia am Strand genießen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Romesco de Peix",
+                "tip": "Kóstolja meg a helyi Romesco mártást."
+              },
+              {
+                "name": "Chiringuito falatok",
+                "tip": "Egyél tapast a tengerparti bárban."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Romesco de Peix",
+                "tip": "Încercați sosul Romesco local."
+              },
+              {
+                "name": "Gustări la Chiringuito",
+                "tip": "Savurați tapas la barul de pe plajă."
+              }
+            ],
+            "en": [
+              {
+                "name": "Romesco de Peix",
+                "tip": "Try the authentic local Romesco sauce."
+              },
+              {
+                "name": "Chiringuito snacks",
+                "tip": "Enjoy tapas at a beach bar."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Innenhof Ermita",
+                "tip": "Stiller Ort zum Nachdenken.",
+                "emoji": "🧘"
+              },
+              {
+                "name": "Strand am frühen Morgen",
+                "tip": "Ruhe vor den Touristenmassen.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Remete-kápolna udvara",
+                "tip": "Csendes hely az elmélkedésre.",
+                "emoji": "🧘"
+              },
+              {
+                "name": "Strand kora reggel",
+                "tip": "Nyugalom a tömeg előtt.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Curtea Bisericii Ermita",
+                "tip": "Loc liniștit pentru reflecție.",
+                "emoji": "🧘"
+              },
+              {
+                "name": "Plaja dimineața devreme",
+                "tip": "Liniște înainte de aglomerație.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Ermita Courtyard",
+                "tip": "Quiet place for reflection.",
+                "emoji": "🧘"
+              },
+              {
+                "name": "Beach at early morning",
+                "tip": "Tranquility before the crowds arrive.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Busstation Souvenirs",
+                "tip": "Schnelle Mitbringsel."
+              },
+              {
+                "name": "Wochenmarkt",
+                "tip": "Jeden Mittwoch (Vila-Viertel)."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Buszállomás ajándékbolt",
+                "tip": "Gyors szuvenírek."
+              },
+              {
+                "name": "Heti piac",
+                "tip": "Minden szerdán a Vila negyedben."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Suveniruri la autogară",
+                "tip": "Cadouri rapide de ultim moment."
+              },
+              {
+                "name": "Piața săptămânală",
+                "tip": "În fiecare miercuri în cartierul Vila."
+              }
+            ],
+            "en": [
+              {
+                "name": "Bus Station Souvenirs",
+                "tip": "Quick last-minute gifts."
+              },
+              {
+                "name": "Weekly Market",
+                "tip": "Every Wednesday in the Vila district."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Kaufen Sie ein Zehnerticket (T-10) für Ersparnisse.",
+              "Fahrpläne hängen an den Hauptstationen aus.",
+              "Bus Plana ist der Hauptanbieter.",
+              "Die Haltestellen sind gut markiert."
+            ],
+            "hu": [
+              "Vegyen gyűjtőjegyet (T-10) a megtakarításhoz.",
+              "A menetrendek ki vannak függesztve a főbb megállókban.",
+              "A Bus Plana a legfőbb szolgáltató.",
+              "A megállók jól láthatóan jelölve vannak."
+            ],
+            "ro": [
+              "Cumpărați un bilet cu 10 călătorii (T-10) pentru economii.",
+              "Orarele sunt afișate în principalele stații.",
+              "Bus Plana este principalul operator.",
+              "Stațiile sunt bine marcate."
+            ],
+            "en": [
+              "Buy a 10-trip card (T-10) to save money.",
+              "Schedules are posted at all major bus stops.",
+              "Bus Plana is the main service provider.",
+              "Stops are clearly marked and easy to find."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens nutzen Sie den Bus zum Ermita-Turm, um trocken zu bleiben. Mittags bringt Sie der Nahverkehr zur Kirche Mare de Déu.\nNachmittags erreichen Sie den Hafen und das Turmmuseum bequem per Transit. Abends beenden Sie die Tour an der Villa La Llosa und dem Regueral-Strand, geschützt in den Fahrzeugen.",
+            "hu": "Reggel busszal megyünk az Ermita-toronyhoz, hogy szárazon maradjunk. Délben a tömegközlekedés elvisz a Mare de Déu templomhoz.\nDélután a kikötőt és a toronymúzeumot kényelmesen érjük el járattal. Este a La Llosa villánál és a Regueral strandnál fejezzük be, a járművek védelmében.",
+            "ro": "Dimineața folosim autobuzul spre Turnul Ermita pentru a rămâne uscați. La prânz, transportul public ne duce la Biserica Mare de Déu.\nDupă-amiaza ajungem în port și la muzeu confortabil cu tranzitul. Seara încheiem la Vila La Llosa și plaja Regueral, protejați în interiorul vehiculelor.",
+            "en": "Morning bus ride to Ermita Tower keeps you dry from the start. At noon, use local transit to reach the Mare de Déu Church.\nAfternoon travel to the port and museum is comfortable by public transport. Finish your evening at La Llosa Villa and Regueral Beach, sheltered within the transit system."
+          },
+          "stops": [
+            {
+              "name": "Ermita Tower",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle bietet Schutz bei Regen.",
+                "hu": "A buszmegálló fedett, védelmet nyújt az eső elől.",
+                "ro": "Stația de autobuz este acoperită, oferind protecție.",
+                "en": "The bus stop is sheltered, providing protection from rain."
+              }
+            },
+            {
+              "name": "Mare de Déu del Camí Church",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg von der Haltestelle zum Eingang.",
+                "hu": "Rövid séta a megállótól a bejáratig.",
+                "ro": "Drum scurt pe jos de la stație până la intrare.",
+                "en": "Short walk from the transit stop to the entrance."
+              }
+            },
+            {
+              "name": "Cambrils Port",
+              "tip_5lang": {
+                "de": "Zentrale Haltestellen ermöglichen schnellen Zugang zum Hafen.",
+                "hu": "A központi megállók gyors hozzáférést adnak a kikötőhöz.",
+                "ro": "Stațiile centrale permit accesul rapid în port.",
+                "en": "Central stops allow for quick access to the harbor area."
+              }
+            },
+            {
+              "name": "Port Tower Museum",
+              "tip_5lang": {
+                "de": "Ideal erreichbar ohne nass zu werden.",
+                "hu": "Ideálisan elérhető anélkül, hogy eláznánk.",
+                "ro": "Accesibil în mod ideal fără a vă uda.",
+                "en": "Ideally accessible without getting soaked on the way."
+              }
+            },
+            {
+              "name": "La Llosa Roman Villa",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Rückfahrtzeiten bei Regenwetter.",
+                "hu": "Ellenőrizze a visszaindulási időket esős időben.",
+                "ro": "Verificați orele de întoarcere pe vreme ploioasă.",
+                "en": "Check the return transit times during rainy weather."
+              }
+            },
+            {
+              "name": "Regueral Beach",
+              "tip_5lang": {
+                "de": "Haltestellen nahe der Strandcafés nutzen.",
+                "hu": "Használja a strandközeli kávézók melletti megállókat.",
+                "ro": "Folosiți stațiile de lângă cafenelele de pe plajă.",
+                "en": "Use the stops located near the beachfront cafes."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Laden Sie die App des Nahverkehrs für Echtzeit-Infos.",
+              "Busse sind die trockenste Alternative zum Gehen.",
+              "Halten Sie Kleingeld oder eine Fahrkarte bereit.",
+              "Achten Sie auf rutschige Böden beim Ein- und Aussteigen."
+            ],
+            "hu": [
+              "Töltse le a közlekedési alkalmazást a valós idejű infókért.",
+              "A busz a legszárazabb alternatíva a gyaloglás helyett.",
+              "Készítsen elő aprópénzt vagy érvényes jegyet.",
+              "Ügyeljen a csúszós padlóra fel- és leszálláskor."
+            ],
+            "ro": [
+              "Descărcați aplicația de transport pentru info în timp real.",
+              "Autobuzele sunt cea mai uscată alternativă la mersul pe jos.",
+              "Pregătiți mărunțiș sau un bilet valabil.",
+              "Atenție la podeaua alunecoasă la urcare și coborâre."
+            ],
+            "en": [
+              "Download the local transit app for real-time updates.",
+              "Buses are the best dry alternative to walking in the rain.",
+              "Have small change or a valid ticket ready beforehand.",
+              "Watch out for slippery floors when boarding or exiting."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens bringt Sie der Bus entspannt zum Ermita-Turm in die kühle Stadt. Mittags nutzen Sie den Transit zur Mare de Déu Kirche.\nNachmittags erreichen Sie den Hafen, wo die Meeresbrise im Winter erfrischt. Abends kehren Sie bequem mit dem Bus von der Villa La Llosa zurück.",
+            "hu": "Reggel a busz kényelmesen visz az Ermita-toronyhoz a hűvös városban. Délben a Mare de Déu templomhoz utazunk tömegközlekedéssel.\nDélután érünk a kikötőhöz, ahol a téli tengeri szél frissítő. Este kényelmesen buszozunk vissza a La Llosa villától.",
+            "ro": "Dimineața autobuzul ne duce relaxați la Turnul Ermita în orașul răcoros. La prânz folosim tranzitul spre Biserica Mare de Déu.\nDupă-amiaza ajungem în port, unde briza mării este revigorantă iarna. Seara revenim confortabil cu autobuzul de la Vila La Llosa.",
+            "en": "Morning bus ride takes you comfortably to Ermita Tower in the cool city. At noon, use public transit to reach the Mare de Déu Church.\nAfternoon reach the harbor, where the winter sea breeze is refreshing. Return conveniently by bus from La Llosa Villa in the evening."
+          },
+          "stops": [
+            {
+              "name": "Ermita Tower",
+              "tip_5lang": {
+                "de": "Die Busse sind im Winter angenehm geheizt.",
+                "hu": "A buszok télen kellemesen fűtöttek.",
+                "ro": "Autobuzele sunt încălzite plăcut iarna.",
+                "en": "Buses are pleasantly heated during the winter months."
+              }
+            },
+            {
+              "name": "Mare de Déu del Camí Church",
+              "tip_5lang": {
+                "de": "Transit-Frequenzen sind auch im Winter zuverlässig.",
+                "hu": "A járatok gyakorisága télen is megbízható.",
+                "ro": "Frecvența curselor este fiabilă și iarna.",
+                "en": "Transit frequency remains reliable even in winter."
+              }
+            },
+            {
+              "name": "Cambrils Port",
+              "tip_5lang": {
+                "de": "Die Haltestelle bietet Windschutz durch Glaswände.",
+                "hu": "A megálló üvegfalai védenek a széltől.",
+                "ro": "Pereții de sticlă ai stației protejează de vânt.",
+                "en": "Glass panels at the stop provide protection from wind."
+              }
+            },
+            {
+              "name": "Port Tower Museum",
+              "tip_5lang": {
+                "de": "Kurze Wege zwischen Bus und Museumseingang.",
+                "hu": "Rövid távolság a busz és a múzeumbemenet között.",
+                "ro": "Distanță scurtă între autobuz și intrarea în muzeu.",
+                "en": "Short distance between the bus and the museum entrance."
+              }
+            },
+            {
+              "name": "La Llosa Roman Villa",
+              "tip_5lang": {
+                "de": "Letzte Busse fahren vor dem Abendessen.",
+                "hu": "Az utolsó buszok vacsoraidő előtt indulnak.",
+                "ro": "Ultimele autobuze pleacă înainte de ora cinei.",
+                "en": "Final bus departures are usually before dinner time."
+              }
+            },
+            {
+              "name": "Regueral Beach",
+              "tip_5lang": {
+                "de": "Winterfahrpläne beachten, sie können abweichen.",
+                "hu": "Ügyeljen a téli menetrendre, eltérhet a nyáritól.",
+                "ro": "Atenție la orarul de iarnă, poate fi diferit.",
+                "en": "Check winter schedules as they may differ from summer."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse sind eine warme Zuflucht vor dem Seewind.",
+              "Prüfen Sie die saisonalen Fahrplanänderungen im Winter.",
+              "Zentrale Knotenpunkte sind gut beleuchtet und sicher.",
+              "Transit ist ideal für den frühen Sonnenuntergang."
+            ],
+            "hu": [
+              "A buszok meleg menedéket nyújtanak a tengeri szél elől.",
+              "Ellenőrizze a téli menetrendi változásokat.",
+              "A központi csomópontok jól megvilágítottak és biztonságosak.",
+              "A tömegközlekedés ideális a korai naplemente idején."
+            ],
+            "ro": [
+              "Autobuzele sunt un refugiu cald împotriva vântului marin.",
+              "Verificați modificările sezoniere ale orarului de iarnă.",
+              "Nodurile centrale sunt bine iluminate și sigure.",
+              "Transportul public este ideal pentru apusul timpuriu."
+            ],
+            "en": [
+              "Buses offer a warm escape from the chilly sea breeze.",
+              "Check for seasonal transit schedule changes in winter.",
+              "Central transit hubs are well-lit and safe in the evenings.",
+              "Public transport is perfect for getting around after early sunset."
+            ]
+          }
+        }
+      }
+    }
+  },
+  "external_resources": {
+    "tourism_office": "https://www.cambrils-turisme.com/",
+    "transit_official": "https://rodalies.gencat.cat/",
+    "events": "https://www.costabrava.org/",
+    "webcam": "https://www.skylinewebcams.com/en/webcam/espana/cataluna/tarragona/cambrils.html",
+    "parking_real_time": "https://www.parclick.es/",
+    "restaurants_booking": "https://www.thefork.com/",
+    "language_tips": {
+      "de": "Cambrils ist gastronomische Hauptstadt der Costa Daurada mit mehreren Michelin-Restaurants. Katalanisch und Spanisch dominieren, das Servicepersonal in Top-Restaurants spricht aber fließend Englisch und Französisch. 'Suquet de peix' ist das Gericht, das Sie probieren müssen.",
+      "hu": "Cambrils a Costa Daurada gasztroközpontja, több Michelin-csillagos étteremmel. Katalán és spanyol dominál, a csúcséttermek személyzete folyékonyan beszél angolul és franciául. A 'suquet de peix' (halrazsa) kötelező kóstoló.",
+      "ro": "Cambrils este capitala gastronomică a Costei Daurada, cu mai multe restaurante Michelin. Catalana și spaniola domină, dar personalul restaurantelor de top vorbește engleza și franceza fluent. 'Suquet de peix' e felul obligatoriu.",
+      "en": "Cambrils is the gastronomic capital of Costa Daurada with several Michelin restaurants. Catalan and Spanish dominate, but top-restaurant staff speak fluent English and French. 'Suquet de peix' (fish stew) is the dish you must try."
+    },
+    "best_time_to_visit": {
+      "de": "Mai bis Juni und September für Strand und Gastronomie ohne Trubel. Juli und August sind voll, vor allem mit Familien. Im November und Dezember Fischreichtum: 'galera' (Heuschreckenkrebse) sind dann Saison und in den Restaurants Hauptgericht.",
+      "hu": "Május-június és szeptember tökéletes strandhoz és gasztronómiához. Júliusban-augusztusban családi tömeg. November-decemberben a 'galera' (sáskarák) szezonja, az éttermek főspecialitása.",
+      "ro": "Mai-iunie și septembrie sunt ideale pentru plajă și gastronomie fără aglomerație. În iulie-august vine valul de familii. Noiembrie-decembrie e sezonul 'galera' (creveți-lăcustă), specialitatea momentului în restaurante.",
+      "en": "May-June and September are ideal for beach and food without crowds. July-August fill up with families. November-December bring 'galera' (mantis shrimp) season, the headline dish in restaurants."
+    },
+    "neighborhood_warnings": {
+      "de": "Cambrils ist sehr sicher, familienorientiert und ruhiger als Salou. Im Hafenviertel abends auf Taschendiebe achten. Achten Sie auf den Verkehr auf der Promenade, Radfahrer und Elektroroller sind dort sehr aktiv.",
+      "hu": "Cambrils nagyon biztonságos, családbarát, csendesebb mint Salou. A kikötőnegyedben este figyelj a zsebtolvajokra. A sétányon a forgalomra is, sok a bicikli és elektromos roller.",
+      "ro": "Cambrils este foarte sigur, prietenos cu familiile și mai liniștit decât Salou. Seara, în zona portului, atenție la buzunare. Pe promenadă, atenție la biciclete și trotinete electrice, sunt foarte active.",
+      "en": "Cambrils is very safe, family-oriented and quieter than Salou. Watch pickpockets in the harbour area at night. On the promenade watch for cyclists and e-scooters, they're very active."
+    }
+  }
+}

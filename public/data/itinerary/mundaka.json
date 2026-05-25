@@ -1,0 +1,2300 @@
+{
+  "city_id": "mundaka",
+  "anchor": {
+    "name": "Mundaka Harbor",
+    "coords": [
+      -2.6961,
+      43.4072
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 2.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Hafen von Mundaka",
+          "coords": [
+            -2.696,
+            43.4085
+          ],
+          "category": "industrial",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Beobachten Sie die bunten Boote.",
+            "hu": "Nézze meg a színes csónakokat.",
+            "ro": "Observați bărcile colorate.",
+            "en": "Watch the colorful boats."
+          }
+        },
+        {
+          "name": "Kirche Santa Maria",
+          "coords": [
+            -2.6965,
+            43.408
+          ],
+          "category": "churches",
+          "arrive_at": "10:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Schöne Fassade direkt am Meer.",
+            "hu": "Szép homlokzat közvetlenül a tengerparton.",
+            "ro": "Fațadă frumoasă direct pe malul mării.",
+            "en": "Beautiful facade right by the sea."
+          }
+        },
+        {
+          "name": "Aussichtspunkt Atalaya",
+          "coords": [
+            -2.6945,
+            43.41
+          ],
+          "category": "natural",
+          "arrive_at": "11:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bester Blick auf die Wellen.",
+            "hu": "Legjobb kilátás a hullámokra.",
+            "ro": "Cea mai bună vedere spre valuri.",
+            "en": "Best view of the waves."
+          }
+        },
+        {
+          "name": "Einsiedelei Santa Catalina",
+          "coords": [
+            -2.6925,
+            43.4095
+          ],
+          "category": "churches",
+          "arrive_at": "11:55",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Spektakuläre Lage auf der Landspitze.",
+            "hu": "Látványos fekvés a földnyelven.",
+            "ro": "Locație spectaculoasă pe promontoriu.",
+            "en": "Spectacular location on the headland."
+          }
+        },
+        {
+          "name": "Kulturzentrum Kurtzio",
+          "coords": [
+            -2.697,
+            43.407
+          ],
+          "category": "theatres",
+          "arrive_at": "13:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 100,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Lokale Kunst und Ausstellungen.",
+            "hu": "Helyi művészet és kiállítások.",
+            "ro": "Artă locală și expoziții.",
+            "en": "Local art and exhibitions."
+          }
+        },
+        {
+          "name": "Strand Laidatxu",
+          "coords": [
+            -2.698,
+            43.4045
+          ],
+          "category": "parks",
+          "arrive_at": "15:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entspannen am Flussufer.",
+            "hu": "Pihenés a folyóparton.",
+            "ro": "Relaxare pe malul râului.",
+            "en": "Relaxing by the riverbank."
+          }
+        },
+        {
+          "name": "Die Mundaka-Welle",
+          "coords": [
+            -2.694,
+            43.411
+          ],
+          "category": "natural",
+          "arrive_at": "16:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein Traum für Surfer.",
+            "hu": "A szörfösök álma.",
+            "ro": "Un vis pentru surferi.",
+            "en": "A surfer's dream."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mundaka ist das Herz des Urdaibai-Reservats. Wir spazieren vom charmanten Hafen zur Kirche am Wasser und weiter zur einsamen Kapelle Santa Catalina. Nachmittags genießen wir die Atmosphäre am Strand und beobachten die weltberühmte Welle.",
+        "hu": "Mundaka az Urdaibai-rezervátum szíve. A bájos kikötőtől a vízparti templomig sétálunk, majd tovább a magányos Santa Catalina kápolnához. Délután a strandon élvezzük a hangulatot és figyeljük a világhírű hullámot.",
+        "ro": "Mundaka este inima rezervației Urdaibai. Ne plimbăm de la portul fermecător la biserica de pe malul apei și mai departe spre capela solitară Santa Catalina. După-amiaza savurăm atmosfera de pe plajă și observăm valul faimos în întreaga lume.",
+        "en": "Mundaka is the heart of the Urdaibai reserve. We stroll from the charming harbor to the waterfront church and on to the solitary Santa Catalina chapel. In the afternoon, we enjoy the beach atmosphere and watch the world-famous wave."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Chipirones",
+            "tip": "Kleine Tintenfische in Tinte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Chipirones",
+            "tip": "Kis tintahalak tintában."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chipirones",
+            "tip": "Calamari mici în cerneală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Chipirones",
+            "tip": "Small squids in ink."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Santa Catalina Klippen",
+            "tip": "Absolute Ruhe am Atlantik.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Santa Catalina sziklák",
+            "tip": "Abszolút nyugalom az Atlanti-óceánnál.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stâncile Santa Catalina",
+            "tip": "Liniște absolută la Atlantic.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Santa Catalina Cliffs",
+            "tip": "Absolute peace by the Atlantic.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Surf-Shops",
+            "tip": "Coole Kleidung und Ausrüstung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szörfboltok",
+            "tip": "Menő ruhák és felszerelések."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de surf",
+            "tip": "Haine și echipamente cool."
+          }
+        ],
+        "en": [
+          {
+            "name": "Surf Shops",
+            "tip": "Cool clothing and equipment."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Bringen Sie ein Fernglas für Surfer mit.",
+          "Besuchen Sie die Stadt bei Ebbe."
+        ],
+        "hu": [
+          "Hozzon távcsövet a szörfösök megfigyeléséhez.",
+          "Apálykor látogassa meg a várost."
+        ],
+        "ro": [
+          "Aduceți binoclu pentru a vedea surferii.",
+          "Vizitați orașul în timpul refluxului."
+        ],
+        "en": [
+          "Bring binoculars to watch the surfers.",
+          "Visit the town during low tide."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mundaka ist das Herz des Urdaibai-Reservats. Wir spazieren vom charmanten Hafen zur Kirche am Wasser und weiter zur einsamen Kapelle Santa Catalina. Nachmittags genießen wir die Atmosphäre am Strand und beobachten die weltberühmte Welle.",
+            "hu": "Mundaka az Urdaibai-rezervátum szíve. A bájos kikötőtől a vízparti templomig sétálunk, majd tovább a magányos Santa Catalina kápolnához. Délután a strandon élvezzük a hangulatot és figyeljük a világhírű hullámot.",
+            "ro": "Mundaka este inima rezervației Urdaibai. Ne plimbăm de la portul fermecător la biserica de pe malul apei și mai departe spre capela solitară Santa Catalina. După-amiaza savurăm atmosfera de pe plajă și observăm valul faimos în întreaga lume.",
+            "en": "Mundaka is the heart of the Urdaibai reserve. We stroll from the charming harbor to the waterfront church and on to the solitary Santa Catalina chapel. In the afternoon, we enjoy the beach atmosphere and watch the world-famous wave."
+          },
+          "stops": [
+            {
+              "name": "Hafen von Mundaka",
+              "tip_5lang": {
+                "de": "Beobachten Sie die bunten Boote.",
+                "hu": "Nézze meg a színes csónakokat.",
+                "ro": "Observați bărcile colorate.",
+                "en": "Watch the colorful boats."
+              }
+            },
+            {
+              "name": "Kirche Santa Maria",
+              "tip_5lang": {
+                "de": "Schöne Fassade direkt am Meer.",
+                "hu": "Szép homlokzat közvetlenül a tengerparton.",
+                "ro": "Fațadă frumoasă direct pe malul mării.",
+                "en": "Beautiful facade right by the sea."
+              }
+            },
+            {
+              "name": "Aussichtspunkt Atalaya",
+              "tip_5lang": {
+                "de": "Bester Blick auf die Wellen.",
+                "hu": "Legjobb kilátás a hullámokra.",
+                "ro": "Cea mai bună vedere spre valuri.",
+                "en": "Best view of the waves."
+              }
+            },
+            {
+              "name": "Einsiedelei Santa Catalina",
+              "tip_5lang": {
+                "de": "Spektakuläre Lage auf der Landspitze.",
+                "hu": "Látványos fekvés a földnyelven.",
+                "ro": "Locație spectaculoasă pe promontoriu.",
+                "en": "Spectacular location on the headland."
+              }
+            },
+            {
+              "name": "Kulturzentrum Kurtzio",
+              "tip_5lang": {
+                "de": "Lokale Kunst und Ausstellungen.",
+                "hu": "Helyi művészet és kiállítások.",
+                "ro": "Artă locală și expoziții.",
+                "en": "Local art and exhibitions."
+              }
+            },
+            {
+              "name": "Strand Laidatxu",
+              "tip_5lang": {
+                "de": "Entspannen am Flussufer.",
+                "hu": "Pihenés a folyóparton.",
+                "ro": "Relaxare pe malul râului.",
+                "en": "Relaxing by the riverbank."
+              }
+            },
+            {
+              "name": "Die Mundaka-Welle",
+              "tip_5lang": {
+                "de": "Ein Traum für Surfer.",
+                "hu": "A szörfösök álma.",
+                "ro": "Un vis pentru surferi.",
+                "en": "A surfer's dream."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Chipirones",
+                "tip": "Kleine Tintenfische in Tinte."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Chipirones",
+                "tip": "Kis tintahalak tintában."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Chipirones",
+                "tip": "Calamari mici în cerneală."
+              }
+            ],
+            "en": [
+              {
+                "name": "Chipirones",
+                "tip": "Small squids in ink."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Santa Catalina Klippen",
+                "tip": "Absolute Ruhe am Atlantik.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Santa Catalina sziklák",
+                "tip": "Abszolút nyugalom az Atlanti-óceánnál.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Stâncile Santa Catalina",
+                "tip": "Liniște absolută la Atlantic.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Santa Catalina Cliffs",
+                "tip": "Absolute peace by the Atlantic.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Surf-Shops",
+                "tip": "Coole Kleidung und Ausrüstung."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Szörfboltok",
+                "tip": "Menő ruhák és felszerelések."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Magazine de surf",
+                "tip": "Haine și echipamente cool."
+              }
+            ],
+            "en": [
+              {
+                "name": "Surf Shops",
+                "tip": "Cool clothing and equipment."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Bringen Sie ein Fernglas für Surfer mit.",
+              "Besuchen Sie die Stadt bei Ebbe."
+            ],
+            "hu": [
+              "Hozzon távcsövet a szörfösök megfigyeléséhez.",
+              "Apálykor látogassa meg a várost."
+            ],
+            "ro": [
+              "Aduceți binoclu pentru a vedea surferii.",
+              "Vizitați orașul în timpul refluxului."
+            ],
+            "en": [
+              "Bring binoculars to watch the surfers.",
+              "Visit the town during low tide."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Morgen beginnt am Hafen, wo der Nebel mystisch über dem Wasser hängt. Mittags bietet die Kirche Santa Maria einen trockenen Rückzugsort voller Geschichte. Am Nachmittag nutzen wir das Kulturzentrum Kurtzio als perfekten Unterschlupf vor dem Guss. Den Abend verbringen wir geschützt in Hafennähe, während wir die stürmische Brandung des Atlantiks beobachten.",
+            "hu": "A ködös, esős reggel a kikötőben indul, ahol a szürke égbolt és a tenger összeolvad. Délben a Santa Maria templom vastag falai között találunk menedéket és nyugalmat. Délután a Kurtzio kulturális központ modern épülete nyújt száraz pihenőt a látogatóknak. Az estét a part közelében, fedett helyen zárjuk, figyelve az óceán erejét a szakadó esőben.",
+            "ro": "O dimineață ploioasă începe în port, unde ceața atârnă mistic deasupra apei. La prânz, biserica Santa Maria oferă un refugiu uscat și plin de istorie. După-amiază, folosim centrul cultural Kurtzio ca adăpost perfect împotriva averselor. Seara ne-o petrecem protejați lângă port, observând valurile furtunoase ale Atlanticului în timp ce ploaia cade neîncetat.",
+            "en": "A rainy morning begins at the harbor, where mist hangs mystically over the water. At noon, Santa Maria Church offers a dry sanctuary full of history. In the afternoon, we use the Kurtzio Cultural Center as a perfect shelter from the downpour. We spend the evening protected near the harbor, watching the stormy Atlantic surf as the rain falls steadily."
+          },
+          "stops": [
+            {
+              "name": "Hafen von Mundaka",
+              "tip_5lang": {
+                "de": "Vorsicht, die Steinmauern sind bei Regen extrem rutschig.",
+                "hu": "Vigyázat, a kőfalak esőben rendkívül csúszósak lehetnek.",
+                "ro": "Atenție, zidurile de piatră sunt extrem de alunecoase pe ploaie.",
+                "en": "Careful, the stone walls are extremely slippery when wet."
+              }
+            },
+            {
+              "name": "Kirche Santa Maria",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um einen heftigen Schauer abzuwarten.",
+                "hu": "Ideális helyszín egy nagyobb zápor átvészelésére.",
+                "ro": "Un loc ideal pentru a aștepta trecerea unei averse puternice.",
+                "en": "An ideal place to wait out a heavy downpour."
+              }
+            },
+            {
+              "name": "Aussichtspunkt Atalaya",
+              "tip_5lang": {
+                "de": "Regenschirm festthalten, der Wind kann hier oben stark sein.",
+                "hu": "Fogja erősen az esernyőt, a szél itt nagyon feltámadhat.",
+                "ro": "Țineți umbrela bine, vântul poate fi puternic aici sus.",
+                "en": "Hold your umbrella tight, the wind can be strong up here."
+              }
+            },
+            {
+              "name": "Einsiedelei Santa Catalina",
+              "tip_5lang": {
+                "de": "Der Weg ist ungeschützt, wasserdichte Kleidung ist Pflicht.",
+                "hu": "Az út teljesen nyitott, vízálló ruházat kötelező.",
+                "ro": "Drumul este neprotejat, îmbrăcămintea impermeabilă este obligatorie.",
+                "en": "The path is unsheltered; waterproof clothing is a must."
+              }
+            },
+            {
+              "name": "Kulturzentrum Kurtzio",
+              "tip_5lang": {
+                "de": "Die Ausstellungen drinnen sind die beste Flucht vor dem Regen.",
+                "hu": "A benti kiállítások jelentik a legjobb menekülést az eső elől.",
+                "ro": "Expozițiile din interior sunt cea mai bună evadare din ploaie.",
+                "en": "The indoor exhibitions are the best escape from the rain."
+              }
+            },
+            {
+              "name": "Strand Laidatxu",
+              "tip_5lang": {
+                "de": "Vom Café aus die Wellen beobachten, statt nass zu werden.",
+                "hu": "A kávézóból figyelje a hullámokat, ahelyett hogy megázna.",
+                "ro": "Observați valurile din cafenea în loc să vă udați pe plajă.",
+                "en": "Watch the waves from a cafe instead of getting wet on the beach."
+              }
+            },
+            {
+              "name": "Die Mundaka-Welle",
+              "tip_5lang": {
+                "de": "Regen bedeutet oft gute Wellen; Fernglas mitbringen.",
+                "hu": "Az eső gyakran jó hullámokat jelent; hozzon távcsövet.",
+                "ro": "Ploaia înseamnă adesea valuri bune; aduceți binoclul.",
+                "en": "Rain often means good waves; bring binoculars for viewing."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie feste Wanderschuhe mit gutem Grip für nasse Pflastersteine.",
+              "Die Cafés am Hafen sind gemütliche Rückzugsorte bei Dauerregen.",
+              "Nutzen Sie die Arkaden der Altstadt als natürlichen Regenschutz.",
+              "Wasserdichte Handyhüllen sind wichtig für Fotos an der Küste.",
+              "Der Wind treibt den Regen oft horizontal, Ponchos sind besser als Schirme."
+            ],
+            "hu": [
+              "Viseljen jó tapadású túracipőt a nedves macskaköveken.",
+              "A kikötői kávézók hangulatos menedékek tartós eső esetén.",
+              "Használja az óváros árkádjait természetes esővédelemként.",
+              "A vízálló telefontok elengedhetetlen a parti fotózáshoz.",
+              "A szél gyakran vízszintesen fújja az esőt, a poncsó jobb, mint az ernyő."
+            ],
+            "ro": [
+              "Purtați pantofi de drumeție cu aderență bună pentru pavajul ud.",
+              "Cafenelele din port sunt refugii primitoare în caz de ploaie continuă.",
+              "Folosiți arcadele orașului vechi ca protecție naturală împotriva ploii.",
+              "Husele impermeabile pentru telefon sunt esențiale pentru poze pe coastă.",
+              "Vântul suflă ploaia orizontal, pelerinele sunt mai bune decât umbrelele."
+            ],
+            "en": [
+              "Wear hiking shoes with good grip for the wet cobblestones.",
+              "Harbor cafes are cozy retreats during persistent rain.",
+              "Use the Old Town arcades as natural rain protection.",
+              "Waterproof phone cases are essential for coastal photography.",
+              "Wind often blows rain horizontally; ponchos are better than umbrellas."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kühler Wintermorgen am Hafen erfordert warme Kleidung gegen die Meeresbrise. Mittags wärmen wir uns in den historischen Hallen von Santa Maria auf. Am Nachmittag bietet die Atalaya einen dramatischen Blick auf die Winterwellen, bevor die Sonne früh sinkt. Den Abend genießen wir bei lokalem Wein in einer beheizten Bar, während die Kälte draußen bleibt.",
+            "hu": "A hűvös téli reggel a kikötőben réteges öltözetet igényel a tengeri szél ellen. Délben a Santa Maria templom történelmi falai között melegszünk fel. Délután az Atalaya pontról csodáljuk a drámai téli hullámokat a korai naplemente előtt. Az estét helyi bor mellett, egy fűtött bárban töltjük, távol a kinti hidegtől.",
+            "ro": "O dimineață răcoroasă de iarnă în port necesită haine groase împotriva brizei marine. La prânz ne încălzim în halele istorice din Santa Maria. După-amiază, Atalaya oferă o vedere dramatică asupra valurilor de iarnă înainte ca soarele să apună devreme. Seara savurăm un vin local într-un bar încălzit, lăsând frigul afară.",
+            "en": "A chilly winter morning at the harbor requires warm layers against the sea breeze. At noon, we warm up within the historic halls of Santa Maria. In the afternoon, Atalaya offers a dramatic view of winter waves before the sun sets early. We enjoy the evening with local wine in a heated bar, leaving the cold outside."
+          },
+          "stops": [
+            {
+              "name": "Hafen von Mundaka",
+              "tip_5lang": {
+                "de": "Die Gischt ist im Winter kälter, Mütze aufsetzen.",
+                "hu": "A tengeri permet télen hidegebb, viseljen sapkát.",
+                "ro": "Stropii de mare sunt mai reci iarna, puneți-vă căciula.",
+                "en": "The sea spray is colder in winter; keep your hat on."
+              }
+            },
+            {
+              "name": "Kirche Santa Maria",
+              "tip_5lang": {
+                "de": "Oft wärmer als draußen, nutzen Sie die Ruhe.",
+                "hu": "Gyakran melegebb, mint kint, élvezze a csendet.",
+                "ro": "Adesea mai cald decât afară, profitați de liniște.",
+                "en": "Often warmer than outside; enjoy the interior peace."
+              }
+            },
+            {
+              "name": "Aussichtspunkt Atalaya",
+              "tip_5lang": {
+                "de": "Bester Platz für den frühen Sonnenuntergang gegen 17:45 Uhr.",
+                "hu": "A legjobb hely a korai, 17:45 körüli naplementéhez.",
+                "ro": "Cel mai bun loc pentru apusul devreme, în jurul orei 17:45.",
+                "en": "Best spot for the early sunset around 5:45 PM."
+              }
+            },
+            {
+              "name": "Einsiedelei Santa Catalina",
+              "tip_5lang": {
+                "de": "Starker Wind im Winter; winddichte Jacke einpacken.",
+                "hu": "Erős szél télen; vigyen szélálló kabátot.",
+                "ro": "Vânt puternic iarna; luați o jachetă rezistentă la vânt.",
+                "en": "Strong winds in winter; pack a windproof jacket."
+              }
+            },
+            {
+              "name": "Kulturzentrum Kurtzio",
+              "tip_5lang": {
+                "de": "Perfekt für eine Aufwärmpause am frühen Nachmittag.",
+                "hu": "Tökéletes egy melegedő szünetre kora délután.",
+                "ro": "Perfect pentru o pauză de încălzire după-amiaza devreme.",
+                "en": "Perfect for a warming break in the early afternoon."
+              }
+            },
+            {
+              "name": "Strand Laidatxu",
+              "tip_5lang": {
+                "de": "Im Winter fast leer, ideal für einsame Spaziergänge.",
+                "hu": "Télen szinte üres, ideális magányos sétákhoz.",
+                "ro": "Aproape pustie iarna, ideală pentru plimbări solitare.",
+                "en": "Almost empty in winter, ideal for solitary walks."
+              }
+            },
+            {
+              "name": "Die Mundaka-Welle",
+              "tip_5lang": {
+                "de": "Hauptsaison für Profi-Surfer; beeindruckende Riesenwellen.",
+                "hu": "Profi szörfösök főszezonja; lenyűgöző óriáshullámok.",
+                "ro": "Sezonul principal pentru surferi; valuri uriașe impresionante.",
+                "en": "Peak season for pro surfers; impressive giant waves."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Der Sonnenuntergang ist im Winter viel spektakulärer.",
+              "Viele kleine Läden schließen im Winter früher, planen Sie Einkäufe bis 18 Uhr.",
+              "Warme Getränke wie 'Cola Cao' sind jetzt besonders beliebt.",
+              "Zwiebelprinzip bei der Kleidung schützt vor dem wechselhaften Küstenwind.",
+              "Achten Sie auf Gezeiten: Winterstürme drücken das Wasser weit hoch."
+            ],
+            "hu": [
+              "A naplemente télen sokkal látványosabb a tenger felett.",
+              "Sok kis bolt korábban zár télen, intézze a vásárlást 18 óráig.",
+              "A meleg italok, mint a 'Cola Cao', ilyenkor különösen népszerűek.",
+              "A réteges öltözködés véd a változékony parti széltől.",
+              "Figyeljen az árapályra: a téli viharok magasra tolják a vizet."
+            ],
+            "ro": [
+              "Apusul de soare este mult mai spectaculos iarna peste mare.",
+              "Multe magazine mici închid mai devreme iarna, planificați cumpărăturile până la 18.",
+              "Băuturile calde precum 'Cola Cao' sunt acum foarte populare.",
+              "Principiul straturilor în îmbrăcăminte protejează de vântul schimbător.",
+              "Atenție la maree: furtunile de iarnă împing apa foarte sus."
+            ],
+            "en": [
+              "Sunsets are much more spectacular over the sea in winter.",
+              "Many small shops close earlier in winter; plan shopping by 6 PM.",
+              "Warm drinks like 'Cola Cao' are especially popular now.",
+              "Layered clothing protects against the changeable coastal wind.",
+              "Watch the tides: winter storms push the water high up."
+            ]
+          }
+        }
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "14:45",
+      "total_km": 10.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Hafen von Mundaka",
+          "coords": [
+            -2.696,
+            43.4085
+          ],
+          "category": "industrial",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bester Startplatz.",
+            "hu": "Legjobb indulópont.",
+            "ro": "Cel mai bun loc de start.",
+            "en": "Best starting point."
+          }
+        },
+        {
+          "name": "Einsiedelei Santa Catalina",
+          "coords": [
+            -2.6925,
+            43.4095
+          ],
+          "category": "churches",
+          "arrive_at": "09:55",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Einfacher Weg mit Aussicht.",
+            "hu": "Könnyű út kilátással.",
+            "ro": "Drum ușor cu priveliște.",
+            "en": "Easy path with views."
+          }
+        },
+        {
+          "name": "Küstenweg nach Bermeo",
+          "coords": [
+            -2.71,
+            43.415
+          ],
+          "category": "natural",
+          "arrive_at": "11:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Wellenrauschen inklusive.",
+            "hu": "A hullámok zúgása végigkísér.",
+            "ro": "Sunetul valurilor inclus.",
+            "en": "Sound of the waves included."
+          }
+        },
+        {
+          "name": "Palast von Larrinaga",
+          "coords": [
+            -2.698,
+            43.408
+          ],
+          "category": "residences",
+          "arrive_at": "12:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Eleganter Adelspalast.",
+            "hu": "Elegáns nemesi palota.",
+            "ro": "Palat nobiliar elegant.",
+            "en": "Elegant noble palace."
+          }
+        },
+        {
+          "name": "Aussichtspunkt Atalaya",
+          "coords": [
+            -2.6945,
+            43.41
+          ],
+          "category": "natural",
+          "arrive_at": "13:30",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Pause vor dem Rückweg.",
+            "hu": "Pihenő a visszatérés előtt.",
+            "ro": "Pauză înainte de întoarcere.",
+            "en": "Break before heading back."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Radtour verbindet Mundaka mit der rauen Küstenlandschaft. Wir fahren zur Kapelle und erkunden den Weg Richtung Bermeo, bevor wir die herrschaftlichen Paläste der Stadt bewundern.",
+        "hu": "Ez a kerékpártúra összeköti Mundakát a vad tengerparti tájjal. Eltekerünk a kápolnához, felfedezzük a Bermeo felé vezető utat, majd megcsodáljuk a város úri palotáit.",
+        "ro": "Acest tur cu bicicleta conectează Mundaka cu peisajul costier sălbatic. Pedalam spre capelă și explorăm drumul spre Bermeo înainte de a admira palatele impunătoare ale orașului.",
+        "en": "This bike tour connects Mundaka with the rugged coastal landscape. We cycle to the chapel and explore the path towards Bermeo before admiring the town's stately palaces."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Marmitako",
+            "tip": "Thunfisch-Eintopf."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Marmitako",
+            "tip": "Tonhalas egytálétel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Marmitako",
+            "tip": "Tocăniță de ton."
+          }
+        ],
+        "en": [
+          {
+            "name": "Marmitako",
+            "tip": "Tuna stew."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Urdaibai Ufer",
+            "tip": "Vogelbeobachtung möglich.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Urdaibai part",
+            "tip": "Madármegfigyelés lehetséges.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul Urdaibai",
+            "tip": "Observarea păsărilor este posibilă.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Urdaibai Banks",
+            "tip": "Bird watching possible.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kunstgalerien",
+            "tip": "Lokale maritime Kunst."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Művészeti galériák",
+            "tip": "Helyi tengeri tematikájú művészet."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Galerii de artă",
+            "tip": "Artă maritimă locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Art Galleries",
+            "tip": "Local maritime art."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein E-Bike für die Hügel.",
+          "Achten Sie auf Wanderer auf dem Küstenweg."
+        ],
+        "hu": [
+          "Béreljen elektromos biciklit a dombokhoz.",
+          "Vigyázzon a gyalogosokra a parti úton."
+        ],
+        "ro": [
+          "Închiriați o bicicletă electrică pentru dealuri.",
+          "Atenție la drumeți pe poteca de coastă."
+        ],
+        "en": [
+          "Rent an e-bike for the hills.",
+          "Watch out for hikers on the coastal path."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Diese Radtour verbindet Mundaka mit der rauen Küstenlandschaft. Wir fahren zur Kapelle und erkunden den Weg Richtung Bermeo, bevor wir die herrschaftlichen Paläste der Stadt bewundern.",
+            "hu": "Ez a kerékpártúra összeköti Mundakát a vad tengerparti tájjal. Eltekerünk a kápolnához, felfedezzük a Bermeo felé vezető utat, majd megcsodáljuk a város úri palotáit.",
+            "ro": "Acest tur cu bicicleta conectează Mundaka cu peisajul costier sălbatic. Pedalam spre capelă și explorăm drumul spre Bermeo înainte de a admira palatele impunătoare ale orașului.",
+            "en": "This bike tour connects Mundaka with the rugged coastal landscape. We cycle to the chapel and explore the path towards Bermeo before admiring the town's stately palaces."
+          },
+          "stops": [
+            {
+              "name": "Hafen von Mundaka",
+              "tip_5lang": {
+                "de": "Bester Startplatz.",
+                "hu": "Legjobb indulópont.",
+                "ro": "Cel mai bun loc de start.",
+                "en": "Best starting point."
+              }
+            },
+            {
+              "name": "Einsiedelei Santa Catalina",
+              "tip_5lang": {
+                "de": "Einfacher Weg mit Aussicht.",
+                "hu": "Könnyű út kilátással.",
+                "ro": "Drum ușor cu priveliște.",
+                "en": "Easy path with views."
+              }
+            },
+            {
+              "name": "Küstenweg nach Bermeo",
+              "tip_5lang": {
+                "de": "Wellenrauschen inklusive.",
+                "hu": "A hullámok zúgása végigkísér.",
+                "ro": "Sunetul valurilor inclus.",
+                "en": "Sound of the waves included."
+              }
+            },
+            {
+              "name": "Palast von Larrinaga",
+              "tip_5lang": {
+                "de": "Eleganter Adelspalast.",
+                "hu": "Elegáns nemesi palota.",
+                "ro": "Palat nobiliar elegant.",
+                "en": "Elegant noble palace."
+              }
+            },
+            {
+              "name": "Aussichtspunkt Atalaya",
+              "tip_5lang": {
+                "de": "Pause vor dem Rückweg.",
+                "hu": "Pihenő a visszatérés előtt.",
+                "ro": "Pauză înainte de întoarcere.",
+                "en": "Break before heading back."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Marmitako",
+                "tip": "Thunfisch-Eintopf."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Marmitako",
+                "tip": "Tonhalas egytálétel."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Marmitako",
+                "tip": "Tocăniță de ton."
+              }
+            ],
+            "en": [
+              {
+                "name": "Marmitako",
+                "tip": "Tuna stew."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Urdaibai Ufer",
+                "tip": "Vogelbeobachtung möglich.",
+                "emoji": "🍃"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Urdaibai part",
+                "tip": "Madármegfigyelés lehetséges.",
+                "emoji": "🍃"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Malul Urdaibai",
+                "tip": "Observarea păsărilor este posibilă.",
+                "emoji": "🍃"
+              }
+            ],
+            "en": [
+              {
+                "name": "Urdaibai Banks",
+                "tip": "Bird watching possible.",
+                "emoji": "🍃"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Kunstgalerien",
+                "tip": "Lokale maritime Kunst."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Művészeti galériák",
+                "tip": "Helyi tengeri tematikájú művészet."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Galerii de artă",
+                "tip": "Artă maritimă locală."
+              }
+            ],
+            "en": [
+              {
+                "name": "Art Galleries",
+                "tip": "Local maritime art."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Mieten Sie ein E-Bike für die Hügel.",
+              "Achten Sie auf Wanderer auf dem Küstenweg."
+            ],
+            "hu": [
+              "Béreljen elektromos biciklit a dombokhoz.",
+              "Vigyázzon a gyalogosokra a parti úton."
+            ],
+            "ro": [
+              "Închiriați o bicicletă electrică pentru dealuri.",
+              "Atenție la drumeți pe poteca de coastă."
+            ],
+            "en": [
+              "Rent an e-bike for the hills.",
+              "Watch out for hikers on the coastal path."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Radtag startet vorsichtig am Hafen auf nassen Wegen. Mittags radeln wir zur Einsiedelei Santa Catalina, wobei Pfützen den Weg abenteuerlich machen. Am Nachmittag führt der Küstenweg nach Bermeo durch neblige Wälder mit frischer Luft. Abends kehren wir durchnässt, aber belebt zurück und freuen uns auf eine warme Dusche.",
+            "hu": "Az esős bringás nap óvatosan indul a kikötő nedves útjain. Délben a Santa Catalina kápolnához tekerünk, ahol a tócsák kalandossá teszik az utat. Délután a Bermeo felé vezető parti út ködös erdőkön és friss levegőn át vezet. Estére átázva, de felfrissülve térünk vissza egy forró zuhany reményében.",
+            "ro": "O zi ploioasă cu bicicleta începe cu prudență pe drumurile ude din port. La prânz pedalăm spre schitul Santa Catalina, unde bălțile fac drumul aventuros. După-amiază, drumul de coastă spre Bermeo trece prin păduri cețoase. Seara ne întoarcem udați, dar revigorați, așteptând un duș cald.",
+            "en": "A rainy biking day starts cautiously on the wet roads of the harbor. At noon, we pedal to Santa Catalina Hermitage, where puddles make the path adventurous. In the afternoon, the coastal path to Bermeo leads through misty forests and fresh air. By evening, we return soaked but invigorated, looking forward to a warm shower."
+          },
+          "stops": [
+            {
+              "name": "Hafen von Mundaka",
+              "tip_5lang": {
+                "de": "Vorsicht beim Anfahren auf nassem Kopfsteinpflaster.",
+                "hu": "Vigyázat az indulásnál a nedves macskaköveken.",
+                "ro": "Atenție la pornire pe pavajul umed.",
+                "en": "Be careful when starting on wet cobblestones."
+              }
+            },
+            {
+              "name": "Einsiedelei Santa Catalina",
+              "tip_5lang": {
+                "de": "Der Boden kann hier schlammig sein, Schutzbleche helfen.",
+                "hu": "A talaj itt sáros lehet, a sárvédő sokat segít.",
+                "ro": "Solul poate fi noroios aici, apărătorile ajută.",
+                "en": "The ground can be muddy here; fenders will help."
+              }
+            },
+            {
+              "name": "Küstenweg nach Bermeo",
+              "tip_5lang": {
+                "de": "Bei starkem Regen ist die Sicht eingeschränkt, Licht an.",
+                "hu": "Heves esőben korlátozott a látótávolság, kapcsolja be a lámpát.",
+                "ro": "În ploaie torențială vizibilitatea e redusă, aprindeți luminile.",
+                "en": "Visibility is limited in heavy rain; turn on your lights."
+              }
+            },
+            {
+              "name": "Palast von Larrinaga",
+              "tip_5lang": {
+                "de": "Fahrrad im trockenen Bereich unter den Bäumen parken.",
+                "hu": "Parkolja le a biciklit a fák alatti szárazabb részen.",
+                "ro": "Parcați bicicleta în zona uscată de sub copaci.",
+                "en": "Park your bike in the dry area under the trees."
+              }
+            },
+            {
+              "name": "Aussichtspunkt Atalaya",
+              "tip_5lang": {
+                "de": "Die Abfahrt zur Stadt ist bei Nässe rutschig, bremsen bereit.",
+                "hu": "A városba vezető lejtő vizesen csúszik, legyen készen a fékezésre.",
+                "ro": "Coborârea spre oraș este alunecoasă pe ud, fiți gata de frânare.",
+                "en": "The descent to town is slippery when wet; be ready to brake."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie Scheibenbremsen, wenn möglich, für bessere Bremskraft bei Nässe.",
+              "Tragen Sie eine neonfarbene Regenjacke für bessere Sichtbarkeit.",
+              "Vermeiden Sie das Überfahren von Fahrbahnmarkierungen, sie sind spiegelglatt.",
+              "Prüfen Sie den Reifendruck; etwas weniger Druck erhöht die Haftung.",
+              "Ein Plastikbeutel über dem Sattel hält diesen beim Parken trocken."
+            ],
+            "hu": [
+              "Használjon tárcsaféket a jobb fékhatás érdekében nedves időben.",
+              "Viseljen neon színű esőkabátot a jobb láthatóságért.",
+              "Kerülje az útburkolati jeleken való áthaladást, mert tükörsimák.",
+              "Ellenőrizze a guminyomást; a kicsit kisebb nyomás növeli a tapadást.",
+              "Egy műanyag zacskó a nyergen szárazon tartja azt parkoláskor."
+            ],
+            "ro": [
+              "Folosiți frâne pe disc pentru o forță de frânare mai bună pe ud.",
+              "Purtați o jachetă de ploaie neon pentru o vizibilitate mai bună.",
+              "Evitați trecerea peste marcajele rutiere, sunt extrem de alunecoase.",
+              "Verificați presiunea în pneuri; o presiune mai mică crește aderența.",
+              "O pungă de plastic peste șa o menține uscată în timpul parcării."
+            ],
+            "en": [
+              "Use disc brakes if possible for better stopping power in the wet.",
+              "Wear a neon rain jacket for better visibility.",
+              "Avoid riding over road markings; they are slippery as ice.",
+              "Check tire pressure; slightly lower pressure increases grip.",
+              "A plastic bag over the saddle keeps it dry while parked."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Wintertag beginnt mit einer schnellen Fahrt am Hafen, um warm zu werden. Mittags radeln wir zur windigen Klippe von Santa Catalina, wo der Ausblick atemberaubend klar ist. Am Nachmittag fordert uns der Küstenweg nach Bermeo mit knackigen Steigungen und Wintersonne heraus. Abends beenden wir die Tour vor Einbruch der Dunkelheit im beleuchteten Stadtkern.",
+            "hu": "A fagyos téli nap gyors tekeréssel indul a kikötőben, hogy bemelegedjünk. Délben a szeles Santa Catalina sziklához tekerünk, ahol a kilátás lélegzetelállítóan tiszta. Délután a Bermeo felé vezető parti út kemény emelkedői és a téli napsütés ad kihívást. Estére, még sötétedés előtt fejezzük be a túrát a kivilágított városközpontban.",
+            "ro": "O zi geroasă de iarnă începe cu o tură rapidă în port pentru a ne încălzi. La prânz pedalăm spre stânca vântoasă Santa Catalina, unde priveliștea este incredibil de clară. După-amiază, drumul de coastă spre Bermeo ne provoacă cu urcări grele și soare de iarnă. Seara încheiem turul înainte de lăsarea întunericului în centrul luminat.",
+            "en": "A frosty winter day starts with a fast ride at the harbor to warm up. At noon, we pedal to the windy cliff of Santa Catalina, where the view is breathtakingly clear. In the afternoon, the coastal path to Bermeo challenges us with steep climbs and winter sun. By evening, we finish the tour before dark in the illuminated town center."
+          },
+          "stops": [
+            {
+              "name": "Hafen von Mundaka",
+              "tip_5lang": {
+                "de": "Tragen Sie Handschuhe, der Fahrtwind ist eisig.",
+                "hu": "Viseljen kesztyűt, a menetszél jeges lehet.",
+                "ro": "Purtați mănuși, vântul la pedalare este înghețat.",
+                "en": "Wear gloves; the wind chill while riding is icy."
+              }
+            },
+            {
+              "name": "Einsiedelei Santa Catalina",
+              "tip_5lang": {
+                "de": "Wunderschönes Winterlicht für Fotos, aber sehr windig.",
+                "hu": "Gyönyörű téli fények fotózáshoz, de nagyon szeles.",
+                "ro": "Lumină de iarnă superbă pentru poze, dar foarte vântos.",
+                "en": "Beautiful winter light for photos, but very windy."
+              }
+            },
+            {
+              "name": "Küstenweg nach Bermeo",
+              "tip_5lang": {
+                "de": "Im Schatten kann es glatt sein, Vorsicht in Kurven.",
+                "hu": "Az árnyékos részeken jeges lehet, vigyázzon a kanyarokban.",
+                "ro": "În umbră poate fi gheață, atenție în curbe.",
+                "en": "It can be slippery in the shade; be careful in turns."
+              }
+            },
+            {
+              "name": "Palast von Larrinaga",
+              "tip_5lang": {
+                "de": "Kurze Pause im Windschatten der Mauern.",
+                "hu": "Rövid pihenő a falak szélárnyékában.",
+                "ro": "Scurtă pauză la adăpostul zidurilor.",
+                "en": "Short break in the wind shadow of the walls."
+              }
+            },
+            {
+              "name": "Aussichtspunkt Atalaya",
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Sicht bis zur Izaro-Insel.",
+                "hu": "Élvezze a tiszta kilátást egészen az Izaro-szigetig.",
+                "ro": "Bucurați-vă de vederea clară până la insula Izaro.",
+                "en": "Enjoy the clear view all the way to Izaro Island."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Funktionsunterwäsche, um den Schweiß vom Körper wegzuleiten.",
+              "Fetten Sie Ihre Kette öfter ein, Streusalz kann Korrosion verursachen.",
+              "Die Sonne geht im Winter gegen 17:30 Uhr unter, Licht ist Pflicht.",
+              "Halten Sie die Pausen kurz, um nicht auszukühlen.",
+              "Eine Thermoskanne mit warmem Tee im Flaschenhalter ist Gold wert."
+            ],
+            "hu": [
+              "Viseljen technikai aláöltözetet, hogy elvezesse az izzadságot.",
+              "Zsírozza gyakrabban a láncot, az útszóró só korróziót okozhat.",
+              "A nap 17:30 körül nyugszik télen, a világítás kötelező.",
+              "Tartsa röviden a szüneteket, hogy ne hűljön ki a teste.",
+              "Egy termosz meleg teával a kulacstartóban aranyat ér."
+            ],
+            "ro": [
+              "Purtați lenjerie funcțională pentru a elimina transpirația.",
+              "Gresați lanțul mai des, sarea de pe drum poate cauza coroziune.",
+              "Soarele apune în jur de 17:30 iarna, luminile sunt obligatorii.",
+              "Păstrați pauzele scurte pentru a nu vă răci corpul.",
+              "Un termos cu ceai cald în suportul de bidon valorează aur."
+            ],
+            "en": [
+              "Wear base layers to wick sweat away from your body.",
+              "Lube your chain more often; road salt can cause corrosion.",
+              "The sun sets around 5:30 PM in winter; lights are mandatory.",
+              "Keep breaks short to avoid cooling down too much.",
+              "A thermos with warm tea in the bottle cage is worth its weight in gold."
+            ]
+          }
+        }
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "15:30",
+      "total_km": 15.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "San Juan de Gaztelugatxe (Nahansicht)",
+          "coords": [
+            -2.785,
+            43.447
+          ],
+          "category": "natural",
+          "arrive_at": "09:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 10.0,
+          "tip_5lang": {
+            "de": "Tickets unbedingt vorab buchen.",
+            "hu": "A jegyeket mindenképpen előre foglalja le.",
+            "ro": "Rezervați biletele neapărat în avans.",
+            "en": "Essential to book tickets in advance."
+          }
+        },
+        {
+          "name": "Palast von Larrinaga",
+          "coords": [
+            -2.698,
+            43.408
+          ],
+          "category": "residences",
+          "arrive_at": "11:40",
+          "stay_min": 45,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Prachtvolles Gebäude.",
+            "hu": "Pompás épület.",
+            "ro": "Clădire magnifică.",
+            "en": "Magnificent building."
+          }
+        },
+        {
+          "name": "Hafen von Mundaka",
+          "coords": [
+            -2.696,
+            43.4085
+          ],
+          "category": "industrial",
+          "arrive_at": "12:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Parken am Stadtrand empfohlen.",
+            "hu": "Parkolás a város szélén javasolt.",
+            "ro": "Parcare recomandată la marginea orașului.",
+            "en": "Parking at the edge of town recommended."
+          }
+        },
+        {
+          "name": "Kirche Santa Maria",
+          "coords": [
+            -2.6965,
+            43.408
+          ],
+          "category": "churches",
+          "arrive_at": "14:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Kühles Inneres an heißen Tagen.",
+            "hu": "Hűvös belső tér meleg napokon.",
+            "ro": "Interior răcoros în zilele toride.",
+            "en": "Cool interior on hot days."
+          }
+        },
+        {
+          "name": "Aussichtspunkt Atalaya",
+          "coords": [
+            -2.6945,
+            43.41
+          ],
+          "category": "natural",
+          "arrive_at": "14:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Panoramablick genießen.",
+            "hu": "Élvezze a panorámát.",
+            "ro": "Bucurați-vă de panoramă.",
+            "en": "Enjoy the panoramic view."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto besuchen wir erst das ikonische Gaztelugatxe, bevor wir nach Mundaka zurückkehren. Wir schlendern durch den Hafen und die Altstadt und genießen die Ausblicke auf das Biosphärenreservat.",
+        "hu": "Autóval először az ikonikus Gaztelugatxe-t látogatjuk meg, majd visszatérünk Mundakába. Végigsétálunk a kikötőn és az óvároson, élvezve a bioszféra-rezervátum látványát.",
+        "ro": "Cu mașina vizităm mai întâi iconicul Gaztelugatxe înainte de a reveni în Mundaka. Ne plimbăm prin port și centrul vechi, bucurându-ne de vederea spre rezervația biosferei.",
+        "en": "By car, we first visit the iconic Gaztelugatxe before returning to Mundaka. We stroll through the port and the old town, enjoying the views of the biosphere reserve."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bacalao a la Vizcaína",
+            "tip": "Kabeljau nach Vizcaya-Art."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bacalao a la Vizcaína",
+            "tip": "Tőkehal Vizcayai módra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bacalao a la Vizcaína",
+            "tip": "Cod în stil Vizcaya."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bacalao a la Vizcaína",
+            "tip": "Cod Vizcaya style."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Atalaya Park",
+            "tip": "Schatten unter Bäumen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Atalaya park",
+            "tip": "Árnyék a fák alatt.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Atalaya",
+            "tip": "Umbră sub copaci.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Atalaya Park",
+            "tip": "Shade under the trees.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Feinkost",
+            "tip": "Konserven und Olivenöl."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi delikátesz",
+            "tip": "Konzervált termékek és olívaolaj."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Delicii locale",
+            "tip": "Conserve și ulei de măsline."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Delicatessen",
+            "tip": "Canned goods and olive oil."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Gaztelugatxe ist 20 Min. Fahrt entfernt.",
+          "Parkplätze im Zentrum sind rar."
+        ],
+        "hu": [
+          "Gaztelugatxe 20 perc autóútra van.",
+          "A központban kevés a parkolóhely."
+        ],
+        "ro": [
+          "Gaztelugatxe este la 20 min de mers cu mașina.",
+          "Locurile de parcare în centru sunt rare."
+        ],
+        "en": [
+          "Gaztelugatxe is 20 min drive away.",
+          "Parking spots in the center are scarce."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto besuchen wir erst das ikonische Gaztelugatxe, bevor wir nach Mundaka zurückkehren. Wir schlendern durch den Hafen und die Altstadt und genießen die Ausblicke auf das Biosphärenreservat.",
+            "hu": "Autóval először az ikonikus Gaztelugatxe-t látogatjuk meg, majd visszatérünk Mundakába. Végigsétálunk a kikötőn és az óvároson, élvezve a bioszféra-rezervátum látványát.",
+            "ro": "Cu mașina vizităm mai întâi iconicul Gaztelugatxe înainte de a reveni în Mundaka. Ne plimbăm prin port și centrul vechi, bucurându-ne de vederea spre rezervația biosferei.",
+            "en": "By car, we first visit the iconic Gaztelugatxe before returning to Mundaka. We stroll through the port and the old town, enjoying the views of the biosphere reserve."
+          },
+          "stops": [
+            {
+              "name": "San Juan de Gaztelugatxe (Nahansicht)",
+              "tip_5lang": {
+                "de": "Tickets unbedingt vorab buchen.",
+                "hu": "A jegyeket mindenképpen előre foglalja le.",
+                "ro": "Rezervați biletele neapărat în avans.",
+                "en": "Essential to book tickets in advance."
+              }
+            },
+            {
+              "name": "Palast von Larrinaga",
+              "tip_5lang": {
+                "de": "Prachtvolles Gebäude.",
+                "hu": "Pompás épület.",
+                "ro": "Clădire magnifică.",
+                "en": "Magnificent building."
+              }
+            },
+            {
+              "name": "Hafen von Mundaka",
+              "tip_5lang": {
+                "de": "Parken am Stadtrand empfohlen.",
+                "hu": "Parkolás a város szélén javasolt.",
+                "ro": "Parcare recomandată la marginea orașului.",
+                "en": "Parking at the edge of town recommended."
+              }
+            },
+            {
+              "name": "Kirche Santa Maria",
+              "tip_5lang": {
+                "de": "Kühles Inneres an heißen Tagen.",
+                "hu": "Hűvös belső tér meleg napokon.",
+                "ro": "Interior răcoros în zilele toride.",
+                "en": "Cool interior on hot days."
+              }
+            },
+            {
+              "name": "Aussichtspunkt Atalaya",
+              "tip_5lang": {
+                "de": "Panoramablick genießen.",
+                "hu": "Élvezze a panorámát.",
+                "ro": "Bucurați-vă de panoramă.",
+                "en": "Enjoy the panoramic view."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Bacalao a la Vizcaína",
+                "tip": "Kabeljau nach Vizcaya-Art."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Bacalao a la Vizcaína",
+                "tip": "Tőkehal Vizcayai módra."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Bacalao a la Vizcaína",
+                "tip": "Cod în stil Vizcaya."
+              }
+            ],
+            "en": [
+              {
+                "name": "Bacalao a la Vizcaína",
+                "tip": "Cod Vizcaya style."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Atalaya Park",
+                "tip": "Schatten unter Bäumen.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Atalaya park",
+                "tip": "Árnyék a fák alatt.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Parcul Atalaya",
+                "tip": "Umbră sub copaci.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Atalaya Park",
+                "tip": "Shade under the trees.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Lokale Feinkost",
+                "tip": "Konserven und Olivenöl."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Helyi delikátesz",
+                "tip": "Konzervált termékek és olívaolaj."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Delicii locale",
+                "tip": "Conserve și ulei de măsline."
+              }
+            ],
+            "en": [
+              {
+                "name": "Local Delicatessen",
+                "tip": "Canned goods and olive oil."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Gaztelugatxe ist 20 Min. Fahrt entfernt.",
+              "Parkplätze im Zentrum sind rar."
+            ],
+            "hu": [
+              "Gaztelugatxe 20 perc autóútra van.",
+              "A központban kevés a parkolóhely."
+            ],
+            "ro": [
+              "Gaztelugatxe este la 20 min de mers cu mașina.",
+              "Locurile de parcare în centru sunt rare."
+            ],
+            "en": [
+              "Gaztelugatxe is 20 min drive away.",
+              "Parking spots in the center are scarce."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Tag im Auto führt uns sicher nach San Juan de Gaztelugatxe, wo wir das Schauspiel der Brandung aus dem Fenster genießen. Mittags parken wir nahe dem Hafen und sprinten kurz durch den Regen. Am Nachmittag bietet die Fahrt entlang der Küste spektakuläre Ausblicke auf das graue Meer. Abends entspannen wir bei der Rückfahrt im trockenen Innenraum.",
+            "hu": "Az esős autós nap biztonságban visz el San Juan de Gaztelugatxe-ba, ahol az ablakból csodáljuk a tajtékzó tengert. Délben a kikötő közelében parkolunk, és csak rövid időre szállunk ki az esőbe. Délután a parti autóút látványos kilátást nyújt a szürke óceánra. Estére a száraz és meleg autóban pihenjük ki a napot a visszavezető úton.",
+            "ro": "O zi ploioasă cu mașina ne duce în siguranță la San Juan de Gaztelugatxe, unde admirăm spectacolul mării de la fereastră. La prânz parcăm lângă port și facem sprinturi scurte prin ploaie. După-amiază, drumul de coastă oferă vederi spectaculoase asupra mării gri. Seara ne relaxăm în interiorul uscat al mașinii pe drumul de întoarcere.",
+            "en": "A rainy day by car takes us safely to San Juan de Gaztelugatxe, where we admire the crashing surf from the window. At noon, we park near the harbor and make quick sprints through the rain. In the afternoon, the coastal drive offers spectacular views of the grey sea. By evening, we relax in the dry interior of the car on the way back."
+          },
+          "stops": [
+            {
+              "name": "San Juan de Gaztelugatxe (Nahansicht)",
+              "tip_5lang": {
+                "de": "Der Parkplatz ist bei Regen oft matschig, festes Schuhwerk.",
+                "hu": "A parkoló esőben gyakran sáros, viseljen túracipőt.",
+                "ro": "Parcarea este adesea noroioasă pe ploaie, purtați încălțăminte solidă.",
+                "en": "The parking lot is often muddy in the rain; wear sturdy shoes."
+              }
+            },
+            {
+              "name": "Palast von Larrinaga",
+              "tip_5lang": {
+                "de": "Gute Sicht auf die Fassade direkt vom Parkplatz aus.",
+                "hu": "Jó rálátás a homlokzatra közvetlenül a parkolóból.",
+                "ro": "Vedere bună asupra fațadei direct din parcare.",
+                "en": "Good view of the facade directly from the parking area."
+              }
+            },
+            {
+              "name": "Hafen von Mundaka",
+              "tip_5lang": {
+                "de": "Parken Sie im oberen Bereich, um Wellengischt zu vermeiden.",
+                "hu": "Parkoljon a felső részen, hogy elkerülje a sós permetet.",
+                "ro": "Parcați în zona de sus pentru a evita stropii de mare.",
+                "en": "Park in the upper area to avoid salty sea spray."
+              }
+            },
+            {
+              "name": "Kirche Santa Maria",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg vom Parkplatz zur Kirche, Schirm mitnehmen.",
+                "hu": "Rövid séta a parkolótól a templomig, vigyen ernyőt.",
+                "ro": "Scurtă plimbare de la parcare la biserică, luați umbrela.",
+                "en": "Short walk from the parking lot to the church; take an umbrella."
+              }
+            },
+            {
+              "name": "Aussichtspunkt Atalaya",
+              "tip_5lang": {
+                "de": "Bei Starkregen im Auto bleiben und Panorama genießen.",
+                "hu": "Heves esőben maradjon az autóban, és élvezze a panorámát.",
+                "ro": "Rămâneți în mașină în caz de ploaie torențială și admirați panorama.",
+                "en": "Stay in the car during heavy rain and enjoy the panorama."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Scheibenwischer vor der Abfahrt.",
+              "Vermeiden Sie tiefe Pfützen am Straßenrand, Aquaplaning-Gefahr.",
+              "Licht einschalten, auch am Tag, um besser gesehen zu werden.",
+              "Ein Mikrofasertuch hilft, beschlagene Scheiben schnell zu reinigen.",
+              "Parken Sie nicht direkt an Klippenkanten bei starkem Wind."
+            ],
+            "hu": [
+              "Indulás előtt ellenőrizze az ablaktörlőket.",
+              "Kerülje a mély tócsákat az út szélén, fennáll a vízenfutás veszélye.",
+              "Kapcsolja be a fényszórót nappal is a jobb láthatóságért.",
+              "Egy mikroszálas kendő segít gyorsan párátlanítani a szélvédőt.",
+              "Erős szélben ne parkoljon közvetlenül a sziklák szélére."
+            ],
+            "ro": [
+              "Verificați ștergătoarele de parbriz înainte de plecare.",
+              "Evitați bălțile adânci de pe marginea drumului, risc de acvaplanare.",
+              "Aprindeți luminile și ziua pentru a fi mai vizibili.",
+              "O lavetă din microfibră ajută la curățarea rapidă a geamurilor aburite.",
+              "Nu parcați direct pe marginea stâncilor în caz de vânt puternic."
+            ],
+            "en": [
+              "Check your windshield wipers before setting off.",
+              "Avoid deep puddles on the roadside to prevent aquaplaning.",
+              "Turn on your lights even during the day to be seen better.",
+              "A microfiber cloth helps to quickly clear foggy windows.",
+              "Do not park directly at cliff edges during strong winds."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintertag im Auto führt uns frühmorgens nach San Juan de Gaztelugatxe, bevor der Nebel steigt. Mittags erkunden wir Mundaka und nutzen das Auto als warme Basis zwischen den Stopps. Am Nachmittag genießen wir die spektakuläre Küstenstraße im goldenen Winterlicht. Abends kehren wir rechtzeitig vor der Frostbildung auf den Straßen sicher zurück.",
+            "hu": "A tiszta téli napon kora reggel autózunk San Juan de Gaztelugatxe-hoz, még a köd felszállta előtt. Délben Mundakát fedezzük fel, az autót meleg bázisként használva a megállók között. Délután a látványos parti utat élvezzük az aranyszínű téli fényekben. Estére, még az utak jegesedése előtt, biztonságban térünk vissza.",
+            "ro": "O zi senină de iarnă cu mașina ne duce dimineața devreme la San Juan de Gaztelugatxe, înainte de apariția ceții. La prânz explorăm Mundaka, folosind mașina ca bază caldă între opriri. După-amiază savurăm drumul spectaculos de coastă în lumina aurie a iernii. Seara ne întoarcem în siguranță înainte de formarea înghețului pe drumuri.",
+            "en": "A clear winter day by car takes us early in the morning to San Juan de Gaztelugatxe before the mist rises. At noon, we explore Mundaka, using the car as a warm base between stops. In the afternoon, we enjoy the spectacular coastal road in the golden winter light. By evening, we return safely before frost forms on the roads."
+          },
+          "stops": [
+            {
+              "name": "San Juan de Gaztelugatxe (Nahansicht)",
+              "tip_5lang": {
+                "de": "Im Winter sind oft weniger Touristen da, Parken ist einfacher.",
+                "hu": "Télen gyakran kevesebb a turista, könnyebb a parkolás.",
+                "ro": "Iarna sunt adesea mai puțini turiști, parcarea este mai ușoară.",
+                "en": "Fewer tourists in winter; parking is much easier."
+              }
+            },
+            {
+              "name": "Palast von Larrinaga",
+              "tip_5lang": {
+                "de": "Die tiefstehende Sonne beleuchtet die Details des Palastes perfekt.",
+                "hu": "Az alacsonyan járó nap tökéletesen megvilágítja a palota részleteit.",
+                "ro": "Soarele jos luminează perfect detaliile palatului.",
+                "en": "The low winter sun illuminates the palace details perfectly."
+              }
+            },
+            {
+              "name": "Hafen von Mundaka",
+              "tip_5lang": {
+                "de": "Achtung vor Glätte auf den Rampen zum Wasser.",
+                "hu": "Vigyázat, a vízhez vezető rámpák jegesek lehetnek.",
+                "ro": "Atenție la polei pe rampele spre apă.",
+                "en": "Watch out for ice on the ramps leading down to the water."
+              }
+            },
+            {
+              "name": "Kirche Santa Maria",
+              "tip_5lang": {
+                "de": "Die umliegenden Gassen sind im Winter sehr ruhig und fotogen.",
+                "hu": "A környező utcák télen nagyon csendesek és fotogének.",
+                "ro": "Străzile din jur sunt foarte liniștite și fotogenice iarna.",
+                "en": "The surrounding alleys are very quiet and photogenic in winter."
+              }
+            },
+            {
+              "name": "Aussichtspunkt Atalaya",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Auto für ein kurzes Aufwärmen nach dem Blick.",
+                "hu": "Használja az autót egy gyors melegedésre a nézelődés után.",
+                "ro": "Folosiți mașina pentru o scurtă încălzire după admirarea priveliștii.",
+                "en": "Use the car for a quick warm-up after enjoying the view."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Überprüfen Sie den Frostschutz in der Scheibenwaschanlage.",
+              "Batteriecheck vor der Fahrt, Kälte belastet den Akku.",
+              "Vorsicht vor 'Schwarzeis' in schattigen Waldabschnitten.",
+              "Eine Decke im Auto sorgt für Gemütlichkeit bei Pausen.",
+              "Planen Sie die Rückfahrt vor Einbruch der Dunkelheit (ca. 18 Uhr)."
+            ],
+            "hu": [
+              "Ellenőrizze a fagyállót a szélvédőmosóban.",
+              "Ellenőrizze az akkumulátort, a hideg megterheli azt.",
+              "Vigyázzon a 'fekete jégre' az árnyékos erdei útszakaszokon.",
+              "Egy takaró az autóban kényelmesebbé teszi a pihenőket.",
+              "Tervezze a visszautat sötétedés előtt (kb. 18 óra)."
+            ],
+            "ro": [
+              "Verificați antigelul din lichidul de parbriz.",
+              "Verificați bateria, frigul o solicită suplimentar.",
+              "Atenție la 'gheața neagră' în secțiunile de pădure umbrite.",
+              "O pătură în mașină face pauzele mai confortabile.",
+              "Planificați drumul de întoarcere înainte de lăsarea serii (aprox. 18)."
+            ],
+            "en": [
+              "Check the antifreeze levels in your windshield washer fluid.",
+              "Battery check before driving; cold weather strains the battery.",
+              "Watch out for 'black ice' in shaded forest road sections.",
+              "A blanket in the car makes breaks more comfortable.",
+              "Plan your return journey before dark (around 6 PM)."
+            ]
+          }
+        }
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "15:45",
+      "total_km": 4.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Euskotren Haltestelle Mundaka",
+          "coords": [
+            -2.699,
+            43.406
+          ],
+          "category": "squares",
+          "arrive_at": "09:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Direkte Verbindung nach Bilbao.",
+            "hu": "Közvetlen vonat Bilbao felé.",
+            "ro": "Conexiune directă spre Bilbao.",
+            "en": "Direct train to Bilbao."
+          }
+        },
+        {
+          "name": "Palast von Larrinaga",
+          "coords": [
+            -2.698,
+            43.408
+          ],
+          "category": "residences",
+          "arrive_at": "10:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Prachtvolle Fassade.",
+            "hu": "Pompás homlokzat.",
+            "ro": "Fațadă somptuoasă.",
+            "en": "Grand facade."
+          }
+        },
+        {
+          "name": "Hafen von Mundaka",
+          "coords": [
+            -2.696,
+            43.4085
+          ],
+          "category": "industrial",
+          "arrive_at": "11:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Lebhaftes Treiben.",
+            "hu": "Élénk kikötői élet.",
+            "ro": "Forfotă plină de viață.",
+            "en": "Lively harbor activity."
+          }
+        },
+        {
+          "name": "Kirche Santa Maria",
+          "coords": [
+            -2.6965,
+            43.408
+          ],
+          "category": "churches",
+          "arrive_at": "12:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Besichtigung möglich.",
+            "hu": "Látogatható.",
+            "ro": "Poate fi vizitată.",
+            "en": "Visits possible."
+          }
+        },
+        {
+          "name": "Strand Laidatxu",
+          "coords": [
+            -2.698,
+            43.4045
+          ],
+          "category": "parks",
+          "arrive_at": "13:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Ideal für eine Pause.",
+            "hu": "Ideális egy pihenőhöz.",
+            "ro": "Ideal pentru o pauză.",
+            "en": "Ideal for a break."
+          }
+        },
+        {
+          "name": "Kulturzentrum Kurtzio",
+          "coords": [
+            -2.697,
+            43.407
+          ],
+          "category": "theatres",
+          "arrive_at": "14:55",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Lokale Events prüfen.",
+            "hu": "Ellenőrizze a helyi eseményeket.",
+            "ro": "Verificați evenimentele locale.",
+            "en": "Check local events."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mundaka ist perfekt mit dem Euskotren erschlossen. Wir nutzen die Bahn von Bilbao oder Bermeo, entdecken die Architektur und entspannen am Laidatxu-Strand, bevor wir die Kultur im Kurtzio-Zentrum erleben.",
+        "hu": "Mundaka tökéletesen megközelíthető az Euskotrennel. Bilbaóból vagy Bermeóból vonatozunk, felfedezzük az építészetet és pihenünk a Laidatxu strandon, majd a Kurtzio központban zárjuk a napot.",
+        "ro": "Mundaka este perfect deservit de Euskotren. Folosim trenul din Bilbao sau Bermeo, descoperim arhitectura și ne relaxăm pe plaja Laidatxu înainte de a experimenta cultura la centrul Kurtzio.",
+        "en": "Mundaka is perfectly accessible via Euskotren. We take the train from Bilbao or Bermeo, discover the architecture, and relax on Laidatxu beach before experiencing culture at the Kurtzio center."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pintxos am Hafen",
+            "tip": "Kleine Köstlichkeiten zum Wein."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pintxos a kikötőben",
+            "tip": "Apró finomságok borhoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pintxos în port",
+            "tip": "Delicii mici lângă vin."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pintxos by the port",
+            "tip": "Small delicacies with wine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Park hinter der Kirche",
+            "tip": "Bank mit Meerblick.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Templom mögötti park",
+            "tip": "Pad tengeri kilátással.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul din spatele bisericii",
+            "tip": "Bancă cu vedere la mare.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Park behind the church",
+            "tip": "Bench with sea view.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirshop Kurtzio",
+            "tip": "Postkarten und Kunsthandwerk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kurtzio ajándékbolt",
+            "tip": "Képeslapok és kézműves termékek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de suveniruri Kurtzio",
+            "tip": "Vederi și artizanat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kurtzio Souvenirs",
+            "tip": "Postcards and handicrafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Euskotren bietet tolle Ausblicke.",
+          "Fahrkarten am Automaten kaufen."
+        ],
+        "hu": [
+          "Az Euskotren nagyszerű kilátást nyújt.",
+          "A jegyeket automatából vásárolja meg."
+        ],
+        "ro": [
+          "Euskotren oferă priveliști superbe.",
+          "Cumpărați biletele de la automat."
+        ],
+        "en": [
+          "Euskotren offers great views.",
+          "Buy tickets at the vending machine."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mundaka ist perfekt mit dem Euskotren erschlossen. Wir nutzen die Bahn von Bilbao oder Bermeo, entdecken die Architektur und entspannen am Laidatxu-Strand, bevor wir die Kultur im Kurtzio-Zentrum erleben.",
+            "hu": "Mundaka tökéletesen megközelíthető az Euskotrennel. Bilbaóból vagy Bermeóból vonatozunk, felfedezzük az építészetet és pihenünk a Laidatxu strandon, majd a Kurtzio központban zárjuk a napot.",
+            "ro": "Mundaka este perfect deservit de Euskotren. Folosim trenul din Bilbao sau Bermeo, descoperim arhitectura și ne relaxăm pe plaja Laidatxu înainte de a experimenta cultura la centrul Kurtzio.",
+            "en": "Mundaka is perfectly accessible via Euskotren. We take the train from Bilbao or Bermeo, discover the architecture, and relax on Laidatxu beach before experiencing culture at the Kurtzio center."
+          },
+          "stops": [
+            {
+              "name": "Euskotren Haltestelle Mundaka",
+              "tip_5lang": {
+                "de": "Direkte Verbindung nach Bilbao.",
+                "hu": "Közvetlen vonat Bilbao felé.",
+                "ro": "Conexiune directă spre Bilbao.",
+                "en": "Direct train to Bilbao."
+              }
+            },
+            {
+              "name": "Palast von Larrinaga",
+              "tip_5lang": {
+                "de": "Prachtvolle Fassade.",
+                "hu": "Pompás homlokzat.",
+                "ro": "Fațadă somptuoasă.",
+                "en": "Grand facade."
+              }
+            },
+            {
+              "name": "Hafen von Mundaka",
+              "tip_5lang": {
+                "de": "Lebhaftes Treiben.",
+                "hu": "Élénk kikötői élet.",
+                "ro": "Forfotă plină de viață.",
+                "en": "Lively harbor activity."
+              }
+            },
+            {
+              "name": "Kirche Santa Maria",
+              "tip_5lang": {
+                "de": "Besichtigung möglich.",
+                "hu": "Látogatható.",
+                "ro": "Poate fi vizitată.",
+                "en": "Visits possible."
+              }
+            },
+            {
+              "name": "Strand Laidatxu",
+              "tip_5lang": {
+                "de": "Ideal für eine Pause.",
+                "hu": "Ideális egy pihenőhöz.",
+                "ro": "Ideal pentru o pauză.",
+                "en": "Ideal for a break."
+              }
+            },
+            {
+              "name": "Kulturzentrum Kurtzio",
+              "tip_5lang": {
+                "de": "Lokale Events prüfen.",
+                "hu": "Ellenőrizze a helyi eseményeket.",
+                "ro": "Verificați evenimentele locale.",
+                "en": "Check local events."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Pintxos am Hafen",
+                "tip": "Kleine Köstlichkeiten zum Wein."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Pintxos a kikötőben",
+                "tip": "Apró finomságok borhoz."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Pintxos în port",
+                "tip": "Delicii mici lângă vin."
+              }
+            ],
+            "en": [
+              {
+                "name": "Pintxos by the port",
+                "tip": "Small delicacies with wine."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Park hinter der Kirche",
+                "tip": "Bank mit Meerblick.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Templom mögötti park",
+                "tip": "Pad tengeri kilátással.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Parcul din spatele bisericii",
+                "tip": "Bancă cu vedere la mare.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Park behind the church",
+                "tip": "Bench with sea view.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Souvenirshop Kurtzio",
+                "tip": "Postkarten und Kunsthandwerk."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Kurtzio ajándékbolt",
+                "tip": "Képeslapok és kézműves termékek."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Magazin de suveniruri Kurtzio",
+                "tip": "Vederi și artizanat."
+              }
+            ],
+            "en": [
+              {
+                "name": "Kurtzio Souvenirs",
+                "tip": "Postcards and handicrafts."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Euskotren bietet tolle Ausblicke.",
+              "Fahrkarten am Automaten kaufen."
+            ],
+            "hu": [
+              "Az Euskotren nagyszerű kilátást nyújt.",
+              "A jegyeket automatából vásárolja meg."
+            ],
+            "ro": [
+              "Euskotren oferă priveliști superbe.",
+              "Cumpărați biletele de la automat."
+            ],
+            "en": [
+              "Euskotren offers great views.",
+              "Buy tickets at the vending machine."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Tag mit der Bahn beginnt trocken an der Haltestelle Mundaka. Mittags erkunden wir den Palast von Larrinaga und nutzen die kurzen Wege zwischen den Gebäuden. Am Nachmittag besuchen wir das Kulturzentrum Kurtzio, das perfekt angebunden ist. Den Abend lassen wir entspannt ausklingen, während wir vom Zugfenster aus den Regen an der Küste beobachten.",
+            "hu": "Az esős nap a vasúttal szárazon indul a mundakai megállóban. Délben a Larrinaga palotát fedezzük fel, kihasználva az épületek közötti rövid távolságokat. Délután a Kurtzio kulturális központot látogatjuk meg, amely kiválóan megközelíthető. Az estét nyugodtan zárjuk, a vonatablakból figyelve a parti esőt.",
+            "ro": "O zi ploioasă cu trenul începe uscat la stația Mundaka. La prânz explorăm palatul Larrinaga, profitând de distanțele scurte între clădiri. După-amiază vizităm centrul cultural Kurtzio, care este perfect conectat. Încheiem seara relaxați, privind ploaia de pe coastă de la fereastra trenului.",
+            "en": "A rainy day by train starts dry at the Mundaka stop. At noon, we explore Larrinaga Palace, taking advantage of short distances between buildings. In the afternoon, we visit the Kurtzio Cultural Center, which is perfectly connected. We end the evening relaxed, watching the coastal rain from the train window."
+          },
+          "stops": [
+            {
+              "name": "Euskotren Haltestelle Mundaka",
+              "tip_5lang": {
+                "de": "Der überdachte Bahnsteig ist ein guter Startpunkt.",
+                "hu": "A fedett peron jó kiindulópont az esős napon.",
+                "ro": "Peronul acoperit este un punct de plecare bun.",
+                "en": "The covered platform is a good starting point."
+              }
+            },
+            {
+              "name": "Palast von Larrinaga",
+              "tip_5lang": {
+                "de": "Vom Bahnhof aus in 5 Minuten zu Fuß erreichbar.",
+                "hu": "Az állomástól 5 perc sétával elérhető.",
+                "ro": "Accesibil în 5 minute pe jos de la gară.",
+                "en": "Accessible within a 5-minute walk from the station."
+              }
+            },
+            {
+              "name": "Hafen von Mundaka",
+              "tip_5lang": {
+                "de": "Nahegelegene Arkaden bieten Schutz beim Warten auf den Bus.",
+                "hu": "A közeli árkádok védelmet nyújtanak a buszra várva.",
+                "ro": "Arcadele din apropiere oferă adăpost în timp ce așteptați autobuzul.",
+                "en": "Nearby arcades offer shelter while waiting for the bus."
+              }
+            },
+            {
+              "name": "Kirche Santa Maria",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Regenpausen für den Weg von der Haltestelle.",
+                "hu": "Használja ki az esőszüneteket a megállótól való sétához.",
+                "ro": "Folosiți pauzele de ploaie pentru drumul de la stație.",
+                "en": "Use rain breaks for the walk from the stop."
+              }
+            },
+            {
+              "name": "Strand Laidatxu",
+              "tip_5lang": {
+                "de": "Direkt neben der Euskotren-Station gelegen.",
+                "hu": "Közvetlenül az Euskotren állomás mellett található.",
+                "ro": "Situată chiar lângă stația Euskotren.",
+                "en": "Located directly next to the Euskotren station."
+              }
+            },
+            {
+              "name": "Kulturzentrum Kurtzio",
+              "tip_5lang": {
+                "de": "Nur ein kurzer Sprint durch den Regen von der Haltestelle.",
+                "hu": "Csak egy rövid sprint az esőben a megállótól.",
+                "ro": "Doar un sprint scurt prin ploaie de la stație.",
+                "en": "Just a short sprint through the rain from the stop."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie die 'Euskotren' App für Echtzeit-Infos bei Wetterverzögerungen.",
+              "Halten Sie Ihr Ticket griffbereit, um nicht im Regen suchen zu müssen.",
+              "Tragen Sie Schuhe mit Gummisohlen für die Bahnhofstreppen.",
+              "Die Züge sind gut beheizt und bieten Panoramafenster.",
+              "Kombinieren Sie Bus und Bahn für minimale Gehwege im Freien."
+            ],
+            "hu": [
+              "Ellenőrizze az 'Euskotren' appot a valós idejű információkért.",
+              "Tartsa kéznél a jegyét, hogy ne az esőben kelljen keresgélni.",
+              "Viseljen gumitalpú cipőt az állomási lépcsőkhöz.",
+              "A vonatok jól fűtöttek és panorámaablakosak.",
+              "Kombinálja a buszt és a vonatot a minimális kinti gyalogláshoz."
+            ],
+            "ro": [
+              "Verificați aplicația 'Euskotren' pentru informații în timp real.",
+              "Țineți biletul la îndemână pentru a nu-l căuta în ploaie.",
+              "Purtați pantofi cu talpă de cauciuc pentru scările din gară.",
+              "Trenurile sunt bine încălzite și au ferestre panoramice.",
+              "Combinați autobuzul și trenul pentru a merge cât mai puțin pe afară."
+            ],
+            "en": [
+              "Check the 'Euskotren' app for real-time info during weather delays.",
+              "Keep your ticket handy so you don't have to search for it in the rain.",
+              "Wear rubber-soled shoes for the station stairs.",
+              "Trains are well-heated and offer panoramic windows.",
+              "Combine bus and train for minimal walking outdoors."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Wintertag mit den Öffentlichen beginnt gemütlich im beheizten Zug nach Mundaka. Mittags nutzen wir die kurzen Wege im Dorfzentrum, um zwischen den Sehenswürdigkeiten warm zu bleiben. Am Nachmittag bietet die Zugfahrt entlang des Biosphärenreservats Urdaibai eine herrliche Sicht auf die Winterlandschaft. Abends kehren wir entspannt zurück, während draußen die Nacht hereinbricht.",
+            "hu": "A friss téli nap a tömegközlekedéssel kényelmesen indul a fűtött vonaton Mundaka felé. Délben a faluközpont rövid útjait használjuk, hogy melegen maradjunk a látnivalók között. Délután a vonatút az Urdaibai bioszféra-rezervátum mentén csodás kilátást nyújt a téli tájra. Estére nyugodtan térünk vissza, miközben kint leszáll az éj.",
+            "ro": "O zi răcoroasă de iarnă cu transportul public începe confortabil în trenul încălzit spre Mundaka. La prânz folosim distanțele scurte din centrul satului pentru a rămâne la căldură între atracții. După-amiază, călătoria cu trenul de-a lungul rezervației Urdaibai oferă o vedere superbă. Seara ne întoarcem relaxați în timp ce afară se înserează.",
+            "en": "A crisp winter day by public transit starts comfortably in the heated train to Mundaka. At noon, we use the short routes in the village center to stay warm between sights. In the afternoon, the train ride along the Urdaibai Biosphere Reserve offers a wonderful view of the winter landscape. By evening, we return relaxed as night falls outside."
+          },
+          "stops": [
+            {
+              "name": "Euskotren Haltestelle Mundaka",
+              "tip_5lang": {
+                "de": "Der Warteraum bietet Schutz vor der kalten Brise.",
+                "hu": "A váróterem védelmet nyújt a hideg szél ellen.",
+                "ro": "Sala de așteptare oferă protecție împotriva brizei reci.",
+                "en": "The waiting room provides shelter from the cold breeze."
+              }
+            },
+            {
+              "name": "Palast von Larrinaga",
+              "tip_5lang": {
+                "de": "Kurze Wege sind im Winter ein großer Vorteil.",
+                "hu": "A rövid távolságok télen nagy előnyt jelentenek.",
+                "ro": "Distanțele scurte sunt un mare avantaj iarna.",
+                "en": "Short distances are a big advantage in winter."
+              }
+            },
+            {
+              "name": "Hafen von Mundaka",
+              "tip_5lang": {
+                "de": "Warme Kleidung ist nötig, wenn man auf den Bus wartet.",
+                "hu": "Meleg ruházat szükséges, ha a buszra vár.",
+                "ro": "Îmbrăcămintea groasă e necesară dacă așteptați autobuzul.",
+                "en": "Warm clothing is necessary while waiting for the bus."
+              }
+            },
+            {
+              "name": "Kirche Santa Maria",
+              "tip_5lang": {
+                "de": "Zentrale Lage, gut erreichbar von allen Haltestellen.",
+                "hu": "Központi elhelyezkedés, minden megállóból jól elérhető.",
+                "ro": "Locație centrală, ușor accesibilă din toate stațiile.",
+                "en": "Central location, easily reachable from all stops."
+              }
+            },
+            {
+              "name": "Strand Laidatxu",
+              "tip_5lang": {
+                "de": "Perfekt für einen kurzen Stopp vor der Abfahrt des Zuges.",
+                "hu": "Tökéletes egy rövid megállóra a vonat indulása előtt.",
+                "ro": "Perfect pentru o scurtă oprire înainte de plecarea trenului.",
+                "en": "Perfect for a short stop before the train departs."
+              }
+            },
+            {
+              "name": "Kulturzentrum Kurtzio",
+              "tip_5lang": {
+                "de": "Ein warmes Highlight am Ende des Tages.",
+                "hu": "Egy meleg csúcspont a nap végén.",
+                "ro": "Un punct culminant cald la sfârșitul zilei.",
+                "en": "A warm highlight at the end of the day."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterfahrpläne können leicht abweichen, prüfen Sie die Zeiten.",
+              "Die Haltestellen sind im Winter weniger belebt, mehr Ruhe.",
+              "Nutzen Sie die Wartezeiten für einen schnellen heißen Kaffee.",
+              "Sitzplätze am Fenster bieten tolle Blicke auf die Winter-Urdaibai.",
+              "Beachten Sie die frühere Dunkelheit bei der Planung der Rückfahrt."
+            ],
+            "hu": [
+              "A téli menetrendek eltérhetnek, ellenőrizze az időpontokat.",
+              "A megállók télen kevésbé zsúfoltak, nagyobb a nyugalom.",
+              "Használja ki a várakozási időt egy gyors forró kávéra.",
+              "Az ablak melletti helyek remek kilátást nyújtanak a téli Urdaibai-ra.",
+              "Vegye figyelembe a korai sötétedést a hazautazás tervezésekor."
+            ],
+            "ro": [
+              "Orarele de iarnă pot diferi ușor, verificați orele de plecare.",
+              "Stațiile sunt mai puțin aglomerate iarna, mai multă liniște.",
+              "Folosiți timpii de așteptare pentru o cafea fierbinte rapidă.",
+              "Locurile de la fereastră oferă vederi superbe asupra Urdaibai iarna.",
+              "Țineți cont de întunericul care se lasă devreme la planificarea returului."
+            ],
+            "en": [
+              "Winter schedules may vary slightly; check the times.",
+              "Stops are less crowded in winter, offering more peace.",
+              "Use waiting times for a quick hot coffee.",
+              "Window seats offer great views of winter Urdaibai.",
+              "Keep the earlier sunset in mind when planning your return."
+            ]
+          }
+        }
+      }
+    }
+  },
+  "external_resources": {
+    "transit_official": "https://www.euskotren.eus/",
+    "language_tips": {
+      "de": "Sehr baskisch, im Dorf hörst du fast nur Euskara. Surf-Community international, daher gutes Englisch am Strand und in Surfshops. In den Sidrerías und Pintxo-Bars 'Kaixo' und 'Eskerrik asko' bringen sofort Sympathie.",
+      "hu": "Erősen baszk, a faluban szinte csak euskarát hallasz. A szörfösközösség nemzetközi, a parton és a szörfboltokban jó angol. A sidrería-kban és pintxo-bárokban a 'Kaixo' és 'Eskerrik asko' azonnal szimpátiát hoz.",
+      "ro": "Foarte basc, în sat auzi aproape exclusiv euskara. Comunitatea de surf e internațională, deci pe plajă și în magazinele de surf engleza e bună. La sidrerías și baruri de pintxos, 'Kaixo' și 'Eskerrik asko' aduc imediat simpatie.",
+      "en": "Deeply Basque - in the village you hear almost only Euskara. The surf crowd is international, so English is good on the beach and in surf shops. In sidrerías and pintxo bars, 'Kaixo' and 'Eskerrik asko' instantly earn you smiles."
+    },
+    "best_time_to_visit": {
+      "de": "Surfen: Oktober bis März, die berühmte linke Welle der Welt. Strand und Dorfleben: Juni bis September. Im November Mundaka Pro Surfwettkampf (wenn die Welle mitspielt) - Pflichttermin für Surf-Fans.",
+      "hu": "Szörfösöknek október-március, a világ egyik leghíresebb bal-hulláma. Strandhoz és nyugodt falusi élethez június-szeptember. Novemberben a Mundaka Pro szörfverseny (ha jön a hullám), szörfös zarándokhely.",
+      "ro": "Pentru surferi: octombrie-martie, vestita stânga, una dintre cele mai bune din lume. Pentru plajă și viață de sat: iunie-septembrie. În noiembrie Mundaka Pro (dacă valul cooperează), pelerinaj pentru pasionați.",
+      "en": "Surfers come October to March for the world-famous left wave. Beach and village life: June to September. November can bring Mundaka Pro (if the wave shows up) - a pilgrimage for surf fans."
+    },
+    "neighborhood_warnings": {
+      "de": "Sicher und entspannt. Im Hafen Vorsicht beim Anlanden - schmale Mole, rutschig. Surf-Spot ist nur für Erfahrene, die linke Welle bricht über Sand und ist gefährlich bei Wettkampfgrößen. Niemals ohne lokalen Rat reinpaddeln.",
+      "hu": "Biztonságos és nyugodt. A kikötőben kikötéskor figyelj, szűk és csúszós a móló. A szörf-spot csak gyakorlottnak való, a bal-hullám versenyméretben veszélyes. Helyi tanács nélkül soha ne paddleozz be.",
+      "ro": "Sigur și relaxat. În port atenție la acostare, dig îngust și alunecos. Spotul de surf e doar pentru avansați, valul stânga la mărime de competiție e periculos. Nu intra niciodată în apă fără sfat local.",
+      "en": "Safe and laid-back. At the harbour mind the narrow slippery jetty. The surf spot is for experts only - the famous left breaks over sand and gets dangerous at contest size. Never paddle out without local advice."
+    }
+  }
+}

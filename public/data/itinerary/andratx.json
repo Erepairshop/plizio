@@ -1,0 +1,2420 @@
+{
+  "city_id": "andratx",
+  "anchor": {
+    "name": "Andratx",
+    "coords": [
+      2.425,
+      39.575
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "15:10",
+      "total_km": 2.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Castell de Son Mas",
+            "hu": "Castell de Son Mas",
+            "ro": "Castell de Son Mas",
+            "en": "Castell de Son Mas"
+          },
+          "coords": [
+            2.423,
+            39.576
+          ],
+          "category": "castles",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Heute das Rathaus, ein beeindruckendes Festungsgebäude.",
+            "hu": "Ma a városháza működik benne, lenyűgöző erődített épület.",
+            "ro": "Astăzi este primăria, o clădire fortificată impresionantă.",
+            "en": "Today it serves as the town hall, an impressive fortified building."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Santa Maria",
+            "hu": "Santa Maria templom",
+            "ro": "Biserica Santa Maria",
+            "en": "Santa Maria Church"
+          },
+          "coords": [
+            2.424,
+            39.574
+          ],
+          "category": "churches",
+          "arrive_at": "10:25",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Kirche während der Morgenmesse für Ruhe.",
+            "hu": "Látogassa meg a templomot a reggeli mise alatt a nyugalomért.",
+            "ro": "Vizitați biserica în timpul liturghiei de dimineață pentru liniște.",
+            "en": "Visit the church during morning mass for a peaceful atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "CCA Andratx",
+            "hu": "CCA Andratx",
+            "ro": "CCA Andratx",
+            "en": "CCA Andratx"
+          },
+          "coords": [
+            2.428,
+            39.578
+          ],
+          "category": "museums",
+          "arrive_at": "11:40",
+          "stay_min": 90,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Eines der größten Zentren für zeitgenössische Kunst in Europa.",
+            "hu": "Európa egyik legnagyobb kortárs művészeti központja.",
+            "ro": "Unul dintre cele mai mari centre de artă contemporană din Europa.",
+            "en": "One of the largest contemporary art centers in Europe."
+          }
+        },
+        {
+          "name": {
+            "de": "Andratx Marktplatz",
+            "hu": "Andratx főtere",
+            "ro": "Piața Centrală Andratx",
+            "en": "Andratx Main Square"
+          },
+          "coords": [
+            2.424,
+            39.575
+          ],
+          "category": "square",
+          "arrive_at": "13:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Mittwochs findet hier der traditionelle Wochenmarkt statt.",
+            "hu": "Szerdánként itt tartják a hagyományos heti piacot.",
+            "ro": "Miercuri are loc aici piața săptămânală tradițională.",
+            "en": "The traditional weekly market is held here on Wednesdays."
+          }
+        },
+        {
+          "name": {
+            "de": "Lokales Bistro",
+            "hu": "Helyi bisztró",
+            "ro": "Bistro local",
+            "en": "Local Bistro"
+          },
+          "coords": [
+            2.425,
+            39.574
+          ],
+          "category": "gastro",
+          "arrive_at": "14:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Probieren Sie Pamboli mit lokalem Olivenöl.",
+            "hu": "Kóstolja meg a Pamboli-t helyi olívaolajjal.",
+            "ro": "Încercați Pamboli cu ulei de măsline local.",
+            "en": "Try Pamboli with local olive oil."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen im prächtigen Castell de Son Mas, das heute als Rathaus dient und einen tiefen Einblick in die Architektur Mallorcas bietet. Schlendern Sie anschließend zur gotischen Kirche Santa Maria, um die sakrale Stille zu genießen. Mittags erwartet Sie das CCA Andratx mit weltklasse moderner Kunst in einem beeindruckenden Gebäude.\n\nDer Nachmittag gehört dem lebhaften Dorfleben auf dem Marktplatz, wo man das authentische Mallorca spüren kann. Beenden Sie Ihren Rundgang mit einer traditionellen Mahlzeit in einem der gemütlichen Bistros im Zentrum.",
+        "hu": "Kezdje a reggelt a pompás Castell de Son Mas épületénél, amely ma városházaként működik, és betekintést nyújt Mallorca építészetébe. Sétáljon tovább a gótikus Santa Maria templomhoz a szakrális csendért. Délben a CCA Andratx várja világszínvonalú modern művészettel egy lenyűgöző környezetben.\n\nA délután a főtér pezsgő életéé, ahol érezheti az autentikus mallorcai hangulatot. Zárja a sétát egy hagyományos étellel a központ egyik hangulatos bisztrójában, ahol helyi alapanyagokból főznek.",
+        "ro": "Începeți dimineața la magnificul Castell de Son Mas, care astăzi servește drept primărie și oferă o perspectivă asupra arhitecturii din Mallorca. Plimbați-vă apoi spre biserica gotică Santa Maria pentru liniște sacră. La prânz, CCA Andratx vă așteaptă cu artă modernă de talie mondială într-o clădire impresionantă.\n\nDupă-amiaza aparține vieții vibrante din piața centrală, unde puteți simți atmosfera autentică din Mallorca. Încheiați turul cu o masă tradițională într-unul dintre bistrourile primitoare din centru.",
+        "en": "Start your morning at the magnificent Castell de Son Mas, which now serves as the town hall and offers a glimpse into Mallorcan architecture. Walk to the Gothic Santa Maria Church to enjoy the sacred silence. At noon, CCA Andratx awaits you with world-class modern art in an impressive setting.\n\nThe afternoon is dedicated to the lively village life in the main square, where you can feel the authentic Mallorcan vibe. Finish your walk with a traditional meal in one of the cozy bistros in the center."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pamboli",
+            "tip": "Brot mit Tomate und Schinken im 'Es Portal'."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pamboli",
+            "tip": "Paradicsomos kenyér sonkával az 'Es Portal' étteremben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pamboli",
+            "tip": "Pâine cu roșii și șuncă la 'Es Portal'."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pamboli",
+            "tip": "Bread with tomato and ham at 'Es Portal'."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "CCA Innenhof",
+            "tip": "Ein Ort der absoluten Ruhe zwischen Skulpturen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "CCA belső udvar",
+            "tip": "A tökéletes nyugalom helyszíne szobrok között.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Curtea interioară CCA",
+            "tip": "Un loc de liniște absolută printre sculpturi.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "CCA Courtyard",
+            "tip": "A place of absolute peace among sculptures.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt",
+            "tip": "Lokale Produkte und Kunsthandwerk jeden Mittwoch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heti piac",
+            "tip": "Helyi termékek és kézműves áruk minden szerdán."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală",
+            "tip": "Produse locale și artizanat în fiecare miercuri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weekly Market",
+            "tip": "Local products and crafts every Wednesday."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für die Kopfsteinpflastergassen.",
+          "Besuchen Sie den Markt früh am Morgen, um die Hitze zu vermeiden."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt a macskaköves utcákhoz.",
+          "Látogasson el a piacra kora reggel a hőség elkerülése végett."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă pentru străzile pietruite.",
+          "Vizitați piața dimineața devreme pentru a evita căldura."
+        ],
+        "en": [
+          "Wear comfortable shoes for the cobblestone streets.",
+          "Visit the market early in the morning to avoid the heat."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Morgen im prächtigen Castell de Son Mas, das heute als Rathaus dient und einen tiefen Einblick in die Architektur Mallorcas bietet. Schlendern Sie anschließend zur gotischen Kirche Santa Maria, um die sakrale Stille zu genießen. Mittags erwartet Sie das CCA Andratx mit weltklasse moderner Kunst in einem beeindruckenden Gebäude.\n\nDer Nachmittag gehört dem lebhaften Dorfleben auf dem Marktplatz, wo man das authentische Mallorca spüren kann. Beenden Sie Ihren Rundgang mit einer traditionellen Mahlzeit in einem der gemütlichen Bistros im Zentrum.",
+            "hu": "Kezdje a reggelt a pompás Castell de Son Mas épületénél, amely ma városházaként működik, és betekintést nyújt Mallorca építészetébe. Sétáljon tovább a gótikus Santa Maria templomhoz a szakrális csendért. Délben a CCA Andratx várja világszínvonalú modern művészettel egy lenyűgöző környezetben.\n\nA délután a főtér pezsgő életéé, ahol érezheti az autentikus mallorcai hangulatot. Zárja a sétát egy hagyományos étellel a központ egyik hangulatos bisztrójában, ahol helyi alapanyagokból főznek.",
+            "ro": "Începeți dimineața la magnificul Castell de Son Mas, care astăzi servește drept primărie și oferă o perspectivă asupra arhitecturii din Mallorca. Plimbați-vă apoi spre biserica gotică Santa Maria pentru liniște sacră. La prânz, CCA Andratx vă așteaptă cu artă modernă de talie mondială într-o clădire impresionantă.\n\nDupă-amiaza aparține vieții vibrante din piața centrală, unde puteți simți atmosfera autentică din Mallorca. Încheiați turul cu o masă tradițională într-unul dintre bistrourile primitoare din centru.",
+            "en": "Start your morning at the magnificent Castell de Son Mas, which now serves as the town hall and offers a glimpse into Mallorcan architecture. Walk to the Gothic Santa Maria Church to enjoy the sacred silence. At noon, CCA Andratx awaits you with world-class modern art in an impressive setting.\n\nThe afternoon is dedicated to the lively village life in the main square, where you can feel the authentic Mallorcan vibe. Finish your walk with a traditional meal in one of the cozy bistros in the center."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Castell de Son Mas",
+                "hu": "Castell de Son Mas",
+                "ro": "Castell de Son Mas",
+                "en": "Castell de Son Mas"
+              },
+              "tip_5lang": {
+                "de": "Heute das Rathaus, ein beeindruckendes Festungsgebäude.",
+                "hu": "Ma a városháza működik benne, lenyűgöző erődített épület.",
+                "ro": "Astăzi este primăria, o clădire fortificată impresionantă.",
+                "en": "Today it serves as the town hall, an impressive fortified building."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Santa Maria",
+                "hu": "Santa Maria templom",
+                "ro": "Biserica Santa Maria",
+                "en": "Santa Maria Church"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kirche während der Morgenmesse für Ruhe.",
+                "hu": "Látogassa meg a templomot a reggeli mise alatt a nyugalomért.",
+                "ro": "Vizitați biserica în timpul liturghiei de dimineață pentru liniște.",
+                "en": "Visit the church during morning mass for a peaceful atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "CCA Andratx",
+                "hu": "CCA Andratx",
+                "ro": "CCA Andratx",
+                "en": "CCA Andratx"
+              },
+              "tip_5lang": {
+                "de": "Eines der größten Zentren für zeitgenössische Kunst in Europa.",
+                "hu": "Európa egyik legnagyobb kortárs művészeti központja.",
+                "ro": "Unul dintre cele mai mari centre de artă contemporană din Europa.",
+                "en": "One of the largest contemporary art centers in Europe."
+              }
+            },
+            {
+              "name": {
+                "de": "Andratx Marktplatz",
+                "hu": "Andratx főtere",
+                "ro": "Piața Centrală Andratx",
+                "en": "Andratx Main Square"
+              },
+              "tip_5lang": {
+                "de": "Mittwochs findet hier der traditionelle Wochenmarkt statt.",
+                "hu": "Szerdánként itt tartják a hagyományos heti piacot.",
+                "ro": "Miercuri are loc aici piața săptămânală tradițională.",
+                "en": "The traditional weekly market is held here on Wednesdays."
+              }
+            },
+            {
+              "name": {
+                "de": "Lokales Bistro",
+                "hu": "Helyi bisztró",
+                "ro": "Bistro local",
+                "en": "Local Bistro"
+              },
+              "tip_5lang": {
+                "de": "Probieren Sie Pamboli mit lokalem Olivenöl.",
+                "hu": "Kóstolja meg a Pamboli-t helyi olívaolajjal.",
+                "ro": "Încercați Pamboli cu ulei de măsline local.",
+                "en": "Try Pamboli with local olive oil."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Pamboli",
+                "tip": "Brot mit Tomate und Schinken im 'Es Portal'."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Pamboli",
+                "tip": "Paradicsomos kenyér sonkával az 'Es Portal' étteremben."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Pamboli",
+                "tip": "Pâine cu roșii și șuncă la 'Es Portal'."
+              }
+            ],
+            "en": [
+              {
+                "name": "Pamboli",
+                "tip": "Bread with tomato and ham at 'Es Portal'."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "CCA Innenhof",
+                "tip": "Ein Ort der absoluten Ruhe zwischen Skulpturen.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "CCA belső udvar",
+                "tip": "A tökéletes nyugalom helyszíne szobrok között.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Curtea interioară CCA",
+                "tip": "Un loc de liniște absolută printre sculpturi.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "CCA Courtyard",
+                "tip": "A place of absolute peace among sculptures.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Wochenmarkt",
+                "tip": "Lokale Produkte und Kunsthandwerk jeden Mittwoch."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Heti piac",
+                "tip": "Helyi termékek és kézműves áruk minden szerdán."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Piața săptămânală",
+                "tip": "Produse locale și artizanat în fiecare miercuri."
+              }
+            ],
+            "en": [
+              {
+                "name": "Weekly Market",
+                "tip": "Local products and crafts every Wednesday."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Tragen Sie bequeme Schuhe für die Kopfsteinpflastergassen.",
+              "Besuchen Sie den Markt früh am Morgen, um die Hitze zu vermeiden."
+            ],
+            "hu": [
+              "Viseljen kényelmes cipőt a macskaköves utcákhoz.",
+              "Látogasson el a piacra kora reggel a hőség elkerülése végett."
+            ],
+            "ro": [
+              "Purtați încălțăminte confortabilă pentru străzile pietruite.",
+              "Vizitați piața dimineața devreme pentru a evita căldura."
+            ],
+            "en": [
+              "Wear comfortable shoes for the cobblestone streets.",
+              "Visit the market early in the morning to avoid the heat."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bietet das Castell de Son Mas festen Schutz vor dem Regen. Die Kirche Santa Maria ist ein idealer trockener Rückzugsort. Den Mittag verbringen Sie im weitläufigen CCA Andratx, einem der besten Indoor-Ziele der Insel. Nach einem kurzen, regnerischen Blick auf den Hauptplatz endet die Tour gemütlich bei einem langen, warmen Mittagessen im lokalen Bistro.",
+            "hu": "Reggel a Castell de Son Mas vastag falai között keressen menedéket az eső elől. A Santa Maria templom csendes és száraz hely a szemlélődésre. A delet töltse a CCA Andratx galériáiban, amely Mallorca egyik legjobb fedett programja. Egy gyors főtéri séta után az esernyők alatt, a napot egy bőséges és meleg ebéddel zárja a bisztróban.",
+            "ro": "Dimineața, Castell de Son Mas oferă un adăpost solid împotriva ploii. Biserica Santa Maria este un refugiu uscat și liniștit. Petreceți prânzul în interiorul spațios al CCA Andratx, una dintre cele mai bune destinații indoor. După o scurtă vizită sub umbrelă în piața principală, turul se încheie confortabil cu un prânz lung la bistroul local.",
+            "en": "In the morning, Castell de Son Mas provides solid shelter from the rain. Santa Maria Church is a quiet, dry sanctuary for reflection. Spend midday exploring the vast galleries of CCA Andratx, one of the island's best indoor cultural spots. After a quick rainy dash through the main square, end the tour with a long, warm lunch at a cozy local bistro."
+          },
+          "stops": [
+            {
+              "name": "Castell de Son Mas",
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Innenhof, um dem ersten Guss zu entgehen.",
+                "hu": "Használja a fedett belső udvart az első záporok idején.",
+                "ro": "Folosiți curtea interioară acoperită pentru a evita prima rafală.",
+                "en": "Use the covered interior courtyard to escape the first downpour."
+              }
+            },
+            {
+              "name": "Santa Maria Church",
+              "tip_5lang": {
+                "de": "Ein perfekter Ort, um die Regenkleidung kurz zu richten.",
+                "hu": "Tökéletes hely az esőfelszerelés igazítására a szárazon.",
+                "ro": "Un loc perfect pentru a vă aranja hainele de ploaie la uscat.",
+                "en": "A perfect place to adjust your rain gear in a dry environment."
+              }
+            },
+            {
+              "name": "CCA Andratx",
+              "tip_5lang": {
+                "de": "Große Hallen bieten stundenlangen Schutz und erstklassige Kunst.",
+                "hu": "A hatalmas termek órákig tartó védelmet és világszínvonalú művészetet kínálnak.",
+                "ro": "Halele mari oferă adăpost pentru ore întregi și artă de clasă mondială.",
+                "en": "Large halls offer hours of shelter and world-class modern art."
+              }
+            },
+            {
+              "name": "Andratx Main Square",
+              "tip_5lang": {
+                "de": "Die Arkaden rund um den Platz bieten Schutz für kurze Fotos.",
+                "hu": "A tér körüli árkádok védelmet nyújtanak egy-egy gyors fotóhoz.",
+                "ro": "Arcadele din jurul pieței oferă protecție pentru fotografii rapide.",
+                "en": "The arcades around the square provide shelter for quick photos."
+              }
+            },
+            {
+              "name": "Local Bistro",
+              "tip_5lang": {
+                "de": "Fragen Sie nach dem 'Arros brut', einem wärmenden mallorquinischen Eintopf.",
+                "hu": "Kérjen egy meleg 'Arros brut' rizses húslevest a felmelegedéshez.",
+                "ro": "Cereți 'Arros brut', o tocană caldă mallorquină pentru a vă încălzi.",
+                "en": "Order a warm 'Arros brut' stew to heat up after the walk."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Steinpflaster in der Altstadt können bei Nässe sehr rutschig sein.",
+              "CCA Andratx ist das größte Zentrum für zeitgenössische Kunst auf den Balearen.",
+              "Packen Sie einen stabilen Regenschirm ein, da der Wind in den Gassen drehen kann.",
+              "Die Kirche ist meist vormittags für Besucher trocken zugänglich.",
+              "Viele Cafés am Platz haben Markisen, die leichten Regen abhalten."
+            ],
+            "hu": [
+              "Az óváros kőburkolata esőben rendkívül csúszóssá válhat.",
+              "A CCA Andratx a Baleár-szigetek legnagyobb kortárs művészeti központja.",
+              "Vigyen erős esernyőt, mert a szél hirtelen megfordulhat a szűk utcákban.",
+              "A templom általában délelőtt látogatható és biztos száraz menedék.",
+              "A főtéri kávézók többsége rendelkezik esővédő napellenzővel."
+            ],
+            "ro": [
+              "Pavajul de piatră din orașul vechi poate fi foarte alunecos când este ud.",
+              "CCA Andratx este cel mai mare centru de artă contemporană din Baleare.",
+              "Luați o umbrelă rezistentă, deoarece vântul se poate schimba brusc pe străzi.",
+              "Biserica este de obicei deschisă dimineața și este un loc sigur și uscat.",
+              "Multe cafenele din piață au copertine care opresc ploaia ușoară."
+            ],
+            "en": [
+              "Stone pavements in the old town can become very slippery when wet.",
+              "CCA Andratx is the largest center for contemporary art in the Balearic Islands.",
+              "Pack a sturdy umbrella as wind can swirl unexpectedly in narrow streets.",
+              "The church is usually open in the morning and provides reliable shelter.",
+              "Many cafes on the square have awnings that keep out light rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie die milde Wintersonne am Castell de Son Mas bei klarer Sicht. Die Kirche Santa Maria bietet eine friedliche Atmosphäre abseits der Sommermassen. Mittags ist das Licht im CCA Andratx besonders schön für Kunstliebhaber. Der Hauptplatz lädt zu einem Kaffee im Freien ein, bevor Sie den Tag bei einem frühen Sonnenuntergang im Bistro ausklingen lassen.",
+            "hu": "Élvezze a Castell de Son Mas-nál a lágy téli napsütést és a tiszta kilátást. A Santa Maria templom békés hangulatot áraszt a nyári tömeg nélkül. Délben a CCA Andratx fényei különleges élményt nyújtanak a művészetkedvelőknek. A főtér alkalmas egy szabadtéri kávézásra, mielőtt a korai naplemente után a bisztróban vacsorázna.",
+            "ro": "Bucurați-vă de soarele blând de iarnă la Castell de Son Mas cu o vizibilitate clară. Biserica Santa Maria oferă o atmosferă liniștită, fără mulțimile de vară. La prânz, lumina de la CCA Andratx este specială pentru iubitorii de artă. Piața principală vă invită la o cafea afară înainte de apusul timpuriu.",
+            "en": "Enjoy the mild winter sun at Castell de Son Mas with crisp, clear views. Santa Maria Church offers a peaceful atmosphere away from the summer crowds. Midday light in CCA Andratx is particularly beautiful for art lovers. The main square is perfect for an outdoor coffee before the early winter sunset leads you to the cozy bistro."
+          },
+          "stops": [
+            {
+              "name": "Castell de Son Mas",
+              "tip_5lang": {
+                "de": "Die dicken Mauern speichern die Kühle; eine leichte Jacke ist ratsam.",
+                "hu": "A vastag falak tartják a hűvöset; egy könnyű kabát ajánlott.",
+                "ro": "Zidurile groase rețin răcoarea; se recomandă o jachetă ușoară.",
+                "en": "The thick stone walls retain the chill; a light jacket is advised."
+              }
+            },
+            {
+              "name": "Santa Maria Church",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Stille der Nebensaison in diesem historischen Bau.",
+                "hu": "Csodálja meg a holtszezon csendjét ebben a történelmi épületben.",
+                "ro": "Admirați liniștea extrasezonului în această clădire istorică.",
+                "en": "Admire the off-season silence in this historic building."
+              }
+            },
+            {
+              "name": "CCA Andratx",
+              "tip_5lang": {
+                "de": "Die Wintersonne fällt flach und golden in die Atrien.",
+                "hu": "A téli nap alacsonyan és arany fényben esik be az udvarokba.",
+                "ro": "Soarele de iarnă cade jos și auriu în atriile centrului.",
+                "en": "The winter sun falls low and golden into the center's atriums."
+              }
+            },
+            {
+              "name": "Andratx Main Square",
+              "tip_5lang": {
+                "de": "Suchen Sie sich einen Platz in der Sonne für die Mittagspause.",
+                "hu": "Keressen egy napos helyet a főtéren a déli pihenőhöz.",
+                "ro": "Căutați un loc la soare în piață pentru pauza de prânz.",
+                "en": "Find a spot in the direct sun for your midday break."
+              }
+            },
+            {
+              "name": "Local Bistro",
+              "tip_5lang": {
+                "de": "Probieren Sie saisonale Gerichte mit mallorquinischen Mandeln.",
+                "hu": "Kóstolja meg a szezonális ételeket mallorcai mandulával.",
+                "ro": "Gustați preparate de sezon cu migdale mallorquine.",
+                "en": "Try seasonal dishes prepared with local Mallorcan almonds."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Temperaturen sind ideal zum Wandern, sinken aber ab 17:00 Uhr schnell.",
+              "Im Winter sind die Parkplätze in Andratx wesentlich einfacher zu finden.",
+              "Die Luftfeuchtigkeit kann morgens hoch sein; kleiden Sie sich im Zwiebelprinzip.",
+              "Viele historische Stätten sind im Winter weniger überlaufen.",
+              "Sonnenuntergang ist im Dezember bereits gegen 17:30 Uhr."
+            ],
+            "hu": [
+              "A hőmérséklet ideális a sétához, de 17:00 után gyorsan hűl az idő.",
+              "Télen az Andratx környéki parkolás sokkal egyszerűbb és gyorsabb.",
+              "A reggeli páratartalom magas lehet; öltözködjön rétegesen.",
+              "A történelmi helyszínek télen sokkal csendesebbek és élvezhetőbbek.",
+              "A naplemente decemberben már délután 17:30 körül bekövetkezik."
+            ],
+            "ro": [
+              "Temperaturile sunt ideale pentru plimbări, dar scad rapid după ora 17:00.",
+              "Iarna, locurile de parcare în Andratx sunt mult mai ușor de găsit.",
+              "Umiditatea poate fi ridicată dimineața; îmbrăcați-vă în straturi.",
+              "Multe situri istorice sunt mult mai puțin aglomerate iarna.",
+              "Apusul soarelui în decembrie este deja în jurul orei 17:30."
+            ],
+            "en": [
+              "Temperatures are ideal for walking but drop rapidly after 17:00.",
+              "Parking in Andratx is significantly easier to find during winter months.",
+              "Humidity can be high in the morning; use the layering principle for clothing.",
+              "Historical sites are much less crowded and more peaceful in winter.",
+              "Sunset in December occurs early, around 17:30."
+            ]
+          }
+        }
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 14.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Hafen von Andratx",
+            "hu": "Andratx kikötője",
+            "ro": "Portul Andratx",
+            "en": "Port of Andratx"
+          },
+          "coords": [
+            2.385,
+            39.544
+          ],
+          "category": "promenades",
+          "arrive_at": "09:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Genießen Sie einen Kaffee mit Blick auf die Luxusyachten.",
+            "hu": "Igyon egy kávét a luxusjachtok látványával.",
+            "ro": "Savurați o cafea cu vedere la iahturile de lux.",
+            "en": "Enjoy a coffee with views of the luxury yachts."
+          }
+        },
+        {
+          "name": {
+            "de": "Sant Elm",
+            "hu": "Sant Elm",
+            "ro": "Sant Elm",
+            "en": "Sant Elm"
+          },
+          "coords": [
+            2.351,
+            39.578
+          ],
+          "category": "parks",
+          "arrive_at": "11:20",
+          "stay_min": 90,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Ein idyllisches Fischerdorf mit kristallklarem Wasser.",
+            "hu": "Idilli halászfalu kristálytiszta vízzel.",
+            "ro": "Un sat pescăresc idilic cu apă de cristal.",
+            "en": "An idyllic fishing village with crystal clear water."
+          }
+        },
+        {
+          "name": {
+            "de": "Ruinen von La Trapa",
+            "hu": "La Trapa romok",
+            "ro": "Ruinele La Trapa",
+            "en": "Ruins of La Trapa"
+          },
+          "coords": [
+            2.355,
+            39.601
+          ],
+          "category": "historical",
+          "arrive_at": "13:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Anspruchsvolle Auffahrt, aber spektakuläre Aussicht.",
+            "hu": "Nehéz emelkedő, de látványos kilátás a csúcsról.",
+            "ro": "Urcare dificilă, dar vedere spectaculoasă.",
+            "en": "Challenging climb but spectacular views from the top."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre de Cala en Basset",
+            "hu": "Cala en Basset torony",
+            "ro": "Turnul Cala en Basset",
+            "en": "Torre de Cala en Basset"
+          },
+          "coords": [
+            2.342,
+            39.588
+          ],
+          "category": "towers",
+          "arrive_at": "15:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Wachturm mit Blick auf die Insel Sa Dragonera.",
+            "hu": "Őrtorony kilátással Sa Dragonera szigetére.",
+            "ro": "Turn de veghe cu vedere spre insula Sa Dragonera.",
+            "en": "Watchtower with views of Sa Dragonera island."
+          }
+        },
+        {
+          "name": {
+            "de": "Strandpause Sant Elm",
+            "hu": "Strandolás Sant Elmben",
+            "ro": "Pauză de plajă Sant Elm",
+            "en": "Beach Break Sant Elm"
+          },
+          "coords": [
+            2.35,
+            39.577
+          ],
+          "category": "beach",
+          "arrive_at": "16:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Kühlen Sie sich vor der Rückfahrt im Meer ab.",
+            "hu": "Hűsöljön meg a tengerben a visszaindulás előtt.",
+            "ro": "Răcoriți-vă în mare înainte de întoarcere.",
+            "en": "Cool off in the sea before heading back."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückkehr nach Andratx",
+            "hu": "Visszatérés Andratxba",
+            "ro": "Întoarcerea în Andratx",
+            "en": "Return to Andratx"
+          },
+          "coords": [
+            2.425,
+            39.575
+          ],
+          "category": "square",
+          "arrive_at": "17:50",
+          "stay_min": 30,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Abschlussgetränk auf der Plaza.",
+            "hu": "Záróital a főtéren.",
+            "ro": "O băutură de final în piață.",
+            "en": "Closing drink at the plaza."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Radtour verbindet den schicken Hafen von Andratx mit der wilden Natur der Westküste. Starten Sie mit einem Frühstück im Hafen, bevor Sie die Küstenstraße nach Sant Elm nehmen. Der Anstieg zu den Ruinen von La Trapa fordert Kondition, belohnt aber mit dem besten Blick Mallorcas auf Sa Dragonera.\n\nAm Nachmittag erkunden Sie den historischen Wachturm von Cala en Basset. Nach der Anstrengung lädt der Strand von Sant Elm zu einer erfrischenden Pause ein. Die Rückfahrt nach Andratx führt durch schattige Pinienwälder und bietet sanfte Abfahrten zum Ausklang des Tages.",
+        "hu": "Ez a kerékpártúra összeköti Andratx elegáns kikötőjét a nyugati part vad természetével. Kezdjen egy reggelivel a kikötőben, mielőtt a part menti úton Sant Elm felé indulna. A La Trapa romjaihoz vezető emelkedő kitartást igényel, de Mallorca egyik legjobb kilátását nyújtja Sa Dragonerára.\n\nDélután fedezze fel a történelmi Cala en Basset őrtornyot. A megerőltetés után Sant Elm strandja frissítő pihenőre csábít. Az Andratxba vezető visszaút árnyas fenyőerdőkön keresztül vezet, kellemes lejtőkkel zárva a napot.",
+        "ro": "Acest tur cu bicicleta combină portul elegant Andratx cu natura sălbatică a coastei de vest. Începeți cu un mic dejun în port înainte de a lua drumul de coastă spre Sant Elm. Urcarea spre ruinele La Trapa necesită condiție fizică, dar recompensează cu cea mai bună priveliște din Mallorca asupra Sa Dragonera.\n\nDupă-amiaza, explorați turnul istoric de veghe Cala en Basset. După efort, plaja din Sant Elm vă invită la o pauză revigorantă. Drumul de întoarcere spre Andratx trece prin păduri de pini umbroase și oferă coborâri line pentru finalul zilei.",
+        "en": "This bike tour connects the chic Port of Andratx with the wild nature of the west coast. Start with breakfast in the harbor before taking the coastal road to Sant Elm. The climb to the ruins of La Trapa requires fitness but rewards you with Mallorca's best view of Sa Dragonera.\n\nIn the afternoon, explore the historical watchtower of Cala en Basset. After the exertion, Sant Elm beach invites you for a refreshing break. The ride back to Andratx leads through shady pine forests, offering gentle descents to end the day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Frischer Fisch",
+            "tip": "Direkt vom Kutter in den Restaurants von Sant Elm."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Friss hal",
+            "tip": "Egyenesen a halászhajókról Sant Elm éttermeiben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pește proaspăt",
+            "tip": "Direct de pe barcă în restaurantele din Sant Elm."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fresh Fish",
+            "tip": "Straight from the boats in Sant Elm's restaurants."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "La Trapa Aussichtspunkt",
+            "tip": "Stille und Weite mit Blick auf das Meer.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "La Trapa kilátó",
+            "tip": "Csend és tágasság kilátással a tengerre.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punctul de belvedere La Trapa",
+            "tip": "Liniște și imensitate cu vedere la mare.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "La Trapa Viewpoint",
+            "tip": "Silence and vastness with sea views.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirs in Sant Elm",
+            "tip": "Hübsche Keramik und Strandmode."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szuvenírek Sant Elmben",
+            "tip": "Szép kerámiák és stranddivat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Suveniruri în Sant Elm",
+            "tip": "Ceramică frumoasă și modă de plajă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Souvenirs in Sant Elm",
+            "tip": "Beautiful ceramics and beach wear."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nehmen Sie ausreichend Wasser mit, die Strecke hat kaum Schatten.",
+          "Prüfen Sie die Bremsen vor der Abfahrt von La Trapa."
+        ],
+        "hu": [
+          "Vigyen elég vizet, az úton kevés az árnyék.",
+          "Ellenőrizze a fékeket a La Trapa-i leereszkedés előtt."
+        ],
+        "ro": [
+          "Luați suficientă apă, traseul are puțină umbră.",
+          "Verificați frânele înainte de coborârea de la La Trapa."
+        ],
+        "en": [
+          "Take plenty of water, as there is little shade on the route.",
+          "Check your brakes before descending from La Trapa."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Diese Radtour verbindet den schicken Hafen von Andratx mit der wilden Natur der Westküste. Starten Sie mit einem Frühstück im Hafen, bevor Sie die Küstenstraße nach Sant Elm nehmen. Der Anstieg zu den Ruinen von La Trapa fordert Kondition, belohnt aber mit dem besten Blick Mallorcas auf Sa Dragonera.\n\nAm Nachmittag erkunden Sie den historischen Wachturm von Cala en Basset. Nach der Anstrengung lädt der Strand von Sant Elm zu einer erfrischenden Pause ein. Die Rückfahrt nach Andratx führt durch schattige Pinienwälder und bietet sanfte Abfahrten zum Ausklang des Tages.",
+            "hu": "Ez a kerékpártúra összeköti Andratx elegáns kikötőjét a nyugati part vad természetével. Kezdjen egy reggelivel a kikötőben, mielőtt a part menti úton Sant Elm felé indulna. A La Trapa romjaihoz vezető emelkedő kitartást igényel, de Mallorca egyik legjobb kilátását nyújtja Sa Dragonerára.\n\nDélután fedezze fel a történelmi Cala en Basset őrtornyot. A megerőltetés után Sant Elm strandja frissítő pihenőre csábít. Az Andratxba vezető visszaút árnyas fenyőerdőkön keresztül vezet, kellemes lejtőkkel zárva a napot.",
+            "ro": "Acest tur cu bicicleta combină portul elegant Andratx cu natura sălbatică a coastei de vest. Începeți cu un mic dejun în port înainte de a lua drumul de coastă spre Sant Elm. Urcarea spre ruinele La Trapa necesită condiție fizică, dar recompensează cu cea mai bună priveliște din Mallorca asupra Sa Dragonera.\n\nDupă-amiaza, explorați turnul istoric de veghe Cala en Basset. După efort, plaja din Sant Elm vă invită la o pauză revigorantă. Drumul de întoarcere spre Andratx trece prin păduri de pini umbroase și oferă coborâri line pentru finalul zilei.",
+            "en": "This bike tour connects the chic Port of Andratx with the wild nature of the west coast. Start with breakfast in the harbor before taking the coastal road to Sant Elm. The climb to the ruins of La Trapa requires fitness but rewards you with Mallorca's best view of Sa Dragonera.\n\nIn the afternoon, explore the historical watchtower of Cala en Basset. After the exertion, Sant Elm beach invites you for a refreshing break. The ride back to Andratx leads through shady pine forests, offering gentle descents to end the day."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Hafen von Andratx",
+                "hu": "Andratx kikötője",
+                "ro": "Portul Andratx",
+                "en": "Port of Andratx"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie einen Kaffee mit Blick auf die Luxusyachten.",
+                "hu": "Igyon egy kávét a luxusjachtok látványával.",
+                "ro": "Savurați o cafea cu vedere la iahturile de lux.",
+                "en": "Enjoy a coffee with views of the luxury yachts."
+              }
+            },
+            {
+              "name": {
+                "de": "Sant Elm",
+                "hu": "Sant Elm",
+                "ro": "Sant Elm",
+                "en": "Sant Elm"
+              },
+              "tip_5lang": {
+                "de": "Ein idyllisches Fischerdorf mit kristallklarem Wasser.",
+                "hu": "Idilli halászfalu kristálytiszta vízzel.",
+                "ro": "Un sat pescăresc idilic cu apă de cristal.",
+                "en": "An idyllic fishing village with crystal clear water."
+              }
+            },
+            {
+              "name": {
+                "de": "Ruinen von La Trapa",
+                "hu": "La Trapa romok",
+                "ro": "Ruinele La Trapa",
+                "en": "Ruins of La Trapa"
+              },
+              "tip_5lang": {
+                "de": "Anspruchsvolle Auffahrt, aber spektakuläre Aussicht.",
+                "hu": "Nehéz emelkedő, de látványos kilátás a csúcsról.",
+                "ro": "Urcare dificilă, dar vedere spectaculoasă.",
+                "en": "Challenging climb but spectacular views from the top."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre de Cala en Basset",
+                "hu": "Cala en Basset torony",
+                "ro": "Turnul Cala en Basset",
+                "en": "Torre de Cala en Basset"
+              },
+              "tip_5lang": {
+                "de": "Wachturm mit Blick auf die Insel Sa Dragonera.",
+                "hu": "Őrtorony kilátással Sa Dragonera szigetére.",
+                "ro": "Turn de veghe cu vedere spre insula Sa Dragonera.",
+                "en": "Watchtower with views of Sa Dragonera island."
+              }
+            },
+            {
+              "name": {
+                "de": "Strandpause Sant Elm",
+                "hu": "Strandolás Sant Elmben",
+                "ro": "Pauză de plajă Sant Elm",
+                "en": "Beach Break Sant Elm"
+              },
+              "tip_5lang": {
+                "de": "Kühlen Sie sich vor der Rückfahrt im Meer ab.",
+                "hu": "Hűsöljön meg a tengerben a visszaindulás előtt.",
+                "ro": "Răcoriți-vă în mare înainte de întoarcere.",
+                "en": "Cool off in the sea before heading back."
+              }
+            },
+            {
+              "name": {
+                "de": "Rückkehr nach Andratx",
+                "hu": "Visszatérés Andratxba",
+                "ro": "Întoarcerea în Andratx",
+                "en": "Return to Andratx"
+              },
+              "tip_5lang": {
+                "de": "Abschlussgetränk auf der Plaza.",
+                "hu": "Záróital a főtéren.",
+                "ro": "O băutură de final în piață.",
+                "en": "Closing drink at the plaza."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Frischer Fisch",
+                "tip": "Direkt vom Kutter in den Restaurants von Sant Elm."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Friss hal",
+                "tip": "Egyenesen a halászhajókról Sant Elm éttermeiben."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Pește proaspăt",
+                "tip": "Direct de pe barcă în restaurantele din Sant Elm."
+              }
+            ],
+            "en": [
+              {
+                "name": "Fresh Fish",
+                "tip": "Straight from the boats in Sant Elm's restaurants."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "La Trapa Aussichtspunkt",
+                "tip": "Stille und Weite mit Blick auf das Meer.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "La Trapa kilátó",
+                "tip": "Csend és tágasság kilátással a tengerre.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Punctul de belvedere La Trapa",
+                "tip": "Liniște și imensitate cu vedere la mare.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "La Trapa Viewpoint",
+                "tip": "Silence and vastness with sea views.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Souvenirs in Sant Elm",
+                "tip": "Hübsche Keramik und Strandmode."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Szuvenírek Sant Elmben",
+                "tip": "Szép kerámiák és stranddivat."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Suveniruri în Sant Elm",
+                "tip": "Ceramică frumoasă și modă de plajă."
+              }
+            ],
+            "en": [
+              {
+                "name": "Souvenirs in Sant Elm",
+                "tip": "Beautiful ceramics and beach wear."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Nehmen Sie ausreichend Wasser mit, die Strecke hat kaum Schatten.",
+              "Prüfen Sie die Bremsen vor der Abfahrt von La Trapa."
+            ],
+            "hu": [
+              "Vigyen elég vizet, az úton kevés az árnyék.",
+              "Ellenőrizze a fékeket a La Trapa-i leereszkedés előtt."
+            ],
+            "ro": [
+              "Luați suficientă apă, traseul are puțină umbră.",
+              "Verificați frânele înainte de coborârea de la La Trapa."
+            ],
+            "en": [
+              "Take plenty of water, as there is little shade on the route.",
+              "Check your brakes before descending from La Trapa."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie vorsichtig am Hafen von Andratx, wo die Gischt auf den Regen trifft. Die Fahrt nach Sant Elm erfordert volle Konzentration auf der nassen Straße. Die Ruinen von La Trapa und der Torre de Cala en Basset können matschig sein, bieten aber dramatische Wolkenstimmungen. Nach einer kurzen Pause am Strand kehren Sie für eine heiße Schokolade nach Andratx zurück.",
+            "hu": "Induljon óvatosan Andratx kikötőjéből, ahol a tengeri permet keveredik az esővel. A Sant Elm-be vezető út teljes koncentrációt igényel a nedves aszfalton. A La Trapa romjai és a Torre de Cala en Basset sárosak lehetnek, de drámai felhőket látni innen. Egy rövid strand-pihenő után térjen vissza Andratxba egy forró csokira.",
+            "ro": "Porniți cu prudență din Portul Andratx, unde stropii mării se întâlnesc cu ploaia. Drumul spre Sant Elm necesită concentrare maximă pe asfaltul ud. Ruinele La Trapa și Torre de Cala en Basset pot fi noroioase, dar oferă peisaje dramatice cu nori. După o scurtă pauză pe plajă, reveniți în Andratx pentru o ciocolată caldă.",
+            "en": "Start cautiously at the Port of Andratx, where sea spray meets the rain. The ride to Sant Elm requires full concentration on the wet roads. The ruins of La Trapa and the Torre de Cala en Basset might be muddy but offer dramatic cloudscapes. After a brief beach break, return to Andratx for a well-deserved hot chocolate."
+          },
+          "stops": [
+            {
+              "name": "Port of Andratx",
+              "tip_5lang": {
+                "de": "Achten Sie auf rutschige Markierungen am Boden des Hafens.",
+                "hu": "Ügyeljen a csúszós felfestésekre a kikötő aszfaltján.",
+                "ro": "Atenție la marcajele alunecoase de pe asfaltul portului.",
+                "en": "Watch out for slippery ground markings at the harbor."
+              }
+            },
+            {
+              "name": "Sant Elm",
+              "tip_5lang": {
+                "de": "Cafés am Wasser bieten guten Schutz während starker Schauer.",
+                "hu": "A vízparti kávézók jó menedéket nyújtanak a nagyobb záporok alatt.",
+                "ro": "Cafenelele de pe mal oferă un adăpost bun în timpul averselor.",
+                "en": "Waterfront cafes provide good shelter during heavy showers."
+              }
+            },
+            {
+              "name": "Ruins of La Trapa",
+              "tip_5lang": {
+                "de": "Der Wanderweg kann sehr schlammig sein; schieben Sie eventuell das Rad.",
+                "hu": "A túraútvonal nagyon sáros lehet; szükség esetén tolja a bringát.",
+                "ro": "Traseul poate fi foarte noroios; eventual împingeți bicicleta.",
+                "en": "The trail can be very muddy; consider pushing your bike if needed."
+              }
+            },
+            {
+              "name": "Torre de Cala en Basset",
+              "tip_5lang": {
+                "de": "Vorsicht vor starken Windböen an der exponierten Steilküste.",
+                "hu": "Vigyázzon az erős széllökésekkel a kitett sziklaparton.",
+                "ro": "Atenție la rafalele puternice de vânt pe faleza expusă.",
+                "en": "Be careful with strong wind gusts on the exposed cliffside."
+              }
+            },
+            {
+              "name": "Beach Break Sant Elm",
+              "tip_5lang": {
+                "de": "Ein leerer Strand im Regen hat eine mystische Ausstrahlung.",
+                "hu": "Az üres strand az esőben misztikus hangulatot áraszt.",
+                "ro": "O plajă goală în ploaie are o radiație mistică.",
+                "en": "An empty beach in the rain has a truly mystical atmosphere."
+              }
+            },
+            {
+              "name": "Return to Andratx",
+              "tip_5lang": {
+                "de": "Bremsen Sie frühzeitig auf dem nassen Rückweg bergab.",
+                "hu": "Fékezzen időben a lejtős, nedves visszaúton.",
+                "ro": "Frânați din timp pe drumul de întoarcere umed și în pantă.",
+                "en": "Brake early on the wet downhill sections of the return trip."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Scheibenbremsen sind bei Regen an Mallorcas Steigungen ein großer Vorteil.",
+              "Tragen Sie neongelbe Regenkleidung für bessere Sichtbarkeit im Nebel.",
+              "Vermeiden Sie die weißen Fahrbahnmarkierungen, diese sind extrem glatt.",
+              "Nehmen Sie Plastikbeutel für Ihre Wertsachen und Elektronik mit.",
+              "Die Straße von Andratx nach Sant Elm ist schmal; Vorsicht bei Gegenverkehr."
+            ],
+            "hu": [
+              "A tárcsafék nagy előny Mallorca lejtőin esős időben.",
+              "Viseljen neon esőruhát a jobb láthatóság érdekében a ködben.",
+              "Kerülje a fehér útburkolati jeleket, mert ezek rendkívül csúszósak.",
+              "Vigyen műanyag zacskót az értéktárgyai és elektronikai eszközei védelmére.",
+              "Az Andratx-Sant Elm út keskeny; vigyázzon a szembejövő forgalommal."
+            ],
+            "ro": [
+              "Frânele pe disc sunt un mare avantaj pe pantele din Mallorca pe ploaie.",
+              "Purtați haine de ploaie neon pentru o vizibilitate mai bună în ceață.",
+              "Evitați marcajele rutiere albe, acestea sunt extrem de alunecoase.",
+              "Luați pungi de plastic pentru obiectele de valoare și electronice.",
+              "Drumul de la Andratx la Sant Elm este îngust; atenție la trafic."
+            ],
+            "en": [
+              "Disc brakes are a major advantage on Mallorca's slopes in wet weather.",
+              "Wear neon rain gear for better visibility during foggy conditions.",
+              "Avoid riding on white road markings; they become extremely slick.",
+              "Take plastic bags to protect your valuables and electronics from rain.",
+              "The road to Sant Elm is narrow; be extra cautious with oncoming traffic."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Wintermorgen am Hafen von Andratx belebt die Sinne. Die Radtour nach Sant Elm ist bei kühlen Temperaturen deutlich angenehmer als im Sommer. Wandern Sie zu den Ruinen von La Trapa und genießen Sie die klare Luft. Zum Sonnenuntergang am Torre de Cala en Basset sollten Sie eine Weste dabeihaben. Der Tag endet ruhig am beleuchteten Platz von Andratx.",
+            "hu": "Egy friss téli reggel Andratx kikötőjében felélénkíti az érzékeket. A biciklitúra Sant Elm-be sokkal kellemesebb a hűvös időben, mint nyáron. Kiránduljon a La Trapa romjaihoz a kristálytiszta levegőben. A Torre de Cala en Basset naplementéjéhez vigyen mellényt. A nap csendesen ér véget Andratx kivilágított főterén.",
+            "ro": "O dimineață răcoroasă de iarnă în Portul Andratx vă revigorează simțurile. Turul cu bicicleta spre Sant Elm este mult mai plăcut la temperaturi scăzute. Mergeți la ruinele La Trapa în aerul curat. Pentru apusul de la Torre de Cala en Basset, purtați o vestă. Ziua se încheie liniștit în piața din Andratx.",
+            "en": "A crisp winter morning at the Port of Andratx invigorates the senses. The bike ride to Sant Elm is much more comfortable in cool temperatures than in summer heat. Hike to the ruins of La Trapa in the crystal-clear air. For the sunset at Torre de Cala en Basset, bring a windproof vest. The day ends quietly at Andratx's illuminated main square."
+          },
+          "stops": [
+            {
+              "name": "Port of Andratx",
+              "tip_5lang": {
+                "de": "Genießen Sie den Hafen ohne die Yacht-Massen des Sommers.",
+                "hu": "Élvezze a kikötőt a nyári jacht-tömeg nélkül.",
+                "ro": "Bucurați-vă de port fără mulțimile de iahturi din timpul verii.",
+                "en": "Enjoy the harbor without the overwhelming summer yacht crowds."
+              }
+            },
+            {
+              "name": "Sant Elm",
+              "tip_5lang": {
+                "de": "Die Wintersonne steht perfekt für Fotos der Insel Dragonera.",
+                "hu": "A téli nap beesési szöge tökéletes a Dragonera-sziget fotózásához.",
+                "ro": "Soarele de iarnă stă perfect pentru fotografii cu insula Dragonera.",
+                "en": "The winter sun angle is perfect for photographing Dragonera Island."
+              }
+            },
+            {
+              "name": "Ruins of La Trapa",
+              "tip_5lang": {
+                "de": "Ideales Klima für den steilen Anstieg; kein Hitzestau.",
+                "hu": "Ideális klíma a meredek emelkedőhöz; nincs hőségriadó.",
+                "ro": "Climat ideal pentru urcarea abruptă; fără stres termic.",
+                "en": "Ideal climate for the steep ascent; no risk of overheating."
+              }
+            },
+            {
+              "name": "Torre de Cala en Basset",
+              "tip_5lang": {
+                "de": "Bester Aussichtspunkt für den frühen Winter-Sonnenuntergang.",
+                "hu": "A legjobb kilátópont a korai téli naplementéhez.",
+                "ro": "Cel mai bun punct de observație pentru apusul timpuriu de iarnă.",
+                "en": "The best vantage point for the early winter sunset."
+              }
+            },
+            {
+              "name": "Beach Break Sant Elm",
+              "tip_5lang": {
+                "de": "Ein ruhiger Spaziergang im Sand ersetzt das Bad im Meer.",
+                "hu": "Egy csendes homoki séta helyettesíti a tengeri fürdőzést.",
+                "ro": "O plimbare liniștită pe nisip înlocuiește baia în mare.",
+                "en": "A quiet walk on the sand replaces a swim in the sea."
+              }
+            },
+            {
+              "name": "Return to Andratx",
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass Ihre Fahrradlichter für die Dämmerung funktionieren.",
+                "hu": "Győződjön meg róla, hogy a kerékpárlámpák működnek a szürkületben.",
+                "ro": "Asigurați-vă că luminile bicicletei funcționează pentru amurg.",
+                "en": "Ensure your bike lights are functioning for the early twilight."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Luft ist im Winter viel klarer, was die Fernsicht auf das Meer verbessert.",
+              "Einige Cafés in Sant Elm machen im tiefsten Winter Urlaubspause.",
+              "Fahrradhandschuhe sind für die Abfahrten am Morgen unerlässlich.",
+              "Mallorca ist im Winter ein Paradies für Radsport-Profis.",
+              "Die Sonne geht gegen 17:30 Uhr unter, danach wird es schlagartig kühl."
+            ],
+            "hu": [
+              "A levegő télen sokkal tisztább, ami javítja a távoli kilátást a tengerre.",
+              "Néhány kávézó Sant Elm-ben télen szabadság miatt zárva tarthat.",
+              "A kerékpáros kesztyű elengedhetetlen a reggeli lejtmenetekhez.",
+              "Mallorca télen a profi kerékpárosok paradicsoma.",
+              "A nap 17:30 körül nyugszik, ezután hirtelen lehűl a levegő."
+            ],
+            "ro": [
+              "Aerul este mult mai curat iarna, ceea ce îmbunătățește vizibilitatea spre mare.",
+              "Unele cafenele din Sant Elm pot fi închise pentru vacanță iarna.",
+              "Mănușile de ciclism sunt esențiale pentru coborârile de dimineață.",
+              "Mallorca este un paradis pentru cicliștii profesioniști în timpul iernii.",
+              "Soarele apune în jurul orei 17:30, după care se răcește brusc."
+            ],
+            "en": [
+              "The air is much clearer in winter, improving distant sea views.",
+              "Some cafes in Sant Elm may take a holiday break in mid-winter.",
+              "Cycling gloves are essential for the cool morning descents.",
+              "Mallorca is a paradise for professional cyclists during the winter.",
+              "Sunset is around 17:30; the temperature drops quickly afterwards."
+            ]
+          }
+        }
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "18:15",
+      "total_km": 32.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Hafen von Andratx",
+            "hu": "Andratx kikötője",
+            "ro": "Portul Andratx",
+            "en": "Port of Andratx"
+          },
+          "coords": [
+            2.385,
+            39.544
+          ],
+          "category": "promenades",
+          "arrive_at": "09:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie im öffentlichen Parkplatz am Hafeneingang.",
+            "hu": "Parkoljon a kikötő bejáratánál lévő nyilvános parkolóban.",
+            "ro": "Parcați în parcarea publică de la intrarea în port.",
+            "en": "Park in the public parking lot at the harbor entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Sant Elm & Bootstour",
+            "hu": "Sant Elm és hajótúra",
+            "ro": "Sant Elm și tur cu barca",
+            "en": "Sant Elm & Boat Trip"
+          },
+          "coords": [
+            2.351,
+            39.578
+          ],
+          "category": "natural features",
+          "arrive_at": "11:00",
+          "stay_min": 180,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 7.5,
+          "tip_5lang": {
+            "de": "Nehmen Sie das Boot zur Insel Sa Dragonera.",
+            "hu": "Szálljon hajóra Sa Dragonera szigetére.",
+            "ro": "Luați barca spre insula Sa Dragonera.",
+            "en": "Take the boat to Sa Dragonera island."
+          }
+        },
+        {
+          "name": {
+            "de": "Naturpark Sa Dragonera",
+            "hu": "Sa Dragonera Nemzeti Park",
+            "ro": "Parcul Natural Sa Dragonera",
+            "en": "Sa Dragonera Natural Park"
+          },
+          "coords": [
+            2.32,
+            39.585
+          ],
+          "category": "natural features",
+          "arrive_at": "11:30",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Achten Sie auf die vielen Eidechsen auf der Insel.",
+            "hu": "Figyelje meg a szigeten élő számos gyíkot.",
+            "ro": "Observați numeroasele șopârle de pe insulă.",
+            "en": "Watch out for the many lizards on the island."
+          }
+        },
+        {
+          "name": {
+            "de": "CCA Andratx",
+            "hu": "CCA Andratx",
+            "ro": "CCA Andratx",
+            "en": "CCA Andratx"
+          },
+          "coords": [
+            2.428,
+            39.578
+          ],
+          "category": "museums",
+          "arrive_at": "14:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 9.0,
+          "tip_5lang": {
+            "de": "Das Gebäude selbst ist ein architektonisches Highlight.",
+            "hu": "Az épület maga is építészeti remekmű.",
+            "ro": "Clădirea în sine este un punct culminant arhitectural.",
+            "en": "The building itself is an architectural highlight."
+          }
+        },
+        {
+          "name": {
+            "de": "Andratx Altstadt",
+            "hu": "Andratx óvárosa",
+            "ro": "Orașul vechi Andratx",
+            "en": "Andratx Old Town"
+          },
+          "coords": [
+            2.425,
+            39.575
+          ],
+          "category": "historical",
+          "arrive_at": "16:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Spaziergang durch die engen Gassen bei Sonnenuntergang.",
+            "hu": "Séta a szűk utcákon naplementekor.",
+            "ro": "Plimbare prin străzile înguste la apus.",
+            "en": "Walk through the narrow streets at sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erleben Sie die exklusive Seite Mallorcas im Hafen von Andratx, wo Luxusyachten auf traditionelle Fischerboote treffen. Danach fahren Sie nach Sant Elm, um mit der Fähre zur unbewohnten Insel Sa Dragonera überzusetzen – ein Paradies für Wanderer und Tierfreunde. Die Insel ist berühmt für ihre endemischen Eidechsen.\n\nZurück auf dem Festland besuchen Sie das CCA Andratx, ein beeindruckendes Zentrum für zeitgenössische Kunst. Den Tag lassen Sie entspannt in der historischen Altstadt von Andratx ausklingen, während die goldene Stunde die Steinfassaden in warmes Licht taucht.",
+        "hu": "Tapasztalja meg Mallorca exkluzív oldalát Andratx kikötőjében, ahol luxusjachtok találkoznak a hagyományos halászhajókkal. Ezután vezessen Sant Elmbe, hogy átkeljen a lakatlan Sa Dragonera szigetére – ez a túrázók és állatbarátok paradicsoma. A sziget híres az őshonos gyíkjairól.\n\nVisszatérve a szárazföldre, látogasson el a CCA Andratx-ba, a kortárs művészet lenyűgöző központjába. A napot lazítással zárja Andratx történelmi óvárosában, miközben az 'aranyóra' meleg fénybe vonja a kőhomlokzatokat.",
+        "ro": "Experimentați latura exclusivistă a Mallorcăi în portul Andratx, unde iahturile de lux întâlnesc bărcile de pescuit tradiționale. Apoi conduceți spre Sant Elm pentru a traversa spre insula nelocuită Sa Dragonera – un paradis pentru drumeți și iubitorii de animale. Insula este faimoasă pentru șopârlele sale endemice.\n\nÎnapoi pe continent, vizitați CCA Andratx, un centru impresionant de artă contemporană. Încheiați ziua relaxat în centrul istoric al orașului Andratx, în timp ce 'ora de aur' scaldă fațadele de piatră într-o lumină caldă.",
+        "en": "Experience the exclusive side of Mallorca in the Port of Andratx, where luxury yachts meet traditional fishing boats. Then drive to Sant Elm to cross over to the uninhabited Sa Dragonera island – a paradise for hikers and animal lovers. The island is famous for its endemic lizards.\n\nBack on the mainland, visit CCA Andratx, an impressive center for contemporary art. End the day relaxed in the historic old town of Andratx, as the golden hour bathes the stone facades in warm light."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Paella",
+            "tip": "Am Wasser in Sant Elm genießen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Paella",
+            "tip": "Élvezze a vízparton Sant Elmben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Paella",
+            "tip": "Savurați-o pe malul apei în Sant Elm."
+          }
+        ],
+        "en": [
+          {
+            "name": "Paella",
+            "tip": "Enjoy it by the water in Sant Elm."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Leuchtturm Dragonera",
+            "tip": "Völlige Isolation am Rande der Welt.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Dragonera világítótorony",
+            "tip": "Teljes elszigeteltség a világ szélén.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Farul Dragonera",
+            "tip": "Izolare totală la marginea lumii.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Dragonera Lighthouse",
+            "tip": "Total isolation at the edge of the world.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Boutiquen am Hafen",
+            "tip": "Designer-Mode und exklusive Accessoires."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kikötői butikok",
+            "tip": "Dizájner ruhák és exkluzív kiegészítők."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Boutique-uri în port",
+            "tip": "Modă de designer și accesorii exclusive."
+          }
+        ],
+        "en": [
+          {
+            "name": "Harbor Boutiques",
+            "tip": "Designer fashion and exclusive accessories."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Buchen Sie die Fähre nach Dragonera im Voraus.",
+          "Parkplätze im Hafen sind im Sommer schnell belegt."
+        ],
+        "hu": [
+          "Foglalja le előre a Dragonera kompot.",
+          "A kikötői parkolók nyáron gyorsan megtelnek."
+        ],
+        "ro": [
+          "Rezervați feribotul spre Dragonera în avans.",
+          "Parcările din port se ocupă rapid vara."
+        ],
+        "en": [
+          "Book the ferry to Dragonera in advance.",
+          "Parking spaces in the harbor fill up quickly in summer."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Erleben Sie die exklusive Seite Mallorcas im Hafen von Andratx, wo Luxusyachten auf traditionelle Fischerboote treffen. Danach fahren Sie nach Sant Elm, um mit der Fähre zur unbewohnten Insel Sa Dragonera überzusetzen – ein Paradies für Wanderer und Tierfreunde. Die Insel ist berühmt für ihre endemischen Eidechsen.\n\nZurück auf dem Festland besuchen Sie das CCA Andratx, ein beeindruckendes Zentrum für zeitgenössische Kunst. Den Tag lassen Sie entspannt in der historischen Altstadt von Andratx ausklingen, während die goldene Stunde die Steinfassaden in warmes Licht taucht.",
+            "hu": "Tapasztalja meg Mallorca exkluzív oldalát Andratx kikötőjében, ahol luxusjachtok találkoznak a hagyományos halászhajókkal. Ezután vezessen Sant Elmbe, hogy átkeljen a lakatlan Sa Dragonera szigetére – ez a túrázók és állatbarátok paradicsoma. A sziget híres az őshonos gyíkjairól.\n\nVisszatérve a szárazföldre, látogasson el a CCA Andratx-ba, a kortárs művészet lenyűgöző központjába. A napot lazítással zárja Andratx történelmi óvárosában, miközben az 'aranyóra' meleg fénybe vonja a kőhomlokzatokat.",
+            "ro": "Experimentați latura exclusivistă a Mallorcăi în portul Andratx, unde iahturile de lux întâlnesc bărcile de pescuit tradiționale. Apoi conduceți spre Sant Elm pentru a traversa spre insula nelocuită Sa Dragonera – un paradis pentru drumeți și iubitorii de animale. Insula este faimoasă pentru șopârlele sale endemice.\n\nÎnapoi pe continent, vizitați CCA Andratx, un centru impresionant de artă contemporană. Încheiați ziua relaxat în centrul istoric al orașului Andratx, în timp ce 'ora de aur' scaldă fațadele de piatră într-o lumină caldă.",
+            "en": "Experience the exclusive side of Mallorca in the Port of Andratx, where luxury yachts meet traditional fishing boats. Then drive to Sant Elm to cross over to the uninhabited Sa Dragonera island – a paradise for hikers and animal lovers. The island is famous for its endemic lizards.\n\nBack on the mainland, visit CCA Andratx, an impressive center for contemporary art. End the day relaxed in the historic old town of Andratx, as the golden hour bathes the stone facades in warm light."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Hafen von Andratx",
+                "hu": "Andratx kikötője",
+                "ro": "Portul Andratx",
+                "en": "Port of Andratx"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie im öffentlichen Parkplatz am Hafeneingang.",
+                "hu": "Parkoljon a kikötő bejáratánál lévő nyilvános parkolóban.",
+                "ro": "Parcați în parcarea publică de la intrarea în port.",
+                "en": "Park in the public parking lot at the harbor entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Sant Elm & Bootstour",
+                "hu": "Sant Elm és hajótúra",
+                "ro": "Sant Elm și tur cu barca",
+                "en": "Sant Elm & Boat Trip"
+              },
+              "tip_5lang": {
+                "de": "Nehmen Sie das Boot zur Insel Sa Dragonera.",
+                "hu": "Szálljon hajóra Sa Dragonera szigetére.",
+                "ro": "Luați barca spre insula Sa Dragonera.",
+                "en": "Take the boat to Sa Dragonera island."
+              }
+            },
+            {
+              "name": {
+                "de": "Naturpark Sa Dragonera",
+                "hu": "Sa Dragonera Nemzeti Park",
+                "ro": "Parcul Natural Sa Dragonera",
+                "en": "Sa Dragonera Natural Park"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf die vielen Eidechsen auf der Insel.",
+                "hu": "Figyelje meg a szigeten élő számos gyíkot.",
+                "ro": "Observați numeroasele șopârle de pe insulă.",
+                "en": "Watch out for the many lizards on the island."
+              }
+            },
+            {
+              "name": {
+                "de": "CCA Andratx",
+                "hu": "CCA Andratx",
+                "ro": "CCA Andratx",
+                "en": "CCA Andratx"
+              },
+              "tip_5lang": {
+                "de": "Das Gebäude selbst ist ein architektonisches Highlight.",
+                "hu": "Az épület maga is építészeti remekmű.",
+                "ro": "Clădirea în sine este un punct culminant arhitectural.",
+                "en": "The building itself is an architectural highlight."
+              }
+            },
+            {
+              "name": {
+                "de": "Andratx Altstadt",
+                "hu": "Andratx óvárosa",
+                "ro": "Orașul vechi Andratx",
+                "en": "Andratx Old Town"
+              },
+              "tip_5lang": {
+                "de": "Spaziergang durch die engen Gassen bei Sonnenuntergang.",
+                "hu": "Séta a szűk utcákon naplementekor.",
+                "ro": "Plimbare prin străzile înguste la apus.",
+                "en": "Walk through the narrow streets at sunset."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Paella",
+                "tip": "Am Wasser in Sant Elm genießen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Paella",
+                "tip": "Élvezze a vízparton Sant Elmben."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Paella",
+                "tip": "Savurați-o pe malul apei în Sant Elm."
+              }
+            ],
+            "en": [
+              {
+                "name": "Paella",
+                "tip": "Enjoy it by the water in Sant Elm."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Leuchtturm Dragonera",
+                "tip": "Völlige Isolation am Rande der Welt.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Dragonera világítótorony",
+                "tip": "Teljes elszigeteltség a világ szélén.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Farul Dragonera",
+                "tip": "Izolare totală la marginea lumii.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Dragonera Lighthouse",
+                "tip": "Total isolation at the edge of the world.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Boutiquen am Hafen",
+                "tip": "Designer-Mode und exklusive Accessoires."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Kikötői butikok",
+                "tip": "Dizájner ruhák és exkluzív kiegészítők."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Boutique-uri în port",
+                "tip": "Modă de designer și accesorii exclusive."
+              }
+            ],
+            "en": [
+              {
+                "name": "Harbor Boutiques",
+                "tip": "Designer fashion and exclusive accessories."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Buchen Sie die Fähre nach Dragonera im Voraus.",
+              "Parkplätze im Hafen sind im Sommer schnell belegt."
+            ],
+            "hu": [
+              "Foglalja le előre a Dragonera kompot.",
+              "A kikötői parkolók nyáron gyorsan megtelnek."
+            ],
+            "ro": [
+              "Rezervați feribotul spre Dragonera în avans.",
+              "Parcările din port se ocupă rapid vara."
+            ],
+            "en": [
+              "Book the ferry to Dragonera in advance.",
+              "Parking spaces in the harbor fill up quickly in summer."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie entspannt im Hafen von Andratx und beobachten Sie das Wetter vom Auto aus. Sant Elm ist auch im Regen malerisch, während die Bootsfahrt zur Dragonera wetterbedingt entfallen könnte. Das CCA Andratx ist die perfekte Rettung: Ein riesiges Kunstzentrum mit viel Platz im Trockenen. Beenden Sie den Tag mit einer gemütlichen Fahrt durch die engen Gassen der Altstadt von Andratx.",
+            "hu": "Kezdje a napot Andratx kikötőjében, figyelve az időjárást az autóból. Sant Elm esőben is festői, bár a Dragonera hajóút az időjárás miatt elmaradhat. A CCA Andratx a tökéletes mentőöv: egy hatalmas művészeti központ sok fedett hellyel. Zárja a napot egy kényelmes autózással Andratx óvárosának szűk utcáin keresztül.",
+            "ro": "Începeți relaxat în Portul Andratx, observând vremea din mașină. Sant Elm este pitoresc și pe ploaie, deși excursia cu barca spre Dragonera poate fi anulată. CCA Andratx este salvarea perfectă: un centru de artă imens cu mult spațiu la uscat. Încheiați ziua cu o plimbare cu mașina prin orașul vechi.",
+            "en": "Start your day relaxed at the Port of Andratx, watching the waves from your car. Sant Elm remains picturesque in the rain, though the boat trip to Dragonera might be cancelled due to sea conditions. CCA Andratx is the perfect rainy day refuge: a massive art center with plenty of indoor space. End the day with a slow drive through Andratx's historic old town."
+          },
+          "stops": [
+            {
+              "name": "Port of Andratx",
+              "tip_5lang": {
+                "de": "Parken Sie direkt an der Hafenmauer für einen tollen Blick aufs Meer.",
+                "hu": "Parkoljon közvetlenül a kikötői gátnál a nagyszerű tengeri kilátásért.",
+                "ro": "Parcați direct la zidul portului pentru o vedere excelentă spre mare.",
+                "en": "Park directly at the harbor wall for a great rainy view of the sea."
+              }
+            },
+            {
+              "name": "Sant Elm & Boat Trip",
+              "tip_5lang": {
+                "de": "Prüfen Sie telefonisch, ob die Fähre bei Wellengang fährt.",
+                "hu": "Telefonon ellenőrizze, hogy a komp elindul-e nagy hullámzásban.",
+                "ro": "Verificați telefonic dacă feribotul circulă în caz de valuri mari.",
+                "en": "Check by phone if the ferry is operating in rough sea conditions."
+              }
+            },
+            {
+              "name": "Sa Dragonera Natural Park",
+              "tip_5lang": {
+                "de": "Wenn die Überfahrt ausfällt, bietet Sant Elm nette Cafés als Ersatz.",
+                "hu": "Ha a hajóút elmarad, Sant Elm hangulatos kávézókat kínál helyette.",
+                "ro": "Dacă traversarea se anulează, Sant Elm oferă cafenele drăguțe.",
+                "en": "If the boat trip is cancelled, Sant Elm offers cozy cafes instead."
+              }
+            },
+            {
+              "name": "CCA Andratx",
+              "tip_5lang": {
+                "de": "Großer Parkplatz direkt vor dem Eingang im Trockenen.",
+                "hu": "Nagy parkoló közvetlenül a bejárat előtt, közel a szárazhoz.",
+                "ro": "Parcare mare direct în fața intrării, aproape de zona uscată.",
+                "en": "Large parking area directly in front of the entrance for easy access."
+              }
+            },
+            {
+              "name": "Andratx Old Town",
+              "tip_5lang": {
+                "de": "Die Einbahnstraßen können bei Starkregen tückisch sein.",
+                "hu": "Az egyirányú utcák heves esőzéskor trükkösek lehetnek.",
+                "ro": "Străzile cu sens unic pot fi înșelătoare în timpul ploilor torențiale.",
+                "en": "One-way streets can be tricky during heavy downpours."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die kurvige Straße nach Sant Elm ist bei Nässe oft mit Steinschlag belastet.",
+              "Vermeiden Sie das Parken in tiefgelegenen Gebieten bei Sturzregen.",
+              "CCA Andratx bietet eine hervorragende Cafeteria für eine Regenpause.",
+              "Die Sichtverhältnisse auf den Küstenstraßen können durch Nebel stark sinken.",
+              "Nutzen Sie die Parkhäuser in Andratx, um trockenen Fußes in die Stadt zu kommen."
+            ],
+            "hu": [
+              "A Sant Elm-be vezető kanyargós úton esőben gyakori a kőomlás.",
+              "Kerülje a mélyebben fekvő területeken való parkolást felhőszakadáskor.",
+              "A CCA Andratx kiváló kávézóval rendelkezik egy esőszünethez.",
+              "A látási viszonyok a parti utakon a köd miatt jelentősen romolhatnak.",
+              "Használja az andratxi parkolóházakat, hogy száraz lábbal jusson a városba."
+            ],
+            "ro": [
+              "Drumul virajat spre Sant Elm are adesea căderi de pietre pe ploaie.",
+              "Evitați parcarea în zonele joase în timpul ploilor torențiale.",
+              "CCA Andratx oferă o cafenea excelentă pentru o pauză de ploaie.",
+              "Vizibilitatea pe drumurile de coastă poate scădea drastic din cauza ceții.",
+              "Folosiți parcările etajate din Andratx pentru a ajunge în oraș uscat."
+            ],
+            "en": [
+              "The winding road to Sant Elm often has fallen rocks during heavy rain.",
+              "Avoid parking in low-lying areas during flash floods or heavy downpours.",
+              "CCA Andratx has an excellent cafeteria perfect for waiting out a shower.",
+              "Visibility on coastal roads can decrease significantly due to mist and fog.",
+              "Use parking garages in Andratx to stay dry while entering the town."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie die exklusive Ruhe am Hafen von Andratx im Winterlicht. Die Fahrt nach Sant Elm bietet spektakuläre Ausblicke ohne den sommerlichen Verkehr. Eine Überfahrt zur Dragonera ist bei ruhiger See ein Highlight der Nebensaison. Besuchen Sie das CCA Andratx am Nachmittag und spazieren Sie bei stimmungsvoller Beleuchtung durch die historische Altstadt.",
+            "hu": "Élje át a kikötő exkluzív nyugalmát Andratxban a téli fényekben. Az út Sant Elm-be látványos kilátást kínál a nyári forgalom nélkül. A Dragonera-szigetre való átkelés nyugodt tenger esetén a holtszezon fénypontja. Látogassa meg a CCA Andratx-ot délután, majd sétáljon az óvárosban a hangulatos fényekben.",
+            "ro": "Experimentați liniștea exclusivă din Portul Andratx în lumina iernii. Drumul spre Sant Elm oferă vederi spectaculoase fără traficul de vară. O traversare spre Dragonera este un punct culminant al extrasezonului. Vizitați CCA Andratx după-amiaza și plimbați-vă prin orașul vechi.",
+            "en": "Experience the exclusive tranquility of the Port of Andratx in the winter light. The drive to Sant Elm offers spectacular views without the usual summer traffic. A boat trip to Dragonera Island is a true off-season highlight when the sea is calm. Visit CCA Andratx in the afternoon and stroll through the historic old town as evening lights flicker on."
+          },
+          "stops": [
+            {
+              "name": "Port of Andratx",
+              "tip_5lang": {
+                "de": "Im Winter finden Sie problemlos Parkplätze direkt an der Promenade.",
+                "hu": "Télen gond nélkül talál parkolóhelyet közvetlenül a sétányon.",
+                "ro": "Iarna veți găsi fără probleme locuri de parcare direct pe faleză.",
+                "en": "In winter, you'll easily find parking spots directly on the promenade."
+              }
+            },
+            {
+              "name": "Sant Elm & Boat Trip",
+              "tip_5lang": {
+                "de": "Weniger Fahrten als im Sommer; prüfen Sie den aktuellen Fahrplan.",
+                "hu": "Kevesebb járat indul, mint nyáron; ellenőrizze az aktuális menetrendet.",
+                "ro": "Mai puține curse decât vara; verificați programul actual.",
+                "en": "Fewer trips than in summer; check the current winter schedule."
+              }
+            },
+            {
+              "name": "Sa Dragonera Natural Park",
+              "tip_5lang": {
+                "de": "Die Wanderwege auf der Insel sind bei 15 Grad viel angenehmer.",
+                "hu": "A szigeti túraútvonalak 15 fokban sokkal kellemesebbek.",
+                "ro": "Traseele de pe insulă sunt mult mai plăcute la 15 grade.",
+                "en": "The hiking trails on the island are much more pleasant at 15 degrees."
+              }
+            },
+            {
+              "name": "CCA Andratx",
+              "tip_5lang": {
+                "de": "Besuchen Sie den Laden für einzigartige lokale Weihnachtsgeschenke.",
+                "hu": "Látogassa meg a boltot egyedi helyi karácsonyi ajándékokért.",
+                "ro": "Vizitați magazinul pentru cadouri locale unice de Crăciun.",
+                "en": "Visit the shop for unique local holiday gifts and art pieces."
+              }
+            },
+            {
+              "name": "Andratx Old Town",
+              "tip_5lang": {
+                "de": "Die Abendbeleuchtung im Dezember ist besonders festlich.",
+                "hu": "A decemberi esti kivilágítás különösen ünnepi hangulatú.",
+                "ro": "Iluminatul de seară în decembrie este deosebit de festiv.",
+                "en": "The evening lighting in December is particularly festive."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Straßen sind im Winter leerer, was die Fahrt sehr entspannt macht.",
+              "Vorsicht vor Wildtieren, die in der ruhigen Zeit öfter die Fahrbahn queren.",
+              "Die Bergstraßen können im Schatten feucht und rutschig bleiben.",
+              "Einige Bootsverleiher in Sant Elm haben im Winter geschlossen.",
+              "Der Sonnenuntergang über dem Meer ist im Winter besonders farbenprächtig."
+            ],
+            "hu": [
+              "Az utak télen üresebbek, ami nagyon pihentetővé teszi a vezetést.",
+              "Vigyázzon a vadon élő állatokra, amelyek gyakrabban kelnek át az úton.",
+              "A hegyi utak árnyékos részei nedvesek és csúszósak maradhatnak.",
+              "Néhány hajóbérlő Sant Elm-ben télen zárva tart.",
+              "A tenger feletti naplemente télen különösen színpompás."
+            ],
+            "ro": [
+              "Drumurile sunt mai goale iarna, ceea ce face condusul foarte relaxant.",
+              "Atenție la animalele sălbatice care traversează drumul mai des iarna.",
+              "Drumurile montane pot rămâne umede și alunecoase în zonele cu umbră.",
+              "Unele centre de închirieri barci din Sant Elm sunt închise iarna.",
+              "Apusul soarelui peste mare este deosebit de colorat iarna."
+            ],
+            "en": [
+              "The roads are much emptier in winter, making for a very relaxed drive.",
+              "Watch out for wildlife, which may cross the roads more frequently.",
+              "Mountain roads can remain damp and slippery in shaded sections.",
+              "Some boat rental services in Sant Elm are closed during winter.",
+              "Sunsets over the sea are particularly colorful during the winter months."
+            ]
+          }
+        }
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:00",
+      "total_km": 12.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Zentrum Andratx",
+            "hu": "Andratx központja",
+            "ro": "Centrul Andratx",
+            "en": "Andratx Center"
+          },
+          "coords": [
+            2.424,
+            39.575
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Knotenpunkt für lokale Buslinien (TIB).",
+            "hu": "Helyi buszjáratok (TIB) csomópontja.",
+            "ro": "Nod rutier pentru liniile locale de autobuz (TIB).",
+            "en": "Hub for local bus lines (TIB)."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen von Andratx",
+            "hu": "Andratx kikötője",
+            "ro": "Portul Andratx",
+            "en": "Port of Andratx"
+          },
+          "coords": [
+            2.385,
+            39.544
+          ],
+          "category": "promenades",
+          "arrive_at": "10:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Die Busfahrt bietet tolle Ausblicke auf die Berge.",
+            "hu": "A buszozás nagyszerű kilátást nyújt a hegyekre.",
+            "ro": "Călătoria cu autobuzul oferă vederi superbe spre munți.",
+            "en": "The bus ride offers great mountain views."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen am Hafen",
+            "hu": "Ebéd a kikötőben",
+            "ro": "Prânz în port",
+            "en": "Lunch at the Harbor"
+          },
+          "coords": [
+            2.386,
+            39.545
+          ],
+          "category": "gastro",
+          "arrive_at": "12:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Frische Calamari sind hier ein Muss.",
+            "hu": "A friss tintahal itt kötelező.",
+            "ro": "Calamarii proaspeți sunt un must aici.",
+            "en": "Fresh calamari is a must here."
+          }
+        },
+        {
+          "name": {
+            "de": "Castell de Son Mas",
+            "hu": "Castell de Son Mas",
+            "ro": "Castell de Son Mas",
+            "en": "Castell de Son Mas"
+          },
+          "coords": [
+            2.423,
+            39.576
+          ],
+          "category": "castles",
+          "arrive_at": "14:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Nahe der Bushaltestelle im Zentrum.",
+            "hu": "A központi buszmegálló közelében.",
+            "ro": "Lângă stația de autobuz din centru.",
+            "en": "Close to the central bus stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Plaza de España",
+            "hu": "Plaza de España",
+            "ro": "Plaza de España",
+            "en": "Plaza de España"
+          },
+          "coords": [
+            2.424,
+            39.574
+          ],
+          "category": "square",
+          "arrive_at": "15:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ideal für einen Drink vor der Abreise.",
+            "hu": "Ideális egy italra indulás előtt.",
+            "ro": "Ideal pentru o băutură înainte de plecare.",
+            "en": "Ideal for a drink before departure."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das effiziente TIB-Bussystem, um bequem zwischen dem Bergdorf Andratx und seinem mondänen Hafen zu pendeln. Beginnen Sie im ruhigen Zentrum, bevor Sie die kurze Fahrt zum Hafen antreten, wo das geschäftige Treiben der Fischer und Yachtbesitzer wartet.\n\nNach einem ausgiebigen Mittagessen direkt am Kai bringt Sie der Bus zurück in den oberen Ortsteil. Besuchen Sie das historische Castell de Son Mas, das nur wenige Gehminuten von der Haltestelle entfernt liegt. Ein entspannter Tag ohne Parkplatzsorgen geht auf der zentralen Plaza zu Ende.",
+        "hu": "Használja a hatékony TIB buszrendszert, hogy kényelmesen közlekedjen Andratx hegyi faluja és elegáns kikötője között. Kezdjen a nyugodt központban, mielőtt rövid buszúttal elérné a kikötőt, ahol a halászok és jachtulajdonosok nyüzsgése várja.\n\nEgy bőséges, közvetlenül a rakparton elfogyasztott ebéd után a busz visszaviszi a felső városrészbe. Látogassa meg a történelmi Castell de Son Mas-t, amely mindössze pár perc sétára van a megállótól. A parkolási gondoktól mentes, pihentető nap a központi téren ér véget.",
+        "ro": "Utilizați sistemul eficient de autobuze TIB pentru a face naveta confortabil între satul montan Andratx și portul său sofisticat. Începeți în centrul liniștit înainte de a face scurta călătorie spre port, unde vă așteaptă agitația pescarilor și a proprietarilor de iahturi.\n\nDupă un prânz copios direct pe chei, autobuzul vă duce înapoi în partea superioară a orașului. Vizitați istoricul Castell de Son Mas, situat la doar câteva minute de mers pe jos de stație. O zi relaxantă, fără griji de parcare, se încheie în piața centrală.",
+        "en": "Use the efficient TIB bus system to commute comfortably between the mountain village of Andratx and its sophisticated harbor. Start in the quiet center before taking the short ride to the port, where the bustle of fishermen and yacht owners awaits.\n\nAfter a hearty lunch directly on the quay, the bus takes you back to the upper town. Visit the historical Castell de Son Mas, just a few minutes' walk from the stop. A relaxed day without parking worries ends at the central plaza."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Arros a Banda",
+            "tip": "Klassisches Reisgericht im Hafen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Arros a Banda",
+            "tip": "Klasszikus rizses étel a kikötőben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Arros a Banda",
+            "tip": "Preparat clasic de orez în port."
+          }
+        ],
+        "en": [
+          {
+            "name": "Arros a Banda",
+            "tip": "Classic rice dish at the harbor."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Hafenmauer Ende",
+            "tip": "Beobachten Sie die Wellen in Stille.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kikötőgát vége",
+            "tip": "Figyelje a hullámokat csendben.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Capătul digului",
+            "tip": "Urmăriți valurile în liniște.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Harbor Wall End",
+            "tip": "Watch the waves in silence.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Bäckereien",
+            "tip": "Kaufen Sie Ensaimadas im Dorf."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi pékségek",
+            "tip": "Vásároljon Ensaimada-t a faluban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brătării locale",
+            "tip": "Cumpărați Ensaimadas în sat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Bakeries",
+            "tip": "Buy Ensaimadas in the village."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Laden Sie die TIB-App für Echtzeit-Fahrpläne.",
+          "Zahlen Sie kontaktlos mit Karte für den günstigsten Tarif."
+        ],
+        "hu": [
+          "Töltse le a TIB alkalmazást a valós idejű menetrendhez.",
+          "Fizessen bankkártyával a legolcsóbb tarifáért."
+        ],
+        "ro": [
+          "Descărcați aplicația TIB pentru orare în timp real.",
+          "Plătiți cu cardul contactless pentru cel mai mic tarif."
+        ],
+        "en": [
+          "Download the TIB app for real-time schedules.",
+          "Pay with a contactless card for the cheapest fare."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie das effiziente TIB-Bussystem, um bequem zwischen dem Bergdorf Andratx und seinem mondänen Hafen zu pendeln. Beginnen Sie im ruhigen Zentrum, bevor Sie die kurze Fahrt zum Hafen antreten, wo das geschäftige Treiben der Fischer und Yachtbesitzer wartet.\n\nNach einem ausgiebigen Mittagessen direkt am Kai bringt Sie der Bus zurück in den oberen Ortsteil. Besuchen Sie das historische Castell de Son Mas, das nur wenige Gehminuten von der Haltestelle entfernt liegt. Ein entspannter Tag ohne Parkplatzsorgen geht auf der zentralen Plaza zu Ende.",
+            "hu": "Használja a hatékony TIB buszrendszert, hogy kényelmesen közlekedjen Andratx hegyi faluja és elegáns kikötője között. Kezdjen a nyugodt központban, mielőtt rövid buszúttal elérné a kikötőt, ahol a halászok és jachtulajdonosok nyüzsgése várja.\n\nEgy bőséges, közvetlenül a rakparton elfogyasztott ebéd után a busz visszaviszi a felső városrészbe. Látogassa meg a történelmi Castell de Son Mas-t, amely mindössze pár perc sétára van a megállótól. A parkolási gondoktól mentes, pihentető nap a központi téren ér véget.",
+            "ro": "Utilizați sistemul eficient de autobuze TIB pentru a face naveta confortabil între satul montan Andratx și portul său sofisticat. Începeți în centrul liniștit înainte de a face scurta călătorie spre port, unde vă așteaptă agitația pescarilor și a proprietarilor de iahturi.\n\nDupă un prânz copios direct pe chei, autobuzul vă duce înapoi în partea superioară a orașului. Vizitați istoricul Castell de Son Mas, situat la doar câteva minute de mers pe jos de stație. O zi relaxantă, fără griji de parcare, se încheie în piața centrală.",
+            "en": "Use the efficient TIB bus system to commute comfortably between the mountain village of Andratx and its sophisticated harbor. Start in the quiet center before taking the short ride to the port, where the bustle of fishermen and yacht owners awaits.\n\nAfter a hearty lunch directly on the quay, the bus takes you back to the upper town. Visit the historical Castell de Son Mas, just a few minutes' walk from the stop. A relaxed day without parking worries ends at the central plaza."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Zentrum Andratx",
+                "hu": "Andratx központja",
+                "ro": "Centrul Andratx",
+                "en": "Andratx Center"
+              },
+              "tip_5lang": {
+                "de": "Knotenpunkt für lokale Buslinien (TIB).",
+                "hu": "Helyi buszjáratok (TIB) csomópontja.",
+                "ro": "Nod rutier pentru liniile locale de autobuz (TIB).",
+                "en": "Hub for local bus lines (TIB)."
+              }
+            },
+            {
+              "name": {
+                "de": "Hafen von Andratx",
+                "hu": "Andratx kikötője",
+                "ro": "Portul Andratx",
+                "en": "Port of Andratx"
+              },
+              "tip_5lang": {
+                "de": "Die Busfahrt bietet tolle Ausblicke auf die Berge.",
+                "hu": "A buszozás nagyszerű kilátást nyújt a hegyekre.",
+                "ro": "Călătoria cu autobuzul oferă vederi superbe spre munți.",
+                "en": "The bus ride offers great mountain views."
+              }
+            },
+            {
+              "name": {
+                "de": "Mittagessen am Hafen",
+                "hu": "Ebéd a kikötőben",
+                "ro": "Prânz în port",
+                "en": "Lunch at the Harbor"
+              },
+              "tip_5lang": {
+                "de": "Frische Calamari sind hier ein Muss.",
+                "hu": "A friss tintahal itt kötelező.",
+                "ro": "Calamarii proaspeți sunt un must aici.",
+                "en": "Fresh calamari is a must here."
+              }
+            },
+            {
+              "name": {
+                "de": "Castell de Son Mas",
+                "hu": "Castell de Son Mas",
+                "ro": "Castell de Son Mas",
+                "en": "Castell de Son Mas"
+              },
+              "tip_5lang": {
+                "de": "Nahe der Bushaltestelle im Zentrum.",
+                "hu": "A központi buszmegálló közelében.",
+                "ro": "Lângă stația de autobuz din centru.",
+                "en": "Close to the central bus stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Plaza de España",
+                "hu": "Plaza de España",
+                "ro": "Plaza de España",
+                "en": "Plaza de España"
+              },
+              "tip_5lang": {
+                "de": "Ideal für einen Drink vor der Abreise.",
+                "hu": "Ideális egy italra indulás előtt.",
+                "ro": "Ideal pentru o băutură înainte de plecare.",
+                "en": "Ideal for a drink before departure."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Arros a Banda",
+                "tip": "Klassisches Reisgericht im Hafen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Arros a Banda",
+                "tip": "Klasszikus rizses étel a kikötőben."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Arros a Banda",
+                "tip": "Preparat clasic de orez în port."
+              }
+            ],
+            "en": [
+              {
+                "name": "Arros a Banda",
+                "tip": "Classic rice dish at the harbor."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Hafenmauer Ende",
+                "tip": "Beobachten Sie die Wellen in Stille.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Kikötőgát vége",
+                "tip": "Figyelje a hullámokat csendben.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Capătul digului",
+                "tip": "Urmăriți valurile în liniște.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Harbor Wall End",
+                "tip": "Watch the waves in silence.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Lokale Bäckereien",
+                "tip": "Kaufen Sie Ensaimadas im Dorf."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Helyi pékségek",
+                "tip": "Vásároljon Ensaimada-t a faluban."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Brătării locale",
+                "tip": "Cumpărați Ensaimadas în sat."
+              }
+            ],
+            "en": [
+              {
+                "name": "Local Bakeries",
+                "tip": "Buy Ensaimadas in the village."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Laden Sie die TIB-App für Echtzeit-Fahrpläne.",
+              "Zahlen Sie kontaktlos mit Karte für den günstigsten Tarif."
+            ],
+            "hu": [
+              "Töltse le a TIB alkalmazást a valós idejű menetrendhez.",
+              "Fizessen bankkártyával a legolcsóbb tarifáért."
+            ],
+            "ro": [
+              "Descărcați aplicația TIB pentru orare în timp real.",
+              "Plătiți cu cardul contactless pentru cel mai mic tarif."
+            ],
+            "en": [
+              "Download the TIB app for real-time schedules.",
+              "Pay with a contactless card for the cheapest fare."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nehmen Sie den Bus zum Zentrum von Andratx und suchen Sie Schutz in den Cafés am Platz. Die Fahrt zum Hafen bietet einen Blick auf die stürmische Küste. Ein ausgiebiges Mittagessen am Hafen überbrückt die schlimmsten Regengüsse. Besuchen Sie das Castell de Son Mas am Nachmittag, bevor Sie von der Plaza de España aus den Rückweg antreten.",
+            "hu": "Szálljon buszra Andratx központjáig, és keressen menedéket a tér kávézóiban. A kikötőbe vezető út kilátást nyújt a viharos tengerpartra. Egy bőséges kikötői ebéd segít átvészelni a legnagyobb záporokat. Délután látogassa meg a Castell de Son Mas-t, majd a Plaza de España-ról induljon vissza.",
+            "ro": "Luați autobuzul până în centrul orașului Andratx și adăpostiți-vă în cafenele. Drumul spre port oferă o vedere spre coasta furtunoasă. Un prânz prelungit în port vă ajută să treceți de ploi. Vizitați Castell de Son Mas după-amiaza înainte de a pleca din Plaza de España.",
+            "en": "Take the bus to Andratx center and find shelter in the cafes around the square. The ride to the port offers views of the stormy coastline. A long, leisurely lunch at the harbor is the best way to wait out heavy showers. Visit Castell de Son Mas in the afternoon before heading back from Plaza de España."
+          },
+          "stops": [
+            {
+              "name": "Andratx Center",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle im Zentrum hat ein kleines schützendes Dach.",
+                "hu": "A központi buszmegálló kis védőtetővel rendelkezik.",
+                "ro": "Stația de autobuz din centru are un mic acoperiș de protecție.",
+                "en": "The central bus stop has a small roof for rain protection."
+              }
+            },
+            {
+              "name": "Port of Andratx",
+              "tip_5lang": {
+                "de": "Der Bus hält nah an der Promenade; kurze Wege im Regen.",
+                "hu": "A busz közel áll meg a sétányhoz; rövid gyalogút az esőben.",
+                "ro": "Autobuzul oprește aproape de faleză; drum scurt prin ploaie.",
+                "en": "The bus stops close to the promenade, minimizing walks in the rain."
+              }
+            },
+            {
+              "name": "Lunch at the Harbor",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit festem Glasvorbau für Meeresblick.",
+                "hu": "Válasszon üvegezett teraszos éttermet a tengeri kilátáshoz.",
+                "ro": "Alegeți un restaurant cu terasă vitrată pentru vedere la mare.",
+                "en": "Choose a restaurant with a glass enclosure for sea views while dry."
+              }
+            },
+            {
+              "name": "Castell de Son Mas",
+              "tip_5lang": {
+                "de": "Ein steiler aber kurzer Weg von der Haltestelle zum Schloss.",
+                "hu": "Meredek, de rövid út vezet a megállótól a kastélyig.",
+                "ro": "Un drum abrupt dar scurt de la stație până la castel.",
+                "en": "A steep but short walk from the bus stop to the castle."
+              }
+            },
+            {
+              "name": "Plaza de España",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Abfahrtszeiten per App, um Wartezeiten im Freien zu vermeiden.",
+                "hu": "Ellenőrizze a buszt applikációban, hogy ne várjon sokat kint.",
+                "ro": "Verificați timpii în aplicație pentru a nu aștepta mult afară.",
+                "en": "Check the bus app to avoid long waits outside in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die TIB-Busse (gelb-rot) sind modern, klimatisiert und meist pünktlich.",
+              "Laden Sie sich die 'TIB'-App für Echtzeit-Informationen herunter.",
+              "An Regentagen sind die Busse oft voller; planen Sie Pufferzeit ein.",
+              "Bezahlen Sie kontaktlos mit Karte beim Ein- und Aussteigen (Tap in/out).",
+              "Einige Buswartehäuschen bieten nur wenig Schutz bei Wind und Regen."
+            ],
+            "hu": [
+              "A TIB buszok (sárga-piros) modernek, légkondicionáltak és pontosak.",
+              "Töltse le a 'TIB' alkalmazást a valós idejű menetrendhez.",
+              "Esős napokon a buszok zsúfoltabbak lehetnek; számoljon több idővel.",
+              "Fizessen érintésmentes kártyával a fel- és leszálláskor (Tap in/out).",
+              "Néhány buszmegálló csak minimális védelmet nyújt szél és eső esetén."
+            ],
+            "ro": [
+              "Autobuzele TIB (galben-roșu) sunt moderne, climatizate și punctuale.",
+              "Descărcați aplicația 'TIB' pentru informații în timp real.",
+              "În zilele ploioase, autobuzele sunt mai aglomerate; planificați timp în plus.",
+              "Plătiți cu cardul contactless la urcare și coborâre (Tap in/out).",
+              "Unele stații de autobuz oferă puțin adăpost în caz de vânt și ploaie."
+            ],
+            "en": [
+              "TIB buses (yellow and red) are modern, air-conditioned, and reliable.",
+              "Download the 'TIB' app for real-time arrival and departure info.",
+              "Buses tend to be more crowded on rainy days; allow extra travel time.",
+              "Pay with a contactless card when boarding and exiting (Tap in/out).",
+              "Some bus shelters provide only minimal protection from wind and rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie den hellen Wintermorgen für eine Busfahrt nach Andratx. Der Hafen ist im Winterlicht ein ruhiger Ort für einen Spaziergang. Ein Mittagessen in der Sonne am Hafenbecken gehört zu den schönsten Erlebnissen der Saison. Am Nachmittag besichtigen Sie das Castell de Son Mas und genießen die festliche Stimmung an der Plaza de España.",
+            "hu": "Használja ki a világos téli reggelt egy buszos utazáshoz Andratxba. A kikötő a téli fényekben nyugodt hely egy sétához. Egy napsütéses ebéd a kikötőben a szezon egyik legszebb élménye. Délután nézze meg a Castell de Son Mas-t, majd élvezze az ünnepi hangulatot a Plaza de España-n.",
+            "ro": "Profită de dimineața luminoasă de iarnă pentru o călătorie cu autobuzul spre Andratx. Portul este un loc liniștit pentru o plimbare în lumina iernii. Un prânz la soare în port este una dintre cele mai frumoase experiențe. După-amiaza, vizitați Castell de Son Mas.",
+            "en": "Take advantage of the bright winter morning for a bus ride to Andratx. The harbor is a peaceful place for a stroll in the crisp winter light. Having lunch in the sun by the water is one of the season's best experiences. In the afternoon, visit Castell de Son Mas and enjoy the festive atmosphere at Plaza de España."
+          },
+          "stops": [
+            {
+              "name": "Andratx Center",
+              "tip_5lang": {
+                "de": "Im Winter treffen sich hier die Einheimischen zum Plausch in der Sonne.",
+                "hu": "Télen itt találkoznak a helyiek egy kis napsütéses beszélgetésre.",
+                "ro": "Iarna, localnicii se întâlnesc aici pentru o discuție la soare.",
+                "en": "In winter, locals gather here to chat in the warm afternoon sun."
+              }
+            },
+            {
+              "name": "Port of Andratx",
+              "tip_5lang": {
+                "de": "Die Wintersonne wärmt die Promenade am späten Vormittag auf.",
+                "hu": "A téli nap késő délelőtt kellemesen felmelegíti a sétányt.",
+                "ro": "Soarele de iarnă încălzește faleza spre sfârșitul dimineții.",
+                "en": "The winter sun warms up the promenade by late morning."
+              }
+            },
+            {
+              "name": "Lunch at the Harbor",
+              "tip_5lang": {
+                "de": "Viele Restaurants bieten im Winter preiswerte Tagesmenüs an.",
+                "hu": "Sok étterem kínál télen kedvező árú napi menüt (Menu del Dia).",
+                "ro": "Multe restaurante oferă meniuri ale zilei ieftine în timpul iernii.",
+                "en": "Many restaurants offer value-for-money 'Menu del Dia' in winter."
+              }
+            },
+            {
+              "name": "Castell de Son Mas",
+              "tip_5lang": {
+                "de": "Keine Warteschlangen am Eingang; genießen Sie die Architektur in Ruhe.",
+                "hu": "Nincsenek sorok a bejáratnál; élvezze az építészetet nyugalomban.",
+                "ro": "Fără cozi la intrare; bucurați-vă de arhitectură în liniște.",
+                "en": "No queues at the entrance; enjoy the architecture in total peace."
+              }
+            },
+            {
+              "name": "Plaza de España",
+              "tip_5lang": {
+                "de": "Der Platz ist im Winter das Herz des sozialen Lebens von Andratx.",
+                "hu": "A tér télen is az andratxi társasági élet központja marad.",
+                "ro": "Piața rămâne inima vieții sociale din Andratx și iarna.",
+                "en": "The square remains the heart of Andratx's social life in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Busse fahren im Winter nach einem leicht reduzierten Fahrplan.",
+              "Die Heizung in den Bussen ist meist sehr angenehm eingestellt.",
+              "An Wochenenden im Winter nutzen viele Einheimische den Bus für Ausflüge.",
+              "Die letzte Rückfahrt ist oft früher als im Hochsommer.",
+              "Genießen Sie die Fahrt durch die Mandelblüte (Januar/Februar) im Hinterland."
+            ],
+            "hu": [
+              "A buszok télen némileg ritkított menetrend szerint közlekednek.",
+              "A buszokon a fűtés általában nagyon kellemesre van állítva.",
+              "Téli hétvégéken sok helyi használja a buszt kirándulásokhoz.",
+              "Az utolsó visszjárat gyakran korábban indul, mint főszezonban.",
+              "Élvezze a buszos utat a virágzó mandulafák között január-februárban."
+            ],
+            "ro": [
+              "Autobuzele circulă după un program ușor redus în timpul iernii.",
+              "Încălzirea în autobuze este de obicei setată foarte plăcut.",
+              "În weekendurile de iarnă, mulți localnici folosesc autobuzul pentru excursii.",
+              "Ultima cursă de întoarcere este adesea mai devreme decât vara.",
+              "Bucurați-vă de drumul prin migdalii înfloriți în ianuarie/februarie."
+            ],
+            "en": [
+              "Buses operate on a slightly reduced schedule during winter months.",
+              "The heating on the buses is usually set to a very comfortable level.",
+              "On winter weekends, many locals use the bus for coastal excursions.",
+              "The last return bus often leaves earlier than during the high summer.",
+              "Enjoy the views of blooming almond trees in January and February."
+            ]
+          }
+        }
+      }
+    }
+  },
+  "external_resources": {
+    "transit_official": "https://www.tib.org/",
+    "language_tips": {
+      "de": "In Andratx wird Mallorquí gesprochen, das Spanisch ist die Zweitsprache. Im Hafen Port d'Andratx ist Deutsch und Englisch durch die Jachtszene verbreitet. Im Inland-Andratx wirkt jeder Versuch auf Katalanisch wie ein Türöffner: 'gràcies', 'fins després' (bis später).",
+      "hu": "Andratxban mallorquí a beszélt nyelv, a spanyol a második. A Port d'Andratx kikötőben a jacht-világ miatt a német és angol elterjedt. A belső, hegyek közti Andratxban minden katalán próbálkozás ('gràcies', 'fins després') ajtót nyit a helyieknél.",
+      "ro": "În Andratx se vorbește mallorquí, spaniola fiind a doua limbă. În portul Port d'Andratx, germana și engleza sunt răspândite datorită lumii iahturilor. În Andratxul interior, fiecare încercare în catalană ('gràcies', 'fins després') deschide uși.",
+      "en": "Andratx speaks Mallorquí with Spanish as second language. In Port d'Andratx, German and English are common thanks to the yacht scene. In inland Andratx, every Catalan attempt ('gràcies', 'fins després') opens doors with locals."
+    },
+    "best_time_to_visit": {
+      "de": "April-Juni und September-Oktober mit 20-27°C sind perfekt für Wanderungen zum Sant Elm und La Trapa. Juli-August macht den Hafen zum Jachtshow-Hotspot, die Promenade ist überfüllt. Im Winter (12-16°C) bleibt der Yachthafen lebendig, perfekt für Brunch mit Meerblick.",
+      "hu": "Április-június és szeptember-október 20-27°C-kal tökéletes a Sant Elm és La Trapa felé vezető túrákhoz. Júliusban-augusztusban a kikötő jacht-show helyszín lesz, a sétány zsúfolt. Télen (12-16°C) a jachtkikötő életben marad, tökéletes a tengerre néző brunch-hez.",
+      "ro": "Aprilie-iunie și septembrie-octombrie cu 20-27°C sunt perfecte pentru drumeții spre Sant Elm și La Trapa. Iulie-august transformă portul în loc de paradă a iahturilor, promenada este aglomerată. Iarna (12-16°C), portul de iahturi rămâne viu, perfect pentru brunch cu vedere la mare.",
+      "en": "April-June and September-October at 20-27°C are perfect for hikes to Sant Elm and La Trapa. July-August turn the harbour into a yacht-show hotspot with crowded promenades. Winter (12-16°C) keeps the marina lively, perfect for seaview brunches."
+    },
+    "neighborhood_warnings": {
+      "de": "Andratx und der Hafen sind sehr sicher, das größte Risiko sind die steilen Bergstraßen Richtung Sant Elm bei Regen. In Touristenmonaten gibt es vereinzelt Mietwagen-Einbrüche an Wanderparkplätzen wie Sa Trapa. Im Hafen ist Trickbetrug mit überteuerten Cocktails an einigen Bars verbreitet.",
+      "hu": "Andratx és a kikötő nagyon biztonságos, a legnagyobb kockázat a Sant Elm felé vezető meredek hegyi utak esős időben. Turistaszezonban néha autóbetörés előfordul a Sa Trapa túraparkolóknál. A kikötőben néhány bárban túlárazott koktélokkal próbálkoznak.",
+      "ro": "Andratx și portul sunt foarte sigure, riscul cel mai mare îl reprezintă șoselele abrupte spre Sant Elm pe ploaie. În lunile turistice apar uneori spargeri în mașinile închiriate la parcările de drumeție precum Sa Trapa. În port, atenție la unele baruri care servesc cocktailuri la prețuri exorbitante.",
+      "en": "Andratx and its port are very safe, the main risk being the steep mountain roads toward Sant Elm in rain. Tourist months see occasional rental-car break-ins at hiking car parks like Sa Trapa. At the port, watch out for some bars charging exorbitant cocktail prices."
+    }
+  }
+}

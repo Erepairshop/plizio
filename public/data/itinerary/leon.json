@@ -1,0 +1,2554 @@
+{
+  "city_id": "leon",
+  "anchor": {
+    "name": "León",
+    "coords": [
+      -5.5671,
+      42.5987
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 2.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Plaza Mayor",
+          "coords": [
+            -5.5653,
+            42.5989
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 35,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Frühstücken Sie hier mit Blick auf die Bögen.",
+            "hu": "Reggelizz a boltívek alatt a főtéren.",
+            "ro": "Mic dejun sub arcadele pieței centrale.",
+            "en": "Have breakfast under the arches of the main square."
+          }
+        },
+        {
+          "name": "Kathedrale von León",
+          "coords": [
+            -5.5668,
+            42.5994
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:55",
+          "stay_min": 85,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die 1.800 m² Glasmalerei.",
+            "hu": "Csodáld meg az 1800 m²-nyi ólomüveg ablakot.",
+            "ro": "Admirați cei 1.800 mp de vitralii medievale.",
+            "en": "Admire the 1,800 square meters of stained glass."
+          }
+        },
+        {
+          "name": "Römische Stadtmauer",
+          "coords": [
+            -5.5675,
+            42.601
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Spaziergang entlang der Avenida de los Cubos.",
+            "hu": "Séta az Avenida de los Cubos mentén.",
+            "ro": "O plimbare pe lângă Avenida de los Cubos.",
+            "en": "Walk along the Avenida de los Cubos section."
+          }
+        },
+        {
+          "name": "Basílica de San Isidoro",
+          "coords": [
+            -5.5705,
+            42.6011
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Besuchen Sie das Panteón de los Reyes.",
+            "hu": "Látogasd meg a Királyok Panteonját.",
+            "ro": "Vizitați Panteonul Regilor, 'Capela Sixtină romanică'.",
+            "en": "Visit the Royal Pantheon, the 'Romanesque Sistine Chapel'."
+          }
+        },
+        {
+          "name": "Casa Botines",
+          "coords": [
+            -5.5695,
+            42.5988
+          ],
+          "category": "famous residences",
+          "arrive_at": "14:05",
+          "stay_min": 70,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Eines von Gaudís wenigen Werken außerhalb Kataloniens.",
+            "hu": "Gaudí kevés Katalónián kívüli alkotásainak egyike.",
+            "ro": "Una dintre puținele opere ale lui Gaudí din afara Cataloniei.",
+            "en": "One of Gaudí's few works outside Catalonia."
+          }
+        },
+        {
+          "name": "Barrio Húmedo",
+          "coords": [
+            -5.5665,
+            42.5975
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "15:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Zeit für Tapas und Morcilla-Wurst.",
+            "hu": "Itt az ideje a tapasnak és a helyi véres hurkának.",
+            "ro": "Timpul pentru tapas și celebrii cârnați morcilla.",
+            "en": "Time for tapas and the local morcilla sausage."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens erleben Sie die gotische Pracht der Kathedrale und die römischen Wurzeln der Stadt. Mittags tauchen Sie in die romanische Kunst der Basílica ein. Der Nachmittag gehört der Moderne mit Gaudís Casa Botines. Den Abend lassen Sie im Barrio Húmedo bei exzellenten Tapas und Wein ausklingen.",
+        "hu": "Reggel a székesegyház gótikus pompáját és a római gyökereket fedezzük fel. Délben a Basílica román kori művészetében merülünk el. A délután a modernizmusé Gaudí Casa Botines-ével. Az estét a Barrio Húmedo negyedben zárjuk kiváló tapasokkal és helyi borokkal.",
+        "ro": "Dimineața descoperiți splendoarea gotică a catedralei și rădăcinile romane. La prânz vă scufundați în arta romanică a basilicii. După-amiaza aparține modernismului cu Casa Botines a lui Gaudí. Seara se încheie în Barrio Húmedo cu tapas excelente și vinuri locale.",
+        "en": "Morning begins with the Gothic splendor of the cathedral and Roman roots. At midday, dive into the Romanesque art of the Basilica. The afternoon belongs to modernism with Gaudí's Casa Botines. The evening concludes in Barrio Húmedo with excellent tapas and local wines."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Morcilla de León",
+            "tip": "Würzig-weiche Blutwurst, oft auf Brot serviert."
+          },
+          {
+            "name": "Restaurante Bodega Regia",
+            "tip": "Traditionelle Küche in einem historischen Gebäude."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cecina de León",
+            "tip": "Füstölt marhasonka, a régió büszkesége."
+          },
+          {
+            "name": "La Bicha",
+            "tip": "Híres hely a Barrio Húmedo szívében a morcilla miatt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cocido Maragato",
+            "tip": "Hearthy pörkölt, amit 'fordítva' esznek."
+          },
+          {
+            "name": "Restaurante El Lavadero",
+            "tip": "Helyi alapanyagok modern köntösben."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tapas crawl",
+            "tip": "Free tapas with every drink in Barrio Húmedo."
+          },
+          {
+            "name": "Mantecadas",
+            "tip": "Sweet buttery cakes from the nearby Astorga."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Jardín del Cid",
+            "tip": "Ein ruhiger Park in der Nähe von San Isidoro.",
+            "emoji": "🌿"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bernesga folyópart",
+            "tip": "Hosszú sétány a folyó mentén a tömegtől távol.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parque de Quevedo",
+            "tip": "Oază de liniște cu păuni lângă San Marcos.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Roman Walls Garden",
+            "tip": "Small green spots tucked behind ancient stones.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mercado del Conde Luna",
+            "tip": "Frische lokale Produkte und Käse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Calle Ancha",
+            "tip": "A fő bevásárlóutca kézműves boltokkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Artesanía de León",
+            "tip": "Helyi kerámiák és bőráruk a belvárosban."
+          }
+        ],
+        "en": [
+          {
+            "name": "El Corte Inglés",
+            "tip": "Large department store for international brands."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "León ist sehr flach und perfekt zu Fuß erkundbar.",
+          "Die meisten Tapas-Bars bieten kostenlose Häppchen zum Getränk an.",
+          "Die Kathedrale ist mittags oft für Gebete geschlossen.",
+          "Achten Sie auf die Jakobsmuscheln im Boden – der Jakobsweg führt hier durch."
+        ],
+        "hu": [
+          "León sík város, kényelmesen bejárható gyalog.",
+          "A legtöbb helyen ingyen tapas jár az ital mellé.",
+          "A katedrálisban délidőben misék miatt korlátozott a látogatás.",
+          "Keresd a kagyló jelzéseket az aszfalton, ez az El Camino egyik fő állomása."
+        ],
+        "ro": [
+          "León este plat și perfect pentru explorat la pas.",
+          "Majoritatea barurilor oferă tapas gratuit la fiecare băutură.",
+          "Catedrala este adesea închisă pentru vizite în timpul siestei.",
+          "Urmăriți scoicile de pe pavaj – orașul este pe Camino de Santiago."
+        ],
+        "en": [
+          "León is flat and very easy to navigate on foot.",
+          "Most tapas bars provide a free appetizer with your drink order.",
+          "The cathedral may have limited visiting hours during midday services.",
+          "Look for the scallop shells on the ground marking the Pilgrim's Way."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Morgens erleben Sie die gotische Pracht der Kathedrale und die römischen Wurzeln der Stadt. Mittags tauchen Sie in die romanische Kunst der Basílica ein. Der Nachmittag gehört der Moderne mit Gaudís Casa Botines. Den Abend lassen Sie im Barrio Húmedo bei exzellenten Tapas und Wein ausklingen.",
+            "hu": "Reggel a székesegyház gótikus pompáját és a római gyökereket fedezzük fel. Délben a Basílica román kori művészetében merülünk el. A délután a modernizmusé Gaudí Casa Botines-ével. Az estét a Barrio Húmedo negyedben zárjuk kiváló tapasokkal és helyi borokkal.",
+            "ro": "Dimineața descoperiți splendoarea gotică a catedralei și rădăcinile romane. La prânz vă scufundați în arta romanică a basilicii. După-amiaza aparține modernismului cu Casa Botines a lui Gaudí. Seara se încheie în Barrio Húmedo cu tapas excelente și vinuri locale.",
+            "en": "Morning begins with the Gothic splendor of the cathedral and Roman roots. At midday, dive into the Romanesque art of the Basilica. The afternoon belongs to modernism with Gaudí's Casa Botines. The evening concludes in Barrio Húmedo with excellent tapas and local wines."
+          },
+          "stops": [
+            {
+              "name": "Plaza Mayor",
+              "tip_5lang": {
+                "de": "Frühstücken Sie hier mit Blick auf die Bögen.",
+                "hu": "Reggelizz a boltívek alatt a főtéren.",
+                "ro": "Mic dejun sub arcadele pieței centrale.",
+                "en": "Have breakfast under the arches of the main square."
+              }
+            },
+            {
+              "name": "Kathedrale von León",
+              "tip_5lang": {
+                "de": "Bewundern Sie die 1.800 m² Glasmalerei.",
+                "hu": "Csodáld meg az 1800 m²-nyi ólomüveg ablakot.",
+                "ro": "Admirați cei 1.800 mp de vitralii medievale.",
+                "en": "Admire the 1,800 square meters of stained glass."
+              }
+            },
+            {
+              "name": "Römische Stadtmauer",
+              "tip_5lang": {
+                "de": "Spaziergang entlang der Avenida de los Cubos.",
+                "hu": "Séta az Avenida de los Cubos mentén.",
+                "ro": "O plimbare pe lângă Avenida de los Cubos.",
+                "en": "Walk along the Avenida de los Cubos section."
+              }
+            },
+            {
+              "name": "Basílica de San Isidoro",
+              "tip_5lang": {
+                "de": "Besuchen Sie das Panteón de los Reyes.",
+                "hu": "Látogasd meg a Királyok Panteonját.",
+                "ro": "Vizitați Panteonul Regilor, 'Capela Sixtină romanică'.",
+                "en": "Visit the Royal Pantheon, the 'Romanesque Sistine Chapel'."
+              }
+            },
+            {
+              "name": "Casa Botines",
+              "tip_5lang": {
+                "de": "Eines von Gaudís wenigen Werken außerhalb Kataloniens.",
+                "hu": "Gaudí kevés Katalónián kívüli alkotásainak egyike.",
+                "ro": "Una dintre puținele opere ale lui Gaudí din afara Cataloniei.",
+                "en": "One of Gaudí's few works outside Catalonia."
+              }
+            },
+            {
+              "name": "Barrio Húmedo",
+              "tip_5lang": {
+                "de": "Zeit für Tapas und Morcilla-Wurst.",
+                "hu": "Itt az ideje a tapasnak és a helyi véres hurkának.",
+                "ro": "Timpul pentru tapas și celebrii cârnați morcilla.",
+                "en": "Time for tapas and the local morcilla sausage."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Morcilla de León",
+                "tip": "Würzig-weiche Blutwurst, oft auf Brot serviert."
+              },
+              {
+                "name": "Restaurante Bodega Regia",
+                "tip": "Traditionelle Küche in einem historischen Gebäude."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Cecina de León",
+                "tip": "Füstölt marhasonka, a régió büszkesége."
+              },
+              {
+                "name": "La Bicha",
+                "tip": "Híres hely a Barrio Húmedo szívében a morcilla miatt."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Cocido Maragato",
+                "tip": "Hearthy pörkölt, amit 'fordítva' esznek."
+              },
+              {
+                "name": "Restaurante El Lavadero",
+                "tip": "Helyi alapanyagok modern köntösben."
+              }
+            ],
+            "en": [
+              {
+                "name": "Tapas crawl",
+                "tip": "Free tapas with every drink in Barrio Húmedo."
+              },
+              {
+                "name": "Mantecadas",
+                "tip": "Sweet buttery cakes from the nearby Astorga."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Jardín del Cid",
+                "tip": "Ein ruhiger Park in der Nähe von San Isidoro.",
+                "emoji": "🌿"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Bernesga folyópart",
+                "tip": "Hosszú sétány a folyó mentén a tömegtől távol.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Parque de Quevedo",
+                "tip": "Oază de liniște cu păuni lângă San Marcos.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Roman Walls Garden",
+                "tip": "Small green spots tucked behind ancient stones.",
+                "emoji": "🍃"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Mercado del Conde Luna",
+                "tip": "Frische lokale Produkte und Käse."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Calle Ancha",
+                "tip": "A fő bevásárlóutca kézműves boltokkal."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Artesanía de León",
+                "tip": "Helyi kerámiák és bőráruk a belvárosban."
+              }
+            ],
+            "en": [
+              {
+                "name": "El Corte Inglés",
+                "tip": "Large department store for international brands."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "León ist sehr flach und perfekt zu Fuß erkundbar.",
+              "Die meisten Tapas-Bars bieten kostenlose Häppchen zum Getränk an.",
+              "Die Kathedrale ist mittags oft für Gebete geschlossen.",
+              "Achten Sie auf die Jakobsmuscheln im Boden – der Jakobsweg führt hier durch."
+            ],
+            "hu": [
+              "León sík város, kényelmesen bejárható gyalog.",
+              "A legtöbb helyen ingyen tapas jár az ital mellé.",
+              "A katedrálisban délidőben misék miatt korlátozott a látogatás.",
+              "Keresd a kagyló jelzéseket az aszfalton, ez az El Camino egyik fő állomása."
+            ],
+            "ro": [
+              "León este plat și perfect pentru explorat la pas.",
+              "Majoritatea barurilor oferă tapas gratuit la fiecare băutură.",
+              "Catedrala este adesea închisă pentru vizite în timpul siestei.",
+              "Urmăriți scoicile de pe pavaj – orașul este pe Camino de Santiago."
+            ],
+            "en": [
+              "León is flat and very easy to navigate on foot.",
+              "Most tapas bars provide a free appetizer with your drink order.",
+              "The cathedral may have limited visiting hours during midday services.",
+              "Look for the scallop shells on the ground marking the Pilgrim's Way."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt am Plaza Mayor, dessen Arkaden perfekten Schutz vor dem Regen bieten. Die Kathedrale beeindruckt auch bei grauem Himmel durch das mystische Licht ihrer Glasfenster.\n\nMittags erkunden Sie die Basilika San Isidoro, während die Regentropfen gegen die alten Mauern trommeln. Die Krypta ist ein wunderbarer trockener Rückzugsort.\n\nDen Nachmittag verbringen Sie im Casa Botines von Gaudí, wo die Architektur im Regen besonders dramatisch wirkt. Ein idealer Ort für eine ausgiebige Innenbesichtigung.\n\nDer Abend gehört dem Barrio Húmedo. Die engen Gassen und zahlreichen Tapas-Bars bieten eine gemütliche Atmosphäre, in der man das Wetter draußen schnell vergisst.",
+            "hu": "A reggel a Plaza Mayor árkádjai alatt indul, amelyek kiváló menedéket nyújtanak az eső elől. A katedrális színes üvegablakai még borús időben is misztikus fényjátékot árasztanak.\n\nDélben a San Isidoro bazilika hűvös falaI között bújhatunk el az égi áldás elől. A királyi panteon freskói tökéletes fedett programot kínálnak.\n\nA délutánt Gaudí remekművében, a Casa Botines-ben töltjük, ahol a belső kiállítások alatt teljesen megszáradhatunk. Az épület szürke kövei jól mutatnak az esőben.\n\nAz estét a Barrio Húmedo szűk utcáinak fedett tapas-bárjaiban zárjuk. A tömeg és a meleg ételek feledtetik a kinti borús, nedves időjárást.",
+            "ro": "Dimineața începe în Plaza Mayor, ale cărei arcade oferă un adăpost perfect împotriva ploii. Catedrala impresionează chiar și sub un cer gri prin lumina mistică a vitraliilor sale.\n\nLa prânz, explorați Basílica de San Isidoro, în timp ce picăturile de ploaie bat în zidurile vechi. Panteonul Regal este un refugiu interior spectaculos.\n\nPetreceți după-amiaza în Casa Botines a lui Gaudí. Este ocazia ideală pentru a explora muzeul interior fără a vă face griji de umbrelă.\n\nÎncheiați ziua confortabil în străzile înguste din Barrio Húmedo. Tapas-urile calde și atmosfera vibrantă din baruri sunt remediul perfect pentru o zi ploioasă.",
+            "en": "The morning begins at Plaza Mayor, where the arcades provide perfect shelter from the rain. The Cathedral impresses even under gray skies with the mystical light filtering through its stained glass.\n\nAt noon, explore the Basilica of San Isidoro while raindrops drum against the ancient stones. The Royal Pantheon offers a magnificent dry indoor experience.\n\nSpend the afternoon inside Gaudí's Casa Botines. It is the perfect time for a detailed tour of the museum while staying completely dry.\n\nEnd the day cozily in the narrow streets of Barrio Húmedo. The crowded tapas bars and warm atmosphere make you forget the wet weather outside."
+          },
+          "stops": [
+            {
+              "name": "Plaza Mayor",
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter den weiten Arkadengängen rund um den Platz.",
+                "hu": "Használja a tér körüli árkádokat, hogy szárazon maradjon a séta alatt.",
+                "ro": "Căutați adăpost sub arcadele largi care înconjoară piața centrală.",
+                "en": "Take cover under the wide arcades surrounding the main square."
+              }
+            },
+            {
+              "name": "Kathedrale von León",
+              "tip_5lang": {
+                "de": "Die Glasfenster leuchten bei diffusem Regenlicht besonders intensiv.",
+                "hu": "Az üvegablakok szórt esőfényben mutatják a legintenzívebb színeiket.",
+                "ro": "Vitraliile strălucesc intens în lumina difuză a unei zile ploioase.",
+                "en": "The stained glass windows glow intensely in diffused rainy light."
+              }
+            },
+            {
+              "name": "Römische Stadtmauer",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem Kopfsteinpflaster, die Steine können bei Nässe rutschig sein.",
+                "hu": "Vigyázat a macskakövön, a nedves kövek csúszóssá válhatnak.",
+                "ro": "Atenție pe caldarâm, pietrele pot deveni alunecoase când sunt ude.",
+                "en": "Be careful on the cobblestones, as the stones can be slippery when wet."
+              }
+            },
+            {
+              "name": "Basílica de San Isidoro",
+              "tip_5lang": {
+                "de": "Besuchen Sie das Museum und das Pantheon, um länger im Trockenen zu bleiben.",
+                "hu": "Látogasson el a múzeumba és a panteonba, hogy fedett helyen maradjon.",
+                "ro": "Vizitați muzeul și panteonul pentru a rămâne mai mult timp la adăpost.",
+                "en": "Visit the museum and the pantheon to stay indoors for a longer period."
+              }
+            },
+            {
+              "name": "Casa Botines",
+              "tip_5lang": {
+                "de": "Ein idealer Zeitpunkt für die ausführliche Besichtigung der Ausstellungsräume.",
+                "hu": "Tökéletes időpont a kiállítótermek alapos és kényelmes bejárására.",
+                "ro": "Un moment ideal pentru o vizită detaliată a sălilor de expoziție interioare.",
+                "en": "An ideal time for an extensive tour of the indoor exhibition rooms."
+              }
+            },
+            {
+              "name": "Barrio Húmedo",
+              "tip_5lang": {
+                "de": "Die Bars sind oft voll, bieten aber eine herrlich warme Flucht vor dem Regen.",
+                "hu": "A bárok zsúfoltak, de remek menedéket nyújtanak a hideg eső elől.",
+                "ro": "Barurile sunt adesea pline, oferind o evadare caldă și plăcută din ploaie.",
+                "en": "Bars are often crowded but offer a wonderfully warm escape from the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe, da das Kopfsteinpflaster in der Altstadt Pfützen bildet.",
+              "Die Arkaden am Plaza Mayor und Plaza de Regla sind Ihre besten Freunde.",
+              "Nutzen Sie die Regenzeit für ausgiebige Museumsbesuche wie im Casa Botines.",
+              "Ein Regenschirm ist bei den Windböen in den schmalen Gassen oft besser als ein Regenponcho."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt, mert az óváros macskakövein könnyen megáll a víz.",
+              "A Plaza Mayor és a Plaza de Regla árkádjai kiváló védelmet nyújtanak.",
+              "Használja ki az esős időt a hosszabb múzeumlátogatásokra, például a Casa Botines-ben.",
+              "A szűk utcákban az esernyő praktikusabb lehet, mint az esőkabát a szélvédett helyeken."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă, deoarece pe piatra cubică se pot forma bălți.",
+              "Arcadele din Plaza Mayor și Plaza de Regla sunt cei mai buni aliați ai voștri.",
+              "Profitate de ploaie pentru vizite prelungite la muzee, cum ar fi Casa Botines.",
+              "O umbrelă este adesea mai utilă decât o pelerină în străzile înguste ale orașului."
+            ],
+            "en": [
+              "Wear waterproof shoes as puddles tend to form on the old town's cobblestones.",
+              "The arcades at Plaza Mayor and Plaza de Regla are your best friends for shelter.",
+              "Use the rainy weather for extended museum visits like the one in Casa Botines.",
+              "An umbrella is often better than a poncho in the sheltered narrow alleys."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen am Plaza Mayor lässt die historische Kulisse besonders klar wirken. Ein heißer Kaffee in einem der Cafés unter den Arkaden wärmt Sie für den Tag auf.\n\nDie Kathedrale von León kann im Winter recht kühl sein, aber die Farben der Fenster sind bei tiefstehender Sonne spektakulär. Die Stadtmauern bieten einen frischen Blick über die Dächer.\n\nNachmittags wärmen Sie sich in der Basilika San Isidoro auf. Wenn die Dämmerung gegen 17:30 Uhr einsetzt, erstrahlen die Fassaden im warmen Abendlicht.\n\nDer Abend im Barrio Húmedo ist im Winter besonders belebt. Der Duft von gerösteten Kastanien und herzhaften Tapas liegt in der kalten Luft und lädt zum Verweilen ein.",
+            "hu": "A fagyos reggel a Plaza Mayoron különleges tisztaságot kölcsönöz a történelmi díszleteknek. Egy forró kávé az árkádok alatt segít bemelegíteni a napra.\n\nA leóni katedrális télen hűvös lehet, de az ablakok színei a laposan beeső téli napsütésben lenyűgözőek. A várfalakról tiszta kilátás nyílik a havas tetőkre.\n\nDélután a San Isidoro bazilika falaI között keresünk enyhülést a hideg ellen. Ahogy 17:30 körül sötétedni kezd, a város fényei ünnepi hangulatot árasztanak.\n\nA téli este a Barrio Húmedóban a legmozgalmasabb. A sült gesztenye és a kiadós tapasok illata belengi a hideg levegőt, hívogatva a vándorokat.",
+            "ro": "O dimineață geroasă în Plaza Mayor face ca decorul istoric să pară deosebit de clar. O cafea fierbinte sub arcade vă va încălzi pentru restul zilei.\n\nCatedrala din León poate fi destul de rece iarna, dar culorile vitraliilor sunt spectaculoase sub soarele de joasă altitudine. Zidurile oferă o priveliște proaspătă.\n\nDupă-amiaza, încălziți-vă în interiorul Basílicii San Isidoro. Pe măsură ce amurgul se lasă în jurul orei 17:30, fațadele strălucesc sub lumina caldă a serii.\n\nSeara în Barrio Húmedo este deosebit de animată iarna. Mirosul de castane coapte și tapas-urile consistente umplu aerul rece, invitându-vă să rămâneți.",
+            "en": "A frosty morning at Plaza Mayor makes the historic backdrop look particularly sharp. A hot coffee under the arcades will warm you up for the day ahead.\n\nLeón Cathedral can be quite chilly in winter, but the window colors are spectacular with the low winter sun. The Roman walls offer crisp views over the rooftops.\n\nIn the afternoon, warm up inside the Basilica of San Isidoro. As dusk sets in around 17:30, the historic facades glow beautifully in the evening light.\n\nWinter evenings in Barrio Húmedo are especially lively. The smell of roasted chestnuts and hearty tapas fills the cold air, inviting you to stay a while."
+          },
+          "stops": [
+            {
+              "name": "Plaza Mayor",
+              "tip_5lang": {
+                "de": "Genießen Sie einen heißen Kaffee in einem der beheizten Außenbereiche.",
+                "hu": "Élvezzen egy forró kávét az egyik fűtött teraszos kávézóban.",
+                "ro": "Savurați o cafea fierbinte într-una dintre zonele exterioare încălzite.",
+                "en": "Enjoy a hot coffee in one of the heated outdoor seating areas."
+              }
+            },
+            {
+              "name": "Kathedrale von León",
+              "tip_5lang": {
+                "de": "Tragen Sie warme Kleidung, da es im Inneren der Kirche sehr kalt sein kann.",
+                "hu": "Öltözzön rétegesen, mert a templombelső télen nagyon hideg tud lenni.",
+                "ro": "Purtați haine groase, deoarece interiorul bisericii poate fi foarte rece.",
+                "en": "Wear warm clothing as the interior of the church can be very cold."
+              }
+            },
+            {
+              "name": "Römische Stadtmauer",
+              "tip_5lang": {
+                "de": "Der kalte Wind kann hier oben beißen, eine Mütze ist empfehlenswert.",
+                "hu": "A hideg szél itt fent erősen fújhat, ajánlott a sapka és a sál.",
+                "ro": "Vântul rece poate fi tăios aici sus; se recomandă purtarea unei căciuli.",
+                "en": "The cold wind can be biting up here; a hat is highly recommended."
+              }
+            },
+            {
+              "name": "Basílica de San Isidoro",
+              "tip_5lang": {
+                "de": "Die dicken Mauern halten die Kälte, aber das Museum ist meist temperiert.",
+                "hu": "A vastag falak tartják a hideget, de a múzeum általában temperált.",
+                "ro": "Zidurile groase rețin frigul, dar muzeul este de obicei încălzit.",
+                "en": "The thick walls keep the cold, but the museum is usually tempered."
+              }
+            },
+            {
+              "name": "Casa Botines",
+              "tip_5lang": {
+                "de": "Besuchen Sie das Museum am späten Nachmittag, wenn es draußen frostig wird.",
+                "hu": "Látogassa meg a múzeumot késő délután, amikor kint már fagyni kezd.",
+                "ro": "Vizitați muzeul după-amiaza târziu, când afară începe să înghețe.",
+                "en": "Visit the museum in the late afternoon when it gets frosty outside."
+              }
+            },
+            {
+              "name": "Barrio Húmedo",
+              "tip_5lang": {
+                "de": "Probieren Sie die typischen warmen Eintöpfe oder Fleischgerichte.",
+                "hu": "Kóstolja meg a jellegzetes meleg egytálételeket vagy húsos fogásokat.",
+                "ro": "Încercați tocănițele calde tipice sau preparatele consistente cu carne.",
+                "en": "Try the typical warm stews or hearty meat dishes offered in the bars."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Dezember bereits gegen 17:45 Uhr unter.",
+              "León liegt auf 800m Höhe, die Temperaturen fallen nachts oft unter den Gefrierpunkt.",
+              "Suchen Sie nach Cafés, die 'Chocolate con Churros' anbieten – ein perfekter Wintersnack.",
+              "Die Gehwege können am frühen Morgen durch Reif glatt sein."
+            ],
+            "hu": [
+              "A nap decemberben már 17:45 körül lemegy, tervezzen eszerint.",
+              "León 800 méter magasan fekszik, a hőmérséklet éjjel gyakran fagypont alá süllyed.",
+              "Keresse a 'Chocolate con Churros'-t kínáló helyeket a délutáni átmelegedéshez.",
+              "A járdák kora reggel a zúzmara miatt csúszósak lehetnek."
+            ],
+            "ro": [
+              "Soarele apune în decembrie deja în jurul orei 17:45.",
+              "León se află la 800 m altitudine; temperaturile scad adesea sub îngheț noaptea.",
+              "Căutați cafenele care servesc 'Chocolate con Churros' pentru o gustare caldă.",
+              "Trotuarele pot fi alunecoase dimineața devreme din cauza chiciurei."
+            ],
+            "en": [
+              "The sun sets as early as 17:45 in December; plan your views accordingly.",
+              "León is at 800m altitude, so temperatures often drop below freezing at night.",
+              "Look for cafes serving 'Chocolate con Churros'—the perfect winter treat.",
+              "Sidewalks can be slippery in the early morning due to frost."
+            ]
+          }
+        }
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 8.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Plaza Mayor",
+          "coords": [
+            -5.5653,
+            42.5989
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Startpunkt im Herzen der Altstadt.",
+            "hu": "Indulás az óváros szívéből.",
+            "ro": "Punct de plecare din inima orașului vechi.",
+            "en": "Starting point in the heart of the old town."
+          }
+        },
+        {
+          "name": "Kathedrale von León",
+          "coords": [
+            -5.5668,
+            42.5994
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:50",
+          "stay_min": 70,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Rad sicher am Haupteingang.",
+            "hu": "Parkolj le biztonságosan a főbejáratnál.",
+            "ro": "Parcați bicicleta în siguranță la intrare.",
+            "en": "Park your bike securely at the main entrance."
+          }
+        },
+        {
+          "name": "Römische Stadtmauer",
+          "coords": [
+            -5.5675,
+            42.601
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Radeln Sie entlang der Mauerreste.",
+            "hu": "Bringázz a városfal maradványai mellett.",
+            "ro": "Pedalați pe lângă resturile zidului roman.",
+            "en": "Cycle alongside the Roman wall remains."
+          }
+        },
+        {
+          "name": "Basílica de San Isidoro",
+          "coords": [
+            -5.5705,
+            42.6011
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein Muss für Liebhaber der Romanik.",
+            "hu": "A román stílus kedvelőinek kötelező.",
+            "ro": "Un popas obligatoriu pentru fanii stilului romanic.",
+            "en": "A must-stop for fans of Romanesque architecture."
+          }
+        },
+        {
+          "name": "Hostal de San Marcos",
+          "coords": [
+            -5.5818,
+            42.6018
+          ],
+          "category": "famous residences",
+          "arrive_at": "13:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Eine beeindruckende Plateresk-Fassade.",
+            "hu": "Lenyűgöző platereszk stílusú homlokzat.",
+            "ro": "O fațadă impresionantă în stil plateresc.",
+            "en": "An impressive Plateresque facade."
+          }
+        },
+        {
+          "name": "MUSAC",
+          "coords": [
+            -5.584,
+            42.6055
+          ],
+          "category": "museums",
+          "arrive_at": "14:25",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Zeitgenössische Kunst in bunter Architektur.",
+            "hu": "Kortárs művészet színes épületben.",
+            "ro": "Artă contemporană într-o clădire colorată.",
+            "en": "Contemporary art in a colorful building."
+          }
+        },
+        {
+          "name": "Barrio Húmedo",
+          "coords": [
+            -5.5665,
+            42.5975
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "16:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Belohnung mit Tapas am Abend.",
+            "hu": "Megérdemelt tapasok az este végén.",
+            "ro": "Răsplată cu tapas la finalul zilei.",
+            "en": "Well-deserved tapas at the end of the ride."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Fahrrad erkunden Sie León effizient vom historischen Kern bis zum modernen MUSAC. Der Radweg am Fluss Bernesga bietet eine grüne Pause zwischen den Sehenswürdigkeiten. Sie sehen die prunkvolle San Marcos Fassade und beenden die Tour in den lebhaften Gassen der Altstadt.",
+        "hu": "Kerékpárral hatékonyan fedezheted fel León értékeit a történelmi magtól a modern MUSAC múzeumig. A Bernesga-folyó menti kerékpárút zöld pihenőt nyújt a látnivalók között. Megcsodáljuk San Marcos díszes homlokzatát, majd az óváros nyüzsgő utcáin zárunk.",
+        "ro": "Cu bicicleta explorați eficient Leónul, de la nucleul istoric până la modernul MUSAC. Pistele de biciclete de pe malul râului Bernesga oferă o pauză verde între obiective. Veți vedea fațada fastuoasă San Marcos și veți termina turul în labirintul centrului vechi.",
+        "en": "By bike, you efficiently explore León from the historic core to the modern MUSAC museum. The bike path along the Bernesga river offers a green break between sights. You'll see the ornate San Marcos facade and end the tour in the lively alleys of the old town."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bar El Gaucho",
+            "tip": "Probieren Sie die Fleisch-Tapas."
+          },
+          {
+            "name": "Limonada de León",
+            "tip": "Spezielle Oster-Limonade (Weinbasis)."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bodega del Humedo",
+            "tip": "Kiváló borok és sajttálak."
+          },
+          {
+            "name": "Empanada",
+            "tip": "Helyi töltött tészta, gyors és laktató."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mesón de la Tortilla",
+            "tip": "A legjobb tortilla variációk."
+          },
+          {
+            "name": "Queso de Valdeón",
+            "tip": "Intenzív kékpenészes sajt a hegyekből."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bar La Competencia",
+            "tip": "Famous for their pizza-tapas."
+          },
+          {
+            "name": "Vino Tierra de León",
+            "tip": "Try the Prieto Picudo red wine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Paseo de la Condesa",
+            "tip": "Schattiger Weg am Fluss.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parque de los Reyes",
+            "tip": "Csendes zöldövezet a déli részen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Huerto de Calixto y Melibea",
+            "tip": "Grădină intimă cu vedere la ziduri.",
+            "emoji": "🌸"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bernesga River Banks",
+            "tip": "Quiet cycling paths away from cars.",
+            "emoji": "🚲"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Calle de la Rúa",
+            "tip": "Traditionelle Souvenirläden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mercado del Conde Luna",
+            "tip": "Gasztro-ajándékok: cecina és sajt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Espacio León",
+            "tip": "Modern bevásárlóközpont a folyón túl."
+          }
+        ],
+        "en": [
+          {
+            "name": "Leather shops",
+            "tip": "High quality Spanish leather goods near the center."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die Radwege entlang des Flusses.",
+          "In der Altstadt ist das Radfahren erlaubt, aber achten Sie auf Fußgänger.",
+          "Leihe-Räder gibt es an mehreren Stationen der Stadt.",
+          "Die Stadt ist fast komplett eben, ideal für Gelegenheitsradler."
+        ],
+        "hu": [
+          "Használd a folyó menti kerékpárutakat.",
+          "Az óvárosban szabad biciklizni, de figyelj a gyalogosokra.",
+          "A városi bérbringa rendszer (Systema de Préstamo) elérhető turistáknak is.",
+          "A város szinte teljesen sík, nem igényel nagy erőnlétet."
+        ],
+        "ro": [
+          "Folosiți pistele de biciclete de-a lungul râului.",
+          "Bicicletele sunt permise în centrul vechi, dar atenție la pietoni.",
+          "Sunt disponibile sisteme publice de închiriat biciclete.",
+          "Orașul este aproape plat, ideal pentru bicicliști ocazionali."
+        ],
+        "en": [
+          "Use the cycling paths along the riverbanks.",
+          "Cycling is permitted in the old town, but be mindful of pedestrians.",
+          "Public bike-sharing stations are available throughout the city.",
+          "The terrain is mostly flat, making it perfect for casual riders."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mit dem Fahrrad erkunden Sie León effizient vom historischen Kern bis zum modernen MUSAC. Der Radweg am Fluss Bernesga bietet eine grüne Pause zwischen den Sehenswürdigkeiten. Sie sehen die prunkvolle San Marcos Fassade und beenden die Tour in den lebhaften Gassen der Altstadt.",
+            "hu": "Kerékpárral hatékonyan fedezheted fel León értékeit a történelmi magtól a modern MUSAC múzeumig. A Bernesga-folyó menti kerékpárút zöld pihenőt nyújt a látnivalók között. Megcsodáljuk San Marcos díszes homlokzatát, majd az óváros nyüzsgő utcáin zárunk.",
+            "ro": "Cu bicicleta explorați eficient Leónul, de la nucleul istoric până la modernul MUSAC. Pistele de biciclete de pe malul râului Bernesga oferă o pauză verde între obiective. Veți vedea fațada fastuoasă San Marcos și veți termina turul în labirintul centrului vechi.",
+            "en": "By bike, you efficiently explore León from the historic core to the modern MUSAC museum. The bike path along the Bernesga river offers a green break between sights. You'll see the ornate San Marcos facade and end the tour in the lively alleys of the old town."
+          },
+          "stops": [
+            {
+              "name": "Plaza Mayor",
+              "tip_5lang": {
+                "de": "Startpunkt im Herzen der Altstadt.",
+                "hu": "Indulás az óváros szívéből.",
+                "ro": "Punct de plecare din inima orașului vechi.",
+                "en": "Starting point in the heart of the old town."
+              }
+            },
+            {
+              "name": "Kathedrale von León",
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad sicher am Haupteingang.",
+                "hu": "Parkolj le biztonságosan a főbejáratnál.",
+                "ro": "Parcați bicicleta în siguranță la intrare.",
+                "en": "Park your bike securely at the main entrance."
+              }
+            },
+            {
+              "name": "Römische Stadtmauer",
+              "tip_5lang": {
+                "de": "Radeln Sie entlang der Mauerreste.",
+                "hu": "Bringázz a városfal maradványai mellett.",
+                "ro": "Pedalați pe lângă resturile zidului roman.",
+                "en": "Cycle alongside the Roman wall remains."
+              }
+            },
+            {
+              "name": "Basílica de San Isidoro",
+              "tip_5lang": {
+                "de": "Ein Muss für Liebhaber der Romanik.",
+                "hu": "A román stílus kedvelőinek kötelező.",
+                "ro": "Un popas obligatoriu pentru fanii stilului romanic.",
+                "en": "A must-stop for fans of Romanesque architecture."
+              }
+            },
+            {
+              "name": "Hostal de San Marcos",
+              "tip_5lang": {
+                "de": "Eine beeindruckende Plateresk-Fassade.",
+                "hu": "Lenyűgöző platereszk stílusú homlokzat.",
+                "ro": "O fațadă impresionantă în stil plateresc.",
+                "en": "An impressive Plateresque facade."
+              }
+            },
+            {
+              "name": "MUSAC",
+              "tip_5lang": {
+                "de": "Zeitgenössische Kunst in bunter Architektur.",
+                "hu": "Kortárs művészet színes épületben.",
+                "ro": "Artă contemporană într-o clădire colorată.",
+                "en": "Contemporary art in a colorful building."
+              }
+            },
+            {
+              "name": "Barrio Húmedo",
+              "tip_5lang": {
+                "de": "Belohnung mit Tapas am Abend.",
+                "hu": "Megérdemelt tapasok az este végén.",
+                "ro": "Răsplată cu tapas la finalul zilei.",
+                "en": "Well-deserved tapas at the end of the ride."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Bar El Gaucho",
+                "tip": "Probieren Sie die Fleisch-Tapas."
+              },
+              {
+                "name": "Limonada de León",
+                "tip": "Spezielle Oster-Limonade (Weinbasis)."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Bodega del Humedo",
+                "tip": "Kiváló borok és sajttálak."
+              },
+              {
+                "name": "Empanada",
+                "tip": "Helyi töltött tészta, gyors és laktató."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Mesón de la Tortilla",
+                "tip": "A legjobb tortilla variációk."
+              },
+              {
+                "name": "Queso de Valdeón",
+                "tip": "Intenzív kékpenészes sajt a hegyekből."
+              }
+            ],
+            "en": [
+              {
+                "name": "Bar La Competencia",
+                "tip": "Famous for their pizza-tapas."
+              },
+              {
+                "name": "Vino Tierra de León",
+                "tip": "Try the Prieto Picudo red wine."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Paseo de la Condesa",
+                "tip": "Schattiger Weg am Fluss.",
+                "emoji": "🌳"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Parque de los Reyes",
+                "tip": "Csendes zöldövezet a déli részen.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Huerto de Calixto y Melibea",
+                "tip": "Grădină intimă cu vedere la ziduri.",
+                "emoji": "🌸"
+              }
+            ],
+            "en": [
+              {
+                "name": "Bernesga River Banks",
+                "tip": "Quiet cycling paths away from cars.",
+                "emoji": "🚲"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Calle de la Rúa",
+                "tip": "Traditionelle Souvenirläden."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Mercado del Conde Luna",
+                "tip": "Gasztro-ajándékok: cecina és sajt."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Espacio León",
+                "tip": "Modern bevásárlóközpont a folyón túl."
+              }
+            ],
+            "en": [
+              {
+                "name": "Leather shops",
+                "tip": "High quality Spanish leather goods near the center."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Nutzen Sie die Radwege entlang des Flusses.",
+              "In der Altstadt ist das Radfahren erlaubt, aber achten Sie auf Fußgänger.",
+              "Leihe-Räder gibt es an mehreren Stationen der Stadt.",
+              "Die Stadt ist fast komplett eben, ideal für Gelegenheitsradler."
+            ],
+            "hu": [
+              "Használd a folyó menti kerékpárutakat.",
+              "Az óvárosban szabad biciklizni, de figyelj a gyalogosokra.",
+              "A városi bérbringa rendszer (Systema de Préstamo) elérhető turistáknak is.",
+              "A város szinte teljesen sík, nem igényel nagy erőnlétet."
+            ],
+            "ro": [
+              "Folosiți pistele de biciclete de-a lungul râului.",
+              "Bicicletele sunt permise în centrul vechi, dar atenție la pietoni.",
+              "Sunt disponibile sisteme publice de închiriat biciclete.",
+              "Orașul este aproape plat, ideal pentru bicicliști ocazionali."
+            ],
+            "en": [
+              "Use the cycling paths along the riverbanks.",
+              "Cycling is permitted in the old town, but be mindful of pedestrians.",
+              "Public bike-sharing stations are available throughout the city.",
+              "The terrain is mostly flat, making it perfect for casual riders."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen erfordert Vorsicht auf dem historischen Pflaster der Plaza Mayor. Die Kathedrale bietet einen majestätischen Anblick, während das Wasser von den Wasserspeiern schießt.\n\nMittags radeln Sie zügig zur Basílica de San Isidoro, wo Sie Ihr Rad im überdachten Bereich parken können. Die kühlen Mauern bieten Schutz vor dem nassen Wetter.\n\nDer Nachmittag führt Sie zum modernen MUSAC. Das bunte Gebäude leuchtet auch im Regen und bietet im Inneren reichlich Raum für trockene Erkundungen.\n\nAm Abend gleiten Sie vorsichtig durch das Barrio Húmedo. Das Licht der Laternen spiegelt sich in den Pfützen und verleiht der Stadt eine glänzende, fast magische Aura.",
+            "hu": "Az esős kerékpározás óvatosságot igényel a Plaza Mayor történelmi kövein. A katedrális fenséges látványt nyújt, ahogy a vízköpőkből ömlik az esővíz.\n\nDélben gyorsan eltekerünk a San Isidoro bazilikához, ahol fedett helyen is hagyhatjuk a bringát. A vastag falak között megpihenhetünk a nedves idő elől.\n\nA délután a modern MUSAC felé vezet. A színes épület esőben is ragyog, és bőséges teret kínál a belső, száraz felfedezéshez.\n\nEste óvatosan gurulunk végig a Barrio Húmedo utcáin. A lámpák fénye visszatükröződik a tócsákban, ami csillogó, szinte mágikus aurát ad a városnak.",
+            "ro": "O plimbare cu bicicleta prin ploaie necesită prudență pe pavajul istoric din Plaza Mayor. Catedrala oferă o vedere maiestuoasă în timp ce apa țâșnește din gargui.\n\nLa prânz, pedalați rapid spre Basílica de San Isidoro, unde vă puteți parca bicicleta într-o zonă acoperită. Zidurile răcoroase oferă protecție împotriva vremii umede.\n\nDupă-amiaza vă îndreptați spre modernul MUSAC. Clădirea colorată strălucește chiar și în ploaie și oferă în interior mult spațiu pentru explorări la uscat.\n\nSeara, alunecați cu atenție prin Barrio Húmedo. Lumina felinarelor se reflectă în bălți, oferind orașului o aură strălucitoare și aproape magică.",
+            "en": "Cycling in the rain requires caution on the historic pavement of Plaza Mayor. The Cathedral offers a majestic sight as water gushes from its gargoyles.\n\nAt noon, cycle quickly to the Basilica of San Isidoro, where you can find covered spots to park. The ancient walls provide a solid shelter from the wet weather.\n\nIn the afternoon, head towards the modern MUSAC. The colorful building shines even in the rain and offers plenty of indoor space for dry exploration.\n\nIn the evening, glide carefully through Barrio Húmedo. The streetlights reflecting in the puddles give the city a shiny, almost magical aura."
+          },
+          "stops": [
+            {
+              "name": "Plaza Mayor",
+              "tip_5lang": {
+                "de": "Fahren Sie langsam, das Pflaster wird bei Regen extrem rutschig.",
+                "hu": "Hajtson lassan, az esőben a macskakő rendkívül csúszóssá válik.",
+                "ro": "Conduceți încet, pavajul devine extrem de alunecos pe ploaie.",
+                "en": "Ride slowly as the pavement becomes extremely slippery in the rain."
+              }
+            },
+            {
+              "name": "Kathedrale von León",
+              "tip_5lang": {
+                "de": "Suchen Sie einen geschützten Abstellplatz unter den Arkaden gegenüber.",
+                "hu": "Keressen fedett biciklitárolót a szemközti árkádok alatt.",
+                "ro": "Căutați un loc de parcare protejat sub arcadele de vis-à-vis.",
+                "en": "Look for a sheltered bike parking spot under the arcades opposite."
+              }
+            },
+            {
+              "name": "Römische Stadtmauer",
+              "tip_5lang": {
+                "de": "Vermeiden Sie scharfe Bremsmanöver auf den nassen Steinplatten.",
+                "hu": "Kerülje az erős fékezést a nedves kőlapokon a fal mentén.",
+                "ro": "Evitați frânările bruște pe plăcile de piatră umede de lângă zid.",
+                "en": "Avoid sharp braking maneuvers on the wet stone slabs near the wall."
+              }
+            },
+            {
+              "name": "Basílica de San Isidoro",
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad nah am Eingang im Windschatten der Basilika.",
+                "hu": "Parkoljon a bejárathoz közel, a bazilika szélárnyékos oldalán.",
+                "ro": "Parcați bicicleta aproape de intrare, la adăpostul bazilicii.",
+                "en": "Park your bike close to the entrance in the lee of the basilica."
+              }
+            },
+            {
+              "name": "Hostal de San Marcos",
+              "tip_5lang": {
+                "de": "Der Platz davor ist weit und exponiert, achten Sie auf Windböen.",
+                "hu": "Az előtte lévő tér tágas és nyitott, figyeljen az erős széllökésekre.",
+                "ro": "Piața din față este largă și expusă, atenție la rafalele de vânt.",
+                "en": "The square in front is wide and exposed; watch out for wind gusts."
+              }
+            },
+            {
+              "name": "MUSAC",
+              "tip_5lang": {
+                "de": "Sichere und meist trockene Fahrradständer direkt am Museumseingang.",
+                "hu": "Biztonságos és többnyire száraz kerékpártárolók a múzeum bejáratánál.",
+                "ro": "Suporturi de biciclete sigure și în mare parte uscate la intrare.",
+                "en": "Secure and mostly dry bike racks directly at the museum entrance."
+              }
+            },
+            {
+              "name": "Barrio Húmedo",
+              "tip_5lang": {
+                "de": "Schieben Sie das Rad in den engen Gassen, um Unfälle zu vermeiden.",
+                "hu": "A szűk utcákban tolja a kerékpárt a balesetek elkerülése érdekében.",
+                "ro": "Împingeți bicicleta în străzile înguste pentru a evita accidentele.",
+                "en": "Walk your bike in the narrow alleys to avoid accidents on wet tiles."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche am Fahrrad sind bei der Entwässerung der Altstadt unerlässlich.",
+              "Vermeiden Sie das Überfahren von Metallgittern oder bemalten Linien bei Nässe.",
+              "Tragen Sie eine gut sichtbare Regenjacke, da die Sicht für Autofahrer sinkt.",
+              "Viele Cafés rund um das MUSAC erlauben das Abstellen von Rädern in Sichtweite."
+            ],
+            "hu": [
+              "A sárvédő elengedhetetlen az óváros vízelvezetési rendszere miatt.",
+              "Kerülje a fémrácsokon vagy festett vonalakon való áthajtást nedves időben.",
+              "Viseljen láthatósági esőkabátot, mert a sofőrök látási viszonyai romlanak.",
+              "A MUSAC környéki kávézók többségénél látótávolságban hagyhatja a bringát."
+            ],
+            "ro": [
+              "Aripile la bicicletă sunt esențiale din cauza sistemului de scurgere al orașului.",
+              "Evitați trecerea peste grătarele metalice sau liniile pictate când sunt ude.",
+              "Purtați o jachetă reflectorizantă, vizibilitatea șoferilor scade considerabil.",
+              "Multe cafenele din jurul MUSAC permit parcarea bicicletelor la vedere."
+            ],
+            "en": [
+              "Fenders are essential as the old town streets can hold a lot of water.",
+              "Avoid riding over metal grates or painted lines when it is wet.",
+              "Wear a high-visibility rain jacket as visibility for car drivers decreases.",
+              "Many cafes around MUSAC allow you to park your bike within sight."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer, kalter Wintermorgen lädt zu einer erfrischenden Fahrt zum Plaza Mayor ein. Die frostige Luft lässt die historische Architektur fast unwirklich erscheinen.\n\nAuf dem Weg zur Kathedrale spüren Sie die Wintersonne im Gesicht. Die Stadtmauer bietet im Winter oft weite Sicht bis zu den schneebedeckten Gipfeln in der Ferne.\n\nAm Nachmittag erreichen Sie das MUSAC, dessen farbige Glasfassade einen warmen Kontrast zum grauen Winterhimmel bildet. Ein kurzer Aufenthalt drinnen bringt die Lebensgeister zurück.\n\nDie Fahrt zurück zum Barrio Húmedo erfolgt in der frühen Dämmerung. Die Lichter der Stadt gehen an, und die kalte Luft macht die Aussicht auf ein warmes Getränk umso verlockender.",
+            "hu": "A tiszta, hideg téli reggel frissítő tekerésre csábít a Plaza Mayor felé. A fagyos levegőben a történelmi épületek szinte irreálisnak tűnnek.\n\nA katedrális felé vezető úton érezni a téli nap erejét. A várfalról télen gyakran ellátni a távoli, hófödte hegycsúcsokig.\n\nDélután érjük el a MUSAC-ot, amelynek színes üveghomlokzata meleg kontrasztot alkot a szürke téli égbolttal. Egy rövid benti pihenő visszahozza az életkedvet.\n\nA visszaút a Barrio Húmedóba már a korai szürkületben történik. A város fényei kigyúlnak, a hideg levegő pedig még csábítóbbá teszi a forró italok gondolatát.",
+            "ro": "O dimineață de iarnă senină și rece vă invită la o plimbare revigorantă spre Plaza Mayor. Aerul înghețat face ca arhitectura istorică să pară aproape ireală.\n\nÎn drum spre catedrală, simțiți soarele de iarnă pe față. Zidul orașului oferă iarna adesea vederi largi până la vârfurile înzăpezite din depărtare.\n\nDupă-amiaza ajungeți la MUSAC, a cărui fațadă din sticlă colorată formează un contrast cald cu cerul cenușiu de iarnă. O scurtă pauză în interior vă va revigora.\n\nDrumul înapoi spre Barrio Húmedo are loc în amurgul timpuriu. Luminile orașului se aprind, iar aerul rece face perspectiva unei băuturi calde și mai tentantă.",
+            "en": "A clear, cold winter morning invites you for a refreshing ride to Plaza Mayor. The frosty air makes the historic architecture look almost surreal.\n\nOn the way to the Cathedral, you feel the winter sun on your face. The city walls often offer clear views of the snow-capped peaks in the distance during winter.\n\nIn the afternoon, you reach MUSAC, where the colorful glass facade provides a warm contrast to the gray winter sky. A quick indoor break restores your energy.\n\nReturning to Barrio Húmedo happens in the early dusk. The city lights come on, and the cold air makes the thought of a warm drink even more appealing."
+          },
+          "stops": [
+            {
+              "name": "Plaza Mayor",
+              "tip_5lang": {
+                "de": "Tragen Sie winddichte Handschuhe, da es auf dem Rad schnell auskühlt.",
+                "hu": "Viseljen szélálló kesztyűt, mert a biciklin gyorsan áthűl a keze.",
+                "ro": "Purtați mănuși rezistente la vânt, se răcește repede pe bicicletă.",
+                "en": "Wear windproof gloves, as it cools down quickly while cycling."
+              }
+            },
+            {
+              "name": "Kathedrale von León",
+              "tip_5lang": {
+                "de": "Die Sonne steht tief und kann beim Fahren blenden, Sonnenbrille mitnehmen.",
+                "hu": "A nap alacsonyan jár és elvakíthat tekerés közben, vigyen napszemüveget.",
+                "ro": "Soarele este jos și poate fi orbitor; luați ochelari de soare.",
+                "en": "The sun is low and can be blinding while riding; take sunglasses."
+              }
+            },
+            {
+              "name": "Römische Stadtmauer",
+              "tip_5lang": {
+                "de": "Achten Sie auf überfrierende Nässe im Schatten der Mauern.",
+                "hu": "Ügyeljen a felfagyásokra a falak árnyékos oldalán.",
+                "ro": "Atenție la porțiunile înghețate în zonele umbrite ale zidurilor.",
+                "en": "Watch out for black ice in the shadows of the walls."
+              }
+            },
+            {
+              "name": "Basílica de San Isidoro",
+              "tip_5lang": {
+                "de": "Nutzen Sie die kurzen Wege zwischen den Sehenswürdigkeiten zum Aufwärmen.",
+                "hu": "Használja ki a látnivalók közötti rövid távokat a bemelegedésre.",
+                "ro": "Folosiți distanțele scurte între obiective pentru a vă încălzi.",
+                "en": "Use the short distances between sights to warm up periodically."
+              }
+            },
+            {
+              "name": "Hostal de San Marcos",
+              "tip_5lang": {
+                "de": "Ein perfekter Ort, um das Rad kurz zu parken und die Fassade zu bewundern.",
+                "hu": "Tökéletes hely a kerékpár rövid leállítására a homlokzat megcsodálásához.",
+                "ro": "Un loc perfect pentru a parca scurt bicicleta și a admira fațada.",
+                "en": "A perfect spot to park briefly and admire the plateresque facade."
+              }
+            },
+            {
+              "name": "MUSAC",
+              "tip_5lang": {
+                "de": "Das Museum ist gut geheizt und bietet eine ideale Pause vom Frost.",
+                "hu": "A múzeum jól fűtött, ideális pihenőhely a fagy elől.",
+                "ro": "Muzeul este bine încălzit și oferă o pauză ideală de îngheț.",
+                "en": "The museum is well heated and offers an ideal break from the frost."
+              }
+            },
+            {
+              "name": "Barrio Húmedo",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad sicher ab, bevor Sie in die beheizten Bars gehen.",
+                "hu": "Zárja le biztonságosan a bringát, mielőtt a fűtött bárokba menne.",
+                "ro": "Parcați bicicleta în siguranță înainte de a intra în barurile încălzite.",
+                "en": "Secure your bike properly before heading into the heated bars."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Thermo-Unterwäsche, da der Fahrtwind die gefühlte Temperatur senkt.",
+              "Prüfen Sie den Reifendruck; kalte Luft lässt ihn oft leicht sinken.",
+              "Ab 17:30 Uhr ist Licht am Fahrrad in León gesetzlich vorgeschrieben und notwendig.",
+              "Warmer Tee in einer Thermoskanne ist der beste Begleiter für Winterradler."
+            ],
+            "hu": [
+              "Viseljen aláöltözetet, mert a menetszél jelentősen csökkenti a hőérzetet.",
+              "Ellenőrizze a guminyomást; a hideg levegő miatt gyakran csökkenhet.",
+              "17:30 után a kerékpáros lámpa kötelező és elengedhetetlen Leónban.",
+              "Egy termosz meleg tea a legjobb társ a téli kerékpározáshoz."
+            ],
+            "ro": [
+              "Purtați lenjerie termică, vântul resimțit scade temperatura percepută.",
+              "Verificați presiunea în anvelope; aerul rece o poate face să scadă.",
+              "De la ora 17:30 lumina la bicicletă este obligatorie prin lege în León.",
+              "Un ceai cald într-un termos este cel mai bun companion pentru iarnă."
+            ],
+            "en": [
+              "Wear thermal layers as the wind chill significantly lowers felt temperature.",
+              "Check your tire pressure; cold air often causes it to drop slightly.",
+              "From 17:30, bike lights are legally required and necessary in León.",
+              "Warm tea in a thermos is the best companion for winter cyclists."
+            ]
+          }
+        }
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 16.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "MUSAC",
+          "coords": [
+            -5.584,
+            42.6055
+          ],
+          "category": "museums",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie direkt am Museumsparkplatz.",
+            "hu": "Parkolj közvetlenül a múzeumnál.",
+            "ro": "Parcare disponibilă chiar lângă muzeu.",
+            "en": "Easy parking available right by the museum."
+          }
+        },
+        {
+          "name": "Hostal de San Marcos",
+          "coords": [
+            -5.5818,
+            42.6018
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Früher ein Kloster, heute ein Luxushotel.",
+            "hu": "Egykori kolostor, ma luxusszálloda.",
+            "ro": "Fostă mănăstire, astăzi hotel de lux.",
+            "en": "Formerly a monastery, now a luxury hotel."
+          }
+        },
+        {
+          "name": "Kathedrale von León",
+          "coords": [
+            -5.5668,
+            42.5994
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Nutzen Sie das Parkhaus am Plaza Mayor.",
+            "hu": "Használd a Plaza Mayor alatti mélygarázst.",
+            "ro": "Folosiți parcarea subterană din Plaza Mayor.",
+            "en": "Use the underground parking at Plaza Mayor."
+          }
+        },
+        {
+          "name": "Casa Botines",
+          "coords": [
+            -5.5695,
+            42.5988
+          ],
+          "category": "famous residences",
+          "arrive_at": "13:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Besichtigen Sie die Ausstellungen im Inneren.",
+            "hu": "Nézd meg a benti kiállításokat is.",
+            "ro": "Vizitați expozițiile din interior.",
+            "en": "Visit the museum exhibitions inside."
+          }
+        },
+        {
+          "name": "Barrio Húmedo",
+          "coords": [
+            -5.5665,
+            42.5975
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "15:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Mittagessen in der Tapas-Zone.",
+            "hu": "Késői ebéd a tapas-negyedben.",
+            "ro": "Prânz târziu în zona de tapas.",
+            "en": "Late lunch in the tapas district."
+          }
+        },
+        {
+          "name": "La Candamia Viewpoint",
+          "coords": [
+            -5.545,
+            42.595
+          ],
+          "category": "mountain",
+          "arrive_at": "16:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Panoramablick über die gesamte Stadt.",
+            "hu": "Panoráma az egész városra.",
+            "ro": "Vedere panoramică asupra întregului oraș.",
+            "en": "Panoramic view over the entire city."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Das Auto erlaubt Ihnen, den modernen Norden und die historische Mitte bequem zu verbinden. Sie starten beim bunten MUSAC, bewundern die Pracht von San Marcos und fahren dann zum Zentrum. Zum Abschluss genießen Sie den weiten Blick vom Hügel La Candamia über die Stadt León.",
+        "hu": "Az autó lehetővé teszi a modern északi rész és a történelmi központ kényelmes összekötését. A színes MUSAC-nál kezdünk, megcsodáljuk San Marcos-t, majd a belvárosba hajtunk. Végül a La Candamia dombról élvezzük a kilátást az egész városra.",
+        "ro": "Mașina vă permite să legați confortabil nordul modern de centrul istoric. Începeți la coloratul MUSAC, admirați măreția San Marcos și apoi mergeți spre centru. La final, vă bucurați de vederea largă de pe dealul La Candamia peste orașul León.",
+        "en": "A car allows you to comfortably link the modern north and the historic center. Start at the colorful MUSAC, admire the grandeur of San Marcos, and then head to the center. To finish, enjoy the wide view from La Candamia hill over the city of León."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Nimbu",
+            "tip": "Moderne Fusion-Küche."
+          },
+          {
+            "name": "Lasa",
+            "tip": "Bekannt für Fleischgerichte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Casa Mando",
+            "tip": "Hagyományos leóni konyha elegánsan."
+          },
+          {
+            "name": "Sopas de Ajo",
+            "tip": "Helyi fokhagymaleves, kötelező."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurante LAV",
+            "tip": "Gastro-élmény modern stílusban."
+          },
+          {
+            "name": "Lechazo",
+            "tip": "Sült bárány, helyi specialitás."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurante Pablo",
+            "tip": "Michelin-starred local cuisine."
+          },
+          {
+            "name": "Cocido Maragato",
+            "tip": "Hearty three-course stew."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "La Candamia",
+            "tip": "Großer Naturpark am Stadtrand.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Coto Escolar",
+            "tip": "Családi pihenőhely távol a forgalomtól.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Río Torío banks",
+            "tip": "Liniște lângă apă la marginea orașului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Quevedo Park",
+            "tip": "Perfect for a short break near the river.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Espacio León",
+            "tip": "Großes Einkaufszentrum mit Parkplatz."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Centro Comercial León Plaza",
+            "tip": "Könnyen elérhető autóval, ingyenes parkolás."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mercado del Conde Luna",
+            "tip": "Helyi delikát termékek hazaútra."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gourmet shops",
+            "tip": "Buy cured meats and wines in the center."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken in der Altstadt ist schwierig, nutzen Sie Parkhäuser.",
+          "Die 'Blue Zone' (ORA) ist kostenpflichtig.",
+          "Planen Sie Zeit für die Fahrt zum Aussichtspunkt Candamia ein.",
+          "Der Verkehr ist in León meist moderat."
+        ],
+        "hu": [
+          "Az óvárosban nehéz parkolni, használd a mélygarázsokat.",
+          "A kék zónás parkolás (ORA) fizetős.",
+          "Szánj időt a Candamia kilátóhoz való feljutásra.",
+          "León forgalma általában mérsékelt."
+        ],
+        "ro": [
+          "Parcarea în centrul vechi este dificilă, folosiți parcări etajate.",
+          "Zona albastră (ORA) este cu plată.",
+          "Rezervați timp pentru drumul către punctul de belvedere Candamia.",
+          "Traficul în León este de obicei moderat."
+        ],
+        "en": [
+          "Parking in the old town is difficult; use underground garages.",
+          "Blue zone (ORA) parking requires a paid ticket.",
+          "Allow extra time for the drive to the Candamia viewpoint.",
+          "Traffic in León is generally moderate and predictable."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Das Auto erlaubt Ihnen, den modernen Norden und die historische Mitte bequem zu verbinden. Sie starten beim bunten MUSAC, bewundern die Pracht von San Marcos und fahren dann zum Zentrum. Zum Abschluss genießen Sie den weiten Blick vom Hügel La Candamia über die Stadt León.",
+            "hu": "Az autó lehetővé teszi a modern északi rész és a történelmi központ kényelmes összekötését. A színes MUSAC-nál kezdünk, megcsodáljuk San Marcos-t, majd a belvárosba hajtunk. Végül a La Candamia dombról élvezzük a kilátást az egész városra.",
+            "ro": "Mașina vă permite să legați confortabil nordul modern de centrul istoric. Începeți la coloratul MUSAC, admirați măreția San Marcos și apoi mergeți spre centru. La final, vă bucurați de vederea largă de pe dealul La Candamia peste orașul León.",
+            "en": "A car allows you to comfortably link the modern north and the historic center. Start at the colorful MUSAC, admire the grandeur of San Marcos, and then head to the center. To finish, enjoy the wide view from La Candamia hill over the city of León."
+          },
+          "stops": [
+            {
+              "name": "MUSAC",
+              "tip_5lang": {
+                "de": "Parken Sie direkt am Museumsparkplatz.",
+                "hu": "Parkolj közvetlenül a múzeumnál.",
+                "ro": "Parcare disponibilă chiar lângă muzeu.",
+                "en": "Easy parking available right by the museum."
+              }
+            },
+            {
+              "name": "Hostal de San Marcos",
+              "tip_5lang": {
+                "de": "Früher ein Kloster, heute ein Luxushotel.",
+                "hu": "Egykori kolostor, ma luxusszálloda.",
+                "ro": "Fostă mănăstire, astăzi hotel de lux.",
+                "en": "Formerly a monastery, now a luxury hotel."
+              }
+            },
+            {
+              "name": "Kathedrale von León",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Parkhaus am Plaza Mayor.",
+                "hu": "Használd a Plaza Mayor alatti mélygarázst.",
+                "ro": "Folosiți parcarea subterană din Plaza Mayor.",
+                "en": "Use the underground parking at Plaza Mayor."
+              }
+            },
+            {
+              "name": "Casa Botines",
+              "tip_5lang": {
+                "de": "Besichtigen Sie die Ausstellungen im Inneren.",
+                "hu": "Nézd meg a benti kiállításokat is.",
+                "ro": "Vizitați expozițiile din interior.",
+                "en": "Visit the museum exhibitions inside."
+              }
+            },
+            {
+              "name": "Barrio Húmedo",
+              "tip_5lang": {
+                "de": "Mittagessen in der Tapas-Zone.",
+                "hu": "Késői ebéd a tapas-negyedben.",
+                "ro": "Prânz târziu în zona de tapas.",
+                "en": "Late lunch in the tapas district."
+              }
+            },
+            {
+              "name": "La Candamia Viewpoint",
+              "tip_5lang": {
+                "de": "Panoramablick über die gesamte Stadt.",
+                "hu": "Panoráma az egész városra.",
+                "ro": "Vedere panoramică asupra întregului oraș.",
+                "en": "Panoramic view over the entire city."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Nimbu",
+                "tip": "Moderne Fusion-Küche."
+              },
+              {
+                "name": "Lasa",
+                "tip": "Bekannt für Fleischgerichte."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Casa Mando",
+                "tip": "Hagyományos leóni konyha elegánsan."
+              },
+              {
+                "name": "Sopas de Ajo",
+                "tip": "Helyi fokhagymaleves, kötelező."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Restaurante LAV",
+                "tip": "Gastro-élmény modern stílusban."
+              },
+              {
+                "name": "Lechazo",
+                "tip": "Sült bárány, helyi specialitás."
+              }
+            ],
+            "en": [
+              {
+                "name": "Restaurante Pablo",
+                "tip": "Michelin-starred local cuisine."
+              },
+              {
+                "name": "Cocido Maragato",
+                "tip": "Hearty three-course stew."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "La Candamia",
+                "tip": "Großer Naturpark am Stadtrand.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Coto Escolar",
+                "tip": "Családi pihenőhely távol a forgalomtól.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Río Torío banks",
+                "tip": "Liniște lângă apă la marginea orașului.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Quevedo Park",
+                "tip": "Perfect for a short break near the river.",
+                "emoji": "🍃"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Espacio León",
+                "tip": "Großes Einkaufszentrum mit Parkplatz."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Centro Comercial León Plaza",
+                "tip": "Könnyen elérhető autóval, ingyenes parkolás."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Mercado del Conde Luna",
+                "tip": "Helyi delikát termékek hazaútra."
+              }
+            ],
+            "en": [
+              {
+                "name": "Gourmet shops",
+                "tip": "Buy cured meats and wines in the center."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Das Parken in der Altstadt ist schwierig, nutzen Sie Parkhäuser.",
+              "Die 'Blue Zone' (ORA) ist kostenpflichtig.",
+              "Planen Sie Zeit für die Fahrt zum Aussichtspunkt Candamia ein.",
+              "Der Verkehr ist in León meist moderat."
+            ],
+            "hu": [
+              "Az óvárosban nehéz parkolni, használd a mélygarázsokat.",
+              "A kék zónás parkolás (ORA) fizetős.",
+              "Szánj időt a Candamia kilátóhoz való feljutásra.",
+              "León forgalma általában mérsékelt."
+            ],
+            "ro": [
+              "Parcarea în centrul vechi este dificilă, folosiți parcări etajate.",
+              "Zona albastră (ORA) este cu plată.",
+              "Rezervați timp pentru drumul către punctul de belvedere Candamia.",
+              "Traficul în León este de obicei moderat."
+            ],
+            "en": [
+              "Parking in the old town is difficult; use underground garages.",
+              "Blue zone (ORA) parking requires a paid ticket.",
+              "Allow extra time for the drive to the Candamia viewpoint.",
+              "Traffic in León is generally moderate and predictable."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto starten Sie bequem am MUSAC, wo die Parkplatzsuche auch bei Regen unkompliziert ist. Das farbenfrohe Gebäude ist ein perfekter erster trockener Stopp.\n\nMittags fahren Sie zum Hostal de San Marcos. Die prachtvolle Fassade lässt sich fast aus dem Autofenster bewundern, bevor Sie ins warme Innere huschen.\n\nNachmittags parken Sie in der Nähe der Kathedrale und des Casa Botines. Die kurzen Wege zwischen den Parkhäusern und den Sehenswürdigkeiten minimieren den Kontakt mit dem Regen.\n\nZum Abschluss genießen Sie den Blick von La Candamia. Auch wenn es regnet, bietet der Aussichtspunkt eine dramatische Sicht auf das nebelverhangene León, bevor Sie zum Abendessen zurückfahren.",
+            "hu": "Autóval kényelmesen kezdünk a MUSAC-nál, ahol az esőben is egyszerű a parkolás. A színes épület tökéletes első fedett állomás.\n\nDélben a Hostal de San Marcoshoz hajtunk. A pompás homlokzatot szinte az autó ablakából is megcsodálhatjuk, mielőtt beszaladnánk a meleg belsőbe.\n\nDélután a katedrális és a Casa Botines közelében parkolunk. A parkolóházak és a látnivalók közötti rövid távolság minimalizálja az esővel való érintkezést.\n\nBefejezésül a La Candamia kilátópontról gyönyörködünk. Még ha esik is, a ködbe burkolózott León drámai látványt nyújt, mielőtt visszatérnénk vacsorázni.",
+            "ro": "Cu mașina, începeți confortabil la MUSAC, unde parcarea este ușoară chiar și pe ploaie. Clădirea colorată este o primă oprire interioară perfectă.\n\nLa prânz, conduceți spre Hostal de San Marcos. Fațada magnifică poate fi admirată aproape de la fereastra mașinii înainte de a intra înăuntru.\n\nDupă-amiaza parcați lângă Catedrală și Casa Botines. Distanțele scurte între parcările subterane și obiective reduc contactul cu ploaia.\n\nLa final, bucurați-vă de priveliștea de la La Candamia. Chiar dacă plouă, punctul de observație oferă o vedere dramatică asupra orașului în ceață.",
+            "en": "By car, you start comfortably at MUSAC, where parking is straightforward even in the rain. The colorful building is a perfect first dry stop.\n\nAt noon, drive to Hostal de San Marcos. You can admire the magnificent facade almost from your car window before stepping into the warm interior.\n\nIn the afternoon, park near the Cathedral and Casa Botines. The short distances between parking garages and sights minimize your time in the rain.\n\nTo finish, enjoy the view from La Candamia. Even in the rain, the viewpoint offers a dramatic look over misty León before you head back for dinner."
+          },
+          "stops": [
+            {
+              "name": "MUSAC",
+              "tip_5lang": {
+                "de": "Nutzen Sie den großen Parkplatz direkt vor dem Museumseingang.",
+                "hu": "Használja a közvetlenül a múzeumbemenetnél lévő tágas parkolót.",
+                "ro": "Folosiți parcarea mare situată chiar în fața intrării muzeului.",
+                "en": "Use the large parking lot right in front of the museum entrance."
+              }
+            },
+            {
+              "name": "Hostal de San Marcos",
+              "tip_5lang": {
+                "de": "Kurzes Halten zum Fotografieren ist an der Seite oft möglich.",
+                "hu": "A homlokzat melletti rövid megállás fotózáshoz gyakran lehetséges.",
+                "ro": "Oprirea scurtă pentru fotografii este adesea posibilă lateral.",
+                "en": "Brief stops for photos are often possible on the side of the building."
+              }
+            },
+            {
+              "name": "Kathedrale von León",
+              "tip_5lang": {
+                "de": "Parkhaus 'Parking Ordoño II' bietet einen trockenen Zugang zur Altstadt.",
+                "hu": "A 'Parking Ordoño II' mélygarázs száraz bejutást biztosít az óvárosba.",
+                "ro": "Parcarea 'Parking Ordoño II' oferă acces uscat spre centrul vechi.",
+                "en": "Parking Ordoño II provides a dry way to access the old town area."
+              }
+            },
+            {
+              "name": "Casa Botines",
+              "tip_5lang": {
+                "de": "Parken Sie im nahen Parkhaus, um den Fußweg im Regen kurz zu halten.",
+                "hu": "Parkoljon a közeli parkolóházban a gyalogút lerövidítése érdekében.",
+                "ro": "Parcați în garajul din apropiere pentru a scurta mersul prin ploaie.",
+                "en": "Park in the nearby garage to keep your walk in the rain as short as possible."
+              }
+            },
+            {
+              "name": "Barrio Húmedo",
+              "tip_5lang": {
+                "de": "Stellen Sie das Auto in das Parkhaus am Plaza Mayor (Zufahrt beachten).",
+                "hu": "Tegye le az autót a Plaza Mayor alatti garázsban (figyeljen a behajtásra).",
+                "ro": "Lăsați mașina în parcarea din Plaza Mayor (atenție la acces).",
+                "en": "Leave the car in the Plaza Mayor parking garage (check the entrance)."
+              }
+            },
+            {
+              "name": "La Candamia Viewpoint",
+              "tip_5lang": {
+                "de": "Bleiben Sie bei starkem Regen im Auto und genießen Sie die Panorama-Aussicht.",
+                "hu": "Erős esőben maradjon az autóban, és élvezze onnan a panorámát.",
+                "ro": "Rămâneți în mașină în caz de ploaie torențială și admirați panorama.",
+                "en": "In heavy rain, stay inside the car and enjoy the panoramic view from there."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf die Parkzonen (blau/grün) in der Innenstadt, diese sind streng reglementiert.",
+              "Parkhäuser sind im Zentrum von León die stressfreiste Option bei Regen.",
+              "Die Zufahrt zum Barrio Húmedo ist für Touristenfahrzeuge teilweise eingeschränkt.",
+              "Prüfen Sie Ihre Scheibenwischer; die Sicht kann bei Starkregen in den Hügeln schlecht sein."
+            ],
+            "hu": [
+              "Figyeljen a parkolási zónákra (kék/zöld) a belvárosban, szigorúan ellenőrzik.",
+              "A parkolóházak a legkényelmesebb opciók León központjában eső esetén.",
+              "A Barrio Húmedo behajtási szabályai a turisták számára korlátozottak lehetnek.",
+              "Ellenőrizze az ablaktörlőket; a látási viszonyok rosszak lehetnek a dombokon."
+            ],
+            "ro": [
+              "Atenție la zonele de parcare (albastru/verde), regulile sunt stricte.",
+              "Parcările subterane sunt cea mai relaxantă opțiune în centru pe ploaie.",
+              "Accesul auto în Barrio Húmedo este parțial restricționat pentru turiști.",
+              "Verificați ștergătoarele; vizibilitatea poate fi redusă pe dealuri în caz de ploaie."
+            ],
+            "en": [
+              "Pay attention to parking zones (blue/green) in the city center; rules are strict.",
+              "Underground parking is the most stress-free option in León center when raining.",
+              "Access to Barrio Húmedo for tourist vehicles is partially restricted.",
+              "Check your wipers; visibility can be poor on the hills during heavy rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Am klaren Wintermorgen fahren Sie zum MUSAC. Die Heizung im Auto sorgt für einen gemütlichen Start, während Sie die frostige Stadtlandschaft passieren.\n\nMittags steuern Sie das Hostal de San Marcos an. Der kurze Weg vom Parkplatz zur prachtvollen Fassade ist bei der kühlen Luft erfrischend.\n\nNachmittags parken Sie zentral für den Besuch der Kathedrale und des Casa Botines. Die festlich beleuchteten Straßen im Winter machen die Fahrt durch das Zentrum besonders schön.\n\nDen krönenden Abschluss bildet der Sonnenuntergang gegen 17:45 Uhr am La Candamia Viewpoint. Die kalte, klare Luft bietet eine Fernsicht, die im Sommer selten ist, bevor Sie sich in den warmen Bars aufwärmen.",
+            "hu": "A tiszta téli reggelen a MUSAC felé vesszük az irányt. Az autó fűtése kellemes indítást biztosít, miközben elhaladunk a fagyos városkép mellett.\n\nDélben a Hostal de San Marcos felé kormányozzuk az autót. A parkolótól a pompás homlokzatig tartó rövid séta a hűvös levegőben frissítően hat.\n\nDélután központi helyen parkolunk a katedrális és a Casa Botines megtekintéséhez. Az ünnepi fényekkel díszített utcák télen különlegessé teszik a belvárosi autózást.\n\nA nap fénypontja a naplemente 17:45 körül a La Candamia kilátópontnál. A hideg, tiszta levegő olyan távoli kilátást tesz lehetővé, ami nyáron ritka.",
+            "ro": "În dimineața senină de iarnă, conduceți spre MUSAC. Încălzirea din mașină asigură un început confortabil în timp ce treceți prin peisajul înghețat.\n\nLa prânz, vă îndreptați spre Hostal de San Marcos. Scurtul drum de la parcare la fațada magnifică este revigorant în aerul rece de iarnă.\n\nDupă-amiaza parcați central pentru a vizita Catedrala și Casa Botines. Străzile iluminate festiv fac condusul prin centru deosebit de plăcut.\n\nFinalul perfect este apusul soarelui în jurul orei 17:45 la La Candamia. Aerul rece și clar oferă o vizibilitate la distanță rară în timpul verii.",
+            "en": "On a clear winter morning, drive to MUSAC. The car heater ensures a cozy start as you pass through the frosty cityscape.\n\nAt noon, steer towards Hostal de San Marcos. The short walk from the parking lot to the magnificent facade is refreshing in the cool winter air.\n\nIn the afternoon, park centrally for your visit to the Cathedral and Casa Botines. The festively lit streets in winter make driving through the center especially nice.\n\nThe crowning finale is the sunset around 17:45 at La Candamia Viewpoint. The cold, clear air offers long-distance views that are rare in summer."
+          },
+          "stops": [
+            {
+              "name": "MUSAC",
+              "tip_5lang": {
+                "de": "Die Glasfassade des Museums reflektiert die tiefstehende Wintersonne wunderschön.",
+                "hu": "A múzeum üveghomlokzata csodásan tükrözi vissza az alacsonyan járó téli napot.",
+                "ro": "Fațada de sticlă a muzeului reflectă superb soarele jos de iarnă.",
+                "en": "The museum's glass facade reflects the low winter sun beautifully."
+              }
+            },
+            {
+              "name": "Hostal de San Marcos",
+              "tip_5lang": {
+                "de": "Warme Kleidung für den kurzen Fußweg über den großen Platz anlegen.",
+                "hu": "Vegyen fel meleg ruhát a tágas téren átvezető rövid sétához.",
+                "ro": "Puneți-vă haine groase pentru scurtul drum pe jos prin piața mare.",
+                "en": "Put on warm clothes for the short walk across the large open square."
+              }
+            },
+            {
+              "name": "Kathedrale von León",
+              "tip_5lang": {
+                "de": "Nutzen Sie ein unterirdisches Parkhaus, um Frost auf den Scheiben zu vermeiden.",
+                "hu": "Használjon mélygarázst, hogy elkerülje a szélvédő lefagyását parkoláskor.",
+                "ro": "Folosiți o parcare subterană pentru a evita înghețarea parbrizului.",
+                "en": "Use an underground parking garage to avoid frost building up on your windows."
+              }
+            },
+            {
+              "name": "Casa Botines",
+              "tip_5lang": {
+                "de": "Der Gaudí-Palast ist im Winter oft weniger überlaufen.",
+                "hu": "A Gaudí-palota télen gyakran kevésbé zsúfolt, élvezze a nyugalmat.",
+                "ro": "Palatul lui Gaudí este adesea mai puțin aglomerat în timpul iernii.",
+                "en": "The Gaudí palace is often less crowded during the winter months."
+              }
+            },
+            {
+              "name": "Barrio Húmedo",
+              "tip_5lang": {
+                "de": "Viele Parkhäuser im Zentrum sind beheizt, was den Rückweg angenehmer macht.",
+                "hu": "Sok belvárosi parkolóház fűtött, ami kellemesebbé teszi a visszautat.",
+                "ro": "Multe parcări din centru sunt încălzite, făcând întoarcerea mai plăcută.",
+                "en": "Many central parking garages are tempered, making the return journey nicer."
+              }
+            },
+            {
+              "name": "La Candamia Viewpoint",
+              "tip_5lang": {
+                "de": "Idealer Ort für den Sonnenuntergang; kommen Sie ca. 15 Min. früher an.",
+                "hu": "Ideális hely a naplementéhez; érkezzen meg körülbelül 15 perccel korábban.",
+                "ro": "Loc ideal pentru apus; sosiți cu aproximativ 15 minute mai devreme.",
+                "en": "Ideal spot for the sunset; arrive about 15 minutes before 17:45."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Frostschutz in Ihrer Scheibenwaschanlage vor der Fahrt.",
+              "Die Straßen in León werden bei Frost schnell gestreut, seien Sie dennoch vorsichtig.",
+              "Der Parkplatz bei La Candamia kann bei Schnee rutschig sein.",
+              "Nutzen Sie die Sitzheizung für die Fahrt zwischen den weitläufigen Stopps."
+            ],
+            "hu": [
+              "Indulás előtt ellenőrizze a fagyállót a szélvédőmosó folyadékban.",
+              "León utcáit fagy esetén gyorsan sózzák, de azért maradjon óvatos.",
+              "A La Candamia parkolója hó esetén csúszós lehet, vezessen figyelmesen.",
+              "Használja az ülésfűtést a távolabbi megállók közötti utazás során."
+            ],
+            "ro": [
+              "Verificați antigelul din lichidul de parbriz înainte de a porni la drum.",
+              "Străzile din León sunt curățate rapid la îngheț, dar fiți totuși atenți.",
+              "Parcarea de la La Candamia poate fi alunecoasă în caz de zăpadă.",
+              "Folosiți încălzirea în scaune pentru drumul între obiectivele mai îndepărtate."
+            ],
+            "en": [
+              "Check the antifreeze in your windshield washer fluid before starting.",
+              "Streets in León are gritted quickly during frost, but still remain cautious.",
+              "The parking area at La Candamia can be slippery if there is snow.",
+              "Use the seat heating for the drive between the more distant stops."
+            ]
+          }
+        }
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 10.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Hostal de San Marcos",
+          "coords": [
+            -5.5818,
+            42.6018
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Gut erreichbar mit Buslinie 4.",
+            "hu": "Könnyen elérhető a 4-es busszal.",
+            "ro": "Accesibil cu linia de autobuz 4.",
+            "en": "Easily reached by bus line 4."
+          }
+        },
+        {
+          "name": "MUSAC",
+          "coords": [
+            -5.584,
+            42.6055
+          ],
+          "category": "museums",
+          "arrive_at": "10:25",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Bushaltestelle direkt gegenüber dem Eingang.",
+            "hu": "Buszmegálló közvetlenül a bejárattal szemben.",
+            "ro": "Stație de autobuz chiar vis-a-vis de intrare.",
+            "en": "Bus stop right opposite the entrance."
+          }
+        },
+        {
+          "name": "Basílica de San Isidoro",
+          "coords": [
+            -5.5705,
+            42.6011
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:15",
+          "stay_min": 70,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus Richtung Santo Domingo.",
+            "hu": "Szállj a Santo Domingo felé tartó buszra.",
+            "ro": "Luați autobuzul spre Santo Domingo.",
+            "en": "Take the bus towards Santo Domingo square."
+          }
+        },
+        {
+          "name": "Kathedrale von León",
+          "coords": [
+            -5.5668,
+            42.5994
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg vom Plaza Santo Domingo.",
+            "hu": "Rövid séta a Plaza Santo Domingo megállótól.",
+            "ro": "Scurtă plimbare de la Plaza Santo Domingo.",
+            "en": "Short walk from the Plaza Santo Domingo stop."
+          }
+        },
+        {
+          "name": "Plaza Mayor",
+          "coords": [
+            -5.5653,
+            42.5989
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "15:15",
+          "stay_min": 35,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Das Herz der Stadt.",
+            "hu": "A város lüktető szíve.",
+            "ro": "Inima orașului.",
+            "en": "The heart of the city."
+          }
+        },
+        {
+          "name": "Barrio Húmedo",
+          "coords": [
+            -5.5665,
+            42.5975
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "16:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Perfekt für den Ausklang.",
+            "hu": "Tökéletes a nap lezárásához.",
+            "ro": "Perfect pentru finalul zilei.",
+            "en": "Perfect for wrapping up the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Das Bussystem von León verbindet die Außenbezirke wie das MUSAC ideal mit dem Zentrum. Sie starten am prächtigen San Marcos, tauchen in die Kunstwelt ein und gelangen per Bus schnell zur Kathedrale. Der Abend endet bequem in der Fußgängerzone der Altstadt.",
+        "hu": "León buszhálózata remekül összeköti a külső részeket (MUSAC) a központtal. A pompás San Marcos-tól indulunk, majd a művészetek után busszal suhanunk a katedrálishoz. A napot kényelmesen, az óváros sétálóövezetében zárjuk.",
+        "ro": "Rețeaua de autobuze din León conectează ideal zonele exterioare, precum MUSAC, cu centrul. Începeți la somptuosul San Marcos, intrați în lumea artei și ajungeți rapid cu autobuzul la catedrală. Seara se termină confortabil în zona pietonală a centrului vechi.",
+        "en": "León's bus network ideally connects outer areas like MUSAC with the center. Start at the grand San Marcos, dive into art, and quickly reach the cathedral by bus. The day ends comfortably in the pedestrian zone of the old town."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Taberna Los Cazurros",
+            "tip": "Rustikales Ambiente und große Portionen."
+          },
+          {
+            "name": "Embutidos",
+            "tip": "Probieren Sie die Fleischspezialitäten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "El Flechazo",
+            "tip": "Híres a fűszeres sült krumplijáról."
+          },
+          {
+            "name": "Leóni sörök",
+            "tip": "Kóstold meg a helyi kézműves söröket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "La Trastienda del 13",
+            "tip": "Modern tapas bár."
+          },
+          {
+            "name": "Mantecadas",
+            "tip": "Édes vajas sütemény."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bar Rebote",
+            "tip": "Specialized in croquettes."
+          },
+          {
+            "name": "Café Cándido",
+            "tip": "Classic spot for a morning coffee."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parque San Francisco",
+            "tip": "Zentraler, ruhiger Park.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jardín del Cid",
+            "tip": "Csendes kis kert a várfalak tövében.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bernesga river walk",
+            "tip": "Plimbare pe malul apei.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Santa Nonia church surroundings",
+            "tip": "Quiet streets away from the main tourist trail.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Avenida Ordoño II",
+            "tip": "Haupteinkaufsstraße der Stadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Burgo Nuevo",
+            "tip": "Elegáns üzletek és divatboltok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gourmet shops in Barrio Humedo",
+            "tip": "Helyi ínyencségek vásárlása."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mercado Central",
+            "tip": "Local food market near Santo Domingo."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die blauen Busse bedienen das Stadtgebiet.",
+          "Ein Einzelticket kostet ca. 1,20€.",
+          "Die App 'Alesa' zeigt Abfahrtszeiten in Echtzeit.",
+          "Die meisten Linien treffen sich am Plaza Santo Domingo."
+        ],
+        "hu": [
+          "A kék buszok közlekednek a városon belül.",
+          "Egy jegy ára kb. 1,20€.",
+          "Az 'Alesa' app mutatja a valós idejű menetrendet.",
+          "A legtöbb vonal érinti a Plaza Santo Domingo csomópontot."
+        ],
+        "ro": [
+          "Autobuzele albastre deservesc zona urbană.",
+          "Un bilet simplu costă aproximativ 1,20€.",
+          "Aplicația 'Alesa' arată timpii de sosire în timp real.",
+          "Majoritatea liniilor se întâlnesc în Plaza Santo Domingo."
+        ],
+        "en": [
+          "The blue buses serve the urban area.",
+          "A single ticket costs around €1.20.",
+          "The 'Alesa' app shows real-time departure information.",
+          "Most bus lines converge at Plaza Santo Domingo."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Das Bussystem von León verbindet die Außenbezirke wie das MUSAC ideal mit dem Zentrum. Sie starten am prächtigen San Marcos, tauchen in die Kunstwelt ein und gelangen per Bus schnell zur Kathedrale. Der Abend endet bequem in der Fußgängerzone der Altstadt.",
+            "hu": "León buszhálózata remekül összeköti a külső részeket (MUSAC) a központtal. A pompás San Marcos-tól indulunk, majd a művészetek után busszal suhanunk a katedrálishoz. A napot kényelmesen, az óváros sétálóövezetében zárjuk.",
+            "ro": "Rețeaua de autobuze din León conectează ideal zonele exterioare, precum MUSAC, cu centrul. Începeți la somptuosul San Marcos, intrați în lumea artei și ajungeți rapid cu autobuzul la catedrală. Seara se termină confortabil în zona pietonală a centrului vechi.",
+            "en": "León's bus network ideally connects outer areas like MUSAC with the center. Start at the grand San Marcos, dive into art, and quickly reach the cathedral by bus. The day ends comfortably in the pedestrian zone of the old town."
+          },
+          "stops": [
+            {
+              "name": "Hostal de San Marcos",
+              "tip_5lang": {
+                "de": "Gut erreichbar mit Buslinie 4.",
+                "hu": "Könnyen elérhető a 4-es busszal.",
+                "ro": "Accesibil cu linia de autobuz 4.",
+                "en": "Easily reached by bus line 4."
+              }
+            },
+            {
+              "name": "MUSAC",
+              "tip_5lang": {
+                "de": "Bushaltestelle direkt gegenüber dem Eingang.",
+                "hu": "Buszmegálló közvetlenül a bejárattal szemben.",
+                "ro": "Stație de autobuz chiar vis-a-vis de intrare.",
+                "en": "Bus stop right opposite the entrance."
+              }
+            },
+            {
+              "name": "Basílica de San Isidoro",
+              "tip_5lang": {
+                "de": "Nehmen Sie den Bus Richtung Santo Domingo.",
+                "hu": "Szállj a Santo Domingo felé tartó buszra.",
+                "ro": "Luați autobuzul spre Santo Domingo.",
+                "en": "Take the bus towards Santo Domingo square."
+              }
+            },
+            {
+              "name": "Kathedrale von León",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg vom Plaza Santo Domingo.",
+                "hu": "Rövid séta a Plaza Santo Domingo megállótól.",
+                "ro": "Scurtă plimbare de la Plaza Santo Domingo.",
+                "en": "Short walk from the Plaza Santo Domingo stop."
+              }
+            },
+            {
+              "name": "Plaza Mayor",
+              "tip_5lang": {
+                "de": "Das Herz der Stadt.",
+                "hu": "A város lüktető szíve.",
+                "ro": "Inima orașului.",
+                "en": "The heart of the city."
+              }
+            },
+            {
+              "name": "Barrio Húmedo",
+              "tip_5lang": {
+                "de": "Perfekt für den Ausklang.",
+                "hu": "Tökéletes a nap lezárásához.",
+                "ro": "Perfect pentru finalul zilei.",
+                "en": "Perfect for wrapping up the day."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Taberna Los Cazurros",
+                "tip": "Rustikales Ambiente und große Portionen."
+              },
+              {
+                "name": "Embutidos",
+                "tip": "Probieren Sie die Fleischspezialitäten."
+              }
+            ],
+            "hu": [
+              {
+                "name": "El Flechazo",
+                "tip": "Híres a fűszeres sült krumplijáról."
+              },
+              {
+                "name": "Leóni sörök",
+                "tip": "Kóstold meg a helyi kézműves söröket."
+              }
+            ],
+            "ro": [
+              {
+                "name": "La Trastienda del 13",
+                "tip": "Modern tapas bár."
+              },
+              {
+                "name": "Mantecadas",
+                "tip": "Édes vajas sütemény."
+              }
+            ],
+            "en": [
+              {
+                "name": "Bar Rebote",
+                "tip": "Specialized in croquettes."
+              },
+              {
+                "name": "Café Cándido",
+                "tip": "Classic spot for a morning coffee."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Parque San Francisco",
+                "tip": "Zentraler, ruhiger Park.",
+                "emoji": "🌳"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Jardín del Cid",
+                "tip": "Csendes kis kert a várfalak tövében.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Bernesga river walk",
+                "tip": "Plimbare pe malul apei.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Santa Nonia church surroundings",
+                "tip": "Quiet streets away from the main tourist trail.",
+                "emoji": "🍃"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Avenida Ordoño II",
+                "tip": "Haupteinkaufsstraße der Stadt."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Burgo Nuevo",
+                "tip": "Elegáns üzletek és divatboltok."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Gourmet shops in Barrio Humedo",
+                "tip": "Helyi ínyencségek vásárlása."
+              }
+            ],
+            "en": [
+              {
+                "name": "Mercado Central",
+                "tip": "Local food market near Santo Domingo."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Die blauen Busse bedienen das Stadtgebiet.",
+              "Ein Einzelticket kostet ca. 1,20€.",
+              "Die App 'Alesa' zeigt Abfahrtszeiten in Echtzeit.",
+              "Die meisten Linien treffen sich am Plaza Santo Domingo."
+            ],
+            "hu": [
+              "A kék buszok közlekednek a városon belül.",
+              "Egy jegy ára kb. 1,20€.",
+              "Az 'Alesa' app mutatja a valós idejű menetrendet.",
+              "A legtöbb vonal érinti a Plaza Santo Domingo csomópontot."
+            ],
+            "ro": [
+              "Autobuzele albastre deservesc zona urbană.",
+              "Un bilet simplu costă aproximativ 1,20€.",
+              "Aplicația 'Alesa' arată timpii de sosire în timp real.",
+              "Majoritatea liniilor se întâlnesc în Plaza Santo Domingo."
+            ],
+            "en": [
+              "The blue buses serve the urban area.",
+              "A single ticket costs around €1.20.",
+              "The 'Alesa' app shows real-time departure information.",
+              "Most bus lines converge at Plaza Santo Domingo."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie das gut ausgebaute Busnetz, um trocken zum Hostal de San Marcos zu gelangen. Die Busstationen bieten meist guten Regenschutz für kurze Wartezeiten.\n\nMittags bringt Sie der Bus schnell zum MUSAC. Die moderne Architektur des Museums bietet eine bunte Flucht vor dem trüben, nassen Wetter draußen.\n\nNachmittags fahren Sie zurück ins Zentrum zur Basílica de San Isidoro und zur Kathedrale. Die Busse sind gut beheizt und bieten eine angenehme Pause vom Gehen im Regen.\n\nDen Abend verbringen Sie im Barrio Húmedo. Da die Busse bis spät fahren, können Sie die Tapas-Kultur in vollen Zügen genießen, ohne sich Gedanken über den Rückweg im Regen machen zu müssen.",
+            "hu": "Használja a jól kiépített buszhálózatot, hogy szárazon jusson el a Hostal de San Marcoshoz. A megállók többsége jó védelmet nyújt az eső ellen.\n\nDélben a busz gyorsan elviszi a MUSAC-hoz. A múzeum modern építészete színes menekülést kínál a kinti borús, nedves időjárás elől.\n\nDélután visszautazunk a központba, a San Isidoro bazilikához és a katedrálishoz. A buszok jól fűtöttek és kellemes pihenőt nyújtanak az esőben való gyaloglás után.\n\nAz estét a Barrio Húmedóban töltjük. Mivel a buszok későig járnak, nyugodtan élvezheti a tapas-kultúrát anélkül, hogy az esős hazatérés miatt aggódna.",
+            "ro": "Folosiți rețeaua de autobuze bine pusă la punct pentru a ajunge la Hostal de San Marcos. Stațiile oferă în general protecție bună împotriva ploii.\n\nLa prânz, autobuzul vă duce rapid la MUSAC. Arhitectura modernă a muzeului oferă o evadare colorată din vremea mohorâtă și umedă de afară.\n\nDupă-amiaza reveniți în centru spre Basílica de San Isidoro și Catedrală. Autobuzele sunt bine încălzite și oferă o pauză plăcută de la mersul prin ploaie.\n\nSeara o veți petrece în Barrio Húmedo. Deoarece autobuzele circulă până târziu, puteți savura cultura tapas fără să vă faceți griji de drumul înapoi.",
+            "en": "Use the well-developed bus network to reach Hostal de San Marcos while staying dry. Most bus stations offer good shelter during short waiting times.\n\nAt noon, the bus takes you quickly to MUSAC. The modern architecture of the museum provides a colorful escape from the gloomy, wet weather outside.\n\nIn the afternoon, travel back to the center for the Basilica of San Isidoro and the Cathedral. The buses are well-heated and offer a pleasant break from walking in the rain.\n\nSpend your evening in Barrio Húmedo. Since buses run until late, you can fully enjoy the tapas culture without worrying about the rainy journey back."
+          },
+          "stops": [
+            {
+              "name": "Hostal de San Marcos",
+              "tip_5lang": {
+                "de": "Die Linien 7 und 9 halten fast direkt vor dem beeindruckenden Gebäude.",
+                "hu": "A 7-es és 9-es vonalak szinte közvetlenül a lenyűgöző épület előtt állnak meg.",
+                "ro": "Liniile 7 și 9 opresc aproape direct în fața clădirii impresionante.",
+                "en": "Lines 7 and 9 stop almost directly in front of this impressive building."
+              }
+            },
+            {
+              "name": "MUSAC",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle liegt nur wenige Schritte vom Haupteingang entfernt.",
+                "hu": "A buszmegálló mindössze néhány lépésre található a főbejárattól.",
+                "ro": "Stația de autobuz se află la doar câțiva pași de intrarea principală.",
+                "en": "The bus stop is located just a few steps away from the main entrance."
+              }
+            },
+            {
+              "name": "Basílica de San Isidoro",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Transit zur Santo Domingo Haltestelle für den kürzesten Fußweg.",
+                "hu": "Szálljon le a Santo Domingo megállónál a legrövidebb gyalogút érdekében.",
+                "ro": "Folosiți tranzitul către stația Santo Domingo pentru cel mai scurt drum pe jos.",
+                "en": "Take the bus to the Santo Domingo stop for the shortest walk to the site."
+              }
+            },
+            {
+              "name": "Kathedrale von León",
+              "tip_5lang": {
+                "de": "Ein zentraler Knotenpunkt für viele Linien, ideal zum Umsteigen im Trockenen.",
+                "hu": "Számos vonal központi csomópontja, ideális a fedett átszálláshoz.",
+                "ro": "Un nod central pentru multe linii, ideal pentru a schimba la adăpost.",
+                "en": "A central hub for many lines, ideal for changing buses while staying dry."
+              }
+            },
+            {
+              "name": "Plaza Mayor",
+              "tip_5lang": {
+                "de": "Vom Plaza de Santo Domingo sind es nur 5 Minuten Fußweg unter Arkaden.",
+                "hu": "A Plaza de Santo Domingótól csak 5 perc séta az árkádok alatt.",
+                "ro": "De la Plaza de Santo Domingo sunt doar 5 minute de mers sub arcade.",
+                "en": "It is only a 5-minute walk under the arcades from Plaza de Santo Domingo."
+              }
+            },
+            {
+              "name": "Barrio Húmedo",
+              "tip_5lang": {
+                "de": "Die Haltestellen an der Calle Independencia sind nachts gut beleuchtet.",
+                "hu": "A Calle Independencia menti megállók éjszaka is jól megvilágítottak.",
+                "ro": "Stațiile de pe Calle Independencia sunt bine iluminate pe timp de noapte.",
+                "en": "The stops along Calle Independencia are well-lit at night."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Holen Sie sich eine Mehrfahrtenkarte ('Bono Bus'), um beim Umsteigen zu sparen.",
+              "Die App 'León Bus' zeigt Echtzeit-Ankünfte, was Wartezeiten im Regen minimiert.",
+              "In Bussen ist es oft warm, legen Sie Ihre nassen Sachen vorsichtig ab.",
+              "Einige Haltestellen in der Altstadt haben keine Unterstände, planen Sie Ihre Route klug."
+            ],
+            "hu": [
+              "Váltson többszöri utazásra jogosult kártyát ('Bono Bus') a spóroláshoz.",
+              "A 'León Bus' alkalmazás valós idejű érkezést mutat, így kevesebbet vár az esőben.",
+              "A buszokon gyakran meleg van, óvatosan helyezze el nedves ruháit.",
+              "Néhány óvárosi megálló nem fedett, tervezze meg okosan az útvonalát."
+            ],
+            "ro": [
+              "Cumpărați un card pentru mai multe călătorii ('Bono Bus') pentru a economisi.",
+              "Aplicația 'León Bus' arată sosirile în timp real, reducând așteptarea în ploaie.",
+              "În autobuze este adesea cald, aveți grijă unde puneți lucrurile ude.",
+              "Unele stații din centrul vechi nu au adăpost, planificați ruta cu atenție."
+            ],
+            "en": [
+              "Get a multi-trip card ('Bono Bus') to save money during transfers.",
+              "The 'León Bus' app shows real-time arrivals, minimizing wait time in the rain.",
+              "Buses are often very warm, place your wet items carefully.",
+              "Some stops in the old town lack shelters; plan your route wisely to avoid them."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Mit dem Bus starten Sie entspannt am Hostal de San Marcos. Die beheizten Fahrzeuge sind eine Wohltat an einem frostigen Wintermorgen.\n\nMittags bringt Sie der Transit bequem zum MUSAC. Die farbige Glasfassade leuchtet in der klaren Winterluft besonders schön, und das Museum ist herrlich temperiert.\n\nNachmittags geht es zurück in die historische Altstadt. Der Bus erspart Ihnen lange Wege durch den kalten Wind, während Sie die Aussicht auf die winterlich geschmückten Plätze genießen.\n\nDer Abend endet im Barrio Húmedo. Wenn es draußen friert, bringen Sie die Busse sicher und warm zurück zu Ihrer Unterkunft, nachdem Sie die herzliche Atmosphäre der Stadt genossen haben.",
+            "hu": "A buszon pihentetően indul a nap a Hostal de San Marcosnál. A fűtött járművek igazi megváltást jelentenek egy fagyos téli reggelen.\n\nDélben a tömegközlekedés kényelmesen elviszi a MUSAC-hoz. A színes üveghomlokzat a tiszta téli levegőben különösen szép, a múzeum pedig kellemesen meleg.\n\nDélután visszatérünk a történelmi óvárosba. A busz megkíméli Önt a hideg szélben való hosszú gyaloglástól, miközben élvezheti a télies díszbe öltözött terek látványát.\n\nAz este a Barrio Húmedóban zárul. Amikor kint fagy, a buszok biztonságosan és melegen viszik vissza a szálláshelyére a városi hangulat élvezete után.",
+            "ro": "Cu autobuzul, începeți ziua relaxat la Hostal de San Marcos. Vehiculele încălzite sunt o binecuvântare într-o dimineață geroasă de iarnă.\n\nLa prânz, tranzitul vă duce confortabil la MUSAC. Fațada de sticlă colorată strălucește în aerul clar de iarnă, iar muzeul este plăcut încălzit.\n\nDupă-amiaza reveniți în centrul istoric. Autobuzul vă scutește de drumurile lungi prin vântul rece, oferind vederi spre piețele decorate de iarnă.\n\nSeara se încheie în Barrio Húmedo. Când afară îngheață, autobuzele vă aduc în siguranță și la căldură înapoi la cazare după ce ați savurat atmosfera caldă a orașului.",
+            "en": "Start your day relaxed by taking the bus to Hostal de San Marcos. The heated vehicles are a blessing on a frosty winter morning.\n\nAt noon, transit takes you comfortably to MUSAC. The colorful glass facade shines beautifully in the clear winter air, and the museum is wonderfully warm.\n\nIn the afternoon, head back to the historic old town. The bus saves you from long walks in the cold wind while you enjoy the views of festively decorated squares.\n\nYour evening ends in Barrio Húmedo. When it is freezing outside, the buses will bring you back to your accommodation safely and warmly after enjoying the local hospitality."
+          },
+          "stops": [
+            {
+              "name": "Hostal de San Marcos",
+              "tip_5lang": {
+                "de": "Warten Sie in den beheizten Hallen nahegelegener Geschäfte, falls der Bus Verspätung hat.",
+                "hu": "Várjon a közeli üzletek fűtött tereiben, ha a busz késne a hidegben.",
+                "ro": "Așteptați în spațiile încălzite ale magazinelor din apropiere dacă autobuzul întârzie.",
+                "en": "Wait in the heated spaces of nearby shops if the bus is delayed in the cold."
+              }
+            },
+            {
+              "name": "MUSAC",
+              "tip_5lang": {
+                "de": "Der Busbahnhof liegt etwas weiter weg, nutzen Sie die lokalen Stadtbusse.",
+                "hu": "A távolsági buszpályaudvar kicsit messzebb van, használja a helyi járatokat.",
+                "ro": "Autogara este ceva mai departe, folosiți autobuzele locale ale orașului.",
+                "en": "The long-distance bus station is a bit further away; use the local city buses."
+              }
+            },
+            {
+              "name": "Basílica de San Isidoro",
+              "tip_5lang": {
+                "de": "Vom Busstopp am Plaza de Santo Domingo ist der Weg kurz und windgeschützt.",
+                "hu": "A Plaza de Santo Domingo buszmegállótól az út rövid és szélvédett.",
+                "ro": "De la stația de autobuz Plaza de Santo Domingo, drumul este scurt și protejat.",
+                "en": "The walk from the Plaza de Santo Domingo bus stop is short and sheltered."
+              }
+            },
+            {
+              "name": "Kathedrale von León",
+              "tip_5lang": {
+                "de": "Abends sind die Haltestellen hier oft festlich beleuchtet.",
+                "hu": "Esténként az itteni megállók gyakran ünnepi világítást kapnak.",
+                "ro": "Seara, stațiile de aici sunt adesea iluminate festiv.",
+                "en": "In the evenings, the stops around here are often festively lit."
+              }
+            },
+            {
+              "name": "Plaza Mayor",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Transit, um die Steigung in die Oberstadt zu vermeiden.",
+                "hu": "Használja a tömegközlekedést, hogy elkerülje a kaptatót a felsővárosba.",
+                "ro": "Folosiți tranzitul pentru a evita panta spre partea de sus a orașului.",
+                "en": "Use transit to avoid the incline leading up to the upper city area."
+              }
+            },
+            {
+              "name": "Barrio Húmedo",
+              "tip_5lang": {
+                "de": "Nachtbusse (Búho-Bus) verkehren an Wochenenden bis in die frühen Morgenstunden.",
+                "hu": "Az éjszakai buszok (Búho-Bus) hétvégén a kora hajnali órákig közlekednek.",
+                "ro": "Autobuzele de noapte (Búho-Bus) circulă în weekend până dimineața devreme.",
+                "en": "Night buses (Búho-Bus) run until the early morning hours on weekends."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busfahrpläne können an Feiertagen im Winter stark variieren.",
+              "Die vorderen Plätze im Bus sind oft am wärmsten.",
+              "Haben Sie Kleingeld bereit, da Kartenleser in älteren Bussen manchmal streiken.",
+              "Der Fußweg zwischen Bushaltestelle und San Isidoro kann im Winter glatt sein."
+            ],
+            "hu": [
+              "A buszmenetrendek a téli ünnepek alatt jelentősen eltérhetnek.",
+              "A busz első ülései általában a legmelegebbek a fűtés miatt.",
+              "Legyen Önnél aprópénz, mert a kártyaolvasók néha nem működnek a hidegben.",
+              "A buszmegálló és a San Isidoro közötti gyalogút télen csúszós lehet."
+            ],
+            "ro": [
+              "Orarele autobuzelor pot varia considerabil în timpul sărbătorilor de iarnă.",
+              "Locurile din față în autobuz sunt adesea cele mai calde datorită încălzirii.",
+              "Aveți bani mărunți la voi, cititoarele de carduri pot da erori uneori.",
+              "Drumul pe jos între stație și San Isidoro poate fi alunecos iarna."
+            ],
+            "en": [
+              "Bus schedules can vary significantly during winter public holidays.",
+              "The front seats in the bus are often the warmest due to the heating system.",
+              "Have small change ready as card readers in older buses can sometimes fail.",
+              "The walk between the bus stop and San Isidoro can be slippery in winter."
+            ]
+          }
+        }
+      }
+    }
+  },
+  "external_resources": {
+    "museum_tickets": "https://catedraldeleon.org/",
+    "tourism_office": "https://www.turismoleon.org/",
+    "language_tips": {
+      "de": "Leon spricht klares Kastilisch mit leichtem nordwestlichen Einschlag. Englisch klappt im Stadtzentrum und in der Studentenszene, in den Tapas-Bars des Barrio Humedo eher nicht. 'Una caña y una tapa' bringt dir Bier plus Gratis-Snack — Leon hat eine der besten Gratis-Tapa-Traditionen Spaniens.",
+      "hu": "Leon tiszta kasztiliait beszel enyhe eszaknyugati zenge szel. A kozpontban es a diakeletben az angol megy, a Barrio Humedo tapas-baroban kevesbe. Az 'una caña y una tapa' sort hoz plusz ingyen falatkat — Leonnak Spanyolorszag egyik legjobb ingyen-tapas hagyomanya van.",
+      "ro": "Leon vorbeste castiliana clara cu un usor accent nord-vestic. In centrul orasului si in lumea studenteasca engleza merge, in tapas-bar-urile din Barrio Humedo mai putin. 'Una caña y una tapa' iti aduce bere plus gustare gratuita, Leon are una din cele mai bune traditii de tapas gratis din Spania.",
+      "en": "Leon speaks clear Castilian with a slight northwestern accent. English works in the city centre and student scene, less so in the Barrio Humedo tapas bars. 'Una caña y una tapa' gets you a beer with a free snack — Leon has one of Spain's best free-tapa traditions."
+    },
+    "best_time_to_visit": {
+      "de": "Mai bis Juni und September sind ideal: 15-25 Grad, perfekt fuer die Kathedrale und Tapas-Touren. Juli und August angenehm warm (28 Grad), kuehler als der Sueden. Im Winter sehr kalt (oft unter Null), aber die Adventszeit mit ihren Glasfenstern in der Kathedrale ist ein Erlebnis.",
+      "hu": "Majus-junius es szeptember ideal: 15-25 fok, tokeletes a katedralisra es tapas-turakra. Julius-augusztus kellemesen meleg (28 fok), huvosebb mint a del. Telen nagyon hideg (gyakran fagypont alatt), de az adventi idoszak a katedralis uvegablakaval elmeny.",
+      "ro": "Mai-iunie si septembrie sunt ideale: 15-25 grade, perfect pentru catedrala si tururi de tapas. Iulie si august placut de calde (28 grade), mai racoros decat sudul. Iarna foarte rece (deseori sub zero), dar Adventul cu vitraliile catedralei e o experienta.",
+      "en": "May-June and September are ideal: 15-25°C, perfect for the cathedral and tapas trails. July and August are pleasantly warm (28°C), cooler than the south. Winter is very cold (often below zero), but Advent with the cathedral's stained glass is unforgettable."
+    },
+    "neighborhood_warnings": {
+      "de": "Sehr sichere Stadt, auch nachts im Barrio Humedo entspannt. Einzige Vorsicht: am Wochenende wird das Ausgehviertel sehr voll und laut, Taschendiebe gibt es vereinzelt in dichten Menschenmengen. Nicht offiziell ausgewiesene Stadtfuehrer an der Kathedrale ignorieren.",
+      "hu": "Nagyon biztonsagos varos, ejjel a Barrio Humedoban is laza. Egyetlen ovatossag: hetvegen a szorakozonegyed nagyon tomott es hangos, ritkan vannak zsebtolvajok a tomegben. A katedralisnal a nem hivatalos idegenvezetoket hagyd figyelmen kivul.",
+      "ro": "Oras foarte sigur, chiar si noaptea in Barrio Humedo e relaxat. Singura atentie: in weekend cartierul de iesit devine foarte aglomerat si zgomotos, ocazional hoti de buzunare in multime. La catedrala ignora ghizii neoficiali.",
+      "en": "Very safe city, relaxed even at night in the Barrio Humedo. Only caveat: the nightlife district gets very packed and loud on weekends, with occasional pickpockets in dense crowds. Ignore unofficial guides at the cathedral."
+    },
+    "transit_official": "https://www.aytoleon.es/",
+    "events": "https://www.turismoleon.org/",
+    "webcam": "https://www.skylinewebcams.com/en/webcam/espana/castilla-y-leon/leon.html"
+  }
+}

@@ -1,0 +1,2507 @@
+{
+  "city_id": "san-vicente-de-la-barquera",
+  "anchor": {
+    "name": "San Vicente de la Barquera",
+    "coords": [
+      -4.3961,
+      43.385
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 3.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Puente de la Maza",
+            "hu": "Maza-híd",
+            "ro": "Podul Maza",
+            "en": "Maza Bridge"
+          },
+          "coords": [
+            -4.3915,
+            43.386
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Einst bekannt als Brücke mit den meisten Bögen Spaniens.",
+            "hu": "Egykor Spanyolország legtöbb ívével rendelkező hídjaként ismerték.",
+            "ro": "Cunoscut cândva ca podul cu cele mai multe arcade din Spania.",
+            "en": "Once known as the bridge with the most arches in Spain."
+          }
+        },
+        {
+          "name": {
+            "de": "Castillo del Rey",
+            "hu": "Királyi Vár",
+            "ro": "Castelul Regelui",
+            "en": "King's Castle"
+          },
+          "coords": [
+            -4.3985,
+            43.3845
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Bietet einen hervorragenden Blick auf die Picos de Europa.",
+            "hu": "Kiváló kilátást nyújt a Picos de Europa hegyeire.",
+            "ro": "Oferă o vedere excelentă asupra munților Picos de Europa.",
+            "en": "Offers an excellent view of the Picos de Europa mountains."
+          }
+        },
+        {
+          "name": {
+            "de": "Iglesia de Santa María de los Ángeles",
+            "hu": "Angyalok Boldogasszonya templom",
+            "ro": "Biserica Santa Maria de los Ángeles",
+            "en": "Santa María de los Ángeles Church"
+          },
+          "coords": [
+            -4.3995,
+            43.3855
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein prächtiges Beispiel gotischer Architektur auf dem Hügel.",
+            "hu": "A gótikus építészet pompás példája a dombtetőn.",
+            "ro": "Un exemplu splendid de arhitectură gotică pe deal.",
+            "en": "A magnificent example of Gothic architecture on the hill."
+          }
+        },
+        {
+          "name": {
+            "de": "Palacio del Corro",
+            "hu": "Corro palota",
+            "ro": "Palatul Corro",
+            "en": "Corro Palace"
+          },
+          "coords": [
+            -4.3975,
+            43.384
+          ],
+          "category": "famous residences",
+          "arrive_at": "12:45",
+          "stay_min": 35,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Heute Sitz des Rathauses, bewundern Sie die Fassade.",
+            "hu": "Ma a városháza székhelye, csodálja meg a homlokzatát.",
+            "ro": "Astăzi sediul primăriei, admiră fațada.",
+            "en": "Today the town hall seat, admire the facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittelalterliche Stadtmauer",
+            "hu": "Középkori városfal",
+            "ro": "Zidul medieval al orașului",
+            "en": "Medieval City Wall"
+          },
+          "coords": [
+            -4.398,
+            43.385
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Folgen Sie dem befestigten Pfad für historische Einblicke.",
+            "hu": "Kövesse a megerősített ösvényt a történelmi betekintésért.",
+            "ro": "Urmează calea fortificată pentru perspective istorice.",
+            "en": "Follow the fortified path for historical insights."
+          }
+        },
+        {
+          "name": {
+            "de": "Convento de San Luis",
+            "hu": "Szent Lajos kolostor",
+            "ro": "Mănăstirea San Luis",
+            "en": "San Luis Convent"
+          },
+          "coords": [
+            -4.394,
+            43.382
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:30",
+          "stay_min": 50,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Wunderschöne Ruinen in einer grünen Umgebung.",
+            "hu": "Gyönyörű romok zöld környezetben.",
+            "ro": "Ruine frumoase într-un cadru verde.",
+            "en": "Beautiful ruins in a green setting."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Spaziergang beginnt an der historischen Puente de la Maza, die über die Mündung führt. Steigen Sie zur Altstadt hinauf, um das Castillo del Rey und die beeindruckende Kirche Santa María zu besichtigen. Mittags erkunden Sie den Palacio del Corro und die alten Stadtmauern. Beenden Sie den Tag bei den friedlichen Ruinen des San Luis Konvents, während Sie die Aussicht auf die Küste genießen.",
+        "hu": "Sétája a történelmi Maza-hídon kezdődik, amely az öblön ível át. Másszon fel az óvárosba, hogy megtekintse a Királyi Várat és a lenyűgöző Santa María-templomot. Délben fedezze fel a Corro-palotát és a régi városfalakat. A napot a Szent Lajos-kolostor békés romjainál fejezze be, miközben a tengerparti kilátásban gyönyörködik.",
+        "ro": "Plimbarea începe la istoricul Pod Maza, care traversează estuarul. Urcați spre orașul vechi pentru a vizita Castelul Regelui și impresionanta biserică Santa María. La prânz, explorați Palatul Corro și zidurile vechi ale orașului. Încheiați ziua la ruinele liniștite ale mănăstirii San Luis, bucurându-vă de vederea spre coastă.",
+        "en": "Your walk begins at the historical Maza Bridge, crossing the estuary. Climb to the old town to visit the King's Castle and the impressive Santa María Church. At midday, explore the Corro Palace and the old city walls. End the day at the peaceful ruins of San Luis Convent while enjoying the coastal views."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Sorropotún",
+            "tip": "Ein traditioneller Thunfischeintopf aus San Vicente."
+          },
+          {
+            "name": "Restaurante El Portón",
+            "tip": "Hervorragender frischer Fisch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sorropotún",
+            "tip": "Hagyományos tonhalas egytálétel San Vicentéből."
+          },
+          {
+            "name": "Restaurante El Portón",
+            "tip": "Kiváló friss halételek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sorropotún",
+            "tip": "O tocană tradițională de ton din San Vicente."
+          },
+          {
+            "name": "Restaurante El Portón",
+            "tip": "Pește proaspăt excelent."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sorropotún",
+            "tip": "A traditional tuna stew from San Vicente."
+          },
+          {
+            "name": "Restaurante El Portón",
+            "tip": "Excellent fresh fish dishes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Marismas de Pombo",
+            "tip": "Vogelbeobachtung in einer ruhigen Feuchtgebietslandschaft.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Marismas de Pombo",
+            "tip": "Madármegfigyelés egy nyugodt vizes élőhelyen.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Marismas de Pombo",
+            "tip": "Observarea păsărilor într-un peisaj liniștit de mlaștină.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Marismas de Pombo",
+            "tip": "Birdwatching in a quiet wetland landscape.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Corbatas de Unquera",
+            "tip": "Blätterteiggebäck in Krawattenform, eine lokale Spezialität."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Corbatas de Unquera",
+            "tip": "Nyakkendő alakú leveles tészta, helyi különlegesség."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Corbatas de Unquera",
+            "tip": "Patiserie din foietaj în formă de cravată, o specialitate locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Corbatas de Unquera",
+            "tip": "Tie-shaped puff pastry, a local specialty."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Altstadt ist steil, tragen Sie rutschfeste Schuhe.",
+          "Achten Sie auf die Gezeiten unter der Brücke."
+        ],
+        "hu": [
+          "Az óváros meredek, viseljen csúszásmentes cipőt.",
+          "Figyelje az árapályt a híd alatt."
+        ],
+        "ro": [
+          "Orașul vechi este abrupt, poartă încălțăminte antiderapantă.",
+          "Atenție la maree sub pod."
+        ],
+        "en": [
+          "The old town is steep, wear non-slip shoes.",
+          "Watch the tides under the bridge."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Ihr Spaziergang beginnt an der historischen Puente de la Maza, die über die Mündung führt. Steigen Sie zur Altstadt hinauf, um das Castillo del Rey und die beeindruckende Kirche Santa María zu besichtigen. Mittags erkunden Sie den Palacio del Corro und die alten Stadtmauern. Beenden Sie den Tag bei den friedlichen Ruinen des San Luis Konvents, während Sie die Aussicht auf die Küste genießen.",
+            "hu": "Sétája a történelmi Maza-hídon kezdődik, amely az öblön ível át. Másszon fel az óvárosba, hogy megtekintse a Királyi Várat és a lenyűgöző Santa María-templomot. Délben fedezze fel a Corro-palotát és a régi városfalakat. A napot a Szent Lajos-kolostor békés romjainál fejezze be, miközben a tengerparti kilátásban gyönyörködik.",
+            "ro": "Plimbarea începe la istoricul Pod Maza, care traversează estuarul. Urcați spre orașul vechi pentru a vizita Castelul Regelui și impresionanta biserică Santa María. La prânz, explorați Palatul Corro și zidurile vechi ale orașului. Încheiați ziua la ruinele liniștite ale mănăstirii San Luis, bucurându-vă de vederea spre coastă.",
+            "en": "Your walk begins at the historical Maza Bridge, crossing the estuary. Climb to the old town to visit the King's Castle and the impressive Santa María Church. At midday, explore the Corro Palace and the old city walls. End the day at the peaceful ruins of San Luis Convent while enjoying the coastal views."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Puente de la Maza",
+                "hu": "Maza-híd",
+                "ro": "Podul Maza",
+                "en": "Maza Bridge"
+              },
+              "tip_5lang": {
+                "de": "Einst bekannt als Brücke mit den meisten Bögen Spaniens.",
+                "hu": "Egykor Spanyolország legtöbb ívével rendelkező hídjaként ismerték.",
+                "ro": "Cunoscut cândva ca podul cu cele mai multe arcade din Spania.",
+                "en": "Once known as the bridge with the most arches in Spain."
+              }
+            },
+            {
+              "name": {
+                "de": "Castillo del Rey",
+                "hu": "Királyi Vár",
+                "ro": "Castelul Regelui",
+                "en": "King's Castle"
+              },
+              "tip_5lang": {
+                "de": "Bietet einen hervorragenden Blick auf die Picos de Europa.",
+                "hu": "Kiváló kilátást nyújt a Picos de Europa hegyeire.",
+                "ro": "Oferă o vedere excelentă asupra munților Picos de Europa.",
+                "en": "Offers an excellent view of the Picos de Europa mountains."
+              }
+            },
+            {
+              "name": {
+                "de": "Iglesia de Santa María de los Ángeles",
+                "hu": "Angyalok Boldogasszonya templom",
+                "ro": "Biserica Santa Maria de los Ángeles",
+                "en": "Santa María de los Ángeles Church"
+              },
+              "tip_5lang": {
+                "de": "Ein prächtiges Beispiel gotischer Architektur auf dem Hügel.",
+                "hu": "A gótikus építészet pompás példája a dombtetőn.",
+                "ro": "Un exemplu splendid de arhitectură gotică pe deal.",
+                "en": "A magnificent example of Gothic architecture on the hill."
+              }
+            },
+            {
+              "name": {
+                "de": "Palacio del Corro",
+                "hu": "Corro palota",
+                "ro": "Palatul Corro",
+                "en": "Corro Palace"
+              },
+              "tip_5lang": {
+                "de": "Heute Sitz des Rathauses, bewundern Sie die Fassade.",
+                "hu": "Ma a városháza székhelye, csodálja meg a homlokzatát.",
+                "ro": "Astăzi sediul primăriei, admiră fațada.",
+                "en": "Today the town hall seat, admire the facade."
+              }
+            },
+            {
+              "name": {
+                "de": "Mittelalterliche Stadtmauer",
+                "hu": "Középkori városfal",
+                "ro": "Zidul medieval al orașului",
+                "en": "Medieval City Wall"
+              },
+              "tip_5lang": {
+                "de": "Folgen Sie dem befestigten Pfad für historische Einblicke.",
+                "hu": "Kövesse a megerősített ösvényt a történelmi betekintésért.",
+                "ro": "Urmează calea fortificată pentru perspective istorice.",
+                "en": "Follow the fortified path for historical insights."
+              }
+            },
+            {
+              "name": {
+                "de": "Convento de San Luis",
+                "hu": "Szent Lajos kolostor",
+                "ro": "Mănăstirea San Luis",
+                "en": "San Luis Convent"
+              },
+              "tip_5lang": {
+                "de": "Wunderschöne Ruinen in einer grünen Umgebung.",
+                "hu": "Gyönyörű romok zöld környezetben.",
+                "ro": "Ruine frumoase într-un cadru verde.",
+                "en": "Beautiful ruins in a green setting."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Sorropotún",
+                "tip": "Ein traditioneller Thunfischeintopf aus San Vicente."
+              },
+              {
+                "name": "Restaurante El Portón",
+                "tip": "Hervorragender frischer Fisch."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Sorropotún",
+                "tip": "Hagyományos tonhalas egytálétel San Vicentéből."
+              },
+              {
+                "name": "Restaurante El Portón",
+                "tip": "Kiváló friss halételek."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Sorropotún",
+                "tip": "O tocană tradițională de ton din San Vicente."
+              },
+              {
+                "name": "Restaurante El Portón",
+                "tip": "Pește proaspăt excelent."
+              }
+            ],
+            "en": [
+              {
+                "name": "Sorropotún",
+                "tip": "A traditional tuna stew from San Vicente."
+              },
+              {
+                "name": "Restaurante El Portón",
+                "tip": "Excellent fresh fish dishes."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Marismas de Pombo",
+                "tip": "Vogelbeobachtung in einer ruhigen Feuchtgebietslandschaft.",
+                "emoji": "🍃"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Marismas de Pombo",
+                "tip": "Madármegfigyelés egy nyugodt vizes élőhelyen.",
+                "emoji": "🍃"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Marismas de Pombo",
+                "tip": "Observarea păsărilor într-un peisaj liniștit de mlaștină.",
+                "emoji": "🍃"
+              }
+            ],
+            "en": [
+              {
+                "name": "Marismas de Pombo",
+                "tip": "Birdwatching in a quiet wetland landscape.",
+                "emoji": "🍃"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Corbatas de Unquera",
+                "tip": "Blätterteiggebäck in Krawattenform, eine lokale Spezialität."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Corbatas de Unquera",
+                "tip": "Nyakkendő alakú leveles tészta, helyi különlegesség."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Corbatas de Unquera",
+                "tip": "Patiserie din foietaj în formă de cravată, o specialitate locală."
+              }
+            ],
+            "en": [
+              {
+                "name": "Corbatas de Unquera",
+                "tip": "Tie-shaped puff pastry, a local specialty."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Die Altstadt ist steil, tragen Sie rutschfeste Schuhe.",
+              "Achten Sie auf die Gezeiten unter der Brücke."
+            ],
+            "hu": [
+              "Az óváros meredek, viseljen csúszásmentes cipőt.",
+              "Figyelje az árapályt a híd alatt."
+            ],
+            "ro": [
+              "Orașul vechi este abrupt, poartă încălțăminte antiderapantă.",
+              "Atenție la maree sub pod."
+            ],
+            "en": [
+              "The old town is steep, wear non-slip shoes.",
+              "Watch the tides under the bridge."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt auf der Brücke von Maza, wo Regen und Wind vom Meer her peitschen. Wir suchen Schutz in den engen Gassen der Oberstadt.\nZu Mittag essen wir gemütlich unter den Arkaden am Marktplatz.\nDer Nachmittag gehört der Kirche und dem Schloss, deren massive Mauern uns trocken halten.\nAbends erzeugt das Plätschern des Regens bei den Ruinen von San Luis eine mystische Stille.",
+            "hu": "A reggel a Maza-hídon indul, ahol az eső és a szél a tenger felől ostorozza a partot. Az óváros szűk utcáin keresünk menedéket.\nEbédünket a főtér árkádjai alatt található hangulatos étteremben költjük el.\nA délutánt a templomnak és a várnak szenteljük, melyek falai szárazon tartanak.\nAz estét San Luis romjainál zárjuk, ahol az eső kopogása misztikus csendet teremt.",
+            "ro": "Dimineața începe pe podul Maza, unde ploaia și vântul dinspre mare biciuiesc țărmul. Căutăm adăpost pe străzile înguste ale orașului vechi.\nPrânzim într-un restaurant primitor sub arcadele din piața centrală.\nDupă-amiaza este dedicată bisericii și castelului, ale căror ziduri ne țin uscați.\nSeara se încheie la ruinele San Luis, unde ropotul ploii creează o liniște mistică.",
+            "en": "Morning starts on the windy Maza Bridge as rain whips the shore. We seek shelter in the upper town's narrow streets.\nLunch is in a cozy restaurant under the main square's arches.\nThe afternoon is for the church and castle; their walls keep us dry while we explore.\nThe evening ends at the ruins of San Luis, where the rain creates a mystical silence."
+          },
+          "stops": [
+            {
+              "name": "Maza Bridge",
+              "tip_5lang": {
+                "de": "Regenschirm fest halten, der Wind vom Meer ist stark.",
+                "hu": "Fogd erősen az esernyőt, a tengeri szél erős.",
+                "ro": "Ține bine umbrela, vântul de pe mare este puternic.",
+                "en": "Hold your umbrella tight; the sea breeze is strong."
+              }
+            },
+            {
+              "name": "King's Castle",
+              "tip_5lang": {
+                "de": "Idealer Ort, um der Nässe zu entfliehen und Geschichte zu erleben.",
+                "hu": "Ideális hely az eső elől való menekülésre és a történelemre.",
+                "ro": "Loc ideal pentru a scăpa de ploaie și a explora istoria.",
+                "en": "Ideal place to escape the wet and explore history."
+              }
+            },
+            {
+              "name": "Santa María de los Ángeles Church",
+              "tip_5lang": {
+                "de": "Die dicken Mauern bieten perfekten Schutz vor dem Regen.",
+                "hu": "A vastag falak tökéletes védelmet nyújtanak az eső ellen.",
+                "ro": "Zidurile groase oferă protecție perfectă împotriva ploii.",
+                "en": "The thick walls provide perfect protection from the rain."
+              }
+            },
+            {
+              "name": "Corro Palace",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Fassade schnell von den gegenüberliegenden Arkaden.",
+                "hu": "Csodálja meg a homlokzatot a szemközti árkádok alól.",
+                "ro": "Admirați fațada rapid de sub arcadele de vis-à-vis.",
+                "en": "Admire the facade quickly from the arches opposite."
+              }
+            },
+            {
+              "name": "Medieval City Wall",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem Kopfsteinpflaster, es kann rutschig sein.",
+                "hu": "Vigyázzon a macskaköveken, csúszósak lehetnek.",
+                "ro": "Atenție pe piatra cubică, poate fi alunecoasă.",
+                "en": "Be careful on the cobblestones; they can be slippery."
+              }
+            },
+            {
+              "name": "San Luis Convent",
+              "tip_5lang": {
+                "de": "Ein ruhiger, überdachter Ort für das Ende des Spaziergangs.",
+                "hu": "Csendes, fedett hely a séta végére.",
+                "ro": "Un loc liniștit și acoperit pentru finalul plimbării.",
+                "en": "A quiet, covered spot for the end of the walk."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Wanderschuhe für die Pfützen.",
+              "Nutzen Sie die Arkaden (Soportales) für trockene Pausen.",
+              "Ein stabiler Schirm ist besser als ein Cape.",
+              "Besuchen Sie die Burg während der stärksten Schauer.",
+              "Steinstufen können bei Nässe sehr rutschig sein."
+            ],
+            "hu": [
+              "Viseljen vízálló túracipőt az óvárosi tócsák miatt.",
+              "Használja a főtér árkádjait a száraz pihenőkhöz.",
+              "A stabil esernyő jobb a szél miatt, mint az esőköpeny.",
+              "A hevesebb záporok idején menjen be a várba.",
+              "A kőlépcsők nedvesen nagyon csúszósak lehetnek."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă pentru bălți.",
+              "Folosiți arcadele pieței pentru pauze uscate.",
+              "O umbrelă stabilă e mai bună decât o pelerină.",
+              "Vizitați castelul în timpul celor mai puternice averse.",
+              "Treptele de piatră pot fi foarte alunecoase."
+            ],
+            "en": [
+              "Wear waterproof hiking shoes for the puddles.",
+              "Use the arches (Soportales) for dry breaks.",
+              "A sturdy umbrella is better than a cape.",
+              "Visit the castle during the heaviest showers.",
+              "Stone steps can be very slippery when wet."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die klare Winterluft macht den Spaziergang über die Brücke erfrischend. Bei blauem Himmel glänzen die schneebedeckten Picos de Europa.\nZu Mittag wärmen wir uns in einer Bodega bei einem heißen Eintopf auf.\nNachmittags erkunden wir die historischen Mauern in der kühlen Brise.\nDie Sonne verschwindet früh hinter dem Horizont und taucht die Stadt in goldenes Licht.",
+            "hu": "A tiszta téli levegő frissítővé teszi a sétát a hídon. Kék égbolt mellett a távolban a Picos de Europa hófödte csúcsai csillognak.\nDélben egy bodegában melegszünk fel egy forró egytálétellel.\nDélután a történelmi falakat fedezzük fel a hűvös szélben.\nA nap korán eltűnik a horizont mögött, és aranyló fénybe öltözteti a várost.",
+            "ro": "Aerul curat de iarnă face plimbarea peste pod revigorantă. Sub cerul albastru, vârfurile înzăpezite din Picos de Europa strălucesc.\nLa prânz ne încălzim într-o bodegă cu o tocană fierbinte.\nDupă-amiaza explorăm zidurile istorice în briza răcoroasă.\nSoarele apune devreme, scăldând orașul într-o lumină aurie înainte de seară.",
+            "en": "The clear winter morning air makes the walk across the bridge refreshing. Under blue skies, the snow-capped Picos de Europa shine.\nAt noon, we warm up in a local bodega with a hot stew.\nIn the afternoon, we explore the historical walls in the crisp air.\nThe sun sets early behind the horizon, bathing the town in golden light."
+          },
+          "stops": [
+            {
+              "name": "Maza Bridge",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die schneebedeckten Berge.",
+                "hu": "Élvezze a kilátást a hófödte hegyekre.",
+                "ro": "Bucurați-vă de vederea spre munții înzăpeziți.",
+                "en": "Enjoy the view of the snow-capped mountains."
+              }
+            },
+            {
+              "name": "King's Castle",
+              "tip_5lang": {
+                "de": "Ziehen Sie sich warm an, die Steinmauern sind im Winter kalt.",
+                "hu": "Öltözzön melegen, a kőfalak télen hidegek.",
+                "ro": "Îmbrăcați-vă gros, zidurile de piatră sunt reci iarna.",
+                "en": "Dress warmly; the stone walls are cold in winter."
+              }
+            },
+            {
+              "name": "Santa María de los Ángeles Church",
+              "tip_5lang": {
+                "de": "Die Kirche ist kühl; die gotische Kunst wärmt das Herz.",
+                "hu": "A templom hűvös, de a gótikus művészet melenget.",
+                "ro": "Biserica este răcoroasă, dar arta gotică încălzește.",
+                "en": "The church is chilly, but the gothic art warms the heart."
+              }
+            },
+            {
+              "name": "Corro Palace",
+              "tip_5lang": {
+                "de": "Das Gebäude dient heute als Rathaus; ein kurzer Stopp.",
+                "hu": "Az épület ma városháza; egy rövid külső megálló.",
+                "ro": "Clădirea servește azi ca primărie; o scurtă oprire.",
+                "en": "The building serves as the town hall; a short stop."
+              }
+            },
+            {
+              "name": "Medieval City Wall",
+              "tip_5lang": {
+                "de": "Erleben Sie die Atmosphäre in der frühen Dämmerung.",
+                "hu": "Tapaszalja meg a hangulatot a korai szürkületben.",
+                "ro": "Experimentați atmosfera în amurgul timpuriu.",
+                "en": "Experience the atmosphere in the early twilight."
+              }
+            },
+            {
+              "name": "San Luis Convent",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Ruinen, bevor es um 17:30 Uhr dunkel wird.",
+                "hu": "Látogassa meg a romokat, mielőtt 17:30-kor besötétedik.",
+                "ro": "Vizitați ruinele înainte de a se întuneca la 17:30.",
+                "en": "Visit the ruins before it gets dark at 17:30."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht bereits gegen 17:30 Uhr unter.",
+              "Planen Sie Burgbesuche für die wärmere Mittagszeit.",
+              "Die Sicht auf die Picos de Europa ist im Winter fantastisch.",
+              "Kleiden Sie sich im Zwiebelprinzip gegen den Wind.",
+              "Probieren Sie den wärmenden Cocido Montañés."
+            ],
+            "hu": [
+              "A nap már 17:30 körül lenyugszik.",
+              "A várnézést a melegebb déli órákra tervezze.",
+              "Tiszta napokon a hegyi kilátás fantasztikus.",
+              "Öltözzön rétegesen a hideg tengeri szél miatt.",
+              "Kóstolja meg a melengető Cocido Montañés-t."
+            ],
+            "ro": [
+              "Soarele apune deja în jurul orei 17:30.",
+              "Planificați vizita la castel pentru orele prânzului.",
+              "Vederea spre Picos de Europa este fantastică iarna.",
+              "Îmbrăcați-vă în straturi pentru vântul rece.",
+              "Încercați o tocană tradițională Cocido Montañés."
+            ],
+            "en": [
+              "The sun sets as early as 17:30 in December.",
+              "Plan castle visits for the warmer midday hours.",
+              "The view of the Picos de Europa is fantastic in winter.",
+              "Dress in layers against the cold sea wind.",
+              "Try a warming traditional Cocido Montañés stew."
+            ]
+          }
+        }
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:50",
+      "total_km": 14.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Puente de la Maza",
+            "hu": "Maza-híd",
+            "ro": "Podul Maza",
+            "en": "Maza Bridge"
+          },
+          "coords": [
+            -4.3915,
+            43.386
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein flacher Start mit Blick auf das Wasser.",
+            "hu": "Lapos kezdés vízparti kilátással.",
+            "ro": "Un început plat cu vedere la apă.",
+            "en": "A flat start with waterfront views."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa del Merón",
+            "hu": "Merón-strand",
+            "ro": "Plaja Merón",
+            "en": "Merón Beach"
+          },
+          "coords": [
+            -4.385,
+            43.393
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Langer Sandstrand, ideal für eine Pause am Meer.",
+            "hu": "Hosszú homokos strand, ideális egy tengerparti szünethez.",
+            "ro": "Plajă lungă de nisip, ideală pentru o pauză la mare.",
+            "en": "Long sandy beach, ideal for a seaside break."
+          }
+        },
+        {
+          "name": {
+            "de": "Faro de Punta de la Silla",
+            "hu": "Punta de la Silla világítótorony",
+            "ro": "Farul Punta de la Silla",
+            "en": "Punta de la Silla Lighthouse"
+          },
+          "coords": [
+            -4.39,
+            43.398
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "11:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Genießen Sie den Wind und die Aussicht auf den Golf von Biskaya.",
+            "hu": "Élvezze a szelet és a kilátást a Vizcayai-öbölre.",
+            "ro": "Bucură-te de vânt și de vederea spre Golful Biscaia.",
+            "en": "Enjoy the wind and the views over the Bay of Biscay."
+          }
+        },
+        {
+          "name": {
+            "de": "Parque Natural de Oyambre",
+            "hu": "Oyambre Természeti Park",
+            "ro": "Parcul Natural Oyambre",
+            "en": "Oyambre Natural Park"
+          },
+          "coords": [
+            -4.35,
+            43.39
+          ],
+          "category": "natural features",
+          "arrive_at": "13:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Radeln Sie durch Wiesen und Dünen in diesem Schutzgebiet.",
+            "hu": "Kerékpározzon réteken és dűnéken keresztül ebben a védett övezetben.",
+            "ro": "Pedalează prin pajiști și dune în această arie protejată.",
+            "en": "Cycle through meadows and dunes in this protected area."
+          }
+        },
+        {
+          "name": {
+            "de": "Castillo del Rey",
+            "hu": "Királyi Vár",
+            "ro": "Castelul Regelui",
+            "en": "King's Castle"
+          },
+          "coords": [
+            -4.3985,
+            43.3845
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Ein letzter Anstieg zur Burg für den goldenen Sonnenuntergang.",
+            "hu": "Egy utolsó emelkedő a várhoz az aranyló naplementéhez.",
+            "ro": "O ultimă urcare spre castel pentru apusul auriu.",
+            "en": "A final climb to the castle for the golden sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Radtour führt Sie entlang der Küste von San Vicente zum weitläufigen Strand von Merón und weiter zum Leuchtturm. Der Höhepunkt ist die Fahrt durch den Naturpark Oyambre, eine Oase der Ruhe mit Klippen und Dünen. Die Route kehrt zur Altstadt zurück, wo Sie den Tag mit einem Besuch der mittelalterlichen Burg und einem Panoramablick abschließen.",
+        "hu": "Ez a kerékpártúra San Vicente partja mentén vezet a tágas Merón-strandhoz, majd tovább a világítótoronyhoz. A csúcspont az Oyambre Természeti Parkon való áthaladás, amely a nyugalom oázisa sziklákkal és dűnékkel. Az útvonal visszatér az óvárosba, ahol a napot a középkori vár meglátogatásával és panorámás kilátással zárja.",
+        "ro": "Acest tur cu bicicleta te poartă de-a lungul coastei din San Vicente spre plaja întinsă Merón și mai departe spre far. Punctul culminant este traversarea Parcului Natural Oyambre, o oază de liniște cu stânci și dune. Traseul revine în orașul vechi, unde închei ziua cu o vizită la castelul medieval și o vedere panoramică.",
+        "en": "This bike tour takes you along San Vicente's coast to the vast Merón Beach and further to the lighthouse. The highlight is cycling through Oyambre Natural Park, an oasis of calm with cliffs and dunes. The route returns to the old town, where you close the day with a visit to the medieval castle and a panoramic view."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Anchovis aus Kantabrien",
+            "tip": "Weltberühmt für ihre Qualität."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kantábriai szardella",
+            "tip": "Minőségéről világszerte ismert."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Anșoa din Cantabria",
+            "tip": "Faimoasă în întreaga lume pentru calitate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cantabrian Anchovies",
+            "tip": "World famous for their quality."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Oyambre Dünen",
+            "tip": "Finden Sie Ihren eigenen ruhigen Platz am Strand.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Oyambre dűnék",
+            "tip": "Találja meg saját csendes helyét a parton.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dunele Oyambre",
+            "tip": "Găsește-ți propriul loc liniștit pe plajă.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Oyambre Dunes",
+            "tip": "Find your own quiet spot on the beach.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fischmarkt",
+            "tip": "Authentisches lokales Erlebnis am frühen Morgen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Halpiac",
+            "tip": "Hiteles helyi élmény kora reggel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața de pește",
+            "tip": "O experiență locală autentică dimineața devreme."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fish Market",
+            "tip": "Authentic local experience early in the morning."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "In Oyambre kann es windig sein, bringen Sie eine leichte Jacke mit.",
+          "Die Brücke hat einen schmalen Gehweg, schieben Sie das Rad bei Bedarf."
+        ],
+        "hu": [
+          "Oyambre-ban szeles lehet az idő, hozzon könnyű kabátot.",
+          "A híd járdája keskeny, szükség esetén tolja a biciklit."
+        ],
+        "ro": [
+          "Poate fi vânt în Oyambre, adu o jachetă ușoară.",
+          "Podul are un trotuar îngust, împinge bicicleta dacă e necesar."
+        ],
+        "en": [
+          "It can be windy in Oyambre, bring a light jacket.",
+          "The bridge has a narrow walkway, push your bike if needed."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Diese Radtour führt Sie entlang der Küste von San Vicente zum weitläufigen Strand von Merón und weiter zum Leuchtturm. Der Höhepunkt ist die Fahrt durch den Naturpark Oyambre, eine Oase der Ruhe mit Klippen und Dünen. Die Route kehrt zur Altstadt zurück, wo Sie den Tag mit einem Besuch der mittelalterlichen Burg und einem Panoramablick abschließen.",
+            "hu": "Ez a kerékpártúra San Vicente partja mentén vezet a tágas Merón-strandhoz, majd tovább a világítótoronyhoz. A csúcspont az Oyambre Természeti Parkon való áthaladás, amely a nyugalom oázisa sziklákkal és dűnékkel. Az útvonal visszatér az óvárosba, ahol a napot a középkori vár meglátogatásával és panorámás kilátással zárja.",
+            "ro": "Acest tur cu bicicleta te poartă de-a lungul coastei din San Vicente spre plaja întinsă Merón și mai departe spre far. Punctul culminant este traversarea Parcului Natural Oyambre, o oază de liniște cu stânci și dune. Traseul revine în orașul vechi, unde închei ziua cu o vizită la castelul medieval și o vedere panoramică.",
+            "en": "This bike tour takes you along San Vicente's coast to the vast Merón Beach and further to the lighthouse. The highlight is cycling through Oyambre Natural Park, an oasis of calm with cliffs and dunes. The route returns to the old town, where you close the day with a visit to the medieval castle and a panoramic view."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Puente de la Maza",
+                "hu": "Maza-híd",
+                "ro": "Podul Maza",
+                "en": "Maza Bridge"
+              },
+              "tip_5lang": {
+                "de": "Ein flacher Start mit Blick auf das Wasser.",
+                "hu": "Lapos kezdés vízparti kilátással.",
+                "ro": "Un început plat cu vedere la apă.",
+                "en": "A flat start with waterfront views."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa del Merón",
+                "hu": "Merón-strand",
+                "ro": "Plaja Merón",
+                "en": "Merón Beach"
+              },
+              "tip_5lang": {
+                "de": "Langer Sandstrand, ideal für eine Pause am Meer.",
+                "hu": "Hosszú homokos strand, ideális egy tengerparti szünethez.",
+                "ro": "Plajă lungă de nisip, ideală pentru o pauză la mare.",
+                "en": "Long sandy beach, ideal for a seaside break."
+              }
+            },
+            {
+              "name": {
+                "de": "Faro de Punta de la Silla",
+                "hu": "Punta de la Silla világítótorony",
+                "ro": "Farul Punta de la Silla",
+                "en": "Punta de la Silla Lighthouse"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Wind und die Aussicht auf den Golf von Biskaya.",
+                "hu": "Élvezze a szelet és a kilátást a Vizcayai-öbölre.",
+                "ro": "Bucură-te de vânt și de vederea spre Golful Biscaia.",
+                "en": "Enjoy the wind and the views over the Bay of Biscay."
+              }
+            },
+            {
+              "name": {
+                "de": "Parque Natural de Oyambre",
+                "hu": "Oyambre Természeti Park",
+                "ro": "Parcul Natural Oyambre",
+                "en": "Oyambre Natural Park"
+              },
+              "tip_5lang": {
+                "de": "Radeln Sie durch Wiesen und Dünen in diesem Schutzgebiet.",
+                "hu": "Kerékpározzon réteken és dűnéken keresztül ebben a védett övezetben.",
+                "ro": "Pedalează prin pajiști și dune în această arie protejată.",
+                "en": "Cycle through meadows and dunes in this protected area."
+              }
+            },
+            {
+              "name": {
+                "de": "Castillo del Rey",
+                "hu": "Királyi Vár",
+                "ro": "Castelul Regelui",
+                "en": "King's Castle"
+              },
+              "tip_5lang": {
+                "de": "Ein letzter Anstieg zur Burg für den goldenen Sonnenuntergang.",
+                "hu": "Egy utolsó emelkedő a várhoz az aranyló naplementéhez.",
+                "ro": "O ultimă urcare spre castel pentru apusul auriu.",
+                "en": "A final climb to the castle for the golden sunset."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Anchovis aus Kantabrien",
+                "tip": "Weltberühmt für ihre Qualität."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Kantábriai szardella",
+                "tip": "Minőségéről világszerte ismert."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Anșoa din Cantabria",
+                "tip": "Faimoasă în întreaga lume pentru calitate."
+              }
+            ],
+            "en": [
+              {
+                "name": "Cantabrian Anchovies",
+                "tip": "World famous for their quality."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Oyambre Dünen",
+                "tip": "Finden Sie Ihren eigenen ruhigen Platz am Strand.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Oyambre dűnék",
+                "tip": "Találja meg saját csendes helyét a parton.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Dunele Oyambre",
+                "tip": "Găsește-ți propriul loc liniștit pe plajă.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Oyambre Dunes",
+                "tip": "Find your own quiet spot on the beach.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Fischmarkt",
+                "tip": "Authentisches lokales Erlebnis am frühen Morgen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Halpiac",
+                "tip": "Hiteles helyi élmény kora reggel."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Piața de pește",
+                "tip": "O experiență locală autentică dimineața devreme."
+              }
+            ],
+            "en": [
+              {
+                "name": "Fish Market",
+                "tip": "Authentic local experience early in the morning."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "In Oyambre kann es windig sein, bringen Sie eine leichte Jacke mit.",
+              "Die Brücke hat einen schmalen Gehweg, schieben Sie das Rad bei Bedarf."
+            ],
+            "hu": [
+              "Oyambre-ban szeles lehet az idő, hozzon könnyű kabátot.",
+              "A híd járdája keskeny, szükség esetén tolja a biciklit."
+            ],
+            "ro": [
+              "Poate fi vânt în Oyambre, adu o jachetă ușoară.",
+              "Podul are un trotuar îngust, împinge bicicleta dacă e necesar."
+            ],
+            "en": [
+              "It can be windy in Oyambre, bring a light jacket.",
+              "The bridge has a narrow walkway, push your bike if needed."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine sportliche Fahrt über die lange Brücke im Regen eröffnet den Tag. Die Gischt mischt sich mit den Tropfen.\nAm Merón-Strand spüren wir die Kraft der stürmischen Brandung.\nNachmittags führt der Weg zum Leuchtturm, wo der Wind kräftig weht.\nWir beenden die Tour am Schloss, wo wir uns unterstellen und den Blick genießen.",
+            "hu": "Egy sportos tekerés a hosszú hídon az esőben nyitja a napot. A tengeri permet keveredik az esőcseppekkel.\nA Merón-strandon érezzük a viharos hullámverés erejét.\nDélután az út a világítótoronyhoz vezet, ahol a szél erősen fúj.\nA túrát a várnál fejezzük be, ahol behúzódhatunk a fedél alá.",
+            "ro": "O plimbare sportivă pe podul lung în ploaie deschide ziua. Pulverizarea mării se amestecă cu picăturile de ploaie.\nPe plaja Merón simțim forța valurilor învolburate.\nDupă-amiaza drumul ne duce la far, unde vântul suflă tare.\nÎncheiem turul la castel, unde ne putem adăposti și admira vederea.",
+            "en": "A sporty ride across the long bridge in the rain opens the day. Sea spray mixes with raindrops as we pedal.\nAt Merón beach, we feel the power of the stormy surf.\nIn the afternoon, the route leads to the lighthouse with strong winds.\nWe finish at the castle, taking cover while enjoying the bay view."
+          },
+          "stops": [
+            {
+              "name": "Maza Bridge",
+              "tip_5lang": {
+                "de": "Vorsicht bei den Metallfugen, Rutschgefahr bei Nässe.",
+                "hu": "Vigyázzon a fém illesztéseknél, csúszásveszély.",
+                "ro": "Atenție la îmbinările metalice, risc de alunecare.",
+                "en": "Watch out for the metal joints; slipping hazard when wet."
+              }
+            },
+            {
+              "name": "Merón Beach",
+              "tip_5lang": {
+                "de": "Ein kurzer Blick auf die tosende, graue See.",
+                "hu": "Egy rövid pillantás a háborgó, szürke tengerre.",
+                "ro": "O scurtă privire spre marea agitată și gri.",
+                "en": "A quick look at the crashing, grey sea."
+              }
+            },
+            {
+              "name": "Punta de la Silla Lighthouse",
+              "tip_5lang": {
+                "de": "Der Weg kann matschig sein; Schutzbleche empfohlen.",
+                "hu": "Az út sáros lehet; sárvédő használata javasolt.",
+                "ro": "Drumul poate fi noroios; se recomandă apărători.",
+                "en": "The path can be muddy; fenders are recommended."
+              }
+            },
+            {
+              "name": "Oyambre Natural Park",
+              "tip_5lang": {
+                "de": "Die Dünen wirken im Regen wild und unberührt.",
+                "hu": "A dűnék vadnak és érintetlennek tűnnek az esőben.",
+                "ro": "Dunele par sălbatice și neatinse în ploaie.",
+                "en": "The dunes look wild and untouched in the rain."
+              }
+            },
+            {
+              "name": "King's Castle",
+              "tip_5lang": {
+                "de": "Der perfekte Abschluss, um das Rad sicher abzustellen.",
+                "hu": "Tökéletes befejezés a bicikli biztonságos tárolásához.",
+                "ro": "Finalul perfect pentru a lăsa bicicleta în siguranță.",
+                "en": "The perfect finish to lock your bike safely."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche sind auf nassen Straßen unerlässlich.",
+              "Vorsicht auf Metallteilen der Brücke bei Nässe.",
+              "Tragen Sie leuchtende Regenbekleidung für Sichtbarkeit.",
+              "Prüfen Sie Ihre Bremsen vorab, sie reagieren langsamer.",
+              "Nutzen Sie überdachte Hafenbereiche für Pausen."
+            ],
+            "hu": [
+              "A sárvédő elengedhetetlen a nedves utakon.",
+              "Vigyázzon a híd fém részein, ha esik.",
+              "Viseljen feltűnő esőruházatot a láthatóságért.",
+              "Ellenőrizze a fékeit, nedvesen lassabban fognak.",
+              "Használja a kikötő fedett részeit pihenőkhöz."
+            ],
+            "ro": [
+              "Apărătorile sunt esențiale pe drumurile ude.",
+              "Atenție la părțile metalice ale podului pe ploaie.",
+              "Purtați haine de ploaie reflectorizante.",
+              "Verificați frânele, reacționează mai lent pe ud.",
+              "Folosiți zonele acoperite din port pentru pauze."
+            ],
+            "en": [
+              "Fenders are essential on the wet coastal roads.",
+              "Be careful on metal bridge parts when wet.",
+              "Wear bright rain gear for better visibility.",
+              "Check your brakes; they react slower when wet.",
+              "Use covered harbor areas for short breaks."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein zügiger Ritt gegen die frische Winterbrise entlang der Küste. Die Landschaft wirkt im Licht schärfer.\nWir radeln durch die Dünen von Oyambre, die nun ruhig und einsam sind.\nDer Aufstieg zum Leuchtturm bringt den Kreislauf in Schwung.\nDen Tag beenden wir in der Altstadt mit einer heißen Schokolade.",
+            "hu": "Gyors tekerés a friss téli szellőben a part mentén. A táj a téli fényben tisztábbnak és élesebbnek tűnik.\nAz Oyambre dűnéi között biciklizünk a csendes magányban.\nA világítótoronyhoz vezető emelkedő felmelegít.\nA napot az óvárosban zárjuk egy forró csokoládéval.",
+            "ro": "O plimbare rapidă în briza proaspătă de iarnă. Peisajul pare mai clar în lumina sezonului.\nPedalăm prin dunele din Oyambre în liniște deplină.\nUrcarea spre far pune circulația în mișcare.\nÎncheiem ziua în orașul vechi cu o ciocolată caldă.",
+            "en": "A brisk ride against the fresh winter breeze. The landscape appears sharper in the winter light.\nWe cycle through the dunes of Oyambre in peaceful solitude.\nThe climb to the lighthouse gets your blood pumping.\nWe end the day in the old town with a rewarding hot chocolate."
+          },
+          "stops": [
+            {
+              "name": "Maza Bridge",
+              "tip_5lang": {
+                "de": "Der kalte Wind ist erfrischend; Handschuhe tragen.",
+                "hu": "A hideg szél frissítő; viseljen kesztyűt.",
+                "ro": "Vântul rece este revigorant; purtați mănuși.",
+                "en": "The cold wind is refreshing; wear gloves."
+              }
+            },
+            {
+              "name": "Merón Beach",
+              "tip_5lang": {
+                "de": "Die leere Promenade gehört im Winter ganz Ihnen.",
+                "hu": "A néptelen sétány télen teljesen az Öné.",
+                "ro": "Promenada goală vă aparține în întregime iarna.",
+                "en": "The empty promenade is all yours in winter."
+              }
+            },
+            {
+              "name": "Punta de la Silla Lighthouse",
+              "tip_5lang": {
+                "de": "Klare Winterluft bietet die beste Sicht auf die Küste.",
+                "hu": "A tiszta téli levegő biztosítja a legjobb kilátást.",
+                "ro": "Aerul curat oferă cea mai bună vedere spre coastă.",
+                "en": "Clear winter air provides the best view of the coast."
+              }
+            },
+            {
+              "name": "Oyambre Natural Park",
+              "tip_5lang": {
+                "de": "Die grünen Wiesen leuchten auch im milden Winter.",
+                "hu": "A zöld mezők a lágy télben is ragyognak.",
+                "ro": "Câmpiile verzi strălucesc și în iarna blândă.",
+                "en": "The green fields shine even in the mild winter."
+              }
+            },
+            {
+              "name": "King's Castle",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich nach der Fahrt im Café auf.",
+                "hu": "Melegedjen fel a tekerés után egy kávézóban.",
+                "ro": "Încălziți-vă după plimbare la o cafenea.",
+                "en": "Warm up after the ride at a nearby cafe."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Warme Handschuhe sind für Abfahrten ein Muss.",
+              "Stellen Sie sicher, dass das Licht einwandfrei funktioniert.",
+              "Straßen können morgens feucht und glatt sein.",
+              "Der Windchill-Effekt macht es kälter als es ist.",
+              "Seien Sie vor Einbruch der Dunkelheit zurück."
+            ],
+            "hu": [
+              "A meleg kesztyű kötelező a lejtőkhöz.",
+              "Ellenőrizze a világítás hibátlan működését.",
+              "Az utak reggelente nedvesek és csúszósak lehetnek.",
+              "A szél miatt hidegebbnek érezheti az időt.",
+              "Érjen vissza a túráról sötétedés előtt."
+            ],
+            "ro": [
+              "Mănușile calde sunt obligatorii la coborâri.",
+              "Asigurați-vă că luminile funcționează perfect.",
+              "Drumurile pot fi umede și alunecoase dimineața.",
+              "Vântul poate face temperatura să pară mai mică.",
+              "Întoarceți-vă înainte de lăsarea întunericului."
+            ],
+            "en": [
+              "Warm gloves are a must for the descents.",
+              "Ensure your bike lights are working perfectly.",
+              "Roads can be damp and slippery in the morning.",
+              "The wind chill makes it feel colder than it is.",
+              "Make sure to be back before it gets dark."
+            ]
+          }
+        }
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 18.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Puente de la Maza",
+            "hu": "Maza-híd",
+            "ro": "Podul Maza",
+            "en": "Maza Bridge"
+          },
+          "coords": [
+            -4.3915,
+            43.386
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "09:10",
+          "stay_min": 35,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bester Halt für ein Foto der Stadt vom Wasser aus.",
+            "hu": "A legjobb megálló a város víz felőli fotózásához.",
+            "ro": "Cea mai bună oprire pentru o poză a orașului de pe apă.",
+            "en": "Best stop for a photo of the town from the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Castillo del Rey",
+            "hu": "Királyi Vár",
+            "ro": "Castelul Regelui",
+            "en": "King's Castle"
+          },
+          "coords": [
+            -4.3985,
+            43.3845
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Parkplatz in der Nähe des Schlosses vorhanden.",
+            "hu": "Parkoló elérhető a vár közelében.",
+            "ro": "Parcare disponibilă lângă castel.",
+            "en": "Parking available near the castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Iglesia de Santa María de los Ángeles",
+            "hu": "Angyalok Boldogasszonya templom",
+            "ro": "Biserica Santa Maria de los Ángeles",
+            "en": "Santa María de los Ángeles Church"
+          },
+          "coords": [
+            -4.3995,
+            43.3855
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Besuchen Sie das Grabmal des Inquisitors Antonio del Corro.",
+            "hu": "Látogassa meg Antonio del Corro inkvizítor síremlékét.",
+            "ro": "Vizitează mormântul inchizitorului Antonio del Corro.",
+            "en": "Visit the tomb of the Inquisitor Antonio del Corro."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa del Merón",
+            "hu": "Merón-strand",
+            "ro": "Plaja Merón",
+            "en": "Merón Beach"
+          },
+          "coords": [
+            -4.385,
+            43.393
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Großer Parkplatz direkt am Strandzugang.",
+            "hu": "Nagy parkoló közvetlenül a strandbejáratnál.",
+            "ro": "Parcare mare chiar la intrarea pe plajă.",
+            "en": "Large parking lot right at the beach access."
+          }
+        },
+        {
+          "name": {
+            "de": "Faro de Punta de la Silla",
+            "hu": "Punta de la Silla világítótorony",
+            "ro": "Farul Punta de la Silla",
+            "en": "Punta de la Silla Lighthouse"
+          },
+          "coords": [
+            -4.39,
+            43.398
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "14:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Kleiner Parkplatz mit toller Aussicht auf die Klippen.",
+            "hu": "Kis parkoló remek kilátással a sziklákra.",
+            "ro": "Parcare mică cu o vedere excelentă asupra stâncilor.",
+            "en": "Small parking lot with a great view of the cliffs."
+          }
+        },
+        {
+          "name": {
+            "de": "Parque Natural de Oyambre",
+            "hu": "Oyambre Természeti Park",
+            "ro": "Parcul Natural Oyambre",
+            "en": "Oyambre Natural Park"
+          },
+          "coords": [
+            -4.35,
+            43.39
+          ],
+          "category": "natural features",
+          "arrive_at": "15:35",
+          "stay_min": 85,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 7.0,
+          "tip_5lang": {
+            "de": "Fahren Sie die Küstenstraße für die beste Aussicht.",
+            "hu": "Vezessen a tengerparti úton a legjobb kilátásért.",
+            "ro": "Condu pe drumul de coastă pentru cele mai bune vederi.",
+            "en": "Drive the coastal road for the best views."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie San Vicente bequem mit dem Auto. Beginnen Sie mit der majestätischen Brücke und der historischen Altstadt. Nach der Besichtigung der Burg und der Kirche können Sie den Vormittag am Strand von Merón verbringen. Am Nachmittag führt die Fahrt zum Leuchtturm und durch die atemberaubenden Landschaften des Oyambre-Naturparks, bevor Sie zurück in die Stadt fahren.",
+        "hu": "Fedezze fel San Vicentét kényelmesen autóval. Kezdje a fenséges híddal és a történelmi óvárossal. A vár és a templom megtekintése után töltse a délelőttöt a Merón-strandon. Délután az út a világítótoronyhoz és az Oyambre Természeti Park lélegzetelállító tájain vezet keresztül, mielőtt visszatérne a városba.",
+        "ro": "Explorează San Vicente confortabil cu mașina. Începe cu podul maiestuos și orașul vechi istoric. După vizitarea castelului și a bisericii, poți petrece dimineața pe plaja Merón. După-amiaza, drumul duce spre far și prin peisajele uluitoare ale Parcului Natural Oyambre, înainte de a reveni în oraș.",
+        "en": "Explore San Vicente comfortably by car. Start with the majestic bridge and the historical old town. After visiting the castle and church, spend the morning at Merón Beach. In the afternoon, the drive takes you to the lighthouse and through the breathtaking landscapes of Oyambre Natural Park before returning to town."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Queso de Cantabria",
+            "tip": "Hervorragende lokale Käsesorten aus der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kantábriai sajt",
+            "tip": "Kiváló helyi sajtok a régióból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brânză de Cantabria",
+            "tip": "Brânzeturi locale excelente din regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cantabrian Cheese",
+            "tip": "Excellent local cheeses from the region."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Oyambre Aussichtspunkt",
+            "tip": "Blick auf die schneebedeckten Picos de Europa.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Oyambre kilátópont",
+            "tip": "Kilátás a hófödte Picos de Europa hegyeire.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punct de observație Oyambre",
+            "tip": "Vedere spre munții înzăpeziți Picos de Europa.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Oyambre Viewpoint",
+            "tip": "View of the snow-capped Picos de Europa mountains.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirläden in der Altstadt",
+            "tip": "Traditionelle kantabrische Keramik."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Óvárosi szuvenírboltok",
+            "tip": "Hagyományos kantábriai kerámiák."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de suveniruri din orașul vechi",
+            "tip": "Ceramică tradițională cantabriană."
+          }
+        ],
+        "en": [
+          {
+            "name": "Old town souvenir shops",
+            "tip": "Traditional Cantabrian ceramics."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken Sie in der Hochsaison außerhalb des Zentrums.",
+          "Die Straßen im Naturpark sind eng, fahren Sie vorsichtig."
+        ],
+        "hu": [
+          "Főszezonban parkoljon a központon kívül.",
+          "A természeti park útjai szűkek, vezessen óvatosan."
+        ],
+        "ro": [
+          "Parchează în afara centrului în plin sezon.",
+          "Drumurile din parcul natural sunt înguste, condu cu atenție."
+        ],
+        "en": [
+          "Park outside the center during peak season.",
+          "Roads in the natural park are narrow, drive carefully."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie San Vicente bequem mit dem Auto. Beginnen Sie mit der majestätischen Brücke und der historischen Altstadt. Nach der Besichtigung der Burg und der Kirche können Sie den Vormittag am Strand von Merón verbringen. Am Nachmittag führt die Fahrt zum Leuchtturm und durch die atemberaubenden Landschaften des Oyambre-Naturparks, bevor Sie zurück in die Stadt fahren.",
+            "hu": "Fedezze fel San Vicentét kényelmesen autóval. Kezdje a fenséges híddal és a történelmi óvárossal. A vár és a templom megtekintése után töltse a délelőttöt a Merón-strandon. Délután az út a világítótoronyhoz és az Oyambre Természeti Park lélegzetelállító tájain vezet keresztül, mielőtt visszatérne a városba.",
+            "ro": "Explorează San Vicente confortabil cu mașina. Începe cu podul maiestuos și orașul vechi istoric. După vizitarea castelului și a bisericii, poți petrece dimineața pe plaja Merón. După-amiaza, drumul duce spre far și prin peisajele uluitoare ale Parcului Natural Oyambre, înainte de a reveni în oraș.",
+            "en": "Explore San Vicente comfortably by car. Start with the majestic bridge and the historical old town. After visiting the castle and church, spend the morning at Merón Beach. In the afternoon, the drive takes you to the lighthouse and through the breathtaking landscapes of Oyambre Natural Park before returning to town."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Puente de la Maza",
+                "hu": "Maza-híd",
+                "ro": "Podul Maza",
+                "en": "Maza Bridge"
+              },
+              "tip_5lang": {
+                "de": "Bester Halt für ein Foto der Stadt vom Wasser aus.",
+                "hu": "A legjobb megálló a város víz felőli fotózásához.",
+                "ro": "Cea mai bună oprire pentru o poză a orașului de pe apă.",
+                "en": "Best stop for a photo of the town from the water."
+              }
+            },
+            {
+              "name": {
+                "de": "Castillo del Rey",
+                "hu": "Királyi Vár",
+                "ro": "Castelul Regelui",
+                "en": "King's Castle"
+              },
+              "tip_5lang": {
+                "de": "Parkplatz in der Nähe des Schlosses vorhanden.",
+                "hu": "Parkoló elérhető a vár közelében.",
+                "ro": "Parcare disponibilă lângă castel.",
+                "en": "Parking available near the castle."
+              }
+            },
+            {
+              "name": {
+                "de": "Iglesia de Santa María de los Ángeles",
+                "hu": "Angyalok Boldogasszonya templom",
+                "ro": "Biserica Santa Maria de los Ángeles",
+                "en": "Santa María de los Ángeles Church"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das Grabmal des Inquisitors Antonio del Corro.",
+                "hu": "Látogassa meg Antonio del Corro inkvizítor síremlékét.",
+                "ro": "Vizitează mormântul inchizitorului Antonio del Corro.",
+                "en": "Visit the tomb of the Inquisitor Antonio del Corro."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa del Merón",
+                "hu": "Merón-strand",
+                "ro": "Plaja Merón",
+                "en": "Merón Beach"
+              },
+              "tip_5lang": {
+                "de": "Großer Parkplatz direkt am Strandzugang.",
+                "hu": "Nagy parkoló közvetlenül a strandbejáratnál.",
+                "ro": "Parcare mare chiar la intrarea pe plajă.",
+                "en": "Large parking lot right at the beach access."
+              }
+            },
+            {
+              "name": {
+                "de": "Faro de Punta de la Silla",
+                "hu": "Punta de la Silla világítótorony",
+                "ro": "Farul Punta de la Silla",
+                "en": "Punta de la Silla Lighthouse"
+              },
+              "tip_5lang": {
+                "de": "Kleiner Parkplatz mit toller Aussicht auf die Klippen.",
+                "hu": "Kis parkoló remek kilátással a sziklákra.",
+                "ro": "Parcare mică cu o vedere excelentă asupra stâncilor.",
+                "en": "Small parking lot with a great view of the cliffs."
+              }
+            },
+            {
+              "name": {
+                "de": "Parque Natural de Oyambre",
+                "hu": "Oyambre Természeti Park",
+                "ro": "Parcul Natural Oyambre",
+                "en": "Oyambre Natural Park"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie die Küstenstraße für die beste Aussicht.",
+                "hu": "Vezessen a tengerparti úton a legjobb kilátásért.",
+                "ro": "Condu pe drumul de coastă pentru cele mai bune vederi.",
+                "en": "Drive the coastal road for the best views."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Queso de Cantabria",
+                "tip": "Hervorragende lokale Käsesorten aus der Region."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Kantábriai sajt",
+                "tip": "Kiváló helyi sajtok a régióból."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Brânză de Cantabria",
+                "tip": "Brânzeturi locale excelente din regiune."
+              }
+            ],
+            "en": [
+              {
+                "name": "Cantabrian Cheese",
+                "tip": "Excellent local cheeses from the region."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Oyambre Aussichtspunkt",
+                "tip": "Blick auf die schneebedeckten Picos de Europa.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Oyambre kilátópont",
+                "tip": "Kilátás a hófödte Picos de Europa hegyeire.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Punct de observație Oyambre",
+                "tip": "Vedere spre munții înzăpeziți Picos de Europa.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Oyambre Viewpoint",
+                "tip": "View of the snow-capped Picos de Europa mountains.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Souvenirläden in der Altstadt",
+                "tip": "Traditionelle kantabrische Keramik."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Óvárosi szuvenírboltok",
+                "tip": "Hagyományos kantábriai kerámiák."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Magazine de suveniruri din orașul vechi",
+                "tip": "Ceramică tradițională cantabriană."
+              }
+            ],
+            "en": [
+              {
+                "name": "Old town souvenir shops",
+                "tip": "Traditional Cantabrian ceramics."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Parken Sie in der Hochsaison außerhalb des Zentrums.",
+              "Die Straßen im Naturpark sind eng, fahren Sie vorsichtig."
+            ],
+            "hu": [
+              "Főszezonban parkoljon a központon kívül.",
+              "A természeti park útjai szűkek, vezessen óvatosan."
+            ],
+            "ro": [
+              "Parchează în afara centrului în plin sezon.",
+              "Drumurile din parcul natural sunt înguste, condu cu atenție."
+            ],
+            "en": [
+              "Park outside the center during peak season.",
+              "Roads in the natural park are narrow, drive carefully."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Bequem und trocken überqueren wir die Ria im Auto. Der Regen untermalt die Fahrt zum Schloss.\nMittags genießen wir die lokale Küche sicher im Trockenen.\nSpäter fahren wir zum Oyambre-Park und beobachten die dramatische Küste aus dem Fahrzeug.\nWir legen einen kurzen Stopp am Leuchtturm ein, bevor der Tag endet.",
+            "hu": "Kényelmesen és szárazon kelünk át az öblön autóval. Az eső festi alá az utat a vár felé.\nDélben a helyi konyhát élvezzük biztonságban, szárazon.\nKésőbb az Oyambre-parkba hajtunk, a tengerpartot a járműből figyelve.\nA világítótoronynál teszünk egy rövid megállót a nap végén.",
+            "ro": "Traversăm estuarul confortabil și uscați în mașină. Ploaia acompaniază drumul spre castel.\nLa prânz ne bucurăm de bucătăria locală la adăpost.\nMai târziu conducem spre parcul Oyambre și observăm coasta din vehicul.\nFacem o scurtă oprire la far înainte de finalul zilei.",
+            "en": "We cross the estuary comfortably and dry in the car. Rain on the window underscores the drive to the castle.\nAt noon, we enjoy local cuisine safely indoors.\nLater, we drive to Oyambre Park, observing the dramatic coast from the vehicle.\nWe make a short stop at the lighthouse before the day ends."
+          },
+          "stops": [
+            {
+              "name": "Maza Bridge",
+              "tip_5lang": {
+                "de": "Genießen Sie die Überquerung bequem im trockenen Auto.",
+                "hu": "Élvezze az átkelést kényelmesen a száraz autóból.",
+                "ro": "Bucurați-vă de traversare din mașina uscată.",
+                "en": "Enjoy the crossing comfortably from the dry car."
+              }
+            },
+            {
+              "name": "King's Castle",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang, um den Regenweg zu kürzen.",
+                "hu": "Parkoljon közel a bejárathoz az eső miatt.",
+                "ro": "Parcați aproape de intrare pentru a evita ploaia.",
+                "en": "Park close to the entrance to keep the wet walk short."
+              }
+            },
+            {
+              "name": "Santa María de los Ángeles Church",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Innenraum für eine ausführliche Besichtigung.",
+                "hu": "Használja ki a benti időt egy alapos látogatásra.",
+                "ro": "Folosiți timpul în interior pentru o vizită lungă.",
+                "en": "Use the time spent indoors for a detailed visit."
+              }
+            },
+            {
+              "name": "Merón Beach",
+              "tip_5lang": {
+                "de": "Beobachten Sie die Wellen sicher vom Parkplatz aus.",
+                "hu": "Figyelje a hullámokat biztonságban a parkolóból.",
+                "ro": "Observați valurile în siguranță din parcare.",
+                "en": "Watch the waves safely from the parking lot."
+              }
+            },
+            {
+              "name": "Punta de la Silla Lighthouse",
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint zum Turm lohnt für das Panorama.",
+                "hu": "Egy rövid sprint a toronyhoz megéri a panorámáért.",
+                "ro": "Un sprint scurt spre turn merită pentru panoramă.",
+                "en": "A short sprint to the tower is worth it for the view."
+              }
+            },
+            {
+              "name": "Oyambre Natural Park",
+              "tip_5lang": {
+                "de": "Die Küstenstraße bietet auch bei Regen tolle Ausblicke.",
+                "hu": "A parti út esőben is látványos kilátást nyújt.",
+                "ro": "Drumul de coastă oferă priveliști superbe pe ploaie.",
+                "en": "The coastal road offers great views even in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Aquaplaning auf der Straße nach Oyambre.",
+              "Parken Sie nah an den Sehenswürdigkeiten.",
+              "Halten Sie ein Handtuch im Auto bereit.",
+              "Nutzen Sie das Auto als Aussichtspunkt am Strand.",
+              "Prüfen Sie die Scheibenwischer vor der Abfahrt."
+            ],
+            "hu": [
+              "Ügyeljen a vízfelúszásra az Oyambre felé vezető úton.",
+              "Parkoljon a látnivalók közvetlen közelében.",
+              "Tartson törölközőt az autóban a kiszállások után.",
+              "Használja az autót kilátópontként a tengerparton.",
+              "Ellenőrizze az ablaktörlők állapotát indulás előtt."
+            ],
+            "ro": [
+              "Atenție la acvaplanare pe drumul spre Oyambre.",
+              "Parcați cât mai aproape de obiective.",
+              "Țineți un prosop în mașină pentru a vă șterge.",
+              "Folosiți mașina ca punct de observație la plajă.",
+              "Verificați ștergătoarele înainte de plecare."
+            ],
+            "en": [
+              "Watch out for aquaplaning on the road to Oyambre.",
+              "Park as close to the sights as possible.",
+              "Keep a towel in the car to dry off after stops.",
+              "Use the car as a viewpoint at the beach.",
+              "Check your wipers for full functionality before starting."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine Panoramafahrt unter der tiefstehenden Wintersonne. Das Auto ist unsere warme Basis.\nWir besuchen das Schloss und den abgelegenen Naturpark ohne Sommertrubel.\nDie Sicht auf die verschneiten Berge ist im Winter am besten.\nWir genießen die leeren Straßen und die Ruhe der Nebensaison.",
+            "hu": "Panorámás autózás az alacsonyan járó téli nap alatt. Az autó meleg bázist nyújt kirándulásainkhoz.\nA várat és a natúrparkot a nyári tömeg nélkül látogatjuk meg.\nA havas hegyekre nyíló kilátás télen a legszebb.\nÉlvezzük az üres utakat és a holtszezon nyugalmát.",
+            "ro": "O plimbare panoramică sub soarele jos de iarnă. Mașina oferă o bază caldă pentru explorare.\nVizităm castelul și parcul natural fără aglomerația de vară.\nVederea spre munții înzăpeziți este cea mai bună acum.\nNe bucurăm de drumurile goale și de liniștea sezonului.",
+            "en": "A scenic drive under the low winter sun. The car provides a warm base for our excursions.\nWe visit the castle and the natural park without the summer crowds.\nThe view of the snowy mountains is at its best in winter.\nWe enjoy the empty roads and the peace of the off-season."
+          },
+          "stops": [
+            {
+              "name": "Maza Bridge",
+              "tip_5lang": {
+                "de": "Perfekter Fotostopp mit Auto für die Berge.",
+                "hu": "Tökéletes fotómegálló az autóval a hegyekhez.",
+                "ro": "Oprire foto perfectă cu mașina pentru munți.",
+                "en": "Perfect photo stop with the car for mountain views."
+              }
+            },
+            {
+              "name": "King's Castle",
+              "tip_5lang": {
+                "de": "Im Winter sind Parkplätze in der Nähe meist frei.",
+                "hu": "Télen a közeli parkolóhelyek általában szabadok.",
+                "ro": "Iarna, locurile de parcare sunt de obicei libere.",
+                "en": "In winter, nearby parking spots are usually free."
+              }
+            },
+            {
+              "name": "Santa María de los Ángeles Church",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kirche vormittags für das beste Licht.",
+                "hu": "Látogassa meg a templomot délelőtt a legjobb fényért.",
+                "ro": "Vizitați biserica dimineața pentru cea mai bună lumină.",
+                "en": "Visit the church in the morning for the best light."
+              }
+            },
+            {
+              "name": "Merón Beach",
+              "tip_5lang": {
+                "de": "Die raue Brise ist vom Fenster aus am schönsten.",
+                "hu": "A nyers téli szellő az ablakból a legszebb.",
+                "ro": "Briza aspră e cea mai frumoasă de la geam.",
+                "en": "The raw winter breeze is best enjoyed from the window."
+              }
+            },
+            {
+              "name": "Punta de la Silla Lighthouse",
+              "tip_5lang": {
+                "de": "Atemberaubende Sonnenuntergänge schon am Nachmittag.",
+                "hu": "Lélegzetelállító naplementék már délután.",
+                "ro": "Apusuri uluitoare încă de după-amiaza târziu.",
+                "en": "Breathtaking sunsets as early as late afternoon."
+              }
+            },
+            {
+              "name": "Oyambre Natural Park",
+              "tip_5lang": {
+                "de": "Machen Sie eine gemütliche Rundfahrt durch den Park.",
+                "hu": "Tegyen egy kellemes körutazást a natúrparkban.",
+                "ro": "Faceți un tur relaxant cu mașina prin parc.",
+                "en": "Take a pleasant driving tour through the park."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Bergpässe im Hinterland können im Winter gesperrt sein.",
+              "Genießen Sie die einfache Parkplatzsuche.",
+              "Vermeiden Sie Fahrten am Meer bei Sturmwarnung.",
+              "Nutzen Sie die Heizung gegen Feuchtigkeit im Auto.",
+              "Die tiefstehende Sonne kann beim Fahren blenden."
+            ],
+            "hu": [
+              "A távolabbi hegyi hágók télen lezárva lehetnek.",
+              "Élvezze a könnyű parkolást a holtszezonban.",
+              "Viharjelzéskor kerülje a közvetlen part menti utakat.",
+              "Használja a fűtést a pára ellen az autóban.",
+              "Az alacsony nap elvakíthat; vigyen napszemüveget."
+            ],
+            "ro": [
+              "Pasurile montane din interior pot fi închise.",
+              "Bucurați-vă de parcarea ușoară acum.",
+              "Evitați malul mării în timpul alertelor de furtună.",
+              "Folosiți încălzirea împotriva umidității.",
+              "Soarele jos poate fi orbitor la volan."
+            ],
+            "en": [
+              "Mountain passes in the hinterland may be closed.",
+              "Enjoy the easy parking in the off-season.",
+              "Avoid driving by the sea during storm warnings.",
+              "Use the heater to reduce humidity inside.",
+              "The low sun can be blinding; bring sunglasses."
+            ]
+          }
+        }
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 6.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Castillo del Rey",
+            "hu": "Királyi Vár",
+            "ro": "Castelul Regelui",
+            "en": "King's Castle"
+          },
+          "coords": [
+            -4.3985,
+            43.3845
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ganz oben im Dorf, ein Muss für jeden Besucher.",
+            "hu": "A falu legtetején, minden látogató számára kötelező.",
+            "ro": "Chiar în vârful satului, o vizită obligatorie pentru oricine.",
+            "en": "At the very top of the village, a must-visit for everyone."
+          }
+        },
+        {
+          "name": {
+            "de": "Iglesia de Santa María de los Ángeles",
+            "hu": "Angyalok Boldogasszonya templom",
+            "ro": "Biserica Santa Maria de los Ángeles",
+            "en": "Santa María de los Ángeles Church"
+          },
+          "coords": [
+            -4.3995,
+            43.3855
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:40",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Kombinieren Sie den Besuch mit der Burg.",
+            "hu": "Kombinálja a látogatást a várral.",
+            "ro": "Combină vizita cu cea de la castel.",
+            "en": "Combine the visit with the castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Puente de la Maza",
+            "hu": "Maza-híd",
+            "ro": "Podul Maza",
+            "en": "Maza Bridge"
+          },
+          "coords": [
+            -4.3915,
+            43.386
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "11:50",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Vom Zentrum aus leicht mit dem Bus oder zu Fuß erreichbar.",
+            "hu": "A központból könnyen elérhető busszal vagy gyalog.",
+            "ro": "Ușor de ajuns din centru cu autobuzul sau pe jos.",
+            "en": "Easily accessible from the center by bus or on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa del Merón",
+            "hu": "Merón-strand",
+            "ro": "Plaja Merón",
+            "en": "Merón Beach"
+          },
+          "coords": [
+            -4.385,
+            43.393
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:00",
+          "stay_min": 150,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Es gibt regelmäßige Busverbindungen vom Hafen zum Strand.",
+            "hu": "Rendszeres buszjáratok indulnak a kikötőtől a strandhoz.",
+            "ro": "Există autobuze regulate de la port la plajă.",
+            "en": "There are regular bus connections from the harbor to the beach."
+          }
+        },
+        {
+          "name": {
+            "de": "Convento de San Luis",
+            "hu": "Szent Lajos kolostor",
+            "ro": "Mănăstirea San Luis",
+            "en": "San Luis Convent"
+          },
+          "coords": [
+            -4.394,
+            43.382
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:55",
+          "stay_min": 45,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Ruhiger Abschluss in der Nähe der Bushaltestelle.",
+            "hu": "Csendes befejezés a buszmegálló közelében.",
+            "ro": "Final liniștit aproape de stația de autobuz.",
+            "en": "Quiet finish near the bus stop."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Dank des lokalen Transports können Sie die Altstadt und den Strand von Merón nahtlos miteinander verbinden. Beginnen Sie oben auf dem Hügel bei der Burg und der Kirche und nehmen Sie dann den Shuttle-Bus über die Brücke zum Strand. Genießen Sie die Sonne und kehren Sie am späten Nachmittag zurück, um die Ruinen des San Luis Konvents zu besichtigen.",
+        "hu": "A helyi közlekedésnek köszönhetően zökkenőmentesen összekötheti az óvárost és a Merón-strandot. Kezdje a dombtetőn a várnál és a templomnál, majd vegye igénybe a híd felett átjáró buszjáratot a strandhoz. Élvezze a napsütést, és térjen vissza késő délután a Szent Lajos-kolostor romjaihoz.",
+        "ro": "Datorită transportului local, poți conecta perfect orașul vechi și plaja Merón. Începe în vârful dealului la castel și biserică, apoi ia autobuzul care traversează podul spre plajă. Bucură-te de soare și revino după-amiaza târziu pentru a vizita ruinele mănăstirii San Luis.",
+        "en": "Thanks to local transport, you can seamlessly connect the old town and Merón Beach. Start on top of the hill at the castle and church, then take the shuttle bus over the bridge to the beach. Enjoy the sun and return in the late afternoon to visit the ruins of San Luis Convent."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Empanada Cántabra",
+            "tip": "Herzhafte Teigtasche, ideal für den Strand."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kantábriai empanada",
+            "tip": "Kiadós töltött tészta, ideális a strandra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Empanada Cántabra",
+            "tip": "Plăcintă sărată, ideală pentru plajă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cantabrian Empanada",
+            "tip": "Savory pastry, ideal for the beach."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Park am San Luis Konvent",
+            "tip": "Grüne Oase mit Blick auf die Mündung.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szent Lajos-kolostor parkja",
+            "tip": "Zöld oázis kilátással az öbölre.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul de la mănăstirea San Luis",
+            "tip": "Oază verde cu vedere la estuar.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "San Luis Convent Park",
+            "tip": "Green oasis with views over the estuary.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Wochenmarkt",
+            "tip": "Frische Produkte und lokales Kunsthandwerk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi hetipiac",
+            "tip": "Friss termékek és helyi kézműves termékek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală săptămânală",
+            "tip": "Produse proaspete și artizanat local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local weekly market",
+            "tip": "Fresh produce and local crafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die App des kantabrischen Transportdienstes.",
+          "Busse zum Strand verkehren im Sommer häufiger."
+        ],
+        "hu": [
+          "Használja a kantábriai közlekedési szolgáltatás alkalmazását.",
+          "Nyáron gyakrabban indulnak buszok a strandra."
+        ],
+        "ro": [
+          "Folosește aplicația serviciului de transport cantabrian.",
+          "Autobuzele spre plajă circulă mai des vara."
+        ],
+        "en": [
+          "Use the Cantabrian transport service app.",
+          "Buses to the beach run more frequently in summer."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Dank des lokalen Transports können Sie die Altstadt und den Strand von Merón nahtlos miteinander verbinden. Beginnen Sie oben auf dem Hügel bei der Burg und der Kirche und nehmen Sie dann den Shuttle-Bus über die Brücke zum Strand. Genießen Sie die Sonne und kehren Sie am späten Nachmittag zurück, um die Ruinen des San Luis Konvents zu besichtigen.",
+            "hu": "A helyi közlekedésnek köszönhetően zökkenőmentesen összekötheti az óvárost és a Merón-strandot. Kezdje a dombtetőn a várnál és a templomnál, majd vegye igénybe a híd felett átjáró buszjáratot a strandhoz. Élvezze a napsütést, és térjen vissza késő délután a Szent Lajos-kolostor romjaihoz.",
+            "ro": "Datorită transportului local, poți conecta perfect orașul vechi și plaja Merón. Începe în vârful dealului la castel și biserică, apoi ia autobuzul care traversează podul spre plajă. Bucură-te de soare și revino după-amiaza târziu pentru a vizita ruinele mănăstirii San Luis.",
+            "en": "Thanks to local transport, you can seamlessly connect the old town and Merón Beach. Start on top of the hill at the castle and church, then take the shuttle bus over the bridge to the beach. Enjoy the sun and return in the late afternoon to visit the ruins of San Luis Convent."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Castillo del Rey",
+                "hu": "Királyi Vár",
+                "ro": "Castelul Regelui",
+                "en": "King's Castle"
+              },
+              "tip_5lang": {
+                "de": "Ganz oben im Dorf, ein Muss für jeden Besucher.",
+                "hu": "A falu legtetején, minden látogató számára kötelező.",
+                "ro": "Chiar în vârful satului, o vizită obligatorie pentru oricine.",
+                "en": "At the very top of the village, a must-visit for everyone."
+              }
+            },
+            {
+              "name": {
+                "de": "Iglesia de Santa María de los Ángeles",
+                "hu": "Angyalok Boldogasszonya templom",
+                "ro": "Biserica Santa Maria de los Ángeles",
+                "en": "Santa María de los Ángeles Church"
+              },
+              "tip_5lang": {
+                "de": "Kombinieren Sie den Besuch mit der Burg.",
+                "hu": "Kombinálja a látogatást a várral.",
+                "ro": "Combină vizita cu cea de la castel.",
+                "en": "Combine the visit with the castle."
+              }
+            },
+            {
+              "name": {
+                "de": "Puente de la Maza",
+                "hu": "Maza-híd",
+                "ro": "Podul Maza",
+                "en": "Maza Bridge"
+              },
+              "tip_5lang": {
+                "de": "Vom Zentrum aus leicht mit dem Bus oder zu Fuß erreichbar.",
+                "hu": "A központból könnyen elérhető busszal vagy gyalog.",
+                "ro": "Ușor de ajuns din centru cu autobuzul sau pe jos.",
+                "en": "Easily accessible from the center by bus or on foot."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa del Merón",
+                "hu": "Merón-strand",
+                "ro": "Plaja Merón",
+                "en": "Merón Beach"
+              },
+              "tip_5lang": {
+                "de": "Es gibt regelmäßige Busverbindungen vom Hafen zum Strand.",
+                "hu": "Rendszeres buszjáratok indulnak a kikötőtől a strandhoz.",
+                "ro": "Există autobuze regulate de la port la plajă.",
+                "en": "There are regular bus connections from the harbor to the beach."
+              }
+            },
+            {
+              "name": {
+                "de": "Convento de San Luis",
+                "hu": "Szent Lajos kolostor",
+                "ro": "Mănăstirea San Luis",
+                "en": "San Luis Convent"
+              },
+              "tip_5lang": {
+                "de": "Ruhiger Abschluss in der Nähe der Bushaltestelle.",
+                "hu": "Csendes befejezés a buszmegálló közelében.",
+                "ro": "Final liniștit aproape de stația de autobuz.",
+                "en": "Quiet finish near the bus stop."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Empanada Cántabra",
+                "tip": "Herzhafte Teigtasche, ideal für den Strand."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Kantábriai empanada",
+                "tip": "Kiadós töltött tészta, ideális a strandra."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Empanada Cántabra",
+                "tip": "Plăcintă sărată, ideală pentru plajă."
+              }
+            ],
+            "en": [
+              {
+                "name": "Cantabrian Empanada",
+                "tip": "Savory pastry, ideal for the beach."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Park am San Luis Konvent",
+                "tip": "Grüne Oase mit Blick auf die Mündung.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Szent Lajos-kolostor parkja",
+                "tip": "Zöld oázis kilátással az öbölre.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Parcul de la mănăstirea San Luis",
+                "tip": "Oază verde cu vedere la estuar.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "San Luis Convent Park",
+                "tip": "Green oasis with views over the estuary.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Lokaler Wochenmarkt",
+                "tip": "Frische Produkte und lokales Kunsthandwerk."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Helyi hetipiac",
+                "tip": "Friss termékek és helyi kézműves termékek."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Piața locală săptămânală",
+                "tip": "Produse proaspete și artizanat local."
+              }
+            ],
+            "en": [
+              {
+                "name": "Local weekly market",
+                "tip": "Fresh produce and local crafts."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Nutzen Sie die App des kantabrischen Transportdienstes.",
+              "Busse zum Strand verkehren im Sommer häufiger."
+            ],
+            "hu": [
+              "Használja a kantábriai közlekedési szolgáltatás alkalmazását.",
+              "Nyáron gyakrabban indulnak buszok a strandra."
+            ],
+            "ro": [
+              "Folosește aplicația serviciului de transport cantabrian.",
+              "Autobuzele spre plajă circulă mai des vara."
+            ],
+            "en": [
+              "Use the Cantabrian transport service app.",
+              "Buses to the beach run more frequently in summer."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Bus geht es trocken über die Maza-Brücke. Wir pendeln geschützt zwischen den Sehenswürdigkeiten.\nBei Regen ist die massive Steinkirche ein idealer Rückzugsort.\nNachmittags fahren wir zum Merón-Strand, um das Meer sicher zu betrachten.\nWir kehren zum San Luis Konvent zurück, bevor der Abend kommt.",
+            "hu": "Busszal szárazon kelünk át a Maza-hídon. Védve ingázunk a látnivalók között.\nEsőben a masszív kőtemplom ideális menedékhely.\nDélután a Merón-strandhoz utazunk a viharos tengerért.\nVisszatérünk a San Luis kolostorhoz az este beállta előtt.",
+            "ro": "Cu autobuzul traversăm podul Maza la adăpost. Navetăm protejați între obiective.\nPe ploaie, biserica de piatră este un refugiu ideal.\nDupă-amiaza mergem la plaja Merón pentru marea învolburată.\nNe întoarcem la mănăstirea San Luis înainte de seară.",
+            "en": "By bus, we cross the Maza Bridge sheltered from the rain. We commute protected between the sights.\nIn the rain, the massive stone church is an ideal retreat.\nIn the afternoon, we travel to Merón beach for the stormy sea views.\nWe return to the San Luis Convent before the evening sets in."
+          },
+          "stops": [
+            {
+              "name": "King's Castle",
+              "tip_5lang": {
+                "de": "Die Haltestellen im Zentrum sind nah an der Burg.",
+                "hu": "A központi megállók közel vannak a várhoz.",
+                "ro": "Stațiile din centru sunt aproape de castel.",
+                "en": "The central stops are close to the castle."
+              }
+            },
+            {
+              "name": "Santa María de los Ángeles Church",
+              "tip_5lang": {
+                "de": "Planen Sie den Besuch zwischen den Busankünften.",
+                "hu": "Tervezze a látogatást a buszok érkezése közé.",
+                "ro": "Planificați vizita între sosirile autobuzelor.",
+                "en": "Plan the visit between bus arrivals."
+              }
+            },
+            {
+              "name": "Maza Bridge",
+              "tip_5lang": {
+                "de": "Die Fahrt über die Brücke bietet Schutz vor Wind.",
+                "hu": "A hídon való átutazás védelmet nyújt a szél ellen.",
+                "ro": "Călătoria peste pod oferă protecție la vânt.",
+                "en": "Riding across the bridge provides protection from wind."
+              }
+            },
+            {
+              "name": "Merón Beach",
+              "tip_5lang": {
+                "de": "Achten Sie auf den Plan, da Wartehallen rar sind.",
+                "hu": "Figyelje a menetrendet, kevés itt a váróterem.",
+                "ro": "Verificați orarul, adăposturile sunt rare aici.",
+                "en": "Check the schedule, as shelters are rare here."
+              }
+            },
+            {
+              "name": "San Luis Convent",
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour an einer Haltestelle mit Schutz.",
+                "hu": "Fejezze be a túrát egy esővédett megállóban.",
+                "ro": "Încheiați turul la o stație protejată.",
+                "en": "End the tour at a stop protected from the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse verkehren im Winter seltener; Plan online prüfen.",
+              "Warten Sie in Cafés nahe der Haltestellen.",
+              "Nutzen Sie die ALSA-App für Echtzeit-Infos.",
+              "Zentrale Haltestellen haben oft keinen Unterstand.",
+              "Minimieren Sie Gehwege durch geschickte Buswahl."
+            ],
+            "hu": [
+              "A buszok télen ritkábban járnak; ellenőrizze online.",
+              "Várjon a megállók közeli kávézóiban esőben.",
+              "Használja az ALSA alkalmazást az élő infókért.",
+              "A központi megállókban gyakran nincs esőbeálló.",
+              "Minimalizálja a gyaloglást okos buszválasztással."
+            ],
+            "ro": [
+              "Autobuzele circulă mai rar; verificați orarul online.",
+              "Așteptați în cafenelele de lângă stații pe ploaie.",
+              "Folosiți aplicația ALSA pentru info în timp real.",
+              "Stațiile centrale nu au adesea adăpost.",
+              "Minimizați mersul pe jos prin alegerea autobuzului."
+            ],
+            "en": [
+              "Buses run less frequently; check the schedule online.",
+              "Wait in cafes near the stops if raining heavily.",
+              "Use the ALSA app for real-time information.",
+              "Central stops often don't have shelters.",
+              "Minimize walking in the rain by clever bus choices."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Wir nutzen die beheizten Busse, um die Umgebung im Winter zu entdecken. Die Fahrt bietet tolle Ausblicke.\nÜber die Ria beobachten wir die Vögel, die hier überwintern.\nNachmittags besuchen wir den Strand für einen knackigen Spaziergang.\nMit dem Bus geht es zurück in die warme Altstadt.",
+            "hu": "A fűtött buszokat használjuk a környék felfedezéséhez télen. Az utazás remek kilátást nyújt.\nAz öblön át az itt telelő madarakat figyelhetjük meg.\nDélután ellátogatunk a strandra egy frissítő sétára.\nBusszal térünk vissza a meleg óvárosba.",
+            "ro": "Folosim autobuzele încălzite pentru a descoperi zona iarna. Călătoria oferă vederi superbe.\nPeste estuar observăm păsările care iernează aici.\nDupă-amiaza vizităm plaja pentru o plimbare revigorantă.\nCu autobuzul ne întoarcem în orașul vechi călduros.",
+            "en": "We use heated buses to discover the area in winter. The ride offers great scenic views.\nAcross the estuary, we observe the wintering birds.\nIn the afternoon, we visit the beach for a brisk walk.\nThen we take the bus back to the cozy old town."
+          },
+          "stops": [
+            {
+              "name": "King's Castle",
+              "tip_5lang": {
+                "de": "Nutzen Sie den beheizten Bus für den Weg nach oben.",
+                "hu": "Használja a fűtött buszt a felfelé vezető úthoz.",
+                "ro": "Folosiți autobuzul încălzit pentru drumul în sus.",
+                "en": "Use the heated bus for the way up."
+              }
+            },
+            {
+              "name": "Santa María de los Ángeles Church",
+              "tip_5lang": {
+                "de": "Die Wege sind steil; der Bus spart Energie.",
+                "hu": "Az utak meredekek; a busz energiát takarít meg.",
+                "ro": "Drumurile sunt abrupte; autobuzul ajută mult.",
+                "en": "The roads are steep; the bus saves energy."
+              }
+            },
+            {
+              "name": "Maza Bridge",
+              "tip_5lang": {
+                "de": "Toller Ausblick auf die Lagune ohne die Kälte.",
+                "hu": "Remek kilátás a lagúnára a kinti hideg nélkül.",
+                "ro": "Vedere excelentă spre lagună fără frig.",
+                "en": "Great view of the lagoon without the cold."
+              }
+            },
+            {
+              "name": "Merón Beach",
+              "tip_5lang": {
+                "de": "Kurze Tage bedeuten weniger Busse am Abend.",
+                "hu": "A rövid nappalok kevesebb esti buszt jelentenek.",
+                "ro": "Zilele scurte înseamnă mai puține autobuze seara.",
+                "en": "Short days mean fewer buses in the evening."
+              }
+            },
+            {
+              "name": "San Luis Convent",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg von der Haltestelle in der Sonne.",
+                "hu": "Rövid séta a megállótól a téli napsütésben.",
+                "ro": "O scurtă plimbare de la stație în soare.",
+                "en": "A short walk from the stop in the winter sun."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf den letzten Bus am Abend.",
+              "Busse sind gut beheizt und bieten eine Pause.",
+              "Einige Naturpark-Linien fahren im Winter eingeschränkt.",
+              "Tragen Sie warme Kleidung für die Wartezeiten.",
+              "Fragen Sie im Tourismusbüro nach dem Winterfahrplan."
+            ],
+            "hu": [
+              "Figyeljen az utolsó buszra az esti órákban.",
+              "A buszok jól fűtöttek, kellemes pihenőt adnak.",
+              "Néhány járat télen korlátozottan közlekedik.",
+              "Viseljen meleg ruhát a megállókban várakozáshoz.",
+              "Kérjen aktuális téli menetrendet az irodában."
+            ],
+            "ro": [
+              "Atenție la ultimul autobuz de seară.",
+              "Autobuzele sunt bine încălzite și oferă o pauză.",
+              "Unele linii montane circulă limitat iarna.",
+              "Purtați haine groase pentru timpii de așteptare.",
+              "Cereți orarul de iarnă de la biroul de turism."
+            ],
+            "en": [
+              "Watch out for the last bus in the evening.",
+              "The buses are well heated and offer a break.",
+              "Some natural park lines have limited winter service.",
+              "Wear warm clothes for waiting at exposed stops.",
+              "Ask at the tourist office for the winter schedule."
+            ]
+          }
+        }
+      }
+    }
+  },
+  "external_resources": {
+    "transit_official": "https://www.alsa.es/",
+    "language_tips": {
+      "de": "Reines Spanisch, kaum Dialekt. Hafen-Restaurants haben Englisch-Karten, weiter ins Landesinnere Richtung Picos eher nicht. 'Sorropotún' bestellen (lokaler Thunfisch-Eintopf) - das öffnet jedes Wirtsherz.",
+      "hu": "Tiszta spanyol, alig van dialektus. A kikötői éttermekben van angol menü, beljebb a Picos felé már nem. Rendelj 'sorropotún'-t (helyi tonhal-pörkölt), minden vendéglős megolvad tőle.",
+      "ro": "Spaniolă curată, fără dialect. Restaurantele din port au meniuri în engleză, dar spre interior, către Picos, nu prea. Comandă 'sorropotún' (tocană locală de ton), îți câștigi imediat ospătarul.",
+      "en": "Plain Spanish, almost no dialect. Harbour restaurants have English menus; inland toward the Picos, not so much. Order 'sorropotún' (the local tuna stew) and you'll win any waiter over."
+    },
+    "best_time_to_visit": {
+      "de": "Juni bis September für Strand und Bootsausflüge. Ende April La Folía - Prozession mit Madonnenboot, eines der schönsten Volksfeste Kantabriens. Im August voll mit Madrilenen, also Reservierung vorab.",
+      "hu": "Június-szeptember strandhoz, hajós kirándulásokhoz. Április végén a La Folía hajós Mária-körmenet, Kantábria egyik legszebb népünnepe. Augusztusban madridiakkal tele, foglalj előre.",
+      "ro": "Iunie-septembrie pentru plajă și excursii cu barca. La sfârșit de aprilie La Folía, procesiune cu barca Madonei, una dintre cele mai frumoase sărbători din Cantabria. În august e plin de madrileni, rezervă.",
+      "en": "June to September for beach and boat trips. Late April brings La Folía, the Madonna-on-a-boat procession - one of Cantabria's loveliest festivals. August fills with Madrid crowds, so book ahead."
+    },
+    "neighborhood_warnings": {
+      "de": "Sehr sicher, aber die Brücke (Puente de la Maza) ist windig, festhalten und Hut nicht verlieren. Bei Sturm fährt der Hafen nicht aus, gebuchte Boote werden gestrichen. Strand bei Ebbe weit, Strömungen am Mündungseingang ernst.",
+      "hu": "Nagyon biztonságos, de a Puente de la Maza híd szeles, kapaszkodj, kalapot tartsd. Viharban a kikötőből nem indulnak hajók, a foglalásokat törlik. Apálykor a strand kitárul, a torkolatnál komoly áramlatok vannak.",
+      "ro": "Foarte sigur, dar podul Puente de la Maza e foarte vântos, ține-te bine și de pălărie. Pe furtună portul nu trimite bărci, rezervările se anulează. Plaja se extinde la reflux, curenții la gura estuarului sunt serioși.",
+      "en": "Very safe, but the Puente de la Maza bridge is windy - hold on and mind your hat. In storms the harbour cancels boat trips outright. The beach widens at low tide, but currents at the estuary mouth are serious."
+    }
+  }
+}

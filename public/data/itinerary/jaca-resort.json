@@ -1,0 +1,2614 @@
+{
+  "city_id": "jaca-resort",
+  "anchor": {
+    "name": "Jaca",
+    "coords": [
+      -0.5481,
+      42.5697
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 3.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kathedrale St. Peter",
+            "hu": "Szent Péter katedrális",
+            "ro": "Catedrala Sfântul Petru",
+            "en": "St. Peter's Cathedral"
+          },
+          "coords": [
+            -0.5485,
+            42.5712
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Eine der ältesten romanischen Kathedralen Spaniens.",
+            "hu": "Spanyolország egyik legrégebbi román stílusú katedrálisa.",
+            "ro": "Una dintre cele mai vechi catedrale romanice din Spania.",
+            "en": "One of the oldest Romanesque cathedrals in Spain."
+          }
+        },
+        {
+          "name": {
+            "de": "Diözesanmuseum von Jaca",
+            "hu": "Jaca Egyházmegyei Múzeuma",
+            "ro": "Muzeul Diecezan din Jaca",
+            "en": "Diocesan Museum of Jaca"
+          },
+          "coords": [
+            -0.5488,
+            42.5715
+          ],
+          "category": "museums",
+          "arrive_at": "10:35",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Weltberühmte romanische Wandmalereien.",
+            "hu": "Világhírű román stílusú falfestmények.",
+            "ro": "Picturi murale romanice de renume mondial.",
+            "en": "World-famous Romanesque wall paintings."
+          }
+        },
+        {
+          "name": {
+            "de": "Zitadelle von Jaca",
+            "hu": "Jaca citadellája",
+            "ro": "Citadela din Jaca",
+            "en": "Citadel of Jaca"
+          },
+          "coords": [
+            -0.5525,
+            42.5722
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Pentagonale Festung mit Rehen im Burggraben.",
+            "hu": "Ötszögletű erőd, őzekkel a várárokban.",
+            "ro": "Fortăreață pentagonală cu căprioare în șanț.",
+            "en": "Pentagonal fortress with deer in the moat."
+          }
+        },
+        {
+          "name": {
+            "de": "Paseo de la Constitución",
+            "hu": "Paseo de la Constitución",
+            "ro": "Paseo de la Constitución",
+            "en": "Paseo de la Constitución"
+          },
+          "coords": [
+            -0.551,
+            42.5695
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Zentrale Promenade für eine kleine Pause.",
+            "hu": "Központi sétány egy kis pihenőhöz.",
+            "ro": "Promenadă centrală pentru o scurtă pauză.",
+            "en": "Central promenade for a short break."
+          }
+        },
+        {
+          "name": {
+            "de": "Calle Mayor",
+            "hu": "Fő utca",
+            "ro": "Calle Mayor",
+            "en": "Calle Mayor"
+          },
+          "coords": [
+            -0.5492,
+            42.5705
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "15:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Lebhafte Geschäftsstraße mit schönen Fassaden.",
+            "hu": "Élénk bevásárlóutca szép homlokzatokkal.",
+            "ro": "Stradă comercială animată cu fațade frumoase.",
+            "en": "Lively shopping street with beautiful facades."
+          }
+        },
+        {
+          "name": {
+            "de": "Uhrturm (Torre del Reloj)",
+            "hu": "Óratorony",
+            "ro": "Turnul cu Ceas",
+            "en": "Clock Tower"
+          },
+          "coords": [
+            -0.5495,
+            42.5708
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "16:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Gotisches Juwel im Herzen der Stadt.",
+            "hu": "Gótikus ékszerdoboz a város szívében.",
+            "ro": "Bijuterie gotică în inima orașului.",
+            "en": "Gothic jewel in the heart of the city."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag an der imposanten Kathedrale und tauchen Sie im Diözesanmuseum in die romanische Kunst ein.\n\nDer Mittag führt Sie zur Zitadelle, wo Sie die Architektur bewundern und die Rehe beobachten können, gefolgt von einem Lunch in der Altstadt.\n\nAm Nachmittag schlendern Sie über den Paseo de la Constitución und die Calle Mayor, um das städtische Leben zu genießen.\n\nBeenden Sie die Tour am Uhrturm, einem Symbol Jacas, bevor Sie den Abend in einer der Tapas-Bars ausklingen lassen.",
+        "hu": "Kezdje a napot az impozáns katedrálisnál, és merüljön el a román művészetben az Egyházmegyei Múzeumban.\n\nA délidő a citadellához vezet, ahol megcsodálhatja az építészetet és megfigyelheti az őzeket, majd ebédeljen az óvárosban.\n\nDélután sétáljon végig a Paseo de la Constitución-on és a Calle Mayoron, élvezve a városi életet.\n\nZárja a túrát az Óratoronynál, Jaca egyik jelképénél, mielőtt az estét valamelyik tapas bárban töltené.",
+        "ro": "Începeți ziua la catedrala impunătoare și scufundați-vă în arta romanică la Muzeul Diecezan.\n\nPrânzul vă duce la Citadelă, unde puteți admira arhitectura și observa căprioarele, urmat de un prânz în centrul vechi.\n\nDupă-amiaza, plimbați-vă pe Paseo de la Constitución și pe Calle Mayor pentru a vă bucura de viața orașului.\n\nÎncheiați turul la Turnul cu Ceas, un simbol al orașului Jaca, înainte de a petrece seara într-unul dintre barurile de tapas.",
+        "en": "Start your day at the imposing cathedral and immerse yourself in Romanesque art at the Diocesan Museum.\n\nMidday leads you to the Citadel, where you can admire the architecture and watch the deer, followed by lunch in the old town.\n\nIn the afternoon, stroll along Paseo de la Constitución and Calle Mayor to enjoy city life.\n\nEnd the tour at the Clock Tower, a symbol of Jaca, before spending the evening in one of the tapas bars."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pastelería Echeto",
+            "tip": "Probieren Sie die berühmten Coronitas de Jaca."
+          },
+          {
+            "name": "Cordero al Chilindrón",
+            "tip": "Traditionelles Lammgericht der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pastelería Echeto",
+            "tip": "Kóstolja meg a híres Coronitas de Jaca édességet."
+          },
+          {
+            "name": "Cordero al Chilindrón",
+            "tip": "Hagyományos bárányétel a régióból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pastelería Echeto",
+            "tip": "Gustați faimoasele Coronitas de Jaca."
+          },
+          {
+            "name": "Cordero al Chilindrón",
+            "tip": "Mâncare tradițională de miel din regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pastelería Echeto",
+            "tip": "Try the famous Coronitas de Jaca sweets."
+          },
+          {
+            "name": "Cordero al Chilindrón",
+            "tip": "Traditional lamb dish of the region."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Zitadellen-Glacis",
+            "tip": "Grüne Wiesen rund um die Festung.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Ermita de Sarsa",
+            "tip": "Stiller Ort am Stadtrand.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Citadella kert",
+            "tip": "Zöld gyepek az erőd körül.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sarsa remetelak",
+            "tip": "Csendes hely a város szélén.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Glacisul Citadelei",
+            "tip": "Pajiști verzi în jurul fortăreței.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Ermita de Sarsa",
+            "tip": "Loc liniștit la marginea orașului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Citadel Glacis",
+            "tip": "Green meadows around the fortress.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Ermita de Sarsa",
+            "tip": "Quiet spot on the outskirts.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Calle Mayor Geschäfte",
+            "tip": "Bergsportausrüstung und lokale Delikatessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Calle Mayor üzletek",
+            "tip": "Hegyi sportfelszerelések és helyi finomságok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinele de pe Calle Mayor",
+            "tip": "Echipament montan și delicatese locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Calle Mayor Shops",
+            "tip": "Mountain sports equipment and local delicacies."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Jaca ist das Tor zu den Pyrenäen, das Wetter kann schnell umschlagen.",
+          "Besuchen Sie die Zitadelle zur Fütterungszeit der Rehe.",
+          "Die Kathedrale hat mittags oft eine kurze Pause.",
+          "Tapas-Hopping in der Altstadt ist ein Muss.",
+          "Kopfsteinpflaster in der Altstadt erfordert flache Schuhe."
+        ],
+        "hu": [
+          "Jaca a Pireneusok kapuja, az időjárás gyorsan változhat.",
+          "Látogassa meg a citadellát az őzek etetési idejében.",
+          "A katedrális délidőben gyakran zárva tart egy rövid ideig.",
+          "A tapas-túra az óvárosban kötelező program.",
+          "A macskakő miatt lapos talpú cipő ajánlott."
+        ],
+        "ro": [
+          "Jaca este poarta către Pirinei, vremea se poate schimba rapid.",
+          "Vizitați citadela la ora hrănirii căprioarelor.",
+          "Catedrala are adesea o scurtă pauză la prânz.",
+          "Un tur al tapas-urilor în centrul vechi este obligatoriu.",
+          "Pietrele cubice necesită încălțăminte cu talpă plată."
+        ],
+        "en": [
+          "Jaca is the gateway to the Pyrenees, weather can change quickly.",
+          "Visit the Citadel at deer feeding time.",
+          "The cathedral often has a short break at midday.",
+          "Tapas-hopping in the old town is a must.",
+          "Cobblestones in the old town require flat shoes."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag an der imposanten Kathedrale und tauchen Sie im Diözesanmuseum in die romanische Kunst ein.\n\nDer Mittag führt Sie zur Zitadelle, wo Sie die Architektur bewundern und die Rehe beobachten können, gefolgt von einem Lunch in der Altstadt.\n\nAm Nachmittag schlendern Sie über den Paseo de la Constitución und die Calle Mayor, um das städtische Leben zu genießen.\n\nBeenden Sie die Tour am Uhrturm, einem Symbol Jacas, bevor Sie den Abend in einer der Tapas-Bars ausklingen lassen.",
+            "hu": "Kezdje a napot az impozáns katedrálisnál, és merüljön el a román művészetben az Egyházmegyei Múzeumban.\n\nA délidő a citadellához vezet, ahol megcsodálhatja az építészetet és megfigyelheti az őzeket, majd ebédeljen az óvárosban.\n\nDélután sétáljon végig a Paseo de la Constitución-on és a Calle Mayoron, élvezve a városi életet.\n\nZárja a túrát az Óratoronynál, Jaca egyik jelképénél, mielőtt az estét valamelyik tapas bárban töltené.",
+            "ro": "Începeți ziua la catedrala impunătoare și scufundați-vă în arta romanică la Muzeul Diecezan.\n\nPrânzul vă duce la Citadelă, unde puteți admira arhitectura și observa căprioarele, urmat de un prânz în centrul vechi.\n\nDupă-amiaza, plimbați-vă pe Paseo de la Constitución și pe Calle Mayor pentru a vă bucura de viața orașului.\n\nÎncheiați turul la Turnul cu Ceas, un simbol al orașului Jaca, înainte de a petrece seara într-unul dintre barurile de tapas.",
+            "en": "Start your day at the imposing cathedral and immerse yourself in Romanesque art at the Diocesan Museum.\n\nMidday leads you to the Citadel, where you can admire the architecture and watch the deer, followed by lunch in the old town.\n\nIn the afternoon, stroll along Paseo de la Constitución and Calle Mayor to enjoy city life.\n\nEnd the tour at the Clock Tower, a symbol of Jaca, before spending the evening in one of the tapas bars."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kathedrale St. Peter",
+                "hu": "Szent Péter katedrális",
+                "ro": "Catedrala Sfântul Petru",
+                "en": "St. Peter's Cathedral"
+              },
+              "tip_5lang": {
+                "de": "Eine der ältesten romanischen Kathedralen Spaniens.",
+                "hu": "Spanyolország egyik legrégebbi román stílusú katedrálisa.",
+                "ro": "Una dintre cele mai vechi catedrale romanice din Spania.",
+                "en": "One of the oldest Romanesque cathedrals in Spain."
+              }
+            },
+            {
+              "name": {
+                "de": "Diözesanmuseum von Jaca",
+                "hu": "Jaca Egyházmegyei Múzeuma",
+                "ro": "Muzeul Diecezan din Jaca",
+                "en": "Diocesan Museum of Jaca"
+              },
+              "tip_5lang": {
+                "de": "Weltberühmte romanische Wandmalereien.",
+                "hu": "Világhírű román stílusú falfestmények.",
+                "ro": "Picturi murale romanice de renume mondial.",
+                "en": "World-famous Romanesque wall paintings."
+              }
+            },
+            {
+              "name": {
+                "de": "Zitadelle von Jaca",
+                "hu": "Jaca citadellája",
+                "ro": "Citadela din Jaca",
+                "en": "Citadel of Jaca"
+              },
+              "tip_5lang": {
+                "de": "Pentagonale Festung mit Rehen im Burggraben.",
+                "hu": "Ötszögletű erőd, őzekkel a várárokban.",
+                "ro": "Fortăreață pentagonală cu căprioare în șanț.",
+                "en": "Pentagonal fortress with deer in the moat."
+              }
+            },
+            {
+              "name": {
+                "de": "Paseo de la Constitución",
+                "hu": "Paseo de la Constitución",
+                "ro": "Paseo de la Constitución",
+                "en": "Paseo de la Constitución"
+              },
+              "tip_5lang": {
+                "de": "Zentrale Promenade für eine kleine Pause.",
+                "hu": "Központi sétány egy kis pihenőhöz.",
+                "ro": "Promenadă centrală pentru o scurtă pauză.",
+                "en": "Central promenade for a short break."
+              }
+            },
+            {
+              "name": {
+                "de": "Calle Mayor",
+                "hu": "Fő utca",
+                "ro": "Calle Mayor",
+                "en": "Calle Mayor"
+              },
+              "tip_5lang": {
+                "de": "Lebhafte Geschäftsstraße mit schönen Fassaden.",
+                "hu": "Élénk bevásárlóutca szép homlokzatokkal.",
+                "ro": "Stradă comercială animată cu fațade frumoase.",
+                "en": "Lively shopping street with beautiful facades."
+              }
+            },
+            {
+              "name": {
+                "de": "Uhrturm (Torre del Reloj)",
+                "hu": "Óratorony",
+                "ro": "Turnul cu Ceas",
+                "en": "Clock Tower"
+              },
+              "tip_5lang": {
+                "de": "Gotisches Juwel im Herzen der Stadt.",
+                "hu": "Gótikus ékszerdoboz a város szívében.",
+                "ro": "Bijuterie gotică în inima orașului.",
+                "en": "Gothic jewel in the heart of the city."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Pastelería Echeto",
+                "tip": "Probieren Sie die berühmten Coronitas de Jaca."
+              },
+              {
+                "name": "Cordero al Chilindrón",
+                "tip": "Traditionelles Lammgericht der Region."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Pastelería Echeto",
+                "tip": "Kóstolja meg a híres Coronitas de Jaca édességet."
+              },
+              {
+                "name": "Cordero al Chilindrón",
+                "tip": "Hagyományos bárányétel a régióból."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Pastelería Echeto",
+                "tip": "Gustați faimoasele Coronitas de Jaca."
+              },
+              {
+                "name": "Cordero al Chilindrón",
+                "tip": "Mâncare tradițională de miel din regiune."
+              }
+            ],
+            "en": [
+              {
+                "name": "Pastelería Echeto",
+                "tip": "Try the famous Coronitas de Jaca sweets."
+              },
+              {
+                "name": "Cordero al Chilindrón",
+                "tip": "Traditional lamb dish of the region."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Zitadellen-Glacis",
+                "tip": "Grüne Wiesen rund um die Festung.",
+                "emoji": "🍃"
+              },
+              {
+                "name": "Ermita de Sarsa",
+                "tip": "Stiller Ort am Stadtrand.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Citadella kert",
+                "tip": "Zöld gyepek az erőd körül.",
+                "emoji": "🍃"
+              },
+              {
+                "name": "Sarsa remetelak",
+                "tip": "Csendes hely a város szélén.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Glacisul Citadelei",
+                "tip": "Pajiști verzi în jurul fortăreței.",
+                "emoji": "🍃"
+              },
+              {
+                "name": "Ermita de Sarsa",
+                "tip": "Loc liniștit la marginea orașului.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Citadel Glacis",
+                "tip": "Green meadows around the fortress.",
+                "emoji": "🍃"
+              },
+              {
+                "name": "Ermita de Sarsa",
+                "tip": "Quiet spot on the outskirts.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Calle Mayor Geschäfte",
+                "tip": "Bergsportausrüstung und lokale Delikatessen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Calle Mayor üzletek",
+                "tip": "Hegyi sportfelszerelések és helyi finomságok."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Magazinele de pe Calle Mayor",
+                "tip": "Echipament montan și delicatese locale."
+              }
+            ],
+            "en": [
+              {
+                "name": "Calle Mayor Shops",
+                "tip": "Mountain sports equipment and local delicacies."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Jaca ist das Tor zu den Pyrenäen, das Wetter kann schnell umschlagen.",
+              "Besuchen Sie die Zitadelle zur Fütterungszeit der Rehe.",
+              "Die Kathedrale hat mittags oft eine kurze Pause.",
+              "Tapas-Hopping in der Altstadt ist ein Muss.",
+              "Kopfsteinpflaster in der Altstadt erfordert flache Schuhe."
+            ],
+            "hu": [
+              "Jaca a Pireneusok kapuja, az időjárás gyorsan változhat.",
+              "Látogassa meg a citadellát az őzek etetési idejében.",
+              "A katedrális délidőben gyakran zárva tart egy rövid ideig.",
+              "A tapas-túra az óvárosban kötelező program.",
+              "A macskakő miatt lapos talpú cipő ajánlott."
+            ],
+            "ro": [
+              "Jaca este poarta către Pirinei, vremea se poate schimba rapid.",
+              "Vizitați citadela la ora hrănirii căprioarelor.",
+              "Catedrala are adesea o scurtă pauză la prânz.",
+              "Un tur al tapas-urilor în centrul vechi este obligatoriu.",
+              "Pietrele cubice necesită încălțăminte cu talpă plată."
+            ],
+            "en": [
+              "Jaca is the gateway to the Pyrenees, weather can change quickly.",
+              "Visit the Citadel at deer feeding time.",
+              "The cathedral often has a short break at midday.",
+              "Tapas-hopping in the old town is a must.",
+              "Cobblestones in the old town require flat shoes."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag in der Kathedrale von Jaca, einem perfekten Rückzugsort vor dem Regen, wo die romanische Stille Sie umfängt. Das Diözesanmuseum bietet stundenlangen Schutz zwischen mittelalterlichen Fresken.\n\nMittags erkunden Sie die Zitadelle. Nutzen Sie die Ausstellungsräume und die überdachten Bereiche der Festung, um trocken zu bleiben, während Sie die Geschichte der Pyrenäen entdecken.\n\nAm Nachmittag bietet der Paseo de la Constitución eine mystische, neblige Atmosphäre. Suchen Sie Schutz unter den berühmten Arkaden (Los Porches) der Calle Mayor, die Jaca bei Regen so praktisch machen.\n\nDer Abend klingt am Uhrturm aus. Die nassen Pflastersteine der Altstadt spiegeln die Lichter der Tapas-Bars wider und schaffen eine gemütliche, typisch aragonesische Stimmung.",
+            "hu": "Kezdje a napot a székesegyházban, amely tökéletes menedék az eső elől, ahol a román stílusú csend veszi körül. A szomszédos múzeum órákig tartó védelmet nyújt a középkori freskók között.\n\nDélben fedezze fel a Citadellát. Használja ki a kiállítótermeket és az erőd fedett részeit, hogy szárazon maradjon, miközben megismeri a Pireneusok védelmi történelmét.\n\nDélután a Paseo de la Constitución misztikus, ködös hangulatot áraszt. Menjen a Calle Mayor híres árkádjai (Los Porches) alá, amelyek Jakát esőben is kiválóan sétálhatóvá teszik.\n\nAz este az Óratorony mellett ér véget. Az óváros vizes macskakövei tükrözik a tapas-bárok fényeit, meghitt és tipikus aragóniai hangulatot teremtve a vacsorához.",
+            "ro": "Începeți ziua la Catedrala din Jaca, un refugiu perfect împotriva ploii, unde liniștea romanică vă învăluie. Muzeul Eparhial oferă ore de adăpost printre frescele medievale fascinante.\n\nLa prânz, explorați Cetatea. Profitați de sălile de expoziție și de zonele acoperite ale fortăreței pentru a rămâne uscat în timp ce descoperiți istoria militară a Pirineilor.\n\nDupă-amiaza, Paseo de la Constitución oferă o atmosferă mistică și cețoasă. Căutați adăpost sub faimoasele arcade (Los Porches) de pe Calle Mayor, care fac Jaca extrem de practică pe timp de ploaie.\n\nSeara se încheie lângă Turnul Ceasului. Pavajul umed al centrului vechi reflectă luminile barurilor de tapas, creând o atmosferă primitoare și tipic aragoneză.",
+            "en": "Start your day at Jaca Cathedral, a perfect sanctuary from the rain where Romanesque silence surrounds you. The Diocesan Museum offers hours of shelter among medieval frescoes.\n\nAt noon, explore the Citadel. Make use of the exhibition rooms and covered areas of the fortress to stay dry while discovering the military history of the Pyrenees.\n\nIn the afternoon, Paseo de la Constitución offers a mystical, misty atmosphere. Head under the famous arcades (Los Porches) of Calle Mayor, which make Jaca walkable even in the rain.\n\nThe evening concludes by the Clock Tower. The wet cobblestones of the old town reflect the lights of the tapas bars, creating a cozy and typical Aragonese atmosphere."
+          },
+          "stops": [
+            {
+              "name": "St. Peter's Cathedral",
+              "tip_5lang": {
+                "de": "Ideal bei Regen; das Innere ist trocken und bietet beeindruckende romanische Kunst.",
+                "hu": "Ideális esőben; a belső tér száraz, és lenyűgöző román kori művészetet kínál.",
+                "ro": "Ideal pe ploaie; interiorul este uscat și oferă artă romanică impresionantă.",
+                "en": "Ideal when raining; the interior is dry and offers impressive Romanesque art."
+              }
+            },
+            {
+              "name": "Diocesan Museum of Jaca",
+              "tip_5lang": {
+                "de": "Vollständig überdacht. Eines der besten Museen für mittelalterliche Wandmalerei in Spanien.",
+                "hu": "Teljesen fedett. Spanyolország egyik legjobb középkori falfestészeti múzeuma.",
+                "ro": "Complet acoperit. Unul dintre cele mai bune muzee de pictură murală medievală din Spania.",
+                "en": "Completely covered. One of the best museums for medieval wall painting in Spain."
+              }
+            },
+            {
+              "name": "Citadel of Jaca",
+              "tip_5lang": {
+                "de": "Besuchen Sie das Miniaturmuseum im Inneren, um dem Regen zu entkommen.",
+                "hu": "Látogassa meg a benti miniatűr múzeumot, hogy elkerülje az esőt.",
+                "ro": "Vizitați muzeul de miniaturi din interior pentru a scăpa de ploaie.",
+                "en": "Visit the miniature museum inside to escape the rain."
+              }
+            },
+            {
+              "name": "Paseo de la Constitución",
+              "tip_5lang": {
+                "de": "Nutzen Sie bei starkem Guss die nahen Gebäude als Unterstand.",
+                "hu": "Erős felhőszakadás esetén használja a közeli épületeket óvóhelyként.",
+                "ro": "Folosiți clădirile din apropiere ca adăpost în caz de aversă puternică.",
+                "en": "Use the nearby buildings as shelter in case of a heavy downpour."
+              }
+            },
+            {
+              "name": "Calle Mayor",
+              "tip_5lang": {
+                "de": "Die Steinarkaden bieten einen trockenen Korridor entlang der gesamten Straße.",
+                "hu": "A kőárkádok száraz folyosót biztosítanak az egész utca mentén.",
+                "ro": "Arcadele de piatră oferă un coridor uscat de-a lungul întregii străzi.",
+                "en": "The stone arcades provide a dry corridor along the entire street."
+              }
+            },
+            {
+              "name": "Clock Tower",
+              "tip_5lang": {
+                "de": "Betrachten Sie die Fassade vom Schutz der gegenüberliegenden Arkaden aus.",
+                "hu": "Csodálja meg a homlokzatot a szemközti árkádok védelméből.",
+                "ro": "Admirați fațada din protecția arcadelor de vizavi.",
+                "en": "Admire the facade from the protection of the opposite arcades."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Jaca hat viele Arkaden (Los Porches), nutzen Sie diese als trockene Gehwege.",
+              "Vermeiden Sie offene Plätze bei Gewittern; die Kathedrale ist der sicherste Ort.",
+              "Tragen Sie wasserfeste Schuhe, da das Kopfsteinpflaster rutschig werden kann.",
+              "Die Cafés in der Calle Mayor sind ideal, um einen Schauer bei einer heißen Schokolade abzuwarten."
+            ],
+            "hu": [
+              "Jaca sok árkáddal (Los Porches) rendelkezik, használja ezeket száraz útvonalként.",
+              "Vihar esetén kerülje a nyitott tereket; a székesegyház a legbiztonságosabb hely.",
+              "Viseljen vízálló cipőt, mert a macskakövek csúszóssá válhatnak.",
+              "A Calle Mayor kávézói ideálisak egy forró csokoládé mellől megvárni az eső végét."
+            ],
+            "ro": [
+              "Jaca are multe arcade (Los Porches), folosiți-le ca trasee uscate.",
+              "Evitați piețele deschise în timpul furtunilor; catedrala este cel mai sigur loc.",
+              "Purtați încălțăminte impermeabilă, deoarece pavajul poate deveni alunecos.",
+              "Cafenelele de pe Calle Mayor sunt ideale pentru a aștepta oprirea ploii cu o ciocolată caldă."
+            ],
+            "en": [
+              "Jaca has many arcades (Los Porches), use them as dry walkways.",
+              "Avoid open squares during storms; the cathedral is the safest indoor spot.",
+              "Wear waterproof shoes as the cobblestones can become slippery.",
+              "The cafes on Calle Mayor are ideal for waiting out a shower with a hot chocolate."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie Jaca im Winterglanz. Die Kathedrale wirkt in der klaren, kalten Morgenluft besonders majestätisch. Das Diözesanmuseum bietet eine willkommene Wärme, um die Kunstschätze in Ruhe zu betrachten.\n\nMittags bietet die Zitadelle einen scharfen Kontrast zum verschneiten Pyrenäen-Panorama im Hintergrund. Beobachten Sie die Hirsche im Graben, die im Winterfell besonders beeindruckend aussehen.\n\nAm Nachmittag lädt der Paseo de la Constitución zu einem zügigen Spaziergang ein, bevor die Sonne gegen 17:30 Uhr untergeht. Die Calle Mayor füllt sich mit dem Duft von gerösteten Kastanien und Gebäck.\n\nDer Abend ist perfekt, um sich in der Nähe des Uhrturms aufzuwärmen. Die beleuchteten Gassen der Altstadt strahlen eine winterliche Geborgenheit aus, während Sie sich auf ein herzhaftes Bergessen freuen.",
+            "hu": "Tapasztalja meg Jakát téli pompájában. A székesegyház különösen fenséges a tiszta, hideg reggeli levegőben. A múzeum kellemes meleget kínál a műkincsek nyugodt megtekintéséhez.\n\nDélben a Citadella éles kontrasztot alkot a háttérben húzódó havas pireneusi panorámával. Figyelje meg a várárokban élő szarvasokat, amelyek téli bundájukban lenyűgözőek.\n\nDélután a Paseo de la Constitución gyors sétára hív, mielőtt a nap 17:30 körül lebukik. A Calle Mayor megtelik a sült gesztenye és a sütemények illatával.\n\nAz este tökéletes a felmelegedésre az Óratorony közelében. Az óváros kivilágított utcái téli védettséget árasztanak, miközben egy kiadós hegyi vacsorára készül.",
+            "ro": "Experimentați Jaca în splendoarea iernii. Catedrala pare deosebit de maiestuoasă în aerul rece și limpede al dimineții. Muzeul oferă o căldură binevenită pentru a admira comorile de artă în liniște.\n\nLa prânz, Cetatea oferă un contrast puternic cu panorama pirineană înzăpezită din fundal. Observați cerbii din șanț, care arată impresionant în blana lor de iarnă.\n\nDupă-amiaza, Paseo de la Constitución invită la o plimbare revigorantă înainte ca soarele să apună în jurul orei 17:30. Calle Mayor se umple de parfumul castanelor coapte și al produselor de patiserie.\n\nSeara este perfectă pentru încălzire lângă Turnul Ceasului. Străzile iluminate ale centrului vechi emană o siguranță hibernală, în timp ce vă pregătiți pentru o masă montană copioasă.",
+            "en": "Experience Jaca in its winter glory. The Cathedral looks especially majestic in the clear, cold morning air. The museum offers welcome warmth to view the art treasures in peace.\n\nAt noon, the Citadel provides a sharp contrast to the snowy Pyrenean panorama in the background. Watch the deer in the moat, looking impressive in their winter coats.\n\nIn the afternoon, Paseo de la Constitución invites a brisk walk before the sun sets around 17:30. Calle Mayor fills with the scent of roasted chestnuts and pastries.\n\nThe evening is perfect for warming up near the Clock Tower. The illuminated alleys of the old town radiate winter coziness while you look forward to a hearty mountain meal."
+          },
+          "stops": [
+            {
+              "name": "St. Peter's Cathedral",
+              "tip_5lang": {
+                "de": "Ein warmer Zufluchtsort vor dem eisigen Pyrenäenwind.",
+                "hu": "Meleg menedék a jeges pireneusi szél elől.",
+                "ro": "Un refugiu cald împotriva vântului înghețat al Pirineilor.",
+                "en": "A warm refuge from the icy Pyrenean wind."
+              }
+            },
+            {
+              "name": "Diocesan Museum of Jaca",
+              "tip_5lang": {
+                "de": "Genießen Sie die beheizten Räume, während Sie Weltklasse-Fresken bewundern.",
+                "hu": "Élvezze a fűtött tereket, miközben világszínvonalú freskókat csodál.",
+                "ro": "Bucurați-vă de spațiile încălzite în timp ce admirați fresce de clasă mondială.",
+                "en": "Enjoy the heated spaces while admiring world-class frescoes."
+              }
+            },
+            {
+              "name": "Citadel of Jaca",
+              "tip_5lang": {
+                "de": "Tragen Sie Handschuhe; die Steinmauern strahlen viel Kälte ab.",
+                "hu": "Viseljen kesztyűt; a kőfalak sok hideget árasztanak.",
+                "ro": "Purtați mănuși; zidurile de piatră emană mult frig.",
+                "en": "Wear gloves; the stone walls radiate a lot of cold."
+              }
+            },
+            {
+              "name": "Paseo de la Constitución",
+              "tip_5lang": {
+                "de": "Der Sonnenuntergang ist hier früh, aber spektakulär über den Bergen.",
+                "hu": "A naplemente itt korai, de látványos a hegyek felett.",
+                "ro": "Apusul este devreme aici, dar spectaculos peste munți.",
+                "en": "Sunset is early here, but spectacular over the mountains."
+              }
+            },
+            {
+              "name": "Calle Mayor",
+              "tip_5lang": {
+                "de": "Probieren Sie lokale Süßigkeiten wie 'Lazos' zur Stärkung.",
+                "hu": "Kóstolja meg a helyi édességeket, például a 'Lazos'-t az erőgyűjtéshez.",
+                "ro": "Gustați dulciurile locale, cum ar fi 'Lazos', pentru energie.",
+                "en": "Try local sweets like 'Lazos' for a quick energy boost."
+              }
+            },
+            {
+              "name": "Clock Tower",
+              "tip_5lang": {
+                "de": "Die Beleuchtung startet früh und wirkt im Winter besonders festlich.",
+                "hu": "A kivilágítás korán kezdődik, és télen különösen ünnepi hatást kelt.",
+                "ro": "Iluminatul începe devreme și pare deosebit de festiv iarna.",
+                "en": "Lighting starts early and looks especially festive in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schichten Sie Ihre Kleidung; Jaca kann im Schatten sehr kalt sein.",
+              "Die Sonne verschwindet hinter den Gipfeln gegen 17:00-17:30 Uhr.",
+              "Suchen Sie mittags sonnige Terrassen auf, um natürliche Wärme zu tanken.",
+              "Vorsicht vor überfrierender Nässe auf den Brücken und Schattenplätzen."
+            ],
+            "hu": [
+              "Öltözködjön rétegesen; Jaca az árnyékban nagyon hideg tud lenni.",
+              "A nap 17:00-17:30 körül tűnik el a csúcsok mögött.",
+              "Délben keressen napos teraszokat a természetes melegért.",
+              "Vigyázzon a lefagyásokkal a hidakon és az árnyékos helyeken."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi; Jaca poate fi foarte rece la umbră.",
+              "Soarele dispare după vârfuri în jur de 17:00-17:30.",
+              "Căutați terase însorite la prânz pentru căldură naturală.",
+              "Atenție la porțiunile înghețate de pe poduri și din locurile umbrite."
+            ],
+            "en": [
+              "Layer your clothing; Jaca can be very cold in the shade.",
+              "The sun disappears behind the peaks around 17:00-17:30.",
+              "Look for sunny terraces at noon to soak up natural warmth.",
+              "Watch out for black ice on bridges and shaded spots."
+            ]
+          }
+        }
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "15:45",
+      "total_km": 8.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Brücke San Miguel",
+            "hu": "San Miguel híd",
+            "ro": "Podul San Miguel",
+            "en": "San Miguel Bridge"
+          },
+          "coords": [
+            -0.5625,
+            42.5745
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "09:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Mittelalterliche Brücke über den Fluss Aragón.",
+            "hu": "Középkori híd az Aragón-folyó felett.",
+            "ro": "Pod medieval peste râul Aragón.",
+            "en": "Medieval bridge over the Aragón River."
+          }
+        },
+        {
+          "name": {
+            "de": "Zitadelle (Umrundung)",
+            "hu": "Citadella (körbekerülés)",
+            "ro": "Citadela (ocolire)",
+            "en": "Citadel (circuit)"
+          },
+          "coords": [
+            -0.5525,
+            42.5722
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Schöner Radweg rund um die Festungswälle.",
+            "hu": "Szép kerékpárút az erőd falai körül.",
+            "ro": "Pistă de biciclete frumoasă în jurul zidurilor cetății.",
+            "en": "Nice bike path around the fortress walls."
+          }
+        },
+        {
+          "name": {
+            "de": "Eispalast von Jaca",
+            "hu": "Jaca jégpalota",
+            "ro": "Palatul de Gheață din Jaca",
+            "en": "Jaca Ice Palace"
+          },
+          "coords": [
+            -0.5425,
+            42.5655
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "10:55",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Modernes Wahrzeichen für Wintersport.",
+            "hu": "A téli sportok modern jelképe.",
+            "ro": "Simbol modern pentru sporturile de iarnă.",
+            "en": "Modern landmark for winter sports."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale St. Peter",
+            "hu": "Szent Péter katedrális",
+            "ro": "Catedrala Sfântul Petru",
+            "en": "St. Peter's Cathedral"
+          },
+          "coords": [
+            -0.5485,
+            42.5712
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Fahrrad sicher am Platz abstellen.",
+            "hu": "Biztonságosan parkolja le a kerékpárt a téren.",
+            "ro": "Parcați bicicleta în siguranță în piață.",
+            "en": "Park your bike safely in the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Calle Mayor",
+            "hu": "Fő utca",
+            "ro": "Calle Mayor",
+            "en": "Calle Mayor"
+          },
+          "coords": [
+            -0.5492,
+            42.5705
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "13:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Mittagspause in der Fußgängerzone.",
+            "hu": "Ebédszünet a sétálóövezetben.",
+            "ro": "Pauză de prânz în zona pietonală.",
+            "en": "Lunch break in the pedestrian zone."
+          }
+        },
+        {
+          "name": {
+            "de": "Fort Rapitán",
+            "hu": "Rapitán erőd",
+            "ro": "Fortul Rapitán",
+            "en": "Fort Rapitán"
+          },
+          "coords": [
+            -0.5355,
+            42.5855
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Steiler Anstieg, belohnt mit toller Aussicht.",
+            "hu": "Meredek emelkedő, fantasztikus kilátással jutalmazva.",
+            "ro": "Urcare abruptă, răsplătită cu o priveliște superbă.",
+            "en": "Steep climb, rewarded with great views."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie am Fluss Aragón bei der San Miguel Brücke und radeln Sie dann zur Zitadelle. Eine Runde um die Festung bietet tolle Perspektiven.\n\nDer Vormittag führt Sie am modernen Eispalast vorbei zurück ins Zentrum zur Kathedrale. Genießen Sie die Mischung aus Sport und Geschichte.\n\nNach dem Mittagessen in der Calle Mayor wartet die sportliche Herausforderung: der Anstieg zum Fort Rapitán.\n\nVon oben haben Sie den besten Blick auf Jaca und die umliegenden Gipfel, bevor es rasant zurück in die Stadt geht.",
+        "hu": "Kezdje az Aragón-folyónál a San Miguel hídnál, majd tekerjen a citadellához. Az erőd körüli körút nagyszerű perspektívákat kínál.\n\nA délelőtt a modern Jégpalota mellett vezet vissza a központba, a katedrálishoz. Élvezze a sport és a történelem keverékét.\n\nA Calle Mayoron elfogyasztott ebéd után vár a sportos kihívás: az emelkedő a Rapitán erődhöz.\n\nFentről nyílik a legjobb kilátás Jacára és a környező csúcsokra, mielőtt gyorsan visszagurulna a városba.",
+        "ro": "Începeți la râul Aragón, la podul San Miguel, apoi pedalați spre Citadelă. Un circuit în jurul fortăreței oferă perspective deosebite.\n\nDimineața vă poartă pe lângă modernul Palat de Gheață înapoi în centru, la catedrală. Bucurați-vă de amestecul de sport și istorie.\n\nDupă prânzul pe Calle Mayor, urmează provocarea sportivă: urcarea la Fortul Rapitán.\n\nDe sus aveți cea mai bună vedere asupra orașului Jaca și a vârfurilor învecinate, înainte de a coborî rapid înapoi în oraș.",
+        "en": "Start at the Aragón River by the San Miguel Bridge and then cycle to the Citadel. A loop around the fortress offers great perspectives.\n\nThe morning leads you past the modern Ice Palace back to the center to the cathedral. Enjoy the mix of sports and history.\n\nAfter lunch on Calle Mayor, the sporting challenge awaits: the climb to Fort Rapitán.\n\nFrom above, you have the best view of Jaca and the surrounding peaks before heading back down to the city."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Migas de Pastor",
+            "tip": "Herzhaftes Gericht aus Brotbröseln und Chorizo."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Migas de Pastor",
+            "tip": "Kiadós étel kenyérmorzsából és chorizóból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Migas de Pastor",
+            "tip": "Mâncare consistentă din pesmet și chorizo."
+          }
+        ],
+        "en": [
+          {
+            "name": "Migas de Pastor",
+            "tip": "Hearty dish made from breadcrumbs and chorizo."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "San Miguel Ufer",
+            "tip": "Ruhiger Platz am Fluss.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "San Miguel part",
+            "tip": "Csendes hely a folyónál.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul San Miguel",
+            "tip": "Loc liniștit la râu.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "San Miguel Riverbank",
+            "tip": "Quiet spot by the river.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Sportgeschäfte",
+            "tip": "Alles für den Bergsport."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sportboltok",
+            "tip": "Minden a hegyi sportokhoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de sport",
+            "tip": "Totul pentru sporturi montane."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sport Shops",
+            "tip": "Everything for mountain sports."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Der Weg zum Fort Rapitán ist sehr steil, Gangschaltung prüfen.",
+          "Im Stadtzentrum gibt es viele Fahrradständer.",
+          "Fahren Sie vorsichtig auf der San Miguel Brücke.",
+          "Kombinieren Sie die Tour mit dem Camino de Santiago Pfad.",
+          "Ein Mountainbike ist für das Umland von Jaca ideal."
+        ],
+        "hu": [
+          "A Rapitán erődhöz vezető út nagyon meredek, ellenőrizze a váltót.",
+          "A városközpontban sok kerékpártároló van.",
+          "Hajtson óvatosan a San Miguel hídon.",
+          "Kombinálja a túrát a Szent Jakab-út egyik szakaszával.",
+          "A hegyi kerékpár ideális Jaca környékéhez."
+        ],
+        "ro": [
+          "Drumul spre Fortul Rapitán este foarte abrupt, verificați vitezele.",
+          "Există multe rastele de biciclete în centrul orașului.",
+          "Circulați cu atenție pe podul San Miguel.",
+          "Combinați turul cu o secțiune din Camino de Santiago.",
+          "O bicicletă de munte este ideală pentru împrejurimile orașului Jaca."
+        ],
+        "en": [
+          "The path to Fort Rapitán is very steep, check your gears.",
+          "There are many bike racks in the city center.",
+          "Ride carefully on the San Miguel Bridge.",
+          "Combine the tour with a section of the Camino de Santiago.",
+          "A mountain bike is ideal for the surroundings of Jaca."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Starten Sie am Fluss Aragón bei der San Miguel Brücke und radeln Sie dann zur Zitadelle. Eine Runde um die Festung bietet tolle Perspektiven.\n\nDer Vormittag führt Sie am modernen Eispalast vorbei zurück ins Zentrum zur Kathedrale. Genießen Sie die Mischung aus Sport und Geschichte.\n\nNach dem Mittagessen in der Calle Mayor wartet die sportliche Herausforderung: der Anstieg zum Fort Rapitán.\n\nVon oben haben Sie den besten Blick auf Jaca und die umliegenden Gipfel, bevor es rasant zurück in die Stadt geht.",
+            "hu": "Kezdje az Aragón-folyónál a San Miguel hídnál, majd tekerjen a citadellához. Az erőd körüli körút nagyszerű perspektívákat kínál.\n\nA délelőtt a modern Jégpalota mellett vezet vissza a központba, a katedrálishoz. Élvezze a sport és a történelem keverékét.\n\nA Calle Mayoron elfogyasztott ebéd után vár a sportos kihívás: az emelkedő a Rapitán erődhöz.\n\nFentről nyílik a legjobb kilátás Jacára és a környező csúcsokra, mielőtt gyorsan visszagurulna a városba.",
+            "ro": "Începeți la râul Aragón, la podul San Miguel, apoi pedalați spre Citadelă. Un circuit în jurul fortăreței oferă perspective deosebite.\n\nDimineața vă poartă pe lângă modernul Palat de Gheață înapoi în centru, la catedrală. Bucurați-vă de amestecul de sport și istorie.\n\nDupă prânzul pe Calle Mayor, urmează provocarea sportivă: urcarea la Fortul Rapitán.\n\nDe sus aveți cea mai bună vedere asupra orașului Jaca și a vârfurilor învecinate, înainte de a coborî rapid înapoi în oraș.",
+            "en": "Start at the Aragón River by the San Miguel Bridge and then cycle to the Citadel. A loop around the fortress offers great perspectives.\n\nThe morning leads you past the modern Ice Palace back to the center to the cathedral. Enjoy the mix of sports and history.\n\nAfter lunch on Calle Mayor, the sporting challenge awaits: the climb to Fort Rapitán.\n\nFrom above, you have the best view of Jaca and the surrounding peaks before heading back down to the city."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Brücke San Miguel",
+                "hu": "San Miguel híd",
+                "ro": "Podul San Miguel",
+                "en": "San Miguel Bridge"
+              },
+              "tip_5lang": {
+                "de": "Mittelalterliche Brücke über den Fluss Aragón.",
+                "hu": "Középkori híd az Aragón-folyó felett.",
+                "ro": "Pod medieval peste râul Aragón.",
+                "en": "Medieval bridge over the Aragón River."
+              }
+            },
+            {
+              "name": {
+                "de": "Zitadelle (Umrundung)",
+                "hu": "Citadella (körbekerülés)",
+                "ro": "Citadela (ocolire)",
+                "en": "Citadel (circuit)"
+              },
+              "tip_5lang": {
+                "de": "Schöner Radweg rund um die Festungswälle.",
+                "hu": "Szép kerékpárút az erőd falai körül.",
+                "ro": "Pistă de biciclete frumoasă în jurul zidurilor cetății.",
+                "en": "Nice bike path around the fortress walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Eispalast von Jaca",
+                "hu": "Jaca jégpalota",
+                "ro": "Palatul de Gheață din Jaca",
+                "en": "Jaca Ice Palace"
+              },
+              "tip_5lang": {
+                "de": "Modernes Wahrzeichen für Wintersport.",
+                "hu": "A téli sportok modern jelképe.",
+                "ro": "Simbol modern pentru sporturile de iarnă.",
+                "en": "Modern landmark for winter sports."
+              }
+            },
+            {
+              "name": {
+                "de": "Kathedrale St. Peter",
+                "hu": "Szent Péter katedrális",
+                "ro": "Catedrala Sfântul Petru",
+                "en": "St. Peter's Cathedral"
+              },
+              "tip_5lang": {
+                "de": "Fahrrad sicher am Platz abstellen.",
+                "hu": "Biztonságosan parkolja le a kerékpárt a téren.",
+                "ro": "Parcați bicicleta în siguranță în piață.",
+                "en": "Park your bike safely in the square."
+              }
+            },
+            {
+              "name": {
+                "de": "Calle Mayor",
+                "hu": "Fő utca",
+                "ro": "Calle Mayor",
+                "en": "Calle Mayor"
+              },
+              "tip_5lang": {
+                "de": "Mittagspause in der Fußgängerzone.",
+                "hu": "Ebédszünet a sétálóövezetben.",
+                "ro": "Pauză de prânz în zona pietonală.",
+                "en": "Lunch break in the pedestrian zone."
+              }
+            },
+            {
+              "name": {
+                "de": "Fort Rapitán",
+                "hu": "Rapitán erőd",
+                "ro": "Fortul Rapitán",
+                "en": "Fort Rapitán"
+              },
+              "tip_5lang": {
+                "de": "Steiler Anstieg, belohnt mit toller Aussicht.",
+                "hu": "Meredek emelkedő, fantasztikus kilátással jutalmazva.",
+                "ro": "Urcare abruptă, răsplătită cu o priveliște superbă.",
+                "en": "Steep climb, rewarded with great views."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Migas de Pastor",
+                "tip": "Herzhaftes Gericht aus Brotbröseln und Chorizo."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Migas de Pastor",
+                "tip": "Kiadós étel kenyérmorzsából és chorizóból."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Migas de Pastor",
+                "tip": "Mâncare consistentă din pesmet și chorizo."
+              }
+            ],
+            "en": [
+              {
+                "name": "Migas de Pastor",
+                "tip": "Hearty dish made from breadcrumbs and chorizo."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "San Miguel Ufer",
+                "tip": "Ruhiger Platz am Fluss.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "San Miguel part",
+                "tip": "Csendes hely a folyónál.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Malul San Miguel",
+                "tip": "Loc liniștit la râu.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "San Miguel Riverbank",
+                "tip": "Quiet spot by the river.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Sportgeschäfte",
+                "tip": "Alles für den Bergsport."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Sportboltok",
+                "tip": "Minden a hegyi sportokhoz."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Magazine de sport",
+                "tip": "Totul pentru sporturi montane."
+              }
+            ],
+            "en": [
+              {
+                "name": "Sport Shops",
+                "tip": "Everything for mountain sports."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Der Weg zum Fort Rapitán ist sehr steil, Gangschaltung prüfen.",
+              "Im Stadtzentrum gibt es viele Fahrradständer.",
+              "Fahren Sie vorsichtig auf der San Miguel Brücke.",
+              "Kombinieren Sie die Tour mit dem Camino de Santiago Pfad.",
+              "Ein Mountainbike ist für das Umland von Jaca ideal."
+            ],
+            "hu": [
+              "A Rapitán erődhöz vezető út nagyon meredek, ellenőrizze a váltót.",
+              "A városközpontban sok kerékpártároló van.",
+              "Hajtson óvatosan a San Miguel hídon.",
+              "Kombinálja a túrát a Szent Jakab-út egyik szakaszával.",
+              "A hegyi kerékpár ideális Jaca környékéhez."
+            ],
+            "ro": [
+              "Drumul spre Fortul Rapitán este foarte abrupt, verificați vitezele.",
+              "Există multe rastele de biciclete în centrul orașului.",
+              "Circulați cu atenție pe podul San Miguel.",
+              "Combinați turul cu o secțiune din Camino de Santiago.",
+              "O bicicletă de munte este ideală pentru împrejurimile orașului Jaca."
+            ],
+            "en": [
+              "The path to Fort Rapitán is very steep, check your gears.",
+              "There are many bike racks in the city center.",
+              "Ride carefully on the San Miguel Bridge.",
+              "Combine the tour with a section of the Camino de Santiago.",
+              "A mountain bike is ideal for the surroundings of Jaca."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Regenfahrt zur San-Miguel-Brücke erfordert Vorsicht auf den nassen Steinen. Die Zitadelle bietet danach eine willkommene Pause im Trockenen.\n\nMittags ist der Eishalle von Jaca das perfekte Ziel, um den Elementen zu entkommen und sich sportlich im Inneren zu betätigen.\n\nNachmittags führt die Tour zur Kathedrale. Die Calle Mayor bietet Schutz für das Fahrrad, während Sie die Altstadt zu Fuß unter den Arkaden erkunden.\n\nDer Tag endet mit dem Aufstieg zum Fort Rapitán, wobei die Straße bei Regen rutschig sein kann. Die Aussicht auf das neblige Tal belohnt jedoch jede Anstrengung.",
+            "hu": "Az esős tekerés a San Miguel-hídhoz óvatosságot igényel a nedves köveken. A Citadella ezután szívesen látott pihenőt kínál a szárazon.\n\nDélben a jakai Jégpalota a tökéletes célpont, hogy elmeneküljön az elemek elől és bent sportoljon.\n\nDélután a túra a székesegyházhoz vezet. A Calle Mayor védelmet nyújt a kerékpárnak, miközben az óvárost gyalog, az árkádok alatt fedezi fel.\n\nA nap a Fort Rapitánhoz való felkapaszkodással zárul, bár az út esőben csúszós lehet. A ködös völgy látványa azonban kárpótol minden erőfeszítésért.",
+            "ro": "O tură cu bicicleta pe ploaie spre Podul San Miguel necesită prudență pe pietrele ude. Cetatea oferă apoi o pauză binevenită la adăpost.\n\nLa prânz, Palatul de Gheață din Jaca este destinația perfectă pentru a scăpa de intemperii și pentru a face sport în interior.\n\nDupă-amiaza, turul duce la Catedrală. Calle Mayor oferă protecție pentru bicicletă în timp ce explorați centrul vechi la pas, sub arcade.\n\nZiua se încheie cu urcarea la Fort Rapitán, deși drumul poate fi alunecos pe ploaie. Vederea asupra văii cețoase răsplătește însă orice efort.",
+            "en": "A rainy ride to San Miguel Bridge requires caution on the wet stones. The Citadel offers a welcome dry break afterwards.\n\nAt noon, Jaca Ice Palace is the perfect destination to escape the elements and stay active indoors.\n\nIn the afternoon, the tour leads to the Cathedral. Calle Mayor offers shelter for your bike while you explore the old town on foot under the arcades.\n\nThe day ends with the climb to Fort Rapitán, though the road can be slippery in the rain. The view of the misty valley rewards every effort."
+          },
+          "stops": [
+            {
+              "name": "San Miguel Bridge",
+              "tip_5lang": {
+                "de": "Vorsicht, das alte Pflaster ist bei Nässe extrem rutschig.",
+                "hu": "Vigyázat, a régi burkolat nedvesen rendkívül csúszós.",
+                "ro": "Atenție, pavajul vechi este extrem de alunecos când este ud.",
+                "en": "Caution, the old pavement is extremely slippery when wet."
+              }
+            },
+            {
+              "name": "Citadel (circuit)",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Wall für eine kurze, windgeschützte Runde.",
+                "hu": "Használja a falat egy rövid, szélvédett körre.",
+                "ro": "Folosiți zidul pentru o tură scurtă, protejată de vânt.",
+                "en": "Use the rampart for a short, wind-protected circuit."
+              }
+            },
+            {
+              "name": "Jaca Ice Palace",
+              "tip_5lang": {
+                "de": "Das ultimative Indoor-Ziel für Radfahrer an Regentagen.",
+                "hu": "A végső beltéri célpont kerékpárosoknak esős napokon.",
+                "ro": "Destinația indoor supremă pentru bicicliști în zilele ploioase.",
+                "en": "The ultimate indoor destination for cyclists on rainy days."
+              }
+            },
+            {
+              "name": "St. Peter's Cathedral",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad unter den nahen Arkaden sicher und trocken ab.",
+                "hu": "Hagyja kerékpárját biztonságban és szárazon a közeli árkádok alatt.",
+                "ro": "Lăsați bicicleta în siguranță și la uscat sub arcadele din apropiere.",
+                "en": "Park your bike safely and dry under the nearby arcades."
+              }
+            },
+            {
+              "name": "Calle Mayor",
+              "tip_5lang": {
+                "de": "Schieben Sie das Rad unter den Arkaden, um trocken zu bleiben.",
+                "hu": "Tolja a biciklit az árkádok alatt, hogy száraz maradjon.",
+                "ro": "Împingeți bicicleta sub arcade pentru a rămâne uscat.",
+                "en": "Walk your bike under the arcades to stay dry."
+              }
+            },
+            {
+              "name": "Fort Rapitán",
+              "tip_5lang": {
+                "de": "Achten Sie auf Sichtverhältnisse bei tief hängenden Wolken.",
+                "hu": "Ügyeljen a látási viszonyokra az alacsonyan szálló felhők esetén.",
+                "ro": "Atenție la vizibilitate în cazul norilor joși.",
+                "en": "Watch the visibility with low-hanging clouds."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Bremsen vor der Abfahrt vom Fort Rapitán.",
+              "Vermeiden Sie Pfützen; sie könnten tiefe Schlaglöcher verbergen.",
+              "Ein kompletter Satz Regenkleidung ist in den Bergen unerlässlich.",
+              "Nutzen Sie die Eishalle als langen Zwischenstopp, um Ausrüstung zu trocknen."
+            ],
+            "hu": [
+              "Ellenőrizze a fékeket a Fort Rapitánról való leereszkedés előtt.",
+              "Kerülje a tócsákat; mély kátyúkat rejthetnek.",
+              "A hegyekben elengedhetetlen a teljes esőruházat.",
+              "Használja a Jégpalotát hosszú megállónak a felszerelés megszárításához."
+            ],
+            "ro": [
+              "Verificați frânele înainte de coborârea de la Fort Rapitán.",
+              "Evitați bălțile; ar putea ascunde gropi adânci.",
+              "Un set complet de haine de ploaie este esențial la munte.",
+              "Folosiți Palatul de Gheață ca oprire lungă pentru a vă usca echipamentul."
+            ],
+            "en": [
+              "Check your brakes before the descent from Fort Rapitán.",
+              "Avoid puddles; they might hide deep potholes.",
+              "A complete set of rain gear is essential in the mountains.",
+              "Use the Ice Palace as a long stopover to dry your gear."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Radtour in Jaca erfordert gute Vorbereitung gegen den Windchill. Die San-Miguel-Brücke bietet ein frostig-schönes Fotomotiv vor den schneebedeckten Gipfeln.\n\nMittags ist die Eishalle der perfekte Ort, um sich bei Bewegung aufzuwärmen, während draußen die Wintersonne glitzert.\n\nNachmittags geht es zurück ins Zentrum zur Kathedrale. Die kurzen Tage bedeuten, dass Sie die Calle Mayor bereits in der Dämmerung erleben, wenn die Lichter eine warme Atmosphäre schaffen.\n\nDie Tour endet mit der Fahrt zum Fort Rapitán. Der Aufstieg hält Sie warm, aber für die Abfahrt im schwindenden Tageslicht sollten Sie unbedingt warme Handschuhe und Licht bereithalten.",
+            "hu": "A téli kerékpártúra Jakában jó felkészülést igényel a szélhűtés ellen. A San Miguel-híd fagyos, gyönyörű fotótémát kínál a havas csúcsok előtt.\n\nDélben a Jégpalota tökéletes hely a felmelegedéshez mozgás közben, miközben odakint csillog a téli napsütés.\n\nDélután visszatér a központba, a székesegyházhoz. A rövid nappalok miatt a Calle Mayort már szürkületben éri el, amikor a fények meleg hangulatot árasztanak.\n\nA túra a Fort Rapitánhoz való tekeréssel zárul. A felfelé út melegen tart, de a fogyatkozó fényben történő leereszkedéshez feltétlenül legyen meleg kesztyűje és világítása.",
+            "ro": "O tură de iarnă cu bicicleta în Jaca necesită o bună pregătire împotriva frigului. Podul San Miguel oferă un motiv foto înghețat și frumos în fața vârfurilor înzăpezite.\n\nLa prânz, Palatul de Gheață este locul perfect pentru a vă încălzi prin mișcare, în timp ce soarele de iarnă sclipește afară.\n\nDupă-amiaza ne întoarcem în centru, la Catedrală. Zilele scurte înseamnă că veți experimenta Calle Mayor deja în amurg, când luminile creează o atmosferă caldă.\n\nTurul se încheie cu drumul spre Fort Rapitán. Urcarea vă menține cald, dar pentru coborârea în lumina tot mai slabă a zilei, trebuie neapărat să aveți mănuși calde și lumini.",
+            "en": "A winter bike tour in Jaca requires good preparation against wind chill. San Miguel Bridge offers a frosty, beautiful photo op in front of the snowy peaks.\n\nAt noon, the Ice Palace is the perfect place to warm up with activity while the winter sun glitters outside.\n\nIn the afternoon, head back to the center to the Cathedral. Short days mean you'll experience Calle Mayor at dusk, when the lights create a warm atmosphere.\n\nThe tour ends with the ride to Fort Rapitán. The climb keeps you warm, but for the descent in fading daylight, make sure you have warm gloves and lights ready."
+          },
+          "stops": [
+            {
+              "name": "San Miguel Bridge",
+              "tip_5lang": {
+                "de": "Achten Sie auf Raureif oder Eis auf den Steinen am frühen Morgen.",
+                "hu": "Kora reggel ügyeljen a zúzmarára vagy jégre a köveken.",
+                "ro": "Atenție la brumă sau gheață pe pietre dimineața devreme.",
+                "en": "Watch out for hoarfrost or ice on the stones early in the morning."
+              }
+            },
+            {
+              "name": "Citadel (circuit)",
+              "tip_5lang": {
+                "de": "Der Boden kann gefroren sein; fahren Sie in den Kurven vorsichtig.",
+                "hu": "A talaj fagyott lehet; a kanyarokban vezessen óvatosan.",
+                "ro": "Solul poate fi înghețat; conduceți cu atenție în curbe.",
+                "en": "The ground may be frozen; ride carefully in the corners."
+              }
+            },
+            {
+              "name": "Jaca Ice Palace",
+              "tip_5lang": {
+                "de": "Idealer Ort, um die Muskulatur bei moderaten Temperaturen zu lockern.",
+                "hu": "Ideális hely az izomzat lazítására mérsékelt hőmérsékleten.",
+                "ro": "Locul ideal pentru a relaxa musculatura la temperaturi moderate.",
+                "en": "Ideal place to loosen your muscles in moderate temperatures."
+              }
+            },
+            {
+              "name": "St. Peter's Cathedral",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Halt, um die Hände aufzuwärmen.",
+                "hu": "Használja ki a megállót a kezei felmelegítésére.",
+                "ro": "Folosiți oprirea pentru a vă încălzi mâinile.",
+                "en": "Use the stop to warm up your hands."
+              }
+            },
+            {
+              "name": "Calle Mayor",
+              "tip_5lang": {
+                "de": "Achten Sie auf Fußgänger, die sich in die warmen Arkaden drängen.",
+                "hu": "Ügyeljen a gyalogosokra, akik a meleg árkádokba húzódnak.",
+                "ro": "Atenție la pietonii care se înghesuie în arcadele calde.",
+                "en": "Watch out for pedestrians crowding into the warm arcades."
+              }
+            },
+            {
+              "name": "Fort Rapitán",
+              "tip_5lang": {
+                "de": "Beenden Sie die Abfahrt, bevor es dunkel wird; Temperatursturz droht.",
+                "hu": "Fejezze be a leereszkedést sötétedés előtt; hirtelen lehűlés várható.",
+                "ro": "Terminați coborârea înainte de întuneric; urmează o scădere bruscă a temperaturii.",
+                "en": "Finish the descent before dark; a sudden drop in temperature is likely."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Verwenden Sie Winterreifen oder reduzieren Sie den Luftdruck für mehr Grip.",
+              "Die Abfahrt vom Fort Rapitán erfordert winddichte Kleidung.",
+              "Tageslicht endet abrupt gegen 17:15 Uhr; Beleuchtung ist Pflicht.",
+              "Hydrieren Sie sich auch bei Kälte; die trockene Bergluft entzieht Feuchtigkeit."
+            ],
+            "hu": [
+              "Használjon téli gumikat vagy csökkentse a keréknyomást a jobb tapadásért.",
+              "A Fort Rapitánról való leereszkedés szélálló ruházatot igényel.",
+              "A nappali fény 17:15 körül hirtelen ér véget; a világítás kötelező.",
+              "Hidegben is hidratáljon; a száraz hegyi levegő elszívja a nedvességet."
+            ],
+            "ro": [
+              "Folosiți anvelope de iarnă sau reduceți presiunea pentru aderență mai bună.",
+              "Coborârea de la Fort Rapitán necesită îmbrăcăminte rezistentă la vânt.",
+              "Lumina zilei se termină brusc în jur de 17:15; iluminarea este obligatorie.",
+              "Hidratați-vă chiar și pe frig; aerul uscat de munte deshidratează."
+            ],
+            "en": [
+              "Use winter tires or reduce tire pressure for more grip.",
+              "The descent from Fort Rapitán requires windproof clothing.",
+              "Daylight ends abruptly around 17:15; lighting is mandatory.",
+              "Stay hydrated even in the cold; dry mountain air removes moisture."
+            ]
+          }
+        }
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 12.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Fort Rapitán",
+            "hu": "Rapitán erőd",
+            "ro": "Fortul Rapitán",
+            "en": "Fort Rapitán"
+          },
+          "coords": [
+            -0.5355,
+            42.5855
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Leicht erreichbar mit dem Auto, toller Parkplatz mit Aussicht.",
+            "hu": "Autóval könnyen elérhető, nagyszerű parkoló kilátással.",
+            "ro": "Ușor accesibil cu mașina, parcare mare cu vedere.",
+            "en": "Easily accessible by car, great parking with a view."
+          }
+        },
+        {
+          "name": {
+            "de": "Zitadelle von Jaca",
+            "hu": "Jaca citadellája",
+            "ro": "Citadela din Jaca",
+            "en": "Citadel of Jaca"
+          },
+          "coords": [
+            -0.5525,
+            42.5722
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Parkplätze finden Sie direkt an den Stadtmauern.",
+            "hu": "Parkolóhelyeket közvetlenül a városfalaknál talál.",
+            "ro": "Găsiți locuri de parcare chiar lângă zidurile orașului.",
+            "en": "Parking spaces can be found directly by the city walls."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale & Diözesanmuseum",
+            "hu": "Katedrális és Múzeum",
+            "ro": "Catedrala și Muzeul",
+            "en": "Cathedral & Museum"
+          },
+          "coords": [
+            -0.5485,
+            42.5712
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Zentraler Standort, erkunden Sie den Rest zu Fuß.",
+            "hu": "Központi helyszín, a többit fedezze fel gyalog.",
+            "ro": "Locație centrală, explorați restul pe jos.",
+            "en": "Central location, explore the rest on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Ermita de Sarsa",
+            "hu": "Sarsa remetelak",
+            "ro": "Ermita de Sarsa",
+            "en": "Ermita de Sarsa"
+          },
+          "coords": [
+            -0.5385,
+            42.5585
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Kleine Kapelle am Südrand der Stadt.",
+            "hu": "Apró kápolna a város déli szélén.",
+            "ro": "Mică capelă la marginea de sud a orașului.",
+            "en": "Small chapel on the southern edge of town."
+          }
+        },
+        {
+          "name": {
+            "de": "Brücke San Miguel",
+            "hu": "San Miguel híd",
+            "ro": "Podul San Miguel",
+            "en": "San Miguel Bridge"
+          },
+          "coords": [
+            -0.5625,
+            42.5745
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "15:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Guter Fotostopp am Ende der Tour.",
+            "hu": "Jó fotómegálló a túra végén.",
+            "ro": "Un loc bun pentru fotografii la finalul turului.",
+            "en": "Good photo stop at the end of the tour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie mit einer Fahrt zum Fort Rapitán für einen Überblick über die Region. Danach steuern Sie die Zitadelle an, das Herz der Befestigungsanlagen.\n\nDer Mittag gehört der Altstadt. Parken Sie zentral und besuchen Sie die Kathedrale sowie das Museum mit seinen Schätzen.\n\nAm Nachmittag führt die Route zur ruhigen Ermita de Sarsa und schließlich zur beeindruckenden San Miguel Brücke.\n\nGenießen Sie die Flexibilität des Autos, um auch die Ziele am Stadtrand bequem zu erreichen.",
+        "hu": "Kezdje az utat a Rapitán erődhöz, hogy áttekintést kapjon a régióról. Ezután vegye az irányt a citadella felé, amely az erődítmények szíve.\n\nA délidő az óvárosé. Parkoljon le központilag, és látogassa meg a katedrálist, valamint a múzeumot kincseivel.\n\nDélután az út a csendes Sarsa remetelakhoz, végül pedig a lenyűgöző San Miguel hídhoz vezet.\n\nÉlvezze az autó nyújtotta rugalmasságot, hogy a város szélén lévő célpontokat is kényelmesen elérje.",
+        "ro": "Începeți cu o călătorie la Fortul Rapitán pentru o vedere de ansamblu asupra regiunii. Apoi îndreptați-vă spre Citadelă, inima fortificațiilor.\n\nPrânzul aparține orașului vechi. Parcați central și vizitați catedrala și muzeul cu comorile sale.\n\nDupă-amiaza, traseul duce la liniștita Ermita de Sarsa și, în final, la impresionantul pod San Miguel.\n\nBucurați-vă de flexibilitatea mașinii pentru a ajunge confortabil la destinațiile de la marginea orașului.",
+        "en": "Start with a drive to Fort Rapitán for an overview of the region. Then head for the Citadel, the heart of the fortifications.\n\nMidday belongs to the old town. Park centrally and visit the cathedral and the museum with its treasures.\n\nIn the afternoon, the route leads to the quiet Ermita de Sarsa and finally to the impressive San Miguel Bridge.\n\nEnjoy the flexibility of the car to comfortably reach the destinations on the outskirts."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Boliches de Embún",
+            "tip": "Hervorragende lokale weiße Bohnen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Boliches de Embún",
+            "tip": "Kiváló helyi fehér bab."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Boliches de Embún",
+            "tip": "Fasole albă locală excelentă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Boliches de Embún",
+            "tip": "Excellent local white beans."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Rapitán Aussichtspunkt",
+            "tip": "Bester Sonnenuntergang über Jaca.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rapitán kilátópont",
+            "tip": "A legjobb naplemente Jaca felett.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Belvederea Rapitán",
+            "tip": "Cel mai frumos apus peste Jaca.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Rapitán Viewpoint",
+            "tip": "Best sunset over Jaca.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Supermarkt-Lokalecke",
+            "tip": "Kaufen Sie Somontano-Weine."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szupermarket helyi sarka",
+            "tip": "Vásároljon Somontano borokat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Raionul de produse locale",
+            "tip": "Cumpărați vinuri Somontano."
+          }
+        ],
+        "en": [
+          {
+            "name": "Supermarket local corner",
+            "tip": "Buy Somontano wines."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parkplätze 'Zona Azul' sind kostenpflichtig.",
+          "Die Straße zum Fort Rapitán ist eng und kurvig.",
+          "Ein Ausflug zum Kloster San Juan de la Peña (25km) ist mit dem Auto möglich.",
+          "In Jaca gibt es mehrere große Gratis-Parkplätze am Rand.",
+          "Vermeiden Sie das Fahren in den engsten Gassen der Altstadt."
+        ],
+        "hu": [
+          "A 'Zona Azul' parkolók fizetősek.",
+          "A Rapitán erődhöz vezető út szűk és kanyargós.",
+          "Egy kirándulás a San Juan de la Peña kolostorhoz (25 km) autóval lehetséges.",
+          "Jacában több nagy ingyenes parkoló van a széleken.",
+          "Kerülje az autózást az óváros legszűkebb utcáiban."
+        ],
+        "ro": [
+          "Parcările 'Zona Azul' sunt cu plată.",
+          "Drumul spre Fortul Rapitán este îngust și sinuos.",
+          "O excursie la mănăstirea San Juan de la Peña (25 km) este posibilă cu mașina.",
+          "În Jaca există mai multe parcări gratuite mari la periferie.",
+          "Evitați condusul pe străzile cele mai înguste ale centrului vechi."
+        ],
+        "en": [
+          "Parking in 'Zona Azul' is paid.",
+          "The road to Fort Rapitán is narrow and winding.",
+          "A trip to San Juan de la Peña Monastery (25km) is possible by car.",
+          "In Jaca there are several large free parking lots on the outskirts.",
+          "Avoid driving in the narrowest streets of the old town."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Starten Sie mit einer Fahrt zum Fort Rapitán für einen Überblick über die Region. Danach steuern Sie die Zitadelle an, das Herz der Befestigungsanlagen.\n\nDer Mittag gehört der Altstadt. Parken Sie zentral und besuchen Sie die Kathedrale sowie das Museum mit seinen Schätzen.\n\nAm Nachmittag führt die Route zur ruhigen Ermita de Sarsa und schließlich zur beeindruckenden San Miguel Brücke.\n\nGenießen Sie die Flexibilität des Autos, um auch die Ziele am Stadtrand bequem zu erreichen.",
+            "hu": "Kezdje az utat a Rapitán erődhöz, hogy áttekintést kapjon a régióról. Ezután vegye az irányt a citadella felé, amely az erődítmények szíve.\n\nA délidő az óvárosé. Parkoljon le központilag, és látogassa meg a katedrálist, valamint a múzeumot kincseivel.\n\nDélután az út a csendes Sarsa remetelakhoz, végül pedig a lenyűgöző San Miguel hídhoz vezet.\n\nÉlvezze az autó nyújtotta rugalmasságot, hogy a város szélén lévő célpontokat is kényelmesen elérje.",
+            "ro": "Începeți cu o călătorie la Fortul Rapitán pentru o vedere de ansamblu asupra regiunii. Apoi îndreptați-vă spre Citadelă, inima fortificațiilor.\n\nPrânzul aparține orașului vechi. Parcați central și vizitați catedrala și muzeul cu comorile sale.\n\nDupă-amiaza, traseul duce la liniștita Ermita de Sarsa și, în final, la impresionantul pod San Miguel.\n\nBucurați-vă de flexibilitatea mașinii pentru a ajunge confortabil la destinațiile de la marginea orașului.",
+            "en": "Start with a drive to Fort Rapitán for an overview of the region. Then head for the Citadel, the heart of the fortifications.\n\nMidday belongs to the old town. Park centrally and visit the cathedral and the museum with its treasures.\n\nIn the afternoon, the route leads to the quiet Ermita de Sarsa and finally to the impressive San Miguel Bridge.\n\nEnjoy the flexibility of the car to comfortably reach the destinations on the outskirts."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Fort Rapitán",
+                "hu": "Rapitán erőd",
+                "ro": "Fortul Rapitán",
+                "en": "Fort Rapitán"
+              },
+              "tip_5lang": {
+                "de": "Leicht erreichbar mit dem Auto, toller Parkplatz mit Aussicht.",
+                "hu": "Autóval könnyen elérhető, nagyszerű parkoló kilátással.",
+                "ro": "Ușor accesibil cu mașina, parcare mare cu vedere.",
+                "en": "Easily accessible by car, great parking with a view."
+              }
+            },
+            {
+              "name": {
+                "de": "Zitadelle von Jaca",
+                "hu": "Jaca citadellája",
+                "ro": "Citadela din Jaca",
+                "en": "Citadel of Jaca"
+              },
+              "tip_5lang": {
+                "de": "Parkplätze finden Sie direkt an den Stadtmauern.",
+                "hu": "Parkolóhelyeket közvetlenül a városfalaknál talál.",
+                "ro": "Găsiți locuri de parcare chiar lângă zidurile orașului.",
+                "en": "Parking spaces can be found directly by the city walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Kathedrale & Diözesanmuseum",
+                "hu": "Katedrális és Múzeum",
+                "ro": "Catedrala și Muzeul",
+                "en": "Cathedral & Museum"
+              },
+              "tip_5lang": {
+                "de": "Zentraler Standort, erkunden Sie den Rest zu Fuß.",
+                "hu": "Központi helyszín, a többit fedezze fel gyalog.",
+                "ro": "Locație centrală, explorați restul pe jos.",
+                "en": "Central location, explore the rest on foot."
+              }
+            },
+            {
+              "name": {
+                "de": "Ermita de Sarsa",
+                "hu": "Sarsa remetelak",
+                "ro": "Ermita de Sarsa",
+                "en": "Ermita de Sarsa"
+              },
+              "tip_5lang": {
+                "de": "Kleine Kapelle am Südrand der Stadt.",
+                "hu": "Apró kápolna a város déli szélén.",
+                "ro": "Mică capelă la marginea de sud a orașului.",
+                "en": "Small chapel on the southern edge of town."
+              }
+            },
+            {
+              "name": {
+                "de": "Brücke San Miguel",
+                "hu": "San Miguel híd",
+                "ro": "Podul San Miguel",
+                "en": "San Miguel Bridge"
+              },
+              "tip_5lang": {
+                "de": "Guter Fotostopp am Ende der Tour.",
+                "hu": "Jó fotómegálló a túra végén.",
+                "ro": "Un loc bun pentru fotografii la finalul turului.",
+                "en": "Good photo stop at the end of the tour."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Boliches de Embún",
+                "tip": "Hervorragende lokale weiße Bohnen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Boliches de Embún",
+                "tip": "Kiváló helyi fehér bab."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Boliches de Embún",
+                "tip": "Fasole albă locală excelentă."
+              }
+            ],
+            "en": [
+              {
+                "name": "Boliches de Embún",
+                "tip": "Excellent local white beans."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Rapitán Aussichtspunkt",
+                "tip": "Bester Sonnenuntergang über Jaca.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Rapitán kilátópont",
+                "tip": "A legjobb naplemente Jaca felett.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Belvederea Rapitán",
+                "tip": "Cel mai frumos apus peste Jaca.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Rapitán Viewpoint",
+                "tip": "Best sunset over Jaca.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Supermarkt-Lokalecke",
+                "tip": "Kaufen Sie Somontano-Weine."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Szupermarket helyi sarka",
+                "tip": "Vásároljon Somontano borokat."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Raionul de produse locale",
+                "tip": "Cumpărați vinuri Somontano."
+              }
+            ],
+            "en": [
+              {
+                "name": "Supermarket local corner",
+                "tip": "Buy Somontano wines."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Parkplätze 'Zona Azul' sind kostenpflichtig.",
+              "Die Straße zum Fort Rapitán ist eng und kurvig.",
+              "Ein Ausflug zum Kloster San Juan de la Peña (25km) ist mit dem Auto möglich.",
+              "In Jaca gibt es mehrere große Gratis-Parkplätze am Rand.",
+              "Vermeiden Sie das Fahren in den engsten Gassen der Altstadt."
+            ],
+            "hu": [
+              "A 'Zona Azul' parkolók fizetősek.",
+              "A Rapitán erődhöz vezető út szűk és kanyargós.",
+              "Egy kirándulás a San Juan de la Peña kolostorhoz (25 km) autóval lehetséges.",
+              "Jacában több nagy ingyenes parkoló van a széleken.",
+              "Kerülje az autózást az óváros legszűkebb utcáiban."
+            ],
+            "ro": [
+              "Parcările 'Zona Azul' sunt cu plată.",
+              "Drumul spre Fortul Rapitán este îngust și sinuos.",
+              "O excursie la mănăstirea San Juan de la Peña (25 km) este posibilă cu mașina.",
+              "În Jaca există mai multe parcări gratuite mari la periferie.",
+              "Evitați condusul pe străzile cele mai înguste ale centrului vechi."
+            ],
+            "en": [
+              "Parking in 'Zona Azul' is paid.",
+              "The road to Fort Rapitán is narrow and winding.",
+              "A trip to San Juan de la Peña Monastery (25km) is possible by car.",
+              "In Jaca there are several large free parking lots on the outskirts.",
+              "Avoid driving in the narrowest streets of the old town."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist Fort Rapitán auch bei Regen sicher erreichbar und bietet einen dramatischen Blick auf die Wolken über Jaca. Die Zitadelle bietet danach bequeme Parkmöglichkeiten in der Nähe.\n\nMittags ist die Kathedrale und das Museum ein Muss, da Sie dort lange Zeit im Trockenen verbringen können. Die nahegelegenen Parkhäuser machen den Zugang einfach.\n\nAm Nachmittag führt die Fahrt zur Ermita de Sarsa, wo der Regen der romanischen Ruine eine melancholische Schönheit verleiht.\n\nDer Tag endet an der San-Miguel-Brücke. Bleiben Sie für den ersten Ausblick im Auto, bevor Sie für ein kurzes Foto unter dem Regenschirm aussteigen.",
+            "hu": "Autóval a Fort Rapitán esőben is biztonságosan elérhető, és drámai kilátást nyújt a Jaka feletti felhőkre. A Citadella közelében kényelmes parkolási lehetőség van.\n\nDélben a székesegyház és a múzeum kötelező program, mivel hosszú időt tölthet ott szárazon. A közeli parkolóházak megkönnyítik a bejutást.\n\nDélután az út az Ermita de Sarsához vezet, ahol az eső melankolikus szépséget kölcsönöz a román kori romnak.\n\nA nap a San Miguel-hídnál zárul. Az első kilátáshoz maradjon az autóban, mielőtt egy rövid fotó erejéig kiszállna az esernyő alatt.",
+            "ro": "Cu mașina, Fort Rapitán este accesibil în siguranță chiar și pe ploaie, oferind o vedere dramatică asupra norilor deasupra orașului Jaca. Cetatea oferă apoi opțiuni de parcare convenabile în apropiere.\n\nLa prânz, Catedrala și Muzeul sunt obligatorii, deoarece puteți petrece mult timp la uscat. Parcarea subterană din apropiere facilitează accesul.\n\nDupă-amiaza, drumul duce la Ermita de Sarsa, unde ploaia conferă o frumusețe melancolică ruinei romanice.\n\nZiua se încheie la Podul San Miguel. Rămâneți în mașină pentru prima vedere, înainte de a ieși pentru o fotografie scurtă sub umbrelă.",
+            "en": "By car, Fort Rapitán is safely accessible even in the rain, offering a dramatic view of the clouds over Jaca. The Citadel offers convenient parking options nearby.\n\nAt noon, the Cathedral and Museum are a must, as you can spend a long time in the dry. Nearby parking garages make access easy.\n\nIn the afternoon, the drive leads to Ermita de Sarsa, where the rain lends a melancholic beauty to the Romanesque ruin.\n\nThe day concludes at San Miguel Bridge. Stay in the car for the first view before stepping out for a quick photo under an umbrella."
+          },
+          "stops": [
+            {
+              "name": "Fort Rapitán",
+              "tip_5lang": {
+                "de": "Gute asphaltierte Straße, aber bei Nebel vorsichtig fahren.",
+                "hu": "Jó aszfaltozott út, de ködben vezessen óvatosan.",
+                "ro": "Drum asfaltat bun, dar conduceți cu atenție pe ceață.",
+                "en": "Good paved road, but drive carefully in fog."
+              }
+            },
+            {
+              "name": "Citadel of Jaca",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz direkt vor dem Eingang.",
+                "hu": "Használja a közvetlenül a bejárat előtti parkolót.",
+                "ro": "Folosiți parcarea direct din fața intrării.",
+                "en": "Use the parking lot right in front of the entrance."
+              }
+            },
+            {
+              "name": "Cathedral & Museum",
+              "tip_5lang": {
+                "de": "Parkhaus 'Plaza Biscós' ist nur 2 Minuten zu Fuß entfernt.",
+                "hu": "A 'Plaza Biscós' parkolóház mindössze 2 perc sétára található.",
+                "ro": "Parcarea 'Plaza Biscós' este la doar 2 minute de mers pe jos.",
+                "en": "The 'Plaza Biscós' parking garage is just a 2-minute walk away."
+              }
+            },
+            {
+              "name": "Ermita de Sarsa",
+              "tip_5lang": {
+                "de": "Der Weg kann matschig sein; parken Sie auf befestigtem Grund.",
+                "hu": "Az út saras lehet; parkoljon szilárd burkolaton.",
+                "ro": "Drumul poate fi noroios; parcați pe teren consolidat.",
+                "en": "The path may be muddy; park on firm ground."
+              }
+            },
+            {
+              "name": "San Miguel Bridge",
+              "tip_5lang": {
+                "de": "Vom Auto aus hat man einen guten Blick, ohne nass zu werden.",
+                "hu": "Az autóból jó kilátás nyílik anélkül, hogy elázna.",
+                "ro": "Din mașină aveți o vedere bună fără a vă uda.",
+                "en": "You get a good view from the car without getting wet."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Parkhäuser im Zentrum, um trockenen Fußes zu den Arkaden zu gelangen.",
+              "Achten Sie auf Aquaplaning auf der Straße zum Fort Rapitán.",
+              "Halten Sie einen Regenschirm im Auto für die kurzen Wege zu den Sehenswürdigkeiten bereit.",
+              "Die Sicht kann in den Bergen bei Regen schnell abnehmen; Licht an."
+            ],
+            "hu": [
+              "Használja a központi parkolóházakat, hogy száraz lábbal érje el az árkádokat.",
+              "Ügyeljen a vízenfutásra (aquaplaning) a Fort Rapitán felé vezető úton.",
+              "Tartson esernyőt az autóban a látnivalókhoz vezető rövid sétákhoz.",
+              "A látótávolság esőben gyorsan csökkenhet a hegyekben; kapcsolja be a világítást."
+            ],
+            "ro": [
+              "Folosiți parcările subterane din centru pentru a ajunge la arcade fără a vă uda.",
+              "Atenție la acvaplanare pe drumul spre Fort Rapitán.",
+              "Aveți o umbrelă în mașină pentru drumurile scurte către obiective.",
+              "Vizibilitatea poate scădea rapid la munte pe ploaie; aprindeți farurile."
+            ],
+            "en": [
+              "Use the central parking garages to reach the arcades dry-shod.",
+              "Watch out for aquaplaning on the road to Fort Rapitán.",
+              "Keep an umbrella in the car for the short walks to the sights.",
+              "Visibility can decrease quickly in the mountains during rain; keep lights on."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterfahrten zum Fort Rapitán bieten spektakuläre, schneebedeckte Aussichten, erfordern aber oft Winterausrüstung. Die Zitadelle von Jaca ist im Winter leicht erreichbar und wirkt mit den nahen Bergen wie eine Postkarte.\n\nMittags parken Sie im beheizten Parkhaus, um die Kathedrale und das Museum zu besuchen, wo die Kälte draußen bleibt.\n\nNachmittags führt die Fahrt zur Ermita de Sarsa. Die klare Winterluft macht die Details der romanischen Steine besonders scharf sichtbar.\n\nDer Tag endet an der San-Miguel-Brücke. Bei Sonnenuntergang leuchten die Gipfel im Hintergrund in intensivem Alpenglühen, bevor Sie zurück in die gemütliche Stadt fahren.",
+            "hu": "A téli autózás a Fort Rapitánhoz látványos, havas kilátást nyújt, de gyakran téli felszerelést igényel. A Citadella télen is könnyen elérhető, és a közeli hegyekkel olyan, mint egy képeslap.\n\nDélben parkoljon fűtött parkolóházban, hogy meglátogassa a székesegyházat és a múzeumot, ahol a hideg kívül marad.\n\nDélután az út az Ermita de Sarsához vezet. A tiszta téli levegő különösen élessé teszi a román kori kövek részleteit.\n\nA nap a San Miguel-hídnál zárul. Naplementekor a háttérben lévő csúcsok intenzív alpesi fényben ragyognak, mielőtt visszatérne a hangulatos városba.",
+            "ro": "Drumurile de iarnă către Fort Rapitán oferă vederi spectaculoase înzăpezite, dar necesită adesea echipament de iarnă. Cetatea din Jaca este ușor accesibilă iarna și arată ca o carte poștală cu munții din apropiere.\n\nLa prânz, parcați într-o parcare acoperită pentru a vizita Catedrala și Muzeul, unde frigul rămâne afară.\n\nDupă-amiaza, drumul duce la Ermita de Sarsa. Aerul limpede de iarnă face detaliile pietrelor romanice deosebit de vizibile.\n\nZiua se încheie la Podul San Miguel. La apus, vârfurile din fundal strălucesc într-o lumină alpină intensă, înainte de a vă întoarce în orașul primitor.",
+            "en": "Winter drives to Fort Rapitán offer spectacular snowy views but often require winter equipment. The Citadel is easily accessible in winter and looks like a postcard with the nearby mountains.\n\nAt noon, park in a covered garage to visit the Cathedral and Museum, where the cold stays outside.\n\nIn the afternoon, the drive leads to Ermita de Sarsa. The clear winter air makes the details of the Romanesque stones particularly sharp.\n\nThe day concludes at San Miguel Bridge. At sunset, the peaks in the background glow with intense alpine light before you drive back into the cozy town."
+          },
+          "stops": [
+            {
+              "name": "Fort Rapitán",
+              "tip_5lang": {
+                "de": "Winterreifen oder Ketten sind bei Schneefall absolut notwendig.",
+                "hu": "Hóesésben a téli gumi vagy a hólánc elengedhetetlen.",
+                "ro": "Anvelopele de iarnă sau lanțurile sunt absolut necesare în caz de ninsoare.",
+                "en": "Winter tires or chains are absolutely necessary during snowfall."
+              }
+            },
+            {
+              "name": "Citadel of Jaca",
+              "tip_5lang": {
+                "de": "Vorsicht beim Aussteigen auf eventuell gefrorenem Asphalt.",
+                "hu": "Kiszálláskor vigyázzon az esetlegesen fagyott aszfaltra.",
+                "ro": "Atenție la coborârea din mașină pe asfaltul eventual înghețat.",
+                "en": "Be careful when getting out on potentially frozen asphalt."
+              }
+            },
+            {
+              "name": "Cathedral & Museum",
+              "tip_5lang": {
+                "de": "Die Parkhäuser sind meist frostfrei und sicher.",
+                "hu": "A parkolóházak többnyire fagymentesek és biztonságosak.",
+                "ro": "Parcările sunt de obicei ferite de îngheț și sigure.",
+                "en": "Parking garages are usually frost-free and safe."
+              }
+            },
+            {
+              "name": "Ermita de Sarsa",
+              "tip_5lang": {
+                "de": "Die Zufahrt kann bei Eis glatt sein; niedertourig fahren.",
+                "hu": "A bejárat jégen csúszós lehet; alacsony fordulatszámon vezessen.",
+                "ro": "Accesul poate fi alunecos pe gheață; conduceți la turații joase.",
+                "en": "Access can be slippery on ice; drive at low revs."
+              }
+            },
+            {
+              "name": "San Miguel Bridge",
+              "tip_5lang": {
+                "de": "Der Fotostopp ist kurz, da es hier sehr windig und kalt sein kann.",
+                "hu": "A fotómegálló rövid, mivel itt nagyon szeles és hideg lehet.",
+                "ro": "Oprirea foto este scurtă, deoarece poate fi foarte vântos și frig aici.",
+                "en": "The photo stop is short, as it can be very windy and cold here."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Wetterbericht für die Passstraßen, falls Sie Jaca verlassen.",
+              "Halten Sie Decken und ausreichend Kraftstoff im Auto bereit.",
+              "Die Schattenseiten der Berge können auch tagsüber vereist bleiben.",
+              "Scheibenwischer und Frostschutzmittel sind bei Bergtouren im Winter kritisch."
+            ],
+            "hu": [
+              "Ellenőrizze az időjárás-jelentést a hágókon, ha elhagyja Jakát.",
+              "Tartson takarót és elegendő üzemanyagot az autóban.",
+              "A hegyek árnyékos oldalai napközben is jegesek maradhatnak.",
+              "A téli hegyi túrákon kritikus az ablaktörlő és a fagyálló állapota."
+            ],
+            "ro": [
+              "Verificați prognoza meteo pentru trecătoare dacă părăsiți Jaca.",
+              "Aveți pături și suficient combustibil în mașină.",
+              "Versanții umbriți ai munților pot rămâne înghețați și în timpul zilei.",
+              "Ștergătoarele și antigelul sunt critice pentru turele montane iarna."
+            ],
+            "en": [
+              "Check the weather report for mountain passes if you leave Jaca.",
+              "Keep blankets and sufficient fuel in the car.",
+              "Shaded sides of the mountains can remain icy even during the day.",
+              "Wipers and antifreeze are critical for winter mountain tours."
+            ]
+          }
+        }
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 5.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Bahnhof Jaca",
+            "hu": "Jaca vasútállomás",
+            "ro": "Gara Jaca",
+            "en": "Jaca Railway Station"
+          },
+          "coords": [
+            -0.5365,
+            42.5655
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Schönes historisches Bahnhofsgebäude.",
+            "hu": "Szép történelmi állomásépület.",
+            "ro": "Clădire de gară istorică frumoasă.",
+            "en": "Beautiful historical station building."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale St. Peter",
+            "hu": "Szent Péter katedrális",
+            "ro": "Catedrala Sfântul Petru",
+            "en": "St. Peter's Cathedral"
+          },
+          "coords": [
+            -0.5485,
+            42.5712
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Mit dem Stadtbus in wenigen Minuten erreichbar.",
+            "hu": "Városi busszal néhány perc alatt elérhető.",
+            "ro": "Accesibil cu autobuzul urban în câteva minute.",
+            "en": "Accessible by city bus in a few minutes."
+          }
+        },
+        {
+          "name": {
+            "de": "Zitadelle von Jaca",
+            "hu": "Jaca citadellája",
+            "ro": "Citadela din Jaca",
+            "en": "Citadel of Jaca"
+          },
+          "coords": [
+            -0.5525,
+            42.5722
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Nur ein kurzer Spaziergang von der Kathedrale.",
+            "hu": "Csak egy rövid séta a katedrálistól.",
+            "ro": "Doar o scurtă plimbare de la catedrală.",
+            "en": "Only a short walk from the cathedral."
+          }
+        },
+        {
+          "name": {
+            "de": "Paseo de la Constitución",
+            "hu": "Paseo de la Constitución",
+            "ro": "Paseo de la Constitución",
+            "en": "Paseo de la Constitución"
+          },
+          "coords": [
+            -0.551,
+            42.5695
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bushaltestellen befinden sich direkt an der Promenade.",
+            "hu": "Buszmegállók találhatók közvetlenül a sétánynál.",
+            "ro": "Stațiile de autobuz sunt chiar lângă promenadă.",
+            "en": "Bus stops are located directly on the promenade."
+          }
+        },
+        {
+          "name": {
+            "de": "Eispalast von Jaca",
+            "hu": "Jaca jégpalota",
+            "ro": "Palatul de Gheață din Jaca",
+            "en": "Jaca Ice Palace"
+          },
+          "coords": [
+            -0.5425,
+            42.5655
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "15:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Nehmen Sie die Linie 1 des Stadtbusses.",
+            "hu": "Használja a helyi busz 1-es vonalát.",
+            "ro": "Luați linia 1 a autobuzului urban.",
+            "en": "Take line 1 of the city bus."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Vom Bahnhof bringt Sie der Stadtbus schnell zur Kathedrale. Genießen Sie den Vormittag mit romanischer Kunst und Geschichte.\n\nNach einem kurzen Spaziergang erreichen Sie die Zitadelle. Mittags finden Sie in der Nähe zahlreiche Möglichkeiten für eine kulinarische Pause.\n\nAm Nachmittag entspannen Sie auf dem Paseo de la Constitución, bevor der Bus Sie zum modernen Eispalast bringt.\n\nDie Tour endet am Eispalast, von wo aus Sie bequem zurück zum Bahnhof oder in Ihr Hotel gelangen.",
+        "hu": "Az állomástól a városi busz gyorsan a katedrálishoz viszi. Élvezze a délelőttöt román művészettel és történelemmel.\n\nEgy rövid séta után eléri a citadellát. Délidőben a közelben számos lehetőség kínálkozik egy gasztronómiai szünetre.\n\nDélután pihenjen a Paseo de la Constitución-on, mielőtt a busz a modern Jégpalotához viszi.\n\nA túra a Jégpalotánál ér véget, ahonnan kényelmesen visszatérhet az állomásra vagy a szállodájába.",
+        "ro": "De la gară, autobuzul urban vă duce rapid la catedrală. Bucurați-vă de dimineață cu artă romanică și istorie.\n\nDupă o scurtă plimbare, ajungeți la Citadelă. La prânz, găsiți numeroase opțiuni pentru o pauză culinară în apropiere.\n\nDupă-amiaza, relaxați-vă pe Paseo de la Constitución înainte ca autobuzul să vă ducă la modernul Palat de Gheață.\n\nTurul se încheie la Palatul de Gheață, de unde puteți reveni confortabil la gară sau la hotel.",
+        "en": "From the station, the city bus takes you quickly to the cathedral. Enjoy the morning with Romanesque art and history.\n\nAfter a short walk, you reach the Citadel. At midday, you'll find numerous options for a culinary break nearby.\n\nIn the afternoon, relax on Paseo de la Constitución before the bus takes you to the modern Ice Palace.\n\nThe tour ends at the Ice Palace, from where you can easily get back to the station or your hotel."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Tapas am Plaza del Pilar",
+            "tip": "Beliebter Treffpunkt für Einheimische."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tapas a Plaza del Pilar-on",
+            "tip": "A helyiek kedvelt találkozóhelye."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tapas în Plaza del Pilar",
+            "tip": "Loc de întâlnire popular pentru localnici."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tapas at Plaza del Pilar",
+            "tip": "Popular meeting spot for locals."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Konstitution-Park Bänke",
+            "tip": "Schatten unter alten Bäumen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Alkotmány-park padjai",
+            "tip": "Árnyék az öreg fák alatt.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Băncile din Parcul Constituției",
+            "tip": "Umbră sub copaci bătrâni.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Constitution Park benches",
+            "tip": "Shade under old trees.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bahnhofs-Kiosk",
+            "tip": "Karten und Wanderführer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Állomási kioszk",
+            "tip": "Térképek és túrakalauzok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșcul din gară",
+            "tip": "Hărți și ghiduri de drumeție."
+          }
+        ],
+        "en": [
+          {
+            "name": "Station Kiosk",
+            "tip": "Maps and hiking guides."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Der Stadtbus 'Bus Jaca' ist zuverlässig und günstig.",
+          "Die Linien verbinden Bahnhof, Zentrum und Außenbezirke.",
+          "Kaufen Sie Einzelfahrscheine direkt beim Fahrer.",
+          "Die Haltestellen sind gut beschildert.",
+          "Am Wochenende fahren weniger Busse."
+        ],
+        "hu": [
+          "A 'Bus Jaca' városi busz megbízható és olcsó.",
+          "A vonalak összekötik az állomást, a központot és a külvárosokat.",
+          "Vásároljon jegyet közvetlenül a sofőrnél.",
+          "A megállók jól ki vannak táblázva.",
+          "Hétvégén kevesebb busz jár."
+        ],
+        "ro": [
+          "Autobuzul urban 'Bus Jaca' este de încredere și ieftin.",
+          "Liniile conectează gara, centrul și zonele periferice.",
+          "Cumpărați bilete direct de la șofer.",
+          "Stațiile sunt bine semnalizate.",
+          "În weekend circulă mai puține autobuze."
+        ],
+        "en": [
+          "The 'Bus Jaca' city bus is reliable and cheap.",
+          "Lines connect the station, center, and outskirts.",
+          "Buy single tickets directly from the driver.",
+          "Stops are well signposted.",
+          "Fewer buses run on weekends."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Vom Bahnhof bringt Sie der Stadtbus schnell zur Kathedrale. Genießen Sie den Vormittag mit romanischer Kunst und Geschichte.\n\nNach einem kurzen Spaziergang erreichen Sie die Zitadelle. Mittags finden Sie in der Nähe zahlreiche Möglichkeiten für eine kulinarische Pause.\n\nAm Nachmittag entspannen Sie auf dem Paseo de la Constitución, bevor der Bus Sie zum modernen Eispalast bringt.\n\nDie Tour endet am Eispalast, von wo aus Sie bequem zurück zum Bahnhof oder in Ihr Hotel gelangen.",
+            "hu": "Az állomástól a városi busz gyorsan a katedrálishoz viszi. Élvezze a délelőttöt román művészettel és történelemmel.\n\nEgy rövid séta után eléri a citadellát. Délidőben a közelben számos lehetőség kínálkozik egy gasztronómiai szünetre.\n\nDélután pihenjen a Paseo de la Constitución-on, mielőtt a busz a modern Jégpalotához viszi.\n\nA túra a Jégpalotánál ér véget, ahonnan kényelmesen visszatérhet az állomásra vagy a szállodájába.",
+            "ro": "De la gară, autobuzul urban vă duce rapid la catedrală. Bucurați-vă de dimineață cu artă romanică și istorie.\n\nDupă o scurtă plimbare, ajungeți la Citadelă. La prânz, găsiți numeroase opțiuni pentru o pauză culinară în apropiere.\n\nDupă-amiaza, relaxați-vă pe Paseo de la Constitución înainte ca autobuzul să vă ducă la modernul Palat de Gheață.\n\nTurul se încheie la Palatul de Gheață, de unde puteți reveni confortabil la gară sau la hotel.",
+            "en": "From the station, the city bus takes you quickly to the cathedral. Enjoy the morning with Romanesque art and history.\n\nAfter a short walk, you reach the Citadel. At midday, you'll find numerous options for a culinary break nearby.\n\nIn the afternoon, relax on Paseo de la Constitución before the bus takes you to the modern Ice Palace.\n\nThe tour ends at the Ice Palace, from where you can easily get back to the station or your hotel."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bahnhof Jaca",
+                "hu": "Jaca vasútállomás",
+                "ro": "Gara Jaca",
+                "en": "Jaca Railway Station"
+              },
+              "tip_5lang": {
+                "de": "Schönes historisches Bahnhofsgebäude.",
+                "hu": "Szép történelmi állomásépület.",
+                "ro": "Clădire de gară istorică frumoasă.",
+                "en": "Beautiful historical station building."
+              }
+            },
+            {
+              "name": {
+                "de": "Kathedrale St. Peter",
+                "hu": "Szent Péter katedrális",
+                "ro": "Catedrala Sfântul Petru",
+                "en": "St. Peter's Cathedral"
+              },
+              "tip_5lang": {
+                "de": "Mit dem Stadtbus in wenigen Minuten erreichbar.",
+                "hu": "Városi busszal néhány perc alatt elérhető.",
+                "ro": "Accesibil cu autobuzul urban în câteva minute.",
+                "en": "Accessible by city bus in a few minutes."
+              }
+            },
+            {
+              "name": {
+                "de": "Zitadelle von Jaca",
+                "hu": "Jaca citadellája",
+                "ro": "Citadela din Jaca",
+                "en": "Citadel of Jaca"
+              },
+              "tip_5lang": {
+                "de": "Nur ein kurzer Spaziergang von der Kathedrale.",
+                "hu": "Csak egy rövid séta a katedrálistól.",
+                "ro": "Doar o scurtă plimbare de la catedrală.",
+                "en": "Only a short walk from the cathedral."
+              }
+            },
+            {
+              "name": {
+                "de": "Paseo de la Constitución",
+                "hu": "Paseo de la Constitución",
+                "ro": "Paseo de la Constitución",
+                "en": "Paseo de la Constitución"
+              },
+              "tip_5lang": {
+                "de": "Bushaltestellen befinden sich direkt an der Promenade.",
+                "hu": "Buszmegállók találhatók közvetlenül a sétánynál.",
+                "ro": "Stațiile de autobuz sunt chiar lângă promenadă.",
+                "en": "Bus stops are located directly on the promenade."
+              }
+            },
+            {
+              "name": {
+                "de": "Eispalast von Jaca",
+                "hu": "Jaca jégpalota",
+                "ro": "Palatul de Gheață din Jaca",
+                "en": "Jaca Ice Palace"
+              },
+              "tip_5lang": {
+                "de": "Nehmen Sie die Linie 1 des Stadtbusses.",
+                "hu": "Használja a helyi busz 1-es vonalát.",
+                "ro": "Luați linia 1 a autobuzului urban.",
+                "en": "Take line 1 of the city bus."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Tapas am Plaza del Pilar",
+                "tip": "Beliebter Treffpunkt für Einheimische."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Tapas a Plaza del Pilar-on",
+                "tip": "A helyiek kedvelt találkozóhelye."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Tapas în Plaza del Pilar",
+                "tip": "Loc de întâlnire popular pentru localnici."
+              }
+            ],
+            "en": [
+              {
+                "name": "Tapas at Plaza del Pilar",
+                "tip": "Popular meeting spot for locals."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Konstitution-Park Bänke",
+                "tip": "Schatten unter alten Bäumen.",
+                "emoji": "🍃"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Alkotmány-park padjai",
+                "tip": "Árnyék az öreg fák alatt.",
+                "emoji": "🍃"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Băncile din Parcul Constituției",
+                "tip": "Umbră sub copaci bătrâni.",
+                "emoji": "🍃"
+              }
+            ],
+            "en": [
+              {
+                "name": "Constitution Park benches",
+                "tip": "Shade under old trees.",
+                "emoji": "🍃"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Bahnhofs-Kiosk",
+                "tip": "Karten und Wanderführer."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Állomási kioszk",
+                "tip": "Térképek és túrakalauzok."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Chioșcul din gară",
+                "tip": "Hărți și ghiduri de drumeție."
+              }
+            ],
+            "en": [
+              {
+                "name": "Station Kiosk",
+                "tip": "Maps and hiking guides."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Der Stadtbus 'Bus Jaca' ist zuverlässig und günstig.",
+              "Die Linien verbinden Bahnhof, Zentrum und Außenbezirke.",
+              "Kaufen Sie Einzelfahrscheine direkt beim Fahrer.",
+              "Die Haltestellen sind gut beschildert.",
+              "Am Wochenende fahren weniger Busse."
+            ],
+            "hu": [
+              "A 'Bus Jaca' városi busz megbízható és olcsó.",
+              "A vonalak összekötik az állomást, a központot és a külvárosokat.",
+              "Vásároljon jegyet közvetlenül a sofőrnél.",
+              "A megállók jól ki vannak táblázva.",
+              "Hétvégén kevesebb busz jár."
+            ],
+            "ro": [
+              "Autobuzul urban 'Bus Jaca' este de încredere și ieftin.",
+              "Liniile conectează gara, centrul și zonele periferice.",
+              "Cumpărați bilete direct de la șofer.",
+              "Stațiile sunt bine semnalizate.",
+              "În weekend circulă mai puține autobuze."
+            ],
+            "en": [
+              "The 'Bus Jaca' city bus is reliable and cheap.",
+              "Lines connect the station, center, and outskirts.",
+              "Buy single tickets directly from the driver.",
+              "Stops are well signposted.",
+              "Fewer buses run on weekends."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie den Bahnhof von Jaca als Startpunkt, wo Sie im Trockenen auf den Bus warten können. Die Kathedrale ist vom Zentrum aus leicht erreichbar, wobei die Arkaden den Weg schützen.\n\nMittags bietet die Zitadelle Ausstellungen, die perfekt für Regentage geeignet sind. Die Busverbindungen bringen Sie nah an die Eingänge.\n\nNachmittags ist der Paseo de la Constitución trotz Regen reizvoll. Die Busse sind gut beheizt und bieten eine trockene Fahrt zwischen den Sehenswürdigkeiten.\n\nDer Tag endet an der Eishalle. Das moderne Gebäude bietet vollen Schutz vor dem Wetter, während Sie den Abend sportlich ausklingen lassen.",
+            "hu": "Használja a jakai vasútállomást kiindulópontnak, ahol szárazon várhatja a buszt. A székesegyház könnyen elérhető a központból, az árkádok védik az utat.\n\nDélben a Citadella olyan kiállításokat kínál, amelyek tökéletesek esős napokra. A buszjáratok közel visznek a bejáratokhoz.\n\nDélután a Paseo de la Constitución az eső ellenére is vonzó. A buszok jól fűtöttek és száraz utazást biztosítanak a látnivalók között.\n\nA nap a Jégpalotánál zárul. A modern épület teljes védelmet nyújt az időjárás ellen, miközben sportosan zárja az estét.",
+            "ro": "Folosiți Gara Jaca ca punct de plecare, unde puteți aștepta autobuzul la uscat. Catedrala este ușor accesibilă din centru, arcadele protejând drumul.\n\nLa prânz, Cetatea oferă expoziții perfecte pentru zilele ploioase. Conexiunile de autobuz vă lasă aproape de intrări.\n\nDupă-amiaza, Paseo de la Constitución este atractiv în ciuda ploii. Autobuzele sunt bine încălzite și oferă o călătorie uscată între obiective.\n\nZiua se încheie la Palatul de Gheață. Clădirea modernă oferă protecție deplină împotriva intemperiilor în timp ce încheiați seara activ.",
+            "en": "Use Jaca Railway Station as a starting point, where you can wait for the bus in the dry. The Cathedral is easily accessible from the center, with arcades protecting the path.\n\nAt noon, the Citadel offers exhibitions perfect for rainy days. Bus connections drop you close to the entrances.\n\nIn the afternoon, Paseo de la Constitución is attractive despite the rain. Buses are well-heated and provide a dry ride between sights.\n\nThe day concludes at the Ice Palace. The modern building offers full protection from the weather while you end the evening actively."
+          },
+          "stops": [
+            {
+              "name": "Jaca Railway Station",
+              "tip_5lang": {
+                "de": "Warten Sie in der Bahnhofshalle, um trocken zu bleiben.",
+                "hu": "Várjon az állomás csarnokában, hogy száraz maradjon.",
+                "ro": "Așteptați în holul gării pentru a rămâne uscat.",
+                "en": "Wait in the station hall to stay dry."
+              }
+            },
+            {
+              "name": "St. Peter's Cathedral",
+              "tip_5lang": {
+                "de": "Die Bushaltestellen im Zentrum liegen oft nah an den Arkaden.",
+                "hu": "A központi buszmegállók gyakran az árkádok közelében vannak.",
+                "ro": "Stațiile de autobuz din centru sunt adesea aproape de arcade.",
+                "en": "Central bus stops are often close to the arcades."
+              }
+            },
+            {
+              "name": "Citadel of Jaca",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg von der Haltestelle; nutzen Sie einen Schirm.",
+                "hu": "Rövid séta a megállótól; használjon esernyőt.",
+                "ro": "Scurtă plimbare de la stație; folosiți o umbrelă.",
+                "en": "Short walk from the stop; use an umbrella."
+              }
+            },
+            {
+              "name": "Paseo de la Constitución",
+              "tip_5lang": {
+                "de": "Buslinien halten direkt am Parkrand.",
+                "hu": "A buszjáratok közvetlenül a park szélén állnak meg.",
+                "ro": "Liniile de autobuz opresc direct la marginea parcului.",
+                "en": "Bus lines stop directly at the edge of the park."
+              }
+            },
+            {
+              "name": "Jaca Ice Palace",
+              "tip_5lang": {
+                "de": "Die Endstation vieler Linien; perfekt für den Rückweg.",
+                "hu": "Sok járat végállomása; tökéletes a visszaúthoz.",
+                "ro": "Capătul de linie pentru multe rute; perfect pentru drumul de întoarcere.",
+                "en": "The terminus for many lines; perfect for the return journey."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Stadtbusse (JacaBus) sind die beste Option bei starkem Regen.",
+              "Prüfen Sie die Fahrpläne online, um Wartezeiten im Freien zu minimieren.",
+              "Kaufen Sie Tickets beim Fahrer, um Zeit im Regen zu sparen.",
+              "Nutzen Sie die zentralen Haltestellen nahe der Calle Mayor für maximalen Schutz."
+            ],
+            "hu": [
+              "A városi buszok (JacaBus) a legjobb opció heves esőzéskor.",
+              "Ellenőrizze a menetrendet online, hogy minimalizálja a kinti várakozást.",
+              "Vegye meg a jegyet a sofőrnél, hogy időt spóroljon az esőben.",
+              "Használja a Calle Mayor közeli megállókat a maximális védelemért."
+            ],
+            "ro": [
+              "Autobuzele urbane (JacaBus) sunt cea mai bună opțiune pe ploaie torențială.",
+              "Verificați orarele online pentru a minimiza așteptarea afară.",
+              "Cumpărați biletele de la șofer pentru a economisi timp în ploaie.",
+              "Folosiți stațiile centrale de lângă Calle Mayor pentru protecție maximă."
+            ],
+            "en": [
+              "Urban buses (JacaBus) are the best option during heavy rain.",
+              "Check schedules online to minimize waiting outdoors.",
+              "Buy tickets from the driver to save time in the rain.",
+              "Use central stops near Calle Mayor for maximum protection."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie am Bahnhof Jaca, der im Winter oft von Reif bedeckt ist. Die Züge aus Zaragoza bringen eine winterliche Reiseatmosphäre.\n\nMittags ist der Besuch der Kathedrale und der Zitadelle per Bus ideal, da Sie die kalten Winde auf den Straßen vermeiden. Die Fahrzeuge sind warm und komfortabel.\n\nNachmittags bietet der Paseo de la Constitución einen Blick auf die schneebedeckten Gipfel, bevor Sie schnell wieder in den warmen Bus steigen.\n\nDer Tag endet in der Eishalle. Hier ist das winterliche Thema Programm, und die gute Anbindung sorgt dafür, dass Sie nach dem Eislaufen schnell und warm zurück zu Ihrer Unterkunft kommen.",
+            "hu": "Kezdje a jakai állomáson, amelyet télen gyakran zúzmara borít. A Zaragozából érkező vonatok téli utazási hangulatot árasztanak.\n\nDélben a székesegyház és a Citadella meglátogatása busszal ideális, mivel elkerüli a hideg szelet az utcákon. A járművek melegek és kényelmesek.\n\nDélután a Paseo de la Constitución kilátást nyújt a havas csúcsokra, mielőtt gyorsan visszaszállna a meleg buszba.\n\nA nap a Jégpalotánál zárul. Itt a téli téma a főszereplő, és a jó összeköttetés biztosítja, hogy korcsolyázás után gyorsan és melegben érjen vissza a szállására.",
+            "ro": "Începeți la Gara Jaca, care este adesea acoperită de brumă iarna. Trenurile din Zaragoza aduc o atmosferă de călătorie hibernală.\n\nLa prânz, vizitarea Catedralei și a Cetății cu autobuzul este ideală, deoarece evitați vânturile reci de pe străzi. Vehiculele sunt calde și confortabile.\n\nDupă-amiaza, Paseo de la Constitución oferă o vedere spre vârfurile înzăpezite înainte de a urca rapid înapoi în autobuzul cald.\n\nZiua se încheie la Palatul de Gheață. Aici tema hibernală este la ea acasă, iar conexiunile bune vă asigură întoarcerea rapidă și la căldură la cazare.",
+            "en": "Start at Jaca Station, often covered in frost in winter. Trains from Zaragoza bring a winter travel atmosphere.\n\nAt noon, visiting the Cathedral and Citadel by bus is ideal, as you avoid the cold winds on the streets. The vehicles are warm and comfortable.\n\nIn the afternoon, Paseo de la Constitución offers a view of the snowy peaks before you quickly hop back onto the warm bus.\n\nThe day concludes at the Ice Palace. Here the winter theme is central, and good connections ensure you get back to your accommodation quickly and warmly after skating."
+          },
+          "stops": [
+            {
+              "name": "Jaca Railway Station",
+              "tip_5lang": {
+                "de": "Vorsicht vor glatten Bahnsteigen bei Frost.",
+                "hu": "Fagy esetén vigyázzon a csúszós peronokon.",
+                "ro": "Atenție la peroanele alunecoase în caz de îngheț.",
+                "en": "Watch out for slippery platforms during frost."
+              }
+            },
+            {
+              "name": "St. Peter's Cathedral",
+              "tip_5lang": {
+                "de": "Die Haltestelle ist nur wenige Schritte von der Kathedrale entfernt.",
+                "hu": "A megálló csak néhány lépésre van a székesegyháztól.",
+                "ro": "Stația este la doar câțiva pași de catedrală.",
+                "en": "The stop is just a few steps from the cathedral."
+              }
+            },
+            {
+              "name": "Citadel of Jaca",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Bus, um die exponierte Lage der Festung warm zu erreichen.",
+                "hu": "Használja a buszt, hogy melegen érje el az erőd kitett fekvését.",
+                "ro": "Folosiți autobuzul pentru a ajunge la cetate ferit de frig.",
+                "en": "Use the bus to reach the exposed location of the fortress warmly."
+              }
+            },
+            {
+              "name": "Paseo de la Constitución",
+              "tip_5lang": {
+                "de": "Bei Kälte sind die Busintervalle oft kürzer als das Warten im Park.",
+                "hu": "Hidegben a buszok követési ideje gyakran rövidebb, mint a parkban való várakozás.",
+                "ro": "Pe frig, intervalele autobuzelor sunt adesea preferabile așteptării în parc.",
+                "en": "In the cold, bus intervals are often shorter than waiting in the park."
+              }
+            },
+            {
+              "name": "Jaca Ice Palace",
+              "tip_5lang": {
+                "de": "Hinter dem Gebäude befindet sich ein windgeschützter Wartebereich.",
+                "hu": "Az épület mögött szélvédett várakozóhely található.",
+                "ro": "În spatele clădirii se află o zonă de așteptare protejată de vânt.",
+                "en": "There is a wind-protected waiting area behind the building."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Busse sind im Winter gut beheizt, ideal zum Aufwärmen zwischen den Stopps.",
+              "Achten Sie auf geänderte Fahrpläne an Feiertagen im Dezember.",
+              "Tragen Sie griffige Schuhe für den Weg von der Haltestelle zum Ziel.",
+              "Die letzte Rückfahrt von der Eishalle sollte vor 21:00 Uhr geplant werden."
+            ],
+            "hu": [
+              "A buszok télen jól fűtöttek, ideálisak a felmelegedéshez a megállók között.",
+              "Ügyeljen a módosított menetrendekre a decemberi ünnepnapokon.",
+              "Viseljen jó tapadású cipőt a megállótól a célpontig tartó sétához.",
+              "Az utolsó visszautat a Jégpalotától 21:00 előttre érdemes tervezni."
+            ],
+            "ro": [
+              "Autobuzele sunt bine încălzite iarna, ideale pentru încălzire între opriri.",
+              "Atenție la orarele modificate în timpul sărbătorilor din decembrie.",
+              "Purtați încălțăminte cu aderență bună pentru drumul de la stație la obiectiv.",
+              "Ultima cursă de întoarcere de la Palatul de Gheață ar trebui planificată înainte de ora 21:00."
+            ],
+            "en": [
+              "Buses are well-heated in winter, ideal for warming up between stops.",
+              "Watch out for modified schedules during December holidays.",
+              "Wear shoes with good grip for the walk from the stop to your destination.",
+              "The last return trip from the Ice Palace should be planned before 21:00."
+            ]
+          }
+        }
+      }
+    }
+  },
+  "external_resources": {
+    "tourism_office": "https://www.jaca.es/turismo.html",
+    "transit_official": "https://www.renfe.com/",
+    "webcam": "https://www.candanchu.com/webcams/",
+    "museum_tickets": "https://www.ciudadeladejaca.es/",
+    "language_tips": {
+      "de": "Spanisch dominiert, in den Skigebieten Astún und Candanchú trifft man viel Französisch und Englisch, da viele Gäste aus Pau und Toulouse anreisen. Mit 'estación de esquí', 'forfait' und 'ciudadela' kommen Sie überall durch. Aragonesische Brocken hört man bei älteren Einheimischen.",
+      "hu": "A spanyol az alap, az astúni és candanchúi sípályákon sok francia és angol szót hallani, mert Pau és Toulouse felől sokan jönnek. Az 'estación de esquí', 'forfait' (síbérlet) és 'ciudadela' szavakkal mindenhol elboldogulsz. Az idősebbek néha aragóniaiul beszélnek.",
+      "ro": "Spaniola domină, în stațiunile Astún și Candanchú se aude multă franceză și engleză, mulți oaspeți venind din Pau și Toulouse. Cu 'estación de esquí', 'forfait' și 'ciudadela' te descurci peste tot. La bătrâni se mai aud cuvinte din aragoneză.",
+      "en": "Spanish leads, with plenty of French and English in the Astún and Candanchú ski resorts thanks to visitors from Pau and Toulouse. 'Estación de esquí', 'forfait' (lift pass) and 'ciudadela' will carry you through. Older locals sprinkle in Aragonese."
+    },
+    "best_time_to_visit": {
+      "de": "Dezember bis März für Ski, Juli und August für Wanderungen und das Pyrenäen-Folklorefestival (in den ungeraden Jahren). Mai, Juni und September sind ruhig, ideal für die Camino-Aragonés-Etappen. November ist die schwächste Zeit, viele Hotels machen Betriebsferien.",
+      "hu": "December-március síelésre, július-augusztus túrázásra és a páratlan években rendezett Pireneusi Folklór Fesztiválra. Május, június, szeptember nyugalmas, ideális az Camino Aragonés szakaszaihoz. November a leggyengébb hónap, sok szálloda zárva tart.",
+      "ro": "Decembrie-martie pentru schi, iulie-august pentru drumeții și Festivalul de Folclor Pirineic (în anii impari). Mai, iunie și septembrie sunt liniștite, perfecte pentru etapele de pe Camino Aragonés. Noiembrie e cel mai slab, multe hoteluri sunt închise.",
+      "en": "December to March for skiing, July and August for hiking and the biennial Pyrenean Folklore Festival (odd years). May, June and September are quiet, perfect for Camino Aragonés stages. November is the low point, with many hotels closed."
+    },
+    "neighborhood_warnings": {
+      "de": "Jaca ist sicher und familienfreundlich. Vorsicht ist bei Wintersport-Tagestouristen auf der N-330 zum Somport-Pass geboten (Schneeketten oft Pflicht) und bei plötzlichen Sommergewittern in den umliegenden Bergen. In der Stadt sollte man Wertsachen nicht im Auto auf den Parkplätzen der Ciudadela liegen lassen.",
+      "hu": "Jaca biztonságos, családbarát város. A Somport-hágó felé vezető N-330-on télen sok síelő autózik, gyakran hólánc kell, nyáron pedig hirtelen zivatarok érhetnek a hegyekben. A városban a Ciudadela parkolóiban ne hagyj értéket az autóban.",
+      "ro": "Jaca e sigur și prietenos cu familiile. Atenție la N-330 spre pasul Somport iarna (lanțuri obligatorii adesea) și la furtunile bruște de vară din munți. În oraș, nu lăsați obiecte de valoare în mașină în parcările Ciudadelei.",
+      "en": "Jaca is safe and family-friendly. Watch the N-330 to the Somport pass on ski days (chains often required) and sudden summer thunderstorms in the surrounding peaks. In town, don't leave valuables in the car at the Ciudadela car parks."
+    }
+  }
+}

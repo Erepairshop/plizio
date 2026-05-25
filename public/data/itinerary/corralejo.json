@@ -1,0 +1,2518 @@
+{
+  "city_id": "corralejo",
+  "anchor": {
+    "name": "Corralejo",
+    "coords": [
+      -13.8675,
+      28.7372
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "18:15",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Puerto de Corralejo",
+            "hu": "Corralejo kikötő",
+            "ro": "Portul Corralejo",
+            "en": "Puerto de Corralejo"
+          },
+          "coords": [
+            -13.8655,
+            28.7425
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beobachten Sie die Fischerboote am frühen Morgen.",
+            "hu": "Figyelje meg a halászhajókat kora reggel.",
+            "ro": "Observați bărcile de pescuit dimineața devreme.",
+            "en": "Watch the fishing boats in the early morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Iglesia de Nuestra Señora del Carmen",
+            "hu": "Kármelhegyi Boldogasszony-templom",
+            "ro": "Iglesia de Nuestra Señora del Carmen",
+            "en": "Nuestra Señora del Carmen Church"
+          },
+          "coords": [
+            -13.8685,
+            28.7395
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:25",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Eine charmante Kirche im Herzen des Ortes.",
+            "hu": "Bájos templom a település szívében.",
+            "ro": "O biserică fermecătoare în inima orașului.",
+            "en": "A charming church in the heart of the town."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa de Corralejo Viejo",
+            "hu": "Corralejo Viejo strand",
+            "ro": "Playa de Corralejo Viejo",
+            "en": "Playa de Corralejo Viejo"
+          },
+          "coords": [
+            -13.8665,
+            28.7385
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:25",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Zentraler Strand mit flachem Wasser.",
+            "hu": "Központi strand sekély vízzel.",
+            "ro": "Plajă centrală cu apă puțin adâncă.",
+            "en": "Central beach with shallow water."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa de la Goleta",
+            "hu": "Playa de la Goleta",
+            "ro": "Playa de la Goleta",
+            "en": "Playa de la Goleta"
+          },
+          "coords": [
+            -13.8645,
+            28.7345
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Perfekter Ort für ein Mittagessen am Meer.",
+            "hu": "Tökéletes hely egy tengerparti ebédhez.",
+            "ro": "Locul perfect pentru un prânz la malul mării.",
+            "en": "Perfect spot for a seaside lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "El Campanario",
+            "hu": "El Campanario",
+            "ro": "El Campanario",
+            "en": "El Campanario"
+          },
+          "coords": [
+            -13.8615,
+            28.7315
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "15:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Besteigen Sie den Glockenturm für die Aussicht.",
+            "hu": "Másszon fel a harangtoronyba a kilátásért.",
+            "ro": "Urcați în clopotniță pentru priveliște.",
+            "en": "Climb the bell tower for the views."
+          }
+        },
+        {
+          "name": {
+            "de": "Paseo Marítimo",
+            "hu": "Tengerparti sétány",
+            "ro": "Paseo Marítimo",
+            "en": "Seafront Promenade"
+          },
+          "coords": [
+            -13.8635,
+            28.7365
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "17:05",
+          "stay_min": 70,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Lassen Sie den Tag mit einem Spaziergang ausklingen.",
+            "hu": "Zárja a napot egy kellemes sétával.",
+            "ro": "Încheiați ziua cu o plimbare relaxantă.",
+            "en": "End the day with a relaxing stroll."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Spaziergang am malerischen Hafen, wo das maritime Leben von Corralejo erwacht. Ein kurzer Besuch in der lokalen Kirche bietet einen Moment der Ruhe.\r\n\r\nDen Vormittag verbringen Sie am entspannten Strand Corralejo Viejo, bevor Sie zur lebhaften Playa de la Goleta für ein Mittagessen weiterziehen.\r\n\r\nAm Nachmittag erwartet Sie das charmante Einkaufszentrum El Campanario mit seinem markanten Turm und mediterranem Flair.\r\n\r\nDer Tag endet auf der Promenade, wo Sie bei einem Glas Wein den Blick auf die Isla de Lobos genießen können.",
+        "hu": "Kezdje a sétát a festői kikötőben, ahol Corralejo tengeri élete életre kel. Egy rövid látogatás a helyi templomban nyugalmat áraszt.\r\n\r\nA délelőttöt a pihentető Corralejo Viejo strandon töltse, majd induljon tovább a nyüzsgő Playa de la Goleta felé ebédelni.\r\n\r\nDélután a bájos El Campanario központ várja jellegzetes tornyával és mediterrán hangulatával.\r\n\r\nA nap a sétányon ér véget, ahol egy pohár bor mellett élvezheti az Isla de Lobos látványát.",
+        "ro": "Începeți plimbarea în portul pitoresc, unde viața maritimă din Corralejo prinde viață. O scurtă vizită la biserica locală oferă un moment de liniște.\r\n\r\nPetreceți dimineața pe plaja relaxantă Corralejo Viejo, apoi mergeți spre animata Playa de la Goleta pentru prânz.\r\n\r\nDupă-amiaza, centrul fermecător El Campanario vă așteaptă cu turnul său distinctiv și flerul mediteranean.\r\n\r\nZiua se încheie pe faleză, unde vă puteți bucura de vederea spre Isla de Lobos cu un pahar de vin.",
+        "en": "Start your walk at the picturesque harbor, where Corralejo's maritime life awakens. A short visit to the local church offers a moment of peace.\r\n\r\nSpend the morning at the relaxing Corralejo Viejo beach before moving on to the lively Playa de la Goleta for lunch.\r\n\r\nIn the afternoon, the charming El Campanario center awaits with its distinctive tower and Mediterranean flair.\r\n\r\nThe day ends on the promenade, where you can enjoy views of Isla de Lobos with a glass of wine."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "La Playita",
+            "tip": "Direkt am Strand mit tollem Seafood."
+          },
+          {
+            "name": "Gregorio El Pescador",
+            "tip": "Traditionelle kanarische Fischgerichte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "La Playita",
+            "tip": "Közvetlenül a parton, remek tengeri ételekkel."
+          },
+          {
+            "name": "Gregorio El Pescador",
+            "tip": "Hagyományos kanári halételek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "La Playita",
+            "tip": "Chiar pe plajă, cu fructe de mare grozave."
+          },
+          {
+            "name": "Gregorio El Pescador",
+            "tip": "Mâncăruri tradiționale canariene din pește."
+          }
+        ],
+        "en": [
+          {
+            "name": "La Playita",
+            "tip": "Right on the beach with great seafood."
+          },
+          {
+            "name": "Gregorio El Pescador",
+            "tip": "Traditional Canarian fish dishes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Hafendamm",
+            "tip": "Ruhiger Blick auf das offene Meer.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kikötői gát",
+            "tip": "Csendes kilátás a nyílt tengerre.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Digul portului",
+            "tip": "Vedere liniștită spre marea largă.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Harbor Pier",
+            "tip": "Quiet views of the open sea.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Main Street",
+            "tip": "Viele Surfshops und Boutiquen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Főutca",
+            "tip": "Számos szörfbolt és butik."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Strada principală",
+            "tip": "Multe magazine de surf și buticuri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Main Street",
+            "tip": "Many surf shops and boutiques."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Gehen Sie früh zum Hafen für die beste Stimmung.",
+          "El Campanario hat sonntags einen Flohmarkt.",
+          "Die Gezeiten beeinflussen die Strandbreite.",
+          "Sonnenschutz ist wegen des Windes oft unterschätzt."
+        ],
+        "hu": [
+          "Menjen korán a kikötőbe a legjobb hangulatért.",
+          "Az El Campanarióban vasárnap bolhapiac van.",
+          "Az árapály befolyásolja a strand szélességét.",
+          "A szél miatt a napvédelmet gyakran alábecsülik."
+        ],
+        "ro": [
+          "Mergeți devreme în port pentru cea mai bună atmosferă.",
+          "El Campanario are târg de vechituri duminica.",
+          "Mareele influențează lățimea plajei.",
+          "Protecția solară este adesea subestimată din cauza vântului."
+        ],
+        "en": [
+          "Go early to the harbor for the best atmosphere.",
+          "El Campanario has a flea market on Sundays.",
+          "The tides affect the beach width.",
+          "Sun protection is often underestimated due to the wind."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Spaziergang am malerischen Hafen, wo das maritime Leben von Corralejo erwacht. Ein kurzer Besuch in der lokalen Kirche bietet einen Moment der Ruhe.\r\n\r\nDen Vormittag verbringen Sie am entspannten Strand Corralejo Viejo, bevor Sie zur lebhaften Playa de la Goleta für ein Mittagessen weiterziehen.\r\n\r\nAm Nachmittag erwartet Sie das charmante Einkaufszentrum El Campanario mit seinem markanten Turm und mediterranem Flair.\r\n\r\nDer Tag endet auf der Promenade, wo Sie bei einem Glas Wein den Blick auf die Isla de Lobos genießen können.",
+            "hu": "Kezdje a sétát a festői kikötőben, ahol Corralejo tengeri élete életre kel. Egy rövid látogatás a helyi templomban nyugalmat áraszt.\r\n\r\nA délelőttöt a pihentető Corralejo Viejo strandon töltse, majd induljon tovább a nyüzsgő Playa de la Goleta felé ebédelni.\r\n\r\nDélután a bájos El Campanario központ várja jellegzetes tornyával és mediterrán hangulatával.\r\n\r\nA nap a sétányon ér véget, ahol egy pohár bor mellett élvezheti az Isla de Lobos látványát.",
+            "ro": "Începeți plimbarea în portul pitoresc, unde viața maritimă din Corralejo prinde viață. O scurtă vizită la biserica locală oferă un moment de liniște.\r\n\r\nPetreceți dimineața pe plaja relaxantă Corralejo Viejo, apoi mergeți spre animata Playa de la Goleta pentru prânz.\r\n\r\nDupă-amiaza, centrul fermecător El Campanario vă așteaptă cu turnul său distinctiv și flerul mediteranean.\r\n\r\nZiua se încheie pe faleză, unde vă puteți bucura de vederea spre Isla de Lobos cu un pahar de vin.",
+            "en": "Start your walk at the picturesque harbor, where Corralejo's maritime life awakens. A short visit to the local church offers a moment of peace.\r\n\r\nSpend the morning at the relaxing Corralejo Viejo beach before moving on to the lively Playa de la Goleta for lunch.\r\n\r\nIn the afternoon, the charming El Campanario center awaits with its distinctive tower and Mediterranean flair.\r\n\r\nThe day ends on the promenade, where you can enjoy views of Isla de Lobos with a glass of wine."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Puerto de Corralejo",
+                "hu": "Corralejo kikötő",
+                "ro": "Portul Corralejo",
+                "en": "Puerto de Corralejo"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die Fischerboote am frühen Morgen.",
+                "hu": "Figyelje meg a halászhajókat kora reggel.",
+                "ro": "Observați bărcile de pescuit dimineața devreme.",
+                "en": "Watch the fishing boats in the early morning."
+              }
+            },
+            {
+              "name": {
+                "de": "Iglesia de Nuestra Señora del Carmen",
+                "hu": "Kármelhegyi Boldogasszony-templom",
+                "ro": "Iglesia de Nuestra Señora del Carmen",
+                "en": "Nuestra Señora del Carmen Church"
+              },
+              "tip_5lang": {
+                "de": "Eine charmante Kirche im Herzen des Ortes.",
+                "hu": "Bájos templom a település szívében.",
+                "ro": "O biserică fermecătoare în inima orașului.",
+                "en": "A charming church in the heart of the town."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa de Corralejo Viejo",
+                "hu": "Corralejo Viejo strand",
+                "ro": "Playa de Corralejo Viejo",
+                "en": "Playa de Corralejo Viejo"
+              },
+              "tip_5lang": {
+                "de": "Zentraler Strand mit flachem Wasser.",
+                "hu": "Központi strand sekély vízzel.",
+                "ro": "Plajă centrală cu apă puțin adâncă.",
+                "en": "Central beach with shallow water."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa de la Goleta",
+                "hu": "Playa de la Goleta",
+                "ro": "Playa de la Goleta",
+                "en": "Playa de la Goleta"
+              },
+              "tip_5lang": {
+                "de": "Perfekter Ort für ein Mittagessen am Meer.",
+                "hu": "Tökéletes hely egy tengerparti ebédhez.",
+                "ro": "Locul perfect pentru un prânz la malul mării.",
+                "en": "Perfect spot for a seaside lunch."
+              }
+            },
+            {
+              "name": {
+                "de": "El Campanario",
+                "hu": "El Campanario",
+                "ro": "El Campanario",
+                "en": "El Campanario"
+              },
+              "tip_5lang": {
+                "de": "Besteigen Sie den Glockenturm für die Aussicht.",
+                "hu": "Másszon fel a harangtoronyba a kilátásért.",
+                "ro": "Urcați în clopotniță pentru priveliște.",
+                "en": "Climb the bell tower for the views."
+              }
+            },
+            {
+              "name": {
+                "de": "Paseo Marítimo",
+                "hu": "Tengerparti sétány",
+                "ro": "Paseo Marítimo",
+                "en": "Seafront Promenade"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie den Tag mit einem Spaziergang ausklingen.",
+                "hu": "Zárja a napot egy kellemes sétával.",
+                "ro": "Încheiați ziua cu o plimbare relaxantă.",
+                "en": "End the day with a relaxing stroll."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "La Playita",
+                "tip": "Direkt am Strand mit tollem Seafood."
+              },
+              {
+                "name": "Gregorio El Pescador",
+                "tip": "Traditionelle kanarische Fischgerichte."
+              }
+            ],
+            "hu": [
+              {
+                "name": "La Playita",
+                "tip": "Közvetlenül a parton, remek tengeri ételekkel."
+              },
+              {
+                "name": "Gregorio El Pescador",
+                "tip": "Hagyományos kanári halételek."
+              }
+            ],
+            "ro": [
+              {
+                "name": "La Playita",
+                "tip": "Chiar pe plajă, cu fructe de mare grozave."
+              },
+              {
+                "name": "Gregorio El Pescador",
+                "tip": "Mâncăruri tradiționale canariene din pește."
+              }
+            ],
+            "en": [
+              {
+                "name": "La Playita",
+                "tip": "Right on the beach with great seafood."
+              },
+              {
+                "name": "Gregorio El Pescador",
+                "tip": "Traditional Canarian fish dishes."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Hafendamm",
+                "tip": "Ruhiger Blick auf das offene Meer.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Kikötői gát",
+                "tip": "Csendes kilátás a nyílt tengerre.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Digul portului",
+                "tip": "Vedere liniștită spre marea largă.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Harbor Pier",
+                "tip": "Quiet views of the open sea.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Main Street",
+                "tip": "Viele Surfshops und Boutiquen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Főutca",
+                "tip": "Számos szörfbolt és butik."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Strada principală",
+                "tip": "Multe magazine de surf și buticuri."
+              }
+            ],
+            "en": [
+              {
+                "name": "Main Street",
+                "tip": "Many surf shops and boutiques."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Gehen Sie früh zum Hafen für die beste Stimmung.",
+              "El Campanario hat sonntags einen Flohmarkt.",
+              "Die Gezeiten beeinflussen die Strandbreite.",
+              "Sonnenschutz ist wegen des Windes oft unterschätzt."
+            ],
+            "hu": [
+              "Menjen korán a kikötőbe a legjobb hangulatért.",
+              "Az El Campanarióban vasárnap bolhapiac van.",
+              "Az árapály befolyásolja a strand szélességét.",
+              "A szél miatt a napvédelmet gyakran alábecsülik."
+            ],
+            "ro": [
+              "Mergeți devreme în port pentru cea mai bună atmosferă.",
+              "El Campanario are târg de vechituri duminica.",
+              "Mareele influențează lățimea plajei.",
+              "Protecția solară este adesea subestimată din cauza vântului."
+            ],
+            "en": [
+              "Go early to the harbor for the best atmosphere.",
+              "El Campanario has a flea market on Sundays.",
+              "The tides affect the beach width.",
+              "Sun protection is often underestimated due to the wind."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt am Hafen, wo das Fährterminal sicheren Schutz vor den atlantischen Schauern bietet. Mittags suchen wir Zuflucht in der Stille der Carmen-Kirche, während der Regen draußen nachlässt. Den Nachmittag verbringen wir im überdachten Einkaufszentrum El Campanario, ideal für trockene Pausen. Am Abend nutzen wir die Regenpausen für einen kurzen, erfrischenden Uferspaziergang.",
+            "hu": "A reggel a kikötőben indul, ahol a kompterminál kiváló menedéket nyújt az atlanti záporok elől. Délben a Carmen-templom csendes falai között várjuk meg az eső elálltát. A délutánt az El Campanario fedett árkádjai alatt töltjük, ahol szárazon nézelődhetünk. Az estét egy frissítő, esernyős parti sétával zárjuk, élvezve a vihar utáni tiszta tengeri levegőt.",
+            "ro": "Dimineața începe în port, unde terminalul de feribot oferă adăpost sigur împotriva averselor atlantice. La prânz, căutăm refugiu în liniștea bisericii Carmen, în timp ce ploaia se domolește afară. După-amiaza o petrecem în centrul comercial El Campanario, ideal pentru pauze uscate sub arcade. Seara profităm de scurte pauze între ploi pentru o plimbare revigorantă pe faleză.",
+            "en": "The morning starts at the port, where the ferry terminal provides reliable shelter from Atlantic showers. At midday, we seek refuge in the quiet Carmen Church as the rain eases outside. The afternoon is spent under the covered arcades of El Campanario, perfect for staying dry while shopping. We end the evening with a refreshing walk along the promenade, taking advantage of a break in the rain."
+          },
+          "stops": [
+            {
+              "name": "Puerto de Corralejo",
+              "tip_5lang": {
+                "de": "Das Terminalgebäude nutzen.",
+                "hu": "Használja a terminál épületét.",
+                "ro": "Folosiți clădirea terminalului.",
+                "en": "Use the terminal building."
+              }
+            },
+            {
+              "name": "Nuestra Señora del Carmen Church",
+              "tip_5lang": {
+                "de": "Ein ruhiger, trockener Rückzugsort.",
+                "hu": "Csendes, száraz menedékhely.",
+                "ro": "Un refugiu liniștit și uscat.",
+                "en": "A quiet, dry retreat."
+              }
+            },
+            {
+              "name": "Playa de Corralejo Viejo",
+              "tip_5lang": {
+                "de": "Unter den Cafédächern bleiben.",
+                "hu": "Maradjon a kávézók tetője alatt.",
+                "ro": "Stați sub copertinele cafenelelor.",
+                "en": "Stay under the cafe awnings."
+              }
+            },
+            {
+              "name": "Playa de la Goleta",
+              "tip_5lang": {
+                "de": "Die Strandbar bietet Schutz.",
+                "hu": "A strandbár védelmet nyújt.",
+                "ro": "Barul de pe plajă oferă adăpost.",
+                "en": "The beach bar offers shelter."
+              }
+            },
+            {
+              "name": "El Campanario",
+              "tip_5lang": {
+                "de": "Perfekt für regnerische Stunden.",
+                "hu": "Tökéletes esős órákra.",
+                "ro": "Perfect pentru orele ploioase.",
+                "en": "Perfect for rainy hours."
+              }
+            },
+            {
+              "name": "Seafront Promenade",
+              "tip_5lang": {
+                "de": "Vorsicht vor rutschigen Steinen.",
+                "hu": "Vigyázat, csúszós kövek.",
+                "ro": "Atenție la pietrele alunecoase.",
+                "en": "Beware of slippery stones."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fuerteventura-Regen ist meist kurz, aber heftig.",
+              "Die Arkaden von El Campanario halten Sie zuverlässig trocken.",
+              "Tragen Sie wasserfeste Schuhe für die Pfützen an der Promenade.",
+              "Viele Cafés am Hafen haben wetterfeste Außenbereiche.",
+              "Nutzen Sie die Regenzeit für Souvenir-Shopping im Trockenen."
+            ],
+            "hu": [
+              "A fuerteventurai eső általában rövid, de heves.",
+              "Az El Campanario árkádjai megbízhatóan szárazon tartják.",
+              "Viseljen vízálló cipőt a parton kialakuló tócsák miatt.",
+              "A kikötő kávézói közül sok rendelkezik fedett terasszal.",
+              "Használja ki az esős időt a fedett helyen történő vásárlásra."
+            ],
+            "ro": [
+              "Ploaia în Fuerteventura este de obicei scurtă, dar intensă.",
+              "Arcadele de la El Campanario vă țin uscat în mod fiabil.",
+              "Purtați încălțăminte rezistentă la apă pentru bălțile de pe faleză.",
+              "Multe cafenele din port au zone exterioare protejate.",
+              "Folosiți timpul ploios pentru cumpărături de suveniruri la adăpost."
+            ],
+            "en": [
+              "Fuerteventura rain is usually short but intense.",
+              "The arcades of El Campanario will keep you reliably dry.",
+              "Wear waterproof shoes for the puddles along the promenade.",
+              "Many cafes at the port have weather-protected outdoor areas.",
+              "Use the rainy time for souvenir shopping in the dry."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein erfrischender Wintermorgen am Hafen startet mit klarer Luft und milder Sonne. Mittags genießen wir die Wärme am Strand, die im Winter besonders angenehm und nicht zu heiß ist. Der Nachmittag im El Campanario ist perfekt, um den Glockenturm bei angenehmen 20 Grad zu erklimmen. Am Abend kühlt es schnell ab, ideal für einen zügigen Spaziergang entlang der beleuchteten Promenade.",
+            "hu": "A frissítő téli reggel a kikötőben tiszta levegővel és enyhe napsütéssel indul. Délben a parton élvezzük a napsugarakat, amelyek télen különösen kellemesek és nem égetnek. A délután az El Campanario-ban telik, ahol 20 fokban mászhatunk fel a harangtoronyba. Este a levegő gyorsan lehűl, ami tökéletes egy tempós sétához a kivilágított sétányon.",
+            "ro": "O dimineață răcoroasă de iarnă în port începe cu aer curat și soare blând. La prânz, ne bucurăm de căldura de pe plajă, care iarna este extrem de plăcută și nu caniculară. După-amiaza la El Campanario este perfectă pentru a urca în clopotniță la 20 de grade. Seara se răcește rapid, fiind ideală pentru o plimbare alertă pe faleza luminată.",
+            "en": "A refreshing winter morning at the port starts with clear air and mild sun. At midday, we enjoy the warmth on the beach, which is especially pleasant and not too hot in winter. The afternoon at El Campanario is perfect for climbing the bell tower in a comfortable 20 degrees. The air cools quickly in the evening, ideal for a brisk walk along the illuminated promenade."
+          },
+          "stops": [
+            {
+              "name": "Puerto de Corralejo",
+              "tip_5lang": {
+                "de": "Windjacke für die Brise nötig.",
+                "hu": "Szélldzseki ajánlott a szél miatt.",
+                "ro": "Aveți nevoie de o jachetă de vânt.",
+                "en": "Windbreaker needed for the breeze."
+              }
+            },
+            {
+              "name": "Nuestra Señora del Carmen Church",
+              "tip_5lang": {
+                "de": "Windgeschützter Ort am Vormittag.",
+                "hu": "Szélvédett hely délelőtt.",
+                "ro": "Loc ferit de vânt dimineața.",
+                "en": "Wind-protected spot in the morning."
+              }
+            },
+            {
+              "name": "Playa de Corralejo Viejo",
+              "tip_5lang": {
+                "de": "Die Wintersonne ist hier perfekt.",
+                "hu": "A téli nap itt tökéletes.",
+                "ro": "Soarele de iarnă e perfect aici.",
+                "en": "The winter sun is perfect here."
+              }
+            },
+            {
+              "name": "Playa de la Goleta",
+              "tip_5lang": {
+                "de": "Ideal für winterliches Sonnenbaden.",
+                "hu": "Ideális téli napozáshoz.",
+                "ro": "Ideal pentru plajă pe timp de iarnă.",
+                "en": "Ideal for winter sunbathing."
+              }
+            },
+            {
+              "name": "El Campanario",
+              "tip_5lang": {
+                "de": "Markttage im Winter besuchen.",
+                "hu": "Látogassa meg a téli piacot.",
+                "ro": "Vizitați piața de iarnă.",
+                "en": "Visit the market on winter days."
+              }
+            },
+            {
+              "name": "Seafront Promenade",
+              "tip_5lang": {
+                "de": "Sonnenuntergang gegen 18:00 Uhr.",
+                "hu": "Naplemente 18:00 körül.",
+                "ro": "Apus de soare în jur de ora 18:00.",
+                "en": "Sunset around 6:00 PM."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die UV-Strahlung ist auch im Winter stark.",
+              "Nach Sonnenuntergang (18:00) wird es spürbar kühler.",
+              "Mittags ist das beste Wetter für den Strand.",
+              "Zwiebelprinzip bei der Kleidung schützt vor Wind.",
+              "Genießen Sie die Ruhe abseits der Hauptsaison."
+            ],
+            "hu": [
+              "Az UV-sugárzás télen is erős maradhat.",
+              "Naplemente után (18:00) érezhetően hűvösebb lesz.",
+              "A délidő a legjobb időszak a strandoláshoz.",
+              "A réteges öltözködés véd a tengeri széltől.",
+              "Élvezze a nyugalmat a főszezonon kívül."
+            ],
+            "ro": [
+              "Radiațiile UV sunt puternice chiar și iarna.",
+              "După apus (18:00) se face vizibil mai răcoare.",
+              "Amiaza este cel mai bun moment pentru plajă.",
+              "Îmbrăcămintea în straturi protejează împotriva vântului.",
+              "Bucurați-vă de liniște în afara sezonului de vârf."
+            ],
+            "en": [
+              "UV radiation is strong even in winter.",
+              "It gets noticeably cooler after sunset (6:00 PM).",
+              "Midday offers the best weather for the beach.",
+              "Layered clothing protects against the wind.",
+              "Enjoy the peace away from the high season."
+            ]
+          }
+        }
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 18.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Parque Natural de las Dunas",
+            "hu": "Dűnék Nemzeti Park",
+            "ro": "Parque Natural de las Dunas",
+            "en": "Dunes Natural Park"
+          },
+          "coords": [
+            -13.8405,
+            28.7005
+          ],
+          "category": "natural features",
+          "arrive_at": "09:40",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Endlose Sanddünen, ideal für Fotos.",
+            "hu": "Végtelen homokdűnék, ideális fotózáshoz.",
+            "ro": "Dune de nisip nesfârșite, ideale pentru poze.",
+            "en": "Endless sand dunes, ideal for photos."
+          }
+        },
+        {
+          "name": {
+            "de": "El Campanario",
+            "hu": "El Campanario",
+            "ro": "El Campanario",
+            "en": "El Campanario"
+          },
+          "coords": [
+            -13.8615,
+            28.7315
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Guter Ort für eine Radpause im Schatten.",
+            "hu": "Jó hely egy biciklis pihenőre az árnyékban.",
+            "ro": "Loc bun pentru o pauză la umbră.",
+            "en": "Good spot for a bike break in the shade."
+          }
+        },
+        {
+          "name": {
+            "de": "Puerto de Corralejo",
+            "hu": "Corralejo kikötő",
+            "ro": "Portul Corralejo",
+            "en": "Puerto de Corralejo"
+          },
+          "coords": [
+            -13.8655,
+            28.7425
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "13:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Rad ab und erkunden Sie das Viertel.",
+            "hu": "Tegye le a bringát, és fedezze fel a negyedet.",
+            "ro": "Lăsați bicicleta și explorați cartierul.",
+            "en": "Park your bike and explore the district."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa de Corralejo Viejo",
+            "hu": "Corralejo Viejo strand",
+            "ro": "Playa de Corralejo Viejo",
+            "en": "Playa de Corralejo Viejo"
+          },
+          "coords": [
+            -13.8665,
+            28.7385
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erfrischendes Bad nach der Tour.",
+            "hu": "Frissítő fürdő a túra után.",
+            "ro": "Baie răcoritoare după tur.",
+            "en": "Refreshing swim after the tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Faro de Martiño (Blick)",
+            "hu": "Martiño-világítótorony (távoli)",
+            "ro": "Faro de Martiño (Vedere)",
+            "en": "Martiño Lighthouse (View)"
+          },
+          "coords": [
+            -13.8205,
+            28.7455
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "16:55",
+          "stay_min": 50,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Blick auf Lobos vom nördlichen Ende.",
+            "hu": "Kilátás Lobos szigetére az északi végpontról.",
+            "ro": "Vedere spre Lobos din punctul nordic.",
+            "en": "View of Lobos from the northern end."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Tag mit einer Fahrt in die beeindruckenden Dünen, wo die Wüste auf den Ozean trifft. Ein unvergessliches Erlebnis auf zwei Rädern.\r\n\r\nMittags radeln Sie zurück zum El Campanario für eine Stärkung, bevor es zum lebhaften Hafen geht.\r\n\r\nDer Nachmittag bietet Zeit für ein Bad im alten Ortskern und eine Fahrt entlang der Nordküste mit Blick auf die Nachbarinseln.\r\n\r\nBeenden Sie die Tour am Hafen, wo Sie den Sonnenuntergang über dem Atlantik beobachten können.",
+        "hu": "Kezdje a napot egy tekeréssel a lenyűgöző dűnék között, ahol a sivatag találkozik az óceánnal. Felejthetetlen élmény két keréken.\r\n\r\nDélben tekerjen vissza az El Campanarióba egy frissítőre, majd irány a nyüzsgő kikötő.\r\n\r\nA délután lehetőséget ad egy fürdésre az óvárosban és egy biciklizésre az északi part mentén, rálátással a szomszédos szigetekre.\r\n\r\nZárja a túrát a kikötőben, ahol megtekintheti az Atlanti-óceán feletti naplementét.",
+        "ro": "Începeți ziua cu o plimbare prin dunele impresionante, unde deșertul întâlnește oceanul. O experiență de neuitat pe două roți.\r\n\r\nLa prânz, pedalați înapoi spre El Campanario pentru o gustare, apoi mergeți spre portul plin de viață.\r\n\r\nDupă-amiaza oferă timp pentru o baie în centrul vechi și o plimbare de-a lungul coastei de nord, cu vedere spre insulele vecine.\r\n\r\nÎncheiați turul în port, unde puteți urmări apusul peste Atlantic.",
+        "en": "Start the day with a ride into the impressive dunes, where the desert meets the ocean. An unforgettable experience on two wheels.\r\n\r\nAt midday, cycle back to El Campanario for some refreshments before heading to the lively harbor.\r\n\r\nThe afternoon offers time for a swim in the old town and a ride along the north coast with views of the neighboring islands.\r\n\r\nEnd the tour at the harbor, where you can watch the sunset over the Atlantic."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Citrus Surf Café",
+            "tip": "Gesunde Bowls und Säfte für Radfahrer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Citrus Surf Café",
+            "tip": "Egészséges tálak és levek bicikliseknek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Citrus Surf Café",
+            "tip": "Boluri sănătoase și sucuri pentru cicliști."
+          }
+        ],
+        "en": [
+          {
+            "name": "Citrus Surf Café",
+            "tip": "Healthy bowls and juices for cyclists."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Dünen-Einsamkeit",
+            "tip": "Finden Sie Ihren eigenen Platz im Sand.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Dűnék magánya",
+            "tip": "Találja meg saját helyét a homokban.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Singurătatea dunelor",
+            "tip": "Găsiți-vă propriul loc în nisip.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Dune Solitude",
+            "tip": "Find your own quiet spot in the sand.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Aloe Vera House",
+            "tip": "Lokale Kosmetikprodukte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Aloe Vera Ház",
+            "tip": "Helyi kozmetikai termékek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Aloe Vera House",
+            "tip": "Produse cosmetice locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Aloe Vera House",
+            "tip": "Local cosmetic products."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Fahren Sie nicht direkt auf dem tiefen Sand.",
+          "Achten Sie auf Fußgänger an der Promenade.",
+          "Mieten Sie ein E-Bike für die Dünen-Strecke.",
+          "Viel Wasser mitnehmen, wenig Schatten."
+        ],
+        "hu": [
+          "Ne hajtson közvetlenül a mély homokba.",
+          "Figyeljen a gyalogosokra a sétányon.",
+          "Béreljen e-bike-ot a dűnés szakaszhoz.",
+          "Vigyen sok vizet, kevés az árnyék."
+        ],
+        "ro": [
+          "Nu pedalați direct pe nisipul adânc.",
+          "Atenție la pietoni pe faleză.",
+          "Închiriați o bicicletă electrică pentru dune.",
+          "Luați multă apă, e puțină umbră."
+        ],
+        "en": [
+          "Don't ride directly on deep sand.",
+          "Watch out for pedestrians on the promenade.",
+          "Rent an e-bike for the dunes section.",
+          "Take plenty of water, as there's little shade."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag mit einer Fahrt in die beeindruckenden Dünen, wo die Wüste auf den Ozean trifft. Ein unvergessliches Erlebnis auf zwei Rädern.\r\n\r\nMittags radeln Sie zurück zum El Campanario für eine Stärkung, bevor es zum lebhaften Hafen geht.\r\n\r\nDer Nachmittag bietet Zeit für ein Bad im alten Ortskern und eine Fahrt entlang der Nordküste mit Blick auf die Nachbarinseln.\r\n\r\nBeenden Sie die Tour am Hafen, wo Sie den Sonnenuntergang über dem Atlantik beobachten können.",
+            "hu": "Kezdje a napot egy tekeréssel a lenyűgöző dűnék között, ahol a sivatag találkozik az óceánnal. Felejthetetlen élmény két keréken.\r\n\r\nDélben tekerjen vissza az El Campanarióba egy frissítőre, majd irány a nyüzsgő kikötő.\r\n\r\nA délután lehetőséget ad egy fürdésre az óvárosban és egy biciklizésre az északi part mentén, rálátással a szomszédos szigetekre.\r\n\r\nZárja a túrát a kikötőben, ahol megtekintheti az Atlanti-óceán feletti naplementét.",
+            "ro": "Începeți ziua cu o plimbare prin dunele impresionante, unde deșertul întâlnește oceanul. O experiență de neuitat pe două roți.\r\n\r\nLa prânz, pedalați înapoi spre El Campanario pentru o gustare, apoi mergeți spre portul plin de viață.\r\n\r\nDupă-amiaza oferă timp pentru o baie în centrul vechi și o plimbare de-a lungul coastei de nord, cu vedere spre insulele vecine.\r\n\r\nÎncheiați turul în port, unde puteți urmări apusul peste Atlantic.",
+            "en": "Start the day with a ride into the impressive dunes, where the desert meets the ocean. An unforgettable experience on two wheels.\r\n\r\nAt midday, cycle back to El Campanario for some refreshments before heading to the lively harbor.\r\n\r\nThe afternoon offers time for a swim in the old town and a ride along the north coast with views of the neighboring islands.\r\n\r\nEnd the tour at the harbor, where you can watch the sunset over the Atlantic."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Parque Natural de las Dunas",
+                "hu": "Dűnék Nemzeti Park",
+                "ro": "Parque Natural de las Dunas",
+                "en": "Dunes Natural Park"
+              },
+              "tip_5lang": {
+                "de": "Endlose Sanddünen, ideal für Fotos.",
+                "hu": "Végtelen homokdűnék, ideális fotózáshoz.",
+                "ro": "Dune de nisip nesfârșite, ideale pentru poze.",
+                "en": "Endless sand dunes, ideal for photos."
+              }
+            },
+            {
+              "name": {
+                "de": "El Campanario",
+                "hu": "El Campanario",
+                "ro": "El Campanario",
+                "en": "El Campanario"
+              },
+              "tip_5lang": {
+                "de": "Guter Ort für eine Radpause im Schatten.",
+                "hu": "Jó hely egy biciklis pihenőre az árnyékban.",
+                "ro": "Loc bun pentru o pauză la umbră.",
+                "en": "Good spot for a bike break in the shade."
+              }
+            },
+            {
+              "name": {
+                "de": "Puerto de Corralejo",
+                "hu": "Corralejo kikötő",
+                "ro": "Portul Corralejo",
+                "en": "Puerto de Corralejo"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad ab und erkunden Sie das Viertel.",
+                "hu": "Tegye le a bringát, és fedezze fel a negyedet.",
+                "ro": "Lăsați bicicleta și explorați cartierul.",
+                "en": "Park your bike and explore the district."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa de Corralejo Viejo",
+                "hu": "Corralejo Viejo strand",
+                "ro": "Playa de Corralejo Viejo",
+                "en": "Playa de Corralejo Viejo"
+              },
+              "tip_5lang": {
+                "de": "Erfrischendes Bad nach der Tour.",
+                "hu": "Frissítő fürdő a túra után.",
+                "ro": "Baie răcoritoare după tur.",
+                "en": "Refreshing swim after the tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Faro de Martiño (Blick)",
+                "hu": "Martiño-világítótorony (távoli)",
+                "ro": "Faro de Martiño (Vedere)",
+                "en": "Martiño Lighthouse (View)"
+              },
+              "tip_5lang": {
+                "de": "Blick auf Lobos vom nördlichen Ende.",
+                "hu": "Kilátás Lobos szigetére az északi végpontról.",
+                "ro": "Vedere spre Lobos din punctul nordic.",
+                "en": "View of Lobos from the northern end."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Citrus Surf Café",
+                "tip": "Gesunde Bowls und Säfte für Radfahrer."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Citrus Surf Café",
+                "tip": "Egészséges tálak és levek bicikliseknek."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Citrus Surf Café",
+                "tip": "Boluri sănătoase și sucuri pentru cicliști."
+              }
+            ],
+            "en": [
+              {
+                "name": "Citrus Surf Café",
+                "tip": "Healthy bowls and juices for cyclists."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Dünen-Einsamkeit",
+                "tip": "Finden Sie Ihren eigenen Platz im Sand.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Dűnék magánya",
+                "tip": "Találja meg saját helyét a homokban.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Singurătatea dunelor",
+                "tip": "Găsiți-vă propriul loc în nisip.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Dune Solitude",
+                "tip": "Find your own quiet spot in the sand.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Aloe Vera House",
+                "tip": "Lokale Kosmetikprodukte."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Aloe Vera Ház",
+                "tip": "Helyi kozmetikai termékek."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Aloe Vera House",
+                "tip": "Produse cosmetice locale."
+              }
+            ],
+            "en": [
+              {
+                "name": "Aloe Vera House",
+                "tip": "Local cosmetic products."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Fahren Sie nicht direkt auf dem tiefen Sand.",
+              "Achten Sie auf Fußgänger an der Promenade.",
+              "Mieten Sie ein E-Bike für die Dünen-Strecke.",
+              "Viel Wasser mitnehmen, wenig Schatten."
+            ],
+            "hu": [
+              "Ne hajtson közvetlenül a mély homokba.",
+              "Figyeljen a gyalogosokra a sétányon.",
+              "Béreljen e-bike-ot a dűnés szakaszhoz.",
+              "Vigyen sok vizet, kevés az árnyék."
+            ],
+            "ro": [
+              "Nu pedalați direct pe nisipul adânc.",
+              "Atenție la pietoni pe faleză.",
+              "Închiriați o bicicletă electrică pentru dune.",
+              "Luați multă apă, e puțină umbră."
+            ],
+            "en": [
+              "Don't ride directly on deep sand.",
+              "Watch out for pedestrians on the promenade.",
+              "Rent an e-bike for the dunes section.",
+              "Take plenty of water, as there's little shade."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir starten vorsichtig in Richtung Dünenpark, wo der nasse Sand fester, aber die Wege rutschiger sind. Mittags machen wir eine lange Pause im Campanario, um die Kleidung zu trocknen. Am Nachmittag radeln wir durch den Hafen, während der Regen in feinen Sprühnebel übergeht. Den Tag beenden wir mit einer kurzen Fahrt entlang der Küste, immer bereit für den nächsten Unterstand.",
+            "hu": "Óvatosan indulunk a Dűnék felé, ahol a nedves homok keményebb, de az utak csúszósabbak. Délben hosszú pihenőt tartunk a Campanario-ban, hogy megszárítsuk a ruháinkat. Délután a kikötőn keresztül kerekezünk, miközben az eső finom permetté szelídül. A napot egy rövid parti tekeréssel zárjuk, mindig készen a következő menedékhelyre.",
+            "ro": "Pornim cu atenție spre parcul dunelor, unde nisipul ud e mai ferm, dar drumurile sunt alunecoase. La prânz facem o pauză lungă la Campanario pentru a ne usca hainele. După-amiaza pedalăm prin port, în timp ce ploaia se transformă într-o burniță fină. Încheiem ziua cu o scurtă tură pe coastă, mereu pregătiți pentru următorul adăpost.",
+            "en": "We start cautiously towards the Dunes Park, where the wet sand is firmer but the paths are more slippery. At midday, we take a long break at Campanario to dry our clothes. In the afternoon, we cycle through the port as the rain turns into a fine mist. We end the day with a short ride along the coast, always ready for the next shelter."
+          },
+          "stops": [
+            {
+              "name": "Dunes Natural Park",
+              "tip_5lang": {
+                "de": "Vorsicht auf nassem Asphalt.",
+                "hu": "Vigyázat a nedves aszfalton.",
+                "ro": "Atenție pe asfaltul umed.",
+                "en": "Caution on wet asphalt."
+              }
+            },
+            {
+              "name": "El Campanario",
+              "tip_5lang": {
+                "de": "Fahrradständer unter Arkaden.",
+                "hu": "Biciklitárolók az árkádok alatt.",
+                "ro": "Rafturi de biciclete sub arcade.",
+                "en": "Bike racks under the arcades."
+              }
+            },
+            {
+              "name": "Puerto de Corralejo",
+              "tip_5lang": {
+                "de": "Bremsen bei Nässe prüfen.",
+                "hu": "Ellenőrizze a fékeket vizes úton.",
+                "ro": "Verificați frânele pe umiditate.",
+                "en": "Check brakes in wet conditions."
+              }
+            },
+            {
+              "name": "Playa de Corralejo Viejo",
+              "tip_5lang": {
+                "de": "Kurzer Stopp im Strandcafé.",
+                "hu": "Rövid megálló a parti kávézóban.",
+                "ro": "Oprire scurtă la cafeneaua de pe plajă.",
+                "en": "Short stop at the beach cafe."
+              }
+            },
+            {
+              "name": "Martiño Lighthouse (View)",
+              "tip_5lang": {
+                "de": "Starke Böen am Leuchtturm.",
+                "hu": "Erős széllökések a világítótoronynál.",
+                "ro": "Rafale puternice la far.",
+                "en": "Strong gusts at the lighthouse."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vulkanischer Asphalt wird bei Regen extrem rutschig.",
+              "Schutzbleche sind bei diesem Wetter ein Muss.",
+              "Vermeiden Sie tiefe Pfützen in den Dünengebieten.",
+              "Winddichte Regenkleidung schützt vor Auskühlung.",
+              "Nutzen Sie die Tunnelpassagen als schnelle Zuflucht."
+            ],
+            "hu": [
+              "A vulkáni aszfalt esőben rendkívül csúszóssá válik.",
+              "A sárvédő ebben az időben elengedhetetlen.",
+              "Kerülje a mély tócsákat a dűnék környékén.",
+              "A szélálló esőruha véd a lehűlés ellen.",
+              "Használja az aluljárókat gyors menedékként."
+            ],
+            "ro": [
+              "Asfaltul vulcanic devine extrem de alunecos la ploaie.",
+              "Apărătorile de noroi sunt obligatorii pe această vreme.",
+              "Evitați bălțile adânci în zonele cu dune.",
+              "Hainele de ploaie rezistente la vânt previn răcirea.",
+              "Folosiți pasajele subterane ca refugiu rapid."
+            ],
+            "en": [
+              "Volcanic asphalt becomes extremely slippery when wet.",
+              "Mudguards are a must in this weather.",
+              "Avoid deep puddles in the dune areas.",
+              "Windproof rain gear protects against chilling.",
+              "Use underpass passages as quick refuge."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Traumtag für Radfahrer: Die milde Wintersonne wärmt uns auf der Fahrt zu den Dünen. Mittags ist es in der Stadt lebhaft, aber die Temperaturen bleiben perfekt für sportliche Aktivität. Nachmittags erkunden wir den Hafen und die Altstadtgassen ohne die drückende Sommerhitze. Zum Abschluss radeln wir in Richtung Norden, um das goldene Winterlicht am Leuchtturm-Aussichtspunkt zu erleben.",
+            "hu": "Álomnap a kerékpárosoknak: az enyhe téli napsütés melenget a dűnék felé vezető úton. Délben a város élénk, de a hőmérséklet tökéletes a sportoláshoz. Délután a kikötőt és az óvárost fedezzük fel, a nyomasztó nyári hőség nélkül. Végül észak felé tekerünk, hogy elcsípjük az aranyló téli fényeket a világítótoronynál.",
+            "ro": "O zi de vis pentru bicicliști: soarele blând de iarnă ne încălzește în drum spre dune. La prânz orașul e plin de viață, dar temperaturile rămân perfecte pentru sport. După-amiaza explorăm portul și străzile centrului vechi fără canicula verii. La final pedalăm spre nord pentru a surprinde lumina aurie de iarnă la punctul de observație al farului.",
+            "en": "A dream day for cyclists: the mild winter sun warms us on the ride to the dunes. At midday, the town is lively, but temperatures remain perfect for sports activity. In the afternoon, we explore the port and old town alleys without the oppressive summer heat. To finish, we cycle north to experience the golden winter light at the lighthouse viewpoint."
+          },
+          "stops": [
+            {
+              "name": "Dunes Natural Park",
+              "tip_5lang": {
+                "de": "Beste Zeit für Fotos im weichen Licht.",
+                "hu": "Legjobb idő fotózni a lágy fényben.",
+                "ro": "Cel mai bun moment pentru poze în lumină difuză.",
+                "en": "Best time for photos in soft light."
+              }
+            },
+            {
+              "name": "El Campanario",
+              "tip_5lang": {
+                "de": "Sonnige Plätze im Innenhof suchen.",
+                "hu": "Keressen napos helyet az udvaron.",
+                "ro": "Căutați locuri însorite în curte.",
+                "en": "Look for sunny spots in the courtyard."
+              }
+            },
+            {
+              "name": "Puerto de Corralejo",
+              "tip_5lang": {
+                "de": "Angenehme Temperaturen am Kai.",
+                "hu": "Kellemes hőmérséklet a rakparton.",
+                "ro": "Temperaturi plăcute pe chei.",
+                "en": "Pleasant temperatures at the quay."
+              }
+            },
+            {
+              "name": "Playa de Corralejo Viejo",
+              "tip_5lang": {
+                "de": "Wenig Windschatten am Strand.",
+                "hu": "Kevés a szélvédett hely a parton.",
+                "ro": "Puțin adăpost împotriva vântului.",
+                "en": "Little wind shelter on the beach."
+              }
+            },
+            {
+              "name": "Martiño Lighthouse (View)",
+              "tip_5lang": {
+                "de": "Frühzeitig losfahren vor dem Dunkeln.",
+                "hu": "Induljon el időben a sötétedés előtt.",
+                "ro": "Plecați din timp înainte de întuneric.",
+                "en": "Leave early before it gets dark."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Wintertage sind ideal für lange Touren.",
+              "Unterschätzen Sie den Gegenwind bei der Rückfahrt nicht.",
+              "Ein leichtes Langarmshirt schützt vor dem Fahrtwind.",
+              "Die Sonne geht im Winter bereits gegen 18:00 Uhr unter.",
+              "Trinken Sie ausreichend, auch wenn es kühler wirkt."
+            ],
+            "hu": [
+              "A téli napok ideálisak a hosszú túrákhoz.",
+              "Ne becsülje alá a szembeszelet a visszaúton.",
+              "Egy könnyű hosszú ujjú póló véd a menetszéltől.",
+              "A nap télen már 18:00 körül lenyugszik.",
+              "Igyon eleget, még ha hűvösebbnek is tűnik az idő."
+            ],
+            "ro": [
+              "Zilele de iarnă sunt ideale pentru tururi lungi.",
+              "Nu subestimați vântul din față la întoarcere.",
+              "O bluză ușoară cu mânecă lungă protejează de vânt.",
+              "Soarele apune deja în jur de ora 18:00 iarna.",
+              "Beți suficiente lichide, chiar dacă pare mai răcoare."
+            ],
+            "en": [
+              "Winter days are ideal for long tours.",
+              "Don't underestimate the headwind on the way back.",
+              "A light long-sleeve shirt protects against the wind.",
+              "The sun sets as early as 6:00 PM in winter.",
+              "Drink enough water even if it feels cooler."
+            ]
+          }
+        }
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 15.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Parque Natural de las Dunas",
+            "hu": "Dűnék Nemzeti Park",
+            "ro": "Parque Natural de las Dunas",
+            "en": "Dunes Natural Park"
+          },
+          "coords": [
+            -13.8405,
+            28.7005
+          ],
+          "category": "natural features",
+          "arrive_at": "09:20",
+          "stay_min": 150,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Parken Sie an den markierten Streifen.",
+            "hu": "Parkoljon a kijelölt sávokban.",
+            "ro": "Parcați pe marginile marcate.",
+            "en": "Park on the marked roadside strips."
+          }
+        },
+        {
+          "name": {
+            "de": "El Campanario",
+            "hu": "El Campanario",
+            "ro": "El Campanario",
+            "en": "El Campanario"
+          },
+          "coords": [
+            -13.8615,
+            28.7315
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Tiefgarage unter dem Zentrum vorhanden.",
+            "hu": "Mélygarázs áll rendelkezésre a központ alatt.",
+            "ro": "Parcare subterană disponibilă sub centru.",
+            "en": "Underground parking available under the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Puerto de Corralejo",
+            "hu": "Corralejo kikötő",
+            "ro": "Portul Corralejo",
+            "en": "Puerto de Corralejo"
+          },
+          "coords": [
+            -13.8655,
+            28.7425
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "13:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Basis für Ausflüge nach Lobos.",
+            "hu": "Kiindulópont a Lobos-szigeti kirándulásokhoz.",
+            "ro": "Baza pentru excursii spre insula Lobos.",
+            "en": "Base for excursions to Lobos Island."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa de la Goleta",
+            "hu": "Playa de la Goleta",
+            "ro": "Playa de la Goleta",
+            "en": "Playa de la Goleta"
+          },
+          "coords": [
+            -13.8645,
+            28.7345
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:45",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Beliebter Strand mit guter Erreichbarkeit.",
+            "hu": "Népszerű strand jó elérhetőséggel.",
+            "ro": "Plajă populară cu accesibilitate bună.",
+            "en": "Popular beach with good accessibility."
+          }
+        },
+        {
+          "name": {
+            "de": "Iglesia de Nuestra Señora del Carmen",
+            "hu": "Kármelhegyi Boldogasszony-templom",
+            "ro": "Iglesia de Nuestra Señora del Carmen",
+            "en": "Nuestra Señora del Carmen Church"
+          },
+          "coords": [
+            -13.8685,
+            28.7395
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:55",
+          "stay_min": 65,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ein schöner Abschluss im historischen Kern.",
+            "hu": "Szép befejezés a történelmi magban.",
+            "ro": "Un final frumos în nucleul istoric.",
+            "en": "A nice finish in the historic core."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Tour in den weiten Dünen von Corralejo, wo Sie den Wagen direkt an den Traumstränden parken können. Ein Morgen voller Sonne und Sand.\r\n\r\nMittags geht es zum El Campanario für Shopping und Kulinarik in entspannter Atmosphäre.\r\n\r\nDer Nachmittag führt Sie zum Hafen und zur Playa de la Goleta, wo das kristallklare Wasser zum Baden einlädt.\r\n\r\nBeenden Sie den Tag flexibel im Ortszentrum, bevor Sie gemütlich zu Ihrer Unterkunft zurückkehren.",
+        "hu": "Kezdje a túrát Corralejo tágas dűnéinél, ahol az autót közvetlenül az álomszép strandok mellett parkolhatja le. Homokos, napsütéses reggel.\r\n\r\nDélben irány az El Campanario vásárolni és ebédelni egy pihentető környezetben.\r\n\r\nA délután a kikötőhöz és a Playa de la Goleta strandhoz viszi, ahol kristálytiszta víz várja.\r\n\r\nZárja a napot rugalmasan a központban, mielőtt kényelmesen visszatérne a szállására.",
+        "ro": "Începeți turul în dunele vaste din Corralejo, unde puteți parca mașina chiar lângă plajele de vis. O dimineață plină de soare și nisip.\r\n\r\nLa prânz, mergeți la El Campanario pentru cumpărături și gastronomie într-o atmosferă relaxată.\r\n\r\nDupă-amiaza vă duce în port și la Playa de la Goleta, unde apa cristalină vă invită la baie.\r\n\r\nÎncheiați ziua flexibil în centrul orașului înainte de a vă întoarce confortabil la cazare.",
+        "en": "Start your tour in the vast dunes of Corralejo, where you can park your car directly by the dream beaches. A morning full of sun and sand.\r\n\r\nAt midday, head to El Campanario for shopping and dining in a relaxed atmosphere.\r\n\r\nThe afternoon takes you to the harbor and Playa de la Goleta, where crystal-clear water awaits.\r\n\r\nEnd the day flexibly in the town center before comfortably returning to your accommodation."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurante El Rompeolas",
+            "tip": "Gehobene Fischküche am Wasser."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Restaurante El Rompeolas",
+            "tip": "Elegáns halkonyha a vízparton."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurante El Rompeolas",
+            "tip": "Bucătărie rafinată cu pește pe mal."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurante El Rompeolas",
+            "tip": "Upscale fish cuisine by the water."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Grandes Playas",
+            "tip": "Ruhige Abschnitte zwischen den Dünen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Grandes Playas",
+            "tip": "Csendes szakaszok a dűnék között.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grandes Playas",
+            "tip": "Secțiuni liniștite între dune.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Grandes Playas",
+            "tip": "Quiet sections between the dunes.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Las Palmeras",
+            "tip": "Einkaufszentrum mit vielen Marken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Las Palmeras",
+            "tip": "Bevásárlóközpont számos márkával."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Las Palmeras",
+            "tip": "Centru comercial cu multe mărci."
+          }
+        ],
+        "en": [
+          {
+            "name": "Las Palmeras",
+            "tip": "Shopping center with many brands."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Lassen Sie keine Wertsachen im Auto.",
+          "Parken im Zentrum kann schwierig sein.",
+          "Die Dünenstraße ist sehr fotogen.",
+          "Mietwagen sind die beste Art, Fuerteventura zu erkunden."
+        ],
+        "hu": [
+          "Ne hagyjon értéket az autóban.",
+          "A központban nehéz lehet parkolni.",
+          "A dűnék közötti út nagyon fotogén.",
+          "Az autóbérlés a legjobb mód Fuerteventura felfedezésére."
+        ],
+        "ro": [
+          "Nu lăsați obiecte de valoare în mașină.",
+          "Parcarea în centru poate fi dificilă.",
+          "Drumul prin dune este foarte fotogenic.",
+          "Închirierea auto este cea mai bună cale de a explora insula."
+        ],
+        "en": [
+          "Don't leave valuables in the car.",
+          "Parking in the center can be difficult.",
+          "The dune road is very photogenic.",
+          "Car rentals are the best way to explore Fuerteventura."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Starten Sie Ihre Tour in den weiten Dünen von Corralejo, wo Sie den Wagen direkt an den Traumstränden parken können. Ein Morgen voller Sonne und Sand.\r\n\r\nMittags geht es zum El Campanario für Shopping und Kulinarik in entspannter Atmosphäre.\r\n\r\nDer Nachmittag führt Sie zum Hafen und zur Playa de la Goleta, wo das kristallklare Wasser zum Baden einlädt.\r\n\r\nBeenden Sie den Tag flexibel im Ortszentrum, bevor Sie gemütlich zu Ihrer Unterkunft zurückkehren.",
+            "hu": "Kezdje a túrát Corralejo tágas dűnéinél, ahol az autót közvetlenül az álomszép strandok mellett parkolhatja le. Homokos, napsütéses reggel.\r\n\r\nDélben irány az El Campanario vásárolni és ebédelni egy pihentető környezetben.\r\n\r\nA délután a kikötőhöz és a Playa de la Goleta strandhoz viszi, ahol kristálytiszta víz várja.\r\n\r\nZárja a napot rugalmasan a központban, mielőtt kényelmesen visszatérne a szállására.",
+            "ro": "Începeți turul în dunele vaste din Corralejo, unde puteți parca mașina chiar lângă plajele de vis. O dimineață plină de soare și nisip.\r\n\r\nLa prânz, mergeți la El Campanario pentru cumpărături și gastronomie într-o atmosferă relaxată.\r\n\r\nDupă-amiaza vă duce în port și la Playa de la Goleta, unde apa cristalină vă invită la baie.\r\n\r\nÎncheiați ziua flexibil în centrul orașului înainte de a vă întoarce confortabil la cazare.",
+            "en": "Start your tour in the vast dunes of Corralejo, where you can park your car directly by the dream beaches. A morning full of sun and sand.\r\n\r\nAt midday, head to El Campanario for shopping and dining in a relaxed atmosphere.\r\n\r\nThe afternoon takes you to the harbor and Playa de la Goleta, where crystal-clear water awaits.\r\n\r\nEnd the day flexibly in the town center before comfortably returning to your accommodation."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Parque Natural de las Dunas",
+                "hu": "Dűnék Nemzeti Park",
+                "ro": "Parque Natural de las Dunas",
+                "en": "Dunes Natural Park"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie an den markierten Streifen.",
+                "hu": "Parkoljon a kijelölt sávokban.",
+                "ro": "Parcați pe marginile marcate.",
+                "en": "Park on the marked roadside strips."
+              }
+            },
+            {
+              "name": {
+                "de": "El Campanario",
+                "hu": "El Campanario",
+                "ro": "El Campanario",
+                "en": "El Campanario"
+              },
+              "tip_5lang": {
+                "de": "Tiefgarage unter dem Zentrum vorhanden.",
+                "hu": "Mélygarázs áll rendelkezésre a központ alatt.",
+                "ro": "Parcare subterană disponibilă sub centru.",
+                "en": "Underground parking available under the center."
+              }
+            },
+            {
+              "name": {
+                "de": "Puerto de Corralejo",
+                "hu": "Corralejo kikötő",
+                "ro": "Portul Corralejo",
+                "en": "Puerto de Corralejo"
+              },
+              "tip_5lang": {
+                "de": "Basis für Ausflüge nach Lobos.",
+                "hu": "Kiindulópont a Lobos-szigeti kirándulásokhoz.",
+                "ro": "Baza pentru excursii spre insula Lobos.",
+                "en": "Base for excursions to Lobos Island."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa de la Goleta",
+                "hu": "Playa de la Goleta",
+                "ro": "Playa de la Goleta",
+                "en": "Playa de la Goleta"
+              },
+              "tip_5lang": {
+                "de": "Beliebter Strand mit guter Erreichbarkeit.",
+                "hu": "Népszerű strand jó elérhetőséggel.",
+                "ro": "Plajă populară cu accesibilitate bună.",
+                "en": "Popular beach with good accessibility."
+              }
+            },
+            {
+              "name": {
+                "de": "Iglesia de Nuestra Señora del Carmen",
+                "hu": "Kármelhegyi Boldogasszony-templom",
+                "ro": "Iglesia de Nuestra Señora del Carmen",
+                "en": "Nuestra Señora del Carmen Church"
+              },
+              "tip_5lang": {
+                "de": "Ein schöner Abschluss im historischen Kern.",
+                "hu": "Szép befejezés a történelmi magban.",
+                "ro": "Un final frumos în nucleul istoric.",
+                "en": "A nice finish in the historic core."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Restaurante El Rompeolas",
+                "tip": "Gehobene Fischküche am Wasser."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Restaurante El Rompeolas",
+                "tip": "Elegáns halkonyha a vízparton."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Restaurante El Rompeolas",
+                "tip": "Bucătărie rafinată cu pește pe mal."
+              }
+            ],
+            "en": [
+              {
+                "name": "Restaurante El Rompeolas",
+                "tip": "Upscale fish cuisine by the water."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Grandes Playas",
+                "tip": "Ruhige Abschnitte zwischen den Dünen.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Grandes Playas",
+                "tip": "Csendes szakaszok a dűnék között.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Grandes Playas",
+                "tip": "Secțiuni liniștite între dune.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Grandes Playas",
+                "tip": "Quiet sections between the dunes.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Las Palmeras",
+                "tip": "Einkaufszentrum mit vielen Marken."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Las Palmeras",
+                "tip": "Bevásárlóközpont számos márkával."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Las Palmeras",
+                "tip": "Centru comercial cu multe mărci."
+              }
+            ],
+            "en": [
+              {
+                "name": "Las Palmeras",
+                "tip": "Shopping center with many brands."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Lassen Sie keine Wertsachen im Auto.",
+              "Parken im Zentrum kann schwierig sein.",
+              "Die Dünenstraße ist sehr fotogen.",
+              "Mietwagen sind die beste Art, Fuerteventura zu erkunden."
+            ],
+            "hu": [
+              "Ne hagyjon értéket az autóban.",
+              "A központban nehéz lehet parkolni.",
+              "A dűnék közötti út nagyon fotogén.",
+              "Az autóbérlés a legjobb mód Fuerteventura felfedezésére."
+            ],
+            "ro": [
+              "Nu lăsați obiecte de valoare în mașină.",
+              "Parcarea în centru poate fi dificilă.",
+              "Drumul prin dune este foarte fotogenic.",
+              "Închirierea auto este cea mai bună cale de a explora insula."
+            ],
+            "en": [
+              "Don't leave valuables in the car.",
+              "Parking in the center can be difficult.",
+              "The dune road is very photogenic.",
+              "Car rentals are the best way to explore Fuerteventura."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erreichen wir bequem den Dünenpark, wo wir die dramatischen Wolken über dem Meer aus dem trockenen Innenraum beobachten. Mittags parken wir in der Tiefgarage des El Campanario, um völlig trocken shoppen zu gehen. Der Hafenbesuch am Nachmittag ist kurz, bevor wir uns in ein gemütliches Restaurant zurückziehen. Den Tag beenden wir sicher im Auto, während der Regen gegen die Scheiben trommelt.",
+            "hu": "Autóval kényelmesen elérjük a dűnéket, ahol a száraz utastérből figyelhetjük a tenger feletti drámai felhőket. Délben az El Campanario mélygarázsában parkolunk, így teljesen szárazon vásárolhatunk. A délutáni kikötői látogatás rövid, mielőtt visszahúzódnánk egy barátságos étterembe. A napot biztonságban zárjuk az autóban, miközben az eső az üvegen kopog.",
+            "ro": "Cu mașina ajungem confortabil la parcul dunelor, observând norii dramatici deasupra mării din interiorul uscat. La prânz parcăm în garajul subteran de la El Campanario pentru cumpărături complet uscate. Vizita în port de după-amiază e scurtă, înainte de a ne retrage într-un restaurant primitor. Încheiem ziua în siguranță în mașină, în timp ce ploaia bate în geamuri.",
+            "en": "By car, we comfortably reach the Dunes Park, watching the dramatic clouds over the sea from the dry interior. At midday, we park in the underground garage of El Campanario for completely dry shopping. The port visit in the afternoon is short before we retreat to a cozy restaurant. We end the day safely in the car as the rain drums against the windows."
+          },
+          "stops": [
+            {
+              "name": "Dunes Natural Park",
+              "tip_5lang": {
+                "de": "Parkplätze nahe der Straße nutzen.",
+                "hu": "Parkoljon az út menti helyeken.",
+                "ro": "Parcați aproape de șosea.",
+                "en": "Park close to the road."
+              }
+            },
+            {
+              "name": "El Campanario",
+              "tip_5lang": {
+                "de": "Tiefgarage hält das Auto trocken.",
+                "hu": "Mélygarázs szárazon tartja az autót.",
+                "ro": "Parcarea subterană menține mașina uscată.",
+                "en": "Underground parking keeps the car dry."
+              }
+            },
+            {
+              "name": "Puerto de Corralejo",
+              "tip_5lang": {
+                "de": "Nahe am Fährterminal parken.",
+                "hu": "Parkoljon a kompterminál közelében.",
+                "ro": "Parcați aproape de terminal.",
+                "en": "Park near the ferry terminal."
+              }
+            },
+            {
+              "name": "Playa de la Goleta",
+              "tip_5lang": {
+                "de": "Blick aus dem Auto genießen.",
+                "hu": "Élvezze a kilátást az autóból.",
+                "ro": "Bucurați-vă de vedere din mașină.",
+                "en": "Enjoy the view from the car."
+              }
+            },
+            {
+              "name": "Nuestra Señora del Carmen Church",
+              "tip_5lang": {
+                "de": "Kurzer Weg vom Parkplatz.",
+                "hu": "Rövid út a parkolótól.",
+                "ro": "Drum scurt de la parcare.",
+                "en": "Short walk from the parking."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie das Parken in tiefliegenden Zonen bei Starkregen.",
+              "Die Straßen können durch Sand und Wasser rutschig sein.",
+              "Nutzen Sie die Tiefgarage im El Campanario (oft kostenlos).",
+              "Prüfen Sie die Scheibenwischer Ihres Mietwagens.",
+              "Halten Sie Abstand, da Bremswege sich verlängern."
+            ],
+            "hu": [
+              "Heves esőzéskor kerülje a mélyen fekvő parkolókat.",
+              "Az utak a homok és a víz miatt csúszósak lehetnek.",
+              "Használja az El Campanario mélygarázsát (gyakran ingyenes).",
+              "Ellenőrizze a bérautó ablaktörlőit.",
+              "Tartson nagyobb követési távolságot a hosszabb fékút miatt."
+            ],
+            "ro": [
+              "Evitați parcarea în zone joase în caz de ploi torențiale.",
+              "Drumurile pot fi alunecoase din cauza nisipului și apei.",
+              "Folosiți garajul subteran de la El Campanario (adesea gratuit).",
+              "Verificați ștergătoarele mașinii închiriate.",
+              "Păstrați distanța, deoarece spațiul de frânare crește."
+            ],
+            "en": [
+              "Avoid parking in low-lying zones during heavy rain.",
+              "Roads can be slippery due to sand and water.",
+              "Use the underground garage at El Campanario (often free).",
+              "Check the windshield wipers of your rental car.",
+              "Keep distance as braking distances increase."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter ist das Auto ideal, um den Dünenpark in den kühleren Morgenstunden zu erkunden. Mittags bietet der Wagen eine klimatisierte Pause nach dem Shopping im Campanario. Am Nachmittag erreichen wir schnell den Hafen, wo wir entspannt parken können. Den Tag lassen wir mit einer Fahrt zur Carmen-Kirche ausklingen, während die milde Wintersonne die Stadt in warmes Licht taucht.",
+            "hu": "Télen az autó ideális a dűnék felfedezéséhez a hűvösebb reggeli órákban. Délben az autó légkondicionált pihenőt kínál a Campanario-beli vásárlás után. Délután gyorsan elérjük a kikötőt, ahol nyugodtan parkolhatunk. A napot a Carmen-templomhoz vezető úttal zárjuk, miközben az enyhe téli nap meleg fénybe vonja a várost.",
+            "ro": "Iarna, mașina este ideală pentru a explora parcul dunelor în orele mai răcoroase ale dimineții. La prânz, mașina oferă o pauză climatizată după cumpărăturile din Campanario. După-amiaza ajungem rapid în port, unde putem parca relaxați. Încheiem ziua cu o tură până la biserica Carmen, în timp ce soarele blând de iarnă scaldă orașul în lumină caldă.",
+            "en": "In winter, the car is ideal for exploring the Dunes Park in the cooler morning hours. At midday, the car offers an air-conditioned break after shopping at Campanario. In the afternoon, we quickly reach the port, where we can park easily. We end the day with a drive to the Carmen Church as the mild winter sun bathes the town in warm light."
+          },
+          "stops": [
+            {
+              "name": "Dunes Natural Park",
+              "tip_5lang": {
+                "de": "Beste Lichtverhältnisse am Morgen.",
+                "hu": "Legjobb fényviszonyok reggel.",
+                "ro": "Cele mai bune condiții de lumină dimineața.",
+                "en": "Best light conditions in the morning."
+              }
+            },
+            {
+              "name": "El Campanario",
+              "tip_5lang": {
+                "de": "Keine Hitzegefahr im geparkten Auto.",
+                "hu": "Nincs hőségveszély a parkoló autóban.",
+                "ro": "Fără risc de supraîncălzire în mașină.",
+                "en": "No heat risk in the parked car."
+              }
+            },
+            {
+              "name": "Puerto de Corralejo",
+              "tip_5lang": {
+                "de": "Mehr freie Parkplätze als im Sommer.",
+                "hu": "Több a szabad parkolóhely, mint nyáron.",
+                "ro": "Mai multe locuri de parcare decât vara.",
+                "en": "More free parking spots than in summer."
+              }
+            },
+            {
+              "name": "Playa de la Goleta",
+              "tip_5lang": {
+                "de": "Perfekt für einen kurzen Stopp.",
+                "hu": "Tökéletes egy rövid megállóhoz.",
+                "ro": "Perfect pentru o oprire scurtă.",
+                "en": "Perfect for a short stop."
+              }
+            },
+            {
+              "name": "Nuestra Señora del Carmen Church",
+              "tip_5lang": {
+                "de": "Abends windgeschützt parken.",
+                "hu": "Este szélvédett helyen parkoljon.",
+                "ro": "Parcați la ferit de vânt seara.",
+                "en": "Park in a wind-protected spot at night."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Parkplatzsuche ist im Winter deutlich entspannter.",
+              "Lassen Sie keine Wertsachen sichtbar im Auto liegen.",
+              "Die Hauptstraße FV-1 ist gut ausgebaut und sicher.",
+              "Nutzen Sie das Auto, um windanfällige Orte zu überbrücken.",
+              "Tanken Sie rechtzeitig, Tankstellen sind im Ort zentral."
+            ],
+            "hu": [
+              "A parkolóhely-keresés télen sokkal nyugodtabb.",
+              "Ne hagyjon értéktárgyakat látható helyen az autóban.",
+              "Az FV-1 főút jól kiépített és biztonságos.",
+              "Használja az autót a szelesebb szakaszok áthidalására.",
+              "Tankoljon időben, a benzinkutak a központban vannak."
+            ],
+            "ro": [
+              "Căutarea unui loc de parcare este mult mai relaxată iarna.",
+              "Nu lăsați obiecte de valoare la vedere în mașină.",
+              "Drumul principal FV-1 este bine întreținut și sigur.",
+              "Folosiți mașina pentru a traversa zonele expuse la vânt.",
+              "Alimentați la timp, benzinăriile sunt centrale în oraș."
+            ],
+            "en": [
+              "Finding a parking spot is much more relaxed in winter.",
+              "Do not leave valuables visible in the car.",
+              "The main FV-1 road is well-developed and safe.",
+              "Use the car to bypass wind-prone areas.",
+              "Refuel in time, gas stations are centrally located."
+            ]
+          }
+        }
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 12.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Zentraler Busbahnhof",
+            "hu": "Központi buszállomás",
+            "ro": "Autogara centrală",
+            "en": "Central Bus Station"
+          },
+          "coords": [
+            -13.8675,
+            28.7372
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Startpunkt für die Linie 6 zu den Dünen.",
+            "hu": "A 6-os busz indulási helye a dűnékhez.",
+            "ro": "Punct de plecare pentru linia 6 spre dune.",
+            "en": "Starting point for line 6 to the dunes."
+          }
+        },
+        {
+          "name": {
+            "de": "Grandes Playas (Dunas)",
+            "hu": "Grandes Playas (Dűnék)",
+            "ro": "Grandes Playas (Dune)",
+            "en": "Grandes Playas (Dunes)"
+          },
+          "coords": [
+            -13.8405,
+            28.7005
+          ],
+          "category": "natural features",
+          "arrive_at": "10:30",
+          "stay_min": 150,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Haltestelle direkt am Dünenpark.",
+            "hu": "Megálló közvetlenül a dűnéknél.",
+            "ro": "Stație chiar lângă parcul de dune.",
+            "en": "Bus stop right by the dunes park."
+          }
+        },
+        {
+          "name": {
+            "de": "El Campanario",
+            "hu": "El Campanario",
+            "ro": "El Campanario",
+            "en": "El Campanario"
+          },
+          "coords": [
+            -13.8615,
+            28.7315
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "13:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Bus hält in der Nähe des Haupteingangs.",
+            "hu": "A busz a főbejárat közelében áll meg.",
+            "ro": "Autobuzul oprește lângă intrarea principală.",
+            "en": "Bus stops near the main entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Puerto de Corralejo",
+            "hu": "Corralejo kikötő",
+            "ro": "Portul Corralejo",
+            "en": "Puerto de Corralejo"
+          },
+          "coords": [
+            -13.8655,
+            28.7425
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "14:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Endstation im Norden des Ortes.",
+            "hu": "Végállomás a település északi részén.",
+            "ro": "Capăt de linie în nordul orașului.",
+            "en": "Terminus in the north of the town."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa de la Goleta",
+            "hu": "Playa de la Goleta",
+            "ro": "Playa de la Goleta",
+            "en": "Playa de la Goleta"
+          },
+          "coords": [
+            -13.8645,
+            28.7345
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:05",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Leicht zu Fuß vom Busbahnhof erreichbar.",
+            "hu": "Könnyen elérhető gyalog a buszállomástól.",
+            "ro": "Ușor accesibil pe jos de la autogară.",
+            "en": "Easily reachable on foot from the bus station."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie den zuverlässigen Busdienst (Tiadhe), um die Dünen zu erkunden. Der Morgen am Grandes Playas ist der Inbegriff von Fuerteventura.\r\n\r\nMittags bringt Sie der Bus zurück ins Geschehen beim El Campanario, ideal für eine Pause vom Wind.\r\n\r\nDer Nachmittag gehört dem Hafenviertel, wo Sie den Trubel der Fähren beobachten können.\r\n\r\nBeenden Sie den Tag an der Playa de la Goleta, bevor Sie bequem mit dem Bus zurück zum Ausgangspunkt fahren.",
+        "hu": "Használja a megbízható helyi buszt (Tiadhe) a dűnék felfedezéséhez. A Grandes Playas strandnál töltött reggel Fuerteventura igazi arcát mutatja.\r\n\r\nDélben a busz visszaviszi a sűrűjébe, az El Campanarióhoz, amely ideális menedék a szél elől.\r\n\r\nA délután a kikötői negyedé, ahol megfigyelheti a kompok jövés-menését.\r\n\r\nZárja a napot a Playa de la Goleta strandon, majd utazzon kényelmesen busszal a kiindulópontig.",
+        "ro": "Folosiți serviciul de autobuz de încredere (Tiadhe) pentru a explora dunele. Dimineața la Grandes Playas este esența Fuerteventurii.\r\n\r\nLa prânz, autobuzul vă aduce înapoi la El Campanario, ideal pentru o pauză de la vânt.\r\n\r\nDupă-amiaza aparține zonei portuare, unde puteți urmări agitația feriboturilor.\r\n\r\nÎncheiați ziua la Playa de la Goleta înainte de a vă întoarce confortabil cu autobuzul la punctul de plecare.",
+        "en": "Use the reliable bus service (Tiadhe) to explore the dunes. A morning at Grandes Playas is the epitome of Fuerteventura.\r\n\r\nAt midday, the bus takes you back to the action at El Campanario, ideal for a break from the wind.\r\n\r\nThe afternoon belongs to the harbor district, where you can watch the bustle of the ferries.\r\n\r\nEnd the day at Playa de la Goleta before heading comfortably back to your starting point by bus."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Banana Lounge",
+            "tip": "Chillige Atmosphäre in Busnähe."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Banana Lounge",
+            "tip": "Laza hangulat a busz közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Banana Lounge",
+            "tip": "Atmosferă relaxată lângă autobuz."
+          }
+        ],
+        "en": [
+          {
+            "name": "Banana Lounge",
+            "tip": "Chilled atmosphere near the bus."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Balkon von El Campanario",
+            "tip": "Ruhiger Blick über die Dächer.",
+            "emoji": "🏙️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "El Campanario erkélye",
+            "tip": "Csendes kilátás a háztetőkre.",
+            "emoji": "🏙️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Balconul de la El Campanario",
+            "tip": "Vedere liniștită peste acoperișuri.",
+            "emoji": "🏙️"
+          }
+        ],
+        "en": [
+          {
+            "name": "El Campanario Balcony",
+            "tip": "Quiet views over the rooftops.",
+            "emoji": "🏙️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fundgrube",
+            "tip": "Parfümerie und Accessoires."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fundgrube",
+            "tip": "Parfüméria és kiegészítők."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fundgrube",
+            "tip": "Parfumerie și accesorii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fundgrube",
+            "tip": "Perfumery and accessories."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine BTF-Karte für günstigere Fahrten.",
+          "Die Linie 6 fährt sehr regelmäßig.",
+          "Busse sind klimatisiert und sauber.",
+          "Haltestellen sind gut markiert."
+        ],
+        "hu": [
+          "Vegyen BTF kártyát a kedvezőbb viteldíjakért.",
+          "A 6-os vonal nagyon sűrűn jár.",
+          "A buszok légkondicionáltak és tiszták.",
+          "A megállók jól láthatóan jelzettek."
+        ],
+        "ro": [
+          "Cumpărați un card BTF pentru călătorii mai ieftine.",
+          "Linia 6 circulă foarte regulat.",
+          "Autobuzele sunt curate și au aer condiționat.",
+          "Stațiile sunt bine marcate."
+        ],
+        "en": [
+          "Buy a BTF card for cheaper fares.",
+          "Line 6 runs very regularly.",
+          "Buses are clean and air-conditioned.",
+          "Stops are well-marked."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie den zuverlässigen Busdienst (Tiadhe), um die Dünen zu erkunden. Der Morgen am Grandes Playas ist der Inbegriff von Fuerteventura.\r\n\r\nMittags bringt Sie der Bus zurück ins Geschehen beim El Campanario, ideal für eine Pause vom Wind.\r\n\r\nDer Nachmittag gehört dem Hafenviertel, wo Sie den Trubel der Fähren beobachten können.\r\n\r\nBeenden Sie den Tag an der Playa de la Goleta, bevor Sie bequem mit dem Bus zurück zum Ausgangspunkt fahren.",
+            "hu": "Használja a megbízható helyi buszt (Tiadhe) a dűnék felfedezéséhez. A Grandes Playas strandnál töltött reggel Fuerteventura igazi arcát mutatja.\r\n\r\nDélben a busz visszaviszi a sűrűjébe, az El Campanarióhoz, amely ideális menedék a szél elől.\r\n\r\nA délután a kikötői negyedé, ahol megfigyelheti a kompok jövés-menését.\r\n\r\nZárja a napot a Playa de la Goleta strandon, majd utazzon kényelmesen busszal a kiindulópontig.",
+            "ro": "Folosiți serviciul de autobuz de încredere (Tiadhe) pentru a explora dunele. Dimineața la Grandes Playas este esența Fuerteventurii.\r\n\r\nLa prânz, autobuzul vă aduce înapoi la El Campanario, ideal pentru o pauză de la vânt.\r\n\r\nDupă-amiaza aparține zonei portuare, unde puteți urmări agitația feriboturilor.\r\n\r\nÎncheiați ziua la Playa de la Goleta înainte de a vă întoarce confortabil cu autobuzul la punctul de plecare.",
+            "en": "Use the reliable bus service (Tiadhe) to explore the dunes. A morning at Grandes Playas is the epitome of Fuerteventura.\r\n\r\nAt midday, the bus takes you back to the action at El Campanario, ideal for a break from the wind.\r\n\r\nThe afternoon belongs to the harbor district, where you can watch the bustle of the ferries.\r\n\r\nEnd the day at Playa de la Goleta before heading comfortably back to your starting point by bus."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Zentraler Busbahnhof",
+                "hu": "Központi buszállomás",
+                "ro": "Autogara centrală",
+                "en": "Central Bus Station"
+              },
+              "tip_5lang": {
+                "de": "Startpunkt für die Linie 6 zu den Dünen.",
+                "hu": "A 6-os busz indulási helye a dűnékhez.",
+                "ro": "Punct de plecare pentru linia 6 spre dune.",
+                "en": "Starting point for line 6 to the dunes."
+              }
+            },
+            {
+              "name": {
+                "de": "Grandes Playas (Dunas)",
+                "hu": "Grandes Playas (Dűnék)",
+                "ro": "Grandes Playas (Dune)",
+                "en": "Grandes Playas (Dunes)"
+              },
+              "tip_5lang": {
+                "de": "Haltestelle direkt am Dünenpark.",
+                "hu": "Megálló közvetlenül a dűnéknél.",
+                "ro": "Stație chiar lângă parcul de dune.",
+                "en": "Bus stop right by the dunes park."
+              }
+            },
+            {
+              "name": {
+                "de": "El Campanario",
+                "hu": "El Campanario",
+                "ro": "El Campanario",
+                "en": "El Campanario"
+              },
+              "tip_5lang": {
+                "de": "Bus hält in der Nähe des Haupteingangs.",
+                "hu": "A busz a főbejárat közelében áll meg.",
+                "ro": "Autobuzul oprește lângă intrarea principală.",
+                "en": "Bus stops near the main entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Puerto de Corralejo",
+                "hu": "Corralejo kikötő",
+                "ro": "Portul Corralejo",
+                "en": "Puerto de Corralejo"
+              },
+              "tip_5lang": {
+                "de": "Endstation im Norden des Ortes.",
+                "hu": "Végállomás a település északi részén.",
+                "ro": "Capăt de linie în nordul orașului.",
+                "en": "Terminus in the north of the town."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa de la Goleta",
+                "hu": "Playa de la Goleta",
+                "ro": "Playa de la Goleta",
+                "en": "Playa de la Goleta"
+              },
+              "tip_5lang": {
+                "de": "Leicht zu Fuß vom Busbahnhof erreichbar.",
+                "hu": "Könnyen elérhető gyalog a buszállomástól.",
+                "ro": "Ușor accesibil pe jos de la autogară.",
+                "en": "Easily reachable on foot from the bus station."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Banana Lounge",
+                "tip": "Chillige Atmosphäre in Busnähe."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Banana Lounge",
+                "tip": "Laza hangulat a busz közelében."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Banana Lounge",
+                "tip": "Atmosferă relaxată lângă autobuz."
+              }
+            ],
+            "en": [
+              {
+                "name": "Banana Lounge",
+                "tip": "Chilled atmosphere near the bus."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Balkon von El Campanario",
+                "tip": "Ruhiger Blick über die Dächer.",
+                "emoji": "🏙️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "El Campanario erkélye",
+                "tip": "Csendes kilátás a háztetőkre.",
+                "emoji": "🏙️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Balconul de la El Campanario",
+                "tip": "Vedere liniștită peste acoperișuri.",
+                "emoji": "🏙️"
+              }
+            ],
+            "en": [
+              {
+                "name": "El Campanario Balcony",
+                "tip": "Quiet views over the rooftops.",
+                "emoji": "🏙️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Fundgrube",
+                "tip": "Parfümerie und Accessoires."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Fundgrube",
+                "tip": "Parfüméria és kiegészítők."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Fundgrube",
+                "tip": "Parfumerie și accesorii."
+              }
+            ],
+            "en": [
+              {
+                "name": "Fundgrube",
+                "tip": "Perfumery and accessories."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Kaufen Sie eine BTF-Karte für günstigere Fahrten.",
+              "Die Linie 6 fährt sehr regelmäßig.",
+              "Busse sind klimatisiert und sauber.",
+              "Haltestellen sind gut markiert."
+            ],
+            "hu": [
+              "Vegyen BTF kártyát a kedvezőbb viteldíjakért.",
+              "A 6-os vonal nagyon sűrűn jár.",
+              "A buszok légkondicionáltak és tiszták.",
+              "A megállók jól láthatóan jelzettek."
+            ],
+            "ro": [
+              "Cumpărați un card BTF pentru călătorii mai ieftine.",
+              "Linia 6 circulă foarte regulat.",
+              "Autobuzele sunt curate și au aer condiționat.",
+              "Stațiile sunt bine marcate."
+            ],
+            "en": [
+              "Buy a BTF card for cheaper fares.",
+              "Line 6 runs very regularly.",
+              "Buses are clean and air-conditioned.",
+              "Stops are well-marked."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir nutzen den Bus vom zentralen Bahnhof, um trocken zu den Dünen zu gelangen. Mittags verbringen wir viel Zeit im El Campanario, das durch Buslinien gut angebunden ist und Schutz bietet. Am Nachmittag bringt uns der Bus zum Hafen, wo wir die Wartezeit in den Cafés verbringen. Den Abend beschließen wir mit einer kurzen Busfahrt zurück, ohne im Regen laufen zu müssen.",
+            "hu": "A központi állomásról induló buszt használjuk, hogy szárazon jussunk el a dűnékhez. Délben sok időt töltünk az El Campanario-ban, amely buszjáratokkal jól megközelíthető és védelmet nyújt. Délután a busz a kikötőbe visz, ahol a várakozási időt a kávézókban töltjük. Az estét egy rövid buszúttal zárjuk vissza, anélkül, hogy az esőben kellene gyalogolnunk.",
+            "ro": "Folosim autobuzul din stația centrală pentru a ajunge uscați la dune. La prânz petrecem mult timp la El Campanario, care este bine conectat prin linii de autobuz și oferă protecție. După-amiaza, autobuzul ne duce în port, unde petrecem timpul de așteptare în cafenele. Încheiem seara cu o scurtă călătorie cu autobuzul înapoi, fără a fi nevoiți să mergem prin ploaie.",
+            "en": "We use the bus from the central station to get to the dunes dry. At midday, we spend plenty of time at El Campanario, which is well connected by bus lines and offers shelter. In the afternoon, the bus takes us to the port, where we spend waiting time in cafes. We finish the evening with a short bus ride back, without having to walk in the rain."
+          },
+          "stops": [
+            {
+              "name": "Central Bus Station",
+              "tip_5lang": {
+                "de": "Überdachter Wartebereich vorhanden.",
+                "hu": "Fedett várakozóhely áll rendelkezésre.",
+                "ro": "Zonă de așteptare acoperită disponibilă.",
+                "en": "Covered waiting area available."
+              }
+            },
+            {
+              "name": "Grandes Playas (Dunes)",
+              "tip_5lang": {
+                "de": "Bushaltestelle direkt am Strand.",
+                "hu": "Buszmegálló közvetlenül a parton.",
+                "ro": "Stație de autobuz direct la plajă.",
+                "en": "Bus stop directly at the beach."
+              }
+            },
+            {
+              "name": "El Campanario",
+              "tip_5lang": {
+                "de": "Haltestelle nah am Eingang.",
+                "hu": "Megálló közel a bejárathoz.",
+                "ro": "Stație aproape de intrare.",
+                "en": "Stop close to the entrance."
+              }
+            },
+            {
+              "name": "Puerto de Corralejo",
+              "tip_5lang": {
+                "de": "Häufige Verbindungen bei Regen.",
+                "hu": "Gyakori járatok esőben.",
+                "ro": "Conexiuni frecvente pe ploaie.",
+                "en": "Frequent connections during rain."
+              }
+            },
+            {
+              "name": "Playa de la Goleta",
+              "tip_5lang": {
+                "de": "Unterstand an der Haltestelle.",
+                "hu": "Menedék a megállóban.",
+                "ro": "Adăpost la stație.",
+                "en": "Shelter at the stop."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Tiadhe-Busse (Linie 6) für den Dünenpark.",
+              "Die Haltestellen bieten oft nur wenig Regenschutz.",
+              "Haben Sie Kleingeld oder eine Bezahlkarte bereit.",
+              "Bei Regen können die Busse etwas verspätet sein.",
+              "Die zentrale Station ist der sicherste Ort bei Gewitter."
+            ],
+            "hu": [
+              "Használja a Tiadhe buszokat (6-os vonal) a dűnékhez.",
+              "A megállók gyakran csak kevés védelmet nyújtanak eső ellen.",
+              "Készítsen elő aprópénzt vagy bankkártyát.",
+              "Esőben a buszok kicsit késhetnek.",
+              "A központi állomás a legbiztonságosabb hely vihar esetén."
+            ],
+            "ro": [
+              "Folosiți autobuzele Tiadhe (linia 6) pentru parcul dunelor.",
+              "Stațiile oferă adesea puțină protecție împotriva ploii.",
+              "Pregătiți mărunt sau un card de plată.",
+              "Autobuzele pot avea întârzieri când plouă.",
+              "Stația centrală este cel mai sigur loc în caz de furtună."
+            ],
+            "en": [
+              "Use Tiadhe buses (Line 6) for the Dunes Park.",
+              "Stops often offer little protection from the rain.",
+              "Have small change or a payment card ready.",
+              "Buses may be slightly delayed during rain.",
+              "The central station is the safest place during storms."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein entspannter Wintermorgen beginnt mit dem Bus zu den Grandes Playas, wo die Luft herrlich frisch ist. Mittags nutzen wir die gute Anbindung zum El Campanario für einen Bummel in der Wintersonne. Nachmittags bringt uns der Transit zum Hafen, um das rege Treiben der Fähren zu beobachten. Den Tag lassen wir mit einer ruhigen Fahrt entlang der Küste ausklingen, während es draußen angenehm kühl wird.",
+            "hu": "Egy pihentető téli reggel a buszon kezdődik a Grandes Playas felé, ahol a levegő csodálatosan friss. Délben a jó összeköttetést kihasználva az El Campanario-ba utazunk egy téli napsütéses sétára. Délután a tömegközlekedés a kikötőbe repít, hogy megnézzük a kompok forgalmát. A napot egy nyugodt parti utazással zárjuk, miközben odakint kellemesen lehűl az idő.",
+            "ro": "O dimineață relaxantă de iarnă începe cu autobuzul spre Grandes Playas, unde aerul este minunat de proaspăt. La prânz profităm de conexiunile bune către El Campanario pentru o plimbare sub soarele de iarnă. După-amiaza transportul ne duce în port pentru a observa activitatea feriboturilor. Încheiem ziua cu o călătorie liniștită pe coastă, în timp ce afară se răcește plăcut.",
+            "en": "A relaxed winter morning starts with the bus to Grandes Playas, where the air is wonderfully fresh. At midday, we use the good connections to El Campanario for a stroll in the winter sun. In the afternoon, transit takes us to the port to watch the busy ferry traffic. We finish the day with a quiet ride along the coast as it gets pleasantly cool outside."
+          },
+          "stops": [
+            {
+              "name": "Central Bus Station",
+              "tip_5lang": {
+                "de": "Zentraler Punkt für alle Linien.",
+                "hu": "Központi csomópont minden vonalhoz.",
+                "ro": "Punct central pentru toate liniile.",
+                "en": "Central point for all lines."
+              }
+            },
+            {
+              "name": "Grandes Playas (Dunes)",
+              "tip_5lang": {
+                "de": "Herrliche Aussicht vom Busfenster.",
+                "hu": "Csodálatos kilátás a buszablakból.",
+                "ro": "Vedere minunată de la geamul autobuzului.",
+                "en": "Wonderful view from the bus window."
+              }
+            },
+            {
+              "name": "El Campanario",
+              "tip_5lang": {
+                "de": "Bester Halt für Wintershopping.",
+                "hu": "A legjobb megálló a téli vásárláshoz.",
+                "ro": "Cea mai bună oprire pentru shopping de iarnă.",
+                "en": "Best stop for winter shopping."
+              }
+            },
+            {
+              "name": "Puerto de Corralejo",
+              "tip_5lang": {
+                "de": "Windgeschützte Sitzplätze im Bus.",
+                "hu": "Szélvédett ülőhelyek a buszon.",
+                "ro": "Locuri ferite de vânt în autobuz.",
+                "en": "Wind-protected seats on the bus."
+              }
+            },
+            {
+              "name": "Playa de la Goleta",
+              "tip_5lang": {
+                "de": "Abends weniger Frequenz der Busse.",
+                "hu": "Este ritkábbak a buszjáratok.",
+                "ro": "Frecvență redusă a autobuzelor seara.",
+                "en": "Lower bus frequency in the evening."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Busse sind im Winter weniger überfüllt.",
+              "Linie 6 fährt alle 30 Minuten zu den Dünen.",
+              "Eine leichte Jacke ist für die Haltestellen ratsam.",
+              "Die Fahrpreise sind sehr günstig (ca. 1,50€).",
+              "Informieren Sie sich über den Winterfahrplan (Tiadhe)."
+            ],
+            "hu": [
+              "A buszok télen kevésbé zsúfoltak.",
+              "A 6-os járat 30 percenként indul a dűnékhez.",
+              "Egy könnyű dzseki ajánlott a megállókban való várakozáshoz.",
+              "A jegyárak nagyon kedvezőek (kb. 1,50€).",
+              "Tájékozódjon a téli menetrendről (Tiadhe)."
+            ],
+            "ro": [
+              "Autobuzele sunt mai puțin aglomerate iarna.",
+              "Linia 6 circulă la fiecare 30 de minute spre dune.",
+              "O jachetă ușoară este recomandată pentru stații.",
+              "Tarifele sunt foarte accesibile (aprox. 1,50€).",
+              "Informați-vă despre orarul de iarnă (Tiadhe)."
+            ],
+            "en": [
+              "Buses are less crowded in winter.",
+              "Line 6 runs every 30 minutes to the dunes.",
+              "A light jacket is advisable for the bus stops.",
+              "Fares are very affordable (approx. €1.50).",
+              "Check the winter schedule (Tiadhe)."
+            ]
+          }
+        }
+      }
+    }
+  },
+  "external_resources": {
+    "tourism_office": "https://www.visitfuerteventura.es",
+    "events": "https://www.laoliva.es",
+    "transit_official": "https://www.tiadhe.com/es/",
+    "language_tips": {
+      "de": "Corralejo ist sehr international, britische und deutsche Surfer prägen die Atmosphäre. In Surfschulen und Bars wird mehr Englisch als Spanisch gesprochen, im alten Hafen-Viertel aber lohnt sich Spanisch.",
+      "hu": "Corralejo erősen nemzetközi, brit-német szörfösök adják a hangulatot. A szörfsulikban és bárokban több az angol mint a spanyol, viszont a régi kikötői részben hasznos pár szó spanyol.",
+      "ro": "Corralejo e foarte internațional, surferi britanici și germani dau tonul. În școlile de surf și baruri se vorbește mai mult engleză decât spaniolă, dar în portul vechi merită spaniola.",
+      "en": "Corralejo is highly international, British and German surfers set the tone. Surf schools and bars run more in English than Spanish, but the old harbour quarter still rewards a bit of Spanish."
+    },
+    "best_time_to_visit": {
+      "de": "Fuerteventura ist ganzjährig windig, perfekt für Wind- und Kitesurfer von Mai bis September. Wer ruhiges Wasser zum Schwimmen will, kommt besser im November oder Februar.",
+      "hu": "Fuerteventura egész évben szeles, szörfösöknek május-szeptember a legjobb. Aki nyugodt vízben fürödne inkább, novemberre vagy februárra időzítsen.",
+      "ro": "Fuerteventura e vântoasă tot anul, ideal pentru surf și kite mai-septembrie. Pentru apă calmă la înot, alege noiembrie sau februarie.",
+      "en": "Fuerteventura is windy year round, perfect for wind and kite surf May to September. If you want calm swimming water, November or February are better picks."
+    },
+    "neighborhood_warnings": {
+      "de": "Corralejo ist sicher, aber rund um die Bars am Hauptplatz häufen sich nachts Diebstähle. Im Dünen-Nationalpark gibt es keinen Schatten und kein Wasser, immer genug mitnehmen.",
+      "hu": "Corralejo biztonságos, de a központi tér bárjai környékén éjjel előfordulnak lopások. A dűne-nemzeti parkban nincs árnyék és víz, mindig vigyél magaddal eleget.",
+      "ro": "Corralejo este sigur, dar lângă barurile din piața centrală au loc furturi noaptea. În parcul dunelor nu există umbră sau apă, ia mereu suficient cu tine.",
+      "en": "Corralejo is safe but thefts cluster around the main square bars at night. The dunes park has no shade and no water taps, always carry plenty."
+    }
+  }
+}

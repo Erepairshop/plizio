@@ -1,0 +1,2813 @@
+{
+  "city_id": "albarracin",
+  "anchor": {
+    "name": "Albarracín",
+    "coords": [
+      -1.4439,
+      40.4083
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:20",
+      "total_km": 1.9,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Plaza Mayor",
+          "coords": [
+            -1.444,
+            40.4075
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie hier den ersten Kaffee des Tages mit Blick auf das Rathaus.",
+            "hu": "Igya meg az első kávéját a városháza lenyűgöző látványával.",
+            "ro": "Savurați prima cafea a zilei cu vedere spre primăria istorică.",
+            "en": "Enjoy your first coffee of the day overlooking the town hall."
+          }
+        },
+        {
+          "name": "Casa de la Julianeta",
+          "coords": [
+            -1.443,
+            40.4078
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Das am meisten fotografierte Haus der Stadt. Achten Sie auf die schiefen Wände.",
+            "hu": "A város legtöbbet fotózott háza, figyelje meg a dőlt falakat.",
+            "ro": "Cea mai fotografiată casă. Observați pereții săi înclinați unici.",
+            "en": "The most photographed house in town. Notice the slanted walls."
+          }
+        },
+        {
+          "name": "Kathedrale San Salvador",
+          "coords": [
+            -1.4425,
+            40.408
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die flämischen Wandteppiche im Inneren.",
+            "hu": "Csodálja meg a flamand falikárpitokat a belső térben.",
+            "ro": "Admirați tapiseriile flamande din interiorul catedralei.",
+            "en": "Admire the 16th-century Flemish tapestries inside."
+          }
+        },
+        {
+          "name": "Burg von Albarracín",
+          "coords": [
+            -1.441,
+            40.4085
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erklimmen Sie die Ruinen für einen tollen Blick über die Schlucht.",
+            "hu": "Másszon fel a romokra a szurdokra nyíló pazar kilátásért.",
+            "ro": "Urcați pe ruine pentru o vedere excelentă asupra defileului.",
+            "en": "Climb the ruins for an excellent view over the gorge."
+          }
+        },
+        {
+          "name": "Stadtmauern von Albarracín",
+          "coords": [
+            -1.445,
+            40.4095
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:30",
+          "stay_min": 110,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Folgen Sie der Mauer bis zum Turm del Andador.",
+            "hu": "Kövesse a falat egészen az Andador toronyig.",
+            "ro": "Urmați zidul până la Turnul Andador pentru fotografii.",
+            "en": "Follow the wall up to the Andador tower for photos."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen entspannt auf der malerischen Plaza Mayor. Schlendern Sie durch die engen Gassen zur berühmten Casa de la Julianeta. Gegen Mittag tauchen Sie in der Kathedrale in die Geschichte ein. Der Nachmittag gehört der Erkundung der alten Burg. Beenden Sie den Tag mit einem Spaziergang entlang der gewaltigen Stadtmauern.",
+        "hu": "Kezdje a reggelt kényelmesen a festői Plaza Mayor téren. Sétáljon végig a szűk utcákon a híres Casa de la Julianeta épületéig. Délben merüljön el a történelemben a katedrálisban. A délután az ősi vár felfedezésével telik. Zárja a napot egy sétával a hatalmas városfalak mentén.",
+        "ro": "Începeți dimineața relaxant în pitoreasca Plaza Mayor. Plimbați-vă pe străduțele înguste până la faimoasa Casa de la Julianeta. La prânz, scufundați-vă în istorie vizitând catedrala. După-amiaza explorați vechiul castel. Încheiați ziua cu o plimbare de-a lungul zidurilor masive ale orașului.",
+        "en": "Start your morning relaxed at the picturesque Plaza Mayor. Stroll through the narrow streets to the famous Casa de la Julianeta. At midday, dive into history at the cathedral. The afternoon is dedicated to exploring the ancient castle. End your day with a walk along the massive city walls."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ternasco asado",
+            "tip": "Zartes Lammfleisch aus der Region in traditionellen Tavernen."
+          },
+          {
+            "name": "Migas aragonesas",
+            "tip": "Brotkrumengericht mit Chorizo, oft als deftige Vorspeise serviert."
+          },
+          {
+            "name": "Queso de Albarracín",
+            "tip": "Probieren Sie den preisgekrönten lokalen Schafskäse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ternasco asado",
+            "tip": "Omlós, helyi báránysült a tradicionális tavernákban."
+          },
+          {
+            "name": "Migas aragonesas",
+            "tip": "Pirított kenyérmorzsa kolbásszal, laktató előételként."
+          },
+          {
+            "name": "Queso de Albarracín",
+            "tip": "Kóstolja meg a díjnyertes helyi juhsajtot."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ternasco asado",
+            "tip": "Friptură fragedă de miel local servită în taverne tradiționale."
+          },
+          {
+            "name": "Migas aragonesas",
+            "tip": "Fărâmituri de pâine prăjită cu chorizo, un aperitiv sățios."
+          },
+          {
+            "name": "Queso de Albarracín",
+            "tip": "Încercați brânza de oaie locală premiată."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ternasco asado",
+            "tip": "Tender local roast lamb served in traditional taverns."
+          },
+          {
+            "name": "Migas aragonesas",
+            "tip": "Toasted breadcrumbs with chorizo, a hearty starter."
+          },
+          {
+            "name": "Queso de Albarracín",
+            "tip": "Taste the award-winning local sheep's milk cheese."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Turm del Andador",
+            "tip": "Der beste Ort für den Sonnenuntergang.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Ufer des Guadalaviar",
+            "tip": "Ruhiger Pfad direkt am Wasser.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Mirador de Albarracín",
+            "tip": "Ein stiller Platz mit Panoramablick.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Andador torony",
+            "tip": "A legjobb helyszín naplementekor.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Guadalaviar partja",
+            "tip": "Csendes ösvény közvetlenül a víz mellett.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Mirador de Albarracín",
+            "tip": "Csendes tér panorámás kilátással.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Turnul Andador",
+            "tip": "Cel mai bun loc pentru apusul soarelui.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Malul râului Guadalaviar",
+            "tip": "O potecă liniștită chiar lângă apă.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Mirador de Albarracín",
+            "tip": "Un loc liniștit cu o vedere panoramică.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Andador Tower",
+            "tip": "The best spot to watch the sunset.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Guadalaviar Riverbank",
+            "tip": "A quiet path right next to the water.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Mirador de Albarracín",
+            "tip": "A quiet square with panoramic views.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Keramik",
+            "tip": "Handgemachte Töpferwaren in den Gassen."
+          },
+          {
+            "name": "Regionale Weine",
+            "tip": "Einheimische Tropfen in kleinen Bodegas."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerámia",
+            "tip": "Kézzel készített fazekasáruk a sikátorokban."
+          },
+          {
+            "name": "Helyi borok",
+            "tip": "Környékbeli borok a kis pincészetekben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ceramică",
+            "tip": "Ceramică artizanală găsită pe străduțe."
+          },
+          {
+            "name": "Vinuri regionale",
+            "tip": "Vinuri locale în micile crame."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ceramics",
+            "tip": "Handmade pottery found in the alleys."
+          },
+          {
+            "name": "Regional wines",
+            "tip": "Local wines available in small bodegas."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster.",
+          "Die Gassen sind teilweise sehr steil.",
+          "Starten Sie früh, um den Besuchermassen zu entgehen.",
+          "Nehmen Sie Wasser für den Aufstieg zur Stadtmauer mit."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt a macskaköves utcákon.",
+          "Néhány sikátor kifejezetten meredek.",
+          "Induljon korán, hogy elkerülje a tömeget.",
+          "Vigyen vizet magával a várfal megmászásához."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă pentru pietrele cubice.",
+          "Străduțele sunt parțial foarte abrupte.",
+          "Începeți devreme pentru a evita aglomerația.",
+          "Luați apă pentru urcarea spre zidurile orașului."
+        ],
+        "en": [
+          "Wear comfortable shoes for the cobblestones.",
+          "Some alleys are quite steep.",
+          "Start early to avoid the tourist crowds.",
+          "Bring water for the climb up to the city walls."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Morgen entspannt auf der malerischen Plaza Mayor. Schlendern Sie durch die engen Gassen zur berühmten Casa de la Julianeta. Gegen Mittag tauchen Sie in der Kathedrale in die Geschichte ein. Der Nachmittag gehört der Erkundung der alten Burg. Beenden Sie den Tag mit einem Spaziergang entlang der gewaltigen Stadtmauern.",
+            "hu": "Kezdje a reggelt kényelmesen a festői Plaza Mayor téren. Sétáljon végig a szűk utcákon a híres Casa de la Julianeta épületéig. Délben merüljön el a történelemben a katedrálisban. A délután az ősi vár felfedezésével telik. Zárja a napot egy sétával a hatalmas városfalak mentén.",
+            "ro": "Începeți dimineața relaxant în pitoreasca Plaza Mayor. Plimbați-vă pe străduțele înguste până la faimoasa Casa de la Julianeta. La prânz, scufundați-vă în istorie vizitând catedrala. După-amiaza explorați vechiul castel. Încheiați ziua cu o plimbare de-a lungul zidurilor masive ale orașului.",
+            "en": "Start your morning relaxed at the picturesque Plaza Mayor. Stroll through the narrow streets to the famous Casa de la Julianeta. At midday, dive into history at the cathedral. The afternoon is dedicated to exploring the ancient castle. End your day with a walk along the massive city walls."
+          },
+          "stops": [
+            {
+              "name": "Plaza Mayor",
+              "tip_5lang": {
+                "de": "Genießen Sie hier den ersten Kaffee des Tages mit Blick auf das Rathaus.",
+                "hu": "Igya meg az első kávéját a városháza lenyűgöző látványával.",
+                "ro": "Savurați prima cafea a zilei cu vedere spre primăria istorică.",
+                "en": "Enjoy your first coffee of the day overlooking the town hall."
+              }
+            },
+            {
+              "name": "Casa de la Julianeta",
+              "tip_5lang": {
+                "de": "Das am meisten fotografierte Haus der Stadt. Achten Sie auf die schiefen Wände.",
+                "hu": "A város legtöbbet fotózott háza, figyelje meg a dőlt falakat.",
+                "ro": "Cea mai fotografiată casă. Observați pereții săi înclinați unici.",
+                "en": "The most photographed house in town. Notice the slanted walls."
+              }
+            },
+            {
+              "name": "Kathedrale San Salvador",
+              "tip_5lang": {
+                "de": "Bewundern Sie die flämischen Wandteppiche im Inneren.",
+                "hu": "Csodálja meg a flamand falikárpitokat a belső térben.",
+                "ro": "Admirați tapiseriile flamande din interiorul catedralei.",
+                "en": "Admire the 16th-century Flemish tapestries inside."
+              }
+            },
+            {
+              "name": "Burg von Albarracín",
+              "tip_5lang": {
+                "de": "Erklimmen Sie die Ruinen für einen tollen Blick über die Schlucht.",
+                "hu": "Másszon fel a romokra a szurdokra nyíló pazar kilátásért.",
+                "ro": "Urcați pe ruine pentru o vedere excelentă asupra defileului.",
+                "en": "Climb the ruins for an excellent view over the gorge."
+              }
+            },
+            {
+              "name": "Stadtmauern von Albarracín",
+              "tip_5lang": {
+                "de": "Folgen Sie der Mauer bis zum Turm del Andador.",
+                "hu": "Kövesse a falat egészen az Andador toronyig.",
+                "ro": "Urmați zidul până la Turnul Andador pentru fotografii.",
+                "en": "Follow the wall up to the Andador tower for photos."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Ternasco asado",
+                "tip": "Zartes Lammfleisch aus der Region in traditionellen Tavernen."
+              },
+              {
+                "name": "Migas aragonesas",
+                "tip": "Brotkrumengericht mit Chorizo, oft als deftige Vorspeise serviert."
+              },
+              {
+                "name": "Queso de Albarracín",
+                "tip": "Probieren Sie den preisgekrönten lokalen Schafskäse."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Ternasco asado",
+                "tip": "Omlós, helyi báránysült a tradicionális tavernákban."
+              },
+              {
+                "name": "Migas aragonesas",
+                "tip": "Pirított kenyérmorzsa kolbásszal, laktató előételként."
+              },
+              {
+                "name": "Queso de Albarracín",
+                "tip": "Kóstolja meg a díjnyertes helyi juhsajtot."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Ternasco asado",
+                "tip": "Friptură fragedă de miel local servită în taverne tradiționale."
+              },
+              {
+                "name": "Migas aragonesas",
+                "tip": "Fărâmituri de pâine prăjită cu chorizo, un aperitiv sățios."
+              },
+              {
+                "name": "Queso de Albarracín",
+                "tip": "Încercați brânza de oaie locală premiată."
+              }
+            ],
+            "en": [
+              {
+                "name": "Ternasco asado",
+                "tip": "Tender local roast lamb served in traditional taverns."
+              },
+              {
+                "name": "Migas aragonesas",
+                "tip": "Toasted breadcrumbs with chorizo, a hearty starter."
+              },
+              {
+                "name": "Queso de Albarracín",
+                "tip": "Taste the award-winning local sheep's milk cheese."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Turm del Andador",
+                "tip": "Der beste Ort für den Sonnenuntergang.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Ufer des Guadalaviar",
+                "tip": "Ruhiger Pfad direkt am Wasser.",
+                "emoji": "🍃"
+              },
+              {
+                "name": "Mirador de Albarracín",
+                "tip": "Ein stiller Platz mit Panoramablick.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Andador torony",
+                "tip": "A legjobb helyszín naplementekor.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Guadalaviar partja",
+                "tip": "Csendes ösvény közvetlenül a víz mellett.",
+                "emoji": "🍃"
+              },
+              {
+                "name": "Mirador de Albarracín",
+                "tip": "Csendes tér panorámás kilátással.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Turnul Andador",
+                "tip": "Cel mai bun loc pentru apusul soarelui.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Malul râului Guadalaviar",
+                "tip": "O potecă liniștită chiar lângă apă.",
+                "emoji": "🍃"
+              },
+              {
+                "name": "Mirador de Albarracín",
+                "tip": "Un loc liniștit cu o vedere panoramică.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Andador Tower",
+                "tip": "The best spot to watch the sunset.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Guadalaviar Riverbank",
+                "tip": "A quiet path right next to the water.",
+                "emoji": "🍃"
+              },
+              {
+                "name": "Mirador de Albarracín",
+                "tip": "A quiet square with panoramic views.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Keramik",
+                "tip": "Handgemachte Töpferwaren in den Gassen."
+              },
+              {
+                "name": "Regionale Weine",
+                "tip": "Einheimische Tropfen in kleinen Bodegas."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Kerámia",
+                "tip": "Kézzel készített fazekasáruk a sikátorokban."
+              },
+              {
+                "name": "Helyi borok",
+                "tip": "Környékbeli borok a kis pincészetekben."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Ceramică",
+                "tip": "Ceramică artizanală găsită pe străduțe."
+              },
+              {
+                "name": "Vinuri regionale",
+                "tip": "Vinuri locale în micile crame."
+              }
+            ],
+            "en": [
+              {
+                "name": "Ceramics",
+                "tip": "Handmade pottery found in the alleys."
+              },
+              {
+                "name": "Regional wines",
+                "tip": "Local wines available in small bodegas."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster.",
+              "Die Gassen sind teilweise sehr steil.",
+              "Starten Sie früh, um den Besuchermassen zu entgehen.",
+              "Nehmen Sie Wasser für den Aufstieg zur Stadtmauer mit."
+            ],
+            "hu": [
+              "Viseljen kényelmes cipőt a macskaköves utcákon.",
+              "Néhány sikátor kifejezetten meredek.",
+              "Induljon korán, hogy elkerülje a tömeget.",
+              "Vigyen vizet magával a várfal megmászásához."
+            ],
+            "ro": [
+              "Purtați încălțăminte confortabilă pentru pietrele cubice.",
+              "Străduțele sunt parțial foarte abrupte.",
+              "Începeți devreme pentru a evita aglomerația.",
+              "Luați apă pentru urcarea spre zidurile orașului."
+            ],
+            "en": [
+              "Wear comfortable shoes for the cobblestones.",
+              "Some alleys are quite steep.",
+              "Start early to avoid the tourist crowds.",
+              "Bring water for the climb up to the city walls."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Vormittag unter den Arkaden der Plaza Mayor, um trocken zu bleiben. Mittags laden die gemütlichen Tavernen in den engen Gassen zum Aufwärmen ein. Am Nachmittag bietet die Kathedrale Schutz vor dem Regen, während Sie die Kunst bewundern. Abends spiegeln sich die Lichter der Stadt zauberhaft in den nassen Kopfsteinpflastern der mittelalterlichen Wege wider.",
+            "hu": "Kezdje a délelőttöt a Plaza Mayor árkádjai alatt, hogy szárazon maradjon. Ebédidőben a szűk utcák hangulatos tavernái kínálnak menedéket a csapadék elől. Délután a katedrális belső tere tökéletes helyszín a művészet élvezetére esőben is. Este a város fényei varázslatosan tükröződnek a középkori utcák nedves macskakövein.",
+            "ro": "Începeți dimineața sub arcadele din Plaza Mayor pentru a rămâne uscați. La prânz, tavernele primitoare de pe străzile înguste sunt perfecte pentru a vă încălzi. După-amiaza, catedrala oferă adăpost împotriva ploii în timp ce admirați arta. Seara, luminile orașului se reflectă magic pe pietrele umede ale drumurilor medievale.",
+            "en": "Start the morning under the arches of Plaza Mayor to stay dry. At noon, the cozy taverns in the narrow streets offer a warm escape from the rain. In the afternoon, the cathedral provides shelter while you admire the art. In the evening, the city lights reflect magically on the wet cobblestones of the medieval paths."
+          },
+          "stops": [
+            {
+              "name": "Plaza Mayor",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkadengänge, um die Architektur ohne Regenschirm zu bewundern.",
+                "hu": "Használja az árkádokat a tér megfigyeléséhez esernyő nélkül is.",
+                "ro": "Folosiți arcadele pentru a admira arhitectura fără umbrelă.",
+                "en": "Use the arcades to admire the architecture without needing an umbrella."
+              }
+            },
+            {
+              "name": "Casa de la Julianeta",
+              "tip_5lang": {
+                "de": "Ein tolles Fotomotiv, das auch bei grauem Himmel durch seine Form besticht.",
+                "hu": "Kiváló fotótéma, amely szürke égbolt mellett is különleges látványt nyújt.",
+                "ro": "Un subiect foto excelent care impresionează chiar și sub un cer gri.",
+                "en": "A great photo spot that stands out even under grey skies due to its shape."
+              }
+            },
+            {
+              "name": "Kathedrale San Salvador",
+              "tip_5lang": {
+                "de": "Perfekter Rückzugsort bei starkem Regen, um die Altarbilder in Ruhe zu sehen.",
+                "hu": "Tökéletes menedék heves esőben az oltárképek nyugodt megtekintéséhez.",
+                "ro": "Refugiul perfect în caz de ploaie torențială pentru a vedea altarele în liniște.",
+                "en": "Perfect sanctuary during heavy rain to view the altarpieces in peace."
+              }
+            },
+            {
+              "name": "Burg von Albarracín",
+              "tip_5lang": {
+                "de": "Vorsicht auf den Ausgrabungspfaden, die Steine können bei Nässe rutschig sein.",
+                "hu": "Vigyázat az ásatási útvonalakon, a kövek nedvesen csúszósak lehetnek.",
+                "ro": "Atenție pe potecile sitului arheologic, pietrele pot fi alunecoase când sunt ude.",
+                "en": "Be careful on the excavation paths; the stones can be slippery when wet."
+              }
+            },
+            {
+              "name": "Stadtmauern von Albarracín",
+              "tip_5lang": {
+                "de": "Gute Wanderschuhe sind bei Regen für den Aufstieg zu den Mauern unerlässlich.",
+                "hu": "Esőben a falakhoz vezető emelkedőhöz elengedhetetlen a jó túrabakancs.",
+                "ro": "Ghete de drumeție bune sunt esențiale pentru urcarea spre ziduri pe ploaie.",
+                "en": "Good hiking boots are essential for the climb to the walls in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie rutschfeste Schuhe, da das mittelalterliche Pflaster sehr glatt wird.",
+              "Die engen Gassen bieten oft natürlichen Schutz vor leichtem Nieselregen.",
+              "Nutzen Sie die Museumsbesuche für die intensivsten Regenstunden.",
+              "Ein Taschenschirm ist handlicher als ein großer Schirm in den schmalen Gassen."
+            ],
+            "hu": [
+              "Viseljen csúszásmentes lábbelit, mert a középkori burkolat nagyon síkossá válik.",
+              "A szűk utcák gyakran természetes védelmet nyújtanak az enyhe szitálás ellen.",
+              "A múzeumlátogatásokat időzítse a legintenzívebb esős órákra.",
+              "Az összecsukható esernyő praktikusabb a szűk sikátorokban, mint a boternyő."
+            ],
+            "ro": [
+              "Purtați încălțăminte antiderapantă, deoarece pavajul medieval devine foarte alunecos.",
+              "Străzile înguste oferă adesea protecție naturală împotriva burniței ușoare.",
+              "Planificați vizitele la muzee pentru orele cu ploaie intensă.",
+              "O umbrelă pliabilă este mai practică decât una mare pe străzile înguste."
+            ],
+            "en": [
+              "Wear non-slip shoes as the medieval pavement becomes very slick when wet.",
+              "The narrow streets often provide natural shelter from light drizzle.",
+              "Schedule museum visits for the hours with the heaviest rainfall.",
+              "A compact umbrella is more manageable than a large one in the narrow alleys."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie die klare, kalte Morgenluft beim Spaziergang durch die menschenleere Altstadt. Mittags wärmt ein traditioneller Eintopf in einem der Felsenkeller-Restaurants Körper und Seele. Am Nachmittag färbt die tiefstehende Wintersonne den roten Stein der Stadt besonders intensiv. Da es früh dunkel wird, genießen Sie den späten Nachmittag bei heißer Schokolade am Kamin.",
+            "hu": "Élje át a tiszta, hideg reggeli levegőt a néptelen óvárosban tett séta során. Ebédre egy hagyományos egytálétel az egyik sziklába vájt étteremben felmelegíti a testet és lelket. Délután az alacsonyan járó téli nap különösen intenzívre festi a város vörös köveit. Mivel korán sötétedik, töltse a késő délutánt forró csokoládéval egy kandalló mellett.",
+            "ro": "Experimentați aerul rece și curat al dimineții într-o plimbare prin orașul vechi pustiu. La prânz, o tocană tradițională într-un restaurant săpat în stâncă vă va încălzi sufletul. După-amiaza, soarele de iarnă pictează piatra roșie a orașului în nuanțe intense. Deoarece se întunecă devreme, savurați o ciocolată caldă lângă șemineu spre seară.",
+            "en": "Experience the crisp, cold morning air during a walk through the deserted old town. At noon, a traditional stew in one of the rock-cellar restaurants warms both body and soul. In the afternoon, the low winter sun paints the red stone of the city with special intensity. As it gets dark early, enjoy the late afternoon with hot chocolate by a fireplace."
+          },
+          "stops": [
+            {
+              "name": "Plaza Mayor",
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe am Morgen, bevor die Kälte die Besucher in Cafés treibt.",
+                "hu": "Élvezze a reggeli csendet, mielőtt a hideg a kávézókba űzi a látogatókat.",
+                "ro": "Bucurați-vă de liniștea dimineții înainte ca frigul să trimită turiștii în cafenele.",
+                "en": "Enjoy the morning silence before the cold drives visitors into the cafes."
+              }
+            },
+            {
+              "name": "Casa de la Julianeta",
+              "tip_5lang": {
+                "de": "Im Winter ohne Laub an den umliegenden Pflanzen wirkt das Haus noch markanter.",
+                "hu": "Télen, a környező növényzet levelei nélkül a ház még markánsabbnak hat.",
+                "ro": "Iarna, fără frunzișul plantelor din jur, casa pare și mai distinctă.",
+                "en": "In winter, without the foliage of surrounding plants, the house looks even more striking."
+              }
+            },
+            {
+              "name": "Kathedrale San Salvador",
+              "tip_5lang": {
+                "de": "Drinnen ist es oft wärmer als draußen, ideal für eine Pause vom Wind.",
+                "hu": "Bent gyakran melegebb van, mint kint, ideális szünet a szél elől.",
+                "ro": "În interior este adesea mai cald decât afară, ideal pentru o pauză de la vânt.",
+                "en": "It is often warmer inside than outside, making it an ideal break from the wind."
+              }
+            },
+            {
+              "name": "Burg von Albarracín",
+              "tip_5lang": {
+                "de": "Der Wind kann hier oben schneidend kalt sein; Mütze und Handschuhe einpacken.",
+                "hu": "A szél itt fent metsző lehet; vigyen sapkát és kesztyűt.",
+                "ro": "Vântul poate fi tăios aici sus; nu uitați căciula și mănușile.",
+                "en": "The wind can be biting cold up here; pack a hat and gloves."
+              }
+            },
+            {
+              "name": "Stadtmauern von Albarracín",
+              "tip_5lang": {
+                "de": "Bester Ort für Fotos im goldenen Winterlicht gegen 16:30 Uhr.",
+                "hu": "A legjobb hely fotózáshoz az aranyló téli fényben 16:30 körül.",
+                "ro": "Cel mai bun loc pentru fotografii în lumina aurie a iernii în jurul orei 16:30.",
+                "en": "Best spot for photos in the golden winter light around 4:30 PM."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kleiden Sie sich nach dem Zwiebelprinzip, da Albarracín auf 1182m liegt.",
+              "Achten Sie auf vereiste Stellen an den steilen Treppenaufgängen.",
+              "Die Sonne verschwindet im Tal früher hinter den Bergen (ca. 16:00 Uhr).",
+              "Reservieren Sie für das Abendessen, da viele Orte im Winter früher schließen."
+            ],
+            "hu": [
+              "Öltözzön rétegesen, mivel Albarracín 1182 méteres magasságban fekszik.",
+              "Ügyeljen a jeges foltokra a meredek lépcsőfeljáróknál.",
+              "A nap a völgyben korábban eltűnik a hegyek mögött (kb. 16:00-kor).",
+              "Foglaljon asztalt vacsorához, mert télen sok hely korábban bezár."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi, deoarece Albarracín se află la 1182 m altitudine.",
+              "Atenție la porțiunile înghețate de pe scările abrupte.",
+              "Soarele dispare în vale mai devreme după munți (aprox. ora 16:00).",
+              "Rezervați masa pentru cină, deoarece multe locuri se închid mai devreme iarna."
+            ],
+            "en": [
+              "Dress in layers as Albarracín is situated at an altitude of 1,182m.",
+              "Watch out for icy patches on the steep stairways.",
+              "The sun disappears behind the mountains earlier in the valley (around 4:00 PM).",
+              "Make dinner reservations as many places close earlier in winter."
+            ]
+          }
+        }
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "15:10",
+      "total_km": 6.5,
+      "stop_count": 4,
+      "stops": [
+        {
+          "name": "Portal de Molina",
+          "coords": [
+            -1.4442,
+            40.4072
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Historisches Stadttor, ideal für ein Erinnerungsfoto.",
+            "hu": "Történelmi városkapu, ideális egy fotóhoz.",
+            "ro": "Poarta istorică, ideală pentru o fotografie.",
+            "en": "Historical city gate, perfect for a photo op."
+          }
+        },
+        {
+          "name": "Kathedrale San Salvador",
+          "coords": [
+            -1.4425,
+            40.408
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Rad ab und erkunden Sie das Innere.",
+            "hu": "Hagyja kint a kerékpárt és fedezze fel a belső teret.",
+            "ro": "Lăsați bicicleta și explorați interiorul.",
+            "en": "Park your bike and explore the interior."
+          }
+        },
+        {
+          "name": "Burg von Albarracín",
+          "coords": [
+            -1.441,
+            40.4085
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Der Aufstieg lohnt sich für den Panoramablick.",
+            "hu": "A felfelé vezető út megéri a panorámáért.",
+            "ro": "Urcușul merită pentru vederea panoramică.",
+            "en": "The climb is worth it for the panoramic views."
+          }
+        },
+        {
+          "name": "Turm del Andador",
+          "coords": [
+            -1.4455,
+            40.4098
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:55",
+          "stay_min": 105,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Ein alter Festungsturm mit großartiger Fernsicht.",
+            "hu": "Régi erődítmény csodás kilátással a vidékre.",
+            "ro": "Un turn vechi cu o vizibilitate minunată.",
+            "en": "An old fortress tower with great long-distance views."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie die Tour am historischen Portal de Molina. Fahren Sie in Richtung Zentrum zur Kathedrale. Am Mittag bewältigen Sie den Anstieg zur Burg, wo Sie die Geschichte hautnah spüren. Nachmittags führt Sie die Route zum beeindruckenden Turm del Andador.",
+        "hu": "Indítsa a túrát a történelmi Portal de Molinánál. Tekerjen a központ felé a katedrálishoz. Délben küzdje le a várhoz vezető emelkedőt, ahol átélheti a történelmet. Délután az útvonal a lenyűgöző Andador toronyhoz vezet.",
+        "ro": "Începeți turul la istorica Portal de Molina. Pedalați spre centru către catedrală. La prânz abordați urcarea spre castel, unde istoria este la fiecare pas. După-amiaza, traseul vă duce la impresionantul Turn Andador.",
+        "en": "Start the tour at the historic Portal de Molina. Ride towards the center to the cathedral. At midday, tackle the climb to the castle where you can feel the history. In the afternoon, the route leads you to the impressive Andador tower."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Empanadas de carne",
+            "tip": "Herzhafte Teigtaschen, perfekt als Snack."
+          },
+          {
+            "name": "Jamón de Teruel",
+            "tip": "Regionaler Schinken für ein Picknick."
+          },
+          {
+            "name": "Albarracín Käse",
+            "tip": "Hervorragend als Wegzehrung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Empanadas de carne",
+            "tip": "Húsos táskák, tökéletes falatok útközben."
+          },
+          {
+            "name": "Jamón de Teruel",
+            "tip": "Helyi sonka egy nagyszerű piknikhez."
+          },
+          {
+            "name": "Albarracín sajt",
+            "tip": "Kiváló útravaló a kerékpározáshoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Empanadas de carne",
+            "tip": "Pateuri cu carne, gustarea perfectă pe drum."
+          },
+          {
+            "name": "Jamón de Teruel",
+            "tip": "Șuncă locală excelentă pentru picnic."
+          },
+          {
+            "name": "Brânză de Albarracín",
+            "tip": "Ideală pentru a prinde puteri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Empanadas de carne",
+            "tip": "Hearty meat pastries, perfect for a snack."
+          },
+          {
+            "name": "Jamón de Teruel",
+            "tip": "Local ham perfect for a picnic."
+          },
+          {
+            "name": "Albarracín cheese",
+            "tip": "Excellent provisions for the road."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Mirador de Albarracín",
+            "tip": "Ein stiller Platz mit Panoramablick.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ufer des Guadalaviar",
+            "tip": "Ruhiger Pfad direkt am Wasser.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Turm del Andador",
+            "tip": "Tolle Aussicht und frische Brise.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mirador de Albarracín",
+            "tip": "Csendes tér panorámás kilátással.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Guadalaviar partja",
+            "tip": "Csendes ösvény közvetlenül a víz mellett.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Andador torony",
+            "tip": "Szép kilátás és friss szellő.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mirador de Albarracín",
+            "tip": "Un loc liniștit cu o vedere panoramică.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Malul râului Guadalaviar",
+            "tip": "O potecă liniștită chiar lângă apă.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Turnul Andador",
+            "tip": "Vedere grozavă și briză proaspătă.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Mirador de Albarracín",
+            "tip": "A quiet square with panoramic views.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Guadalaviar Riverbank",
+            "tip": "A quiet path right next to the water.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Andador Tower",
+            "tip": "Great view and a fresh breeze.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Honig",
+            "tip": "Direkt bei Produzenten erhältlich."
+          },
+          {
+            "name": "Kunsthandwerk",
+            "tip": "Kleine Werkstätten am Rande der Altstadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi méz",
+            "tip": "Egyenesen a termelőktől vásárolható."
+          },
+          {
+            "name": "Kézműves termékek",
+            "tip": "Kis műhelyek az óváros peremén."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miere locală",
+            "tip": "Disponibilă direct de la producători."
+          },
+          {
+            "name": "Artizanat",
+            "tip": "Mici ateliere la marginea orașului vechi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local honey",
+            "tip": "Available directly from producers."
+          },
+          {
+            "name": "Handicrafts",
+            "tip": "Small workshops on the edge of the old town."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie Ihre Bremsen, bevor Sie abwärts fahren.",
+          "Die Altstadt ist für Radfahrer teilweise gesperrt.",
+          "Nutzen Sie die Wege am Fluss für ein entspanntes Fahren.",
+          "Vorsicht vor losen Steinen auf den unbefestigten Wegen."
+        ],
+        "hu": [
+          "Ellenőrizze a fékeket a lejtős szakaszok előtt.",
+          "Az óváros egy része le van zárva a kerékpárosok elől.",
+          "Használja a folyó menti utakat egy laza tekeréshez.",
+          "Vigyázzon a laza kövekkel a földutakon."
+        ],
+        "ro": [
+          "Verificați frânele înainte de a coborî pantele.",
+          "Centrul vechi este parțial închis pentru bicicliști.",
+          "Folosiți drumurile de lângă râu pentru un mers relaxat.",
+          "Atenție la pietrele libere de pe drumurile neasfaltate."
+        ],
+        "en": [
+          "Check your brakes before riding downhill.",
+          "The old town is partially closed to cyclists.",
+          "Use the river paths for a more relaxed ride.",
+          "Beware of loose stones on the unpaved paths."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie die Tour am historischen Portal de Molina. Fahren Sie in Richtung Zentrum zur Kathedrale. Am Mittag bewältigen Sie den Anstieg zur Burg, wo Sie die Geschichte hautnah spüren. Nachmittags führt Sie die Route zum beeindruckenden Turm del Andador.",
+            "hu": "Indítsa a túrát a történelmi Portal de Molinánál. Tekerjen a központ felé a katedrálishoz. Délben küzdje le a várhoz vezető emelkedőt, ahol átélheti a történelmet. Délután az útvonal a lenyűgöző Andador toronyhoz vezet.",
+            "ro": "Începeți turul la istorica Portal de Molina. Pedalați spre centru către catedrală. La prânz abordați urcarea spre castel, unde istoria este la fiecare pas. După-amiaza, traseul vă duce la impresionantul Turn Andador.",
+            "en": "Start the tour at the historic Portal de Molina. Ride towards the center to the cathedral. At midday, tackle the climb to the castle where you can feel the history. In the afternoon, the route leads you to the impressive Andador tower."
+          },
+          "stops": [
+            {
+              "name": "Portal de Molina",
+              "tip_5lang": {
+                "de": "Historisches Stadttor, ideal für ein Erinnerungsfoto.",
+                "hu": "Történelmi városkapu, ideális egy fotóhoz.",
+                "ro": "Poarta istorică, ideală pentru o fotografie.",
+                "en": "Historical city gate, perfect for a photo op."
+              }
+            },
+            {
+              "name": "Kathedrale San Salvador",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad ab und erkunden Sie das Innere.",
+                "hu": "Hagyja kint a kerékpárt és fedezze fel a belső teret.",
+                "ro": "Lăsați bicicleta și explorați interiorul.",
+                "en": "Park your bike and explore the interior."
+              }
+            },
+            {
+              "name": "Burg von Albarracín",
+              "tip_5lang": {
+                "de": "Der Aufstieg lohnt sich für den Panoramablick.",
+                "hu": "A felfelé vezető út megéri a panorámáért.",
+                "ro": "Urcușul merită pentru vederea panoramică.",
+                "en": "The climb is worth it for the panoramic views."
+              }
+            },
+            {
+              "name": "Turm del Andador",
+              "tip_5lang": {
+                "de": "Ein alter Festungsturm mit großartiger Fernsicht.",
+                "hu": "Régi erődítmény csodás kilátással a vidékre.",
+                "ro": "Un turn vechi cu o vizibilitate minunată.",
+                "en": "An old fortress tower with great long-distance views."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Empanadas de carne",
+                "tip": "Herzhafte Teigtaschen, perfekt als Snack."
+              },
+              {
+                "name": "Jamón de Teruel",
+                "tip": "Regionaler Schinken für ein Picknick."
+              },
+              {
+                "name": "Albarracín Käse",
+                "tip": "Hervorragend als Wegzehrung."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Empanadas de carne",
+                "tip": "Húsos táskák, tökéletes falatok útközben."
+              },
+              {
+                "name": "Jamón de Teruel",
+                "tip": "Helyi sonka egy nagyszerű piknikhez."
+              },
+              {
+                "name": "Albarracín sajt",
+                "tip": "Kiváló útravaló a kerékpározáshoz."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Empanadas de carne",
+                "tip": "Pateuri cu carne, gustarea perfectă pe drum."
+              },
+              {
+                "name": "Jamón de Teruel",
+                "tip": "Șuncă locală excelentă pentru picnic."
+              },
+              {
+                "name": "Brânză de Albarracín",
+                "tip": "Ideală pentru a prinde puteri."
+              }
+            ],
+            "en": [
+              {
+                "name": "Empanadas de carne",
+                "tip": "Hearty meat pastries, perfect for a snack."
+              },
+              {
+                "name": "Jamón de Teruel",
+                "tip": "Local ham perfect for a picnic."
+              },
+              {
+                "name": "Albarracín cheese",
+                "tip": "Excellent provisions for the road."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Mirador de Albarracín",
+                "tip": "Ein stiller Platz mit Panoramablick.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Ufer des Guadalaviar",
+                "tip": "Ruhiger Pfad direkt am Wasser.",
+                "emoji": "🍃"
+              },
+              {
+                "name": "Turm del Andador",
+                "tip": "Tolle Aussicht und frische Brise.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Mirador de Albarracín",
+                "tip": "Csendes tér panorámás kilátással.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Guadalaviar partja",
+                "tip": "Csendes ösvény közvetlenül a víz mellett.",
+                "emoji": "🍃"
+              },
+              {
+                "name": "Andador torony",
+                "tip": "Szép kilátás és friss szellő.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Mirador de Albarracín",
+                "tip": "Un loc liniștit cu o vedere panoramică.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Malul râului Guadalaviar",
+                "tip": "O potecă liniștită chiar lângă apă.",
+                "emoji": "🍃"
+              },
+              {
+                "name": "Turnul Andador",
+                "tip": "Vedere grozavă și briză proaspătă.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Mirador de Albarracín",
+                "tip": "A quiet square with panoramic views.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Guadalaviar Riverbank",
+                "tip": "A quiet path right next to the water.",
+                "emoji": "🍃"
+              },
+              {
+                "name": "Andador Tower",
+                "tip": "Great view and a fresh breeze.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Lokaler Honig",
+                "tip": "Direkt bei Produzenten erhältlich."
+              },
+              {
+                "name": "Kunsthandwerk",
+                "tip": "Kleine Werkstätten am Rande der Altstadt."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Helyi méz",
+                "tip": "Egyenesen a termelőktől vásárolható."
+              },
+              {
+                "name": "Kézműves termékek",
+                "tip": "Kis műhelyek az óváros peremén."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Miere locală",
+                "tip": "Disponibilă direct de la producători."
+              },
+              {
+                "name": "Artizanat",
+                "tip": "Mici ateliere la marginea orașului vechi."
+              }
+            ],
+            "en": [
+              {
+                "name": "Local honey",
+                "tip": "Available directly from producers."
+              },
+              {
+                "name": "Handicrafts",
+                "tip": "Small workshops on the edge of the old town."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Bremsen, bevor Sie abwärts fahren.",
+              "Die Altstadt ist für Radfahrer teilweise gesperrt.",
+              "Nutzen Sie die Wege am Fluss für ein entspanntes Fahren.",
+              "Vorsicht vor losen Steinen auf den unbefestigten Wegen."
+            ],
+            "hu": [
+              "Ellenőrizze a fékeket a lejtős szakaszok előtt.",
+              "Az óváros egy része le van zárva a kerékpárosok elől.",
+              "Használja a folyó menti utakat egy laza tekeréshez.",
+              "Vigyázzon a laza kövekkel a földutakon."
+            ],
+            "ro": [
+              "Verificați frânele înainte de a coborî pantele.",
+              "Centrul vechi este parțial închis pentru bicicliști.",
+              "Folosiți drumurile de lângă râu pentru un mers relaxat.",
+              "Atenție la pietrele libere de pe drumurile neasfaltate."
+            ],
+            "en": [
+              "Check your brakes before riding downhill.",
+              "The old town is partially closed to cyclists.",
+              "Use the river paths for a more relaxed ride.",
+              "Beware of loose stones on the unpaved paths."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine nasse Fahrt durch den Canyon bietet dramatische Ausblicke auf die roten Klippen. Vormittags führt der Weg entlang des Flusses Guadalaviar, wo Bäume etwas Schutz bieten. Mittags kehren Sie im Ort ein, um die Ausrüstung zu trocknen. Nachmittags ist Vorsicht auf dem Rückweg geboten, da die Wege schlammig sein können. Der Tag endet entspannt nach einer heißen Dusche.",
+            "hu": "Egy vizes tekerés a kanyonban drámai kilátást nyújt a vörös sziklákra. Délelőtt a Guadalaviar folyó mentén haladjon, ahol a fák némi védelmet nyújtanak. Ebédre térjen be a városba megszárítani a felszerelést. Délután legyen óvatos a visszúton, mert az ösvények sárosak lehetnek. A nap egy forró zuhany után ér véget.",
+            "ro": "O plimbare umedă prin canion oferă vederi dramatice asupra stâncilor roșii. Dimineața, drumul de-a lungul râului Guadalaviar oferă puțin adăpost datorită copacilor. La prânz, opriți-vă în oraș pentru a vă usca echipamentul. După-amiaza, fiți atenți pe drumul de întoarcere, deoarece potecile pot fi noroioase. Ziua se încheie relaxat după un duș fierbinte.",
+            "en": "A wet ride through the canyon offers dramatic views of the red cliffs. In the morning, follow the path along the Guadalaviar River, where trees provide some cover. At noon, head into town to dry your gear. In the afternoon, use caution on the way back as trails can be muddy. The day ends relaxingly after a hot shower."
+          },
+          "stops": [
+            {
+              "name": "Portal de Molina",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad unter dem Tor ab, um Karten trocken zu lesen.",
+                "hu": "Parkoljon a kapu alatt, hogy szárazon nézhesse meg a térképet.",
+                "ro": "Parcați bicicleta sub poartă pentru a citi hărțile la adăpost.",
+                "en": "Park your bike under the gate to read maps while staying dry."
+              }
+            },
+            {
+              "name": "Kathedrale San Salvador",
+              "tip_5lang": {
+                "de": "Gute Gelegenheit für eine längere Pause, während ein Schauer vorbeizieht.",
+                "hu": "Jó alkalom egy hosszabb pihenőre, amíg elvonul egy zápor.",
+                "ro": "O oportunitate bună pentru o pauză mai lungă în timp ce trece o aversă.",
+                "en": "A good opportunity for a longer break while a shower passes by."
+              }
+            },
+            {
+              "name": "Burg von Albarracín",
+              "tip_5lang": {
+                "de": "Vermeiden Sie es, mit Klickschuhen auf den nassen Burgsteinen zu laufen.",
+                "hu": "Kerülje a stoplis cipőben való járást a nedves várköveken.",
+                "ro": "Evitați mersul cu pantofi de ciclism pe pietrele ude ale cetății.",
+                "en": "Avoid walking with cycling cleats on the wet stones of the castle."
+              }
+            },
+            {
+              "name": "Turm del Andador",
+              "tip_5lang": {
+                "de": "Der Anstieg ist anstrengend; achten Sie auf rutschende Reifen bei Nässe.",
+                "hu": "A kaptató fárasztó; ügyeljen a megcsúszó kerekekre a nedves úton.",
+                "ro": "Urcarea este obositoare; atenție la anvelopele care pot aluneca pe ud.",
+                "en": "The climb is strenuous; watch out for tires slipping on the wet ground."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche sind bei den lehmigen Wegen um Albarracín ein Muss.",
+              "Reduzieren Sie den Reifendruck leicht für besseren Grip auf nassen Steinen.",
+              "Vermeiden Sie das Bremsen auf den weißen Linien oder Metallgittern.",
+              "Die Flussroute ist bei Regen sicherer als die steilen Bergpfade."
+            ],
+            "hu": [
+              "A sárvédő kötelező az Albarracín környéki agyagos utakon.",
+              "Csökkentse kissé a keréknyomást a jobb tapadás érdekében a nedves köveken.",
+              "Kerülje a fékezést a fehér felfestéseken vagy fémrácsokon.",
+              "A folyóparti útvonal esőben biztonságosabb, mint a meredek hegyi ösvények."
+            ],
+            "ro": [
+              "Apărătorile sunt obligatorii pe drumurile lutoase din jurul orașului.",
+              "Reduceți ușor presiunea în anvelope pentru o aderență mai bună pe pietre ude.",
+              "Evitați frânarea pe liniile albe sau pe grătarele metalice.",
+              "Ruta de-a lungul râului este mai sigură pe ploaie decât potecile montane abrupte."
+            ],
+            "en": [
+              "Mudguards are a must on the clayey paths around Albarracín.",
+              "Slightly reduce tire pressure for better grip on wet stones.",
+              "Avoid braking on white road markings or metal grates.",
+              "The river route is safer in the rain than the steep mountain trails."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Start führt Sie durch das stille Tal des Guadalaviar. Vormittags leuchtet der Frost auf den Feldern weiß gegen die roten Felsen. Mittags bietet die Stadt einen windgeschützten Halt für warme Getränke. Nachmittags nutzen Sie die hellsten Stunden für den Aufstieg zum Turm del Andador. Vor Sonnenuntergang kehren Sie zurück, wenn die Temperaturen schnell sinken.",
+            "hu": "Egy fagyos kezdés után a Guadalaviar csendes völgyén tekerhet keresztül. Délelőtt a zúzmara fehéren csillog a mezőkön a vörös sziklák előtt. Ebédidőben a város szélvédett helyein melegedhet fel italokkal. Délután használja ki a legvilágosabb órákat a Turm del Andadorhoz való feljutáshoz. Naplemente előtt térjen vissza, mert a hőmérséklet gyorsan zuhan.",
+            "ro": "Un început înghețat vă poartă prin valea liniștită a râului Guadalaviar. Dimineața, chiciura de pe câmpuri strălucește alb pe fundalul stâncilor roșii. La prânz, orașul oferă un popas ferit de vânt pentru băuturi calde. După-amiaza, profitați de orele luminoase pentru urcarea la Turnul del Andador. Întoarceți-vă înainte de apus, când temperaturile scad rapid.",
+            "en": "A frosty start takes you through the quiet valley of the Guadalaviar. In the morning, frost shines white on the fields against the red rocks. At noon, the town offers a wind-sheltered stop for warm drinks. In the afternoon, use the brightest hours for the climb to the Tower of Andador. Return before sunset as temperatures drop rapidly."
+          },
+          "stops": [
+            {
+              "name": "Portal de Molina",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis im Schatten des Torbogens.",
+                "hu": "Ügyeljen a jegesedésre a kapubolt árnyékában.",
+                "ro": "Atenție la porțiunile cu gheață la umbra arcadei porții.",
+                "en": "Watch out for black ice in the shadow of the gateway arch."
+              }
+            },
+            {
+              "name": "Kathedrale San Salvador",
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad sicher; die Finger werden beim Abschließen schnell kalt.",
+                "hu": "Parkoljon biztonságosan; az ujjai gyorsan lehűlnek a lakatolás közben.",
+                "ro": "Parcați bicicleta în siguranță; degetele îngheață repede când puneți lacătul.",
+                "en": "Park your bike securely; your fingers will get cold quickly while locking it."
+              }
+            },
+            {
+              "name": "Burg von Albarracín",
+              "tip_5lang": {
+                "de": "Die Sonne wärmt hier oben zur Mittagszeit am besten.",
+                "hu": "Itt fent délidőben melegít legjobban a nap.",
+                "ro": "Soarele încălzește cel mai bine aici sus la ora prânzului.",
+                "en": "The sun warms up this spot best around midday."
+              }
+            },
+            {
+              "name": "Turm del Andador",
+              "tip_5lang": {
+                "de": "Der Boden kann gefroren und hart sein; ideal für Mountainbikes.",
+                "hu": "A talaj fagyott és kemény lehet; ideális hegyi kerékpárokhoz.",
+                "ro": "Solul poate fi înghețat și tare; ideal pentru mountain bike.",
+                "en": "The ground can be frozen and hard; ideal for mountain bikes."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winddichte Handschuhe und Überschuhe sind im Winter in den Bergen Pflicht.",
+              "Nehmen Sie eine isolierte Trinkflasche mit, damit das Wasser nicht gefriert.",
+              "Planen Sie kürzere Etappen ein, da die Kälte die Ausdauer verringert.",
+              "Die Lichtverhältnisse sind im Winter für dramatische Landschaftsfotos perfekt."
+            ],
+            "hu": [
+              "A szélálló kesztyű és kamásli télen kötelező a hegyekben.",
+              "Vigyen hőszigetelt kulacsot, hogy ne fagyjon meg a vize.",
+              "Tervezzen rövidebb szakaszokat, mert a hideg csökkenti az állóképességet.",
+              "A fényviszonyok télen tökéletesek a drámai tájképekhez."
+            ],
+            "ro": [
+              "Mănușile rezistente la vânt și protecțiile pentru pantofi sunt obligatorii iarna la munte.",
+              "Luați un bidon termoizolant pentru ca apa să nu înghețe.",
+              "Planificați etape mai scurte, deoarece frigul reduce rezistența fizică.",
+              "Condițiile de lumină sunt perfecte iarna pentru fotografii de peisaj dramatice."
+            ],
+            "en": [
+              "Windproof gloves and overshoes are mandatory in the mountains during winter.",
+              "Take an insulated water bottle so your water doesn't freeze.",
+              "Plan shorter stages as the cold reduces physical endurance.",
+              "The lighting conditions in winter are perfect for dramatic landscape photos."
+            ]
+          }
+        }
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "16:25",
+      "total_km": 8.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Portal de Molina",
+          "coords": [
+            -1.4442,
+            40.4072
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Parken Sie hier in der Nähe und betreten Sie die Altstadt.",
+            "hu": "Parkoljon le a közelben és sétáljon be az óvárosba.",
+            "ro": "Parcați în apropiere și intrați în orașul vechi pe jos.",
+            "en": "Park nearby and enter the old town on foot."
+          }
+        },
+        {
+          "name": "Diözesanmuseum",
+          "coords": [
+            -1.4428,
+            40.4082
+          ],
+          "category": "museums",
+          "arrive_at": "09:50",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Umfangreiche Sammlung religiöser Kunst.",
+            "hu": "Egyházi műalkotások gazdag gyűjteménye.",
+            "ro": "Colecție impresionantă de artă religioasă.",
+            "en": "Extensive collection of religious art."
+          }
+        },
+        {
+          "name": "Kathedrale San Salvador",
+          "coords": [
+            -1.4425,
+            40.408
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Liegt direkt neben dem Museum.",
+            "hu": "Közvetlenül a múzeum mellett található.",
+            "ro": "Se află chiar lângă muzeu.",
+            "en": "Located right next to the museum."
+          }
+        },
+        {
+          "name": "Burg von Albarracín",
+          "coords": [
+            -1.441,
+            40.4085
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Fahren Sie zum Aussichtspunkt nahe der Burg.",
+            "hu": "Vezessen a vár közelében található kilátóhoz.",
+            "ro": "Conduceți spre punctul de belvedere de lângă castel.",
+            "en": "Drive to the viewpoint near the castle."
+          }
+        },
+        {
+          "name": "Turm del Andador",
+          "coords": [
+            -1.4455,
+            40.4098
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:40",
+          "stay_min": 105,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Ein etwas längerer Fußweg vom Parkplatz, aber die Sicht ist fantastisch.",
+            "hu": "Hosszabb séta a parkolóból, de a látvány lenyűgöző.",
+            "ro": "O plimbare mai lungă de la parcare, dar vederea este fantastică.",
+            "en": "A longer walk from the parking, but the view is fantastic."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Parken Sie morgens am Portal de Molina und erkunden Sie das Diözesanmuseum. Besuchen Sie anschließend die prächtige Kathedrale. Nachmittags fahren Sie hinauf zur Burg, um die Aussicht zu genießen. Den Abschluss bildet der Turm del Andador, wo das Panorama auf Sie wartet.",
+        "hu": "Parkoljon le reggel a Portal de Molinánál és fedezze fel a múzeumot. Ezt követően látogasson el a csodás katedrálisba. Délután vezessen fel a várhoz a szép kilátásért. A napot az Andador torony zárja, ahol elképesztő panoráma várja.",
+        "ro": "Parcați dimineața la Portal de Molina și explorați muzeul eparhial. Vizitați apoi magnifica catedrală. După-amiaza conduceți spre castel pentru a vă bucura de priveliște. Ziua se încheie la Turnul Andador cu o panoramă de vis.",
+        "en": "Park your car at the Portal de Molina in the morning and explore the diocesan museum. Then visit the magnificent cathedral. In the afternoon, drive up to the castle to enjoy the view. Finish the day at the Andador tower for a stunning panorama."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Sopa de ajo",
+            "tip": "Eine herzhafte Knoblauchsuppe für kühle Tage."
+          },
+          {
+            "name": "Ternasco asado",
+            "tip": "Zartes Lammfleisch aus der Region in traditionellen Tavernen."
+          },
+          {
+            "name": "Jamón de Teruel",
+            "tip": "Regionaler Schinken als Tapas."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sopa de ajo",
+            "tip": "Egy laktató fokhagymaleves hűvös napokra."
+          },
+          {
+            "name": "Ternasco asado",
+            "tip": "Omlós, helyi báránysült a tradicionális tavernákban."
+          },
+          {
+            "name": "Jamón de Teruel",
+            "tip": "Helyi sonka, kiváló tapasnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sopa de ajo",
+            "tip": "O supă de usturoi sățioasă pentru zile reci."
+          },
+          {
+            "name": "Ternasco asado",
+            "tip": "Friptură fragedă de miel local servită în taverne tradiționale."
+          },
+          {
+            "name": "Jamón de Teruel",
+            "tip": "Șuncă regională ca tapas."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sopa de ajo",
+            "tip": "A hearty garlic soup for cool days."
+          },
+          {
+            "name": "Ternasco asado",
+            "tip": "Tender local roast lamb served in traditional taverns."
+          },
+          {
+            "name": "Jamón de Teruel",
+            "tip": "Regional ham served as tapas."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Mirador de Albarracín",
+            "tip": "Ein stiller Platz mit Panoramablick.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Turm del Andador",
+            "tip": "Der beste Ort für den Sonnenuntergang.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Außerhalb der Stadtmauern",
+            "tip": "Genießen Sie die Stille der Natur.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mirador de Albarracín",
+            "tip": "Csendes tér panorámás kilátással.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Andador torony",
+            "tip": "A legjobb helyszín naplementekor.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A városfalakon kívül",
+            "tip": "Élvezze a természet nyugalmát.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mirador de Albarracín",
+            "tip": "Un loc liniștit cu o vedere panoramică.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Turnul Andador",
+            "tip": "Cel mai bun loc pentru apusul soarelui.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "În afara zidurilor cetății",
+            "tip": "Bucurați-vă de liniștea naturii.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Mirador de Albarracín",
+            "tip": "A quiet square with panoramic views.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Andador Tower",
+            "tip": "The best spot to watch the sunset.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Outside the city walls",
+            "tip": "Enjoy the silence of nature.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Regionale Spezialitäten",
+            "tip": "Kaufen Sie Käse und Schinken für Zuhause."
+          },
+          {
+            "name": "Keramik",
+            "tip": "Handgemachte Töpferwaren aus der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi finomságok",
+            "tip": "Vásároljon sajtot és sonkát otthonra."
+          },
+          {
+            "name": "Kerámia",
+            "tip": "Kézzel készített fazekasáruk a régióból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Specialități regionale",
+            "tip": "Cumpărați brânză și șuncă pentru acasă."
+          },
+          {
+            "name": "Ceramică",
+            "tip": "Ceramică lucrată manual din regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Regional specialties",
+            "tip": "Buy cheese and ham to take home."
+          },
+          {
+            "name": "Ceramics",
+            "tip": "Handmade pottery from the region."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Altstadt ist für den regulären Autoverkehr gesperrt.",
+          "Parken Sie am besten auf den öffentlichen Parkplätzen außerhalb.",
+          "Das Fahren in den engen Gassen ist nicht empfehlenswert.",
+          "Die Straßenbeleuchtung in der Nacht ist romantisch, aber schummrig."
+        ],
+        "hu": [
+          "Az óváros el van zárva a normál forgalom elől.",
+          "Legjobb, ha a külső nyilvános parkolókban áll meg.",
+          "A szűk sikátorokban nem ajánlott vezetni.",
+          "Az éjszakai utcai világítás romantikus, de kissé homályos."
+        ],
+        "ro": [
+          "Centrul vechi este închis pentru traficul rutier normal.",
+          "Cel mai bine parcați în parcările publice din afara orașului.",
+          "Nu se recomandă condusul pe străduțele înguste.",
+          "Iluminatul stradal noaptea este romantic, dar difuz."
+        ],
+        "en": [
+          "The old town is closed to regular car traffic.",
+          "It is best to park in the public parking lots outside.",
+          "Driving in the narrow alleys is not recommended.",
+          "The street lighting at night is romantic but dim."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Parken Sie morgens am Portal de Molina und erkunden Sie das Diözesanmuseum. Besuchen Sie anschließend die prächtige Kathedrale. Nachmittags fahren Sie hinauf zur Burg, um die Aussicht zu genießen. Den Abschluss bildet der Turm del Andador, wo das Panorama auf Sie wartet.",
+            "hu": "Parkoljon le reggel a Portal de Molinánál és fedezze fel a múzeumot. Ezt követően látogasson el a csodás katedrálisba. Délután vezessen fel a várhoz a szép kilátásért. A napot az Andador torony zárja, ahol elképesztő panoráma várja.",
+            "ro": "Parcați dimineața la Portal de Molina și explorați muzeul eparhial. Vizitați apoi magnifica catedrală. După-amiaza conduceți spre castel pentru a vă bucura de priveliște. Ziua se încheie la Turnul Andador cu o panoramă de vis.",
+            "en": "Park your car at the Portal de Molina in the morning and explore the diocesan museum. Then visit the magnificent cathedral. In the afternoon, drive up to the castle to enjoy the view. Finish the day at the Andador tower for a stunning panorama."
+          },
+          "stops": [
+            {
+              "name": "Portal de Molina",
+              "tip_5lang": {
+                "de": "Parken Sie hier in der Nähe und betreten Sie die Altstadt.",
+                "hu": "Parkoljon le a közelben és sétáljon be az óvárosba.",
+                "ro": "Parcați în apropiere și intrați în orașul vechi pe jos.",
+                "en": "Park nearby and enter the old town on foot."
+              }
+            },
+            {
+              "name": "Diözesanmuseum",
+              "tip_5lang": {
+                "de": "Umfangreiche Sammlung religiöser Kunst.",
+                "hu": "Egyházi műalkotások gazdag gyűjteménye.",
+                "ro": "Colecție impresionantă de artă religioasă.",
+                "en": "Extensive collection of religious art."
+              }
+            },
+            {
+              "name": "Kathedrale San Salvador",
+              "tip_5lang": {
+                "de": "Liegt direkt neben dem Museum.",
+                "hu": "Közvetlenül a múzeum mellett található.",
+                "ro": "Se află chiar lângă muzeu.",
+                "en": "Located right next to the museum."
+              }
+            },
+            {
+              "name": "Burg von Albarracín",
+              "tip_5lang": {
+                "de": "Fahren Sie zum Aussichtspunkt nahe der Burg.",
+                "hu": "Vezessen a vár közelében található kilátóhoz.",
+                "ro": "Conduceți spre punctul de belvedere de lângă castel.",
+                "en": "Drive to the viewpoint near the castle."
+              }
+            },
+            {
+              "name": "Turm del Andador",
+              "tip_5lang": {
+                "de": "Ein etwas längerer Fußweg vom Parkplatz, aber die Sicht ist fantastisch.",
+                "hu": "Hosszabb séta a parkolóból, de a látvány lenyűgöző.",
+                "ro": "O plimbare mai lungă de la parcare, dar vederea este fantastică.",
+                "en": "A longer walk from the parking, but the view is fantastic."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Sopa de ajo",
+                "tip": "Eine herzhafte Knoblauchsuppe für kühle Tage."
+              },
+              {
+                "name": "Ternasco asado",
+                "tip": "Zartes Lammfleisch aus der Region in traditionellen Tavernen."
+              },
+              {
+                "name": "Jamón de Teruel",
+                "tip": "Regionaler Schinken als Tapas."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Sopa de ajo",
+                "tip": "Egy laktató fokhagymaleves hűvös napokra."
+              },
+              {
+                "name": "Ternasco asado",
+                "tip": "Omlós, helyi báránysült a tradicionális tavernákban."
+              },
+              {
+                "name": "Jamón de Teruel",
+                "tip": "Helyi sonka, kiváló tapasnak."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Sopa de ajo",
+                "tip": "O supă de usturoi sățioasă pentru zile reci."
+              },
+              {
+                "name": "Ternasco asado",
+                "tip": "Friptură fragedă de miel local servită în taverne tradiționale."
+              },
+              {
+                "name": "Jamón de Teruel",
+                "tip": "Șuncă regională ca tapas."
+              }
+            ],
+            "en": [
+              {
+                "name": "Sopa de ajo",
+                "tip": "A hearty garlic soup for cool days."
+              },
+              {
+                "name": "Ternasco asado",
+                "tip": "Tender local roast lamb served in traditional taverns."
+              },
+              {
+                "name": "Jamón de Teruel",
+                "tip": "Regional ham served as tapas."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Mirador de Albarracín",
+                "tip": "Ein stiller Platz mit Panoramablick.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Turm del Andador",
+                "tip": "Der beste Ort für den Sonnenuntergang.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Außerhalb der Stadtmauern",
+                "tip": "Genießen Sie die Stille der Natur.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Mirador de Albarracín",
+                "tip": "Csendes tér panorámás kilátással.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Andador torony",
+                "tip": "A legjobb helyszín naplementekor.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "A városfalakon kívül",
+                "tip": "Élvezze a természet nyugalmát.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Mirador de Albarracín",
+                "tip": "Un loc liniștit cu o vedere panoramică.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Turnul Andador",
+                "tip": "Cel mai bun loc pentru apusul soarelui.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "În afara zidurilor cetății",
+                "tip": "Bucurați-vă de liniștea naturii.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Mirador de Albarracín",
+                "tip": "A quiet square with panoramic views.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Andador Tower",
+                "tip": "The best spot to watch the sunset.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Outside the city walls",
+                "tip": "Enjoy the silence of nature.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Regionale Spezialitäten",
+                "tip": "Kaufen Sie Käse und Schinken für Zuhause."
+              },
+              {
+                "name": "Keramik",
+                "tip": "Handgemachte Töpferwaren aus der Region."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Helyi finomságok",
+                "tip": "Vásároljon sajtot és sonkát otthonra."
+              },
+              {
+                "name": "Kerámia",
+                "tip": "Kézzel készített fazekasáruk a régióból."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Specialități regionale",
+                "tip": "Cumpărați brânză și șuncă pentru acasă."
+              },
+              {
+                "name": "Ceramică",
+                "tip": "Ceramică lucrată manual din regiune."
+              }
+            ],
+            "en": [
+              {
+                "name": "Regional specialties",
+                "tip": "Buy cheese and ham to take home."
+              },
+              {
+                "name": "Ceramics",
+                "tip": "Handmade pottery from the region."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Die Altstadt ist für den regulären Autoverkehr gesperrt.",
+              "Parken Sie am besten auf den öffentlichen Parkplätzen außerhalb.",
+              "Das Fahren in den engen Gassen ist nicht empfehlenswert.",
+              "Die Straßenbeleuchtung in der Nacht ist romantisch, aber schummrig."
+            ],
+            "hu": [
+              "Az óváros el van zárva a normál forgalom elől.",
+              "Legjobb, ha a külső nyilvános parkolókban áll meg.",
+              "A szűk sikátorokban nem ajánlott vezetni.",
+              "Az éjszakai utcai világítás romantikus, de kissé homályos."
+            ],
+            "ro": [
+              "Centrul vechi este închis pentru traficul rutier normal.",
+              "Cel mai bine parcați în parcările publice din afara orașului.",
+              "Nu se recomandă condusul pe străduțele înguste.",
+              "Iluminatul stradal noaptea este romantic, dar difuz."
+            ],
+            "en": [
+              "The old town is closed to regular car traffic.",
+              "It is best to park in the public parking lots outside.",
+              "Driving in the narrow alleys is not recommended.",
+              "The street lighting at night is romantic but dim."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie das Auto, um bequem zwischen den Sehenswürdigkeiten zu pendeln. Vormittags besuchen Sie das Diözesanmuseum, während draußen der Regen prasselt. Mittags parken Sie nahe der Plaza Mayor für ein trockenes Mittagessen. Am Nachmittag bietet die Fahrt zu den Aussichtspunkten außerhalb der Stadt tolle Panoramen ohne nass zu werden. Abends geht es sicher zurück zum Hotel.",
+            "hu": "Használja az autót a látnivalók közötti kényelmes közlekedéshez. Délelőtt látogassa meg a Diözesanmuseumot, miközben kint dobol az eső. Ebédidőben parkoljon a Plaza Mayor közelében a száraz étkezéshez. Délután a városon kívüli kilátópontokhoz vezető autóút nagyszerű panorámát nyújt anélkül, hogy elázna. Este biztonságosan térhet vissza a szállásra.",
+            "ro": "Folosiți mașina pentru a vă deplasa confortabil între atracții. Dimineața, vizitați Muzeul Diecezan în timp ce afară plouă. La prânz, parcați aproape de Plaza Mayor pentru un prânz la adăpost. După-amiaza, drumul spre punctele de belvedere din afara orașului oferă panorame grozave fără a vă uda. Seara, reveniți în siguranță la hotel.",
+            "en": "Use the car to commute comfortably between the sights. In the morning, visit the Diocesan Museum while the rain patters outside. At noon, park near Plaza Mayor for a dry lunch. In the afternoon, the drive to the viewpoints outside the city offers great panoramas without getting wet. In the evening, return safely to your hotel."
+          },
+          "stops": [
+            {
+              "name": "Portal de Molina",
+              "tip_5lang": {
+                "de": "Parken Sie auf dem großen Parkplatz am Ortseingang und nutzen Sie den Schirm.",
+                "hu": "Parkoljon a város bejáratánál lévő nagy parkolóban, és használja az esernyőt.",
+                "ro": "Parcați în parcarea mare de la intrarea în oraș și folosiți umbrela.",
+                "en": "Park in the large parking lot at the town entrance and use your umbrella."
+              }
+            },
+            {
+              "name": "Diözesanmuseum",
+              "tip_5lang": {
+                "de": "Idealer Ort für die regnerischste Zeit des Tages; viel Zeit einplanen.",
+                "hu": "Ideális hely a nap legesősebb időszakára; szánjon rá bőven időt.",
+                "ro": "Locul ideal pentru cea mai ploioasă parte a zilei; alocați suficient timp.",
+                "en": "Ideal spot for the rainiest part of the day; plan for plenty of time."
+              }
+            },
+            {
+              "name": "Kathedrale San Salvador",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg vom Parkplatz; halten Sie den Regenschutz bereit.",
+                "hu": "Rövid séta a parkolótól; tartsa készenlétben az esővédőt.",
+                "ro": "Drum scurt pe jos din parcare; țineți umbrela la îndemână.",
+                "en": "Short walk from the parking area; keep your rain gear ready."
+              }
+            },
+            {
+              "name": "Burg von Albarracín",
+              "tip_5lang": {
+                "de": "Prüfen Sie vor dem Aussteigen die Wolkenlage für trockene Besichtigungsmomente.",
+                "hu": "Kiszállás előtt ellenőrizze a felhőket a szárazabb pillanatokhoz.",
+                "ro": "Verificați norii înainte de a coborî pentru momente de vizitare fără ploaie.",
+                "en": "Check the cloud cover before getting out for a dry window of sightseeing."
+              }
+            },
+            {
+              "name": "Turm del Andador",
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf den schmalen Zufahrtswegen bei Sichtbehinderung.",
+                "hu": "Vezessen óvatosan a szűk bekötőutakon korlátozott látási viszonyok mellett.",
+                "ro": "Conduceți cu atenție pe drumurile înguste de acces în caz de vizibilitate redusă.",
+                "en": "Drive carefully on the narrow access roads if visibility is impaired."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Zufahrtsstraße A-1512 kann bei starkem Regen Steinschlag aufweisen.",
+              "Nutzen Sie den überdachten Parkplatz, falls verfügbar.",
+              "Lassen Sie nasse Kleidung nicht im Auto, um beschlagene Scheiben zu vermeiden.",
+              "Die Beleuchtung der Stadt bei Regen ist ein Highlight für Autofahrer."
+            ],
+            "hu": [
+              "Az A-1512-es úton heves esőzéskor kőomlás fordulhat elő.",
+              "Használja a fedett parkolót, ha rendelkezésre áll.",
+              "Ne hagyja a vizes ruhát az autóban, hogy elkerülje a szélvédő párásodását.",
+              "A város kivilágítása esőben különleges élmény az autósoknak is."
+            ],
+            "ro": [
+              "Drumul de acces A-1512 poate prezenta căderi de pietre în caz de ploaie torențială.",
+              "Folosiți parcarea acoperită, dacă este disponibilă.",
+              "Nu lăsați hainele ude în mașină pentru a evita aburirea geamurilor.",
+              "Iluminarea orașului pe ploaie este un punct de atracție pentru șoferi."
+            ],
+            "en": [
+              "The A-1512 access road may have falling rocks during heavy rain.",
+              "Use a covered parking spot if available.",
+              "Don't leave wet clothes in the car to avoid fogging up the windows.",
+              "The city lights during rain are a highlight for drivers as well."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine Winterfahrt nach Albarracín bietet spektakuläre Blicke auf verschneite Gipfel. Vormittags wärmt die Sitzheizung, während Sie die Panorama-Route wählen. Mittags finden Sie leicht einen Parkplatz, da weniger Touristen da sind. Nachmittags besuchen Sie den Turm del Andador, bevor die Schatten im Tal zu lang werden. Abends genießen Sie die Fahrt durch das beleuchtete, rote Dorf.",
+            "hu": "Egy téli autózás Albarracínba látványos kilátást nyújt a havas csúcsokra. Délelőtt az ülésfűtés melegít, miközben a panoráma utat választja. Ebédidőben könnyen talál parkolót, mert kevesebb a turista. Délután látogassa meg a Turm del Andadort, mielőtt az árnyékok túl hosszúra nyúlnának a völgyben. Este élvezze a kivilágított vörös falu látványát.",
+            "ro": "O călătorie de iarnă spre Albarracín oferă vederi spectaculoase spre vârfurile înzăpezite. Dimineața, încălzirea în scaune vă răsfață în timp ce alegeți ruta panoramică. La prânz, găsiți ușor loc de parcare, fiind mai puțini turiști. După-amiaza, vizitați Turnul del Andador înainte ca umbrele din vale să devină prea lungi. Seara, bucurați-vă de drumul prin satul roșu iluminat.",
+            "en": "A winter drive to Albarracín offers spectacular views of snowy peaks. In the morning, the seat heating keeps you warm while you take the scenic route. At noon, you'll easily find a parking spot as there are fewer tourists. In the afternoon, visit the Tower of Andador before the shadows in the valley get too long. In the evening, enjoy the drive through the illuminated red village."
+          },
+          "stops": [
+            {
+              "name": "Portal de Molina",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Parkplatzbeschaffenheit auf festgefahrenen Schnee.",
+                "hu": "Ellenőrizze a parkoló állapotát a letaposott hó miatt.",
+                "ro": "Verificați starea parcării pentru zăpadă bătătorită.",
+                "en": "Check the parking lot conditions for packed snow."
+              }
+            },
+            {
+              "name": "Diözesanmuseum",
+              "tip_5lang": {
+                "de": "Guter Ort, um die Kälteperiode zwischen den Spaziergängen zu überbrücken.",
+                "hu": "Jó hely a hideg időszak áthidalására a séták között.",
+                "ro": "Un loc bun pentru a face o pauză de la frig între plimbări.",
+                "en": "A good place to bridge the cold spell between walks."
+              }
+            },
+            {
+              "name": "Kathedrale San Salvador",
+              "tip_5lang": {
+                "de": "Achten Sie auf Passanten, die auf glatten Gehwegen nahe der Straße laufen.",
+                "hu": "Ügyeljen a járókelőkre, akik a csúszós járdák miatt az út szélén mehetnek.",
+                "ro": "Atenție la pietonii care merg pe marginea drumului din cauza trotuarelor alunecoase.",
+                "en": "Watch out for pedestrians walking near the road due to slippery sidewalks."
+              }
+            },
+            {
+              "name": "Burg von Albarracín",
+              "tip_5lang": {
+                "de": "Lassen Sie den Motor nicht unnötig laufen, während Sie den Ausblick genießen.",
+                "hu": "Ne járassa feleslegesen a motort, miközben a kilátásban gyönyörködik.",
+                "ro": "Nu lăsați motorul pornit inutil în timp ce admirați priveliștea.",
+                "en": "Don't leave the engine idling unnecessarily while enjoying the view."
+              }
+            },
+            {
+              "name": "Turm del Andador",
+              "tip_5lang": {
+                "de": "Winterreifen oder Ketten können für diesen hohen Punkt nötig sein.",
+                "hu": "Téli gumi vagy hólánc szükséges lehet ehhez a magas ponthoz.",
+                "ro": "Anvelopele de iarnă sau lanțurile pot fi necesare pentru acest punct înalt.",
+                "en": "Winter tires or chains might be necessary for this high point."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Führen Sie immer Eiskratzer und Frostschutzmittel im Auto mit.",
+              "Die Bergstraßen in Teruel können morgens sehr glatt sein (Frost).",
+              "Parken Sie so, dass Sie bei Schneefall leicht wieder losfahren können.",
+              "Tanken Sie voll, da Tankstellen in der Bergregion seltener sind."
+            ],
+            "hu": [
+              "Mindig tartson jégkaparót és fagyállót az autóban.",
+              "A terueli hegyi utak reggelente nagyon csúszósak lehetnek a fagy miatt.",
+              "Úgy parkoljon, hogy hóesés esetén is könnyen el tudjon indulni.",
+              "Tankoljon tele, mert a hegyvidéken ritkábban vannak benzinkutak."
+            ],
+            "ro": [
+              "Aveți întotdeauna în mașină o răzuitoare de gheață și antigel.",
+              "Drumurile montane din Teruel pot fi foarte alunecoase dimineața (îngheț).",
+              "Parcați astfel încât să puteți pleca ușor în caz de ninsoare.",
+              "Faceți plinul, deoarece benzinăriile sunt mai rare în regiunea montană."
+            ],
+            "en": [
+              "Always carry an ice scraper and antifreeze in your car.",
+              "The mountain roads in Teruel can be very slippery in the morning (frost).",
+              "Park in a way that allows you to pull out easily even if it snows.",
+              "Fill up your tank, as gas stations are less frequent in the mountain region."
+            ]
+          }
+        }
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "15:10",
+      "total_km": 4.5,
+      "stop_count": 4,
+      "stops": [
+        {
+          "name": "Plaza Mayor",
+          "coords": [
+            -1.444,
+            40.4075
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Das Zentrum ist vom Busbahnhof gut zu Fuß erreichbar.",
+            "hu": "A központ könnyen elérhető sétálva a buszmegállótól.",
+            "ro": "Centrul este ușor accesibil pe jos de la stația de autobuz.",
+            "en": "The center is an easy walk from the bus station."
+          }
+        },
+        {
+          "name": "Kirche Santa Maria",
+          "coords": [
+            -1.4435,
+            40.4077
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:50",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Eine schöne und oft übersehene Kirche.",
+            "hu": "Egy gyönyörű, gyakran mellőzött templom.",
+            "ro": "O biserică frumoasă și adesea trecută cu vederea.",
+            "en": "A beautiful and often overlooked church."
+          }
+        },
+        {
+          "name": "Diözesanmuseum",
+          "coords": [
+            -1.4428,
+            40.4082
+          ],
+          "category": "museums",
+          "arrive_at": "10:50",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Die Ausstellungen erzählen viel über die Geschichte.",
+            "hu": "A kiállítások sokat mesélnek a hely történetéről.",
+            "ro": "Expozițiile spun multe despre istoria locului.",
+            "en": "The exhibits tell a lot about the local history."
+          }
+        },
+        {
+          "name": "Stadtmauern von Albarracín",
+          "coords": [
+            -1.445,
+            40.4095
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:55",
+          "stay_min": 105,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit für den Panoramablick.",
+            "hu": "Szánjon időt a panorámára a falakról.",
+            "ro": "Luați-vă timp pentru priveliștea de pe ziduri.",
+            "en": "Take your time for the panoramic views from the walls."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nach Ankunft im Zentrum geht es zur belebten Plaza Mayor. Entdecken Sie danach die friedliche Kirche Santa Maria. Mittags erwartet Sie das historische Diözesanmuseum. Der Nachmittag ist für einen entspannten Spaziergang entlang der alten Stadtmauern reserviert.",
+        "hu": "A központba érkezés után irány a nyüzsgő Plaza Mayor. Ezután fedezze fel a békés Santa Maria templomot. Délben a történelmi múzeum várja. A délután egy laza sétára van fenntartva az ősi városfalak mentén.",
+        "ro": "După sosirea în centru mergeți spre animata Plaza Mayor. Descoperiți apoi liniștita biserică Santa Maria. La prânz vă așteaptă muzeul eparhial istoric. După-amiaza este rezervată pentru o plimbare relaxantă de-a lungul vechilor ziduri ale orașului.",
+        "en": "After arriving in the center, head to the bustling Plaza Mayor. Then discover the peaceful Santa Maria church. At midday, the historic diocesan museum awaits. The afternoon is reserved for a relaxing walk along the ancient city walls."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Migas aragonesas",
+            "tip": "Brotkrumengericht mit Chorizo, oft als deftige Vorspeise serviert."
+          },
+          {
+            "name": "Ternasco asado",
+            "tip": "Zartes Lammfleisch aus der Region in traditionellen Tavernen."
+          },
+          {
+            "name": "Queso de Albarracín",
+            "tip": "Probieren Sie den preisgekrönten lokalen Schafskäse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Migas aragonesas",
+            "tip": "Pirított kenyérmorzsa kolbásszal, laktató előételként."
+          },
+          {
+            "name": "Ternasco asado",
+            "tip": "Omlós, helyi báránysült a tradicionális tavernákban."
+          },
+          {
+            "name": "Queso de Albarracín",
+            "tip": "Kóstolja meg a díjnyertes helyi juhsajtot."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Migas aragonesas",
+            "tip": "Fărâmituri de pâine prăjită cu chorizo, un aperitiv sățios."
+          },
+          {
+            "name": "Ternasco asado",
+            "tip": "Friptură fragedă de miel local servită în taverne tradiționale."
+          },
+          {
+            "name": "Queso de Albarracín",
+            "tip": "Încercați brânza de oaie locală premiată."
+          }
+        ],
+        "en": [
+          {
+            "name": "Migas aragonesas",
+            "tip": "Toasted breadcrumbs with chorizo, a hearty starter."
+          },
+          {
+            "name": "Ternasco asado",
+            "tip": "Tender local roast lamb served in traditional taverns."
+          },
+          {
+            "name": "Queso de Albarracín",
+            "tip": "Taste the award-winning local sheep's milk cheese."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Mirador de Albarracín",
+            "tip": "Ein stiller Platz mit Panoramablick.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Turm del Andador",
+            "tip": "Der beste Ort für den Sonnenuntergang.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Ufer des Guadalaviar",
+            "tip": "Ruhiger Pfad direkt am Wasser.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mirador de Albarracín",
+            "tip": "Csendes tér panorámás kilátással.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Andador torony",
+            "tip": "A legjobb helyszín naplementekor.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Guadalaviar partja",
+            "tip": "Csendes ösvény közvetlenül a víz mellett.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mirador de Albarracín",
+            "tip": "Un loc liniștit cu o vedere panoramică.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Turnul Andador",
+            "tip": "Cel mai bun loc pentru apusul soarelui.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Malul râului Guadalaviar",
+            "tip": "O potecă liniștită chiar lângă apă.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Mirador de Albarracín",
+            "tip": "A quiet square with panoramic views.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Andador Tower",
+            "tip": "The best spot to watch the sunset.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Guadalaviar Riverbank",
+            "tip": "A quiet path right next to the water.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Regionale Spezialitäten",
+            "tip": "Perfekt als Mitbringsel im Bus."
+          },
+          {
+            "name": "Postkarten",
+            "tip": "In den kleinen Läden nahe der Plaza Mayor."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi finomságok",
+            "tip": "Tökéletes szuvenír a buszútra."
+          },
+          {
+            "name": "Képeslapok",
+            "tip": "A Plaza Mayor melletti kis boltokban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Specialități regionale",
+            "tip": "Suvenirul perfect pentru drumul cu autobuzul."
+          },
+          {
+            "name": "Cărți poștale",
+            "tip": "În micile magazine de lângă Plaza Mayor."
+          }
+        ],
+        "en": [
+          {
+            "name": "Regional specialties",
+            "tip": "Perfect souvenirs for the bus ride."
+          },
+          {
+            "name": "Postcards",
+            "tip": "In the small shops near Plaza Mayor."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie den Busfahrplan für die Rückreise.",
+          "Am Wochenende fahren weniger Busse.",
+          "Nehmen Sie Proviant für die Weiterfahrt mit.",
+          "Die Bushaltestelle liegt etwas außerhalb der Altstadt."
+        ],
+        "hu": [
+          "Ellenőrizze a visszautazás buszmenetrendjét.",
+          "Hétvégén ritkábban járnak a buszok.",
+          "Vigyen magával enni- és innivalót a további útra.",
+          "A buszmegálló kicsivel az óváros szélén található."
+        ],
+        "ro": [
+          "Verificați orarul autobuzelor pentru întoarcere.",
+          "În weekend circulă mai puține autobuze.",
+          "Luați provizii pentru continuarea călătoriei.",
+          "Stația de autobuz este puțin în afara centrului vechi."
+        ],
+        "en": [
+          "Check the bus schedule for the return trip.",
+          "Buses run less frequently on weekends.",
+          "Take snacks with you for the onward journey.",
+          "The bus stop is located just outside the old town."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Nach Ankunft im Zentrum geht es zur belebten Plaza Mayor. Entdecken Sie danach die friedliche Kirche Santa Maria. Mittags erwartet Sie das historische Diözesanmuseum. Der Nachmittag ist für einen entspannten Spaziergang entlang der alten Stadtmauern reserviert.",
+            "hu": "A központba érkezés után irány a nyüzsgő Plaza Mayor. Ezután fedezze fel a békés Santa Maria templomot. Délben a történelmi múzeum várja. A délután egy laza sétára van fenntartva az ősi városfalak mentén.",
+            "ro": "După sosirea în centru mergeți spre animata Plaza Mayor. Descoperiți apoi liniștita biserică Santa Maria. La prânz vă așteaptă muzeul eparhial istoric. După-amiaza este rezervată pentru o plimbare relaxantă de-a lungul vechilor ziduri ale orașului.",
+            "en": "After arriving in the center, head to the bustling Plaza Mayor. Then discover the peaceful Santa Maria church. At midday, the historic diocesan museum awaits. The afternoon is reserved for a relaxing walk along the ancient city walls."
+          },
+          "stops": [
+            {
+              "name": "Plaza Mayor",
+              "tip_5lang": {
+                "de": "Das Zentrum ist vom Busbahnhof gut zu Fuß erreichbar.",
+                "hu": "A központ könnyen elérhető sétálva a buszmegállótól.",
+                "ro": "Centrul este ușor accesibil pe jos de la stația de autobuz.",
+                "en": "The center is an easy walk from the bus station."
+              }
+            },
+            {
+              "name": "Kirche Santa Maria",
+              "tip_5lang": {
+                "de": "Eine schöne und oft übersehene Kirche.",
+                "hu": "Egy gyönyörű, gyakran mellőzött templom.",
+                "ro": "O biserică frumoasă și adesea trecută cu vederea.",
+                "en": "A beautiful and often overlooked church."
+              }
+            },
+            {
+              "name": "Diözesanmuseum",
+              "tip_5lang": {
+                "de": "Die Ausstellungen erzählen viel über die Geschichte.",
+                "hu": "A kiállítások sokat mesélnek a hely történetéről.",
+                "ro": "Expozițiile spun multe despre istoria locului.",
+                "en": "The exhibits tell a lot about the local history."
+              }
+            },
+            {
+              "name": "Stadtmauern von Albarracín",
+              "tip_5lang": {
+                "de": "Nehmen Sie sich Zeit für den Panoramablick.",
+                "hu": "Szánjon időt a panorámára a falakról.",
+                "ro": "Luați-vă timp pentru priveliștea de pe ziduri.",
+                "en": "Take your time for the panoramic views from the walls."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Migas aragonesas",
+                "tip": "Brotkrumengericht mit Chorizo, oft als deftige Vorspeise serviert."
+              },
+              {
+                "name": "Ternasco asado",
+                "tip": "Zartes Lammfleisch aus der Region in traditionellen Tavernen."
+              },
+              {
+                "name": "Queso de Albarracín",
+                "tip": "Probieren Sie den preisgekrönten lokalen Schafskäse."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Migas aragonesas",
+                "tip": "Pirított kenyérmorzsa kolbásszal, laktató előételként."
+              },
+              {
+                "name": "Ternasco asado",
+                "tip": "Omlós, helyi báránysült a tradicionális tavernákban."
+              },
+              {
+                "name": "Queso de Albarracín",
+                "tip": "Kóstolja meg a díjnyertes helyi juhsajtot."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Migas aragonesas",
+                "tip": "Fărâmituri de pâine prăjită cu chorizo, un aperitiv sățios."
+              },
+              {
+                "name": "Ternasco asado",
+                "tip": "Friptură fragedă de miel local servită în taverne tradiționale."
+              },
+              {
+                "name": "Queso de Albarracín",
+                "tip": "Încercați brânza de oaie locală premiată."
+              }
+            ],
+            "en": [
+              {
+                "name": "Migas aragonesas",
+                "tip": "Toasted breadcrumbs with chorizo, a hearty starter."
+              },
+              {
+                "name": "Ternasco asado",
+                "tip": "Tender local roast lamb served in traditional taverns."
+              },
+              {
+                "name": "Queso de Albarracín",
+                "tip": "Taste the award-winning local sheep's milk cheese."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Mirador de Albarracín",
+                "tip": "Ein stiller Platz mit Panoramablick.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Turm del Andador",
+                "tip": "Der beste Ort für den Sonnenuntergang.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Ufer des Guadalaviar",
+                "tip": "Ruhiger Pfad direkt am Wasser.",
+                "emoji": "🍃"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Mirador de Albarracín",
+                "tip": "Csendes tér panorámás kilátással.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Andador torony",
+                "tip": "A legjobb helyszín naplementekor.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Guadalaviar partja",
+                "tip": "Csendes ösvény közvetlenül a víz mellett.",
+                "emoji": "🍃"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Mirador de Albarracín",
+                "tip": "Un loc liniștit cu o vedere panoramică.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Turnul Andador",
+                "tip": "Cel mai bun loc pentru apusul soarelui.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Malul râului Guadalaviar",
+                "tip": "O potecă liniștită chiar lângă apă.",
+                "emoji": "🍃"
+              }
+            ],
+            "en": [
+              {
+                "name": "Mirador de Albarracín",
+                "tip": "A quiet square with panoramic views.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Andador Tower",
+                "tip": "The best spot to watch the sunset.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Guadalaviar Riverbank",
+                "tip": "A quiet path right next to the water.",
+                "emoji": "🍃"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Regionale Spezialitäten",
+                "tip": "Perfekt als Mitbringsel im Bus."
+              },
+              {
+                "name": "Postkarten",
+                "tip": "In den kleinen Läden nahe der Plaza Mayor."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Helyi finomságok",
+                "tip": "Tökéletes szuvenír a buszútra."
+              },
+              {
+                "name": "Képeslapok",
+                "tip": "A Plaza Mayor melletti kis boltokban."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Specialități regionale",
+                "tip": "Suvenirul perfect pentru drumul cu autobuzul."
+              },
+              {
+                "name": "Cărți poștale",
+                "tip": "În micile magazine de lângă Plaza Mayor."
+              }
+            ],
+            "en": [
+              {
+                "name": "Regional specialties",
+                "tip": "Perfect souvenirs for the bus ride."
+              },
+              {
+                "name": "Postcards",
+                "tip": "In the small shops near Plaza Mayor."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Überprüfen Sie den Busfahrplan für die Rückreise.",
+              "Am Wochenende fahren weniger Busse.",
+              "Nehmen Sie Proviant für die Weiterfahrt mit.",
+              "Die Bushaltestelle liegt etwas außerhalb der Altstadt."
+            ],
+            "hu": [
+              "Ellenőrizze a visszautazás buszmenetrendjét.",
+              "Hétvégén ritkábban járnak a buszok.",
+              "Vigyen magával enni- és innivalót a további útra.",
+              "A buszmegálló kicsivel az óváros szélén található."
+            ],
+            "ro": [
+              "Verificați orarul autobuzelor pentru întoarcere.",
+              "În weekend circulă mai puține autobuze.",
+              "Luați provizii pentru continuarea călătoriei.",
+              "Stația de autobuz este puțin în afara centrului vechi."
+            ],
+            "en": [
+              "Check the bus schedule for the return trip.",
+              "Buses run less frequently on weekends.",
+              "Take snacks with you for the onward journey.",
+              "The bus stop is located just outside the old town."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Bus erreichen Sie das Zentrum trocken. Vormittags erkunden Sie die Plaza Mayor, wo Cafés Schutz bieten. Mittags besuchen Sie die Kirche Santa Maria für eine besinnliche, trockene Pause. Nachmittags steht das Diözesanmuseum auf dem Programm, perfekt für Regentage. Abends bringt Sie der letzte Bus sicher zurück, während Sie die Regentropfen am Fenster beobachten.",
+            "hu": "Busszal szárazon érheti el a központot. Délelőtt fedezze fel a Plaza Mayort, ahol a kávézók menedéket nyújtanak. Ebédidőben látogassa meg a Santa Maria templomot egy meghitt, száraz pihenőre. Délután a Diözesanmuseum van műsoron, amely tökéletes esős napokra. Este az utolsó busz biztonságban viszi vissza, miközben az ablakon lefutó esőcseppeket figyeli.",
+            "ro": "Cu autobuzul ajungeți uscați în centru. Dimineața, explorați Plaza Mayor, unde cafenelele oferă adăpost. La prânz, vizitați Biserica Santa Maria pentru o pauză liniștită la adăpost. După-amiaza, Muzeul Diecezan este în program, perfect pentru zilele ploioase. Seara, ultimul autobuz vă aduce înapoi în siguranță în timp ce priviți picăturile de ploaie pe geam.",
+            "en": "Reach the center dry by bus. In the morning, explore Plaza Mayor, where cafes offer shelter. At noon, visit Santa Maria Church for a peaceful, dry break. In the afternoon, the Diocesan Museum is on the agenda, perfect for rainy days. In the evening, the last bus takes you back safely while you watch the raindrops on the window."
+          },
+          "stops": [
+            {
+              "name": "Plaza Mayor",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle liegt nahe am Platz; wenig Zeit im Regen verbringen.",
+                "hu": "A buszmegálló közel van a térhez; kevés időt kell az esőben töltenie.",
+                "ro": "Stația de autobuz este aproape de piață; veți petrece puțin timp în ploaie.",
+                "en": "The bus stop is close to the square; you'll spend very little time in the rain."
+              }
+            },
+            {
+              "name": "Kirche Santa Maria",
+              "tip_5lang": {
+                "de": "Ein schöner Ort, um zu warten, bis der Regen nachlässt.",
+                "hu": "Szép hely megvárni, amíg alábbhagy az eső.",
+                "ro": "Un loc frumos unde puteți aștepta până se domolește ploaia.",
+                "en": "A beautiful place to wait until the rain lets up."
+              }
+            },
+            {
+              "name": "Diözesanmuseum",
+              "tip_5lang": {
+                "de": "Überprüfen Sie die Buszeiten drinnen im Warmen über das Smartphone.",
+                "hu": "Ellenőrizze a buszjáratokat bent a melegben az okostelefonján.",
+                "ro": "Verificați programul autobuzelor la căldură, în interior, pe smartphone.",
+                "en": "Check bus times on your smartphone while staying warm inside."
+              }
+            },
+            {
+              "name": "Stadtmauern von Albarracín",
+              "tip_5lang": {
+                "de": "Nur bei nachlassendem Regen besuchen; die Stufen sind steil.",
+                "hu": "Csak csökkenő esőben látogassa; a lépcsők meredekek.",
+                "ro": "Vizitați doar când ploaia se domolește; treptele sunt abrupte.",
+                "en": "Only visit when the rain eases; the steps are steep."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Busverbindungen nach Teruel sind bei Regen oft pünktlicher als man denkt.",
+              "Tragen Sie wasserfeste Kleidung für die Wege zwischen Haltestelle und Museum.",
+              "Informieren Sie sich über eventuelle Fahrplanänderungen bei Unwetter.",
+              "Nutzen Sie die Wartezeiten in den Cafés nahe der Haltestellen."
+            ],
+            "hu": [
+              "A Teruelbe közlekedő buszjáratok esőben is gyakran pontosabbak, mint gondolná.",
+              "Viseljen vízálló ruhát a megálló és a múzeum közötti szakaszokra.",
+              "Tájékozódjon az esetleges menetrendi változásokról vihar esetén.",
+              "Használja ki a várakozási időt a megállók közeli kávézókban."
+            ],
+            "ro": [
+              "Conexiunile de autobuz spre Teruel sunt adesea mai punctuale decât credeți pe ploaie.",
+              "Purtați haine impermeabile pentru drumurile între stație și muzeu.",
+              "Informați-vă despre eventualele modificări de program în caz de furtună.",
+              "Folosiți timpul de așteptare în cafenelele din apropierea stațiilor."
+            ],
+            "en": [
+              "Bus connections to Teruel are often more punctual than you'd think in the rain.",
+              "Wear waterproof clothing for the walks between the stop and the museum.",
+              "Check for any schedule changes during severe weather.",
+              "Use the waiting time in cafes near the bus stops."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Bus bringt Sie direkt ins Herz des winterlichen Dorfes. Vormittags wärmen Sie sich in einem Café an der Plaza Mayor nach der Ankunft auf. Mittags besuchen Sie die Kirche Santa Maria, wo die Stille des Winters spürbar ist. Nachmittags erkunden Sie das Museum, bevor es draußen zu kalt wird. Abends kehren Sie mit dem Bus zurück, wenn die Lichter der Stadt im Frost glitzern.",
+            "hu": "A busz egyenesen a téli falu szívébe viszi. Délelőtt melegedjen fel egy kávézóban a Plaza Mayoron érkezés után. Ebédidőben látogassa meg a Santa Maria templomot, ahol érezhető a tél csendje. Délután fedezze fel a múzeumot, mielőtt odakint túl hideg lenne. Este busszal térjen vissza, amikor a város fényei csillognak a zúzmarában.",
+            "ro": "Autobuzul vă aduce direct în inima satului hibernal. Dimineața, încălziți-vă într-o cafenea din Plaza Mayor după sosire. La prânz, vizitați Biserica Santa Maria, unde liniștea iernii este perceptibilă. După-amiaza, explorați muzeul înainte să se facă prea frig afară. Seara, reveniți cu autobuzul când luminile orașului sclipesc în chiciură.",
+            "en": "The bus takes you straight to the heart of the winter village. In the morning, warm up in a cafe at Plaza Mayor after your arrival. At noon, visit Santa Maria Church, where the silence of winter is palpable. In the afternoon, explore the museum before it gets too cold outside. In the evening, return by bus as the city lights shimmer in the frost."
+          },
+          "stops": [
+            {
+              "name": "Plaza Mayor",
+              "tip_5lang": {
+                "de": "Warten Sie im Inneren eines Cafés auf den Bus; die Haltestelle ist nah.",
+                "hu": "Várja a buszt egy kávézó belsejében; a megálló közel van.",
+                "ro": "Așteptați autobuzul în interiorul unei cafenele; stația este aproape.",
+                "en": "Wait for the bus inside a cafe; the stop is close by."
+              }
+            },
+            {
+              "name": "Kirche Santa Maria",
+              "tip_5lang": {
+                "de": "Ein Ort der Ruhe, ideal um sich zwischen den Besichtigungen aufzuwärmen.",
+                "hu": "A nyugalom helye, ideális felmelegedni a nézelődés közben.",
+                "ro": "Un loc al liniștii, ideal pentru a vă încălzi între vizite.",
+                "en": "A place of peace, ideal for warming up between sightings."
+              }
+            },
+            {
+              "name": "Diözesanmuseum",
+              "tip_5lang": {
+                "de": "Die Ausstellungen sind im Winter oft weniger besucht; genießen Sie die Stille.",
+                "hu": "A kiállítások télen gyakran kevésbé látogatottak; élvezze a csendet.",
+                "ro": "Expozițiile sunt adesea mai puțin vizitate iarna; bucurați-vă de liniște.",
+                "en": "The exhibitions are often less crowded in winter; enjoy the quiet."
+              }
+            },
+            {
+              "name": "Stadtmauern von Albarracín",
+              "tip_5lang": {
+                "de": "Der Aufstieg hält warm, aber oben ist es sehr windig; gut einpacken.",
+                "hu": "A feljutás melegen tart, de fent nagyon szeles az idő; öltözzön be jól.",
+                "ro": "Urcarea vă ține de cald, dar sus este foarte vânt; îmbrăcați-vă bine.",
+                "en": "The climb keeps you warm, but it's very windy at the top; wrap up well."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Busse sind im Winter gut beheizt; genießen Sie die Fahrt.",
+              "Prüfen Sie den Winterfahrplan, da manche Verbindungen seltener sind.",
+              "Halten Sie Kleingeld bereit, falls Kartenzahlung im Bus bei Kälte streikt.",
+              "Die Haltestellen bieten oft keinen Schutz vor Wind; erst kurz vorher dort sein."
+            ],
+            "hu": [
+              "A buszok télen jól fűtöttek; élvezze az utazást.",
+              "Ellenőrizze a téli menetrendet, mert néhány járat ritkábban közlekedik.",
+              "Legyen Önnél aprópénz, ha a kártyás fizetés a buszon a hideg miatt nem működne.",
+              "A megállók gyakran nem védenek a széltől; csak röviddel indulás előtt menjen oda."
+            ],
+            "ro": [
+              "Autobuzele sunt bine încălzite iarna; bucurați-vă de călătorie.",
+              "Verificați programul de iarnă, deoarece unele conexiuni sunt mai rare.",
+              "Aveți pregătit mărunțiș în cazul în care plata cu cardul în autobuz nu funcționează din cauza frigului.",
+              "Stațiile adesea nu oferă protecție împotriva vântului; mergeți acolo doar cu puțin timp înainte."
+            ],
+            "en": [
+              "The buses are well-heated in winter; enjoy the ride.",
+              "Check the winter schedule as some connections may be less frequent.",
+              "Have small change ready in case card payment on the bus fails due to the cold.",
+              "The stops often provide no shelter from the wind; arrive shortly before departure."
+            ]
+          }
+        }
+      }
+    }
+  },
+  "external_resources": {
+    "tourism_office": "https://www.albarracinturismo.com/",
+    "museum_tickets": "https://fundacionsantamariadealbarracin.com/visitas/",
+    "transit_official": "https://www.samar.es/",
+    "language_tips": {
+      "de": "Reines Spanisch, ländliches Aragón. Englisch sehr begrenzt, am ehesten im Hotel Casa de Santiago oder bei den geführten Touren der Fundación Santa María. Geführte Touren sind übrigens fast Pflicht, sonst sind viele Häuser zu.",
+      "hu": "Tiszta spanyol, vidéki Aragón. Az angol nagyon korlátozott, leginkább a Casa de Santiago szállodában vagy a Fundación Santa María vezetett túráin. A vezetett séta szinte kötelező, máskülönben sok ház zárva van.",
+      "ro": "Spaniolă curată, Aragon rural. Engleza e foarte limitată, doar la Hotel Casa de Santiago sau în tururile ghidate ale Fundación Santa María. Tururile ghidate sunt aproape obligatorii, altfel multe case rămân închise.",
+      "en": "Plain Spanish, rural Aragón. English is very limited - your best bets are Hotel Casa de Santiago or the guided tours by Fundación Santa María. Those tours are basically essential, otherwise most houses stay shut to you."
+    },
+    "best_time_to_visit": {
+      "de": "April-Juni und September-Oktober. Im Sommer brennt die Sonne auf den rosa Häusern, Mittagspause unvermeidlich. Winter ist magisch mit Schnee, aber Zugang vereist - Spikes für Winterstiefel mitnehmen.",
+      "hu": "Április-június és szeptember-október. Nyáron a nap perzseli a rózsaszín házakat, déli sziesztát ki nem hagyhatod. Tél varázslatos havazással, de az utak jegesek, csúszásgátlót vigyél a bakancsra.",
+      "ro": "Aprilie-iunie și septembrie-octombrie. Vara soarele arde casele roz, siesta de prânz e obligatorie. Iarna e magică cu zăpadă, dar drumurile sunt înghețate, ia colțari pentru ghete.",
+      "en": "April-June and September-October are ideal. Summer sun bakes the pink houses and mandates a long siesta. Winter is magical under snow but roads ice up - bring grippers for your boots."
+    },
+    "neighborhood_warnings": {
+      "de": "Sehr sicher, aber extrem steile Kopfsteinpflastergassen mit Treppen - mit Rollkoffer kämpfst du eine Stunde. Im Sommer Hitze in den engen Gassen ohne Schatten, viel Wasser mitnehmen. Auto im Stadt-Parkhaus lassen, in der Altstadt darfst du eh nicht fahren.",
+      "hu": "Nagyon biztonságos, de a meredek macskakő-utcák lépcsősek, gurulós bőrönddel egy órát szenvedsz. Nyáron a szűk utcákban árnyék nélkül forró, sok vizet vigyél. Autót a város parkolójában hagyd, az óvárosba úgyse hajthatsz be.",
+      "ro": "Foarte sigur, dar străzile pavate sunt foarte abrupte cu trepte, cu valiza pe roți te chinui o oră. Vara, în străduțele înguste fără umbră e foarte cald, ia multă apă. Mașina o lași în parcarea orașului, în centrul vechi oricum nu intri.",
+      "en": "Very safe, but the steep cobbled lanes with steps will defeat any wheeled suitcase. Summer heat in the narrow shadeless alleys is real - carry plenty of water. Leave the car in the town car park; the old town is closed to traffic anyway."
+    }
+  }
+}

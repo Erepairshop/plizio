@@ -1,0 +1,2214 @@
+{
+  "city_id": "sitges",
+  "anchor": {
+    "name": "Sitges",
+    "coords": [
+      1.8051,
+      41.2371
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "20:30",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Museu Romàntic Can Llopis",
+            "hu": "Museu Romàntic Can Llopis",
+            "ro": "Museu Romàntic Can Llopis",
+            "en": "Museu Romàntic Can Llopis"
+          },
+          "coords": [
+            1.8078,
+            41.2384
+          ],
+          "category": "museums",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die antike Puppensammlung im Obergeschoss.",
+            "hu": "Nézze meg az emeleti antik baba-gyűjteményt.",
+            "ro": "Admirați colecția de păpuși antice de la etaj.",
+            "en": "Check out the antique doll collection on the upper floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Museu Cau Ferrat",
+            "hu": "Museu Cau Ferrat",
+            "ro": "Muzeul Cau Ferrat",
+            "en": "Cau Ferrat Museum"
+          },
+          "coords": [
+            1.8128,
+            41.2356
+          ],
+          "category": "museums",
+          "arrive_at": "11:05",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Das einstige Wohnhaus von Santiago Rusiñol, dem Herz des Modernismus.",
+            "hu": "Santiago Rusiñol egykori otthona, a modernizmus szíve.",
+            "ro": "Fosta casă a lui Santiago Rusiñol, inima modernismului.",
+            "en": "Former home of Santiago Rusiñol, the heart of Modernism."
+          }
+        },
+        {
+          "name": {
+            "de": "Palau de Maricel",
+            "hu": "Palau de Maricel",
+            "ro": "Palatul Maricel",
+            "en": "Maricel Palace"
+          },
+          "coords": [
+            1.8125,
+            41.2354
+          ],
+          "category": "museums",
+          "arrive_at": "12:55",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Die Kreuzgänge bieten einen der schönsten Ausblicke auf das Mittelmeer.",
+            "hu": "A kerengőkből nyílik az egyik legszebb kilátás a tengerre.",
+            "ro": "Cloistrele oferă una dintre cele mai frumoase priveliști spre Mediterană.",
+            "en": "The cloisters offer one of the best views of the Mediterranean."
+          }
+        },
+        {
+          "name": {
+            "de": "Església de Sant Bartomeu i Santa Tecla",
+            "hu": "Szent Bertalan és Szent Tekla-templom",
+            "ro": "Biserica Sant Bartomeu și Santa Tecla",
+            "en": "Church of Sant Bartomeu i Santa Tecla"
+          },
+          "coords": [
+            1.8116,
+            41.2355
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Die Silhouette der Kirche ist das Wahrzeichen von Sitges.",
+            "hu": "A templom sziluettje Sitges jelképe.",
+            "ro": "Silueta bisericii este simbolul orașului Sitges.",
+            "en": "The church silhouette is the iconic symbol of Sitges."
+          }
+        },
+        {
+          "name": {
+            "de": "Platja de Sant Sebastià",
+            "hu": "Platja de Sant Sebastià",
+            "ro": "Plaja Sant Sebastià",
+            "en": "Sant Sebastià Beach"
+          },
+          "coords": [
+            1.8145,
+            41.2358
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:45",
+          "stay_min": 150,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein familienfreundlicher Strand mit tollen Restaurants in der Nähe.",
+            "hu": "Családbarát strand kiváló közeli éttermekkel.",
+            "ro": "O plajă ideală pentru familii, cu restaurante bune în apropiere.",
+            "en": "A family-friendly beach with great restaurants nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Passeig Marítim",
+            "hu": "Passeig Marítim",
+            "ro": "Passeig Marítim",
+            "en": "Passeig Marítim"
+          },
+          "coords": [
+            1.805,
+            41.234
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "18:25",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Perfekt für einen Spaziergang unter Palmen bei Sonnenuntergang.",
+            "hu": "Tökéletes pálmafás sétához naplementekor.",
+            "ro": "Perfect pentru o plimbare sub palmieri la apus.",
+            "en": "Perfect for a stroll under palm trees at sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Beginnen Sie im Museu Romàntic, um das bürgerliche Erbe von Sitges zu spüren. Mittags: Tauchen Sie in den katalanischen Modernismus im Cau Ferrat und Maricel Palast ein, die direkt am Ufer thronen. Nachmittag: Besuchen Sie die berühmte 'La Punta' Kirche und genießen Sie die Sonne am Strand von Sant Sebastià. Abend: Flanieren Sie entlang der palmengesäumten Promenade zum Sonnenuntergang.",
+        "hu": "Reggel: Kezdjen a Museu Romàntic épületében, hogy átélje Sitges polgári örökségét. Délben: Merüljön el a katalán modernizmusban a Cau Ferrat és a Maricel palotában, amelyek közvetlenül a parton állnak. Délután: Látogassa meg a híres 'La Punta' templomot, majd élvezze a napsütést a Sant Sebastià strandon. Este: Sétáljon végig a pálmafás sétányon a naplementében.",
+        "ro": "Dimineața: Începeți la Museu Romàntic pentru a simți moștenirea burgheză a orașului Sitges. La prânz: Explorați modernismul catalan la Cau Ferrat și Palatul Maricel, situate chiar pe țărm. După-amiază: Vizitați celebra biserică 'La Punta' și bucurați-vă de soare pe plaja Sant Sebastià. Seara: Plimbați-vă pe faleza străjuită de palmieri la apus.",
+        "en": "Morning: Start at the Museu Romàntic to feel the bourgeois heritage of Sitges. Midday: Dive into Catalan Modernism at Cau Ferrat and Maricel Palace, perched right on the shore. Afternoon: Visit the famous 'La Punta' church and enjoy the sun at Sant Sebastià beach. Evening: Stroll along the palm-lined promenade at sunset."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Xató de Sitges",
+            "tip": "Probieren Sie diesen traditionellen Endiviensalat mit Kabeljau und spezieller Sauce."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Xató de Sitges",
+            "tip": "Kóstolja meg ezt a hagyományos cikóriasalátát tőkehallal és speciális mártással."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Xató de Sitges",
+            "tip": "Încearcă această salată tradițională de cicoare cu cod și sos special."
+          }
+        ],
+        "en": [
+          {
+            "name": "Xató de Sitges",
+            "tip": "Try this traditional endive salad with cod and special nut-based sauce."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Jardins de Terramar",
+            "tip": "Ein ruhiger Park am Ende der Promenade für eine Pause im Schatten.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jardins de Terramar",
+            "tip": "Csendes park a sétány végén, tökéletes árnyékos pihenőhely.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Jardins de Terramar",
+            "tip": "Un parc liniștit la capătul falezei, ideal pentru o pauză la umbră.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Jardins de Terramar",
+            "tip": "A quiet park at the end of the promenade for a break in the shade.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Carrer Major",
+            "tip": "Die Hauptstraße mit vielen Boutiquen und lokalem Kunsthandwerk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Carrer Major",
+            "tip": "A főutca számos butikkal és helyi kézműves termékkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Carrer Major",
+            "tip": "Strada principală cu multe buticuri și artizanat local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Carrer Major",
+            "tip": "The main street with many boutiques and local handicrafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für die Kopfsteinpflastergassen der Altstadt.",
+          "Buchen Sie Tickets für das Maricel-Museum im Voraus.",
+          "Sitges ist sehr fußgängerfreundlich, das Auto kann am Stadtrand bleiben.",
+          "Genießen Sie den Sonnenuntergang an der Kirchenmauer."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt az óváros macskaköves utcáihoz.",
+          "Foglaljon előre jegyet a Maricel Múzeumba.",
+          "Sitges nagyon gyalogosbarát, az autót érdemes a város szélén hagyni.",
+          "Élvezze a naplementét a templomfalnál."
+        ],
+        "ro": [
+          "Purtați încălțăminte comodă pentru străzile pietruite din centrul vechi.",
+          "Rezervați bilete pentru Muzeul Maricel în avans.",
+          "Sitges este foarte prietenos cu pietonii, lăsați mașina la periferie.",
+          "Bucurați-vă de apus lângă zidul bisericii."
+        ],
+        "en": [
+          "Wear comfortable shoes for the cobblestone streets of the old town.",
+          "Book tickets for the Maricel Museum in advance.",
+          "Sitges is very pedestrian-friendly; leave the car on the outskirts.",
+          "Enjoy the sunset by the church wall."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Morgen: Beginnen Sie im Museu Romàntic, um das bürgerliche Erbe von Sitges zu spüren. Mittags: Tauchen Sie in den katalanischen Modernismus im Cau Ferrat und Maricel Palast ein, die direkt am Ufer thronen. Nachmittag: Besuchen Sie die berühmte 'La Punta' Kirche und genießen Sie die Sonne am Strand von Sant Sebastià. Abend: Flanieren Sie entlang der palmengesäumten Promenade zum Sonnenuntergang.",
+            "hu": "Reggel: Kezdjen a Museu Romàntic épületében, hogy átélje Sitges polgári örökségét. Délben: Merüljön el a katalán modernizmusban a Cau Ferrat és a Maricel palotában, amelyek közvetlenül a parton állnak. Délután: Látogassa meg a híres 'La Punta' templomot, majd élvezze a napsütést a Sant Sebastià strandon. Este: Sétáljon végig a pálmafás sétányon a naplementében.",
+            "ro": "Dimineața: Începeți la Museu Romàntic pentru a simți moștenirea burgheză a orașului Sitges. La prânz: Explorați modernismul catalan la Cau Ferrat și Palatul Maricel, situate chiar pe țărm. După-amiază: Vizitați celebra biserică 'La Punta' și bucurați-vă de soare pe plaja Sant Sebastià. Seara: Plimbați-vă pe faleza străjuită de palmieri la apus.",
+            "en": "Morning: Start at the Museu Romàntic to feel the bourgeois heritage of Sitges. Midday: Dive into Catalan Modernism at Cau Ferrat and Maricel Palace, perched right on the shore. Afternoon: Visit the famous 'La Punta' church and enjoy the sun at Sant Sebastià beach. Evening: Stroll along the palm-lined promenade at sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museu Romàntic Can Llopis",
+                "hu": "Museu Romàntic Can Llopis",
+                "ro": "Museu Romàntic Can Llopis",
+                "en": "Museu Romàntic Can Llopis"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die antike Puppensammlung im Obergeschoss.",
+                "hu": "Nézze meg az emeleti antik baba-gyűjteményt.",
+                "ro": "Admirați colecția de păpuși antice de la etaj.",
+                "en": "Check out the antique doll collection on the upper floor."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu Cau Ferrat",
+                "hu": "Museu Cau Ferrat",
+                "ro": "Muzeul Cau Ferrat",
+                "en": "Cau Ferrat Museum"
+              },
+              "tip_5lang": {
+                "de": "Das einstige Wohnhaus von Santiago Rusiñol, dem Herz des Modernismus.",
+                "hu": "Santiago Rusiñol egykori otthona, a modernizmus szíve.",
+                "ro": "Fosta casă a lui Santiago Rusiñol, inima modernismului.",
+                "en": "Former home of Santiago Rusiñol, the heart of Modernism."
+              }
+            },
+            {
+              "name": {
+                "de": "Palau de Maricel",
+                "hu": "Palau de Maricel",
+                "ro": "Palatul Maricel",
+                "en": "Maricel Palace"
+              },
+              "tip_5lang": {
+                "de": "Die Kreuzgänge bieten einen der schönsten Ausblicke auf das Mittelmeer.",
+                "hu": "A kerengőkből nyílik az egyik legszebb kilátás a tengerre.",
+                "ro": "Cloistrele oferă una dintre cele mai frumoase priveliști spre Mediterană.",
+                "en": "The cloisters offer one of the best views of the Mediterranean."
+              }
+            },
+            {
+              "name": {
+                "de": "Església de Sant Bartomeu i Santa Tecla",
+                "hu": "Szent Bertalan és Szent Tekla-templom",
+                "ro": "Biserica Sant Bartomeu și Santa Tecla",
+                "en": "Church of Sant Bartomeu i Santa Tecla"
+              },
+              "tip_5lang": {
+                "de": "Die Silhouette der Kirche ist das Wahrzeichen von Sitges.",
+                "hu": "A templom sziluettje Sitges jelképe.",
+                "ro": "Silueta bisericii este simbolul orașului Sitges.",
+                "en": "The church silhouette is the iconic symbol of Sitges."
+              }
+            },
+            {
+              "name": {
+                "de": "Platja de Sant Sebastià",
+                "hu": "Platja de Sant Sebastià",
+                "ro": "Plaja Sant Sebastià",
+                "en": "Sant Sebastià Beach"
+              },
+              "tip_5lang": {
+                "de": "Ein familienfreundlicher Strand mit tollen Restaurants in der Nähe.",
+                "hu": "Családbarát strand kiváló közeli éttermekkel.",
+                "ro": "O plajă ideală pentru familii, cu restaurante bune în apropiere.",
+                "en": "A family-friendly beach with great restaurants nearby."
+              }
+            },
+            {
+              "name": {
+                "de": "Passeig Marítim",
+                "hu": "Passeig Marítim",
+                "ro": "Passeig Marítim",
+                "en": "Passeig Marítim"
+              },
+              "tip_5lang": {
+                "de": "Perfekt für einen Spaziergang unter Palmen bei Sonnenuntergang.",
+                "hu": "Tökéletes pálmafás sétához naplementekor.",
+                "ro": "Perfect pentru o plimbare sub palmieri la apus.",
+                "en": "Perfect for a stroll under palm trees at sunset."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Xató de Sitges",
+                "tip": "Probieren Sie diesen traditionellen Endiviensalat mit Kabeljau und spezieller Sauce."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Xató de Sitges",
+                "tip": "Kóstolja meg ezt a hagyományos cikóriasalátát tőkehallal és speciális mártással."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Xató de Sitges",
+                "tip": "Încearcă această salată tradițională de cicoare cu cod și sos special."
+              }
+            ],
+            "en": [
+              {
+                "name": "Xató de Sitges",
+                "tip": "Try this traditional endive salad with cod and special nut-based sauce."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Jardins de Terramar",
+                "tip": "Ein ruhiger Park am Ende der Promenade für eine Pause im Schatten.",
+                "emoji": "🍃"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Jardins de Terramar",
+                "tip": "Csendes park a sétány végén, tökéletes árnyékos pihenőhely.",
+                "emoji": "🍃"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Jardins de Terramar",
+                "tip": "Un parc liniștit la capătul falezei, ideal pentru o pauză la umbră.",
+                "emoji": "🍃"
+              }
+            ],
+            "en": [
+              {
+                "name": "Jardins de Terramar",
+                "tip": "A quiet park at the end of the promenade for a break in the shade.",
+                "emoji": "🍃"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Carrer Major",
+                "tip": "Die Hauptstraße mit vielen Boutiquen und lokalem Kunsthandwerk."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Carrer Major",
+                "tip": "A főutca számos butikkal és helyi kézműves termékkel."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Carrer Major",
+                "tip": "Strada principală cu multe buticuri și artizanat local."
+              }
+            ],
+            "en": [
+              {
+                "name": "Carrer Major",
+                "tip": "The main street with many boutiques and local handicrafts."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Tragen Sie bequeme Schuhe für die Kopfsteinpflastergassen der Altstadt.",
+              "Buchen Sie Tickets für das Maricel-Museum im Voraus.",
+              "Sitges ist sehr fußgängerfreundlich, das Auto kann am Stadtrand bleiben.",
+              "Genießen Sie den Sonnenuntergang an der Kirchenmauer."
+            ],
+            "hu": [
+              "Viseljen kényelmes cipőt az óváros macskaköves utcáihoz.",
+              "Foglaljon előre jegyet a Maricel Múzeumba.",
+              "Sitges nagyon gyalogosbarát, az autót érdemes a város szélén hagyni.",
+              "Élvezze a naplementét a templomfalnál."
+            ],
+            "ro": [
+              "Purtați încălțăminte comodă pentru străzile pietruite din centrul vechi.",
+              "Rezervați bilete pentru Muzeul Maricel în avans.",
+              "Sitges este foarte prietenos cu pietonii, lăsați mașina la periferie.",
+              "Bucurați-vă de apus lângă zidul bisericii."
+            ],
+            "en": [
+              "Wear comfortable shoes for the cobblestone streets of the old town.",
+              "Book tickets for the Maricel Museum in advance.",
+              "Sitges is very pedestrian-friendly; leave the car on the outskirts.",
+              "Enjoy the sunset by the church wall."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag im Museu Romàntic, um dem Regen zu entkommen und in das 18. Jahrhundert einzutauchen. Mittags bieten das Cau Ferrat und der Maricel-Palast, die direkt nebeneinander liegen, perfekten Schutz und hochkarätige Kunst. Am Nachmittag ist die Kirche Sant Bartomeu ein ruhiger Zufluchtsort mit Blick auf das stürmische Meer. Abends genießen Sie die melancholische Atmosphäre der glänzenden Gassen bei einem Glas Wein in einer gemütlichen Bar.\n\nDer Regen verleiht der weißen Altstadt einen besonderen Glanz, ideal für stimmungsvolle Fotos. Die Museen sind hervorragend klimatisiert und bieten stundenlange Unterhaltung im Trockenen. Der Weg zwischen den Kulturstätten ist kurz, was das Laufen mit Schirm erleichtert. Den Abschluss bildet ein Abendessen in den überdachten Bereichen der Restaurants am Passeig Marítim.",
+            "hu": "Kezdje a napot a Museu Romàntic épületében, ahol a 18. századi bútorok között menedéket talál az eső elől. Délben a Cau Ferrat és a Maricel Palota közvetlen szomszédsága ideális, hiszen minimális ázással juthat át egyik művészeti kincstárból a másikba. Délután a Sant Bartomeu templom vastag falai között pihenhet meg, figyelve a tajtékzó tengert. Este a vizes macskaköveken megcsillanó fények között keressen egy hangulatos éttermet az óvárosban.\n\nAz eső Sitgesben ritkán tartós, de a tengerparti szél miatt érdemes felkészülni. A múzeumi negyed sűrű beépítése miatt gyalogosan is jól navigálható marad a város. A fehér házak fala ilyenkor különleges szürke árnyalatot kap, ami egyedi fotótémát kínál. A nap végén a tengerparti sétány fedett teraszai tökéletesek a viharos panoráma csodálásához.",
+            "ro": "Începeți ziua la Museu Romàntic, locul ideal pentru a evita ploaia în timp ce descoperiți viața burgheză de odinioară. La prânz, proximitatea dintre Cau Ferrat și Palatul Maricel vă permite să explorați arta modernistă fără a vă uda prea tare. După-amiaza, Biserica Sant Bartomeu oferă un adăpost liniștit și o vedere dramatică asupra mării agitate. Seara, străzile înguste din centrul vechi devin magice, cu reflexii argintii pe pavajul umed.\n\nPloaia aduce o liniște neobișnuită în Sitges, transformând plimbarea într-o experiență introspectivă. Muzeele sunt spațioase și permit vizite lungi, ferite de intemperii. Distanțele scurte între obiectivele principale fac ca umbrela să fie suficientă pentru a rămâne uscat. Încheiați ziua într-o tavernă locală, savurând preparate calde în timp ce ascultați ploaia afară.",
+            "en": "Start your day at the Museu Romàntic, finding shelter among 18th-century artifacts while the rain falls outside. At noon, the close proximity of Cau Ferrat and Maricel Palace is perfect for museum-hopping with minimal exposure to the elements. In the afternoon, the Church of Sant Bartomeu provides a serene sanctuary with views of the crashing waves. By evening, the wet cobblestones of the old town reflect the city lights, creating a cinematic atmosphere for dinner.\n\nRain in Sitges adds a dramatic touch to the coastal scenery, making the white-washed buildings pop against the gray sky. The cultural venues are excellent refuges, offering rich history and art within walking distance of each other. A sturdy umbrella is recommended as the wind near the sea can be unpredictable. Finish your day in a cozy restaurant in the historic center, enjoying the rhythmic sound of rain on the roof."
+          },
+          "stops": [
+            {
+              "name": "Museu Romàntic Can Llopis",
+              "tip_5lang": {
+                "de": "Ideal zum Aufwärmen und Trocknen; die Garderobe nimmt nasse Schirme entgegen.",
+                "hu": "Tökéletes hely a száradáshoz; a ruhatárban leadhatók a vizes esernyők.",
+                "ro": "Loc ideal pentru a te usca; garderoba acceptă umbrelele ude.",
+                "en": "Perfect place to dry off; the cloakroom accepts wet umbrellas."
+              }
+            },
+            {
+              "name": "Cau Ferrat Museum",
+              "tip_5lang": {
+                "de": "Der Eingangsbereich ist eng; warten Sie bei starkem Regen kurz unter dem Vordach.",
+                "hu": "A bejárat szűk; nagy esőben várjon egy kicsit az eresztő alatt.",
+                "ro": "Intrarea este îngustă; în caz de ploaie torențială, așteptați sub streașină.",
+                "en": "The entrance is narrow; wait under the eaves during heavy downpours."
+              }
+            },
+            {
+              "name": "Maricel Palace",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kreuzgänge; sie bieten Schutz und einen tollen Blick auf den Regen im Meer.",
+                "hu": "Keresse a kerengőket; védelmet nyújtanak és szép kilátást az esős tengerre.",
+                "ro": "Vizitați galeriile interioare; oferă adăpost și o vedere superbă spre marea ploioasă.",
+                "en": "Visit the cloisters; they provide shelter and a great view of the rainy sea."
+              }
+            },
+            {
+              "name": "Church of Sant Bartomeu i Santa Tecla",
+              "tip_5lang": {
+                "de": "Vorsicht auf den Stufen vor der Kirche, sie können bei Nässe sehr rutschig sein.",
+                "hu": "Vigyázat a templom előtti lépcsőkön, nedves időben nagyon csúszósak lehetnek.",
+                "ro": "Atenție la treptele din fața bisericii, pot fi foarte alunecoase când sunt ude.",
+                "en": "Be careful on the steps in front of the church; they can be very slippery when wet."
+              }
+            },
+            {
+              "name": "Sant Sebastià Beach",
+              "tip_5lang": {
+                "de": "Genießen Sie den Anblick der Wellen von einem der überdachten Cafés an der Promenade.",
+                "hu": "Csodálja a hullámokat a sétány egyik fedett kávézójának teraszáról.",
+                "ro": "Admirați valurile de la una dintre cafenelele acoperite de pe faleză.",
+                "en": "Admire the waves from one of the covered cafes along the promenade."
+              }
+            },
+            {
+              "name": "Passeig Marítim",
+              "tip_5lang": {
+                "de": "Der Wind weht hier oft kräftig; halten Sie Ihren Schirm mit beiden Händen fest.",
+                "hu": "Itt gyakran erős a szél; fogja két kézzel az esernyőjét.",
+                "ro": "Vântul bate adesea cu putere aici; țineți umbrela cu ambele mâini.",
+                "en": "The wind is often strong here; hold your umbrella with both hands."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Schuhe mit rutschfesten Sohlen für die glatten Pflastersteine der Altstadt.",
+              "Kaufen Sie einen stabilen 'Sitges'-Schirm in den lokalen Souvenirläden, falls Ihrer knickt.",
+              "Nutzen Sie die Regenpausen für Fotos am Baluard, wenn die Farben besonders intensiv sind.",
+              "Die Museen schließen montags; planen Sie Ihren Regentag entsprechend um.",
+              "Warme Schokolade in einer Granja ist das beste Heilmittel gegen die Kühle des Regens."
+            ],
+            "hu": [
+              "Viseljen csúszásmentes talpú cipőt az óváros fényesre kopott kövei miatt.",
+              "Vásároljon egy stabil esernyőt a helyi boltokban, ha a tengeri szél kifordítaná a sajátját.",
+              "Használja ki az esőmentes perceket fotózásra a Baluard-nál, ilyenkor mélyebbek a színek.",
+              "A múzeumok hétfőn zárva tartanak; esős hétfőn keressen egy fedett piacot vagy mozit.",
+              "Egy forró csokoládé egy helyi 'granjában' a legjobb gyógyír az esős hűvösségre."
+            ],
+            "ro": [
+              "Purtați încălțăminte cu talpă antiderapantă pentru pavajul lucios din centrul vechi.",
+              "Cumpărați o umbrelă rezistentă de la magazinele locale dacă vântul de mare o strică pe a voastră.",
+              "Profitați de pauzele de ploaie pentru fotografii la Baluard, când culorile sunt mai intense.",
+              "Muzeele sunt închise lunea; planificați-vă ziua ploioasă în funcție de acest program.",
+              "O ciocolată caldă la o 'granja' locală este cel mai bun remediu împotriva umezelii."
+            ],
+            "en": [
+              "Wear non-slip shoes for the polished cobblestones in the historic center.",
+              "Buy a sturdy umbrella from local shops if the sea breeze flips yours inside out.",
+              "Take advantage of breaks in the rain for photos at the Baluard; colors are more vivid then.",
+              "Museums are closed on Mondays; plan your rainy day schedule accordingly.",
+              "A hot chocolate at a local 'granja' is the best remedy against the rainy chill."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Wintermorgen in Sitges ist meist sonnig und mild, ideal für einen Besuch im Can Llopis. Mittags wärmt die Sonne die Mauern des Maricel-Palastes, während die Museen drinnen angenehm temperiert sind. Am Nachmittag bietet der Strand von Sant Sebastià das schönste Licht des Jahres für einen Spaziergang. Da die Sonne gegen 17:30 Uhr untergeht, sollten Sie den Passeig Marítim frühzeitig besuchen, um das goldene Glühen der Fassaden zu erleben.\n\nDie Wintermonate sind ruhig und authentisch, ohne die sommerlichen Menschenmassen. Das Licht ist klarer und die Sicht auf die Berge des Garraf oft spektakulär. Die kühle Brise vom Meer erfordert eine leichte Jacke, aber die Caféterrassen sind dank der Sonne meist gut besetzt. Abends füllen sich die Bars der Altstadt mit Einheimischen, was für eine gemütliche Atmosphäre sorgt.",
+            "hu": "A téli reggelek Sitgesben gyakran ragyogóan naposak, tökéletesek a Can Llopis felfedezéséhez. Délben a nap sugarai kellemesen melegítik a Maricel Palota falait, a belső terek pedig fűtöttek. Délután a Sant Sebastià strand a legszebb téli fényeket kínálja egy frissítő sétához. Mivel a nap 17:30 körül nyugszik, érdemes korán a tengerparti sétányra érni, hogy elcsípjük a város aranyló fényeit.\n\nA téli hónapok csendesek és hitelesek, távol a nyári tömegtől. A levegő tisztább, a Garraf-hegység vonulatai élesebben látszanak a távolban. A tenger felől érkező hűvös szél miatt egy könnyű kabát szükséges, de a napos teraszok ilyenkor is élettel teliek. Este az óváros bárjai megtelnek helyiekkel, így valódi katalán hangulatban lehet részünk.",
+            "ro": "O dimineață de iarnă în Sitges este de obicei însorită și blândă, ideală pentru o vizită la Can Llopis. La prânz, soarele încălzește zidurile Palatului Maricel, în timp ce muzeele oferă o temperatură plăcută în interior. După-amiaza, plaja Sant Sebastià are cea mai frumoasă lumină din an pentru o plimbare revigorantă. Deoarece soarele apune în jur de 17:30, vizitați faleza devreme pentru a prinde strălucirea aurie a fațadelor.\n\nLunile de iarnă sunt liniștite și autentice, fără aglomerația estivală. Lumina este mai clară, iar vizibilitatea spre munții Garraf este adesea spectaculoasă. Briza răcoroasă a mării necesită o jachetă ușoară, dar terasele însorite sunt încă pline de viață. Seara, barurile din centrul vechi se umplu de localnici, oferind o atmosferă caldă și primitoare.",
+            "en": "A winter morning in Sitges is typically bright and mild, perfect for exploring Can Llopis. At noon, the sun warms the walls of Maricel Palace, while the museums inside are comfortably heated. In the afternoon, Sant Sebastià Beach offers the most beautiful light of the year for a refreshing walk. Since the sun sets around 5:30 PM, head to the Passeig Marítim early to catch the golden glow on the building facades.\n\nThe winter months are quiet and authentic, free from the summer crowds. The air is clearer, and the views of the Garraf mountains are often spectacular. The cool sea breeze requires a light jacket, but the sunny terraces remain popular spots for coffee. In the evening, the bars of the old town fill with locals, providing a warm and cozy Catalan atmosphere."
+          },
+          "stops": [
+            {
+              "name": "Museu Romàntic Can Llopis",
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe; im Winter haben Sie die prachtvollen Räume fast für sich allein.",
+                "hu": "Élvezze a csendet; télen szinte egyedül fedezheti fel a pompás szobákat.",
+                "ro": "Bucurați-vă de liniște; iarna aveți camerele somptuoase aproape doar pentru voi.",
+                "en": "Enjoy the quiet; in winter, you have the grand rooms almost to yourself."
+              }
+            },
+            {
+              "name": "Cau Ferrat Museum",
+              "tip_5lang": {
+                "de": "Die blauen Wände leuchten besonders schön im klaren Winterlicht durch die Fenster.",
+                "hu": "A kék falak különösen szépen ragyognak az ablakokon betűző téli fényben.",
+                "ro": "Pereții albaștri strălucesc deosebit de frumos în lumina clară de iarnă de la ferestre.",
+                "en": "The blue walls glow beautifully in the clear winter light coming through the windows."
+              }
+            },
+            {
+              "name": "Maricel Palace",
+              "tip_5lang": {
+                "de": "Wählen Sie eine Führung am Vormittag, um die Sonnenstrahlen im Kreuzgang zu erleben.",
+                "hu": "Válasszon délelőtti vezetést, hogy lássa a napsugarakat a kerengőben.",
+                "ro": "Alegeți un tur de dimineață pentru a vedea razele soarelui în claustru.",
+                "en": "Choose a morning tour to see the sunbeams in the cloister."
+              }
+            },
+            {
+              "name": "Church of Sant Bartomeu i Santa Tecla",
+              "tip_5lang": {
+                "de": "Kommen Sie kurz vor Sonnenuntergang für die spektakuläre goldene Stunde auf dem Kirchplatz.",
+                "hu": "Érkezzen közvetlenül naplemente előtt a templom elé a látványos 'arany óráért'.",
+                "ro": "Veniți chiar înainte de apus pentru o oră de aur spectaculoasă în piața bisericii.",
+                "en": "Arrive just before sunset for the spectacular golden hour at the church square."
+              }
+            },
+            {
+              "name": "Sant Sebastià Beach",
+              "tip_5lang": {
+                "de": "Ideal für einen Spaziergang; der Sand ist im Winter fest und die Luft herrlich frisch.",
+                "hu": "Ideális sétához; a homok télen keményebb, a levegő pedig csodásan friss.",
+                "ro": "Ideal pentru o plimbare; nisipul este ferm iarna, iar aerul este minunat de proaspăt.",
+                "en": "Ideal for a walk; the sand is firm in winter and the air is wonderfully fresh."
+              }
+            },
+            {
+              "name": "Passeig Marítim",
+              "tip_5lang": {
+                "de": "Nach 17:00 Uhr kühlt es schnell ab; eine warme Jacke ist nun unerlässlich.",
+                "hu": "17:00 után gyorsan hűl a levegő; egy meleg kabát ilyenkor elengedhetetlen.",
+                "ro": "După ora 17:00 se răcește rapid; o jachetă groasă este acum esențială.",
+                "en": "It cools down quickly after 5:00 PM; a warm jacket is essential by then."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kleiden Sie sich nach dem Zwiebelprinzip: in der Sonne ist es warm, im Schatten kühl.",
+              "Die Sonne verschwindet früh hinter den Bergen; planen Sie Outdoor-Aktivitäten vor 16 Uhr.",
+              "Probieren Sie 'Xató', den typischen Wintersalat der Region, in den lokalen Restaurants.",
+              "Die Museen sind im Winter oft kürzer geöffnet; prüfen Sie die Zeiten vorab.",
+              "Suchen Sie windgeschützte Terrassen auf, um das Maximum an Wintersonne zu genießen."
+            ],
+            "hu": [
+              "Öltözzön rétegesen: a napon meleg van, az árnyékban viszont hűvös.",
+              "A nap korán eltűnik a hegyek mögött; a kültéri programokat tervezze 16 óra elé.",
+              "Kóstolja meg a 'Xató'-t, a régió jellegzetes téli salátáját a helyi éttermekben.",
+              "A múzeumok télen gyakran rövidebb ideig tartanak nyitva; ellenőrizze előre.",
+              "Keressen szélvédett teraszokat, hogy maximálisan kiélvezhesse a téli napsütést."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi: la soare este cald, dar la umbră este răcoare.",
+              "Soarele dispare devreme după munți; planificați activitățile în aer liber înainte de ora 16.",
+              "Gustați 'Xató', salata tipică de iarnă a regiunii, în restaurantele locale.",
+              "Muzeele au adesea program redus iarna; verificați orarul în prealabil.",
+              "Căutați terase ferite de vânt pentru a vă bucura la maximum de soarele de iarnă."
+            ],
+            "en": [
+              "Dress in layers: it's warm in the sun but chilly in the shade.",
+              "The sun disappears early behind the mountains; plan outdoor activities before 4 PM.",
+              "Try 'Xató', the region's typical winter salad, in the local restaurants.",
+              "Museums often have shorter opening hours in winter; check beforehand.",
+              "Look for wind-sheltered terraces to maximize your enjoyment of the winter sun."
+            ]
+          }
+        }
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "18:30",
+      "total_km": 8.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Casa Bacardí",
+            "hu": "Casa Bacardí",
+            "ro": "Casa Bacardí",
+            "en": "Casa Bacardí"
+          },
+          "coords": [
+            1.8085,
+            41.2375
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über die Verbindung zwischen dem Gründer und Sitges.",
+            "hu": "Ismerje meg az alapító és Sitges közötti kapcsolatot.",
+            "ro": "Află mai multe despre legătura dintre fondator și Sitges.",
+            "en": "Learn about the connection between the founder and Sitges."
+          }
+        },
+        {
+          "name": {
+            "de": "Port de l'Aiguadolç",
+            "hu": "Port de l'Aiguadolç",
+            "ro": "Port de l'Aiguadolç",
+            "en": "Port de l'Aiguadolç"
+          },
+          "coords": [
+            1.825,
+            41.236
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "10:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Ein schöner Jachthafen mit entspannter Atmosphäre zum Mittagessen.",
+            "hu": "Gyönyörű jachtkikötő nyugodt légkörrel, kiváló ebédhez.",
+            "ro": "Un port de iahturi frumos, cu o atmosferă relaxată pentru prânz.",
+            "en": "A beautiful marina with a relaxed atmosphere, great for lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Museu Cau Ferrat",
+            "hu": "Museu Cau Ferrat",
+            "ro": "Muzeul Cau Ferrat",
+            "en": "Cau Ferrat Museum"
+          },
+          "coords": [
+            1.8128,
+            41.2356
+          ],
+          "category": "museums",
+          "arrive_at": "12:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Ein Muss für Kunstliebhaber mit Werken von Picasso und El Greco.",
+            "hu": "Művészetkedvelőknek kötelező: Picasso és El Greco művekkel.",
+            "ro": "Obligatoriu pentru iubitorii de artă: lucrări de Picasso și El Greco.",
+            "en": "A must for art lovers, featuring works by Picasso and El Greco."
+          }
+        },
+        {
+          "name": {
+            "de": "Passeig Marítim",
+            "hu": "Passeig Marítim",
+            "ro": "Passeig Marítim",
+            "en": "Passeig Marítim"
+          },
+          "coords": [
+            1.805,
+            41.234
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:55",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Radeln Sie die gesamte Länge bis zum Terramar-Viertel.",
+            "hu": "Tekerjen végig egészen a Terramar negyedik.",
+            "ro": "Mergi cu bicicleta pe toată lungimea până în cartierul Terramar.",
+            "en": "Cycle the entire length down to the Terramar district."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Vormittag: Starten Sie bei Casa Bacardí und radeln Sie dann zum malerischen Hafen Aiguadolç. Mittag: Genießen Sie Meeresfrüchte im Hafen und kehren Sie ins Zentrum für Kunst im Cau Ferrat zurück. Nachmittag: Erkunden Sie die gesamte Küste auf zwei Rädern bis zu den Gärten von Terramar.",
+        "hu": "Délelőtt: Kezdjen a Casa Bacardínál, majd tekerjen el a festői Aiguadolç kikötőbe. Dél: Élvezze a tenger gyümölcseit a kikötőben, majd térjen vissza a központba a Cau Ferrat művészeti kincseihez. Délután: Fedezze fel a teljes partvonalat két keréken egészen a Terramar kertekig.",
+        "ro": "Dimineața: Începeți la Casa Bacardí, apoi pedalați spre portul pitoresc Aiguadolç. Prânz: Savurați fructe de mare în port și reveniți în centru pentru arta de la Cau Ferrat. După-amiază: Explorați întreaga coastă pe două roți până la grădinile Terramar.",
+        "en": "Morning: Start at Casa Bacardí, then cycle to the picturesque Aiguadolç port. Midday: Enjoy seafood at the port and return to the center for art at Cau Ferrat. Afternoon: Explore the entire coastline on two wheels down to the Terramar gardens."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Arroz a la Sitgetana",
+            "tip": "Reisgericht mit Fleisch und Fisch kombiniert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Arroz a la Sitgetana",
+            "tip": "Rizses étel, amely húst és halat kombinál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Arroz a la Sitgetana",
+            "tip": "Un preparat cu orez care combină carnea și peștele."
+          }
+        ],
+        "en": [
+          {
+            "name": "Arroz a la Sitgetana",
+            "tip": "Rice dish combining meat and fish ingredients."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Platja dels Balmins",
+            "tip": "Eine ruhigere Bucht hinter der Kirche.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Platja dels Balmins",
+            "tip": "Csendesebb öböl a templom mögötti részen.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Platja dels Balmins",
+            "tip": "Un golf mai liniștit în spatele bisericii.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Platja dels Balmins",
+            "tip": "A quieter cove located behind the church area.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mercat Municipal",
+            "tip": "Lokale Produkte und frische Lebensmittel direkt am Bahnhof."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mercat Municipal",
+            "tip": "Helyi termékek és friss élelmiszerek a vasútállomás mellett."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mercat Municipal",
+            "tip": "Produse locale și alimente proaspete lângă gară."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mercat Municipal",
+            "tip": "Local products and fresh food right next to the station."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Radfahren ist auf der Promenade zu Stoßzeiten eingeschränkt.",
+          "Nutzen Sie den breiten Radweg Richtung Vilanova.",
+          "Sichern Sie Ihr Fahrrad immer an festen Ständern.",
+          "Vermeiden Sie die engen Gassen der Altstadt mit dem Rad."
+        ],
+        "hu": [
+          "A sétányon kerékpározni csúcsidőben korlátozott lehet.",
+          "Használja a Vilanova felé vezető széles kerékpárutat.",
+          "Mindig rögzítse a kerékpárt fix tárolókhoz.",
+          "Kerülje az óváros szűk utcáit kerékpárral."
+        ],
+        "ro": [
+          "Ciclismul pe faleză poate fi restricționat la orele de vârf.",
+          "Folosiți pista largă de biciclete spre Vilanova.",
+          "Asigurați întotdeauna bicicleta în locuri special amenajate.",
+          "Evitați străzile înguste din centrul vechi cu bicicleta."
+        ],
+        "en": [
+          "Cycling on the promenade may be restricted during peak hours.",
+          "Use the wide bike path heading towards Vilanova.",
+          "Always secure your bike to fixed racks.",
+          "Avoid the narrow streets of the old town by bike."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Vormittag: Starten Sie bei Casa Bacardí und radeln Sie dann zum malerischen Hafen Aiguadolç. Mittag: Genießen Sie Meeresfrüchte im Hafen und kehren Sie ins Zentrum für Kunst im Cau Ferrat zurück. Nachmittag: Erkunden Sie die gesamte Küste auf zwei Rädern bis zu den Gärten von Terramar.",
+            "hu": "Délelőtt: Kezdjen a Casa Bacardínál, majd tekerjen el a festői Aiguadolç kikötőbe. Dél: Élvezze a tenger gyümölcseit a kikötőben, majd térjen vissza a központba a Cau Ferrat művészeti kincseihez. Délután: Fedezze fel a teljes partvonalat két keréken egészen a Terramar kertekig.",
+            "ro": "Dimineața: Începeți la Casa Bacardí, apoi pedalați spre portul pitoresc Aiguadolç. Prânz: Savurați fructe de mare în port și reveniți în centru pentru arta de la Cau Ferrat. După-amiază: Explorați întreaga coastă pe două roți până la grădinile Terramar.",
+            "en": "Morning: Start at Casa Bacardí, then cycle to the picturesque Aiguadolç port. Midday: Enjoy seafood at the port and return to the center for art at Cau Ferrat. Afternoon: Explore the entire coastline on two wheels down to the Terramar gardens."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Casa Bacardí",
+                "hu": "Casa Bacardí",
+                "ro": "Casa Bacardí",
+                "en": "Casa Bacardí"
+              },
+              "tip_5lang": {
+                "de": "Erfahren Sie mehr über die Verbindung zwischen dem Gründer und Sitges.",
+                "hu": "Ismerje meg az alapító és Sitges közötti kapcsolatot.",
+                "ro": "Află mai multe despre legătura dintre fondator și Sitges.",
+                "en": "Learn about the connection between the founder and Sitges."
+              }
+            },
+            {
+              "name": {
+                "de": "Port de l'Aiguadolç",
+                "hu": "Port de l'Aiguadolç",
+                "ro": "Port de l'Aiguadolç",
+                "en": "Port de l'Aiguadolç"
+              },
+              "tip_5lang": {
+                "de": "Ein schöner Jachthafen mit entspannter Atmosphäre zum Mittagessen.",
+                "hu": "Gyönyörű jachtkikötő nyugodt légkörrel, kiváló ebédhez.",
+                "ro": "Un port de iahturi frumos, cu o atmosferă relaxată pentru prânz.",
+                "en": "A beautiful marina with a relaxed atmosphere, great for lunch."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu Cau Ferrat",
+                "hu": "Museu Cau Ferrat",
+                "ro": "Muzeul Cau Ferrat",
+                "en": "Cau Ferrat Museum"
+              },
+              "tip_5lang": {
+                "de": "Ein Muss für Kunstliebhaber mit Werken von Picasso und El Greco.",
+                "hu": "Művészetkedvelőknek kötelező: Picasso és El Greco művekkel.",
+                "ro": "Obligatoriu pentru iubitorii de artă: lucrări de Picasso și El Greco.",
+                "en": "A must for art lovers, featuring works by Picasso and El Greco."
+              }
+            },
+            {
+              "name": {
+                "de": "Passeig Marítim",
+                "hu": "Passeig Marítim",
+                "ro": "Passeig Marítim",
+                "en": "Passeig Marítim"
+              },
+              "tip_5lang": {
+                "de": "Radeln Sie die gesamte Länge bis zum Terramar-Viertel.",
+                "hu": "Tekerjen végig egészen a Terramar negyedik.",
+                "ro": "Mergi cu bicicleta pe toată lungimea până în cartierul Terramar.",
+                "en": "Cycle the entire length down to the Terramar district."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Arroz a la Sitgetana",
+                "tip": "Reisgericht mit Fleisch und Fisch kombiniert."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Arroz a la Sitgetana",
+                "tip": "Rizses étel, amely húst és halat kombinál."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Arroz a la Sitgetana",
+                "tip": "Un preparat cu orez care combină carnea și peștele."
+              }
+            ],
+            "en": [
+              {
+                "name": "Arroz a la Sitgetana",
+                "tip": "Rice dish combining meat and fish ingredients."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Platja dels Balmins",
+                "tip": "Eine ruhigere Bucht hinter der Kirche.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Platja dels Balmins",
+                "tip": "Csendesebb öböl a templom mögötti részen.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Platja dels Balmins",
+                "tip": "Un golf mai liniștit în spatele bisericii.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Platja dels Balmins",
+                "tip": "A quieter cove located behind the church area.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Mercat Municipal",
+                "tip": "Lokale Produkte und frische Lebensmittel direkt am Bahnhof."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Mercat Municipal",
+                "tip": "Helyi termékek és friss élelmiszerek a vasútállomás mellett."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Mercat Municipal",
+                "tip": "Produse locale și alimente proaspete lângă gară."
+              }
+            ],
+            "en": [
+              {
+                "name": "Mercat Municipal",
+                "tip": "Local products and fresh food right next to the station."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Radfahren ist auf der Promenade zu Stoßzeiten eingeschränkt.",
+              "Nutzen Sie den breiten Radweg Richtung Vilanova.",
+              "Sichern Sie Ihr Fahrrad immer an festen Ständern.",
+              "Vermeiden Sie die engen Gassen der Altstadt mit dem Rad."
+            ],
+            "hu": [
+              "A sétányon kerékpározni csúcsidőben korlátozott lehet.",
+              "Használja a Vilanova felé vezető széles kerékpárutat.",
+              "Mindig rögzítse a kerékpárt fix tárolókhoz.",
+              "Kerülje az óváros szűk utcáit kerékpárral."
+            ],
+            "ro": [
+              "Ciclismul pe faleză poate fi restricționat la orele de vârf.",
+              "Folosiți pista largă de biciclete spre Vilanova.",
+              "Asigurați întotdeauna bicicleta în locuri special amenajate.",
+              "Evitați străzile înguste din centrul vechi cu bicicleta."
+            ],
+            "en": [
+              "Cycling on the promenade may be restricted during peak hours.",
+              "Use the wide bike path heading towards Vilanova.",
+              "Always secure your bike to fixed racks.",
+              "Avoid the narrow streets of the old town by bike."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein Regentag auf dem Rad beginnt mit einer kurzen Fahrt zur Casa Bacardí, um im Trockenen mehr über die lokale Geschichte zu erfahren. Mittags radeln Sie vorsichtig zum Port de l'Aiguadolç, wo die Hafengastronomie überdachte Plätze bietet. Am Nachmittag geht es zurück zum Cau Ferrat Museum für eine kulturelle Pause. Den Tag schließen Sie mit einer vorsichtigen Fahrt entlang des Passeig Marítim ab, während der Regen auf die Palmen prasselt.\n\nFahrradfahren im Regen erfordert in Sitges Vorsicht, da die Fliesenwege bei Nässe sehr rutschig werden. Nutzen Sie die Radwege abseits der glatten Altstadtpflaster. Der Hafen bietet einen guten Wendepunkt mit vielen Unterstellmöglichkeiten. Die frische, feuchte Meeresluft ist belebend, sofern man die richtige Regenbekleidung trägt.",
+            "hu": "Az esős bringás nap a Casa Bacardí meglátogatásával indul, ahol fedett helyen ismerheti meg a helyi történelmet. Délben óvatosan tekerjen ki a Port de l'Aiguadolç kikötőbe, ahol az éttermek védett teraszokat kínálnak. Délután látogasson el a Cau Ferrat Múzeumba egy kis kulturális száradásra. A napot a tengerparti sétányon zárhatja, figyelve az esőben fürdő pálmafákat.\n\nEsőben a biciklizés Sitgesben figyelmet igényel, mert a parti burkolat nedvesen nagyon csúszik. Használja a kijelölt kerékpárutakat a csúszós óvárosi kövek helyett. A kikötő jó célpont, mert sok a behúzódási lehetőség. A friss, párás tengeri levegő élénkítő, ha megfelelő vízhatlan öltözetben indul útnak.",
+            "ro": "O zi ploioasă pe bicicletă începe cu o scurtă deplasare la Casa Bacardí, pentru a afla istoria locală la adăpost. La prânz, pedalați cu atenție spre Port de l'Aiguadolç, unde restaurantele portuare au terase acoperite. După-amiaza, opriți-vă la Muzeul Cau Ferrat pentru o pauză culturală ferită de ploaie. Încheiați ziua cu o tură prudentă pe Passeig Marítim, în sunetul ploii care lovește palmierii.\n\nCiclismul pe ploaie în Sitges necesită prudență, deoarece pistele placate pot deveni foarte alunecoase. Folosiți pistele de biciclete în detrimentul pavajului din centrul vechi. Portul este un punct final bun, oferind multe locuri unde vă puteți adăposti. Aerul proaspăt și umed al mării este revigorant dacă aveți echipamentul adecvat.",
+            "en": "A rainy day on a bike starts with a quick ride to Casa Bacardí to learn about local history while staying dry. At noon, cycle carefully to Port de l'Aiguadolç, where harbor restaurants offer covered seating. In the afternoon, return to the Cau Ferrat Museum for a cultural break. End the day with a cautious ride along Passeig Marítim as the rain patters on the palm trees.\n\nCycling in the rain in Sitges requires caution as the tiled paths can become very slippery when wet. Stick to designated bike lanes rather than the slick cobblestones of the old town. The harbor provides a good turnaround point with plenty of shelter. The fresh, damp sea air is invigorating as long as you have the right waterproof gear."
+          },
+          "stops": [
+            {
+              "name": "Casa Bacardí",
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad direkt am Eingang; drinnen ist es warm und trocken.",
+                "hu": "Parkoljon közvetlenül a bejáratnál; bent meleg és száraz idő várja.",
+                "ro": "Parcați bicicleta chiar la intrare; în interior este cald și uscat.",
+                "en": "Park your bike right at the entrance; it's warm and dry inside."
+              }
+            },
+            {
+              "name": "Port de l'Aiguadolç",
+              "tip_5lang": {
+                "de": "Vermeiden Sie das Radeln direkt am Kai; die Steine sind bei Regen spiegelglatt.",
+                "hu": "Kerülje a közvetlen rakparton tekerést; az esőtől a kövek tükörsimák lehetnek.",
+                "ro": "Evitați să pedalați direct pe chei; pietrele sunt extrem de alunecoase pe ploaie.",
+                "en": "Avoid cycling directly on the quay; the stones are mirror-smooth in the rain."
+              }
+            },
+            {
+              "name": "Cau Ferrat Museum",
+              "tip_5lang": {
+                "de": "Es gibt nur wenige Fahrradständer in der Nähe; nutzen Sie die an der Carrer de Fonollar.",
+                "hu": "Kevés a biciklitároló a közelben; használja a Carrer de Fonollar-nál lévőket.",
+                "ro": "Sunt puține rastele de biciclete în apropiere; folosiți-le pe cele de pe Carrer de Fonollar.",
+                "en": "There are few bike racks nearby; use the ones at Carrer de Fonollar."
+              }
+            },
+            {
+              "name": "Passeig Marítim",
+              "tip_5lang": {
+                "de": "Fahren Sie langsam; Pfützen können tiefere Unebenheiten im Boden verbergen.",
+                "hu": "Hajtson lassan; a tócsák mélyebb úthibákat rejthetnek a sétányon.",
+                "ro": "Mergeți încet; bălțile pot ascunde denivelări mai adânci în pavaj.",
+                "en": "Ride slowly; puddles can hide deeper unevenness in the ground."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Bremsen vor der Abfahrt; Nässe verlängert den Bremsweg deutlich.",
+              "Vermeiden Sie weiß markierte Linien auf dem Asphalt, diese sind extrem rutschig.",
+              "Ein Fahrrad-Poncho ist praktischer als ein Schirm für diese Tour.",
+              "Nutzen Sie die Parkhäuser mit Fahrradstellplätzen, um Ihr Rad trocken abzustellen.",
+              "Die Hafenrestaurants sind ideal, um bei einem Kaffee den stärksten Regen abzuwarten."
+            ],
+            "hu": [
+              "Indulás előtt ellenőrizze a fékeket; a nedvesség jelentősen növeli a fékutat.",
+              "Kerülje az aszfalton lévő fehér felfestéseket, mert azok extrém módon csúsznak.",
+              "Egy kerékpáros esőponcsó praktikusabb választás ezen a túrán, mint az esernyő.",
+              "Használja a mélygarázsok kerékpártárolóit, hogy szárazon tartsa a bringát a megállók alatt.",
+              "A kikötői éttermek ideálisak, hogy egy kávé mellett megvárja a nagyobb zuhé végét."
+            ],
+            "ro": [
+              "Verificați frânele înainte de plecare; umezeala crește semnificativ distanța de frânare.",
+              "Evitați liniile albe marcate pe asfalt, acestea sunt extrem de alunecoase.",
+              "O pelerină de ploaie pentru bicicletă este mai practică decât o umbrelă pentru acest tur.",
+              "Folosiți parcările subterane cu locuri pentru biciclete pentru a lăsa bicicleta la uscat.",
+              "Restaurantele din port sunt ideale pentru a aștepta trecerea ploii torențiale la o cafea."
+            ],
+            "en": [
+              "Check your brakes before starting; wetness significantly increases braking distance.",
+              "Avoid white painted lines on the asphalt; they are extremely slippery when wet.",
+              "A bike poncho is more practical than an umbrella for this tour.",
+              "Use underground parking with bike spots to keep your bike dry during stops.",
+              "Harbor restaurants are ideal for waiting out heavy downpours over a coffee."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie Ihre Wintertour an der Casa Bacardí bei strahlendem Sonnenschein. Mittags radeln Sie zum Hafen, wo die Luft klar ist und man bis nach Barcelona sehen kann. Der Nachmittag gehört dem Cau Ferrat Museum, das im Winterlicht besonders einladend wirkt. Beenden Sie die Tour auf dem Passeig Marítim, wenn die untergehende Sonne die Palmen in ein tiefes Orange taucht.\n\nWinterliches Radfahren in Sitges ist ein Genuss, da es kaum windig ist und die Temperaturen mild bleiben. Der Radweg am Meer ist im Winter weniger belebt, was eine entspannte Fahrt ermöglicht. Achten Sie auf den frühen Schatten in den engen Gassen; auf der Promenade hingegen genießen Sie die Wärme bis zum letzten Sonnenstrahl. Ein idealer Modus für die Nebensaison.",
+            "hu": "Indítsa téli túráját a Casa Bacardínál ragyogó napsütésben. Délben tekerjen ki a kikötőbe, ahol a tiszta levegőben ellátni egészen Barcelonáig. A délután a Cau Ferrat Múzeumé, amely a téli fényben különösen hívogató. Zárja a kört a tengerparti sétányon, amikor a lemenő nap mélynarancs színbe vonja a pálmafákat.\n\nA téli bringázás Sitgesben igazi élmény, mert ritkán fúj erős szél és a hőmérséklet enyhe marad. A parti kerékpárút télen kevésbé zsúfolt, így nyugodtabb a tempó. Figyeljen a szűk utcák korai árnyékaira; a sétányon viszont az utolsó napsugárig élvezheti a meleget. Ideális választás az előszezonban.",
+            "ro": "Începeți turul de iarnă la Casa Bacardí sub un soare strălucitor. La prânz, pedalați spre port, unde aerul este clar și se poate vedea până la Barcelona. După-amiaza este dedicată Muzeului Cau Ferrat, care pare deosebit de primitor în lumina iernii. Încheiați turul pe Passeig Marítim, când soarele la apus scaldă palmierii într-o nuanță portocalie profundă.\n\nCiclismul de iarnă în Sitges este o plăcere, deoarece vântul bate rar cu putere, iar temperaturile rămân blânde. Pista de biciclete de pe faleză este mai puțin aglomerată iarna, permițând o plimbare relaxată. Atenție la umbra care cade devreme în străzile înguste; pe faleză, în schimb, vă bucurați de căldură până la ultima rază. Un mod ideal pentru extrasezon.",
+            "en": "Start your winter bike tour at Casa Bacardí under bright sunshine. At noon, cycle to the harbor, where the clear air often allows you to see as far as Barcelona. The afternoon is for the Cau Ferrat Museum, which looks particularly inviting in the winter light. Finish the tour on Passeig Marítim when the setting sun turns the palm trees a deep orange.\n\nWinter cycling in Sitges is a treat, as it's rarely windy and temperatures stay mild. The seaside bike path is less crowded in winter, allowing for a relaxed pace. Watch out for early shadows in the narrow streets; on the promenade, however, you can enjoy the warmth until the last sunbeam. An ideal mode for the off-season."
+          },
+          "stops": [
+            {
+              "name": "Casa Bacardí",
+              "tip_5lang": {
+                "de": "Die Sonne scheint vormittags direkt auf die Fahrradständer; kein kalter Sattel!",
+                "hu": "A délelőtti nap közvetlenül a tárolóra süt; nem lesz hideg a nyereg!",
+                "ro": "Soarele bate direct pe rastele dimineața; nu veți avea șaua rece!",
+                "en": "The morning sun shines directly on the bike racks; no cold saddle!"
+              }
+            },
+            {
+              "name": "Port de l'Aiguadolç",
+              "tip_5lang": {
+                "de": "Perfekt für eine Mittagspause in der Sonne; parken Sie das Rad in Sichtweite.",
+                "hu": "Tökéletes egy napsütéses ebédidőhöz; parkoljon a bringával látótávolságban.",
+                "ro": "Perfect pentru o pauză de prânz la soare; parcați bicicleta la vedere.",
+                "en": "Perfect for a lunch break in the sun; park your bike within sight."
+              }
+            },
+            {
+              "name": "Cau Ferrat Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Schloss; im Winter sind weniger Leute da, aber Sicherheit geht vor.",
+                "hu": "Használja a lakatot; télen kevesebb az ember, de a biztonság fontos.",
+                "ro": "Folosiți antifurtul; sunt mai puțini oameni iarna, dar siguranța contează.",
+                "en": "Use your lock; there are fewer people in winter, but safety first."
+              }
+            },
+            {
+              "name": "Passeig Marítim",
+              "tip_5lang": {
+                "de": "Genießen Sie die freie Fahrt ohne die vielen Fußgänger des Sommers.",
+                "hu": "Élvezze a szabad haladást a nyári gyalogos tömeg nélkül.",
+                "ro": "Bucurați-vă de drumul liber, fără mulțimea de pietoni din timpul verii.",
+                "en": "Enjoy the clear path without the heavy pedestrian crowds of summer."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie dünne Handschuhe; der Fahrtwind kann im Schatten kühl sein.",
+              "Die Sonne blendet im Winter tiefer; vergessen Sie Ihre Sonnenbrille nicht.",
+              "Nutzen Sie die Mittagssonne für die längsten Fahrstrecken.",
+              "Prüfen Sie den Reifendruck; kalte Luft lässt ihn oft leicht sinken.",
+              "Trinken Sie auch bei Kälte genug; die trockene Winterluft dehydriert unbemerkt."
+            ],
+            "hu": [
+              "Viseljen vékony kesztyűt; a menetszél az árnyékos részeken hűvös lehet.",
+              "A nap télen alacsonyabbról tűz, ne felejtse el a napszemüveget.",
+              "A leghosszabb távokat a déli napsütésben tegye meg.",
+              "Ellenőrizze a keréknyomást; a hideg levegő miatt gyakran kicsit csökken.",
+              "Igyon eleget hidegben is; a száraz téli levegő észrevétlenül dehidratál."
+            ],
+            "ro": [
+              "Purtați mănuși subțiri; curentul de aer poate fi rece în zonele umbrite.",
+              "Soarele este mai jos iarna; nu vă uitați ochelarii de soare.",
+              "Folosiți soarele de la prânz pentru cele mai lungi distanțe de parcurs.",
+              "Verificați presiunea în pneuri; aerul rece o poate face să scadă ușor.",
+              "Beți suficiente lichide chiar și pe frig; aerul uscat de iarnă deshidratează."
+            ],
+            "en": [
+              "Wear thin gloves; the wind chill can be cool in shaded areas.",
+              "The sun is lower in winter; don't forget your sunglasses.",
+              "Use the midday sun for the longest stretches of your ride.",
+              "Check your tire pressure; cold air often causes it to drop slightly.",
+              "Drink enough even in the cold; dry winter air dehydrates you unnoticed."
+            ]
+          }
+        }
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 20,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 15.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Garraf Naturpark",
+            "hu": "Garraf Nemzeti Park",
+            "ro": "Parcul Natural Garraf",
+            "en": "Garraf Natural Park"
+          },
+          "coords": [
+            1.88,
+            41.27
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:20",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie das buddhistische Kloster im Herzen des Parks.",
+            "hu": "Látogassa meg a park szívében található buddhista kolostort.",
+            "ro": "Vizitați mănăstirea budistă din inima parcului.",
+            "en": "Visit the Buddhist monastery in the heart of the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Port de l'Aiguadolç",
+            "hu": "Port de l'Aiguadolç",
+            "ro": "Port de l'Aiguadolç",
+            "en": "Port de l'Aiguadolç"
+          },
+          "coords": [
+            1.825,
+            41.236
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "11:35",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Parken Sie hier und genießen Sie ein Mittagessen am Wasser.",
+            "hu": "Parkoljon le itt, és ebédeljen közvetlenül a víznél.",
+            "ro": "Parcați aici și savurați prânzul chiar lângă apă.",
+            "en": "Park here and enjoy lunch right by the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Palau de Maricel",
+            "hu": "Palau de Maricel",
+            "ro": "Palatul Maricel",
+            "en": "Maricel Palace"
+          },
+          "coords": [
+            1.8125,
+            41.2354
+          ],
+          "category": "museums",
+          "arrive_at": "13:20",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Ein prächtiges Gebäude mit beeindruckender Kunstsammlung.",
+            "hu": "Pompás épület lenyűgöző művészeti gyűjteménnyel.",
+            "ro": "O clădire splendidă cu o colecție de artă impresionantă.",
+            "en": "A magnificent building with an impressive art collection."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Vormittag: Fahren Sie in die Hügel des Garraf-Massivs für spektakuläre Ausblicke. Mittag: Rückkehr zur Küste für ein stilvolles Essen im Hafen von Aiguadolç. Nachmittag: Erkunden Sie die Altstadt von Sitges und den Maricel-Palast.",
+        "hu": "Délelőtt: Autózzon fel a Garraf-masszívum dombjaira a látványos kilátásért. Dél: Térjen vissza a partra egy stílusos ebédre az Aiguadolç kikötőben. Délután: Fedezze fel Sitges óvárosát és a Maricel-palotát.",
+        "ro": "Dimineața: Conduceți pe dealurile masivului Garraf pentru priveliști spectaculoase. Prânz: Reveniți pe coastă pentru un prânz elegant în portul Aiguadolç. După-amiază: Explorați centrul vechi din Sitges și Palatul Maricel.",
+        "en": "Morning: Drive into the hills of the Garraf massif for spectacular views. Midday: Return to the coast for a stylish lunch at Aiguadolç port. Afternoon: Explore the old town of Sitges and the Maricel Palace."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Malvasia de Sitges",
+            "tip": "Süßwein aus der Region, perfekt zum Dessert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Malvasia de Sitges",
+            "tip": "Helyi édesbor, tökéletes desszertek mellé."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malvasia de Sitges",
+            "tip": "Vin dulce local, perfect alături de desert."
+          }
+        ],
+        "en": [
+          {
+            "name": "Malvasia de Sitges",
+            "tip": "Local sweet wine, perfect with dessert."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ermita de la Trinitat",
+            "tip": "Kleine Kapelle auf einem Hügel mit Blick auf das Meer.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ermita de la Trinitat",
+            "tip": "Kis kápolna a dombtetőn, pazar kilátással a tengerre.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ermita de la Trinitat",
+            "tip": "O mică capelă pe deal, cu vedere superbă la mare.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Ermita de la Trinitat",
+            "tip": "Small chapel on a hill with a panoramic sea view.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Centro Comercial Oasis",
+            "tip": "Kleines Einkaufszentrum mit diversen Geschäften."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Centro Comercial Oasis",
+            "tip": "Kis bevásárlóközpont különféle üzletekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centro Comercial Oasis",
+            "tip": "Un mic centru comercial cu diverse magazine."
+          }
+        ],
+        "en": [
+          {
+            "name": "Centro Comercial Oasis",
+            "tip": "Small shopping center with various stores."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken im Zentrum ist schwierig und teuer, nutzen Sie P+R Plätze.",
+          "Die Küstenstraße C-31 (Costas del Garraf) bietet tolle Kurven und Aussichten.",
+          "Vermeiden Sie das Zentrum am Wochenende mit dem Auto.",
+          "Parkhäuser sind oft sehr eng."
+        ],
+        "hu": [
+          "A központi parkolás nehéz és drága, használja a P+R helyeket.",
+          "A C-31-es parti út (Costas del Garraf) remek kanyarokat és kilátást kínál.",
+          "Hétvégén kerülje a belvárost autóval.",
+          "A parkolóházak gyakran nagyon szűkek."
+        ],
+        "ro": [
+          "Parcarea centrală este dificilă și scumpă, folosiți parcările P+R.",
+          "Drumul de coastă C-31 oferă curbe și priveliști grozave.",
+          "Evitați centrul orașului cu mașina în weekend.",
+          "Parcările subterane sunt adesea foarte înguste."
+        ],
+        "en": [
+          "Central parking is difficult and expensive; use P+R lots.",
+          "The C-31 coastal road (Costas del Garraf) offers great bends and views.",
+          "Avoid the city center by car on weekends.",
+          "Parking garages are often very narrow."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Vormittag: Fahren Sie in die Hügel des Garraf-Massivs für spektakuläre Ausblicke. Mittag: Rückkehr zur Küste für ein stilvolles Essen im Hafen von Aiguadolç. Nachmittag: Erkunden Sie die Altstadt von Sitges und den Maricel-Palast.",
+            "hu": "Délelőtt: Autózzon fel a Garraf-masszívum dombjaira a látványos kilátásért. Dél: Térjen vissza a partra egy stílusos ebédre az Aiguadolç kikötőben. Délután: Fedezze fel Sitges óvárosát és a Maricel-palotát.",
+            "ro": "Dimineața: Conduceți pe dealurile masivului Garraf pentru priveliști spectaculoase. Prânz: Reveniți pe coastă pentru un prânz elegant în portul Aiguadolç. După-amiază: Explorați centrul vechi din Sitges și Palatul Maricel.",
+            "en": "Morning: Drive into the hills of the Garraf massif for spectacular views. Midday: Return to the coast for a stylish lunch at Aiguadolç port. Afternoon: Explore the old town of Sitges and the Maricel Palace."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Garraf Naturpark",
+                "hu": "Garraf Nemzeti Park",
+                "ro": "Parcul Natural Garraf",
+                "en": "Garraf Natural Park"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das buddhistische Kloster im Herzen des Parks.",
+                "hu": "Látogassa meg a park szívében található buddhista kolostort.",
+                "ro": "Vizitați mănăstirea budistă din inima parcului.",
+                "en": "Visit the Buddhist monastery in the heart of the park."
+              }
+            },
+            {
+              "name": {
+                "de": "Port de l'Aiguadolç",
+                "hu": "Port de l'Aiguadolç",
+                "ro": "Port de l'Aiguadolç",
+                "en": "Port de l'Aiguadolç"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie hier und genießen Sie ein Mittagessen am Wasser.",
+                "hu": "Parkoljon le itt, és ebédeljen közvetlenül a víznél.",
+                "ro": "Parcați aici și savurați prânzul chiar lângă apă.",
+                "en": "Park here and enjoy lunch right by the water."
+              }
+            },
+            {
+              "name": {
+                "de": "Palau de Maricel",
+                "hu": "Palau de Maricel",
+                "ro": "Palatul Maricel",
+                "en": "Maricel Palace"
+              },
+              "tip_5lang": {
+                "de": "Ein prächtiges Gebäude mit beeindruckender Kunstsammlung.",
+                "hu": "Pompás épület lenyűgöző művészeti gyűjteménnyel.",
+                "ro": "O clădire splendidă cu o colecție de artă impresionantă.",
+                "en": "A magnificent building with an impressive art collection."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Malvasia de Sitges",
+                "tip": "Süßwein aus der Region, perfekt zum Dessert."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Malvasia de Sitges",
+                "tip": "Helyi édesbor, tökéletes desszertek mellé."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Malvasia de Sitges",
+                "tip": "Vin dulce local, perfect alături de desert."
+              }
+            ],
+            "en": [
+              {
+                "name": "Malvasia de Sitges",
+                "tip": "Local sweet wine, perfect with dessert."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Ermita de la Trinitat",
+                "tip": "Kleine Kapelle auf einem Hügel mit Blick auf das Meer.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Ermita de la Trinitat",
+                "tip": "Kis kápolna a dombtetőn, pazar kilátással a tengerre.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Ermita de la Trinitat",
+                "tip": "O mică capelă pe deal, cu vedere superbă la mare.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Ermita de la Trinitat",
+                "tip": "Small chapel on a hill with a panoramic sea view.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Centro Comercial Oasis",
+                "tip": "Kleines Einkaufszentrum mit diversen Geschäften."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Centro Comercial Oasis",
+                "tip": "Kis bevásárlóközpont különféle üzletekkel."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Centro Comercial Oasis",
+                "tip": "Un mic centru comercial cu diverse magazine."
+              }
+            ],
+            "en": [
+              {
+                "name": "Centro Comercial Oasis",
+                "tip": "Small shopping center with various stores."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Parken im Zentrum ist schwierig und teuer, nutzen Sie P+R Plätze.",
+              "Die Küstenstraße C-31 (Costas del Garraf) bietet tolle Kurven und Aussichten.",
+              "Vermeiden Sie das Zentrum am Wochenende mit dem Auto.",
+              "Parkhäuser sind oft sehr eng."
+            ],
+            "hu": [
+              "A központi parkolás nehéz és drága, használja a P+R helyeket.",
+              "A C-31-es parti út (Costas del Garraf) remek kanyarokat és kilátást kínál.",
+              "Hétvégén kerülje a belvárost autóval.",
+              "A parkolóházak gyakran nagyon szűkek."
+            ],
+            "ro": [
+              "Parcarea centrală este dificilă și scumpă, folosiți parcările P+R.",
+              "Drumul de coastă C-31 oferă curbe și priveliști grozave.",
+              "Evitați centrul orașului cu mașina în weekend.",
+              "Parcările subterane sunt adesea foarte înguste."
+            ],
+            "en": [
+              "Central parking is difficult and expensive; use P+R lots.",
+              "The C-31 coastal road (Costas del Garraf) offers great bends and views.",
+              "Avoid the city center by car on weekends.",
+              "Parking garages are often very narrow."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Fahrt beginnt im mystischen Garraf-Naturpark, wo tiefe Wolken in den Kalkfelsen hängen. Mittags bietet der Port de l'Aiguadolç bequemes Parken direkt bei den Restaurants für einen trockenen Übergang. Am Nachmittag führt die Route zum Maricel-Palast im Stadtzentrum, der im Regen besonders herrschaftlich wirkt. Abends kehren Sie bequem im Auto zurück, während die Scheibenwischer den Rhythmus der Küste vorgeben.\n\nEin Auto ist bei Regen in Sitges ideal, um die höher gelegenen Aussichtspunkte des Garraf zu erreichen, ohne nass zu werden. Die Parkhäuser im Zentrum (z.B. Nou Mercat) bieten direkten Zugang zur Altstadt. Die Küstenstraße C-31 ist bei Regen anspruchsvoll, bietet aber spektakuläre Blicke auf die schäumende See. Genießen Sie den Komfort, Ihre Einkäufe und Schirme einfach im Kofferraum zu lassen.",
+            "hu": "A túra a misztikus Garraf Natúrparkban indul, ahol az alacsony felhők ráfekszenek a mészkősziklákra. Délben a Port de l'Aiguadolç kényelmes parkolást kínál közvetlenül az éttermeknél, így szárazon megúszhatja az átjutást. Délután az út a Maricel Palotához vezet, amely esőben különösen méltóságteljes. Este kényelmesen térhet vissza autójával, miközben az ablaktörlők adják a tengerparti ritmust.\n\nAz autó esőben ideális Sitgesben, hogy elérje a Garraf magaslati kilátópontjait anélkül, hogy megázna. A központi parkolóházak (pl. Nou Mercat) közvetlen hozzáférést biztosítanak az óvároshoz. A C-31-es parti út esőben kihívást jelenthet, de látványos kilátást nyújt a tajtékzó tengerre. Élvezze a kényelmet, hogy a csomagokat és az ernyőket az autóban hagyhatja.",
+            "ro": "Călătoria începe în misticul Parc Natural Garraf, unde norii joși se agață de stâncile de calcar. La prânz, Port de l'Aiguadolç oferă parcare convenabilă chiar lângă restaurante pentru o tranziție uscată. După-amiaza, ruta duce la Palatul Maricel din centrul orașului, care pare deosebit de impunător pe ploaie. Seara, vă întoarceți confortabil cu mașina, în timp ce ștergătoarele bat în ritmul coastei.\n\nMașina este ideală pe ploaie în Sitges pentru a ajunge la punctele de belvedere înalte din Garraf fără a vă uda. Parcările subterane din centru (de ex. Nou Mercat) oferă acces direct la orașul vechi. Drumul de coastă C-31 este solicitant pe ploaie, dar oferă vederi spectaculoase asupra mării înspumate. Bucurați-vă de confortul de a lăsa cumpărăturile și umbrelele în portbagaj.",
+            "en": "The trip begins in the mystical Garraf Natural Park, where low clouds cling to the limestone cliffs. At noon, Port de l'Aiguadolç offers convenient parking right by the restaurants for a dry transition to lunch. In the afternoon, the route leads to Maricel Palace in the city center, which looks particularly stately in the rain. In the evening, return comfortably by car as the wipers keep the rhythm of the coast.\n\nA car is ideal in Sitges when it rains, allowing you to reach the high viewpoints of Garraf without getting soaked. Central parking garages (like Nou Mercat) provide direct access to the old town. The C-31 coastal road is challenging in the rain but offers spectacular views of the frothing sea. Enjoy the convenience of leaving your shopping and umbrellas in the trunk."
+          },
+          "stops": [
+            {
+              "name": "Garraf Natural Park",
+              "tip_5lang": {
+                "de": "Bleiben Sie auf den befestigten Straßen; die unbefestigten Wege werden schnell schlammig.",
+                "hu": "Maradjon a burkolt utakon; a földutak gyorsan sárossá válnak.",
+                "ro": "Rămâneți pe drumurile pavate; potecile neamenajate devin rapid noroioase.",
+                "en": "Stay on the paved roads; the unpaved paths become muddy quickly."
+              }
+            },
+            {
+              "name": "Port de l'Aiguadolç",
+              "tip_5lang": {
+                "de": "Nutzen Sie den großen Parkplatz am Hafeneingang; er ist bei Regen meist leerer.",
+                "hu": "Használja a kikötő bejáratánál lévő nagy parkolót; esőben általában üresebb.",
+                "ro": "Folosiți parcarea mare de la intrarea în port; este de obicei mai goală pe ploaie.",
+                "en": "Use the large parking lot at the harbor entrance; it's usually emptier in the rain."
+              }
+            },
+            {
+              "name": "Maricel Palace",
+              "tip_5lang": {
+                "de": "Parken Sie im 'Pàrquing Nou Mercat'; von dort sind es nur 5 Minuten Fußweg im Schutz der Gassen.",
+                "hu": "Parkoljon a 'Pàrquing Nou Mercat'-ban; onnan csak 5 perc séta a védett utcákon.",
+                "ro": "Parcați la 'Pàrquing Nou Mercat'; de acolo sunt doar 5 minute de mers prin străzile ferite.",
+                "en": "Park at 'Pàrquing Nou Mercat'; from there it's only a 5-minute walk sheltered by the alleys."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahren Sie auf der C-31 besonders vorsichtig; Steinschlaggefahr bei starkem Regen.",
+              "Schalten Sie das Licht ein, auch tagsüber; die Sicht im Garraf kann stark abfallen.",
+              "Nutzen Sie die App 'Aparcar Sitges' für Echtzeit-Infos zu freien Tiefgaragenplätzen.",
+              "Vermeiden Sie das Parken in Ufernähe bei Sturmwarnung (Gischt und Salz).",
+              "Ein Regenschirm im Auto ist Pflicht, da die Wege vom Parkplatz zum Ziel oft unbedacht sind."
+            ],
+            "hu": [
+              "Vezessen óvatosan a C-31-esen; erős esőben fennáll a kőomlás veszélye.",
+              "Kapcsolja be a fényszórókat nappal is; a látótávolság a Garrafban hirtelen lecsökkenhet.",
+              "Használja az 'Aparcar Sitges' alkalmazást a szabad mélygarázs helyekért.",
+              "Viharjelzés esetén kerülje a közvetlen tengerparti parkolást a sós pára miatt.",
+              "Mindig legyen esernyő az autóban, mert a parkolótól a célig vezető út nem fedett."
+            ],
+            "ro": [
+              "Conduceți cu mare atenție pe C-31; risc de căderi de pietre în timpul ploilor torențiale.",
+              "Aprindeți farurile și ziua; vizibilitatea în Garraf poate scădea brusc.",
+              "Folosiți aplicația 'Aparcar Sitges' pentru info în timp real despre locurile de parcare.",
+              "Evitați parcarea aproape de țărm în caz de furtună (din cauza salinității și a valurilor).",
+              "O umbrelă în mașină este obligatorie, deoarece drumul de la parcare la destinație e neprotejat."
+            ],
+            "en": [
+              "Drive extra carefully on the C-31; there's a risk of rockfalls during heavy rain.",
+              "Turn on your lights even during the day; visibility in Garraf can drop significantly.",
+              "Use the 'Aparcar Sitges' app for real-time info on available underground parking spots.",
+              "Avoid parking near the shore during storm warnings due to salt spray and waves.",
+              "Keep an umbrella in the car, as the paths from parking to your destination are uncovered."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintertag beginnt mit einer Fahrt durch die Serpentinen des Garraf, wo die Fernsicht heute bis Mallorca reichen kann. Mittags steuern Sie den Hafen an, um in der milden Wintersonne direkt am Kai zu parken. Der Nachmittag gehört dem Maricel-Palast, dessen Fassade im tiefstehenden Licht golden leuchtet. Den Abend lassen Sie gemütlich ausklingen, während die Stadt zur Ruhe kommt.\n\nDas Auto ist im Winter perfekt, um die umliegenden Küstendörfer und die Weinberge des Penedès zu erkunden. Die Straßen sind leer und das Parken im Zentrum ist deutlich stressfreier als im Sommer. Genießen Sie die klare Luft bei kurzen Stopps an den Aussichtspunkten der 'Costes de Garraf'. Die Heizung sorgt für Komfort, wenn die Sonne nachmittags hinter den Hügeln verschwindet.",
+            "hu": "Egy tiszta téli nap a Garraf szerpentinjein indul, ahol a kilátás ma akár Mallorcáig is elnyúlhat. Délben a kikötő felé veszi az irányt, hogy a gyenge téli napsütésben közvetlenül a rakparton parkoljon. A délután a Maricel Palotáé, amelynek homlokzata az alacsony napfényben aranylón ragyog. Az estét nyugodtan zárhatja, ahogy a város elcsendesedik.\n\nAz autó télen tökéletes a környező tengerparti falvak és a Penedès borvidék felfedezéséhez. Az utak üresek, és a parkolás a központban sokkal stresszmentesebb, mint nyáron. Élvezze a tiszta levegőt a 'Costes de Garraf' kilátópontjainál tartott rövid pihenők során. A fűtés kényelmet ad, amikor a nap délután eltűnik a dombok mögött.",
+            "ro": "O zi clară de iarnă începe cu o tură pe serpentinele din Garraf, unde vizibilitatea de azi poate ajunge până la Mallorca. La prânz, vă îndreptați spre port pentru a parca direct pe chei sub soarele blând de iarnă. După-amiaza aparține Palatului Maricel, a cărui fațadă strălucește auriu în lumina joasă. Încheiați seara relaxat, în timp ce orașul se liniștește.\n\nMașina este perfectă iarna pentru a explora satele de coastă învecinate și podgoriile din Penedès. Drumurile sunt libere, iar parcarea în centru este mult mai puțin stresantă decât vara. Bucurați-vă de aerul curat în timpul scurtelor opriri la punctele de belvedere de pe 'Costes de Garraf'. Căldura din mașină oferă confort când soarele dispare după dealuri după-amiaza.",
+            "en": "A clear winter day starts with a drive through the Garraf serpentines, where the view today might reach as far as Mallorca. At noon, head to the harbor to park directly on the quay in the mild winter sun. The afternoon is for Maricel Palace, its facade glowing golden in the low-hanging light. End the evening comfortably as the city settles into its winter rhythm.\n\nA car is perfect in winter for exploring nearby coastal villages and the Penedès vineyards. The roads are empty, and parking in the center is much less stressful than in summer. Enjoy the crisp air during short stops at the 'Costes de Garraf' viewpoints. The car's heater provides comfort once the sun disappears behind the hills in the late afternoon."
+          },
+          "stops": [
+            {
+              "name": "Garraf Natural Park",
+              "tip_5lang": {
+                "de": "Kommen Sie früh; das Licht für Panoramafotos ist vor 10:00 Uhr am klarsten.",
+                "hu": "Érkezzen korán; a panorámafotókhoz 10:00 előtt a legtisztábbak a fények.",
+                "ro": "Veniți devreme; lumina pentru fotografii panoramice este cea mai clară înainte de 10:00.",
+                "en": "Come early; the light for panoramic photos is clearest before 10 AM."
+              }
+            },
+            {
+              "name": "Port de l'Aiguadolç",
+              "tip_5lang": {
+                "de": "Parken Sie auf der Sonnenseite des Hafens, damit das Auto beim Einsteigen warm ist.",
+                "hu": "Parkoljon a kikötő napos oldalán, hogy az autó meleg legyen, amikor visszaszáll.",
+                "ro": "Parcați pe partea însorită a portului pentru ca mașina să fie caldă la plecare.",
+                "en": "Park on the sunny side of the harbor so the car is warm when you return."
+              }
+            },
+            {
+              "name": "Maricel Palace",
+              "tip_5lang": {
+                "de": "Blaue Zone (Parken am Straßenrand) ist im Winter oft direkt vor der Altstadt verfügbar.",
+                "hu": "A kék zónás utcai parkolás télen gyakran közvetlenül az óváros előtt is elérhető.",
+                "ro": "Locurile de parcare din zona albastră sunt adesea disponibile chiar lângă centrul vechi.",
+                "en": "Blue zone street parking is often available right in front of the old town in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Batterieleistung kann bei kühleren Nächten sinken; prüfen Sie ältere Batterien.",
+              "Vermeiden Sie das Parken unter Pinien (Harzgefahr ist auch im Winter gegeben).",
+              "Nutzen Sie die leeren Straßen für eine Panoramafahrt auf der Küstenstraße nach Castelldefels.",
+              "Die Parkgebühren in der blauen Zone sind im Winter teilweise reduziert (prüfen Sie die Automaten).",
+              "Lüften Sie das Auto nach dem Einsteigen kurz, um das Beschlagen der Scheiben zu verhindern."
+            ],
+            "hu": [
+              "Az akkumulátor teljesítménye csökkenhet a hűvös éjszakákon; ellenőrizze a régebbi darabokat.",
+              "Kerülje a fenyőfák alatti parkolást (a gyantaveszély télen is fennáll).",
+              "Használja ki az üres utakat egy panorámaautózásra a Castelldefels felé vezető parti úton.",
+              "A kék zónás parkolási díjak télen néhol alacsonyabbak (ellenőrizze az automatát).",
+              "Beszállás után szellőztessen egyet, hogy megelőzze a szélvédő párásodását."
+            ],
+            "ro": [
+              "Performanța bateriei poate scădea în nopțile răcoroase; verificați bateriile mai vechi.",
+              "Evitați parcarea sub pini (riscul de rășină există și iarna).",
+              "Profită de drumurile libere pentru o tură panoramică pe drumul de coastă spre Castelldefels.",
+              "Tarifele de parcare în zona albastră sunt uneori reduse iarna (verificați automatele).",
+              "Aerisiți scurt mașina după urcare pentru a preveni aburirea geamurilor."
+            ],
+            "en": [
+              "Battery performance can drop during cool nights; check older batteries.",
+              "Avoid parking under pine trees (resin risk exists even in winter).",
+              "Take advantage of empty roads for a scenic drive on the coastal road to Castelldefels.",
+              "Parking fees in the blue zone are sometimes reduced in winter (check the meters).",
+              "Ventilate the car briefly after getting in to prevent the windows from fogging up."
+            ]
+          }
+        }
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:45",
+      "total_km": 6.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Museu Romàntic Can Llopis",
+            "hu": "Museu Romàntic Can Llopis",
+            "ro": "Museu Romàntic Can Llopis",
+            "en": "Museu Romàntic Can Llopis"
+          },
+          "coords": [
+            1.8078,
+            41.2384
+          ],
+          "category": "museums",
+          "arrive_at": "09:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Nur 5 Gehminuten vom Bahnhof entfernt.",
+            "hu": "Mindössze 5 perc sétára a vasútállomástól.",
+            "ro": "La doar 5 minute de mers pe jos de gară.",
+            "en": "Just a 5-minute walk from the train station."
+          }
+        },
+        {
+          "name": {
+            "de": "Església de Sant Bartomeu i Santa Tecla",
+            "hu": "Szent Bertalan és Szent Tekla-templom",
+            "ro": "Biserica Sant Bartomeu și Santa Tecla",
+            "en": "Church of Sant Bartomeu i Santa Tecla"
+          },
+          "coords": [
+            1.8116,
+            41.2355
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Genießen Sie die Aussicht vom Vorplatz auf das Meer.",
+            "hu": "Élvezze a kilátást a tengerre a templom előtti térről.",
+            "ro": "Bucurați-vă de vederea la mare din piața bisericii.",
+            "en": "Enjoy the sea view from the square in front of the church."
+          }
+        },
+        {
+          "name": {
+            "de": "Platja de Sant Sebastià",
+            "hu": "Platja de Sant Sebastià",
+            "ro": "Plaja Sant Sebastià",
+            "en": "Sant Sebastià Beach"
+          },
+          "coords": [
+            1.8145,
+            41.2358
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:40",
+          "stay_min": 180,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Nutzen Sie den lokalen Bus SL1 für längere Strecken.",
+            "hu": "Használja az SL1 helyi buszjáratot a távolabbi pontokhoz.",
+            "ro": "Folosiți autobuzul local SL1 pentru distanțe mai mari.",
+            "en": "Use the local SL1 bus for longer distances."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Vormittag: Ankunft mit dem Zug und direkter Besuch des Museu Romàntic. Mittag: Spaziergang durch die Altstadt zur Kirche und zum Maricel-Komplex. Nachmittag: Entspannung am Strand von Sant Sebastià, der leicht zu Fuß erreichbar ist.",
+        "hu": "Délelőtt: Érkezés vonattal, majd közvetlen látogatás a Museu Romàntic-ban. Dél: Séta az óvároson keresztül a templomhoz és a Maricel-komplexumhoz. Délután: Pihenés a Sant Sebastià strandon, amely könnyen elérhető gyalogosan is.",
+        "ro": "Dimineața: Sosire cu trenul și vizită directă la Museu Romàntic. Prânz: Plimbare prin centrul vechi către biserică și complexul Maricel. După-amiază: Relaxare pe plaja Sant Sebastià, ușor accesibilă pe jos.",
+        "en": "Morning: Arrive by train and visit the Museu Romàntic nearby. Midday: Walk through the old town to the church and Maricel complex. Afternoon: Relax at Sant Sebastià beach, easily accessible on foot."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fideuà",
+            "tip": "Nudelspeise mit Fisch, ähnlich wie Paella."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fideuà",
+            "tip": "Tészta alapú étel tenger gyümölcseivel, hasonló a paellához."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fideuà",
+            "tip": "Un preparat cu tăiței și pește, similar cu paella."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fideuà",
+            "tip": "Noodle-based dish with fish, similar to paella."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Racó de la Calma",
+            "tip": "Ein 'stiller Winkel' zwischen den Museen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Racó de la Calma",
+            "tip": "A 'nyugalom sarka' a múzeumok között.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Racó de la Calma",
+            "tip": "Un 'colț al liniștii' situat între muzee.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Racó de la Calma",
+            "tip": "A 'quiet corner' located between the museums.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Carrer de Sant Francesc",
+            "tip": "Beliebte Einkaufsstraße mit lokalen Marken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Carrer de Sant Francesc",
+            "tip": "Népszerű bevásárlóutca helyi márkákkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Carrer de Sant Francesc",
+            "tip": "Stradă comercială populară cu mărci locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Carrer de Sant Francesc",
+            "tip": "Popular shopping street with local brands."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Züge von Barcelona verkehren alle 15-20 Minuten.",
+          "Der Bahnhof liegt sehr zentral.",
+          "Nutzen Sie die App 'TMB' für Fahrpläne.",
+          "Sitges ist klein genug, um das meiste zu Fuß zu machen."
+        ],
+        "hu": [
+          "A vonatok Barcelonából 15-20 percenként járnak.",
+          "A vasútállomás nagyon központi helyen van.",
+          "Használja a 'TMB' alkalmazást a menetrendekhez.",
+          "Sitges elég kicsi ahhoz, hogy a legtöbb helyet gyalog érje el."
+        ],
+        "ro": [
+          "Trenurile din Barcelona circulă la fiecare 15-20 de minute.",
+          "Gara este situată foarte central.",
+          "Folosiți aplicația 'TMB' pentru orare.",
+          "Sitges este suficient de mic pentru a face totul pe jos."
+        ],
+        "en": [
+          "Trains from Barcelona run every 15-20 minutes.",
+          "The train station is very centrally located.",
+          "Use the 'TMB' app for schedules.",
+          "Sitges is small enough to explore mostly on foot."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Vormittag: Ankunft mit dem Zug und direkter Besuch des Museu Romàntic. Mittag: Spaziergang durch die Altstadt zur Kirche und zum Maricel-Komplex. Nachmittag: Entspannung am Strand von Sant Sebastià, der leicht zu Fuß erreichbar ist.",
+            "hu": "Délelőtt: Érkezés vonattal, majd közvetlen látogatás a Museu Romàntic-ban. Dél: Séta az óvároson keresztül a templomhoz és a Maricel-komplexumhoz. Délután: Pihenés a Sant Sebastià strandon, amely könnyen elérhető gyalogosan is.",
+            "ro": "Dimineața: Sosire cu trenul și vizită directă la Museu Romàntic. Prânz: Plimbare prin centrul vechi către biserică și complexul Maricel. După-amiază: Relaxare pe plaja Sant Sebastià, ușor accesibilă pe jos.",
+            "en": "Morning: Arrive by train and visit the Museu Romàntic nearby. Midday: Walk through the old town to the church and Maricel complex. Afternoon: Relax at Sant Sebastià beach, easily accessible on foot."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museu Romàntic Can Llopis",
+                "hu": "Museu Romàntic Can Llopis",
+                "ro": "Museu Romàntic Can Llopis",
+                "en": "Museu Romàntic Can Llopis"
+              },
+              "tip_5lang": {
+                "de": "Nur 5 Gehminuten vom Bahnhof entfernt.",
+                "hu": "Mindössze 5 perc sétára a vasútállomástól.",
+                "ro": "La doar 5 minute de mers pe jos de gară.",
+                "en": "Just a 5-minute walk from the train station."
+              }
+            },
+            {
+              "name": {
+                "de": "Església de Sant Bartomeu i Santa Tecla",
+                "hu": "Szent Bertalan és Szent Tekla-templom",
+                "ro": "Biserica Sant Bartomeu și Santa Tecla",
+                "en": "Church of Sant Bartomeu i Santa Tecla"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Aussicht vom Vorplatz auf das Meer.",
+                "hu": "Élvezze a kilátást a tengerre a templom előtti térről.",
+                "ro": "Bucurați-vă de vederea la mare din piața bisericii.",
+                "en": "Enjoy the sea view from the square in front of the church."
+              }
+            },
+            {
+              "name": {
+                "de": "Platja de Sant Sebastià",
+                "hu": "Platja de Sant Sebastià",
+                "ro": "Plaja Sant Sebastià",
+                "en": "Sant Sebastià Beach"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den lokalen Bus SL1 für längere Strecken.",
+                "hu": "Használja az SL1 helyi buszjáratot a távolabbi pontokhoz.",
+                "ro": "Folosiți autobuzul local SL1 pentru distanțe mai mari.",
+                "en": "Use the local SL1 bus for longer distances."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Fideuà",
+                "tip": "Nudelspeise mit Fisch, ähnlich wie Paella."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Fideuà",
+                "tip": "Tészta alapú étel tenger gyümölcseivel, hasonló a paellához."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Fideuà",
+                "tip": "Un preparat cu tăiței și pește, similar cu paella."
+              }
+            ],
+            "en": [
+              {
+                "name": "Fideuà",
+                "tip": "Noodle-based dish with fish, similar to paella."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Racó de la Calma",
+                "tip": "Ein 'stiller Winkel' zwischen den Museen.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Racó de la Calma",
+                "tip": "A 'nyugalom sarka' a múzeumok között.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Racó de la Calma",
+                "tip": "Un 'colț al liniștii' situat între muzee.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Racó de la Calma",
+                "tip": "A 'quiet corner' located between the museums.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Carrer de Sant Francesc",
+                "tip": "Beliebte Einkaufsstraße mit lokalen Marken."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Carrer de Sant Francesc",
+                "tip": "Népszerű bevásárlóutca helyi márkákkal."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Carrer de Sant Francesc",
+                "tip": "Stradă comercială populară cu mărci locale."
+              }
+            ],
+            "en": [
+              {
+                "name": "Carrer de Sant Francesc",
+                "tip": "Popular shopping street with local brands."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Züge von Barcelona verkehren alle 15-20 Minuten.",
+              "Der Bahnhof liegt sehr zentral.",
+              "Nutzen Sie die App 'TMB' für Fahrpläne.",
+              "Sitges ist klein genug, um das meiste zu Fuß zu machen."
+            ],
+            "hu": [
+              "A vonatok Barcelonából 15-20 percenként járnak.",
+              "A vasútállomás nagyon központi helyen van.",
+              "Használja a 'TMB' alkalmazást a menetrendekhez.",
+              "Sitges elég kicsi ahhoz, hogy a legtöbb helyet gyalog érje el."
+            ],
+            "ro": [
+              "Trenurile din Barcelona circulă la fiecare 15-20 de minute.",
+              "Gara este situată foarte central.",
+              "Folosiți aplicația 'TMB' pentru orare.",
+              "Sitges este suficient de mic pentru a face totul pe jos."
+            ],
+            "en": [
+              "Trains from Barcelona run every 15-20 minutes.",
+              "The train station is very centrally located.",
+              "Use the 'TMB' app for schedules.",
+              "Sitges is small enough to explore mostly on foot."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein Regentag mit dem Bus beginnt am Museu Romàntic, das nur wenige Gehminuten von den zentralen Bushaltestellen entfernt liegt. Mittags bringt Sie der Stadtbus bequem zur Kirche Sant Bartomeu, wobei Sie die Fahrt im Trockenen genießen. Am Nachmittag ist der Strand von Sant Sebastià das Ziel, wobei Sie sich in den Cafés direkt an der Haltestelle unterstellen können. Den Abend lassen Sie in der Nähe des Bahnhofs ausklingen, von wo aus alle Verbindungen starten.\n\nÖffentliche Verkehrsmittel sind in Sitges bei Regen die beste Wahl, um die steilen Wege zu umgehen. Die Stadtbusse (Linien SL1, SL2) verkehren regelmäßig und halten nah an den Museen. Wartezeiten an den Haltestellen sind kurz, und die meisten bieten ein schützendes Dach. So bleiben Sie mobil, ohne ständig einen Schirm gegen den Wind halten zu müssen.",
+            "hu": "Az esős nap a busszal a Museu Romànticnál indul, amely csak pár perc séta a központi megállóktól. Délben a helyi járat kényelmesen elviszi a Sant Bartomeu templomhoz, így szárazon utazhat. Délután a Sant Sebastià strand a cél, ahol a megálló közvetlen közelében lévő kávézókban húzódhat meg. Az estét a vasútállomás környékén zárhatja, ahonnan minden irányba indulnak csatlakozások.\n\nA tömegközlekedés Sitgesben esőben a legjobb választás a meredek utcák elkerülésére. A városi buszok (SL1, SL2 vonalak) rendszeresen járnak és a múzeumok közelében állnak meg. A várakozási idő rövid, és a legtöbb megálló fedett. Így mobilis maradhat anélkül, hogy folyamatosan az esernyővel kellene küzdenie a szélben.",
+            "ro": "O zi ploioasă cu autobuzul începe la Museu Romàntic, aflat la doar câteva minute de mers de stațiile centrale. La prânz, autobuzul urban vă duce confortabil la Biserica Sant Bartomeu, permițându-vă să călătoriți la uscat. După-amiaza, destinația este plaja Sant Sebastià, unde vă puteți adăposti în cafenelele de lângă stație. Încheiați seara lângă gară, de unde pleacă toate conexiunile importante.\n\nTransportul public în Sitges este cea mai bună alegere pe ploaie pentru a evita străzile în pantă. Autobuzele urbane (liniile SL1, SL2) circulă regulat și opresc aproape de muzee. Timpul de așteptare este scurt, iar majoritatea stațiilor sunt acoperite. Astfel rămâneți mobili fără a fi nevoie să luptați constant cu umbrela în vânt.",
+            "en": "A rainy day by bus starts at Museu Romàntic, just a few minutes' walk from the central stops. At noon, the local bus takes you comfortably to the Church of Sant Bartomeu, letting you travel in the dry. In the afternoon, head to Sant Sebastià Beach, where you can take cover in cafes right next to the stop. End the evening near the train station, from where all connections depart.\n\nPublic transit in Sitges is the best choice when it rains to avoid the steep, slippery streets. City buses (lines SL1, SL2) run regularly and stop near the major museums. Waiting times are short, and most stops have a protective roof. This way you stay mobile without constantly having to fight your umbrella in the wind."
+          },
+          "stops": [
+            {
+              "name": "Museu Romàntic Can Llopis",
+              "tip_5lang": {
+                "de": "Die Haltestelle 'Estació de Rodalies' ist nah und bietet guten Schutz vor Regen.",
+                "hu": "Az 'Estació de Rodalies' megálló közel van és jól véd az esőtől.",
+                "ro": "Stația 'Estació de Rodalies' este aproape și oferă protecție bună împotriva ploii.",
+                "en": "The 'Estació de Rodalies' stop is nearby and offers good protection from the rain."
+              }
+            },
+            {
+              "name": "Church of Sant Bartomeu i Santa Tecla",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Bus bis 'Passeig Vilafranca' und laufen Sie durch die überdachten Passagen.",
+                "hu": "Utazzon busszal a 'Passeig Vilafranca'-ig, és sétáljon a fedett átjárókon keresztül.",
+                "ro": "Luați autobuzul până la 'Passeig Vilafranca' și mergeți prin pasajele acoperite.",
+                "en": "Take the bus to 'Passeig Vilafranca' and walk through the covered passages."
+              }
+            },
+            {
+              "name": "Sant Sebastià Beach",
+              "tip_5lang": {
+                "de": "Die Haltestelle ist nicht überdacht; warten Sie bei starkem Regen in der nahen Apotheke.",
+                "hu": "A megálló nem fedett; nagy esőben várjon a közeli gyógyszertár előterében.",
+                "ro": "Stația nu este acoperită; în caz de ploaie torențială, așteptați în farmacia din apropiere.",
+                "en": "The stop is not covered; in case of heavy rain, wait in the nearby pharmacy entrance."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Laden Sie die 'Bus de Sitges' App für Echtzeit-Infos herunter, um Regenwarten zu minimieren.",
+              "Halten Sie Ihr Ticket griffbereit, um schnelles Einsteigen im Regen zu ermöglichen.",
+              "Der Bahnhof (Renfe) ist ein idealer, großer Unterstand bei plötzlichen Wolkenbrüchen.",
+              "Nutzen Sie die Monbus-Verbindungen für trockene Ausflüge nach Barcelona oder Vilanova.",
+              "Achten Sie auf nasse Böden in den Bussen; Rutschgefahr beim Aufstehen."
+            ],
+            "hu": [
+              "Töltse le a 'Bus de Sitges' alkalmazást, hogy minimálisra csökkentse az esőben várakozást.",
+              "Tartsa készenlétben a jegyét, hogy esőben is gyorsan felszállhasson.",
+              "A vasútállomás (Renfe) ideális nagy óvóhely hirtelen felhőszakadás esetén.",
+              "Használja a Monbus járatait száraz kirándulásokhoz Barcelona vagy Vilanova felé.",
+              "Vigyázzon a buszok nedves padlójára; felálláskor fennáll a csúszásveszély."
+            ],
+            "ro": [
+              "Descărcați aplicația 'Bus de Sitges' pentru info în timp real și minimizați așteptarea în ploaie.",
+              "Aveți biletul la îndemână pentru o urcare rapidă în autobuz pe timp de ploaie.",
+              "Gara (Renfe) este un adăpost mare și ideal în caz de averse bruște.",
+              "Folosiți conexiunile Monbus pentru excursii la uscat spre Barcelona sau Vilanova.",
+              "Atenție la podelele umede din autobuze; risc de alunecare la ridicare."
+            ],
+            "en": [
+              "Download the 'Bus de Sitges' app for real-time info to minimize waiting in the rain.",
+              "Have your ticket ready for a quick boarding in the rain.",
+              "The train station (Renfe) is an ideal large shelter during sudden downpours.",
+              "Use Monbus connections for dry excursions to Barcelona or Vilanova.",
+              "Watch out for wet floors in the buses; risk of slipping when getting up."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Wintertag mit dem Transit beginnt entspannt am Can Llopis, das gut durch die Stadtbusse erschlossen ist. Mittags fahren Sie zur Kirche Sant Bartomeu, um die milde Sonne auf dem Vorplatz zu genießen. Der Nachmittag gehört dem Strand von Sant Sebastià, wobei die Busfahrt Ihnen den kühlen Wind am Meer erspart. Da es früh dunkel wird, bietet der Bus eine sichere und warme Rückfahrt zum Hotel.\n\nIm Winter sind die Busse in Sitges angenehm leer und gut beheizt. Da die touristischen Züge seltener fahren, ist der Stadtbus die verlässlichste Alternative. Genießen Sie den Blick aus dem Fenster auf die winterlich-ruhige Stadt. Die Verbindungen zum Bahnhof ermöglichen zudem spontane Ausflüge in die Umgebung, wenn die Wintersonne besonders schön scheint.",
+            "hu": "A téli tömegközlekedős nap kényelmesen indul a Can Llopisnál, amely jól megközelíthető a városi buszokkal. Délben utazzon a Sant Bartomeu templomhoz, hogy élvezze az enyhe napsütést az előtéren. A délután a Sant Sebastià strandé, a buszozás pedig megkíméli a tengerparti hűvös széltől. Mivel korán sötétedik, a busz biztonságos és meleg hazajutást kínál a szállásig.\n\nTélen a buszok Sitgesben kellemesen üresek és jól fűtöttek. Mivel a turisztikai kisvonat ilyenkor nem jár, a városi busz a legmegbízhatóbb alternatíva. Élvezze a kilátást az ablakból a téli nyugalomba burkolózott városra. A vasútállomási csatlakozások lehetővé teszik a spontán kirándulásokat is a környéken, ha a téli nap épp szépen süt.",
+            "ro": "O zi de iarnă cu transportul public începe relaxat la Can Llopis, bine deservit de autobuzele urbane. La prânz, mergeți la Biserica Sant Bartomeu pentru a vă bucura de soarele blând în piațetă. După-amiaza aparține plajei Sant Sebastià, iar călătoria cu autobuzul vă scutește de vântul rece de pe faleză. Deoarece se întunecă devreme, autobuzul oferă o întoarcere sigură și caldă spre hotel.\n\nIarna, autobuzele din Sitges sunt plăcut de libere și bine încălzite. Deoarece trenulețul turistic circulă mai rar, autobuzul urban este cea mai fiabilă alternativă. Bucurați-vă de priveliștea de la fereastră asupra orașului liniștit de iarnă. Conexiunile spre gară permit, de asemenea, excursii spontane în împrejurimi când soarele de iarnă strălucește frumos.",
+            "en": "A winter day using transit starts relaxed at Can Llopis, which is well-served by city buses. At noon, take the bus to the Church of Sant Bartomeu to enjoy the mild sun in the square. The afternoon is for Sant Sebastià Beach, and the bus ride saves you from the cool sea breeze. Since it gets dark early, the bus offers a safe and warm trip back to your hotel.\n\nIn winter, the buses in Sitges are pleasantly empty and well-heated. As the tourist train runs less frequently, the city bus is the most reliable alternative. Enjoy the window view of the quiet winter city. Connections to the train station also allow for spontaneous trips to the surrounding area when the winter sun is particularly nice."
+          },
+          "stops": [
+            {
+              "name": "Museu Romàntic Can Llopis",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Wartezeit an der Haltestelle für einen kurzen Kaffee im nahen Bistro.",
+                "hu": "Használja ki a várakozási időt egy gyors kávéra a közeli bisztróban.",
+                "ro": "Folosiți timpul de așteptare în stație pentru o cafea scurtă la bistroul din apropiere.",
+                "en": "Use the waiting time at the stop for a quick coffee at the nearby bistro."
+              }
+            },
+            {
+              "name": "Church of Sant Bartomeu i Santa Tecla",
+              "tip_5lang": {
+                "de": "Der Bus hält am 'Fragata'; von dort ist es ein sonniger, kurzer Aufstieg zur Kirche.",
+                "hu": "A busz a 'Fragata'-nál áll meg; onnan napsütéses, rövid emelkedő vezet a templomhoz.",
+                "ro": "Autobuzul oprește la 'Fragata'; de acolo este o urcare scurtă și însorită spre biserică.",
+                "en": "The bus stops at 'Fragata'; from there it's a sunny, short climb to the church."
+              }
+            },
+            {
+              "name": "Sant Sebastià Beach",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Fahrplan für die Rückfahrt; nach 18:00 Uhr fahren die Busse seltener.",
+                "hu": "Ellenőrizze a visszautat; 18:00 után a buszok ritkábban járnak.",
+                "ro": "Verificați orarul pentru întoarcere; după ora 18:00 autobuzele circulă mai rar.",
+                "en": "Check the schedule for your return; buses run less frequently after 6 PM."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kaufen Sie eine T-Casual Karte am Bahnhof; sie gilt für Busse und Züge in der Zone 1.",
+              "Die Busse sind im Winter oft wärmer als die Museen; nutzen Sie die Fahrt zum Aufwärmen.",
+              "Setzen Sie sich auf die Sonnenseite des Busses für eine extra Portion Vitamin D.",
+              "Ab 17:30 Uhr sind die Haltestellen oft zugig; planen Sie Ihre Ankunft kurz vor Abfahrt.",
+              "Fragen Sie den Fahrer nach 'Parada a la demanda' (Halt auf Abruf) in den Abendstunden."
+            ],
+            "hu": [
+              "Vásároljon T-Casual kártyát az állomáson; ez érvényes a buszokra és vonatokra az 1-es zónában.",
+              "A buszok télen gyakran melegebbek, mint a múzeumok; használja az utat a felmelegedésre.",
+              "Üljön a busz napos oldalára egy extra adag D-vitaminért.",
+              "17:30 után a megállók huzatosak lehetnek; érkezzen közvetlenül az indulás előtt.",
+              "Kérdezze a sofőrt az esti 'Parada a la demanda' (igény szerinti megállás) lehetőségről."
+            ],
+            "ro": [
+              "Cumpărați un card T-Casual de la gară; este valabil pentru autobuze și trenuri în zona 1.",
+              "Autobuzele sunt adesea mai calde decât muzeele iarna; folosiți drumul pentru a vă încălzi.",
+              "Așezați-vă pe partea însorită a autobuzului pentru o doză extra de vitamina D.",
+              "După ora 17:30, stațiile pot fi curentate; planificați sosirea chiar înainte de plecare.",
+              "Întrebați șoferul despre 'Parada a la demanda' (oprire la cerere) în orele de seară."
+            ],
+            "en": [
+              "Buy a T-Casual card at the station; it's valid for buses and trains in Zone 1.",
+              "Buses are often warmer than museums in winter; use the ride to warm up.",
+              "Sit on the sunny side of the bus for an extra dose of Vitamin D.",
+              "After 5:30 PM, the stops can be drafty; plan your arrival just before departure.",
+              "Ask the driver about 'Parada a la demanda' (on-demand stop) during evening hours."
+            ]
+          }
+        }
+      }
+    }
+  },
+  "external_resources": {
+    "tourism_office": "https://www.sitgesanytime.com/",
+    "transit_official": "https://rodalies.gencat.cat/",
+    "events": "https://www.civitatis.com/en/sitges/",
+    "webcam": "https://www.skylinewebcams.com/en/webcam/espana/cataluna/barcelona/sitges.html",
+    "parking_real_time": "https://www.parclick.es/",
+    "restaurants_booking": "https://www.thefork.com/",
+    "language_tips": {
+      "de": "Sitges ist kosmopolitisch und LGBTQ+-freundlich, sehr international. Katalanisch und Spanisch werden gesprochen, aber Englisch, Französisch und Deutsch sind überall verfügbar. 'Bon dia' wirkt sympathisch, niemand erwartet von Ihnen Katalanisch.",
+      "hu": "Sitges kozmopolita, LGBTQ+-barát, nagyon nemzetközi hangulatú. Katalánul és spanyolul beszélnek, de angol, francia, német mindenhol megy. Egy 'Bon dia' szimpatikus, de senki sem vár tőled katalánt.",
+      "ro": "Sitges e cosmopolit, prietenos LGBTQ+, foarte internațional. Se vorbește catalană și spaniolă, dar engleza, franceza și germana sunt peste tot. Un 'Bon dia' e simpatic, dar nimeni nu se așteaptă să vorbești catalană.",
+      "en": "Sitges is cosmopolitan, LGBTQ+ friendly and very international. Catalan and Spanish are spoken, but English, French and German are everywhere. A 'Bon dia' is appreciated but no one expects Catalan from you."
+    },
+    "best_time_to_visit": {
+      "de": "Mai bis Juni und September: warmes Meer, weniger Trubel. Karneval Ende Februar / Anfang März ist spektakulär aber extrem voll. Im Oktober das Fantasy Film Festival, früh Hotels buchen. Im Sommer ist die Stadt 24/7 in Bewegung.",
+      "hu": "Május-június és szeptember: meleg tenger, kevesebb tömeg. A februári-márciusi farsang látványos, de borzasztó zsúfolt. Októberben a Fantasy Filmfesztivál, szállást előre foglalj. Nyáron a város 24/7 pörög.",
+      "ro": "Mai-iunie și septembrie: mare caldă, mai puțină aglomerație. Carnavalul de la sfârșit de februarie e spectaculos dar foarte plin. În octombrie e Festivalul de Film Fantastic, rezervă cazarea din timp. Vara orașul nu doarme niciodată.",
+      "en": "May-June and September: warm sea, fewer crowds. Carnival in late February is spectacular but extremely busy. In October the Fantastic Film Festival fills hotels, book early. In summer the town never sleeps."
+    },
+    "neighborhood_warnings": {
+      "de": "Sitges ist sehr sicher, auch nachts. Auf der Carrer del Pecat (Sünden-Straße) im Schwulenviertel ist alles entspannt, dennoch im Sommer Taschen vorne tragen. Der Bahnhof nachts vorsichtig: Taxi nehmen wenn es spät wird.",
+      "hu": "Sitges nagyon biztonságos, éjjel is. A Carrer del Pecat (Bűn utca) meleg negyedben minden laza, de nyáron a táskát elöl hordd. Vasútállomáson éjjel óvatosan, késő este érdemes taxizni.",
+      "ro": "Sitges e foarte sigur, chiar și noaptea. Pe Carrer del Pecat în cartierul gay totul e relaxat, dar vara ține geanta în față. La gară noaptea, ia taxi când e târziu.",
+      "en": "Sitges is very safe, even after dark. Carrer del Pecat in the gay quarter is laid-back but keep bags in front in summer. At the train station late at night, take a taxi instead of walking."
+    }
+  }
+}

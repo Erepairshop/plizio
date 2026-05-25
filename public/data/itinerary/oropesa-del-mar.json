@@ -1,0 +1,2454 @@
+{
+  "city_id": "oropesa-del-mar",
+  "anchor": {
+    "name": "Plaza de la Iglesia",
+    "coords": [
+      0.1453,
+      40.0871
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Spielkartenmuseum",
+            "hu": "Játékkártya Múzeum",
+            "ro": "Muzeul Cărților de Joc",
+            "en": "Playing Card Museum"
+          },
+          "coords": [
+            0.1462,
+            40.0915
+          ],
+          "category": "museums",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Weltgrößte Sammlung.",
+            "hu": "A világ legnagyobb gyűjteménye.",
+            "ro": "Cea mai mare colecție.",
+            "en": "World's largest collection."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg von Oropesa",
+            "hu": "Oropesai vár",
+            "ro": "Castelul din Oropesa",
+            "en": "Oropesa Castle"
+          },
+          "coords": [
+            0.1475,
+            40.0922
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Panoramablick auf die Küste.",
+            "hu": "Panoráma a tengerpartra.",
+            "ro": "Vedere panoramică la coastă.",
+            "en": "Panoramic coastal views."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche der Jungfrau der Geduld",
+            "hu": "Türelem Szűz temploma",
+            "ro": "Biserica Fecioarei Răbdării",
+            "en": "Church of the Virgin of Patience"
+          },
+          "coords": [
+            0.147,
+            40.0911
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:30",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Wunderschöne Azulejos.",
+            "hu": "Gyönyörű azulejo csempék.",
+            "ro": "Plăci ceramice superbe.",
+            "en": "Beautiful ceramic tiles."
+          }
+        },
+        {
+          "name": {
+            "de": "La Concha Strand",
+            "hu": "La Concha strand",
+            "ro": "Plaja La Concha",
+            "en": "La Concha Beach"
+          },
+          "coords": [
+            0.1465,
+            40.0845
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:40",
+          "stay_min": 150,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ideal für ein Mittagessen.",
+            "hu": "Ideális egy ebédhez.",
+            "ro": "Ideal pentru prânz.",
+            "en": "Ideal for a seaside lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Königsturm",
+            "hu": "Király-torony",
+            "ro": "Turnul Regelui",
+            "en": "King's Tower"
+          },
+          "coords": [
+            0.1555,
+            40.0838
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "16:25",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Verteidigungsturm von 1413.",
+            "hu": "1413-ban épült őrtorony.",
+            "ro": "Turn de apărare din 1413.",
+            "en": "Defense tower built in 1413."
+          }
+        },
+        {
+          "name": {
+            "de": "Leuchtturm von Oropesa",
+            "hu": "Oropesai világítótorony",
+            "ro": "Farul din Oropesa",
+            "en": "Oropesa Lighthouse"
+          },
+          "coords": [
+            0.1565,
+            40.0835
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "17:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Stimmungsvoller Abschluss.",
+            "hu": "Hangulatos zárópont.",
+            "ro": "Final de zi atmosferic.",
+            "en": "Atmospheric end of day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag in der Altstadt mit dem skurrilen Kartenspielmuseum, gefolgt von der Erkundung der mittelalterlichen Burgfestung. Mittags bewundern Sie die Kacheln in der Kirche der Geduld. Der Nachmittag gehört der Entspannung an der Playa de la Concha. Beenden Sie den Spaziergang an den historischen Wachtürmen am Kap, wo die Meeresbrise und die Geschichte der Piratenabwehr lebendig werden.",
+        "hu": "Kezdje a napot az óvárosban a különleges kártyamúzeummal, majd fedezze fel a középkori várfalakat. Délben csodálja meg a Türelem Szűz templomának csempéit. A délután a pihenésé a Playa de la Concha aranyhomokján. A sétát a tengerparti őrtornyoknál fejezze be, ahol megelevenedik a kalózok elleni védelem történelme és a sós tengeri szellő.",
+        "ro": "Începeți ziua în orașul vechi cu ineditul Muzeu al Cărților de Joc, urmat de explorarea zidurilor castelului medieval. La prânz, admirați plăcile ceramice din biserica locală. După-amiaza este dedicată relaxării pe plaja La Concha. Încheiați plimbarea la turnurile de apărare de pe malul mării, unde istoria apărării împotriva piraților și briza marină se contopesc perfect.",
+        "en": "Start your day in the old town with the unique card museum, followed by an exploration of the medieval castle ruins. At midday, admire the intricate tiles in the Church of Patience. The afternoon is for relaxing on the sands of La Concha Beach. Finish your walk at the historic coastal towers, where the history of pirate defense and the salty sea breeze come alive."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Arroz a Banda",
+            "tip": "Traditionelles Reisgericht mit Fischfond."
+          },
+          {
+            "name": "Restaurante Puerta del Sol",
+            "tip": "Beste Meeresfrüchte an der Promenade."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Arroz a Banda",
+            "tip": "Hagyományos rizses étel halalaplvel."
+          },
+          {
+            "name": "Restaurante Puerta del Sol",
+            "tip": "A legjobb tengeri ételek a sétányon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Arroz a Banda",
+            "tip": "Orez tradițional gătit în supă de pește."
+          },
+          {
+            "name": "Restaurante Puerta del Sol",
+            "tip": "Cele mai bune fructe de mare de pe faleză."
+          }
+        ],
+        "en": [
+          {
+            "name": "Arroz a Banda",
+            "tip": "Traditional rice cooked in fish stock."
+          },
+          {
+            "name": "Restaurante Puerta del Sol",
+            "tip": "Best seafood on the promenade."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Mirador del Oropesa",
+            "tip": "Stiller Blick auf das Mittelmeer.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mirador del Oropesa",
+            "tip": "Csendes kilátás a Földközi-tengerre.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mirador del Oropesa",
+            "tip": "Vedere liniștită spre Mediterană.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Mirador del Oropesa",
+            "tip": "Quiet view over the Mediterranean.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mercadillo Jueves",
+            "tip": "Wochenmarkt am Donnerstag."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mercadillo Jueves",
+            "tip": "Heti piac csütörtökönként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mercadillo Jueves",
+            "tip": "Piața săptămânală de joi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Thursday Market",
+            "tip": "Local weekly street market."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Altstadt ist steil, tragen Sie bequeme Schuhe.",
+          "Die Burg bietet den besten Schatten zur Mittagszeit."
+        ],
+        "hu": [
+          "Az óváros meredek, viseljen kényelmes cipőt.",
+          "A vár nyújtja a legjobb árnyékot délidőben."
+        ],
+        "ro": [
+          "Orașul vechi este abrupt, purtați pantofi comozi.",
+          "Castelul oferă cea mai bună umbră la amiază."
+        ],
+        "en": [
+          "The old town is steep, wear comfortable walking shoes.",
+          "The castle area offers the best shade during midday."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag in der Altstadt mit dem skurrilen Kartenspielmuseum, gefolgt von der Erkundung der mittelalterlichen Burgfestung. Mittags bewundern Sie die Kacheln in der Kirche der Geduld. Der Nachmittag gehört der Entspannung an der Playa de la Concha. Beenden Sie den Spaziergang an den historischen Wachtürmen am Kap, wo die Meeresbrise und die Geschichte der Piratenabwehr lebendig werden.",
+            "hu": "Kezdje a napot az óvárosban a különleges kártyamúzeummal, majd fedezze fel a középkori várfalakat. Délben csodálja meg a Türelem Szűz templomának csempéit. A délután a pihenésé a Playa de la Concha aranyhomokján. A sétát a tengerparti őrtornyoknál fejezze be, ahol megelevenedik a kalózok elleni védelem történelme és a sós tengeri szellő.",
+            "ro": "Începeți ziua în orașul vechi cu ineditul Muzeu al Cărților de Joc, urmat de explorarea zidurilor castelului medieval. La prânz, admirați plăcile ceramice din biserica locală. După-amiaza este dedicată relaxării pe plaja La Concha. Încheiați plimbarea la turnurile de apărare de pe malul mării, unde istoria apărării împotriva piraților și briza marină se contopesc perfect.",
+            "en": "Start your day in the old town with the unique card museum, followed by an exploration of the medieval castle ruins. At midday, admire the intricate tiles in the Church of Patience. The afternoon is for relaxing on the sands of La Concha Beach. Finish your walk at the historic coastal towers, where the history of pirate defense and the salty sea breeze come alive."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Spielkartenmuseum",
+                "hu": "Játékkártya Múzeum",
+                "ro": "Muzeul Cărților de Joc",
+                "en": "Playing Card Museum"
+              },
+              "tip_5lang": {
+                "de": "Weltgrößte Sammlung.",
+                "hu": "A világ legnagyobb gyűjteménye.",
+                "ro": "Cea mai mare colecție.",
+                "en": "World's largest collection."
+              }
+            },
+            {
+              "name": {
+                "de": "Burg von Oropesa",
+                "hu": "Oropesai vár",
+                "ro": "Castelul din Oropesa",
+                "en": "Oropesa Castle"
+              },
+              "tip_5lang": {
+                "de": "Panoramablick auf die Küste.",
+                "hu": "Panoráma a tengerpartra.",
+                "ro": "Vedere panoramică la coastă.",
+                "en": "Panoramic coastal views."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche der Jungfrau der Geduld",
+                "hu": "Türelem Szűz temploma",
+                "ro": "Biserica Fecioarei Răbdării",
+                "en": "Church of the Virgin of Patience"
+              },
+              "tip_5lang": {
+                "de": "Wunderschöne Azulejos.",
+                "hu": "Gyönyörű azulejo csempék.",
+                "ro": "Plăci ceramice superbe.",
+                "en": "Beautiful ceramic tiles."
+              }
+            },
+            {
+              "name": {
+                "de": "La Concha Strand",
+                "hu": "La Concha strand",
+                "ro": "Plaja La Concha",
+                "en": "La Concha Beach"
+              },
+              "tip_5lang": {
+                "de": "Ideal für ein Mittagessen.",
+                "hu": "Ideális egy ebédhez.",
+                "ro": "Ideal pentru prânz.",
+                "en": "Ideal for a seaside lunch."
+              }
+            },
+            {
+              "name": {
+                "de": "Königsturm",
+                "hu": "Király-torony",
+                "ro": "Turnul Regelui",
+                "en": "King's Tower"
+              },
+              "tip_5lang": {
+                "de": "Verteidigungsturm von 1413.",
+                "hu": "1413-ban épült őrtorony.",
+                "ro": "Turn de apărare din 1413.",
+                "en": "Defense tower built in 1413."
+              }
+            },
+            {
+              "name": {
+                "de": "Leuchtturm von Oropesa",
+                "hu": "Oropesai világítótorony",
+                "ro": "Farul din Oropesa",
+                "en": "Oropesa Lighthouse"
+              },
+              "tip_5lang": {
+                "de": "Stimmungsvoller Abschluss.",
+                "hu": "Hangulatos zárópont.",
+                "ro": "Final de zi atmosferic.",
+                "en": "Atmospheric end of day."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Arroz a Banda",
+                "tip": "Traditionelles Reisgericht mit Fischfond."
+              },
+              {
+                "name": "Restaurante Puerta del Sol",
+                "tip": "Beste Meeresfrüchte an der Promenade."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Arroz a Banda",
+                "tip": "Hagyományos rizses étel halalaplvel."
+              },
+              {
+                "name": "Restaurante Puerta del Sol",
+                "tip": "A legjobb tengeri ételek a sétányon."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Arroz a Banda",
+                "tip": "Orez tradițional gătit în supă de pește."
+              },
+              {
+                "name": "Restaurante Puerta del Sol",
+                "tip": "Cele mai bune fructe de mare de pe faleză."
+              }
+            ],
+            "en": [
+              {
+                "name": "Arroz a Banda",
+                "tip": "Traditional rice cooked in fish stock."
+              },
+              {
+                "name": "Restaurante Puerta del Sol",
+                "tip": "Best seafood on the promenade."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Mirador del Oropesa",
+                "tip": "Stiller Blick auf das Mittelmeer.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Mirador del Oropesa",
+                "tip": "Csendes kilátás a Földközi-tengerre.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Mirador del Oropesa",
+                "tip": "Vedere liniștită spre Mediterană.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Mirador del Oropesa",
+                "tip": "Quiet view over the Mediterranean.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Mercadillo Jueves",
+                "tip": "Wochenmarkt am Donnerstag."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Mercadillo Jueves",
+                "tip": "Heti piac csütörtökönként."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Mercadillo Jueves",
+                "tip": "Piața săptămânală de joi."
+              }
+            ],
+            "en": [
+              {
+                "name": "Thursday Market",
+                "tip": "Local weekly street market."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Die Altstadt ist steil, tragen Sie bequeme Schuhe.",
+              "Die Burg bietet den besten Schatten zur Mittagszeit."
+            ],
+            "hu": [
+              "Az óváros meredek, viseljen kényelmes cipőt.",
+              "A vár nyújtja a legjobb árnyékot délidőben."
+            ],
+            "ro": [
+              "Orașul vechi este abrupt, purtați pantofi comozi.",
+              "Castelul oferă cea mai bună umbră la amiază."
+            ],
+            "en": [
+              "The old town is steep, wear comfortable walking shoes.",
+              "The castle area offers the best shade during midday."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Vormittags bietet das Spielkartenmuseum idealen Schutz vor dem Regen. Mittags erkunden wir die Burg und die Kirche, deren dicke Mauern Geborgenheit vermitteln. Nachmittags spazieren wir mit dem Schirm entlang der Playa de la Concha und genießen die tosende Brandung. Abends beschließen der Königsturm und der Leuchtturm den Tag in einer mystischen, wolkenverhangenen Küstenatmosphäre.",
+            "hu": "Délelőtt a Játékkártya Múzeum nyújt tökéletes menedéket az eső elől. Délben a vár és a templom falai között kalandozunk, ahol a történelem tapintható. Délután esernyővel sétálunk a La Concha strandon, figyelve a drámai hullámverést. Este a Király-torony és a világítótorony környékén zárjuk a napot, ahol a ködös tengerparti látvány egészen különleges hangulatot áraszt.",
+            "ro": "Dimineața, Muzeul Cărților de Joc oferă adăpostul perfect împotriva ploii. La prânz, explorăm castelul și biserica, ale căror ziduri groase oferă o atmosferă istorică sigură. După-amiaza, ne plimbăm cu umbrela pe plaja La Concha, admirând valurile dramatice. Seara, Turnul Regelui și farul încheie ziua într-o atmosferă mistică și cețoasă pe malul mării.",
+            "en": "In the morning, the Playing Card Museum provides perfect shelter from the rain. At noon, we explore the castle and the church, where the thick walls offer a sense of historical refuge. In the afternoon, we walk with an umbrella along La Concha Beach, enjoying the dramatic waves. In the evening, the King's Tower and the lighthouse close the day in a misty, unique coastal atmosphere."
+          },
+          "stops": [
+            {
+              "name": "Playing Card Museum",
+              "tip_5lang": {
+                "de": "Ideal bei Regen, da komplett überdacht.",
+                "hu": "Tökéletes esős időben, teljesen fedett.",
+                "ro": "Ideal pe ploaie, fiind complet acoperit.",
+                "en": "Ideal for rainy weather, fully indoors."
+              }
+            },
+            {
+              "name": "Oropesa Castle",
+              "tip_5lang": {
+                "de": "Vorsicht auf den nassen Steinen.",
+                "hu": "Vigyázat, a nedves kövek csúszhatnak.",
+                "ro": "Atenție, pietrele umede pot fi alunecoase.",
+                "en": "Be careful, wet stones can be slippery."
+              }
+            },
+            {
+              "name": "Church of the Virgin of Patience",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort zum Aufwärmen.",
+                "hu": "Csendes hely a megpihenéshez.",
+                "ro": "Un loc liniștit pentru odihnă.",
+                "en": "A quiet place to take a break."
+              }
+            },
+            {
+              "name": "La Concha Beach",
+              "tip_5lang": {
+                "de": "Bleiben Sie auf der befestigten Promenade.",
+                "hu": "Maradjon a kiépített sétányon.",
+                "ro": "Rămâneți pe faleza pavată.",
+                "en": "Stay on the paved promenade."
+              }
+            },
+            {
+              "name": "King's Tower",
+              "tip_5lang": {
+                "de": "Dramatische Meeresfotos garantiert.",
+                "hu": "Drámai tengeri fotók garantáltak.",
+                "ro": "Fotografii dramatice cu marea garantate.",
+                "en": "Dramatic sea photos guaranteed."
+              }
+            },
+            {
+              "name": "Oropesa Lighthouse",
+              "tip_5lang": {
+                "de": "Der Wind weht hier bei Regen stark.",
+                "hu": "Esőben itt erős lehet a szél.",
+                "ro": "Vântul poate fi puternic aici pe ploaie.",
+                "en": "Wind can be strong here during rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe für die Altstadt.",
+              "Das Spielkartenmuseum ist der beste Zufluchtsort.",
+              "Die Strandpromenade ist gepflastert, kein Schlamm.",
+              "Nutzen Sie die Kirchenbesichtigung als Regenpause.",
+              "Windfeste Regenschirme sind an der Küste Pflicht."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt az óváros köveihez.",
+              "A kártyamúzeum a legjobb menedékhely.",
+              "A tengerparti sétány burkolt, nincs sár.",
+              "Használja a templomlátogatást esőszünetnek.",
+              "A tengerparton szélálló esernyő ajánlott."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă pentru orașul vechi.",
+              "Muzeul cărților de joc este cel mai bun refugiu.",
+              "Faleza este pavată, deci nu există noroi.",
+              "Folosiți vizita la biserică ca pauză de ploaie.",
+              "Umbrelele rezistente la vânt sunt necesare pe coastă."
+            ],
+            "en": [
+              "Wear waterproof shoes for the old town cobbles.",
+              "The card museum is the best indoor refuge.",
+              "The beach promenade is paved, no mud risk.",
+              "Use the church visit as a rain break.",
+              "Windproof umbrellas are essential on the coast."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen beginnt frisch im Museum, gefolgt von einem sonnigen Aufstieg zur Burg. Mittags wärmt die milde Mittelmeersonne den Besuch der Kirche und der Playa de la Concha. Nachmittags genießen wir die kühle Meeresbrise am Königsturm. Der Tag endet mit einem spektakulären, frühen Sonnenuntergang am Leuchtturm, wenn das Licht die Küste in Gold taucht.",
+            "hu": "A téli reggel frissen indul a múzeumban, majd napsütéses séta vezet a várhoz. Délben az enyhe mediterrán nap melengeti a templom és a La Concha strand látogatását. Délután a hűvös tengeri szellőt élvezzük a Király-toronynál. A nap egy látványos, korai naplementével zárul a világítótoronynál, amikor az aranyló fények bevilágítják a partot.",
+            "ro": "Dimineața de iarnă începe proaspăt la muzeu, urmată de o urcare însorită la castel. La prânz, soarele blând mediteranean încălzește vizita la biserică și plaja La Concha. După-amiaza, ne bucurăm de briza răcoroasă a mării la Turnul Regelui. Ziua se încheie cu un apus spectaculos și timpuriu la far, când lumina aurie scaldă coasta.",
+            "en": "The winter morning starts fresh at the museum, followed by a sunny climb to the castle. At noon, the mild Mediterranean sun warms our visit to the church and La Concha Beach. In the afternoon, we enjoy the cool sea breeze at the King's Tower. The day ends with a spectacular early sunset at the lighthouse, as golden light bathes the coast."
+          },
+          "stops": [
+            {
+              "name": "Playing Card Museum",
+              "tip_5lang": {
+                "de": "Angenehm temperiert im Winter.",
+                "hu": "Kellemes hőmérséklet télen is.",
+                "ro": "Temperatură plăcută și iarna.",
+                "en": "Pleasantly tempered in winter."
+              }
+            },
+            {
+              "name": "Oropesa Castle",
+              "tip_5lang": {
+                "de": "Beste Fernsicht bei klarer Winterluft.",
+                "hu": "Tiszta téli levegő, kiváló kilátás.",
+                "ro": "Cea mai bună vizibilitate pe aer curat.",
+                "en": "Best distant views in clear winter air."
+              }
+            },
+            {
+              "name": "Church of the Virgin of Patience",
+              "tip_5lang": {
+                "de": "Schutz vor dem kühlen Seewind.",
+                "hu": "Menedék a hűvös tengeri szél elől.",
+                "ro": "Adăpost împotriva vântului rece de mare.",
+                "en": "Shelter from the cool sea wind."
+              }
+            },
+            {
+              "name": "La Concha Beach",
+              "tip_5lang": {
+                "de": "Perfekt für einen ruhigen Winterspaziergang.",
+                "hu": "Tökéletes egy csendes téli sétához.",
+                "ro": "Perfect pentru o plimbare liniștită.",
+                "en": "Perfect for a quiet winter walk."
+              }
+            },
+            {
+              "name": "King's Tower",
+              "tip_5lang": {
+                "de": "Warme Kleidung wegen Meeresbrise nötig.",
+                "hu": "Meleg ruha kell a tengeri szél miatt.",
+                "ro": "Haine groase necesare pentru briză.",
+                "en": "Warm clothes needed for the sea breeze."
+              }
+            },
+            {
+              "name": "Oropesa Lighthouse",
+              "tip_5lang": {
+                "de": "Sonnenuntergang gegen 17:30 Uhr.",
+                "hu": "Naplemente 17:30 körül.",
+                "ro": "Apusul soarelui în jur de ora 17:30.",
+                "en": "Sunset is around 5:30 PM."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Zwiebelprinzip bei der Kleidung ist ratsam.",
+              "Die Sonne ist mittags stark, Sonnenschutz hilft.",
+              "Strände sind leer und sehr fotogen.",
+              "Die Museen sind gute Orte zum Aufwärmen.",
+              "Planen Sie das Ende vor 18:00 Uhr ein."
+            ],
+            "hu": [
+              "Réteges öltözködés javasolt a szél miatt.",
+              "A délutáni nap erős lehet, vigyen szemüveget.",
+              "A strandok üresek és nagyon látványosak.",
+              "A múzeumok jó helyek a felmelegedéshez.",
+              "Tervezze a program végét 18:00 előttre."
+            ],
+            "ro": [
+              "Se recomandă îmbrăcămintea în straturi.",
+              "Soarele de prânz poate fi puternic.",
+              "Plajele sunt pustii și foarte fotogenice.",
+              "Muzeele sunt locuri bune pentru încălzire.",
+              "Planificați finalul zilei înainte de ora 18:00."
+            ],
+            "en": [
+              "Layered clothing is recommended for the wind.",
+              "Midday sun is bright; sunglasses help.",
+              "Beaches are empty and very photogenic.",
+              "Museums are great spots to warm up.",
+              "Plan to finish your tour before 6:00 PM."
+            ]
+          }
+        }
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 12.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Vía Verde del Mar",
+            "hu": "Tengeri zöldút",
+            "ro": "Vía Verde del Mar",
+            "en": "Greenway of the Sea"
+          },
+          "coords": [
+            0.138,
+            40.065
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ehemalige Eisenbahnstrecke am Meer.",
+            "hu": "Egykori vasútvonal a tenger mentén.",
+            "ro": "Fosta cale ferată pe malul mării.",
+            "en": "Former railway line by the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Leuchtturm von Oropesa",
+            "hu": "Oropesai világítótorony",
+            "ro": "Farul din Oropesa",
+            "en": "Oropesa Lighthouse"
+          },
+          "coords": [
+            0.1565,
+            40.0835
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "11:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Wichtiger Orientierungspunkt.",
+            "hu": "Fontos tájékozódási pont.",
+            "ro": "Punct de reper important.",
+            "en": "Important maritime landmark."
+          }
+        },
+        {
+          "name": {
+            "de": "Königsturm",
+            "hu": "Király-torony",
+            "ro": "Turnul Regelui",
+            "en": "King's Tower"
+          },
+          "coords": [
+            0.1555,
+            40.0838
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:15",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ideal für Fotos.",
+            "hu": "Ideális fotózáshoz.",
+            "ro": "Ideal pentru fotografii.",
+            "en": "Great spot for photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Marina d'Or Garten",
+            "hu": "Marina d'Or kert",
+            "ro": "Grădina Marina d'Or",
+            "en": "Marina d'Or Gardens"
+          },
+          "coords": [
+            0.145,
+            40.105
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Thematische Gärten zum Entspannen.",
+            "hu": "Tematikus kertek a pihenéshez.",
+            "ro": "Grădini tematice pentru relaxare.",
+            "en": "Themed gardens for relaxation."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirador del Oropesa",
+            "hu": "Oropesai kilátó",
+            "ro": "Mirador del Oropesa",
+            "en": "Oropesa Viewpoint"
+          },
+          "coords": [
+            0.135,
+            40.075
+          ],
+          "category": "natural features",
+          "arrive_at": "15:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Panoramablick über die Bucht.",
+            "hu": "Panoráma az öbölre.",
+            "ro": "Panoramă peste golf.",
+            "en": "Panorama over the bay."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie morgens auf der spektakulären Vía Verde, die in die Klippen gehauen wurde. Nach der Rückkehr besuchen Sie den Leuchtturm und den Königsturm. Mittags fahren Sie in den modernen Bereich Marina d'Or, um durch die Gärten zu schlendern. Beenden Sie den Tag mit einer Auffahrt zum Mirador, um die gesamte Küstenlinie von oben zu bewundern, während die Sonne tiefer sinkt.",
+        "hu": "Reggel tekerjen a látványos Vía Verdén, amelyet a sziklákba vájtak a tenger felett. Visszatérve látogassa meg a világítótornyot és a Király-tornyot. Délben tekerjen el a Marina d'Or negyedbe a tematikus kertekhez. A napot a Mirador kilátóhoz való feltekeréssel zárja, ahonnan a lemenő nap fényében belátható az egész partvonal.",
+        "ro": "Pedalați dimineața pe spectaculoasa Vía Verde, tăiată direct în stâncile de deasupra mării. La întoarcere, vizitați farul și Turnul Regelui. La prânz, mergeți spre zona modernă Marina d'Or pentru a vă plimba prin grădini. Încheiați ziua cu o urcare la Mirador, pentru a admira întreaga linie a coastei de sus, în lumina după-amiezii.",
+        "en": "Cycle the spectacular Vía Verde in the morning, a path carved into the cliffs above the sea. Upon return, visit the lighthouse and the King's Tower. At midday, ride to the Marina d'Or area to stroll through its themed gardens. End the day with a climb to the Mirador viewpoint to admire the entire coastline from above as the sun begins to dip."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Horchata",
+            "tip": "Erfrischendes Erdmandelgetränk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Horchata",
+            "tip": "Frissítő földi mandula ital."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Horchata",
+            "tip": "Băutură răcoritoare de migdale de pământ."
+          }
+        ],
+        "en": [
+          {
+            "name": "Horchata",
+            "tip": "Refreshing tiger nut milk."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Playa de la Renegá",
+            "tip": "Naturbelassene, ruhige Bucht.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Playa de la Renegá",
+            "tip": "Természetes, csendes öböl.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Playa de la Renegá",
+            "tip": "Golf natural și liniștit.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Playa de la Renegá",
+            "tip": "Natural, quiet cove.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokales Olivenöl",
+            "tip": "Kaufen Sie Öl aus der Region Castellón."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi olívaolaj",
+            "tip": "Vásároljon Castellón környéki olajat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ulei de măsline local",
+            "tip": "Cumpărați ulei din regiunea Castellón."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Olive Oil",
+            "tip": "Buy oil from the Castellón region."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nehmen Sie in den Tunneln der Vía Verde die Sonnenbrille ab.",
+          "Die Strecke nach Marina d'Or ist flach und sehr einfach."
+        ],
+        "hu": [
+          "A Vía Verde alagútjaiban vegye le a napszemüveget.",
+          "A Marina d'Or felé vezető út sík és nagyon könnyű."
+        ],
+        "ro": [
+          "Scoateți ochelarii de soare în tunelurile de pe Vía Verde.",
+          "Traseul spre Marina d'Or este plat și foarte ușor."
+        ],
+        "en": [
+          "Take off your sunglasses in the Vía Verde tunnels.",
+          "The path to Marina d'Or is flat and very easy."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Radeln Sie morgens auf der spektakulären Vía Verde, die in die Klippen gehauen wurde. Nach der Rückkehr besuchen Sie den Leuchtturm und den Königsturm. Mittags fahren Sie in den modernen Bereich Marina d'Or, um durch die Gärten zu schlendern. Beenden Sie den Tag mit einer Auffahrt zum Mirador, um die gesamte Küstenlinie von oben zu bewundern, während die Sonne tiefer sinkt.",
+            "hu": "Reggel tekerjen a látványos Vía Verdén, amelyet a sziklákba vájtak a tenger felett. Visszatérve látogassa meg a világítótornyot és a Király-tornyot. Délben tekerjen el a Marina d'Or negyedbe a tematikus kertekhez. A napot a Mirador kilátóhoz való feltekeréssel zárja, ahonnan a lemenő nap fényében belátható az egész partvonal.",
+            "ro": "Pedalați dimineața pe spectaculoasa Vía Verde, tăiată direct în stâncile de deasupra mării. La întoarcere, vizitați farul și Turnul Regelui. La prânz, mergeți spre zona modernă Marina d'Or pentru a vă plimba prin grădini. Încheiați ziua cu o urcare la Mirador, pentru a admira întreaga linie a coastei de sus, în lumina după-amiezii.",
+            "en": "Cycle the spectacular Vía Verde in the morning, a path carved into the cliffs above the sea. Upon return, visit the lighthouse and the King's Tower. At midday, ride to the Marina d'Or area to stroll through its themed gardens. End the day with a climb to the Mirador viewpoint to admire the entire coastline from above as the sun begins to dip."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Vía Verde del Mar",
+                "hu": "Tengeri zöldút",
+                "ro": "Vía Verde del Mar",
+                "en": "Greenway of the Sea"
+              },
+              "tip_5lang": {
+                "de": "Ehemalige Eisenbahnstrecke am Meer.",
+                "hu": "Egykori vasútvonal a tenger mentén.",
+                "ro": "Fosta cale ferată pe malul mării.",
+                "en": "Former railway line by the sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Leuchtturm von Oropesa",
+                "hu": "Oropesai világítótorony",
+                "ro": "Farul din Oropesa",
+                "en": "Oropesa Lighthouse"
+              },
+              "tip_5lang": {
+                "de": "Wichtiger Orientierungspunkt.",
+                "hu": "Fontos tájékozódási pont.",
+                "ro": "Punct de reper important.",
+                "en": "Important maritime landmark."
+              }
+            },
+            {
+              "name": {
+                "de": "Königsturm",
+                "hu": "Király-torony",
+                "ro": "Turnul Regelui",
+                "en": "King's Tower"
+              },
+              "tip_5lang": {
+                "de": "Ideal für Fotos.",
+                "hu": "Ideális fotózáshoz.",
+                "ro": "Ideal pentru fotografii.",
+                "en": "Great spot for photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Marina d'Or Garten",
+                "hu": "Marina d'Or kert",
+                "ro": "Grădina Marina d'Or",
+                "en": "Marina d'Or Gardens"
+              },
+              "tip_5lang": {
+                "de": "Thematische Gärten zum Entspannen.",
+                "hu": "Tematikus kertek a pihenéshez.",
+                "ro": "Grădini tematice pentru relaxare.",
+                "en": "Themed gardens for relaxation."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador del Oropesa",
+                "hu": "Oropesai kilátó",
+                "ro": "Mirador del Oropesa",
+                "en": "Oropesa Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Panoramablick über die Bucht.",
+                "hu": "Panoráma az öbölre.",
+                "ro": "Panoramă peste golf.",
+                "en": "Panorama over the bay."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Horchata",
+                "tip": "Erfrischendes Erdmandelgetränk."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Horchata",
+                "tip": "Frissítő földi mandula ital."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Horchata",
+                "tip": "Băutură răcoritoare de migdale de pământ."
+              }
+            ],
+            "en": [
+              {
+                "name": "Horchata",
+                "tip": "Refreshing tiger nut milk."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Playa de la Renegá",
+                "tip": "Naturbelassene, ruhige Bucht.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Playa de la Renegá",
+                "tip": "Természetes, csendes öböl.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Playa de la Renegá",
+                "tip": "Golf natural și liniștit.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Playa de la Renegá",
+                "tip": "Natural, quiet cove.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Lokales Olivenöl",
+                "tip": "Kaufen Sie Öl aus der Region Castellón."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Helyi olívaolaj",
+                "tip": "Vásároljon Castellón környéki olajat."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Ulei de măsline local",
+                "tip": "Cumpărați ulei din regiunea Castellón."
+              }
+            ],
+            "en": [
+              {
+                "name": "Local Olive Oil",
+                "tip": "Buy oil from the Castellón region."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Nehmen Sie in den Tunneln der Vía Verde die Sonnenbrille ab.",
+              "Die Strecke nach Marina d'Or ist flach und sehr einfach."
+            ],
+            "hu": [
+              "A Vía Verde alagútjaiban vegye le a napszemüveget.",
+              "A Marina d'Or felé vezető út sík és nagyon könnyű."
+            ],
+            "ro": [
+              "Scoateți ochelarii de soare în tunelurile de pe Vía Verde.",
+              "Traseul spre Marina d'Or este plat și foarte ușor."
+            ],
+            "en": [
+              "Take off your sunglasses in the Vía Verde tunnels.",
+              "The path to Marina d'Or is flat and very easy."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen bietet der Greenway eine dramatische Fahrt entlang der Küste. Mittags erreichen wir den Leuchtturm und den Königsturm, wo die Gischt gegen die Felsen schlägt. Nachmittags finden wir in den Gärten von Marina d'Or unter Palmen etwas Schutz. Den Tag beenden wir am Aussichtspunkt, wobei die tief hängenden Wolken der Landschaft eine ganz eigene Dynamik verleihen.",
+            "hu": "Az eső ellenére a Greenway drámai utat kínál a part mentén. Délben érjük el a világítótornyot és a Király-tornyot, ahol a habok a szikláknak csapódnak. Délután a Marina d'Or kertjeiben, a pálmák alatt találunk némi menedéket. A napot a kilátónál zárjuk, ahol az alacsonyan szálló felhők sajátos dinamikát adnak a tájnak.",
+            "ro": "În ciuda ploii, Greenway oferă o cursă dramatică de-a lungul coastei. La prânz ajungem la far și la Turnul Regelui, unde valurile se sparg de stânci. După-amiaza găsim adăpost sub palmierii din grădinile Marina d'Or. Încheiem ziua la punctul de observație, unde norii joși oferă peisajului o dinamică aparte.",
+            "en": "Despite the rain, the Greenway offers a dramatic ride along the coast. At noon, we reach the lighthouse and the King's Tower, where the spray hits the rocks. In the afternoon, we find some shelter under the palms in the Marina d'Or gardens. We end the day at the viewpoint, where the low-hanging clouds give the landscape its own dynamic."
+          },
+          "stops": [
+            {
+              "name": "Greenway of the Sea",
+              "tip_5lang": {
+                "de": "Vorsicht, Asphalt kann rutschig sein.",
+                "hu": "Vigyázat, az aszfalt csúszós lehet.",
+                "ro": "Atenție, asfaltul poate fi alunecos.",
+                "en": "Caution, asphalt can be slippery."
+              }
+            },
+            {
+              "name": "Oropesa Lighthouse",
+              "tip_5lang": {
+                "de": "Vermeiden Sie die Klippenkanten.",
+                "hu": "Kerülje a sziklák széleit.",
+                "ro": "Evitați marginile stâncilor.",
+                "en": "Avoid the edges of the cliffs."
+              }
+            },
+            {
+              "name": "King's Tower",
+              "tip_5lang": {
+                "de": "Kurze Pause im Windschatten der Mauern.",
+                "hu": "Rövid pihenő a falak szélárnyékában.",
+                "ro": "Scurtă pauză la adăpostul zidurilor.",
+                "en": "Short break in the wind shadow of walls."
+              }
+            },
+            {
+              "name": "Marina d'Or Gardens",
+              "tip_5lang": {
+                "de": "Dichte Vegetation bietet etwas Schutz.",
+                "hu": "A sűrű növényzet némi védelmet nyújt.",
+                "ro": "Vegetația deasă oferă puțin adăpost.",
+                "en": "Dense vegetation offers some shelter."
+              }
+            },
+            {
+              "name": "Oropesa Viewpoint",
+              "tip_5lang": {
+                "de": "Sicht kann durch Wolken begrenzt sein.",
+                "hu": "A kilátást korlátozhatják a felhők.",
+                "ro": "Vizibilitatea poate fi limitată de nori.",
+                "en": "Visibility may be limited by clouds."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vollständige Regenbekleidung ist unerlässlich.",
+              "Prüfen Sie die Bremsen vor der Abfahrt.",
+              "Der Greenway hat Tunnel, die Schutz bieten.",
+              "Fahren Sie in Kurven besonders vorsichtig.",
+              "Beleuchtung am Fahrrad ist bei Regen wichtig."
+            ],
+            "hu": [
+              "A teljes esőruházat elengedhetetlen.",
+              "Indulás előtt ellenőrizze a fékeket.",
+              "A Greenway alagútjai védelmet nyújtanak.",
+              "Kanyarokban közlekedjen fokozott óvatossággal.",
+              "Esőben fontos a kerékpár világítása."
+            ],
+            "ro": [
+              "Echipamentul complet de ploaie este esențial.",
+              "Verificați frânele înainte de plecare.",
+              "Tunelurile de pe Greenway oferă adăpost.",
+              "Conduceți cu mare atenție în curbe.",
+              "Iluminarea bicicletei este importantă pe ploaie."
+            ],
+            "en": [
+              "Full rain gear is essential for the ride.",
+              "Check your brakes before starting.",
+              "Greenway tunnels provide good shelter.",
+              "Ride with extra caution in corners.",
+              "Bike lights are important in rainy weather."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein erfrischender Wintermorgen auf dem Greenway führt uns direkt am blauen Meer entlang. Mittags bieten der Leuchtturm und der Königsturm klare Sicht bis zum Horizont. Nachmittags radeln wir durch die ruhigen Gärten von Marina d'Or, bevor wir den Tag mit einer Auffahrt zum Aussichtspunkt krönen, um das goldene Licht der tiefstehenden Sonne zu genießen.",
+            "hu": "Egy frissítő téli reggel a Greenway-en közvetlenül a kék tenger mellett vezet. Délben a világítótorony és a Király-torony tiszta kilátást nyújt a horizontig. Délután a Marina d'Or csendes kertjeiben kerekezünk, majd a napot a kilátóhoz való feltekeréssel koronázzuk meg, élvezve az alacsonyan járó nap aranyló fényeit.",
+            "ro": "O dimineață răcoroasă de iarnă pe Greenway ne duce chiar lângă marea albastră. La prânz, farul și Turnul Regelui oferă o vedere clară până la orizont. După-amiaza pedalăm prin grădinile liniștite din Marina d'Or, înainte de a încheia ziua cu o urcare la punctul de observație pentru lumina aurie a apusului.",
+            "en": "A refreshing winter morning on the Greenway leads us right along the blue sea. At noon, the lighthouse and the King's Tower offer clear views to the horizon. In the afternoon, we cycle through the quiet Marina d'Or gardens before crowning the day with a ride up to the viewpoint to enjoy the golden light of the low sun."
+          },
+          "stops": [
+            {
+              "name": "Greenway of the Sea",
+              "tip_5lang": {
+                "de": "Handschuhe gegen den Fahrtwind nutzen.",
+                "hu": "Használjon kesztyűt a menetszél ellen.",
+                "ro": "Folosiți mănuși împotriva vântului.",
+                "en": "Use gloves against the wind chill."
+              }
+            },
+            {
+              "name": "Oropesa Lighthouse",
+              "tip_5lang": {
+                "de": "Idealer Ort für Wintersonnenfotos.",
+                "hu": "Ideális hely téli napsütéses fotókhoz.",
+                "ro": "Loc ideal pentru fotografii de iarnă.",
+                "en": "Ideal spot for winter sun photos."
+              }
+            },
+            {
+              "name": "King's Tower",
+              "tip_5lang": {
+                "de": "Mittagssonne hier am stärksten.",
+                "hu": "Itt a legerősebb a déli napsütés.",
+                "ro": "Soarele de prânz este cel mai puternic aici.",
+                "en": "Midday sun is strongest here."
+              }
+            },
+            {
+              "name": "Marina d'Or Gardens",
+              "tip_5lang": {
+                "de": "Sehr ruhig außerhalb der Saison.",
+                "hu": "Szezonon kívül nagyon csendes.",
+                "ro": "Foarte liniștit în afara sezonului.",
+                "en": "Very quiet outside the high season."
+              }
+            },
+            {
+              "name": "Oropesa Viewpoint",
+              "tip_5lang": {
+                "de": "Warme Jacke für die Abfahrt einplanen.",
+                "hu": "Készítsen meleg kabátot a lejtmenethez.",
+                "ro": "Pregătiți o jachetă groasă pentru coborâre.",
+                "en": "Prepare a warm jacket for the descent."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie winddichte Kleidung.",
+              "Die Tage sind kurz, starten Sie pünktlich.",
+              "Der Greenway ist im Winter weniger belebt.",
+              "Nutzen Sie Sonnenbrillen gegen die Blendung.",
+              "Halten Sie an sonnigen Plätzen für Pausen."
+            ],
+            "hu": [
+              "Viseljen szélálló ruházatot.",
+              "A nappalok rövidek, kezdjen időben.",
+              "A Greenway télen kevésbé zsúfolt.",
+              "Használjon napszemüveget a csillogás ellen.",
+              "A szüneteket napos helyekre időzítse."
+            ],
+            "ro": [
+              "Purtați haine rezistente la vânt.",
+              "Zilele sunt scurte, începeți la timp.",
+              "Greenway este mai puțin aglomerat iarna.",
+              "Folosiți ochelari de soare împotriva reflexiilor.",
+              "Faceți pauze în locurile însorite."
+            ],
+            "en": [
+              "Wear windproof clothing for the ride.",
+              "Days are short, start your tour on time.",
+              "The Greenway is much quieter in winter.",
+              "Use sunglasses against the low sun glare.",
+              "Stop in sunny spots for your breaks."
+            ]
+          }
+        }
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 15.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Mirador del Oropesa",
+            "hu": "Oropesai kilátó",
+            "ro": "Mirador del Oropesa",
+            "en": "Oropesa Viewpoint"
+          },
+          "coords": [
+            0.135,
+            40.075
+          ],
+          "category": "natural features",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Perfekter Start für Orientierung.",
+            "hu": "Tökéletes kezdés a tájékozódáshoz.",
+            "ro": "Început perfect pentru orientare.",
+            "en": "Perfect start for orientation."
+          }
+        },
+        {
+          "name": {
+            "de": "Altes Gefängnis",
+            "hu": "Régi börtön",
+            "ro": "Vechea Închisoare",
+            "en": "Old Prison"
+          },
+          "coords": [
+            0.1472,
+            40.0918
+          ],
+          "category": "museums",
+          "arrive_at": "10:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Interessante lokale Geschichte.",
+            "hu": "Érdekes helyi történelem.",
+            "ro": "Istorie locală interesantă.",
+            "en": "Interesting local history."
+          }
+        },
+        {
+          "name": {
+            "de": "Marina d'Or",
+            "hu": "Marina d'Or",
+            "ro": "Marina d'Or",
+            "en": "Marina d'Or"
+          },
+          "coords": [
+            0.145,
+            40.105
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:30",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie das Thalasso-Zentrum.",
+            "hu": "Látogassa meg a Thalasso központot.",
+            "ro": "Vizitați centrul Thalasso.",
+            "en": "Visit the Thalasso center."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa de la Concha",
+            "hu": "La Concha strand",
+            "ro": "Plaja La Concha",
+            "en": "La Concha Beach"
+          },
+          "coords": [
+            0.1465,
+            40.0845
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:50",
+          "stay_min": 150,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Bester Platz für Paella.",
+            "hu": "A legjobb hely egy paellához.",
+            "ro": "Cel mai bun loc pentru paella.",
+            "en": "Best place for paella."
+          }
+        },
+        {
+          "name": {
+            "de": "Königsturm",
+            "hu": "Király-torony",
+            "ro": "Turnul Regelui",
+            "en": "King's Tower"
+          },
+          "coords": [
+            0.1555,
+            40.0838
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "16:30",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Kurzer Stopp vor der Abfahrt.",
+            "hu": "Rövid megálló távozás előtt.",
+            "ro": "Scurt popas înainte de plecare.",
+            "en": "Quick stop before leaving."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erreichen Sie zuerst den Mirador für den großen Überblick. Danach geht es zum alten Gefängnis im Zentrum. Mittags erkunden Sie das weitläufige Marina d'Or Resort mit seinen Parks. Den Nachmittag verbringen Sie entspannt an der Playa de la Concha, bevor Sie zum Abschluss den historischen Wachturm am Kap besuchen, der bequem per Auto erreichbar ist.",
+        "hu": "Autóval először a Mirador kilátóhoz menjen a teljes panorámáért. Ezután látogassa meg a központban található régi börtönt. Délben fedezze fel a Marina d'Or üdülőhely tágas parkjait. A délutánt töltse a Playa de la Concha strandon, majd fejezze be a napot a foknál lévő történelmi őrtoronynál, amely autóval könnyen megközelíthető.",
+        "ro": "Cu mașina, mergeți mai întâi la Mirador pentru o privire de ansamblu. Apoi vizitați vechea închisoare din centru. La prânz, explorați stațiunea Marina d'Or și parcurile sale vaste. Petreceți după-amiaza pe plaja La Concha, iar la final vizitați turnul de veghe istoric de la capătul falezei, ușor accesibil cu mașina.",
+        "en": "By car, first reach the Mirador for the grand overview. Then head to the old prison museum in the center. At midday, explore the vast Marina d'Or resort with its many parks. Spend the afternoon relaxing at La Concha Beach before finishing at the historic watchtower on the cape, which is easily accessible by car."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fideuà",
+            "tip": "Nudelspeise mit Meeresfrüchten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fideuà",
+            "tip": "Tészta alapú tengeri étel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fideuà",
+            "tip": "Paste gătite cu fructe de mare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fideuà",
+            "tip": "Noodle-based seafood dish."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Cabanes d'en Gual",
+            "tip": "Ruhiger ländlicher Bereich.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cabanes d'en Gual",
+            "tip": "Csendes vidéki terület.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cabanes d'en Gual",
+            "tip": "Zonă rurală liniștită.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cabanes d'en Gual",
+            "tip": "Quiet rural area nearby.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Handgefertigte Fächer",
+            "tip": "Ein typisches Souvenir der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kézzel készített legyező",
+            "tip": "A régió jellegzetes szuvenírje."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Evantaie lucrate manual",
+            "tip": "Un suvenir tipic al regiunii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Handmade Fans",
+            "tip": "A typical souvenir of the region."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken an der Playa de la Concha ist im Sommer schwierig.",
+          "Nutzen Sie das Parkhaus in Marina d'Or."
+        ],
+        "hu": [
+          "A parkolás a Playa de la Concha-nál nyáron nehéz.",
+          "Használja a Marina d'Or parkolóházait."
+        ],
+        "ro": [
+          "Parcarea la Playa de la Concha este dificilă vara.",
+          "Folosiți parcările supraetajate din Marina d'Or."
+        ],
+        "en": [
+          "Parking at La Concha Beach is difficult in summer.",
+          "Use the parking garages in Marina d'Or."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erreichen Sie zuerst den Mirador für den großen Überblick. Danach geht es zum alten Gefängnis im Zentrum. Mittags erkunden Sie das weitläufige Marina d'Or Resort mit seinen Parks. Den Nachmittag verbringen Sie entspannt an der Playa de la Concha, bevor Sie zum Abschluss den historischen Wachturm am Kap besuchen, der bequem per Auto erreichbar ist.",
+            "hu": "Autóval először a Mirador kilátóhoz menjen a teljes panorámáért. Ezután látogassa meg a központban található régi börtönt. Délben fedezze fel a Marina d'Or üdülőhely tágas parkjait. A délutánt töltse a Playa de la Concha strandon, majd fejezze be a napot a foknál lévő történelmi őrtoronynál, amely autóval könnyen megközelíthető.",
+            "ro": "Cu mașina, mergeți mai întâi la Mirador pentru o privire de ansamblu. Apoi vizitați vechea închisoare din centru. La prânz, explorați stațiunea Marina d'Or și parcurile sale vaste. Petreceți după-amiaza pe plaja La Concha, iar la final vizitați turnul de veghe istoric de la capătul falezei, ușor accesibil cu mașina.",
+            "en": "By car, first reach the Mirador for the grand overview. Then head to the old prison museum in the center. At midday, explore the vast Marina d'Or resort with its many parks. Spend the afternoon relaxing at La Concha Beach before finishing at the historic watchtower on the cape, which is easily accessible by car."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mirador del Oropesa",
+                "hu": "Oropesai kilátó",
+                "ro": "Mirador del Oropesa",
+                "en": "Oropesa Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Perfekter Start für Orientierung.",
+                "hu": "Tökéletes kezdés a tájékozódáshoz.",
+                "ro": "Început perfect pentru orientare.",
+                "en": "Perfect start for orientation."
+              }
+            },
+            {
+              "name": {
+                "de": "Altes Gefängnis",
+                "hu": "Régi börtön",
+                "ro": "Vechea Închisoare",
+                "en": "Old Prison"
+              },
+              "tip_5lang": {
+                "de": "Interessante lokale Geschichte.",
+                "hu": "Érdekes helyi történelem.",
+                "ro": "Istorie locală interesantă.",
+                "en": "Interesting local history."
+              }
+            },
+            {
+              "name": {
+                "de": "Marina d'Or",
+                "hu": "Marina d'Or",
+                "ro": "Marina d'Or",
+                "en": "Marina d'Or"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das Thalasso-Zentrum.",
+                "hu": "Látogassa meg a Thalasso központot.",
+                "ro": "Vizitați centrul Thalasso.",
+                "en": "Visit the Thalasso center."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa de la Concha",
+                "hu": "La Concha strand",
+                "ro": "Plaja La Concha",
+                "en": "La Concha Beach"
+              },
+              "tip_5lang": {
+                "de": "Bester Platz für Paella.",
+                "hu": "A legjobb hely egy paellához.",
+                "ro": "Cel mai bun loc pentru paella.",
+                "en": "Best place for paella."
+              }
+            },
+            {
+              "name": {
+                "de": "Königsturm",
+                "hu": "Király-torony",
+                "ro": "Turnul Regelui",
+                "en": "King's Tower"
+              },
+              "tip_5lang": {
+                "de": "Kurzer Stopp vor der Abfahrt.",
+                "hu": "Rövid megálló távozás előtt.",
+                "ro": "Scurt popas înainte de plecare.",
+                "en": "Quick stop before leaving."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Fideuà",
+                "tip": "Nudelspeise mit Meeresfrüchten."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Fideuà",
+                "tip": "Tészta alapú tengeri étel."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Fideuà",
+                "tip": "Paste gătite cu fructe de mare."
+              }
+            ],
+            "en": [
+              {
+                "name": "Fideuà",
+                "tip": "Noodle-based seafood dish."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Cabanes d'en Gual",
+                "tip": "Ruhiger ländlicher Bereich.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Cabanes d'en Gual",
+                "tip": "Csendes vidéki terület.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Cabanes d'en Gual",
+                "tip": "Zonă rurală liniștită.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Cabanes d'en Gual",
+                "tip": "Quiet rural area nearby.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Handgefertigte Fächer",
+                "tip": "Ein typisches Souvenir der Region."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Kézzel készített legyező",
+                "tip": "A régió jellegzetes szuvenírje."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Evantaie lucrate manual",
+                "tip": "Un suvenir tipic al regiunii."
+              }
+            ],
+            "en": [
+              {
+                "name": "Handmade Fans",
+                "tip": "A typical souvenir of the region."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Das Parken an der Playa de la Concha ist im Sommer schwierig.",
+              "Nutzen Sie das Parkhaus in Marina d'Or."
+            ],
+            "hu": [
+              "A parkolás a Playa de la Concha-nál nyáron nehéz.",
+              "Használja a Marina d'Or parkolóházait."
+            ],
+            "ro": [
+              "Parcarea la Playa de la Concha este dificilă vara.",
+              "Folosiți parcările supraetajate din Marina d'Or."
+            ],
+            "en": [
+              "Parking at La Concha Beach is difficult in summer.",
+              "Use the parking garages in Marina d'Or."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto genießen wir den Komfort trockener Etappen zwischen den Sehenswürdigkeiten. Vormittags blicken wir vom Aussichtspunkt auf das regnerische Meer, gefolgt von einer Zeitreise im alten Gefängnis. Mittags und nachmittags bietet Marina d'Or zahlreiche Indoor-Optionen, während wir an der Playa de la Concha die Brandung beobachten. Der Tag endet sicher und trocken am Königsturm.",
+            "hu": "Autóval élvezzük a száraz szakaszokat a látnivalók között. Délelőtt a kilátóból tekintünk az esős tengerre, majd időutazást teszünk a régi börtönben. Délben és délután a Marina d'Or számos fedett lehetőséget kínál, miközben a La Concha strandon a hullámzást figyeljük. A napot biztonságban és szárazon zárjuk a Király-toronynál.",
+            "ro": "Cu mașina ne bucurăm de confortul etapelor uscate între obiective. Dimineața privim marea ploioasă de la punctul de observație, urmată de o călătorie în timp la vechea închisoare. La prânz și după-amiaza, Marina d'Or oferă numeroase opțiuni interioare. Ziua se încheie în siguranță și la uscat la Turnul Regelui.",
+            "en": "By car, we enjoy the comfort of dry travel between sights. In the morning, we look at the rainy sea from the viewpoint, followed by a time travel in the Old Prison. At noon and in the afternoon, Marina d'Or offers numerous indoor options while we watch the waves at La Concha Beach. The day ends safely and dry at the King's Tower."
+          },
+          "stops": [
+            {
+              "name": "Oropesa Viewpoint",
+              "tip_5lang": {
+                "de": "Blick bequem aus dem Auto möglich.",
+                "hu": "A kilátás az autóból is élvezhető.",
+                "ro": "Vedere confortabilă direct din mașină.",
+                "en": "View possible comfortably from the car."
+              }
+            },
+            {
+              "name": "Old Prison",
+              "tip_5lang": {
+                "de": "Hervorragender Schutz vor Regen.",
+                "hu": "Kiváló védelem az eső elől.",
+                "ro": "Protecție excelentă împotriva ploii.",
+                "en": "Excellent protection from the rain."
+              }
+            },
+            {
+              "name": "Marina d'Or",
+              "tip_5lang": {
+                "de": "Große Parkhäuser direkt vor Ort.",
+                "hu": "Nagy parkolóházak közvetlenül a helyszínen.",
+                "ro": "Parcări mari disponibile la fața locului.",
+                "en": "Large parking garages right on site."
+              }
+            },
+            {
+              "name": "La Concha Beach",
+              "tip_5lang": {
+                "de": "Kurze Wege vom Parkplatz zum Strand.",
+                "hu": "Rövid út a parkolótól a strandig.",
+                "ro": "Distanță scurtă de la parcare la plajă.",
+                "en": "Short walk from parking to the beach."
+              }
+            },
+            {
+              "name": "King's Tower",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Turmeingang.",
+                "hu": "Parkoljon közel a torony bejáratához.",
+                "ro": "Parcați aproape de intrarea turnului.",
+                "en": "Park close to the tower entrance."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie Parkhäuser in Marina d'Or.",
+              "Die Straßen können bei Regen rutschig sein.",
+              "Behalten Sie einen Schirm für kurze Wege bereit.",
+              "Vermeiden Sie tiefgelegene Parkplätze am Meer.",
+              "Die Sicht am Aussichtspunkt kann variieren."
+            ],
+            "hu": [
+              "Használja a Marina d'Or parkolóházait.",
+              "Az utak esőben csúszósak lehetnek.",
+              "Tartson esernyőt az autóban a sétákhoz.",
+              "Kerülje a mélyebben fekvő tengerparti parkolókat.",
+              "A kilátónál a látási viszonyok változhatnak."
+            ],
+            "ro": [
+              "Folosiți parcările etajate din Marina d'Or.",
+              "Drumurile pot fi alunecoase pe ploaie.",
+              "Țineți o umbrelă pregătită în mașină.",
+              "Evitați parcările joase de lângă mare.",
+              "Vizibilitatea la punctul de observație variază."
+            ],
+            "en": [
+              "Use parking garages in Marina d'Or.",
+              "Roads can be slippery during rain.",
+              "Keep an umbrella ready for short walks.",
+              "Avoid low-lying parking spots by the sea.",
+              "Visibility at the viewpoint can vary."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliche Küstenpanoramen erwarten uns auf dieser Autotour. Vormittags genießen wir die weite Sicht vom Aussichtspunkt und die Geschichte im alten Gefängnis. Mittags erkunden wir die weitläufige Anlage von Marina d'Or und entspannen an der sonnigen Playa de la Concha. Den Tag lassen wir entspannt am Königsturm ausklingen, während die Heizung im Auto für wohlige Wärme sorgt.",
+            "hu": "Téli tengerparti panorámák várnak ránk ezen az autós túrán. Délelőtt a tágas kilátást élvezzük a kilátóból és a történelmet a régi börtönben. Délben felfedezzük a Marina d'Or hatalmas területét, majd pihenünk a napsütéses La Concha strandon. A napot nyugodtan zárjuk a Király-toronynál, miközben az autó fűtése kellemes meleget ad.",
+            "ro": "Panorame de iarnă ne așteaptă în acest tur auto. Dimineața ne bucurăm de vederea largă de la punctul de observație și de istoria vechii închisori. La prânz explorăm complexul Marina d'Or și ne relaxăm pe plaja însorită La Concha. Încheiem ziua relaxați la Turnul Regelui, cu căldura primitoare din mașină.",
+            "en": "Winter coastal panoramas await us on this car tour. In the morning, we enjoy the wide views from the viewpoint and the history in the Old Prison. At noon, we explore the vast Marina d'Or complex and relax at the sunny La Concha Beach. We end the day in a relaxed way at the King's Tower, with the car heater providing cozy warmth."
+          },
+          "stops": [
+            {
+              "name": "Oropesa Viewpoint",
+              "tip_5lang": {
+                "de": "Perfekt für Fotos ohne kalte Füße.",
+                "hu": "Tökéletes fotókhoz, fázás nélkül.",
+                "ro": "Perfect pentru poze fără a îngheța.",
+                "en": "Perfect for photos without getting cold."
+              }
+            },
+            {
+              "name": "Old Prison",
+              "tip_5lang": {
+                "de": "Kühler Innenraum, Jacke anlassen.",
+                "hu": "Hűvös belső tér, hagyja magán a kabátot.",
+                "ro": "Interior răcoros, păstrați jacheta.",
+                "en": "Cool interior, keep your jacket on."
+              }
+            },
+            {
+              "name": "Marina d'Or",
+              "tip_5lang": {
+                "de": "Sonnige Außenbereiche genießen.",
+                "hu": "Élvezze a napsütötte külső részeket.",
+                "ro": "Bucurați-vă de zonele exterioare însorite.",
+                "en": "Enjoy the sunny outdoor areas."
+              }
+            },
+            {
+              "name": "La Concha Beach",
+              "tip_5lang": {
+                "de": "Mittagssonne im Auto-Windschatten nutzen.",
+                "hu": "Használja ki a déli napot a szélvédett részen.",
+                "ro": "Bucurați-vă de soarele de prânz la adăpost.",
+                "en": "Enjoy the midday sun in sheltered spots."
+              }
+            },
+            {
+              "name": "King's Tower",
+              "tip_5lang": {
+                "de": "Frühzeitige Rückfahrt wegen Dunkelheit.",
+                "hu": "Időben induljon vissza a sötétedés előtt.",
+                "ro": "Plecare timpurie din cauza întunericului.",
+                "en": "Early return recommended before dark."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Parkplatzsuche ist im Winter sehr einfach.",
+              "Nutzen Sie die Heizung zwischen den Stopps.",
+              "Sonnenbrillen sind wegen tiefstehender Sonne wichtig.",
+              "Prüfen Sie die Öffnungszeiten im Winter.",
+              "Die Küstenstraßen sind sehr leer und entspannt."
+            ],
+            "hu": [
+              "Télen a parkolóhelykeresés nagyon egyszerű.",
+              "Használja a fűtést a megállók között.",
+              "Napszemüveg fontos az alacsony napállás miatt.",
+              "Ellenőrizze a téli nyitvatartási időket.",
+              "A partmenti utak üresek és pihentetőek."
+            ],
+            "ro": [
+              "Găsirea parcării este foarte ușoară iarna.",
+              "Folosiți încălzirea între opriri.",
+              "Ochelarii de soare sunt importanți.",
+              "Verificați programul de iarnă.",
+              "Drumurile de coastă sunt libere și relaxante."
+            ],
+            "en": [
+              "Finding parking is very easy in winter.",
+              "Use the car heater between stops.",
+              "Sunglasses are important due to the low sun.",
+              "Check winter opening hours in advance.",
+              "Coastal roads are very empty and relaxed."
+            ]
+          }
+        }
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 8.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Marina d'Or Garten",
+            "hu": "Marina d'Or kert",
+            "ro": "Grădina Marina d'Or",
+            "en": "Marina d'Or Gardens"
+          },
+          "coords": [
+            0.145,
+            40.105
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Linie L1 hält direkt davor.",
+            "hu": "L1-es busz közvetlenül itt áll meg.",
+            "ro": "Linia L1 oprește direct în față.",
+            "en": "Bus L1 stops right in front."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg von Oropesa",
+            "hu": "Oropesai vár",
+            "ro": "Castelul din Oropesa",
+            "en": "Oropesa Castle"
+          },
+          "coords": [
+            0.1475,
+            40.0922
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Haltestelle Rathaus nutzen.",
+            "hu": "A városházi megállót használja.",
+            "ro": "Folosiți stația de la primărie.",
+            "en": "Use the City Hall stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo del Naipe",
+            "hu": "Játékkártya Múzeum",
+            "ro": "Muzeul Cărților de Joc",
+            "en": "Playing Card Museum"
+          },
+          "coords": [
+            0.1462,
+            40.0915
+          ],
+          "category": "museums",
+          "arrive_at": "12:40",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg vom Schloss.",
+            "hu": "Rövid séta a vártól.",
+            "ro": "Scurtă plimbare de la castel.",
+            "en": "Short walk from the castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa de la Concha",
+            "hu": "La Concha strand",
+            "ro": "Plaja La Concha",
+            "en": "La Concha Beach"
+          },
+          "coords": [
+            0.1465,
+            40.0845
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:30",
+          "stay_min": 150,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Zentraler Busknotenpunkt.",
+            "hu": "Központi buszos csomópont.",
+            "ro": "Nod central de autobuze.",
+            "en": "Central bus hub nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Leuchtturm von Oropesa",
+            "hu": "Oropesai világítótorony",
+            "ro": "Farul din Oropesa",
+            "en": "Oropesa Lighthouse"
+          },
+          "coords": [
+            0.1565,
+            40.0835
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "17:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Spaziergang am Meer inklusive.",
+            "hu": "Tengerparti séta is része.",
+            "ro": "Include o plimbare pe malul mării.",
+            "en": "Includes a seaside stroll."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie den lokalen Bus, um zuerst die Gärten von Marina d'Or im Norden zu besuchen. Fahren Sie zurück ins Zentrum zur Burg und zum Kartenspielmuseum. Mittags erreichen Sie bequem den Hauptstrand La Concha. Beenden Sie den Tag mit einer kurzen Fahrt oder einem Spaziergang zum Leuchtturm, um den Tag am Meer ausklingen zu lassen, bevor der letzte Bus zurückfährt.",
+        "hu": "Használja a helyi járatot, hogy először az északi Marina d'Or kertjeit látogassa meg. Utazzon vissza a központba a várhoz és a kártyamúzeumhoz. Délben könnyen elérheti a fő strandot, a La Conchát. A napot egy rövid buszozással vagy sétával zárja a világítótoronyhoz, ahol a tengerparton fejezheti be a napot az utolsó járat indulása előtt.",
+        "ro": "Folosiți autobuzul local pentru a vizita mai întâi grădinile Marina d'Or din nord. Reveniți în centru pentru castel și muzeul cărților de joc. La prânz, ajungeți ușor la plaja principală La Concha. Încheiați ziua cu o scurtă călătorie spre far, pentru a vă bucura de mare înainte de plecarea ultimului autobuz spre cazare.",
+        "en": "Use the local bus to first visit the Marina d'Or gardens in the north. Head back to the center for the castle and the card museum. At midday, you can easily reach the main beach, La Concha. End the day with a short ride or walk to the lighthouse, enjoying the sea before the last bus departs."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bunyols de Taronges",
+            "tip": "Orangen-Krapfen aus der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bunyols de Taronges",
+            "tip": "Helyi narancsos fánk."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bunyols de Taronges",
+            "tip": "Gogoși cu portocale locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Orange Bunyols",
+            "tip": "Local orange-flavored fritters."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parroquia de la Virgen",
+            "tip": "Kühler, ruhiger Ort.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parroquia de la Virgen",
+            "tip": "Hűvös, csendes hely.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parroquia de la Virgen",
+            "tip": "Loc răcoros și liniștit.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parish Church",
+            "tip": "Cool and quiet interior.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Turrón aus Castellón",
+            "tip": "Lokale Mandelsüßigkeit."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Castellóni turrón",
+            "tip": "Helyi mandulás édesség."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Turrón de Castellón",
+            "tip": "Dulce local cu migdale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Castellón Turrón",
+            "tip": "Local almond nougat."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine 10er-Karte für den Bus.",
+          "Die Busse fahren im Sommer bis spät in die Nacht."
+        ],
+        "hu": [
+          "Vásároljon 10 alkalmas gyűjtőjegyet a buszra.",
+          "A buszok nyáron késő éjszakáig közlekednek."
+        ],
+        "ro": [
+          "Cumpărați un abonament de 10 călătorii.",
+          "Autobuzele circulă până noaptea târziu vara."
+        ],
+        "en": [
+          "Buy a 10-trip pass for the bus.",
+          "Buses run until late at night in the summer."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie den lokalen Bus, um zuerst die Gärten von Marina d'Or im Norden zu besuchen. Fahren Sie zurück ins Zentrum zur Burg und zum Kartenspielmuseum. Mittags erreichen Sie bequem den Hauptstrand La Concha. Beenden Sie den Tag mit einer kurzen Fahrt oder einem Spaziergang zum Leuchtturm, um den Tag am Meer ausklingen zu lassen, bevor der letzte Bus zurückfährt.",
+            "hu": "Használja a helyi járatot, hogy először az északi Marina d'Or kertjeit látogassa meg. Utazzon vissza a központba a várhoz és a kártyamúzeumhoz. Délben könnyen elérheti a fő strandot, a La Conchát. A napot egy rövid buszozással vagy sétával zárja a világítótoronyhoz, ahol a tengerparton fejezheti be a napot az utolsó járat indulása előtt.",
+            "ro": "Folosiți autobuzul local pentru a vizita mai întâi grădinile Marina d'Or din nord. Reveniți în centru pentru castel și muzeul cărților de joc. La prânz, ajungeți ușor la plaja principală La Concha. Încheiați ziua cu o scurtă călătorie spre far, pentru a vă bucura de mare înainte de plecarea ultimului autobuz spre cazare.",
+            "en": "Use the local bus to first visit the Marina d'Or gardens in the north. Head back to the center for the castle and the card museum. At midday, you can easily reach the main beach, La Concha. End the day with a short ride or walk to the lighthouse, enjoying the sea before the last bus departs."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Marina d'Or Garten",
+                "hu": "Marina d'Or kert",
+                "ro": "Grădina Marina d'Or",
+                "en": "Marina d'Or Gardens"
+              },
+              "tip_5lang": {
+                "de": "Linie L1 hält direkt davor.",
+                "hu": "L1-es busz közvetlenül itt áll meg.",
+                "ro": "Linia L1 oprește direct în față.",
+                "en": "Bus L1 stops right in front."
+              }
+            },
+            {
+              "name": {
+                "de": "Burg von Oropesa",
+                "hu": "Oropesai vár",
+                "ro": "Castelul din Oropesa",
+                "en": "Oropesa Castle"
+              },
+              "tip_5lang": {
+                "de": "Haltestelle Rathaus nutzen.",
+                "hu": "A városházi megállót használja.",
+                "ro": "Folosiți stația de la primărie.",
+                "en": "Use the City Hall stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo del Naipe",
+                "hu": "Játékkártya Múzeum",
+                "ro": "Muzeul Cărților de Joc",
+                "en": "Playing Card Museum"
+              },
+              "tip_5lang": {
+                "de": "Kurzer Fußweg vom Schloss.",
+                "hu": "Rövid séta a vártól.",
+                "ro": "Scurtă plimbare de la castel.",
+                "en": "Short walk from the castle."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa de la Concha",
+                "hu": "La Concha strand",
+                "ro": "Plaja La Concha",
+                "en": "La Concha Beach"
+              },
+              "tip_5lang": {
+                "de": "Zentraler Busknotenpunkt.",
+                "hu": "Központi buszos csomópont.",
+                "ro": "Nod central de autobuze.",
+                "en": "Central bus hub nearby."
+              }
+            },
+            {
+              "name": {
+                "de": "Leuchtturm von Oropesa",
+                "hu": "Oropesai világítótorony",
+                "ro": "Farul din Oropesa",
+                "en": "Oropesa Lighthouse"
+              },
+              "tip_5lang": {
+                "de": "Spaziergang am Meer inklusive.",
+                "hu": "Tengerparti séta is része.",
+                "ro": "Include o plimbare pe malul mării.",
+                "en": "Includes a seaside stroll."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Bunyols de Taronges",
+                "tip": "Orangen-Krapfen aus der Region."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Bunyols de Taronges",
+                "tip": "Helyi narancsos fánk."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Bunyols de Taronges",
+                "tip": "Gogoși cu portocale locale."
+              }
+            ],
+            "en": [
+              {
+                "name": "Orange Bunyols",
+                "tip": "Local orange-flavored fritters."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Parroquia de la Virgen",
+                "tip": "Kühler, ruhiger Ort.",
+                "emoji": "🍃"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Parroquia de la Virgen",
+                "tip": "Hűvös, csendes hely.",
+                "emoji": "🍃"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Parroquia de la Virgen",
+                "tip": "Loc răcoros și liniștit.",
+                "emoji": "🍃"
+              }
+            ],
+            "en": [
+              {
+                "name": "Parish Church",
+                "tip": "Cool and quiet interior.",
+                "emoji": "🍃"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Turrón aus Castellón",
+                "tip": "Lokale Mandelsüßigkeit."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Castellóni turrón",
+                "tip": "Helyi mandulás édesség."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Turrón de Castellón",
+                "tip": "Dulce local cu migdale."
+              }
+            ],
+            "en": [
+              {
+                "name": "Castellón Turrón",
+                "tip": "Local almond nougat."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Kaufen Sie eine 10er-Karte für den Bus.",
+              "Die Busse fahren im Sommer bis spät in die Nacht."
+            ],
+            "hu": [
+              "Vásároljon 10 alkalmas gyűjtőjegyet a buszra.",
+              "A buszok nyáron késő éjszakáig közlekednek."
+            ],
+            "ro": [
+              "Cumpărați un abonament de 10 călătorii.",
+              "Autobuzele circulă până noaptea târziu vara."
+            ],
+            "en": [
+              "Buy a 10-trip pass for the bus.",
+              "Buses run until late at night in the summer."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit Bus und Bahn bewegen wir uns wetterunabhängig durch Oropesa. Vormittags bieten die Gärten von Marina d'Or und mittags die Burg historische Einblicke. Das Spielkartenmuseum am Nachmittag ist die perfekte Regenpause. Den Tag beenden wir an der Playa de la Concha und dem Leuchtturm, wobei die kurzen Wege zwischen Haltestellen und Zielen den Regen erträglich machen.",
+            "hu": "Busszal és vonattal időjárástól függetlenül közlekedünk Oropesában. Délelőtt a Marina d'Or kertjei, délben pedig a vár nyújt történelmi betekintést. A délutáni Játékkártya Múzeum a tökéletes esőszünet. A napot a La Concha strandon és a világítótoronynál zárjuk; a megállók és a célpontok közötti rövid távolságok elviselhetővé teszik az esőt.",
+            "ro": "Cu autobuzul și trenul ne deplasăm prin Oropesa indiferent de vreme. Dimineața grădinile Marina d'Or și la prânz castelul oferă perspective istorice. Muzeul cărților de joc este pauza perfectă de ploaie. Încheiem ziua la plaja La Concha și far, distanțele scurte făcând ploaia suportabilă.",
+            "en": "By bus and train, we move through Oropesa regardless of the weather. In the morning, the Marina d'Or gardens and at noon the castle provide historical insights. The Playing Card Museum in the afternoon is the perfect rain break. We end the day at La Concha Beach and the lighthouse, with short walks between stops making the rain bearable."
+          },
+          "stops": [
+            {
+              "name": "Marina d'Or Gardens",
+              "tip_5lang": {
+                "de": "Bushaltestelle ist nah am Eingang.",
+                "hu": "A buszmegálló közel van a bejárathoz.",
+                "ro": "Stația de autobuz este aproape de intrare.",
+                "en": "The bus stop is close to the entrance."
+              }
+            },
+            {
+              "name": "Oropesa Castle",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg vom Bahnhof/Zentrum.",
+                "hu": "Rövid séta a vasútállomástól/központtól.",
+                "ro": "Drum scurt de la gară/centru.",
+                "en": "Short walk from the station/center."
+              }
+            },
+            {
+              "name": "Playing Card Museum",
+              "tip_5lang": {
+                "de": "Idealer Ort, um auf den Bus zu warten.",
+                "hu": "Ideális hely a buszra való várakozáshoz.",
+                "ro": "Loc ideal pentru a aștepta autobuzul.",
+                "en": "Ideal place to wait for the bus."
+              }
+            },
+            {
+              "name": "La Concha Beach",
+              "tip_5lang": {
+                "de": "Überdachte Wartehäuschen in der Nähe.",
+                "hu": "Fedett várók találhatók a közelben.",
+                "ro": "Adăposturi acoperite în apropiere.",
+                "en": "Covered shelters available nearby."
+              }
+            },
+            {
+              "name": "Oropesa Lighthouse",
+              "tip_5lang": {
+                "de": "Letzten Bus für die Rückfahrt prüfen.",
+                "hu": "Ellenőrizze az utolsó buszt visszafelé.",
+                "ro": "Verificați ultimul autobuz de întoarcere.",
+                "en": "Check the last bus for the return trip."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die App für Echtzeit-Abfahrten.",
+              "Haltestellen bieten meist guten Regenschutz.",
+              "Tragen Sie Kleidung, die schnell trocknet.",
+              "Der Zug ist eine komfortable Option bei Regen.",
+              "Planen Sie Pufferzeiten für Verspätungen ein."
+            ],
+            "hu": [
+              "Használja az alkalmazást a valós idejű induláshoz.",
+              "A megállók általában jó esővédelmet nyújtanak.",
+              "Viseljen gyorsan száradó ruházatot.",
+              "A vonat kényelmes opció esős időben.",
+              "Tervezzen pufferidőt az esetleges késésekre."
+            ],
+            "ro": [
+              "Folosiți aplicația pentru plecări în timp real.",
+              "Stațiile oferă de obicei protecție la ploaie.",
+              "Purtați haine care se usucă repede.",
+              "Trenul este o opțiune confortabilă pe ploaie.",
+              "Planificați timp suplimentar pentru întârzieri."
+            ],
+            "en": [
+              "Use the app for real-time departures.",
+              "Bus stops usually offer good rain cover.",
+              "Wear clothing that dries quickly.",
+              "The train is a comfortable option in rain.",
+              "Plan buffer times for potential delays."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Entdeckungstour mit öffentlichen Verkehrsmitteln zeigt Oropesa von seiner ruhigen Seite. Vormittags besuchen wir die Gärten von Marina d'Or, gefolgt von der Burg im klaren Mittagslicht. Nachmittags fasziniert das Spielkartenmuseum, bevor wir an der Playa de la Concha und dem Leuchtturm den Winterabend am Meer genießen, immer mit guter Anbindung zurück zum Startpunkt.",
+            "hu": "Egy téli felfedező túra tömegközlekedéssel Oropesa csendes oldalát mutatja be. Délelőtt a Marina d'Or kertjeit látogatjuk meg, majd a várat a tiszta déli fényben. Délután a Játékkártya Múzeum nyújt kikapcsolódást, mielőtt a La Concha strandon és a világítótoronynál élveznénk a téli tengeri estét, mindig jó összeköttetéssel a kiindulópont felé.",
+            "ro": "Un tur de descoperire de iarnă cu transportul public arată partea liniștită a orașului Oropesa. Dimineața vizităm grădinile Marina d'Or, urmate de castel în lumina clară a prânzului. După-amiaza muzeul ne fascinează, înainte de a ne bucura de seara de iarnă la plaja La Concha și far.",
+            "en": "A winter discovery tour by public transport shows the quiet side of Oropesa. In the morning, we visit the Marina d'Or gardens, followed by the castle in the clear midday light. In the afternoon, the card museum fascinates us before we enjoy the winter evening at La Concha Beach and the lighthouse, always with good connections back."
+          },
+          "stops": [
+            {
+              "name": "Marina d'Or Gardens",
+              "tip_5lang": {
+                "de": "Winterfahrplan der Busse beachten.",
+                "hu": "Ügyeljen a buszok téli menetrendjére.",
+                "ro": "Atenție la orarul de iarnă al autobuzelor.",
+                "en": "Check the winter bus schedule."
+              }
+            },
+            {
+              "name": "Oropesa Castle",
+              "tip_5lang": {
+                "de": "Bahnhofsnähe ist im Winter vorteilhaft.",
+                "hu": "Az állomás közelsége télen előnyös.",
+                "ro": "Apropierea de gară este un avantaj iarna.",
+                "en": "Proximity to the station is a plus in winter."
+              }
+            },
+            {
+              "name": "Playing Card Museum",
+              "tip_5lang": {
+                "de": "Angenehmer Stopp zum Aufwärmen.",
+                "hu": "Kellemes megálló a felmelegedéshez.",
+                "ro": "O oprire plăcută pentru încălzire.",
+                "en": "A pleasant stop to warm up."
+              }
+            },
+            {
+              "name": "La Concha Beach",
+              "tip_5lang": {
+                "de": "Busse fahren hier seltener als im Sommer.",
+                "hu": "A buszok ritkábban járnak, mint nyáron.",
+                "ro": "Autobuzele circulă mai rar decât vara.",
+                "en": "Buses run less frequently than in summer."
+              }
+            },
+            {
+              "name": "Oropesa Lighthouse",
+              "tip_5lang": {
+                "de": "Letzte Verbindung vor 19:00 Uhr prüfen.",
+                "hu": "Ellenőrizze az utolsó járatot 19:00 előtt.",
+                "ro": "Verificați ultima conexiune înainte de 19:00.",
+                "en": "Check the last connection before 7 PM."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Der Winterfahrplan kann reduziert sein.",
+              "Züge sind meist pünktlicher als Busse.",
+              "Warten Sie in Cafés nahe der Haltestellen.",
+              "Kaufen Sie Tickets vorab am Automaten.",
+              "Die Sonne geht früh unter, planen Sie das ein."
+            ],
+            "hu": [
+              "A téli menetrend ritkított lehet.",
+              "A vonatok általában pontosabbak a buszoknál.",
+              "Várjon a megállók közeli kávézókban.",
+              "Vásárolja meg a jegyeket előre az automatánál.",
+              "A nap korán nyugszik, tervezze így a napot."
+            ],
+            "ro": [
+              "Orarul de iarnă poate fi redus.",
+              "Trenurile sunt de obicei mai punctuale.",
+              "Așteptați în cafenelele de lângă stații.",
+              "Cumpărați biletele în avans de la automate.",
+              "Soarele apune devreme, planificați corespunzător."
+            ],
+            "en": [
+              "The winter schedule may be reduced.",
+              "Trains are usually more punctual than buses.",
+              "Wait in cafes near the stops to stay warm.",
+              "Buy your tickets in advance at the machine.",
+              "The sun sets early, so plan your trip accordingly."
+            ]
+          }
+        }
+      }
+    }
+  },
+  "external_resources": {
+    "webcam": "https://www.skylinewebcams.com/es/webcam/espana/comunidad-valenciana/castellon/oropesa-del-mar.html",
+    "tourism_office": "https://www.oropesadelmar.es/turismo",
+    "events": "https://www.oropesadelmar.es/agenda",
+    "language_tips": {
+      "de": "Oropesa hat starken franzoesischen und niederlaendischen Tourismus, Englisch und Franzoesisch funktionieren gut. Im Marina d'Or-Komplex sind die meisten Angestellten mehrsprachig. Valencianisch ist co-offiziell, 'gracies' (statt 'gracias') wird wohlwollend zur Kenntnis genommen.",
+      "hu": "Oropesa nagy francia es holland turizmussal, az angol es a francia is mukodik. A Marina d'Or-komplexumban szinte mind tobbnyelvu az alkalmazott. A valenciai is hivatalos, 'gracies' (a 'gracias' helyett) megerto fogadtatasra szamithat.",
+      "ro": "Oropesa atrage multi turisti francezi si olandezi, engleza si franceza functioneaza bine. La complexul Marina d'Or aproape tot personalul e multilingv. Valenciana e co-oficiala, 'gracies' (in loc de 'gracias') e primit cu zambet.",
+      "en": "Oropesa pulls strong French and Dutch tourism, with English and French both working well. At the Marina d'Or complex nearly all staff are multilingual. Valencian is co-official, and 'gracies' instead of 'gracias' earns a friendly nod."
+    },
+    "best_time_to_visit": {
+      "de": "Mai bis Juni und September sind ideal, das Wasser hat dann 21 bis 24 Grad und die Straende sind ueberschaubar. Juli und August fuellen sich mit spanischen Familien aus Aragon und Madrid, Reservierungen Pflicht. Marina d'Or als Familienkomplex lohnt vor allem ausserhalb der Schulferien.",
+      "hu": "Majus-junius es szeptember ideal, a viz 21-24 fok es a strandok jol kezelhetok. Julius-augusztusban Aragonia es Madrid felol erkezo csaladok toltik fel, foglalas kotelezo. A Marina d'Or csaladi komplexum kulonosen iskolaszunet kivul eri meg.",
+      "ro": "Mai-iunie si septembrie sunt ideale, apa are 21-24 grade iar plajele sunt rezonabile. Iulie-august se umplu cu familii spaniole din Aragon si Madrid, rezervarile sunt obligatorii. Complexul Marina d'Or merita mai ales in afara vacantelor scolare.",
+      "en": "May-June and September are ideal, with 21-24C water and manageable beach crowds. July and August fill with Spanish families from Aragon and Madrid, requiring reservations. Marina d'Or family resort is best visited outside Spanish school holidays."
+    },
+    "neighborhood_warnings": {
+      "de": "Sehr sicherer Familienort, kaum Probleme auch nachts auf der Promenade. Marina d'Or-Komplex hat eigene Sicherheit, Strand und Wasserrutschen sehr gut betreut. Auf der CV-141 nach Castellon vorsichtig fahren, viele Kreisverkehre und im Sommer Stau.",
+      "hu": "Nagyon biztonsagos csaladbarat varos, ejszaka is alig akad gond a setanyon. A Marina d'Or sajat biztonsagi szolgalattal, strandok es csuszdak jol felugyeltek. A CV-141-en Castellon fele sok kreisverkehr, nyaron dugo, ovatosan.",
+      "ro": "Oras foarte sigur si potrivit familiilor, fara probleme nici noaptea pe faleza. Complexul Marina d'Or are securitate proprie, plaja si toboganele sunt bine supravegheate. Pe drumul CV-141 spre Castellon, atentie la sensurile giratorii si la ambuteiajele de vara.",
+      "en": "Very safe family town with almost no issues even at night on the promenade. The Marina d'Or resort has its own security, with well-supervised beaches and waterslides. Drive carefully on the CV-141 to Castellon, lots of roundabouts and summer traffic jams."
+    }
+  }
+}

@@ -1,0 +1,2289 @@
+{
+  "city_id": "mojacar",
+  "anchor": {
+    "name": "Mojácar Pueblo",
+    "coords": [
+      -1.8528,
+      37.1378
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 2.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Plaza Nueva",
+            "hu": "Plaza Nueva",
+            "ro": "Plaza Nueva",
+            "en": "Plaza Nueva"
+          },
+          "coords": [
+            -1.8522,
+            37.1385
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Früher kommen für die beste Aussicht über das Tal.",
+            "hu": "Érkezz korán a völgyre nyíló legszebb kilátásért.",
+            "ro": "Veniți devreme pentru cea mai bună priveliște asupra văii.",
+            "en": "Arrive early for the best views over the valley."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirador del Castillo",
+            "hu": "Mirador del Castillo",
+            "ro": "Mirador del Castillo",
+            "en": "Mirador del Castillo"
+          },
+          "coords": [
+            -1.8518,
+            37.1392
+          ],
+          "category": "natural features",
+          "arrive_at": "10:05",
+          "stay_min": 35,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Der höchste Punkt des Dorfes mit 360-Grad-Panorama.",
+            "hu": "A falu legmagasabb pontja 360 fokos panorámával.",
+            "ro": "Cel mai înalt punct al satului cu panoramă de 360 de grade.",
+            "en": "The highest point of the village with a 360-degree panorama."
+          }
+        },
+        {
+          "name": {
+            "de": "Iglesia de Santa María",
+            "hu": "Iglesia de Santa María",
+            "ro": "Iglesia de Santa María",
+            "en": "Iglesia de Santa María"
+          },
+          "coords": [
+            -1.8525,
+            37.1388
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:55",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die festungsartige Architektur der Kirche.",
+            "hu": "Csodáld meg a templom erőd szerű építészetét.",
+            "ro": "Admirați arhitectura de tip fortăreață a bisericii.",
+            "en": "Admire the fortress-like architecture of the church."
+          }
+        },
+        {
+          "name": {
+            "de": "Estatua de la Mojaquera",
+            "hu": "Estatua de la Mojaquera",
+            "ro": "Statuia Mojaquera",
+            "en": "Estatua de la Mojaquera"
+          },
+          "coords": [
+            -1.8528,
+            37.1382
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "11:55",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein Symbol für die Frauen, die Wasser aus der Quelle trugen.",
+            "hu": "A forrásból vizet hordó nők szimbóluma.",
+            "ro": "Un simbol al femeilor care cărau apă de la izvor.",
+            "en": "A symbol of the women who carried water from the fountain."
+          }
+        },
+        {
+          "name": {
+            "de": "Puerta de la Ciudad",
+            "hu": "Puerta de la Ciudad",
+            "ro": "Puerta de la Ciudad",
+            "en": "Puerta de la Ciudad"
+          },
+          "coords": [
+            -1.8532,
+            37.1375
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:30",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Das alte Stadttor aus dem 16. Jahrhundert mit Stadtwappen.",
+            "hu": "A 16. századi városkapu a város címerével.",
+            "ro": "Poarta veche a orașului din secolul al XVI-lea cu blazon.",
+            "en": "The old 16th-century city gate with the town's coat of arms."
+          }
+        },
+        {
+          "name": {
+            "de": "Arrabal",
+            "hu": "Arrabal",
+            "ro": "Arrabal",
+            "en": "Arrabal"
+          },
+          "coords": [
+            -1.8538,
+            37.137
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "13:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Das alte jüdische Viertel mit blumengeschmückten Gassen.",
+            "hu": "A régi zsidó negyed virágos szűk utcákkal.",
+            "ro": "Vechiul cartier evreiesc cu străduțe pline de flori.",
+            "en": "The old Jewish quarter with flower-filled narrow streets."
+          }
+        },
+        {
+          "name": {
+            "de": "Fuente Mora",
+            "hu": "Fuente Mora",
+            "ro": "Fuente Mora",
+            "en": "Fuente Mora"
+          },
+          "coords": [
+            -1.8545,
+            37.1365
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "15:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Historischer maurischer Brunnen, wo das Dorf einst kapitulierte.",
+            "hu": "Történelmi mór forrás, ahol a falu egykor megadta magát.",
+            "ro": "Izvor maur istoric unde satul a capitulat odinioară.",
+            "en": "Historical Moorish fountain where the village once surrendered."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen des weißen Dorfes auf der Plaza Nueva, wo der Blick über das Tal von Pirulico bis zur Küste reicht. Ein kurzer Aufstieg führt Sie zum Mirador del Castillo, dem höchsten Punkt, um die Struktur des Ortes zu verstehen. Mittags erkunden Sie die religiöse Stille der Iglesia de Santa María, einer ehemaligen Festung.\n\nDer Nachmittag gehört den malerischen Gassen. Treffen Sie die Mojaquera aus Marmor und schreiten Sie durch das alte Stadttor in das Viertel Arrabal. Hier scheinen die weiß getünchten Wände und die bunten Geranien die Zeit anzuhalten. Beenden Sie den Spaziergang an der Fuente Mora, dem maurischen Brunnen, dessen kühles Wasser seit Jahrhunderten fließt und ein Ort tiefer historischer Bedeutung ist.",
+        "hu": "Kezdje a napot a fehér falu szívében, a Plaza Nueva téren, ahonnan belátni az egész völgyet a tengerpartig. Egy rövid emelkedő után a Mirador del Castillo kilátóból csodálhatja meg a település szerkezetét. Délidőben fedezze fel az Iglesia de Santa María csendjét, amely egykor erődítményként is szolgált a kalózok ellen.\n\nA délutánt szentelje a festői utcáknak. Keresse fel a márványból faragott Mojaquera szobrát, majd lépjen át a régi városkapun az Arrabal negyedbe. Itt a vakítóan fehér falak és a színes muskátlik között megállni látszik az idő. A sétát a Fuente Mora mór forrásnál zárja, ahol a hűvös víz évszázadok óta folyik, emlékeztetve a város békés átadásának történetére.",
+        "ro": "Începeți ziua în inima satului alb, în Plaza Nueva, de unde priveliștea se întinde peste vale până la coastă. O scurtă urcare vă duce la Mirador del Castillo, cel mai înalt punct, pentru a înțelege structura așezării. La prânz, explorați liniștea religioasă de la Iglesia de Santa María, o fostă fortăreață.\n\nDupă-amiaza aparține străduțelor pitorești. Întâlniți statuia Mojaquera din marmură și treceți prin vechea poartă a orașului în cartierul Arrabal. Aici, pereții albiți și mușcatele colorate par să oprească timpul. Încheiați plimbarea la Fuente Mora, izvorul maur a cărui apă rece curge de secole, fiind un loc cu o adâncă semnificație istorică.",
+        "en": "Start your day in the heart of the white village at Plaza Nueva, where the view stretches across the valley to the coast. A short climb takes you to Mirador del Castillo, the highest point, to understand the village's layout. At midday, explore the religious silence of the Iglesia de Santa María, a former fortress against pirates.\n\nThe afternoon is for the picturesque streets. Meet the marble Mojaquera statue and walk through the old city gate into the Arrabal district. Here, among the whitewashed walls and colorful geraniums, time seems to stand still. End your walk at Fuente Mora, the Moorish fountain where cool water has flowed for centuries, marking a site of deep historical significance."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ajo Colorao",
+            "tip": "Ein traditioneller Fischeintopf mit Paprika und Kartoffeln, probieren Sie ihn im Restaurante Cabo Norte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ajo Colorao",
+            "tip": "Hagyományos halas egytálétel paprikával és burgonyával, kóstolja meg a Restaurante Cabo Norte-ban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ajo Colorao",
+            "tip": "O tocană tradițională de pește cu boia și cartofi, încercați-o la Restaurante Cabo Norte."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ajo Colorao",
+            "tip": "A traditional fish stew with paprika and potatoes, try it at Restaurante Cabo Norte."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Mirador de la Plaza Nueva",
+            "tip": "Perfekt für den Sonnenuntergang über den Sierras.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mirador de la Plaza Nueva",
+            "tip": "Tökéletes naplementéhez a Sierrák felett.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mirador de la Plaza Nueva",
+            "tip": "Perfect pentru apusul peste Sierras.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Mirador de la Plaza Nueva",
+            "tip": "Perfect for sunset over the Sierras.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Indalo Kunsthandwerk",
+            "tip": "Suchen Sie nach dem Indalo-Symbol als Glücksbringer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Indalo kézműves termékek",
+            "tip": "Keresse az Indalo szimbólumot mint szerencsehozó emléktárgyat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Artizanat Indalo",
+            "tip": "Căutați simbolul Indalo ca talisman norocos."
+          }
+        ],
+        "en": [
+          {
+            "name": "Indalo Crafts",
+            "tip": "Look for the Indalo symbol as a lucky souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für die steilen Gassen.",
+          "Besuchen Sie das Dorf früh am Morgen, um der Hitze zu entgehen.",
+          "Parken Sie am Fuße des Hügels und nutzen Sie den Aufzug.",
+          "Das Dorf ist labyrinthartig, lassen Sie sich einfach treiben."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt a meredek utcákhoz.",
+          "Látogassa meg a falut kora reggel a hőség elkerülése végett.",
+          "Parkoljon a domb alján és használja a liftet.",
+          "A falu labirintusszerű, hagyja magát elveszni benne."
+        ],
+        "ro": [
+          "Purtați încălțăminte comodă pentru străzile abrupte.",
+          "Vizitați satul dimineața devreme pentru a evita căldura.",
+          "Parcați la baza dealului și folosiți liftul.",
+          "Satul este ca un labirint, lăsați-vă purtați de pași."
+        ],
+        "en": [
+          "Wear comfortable shoes for the steep streets.",
+          "Visit the village early in the morning to avoid the heat.",
+          "Park at the bottom of the hill and use the elevator.",
+          "The village is labyrinthine, just let yourself drift."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag im Herzen des weißen Dorfes auf der Plaza Nueva, wo der Blick über das Tal von Pirulico bis zur Küste reicht. Ein kurzer Aufstieg führt Sie zum Mirador del Castillo, dem höchsten Punkt, um die Struktur des Ortes zu verstehen. Mittags erkunden Sie die religiöse Stille der Iglesia de Santa María, einer ehemaligen Festung.\n\nDer Nachmittag gehört den malerischen Gassen. Treffen Sie die Mojaquera aus Marmor und schreiten Sie durch das alte Stadttor in das Viertel Arrabal. Hier scheinen die weiß getünchten Wände und die bunten Geranien die Zeit anzuhalten. Beenden Sie den Spaziergang an der Fuente Mora, dem maurischen Brunnen, dessen kühles Wasser seit Jahrhunderten fließt und ein Ort tiefer historischer Bedeutung ist.",
+            "hu": "Kezdje a napot a fehér falu szívében, a Plaza Nueva téren, ahonnan belátni az egész völgyet a tengerpartig. Egy rövid emelkedő után a Mirador del Castillo kilátóból csodálhatja meg a település szerkezetét. Délidőben fedezze fel az Iglesia de Santa María csendjét, amely egykor erődítményként is szolgált a kalózok ellen.\n\nA délutánt szentelje a festői utcáknak. Keresse fel a márványból faragott Mojaquera szobrát, majd lépjen át a régi városkapun az Arrabal negyedbe. Itt a vakítóan fehér falak és a színes muskátlik között megállni látszik az idő. A sétát a Fuente Mora mór forrásnál zárja, ahol a hűvös víz évszázadok óta folyik, emlékeztetve a város békés átadásának történetére.",
+            "ro": "Începeți ziua în inima satului alb, în Plaza Nueva, de unde priveliștea se întinde peste vale până la coastă. O scurtă urcare vă duce la Mirador del Castillo, cel mai înalt punct, pentru a înțelege structura așezării. La prânz, explorați liniștea religioasă de la Iglesia de Santa María, o fostă fortăreață.\n\nDupă-amiaza aparține străduțelor pitorești. Întâlniți statuia Mojaquera din marmură și treceți prin vechea poartă a orașului în cartierul Arrabal. Aici, pereții albiți și mușcatele colorate par să oprească timpul. Încheiați plimbarea la Fuente Mora, izvorul maur a cărui apă rece curge de secole, fiind un loc cu o adâncă semnificație istorică.",
+            "en": "Start your day in the heart of the white village at Plaza Nueva, where the view stretches across the valley to the coast. A short climb takes you to Mirador del Castillo, the highest point, to understand the village's layout. At midday, explore the religious silence of the Iglesia de Santa María, a former fortress against pirates.\n\nThe afternoon is for the picturesque streets. Meet the marble Mojaquera statue and walk through the old city gate into the Arrabal district. Here, among the whitewashed walls and colorful geraniums, time seems to stand still. End your walk at Fuente Mora, the Moorish fountain where cool water has flowed for centuries, marking a site of deep historical significance."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Plaza Nueva",
+                "hu": "Plaza Nueva",
+                "ro": "Plaza Nueva",
+                "en": "Plaza Nueva"
+              },
+              "tip_5lang": {
+                "de": "Früher kommen für die beste Aussicht über das Tal.",
+                "hu": "Érkezz korán a völgyre nyíló legszebb kilátásért.",
+                "ro": "Veniți devreme pentru cea mai bună priveliște asupra văii.",
+                "en": "Arrive early for the best views over the valley."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador del Castillo",
+                "hu": "Mirador del Castillo",
+                "ro": "Mirador del Castillo",
+                "en": "Mirador del Castillo"
+              },
+              "tip_5lang": {
+                "de": "Der höchste Punkt des Dorfes mit 360-Grad-Panorama.",
+                "hu": "A falu legmagasabb pontja 360 fokos panorámával.",
+                "ro": "Cel mai înalt punct al satului cu panoramă de 360 de grade.",
+                "en": "The highest point of the village with a 360-degree panorama."
+              }
+            },
+            {
+              "name": {
+                "de": "Iglesia de Santa María",
+                "hu": "Iglesia de Santa María",
+                "ro": "Iglesia de Santa María",
+                "en": "Iglesia de Santa María"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die festungsartige Architektur der Kirche.",
+                "hu": "Csodáld meg a templom erőd szerű építészetét.",
+                "ro": "Admirați arhitectura de tip fortăreață a bisericii.",
+                "en": "Admire the fortress-like architecture of the church."
+              }
+            },
+            {
+              "name": {
+                "de": "Estatua de la Mojaquera",
+                "hu": "Estatua de la Mojaquera",
+                "ro": "Statuia Mojaquera",
+                "en": "Estatua de la Mojaquera"
+              },
+              "tip_5lang": {
+                "de": "Ein Symbol für die Frauen, die Wasser aus der Quelle trugen.",
+                "hu": "A forrásból vizet hordó nők szimbóluma.",
+                "ro": "Un simbol al femeilor care cărau apă de la izvor.",
+                "en": "A symbol of the women who carried water from the fountain."
+              }
+            },
+            {
+              "name": {
+                "de": "Puerta de la Ciudad",
+                "hu": "Puerta de la Ciudad",
+                "ro": "Puerta de la Ciudad",
+                "en": "Puerta de la Ciudad"
+              },
+              "tip_5lang": {
+                "de": "Das alte Stadttor aus dem 16. Jahrhundert mit Stadtwappen.",
+                "hu": "A 16. századi városkapu a város címerével.",
+                "ro": "Poarta veche a orașului din secolul al XVI-lea cu blazon.",
+                "en": "The old 16th-century city gate with the town's coat of arms."
+              }
+            },
+            {
+              "name": {
+                "de": "Arrabal",
+                "hu": "Arrabal",
+                "ro": "Arrabal",
+                "en": "Arrabal"
+              },
+              "tip_5lang": {
+                "de": "Das alte jüdische Viertel mit blumengeschmückten Gassen.",
+                "hu": "A régi zsidó negyed virágos szűk utcákkal.",
+                "ro": "Vechiul cartier evreiesc cu străduțe pline de flori.",
+                "en": "The old Jewish quarter with flower-filled narrow streets."
+              }
+            },
+            {
+              "name": {
+                "de": "Fuente Mora",
+                "hu": "Fuente Mora",
+                "ro": "Fuente Mora",
+                "en": "Fuente Mora"
+              },
+              "tip_5lang": {
+                "de": "Historischer maurischer Brunnen, wo das Dorf einst kapitulierte.",
+                "hu": "Történelmi mór forrás, ahol a falu egykor megadta magát.",
+                "ro": "Izvor maur istoric unde satul a capitulat odinioară.",
+                "en": "Historical Moorish fountain where the village once surrendered."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Ajo Colorao",
+                "tip": "Ein traditioneller Fischeintopf mit Paprika und Kartoffeln, probieren Sie ihn im Restaurante Cabo Norte."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Ajo Colorao",
+                "tip": "Hagyományos halas egytálétel paprikával és burgonyával, kóstolja meg a Restaurante Cabo Norte-ban."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Ajo Colorao",
+                "tip": "O tocană tradițională de pește cu boia și cartofi, încercați-o la Restaurante Cabo Norte."
+              }
+            ],
+            "en": [
+              {
+                "name": "Ajo Colorao",
+                "tip": "A traditional fish stew with paprika and potatoes, try it at Restaurante Cabo Norte."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Mirador de la Plaza Nueva",
+                "tip": "Perfekt für den Sonnenuntergang über den Sierras.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Mirador de la Plaza Nueva",
+                "tip": "Tökéletes naplementéhez a Sierrák felett.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Mirador de la Plaza Nueva",
+                "tip": "Perfect pentru apusul peste Sierras.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Mirador de la Plaza Nueva",
+                "tip": "Perfect for sunset over the Sierras.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Indalo Kunsthandwerk",
+                "tip": "Suchen Sie nach dem Indalo-Symbol als Glücksbringer."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Indalo kézműves termékek",
+                "tip": "Keresse az Indalo szimbólumot mint szerencsehozó emléktárgyat."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Artizanat Indalo",
+                "tip": "Căutați simbolul Indalo ca talisman norocos."
+              }
+            ],
+            "en": [
+              {
+                "name": "Indalo Crafts",
+                "tip": "Look for the Indalo symbol as a lucky souvenir."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Tragen Sie bequeme Schuhe für die steilen Gassen.",
+              "Besuchen Sie das Dorf früh am Morgen, um der Hitze zu entgehen.",
+              "Parken Sie am Fuße des Hügels und nutzen Sie den Aufzug.",
+              "Das Dorf ist labyrinthartig, lassen Sie sich einfach treiben."
+            ],
+            "hu": [
+              "Viseljen kényelmes cipőt a meredek utcákhoz.",
+              "Látogassa meg a falut kora reggel a hőség elkerülése végett.",
+              "Parkoljon a domb alján és használja a liftet.",
+              "A falu labirintusszerű, hagyja magát elveszni benne."
+            ],
+            "ro": [
+              "Purtați încălțăminte comodă pentru străzile abrupte.",
+              "Vizitați satul dimineața devreme pentru a evita căldura.",
+              "Parcați la baza dealului și folosiți liftul.",
+              "Satul este ca un labirint, lăsați-vă purtați de pași."
+            ],
+            "en": [
+              "Wear comfortable shoes for the steep streets.",
+              "Visit the village early in the morning to avoid the heat.",
+              "Park at the bottom of the hill and use the elevator.",
+              "The village is labyrinthine, just let yourself drift."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den nassen Morgen auf der Plaza Nueva, wo die Wolken tief über dem Tal hängen. Der weite Blick ist grau, aber die Atmosphäre ist ruhig und authentisch.\n\nMittags bietet die dicke Steinstruktur der Iglesia de Santa María perfekten Schutz vor den Güssen. Bewundern Sie die kühle Innenarchitektur, während draußen der Regen auf das Kopfsteinpflaster trommelt.\n\nNachmittags glänzen die weißen Wände des Arrabal-Viertels im feuchten Licht. Die engen Gassen wirken wie ein Labyrinth aus Spiegeln, in denen sich die wenigen Passanten schnell von Café zu Café bewegen.\n\nBeenden Sie den Tag an der Fuente Mora. Das Plätschern des Brunnens vermischt sich mit dem Regen, was den historischen Waschplatz in eine besonders melancholische und friedliche Stimmung taucht.",
+            "hu": "Kezdje az esős reggelt a Plaza Nueva-n, ahol a felhők mélyen ülnek a völgy felett. A kilátás szürke, de a hangulat csendes és hiteles.\n\nDélben az Iglesia de Santa María vastag kőfalai tökéletes védelmet nyújtanak a felhőszakadás elől. Csodálja meg a hűvös belső teret, miközben kint az eső kopog a macskaköveken.\n\nDélután az Arrabal negyed fehér falai csillognak a nedves fényben. A szűk utcák tükörlabirintusnak tűnnek, ahol a kevés járókelő gyorsan siet egyik kávézóból a másikba.\n\nZárja a napot a Fuente Mora-nál. A forrás csobogása keveredik az esővel, ami a történelmi mosóhelyet különösen melankolikus és békés hangulatba öltözteti.",
+            "ro": "Începeți dimineața ploioasă în Plaza Nueva, unde norii stau jos peste vale. Vederea largă este gri, dar atmosfera este liniștită și autentică.\n\nLa prânz, structura groasă de piatră a Iglesia de Santa María oferă adăpostul perfect împotriva averselor. Admirați interiorul răcoros în timp ce afară ploaia bate în pavaj.\n\nDupă-amiaza, pereții albi ai cartierului Arrabal strălucesc în lumina umedă. Străzile înguste par un labirint de oglinzi, unde puținii trecători se grăbesc de la o cafenea la alta.\n\nÎncheiați ziua la Fuente Mora. Susurul fântânii se amestecă cu ploaia, scufundând locul istoric de spălare într-o stare deosebit de melancolică și pașnică.",
+            "en": "Start the rainy morning at Plaza Nueva, where clouds hang low over the valley. The wide view is grey, but the atmosphere is quiet and authentic.\n\nAt noon, the thick stone structure of Iglesia de Santa María offers perfect shelter from the downpours. Admire the cool interior while the rain drums on the cobblestones outside.\n\nIn the afternoon, the white walls of the Arrabal district glisten in the damp light. The narrow streets look like a labyrinth of mirrors, where few passers-by hurry from cafe to cafe.\n\nEnd the day at Fuente Mora. The splashing of the fountain mixes with the rain, wrapping the historic washing place in a particularly melancholic and peaceful mood."
+          },
+          "stops": [
+            {
+              "name": "Plaza Nueva",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkaden der Cafés als Unterstand.",
+                "hu": "Használja a kávézók árkádjait menedékként.",
+                "ro": "Folosiți arcadele cafenelelor ca adăpost.",
+                "en": "Use the cafe arcades as a shelter."
+              }
+            },
+            {
+              "name": "Mirador del Castillo",
+              "tip_5lang": {
+                "de": "Vorsicht, die Steinplatten sind bei Nässe extrem rutschig.",
+                "hu": "Vigyázat, a kőlapok nedvesen rendkívül csúszósak.",
+                "ro": "Atenție, plăcile de piatră sunt extrem de alunecoase.",
+                "en": "Watch out, the stone slabs are extremely slippery when wet."
+              }
+            },
+            {
+              "name": "Iglesia de Santa María",
+              "tip_5lang": {
+                "de": "Idealer Ort, um einen starken Schauer trocken abzuwarten.",
+                "hu": "Ideális hely egy erős zápor száraz megvárásához.",
+                "ro": "Loc ideal pentru a aștepta o aversă puternică la uscat.",
+                "en": "Ideal place to wait out a heavy shower in the dry."
+              }
+            },
+            {
+              "name": "Estatua de la Mojaquera",
+              "tip_5lang": {
+                "de": "Ein schnelles Foto reicht, hier gibt es kaum Schutz.",
+                "hu": "Egy gyors fotó elég, itt alig van fedezék.",
+                "ro": "O poză rapidă este suficientă, aici nu prea există adăpost.",
+                "en": "A quick photo is enough, there is little shelter here."
+              }
+            },
+            {
+              "name": "Puerta de la Ciudad",
+              "tip_5lang": {
+                "de": "Der Torbogen bietet kurzzeitigen Schutz vor Regen.",
+                "hu": "A kapualj rövid ideig védelmet nyújt az eső elől.",
+                "ro": "Poarta oferă adăpost temporar împotriva ploii.",
+                "en": "The archway offers temporary shelter from the rain."
+              }
+            },
+            {
+              "name": "Arrabal",
+              "tip_5lang": {
+                "de": "Besuchen Sie ein lokales Handwerksgeschäft zum Aufwärmen.",
+                "hu": "Látogasson el egy kézműves boltba melegedni.",
+                "ro": "Vizitați un magazin de artizanat local pentru a vă încălzi.",
+                "en": "Visit a local craft shop to warm up."
+              }
+            },
+            {
+              "name": "Fuente Mora",
+              "tip_5lang": {
+                "de": "Das Dach über den Waschbecken hält Sie trocken.",
+                "hu": "A mosóvályúk feletti tető szárazon tartja Önt.",
+                "ro": "Acoperișul de deasupra chiuvetelor vă menține uscat.",
+                "en": "The roof over the washbasins keeps you dry."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Schuhe mit gutem Profil, da Mojácars Gassen sehr steil und glatt sind.",
+              "Ein Taschenschirm ist in den engen Gassen praktischer als ein großer Stockschirm.",
+              "Die Luftfeuchtigkeit lässt die weißen Häuser besonders hell leuchten.",
+              "Nutzen Sie die Regenpausen für Fotos vom Mirador."
+            ],
+            "hu": [
+              "Viseljen jó tapadású cipőt, mert Mojácar utcái meredekek és csúszósak.",
+              "Az összecsukható esernyő praktikusabb a szűk utcákban, mint a boternyő.",
+              "A páratartalom miatt a fehér házak különösen fényesen ragyognak.",
+              "Használja ki az esőszüneteket a kilátónál készített fotókhoz."
+            ],
+            "ro": [
+              "Purtați încălțăminte cu aderență bună, deoarece străzile sunt abrupte și lucioase.",
+              "O umbrelă pliabilă este mai practică pe străzile înguste decât una lungă.",
+              "Umiditatea face ca casele albe să strălucească deosebit de tare.",
+              "Profită de pauzele de ploaie pentru fotografii de la Mirador."
+            ],
+            "en": [
+              "Wear shoes with good grip as Mojácar's streets are steep and slippery.",
+              "A foldable umbrella is more practical in narrow streets than a large one.",
+              "The humidity makes the white houses glow particularly bright.",
+              "Take advantage of the breaks in the rain for photos from the viewpoint."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen in Mojácar ist frisch und klar. Auf der Plaza Nueva genießen Sie die sanfte Dezembersonne, die den Ort langsam aufwärmt, während die Touristenmassen fehlen.\n\nMittags steht die Sonne tief und wirft lange Schatten durch die Gassen zur Kirche. Es ist die beste Zeit für Architekturfotos ohne das grelle Licht des Sommers.\n\nNachmittags sinken die Temperaturen spürbar, sobald die Sonne hinter den Hügeln verschwindet. Der Arrabal wirkt in der goldenen Stunde vor dem frühen Sonnenuntergang fast magisch.\n\nAbends füllt sich die Luft mit dem Duft von Kaminfeuer. An der Fuente Mora ist es nun kühl, aber die Ruhe des winterlichen Dorfes ist ein einzigartiges Erlebnis.",
+            "hu": "A téli reggel Mojácarban friss és tiszta. A Plaza Nueva-n élvezze a lágy decemberi napsütést, amely lassan felmelegíti a várost, miközben a turisták tömege hiányzik.\n\nDélben a nap alacsonyan jár, hosszú árnyékokat vetve a templom felé vezető utcákban. Ez a legjobb időszak az építészeti fotókhoz a nyári vakító fény nélkül.\n\nDélután a hőmérséklet érezhetően süllyed, amint a nap eltűnik a dombok mögött. Az Arrabal szinte varázslatosnak tűnik a korai naplemente előtti aranyórában.\n\nEste a levegő megtelik a kandallók illatával. A Fuente Mora-nál ilyenkor már hűvös van, de a téli falu nyugalma egyedülálló élmény.",
+            "ro": "Dimineața de iarnă în Mojácar este proaspătă și senină. În Plaza Nueva vă bucurați de soarele blând de decembrie, care încălzește încet orașul, în timp ce masele de turiști lipsesc.\n\nLa prânz, soarele este jos, aruncând umbre lungi prin străzile spre biserică. Este cel mai bun moment pentru fotografii de arhitectură fără lumina orbitoare a verii.\n\nDupă-amiaza, temperaturile scad vizibil imediat ce soarele dispare după dealuri. Arrabal pare aproape magic în ora de aur dinaintea apusului timpuriu.\n\nSeara, aerul se umple de mirosul focului din cămine. La Fuente Mora este acum răcoare, dar liniștea satului de iarnă este o experiență unică.",
+            "en": "The winter morning in Mojácar is fresh and clear. At Plaza Nueva, enjoy the gentle December sun slowly warming the town while the tourist crowds are absent.\n\nAt noon, the sun is low, casting long shadows through the alleys towards the church. It is the best time for architectural photos without the harsh glare of summer.\n\nIn the afternoon, temperatures drop noticeably as soon as the sun disappears behind the hills. Arrabal looks almost magical in the golden hour before the early sunset.\n\nIn the evening, the air fills with the scent of wood fires. At Fuente Mora, it is cool now, but the peace of the winter village is a unique experience."
+          },
+          "stops": [
+            {
+              "name": "Plaza Nueva",
+              "tip_5lang": {
+                "de": "Suchen Sie sich einen Platz direkt in der Sonne.",
+                "hu": "Keressen egy helyet közvetlenül a napon.",
+                "ro": "Căutați un loc direct în soare.",
+                "en": "Find a spot directly in the sun."
+              }
+            },
+            {
+              "name": "Mirador del Castillo",
+              "tip_5lang": {
+                "de": "Hier weht im Winter oft ein scharfer Wind.",
+                "hu": "Télen itt gyakran fúj éles szél.",
+                "ro": "Aici suflă adesea un vânt tăios iarna.",
+                "en": "A sharp wind often blows here in winter."
+              }
+            },
+            {
+              "name": "Iglesia de Santa María",
+              "tip_5lang": {
+                "de": "Innen ist es oft wärmer als in den schattigen Gassen.",
+                "hu": "Bent gyakran melegebb van, mint az árnyékos utcákban.",
+                "ro": "În interior este adesea mai cald decât pe străzile umbrite.",
+                "en": "It is often warmer inside than in the shaded alleys."
+              }
+            },
+            {
+              "name": "Estatua de la Mojaquera",
+              "tip_5lang": {
+                "de": "Die Marmorstatue wirkt im Winterlicht besonders edel.",
+                "hu": "A márványszobor különösen nemes a téli fényben.",
+                "ro": "Statuia de marmură arată deosebit de nobil în lumina iernii.",
+                "en": "The marble statue looks particularly noble in the winter light."
+              }
+            },
+            {
+              "name": "Puerta de la Ciudad",
+              "tip_5lang": {
+                "de": "Das Tor markiert die Grenze zum windgeschützten Viertel.",
+                "hu": "A kapu jelzi a szélvédett negyed határát.",
+                "ro": "Poarta marchează granița cu cartierul ferit de vânt.",
+                "en": "The gate marks the border to the wind-sheltered district."
+              }
+            },
+            {
+              "name": "Arrabal",
+              "tip_5lang": {
+                "de": "Genießen Sie den Sonnenuntergang gegen 18:00 Uhr.",
+                "hu": "Élvezze a naplementét 18:00 óra körül.",
+                "ro": "Bucurați-vă de apusul soarelui în jurul orei 18:00.",
+                "en": "Enjoy the sunset around 6:00 PM."
+              }
+            },
+            {
+              "name": "Fuente Mora",
+              "tip_5lang": {
+                "de": "Das Wasser fühlt sich im Vergleich zur Luft warm an.",
+                "hu": "A víz a levegőhöz képest melegnek érződik.",
+                "ro": "Apa se simte caldă în comparație cu aerul.",
+                "en": "The water feels warm compared to the air."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Zwiebelprinzip: In der Sonne ist es warm, im Schatten sofort kühl.",
+              "Die Sonne geht im Winter bereits gegen 17:30 - 18:00 Uhr unter.",
+              "Viele Cafés haben Heizstrahler für die Abendstunden.",
+              "Die Fernsicht auf die schneebedeckte Sierra Nevada ist oft möglich."
+            ],
+            "hu": [
+              "Réteges öltözködés: a napon meleg van, az árnyékban rögtön hűvös.",
+              "A nap télen már 17:30 - 18:00 körül lemegy.",
+              "Sok kávézóban van hősugárzó az esti órákra.",
+              "Gyakran látni távolban a Sierra Nevada havas csúcsait."
+            ],
+            "ro": [
+              "Principiul cepei: la soare este cald, la umbră se răcește imediat.",
+              "Soarele apune deja în jurul orei 17:30 - 18:00 iarna.",
+              "Multe cafenele au radiatoare pentru orele serii.",
+              "Vederea spre Sierra Nevada înzăpezită este adesea posibilă."
+            ],
+            "en": [
+              "Layering: it's warm in the sun, immediately cool in the shade.",
+              "The sun sets as early as 5:30 - 6:00 PM in winter.",
+              "Many cafes have patio heaters for the evening hours.",
+              "Distant views of the snow-capped Sierra Nevada are often possible."
+            ]
+          }
+        }
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "14:30",
+      "total_km": 12.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Fuente Mora",
+            "hu": "Fuente Mora",
+            "ro": "Fuente Mora",
+            "en": "Fuente Mora"
+          },
+          "coords": [
+            -1.8545,
+            37.1365
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Füllen Sie Ihre Wasserflaschen hier mit frischem Quellwasser auf.",
+            "hu": "Töltse fel kulacsait friss forrásvízzel.",
+            "ro": "Umpleți sticlele cu apă proaspătă de izvor aici.",
+            "en": "Fill your water bottles with fresh spring water here."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre de Macenas",
+            "hu": "Torre de Macenas",
+            "ro": "Torre de Macenas",
+            "en": "Torre de Macenas"
+          },
+          "coords": [
+            -1.8485,
+            37.0875
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 6.2,
+          "tip_5lang": {
+            "de": "Ein Wachturm aus dem 18. Jahrhundert direkt am Meer.",
+            "hu": "18. századi őrtorony közvetlenül a tengerparton.",
+            "ro": "Un turn de veghe din secolul al XVIII-lea chiar lângă mare.",
+            "en": "An 18th-century watchtower right by the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa del Sombrerico",
+            "hu": "Playa del Sombrerico",
+            "ro": "Playa del Sombrerico",
+            "en": "Playa del Sombrerico"
+          },
+          "coords": [
+            -1.8425,
+            37.0785
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Vulkanische Felsen und kristallklares Wasser laden zum Baden ein.",
+            "hu": "Vulkanikus sziklák és kristálytiszta víz várja a fürdőzőket.",
+            "ro": "Stânci vulcanice și apă cristalină care vă invită la baie.",
+            "en": "Volcanic rocks and crystal-clear water invite you for a swim."
+          }
+        },
+        {
+          "name": {
+            "de": "El Torreón",
+            "hu": "El Torreón",
+            "ro": "El Torreón",
+            "en": "El Torreón"
+          },
+          "coords": [
+            -1.851,
+            37.138
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 7.5,
+          "tip_5lang": {
+            "de": "Ein ehemaliger Mautturm mit Blick auf die verwinkelten Gassen.",
+            "hu": "Egykori vámszedő torony kilátással a kanyargós utcákra.",
+            "ro": "Un fost turn de taxare cu vedere la străduțele întortocheate.",
+            "en": "A former toll tower with views of the winding streets."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Radtour verbindet das Bergdorf mit der wilden Küste. Starten Sie an der Fuente Mora, um die Flaschen zu füllen, und fahren Sie bergab zum Meer. Die Strecke führt Sie zur einsamen Torre de Macenas, einem Zeugnis der Küstenverteidigung.\n\nNach der Anstrengung bietet die Playa del Sombrerico die perfekte Kulisse für eine lange Pause im türkisfarbenen Wasser. Der Rückweg führt stetig bergauf zurück ins Dorf, wo Sie am El Torreón den Blick über die weißen Dächer schweifen lassen können, bevor Sie den Tag gemütlich ausklingen lassen.",
+        "hu": "Ez a kerékpártúra összeköti a hegyi falut a vad tengerparttal. Kezdje a Fuente Mora forrásnál a kulacsok feltöltésével, majd guruljon le a tengerhez. Az útvonal a magányos Torre de Macenas toronyhoz vezet, amely a partvédelmi rendszer része volt.\n\nA megerőltetés után a Playa del Sombrerico kínál tökéletes helyszínt egy hosszú pihenőre a türkizkék vízben. A visszaút folyamatosan emelkedik a falu felé, ahol az El Torreón toronynál tekinthet végig a fehér tetőkön, mielőtt kényelmesen befejezné a napot.",
+        "ro": "Acest tur cu bicicleta leagă satul de munte de coasta sălbatică. Începeți la Fuente Mora pentru a umple sticlele și coborâți spre mare. Traseul vă duce la singuraticul Torre de Macenas, o mărturie a apărării de coastă.\n\nDupă efort, Playa del Sombrerico oferă cadrul perfect pentru o pauză lungă în apa turcoaz. Drumul de întoarcere urcă constant înapoi în sat, unde la El Torreón puteți admira acoperișurile albe înainte de a încheia ziua relaxat.",
+        "en": "This bike tour connects the mountain village with the wild coast. Start at Fuente Mora to fill your bottles, then coast down to the sea. The route takes you to the solitary Torre de Macenas, a witness to coastal defense.\n\nAfter the exertion, Playa del Sombrerico provides the perfect setting for a long break in the turquoise water. The return journey climbs steadily back to the village, where at El Torreón you can look out over the white roofs before finishing the day comfortably."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gurullos con Conejo",
+            "tip": "Traditionelle Pasta mit Kaninchen, nahrhaft nach einer Radtour."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gurullos con Conejo",
+            "tip": "Hagyományos tészta nyúlhússal, tápláló egy kerékpártúra után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gurullos con Conejo",
+            "tip": "Paste tradiționale cu iepure, hrănitoare după o tură cu bicicleta."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gurullos con Conejo",
+            "tip": "Traditional pasta with rabbit, nourishing after a bike ride."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Playa del Sombrerico",
+            "tip": "Ruhe abseits der großen Touristenmassen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Playa del Sombrerico",
+            "tip": "Csend a nagy tömegektől távol.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Playa del Sombrerico",
+            "tip": "Liniște departe de masele mari de turiști.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Playa del Sombrerico",
+            "tip": "Peace away from the large tourist crowds.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokales Olivenöl",
+            "tip": "In den kleinen Läden im Dorf erhältlich."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi olívaolaj",
+            "tip": "A falu kis boltjaiban kapható."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ulei de măsline local",
+            "tip": "Disponibil în micile magazine din sat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Olive Oil",
+            "tip": "Available in the small shops in the village."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie Ihre Bremsen vor der Abfahrt zum Strand.",
+          "Die Küstenstraße ist unbefestigt, ein Mountainbike wird empfohlen.",
+          "Nehmen Sie genug Wasser mit, es gibt wenig Schatten.",
+          "Achten Sie auf Wanderer auf den Küstenwegen."
+        ],
+        "hu": [
+          "Ellenőrizze a fékeket a partra indulás előtt.",
+          "A tengerparti út burkolatlan, hegyi kerékpár ajánlott.",
+          "Vigyen elég vizet, kevés az árnyék.",
+          "Figyeljen a túrázókra a tengerparti ösvényeken."
+        ],
+        "ro": [
+          "Verificați frânele înainte de coborârea spre plajă.",
+          "Drumul de coastă este neasfaltat, se recomandă o bicicletă de munte.",
+          "Luați suficientă apă, există puțină umbră.",
+          "Atenție la drumeți pe potecile de coastă."
+        ],
+        "en": [
+          "Check your brakes before descending to the beach.",
+          "The coastal road is unpaved; a mountain bike is recommended.",
+          "Take enough water, there is little shade.",
+          "Watch out for hikers on the coastal paths."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Diese Radtour verbindet das Bergdorf mit der wilden Küste. Starten Sie an der Fuente Mora, um die Flaschen zu füllen, und fahren Sie bergab zum Meer. Die Strecke führt Sie zur einsamen Torre de Macenas, einem Zeugnis der Küstenverteidigung.\n\nNach der Anstrengung bietet die Playa del Sombrerico die perfekte Kulisse für eine lange Pause im türkisfarbenen Wasser. Der Rückweg führt stetig bergauf zurück ins Dorf, wo Sie am El Torreón den Blick über die weißen Dächer schweifen lassen können, bevor Sie den Tag gemütlich ausklingen lassen.",
+            "hu": "Ez a kerékpártúra összeköti a hegyi falut a vad tengerparttal. Kezdje a Fuente Mora forrásnál a kulacsok feltöltésével, majd guruljon le a tengerhez. Az útvonal a magányos Torre de Macenas toronyhoz vezet, amely a partvédelmi rendszer része volt.\n\nA megerőltetés után a Playa del Sombrerico kínál tökéletes helyszínt egy hosszú pihenőre a türkizkék vízben. A visszaút folyamatosan emelkedik a falu felé, ahol az El Torreón toronynál tekinthet végig a fehér tetőkön, mielőtt kényelmesen befejezné a napot.",
+            "ro": "Acest tur cu bicicleta leagă satul de munte de coasta sălbatică. Începeți la Fuente Mora pentru a umple sticlele și coborâți spre mare. Traseul vă duce la singuraticul Torre de Macenas, o mărturie a apărării de coastă.\n\nDupă efort, Playa del Sombrerico oferă cadrul perfect pentru o pauză lungă în apa turcoaz. Drumul de întoarcere urcă constant înapoi în sat, unde la El Torreón puteți admira acoperișurile albe înainte de a încheia ziua relaxat.",
+            "en": "This bike tour connects the mountain village with the wild coast. Start at Fuente Mora to fill your bottles, then coast down to the sea. The route takes you to the solitary Torre de Macenas, a witness to coastal defense.\n\nAfter the exertion, Playa del Sombrerico provides the perfect setting for a long break in the turquoise water. The return journey climbs steadily back to the village, where at El Torreón you can look out over the white roofs before finishing the day comfortably."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Fuente Mora",
+                "hu": "Fuente Mora",
+                "ro": "Fuente Mora",
+                "en": "Fuente Mora"
+              },
+              "tip_5lang": {
+                "de": "Füllen Sie Ihre Wasserflaschen hier mit frischem Quellwasser auf.",
+                "hu": "Töltse fel kulacsait friss forrásvízzel.",
+                "ro": "Umpleți sticlele cu apă proaspătă de izvor aici.",
+                "en": "Fill your water bottles with fresh spring water here."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre de Macenas",
+                "hu": "Torre de Macenas",
+                "ro": "Torre de Macenas",
+                "en": "Torre de Macenas"
+              },
+              "tip_5lang": {
+                "de": "Ein Wachturm aus dem 18. Jahrhundert direkt am Meer.",
+                "hu": "18. századi őrtorony közvetlenül a tengerparton.",
+                "ro": "Un turn de veghe din secolul al XVIII-lea chiar lângă mare.",
+                "en": "An 18th-century watchtower right by the sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa del Sombrerico",
+                "hu": "Playa del Sombrerico",
+                "ro": "Playa del Sombrerico",
+                "en": "Playa del Sombrerico"
+              },
+              "tip_5lang": {
+                "de": "Vulkanische Felsen und kristallklares Wasser laden zum Baden ein.",
+                "hu": "Vulkanikus sziklák és kristálytiszta víz várja a fürdőzőket.",
+                "ro": "Stânci vulcanice și apă cristalină care vă invită la baie.",
+                "en": "Volcanic rocks and crystal-clear water invite you for a swim."
+              }
+            },
+            {
+              "name": {
+                "de": "El Torreón",
+                "hu": "El Torreón",
+                "ro": "El Torreón",
+                "en": "El Torreón"
+              },
+              "tip_5lang": {
+                "de": "Ein ehemaliger Mautturm mit Blick auf die verwinkelten Gassen.",
+                "hu": "Egykori vámszedő torony kilátással a kanyargós utcákra.",
+                "ro": "Un fost turn de taxare cu vedere la străduțele întortocheate.",
+                "en": "A former toll tower with views of the winding streets."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Gurullos con Conejo",
+                "tip": "Traditionelle Pasta mit Kaninchen, nahrhaft nach einer Radtour."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Gurullos con Conejo",
+                "tip": "Hagyományos tészta nyúlhússal, tápláló egy kerékpártúra után."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Gurullos con Conejo",
+                "tip": "Paste tradiționale cu iepure, hrănitoare după o tură cu bicicleta."
+              }
+            ],
+            "en": [
+              {
+                "name": "Gurullos con Conejo",
+                "tip": "Traditional pasta with rabbit, nourishing after a bike ride."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Playa del Sombrerico",
+                "tip": "Ruhe abseits der großen Touristenmassen.",
+                "emoji": "🍃"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Playa del Sombrerico",
+                "tip": "Csend a nagy tömegektől távol.",
+                "emoji": "🍃"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Playa del Sombrerico",
+                "tip": "Liniște departe de masele mari de turiști.",
+                "emoji": "🍃"
+              }
+            ],
+            "en": [
+              {
+                "name": "Playa del Sombrerico",
+                "tip": "Peace away from the large tourist crowds.",
+                "emoji": "🍃"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Lokales Olivenöl",
+                "tip": "In den kleinen Läden im Dorf erhältlich."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Helyi olívaolaj",
+                "tip": "A falu kis boltjaiban kapható."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Ulei de măsline local",
+                "tip": "Disponibil în micile magazine din sat."
+              }
+            ],
+            "en": [
+              {
+                "name": "Local Olive Oil",
+                "tip": "Available in the small shops in the village."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Bremsen vor der Abfahrt zum Strand.",
+              "Die Küstenstraße ist unbefestigt, ein Mountainbike wird empfohlen.",
+              "Nehmen Sie genug Wasser mit, es gibt wenig Schatten.",
+              "Achten Sie auf Wanderer auf den Küstenwegen."
+            ],
+            "hu": [
+              "Ellenőrizze a fékeket a partra indulás előtt.",
+              "A tengerparti út burkolatlan, hegyi kerékpár ajánlott.",
+              "Vigyen elég vizet, kevés az árnyék.",
+              "Figyeljen a túrázókra a tengerparti ösvényeken."
+            ],
+            "ro": [
+              "Verificați frânele înainte de coborârea spre plajă.",
+              "Drumul de coastă este neasfaltat, se recomandă o bicicletă de munte.",
+              "Luați suficientă apă, există puțină umbră.",
+              "Atenție la drumeți pe potecile de coastă."
+            ],
+            "en": [
+              "Check your brakes before descending to the beach.",
+              "The coastal road is unpaved; a mountain bike is recommended.",
+              "Take enough water, there is little shade.",
+              "Watch out for hikers on the coastal paths."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie vorsichtig an der Fuente Mora. Die nassen Straßen erfordern volle Konzentration auf den ersten Metern bergab.\n\nDie Fahrt zur Torre de Macenas führt entlang der Küste, wo die Gischt und der Regen eine raue, wilde Atmosphäre schaffen.\n\nMittags erreichen Sie Playa del Sombrerico. Der Strand ist menschenleer und die dunklen Felsen bilden einen starken Kontrast zum grauen Meer.\n\nDer Rückweg zum Torreón ist anstrengend, aber die kühle Luft verhindert Überhitzung beim finalen Aufstieg ins Dorf.",
+            "hu": "Induljon óvatosan a Fuente Mora-tól. A nedves utak teljes koncentrációt igényelnek a lejtő első méterein.\n\nA Torre de Macenas felé vezető út a part mentén halad, ahol a tajték és az eső vad hangulatot áraszt.\n\nDélben éri el a Playa del Sombrerico-t. A strand néptelen, a sötét sziklák erős kontrasztot alkotnak a szürke tengerrel.\n\nA visszaút a Torreónhoz fárasztó, de a hűvös levegő megakadályozza a túlhevülést a végső emelkedőn.",
+            "ro": "Porniți cu atenție de la Fuente Mora. Drumurile umede necesită concentrare maximă pe primii metri la vale.\n\nDrumul spre Torre de Macenas trece pe coastă, unde spuma mării și ploaia creează o atmosferă aspră.\n\nLa prânz ajungeți la Playa del Sombrerico. Plaja este pustie, iar stâncile întunecate fac un contrast puternic cu marea gri.\n\nDrumul de întoarcere la Torreón este obositor, dar aerul răcoros previne supraîncălzirea la urcarea finală.",
+            "en": "Start carefully at Fuente Mora. The wet roads require full concentration on the first meters downhill.\n\nThe ride to Torre de Macenas follows the coast, where sea spray and rain create a raw, wild atmosphere.\n\nAt noon, you reach Playa del Sombrerico. The beach is deserted, and the dark rocks provide a sharp contrast to the grey sea.\n\nThe ride back to the Torreón is tiring, but the cool air prevents overheating during the final climb."
+          },
+          "stops": [
+            {
+              "name": "Fuente Mora",
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen vor der Abfahrt.",
+                "hu": "Indulás előtt ellenőrizze a fékeket.",
+                "ro": "Verificați frânele înainte de plecare.",
+                "en": "Check your brakes before departing."
+              }
+            },
+            {
+              "name": "Torre de Macenas",
+              "tip_5lang": {
+                "de": "Starker Seitenwind ist an der Küste möglich.",
+                "hu": "Erős oldalszél lehetséges a parton.",
+                "ro": "Vânt lateral puternic posibil pe coastă.",
+                "en": "Strong crosswinds are possible on the coast."
+              }
+            },
+            {
+              "name": "Playa del Sombrerico",
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter den Felsvorsprüngen.",
+                "hu": "Keressen menedéket a sziklakiszögellések alatt.",
+                "ro": "Căutați adăpost sub stânci.",
+                "en": "Look for shelter under rock overhangs."
+              }
+            },
+            {
+              "name": "El Torreón",
+              "tip_5lang": {
+                "de": "Vorsicht beim Abbiegen auf nassem Asphalt.",
+                "hu": "Vigyázzon a kanyarodáskor a nedves aszfalton.",
+                "ro": "Atenție la viraje pe asfaltul umed.",
+                "en": "Be careful when turning on wet asphalt."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche sind bei diesem Wetter ein Muss.",
+              "Tragen Sie neongelbe Regenbekleidung für bessere Sichtbarkeit.",
+              "Vermeiden Sie Pfützen, sie könnten tiefe Schlaglöcher verbergen.",
+              "Reinigen Sie die Kette nach der Fahrt vom Salzwasser."
+            ],
+            "hu": [
+              "A sárvédő ilyenkor kötelező darab.",
+              "Viseljen neon esőruházatot a jobb láthatóságért.",
+              "Kerülje a tócsákat, mély kátyúkat rejthetnek.",
+              "Takarítsa le a láncot a sós víztől a túra után."
+            ],
+            "ro": [
+              "Apărătorile de noroi sunt obligatorii pe această vreme.",
+              "Purtați haine de ploaie reflectorizante pentru vizibilitate.",
+              "Evitați bălțile, pot ascunde gropi adânci.",
+              "Curățați lanțul de apa sărată după călătorie."
+            ],
+            "en": [
+              "Mudguards are a must in this weather.",
+              "Wear neon rain gear for better visibility.",
+              "Avoid puddles, they could hide deep potholes.",
+              "Clean the chain from salt water after the ride."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kühler Morgen an der Fuente Mora. Die frische Luft ist perfekt für sportliche Höchstleistungen ohne die Sommerhitze.\n\nDie Küstenstraße nach Macenas bietet im Winter eine glasklare Sicht bis zum Horizont. Die Sonne wärmt angenehm auf dem Rücken.\n\nDank der milden Temperaturen ist Playa del Sombrerico auch im Januar ein schönes Ziel für eine kurze Pause in der Mittagssonne.\n\nDer Aufstieg zum Torreón am Nachmittag ist im Winter deutlich angenehmer. Genießen Sie das goldene Licht auf den alten Mauern.",
+            "hu": "Hűvös reggel a Fuente Mora-nál. A friss levegő tökéletes a sportoláshoz a nyári hőség nélkül.\n\nA Macenas felé vezető parti út télen kristálytiszta kilátást nyújt a horizontig. A nap kellemesen melegíti a hátat.\n\nA hűvös idő ellenére a Playa del Sombrerico januárban is szép célpont egy rövid pihenőhöz a déli napsütésben.\n\nA délutáni emelkedő a Torreónhoz télen sokkal kellemesebb. Élvezze az aranyló fényt a régi falakon.",
+            "ro": "O dimineață răcoroasă la Fuente Mora. Aerul proaspăt este perfect pentru performanță sportivă fără căldura verii.\n\nDrumul de coastă spre Macenas oferă o vizibilitate clară până la orizont iarna. Soarele vă încălzește spatele.\n\nDatorită temperaturilor blânde, Playa del Sombrerico este o destinație frumoasă și în ianuarie pentru o pauză la soare.\n\nUrcarea la Torreón după-amiaza este mult mai plăcută iarna. Bucurați-vă de lumina aurie pe zidurile vechi.",
+            "en": "A cool morning at Fuente Mora. The fresh air is perfect for high performance without the summer heat.\n\nThe coastal road to Macenas offers crystal clear views to the horizon in winter. The sun warms your back pleasantly.\n\nThanks to mild temperatures, Playa del Sombrerico is a beautiful destination even in January for a short break in the sun.\n\nThe climb to the Torreón in the afternoon is much more pleasant in winter. Enjoy the golden light on the old walls."
+          },
+          "stops": [
+            {
+              "name": "Fuente Mora",
+              "tip_5lang": {
+                "de": "Trinken Sie trotz Kälte genug Wasser.",
+                "hu": "A hideg ellenére igyon elég vizet.",
+                "ro": "Beți destulă apă în ciuda frigului.",
+                "en": "Drink enough water despite the cold."
+              }
+            },
+            {
+              "name": "Torre de Macenas",
+              "tip_5lang": {
+                "de": "Die Wintersonne steht tief, Brille mitnehmen.",
+                "hu": "A téli nap alacsonyan jár, vigyen szemüveget.",
+                "ro": "Soarele de iarnă este jos, luați ochelari.",
+                "en": "The winter sun is low, bring sunglasses."
+              }
+            },
+            {
+              "name": "Playa del Sombrerico",
+              "tip_5lang": {
+                "de": "Ein heißer Tee in der Thermoskanne wirkt Wunder.",
+                "hu": "Egy forró tea a termoszban csodákra képes.",
+                "ro": "Un ceai fierbinte în termos face minuni.",
+                "en": "Hot tea in a thermos works wonders."
+              }
+            },
+            {
+              "name": "El Torreón",
+              "tip_5lang": {
+                "de": "Planen Sie die Rückkehr vor Einbruch der Dunkelheit.",
+                "hu": "Tervezze a visszatérést sötétedés előtt.",
+                "ro": "Planificați întoarcerea înainte de lăsarea întunericului.",
+                "en": "Plan to return before dark."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winddichte Handschuhe sind für die Abfahrten essenziell.",
+              "Unterschätzen Sie die UV-Strahlung im Winter nicht.",
+              "Die Straßen sind weniger befahren, genießen Sie die Ruhe.",
+              "Licht am Fahrrad ist wegen der frühen Dämmerung wichtig."
+            ],
+            "hu": [
+              "Szélálló kesztyű elengedhetetlen a lejtőkhöz.",
+              "Ne becsülje alá az UV-sugárzást télen sem.",
+              "Az utak kevésbé forgalmasak, élvezze a nyugalmat.",
+              "A kerékpáros lámpa fontos a korai szürkület miatt."
+            ],
+            "ro": [
+              "Mănușile rezistente la vânt sunt esențiale pentru coborâri.",
+              "Nu subestimați radiațiile UV iarna.",
+              "Drumurile sunt mai puțin circulate, bucurați-vă de liniște.",
+              "Lumina la bicicletă este importantă din cauza amurgului timpuriu."
+            ],
+            "en": [
+              "Windproof gloves are essential for the descents.",
+              "Don't underestimate UV radiation in winter.",
+              "The roads are less busy, enjoy the peace.",
+              "Bike lights are important because of early dusk."
+            ]
+          }
+        }
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 20,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 45.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Mojácar Pueblo",
+            "hu": "Mojácar Pueblo",
+            "ro": "Mojácar Pueblo",
+            "en": "Mojácar Pueblo"
+          },
+          "coords": [
+            -1.8528,
+            37.1378
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Nutzen Sie das große Parkhaus am Ortseingang.",
+            "hu": "Használja a falu bejáratánál lévő nagy parkolóházat.",
+            "ro": "Folosiți parcarea mare de la intrarea în sat.",
+            "en": "Use the large parking garage at the entrance to the village."
+          }
+        },
+        {
+          "name": {
+            "de": "Carboneras",
+            "hu": "Carboneras",
+            "ro": "Carboneras",
+            "en": "Carboneras"
+          },
+          "coords": [
+            -1.895,
+            36.998
+          ],
+          "category": "port",
+          "arrive_at": "11:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 18.0,
+          "tip_5lang": {
+            "de": "Ein geschäftiges Fischerdorf mit schöner Promenade.",
+            "hu": "Forgalmas halászfalu szép sétánnyal.",
+            "ro": "Un sat de pescari animat cu o faleză frumoasă.",
+            "en": "A busy fishing village with a beautiful promenade."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa de los Muertos",
+            "hu": "Playa de los Muertos",
+            "ro": "Playa de los Muertos",
+            "en": "Playa de los Muertos"
+          },
+          "coords": [
+            -1.8985,
+            36.9535
+          ],
+          "category": "natural features",
+          "arrive_at": "12:55",
+          "stay_min": 150,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Einer der schönsten Strände Spaniens, erfordert einen Fußmarsch.",
+            "hu": "Spanyolország egyik legszebb strandja, gyalogos ereszkedést igényel.",
+            "ro": "Una dintre cele mai frumoase plaje din Spania, necesită un drum pe jos.",
+            "en": "One of Spain's most beautiful beaches; requires a hike down."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre de Macenas",
+            "hu": "Torre de Macenas",
+            "ro": "Torre de Macenas",
+            "en": "Torre de Macenas"
+          },
+          "coords": [
+            -1.8485,
+            37.0875
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "16:05",
+          "stay_min": 30,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 20.0,
+          "tip_5lang": {
+            "de": "Fotostopp am einsamen Wachturm.",
+            "hu": "Fotómegálló a magányos őrtoronynál.",
+            "ro": "Oprire foto la turnul de veghe singuratic.",
+            "en": "Photo stop at the solitary watchtower."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto entdecken Sie die gesamte Region um Mojácar. Starten Sie mit einem ausgiebigen Rundgang durch das Pueblo, bevor Sie die malerische Küstenstraße Richtung Süden nehmen. Ein Halt im Fischerort Carboneras bietet Einblicke in das maritime Leben.\n\nDas Highlight ist die Playa de los Muertos im Naturpark Cabo de Gata, berühmt für ihr kristallklares Wasser. Nach einem entspannten Nachmittag am Strand fahren Sie zurück Richtung Mojácar und machen einen letzten Stopp bei der Torre de Macenas, um die wilde Schönheit der Küste im späten Licht zu bewundern.",
+        "hu": "Autóval Mojácar egész régióját felfedezheti. Kezdje egy kiadós sétával a faluban (Pueblo), majd induljon délnek a festői tengerparti úton. Carboneras halászvárosában megismerheti a helyi tengeri életet.\n\nA nap fénypontja a Playa de los Muertos a Cabo de Gata nemzeti parkban, amely kristálytiszta vizéről híres. Egy pihentető délután után induljon vissza Mojácar felé, és tegyen egy utolsó megállót a Torre de Macenas toronynál, hogy megcsodálja a part vad szépségét a késő délutáni fényekben.",
+        "ro": "Cu mașina veți descoperi întreaga regiune din jurul Mojácar. Începeți cu un tur detaliat al Pueblo, înainte de a porni spre sud pe drumul pitoresc de coastă. O oprire în satul de pescari Carboneras oferă o incursiune în viața maritimă.\n\nPunctul culminant este Playa de los Muertos din parcul natural Cabo de Gata, faimoasă pentru apa sa cristalină. După o după-amiază relaxantă la plajă, conduceți înapoi spre Mojácar și faceți o ultimă oprire la Torre de Macenas pentru a admira frumusețea sălbatică a coastei în lumina târzie.",
+        "en": "By car, you will discover the entire region around Mojácar. Start with an extensive tour of the Pueblo before taking the scenic coastal road south. A stop in the fishing village of Carboneras offers insight into maritime life.\n\nThe highlight is Playa de los Muertos in the Cabo de Gata Natural Park, famous for its crystal-clear water. After a relaxed afternoon at the beach, drive back towards Mojácar and make a final stop at Torre de Macenas to admire the wild beauty of the coast in the late light."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gambas Rojas",
+            "tip": "Rote Riesengarnelen aus Carboneras, frisch vom Markt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gambas Rojas",
+            "tip": "Vörös garnélarák Carbonerasból, frissen a piacról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gambas Rojas",
+            "tip": "Creveți roșii din Carboneras, proaspeți de la piață."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gambas Rojas",
+            "tip": "Red prawns from Carboneras, fresh from the market."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtspunkte am Cabo de Gata",
+            "tip": "Zahlreiche Buchten entlang der Straße.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cabo de Gata kilátópontok",
+            "tip": "Számos öböl az út mentén.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Puncte de belvedere Cabo de Gata",
+            "tip": "Numeroase golfuri de-a lungul drumului.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cabo de Gata Viewpoints",
+            "tip": "Numerous coves along the road.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt Mojácar",
+            "tip": "Immer mittwochs im Dorf."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mojácari heti piac",
+            "tip": "Minden szerdán a faluban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală Mojácar",
+            "tip": "În fiecare miercuri în sat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mojácar Weekly Market",
+            "tip": "Every Wednesday in the village."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken Sie in Mojácar Pueblo im öffentlichen Parkhaus.",
+          "Die Straße zur Playa de los Muertos ist kurvenreich.",
+          "Bringen Sie Sonnenschutz und Wasser für den Strand mit.",
+          "Tanken Sie in den größeren Orten wie Carboneras."
+        ],
+        "hu": [
+          "Mojácar Pueblóban a nyilvános parkolóházban parkoljon.",
+          "A Playa de los Muertos felé vezető út kanyargós.",
+          "Vigyen naptejet és vizet a strandra.",
+          "Tankoljon a nagyobb településeken, mint Carboneras."
+        ],
+        "ro": [
+          "Parcați în Mojácar Pueblo în parcarea publică.",
+          "Drumul spre Playa de los Muertos este sinuos.",
+          "Aduceți protecție solară și apă pentru plajă.",
+          "Alimentați în localitățile mai mari, precum Carboneras."
+        ],
+        "en": [
+          "Park in the public parking garage in Mojácar Pueblo.",
+          "The road to Playa de los Muertos is winding.",
+          "Bring sunscreen and water for the beach.",
+          "Refuel in larger towns like Carboneras."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto entdecken Sie die gesamte Region um Mojácar. Starten Sie mit einem ausgiebigen Rundgang durch das Pueblo, bevor Sie die malerische Küstenstraße Richtung Süden nehmen. Ein Halt im Fischerort Carboneras bietet Einblicke in das maritime Leben.\n\nDas Highlight ist die Playa de los Muertos im Naturpark Cabo de Gata, berühmt für ihr kristallklares Wasser. Nach einem entspannten Nachmittag am Strand fahren Sie zurück Richtung Mojácar und machen einen letzten Stopp bei der Torre de Macenas, um die wilde Schönheit der Küste im späten Licht zu bewundern.",
+            "hu": "Autóval Mojácar egész régióját felfedezheti. Kezdje egy kiadós sétával a faluban (Pueblo), majd induljon délnek a festői tengerparti úton. Carboneras halászvárosában megismerheti a helyi tengeri életet.\n\nA nap fénypontja a Playa de los Muertos a Cabo de Gata nemzeti parkban, amely kristálytiszta vizéről híres. Egy pihentető délután után induljon vissza Mojácar felé, és tegyen egy utolsó megállót a Torre de Macenas toronynál, hogy megcsodálja a part vad szépségét a késő délutáni fényekben.",
+            "ro": "Cu mașina veți descoperi întreaga regiune din jurul Mojácar. Începeți cu un tur detaliat al Pueblo, înainte de a porni spre sud pe drumul pitoresc de coastă. O oprire în satul de pescari Carboneras oferă o incursiune în viața maritimă.\n\nPunctul culminant este Playa de los Muertos din parcul natural Cabo de Gata, faimoasă pentru apa sa cristalină. După o după-amiază relaxantă la plajă, conduceți înapoi spre Mojácar și faceți o ultimă oprire la Torre de Macenas pentru a admira frumusețea sălbatică a coastei în lumina târzie.",
+            "en": "By car, you will discover the entire region around Mojácar. Start with an extensive tour of the Pueblo before taking the scenic coastal road south. A stop in the fishing village of Carboneras offers insight into maritime life.\n\nThe highlight is Playa de los Muertos in the Cabo de Gata Natural Park, famous for its crystal-clear water. After a relaxed afternoon at the beach, drive back towards Mojácar and make a final stop at Torre de Macenas to admire the wild beauty of the coast in the late light."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mojácar Pueblo",
+                "hu": "Mojácar Pueblo",
+                "ro": "Mojácar Pueblo",
+                "en": "Mojácar Pueblo"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das große Parkhaus am Ortseingang.",
+                "hu": "Használja a falu bejáratánál lévő nagy parkolóházat.",
+                "ro": "Folosiți parcarea mare de la intrarea în sat.",
+                "en": "Use the large parking garage at the entrance to the village."
+              }
+            },
+            {
+              "name": {
+                "de": "Carboneras",
+                "hu": "Carboneras",
+                "ro": "Carboneras",
+                "en": "Carboneras"
+              },
+              "tip_5lang": {
+                "de": "Ein geschäftiges Fischerdorf mit schöner Promenade.",
+                "hu": "Forgalmas halászfalu szép sétánnyal.",
+                "ro": "Un sat de pescari animat cu o faleză frumoasă.",
+                "en": "A busy fishing village with a beautiful promenade."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa de los Muertos",
+                "hu": "Playa de los Muertos",
+                "ro": "Playa de los Muertos",
+                "en": "Playa de los Muertos"
+              },
+              "tip_5lang": {
+                "de": "Einer der schönsten Strände Spaniens, erfordert einen Fußmarsch.",
+                "hu": "Spanyolország egyik legszebb strandja, gyalogos ereszkedést igényel.",
+                "ro": "Una dintre cele mai frumoase plaje din Spania, necesită un drum pe jos.",
+                "en": "One of Spain's most beautiful beaches; requires a hike down."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre de Macenas",
+                "hu": "Torre de Macenas",
+                "ro": "Torre de Macenas",
+                "en": "Torre de Macenas"
+              },
+              "tip_5lang": {
+                "de": "Fotostopp am einsamen Wachturm.",
+                "hu": "Fotómegálló a magányos őrtoronynál.",
+                "ro": "Oprire foto la turnul de veghe singuratic.",
+                "en": "Photo stop at the solitary watchtower."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Gambas Rojas",
+                "tip": "Rote Riesengarnelen aus Carboneras, frisch vom Markt."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Gambas Rojas",
+                "tip": "Vörös garnélarák Carbonerasból, frissen a piacról."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Gambas Rojas",
+                "tip": "Creveți roșii din Carboneras, proaspeți de la piață."
+              }
+            ],
+            "en": [
+              {
+                "name": "Gambas Rojas",
+                "tip": "Red prawns from Carboneras, fresh from the market."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Aussichtspunkte am Cabo de Gata",
+                "tip": "Zahlreiche Buchten entlang der Straße.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Cabo de Gata kilátópontok",
+                "tip": "Számos öböl az út mentén.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Puncte de belvedere Cabo de Gata",
+                "tip": "Numeroase golfuri de-a lungul drumului.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Cabo de Gata Viewpoints",
+                "tip": "Numerous coves along the road.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Wochenmarkt Mojácar",
+                "tip": "Immer mittwochs im Dorf."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Mojácari heti piac",
+                "tip": "Minden szerdán a faluban."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Piața săptămânală Mojácar",
+                "tip": "În fiecare miercuri în sat."
+              }
+            ],
+            "en": [
+              {
+                "name": "Mojácar Weekly Market",
+                "tip": "Every Wednesday in the village."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Parken Sie in Mojácar Pueblo im öffentlichen Parkhaus.",
+              "Die Straße zur Playa de los Muertos ist kurvenreich.",
+              "Bringen Sie Sonnenschutz und Wasser für den Strand mit.",
+              "Tanken Sie in den größeren Orten wie Carboneras."
+            ],
+            "hu": [
+              "Mojácar Pueblóban a nyilvános parkolóházban parkoljon.",
+              "A Playa de los Muertos felé vezető út kanyargós.",
+              "Vigyen naptejet és vizet a strandra.",
+              "Tankoljon a nagyobb településeken, mint Carboneras."
+            ],
+            "ro": [
+              "Parcați în Mojácar Pueblo în parcarea publică.",
+              "Drumul spre Playa de los Muertos este sinuos.",
+              "Aduceți protecție solară și apă pentru plajă.",
+              "Alimentați în localitățile mai mari, precum Carboneras."
+            ],
+            "en": [
+              "Park in the public parking garage in Mojácar Pueblo.",
+              "The road to Playa de los Muertos is winding.",
+              "Bring sunscreen and water for the beach.",
+              "Refuel in larger towns like Carboneras."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein grauer Start in Mojácar Pueblo. Die Parkplatzsuche ist einfacher, aber die Straßen sind rutschig.\n\nIn Carboneras angekommen, bietet der Hafen ein dramatisches Bild mit den peitschenden Wellen an der Kaimauer.\n\nDer Besuch der Playa de los Muertos ist bei Regen ein besonderes Erlebnis. Der steile Abstieg erfordert festes Schuhwerk und Vorsicht.\n\nDie Rückfahrt zur Torre de Macenas im Nebel erinnert an nordische Küstenlandschaften, weit entfernt vom typischen Sonnenimage Spaniens.",
+            "hu": "Szürke kezdés Mojácar Pueblo-ban. Parkolót könnyebb találni, de az utak csúszósak.\n\nCarbonerasba érve a kikötő drámai képet mutat a rakpartnak csapódó hullámokkal.\n\nA Playa de los Muertos látogatása esőben különleges élmény. A meredek leereszkedés biztos cipőt és óvatosságot igényel.\n\nA visszaút a Torre de Macenas-hoz a ködben északi tengerparti tájakra emlékeztet, távol Spanyolország napsütötte képétől.",
+            "ro": "Un început gri în Mojácar Pueblo. Găsirea locului de parcare este mai ușoară, dar drumurile sunt alunecoase.\n\nAjunși în Carboneras, portul oferă o imagine dramatică cu valurile care se sparg de dig.\n\nVizitarea Playa de los Muertos pe ploaie este o experiență specială. Coborârea abruptă necesită încălțăminte stabilă.\n\nÎntoarcerea spre Torre de Macenas prin ceață amintește de peisajele de coastă nordice, departe de imaginea însorită a Spaniei.",
+            "en": "A grey start in Mojácar Pueblo. Finding a parking spot is easier, but the roads are slippery.\n\nArriving in Carboneras, the port offers a dramatic picture with waves crashing against the quay wall.\n\nVisiting Playa de los Muertos in the rain is a special experience. The steep descent requires sturdy shoes and caution.\n\nThe drive back to Torre de Macenas in the mist reminds one of Nordic coastal landscapes, far from Spain's typical sun image."
+          },
+          "stops": [
+            {
+              "name": "Mojácar Pueblo",
+              "tip_5lang": {
+                "de": "Parken Sie im überdachten Parkhaus.",
+                "hu": "Parkoljon a fedett parkolóházban.",
+                "ro": "Parcați în parcarea acoperită.",
+                "en": "Park in the covered parking garage."
+              }
+            },
+            {
+              "name": "Carboneras",
+              "tip_5lang": {
+                "de": "Viele Restaurants am Hafen haben Glasfronten.",
+                "hu": "A kikötőben sok étteremnek van üvegfala.",
+                "ro": "Multe restaurante din port au pereți de sticlă.",
+                "en": "Many port restaurants have glass fronts."
+              }
+            },
+            {
+              "name": "Playa de los Muertos",
+              "tip_5lang": {
+                "de": "Bleiben Sie oben am Mirador, wenn der Weg zu matschig ist.",
+                "hu": "Maradjon fent a kilátónál, ha túl sáros az út.",
+                "ro": "Rămâneți sus la Mirador dacă drumul este prea noroios.",
+                "en": "Stay at the viewpoint if the path is too muddy."
+              }
+            },
+            {
+              "name": "Torre de Macenas",
+              "tip_5lang": {
+                "de": "Achten Sie auf Steinschlag an der Küstenstraße.",
+                "hu": "Figyeljen a kőomlásra a parti úton.",
+                "ro": "Atenție la căderile de pietre pe drumul de coastă.",
+                "en": "Watch out for rockfall on the coastal road."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Scheibenwischer vor der Tour.",
+              "Die Küstenstraßen können bei Starkregen stellenweise überflutet sein.",
+              "Nutzen Sie die Klimaanlage gegen beschlagene Scheiben.",
+              "Planen Sie mehr Zeit für die Parkplatzsuche in Carboneras ein."
+            ],
+            "hu": [
+              "Ellenőrizze az ablaktörlőket az út előtt.",
+              "A parti utak heves esőzéskor helyenként víz alá kerülhetnek.",
+              "Használja a klímát a párásodó szélvédő ellen.",
+              "Tervezzen több időt a parkolóhely keresésére Carbonerasban."
+            ],
+            "ro": [
+              "Verificați ștergătoarele înainte de tură.",
+              "Drumurile de coastă pot fi inundate pe alocuri la ploi abundente.",
+              "Folosiți aerul condiționat împotriva aburirii parbrizului.",
+              "Planificați mai mult timp pentru parcare în Carboneras."
+            ],
+            "en": [
+              "Check your wiper blades before the tour.",
+              "Coastal roads can be flooded in places during heavy rain.",
+              "Use the A/C to prevent windows from fogging up.",
+              "Plan more time for finding a parking spot in Carboneras."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein strahlender Wintermorgen im Pueblo. Die Sicht ist so klar, dass man jedes Detail der Küste erkennen kann.\n\nIn Carboneras ist es ruhig. Die Einheimischen genießen ihren Kaffee in der Sonne, ein perfekter Moment für Entschleunigung.\n\nPlaya de los Muertos zeigt sich im tiefstehenden Licht von seiner schönsten Seite. Der Abstieg ist bei den kühlen Temperaturen kaum anstrengend.\n\nDer Tag endet an der Torre de Macenas, wo der Sonnenuntergang den Himmel in intensive Orange- und Purpurtöne färbt.",
+            "hu": "Ragyogó téli reggel a Pueblo-ban. A látási viszonyok olyan tiszták, hogy a part minden részlete kivehető.\n\nCarbonerasban csend van. A helyiek a napon kávéznak, tökéletes pillanat a lelassuláshoz.\n\nA Playa de los Muertos a legszebb arcát mutatja az alacsony napállásban. A leereszkedés a hűvösben alig fárasztó.\n\nA nap a Torre de Macenas-nál ér véget, ahol a naplemente intenzív narancs és lila színekbe festi az eget.",
+            "ro": "O dimineață strălucitoare de iarnă în Pueblo. Vederea este atât de clară încât poți vedea fiecare detaliu al coastei.\n\nÎn Carboneras este liniște. Localnicii își savurează cafeaua la soare, un moment perfect pentru relaxare.\n\nPlaya de los Muertos arată cel mai bine în lumina joasă. Coborârea nu este deloc obositoare la aceste temperaturi.\n\nZiua se termină la Torre de Macenas, unde apusul colorează cerul în nuanțe intense de portocaliu și mov.",
+            "en": "A bright winter morning in the Pueblo. Visibility is so clear that you can spot every detail of the coast.\n\nIt's quiet in Carboneras. Locals enjoy their coffee in the sun, a perfect moment for slowing down.\n\nPlaya de los Muertos shows its best side in the low light. The descent is hardly tiring in the cool temperatures.\n\nThe day ends at Torre de Macenas, where the sunset paints the sky in intense orange and purple tones."
+          },
+          "stops": [
+            {
+              "name": "Mojácar Pueblo",
+              "tip_5lang": {
+                "de": "Das Licht am Morgen ist ideal für Panoramafotos.",
+                "hu": "A reggeli fény ideális panorámafotókhoz.",
+                "ro": "Lumina dimineții este ideală pentru fotografii panoramice.",
+                "en": "The morning light is ideal for panoramic photos."
+              }
+            },
+            {
+              "name": "Carboneras",
+              "tip_5lang": {
+                "de": "Besuchen Sie den lokalen Markt, falls es ein Donnerstag ist.",
+                "hu": "Látogassa meg a helyi piacot, ha csütörtök van.",
+                "ro": "Vizitați piața locală dacă este joi.",
+                "en": "Visit the local market if it's a Thursday."
+              }
+            },
+            {
+              "name": "Playa de los Muertos",
+              "tip_5lang": {
+                "de": "Nehmen Sie ein Picknick mit, da viele Kioske geschlossen sind.",
+                "hu": "Vigyen pikniket, mert sok kioszk zárva van.",
+                "ro": "Luați un picnic, deoarece multe chioșcuri sunt închise.",
+                "en": "Take a picnic, as many kiosks are closed."
+              }
+            },
+            {
+              "name": "Torre de Macenas",
+              "tip_5lang": {
+                "de": "Die Abenddämmerung ist hier besonders fotogen.",
+                "hu": "Az alkonyat itt különösen fotogén.",
+                "ro": "Amurgul este deosebit de fotogen aici.",
+                "en": "Dusk is particularly photogenic here."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf tiefstehende Sonne beim Fahren (Sonnenbrille!).",
+              "Die Bergstraßen können im Schatten feucht und rutschig sein.",
+              "In den Küstenorten sind Parkplätze im Winter reichlich vorhanden.",
+              "Nehmen Sie warme Kleidung für die Zeit nach Sonnenuntergang mit."
+            ],
+            "hu": [
+              "Vezetés közben figyeljen az alacsonyan járó napra (napszemüveg!).",
+              "A hegyi utak az árnyékban nedvesek és csúszósak lehetnek.",
+              "A parti településeken télen bőségesen van parkolóhely.",
+              "Vigyen meleg ruhát a naplemente utáni időszakra."
+            ],
+            "ro": [
+              "Atenție la soarele jos în timp ce conduceți (ochelari de soare!).",
+              "Drumurile montane pot fi umede și alunecoase la umbră.",
+              "În orașele de coastă, locurile de parcare sunt abundente iarna.",
+              "Luați haine groase pentru perioada de după apus."
+            ],
+            "en": [
+              "Watch out for the low sun while driving (sunglasses!).",
+              "Mountain roads can be damp and slippery in the shade.",
+              "Parking spaces are plentiful in coastal towns in winter.",
+              "Bring warm clothes for the time after sunset."
+            ]
+          }
+        }
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:00",
+      "total_km": 8.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Mojácar Pueblo",
+            "hu": "Mojácar Pueblo",
+            "ro": "Mojácar Pueblo",
+            "en": "Mojácar Pueblo"
+          },
+          "coords": [
+            -1.8528,
+            37.1378
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Zentrale Bushaltestelle am Fuße des Dorfes.",
+            "hu": "Központi buszmegálló a falu lábánál.",
+            "ro": "Stația centrală de autobuz de la baza satului.",
+            "en": "Central bus stop at the foot of the village."
+          }
+        },
+        {
+          "name": {
+            "de": "Mojácar Playa",
+            "hu": "Mojácar Playa",
+            "ro": "Mojácar Playa",
+            "en": "Mojácar Playa"
+          },
+          "coords": [
+            -1.835,
+            37.115
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:35",
+          "stay_min": 180,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Lange Sandstrände mit vielen Chiringuitos.",
+            "hu": "Hosszú homokos strandok számos Chiringuitóval (strandbár).",
+            "ro": "Plaje lungi cu nisip și multe Chiringuitos.",
+            "en": "Long sandy beaches with many Chiringuitos (beach bars)."
+          }
+        },
+        {
+          "name": {
+            "de": "Parque de Mojácar",
+            "hu": "Mojácar park",
+            "ro": "Parcul Mojácar",
+            "en": "Mojácar Park"
+          },
+          "coords": [
+            -1.84,
+            37.125
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Ein schöner Ort für einen Spaziergang im Grünen.",
+            "hu": "Szép hely egy zöldövezeti sétához.",
+            "ro": "Un loc frumos pentru o plimbare în natură.",
+            "en": "A nice place for a walk in the greenery."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der lokale Bus verbindet das Pueblo bequem mit dem Strandbereich. Beginnen Sie morgens im Bergdorf und genießen Sie das historische Ambiente. Gegen Mittag nehmen Sie den Bus hinunter zur Mojácar Playa.\n\nHier können Sie den Nachmittag am weitläufigen Strand verbringen oder in einer der Strandbars entspannen. Der Nahverkehr ist effizient und ermöglicht es Ihnen, beide Seiten von Mojácar ohne Parkplatzsuche zu erleben. Vor der Rückfahrt lohnt sich ein kurzer Aufenthalt im Parkbereich, um die Aussicht auf den Hügel zu genießen.",
+        "hu": "A helyi buszjárat kényelmesen összeköti a Pueblót a tengerparti résszel. Kezdje a reggelt a hegyi faluban, élvezve a történelmi hangulatot. Dél körül szálljon buszra, amely leviszi a Mojácar Playa területére.\n\nItt töltheti a délutánt a tágas strandon vagy pihenhet valamelyik strandbárban. A tömegközlekedés hatékony, így Mojácar mindkét arcát megismerheti parkolási gondok nélkül. A visszaindulás előtt érdemes egy rövid sétát tenni a parkos részen, ahonnan remek kilátás nyílik a dombra épült falura.",
+        "ro": "Autobuzul local face legătura comodă între Pueblo și zona de plajă. Începeți dimineața în satul de munte și bucurați-vă de ambianța istorică. În jurul prânzului, luați autobuzul spre Mojácar Playa.\n\nAici vă puteți petrece după-amiaza pe plaja întinsă sau vă puteți relaxa la una dintre terasele de pe plajă. Transportul public este eficient și vă permite să experimentați ambele fețe ale Mojácar fără grija parcării. Înainte de întoarcere, merită o scurtă oprire în zona parcului pentru a admira vederea spre deal.",
+        "en": "The local bus conveniently connects the Pueblo with the beach area. Start your morning in the mountain village and enjoy the historical atmosphere. Around midday, take the bus down to Mojácar Playa.\n\nHere you can spend the afternoon on the extensive beach or relax at one of the beach bars. Public transport is efficient and allows you to experience both sides of Mojácar without worrying about parking. Before returning, a short stay in the park area is worthwhile to enjoy the views of the hill."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Paella de Marisco",
+            "tip": "In den Chiringuitos am Strand besonders frisch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Paella de Marisco",
+            "tip": "A tengerparti Chiringuitókban különösen friss."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Paella de Marisco",
+            "tip": "Deosebit de proaspătă la Chiringuitos de pe plajă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Paella de Marisco",
+            "tip": "Particularly fresh at the beachside Chiringuitos."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Südende von Mojácar Playa",
+            "tip": "Ruhigere Abschnitte weit weg vom Zentrum.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mojácar Playa déli vége",
+            "tip": "Csendesebb szakaszok távol a központtól.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Capătul de sud al Mojácar Playa",
+            "tip": "Secțiuni mai liniștite departe de centru.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "South end of Mojácar Playa",
+            "tip": "Quieter sections far from the center.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Strandboutiquen",
+            "tip": "Luftige Sommermode und Accessoires."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Strandbutikok",
+            "tip": "Könnyű nyári divat és kiegészítők."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Boutique-uri de plajă",
+            "tip": "Modă de vară vaporoasă și accesorii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Beach Boutiques",
+            "tip": "Light summer fashion and accessories."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie ein Zehnerticket beim Fahrer.",
+          "Die Busse fahren im Sommer häufiger.",
+          "Achten Sie auf die Fahrpläne für die letzte Rückfahrt.",
+          "Die Haltestellen sind gut markiert."
+        ],
+        "hu": [
+          "Vásároljon tízalkalmas bérletet a vezetőnél.",
+          "A buszok nyáron gyakrabban közlekednek.",
+          "Figyeljen az utolsó visszajárat menetrendjére.",
+          "A megállók jól kitáblázottak."
+        ],
+        "ro": [
+          "Cumpărați un bilet cu zece călătorii de la șofer.",
+          "Autobuzele circulă mai des în timpul verii.",
+          "Verificați orarul pentru ultima cursă de întoarcere.",
+          "Stațiile sunt bine marcate."
+        ],
+        "en": [
+          "Buy a ten-trip ticket from the driver.",
+          "Buses run more frequently during the summer.",
+          "Check the schedules for the last return trip.",
+          "The stops are well-marked."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Der lokale Bus verbindet das Pueblo bequem mit dem Strandbereich. Beginnen Sie morgens im Bergdorf und genießen Sie das historische Ambiente. Gegen Mittag nehmen Sie den Bus hinunter zur Mojácar Playa.\n\nHier können Sie den Nachmittag am weitläufigen Strand verbringen oder in einer der Strandbars entspannen. Der Nahverkehr ist effizient und ermöglicht es Ihnen, beide Seiten von Mojácar ohne Parkplatzsuche zu erleben. Vor der Rückfahrt lohnt sich ein kurzer Aufenthalt im Parkbereich, um die Aussicht auf den Hügel zu genießen.",
+            "hu": "A helyi buszjárat kényelmesen összeköti a Pueblót a tengerparti résszel. Kezdje a reggelt a hegyi faluban, élvezve a történelmi hangulatot. Dél körül szálljon buszra, amely leviszi a Mojácar Playa területére.\n\nItt töltheti a délutánt a tágas strandon vagy pihenhet valamelyik strandbárban. A tömegközlekedés hatékony, így Mojácar mindkét arcát megismerheti parkolási gondok nélkül. A visszaindulás előtt érdemes egy rövid sétát tenni a parkos részen, ahonnan remek kilátás nyílik a dombra épült falura.",
+            "ro": "Autobuzul local face legătura comodă între Pueblo și zona de plajă. Începeți dimineața în satul de munte și bucurați-vă de ambianța istorică. În jurul prânzului, luați autobuzul spre Mojácar Playa.\n\nAici vă puteți petrece după-amiaza pe plaja întinsă sau vă puteți relaxa la una dintre terasele de pe plajă. Transportul public este eficient și vă permite să experimentați ambele fețe ale Mojácar fără grija parcării. Înainte de întoarcere, merită o scurtă oprire în zona parcului pentru a admira vederea spre deal.",
+            "en": "The local bus conveniently connects the Pueblo with the beach area. Start your morning in the mountain village and enjoy the historical atmosphere. Around midday, take the bus down to Mojácar Playa.\n\nHere you can spend the afternoon on the extensive beach or relax at one of the beach bars. Public transport is efficient and allows you to experience both sides of Mojácar without worrying about parking. Before returning, a short stay in the park area is worthwhile to enjoy the views of the hill."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mojácar Pueblo",
+                "hu": "Mojácar Pueblo",
+                "ro": "Mojácar Pueblo",
+                "en": "Mojácar Pueblo"
+              },
+              "tip_5lang": {
+                "de": "Zentrale Bushaltestelle am Fuße des Dorfes.",
+                "hu": "Központi buszmegálló a falu lábánál.",
+                "ro": "Stația centrală de autobuz de la baza satului.",
+                "en": "Central bus stop at the foot of the village."
+              }
+            },
+            {
+              "name": {
+                "de": "Mojácar Playa",
+                "hu": "Mojácar Playa",
+                "ro": "Mojácar Playa",
+                "en": "Mojácar Playa"
+              },
+              "tip_5lang": {
+                "de": "Lange Sandstrände mit vielen Chiringuitos.",
+                "hu": "Hosszú homokos strandok számos Chiringuitóval (strandbár).",
+                "ro": "Plaje lungi cu nisip și multe Chiringuitos.",
+                "en": "Long sandy beaches with many Chiringuitos (beach bars)."
+              }
+            },
+            {
+              "name": {
+                "de": "Parque de Mojácar",
+                "hu": "Mojácar park",
+                "ro": "Parcul Mojácar",
+                "en": "Mojácar Park"
+              },
+              "tip_5lang": {
+                "de": "Ein schöner Ort für einen Spaziergang im Grünen.",
+                "hu": "Szép hely egy zöldövezeti sétához.",
+                "ro": "Un loc frumos pentru o plimbare în natură.",
+                "en": "A nice place for a walk in the greenery."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Paella de Marisco",
+                "tip": "In den Chiringuitos am Strand besonders frisch."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Paella de Marisco",
+                "tip": "A tengerparti Chiringuitókban különösen friss."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Paella de Marisco",
+                "tip": "Deosebit de proaspătă la Chiringuitos de pe plajă."
+              }
+            ],
+            "en": [
+              {
+                "name": "Paella de Marisco",
+                "tip": "Particularly fresh at the beachside Chiringuitos."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Südende von Mojácar Playa",
+                "tip": "Ruhigere Abschnitte weit weg vom Zentrum.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Mojácar Playa déli vége",
+                "tip": "Csendesebb szakaszok távol a központtól.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Capătul de sud al Mojácar Playa",
+                "tip": "Secțiuni mai liniștite departe de centru.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "South end of Mojácar Playa",
+                "tip": "Quieter sections far from the center.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Strandboutiquen",
+                "tip": "Luftige Sommermode und Accessoires."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Strandbutikok",
+                "tip": "Könnyű nyári divat és kiegészítők."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Boutique-uri de plajă",
+                "tip": "Modă de vară vaporoasă și accesorii."
+              }
+            ],
+            "en": [
+              {
+                "name": "Beach Boutiques",
+                "tip": "Light summer fashion and accessories."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Kaufen Sie ein Zehnerticket beim Fahrer.",
+              "Die Busse fahren im Sommer häufiger.",
+              "Achten Sie auf die Fahrpläne für die letzte Rückfahrt.",
+              "Die Haltestellen sind gut markiert."
+            ],
+            "hu": [
+              "Vásároljon tízalkalmas bérletet a vezetőnél.",
+              "A buszok nyáron gyakrabban közlekednek.",
+              "Figyeljen az utolsó visszajárat menetrendjére.",
+              "A megállók jól kitáblázottak."
+            ],
+            "ro": [
+              "Cumpărați un bilet cu zece călătorii de la șofer.",
+              "Autobuzele circulă mai des în timpul verii.",
+              "Verificați orarul pentru ultima cursă de întoarcere.",
+              "Stațiile sunt bine marcate."
+            ],
+            "en": [
+              "Buy a ten-trip ticket from the driver.",
+              "Buses run more frequently during the summer.",
+              "Check the schedules for the last return trip.",
+              "The stops are well-marked."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie im Pueblo und nutzen Sie den Bus für die Fahrt nach unten. Die beschlagenen Scheiben geben dem Ganzen einen gemütlichen Touch.\n\nMojácar Playa im Regen ist fast menschenleer. Ein Spaziergang am Wasser ist erfrischend, solange man danach ein trockenes Café findet.\n\nMittags bietet die Promenade wenig Schutz, daher ist der Aufenthalt im Mojácar Park (Einkaufszentrum) eine gute Alternative.\n\nDie Rückfahrt mit dem gelben Bus bietet einen tollen Blick auf das beleuchtete Dorf, das im Regen wie eine Festung wirkt.",
+            "hu": "Induljon a Pueblo-ból, és használja a buszt a lejutáshoz. A bepárásodott ablakok otthonos hangulatot kölcsönöznek.\n\nMojácar Playa esőben szinte néptelen. Egy séta a vízparton felfrissítő, amíg utána találunk egy száraz kávézót.\n\nDélben a sétány kevés védelmet nyújt, ezért a Mojácar Parkban (bevásárlóközpont) való tartózkodás jó alternatíva.\n\nA visszaút a sárga busszal remek kilátást nyújt a kivilágított falura, amely az esőben úgy fest, mint egy erőd.",
+            "ro": "Porniți din Pueblo și folosiți autobuzul pentru drumul în jos. Geamurile aburite oferă o notă confortabilă.\n\nMojácar Playa pe ploaie este aproape pustie. O plimbare pe malul apei este revigorantă, atâta timp cât găsiți o cafenea uscată.\n\nLa prânz, faleza oferă puțin adăpost, așa că șederea în Mojácar Park (centrul comercial) este o alternativă bună.\n\nÎntoarcerea cu autobuzul galben oferă o vedere excelentă asupra satului iluminat, care pare o fortăreață în ploaie.",
+            "en": "Start in the Pueblo and take the bus for the ride down. The fogged-up windows give it a cozy touch.\n\nMojácar Playa in the rain is almost deserted. A walk by the water is refreshing as long as you find a dry cafe afterwards.\n\nAt noon, the promenade offers little shelter, so staying at Mojácar Park (shopping center) is a good alternative.\n\nThe bus ride back offers a great view of the illuminated village, which looks like a fortress in the rain."
+          },
+          "stops": [
+            {
+              "name": "Mojácar Pueblo",
+              "tip_5lang": {
+                "de": "Warten Sie in der Cafeteria am Busbahnhof.",
+                "hu": "Várjon a buszállomás melletti kávézóban.",
+                "ro": "Așteptați în cafeneaua de lângă autogară.",
+                "en": "Wait in the cafeteria near the bus station."
+              }
+            },
+            {
+              "name": "Mojácar Playa",
+              "tip_5lang": {
+                "de": "Die Bushaltestellen sind meist überdacht.",
+                "hu": "A buszmegállók többnyire fedettek.",
+                "ro": "Stațiile de autobuz sunt în mare parte acoperite.",
+                "en": "The bus stops are mostly covered."
+              }
+            },
+            {
+              "name": "Mojácar Park",
+              "tip_5lang": {
+                "de": "Idealer Ort zum Shoppen während eines Schauers.",
+                "hu": "Ideális hely a vásárláshoz egy zápor alatt.",
+                "ro": "Loc ideal pentru cumpărături în timpul unei averse.",
+                "en": "Ideal place for shopping during a shower."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Haben Sie Kleingeld für das Busticket bereit.",
+              "Die Busse fahren bei Regen pünktlich, planen Sie keine Verzögerungen ein.",
+              "Vermeiden Sie die vorderen Sitze, dort zieht es oft.",
+              "Tragen Sie wasserfeste Schuhe für den Weg zur Haltestelle."
+            ],
+            "hu": [
+              "Készítsen elő aprópénzt a buszjegyhez.",
+              "A buszok esőben is pontosak, ne számoljon késéssel.",
+              "Kerülje az első üléseket, ott gyakran huzat van.",
+              "Viseljen vízálló cipőt a megállóhoz vezető úton."
+            ],
+            "ro": [
+              "Pregătiți mărunțiș pentru biletul de autobuz.",
+              "Autobuzele sunt punctuale pe ploaie, nu contați pe întârzieri.",
+              "Evitați scaunele din față, acolo este adesea curent.",
+              "Purtați încălțăminte impermeabilă pentru drumul spre stație."
+            ],
+            "en": [
+              "Have small change ready for the bus ticket.",
+              "Buses run on time in the rain, don't count on delays.",
+              "Avoid the front seats, it's often drafty there.",
+              "Wear waterproof shoes for the walk to the stop."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein entspannter Wintermorgen im Pueblo. Der Bus nach unten ist fast leer, Sie haben freie Platzwahl für die beste Aussicht.\n\nMojácar Playa ist im Winter ein Ort der Ruhe. Genießen Sie die milde Seeluft ohne den Trubel der Ferienzeit.\n\nMittags ist der Mojácar Park ein guter Treffpunkt, um ein lokales Mittagessen zu genießen oder Besorgungen zu machen.\n\nDie Rückfahrt am späten Nachmittag zeigt das Dorf in den warmen Farben des Wintersonnenuntergangs – ein krönender Abschluss.",
+            "hu": "Nyugodt téli reggel a Pueblo-ban. A lefelé tartó busz szinte üres, szabadon választhat helyet a legjobb kilátáshoz.\n\nMojácar Playa télen a nyugalom szigete. Élvezze a lágy tengeri levegőt a főszezoni nyüzsgés nélkül.\n\nDélben a Mojácar Park jó találkozóhely egy helyi ebéd elfogyasztásához vagy ügyintézéshez.\n\nA késő délutáni visszaút a téli naplemente meleg színeiben mutatja a falut – tökéletes lezárás.",
+            "ro": "O dimineață relaxată de iarnă în Pueblo. Autobuzul spre plajă este aproape gol, aveți libertatea de a alege locul pentru cea mai bună vedere.\n\nMojácar Playa este un loc al liniștii iarna. Bucurați-vă de aerul marin blând fără agitația sezonului de vacanță.\n\nLa prânz, Mojácar Park este un punct bun de întâlnire pentru a savura un prânz local sau pentru cumpărături.\n\nÎntoarcerea după-amiaza târziu arată satul în culorile calde ale apusului de iarnă – o încheiere perfectă.",
+            "en": "A relaxed winter morning in the Pueblo. The bus down is almost empty, you have free choice of seats for the best view.\n\nMojácar Playa is a place of peace in winter. Enjoy the mild sea air without the hustle and bustle of the holiday season.\n\nAt noon, Mojácar Park is a good meeting point to enjoy a local lunch or do some errands.\n\nThe late afternoon ride back shows the village in the warm colors of the winter sunset – a crowning conclusion."
+          },
+          "stops": [
+            {
+              "name": "Mojácar Pueblo",
+              "tip_5lang": {
+                "de": "Der Busfahrplan ist im Winter etwas ausgedünnt.",
+                "hu": "A buszmenetrend télen kicsit ritkább.",
+                "ro": "Orarele de autobuz sunt puțin reduse iarna.",
+                "en": "The bus schedule is slightly reduced in winter."
+              }
+            },
+            {
+              "name": "Mojácar Playa",
+              "tip_5lang": {
+                "de": "Die Sonne wärmt hier unten oft mehr als oben im Dorf.",
+                "hu": "A nap itt lenn gyakran jobban melegít, mint fent a faluban.",
+                "ro": "Soarele încălzește adesea mai mult aici jos decât sus în sat.",
+                "en": "The sun often warms more down here than up in the village."
+              }
+            },
+            {
+              "name": "Mojácar Park",
+              "tip_5lang": {
+                "de": "Ein guter Ort für einen Snack im Warmen.",
+                "hu": "Jó hely egy melegben elfogyasztott tízóraihoz.",
+                "ro": "Un loc bun pentru o gustare la căldură.",
+                "en": "A good place for a snack in the warm."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den 'Horario de Invierno' (Winterfahrplan) genau.",
+              "Die Busse sind im Winter gut beheizt.",
+              "An Wochenenden fahren die Busse seltener als werktags.",
+              "Genießen Sie die Fahrt auf der rechten Seite für den Meerblick."
+            ],
+            "hu": [
+              "Pontosan ellenőrizze a téli menetrendet (Horario de Invierno).",
+              "A buszok télen jól fűtöttek.",
+              "Hétvégén a buszok ritkábban járnak, mint hétköznap.",
+              "Élvezze az utat a jobb oldalon a tengeri kilátásért."
+            ],
+            "ro": [
+              "Verificați cu atenție 'Horario de Invierno' (orarul de iarnă).",
+              "Autobuzele sunt bine încălzite iarna.",
+              "În weekend, autobuzele circulă mai rar decât în timpul săptămânii.",
+              "Bucurați-vă de călătorie pe partea dreaptă pentru vederea la mare."
+            ],
+            "en": [
+              "Check the 'Horario de Invierno' (winter schedule) carefully.",
+              "Buses are well-heated in winter.",
+              "Buses run less frequently on weekends than on weekdays.",
+              "Enjoy the ride on the right side for the sea view."
+            ]
+          }
+        }
+      }
+    }
+  },
+  "external_resources": {
+    "webcam": "https://www.skylinewebcams.com/es/webcam/espana/andalucia/almeria/mojacar.html",
+    "tourism_office": "https://www.mojacar.es/turismo",
+    "events": "https://www.mojacar.es/",
+    "language_tips": {
+      "de": "Mojacar Pueblo hat eine grosse internationale Community, viele Galerien und Bars sind englischsprachig. Im Indalo-Land hilft ein Wissen ueber das prahistorische Strichmaennchen-Symbol als Gespraechsstoff. 'Migas' ist die lokale Spezialitaet, geroestete Brotbroesel mit Wurst und Trauben.",
+      "hu": "Mojacar Pueblo nemzetkozi kozosseggel rendelkezik, sok galeria es bar angolul mukodik. Az Indalo orszagaban hasznos tudni a tortenelem elotti palcaember szimbolumat. A 'migas' a helyi etel: pirito tt zsemlemorzsa kolbasszal es szolovel.",
+      "ro": "Mojacar Pueblo are o comunitate internationala mare, multe galerii si baruri vorbesc engleza. In tara Indalo, e util sa stii despre simbolul preistoric al omuletului. 'Migas' e specialitatea locala: firimituri prajite cu carnati si struguri.",
+      "en": "Mojacar Pueblo hosts a big international community, with many galleries and bars English-speaking. In Indalo country, knowing the prehistoric stick-figure symbol makes for great small talk. 'Migas' is the local dish: toasted breadcrumbs with sausage and grapes."
+    },
+    "best_time_to_visit": {
+      "de": "Mojacar Playa lebt von Mai bis Oktober, Mojacar Pueblo ist ganzjaehrig charmant mit milden Wintern. Juni und September bieten beste Temperaturen und freie Aussichtsterrassen. Im August explodiert die Population, Reservierung selbst beim Tapas-Bar fast Pflicht.",
+      "hu": "Mojacar Playa majustol oktoberig el, Mojacar Pueblo egesz ev csodas, enyhe tellel. Junius es szeptember a legjobb homerseklet es szabad kilatoteraszok. Augusztusban a lakossag tobbszorosere no, meg a tapas-baroknal is ajanlott elore foglalni.",
+      "ro": "Mojacar Playa traieste din mai pana in octombrie, Mojacar Pueblo e fermecator tot anul cu ierni blande. Iunie si septembrie au temperaturile cele mai bune si terase de belvedere libere. In august populatia explodeaza, rezerva chiar si la barurile de tapas.",
+      "en": "Mojacar Playa thrives May to October, while Mojacar Pueblo charms year-round with mild winters. June and September deliver ideal temperatures and free viewpoint terraces. August sees the population explode, with even tapas bars needing reservations."
+    },
+    "neighborhood_warnings": {
+      "de": "Sehr sicher mit minimaler Kriminalitaet, einige Autoeinbrueche entlang Mojacar Playa in der Saison. Die Bergstrasse zwischen Playa und Pueblo ist nachts schlecht beleuchtet und kurvig. Die Felsen am Strand 'El Sombrerico' nicht besteigen, sie sind brueschig.",
+      "hu": "Nagyon biztonsagos, alacsony bunozes, Mojacar Playa-n szezonban van nehany autobetores. A hegyi ut Playa es Pueblo kozott ejszaka rosszul kivilagitott es kanyargos. Az 'El Sombrerico' strand sziklajat ne maszd meg, omladozo.",
+      "ro": "Foarte sigur, criminalitate mica, in sezon apar spargeri la masinile parcate pe Mojacar Playa. Drumul de munte intre Playa si Pueblo e prost iluminat noaptea si plin de viraje. Nu te catara pe stancile de la plaja 'El Sombrerico', sunt fragile.",
+      "en": "Very safe with minimal crime, though some seasonal car break-ins along Mojacar Playa. The mountain road between Playa and Pueblo is poorly lit and winding at night. Avoid climbing the 'El Sombrerico' beach rocks, they're crumbly."
+    }
+  }
+}

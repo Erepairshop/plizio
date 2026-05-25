@@ -1,0 +1,2531 @@
+{
+  "city_id": "alhama-de-granada",
+  "anchor": {
+    "name": "Alhama de Granada",
+    "coords": [
+      -3.9914,
+      37.0083
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 2.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Plaza de la Constitución",
+            "hu": "Plaza de la Constitución",
+            "ro": "Plaza de la Constitución",
+            "en": "Constitution Square"
+          },
+          "coords": [
+            -3.9914,
+            37.0083
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Starten Sie mit einem Café solo.",
+            "hu": "Kezdje a napot egy erős feketével.",
+            "ro": "Începeți ziua cu o cafea locală.",
+            "en": "Start your day with a local coffee."
+          }
+        },
+        {
+          "name": {
+            "de": "Iglesia de la Encarnación",
+            "hu": "Iglesia de la Encarnación",
+            "ro": "Iglesia de la Encarnación",
+            "en": "Church of the Incarnation"
+          },
+          "coords": [
+            -3.9908,
+            37.0078
+          ],
+          "category": "cathedral",
+          "arrive_at": "09:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie das gotische Portal.",
+            "hu": "Csodálja meg a gótikus kapuzatot.",
+            "ro": "Admirați portalul gotic.",
+            "en": "Admire the Gothic portal."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa de la Inquisición",
+            "hu": "Inkvizíció Háza",
+            "ro": "Casa Inchiziției",
+            "en": "House of the Inquisition"
+          },
+          "coords": [
+            -3.9902,
+            37.0075
+          ],
+          "category": "historical",
+          "arrive_at": "11:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Achten Sie auf die Fassadendetails.",
+            "hu": "Figyelje meg a homlokzat díszeit.",
+            "ro": "Observați detaliile de pe fațadă.",
+            "en": "Look closely at the facade details."
+          }
+        },
+        {
+          "name": {
+            "de": "Hospital de la Reina",
+            "hu": "A Királynő Kórháza",
+            "ro": "Spitalul Reginei",
+            "en": "Queen's Hospital"
+          },
+          "coords": [
+            -3.9898,
+            37.0072
+          ],
+          "category": "historical",
+          "arrive_at": "12:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Eines der ersten christlichen Krankenhäuser.",
+            "hu": "Az egyik első keresztény kórház a környéken.",
+            "ro": "Unul dintre primele spitale creștine.",
+            "en": "One of the first Christian hospitals here."
+          }
+        },
+        {
+          "name": {
+            "de": "El Pósito",
+            "hu": "El Pósito (Gabonaraktár)",
+            "ro": "El Pósito",
+            "en": "El Pósito Grain Store"
+          },
+          "coords": [
+            -3.991,
+            37.0085
+          ],
+          "category": "industrial",
+          "arrive_at": "14:40",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Heute ein Kulturzentrum.",
+            "hu": "Ma kulturális központként működik.",
+            "ro": "Astăzi este un centru cultural.",
+            "en": "Now serves as a cultural center."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirador del Tajo",
+            "hu": "Mirador del Tajo kilátó",
+            "ro": "Mirador del Tajo",
+            "en": "Tajo Viewpoint"
+          },
+          "coords": [
+            -3.9895,
+            37.007
+          ],
+          "category": "natural",
+          "arrive_at": "15:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bester Blick auf die Schlucht.",
+            "hu": "A legjobb kilátás a szurdokra.",
+            "ro": "Cea mai bună vedere asupra defileului.",
+            "en": "Best view of the gorge."
+          }
+        },
+        {
+          "name": {
+            "de": "Los Tajos de Alhama",
+            "hu": "Alhama sziklái",
+            "ro": "Los Tajos de Alhama",
+            "en": "The Tajos Cliffs"
+          },
+          "coords": [
+            -3.988,
+            37.006
+          ],
+          "category": "natural",
+          "arrive_at": "16:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Wandern Sie ein Stück hinunter.",
+            "hu": "Sétáljon le egy kicsit a völgybe.",
+            "ro": "Coborâți puțin în vale.",
+            "en": "Take a short walk down into the valley."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt im historischen Kern an der Plaza und der prächtigen Kirche. Mittags erkunden Sie die bewegte Geschichte der Inquisition und der christlichen Rückeroberung im Hospital de la Reina. Am Nachmittag führen Sie die Wege zu den spektakulären Aussichtspunkten über die Tajos-Schlucht. Der Abend klingt mit einem Spaziergang am Fuße der gewaltigen Felswände aus.",
+        "hu": "A reggel a történelmi magban indul a főtéren és a gótikus templomban. Délben az inkvizíció sötét emlékeit és a királynő kórházát fedezzük fel. Délután a látványos szurdok peremén sétálunk, ahonnan lélegzetelállító kilátás nyílik a mélybe. Az estét a hatalmas sziklafalak alatti csendes természetben zárjuk.",
+        "ro": "Dimineața începe în centrul istoric, cu piața principală și biserica gotică. La prânz explorăm istoria Inchiziției și Spitalul Reginei. După-amiaza ne îndreptăm spre punctele de belvedere spectaculoase de deasupra defileului Tajo. Seara se încheie cu o plimbare liniștită la baza stâncilor uriașe.",
+        "en": "Morning starts in the historic core at the main square and the grand church. At midday, explore the history of the Inquisition and the Queen's Hospital. In the afternoon, head to the spectacular viewpoints overlooking the Tajo gorge. The evening concludes with a peaceful stroll at the base of the massive limestone cliffs."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Olla de Alhama",
+            "tip": "Herzhafter lokaler Eintopf."
+          },
+          {
+            "name": "Restaurante El Ventorro",
+            "tip": "Berühmt für Lammgerichte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Olla de Alhama",
+            "tip": "Helyi húsos egytálétel."
+          },
+          {
+            "name": "Restaurante El Ventorro",
+            "tip": "Híres sült bárányhús."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Olla de Alhama",
+            "tip": "Tocană locală consistentă."
+          },
+          {
+            "name": "Restaurante El Ventorro",
+            "tip": "Faimos pentru preparate din miel."
+          }
+        ],
+        "en": [
+          {
+            "name": "Olla de Alhama",
+            "tip": "A hearty local meat stew."
+          },
+          {
+            "name": "Restaurante El Ventorro",
+            "tip": "Famous for roast lamb."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Camino de los Ángeles",
+            "tip": "Ruhiger Pfad am Fluss.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Angyalok útja",
+            "tip": "Csendes ösvény a folyóparton.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Camino de los Ángeles",
+            "tip": "Potecă liniștită lângă râu.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Angels Path",
+            "tip": "Quiet riverside trail.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Honig",
+            "tip": "Direkt von den Imkern der Sierra."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi méz",
+            "tip": "Közvetlenül a Sierra méhészeitől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miere locală",
+            "tip": "Direct de la apicultorii din Sierra."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Honey",
+            "tip": "Directly from the Sierra beekeepers."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster.",
+          "Besuchen Sie die Thermalbäder (Baños) außerhalb der Stadt."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt a macskaköves utcákhoz.",
+          "Látogasson el a városon kívüli termálfürdőbe is."
+        ],
+        "ro": [
+          "Purtați încălțăminte comodă pentru străzile pietruite.",
+          "Vizitați băile termale din afara orașului."
+        ],
+        "en": [
+          "Wear comfortable shoes for the cobblestone streets.",
+          "Don't miss the thermal baths located just outside town."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt im historischen Kern an der Plaza und der prächtigen Kirche. Mittags erkunden Sie die bewegte Geschichte der Inquisition und der christlichen Rückeroberung im Hospital de la Reina. Am Nachmittag führen Sie die Wege zu den spektakulären Aussichtspunkten über die Tajos-Schlucht. Der Abend klingt mit einem Spaziergang am Fuße der gewaltigen Felswände aus.",
+            "hu": "A reggel a történelmi magban indul a főtéren és a gótikus templomban. Délben az inkvizíció sötét emlékeit és a királynő kórházát fedezzük fel. Délután a látványos szurdok peremén sétálunk, ahonnan lélegzetelállító kilátás nyílik a mélybe. Az estét a hatalmas sziklafalak alatti csendes természetben zárjuk.",
+            "ro": "Dimineața începe în centrul istoric, cu piața principală și biserica gotică. La prânz explorăm istoria Inchiziției și Spitalul Reginei. După-amiaza ne îndreptăm spre punctele de belvedere spectaculoase de deasupra defileului Tajo. Seara se încheie cu o plimbare liniștită la baza stâncilor uriașe.",
+            "en": "Morning starts in the historic core at the main square and the grand church. At midday, explore the history of the Inquisition and the Queen's Hospital. In the afternoon, head to the spectacular viewpoints overlooking the Tajo gorge. The evening concludes with a peaceful stroll at the base of the massive limestone cliffs."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Plaza de la Constitución",
+                "hu": "Plaza de la Constitución",
+                "ro": "Plaza de la Constitución",
+                "en": "Constitution Square"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie mit einem Café solo.",
+                "hu": "Kezdje a napot egy erős feketével.",
+                "ro": "Începeți ziua cu o cafea locală.",
+                "en": "Start your day with a local coffee."
+              }
+            },
+            {
+              "name": {
+                "de": "Iglesia de la Encarnación",
+                "hu": "Iglesia de la Encarnación",
+                "ro": "Iglesia de la Encarnación",
+                "en": "Church of the Incarnation"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie das gotische Portal.",
+                "hu": "Csodálja meg a gótikus kapuzatot.",
+                "ro": "Admirați portalul gotic.",
+                "en": "Admire the Gothic portal."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa de la Inquisición",
+                "hu": "Inkvizíció Háza",
+                "ro": "Casa Inchiziției",
+                "en": "House of the Inquisition"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf die Fassadendetails.",
+                "hu": "Figyelje meg a homlokzat díszeit.",
+                "ro": "Observați detaliile de pe fațadă.",
+                "en": "Look closely at the facade details."
+              }
+            },
+            {
+              "name": {
+                "de": "Hospital de la Reina",
+                "hu": "A Királynő Kórháza",
+                "ro": "Spitalul Reginei",
+                "en": "Queen's Hospital"
+              },
+              "tip_5lang": {
+                "de": "Eines der ersten christlichen Krankenhäuser.",
+                "hu": "Az egyik első keresztény kórház a környéken.",
+                "ro": "Unul dintre primele spitale creștine.",
+                "en": "One of the first Christian hospitals here."
+              }
+            },
+            {
+              "name": {
+                "de": "El Pósito",
+                "hu": "El Pósito (Gabonaraktár)",
+                "ro": "El Pósito",
+                "en": "El Pósito Grain Store"
+              },
+              "tip_5lang": {
+                "de": "Heute ein Kulturzentrum.",
+                "hu": "Ma kulturális központként működik.",
+                "ro": "Astăzi este un centru cultural.",
+                "en": "Now serves as a cultural center."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador del Tajo",
+                "hu": "Mirador del Tajo kilátó",
+                "ro": "Mirador del Tajo",
+                "en": "Tajo Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Bester Blick auf die Schlucht.",
+                "hu": "A legjobb kilátás a szurdokra.",
+                "ro": "Cea mai bună vedere asupra defileului.",
+                "en": "Best view of the gorge."
+              }
+            },
+            {
+              "name": {
+                "de": "Los Tajos de Alhama",
+                "hu": "Alhama sziklái",
+                "ro": "Los Tajos de Alhama",
+                "en": "The Tajos Cliffs"
+              },
+              "tip_5lang": {
+                "de": "Wandern Sie ein Stück hinunter.",
+                "hu": "Sétáljon le egy kicsit a völgybe.",
+                "ro": "Coborâți puțin în vale.",
+                "en": "Take a short walk down into the valley."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Olla de Alhama",
+                "tip": "Herzhafter lokaler Eintopf."
+              },
+              {
+                "name": "Restaurante El Ventorro",
+                "tip": "Berühmt für Lammgerichte."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Olla de Alhama",
+                "tip": "Helyi húsos egytálétel."
+              },
+              {
+                "name": "Restaurante El Ventorro",
+                "tip": "Híres sült bárányhús."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Olla de Alhama",
+                "tip": "Tocană locală consistentă."
+              },
+              {
+                "name": "Restaurante El Ventorro",
+                "tip": "Faimos pentru preparate din miel."
+              }
+            ],
+            "en": [
+              {
+                "name": "Olla de Alhama",
+                "tip": "A hearty local meat stew."
+              },
+              {
+                "name": "Restaurante El Ventorro",
+                "tip": "Famous for roast lamb."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Camino de los Ángeles",
+                "tip": "Ruhiger Pfad am Fluss.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Angyalok útja",
+                "tip": "Csendes ösvény a folyóparton.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Camino de los Ángeles",
+                "tip": "Potecă liniștită lângă râu.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Angels Path",
+                "tip": "Quiet riverside trail.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Lokaler Honig",
+                "tip": "Direkt von den Imkern der Sierra."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Helyi méz",
+                "tip": "Közvetlenül a Sierra méhészeitől."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Miere locală",
+                "tip": "Direct de la apicultorii din Sierra."
+              }
+            ],
+            "en": [
+              {
+                "name": "Local Honey",
+                "tip": "Directly from the Sierra beekeepers."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster.",
+              "Besuchen Sie die Thermalbäder (Baños) außerhalb der Stadt."
+            ],
+            "hu": [
+              "Viseljen kényelmes cipőt a macskaköves utcákhoz.",
+              "Látogasson el a városon kívüli termálfürdőbe is."
+            ],
+            "ro": [
+              "Purtați încălțăminte comodă pentru străzile pietruite.",
+              "Vizitați băile termale din afara orașului."
+            ],
+            "en": [
+              "Wear comfortable shoes for the cobblestone streets.",
+              "Don't miss the thermal baths located just outside town."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Vormittag auf der Plaza de la Constitución unter den Arkaden. Die Kirche der Menschwerdung bietet einen trockenen Rückzugsort voller Geschichte.\n\nMittags erkunden Sie das Haus der Inquisition und das Königshospital. Diese Innenräume schützen Sie vor dem andalusischen Regen.\n\nAm Nachmittag besuchen Sie den Getreidespeicher El Pósito. Der Blick vom Tajo-Aussichtspunkt ist bei Nebel besonders mystisch.\n\nAbends spazieren Sie vorsichtig entlang der Klippen. Die nassen Steine glänzen im Laternenlicht der Altstadt.",
+            "hu": "Kezdje a délelőttöt a Constitution téren, az árkádok alatt védve. A Megtestesülés temploma száraz menedéket és lenyűgöző látványt nyújt az eső elől.\n\nDélben az inkvizíciós ház és a Királyné kórháza várja, ahol fedett helyen merülhet el a város történelmében.\n\nDélután nézze meg az El Pósito magtárat. A Tajo kilátó ilyenkor ködös, drámai arcát mutatja a szakadék felett.\n\nEste óvatos séta a sziklák mentén. A vizes macskakövek csillogása különleges hangulatot ad az óvárosi fényeknek.",
+            "ro": "Începeți dimineața în Piața Constituției, sub arcade. Biserica Încarnării oferă un refugiu uscat și plin de istorie împotriva ploii.\n\nLa prânz, explorați Casa Inchiziției și Spitalul Reginei. Aceste spații interioare vă protejează de vremea nefavorabilă.\n\nDupă-amiaza, vizitați depozitul de cereale El Pósito. Vederea de la punctul de belvedere Tajo este mistică atunci când ceața se ridică din prăpastie.\n\nSeara, plimbați-vă cu atenție de-a lungul stâncilor. Pietrele umede strălucesc sub luminile felinarelor din orașul vechi.",
+            "en": "Start your morning at Constitution Square, sheltering under the historic arcades. The Church of the Incarnation provides a dry, spiritual retreat.\n\nAt noon, explore the House of the Inquisition and the Queen's Hospital. These indoor venues are perfect for avoiding the Andalusian rain.\n\nIn the afternoon, visit the El Pósito Grain Store. The Tajo Viewpoint offers a misty, dramatic view of the gorge in the rain.\n\nIn the evening, take a careful stroll along the cliffs. The wet cobblestones reflect the streetlights of the old quarter beautifully."
+          },
+          "stops": [
+            {
+              "name": "Constitution Square",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkaden der Cafés, um trocken zu bleiben.",
+                "hu": "Használja a kávézók árkádjait, hogy száraz maradjon.",
+                "ro": "Folosiți arcadele cafenelelor pentru a rămâne uscat.",
+                "en": "Use the cafe arcades to stay dry while people-watching."
+              }
+            },
+            {
+              "name": "Church of the Incarnation",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um einen heftigen Schauer abzuwarten.",
+                "hu": "Ideális hely egy heves zápor kivárására.",
+                "ro": "Un loc ideal pentru a aștepta trecerea unei averse.",
+                "en": "An ideal spot to wait out a heavy downpour."
+              }
+            },
+            {
+              "name": "House of the Inquisition",
+              "tip_5lang": {
+                "de": "Besichtigung im Inneren; perfekt für regnerische Stunden.",
+                "hu": "Belső látogatás; tökéletes az esős órákra.",
+                "ro": "Vizită în interior; perfectă pentru orele ploioase.",
+                "en": "Indoor visit; perfect for rainy hours of the day."
+              }
+            },
+            {
+              "name": "Queen's Hospital",
+              "tip_5lang": {
+                "de": "Genießen Sie die Ausstellungen im Trockenen.",
+                "hu": "Élvezze a kiállításokat a száraz épületben.",
+                "ro": "Bucurați-vă de expoziții în interiorul uscat.",
+                "en": "Enjoy the museum exhibits inside the dry building."
+              }
+            },
+            {
+              "name": "El Pósito Grain Store",
+              "tip_5lang": {
+                "de": "Überdachtes historisches Gebäude, schützt vor Wind und Regen.",
+                "hu": "Fedett történelmi épület, véd a széltől és az esőtől.",
+                "ro": "Clădire istorică acoperită, protejează de vânt și ploaie.",
+                "en": "Covered historic building, protects from wind and rain."
+              }
+            },
+            {
+              "name": "Tajo Viewpoint",
+              "tip_5lang": {
+                "de": "Vorsicht, das Pflaster kann bei Nässe rutschig sein.",
+                "hu": "Vigyázat, a burkolat nedvesen csúszós lehet.",
+                "ro": "Atenție, pavajul poate fi alunecos când este ud.",
+                "en": "Careful, the pavement can be slippery when wet."
+              }
+            },
+            {
+              "name": "The Tajos Cliffs",
+              "tip_5lang": {
+                "de": "Tragen Sie festes Schuhwerk für den Weg am Abgrund.",
+                "hu": "Viseljen túrabakancsot a szakadék menti úton.",
+                "ro": "Purtați încălțăminte aderentă pentru drumul de pe margine.",
+                "en": "Wear sturdy shoes for the path along the edge."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Kalksteingassen von Alhama werden bei Regen extrem glatt.",
+              "Tragen Sie wasserfeste Schuhe mit gutem Profil.",
+              "Die Museen in der Altstadt sind gute Zufluchtsorte.",
+              "Der Nebel in der Schlucht bietet tolle Fotomotive, aber Vorsicht am Rand."
+            ],
+            "hu": [
+              "Alhama mészkő utcái esőben rendkívül csúszóssá válnak.",
+              "Viseljen vízálló cipőt jó tapadású talppal.",
+              "Az óvárosi múzeumok kiváló menedéket nyújtanak.",
+              "A szakadékban lévő köd drámai fotótémát ad, de vigyázzon a peremen."
+            ],
+            "ro": [
+              "Străzile de calcar din Alhama devin extrem de alunecoase pe ploaie.",
+              "Purtați pantofi impermeabili cu talpă aderentă.",
+              "Muzeele din centrul vechi sunt refugii excelente.",
+              "Ceața din defileu oferă subiecte foto dramatice, dar atenție la margine."
+            ],
+            "en": [
+              "Alhama's limestone streets become extremely slippery in the rain.",
+              "Wear waterproof shoes with a good grip.",
+              "The old town museums are great indoor sanctuaries.",
+              "The mist in the gorge provides dramatic photos, but stay away from the edge."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen auf der Plaza de la Constitución weckt die Geister. Die Sonne wärmt die Fassade der Kirche der Menschwerdung.\n\nMittags besuchen Sie das Haus der Inquisition und das Königshospital. Die dicken Mauern speichern die Kühle, aber der Spaziergang dazwischen ist angenehm.\n\nAm Nachmittag erkunden Sie El Pósito. Der Tajo-Aussichtspunkt bietet im Winter oft die klarste Sicht auf die fernen Gipfel.\n\nAbends sollten Sie früh zu den Klippen aufbrechen. Der Sonnenuntergang taucht den Tajo gegen 18:00 Uhr in ein tiefes Orange.",
+            "hu": "A tiszta téli reggel a Constitution téren frissítő élmény. A nap melege már érinti a Megtestesülés templomának homlokzatát.\n\nDélben az inkvizíciós ház és a Királyné kórháza nyújt történelmi kalandot. A vastag falak közt hűvös van, de kint kellemes az idő.\n\nDélután az El Pósito megtekintése után irány a Tajo kilátó. Télen a legtisztább a látótávolság a távoli hegycsúcsok felé.\n\nEste korán érkezzen a sziklákhoz. A naplemente már 18:00 körül mély narancssárgára festi a szakadék falait.",
+            "ro": "O dimineață senină de iarnă în Piața Constituției vă va înviora. Soarele încălzește fațada Bisericii Încarnării.\n\nLa prânz, vizitați Casa Inchiziției și Spitalul Reginei. Zidurile groase păstrează răcoarea, dar plimbarea între ele este plăcută sub soare.\n\nDupă-amiaza, explorați El Pósito. Punctul de belvedere Tajo oferă iarna cea mai clară vizibilitate spre culmile îndepărtate.\n\nSeara, mergeți devreme la stânci. Apusul pictează defileul într-un portocaliu intens în jurul orei 18:00.",
+            "en": "A crisp winter morning at Constitution Square is refreshing. The winter sun warms the golden facade of the Church of the Incarnation.\n\nAt noon, visit the House of the Inquisition and the Queen's Hospital. The streets are cool, but the sun is strong and pleasant.\n\nIn the afternoon, explore El Pósito. The Tajo Viewpoint often provides the clearest views of the distant peaks during winter.\n\nIn the evening, head to the cliffs early. The sun sets around 18:00, painting the Tajo in deep orange hues."
+          },
+          "stops": [
+            {
+              "name": "Constitution Square",
+              "tip_5lang": {
+                "de": "Suchen Sie sich einen Platz in der Sonne für den Kaffee.",
+                "hu": "Keressen egy napsütötte helyet a kávéjához.",
+                "ro": "Căutați un loc la soare pentru cafeaua de dimineață.",
+                "en": "Find a sunny spot for your morning coffee."
+              }
+            },
+            {
+              "name": "Church of the Incarnation",
+              "tip_5lang": {
+                "de": "Im Inneren kann es recht kühl sein; behalten Sie die Jacke an.",
+                "hu": "Bent elég hűvös lehet; ne vegye le a kabátját.",
+                "ro": "În interior poate fi destul de răcoare; păstrați jacheta.",
+                "en": "It can be quite chilly inside; keep your jacket on."
+              }
+            },
+            {
+              "name": "House of the Inquisition",
+              "tip_5lang": {
+                "de": "Besuchen Sie diesen Ort zur Mittagszeit, wenn es draußen warm ist.",
+                "hu": "Délidőben látogassa meg, amikor kint melegebb van.",
+                "ro": "Vizitați acest loc la prânz, când afară este mai cald.",
+                "en": "Visit at midday when it is warmer outside."
+              }
+            },
+            {
+              "name": "Queen's Hospital",
+              "tip_5lang": {
+                "de": "Ein guter Ort, um der Mittagssonne kurz zu entfliehen.",
+                "hu": "Jó hely, hogy rövid időre elmeneküljön a déli nap elől.",
+                "ro": "Un loc bun pentru a scăpa scurt de soarele de la prânz.",
+                "en": "A good place to briefly escape the midday sun."
+              }
+            },
+            {
+              "name": "El Pósito Grain Store",
+              "tip_5lang": {
+                "de": "Genießen Sie die historische Architektur ohne Sommerhitze.",
+                "hu": "Élvezze a történelmi építészetet a nyári hőség nélkül.",
+                "ro": "Bucurați-vă de arhitectura istorică fără arșița verii.",
+                "en": "Enjoy the historic architecture without the summer heat."
+              }
+            },
+            {
+              "name": "Tajo Viewpoint",
+              "tip_5lang": {
+                "de": "Die Fernsicht auf die Sierra Nevada ist im Winter am besten.",
+                "hu": "A Sierra Nevada felé nyíló kilátás télen a legszebb.",
+                "ro": "Vizibilitatea spre Sierra Nevada este cea mai bună iarna.",
+                "en": "Visibility towards Sierra Nevada is best in winter."
+              }
+            },
+            {
+              "name": "The Tajos Cliffs",
+              "tip_5lang": {
+                "de": "Achten Sie auf den frühen Sonnenuntergang gegen 18 Uhr.",
+                "hu": "Figyeljen a korai naplementére 18 óra körül.",
+                "ro": "Atenție la apusul devreme, în jurul orei 18:00.",
+                "en": "Watch out for the early sunset around 6 PM."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Kleidung im Zwiebelprinzip für Sonne und Schatten.",
+              "Die Schatten in der Schlucht sind deutlich kühler.",
+              "Der Sonnenuntergang ist im Winter besonders spektakulär.",
+              "Alhama liegt hoch; nachts sinken die Temperaturen stark."
+            ],
+            "hu": [
+              "Öltözködjön rétegesen a napos és árnyékos helyek miatt.",
+              "A szakadék árnyékos részei jóval hűvösebbek.",
+              "A téli naplemente különösen látványos a szikláknál.",
+              "Alhama magasan fekszik; éjszaka jelentősen lehűl a levegő."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi pentru diferențele soare/umbră.",
+              "Umbrele din defileu sunt mult mai răcoroase.",
+              "Apusul de iarnă este deosebit de spectaculos la stânci.",
+              "Alhama este la altitudine; noaptea temperaturile scad mult."
+            ],
+            "en": [
+              "Wear layers to adjust between sun and cold shadows.",
+              "The shadows in the gorge are significantly colder.",
+              "Winter sunsets are particularly spectacular here.",
+              "Alhama is at altitude; temperatures drop sharply at night."
+            ]
+          }
+        }
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "15:30",
+      "total_km": 8.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Baños Árabes",
+            "hu": "Arab fürdők",
+            "ro": "Băile Arabe",
+            "en": "Arab Baths"
+          },
+          "coords": [
+            -3.975,
+            37.018
+          ],
+          "category": "historical",
+          "arrive_at": "09:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie im warmen Quellwasser.",
+            "hu": "Lazítson a meleg forrásvízben.",
+            "ro": "Relaxați-vă în apa termală.",
+            "en": "Relax in the warm spring water."
+          }
+        },
+        {
+          "name": {
+            "de": "Los Tajos de Alhama",
+            "hu": "Alhama szurdok",
+            "ro": "Defileul Alhama",
+            "en": "Alhama Gorge"
+          },
+          "coords": [
+            -3.988,
+            37.006
+          ],
+          "category": "natural",
+          "arrive_at": "11:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Fahren Sie vorsichtig am Abgrund.",
+            "hu": "Óvatosan tekerjen a perem mentén.",
+            "ro": "Pedalați cu grijă pe marginea prăpastiei.",
+            "en": "Ride carefully along the cliff edge."
+          }
+        },
+        {
+          "name": {
+            "de": "Iglesia del Carmen",
+            "hu": "Kármel-templom",
+            "ro": "Iglesia del Carmen",
+            "en": "Carmen Church"
+          },
+          "coords": [
+            -3.9912,
+            37.0088
+          ],
+          "category": "religious",
+          "arrive_at": "12:45",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Schöner Platz für eine Pause.",
+            "hu": "Kiváló hely egy rövid pihenőhöz.",
+            "ro": "Un loc frumos pentru o pauză.",
+            "en": "A lovely spot for a break."
+          }
+        },
+        {
+          "name": {
+            "de": "Posada de los Arrieros",
+            "hu": "Öszvérhajcsárok fogadója",
+            "ro": "Posada de los Arrieros",
+            "en": "Muleteers Inn"
+          },
+          "coords": [
+            -3.9918,
+            37.0085
+          ],
+          "category": "historical",
+          "arrive_at": "13:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Traditionelle Architektur.",
+            "hu": "Hagyományos andalúz építészet.",
+            "ro": "Arhitectură tradițională.",
+            "en": "Traditional Andalusian architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Plaza de la Constitución",
+            "hu": "Főtér",
+            "ro": "Piața Constituției",
+            "en": "Main Square"
+          },
+          "coords": [
+            -3.9914,
+            37.0083
+          ],
+          "category": "squares",
+          "arrive_at": "14:35",
+          "stay_min": 55,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Kaltes Getränk zum Abschluss.",
+            "hu": "Egy hideg ital a túra végén.",
+            "ro": "O băutură rece la final.",
+            "en": "A cold drink to end the tour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Radtour führt Sie zuerst aus der Stadt hinaus zu den berühmten Thermalbädern. Danach radeln Sie entlang der Kante der Tajos-Schlucht mit atemberaubenden Ausblicken. Mittags kehren Sie in die Altstadt zurück, um die Kirche del Carmen und die historische Herberge der Arrieros zu besichtigen. Die Tour endet gemütlich auf dem Hauptplatz.",
+        "hu": "Ez a kerékpáros túra kivezeti Önt a városból a híres termálfürdőkhöz. Ezután a Tajos-szurdok peremén tekerünk, ahonnan lélegzetelállító a kilátás. Délben visszatérünk az óvárosba, hogy megnézzük a Kármel-templomot és a történelmi fogadót. A túra a főtéren zárul egy kellemes frissítővel.",
+        "ro": "Acest tur cu bicicleta vă scoate din oraș către faimoasele băi termale. Apoi pedalați de-a lungul marginii defileului Tajo, cu vederi uluitoare. La prânz reveniți în orașul vechi pentru a vizita biserica del Carmen și hanul istoric. Turul se încheie relaxat în piața principală.",
+        "en": "This bike tour first takes you out of town to the famous thermal baths. Then, ride along the edge of the Tajo gorge with breathtaking views. At midday, return to the old town to visit the Carmen church and the historic muleteers' inn. The tour concludes comfortably at the main square."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Migas",
+            "tip": "Traditionelles Bauerngericht."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Migas",
+            "tip": "Hagyományos pirított kenyérmorzsa."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Migas",
+            "tip": "Preparat tradițional din firimituri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Migas",
+            "tip": "Traditional fried breadcrumb dish."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Pantano de los Bermejales",
+            "tip": "Stausee in der Nähe.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bermejales-tó",
+            "tip": "Közeli víztározó.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pantano de los Bermejales",
+            "tip": "Lac de acumulare în apropiere.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bermejales Reservoir",
+            "tip": "Nearby lake area.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Olivenöl",
+            "tip": "Aus der Region Poniente Granadino."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Olívaolaj",
+            "tip": "A Poniente Granadino régióból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ulei de măsline",
+            "tip": "Din regiunea Poniente Granadino."
+          }
+        ],
+        "en": [
+          {
+            "name": "Olive Oil",
+            "tip": "From the Poniente Granadino region."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Einige Steigungen erfordern gute Kondition.",
+          "Nehmen Sie genug Wasser mit für die Fahrt zu den Bädern."
+        ],
+        "hu": [
+          "Néhány emelkedőhöz jó kondíció kell.",
+          "Vigyen elég vizet a fürdőkhöz vezető útra."
+        ],
+        "ro": [
+          "Unele pante necesită o condiție fizică bună.",
+          "Luați destulă apă pentru drumul spre băi."
+        ],
+        "en": [
+          "Some climbs require good fitness.",
+          "Bring enough water for the ride to the baths."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Diese Radtour führt Sie zuerst aus der Stadt hinaus zu den berühmten Thermalbädern. Danach radeln Sie entlang der Kante der Tajos-Schlucht mit atemberaubenden Ausblicken. Mittags kehren Sie in die Altstadt zurück, um die Kirche del Carmen und die historische Herberge der Arrieros zu besichtigen. Die Tour endet gemütlich auf dem Hauptplatz.",
+            "hu": "Ez a kerékpáros túra kivezeti Önt a városból a híres termálfürdőkhöz. Ezután a Tajos-szurdok peremén tekerünk, ahonnan lélegzetelállító a kilátás. Délben visszatérünk az óvárosba, hogy megnézzük a Kármel-templomot és a történelmi fogadót. A túra a főtéren zárul egy kellemes frissítővel.",
+            "ro": "Acest tur cu bicicleta vă scoate din oraș către faimoasele băi termale. Apoi pedalați de-a lungul marginii defileului Tajo, cu vederi uluitoare. La prânz reveniți în orașul vechi pentru a vizita biserica del Carmen și hanul istoric. Turul se încheie relaxat în piața principală.",
+            "en": "This bike tour first takes you out of town to the famous thermal baths. Then, ride along the edge of the Tajo gorge with breathtaking views. At midday, return to the old town to visit the Carmen church and the historic muleteers' inn. The tour concludes comfortably at the main square."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Baños Árabes",
+                "hu": "Arab fürdők",
+                "ro": "Băile Arabe",
+                "en": "Arab Baths"
+              },
+              "tip_5lang": {
+                "de": "Entspannen Sie im warmen Quellwasser.",
+                "hu": "Lazítson a meleg forrásvízben.",
+                "ro": "Relaxați-vă în apa termală.",
+                "en": "Relax in the warm spring water."
+              }
+            },
+            {
+              "name": {
+                "de": "Los Tajos de Alhama",
+                "hu": "Alhama szurdok",
+                "ro": "Defileul Alhama",
+                "en": "Alhama Gorge"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig am Abgrund.",
+                "hu": "Óvatosan tekerjen a perem mentén.",
+                "ro": "Pedalați cu grijă pe marginea prăpastiei.",
+                "en": "Ride carefully along the cliff edge."
+              }
+            },
+            {
+              "name": {
+                "de": "Iglesia del Carmen",
+                "hu": "Kármel-templom",
+                "ro": "Iglesia del Carmen",
+                "en": "Carmen Church"
+              },
+              "tip_5lang": {
+                "de": "Schöner Platz für eine Pause.",
+                "hu": "Kiváló hely egy rövid pihenőhöz.",
+                "ro": "Un loc frumos pentru o pauză.",
+                "en": "A lovely spot for a break."
+              }
+            },
+            {
+              "name": {
+                "de": "Posada de los Arrieros",
+                "hu": "Öszvérhajcsárok fogadója",
+                "ro": "Posada de los Arrieros",
+                "en": "Muleteers Inn"
+              },
+              "tip_5lang": {
+                "de": "Traditionelle Architektur.",
+                "hu": "Hagyományos andalúz építészet.",
+                "ro": "Arhitectură tradițională.",
+                "en": "Traditional Andalusian architecture."
+              }
+            },
+            {
+              "name": {
+                "de": "Plaza de la Constitución",
+                "hu": "Főtér",
+                "ro": "Piața Constituției",
+                "en": "Main Square"
+              },
+              "tip_5lang": {
+                "de": "Kaltes Getränk zum Abschluss.",
+                "hu": "Egy hideg ital a túra végén.",
+                "ro": "O băutură rece la final.",
+                "en": "A cold drink to end the tour."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Migas",
+                "tip": "Traditionelles Bauerngericht."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Migas",
+                "tip": "Hagyományos pirított kenyérmorzsa."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Migas",
+                "tip": "Preparat tradițional din firimituri."
+              }
+            ],
+            "en": [
+              {
+                "name": "Migas",
+                "tip": "Traditional fried breadcrumb dish."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Pantano de los Bermejales",
+                "tip": "Stausee in der Nähe.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Bermejales-tó",
+                "tip": "Közeli víztározó.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Pantano de los Bermejales",
+                "tip": "Lac de acumulare în apropiere.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Bermejales Reservoir",
+                "tip": "Nearby lake area.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Olivenöl",
+                "tip": "Aus der Region Poniente Granadino."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Olívaolaj",
+                "tip": "A Poniente Granadino régióból."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Ulei de măsline",
+                "tip": "Din regiunea Poniente Granadino."
+              }
+            ],
+            "en": [
+              {
+                "name": "Olive Oil",
+                "tip": "From the Poniente Granadino region."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Einige Steigungen erfordern gute Kondition.",
+              "Nehmen Sie genug Wasser mit für die Fahrt zu den Bädern."
+            ],
+            "hu": [
+              "Néhány emelkedőhöz jó kondíció kell.",
+              "Vigyen elég vizet a fürdőkhöz vezető útra."
+            ],
+            "ro": [
+              "Unele pante necesită o condiție fizică bună.",
+              "Luați destulă apă pentru drumul spre băi."
+            ],
+            "en": [
+              "Some climbs require good fitness.",
+              "Bring enough water for the ride to the baths."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie bei den Arabischen Bädern, wo das warme Wasser den Regen vergessen lässt. Ein entspannter Beginn trotz grauem Himmel.\n\nMittags führt der Weg durch die Alhama-Schlucht. Der Pfad kann schlammig sein, bietet aber wilde Natur pur.\n\nAm Nachmittag erreichen Sie die Carmen-Kirche und das Muleteers Inn. Diese historischen Mauern bieten Schutz vor den Schauern.\n\nAbends endet die Tour am Hauptplatz. Ein warmer Tee unter den Arkaden ist der perfekte Abschluss des Tages.",
+            "hu": "Kezdje az Arab fürdőknél, ahol a meleg víz elfeledteti az esőt. Pihentető indítás a szürke égbolt ellenére is.\n\nDélben az Alhama-szakadékon át vezet az út. Az ösvény sáros lehet, de a természet ilyenkor a legvadabb.\n\nDélután a Carmen-templom és az Öszvéresek fogadója érintésével haladjon. A vastag falak védenek a záporoktól.\n\nEste a főtéren ér véget a túra. Egy forró tea az árkádok alatt tökéletes lezárása a napnak.",
+            "ro": "Începeți la Băile Arabe, unde apa caldă vă va face să uitați de ploaie. Un început relaxant în ciuda cerului gri.\n\nLa prânz, drumul trece prin Defileul Alhama. Poteca poate fi noroioasă, dar oferă natură sălbatică pură.\n\nDupă-amiaza ajungeți la Biserica Carmen și Hanul Cataragiilor. Aceste ziduri istorice oferă adăpost de averse.\n\nSeara, turul se încheie în piața principală. Un ceai cald sub arcade este finalul perfect pentru zi.",
+            "en": "Start at the Arab Baths, where the warm thermal water makes you forget the rain. A relaxing start despite the grey sky.\n\nAt noon, the route takes you through the Alhama Gorge. The path might be muddy, but it offers raw, wild nature.\n\nIn the afternoon, reach Carmen Church and the Muleteers Inn. These historic sites provide shelter from the rain.\n\nIn the evening, finish at the Main Square. A warm tea under the arcades is the perfect way to end the day."
+          },
+          "stops": [
+            {
+              "name": "Arab Baths",
+              "tip_5lang": {
+                "de": "Das warme Thermalwasser ist bei Regen besonders angenehm.",
+                "hu": "A meleg termálvíz esőben különösen kellemes.",
+                "ro": "Apa termală caldă este deosebit de plăcută pe ploaie.",
+                "en": "The warm thermal water is especially pleasant in the rain."
+              }
+            },
+            {
+              "name": "Alhama Gorge",
+              "tip_5lang": {
+                "de": "Vorsicht, der Weg ist schlammig; nutzen Sie breite Reifen.",
+                "hu": "Vigyázat, az út sáros; használjon szélesebb gumikat.",
+                "ro": "Atenție, drumul este noroios; folosiți anvelope late.",
+                "en": "Caution, the path is muddy; use wider tires if possible."
+              }
+            },
+            {
+              "name": "Carmen Church",
+              "tip_5lang": {
+                "de": "Ein guter Ort, um die Regenkleidung kurz zu lüften.",
+                "hu": "Jó hely az esőruházat rövid szellőztetésére.",
+                "ro": "Un loc bun pentru a aerisi scurt hainele de ploaie.",
+                "en": "A good spot to briefly vent your rain gear."
+              }
+            },
+            {
+              "name": "Muleteers Inn",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad unter dem Vordach ab.",
+                "hu": "Parkolja le a kerékpárját az előtető alatt.",
+                "ro": "Parcați bicicleta sub acoperișul de la intrare.",
+                "en": "Park your bike under the entrance canopy."
+              }
+            },
+            {
+              "name": "Main Square",
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig über das nasse Kopfsteinpflaster.",
+                "hu": "Hajtson óvatosan a nedves macskaköveken.",
+                "ro": "Conduceți cu atenție pe pavajul umed.",
+                "en": "Ride carefully over the wet cobblestones."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie steile, gepflasterte Abfahrten in der Stadt.",
+              "Schutzbleche sind bei diesem Wetter unverzichtbar.",
+              "Die Schluchtwege können nach starkem Regen gesperrt sein.",
+              "Prüfen Sie Ihre Bremsen vor der Abfahrt ins Tajo."
+            ],
+            "hu": [
+              "Kerülje a meredek, kövezett lejtőket a városban.",
+              "A sárvédő elengedhetetlen ilyen időben.",
+              "A szakadék ösvényei nagy eső után lezárva lehetnek.",
+              "Ellenőrizze a fékeit, mielőtt leereszkedik a Tajóhoz."
+            ],
+            "ro": [
+              "Evitați coborârile abrupte pavate din oraș.",
+              "Apărătorile de noroi sunt indispensabile pe această vreme.",
+              "Potecile din defileu pot fi închise după ploi abundente.",
+              "Verificați frânele înainte de coborârea spre Tajo."
+            ],
+            "en": [
+              "Avoid steep, paved descents within the town.",
+              "Mudguards are essential in this weather.",
+              "Gorge paths may be closed after heavy rain.",
+              "Check your brakes before descending into the Tajo."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens bei den Arabischen Bädern dampft das Wasser in der kalten Luft. Ein magischer Anblick für Frühaufsteher.\n\nMittags radeln Sie durch die Alhama-Schlucht. Die klare Luft lässt die Felsformationen schärfer erscheinen.\n\nAm Nachmittag besuchen Sie die Carmen-Kirche und das Muleteers Inn. Die Sonne steht tief und wirft lange Schatten.\n\nAbends erreichen Sie den Hauptplatz. Genießen Sie die winterliche Ruhe, bevor die Temperaturen nach Sonnenuntergang sinken.",
+            "hu": "Reggel az Arab fürdőknél gőzölög a víz a hideg levegőben. Varázslatos látvány a korán kelőknek.\n\nDélben a szakadékon át tekerve a tiszta levegőben élesebben látszanak a sziklák.\n\nDélután a Carmen-templom és az Öszvéresek fogadója következik. A nap alacsonyan jár, hosszú árnyékokat vetve.\n\nEste érkezés a főtérre. Élvezze a téli nyugalmat, mielőtt a naplemente után hirtelen lehűl az idő.",
+            "ro": "Dimineața, la Băile Arabe, apa scoate aburi în aerul rece. O priveliște magică pentru cei matinali.\n\nLa prânz, pedalați prin Defileul Alhama. Aerul curat face ca formațiunile stâncoase să pară mai clare.\n\nDupă-amiaza vizitați Biserica Carmen și Hanul Cataragiilor. Soarele este jos și aruncă umbre lungi.\n\nSeara ajungeți în piața principală. Bucurați-vă de liniștea iernii înainte ca temperaturile să scadă după apus.",
+            "en": "In the morning at the Arab Baths, steam rises from the water into the cold air. A magical sight for early riders.\n\nAt noon, cycle through the Alhama Gorge. The crisp winter air makes the rock formations look sharper.\n\nIn the afternoon, visit Carmen Church and the Muleteers Inn. The low sun casts long, dramatic shadows.\n\nIn the evening, reach the Main Square. Enjoy the winter peace before temperatures drop after sunset."
+          },
+          "stops": [
+            {
+              "name": "Arab Baths",
+              "tip_5lang": {
+                "de": "Der Kontrast zwischen heißem Wasser und kalter Luft ist toll.",
+                "hu": "A forró víz és a hideg levegő kontrasztja remek.",
+                "ro": "Contrastul dintre apa fierbinte și aerul rece este grozav.",
+                "en": "The contrast between hot water and cold air is amazing."
+              }
+            },
+            {
+              "name": "Alhama Gorge",
+              "tip_5lang": {
+                "de": "Tragen Sie Handschuhe; im Schatten der Schlucht ist es eisig.",
+                "hu": "Viseljen kesztyűt; a szakadék árnyékában jeges az idő.",
+                "ro": "Purtați mănuși; la umbra defileului este foarte frig.",
+                "en": "Wear gloves; it is icy in the shadows of the gorge."
+              }
+            },
+            {
+              "name": "Carmen Church",
+              "tip_5lang": {
+                "de": "Die Nachmittagssonne wärmt hier die Sitzbänke.",
+                "hu": "A délutáni nap itt kellemesen melegíti a padokat.",
+                "ro": "Soarele de după-amiază încălzește băncile de aici.",
+                "en": "The afternoon sun warms the benches here nicely."
+              }
+            },
+            {
+              "name": "Muleteers Inn",
+              "tip_5lang": {
+                "de": "Ein historischer Ort, der im Winter besonders gemütlich wirkt.",
+                "hu": "Történelmi hely, amely télen különösen hangulatos.",
+                "ro": "Un loc istoric care pare deosebit de primitor iarna.",
+                "en": "A historic place that feels especially cozy in winter."
+              }
+            },
+            {
+              "name": "Main Square",
+              "tip_5lang": {
+                "de": "Suchen Sie ein Café mit Außenheizung für die Pause.",
+                "hu": "Keressen egy kültéri fűtőtesttel rendelkező kávézót.",
+                "ro": "Căutați o cafenea cu încălzire exterioară pentru pauză.",
+                "en": "Look for a cafe with outdoor heaters for your break."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schützen Sie Ihre Hände und Ohren vor dem kalten Fahrtwind.",
+              "Die Wege in der Schlucht bleiben im Winter lange feucht.",
+              "Nutzen Sie die Mittagsstunden für die anstrengenden Etappen.",
+              "Vorsicht vor Raureif auf Brücken am frühen Morgen."
+            ],
+            "hu": [
+              "Védje a kezét és a fülét a hideg menetszéltől.",
+              "A szakadék ösvényei télen sokáig nedvesek maradhatnak.",
+              "A déli órákat használja ki a megterhelőbb szakaszokra.",
+              "Vigyázzon a zúzmarára a hidakon kora reggel."
+            ],
+            "ro": [
+              "Protejați-vă mâinile și urechile de vântul rece de deplasare.",
+              "Potecile din defileu rămân umede mult timp iarna.",
+              "Folosiți orele prânzului pentru etapele solicitante.",
+              "Atenție la chiciura de pe poduri dimineața devreme."
+            ],
+            "en": [
+              "Protect your hands and ears from the cold wind chill.",
+              "Gorge paths stay damp for a long time in winter.",
+              "Use the midday hours for the most strenuous sections.",
+              "Watch out for frost on bridges early in the morning."
+            ]
+          }
+        }
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "16:00",
+      "total_km": 25.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Baños Árabes",
+            "hu": "Arab fürdők",
+            "ro": "Băile Arabe",
+            "en": "Arab Baths"
+          },
+          "coords": [
+            -3.975,
+            37.018
+          ],
+          "category": "historical",
+          "arrive_at": "09:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Das Thermalbecken ist gratis zugänglich.",
+            "hu": "A termálmedence ingyenesen látogatható.",
+            "ro": "Bazinul termal este accesibil gratuit.",
+            "en": "The thermal pool is free to access."
+          }
+        },
+        {
+          "name": {
+            "de": "Pantano de los Bermejales",
+            "hu": "Bermejales-víztározó",
+            "ro": "Pantano de los Bermejales",
+            "en": "Bermejales Reservoir"
+          },
+          "coords": [
+            -3.88,
+            36.98
+          ],
+          "category": "natural",
+          "arrive_at": "11:45",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 12.0,
+          "tip_5lang": {
+            "de": "Perfekt für ein Picknick am Wasser.",
+            "hu": "Tökéletes hely egy vízparti piknikhez.",
+            "ro": "Perfect pentru un picnic pe malul apei.",
+            "en": "Perfect for a lakeside picnic."
+          }
+        },
+        {
+          "name": {
+            "de": "Plaza de la Constitución",
+            "hu": "Városközpont",
+            "ro": "Centrul orașului",
+            "en": "Town Center"
+          },
+          "coords": [
+            -3.9914,
+            37.0083
+          ],
+          "category": "squares",
+          "arrive_at": "13:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 10.0,
+          "tip_5lang": {
+            "de": "Parken Sie auf dem öffentlichen Parkplatz.",
+            "hu": "Használja a nyilvános parkolót.",
+            "ro": "Parcați în parcarea publică.",
+            "en": "Use the public parking area."
+          }
+        },
+        {
+          "name": {
+            "de": "Iglesia de la Encarnación",
+            "hu": "Városi templom",
+            "ro": "Biserica orașului",
+            "en": "City Church"
+          },
+          "coords": [
+            -3.9908,
+            37.0078
+          ],
+          "category": "religious",
+          "arrive_at": "14:35",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Frühere Moschee.",
+            "hu": "Korábban mecset állt a helyén.",
+            "ro": "Fostă moschee.",
+            "en": "Formerly a mosque."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirador del Tajo",
+            "hu": "Tajo kilátó",
+            "ro": "Mirador del Tajo",
+            "en": "Tajo Viewpoint"
+          },
+          "coords": [
+            -3.9895,
+            37.007
+          ],
+          "category": "natural",
+          "arrive_at": "15:30",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Schöner Abschluss mit Aussicht.",
+            "hu": "Szép zárás pazar kilátással.",
+            "ro": "Final frumos cu vedere.",
+            "en": "Beautiful ending with a view."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden Sie zuerst die berühmten Thermalbäder und fahren dann weiter zum idyllischen Bermejales-Stausee. Am Nachmittag kehren Sie nach Alhama zurück, um das historische Zentrum und die spektakuläre Aussicht von der Tajo-Schlucht zu genießen. Eine ideale Mischung aus Wellness, Natur und Kultur.",
+        "hu": "Autóval először a híres termálfürdőket keressük fel, majd továbbutazunk az idilli Bermejales-víztározóhoz. Délután visszatérünk Alhamába, hogy felfedezzük a történelmi belvárost és gyönyörködjünk a Tajo-szurdok látványában. A wellness, a természet és a kultúra ideális keveréke.",
+        "ro": "Cu mașina explorați mai întâi băile termale, apoi continuați spre idilicul lac Bermejales. După-amiaza reveniți în Alhama pentru a vizita centrul istoric și a admira vederea spectaculoasă asupra defileului Tajo. Un amestec ideal de wellness, natură și cultură.",
+        "en": "By car, first explore the famous thermal baths, then continue to the idyllic Bermejales reservoir. In the afternoon, return to Alhama to discover the historic center and enjoy the spectacular view of the Tajo gorge. An ideal mix of wellness, nature, and culture."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Queso de Cabra",
+            "tip": "Ziegenkäse aus lokaler Produktion."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kecskesajt",
+            "tip": "Helyi termelésű kecskesajt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brânză de capră",
+            "tip": "Brânză de capră din producție locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Goat Cheese",
+            "tip": "Locally produced goat cheese."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ermita de los Ángeles",
+            "tip": "Kleine Kapelle am Schluchtrand.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Angyalok remetelaka",
+            "tip": "Kis kápolna a szurdok szélén.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ermita de los Ángeles",
+            "tip": "Mică capelă pe marginea defileului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Hermitage of Angels",
+            "tip": "Small chapel on the gorge edge.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Keramik",
+            "tip": "Traditionelle andalusische Töpferware."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerámia",
+            "tip": "Hagyományos andalúz fazekasáru."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ceramică",
+            "tip": "Olărit tradițional andaluz."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ceramics",
+            "tip": "Traditional Andalusian pottery."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Straße zum Stausee ist sehr kurvenreich.",
+          "Bringen Sie Badezeug für die Thermalbäder mit."
+        ],
+        "hu": [
+          "A víztározóhoz vezető út nagyon kanyargós.",
+          "Hozzon fürdőruhát a termálfürdőhöz."
+        ],
+        "ro": [
+          "Drumul spre lac este foarte sinuos.",
+          "Aduceți costum de baie pentru băile termale."
+        ],
+        "en": [
+          "The road to the reservoir is very winding.",
+          "Bring swimwear for the thermal baths."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden Sie zuerst die berühmten Thermalbäder und fahren dann weiter zum idyllischen Bermejales-Stausee. Am Nachmittag kehren Sie nach Alhama zurück, um das historische Zentrum und die spektakuläre Aussicht von der Tajo-Schlucht zu genießen. Eine ideale Mischung aus Wellness, Natur und Kultur.",
+            "hu": "Autóval először a híres termálfürdőket keressük fel, majd továbbutazunk az idilli Bermejales-víztározóhoz. Délután visszatérünk Alhamába, hogy felfedezzük a történelmi belvárost és gyönyörködjünk a Tajo-szurdok látványában. A wellness, a természet és a kultúra ideális keveréke.",
+            "ro": "Cu mașina explorați mai întâi băile termale, apoi continuați spre idilicul lac Bermejales. După-amiaza reveniți în Alhama pentru a vizita centrul istoric și a admira vederea spectaculoasă asupra defileului Tajo. Un amestec ideal de wellness, natură și cultură.",
+            "en": "By car, first explore the famous thermal baths, then continue to the idyllic Bermejales reservoir. In the afternoon, return to Alhama to discover the historic center and enjoy the spectacular view of the Tajo gorge. An ideal mix of wellness, nature, and culture."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Baños Árabes",
+                "hu": "Arab fürdők",
+                "ro": "Băile Arabe",
+                "en": "Arab Baths"
+              },
+              "tip_5lang": {
+                "de": "Das Thermalbecken ist gratis zugänglich.",
+                "hu": "A termálmedence ingyenesen látogatható.",
+                "ro": "Bazinul termal este accesibil gratuit.",
+                "en": "The thermal pool is free to access."
+              }
+            },
+            {
+              "name": {
+                "de": "Pantano de los Bermejales",
+                "hu": "Bermejales-víztározó",
+                "ro": "Pantano de los Bermejales",
+                "en": "Bermejales Reservoir"
+              },
+              "tip_5lang": {
+                "de": "Perfekt für ein Picknick am Wasser.",
+                "hu": "Tökéletes hely egy vízparti piknikhez.",
+                "ro": "Perfect pentru un picnic pe malul apei.",
+                "en": "Perfect for a lakeside picnic."
+              }
+            },
+            {
+              "name": {
+                "de": "Plaza de la Constitución",
+                "hu": "Városközpont",
+                "ro": "Centrul orașului",
+                "en": "Town Center"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie auf dem öffentlichen Parkplatz.",
+                "hu": "Használja a nyilvános parkolót.",
+                "ro": "Parcați în parcarea publică.",
+                "en": "Use the public parking area."
+              }
+            },
+            {
+              "name": {
+                "de": "Iglesia de la Encarnación",
+                "hu": "Városi templom",
+                "ro": "Biserica orașului",
+                "en": "City Church"
+              },
+              "tip_5lang": {
+                "de": "Frühere Moschee.",
+                "hu": "Korábban mecset állt a helyén.",
+                "ro": "Fostă moschee.",
+                "en": "Formerly a mosque."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador del Tajo",
+                "hu": "Tajo kilátó",
+                "ro": "Mirador del Tajo",
+                "en": "Tajo Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Schöner Abschluss mit Aussicht.",
+                "hu": "Szép zárás pazar kilátással.",
+                "ro": "Final frumos cu vedere.",
+                "en": "Beautiful ending with a view."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Queso de Cabra",
+                "tip": "Ziegenkäse aus lokaler Produktion."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Kecskesajt",
+                "tip": "Helyi termelésű kecskesajt."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Brânză de capră",
+                "tip": "Brânză de capră din producție locală."
+              }
+            ],
+            "en": [
+              {
+                "name": "Goat Cheese",
+                "tip": "Locally produced goat cheese."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Ermita de los Ángeles",
+                "tip": "Kleine Kapelle am Schluchtrand.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Angyalok remetelaka",
+                "tip": "Kis kápolna a szurdok szélén.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Ermita de los Ángeles",
+                "tip": "Mică capelă pe marginea defileului.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Hermitage of Angels",
+                "tip": "Small chapel on the gorge edge.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Keramik",
+                "tip": "Traditionelle andalusische Töpferware."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Kerámia",
+                "tip": "Hagyományos andalúz fazekasáru."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Ceramică",
+                "tip": "Olărit tradițional andaluz."
+              }
+            ],
+            "en": [
+              {
+                "name": "Ceramics",
+                "tip": "Traditional Andalusian pottery."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Die Straße zum Stausee ist sehr kurvenreich.",
+              "Bringen Sie Badezeug für die Thermalbäder mit."
+            ],
+            "hu": [
+              "A víztározóhoz vezető út nagyon kanyargós.",
+              "Hozzon fürdőruhát a termálfürdőhöz."
+            ],
+            "ro": [
+              "Drumul spre lac este foarte sinuos.",
+              "Aduceți costum de baie pentru băile termale."
+            ],
+            "en": [
+              "The road to the reservoir is very winding.",
+              "Bring swimwear for the thermal baths."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie bei den Arabischen Bädern. Die Fahrt dorthin ist auch bei Regen sicher und komfortabel.\n\nMittags geht es zum Bermejales-Stausee. Die tiefen Wolken über dem Wasser schaffen eine melancholische, schöne Stimmung.\n\nAm Nachmittag kehren Sie ins Stadtzentrum zurück und besuchen die Stadtkirche. Ein kurzer Sprint vom Parkplatz genügt.\n\nAbends bietet der Tajo-Aussichtspunkt einen Blick auf die beleuchtete Schlucht. Im Auto bleiben Sie dabei trocken.",
+            "hu": "Kezdje az Arab fürdőknél. Az odaút autóval esőben is biztonságos és kényelmes.\n\nDélben irány a Bermejales-víztározó. A víz feletti alacsony felhők melankolikus, szép hangulatot árasztanak.\n\nDélután térjen vissza a városközpontba a templomhoz. Egy gyors vágta a parkolóból, és már bent is van.\n\nEste a Tajo kilátóhoz hajtson. Az autóból is élvezheti a kivilágított szakadék látványát, szárazon maradva.",
+            "ro": "Începeți la Băile Arabe. Drumul până acolo este sigur și confortabil chiar și pe ploaie.\n\nLa prânz, mergeți la Lacul Bermejales. Norii joși de deasupra apei creează o atmosferă melancolică și frumoasă.\n\nDupă-amiaza, reveniți în centrul orașului și vizitați biserica. Un sprint scurt din parcare este suficient.\n\nSeara, punctul de belvedere Tajo oferă o vedere spre defileul iluminat. Rămâneți uscat în mașină.",
+            "en": "Start at the Arab Baths. The drive there is safe and comfortable even in the pouring rain.\n\nAt noon, head to the Bermejales Reservoir. The low clouds over the water create a melancholic, beautiful mood.\n\nIn the afternoon, return to the Town Center to see the City Church. A quick dash from the car keeps you dry.\n\nIn the evening, drive to the Tajo Viewpoint for a view of the illuminated gorge from the comfort of your car."
+          },
+          "stops": [
+            {
+              "name": "Arab Baths",
+              "tip_5lang": {
+                "de": "Parken Sie direkt am Eingang des Thermalgebiets.",
+                "hu": "Parkoljon közvetlenül a termálterület bejáratánál.",
+                "ro": "Parcați chiar la intrarea în zona termală.",
+                "en": "Park directly at the entrance of the thermal area."
+              }
+            },
+            {
+              "name": "Bermejales Reservoir",
+              "tip_5lang": {
+                "de": "Vorsicht bei Aquaplaning auf der Landstraße dorthin.",
+                "hu": "Vigyázzon a vízenfutásra az odavezető országúton.",
+                "ro": "Atenție la acvaplanare pe drumul național spre lac.",
+                "en": "Watch out for aquaplaning on the rural road there."
+              }
+            },
+            {
+              "name": "Town Center",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Parkhaus, um nicht weit laufen zu müssen.",
+                "hu": "Használja a parkolóházat, hogy ne kelljen sokat gyalogolnia.",
+                "ro": "Folosiți parcarea etajată pentru a nu merge mult pe jos.",
+                "en": "Use the parking garage to minimize walking in the rain."
+              }
+            },
+            {
+              "name": "City Church",
+              "tip_5lang": {
+                "de": "Lassen Sie Ihren Regenschirm im Vorraum abtropfen.",
+                "hu": "Hagyja az esernyőjét az előtérben csöpögni.",
+                "ro": "Lăsați umbrela la scurs în pridvor.",
+                "en": "Let your umbrella drip dry in the vestibule."
+              }
+            },
+            {
+              "name": "Tajo Viewpoint",
+              "tip_5lang": {
+                "de": "Genießen Sie die Aussicht direkt aus dem Autofenster.",
+                "hu": "Élvezze a kilátást közvetlenül az autó ablakából.",
+                "ro": "Bucurați-vă de priveliște direct de la fereastra mașinii.",
+                "en": "Enjoy the view directly from your car window."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die kurvigen Bergstraßen können bei Nässe rutschig sein.",
+              "Prüfen Sie Ihre Scheibenwischer vor der Fahrt.",
+              "Parkplätze in der Altstadt sind begrenzt; nutzen Sie die Ränder.",
+              "Einige Zufahrten zum Stausee könnten bei Starkregen überflutet sein."
+            ],
+            "hu": [
+              "A kanyargós hegyi utak nedvesen csúszósak lehetnek.",
+              "Indulás előtt ellenőrizze az ablaktörlőket.",
+              "Az óvárosi parkolás korlátozott; használja a szélső parkolókat.",
+              "A víztározóhoz vezető utak egy része nagy esőben víz alá kerülhet."
+            ],
+            "ro": [
+              "Drumurile montane sinuoase pot fi alunecoase când sunt ude.",
+              "Verificați ștergătoarele înainte de a pleca la drum.",
+              "Parcarea în centrul vechi este limitată; folosiți marginile.",
+              "Unele căi de acces spre lac pot fi inundate la ploi torențiale."
+            ],
+            "en": [
+              "The winding mountain roads can be slippery when wet.",
+              "Check your wipers before starting the journey.",
+              "Parking in the old town is limited; use peripheral lots.",
+              "Some access roads to the reservoir might flood during heavy rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Start bei den Arabischen Bädern. Die Sitzheizung macht die Anfahrt zum Genuss.\n\nMittags fahren Sie zum Bermejales-Stausee. Das klare Winterlicht lässt das Wasser tiefblau leuchten.\n\nAm Nachmittag erkunden Sie das Stadtzentrum und die Kirche. Die Sonne steht tief und wärmt die alten Mauern.\n\nAbends bietet der Tajo-Aussichtspunkt ein Panorama der Sierra Nevada. Packen Sie eine Thermoskanne für den Stopp ein.",
+            "hu": "Fagyos kezdés az Arab fürdőknél. Az ülésfűtés igazi élménnyé teszi az odautat.\n\nDélben a Bermejales-víztározóhoz látogathat. A tiszta téli fényben a víz mélykékben tündököl.\n\nDélután a városközpont és a templom következik. Az alacsonyan járó nap melegíti az ódon falakat.\n\nEste a Tajo kilátó panorámát nyújt a Sierra Nevadára. Vigyen magával termoszt a megállóhoz.",
+            "ro": "Un început geros la Băile Arabe. Încălzirea în scaune face drumul o plăcere.\n\nLa prânz, conduceți spre Lacul Bermejales. Lumina clară de iarnă face ca apa să strălucească în albastru închis.\n\nDupă-amiaza, explorați centrul orașului și biserica. Soarele jos încălzește zidurile vechi.\n\nSeara, punctul de belvedere Tajo oferă o panoramă spre Sierra Nevada. Luați un termos pentru oprire.",
+            "en": "A frosty start at the Arab Baths. Seat heating makes the morning drive a pleasure.\n\nAt noon, drive to the Bermejales Reservoir. The clear winter light makes the water glow in deep blue.\n\nIn the afternoon, explore the Town Center and the Church. The low sun warms the ancient stone walls.\n\nIn the evening, the Tajo Viewpoint offers a panorama of the Sierra Nevada. Pack a thermos for the stop."
+          },
+          "stops": [
+            {
+              "name": "Arab Baths",
+              "tip_5lang": {
+                "de": "Heizen Sie das Auto vor, bevor Sie aus dem warmen Bad kommen.",
+                "hu": "Fűtse fel az autót, mielőtt kijön a meleg fürdőből.",
+                "ro": "Preîncălziți mașina înainte de a ieși din baia caldă.",
+                "en": "Pre-heat the car before you exit the warm bath."
+              }
+            },
+            {
+              "name": "Bermejales Reservoir",
+              "tip_5lang": {
+                "de": "Beste Zeit für klare Landschaftsfotos vom Parkplatz aus.",
+                "hu": "A legjobb idő tiszta tájfotókhoz a parkolóból.",
+                "ro": "Cel mai bun moment pentru poze clare cu peisajul din parcare.",
+                "en": "Best time for clear landscape photos from the parking area."
+              }
+            },
+            {
+              "name": "Town Center",
+              "tip_5lang": {
+                "de": "Meiden Sie enge Gassen, die im Schatten vereist sein könnten.",
+                "hu": "Kerülje a szűk utcákat, amelyek árnyékban jegesek lehetnek.",
+                "ro": "Evitați străzile înguste care ar putea fi înghețate la umbră.",
+                "en": "Avoid narrow alleys that might be icy in the shadows."
+              }
+            },
+            {
+              "name": "City Church",
+              "tip_5lang": {
+                "de": "Die Sonne wärmt den Platz vor der Kirche am Nachmittag.",
+                "hu": "A nap délután kellemesen melegíti a templom előtti teret.",
+                "ro": "Soarele încălzește piața din fața bisericii după-amiaza.",
+                "en": "The sun warms the square in front of the church in the afternoon."
+              }
+            },
+            {
+              "name": "Tajo Viewpoint",
+              "tip_5lang": {
+                "de": "Vorsicht vor Windböen am Abgrund bei Kaltfronten.",
+                "hu": "Vigyázzon a széllökésekre a peremen hidegfront esetén.",
+                "ro": "Atenție la rafalele de vânt pe margine în caz de front rece.",
+                "en": "Watch out for wind gusts at the edge during cold fronts."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Führen Sie Eiskratzer und Scheibenfrostschutz mit.",
+              "Die Straßen können am frühen Morgen glatt sein.",
+              "Die Sonne steht tief; achten Sie auf Blendung beim Fahren.",
+              "Einige Bergpässe in der Nähe könnten Schneeketten erfordern."
+            ],
+            "hu": [
+              "Legyen önnél jégkaparó és fagyálló szélvédőmosó.",
+              "Az utak kora reggel jegesek lehetnek.",
+              "A nap alacsonyan jár; ügyeljen a vakító fényre vezetéskor.",
+              "A közeli hágókon szükség lehet hóláncra."
+            ],
+            "ro": [
+              "Aveți la voi racletă și lichid de parbriz antigel.",
+              "Drumurile pot fi poleite dimineața devreme.",
+              "Soarele este jos; atenție la orbire în timpul condusului.",
+              "Unele trecători montane din apropiere pot necesita lanțuri."
+            ],
+            "en": [
+              "Keep an ice scraper and antifreeze washer fluid ready.",
+              "Roads can be icy early in the morning.",
+              "The sun is low; watch out for glare while driving.",
+              "Some nearby mountain passes might require snow chains."
+            ]
+          }
+        }
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 4.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Busbahnhof Alhama",
+            "hu": "Alhama buszpályaudvar",
+            "ro": "Autogara Alhama",
+            "en": "Alhama Bus Station"
+          },
+          "coords": [
+            -3.993,
+            37.0095
+          ],
+          "category": "port",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Prüfen Sie die Rückfahrzeiten.",
+            "hu": "Ellenőrizze a visszaindulási időket.",
+            "ro": "Verificați orele de întoarcere.",
+            "en": "Check return times immediately."
+          }
+        },
+        {
+          "name": {
+            "de": "Plaza de la Constitución",
+            "hu": "Főtér",
+            "ro": "Piața Constituției",
+            "en": "Main Square"
+          },
+          "coords": [
+            -3.9914,
+            37.0083
+          ],
+          "category": "squares",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Informationszentrum ist hier.",
+            "hu": "Itt található az információs iroda.",
+            "ro": "Centrul de informare este aici.",
+            "en": "Information center is located here."
+          }
+        },
+        {
+          "name": {
+            "de": "Baños Árabes (Bus)",
+            "hu": "Arab fürdők",
+            "ro": "Băile Arabe",
+            "en": "Arab Baths"
+          },
+          "coords": [
+            -3.975,
+            37.018
+          ],
+          "category": "historical",
+          "arrive_at": "10:40",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Nutzen Sie den lokalen Zubringer.",
+            "hu": "Használja a helyi járatot.",
+            "ro": "Folosiți autobuzul local.",
+            "en": "Use the local shuttle if available."
+          }
+        },
+        {
+          "name": {
+            "de": "Iglesia de la Encarnación",
+            "hu": "Városi templom",
+            "ro": "Biserica orașului",
+            "en": "City Church"
+          },
+          "coords": [
+            -3.9908,
+            37.0078
+          ],
+          "category": "religious",
+          "arrive_at": "13:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Imposantes Gebäude.",
+            "hu": "Impozáns épület.",
+            "ro": "Clădire impunătoare.",
+            "en": "An imposing building."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirador del Tajo",
+            "hu": "Kilátópont",
+            "ro": "Punct de belvedere",
+            "en": "Viewpoint"
+          },
+          "coords": [
+            -3.9895,
+            37.007
+          ],
+          "category": "natural",
+          "arrive_at": "14:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg.",
+            "hu": "Rövid gyalogút.",
+            "ro": "Drum scurt pe jos.",
+            "en": "A short walk away."
+          }
+        },
+        {
+          "name": {
+            "de": "Hospital de la Reina",
+            "hu": "Történelmi kórház",
+            "ro": "Spital istoric",
+            "en": "Historic Hospital"
+          },
+          "coords": [
+            -3.9898,
+            37.0072
+          ],
+          "category": "historical",
+          "arrive_at": "15:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Kulturelle Ausstellungen.",
+            "hu": "Kulturális kiállítások.",
+            "ro": "Expoziții culturale.",
+            "en": "Cultural exhibitions."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit den öffentlichen Verkehrsmitteln erreichen Sie Alhama bequem. Vormittags besuchen Sie die Thermalbäder vor den Toren der Stadt. Nach der Rückkehr ins Zentrum erkunden Sie die Hauptkirche und die faszinierenden Aussichtspunkte über die Schlucht. Den Nachmittag verbringen Sie im Hospital de la Reina, bevor Sie die Heimreise antreten.",
+        "hu": "Tömegközlekedéssel kényelmesen elérhető Alhama. Délelőtt a város szélén található termálfürdőket látogatjuk meg. A központba visszatérve felfedezzük a főtemplomot és a szurdok fölötti lenyűgöző kilátópontokat. A délutánt a Királynő Kórházában töltjük, mielőtt elindulnánk haza.",
+        "ro": "Puteți ajunge cu ușurință în Alhama folosind transportul public. Dimineața vizitați băile termale de la marginea orașului. După revenirea în centru, explorați biserica principală și punctele de belvedere fascinante de deasupra defileului. Petreceți după-amiaza la Spitalul Reginei înainte de plecare.",
+        "en": "Public transport makes Alhama easily accessible. In the morning, visit the thermal baths on the outskirts of town. After returning to the center, explore the main church and the fascinating viewpoints over the gorge. Spend the afternoon at the Queen's Hospital before heading back."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Tapas",
+            "tip": "Probieren Sie verschiedene Tapas am Marktplatz."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tapas",
+            "tip": "Kóstoljon különféle tapasokat a piactéren."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tapas",
+            "tip": "Încercați diverse tapas în piață."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tapas",
+            "tip": "Try various tapas at the market square."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Stadtpark",
+            "tip": "Kleiner Park für eine Pause.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Városi park",
+            "tip": "Kis park egy rövid pihenőhöz.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul orașului",
+            "tip": "Mic parc pentru o pauză.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "City Park",
+            "tip": "Small park for a quick break.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mandeln",
+            "tip": "Frisch geerntet aus der Umgebung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mandula",
+            "tip": "Frissen szedett helyi mandula."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Migdale",
+            "tip": "Proaspăt culese din zonă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Almonds",
+            "tip": "Freshly harvested from the area."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Bustickets können beim Fahrer gekauft werden.",
+          "Achten Sie auf die Siesta-Zeiten der Museen."
+        ],
+        "hu": [
+          "A buszjegyek a sofőrnél válthatók.",
+          "Ügyeljen a múzeumok szieszta idejére."
+        ],
+        "ro": [
+          "Biletele de autobuz pot fi cumpărate de la șofer.",
+          "Atenție la orele de siestă ale muzeelor."
+        ],
+        "en": [
+          "Bus tickets can be bought from the driver.",
+          "Be mindful of siesta times for museums."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mit den öffentlichen Verkehrsmitteln erreichen Sie Alhama bequem. Vormittags besuchen Sie die Thermalbäder vor den Toren der Stadt. Nach der Rückkehr ins Zentrum erkunden Sie die Hauptkirche und die faszinierenden Aussichtspunkte über die Schlucht. Den Nachmittag verbringen Sie im Hospital de la Reina, bevor Sie die Heimreise antreten.",
+            "hu": "Tömegközlekedéssel kényelmesen elérhető Alhama. Délelőtt a város szélén található termálfürdőket látogatjuk meg. A központba visszatérve felfedezzük a főtemplomot és a szurdok fölötti lenyűgöző kilátópontokat. A délutánt a Királynő Kórházában töltjük, mielőtt elindulnánk haza.",
+            "ro": "Puteți ajunge cu ușurință în Alhama folosind transportul public. Dimineața vizitați băile termale de la marginea orașului. După revenirea în centru, explorați biserica principală și punctele de belvedere fascinante de deasupra defileului. Petreceți după-amiaza la Spitalul Reginei înainte de plecare.",
+            "en": "Public transport makes Alhama easily accessible. In the morning, visit the thermal baths on the outskirts of town. After returning to the center, explore the main church and the fascinating viewpoints over the gorge. Spend the afternoon at the Queen's Hospital before heading back."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Busbahnhof Alhama",
+                "hu": "Alhama buszpályaudvar",
+                "ro": "Autogara Alhama",
+                "en": "Alhama Bus Station"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie die Rückfahrzeiten.",
+                "hu": "Ellenőrizze a visszaindulási időket.",
+                "ro": "Verificați orele de întoarcere.",
+                "en": "Check return times immediately."
+              }
+            },
+            {
+              "name": {
+                "de": "Plaza de la Constitución",
+                "hu": "Főtér",
+                "ro": "Piața Constituției",
+                "en": "Main Square"
+              },
+              "tip_5lang": {
+                "de": "Informationszentrum ist hier.",
+                "hu": "Itt található az információs iroda.",
+                "ro": "Centrul de informare este aici.",
+                "en": "Information center is located here."
+              }
+            },
+            {
+              "name": {
+                "de": "Baños Árabes (Bus)",
+                "hu": "Arab fürdők",
+                "ro": "Băile Arabe",
+                "en": "Arab Baths"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den lokalen Zubringer.",
+                "hu": "Használja a helyi járatot.",
+                "ro": "Folosiți autobuzul local.",
+                "en": "Use the local shuttle if available."
+              }
+            },
+            {
+              "name": {
+                "de": "Iglesia de la Encarnación",
+                "hu": "Városi templom",
+                "ro": "Biserica orașului",
+                "en": "City Church"
+              },
+              "tip_5lang": {
+                "de": "Imposantes Gebäude.",
+                "hu": "Impozáns épület.",
+                "ro": "Clădire impunătoare.",
+                "en": "An imposing building."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador del Tajo",
+                "hu": "Kilátópont",
+                "ro": "Punct de belvedere",
+                "en": "Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Kurzer Fußweg.",
+                "hu": "Rövid gyalogút.",
+                "ro": "Drum scurt pe jos.",
+                "en": "A short walk away."
+              }
+            },
+            {
+              "name": {
+                "de": "Hospital de la Reina",
+                "hu": "Történelmi kórház",
+                "ro": "Spital istoric",
+                "en": "Historic Hospital"
+              },
+              "tip_5lang": {
+                "de": "Kulturelle Ausstellungen.",
+                "hu": "Kulturális kiállítások.",
+                "ro": "Expoziții culturale.",
+                "en": "Cultural exhibitions."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Tapas",
+                "tip": "Probieren Sie verschiedene Tapas am Marktplatz."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Tapas",
+                "tip": "Kóstoljon különféle tapasokat a piactéren."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Tapas",
+                "tip": "Încercați diverse tapas în piață."
+              }
+            ],
+            "en": [
+              {
+                "name": "Tapas",
+                "tip": "Try various tapas at the market square."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Stadtpark",
+                "tip": "Kleiner Park für eine Pause.",
+                "emoji": "🍃"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Városi park",
+                "tip": "Kis park egy rövid pihenőhöz.",
+                "emoji": "🍃"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Parcul orașului",
+                "tip": "Mic parc pentru o pauză.",
+                "emoji": "🍃"
+              }
+            ],
+            "en": [
+              {
+                "name": "City Park",
+                "tip": "Small park for a quick break.",
+                "emoji": "🍃"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Mandeln",
+                "tip": "Frisch geerntet aus der Umgebung."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Mandula",
+                "tip": "Frissen szedett helyi mandula."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Migdale",
+                "tip": "Proaspăt culese din zonă."
+              }
+            ],
+            "en": [
+              {
+                "name": "Almonds",
+                "tip": "Freshly harvested from the area."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Bustickets können beim Fahrer gekauft werden.",
+              "Achten Sie auf die Siesta-Zeiten der Museen."
+            ],
+            "hu": [
+              "A buszjegyek a sofőrnél válthatók.",
+              "Ügyeljen a múzeumok szieszta idejére."
+            ],
+            "ro": [
+              "Biletele de autobuz pot fi cumpărate de la șofer.",
+              "Atenție la orele de siestă ale muzeelor."
+            ],
+            "en": [
+              "Bus tickets can be bought from the driver.",
+              "Be mindful of siesta times for museums."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie am Busbahnhof. Die kurzen Wege zu den Haltestellen minimieren die Zeit im Regen.\n\nMittags erreichen Sie den Hauptplatz und die Arabischen Bäder. Busse bringen Sie nah an die Highlights.\n\nAm Nachmittag besuchen Sie die Stadtkirche und den Aussichtspunkt. Nutzen Sie die Wartehallen als trockenen Unterschlupf.\n\nAbends bietet das Historische Hospital Kultur im Trockenen. Der Bus zurück zum Bahnhof ist nur einen kurzen Fußweg entfernt.",
+            "hu": "Kezdje a buszpályaudvaron. A megállók közti rövid távolság segít elkerülni a nagy elázást.\n\nDélben a főtér és az Arab fürdő következik. A buszok közel viszik a legfontosabb látnivalókhoz.\n\nDélután a templom és a kilátó várja. Használja a várótermeket száraz menedékként.\n\nEste a Történelmi Kórház kínál fedett kulturális élményt. A pályaudvarra tartó busz csak pár perc séta.",
+            "ro": "Începeți la autogară. Distanțele scurte până la stații minimizează timpul petrecut în ploaie.\n\nLa prânz, ajungeți în piața principală și la Băile Arabe. Autobuzele vă lasă aproape de atracții.\n\nDupă-amiaza, vizitați biserica și punctul de belvedere. Folosiți sălile de așteptare ca adăpost uscat.\n\nSeara, Spitalul Istoric oferă cultură la adăpost. Autobuzul înapoi spre gară este la o scurtă plimbare.",
+            "en": "Start at the Bus Station. Short distances between stops help minimize your time in the rain.\n\nAt noon, reach the Main Square and the Arab Baths. Buses drop you off close to the key highlights.\n\nIn the afternoon, visit the City Church and the Viewpoint. Use transit shelters to stay dry while waiting.\n\nIn the evening, the Historic Hospital offers indoor culture. The bus back to the station is just a short walk away."
+          },
+          "stops": [
+            {
+              "name": "Alhama Bus Station",
+              "tip_5lang": {
+                "de": "Warten Sie im Gebäude, bis Ihr Bus einfährt.",
+                "hu": "Várjon az épületben, amíg a busza beáll.",
+                "ro": "Așteptați în interiorul clădirii până sosește autobuzul.",
+                "en": "Wait inside the building until your bus arrives."
+              }
+            },
+            {
+              "name": "Main Square",
+              "tip_5lang": {
+                "de": "Die Haltestelle ist nah an den überdachten Arkaden.",
+                "hu": "A megálló közel van a fedett árkádokhoz.",
+                "ro": "Stația este aproape de arcadele acoperite.",
+                "en": "The stop is close to the sheltered arcades."
+              }
+            },
+            {
+              "name": "Arab Baths",
+              "tip_5lang": {
+                "de": "Busse halten direkt vor dem Kurviertel.",
+                "hu": "A buszok közvetlenül a negyed előtt állnak meg.",
+                "ro": "Autobuzele opresc chiar în fața cartierului balnear.",
+                "en": "Buses stop right in front of the thermal district."
+              }
+            },
+            {
+              "name": "City Church",
+              "tip_5lang": {
+                "de": "Ein kurzer Weg von der Haltestelle ins trockene Kirchenschiff.",
+                "hu": "Rövid út a megállótól a száraz templomhajóba.",
+                "ro": "Un drum scurt de la stație până în interiorul uscat.",
+                "en": "A short walk from the stop to the dry church interior."
+              }
+            },
+            {
+              "name": "Viewpoint",
+              "tip_5lang": {
+                "de": "Bei starkem Regen ist die Sicht eingeschränkt.",
+                "hu": "Erős esőben a kilátás korlátozott lehet.",
+                "ro": "Vizibilitatea poate fi limitată în caz de ploaie densă.",
+                "en": "Visibility may be limited during heavy rain."
+              }
+            },
+            {
+              "name": "Historic Hospital",
+              "tip_5lang": {
+                "de": "Perfekt, um den Nachmittagsregen drinnen zu verbringen.",
+                "hu": "Tökéletes hely a délutáni eső benti átvészeléséhez.",
+                "ro": "Perfect pentru a petrece ploaia de după-amiază în interior.",
+                "en": "Perfect for spending the afternoon rain indoors."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Fahrplan bei Regen auf mögliche Verzögerungen.",
+              "Haben Sie Kleingeld oder die App für das Ticket bereit.",
+              "Regenschirme in den Bussen bitte geschlossen halten.",
+              "Nutzen Sie die Wartebereiche der Busstation für Pausen."
+            ],
+            "hu": [
+              "Esőben ellenőrizze a menetrendet az esetleges késések miatt.",
+              "Legyen kéznél aprópénz vagy az applikáció a jegyhez.",
+              "A buszokon kérjük, tartsa zárva az esernyőket.",
+              "Használja a buszpályaudvar váróit a pihenéshez."
+            ],
+            "ro": [
+              "Verificați orarul pe ploaie pentru eventuale întârzieri.",
+              "Aveți pregătit mărunt sau aplicația pentru bilet.",
+              "Vă rugăm să țineți umbrelele închise în autobuze.",
+              "Folosiți zonele de așteptare din autogară pentru pauze."
+            ],
+            "en": [
+              "Check the schedule for possible rain-related delays.",
+              "Have small change or the ticket app ready to go.",
+              "Please keep umbrellas closed while inside the buses.",
+              "Use the bus station waiting areas for your breaks."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Frischer Start am Busbahnhof. Die Busse sind im Winter angenehm geheizt.\n\nMittags erreichen Sie den Hauptplatz und die Arabischen Bäder. Die klare Luft macht die Fahrt kurzweilig.\n\nAm Nachmittag besuchen Sie die Stadtkirche und den Aussichtspunkt. Das Winterlicht ist ideal für Panoramafotos.\n\nAbends wärmen Sie sich im Historischen Hospital auf. Der letzte Bus bringt Sie sicher zurück zum Bahnhof.",
+            "hu": "Friss kezdés a pályaudvaron. A buszok télen kellemesen fűtöttek.\n\nDélben a főtér és az Arab fürdő következik. A tiszta levegőben élmény az utazás.\n\nDélután a templom és a kilátó várja. A téli fények ideálisak a panorámafotókhoz.\n\nEste melegedjen fel a Történelmi Kórházban. Az utolsó busz biztonságban visszaviszi a pályaudvarra.",
+            "ro": "Început proaspăt la autogară. Autobuzele sunt încălzite plăcut iarna.\n\nLa prânz, ajungeți în piața principală și la Băile Arabe. Aerul curat face călătoria relaxantă.\n\nDupă-amiaza, vizitați biserica și punctul de belvedere. Lumina de iarnă este ideală pentru poze.\n\nSeara, încălziți-vă în Spitalul Istoric. Ultimul autobuz vă duce în siguranță înapoi la autogară.",
+            "en": "A crisp start at the Bus Station. The buses are comfortably heated during winter.\n\nAt noon, reach the Main Square and the Arab Baths. The clear winter air makes for a pleasant ride.\n\nIn the afternoon, visit the City Church and the Viewpoint. The winter light is perfect for panoramic photos.\n\nIn the evening, warm up inside the Historic Hospital. The last bus will take you safely back to the station."
+          },
+          "stops": [
+            {
+              "name": "Alhama Bus Station",
+              "tip_5lang": {
+                "de": "Drinnen ist es deutlich wärmer als auf dem Bahnsteig.",
+                "hu": "Bent lényegesen melegebb van, mint a peronon.",
+                "ro": "În interior este mult mai cald decât pe peron.",
+                "en": "It is much warmer inside than on the platform."
+              }
+            },
+            {
+              "name": "Main Square",
+              "tip_5lang": {
+                "de": "Genießen Sie die winterliche Atmosphäre auf dem Platz.",
+                "hu": "Élvezze a tér téli hangulatát.",
+                "ro": "Bucurați-vă de atmosfera de iarnă din piață.",
+                "en": "Enjoy the crisp winter atmosphere in the square."
+              }
+            },
+            {
+              "name": "Arab Baths",
+              "tip_5lang": {
+                "de": "Kalt-Heiß-Wechsel ist gut für das Immunsystem.",
+                "hu": "A hideg-meleg váltakozás jót tesz az immunrendszernek.",
+                "ro": "Alternanța rece-cald este bună pentru sistemul imunitar.",
+                "en": "Switching between cold air and hot baths boosts immunity."
+              }
+            },
+            {
+              "name": "City Church",
+              "tip_5lang": {
+                "de": "Die dicken Mauern schützen vor dem kalten Winterwind.",
+                "hu": "A vastag falak védenek a hideg téli széltől.",
+                "ro": "Zidurile groase protejează de vântul rece de iarnă.",
+                "en": "The thick walls protect from the biting winter wind."
+              }
+            },
+            {
+              "name": "Viewpoint",
+              "tip_5lang": {
+                "de": "Warme Kleidung ist für den windigen Aussichtspunkt wichtig.",
+                "hu": "Meleg ruházat fontos a szeles kilátóponton.",
+                "ro": "Îmbrăcămintea groasă este importantă pentru punctul eolian.",
+                "en": "Warm clothing is essential for this windy viewpoint."
+              }
+            },
+            {
+              "name": "Historic Hospital",
+              "tip_5lang": {
+                "de": "Ein gut geheizter Ort für den späten Nachmittag.",
+                "hu": "Jól fűtött hely a késő délutáni órákra.",
+                "ro": "Un loc bine încălzit pentru după-amiaza târzie.",
+                "en": "A well-heated venue for the late afternoon hours."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse fahren im Winter oft pünktlicher als im Sommerstau.",
+              "Beachten Sie die verkürzten Öffnungszeiten einiger Museen.",
+              "Trinken Sie einen warmen Tee an der Busstation.",
+              "Die Sonne geht früh unter; planen Sie Ihre Rückfahrt rechtzeitig."
+            ],
+            "hu": [
+              "A buszok télen gyakran pontosabbak a nyári dugók hiánya miatt.",
+              "Ügyeljen egyes múzeumok rövidített téli nyitvatartására.",
+              "Igyon egy forró teát a buszpályaudvaron.",
+              "A nap korán nyugszik; tervezze meg időben a visszautat."
+            ],
+            "ro": [
+              "Autobuzele sunt adesea mai punctuale iarna decât vara.",
+              "Atenție la programul redus al unor muzee pe timp de iarnă.",
+              "Beți un ceai cald la autogară în timp ce așteptați.",
+              "Soarele apune devreme; planificați întoarcerea la timp."
+            ],
+            "en": [
+              "Buses are often more punctual in winter without summer traffic.",
+              "Note the shortened winter opening hours of some museums.",
+              "Have a warm tea at the bus station while you wait.",
+              "The sun sets early; plan your return journey accordingly."
+            ]
+          }
+        }
+      }
+    }
+  },
+  "external_resources": {
+    "tourism_office": "https://www.turismodealhamadegranada.com/",
+    "transit_official": "https://www.ctagr.es/",
+    "language_tips": {
+      "de": "In Alhama de Granada wird ein melodisches Andalusisch gesprochen, das 'd' am Wortende verschwindet meist ('cansa[d]o'). Englisch ist außerhalb des Tourismusbüros sehr selten, ältere Dorfbewohner verstehen oft kein Wort. Ein einfaches 'buenos días' beim Betreten eines Ladens ist Pflicht.",
+      "hu": "Alhama de Granadában dallamos andalúz nyelvjárást hallasz, a szóvégi 'd' szinte mindig eltűnik ('cansa[d]o'). A turisztikai irodán kívül alig beszélnek angolul, az idősebbek gyakran egy szót sem értenek. Egy kedves 'buenos días' a boltba lépve elvárás.",
+      "ro": "În Alhama de Granada se vorbește o andaluză melodioasă, cu 'd' final aproape întotdeauna dispărut ('cansa[d]o'). Engleza este rară în afara biroului de turism, iar bătrânii satului adesea nu înțeleg deloc. Un 'buenos días' la intrarea în magazin este absolut necesar.",
+      "en": "Alhama de Granada speaks a melodic Andalusian dialect with the final 'd' usually dropped ('cansa[d]o'). English is scarce outside the tourist office and elders often don't understand a word. A polite 'buenos días' when entering shops is essential."
+    },
+    "best_time_to_visit": {
+      "de": "Frühling (April-Mai) und Herbst (September-Oktober) bieten 18-25°C und ideale Wanderbedingungen in der Schlucht. Im Sommer ist es mit 35°C+ heiß, aber die Thermalbäder bleiben angenehm. Im Winter kann es schneien, da Alhama auf 880m liegt, dafür sind die heißen Quellen dann magisch.",
+      "hu": "Tavasszal (április-május) és ősszel (szeptember-október) 18-25°C uralkodik, ideális a szurdoktúrázáshoz. Nyáron 35°C fölé megy a hőség, de a termálfürdők kellemesek maradnak. Télen havazhat, mert Alhama 880 méteren fekszik, viszont a hőforrások ilyenkor varázslatosak.",
+      "ro": "Primăvara (aprilie-mai) și toamna (septembrie-octombrie) oferă 18-25°C și condiții ideale pentru drumeții în chei. Vara depășește 35°C, dar băile termale rămân plăcute. Iarna poate ninge, satul fiind la 880m altitudine, însă izvoarele calde devin atunci magice.",
+      "en": "Spring (April-May) and autumn (September-October) bring 18-25°C and ideal hiking weather in the gorge. Summer pushes above 35°C, but the thermal baths stay pleasant. Winter snow is possible at 880m elevation, making the hot springs magical."
+    },
+    "neighborhood_warnings": {
+      "de": "Alhama ist außergewöhnlich sicher, das Hauptrisiko ist die schwindelerregende Schlucht ('Tajos') ohne durchgängige Geländer. Bei Regen werden die Wege zur Schlucht extrem rutschig, festes Schuhwerk ist Pflicht. Nachts wirken die leeren Gassen einsam, aber Übergriffe sind praktisch unbekannt.",
+      "hu": "Alhama kivételesen biztonságos, a fő veszély a 'Tajos' nevű szédítő szurdok, ahol nem mindenhol van korlát. Esős időben a szurdokhoz vezető ösvény nagyon csúszós, kemény talpú cipő kötelező. Éjszaka kihaltak az utcák, de bűncselekmény gyakorlatilag ismeretlen.",
+      "ro": "Alhama este excepțional de sigură, principalul risc fiind cheile amețitoare ('Tajos') fără balustrade continue. Pe ploaie potecile spre canion devin extrem de alunecoase, încălțăminte solidă este obligatorie. Noaptea străzile par pustii, dar incidentele sunt practic necunoscute.",
+      "en": "Alhama is exceptionally safe, the main risk being the dizzying gorge ('Tajos') without continuous railings. Paths to the canyon become extremely slippery after rain, sturdy footwear is essential. Streets feel deserted at night, but incidents are practically unheard of."
+    }
+  }
+}

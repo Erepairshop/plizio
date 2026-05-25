@@ -1,0 +1,2368 @@
+{
+  "city_id": "granada",
+  "anchor": {
+    "name": "Granada Center",
+    "coords": [
+      -3.5986,
+      37.1773
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "19:15",
+      "total_km": 4.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Corral del Carbón",
+          "coords": [
+            -3.5981,
+            37.1754
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Kostenloser Eintritt in diese ehemalige Karawanserei.",
+            "hu": "Ingyenes belépés ebbe az egykori mór karavánszerájba.",
+            "ro": "Intrare gratuită în acest fost han maur.",
+            "en": "Free entry to this former Moorish caravanserai."
+          }
+        },
+        {
+          "name": "Catedral de Granada",
+          "coords": [
+            -3.5992,
+            37.1765
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die gewaltigen weißen Säulen der Renaissance.",
+            "hu": "Csodáld meg a hatalmas fehér reneszánsz oszlopokat.",
+            "ro": "Admirați coloanele uriașe albe în stil renascentist.",
+            "en": "Admire the massive white Renaissance columns."
+          }
+        },
+        {
+          "name": "Capilla Real",
+          "coords": [
+            -3.5986,
+            37.1761
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Das Grabmal der Katholischen Könige ist ein Muss.",
+            "hu": "A katolikus királyok síremléke kötelező látnivaló.",
+            "ro": "Mormântul Regilor Catolici este un obiectiv esențial.",
+            "en": "The tomb of the Catholic Monarchs is a must-see."
+          }
+        },
+        {
+          "name": "Baños Árabes (El Bañuelo)",
+          "coords": [
+            -3.5929,
+            37.1783
+          ],
+          "category": "historical",
+          "arrive_at": "12:50",
+          "stay_min": 50,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Eines der ältesten erhaltenen Bäder in Spanien.",
+            "hu": "Spanyolország egyik legrégebbi fennmaradt fürdője.",
+            "ro": "Una dintre cele mai vechi băi conservate din Spania.",
+            "en": "One of the oldest preserved baths in Spain."
+          }
+        },
+        {
+          "name": "Alhambra",
+          "coords": [
+            -3.5898,
+            37.1761
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:00",
+          "stay_min": 150,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Tickets Monate im Voraus für die Nasridenpaläste buchen.",
+            "hu": "Foglalj jegyet hónapokkal előbb a Naszrid palotákba.",
+            "ro": "Rezervați biletele cu luni înainte pentru Palatele Nasride.",
+            "en": "Book tickets months in advance for the Nasrid Palaces."
+          }
+        },
+        {
+          "name": "Generalife",
+          "coords": [
+            -3.5851,
+            37.1771
+          ],
+          "category": "famous residences",
+          "arrive_at": "17:45",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Genießen Sie die Wasserspiele in den Gärten.",
+            "hu": "Élvezd a kertek vízi játékait és nyugalmát.",
+            "ro": "Bucurați-vă de jocurile de apă din grădini.",
+            "en": "Enjoy the water features in the gardens."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen der Stadt mit der beeindruckenden Kathedrale und der königlichen Kapelle. Nach einem kurzen Spaziergang am Fluss Darro erkunden Sie die mystischen arabischen Bäder. Den Nachmittag widmen Sie vollständig der Alhambra, dem Kronjuwel maurischer Baukunst, gefolgt von der Ruhe der Generalife-Gärten.",
+        "hu": "Kezdje a napot a város szívében a lenyűgöző katedrálissal és a királyi kápolnával. Rövid séta után a Darro folyó mentén fedezze fel a misztikus arab fürdőket. A délutánt szentelje teljesen az Alhambrának, a mór építészet gyöngyszemének, majd pihenjen meg a Generalife kertjeiben.",
+        "ro": "Începeți ziua în inima orașului cu catedrala impresionantă și Capela Regală. După o scurtă plimbare pe malul râului Darro, explorați băile arabe mistice. Dedicați după-amiaza complet complexului Alhambra, bijuteria arhitecturii maure, urmată de liniștea grădinilor Generalife.",
+        "en": "Start your day in the heart of the city with the impressive Cathedral and Royal Chapel. After a short walk along the Darro River, explore the mystical Arab baths. Dedicate the afternoon entirely to the Alhambra, the crown jewel of Moorish architecture, followed by the tranquility of the Generalife gardens."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Habas con Jamón",
+            "tip": "Probieren Sie Saubohnen mit Schinken im Los Manueles."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Habas con Jamón",
+            "tip": "Kóstolja meg a sonkás lóbabot a Los Manueles étteremben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Habas con Jamón",
+            "tip": "Încercați fasolea cu șuncă la Los Manueles."
+          }
+        ],
+        "en": [
+          {
+            "name": "Habas con Jamón",
+            "tip": "Try broad beans with ham at Los Manueles."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Patio de la Acequia",
+            "tip": "Ruhiges Plätschern im Generalife.",
+            "emoji": "🌿"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Patio de la Acequia",
+            "tip": "Csendes csobogás a Generalife kertjében.",
+            "emoji": "🌿"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Patio de la Acequia",
+            "tip": "Susur liniștit în grădinile Generalife.",
+            "emoji": "🌿"
+          }
+        ],
+        "en": [
+          {
+            "name": "Patio de la Acequia",
+            "tip": "Quiet water flowing in Generalife.",
+            "emoji": "🌿"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Alcaicería",
+            "tip": "Der alte Seidenmarkt für Kunsthandwerk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Alcaicería",
+            "tip": "Az régi selyempiac kézműves termékekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Alcaicería",
+            "tip": "Vechea piață de mătase pentru artizanat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Alcaicería",
+            "tip": "The old silk market for local crafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster.",
+          "Granada bietet kostenlose Tapas zu jedem Getränk.",
+          "Reservieren Sie Alhambra-Tickets 3 Monate im Voraus.",
+          "Das Stadtzentrum ist flach, aber die Hügel sind steil."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt a macskaköves utcákhoz.",
+          "Granadában ingyen tapas jár minden ital mellé.",
+          "Foglaljon Alhambra jegyet 3 hónappal előre.",
+          "A városközpont lapos, de a dombok meredekek."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă pentru piatră cubică.",
+          "Granada oferă tapas gratuite la fiecare băutură.",
+          "Rezervați bilete la Alhambra cu 3 luni înainte.",
+          "Centrul orașului este plat, dar dealurile sunt abrupte."
+        ],
+        "en": [
+          "Wear comfortable shoes for the cobblestone streets.",
+          "Granada offers free tapas with every drink ordered.",
+          "Book Alhambra tickets at least 3 months in advance.",
+          "The city center is flat, but the hills are steep."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag im Herzen der Stadt mit der beeindruckenden Kathedrale und der königlichen Kapelle. Nach einem kurzen Spaziergang am Fluss Darro erkunden Sie die mystischen arabischen Bäder. Den Nachmittag widmen Sie vollständig der Alhambra, dem Kronjuwel maurischer Baukunst, gefolgt von der Ruhe der Generalife-Gärten.",
+            "hu": "Kezdje a napot a város szívében a lenyűgöző katedrálissal és a királyi kápolnával. Rövid séta után a Darro folyó mentén fedezze fel a misztikus arab fürdőket. A délutánt szentelje teljesen az Alhambrának, a mór építészet gyöngyszemének, majd pihenjen meg a Generalife kertjeiben.",
+            "ro": "Începeți ziua în inima orașului cu catedrala impresionantă și Capela Regală. După o scurtă plimbare pe malul râului Darro, explorați băile arabe mistice. Dedicați după-amiaza complet complexului Alhambra, bijuteria arhitecturii maure, urmată de liniștea grădinilor Generalife.",
+            "en": "Start your day in the heart of the city with the impressive Cathedral and Royal Chapel. After a short walk along the Darro River, explore the mystical Arab baths. Dedicate the afternoon entirely to the Alhambra, the crown jewel of Moorish architecture, followed by the tranquility of the Generalife gardens."
+          },
+          "stops": [
+            {
+              "name": "Corral del Carbón",
+              "tip_5lang": {
+                "de": "Kostenloser Eintritt in diese ehemalige Karawanserei.",
+                "hu": "Ingyenes belépés ebbe az egykori mór karavánszerájba.",
+                "ro": "Intrare gratuită în acest fost han maur.",
+                "en": "Free entry to this former Moorish caravanserai."
+              }
+            },
+            {
+              "name": "Catedral de Granada",
+              "tip_5lang": {
+                "de": "Bewundern Sie die gewaltigen weißen Säulen der Renaissance.",
+                "hu": "Csodáld meg a hatalmas fehér reneszánsz oszlopokat.",
+                "ro": "Admirați coloanele uriașe albe în stil renascentist.",
+                "en": "Admire the massive white Renaissance columns."
+              }
+            },
+            {
+              "name": "Capilla Real",
+              "tip_5lang": {
+                "de": "Das Grabmal der Katholischen Könige ist ein Muss.",
+                "hu": "A katolikus királyok síremléke kötelező látnivaló.",
+                "ro": "Mormântul Regilor Catolici este un obiectiv esențial.",
+                "en": "The tomb of the Catholic Monarchs is a must-see."
+              }
+            },
+            {
+              "name": "Baños Árabes (El Bañuelo)",
+              "tip_5lang": {
+                "de": "Eines der ältesten erhaltenen Bäder in Spanien.",
+                "hu": "Spanyolország egyik legrégebbi fennmaradt fürdője.",
+                "ro": "Una dintre cele mai vechi băi conservate din Spania.",
+                "en": "One of the oldest preserved baths in Spain."
+              }
+            },
+            {
+              "name": "Alhambra",
+              "tip_5lang": {
+                "de": "Tickets Monate im Voraus für die Nasridenpaläste buchen.",
+                "hu": "Foglalj jegyet hónapokkal előbb a Naszrid palotákba.",
+                "ro": "Rezervați biletele cu luni înainte pentru Palatele Nasride.",
+                "en": "Book tickets months in advance for the Nasrid Palaces."
+              }
+            },
+            {
+              "name": "Generalife",
+              "tip_5lang": {
+                "de": "Genießen Sie die Wasserspiele in den Gärten.",
+                "hu": "Élvezd a kertek vízi játékait és nyugalmát.",
+                "ro": "Bucurați-vă de jocurile de apă din grădini.",
+                "en": "Enjoy the water features in the gardens."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Habas con Jamón",
+                "tip": "Probieren Sie Saubohnen mit Schinken im Los Manueles."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Habas con Jamón",
+                "tip": "Kóstolja meg a sonkás lóbabot a Los Manueles étteremben."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Habas con Jamón",
+                "tip": "Încercați fasolea cu șuncă la Los Manueles."
+              }
+            ],
+            "en": [
+              {
+                "name": "Habas con Jamón",
+                "tip": "Try broad beans with ham at Los Manueles."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Patio de la Acequia",
+                "tip": "Ruhiges Plätschern im Generalife.",
+                "emoji": "🌿"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Patio de la Acequia",
+                "tip": "Csendes csobogás a Generalife kertjében.",
+                "emoji": "🌿"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Patio de la Acequia",
+                "tip": "Susur liniștit în grădinile Generalife.",
+                "emoji": "🌿"
+              }
+            ],
+            "en": [
+              {
+                "name": "Patio de la Acequia",
+                "tip": "Quiet water flowing in Generalife.",
+                "emoji": "🌿"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Alcaicería",
+                "tip": "Der alte Seidenmarkt für Kunsthandwerk."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Alcaicería",
+                "tip": "Az régi selyempiac kézműves termékekkel."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Alcaicería",
+                "tip": "Vechea piață de mătase pentru artizanat."
+              }
+            ],
+            "en": [
+              {
+                "name": "Alcaicería",
+                "tip": "The old silk market for local crafts."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster.",
+              "Granada bietet kostenlose Tapas zu jedem Getränk.",
+              "Reservieren Sie Alhambra-Tickets 3 Monate im Voraus.",
+              "Das Stadtzentrum ist flach, aber die Hügel sind steil."
+            ],
+            "hu": [
+              "Viseljen kényelmes cipőt a macskaköves utcákhoz.",
+              "Granadában ingyen tapas jár minden ital mellé.",
+              "Foglaljon Alhambra jegyet 3 hónappal előre.",
+              "A városközpont lapos, de a dombok meredekek."
+            ],
+            "ro": [
+              "Purtați încălțăminte confortabilă pentru piatră cubică.",
+              "Granada oferă tapas gratuite la fiecare băutură.",
+              "Rezervați bilete la Alhambra cu 3 luni înainte.",
+              "Centrul orașului este plat, dar dealurile sunt abrupte."
+            ],
+            "en": [
+              "Wear comfortable shoes for the cobblestone streets.",
+              "Granada offers free tapas with every drink ordered.",
+              "Book Alhambra tickets at least 3 months in advance.",
+              "The city center is flat, but the hills are steep."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein verregneter Morgen in Granada beginnt unter den schützenden Bögen des Corral del Carbón, wo das Plätschern auf das Kopfsteinpflaster eine friedliche Atmosphäre schafft. Mittags bietet die prächtige Kathedrale einen trockenen und ehrfurchtgebietenden Rückzugsort vor dem andalusischen Guss. Der Nachmittag führt zur Alhambra; während die Gärten des Generalife im Regen glänzen, bieten die Nasridenpaläste perfekten Schutz. Der Tag endet gemütlich in den Teestuben des Albayzín, wo der Duft von Gewürzen den grauen Himmel vergessen lässt.",
+            "hu": "Az esős granadai reggel a Corral del Carbón árkádjai alatt indul, ahol a köveken koppanó esőcseppek különleges ritmust adnak a városnak. Délben a Székesegyház monumentális belső tere nyújt tökéletes menedéket és lelki feltöltődést a zápor elől. Délután az Alhambra felé vesszük az irányt; az esernyő kötelező a kertekhez, de a paloták belső díszítése ilyenkor is lenyűgöző. Az estet egy hangulatos teaházban zárjuk az Albayzín negyedben, figyelve az ablakon lecsorgó esőcseppeket.",
+            "ro": "O dimineață ploioasă în Granada începe sub arcadele protectoare de la Corral del Carbón, unde sunetul picăturilor pe caldarâm creează o atmosferă nostalgică. La prânz, Catedrala oferă un refugiu uscat și maiestuos în fața averselor andaluze. După-amiaza ne îndreptăm spre Alhambra; deși grădinile Generalife necesită umbrelă, palatele oferă protecție perfectă. Ziua se încheie confortabil într-o ceainărie din Albayzín, unde aroma ceaiului maur alungă umezeala de afară.",
+            "en": "A rainy morning in Granada begins under the protective arches of Corral del Carbón, where the sound of rain on the cobblestones creates a peaceful mood. At noon, the Cathedral provides a dry and awe-inspiring sanctuary from the Andalusian showers. The afternoon leads to the Alhambra; while an umbrella is essential for the gardens, the Nasrid Palaces offer perfect shelter. The day ends cozily in the tea houses of Albayzín, where the scent of spices makes you forget the gray skies outside."
+          },
+          "stops": [
+            {
+              "name": "Corral del Carbón",
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Innenhof, um den ersten Schauer abzuwarten.",
+                "hu": "Használja a fedett udvart az első zápor kivárására.",
+                "ro": "Folosiți curtea interioară acoperită pentru a aștepta trecerea primului val de ploaie.",
+                "en": "Use the covered courtyard to wait out the first shower."
+              }
+            },
+            {
+              "name": "Catedral de Granada",
+              "tip_5lang": {
+                "de": "Ideal für regnerische Stunden; der Innenraum bleibt angenehm trocken.",
+                "hu": "Ideális esős órákra; a hatalmas belső tér teljesen védett.",
+                "ro": "Ideal pentru orele ploioase; interiorul rămâne plăcut și uscat.",
+                "en": "Perfect for rainy hours; the vast interior stays completely dry."
+              }
+            },
+            {
+              "name": "Capilla Real",
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint von der Kathedrale entfernt, komplett überdacht.",
+                "hu": "Csak egy rövid futás a katedrálistól, végig fedett belső rész.",
+                "ro": "O scurtă fugă de la Catedrală, interior complet acoperit.",
+                "en": "Just a short sprint from the Cathedral, fully covered inside."
+              }
+            },
+            {
+              "name": "Baños Árabes (El Bañuelo)",
+              "tip_5lang": {
+                "de": "Die antiken Gewölbe bieten hervorragenden Schutz vor Nässe.",
+                "hu": "Az ősi boltozatok kiváló védelmet nyújtanak a nedvesség ellen.",
+                "ro": "Bolțile antice oferă o protecție excelentă împotriva umezelii.",
+                "en": "The ancient vaults provide excellent protection from the wet weather."
+              }
+            },
+            {
+              "name": "Alhambra",
+              "tip_5lang": {
+                "de": "Viel Zeit in den Palästen verbringen, dort ist es trocken.",
+                "hu": "Töltsön több időt a paloták belső termeiben, ott száraz az idő.",
+                "ro": "Petreceți mai mult timp în palate, unde este uscat.",
+                "en": "Spend more time inside the palaces where it's dry."
+              }
+            },
+            {
+              "name": "Generalife",
+              "tip_5lang": {
+                "de": "Vorsicht auf den Gartenwegen, diese können bei Regen rutschig sein.",
+                "hu": "Vigyázat a kerti utakon, esőben csúszósak lehetnek.",
+                "ro": "Atenție pe aleile din grădină, pot fi alunecoase când plouă.",
+                "en": "Be careful on the garden paths as they can be slippery when wet."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Schuhe mit gutem Grip für das rutschige Pflaster im Albayzín.",
+              "Ein stabiler Regenschirm ist wegen der Windböen am Alhambra-Hügel ratsam.",
+              "Nutzen Sie die vielen Teestuben als Zwischenstopps zum Aufwärmen.",
+              "Planen Sie die Außenbereiche der Alhambra für Regenpausen ein.",
+              "Wasserdichte Kleidung ist beim Aufstieg zum Generalife sehr vorteilhaft."
+            ],
+            "hu": [
+              "Viseljen tapadós talpú cipőt az Albayzín csúszós macskakövei miatt.",
+              "Erős esernyő ajánlott az Alhambra-dombon tapasztalható széllökések miatt.",
+              "Használja a hangulatos teázókat pihenőhelyként az eső elől.",
+              "Az Alhambra külső kertjeit a csapadékmentes szünetekre időzítse.",
+              "A vízálló öltözet nagy előny a Generalife emelkedőin."
+            ],
+            "ro": [
+              "Purtați încălțăminte cu talpă aderentă pentru caldarâmul alunecos din Albayzín.",
+              "O umbrelă rezistentă este recomandată din cauza rafalelor de vânt de pe dealul Alhambra.",
+              "Folosiți numeroasele ceainării ca puncte de oprire pentru a vă încălzi.",
+              "Planificați vizitarea zonelor exterioare de la Alhambra în pauzele dintre averse.",
+              "Îmbrăcămintea impermeabilă este foarte utilă la urcarea spre Generalife."
+            ],
+            "en": [
+              "Wear shoes with good grip for the slippery cobblestones in Albayzín.",
+              "A sturdy umbrella is advised due to wind gusts on the Alhambra hill.",
+              "Utilize the many tea rooms as pit stops to dry off and warm up.",
+              "Schedule the outdoor parts of Alhambra during rain breaks if possible.",
+              "Waterproof gear is a big plus when climbing up to Generalife."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die klare Winterluft am Morgen lässt die schneebedeckten Gipfel der Sierra Nevada in der Ferne leuchten, während Sie am Corral del Carbón starten. Mittags wärmt die tiefstehende andalusische Sonne die Plätze vor der Kathedrale angenehm auf. Der Nachmittag in der Alhambra ist erfrischend kühl; die Gärten wirken in ihrer Winterruhe besonders vornehm. Sobald die Sonne gegen 18:00 Uhr untergeht, hüllt das goldene Licht die Stadt in eine magische Kälte, die zum Verweilen in warmen Tapas-Bars einlädt.",
+            "hu": "A tiszta téli reggelen a távolban ragyognak a Sierra Nevada hófödte csúcsai, miközben elindulunk a Corral del Carbón felől. Délben az alacsonyan járó andalúz nap kellemesen melengeti a Székesegyház előtti tereket. Délután az Alhambra falai között frissítő a hűvös levegő; a kertek téli álma különleges eleganciát kölcsönöz a tájnak. Amint a nap 18:00 körül lenyugszik, az aranyló fények és a csípős hideg a meleg Tapas-bárok felé terelik a sétálót.",
+            "ro": "Aerul curat de iarnă face ca vârfurile înzăpezite ale Sierra Nevada să strălucească în depărtare în timp ce porniți de la Corral del Carbón. La prânz, soarele blând andaluz încălzește plăcut piețele din fața Catedralei. După-amiaza la Alhambra este răcoroasă și revigorantă; grădinile au o eleganță aparte în liniștea iernii. Imediat ce soarele apune în jurul orei 18:00, lumina aurie și frigul serii vă invită în barurile calde de tapas.",
+            "en": "The crisp winter air in the morning makes the snow-capped peaks of Sierra Nevada glow in the distance as you start at Corral del Carbón. At noon, the low-hanging Andalusian sun pleasantly warms the squares in front of the Cathedral. Afternoon at the Alhambra is refreshingly cool; the gardens possess a special elegance in their winter slumber. As the sun sets around 18:00, the golden light and the evening chill guide you toward the warmth of local tapas bars."
+          },
+          "stops": [
+            {
+              "name": "Corral del Carbón",
+              "tip_5lang": {
+                "de": "Die dicken Mauern speichern die Kälte; ziehen Sie sich warm an.",
+                "hu": "A vastag falak tartják a hideget; öltözzön rétegesen.",
+                "ro": "Zidurile groase rețin frigul; îmbrăcați-vă bine.",
+                "en": "The thick walls retain the cold; make sure to dress warmly."
+              }
+            },
+            {
+              "name": "Catedral de Granada",
+              "tip_5lang": {
+                "de": "Der Innenraum kann im Winter sehr kühl sein; behalten Sie den Mantel an.",
+                "hu": "A belső tér télen nagyon hűvös lehet; ne vegye le a kabátját.",
+                "ro": "Interiorul poate fi foarte răcoros iarna; păstrați haina pe dvs.",
+                "en": "The interior can be quite chilly in winter; keep your coat on."
+              }
+            },
+            {
+              "name": "Capilla Real",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Krypta zügig, dort ist es am kältesten.",
+                "hu": "A kriptát gyorsan nézze meg, ott a leghidegebb az idő.",
+                "ro": "Vizitați cripta rapid, este locul cel mai friguros.",
+                "en": "Visit the crypt briefly as it is the coldest spot inside."
+              }
+            },
+            {
+              "name": "Baños Árabes (El Bañuelo)",
+              "tip_5lang": {
+                "de": "Genießen Sie das Lichtspiel der tiefstehenden Wintersonne durch die Deckenlöcher.",
+                "hu": "Élvezze az alacsonyan járó téli nap fényjátékát a tetőnyílásokon át.",
+                "ro": "Bucurați-vă de jocul de lumini al soarelui de iarnă prin orificiile din tavan.",
+                "en": "Enjoy the light play of the low winter sun through the ceiling openings."
+              }
+            },
+            {
+              "name": "Alhambra",
+              "tip_5lang": {
+                "de": "Die Paläste bieten Windschutz, aber die Freiflächen sind zugig.",
+                "hu": "A paloták védenek a széltől, de a nyitott udvarok huzatosak.",
+                "ro": "Palatele oferă protecție contra vântului, dar curțile sunt expuse.",
+                "en": "The palaces block the wind, but open courtyards can be drafty."
+              }
+            },
+            {
+              "name": "Generalife",
+              "tip_5lang": {
+                "de": "Der Sonnenuntergang hier ist früh; planen Sie den Besuch vor 17:00 Uhr.",
+                "hu": "A napnyugta korán van; tervezze a látogatást 17:00 előttre.",
+                "ro": "Apusul este devreme; planificați vizita înainte de ora 17:00.",
+                "en": "Sunset is early; aim to finish your visit by 17:00."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Zwiebelprinzip bei der Kleidung ist wichtig, da die Sonne noch kräftig wärmt.",
+              "Die Sonne verschwindet im Albayzín früh hinter den Hügeln.",
+              "Trinken Sie eine heiße Schokolade mit Churros zur Stärkung.",
+              "In den Schattenzonen der Alhambra bleibt es den ganzen Tag frostig.",
+              "Planen Sie das Ende Ihrer Tour für 18:00 Uhr ein, wenn es dunkel wird."
+            ],
+            "hu": [
+              "A réteges öltözködés kulcsfontosságú, mert a nap még erősen süthet.",
+              "A nap az Albayzín szűk utcáiban korán eltűnik a dombok mögött.",
+              "Igyon egy forró csokoládét churrosszal a délutáni felfrissüléshez.",
+              "Az Alhambra árnyékos részein egész nap fagyos maradhat a levegő.",
+              "Tervezze a túra végét 18:00-ra, amikor hirtelen besötétedik."
+            ],
+            "ro": [
+              "Îmbrăcămintea în straturi este esențială, deoarece soarele încă poate fi puternic.",
+              "Soarele dispare devreme în Albayzín în spatele dealurilor.",
+              "Savurați o ciocolată caldă cu churros pentru a vă reîncărca bateriile.",
+              "În zonele umbrite ale Alhambrei, aerul rămâne rece pe tot parcursul zilei.",
+              "Finalizați turul în jur de ora 18:00, când se lasă întunericul."
+            ],
+            "en": [
+              "Layered clothing is key as the sun can still be quite warm at midday.",
+              "The sun disappears early behind the hills in the Albayzín district.",
+              "Try a hot chocolate with churros for a classic winter energy boost.",
+              "In the shaded areas of the Alhambra, it stays chilly all day long.",
+              "Plan to end your outdoor activities by 18:00 when it gets dark."
+            ]
+          }
+        }
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Parque de las Ciencias",
+          "coords": [
+            -3.6062,
+            37.1625
+          ],
+          "category": "museums",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Interaktives Museum, ideal für den Vormittag.",
+            "hu": "Interaktív múzeum, ideális délelőtti program.",
+            "ro": "Muzeu interactiv, ideal pentru dimineață.",
+            "en": "Interactive museum, ideal for the morning."
+          }
+        },
+        {
+          "name": "Catedral de Granada",
+          "coords": [
+            -3.5992,
+            37.1765
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad sicher am Plaza Pasiegas ab.",
+            "hu": "Zárd le a biciklit biztonságosan a Plaza Pasiegas-nál.",
+            "ro": "Parcați bicicleta în siguranță lângă Plaza Pasiegas.",
+            "en": "Park your bike securely near Plaza Pasiegas."
+          }
+        },
+        {
+          "name": "Albayzín",
+          "coords": [
+            -3.5938,
+            37.1811
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Ein E-Bike ist für die steilen Gassen sehr empfohlen.",
+            "hu": "Az elektromos kerékpár erősen ajánlott a szűk utcákhoz.",
+            "ro": "O bicicletă electrică este recomandată pentru străzile abrupte.",
+            "en": "An e-bike is highly recommended for the steep alleys."
+          }
+        },
+        {
+          "name": "Mirador de San Nicolás",
+          "coords": [
+            -3.5925,
+            37.1811
+          ],
+          "category": "natural features",
+          "arrive_at": "13:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Der berühmteste Blick auf die Alhambra.",
+            "hu": "A leghíresebb kilátás az Alhambrára.",
+            "ro": "Cea mai faimoasă priveliște asupra complexului Alhambra.",
+            "en": "The most famous view of the Alhambra."
+          }
+        },
+        {
+          "name": "Sacromonte",
+          "coords": [
+            -3.5852,
+            37.1824
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "14:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Höhlenhäuser der Roma.",
+            "hu": "Látogassa meg a romák barlanglakásait.",
+            "ro": "Vizitați casele-peșteră ale comunității rromi.",
+            "en": "Visit the cave houses of the Roma community."
+          }
+        },
+        {
+          "name": "Corral del Carbón",
+          "coords": [
+            -3.5981,
+            37.1754
+          ],
+          "category": "historical",
+          "arrive_at": "15:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Ein entspannter Abschluss im Stadtzentrum.",
+            "hu": "Pihentető befejezés a városközpontban.",
+            "ro": "Un final relaxant în centrul orașului.",
+            "en": "A relaxing finish in the city center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Granada mit dem Fahrrad, beginnend im modernen Wissenschaftspark. Fahren Sie dann ins Zentrum zur Kathedrale, bevor Sie die Herausforderung des Albayzín annehmen. Genießen Sie den Panoramablick vom San Nicolás Mirador und die einzigartige Atmosphäre von Sacromonte, bevor Sie zurückrollen.",
+        "hu": "Fedezze fel Granadát kerékpáron, kezdve a modern Tudományos Parkkal. Tekerjen a központba a katedrálishoz, mielőtt nekivágna az Albayzín dombjainak. Élvezze a panorámát a San Nicolás kilátóról és Sacromonte egyedi hangulatát, majd guruljon vissza a központba.",
+        "ro": "Explorați Granada pe bicicletă, începând cu modernul Parc al Științelor. Pedalați spre centru la Catedrală înainte de a urca pe dealurile din Albayzín. Bucurați-vă de panorama de la Mirador San Nicolás și de atmosfera unică din Sacromonte, apoi coborâți spre centru.",
+        "en": "Explore Granada by bike, starting at the modern Science Park. Cycle to the center for the Cathedral before taking on the challenge of Albayzín's hills. Enjoy the panorama from San Nicolás viewpoint and the unique atmosphere of Sacromonte before rolling back to the center."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Piononos de Santa Fe",
+            "tip": "Süßes Gebäck zum Mitnehmen bei Casa Isla."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piononos de Santa Fe",
+            "tip": "Édes sütemény a Casa Isla cukrászdából."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piononos de Santa Fe",
+            "tip": "Prăjituri dulci de la Casa Isla."
+          }
+        ],
+        "en": [
+          {
+            "name": "Piononos de Santa Fe",
+            "tip": "Sweet pastries to go from Casa Isla."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Huerto de Juan Ranas",
+            "tip": "Ruhiger Blick am Abend.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Huerto de Juan Ranas",
+            "tip": "Csendes kilátás az esti órákban.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Huerto de Juan Ranas",
+            "tip": "Vedere liniștită spre seară.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Huerto de Juan Ranas",
+            "tip": "Quiet evening views.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Calle Elvira",
+            "tip": "Marokkanische Lampen und Tee."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Calle Elvira",
+            "tip": "Marokkói lámpák és teák utcája."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Calle Elvira",
+            "tip": "Lămpi marocane și ceaiuri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Calle Elvira",
+            "tip": "Moroccan lamps and teas."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie ein E-Bike für Albayzín.",
+          "Achten Sie auf Fußgänger in den engen Gassen.",
+          "Trinken Sie viel Wasser bei der Hitze.",
+          "Einige Wege im Albayzín sind reine Treppen."
+        ],
+        "hu": [
+          "Használj e-bike-ot az Albayzínhoz.",
+          "Figyelj a gyalogosokra a szűk utcákban.",
+          "Igyál sok vizet a hőségben.",
+          "Néhány út az Albayzínban csak lépcsőkből áll."
+        ],
+        "ro": [
+          "Folosiți o bicicletă electrică pentru Albayzín.",
+          "Atenție la pietoni pe străzile înguste.",
+          "Beți multă apă în căldura verii.",
+          "Unele căi din Albayzín sunt doar trepte."
+        ],
+        "en": [
+          "Use an e-bike for the Albayzín climb.",
+          "Watch out for pedestrians in narrow streets.",
+          "Hydrate well during the summer heat.",
+          "Some paths in Albayzín are stairs-only."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie Granada mit dem Fahrrad, beginnend im modernen Wissenschaftspark. Fahren Sie dann ins Zentrum zur Kathedrale, bevor Sie die Herausforderung des Albayzín annehmen. Genießen Sie den Panoramablick vom San Nicolás Mirador und die einzigartige Atmosphäre von Sacromonte, bevor Sie zurückrollen.",
+            "hu": "Fedezze fel Granadát kerékpáron, kezdve a modern Tudományos Parkkal. Tekerjen a központba a katedrálishoz, mielőtt nekivágna az Albayzín dombjainak. Élvezze a panorámát a San Nicolás kilátóról és Sacromonte egyedi hangulatát, majd guruljon vissza a központba.",
+            "ro": "Explorați Granada pe bicicletă, începând cu modernul Parc al Științelor. Pedalați spre centru la Catedrală înainte de a urca pe dealurile din Albayzín. Bucurați-vă de panorama de la Mirador San Nicolás și de atmosfera unică din Sacromonte, apoi coborâți spre centru.",
+            "en": "Explore Granada by bike, starting at the modern Science Park. Cycle to the center for the Cathedral before taking on the challenge of Albayzín's hills. Enjoy the panorama from San Nicolás viewpoint and the unique atmosphere of Sacromonte before rolling back to the center."
+          },
+          "stops": [
+            {
+              "name": "Parque de las Ciencias",
+              "tip_5lang": {
+                "de": "Interaktives Museum, ideal für den Vormittag.",
+                "hu": "Interaktív múzeum, ideális délelőtti program.",
+                "ro": "Muzeu interactiv, ideal pentru dimineață.",
+                "en": "Interactive museum, ideal for the morning."
+              }
+            },
+            {
+              "name": "Catedral de Granada",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Fahrrad sicher am Plaza Pasiegas ab.",
+                "hu": "Zárd le a biciklit biztonságosan a Plaza Pasiegas-nál.",
+                "ro": "Parcați bicicleta în siguranță lângă Plaza Pasiegas.",
+                "en": "Park your bike securely near Plaza Pasiegas."
+              }
+            },
+            {
+              "name": "Albayzín",
+              "tip_5lang": {
+                "de": "Ein E-Bike ist für die steilen Gassen sehr empfohlen.",
+                "hu": "Az elektromos kerékpár erősen ajánlott a szűk utcákhoz.",
+                "ro": "O bicicletă electrică este recomandată pentru străzile abrupte.",
+                "en": "An e-bike is highly recommended for the steep alleys."
+              }
+            },
+            {
+              "name": "Mirador de San Nicolás",
+              "tip_5lang": {
+                "de": "Der berühmteste Blick auf die Alhambra.",
+                "hu": "A leghíresebb kilátás az Alhambrára.",
+                "ro": "Cea mai faimoasă priveliște asupra complexului Alhambra.",
+                "en": "The most famous view of the Alhambra."
+              }
+            },
+            {
+              "name": "Sacromonte",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Höhlenhäuser der Roma.",
+                "hu": "Látogassa meg a romák barlanglakásait.",
+                "ro": "Vizitați casele-peșteră ale comunității rromi.",
+                "en": "Visit the cave houses of the Roma community."
+              }
+            },
+            {
+              "name": "Corral del Carbón",
+              "tip_5lang": {
+                "de": "Ein entspannter Abschluss im Stadtzentrum.",
+                "hu": "Pihentető befejezés a városközpontban.",
+                "ro": "Un final relaxant în centrul orașului.",
+                "en": "A relaxing finish in the city center."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Piononos de Santa Fe",
+                "tip": "Süßes Gebäck zum Mitnehmen bei Casa Isla."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Piononos de Santa Fe",
+                "tip": "Édes sütemény a Casa Isla cukrászdából."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Piononos de Santa Fe",
+                "tip": "Prăjituri dulci de la Casa Isla."
+              }
+            ],
+            "en": [
+              {
+                "name": "Piononos de Santa Fe",
+                "tip": "Sweet pastries to go from Casa Isla."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Huerto de Juan Ranas",
+                "tip": "Ruhiger Blick am Abend.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Huerto de Juan Ranas",
+                "tip": "Csendes kilátás az esti órákban.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Huerto de Juan Ranas",
+                "tip": "Vedere liniștită spre seară.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Huerto de Juan Ranas",
+                "tip": "Quiet evening views.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Calle Elvira",
+                "tip": "Marokkanische Lampen und Tee."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Calle Elvira",
+                "tip": "Marokkói lámpák és teák utcája."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Calle Elvira",
+                "tip": "Lămpi marocane și ceaiuri."
+              }
+            ],
+            "en": [
+              {
+                "name": "Calle Elvira",
+                "tip": "Moroccan lamps and teas."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Nutzen Sie ein E-Bike für Albayzín.",
+              "Achten Sie auf Fußgänger in den engen Gassen.",
+              "Trinken Sie viel Wasser bei der Hitze.",
+              "Einige Wege im Albayzín sind reine Treppen."
+            ],
+            "hu": [
+              "Használj e-bike-ot az Albayzínhoz.",
+              "Figyelj a gyalogosokra a szűk utcákban.",
+              "Igyál sok vizet a hőségben.",
+              "Néhány út az Albayzínban csak lépcsőkből áll."
+            ],
+            "ro": [
+              "Folosiți o bicicletă electrică pentru Albayzín.",
+              "Atenție la pietoni pe străzile înguste.",
+              "Beți multă apă în căldura verii.",
+              "Unele căi din Albayzín sunt doar trepte."
+            ],
+            "en": [
+              "Use an e-bike for the Albayzín climb.",
+              "Watch out for pedestrians in narrow streets.",
+              "Hydrate well during the summer heat.",
+              "Some paths in Albayzín are stairs-only."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Start am Wissenschaftspark, wo man die ersten Stunden trocken im Museum verbringen kann. Mittags geht es vorsichtig per Rad zur Kathedrale; das nasse Kopfsteinpflaster erfordert volle Konzentration. Der Nachmittag im Albayzín ist eine Herausforderung auf zwei Rädern, aber die Aussichtspunkte wirken im Nebel mystisch. Der Tag endet mit einer rasanten Abfahrt zurück ins Zentrum, wobei die Bremsen bei Nässe gut kontrolliert werden müssen.",
+            "hu": "Esős kezdés a Tudományos Parkban, ahol az első órákat szárazon, a múzeumban tölthetjük. Délben óvatosan biciklizünk a Székesegyház felé; a vizes aszfalt és kövek teljes koncentrációt igényelnek. Délután az Albayzín negyed két keréken igazi kihívás, de a kilátópontok misztikusak a ködben. A nap egy gyors, de óvatos lejtmenettel zárul a központ felé, ügyelve a fékek megfelelő használatára a nedves úton.",
+            "ro": "Un început ploios la Parcul Științelor, unde primele ore pot fi petrecute la adăpost în muzeu. La prânz, pedalăm cu grijă spre Catedrală; caldarâmul ud necesită concentrare maximă. După-amiaza în Albayzín este o provocare pe două roți, dar punctele de belvedere par mistice în ceață. Ziua se încheie cu o coborâre rapidă spre centru, controlând cu atenție frânele pe carosabilul umed.",
+            "en": "A rainy start at the Science Park, where you can spend the first hours dry inside the museum. At noon, cycle carefully toward the Cathedral; the wet cobblestones require full concentration. Afternoon in Albayzín is a challenge on two wheels, but the viewpoints look mystical in the mist. The day ends with a swift descent back to the center, keeping a close eye on your brakes in the wet conditions."
+          },
+          "stops": [
+            {
+              "name": "Parque de las Ciencias",
+              "tip_5lang": {
+                "de": "Parken Sie das Rad im überdachten Bereich am Haupteingang.",
+                "hu": "Parkolja le a biciklit a főbejáratnál található fedett részen.",
+                "ro": "Parcați bicicleta în zona acoperită de la intrarea principală.",
+                "en": "Park your bike in the covered area near the main entrance."
+              }
+            },
+            {
+              "name": "Catedral de Granada",
+              "tip_5lang": {
+                "de": "Suchen Sie einen Fahrradständer unter einem Vorsprung in der Nähe.",
+                "hu": "Keressen egy biciklitárolót egy közeli épületpárkány alatt.",
+                "ro": "Căutați un suport de biciclete sub o streașină din apropiere.",
+                "en": "Look for a bike rack under a nearby ledge to keep it dry."
+              }
+            },
+            {
+              "name": "Albayzín",
+              "tip_5lang": {
+                "de": "Vermeiden Sie steile, gepflasterte Gassen; nutzen Sie die Hauptstraßen.",
+                "hu": "Kerülje a meredek, köves utcákat; használja a főbb utakat.",
+                "ro": "Evitați străzile înguste și abrupte; folosiți arterele principale.",
+                "en": "Avoid steep, cobbled alleys; stick to the main paved roads."
+              }
+            },
+            {
+              "name": "Mirador de San Nicolás",
+              "tip_5lang": {
+                "de": "Der Platz ist exponiert; stellen Sie sich bei Wind unter die Bäume.",
+                "hu": "A tér nyitott; szél esetén húzódjon a fák alá.",
+                "ro": "Piața este expusă; în caz de vânt, adăpostiți-vă sub copaci.",
+                "en": "The square is exposed; stand under the trees if it's windy."
+              }
+            },
+            {
+              "name": "Sacromonte",
+              "tip_5lang": {
+                "de": "Achten Sie auf Pfützen in den Kurven der Camino del Sacromonte.",
+                "hu": "Ügyeljen a tócsákra a Camino del Sacromonte kanyarjaiban.",
+                "ro": "Atenție la bălțile din curbele de pe Camino del Sacromonte.",
+                "en": "Watch out for puddles in the bends of Camino del Sacromonte."
+              }
+            },
+            {
+              "name": "Corral del Carbón",
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp zum Trocknen im Torbogen vor der Rückgabe.",
+                "hu": "Rövid megálló száradni a kapualjban a bringa leadása előtt.",
+                "ro": "O scurtă oprire pentru uscare sub boltă înainte de returnare.",
+                "en": "A short stop to dry off under the archway before returning the bike."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie die Bremsbeläge vor der Abfahrt im Albayzín.",
+              "Vermeiden Sie weiß markierte Linien auf der Straße, diese sind extrem glatt.",
+              "Ein Regenponcho ist praktischer als eine Jacke beim Radfahren.",
+              "Nutzen Sie Schutzbleche, um Schlammspritzer zu vermeiden.",
+              "Fahren Sie in Kurven besonders langsam und vorausschauend."
+            ],
+            "hu": [
+              "Indulás előtt ellenőrizze a fékbetéteket az Albayzín lejtői miatt.",
+              "Kerülje a fehér felfestéseket az úton, mert rendkívül csúsznak.",
+              "A biciklizéshez egy esőponcsó praktikusabb, mint a kabát.",
+              "Használjon sárvédőt a felfröccsenő sár ellen.",
+              "A kanyarokban haladjon lassabban és előrelátóbban."
+            ],
+            "ro": [
+              "Verificați saboții de frână înainte de a coborî din Albayzín.",
+              "Evitați liniile albe marcate pe asfalt, sunt extrem de alunecoase.",
+              "O pelerină de ploaie este mai practică decât o jachetă la pedalat.",
+              "Folosiți apărători de noroi pentru a evita stropirea.",
+              "Abordați curbele cu viteză redusă și maximă prudență."
+            ],
+            "en": [
+              "Check your brake pads before descending from the Albayzín heights.",
+              "Avoid riding on white road markings; they become ice-slick when wet.",
+              "A rain poncho is often more practical than a jacket while cycling.",
+              "Make sure your bike has fenders to avoid mud splashes.",
+              "Take corners much slower than usual and anticipate stops early."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Frische Morgenbrise auf dem Weg zum Wissenschaftspark; die Bewegung hält Sie warm. Mittags strahlt die Sonne über der Kathedrale, was das Radfahren durch die Altstadt zu einem Genuss macht. Der Nachmittag im Albayzín bietet spektakuläre, klare Sichten auf die verschneite Sierra Nevada. Sobald die Schatten länger werden, kühlt es spürbar ab, sodass die Rückfahrt zum Corral del Carbón ein flottes Tempo verlangt, um nicht auszukühlen.",
+            "hu": "Friss reggeli szellő a Tudományos Park felé menet; a mozgás melegen tartja. Délben a Székesegyház felett ragyogó nap igazi élvezetté teszi a tekerést az óvárosban. Délután az Albayzín negyedből kristálytiszta kilátás nyílik a havas Sierra Nevadára. Amint az árnyékok megnyúlnak, a levegő hirtelen lehűl, így a Corral del Carbón felé vezető úton érdemes tempósabban haladni.",
+            "ro": "Briză matinală revigorantă în drum spre Parcul Științelor; mișcarea vă menține cald. La prânz, soarele strălucește peste Catedrală, făcând pedalatul prin centrul vechi o plăcere. După-amiaza în Albayzín oferă vederi spectaculoase și clare spre Sierra Nevada înzăpezită. Imediat ce umbrele se lungesc, se răcește brusc, deci drumul spre Corral del Carbón necesită un ritm alert.",
+            "en": "Fresh morning breeze on the way to the Science Park; the movement keeps you warm. At noon, the sun shines over the Cathedral, making cycling through the old town a delight. Afternoon in Albayzín offers spectacular, clear views of the snowy Sierra Nevada. As the shadows lengthen, it cools down noticeably, so the ride back to Corral del Carbón requires a brisk pace to stay warm."
+          },
+          "stops": [
+            {
+              "name": "Parque de las Ciencias",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Weg entlang des Flusses Genil für eine sonnige Anfahrt.",
+                "hu": "Használja a Genil-folyó menti utat a napos megközelítéshez.",
+                "ro": "Folosiți drumul de-a lungul râului Genil pentru un traseu însorit.",
+                "en": "Use the path along the Genil river for a sunny approach."
+              }
+            },
+            {
+              "name": "Catedral de Granada",
+              "tip_5lang": {
+                "de": "Parken Sie in der Sonne, um den Sattel für später warm zu halten.",
+                "hu": "Parkoljon napos helyen, hogy a nyereg meleg maradjon.",
+                "ro": "Parcați la soare pentru a menține șaua caldă pentru mai târziu.",
+                "en": "Park in the sun to keep your bike seat warm for later."
+              }
+            },
+            {
+              "name": "Albayzín",
+              "tip_5lang": {
+                "de": "Tragen Sie Handschuhe; der Fahrtwind in den engen Gassen ist kalt.",
+                "hu": "Viseljen kesztyűt; a menetszél a szűk utcákban hideg.",
+                "ro": "Purtați mănuși; curentul de aer pe străzile înguste este rece.",
+                "en": "Wear gloves; the wind chill in the narrow alleys is biting."
+              }
+            },
+            {
+              "name": "Mirador de San Nicolás",
+              "tip_5lang": {
+                "de": "Die Sonne wärmt hier mittags gut, ideal für eine Pause.",
+                "hu": "A nap itt délben jól melegít, ideális egy pihenőhöz.",
+                "ro": "Soarele încălzește bine aici la prânz, ideal pentru o pauză.",
+                "en": "The sun warms this spot well at noon, perfect for a break."
+              }
+            },
+            {
+              "name": "Sacromonte",
+              "tip_5lang": {
+                "de": "Die Südhanglage macht diesen Stopp im Winter besonders angenehm.",
+                "hu": "A déli fekvés miatt ez a megálló télen különösen kellemes.",
+                "ro": "Expunerea sudică face acest popas foarte plăcut iarna.",
+                "en": "The south-facing slope makes this stop very pleasant in winter."
+              }
+            },
+            {
+              "name": "Corral del Carbón",
+              "tip_5lang": {
+                "de": "Geben Sie das Rad vor 17:30 Uhr zurück, bevor es frostig wird.",
+                "hu": "Adja le a biciklit 17:30 előtt, mielőtt fagyossá válik az idő.",
+                "ro": "Returnați bicicleta înainte de 17:30, înainte să se lase gerul.",
+                "en": "Return the bike by 17:30 before the evening frost sets in."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winddichte Kleidung ist wegen des kalten Fahrtwinds unerlässlich.",
+              "Achten Sie auf Glatteis in schattigen Kurven am frühen Morgen.",
+              "Ein Thermosbecher mit warmem Tee im Flaschenhalter ist Gold wert.",
+              "Die Sonne wärmt stark, aber im Schatten sinkt die Temperatur sofort.",
+              "Licht am Fahrrad ist ab 17:30 Uhr aufgrund der frühen Dämmerung Pflicht."
+            ],
+            "hu": [
+              "A szélálló ruházat elengedhetetlen a hideg menetszél miatt.",
+              "Kora reggel ügyeljen a jeges foltokra az árnyékos kanyarokban.",
+              "Egy termosz meleg tea a kulacstartóban aranyat ér.",
+              "A nap erősen melegít, de árnyékban azonnal visszaesik a hőmérséklet.",
+              "A korai sötétedés miatt 17:30-tól kötelező a világítás használata."
+            ],
+            "ro": [
+              "Îmbrăcămintea rezistentă la vânt este esențială din cauza curentului rece.",
+              "Atenție la polei în curbele umbrite la primele ore ale dimineții.",
+              "Un termos cu ceai cald în suportul de bidon este extrem de util.",
+              "Soarele încălzește tare, dar la umbră temperatura scade instantaneu.",
+              "Luminile sunt obligatorii de la 17:30 din cauza amurgului timpuriu."
+            ],
+            "en": [
+              "Windproof clothing is essential due to the cold air while riding.",
+              "Watch out for icy patches in shaded corners early in the morning.",
+              "A thermos with warm tea in your bottle cage is a life-saver.",
+              "The sun is warm, but temperatures drop immediately in the shade.",
+              "Bike lights are mandatory after 17:30 due to early sunset."
+            ]
+          }
+        }
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "19:40",
+      "total_km": 15.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Parque de las Ciencias",
+          "coords": [
+            -3.6062,
+            37.1625
+          ],
+          "category": "museums",
+          "arrive_at": "09:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Einfaches Parken direkt am Museum.",
+            "hu": "Egyszerű parkolás közvetlenül a múzeumnál.",
+            "ro": "Parcare ușoară direct la muzeu.",
+            "en": "Easy parking right at the museum."
+          }
+        },
+        {
+          "name": "Catedral de Granada",
+          "coords": [
+            -3.5992,
+            37.1765
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:25",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Parken Sie im Parkhaus San Agustín im Zentrum.",
+            "hu": "Parkoljon a központi San Agustín parkolóházban.",
+            "ro": "Parcați în garajul San Agustín din centru.",
+            "en": "Park at the San Agustín garage in the center."
+          }
+        },
+        {
+          "name": "Alhambra",
+          "coords": [
+            -3.5898,
+            37.1761
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:15",
+          "stay_min": 180,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Nutzen Sie den großen Parkplatz an der Alhambra.",
+            "hu": "Használja az Alhambra nagy parkolóját.",
+            "ro": "Folosiți parcarea mare de la Alhambra.",
+            "en": "Use the large parking lot at the Alhambra complex."
+          }
+        },
+        {
+          "name": "Generalife",
+          "coords": [
+            -3.5851,
+            37.1771
+          ],
+          "category": "famous residences",
+          "arrive_at": "17:25",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Direkter Zugang vom Alhambra-Parkplatz.",
+            "hu": "Közvetlen hozzáférés az Alhambra parkolójából.",
+            "ro": "Acces direct din parcarea Alhambra.",
+            "en": "Direct access from the Alhambra parking area."
+          }
+        },
+        {
+          "name": "Mirador de San Nicolás",
+          "coords": [
+            -3.5925,
+            37.1811
+          ],
+          "category": "natural features",
+          "arrive_at": "19:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Parken ist hier extrem schwierig, besser am Rand.",
+            "hu": "Itt nagyon nehéz parkolni, inkább a szélen álljon meg.",
+            "ro": "Parcarea este foarte dificilă aici, lăsați mașina la margini.",
+            "en": "Parking is extremely difficult here, use outer lots."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erreichen Sie bequem den Wissenschaftspark und fahren dann zum Stadtzentrum. Parken Sie zentral für die Kathedrale und nutzen Sie später den offiziellen Alhambra-Parkplatz für den restlichen Tag. Zum Abschluss bietet der Albayzín-Hügel den perfekten Sonnenuntergang, aber Vorsicht beim Navigieren.",
+        "hu": "Autóval kényelmesen elérheti a Tudományos Parkot, majd a városközpontot. Parkoljon központilag a katedrálishoz, majd használja az Alhambra hivatalos parkolóját a nap további részében. Befejezésként az Albayzín dombja tökéletes naplementét kínál, de vigyázzon a navigációval.",
+        "ro": "Cu mașina puteți ajunge ușor la Parcul Științelor și apoi spre centru. Parcați central pentru Catedrală și folosiți ulterior parcarea oficială de la Alhambra. La final, dealul Albayzín oferă apusul perfect, dar fiți atenți la navigarea pe străzile înguste.",
+        "en": "By car, you can easily reach the Science Park and then drive to the city center. Park centrally for the Cathedral, and later use the official Alhambra parking lot for the rest of the day. To conclude, the Albayzín hill offers the perfect sunset, but be careful when navigating the narrow lanes."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Plato Alpujarreño",
+            "tip": "Deftiges Gericht mit Eiern und Wurst."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Plato Alpujarreño",
+            "tip": "Kiadós tál tojással és kolbásszal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plato Alpujarreño",
+            "tip": "Mâncare consistentă cu ouă și cârnați."
+          }
+        ],
+        "en": [
+          {
+            "name": "Plato Alpujarreño",
+            "tip": "Hearty dish with eggs, ham, and sausage."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Silla del Moro",
+            "tip": "Einsame Aussicht oberhalb der Alhambra.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Silla del Moro",
+            "tip": "Magányos kilátó az Alhambra felett.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Silla del Moro",
+            "tip": "Vedere izolată deasupra complexului Alhambra.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Silla del Moro",
+            "tip": "Lonely viewpoint above the Alhambra.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mercado San Agustín",
+            "tip": "Gourmet-Produkte und frischer Fisch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mercado San Agustín",
+            "tip": "Gourmet termékek és friss halak piaca."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mercado San Agustín",
+            "tip": "Produse gourmet și pește proaspăt."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mercado San Agustín",
+            "tip": "Gourmet products and fresh fish market."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Fahren Sie nicht ohne Genehmigung ins Zentrum.",
+          "Die Gassen im Albayzín sind sehr eng.",
+          "Parkhäuser sind oft eng und teuer.",
+          "Vermeiden Sie die Rushhour am Nachmittag."
+        ],
+        "hu": [
+          "Ne hajtson be engedély nélkül a központba.",
+          "Az Albayzín utcái nagyon szűkek.",
+          "A parkolóházak gyakran szűkek és drágák.",
+          "Kerülje el a délutáni csúcsforgalmat."
+        ],
+        "ro": [
+          "Nu intrați în centru fără autorizație.",
+          "Străzile din Albayzín sunt foarte înguste.",
+          "Parcările subterane sunt adesea strâmte și scumpe.",
+          "Evitați orele de vârf de după-amiază."
+        ],
+        "en": [
+          "Do not enter the restricted center zone without a permit.",
+          "Albayzín streets are extremely narrow for cars.",
+          "Public parking is expensive but safer than street parking.",
+          "Avoid peak traffic hours in the late afternoon."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erreichen Sie bequem den Wissenschaftspark und fahren dann zum Stadtzentrum. Parken Sie zentral für die Kathedrale und nutzen Sie später den offiziellen Alhambra-Parkplatz für den restlichen Tag. Zum Abschluss bietet der Albayzín-Hügel den perfekten Sonnenuntergang, aber Vorsicht beim Navigieren.",
+            "hu": "Autóval kényelmesen elérheti a Tudományos Parkot, majd a városközpontot. Parkoljon központilag a katedrálishoz, majd használja az Alhambra hivatalos parkolóját a nap további részében. Befejezésként az Albayzín dombja tökéletes naplementét kínál, de vigyázzon a navigációval.",
+            "ro": "Cu mașina puteți ajunge ușor la Parcul Științelor și apoi spre centru. Parcați central pentru Catedrală și folosiți ulterior parcarea oficială de la Alhambra. La final, dealul Albayzín oferă apusul perfect, dar fiți atenți la navigarea pe străzile înguste.",
+            "en": "By car, you can easily reach the Science Park and then drive to the city center. Park centrally for the Cathedral, and later use the official Alhambra parking lot for the rest of the day. To conclude, the Albayzín hill offers the perfect sunset, but be careful when navigating the narrow lanes."
+          },
+          "stops": [
+            {
+              "name": "Parque de las Ciencias",
+              "tip_5lang": {
+                "de": "Einfaches Parken direkt am Museum.",
+                "hu": "Egyszerű parkolás közvetlenül a múzeumnál.",
+                "ro": "Parcare ușoară direct la muzeu.",
+                "en": "Easy parking right at the museum."
+              }
+            },
+            {
+              "name": "Catedral de Granada",
+              "tip_5lang": {
+                "de": "Parken Sie im Parkhaus San Agustín im Zentrum.",
+                "hu": "Parkoljon a központi San Agustín parkolóházban.",
+                "ro": "Parcați în garajul San Agustín din centru.",
+                "en": "Park at the San Agustín garage in the center."
+              }
+            },
+            {
+              "name": "Alhambra",
+              "tip_5lang": {
+                "de": "Nutzen Sie den großen Parkplatz an der Alhambra.",
+                "hu": "Használja az Alhambra nagy parkolóját.",
+                "ro": "Folosiți parcarea mare de la Alhambra.",
+                "en": "Use the large parking lot at the Alhambra complex."
+              }
+            },
+            {
+              "name": "Generalife",
+              "tip_5lang": {
+                "de": "Direkter Zugang vom Alhambra-Parkplatz.",
+                "hu": "Közvetlen hozzáférés az Alhambra parkolójából.",
+                "ro": "Acces direct din parcarea Alhambra.",
+                "en": "Direct access from the Alhambra parking area."
+              }
+            },
+            {
+              "name": "Mirador de San Nicolás",
+              "tip_5lang": {
+                "de": "Parken ist hier extrem schwierig, besser am Rand.",
+                "hu": "Itt nagyon nehéz parkolni, inkább a szélen álljon meg.",
+                "ro": "Parcarea este foarte dificilă aici, lăsați mașina la margini.",
+                "en": "Parking is extremely difficult here, use outer lots."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Plato Alpujarreño",
+                "tip": "Deftiges Gericht mit Eiern und Wurst."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Plato Alpujarreño",
+                "tip": "Kiadós tál tojással és kolbásszal."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Plato Alpujarreño",
+                "tip": "Mâncare consistentă cu ouă și cârnați."
+              }
+            ],
+            "en": [
+              {
+                "name": "Plato Alpujarreño",
+                "tip": "Hearty dish with eggs, ham, and sausage."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Silla del Moro",
+                "tip": "Einsame Aussicht oberhalb der Alhambra.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Silla del Moro",
+                "tip": "Magányos kilátó az Alhambra felett.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Silla del Moro",
+                "tip": "Vedere izolată deasupra complexului Alhambra.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Silla del Moro",
+                "tip": "Lonely viewpoint above the Alhambra.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Mercado San Agustín",
+                "tip": "Gourmet-Produkte und frischer Fisch."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Mercado San Agustín",
+                "tip": "Gourmet termékek és friss halak piaca."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Mercado San Agustín",
+                "tip": "Produse gourmet și pește proaspăt."
+              }
+            ],
+            "en": [
+              {
+                "name": "Mercado San Agustín",
+                "tip": "Gourmet products and fresh fish market."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Fahren Sie nicht ohne Genehmigung ins Zentrum.",
+              "Die Gassen im Albayzín sind sehr eng.",
+              "Parkhäuser sind oft eng und teuer.",
+              "Vermeiden Sie die Rushhour am Nachmittag."
+            ],
+            "hu": [
+              "Ne hajtson be engedély nélkül a központba.",
+              "Az Albayzín utcái nagyon szűkek.",
+              "A parkolóházak gyakran szűkek és drágák.",
+              "Kerülje el a délutáni csúcsforgalmat."
+            ],
+            "ro": [
+              "Nu intrați în centru fără autorizație.",
+              "Străzile din Albayzín sunt foarte înguste.",
+              "Parcările subterane sunt adesea strâmte și scumpe.",
+              "Evitați orele de vârf de după-amiază."
+            ],
+            "en": [
+              "Do not enter the restricted center zone without a permit.",
+              "Albayzín streets are extremely narrow for cars.",
+              "Public parking is expensive but safer than street parking.",
+              "Avoid peak traffic hours in the late afternoon."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein entspannter Start im Auto zum Wissenschaftspark; das Parkhaus hält Sie trocken. Mittags geht es zur Kathedrale, wo Sie in einem der nahen Parkhäuser unterkommen, um den Regen zu umgehen. Der Nachmittag führt hinauf zur Alhambra, wobei die Fahrt durch die nassen Alleen der Stadt bequem im Trockenen erfolgt. Der Tag endet am Mirador de San Nicolás; auch wenn es regnet, bleibt der Blick aus dem Wagen auf die beleuchtete Festung unvergesslich.",
+            "hu": "Kényelmes kezdés autóval a Tudományos Parknál; a parkolóház szárazon tart. Délben a Székesegyház felé vesszük az irányt, közeli mélygarázst választva az eső elkerülésére. Délután az Alhambrához hajtunk fel, miközben a város vizes sugárútjait az autó biztonságából szemléljük. A nap a Mirador de San Nicolásnál zárul; még ha esik is, az autóból nyíló kilátás a kivilágított várra felejthetetlen.",
+            "ro": "Un început relaxat cu mașina spre Parcul Științelor; parcarea acoperită vă ține uscat. La prânz mergem spre Catedrală, folosind o parcare subterană pentru a evita ploaia. După-amiaza urcăm spre Alhambra, traversând bulevardele ude ale orașului în confortul mașinii. Ziua se încheie la Mirador de San Nicolás; chiar dacă plouă, vederea din mașină spre cetatea iluminată este memorabilă.",
+            "en": "A relaxed start by car to the Science Park; the parking garage keeps you dry. At noon, head to the Cathedral, opting for a nearby underground parking to bypass the rain. The afternoon leads up to the Alhambra, as you cruise through the city's wet avenues in the comfort of your car. The day ends at Mirador de San Nicolás; even if it rains, the view of the illuminated fortress from the car remains unforgettable."
+          },
+          "stops": [
+            {
+              "name": "Parque de las Ciencias",
+              "tip_5lang": {
+                "de": "Nutzen Sie den direkten Zugang vom Parkhaus zum Museumseingang.",
+                "hu": "Használja a közvetlen átjárót a parkolóházból a múzeumba.",
+                "ro": "Folosiți accesul direct din parcare spre intrarea muzeului.",
+                "en": "Use the direct access from the parking garage to the museum entrance."
+              }
+            },
+            {
+              "name": "Catedral de Granada",
+              "tip_5lang": {
+                "de": "Parkhaus San Agustín liegt direkt unter dem Markt und ist ideal.",
+                "hu": "A San Agustín parkolóház közvetlenül a piac alatt van, tökéletes választás.",
+                "ro": "Parcarea San Agustín este chiar sub piață și este ideală.",
+                "en": "Parking San Agustín is right under the market and ideal for staying dry."
+              }
+            },
+            {
+              "name": "Alhambra",
+              "tip_5lang": {
+                "de": "Der Parkplatz ist nah am Eingang; halten Sie den Schirm bereit.",
+                "hu": "A parkoló közel van a bejárathoz; legyen kéznél az esernyő.",
+                "ro": "Parcarea este aproape de intrare; pregătiți umbrela.",
+                "en": "The parking lot is close to the entrance; have your umbrella ready."
+              }
+            },
+            {
+              "name": "Generalife",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg vom Alhambra-Parkplatz, aber ungeschützt.",
+                "hu": "Rövid séta az Alhambra parkolótól, de nem fedett.",
+                "ro": "Scurtă plimbare de la parcarea Alhambra, dar neprotejată.",
+                "en": "Short walk from the Alhambra parking, but it's unsheltered."
+              }
+            },
+            {
+              "name": "Mirador de San Nicolás",
+              "tip_5lang": {
+                "de": "Begrenzte Parkmöglichkeiten; bleiben Sie bei starkem Regen im Auto.",
+                "hu": "Korlátozott parkolás; erős esőben maradjon az autóban a kilátásért.",
+                "ro": "Locuri de parcare limitate; stați în mașină dacă plouă torențial.",
+                "en": "Limited parking; stay in the car for the view if the rain is heavy."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie die Wischerblätter, da Sichtbarkeit im Albayzín wichtig ist.",
+              "Nutzen Sie die App 'Granada Park' für freie Plätze in Parkhäusern.",
+              "Vermeiden Sie die Einfahrt in ZTL-Zonen (Sperrgebiete) bei schlechter Sicht.",
+              "Die Straßen zur Alhambra können bei Regen rutschig sein.",
+              "Haben Sie immer Münzgeld für Parkuhren in trockenen Zonen parat."
+            ],
+            "hu": [
+              "Ellenőrizze az ablaktörlőket, mert a kilátás fontos az Albayzínben.",
+              "Használja a 'Granada Park' alkalmazást a szabad helyek kereséséhez.",
+              "Rossz látási viszonyok között különösen figyeljen a ZTL (korlátozott) zónákra.",
+              "Az Alhambra felé vezető utak esőben csúszósak lehetnek.",
+              "Mindig legyen aprópénze a parkolóórákhoz a száraz zónákban."
+            ],
+            "ro": [
+              "Verificați ștergătoarele, vizibilitatea este crucială în Albayzín.",
+              "Folosiți aplicația 'Granada Park' pentru locuri libere în parcări.",
+              "Evitați intrarea în zonele ZTL (restricționate) pe vizibilitate redusă.",
+              "Drumurile spre Alhambra pot fi alunecoase când plouă.",
+              "Aveți mereu fise pentru parcometre în zonele uscate."
+            ],
+            "en": [
+              "Check your wiper blades; good visibility is vital in narrow streets.",
+              "Use the 'Granada Park' app to find available indoor parking spots.",
+              "Watch out for ZTL (restricted) zones, especially when visibility is poor.",
+              "The roads leading to the Alhambra can get slick during rain showers.",
+              "Keep some coins ready for parking meters in non-garage zones."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen beginnt gemütlich im beheizten Wagen auf dem Weg zum Wissenschaftspark. Mittags genießen Sie die Fahrt durch das sonnige Zentrum zur Kathedrale, wobei die Klimaanlage für wohlige Wärme sorgt. Der Nachmittag führt hinauf zur Alhambra; der Blick auf die schneebedeckten Berge aus dem Autofenster ist grandios. Den Tag lassen Sie am Mirador de San Nicolás ausklingen, wo Sie den Sonnenuntergang bequem vom Fahrersitz aus beobachten können, bevor die Abendkälte einsetzt.",
+            "hu": "A fagyos reggel kényelmesen indul a fűtött autóban a Tudományos Park felé. Délben a napsütötte központon át hajtunk a Székesegyházhoz, élvezve a belső meleget. Délután az Alhambrához vezet az út; az autó ablakából pazar kilátás nyílik a havas hegyekre. A napot a Mirador de San Nicolásnál zárjuk, ahol a naplementét a vezetőülésből is megcsodálhatjuk, mielőtt beállna az esti hideg.",
+            "ro": "O dimineață geroasă începe confortabil în mașina încălzită spre Parcul Științelor. La prânz, savurați drumul prin centrul însorit spre Catedrală, cu climatizarea setată la o temperatură plăcută. După-amiaza urcăm la Alhambra; vederea spre munții înzăpeziți de la fereastra mașinii este grandioasă. Ziua se încheie la Mirador de San Nicolás, unde puteți admira apusul din mașină înainte de lăsarea gerului.",
+            "en": "A frosty morning starts comfortably in your heated car on the way to the Science Park. At noon, enjoy the drive through the sunny center to the Cathedral, with the climate control keeping you cozy. The afternoon leads up to the Alhambra; the view of the snow-capped mountains from the car window is grand. The day ends at Mirador de San Nicolás, where you can watch the sunset from your seat before the evening chill sets in."
+          },
+          "stops": [
+            {
+              "name": "Parque de las Ciencias",
+              "tip_5lang": {
+                "de": "Das Parkhaus ist gut isoliert und schützt vor der Morgenkälte.",
+                "hu": "A parkolóház jól szigetelt, véd a reggeli hidegtől.",
+                "ro": "Parcarea acoperită este bine izolată și protejează de frigul dimineții.",
+                "en": "The parking garage is well-insulated and protects from the morning chill."
+              }
+            },
+            {
+              "name": "Catedral de Granada",
+              "tip_5lang": {
+                "de": "Parken Sie in Parkhäusern, um das Auto für die Rückfahrt warm zu halten.",
+                "hu": "Parkoljon mélygarázsban, hogy az autó meleg maradjon a következő útra.",
+                "ro": "Parcați în garaje subterane pentru a menține mașina caldă.",
+                "en": "Park in underground garages to keep the car's interior warmer."
+              }
+            },
+            {
+              "name": "Alhambra",
+              "tip_5lang": {
+                "de": "Achten Sie auf mögliche Eisglätte auf den schattigen Zufahrtsstraßen.",
+                "hu": "Ügyeljen az esetleges jegesedésre az árnyékos bekötőutakon.",
+                "ro": "Atenție la posibile porțiuni înghețate pe drumurile de acces umbrite.",
+                "en": "Watch out for potential black ice on shaded access roads."
+              }
+            },
+            {
+              "name": "Generalife",
+              "tip_5lang": {
+                "de": "Lassen Sie keine Wertsachen sichtbar im Auto, auch im Winter.",
+                "hu": "Ne hagyjon értéket látható helyen az autóban télen sem.",
+                "ro": "Nu lăsați obiecte de valoare la vedere în mașină, nici iarna.",
+                "en": "Do not leave valuables visible in the car, even in winter."
+              }
+            },
+            {
+              "name": "Mirador de San Nicolás",
+              "tip_5lang": {
+                "de": "Holen Sie sich einen warmen Kaffee zum Mitnehmen für den Ausblick.",
+                "hu": "Vegyen egy forró kávét elvitelre a kilátás mellé.",
+                "ro": "Luați o cafea caldă la pachet pentru a admira panorama.",
+                "en": "Grab a hot coffee to go to enjoy with the view from your car."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Frostschutz in der Scheibenwaschanlage.",
+              "Die Batterieleistung sinkt bei Kälte; starten Sie den Wagen rechtzeitig.",
+              "Die Auffahrt zum Albayzín kann morgens glatt sein.",
+              "Nutzen Sie die Sitzheizung für die kurzen Fahrten zwischen den Zielen.",
+              "Planen Sie Parkgebühren ein, da Parkhäuser im Winter komfortabler sind."
+            ],
+            "hu": [
+              "Ellenőrizze a fagyállót a szélvédőmosó tartályban.",
+              "Az akkumulátor teljesítménye csökken a hidegben; ellenőrizze állapotát.",
+              "Az Albayzínbe vezető emelkedők reggel jegesek lehetnek.",
+              "Használja az ülésfűtést a rövid városi szakaszokon.",
+              "Számoljon a parkolási díjakkal; a zárt parkolók télen sokkal kényelmesebbek."
+            ],
+            "ro": [
+              "Verificați lichidul de parbriz să fie rezistent la îngheț.",
+              "Performanța bateriei scade la frig; verificați-o înainte de drum.",
+              "Urcarea spre Albayzín poate fi alunecoasă dimineața devreme.",
+              "Folosiți încălzirea în scaune pentru segmentele scurte de drum.",
+              "Bugetați taxele de parcare; garajele sunt mult mai confortabile iarna."
+            ],
+            "en": [
+              "Check that your windshield washer fluid is frost-resistant.",
+              "Battery performance drops in the cold; ensure your car is in good shape.",
+              "The drive up to Albayzín can be icy in the early morning hours.",
+              "Use seat heaters for the short hops between city attractions.",
+              "Budget for parking fees; indoor garages are much warmer and safer in winter."
+            ]
+          }
+        }
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:25",
+      "total_km": 10.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Catedral de Granada",
+          "coords": [
+            -3.5992,
+            37.1765
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Zentraler Knotenpunkt für alle Minibusse.",
+            "hu": "Minden kisbusz központi csomópontja.",
+            "ro": "Nod central pentru toate microbuzele.",
+            "en": "Central hub for all the red tourist minibuses."
+          }
+        },
+        {
+          "name": "Capilla Real",
+          "coords": [
+            -3.5986,
+            37.1761
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Direkt neben der Kathedrale gelegen.",
+            "hu": "Közvetlenül a katedrális mellett található.",
+            "ro": "Situată chiar lângă Catedrală.",
+            "en": "Located right next to the Cathedral."
+          }
+        },
+        {
+          "name": "Alhambra",
+          "coords": [
+            -3.5898,
+            37.1761
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:45",
+          "stay_min": 150,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Linie C30 bringt Sie direkt zum Eingang.",
+            "hu": "A C30-as járat közvetlenül a bejárathoz visz.",
+            "ro": "Linia C30 vă duce direct la intrare.",
+            "en": "Line C30 takes you directly to the entrance."
+          }
+        },
+        {
+          "name": "Generalife",
+          "coords": [
+            -3.5851,
+            37.1771
+          ],
+          "category": "famous residences",
+          "arrive_at": "14:25",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Innerhalb des Alhambra-Komplexes zu Fuß.",
+            "hu": "Gyalogosan az Alhambra komplexumon belül.",
+            "ro": "Accesibil pe jos în complexul Alhambra.",
+            "en": "Accessible on foot within the Alhambra complex."
+          }
+        },
+        {
+          "name": "Albayzín",
+          "coords": [
+            -3.5938,
+            37.1811
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "16:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Linie C31 verbindet Zentrum und Albayzín.",
+            "hu": "A C31-es járat összeköti a központot és az Albayzínt.",
+            "ro": "Linia C31 leagă centrul de Albayzín.",
+            "en": "Line C31 connects the center and Albayzín."
+          }
+        },
+        {
+          "name": "Sacromonte",
+          "coords": [
+            -3.5852,
+            37.1824
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "17:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Linie C34 fährt tief in das Höhlenviertel.",
+            "hu": "A C34-es járat mélyen a barlangnegyedbe visz.",
+            "ro": "Linia C34 merge adânc în cartierul peșterilor.",
+            "en": "Line C34 goes deep into the cave district."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das effiziente Minibus-System Granadas, um die steilen Hügel zu bezwingen. Starten Sie im Zentrum, fahren Sie hoch zur Alhambra und wechseln Sie am späten Nachmittag in den Albayzín und nach Sacromonte, um Flamenco-Geschichte zu erleben.",
+        "hu": "Használja Granada hatékony kisbusz-rendszerét a meredek dombok leküzdésére. Kezdjen a központban, menjen fel az Alhambrához, majd késő délután váltson az Albayzínra és Sacromontéra a flamenco történelem megismeréséhez.",
+        "ro": "Folosiți sistemul eficient de microbuze din Granada pentru a cuceri dealurile abrupte. Începeți în centru, urcați la Alhambra și schimbați spre Albayzín și Sacromonte după-amiaza târziu pentru a descoperi istoria flamenco.",
+        "en": "Use Granada's efficient minibus system to conquer the steep hills. Start in the center, head up to the Alhambra, and switch to the Albayzín and Sacromonte lines in the late afternoon to experience the history of flamenco."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Tapas Tour",
+            "tip": "Hüpfen Sie zwischen Bars in der Calle Navas."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tapas túra",
+            "tip": "Válogasson a bárok között a Calle Navas utcában."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tapas Tour",
+            "tip": "Săriți de la un bar la altul pe Calle Navas."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tapas Tour",
+            "tip": "Hop between bars in the famous Calle Navas."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Carmen de los Mártires",
+            "tip": "Ruhiger Park nahe der Alhambra.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Carmen de los Mártires",
+            "tip": "Csendes park az Alhambra közelében.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Carmen de los Mártires",
+            "tip": "Parc liniștit lângă Alhambra.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Carmen de los Mártires",
+            "tip": "Quiet park near the Alhambra complex.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Artesanía de Fajalauza",
+            "tip": "Typische Keramik aus Granada."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Artesanía de Fajalauza",
+            "tip": "Tipikus granadai kerámiák."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Artesanía de Fajalauza",
+            "tip": "Ceramică tipică din Granada."
+          }
+        ],
+        "en": [
+          {
+            "name": "Artesanía de Fajalauza",
+            "tip": "Typical Granada ceramics."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Mehrfahrtenkarte (Credibús).",
+          "Die roten Busse sind sehr klein und oft voll.",
+          "Busse verkehren bis spät in die Nacht.",
+          "Minibusse sind die einzige Wahl für Albayzín."
+        ],
+        "hu": [
+          "Vegyél gyűjtőjegyet (Credibús) a spóroláshoz.",
+          "A piros buszok nagyon kicsik és gyakran telítettek.",
+          "A buszok késő éjszakáig közlekednek.",
+          "A kisbuszok az egyetlen választás az Albayzínhoz."
+        ],
+        "ro": [
+          "Cumpărați un card de călătorii multiple (Credibús).",
+          "Microbuzele roșii sunt foarte mici și adesea pline.",
+          "Autobuzele circulă până târziu în noapte.",
+          "Microbuzele sunt singura opțiune pentru Albayzín."
+        ],
+        "en": [
+          "Buy a multi-trip card (Credibús) to save money.",
+          "The red minibuses are small and often crowded.",
+          "Buses run until late at night for diners.",
+          "Minibuses are the only way to reach Albayzín easily."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie das effiziente Minibus-System Granadas, um die steilen Hügel zu bezwingen. Starten Sie im Zentrum, fahren Sie hoch zur Alhambra und wechseln Sie am späten Nachmittag in den Albayzín und nach Sacromonte, um Flamenco-Geschichte zu erleben.",
+            "hu": "Használja Granada hatékony kisbusz-rendszerét a meredek dombok leküzdésére. Kezdjen a központban, menjen fel az Alhambrához, majd késő délután váltson az Albayzínra és Sacromontéra a flamenco történelem megismeréséhez.",
+            "ro": "Folosiți sistemul eficient de microbuze din Granada pentru a cuceri dealurile abrupte. Începeți în centru, urcați la Alhambra și schimbați spre Albayzín și Sacromonte după-amiaza târziu pentru a descoperi istoria flamenco.",
+            "en": "Use Granada's efficient minibus system to conquer the steep hills. Start in the center, head up to the Alhambra, and switch to the Albayzín and Sacromonte lines in the late afternoon to experience the history of flamenco."
+          },
+          "stops": [
+            {
+              "name": "Catedral de Granada",
+              "tip_5lang": {
+                "de": "Zentraler Knotenpunkt für alle Minibusse.",
+                "hu": "Minden kisbusz központi csomópontja.",
+                "ro": "Nod central pentru toate microbuzele.",
+                "en": "Central hub for all the red tourist minibuses."
+              }
+            },
+            {
+              "name": "Capilla Real",
+              "tip_5lang": {
+                "de": "Direkt neben der Kathedrale gelegen.",
+                "hu": "Közvetlenül a katedrális mellett található.",
+                "ro": "Situată chiar lângă Catedrală.",
+                "en": "Located right next to the Cathedral."
+              }
+            },
+            {
+              "name": "Alhambra",
+              "tip_5lang": {
+                "de": "Linie C30 bringt Sie direkt zum Eingang.",
+                "hu": "A C30-as járat közvetlenül a bejárathoz visz.",
+                "ro": "Linia C30 vă duce direct la intrare.",
+                "en": "Line C30 takes you directly to the entrance."
+              }
+            },
+            {
+              "name": "Generalife",
+              "tip_5lang": {
+                "de": "Innerhalb des Alhambra-Komplexes zu Fuß.",
+                "hu": "Gyalogosan az Alhambra komplexumon belül.",
+                "ro": "Accesibil pe jos în complexul Alhambra.",
+                "en": "Accessible on foot within the Alhambra complex."
+              }
+            },
+            {
+              "name": "Albayzín",
+              "tip_5lang": {
+                "de": "Linie C31 verbindet Zentrum und Albayzín.",
+                "hu": "A C31-es járat összeköti a központot és az Albayzínt.",
+                "ro": "Linia C31 leagă centrul de Albayzín.",
+                "en": "Line C31 connects the center and Albayzín."
+              }
+            },
+            {
+              "name": "Sacromonte",
+              "tip_5lang": {
+                "de": "Linie C34 fährt tief in das Höhlenviertel.",
+                "hu": "A C34-es járat mélyen a barlangnegyedbe visz.",
+                "ro": "Linia C34 merge adânc în cartierul peșterilor.",
+                "en": "Line C34 goes deep into the cave district."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Tapas Tour",
+                "tip": "Hüpfen Sie zwischen Bars in der Calle Navas."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Tapas túra",
+                "tip": "Válogasson a bárok között a Calle Navas utcában."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Tapas Tour",
+                "tip": "Săriți de la un bar la altul pe Calle Navas."
+              }
+            ],
+            "en": [
+              {
+                "name": "Tapas Tour",
+                "tip": "Hop between bars in the famous Calle Navas."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Carmen de los Mártires",
+                "tip": "Ruhiger Park nahe der Alhambra.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Carmen de los Mártires",
+                "tip": "Csendes park az Alhambra közelében.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Carmen de los Mártires",
+                "tip": "Parc liniștit lângă Alhambra.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Carmen de los Mártires",
+                "tip": "Quiet park near the Alhambra complex.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Artesanía de Fajalauza",
+                "tip": "Typische Keramik aus Granada."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Artesanía de Fajalauza",
+                "tip": "Tipikus granadai kerámiák."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Artesanía de Fajalauza",
+                "tip": "Ceramică tipică din Granada."
+              }
+            ],
+            "en": [
+              {
+                "name": "Artesanía de Fajalauza",
+                "tip": "Typical Granada ceramics."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Kaufen Sie eine Mehrfahrtenkarte (Credibús).",
+              "Die roten Busse sind sehr klein und oft voll.",
+              "Busse verkehren bis spät in die Nacht.",
+              "Minibusse sind die einzige Wahl für Albayzín."
+            ],
+            "hu": [
+              "Vegyél gyűjtőjegyet (Credibús) a spóroláshoz.",
+              "A piros buszok nagyon kicsik és gyakran telítettek.",
+              "A buszok késő éjszakáig közlekednek.",
+              "A kisbuszok az egyetlen választás az Albayzínhoz."
+            ],
+            "ro": [
+              "Cumpărați un card de călătorii multiple (Credibús).",
+              "Microbuzele roșii sunt foarte mici și adesea pline.",
+              "Autobuzele circulă până târziu în noapte.",
+              "Microbuzele sunt singura opțiune pentru Albayzín."
+            ],
+            "en": [
+              "Buy a multi-trip card (Credibús) to save money.",
+              "The red minibuses are small and often crowded.",
+              "Buses run until late at night for diners.",
+              "Minibuses are the only way to reach Albayzín easily."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Minibus C31 geht es trocken durch die regnerischen Gassen zur Kathedrale. Mittags bietet die Capilla Real Schutz, bevor Sie den Bus zur Alhambra nehmen, um dem steilen, nassen Aufstieg zu entgehen. Nachmittags erkunden Sie die Festung; die Busstation direkt am Eingang ist ein Segen bei Regen. Der Tag endet im Albayzín, wo der Bus Sie fast direkt vor die Tür einer gemütlichen Bar bringt, sodass Sie kaum nass werden.",
+            "hu": "A C31-es minibusszal szárazon jutunk át az esős utcákon a Székesegyházig. Délben a Királyi Kápolna nyújt menedéket, majd busszal megyünk fel az Alhambrához, elkerülve a vizes emelkedőt. Délután a várat fedezzük fel; a közvetlenül a bejáratnál lévő buszmegálló áldás esőben. A nap az Albayzínben zárul, ahol a busz szinte egy hangulatos bár ajtajáig visz, így alig ér minket az eső.",
+            "ro": "Cu microbuzul C31 traversați uscat străzile ploioase spre Catedrală. La prânz, Capela Regală oferă adăpost, apoi luați autobuzul spre Alhambra pentru a evita urcușul ud. După-amiaza explorați cetatea; stația de autobuz de la intrare este o binecuvântare pe ploaie. Ziua se încheie în Albayzín, unde autobuzul vă lasă aproape de ușa unui bar primitor.",
+            "en": "Take the C31 minibus to stay dry while navigating the rainy streets toward the Cathedral. At noon, the Royal Chapel provides shelter before you hop on a bus to the Alhambra to skip the wet climb. In the afternoon, explore the fortress; the bus stop right at the entrance is a blessing in the rain. The day ends in Albayzín, where the bus drops you off near a cozy bar, keeping your rain exposure to a minimum."
+          },
+          "stops": [
+            {
+              "name": "Catedral de Granada",
+              "tip_5lang": {
+                "de": "Die Bushaltestellen an der Gran Vía haben meist kleine Unterstände.",
+                "hu": "A Gran Vía buszmegállói többnyire rendelkeznek kis védőtetővel.",
+                "ro": "Stațiile de autobuz de pe Gran Vía au de obicei mici adăposturi.",
+                "en": "The bus stops on Gran Vía mostly have small shelters to keep you dry."
+              }
+            },
+            {
+              "name": "Capilla Real",
+              "tip_5lang": {
+                "de": "Nutzen Sie den kurzen Weg zur nächsten Bushaltestelle bei Regenpausen.",
+                "hu": "Használja ki az esőszünetet a legközelebbi buszmegálló eléréséhez.",
+                "ro": "Folosiți pauzele de ploaie pentru a ajunge rapid la următoarea stație.",
+                "en": "Use rain breaks to make the quick walk to the next bus stop."
+              }
+            },
+            {
+              "name": "Alhambra",
+              "tip_5lang": {
+                "de": "Der Minibus C30/C32 bringt Sie direkt zum Kassenhaus-Eingang.",
+                "hu": "A C30/C32-es minibusz közvetlenül a jegypénztár bejáratához viszi.",
+                "ro": "Microbuzul C30/C32 vă lasă chiar la intrarea de la casa de bilete.",
+                "en": "The C30/C32 minibus drops you right at the ticket office entrance."
+              }
+            },
+            {
+              "name": "Generalife",
+              "tip_5lang": {
+                "de": "Warten Sie auf den Bus unter dem Vordach des Informationszentrums.",
+                "hu": "Várja a buszt az információs központ előtetője alatt.",
+                "ro": "Așteptați autobuzul sub streașina centrului de informare.",
+                "en": "Wait for your bus under the overhang of the information center."
+              }
+            },
+            {
+              "name": "Albayzín",
+              "tip_5lang": {
+                "de": "Die Busse fahren alle 10-15 Minuten; ideal, um nicht lange im Regen zu stehen.",
+                "hu": "A buszok 10-15 percenként járnak; nem kell sokat várni az esőben.",
+                "ro": "Autobuzele circulă la 10-15 minute; nu veți sta mult în ploaie.",
+                "en": "Buses run every 10-15 minutes, so you won't stand in the rain for long."
+              }
+            },
+            {
+              "name": "Sacromonte",
+              "tip_5lang": {
+                "de": "Die C34 Linie ist die beste Wahl, um trocken zu den Höhlen zu kommen.",
+                "hu": "A C34-es vonal a legjobb választás, hogy szárazon jusson a barlangokhoz.",
+                "ro": "Linia C34 este cea mai bună alegere pentru a ajunge uscat la peșteri.",
+                "en": "The C34 line is the best choice to reach the caves while staying dry."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kaufen Sie eine 'Credibús'-Karte, um kontaktlos und schnell einzusteigen.",
+              "Die Minibusse können bei Regen sehr voll werden; planen Sie Wartezeit ein.",
+              "Nutzen Sie die App 'Transporte Granada' für Echtzeit-Abfahrten.",
+              "Vermeiden Sie das Laufen zwischen den Hügeln; nehmen Sie immer den Bus.",
+              "Halten Sie Ihren Regenschirm beim Einsteigen griffbereit, aber geschlossen."
+            ],
+            "hu": [
+              "Vegyen 'Credibús' kártyát a gyorsabb és érintésmentes felszálláshoz.",
+              "A minibuszok esőben zsúfoltak lehetnek; számoljon várakozási idővel.",
+              "Használja a 'Transporte Granada' alkalmazást a valós idejű indulásokhoz.",
+              "Kerülje a dombok közötti gyaloglást; válassza mindig a buszt.",
+              "Felszálláskor tartsa kéznél, de összecsukva az esernyőjét."
+            ],
+            "ro": [
+              "Cumpărați un card 'Credibús' pentru o îmbarcare rapidă și fără contact.",
+              "Microbuzele pot deveni aglomerate pe ploaie; planificați timp de așteptare.",
+              "Folosiți aplicația 'Transporte Granada' pentru plecări în timp real.",
+              "Evitați mersul pe jos între dealuri; luați mereu autobuzul.",
+              "Țineți umbrela la îndemână, dar închisă, când urcați în autobuz."
+            ],
+            "en": [
+              "Buy a 'Credibús' card for faster, contactless boarding.",
+              "Minibuses can get very crowded during rain; allow for some extra time.",
+              "Use the 'Transporte Granada' app for real-time bus arrivals.",
+              "Avoid walking between the hills; always opt for the transit system.",
+              "Keep your umbrella ready but closed when boarding the bus."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen beginnt mit einer Busfahrt zur Kathedrale; die Heizung im Bus ist ein willkommener Start. Mittags bringt Sie der Minibus bequem durch das sonnige Zentrum zur Alhambra, während Sie die Aussicht genießen. Der Nachmittag in der Festung ist kühl, aber die kurzen Busintervalle verhindern langes Frieren an den Haltestellen. Der Tag endet im Sacromonte, wo Sie nach dem Sonnenuntergang zügig in den warmen Bus steigen, um zurück ins Zentrum zu fahren.",
+            "hu": "A tiszta téli reggel buszozással indul a Székesegyházhoz; a busz fűtése kellemes kezdés. Délben a minibusz kényelmesen visz át a napfényes központon az Alhambrához. Délután a várban hűvös az idő, de a gyakori buszjáratok miatt nem kell sokat fázni a megállókban. A nap a Sacromonte negyedben zárul, ahonnan naplemente után gyorsan meleg buszra szállhatunk a központ felé.",
+            "ro": "O dimineață senină de iarnă începe cu o călătorie cu autobuzul spre Catedrală; încălzirea din vehicul este binevenită. La prânz, microbuzul vă poartă prin centrul însorit spre Alhambra. După-amiaza la cetate este rece, dar intervalele scurte dintre autobuze previn așteptarea în frig. Ziua se încheie în Sacromonte, de unde puteți urca rapid într-un autobuz cald după apus.",
+            "en": "A clear winter morning starts with a bus ride to the Cathedral; the bus heating is a welcome start. At noon, the minibus takes you comfortably through the sunny center to the Alhambra while you enjoy the views. Afternoon at the fortress is cool, but the short bus intervals prevent long waits in the cold. The day ends in Sacromonte, where you can quickly hop onto a warm bus after sunset for the ride back to the center."
+          },
+          "stops": [
+            {
+              "name": "Catedral de Granada",
+              "tip_5lang": {
+                "de": "Warten Sie in der Sonne auf den nächsten Bus; die Haltestellen sind oft sonnig.",
+                "hu": "Várja a buszt a napon; a megállók gyakran napsütötte helyen vannak.",
+                "ro": "Așteptați autobuzul la soare; stațiile sunt adesea însorite.",
+                "en": "Wait for the bus in the sun; many stops are positioned in sunny spots."
+              }
+            },
+            {
+              "name": "Capilla Real",
+              "tip_5lang": {
+                "de": "Die Minibusse C31/C34 halten ganz in der Nähe am Plaza Nueva.",
+                "hu": "A C31/C34-es minibuszok a közeli Plaza Nueván állnak meg.",
+                "ro": "Microbuzele C31/C34 opresc foarte aproape, în Plaza Nueva.",
+                "en": "Minibuses C31/C34 stop very close by at Plaza Nueva."
+              }
+            },
+            {
+              "name": "Alhambra",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Bus, um die kalte Steigung zu Fuß zu vermeiden.",
+                "hu": "Használja a buszt, hogy elkerülje a hidegben való gyalogos hegymenetet.",
+                "ro": "Folosiți autobuzul pentru a evita urcușul obositor prin frig.",
+                "en": "Take the bus to avoid the cold uphill walk on foot."
+              }
+            },
+            {
+              "name": "Generalife",
+              "tip_5lang": {
+                "de": "Die Wartehäuschen bieten guten Windschutz vor der Rückfahrt.",
+                "hu": "A buszvárók jó szélvédelmet nyújtanak a visszaút előtt.",
+                "ro": "Refugiile din stații oferă protecție bună contra vântului.",
+                "en": "The bus shelters provide good wind protection while waiting for the return."
+              }
+            },
+            {
+              "name": "Albayzín",
+              "tip_5lang": {
+                "de": "Genießen Sie die warme Fahrt durch die engen, schattigen Gassen.",
+                "hu": "Élvezze a meleg buszozást a szűk, árnyékos utcákon át.",
+                "ro": "Bucurați-vă de călătoria călduroasă prin străzile înguste și umbrite.",
+                "en": "Enjoy the warm ride through the narrow, shaded alleyways."
+              }
+            },
+            {
+              "name": "Sacromonte",
+              "tip_5lang": {
+                "de": "Abends kühlt es hier extrem ab; verpassen Sie nicht den letzten Bus.",
+                "hu": "Este itt rendkívül lehűl az idő; ne késse le az utolsó buszt.",
+                "ro": "Seara se răcește extrem de tare; nu pierdeți ultimul autobuz.",
+                "en": "It gets very cold here in the evening; don't miss the last bus."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse sind im Winter oft die wärmste Art der Fortbewegung.",
+              "Die Fahrpläne sind im Winter stabil, aber die Sonne geht früh unter.",
+              "Tragen Sie eine Mütze, da es an den Haltestellen im Schatten zieht.",
+              "Nutzen Sie die C-Linien, um schnell zwischen den Hügeln zu wechseln.",
+              "Die Belüftung in den Bussen kann im Winter variieren; Schichten tragen."
+            ],
+            "hu": [
+              "Télen a busz gyakran a legmelegebb közlekedési mód.",
+              "A menetrendek télen stabilak, de a nap korán nyugszik.",
+              "Viseljen sapkát, mert az árnyékos megállókban huzat lehet.",
+              "Használja a C-vonalakat a dombok közötti gyors váltáshoz.",
+              "A buszok fűtése változó lehet; öltözzön rétegesen."
+            ],
+            "ro": [
+              "Autobuzele sunt adesea cea mai călduroasă metodă de transport iarna.",
+              "Orarele sunt stabile iarna, dar soarele apune devreme.",
+              "Purtați căciulă, deoarece în stațiile umbrite poate fi curent.",
+              "Folosiți liniile C pentru a schimba rapid între cele două dealuri.",
+              "Ventilația din autobuze poate varia; purtați haine în straturi."
+            ],
+            "en": [
+              "Buses are often the warmest way to get around the city in winter.",
+              "Schedules remain stable in winter, but remember the early sunset.",
+              "Wear a hat as shaded bus stops can be quite drafty.",
+              "Utilize the C-lines to quickly hop between the city's hills.",
+              "Bus heating can vary, so keep your layers flexible for comfort."
+            ]
+          }
+        }
+      }
+    }
+  },
+  "external_resources": {
+    "transit_official": "https://www.transportesrober.com/",
+    "events": "https://www.granadafestival.org/en/",
+    "museum_tickets": "https://www.alhambra-patronato.es/en/",
+    "tourism_office": "https://www.turgranada.es/en/",
+    "language_tips": {
+      "de": "Granada spricht andalusisches Spanisch — schnell, mit verschluckten Endungen ('gracias' wird zu 'gracia'). Im Albaicin und um die Alhambra klappt Englisch fuer Touristen, in Tapas-Bars eher nicht. Ein 'una caña, por favor' bringt dir Bier plus Gratis-Tapa, das ist Granada-Tradition.",
+      "hu": "Granadaban andaluz spanyolt hallasz: gyors, lenyelt vegzodesekkel ('gracias'-bol 'gracia' lesz). Az Albaicinben es az Alhambra korul az angol megy a turistaknak, tapas-baroban kevesbe. Egy 'una caña, por favor' sort hoz plusz ingyen tapat, ez granadai hagyomany.",
+      "ro": "Granada vorbeste spaniola andaluza: rapida, cu terminatii inghitite ('gracias' devine 'gracia'). In Albaicin si in jurul Alhambrei engleza merge pentru turisti, in tapas-bar-uri mai putin. Un 'una caña, por favor' iti aduce bere plus tapa gratuita, asta e traditie granadina.",
+      "en": "Granada speaks Andalusian Spanish — fast, with dropped endings ('gracias' becomes 'gracia'). English works in the Albaicin and around the Alhambra for tourists, less so in tapas bars. Order 'una caña, por favor' and you'll get a beer plus a free tapa — pure Granada tradition."
+    },
+    "best_time_to_visit": {
+      "de": "April, Mai und September bis Oktober sind ideal: 18-26 Grad, klare Sicht auf die Sierra Nevada, ertraegliche Alhambra-Schlangen. Juli und August oft 38 Grad plus, dann nur frueh morgens raus. Im Winter kann man morgens Alhambra besuchen und nachmittags Ski fahren — 30 Minuten Fahrt.",
+      "hu": "Aprilis, majus es szeptember-oktober az ideal: 18-26 fok, tiszta kilatas a Sierra Nevadara, elviselheto Alhambra-sorok. Julius-augusztus gyakran 38 fok folott, akkor csak kora reggel mozogj. Telen reggel Alhambra, delutan sieles — 30 perces ut.",
+      "ro": "Aprilie, mai si septembrie-octombrie sunt ideale: 18-26 grade, vedere clara la Sierra Nevada, cozi suportabile la Alhambra. Iulie si august deseori peste 38 grade, atunci doar dimineata devreme. Iarna poti vizita Alhambra dimineata si schia dupa-amiaza, 30 de minute cu masina.",
+      "en": "April-May and September-October are ideal: 18-26°C, clear views of the Sierra Nevada, bearable Alhambra queues. July and August often hit 38°C+ — only venture out early. In winter, you can tour the Alhambra in the morning and ski in the afternoon (a 30-minute drive away)."
+    },
+    "neighborhood_warnings": {
+      "de": "Generell sehr sicher, aber im Albaicin und Sacromonte nach Einbruch der Dunkelheit lieber bekannte Strassen nehmen, viele Gassen sind unbeleuchtet. Aufpassen auf 'Glueckskraeuter'-Frauen bei der Kathedrale, die druecken dir Rosmarin in die Hand und verlangen Geld. Alhambra-Tickets immer offiziell kaufen, nie von Strassenhaendlern.",
+      "hu": "Altalaban nagyon biztonsagos, de az Albaicinben es Sacromonteban sotetedes utan inkabb ismert utcakat valassz, sok sikator sotet. Vigyazz a 'szerencse-fu'-asszonyokra a katedralisnal: rozmaringot nyomnak a kezedbe es penzt kernek. Alhambra-jegyet mindig hivatalosan vegyel, sose utcai arustol.",
+      "ro": "In general foarte sigura, dar in Albaicin si Sacromonte dupa lasarea intunericului prefera strazi cunoscute, multe alei sunt neluminate. Atentie la femeile cu 'iarba norocului' langa catedrala: iti baga rozmarin in mana si cer bani. Bilete pentru Alhambra cumpara doar oficial, niciodata de la vanzatori stradali.",
+      "en": "Generally very safe, but in the Albaicin and Sacromonte after dark stick to familiar streets — many alleys are unlit. Beware the 'lucky herb' women near the cathedral: they press rosemary into your hand then demand money. Always buy Alhambra tickets officially, never from street vendors."
+    },
+    "webcam": "https://www.skylinewebcams.com/en/webcam/espana/andalucia/granada.html"
+  }
+}

@@ -1,0 +1,2584 @@
+{
+  "city_id": "siguenza",
+  "anchor": {
+    "name": "Plaza Mayor",
+    "coords": [
+      -2.6433,
+      41.0686
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 2.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Burg von Sigüenza",
+            "hu": "Sigüenzai vár",
+            "ro": "Castelul din Sigüenza",
+            "en": "Castle of Sigüenza"
+          },
+          "coords": [
+            -2.6405,
+            41.0665
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Heute ein Parador, besichtigen Sie den Innenhof.",
+            "hu": "Ma Parador szálló, nézze meg a belső udvart.",
+            "ro": "Astăzi un Parador, vizitați curtea interioară.",
+            "en": "Today a Parador, visit the inner courtyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Haus des Doncel",
+            "hu": "Doncel háza",
+            "ro": "Casa del Doncel",
+            "en": "House of the Doncel"
+          },
+          "coords": [
+            -2.6425,
+            41.0678
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:40",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Wichtiges gotisches Herrenhaus.",
+            "hu": "Fontos gótikus úriház.",
+            "ro": "Conac gotic important.",
+            "en": "Important Gothic manor house."
+          }
+        },
+        {
+          "name": {
+            "de": "Plaza Mayor",
+            "hu": "Plaza Mayor",
+            "ro": "Plaza Mayor",
+            "en": "Plaza Mayor"
+          },
+          "coords": [
+            -2.6433,
+            41.0686
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:35",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Einer der schönsten Renaissance-Plätze Spaniens.",
+            "hu": "Spanyolország egyik legszebb reneszánsz tere.",
+            "ro": "Una dintre cele mai frumoase piețe renascentiste din Spania.",
+            "en": "One of the most beautiful Renaissance squares in Spain."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale Santa María",
+            "hu": "Santa María katedrális",
+            "ro": "Catedrala Santa María",
+            "en": "Cathedral of Santa María"
+          },
+          "coords": [
+            -2.6438,
+            41.0692
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 85,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Suchen Sie das berühmte Grabmal des Doncel.",
+            "hu": "Keresse meg a Doncel híres síremlékét.",
+            "ro": "Căutați celebrul mormânt al Doncelului.",
+            "en": "Look for the famous tomb of the Doncel."
+          }
+        },
+        {
+          "name": {
+            "de": "Diözesanmuseum",
+            "hu": "Egyházmegyei Múzeum",
+            "ro": "Muzeul Diecezan",
+            "en": "Diocesan Museum"
+          },
+          "coords": [
+            -2.6445,
+            41.0698
+          ],
+          "category": "museums",
+          "arrive_at": "15:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Beherbergt wertvolle sakrale Kunstwerke.",
+            "hu": "Értékes szakrális műalkotásokat őriz.",
+            "ro": "Găzduiește opere de artă sacră valoroase.",
+            "en": "Houses valuable sacred artworks."
+          }
+        },
+        {
+          "name": {
+            "de": "Sonnentor (Puerta del Sol)",
+            "hu": "Puerta del Sol (Napkapu)",
+            "ro": "Poarta Soarelui (Puerta del Sol)",
+            "en": "Sun Gate (Puerta del Sol)"
+          },
+          "coords": [
+            -2.6408,
+            41.0672
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "16:55",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Teil der alten Stadtmauer.",
+            "hu": "A régi városfal része.",
+            "ro": "Parte a vechiului zid al orașului.",
+            "en": "Part of the old city wall."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Sigüenza ist eine Stadt aus Stein und Geschichte. Der Tag beginnt oben an der mächtigen Burg, bevor Sie durch die engen Gassen zum Haus des Doncel hinabsteigen. Nach einer Pause auf dem eleganten Hauptplatz besichtigen Sie die festungsartige Kathedrale und die Schätze des Diözesanmuseums. Der Tag endet an den historischen Stadttoren mit Blick auf die kastilische Hochebene.",
+        "hu": "Sigüenza a kő és a történelem városa. A nap a hatalmas várnál kezdődik, majd a szűk utcákon ereszkedünk le a Doncel házához. Az elegáns főtéren tartott pihenő után a várszerű katedrálist és az Egyházmegyei Múzeum kincseit tekintjük meg. A nap a történelmi városkapuknál zárul, kilátással a kasztíliai fennsíkra.",
+        "ro": "Sigüenza este un oraș de piatră și istorie. Ziua începe sus la castelul impunător, înainte de a coborî pe străzile înguste spre Casa del Doncel. După o pauză în piața principală elegantă, vizitați catedrala fortificată și comorile Muzeului Diecezan. Ziua se încheie la porțile istorice ale orașului, cu vedere spre platoul castilian.",
+        "en": "Sigüenza is a city of stone and history. The day begins up at the mighty castle before descending through narrow streets to the House of the Doncel. After a break in the elegant main square, visit the fortress-like cathedral and the treasures of the Diocesan Museum. The day ends at the historical city gates with a view over the Castilian plateau."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Asado de Cordero",
+            "tip": "Traditionell im Holzofen gebratenes Lamm."
+          },
+          {
+            "name": "Yemas de Sigüenza",
+            "tip": "Süßspeise aus Eigelb und Zucker."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Asado de Cordero",
+            "tip": "Hagyományosan kemencében sült bárány."
+          },
+          {
+            "name": "Yemas de Sigüenza",
+            "tip": "Tojássárgájából és cukorból készült édesség."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Asado de Cordero",
+            "tip": "Miel fript tradițional în cuptor cu lemne."
+          },
+          {
+            "name": "Yemas de Sigüenza",
+            "tip": "Desert din gălbenuș de ou și zahăr."
+          }
+        ],
+        "en": [
+          {
+            "name": "Asado de Cordero",
+            "tip": "Traditionally roasted lamb in a wood oven."
+          },
+          {
+            "name": "Yemas de Sigüenza",
+            "tip": "Sweet made from egg yolks and sugar."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Paseo de la Alameda",
+            "tip": "Schattenreiche Allee zum Entspannen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Paseo de la Alameda",
+            "tip": "Árnyas sétány a kikapcsolódáshoz.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Paseo de la Alameda",
+            "tip": "Alee umbrită pentru relaxare.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Paseo de la Alameda",
+            "tip": "Shady avenue for relaxing.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Cerámica Seguntina",
+            "tip": "Handgefertigte Keramik."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cerámica Seguntina",
+            "tip": "Kézzel készített kerámia."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cerámica Seguntina",
+            "tip": "Ceramică lucrată manual."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cerámica Seguntina",
+            "tip": "Handcrafted ceramics."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Besuchen Sie den Palast-Speisesaal im Parador.",
+          "In der Kathedrale ist Fotografieren oft eingeschränkt.",
+          "Die Oberstadt ist sehr steil.",
+          "Kaufen Sie Yemas in den Klöstern."
+        ],
+        "hu": [
+          "Látogassa meg a Parador palota-étkezőjét.",
+          "A katedrálisban a fotózás gyakran korlátozott.",
+          "A felsőváros nagyon meredek.",
+          "Vásároljon Yemast a kolostorokban."
+        ],
+        "ro": [
+          "Vizitați sala de mese a palatului din Parador.",
+          "În catedrală, fotografiatul este adesea restricționat.",
+          "Orașul de sus este foarte abrupt.",
+          "Cumpărați Yemas de la mănăstiri."
+        ],
+        "en": [
+          "Visit the palace dining room in the Parador.",
+          "Photography is often restricted in the cathedral.",
+          "The upper town is very steep.",
+          "Buy Yemas at the convents."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Sigüenza ist eine Stadt aus Stein und Geschichte. Der Tag beginnt oben an der mächtigen Burg, bevor Sie durch die engen Gassen zum Haus des Doncel hinabsteigen. Nach einer Pause auf dem eleganten Hauptplatz besichtigen Sie die festungsartige Kathedrale und die Schätze des Diözesanmuseums. Der Tag endet an den historischen Stadttoren mit Blick auf die kastilische Hochebene.",
+            "hu": "Sigüenza a kő és a történelem városa. A nap a hatalmas várnál kezdődik, majd a szűk utcákon ereszkedünk le a Doncel házához. Az elegáns főtéren tartott pihenő után a várszerű katedrálist és az Egyházmegyei Múzeum kincseit tekintjük meg. A nap a történelmi városkapuknál zárul, kilátással a kasztíliai fennsíkra.",
+            "ro": "Sigüenza este un oraș de piatră și istorie. Ziua începe sus la castelul impunător, înainte de a coborî pe străzile înguste spre Casa del Doncel. După o pauză în piața principală elegantă, vizitați catedrala fortificată și comorile Muzeului Diecezan. Ziua se încheie la porțile istorice ale orașului, cu vedere spre platoul castilian.",
+            "en": "Sigüenza is a city of stone and history. The day begins up at the mighty castle before descending through narrow streets to the House of the Doncel. After a break in the elegant main square, visit the fortress-like cathedral and the treasures of the Diocesan Museum. The day ends at the historical city gates with a view over the Castilian plateau."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Burg von Sigüenza",
+                "hu": "Sigüenzai vár",
+                "ro": "Castelul din Sigüenza",
+                "en": "Castle of Sigüenza"
+              },
+              "tip_5lang": {
+                "de": "Heute ein Parador, besichtigen Sie den Innenhof.",
+                "hu": "Ma Parador szálló, nézze meg a belső udvart.",
+                "ro": "Astăzi un Parador, vizitați curtea interioară.",
+                "en": "Today a Parador, visit the inner courtyard."
+              }
+            },
+            {
+              "name": {
+                "de": "Haus des Doncel",
+                "hu": "Doncel háza",
+                "ro": "Casa del Doncel",
+                "en": "House of the Doncel"
+              },
+              "tip_5lang": {
+                "de": "Wichtiges gotisches Herrenhaus.",
+                "hu": "Fontos gótikus úriház.",
+                "ro": "Conac gotic important.",
+                "en": "Important Gothic manor house."
+              }
+            },
+            {
+              "name": {
+                "de": "Plaza Mayor",
+                "hu": "Plaza Mayor",
+                "ro": "Plaza Mayor",
+                "en": "Plaza Mayor"
+              },
+              "tip_5lang": {
+                "de": "Einer der schönsten Renaissance-Plätze Spaniens.",
+                "hu": "Spanyolország egyik legszebb reneszánsz tere.",
+                "ro": "Una dintre cele mai frumoase piețe renascentiste din Spania.",
+                "en": "One of the most beautiful Renaissance squares in Spain."
+              }
+            },
+            {
+              "name": {
+                "de": "Kathedrale Santa María",
+                "hu": "Santa María katedrális",
+                "ro": "Catedrala Santa María",
+                "en": "Cathedral of Santa María"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie das berühmte Grabmal des Doncel.",
+                "hu": "Keresse meg a Doncel híres síremlékét.",
+                "ro": "Căutați celebrul mormânt al Doncelului.",
+                "en": "Look for the famous tomb of the Doncel."
+              }
+            },
+            {
+              "name": {
+                "de": "Diözesanmuseum",
+                "hu": "Egyházmegyei Múzeum",
+                "ro": "Muzeul Diecezan",
+                "en": "Diocesan Museum"
+              },
+              "tip_5lang": {
+                "de": "Beherbergt wertvolle sakrale Kunstwerke.",
+                "hu": "Értékes szakrális műalkotásokat őriz.",
+                "ro": "Găzduiește opere de artă sacră valoroase.",
+                "en": "Houses valuable sacred artworks."
+              }
+            },
+            {
+              "name": {
+                "de": "Sonnentor (Puerta del Sol)",
+                "hu": "Puerta del Sol (Napkapu)",
+                "ro": "Poarta Soarelui (Puerta del Sol)",
+                "en": "Sun Gate (Puerta del Sol)"
+              },
+              "tip_5lang": {
+                "de": "Teil der alten Stadtmauer.",
+                "hu": "A régi városfal része.",
+                "ro": "Parte a vechiului zid al orașului.",
+                "en": "Part of the old city wall."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Asado de Cordero",
+                "tip": "Traditionell im Holzofen gebratenes Lamm."
+              },
+              {
+                "name": "Yemas de Sigüenza",
+                "tip": "Süßspeise aus Eigelb und Zucker."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Asado de Cordero",
+                "tip": "Hagyományosan kemencében sült bárány."
+              },
+              {
+                "name": "Yemas de Sigüenza",
+                "tip": "Tojássárgájából és cukorból készült édesség."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Asado de Cordero",
+                "tip": "Miel fript tradițional în cuptor cu lemne."
+              },
+              {
+                "name": "Yemas de Sigüenza",
+                "tip": "Desert din gălbenuș de ou și zahăr."
+              }
+            ],
+            "en": [
+              {
+                "name": "Asado de Cordero",
+                "tip": "Traditionally roasted lamb in a wood oven."
+              },
+              {
+                "name": "Yemas de Sigüenza",
+                "tip": "Sweet made from egg yolks and sugar."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Paseo de la Alameda",
+                "tip": "Schattenreiche Allee zum Entspannen.",
+                "emoji": "🍃"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Paseo de la Alameda",
+                "tip": "Árnyas sétány a kikapcsolódáshoz.",
+                "emoji": "🍃"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Paseo de la Alameda",
+                "tip": "Alee umbrită pentru relaxare.",
+                "emoji": "🍃"
+              }
+            ],
+            "en": [
+              {
+                "name": "Paseo de la Alameda",
+                "tip": "Shady avenue for relaxing.",
+                "emoji": "🍃"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Cerámica Seguntina",
+                "tip": "Handgefertigte Keramik."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Cerámica Seguntina",
+                "tip": "Kézzel készített kerámia."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Cerámica Seguntina",
+                "tip": "Ceramică lucrată manual."
+              }
+            ],
+            "en": [
+              {
+                "name": "Cerámica Seguntina",
+                "tip": "Handcrafted ceramics."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Besuchen Sie den Palast-Speisesaal im Parador.",
+              "In der Kathedrale ist Fotografieren oft eingeschränkt.",
+              "Die Oberstadt ist sehr steil.",
+              "Kaufen Sie Yemas in den Klöstern."
+            ],
+            "hu": [
+              "Látogassa meg a Parador palota-étkezőjét.",
+              "A katedrálisban a fotózás gyakran korlátozott.",
+              "A felsőváros nagyon meredek.",
+              "Vásároljon Yemast a kolostorokban."
+            ],
+            "ro": [
+              "Vizitați sala de mese a palatului din Parador.",
+              "În catedrală, fotografiatul este adesea restricționat.",
+              "Orașul de sus este foarte abrupt.",
+              "Cumpărați Yemas de la mănăstiri."
+            ],
+            "en": [
+              "Visit the palace dining room in the Parador.",
+              "Photography is often restricted in the cathedral.",
+              "The upper town is very steep.",
+              "Buy Yemas at the convents."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Sigüenza bei Regen versprüht einen mystischen Charme, wenn der nasse Stein der Burg glänzt. Vormittags bieten die dicken Mauern des Castillo und des Doncel-Hauses perfekten Schutz. Mittags lädt die Plaza Mayor zu einer kurzen Pause unter den Arkaden ein. Nachmittags vertiefen Sie sich im Diözesanmuseum in die Kunst, während draußen der Regen gegen die Fenster prasselt, bevor der Tag am Sonnentor endet.",
+            "hu": "Sigüenza esőben is lenyűgöző, a nedves kövek különleges fényt adnak a középkori utcáknak. A délelőttöt a várkastély és a Doncel-ház védett falai között töltheti. Ebédidőben a Plaza Mayor árkádjai nyújtanak menedéket a sétálónak. Délután a székesegyház és az egyházmegyei múzeum gazdag gyűjteménye várja, ahol szárazon maradhat, végül a Puerta del Sol kapujánál zárul a vizes, de hangulatos városnézés.",
+            "ro": "Sigüenza în ploaie emană un farmec mistic, cu piatra umedă a castelului strălucind sub cerul gri. Dimineața, zidurile groase ale castelului și Casa Doncel oferă adăpost ideal. La prânz, arcadele din Plaza Mayor sunt perfecte pentru o scurtă pauză ferită de stropi. După-amiaza este dedicată muzeului eparhial, un refugiu cultural excelent, încheind ziua la Poarta Soarelui printre străduțele înguste și umede.",
+            "en": "Sigüenza in the rain exudes a mystical charm, with the wet stone of the castle glistening. Spend your morning within the protective walls of the Castle and the House of the Doncel. At noon, the arcades of Plaza Mayor provide a dry passage. The afternoon is best spent exploring the interior of the Cathedral and the Diocesan Museum, finishing your rainy stroll at the atmospheric Sun Gate."
+          },
+          "stops": [
+            {
+              "name": "Castle of Sigüenza",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parador-Innenhof als trockenen Aussichtspunkt.",
+                "hu": "A vár belső udvara kiváló fedett pihenőhely esőben.",
+                "ro": "Curtea interioară a castelului oferă un adăpost excelent contra ploii.",
+                "en": "Use the castle's inner courtyard as a dry viewpoint."
+              }
+            },
+            {
+              "name": "House of the Doncel",
+              "tip_5lang": {
+                "de": "Idealer Ort, um die Schauer in den historischen Räumen abzuwarten.",
+                "hu": "Tökéletes helyszín a záporok átvészelésére a történelmi szobákban.",
+                "ro": "Loc perfect pentru a aștepta trecerea ploii în camerele istorice.",
+                "en": "Ideal place to wait out showers in the historical rooms."
+              }
+            },
+            {
+              "name": "Plaza Mayor",
+              "tip_5lang": {
+                "de": "Bleiben Sie unter den Arkaden, um trocken zu bleiben.",
+                "hu": "Maradjon az árkádok alatt, hogy szárazon járhassa körbe a teret.",
+                "ro": "Rămâneți sub arcade pentru a explora piața fără umbrelă.",
+                "en": "Stay under the arcades to explore the square while staying dry."
+              }
+            },
+            {
+              "name": "Cathedral of Santa María",
+              "coord": [
+                -2.6438,
+                41.0692
+              ],
+              "tip_5lang": {
+                "de": "Bewundern Sie die Details der Kapellen, während es draußen regnet.",
+                "hu": "Csodálja meg a kápolnák részleteit, miközben odakint esik.",
+                "ro": "Admirați detaliile capelelor în timp ce afară plouă.",
+                "en": "Admire the chapel details while it rains outside."
+              }
+            },
+            {
+              "name": "Diocesan Museum",
+              "tip_5lang": {
+                "de": "Ein großzügiger Innenraum, perfekt für lange Regengüsse.",
+                "hu": "Tágas belső tér, ideális a hosszabb esőzések idejére.",
+                "ro": "Un spațiu interior generos, perfect pentru ploi de durată.",
+                "en": "A spacious indoor area, perfect for long rainy periods."
+              }
+            },
+            {
+              "name": "Sun Gate (Puerta del Sol)",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem Kopfsteinpflaster, es kann rutschig sein.",
+                "hu": "Vigyázat a macskaköveken, esőben nagyon csúszhatnak.",
+                "ro": "Atenție pe pavajul de piatră, poate fi alunecos când e ud.",
+                "en": "Watch your step on the cobblestones; they can be slippery when wet."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe für das steile Kopfsteinpflaster.",
+              "Die Arkaden der Plaza Mayor bieten Schutz vor plötzlichen Schauern.",
+              "Nutzen Sie die Museumsbesuche für die intensivsten Regenphasen.",
+              "Ein Taschenschirm ist wegen der engen Gassen praktischer als ein großer."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt a meredek macskaköves utcákhoz.",
+              "A Plaza Mayor árkádjai kiváló védelmet nyújtanak a hirtelen záporok elől.",
+              "A múzeumlátogatást a legintenzívebb esős időszakra időzítse.",
+              "A szűk utcák miatt egy összecsukható esernyő praktikusabb."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă pentru străzile abrupte cu piatră cubică.",
+              "Arcadele din Plaza Mayor oferă protecție excelentă contra averselor.",
+              "Planificați vizita la muzeu în perioadele cu ploaie intensă.",
+              "O umbrelă pliabilă este mai practică pe străzile înguste."
+            ],
+            "en": [
+              "Wear waterproof shoes for the steep cobblestone streets.",
+              "The arcades of Plaza Mayor offer great protection from sudden showers.",
+              "Schedule museum visits during the most intense rain periods.",
+              "A compact umbrella is more practical than a large one in narrow alleys."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die klare Winterluft in Sigüenza lässt die Steine der Kathedrale golden leuchten. Starten Sie morgens an der Burg, wo der Frost die Zinnen ziert. Mittags wärmen Sie sich bei einem kräftigen Eintopf nahe der Plaza Mayor auf. Der Nachmittag gehört der Kathedrale und dem Museum, wo Sie der Kälte entfliehen können. Wenn die Sonne früh hinter den Hügeln verschwindet, bietet das Sonnentor einen stimmungsvollen Abschluss Ihrer Winterwanderung.",
+            "hu": "A tiszta téli levegőben Sigüenza kövei aranyszínben ragyognak. Kezdje a reggelt a várnál, ahol a zúzmara díszíti a bástyákat. Délben melegedjen fel egy tányér forró étellel a főtér közelében. A délutánt töltse a katedrálisban és a múzeumban, elmenekülve a hideg elől. Mivel a nap korán nyugszik a dombok mögött, a Puerta del Sol kapuja hangulatos zárása lesz a téli városnézésnek.",
+            "ro": "Aerul curat de iarnă din Sigüenza face ca piatra catedralei să strălucească auriu. Începeți dimineața la castel, unde chiciura decorează crenelurile. La prânz, încălziți-vă cu o tocană locală lângă Plaza Mayor. După-amiaza aparține catedralei și muzeului, refugii calde împotriva frigului. Când soarele apune devreme după dealuri, Poarta Soarelui oferă un final atmosferic plimbării de iarnă.",
+            "en": "The crisp winter air in Sigüenza makes the cathedral's stone glow golden. Start your morning at the Castle, where frost decorates the battlements. At noon, warm up with a hearty stew near Plaza Mayor. Spend the afternoon inside the Cathedral and the Museum to escape the chill. As the sun sets early behind the hills, the Sun Gate provides a scenic and atmospheric end to your winter walk."
+          },
+          "stops": [
+            {
+              "name": "Castle of Sigüenza",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die frostige Hochebene vom Burgtor.",
+                "hu": "Élvezze a kilátást a dérlepte fennsíkra a várkaputól.",
+                "ro": "Admirați vederea asupra podișului înghețat de la poarta castelului.",
+                "en": "Enjoy the view of the frosty plateau from the castle gate."
+              }
+            },
+            {
+              "name": "House of the Doncel",
+              "tip_5lang": {
+                "de": "Drinnen ist es deutlich wärmer als in den windigen Gassen.",
+                "hu": "Odabent lényegesen melegebb van, mint a szeles utcákon.",
+                "ro": "În interior este mult mai cald decât pe străzile vântoase.",
+                "en": "It is significantly warmer inside than in the windy alleys."
+              }
+            },
+            {
+              "name": "Plaza Mayor",
+              "tip_5lang": {
+                "de": "Mittags finden Sie hier Cafés mit heißer Schokolade.",
+                "hu": "Délben keressen egy kávézót a téren egy forró csokoládéra.",
+                "ro": "La prânz, căutați cafenelele din piață pentru o ciocolată caldă.",
+                "en": "At noon, look for cafes on the square for a hot chocolate."
+              }
+            },
+            {
+              "name": "Cathedral of Santa María",
+              "tip_5lang": {
+                "de": "Die dicken Mauern speichern die Kälte; ziehen Sie sich warm an.",
+                "hu": "A vastag falak tartják a hideget, öltözzön fel rétegesen.",
+                "ro": "Zidurile groase rețin frigul; îmbrăcați-vă bine pentru interior.",
+                "en": "The thick walls retain the cold; dress warmly for the interior."
+              }
+            },
+            {
+              "name": "Diocesan Museum",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um die kälteste Zeit des Nachmittags zu überbrücken.",
+                "hu": "Tökéletes hely a délutáni leghidegebb órák eltöltésére.",
+                "ro": "Locul perfect pentru a trece peste cele mai reci ore ale amiezii.",
+                "en": "Perfect place to spend the coldest hours of the afternoon."
+              }
+            },
+            {
+              "name": "Sun Gate (Puerta del Sol)",
+              "tip_5lang": {
+                "de": "Besuchen Sie das Tor kurz vor 17:00 Uhr für das Abendlicht.",
+                "hu": "Látogasson el ide 17:00 előtt az esti fényekért.",
+                "ro": "Vizitați poarta înainte de ora 17:00 pentru lumina amurgului.",
+                "en": "Visit the gate just before 5:00 PM for the best evening light."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Temperaturen können in dieser Höhenlage stark sinken.",
+              "Tragen Sie Handschuhe und Schal für die windigen Abschnitte.",
+              "Beachten Sie den frühen Sonnenuntergang gegen 17:30 Uhr.",
+              "Probieren Sie 'Sopa Castellana', um sich mittags aufzuwärmen."
+            ],
+            "hu": [
+              "A hőmérséklet ezen a magasságon jelentősen visszaeshet.",
+              "Viseljen kesztyűt és sálat a szeles szakaszokon.",
+              "Számoljon a korai, 17:30 körüli naplementével.",
+              "Kóstolja meg a 'Sopa Castellana'-t (fokhagymaleves), hogy felmelegedjen."
+            ],
+            "ro": [
+              "Temperaturile pot scădea drastic la această altitudine.",
+              "Purtați mănuși și fular pentru porțiunile expuse vântului.",
+              "Țineți cont de apusul devreme, în jurul orei 17:30.",
+              "Încercați 'Sopa Castellana' pentru a vă încălzi la prânz."
+            ],
+            "en": [
+              "Temperatures can drop significantly at this altitude.",
+              "Wear gloves and a scarf for the windy sections of the walk.",
+              "Plan for an early sunset around 5:30 PM.",
+              "Try 'Sopa Castellana' (Castilian soup) to warm up at lunch."
+            ]
+          }
+        }
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "15:45",
+      "total_km": 8.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kathedrale Santa María",
+            "hu": "Santa María katedrális",
+            "ro": "Catedrala Santa María",
+            "en": "Cathedral of Santa María"
+          },
+          "coords": [
+            -2.6438,
+            41.0692
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Fahrradständer am Vorplatz vorhanden.",
+            "hu": "Kerékpártároló a bejárat előtti téren.",
+            "ro": "Rastel de biciclete disponibil în piața din față.",
+            "en": "Bike racks available in the front square."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg von Sigüenza",
+            "hu": "Sigüenzai vár",
+            "ro": "Castelul din Sigüenza",
+            "en": "Castle of Sigüenza"
+          },
+          "coords": [
+            -2.6405,
+            41.0665
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Steiler Anstieg, schieben ist okay.",
+            "hu": "Meredek emelkedő, tolni is ér.",
+            "ro": "Urcuș abrupt, e în regulă să o împingeți.",
+            "en": "Steep climb, pushing is okay."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche San Vicente",
+            "hu": "Szent Vince templom",
+            "ro": "Biserica San Vicente",
+            "en": "Church of San Vicente"
+          },
+          "coords": [
+            -2.6415,
+            41.0675
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Romanisches Juwel in der Oberstadt.",
+            "hu": "Román stílusú ékszerdoboz a felsővárosban.",
+            "ro": "Giuvaier romanic în orașul de sus.",
+            "en": "Romanesque gem in the upper town."
+          }
+        },
+        {
+          "name": {
+            "de": "Kiefernwald von Sigüenza",
+            "hu": "Sigüenzai fenyőerdő",
+            "ro": "Pădurea de pini din Sigüenza",
+            "en": "Pine Forest of Sigüenza"
+          },
+          "coords": [
+            -2.635,
+            41.075
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:50",
+          "stay_min": 90,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Wunderschöne Waldwege zum Radeln.",
+            "hu": "Gyönyörű erdei utak kerékpározáshoz.",
+            "ro": "Trasee forestiere frumoase pentru ciclism.",
+            "en": "Beautiful forest paths for cycling."
+          }
+        },
+        {
+          "name": {
+            "de": "Kloster Nuestra Señora de los Huertos",
+            "hu": "Nuestra Señora de los Huertos kolostor",
+            "ro": "Mănăstirea Nuestra Señora de los Huertos",
+            "en": "Nuestra Señora de los Huertos Convent"
+          },
+          "coords": [
+            -2.645,
+            41.072
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Ruhiger Ort am Stadtrand.",
+            "hu": "Csendes hely a város szélén.",
+            "ro": "Loc liniștit la marginea orașului.",
+            "en": "Quiet spot on the outskirts."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Radtour kombiniert die monumentale Pracht von Sigüenza mit seiner natürlichen Umgebung. Nach dem Besuch der Kathedrale und der Burg radeln Sie hinaus in den erfrischenden Kiefernwald. Zurück in der Stadt entdecken Sie versteckte Kirchen und ruhige Klöster, weit weg vom Trubel der Touristenströme.",
+        "hu": "Ez a kerékpártúra Sigüenza monumentális pompáját ötvözi természeti környezetével. A katedrális és a vár megtekintése után a frissítő fenyőerdőbe tekerünk. Visszatérve a városba, rejtett templomokat és csendes kolostorokat fedezünk fel, távol a turisták nyüzsgésétől.",
+        "ro": "Acest tur cu bicicleta combină splendoarea monumentală a orașului Sigüenza cu împrejurimile sale naturale. După vizitarea catedralei și a castelului, pedalați spre pădurea de pini revigorantă. Întorși în oraș, descoperiți biserici ascunse și mănăstiri liniștite, departe de agitația turistică.",
+        "en": "This bike tour combines the monumental splendor of Sigüenza with its natural surroundings. After visiting the cathedral and the castle, cycle out into the refreshing pine forest. Back in the city, discover hidden churches and quiet monasteries, far from the tourist crowds."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Migas del Pastor",
+            "tip": "Traditionelles Hirtengericht mit Brot und Speck."
+          },
+          {
+            "name": "Restaurante N नौकर",
+            "tip": "Gute lokale Küche am Park Alameda."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Migas del Pastor",
+            "tip": "Hagyományos pásztorétel kenyérrel és szalonnával."
+          },
+          {
+            "name": "Restaurante N नौकर",
+            "tip": "Jó helyi konyha az Alameda parknál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Migas del Pastor",
+            "tip": "Mâncare tradițională a păstorilor cu pâine și slănină."
+          },
+          {
+            "name": "Restaurante N नौकर",
+            "tip": "Bucătărie locală bună lângă Parcul Alameda."
+          }
+        ],
+        "en": [
+          {
+            "name": "Migas del Pastor",
+            "tip": "Traditional shepherd's dish with bread and bacon."
+          },
+          {
+            "name": "Restaurante N नौकर",
+            "tip": "Good local cuisine by the Alameda Park."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Pinar de Sigüenza",
+            "tip": "Stille unter alten Kiefern.",
+            "emoji": "🌲"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sigüenzai fenyves",
+            "tip": "Csend az öreg fenyők alatt.",
+            "emoji": "🌲"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pinar de Sigüenza",
+            "tip": "Liniște sub pinii bătrâni.",
+            "emoji": "🌲"
+          }
+        ],
+        "en": [
+          {
+            "name": "Pinar de Sigüenza",
+            "tip": "Silence under old pines.",
+            "emoji": "🌲"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Miel de la Alcarria",
+            "tip": "Regionaler Honig von höchster Qualität."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Miel de la Alcarria",
+            "tip": "Kiváló minőségű regionális méz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miel de la Alcarria",
+            "tip": "Miere regională de cea mai înaltă calitate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Miel de la Alcarria",
+            "tip": "Regional honey of top quality."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie Ihre Bremsen für die Abfahrten.",
+          "Meiden Sie die Hauptstraße am Wochenende.",
+          "Fahrradverleih gibt es am Bahnhof.",
+          "Tragen Sie einen Helm."
+        ],
+        "hu": [
+          "Ellenőrizze a fékeket a lejtőkhöz.",
+          "Hétvégén kerülje a főutakat.",
+          "Kerékpárkölcsönző az állomásnál található.",
+          "Viseljen bukósisakot."
+        ],
+        "ro": [
+          "Verificați frânele pentru coborâri.",
+          "Evitați drumul principal în weekend.",
+          "Închirieri de biciclete găsiți la gară.",
+          "Purtați cască."
+        ],
+        "en": [
+          "Check your brakes for the descents.",
+          "Avoid the main road on weekends.",
+          "Bike rental is available at the station.",
+          "Wear a helmet."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Diese Radtour kombiniert die monumentale Pracht von Sigüenza mit seiner natürlichen Umgebung. Nach dem Besuch der Kathedrale und der Burg radeln Sie hinaus in den erfrischenden Kiefernwald. Zurück in der Stadt entdecken Sie versteckte Kirchen und ruhige Klöster, weit weg vom Trubel der Touristenströme.",
+            "hu": "Ez a kerékpártúra Sigüenza monumentális pompáját ötvözi természeti környezetével. A katedrális és a vár megtekintése után a frissítő fenyőerdőbe tekerünk. Visszatérve a városba, rejtett templomokat és csendes kolostorokat fedezünk fel, távol a turisták nyüzsgésétől.",
+            "ro": "Acest tur cu bicicleta combină splendoarea monumentală a orașului Sigüenza cu împrejurimile sale naturale. După vizitarea catedralei și a castelului, pedalați spre pădurea de pini revigorantă. Întorși în oraș, descoperiți biserici ascunse și mănăstiri liniștite, departe de agitația turistică.",
+            "en": "This bike tour combines the monumental splendor of Sigüenza with its natural surroundings. After visiting the cathedral and the castle, cycle out into the refreshing pine forest. Back in the city, discover hidden churches and quiet monasteries, far from the tourist crowds."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kathedrale Santa María",
+                "hu": "Santa María katedrális",
+                "ro": "Catedrala Santa María",
+                "en": "Cathedral of Santa María"
+              },
+              "tip_5lang": {
+                "de": "Fahrradständer am Vorplatz vorhanden.",
+                "hu": "Kerékpártároló a bejárat előtti téren.",
+                "ro": "Rastel de biciclete disponibil în piața din față.",
+                "en": "Bike racks available in the front square."
+              }
+            },
+            {
+              "name": {
+                "de": "Burg von Sigüenza",
+                "hu": "Sigüenzai vár",
+                "ro": "Castelul din Sigüenza",
+                "en": "Castle of Sigüenza"
+              },
+              "tip_5lang": {
+                "de": "Steiler Anstieg, schieben ist okay.",
+                "hu": "Meredek emelkedő, tolni is ér.",
+                "ro": "Urcuș abrupt, e în regulă să o împingeți.",
+                "en": "Steep climb, pushing is okay."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche San Vicente",
+                "hu": "Szent Vince templom",
+                "ro": "Biserica San Vicente",
+                "en": "Church of San Vicente"
+              },
+              "tip_5lang": {
+                "de": "Romanisches Juwel in der Oberstadt.",
+                "hu": "Román stílusú ékszerdoboz a felsővárosban.",
+                "ro": "Giuvaier romanic în orașul de sus.",
+                "en": "Romanesque gem in the upper town."
+              }
+            },
+            {
+              "name": {
+                "de": "Kiefernwald von Sigüenza",
+                "hu": "Sigüenzai fenyőerdő",
+                "ro": "Pădurea de pini din Sigüenza",
+                "en": "Pine Forest of Sigüenza"
+              },
+              "tip_5lang": {
+                "de": "Wunderschöne Waldwege zum Radeln.",
+                "hu": "Gyönyörű erdei utak kerékpározáshoz.",
+                "ro": "Trasee forestiere frumoase pentru ciclism.",
+                "en": "Beautiful forest paths for cycling."
+              }
+            },
+            {
+              "name": {
+                "de": "Kloster Nuestra Señora de los Huertos",
+                "hu": "Nuestra Señora de los Huertos kolostor",
+                "ro": "Mănăstirea Nuestra Señora de los Huertos",
+                "en": "Nuestra Señora de los Huertos Convent"
+              },
+              "tip_5lang": {
+                "de": "Ruhiger Ort am Stadtrand.",
+                "hu": "Csendes hely a város szélén.",
+                "ro": "Loc liniștit la marginea orașului.",
+                "en": "Quiet spot on the outskirts."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Migas del Pastor",
+                "tip": "Traditionelles Hirtengericht mit Brot und Speck."
+              },
+              {
+                "name": "Restaurante N नौकर",
+                "tip": "Gute lokale Küche am Park Alameda."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Migas del Pastor",
+                "tip": "Hagyományos pásztorétel kenyérrel és szalonnával."
+              },
+              {
+                "name": "Restaurante N नौकर",
+                "tip": "Jó helyi konyha az Alameda parknál."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Migas del Pastor",
+                "tip": "Mâncare tradițională a păstorilor cu pâine și slănină."
+              },
+              {
+                "name": "Restaurante N नौकर",
+                "tip": "Bucătărie locală bună lângă Parcul Alameda."
+              }
+            ],
+            "en": [
+              {
+                "name": "Migas del Pastor",
+                "tip": "Traditional shepherd's dish with bread and bacon."
+              },
+              {
+                "name": "Restaurante N नौकर",
+                "tip": "Good local cuisine by the Alameda Park."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Pinar de Sigüenza",
+                "tip": "Stille unter alten Kiefern.",
+                "emoji": "🌲"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Sigüenzai fenyves",
+                "tip": "Csend az öreg fenyők alatt.",
+                "emoji": "🌲"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Pinar de Sigüenza",
+                "tip": "Liniște sub pinii bătrâni.",
+                "emoji": "🌲"
+              }
+            ],
+            "en": [
+              {
+                "name": "Pinar de Sigüenza",
+                "tip": "Silence under old pines.",
+                "emoji": "🌲"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Miel de la Alcarria",
+                "tip": "Regionaler Honig von höchster Qualität."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Miel de la Alcarria",
+                "tip": "Kiváló minőségű regionális méz."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Miel de la Alcarria",
+                "tip": "Miere regională de cea mai înaltă calitate."
+              }
+            ],
+            "en": [
+              {
+                "name": "Miel de la Alcarria",
+                "tip": "Regional honey of top quality."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Bremsen für die Abfahrten.",
+              "Meiden Sie die Hauptstraße am Wochenende.",
+              "Fahrradverleih gibt es am Bahnhof.",
+              "Tragen Sie einen Helm."
+            ],
+            "hu": [
+              "Ellenőrizze a fékeket a lejtőkhöz.",
+              "Hétvégén kerülje a főutakat.",
+              "Kerékpárkölcsönző az állomásnál található.",
+              "Viseljen bukósisakot."
+            ],
+            "ro": [
+              "Verificați frânele pentru coborâri.",
+              "Evitați drumul principal în weekend.",
+              "Închirieri de biciclete găsiți la gară.",
+              "Purtați cască."
+            ],
+            "en": [
+              "Check your brakes for the descents.",
+              "Avoid the main road on weekends.",
+              "Bike rental is available at the station.",
+              "Wear a helmet."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour durch Sigüenza im Regen erfordert Vorsicht, bietet aber eine frische Perspektive. Beginnen Sie an der Kathedrale und nutzen Sie die Burg für eine erste Regenpause. Der Kiefernwald bietet durch sein Blätterdach einen gewissen Schutz, bevor Sie zum Kloster Huertos radeln. Die Tour ist kürzer und fokussierter auf überdachte Stopps, um den Elementen zu trotzen und die kühle Luft zu genießen.",
+            "hu": "Az esős bringázás Sigüenzában óvatosságot igényel, de friss élményt nyújt. Kezdje a katedrálisnál, majd használja a várat az első esőszünetre. A fenyőerdő lombkoronája némi védelmet nyújt a csapadék elől, mielőtt a Huertos kolostorhoz tekerne. A túra rövidebb és a fedett megállókra koncentrál, hogy a hűvös levegő élvezete mellett szárazabb maradhasson.",
+            "ro": "O tură cu bicicleta prin Sigüenza pe ploaie necesită atenție, dar oferă o perspectivă proaspătă. Începeți la catedrală și folosiți castelul pentru prima pauză de adăpost. Pădurea de pini oferă o oarecare protecție datorită coronamentului, înainte de a pedala spre mănăstirea Huertos. Turul este mai scurt și axat pe opriri acoperite pentru a savura aerul curat.",
+            "en": "Cycling through Sigüenza in the rain requires caution but offers a fresh perspective. Start at the Cathedral and use the Castle for your first shelter break. The pine forest provides some natural cover before you pedal to the Huertos Convent. This tour is more focused on indoor stops, allowing you to enjoy the cool air while managing the wet weather."
+          },
+          "stops": [
+            {
+              "name": "Cathedral of Santa María",
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad nah am Eingang unter den Vorsprüngen.",
+                "hu": "Parkoljon a bejárat közelében, a kiugró tetők alatt.",
+                "ro": "Parcați bicicleta aproape de intrare, sub streșini.",
+                "en": "Park your bike close to the entrance under the overhangs."
+              }
+            },
+            {
+              "name": "Castle of Sigüenza",
+              "tip_5lang": {
+                "de": "Vorsicht bei der Auffahrt; die Steine sind bei Nässe glatt.",
+                "hu": "Óvatosan a felfelé úton; a kövek vizesen csúsznak.",
+                "ro": "Atenție la urcare; pietrele sunt alunecoase când sunt ude.",
+                "en": "Be careful on the climb; the stones are slippery when wet."
+              }
+            },
+            {
+              "name": "Church of San Vicente",
+              "tip_5lang": {
+                "de": "Ein schneller Stopp, um die Kleidung kurz zu trocknen.",
+                "hu": "Gyors megálló, hogy kicsit megszáradhasson a ruházata.",
+                "ro": "O oprire rapidă pentru a vă usca puțin hainele.",
+                "en": "A quick stop to dry off your gear slightly."
+              }
+            },
+            {
+              "name": "Pine Forest of Sigüenza",
+              "tip_5lang": {
+                "de": "Die Bäume fangen den leichten Nieselregen gut ab.",
+                "hu": "A fák jól felfogják a gyengébb szitáló esőt.",
+                "ro": "Copacii opresc bine burnița ușoară.",
+                "en": "The trees catch light drizzle effectively."
+              }
+            },
+            {
+              "name": "Nuestra Señora de los Huertos Convent",
+              "tip_5lang": {
+                "de": "Sicherer Abstellplatz für Fahrräder im Außenbereich vorhanden.",
+                "hu": "Biztonságos és részben fedett kerékpártároló a közelben.",
+                "ro": "Loc de parcare sigur pentru biciclete disponibil în exterior.",
+                "en": "Secure bike parking available in the outer area."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie Schutzbleche, um Spritzwasser zu vermeiden.",
+              "Bremsen Sie auf nassem Kopfsteinpflaster frühzeitig und sanft.",
+              "Vermeiden Sie tiefe Pfützen im Kiefernwald.",
+              "Tragen Sie eine gut sichtbare Regenjacke."
+            ],
+            "hu": [
+              "Használjon sárvédőt a felcsapódó víz ellen.",
+              "Vizes macskakövön fékezzen időben és óvatosan.",
+              "Kerülje a mély tócsákat a fenyőerdőben.",
+              "Viseljen jól látható, fényvisszaverős esőkabátot."
+            ],
+            "ro": [
+              "Folosiți apărători pentru a evita stropirea cu apă.",
+              "Frânați din timp și ușor pe pavajul umed.",
+              "Evitați bălțile adânci în pădurea de pini.",
+              "Purtați o jachetă de ploaie cu vizibilitate ridicată."
+            ],
+            "en": [
+              "Use mudguards to prevent water spray.",
+              "Brake early and gently on wet cobblestones.",
+              "Avoid deep puddles in the pine forest trails.",
+              "Wear a high-visibility rain jacket."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radfahren in Sigüenza ist erfrischend und bietet weite Ausblicke über die kahle Landschaft. Starten Sie an der Kathedrale und erklimmen Sie die Burg, um warm zu werden. Die Fahrt durch den Kiefernwald ist besonders stimmungsvoll, wenn der Boden gefroren ist. Zum Abschluss wärmt das Kloster Huertos Körper und Geist. Die klare Luft sorgt für eine exzellente Sichtweite während der gesamten Tour.",
+            "hu": "A téli bringázás Sigüenzában frissítő és tágas kilátást nyújt a kopár tájra. Kezdjen a katedrálisnál, majd tekerjen fel a várhoz, hogy bemelegedjen. A fenyőerdő különösen hangulatos, amikor a talaj fagyott. Végül a Huertos kolostor melengeti meg a testet és a lelket. A tiszta levegő kiváló látási viszonyokat biztosít a túra teljes ideje alatt.",
+            "ro": "Ciclismul de iarnă în Sigüenza este revigorant și oferă vederi largi asupra peisajului golaș. Începeți la catedrală și urcați la castel pentru a vă încălzi. Drumul prin pădurea de pini este deosebit de atmosferic când solul este înghețat. La final, mănăstirea Huertos vă va încălzi corpul și spiritul. Aerul curat asigură o vizibilitate excelentă.",
+            "en": "Winter cycling in Sigüenza is refreshing, offering expansive views over the stark landscape. Start at the Cathedral and climb to the Castle to get your blood pumping. Riding through the pine forest is especially atmospheric when the ground is frozen. End your journey at the Huertos Convent to warm up. The clear air ensures excellent visibility throughout the trip."
+          },
+          "stops": [
+            {
+              "name": "Cathedral of Santa María",
+              "tip_5lang": {
+                "de": "Beginnen Sie hier, wenn die Sonne die Fassade erwärmt.",
+                "hu": "Kezdje itt a túrát, amikor a nap már süti a homlokzatot.",
+                "ro": "Începeți aici când soarele încălzește fațada.",
+                "en": "Start here when the sun begins to warm the facade."
+              }
+            },
+            {
+              "name": "Castle of Sigüenza",
+              "tip_5lang": {
+                "de": "Harte Anstiege helfen gegen die morgendliche Kälte.",
+                "hu": "A meredek emelkedők segítenek a reggeli hideg ellen.",
+                "ro": "Urcările grele ajută împotriva frigului de dimineață.",
+                "en": "Tough climbs will help combat the morning chill."
+              }
+            },
+            {
+              "name": "Church of San Vicente",
+              "tip_5lang": {
+                "de": "Kurze Pause, um die Finger wieder aufzuwärmen.",
+                "hu": "Rövid pihenő, hogy ujjai újra felmelegedjenek.",
+                "ro": "Pauză scurtă pentru a vă reîncălzi degetele.",
+                "en": "Take a short break to warm up your fingers."
+              }
+            },
+            {
+              "name": "Pine Forest of Sigüenza",
+              "tip_5lang": {
+                "de": "Die Wege können im Schatten vereist sein; Vorsicht!",
+                "hu": "Az árnyékos utakon jégfoltok lehetnek; vigyázzon!",
+                "ro": "Potecile la umbră pot fi înghețate; atenție maximă!",
+                "en": "Paths in the shade may be icy; use caution!"
+              }
+            },
+            {
+              "name": "Nuestra Señora de los Huertos Convent",
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour hier vor dem frühen Kälteeinbruch.",
+                "hu": "Fejezze be a túrát itt a korai lehűlés előtt.",
+                "ro": "Încheiați turul aici înainte de lăsarea frigului de seară.",
+                "en": "Finish the tour here before the early evening chill sets in."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie winddichte Handschuhe und Überschuhe.",
+              "Achten Sie auf Glatteis in schattigen Waldpassagen.",
+              "Die Sonne geht im Winter bereits gegen 17:30 Uhr unter.",
+              "Halten Sie die Trinkflasche nah am Körper, damit sie nicht gefriert."
+            ],
+            "hu": [
+              "Viseljen szélálló kesztyűt és kamáslit.",
+              "Ügyeljen a jegesedésre az árnyékos erdei szakaszokon.",
+              "A nap télen már 17:30 körül nyugszik.",
+              "Tartsa a kulacsot a testéhez közel, hogy ne hűljön le túlságosan."
+            ],
+            "ro": [
+              "Purtați mănuși rezistente la vânt și protecții pentru pantofi.",
+              "Atenție la porțiunile de gheață în zonele umbrite de pădure.",
+              "Soarele apune deja în jurul orei 17:30 iarna.",
+              "Țineți bidonul cu apă aproape de corp pentru a preveni înghețul."
+            ],
+            "en": [
+              "Wear windproof gloves and shoe covers.",
+              "Watch for black ice in shaded forest sections.",
+              "Sunset occurs early, around 5:30 PM in winter.",
+              "Keep your water bottle close to your body to keep it from freezing."
+            ]
+          }
+        }
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "16:15",
+      "total_km": 22.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Kathedrale Santa María",
+            "hu": "Santa María katedrális",
+            "ro": "Catedrala Santa María",
+            "en": "Cathedral of Santa María"
+          },
+          "coords": [
+            -2.6438,
+            41.0692
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Parkhaus in der Nähe des Diözesanmuseums nutzen.",
+            "hu": "Használja a parkolóházat az Egyházmegyei Múzeum közelében.",
+            "ro": "Folosiți parcarea din apropierea Muzeului Diecezan.",
+            "en": "Use the parking garage near the Diocesan Museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg von Sigüenza",
+            "hu": "Sigüenzai vár",
+            "ro": "Castelul din Sigüenza",
+            "en": "Castle of Sigüenza"
+          },
+          "coords": [
+            -2.6405,
+            41.0665
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Bequeme Auffahrt bis zum Tor möglich.",
+            "hu": "Kényelmesen felhajthat egészen a kapuig.",
+            "ro": "Acces auto facil până la poartă.",
+            "en": "Easy drive right up to the gate."
+          }
+        },
+        {
+          "name": {
+            "de": "Kiefernwald von Sigüenza",
+            "hu": "Sigüenzai fenyőerdő",
+            "ro": "Pădurea de pini din Sigüenza",
+            "en": "Pine Forest of Sigüenza"
+          },
+          "coords": [
+            -2.635,
+            41.075
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 85,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Ideal für ein Picknick oder Kurzwanderung.",
+            "hu": "Ideális piknikhez vagy rövid túrához.",
+            "ro": "Ideal pentru un picnic sau o drumeție scurtă.",
+            "en": "Ideal for a picnic or short hike."
+          }
+        },
+        {
+          "name": {
+            "de": "Pelegrina Aussichtspunkt",
+            "hu": "Pelegrina kilátó",
+            "ro": "Belvederea Pelegrina",
+            "en": "Pelegrina Viewpoint"
+          },
+          "coords": [
+            -2.638,
+            41.015
+          ],
+          "category": "quiet_picks",
+          "arrive_at": "14:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Blick auf den Dulce-Fluss-Canyon.",
+            "hu": "Kilátás a Dulce-folyó kanyonjára.",
+            "ro": "Vedere asupra canionului râului Dulce.",
+            "en": "View of the Dulce River canyon."
+          }
+        },
+        {
+          "name": {
+            "de": "Plaza Mayor",
+            "hu": "Plaza Mayor",
+            "ro": "Plaza Mayor",
+            "en": "Plaza Mayor"
+          },
+          "coords": [
+            -2.6433,
+            41.0686
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "15:25",
+          "stay_min": 50,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 8.5,
+          "tip_5lang": {
+            "de": "Abschlusskaffee in herrschaftlichem Ambiente.",
+            "hu": "Záró kávé úri környezetben.",
+            "ro": "Cafea de final într-o ambianță nobiliară.",
+            "en": "Closing coffee in a stately ambiance."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto entdecken Sie nicht nur Sigüenza, sondern auch die atemberaubende Natur des Barranco del Río Dulce. Nach der Burgbesichtigung fahren Sie zum Aussichtspunkt Pelegrina, wo einst der berühmte Naturforscher Félix Rodríguez de la Fuente arbeitete. Der Tag endet stilvoll im Herzen der Altstadt von Sigüenza.",
+        "hu": "Autóval nemcsak Sigüenzát, hanem a Barranco del Río Dulce lenyűgöző természetét is felfedezheti. A várlátogatás után a Pelegrina kilátóhoz autózunk, ahol egykor a híres természetbúvár, Félix Rodríguez de la Fuente dolgozott. A nap stílusosan Sigüenza óvárosának szívében zárul.",
+        "ro": "Cu mașina descoperiți nu doar Sigüenza, ci și natura uluitoare din Barranco del Río Dulce. După vizitarea castelului, conduceți spre belvederea Pelegrina, unde a lucrat cândva celebrul naturalist Félix Rodríguez de la Fuente. Ziua se încheie cu stil în inima centrului vechi din Sigüenza.",
+        "en": "By car, you discover not only Sigüenza but also the breathtaking nature of the Barranco del Río Dulce. After visiting the castle, drive to the Pelegrina viewpoint where the famous naturalist Félix Rodríguez de la Fuente once worked. The day ends stylishly in the heart of Sigüenza's old town."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Trucha a la Navarra",
+            "tip": "Forelle mit Schinken gefüllt."
+          },
+          {
+            "name": "El Doncel",
+            "tip": "Exzellentes Restaurant mit Michelin-Stern."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Trucha a la Navarra",
+            "tip": "Sonkával töltött pisztráng."
+          },
+          {
+            "name": "El Doncel",
+            "tip": "Kiváló étterem Michelin-csillaggal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Trucha a la Navarra",
+            "tip": "Păstrăv umplut cu șuncă."
+          },
+          {
+            "name": "El Doncel",
+            "tip": "Restaurant excelent cu stea Michelin."
+          }
+        ],
+        "en": [
+          {
+            "name": "Trucha a la Navarra",
+            "tip": "Trout stuffed with ham."
+          },
+          {
+            "name": "El Doncel",
+            "tip": "Excellent restaurant with a Michelin star."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Barranco del Río Dulce",
+            "tip": "Wilde Natur und Geierbeobachtung.",
+            "emoji": "🦅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Barranco del Río Dulce",
+            "tip": "Vadon élő természet és keselyűles.",
+            "emoji": "🦅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Barranco del Río Dulce",
+            "tip": "Natură sălbatică și observarea vulturilor.",
+            "emoji": "🦅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Barranco del Río Dulce",
+            "tip": "Wild nature and vulture watching.",
+            "emoji": "🦅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Aceite de Oliva Virgen",
+            "tip": "Lokales Olivenöl."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Aceite de Oliva Virgen",
+            "tip": "Helyi olívaolaj."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Aceite de Oliva Virgen",
+            "tip": "Ulei de măsline local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Aceite de Oliva Virgen",
+            "tip": "Local olive oil."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "In der Altstadt ist das Parken schwierig.",
+          "Die Straßen nach Pelegrina sind kurvenreich.",
+          "Achten Sie auf Wildtiere bei Dämmerung.",
+          "Navigationsgeräte führen manchmal in Sackgassen."
+        ],
+        "hu": [
+          "Az óvárosban nehéz a parkolás.",
+          "A Pelegrina felé vezető utak kanyargósak.",
+          "Ügyeljen a vadon élő állatokra szürkületkor.",
+          "A navigáció néha zsákutcába visz."
+        ],
+        "ro": [
+          "Parcarea este dificilă în centrul vechi.",
+          "Drumurile spre Pelegrina sunt sinuoase.",
+          "Atenție la animalele sălbatice la amurg.",
+          "GPS-ul vă poate duce uneori pe străzi înfundate."
+        ],
+        "en": [
+          "Parking is difficult in the old town.",
+          "The roads to Pelegrina are winding.",
+          "Watch out for wildlife at dusk.",
+          "GPS sometimes leads to dead ends."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto entdecken Sie nicht nur Sigüenza, sondern auch die atemberaubende Natur des Barranco del Río Dulce. Nach der Burgbesichtigung fahren Sie zum Aussichtspunkt Pelegrina, wo einst der berühmte Naturforscher Félix Rodríguez de la Fuente arbeitete. Der Tag endet stilvoll im Herzen der Altstadt von Sigüenza.",
+            "hu": "Autóval nemcsak Sigüenzát, hanem a Barranco del Río Dulce lenyűgöző természetét is felfedezheti. A várlátogatás után a Pelegrina kilátóhoz autózunk, ahol egykor a híres természetbúvár, Félix Rodríguez de la Fuente dolgozott. A nap stílusosan Sigüenza óvárosának szívében zárul.",
+            "ro": "Cu mașina descoperiți nu doar Sigüenza, ci și natura uluitoare din Barranco del Río Dulce. După vizitarea castelului, conduceți spre belvederea Pelegrina, unde a lucrat cândva celebrul naturalist Félix Rodríguez de la Fuente. Ziua se încheie cu stil în inima centrului vechi din Sigüenza.",
+            "en": "By car, you discover not only Sigüenza but also the breathtaking nature of the Barranco del Río Dulce. After visiting the castle, drive to the Pelegrina viewpoint where the famous naturalist Félix Rodríguez de la Fuente once worked. The day ends stylishly in the heart of Sigüenza's old town."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kathedrale Santa María",
+                "hu": "Santa María katedrális",
+                "ro": "Catedrala Santa María",
+                "en": "Cathedral of Santa María"
+              },
+              "tip_5lang": {
+                "de": "Parkhaus in der Nähe des Diözesanmuseums nutzen.",
+                "hu": "Használja a parkolóházat az Egyházmegyei Múzeum közelében.",
+                "ro": "Folosiți parcarea din apropierea Muzeului Diecezan.",
+                "en": "Use the parking garage near the Diocesan Museum."
+              }
+            },
+            {
+              "name": {
+                "de": "Burg von Sigüenza",
+                "hu": "Sigüenzai vár",
+                "ro": "Castelul din Sigüenza",
+                "en": "Castle of Sigüenza"
+              },
+              "tip_5lang": {
+                "de": "Bequeme Auffahrt bis zum Tor möglich.",
+                "hu": "Kényelmesen felhajthat egészen a kapuig.",
+                "ro": "Acces auto facil până la poartă.",
+                "en": "Easy drive right up to the gate."
+              }
+            },
+            {
+              "name": {
+                "de": "Kiefernwald von Sigüenza",
+                "hu": "Sigüenzai fenyőerdő",
+                "ro": "Pădurea de pini din Sigüenza",
+                "en": "Pine Forest of Sigüenza"
+              },
+              "tip_5lang": {
+                "de": "Ideal für ein Picknick oder Kurzwanderung.",
+                "hu": "Ideális piknikhez vagy rövid túrához.",
+                "ro": "Ideal pentru un picnic sau o drumeție scurtă.",
+                "en": "Ideal for a picnic or short hike."
+              }
+            },
+            {
+              "name": {
+                "de": "Pelegrina Aussichtspunkt",
+                "hu": "Pelegrina kilátó",
+                "ro": "Belvederea Pelegrina",
+                "en": "Pelegrina Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Blick auf den Dulce-Fluss-Canyon.",
+                "hu": "Kilátás a Dulce-folyó kanyonjára.",
+                "ro": "Vedere asupra canionului râului Dulce.",
+                "en": "View of the Dulce River canyon."
+              }
+            },
+            {
+              "name": {
+                "de": "Plaza Mayor",
+                "hu": "Plaza Mayor",
+                "ro": "Plaza Mayor",
+                "en": "Plaza Mayor"
+              },
+              "tip_5lang": {
+                "de": "Abschlusskaffee in herrschaftlichem Ambiente.",
+                "hu": "Záró kávé úri környezetben.",
+                "ro": "Cafea de final într-o ambianță nobiliară.",
+                "en": "Closing coffee in a stately ambiance."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Trucha a la Navarra",
+                "tip": "Forelle mit Schinken gefüllt."
+              },
+              {
+                "name": "El Doncel",
+                "tip": "Exzellentes Restaurant mit Michelin-Stern."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Trucha a la Navarra",
+                "tip": "Sonkával töltött pisztráng."
+              },
+              {
+                "name": "El Doncel",
+                "tip": "Kiváló étterem Michelin-csillaggal."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Trucha a la Navarra",
+                "tip": "Păstrăv umplut cu șuncă."
+              },
+              {
+                "name": "El Doncel",
+                "tip": "Restaurant excelent cu stea Michelin."
+              }
+            ],
+            "en": [
+              {
+                "name": "Trucha a la Navarra",
+                "tip": "Trout stuffed with ham."
+              },
+              {
+                "name": "El Doncel",
+                "tip": "Excellent restaurant with a Michelin star."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Barranco del Río Dulce",
+                "tip": "Wilde Natur und Geierbeobachtung.",
+                "emoji": "🦅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Barranco del Río Dulce",
+                "tip": "Vadon élő természet és keselyűles.",
+                "emoji": "🦅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Barranco del Río Dulce",
+                "tip": "Natură sălbatică și observarea vulturilor.",
+                "emoji": "🦅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Barranco del Río Dulce",
+                "tip": "Wild nature and vulture watching.",
+                "emoji": "🦅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Aceite de Oliva Virgen",
+                "tip": "Lokales Olivenöl."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Aceite de Oliva Virgen",
+                "tip": "Helyi olívaolaj."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Aceite de Oliva Virgen",
+                "tip": "Ulei de măsline local."
+              }
+            ],
+            "en": [
+              {
+                "name": "Aceite de Oliva Virgen",
+                "tip": "Local olive oil."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "In der Altstadt ist das Parken schwierig.",
+              "Die Straßen nach Pelegrina sind kurvenreich.",
+              "Achten Sie auf Wildtiere bei Dämmerung.",
+              "Navigationsgeräte führen manchmal in Sackgassen."
+            ],
+            "hu": [
+              "Az óvárosban nehéz a parkolás.",
+              "A Pelegrina felé vezető utak kanyargósak.",
+              "Ügyeljen a vadon élő állatokra szürkületkor.",
+              "A navigáció néha zsákutcába visz."
+            ],
+            "ro": [
+              "Parcarea este dificilă în centrul vechi.",
+              "Drumurile spre Pelegrina sunt sinuoase.",
+              "Atenție la animalele sălbatice la amurg.",
+              "GPS-ul vă poate duce uneori pe străzi înfundate."
+            ],
+            "en": [
+              "Parking is difficult in the old town.",
+              "The roads to Pelegrina are winding.",
+              "Watch out for wildlife at dusk.",
+              "GPS sometimes leads to dead ends."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden Sie Sigüenza und Umgebung bequem im Trockenen. Nach Kathedrale und Burg führt die Fahrt zum Kiefernwald, wo Sie die frische Regenluft vom Wagen aus genießen können. Der Höhepunkt ist der Aussichtspunkt Pelegrina, wo sich dramatische Wolkenformationen über der Schlucht bieten. Den Tag beschließen Sie gemütlich an der Plaza Mayor, nur wenige Schritte vom Parkplatz entfernt.",
+            "hu": "Autóval kényelmesen és szárazon fedezheti fel Sigüenzát és környékét. A katedrális és a vár után az út a fenyőerdőhöz vezet, ahol az autóból élvezheti a friss esőillatot. A csúcspont a Pelegrina kilátó, ahonnan drámai felhőalakzatok látszanak a szurdok felett. A napot a Plaza Mayor-on zárhatja, mindössze pár lépésre a parkolótól.",
+            "ro": "Cu mașina puteți explora Sigüenza și împrejurimile stând la adăpost. După catedrală și castel, drumul duce spre pădurea de pini, unde puteți savura aerul proaspăt din mașină. Punctul culminant este belvederea Pelegrina, oferind vederi dramatice cu nori peste defileu. Încheiați ziua confortabil în Plaza Mayor, la câțiva pași de parcare.",
+            "en": "Exploring Sigüenza by car keeps you comfortable and dry. After visiting the Cathedral and Castle, drive to the pine forest to enjoy the fresh rain-scented air from your vehicle. The highlight is the Pelegrina viewpoint, offering dramatic views of clouds over the gorge. End your day at Plaza Mayor, conveniently located just steps from parking."
+          },
+          "stops": [
+            {
+              "name": "Cathedral of Santa María",
+              "tip_5lang": {
+                "de": "Parken Sie auf dem nahen 'Paseo de la Alameda'.",
+                "hu": "Parkoljon a közeli 'Paseo de la Alameda' sétányon.",
+                "ro": "Parcați pe 'Paseo de la Alameda' din apropiere.",
+                "en": "Park at the nearby 'Paseo de la Alameda'."
+              }
+            },
+            {
+              "name": "Castle of Sigüenza",
+              "tip_5lang": {
+                "de": "Direkte Zufahrt bis zum Burgtor möglich; ideal bei Regen.",
+                "hu": "Közvetlen behajtás a várkapuig; ideális esőben.",
+                "ro": "Acces auto direct până la poarta castelului; ideal pe ploaie.",
+                "en": "Direct car access to the castle gate; ideal for rainy days."
+              }
+            },
+            {
+              "name": "Pine Forest of Sigüenza",
+              "tip_5lang": {
+                "de": "Genießen Sie die Aussicht von den befestigten Parkbuchten.",
+                "hu": "Élvezze a kilátást a kijelölt parkolóhelyekről.",
+                "ro": "Admirați peisajul din alveolele de parcare amenajate.",
+                "en": "Enjoy the views from the paved parking bays."
+              }
+            },
+            {
+              "name": "Pelegrina Viewpoint",
+              "tip_5lang": {
+                "de": "Bleiben Sie bei starkem Regen für das Panorama im Auto.",
+                "hu": "Heves esőben maradjon az autóban a panoráma megtekintéséhez.",
+                "ro": "Rămâneți în mașină pentru panoramă dacă plouă torențial.",
+                "en": "Stay in the car for the panorama if the rain is heavy."
+              }
+            },
+            {
+              "name": "Plaza Mayor",
+              "tip_5lang": {
+                "de": "Parkplätze in den Nebenstraßen nutzen, um nah dran zu sein.",
+                "hu": "Használja az oldalsó utcák parkolóit a közelség érdekében.",
+                "ro": "Folosiți parcările de pe străzile laterale pentru proximitate.",
+                "en": "Use side street parking to stay close to the square."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Bergstraßen können bei Nässe rutschig sein.",
+              "Achten Sie auf Nebel in der Nähe der Pelegrina-Schlucht.",
+              "Nutzen Sie die Parkplätze direkt an den Sehenswürdigkeiten.",
+              "Prüfen Sie den Zustand der Scheibenwischer vor der Abfahrt."
+            ],
+            "hu": [
+              "A hegyi utak vizesen csúszósak lehetnek.",
+              "Ügyeljen a ködre a Pelegrina-szurdok közelében.",
+              "Használja a közvetlenül a látnivalóknál lévő parkolókat.",
+              "Indulás előtt ellenőrizze az ablaktörlők állapotát."
+            ],
+            "ro": [
+              "Drumurile montane pot fi alunecoase când sunt ude.",
+              "Atenție la ceață în apropierea defileului Pelegrina.",
+              "Folosiți parcările situate chiar lângă obiective.",
+              "Verificați starea ștergătoarelor înainte de plecare."
+            ],
+            "en": [
+              "Mountain roads can be slippery when wet.",
+              "Watch out for fog near the Pelegrina gorge.",
+              "Utilize parking spots directly adjacent to the sights.",
+              "Check your windshield wipers before starting the trip."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Autofahrt durch die kastilische Hochebene zeigt Sigüenza von seiner rauen Seite. Die Kathedrale und die Burg sind morgens oft in Raureif gehüllt. Die Fahrt zum Kiefernwald bietet spektakuläre, klare Aussichten. Ein Muss im Winter ist der Aussichtspunkt Pelegrina, wo die tiefstehende Sonne lange Schatten in die Schlucht wirft. Zum Aufwärmen lockt schließlich die Plaza Mayor mit ihren gemütlichen Gaststuben.",
+            "hu": "A téli autózás a kasztíliai fennsíkon Sigüenza zordabb arcát mutatja meg. A katedrálist és a várat reggelente gyakran zúzmara borítja. A fenyőerdőhöz vezető út látványos, tiszta kilátást nyújt. Télen kötelező a Pelegrina kilátó, ahol az alacsonyan járó nap hosszú árnyékokat vet a szurdokba. Végül a Plaza Mayor hangulatos vendéglői csábítanak melegedésre.",
+            "ro": "O călătorie cu mașina iarna prin podișul castilian arată latura aspră a Sigüenzei. Catedrala și castelul sunt adesea acoperite de chiciură dimineața. Drumul spre pădurea de pini oferă vederi spectaculoase și clare. O vizită obligatorie iarna este belvederea Pelegrina, unde soarele jos aruncă umbre lungi în defileu. La final, Plaza Mayor vă așteaptă cu localuri primitoare.",
+            "en": "A winter drive across the Castilian plateau reveals the rugged side of Sigüenza. The Cathedral and Castle are often frosted over in the morning. The drive to the pine forest offers spectacular, crisp views. A winter must is the Pelegrina viewpoint, where the low sun casts long shadows across the gorge. Finally, warm up at one of the cozy eateries in Plaza Mayor."
+          },
+          "stops": [
+            {
+              "name": "Cathedral of Santa María",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Sitzheizung nach dem Besuch der kalten Kirche.",
+                "hu": "Használja az ülésfűtést a hideg templomlátogatás után.",
+                "ro": "Folosiți încălzirea în scaune după vizita în biserica rece.",
+                "en": "Use your seat heaters after visiting the chilly cathedral."
+              }
+            },
+            {
+              "name": "Castle of Sigüenza",
+              "tip_5lang": {
+                "de": "Vorsicht vor Eis auf dem steilen Weg zum Parador-Parkplatz.",
+                "hu": "Vigyázzon a jéggel a Parador parkolójához vezető meredek úton.",
+                "ro": "Atenție la gheață pe drumul abrupt spre parcarea Paradorului.",
+                "en": "Watch for ice on the steep road to the Parador parking lot."
+              }
+            },
+            {
+              "name": "Pine Forest of Sigüenza",
+              "tip_5lang": {
+                "de": "Die Zufahrtswege können im Winter vereist sein.",
+                "hu": "A bekötőutak télen jegesek lehetnek.",
+                "ro": "Drumurile de acces pot fi înghețate în timpul iernii.",
+                "en": "Access roads can be icy during the winter months."
+              }
+            },
+            {
+              "name": "Pelegrina Viewpoint",
+              "tip_5lang": {
+                "de": "Wärmste Zeit für den Stopp ist zwischen 14 und 15 Uhr.",
+                "hu": "A legmelegebb időszak a látogatásra 14 és 15 óra között van.",
+                "ro": "Cea mai caldă perioadă pentru oprire este între orele 14 și 15.",
+                "en": "The warmest time to visit is between 2:00 PM and 3:00 PM."
+              }
+            },
+            {
+              "name": "Plaza Mayor",
+              "tip_5lang": {
+                "de": "Parken Sie zentral, um den Aufenthalt im Freien zu minimieren.",
+                "hu": "Parkoljon központilag, hogy keveset kelljen a hidegben sétálni.",
+                "ro": "Parcați central pentru a minimiza timpul petrecut în frig.",
+                "en": "Park centrally to minimize time spent out in the cold."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Frostschutz im Scheibenwischwasser.",
+              "Bergregionen haben oft plötzliche Wetterumschwünge.",
+              "Führen Sie Eiskratzer und warme Decken im Auto mit.",
+              "Tanken Sie voll, da Heizung im Stand viel Sprit braucht."
+            ],
+            "hu": [
+              "Ellenőrizze a fagyállót a szélvédőmosó folyadékban.",
+              "A hegyvidéken gyakoriak a hirtelen időjárás-változások.",
+              "Legyen az autóban jégkaparó és meleg takaró.",
+              "Tankoljon tele, mert az álló helyzeti fűtés sok üzemanyagot fogyaszt."
+            ],
+            "ro": [
+              "Verificați antigelul în lichidul de spălare a parbrizului.",
+              "Regiunile montane au adesea schimbări bruște de vreme.",
+              "Aveți în mașină o racletă și pături călduroase.",
+              "Faceți plinul, deoarece încălzirea pe loc consumă mult combustibil."
+            ],
+            "en": [
+              "Check the antifreeze in your windshield washer fluid.",
+              "Mountainous regions often experience sudden weather changes.",
+              "Keep an ice scraper and warm blankets in the car.",
+              "Keep your fuel tank full, as heating while idling uses extra gas."
+            ]
+          }
+        }
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 3.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Bahnhof Sigüenza",
+            "hu": "Sigüenza vasútállomás",
+            "ro": "Gara Sigüenza",
+            "en": "Sigüenza Train Station"
+          },
+          "coords": [
+            -2.645,
+            41.073
+          ],
+          "category": "port",
+          "arrive_at": "09:10",
+          "stay_min": 10,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ankunft mit dem Regionalzug aus Madrid.",
+            "hu": "Érkezés a madridi regionális vonattal.",
+            "ro": "Sosire cu trenul regional din Madrid.",
+            "en": "Arrival by regional train from Madrid."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale Santa María",
+            "hu": "Santa María katedrális",
+            "ro": "Catedrala Santa María",
+            "en": "Cathedral of Santa María"
+          },
+          "coords": [
+            -2.6438,
+            41.0692
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Das Wahrzeichen der Stadt direkt am Weg.",
+            "hu": "A város jelképe közvetlenül az út mentén.",
+            "ro": "Simbolul orașului chiar în drumul tău.",
+            "en": "The landmark of the city right on your way."
+          }
+        },
+        {
+          "name": {
+            "de": "Plaza Mayor",
+            "hu": "Plaza Mayor",
+            "ro": "Plaza Mayor",
+            "en": "Plaza Mayor"
+          },
+          "coords": [
+            -2.6433,
+            41.0686
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Arkaden.",
+            "hu": "Látogassa meg az árkádokat.",
+            "ro": "Vizitați arcadele.",
+            "en": "Visit the arcades."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg von Sigüenza",
+            "hu": "Sigüenzai vár",
+            "ro": "Castelul din Sigüenza",
+            "en": "Castle of Sigüenza"
+          },
+          "coords": [
+            -2.6405,
+            41.0665
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:35",
+          "stay_min": 90,
+          "hop_from_prev_min": 95,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Der höchste Punkt der Tour.",
+            "hu": "A túra legmagasabb pontja.",
+            "ro": "Cel mai înalt punct al turului.",
+            "en": "The highest point of the tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Haus des Doncel",
+            "hu": "Doncel háza",
+            "ro": "Casa del Doncel",
+            "en": "House of the Doncel"
+          },
+          "coords": [
+            -2.6425,
+            41.0678
+          ],
+          "category": "famous residences",
+          "arrive_at": "15:20",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Eintauchen in das goldene Zeitalter.",
+            "hu": "Merüljön el az aranykorban.",
+            "ro": "Pătrundeți în epoca de aur.",
+            "en": "Dive into the Golden Age."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Sigüenza lässt sich hervorragend mit der Bahn erreichen, besonders mit dem beliebten 'Mittelalter-Zug'. Vom Bahnhof aus führt der Weg stetig bergauf durch die Jahrhunderte: von der imposanten Kathedrale über den renaisancistischen Hauptplatz bis hinauf zur mächtigen Bischofsburg. Eine Zeitreise ohne Parkplatzsorgen.",
+        "hu": "Sigüenza kiválóan elérhető vonattal, különösen a népszerű 'Középkori Vonattal'. Az állomástól az út folyamatosan felfelé vezet az évszázadokon át: az impozáns katedrálistól a reneszánsz főtéren keresztül egészen a hatalmas püspöki várig. Időutazás parkolási gondok nélkül.",
+        "ro": "Sigüenza este ușor accesibil cu trenul, în special cu popularul 'Tren Medieval'. De la gară, drumul urcă constant prin secole: de la catedrala impunătoare, prin piața principală renascentistă, până la castelul episcopal masiv. O călătorie în timp fără grija parcării.",
+        "en": "Sigüenza is easily accessible by train, especially with the popular 'Medieval Train'. From the station, the path leads steadily uphill through the centuries: from the imposing cathedral through the Renaissance main square to the mighty bishop's castle. A journey through time without parking worries."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Sopa Castellana",
+            "tip": "Deftige Brotsuppe mit Knoblauch."
+          },
+          {
+            "name": "Restaurante Medieval",
+            "tip": "Thematisches Restaurant in Burgnähe."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sopa Castellana",
+            "tip": "Kiadós fokhagymás kenyérleves."
+          },
+          {
+            "name": "Restaurante Medieval",
+            "tip": "Tematikus étterem a vár közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sopa Castellana",
+            "tip": "Supă consistentă de pâine cu usturoi."
+          },
+          {
+            "name": "Restaurante Medieval",
+            "tip": "Restaurant tematic lângă castel."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sopa Castellana",
+            "tip": "Hearty garlic bread soup."
+          },
+          {
+            "name": "Restaurante Medieval",
+            "tip": "Thematic restaurant near the castle."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "San Vicente Kirche",
+            "tip": "Stille in einer der ältesten Kirchen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szent Vince templom",
+            "tip": "Csend az egyik legrégebbi templomban.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Biserica San Vicente",
+            "tip": "Liniște într-una dintre cele mai vechi biserici.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "San Vicente Church",
+            "tip": "Silence in one of the oldest churches.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Queso Manchego",
+            "tip": "Käse aus der Region Kastilien-La Mancha."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Queso Manchego",
+            "tip": "Sajt Kasztília-La Mancha régióból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Queso Manchego",
+            "tip": "Brânză din regiunea Castilia-La Mancha."
+          }
+        ],
+        "en": [
+          {
+            "name": "Queso Manchego",
+            "tip": "Cheese from the Castilla-La Mancha region."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie die Rückfahrzeiten nach Madrid.",
+          "Der 'Tren Medieval' bietet Musik und Verkostungen.",
+          "Vom Bahnhof ins Zentrum sind es 15 Minuten zu Fuß.",
+          "Nutzen Sie den Touristen-Pass für die Museen."
+        ],
+        "hu": [
+          "Ellenőrizze a Madridba induló vonatokat.",
+          "A 'Tren Medieval' zenét és kóstolót is kínál.",
+          "Az állomástól a központ 15 perc gyalog.",
+          "Használja a turista bérletet a múzeumokhoz."
+        ],
+        "ro": [
+          "Verificați orele de întoarcere spre Madrid.",
+          "Trenul 'Medieval' oferă muzică și degustări.",
+          "De la gară până în centru sunt 15 minute de mers pe jos.",
+          "Folosiți permisul turistic pentru muzee."
+        ],
+        "en": [
+          "Check the return train times to Madrid.",
+          "The 'Medieval Train' offers music and tastings.",
+          "It's a 15-minute walk from the station to the center.",
+          "Use the tourist pass for the museums."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Sigüenza lässt sich hervorragend mit der Bahn erreichen, besonders mit dem beliebten 'Mittelalter-Zug'. Vom Bahnhof aus führt der Weg stetig bergauf durch die Jahrhunderte: von der imposanten Kathedrale über den renaisancistischen Hauptplatz bis hinauf zur mächtigen Bischofsburg. Eine Zeitreise ohne Parkplatzsorgen.",
+            "hu": "Sigüenza kiválóan elérhető vonattal, különösen a népszerű 'Középkori Vonattal'. Az állomástól az út folyamatosan felfelé vezet az évszázadokon át: az impozáns katedrálistól a reneszánsz főtéren keresztül egészen a hatalmas püspöki várig. Időutazás parkolási gondok nélkül.",
+            "ro": "Sigüenza este ușor accesibil cu trenul, în special cu popularul 'Tren Medieval'. De la gară, drumul urcă constant prin secole: de la catedrala impunătoare, prin piața principală renascentistă, până la castelul episcopal masiv. O călătorie în timp fără grija parcării.",
+            "en": "Sigüenza is easily accessible by train, especially with the popular 'Medieval Train'. From the station, the path leads steadily uphill through the centuries: from the imposing cathedral through the Renaissance main square to the mighty bishop's castle. A journey through time without parking worries."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bahnhof Sigüenza",
+                "hu": "Sigüenza vasútállomás",
+                "ro": "Gara Sigüenza",
+                "en": "Sigüenza Train Station"
+              },
+              "tip_5lang": {
+                "de": "Ankunft mit dem Regionalzug aus Madrid.",
+                "hu": "Érkezés a madridi regionális vonattal.",
+                "ro": "Sosire cu trenul regional din Madrid.",
+                "en": "Arrival by regional train from Madrid."
+              }
+            },
+            {
+              "name": {
+                "de": "Kathedrale Santa María",
+                "hu": "Santa María katedrális",
+                "ro": "Catedrala Santa María",
+                "en": "Cathedral of Santa María"
+              },
+              "tip_5lang": {
+                "de": "Das Wahrzeichen der Stadt direkt am Weg.",
+                "hu": "A város jelképe közvetlenül az út mentén.",
+                "ro": "Simbolul orașului chiar în drumul tău.",
+                "en": "The landmark of the city right on your way."
+              }
+            },
+            {
+              "name": {
+                "de": "Plaza Mayor",
+                "hu": "Plaza Mayor",
+                "ro": "Plaza Mayor",
+                "en": "Plaza Mayor"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Arkaden.",
+                "hu": "Látogassa meg az árkádokat.",
+                "ro": "Vizitați arcadele.",
+                "en": "Visit the arcades."
+              }
+            },
+            {
+              "name": {
+                "de": "Burg von Sigüenza",
+                "hu": "Sigüenzai vár",
+                "ro": "Castelul din Sigüenza",
+                "en": "Castle of Sigüenza"
+              },
+              "tip_5lang": {
+                "de": "Der höchste Punkt der Tour.",
+                "hu": "A túra legmagasabb pontja.",
+                "ro": "Cel mai înalt punct al turului.",
+                "en": "The highest point of the tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Haus des Doncel",
+                "hu": "Doncel háza",
+                "ro": "Casa del Doncel",
+                "en": "House of the Doncel"
+              },
+              "tip_5lang": {
+                "de": "Eintauchen in das goldene Zeitalter.",
+                "hu": "Merüljön el az aranykorban.",
+                "ro": "Pătrundeți în epoca de aur.",
+                "en": "Dive into the Golden Age."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Sopa Castellana",
+                "tip": "Deftige Brotsuppe mit Knoblauch."
+              },
+              {
+                "name": "Restaurante Medieval",
+                "tip": "Thematisches Restaurant in Burgnähe."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Sopa Castellana",
+                "tip": "Kiadós fokhagymás kenyérleves."
+              },
+              {
+                "name": "Restaurante Medieval",
+                "tip": "Tematikus étterem a vár közelében."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Sopa Castellana",
+                "tip": "Supă consistentă de pâine cu usturoi."
+              },
+              {
+                "name": "Restaurante Medieval",
+                "tip": "Restaurant tematic lângă castel."
+              }
+            ],
+            "en": [
+              {
+                "name": "Sopa Castellana",
+                "tip": "Hearty garlic bread soup."
+              },
+              {
+                "name": "Restaurante Medieval",
+                "tip": "Thematic restaurant near the castle."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "San Vicente Kirche",
+                "tip": "Stille in einer der ältesten Kirchen.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Szent Vince templom",
+                "tip": "Csend az egyik legrégebbi templomban.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Biserica San Vicente",
+                "tip": "Liniște într-una dintre cele mai vechi biserici.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "San Vicente Church",
+                "tip": "Silence in one of the oldest churches.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Queso Manchego",
+                "tip": "Käse aus der Region Kastilien-La Mancha."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Queso Manchego",
+                "tip": "Sajt Kasztília-La Mancha régióból."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Queso Manchego",
+                "tip": "Brânză din regiunea Castilia-La Mancha."
+              }
+            ],
+            "en": [
+              {
+                "name": "Queso Manchego",
+                "tip": "Cheese from the Castilla-La Mancha region."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Überprüfen Sie die Rückfahrzeiten nach Madrid.",
+              "Der 'Tren Medieval' bietet Musik und Verkostungen.",
+              "Vom Bahnhof ins Zentrum sind es 15 Minuten zu Fuß.",
+              "Nutzen Sie den Touristen-Pass für die Museen."
+            ],
+            "hu": [
+              "Ellenőrizze a Madridba induló vonatokat.",
+              "A 'Tren Medieval' zenét és kóstolót is kínál.",
+              "Az állomástól a központ 15 perc gyalog.",
+              "Használja a turista bérletet a múzeumokhoz."
+            ],
+            "ro": [
+              "Verificați orele de întoarcere spre Madrid.",
+              "Trenul 'Medieval' oferă muzică și degustări.",
+              "De la gară până în centru sunt 15 minute de mers pe jos.",
+              "Folosiți permisul turistic pentru muzee."
+            ],
+            "en": [
+              "Check the return train times to Madrid.",
+              "The 'Medieval Train' offers music and tastings.",
+              "It's a 15-minute walk from the station to the center.",
+              "Use the tourist pass for the museums."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit öffentlichen Verkehrsmitteln erkunden Sie Sigüenza auch bei Regen stressfrei. Vom Bahnhof aus erreichen Sie schnell die überdachten Highlights wie die Kathedrale und die Burg. Die Plaza Mayor bietet mit ihren Arkaden einen trockenen Weg zwischen den Stationen. Das Doncel-Haus ist ein idealer Rückzugsort am Nachmittag, bevor Sie bequem mit dem Zug die Heimreise antreten, während der Regen gegen die Abteiltüren trommelt.",
+            "hu": "Tömegközlekedéssel esőben is stresszmentesen fedezheti fel Sigüenzát. A vasútállomástól gyorsan elérheti a fedett látnivalókat, mint a katedrális és a vár. A Plaza Mayor árkádjai száraz útvonalat biztosítanak a megállók között. A Doncel-ház ideális délutáni menedék, mielőtt kényelmesen vonatra szállna a hazafelé útra, miközben az eső a kocsi ablakán kopog.",
+            "ro": "Explorați Sigüenza fără stres cu transportul public, chiar și pe ploaie. De la gară ajungeți rapid la obiectivele acoperite precum catedrala și castelul. Plaza Mayor oferă un traseu uscat între stații datorită arcadelor sale. Casa Doncel este un refugiu ideal după-amiaza, înainte de a lua trenul spre casă în timp ce ploaia bate în geamuri.",
+            "en": "Public transit allows you to explore Sigüenza stress-free even in the rain. From the station, quickly reach indoor highlights like the Cathedral and the Castle. Plaza Mayor’s arcades offer a dry walkway between stops. The House of the Doncel is a perfect afternoon retreat before you head back to the train station as the rain patters against the windows."
+          },
+          "stops": [
+            {
+              "name": "Sigüenza Train Station",
+              "tip_5lang": {
+                "de": "Warten Sie in der Bahnhofshalle auf den nächsten Bus.",
+                "hu": "Várjon az állomás várótermében a következő buszra.",
+                "ro": "Așteptați în sala de așteptare a gării pentru următorul autobuz.",
+                "en": "Wait inside the station hall for the next bus connection."
+              }
+            },
+            {
+              "name": "Cathedral of Santa María",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg vom Busstopp; halten Sie den Schirm bereit.",
+                "hu": "Rövid séta a buszmegállótól; tartsa készenlétben az ernyőt.",
+                "ro": "Drum scurt de la stația de autobuz; pregătiți umbrela.",
+                "en": "Short walk from the bus stop; have your umbrella ready."
+              }
+            },
+            {
+              "name": "Plaza Mayor",
+              "tip_5lang": {
+                "de": "Zentraler Knotenpunkt, viele Cafés zum Aufwärmen.",
+                "hu": "Központi csomópont, sok kávézóval a melegedéshez.",
+                "ro": "Nod central, multe cafenele pentru a vă încălzi.",
+                "en": "Central hub with many cafes to warm up in."
+              }
+            },
+            {
+              "name": "Castle of Sigüenza",
+              "tip_5lang": {
+                "de": "Einige Buslinien halten direkt unterhalb der Burgmauer.",
+                "hu": "Néhány buszjárat közvetlenül a várfal alatt áll meg.",
+                "ro": "Unele linii de autobuz opresc chiar sub zidul castelului.",
+                "en": "Some bus lines stop directly below the castle walls."
+              }
+            },
+            {
+              "name": "House of the Doncel",
+              "tip_5lang": {
+                "de": "Planen Sie den Rückweg zum Bahnhof rechtzeitig ein.",
+                "hu": "Tervezze meg időben a visszautat a vasútállomásra.",
+                "ro": "Planificați din timp drumul de întoarcere la gară.",
+                "en": "Plan your return trip to the station in advance."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie die Busfahrpläne vorab, sie sind bei Regen seltener.",
+              "Nutzen Sie die Wartebereiche im Bahnhof und in Museen.",
+              "Ein kleiner Schirm passt gut in die Tasche für Busfahrten.",
+              "Die Züge nach Madrid oder Guadalajara sind zuverlässig."
+            ],
+            "hu": [
+              "Előre ellenőrizze a buszmenetrendet, esőben ritkábbak lehetnek.",
+              "Használja ki az állomás és a múzeumok várótermeit.",
+              "A buszos utazáshoz egy kis esernyő a legpraktikusabb.",
+              "A Madridba vagy Guadalajarába tartó vonatok megbízhatóak."
+            ],
+            "ro": [
+              "Verificați orarul autobuzelor; pot fi mai rare pe ploaie.",
+              "Folosiți zonele de așteptare din gară și muzee.",
+              "O umbrelă mică este cea mai practică pentru călătoria cu autobuzul.",
+              "Trenurile spre Madrid sau Guadalajara sunt punctuale."
+            ],
+            "en": [
+              "Check bus schedules in advance; they may be less frequent in rain.",
+              "Make use of the waiting areas at the station and in museums.",
+              "A small umbrella is most practical for bus transfers.",
+              "Trains to Madrid or Guadalajara are generally reliable."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterlicher Charme per Bahn: Sigüenza begrüßt Sie oft mit klarer, kalter Luft. Vom Bahnhof führt der Weg zur Kathedrale, deren Steine im Winterlicht strahlen. Mittags wärmen Sie sich in einem Restaurant an der Plaza Mayor auf, bevor es zur Burg geht. Das Doncel-Haus bietet nachmittags Schutz vor der Kälte. Der Tag endet am stimmungsvollen Bahnhof, wenn die Dämmerung früh über die kastilische Hochebene hereinbricht.",
+            "hu": "Téli hangulat vasúton: Sigüenza gyakran tiszta, hideg levegővel várja. Az állomástól az út a katedrálishoz vezet, melynek kövei ragyognak a téli fényben. Délben melegedjen fel a Plaza Mayor egyik éttermében, mielőtt a várhoz indulna. A Doncel-ház délután védelmet nyújt a hideg ellen. A nap a hangulatos vasútállomáson zárul, amikor a szürkület korán leszáll a kasztíliai fennsíkra.",
+            "ro": "Farmec de iarnă pe calea ferată: Sigüenza vă întâmpină adesea cu aer curat și rece. De la gară, drumul duce la catedrală, ale cărei pietre strălucesc în lumina iernii. La prânz, încălziți-vă într-un restaurant din Plaza Mayor înainte de a merge la castel. Casa Doncel oferă protecție contra frigului după-amiaza. Ziua se încheie la gara plină de atmosferă, când amurgul coboară devreme.",
+            "en": "Experience winter charm by rail: Sigüenza often greets you with crisp, cold air. From the station, head to the Cathedral, where the stones shine in the winter light. Warm up at a restaurant in Plaza Mayor at noon before heading to the Castle. The House of the Doncel provides shelter from the cold in the afternoon. The day ends at the atmospheric station as dusk settles early over the Castilian plateau."
+          },
+          "stops": [
+            {
+              "name": "Sigüenza Train Station",
+              "tip_5lang": {
+                "de": "Bahnhofscafé bietet heiße Getränke für die Wartezeit.",
+                "hu": "Az állomás kávézója forró italokat kínál a várakozáshoz.",
+                "ro": "Cafeneaua gării oferă băuturi calde pentru timpul de așteptare.",
+                "en": "The station cafe offers hot drinks while you wait."
+              }
+            },
+            {
+              "name": "Cathedral of Santa María",
+              "tip_5lang": {
+                "de": "Besuch am Vormittag, wenn das Licht am schönsten ist.",
+                "hu": "Látogassa meg délelőtt, amikor a legszebbek a fények.",
+                "ro": "Vizitați dimineața, când lumina este cea mai frumoasă.",
+                "en": "Visit in the morning when the light is at its best."
+              }
+            },
+            {
+              "name": "Plaza Mayor",
+              "tip_5lang": {
+                "de": "Die Arkaden schützen vor dem kalten Winterwind.",
+                "hu": "Az árkádok védenek a hideg téli széltől.",
+                "ro": "Arcadele oferă protecție împotriva vântului rece de iarnă.",
+                "en": "The arcades provide protection from the cold winter wind."
+              }
+            },
+            {
+              "name": "Castle of Sigüenza",
+              "tip_5lang": {
+                "de": "Der Aufstieg zu Fuß hält den Körper warm.",
+                "hu": "A gyalogos feljutás segít melegen tartani a testet.",
+                "ro": "Urcarea pe jos ajută la menținerea căldurii corporale.",
+                "en": "Walking up the hill will help keep your body warm."
+              }
+            },
+            {
+              "name": "House of the Doncel",
+              "tip_5lang": {
+                "de": "Idealer Stopp vor dem Rückweg in der frühen Dunkelheit.",
+                "hu": "Ideális megálló a korai sötétedés előtti visszautazáshoz.",
+                "ro": "Oprire ideală înainte de întoarcere, pe întunericul timpuriu.",
+                "en": "Ideal stop before heading back in the early darkness."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Bahnhöfe können im Winter zugig sein; warm anziehen.",
+              "Züge verkehren nach festem Fahrplan, auch bei Kälte.",
+              "Die Sonne geht im Winter gegen 17:30 Uhr unter.",
+              "Nutzen Sie die Busverbindung für den steilen Weg zur Burg."
+            ],
+            "hu": [
+              "A vasútállomások télen huzatosak lehetnek; öltözzön melegen.",
+              "A vonatok menetrend szerint közlekednek hidegben is.",
+              "Télen a nap már 17:30 körül lenyugszik.",
+              "Használja a buszjáratot a várhoz vezető meredek úthoz."
+            ],
+            "ro": [
+              "Gările pot fi expuse curentului iarna; îmbrăcați-vă gros.",
+              "Trenurile circulă conform orarului și pe vreme rece.",
+              "Soarele apune în jurul orei 17:30 pe timp de iarnă.",
+              "Folosiți autobuzul pentru urcarea abruptă spre castel."
+            ],
+            "en": [
+              "Train stations can be drafty in winter; dress warmly.",
+              "Trains run according to schedule even in cold weather.",
+              "The sun sets around 5:30 PM during the winter months.",
+              "Take the bus for the steep climb up to the castle."
+            ]
+          }
+        }
+      }
+    }
+  },
+  "external_resources": {
+    "transit_official": "https://www.renfe.com/",
+    "language_tips": {
+      "de": "Reines kastilisches Spanisch, klar artikuliert und ein guter Übungsboden für Lernende. Englisch beherrschen vor allem die Mitarbeiter des Parador und die Domführer. 'Catedral', 'doncel' (das berühmte Grabmal des Pagen) und 'tren turístico' sind nützliche Begriffe.",
+      "hu": "Tiszta kasztíliai spanyol, tisztán artikulálva, ami a nyelvet tanulóknak ideális gyakorlóterep. Angolul főleg a Parador személyzete és a katedrális idegenvezetői beszélnek. Hasznos szavak: 'catedral', 'doncel' (a híres apród síremlékének neve), 'tren turístico'.",
+      "ro": "Spaniolă castiliană curată, articulată clar, perfectă pentru începători. Engleza se vorbește mai ales la Parador și de către ghizii catedralei. Cuvinte utile: 'catedral', 'doncel' (celebrul mormânt al pajului), 'tren turístico'.",
+      "en": "Pure Castilian Spanish, clearly enunciated and great for learners. English is reliable at the Parador and with cathedral guides. Handy words: 'catedral', 'doncel' (the famous tomb of the page), and 'tren turístico'."
+    },
+    "best_time_to_visit": {
+      "de": "April bis Juni und September bis Oktober bieten das beste Klima auf 1.000 m Höhe. Im Juli und August kann es tagsüber 35 °C heiß werden, nachts dafür angenehm kühl. Im Winter ist die hochgelegene Stadt oft frostig, dafür wunderschön ruhig.",
+      "hu": "Április-június és szeptember-október adja a legjobb klímát az 1000 méteres magasságban. Júliusban és augusztusban 35 fok is lehet, de éjszaka kellemesen hűvös. Télen fagyos, ám csodálatosan csendes a magasan fekvő város.",
+      "ro": "Aprilie-iunie și septembrie-octombrie oferă cea mai bună vreme la 1.000 m altitudine. În iulie-august ziua poate ajunge la 35 °C, noaptea însă răcoroasă. Iarna e geroasă, dar orașul devine minunat de liniștit.",
+      "en": "April-June and September-October bring the best weather at 1,000 m elevation. July-August days can hit 35 °C, though nights stay cool. Winter is frosty but the hilltop town turns wonderfully quiet."
+    },
+    "neighborhood_warnings": {
+      "de": "Sigüenza ist klein, ruhig und sehr sicher. Vorsicht ist nur bei den steilen, gepflasterten Gassen rund um die Burg geboten, vor allem bei Regen oder Schnee. Wildschweine streifen abends gelegentlich am Stadtrand, halten Sie Hunde an der Leine.",
+      "hu": "Sigüenza kisváros, csendes és nagyon biztonságos. Csak a vár körüli meredek, köves utcákban kell vigyázni, főleg eső vagy hó esetén. Esténként vaddisznók jelennek meg a város szélén, kutyát tartsd pórázon.",
+      "ro": "Sigüenza e mic, liniștit și foarte sigur. Atenție doar la străduțele pietruite și abrupte din jurul castelului, mai ales pe ploaie sau zăpadă. Seara apar mistreți la marginea orașului, țineți câinele în lesă.",
+      "en": "Sigüenza is tiny, calm and very safe. The only real hazards are the steep cobbled lanes around the castle, especially when wet or icy. Wild boars sometimes wander the outskirts at dusk, so keep dogs leashed."
+    }
+  }
+}

@@ -1,0 +1,2810 @@
+{
+  "city_id": "cuenca",
+  "anchor": {
+    "name": "Plaza Mayor",
+    "coords": [
+      -2.1354,
+      40.0782
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 2.4,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Plaza Mayor",
+            "hu": "Plaza Mayor",
+            "ro": "Plaza Mayor",
+            "en": "Plaza Mayor"
+          },
+          "coords": [
+            -2.1354,
+            40.0782
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Trinken Sie hier Ihren ersten Kaffee.",
+            "hu": "Itt igyuk meg a reggeli kávét.",
+            "ro": "Savurați prima cafea aici.",
+            "en": "Enjoy your first coffee of the day here."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale von Cuenca",
+            "hu": "Cuencai székesegyház",
+            "ro": "Catedrala din Cuenca",
+            "en": "Cuenca Cathedral"
+          },
+          "coords": [
+            -2.1352,
+            40.0784
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:42",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die anglonormannische Gotik.",
+            "hu": "Csodálja meg az angol-normann gótikát.",
+            "ro": "Admirați stilul gotic anglo-normand.",
+            "en": "Admire the Anglo-Norman Gothic style."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo de Arte Abstracto Español",
+            "hu": "Absztrakt Művészeti Múzeum",
+            "ro": "Muzeul de Artă Abstractă Spaniolă",
+            "en": "Museum of Spanish Abstract Art"
+          },
+          "coords": [
+            -2.1318,
+            40.0778
+          ],
+          "category": "museums",
+          "arrive_at": "11:03",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Im Inneren der Hängenden Häuser gelegen.",
+            "hu": "A Függőházak belsejében található.",
+            "ro": "Situat în interiorul Caselor Suspendate.",
+            "en": "Located inside the Hanging Houses."
+          }
+        },
+        {
+          "name": {
+            "de": "Hängende Häuser (Casas Colgadas)",
+            "hu": "Függőházak (Casas Colgadas)",
+            "ro": "Casele Suspendate (Casas Colgadas)",
+            "en": "Hanging Houses (Casas Colgadas)"
+          },
+          "coords": [
+            -2.1316,
+            40.0776
+          ],
+          "category": "famous residences",
+          "arrive_at": "12:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Das Wahrzeichen der Stadt über der Schlucht.",
+            "hu": "A város jelképe a szurdok felett.",
+            "ro": "Simbolul orașului deasupra defileului.",
+            "en": "The city's icon above the gorge."
+          }
+        },
+        {
+          "name": {
+            "de": "Puente de San Pablo",
+            "hu": "Szent Pál-híd",
+            "ro": "Podul San Pablo",
+            "en": "San Pablo Bridge"
+          },
+          "coords": [
+            -2.1305,
+            40.0772
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "13:49",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Der beste Ort für Fotos der Häuser.",
+            "hu": "A legjobb hely a házak fotózásához.",
+            "ro": "Cel mai bun loc pentru poze cu casele.",
+            "en": "The best spot for photos of the houses."
+          }
+        },
+        {
+          "name": {
+            "de": "Convento de San Pablo",
+            "hu": "Szent Pál-kolostor",
+            "ro": "Conventul San Pablo",
+            "en": "San Pablo Convent"
+          },
+          "coords": [
+            -2.1285,
+            40.0765
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:34",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Heute ein wunderschönes Parador-Hotel.",
+            "hu": "Ma egy gyönyörű Parador szálloda.",
+            "ro": "Astăzi este un superb hotel Parador.",
+            "en": "Now a beautiful Parador hotel."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre de Mangana",
+            "hu": "Mangana-torony",
+            "ro": "Turnul Mangana",
+            "en": "Mangana Tower"
+          },
+          "coords": [
+            -2.1376,
+            40.0778
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:38",
+          "stay_min": 30,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Einst Teil der maurischen Festung.",
+            "hu": "Egykor a mór erőd része volt.",
+            "ro": "Fostă parte a fortăreței maure.",
+            "en": "Formerly part of the Moorish fortress."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirador del Castillo",
+            "hu": "Várkilátó",
+            "ro": "Mirador del Castillo",
+            "en": "Castle Viewpoint"
+          },
+          "coords": [
+            -2.1285,
+            40.0835
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "16:24",
+          "stay_min": 40,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Panoramablick über die gesamte Altstadt.",
+            "hu": "Panorámás kilátás az egész óvárosra.",
+            "ro": "Vedere panoramică peste centrul vechi.",
+            "en": "Panoramic views over the entire old town."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt am lebhaften Plaza Mayor, dem Herzstück der Oberstadt. Nach der Besichtigung der einzigartigen Kathedrale tauchen Sie in die Welt der abstrakten Kunst ein, die in den spektakulären Hängenden Häusern beheimatet ist. Der Nachmittag gehört den schwindelerregenden Ausblicken von der San-Pablo-Brücke und dem historischen Mangana-Turm. Zum Abschluss genießen Sie den Sonnenuntergang am Mirador del Castillo, wo Ihnen Cuenca zu Füßen liegt.",
+        "hu": "A nap a nyüzsgő Plaza Mayoron indul, a felsőváros szívében. Az egyedülálló katedrális megtekintése után merüljön el az absztrakt művészet világában, amely a látványos Függőházakban kapott helyet. A délután a szédítő kilátásoké a Szent Pál-hídról és a történelmi Mangana-toronyból. Végezetül élvezze a naplementét a Mirador del Castillónál, ahonnan egész Cuenca a lábai előtt hever.",
+        "ro": "Ziua începe în Plaza Mayor, inima orașului de sus. După vizitarea catedralei unice, explorați lumea artei abstracte, găzduită în spectaculoasele Case Suspendate. După-amiaza este dedicată priveliștilor amețitoare de pe podul San Pablo și istoricului turn Mangana. La final, bucurați-vă de apusul de soare la Mirador del Castillo, de unde întreaga Cuenca vi se așterne la picioare.",
+        "en": "Your day starts at the lively Plaza Mayor, the heart of the upper town. After visiting the unique cathedral, dive into the world of abstract art housed in the spectacular Hanging Houses. The afternoon is dedicated to dizzying views from the San Pablo Bridge and the historic Mangana Tower. To finish, enjoy the sunset at the Mirador del Castillo, where Cuenca lies at your feet."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Morteruelo",
+            "tip": "Herzhafte Leberpastete mit Gewürzen."
+          },
+          {
+            "name": "Restaurante Figón del Huécar",
+            "tip": "Traditionelle Küche mit Blick auf die Schlucht."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Morteruelo",
+            "tip": "Kiadós májpástétom fűszerekkel."
+          },
+          {
+            "name": "Restaurante Figón del Huécar",
+            "tip": "Hagyományos konyha kilátással a szurdokra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Morteruelo",
+            "tip": "Paste de ficat condimentată, specifică zonei."
+          },
+          {
+            "name": "Restaurante Figón del Huécar",
+            "tip": "Bucătărie tradițională cu vedere la defileu."
+          }
+        ],
+        "en": [
+          {
+            "name": "Morteruelo",
+            "tip": "Hearty liver pâté with local spices."
+          },
+          {
+            "name": "Restaurante Figón del Huécar",
+            "tip": "Traditional cuisine with gorge views."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Huécar-Flusspfad",
+            "tip": "Ruhiger Spaziergang entlang des Wassers.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Jardin del Posito",
+            "tip": "Kleiner Garten für eine Pause.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Huécar-folyóparti ösvény",
+            "tip": "Csendes séta a víz mentén.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Jardin del Posito",
+            "tip": "Kis kert egy rövid pihenőhöz.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Poteca râului Huécar",
+            "tip": "Plimbare liniștită pe malul apei.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Jardin del Posito",
+            "tip": "O grădină mică pentru relaxare.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Huécar River Path",
+            "tip": "Quiet walk along the water.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Jardin del Posito",
+            "tip": "Small garden for a peaceful break.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Alajú",
+            "tip": "Typische Süßigkeit aus Honig und Mandeln."
+          },
+          {
+            "name": "Korbwaren (Mimbre)",
+            "tip": "Handgefertigte Taschen und Körbe."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Alajú",
+            "tip": "Tipikus édesség mézből és mandulából."
+          },
+          {
+            "name": "Kosárfonás (Mimbre)",
+            "tip": "Kézzel készített táskák és kosarak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Alajú",
+            "tip": "Desert tradițional din miere și migdale."
+          },
+          {
+            "name": "Împletituri (Mimbre)",
+            "tip": "Geantă sau coș lucrat manual."
+          }
+        ],
+        "en": [
+          {
+            "name": "Alajú",
+            "tip": "Traditional sweet made of honey and almonds."
+          },
+          {
+            "name": "Wickerwork (Mimbre)",
+            "tip": "Handmade bags and baskets."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster.",
+          "Die Altstadt ist sehr steil, planen Sie Pausen ein.",
+          "Besuchen Sie die Casas Colgadas früh, um Gruppen zu meiden.",
+          "Kaufen Sie ein Kombiticket für die Museen."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt a macskaköves utcákhoz.",
+          "Az óváros nagyon meredek, tervezzen be pihenőket.",
+          "Látogassa meg korán a Függőházakat a tömeg elkerülése végett.",
+          "Vásároljon kombinált jegyet a múzeumokhoz."
+        ],
+        "ro": [
+          "Purtați încălțăminte comodă pentru pavajul cu piatră.",
+          "Centrul vechi este foarte abrupt, planificați pauze.",
+          "Vizitați Casele Suspendate devreme pentru a evita grupurile.",
+          "Cumpărați un bilet combinat pentru muzee."
+        ],
+        "en": [
+          "Wear comfortable shoes for the cobblestone streets.",
+          "The old town is very steep, so plan frequent breaks.",
+          "Visit the Hanging Houses early to avoid tour groups.",
+          "Buy a combined ticket for the museums."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Ihr Tag beginnt am lebhaften Plaza Mayor, dem Herzstück der Oberstadt. Nach der Besichtigung der einzigartigen Kathedrale tauchen Sie in die Welt der abstrakten Kunst ein, die in den spektakulären Hängenden Häusern beheimatet ist. Der Nachmittag gehört den schwindelerregenden Ausblicken von der San-Pablo-Brücke und dem historischen Mangana-Turm. Zum Abschluss genießen Sie den Sonnenuntergang am Mirador del Castillo, wo Ihnen Cuenca zu Füßen liegt.",
+            "hu": "A nap a nyüzsgő Plaza Mayoron indul, a felsőváros szívében. Az egyedülálló katedrális megtekintése után merüljön el az absztrakt művészet világában, amely a látványos Függőházakban kapott helyet. A délután a szédítő kilátásoké a Szent Pál-hídról és a történelmi Mangana-toronyból. Végezetül élvezze a naplementét a Mirador del Castillónál, ahonnan egész Cuenca a lábai előtt hever.",
+            "ro": "Ziua începe în Plaza Mayor, inima orașului de sus. După vizitarea catedralei unice, explorați lumea artei abstracte, găzduită în spectaculoasele Case Suspendate. După-amiaza este dedicată priveliștilor amețitoare de pe podul San Pablo și istoricului turn Mangana. La final, bucurați-vă de apusul de soare la Mirador del Castillo, de unde întreaga Cuenca vi se așterne la picioare.",
+            "en": "Your day starts at the lively Plaza Mayor, the heart of the upper town. After visiting the unique cathedral, dive into the world of abstract art housed in the spectacular Hanging Houses. The afternoon is dedicated to dizzying views from the San Pablo Bridge and the historic Mangana Tower. To finish, enjoy the sunset at the Mirador del Castillo, where Cuenca lies at your feet."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Plaza Mayor",
+                "hu": "Plaza Mayor",
+                "ro": "Plaza Mayor",
+                "en": "Plaza Mayor"
+              },
+              "tip_5lang": {
+                "de": "Trinken Sie hier Ihren ersten Kaffee.",
+                "hu": "Itt igyuk meg a reggeli kávét.",
+                "ro": "Savurați prima cafea aici.",
+                "en": "Enjoy your first coffee of the day here."
+              }
+            },
+            {
+              "name": {
+                "de": "Kathedrale von Cuenca",
+                "hu": "Cuencai székesegyház",
+                "ro": "Catedrala din Cuenca",
+                "en": "Cuenca Cathedral"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die anglonormannische Gotik.",
+                "hu": "Csodálja meg az angol-normann gótikát.",
+                "ro": "Admirați stilul gotic anglo-normand.",
+                "en": "Admire the Anglo-Norman Gothic style."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo de Arte Abstracto Español",
+                "hu": "Absztrakt Művészeti Múzeum",
+                "ro": "Muzeul de Artă Abstractă Spaniolă",
+                "en": "Museum of Spanish Abstract Art"
+              },
+              "tip_5lang": {
+                "de": "Im Inneren der Hängenden Häuser gelegen.",
+                "hu": "A Függőházak belsejében található.",
+                "ro": "Situat în interiorul Caselor Suspendate.",
+                "en": "Located inside the Hanging Houses."
+              }
+            },
+            {
+              "name": {
+                "de": "Hängende Häuser (Casas Colgadas)",
+                "hu": "Függőházak (Casas Colgadas)",
+                "ro": "Casele Suspendate (Casas Colgadas)",
+                "en": "Hanging Houses (Casas Colgadas)"
+              },
+              "tip_5lang": {
+                "de": "Das Wahrzeichen der Stadt über der Schlucht.",
+                "hu": "A város jelképe a szurdok felett.",
+                "ro": "Simbolul orașului deasupra defileului.",
+                "en": "The city's icon above the gorge."
+              }
+            },
+            {
+              "name": {
+                "de": "Puente de San Pablo",
+                "hu": "Szent Pál-híd",
+                "ro": "Podul San Pablo",
+                "en": "San Pablo Bridge"
+              },
+              "tip_5lang": {
+                "de": "Der beste Ort für Fotos der Häuser.",
+                "hu": "A legjobb hely a házak fotózásához.",
+                "ro": "Cel mai bun loc pentru poze cu casele.",
+                "en": "The best spot for photos of the houses."
+              }
+            },
+            {
+              "name": {
+                "de": "Convento de San Pablo",
+                "hu": "Szent Pál-kolostor",
+                "ro": "Conventul San Pablo",
+                "en": "San Pablo Convent"
+              },
+              "tip_5lang": {
+                "de": "Heute ein wunderschönes Parador-Hotel.",
+                "hu": "Ma egy gyönyörű Parador szálloda.",
+                "ro": "Astăzi este un superb hotel Parador.",
+                "en": "Now a beautiful Parador hotel."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre de Mangana",
+                "hu": "Mangana-torony",
+                "ro": "Turnul Mangana",
+                "en": "Mangana Tower"
+              },
+              "tip_5lang": {
+                "de": "Einst Teil der maurischen Festung.",
+                "hu": "Egykor a mór erőd része volt.",
+                "ro": "Fostă parte a fortăreței maure.",
+                "en": "Formerly part of the Moorish fortress."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador del Castillo",
+                "hu": "Várkilátó",
+                "ro": "Mirador del Castillo",
+                "en": "Castle Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Panoramablick über die gesamte Altstadt.",
+                "hu": "Panorámás kilátás az egész óvárosra.",
+                "ro": "Vedere panoramică peste centrul vechi.",
+                "en": "Panoramic views over the entire old town."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Morteruelo",
+                "tip": "Herzhafte Leberpastete mit Gewürzen."
+              },
+              {
+                "name": "Restaurante Figón del Huécar",
+                "tip": "Traditionelle Küche mit Blick auf die Schlucht."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Morteruelo",
+                "tip": "Kiadós májpástétom fűszerekkel."
+              },
+              {
+                "name": "Restaurante Figón del Huécar",
+                "tip": "Hagyományos konyha kilátással a szurdokra."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Morteruelo",
+                "tip": "Paste de ficat condimentată, specifică zonei."
+              },
+              {
+                "name": "Restaurante Figón del Huécar",
+                "tip": "Bucătărie tradițională cu vedere la defileu."
+              }
+            ],
+            "en": [
+              {
+                "name": "Morteruelo",
+                "tip": "Hearty liver pâté with local spices."
+              },
+              {
+                "name": "Restaurante Figón del Huécar",
+                "tip": "Traditional cuisine with gorge views."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Huécar-Flusspfad",
+                "tip": "Ruhiger Spaziergang entlang des Wassers.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Jardin del Posito",
+                "tip": "Kleiner Garten für eine Pause.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Huécar-folyóparti ösvény",
+                "tip": "Csendes séta a víz mentén.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Jardin del Posito",
+                "tip": "Kis kert egy rövid pihenőhöz.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Poteca râului Huécar",
+                "tip": "Plimbare liniștită pe malul apei.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Jardin del Posito",
+                "tip": "O grădină mică pentru relaxare.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Huécar River Path",
+                "tip": "Quiet walk along the water.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Jardin del Posito",
+                "tip": "Small garden for a peaceful break.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Alajú",
+                "tip": "Typische Süßigkeit aus Honig und Mandeln."
+              },
+              {
+                "name": "Korbwaren (Mimbre)",
+                "tip": "Handgefertigte Taschen und Körbe."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Alajú",
+                "tip": "Tipikus édesség mézből és mandulából."
+              },
+              {
+                "name": "Kosárfonás (Mimbre)",
+                "tip": "Kézzel készített táskák és kosarak."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Alajú",
+                "tip": "Desert tradițional din miere și migdale."
+              },
+              {
+                "name": "Împletituri (Mimbre)",
+                "tip": "Geantă sau coș lucrat manual."
+              }
+            ],
+            "en": [
+              {
+                "name": "Alajú",
+                "tip": "Traditional sweet made of honey and almonds."
+              },
+              {
+                "name": "Wickerwork (Mimbre)",
+                "tip": "Handmade bags and baskets."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster.",
+              "Die Altstadt ist sehr steil, planen Sie Pausen ein.",
+              "Besuchen Sie die Casas Colgadas früh, um Gruppen zu meiden.",
+              "Kaufen Sie ein Kombiticket für die Museen."
+            ],
+            "hu": [
+              "Viseljen kényelmes cipőt a macskaköves utcákhoz.",
+              "Az óváros nagyon meredek, tervezzen be pihenőket.",
+              "Látogassa meg korán a Függőházakat a tömeg elkerülése végett.",
+              "Vásároljon kombinált jegyet a múzeumokhoz."
+            ],
+            "ro": [
+              "Purtați încălțăminte comodă pentru pavajul cu piatră.",
+              "Centrul vechi este foarte abrupt, planificați pauze.",
+              "Vizitați Casele Suspendate devreme pentru a evita grupurile.",
+              "Cumpărați un bilet combinat pentru muzee."
+            ],
+            "en": [
+              "Wear comfortable shoes for the cobblestone streets.",
+              "The old town is very steep, so plan frequent breaks.",
+              "Visit the Hanging Houses early to avoid tour groups.",
+              "Buy a combined ticket for the museums."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag auf der Plaza Mayor, wo die bunten Fassaden im Regen glänzen. Die Kathedrale bietet einen langen, trockenen Rückzugsort voller Geschichte. Nachmittags entfliehen Sie dem Wetter im Museum für Abstrakte Kunst, das direkt in den hängenden Häusern untergebracht ist. Der Blick auf die neblige Huécar-Schlucht von der San-Pablo-Brücke wirkt bei Regen besonders mystisch.",
+            "hu": "Kezdje a napot a Plaza Mayoron, ahol a színes homlokzatok ragyognak az esőben. A székesegyház hosszú, száraz menedéket nyújt a történelem kedvelőinek. Délután vonuljon be az Absztrakt Művészeti Múzeumba, amely közvetlenül a Függőházakban található. A San Pablo-hídról nyíló kilátás a ködös Huécar-szurdokra az esőben válik igazán misztikussá és drámaivá.",
+            "ro": "Începeți ziua în Plaza Mayor, unde fațadele colorate strălucesc sub ploaie. Catedrala oferă un refugiu lung și uscat, plin de istorie. După-amiaza, vizitați Muzeul de Artă Abstractă, adăpostit chiar în Casele Atârnate. Vederea asupra defileului Huécar învăluit în ceață de pe podul San Pablo pare deosebit de mistică atunci când plouă, oferind o atmosferă unică.",
+            "en": "Start your day at Plaza Mayor, where the colorful facades glisten in the rain. The Cathedral provides a long, dry sanctuary filled with history. In the afternoon, escape the weather in the Museum of Spanish Abstract Art, housed right inside the Hanging Houses. The view of the misty Huécar gorge from the San Pablo Bridge feels especially mystical and dramatic during a downpour."
+          },
+          "stops": [
+            {
+              "name": "Plaza Mayor",
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter den Arkaden der Plaza.",
+                "hu": "Keressen menedéket a tér árkádjai alatt.",
+                "ro": "Căutați adăpost sub arcadele pieței.",
+                "en": "Find shelter under the square's arches."
+              }
+            },
+            {
+              "name": "Cuenca Cathedral",
+              "tip_5lang": {
+                "de": "Perfekt für eine ausgiebige Innenbesichtigung.",
+                "hu": "Tökéletes helyszín egy hosszú belső látogatáshoz.",
+                "ro": "Perfect pentru o vizită interioară prelungită.",
+                "en": "Perfect for an extensive indoor visit."
+              }
+            },
+            {
+              "name": "Museum of Spanish Abstract Art",
+              "tip_5lang": {
+                "de": "Ein warmer, trockener Ort mit toller Aussicht.",
+                "hu": "Meleg, száraz hely, fantasztikus kilátással.",
+                "ro": "Un loc cald și uscat, cu vederi superbe.",
+                "en": "A warm, dry spot with amazing views."
+              }
+            },
+            {
+              "name": "Hanging Houses (Casas Colgadas)",
+              "tip_5lang": {
+                "de": "Vorsicht, die Holzbalkone können rutschig sein.",
+                "hu": "Vigyázat, a fateraszok csúszósak lehetnek.",
+                "ro": "Atenție, balcoanele de lemn pot fi alunecoase.",
+                "en": "Caution, the wooden balconies can be slippery."
+              }
+            },
+            {
+              "name": "San Pablo Bridge",
+              "tip_5lang": {
+                "de": "Vorsicht bei Wind und nassen Metallgittern.",
+                "hu": "Vigyázzon a széllel és a nedves rácsokkal.",
+                "ro": "Atenție la vânt și la grilajele metalice ude.",
+                "en": "Be careful with wind and wet metal grates."
+              }
+            },
+            {
+              "name": "San Pablo Convent",
+              "tip_5lang": {
+                "de": "Genießen Sie die Stille im trockenen Inneren.",
+                "hu": "Élvezze a csendet a száraz belső térben.",
+                "ro": "Bucurați-vă de liniște în interiorul uscat.",
+                "en": "Enjoy the silence in the dry interior."
+              }
+            },
+            {
+              "name": "Mangana Tower",
+              "tip_5lang": {
+                "de": "Der Boden um den Turm kann sehr glatt sein.",
+                "hu": "A torony körüli talaj nagyon csúszós lehet.",
+                "ro": "Podeaua din jurul turnului poate fi alunecoasă.",
+                "en": "The ground around the tower can be very slick."
+              }
+            },
+            {
+              "name": "Castle Viewpoint",
+              "tip_5lang": {
+                "de": "Die Wolken im Tal bieten tolle Fotomotive.",
+                "hu": "A völgyben úszó felhők remek fotótémák.",
+                "ro": "Norii din vale oferă oportunități foto grozave.",
+                "en": "Clouds in the valley offer great photo ops."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe für das Kopfsteinpflaster.",
+              "Nutzen Sie die Museen als lange Regenpausen.",
+              "Die Schlucht sieht im Nebel spektakulär aus.",
+              "Regenschirme sind bei starkem Wind auf der Brücke schwierig."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt a macskaköves utcákhoz.",
+              "Használja a múzeumokat hosszú esőpihenőnek.",
+              "A szurdok látványa ködben lenyűgöző.",
+              "Az ernyő a hídon az erős szélben nehezen kezelhető."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă pentru pavaj.",
+              "Folosiți muzeele ca pauze lungi de ploaie.",
+              "Defileul arată spectaculos în ceață.",
+              "Umbrelele sunt greu de folosit pe pod din cauza vântului."
+            ],
+            "en": [
+              "Wear waterproof shoes for the cobblestones.",
+              "Use museums as long breaks from the rain.",
+              "The gorge looks spectacular in the mist.",
+              "Umbrellas are tricky on the bridge during high winds."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie das winterliche Cuenca mit seiner klaren Gebirgsluft. Am Morgen wärmen Sie sich in der prächtigen Kathedrale auf, bevor Sie die hängenden Häuser im weichen Winterlicht bewundern. Da die Sonne früh hinter den Felsen verschwindet, sollten Sie die Aussichtspunkte am Schloss vor 17:00 Uhr besuchen. Die beleuchtete Stadt am Abend bietet eine gemütliche, fast magische Atmosphäre in der Kälte.",
+            "hu": "Fedezze fel a téli Cuencát a friss hegyi levegővel. Reggel melegedjen fel a pompás székesegyházban, mielőtt megcsodálná a Függőházakat a lágy téli fényben. Mivel a nap korán eltűnik a sziklák mögött, a vár kilátópontjait 17:00 előtt keresse fel. Az esti kivilágított város barátságos, szinte varázslatos hangulatot áraszt a hidegben.",
+            "ro": "Experimentați Cuenca de iarnă cu aerul său curat de munte. Dimineața, încălziți-vă în catedrala splendidă înainte de a admira Casele Atârnate în lumina blândă a iernii. Deoarece soarele apune devreme după stânci, vizitați punctele de belvedere de la castel înainte de ora 17:00. Orașul iluminat seara oferă o atmosferă primitoare și magică în frig.",
+            "en": "Experience winter in Cuenca with its crisp mountain air. Warm up in the magnificent Cathedral in the morning before admiring the Hanging Houses in the soft winter light. As the sun sets early behind the cliffs, visit the castle viewpoints before 5:00 PM. The illuminated city in the evening offers a cozy, almost magical atmosphere in the cold."
+          },
+          "stops": [
+            {
+              "name": "Plaza Mayor",
+              "tip_5lang": {
+                "de": "Holen Sie sich einen heißen Kaffee zum Aufwärmen.",
+                "hu": "Igyon egy forró kávét a bemelegítéshez.",
+                "ro": "Luați o cafea fierbinte pentru a vă încălzi.",
+                "en": "Grab a hot coffee to warm up."
+              }
+            },
+            {
+              "name": "Cuenca Cathedral",
+              "tip_5lang": {
+                "de": "Angenehme Temperaturen im Inneren der Kirche.",
+                "hu": "Kellemes hőmérséklet a templom belsejében.",
+                "ro": "Temperaturi plăcute în interiorul bisericii.",
+                "en": "Pleasant temperatures inside the church."
+              }
+            },
+            {
+              "name": "Museum of Spanish Abstract Art",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Garderobe für Ihre dicken Mäntel.",
+                "hu": "Használja a ruhatárat a vastag kabátokhoz.",
+                "ro": "Folosiți garderoba pentru haina groasă.",
+                "en": "Use the cloakroom for your heavy coats."
+              }
+            },
+            {
+              "name": "Hanging Houses (Casas Colgadas)",
+              "tip_5lang": {
+                "de": "Das Licht am späten Vormittag ist ideal für Fotos.",
+                "hu": "A késő délelőtti fény ideális a fotózáshoz.",
+                "ro": "Lumina de dimineață târzie este ideală pentru poze.",
+                "en": "Late morning light is ideal for photos."
+              }
+            },
+            {
+              "name": "San Pablo Bridge",
+              "tip_5lang": {
+                "de": "Sehr windig – Mütze und Handschuhe sind Pflicht.",
+                "hu": "Nagyon szeles – sapka és kesztyű kötelező.",
+                "ro": "Foarte vântos – căciula și mănușile sunt obligatorii.",
+                "en": "Very windy – hat and gloves are a must."
+              }
+            },
+            {
+              "name": "San Pablo Convent",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Winterlandschaft vom Plateau.",
+                "hu": "Csodálja meg a téli tájat a fennsíkról.",
+                "ro": "Admirați peisajul de iarnă de pe platou.",
+                "en": "Admire the winter landscape from the plateau."
+              }
+            },
+            {
+              "name": "Mangana Tower",
+              "tip_5lang": {
+                "de": "Schöne Aussicht auf die verschneiten Dächer.",
+                "hu": "Szép kilátás a havas háztetőkre.",
+                "ro": "Vedere frumoasă spre acoperișurile înzăpezite.",
+                "en": "Beautiful view of the snow-dusted rooftops."
+              }
+            },
+            {
+              "name": "Castle Viewpoint",
+              "tip_5lang": {
+                "de": "Früher Sonnenuntergang gegen 17:30 Uhr.",
+                "hu": "Korai naplemente 17:30 körül.",
+                "ro": "Apus devreme în jur de ora 17:30.",
+                "en": "Early sunset around 5:30 PM."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Zwiebelprinzip bei der Kleidung ist ratsam.",
+              "Die Sonne verschwindet früh in den engen Gassen.",
+              "Einige Cafés haben Heizstrahler im Außenbereich.",
+              "Vorsicht vor vereisten Stellen auf den Treppen."
+            ],
+            "hu": [
+              "Réteges öltözködés javasolt a hideg ellen.",
+              "A nap korán eltűnik a szűk utcákban.",
+              "Néhány kávézó teraszán van kültéri fűtés.",
+              "Vigyázzon a jeges foltokra a lépcsőkön."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi împotriva frigului.",
+              "Soarele dispare devreme de pe străzile înguste.",
+              "Unele cafenele au încălzitoare pe terasă.",
+              "Atenție la porțiunile înghețate de pe scări."
+            ],
+            "en": [
+              "Layered clothing is advised for the cold.",
+              "The sun disappears early in the narrow streets.",
+              "Some cafes have outdoor heaters on terraces.",
+              "Watch out for icy patches on the stairs."
+            ]
+          }
+        }
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "15:30",
+      "total_km": 5.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Plaza Mayor",
+            "hu": "Plaza Mayor",
+            "ro": "Plaza Mayor",
+            "en": "Plaza Mayor"
+          },
+          "coords": [
+            -2.1354,
+            40.0782
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Startpunkt in der Oberstadt.",
+            "hu": "Kiindulópont a felsővárosban.",
+            "ro": "Punctul de plecare în orașul de sus.",
+            "en": "Starting point in the upper town."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre de Mangana",
+            "hu": "Mangana-torony",
+            "ro": "Turnul Mangana",
+            "en": "Mangana Tower"
+          },
+          "coords": [
+            -2.1376,
+            40.0778
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:43",
+          "stay_min": 30,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ebener Platz mit guter Aussicht.",
+            "hu": "Sík tér jó kilátással.",
+            "ro": "Piață plană cu vedere bună.",
+            "en": "Flat square with good views."
+          }
+        },
+        {
+          "name": {
+            "de": "Hängende Häuser",
+            "hu": "Függőházak",
+            "ro": "Casele Suspendate",
+            "en": "Hanging Houses"
+          },
+          "coords": [
+            -2.1316,
+            40.0776
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:16",
+          "stay_min": 50,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Rad sicher ab.",
+            "hu": "Zárja le biztonságosan a biciklit.",
+            "ro": "Parcați bicicleta în siguranță.",
+            "en": "Park your bike securely."
+          }
+        },
+        {
+          "name": {
+            "de": "Barrio del Castillo",
+            "hu": "Várnegyed",
+            "ro": "Barrio del Castillo",
+            "en": "Castle District"
+          },
+          "coords": [
+            -2.1288,
+            40.0825
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Der höchste Punkt der Tour.",
+            "hu": "A túra legmagasabb pontja.",
+            "ro": "Cel mai înalt punct al turului.",
+            "en": "The highest point of the tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirador del Castillo",
+            "hu": "Várkilátó",
+            "ro": "Mirador del Castillo",
+            "en": "Castle Viewpoint"
+          },
+          "coords": [
+            -2.1285,
+            40.0835
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "11:57",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Perfekt für eine Trinkpause.",
+            "hu": "Tökéletes egy frissítő pihenőhöz.",
+            "ro": "Perfect pentru o pauză de hidratare.",
+            "en": "Perfect for a hydration break."
+          }
+        },
+        {
+          "name": {
+            "de": "Puente de San Pablo",
+            "hu": "Szent Pál-híd",
+            "ro": "Podul San Pablo",
+            "en": "San Pablo Bridge"
+          },
+          "coords": [
+            -2.1305,
+            40.0772
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "12:52",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Schieben Sie das Rad über die Brücke.",
+            "hu": "Tolja a biciklit a hídon keresztül.",
+            "ro": "Împingeți bicicleta peste pod.",
+            "en": "Push your bike across the bridge."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem E-Bike erklimmen Sie mühelos die steilen Gassen von Cuenca. Von der Plaza Mayor geht es zum Mangana-Turm und weiter zu den berühmten Hängenden Häusern. Die Route führt Sie bis zum höchsten Punkt der Stadt, dem Barrio del Castillo, von wo aus Sie eine rasante Abfahrt hinunter zur San-Pablo-Brücke genießen können. Eine sportliche Art, die dramatische Topographie der Stadt zu erleben.",
+        "hu": "E-bike-kal könnyedén küzdheti le Cuenca meredek utcáit. A Plaza Mayortól a Mangana-toronyig, majd a híres Függőházakig tekerünk. Az útvonal a város legmagasabb pontjára, a Várnegyedbe vezet, ahonnan izgalmas lejtőzés vár a Szent Pál-híd irányába. Sportos módja a város drámai domborzatának felfedezésének.",
+        "ro": "Cu bicicleta electrică urcați fără efort străzile abrupte din Cuenca. De la Plaza Mayor mergeți spre turnul Mangana și apoi spre faimoasele Case Suspendate. Traseul vă duce în cel mai înalt punct al orașului, Barrio del Castillo, de unde vă puteți bucura de o coborâre rapidă spre podul San Pablo. O modalitate sportivă de a experimenta topografia dramatică a orașului.",
+        "en": "With an e-bike, you effortlessly conquer the steep streets of Cuenca. From Plaza Mayor, head to the Mangana Tower and on to the famous Hanging Houses. The route takes you to the highest point of the city, the Castle District, followed by a thrilling descent towards the San Pablo Bridge. A sporty way to experience the city's dramatic topography."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Zarajos",
+            "tip": "Gegrillte Lammdärme am Spieß."
+          },
+          {
+            "name": "Mesón Casas Colgadas",
+            "tip": "Gehobene Küche in historischem Ambiente."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zarajos",
+            "tip": "Grillezett báránybelsőség nyárson."
+          },
+          {
+            "name": "Mesón Casas Colgadas",
+            "tip": "Elegáns konyha történelmi környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zarajos",
+            "tip": "Măruntaie de miel la grătar pe băț."
+          },
+          {
+            "name": "Mesón Casas Colgadas",
+            "tip": "Bucătărie rafinată într-un cadru istoric."
+          }
+        ],
+        "en": [
+          {
+            "name": "Zarajos",
+            "tip": "Grilled lamb intestines on a vine shoot."
+          },
+          {
+            "name": "Mesón Casas Colgadas",
+            "tip": "Fine dining in a historic setting."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Huécar-Schlucht",
+            "tip": "Natur pur am Fuße der Klippen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Huécar-szurdok",
+            "tip": "Tiszta természet a sziklák lábánál.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Defileul Huécar",
+            "tip": "Natură pură la poalele stâncilor.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Huécar Gorge",
+            "tip": "Pure nature at the foot of the cliffs.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Töpferei-Werkstätten",
+            "tip": "Handgemachte Keramik aus Cuenca."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fazekasműhelyek",
+            "tip": "Kézzel készített kerámiák Cuencából."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ateliere de olărit",
+            "tip": "Ceramică lucrată manual în Cuenca."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pottery Workshops",
+            "tip": "Handmade ceramics from Cuenca."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie unbedingt ein E-Bike.",
+          "Achten Sie auf Fußgänger in den engen Gassen.",
+          "Nehmen Sie ausreichend Wasser mit.",
+          "Tragen Sie einen Helm."
+        ],
+        "hu": [
+          "Mindenképpen használjon e-bike-ot.",
+          "Ügyeljen a gyalogosokra a szűk utcákban.",
+          "Vigyen magával elegendő vizet.",
+          "Viseljen bukósisakot."
+        ],
+        "ro": [
+          "Folosiți neapărat o bicicletă electrică.",
+          "Atenție la pietoni pe străzile înguste.",
+          "Luați suficientă apă la voi.",
+          "Purtați cască de protecție."
+        ],
+        "en": [
+          "Be sure to use an e-bike.",
+          "Watch out for pedestrians in the narrow alleys.",
+          "Carry plenty of water with you.",
+          "Always wear a helmet."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mit dem E-Bike erklimmen Sie mühelos die steilen Gassen von Cuenca. Von der Plaza Mayor geht es zum Mangana-Turm und weiter zu den berühmten Hängenden Häusern. Die Route führt Sie bis zum höchsten Punkt der Stadt, dem Barrio del Castillo, von wo aus Sie eine rasante Abfahrt hinunter zur San-Pablo-Brücke genießen können. Eine sportliche Art, die dramatische Topographie der Stadt zu erleben.",
+            "hu": "E-bike-kal könnyedén küzdheti le Cuenca meredek utcáit. A Plaza Mayortól a Mangana-toronyig, majd a híres Függőházakig tekerünk. Az útvonal a város legmagasabb pontjára, a Várnegyedbe vezet, ahonnan izgalmas lejtőzés vár a Szent Pál-híd irányába. Sportos módja a város drámai domborzatának felfedezésének.",
+            "ro": "Cu bicicleta electrică urcați fără efort străzile abrupte din Cuenca. De la Plaza Mayor mergeți spre turnul Mangana și apoi spre faimoasele Case Suspendate. Traseul vă duce în cel mai înalt punct al orașului, Barrio del Castillo, de unde vă puteți bucura de o coborâre rapidă spre podul San Pablo. O modalitate sportivă de a experimenta topografia dramatică a orașului.",
+            "en": "With an e-bike, you effortlessly conquer the steep streets of Cuenca. From Plaza Mayor, head to the Mangana Tower and on to the famous Hanging Houses. The route takes you to the highest point of the city, the Castle District, followed by a thrilling descent towards the San Pablo Bridge. A sporty way to experience the city's dramatic topography."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Plaza Mayor",
+                "hu": "Plaza Mayor",
+                "ro": "Plaza Mayor",
+                "en": "Plaza Mayor"
+              },
+              "tip_5lang": {
+                "de": "Startpunkt in der Oberstadt.",
+                "hu": "Kiindulópont a felsővárosban.",
+                "ro": "Punctul de plecare în orașul de sus.",
+                "en": "Starting point in the upper town."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre de Mangana",
+                "hu": "Mangana-torony",
+                "ro": "Turnul Mangana",
+                "en": "Mangana Tower"
+              },
+              "tip_5lang": {
+                "de": "Ebener Platz mit guter Aussicht.",
+                "hu": "Sík tér jó kilátással.",
+                "ro": "Piață plană cu vedere bună.",
+                "en": "Flat square with good views."
+              }
+            },
+            {
+              "name": {
+                "de": "Hängende Häuser",
+                "hu": "Függőházak",
+                "ro": "Casele Suspendate",
+                "en": "Hanging Houses"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad sicher ab.",
+                "hu": "Zárja le biztonságosan a biciklit.",
+                "ro": "Parcați bicicleta în siguranță.",
+                "en": "Park your bike securely."
+              }
+            },
+            {
+              "name": {
+                "de": "Barrio del Castillo",
+                "hu": "Várnegyed",
+                "ro": "Barrio del Castillo",
+                "en": "Castle District"
+              },
+              "tip_5lang": {
+                "de": "Der höchste Punkt der Tour.",
+                "hu": "A túra legmagasabb pontja.",
+                "ro": "Cel mai înalt punct al turului.",
+                "en": "The highest point of the tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador del Castillo",
+                "hu": "Várkilátó",
+                "ro": "Mirador del Castillo",
+                "en": "Castle Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Perfekt für eine Trinkpause.",
+                "hu": "Tökéletes egy frissítő pihenőhöz.",
+                "ro": "Perfect pentru o pauză de hidratare.",
+                "en": "Perfect for a hydration break."
+              }
+            },
+            {
+              "name": {
+                "de": "Puente de San Pablo",
+                "hu": "Szent Pál-híd",
+                "ro": "Podul San Pablo",
+                "en": "San Pablo Bridge"
+              },
+              "tip_5lang": {
+                "de": "Schieben Sie das Rad über die Brücke.",
+                "hu": "Tolja a biciklit a hídon keresztül.",
+                "ro": "Împingeți bicicleta peste pod.",
+                "en": "Push your bike across the bridge."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Zarajos",
+                "tip": "Gegrillte Lammdärme am Spieß."
+              },
+              {
+                "name": "Mesón Casas Colgadas",
+                "tip": "Gehobene Küche in historischem Ambiente."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Zarajos",
+                "tip": "Grillezett báránybelsőség nyárson."
+              },
+              {
+                "name": "Mesón Casas Colgadas",
+                "tip": "Elegáns konyha történelmi környezetben."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Zarajos",
+                "tip": "Măruntaie de miel la grătar pe băț."
+              },
+              {
+                "name": "Mesón Casas Colgadas",
+                "tip": "Bucătărie rafinată într-un cadru istoric."
+              }
+            ],
+            "en": [
+              {
+                "name": "Zarajos",
+                "tip": "Grilled lamb intestines on a vine shoot."
+              },
+              {
+                "name": "Mesón Casas Colgadas",
+                "tip": "Fine dining in a historic setting."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Huécar-Schlucht",
+                "tip": "Natur pur am Fuße der Klippen.",
+                "emoji": "🍃"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Huécar-szurdok",
+                "tip": "Tiszta természet a sziklák lábánál.",
+                "emoji": "🍃"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Defileul Huécar",
+                "tip": "Natură pură la poalele stâncilor.",
+                "emoji": "🍃"
+              }
+            ],
+            "en": [
+              {
+                "name": "Huécar Gorge",
+                "tip": "Pure nature at the foot of the cliffs.",
+                "emoji": "🍃"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Töpferei-Werkstätten",
+                "tip": "Handgemachte Keramik aus Cuenca."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Fazekasműhelyek",
+                "tip": "Kézzel készített kerámiák Cuencából."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Ateliere de olărit",
+                "tip": "Ceramică lucrată manual în Cuenca."
+              }
+            ],
+            "en": [
+              {
+                "name": "Pottery Workshops",
+                "tip": "Handmade ceramics from Cuenca."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Nutzen Sie unbedingt ein E-Bike.",
+              "Achten Sie auf Fußgänger in den engen Gassen.",
+              "Nehmen Sie ausreichend Wasser mit.",
+              "Tragen Sie einen Helm."
+            ],
+            "hu": [
+              "Mindenképpen használjon e-bike-ot.",
+              "Ügyeljen a gyalogosokra a szűk utcákban.",
+              "Vigyen magával elegendő vizet.",
+              "Viseljen bukósisakot."
+            ],
+            "ro": [
+              "Folosiți neapărat o bicicletă electrică.",
+              "Atenție la pietoni pe străzile înguste.",
+              "Luați suficientă apă la voi.",
+              "Purtați cască de protecție."
+            ],
+            "en": [
+              "Be sure to use an e-bike.",
+              "Watch out for pedestrians in the narrow alleys.",
+              "Carry plenty of water with you.",
+              "Always wear a helmet."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen durch Cuenca erfordert Vorsicht auf dem glatten Pflaster der Altstadt. Starten Sie an der Plaza Mayor und fahren Sie vorsichtig zum Mangana-Turm. Die Hängenden Häuser bieten einen guten Stopp, um kurz trocken zu bleiben. Der Aufstieg zum Schlossviertel ist anstrengend, aber die kühle Luft und die leeren Straßen belohnen Sie mit einer ruhigen Atmosphäre.",
+            "hu": "Az esős bringázás Cuencában óvatosságot igényel az óváros csúszós kövein. Kezdjen a Plaza Mayoron, majd guruljon át a Mangana-toronyhoz. A Függőházaknál tarthat egy rövid pihenőt fedett helyen. A várnegyedbe vezető emelkedő izzasztó, de a hűvös levegő és az üres utcák csendes hangulatot árasztanak.",
+            "ro": "O tură cu bicicleta prin Cuenca pe ploaie necesită prudență pe pavajul alunecos. Începeți din Plaza Mayor și mergeți spre Turnul Mangana. Casele Atârnate oferă un punct bun de oprire pentru a rămâne scurt timp la uscat. Urcarea spre cartierul castelului este grea, dar aerul răcoros și străzile goale vă oferă o atmosferă liniștită.",
+            "en": "A rainy bike ride through Cuenca requires caution on the slippery old town pavement. Start at Plaza Mayor and ride carefully to the Mangana Tower. The Hanging Houses offer a good stop to stay dry for a moment. The climb to the Castle district is tough, but the cool air and empty streets reward you with a peaceful atmosphere."
+          },
+          "stops": [
+            {
+              "name": "Plaza Mayor",
+              "tip_5lang": {
+                "de": "Vorsicht beim Anfahren auf nassem Stein.",
+                "hu": "Vigyázzon az induláskor a vizes kövön.",
+                "ro": "Atenție la plecare pe piatra udă.",
+                "en": "Be careful when starting on wet stone."
+              }
+            },
+            {
+              "name": "Mangana Tower",
+              "tip_5lang": {
+                "de": "Bremsen Sie frühzeitig vor Kurven.",
+                "hu": "Fékezzen időben a kanyarok előtt.",
+                "ro": "Frânați din timp înainte de curbe.",
+                "en": "Brake early before the turns."
+              }
+            },
+            {
+              "name": "Hanging Houses",
+              "tip_5lang": {
+                "de": "Stellen Sie das Rad im Windschatten ab.",
+                "hu": "Parkolja a bringát szélvédett helyen.",
+                "ro": "Parcați bicicleta la adăpost de vânt.",
+                "en": "Park your bike in a sheltered spot."
+              }
+            },
+            {
+              "name": "Castle District",
+              "tip_5lang": {
+                "de": "Der steile Anstieg ist bei Regen rutschig.",
+                "hu": "A meredek emelkedő esőben csúszós.",
+                "ro": "Urcarea abruptă este alunecoasă pe ploaie.",
+                "en": "The steep climb is slippery when wet."
+              }
+            },
+            {
+              "name": "Castle Viewpoint",
+              "tip_5lang": {
+                "de": "Halten Sie den Lenker bei Wind gut fest.",
+                "hu": "Tartsa erősen a kormányt a szélben.",
+                "ro": "Țineți bine ghidonul în condiții de vânt.",
+                "en": "Keep a firm grip on the handlebars in the wind."
+              }
+            },
+            {
+              "name": "San Pablo Bridge",
+              "tip_5lang": {
+                "de": "Schieben ist auf der nassen Brücke sicherer.",
+                "hu": "A vizes hídon biztonságosabb tolni.",
+                "ro": "Este mai sigur să împingeți bicicleta pe pod.",
+                "en": "Pushing is safer on the wet bridge."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie abrupte Bremsmanöver.",
+              "Tragen Sie eine komplett wasserdichte Jacke.",
+              "Die Júcar-Schlucht ist im Regen sehr grün.",
+              "Schutzbleche sind bei diesem Wetter essenziell."
+            ],
+            "hu": [
+              "Kerülje a hirtelen fékezéseket.",
+              "Viseljen teljesen vízálló kabátot.",
+              "A Júcar-szurdok esőben gyönyörű zöld.",
+              "A sárvédő elengedhetetlen ilyen időben."
+            ],
+            "ro": [
+              "Evitați manevrele de frânare bruște.",
+              "Purtați o jachetă complet impermeabilă.",
+              "Defileul Júcar este foarte verde pe ploaie.",
+              "Apărătorile sunt esențiale pe această vreme."
+            ],
+            "en": [
+              "Avoid abrupt braking maneuvers.",
+              "Wear a fully waterproof jacket.",
+              "The Júcar gorge is very green in the rain.",
+              "Mudguards are essential in this weather."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Radfahren im Winter in Cuenca ist erfrischend, aber kalt. Die Route führt Sie durch die historische Oberstadt, wo die Morgensonne die Felsen beleuchtet. Nutzen Sie die Mittagssonne für den Castle Viewpoint, bevor es im Schatten der Schluchten empfindlich kühl wird. Ein Stopp im Castle District bietet die Chance, sich bei einem Tee aufzuwärmen, bevor die schnelle Abfahrt zurück in die Unterstadt erfolgt.",
+            "hu": "A téli bringázás Cuencában frissítő, de fagyos. Az útvonal a történelmi felsővároson át vezet, ahol a reggeli nap megvilágítja a sziklákat. Használja ki a déli napsütést a vár kilátópontjánál, mielőtt a szurdokok árnyékában lehűlne a levegő. A várnegyedben egy teázás segít felmelegedni a gyors lejtőzés előtt.",
+            "ro": "Ciclismul de iarnă în Cuenca este revigorant, dar rece. Traseul vă duce prin orașul vechi de sus, unde soarele dimineții luminează stâncile. Profitați de soarele de la amiază pentru belvederea castelului, înainte să se răcească în umbra defileelor. O oprire în cartierul castelului vă oferă șansa să vă încălziți cu un ceai.",
+            "en": "Cycling in winter in Cuenca is refreshing but cold. The route takes you through the historic upper town, where the morning sun lights up the cliffs. Take advantage of the midday sun at the Castle Viewpoint before it gets chilly in the shadow of the gorges. A stop in the Castle District offers a chance to warm up with tea before the fast descent."
+          },
+          "stops": [
+            {
+              "name": "Plaza Mayor",
+              "tip_5lang": {
+                "de": "Starten Sie erst, wenn der Reif getaut ist.",
+                "hu": "Csak a zúzmara elolvadása után induljon.",
+                "ro": "Porniți abia după ce s-a topit bruma.",
+                "en": "Start only after the frost has thawed."
+              }
+            },
+            {
+              "name": "Mangana Tower",
+              "tip_5lang": {
+                "de": "Handschuhe schützen vor dem kalten Fahrtwind.",
+                "hu": "A kesztyű véd a hideg menetszéltől.",
+                "ro": "Mănușile protejează de vântul rece.",
+                "en": "Gloves protect from the cold wind."
+              }
+            },
+            {
+              "name": "Hanging Houses",
+              "tip_5lang": {
+                "de": "Kurzer Stopp für Fotos im klaren Licht.",
+                "hu": "Rövid megálló fotózáshoz a tiszta fényben.",
+                "ro": "Scurtă oprire pentru poze în lumina clară.",
+                "en": "Short stop for photos in the clear light."
+              }
+            },
+            {
+              "name": "Castle District",
+              "tip_5lang": {
+                "de": "Hier oben weht oft ein eisiger Wind.",
+                "hu": "Itt fent gyakran fúj jeges szél.",
+                "ro": "Aici sus bate adesea un vânt ghețos.",
+                "en": "An icy wind often blows up here."
+              }
+            },
+            {
+              "name": "Castle Viewpoint",
+              "tip_5lang": {
+                "de": "Genießen Sie die Sonne, solange sie da ist.",
+                "hu": "Élvezze a napsütést, amíg teheti.",
+                "ro": "Bucurați-vă de soare cât timp este prezent.",
+                "en": "Enjoy the sun while it lasts."
+              }
+            },
+            {
+              "name": "San Pablo Bridge",
+              "tip_5lang": {
+                "de": "Vorsicht vor Eis auf den Metallteilen.",
+                "hu": "Vigyázzon a jégre a fém alkatrészeken.",
+                "ro": "Atenție la gheața de pe părțile metalice.",
+                "en": "Watch out for ice on the metal parts."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Warme Thermo-Handschuhe sind ein Muss.",
+              "Die Abfahrten können extrem kalt sein.",
+              "Achten Sie auf Schattenbereiche mit Glatteis.",
+              "Die Luft ist im Winter besonders klar für Fotos."
+            ],
+            "hu": [
+              "A meleg termokesztyű kötelező.",
+              "A lejtőkön extrém hideg lehet a menetszél.",
+              "Ügyeljen a jeges foltokra az árnyékos részeken.",
+              "A levegő télen különösen tiszta a fotókhoz."
+            ],
+            "ro": [
+              "Mănușile termice sunt obligatorii.",
+              "Coborârile pot fi extrem de reci.",
+              "Atenție la zonele umbrite cu polei.",
+              "Aerul este deosebit de clar iarna pentru poze."
+            ],
+            "en": [
+              "Warm thermal gloves are a must.",
+              "Descents can be extremely cold.",
+              "Watch out for icy patches in shaded areas.",
+              "The air is especially clear for photos in winter."
+            ]
+          }
+        }
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 60.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Plaza Mayor",
+            "hu": "Plaza Mayor",
+            "ro": "Plaza Mayor",
+            "en": "Plaza Mayor"
+          },
+          "coords": [
+            -2.1354,
+            40.0782
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie im Parkhaus Barrio del Castillo.",
+            "hu": "Parkoljon a Barrio del Castillo parkolóházban.",
+            "ro": "Parcați în parcarea Barrio del Castillo.",
+            "en": "Park at the Barrio del Castillo parking garage."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale von Cuenca",
+            "hu": "Cuencai székesegyház",
+            "ro": "Catedrala din Cuenca",
+            "en": "Cuenca Cathedral"
+          },
+          "coords": [
+            -2.1352,
+            40.0784
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:42",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg vom Parkplatz.",
+            "hu": "Rövid séta a parkolótól.",
+            "ro": "Scurtă plimbare de la parcare.",
+            "en": "Short walk from the parking area."
+          }
+        },
+        {
+          "name": {
+            "de": "Hängende Häuser",
+            "hu": "Függőházak",
+            "ro": "Casele Suspendate",
+            "en": "Hanging Houses"
+          },
+          "coords": [
+            -2.1316,
+            40.0776
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:59",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein Muss für jeden Besucher.",
+            "hu": "Minden látogató számára kötelező.",
+            "ro": "O vizită obligatorie pentru oricine.",
+            "en": "A must-see for every visitor."
+          }
+        },
+        {
+          "name": {
+            "de": "Ciudad Encantada",
+            "hu": "Elvarázsolt Város",
+            "ro": "Ciudad Encantada",
+            "en": "Enchanted City"
+          },
+          "coords": [
+            -2.0125,
+            40.2085
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "13:30",
+          "stay_min": 120,
+          "hop_from_prev_min": 91,
+          "hop_from_prev_km": 28.0,
+          "tip_5lang": {
+            "de": "Bizarre Felsformationen im Wald.",
+            "hu": "Bizar sziklaalakzatok az erdőben.",
+            "ro": "Formațiuni stâncoase bizare în pădure.",
+            "en": "Bizarre rock formations in the forest."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirador del Castillo",
+            "hu": "Várkilátó",
+            "ro": "Mirador del Castillo",
+            "en": "Castle Viewpoint"
+          },
+          "coords": [
+            -2.1285,
+            40.0835
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "16:21",
+          "stay_min": 40,
+          "hop_from_prev_min": 91,
+          "hop_from_prev_km": 28.0,
+          "tip_5lang": {
+            "de": "Direkt mit dem Auto erreichbar.",
+            "hu": "Autóval közvetlenül megközelíthető.",
+            "ro": "Accesibil direct cu mașina.",
+            "en": "Directly accessible by car."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Die Auto-Tour verbindet das Beste aus der Stadt mit einem Ausflug in die Natur. Nach einem Vormittag in der historischen Altstadt und bei den Hängenden Häusern fahren Sie in die Berge zur Ciudad Encantada. Dort spazieren Sie zwischen riesigen Felsen, die wie Pilze oder Schiffe aussehen. Zum Abschluss kehren Sie zum Mirador del Castillo zurück, um den Blick auf die Stadt bei Sonnenuntergang zu genießen.",
+        "hu": "Az autós túra ötvözi a város legjobbjait a természettel. A történelmi óvárosban és a Függőházaknál töltött délelőtt után a hegyekbe autózunk az Elvarázsolt Városba (Ciudad Encantada). Itt hatalmas, gomba vagy hajó alakú sziklák között sétálhat. Befejezésül térjen vissza a Mirador del Castillóhoz, hogy naplementekor gyönyörködjön a városban.",
+        "ro": "Turul cu mașina combină ce e mai bun din oraș cu o excursie în natură. După o dimineață în centrul istoric și la Casele Suspendate, mergeți în munți la Ciudad Encantada. Acolo vă plimbați printre stânci uriașe care arată ca niște ciuperci sau nave. La final, reveniți la Mirador del Castillo pentru a vă bucura de vederea asupra orașului la apus.",
+        "en": "The car tour combines the best of the city with a trip into nature. After a morning in the historic old town and at the Hanging Houses, drive into the mountains to the Enchanted City. There, you'll walk among giant rocks shaped like mushrooms or ships. Finally, return to the Mirador del Castillo to enjoy the view of the city at sunset."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Alajú",
+            "tip": "Perfekter Snack für unterwegs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Alajú",
+            "tip": "Tökéletes útravaló édesség."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Alajú",
+            "tip": "Gustarea perfectă pentru drum."
+          }
+        ],
+        "en": [
+          {
+            "name": "Alajú",
+            "tip": "Perfect snack for the road."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Serranía de Cuenca",
+            "tip": "Weite Berglandschaften genießen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Serranía de Cuenca",
+            "tip": "Élvezze a tágas hegyi tájat.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Serranía de Cuenca",
+            "tip": "Bucurați-vă de peisajele montane vaste.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Serranía de Cuenca",
+            "tip": "Enjoy the vast mountain landscapes.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Käse",
+            "tip": "Würziger Schafskäse aus der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi sajt",
+            "tip": "Pikáns juhsajt a régióból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brânză locală",
+            "tip": "Brânză de oaie aromată din regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Cheese",
+            "tip": "Spicy sheep cheese from the region."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Fahren Sie vorsichtig auf den Bergstraßen.",
+          "In der Altstadt ist das Parken schwierig, nutzen Sie Parkhäuser.",
+          "Die Ciudad Encantada kostet Eintritt.",
+          "Tanken Sie vor dem Ausflug in die Berge."
+        ],
+        "hu": [
+          "Vezessen óvatosan a hegyi utakon.",
+          "Az óvárosban nehéz a parkolás, használja a parkolóházakat.",
+          "A Ciudad Encantada belépőköteles.",
+          "Tankoljon fel a hegyi kirándulás előtt."
+        ],
+        "ro": [
+          "Conduceți cu atenție pe drumurile de munte.",
+          "Parcarea în centrul vechi este dificilă, folosiți parcările supraetajate.",
+          "Ciudad Encantada are taxă de intrare.",
+          "Alimentați cu combustibil înainte de a pleca la munte."
+        ],
+        "en": [
+          "Drive carefully on the mountain roads.",
+          "Parking is difficult in the old town; use parking garages.",
+          "There is an entrance fee for the Enchanted City.",
+          "Refuel before heading into the mountains."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Die Auto-Tour verbindet das Beste aus der Stadt mit einem Ausflug in die Natur. Nach einem Vormittag in der historischen Altstadt und bei den Hängenden Häusern fahren Sie in die Berge zur Ciudad Encantada. Dort spazieren Sie zwischen riesigen Felsen, die wie Pilze oder Schiffe aussehen. Zum Abschluss kehren Sie zum Mirador del Castillo zurück, um den Blick auf die Stadt bei Sonnenuntergang zu genießen.",
+            "hu": "Az autós túra ötvözi a város legjobbjait a természettel. A történelmi óvárosban és a Függőházaknál töltött délelőtt után a hegyekbe autózunk az Elvarázsolt Városba (Ciudad Encantada). Itt hatalmas, gomba vagy hajó alakú sziklák között sétálhat. Befejezésül térjen vissza a Mirador del Castillóhoz, hogy naplementekor gyönyörködjön a városban.",
+            "ro": "Turul cu mașina combină ce e mai bun din oraș cu o excursie în natură. După o dimineață în centrul istoric și la Casele Suspendate, mergeți în munți la Ciudad Encantada. Acolo vă plimbați printre stânci uriașe care arată ca niște ciuperci sau nave. La final, reveniți la Mirador del Castillo pentru a vă bucura de vederea asupra orașului la apus.",
+            "en": "The car tour combines the best of the city with a trip into nature. After a morning in the historic old town and at the Hanging Houses, drive into the mountains to the Enchanted City. There, you'll walk among giant rocks shaped like mushrooms or ships. Finally, return to the Mirador del Castillo to enjoy the view of the city at sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Plaza Mayor",
+                "hu": "Plaza Mayor",
+                "ro": "Plaza Mayor",
+                "en": "Plaza Mayor"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie im Parkhaus Barrio del Castillo.",
+                "hu": "Parkoljon a Barrio del Castillo parkolóházban.",
+                "ro": "Parcați în parcarea Barrio del Castillo.",
+                "en": "Park at the Barrio del Castillo parking garage."
+              }
+            },
+            {
+              "name": {
+                "de": "Kathedrale von Cuenca",
+                "hu": "Cuencai székesegyház",
+                "ro": "Catedrala din Cuenca",
+                "en": "Cuenca Cathedral"
+              },
+              "tip_5lang": {
+                "de": "Kurzer Fußweg vom Parkplatz.",
+                "hu": "Rövid séta a parkolótól.",
+                "ro": "Scurtă plimbare de la parcare.",
+                "en": "Short walk from the parking area."
+              }
+            },
+            {
+              "name": {
+                "de": "Hängende Häuser",
+                "hu": "Függőházak",
+                "ro": "Casele Suspendate",
+                "en": "Hanging Houses"
+              },
+              "tip_5lang": {
+                "de": "Ein Muss für jeden Besucher.",
+                "hu": "Minden látogató számára kötelező.",
+                "ro": "O vizită obligatorie pentru oricine.",
+                "en": "A must-see for every visitor."
+              }
+            },
+            {
+              "name": {
+                "de": "Ciudad Encantada",
+                "hu": "Elvarázsolt Város",
+                "ro": "Ciudad Encantada",
+                "en": "Enchanted City"
+              },
+              "tip_5lang": {
+                "de": "Bizarre Felsformationen im Wald.",
+                "hu": "Bizar sziklaalakzatok az erdőben.",
+                "ro": "Formațiuni stâncoase bizare în pădure.",
+                "en": "Bizarre rock formations in the forest."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador del Castillo",
+                "hu": "Várkilátó",
+                "ro": "Mirador del Castillo",
+                "en": "Castle Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Direkt mit dem Auto erreichbar.",
+                "hu": "Autóval közvetlenül megközelíthető.",
+                "ro": "Accesibil direct cu mașina.",
+                "en": "Directly accessible by car."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Alajú",
+                "tip": "Perfekter Snack für unterwegs."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Alajú",
+                "tip": "Tökéletes útravaló édesség."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Alajú",
+                "tip": "Gustarea perfectă pentru drum."
+              }
+            ],
+            "en": [
+              {
+                "name": "Alajú",
+                "tip": "Perfect snack for the road."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Serranía de Cuenca",
+                "tip": "Weite Berglandschaften genießen.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Serranía de Cuenca",
+                "tip": "Élvezze a tágas hegyi tájat.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Serranía de Cuenca",
+                "tip": "Bucurați-vă de peisajele montane vaste.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Serranía de Cuenca",
+                "tip": "Enjoy the vast mountain landscapes.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Lokaler Käse",
+                "tip": "Würziger Schafskäse aus der Region."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Helyi sajt",
+                "tip": "Pikáns juhsajt a régióból."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Brânză locală",
+                "tip": "Brânză de oaie aromată din regiune."
+              }
+            ],
+            "en": [
+              {
+                "name": "Local Cheese",
+                "tip": "Spicy sheep cheese from the region."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Fahren Sie vorsichtig auf den Bergstraßen.",
+              "In der Altstadt ist das Parken schwierig, nutzen Sie Parkhäuser.",
+              "Die Ciudad Encantada kostet Eintritt.",
+              "Tanken Sie vor dem Ausflug in die Berge."
+            ],
+            "hu": [
+              "Vezessen óvatosan a hegyi utakon.",
+              "Az óvárosban nehéz a parkolás, használja a parkolóházakat.",
+              "A Ciudad Encantada belépőköteles.",
+              "Tankoljon fel a hegyi kirándulás előtt."
+            ],
+            "ro": [
+              "Conduceți cu atenție pe drumurile de munte.",
+              "Parcarea în centrul vechi este dificilă, folosiți parcările supraetajate.",
+              "Ciudad Encantada are taxă de intrare.",
+              "Alimentați cu combustibil înainte de a pleca la munte."
+            ],
+            "en": [
+              "Drive carefully on the mountain roads.",
+              "Parking is difficult in the old town; use parking garages.",
+              "There is an entrance fee for the Enchanted City.",
+              "Refuel before heading into the mountains."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist Cuenca auch bei Regen gut zu erkunden. Nach dem Besuch der Altstadt fahren Sie zur Ciudad Encantada. Die bizarren Felsformationen wirken im Regen und Nebel wie aus einer anderen Welt. Die Fahrt durch das Júcar-Tal bietet dramatische Ausblicke auf wasserführende Felsen. Beenden Sie den Tag an den Aussichtspunkten, wo Sie die Stadt bequem vom trockenen Auto aus sehen können.",
+            "hu": "Autóval Cuenca esőben is kényelmesen felfedezhető. Az óváros után irány a Ciudad Encantada (Elvarázsolt Város). A bizarr sziklaalakzatok ködben és esőben olyanok, mintha egy másik világból jöttek volna. A Júcar-völgyben vezető út drámai kilátást nyújt a vizes sziklákra. A napot a kilátópontokon zárja, ahol a száraz autóból csodálhatja a várost.",
+            "ro": "Cu mașina, Cuenca poate fi explorată confortabil chiar și pe ploaie. După orașul vechi, mergeți la Ciudad Encantada. Formațiunile stâncoase bizare par din altă lume în ploaie și ceață. Drumul prin valea Júcar oferă vederi dramatice. Încheiați ziua la punctele de belvedere, admirând orașul din confortul mașinii uscate.",
+            "en": "By car, Cuenca is easy to explore even in the rain. After visiting the old town, drive to the Enchanted City (Ciudad Encantada). The bizarre rock formations look otherworldly in the rain and mist. The drive through the Júcar valley offers dramatic views of the weeping cliffs. End the day at the viewpoints, where you can see the city comfortably from your dry car."
+          },
+          "stops": [
+            {
+              "name": "Plaza Mayor",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Parkhaus in der Nähe.",
+                "hu": "Használja a közeli parkolóházat.",
+                "ro": "Folosiți parcarea subterană din apropiere.",
+                "en": "Use the parking garage nearby."
+              }
+            },
+            {
+              "name": "Cuenca Cathedral",
+              "tip_5lang": {
+                "de": "Parken Sie direkt oben am Schlossplatz.",
+                "hu": "Parkoljon közvetlenül fent a várnál.",
+                "ro": "Parcați direct sus la castel.",
+                "en": "Park directly at the castle square."
+              }
+            },
+            {
+              "name": "Hanging Houses",
+              "tip_5lang": {
+                "de": "Kurzer Ausstieg für ein schnelles Foto.",
+                "hu": "Szálljon ki egy gyors fotó erejéig.",
+                "ro": "Coborâți scurt pentru o poză rapidă.",
+                "en": "Hop out for a quick photo."
+              }
+            },
+            {
+              "name": "Enchanted City",
+              "tip_5lang": {
+                "de": "Der Rundweg kann matschig sein.",
+                "hu": "A körút sáros lehet az esőben.",
+                "ro": "Traseul poate fi noroios.",
+                "en": "The walking loop can be muddy."
+              }
+            },
+            {
+              "name": "Castle Viewpoint",
+              "tip_5lang": {
+                "de": "Perfekter Blick direkt aus dem Autofenster.",
+                "hu": "Tökéletes kilátás az autóablakból.",
+                "ro": "Vedere perfectă direct de la fereastră.",
+                "en": "Perfect view directly from the car window."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vorsicht vor Aquaplaning auf der CM-2104.",
+              "Die Sicht in der Ciudad Encantada kann gering sein.",
+              "Nutzen Sie die Parkplätze in der Oberstadt.",
+              "Hüllen Sie sich für den Spaziergang in Regenzeug."
+            ],
+            "hu": [
+              "Vigyázzon a vízátfolyásokra a CM-2104 úton.",
+              "A látótávolság korlátozott lehet az Elvarázsolt Városban.",
+              "Használja a felsővárosi parkolókat.",
+              "Vegyük fel az esőkabátot a rövid sétákhoz."
+            ],
+            "ro": [
+              "Atenție la acvaplanare pe drumul CM-2104.",
+              "Vizibilitatea poate fi redusă la Ciudad Encantada.",
+              "Folosiți parcările din orașul de sus.",
+              "Purtați haine de ploaie pentru scurte plimbări."
+            ],
+            "en": [
+              "Watch out for aquaplaning on the CM-2104 road.",
+              "Visibility can be low in the Enchanted City.",
+              "Use the parking lots in the upper town.",
+              "Wear rain gear for the short walks outside."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliche Autofahrten rund um Cuenca bieten atemberaubende Panoramen verschneiter Kalksteinfelsen. Besuchen Sie die Altstadt am Morgen und fahren Sie dann zur Ciudad Encantada, wo die Felsen oft mit Raureif bedeckt sind. Die Straßen in den Bergen können tückisch sein, bieten aber Einsamkeit und Stille. Am späten Nachmittag ist der Castle Viewpoint der beste Ort, um das Alpenglühen auf den Felsen zu beobachten, bevor Sie die Heizung im Auto wieder aufdrehen.",
+            "hu": "A téli autózás Cuenca körül lélegzetelállító panorámát nyújt a havas mészkősziklákra. Látogassa meg az óvárost reggel, majd irány a Ciudad Encantada, ahol a sziklákat gyakran zúzmara fedi. A hegyi utak trükkösek lehetnek, de cserébe csendet és magányt kínálnak. Késő délután a vár kilátópontja a legjobb hely a naplemente színeinek megcsodálásához.",
+            "ro": "Plimbările de iarnă cu mașina în jurul Cuencăi oferă panorame uluitoare ale stâncilor de calcar înzăpezite. Vizitați orașul vechi dimineața, apoi mergeți la Ciudad Encantada, unde stâncile sunt adesea acoperite de brumă. Drumurile montane pot fi înșelătoare. După-amiaza târziu, belvederea castelului este cel mai bun loc pentru a vedea culorile apusului.",
+            "en": "Winter drives around Cuenca offer breathtaking panoramas of snow-dusted limestone cliffs. Visit the old town in the morning, then head to the Enchanted City, where the rocks are often covered in frost. The mountain roads can be tricky but offer solitude and silence. In the late afternoon, the Castle Viewpoint is the best spot to watch the sunset glow on the rocks."
+          },
+          "stops": [
+            {
+              "name": "Plaza Mayor",
+              "tip_5lang": {
+                "de": "Parkplätze sind im Winter leichter zu finden.",
+                "hu": "Télen könnyebb parkolóhelyet találni.",
+                "ro": "Parcările sunt mai ușor de găsit iarna.",
+                "en": "Parking is easier to find in winter."
+              }
+            },
+            {
+              "name": "Cuenca Cathedral",
+              "tip_5lang": {
+                "de": "Vorsicht beim Gehen auf Kopfsteinpflaster-Eis.",
+                "hu": "Vigyázzon a jégre a macskaköveken.",
+                "ro": "Atenție la gheața de pe pavaj.",
+                "en": "Watch out for ice on the cobblestones."
+              }
+            },
+            {
+              "name": "Hanging Houses",
+              "tip_5lang": {
+                "de": "Die Fassaden glühen im tiefen Winterlicht.",
+                "hu": "A homlokzatok ragyognak a téli fényben.",
+                "ro": "Fațadele strălucesc în lumina joasă.",
+                "en": "The facades glow in the low winter light."
+              }
+            },
+            {
+              "name": "Enchanted City",
+              "tip_5lang": {
+                "de": "Prüfen Sie vorher die Straßenbedingungen.",
+                "hu": "Ellenőrizze az útviszonyokat indulás előtt.",
+                "ro": "Verificați starea drumului înainte de plecare.",
+                "en": "Check road conditions before heading out."
+              }
+            },
+            {
+              "name": "Castle Viewpoint",
+              "tip_5lang": {
+                "de": "Genießen Sie die Aussicht bei laufender Heizung.",
+                "hu": "Élvezze a kilátást járó fűtés mellett.",
+                "ro": "Admirați vederea cu încălzirea pornită.",
+                "en": "Enjoy the view with the heater running."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind in dieser Region Pflicht.",
+              "In den Bergen kann es plötzlich schneien.",
+              "Die Ciudad Encantada schließt im Winter früher.",
+              "Nehmen Sie warme Decken für Stopps mit."
+            ],
+            "hu": [
+              "Téli gumi kötelező ebben a régióban.",
+              "A hegyekben hirtelen eshet a hó.",
+              "Az Elvarázsolt Város télen korábban zár.",
+              "Vigyen meleg takarót a megállókhoz."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii aici.",
+              "Poate ninge brusc în zonele montane.",
+              "Ciudad Encantada se închide mai devreme.",
+              "Luați pături calde pentru opriri."
+            ],
+            "en": [
+              "Winter tires are mandatory in this region.",
+              "It can snow suddenly in the mountains.",
+              "The Enchanted City closes earlier in winter.",
+              "Take warm blankets for stops."
+            ]
+          }
+        }
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 4.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Plaza Mayor",
+            "hu": "Plaza Mayor",
+            "ro": "Plaza Mayor",
+            "en": "Plaza Mayor"
+          },
+          "coords": [
+            -2.1354,
+            40.0782
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Die Linie L1 bringt Sie direkt hierher.",
+            "hu": "Az L1-es busz közvetlenül ide hozza.",
+            "ro": "Linia L1 vă aduce direct aici.",
+            "en": "Bus line L1 brings you directly here."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale von Cuenca",
+            "hu": "Cuencai székesegyház",
+            "ro": "Catedrala din Cuenca",
+            "en": "Cuenca Cathedral"
+          },
+          "coords": [
+            -2.1352,
+            40.0784
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:42",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Nur wenige Schritte von der Bushaltestelle.",
+            "hu": "Csak pár lépés a buszmegállótól.",
+            "ro": "La doar câțiva pași de stația de autobuz.",
+            "en": "Just a few steps from the bus stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Hängende Häuser",
+            "hu": "Függőházak",
+            "ro": "Casele Suspendate",
+            "en": "Hanging Houses"
+          },
+          "coords": [
+            -2.1316,
+            40.0776
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:59",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Die Hauptattraktion der Oberstadt.",
+            "hu": "A felsőváros fő látványossága.",
+            "ro": "Principala atracție a orașului de sus.",
+            "en": "The main attraction of the upper town."
+          }
+        },
+        {
+          "name": {
+            "de": "Puente de San Pablo",
+            "hu": "Szent Pál-híd",
+            "ro": "Podul San Pablo",
+            "en": "San Pablo Bridge"
+          },
+          "coords": [
+            -2.1305,
+            40.0772
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "12:01",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Spaziergang über die Schlucht.",
+            "hu": "Séta a szurdok felett.",
+            "ro": "O plimbare peste defileu.",
+            "en": "A walk across the gorge."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre de Mangana",
+            "hu": "Mangana-torony",
+            "ro": "Turnul Mangana",
+            "en": "Mangana Tower"
+          },
+          "coords": [
+            -2.1376,
+            40.0778
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:54",
+          "stay_min": 30,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Nutzen Sie den Bus für den Anstieg.",
+            "hu": "Használja a buszt az emelkedőhöz.",
+            "ro": "Folosiți autobuzul pentru urcare.",
+            "en": "Use the bus for the uphill sections."
+          }
+        },
+        {
+          "name": {
+            "de": "Barrio del Castillo",
+            "hu": "Várnegyed",
+            "ro": "Barrio del Castillo",
+            "en": "Castle District"
+          },
+          "coords": [
+            -2.1288,
+            40.0825
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "13:38",
+          "stay_min": 80,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Endstation der Linie L1.",
+            "hu": "Az L1-es busz végállomása.",
+            "ro": "Capătul de linie pentru L1.",
+            "en": "Terminus of bus line L1."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Touristenbus L1 erreichen Sie bequem alle wichtigen Punkte der Oberstadt. Die Route beginnt auf der Plaza Mayor und führt vorbei an der Kathedrale und den Hängenden Häusern. Nachdem Sie die spektakuläre San-Pablo-Brücke überquert haben, bringt Sie der Bus hinauf zum Vierteil am Schloss (Barrio del Castillo), wo Sie gemütlich durch die alten Gassen schlendern können, ohne die steilen Anstiege zu Fuß bewältigen zu müssen.",
+        "hu": "Az L1-es turista busszal kényelmesen elérheti a felsőváros összes fontos pontját. Az útvonal a Plaza Mayoron kezdődik, érintve a katedrálist és a Függőházakat. Miután átkelt a látványos Szent Pál-hídon, a busz felviszi Önt a Várnegyedbe, ahol kényelmesen sétálhat a régi utcákban, elkerülve a meredek gyalogos emelkedőket.",
+        "ro": "Cu autobuzul turistic L1 ajungeți confortabil la toate punctele importante din orașul de sus. Traseul începe în Plaza Mayor și trece pe lângă catedrală și Casele Suspendate. După ce traversați spectaculosul pod San Pablo, autobuzul vă duce sus în cartierul castelului (Barrio del Castillo), unde vă puteți plimba liniștit prin străzile vechi fără a depune efortul urcării pe jos.",
+        "en": "With the L1 tourist bus, you can easily reach all the major points of the upper town. The route starts at Plaza Mayor, passing the cathedral and the Hanging Houses. After crossing the spectacular San Pablo Bridge, the bus takes you up to the Castle District, where you can stroll through the ancient streets without having to tackle the steep climbs on foot."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Resoli",
+            "tip": "Lokaler Likör mit Kaffee und Gewürzen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Resoli",
+            "tip": "Helyi likőr kávéval és fűszerekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Resoli",
+            "tip": "Lichior local cu cafea și mirodenii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Resoli",
+            "tip": "Local liqueur with coffee and spices."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parador-Terrasse",
+            "tip": "Ruhiger Blick auf die Hängenden Häuser.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parador terasz",
+            "tip": "Csendes kilátás a Függőházakra.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Terasa Parador",
+            "tip": "Vedere liniștită spre Casele Suspendate.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parador Terrace",
+            "tip": "Quiet view of the Hanging Houses.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirläden an der Plaza Mayor",
+            "tip": "Kleine Nachbildungen der Hängenden Häuser."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ajándékboltok a Plaza Mayoron",
+            "tip": "A Függőházak kicsinyített másai."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de suveniruri în Plaza Mayor",
+            "tip": "Mici replici ale Caselor Suspendate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Souvenir Shops at Plaza Mayor",
+            "tip": "Small replicas of the Hanging Houses."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Buslinie L1 fährt alle 30-60 Minuten.",
+          "Kaufen Sie das Ticket direkt beim Fahrer.",
+          "Die Busse sind klein, um durch die Gassen zu passen.",
+          "An Wochenenden ist der Bus oft voll."
+        ],
+        "hu": [
+          "Az L1-es busz 30-60 percenként közlekedik.",
+          "A jegyet közvetlenül a vezetőnél vásárolja meg.",
+          "A buszok kicsik, hogy elférjenek a szűk utcákban.",
+          "Hétvégén a busz gyakran zsúfolt."
+        ],
+        "ro": [
+          "Linia L1 circulă la fiecare 30-60 de minute.",
+          "Cumpărați biletul direct de la șofer.",
+          "Autobuzele sunt mici pentru a încăpea pe străduțe.",
+          "În weekend autobuzul este adesea plin."
+        ],
+        "en": [
+          "Bus line L1 runs every 30-60 minutes.",
+          "Buy your ticket directly from the driver.",
+          "The buses are small to navigate the narrow streets.",
+          "Buses are often crowded on weekends."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mit dem Touristenbus L1 erreichen Sie bequem alle wichtigen Punkte der Oberstadt. Die Route beginnt auf der Plaza Mayor und führt vorbei an der Kathedrale und den Hängenden Häusern. Nachdem Sie die spektakuläre San-Pablo-Brücke überquert haben, bringt Sie der Bus hinauf zum Vierteil am Schloss (Barrio del Castillo), wo Sie gemütlich durch die alten Gassen schlendern können, ohne die steilen Anstiege zu Fuß bewältigen zu müssen.",
+            "hu": "Az L1-es turista busszal kényelmesen elérheti a felsőváros összes fontos pontját. Az útvonal a Plaza Mayoron kezdődik, érintve a katedrálist és a Függőházakat. Miután átkelt a látványos Szent Pál-hídon, a busz felviszi Önt a Várnegyedbe, ahol kényelmesen sétálhat a régi utcákban, elkerülve a meredek gyalogos emelkedőket.",
+            "ro": "Cu autobuzul turistic L1 ajungeți confortabil la toate punctele importante din orașul de sus. Traseul începe în Plaza Mayor și trece pe lângă catedrală și Casele Suspendate. După ce traversați spectaculosul pod San Pablo, autobuzul vă duce sus în cartierul castelului (Barrio del Castillo), unde vă puteți plimba liniștit prin străzile vechi fără a depune efortul urcării pe jos.",
+            "en": "With the L1 tourist bus, you can easily reach all the major points of the upper town. The route starts at Plaza Mayor, passing the cathedral and the Hanging Houses. After crossing the spectacular San Pablo Bridge, the bus takes you up to the Castle District, where you can stroll through the ancient streets without having to tackle the steep climbs on foot."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Plaza Mayor",
+                "hu": "Plaza Mayor",
+                "ro": "Plaza Mayor",
+                "en": "Plaza Mayor"
+              },
+              "tip_5lang": {
+                "de": "Die Linie L1 bringt Sie direkt hierher.",
+                "hu": "Az L1-es busz közvetlenül ide hozza.",
+                "ro": "Linia L1 vă aduce direct aici.",
+                "en": "Bus line L1 brings you directly here."
+              }
+            },
+            {
+              "name": {
+                "de": "Kathedrale von Cuenca",
+                "hu": "Cuencai székesegyház",
+                "ro": "Catedrala din Cuenca",
+                "en": "Cuenca Cathedral"
+              },
+              "tip_5lang": {
+                "de": "Nur wenige Schritte von der Bushaltestelle.",
+                "hu": "Csak pár lépés a buszmegállótól.",
+                "ro": "La doar câțiva pași de stația de autobuz.",
+                "en": "Just a few steps from the bus stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Hängende Häuser",
+                "hu": "Függőházak",
+                "ro": "Casele Suspendate",
+                "en": "Hanging Houses"
+              },
+              "tip_5lang": {
+                "de": "Die Hauptattraktion der Oberstadt.",
+                "hu": "A felsőváros fő látványossága.",
+                "ro": "Principala atracție a orașului de sus.",
+                "en": "The main attraction of the upper town."
+              }
+            },
+            {
+              "name": {
+                "de": "Puente de San Pablo",
+                "hu": "Szent Pál-híd",
+                "ro": "Podul San Pablo",
+                "en": "San Pablo Bridge"
+              },
+              "tip_5lang": {
+                "de": "Spaziergang über die Schlucht.",
+                "hu": "Séta a szurdok felett.",
+                "ro": "O plimbare peste defileu.",
+                "en": "A walk across the gorge."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre de Mangana",
+                "hu": "Mangana-torony",
+                "ro": "Turnul Mangana",
+                "en": "Mangana Tower"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Bus für den Anstieg.",
+                "hu": "Használja a buszt az emelkedőhöz.",
+                "ro": "Folosiți autobuzul pentru urcare.",
+                "en": "Use the bus for the uphill sections."
+              }
+            },
+            {
+              "name": {
+                "de": "Barrio del Castillo",
+                "hu": "Várnegyed",
+                "ro": "Barrio del Castillo",
+                "en": "Castle District"
+              },
+              "tip_5lang": {
+                "de": "Endstation der Linie L1.",
+                "hu": "Az L1-es busz végállomása.",
+                "ro": "Capătul de linie pentru L1.",
+                "en": "Terminus of bus line L1."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Resoli",
+                "tip": "Lokaler Likör mit Kaffee und Gewürzen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Resoli",
+                "tip": "Helyi likőr kávéval és fűszerekkel."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Resoli",
+                "tip": "Lichior local cu cafea și mirodenii."
+              }
+            ],
+            "en": [
+              {
+                "name": "Resoli",
+                "tip": "Local liqueur with coffee and spices."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Parador-Terrasse",
+                "tip": "Ruhiger Blick auf die Hängenden Häuser.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Parador terasz",
+                "tip": "Csendes kilátás a Függőházakra.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Terasa Parador",
+                "tip": "Vedere liniștită spre Casele Suspendate.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Parador Terrace",
+                "tip": "Quiet view of the Hanging Houses.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Souvenirläden an der Plaza Mayor",
+                "tip": "Kleine Nachbildungen der Hängenden Häuser."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Ajándékboltok a Plaza Mayoron",
+                "tip": "A Függőházak kicsinyített másai."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Magazine de suveniruri în Plaza Mayor",
+                "tip": "Mici replici ale Caselor Suspendate."
+              }
+            ],
+            "en": [
+              {
+                "name": "Souvenir Shops at Plaza Mayor",
+                "tip": "Small replicas of the Hanging Houses."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Die Buslinie L1 fährt alle 30-60 Minuten.",
+              "Kaufen Sie das Ticket direkt beim Fahrer.",
+              "Die Busse sind klein, um durch die Gassen zu passen.",
+              "An Wochenenden ist der Bus oft voll."
+            ],
+            "hu": [
+              "Az L1-es busz 30-60 percenként közlekedik.",
+              "A jegyet közvetlenül a vezetőnél vásárolja meg.",
+              "A buszok kicsik, hogy elférjenek a szűk utcákban.",
+              "Hétvégén a busz gyakran zsúfolt."
+            ],
+            "ro": [
+              "Linia L1 circulă la fiecare 30-60 de minute.",
+              "Cumpărați biletul direct de la șofer.",
+              "Autobuzele sunt mici pentru a încăpea pe străduțe.",
+              "În weekend autobuzul este adesea plin."
+            ],
+            "en": [
+              "Bus line L1 runs every 30-60 minutes.",
+              "Buy your ticket directly from the driver.",
+              "The buses are small to navigate the narrow streets.",
+              "Buses are often crowded on weekends."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie den L1-Bus, um trocken in die Oberstadt von Cuenca zu gelangen. Starten Sie an der Plaza Mayor und besuchen Sie die Kathedrale als langen Indoor-Stopp. Der Bus bringt Sie bequem von den Hängenden Häusern zur Mangana-Turm-Gegend. Das Schlossviertel ist am besten per Transit erreichbar, da die steilen Gassen im Regen sehr glatt sein können. Genießen Sie die Fahrt mit Blick auf die nasse Schlucht.",
+            "hu": "Használja az L1-es buszt, hogy szárazon jusson el Cuenca felsővárosába. Kezdjen a Plaza Mayoron, és a székesegyházat válassza hosszú benti programnak. A busz kényelmesen szállítja a Függőházaktól a Mangana-torony környékére. A várnegyedet legérdemesebb busszal megközelíteni, mert a meredek utcák esőben csúszósak. Élvezze az utazást a vizes szurdokra nyíló kilátással.",
+            "ro": "Folosiți autobuzul L1 pentru a ajunge uscat în orașul de sus. Începeți în Plaza Mayor și vizitați Catedrala ca oprire interioară. Autobuzul vă duce confortabil de la Casele Atârnate spre Turnul Mangana. Cartierul castelului este cel mai bine accesibil cu transportul public, deoarece străzile sunt alunecoase pe ploaie.",
+            "en": "Use the L1 bus to reach Cuenca's upper town while staying dry. Start at Plaza Mayor and visit the Cathedral for a long indoor break. The bus conveniently takes you from the Hanging Houses to the Mangana Tower area. The Castle district is best reached by transit as the steep alleys can be very slippery in the rain. Enjoy the ride with views of the wet gorge."
+          },
+          "stops": [
+            {
+              "name": "Plaza Mayor",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle bietet kaum Regenschutz.",
+                "hu": "A buszmegálló alig nyújt védelmet az esőtől.",
+                "ro": "Stația de autobuz oferă puțin adăpost.",
+                "en": "The bus stop offers little rain shelter."
+              }
+            },
+            {
+              "name": "Cuenca Cathedral",
+              "tip_5lang": {
+                "de": "Nur ein kurzer Weg vom Bus ins Trockene.",
+                "hu": "Csak rövid út a busztól a fedett részig.",
+                "ro": "Doar un drum scurt de la autobuz la adăpost.",
+                "en": "Only a short walk from the bus to shelter."
+              }
+            },
+            {
+              "name": "Hanging Houses",
+              "tip_5lang": {
+                "de": "Busse fahren hier alle 30 Minuten.",
+                "hu": "A buszok itt 30 percenként járnak.",
+                "ro": "Autobuzele trec pe aici la fiecare 30 minute.",
+                "en": "Buses run every 30 minutes here."
+              }
+            },
+            {
+              "name": "San Pablo Bridge",
+              "tip_5lang": {
+                "de": "Gehen Sie vorsichtig zur Haltestelle zurück.",
+                "hu": "Óvatosan sétáljon vissza a megállóhoz.",
+                "ro": "Mergeți cu grijă înapoi la stație.",
+                "en": "Walk carefully back to the bus stop."
+              }
+            },
+            {
+              "name": "Mangana Tower",
+              "tip_5lang": {
+                "de": "Der Bus hält direkt in der Nähe des Turms.",
+                "hu": "A busz közvetlenül a torony közelében áll meg.",
+                "ro": "Autobuzul oprește chiar lângă turn.",
+                "en": "The bus stops right near the tower."
+              }
+            },
+            {
+              "name": "Castle District",
+              "tip_5lang": {
+                "de": "Die Endstation der Linie 1 ist hier oben.",
+                "hu": "Az 1-es vonal végállomása itt van fent.",
+                "ro": "Capătul liniei 1 este aici sus.",
+                "en": "The terminus of line 1 is up here."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Holen Sie sich ein Tagesticket beim Fahrer.",
+              "Die Linie 1 verbindet den Bahnhof mit dem Schloss.",
+              "Rechnen Sie mit Verspätungen bei starkem Regen.",
+              "Fensterplätze bieten tolle Panorama-Ausblicke."
+            ],
+            "hu": [
+              "Vásároljon napijegyet a sofőrnél.",
+              "Az 1-es vonal összeköti a vasútállomást a várral.",
+              "Számoljon némi késéssel heves esőben.",
+              "Az ablak melletti helyekről szép a panoráma."
+            ],
+            "ro": [
+              "Cumpărați un bilet de o zi de la șofer.",
+              "Linia 1 face legătura între gară și castel.",
+              "Așteptați-vă la întârzieri pe ploaie torențială.",
+              "Locurile de la fereastră oferă vederi panoramice."
+            ],
+            "en": [
+              "Get a day ticket from the driver.",
+              "Line 1 connects the train station with the castle.",
+              "Expect some delays during heavy rain.",
+              "Window seats offer great panoramic views."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter ist der öffentliche Nahverkehr der wärmste Weg, Cuencas Höhen zu erklimmen. Starten Sie an der Plaza Mayor und nutzen Sie die Kathedrale als Aufwärmstation. Die Busfahrt bietet Schutz vor dem beißenden Gebirgswind auf dem Weg zum Mangana-Turm. Im Schlossviertel angekommen, können Sie die Wintersonne genießen, bevor der Bus Sie pünktlich zum Sonnenuntergang wieder nach unten bringt. Eine stressfreie Art, Cuenca in der Kälte zu erleben.",
+            "hu": "Télen a tömegközlekedés a legmelegebb módja Cuenca magaslatainak meghódításának. Kezdjen a Plaza Mayoron, és használja a székesegyházat melegedőként. A buszozás védelmet nyújt a csípős hegyi szél ellen a Mangana-torony felé. A várnegyedbe érve élvezze a téli napsütést, mielőtt a busz visszaviszi a városba a naplemente idején. Stresszmentes módja a hideg Cuenca felfedezésének.",
+            "ro": "Iarna, transportul public este cea mai călduroasă cale de a urca pe culmile Cuencăi. Începeți în Plaza Mayor și folosiți Catedrala ca punct de încălzire. Autobuzul vă protejează de vântul tăios de munte spre Turnul Mangana. Odată ajunși în cartierul castelului, bucurați-vă de soare înainte ca autobuzul să vă ducă înapoi la apus.",
+            "en": "In winter, public transit is the warmest way to climb Cuenca's heights. Start at Plaza Mayor and use the Cathedral as a warming station. The bus ride offers shelter from the biting mountain wind on your way to Mangana Tower. Once in the Castle district, enjoy the winter sun before the bus takes you back down right at sunset. A stress-free way to experience cold Cuenca."
+          },
+          "stops": [
+            {
+              "name": "Plaza Mayor",
+              "tip_5lang": {
+                "de": "Warten Sie in einem Café bis der Bus kommt.",
+                "hu": "Várjon egy kávézóban a busz érkezéséig.",
+                "ro": "Așteptați într-o cafenea până vine autobuzul.",
+                "en": "Wait in a cafe until the bus arrives."
+              }
+            },
+            {
+              "name": "Cuenca Cathedral",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Innenraum zum Aufwärmen.",
+                "hu": "Használja a belső teret melegedésre.",
+                "ro": "Folosiți interiorul pentru a vă încălzi.",
+                "en": "Use the interior to warm up."
+              }
+            },
+            {
+              "name": "Hanging Houses",
+              "tip_5lang": {
+                "de": "Das Licht am Nachmittag ist herrlich.",
+                "hu": "A délutáni fények gyönyörűek.",
+                "ro": "Luminile de după-amiază sunt superbe.",
+                "en": "The afternoon lights are gorgeous."
+              }
+            },
+            {
+              "name": "San Pablo Bridge",
+              "tip_5lang": {
+                "de": "Achten Sie auf die glatte Metallplatte.",
+                "hu": "Ügyeljen a csúszós fémlapokra.",
+                "ro": "Atenție la plăcile metalice alunecoase.",
+                "en": "Watch out for slippery metal plates."
+              }
+            },
+            {
+              "name": "Mangana Tower",
+              "tip_5lang": {
+                "de": "Busse heizen im Winter meist sehr gut.",
+                "hu": "A buszok télen általában jól fűtöttek.",
+                "ro": "Autobuzele sunt de obicei bine încălzite.",
+                "en": "Buses are usually well heated in winter."
+              }
+            },
+            {
+              "name": "Castle District",
+              "tip_5lang": {
+                "de": "Letzter Bus ins Tal fährt gegen 21:00 Uhr.",
+                "hu": "Az utolsó busz 21:00 körül megy le.",
+                "ro": "Ultimul autobuz spre vale pleacă pe la 21:00.",
+                "en": "The last bus down leaves around 9:00 PM."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Busse sind im Winter angenehm geheizt.",
+              "Prüfen Sie die Winterfahrpläne online.",
+              "Die Haltestellen in der Oberstadt sind exponiert.",
+              "Ab 18:00 Uhr wird es sehr schnell frostig."
+            ],
+            "hu": [
+              "A buszok télen kellemesen fűtöttek.",
+              "Ellenőrizze a téli menetrendet online.",
+              "A felsővárosi megállók szelesek lehetnek.",
+              "18:00 után nagyon gyorsan lehűl a levegő."
+            ],
+            "ro": [
+              "Autobuzele sunt plăcut încălzite iarna.",
+              "Verificați programul de iarnă online.",
+              "Stațiile din orașul de sus pot fi expuse.",
+              "După ora 18:00 se face foarte repede frig."
+            ],
+            "en": [
+              "Buses are pleasantly heated in winter.",
+              "Check winter schedules online.",
+              "Upper town bus stops are quite exposed.",
+              "It gets frosty very quickly after 6:00 PM."
+            ]
+          }
+        }
+      }
+    }
+  },
+  "external_resources": {
+    "events": "https://turismo.cuenca.es/agenda",
+    "tourism_office": "https://turismo.cuenca.es/en",
+    "museum_tickets": "https://www.march.es/en/cuenca/visita",
+    "language_tips": {
+      "de": "Cuenca spricht klares Kastilisch, gut verstaendlich. Englisch klappt in den groesseren Hotels und im Museum fuer abstrakte Kunst, in den haengenden Haeusern und ueberhaupt in der Altstadt weniger. Ein 'morteruelo' (lokales Eintopfgericht) zu bestellen beeindruckt jeden Kellner.",
+      "hu": "Cuenca tiszta kasztiliait beszel, jol erthet. A nagyobb szallodakban es az absztrakt muveszet muzeumaban az angol megy, a fuggofok korul es az obvarosban kevesbe. Ha 'morteruelo'-t rendelsz (helyi sutemenyetel), barmely pincert lenyugozod.",
+      "ro": "Cuenca vorbeste castiliana clara, usor de inteles. La hotelurile mai mari si la Muzeul de Arta Abstracta engleza merge, in jurul caselor suspendate si in centrul vechi mai putin. Daca comanzi 'morteruelo' (tocana locala) impresionezi orice chelner.",
+      "en": "Cuenca speaks clear Castilian, easy to understand. English works in larger hotels and the Abstract Art Museum, less in the hanging-houses area and old town. Ordering 'morteruelo' (a local meat stew) impresses any waiter."
+    },
+    "best_time_to_visit": {
+      "de": "Mai bis Juni und September bis Oktober ideal: 18-25 Grad, klare Sicht auf die haengenden Haeuser ueber der Schlucht. Im Sommer angenehmer als Madrid (auf 950 Metern Hoehe), oft 28-30 Grad. Karwoche beruehmt fuer Prozessionen, dann aber Hotels lange im Voraus buchen.",
+      "hu": "Majus-junius es szeptember-oktober ideal: 18-25 fok, tiszta kilatas a szakadek folott fuggofoldekre. Nyaron kellemesebb mint Madrid (950 meter magasban), gyakran 28-30 fok. A nagyhet hires a korterveletekrol, akkor viszont jo elore foglalj szallast.",
+      "ro": "Mai-iunie si septembrie-octombrie sunt ideale: 18-25 grade, vedere clara la casele suspendate peste prapastie. Vara mai placuta decat Madridul (la 950 metri altitudine), deseori 28-30 grade. Saptamana Mare e celebra pentru procesiuni, rezerva hotelurile cu mult timp inainte.",
+      "en": "May-June and September-October are ideal: 18-25°C, with clear views of the hanging houses over the gorge. Summer is gentler than Madrid (at 950m altitude), often 28-30°C. Holy Week is famous for processions — book hotels well ahead."
+    },
+    "neighborhood_warnings": {
+      "de": "Sehr sichere Kleinstadt, kaum Kriminalitaet. Hauptproblem ist die Topographie: die Altstadt liegt auf einem Felsen und ist steil, manche Wege rutschig bei Regen. Bei den haengenden Haeusern und Aussichtspunkten Vorsicht — Gelaender alt und tiefe Abgruende.",
+      "hu": "Nagyon biztonsagos kisvaros, alig van bunozes. A fo problema a domborzat: az obvaros egy sziklan fekszik, meredek, nemely ut csuszos esoben. A fuggofoldek es kilatohelyek korul ovatosan — a korlatok regiek, melyek a szakadekok.",
+      "ro": "Oras mic foarte sigur, criminalitate aproape inexistenta. Problema principala e topografia: centrul vechi e pe o stanca si e abrupt, unele drumuri alunecoase pe ploaie. La casele suspendate si belvedere atentie, balustradele sunt vechi si prapastiile adanci.",
+      "en": "Very safe small town with almost no crime. The main issue is terrain: the old town sits on a rock and is steep, with paths slippery in rain. Use care near the hanging houses and viewpoints — railings are old and drops are sheer."
+    }
+  }
+}

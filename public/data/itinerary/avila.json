@@ -1,0 +1,3055 @@
+{
+  "city_id": "avila",
+  "anchor": {
+    "name": "Ávila",
+    "coords": [
+      -4.6812,
+      40.6566
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "19:05",
+      "total_km": 5.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Plaza del Mercado Chico",
+            "hu": "Plaza del Mercado Chico",
+            "ro": "Plaza del Mercado Chico",
+            "en": "Plaza del Mercado Chico"
+          },
+          "coords": [
+            -4.6975,
+            40.6558
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Perfekter Ort für einen ersten Kaffee.",
+            "hu": "Kiváló hely egy reggeli kávéhoz.",
+            "ro": "Locul perfect pentru o cafea de dimineață.",
+            "en": "Perfect spot for a morning coffee."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale von Ávila",
+            "hu": "Ávilai katedrális",
+            "ro": "Catedrala din Ávila",
+            "en": "Ávila Cathedral"
+          },
+          "coords": [
+            -4.6964,
+            40.6563
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:44",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Beachten Sie die festungsartige Apsis.",
+            "hu": "Figyelje meg az erődített apszist.",
+            "ro": "Observați absida asemănătoare unei cetăți.",
+            "en": "Note the fortress-like apse."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtmauer von Ávila",
+            "hu": "Ávilai városfal",
+            "ro": "Zidurile din Ávila",
+            "en": "Walls of Ávila"
+          },
+          "coords": [
+            -4.6953,
+            40.6565
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:01",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Besterhaltene mittelalterliche Mauer.",
+            "hu": "Európa legépebben maradt várfala.",
+            "ro": "Cele mai bine conservate ziduri medievale.",
+            "en": "Best-preserved medieval walls."
+          }
+        },
+        {
+          "name": {
+            "de": "Basílica de San Vicente",
+            "hu": "San Vicente bazilika",
+            "ro": "Bazilica San Vicente",
+            "en": "Basilica of San Vicente"
+          },
+          "coords": [
+            -4.6946,
+            40.6582
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:55",
+          "stay_min": 50,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein Meisterwerk der Romanik.",
+            "hu": "A román stílus mesterműve.",
+            "ro": "O capodoperă a stilului romanic.",
+            "en": "A masterpiece of Romanesque style."
+          }
+        },
+        {
+          "name": {
+            "de": "Convento de Santa Teresa",
+            "hu": "Szent Teréz kolostor",
+            "ro": "Mănăstirea Santa Teresa",
+            "en": "Convent of Santa Teresa"
+          },
+          "coords": [
+            -4.7003,
+            40.6552
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:01",
+          "stay_min": 50,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Über dem Geburtshaus der Heiligen erbaut.",
+            "hu": "A szent szülőháza fölé épült.",
+            "ro": "Construită peste casa natală a sfintei.",
+            "en": "Built over the saint's birthplace."
+          }
+        },
+        {
+          "name": {
+            "de": "Real Monasterio de Santo Tomás",
+            "hu": "Szent Tamás királyi kolostor",
+            "ro": "Mănăstirea Santo Tomás",
+            "en": "Royal Monastery of Santo Tomás"
+          },
+          "coords": [
+            -4.6917,
+            40.6486
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:11",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Drei wunderschöne Kreuzgänge.",
+            "hu": "Három gyönyörű kerengő várja.",
+            "ro": "Trei claustre absolut superbe.",
+            "en": "Three beautiful cloisters to visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Los Cuatro Postes",
+            "hu": "Los Cuatro Postes kilátó",
+            "ro": "Los Cuatro Postes",
+            "en": "Los Cuatro Postes"
+          },
+          "coords": [
+            -4.7107,
+            40.6606
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "17:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 44,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Bester Panoramablick auf die Stadt.",
+            "hu": "A legjobb panoráma a városra.",
+            "ro": "Cea mai bună panoramă asupra orașului.",
+            "en": "Best panoramic view of the city."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens empfängt Sie die imposante Stadtmauer von Ávila, die besterhaltene ihrer Art in Europa. Ein Spaziergang auf den Wehrmauern bietet fantastische Ausblicke. Mittags erkunden Sie die gotische Kathedrale, die direkt in die Festungswälle integriert ist. Nachmittags führen Wege zu sakralen Schätzen wie San Vicente. Abends endet der Tag bei den Cuatro Postes mit einem Panoramablick.",
+        "hu": "Reggel Ávila lenyűgöző városfala fogadja, amely Európa legjobb állapotban maradt középkori erődítménye. A falakon sétálva páratlan kilátás nyílik az óvárosra. Délben a katedrálist látogatjuk meg, amely a városfal részét képezi. Délután a falakon kívüli templomok és kolostorok várnak. Este a napot a Cuatro Postes kilátónál zárjuk, ahonnan az egész kivilágított város látványa elénk tárul.",
+        "ro": "Dimineața vă întâmpină zidurile impunătoare ale Avilei, cele mai bine conservate din Europa. O plimbare pe metereze oferă o perspectivă unică. La prânz explorăm catedrala gotică integrată în fortificații. După-amiaza vizităm Basilica San Vicente și Mănăstirea Santa Teresa. Seara se încheie la Los Cuatro Postes, de unde panorama orașului iluminat este absolut spectaculoasă.",
+        "en": "Morning begins at the majestic Walls of Ávila, the best-preserved medieval fortifications in Europe. Walking atop the ramparts offers a unique vantage point. Midday is spent exploring the Gothic Cathedral, uniquely built into the city walls. Afternoon leads to sacred sites like the Basilica of San Vicente. Evening ends at Los Cuatro Postes viewpoint for a stunning illuminated city view."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Chuletón de Ávila",
+            "tip": "Riesiges T-Bone-Steak von lokalen Rindern."
+          },
+          {
+            "name": "Yemas de Santa Teresa",
+            "tip": "Süßigkeiten aus Eigelb und Zucker."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Chuletón de Ávila",
+            "tip": "Hatalmas T-bone szelet helyi marhából."
+          },
+          {
+            "name": "Yemas de Santa Teresa",
+            "tip": "Hagyományos édesség tojássárgájából."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chuletón de Ávila",
+            "tip": "Friptură imensă T-bone din vită locală."
+          },
+          {
+            "name": "Yemas de Santa Teresa",
+            "tip": "Desert tradițional din gălbenuș și zahăr."
+          }
+        ],
+        "en": [
+          {
+            "name": "Chuletón de Ávila",
+            "tip": "Massive T-bone steak from local beef."
+          },
+          {
+            "name": "Yemas de Santa Teresa",
+            "tip": "Traditional sweet made of egg yolk."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Los Cuatro Postes",
+            "tip": "Stille bei Sonnenuntergang genießen.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Jardín del Rastro",
+            "tip": "Ruhiger Park an der Stadtmauer.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Los Cuatro Postes",
+            "tip": "Csendes naplemente a város felett.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Jardín del Rastro",
+            "tip": "Nyugodt park a falak mentén.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Los Cuatro Postes",
+            "tip": "Liniște la apus deasupra orașului.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Jardín del Rastro",
+            "tip": "Parc liniștit lângă zidurile cetății.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Los Cuatro Postes",
+            "tip": "Quiet sunset over the city.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Jardín del Rastro",
+            "tip": "Peaceful park by the walls.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "La Flor de Castilla",
+            "tip": "Beste Yemas-Konditorei der Stadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "La Flor de Castilla",
+            "tip": "A város legjobb Yemas cukrászdája."
+          }
+        ],
+        "ro": [
+          {
+            "name": "La Flor de Castilla",
+            "tip": "Cea mai bună cofetărie pentru Yemas."
+          }
+        ],
+        "en": [
+          {
+            "name": "La Flor de Castilla",
+            "tip": "Best pastry shop for Yemas."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster.",
+          "Kaufen Sie Tickets für die Mauer im Voraus online.",
+          "Abends wird es in Ávila oft kühl, Jacke mitnehmen.",
+          "Besuchen Sie die Cuatro Postes nach Einbruch der Dunkelheit."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt a macskaköves utcákhoz.",
+          "Vásárolja meg online a belépőt a városfalra.",
+          "Ávila este lehűlhet, vigyen magával pulóvert.",
+          "Sötétedés után is nézze meg a Cuatro Postes kilátót."
+        ],
+        "ro": [
+          "Purtați încălțăminte comodă pentru străzile pietruite.",
+          "Cumpărați biletele pentru ziduri online în avans.",
+          "Seara se face răcoare în Ávila, luați o jachetă.",
+          "Vizitați Cuatro Postes după lăsarea întunericului."
+        ],
+        "en": [
+          "Wear comfortable shoes for the cobblestones.",
+          "Buy wall tickets online in advance to save time.",
+          "Ávila can get chilly at night, bring a light jacket.",
+          "Visit Cuatro Postes after dark to see lit walls."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Morgens empfängt Sie die imposante Stadtmauer von Ávila, die besterhaltene ihrer Art in Europa. Ein Spaziergang auf den Wehrmauern bietet fantastische Ausblicke. Mittags erkunden Sie die gotische Kathedrale, die direkt in die Festungswälle integriert ist. Nachmittags führen Wege zu sakralen Schätzen wie San Vicente. Abends endet der Tag bei den Cuatro Postes mit einem Panoramablick.",
+            "hu": "Reggel Ávila lenyűgöző városfala fogadja, amely Európa legjobb állapotban maradt középkori erődítménye. A falakon sétálva páratlan kilátás nyílik az óvárosra. Délben a katedrálist látogatjuk meg, amely a városfal részét képezi. Délután a falakon kívüli templomok és kolostorok várnak. Este a napot a Cuatro Postes kilátónál zárjuk, ahonnan az egész kivilágított város látványa elénk tárul.",
+            "ro": "Dimineața vă întâmpină zidurile impunătoare ale Avilei, cele mai bine conservate din Europa. O plimbare pe metereze oferă o perspectivă unică. La prânz explorăm catedrala gotică integrată în fortificații. După-amiaza vizităm Basilica San Vicente și Mănăstirea Santa Teresa. Seara se încheie la Los Cuatro Postes, de unde panorama orașului iluminat este absolut spectaculoasă.",
+            "en": "Morning begins at the majestic Walls of Ávila, the best-preserved medieval fortifications in Europe. Walking atop the ramparts offers a unique vantage point. Midday is spent exploring the Gothic Cathedral, uniquely built into the city walls. Afternoon leads to sacred sites like the Basilica of San Vicente. Evening ends at Los Cuatro Postes viewpoint for a stunning illuminated city view."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Plaza del Mercado Chico",
+                "hu": "Plaza del Mercado Chico",
+                "ro": "Plaza del Mercado Chico",
+                "en": "Plaza del Mercado Chico"
+              },
+              "tip_5lang": {
+                "de": "Perfekter Ort für einen ersten Kaffee.",
+                "hu": "Kiváló hely egy reggeli kávéhoz.",
+                "ro": "Locul perfect pentru o cafea de dimineață.",
+                "en": "Perfect spot for a morning coffee."
+              }
+            },
+            {
+              "name": {
+                "de": "Kathedrale von Ávila",
+                "hu": "Ávilai katedrális",
+                "ro": "Catedrala din Ávila",
+                "en": "Ávila Cathedral"
+              },
+              "tip_5lang": {
+                "de": "Beachten Sie die festungsartige Apsis.",
+                "hu": "Figyelje meg az erődített apszist.",
+                "ro": "Observați absida asemănătoare unei cetăți.",
+                "en": "Note the fortress-like apse."
+              }
+            },
+            {
+              "name": {
+                "de": "Stadtmauer von Ávila",
+                "hu": "Ávilai városfal",
+                "ro": "Zidurile din Ávila",
+                "en": "Walls of Ávila"
+              },
+              "tip_5lang": {
+                "de": "Besterhaltene mittelalterliche Mauer.",
+                "hu": "Európa legépebben maradt várfala.",
+                "ro": "Cele mai bine conservate ziduri medievale.",
+                "en": "Best-preserved medieval walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Basílica de San Vicente",
+                "hu": "San Vicente bazilika",
+                "ro": "Bazilica San Vicente",
+                "en": "Basilica of San Vicente"
+              },
+              "tip_5lang": {
+                "de": "Ein Meisterwerk der Romanik.",
+                "hu": "A román stílus mesterműve.",
+                "ro": "O capodoperă a stilului romanic.",
+                "en": "A masterpiece of Romanesque style."
+              }
+            },
+            {
+              "name": {
+                "de": "Convento de Santa Teresa",
+                "hu": "Szent Teréz kolostor",
+                "ro": "Mănăstirea Santa Teresa",
+                "en": "Convent of Santa Teresa"
+              },
+              "tip_5lang": {
+                "de": "Über dem Geburtshaus der Heiligen erbaut.",
+                "hu": "A szent szülőháza fölé épült.",
+                "ro": "Construită peste casa natală a sfintei.",
+                "en": "Built over the saint's birthplace."
+              }
+            },
+            {
+              "name": {
+                "de": "Real Monasterio de Santo Tomás",
+                "hu": "Szent Tamás királyi kolostor",
+                "ro": "Mănăstirea Santo Tomás",
+                "en": "Royal Monastery of Santo Tomás"
+              },
+              "tip_5lang": {
+                "de": "Drei wunderschöne Kreuzgänge.",
+                "hu": "Három gyönyörű kerengő várja.",
+                "ro": "Trei claustre absolut superbe.",
+                "en": "Three beautiful cloisters to visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Los Cuatro Postes",
+                "hu": "Los Cuatro Postes kilátó",
+                "ro": "Los Cuatro Postes",
+                "en": "Los Cuatro Postes"
+              },
+              "tip_5lang": {
+                "de": "Bester Panoramablick auf die Stadt.",
+                "hu": "A legjobb panoráma a városra.",
+                "ro": "Cea mai bună panoramă asupra orașului.",
+                "en": "Best panoramic view of the city."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Chuletón de Ávila",
+                "tip": "Riesiges T-Bone-Steak von lokalen Rindern."
+              },
+              {
+                "name": "Yemas de Santa Teresa",
+                "tip": "Süßigkeiten aus Eigelb und Zucker."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Chuletón de Ávila",
+                "tip": "Hatalmas T-bone szelet helyi marhából."
+              },
+              {
+                "name": "Yemas de Santa Teresa",
+                "tip": "Hagyományos édesség tojássárgájából."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Chuletón de Ávila",
+                "tip": "Friptură imensă T-bone din vită locală."
+              },
+              {
+                "name": "Yemas de Santa Teresa",
+                "tip": "Desert tradițional din gălbenuș și zahăr."
+              }
+            ],
+            "en": [
+              {
+                "name": "Chuletón de Ávila",
+                "tip": "Massive T-bone steak from local beef."
+              },
+              {
+                "name": "Yemas de Santa Teresa",
+                "tip": "Traditional sweet made of egg yolk."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Los Cuatro Postes",
+                "tip": "Stille bei Sonnenuntergang genießen.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Jardín del Rastro",
+                "tip": "Ruhiger Park an der Stadtmauer.",
+                "emoji": "🍃"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Los Cuatro Postes",
+                "tip": "Csendes naplemente a város felett.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Jardín del Rastro",
+                "tip": "Nyugodt park a falak mentén.",
+                "emoji": "🍃"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Los Cuatro Postes",
+                "tip": "Liniște la apus deasupra orașului.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Jardín del Rastro",
+                "tip": "Parc liniștit lângă zidurile cetății.",
+                "emoji": "🍃"
+              }
+            ],
+            "en": [
+              {
+                "name": "Los Cuatro Postes",
+                "tip": "Quiet sunset over the city.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Jardín del Rastro",
+                "tip": "Peaceful park by the walls.",
+                "emoji": "🍃"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "La Flor de Castilla",
+                "tip": "Beste Yemas-Konditorei der Stadt."
+              }
+            ],
+            "hu": [
+              {
+                "name": "La Flor de Castilla",
+                "tip": "A város legjobb Yemas cukrászdája."
+              }
+            ],
+            "ro": [
+              {
+                "name": "La Flor de Castilla",
+                "tip": "Cea mai bună cofetărie pentru Yemas."
+              }
+            ],
+            "en": [
+              {
+                "name": "La Flor de Castilla",
+                "tip": "Best pastry shop for Yemas."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster.",
+              "Kaufen Sie Tickets für die Mauer im Voraus online.",
+              "Abends wird es in Ávila oft kühl, Jacke mitnehmen.",
+              "Besuchen Sie die Cuatro Postes nach Einbruch der Dunkelheit."
+            ],
+            "hu": [
+              "Viseljen kényelmes cipőt a macskaköves utcákhoz.",
+              "Vásárolja meg online a belépőt a városfalra.",
+              "Ávila este lehűlhet, vigyen magával pulóvert.",
+              "Sötétedés után is nézze meg a Cuatro Postes kilátót."
+            ],
+            "ro": [
+              "Purtați încălțăminte comodă pentru străzile pietruite.",
+              "Cumpărați biletele pentru ziduri online în avans.",
+              "Seara se face răcoare în Ávila, luați o jachetă.",
+              "Vizitați Cuatro Postes după lăsarea întunericului."
+            ],
+            "en": [
+              "Wear comfortable shoes for the cobblestones.",
+              "Buy wall tickets online in advance to save time.",
+              "Ávila can get chilly at night, bring a light jacket.",
+              "Visit Cuatro Postes after dark to see lit walls."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bieten die Arkaden am Plaza del Mercado Chico Schutz vor dem Regen. Mittags verbringen Sie viel Zeit in der Kathedrale, einem perfekten steinernen Zufluchtsort. Nachmittags ist der Spaziergang auf den Stadtmauern bei Regen kurz, gefolgt von der Besichtigung der Klöster. Abends genießen Sie den Blick von Los Cuatro Postes, idealerweise unter einem großen Regenschirm.",
+            "hu": "Reggel a Plaza del Mercado Chico árkádjai alatt védve maradhat az esőtől. Délben a katedrális monumentális belső tere kínál tökéletes menedéket. Délután a várfalakon tett séta az eső miatt rövidebb lehet, de a kolostorok látogatása kárpótolja. Este a Los Cuatro Postes kilátópontról csodálhatja meg a kivilágított várost egy hatalmas esernyő alól.",
+            "ro": "Dimineața, arcadele din Plaza del Mercado Chico oferă adăpost împotriva ploii. La prânz, interiorul catedralei este refugiul perfect din piatră. După-amiaza, plimbarea pe ziduri va fi scurtă din cauza vremii, urmată de vizite la mănăstiri. Seara, panorama de la Los Cuatro Postes este dramatică sub ploaie, ideal de privit sub o umbrelă mare.",
+            "en": "In the morning, the arcades of Plaza del Mercado Chico offer shelter from the rain. At noon, the massive interior of the Cathedral provides a perfect stone sanctuary. Afternoon walks on the walls might be shorter due to exposure, but the convents offer dry exploration. In the evening, the view from Los Cuatro Postes is dramatic under the rain, best enjoyed with a large umbrella."
+          },
+          "stops": [
+            {
+              "name": "Plaza del Mercado Chico",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Bogengänge als Regenschutz.",
+                "hu": "Használja az árkádokat eső elleni védelemként.",
+                "ro": "Folosiți arcadele ca adăpost împotriva ploii.",
+                "en": "Use the arcades as shelter from the rain."
+              }
+            },
+            {
+              "name": "Ávila Cathedral",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um einen heftigen Schauer abzuwarten.",
+                "hu": "Ideális hely egy nagyobb zápor kivárására.",
+                "ro": "Un loc ideal pentru a aștepta trecerea unei averse.",
+                "en": "An ideal place to wait out a heavy downpour."
+              }
+            },
+            {
+              "name": "Walls of Ávila",
+              "tip_5lang": {
+                "de": "Vorsicht, der Steinweg kann bei Nässe rutschig sein.",
+                "hu": "Vigyázat, a kőút nedvesen csúszós lehet.",
+                "ro": "Atenție, drumul de piatră poate fi alunecos când e ud.",
+                "en": "Caution, the stone path can be slippery when wet."
+              }
+            },
+            {
+              "name": "Basilica of San Vicente",
+              "tip_5lang": {
+                "de": "Bewundern Sie das Portal unter dem schützenden Vordach.",
+                "hu": "Csodálja meg a kaput a védőtető alatt.",
+                "ro": "Admirați portalul sub copertina de protecție.",
+                "en": "Admire the portal under the protective porch."
+              }
+            },
+            {
+              "name": "Convent of Santa Teresa",
+              "tip_5lang": {
+                "de": "Im Inneren sind Sie völlig trocken.",
+                "hu": "A belső térben teljesen szárazon maradhat.",
+                "ro": "În interior veți rămâne complet uscat.",
+                "en": "You will stay completely dry inside."
+              }
+            },
+            {
+              "name": "Royal Monastery of Santo Tomás",
+              "tip_5lang": {
+                "de": "Die Kreuzgänge bieten guten Schutz vor Regen.",
+                "hu": "A kolostorfolyosók jó védelmet nyújtanak az eső ellen.",
+                "ro": "Cloistrele oferă o protecție bună împotriva ploii.",
+                "en": "The cloisters offer good protection from rain."
+              }
+            },
+            {
+              "name": "Los Cuatro Postes",
+              "tip_5lang": {
+                "de": "Kein Schutz; bringen Sie einen stabilen Schirm mit.",
+                "hu": "Nincs fedezék; hozzon magával erős esernyőt.",
+                "ro": "Fără adăpost; aduceți o umbrelă rezistentă.",
+                "en": "No shelter; bring a sturdy umbrella."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Wanderschuhe für das Kopfsteinpflaster.",
+              "Die Stadtmauern sind bei Regen sehr windanfällig.",
+              "Kaufen Sie Yemas de Santa Teresa als süßen Trost im Trockenen.",
+              "Die Kathedrale bietet den besten langfristigen Regenschutz.",
+              "Ein Taxi zum Los Cuatro Postes spart nasse Füße am Abend."
+            ],
+            "hu": [
+              "Viseljen vízálló túracipőt a macskaköves utcákhoz.",
+              "A várfalak esőben nagyon ki vannak téve a szélnek.",
+              "Vásároljon Yemas de Santa Teresa édességet a szárazon.",
+              "A katedrális nyújtja a legjobb tartós védelmet az eső elől.",
+              "Egy taxi a Los Cuatro Postes-hez megkíméli a lábait az ázástól."
+            ],
+            "ro": [
+              "Purtați pantofi de drumeție impermeabili pentru pavaj.",
+              "Zidurile sunt foarte expuse vântului în timpul ploii.",
+              "Cumpărați Yemas de Santa Teresa ca răsfăț la adăpost.",
+              "Catedrala oferă cea mai bună protecție pe termen lung.",
+              "Un taxi spre Los Cuatro Postes vă scutește de picioare ude."
+            ],
+            "en": [
+              "Wear waterproof hiking shoes for the cobblestone streets.",
+              "The walls are very exposed to wind during rain.",
+              "Buy Yemas de Santa Teresa as a sweet treat while staying dry.",
+              "The Cathedral offers the best long-term rain shelter.",
+              "A taxi to Los Cuatro Postes saves you from wet feet in the evening."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen in Ávila ist frostig, ideal für einen heißen Kaffee am Plaza del Mercado Chico. Mittags wärmen Sie sich in der Kathedrale auf, bevor Sie den windigen Spaziergang auf den Mauern wagen. Nachmittags besuchen Sie die Basilika und das Kloster von Santa Teresa. Abends, wenn die Sonne früh untergeht, ist das goldene Licht an Los Cuatro Postes bei klirrender Kälte unvergesslich.",
+            "hu": "A téli reggel Ávilában fagyos, ideális egy forró kávéra a Plaza del Mercado Chicón. Délben a katedrálisban melegedhet fel, mielőtt nekivágna a szeles várfalsétának. Délután a bazilika és Santa Teresa kolostora várja. Este, a korai naplemente idején a Los Cuatro Postesnél látható aranyló fények a csípős hidegben is felejthetetlenek.",
+            "ro": "Dimineața de iarnă în Ávila este geroasă, ideală pentru o cafea fierbinte în Plaza del Mercado Chico. La prânz, încălziți-vă în catedrală înainte de plimbarea vântoasă pe ziduri. După-amiaza vizitați bazilica și mănăstirea Santa Teresa. Seara, când soarele apune devreme, lumina aurie de la Los Cuatro Postes este de neuitat în ciuda gerului.",
+            "en": "Winter mornings in Ávila are frosty, perfect for a hot coffee at Plaza del Mercado Chico. At noon, warm up in the Cathedral before braving the windy walk on the walls. Afternoon visits include the Basilica and Santa Teresa's convent. In the evening, with the early sunset, the golden light at Los Cuatro Postes is unforgettable despite the biting cold."
+          },
+          "stops": [
+            {
+              "name": "Plaza del Mercado Chico",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Café mit Heizung für das Frühstück.",
+                "hu": "Válasszon fűtött kávézót a reggelihez.",
+                "ro": "Alegeți o cafenea cu încălzire pentru micul dejun.",
+                "en": "Choose a cafe with heating for breakfast."
+              }
+            },
+            {
+              "name": "Ávila Cathedral",
+              "tip_5lang": {
+                "de": "Das Innere kann kälter sein als draußen; behalten Sie den Mantel an.",
+                "hu": "Belül hidegebb lehet, mint kint; tartsa magán a kabátot.",
+                "ro": "Interiorul poate fi mai rece decât afară; păstrați haina.",
+                "en": "The interior can be colder than outside; keep your coat on."
+              }
+            },
+            {
+              "name": "Walls of Ávila",
+              "tip_5lang": {
+                "de": "Extremer Windchill; Handschuhe und Mütze sind Pflicht.",
+                "hu": "Erős szélhűtés; kesztyű és sapka kötelező.",
+                "ro": "Vânt tăios; mănușile și căciula sunt obligatorii.",
+                "en": "Extreme wind chill; gloves and hat are mandatory."
+              }
+            },
+            {
+              "name": "Basilica of San Vicente",
+              "tip_5lang": {
+                "de": "Bewundern Sie die romanische Kunst im Schutz der dicken Mauern.",
+                "hu": "Csodálja a román művészetet a vastag falak védelmében.",
+                "ro": "Admirați arta romanică la adăpostul zidurilor groase.",
+                "en": "Admire Romanesque art protected by thick walls."
+              }
+            },
+            {
+              "name": "Convent of Santa Teresa",
+              "tip_5lang": {
+                "de": "Ein ruhiger, windgeschützter Ort zur Besinnung.",
+                "hu": "Csendes, szélvédett hely az elmélyülésre.",
+                "ro": "Un loc liniștit și ferit de vânt pentru reflecție.",
+                "en": "A quiet, wind-sheltered place for reflection."
+              }
+            },
+            {
+              "name": "Royal Monastery of Santo Tomás",
+              "tip_5lang": {
+                "de": "Die Gärten sind im Frost wunderschön, aber kalt.",
+                "hu": "A kertek gyönyörűek a zúzmarában, de hidegek.",
+                "ro": "Grădinile sunt superbe în chiciură, dar reci.",
+                "en": "The gardens are beautiful in the frost, but cold."
+              }
+            },
+            {
+              "name": "Los Cuatro Postes",
+              "tip_5lang": {
+                "de": "Perfekter Ort für den Sonnenuntergang um 17:30 Uhr.",
+                "hu": "Tökéletes hely a naplementéhez 17:30-kor.",
+                "ro": "Locul perfect pentru apusul de la ora 17:30.",
+                "en": "Perfect spot for the 17:30 sunset."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ávila liegt sehr hoch; es ist oft viel kälter als in Madrid.",
+              "Die Stadtmauern schließen im Winter früher.",
+              "Thermounterwäsche ist für den Spaziergang auf den Mauern ratsam.",
+              "Genießen Sie eine heiße Schokolade mit Churros am Nachmittag.",
+              "Der Sonnenuntergang ist im Winter gegen 17:30 Uhr."
+            ],
+            "hu": [
+              "Ávila magasan fekszik; gyakran sokkal hidegebb van, mint Madridban.",
+              "A várfalak télen korábban zárnak.",
+              "A falakon való sétához ajánlott a termo fehérnemű.",
+              "Élvezzen egy forró csokoládét churrosszal délután.",
+              "A naplemente télen 17:30 körül van."
+            ],
+            "ro": [
+              "Ávila este la altitudine mare; e mult mai rece decât în Madrid.",
+              "Zidurile cetății se închid mai devreme iarna.",
+              "Lenjeria termică este recomandată pentru plimbarea pe ziduri.",
+              "Savurați o ciocolată caldă cu churros după-amiaza.",
+              "Apusul soarelui este în jur de ora 17:30 iarna."
+            ],
+            "en": [
+              "Ávila is high altitude; it's often much colder than Madrid.",
+              "The city walls close earlier in winter.",
+              "Thermal underwear is advised for the walk on the walls.",
+              "Enjoy a hot chocolate with churros in the afternoon.",
+              "Sunset is around 17:30 in winter."
+            ]
+          }
+        }
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 7.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Plaza del Mercado Chico",
+            "hu": "Plaza del Mercado Chico",
+            "ro": "Plaza del Mercado Chico",
+            "en": "Plaza del Mercado Chico"
+          },
+          "coords": [
+            -4.6975,
+            40.6558
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Fahrrad sicher abstellen.",
+            "hu": "Biztonságosan támassza le a biciklit.",
+            "ro": "Parcați bicicleta în siguranță.",
+            "en": "Park your bike securely here."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale von Ávila",
+            "hu": "Ávilai katedrális",
+            "ro": "Catedrala din Ávila",
+            "en": "Ávila Cathedral"
+          },
+          "coords": [
+            -4.6964,
+            40.6563
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:42",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Kurze Pause im Schatten.",
+            "hu": "Rövid pihenő az árnyékban.",
+            "ro": "Scurtă pauză la umbră.",
+            "en": "Quick break in the shade."
+          }
+        },
+        {
+          "name": {
+            "de": "Torreón de los Guzmanes",
+            "hu": "Torreón de los Guzmanes",
+            "ro": "Torreón de los Guzmanes",
+            "en": "Torreón de los Guzmanes"
+          },
+          "coords": [
+            -4.6985,
+            40.6548
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:44",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein prächtiger Renaissance-Turm.",
+            "hu": "Pompás reneszánsz torony.",
+            "ro": "Un turn renascentist magnific.",
+            "en": "A magnificent Renaissance tower."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtmauer von Ávila",
+            "hu": "Ávilai városfal",
+            "ro": "Zidurile din Ávila",
+            "en": "Walls of Ávila"
+          },
+          "coords": [
+            -4.6953,
+            40.6565
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:27",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Fahrräder am Eingang stehen lassen.",
+            "hu": "A bringákat hagyja a bejáratnál.",
+            "ro": "Lăsați bicicletele la intrare.",
+            "en": "Leave bikes at the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Basílica de San Vicente",
+            "hu": "San Vicente bazilika",
+            "ro": "Bazilica San Vicente",
+            "en": "Basilica of San Vicente"
+          },
+          "coords": [
+            -4.6946,
+            40.6582
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:50",
+          "stay_min": 50,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Krypta.",
+            "hu": "Látogasson el a kriptába.",
+            "ro": "Vizitați cripta de dedesubt.",
+            "en": "Visit the crypt below."
+          }
+        },
+        {
+          "name": {
+            "de": "Convento de Santa Teresa",
+            "hu": "Szent Teréz kolostor",
+            "ro": "Mănăstirea Santa Teresa",
+            "en": "Convent of Santa Teresa"
+          },
+          "coords": [
+            -4.7003,
+            40.6552
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:55",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Reliquien der Heiligen im Museum.",
+            "hu": "A szent ereklyéi a múzeumban.",
+            "ro": "Moaștele sfintei în muzeu.",
+            "en": "Relics of the saint in museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Real Monasterio de Santo Tomás",
+            "hu": "Szent Tamás királyi kolostor",
+            "ro": "Mănăstirea Santo Tomás",
+            "en": "Royal Monastery of Santo Tomás"
+          },
+          "coords": [
+            -4.6917,
+            40.6486
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:51",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein ruhiger Ort etwas außerhalb.",
+            "hu": "Csendes hely kicsit távolabb.",
+            "ro": "Un loc liniștit puțin mai departe.",
+            "en": "A peaceful place a bit further out."
+          }
+        },
+        {
+          "name": {
+            "de": "Los Cuatro Postes",
+            "hu": "Los Cuatro Postes kilátó",
+            "ro": "Los Cuatro Postes",
+            "en": "Los Cuatro Postes"
+          },
+          "coords": [
+            -4.7107,
+            40.6606
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "17:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Belohnung nach der Steigung.",
+            "hu": "Jutalom az emelkedő után.",
+            "ro": "Recompensa după urcare.",
+            "en": "Reward after the uphill ride."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Fahrrad erkunden Sie Ávila dynamisch. Morgens besuchen Sie den Markt und die Kathedrale. Mittags radeln Sie entlang der Mauer und besuchen San Vicente. Nachmittags geht es zu Santa Teresa und dem majestätischen Kloster Santo Tomás. Der Tag endet mit einer Fahrt zu den Cuatro Postes für den ultimativen Fotostopp bei Sonnenuntergang.",
+        "hu": "Kerékpárral Ávila dinamikusan felfedezhető. Reggel a piacot és a katedrálist nézzük meg. Délben a fal mentén tekerünk San Vicente felé. Délután Szent Teréz és Santo Tomás kolostorait látogatjuk meg. A nap végén eltekerünk a Cuatro Postes kilátóhoz, amely a legtökéletesebb fotóhelyszín a város körvonalainak megörökítéséhez.",
+        "ro": "Cu bicicleta explorăm Avila într-un mod dinamic. Dimineața vizităm piața și catedrala. La prânz pedalăm de-a lungul zidurilor spre San Vicente. După-amiaza mergem la Santa Teresa și mănăstirea Santo Tomás. Ziua se încheie cu o plimbare spre Cuatro Postes pentru stopul foto suprem la apus de soare peste cetate.",
+        "en": "Explore Ávila dynamically by bike. Start with the market and cathedral in the morning. At midday, ride along the walls towards San Vicente. Afternoon takes you to Santa Teresa and the majestic Santo Tomás monastery. The day ends with a ride to Cuatro Postes for the ultimate sunset photo stop overlooking the fortified city."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Patatas Revolconas",
+            "tip": "Pikantes Kartoffelgericht mit Speck."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Patatas Revolconas",
+            "tip": "Pikáns burgonya szalonnával."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Patatas Revolconas",
+            "tip": "Cartofi picanți cu costiță."
+          }
+        ],
+        "en": [
+          {
+            "name": "Patatas Revolconas",
+            "tip": "Spicy mashed potatoes with bacon."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ribeira del Adaja",
+            "tip": "Radweg am Fluss unterhalb der Stadt.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ribeira del Adaja",
+            "tip": "Bringaút a folyóparton a város alatt.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ribeira del Adaja",
+            "tip": "Pistă de biciclete pe malul râului.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Ribeira del Adaja",
+            "tip": "Bike path by the river below.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirs de Ávila",
+            "tip": "Kleine Keramik und Postkarten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Souvenirs de Ávila",
+            "tip": "Kis kerámiák és képeslapok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Souvenirs de Ávila",
+            "tip": "Ceramici mici și cărți poștale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Souvenirs de Ávila",
+            "tip": "Small ceramics and postcards."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Ávila hat einige Steigungen, ein E-Bike ist ratsam.",
+          "Achten Sie auf Fußgänger in den schmalen Gassen.",
+          "Der Weg zum Cuatro Postes führt über die Brücke.",
+          "Fahrradschlösser sind in der Innenstadt wichtig."
+        ],
+        "hu": [
+          "Ávila dombos, az e-bike ajánlott választás.",
+          "Figyeljen a gyalogosokra a szűk utcákban.",
+          "A Cuatro Postes felé a hídon át vezet az út.",
+          "A belvárosban mindenképp lakatolja le a bringát."
+        ],
+        "ro": [
+          "Ávila are pante, un e-bike este recomandat.",
+          "Atenție la pietoni pe străzile înguste.",
+          "Drumul spre Cuatro Postes trece peste pod.",
+          "Lacătul este esențial în centrul orașului."
+        ],
+        "en": [
+          "Ávila is hilly, an e-bike is a great choice.",
+          "Watch out for pedestrians in narrow streets.",
+          "The way to Cuatro Postes is across the bridge.",
+          "Bike locks are essential in the city center."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mit dem Fahrrad erkunden Sie Ávila dynamisch. Morgens besuchen Sie den Markt und die Kathedrale. Mittags radeln Sie entlang der Mauer und besuchen San Vicente. Nachmittags geht es zu Santa Teresa und dem majestätischen Kloster Santo Tomás. Der Tag endet mit einer Fahrt zu den Cuatro Postes für den ultimativen Fotostopp bei Sonnenuntergang.",
+            "hu": "Kerékpárral Ávila dinamikusan felfedezhető. Reggel a piacot és a katedrálist nézzük meg. Délben a fal mentén tekerünk San Vicente felé. Délután Szent Teréz és Santo Tomás kolostorait látogatjuk meg. A nap végén eltekerünk a Cuatro Postes kilátóhoz, amely a legtökéletesebb fotóhelyszín a város körvonalainak megörökítéséhez.",
+            "ro": "Cu bicicleta explorăm Avila într-un mod dinamic. Dimineața vizităm piața și catedrala. La prânz pedalăm de-a lungul zidurilor spre San Vicente. După-amiaza mergem la Santa Teresa și mănăstirea Santo Tomás. Ziua se încheie cu o plimbare spre Cuatro Postes pentru stopul foto suprem la apus de soare peste cetate.",
+            "en": "Explore Ávila dynamically by bike. Start with the market and cathedral in the morning. At midday, ride along the walls towards San Vicente. Afternoon takes you to Santa Teresa and the majestic Santo Tomás monastery. The day ends with a ride to Cuatro Postes for the ultimate sunset photo stop overlooking the fortified city."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Plaza del Mercado Chico",
+                "hu": "Plaza del Mercado Chico",
+                "ro": "Plaza del Mercado Chico",
+                "en": "Plaza del Mercado Chico"
+              },
+              "tip_5lang": {
+                "de": "Fahrrad sicher abstellen.",
+                "hu": "Biztonságosan támassza le a biciklit.",
+                "ro": "Parcați bicicleta în siguranță.",
+                "en": "Park your bike securely here."
+              }
+            },
+            {
+              "name": {
+                "de": "Kathedrale von Ávila",
+                "hu": "Ávilai katedrális",
+                "ro": "Catedrala din Ávila",
+                "en": "Ávila Cathedral"
+              },
+              "tip_5lang": {
+                "de": "Kurze Pause im Schatten.",
+                "hu": "Rövid pihenő az árnyékban.",
+                "ro": "Scurtă pauză la umbră.",
+                "en": "Quick break in the shade."
+              }
+            },
+            {
+              "name": {
+                "de": "Torreón de los Guzmanes",
+                "hu": "Torreón de los Guzmanes",
+                "ro": "Torreón de los Guzmanes",
+                "en": "Torreón de los Guzmanes"
+              },
+              "tip_5lang": {
+                "de": "Ein prächtiger Renaissance-Turm.",
+                "hu": "Pompás reneszánsz torony.",
+                "ro": "Un turn renascentist magnific.",
+                "en": "A magnificent Renaissance tower."
+              }
+            },
+            {
+              "name": {
+                "de": "Stadtmauer von Ávila",
+                "hu": "Ávilai városfal",
+                "ro": "Zidurile din Ávila",
+                "en": "Walls of Ávila"
+              },
+              "tip_5lang": {
+                "de": "Fahrräder am Eingang stehen lassen.",
+                "hu": "A bringákat hagyja a bejáratnál.",
+                "ro": "Lăsați bicicletele la intrare.",
+                "en": "Leave bikes at the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Basílica de San Vicente",
+                "hu": "San Vicente bazilika",
+                "ro": "Bazilica San Vicente",
+                "en": "Basilica of San Vicente"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Krypta.",
+                "hu": "Látogasson el a kriptába.",
+                "ro": "Vizitați cripta de dedesubt.",
+                "en": "Visit the crypt below."
+              }
+            },
+            {
+              "name": {
+                "de": "Convento de Santa Teresa",
+                "hu": "Szent Teréz kolostor",
+                "ro": "Mănăstirea Santa Teresa",
+                "en": "Convent of Santa Teresa"
+              },
+              "tip_5lang": {
+                "de": "Reliquien der Heiligen im Museum.",
+                "hu": "A szent ereklyéi a múzeumban.",
+                "ro": "Moaștele sfintei în muzeu.",
+                "en": "Relics of the saint in museum."
+              }
+            },
+            {
+              "name": {
+                "de": "Real Monasterio de Santo Tomás",
+                "hu": "Szent Tamás királyi kolostor",
+                "ro": "Mănăstirea Santo Tomás",
+                "en": "Royal Monastery of Santo Tomás"
+              },
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort etwas außerhalb.",
+                "hu": "Csendes hely kicsit távolabb.",
+                "ro": "Un loc liniștit puțin mai departe.",
+                "en": "A peaceful place a bit further out."
+              }
+            },
+            {
+              "name": {
+                "de": "Los Cuatro Postes",
+                "hu": "Los Cuatro Postes kilátó",
+                "ro": "Los Cuatro Postes",
+                "en": "Los Cuatro Postes"
+              },
+              "tip_5lang": {
+                "de": "Belohnung nach der Steigung.",
+                "hu": "Jutalom az emelkedő után.",
+                "ro": "Recompensa după urcare.",
+                "en": "Reward after the uphill ride."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Patatas Revolconas",
+                "tip": "Pikantes Kartoffelgericht mit Speck."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Patatas Revolconas",
+                "tip": "Pikáns burgonya szalonnával."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Patatas Revolconas",
+                "tip": "Cartofi picanți cu costiță."
+              }
+            ],
+            "en": [
+              {
+                "name": "Patatas Revolconas",
+                "tip": "Spicy mashed potatoes with bacon."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Ribeira del Adaja",
+                "tip": "Radweg am Fluss unterhalb der Stadt.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Ribeira del Adaja",
+                "tip": "Bringaút a folyóparton a város alatt.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Ribeira del Adaja",
+                "tip": "Pistă de biciclete pe malul râului.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Ribeira del Adaja",
+                "tip": "Bike path by the river below.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Souvenirs de Ávila",
+                "tip": "Kleine Keramik und Postkarten."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Souvenirs de Ávila",
+                "tip": "Kis kerámiák és képeslapok."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Souvenirs de Ávila",
+                "tip": "Ceramici mici și cărți poștale."
+              }
+            ],
+            "en": [
+              {
+                "name": "Souvenirs de Ávila",
+                "tip": "Small ceramics and postcards."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Ávila hat einige Steigungen, ein E-Bike ist ratsam.",
+              "Achten Sie auf Fußgänger in den schmalen Gassen.",
+              "Der Weg zum Cuatro Postes führt über die Brücke.",
+              "Fahrradschlösser sind in der Innenstadt wichtig."
+            ],
+            "hu": [
+              "Ávila dombos, az e-bike ajánlott választás.",
+              "Figyeljen a gyalogosokra a szűk utcákban.",
+              "A Cuatro Postes felé a hídon át vezet az út.",
+              "A belvárosban mindenképp lakatolja le a bringát."
+            ],
+            "ro": [
+              "Ávila are pante, un e-bike este recomandat.",
+              "Atenție la pietoni pe străzile înguste.",
+              "Drumul spre Cuatro Postes trece peste pod.",
+              "Lacătul este esențial în centrul orașului."
+            ],
+            "en": [
+              "Ávila is hilly, an e-bike is a great choice.",
+              "Watch out for pedestrians in narrow streets.",
+              "The way to Cuatro Postes is across the bridge.",
+              "Bike locks are essential in the city center."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Tag auf dem Rad beginnt vorsichtig am Plaza del Mercado Chico. Mittags radeln Sie zur Kathedrale und zum Torreón, wobei Sie auf nasses Kopfsteinpflaster achten. Nachmittags ist die Fahrt entlang der Stadtmauer erfrischend, aber windig. Den Tag beenden Sie am Kloster Santo Tomás und radeln für ein letztes Foto zum Cuatro Postes, bevor es zu nass wird.",
+            "hu": "Az esős nap a bringán óvatosan indul a Plaza del Mercado Chicónál. Délben a katedrálishoz és a Torreónhoz tekerhet, ügyelve a csúszós kövekre. Délután a várfal menti kerékpározás frissítő, de szeles. A napot a Santo Tomás kolostornál zárja, majd tekerjen el a Cuatro Posteshez egy utolsó fotóra.",
+            "ro": "O zi ploioasă pe bicicletă începe cu prudență în Plaza del Mercado Chico. La prânz pedalați spre catedrală și Torreón, atenți la pavajul ud. După-amiaza, tura de-a lungul zidurilor este revigorantă, dar vântoasă. Încheiați ziua la mănăstirea Santo Tomás și pedalați până la Cuatro Postes pentru o ultimă fotografie.",
+            "en": "A rainy day on the bike starts cautiously at Plaza del Mercado Chico. At noon, cycle to the Cathedral and Torreón, minding the slippery stones. In the afternoon, riding along the walls is refreshing but windy. Finish the day at Santo Tomás Monastery and cycle to Cuatro Postes for a final photo before it gets too wet."
+          },
+          "stops": [
+            {
+              "name": "Plaza del Mercado Chico",
+              "tip_5lang": {
+                "de": "Parken Sie das Rad unter den Arkaden.",
+                "hu": "Parkolja a biciklit az árkádok alá.",
+                "ro": "Parcați bicicleta sub arcade.",
+                "en": "Park the bike under the arcades."
+              }
+            },
+            {
+              "name": "Ávila Cathedral",
+              "tip_5lang": {
+                "de": "Wischen Sie den Sattel vor der Weiterfahrt ab.",
+                "hu": "Törölje le a nyerget a továbbindulás előtt.",
+                "ro": "Ștergeți șaua înainte de a pleca mai departe.",
+                "en": "Wipe the saddle before continuing."
+              }
+            },
+            {
+              "name": "Torreón de los Guzmanes",
+              "tip_5lang": {
+                "de": "Vorsicht beim Absteigen auf nassem Granit.",
+                "hu": "Vigyázat a leszálláskor a nedves grániton.",
+                "ro": "Atenție la coborâre pe granitul ud.",
+                "en": "Be careful when dismounting on wet granite."
+              }
+            },
+            {
+              "name": "Walls of Ávila",
+              "tip_5lang": {
+                "de": "Radfahren auf den Mauern ist verboten; schieben Sie es unten.",
+                "hu": "A falakon tilos bringázni; tolja a fal mentén lent.",
+                "ro": "Ciclismul pe ziduri este interzis; împingeți-o pe jos.",
+                "en": "Cycling on the walls is forbidden; push it below."
+              }
+            },
+            {
+              "name": "Basilica of San Vicente",
+              "tip_5lang": {
+                "de": "Gute Fahrradständer in der Nähe des Portals.",
+                "hu": "Jó kerékpártárolók a kapu közelében.",
+                "ro": "Suporturi de biciclete bune lângă portal.",
+                "en": "Good bike racks near the portal."
+              }
+            },
+            {
+              "name": "Convent of Santa Teresa",
+              "tip_5lang": {
+                "de": "Kurzer Stopp, um die Ausrüstung zu richten.",
+                "hu": "Rövid megálló a felszerelés igazítására.",
+                "ro": "Oprire scurtă pentru a ajusta echipamentul.",
+                "en": "Short stop to adjust your gear."
+              }
+            },
+            {
+              "name": "Royal Monastery of Santo Tomás",
+              "tip_5lang": {
+                "de": "Etwas außerhalb, die Fahrt hilft beim Trocknen.",
+                "hu": "Kicsit kijebb van, a tekerés segít a száradásban.",
+                "ro": "Puțin în afara centrului, drumul ajută la uscare.",
+                "en": "Slightly outside, the ride helps with drying off."
+              }
+            },
+            {
+              "name": "Los Cuatro Postes",
+              "tip_5lang": {
+                "de": "Der Anstieg ist bei Regen rutschig.",
+                "hu": "Az emelkedő esőben csúszós lehet.",
+                "ro": "Urcarea este alunecoasă pe ploaie.",
+                "en": "The climb is slippery in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine vollflächige Regenjacke und Regenhose.",
+              "Vermeiden Sie schnelle Bremsmanöver auf dem Kopfsteinpflaster.",
+              "Nutzen Sie Schutzbleche, um Schlammspritzer zu vermeiden.",
+              "Prüfen Sie den Reifendruck für besseren Grip auf nassem Stein.",
+              "Ein heißer Tee nach der Tour wirkt Wunder."
+            ],
+            "hu": [
+              "Viseljen teljes esődzsekit és esőnadrágot.",
+              "Kerülje a hirtelen fékezést a macskakövön.",
+              "Használjon sárvédőt a sárfelcsapódás ellen.",
+              "Ellenőrizze a guminyomást a jobb tapadásért nedves kövön.",
+              "Egy forró tea a túra után csodákra képes."
+            ],
+            "ro": [
+              "Purtați jachetă și pantaloni de ploaie complet impermeabili.",
+              "Evitați frânările bruște pe pavaj.",
+              "Folosiți apărători pentru a evita stropirea cu noroi.",
+              "Verificați presiunea în pneuri pentru aderență pe piatră udă.",
+              "Un ceai fierbinte după tură face minuni."
+            ],
+            "en": [
+              "Wear a full rain jacket and rain trousers.",
+              "Avoid sudden braking on the cobblestones.",
+              "Use mudguards to avoid mud splashes.",
+              "Check tire pressure for better grip on wet stone.",
+              "A hot tea after the tour works wonders."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Radfahren im Winter in Ávila erfordert warme Schichten. Starten Sie am Markt und wärmen Sie sich in der Kathedrale auf. Die Fahrt entlang der gefrorenen Stadtmauern bietet spektakuläre Ausblicke auf das Umland. Besuchen Sie die Klöster im Nachmittagslicht. Der finale Sprint zum Cuatro Postes belohnt Sie mit einer klaren, kalten Sicht auf die beleuchtete Festungsstadt.",
+            "hu": "A téli kerékpározás Ávilában meleg rétegeket igényel. Kezdjen a piacon, majd melegedjen fel a katedrálisban. A fagyos várfalak menti tekerés látványos kilátást nyújt a környékre. Látogassa meg a kolostorokat a délutáni fényben. A Cuatro Posteshez vezető végső sprint tiszta, hideg kilátással jutalmazza a kivilágított városra.",
+            "ro": "Ciclismul de iarnă în Ávila necesită straturi groase. Începeți la piață și încălziți-vă în catedrală. Tura pe lângă zidurile înghețate oferă priveliști spectaculoase asupra împrejurimilor. Vizitați mănăstirile în lumina după-amiezii. Sprintul final spre Cuatro Postes vă răsplătește cu o vedere clară și rece asupra orașului iluminat.",
+            "en": "Winter cycling in Ávila requires warm layers. Start at the market and warm up inside the Cathedral. The ride along the frozen city walls offers spectacular views of the surroundings. Visit the convents in the afternoon light. The final sprint to Cuatro Postes rewards you with a clear, cold view of the illuminated fortress city."
+          },
+          "stops": [
+            {
+              "name": "Plaza del Mercado Chico",
+              "tip_5lang": {
+                "de": "Vorsicht vor Eis in schattigen Gassen.",
+                "hu": "Vigyázat a jéggel az árnyékos utcákban.",
+                "ro": "Atenție la gheață în zonele umbrite.",
+                "en": "Watch out for ice in shaded alleys."
+              }
+            },
+            {
+              "name": "Ávila Cathedral",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Stopp, um die Finger aufzuwärmen.",
+                "hu": "Használja a megállót az ujjai felmelegítésére.",
+                "ro": "Folosiți oprirea pentru a vă încălzi degetele.",
+                "en": "Use the stop to warm up your fingers."
+              }
+            },
+            {
+              "name": "Torreón de los Guzmanes",
+              "tip_5lang": {
+                "de": "Trockener Granit bietet guten Halt.",
+                "hu": "A száraz gránit jó tapadást biztosít.",
+                "ro": "Granitul uscat oferă o aderență bună.",
+                "en": "Dry granite offers good grip."
+              }
+            },
+            {
+              "name": "Walls of Ávila",
+              "tip_5lang": {
+                "de": "Der Wind weht hier oben sehr stark.",
+                "hu": "A szél itt fent nagyon erősen fúj.",
+                "ro": "Vântul bate foarte puternic aici sus.",
+                "en": "The wind blows very strongly up here."
+              }
+            },
+            {
+              "name": "Basilica of San Vicente",
+              "tip_5lang": {
+                "de": "Ein geschützter Ort zum Ausruhen.",
+                "hu": "Védett hely a pihenésre.",
+                "ro": "Un loc protejat pentru odihnă.",
+                "en": "A sheltered spot to rest."
+              }
+            },
+            {
+              "name": "Convent of Santa Teresa",
+              "tip_5lang": {
+                "de": "Behalten Sie die Handschuhe beim Schieben griffbereit.",
+                "hu": "Tartsa a kesztyűt kéznél tolás közben is.",
+                "ro": "Țineți mănușile la îndemână chiar și când mergeți pe lângă bicicletă.",
+                "en": "Keep gloves handy even when pushing the bike."
+              }
+            },
+            {
+              "name": "Royal Monastery of Santo Tomás",
+              "tip_5lang": {
+                "de": "Tiefer stehende Sonne blendet; Sonnenbrille mitnehmen.",
+                "hu": "Az alacsonyan járó nap vakíthat; vigyen napszemüveget.",
+                "ro": "Soarele jos poate fi orbitor; luați ochelari de soare.",
+                "en": "Low sun can be blinding; take sunglasses."
+              }
+            },
+            {
+              "name": "Los Cuatro Postes",
+              "tip_5lang": {
+                "de": "Extrem kalt bei Sonnenuntergang; schnell wieder zurück.",
+                "hu": "Naplementekor rendkívül hideg; induljon hamar vissza.",
+                "ro": "Extrem de frig la apus; întoarceți-vă rapid.",
+                "en": "Extremely cold at sunset; head back quickly."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie winddichte Handschuhe und eine Sturmhaube.",
+              "Achten Sie auf Glatteis an schattigen Stellen der Stadtmauer.",
+              "Die Tage sind kurz; sorgen Sie für gute Beleuchtung am Rad.",
+              "Die Kälte entlädt E-Bike-Akkus schneller.",
+              "Ein dicker Schal schützt vor dem beißenden Wind."
+            ],
+            "hu": [
+              "Viseljen szélálló kesztyűt és maszkot.",
+              "Ügyeljen a jegesedésre a várfal árnyékos részein.",
+              "A nappalok rövidek; gondoskodjon jó világításról.",
+              "A hideg gyorsabban meríti az e-bike akkumulátorát.",
+              "Egy vastag sál megvéd a metsző széltől."
+            ],
+            "ro": [
+              "Purtați mănuși rezistente la vânt și o cagulă.",
+              "Atenție la porțiunile cu gheață la umbra zidurilor.",
+              "Zilele sunt scurte; asigurați-vă că aveți lumini bune.",
+              "Frigul descarcă mai repede bateriile bicicletelor electrice.",
+              "Un fular gros vă protejează de vântul tăios."
+            ],
+            "en": [
+              "Wear windproof gloves and a neck warmer.",
+              "Watch out for black ice in shaded areas near the walls.",
+              "Days are short; ensure you have good bike lights.",
+              "Cold temperatures drain e-bike batteries faster.",
+              "A thick scarf protects against the biting wind."
+            ]
+          }
+        }
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 8.0,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Los Cuatro Postes",
+            "hu": "Los Cuatro Postes kilátó",
+            "ro": "Los Cuatro Postes",
+            "en": "Los Cuatro Postes"
+          },
+          "coords": [
+            -4.7107,
+            40.6606
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Bester Überblick vor dem Stadtbesuch.",
+            "hu": "A legjobb áttekintés a város előtt.",
+            "ro": "Cea mai bună vedere de ansamblu.",
+            "en": "Best overview before entering city."
+          }
+        },
+        {
+          "name": {
+            "de": "Basílica de San Vicente",
+            "hu": "San Vicente bazilika",
+            "ro": "Bazilica San Vicente",
+            "en": "Basilica of San Vicente"
+          },
+          "coords": [
+            -4.6946,
+            40.6582
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:47",
+          "stay_min": 50,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Parkplatz direkt am San-Vicente-Tor.",
+            "hu": "Parkoló közvetlenül a kapunál.",
+            "ro": "Parcare chiar lângă poarta San Vicente.",
+            "en": "Parking right at San Vicente gate."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale von Ávila",
+            "hu": "Ávilai katedrális",
+            "ro": "Catedrala din Ávila",
+            "en": "Ávila Cathedral"
+          },
+          "coords": [
+            -4.6964,
+            40.6563
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Zu Fuß vom Parkplatz erreichbar.",
+            "hu": "Gyalogosan elérhető a parkolótól.",
+            "ro": "Accesibil pe jos din parcare.",
+            "en": "Walkable from the parking area."
+          }
+        },
+        {
+          "name": {
+            "de": "Palacio de los Velada",
+            "hu": "Palacio de los Velada",
+            "ro": "Palacio de los Velada",
+            "en": "Palacio de los Velada"
+          },
+          "coords": [
+            -4.6968,
+            40.6562
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:42",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Wunderschöner Innenhof.",
+            "hu": "Gyönyörű belső udvarral.",
+            "ro": "O curte interioară superbă.",
+            "en": "Beautiful inner courtyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtmauer von Ávila",
+            "hu": "Ávilai városfal",
+            "ro": "Zidurile din Ávila",
+            "en": "Walls of Ávila"
+          },
+          "coords": [
+            -4.6953,
+            40.6565
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:24",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Der Audioguide ist sehr informativ.",
+            "hu": "Az audioguide nagyon informatív.",
+            "ro": "Audioghidul este foarte util.",
+            "en": "Audio guide is very informative."
+          }
+        },
+        {
+          "name": {
+            "de": "Iglesia de San Pedro",
+            "hu": "Szent Péter templom",
+            "ro": "Biserica San Pedro",
+            "en": "Iglesia de San Pedro"
+          },
+          "coords": [
+            -4.6957,
+            40.6551
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:07",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "An der Plaza de Santa Teresa.",
+            "hu": "A Santa Teresa téren található.",
+            "ro": "Situată în Plaza de Santa Teresa.",
+            "en": "Located on Santa Teresa square."
+          }
+        },
+        {
+          "name": {
+            "de": "Convento de Santa Teresa",
+            "hu": "Szent Teréz kolostor",
+            "ro": "Mănăstirea Santa Teresa",
+            "en": "Convent of Santa Teresa"
+          },
+          "coords": [
+            -4.7003,
+            40.6552
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:52",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Besinnlicher Ort im Stadtzentrum.",
+            "hu": "Meghitt hely a városközpontban.",
+            "ro": "Loc meditativ în centrul orașului.",
+            "en": "Contemplative place in city center."
+          }
+        },
+        {
+          "name": {
+            "de": "Real Monasterio de Santo Tomás",
+            "hu": "Szent Tamás királyi kolostor",
+            "ro": "Mănăstirea Santo Tomás",
+            "en": "Royal Monastery of Santo Tomás"
+          },
+          "coords": [
+            -4.6917,
+            40.6486
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:47",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Großer Parkplatz vor Ort.",
+            "hu": "Nagy parkoló van a helyszínen.",
+            "ro": "Parcare mare disponibilă.",
+            "en": "Large parking area available."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erreichen Sie bequem die Höhepunkte von Ávila. Morgens genießen Sie den Panoramablick von den Cuatro Postes, bevor Sie ins Zentrum fahren. Mittags erkunden Sie die Mauer und den Velada-Palast. Nachmittags besuchen Sie die Kirchen San Pedro und Santa Teresa. Der Tag endet im beeindruckenden Kloster Santo Tomás, etwas außerhalb der Mauern.",
+        "hu": "Autóval kényelmesen elérhetők Ávila legfontosabb látnivalói. Reggel a Cuatro Postes kilátótól indulunk, majd a belvárosba hajtunk. Délben a várfalat és a Velada palotát nézzük meg. Délután Szent Péter és Szent Teréz templomait látogatjuk meg. A nap a városfalakon kívül található lenyűgöző Santo Tomás kolostornál zárul.",
+        "ro": "Cu mașina ajungeți ușor la punctele cheie din Ávila. Dimineața începe cu panorama de la Cuatro Postes înainte de a intra în centru. La prânz explorăm zidurile și Palatul Velada. După-amiaza vizităm bisericile San Pedro și Santa Teresa. Ziua se încheie la mănăstirea Santo Tomás, situată impresionant în afara zidurilor cetății.",
+        "en": "A car tour allows you to comfortably reach Ávila's highlights. Start with the panoramic Cuatro Postes before driving into the center. Midday is for the walls and the Velada Palace. Afternoon features San Pedro and Santa Teresa churches. The day concludes at the impressive Santo Tomás monastery, located just outside the city walls."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurante El Almacén",
+            "tip": "Traditionelle Küche mit moderner Note."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Restaurante El Almacén",
+            "tip": "Tradicionális konyha modern csavarral."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurante El Almacén",
+            "tip": "Bucătărie tradițională cu note moderne."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurante El Almacén",
+            "tip": "Traditional cuisine with a modern touch."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parque del Soto",
+            "tip": "Großer Naturpark am Stadtrand.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parque del Soto",
+            "tip": "Nagy természetvédelmi park a szélén.",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parque del Soto",
+            "tip": "Parc natural mare la marginea orașului.",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parque del Soto",
+            "tip": "Large nature park on the outskirts.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Artesanía de Ávila",
+            "tip": "Hiesiges Kunsthandwerk und Leder."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Artesanía de Ávila",
+            "tip": "Helyi kézműves termékek és bőrárúk."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Artesanía de Ávila",
+            "tip": "Artizanat local și produse din piele."
+          }
+        ],
+        "en": [
+          {
+            "name": "Artesanía de Ávila",
+            "tip": "Local handicrafts and leather goods."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die Tiefgarage an der Plaza de Santa Teresa.",
+          "In der Altstadt ist das Fahren sehr eingeschränkt.",
+          "Der Parkplatz bei Santo Tomás ist meist kostenlos.",
+          "Tanken Sie außerhalb der Stadtmauer."
+        ],
+        "hu": [
+          "Használja a Santa Teresa téri mélygarázst.",
+          "Az óvároson belül a behajtás korlátozott.",
+          "A Santo Tomás melletti parkoló általában ingyenes.",
+          "Tankoljon a városfalon kívüli benzinkutaknál."
+        ],
+        "ro": [
+          "Folosiți parcarea subterană din Plaza Santa Teresa.",
+          "Conducerea în orașul vechi este foarte restricționată.",
+          "Parcarea de la Santo Tomás este de obicei gratuită.",
+          "Alimentați la benzinăriile din afara zidurilor."
+        ],
+        "en": [
+          "Use the underground parking at Plaza de Santa Teresa.",
+          "Driving inside the old town is very restricted.",
+          "The parking at Santo Tomás is usually free.",
+          "Refuel at gas stations outside the city walls."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erreichen Sie bequem die Höhepunkte von Ávila. Morgens genießen Sie den Panoramablick von den Cuatro Postes, bevor Sie ins Zentrum fahren. Mittags erkunden Sie die Mauer und den Velada-Palast. Nachmittags besuchen Sie die Kirchen San Pedro und Santa Teresa. Der Tag endet im beeindruckenden Kloster Santo Tomás, etwas außerhalb der Mauern.",
+            "hu": "Autóval kényelmesen elérhetők Ávila legfontosabb látnivalói. Reggel a Cuatro Postes kilátótól indulunk, majd a belvárosba hajtunk. Délben a várfalat és a Velada palotát nézzük meg. Délután Szent Péter és Szent Teréz templomait látogatjuk meg. A nap a városfalakon kívül található lenyűgöző Santo Tomás kolostornál zárul.",
+            "ro": "Cu mașina ajungeți ușor la punctele cheie din Ávila. Dimineața începe cu panorama de la Cuatro Postes înainte de a intra în centru. La prânz explorăm zidurile și Palatul Velada. După-amiaza vizităm bisericile San Pedro și Santa Teresa. Ziua se încheie la mănăstirea Santo Tomás, situată impresionant în afara zidurilor cetății.",
+            "en": "A car tour allows you to comfortably reach Ávila's highlights. Start with the panoramic Cuatro Postes before driving into the center. Midday is for the walls and the Velada Palace. Afternoon features San Pedro and Santa Teresa churches. The day concludes at the impressive Santo Tomás monastery, located just outside the city walls."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Los Cuatro Postes",
+                "hu": "Los Cuatro Postes kilátó",
+                "ro": "Los Cuatro Postes",
+                "en": "Los Cuatro Postes"
+              },
+              "tip_5lang": {
+                "de": "Bester Überblick vor dem Stadtbesuch.",
+                "hu": "A legjobb áttekintés a város előtt.",
+                "ro": "Cea mai bună vedere de ansamblu.",
+                "en": "Best overview before entering city."
+              }
+            },
+            {
+              "name": {
+                "de": "Basílica de San Vicente",
+                "hu": "San Vicente bazilika",
+                "ro": "Bazilica San Vicente",
+                "en": "Basilica of San Vicente"
+              },
+              "tip_5lang": {
+                "de": "Parkplatz direkt am San-Vicente-Tor.",
+                "hu": "Parkoló közvetlenül a kapunál.",
+                "ro": "Parcare chiar lângă poarta San Vicente.",
+                "en": "Parking right at San Vicente gate."
+              }
+            },
+            {
+              "name": {
+                "de": "Kathedrale von Ávila",
+                "hu": "Ávilai katedrális",
+                "ro": "Catedrala din Ávila",
+                "en": "Ávila Cathedral"
+              },
+              "tip_5lang": {
+                "de": "Zu Fuß vom Parkplatz erreichbar.",
+                "hu": "Gyalogosan elérhető a parkolótól.",
+                "ro": "Accesibil pe jos din parcare.",
+                "en": "Walkable from the parking area."
+              }
+            },
+            {
+              "name": {
+                "de": "Palacio de los Velada",
+                "hu": "Palacio de los Velada",
+                "ro": "Palacio de los Velada",
+                "en": "Palacio de los Velada"
+              },
+              "tip_5lang": {
+                "de": "Wunderschöner Innenhof.",
+                "hu": "Gyönyörű belső udvarral.",
+                "ro": "O curte interioară superbă.",
+                "en": "Beautiful inner courtyard."
+              }
+            },
+            {
+              "name": {
+                "de": "Stadtmauer von Ávila",
+                "hu": "Ávilai városfal",
+                "ro": "Zidurile din Ávila",
+                "en": "Walls of Ávila"
+              },
+              "tip_5lang": {
+                "de": "Der Audioguide ist sehr informativ.",
+                "hu": "Az audioguide nagyon informatív.",
+                "ro": "Audioghidul este foarte util.",
+                "en": "Audio guide is very informative."
+              }
+            },
+            {
+              "name": {
+                "de": "Iglesia de San Pedro",
+                "hu": "Szent Péter templom",
+                "ro": "Biserica San Pedro",
+                "en": "Iglesia de San Pedro"
+              },
+              "tip_5lang": {
+                "de": "An der Plaza de Santa Teresa.",
+                "hu": "A Santa Teresa téren található.",
+                "ro": "Situată în Plaza de Santa Teresa.",
+                "en": "Located on Santa Teresa square."
+              }
+            },
+            {
+              "name": {
+                "de": "Convento de Santa Teresa",
+                "hu": "Szent Teréz kolostor",
+                "ro": "Mănăstirea Santa Teresa",
+                "en": "Convent of Santa Teresa"
+              },
+              "tip_5lang": {
+                "de": "Besinnlicher Ort im Stadtzentrum.",
+                "hu": "Meghitt hely a városközpontban.",
+                "ro": "Loc meditativ în centrul orașului.",
+                "en": "Contemplative place in city center."
+              }
+            },
+            {
+              "name": {
+                "de": "Real Monasterio de Santo Tomás",
+                "hu": "Szent Tamás királyi kolostor",
+                "ro": "Mănăstirea Santo Tomás",
+                "en": "Royal Monastery of Santo Tomás"
+              },
+              "tip_5lang": {
+                "de": "Großer Parkplatz vor Ort.",
+                "hu": "Nagy parkoló van a helyszínen.",
+                "ro": "Parcare mare disponibilă.",
+                "en": "Large parking area available."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Restaurante El Almacén",
+                "tip": "Traditionelle Küche mit moderner Note."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Restaurante El Almacén",
+                "tip": "Tradicionális konyha modern csavarral."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Restaurante El Almacén",
+                "tip": "Bucătărie tradițională cu note moderne."
+              }
+            ],
+            "en": [
+              {
+                "name": "Restaurante El Almacén",
+                "tip": "Traditional cuisine with a modern touch."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Parque del Soto",
+                "tip": "Großer Naturpark am Stadtrand.",
+                "emoji": "🌳"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Parque del Soto",
+                "tip": "Nagy természetvédelmi park a szélén.",
+                "emoji": "🌳"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Parque del Soto",
+                "tip": "Parc natural mare la marginea orașului.",
+                "emoji": "🌳"
+              }
+            ],
+            "en": [
+              {
+                "name": "Parque del Soto",
+                "tip": "Large nature park on the outskirts.",
+                "emoji": "🌳"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Artesanía de Ávila",
+                "tip": "Hiesiges Kunsthandwerk und Leder."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Artesanía de Ávila",
+                "tip": "Helyi kézműves termékek és bőrárúk."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Artesanía de Ávila",
+                "tip": "Artizanat local și produse din piele."
+              }
+            ],
+            "en": [
+              {
+                "name": "Artesanía de Ávila",
+                "tip": "Local handicrafts and leather goods."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Nutzen Sie die Tiefgarage an der Plaza de Santa Teresa.",
+              "In der Altstadt ist das Fahren sehr eingeschränkt.",
+              "Der Parkplatz bei Santo Tomás ist meist kostenlos.",
+              "Tanken Sie außerhalb der Stadtmauer."
+            ],
+            "hu": [
+              "Használja a Santa Teresa téri mélygarázst.",
+              "Az óvároson belül a behajtás korlátozott.",
+              "A Santo Tomás melletti parkoló általában ingyenes.",
+              "Tankoljon a városfalon kívüli benzinkutaknál."
+            ],
+            "ro": [
+              "Folosiți parcarea subterană din Plaza Santa Teresa.",
+              "Conducerea în orașul vechi este foarte restricționată.",
+              "Parcarea de la Santo Tomás este de obicei gratuită.",
+              "Alimentați la benzinăriile din afara zidurilor."
+            ],
+            "en": [
+              "Use the underground parking at Plaza de Santa Teresa.",
+              "Driving inside the old town is very restricted.",
+              "The parking at Santo Tomás is usually free.",
+              "Refuel at gas stations outside the city walls."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist Ávila bei Regen sehr komfortabel. Starten Sie am Los Cuatro Postes für ein Panorama aus dem trockenen Fahrzeug. Besuchen Sie die Basilika und Kathedrale, nutzen Sie nahegelegene Parkplätze. Der Palacio de los Velada bietet luxuriösen Schutz. Beenden Sie den Tag am Kloster Santo Tomás, während der Regen gegen das Autodach prasselt.",
+            "hu": "Autóval Ávila esőben is kényelmesen felfedezhető. Kezdjen a Los Cuatro Postesnél, élvezze a panorámát a száraz kocsiból. Látogassa meg a bazilikát és a katedrálist, használja a közeli parkolókat. A Palacio de los Velada luxus menedéket nyújt. Zárja a napot a Santo Tomás kolostornál, miközben az eső a kocsi tetején kopog.",
+            "ro": "Cu mașina, Ávila este foarte confortabil de vizitat pe ploaie. Începeți la Los Cuatro Postes pentru panoramă direct din vehicul. Vizitați bazilica și catedrala folosind parcările din apropiere. Palacio de los Velada oferă un adăpost luxos. Încheiați ziua la mănăstirea Santo Tomás în timp ce ploaia bate în plafonul mașinii.",
+            "en": "By car, Ávila is very comfortable to explore during rain. Start at Los Cuatro Postes for a panoramic view from the dry vehicle. Visit the Basilica and Cathedral using nearby parking. Palacio de los Velada offers luxurious shelter. End the day at Santo Tomás Monastery while the rain drums on the car roof."
+          },
+          "stops": [
+            {
+              "name": "Los Cuatro Postes",
+              "tip_5lang": {
+                "de": "Bleiben Sie bei starkem Regen für das Foto im Auto.",
+                "hu": "Heves esőben maradjon a kocsiban a fotózáshoz.",
+                "ro": "Rămâneți în mașină pentru fotografii în caz de ploaie torențială.",
+                "en": "Stay in the car for photos during heavy rain."
+              }
+            },
+            {
+              "name": "Basilica of San Vicente",
+              "tip_5lang": {
+                "de": "Parkhaus in der Nähe nutzen, um trocken zu bleiben.",
+                "hu": "Használja a közeli parkolóházat, hogy száraz maradjon.",
+                "ro": "Folosiți parcarea subterană din apropiere pentru a rămâne uscat.",
+                "en": "Use the nearby parking garage to stay dry."
+              }
+            },
+            {
+              "name": "Ávila Cathedral",
+              "tip_5lang": {
+                "de": "Lassen Sie sich direkt vor dem Eingang absetzen.",
+                "hu": "Szálljon ki közvetlenül a bejárat előtt.",
+                "ro": "Lăsați pasagerii chiar în fața intrării.",
+                "en": "Drop off passengers right in front of the entrance."
+              }
+            },
+            {
+              "name": "Palacio de los Velada",
+              "tip_5lang": {
+                "de": "Perfekter Ort für einen Kaffee im überdachten Innenhof.",
+                "hu": "Tökéletes hely egy kávéra a fedett udvaron.",
+                "ro": "Locul perfect pentru o cafea în curtea interioară acoperită.",
+                "en": "Perfect spot for a coffee in the covered courtyard."
+              }
+            },
+            {
+              "name": "Walls of Ávila",
+              "tip_5lang": {
+                "de": "Besuchen Sie den Abschnitt am Alcázar, er ist am schnellsten erreichbar.",
+                "hu": "Az Alcázar szakaszt látogassa meg, ez érhető el leggyorsabban.",
+                "ro": "Vizitați secțiunea de la Alcázar, este cea mai accesibilă.",
+                "en": "Visit the Alcázar section, it is the quickest to reach."
+              }
+            },
+            {
+              "name": "Iglesia de San Pedro",
+              "tip_5lang": {
+                "de": "Parkplatz direkt am Plaza de Santa Teresa.",
+                "hu": "Parkoló közvetlenül a Plaza de Santa Teresánál.",
+                "ro": "Parcare chiar în Plaza de Santa Teresa.",
+                "en": "Parking right at Plaza de Santa Teresa."
+              }
+            },
+            {
+              "name": "Convent of Santa Teresa",
+              "tip_5lang": {
+                "de": "Einfacher Zugang vom Auto zum Eingang.",
+                "hu": "Könnyű bejutás az autótól a bejáratig.",
+                "ro": "Acces ușor de la mașină la intrare.",
+                "en": "Easy access from the car to the entrance."
+              }
+            },
+            {
+              "name": "Royal Monastery of Santo Tomás",
+              "tip_5lang": {
+                "de": "Großer kostenloser Parkplatz direkt vor dem Kloster.",
+                "hu": "Nagy ingyenes parkoló közvetlenül a kolostor előtt.",
+                "ro": "Parcare mare gratuită chiar în fața mănăstirii.",
+                "en": "Large free parking lot right in front of the monastery."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie das Parkhaus 'El Grande' für zentralen Zugang.",
+              "Die Straßen in der Altstadt sind eng und bei Regen rutschig.",
+              "Ein Regenschirm im Kofferraum ist für die kurzen Wege Pflicht.",
+              "Die Sicht vom Auto am Cuatro Postes ist bei Regen unschlagbar.",
+              "Achten Sie auf Fußgänger mit Regenschirmen an engen Ecken."
+            ],
+            "hu": [
+              "Használja az 'El Grande' parkolóházat a központi eléréshez.",
+              "Az óvárosi utcák szűkek és esőben csúszósak.",
+              "Egy esernyő a csomagtartóban kötelező a rövid utakra.",
+              "A Cuatro Postes kilátása a kocsiból verhetetlen esőben.",
+              "Ügyeljen az esernyős gyalogosokra a szűk kanyarokban."
+            ],
+            "ro": [
+              "Folosiți parcarea 'El Grande' pentru acces central.",
+              "Străzile din centrul vechi sunt înguste și alunecoase pe ploaie.",
+              "O umbrelă în portbagaj este obligatorie pentru distanțele scurte.",
+              "Priveliștea din mașină de la Cuatro Postes este imbatabilă pe ploaie.",
+              "Atenție la pietonii cu umbrele în colțurile înguste."
+            ],
+            "en": [
+              "Use 'El Grande' parking garage for central access.",
+              "Old town streets are narrow and slippery in the rain.",
+              "Keep an umbrella in the trunk for short walks.",
+              "The view from the car at Cuatro Postes is unbeatable in rain.",
+              "Watch out for pedestrians with umbrellas at narrow corners."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Wintertag in Ávila mit dem Auto ist die wärmste Option. Bewundern Sie die verschneite Stadt vom Los Cuatro Postes aus. Besuchen Sie die Basilika und Kathedrale, während die Sitzheizung Sie zwischen den Stopps wärmt. Der Palacio de los Velada bietet ein herrschaftliches Winterambiente. Beenden Sie die Tour am Kloster Santo Tomás im warmen Schein der Abendbeleuchtung.",
+            "hu": "Egy téli nap Ávilában autóval a legmelegebb választás. Csodálja meg a havas várost a Los Cuatro Postes kilátópontról. Látogassa meg a bazilikát és a katedrálist, miközben az ülésfűtés melegen tartja az állomások között. A Palacio de los Velada fenséges téli hangulatot áraszt. Zárja a túrát a Santo Tomás kolostornál az esti fények melegében.",
+            "ro": "O zi de iarnă în Ávila cu mașina este cea mai călduroasă opțiune. Admirați orașul înzăpezit de la Los Cuatro Postes. Vizitați bazilica și catedrala, în timp ce încălzirea în scaune vă răsfață între opriri. Palacio de los Velada oferă o ambianță regală de iarnă. Încheiați turul la mănăstirea Santo Tomás sub luminile calde de seară.",
+            "en": "A winter day in Ávila by car is the warmest option. Admire the snowy city from Los Cuatro Postes. Visit the Basilica and Cathedral while the seat heating keeps you warm between stops. Palacio de los Velada offers a grand winter atmosphere. End the tour at Santo Tomás Monastery in the warm glow of evening lights."
+          },
+          "stops": [
+            {
+              "name": "Los Cuatro Postes",
+              "tip_5lang": {
+                "de": "Perfekt, um den Frost auf der Stadtmauer aus der Ferne zu sehen.",
+                "hu": "Tökéletes a várfalon lévő zúzmara távoli megtekintéséhez.",
+                "ro": "Perfect pentru a vedea chiciura de pe ziduri de la distanță.",
+                "en": "Perfect for seeing the frost on the walls from a distance."
+              }
+            },
+            {
+              "name": "Basilica of San Vicente",
+              "tip_5lang": {
+                "de": "Parkplätze sind im Winter meist leicht zu finden.",
+                "hu": "Télen általában könnyű parkolóhelyet találni.",
+                "ro": "Parcările sunt de obicei ușor de găsit iarna.",
+                "en": "Parking is usually easy to find in winter."
+              }
+            },
+            {
+              "name": "Ávila Cathedral",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg vom Parkplatz zum warmen Kirchenschiff.",
+                "hu": "Rövid séta a parkolótól a meleg templomhajóig.",
+                "ro": "Scurtă plimbare de la parcare la nava caldă a bisericii.",
+                "en": "Short walk from parking to the warm nave."
+              }
+            },
+            {
+              "name": "Palacio de los Velada",
+              "tip_5lang": {
+                "de": "Genießen Sie die gemütliche Atmosphäre am Kamin.",
+                "hu": "Élvezze a hangulatos légkört a kandalló mellett.",
+                "ro": "Bucurați-vă de atmosfera primitoare de lângă șemineu.",
+                "en": "Enjoy the cozy atmosphere by the fireplace."
+              }
+            },
+            {
+              "name": "Walls of Ávila",
+              "tip_5lang": {
+                "de": "Parken Sie am San Vicente Tor für schnellen Zugang.",
+                "hu": "Parkoljon a San Vicente kapunál a gyors bejutáshoz.",
+                "ro": "Parcați la poarta San Vicente pentru acces rapid.",
+                "en": "Park at San Vicente gate for quick access."
+              }
+            },
+            {
+              "name": "Iglesia de San Pedro",
+              "tip_5lang": {
+                "de": "Zentraler Stopp, um sich kurz die Füße zu vertreten.",
+                "hu": "Központi megálló egy rövid sétára.",
+                "ro": "Oprire centrală pentru o scurtă plimbare pe jos.",
+                "en": "Central stop to stretch your legs briefly."
+              }
+            },
+            {
+              "name": "Convent of Santa Teresa",
+              "tip_5lang": {
+                "de": "Der Parkplatz ist oft windgeschützt.",
+                "hu": "A parkoló gyakran szélvédett.",
+                "ro": "Parcarea este adesea ferită de vânt.",
+                "en": "The parking lot is often sheltered from wind."
+              }
+            },
+            {
+              "name": "Royal Monastery of Santo Tomás",
+              "tip_5lang": {
+                "de": "Lassen Sie den Motor kurz laufen, um das Auto aufzuwärmen.",
+                "hu": "Járassa a motort kicsit, hogy felmelegedjen az autó.",
+                "ro": "Lăsați motorul să meargă puțin pentru a încălzi mașina.",
+                "en": "Run the heater for a bit to warm up the car."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Frost auf den Brücken über den Adaja.",
+              "Frostschutzmittel in der Scheibenwaschanlage ist in Ávila wichtig.",
+              "Die Altstadt ist bei Schnee bezaubernd, aber steil.",
+              "Nutzen Sie die Tiefgaragen, um ein vereistes Auto zu vermeiden.",
+              "Planen Sie die Rückfahrt vor Einbruch der Glätte am Abend."
+            ],
+            "hu": [
+              "Ügyeljen a fagyra az Adaja feletti hidakon.",
+              "A fagyálló szélvédőmosó Ávilában elengedhetetlen.",
+              "Az óváros hóban varázslatos, de meredek.",
+              "Használja a mélygarázsokat a jegesedés elkerülésére.",
+              "Tervezze meg a visszautat az esti fagy beállta előtt."
+            ],
+            "ro": [
+              "Atenție la îngheț pe podurile peste râul Adaja.",
+              "Lichidul de parbriz antigriz este esențial în Ávila.",
+              "Centrul vechi e superb sub zăpadă, dar e abrupt.",
+              "Folosiți parcările subterane pentru a evita înghețarea mașinii.",
+              "Planificați întoarcerea înainte de înghețul serii."
+            ],
+            "en": [
+              "Watch out for frost on the bridges over the Adaja.",
+              "Antifreeze windshield fluid is essential in Ávila.",
+              "The old town is charming in snow but very steep.",
+              "Use underground parking to avoid an icy car.",
+              "Plan your return trip before the evening freeze."
+            ]
+          }
+        }
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 6.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Stadtmauer von Ávila",
+            "hu": "Ávilai városfal",
+            "ro": "Zidurile din Ávila",
+            "en": "Walls of Ávila"
+          },
+          "coords": [
+            -4.6953,
+            40.6565
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie am Haupteingang.",
+            "hu": "A főbejáratnál kezdje a túrát.",
+            "ro": "Începeți turul de la poarta principală.",
+            "en": "Start your tour at the main gate."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale von Ávila",
+            "hu": "Ávilai katedrális",
+            "ro": "Catedrala din Ávila",
+            "en": "Ávila Cathedral"
+          },
+          "coords": [
+            -4.6964,
+            40.6563
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:32",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Das Innere ist beeindruckend kühl.",
+            "hu": "A belső tér kellemesen hűvös.",
+            "ro": "Interiorul este impresionant de răcoros.",
+            "en": "The interior is impressively cool."
+          }
+        },
+        {
+          "name": {
+            "de": "Plaza del Mercado Chico",
+            "hu": "Plaza del Mercado Chico",
+            "ro": "Plaza del Mercado Chico",
+            "en": "Plaza del Mercado Chico"
+          },
+          "coords": [
+            -4.6975,
+            40.6558
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:34",
+          "stay_min": 30,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Rathausplatz mit viel Geschichte.",
+            "hu": "Történelmi városháza tér.",
+            "ro": "Piața primăriei plină de istorie.",
+            "en": "Town hall square full of history."
+          }
+        },
+        {
+          "name": {
+            "de": "Basílica de San Vicente",
+            "hu": "San Vicente bazilika",
+            "ro": "Bazilica San Vicente",
+            "en": "Basilica of San Vicente"
+          },
+          "coords": [
+            -4.6946,
+            40.6582
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:28",
+          "stay_min": 50,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bushaltestelle direkt davor.",
+            "hu": "Buszmegálló közvetlenül előtte.",
+            "ro": "Stație de autobuz chiar în față.",
+            "en": "Bus stop located right in front."
+          }
+        },
+        {
+          "name": {
+            "de": "Convento de Santa Teresa",
+            "hu": "Szent Teréz kolostor",
+            "ro": "Mănăstirea Santa Teresa",
+            "en": "Convent of Santa Teresa"
+          },
+          "coords": [
+            -4.7003,
+            40.6552
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:24",
+          "stay_min": 50,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Wichtiges religiöses Zentrum.",
+            "hu": "Fontos vallási központ.",
+            "ro": "Important centru religios.",
+            "en": "Important religious center."
+          }
+        },
+        {
+          "name": {
+            "de": "Real Monasterio de Santo Tomás",
+            "hu": "Szent Tamás királyi kolostor",
+            "ro": "Mănăstirea Santo Tomás",
+            "en": "Royal Monastery of Santo Tomás"
+          },
+          "coords": [
+            -4.6917,
+            40.6486
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Buslinie 1 hält in der Nähe.",
+            "hu": "Az 1-es busz megáll a közelben.",
+            "ro": "Linia de autobuz 1 oprește aproape.",
+            "en": "Bus line 1 stops nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Los Cuatro Postes",
+            "hu": "Los Cuatro Postes kilátó",
+            "ro": "Los Cuatro Postes",
+            "en": "Los Cuatro Postes"
+          },
+          "coords": [
+            -4.7107,
+            40.6606
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "16:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Taxi für den Rückweg einplanen.",
+            "hu": "Tervezzen taxit a visszaútra.",
+            "ro": "Planificați un taxi la întoarcere.",
+            "en": "Consider a taxi for the way back."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie Ávila mit öffentlichen Verkehrsmitteln. Morgens besuchen Sie die Stadtmauer und die Kathedrale. Mittags spazieren Sie über den Mercado Chico. Nachmittags bringen Sie die lokalen Busse zu San Vicente, Santa Teresa und Santo Tomás. Der Tag endet am Aussichtspunkt Cuatro Postes, den Sie ebenfalls gut mit dem Bus oder Taxi erreichen.",
+        "hu": "Fedezze fel Ávilát tömegközlekedéssel. Reggel a várfalat és a katedrálist látogatjuk meg. Délben a Mercado Chico téren sétálunk. Délután a helyi buszjáratok elrepítik San Vicente, Szent Teréz és Santo Tomás helyszíneire. A nap a Cuatro Postes kilátónál zárul, amely busszal vagy taxival is könnyen megközelíthető.",
+        "ro": "Descoperiți Ávila folosind transportul public. Dimineața vizităm zidurile și catedrala. La prânz ne plimbăm prin Mercado Chico. După-amiaza, autobuzele locale ne duc la San Vicente, Santa Teresa și Santo Tomás. Ziua se încheie la punctul de observație Cuatro Postes, accesibil ușor cu autobuzul sau taxiul.",
+        "en": "Discover Ávila using public transport. Start with the walls and cathedral in the morning. Midday is for a stroll through Mercado Chico. Afternoon local buses take you to San Vicente, Santa Teresa, and Santo Tomás. The day concludes at the Cuatro Postes viewpoint, easily reached by bus or taxi."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Mochetes",
+            "tip": "Klassische Tapas-Bar im Zentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mochetes",
+            "tip": "Klasszikus tapas bár a központban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mochetes",
+            "tip": "Bar de tapas clasic în centru."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mochetes",
+            "tip": "Classic tapas bar in the center."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Convento de Gracia",
+            "tip": "Ein stiller Ort zum Innehalten.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Convento de Gracia",
+            "tip": "Csendes hely az elmélyüléshez.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Convento de Gracia",
+            "tip": "Un loc liniștit pentru meditație.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Convento de Gracia",
+            "tip": "A quiet place for reflection.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mercado de Abastos",
+            "tip": "Lokale Produkte und Käse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mercado de Abastos",
+            "tip": "Helyi termékek és sajtok piaca."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mercado de Abastos",
+            "tip": "Piață cu produse locale și brânzeturi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mercado de Abastos",
+            "tip": "Local market for products and cheese."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Buslinie 1 verbindet die wichtigsten Punkte.",
+          "Fahrkarten können beim Fahrer gekauft werden.",
+          "Suchen Sie nach 'Parada de Autobús' Schildern.",
+          "Taxis sind eine günstige Alternative für Gruppen."
+        ],
+        "hu": [
+          "Az 1-es buszvonal köti össze a főbb pontokat.",
+          "A jegyek megvásárolhatók a sofőrnél.",
+          "Keresse a 'Parada de Autobús' táblákat.",
+          "A taxi kedvező alternatíva lehet csoportoknak."
+        ],
+        "ro": [
+          "Linia 1 conectează punctele principale.",
+          "Biletele pot fi cumpărate de la șofer.",
+          "Căutați indicatoarele 'Parada de Autobús'.",
+          "Taxiurile sunt o alternativă ieftină pentru grupuri."
+        ],
+        "en": [
+          "Bus line 1 connects the main sights.",
+          "Tickets can be purchased from the driver.",
+          "Look for 'Parada de Autobús' signs.",
+          "Taxis are a cost-effective alternative for groups."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Entdecken Sie Ávila mit öffentlichen Verkehrsmitteln. Morgens besuchen Sie die Stadtmauer und die Kathedrale. Mittags spazieren Sie über den Mercado Chico. Nachmittags bringen Sie die lokalen Busse zu San Vicente, Santa Teresa und Santo Tomás. Der Tag endet am Aussichtspunkt Cuatro Postes, den Sie ebenfalls gut mit dem Bus oder Taxi erreichen.",
+            "hu": "Fedezze fel Ávilát tömegközlekedéssel. Reggel a várfalat és a katedrálist látogatjuk meg. Délben a Mercado Chico téren sétálunk. Délután a helyi buszjáratok elrepítik San Vicente, Szent Teréz és Santo Tomás helyszíneire. A nap a Cuatro Postes kilátónál zárul, amely busszal vagy taxival is könnyen megközelíthető.",
+            "ro": "Descoperiți Ávila folosind transportul public. Dimineața vizităm zidurile și catedrala. La prânz ne plimbăm prin Mercado Chico. După-amiaza, autobuzele locale ne duc la San Vicente, Santa Teresa și Santo Tomás. Ziua se încheie la punctul de observație Cuatro Postes, accesibil ușor cu autobuzul sau taxiul.",
+            "en": "Discover Ávila using public transport. Start with the walls and cathedral in the morning. Midday is for a stroll through Mercado Chico. Afternoon local buses take you to San Vicente, Santa Teresa, and Santo Tomás. The day concludes at the Cuatro Postes viewpoint, easily reached by bus or taxi."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Stadtmauer von Ávila",
+                "hu": "Ávilai városfal",
+                "ro": "Zidurile din Ávila",
+                "en": "Walls of Ávila"
+              },
+              "tip_5lang": {
+                "de": "Beginnen Sie am Haupteingang.",
+                "hu": "A főbejáratnál kezdje a túrát.",
+                "ro": "Începeți turul de la poarta principală.",
+                "en": "Start your tour at the main gate."
+              }
+            },
+            {
+              "name": {
+                "de": "Kathedrale von Ávila",
+                "hu": "Ávilai katedrális",
+                "ro": "Catedrala din Ávila",
+                "en": "Ávila Cathedral"
+              },
+              "tip_5lang": {
+                "de": "Das Innere ist beeindruckend kühl.",
+                "hu": "A belső tér kellemesen hűvös.",
+                "ro": "Interiorul este impresionant de răcoros.",
+                "en": "The interior is impressively cool."
+              }
+            },
+            {
+              "name": {
+                "de": "Plaza del Mercado Chico",
+                "hu": "Plaza del Mercado Chico",
+                "ro": "Plaza del Mercado Chico",
+                "en": "Plaza del Mercado Chico"
+              },
+              "tip_5lang": {
+                "de": "Rathausplatz mit viel Geschichte.",
+                "hu": "Történelmi városháza tér.",
+                "ro": "Piața primăriei plină de istorie.",
+                "en": "Town hall square full of history."
+              }
+            },
+            {
+              "name": {
+                "de": "Basílica de San Vicente",
+                "hu": "San Vicente bazilika",
+                "ro": "Bazilica San Vicente",
+                "en": "Basilica of San Vicente"
+              },
+              "tip_5lang": {
+                "de": "Bushaltestelle direkt davor.",
+                "hu": "Buszmegálló közvetlenül előtte.",
+                "ro": "Stație de autobuz chiar în față.",
+                "en": "Bus stop located right in front."
+              }
+            },
+            {
+              "name": {
+                "de": "Convento de Santa Teresa",
+                "hu": "Szent Teréz kolostor",
+                "ro": "Mănăstirea Santa Teresa",
+                "en": "Convent of Santa Teresa"
+              },
+              "tip_5lang": {
+                "de": "Wichtiges religiöses Zentrum.",
+                "hu": "Fontos vallási központ.",
+                "ro": "Important centru religios.",
+                "en": "Important religious center."
+              }
+            },
+            {
+              "name": {
+                "de": "Real Monasterio de Santo Tomás",
+                "hu": "Szent Tamás királyi kolostor",
+                "ro": "Mănăstirea Santo Tomás",
+                "en": "Royal Monastery of Santo Tomás"
+              },
+              "tip_5lang": {
+                "de": "Buslinie 1 hält in der Nähe.",
+                "hu": "Az 1-es busz megáll a közelben.",
+                "ro": "Linia de autobuz 1 oprește aproape.",
+                "en": "Bus line 1 stops nearby."
+              }
+            },
+            {
+              "name": {
+                "de": "Los Cuatro Postes",
+                "hu": "Los Cuatro Postes kilátó",
+                "ro": "Los Cuatro Postes",
+                "en": "Los Cuatro Postes"
+              },
+              "tip_5lang": {
+                "de": "Taxi für den Rückweg einplanen.",
+                "hu": "Tervezzen taxit a visszaútra.",
+                "ro": "Planificați un taxi la întoarcere.",
+                "en": "Consider a taxi for the way back."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Mochetes",
+                "tip": "Klassische Tapas-Bar im Zentrum."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Mochetes",
+                "tip": "Klasszikus tapas bár a központban."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Mochetes",
+                "tip": "Bar de tapas clasic în centru."
+              }
+            ],
+            "en": [
+              {
+                "name": "Mochetes",
+                "tip": "Classic tapas bar in the center."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Convento de Gracia",
+                "tip": "Ein stiller Ort zum Innehalten.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Convento de Gracia",
+                "tip": "Csendes hely az elmélyüléshez.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Convento de Gracia",
+                "tip": "Un loc liniștit pentru meditație.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Convento de Gracia",
+                "tip": "A quiet place for reflection.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Mercado de Abastos",
+                "tip": "Lokale Produkte und Käse."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Mercado de Abastos",
+                "tip": "Helyi termékek és sajtok piaca."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Mercado de Abastos",
+                "tip": "Piață cu produse locale și brânzeturi."
+              }
+            ],
+            "en": [
+              {
+                "name": "Mercado de Abastos",
+                "tip": "Local market for products and cheese."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Die Buslinie 1 verbindet die wichtigsten Punkte.",
+              "Fahrkarten können beim Fahrer gekauft werden.",
+              "Suchen Sie nach 'Parada de Autobús' Schildern.",
+              "Taxis sind eine günstige Alternative für Gruppen."
+            ],
+            "hu": [
+              "Az 1-es buszvonal köti össze a főbb pontokat.",
+              "A jegyek megvásárolhatók a sofőrnél.",
+              "Keresse a 'Parada de Autobús' táblákat.",
+              "A taxi kedvező alternatíva lehet csoportoknak."
+            ],
+            "ro": [
+              "Linia 1 conectează punctele principale.",
+              "Biletele pot fi cumpărate de la șofer.",
+              "Căutați indicatoarele 'Parada de Autobús'.",
+              "Taxiurile sunt o alternativă ieftină pentru grupuri."
+            ],
+            "en": [
+              "Bus line 1 connects the main sights.",
+              "Tickets can be purchased from the driver.",
+              "Look for 'Parada de Autobús' signs.",
+              "Taxis are a cost-effective alternative for groups."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie die Busse von Ávila, um bei Regen trocken zu bleiben. Starten Sie an der Stadtmauer und fahren Sie zur Kathedrale. Mittags bietet der Plaza del Mercado Chico Cafés in Busnähe. Besuchen Sie die Klöster bequem mit dem Nahverkehr. Ein kurzer Bus- oder Taxitrip bringt Sie zum Los Cuatro Postes für den abendlichen Ausblick, ohne nass zu werden.",
+            "hu": "Használja Ávila buszait, hogy esőben is száraz maradjon. Kezdjen a várfalnál, majd utazzon a katedrálishoz. Délben a Plaza del Mercado Chico kávézói a buszmegállók közelében vannak. Látogassa meg a kolostorokat kényelmesen tömegközlekedéssel. Egy rövid busz- vagy taxiút elviszi a Cuatro Posteshez az esti kilátáshoz.",
+            "ro": "Folosiți autobuzele din Ávila pentru a rămâne uscat pe ploaie. Începeți la ziduri, apoi mergeți spre catedrală. La prânz, cafenelele din Plaza del Mercado Chico sunt aproape de stații. Vizitați mănăstirile confortabil cu transportul public. O scurtă cursă cu autobuzul sau taxiul vă duce la Los Cuatro Postes pentru panorama de seară.",
+            "en": "Use Ávila's buses to stay dry during the rain. Start at the walls and travel to the Cathedral. At noon, the cafes of Plaza del Mercado Chico are near bus stops. Visit the convents comfortably by public transport. A short bus or taxi ride takes you to Los Cuatro Postes for the evening view without getting soaked."
+          },
+          "stops": [
+            {
+              "name": "Walls of Ávila",
+              "tip_5lang": {
+                "de": "Haupthaltestelle direkt am San Vicente Tor.",
+                "hu": "Fő megálló közvetlenül a San Vicente kapunál.",
+                "ro": "Stația principală este chiar la poarta San Vicente.",
+                "en": "Main bus stop right at San Vicente gate."
+              }
+            },
+            {
+              "name": "Ávila Cathedral",
+              "tip_5lang": {
+                "de": "Kurzer Sprint von der Haltestelle zum Kircheneingang.",
+                "hu": "Rövid futás a megállótól a templom bejáratáig.",
+                "ro": "Scurt sprint de la stație până la intrarea în biserică.",
+                "en": "Short sprint from the stop to the church entrance."
+              }
+            },
+            {
+              "name": "Plaza del Mercado Chico",
+              "tip_5lang": {
+                "de": "Warten Sie unter den Arkaden auf den nächsten Bus.",
+                "hu": "Várja az árkádok alatt a következő buszt.",
+                "ro": "Așteptați sub arcade următorul autobuz.",
+                "en": "Wait under the arcades for the next bus."
+              }
+            },
+            {
+              "name": "Basilica of San Vicente",
+              "tip_5lang": {
+                "de": "Buslinien 1 und 3 halten ganz in der Nähe.",
+                "hu": "Az 1-es és 3-as buszok a közelben állnak meg.",
+                "ro": "Liniile de autobuz 1 și 3 opresc foarte aproape.",
+                "en": "Bus lines 1 and 3 stop very close by."
+              }
+            },
+            {
+              "name": "Convent of Santa Teresa",
+              "tip_5lang": {
+                "de": "Nutzen Sie die App für Echtzeit-Abfahrten.",
+                "hu": "Használja az applikációt a valós idejű indulásokhoz.",
+                "ro": "Folosiți aplicația pentru plecări în timp real.",
+                "en": "Use the app for real-time departures."
+              }
+            },
+            {
+              "name": "Royal Monastery of Santo Tomás",
+              "tip_5lang": {
+                "de": "Haltestelle direkt gegenüber des Klostereingangs.",
+                "hu": "Megálló közvetlenül a kolostor bejáratával szemben.",
+                "ro": "Stație chiar vis-à-vis de intrarea mănăstirii.",
+                "en": "Stop right opposite the monastery entrance."
+              }
+            },
+            {
+              "name": "Los Cuatro Postes",
+              "tip_5lang": {
+                "de": "Ein Taxi ist bei Regen einfacher als der Bus hierher.",
+                "hu": "Egy taxi esőben egyszerűbb, mint a busz ide.",
+                "ro": "Un taxi este mai simplu decât autobuzul până aici pe ploaie.",
+                "en": "A taxi is easier than the bus to get here in rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kaufen Sie eine Mehrfahrtenkarte beim Fahrer.",
+              "Die Busse sind im Winter und bei Regen sehr zuverlässig.",
+              "Nutzen Sie Google Maps für die aktuellen Busverbindungen.",
+              "Taxi-Stände finden Sie am Plaza de Santa Teresa.",
+              "Die Wartehäuschen bieten guten Schutz vor Wind."
+            ],
+            "hu": [
+              "Vásároljon gyűjtőjegyet a buszvezetőnél.",
+              "A buszok télen és esőben is megbízhatóak.",
+              "Használja a Google Mapset az aktuális járatokhoz.",
+              "Taxiállomást a Plaza de Santa Teresánál talál.",
+              "A várótermek jó védelmet nyújtanak a szél ellen."
+            ],
+            "ro": [
+              "Cumpărați un bilet cu mai multe călătorii de la șofer.",
+              "Autobuzele sunt foarte fiabile iarna și pe ploaie.",
+              "Folosiți Google Maps pentru conexiunile actuale.",
+              "Găsiți stații de taxi în Plaza de Santa Teresa.",
+              "Adăposturile din stații oferă protecție bună contra vântului."
+            ],
+            "en": [
+              "Buy a multi-trip card from the driver.",
+              "Buses are very reliable in winter and rain.",
+              "Use Google Maps for current bus connections.",
+              "Find taxi ranks at Plaza de Santa Teresa.",
+              "Bus shelters offer good protection from the wind."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Busse von Ávila sind im Winter angenehm geheizt. Starten Sie an den Mauern und lassen Sie sich zur Kathedrale bringen. Genießen Sie den Mittag am Markt und besuchen Sie die Kirchen im Schutz des Nahverkehrs. Am späten Nachmittag bringt Sie der Bus zum Kloster Santo Tomás. Ein abschließendes Taxi zum Los Cuatro Postes bietet Komfort bei klirrender Winterkälte.",
+            "hu": "Ávila buszai télen kellemesen fűtöttek. Kezdjen a várfalaknál, majd vitessen magát a katedrálishoz. Élvezze a delet a piacon, és látogassa meg a templomokat a tömegközlekedés védelmében. Késő délután a busz elviszi a Santo Tomás kolostorhoz. Egy záró taxi a Cuatro Posteshez kényelmet nyújt a fagyos téli hidegben.",
+            "ro": "Autobuzele din Ávila sunt plăcut încălzite iarna. Începeți la ziduri și lăsați-vă dus spre catedrală. Bucurați-vă de prânz în piață și vizitați bisericile la adăpostul transportului public. După-amiaza târziu, autobuzul vă duce la mănăstirea Santo Tomás. Un taxi final spre Los Cuatro Postes oferă confort în gerul iernii.",
+            "en": "Ávila's buses are pleasantly heated in winter. Start at the walls and take a ride to the Cathedral. Enjoy noon at the market and visit the churches protected by public transport. In the late afternoon, the bus takes you to Santo Tomás Monastery. A final taxi to Los Cuatro Postes offers comfort in the biting winter cold."
+          },
+          "stops": [
+            {
+              "name": "Walls of Ávila",
+              "tip_5lang": {
+                "de": "Warten Sie in der Nähe des San Vicente Tors im Windschatten.",
+                "hu": "Várjon a San Vicente kapu közelében a szélvédett oldalon.",
+                "ro": "Așteptați în apropierea porții San Vicente, la adăpost de vânt.",
+                "en": "Wait near San Vicente gate in the lee of the wind."
+              }
+            },
+            {
+              "name": "Ávila Cathedral",
+              "tip_5lang": {
+                "de": "Die Busse fahren alle 15-20 Minuten.",
+                "hu": "A buszok 15-20 percenként járnak.",
+                "ro": "Autobuzele trec la fiecare 15-20 de minute.",
+                "en": "Buses run every 15-20 minutes."
+              }
+            },
+            {
+              "name": "Plaza del Mercado Chico",
+              "tip_5lang": {
+                "de": "Ein kurzer Weg zur Haltestelle an der Plaza de la Victoria.",
+                "hu": "Rövid út a megállóhoz a Plaza de la Victoriánál.",
+                "ro": "Drum scurt până la stația din Plaza de la Victoria.",
+                "en": "Short walk to the stop at Plaza de la Victoria."
+              }
+            },
+            {
+              "name": "Basilica of San Vicente",
+              "tip_5lang": {
+                "de": "Heizung in den Bussen ist im Winter sehr willkommen.",
+                "hu": "A fűtés a buszokon télen nagyon hívogató.",
+                "ro": "Încălzirea din autobuze este binevenită iarna.",
+                "en": "Heating in the buses is very welcome in winter."
+              }
+            },
+            {
+              "name": "Convent of Santa Teresa",
+              "tip_5lang": {
+                "de": "Haltestelle direkt vor der Tür, ideal bei Frost.",
+                "hu": "Megálló közvetlenül az ajtó előtt, ideális fagyban.",
+                "ro": "Stație chiar în fața ușii, ideală pe ger.",
+                "en": "Stop right outside the door, ideal in freezing weather."
+              }
+            },
+            {
+              "name": "Royal Monastery of Santo Tomás",
+              "tip_5lang": {
+                "de": "Der Bus Linie 4 verbindet das Kloster mit dem Zentrum.",
+                "hu": "A 4-es busz köti össze a kolostort a központtal.",
+                "ro": "Linia 4 de autobuz leagă mănăstirea de centru.",
+                "en": "Bus line 4 connects the monastery with the center."
+              }
+            },
+            {
+              "name": "Los Cuatro Postes",
+              "tip_5lang": {
+                "de": "Lassen Sie das Taxi warten, wenn es extrem kalt ist.",
+                "hu": "Hagyja várni a taxit, ha rendkívül hideg van.",
+                "ro": "Lăsați taxiul să aștepte dacă este extrem de frig.",
+                "en": "Have the taxi wait for you if it's extremely cold."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Busse sind der wärmste Weg zwischen den Sehenswürdigkeiten.",
+              "Fahrpläne hängen an jeder Haltestelle aus.",
+              "Abends fahren die Busse seltener; planen Sie voraus.",
+              "Ein Einzelfahrschein kostet etwa 1 Euro.",
+              "In den Bussen ist es oft eng, aber warm."
+            ],
+            "hu": [
+              "A busz a legmelegebb út a látnivalók között.",
+              "A menetrendek minden megállóban ki vannak függesztve.",
+              "Este a buszok ritkábban járnak; tervezzen előre.",
+              "Egy vonaljegy körülbelül 1 euróba kerül.",
+              "A buszokon gyakran nagy a tömeg, de meleg van."
+            ],
+            "ro": [
+              "Autobuzul este cea mai călduroasă cale între obiective.",
+              "Orarele sunt afișate în fiecare stație.",
+              "Seara autobuzele circulă mai rar; planificați din timp.",
+              "Un bilet dus costă aproximativ 1 euro.",
+              "În autobuze este adesea aglomerat, dar cald."
+            ],
+            "en": [
+              "Buses are the warmest way to get between sights.",
+              "Schedules are posted at every stop.",
+              "Buses run less frequently in the evening; plan ahead.",
+              "A single ticket costs about 1 Euro.",
+              "Buses are often crowded but warm."
+            ]
+          }
+        }
+      }
+    }
+  },
+  "external_resources": {
+    "webcam": "https://www.skylinewebcams.com/en/webcam/espana/castilla-y-leon/avila/avila.html",
+    "tourism_office": "https://www.avilaturismo.com/en/",
+    "city_card": "https://www.avilaturismo.com/en/visita-avila",
+    "events": "https://www.avilaturismo.com/en/agenda",
+    "language_tips": {
+      "de": "Avila spricht klares Kastilisch wie Salamanca, sehr verstaendlich. Englisch klappt in Hotels und groesseren Restaurants, in kleinen Tapas-Lokalen weniger. 'Yemas de Santa Teresa' (Eigelb-Suessigkeiten) sind die Spezialitaet — frag nach 'una caja, por favor'.",
+      "hu": "Avila tiszta kasztiliait beszel, mint Salamanca, jol erthet. Szallodaban es nagyobb ettermekben az angol megy, kis tapas-helyeken kevesbe. A 'Yemas de Santa Teresa' (tojassargas edesseg) a specialitas — kerd 'una caja, por favor' formaban.",
+      "ro": "Avila vorbeste castiliana clara ca Salamanca, foarte usor de inteles. Engleza merge la hoteluri si restaurante mai mari, in tapas-bar-uri mici mai putin. 'Yemas de Santa Teresa' (dulciuri din galbenus) e specialitatea, cere 'una caja, por favor'.",
+      "en": "Avila speaks the clear Castilian of Salamanca — very intelligible. English works in hotels and bigger restaurants, less so in small tapas places. 'Yemas de Santa Teresa' (egg-yolk sweets) are the local specialty — ask for 'una caja, por favor'."
+    },
+    "best_time_to_visit": {
+      "de": "Mai bis Juni und September sind ideal: 15-24 Grad, klare Sicht auf die Stadtmauer. Avila liegt auf 1130 Metern und ist immer kuehler als Madrid — selbst im Juli und August oft nur 28 Grad. Im Winter kann es schneien, die beleuchtete Stadtmauer im Schnee ist magisch aber eisig.",
+      "hu": "Majus-junius es szeptember ideal: 15-24 fok, tiszta kilatas a varfalra. Avila 1130 meteren fekszik, mindig huvosebb mint Madrid — meg julius-augusztusban is gyakran csak 28 fok. Telen havazhat, a kivilagitott varfal hoban varazslatos de jegmegszi.",
+      "ro": "Mai-iunie si septembrie sunt ideale: 15-24 grade, vedere clara la zidul cetatii. Avila e la 1130 metri si e mereu mai racoroasa decat Madridul, chiar si in iulie-august deseori doar 28 grade. Iarna poate ninge, zidul iluminat sub zapada e magic dar geros.",
+      "en": "May-June and September are ideal: 15-24°C, with clear views of the city walls. Avila sits at 1130 metres and is always cooler than Madrid — even July and August often peak at just 28°C. Winter can bring snow, and the lit-up walls in snow are magical but freezing."
+    },
+    "neighborhood_warnings": {
+      "de": "Sehr sichere Kleinstadt, kaum Kriminalitaet. Nachts wird es ruhig — die meisten Restaurants schliessen frueh (22 Uhr), also nicht zu spaet zum Abendessen kommen. Auf der Stadtmauer Vorsicht bei Wind, manche Abschnitte sind ungesichert.",
+      "hu": "Nagyon biztonsagos kisvaros, alig van bunozes. Ejjel csendes — a legtobb etterem korin zar (22h), ne menj tul keson vacsorazni. A varfalon szelben ovatosan, nehany szakasz nincs leszigetelve.",
+      "ro": "Oras mic foarte sigur, criminalitate aproape inexistenta. Noaptea e linistit, majoritatea restaurantelor inchid devreme (22:00), nu intarzia la cina. Pe zidul cetatii atentie cand bate vantul, unele portiuni nu sunt securizate.",
+      "en": "Very safe small town with almost no crime. Nights are quiet — most restaurants close early (10pm), so don't arrive too late for dinner. On the city walls, take care in wind: some sections lack guardrails."
+    },
+    "museum_tickets": "https://catedralavila.es/"
+  }
+}

@@ -1,0 +1,2486 @@
+{
+  "city_id": "playa-blanca",
+  "anchor": {
+    "name": "Playa Blanca",
+    "coords": [
+      -13.8278,
+      28.8628
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "18:45",
+      "total_km": 4.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Playa Flamingo",
+            "hu": "Playa Flamingo",
+            "ro": "Playa Flamingo",
+            "en": "Playa Flamingo"
+          },
+          "coords": [
+            -13.8405,
+            28.8582
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Ruhiges Wasser, ideal zum morgendlichen Schwimmen.",
+            "hu": "Nyugodt víz, ideális egy reggeli úszáshoz.",
+            "ro": "Apă liniștită, ideală pentru înotul de dimineață.",
+            "en": "Calm waters, ideal for a morning swim."
+          }
+        },
+        {
+          "name": {
+            "de": "Paseo Marítimo",
+            "hu": "Paseo Marítimo",
+            "ro": "Paseo Marítimo",
+            "en": "Paseo Marítimo"
+          },
+          "coords": [
+            -13.832,
+            28.8615
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Genießen Sie die Aussicht auf Fuerteventura.",
+            "hu": "Élvezze a kilátást Fuerteventura szigetére.",
+            "ro": "Bucurați-vă de priveliștea spre Fuerteventura.",
+            "en": "Enjoy the views across to Fuerteventura."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa Dorada",
+            "hu": "Playa Dorada",
+            "ro": "Playa Dorada",
+            "en": "Playa Dorada"
+          },
+          "coords": [
+            -13.8215,
+            28.8605
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Goldener Sand und klares Wasser zum Schnorcheln.",
+            "hu": "Aranyhomok és tiszta víz a búvárkodáshoz.",
+            "ro": "Nisip auriu și apă limpede pentru snorkeling.",
+            "en": "Golden sand and clear water for snorkeling."
+          }
+        },
+        {
+          "name": {
+            "de": "Marina Rubicón",
+            "hu": "Marina Rubicón",
+            "ro": "Marina Rubicón",
+            "en": "Marina Rubicón"
+          },
+          "coords": [
+            -13.8155,
+            28.8575
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Exklusive Jachten und gemütliche Cafés am Wasser.",
+            "hu": "Exkluzív jachtok és hangulatos kávézók a parton.",
+            "ro": "Iachturi exclusive și cafenele primitoare pe mal.",
+            "en": "Exclusive yachts and cozy waterfront cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "Castillo de las Coloradas",
+            "hu": "Castillo de las Coloradas",
+            "ro": "Castillo de las Coloradas",
+            "en": "Castillo de las Coloradas"
+          },
+          "coords": [
+            -13.8095,
+            28.8558
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "16:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein historischer Wehrturm mit Blick auf die Klippen.",
+            "hu": "Történelmi őrtorony kilátással a sziklákra.",
+            "ro": "Un turn de apărare istoric cu vedere la stânci.",
+            "en": "A historic defense tower with cliff views."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Atlántico (Info)",
+            "hu": "Atlanti Múzeum (Infó)",
+            "ro": "Museo Atlántico (Info)",
+            "en": "Museo Atlántico (Info)"
+          },
+          "coords": [
+            -13.812,
+            28.8565
+          ],
+          "category": "museums",
+          "arrive_at": "17:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Informieren Sie sich über das Unterwassermuseum.",
+            "hu": "Tájékozódjon a víz alatti szoborparkról.",
+            "ro": "Aflați detalii despre muzeul subacvatic.",
+            "en": "Learn about the underwater sculpture museum."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag an der entspannten Playa Flamingo, bevor Sie über die belebte Promenade schlendern. Der Vormittag gehört dem weichen Sand der Playa Dorada.\r\n\r\nMittags erreichen Sie die elegante Marina Rubicón für ein erstklassiges Mittagessen direkt am Hafenbecken unter strahlender Sonne.\r\n\r\nAm Nachmittag erkunden Sie die historische Festung Las Coloradas und erfahren mehr über das faszinierende Projekt des Museo Atlántico.\r\n\r\nLassen Sie den Tag in einem der Restaurants an der Marina ausklingen, während die Sonne langsam hinter den Vulkanbergen versinkt.",
+        "hu": "Kezdje a napot a pihentető Playa Flamingo strandon, majd sétáljon végig a nyüzsgő tengerparti sétányon. A délelőtt a Playa Dorada puha homokjáé.\r\n\r\nDélben érkezzen meg az elegáns Marina Rubicón kikötőbe egy első osztályú ebédre, közvetlenül a vízparton, a szikrázó napsütésben.\r\n\r\nDélután fedezze fel a történelmi Las Coloradas erődöt, és tudjon meg többet az Atlanti Múzeum lenyűgöző víz alatti projektjéről.\r\n\r\nZárja a napot a kikötő egyik éttermében, miközben a nap lassan eltűnik a vulkáni hegyek mögött.",
+        "ro": "Începeți ziua la relaxanta Playa Flamingo, apoi plimbați-vă pe faleza plină de viață. Dimineața aparține nisipului fin de la Playa Dorada.\r\n\r\nLa prânz, ajungeți în eleganta Marina Rubicón pentru o masă de primă clasă chiar lângă port, sub soarele strălucitor.\r\n\r\nDupă-amiaza, explorați fortăreața istorică Las Coloradas și aflați mai multe despre proiectul fascinant al Museo Atlántico.\r\n\r\nÎncheiați ziua la unul dintre restaurantele din marină, în timp ce soarele apune încet în spatele munților vulcanici.",
+        "en": "Start your day at the relaxing Playa Flamingo before strolling along the lively Paseo Marítimo. The morning is dedicated to the soft sands of Playa Dorada.\r\n\r\nAt midday, reach the elegant Marina Rubicón for a first-class lunch right by the harbor under the bright Canarian sun.\r\n\r\nIn the afternoon, explore the historic Las Coloradas fortress and learn about the fascinating Museo Atlántico underwater project.\r\n\r\nEnd your day at one of the marina's restaurants as the sun slowly sinks behind the volcanic mountains."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Casa Carlos",
+            "tip": "Frischer Fisch und Paella mit Hafenblick."
+          },
+          {
+            "name": "Limoncello",
+            "tip": "Italienische Küche in der Marina Rubicón."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Casa Carlos",
+            "tip": "Friss halak és paella kikötői kilátással."
+          },
+          {
+            "name": "Limoncello",
+            "tip": "Olasz konyha a Marina Rubicón kikötőben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Casa Carlos",
+            "tip": "Pește proaspăt și paella cu vedere la port."
+          },
+          {
+            "name": "Limoncello",
+            "tip": "Bucătărie italiană în Marina Rubicón."
+          }
+        ],
+        "en": [
+          {
+            "name": "Casa Carlos",
+            "tip": "Fresh fish and paella with harbor views."
+          },
+          {
+            "name": "Limoncello",
+            "tip": "Italian cuisine in Marina Rubicón."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Castillo Klippen",
+            "tip": "Ruhiger Blick auf das Meer.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Castillo sziklák",
+            "tip": "Csendes kilátás a végtelen óceánra.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stâncile Castillo",
+            "tip": "Vedere liniștită spre mare.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Castillo Cliffs",
+            "tip": "Quiet views of the open sea.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Marina Market",
+            "tip": "Mittwochs und samstags lokales Kunsthandwerk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Marina Piac",
+            "tip": "Szerdán és szombaton helyi kézműves termékek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Marina",
+            "tip": "Miercurea și sâmbăta produse artizanale locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Marina Market",
+            "tip": "Local crafts every Wednesday and Saturday."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für die Promenade.",
+          "Sonnenschutz ist ein Muss.",
+          "Marina Rubicón ist abends am schönsten.",
+          "Reservieren Sie für das Abendessen."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt a sétányhoz.",
+          "A naptej használata kötelező.",
+          "A Marina Rubicón este a leghangulatosabb.",
+          "Érdemes asztalt foglalni vacsorához."
+        ],
+        "ro": [
+          "Purtați încălțăminte comodă pentru faleză.",
+          "Protecția solară este obligatorie.",
+          "Marina Rubicón este cea mai frumoasă seara.",
+          "Rezervați masă pentru cină."
+        ],
+        "en": [
+          "Wear comfortable shoes for the promenade.",
+          "Sun protection is a must.",
+          "Marina Rubicón is most atmospheric in the evening.",
+          "Book ahead for dinner."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag an der entspannten Playa Flamingo, bevor Sie über die belebte Promenade schlendern. Der Vormittag gehört dem weichen Sand der Playa Dorada.\r\n\r\nMittags erreichen Sie die elegante Marina Rubicón für ein erstklassiges Mittagessen direkt am Hafenbecken unter strahlender Sonne.\r\n\r\nAm Nachmittag erkunden Sie die historische Festung Las Coloradas und erfahren mehr über das faszinierende Projekt des Museo Atlántico.\r\n\r\nLassen Sie den Tag in einem der Restaurants an der Marina ausklingen, während die Sonne langsam hinter den Vulkanbergen versinkt.",
+            "hu": "Kezdje a napot a pihentető Playa Flamingo strandon, majd sétáljon végig a nyüzsgő tengerparti sétányon. A délelőtt a Playa Dorada puha homokjáé.\r\n\r\nDélben érkezzen meg az elegáns Marina Rubicón kikötőbe egy első osztályú ebédre, közvetlenül a vízparton, a szikrázó napsütésben.\r\n\r\nDélután fedezze fel a történelmi Las Coloradas erődöt, és tudjon meg többet az Atlanti Múzeum lenyűgöző víz alatti projektjéről.\r\n\r\nZárja a napot a kikötő egyik éttermében, miközben a nap lassan eltűnik a vulkáni hegyek mögött.",
+            "ro": "Începeți ziua la relaxanta Playa Flamingo, apoi plimbați-vă pe faleza plină de viață. Dimineața aparține nisipului fin de la Playa Dorada.\r\n\r\nLa prânz, ajungeți în eleganta Marina Rubicón pentru o masă de primă clasă chiar lângă port, sub soarele strălucitor.\r\n\r\nDupă-amiaza, explorați fortăreața istorică Las Coloradas și aflați mai multe despre proiectul fascinant al Museo Atlántico.\r\n\r\nÎncheiați ziua la unul dintre restaurantele din marină, în timp ce soarele apune încet în spatele munților vulcanici.",
+            "en": "Start your day at the relaxing Playa Flamingo before strolling along the lively Paseo Marítimo. The morning is dedicated to the soft sands of Playa Dorada.\r\n\r\nAt midday, reach the elegant Marina Rubicón for a first-class lunch right by the harbor under the bright Canarian sun.\r\n\r\nIn the afternoon, explore the historic Las Coloradas fortress and learn about the fascinating Museo Atlántico underwater project.\r\n\r\nEnd your day at one of the marina's restaurants as the sun slowly sinks behind the volcanic mountains."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Playa Flamingo",
+                "hu": "Playa Flamingo",
+                "ro": "Playa Flamingo",
+                "en": "Playa Flamingo"
+              },
+              "tip_5lang": {
+                "de": "Ruhiges Wasser, ideal zum morgendlichen Schwimmen.",
+                "hu": "Nyugodt víz, ideális egy reggeli úszáshoz.",
+                "ro": "Apă liniștită, ideală pentru înotul de dimineață.",
+                "en": "Calm waters, ideal for a morning swim."
+              }
+            },
+            {
+              "name": {
+                "de": "Paseo Marítimo",
+                "hu": "Paseo Marítimo",
+                "ro": "Paseo Marítimo",
+                "en": "Paseo Marítimo"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Aussicht auf Fuerteventura.",
+                "hu": "Élvezze a kilátást Fuerteventura szigetére.",
+                "ro": "Bucurați-vă de priveliștea spre Fuerteventura.",
+                "en": "Enjoy the views across to Fuerteventura."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa Dorada",
+                "hu": "Playa Dorada",
+                "ro": "Playa Dorada",
+                "en": "Playa Dorada"
+              },
+              "tip_5lang": {
+                "de": "Goldener Sand und klares Wasser zum Schnorcheln.",
+                "hu": "Aranyhomok és tiszta víz a búvárkodáshoz.",
+                "ro": "Nisip auriu și apă limpede pentru snorkeling.",
+                "en": "Golden sand and clear water for snorkeling."
+              }
+            },
+            {
+              "name": {
+                "de": "Marina Rubicón",
+                "hu": "Marina Rubicón",
+                "ro": "Marina Rubicón",
+                "en": "Marina Rubicón"
+              },
+              "tip_5lang": {
+                "de": "Exklusive Jachten und gemütliche Cafés am Wasser.",
+                "hu": "Exkluzív jachtok és hangulatos kávézók a parton.",
+                "ro": "Iachturi exclusive și cafenele primitoare pe mal.",
+                "en": "Exclusive yachts and cozy waterfront cafes."
+              }
+            },
+            {
+              "name": {
+                "de": "Castillo de las Coloradas",
+                "hu": "Castillo de las Coloradas",
+                "ro": "Castillo de las Coloradas",
+                "en": "Castillo de las Coloradas"
+              },
+              "tip_5lang": {
+                "de": "Ein historischer Wehrturm mit Blick auf die Klippen.",
+                "hu": "Történelmi őrtorony kilátással a sziklákra.",
+                "ro": "Un turn de apărare istoric cu vedere la stânci.",
+                "en": "A historic defense tower with cliff views."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Atlántico (Info)",
+                "hu": "Atlanti Múzeum (Infó)",
+                "ro": "Museo Atlántico (Info)",
+                "en": "Museo Atlántico (Info)"
+              },
+              "tip_5lang": {
+                "de": "Informieren Sie sich über das Unterwassermuseum.",
+                "hu": "Tájékozódjon a víz alatti szoborparkról.",
+                "ro": "Aflați detalii despre muzeul subacvatic.",
+                "en": "Learn about the underwater sculpture museum."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Casa Carlos",
+                "tip": "Frischer Fisch und Paella mit Hafenblick."
+              },
+              {
+                "name": "Limoncello",
+                "tip": "Italienische Küche in der Marina Rubicón."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Casa Carlos",
+                "tip": "Friss halak és paella kikötői kilátással."
+              },
+              {
+                "name": "Limoncello",
+                "tip": "Olasz konyha a Marina Rubicón kikötőben."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Casa Carlos",
+                "tip": "Pește proaspăt și paella cu vedere la port."
+              },
+              {
+                "name": "Limoncello",
+                "tip": "Bucătărie italiană în Marina Rubicón."
+              }
+            ],
+            "en": [
+              {
+                "name": "Casa Carlos",
+                "tip": "Fresh fish and paella with harbor views."
+              },
+              {
+                "name": "Limoncello",
+                "tip": "Italian cuisine in Marina Rubicón."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Castillo Klippen",
+                "tip": "Ruhiger Blick auf das Meer.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Castillo sziklák",
+                "tip": "Csendes kilátás a végtelen óceánra.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Stâncile Castillo",
+                "tip": "Vedere liniștită spre mare.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Castillo Cliffs",
+                "tip": "Quiet views of the open sea.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Marina Market",
+                "tip": "Mittwochs und samstags lokales Kunsthandwerk."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Marina Piac",
+                "tip": "Szerdán és szombaton helyi kézműves termékek."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Piața Marina",
+                "tip": "Miercurea și sâmbăta produse artizanale locale."
+              }
+            ],
+            "en": [
+              {
+                "name": "Marina Market",
+                "tip": "Local crafts every Wednesday and Saturday."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Tragen Sie bequeme Schuhe für die Promenade.",
+              "Sonnenschutz ist ein Muss.",
+              "Marina Rubicón ist abends am schönsten.",
+              "Reservieren Sie für das Abendessen."
+            ],
+            "hu": [
+              "Viseljen kényelmes cipőt a sétányhoz.",
+              "A naptej használata kötelező.",
+              "A Marina Rubicón este a leghangulatosabb.",
+              "Érdemes asztalt foglalni vacsorához."
+            ],
+            "ro": [
+              "Purtați încălțăminte comodă pentru faleză.",
+              "Protecția solară este obligatorie.",
+              "Marina Rubicón este cea mai frumoasă seara.",
+              "Rezervați masă pentru cină."
+            ],
+            "en": [
+              "Wear comfortable shoes for the promenade.",
+              "Sun protection is a must.",
+              "Marina Rubicón is most atmospheric in the evening.",
+              "Book ahead for dinner."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag am Playa Flamingo, wo Cafés Schutz bieten. Der Paseo Marítimo hat viele überdachte Abschnitte für den Mittag. Nachmittags bietet die Marina Rubicón exzellente Indoor-Optionen zum Shoppen und Essen. Beenden Sie den Tag trocken im Info-Center des Museo Atlántico.",
+            "hu": "Kezdje a napot a Playa Flamingónál, ahol a parti kávézók tetői alatt maradhat. A Paseo Marítimo mentén az üzletek előtetői védenek délben. Délután a Marina Rubicón fedett üzletei és éttermei ideálisak. A napot a Museo Atlántico látogatóközpontjában zárhatja, védve az esőtől.",
+            "ro": "Începeți ziua la Playa Flamingo, unde cafenelele oferă adăpost. Paseo Marítimo are multe secțiuni acoperite pentru prânz. După-amiaza, Marina Rubicón oferă opțiuni excelente de interior pentru cumpărături. Încheiați ziua la centrul de informare Museo Atlántico, ferit de ploaie.",
+            "en": "Start your day at Playa Flamingo, where beach cafes provide shelter. The Paseo Marítimo has many covered sections for midday. In the afternoon, Marina Rubicón offers excellent indoor shopping and dining options. End the day dry at the Museo Atlántico info center."
+          },
+          "stops": [
+            {
+              "name": "Playa Flamingo",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Strandcafés als Unterschlupf.",
+                "hu": "Használja a parti kávézókat menedékként.",
+                "ro": "Folosiți cafenelele de pe plajă ca adăpost.",
+                "en": "Use the beach cafes as shelter from the rain."
+              }
+            },
+            {
+              "name": "Paseo Marítimo",
+              "tip_5lang": {
+                "de": "Bleiben Sie unter den Markisen der Geschäfte.",
+                "hu": "Maradjon az üzletek előtetői alatt.",
+                "ro": "Rămâneți sub copertinele magazinelor.",
+                "en": "Stay under the shop awnings along the path."
+              }
+            },
+            {
+              "name": "Playa Dorada",
+              "tip_5lang": {
+                "de": "Besuchen Sie die nahegelegenen Einkaufszentren.",
+                "hu": "Látogasson el a közeli bevásárlóközpontokba.",
+                "ro": "Vizitați centrele comerciale din apropiere.",
+                "en": "Visit the nearby shopping centers if it pours."
+              }
+            },
+            {
+              "name": "Marina Rubicón",
+              "tip_5lang": {
+                "de": "Ideal zum Bummeln in den überdachten Galerien.",
+                "hu": "Ideális sétához a fedett galériákban.",
+                "ro": "Ideal pentru plimbări în galeriile acoperite.",
+                "en": "Ideal for strolling through the covered galleries."
+              }
+            },
+            {
+              "name": "Castillo de las Coloradas",
+              "tip_5lang": {
+                "de": "Vorsicht, die Steine können rutschig sein.",
+                "hu": "Vigyázat, a kövek csúszósak lehetnek.",
+                "ro": "Atenție, pietrele pot fi alunecoase.",
+                "en": "Be careful, the stones can be slippery when wet."
+              }
+            },
+            {
+              "name": "Museo Atlántico (Info)",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um trocken etwas zu lernen.",
+                "hu": "Tökéletes hely a szárazon való tanuláshoz.",
+                "ro": "Locul perfect pentru a învăța ceva la adăpost.",
+                "en": "The perfect place to learn while staying dry."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein windfester Regenschirm ist bei Küstenwind Pflicht.",
+              "Die Kalksteinfliesen an der Promenade werden bei Nässe extrem glatt.",
+              "Nutzen Sie die Passage in der Marina Rubicón für längere Pausen.",
+              "Museen und Info-Zentren sind die besten Rückzugsorte."
+            ],
+            "hu": [
+              "A parti szélben kötelező a szélálló esernyő.",
+              "A sétány mészkő burkolata nedvesen rendkívül csúszós.",
+              "Használja a Marina Rubicón átjáróit hosszabb pihenőkre.",
+              "A múzeumok és látogatóközpontok a legjobb menedékek."
+            ],
+            "ro": [
+              "O umbrelă rezistentă la vânt este obligatorie pe coastă.",
+              "Pavajul de calcar de pe faleză devine foarte alunecos.",
+              "Folosiți pasajele din Marina Rubicón pentru pauze lungi.",
+              "Muzeele și centrele info sunt cele mai bune refugii."
+            ],
+            "en": [
+              "A windproof umbrella is essential due to coastal gusts.",
+              "The promenade's limestone tiles get extremely slippery when wet.",
+              "Utilize the covered passages in Marina Rubicón for long breaks.",
+              "Museums and info centers are the best fallback options."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie die milde Wintersonne am Playa Flamingo ohne die Sommerhitze. Der Spaziergang am Paseo Marítimo ist bei 20 Grad ideal. Mittags lädt die Playa Dorada zum Sonnenbaden ein. Erleben Sie einen spektakulären frühen Sonnenuntergang am Castillo, bevor Sie den Abend in der Marina ausklingen lassen.",
+            "hu": "Élvezze a lágy téli napsütést a Playa Flamingónál a nyári hőség nélkül. A Paseo Marítimo 20 fokban a legkellemesebb. Délben a Playa Dorada még ilyenkor is alkalmas napozásra. Nézze meg a korai naplementét a Castillo mellől, majd zárja az estét a kikötőben.",
+            "ro": "Bucurați-vă de soarele blând de iarnă la Playa Flamingo fără arșița verii. Plimbarea pe Paseo Marítimo este ideală la 20 de grade. La prânz, Playa Dorada invită la plajă. Experimentați un apus spectaculos la Castillo înainte de a încheia seara în Marina.",
+            "en": "Enjoy the mild winter sun at Playa Flamingo without the summer heat. Walking the Paseo Marítimo is ideal at 20 degrees. At noon, Playa Dorada is perfect for sunbathing. Experience a spectacular early sunset at the Castillo before ending the evening at the Marina."
+          },
+          "stops": [
+            {
+              "name": "Playa Flamingo",
+              "tip_5lang": {
+                "de": "Perfekt für ein Frühstück in der Sonne.",
+                "hu": "Tökéletes egy napsütéses reggelihez.",
+                "ro": "Perfect pentru un mic dejun la soare.",
+                "en": "Perfect for a breakfast in the morning sun."
+              }
+            },
+            {
+              "name": "Paseo Marítimo",
+              "tip_5lang": {
+                "de": "Die kühle Brise ist ideal zum Wandern.",
+                "hu": "A hűvös szellő ideális a gyalogláshoz.",
+                "ro": "Briza răcoroasă este ideală pentru mers pe jos.",
+                "en": "The cool breeze is ideal for longer walks."
+              }
+            },
+            {
+              "name": "Playa Dorada",
+              "tip_5lang": {
+                "de": "Mittagssonne ist stark genug zum Bräunen.",
+                "hu": "A déli nap elég erős a barnuláshoz.",
+                "ro": "Soarele de prânz este destul de puternic.",
+                "en": "Midday sun is strong enough for tanning."
+              }
+            },
+            {
+              "name": "Marina Rubicón",
+              "tip_5lang": {
+                "de": "Abends wird es kühl, Jacke einplanen.",
+                "hu": "Este lehűl az idő, vigyen kiskabátot.",
+                "ro": "Seara se răcește, planificați o jachetă.",
+                "en": "It gets chilly in the evening, bring a jacket."
+              }
+            },
+            {
+              "name": "Castillo de las Coloradas",
+              "tip_5lang": {
+                "de": "Bester Ort für den Sonnenuntergang um 18 Uhr.",
+                "hu": "Legjobb hely a naplementéhez 18 órakor.",
+                "ro": "Cel mai bun loc pentru apus la ora 18:00.",
+                "en": "Best spot for the sunset around 6 PM."
+              }
+            },
+            {
+              "name": "Museo Atlántico (Info)",
+              "tip_5lang": {
+                "de": "Gute Aufwärmpause am späten Nachmittag.",
+                "hu": "Jó bemelegítő pihenő késő délután.",
+                "ro": "O pauză bună de încălzire după-amiaza.",
+                "en": "A good warm-up break in the late afternoon."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne untergeht bereits gegen 18:00 Uhr.",
+              "Abends sinken die Temperaturen schnell auf 15 Grad.",
+              "Zwiebelprinzip bei der Kleidung ist im Winter ratsam.",
+              "Das Wasser ist mit 18 Grad nur für Mutige zum Baden."
+            ],
+            "hu": [
+              "A nap már 18:00 körül lemegy.",
+              "Este a hőmérséklet gyorsan 15 fokra süllyed.",
+              "Télen javasolt a réteges öltözködés.",
+              "A víz 18 fokos, csak a bátraknak ajánlott a fürdés."
+            ],
+            "ro": [
+              "Soarele apune deja în jurul orei 18:00.",
+              "Seara temperaturile scad rapid la 15 grade.",
+              "Se recomandă îmbrăcămintea în straturi iarna.",
+              "Apa are 18 grade, fiind doar pentru cei curajoși."
+            ],
+            "en": [
+              "The sun sets early, around 6:00 PM.",
+              "Temperatures drop quickly to 15 degrees after sunset.",
+              "Layered clothing is recommended for the changing day.",
+              "The water is 18 degrees, strictly for brave swimmers."
+            ]
+          }
+        }
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 14.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Faro de Pechiguera",
+            "hu": "Pechiguera-világítótorony",
+            "ro": "Faro de Pechiguera",
+            "en": "Pechiguera Lighthouse"
+          },
+          "coords": [
+            -13.8715,
+            28.8552
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "09:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Der westlichste Punkt mit toller Brise.",
+            "hu": "A legnyugatibb pont frissítő szellővel.",
+            "ro": "Cel mai vestic punct cu o briză plăcută.",
+            "en": "The westernmost point with a great breeze."
+          }
+        },
+        {
+          "name": {
+            "de": "Montaña Roja",
+            "hu": "Montaña Roja",
+            "ro": "Montaña Roja",
+            "en": "Montaña Roja"
+          },
+          "coords": [
+            -13.8555,
+            28.8605
+          ],
+          "category": "natural features",
+          "arrive_at": "10:30",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Wandern Sie zum Kraterrand für Panoramafotos.",
+            "hu": "Túrázzon fel a kráter peremére a panorámáért.",
+            "ro": "Urcați la marginea craterului pentru panoramă.",
+            "en": "Hike to the crater rim for panoramic photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa Flamingo",
+            "hu": "Playa Flamingo",
+            "ro": "Playa Flamingo",
+            "en": "Playa Flamingo"
+          },
+          "coords": [
+            -13.8405,
+            28.8582
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:45",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Perfekt für eine Pause nach dem Abstieg.",
+            "hu": "Tökéletes pihenőhely a túra után.",
+            "ro": "Perfect pentru o pauză după coborâre.",
+            "en": "Perfect for a break after the descent."
+          }
+        },
+        {
+          "name": {
+            "de": "Paseo Marítimo",
+            "hu": "Paseo Marítimo",
+            "ro": "Paseo Marítimo",
+            "en": "Paseo Marítimo"
+          },
+          "coords": [
+            -13.8278,
+            28.8628
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Flache Strecke ideal zum Radfahren.",
+            "hu": "Lapos szakasz, ideális kerékpározáshoz.",
+            "ro": "Traseu plat, ideal pentru ciclism.",
+            "en": "Flat section ideal for cycling."
+          }
+        },
+        {
+          "name": {
+            "de": "Marina Rubicón",
+            "hu": "Marina Rubicón",
+            "ro": "Marina Rubicón",
+            "en": "Marina Rubicón"
+          },
+          "coords": [
+            -13.8155,
+            28.8575
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Gönnen Sie sich ein kühles Getränk am Ende.",
+            "hu": "Jutalmazza meg magát egy hűsítővel a végén.",
+            "ro": "Răsfățați-vă cu o băutură rece la final.",
+            "en": "Treat yourself to a cool drink at the end."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie am Morgen zum Leuchtturm von Pechiguera und spüren Sie die Freiheit des Atlantiks. Danach wartet der Aufstieg zur Montaña Roja.\r\n\r\nMittags erholen Sie sich bei einem Bad an der Playa Flamingo, bevor Sie entspannt die Küste entlangfahren.\r\n\r\nDer Nachmittag führt Sie über die gesamte Länge der Strandpromenade bis zur Marina Rubicón.\r\n\r\nEin aktiver Tag endet mit einer kühlen Erfrischung im schicken Yachthafen, wo Sie die Beine hochlegen können.",
+        "hu": "Tekerjen reggel a Pechiguera-világítótoronyhoz, és érezze az Atlanti-óceán szabadságát. Ezután vár a Montaña Roja megmászása.\r\n\r\nDélben pihenjen meg egy fürdőzéssel a Playa Flamingo strandon, mielőtt nyugodtan végigtekernél a parton.\r\n\r\nA délután során a teljes tengerparti sétányt bejárhatja egészen a Marina Rubicónig.\r\n\r\nAz aktív napot egy hűsítővel zárja az elegáns jachtkikötőben, ahol végre kipihenheti a fáradalmakat.",
+        "ro": "Pedalați dimineața spre farul Pechiguera și simțiți libertatea Atlanticului. Apoi urmează urcarea pe Montaña Roja.\r\n\r\nLa prânz, relaxați-vă cu o baie la Playa Flamingo înainte de a pedala liniștit de-a lungul coastei.\r\n\r\nDupă-amiaza vă poartă pe întreaga lungime a falezei până la Marina Rubicón.\r\n\r\nO zi activă se încheie cu o băutură răcoritoare în portul de iahturi șic, unde vă puteți odihni picioarele.",
+        "en": "Cycle to the Pechiguera Lighthouse in the morning and feel the freedom of the Atlantic. Then, the ascent to Montaña Roja awaits.\r\n\r\nAt midday, recover with a swim at Playa Flamingo before a relaxed ride along the coast.\r\n\r\nThe afternoon takes you across the full length of the promenade to Marina Rubicón.\r\n\r\nAn active day ends with a cool refreshment in the chic marina, where you can finally kick back."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Brisa Marina",
+            "tip": "Perfekt für einen Snack nach dem Radfahren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Brisa Marina",
+            "tip": "Tökéletes hely egy snackre tekerés után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brisa Marina",
+            "tip": "Perfect pentru o gustare după ciclism."
+          }
+        ],
+        "en": [
+          {
+            "name": "Brisa Marina",
+            "tip": "Perfect for a snack after cycling."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Montaña Roja Krater",
+            "tip": "Absolute Stille über der Stadt.",
+            "emoji": "🌋"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Montaña Roja kráter",
+            "tip": "Abszolút csend a város felett.",
+            "emoji": "🌋"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Craterul Montaña Roja",
+            "tip": "Liniște absolută deasupra orașului.",
+            "emoji": "🌋"
+          }
+        ],
+        "en": [
+          {
+            "name": "Montaña Roja Crater",
+            "tip": "Absolute silence above the town.",
+            "emoji": "🌋"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Papagayo Center",
+            "tip": "Fahrradverleih und Sportgeschäfte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Papagayo Center",
+            "tip": "Kerékpárkölcsönző és sportboltok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Papagayo Center",
+            "tip": "Închirieri biciclete și magazine sportive."
+          }
+        ],
+        "en": [
+          {
+            "name": "Papagayo Center",
+            "tip": "Bike rentals and sports shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nehmen Sie genug Wasser für die Montaña Roja mit.",
+          "Der Wind kann beim Radfahren stark sein.",
+          "Nutzen Sie den breiten Paseo Marítimo.",
+          "Parken Sie Ihr Rad sicher an der Marina."
+        ],
+        "hu": [
+          "Vigyen elég vizet a Montaña Roja túrához.",
+          "A szél erős lehet tekerés közben.",
+          "Használja a széles tengerparti sétányt.",
+          "A kikötőben biztonságos helyen parkolja le a bringát."
+        ],
+        "ro": [
+          "Luați suficientă apă pentru Montaña Roja.",
+          "Vântul poate fi puternic la ciclism.",
+          "Folosiți faleza lată Paseo Marítimo.",
+          "Parcați bicicleta în siguranță în marină."
+        ],
+        "en": [
+          "Take enough water for the Montaña Roja hike.",
+          "Wind can be strong while cycling.",
+          "Use the wide Paseo Marítimo promenade.",
+          "Park your bike securely at the marina."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Radeln Sie am Morgen zum Leuchtturm von Pechiguera und spüren Sie die Freiheit des Atlantiks. Danach wartet der Aufstieg zur Montaña Roja.\r\n\r\nMittags erholen Sie sich bei einem Bad an der Playa Flamingo, bevor Sie entspannt die Küste entlangfahren.\r\n\r\nDer Nachmittag führt Sie über die gesamte Länge der Strandpromenade bis zur Marina Rubicón.\r\n\r\nEin aktiver Tag endet mit einer kühlen Erfrischung im schicken Yachthafen, wo Sie die Beine hochlegen können.",
+            "hu": "Tekerjen reggel a Pechiguera-világítótoronyhoz, és érezze az Atlanti-óceán szabadságát. Ezután vár a Montaña Roja megmászása.\r\n\r\nDélben pihenjen meg egy fürdőzéssel a Playa Flamingo strandon, mielőtt nyugodtan végigtekernél a parton.\r\n\r\nA délután során a teljes tengerparti sétányt bejárhatja egészen a Marina Rubicónig.\r\n\r\nAz aktív napot egy hűsítővel zárja az elegáns jachtkikötőben, ahol végre kipihenheti a fáradalmakat.",
+            "ro": "Pedalați dimineața spre farul Pechiguera și simțiți libertatea Atlanticului. Apoi urmează urcarea pe Montaña Roja.\r\n\r\nLa prânz, relaxați-vă cu o baie la Playa Flamingo înainte de a pedala liniștit de-a lungul coastei.\r\n\r\nDupă-amiaza vă poartă pe întreaga lungime a falezei până la Marina Rubicón.\r\n\r\nO zi activă se încheie cu o băutură răcoritoare în portul de iahturi șic, unde vă puteți odihni picioarele.",
+            "en": "Cycle to the Pechiguera Lighthouse in the morning and feel the freedom of the Atlantic. Then, the ascent to Montaña Roja awaits.\r\n\r\nAt midday, recover with a swim at Playa Flamingo before a relaxed ride along the coast.\r\n\r\nThe afternoon takes you across the full length of the promenade to Marina Rubicón.\r\n\r\nAn active day ends with a cool refreshment in the chic marina, where you can finally kick back."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Faro de Pechiguera",
+                "hu": "Pechiguera-világítótorony",
+                "ro": "Faro de Pechiguera",
+                "en": "Pechiguera Lighthouse"
+              },
+              "tip_5lang": {
+                "de": "Der westlichste Punkt mit toller Brise.",
+                "hu": "A legnyugatibb pont frissítő szellővel.",
+                "ro": "Cel mai vestic punct cu o briză plăcută.",
+                "en": "The westernmost point with a great breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Montaña Roja",
+                "hu": "Montaña Roja",
+                "ro": "Montaña Roja",
+                "en": "Montaña Roja"
+              },
+              "tip_5lang": {
+                "de": "Wandern Sie zum Kraterrand für Panoramafotos.",
+                "hu": "Túrázzon fel a kráter peremére a panorámáért.",
+                "ro": "Urcați la marginea craterului pentru panoramă.",
+                "en": "Hike to the crater rim for panoramic photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa Flamingo",
+                "hu": "Playa Flamingo",
+                "ro": "Playa Flamingo",
+                "en": "Playa Flamingo"
+              },
+              "tip_5lang": {
+                "de": "Perfekt für eine Pause nach dem Abstieg.",
+                "hu": "Tökéletes pihenőhely a túra után.",
+                "ro": "Perfect pentru o pauză după coborâre.",
+                "en": "Perfect for a break after the descent."
+              }
+            },
+            {
+              "name": {
+                "de": "Paseo Marítimo",
+                "hu": "Paseo Marítimo",
+                "ro": "Paseo Marítimo",
+                "en": "Paseo Marítimo"
+              },
+              "tip_5lang": {
+                "de": "Flache Strecke ideal zum Radfahren.",
+                "hu": "Lapos szakasz, ideális kerékpározáshoz.",
+                "ro": "Traseu plat, ideal pentru ciclism.",
+                "en": "Flat section ideal for cycling."
+              }
+            },
+            {
+              "name": {
+                "de": "Marina Rubicón",
+                "hu": "Marina Rubicón",
+                "ro": "Marina Rubicón",
+                "en": "Marina Rubicón"
+              },
+              "tip_5lang": {
+                "de": "Gönnen Sie sich ein kühles Getränk am Ende.",
+                "hu": "Jutalmazza meg magát egy hűsítővel a végén.",
+                "ro": "Răsfățați-vă cu o băutură rece la final.",
+                "en": "Treat yourself to a cool drink at the end."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Brisa Marina",
+                "tip": "Perfekt für einen Snack nach dem Radfahren."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Brisa Marina",
+                "tip": "Tökéletes hely egy snackre tekerés után."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Brisa Marina",
+                "tip": "Perfect pentru o gustare după ciclism."
+              }
+            ],
+            "en": [
+              {
+                "name": "Brisa Marina",
+                "tip": "Perfect for a snack after cycling."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Montaña Roja Krater",
+                "tip": "Absolute Stille über der Stadt.",
+                "emoji": "🌋"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Montaña Roja kráter",
+                "tip": "Abszolút csend a város felett.",
+                "emoji": "🌋"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Craterul Montaña Roja",
+                "tip": "Liniște absolută deasupra orașului.",
+                "emoji": "🌋"
+              }
+            ],
+            "en": [
+              {
+                "name": "Montaña Roja Crater",
+                "tip": "Absolute silence above the town.",
+                "emoji": "🌋"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Papagayo Center",
+                "tip": "Fahrradverleih und Sportgeschäfte."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Papagayo Center",
+                "tip": "Kerékpárkölcsönző és sportboltok."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Papagayo Center",
+                "tip": "Închirieri biciclete și magazine sportive."
+              }
+            ],
+            "en": [
+              {
+                "name": "Papagayo Center",
+                "tip": "Bike rentals and sports shops."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Nehmen Sie genug Wasser für die Montaña Roja mit.",
+              "Der Wind kann beim Radfahren stark sein.",
+              "Nutzen Sie den breiten Paseo Marítimo.",
+              "Parken Sie Ihr Rad sicher an der Marina."
+            ],
+            "hu": [
+              "Vigyen elég vizet a Montaña Roja túrához.",
+              "A szél erős lehet tekerés közben.",
+              "Használja a széles tengerparti sétányt.",
+              "A kikötőben biztonságos helyen parkolja le a bringát."
+            ],
+            "ro": [
+              "Luați suficientă apă pentru Montaña Roja.",
+              "Vântul poate fi puternic la ciclism.",
+              "Folosiți faleza lată Paseo Marítimo.",
+              "Parcați bicicleta în siguranță în marină."
+            ],
+            "en": [
+              "Take enough water for the Montaña Roja hike.",
+              "Wind can be strong while cycling.",
+              "Use the wide Paseo Marítimo promenade.",
+              "Park your bike securely at the marina."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radeln Sie vorsichtig zum Leuchtturm, der Wind kann tückisch sein. Die Montaña Roja bietet bei Regen eine dramatische Aussicht, aber die Wege sind rutschig. Machen Sie mittags eine lange Pause am Playa Flamingo, um das Wetter abzuwarten. Die Marina bietet sichere Abstellplätze und trockene Cafés am Nachmittag.",
+            "hu": "Óvatosan tekerjen a világítótoronyhoz, a szél trükkös lehet. A Montaña Roja esőben drámai látványt nyújt, de az utak csúszósak. Tartson hosszú szünetet délben a Playa Flamingónál, amíg elvonul az eső. A kikötőben délután biztonságos tárolókat és száraz kávézókat talál.",
+            "ro": "Pedalați cu atenție spre far, vântul poate fi înșelător. Montaña Roja oferă vederi dramatice pe ploaie, dar potecile sunt alunecoase. Faceți o pauză lungă la Playa Flamingo la prânz. Marina oferă rastele sigure și cafenele uscate după-amiaza.",
+            "en": "Cycle carefully to the lighthouse as gusts can be tricky. Montaña Roja offers dramatic views in the rain, but paths are slippery. Take a long break at Playa Flamingo at noon to wait out the weather. The Marina provides secure parking and dry cafes for the afternoon."
+          },
+          "stops": [
+            {
+              "name": "Pechiguera Lighthouse",
+              "tip_5lang": {
+                "de": "Starke Böen am Kap, festen Halt suchen.",
+                "hu": "Erős széllökések a foknál, kapaszkodjon.",
+                "ro": "Rafale puternice la cap, căutați sprijin.",
+                "en": "Strong gusts at the cape, keep a firm grip."
+              }
+            },
+            {
+              "name": "Montaña Roja",
+              "tip_5lang": {
+                "de": "Schlammige Pfade, nur für Profis bei Regen.",
+                "hu": "Saras ösvények, esőben csak profiknak.",
+                "ro": "Poteci noroioase, doar pentru experți.",
+                "en": "Muddy paths, only for pros during rain."
+              }
+            },
+            {
+              "name": "Playa Flamingo",
+              "tip_5lang": {
+                "de": "Überdachte Fahrradständer in der Nähe.",
+                "hu": "Fedett biciklitárolók a közelben.",
+                "ro": "Rastele de biciclete acoperite în apropiere.",
+                "en": "Look for covered bike racks nearby."
+              }
+            },
+            {
+              "name": "Paseo Marítimo",
+              "tip_5lang": {
+                "de": "Vorsicht vor Pfützen und Fußgängern.",
+                "hu": "Vigyázzon a tócsákra és a gyalogosokra.",
+                "ro": "Atenție la bălți și pietoni.",
+                "en": "Watch out for puddles and pedestrians."
+              }
+            },
+            {
+              "name": "Marina Rubicón",
+              "tip_5lang": {
+                "de": "Stellen Sie das Rad unter und genießen Sie Tee.",
+                "hu": "Tegye le a bringát és igyon egy teát.",
+                "ro": "Lăsați bicicleta și savurați un ceai.",
+                "en": "Park the bike and enjoy a warm tea."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie die Bremsen vor der Abfahrt vom Vulkan.",
+              "Tragen Sie leuchtende Regenbekleidung für bessere Sicht.",
+              "Vermeiden Sie die unbefestigten Wege bei Starkregen.",
+              "Der Küstenwind kann Fahrräder leicht aus der Bahn werfen."
+            ],
+            "hu": [
+              "Ellenőrizze a fékeket a vulkánról való lejövetel előtt.",
+              "Viseljen feltűnő esőruházatot a láthatóságért.",
+              "Kerülje a rögzítetlen utakat heves esőzéskor.",
+              "A parti szél könnyen kibillentheti a bringát."
+            ],
+            "ro": [
+              "Verificați frânele înainte de a coborî de pe vulcan.",
+              "Purtați haine de ploaie reflectorizante.",
+              "Evitați drumurile neasfaltate în caz de ploaie torențială.",
+              "Vântul de coastă poate dezechilibra bicicleta."
+            ],
+            "en": [
+              "Check your brakes before descending from the volcano.",
+              "Wear bright rain gear for better visibility.",
+              "Avoid unpaved trails during heavy downpours.",
+              "Coastal winds can easily blow a bike off course."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen am Leuchtturm ist erfrischend und klar. Die Besteigung der Montaña Roja ist ohne die sengende Hitze viel angenehmer. Mittags können Sie die gesamte Küste entlang radeln, ohne zu überhitzen. Die Marina Rubicón bietet am späten Nachmittag eine goldene Kulisse für eine Pause vor der Rückfahrt.",
+            "hu": "A téli reggel a világítótoronynál frissítő és tiszta. A Montaña Roja megmászása sokkal kellemesebb a perzselő hőség nélkül. Délben a teljes partvonalat végigtekerheti túlhevülés nélkül. A Marina Rubicón késő délután arany színben tündököl, tökéletes pihenőhely.",
+            "ro": "Dimineața de iarnă la far este revigorantă și senină. Urcarea pe Montaña Roja este mult mai plăcută fără căldura toridă. La prânz, puteți pedala pe tot țărmul fără a vă supraîncălzi. Marina Rubicón oferă un decor auriu pentru o pauză după-amiaza.",
+            "en": "The winter morning at the lighthouse is refreshing and clear. Climbing Montaña Roja is much more pleasant without the scorching heat. At noon, you can cycle the entire coastline without overheating. Marina Rubicón offers a golden backdrop for a break in the late afternoon."
+          },
+          "stops": [
+            {
+              "name": "Pechiguera Lighthouse",
+              "tip_5lang": {
+                "de": "Frische Morgenluft, Windjacke einplanen.",
+                "hu": "Friss reggeli levegő, vigyen széldzsekit.",
+                "ro": "Aer curat de dimineață, planificați o jachetă.",
+                "en": "Crisp morning air, plan for a windbreaker."
+              }
+            },
+            {
+              "name": "Montaña Roja",
+              "tip_5lang": {
+                "de": "Ideales Wanderwetter, festes Schuhwerk.",
+                "hu": "Ideális túraidő, zárt lábbeli szükséges.",
+                "ro": "Vreme ideală de drumeție, încălțăminte fixă.",
+                "en": "Ideal hiking weather, wear sturdy shoes."
+              }
+            },
+            {
+              "name": "Playa Flamingo",
+              "tip_5lang": {
+                "de": "Angenehme Temperaturen für eine Pause.",
+                "hu": "Kellemes hőmérséklet egy pihenőhöz.",
+                "ro": "Temperaturi plăcute pentru o pauză.",
+                "en": "Pleasant temperatures for a long break."
+              }
+            },
+            {
+              "name": "Paseo Marítimo",
+              "tip_5lang": {
+                "de": "Sonnig, aber nicht zu heiß zum Treten.",
+                "hu": "Napsütéses, de nem túl forró a tekeréshez.",
+                "ro": "Însorit, dar nu prea cald pentru pedalat.",
+                "en": "Sunny but not too hot for pedaling."
+              }
+            },
+            {
+              "name": "Marina Rubicón",
+              "tip_5lang": {
+                "de": "Belebtes Flair auch in der Nebensaison.",
+                "hu": "Élénk hangulat a főszezonon kívül is.",
+                "ro": "Atmosferă plină de viață și în extrasezon.",
+                "en": "Lively atmosphere even in the low season."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Mittagssonne für lange Strecken.",
+              "Vermeiden Sie Fahrten nach Einbruch der Dunkelheit.",
+              "Die UV-Strahlung ist auch im Winter vorhanden.",
+              "Die Wege zum Vulkan sind im Winter weniger staubig."
+            ],
+            "hu": [
+              "Használja ki a déli napsütést a hosszú távokhoz.",
+              "Kerülje a tekerést sötétedés után.",
+              "Az UV-sugárzás télen is jelen van.",
+              "A vulkánhoz vezető utak télen kevésbé porosak."
+            ],
+            "ro": [
+              "Folosiți soarele de prânz pentru distanțe lungi.",
+              "Evitați deplasările după lăsarea întunericului.",
+              "Radiațiile UV sunt prezente și iarna.",
+              "Drumurile spre vulcan sunt mai puțin prăfuite iarna."
+            ],
+            "en": [
+              "Take advantage of the midday sun for long rides.",
+              "Avoid cycling after dark as paths are poorly lit.",
+              "UV radiation is still present in winter; use sunscreen.",
+              "The volcano trails are less dusty in the winter months."
+            ]
+          }
+        }
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 12.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Faro de Pechiguera",
+            "hu": "Pechiguera-világítótorony",
+            "ro": "Faro de Pechiguera",
+            "en": "Pechiguera Lighthouse"
+          },
+          "coords": [
+            -13.8715,
+            28.8552
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "09:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Einfaches Parken direkt am Leuchtturm.",
+            "hu": "Könnyű parkolás közvetlenül a toronynál.",
+            "ro": "Parcare ușoară chiar lângă far.",
+            "en": "Easy parking right by the lighthouse."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa Flamingo",
+            "hu": "Playa Flamingo",
+            "ro": "Playa Flamingo",
+            "en": "Playa Flamingo"
+          },
+          "coords": [
+            -13.8405,
+            28.8582
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Ein ruhiger Familienstrand mit Infrastruktur.",
+            "hu": "Nyugodt családi strand jó infrastruktúrával.",
+            "ro": "O plajă liniștită pentru familii cu facilități.",
+            "en": "A calm family beach with good infrastructure."
+          }
+        },
+        {
+          "name": {
+            "de": "Marina Rubicón",
+            "hu": "Marina Rubicón",
+            "ro": "Marina Rubicón",
+            "en": "Marina Rubicón"
+          },
+          "coords": [
+            -13.8155,
+            28.8575
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Großer Parkplatz in der Nähe vorhanden.",
+            "hu": "Nagy parkoló áll rendelkezésre a közelben.",
+            "ro": "Parcare mare disponibilă în apropiere.",
+            "en": "Large parking area available nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Castillo de las Coloradas",
+            "hu": "Castillo de las Coloradas",
+            "ro": "Castillo de las Coloradas",
+            "en": "Castillo de las Coloradas"
+          },
+          "coords": [
+            -13.8095,
+            28.8558
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Kurzer Stopp für tolle Fotos von den Klippen.",
+            "hu": "Rövid megálló remek fotókért a sziklákról.",
+            "ro": "Scurtă oprire pentru fotografii grozave.",
+            "en": "Short stop for great photos from the cliffs."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa Dorada",
+            "hu": "Playa Dorada",
+            "ro": "Playa Dorada",
+            "en": "Playa Dorada"
+          },
+          "coords": [
+            -13.8215,
+            28.8605
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:25",
+          "stay_min": 110,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Ideal für ein letztes Bad am Nachmittag.",
+            "hu": "Ideális egy utolsó fürdéshez délután.",
+            "ro": "Ideal pentru o ultimă baie după-amiaza.",
+            "en": "Ideal for a final afternoon swim."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie am Faro de Pechiguera und genießen Sie die karge Schönheit der Küste. Danach geht es bequem per Auto zur familienfreundlichen Playa Flamingo.\r\n\r\nMittags parken Sie an der Marina Rubicón für ein entspanntes Gourmet-Erlebnis am Wasser.\r\n\r\nDer Nachmittag führt Sie zum Castillo de las Coloradas, bevor Sie den Wagen für ein paar Stunden an der Playa Dorada stehen lassen.\r\n\r\nBeenden Sie Ihre Tour ganz flexibel und genießen Sie die Freiheit, Playa Blanca in Ihrem eigenen Tempo entdeckt zu haben.",
+        "hu": "Kezdje a Pechiguera-világítótoronynál, és élvezze a part kopár szépségét. Ezután kényelmesen autózzon a családbarát Playa Flamingo strandhoz.\r\n\r\nDélben parkoljon le a Marina Rubicónnál egy pihentető ínyenc élményért a vízparton.\r\n\r\nA délután a Castillo de las Coloradas-hoz vezet, mielőtt az autót pár órára a Playa Dorada közelében hagyná.\r\n\r\nFejezze be a túrát rugalmasan, és élvezze a szabadságot, hogy saját tempójában fedezte fel Playa Blancát.",
+        "ro": "Începeți la Faro de Pechiguera și bucurați-vă de frumusețea aridă a coastei. Apoi conduceți confortabil spre Playa Flamingo, ideală pentru familii.\r\n\r\nLa prânz, parcați la Marina Rubicón pentru o experiență gourmet relaxată pe malul apei.\r\n\r\nDupă-amiaza vă duce la Castillo de las Coloradas, înainte de a lăsa mașina pentru câteva ore la Playa Dorada.\r\n\r\nÎncheiați turul flexibil și bucurați-vă de libertatea de a fi descoperit Playa Blanca în propriul ritm.",
+        "en": "Start at Faro de Pechiguera and enjoy the rugged beauty of the coast. Then, drive comfortably to the family-friendly Playa Flamingo.\r\n\r\nAt midday, park at Marina Rubicón for a relaxed gourmet experience by the water.\r\n\r\nThe afternoon takes you to Castillo de las Coloradas before leaving the car for a few hours near Playa Dorada.\r\n\r\nEnd your tour flexibly and enjoy the freedom of having discovered Playa Blanca at your own pace."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurante Romántica",
+            "tip": "Gehobene Küche mit Meerblick."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Restaurante Romántica",
+            "tip": "Elegáns konyha kilátással a tengerre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurante Romántica",
+            "tip": "Bucătărie rafinată cu vedere la mare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurante Romántica",
+            "tip": "Upscale dining with sea views."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Pechiguera Küste",
+            "tip": "Ruhiger Platz für Wellenbeobachtung.",
+            "emoji": "🌊"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pechiguera part",
+            "tip": "Csendes hely a hullámok megfigyelésére.",
+            "emoji": "🌊"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Coasta Pechiguera",
+            "tip": "Loc liniștit pentru observarea valurilor.",
+            "emoji": "🌊"
+          }
+        ],
+        "en": [
+          {
+            "name": "Pechiguera Coast",
+            "tip": "Quiet spot for watching the waves.",
+            "emoji": "🌊"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Rubicón Shop & Fun",
+            "tip": "Modernes Einkaufszentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rubicón Shop & Fun",
+            "tip": "Modern bevásárlóközpont."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rubicón Shop & Fun",
+            "tip": "Centru comercial modern."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rubicón Shop & Fun",
+            "tip": "Modern shopping center."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken an der Marina ist oft kostenpflichtig.",
+          "Die Straßen sind gut ausgebaut.",
+          "Vermeiden Sie die Mittagsstauungen im Zentrum.",
+          "Mietwagen sind günstig auf Lanzarote."
+        ],
+        "hu": [
+          "A kikötői parkolás gyakran fizetős.",
+          "Az utak jól kiépítettek.",
+          "Kerülje el a déli forgalmat a központban.",
+          "Az autóbérlés kedvező áron elérhető Lanzarotén."
+        ],
+        "ro": [
+          "Parcarea în marină este adesea cu plată.",
+          "Drumurile sunt bine întreținute.",
+          "Evitați aglomerația de la prânz din centru.",
+          "Închirierea auto este accesibilă în Lanzarote."
+        ],
+        "en": [
+          "Parking at the marina is often paid.",
+          "Roads are well-maintained.",
+          "Avoid midday traffic in the center.",
+          "Car rentals are affordable in Lanzarote."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Starten Sie am Faro de Pechiguera und genießen Sie die karge Schönheit der Küste. Danach geht es bequem per Auto zur familienfreundlichen Playa Flamingo.\r\n\r\nMittags parken Sie an der Marina Rubicón für ein entspanntes Gourmet-Erlebnis am Wasser.\r\n\r\nDer Nachmittag führt Sie zum Castillo de las Coloradas, bevor Sie den Wagen für ein paar Stunden an der Playa Dorada stehen lassen.\r\n\r\nBeenden Sie Ihre Tour ganz flexibel und genießen Sie die Freiheit, Playa Blanca in Ihrem eigenen Tempo entdeckt zu haben.",
+            "hu": "Kezdje a Pechiguera-világítótoronynál, és élvezze a part kopár szépségét. Ezután kényelmesen autózzon a családbarát Playa Flamingo strandhoz.\r\n\r\nDélben parkoljon le a Marina Rubicónnál egy pihentető ínyenc élményért a vízparton.\r\n\r\nA délután a Castillo de las Coloradas-hoz vezet, mielőtt az autót pár órára a Playa Dorada közelében hagyná.\r\n\r\nFejezze be a túrát rugalmasan, és élvezze a szabadságot, hogy saját tempójában fedezte fel Playa Blancát.",
+            "ro": "Începeți la Faro de Pechiguera și bucurați-vă de frumusețea aridă a coastei. Apoi conduceți confortabil spre Playa Flamingo, ideală pentru familii.\r\n\r\nLa prânz, parcați la Marina Rubicón pentru o experiență gourmet relaxată pe malul apei.\r\n\r\nDupă-amiaza vă duce la Castillo de las Coloradas, înainte de a lăsa mașina pentru câteva ore la Playa Dorada.\r\n\r\nÎncheiați turul flexibil și bucurați-vă de libertatea de a fi descoperit Playa Blanca în propriul ritm.",
+            "en": "Start at Faro de Pechiguera and enjoy the rugged beauty of the coast. Then, drive comfortably to the family-friendly Playa Flamingo.\r\n\r\nAt midday, park at Marina Rubicón for a relaxed gourmet experience by the water.\r\n\r\nThe afternoon takes you to Castillo de las Coloradas before leaving the car for a few hours near Playa Dorada.\r\n\r\nEnd your tour flexibly and enjoy the freedom of having discovered Playa Blanca at your own pace."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Faro de Pechiguera",
+                "hu": "Pechiguera-világítótorony",
+                "ro": "Faro de Pechiguera",
+                "en": "Pechiguera Lighthouse"
+              },
+              "tip_5lang": {
+                "de": "Einfaches Parken direkt am Leuchtturm.",
+                "hu": "Könnyű parkolás közvetlenül a toronynál.",
+                "ro": "Parcare ușoară chiar lângă far.",
+                "en": "Easy parking right by the lighthouse."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa Flamingo",
+                "hu": "Playa Flamingo",
+                "ro": "Playa Flamingo",
+                "en": "Playa Flamingo"
+              },
+              "tip_5lang": {
+                "de": "Ein ruhiger Familienstrand mit Infrastruktur.",
+                "hu": "Nyugodt családi strand jó infrastruktúrával.",
+                "ro": "O plajă liniștită pentru familii cu facilități.",
+                "en": "A calm family beach with good infrastructure."
+              }
+            },
+            {
+              "name": {
+                "de": "Marina Rubicón",
+                "hu": "Marina Rubicón",
+                "ro": "Marina Rubicón",
+                "en": "Marina Rubicón"
+              },
+              "tip_5lang": {
+                "de": "Großer Parkplatz in der Nähe vorhanden.",
+                "hu": "Nagy parkoló áll rendelkezésre a közelben.",
+                "ro": "Parcare mare disponibilă în apropiere.",
+                "en": "Large parking area available nearby."
+              }
+            },
+            {
+              "name": {
+                "de": "Castillo de las Coloradas",
+                "hu": "Castillo de las Coloradas",
+                "ro": "Castillo de las Coloradas",
+                "en": "Castillo de las Coloradas"
+              },
+              "tip_5lang": {
+                "de": "Kurzer Stopp für tolle Fotos von den Klippen.",
+                "hu": "Rövid megálló remek fotókért a sziklákról.",
+                "ro": "Scurtă oprire pentru fotografii grozave.",
+                "en": "Short stop for great photos from the cliffs."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa Dorada",
+                "hu": "Playa Dorada",
+                "ro": "Playa Dorada",
+                "en": "Playa Dorada"
+              },
+              "tip_5lang": {
+                "de": "Ideal für ein letztes Bad am Nachmittag.",
+                "hu": "Ideális egy utolsó fürdéshez délután.",
+                "ro": "Ideal pentru o ultimă baie după-amiaza.",
+                "en": "Ideal for a final afternoon swim."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Restaurante Romántica",
+                "tip": "Gehobene Küche mit Meerblick."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Restaurante Romántica",
+                "tip": "Elegáns konyha kilátással a tengerre."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Restaurante Romántica",
+                "tip": "Bucătărie rafinată cu vedere la mare."
+              }
+            ],
+            "en": [
+              {
+                "name": "Restaurante Romántica",
+                "tip": "Upscale dining with sea views."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Pechiguera Küste",
+                "tip": "Ruhiger Platz für Wellenbeobachtung.",
+                "emoji": "🌊"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Pechiguera part",
+                "tip": "Csendes hely a hullámok megfigyelésére.",
+                "emoji": "🌊"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Coasta Pechiguera",
+                "tip": "Loc liniștit pentru observarea valurilor.",
+                "emoji": "🌊"
+              }
+            ],
+            "en": [
+              {
+                "name": "Pechiguera Coast",
+                "tip": "Quiet spot for watching the waves.",
+                "emoji": "🌊"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Rubicón Shop & Fun",
+                "tip": "Modernes Einkaufszentrum."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Rubicón Shop & Fun",
+                "tip": "Modern bevásárlóközpont."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Rubicón Shop & Fun",
+                "tip": "Centru comercial modern."
+              }
+            ],
+            "en": [
+              {
+                "name": "Rubicón Shop & Fun",
+                "tip": "Modern shopping center."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Parken an der Marina ist oft kostenpflichtig.",
+              "Die Straßen sind gut ausgebaut.",
+              "Vermeiden Sie die Mittagsstauungen im Zentrum.",
+              "Mietwagen sind günstig auf Lanzarote."
+            ],
+            "hu": [
+              "A kikötői parkolás gyakran fizetős.",
+              "Az utak jól kiépítettek.",
+              "Kerülje el a déli forgalmat a központban.",
+              "Az autóbérlés kedvező áron elérhető Lanzarotén."
+            ],
+            "ro": [
+              "Parcarea în marină este adesea cu plată.",
+              "Drumurile sunt bine întreținute.",
+              "Evitați aglomerația de la prânz din centru.",
+              "Închirierea auto este accesibilă în Lanzarote."
+            ],
+            "en": [
+              "Parking at the marina is often paid.",
+              "Roads are well-maintained.",
+              "Avoid midday traffic in the center.",
+              "Car rentals are affordable in Lanzarote."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Fahren Sie bequem zum Leuchtturm und genießen Sie die stürmische See aus dem Auto. Playa Flamingo bietet Parkplätze nah an den überdachten Cafés. In der Marina Rubicón parken Sie im Parkhaus und bleiben trocken. Das Castillo ist ein kurzer, nasser Sprint vom Parkplatz, aber die Aussicht lohnt sich bei jedem Wetter.",
+            "hu": "Autózzon kényelmesen a világítótoronyhoz, és nézze a viharos tengert az autóból. A Playa Flamingo parkolói közel vannak a fedett kávézókhoz. A Marina Rubicón mélygarázsában szárazon maradhat. A Castillo csak egy rövid vizes sprint a parkolótól, de a látvány megéri.",
+            "ro": "Conduceți confortabil spre far și admirați marea agitată din mașină. Playa Flamingo oferă parcări aproape de cafenelele acoperite. În Marina Rubicón parcați în garaj și rămâneți uscat. Castillo este la un sprint scurt de parcare, dar merită.",
+            "en": "Drive comfortably to the lighthouse and watch the stormy sea from your car. Playa Flamingo offers parking close to sheltered cafes. In Marina Rubicón, use the parking garage to stay dry. The Castillo is a short wet sprint from the car park, but the view is worth it."
+          },
+          "stops": [
+            {
+              "name": "Pechiguera Lighthouse",
+              "tip_5lang": {
+                "de": "Vom Auto aus die Wellen beobachten.",
+                "hu": "Figyelje a hullámokat az autóból.",
+                "ro": "Observați valurile din mașină.",
+                "en": "Watch the waves crashing from the car."
+              }
+            },
+            {
+              "name": "Playa Flamingo",
+              "tip_5lang": {
+                "de": "Parkplatz direkt hinter dem Strand nutzen.",
+                "hu": "Használja a strand mögötti parkolót.",
+                "ro": "Folosiți parcarea direct din spatele plajei.",
+                "en": "Use the parking lot directly behind the beach."
+              }
+            },
+            {
+              "name": "Marina Rubicón",
+              "tip_5lang": {
+                "de": "Tiefgarage bietet besten Wetterschutz.",
+                "hu": "A mélygarázs nyújtja a legjobb védelmet.",
+                "ro": "Parcarea subterană oferă cea mai bună protecție.",
+                "en": "The underground garage offers the best protection."
+              }
+            },
+            {
+              "name": "Castillo de las Coloradas",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg vom Parkplatz einplanen.",
+                "hu": "Rövid gyalogúttal számoljon a parkolótól.",
+                "ro": "Planificați un mers scurt de la parcare.",
+                "en": "Expect a short walk from the parking area."
+              }
+            },
+            {
+              "name": "Playa Dorada",
+              "tip_5lang": {
+                "de": "Parken im nahen Einkaufszentrum.",
+                "hu": "Parkoljon a közeli bevásárlóközpontban.",
+                "ro": "Parcați în centrul comercial din apropiere.",
+                "en": "Park in the nearby shopping center's lot."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Straßen können bei dem ersten Regen sehr rutschig sein.",
+              "Parkhäuser sind im Regen Gold wert.",
+              "Planen Sie mehr Zeit für die Parkplatzsuche ein.",
+              "Lanzarotes Straßen entwässern oft schlecht."
+            ],
+            "hu": [
+              "Az utak az első esőnél nagyon csúszósak lehetnek.",
+              "A parkolóházak aranyat érnek esőben.",
+              "Szánjon több időt a parkolóhely keresésére.",
+              "Lanzarote útjai gyakran rosszul vezetik el a vizet."
+            ],
+            "ro": [
+              "Drumurile pot fi foarte alunecoase la prima ploaie.",
+              "Parcările acoperite sunt de aur pe ploaie.",
+              "Alocați mai mult timp pentru căutarea parcării.",
+              "Drumurile din Lanzarote drenează adesea prost apa."
+            ],
+            "en": [
+              "Roads can be very oily and slippery during first rains.",
+              "Parking garages are worth their weight in gold today.",
+              "Allow extra time for finding a dry parking spot.",
+              "Lanzarote's roads often have poor drainage during storms."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie Ihre Tour am Leuchtturm, wenn die Morgenluft noch frisch ist. Mit dem Auto erreichen Sie bequem Playa Flamingo für einen sonnigen Vormittag. Die Fahrt zur Marina Rubicón ist kurz und bietet tolle Ausblicke. Der späte Nachmittag am Castillo ist perfekt für Fotos, bevor Sie zum Abendessen fahren.",
+            "hu": "Kezdje a túrát a világítótoronynál, amikor a reggeli levegő még friss. Autóval kényelmesen eléri a Playa Flamingót egy napsütéses délelőttre. A Marina Rubicón felé vezető út rövid és látványos. A késő délután a Castillónál tökéletes fotózáshoz vacsora előtt.",
+            "ro": "Începeți turul la far când aerul dimineții este încă proaspăt. Cu mașina ajungeți ușor la Playa Flamingo pentru o dimineață însorită. Drumul spre Marina Rubicón este scurt și pitoresc. După-amiaza la Castillo este perfectă pentru fotografii.",
+            "en": "Start your tour at the lighthouse when the morning air is still fresh. By car, you easily reach Playa Flamingo for a sunny morning. The drive to Marina Rubicón is short and scenic. Late afternoon at the Castillo is perfect for photos before heading to dinner."
+          },
+          "stops": [
+            {
+              "name": "Pechiguera Lighthouse",
+              "tip_5lang": {
+                "de": "Klarste Sicht des Jahres im Winter.",
+                "hu": "Az év legtisztább kilátása télen.",
+                "ro": "Cea mai clară vedere a anului iarna.",
+                "en": "The clearest views of the year in winter."
+              }
+            },
+            {
+              "name": "Playa Flamingo",
+              "tip_5lang": {
+                "de": "Sonnige Plätze sind begehrt, früh parken.",
+                "hu": "A napos helyek kelendőek, parkoljon korán.",
+                "ro": "Locurile însorite sunt căutate, parcați devreme.",
+                "en": "Sunny spots are popular, park early."
+              }
+            },
+            {
+              "name": "Marina Rubicón",
+              "tip_5lang": {
+                "de": "Parken am Hafen ist im Winter entspannt.",
+                "hu": "A kikötői parkolás télen nyugodtabb.",
+                "ro": "Parcarea în port este relaxată iarna.",
+                "en": "Parking at the harbor is easy in winter."
+              }
+            },
+            {
+              "name": "Castillo de las Coloradas",
+              "tip_5lang": {
+                "de": "Windig, lassen Sie nichts im Auto offen.",
+                "hu": "Szeles hely, ne hagyjon semmit nyitva.",
+                "ro": "Vânt puternic, nu lăsați mașina deschisă.",
+                "en": "Windy spot, keep car doors and windows shut."
+              }
+            },
+            {
+              "name": "Playa Dorada",
+              "tip_5lang": {
+                "de": "Gute Erreichbarkeit für einen Abendspaziergang.",
+                "hu": "Jó megközelíthetőség egy esti sétához.",
+                "ro": "Accesibilitate bună pentru o plimbare de seară.",
+                "en": "Easy access for a sunset evening stroll."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Klimaanlage im Auto hilft gegen beschlagene Scheiben.",
+              "Die Parkplatzsituation ist im Winter entspannter.",
+              "Planen Sie Fahrten zum Sonnenuntergang rechtzeitig.",
+              "Mietwagenpreise sind im Winter oft günstiger."
+            ],
+            "hu": [
+              "Az autó klímája segít a párásodó szélvédő ellen.",
+              "A parkolási helyzet télen sokkal nyugodtabb.",
+              "Időben tervezze meg az utat a naplementéhez.",
+              "Az bérautó árak télen gyakran kedvezőbbek."
+            ],
+            "ro": [
+              "Aerul condiționat ajută împotriva parbrizului aburit.",
+              "Situația parcărilor este mai relaxată iarna.",
+              "Planificați din timp drumul pentru apus.",
+              "Prețurile la închirierea mașinilor sunt mai mici iarna."
+            ],
+            "en": [
+              "Use car AC to prevent windows from fogging up.",
+              "Parking is generally easier during the winter months.",
+              "Time your drives to reach viewpoints before 6 PM.",
+              "Car rental rates are often lower in the low season."
+            ]
+          }
+        }
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 10.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Playa Blanca Zentrum",
+            "hu": "Playa Blanca Központ",
+            "ro": "Playa Blanca Centru",
+            "en": "Playa Blanca Center"
+          },
+          "coords": [
+            -13.8278,
+            28.8628
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Zentraler Busknotenpunkt für lokale Linien.",
+            "hu": "Központi buszcsomópont a helyi járatoknak.",
+            "ro": "Nod central de autobuze pentru liniile locale.",
+            "en": "Central bus hub for local lines."
+          }
+        },
+        {
+          "name": {
+            "de": "Marina Rubicón",
+            "hu": "Marina Rubicón",
+            "ro": "Marina Rubicón",
+            "en": "Marina Rubicón"
+          },
+          "coords": [
+            -13.8155,
+            28.8575
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:25",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Linie 30 verbindet das Zentrum mit der Marina.",
+            "hu": "A 30-as busz köti össze a központot a kikötővel.",
+            "ro": "Linia 30 conectează centrul cu marina.",
+            "en": "Line 30 connects the center to the marina."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa Dorada",
+            "hu": "Playa Dorada",
+            "ro": "Playa Dorada",
+            "en": "Playa Dorada"
+          },
+          "coords": [
+            -13.8215,
+            28.8605
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:15",
+          "stay_min": 150,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Bushaltestelle nur wenige Minuten vom Strand entfernt.",
+            "hu": "Buszmegálló pár percre a strandtól.",
+            "ro": "Stație de autobuz la câteva minute de plajă.",
+            "en": "Bus stop just a few minutes from the beach."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa Flamingo",
+            "hu": "Playa Flamingo",
+            "ro": "Playa Flamingo",
+            "en": "Playa Flamingo"
+          },
+          "coords": [
+            -13.8405,
+            28.8582
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Bequem erreichbar mit dem Playa Blanca Rundkurs.",
+            "hu": "Kényelmesen elérhető a helyi körjárattal.",
+            "ro": "Accesibil ușor cu autobuzul local circular.",
+            "en": "Easily accessible with the Playa Blanca circular bus."
+          }
+        },
+        {
+          "name": {
+            "de": "Faro de Pechiguera",
+            "hu": "Pechiguera-világítótorony",
+            "ro": "Faro de Pechiguera",
+            "en": "Faro de Pechiguera"
+          },
+          "coords": [
+            -13.8715,
+            28.8552
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "17:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Der Bus hält in der Nähe der Hotels am Leuchtturm.",
+            "hu": "A busz megáll a világítótorony melletti hotelek közelében.",
+            "ro": "Autobuzul oprește lângă hotelurile de la far.",
+            "en": "The bus stops near the hotels by the lighthouse."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie den lokalen Bus (Guagua), um stressfrei ins Zentrum zu gelangen. Der Vormittag gehört der exklusiven Marina Rubicón.\r\n\r\nMittags bringt Sie der Bus zur Playa Dorada für ausgiebigen Badespaß und ein Mittagessen in Meeresnähe.\r\n\r\nAm Nachmittag fahren Sie weiter zur geschützten Playa Flamingo, einem Juwel für entspannte Stunden.\r\n\r\nZum Abschluss des Tages bringt Sie der Transit in die Nähe des Leuchtturms von Pechiguera für einen letzten Blick auf den Atlantik.",
+        "hu": "Használja a helyi buszt (Guagua), hogy stresszmentesen jusson a központba. A délelőtt az exkluzív Marina Rubicón kikötőé.\r\n\r\nDélben a busz a Playa Dorada strandra viszi, ahol hosszas fürdőzés és vízparti ebéd várja.\r\n\r\nDélután utazzon tovább a védett Playa Flamingo strandhoz, amely a nyugalom szigete.\r\n\r\nA nap végén a járat a Pechiguera-világítótorony közelébe viszi, ahol egy utolsó pillantást vethet az Atlanti-óceánra.",
+        "ro": "Folosiți autobuzul local (Guagua) pentru a ajunge fără stres în centru. Dimineața aparține exclusivei Marina Rubicón.\r\n\r\nLa prânz, autobuzul vă duce la Playa Dorada pentru distracție la plajă și un prânz lângă mare.\r\n\r\nDupă-amiaza, continuați spre Playa Flamingo, o bijuterie pentru ore de relaxare.\r\n\r\nLa finalul zilei, transportul vă aduce aproape de farul Pechiguera pentru o ultimă privire asupra Atlanticului.",
+        "en": "Use the local bus (Guagua) to reach the center stress-free. The morning is dedicated to the exclusive Marina Rubicón.\r\n\r\nAt midday, the bus takes you to Playa Dorada for extensive swimming and lunch near the sea.\r\n\r\nIn the afternoon, head further to the sheltered Playa Flamingo, a gem for relaxed hours.\r\n\r\nTo wrap up the day, the transit takes you near the Pechiguera Lighthouse for a final look at the Atlantic."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Simple & Natural",
+            "tip": "Gute Snacks in der Nähe der Bushaltestelle."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Simple & Natural",
+            "tip": "Jó falatok a buszmegálló közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Simple & Natural",
+            "tip": "Gustări bune lângă stația de autobuz."
+          }
+        ],
+        "en": [
+          {
+            "name": "Simple & Natural",
+            "tip": "Good snacks near the bus stop."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Paseo Strandabschnitte",
+            "tip": "Kleine Buchten abseits der Menge.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Paseo partszakaszok",
+            "tip": "Kis öblök távol a tömegtől.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Secțiunile Paseo",
+            "tip": "Mici golfuri departe de mulțime.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Paseo Beach Sections",
+            "tip": "Small coves away from the crowds.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Calle Limones",
+            "tip": "Haupteinkaufsstraße im Zentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Calle Limones",
+            "tip": "A központ fő bevásárlóutcája."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Calle Limones",
+            "tip": "Strada principală de cumpărături."
+          }
+        ],
+        "en": [
+          {
+            "name": "Calle Limones",
+            "tip": "The main shopping street in the center."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Laden Sie die lokale Bus-App herunter.",
+          "Haben Sie Kleingeld für das Ticket bereit.",
+          "Die Linie 30 ist die wichtigste für Touristen.",
+          "Busse fahren alle 30 Minuten."
+        ],
+        "hu": [
+          "Töltse le a helyi buszos alkalmazást.",
+          "Legyen nálad aprópénz a jegyhez.",
+          "A 30-as vonal a legfontosabb a turistáknak.",
+          "A buszok 30 percenként járnak."
+        ],
+        "ro": [
+          "Descărcați aplicația locală de transport.",
+          "Aveți mărunțiș pentru bilet.",
+          "Linia 30 este cea mai utilă pentru turiști.",
+          "Autobuzele circulă la fiecare 30 de minute."
+        ],
+        "en": [
+          "Download the local bus app.",
+          "Have small change ready for the ticket.",
+          "Line 30 is the most important for tourists.",
+          "Buses run every 30 minutes."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie den lokalen Bus (Guagua), um stressfrei ins Zentrum zu gelangen. Der Vormittag gehört der exklusiven Marina Rubicón.\r\n\r\nMittags bringt Sie der Bus zur Playa Dorada für ausgiebigen Badespaß und ein Mittagessen in Meeresnähe.\r\n\r\nAm Nachmittag fahren Sie weiter zur geschützten Playa Flamingo, einem Juwel für entspannte Stunden.\r\n\r\nZum Abschluss des Tages bringt Sie der Transit in die Nähe des Leuchtturms von Pechiguera für einen letzten Blick auf den Atlantik.",
+            "hu": "Használja a helyi buszt (Guagua), hogy stresszmentesen jusson a központba. A délelőtt az exkluzív Marina Rubicón kikötőé.\r\n\r\nDélben a busz a Playa Dorada strandra viszi, ahol hosszas fürdőzés és vízparti ebéd várja.\r\n\r\nDélután utazzon tovább a védett Playa Flamingo strandhoz, amely a nyugalom szigete.\r\n\r\nA nap végén a járat a Pechiguera-világítótorony közelébe viszi, ahol egy utolsó pillantást vethet az Atlanti-óceánra.",
+            "ro": "Folosiți autobuzul local (Guagua) pentru a ajunge fără stres în centru. Dimineața aparține exclusivei Marina Rubicón.\r\n\r\nLa prânz, autobuzul vă duce la Playa Dorada pentru distracție la plajă și un prânz lângă mare.\r\n\r\nDupă-amiaza, continuați spre Playa Flamingo, o bijuterie pentru ore de relaxare.\r\n\r\nLa finalul zilei, transportul vă aduce aproape de farul Pechiguera pentru o ultimă privire asupra Atlanticului.",
+            "en": "Use the local bus (Guagua) to reach the center stress-free. The morning is dedicated to the exclusive Marina Rubicón.\r\n\r\nAt midday, the bus takes you to Playa Dorada for extensive swimming and lunch near the sea.\r\n\r\nIn the afternoon, head further to the sheltered Playa Flamingo, a gem for relaxed hours.\r\n\r\nTo wrap up the day, the transit takes you near the Pechiguera Lighthouse for a final look at the Atlantic."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Playa Blanca Zentrum",
+                "hu": "Playa Blanca Központ",
+                "ro": "Playa Blanca Centru",
+                "en": "Playa Blanca Center"
+              },
+              "tip_5lang": {
+                "de": "Zentraler Busknotenpunkt für lokale Linien.",
+                "hu": "Központi buszcsomópont a helyi járatoknak.",
+                "ro": "Nod central de autobuze pentru liniile locale.",
+                "en": "Central bus hub for local lines."
+              }
+            },
+            {
+              "name": {
+                "de": "Marina Rubicón",
+                "hu": "Marina Rubicón",
+                "ro": "Marina Rubicón",
+                "en": "Marina Rubicón"
+              },
+              "tip_5lang": {
+                "de": "Linie 30 verbindet das Zentrum mit der Marina.",
+                "hu": "A 30-as busz köti össze a központot a kikötővel.",
+                "ro": "Linia 30 conectează centrul cu marina.",
+                "en": "Line 30 connects the center to the marina."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa Dorada",
+                "hu": "Playa Dorada",
+                "ro": "Playa Dorada",
+                "en": "Playa Dorada"
+              },
+              "tip_5lang": {
+                "de": "Bushaltestelle nur wenige Minuten vom Strand entfernt.",
+                "hu": "Buszmegálló pár percre a strandtól.",
+                "ro": "Stație de autobuz la câteva minute de plajă.",
+                "en": "Bus stop just a few minutes from the beach."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa Flamingo",
+                "hu": "Playa Flamingo",
+                "ro": "Playa Flamingo",
+                "en": "Playa Flamingo"
+              },
+              "tip_5lang": {
+                "de": "Bequem erreichbar mit dem Playa Blanca Rundkurs.",
+                "hu": "Kényelmesen elérhető a helyi körjárattal.",
+                "ro": "Accesibil ușor cu autobuzul local circular.",
+                "en": "Easily accessible with the Playa Blanca circular bus."
+              }
+            },
+            {
+              "name": {
+                "de": "Faro de Pechiguera",
+                "hu": "Pechiguera-világítótorony",
+                "ro": "Faro de Pechiguera",
+                "en": "Faro de Pechiguera"
+              },
+              "tip_5lang": {
+                "de": "Der Bus hält in der Nähe der Hotels am Leuchtturm.",
+                "hu": "A busz megáll a világítótorony melletti hotelek közelében.",
+                "ro": "Autobuzul oprește lângă hotelurile de la far.",
+                "en": "The bus stops near the hotels by the lighthouse."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Simple & Natural",
+                "tip": "Gute Snacks in der Nähe der Bushaltestelle."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Simple & Natural",
+                "tip": "Jó falatok a buszmegálló közelében."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Simple & Natural",
+                "tip": "Gustări bune lângă stația de autobuz."
+              }
+            ],
+            "en": [
+              {
+                "name": "Simple & Natural",
+                "tip": "Good snacks near the bus stop."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Paseo Strandabschnitte",
+                "tip": "Kleine Buchten abseits der Menge.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Paseo partszakaszok",
+                "tip": "Kis öblök távol a tömegtől.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Secțiunile Paseo",
+                "tip": "Mici golfuri departe de mulțime.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Paseo Beach Sections",
+                "tip": "Small coves away from the crowds.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Calle Limones",
+                "tip": "Haupteinkaufsstraße im Zentrum."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Calle Limones",
+                "tip": "A központ fő bevásárlóutcája."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Calle Limones",
+                "tip": "Strada principală de cumpărături."
+              }
+            ],
+            "en": [
+              {
+                "name": "Calle Limones",
+                "tip": "The main shopping street in the center."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Laden Sie die lokale Bus-App herunter.",
+              "Haben Sie Kleingeld für das Ticket bereit.",
+              "Die Linie 30 ist die wichtigste für Touristen.",
+              "Busse fahren alle 30 Minuten."
+            ],
+            "hu": [
+              "Töltse le a helyi buszos alkalmazást.",
+              "Legyen nálad aprópénz a jegyhez.",
+              "A 30-as vonal a legfontosabb a turistáknak.",
+              "A buszok 30 percenként járnak."
+            ],
+            "ro": [
+              "Descărcați aplicația locală de transport.",
+              "Aveți mărunțiș pentru bilet.",
+              "Linia 30 este cea mai utilă pentru turiști.",
+              "Autobuzele circulă la fiecare 30 de minute."
+            ],
+            "en": [
+              "Download the local bus app.",
+              "Have small change ready for the ticket.",
+              "Line 30 is the most important for tourists.",
+              "Buses run every 30 minutes."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie den Linienbus zum Zentrum, um trocken zu bleiben. Die Marina Rubicón ist gut vernetzt und bietet Schutz in den Wartebereichen. Mittags ist das Einkaufszentrum an der Playa Dorada ein guter Zufluchtsort. Die Fahrt zum Leuchtturm am Abend ist im geheizten Bus am angenehmsten.",
+            "hu": "Használja a helyi buszt a központba, hogy száraz maradjon. A Marina Rubicón jól megközelíthető, és védett várókkal rendelkezik. Délben a Playa Dorada melletti pláza jó menedék. A világítótoronyhoz való utazás este a fűtött buszon a legkellemesebb.",
+            "ro": "Folosiți autobuzul spre centru pentru a rămâne uscat. Marina Rubicón este bine conectată și are zone de așteptare protejate. La prânz, mall-ul de la Playa Dorada este un refugiu bun. Drumul spre far este plăcut în autobuz seara.",
+            "en": "Take the local bus to the center to stay dry. Marina Rubicón is well-connected and offers shelter in waiting areas. At noon, the shopping mall near Playa Dorada is a great refuge. The trip to the lighthouse in the evening is most pleasant inside the bus."
+          },
+          "stops": [
+            {
+              "name": "Playa Blanca Center",
+              "tip_5lang": {
+                "de": "Zentrale Haltestelle mit gutem Dach.",
+                "hu": "Központi megálló jó tetővel.",
+                "ro": "Stație centrală cu acoperiș bun.",
+                "en": "Central stop with a good shelter roof."
+              }
+            },
+            {
+              "name": "Marina Rubicón",
+              "tip_5lang": {
+                "de": "Kurze Wege von der Haltestelle zum Hafen.",
+                "hu": "Rövid út a megállótól a kikötőig.",
+                "ro": "Drum scurt de la stație până în port.",
+                "en": "Short walk from the stop to the harbor area."
+              }
+            },
+            {
+              "name": "Playa Dorada",
+              "tip_5lang": {
+                "de": "Bushaltestelle direkt am Einkaufszentrum.",
+                "hu": "Buszmegálló közvetlenül a plázánál.",
+                "ro": "Stație de autobuz chiar lângă mall.",
+                "en": "Bus stop right next to the shopping center."
+              }
+            },
+            {
+              "name": "Playa Flamingo",
+              "tip_5lang": {
+                "de": "Nutzen Sie die App für Echtzeit-Infos.",
+                "hu": "Használja az appot a valós idejű infókért.",
+                "ro": "Folosiți aplicația pentru info în timp real.",
+                "en": "Check the app for real-time bus arrivals."
+              }
+            },
+            {
+              "name": "Faro de Pechiguera",
+              "tip_5lang": {
+                "de": "Endstation, Bus wartet oft kurz.",
+                "hu": "Végállomás, a busz gyakran vár egy kicsit.",
+                "ro": "Capăt de linie, autobuzul așteaptă adesea.",
+                "en": "End of the line, bus often waits for a bit."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Halten Sie Kleingeld für den Busfahrer bereit.",
+              "Fahrpläne können bei Unwetter leicht variieren.",
+              "Die Busse sind klimatisiert und trocken.",
+              "Einige Haltestellen haben keinen Regenschutz."
+            ],
+            "hu": [
+              "Legyen kéznél aprópénz a buszsofőrnek.",
+              "A menetrend rossz időben kicsit változhat.",
+              "A buszok légkondicionáltak és szárazak.",
+              "Néhány megállónak nincs esővédő tetője."
+            ],
+            "ro": [
+              "Aveți pregătit mărunt pentru șoferul de autobuz.",
+              "Orarele pot varia ușor în caz de furtună.",
+              "Autobuzele sunt climatizate și uscate.",
+              "Unele stații nu au protecție împotriva ploii."
+            ],
+            "en": [
+              "Have small change ready for the bus driver.",
+              "Schedules may vary slightly during heavy storms.",
+              "Buses provide a dry and climate-controlled environment.",
+              "Note that some minor stops lack overhead shelter."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie Ihre Tour entspannt mit dem Bus zum Zentrum. Der Winterfahrplan ist zuverlässig für den Besuch der Marina Rubicón. Mittags ist die Fahrt zur Playa Dorada eine gute Möglichkeit, sich im Schatten des Busses kurz auszuruhen. Beenden Sie den Tag am Leuchtturm und nehmen Sie den letzten Bus zurück.",
+            "hu": "Kezdje a túrát pihentető buszozással a központba. A téli menetrend megbízható a Marina Rubicón meglátogatásához. Délben a Playa Dorada felé tartó út jó alkalom a pihenésre a busz árnyékában. Zárja a napot a toronynál, és érje el az utolsó buszt.",
+            "ro": "Începeți turul cu o plimbare relaxantă cu autobuzul. Orarul de iarnă este de încredere pentru vizitarea Marina Rubicón. La prânz, drumul spre Playa Dorada este o ocazie bună de odihnă. Încheiați ziua la far și luați ultimul autobuz.",
+            "en": "Start your tour with a relaxing bus ride to the center. The winter schedule is reliable for visiting Marina Rubicón. At noon, the ride to Playa Dorada is a good chance to rest in the bus's shade. End the day at the lighthouse and make sure to catch the last bus back."
+          },
+          "stops": [
+            {
+              "name": "Playa Blanca Center",
+              "tip_5lang": {
+                "de": "Idealer Ausgangspunkt für Wintertouren.",
+                "hu": "Ideális kiindulópont téli túrákhoz.",
+                "ro": "Punct de plecare ideal pentru tururi de iarnă.",
+                "en": "Ideal starting point for winter tours."
+              }
+            },
+            {
+              "name": "Marina Rubicón",
+              "tip_5lang": {
+                "de": "Busse fahren alle 30 Minuten.",
+                "hu": "A buszok 30 percenként járnak.",
+                "ro": "Autobuzele circulă la fiecare 30 de minute.",
+                "en": "Buses run every 30 minutes in winter."
+              }
+            },
+            {
+              "name": "Playa Dorada",
+              "tip_5lang": {
+                "de": "Haltestelle ist im Winter weniger überlaufen.",
+                "hu": "A megálló télen kevésbé zsúfolt.",
+                "ro": "Stația este mai puțin aglomerată iarna.",
+                "en": "The stop is less crowded during winter months."
+              }
+            },
+            {
+              "name": "Playa Flamingo",
+              "tip_5lang": {
+                "de": "Gute Verbindung zu den Hotels.",
+                "hu": "Jó összeköttetés a hotelekkel.",
+                "ro": "Conexiune bună cu hotelurile.",
+                "en": "Good connection to the main hotel zones."
+              }
+            },
+            {
+              "name": "Faro de Pechiguera",
+              "tip_5lang": {
+                "de": "Letzte Rückfahrt vor Sonnenuntergang prüfen.",
+                "hu": "Ellenőrizze az utolsó járatot naplemente előtt.",
+                "ro": "Verificați ultima cursă înainte de apus.",
+                "en": "Check the last return trip before sunset."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Der Winterfahrplan gilt ab November.",
+              "Nutzen Sie die 'Bono'-Karte für günstigere Fahrten.",
+              "Die Busse sind im Winter seltener verspätet.",
+              "Abends sind die Busse oft angenehm leer."
+            ],
+            "hu": [
+              "A téli menetrend novembertől érvényes.",
+              "Használja a 'Bono' kártyát az olcsóbb utazáshoz.",
+              "A buszok télen ritkábban késnek.",
+              "Este a buszok gyakran kellemesen üresek."
+            ],
+            "ro": [
+              "Orarul de iarnă intră în vigoare din noiembrie.",
+              "Folosiți cardul 'Bono' pentru călătorii mai ieftine.",
+              "Autobuzele întârzie mai rar iarna.",
+              "Seara autobuzele sunt adesea plăcut de goale."
+            ],
+            "en": [
+              "The winter schedule starts in November.",
+              "Use a 'Bono' card for discounted multi-trip fares.",
+              "Buses are rarely delayed during the winter season.",
+              "Evening buses are often pleasantly uncrowded."
+            ]
+          }
+        }
+      }
+    }
+  },
+  "external_resources": {
+    "tourism_office": "https://turismolanzarote.com/playa-blanca/",
+    "transit_official": "https://www.arrecifebus.com",
+    "events": "https://www.lineasromero.com",
+    "language_tips": {
+      "de": "Playa Blanca ist ein Familien-Ferienort mit vielen deutschen und britischen Stammgästen, alle Servicekräfte sprechen mehrsprachig. Für Ausflüge nach La Graciosa oder Fuerteventura sind die Fährtickets auch auf Englisch und Deutsch erhältlich.",
+      "hu": "Playa Blanca családi üdülőhely sok német és brit törzsvendéggel, a kiszolgáló személyzet többnyelvű. A La Graciosára vagy Fuerteventurára induló kompjegyek angolul-németül is mennek, nem kell spanyolul mutogatni.",
+      "ro": "Playa Blanca e o stațiune de familie cu mulți germani și britanici fideli, personalul vorbește multilingv. Biletele de feribot spre La Graciosa sau Fuerteventura se vând și în engleză sau germană.",
+      "en": "Playa Blanca is a family resort with loyal German and British regulars, staff are multilingual. Ferry tickets to La Graciosa or Fuerteventura are sold in English and German, no Spanish needed."
+    },
+    "best_time_to_visit": {
+      "de": "Süden Lanzarotes ist der trockenste Teil der Insel, ideal von Oktober bis Mai. Im August können Calima-Sandstürme aus Afrika für einige Tage Sicht und Luft trüben, das ist hier am stärksten.",
+      "hu": "Lanzarote dél a legszárazabb részen van, október-májusig ideális. Augusztusban a Calima nevű szaharai homokvihar pár napra elhomályosíthatja a látást és a levegőt, itt érződik a legjobban.",
+      "ro": "Sudul Lanzarote e cea mai uscată parte, ideal octombrie-mai. În august, vântul Calima din Sahara poate tulbura vizibilitatea câteva zile, aici se simte cel mai puternic.",
+      "en": "Southern Lanzarote is the island's driest corner, ideal October to May. August can bring the Calima sandstorm from Africa, blurring views and air for a few days, felt strongest here."
+    },
+    "neighborhood_warnings": {
+      "de": "Playa Blanca ist sehr sicher, sogar nachts an der Promenade. Bei Westwind sind die Wellen am Papagayo-Strand stärker als sie aussehen, dort gibt es keinen Rettungsschwimmer.",
+      "hu": "Playa Blanca nagyon biztonságos, éjjel a sétány is. Nyugati szélnél viszont a Papagayo-strand hullámai a látszatnál erősebbek, ott nincs vízimentő.",
+      "ro": "Playa Blanca este foarte sigură, inclusiv noaptea pe promenadă. La vânt de vest, valurile pe plaja Papagayo sunt mai puternice decât par și nu există salvamar acolo.",
+      "en": "Playa Blanca is very safe, even on the promenade at night. With westerly winds the Papagayo beach swell is stronger than it looks, and there is no lifeguard there."
+    }
+  }
+}

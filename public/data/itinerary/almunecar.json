@@ -1,0 +1,2080 @@
+{
+  "city_id": "almunecar",
+  "anchor": {
+    "name": "Almuñécar",
+    "coords": [
+      -3.6917,
+      36.7333
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "18:45",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Phönizier-Denkmal",
+            "hu": "Főníciai emlékmű",
+            "ro": "Monumentul Fenicienilor",
+            "en": "Monumento a los Fenicios"
+          },
+          "coords": [
+            -3.6932,
+            36.7305
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Früher Start am Paseo del Altillo für bestes Licht.",
+            "hu": "Érdemes korán érkezni a Paseo del Altillo-hoz a fények miatt.",
+            "ro": "Incepeți devreme pe Paseo del Altillo pentru cea mai bună lumină.",
+            "en": "Start early at Paseo del Altillo for the best morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Botanisch-Archäologischer Park El Majuelo",
+            "hu": "El Majuelo Botanikai és Régészeti Park",
+            "ro": "Parcul Botanic-Arheologic El Majuelo",
+            "en": "Parque Botánico-Arheológico El Majuelo"
+          },
+          "coords": [
+            -3.6912,
+            36.7315
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Besuchen Sie die antike Fischsalzerei mitten im Park.",
+            "hu": "Nézze meg az ókori halsózó üzemet a park közepén.",
+            "ro": "Vizitați vechea fabrică de sărare a peștelui din mijlocul parcului.",
+            "en": "Visit the ancient fish-salting factory inside the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg San Miguel",
+            "hu": "San Miguel vár",
+            "ro": "Castelul San Miguel",
+            "en": "Castillo de San Miguel"
+          },
+          "coords": [
+            -3.6905,
+            36.7335
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Der Panoramablick von den Mauern auf die Küste ist grandios.",
+            "hu": "A falakról nyíló panoráma a partra lenyűgöző.",
+            "ro": "Vederea panoramică de pe ziduri asupra coastei este grandioasă.",
+            "en": "The panoramic view from the walls over the coast is magnificent."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologisches Museum Cueva de Siete Palacios",
+            "hu": "Siete Palacios barlangmúzeum",
+            "ro": "Muzeul Arheologic Cueva de Siete Palacios",
+            "en": "Museo Arqueológico Cueva de Siete Palacios"
+          },
+          "coords": [
+            -3.6895,
+            36.7342
+          ],
+          "category": "museums",
+          "arrive_at": "12:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Einzigartiges Museum in einer antiken römischen Grotte.",
+            "hu": "Egyedülálló múzeum egy ókori római barlangban.",
+            "ro": "Muzeu unic situat într-o grotă romană antică.",
+            "en": "Unique museum located inside an ancient Roman cave."
+          }
+        },
+        {
+          "name": {
+            "de": "Peñón del Santo",
+            "hu": "Szent szikla",
+            "ro": "Stânca Sfântului",
+            "en": "Peñón del Santo"
+          },
+          "coords": [
+            -3.6935,
+            36.7312
+          ],
+          "category": "natural features",
+          "arrive_at": "14:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Der ideale Ort, um das Meer aus der Höhe zu betrachten.",
+            "hu": "Ideális hely a tenger magasból történő megcsodálására.",
+            "ro": "Locul ideal pentru a admira marea de la înălțime.",
+            "en": "The ideal spot to admire the sea from above."
+          }
+        },
+        {
+          "name": {
+            "de": "San Cristóbal Strand",
+            "hu": "San Cristóbal strand",
+            "ro": "Plaja San Cristóbal",
+            "en": "Playa de San Cristóbal"
+          },
+          "coords": [
+            -3.6955,
+            36.7325
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:35",
+          "stay_min": 180,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Probieren Sie Sardinen-Espetos an den Strandbars (Chiringuitos).",
+            "hu": "Kóstolja meg a szardínia-nyársat a tengerparti büfékben.",
+            "ro": "Încercați frigăruile de sardine la barurile de pe plajă.",
+            "en": "Try the sardine espetos at the beach bars (chiringuitos)."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Dieser Rundgang führt Sie durch das Herz von Almuñécar. Am Morgen erkunden wir die phönizischen und römischen Wurzeln im Majuelo-Park und in der Cueva de Siete Palacios. Der Aufstieg zur Burg San Miguel bietet die beste Orientierung. Nach einem kulturellen Mittagessen in der Altstadt genießen wir die Meeresbrise am Peñón del Santo und lassen den Tag entspannt am weitläufigen Strand von San Cristóbal ausklingen.",
+        "hu": "Ez a gyalogos túra Almuñécar szívébe kalauzolja Önt. Reggel felfedezzük a főníciai és római gyökereket a Majuelo parkban és a Siete Palacios barlangban. A San Miguel várba vezető felmenet nyújtja a legjobb tájékozódást. Az óvárosi kulturális ebéd után élvezzük a tengeri szellőt a Szent sziklánál, majd a napot a San Cristóbal strand pihentető homokján fejezzük be.",
+        "ro": "Acest tur pietonal vă poartă prin inima orașului Almuñécar. Dimineața explorăm rădăcinile feniciene și romane în parcul Majuelo și în Cueva de Siete Palacios. Urcarea la castelul San Miguel oferă cea mai bună orientare. După un prânz cultural în orașul vechi, ne bucurăm de briza mării la Peñón del Santo și încheiem ziua relaxându-ne pe plaja San Cristóbal.",
+        "en": "This walking tour takes you through the heart of Almuñécar. In the morning, we explore the Phoenician and Roman roots at Majuelo Park and Cueva de Siete Palacios. The climb to San Miguel Castle offers the best orientation. After a cultural lunch in the old town, we enjoy the sea breeze at Peñón del Santo and end the day relaxing on the wide San Cristóbal beach."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Espetos de Sardinas",
+            "tip": "Traditionell über Holzfeuer gegrillte Sardinen am Strand."
+          },
+          {
+            "name": "Chirimoya de la Costa Tropical",
+            "tip": "Die lokale Spezialität – eine köstliche tropische Frucht."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Espetos de Sardinas",
+            "tip": "Hagyományos fatüzelésű grillen sült szardínia a parton."
+          },
+          {
+            "name": "Chirimoya",
+            "tip": "A Costa Tropical különleges, édes trópusi gyümölcse."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Espetos de Sardinas",
+            "tip": "Sardine gătite tradițional la grătar cu lemne pe plajă."
+          },
+          {
+            "name": "Chirimoya",
+            "tip": "Fruct tropical local delicios, specific zonei."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sardine Espetos",
+            "tip": "Traditionally grilled sardines over an open wood fire at the beach."
+          },
+          {
+            "name": "Custard Apple (Chirimoya)",
+            "tip": "The local specialty – a delicious tropical fruit."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Peñón del Santo",
+            "tip": "Panoramablick zum Sonnenuntergang.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Peñón del Santo",
+            "tip": "Panorámás kilátás a naplementében.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Peñón del Santo",
+            "tip": "Vedere panoramică la apus.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Peñón del Santo",
+            "tip": "Panoramic viewpoint for sunset.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mercado Municipal",
+            "tip": "Frische tropische Früchte und lokaler Fisch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mercado Municipal",
+            "tip": "Friss trópusi gyümölcsök és helyi halak piaca."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mercado Municipal",
+            "tip": "Piață cu fructe tropicale proaspete și pește local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Municipal Market",
+            "tip": "Fresh tropical fruits and local fish market."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Altstadt ist sehr steil, tragen Sie bequeme Schuhe.",
+          "Die Burg ist montags oft geschlossen, prüfen Sie die Zeiten.",
+          "Reservieren Sie in Chiringuitos am Wochenende vorab.",
+          "Probieren Sie das lokale Eis mit Chirimoya-Geschmack."
+        ],
+        "hu": [
+          "Az óváros nagyon meredek, viseljen kényelmes cipőt.",
+          "A vár hétfőnként gyakran zárva tart, ellenőrizze a nyitvatartást.",
+          "Hétvégén érdemes asztalt foglalni a tengerparti éttermekben.",
+          "Kóstolja meg a helyi chirimoya ízű fagyit."
+        ],
+        "ro": [
+          "Orașul vechi este foarte abrupt, purtați încălțăminte confortabilă.",
+          "Castelul este adesea închis lunea, verificați programul.",
+          "Rezervați din timp la restaurantele de pe plajă în weekend.",
+          "Încercați înghețata locală cu aromă de chirimoya."
+        ],
+        "en": [
+          "The old town is very steep, wear comfortable walking shoes.",
+          "The castle is often closed on Mondays, check opening times.",
+          "Book ahead at beach restaurants (chiringuitos) on weekends.",
+          "Try the local custard apple (chirimoya) flavored ice cream."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Dieser Rundgang führt Sie durch das Herz von Almuñécar. Am Morgen erkunden wir die phönizischen und römischen Wurzeln im Majuelo-Park und in der Cueva de Siete Palacios. Der Aufstieg zur Burg San Miguel bietet die beste Orientierung. Nach einem kulturellen Mittagessen in der Altstadt genießen wir die Meeresbrise am Peñón del Santo und lassen den Tag entspannt am weitläufigen Strand von San Cristóbal ausklingen.",
+            "hu": "Ez a gyalogos túra Almuñécar szívébe kalauzolja Önt. Reggel felfedezzük a főníciai és római gyökereket a Majuelo parkban és a Siete Palacios barlangban. A San Miguel várba vezető felmenet nyújtja a legjobb tájékozódást. Az óvárosi kulturális ebéd után élvezzük a tengeri szellőt a Szent sziklánál, majd a napot a San Cristóbal strand pihentető homokján fejezzük be.",
+            "ro": "Acest tur pietonal vă poartă prin inima orașului Almuñécar. Dimineața explorăm rădăcinile feniciene și romane în parcul Majuelo și în Cueva de Siete Palacios. Urcarea la castelul San Miguel oferă cea mai bună orientare. După un prânz cultural în orașul vechi, ne bucurăm de briza mării la Peñón del Santo și încheiem ziua relaxându-ne pe plaja San Cristóbal.",
+            "en": "This walking tour takes you through the heart of Almuñécar. In the morning, we explore the Phoenician and Roman roots at Majuelo Park and Cueva de Siete Palacios. The climb to San Miguel Castle offers the best orientation. After a cultural lunch in the old town, we enjoy the sea breeze at Peñón del Santo and end the day relaxing on the wide San Cristóbal beach."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Phönizier-Denkmal",
+                "hu": "Főníciai emlékmű",
+                "ro": "Monumentul Fenicienilor",
+                "en": "Monumento a los Fenicios"
+              },
+              "tip_5lang": {
+                "de": "Früher Start am Paseo del Altillo für bestes Licht.",
+                "hu": "Érdemes korán érkezni a Paseo del Altillo-hoz a fények miatt.",
+                "ro": "Incepeți devreme pe Paseo del Altillo pentru cea mai bună lumină.",
+                "en": "Start early at Paseo del Altillo for the best morning light."
+              }
+            },
+            {
+              "name": {
+                "de": "Botanisch-Archäologischer Park El Majuelo",
+                "hu": "El Majuelo Botanikai és Régészeti Park",
+                "ro": "Parcul Botanic-Arheologic El Majuelo",
+                "en": "Parque Botánico-Arheológico El Majuelo"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die antike Fischsalzerei mitten im Park.",
+                "hu": "Nézze meg az ókori halsózó üzemet a park közepén.",
+                "ro": "Vizitați vechea fabrică de sărare a peștelui din mijlocul parcului.",
+                "en": "Visit the ancient fish-salting factory inside the park."
+              }
+            },
+            {
+              "name": {
+                "de": "Burg San Miguel",
+                "hu": "San Miguel vár",
+                "ro": "Castelul San Miguel",
+                "en": "Castillo de San Miguel"
+              },
+              "tip_5lang": {
+                "de": "Der Panoramablick von den Mauern auf die Küste ist grandios.",
+                "hu": "A falakról nyíló panoráma a partra lenyűgöző.",
+                "ro": "Vederea panoramică de pe ziduri asupra coastei este grandioasă.",
+                "en": "The panoramic view from the walls over the coast is magnificent."
+              }
+            },
+            {
+              "name": {
+                "de": "Archäologisches Museum Cueva de Siete Palacios",
+                "hu": "Siete Palacios barlangmúzeum",
+                "ro": "Muzeul Arheologic Cueva de Siete Palacios",
+                "en": "Museo Arqueológico Cueva de Siete Palacios"
+              },
+              "tip_5lang": {
+                "de": "Einzigartiges Museum in einer antiken römischen Grotte.",
+                "hu": "Egyedülálló múzeum egy ókori római barlangban.",
+                "ro": "Muzeu unic situat într-o grotă romană antică.",
+                "en": "Unique museum located inside an ancient Roman cave."
+              }
+            },
+            {
+              "name": {
+                "de": "Peñón del Santo",
+                "hu": "Szent szikla",
+                "ro": "Stânca Sfântului",
+                "en": "Peñón del Santo"
+              },
+              "tip_5lang": {
+                "de": "Der ideale Ort, um das Meer aus der Höhe zu betrachten.",
+                "hu": "Ideális hely a tenger magasból történő megcsodálására.",
+                "ro": "Locul ideal pentru a admira marea de la înălțime.",
+                "en": "The ideal spot to admire the sea from above."
+              }
+            },
+            {
+              "name": {
+                "de": "San Cristóbal Strand",
+                "hu": "San Cristóbal strand",
+                "ro": "Plaja San Cristóbal",
+                "en": "Playa de San Cristóbal"
+              },
+              "tip_5lang": {
+                "de": "Probieren Sie Sardinen-Espetos an den Strandbars (Chiringuitos).",
+                "hu": "Kóstolja meg a szardínia-nyársat a tengerparti büfékben.",
+                "ro": "Încercați frigăruile de sardine la barurile de pe plajă.",
+                "en": "Try the sardine espetos at the beach bars (chiringuitos)."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Espetos de Sardinas",
+                "tip": "Traditionell über Holzfeuer gegrillte Sardinen am Strand."
+              },
+              {
+                "name": "Chirimoya de la Costa Tropical",
+                "tip": "Die lokale Spezialität – eine köstliche tropische Frucht."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Espetos de Sardinas",
+                "tip": "Hagyományos fatüzelésű grillen sült szardínia a parton."
+              },
+              {
+                "name": "Chirimoya",
+                "tip": "A Costa Tropical különleges, édes trópusi gyümölcse."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Espetos de Sardinas",
+                "tip": "Sardine gătite tradițional la grătar cu lemne pe plajă."
+              },
+              {
+                "name": "Chirimoya",
+                "tip": "Fruct tropical local delicios, specific zonei."
+              }
+            ],
+            "en": [
+              {
+                "name": "Sardine Espetos",
+                "tip": "Traditionally grilled sardines over an open wood fire at the beach."
+              },
+              {
+                "name": "Custard Apple (Chirimoya)",
+                "tip": "The local specialty – a delicious tropical fruit."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Peñón del Santo",
+                "tip": "Panoramablick zum Sonnenuntergang.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Peñón del Santo",
+                "tip": "Panorámás kilátás a naplementében.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Peñón del Santo",
+                "tip": "Vedere panoramică la apus.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Peñón del Santo",
+                "tip": "Panoramic viewpoint for sunset.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Mercado Municipal",
+                "tip": "Frische tropische Früchte und lokaler Fisch."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Mercado Municipal",
+                "tip": "Friss trópusi gyümölcsök és helyi halak piaca."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Mercado Municipal",
+                "tip": "Piață cu fructe tropicale proaspete și pește local."
+              }
+            ],
+            "en": [
+              {
+                "name": "Municipal Market",
+                "tip": "Fresh tropical fruits and local fish market."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Die Altstadt ist sehr steil, tragen Sie bequeme Schuhe.",
+              "Die Burg ist montags oft geschlossen, prüfen Sie die Zeiten.",
+              "Reservieren Sie in Chiringuitos am Wochenende vorab.",
+              "Probieren Sie das lokale Eis mit Chirimoya-Geschmack."
+            ],
+            "hu": [
+              "Az óváros nagyon meredek, viseljen kényelmes cipőt.",
+              "A vár hétfőnként gyakran zárva tart, ellenőrizze a nyitvatartást.",
+              "Hétvégén érdemes asztalt foglalni a tengerparti éttermekben.",
+              "Kóstolja meg a helyi chirimoya ízű fagyit."
+            ],
+            "ro": [
+              "Orașul vechi este foarte abrupt, purtați încălțăminte confortabilă.",
+              "Castelul este adesea închis lunea, verificați programul.",
+              "Rezervați din timp la restaurantele de pe plajă în weekend.",
+              "Încercați înghețata locală cu aromă de chirimoya."
+            ],
+            "en": [
+              "The old town is very steep, wear comfortable walking shoes.",
+              "The castle is often closed on Mondays, check opening times.",
+              "Book ahead at beach restaurants (chiringuitos) on weekends.",
+              "Try the local custard apple (chirimoya) flavored ice cream."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt am Phönizier-Denkmal unter dem Regenschirm, während die Wellen kräftiger gegen die Küste schlagen. Im Majuelo-Park bieten die exotischen Bäume etwas Schutz vor den Tropfen.\n\nMittags erkunden wir die Burg San Miguel; die nassen Steinmauern wirken in der feuchten Luft besonders mystisch. In der Cueva de Siete Palacios finden wir trockenen Unterschlupf in den römischen Gewölben.\n\nAm Nachmittag trotzen wir dem Wind am Peñón del Santo, wo die Gischt des Meeres mit dem Regen verschmilzt. Der Blick auf die aufgewühlte See ist dramatisch.\n\nDer Abend endet mit einem Spaziergang entlang der Playa de San Cristóbal. Das Rauschen des Regens auf dem Kiesstrand schafft eine beruhigende, einsame Atmosphäre.",
+            "hu": "A reggel az esernyők alatt kezdődik a föníciaiak emlékművénél, miközben a hullámok vadul csapkodják a partot. Az El Majuelo park egzotikus fái némi menedéket nyújtanak az égi áldás elől.\n\nDélben a San Miguel várat fedezzük fel; a nedves kőfalak különleges, misztikus hangulatot árasztanak a párás levegőben. A Cueva de Siete Palacios római boltozatai alatt száraz menedéket találunk.\n\nDélután dacolunk a széllel a Peñón del Santo sziklájánál, ahol a tenger permete keveredik az esővel. A háborgó tenger látványa lenyűgöző.\n\nAz este a Playa de San Cristóbal mentén ér véget. Az eső kopogása a kavicsos strandon megnyugtató, magányos atmoszférát teremt.",
+            "ro": "Dimineața începe sub umbrelă la Monumentul Fenicienilor, în timp ce valurile se sparg cu putere de țărm. În parcul El Majuelo, arborii exotici oferă un adăpost parțial împotriva picăturilor.\n\nLa prânz explorăm Castelul San Miguel; zidurile umede de piatră par deosebit de mistice în aerul jilav. În Cueva de Siete Palacios găsim un refugiu uscat în bolțile romane.\n\nDupă-amiaza înfruntăm vântul la Peñón del Santo, unde spuma mării se contopește cu ploaia. Vederea asupra mării agitate este dramatică.\n\nSeara se încheie cu o plimbare pe Playa de San Cristóbal. Sunetul ploii pe plaja cu pietriș creează o atmosferă liniștitoare și solitară.",
+            "en": "The morning begins under umbrellas at the Phoenician Monument, as the waves crash more powerfully against the coast. In El Majuelo Park, exotic trees provide some shelter from the raindrops.\n\nAt noon, we explore San Miguel Castle; the wet stone walls look particularly mystical in the damp air. We find dry refuge within the Roman vaults of Cueva de Siete Palacios.\n\nIn the afternoon, we brave the wind at Peñón del Santo, where sea spray merges with the rain. The view of the churning sea is dramatic.\n\nThe evening ends with a stroll along Playa de San Cristóbal. The sound of rain on the pebble beach creates a soothing, solitary atmosphere."
+          },
+          "stops": [
+            {
+              "name": "Monumento a los Fenicios",
+              "tip_5lang": {
+                "de": "Vorsicht bei starkem Wind, die Gischt kann hier sehr nass spritzen.",
+                "hu": "Erős szélnél vigyázzon, a tengeri permet messzire elhordhat.",
+                "ro": "Atenție la vântul puternic, valurile pot stropi zona monumentului.",
+                "en": "Careful with strong winds; the sea spray can be very wet here."
+              }
+            },
+            {
+              "name": "Parque Botánico-Arheológico El Majuelo",
+              "tip_5lang": {
+                "de": "Die großen Palmenblätter dienen als natürlicher Regenschirm.",
+                "hu": "A hatalmas pálmalevelek természetes esernyőként szolgálnak.",
+                "ro": "Frunzele mari de palmier servesc drept umbrele naturale.",
+                "en": "Large palm leaves serve as natural umbrellas during light rain."
+              }
+            },
+            {
+              "name": "Castillo de San Miguel",
+              "tip_5lang": {
+                "de": "Die alten Pflastersteine sind bei Nässe extrem rutschig.",
+                "hu": "A régi macskakövek nedvesen rendkívül csúszósak.",
+                "ro": "Pavelele vechi sunt extrem de alunecoase când sunt ude.",
+                "en": "The old cobblestones are extremely slippery when wet."
+              }
+            },
+            {
+              "name": "Museo Arqueológico Cueva de Siete Palacios",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um den stärksten Regenguss trocken abzuwarten.",
+                "hu": "Tökéletes hely a legnagyobb felhőszakadás száraz megvárásához.",
+                "ro": "Locul perfect pentru a aștepta trecerea ploii la adăpost.",
+                "en": "Perfect place to wait out the heaviest rain in dry comfort."
+              }
+            },
+            {
+              "name": "Peñón del Santo",
+              "tip_5lang": {
+                "de": "Halten Sie sich am Geländer fest, die Stufen sind oft glatt.",
+                "hu": "Kapaszkodjon a korlátba, a lépcsők gyakran síkosak.",
+                "ro": "Țineți-vă de balustradă, treptele sunt adesea lucioase.",
+                "en": "Hold onto the railing; the steps are often slick."
+              }
+            },
+            {
+              "name": "Playa de San Cristóbal",
+              "tip_5lang": {
+                "de": "Die Cafés an der Promenade bieten gemütliche Plätze im Trockenen.",
+                "hu": "A sétány kávézói kényelmes, száraz helyeket kínálnak.",
+                "ro": "Cafenelele de pe faleză oferă locuri confortabile la uscat.",
+                "en": "Promenade cafes offer cozy spots to stay dry and watch the sea."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie rutschfeste Schuhe, da die Altstadt von Almuñécar viele glatte Steine hat.",
+              "Die Cueva de Siete Palacios ist komplett überdacht und ideal bei Regen.",
+              "Nutzen Sie die Strandbars (Chiringuitos) mit Markisen als schnellen Unterschlupf.",
+              "Ein fester Regenschirm ist wegen der Meeresbrise besser als ein leichter Knirps.",
+              "Das archäologische Museum bietet eine gute einstündige Flucht vor dem Wetter."
+            ],
+            "hu": [
+              "Viseljen csúszásmentes cipőt, mert az óváros kövei esőben nagyon síkosak.",
+              "A Cueva de Siete Palacios teljesen fedett, ideális esős időben.",
+              "Használja a napellenzős tengerparti bárokat (chiringuitos) gyors menedékként.",
+              "A tengeri szél miatt az erős vázú esernyő jobb, mint az összecsukható.",
+              "A régészeti múzeum jó egyórás menekülést nyújt az időjárás elől."
+            ],
+            "ro": [
+              "Purtați încălțăminte antiderapantă, pietrele din centrul vechi sunt alunecoase.",
+              "Cueva de Siete Palacios este complet acoperită, ideală pe ploaie.",
+              "Folosiți barurile de pe plajă (chiringuitos) cu copertine ca adăpost rapid.",
+              "O umbrelă rezistentă este de preferat din cauza brizelor marine puternice.",
+              "Muzeul arheologic oferü o evadare excelentă de o oră din calea ploii."
+            ],
+            "en": [
+              "Wear non-slip shoes as Almuñécar's old town stones get very slick.",
+              "Cueva de Siete Palacios is completely covered and ideal for rainy periods.",
+              "Use beach bars (chiringuitos) with awnings as quick shelters.",
+              "A sturdy umbrella is better than a travel one due to coastal winds.",
+              "The archaeological museum provides a good one-hour escape from the weather."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein milder Wintermorgen am Meer beginnt frisch, aber sonnig am Denkmal. Im Majuelo-Park leuchten die Pflanzen auch im Winter in kräftigem Grün.\n\nMittags genießen wir den Aufstieg zur Burg bei angenehmen 15 Grad, ohne die drückende Sommerhitze. Die Cueva de Siete Palacios bietet eine konstante, angenehme Temperatur in den alten Mauern.\n\nAm Nachmittag erklimmen wir den Peñón del Santo rechtzeitig, um das goldene Licht der tiefstehenden Wintersonne über dem Mittelmeer einzufangen.\n\nDer Abend bricht früh herein, und die Playa de San Cristóbal leuchtet im sanften Licht der Dämmerung. Ein idealer Zeitpunkt für einen heißen Kakao in einem der Strandcafés.",
+            "hu": "A gyenge téli reggel frissen, de naposan kezdődik az emlékműnél. Az El Majuelo park növényei télen is élénkzölden pompáznak.\n\nDélben kellemes 15 fokban élvezzük a várba vezető utat, a nyomasztó nyári hőség nélkül. A Cueva de Siete Palacios falai között állandó, kellemes hőmérséklet fogad.\n\nDélután időben másszuk meg a Peñón del Santo sziklát, hogy elcsípjük az alacsonyan járó téli nap arany fényeit a Földközi-tenger felett.\n\nAz este korán köszönt be, a Playa de San Cristóbal pedig a szürkület lágy fényeiben tündököl. Ideális időpont egy forró kakaóra a tengerparti kávézók egyikében.",
+            "ro": "O dimineață blândă de iarnă la malul mării începe răcoros, dar însorit la monument. În parcul Majuelo, plantele strălucesc într-un verde intens chiar și iarna.\n\nLa prânz ne bucurăm de urcarea la castel la o temperatură plăcută de 15 grade, fără arșița verii. Cueva de Siete Palacios oferă o temperatură constantă și plăcută între zidurile vechi.\n\nDupă-amiaza urcăm pe Peñón del Santo la timp pentru a surprinde lumina aurie a soarelui de iarnă coborât deasupra Mediteranei.\n\nSeara vine devreme, iar Playa de San Cristóbal strălucește în lumina blândă a amurgului. Un moment ideal pentru o ciocolată caldă la o cafenea de pe plajă.",
+            "en": "A mild winter morning by the sea begins freshly but sunnily at the monument. In Majuelo Park, the plants shine in vibrant green even in winter.\n\nAt noon, we enjoy the climb to the castle in a pleasant 15 degrees, without the oppressive summer heat. Cueva de Siete Palacios offers a constant, pleasant temperature within its ancient walls.\n\nIn the afternoon, we climb Peñón del Santo in time to catch the golden light of the low winter sun over the Mediterranean.\n\nThe evening sets in early, and Playa de San Cristóbal glows in the soft twilight. An ideal time for a hot cocoa in one of the beach cafes."
+          },
+          "stops": [
+            {
+              "name": "Monumento a los Fenicios",
+              "tip_5lang": {
+                "de": "Die Morgensonne bietet hier das beste Licht für Fotos.",
+                "hu": "A reggeli nap itt kínálja a legjobb fényeket a fotókhoz.",
+                "ro": "Soarele dimineții oferă aici cea mai bună lumină pentru fotografii.",
+                "en": "The morning sun provides the best photographic light here."
+              }
+            },
+            {
+              "name": "Parque Botánico-Arheológico El Majuelo",
+              "tip_5lang": {
+                "de": "Im Winter sind die archäologischen Ausgrabungen besser sichtbar.",
+                "hu": "Télen a régészeti ásatások jobban láthatóak a ritkább növényzet közt.",
+                "ro": "Iarna, săpăturile arheologice sunt mai vizibile printre plante.",
+                "en": "In winter, archaeological excavations are more visible through the foliage."
+              }
+            },
+            {
+              "name": "Castillo de San Miguel",
+              "tip_5lang": {
+                "de": "Keine Warteschlangen – genießen Sie die Ruhe auf den Mauern.",
+                "hu": "Nincsenek sorok – élvezze a nyugalmat a várfalakon.",
+                "ro": "Fără cozi – bucurați-vă de liniștea de pe zidurile cetății.",
+                "en": "No queues – enjoy the tranquility on the fortress walls."
+              }
+            },
+            {
+              "name": "Museo Arqueológico Cueva de Siete Palacios",
+              "tip_5lang": {
+                "de": "Die Höhle ist im Winter ein warmer Rückzugsort.",
+                "hu": "A barlang télen meleg menedéket nyújt a hűvös szél elől.",
+                "ro": "Peștera este un refugiu cald în timpul iernii.",
+                "en": "The cave acts as a warm retreat during the winter months."
+              }
+            },
+            {
+              "name": "Peñón del Santo",
+              "tip_5lang": {
+                "de": "Der Sonnenuntergang ist im Winter bereits gegen 18:00 Uhr.",
+                "hu": "Télen a naplemente már 18:00 óra körül bekövetkezik.",
+                "ro": "Apusul soarelui este în jur de ora 18:00 pe timp de iarnă.",
+                "en": "Sunset occurs around 18:00 during the winter season."
+              }
+            },
+            {
+              "name": "Playa de San Cristóbal",
+              "tip_5lang": {
+                "de": "Die Abendbrise ist kühl, eine Jacke ist unbedingt erforderlich.",
+                "hu": "Az esti szellő hűvös, egy kabát mindenképpen szükséges.",
+                "ro": "Briza serii este răcoroasă, o jachetă este absolut necesară.",
+                "en": "The evening breeze is chilly; a jacket is definitely required."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie das milde Klima für lange Spaziergänge ohne Hitzeerschöpfung.",
+              "Die Sonne geht früh unter (ca. 18:00), planen Sie Aktivitäten im Freien vorher.",
+              "Viele Chiringuitos haben im Winter geschlossen, suchen Sie Cafés im Zentrum.",
+              "Zwiebelprinzip bei der Kleidung: Sonne ist warm, Schatten ist kühl.",
+              "Der Winter ist die beste Zeit, um die Burg ohne Touristenmassen zu sehen."
+            ],
+            "hu": [
+              "Használja ki az enyhe klímát hosszú sétákra hőkimerültség nélkül.",
+              "A nap korán nyugszik (kb. 18:00), a szabadtéri programokat tervezze előbbre.",
+              "Sok tengerparti bár zárva van télen, keressen kávézókat a központban.",
+              "Öltözködjön rétegesen: a napon meleg van, az árnyékban hűvös.",
+              "A tél a legjobb időszak a vár megtekintésére tömeg nélkül."
+            ],
+            "ro": [
+              "Profită de clima blândă pentru plimbări lungi fără oboseala cauzată de căldură.",
+              "Soarele apune devreme (cca. 18:00), planificați activitățile în aer liber înainte.",
+              "Multe baruri de plajă sunt închise iarna, căutați cafenele în centru.",
+              "Îmbrăcați-vă în straturi: la soare este cald, la umbră este răcoare.",
+              "Iarna este cel mai bun moment pentru a vedea castelul fără mase de turiști."
+            ],
+            "en": [
+              "Take advantage of the mild climate for long walks without heat exhaustion.",
+              "Sunset is early (around 18:00), so plan outdoor activities accordingly.",
+              "Many beach bars are closed in winter; look for cafes in the town center.",
+              "Dress in layers: the sun is warm, but the shade is quite cool.",
+              "Winter is the best time to see the castle without the tourist crowds."
+            ]
+          }
+        }
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Römisches Aquädukt von Sexi",
+            "hu": "Sexi római vízvezeték",
+            "ro": "Apeductul Roman din Sexi",
+            "en": "Acueducto Romano de Sexi"
+          },
+          "coords": [
+            -3.6825,
+            36.7412
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "09:20",
+          "stay_min": 50,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Gut erhaltene Abschnitte im Landesinneren, leicht erreichbar.",
+            "hu": "Jól megőrzött szakaszok a szárazföld belsejében, könnyen elérhető.",
+            "ro": "Secțiuni bine conservate în interior, ușor accesibile.",
+            "en": "Well-preserved sections inland, easily accessible by bike."
+          }
+        },
+        {
+          "name": {
+            "de": "Vogelpark Loro Sexi",
+            "hu": "Loro Sexi madárpark",
+            "ro": "Parcul Ornitologic Loro Sexi",
+            "en": "Parque Ornitológico Loro Sexi"
+          },
+          "coords": [
+            -3.6918,
+            36.7328
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Schöne Sammlung exotischer Vögel direkt am Hang.",
+            "hu": "Egzotikus madarak szép gyűjteménye a hegyoldalban.",
+            "ro": "O colecție frumoasă de păsări exotice chiar pe coastă.",
+            "en": "Beautiful collection of exotic birds located on the hillside."
+          }
+        },
+        {
+          "name": {
+            "de": "Leuchtturm Punta de la Mona",
+            "hu": "Punta de la Mona világítótorony",
+            "ro": "Farul Punta de la Mona",
+            "en": "Faro de la Punta de la Mona"
+          },
+          "coords": [
+            -3.7315,
+            36.7215
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "12:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Herausfordernde Steigung, aber der Blick auf den Hafen belohnt.",
+            "hu": "Kihívást jelentő emelkedő, de a kikötői kilátás kárpótol.",
+            "ro": "Urcare provocatoare, dar vederea asupra portului merită.",
+            "en": "Challenging climb, but the view over the marina is worth it."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Die Fahrradtour verbindet antike Technik mit Küsten-Flair. Zuerst radeln wir zum römischen Aquädukt im Tal, dann zurück zur Küste zum Vogelpark Loro Sexi. Der Höhepunkt ist die Fahrt zur Punta de la Mona, die eine sportliche Herausforderung mit atemberaubenden Ausblicken auf die Bucht von La Herradura bietet.",
+        "hu": "A kerékpártúra ötvözi az antik technikát a tengerparti hangulattal. Először a völgyben lévő római vízvezetékhez tekerünk, majd vissza a partra a Loro Sexi madárparkhoz. A fénypont a Punta de la Mona-hoz vezető út, amely sportos kihívást és lélegzetelállító kilátást kínál a La Herradura-öbölre.",
+        "ro": "Turul cu bicicleta îmbină ingineria antică cu farmecul coastei. Mai întâi pedalăm spre apeductul roman din vale, apoi revenim la coastă la parcul Loro Sexi. Punctul culminant este drumul spre Punta de la Mona, care oferă o provocare sportivă și vederi uluitoare asupra golfului La Herradura.",
+        "en": "The bike tour combines ancient engineering with coastal flair. First, we cycle to the Roman aqueduct in the valley, then back to the coast to Loro Sexi bird park. The highlight is the ride to Punta de la Mona, offering a sporty challenge and breathtaking views over La Herradura bay."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Marina del Este",
+            "tip": "Perfekter Stopp für einen Kaffee mit Blick auf die Jachten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Marina del Este",
+            "tip": "Tökéletes megálló egy kávéra a jachtkikötőben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Marina del Este",
+            "tip": "Oprire perfectă pentru o cafea cu vedere la iahturi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Marina del Este",
+            "tip": "Perfect stop for a coffee overlooking the yachts."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Cotobro Promenade",
+            "tip": "Ruhigerer Küstenabschnitt zum Entspannen.",
+            "emoji": "🌊"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cotobro sétány",
+            "tip": "Csendesebb tengerparti rész a pihenéshez.",
+            "emoji": "🌊"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Faleza Cotobro",
+            "tip": "Secțiune de coastă mai liniștită pentru relaxare.",
+            "emoji": "🌊"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cotobro Promenade",
+            "tip": "Quieter coastal stretch for relaxing.",
+            "emoji": "🌊"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradverleih Almuñécar",
+            "tip": "Gute Auswahl an E-Bikes für die Hügel."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fahrradverleih",
+            "tip": "Jó választék e-bike-okból a dombokhoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fahrradverleih",
+            "tip": "O selecție bună de e-bike-uri pentru dealuri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fahrradverleih Almuñécar",
+            "tip": "Good selection of e-bikes for the hills."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie ein E-Bike für die Fahrt zur Punta de la Mona.",
+          "Die Promenade ist flach, aber die Altstadt ist für Räder gesperrt.",
+          "Achten Sie auf Autos auf der Küstenstraße N-340.",
+          "Nehmen Sie ausreichend Wasser für die Steigungen mit."
+        ],
+        "hu": [
+          "Használjon e-bike-ot a Punta de la Mona-hoz vezető úthoz.",
+          "A sétány sík, de az óváros le van zárva a kerékpárok előtt.",
+          "Figyeljen az autókra az N-340-es parti úton.",
+          "Vigyen magával elég vizet az emelkedőkhöz."
+        ],
+        "ro": [
+          "Folosiți un e-bike pentru drumul spre Punta de la Mona.",
+          "Faleza este plană, dar orașul vechi este închis bicicletelor.",
+          "Atenție la mașini pe drumul de coastă N-340.",
+          "Luați suficientă apă pentru urcări."
+        ],
+        "en": [
+          "Use an e-bike for the climb to Punta de la Mona.",
+          "The promenade is flat, but the old town is closed to bicycles.",
+          "Watch out for cars on the N-340 coastal road.",
+          "Take plenty of water for the uphill sections."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Die Fahrradtour verbindet antike Technik mit Küsten-Flair. Zuerst radeln wir zum römischen Aquädukt im Tal, dann zurück zur Küste zum Vogelpark Loro Sexi. Der Höhepunkt ist die Fahrt zur Punta de la Mona, die eine sportliche Herausforderung mit atemberaubenden Ausblicken auf die Bucht von La Herradura bietet.",
+            "hu": "A kerékpártúra ötvözi az antik technikát a tengerparti hangulattal. Először a völgyben lévő római vízvezetékhez tekerünk, majd vissza a partra a Loro Sexi madárparkhoz. A fénypont a Punta de la Mona-hoz vezető út, amely sportos kihívást és lélegzetelállító kilátást kínál a La Herradura-öbölre.",
+            "ro": "Turul cu bicicleta îmbină ingineria antică cu farmecul coastei. Mai întâi pedalăm spre apeductul roman din vale, apoi revenim la coastă la parcul Loro Sexi. Punctul culminant este drumul spre Punta de la Mona, care oferă o provocare sportivă și vederi uluitoare asupra golfului La Herradura.",
+            "en": "The bike tour combines ancient engineering with coastal flair. First, we cycle to the Roman aqueduct in the valley, then back to the coast to Loro Sexi bird park. The highlight is the ride to Punta de la Mona, offering a sporty challenge and breathtaking views over La Herradura bay."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Römisches Aquädukt von Sexi",
+                "hu": "Sexi római vízvezeték",
+                "ro": "Apeductul Roman din Sexi",
+                "en": "Acueducto Romano de Sexi"
+              },
+              "tip_5lang": {
+                "de": "Gut erhaltene Abschnitte im Landesinneren, leicht erreichbar.",
+                "hu": "Jól megőrzött szakaszok a szárazföld belsejében, könnyen elérhető.",
+                "ro": "Secțiuni bine conservate în interior, ușor accesibile.",
+                "en": "Well-preserved sections inland, easily accessible by bike."
+              }
+            },
+            {
+              "name": {
+                "de": "Vogelpark Loro Sexi",
+                "hu": "Loro Sexi madárpark",
+                "ro": "Parcul Ornitologic Loro Sexi",
+                "en": "Parque Ornitológico Loro Sexi"
+              },
+              "tip_5lang": {
+                "de": "Schöne Sammlung exotischer Vögel direkt am Hang.",
+                "hu": "Egzotikus madarak szép gyűjteménye a hegyoldalban.",
+                "ro": "O colecție frumoasă de păsări exotice chiar pe coastă.",
+                "en": "Beautiful collection of exotic birds located on the hillside."
+              }
+            },
+            {
+              "name": {
+                "de": "Leuchtturm Punta de la Mona",
+                "hu": "Punta de la Mona világítótorony",
+                "ro": "Farul Punta de la Mona",
+                "en": "Faro de la Punta de la Mona"
+              },
+              "tip_5lang": {
+                "de": "Herausfordernde Steigung, aber der Blick auf den Hafen belohnt.",
+                "hu": "Kihívást jelentő emelkedő, de a kikötői kilátás kárpótol.",
+                "ro": "Urcare provocatoare, dar vederea asupra portului merită.",
+                "en": "Challenging climb, but the view over the marina is worth it."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Marina del Este",
+                "tip": "Perfekter Stopp für einen Kaffee mit Blick auf die Jachten."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Marina del Este",
+                "tip": "Tökéletes megálló egy kávéra a jachtkikötőben."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Marina del Este",
+                "tip": "Oprire perfectă pentru o cafea cu vedere la iahturi."
+              }
+            ],
+            "en": [
+              {
+                "name": "Marina del Este",
+                "tip": "Perfect stop for a coffee overlooking the yachts."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Cotobro Promenade",
+                "tip": "Ruhigerer Küstenabschnitt zum Entspannen.",
+                "emoji": "🌊"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Cotobro sétány",
+                "tip": "Csendesebb tengerparti rész a pihenéshez.",
+                "emoji": "🌊"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Faleza Cotobro",
+                "tip": "Secțiune de coastă mai liniștită pentru relaxare.",
+                "emoji": "🌊"
+              }
+            ],
+            "en": [
+              {
+                "name": "Cotobro Promenade",
+                "tip": "Quieter coastal stretch for relaxing.",
+                "emoji": "🌊"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Fahrradverleih Almuñécar",
+                "tip": "Gute Auswahl an E-Bikes für die Hügel."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Fahrradverleih",
+                "tip": "Jó választék e-bike-okból a dombokhoz."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Fahrradverleih",
+                "tip": "O selecție bună de e-bike-uri pentru dealuri."
+              }
+            ],
+            "en": [
+              {
+                "name": "Fahrradverleih Almuñécar",
+                "tip": "Good selection of e-bikes for the hills."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Nutzen Sie ein E-Bike für die Fahrt zur Punta de la Mona.",
+              "Die Promenade ist flach, aber die Altstadt ist für Räder gesperrt.",
+              "Achten Sie auf Autos auf der Küstenstraße N-340.",
+              "Nehmen Sie ausreichend Wasser für die Steigungen mit."
+            ],
+            "hu": [
+              "Használjon e-bike-ot a Punta de la Mona-hoz vezető úthoz.",
+              "A sétány sík, de az óváros le van zárva a kerékpárok előtt.",
+              "Figyeljen az autókra az N-340-es parti úton.",
+              "Vigyen magával elég vizet az emelkedőkhöz."
+            ],
+            "ro": [
+              "Folosiți un e-bike pentru drumul spre Punta de la Mona.",
+              "Faleza este plană, dar orașul vechi este închis bicicletelor.",
+              "Atenție la mașini pe drumul de coastă N-340.",
+              "Luați suficientă apă pentru urcări."
+            ],
+            "en": [
+              "Use an e-bike for the climb to Punta de la Mona.",
+              "The promenade is flat, but the old town is closed to bicycles.",
+              "Watch out for cars on the N-340 coastal road.",
+              "Take plenty of water for the uphill sections."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine nasse Fahrt zum römischen Aquädukt erfordert Vorsicht auf den rutschigen Nebenwegen. Das alte Bauwerk wirkt im Regen noch monumentaler.\n\nMittags suchen wir Schutz im Loro Sexi Vogelpark, wo die dichte Vegetation und überdachte Volieren die Fahrt unterbrechen.\n\nDer Anstieg zum Leuchtturm Punta de la Mona ist bei Regen anstrengend, aber die einsame Straße gehört uns fast allein.\n\nDer Abend endet mit einer vorsichtigen Abfahrt zurück nach Almuñécar, während die Lichter der Stadt im nassen Asphalt reflektieren.",
+            "hu": "A vizes tekerés a római vízvezetékhez óvatosságot igényel a csúszós mellékutakon. Az ősi építmény az esőben még monumentálisabbnak tűnik.\n\nDélben a Loro Sexi madárparkban keresünk menedéket, ahol a sűrű növényzet és a fedett röpdék megszakítják az utat.\n\nA Punta de la Mona világítótoronyhoz vezető emelkedő esőben fárasztó, de a néptelen út szinte csak a miénk.\n\nAz este óvatos leereszkedéssel ér véget Almuñécar felé, miközben a város fényei tükröződnek a vizes aszfalton.",
+            "ro": "O cursă umedă spre apeductul roman necesită prudență pe drumurile secundare alunecoase. Structura veche pare și mai monumentală în ploaie.\n\nLa prânz căutăm adăpost în parcul de păsări Loro Sexi, unde vegetația densă și volierele acoperite întrerup traseul.\n\nUrcarea spre farul Punta de la Mona este obositoare pe ploaie, dar drumul pustiu ne aparține aproape în întregime.\n\nSeara se încheie cu o coborâre precaută înapoi spre Almuñécar, în timp ce luminile orașului se reflectă în asfaltul ud.",
+            "en": "A wet ride to the Roman Aqueduct requires caution on the slippery side roads. The ancient structure looks even more monumental in the rain.\n\nAt noon, we seek shelter in Loro Sexi Bird Park, where dense vegetation and covered aviaries provide a break from the ride.\n\nThe climb to the Punta de la Mona lighthouse is strenuous in the rain, but the deserted road belongs almost entirely to us.\n\nThe evening ends with a cautious descent back to Almuñécar, while the city lights reflect in the wet asphalt."
+          },
+          "stops": [
+            {
+              "name": "Acueducto Romano de Sexi",
+              "tip_5lang": {
+                "de": "Vermeiden Sie die unbefestigten Wege neben dem Aquädukt, sie werden matschig.",
+                "hu": "Kerülje a vízvezeték melletti földutakat, mert sárgossá válnak.",
+                "ro": "Evitați drumurile neasfaltate de lângă apeduct, devin noroioase.",
+                "en": "Avoid unpaved paths next to the aqueduct; they become very muddy."
+              }
+            },
+            {
+              "name": "Parque Ornitológico Loro Sexi",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Fahrrad unter den Vordächern am Eingang trocken ab.",
+                "hu": "Parkolja le kerékpárját a bejárat melletti előtetők alatt, hogy száraz maradjon.",
+                "ro": "Parcați bicicleta sub copertinele de la intrare pentru a o menține uscată.",
+                "en": "Park your bike under the awnings at the entrance to keep it dry."
+              }
+            },
+            {
+              "name": "Faro de la Punta de la Mona",
+              "tip_5lang": {
+                "de": "Bremsen Sie frühzeitig bei der steilen Abfahrt auf nassem Untergrund.",
+                "hu": "Fékezzen időben a meredek lejtőn, a vizes útfelületen hosszabb a féktáv.",
+                "ro": "Frânați din timp pe coborârea abruptă pe carosabil umed.",
+                "en": "Brake early on the steep descent on wet surfaces."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine vollflächige Regenjacke und wasserdichte Hosen.",
+              "Prüfen Sie Ihre Bremsbeläge, da sie auf nasser Straße weniger effektiv sind.",
+              "Reduzieren Sie den Reifendruck leicht für besseren Grip auf glattem Asphalt.",
+              "Meiden Sie weiß markierte Linien auf der Straße, diese sind bei Regen extrem glatt.",
+              "Die Route zum Aquädukt führt durch das Tal, wo sich Wasser sammeln kann."
+            ],
+            "hu": [
+              "Viseljen teljes esődzsekit és vízálló nadrágot.",
+              "Ellenőrizze a fékbetéteket, mert nedves úton kevésbé hatékonyak.",
+              "Csökkentse kissé a guminyomást a jobb tapadás érdekében a sima aszfalton.",
+              "Kerülje az úton lévő fehér jelzéseket, ezek esőben rendkívül csúszósak.",
+              "A vízvezetékhez vezető út a völgyön át visz, ahol megállhat a víz."
+            ],
+            "ro": [
+              "Purtați o jachetă de ploaie completă și pantaloni impermeabili.",
+              "Verificați saboții de frână, sunt mai puțin eficienți pe drum ud.",
+              "Reduceți ușor presiunea în pneuri pentru o aderență mai bună pe asfalt ud.",
+              "Evitați liniile albe marcate pe drum, sunt extrem de alunecoase pe ploaie.",
+              "Ruta spre apeduct trece prin vale, unde se pot forma bălți mari."
+            ],
+            "en": [
+              "Wear a full-coverage rain jacket and waterproof trousers.",
+              "Check your brake pads as they are less effective on wet roads.",
+              "Slightly reduce tire pressure for better grip on smooth asphalt.",
+              "Avoid white road markings; they are extremely slippery when wet.",
+              "The route to the aqueduct goes through the valley where water may pool."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kühler Morgen führt uns zum Aquädukt, wo die Wintersonne die römischen Steine in warmes Licht taucht.\n\nMittags besuchen wir den Vogelpark; die Papageien sind auch im Winter aktiv und die Luft ist herrlich klar.\n\nDer Anstieg zum Leuchtturm Punta de la Mona ist die perfekte Winterherausforderung, da man ohne zu schwitzen oben ankommt.\n\nDer Tag endet mit einer rasanten Fahrt im letzten Tageslicht, während die Luft am Meer deutlich kühler wird.",
+            "hu": "Egy hűvös reggel vezet a vízvezetékhez, ahol a téli nap meleg fénybe öltözteti a római köveket.\n\nDélben meglátogatjuk a madárparkot; a papagájok télen is aktívak, a levegő pedig csodálatosan tiszta.\n\nA Punta de la Mona világítótoronyhoz vezető emelkedő tökéletes téli kihívás, mert izzadás nélkül érünk fel.\n\nA nap egy gyors tekeréssel zárul az utolsó fényeknél, miközben a tengerparti levegő érezhetően lehűl.",
+            "ro": "O dimineață răcoroasă ne duce la apeduct, unde soarele de iarnă scaldă pietrele romane în lumină caldă.\n\nLa prânz vizităm parcul de păsări; papagalii sunt activi și iarna, iar aerul este minunat de clar.\n\nUrcarea spre farul Punta de la Mona este provocarea perfectă de iarnă, deoarece ajungi sus fără să transpiri.\n\nZiua se încheie cu o cursă rapidă în ultima lumină a zilei, în timp ce aerul de lângă mare devine mult mai rece.",
+            "en": "A cool morning leads us to the aqueduct, where the winter sun bathes the Roman stones in warm light.\n\nAt noon, we visit the bird park; the parrots are active even in winter, and the air is wonderfully clear.\n\nThe climb to the Punta de la Mona lighthouse is the perfect winter challenge, as you reach the top without sweating.\n\nThe day ends with a swift ride in the last daylight, as the sea air turns noticeably cooler."
+          },
+          "stops": [
+            {
+              "name": "Acueducto Romano de Sexi",
+              "tip_5lang": {
+                "de": "Die klare Winterluft ermöglicht weite Ausblicke über das Tal.",
+                "hu": "A tiszta téli levegő messzi kilátást tesz lehetővé a völgy felett.",
+                "ro": "Aerul clar de iarnă permite vederi panoramice asupra văii.",
+                "en": "The clear winter air allows for far-reaching views over the valley."
+              }
+            },
+            {
+              "name": "Parque Ornitológico Loro Sexi",
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe, im Winter sind kaum Besucher hier.",
+                "hu": "Élvezze a nyugalmat, télen alig vannak látogatók.",
+                "ro": "Bucurați-vă de liniște, iarna sunt foarte puțini vizitatori aici.",
+                "en": "Enjoy the peace; there are hardly any visitors here in winter."
+              }
+            },
+            {
+              "name": "Faro de la Punta de la Mona",
+              "tip_5lang": {
+                "de": "Nehmen Sie eine windfeste Weste für die Pause am Leuchtturm mit.",
+                "hu": "Vigyen szélálló mellényt a világítótoronynál tartott pihenőhöz.",
+                "ro": "Luați o vestă rezistentă la vânt pentru pauza de la far.",
+                "en": "Bring a windproof vest for your break at the lighthouse."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Handschuhe, da die Hände durch den Fahrtwind schnell auskühlen.",
+              "Die UV-Strahlung ist auch im Winter stark, nutzen Sie Sonnenschutz.",
+              "Starten Sie spätestens um 9:00 Uhr, um das Tageslicht voll auszunutzen.",
+              "Die Straßen sind im Winter trockener als im Herbst, ideal für Rennräder.",
+              "Eine Thermoskanne mit Tee ist ein Luxus für die Pause am Aussichtspunkt."
+            ],
+            "hu": [
+              "Viseljen kesztyűt, mert a menetszélben a kezek gyorsan kihűlnek.",
+              "Az UV-sugárzás télen is erős, használjon naptejet.",
+              "Induljon legkésőbb 9:00-kor, hogy teljesen kihasználja a nappali fényt.",
+              "Az utak télen szárazabbak, mint ősszel, ideálisak országúti kerékpárokhoz.",
+              "Egy termosz tea igazi luxus a kilátópontnál tartott pihenőhöz."
+            ],
+            "ro": [
+              "Purtați mănuși, deoarece mâinile se răcesc repede din cauza vântului.",
+              "Radiațiile UV sunt puternice și iarna, folosiți protecție solară.",
+              "Porniți cel târziu la ora 09:00 pentru a profita de lumina zilei.",
+              "Drumurile sunt mai uscate iarna decât toamna, ideale pentru cursiere.",
+              "Un termos cu ceai este un lux binevenit pentru pauza de la punctul de belvedere."
+            ],
+            "en": [
+              "Wear gloves as your hands can cool down quickly from the wind chill.",
+              "UV radiation is still strong in winter; use sunscreen.",
+              "Start by 9:00 AM at the latest to make the most of the daylight.",
+              "Roads are drier in winter than in autumn, ideal for road bikes.",
+              "A thermos with tea is a luxury for your break at the viewpoint."
+            ]
+          }
+        }
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 25.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Burg San Miguel",
+            "hu": "San Miguel vár",
+            "ro": "Castelul San Miguel",
+            "en": "Castillo de San Miguel"
+          },
+          "coords": [
+            -3.6905,
+            36.7335
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Parken Sie am Paseo de San Cristóbal und gehen Sie zu Fuß hoch.",
+            "hu": "Parkoljon a Paseo de San Cristóbal-on, és sétáljon fel.",
+            "ro": "Parcați pe Paseo de San Cristóbal și urcați pe jos.",
+            "en": "Park at Paseo de San Cristóbal and walk up."
+          }
+        },
+        {
+          "name": {
+            "de": "Tropisches Tal von Jete",
+            "hu": "Jete trópusi völgye",
+            "ro": "Valea tropicală Jete",
+            "en": "Tropical Valley of Jete"
+          },
+          "coords": [
+            -3.666,
+            36.8
+          ],
+          "category": "natural features",
+          "arrive_at": "11:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 9.5,
+          "tip_5lang": {
+            "de": "Wunderschöne Fahrt durch Obstplantagen mit Mangos und Avocados.",
+            "hu": "Gyönyörű autózás mangó- és avokádóültetvények között.",
+            "ro": "Drum frumos printre livezi de mango și avocado.",
+            "en": "Beautiful drive through mango and avocado orchards."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto kombinieren wir das historische Zentrum mit dem fruchtbaren Hinterland. Nach der Besichtigung der Burg fahren wir ins Rio Verde Tal, um die tropischen Plantagen zu sehen, die Almuñécar berühmt machen. Den Nachmittag verbringen wir an den abgelegeneren Buchten westlich der Stadt.",
+        "hu": "Autóval ötvözzük a történelmi központot a termékeny hátországgal. A vár megtekintése után a Rio Verde völgyébe hajtunk, hogy megnézzük a trópusi ültetvényeket, amelyek híressé teszik Almuñécart. A délutánt a várostól nyugatra eső eldugottabb öblökben töltjük.",
+        "ro": "Cu mașina combinăm centrul istoric cu hinterlandul fertil. După vizitarea castelului, conducem în valea Rio Verde pentru a vedea plantațiile tropicale care fac faimos Almuñécar. Petrecem după-amiaza în golfurile mai izolate de la vest de oraș.",
+        "en": "By car, we combine the historic center with the fertile hinterland. After visiting the castle, we drive into the Rio Verde valley to see the tropical orchards that make Almuñécar famous. We spend the afternoon at the more secluded coves west of town."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurante El Árbol Blanc",
+            "tip": "Gehobene Küche mit lokalen Zutaten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Restaurante El Árbol Blanc",
+            "tip": "Kifinomult konyha helyi alapanyagokkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurante El Árbol Blanc",
+            "tip": "Bucătărie rafinată cu ingrediente locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurante El Árbol Blanc",
+            "tip": "Upscale dining using local ingredients."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Maro Klippen",
+            "tip": "Nur 15 Min. Fahrt zu unberührter Natur.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Maro sziklák",
+            "tip": "Csak 15 perc autóval az érintetlen természet.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stâncile Maro",
+            "tip": "La doar 15 minute de mers cu mașina spre natură virgină.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Maro Cliffs",
+            "tip": "Just 15 min drive to untouched nature.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bodega del Mar",
+            "tip": "Lokale Weine und Olivenöl zum Mitnehmen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bodega del Mar",
+            "tip": "Helyi borok és olívaolaj vásárlása."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bodega del Mar",
+            "tip": "Vinuri locale și ulei de măsline de cumpărat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bodega del Mar",
+            "tip": "Local wines and olive oil to take home."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken im Zentrum ist schwierig, nutzen Sie Tiefgaragen.",
+          "Die Straße ins Tal ist kurvig, aber gut asphaltiert.",
+          "Besuchen Sie die Höhlen von Nerja (15 Min. westlich).",
+          "Vermeiden Sie die Altstadt mit dem Auto – sehr enge Gassen."
+        ],
+        "hu": [
+          "A központban nehéz parkolni, használja a mélygarázsokat.",
+          "A völgybe vezető út kanyargós, de jól aszfaltozott.",
+          "Látogassa meg a Nerjai barlangokat (15 percre nyugatra).",
+          "Kerülje el az óvárost autóval – nagyon szűk utcák."
+        ],
+        "ro": [
+          "Parcarea în centru este dificilă, folosiți parcările subterane.",
+          "Drumul spre vale este sinuos, dar bine asfaltat.",
+          "Vizitați Peșterile din Nerja (la 15 min spre vest).",
+          "Evitați orașul vechi cu mașina – străzi foarte înguste."
+        ],
+        "en": [
+          "Parking in the center is difficult, use underground car parks.",
+          "The road into the valley is winding but well-paved.",
+          "Visit the Nerja Caves (15 min west).",
+          "Avoid driving into the old town – extremely narrow streets."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto kombinieren wir das historische Zentrum mit dem fruchtbaren Hinterland. Nach der Besichtigung der Burg fahren wir ins Rio Verde Tal, um die tropischen Plantagen zu sehen, die Almuñécar berühmt machen. Den Nachmittag verbringen wir an den abgelegeneren Buchten westlich der Stadt.",
+            "hu": "Autóval ötvözzük a történelmi központot a termékeny hátországgal. A vár megtekintése után a Rio Verde völgyébe hajtunk, hogy megnézzük a trópusi ültetvényeket, amelyek híressé teszik Almuñécart. A délutánt a várostól nyugatra eső eldugottabb öblökben töltjük.",
+            "ro": "Cu mașina combinăm centrul istoric cu hinterlandul fertil. După vizitarea castelului, conducem în valea Rio Verde pentru a vedea plantațiile tropicale care fac faimos Almuñécar. Petrecem după-amiaza în golfurile mai izolate de la vest de oraș.",
+            "en": "By car, we combine the historic center with the fertile hinterland. After visiting the castle, we drive into the Rio Verde valley to see the tropical orchards that make Almuñécar famous. We spend the afternoon at the more secluded coves west of town."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Burg San Miguel",
+                "hu": "San Miguel vár",
+                "ro": "Castelul San Miguel",
+                "en": "Castillo de San Miguel"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie am Paseo de San Cristóbal und gehen Sie zu Fuß hoch.",
+                "hu": "Parkoljon a Paseo de San Cristóbal-on, és sétáljon fel.",
+                "ro": "Parcați pe Paseo de San Cristóbal și urcați pe jos.",
+                "en": "Park at Paseo de San Cristóbal and walk up."
+              }
+            },
+            {
+              "name": {
+                "de": "Tropisches Tal von Jete",
+                "hu": "Jete trópusi völgye",
+                "ro": "Valea tropicală Jete",
+                "en": "Tropical Valley of Jete"
+              },
+              "tip_5lang": {
+                "de": "Wunderschöne Fahrt durch Obstplantagen mit Mangos und Avocados.",
+                "hu": "Gyönyörű autózás mangó- és avokádóültetvények között.",
+                "ro": "Drum frumos printre livezi de mango și avocado.",
+                "en": "Beautiful drive through mango and avocado orchards."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Restaurante El Árbol Blanc",
+                "tip": "Gehobene Küche mit lokalen Zutaten."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Restaurante El Árbol Blanc",
+                "tip": "Kifinomult konyha helyi alapanyagokkal."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Restaurante El Árbol Blanc",
+                "tip": "Bucătărie rafinată cu ingrediente locale."
+              }
+            ],
+            "en": [
+              {
+                "name": "Restaurante El Árbol Blanc",
+                "tip": "Upscale dining using local ingredients."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Maro Klippen",
+                "tip": "Nur 15 Min. Fahrt zu unberührter Natur.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Maro sziklák",
+                "tip": "Csak 15 perc autóval az érintetlen természet.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Stâncile Maro",
+                "tip": "La doar 15 minute de mers cu mașina spre natură virgină.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Maro Cliffs",
+                "tip": "Just 15 min drive to untouched nature.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Bodega del Mar",
+                "tip": "Lokale Weine und Olivenöl zum Mitnehmen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Bodega del Mar",
+                "tip": "Helyi borok és olívaolaj vásárlása."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Bodega del Mar",
+                "tip": "Vinuri locale și ulei de măsline de cumpărat."
+              }
+            ],
+            "en": [
+              {
+                "name": "Bodega del Mar",
+                "tip": "Local wines and olive oil to take home."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Das Parken im Zentrum ist schwierig, nutzen Sie Tiefgaragen.",
+              "Die Straße ins Tal ist kurvig, aber gut asphaltiert.",
+              "Besuchen Sie die Höhlen von Nerja (15 Min. westlich).",
+              "Vermeiden Sie die Altstadt mit dem Auto – sehr enge Gassen."
+            ],
+            "hu": [
+              "A központban nehéz parkolni, használja a mélygarázsokat.",
+              "A völgybe vezető út kanyargós, de jól aszfaltozott.",
+              "Látogassa meg a Nerjai barlangokat (15 percre nyugatra).",
+              "Kerülje el az óvárost autóval – nagyon szűk utcák."
+            ],
+            "ro": [
+              "Parcarea în centru este dificilă, folosiți parcările subterane.",
+              "Drumul spre vale este sinuos, dar bine asfaltat.",
+              "Vizitați Peșterile din Nerja (la 15 min spre vest).",
+              "Evitați orașul vechi cu mașina – străzi foarte înguste."
+            ],
+            "en": [
+              "Parking in the center is difficult, use underground car parks.",
+              "The road into the valley is winding but well-paved.",
+              "Visit the Nerja Caves (15 min west).",
+              "Avoid driving into the old town – extremely narrow streets."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Vom trockenen Auto aus wirkt das Castillo de San Miguel im Regen wie eine Filmkulisse. Der kurze Weg vom Parkplatz ist schnell geschafft.\n\nMittags fahren wir in das tropische Tal von Jete; die Wolken hängen tief zwischen den Bergen und schaffen eine dramatische Szenerie.\n\nDie Fahrt durch die Plantagen zeigt ein anderes, grüneres Gesicht der Costa Tropical unter dem grauen Himmel.\n\nDer Abend endet mit einer entspannten Rückfahrt entlang der Küstenstraße, während die Scheibenwischer den Rhythmus der Wellen begleiten.",
+            "hu": "A száraz autóból nézve a San Miguel vár az esőben úgy fest, mint egy filmdíszlet. A parkolóból vezető rövid utat gyorsan letudjuk.\n\nDélben Jete trópusi völgyébe autózunk; a felhők alacsonyan lógnak a hegyek között, drámai látványt nyújtva.\n\nA gyümölcsösökön át vezető út a Costa Tropical egy másik, zöldebb arcát mutatja a szürke égbolt alatt.\n\nAz este pihentető visszatéréssel zárul a parti úton, miközben az ablaktörlők a hullámok ritmusát kísérik.",
+            "ro": "Din mașina uscată, Castelul San Miguel pare un decor de film în ploaie. Drumul scurt de la parcare este parcurs rapid.\n\nLa prânz conducem spre valea tropicală Jete; norii plutesc jos între munți, creând un scenariu dramatic.\n\nDrumul prin plantații dezvăluie o altă față, mai verde, a zonei Costa Tropical sub cerul gri.\n\nSeara se încheie cu o întoarcere relaxată pe drumul de coastă, în timp ce ștergătoarele acompaniază ritmul valurilor.",
+            "en": "From the dry car, Castillo de San Miguel looks like a movie set in the rain. The short walk from the parking lot is quickly done.\n\nAt noon, we drive to the tropical valley of Jete; clouds hang low between the mountains, creating dramatic scenery.\n\nThe drive through the plantations shows a different, greener face of Costa Tropical under the gray sky.\n\nThe evening ends with a relaxed drive back along the coastal road, with the wipers following the rhythm of the waves."
+          },
+          "stops": [
+            {
+              "name": "Castillo de San Miguel",
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang, um nicht nass zu werden.",
+                "hu": "Parkoljon a lehető legközelebb a bejárathoz, hogy ne ázzon el.",
+                "ro": "Parcați cât mai aproape de intrare pentru a evita ploaia.",
+                "en": "Park as close to the entrance as possible to avoid getting wet."
+              }
+            },
+            {
+              "name": "Tropical Valley of Jete",
+              "tip_5lang": {
+                "de": "Vorsicht bei Nebel in den Bergen, schalten Sie das Licht ein.",
+                "hu": "Vigyázzon a ködre a hegyekben, kapcsolja be a világítást.",
+                "ro": "Atenție la ceață în munți, porniți luminile de întâlnire.",
+                "en": "Watch out for fog in the mountains; turn on your lights."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Zustand Ihrer Scheibenwischer vor der Fahrt in die Berge.",
+              "Die Straßen im Hinterland können bei starkem Regen Steinschlag aufweisen.",
+              "Nutzen Sie die Parkhäuser im Zentrum, um trockenen Fußes in die Altstadt zu gelangen.",
+              "Vermeiden Sie das Parken in ausgetrockneten Flussbetten (Ramblas) bei Regen.",
+              "Die Sicht auf der Küstenstraße N-340 kann durch Gischt eingeschränkt sein."
+            ],
+            "hu": [
+              "Ellenőrizze az ablaktörlők állapotát a hegyi út előtt.",
+              "A hátország útjain heves esőzéskor kőomlás fordulhat elő.",
+              "Használja a központi parkolóházakat, hogy száraz lábbal érje el az óvárost.",
+              "Esőben kerülje a parkolást a kiszáradt medrekben (ramblas).",
+              "Az N-340-es parti úton a látási viszonyokat korlátozhatja a tengeri permet."
+            ],
+            "ro": [
+              "Verificați starea ștergătoarelor înainte de a pleca spre munți.",
+              "Drumurile din hinterland pot prezenta căderi de pietre în timpul ploilor torențiale.",
+              "Folosiți parcările subterane din centru pentru a ajunge în orașul vechi fără a vă uda.",
+              "Evitați parcarea în albiile secate ale râurilor (ramblas) când plouă.",
+              "Vizibilitatea pe drumul de coastă N-340 poate fi redusă de spuma mării."
+            ],
+            "en": [
+              "Check the condition of your wipers before heading into the mountains.",
+              "Inland roads may experience rockfalls during heavy rain.",
+              "Use central parking garages to reach the old town while staying dry.",
+              "Avoid parking in dry riverbeds (ramblas) during rainy weather.",
+              "Visibility on the N-340 coastal road can be limited by sea spray."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein strahlender Wintermorgen beginnt an der Burg; die klare Luft bietet Sicht bis nach Afrika.\n\nMittags fahren wir in das Tal von Jete, wo die Erntezeit der tropischen Früchte in vollem Gange ist.\n\nDie Fahrt ist entspannt, da die Straßen im Winter deutlich leerer sind als zur Hauptsaison.\n\nDer Abend endet mit einem spektakulären Sonnenuntergang, den wir bequem vom Aussichtspunkt aus dem Auto genießen können.",
+            "hu": "Ragyogó téli reggel kezdődik a várnál; a tiszta levegőben ellátni egészen Afrikáig.\n\nDélben Jete völgyébe autózunk, ahol a trópusi gyümölcsök betakarítása javában zajlik.\n\nAz autózás pihentető, mivel az utak télen lényegesen üresebbek, mint a főszezonban.\n\nA nap egy látványos naplementével zárul, amelyet kényelmesen, a kilátópontnál az autóból élvezhetünk.",
+            "ro": "O dimineață de iarnă strălucitoare începe la castel; aerul clar oferă vizibilitate până în Africa.\n\nLa prânz conducem spre valea Jete, unde recolta fructelor tropicale este în plină desfășurare.\n\nCondusul este relaxant, deoarece drumurile sunt mult mai libere iarna decât în plin sezon.\n\nSeara se încheie cu un apus spectaculos, pe care îl putem savura confortabil din mașină de la un punct de belvedere.",
+            "en": "A brilliant winter morning begins at the castle; the clear air offers views all the way to Africa.\n\nAt noon, we drive to the Jete Valley, where the harvest of tropical fruits is in full swing.\n\nThe drive is relaxed, as the roads are significantly emptier in winter than during the peak season.\n\nThe evening ends with a spectacular sunset, which we can comfortably enjoy from the car at a viewpoint."
+          },
+          "stops": [
+            {
+              "name": "Castillo de San Miguel",
+              "tip_5lang": {
+                "de": "Die Wintersonne steht tief und beleuchtet die Burgmauern wunderschön.",
+                "hu": "A téli nap alacsonyan jár, és gyönyörűen megvilágítja a várfalakat.",
+                "ro": "Soarele de iarnă este jos și luminează superb zidurile castelului.",
+                "en": "The winter sun is low and illuminates the castle walls beautifully."
+              }
+            },
+            {
+              "name": "Tropical Valley of Jete",
+              "tip_5lang": {
+                "de": "Kaufen Sie frische Cherimoyas direkt bei den lokalen Bauern am Wegrand.",
+                "hu": "Vásároljon friss csirimojót közvetlenül a helyi gazdáktól az út mentén.",
+                "ro": "Cumpărați fructe cherimoya proaspete direct de la fermierii locali de la marginea drumului.",
+                "en": "Buy fresh cherimoyas directly from local farmers along the roadside."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Temperaturen können im Tal deutlich niedriger sein als am Meer.",
+              "Nutzen Sie die Nebensaison für Panoramafahrten auf der alten Küstenstraße.",
+              "Achten Sie auf Traktoren der Obstbauern, die im Winter häufiger unterwegs sind.",
+              "Die Parkplatzsuche in der Nähe der Burg ist im Winter völlig stressfrei.",
+              "Nehmen Sie eine Decke mit, falls Sie den Sonnenuntergang am Strand im Auto abwarten."
+            ],
+            "hu": [
+              "A völgyben a hőmérséklet lényegesen alacsonyabb lehet, mint a tengerparton.",
+              "Használja ki az utószezont panorámaautózásra a régi parti úton.",
+              "Ügyeljen a gyümölcstermesztők traktoraira, amelyek télen gyakrabban járnak.",
+              "A vár környéki parkolás télen teljesen stresszmentes.",
+              "Vigyen magával takarót, ha a naplementét a strandon, az autóban várná meg."
+            ],
+            "ro": [
+              "Temperaturile din vale pot fi considerabil mai mici decât la malul mării.",
+              "Profită de extrasezon pentru drumuri panoramice pe vechea șosea de coastă.",
+              "Atenție la tractoarele pomicultorilor, care sunt mai dese pe drum iarna.",
+              "Găsirea unui loc de parcare lângă castel este lipsită de stres iarna.",
+              "Luați o pătură dacă plănuiți să așteptați apusul pe plajă în mașină."
+            ],
+            "en": [
+              "Temperatures in the valley can be significantly lower than by the sea.",
+              "Take advantage of the off-season for scenic drives on the old coastal road.",
+              "Watch out for fruit farmers' tractors, which are more frequent in winter.",
+              "Finding parking near the castle is completely stress-free in winter.",
+              "Bring a blanket if you plan to watch the sunset from your car at the beach."
+            ]
+          }
+        }
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 6.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Busbahnhof Almuñécar",
+            "hu": "Almuñécar autóbusz-állomás",
+            "ro": "Autogara Almuñécar",
+            "en": "Almuñécar Bus Station"
+          },
+          "coords": [
+            -3.689,
+            36.7355
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Zentraler Knotenpunkt für alle lokalen Linien.",
+            "hu": "Központi csomópont minden helyi járathoz.",
+            "ro": "Nod central pentru toate liniile locale.",
+            "en": "Central hub for all local bus lines."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche La Encarnación",
+            "hu": "Encarnación templom",
+            "ro": "Biserica La Encarnación",
+            "en": "Iglesia de la Encarnación"
+          },
+          "coords": [
+            -3.6888,
+            36.7338
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:50",
+          "stay_min": 50,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Barocke Kirche mit beeindruckendem Turm.",
+            "hu": "Barokk templom lenyűgöző toronnyal.",
+            "ro": "Biserică barocă cu un turn impresionant.",
+            "en": "Baroque church with an impressive tower."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Stadtbus erreichen wir bequem die wichtigsten Punkte. Vom Bahnhof geht es zur barocken Kirche im Zentrum und weiter zur Strandpromenade. Ideal für Reisende, die Steigungen vermeiden möchten und die Küste entspannt erkunden wollen.",
+        "hu": "A városi busszal kényelmesen elérhetjük a főbb pontokat. Az állomástól a központi barokk templomhoz, majd tovább a tengerparti sétányhoz megyünk. Ideális azoknak, akik elkerülnék az emelkedőket.",
+        "ro": "Cu autobuzul urban ajungem confortabil la principalele puncte. De la autogară mergem la biserica barocă din centru și apoi la faleză. Ideal pentru călătorii care vor să evite pantele.",
+        "en": "Using the local bus, we easily reach the key spots. From the station, we head to the baroque church in the center and then to the promenade. Ideal for travelers wanting to avoid steep climbs."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Heladería Pinocchio",
+            "tip": "Beliebtes Eis an der Haltestelle Paseo del Altillo."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heladería Pinocchio",
+            "tip": "Népszerű fagylaltozó a Paseo del Altillo megállónál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Heladería Pinocchio",
+            "tip": "Înghețată populară lângă stația Paseo del Altillo."
+          }
+        ],
+        "en": [
+          {
+            "name": "Heladería Pinocchio",
+            "tip": "Popular ice cream spot near the Paseo del Altillo stop."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Plaza de la Constitución",
+            "tip": "Schattiger Platz zum Beobachten des Treibens.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Plaza de la Constitución",
+            "tip": "Árnyékos tér a helyi élet megfigyeléséhez.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plaza de la Constitución",
+            "tip": "Piață umbrită pentru a observa viața locală.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Plaza de la Constitución",
+            "tip": "Shaded square perfect for people-watching.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Calle Real",
+            "tip": "Kleine Boutiquen in der Fußgängerzone."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Calle Real",
+            "tip": "Kis butikok a sétálóutcában."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Calle Real",
+            "tip": "Mici buticuri în zona pietonală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Calle Real",
+            "tip": "Small boutiques in the pedestrian area."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Linie 1 und 3 bedienen die gesamte Küstenfront.",
+          "Kaufen Sie ein Mehrfahrten-Ticket beim Fahrer für Rabatte.",
+          "Busse fahren im Sommer häufiger als im Winter.",
+          "Die Haltestellen sind gut markiert, aber Fahrpläne variieren."
+        ],
+        "hu": [
+          "Az 1-es és 3-as vonal kiszolgálja a teljes partvonalat.",
+          "Vásároljon gyűjtőjegyet a sofőrnél a kedvezményért.",
+          "A buszok nyáron gyakrabban járnak, mint télen.",
+          "A megállók jól jelzettek, de a menetrend változó."
+        ],
+        "ro": [
+          "Liniile 1 și 3 deservesc întreaga faleză.",
+          "Cumpărați un bilet cu mai multe călătorii de la șofer.",
+          "Autobuzele circulă mai des vara decât iarna.",
+          "Stațiile sunt bine marcate, dar orarul variază."
+        ],
+        "en": [
+          "Lines 1 and 3 serve the entire coastal front.",
+          "Buy a multi-trip card from the driver for discounts.",
+          "Buses run more frequently in summer than in winter.",
+          "Stops are well-marked, but schedules can vary."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mit dem Stadtbus erreichen wir bequem die wichtigsten Punkte. Vom Bahnhof geht es zur barocken Kirche im Zentrum und weiter zur Strandpromenade. Ideal für Reisende, die Steigungen vermeiden möchten und die Küste entspannt erkunden wollen.",
+            "hu": "A városi busszal kényelmesen elérhetjük a főbb pontokat. Az állomástól a központi barokk templomhoz, majd tovább a tengerparti sétányhoz megyünk. Ideális azoknak, akik elkerülnék az emelkedőket.",
+            "ro": "Cu autobuzul urban ajungem confortabil la principalele puncte. De la autogară mergem la biserica barocă din centru și apoi la faleză. Ideal pentru călătorii care vor să evite pantele.",
+            "en": "Using the local bus, we easily reach the key spots. From the station, we head to the baroque church in the center and then to the promenade. Ideal for travelers wanting to avoid steep climbs."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Busbahnhof Almuñécar",
+                "hu": "Almuñécar autóbusz-állomás",
+                "ro": "Autogara Almuñécar",
+                "en": "Almuñécar Bus Station"
+              },
+              "tip_5lang": {
+                "de": "Zentraler Knotenpunkt für alle lokalen Linien.",
+                "hu": "Központi csomópont minden helyi járathoz.",
+                "ro": "Nod central pentru toate liniile locale.",
+                "en": "Central hub for all local bus lines."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche La Encarnación",
+                "hu": "Encarnación templom",
+                "ro": "Biserica La Encarnación",
+                "en": "Iglesia de la Encarnación"
+              },
+              "tip_5lang": {
+                "de": "Barocke Kirche mit beeindruckendem Turm.",
+                "hu": "Barokk templom lenyűgöző toronnyal.",
+                "ro": "Biserică barocă cu un turn impresionant.",
+                "en": "Baroque church with an impressive tower."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Heladería Pinocchio",
+                "tip": "Beliebtes Eis an der Haltestelle Paseo del Altillo."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Heladería Pinocchio",
+                "tip": "Népszerű fagylaltozó a Paseo del Altillo megállónál."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Heladería Pinocchio",
+                "tip": "Înghețată populară lângă stația Paseo del Altillo."
+              }
+            ],
+            "en": [
+              {
+                "name": "Heladería Pinocchio",
+                "tip": "Popular ice cream spot near the Paseo del Altillo stop."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Plaza de la Constitución",
+                "tip": "Schattiger Platz zum Beobachten des Treibens.",
+                "emoji": "🍃"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Plaza de la Constitución",
+                "tip": "Árnyékos tér a helyi élet megfigyeléséhez.",
+                "emoji": "🍃"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Plaza de la Constitución",
+                "tip": "Piață umbrită pentru a observa viața locală.",
+                "emoji": "🍃"
+              }
+            ],
+            "en": [
+              {
+                "name": "Plaza de la Constitución",
+                "tip": "Shaded square perfect for people-watching.",
+                "emoji": "🍃"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Calle Real",
+                "tip": "Kleine Boutiquen in der Fußgängerzone."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Calle Real",
+                "tip": "Kis butikok a sétálóutcában."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Calle Real",
+                "tip": "Mici buticuri în zona pietonală."
+              }
+            ],
+            "en": [
+              {
+                "name": "Calle Real",
+                "tip": "Small boutiques in the pedestrian area."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Linie 1 und 3 bedienen die gesamte Küstenfront.",
+              "Kaufen Sie ein Mehrfahrten-Ticket beim Fahrer für Rabatte.",
+              "Busse fahren im Sommer häufiger als im Winter.",
+              "Die Haltestellen sind gut markiert, aber Fahrpläne variieren."
+            ],
+            "hu": [
+              "Az 1-es és 3-as vonal kiszolgálja a teljes partvonalat.",
+              "Vásároljon gyűjtőjegyet a sofőrnél a kedvezményért.",
+              "A buszok nyáron gyakrabban járnak, mint télen.",
+              "A megállók jól jelzettek, de a menetrend változó."
+            ],
+            "ro": [
+              "Liniile 1 și 3 deservesc întreaga faleză.",
+              "Cumpărați un bilet cu mai multe călătorii de la șofer.",
+              "Autobuzele circulă mai des vara decât iarna.",
+              "Stațiile sunt bine marcate, dar orarul variază."
+            ],
+            "en": [
+              "Lines 1 and 3 serve the entire coastal front.",
+              "Buy a multi-trip card from the driver for discounts.",
+              "Buses run more frequently in summer than in winter.",
+              "Stops are well-marked, but schedules can vary."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Busbahnhof bietet einen trockenen Start in den Tag. Die kurzen Wege zwischen den Haltestellen minimieren die Zeit im Regen.\n\nMittags erreichen wir die Kirche de la Encarnación; das massive Bauwerk bietet einen ruhigen, trockenen Ort für Besinnung.\n\nDie Fahrt mit dem Stadtbus ermöglicht es, die nassen Gassen von Almuñécar bequem vom Fenster aus zu betrachten.\n\nDer Tag endet mit der Rückkehr zum Busbahnhof, während die Stadtlichter im Regen verschwimmen.",
+            "hu": "A buszpályaudvar száraz kezdést biztosít a napnak. A megállók közötti rövid távolságok minimalizálják az esőben töltött időt.\n\nDélben érjük el az Iglesia de la Encarnación templomot; a masszív épület nyugodt, száraz helyet kínál az elmélyüléshez.\n\nA városi busszal való utazás lehetővé teszi Almuñécar vizes utcáinak megtekintését kényelmesen, az ablakból.\n\nA nap a buszpályaudvarra való visszatéréssel zárul, miközben a város fényei elmosódnak az esőben.",
+            "ro": "Autogara oferă un început uscat al zilei. Distanțele scurte între stații minimizează timpul petrecut în ploaie.\n\nLa prânz ajungem la Biserica Encarnación; structura masivă oferă un loc liniștit și uscat pentru reculegere.\n\nCălătoria cu autobuzul urban permite vizualizarea străzilor ude din Almuñécar confortabil, de la fereastră.\n\nZiua se încheie cu revenirea la autogară, în timp ce luminile orașului se încețoșează în ploaie.",
+            "en": "The bus station provides a dry start to the day. Short distances between stops minimize time spent in the rain.\n\nAt noon, we reach the Iglesia de la Encarnación; the massive building offers a peaceful, dry place for reflection.\n\nRiding the city bus allows you to view Almuñécar's wet streets comfortably from the window.\n\nThe day ends with a return to the bus station as the city lights blur in the rain."
+          },
+          "stops": [
+            {
+              "name": "Almuñécar Bus Station",
+              "tip_5lang": {
+                "de": "Warten Sie in der Cafeteria im Bahnhof, bis Ihr Bus bereitsteht.",
+                "hu": "Várjon az állomás kávézójában, amíg a busza be nem áll.",
+                "ro": "Așteptați în cafeneaua din autogară până când autobuzul este gata de plecare.",
+                "en": "Wait in the station's cafeteria until your bus is ready."
+              }
+            },
+            {
+              "name": "Iglesia de la Encarnación",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um einen plötzlichen Schauer trocken zu überstehen.",
+                "hu": "Ideális hely egy hirtelen zápor száraz átvészeléséhez.",
+                "ro": "Un loc ideal pentru a trece peste o aversă bruscă la uscat.",
+                "en": "An ideal place to wait out a sudden shower in dry comfort."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Stadtbusse (Linie C) fahren regelmäßig und halten nah an den Sehenswürdigkeiten.",
+              "Halten Sie Ihr Ticket oder Kleingeld bereit, um schnell in den Bus einsteigen zu können.",
+              "Der Busbahnhof hat einen überdachten Wartebereich.",
+              "Informieren Sie sich über wetterbedingte Verspätungen per App oder Anzeige.",
+              "Kombinieren Sie Busfahrten, um möglichst wenig zu Fuß im Regen laufen zu müssen."
+            ],
+            "hu": [
+              "A városi buszok (C vonal) rendszeresen járnak és közel állnak meg a látnivalókhoz.",
+              "Készítse elő jegyét vagy az aprót, hogy gyorsan felszállhasson a buszra.",
+              "A buszpályaudvar fedett váróteremmel rendelkezik.",
+              "Tájékozódjon az időjárás okozta késésekről applikáción vagy a kijelzőkön.",
+              "Kombinálja a buszutakat, hogy minél kevesebbet kelljen gyalogolnia az esőben."
+            ],
+            "ro": [
+              "Autobuzele urbane (Linia C) circulă regulat și opresc aproape de obiective.",
+              "Aveți biletul sau restul pregătit pentru a urca rapid în autobuz.",
+              "Autogara are o zonă de așteptare acoperită.",
+              "Informați-vă despre întârzierile cauzate de vreme prin aplicație sau panouri.",
+              "Combinați călătoriile cu autobuzul pentru a merge cât mai puțin pe jos prin ploaie."
+            ],
+            "en": [
+              "City buses (Line C) run regularly and stop close to the main sights.",
+              "Have your ticket or change ready to board the bus quickly.",
+              "The bus station has a covered waiting area.",
+              "Check for weather-related delays via app or station displays.",
+              "Combine bus trips to minimize the time spent walking in the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Wintermorgen beginnt am belebten Busbahnhof. Die Stadt wirkt im Winter authentischer und weniger hektisch.\n\nMittags besuchen wir die Kirche; die kühle Luft draußen macht den Aufenthalt in den andächtigen Hallen besonders angenehm.\n\nDie Busfahrt durch die Stadt zeigt das lokale Leben, das auch im Winter pulsiert.\n\nDer Abend endet früh mit der Rückfahrt, während die tiefstehende Sonne lange Schatten durch die Busfenster wirft.",
+            "hu": "Friss téli reggel kezdődik a forgalmas buszpályaudvaron. A város télen hitelesebbnek és kevésbé hektikusnak tűnik.\n\nDélben meglátogatjuk a templomot; a kinti hűvös levegő után az áhítatos csarnokokban való tartózkodás különösen kellemes.\n\nA buszos utazás a városon keresztül megmutatja a helyi életet, amely télen is lüktet.\n\nA nap korán ér véget a visszautazással, miközben az alacsonyan járó nap hosszú árnyékokat vet a busz ablakain keresztül.",
+            "ro": "O dimineață răcoroasă de iarnă începe la autogara plină de viață. Orașul pare mai autentic și mai puțin agitat iarna.\n\nLa prânz vizităm biserica; aerul rece de afară face șederea în holurile liniștite deosebit de plăcută.\n\nCălătoria cu autobuzul prin oraș dezvăluie viața locală, care pulsează și iarna.\n\nSeara se încheie devreme cu drumul de întoarcere, în timp ce soarele jos aruncă umbre lungi prin ferestrele autobuzului.",
+            "en": "A fresh winter morning begins at the busy bus station. The city feels more authentic and less hectic in winter.\n\nAt noon, we visit the church; the cool air outside makes the stay in the solemn halls particularly pleasant.\n\nThe bus ride through the city reveals the local life that continues to pulse in winter.\n\nThe day ends early with the return journey, as the low sun casts long shadows through the bus windows."
+          },
+          "stops": [
+            {
+              "name": "Almuñécar Bus Station",
+              "tip_5lang": {
+                "de": "Im Winter gibt es oft geänderte Fahrpläne, prüfen Sie diese vorab.",
+                "hu": "Télen gyakran változik a menetrend, ellenőrizze előre.",
+                "ro": "Iarna există adesea orare modificate, verificați-le în prealabil.",
+                "en": "Schedules often change in winter; check them in advance."
+              }
+            },
+            {
+              "name": "Iglesia de la Encarnación",
+              "tip_5lang": {
+                "de": "Die Kirche ist im Winter oft weniger besucht und bietet mehr Ruhe.",
+                "hu": "A templom télen kevésbé látogatott, így több nyugalmat kínál.",
+                "ro": "Biserica este mai puțin vizitată iarna, oferind mai multă liniște.",
+                "en": "The church is often less crowded in winter, offering more peace."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Busse sind im Winter gut geheizt und bieten eine warme Pause.",
+              "Nutzen Sie die App 'Bus Almuñécar' für Echtzeit-Informationen.",
+              "Ab 18:00 Uhr fahren einige Linien seltener, planen Sie Ihre Rückkehr rechtzeitig.",
+              "Die Haltestellen in Strandnähe sind im Winter weniger windgeschützt.",
+              "Der Busbahnhof ist der zentrale Knotenpunkt für alle regionalen Verbindungen."
+            ],
+            "hu": [
+              "A buszok télen jól fűtöttek, így meleg pihenőt kínálnak.",
+              "Használja a 'Bus Almuñécar' alkalmazást a valós idejű információkért.",
+              "18:00 után néhány vonal ritkábban jár, tervezze meg időben a visszautat.",
+              "A tengerpart közeli megállók télen kevésbé védettek a széltől.",
+              "A buszpályaudvar a központi csomópont minden regionális csatlakozáshoz."
+            ],
+            "ro": [
+              "Autobuzele sunt bine încălzite iarna și oferă o pauză caldă.",
+              "Folosiți aplicația 'Bus Almuñécar' pentru informații în timp real.",
+              "După ora 18:00, unele linii circulă mai rar, planificați întoarcerea la timp.",
+              "Stațiile de lângă plajă sunt mai puțin protejate de vânt iarna.",
+              "Autogara este nodul central pentru toate legăturile regionale."
+            ],
+            "en": [
+              "Buses are well-heated in winter, offering a warm break from the cold.",
+              "Use the 'Bus Almuñécar' app for real-time information.",
+              "Some lines run less frequently after 18:00; plan your return in time.",
+              "Stops near the beach are less protected from the wind in winter.",
+              "The bus station is the central hub for all regional connections."
+            ]
+          }
+        }
+      }
+    }
+  },
+  "external_resources": {
+    "tourism_office": "https://andalucia.org/",
+    "transit_official": "https://www.alsa.com/",
+    "events": "https://www.diariosur.es/",
+    "webcam": "https://www.skylinewebcams.com/",
+    "restaurants_booking": "https://www.tiqets.com/es",
+    "language_tips": {
+      "de": "In Almuñécar spricht man andalusisches Spanisch, schnell und mit vielen verschluckten 's'. Englisch versteht man in der Touristenmeile, aber im Mercado oder in den Chiringuitos hilft ein bisschen Spanisch wirklich, 'una caña por favor' bringt sofort ein kaltes Bier.",
+      "hu": "Almuñécarban andalúz spanyol megy, gyors és sok lenyelt 's' hanggal. A turistanegyedben elboldogulsz angollal, de a piacon és a strandbárokban (chiringuito) néhány spanyol szó aranyat ér, egy 'una caña por favor' azonnal hideg sört jelent.",
+      "ro": "In Almuñécar se vorbeste spaniola andaluza, repede si cu multe 's' inghitite. In zona turistica te descurci cu engleza, dar la piata sau in chiringuitos cateva cuvinte de spaniola ajuta mult, un 'una caña por favor' iti aduce imediat o bere rece.",
+      "en": "Almuñécar speaks fast Andalusian Spanish with lots of dropped 's' sounds. English works along the seafront, but at the market and in beach chiringuitos a little Spanish pays off, 'una caña por favor' instantly gets you a cold beer."
+    },
+    "best_time_to_visit": {
+      "de": "Die Costa Tropical hat mildes Mikroklima, ideal von April bis Juni und September bis November. Im Hochsommer ist es heiss aber das Meer angenehm, im Winter blueht der Subtropengarten und Avocados werden geerntet.",
+      "hu": "A Costa Tropical mikroklímája enyhe, április-június és szeptember-november a legjobb. Nyár közepén meleg van, de a tenger kellemes, télen pedig virágzik a szubtrópusi kert és érik az avokádó.",
+      "ro": "Costa Tropical are microclimat bland, ideal aprilie-iunie si septembrie-noiembrie. Vara e cald dar marea e placuta, iar iarna infloresc gradinile subtropicale si se culege avocado.",
+      "en": "The Costa Tropical microclimate is mild, best from April to June and September to November. Midsummer is hot but the sea stays pleasant, winter brings blooming subtropical gardens and the avocado harvest."
+    },
+    "neighborhood_warnings": {
+      "de": "Almuñécar ist familiaer und sicher, das Schloss-Viertel und die Strandpromenade sind problemlos. An den Steilkuesten zu La Herradura nicht in Badeschuhen wandern, und im August am Playa San Cristobal Wertsachen nicht unbeaufsichtigt lassen.",
+      "hu": "Almuñécar családias és biztonságos, a várnegyed és a tengerparti sétány gond nélkül járható. A La Herradura felé húzódó sziklás partszakaszokat ne strandpapucsban járd, augusztusban pedig a Playa San Cristobalon ne hagyd őrizetlenül a holmidat.",
+      "ro": "Almuñécar e familial si sigur, cartierul castelului si promenada sunt fara probleme. Pe stancile spre La Herradura nu te aventura in saboti de plaja, iar in august nu lasa lucrurile nesupravegheate pe Playa San Cristobal.",
+      "en": "Almuñécar feels family-friendly and safe, the castle quarter and seafront walk are easy. Don't tackle the rocky La Herradura cliffs in flip-flops, and never leave bags unattended on Playa San Cristobal in August."
+    }
+  }
+}

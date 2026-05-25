@@ -1,0 +1,2747 @@
+{
+  "city_id": "arcos-de-la-frontera",
+  "anchor": {
+    "name": "Arcos de la Frontera",
+    "coords": [
+      -5.8083,
+      36.7506
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "18:20",
+      "total_km": 2.8,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Plaza del Cabildo",
+            "hu": "Plaza del Cabildo",
+            "ro": "Plaza del Cabildo",
+            "en": "Plaza del Cabildo"
+          },
+          "coords": [
+            -5.8048,
+            36.749
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Frühstücken Sie hier mit Blick auf den Abgrund.",
+            "hu": "Reggelizz itt a szakadék szélén.",
+            "ro": "Luați micul dejun aici, lângă prăpastie.",
+            "en": "Have breakfast here by the cliff edge."
+          }
+        },
+        {
+          "name": {
+            "de": "Basílica de Santa María",
+            "hu": "Szent Mária-bazilika",
+            "ro": "Bazilica Santa María",
+            "en": "Basilica of Santa Maria"
+          },
+          "coords": [
+            -5.8046,
+            36.7491
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Achten Sie auf die Mischung aus Gotik und Barock.",
+            "hu": "Figyeld meg a gótikus és barokk stílusok keveredését.",
+            "ro": "Observați amestecul de stiluri gotic și baroc.",
+            "en": "Note the blend of Gothic and Baroque styles."
+          }
+        },
+        {
+          "name": {
+            "de": "Castillo de los Duques",
+            "hu": "A hercegek vára",
+            "ro": "Castelul Ducilor",
+            "en": "Castle of the Dukes"
+          },
+          "coords": [
+            -5.8049,
+            36.7488
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Nur von außen zu besichtigen, aber die Mauern sind imposant.",
+            "hu": "Csak kívülről nézhető meg, de a falak impozánsak.",
+            "ro": "Poate fi văzut doar din exterior, dar zidurile sunt impresionante.",
+            "en": "Only viewable from outside, but the walls are imposing."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirador de la Peña Nueva",
+            "hu": "Peña Nueva kilátó",
+            "ro": "Mirador de la Peña Nueva",
+            "en": "Peña Nueva Viewpoint"
+          },
+          "coords": [
+            -5.8042,
+            36.7495
+          ],
+          "category": "natural features",
+          "arrive_at": "12:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Halten Sie Ihre Kamera bereit für das Guadalete-Tal.",
+            "hu": "Készítsd a fényképezőt a Guadalete-völgy látványához.",
+            "ro": "Pregătiți camera pentru valea râului Guadalete.",
+            "en": "Get your camera ready for the Guadalete valley view."
+          }
+        },
+        {
+          "name": {
+            "de": "Calle Cuna",
+            "hu": "Calle Cuna",
+            "ro": "Calle Cuna",
+            "en": "Calle Cuna"
+          },
+          "coords": [
+            -5.8055,
+            36.7485
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "13:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Eine der fotogensten Gassen der Altstadt.",
+            "hu": "Az óváros egyik legfotogénebb utcája.",
+            "ro": "Una dintre cele mai fotogenice străduțe din orașul vechi.",
+            "en": "One of the most photogenic alleys in the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Palacio del Mayorazgo",
+            "hu": "Mayorazgo-palota",
+            "ro": "Palatul Mayorazgo",
+            "en": "Palace of the Mayorazgo"
+          },
+          "coords": [
+            -5.8062,
+            36.7482
+          ],
+          "category": "famous residences",
+          "arrive_at": "14:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Besuchen Sie den wunderschönen andalusischen Garten.",
+            "hu": "Látogasd meg a gyönyörű andalúz kertet.",
+            "ro": "Vizitați minunata grădină andaluză.",
+            "en": "Visit the beautiful Andalusian garden inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Iglesia de San Pedro",
+            "hu": "Szent Péter-templom",
+            "ro": "Biserica San Pedro",
+            "en": "Church of San Pedro"
+          },
+          "coords": [
+            -5.8075,
+            36.7478
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Der Altaraufsatz ist ein Meisterwerk der Renaissance.",
+            "hu": "A szárnyasoltár a reneszánsz mesterműve.",
+            "ro": "Altarul este o capodoperă a Renașterii.",
+            "en": "The altarpiece is a masterpiece of the Renaissance."
+          }
+        },
+        {
+          "name": {
+            "de": "Puerta de Matrera",
+            "hu": "Matrera-kapu",
+            "ro": "Poarta Matrera",
+            "en": "Matrera Gate"
+          },
+          "coords": [
+            -5.8095,
+            36.747
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "17:15",
+          "stay_min": 35,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Der alte Eingang zur Stadt im unteren Viertel.",
+            "hu": "A város régi bejárata az alsó negyedben.",
+            "ro": "Vechea intrare în oraș din cartierul de jos.",
+            "en": "The old entrance to the city in the lower quarter."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Arcos auf der Plaza del Cabildo, wo die Geschichte auf den Abgrund trifft. Bewundern Sie die architektonische Pracht der Basilika und die uneinnehmbaren Mauern des Schlosses.\n\nMittags schlendern Sie durch die engen, weiß getünchten Gassen wie die Calle Cuna, wo sich hinter jeder Ecke ein neues Fotomotiv verbirgt. Genießen Sie die andalusische Sonne in den versteckten Höfen.\n\nAm Nachmittag erkunden Sie den Palacio del Mayorazgo und seine Gärten, bevor Sie die spirituelle Ruhe der San-Pedro-Kirche auf sich wirken lassen. Die Aussichtspunkte bieten stets dramatische Panoramen.\n\nBeenden Sie den Tag am historischen Matrera-Tor, während das goldene Licht die weißen Wände in warme Farben taucht. Ein perfekter Abschluss für eine Reise durch die Zeit.",
+        "hu": "Keze a napot Arcos szívében, a Plaza del Cabildo téren, ahol a történelem találkozik a mélységgel. Csodáld meg a bazilika építészeti pompáját és a vár bevehetetlen falait.\n\nDélben barangolj a szűk, fehérre meszelt utcákon, mint például a Calle Cuna, ahol minden sarok mögött újabb fotótéma vár. Élvezd az andalúz napsütést a rejtett udvarokban.\n\nDélután fedezd fel a Mayorazgo-palotát és annak kertjeit, mielőtt átadnád magad a Szent Péter-templom spirituális nyugalmának. A kilátók folyamatosan drámai panorámát nyújtanak.\n\nZárd a napot a történelmi Matrera-kapunál, miközben az aranyló fény meleg színekbe öltözteti a fehér falakat. Tökéletes befejezés egy időutazáshoz.",
+        "ro": "Începeți ziua în inima orașului Arcos, în Plaza del Cabildo, unde istoria se întâlnește cu abisul. Admirați splendoarea arhitecturală a bazilicii și zidurile de necucerit ale castelului.\n\nLa prânz, plimbați-vă pe străzile înguste și albe, cum este Calle Cuna, unde la fiecare colț vă așteaptă o nouă oportunitate de fotografiere. Bucurați-vă de soarele andaluz în curțile ascunse.\n\nDupă-amiaza, explorați Palatul Mayorazgo și grădinile sale, înainte de a simți liniștea spirituală a bisericii San Pedro. Mirador-urile oferă în permanență panorame dramatice.\n\nÎncheiați ziua la poarta istorică Matrera, în timp ce lumina aurie îmbracă pereții albi în culori calde. Un final perfect pentru o călătorie în timp.",
+        "en": "Start your day in the heart of Arcos at Plaza del Cabildo, where history meets the abyss. Admire the architectural splendor of the Basilica and the impregnable walls of the Castle.\n\nAt midday, wander through the narrow, whitewashed streets like Calle Cuna, where a new photo opportunity awaits behind every corner. Enjoy the Andalusian sun in hidden courtyards.\n\nIn the afternoon, explore the Palace of the Mayorazgo and its gardens before soaking in the spiritual calm of San Pedro Church. The viewpoints constantly offer dramatic panoramas.\n\nEnd the day at the historic Matrera Gate as the golden light bathes the white walls in warm colors. A perfect conclusion to a journey through time."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Alcaravan",
+            "tip": "Probieren Sie das Wildschweinragout in diesem Restaurant im Felsen."
+          },
+          {
+            "name": "Abacería San Pedro",
+            "tip": "Lokale Käse- und Wurstspezialitäten in urigem Ambiente."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Alcaravan",
+            "tip": "Kóstold meg a vaddisznóragut ebben a sziklába vájt étteremben."
+          },
+          {
+            "name": "Abacería San Pedro",
+            "tip": "Helyi sajtok és felvágottak rusztikus környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Alcaravan",
+            "tip": "Încercați ragu-ul de mistreț în acest restaurant săpat în stâncă."
+          },
+          {
+            "name": "Abacería San Pedro",
+            "tip": "Brânzeturi și mezeluri locale într-un ambient rustic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Alcaravan",
+            "tip": "Try the wild boar stew in this restaurant carved into the rock."
+          },
+          {
+            "name": "Abacería San Pedro",
+            "tip": "Local cheeses and cold cuts in a rustic setting."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Mirador de Abades",
+            "tip": "Ein ruhigerer Aussichtspunkt mit Blick auf die Kirche.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Jardines del Mayorazgo",
+            "tip": "Ein friedlicher Garten im Herzen der Stadt.",
+            "emoji": "🌿"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mirador de Abades",
+            "tip": "Egy csendesebb kilátóhely, rálátással a templomra.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Jardines del Mayorazgo",
+            "tip": "Békés kert a város szívében.",
+            "emoji": "🌿"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mirador de Abades",
+            "tip": "Un punct de observație mai liniștit, cu vedere spre biserică.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Jardines del Mayorazgo",
+            "tip": "O grădină liniștită în inima orașului.",
+            "emoji": "🌿"
+          }
+        ],
+        "en": [
+          {
+            "name": "Mirador de Abades",
+            "tip": "A quieter viewpoint with a view towards the church.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Jardines del Mayorazgo",
+            "tip": "A peaceful garden in the heart of the city.",
+            "emoji": "🌿"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Cerámica Arcos",
+            "tip": "Handgemachte andalusische Töpferwaren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cerámica Arcos",
+            "tip": "Kézzel készített andalúz kerámiák."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cerámica Arcos",
+            "tip": "Ceramică andaluză lucrată manual."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cerámica Arcos",
+            "tip": "Handmade Andalusian pottery."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da die Straßen sehr steil sind.",
+          "Besuchen Sie die Stadt am frühen Morgen, um die Hitze zu vermeiden.",
+          "Parken Sie Ihr Auto im unteren Teil der Stadt; die Altstadt ist extrem eng.",
+          "Achten Sie auf die Öffnungszeiten der Kirchen am Nachmittag."
+        ],
+        "hu": [
+          "Viselj kényelmes cipőt, mert az utcák nagyon meredekek.",
+          "Látogasd meg a várost kora reggel, hogy elkerüld a hőséget.",
+          "Parkolj a város alsó részén; az óváros rendkívül szűk.",
+          "Figyelj a templomok délutáni nyitvatartására."
+        ],
+        "ro": [
+          "Purtați încălțăminte comodă, deoarece străzile sunt foarte abrupte.",
+          "Vizitați orașul dimineața devreme pentru a evita căldura.",
+          "Parcați mașina în partea de jos a orașului; centrul vechi este extrem de îngust.",
+          "Atenție la programul de vizitare al bisericilor după-amiaza."
+        ],
+        "en": [
+          "Wear comfortable shoes as the streets are very steep.",
+          "Visit the town early in the morning to avoid the heat.",
+          "Park your car in the lower part of town; the old center is extremely narrow.",
+          "Pay attention to the afternoon opening hours of the churches."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag im Herzen von Arcos auf der Plaza del Cabildo, wo die Geschichte auf den Abgrund trifft. Bewundern Sie die architektonische Pracht der Basilika und die uneinnehmbaren Mauern des Schlosses.\n\nMittags schlendern Sie durch die engen, weiß getünchten Gassen wie die Calle Cuna, wo sich hinter jeder Ecke ein neues Fotomotiv verbirgt. Genießen Sie die andalusische Sonne in den versteckten Höfen.\n\nAm Nachmittag erkunden Sie den Palacio del Mayorazgo und seine Gärten, bevor Sie die spirituelle Ruhe der San-Pedro-Kirche auf sich wirken lassen. Die Aussichtspunkte bieten stets dramatische Panoramen.\n\nBeenden Sie den Tag am historischen Matrera-Tor, während das goldene Licht die weißen Wände in warme Farben taucht. Ein perfekter Abschluss für eine Reise durch die Zeit.",
+            "hu": "Keze a napot Arcos szívében, a Plaza del Cabildo téren, ahol a történelem találkozik a mélységgel. Csodáld meg a bazilika építészeti pompáját és a vár bevehetetlen falait.\n\nDélben barangolj a szűk, fehérre meszelt utcákon, mint például a Calle Cuna, ahol minden sarok mögött újabb fotótéma vár. Élvezd az andalúz napsütést a rejtett udvarokban.\n\nDélután fedezd fel a Mayorazgo-palotát és annak kertjeit, mielőtt átadnád magad a Szent Péter-templom spirituális nyugalmának. A kilátók folyamatosan drámai panorámát nyújtanak.\n\nZárd a napot a történelmi Matrera-kapunál, miközben az aranyló fény meleg színekbe öltözteti a fehér falakat. Tökéletes befejezés egy időutazáshoz.",
+            "ro": "Începeți ziua în inima orașului Arcos, în Plaza del Cabildo, unde istoria se întâlnește cu abisul. Admirați splendoarea arhitecturală a bazilicii și zidurile de necucerit ale castelului.\n\nLa prânz, plimbați-vă pe străzile înguste și albe, cum este Calle Cuna, unde la fiecare colț vă așteaptă o nouă oportunitate de fotografiere. Bucurați-vă de soarele andaluz în curțile ascunse.\n\nDupă-amiaza, explorați Palatul Mayorazgo și grădinile sale, înainte de a simți liniștea spirituală a bisericii San Pedro. Mirador-urile oferă în permanență panorame dramatice.\n\nÎncheiați ziua la poarta istorică Matrera, în timp ce lumina aurie îmbracă pereții albi în culori calde. Un final perfect pentru o călătorie în timp.",
+            "en": "Start your day in the heart of Arcos at Plaza del Cabildo, where history meets the abyss. Admire the architectural splendor of the Basilica and the impregnable walls of the Castle.\n\nAt midday, wander through the narrow, whitewashed streets like Calle Cuna, where a new photo opportunity awaits behind every corner. Enjoy the Andalusian sun in hidden courtyards.\n\nIn the afternoon, explore the Palace of the Mayorazgo and its gardens before soaking in the spiritual calm of San Pedro Church. The viewpoints constantly offer dramatic panoramas.\n\nEnd the day at the historic Matrera Gate as the golden light bathes the white walls in warm colors. A perfect conclusion to a journey through time."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Plaza del Cabildo",
+                "hu": "Plaza del Cabildo",
+                "ro": "Plaza del Cabildo",
+                "en": "Plaza del Cabildo"
+              },
+              "tip_5lang": {
+                "de": "Frühstücken Sie hier mit Blick auf den Abgrund.",
+                "hu": "Reggelizz itt a szakadék szélén.",
+                "ro": "Luați micul dejun aici, lângă prăpastie.",
+                "en": "Have breakfast here by the cliff edge."
+              }
+            },
+            {
+              "name": {
+                "de": "Basílica de Santa María",
+                "hu": "Szent Mária-bazilika",
+                "ro": "Bazilica Santa María",
+                "en": "Basilica of Santa Maria"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf die Mischung aus Gotik und Barock.",
+                "hu": "Figyeld meg a gótikus és barokk stílusok keveredését.",
+                "ro": "Observați amestecul de stiluri gotic și baroc.",
+                "en": "Note the blend of Gothic and Baroque styles."
+              }
+            },
+            {
+              "name": {
+                "de": "Castillo de los Duques",
+                "hu": "A hercegek vára",
+                "ro": "Castelul Ducilor",
+                "en": "Castle of the Dukes"
+              },
+              "tip_5lang": {
+                "de": "Nur von außen zu besichtigen, aber die Mauern sind imposant.",
+                "hu": "Csak kívülről nézhető meg, de a falak impozánsak.",
+                "ro": "Poate fi văzut doar din exterior, dar zidurile sunt impresionante.",
+                "en": "Only viewable from outside, but the walls are imposing."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador de la Peña Nueva",
+                "hu": "Peña Nueva kilátó",
+                "ro": "Mirador de la Peña Nueva",
+                "en": "Peña Nueva Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie Ihre Kamera bereit für das Guadalete-Tal.",
+                "hu": "Készítsd a fényképezőt a Guadalete-völgy látványához.",
+                "ro": "Pregătiți camera pentru valea râului Guadalete.",
+                "en": "Get your camera ready for the Guadalete valley view."
+              }
+            },
+            {
+              "name": {
+                "de": "Calle Cuna",
+                "hu": "Calle Cuna",
+                "ro": "Calle Cuna",
+                "en": "Calle Cuna"
+              },
+              "tip_5lang": {
+                "de": "Eine der fotogensten Gassen der Altstadt.",
+                "hu": "Az óváros egyik legfotogénebb utcája.",
+                "ro": "Una dintre cele mai fotogenice străduțe din orașul vechi.",
+                "en": "One of the most photogenic alleys in the old town."
+              }
+            },
+            {
+              "name": {
+                "de": "Palacio del Mayorazgo",
+                "hu": "Mayorazgo-palota",
+                "ro": "Palatul Mayorazgo",
+                "en": "Palace of the Mayorazgo"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie den wunderschönen andalusischen Garten.",
+                "hu": "Látogasd meg a gyönyörű andalúz kertet.",
+                "ro": "Vizitați minunata grădină andaluză.",
+                "en": "Visit the beautiful Andalusian garden inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Iglesia de San Pedro",
+                "hu": "Szent Péter-templom",
+                "ro": "Biserica San Pedro",
+                "en": "Church of San Pedro"
+              },
+              "tip_5lang": {
+                "de": "Der Altaraufsatz ist ein Meisterwerk der Renaissance.",
+                "hu": "A szárnyasoltár a reneszánsz mesterműve.",
+                "ro": "Altarul este o capodoperă a Renașterii.",
+                "en": "The altarpiece is a masterpiece of the Renaissance."
+              }
+            },
+            {
+              "name": {
+                "de": "Puerta de Matrera",
+                "hu": "Matrera-kapu",
+                "ro": "Poarta Matrera",
+                "en": "Matrera Gate"
+              },
+              "tip_5lang": {
+                "de": "Der alte Eingang zur Stadt im unteren Viertel.",
+                "hu": "A város régi bejárata az alsó negyedben.",
+                "ro": "Vechea intrare în oraș din cartierul de jos.",
+                "en": "The old entrance to the city in the lower quarter."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Alcaravan",
+                "tip": "Probieren Sie das Wildschweinragout in diesem Restaurant im Felsen."
+              },
+              {
+                "name": "Abacería San Pedro",
+                "tip": "Lokale Käse- und Wurstspezialitäten in urigem Ambiente."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Alcaravan",
+                "tip": "Kóstold meg a vaddisznóragut ebben a sziklába vájt étteremben."
+              },
+              {
+                "name": "Abacería San Pedro",
+                "tip": "Helyi sajtok és felvágottak rusztikus környezetben."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Alcaravan",
+                "tip": "Încercați ragu-ul de mistreț în acest restaurant săpat în stâncă."
+              },
+              {
+                "name": "Abacería San Pedro",
+                "tip": "Brânzeturi și mezeluri locale într-un ambient rustic."
+              }
+            ],
+            "en": [
+              {
+                "name": "Alcaravan",
+                "tip": "Try the wild boar stew in this restaurant carved into the rock."
+              },
+              {
+                "name": "Abacería San Pedro",
+                "tip": "Local cheeses and cold cuts in a rustic setting."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Mirador de Abades",
+                "tip": "Ein ruhigerer Aussichtspunkt mit Blick auf die Kirche.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Jardines del Mayorazgo",
+                "tip": "Ein friedlicher Garten im Herzen der Stadt.",
+                "emoji": "🌿"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Mirador de Abades",
+                "tip": "Egy csendesebb kilátóhely, rálátással a templomra.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Jardines del Mayorazgo",
+                "tip": "Békés kert a város szívében.",
+                "emoji": "🌿"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Mirador de Abades",
+                "tip": "Un punct de observație mai liniștit, cu vedere spre biserică.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Jardines del Mayorazgo",
+                "tip": "O grădină liniștită în inima orașului.",
+                "emoji": "🌿"
+              }
+            ],
+            "en": [
+              {
+                "name": "Mirador de Abades",
+                "tip": "A quieter viewpoint with a view towards the church.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Jardines del Mayorazgo",
+                "tip": "A peaceful garden in the heart of the city.",
+                "emoji": "🌿"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Cerámica Arcos",
+                "tip": "Handgemachte andalusische Töpferwaren."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Cerámica Arcos",
+                "tip": "Kézzel készített andalúz kerámiák."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Cerámica Arcos",
+                "tip": "Ceramică andaluză lucrată manual."
+              }
+            ],
+            "en": [
+              {
+                "name": "Cerámica Arcos",
+                "tip": "Handmade Andalusian pottery."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Tragen Sie bequeme Schuhe, da die Straßen sehr steil sind.",
+              "Besuchen Sie die Stadt am frühen Morgen, um die Hitze zu vermeiden.",
+              "Parken Sie Ihr Auto im unteren Teil der Stadt; die Altstadt ist extrem eng.",
+              "Achten Sie auf die Öffnungszeiten der Kirchen am Nachmittag."
+            ],
+            "hu": [
+              "Viselj kényelmes cipőt, mert az utcák nagyon meredekek.",
+              "Látogasd meg a várost kora reggel, hogy elkerüld a hőséget.",
+              "Parkolj a város alsó részén; az óváros rendkívül szűk.",
+              "Figyelj a templomok délutáni nyitvatartására."
+            ],
+            "ro": [
+              "Purtați încălțăminte comodă, deoarece străzile sunt foarte abrupte.",
+              "Vizitați orașul dimineața devreme pentru a evita căldura.",
+              "Parcați mașina în partea de jos a orașului; centrul vechi este extrem de îngust.",
+              "Atenție la programul de vizitare al bisericilor după-amiaza."
+            ],
+            "en": [
+              "Wear comfortable shoes as the streets are very steep.",
+              "Visit the town early in the morning to avoid the heat.",
+              "Park your car in the lower part of town; the old center is extremely narrow.",
+              "Pay attention to the afternoon opening hours of the churches."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens schützt die Plaza del Cabildo mit ihren Arkaden vor dem Regen. Mittags bieten die dicken Mauern der Basilika und des Schlosses Zuflucht. Der Nachmittag im Palacio del Mayorazgo ist ideal, um das Wetter drinnen zu überbrücken. Abends glänzen die Gassen von San Pedro malerisch nass im Laternenlicht.",
+            "hu": "Reggel a Plaza del Cabildo árkádjai alatt kezdünk, védve az esőtől. Délben a bazilika és a vár vastag falai kínálnak menedéket. Délután a Mayorazgo-palota kiállításai között várjuk ki a zápor végét. Este a vizes macskaköveken megcsillanó fények teszik varázslatossá a San Pedro negyed hangulatát.",
+            "ro": "Dimineața, arcadele din Plaza del Cabildo oferă adăpost împotriva ploii. La prânz, zidurile groase ale basilicii și castelului sunt refugii perfecte. După-amiaza în Palacio del Mayorazgo este ideală pentru a evita intemperiile. Seara, străzile umede din San Pedro strălucesc pitoresc sub lumina felinarelor.",
+            "en": "Morning starts under the arches of Plaza del Cabildo to stay dry. At noon, the thick walls of the basilica and castle provide a solid refuge. Spend the afternoon inside the Mayorazgo Palace while the rain passes. In the evening, the wet cobblestones of San Pedro create a magical, reflective atmosphere."
+          },
+          "stops": [
+            {
+              "name": "Plaza del Cabildo",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Bogengänge als Regenschutz.",
+                "hu": "Használja az árkádos folyosókat esernyő helyett.",
+                "ro": "Folosiți arcadele pentru a vă proteja de ploaie.",
+                "en": "Use the arched walkways to stay dry."
+              }
+            },
+            {
+              "name": "Basilica of Santa Maria",
+              "tip_5lang": {
+                "de": "Perfekter Ort für eine lange Innenbesichtigung.",
+                "hu": "Kiváló hely egy hosszabb belső látogatáshoz.",
+                "ro": "Loc perfect pentru o vizită interioară prelungită.",
+                "en": "Perfect spot for an extended indoor visit."
+              }
+            },
+            {
+              "name": "Castle of the Dukes",
+              "tip_5lang": {
+                "de": "Vorsicht auf den nassen Außenmauern.",
+                "hu": "Vigyázzon a csúszós külső falakon.",
+                "ro": "Atenție la zidurile exterioare alunecoase.",
+                "en": "Be careful on the slippery outer walls."
+              }
+            },
+            {
+              "name": "Peña Nueva Viewpoint",
+              "tip_5lang": {
+                "de": "Die Wolken über dem Tal wirken sehr dramatisch.",
+                "hu": "A völgy feletti felhők drámai látványt nyújtanak.",
+                "ro": "Norii deasupra văii oferă o vedere dramatică.",
+                "en": "The clouds over the valley offer a dramatic view."
+              }
+            },
+            {
+              "name": "Calle Cuna",
+              "tip_5lang": {
+                "de": "Kleine Cafés bieten hier schnellen Unterschlupf.",
+                "hu": "A kis kávézók gyors menedéket nyújtanak.",
+                "ro": "Cafenelele mici oferă adăpost rapid aici.",
+                "en": "Small cafes offer quick shelter here."
+              }
+            },
+            {
+              "name": "Palace of the Mayorazgo",
+              "tip_5lang": {
+                "de": "Genießen Sie die Innengärten und Ausstellungen.",
+                "hu": "Élvezze a belső kerteket és kiállításokat.",
+                "ro": "Bucurați-vă de grădinile interioare și expoziții.",
+                "en": "Enjoy the indoor gardens and exhibitions."
+              }
+            },
+            {
+              "name": "Church of San Pedro",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort, um das Ende des Regens abzuwarten.",
+                "hu": "Csendes hely az eső elcsendesedésének kivárására.",
+                "ro": "Un loc liniștit pentru a aștepta oprirea ploii.",
+                "en": "A quiet place to wait for the rain to stop."
+              }
+            },
+            {
+              "name": "Matrera Gate",
+              "tip_5lang": {
+                "de": "Die Steine können bei Nässe sehr glatt sein.",
+                "hu": "A kövek nedvesen nagyon csúszósak lehetnek.",
+                "ro": "Pietrele pot fi foarte alunecoase când sunt ude.",
+                "en": "The stones can be very slippery when wet."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein stabiler Regenschirm ist wegen der Windböen an den Klippen wichtig.",
+              "Die Kalksteingassen werden bei Nässe extrem rutschig.",
+              "Nutzen Sie die Kirchen für längere Pausen im Trockenen.",
+              "Tragen Sie wasserfeste Schuhe für die steilen Gassen."
+            ],
+            "hu": [
+              "A sziklafalnál lévő szél miatt erős esernyő javasolt.",
+              "A mészköves utcák vizesen rendkívül csúszósak.",
+              "Használja ki a templomokat a hosszabb, száraz pihenőkre.",
+              "Vízálló cipő elengedhetetlen a meredek utcákhoz."
+            ],
+            "ro": [
+              "O umbrelă rezistentă este necesară din cauza vântului de pe stânci.",
+              "Străzile de calcar devin extrem de alunecoase la umezeală.",
+              "Folosiți bisericile pentru pauze lungi la adăpost.",
+              "Purtați încălțăminte impermeabilă pentru străzile abrupte."
+            ],
+            "en": [
+              "A sturdy umbrella is essential due to wind gusts near the cliffs.",
+              "The limestone streets become extremely slippery when wet.",
+              "Take advantage of churches for long, dry breaks.",
+              "Wear waterproof shoes for the steep, narrow streets."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen an der Plaza del Cabildo ist frisch, aber oft sonnig. Mittags wärmt die Sonne die hellen Fassaden der Basilika und des Schlosses. Nachmittags bietet der Palacio del Mayorazgo Schutz vor dem kühlen Wind. Abends sinken die Temperaturen schnell, sobald die Sonne hinter den Felsen verschwindet.",
+            "hu": "A téli reggel a Plaza del Cabildo-n friss, de gyakran napos. Délben a nap melengeti a bazilika és a vár fehér homlokzatait. Délután a Mayorazgo-palota falaiban találunk menedéket a hűvös szél elől. Este a hőmérséklet gyorsan süllyed, amint a nap eltűnik a sziklák mögött.",
+            "ro": "Dimineața de iarnă în Plaza del Cabildo este proaspătă, dar adesea însorită. La prânz, soarele încălzește fațadele albe ale basilicii și castelului. După-amiaza, Palacio del Mayorazgo oferă protecție împotriva vântului rece. Seara, temperaturile scad rapid după apusul soarelui.",
+            "en": "The winter morning at Plaza del Cabildo is crisp but often sunny. At noon, the sun warms the white facades of the basilica and castle. In the afternoon, the Mayorazgo Palace provides shelter from the cool breeze. Temperatures drop quickly in the evening once the sun dips below the cliffs."
+          },
+          "stops": [
+            {
+              "name": "Plaza del Cabildo",
+              "tip_5lang": {
+                "de": "Genießen Sie die milde Wintersonne auf dem Platz.",
+                "hu": "Élvezze a gyenge téli napsütést a téren.",
+                "ro": "Bucurați-vă de soarele blând de iarnă în piață.",
+                "en": "Enjoy the mild winter sun in the square."
+              }
+            },
+            {
+              "name": "Basilica of Santa Maria",
+              "tip_5lang": {
+                "de": "Innen ist es deutlich kühler als draußen.",
+                "hu": "Odabent lényegesen hűvöseeb van, mint kint.",
+                "ro": "În interior este mult mai răcoare decât afară.",
+                "en": "It is significantly cooler inside than outside."
+              }
+            },
+            {
+              "name": "Castle of the Dukes",
+              "tip_5lang": {
+                "de": "Bester Panoramablick bei klarer Winterluft.",
+                "hu": "A tiszta téli levegőben a legjobb a kilátás.",
+                "ro": "Cea mai bună vedere panoramică în aerul curat de iarnă.",
+                "en": "Best panoramic view in the clear winter air."
+              }
+            },
+            {
+              "name": "Peña Nueva Viewpoint",
+              "tip_5lang": {
+                "de": "Der Wind kann hier im Winter sehr schneidend sein.",
+                "hu": "A szél télen nagyon metsző lehet itt.",
+                "ro": "Vântul poate fi foarte tăios aici iarna.",
+                "en": "The wind can be very biting here in winter."
+              }
+            },
+            {
+              "name": "Calle Cuna",
+              "tip_5lang": {
+                "de": "Suchen Sie sonnige Abschnitte für Pausen.",
+                "hu": "Keressen napos részeket a pihenőkhöz.",
+                "ro": "Căutați secțiunile însorite pentru pauze.",
+                "en": "Look for sunny sections for breaks."
+              }
+            },
+            {
+              "name": "Palace of the Mayorazgo",
+              "tip_5lang": {
+                "de": "Die Gärten sind auch im Winter grün und ruhig.",
+                "hu": "A kertek télen is zöldek és csendesek.",
+                "ro": "Grădinile sunt verzi și liniștite chiar și iarna.",
+                "en": "The gardens remain green and quiet even in winter."
+              }
+            },
+            {
+              "name": "Church of San Pedro",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kirche vor dem frühen Sonnenuntergang.",
+                "hu": "Látogassa meg a templomot a korai naplemente előtt.",
+                "ro": "Vizitați biserica înainte de apusul timpuriu.",
+                "en": "Visit the church before the early sunset."
+              }
+            },
+            {
+              "name": "Matrera Gate",
+              "tip_5lang": {
+                "de": "Warme Kleidung für den Abendspaziergang nötig.",
+                "hu": "Meleg ruha szükséges az esti sétához.",
+                "ro": "Haine groase necesare pentru plimbarea de seară.",
+                "en": "Warm clothing needed for the evening stroll."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Zwiebelprinzip bei der Kleidung ist ideal für Temperaturwechsel.",
+              "Die Sonne geht im Winter gegen 18:00 Uhr unter.",
+              "Kirchen sind im Winter oft kälter als die Außenluft.",
+              "Suchen Sie Cafés mit sonnigen Außenplätzen für das Mittagessen."
+            ],
+            "hu": [
+              "A réteges öltözködés ideális a hőmérsékletváltozáshoz.",
+              "Télen a nap 18:00 körül nyugszik le.",
+              "A templomok télen gyakran hidegebbek, mint a kinti levegő.",
+              "Keressen napos terasszal rendelkező kávézókat ebédhez."
+            ],
+            "ro": [
+              "Îmbrăcămintea stratificată este ideală pentru schimbările de temperatură.",
+              "Iarna, soarele apune în jurul orei 18:00.",
+              "Bisericile sunt adesea mai reci decât aerul de afară iarna.",
+              "Căutați cafenele cu terase însorite pentru prânz."
+            ],
+            "en": [
+              "Layered clothing is ideal for temperature shifts.",
+              "The sun sets around 18:00 in the winter.",
+              "Churches are often colder than the outside air in winter.",
+              "Look for cafes with sunny outdoor seating for lunch."
+            ]
+          }
+        }
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Plaza del Cabildo",
+            "hu": "Plaza del Cabildo",
+            "ro": "Plaza del Cabildo",
+            "en": "Plaza del Cabildo"
+          },
+          "coords": [
+            -5.8048,
+            36.749
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Schieben Sie das Rad in der direkten Altstadt.",
+            "hu": "Az óvárosban told a biciklit.",
+            "ro": "Împingeți bicicleta în centrul vechi.",
+            "en": "Push your bike in the immediate old town area."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirador de la Peña Nueva",
+            "hu": "Peña Nueva kilátó",
+            "ro": "Mirador de la Peña Nueva",
+            "en": "Peña Nueva Viewpoint"
+          },
+          "coords": [
+            -5.8042,
+            36.7495
+          ],
+          "category": "natural features",
+          "arrive_at": "09:50",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Spektakulärer Blick vor der Abfahrt zum See.",
+            "hu": "Látványos kilátás a tóhoz való legurulás előtt.",
+            "ro": "Vedere spectaculoasă înainte de coborârea spre lac.",
+            "en": "Spectacular view before descending to the lake."
+          }
+        },
+        {
+          "name": {
+            "de": "Lago de Arcos",
+            "hu": "Arcosi-tó",
+            "ro": "Lacul Arcos",
+            "en": "Arcos Lake"
+          },
+          "coords": [
+            -5.775,
+            36.755
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:45",
+          "stay_min": 120,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Perfekt für eine Erfrischung oder Wassersport.",
+            "hu": "Tökéletes egy kis felfrissüléshez vagy vízi sportokhoz.",
+            "ro": "Perfect pentru o revigorare sau sporturi nautice.",
+            "en": "Perfect for a refreshment or water sports."
+          }
+        },
+        {
+          "name": {
+            "de": "Convento de las Mercedarias",
+            "hu": "Mercedarias kolostor",
+            "ro": "Conventul Mercedarias",
+            "en": "Mercedarias Convent"
+          },
+          "coords": [
+            -5.8058,
+            36.748
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:30",
+          "stay_min": 50,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Kaufen Sie hier handgemachtes Gebäck der Nonnen.",
+            "hu": "Vásárolj itt az apácák kézzel készített süteményeiből.",
+            "ro": "Cumpărați produse de patiserie artizanale de la călugărițe.",
+            "en": "Buy handmade pastries from the nuns here."
+          }
+        },
+        {
+          "name": {
+            "de": "Iglesia de San Pedro",
+            "hu": "Szent Péter-templom",
+            "ro": "Biserica San Pedro",
+            "en": "Church of San Pedro"
+          },
+          "coords": [
+            -5.8075,
+            36.7478
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:40",
+          "stay_min": 50,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Die Architektur ist weithin sichtbar.",
+            "hu": "Az építészet messziről látható.",
+            "ro": "Arhitectura este vizibilă de departe.",
+            "en": "The architecture is visible from afar."
+          }
+        },
+        {
+          "name": {
+            "de": "Puerta de Matrera",
+            "hu": "Matrera-kapu",
+            "ro": "Poarta Matrera",
+            "en": "Matrera Gate"
+          },
+          "coords": [
+            -5.8095,
+            36.747
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:55",
+          "stay_min": 30,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein schöner Ort für das letzte Foto des Tages.",
+            "hu": "Szép hely a nap utolsó fotójához.",
+            "ro": "Un loc frumos pentru ultima fotografie a zilei.",
+            "en": "A beautiful spot for the last photo of the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Radtour kombiniert die steilen Gassen der Altstadt mit der erfrischenden Umgebung des Arcos-Sees. Ein Abenteuer für aktive Entdecker.\n\nNach einem kurzen Stopp an den Hauptplätzen oben geht es hinunter zum See, wo Sie die Natur genießen können. Der Rückweg erfordert etwas Kondition.\n\nAm Nachmittag kehren wir in die Stadt zurück, um die religiösen Schätze und die köstlichen Backwaren der Nonnen zu entdecken.\n\nDie Tour endet am geschichtsträchtigen Matrera-Tor, von wo aus man die Stadtmauer bewundern kann.",
+        "hu": "Ez a kerékpártúra ötvözi az óváros meredek utcáit az Arcosi-tó frissítő környezetével. Kaland aktív felfedezőknek.\n\nA fenti főterek rövid meglátogatása után gurulj le a tóhoz, ahol élvezheted a természetet. A visszaút igényel némi kondíciót.\n\nDélután visszatérünk a városba, hogy felfedezzük a vallási kincseket és az apácák finom süteményeit.\n\nA túra a történelmi Matrera-kapunál ér véget, ahonnan megcsodálhatod a városfalat.",
+        "ro": "Acest tur cu bicicleta combină străzile abrupte ale centrului vechi cu împrejurimile revigorante ale lacului Arcos. O aventură pentru exploratori activi.\n\nDupă o scurtă oprire în piețele principale de sus, coborâți spre lac unde vă puteți bucura de natură. Drumul de întoarcere necesită puțină condiție fizică.\n\nDupă-amiaza ne întoarcem în oraș pentru a descoperi comorile religioase și produsele de patiserie delicioase ale călugărițelor.\n\nTurul se încheie la poarta istorică Matrera, de unde puteți admira zidurile orașului.",
+        "en": "This bike tour combines the steep alleys of the old town with the refreshing surroundings of Lake Arcos. An adventure for active explorers.\n\nAfter a short stop at the main squares above, head down to the lake where you can enjoy nature. The return journey requires some fitness.\n\nIn the afternoon, we return to the city to discover the religious treasures and the delicious pastries made by the nuns.\n\nThe tour ends at the historic Matrera Gate, from where you can admire the city walls."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Venta El Santiscal",
+            "tip": "Rustikales Essen in der Nähe des Sees."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Venta El Santiscal",
+            "tip": "Rusztikus ételek a tó közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Venta El Santiscal",
+            "tip": "Mâncare rustică în apropierea lacului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Venta El Santiscal",
+            "tip": "Rustic dining near the lake."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Lago de Arcos",
+            "tip": "Entspannung pur am Wasser.",
+            "emoji": "🌊"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Arcosi-tó partja",
+            "tip": "Tiszta kikapcsolódás a víznél.",
+            "emoji": "🌊"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul lacului Arcos",
+            "tip": "Relaxare pură lângă apă.",
+            "emoji": "🌊"
+          }
+        ],
+        "en": [
+          {
+            "name": "Shore of Lake Arcos",
+            "tip": "Pure relaxation by the water.",
+            "emoji": "🌊"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Klosterladen Mercedarias",
+            "tip": "Traditionelle Süßigkeiten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mercedarias kolostorbolt",
+            "tip": "Tradicionális édességek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul mănăstirii Mercedarias",
+            "tip": "Dulciuri tradiționale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mercedarias Convent Shop",
+            "tip": "Traditional sweets."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Ein E-Bike ist für die steilen Anstiege sehr empfehlenswert.",
+          "Tragen Sie einen Helm, besonders bei der Abfahrt zum See.",
+          "Achten Sie auf den Einbahnverkehr in den engen Gassen.",
+          "Nehmen Sie ausreichend Wasser mit."
+        ],
+        "hu": [
+          "Az elektromos bicikli erősen ajánlott a meredek emelkedők miatt.",
+          "Viselj sisakot, különösen a tóhoz való lejtőn.",
+          "Figyelj az egyirányú forgalomra a szűk utcákban.",
+          "Vigyél magaddal elegendő vizet."
+        ],
+        "ro": [
+          "O bicicletă electrică este foarte recomandată pentru pantele abrupte.",
+          "Purtați cască, mai ales la coborârea spre lac.",
+          "Atenție la sensurile unice de pe străzile înguste.",
+          "Luați suficientă apă la voi."
+        ],
+        "en": [
+          "An e-bike is highly recommended for the steep climbs.",
+          "Wear a helmet, especially during the descent to the lake.",
+          "Watch out for one-way traffic in the narrow alleys.",
+          "Take plenty of water with you."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Diese Radtour kombiniert die steilen Gassen der Altstadt mit der erfrischenden Umgebung des Arcos-Sees. Ein Abenteuer für aktive Entdecker.\n\nNach einem kurzen Stopp an den Hauptplätzen oben geht es hinunter zum See, wo Sie die Natur genießen können. Der Rückweg erfordert etwas Kondition.\n\nAm Nachmittag kehren wir in die Stadt zurück, um die religiösen Schätze und die köstlichen Backwaren der Nonnen zu entdecken.\n\nDie Tour endet am geschichtsträchtigen Matrera-Tor, von wo aus man die Stadtmauer bewundern kann.",
+            "hu": "Ez a kerékpártúra ötvözi az óváros meredek utcáit az Arcosi-tó frissítő környezetével. Kaland aktív felfedezőknek.\n\nA fenti főterek rövid meglátogatása után gurulj le a tóhoz, ahol élvezheted a természetet. A visszaút igényel némi kondíciót.\n\nDélután visszatérünk a városba, hogy felfedezzük a vallási kincseket és az apácák finom süteményeit.\n\nA túra a történelmi Matrera-kapunál ér véget, ahonnan megcsodálhatod a városfalat.",
+            "ro": "Acest tur cu bicicleta combină străzile abrupte ale centrului vechi cu împrejurimile revigorante ale lacului Arcos. O aventură pentru exploratori activi.\n\nDupă o scurtă oprire în piețele principale de sus, coborâți spre lac unde vă puteți bucura de natură. Drumul de întoarcere necesită puțină condiție fizică.\n\nDupă-amiaza ne întoarcem în oraș pentru a descoperi comorile religioase și produsele de patiserie delicioase ale călugărițelor.\n\nTurul se încheie la poarta istorică Matrera, de unde puteți admira zidurile orașului.",
+            "en": "This bike tour combines the steep alleys of the old town with the refreshing surroundings of Lake Arcos. An adventure for active explorers.\n\nAfter a short stop at the main squares above, head down to the lake where you can enjoy nature. The return journey requires some fitness.\n\nIn the afternoon, we return to the city to discover the religious treasures and the delicious pastries made by the nuns.\n\nThe tour ends at the historic Matrera Gate, from where you can admire the city walls."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Plaza del Cabildo",
+                "hu": "Plaza del Cabildo",
+                "ro": "Plaza del Cabildo",
+                "en": "Plaza del Cabildo"
+              },
+              "tip_5lang": {
+                "de": "Schieben Sie das Rad in der direkten Altstadt.",
+                "hu": "Az óvárosban told a biciklit.",
+                "ro": "Împingeți bicicleta în centrul vechi.",
+                "en": "Push your bike in the immediate old town area."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador de la Peña Nueva",
+                "hu": "Peña Nueva kilátó",
+                "ro": "Mirador de la Peña Nueva",
+                "en": "Peña Nueva Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Spektakulärer Blick vor der Abfahrt zum See.",
+                "hu": "Látványos kilátás a tóhoz való legurulás előtt.",
+                "ro": "Vedere spectaculoasă înainte de coborârea spre lac.",
+                "en": "Spectacular view before descending to the lake."
+              }
+            },
+            {
+              "name": {
+                "de": "Lago de Arcos",
+                "hu": "Arcosi-tó",
+                "ro": "Lacul Arcos",
+                "en": "Arcos Lake"
+              },
+              "tip_5lang": {
+                "de": "Perfekt für eine Erfrischung oder Wassersport.",
+                "hu": "Tökéletes egy kis felfrissüléshez vagy vízi sportokhoz.",
+                "ro": "Perfect pentru o revigorare sau sporturi nautice.",
+                "en": "Perfect for a refreshment or water sports."
+              }
+            },
+            {
+              "name": {
+                "de": "Convento de las Mercedarias",
+                "hu": "Mercedarias kolostor",
+                "ro": "Conventul Mercedarias",
+                "en": "Mercedarias Convent"
+              },
+              "tip_5lang": {
+                "de": "Kaufen Sie hier handgemachtes Gebäck der Nonnen.",
+                "hu": "Vásárolj itt az apácák kézzel készített süteményeiből.",
+                "ro": "Cumpărați produse de patiserie artizanale de la călugărițe.",
+                "en": "Buy handmade pastries from the nuns here."
+              }
+            },
+            {
+              "name": {
+                "de": "Iglesia de San Pedro",
+                "hu": "Szent Péter-templom",
+                "ro": "Biserica San Pedro",
+                "en": "Church of San Pedro"
+              },
+              "tip_5lang": {
+                "de": "Die Architektur ist weithin sichtbar.",
+                "hu": "Az építészet messziről látható.",
+                "ro": "Arhitectura este vizibilă de departe.",
+                "en": "The architecture is visible from afar."
+              }
+            },
+            {
+              "name": {
+                "de": "Puerta de Matrera",
+                "hu": "Matrera-kapu",
+                "ro": "Poarta Matrera",
+                "en": "Matrera Gate"
+              },
+              "tip_5lang": {
+                "de": "Ein schöner Ort für das letzte Foto des Tages.",
+                "hu": "Szép hely a nap utolsó fotójához.",
+                "ro": "Un loc frumos pentru ultima fotografie a zilei.",
+                "en": "A beautiful spot for the last photo of the day."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Venta El Santiscal",
+                "tip": "Rustikales Essen in der Nähe des Sees."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Venta El Santiscal",
+                "tip": "Rusztikus ételek a tó közelében."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Venta El Santiscal",
+                "tip": "Mâncare rustică în apropierea lacului."
+              }
+            ],
+            "en": [
+              {
+                "name": "Venta El Santiscal",
+                "tip": "Rustic dining near the lake."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Ufer des Lago de Arcos",
+                "tip": "Entspannung pur am Wasser.",
+                "emoji": "🌊"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Arcosi-tó partja",
+                "tip": "Tiszta kikapcsolódás a víznél.",
+                "emoji": "🌊"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Malul lacului Arcos",
+                "tip": "Relaxare pură lângă apă.",
+                "emoji": "🌊"
+              }
+            ],
+            "en": [
+              {
+                "name": "Shore of Lake Arcos",
+                "tip": "Pure relaxation by the water.",
+                "emoji": "🌊"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Klosterladen Mercedarias",
+                "tip": "Traditionelle Süßigkeiten."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Mercedarias kolostorbolt",
+                "tip": "Tradicionális édességek."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Magazinul mănăstirii Mercedarias",
+                "tip": "Dulciuri tradiționale."
+              }
+            ],
+            "en": [
+              {
+                "name": "Mercedarias Convent Shop",
+                "tip": "Traditional sweets."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Ein E-Bike ist für die steilen Anstiege sehr empfehlenswert.",
+              "Tragen Sie einen Helm, besonders bei der Abfahrt zum See.",
+              "Achten Sie auf den Einbahnverkehr in den engen Gassen.",
+              "Nehmen Sie ausreichend Wasser mit."
+            ],
+            "hu": [
+              "Az elektromos bicikli erősen ajánlott a meredek emelkedők miatt.",
+              "Viselj sisakot, különösen a tóhoz való lejtőn.",
+              "Figyelj az egyirányú forgalomra a szűk utcákban.",
+              "Vigyél magaddal elegendő vizet."
+            ],
+            "ro": [
+              "O bicicletă electrică este foarte recomandată pentru pantele abrupte.",
+              "Purtați cască, mai ales la coborârea spre lac.",
+              "Atenție la sensurile unice de pe străzile înguste.",
+              "Luați suficientă apă la voi."
+            ],
+            "en": [
+              "An e-bike is highly recommended for the steep climbs.",
+              "Wear a helmet, especially during the descent to the lake.",
+              "Watch out for one-way traffic in the narrow alleys.",
+              "Take plenty of water with you."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens erkunden wir die Altstadt vorsichtig auf zwei Rädern. Mittags bietet der See von Arcos eine mystische Stimmung, auch wenn es regnet. Nachmittags kehren wir zu den Klöstern und Kirchen im Zentrum zurück, wo wir das Fahrrad sicher unterstellen können. Abends genießen wir die Ruhe der nassen Gassen.",
+            "hu": "Reggel óvatosan fedezzük fel az óvárost két keréken. Délben az Arcos-tó misztikus hangulatot áraszt az esőben is. Délután visszatérünk a központ kolostoraihoz és templomaihoz, ahol biztonságban leállíthatjuk a gépeket. Este a vizes utcák csendjét élvezzük.",
+            "ro": "Dimineața explorăm orașul vechi cu atenție pe două roți. La prânz, lacul Arcos oferă o atmosferă mistică, chiar dacă plouă. După-amiaza revenim la mănăstirile și bisericile din centru, unde putem lăsa bicicleta în siguranță. Seara ne bucurăm de liniștea străzilor umede.",
+            "en": "Morning exploration of the old town requires caution on two wheels. At noon, Arcos Lake offers a mystic atmosphere even in the rain. In the afternoon, return to the convents and churches in the center where bikes can be safely parked. Enjoy the quiet of the wet streets in the evening."
+          },
+          "stops": [
+            {
+              "name": "Plaza del Cabildo",
+              "tip_5lang": {
+                "de": "Achtung, das Pflaster ist bei Nässe extrem glatt.",
+                "hu": "Vigyázat, a kövezet vizesen rendkívül csúszós.",
+                "ro": "Atenție, pavajul este extrem de alunecos când e ud.",
+                "en": "Caution, the pavement is extremely slippery when wet."
+              }
+            },
+            {
+              "name": "Peña Nueva Viewpoint",
+              "tip_5lang": {
+                "de": "Kurzer Stopp, halten Sie den Lenker gut fest.",
+                "hu": "Rövid megálló, fogja szorosan a kormányt.",
+                "ro": "Oprire scurtă, țineți bine de ghidon.",
+                "en": "Short stop, hold the handlebars firmly."
+              }
+            },
+            {
+              "name": "Arcos Lake",
+              "tip_5lang": {
+                "de": "Der Radweg um den See kann schlammig sein.",
+                "hu": "A tó körüli kerékpárút saras lehet.",
+                "ro": "Pista de biciclete din jurul lacului poate fi noroioasă.",
+                "en": "The bike path around the lake can be muddy."
+              }
+            },
+            {
+              "name": "Mercedarias Convent",
+              "tip_5lang": {
+                "de": "Guter Ort, um das Fahrrad kurz unterzustellen.",
+                "hu": "Jó hely a bicikli rövid idejű tárolására.",
+                "ro": "Loc bun pentru a lăsa bicicleta pentru scurt timp.",
+                "en": "Good spot to park the bike briefly under cover."
+              }
+            },
+            {
+              "name": "Church of San Pedro",
+              "tip_5lang": {
+                "de": "Vermeiden Sie schnelle Bremsmanöver vor der Kirche.",
+                "hu": "Kerülje a hirtelen fékezést a templom előtt.",
+                "ro": "Evitați frânările bruște în fața bisericii.",
+                "en": "Avoid sudden braking in front of the church."
+              }
+            },
+            {
+              "name": "Matrera Gate",
+              "tip_5lang": {
+                "de": "Steile Abfahrt, nutzen Sie beide Bremsen vorsichtig.",
+                "hu": "Meredek lejtő, óvatosan használja mindkét féket.",
+                "ro": "Cobâre abruptă, folosiți ambele frâne cu grijă.",
+                "en": "Steep descent, use both brakes carefully."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine vollflächige Regenjacke und wasserdichte Hosen.",
+              "Prüfen Sie Ihre Bremsbeläge vor der Fahrt durch die steile Altstadt.",
+              "Reduzieren Sie den Reifendruck leicht für besseren Grip auf nassem Stein.",
+              "Meiden Sie tiefe Pfützen, da diese Schlaglöcher verdecken können."
+            ],
+            "hu": [
+              "Viseljen teljes esőkabátot és vízálló nadrágot.",
+              "Ellenőrizze a fékbetéteket a meredek óvárosi gurulás előtt.",
+              "Enyhén csökkentse a guminyomást a jobb tapadásért a vizes kövön.",
+              "Kerülje a mély tócsákat, mert kátyúkat rejthetnek."
+            ],
+            "ro": [
+              "Purtați o jachetă de ploaie completă și pantaloni impermeabili.",
+              "Verificați plăcuțele de frână înainte de a porni pe străzile abrupte.",
+              "Reduceți ușor presiunea în pneuri pentru o aderență mai bună.",
+              "Evitați bălțile adânci, deoarece pot ascunde gropi."
+            ],
+            "en": [
+              "Wear a full raincoat and waterproof trousers.",
+              "Check your brake pads before riding through the steep old town.",
+              "Slightly reduce tire pressure for better grip on wet stones.",
+              "Avoid deep puddles as they can hide potholes."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen bietet klare Sicht von der Plaza del Cabildo. Mittags ist die Fahrt zum See von Arcos bei kühlen Temperaturen erfrischend. Nachmittags wärmen wir uns in den Kirchen des Zentrums auf. Abends beenden wir die Tour rechtzeitig, bevor es frostig wird und das Licht schwindet.",
+            "hu": "A téli reggel tiszta kilátást nyújt a Plaza del Cabildo-ról. Délben az Arcos-tóhoz vezető út frissítő a hűvös időben. Délután a központ templomaiban melegszünk fel. Este időben befejezzük a túrát, mielőtt fagyossá válna az idő és elfogyna a fény.",
+            "ro": "Dimineața de iarnă oferă o vedere clară din Plaza del Cabildo. La prânz, drumul spre lacul Arcos este revigorant la temperaturi scăzute. După-amiaza ne încălzim în bisericile din centru. Seara încheiem turul la timp, înainte de îngheț și lăsarea întunericului.",
+            "en": "Winter morning provides clear views from Plaza del Cabildo. At noon, the ride to Arcos Lake is refreshing in the cool air. In the afternoon, warm up inside the central churches. Finish the tour early in the evening before the frost sets in and light fades."
+          },
+          "stops": [
+            {
+              "name": "Plaza del Cabildo",
+              "tip_5lang": {
+                "de": "Handschuhe sind für die Fahrt am frühen Morgen wichtig.",
+                "hu": "A kora reggeli tekeréshez kesztyű ajánlott.",
+                "ro": "Mănușile sunt importante pentru plimbarea de dimineață.",
+                "en": "Gloves are important for the early morning ride."
+              }
+            },
+            {
+              "name": "Peña Nueva Viewpoint",
+              "tip_5lang": {
+                "de": "Die Fernsicht ist im Winter oft am besten.",
+                "hu": "Télen gyakran a legjobb a távoli kilátás.",
+                "ro": "Vizibilitatea la distanță este adesea optimă iarna.",
+                "en": "Long-distance visibility is often best in winter."
+              }
+            },
+            {
+              "name": "Arcos Lake",
+              "tip_5lang": {
+                "de": "Wenig Betrieb am See, genießen Sie die Stille.",
+                "hu": "Kevés a látogató a tónál, élvezze a csendet.",
+                "ro": "Puțină activitate la lac, bucurați-vă de liniște.",
+                "en": "Very quiet at the lake, enjoy the stillness."
+              }
+            },
+            {
+              "name": "Mercedarias Convent",
+              "tip_5lang": {
+                "de": "Kaufen Sie lokales Gebäck zur Stärkung.",
+                "hu": "Vásároljon helyi süteményt az energianyeréshez.",
+                "ro": "Cumpărați produse de patiserie locale pentru energie.",
+                "en": "Buy local pastries for a quick energy boost."
+              }
+            },
+            {
+              "name": "Church of San Pedro",
+              "tip_5lang": {
+                "de": "Die Kirche bietet Schutz vor dem kalten Wind.",
+                "hu": "A templom védelmet nyújt a hideg szél ellen.",
+                "ro": "Biserica oferă protecție împotriva vântului rece.",
+                "en": "The church provides shelter from the cold wind."
+              }
+            },
+            {
+              "name": "Matrera Gate",
+              "tip_5lang": {
+                "de": "Das Licht der tiefstehenden Sonne ist ideal für Fotos.",
+                "hu": "Az alacsony napállás fénye ideális fotózáshoz.",
+                "ro": "Lumina soarelui jos este ideală pentru fotografii.",
+                "en": "The low sun's light is ideal for photography."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie winddichte Kleidung, besonders für die Abfahrten.",
+              "Die Tage sind kurz, stellen Sie sicher, dass Ihr Licht funktioniert.",
+              "Ein heißer Tee in einer Thermoskanne ist am See Gold wert.",
+              "Achten Sie auf Raureif in schattigen Gassen am Morgen."
+            ],
+            "hu": [
+              "Viseljen szélálló ruházatot, különösen a lejtőkhöz.",
+              "A nappalok rövidek, ellenőrizze a világítást.",
+              "Egy termosz forró tea a tónál aranyat ér.",
+              "Figyeljen a zúzmarára az árnyékos utcákban reggel."
+            ],
+            "ro": [
+              "Purtați haine rezistente la vânt, în special pentru coborâri.",
+              "Zilele sunt scurte, asigurați-vă că luminile funcționează.",
+              "Un ceai fierbinte într-un termos este prețios la lac.",
+              "Atenție la chiciura din străzile umbrite dimineața."
+            ],
+            "en": [
+              "Wear windproof clothing, especially for the descents.",
+              "Days are short, make sure your lights are working.",
+              "Hot tea in a thermos is worth gold at the lake.",
+              "Watch out for frost in shaded alleys in the morning."
+            ]
+          }
+        }
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 15.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Plaza del Cabildo",
+            "hu": "Plaza del Cabildo",
+            "ro": "Plaza del Cabildo",
+            "en": "Plaza del Cabildo"
+          },
+          "coords": [
+            -5.8048,
+            36.749
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Nutzen Sie den Valdepuentes Parkplatz.",
+            "hu": "Használd a Valdepuentes parkolót.",
+            "ro": "Utilizați parcarea Valdepuentes.",
+            "en": "Use the Valdepuentes parking lot."
+          }
+        },
+        {
+          "name": {
+            "de": "Basílica de Santa María",
+            "hu": "Szent Mária-bazilika",
+            "ro": "Bazilica Santa María",
+            "en": "Basilica of Santa Maria"
+          },
+          "coords": [
+            -5.8046,
+            36.7491
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Besichtigung der Innenausstattung.",
+            "hu": "A belső berendezés megtekintése.",
+            "ro": "Vizitarea interiorului.",
+            "en": "Visit of the interior decorations."
+          }
+        },
+        {
+          "name": {
+            "de": "Castillo de los Duques",
+            "hu": "A hercegek vára",
+            "ro": "Castelul Ducilor",
+            "en": "Castle of the Dukes"
+          },
+          "coords": [
+            -5.8049,
+            36.7488
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Fotostopp am Burgtor.",
+            "hu": "Fotómegálló a várkapunál.",
+            "ro": "Oprire pentru poze la poarta castelului.",
+            "en": "Photo stop at the castle gate."
+          }
+        },
+        {
+          "name": {
+            "de": "Lago de Arcos",
+            "hu": "Arcosi-tó",
+            "ro": "Lacul Arcos",
+            "en": "Arcos Lake"
+          },
+          "coords": [
+            -5.775,
+            36.755
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:15",
+          "stay_min": 150,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Mittagessen am Seeufer.",
+            "hu": "Ebéd a tóparton.",
+            "ro": "Prânz pe malul lacului.",
+            "en": "Lunch by the lakeshore."
+          }
+        },
+        {
+          "name": {
+            "de": "Palacio del Mayorazgo",
+            "hu": "Mayorazgo-palota",
+            "ro": "Palatul Mayorazgo",
+            "en": "Palace of the Mayorazgo"
+          },
+          "coords": [
+            -5.8062,
+            36.7482
+          ],
+          "category": "famous residences",
+          "arrive_at": "15:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Andalusische Hofkultur.",
+            "hu": "Andalúz udvari kultúra.",
+            "ro": "Cultura curților andaluze.",
+            "en": "Andalusian courtyard culture."
+          }
+        },
+        {
+          "name": {
+            "de": "Iglesia de San Pedro",
+            "hu": "Szent Péter-templom",
+            "ro": "Biserica San Pedro",
+            "en": "Church of San Pedro"
+          },
+          "coords": [
+            -5.8075,
+            36.7478
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Blick auf die Stadtmauer.",
+            "hu": "Kilátás a városfalra.",
+            "ro": "Vedere spre zidul orașului.",
+            "en": "View of the city walls."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erreichen Sie bequem sowohl die Höhen der Altstadt als auch die Freizeitgebiete am Wasser.\n\nMorgens konzentrieren wir uns auf die historischen Monumente rund um die Plaza del Cabildo.\n\nZur Mittagszeit fahren wir zum Lago de Arcos für ein entspanntes Essen und einen Spaziergang am Ufer.\n\nNachmittags kehren wir zurück, um die prachtvollen Paläste und Kirchen der Oberstadt zu bewundern.",
+        "hu": "Autóval kényelmesen elérheted az óváros magaslatait és a vízparti pihenőhelyeket is.\n\nReggel a Plaza del Cabildo körüli történelmi emlékművekre koncentrálunk.\n\nEbédidőben az Arcosi-tóhoz hajtunk egy pihentető étkezésre és egy sétára a parton.\n\nDélután visszatérünk, hogy megcsodáljuk a felsőváros pompás palotáit és templomait.",
+        "ro": "Cu mașina puteți ajunge ușor atât la înălțimile orașului vechi, cât și la zonele de agrement de pe malul apei.\n\nDimineața ne concentrăm pe monumentele istorice din jurul Plaza del Cabildo.\n\nLa prânz conducem spre Lacul Arcos pentru o masă relaxată și o plimbare pe mal.\n\nDupă-amiaza ne întoarcem pentru a admira palatele și bisericile fastuoase din orașul de sus.",
+        "en": "By car, you can easily reach both the heights of the old town and the recreational areas by the water.\n\nIn the morning, we focus on the historical monuments around Plaza del Cabildo.\n\nAt lunchtime, we drive to Lake Arcos for a relaxed meal and a stroll along the shore.\n\nIn the afternoon, we return to admire the magnificent palaces and churches of the upper town."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant El Lago",
+            "tip": "Speisen mit direktem Seeblick."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Restaurant El Lago",
+            "tip": "Étkezés közvetlen rálátással a tóra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant El Lago",
+            "tip": "Masă cu vedere directă la lac."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant El Lago",
+            "tip": "Dining with a direct lake view."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Club Náutico Arcos",
+            "tip": "Ruhige Atmosphäre am Wasser.",
+            "emoji": "⛵"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Club Náutico Arcos",
+            "tip": "Csendes hangulat a víznél.",
+            "emoji": "⛵"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Club Náutico Arcos",
+            "tip": "Atmosferă liniștită lângă apă.",
+            "emoji": "⛵"
+          }
+        ],
+        "en": [
+          {
+            "name": "Club Náutico Arcos",
+            "tip": "Quiet atmosphere by the water.",
+            "emoji": "⛵"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Eroski Arcos",
+            "tip": "Für lokale Weine und Olivenöl."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Eroski Arcos",
+            "tip": "Helyi borokhoz és olívaolajhoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Eroski Arcos",
+            "tip": "Pentru vinuri locale și ulei de măsline."
+          }
+        ],
+        "en": [
+          {
+            "name": "Eroski Arcos",
+            "tip": "For local wines and olive oil."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Fahren Sie nicht direkt in die Altstadt; nutzen Sie die Parkhäuser am Stadtrand.",
+          "Die Straßen in der Oberstadt sind extrem schmal.",
+          "Buchen Sie einen Tisch am See im Voraus.",
+          "Nutzen Sie den Wagen für den Ausflug zum See."
+        ],
+        "hu": [
+          "Ne hajts be közvetlenül az óvárosba; használd a város szélén lévő parkolóházakat.",
+          "A felsőváros utcái rendkívül szűkek.",
+          "Foglalj asztalt a tónál előre.",
+          "Használd az autót a tavi kiránduláshoz."
+        ],
+        "ro": [
+          "Nu conduceți direct în centrul vechi; folosiți parcările de la marginea orașului.",
+          "Străzile din orașul de sus sunt extrem de înguste.",
+          "Rezervați o masă la lac în avans.",
+          "Folosiți mașina pentru excursia la lac."
+        ],
+        "en": [
+          "Do not drive directly into the old town; use the parking garages on the outskirts.",
+          "The streets in the upper town are extremely narrow.",
+          "Book a table at the lake in advance.",
+          "Use the car for the trip to the lake."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erreichen Sie bequem sowohl die Höhen der Altstadt als auch die Freizeitgebiete am Wasser.\n\nMorgens konzentrieren wir uns auf die historischen Monumente rund um die Plaza del Cabildo.\n\nZur Mittagszeit fahren wir zum Lago de Arcos für ein entspanntes Essen und einen Spaziergang am Ufer.\n\nNachmittags kehren wir zurück, um die prachtvollen Paläste und Kirchen der Oberstadt zu bewundern.",
+            "hu": "Autóval kényelmesen elérheted az óváros magaslatait és a vízparti pihenőhelyeket is.\n\nReggel a Plaza del Cabildo körüli történelmi emlékművekre koncentrálunk.\n\nEbédidőben az Arcosi-tóhoz hajtunk egy pihentető étkezésre és egy sétára a parton.\n\nDélután visszatérünk, hogy megcsodáljuk a felsőváros pompás palotáit és templomait.",
+            "ro": "Cu mașina puteți ajunge ușor atât la înălțimile orașului vechi, cât și la zonele de agrement de pe malul apei.\n\nDimineața ne concentrăm pe monumentele istorice din jurul Plaza del Cabildo.\n\nLa prânz conducem spre Lacul Arcos pentru o masă relaxată și o plimbare pe mal.\n\nDupă-amiaza ne întoarcem pentru a admira palatele și bisericile fastuoase din orașul de sus.",
+            "en": "By car, you can easily reach both the heights of the old town and the recreational areas by the water.\n\nIn the morning, we focus on the historical monuments around Plaza del Cabildo.\n\nAt lunchtime, we drive to Lake Arcos for a relaxed meal and a stroll along the shore.\n\nIn the afternoon, we return to admire the magnificent palaces and churches of the upper town."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Plaza del Cabildo",
+                "hu": "Plaza del Cabildo",
+                "ro": "Plaza del Cabildo",
+                "en": "Plaza del Cabildo"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Valdepuentes Parkplatz.",
+                "hu": "Használd a Valdepuentes parkolót.",
+                "ro": "Utilizați parcarea Valdepuentes.",
+                "en": "Use the Valdepuentes parking lot."
+              }
+            },
+            {
+              "name": {
+                "de": "Basílica de Santa María",
+                "hu": "Szent Mária-bazilika",
+                "ro": "Bazilica Santa María",
+                "en": "Basilica of Santa Maria"
+              },
+              "tip_5lang": {
+                "de": "Besichtigung der Innenausstattung.",
+                "hu": "A belső berendezés megtekintése.",
+                "ro": "Vizitarea interiorului.",
+                "en": "Visit of the interior decorations."
+              }
+            },
+            {
+              "name": {
+                "de": "Castillo de los Duques",
+                "hu": "A hercegek vára",
+                "ro": "Castelul Ducilor",
+                "en": "Castle of the Dukes"
+              },
+              "tip_5lang": {
+                "de": "Fotostopp am Burgtor.",
+                "hu": "Fotómegálló a várkapunál.",
+                "ro": "Oprire pentru poze la poarta castelului.",
+                "en": "Photo stop at the castle gate."
+              }
+            },
+            {
+              "name": {
+                "de": "Lago de Arcos",
+                "hu": "Arcosi-tó",
+                "ro": "Lacul Arcos",
+                "en": "Arcos Lake"
+              },
+              "tip_5lang": {
+                "de": "Mittagessen am Seeufer.",
+                "hu": "Ebéd a tóparton.",
+                "ro": "Prânz pe malul lacului.",
+                "en": "Lunch by the lakeshore."
+              }
+            },
+            {
+              "name": {
+                "de": "Palacio del Mayorazgo",
+                "hu": "Mayorazgo-palota",
+                "ro": "Palatul Mayorazgo",
+                "en": "Palace of the Mayorazgo"
+              },
+              "tip_5lang": {
+                "de": "Andalusische Hofkultur.",
+                "hu": "Andalúz udvari kultúra.",
+                "ro": "Cultura curților andaluze.",
+                "en": "Andalusian courtyard culture."
+              }
+            },
+            {
+              "name": {
+                "de": "Iglesia de San Pedro",
+                "hu": "Szent Péter-templom",
+                "ro": "Biserica San Pedro",
+                "en": "Church of San Pedro"
+              },
+              "tip_5lang": {
+                "de": "Blick auf die Stadtmauer.",
+                "hu": "Kilátás a városfalra.",
+                "ro": "Vedere spre zidul orașului.",
+                "en": "View of the city walls."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Restaurant El Lago",
+                "tip": "Speisen mit direktem Seeblick."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Restaurant El Lago",
+                "tip": "Étkezés közvetlen rálátással a tóra."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Restaurant El Lago",
+                "tip": "Masă cu vedere directă la lac."
+              }
+            ],
+            "en": [
+              {
+                "name": "Restaurant El Lago",
+                "tip": "Dining with a direct lake view."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Club Náutico Arcos",
+                "tip": "Ruhige Atmosphäre am Wasser.",
+                "emoji": "⛵"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Club Náutico Arcos",
+                "tip": "Csendes hangulat a víznél.",
+                "emoji": "⛵"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Club Náutico Arcos",
+                "tip": "Atmosferă liniștită lângă apă.",
+                "emoji": "⛵"
+              }
+            ],
+            "en": [
+              {
+                "name": "Club Náutico Arcos",
+                "tip": "Quiet atmosphere by the water.",
+                "emoji": "⛵"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Eroski Arcos",
+                "tip": "Für lokale Weine und Olivenöl."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Eroski Arcos",
+                "tip": "Helyi borokhoz és olívaolajhoz."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Eroski Arcos",
+                "tip": "Pentru vinuri locale și ulei de măsline."
+              }
+            ],
+            "en": [
+              {
+                "name": "Eroski Arcos",
+                "tip": "For local wines and olive oil."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Fahren Sie nicht direkt in die Altstadt; nutzen Sie die Parkhäuser am Stadtrand.",
+              "Die Straßen in der Oberstadt sind extrem schmal.",
+              "Buchen Sie einen Tisch am See im Voraus.",
+              "Nutzen Sie den Wagen für den Ausflug zum See."
+            ],
+            "hu": [
+              "Ne hajts be közvetlenül az óvárosba; használd a város szélén lévő parkolóházakat.",
+              "A felsőváros utcái rendkívül szűkek.",
+              "Foglalj asztalt a tónál előre.",
+              "Használd az autót a tavi kiránduláshoz."
+            ],
+            "ro": [
+              "Nu conduceți direct în centrul vechi; folosiți parcările de la marginea orașului.",
+              "Străzile din orașul de sus sunt extrem de înguste.",
+              "Rezervați o masă la lac în avans.",
+              "Folosiți mașina pentru excursia la lac."
+            ],
+            "en": [
+              "Do not drive directly into the old town; use the parking garages on the outskirts.",
+              "The streets in the upper town are extremely narrow.",
+              "Book a table at the lake in advance.",
+              "Use the car for the trip to the lake."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens parken wir nahe der Plaza del Cabildo und nutzen die Arkaden. Mittags fahren wir entspannt zum Arcos-See, wo wir den Regen aus dem Auto beobachten können. Nachmittags geht es zurück zum Mayorazgo-Palast für Indoor-Kultur. Abends beenden wir den Tag sicher und trocken bei der San Pedro Kirche.",
+            "hu": "Reggel a Plaza del Cabildo közelében parkolunk, kihasználva az árkádokat. Délben kényelmesen elautózunk az Arcos-tóhoz, ahol az autóból is nézhetjük az esőt. Délután visszatérünk a Mayorazgo-palotába benti kultúráért. Este szárazon fejezzük be a napot a San Pedro templomnál.",
+            "ro": "Dimineața parcăm lângă Plaza del Cabildo și folosim arcadele. La prânz conducem relaxat spre lacul Arcos, privind ploaia din mașină. După-amiaza ne întoarcem la palatul Mayorazgo pentru cultură de interior. Seara încheiem ziua la adăpost, lângă biserica San Pedro.",
+            "en": "Morning park near Plaza del Cabildo and use the arches for cover. At noon, drive comfortably to Arcos Lake, watching the rain from the car. In the afternoon, return to Mayorazgo Palace for indoor culture. End the day dry and safe by San Pedro Church."
+          },
+          "stops": [
+            {
+              "name": "Plaza del Cabildo",
+              "tip_5lang": {
+                "de": "Parken Sie im Parkhaus, um trocken ins Zentrum zu kommen.",
+                "hu": "Parkoljon a mélygarázsban, hogy szárazon jusson a központba.",
+                "ro": "Parcați în parcarea subterană pentru a ajunge uscat în centru.",
+                "en": "Park in the underground garage to stay dry reaching the center."
+              }
+            },
+            {
+              "name": "Basilica of Santa Maria",
+              "tip_5lang": {
+                "de": "Lassen Sie den Schirm im Vorraum abtropfen.",
+                "hu": "Hagyja az esernyőt az előtérben csepegni.",
+                "ro": "Lăsați umbrela la scurs în antreu.",
+                "en": "Let your umbrella drip dry in the entrance hall."
+              }
+            },
+            {
+              "name": "Castle of the Dukes",
+              "tip_5lang": {
+                "de": "Die Anfahrt durch die engen Gassen ist bei Regen tückisch.",
+                "hu": "Az esőben való vezetés a szűk utcákban trükkös.",
+                "ro": "Accesul prin străzile înguste este dificil pe ploaie.",
+                "en": "Driving through narrow streets is tricky in the rain."
+              }
+            },
+            {
+              "name": "Arcos Lake",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf den See aus dem warmen Auto.",
+                "hu": "Élvezze a tóra nyíló kilátást a meleg autóból.",
+                "ro": "Bucurați-vă de vedere spre lac din mașina caldă.",
+                "en": "Enjoy the lake view from the comfort of your car."
+              }
+            },
+            {
+              "name": "Palace of the Mayorazgo",
+              "tip_5lang": {
+                "de": "Guter Parkplatz oft in den umliegenden Straßen zu finden.",
+                "hu": "A környező utcákban gyakran találni jó parkolóhelyet.",
+                "ro": "Locuri de parcare bune se găsesc des în străzile adiacente.",
+                "en": "Good parking spots are often found in nearby streets."
+              }
+            },
+            {
+              "name": "Church of San Pedro",
+              "tip_5lang": {
+                "de": "Vorsicht beim Aussteigen auf glatten Kopfsteinpflaster.",
+                "hu": "Vigyázzon kiszálláskor a csúszós macskakövön.",
+                "ro": "Atenție la coborârea din mașină pe pavajul alunecos.",
+                "en": "Be careful when getting out on slippery cobblestones."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Parkhäuser, um Fußwege im Regen zu minimieren.",
+              "Die Sicht in den engen Gassen kann bei starkem Regen schlecht sein.",
+              "Haben Sie ein Handtuch im Auto, um nasses Equipment abzuwischen.",
+              "Vermeiden Sie das Parken in tiefgelegenen Zonen bei Sturzflutgefahr."
+            ],
+            "hu": [
+              "Használja a parkolóházakat az esőben való gyaloglás elkerülésére.",
+              "Erős esőben a látótávolság korlátozott lehet a szűk utcákban.",
+              "Legyen törölköző az autóban a vizes felszereléseknek.",
+              "Kerülje a mélyen fekvő parkolóhelyeket villámárvíz veszélye esetén."
+            ],
+            "ro": [
+              "Folosiți parcările acoperite pentru a minimiza mersul prin ploaie.",
+              "Vizibilitatea în străzile înguste poate fi redusă pe ploaie torențială.",
+              "Aveți un prosop în mașină pentru a șterge echipamentul ud.",
+              "Evitați parcarea în zone joase dacă există risc de inundații rapide."
+            ],
+            "en": [
+              "Use parking garages to minimize walking in the rain.",
+              "Visibility in narrow streets can be poor during heavy rain.",
+              "Keep a towel in the car to wipe down wet gear.",
+              "Avoid parking in low-lying areas if there is a flash flood risk."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen beginnt mit einer Fahrt zur Plaza del Cabildo bei herrlicher Fernsicht. Mittags wärmt uns die Fahrt zum See von Arcos auf. Nachmittags besuchen wir den Mayorazgo-Palast, bevor die Kälte einzieht. Abends bietet das Auto eine warme Basis für den Besuch der San Pedro Kirche.",
+            "hu": "A téli reggel a Plaza del Cabildo-hoz vezető úttal kezdődik, ragyogó kilátással. Délben az Arcos-tóhoz autózva melegedünk fel. Délután a Mayorazgo-palotát látogatjuk meg, mielőtt beállna a hideg. Este az autó meleg bázist nyújt a San Pedro templom felé.",
+            "ro": "Dimineața de iarnă începe cu drumul spre Plaza del Cabildo, cu o vedere superbă. La prânz ne încălzim conducând spre lacul Arcos. După-amiaza vizităm palatul Mayorazgo înainte de lăsarea frigului. Seara, mașina oferă o bază caldă pentru vizitarea bisericii San Pedro.",
+            "en": "Winter morning starts with a drive to Plaza del Cabildo with magnificent views. At noon, warm up while driving to Arcos Lake. In the afternoon, visit Mayorazgo Palace before the cold sets in. In the evening, the car provides a warm base for visiting San Pedro Church."
+          },
+          "stops": [
+            {
+              "name": "Plaza del Cabildo",
+              "tip_5lang": {
+                "de": "Das Auto heizt sich in der Wintersonne angenehm auf.",
+                "hu": "Az autó kellemesen felmelegszik a téli napsütésben.",
+                "ro": "Mașina se încălzește plăcut în soarele de iarnă.",
+                "en": "The car warms up nicely in the winter sun."
+              }
+            },
+            {
+              "name": "Basilica of Santa Maria",
+              "tip_5lang": {
+                "de": "Ein kurzer Fußweg vom Parkplatz zur wärmenden Basilika.",
+                "hu": "Rövid séta a parkolótól a bazilika felé.",
+                "ro": "O scurtă plimbare de la parcare spre basilica primitoare.",
+                "en": "A short walk from the parking lot to the welcoming basilica."
+              }
+            },
+            {
+              "name": "Castle of the Dukes",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Reifendruck bei niedrigen Temperaturen.",
+                "hu": "Ellenőrizze a guminyomást alacsony hőmérsékletnél.",
+                "ro": "Verificați presiunea în pneuri la temperaturi scăzute.",
+                "en": "Check tire pressure in low temperatures."
+              }
+            },
+            {
+              "name": "Arcos Lake",
+              "tip_5lang": {
+                "de": "Klarer Blick auf die Klippen von Arcos vom Seeufer.",
+                "hu": "Tiszta kilátás az Arcos-sziklákra a tópartról.",
+                "ro": "Vedere clară spre stâncile Arcos de pe malul lacului.",
+                "en": "Clear view of the Arcos cliffs from the lakeshore."
+              }
+            },
+            {
+              "name": "Palace of the Mayorazgo",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Sitzheizung nach dem Rundgang.",
+                "hu": "Használja az ülésfűtést a séta után.",
+                "ro": "Folosiți încălzirea în scaune după turul pietonal.",
+                "en": "Use seat heating after the walking tour."
+              }
+            },
+            {
+              "name": "Church of San Pedro",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang, um der Abendkälte zu entgehen.",
+                "hu": "Parkoljon közel a bejárathoz az esti hideg elől.",
+                "ro": "Parcați aproape de intrare pentru a evita frigul serii.",
+                "en": "Park close to the entrance to avoid the evening cold."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Stellen Sie sicher, dass Ihr Frostschutzmittel aufgefüllt ist.",
+              "Die Straßen können in schattigen Kurven morgens glatt sein.",
+              "Parkplätze sind im Winter im Zentrum leichter zu finden.",
+              "Nutzen Sie das Auto als Rückzugsort, wenn der Wind zu stark wird."
+            ],
+            "hu": [
+              "Ellenőrizze a fagyálló folyadék szintjét.",
+              "Az árnyékos kanyarokban reggel csúszósak lehetnek az utak.",
+              "Télen könnyebb parkolóhelyet találni a központban.",
+              "Használja az autót menedékként, ha túl erős a szél."
+            ],
+            "ro": [
+              "Asigurați-vă că antigelul este la nivelul optim.",
+              "Drumurile pot fi alunecoase dimineața în curbele umbrite.",
+              "Locurile de parcare sunt mai ușor de găsit în centru iarna.",
+              "Folosiți mașina ca refugiu dacă vântul devine prea puternic."
+            ],
+            "en": [
+              "Make sure your antifreeze levels are topped up.",
+              "Roads can be slippery in shaded curves during the morning.",
+              "Parking spaces are easier to find in the center during winter.",
+              "Use the car as a retreat if the wind becomes too strong."
+            ]
+          }
+        }
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 8.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Busbahnhof Arcos",
+            "hu": "Arcosi buszpályaudvar",
+            "ro": "Autogara Arcos",
+            "en": "Arcos Bus Station"
+          },
+          "coords": [
+            -5.815,
+            36.745
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Zentraler Ankunftspunkt.",
+            "hu": "Központi érkezési pont.",
+            "ro": "Punct central de sosire.",
+            "en": "Central arrival point."
+          }
+        },
+        {
+          "name": {
+            "de": "Plaza del Cabildo",
+            "hu": "Plaza del Cabildo",
+            "ro": "Plaza del Cabildo",
+            "en": "Plaza del Cabildo"
+          },
+          "coords": [
+            -5.8048,
+            36.749
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:50",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Der Minibus fährt in die Oberstadt.",
+            "hu": "A minibusz felvisz a felsővárosba.",
+            "ro": "Minibuzul urcă în orașul de sus.",
+            "en": "The minibus goes to the upper town."
+          }
+        },
+        {
+          "name": {
+            "de": "Iglesia de San Pedro",
+            "hu": "Szent Péter-templom",
+            "ro": "Biserica San Pedro",
+            "en": "Church of San Pedro"
+          },
+          "coords": [
+            -5.8075,
+            36.7478
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erreichbar mit der lokalen Linie.",
+            "hu": "Helyi járattal elérhető.",
+            "ro": "Accesibil cu linia locală.",
+            "en": "Accessible with the local line."
+          }
+        },
+        {
+          "name": {
+            "de": "Lago de Arcos",
+            "hu": "Arcosi-tó",
+            "ro": "Lacul Arcos",
+            "en": "Arcos Lake"
+          },
+          "coords": [
+            -5.775,
+            36.755
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:30",
+          "stay_min": 120,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Prüfen Sie die Abfahrtszeiten zum Santiscal Viertel.",
+            "hu": "Ellenőrizd az indulási időket a Santiscal negyedbe.",
+            "ro": "Verificați orele de plecare spre cartierul Santiscal.",
+            "en": "Check departure times to the Santiscal district."
+          }
+        },
+        {
+          "name": {
+            "de": "Calle Cuna",
+            "hu": "Calle Cuna",
+            "ro": "Calle Cuna",
+            "en": "Calle Cuna"
+          },
+          "coords": [
+            -5.8055,
+            36.7485
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "16:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Ein letzter Spaziergang vor der Abfahrt.",
+            "hu": "Egy utolsó séta indulás előtt.",
+            "ro": "O ultimă plimbare înainte de plecare.",
+            "en": "A last walk before departure."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie den praktischen Stadtbus und den Minibus, um die verschiedenen Ebenen von Arcos zu erkunden.\n\nNach der Ankunft am Busbahnhof bringt Sie der Minibus direkt zur Plaza del Cabildo.\n\nSpäter fahren wir zum Seeufer, um die Natur zu genießen, bevor wir in die historischen Gassen zurückkehren.\n\nDie Tour ist ideal für alle, die das Auto stehen lassen und die Stadt wie ein Einheimischer erleben möchten.",
+        "hu": "Használd a praktikus városi buszt és a minibuszt Arcos különböző szintjeinek felfedezéséhez.\n\nA buszpályaudvarra való érkezés után a minibusz egyenesen a Plaza del Cabildo térre visz.\n\nKésőbb a tópartra utazunk, hogy élvezzük a természetet, mielőtt visszatérnénk a történelmi utcákba.\n\nEz a túra ideális azoknak, akik le akarják tenni az autót, és úgy szeretnék megismerni a várost, mint egy helyi.",
+        "ro": "Folosiți autobuzul urban practic și minibuzul pentru a explora diferitele niveluri ale orașului Arcos.\n\nDupă sosirea la autogară, minibuzul vă duce direct la Plaza del Cabildo.\n\nMai târziu mergem la malul lacului pentru a ne bucura de natură, înainte de a ne întoarce pe străzile istorice.\n\nAcest tur este ideal pentru cei care vor să lase mașina și să experimenteze orașul ca un localnic.",
+        "en": "Use the practical city bus and the minibus to explore the different levels of Arcos.\n\nAfter arriving at the bus station, the minibus takes you straight to Plaza del Cabildo.\n\nLater, we travel to the lakeshore to enjoy nature before returning to the historic streets.\n\nThis tour is ideal for those who want to leave the car behind and experience the city like a local."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bar El Retiro",
+            "tip": "Authentische Tapas in der Nähe des Busbahnhofs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bar El Retiro",
+            "tip": "Autentikus tapasok a buszpályaudvar közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bar El Retiro",
+            "tip": "Tapas autentice lângă autogară."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bar El Retiro",
+            "tip": "Authentic tapas near the bus station."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Paseo de la Constitución",
+            "tip": "Ein ruhiger Parkplatz im unteren Bereich.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Paseo de la Constitución",
+            "tip": "Egy csendes pihenőhely az alsó részben.",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Paseo de la Constitución",
+            "tip": "Un loc de odihnă liniștit în partea de jos.",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "Paseo de la Constitución",
+            "tip": "A quiet rest spot in the lower area.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Marktplatz (Mercado)",
+            "tip": "Lokale Produkte und frische Lebensmittel."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piac (Mercado)",
+            "tip": "Helyi termékek és friss élelmiszerek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața (Mercado)",
+            "tip": "Produse locale și alimente proaspete."
+          }
+        ],
+        "en": [
+          {
+            "name": "Market (Mercado)",
+            "tip": "Local products and fresh food."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie die Tickets direkt beim Busfahrer.",
+          "Der Minibus in die Altstadt ist die beste Wahl für Fußfaule.",
+          "Prüfen Sie die Fahrpläne am Wochenende.",
+          "Die Haltestellen sind gut ausgeschildert."
+        ],
+        "hu": [
+          "Vásárold meg a jegyeket közvetlenül a buszvezetőnél.",
+          "Az óvárosi minibusz a legjobb választás, ha nem akarsz gyalogolni.",
+          "Ellenőrizd a menetrendet hétvégén.",
+          "A megállók jól ki vannak táblázva."
+        ],
+        "ro": [
+          "Cumpărați biletele direct de la șoferul de autobuz.",
+          "Minibuzul spre centrul vechi este cea mai bună alegere pentru a evita mersul pe jos.",
+          "Verificați orarul în weekend.",
+          "Stațiile sunt bine semnalizate."
+        ],
+        "en": [
+          "Buy your tickets directly from the bus driver.",
+          "The old town minibus is the best choice for those who don't want to walk.",
+          "Check the schedules on weekends.",
+          "The stops are well signposted."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie den praktischen Stadtbus und den Minibus, um die verschiedenen Ebenen von Arcos zu erkunden.\n\nNach der Ankunft am Busbahnhof bringt Sie der Minibus direkt zur Plaza del Cabildo.\n\nSpäter fahren wir zum Seeufer, um die Natur zu genießen, bevor wir in die historischen Gassen zurückkehren.\n\nDie Tour ist ideal für alle, die das Auto stehen lassen und die Stadt wie ein Einheimischer erleben möchten.",
+            "hu": "Használd a praktikus városi buszt és a minibuszt Arcos különböző szintjeinek felfedezéséhez.\n\nA buszpályaudvarra való érkezés után a minibusz egyenesen a Plaza del Cabildo térre visz.\n\nKésőbb a tópartra utazunk, hogy élvezzük a természetet, mielőtt visszatérnénk a történelmi utcákba.\n\nEz a túra ideális azoknak, akik le akarják tenni az autót, és úgy szeretnék megismerni a várost, mint egy helyi.",
+            "ro": "Folosiți autobuzul urban practic și minibuzul pentru a explora diferitele niveluri ale orașului Arcos.\n\nDupă sosirea la autogară, minibuzul vă duce direct la Plaza del Cabildo.\n\nMai târziu mergem la malul lacului pentru a ne bucura de natură, înainte de a ne întoarce pe străzile istorice.\n\nAcest tur este ideal pentru cei care vor să lase mașina și să experimenteze orașul ca un localnic.",
+            "en": "Use the practical city bus and the minibus to explore the different levels of Arcos.\n\nAfter arriving at the bus station, the minibus takes you straight to Plaza del Cabildo.\n\nLater, we travel to the lakeshore to enjoy nature before returning to the historic streets.\n\nThis tour is ideal for those who want to leave the car behind and experience the city like a local."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Busbahnhof Arcos",
+                "hu": "Arcosi buszpályaudvar",
+                "ro": "Autogara Arcos",
+                "en": "Arcos Bus Station"
+              },
+              "tip_5lang": {
+                "de": "Zentraler Ankunftspunkt.",
+                "hu": "Központi érkezési pont.",
+                "ro": "Punct central de sosire.",
+                "en": "Central arrival point."
+              }
+            },
+            {
+              "name": {
+                "de": "Plaza del Cabildo",
+                "hu": "Plaza del Cabildo",
+                "ro": "Plaza del Cabildo",
+                "en": "Plaza del Cabildo"
+              },
+              "tip_5lang": {
+                "de": "Der Minibus fährt in die Oberstadt.",
+                "hu": "A minibusz felvisz a felsővárosba.",
+                "ro": "Minibuzul urcă în orașul de sus.",
+                "en": "The minibus goes to the upper town."
+              }
+            },
+            {
+              "name": {
+                "de": "Iglesia de San Pedro",
+                "hu": "Szent Péter-templom",
+                "ro": "Biserica San Pedro",
+                "en": "Church of San Pedro"
+              },
+              "tip_5lang": {
+                "de": "Erreichbar mit der lokalen Linie.",
+                "hu": "Helyi járattal elérhető.",
+                "ro": "Accesibil cu linia locală.",
+                "en": "Accessible with the local line."
+              }
+            },
+            {
+              "name": {
+                "de": "Lago de Arcos",
+                "hu": "Arcosi-tó",
+                "ro": "Lacul Arcos",
+                "en": "Arcos Lake"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie die Abfahrtszeiten zum Santiscal Viertel.",
+                "hu": "Ellenőrizd az indulási időket a Santiscal negyedbe.",
+                "ro": "Verificați orele de plecare spre cartierul Santiscal.",
+                "en": "Check departure times to the Santiscal district."
+              }
+            },
+            {
+              "name": {
+                "de": "Calle Cuna",
+                "hu": "Calle Cuna",
+                "ro": "Calle Cuna",
+                "en": "Calle Cuna"
+              },
+              "tip_5lang": {
+                "de": "Ein letzter Spaziergang vor der Abfahrt.",
+                "hu": "Egy utolsó séta indulás előtt.",
+                "ro": "O ultimă plimbare înainte de plecare.",
+                "en": "A last walk before departure."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Bar El Retiro",
+                "tip": "Authentische Tapas in der Nähe des Busbahnhofs."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Bar El Retiro",
+                "tip": "Autentikus tapasok a buszpályaudvar közelében."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Bar El Retiro",
+                "tip": "Tapas autentice lângă autogară."
+              }
+            ],
+            "en": [
+              {
+                "name": "Bar El Retiro",
+                "tip": "Authentic tapas near the bus station."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Paseo de la Constitución",
+                "tip": "Ein ruhiger Parkplatz im unteren Bereich.",
+                "emoji": "🌳"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Paseo de la Constitución",
+                "tip": "Egy csendes pihenőhely az alsó részben.",
+                "emoji": "🌳"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Paseo de la Constitución",
+                "tip": "Un loc de odihnă liniștit în partea de jos.",
+                "emoji": "🌳"
+              }
+            ],
+            "en": [
+              {
+                "name": "Paseo de la Constitución",
+                "tip": "A quiet rest spot in the lower area.",
+                "emoji": "🌳"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Marktplatz (Mercado)",
+                "tip": "Lokale Produkte und frische Lebensmittel."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Piac (Mercado)",
+                "tip": "Helyi termékek és friss élelmiszerek."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Piața (Mercado)",
+                "tip": "Produse locale și alimente proaspete."
+              }
+            ],
+            "en": [
+              {
+                "name": "Market (Mercado)",
+                "tip": "Local products and fresh food."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Kaufen Sie die Tickets direkt beim Busfahrer.",
+              "Der Minibus in die Altstadt ist die beste Wahl für Fußfaule.",
+              "Prüfen Sie die Fahrpläne am Wochenende.",
+              "Die Haltestellen sind gut ausgeschildert."
+            ],
+            "hu": [
+              "Vásárold meg a jegyeket közvetlenül a buszvezetőnél.",
+              "Az óvárosi minibusz a legjobb választás, ha nem akarsz gyalogolni.",
+              "Ellenőrizd a menetrendet hétvégén.",
+              "A megállók jól ki vannak táblázva."
+            ],
+            "ro": [
+              "Cumpărați biletele direct de la șoferul de autobuz.",
+              "Minibuzul spre centrul vechi este cea mai bună alegere pentru a evita mersul pe jos.",
+              "Verificați orarul în weekend.",
+              "Stațiile sunt bine semnalizate."
+            ],
+            "en": [
+              "Buy your tickets directly from the bus driver.",
+              "The old town minibus is the best choice for those who don't want to walk.",
+              "Check the schedules on weekends.",
+              "The stops are well signposted."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir starten an der Busstation im Trockenen. Mittags nutzen wir den Bus zur Plaza del Cabildo, um den steilen Aufstieg im Regen zu vermeiden. Nachmittags bringt uns der Nahverkehr bequem zum See und zurück. Abends schützt die Calle Cuna mit ihren Geschäften vor den letzten Tropfen.",
+            "hu": "A buszpályaudvar fedett részén kezdünk. Délben busszal megyünk a Plaza del Cabildo-ra, elkerülve az esőben való meredek kaptatót. Délután a tömegközlekedés kényelmesen kivisz a tóhoz. Este a Calle Cuna üzletei között bújunk el az utolsó cseppek elől.",
+            "ro": "Începem la autogară, la adăpost. La prânz folosim autobuzul spre Plaza del Cabildo pentru a evita urcușul pe ploaie. După-amiaza, transportul local ne duce confortabil la lac. Seara, Calle Cuna ne protejează de ultimele picături cu magazinele sale.",
+            "en": "Start at the bus station under cover. At noon, take the bus to Plaza del Cabildo to avoid the steep climb in the rain. Local transit takes you comfortably to the lake in the afternoon. In the evening, Calle Cuna's shops provide shelter from the last drops."
+          },
+          "stops": [
+            {
+              "name": "Arcos Bus Station",
+              "tip_5lang": {
+                "de": "Warten Sie im Gebäude auf den nächsten Bus.",
+                "hu": "Várjon az épületben a következő buszra.",
+                "ro": "Așteptați în clădire următorul autobuz.",
+                "en": "Wait inside the building for the next bus."
+              }
+            },
+            {
+              "name": "Plaza del Cabildo",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle ist nur wenige Schritte von den Arkaden entfernt.",
+                "hu": "A buszmegálló csak pár lépésre van az árkádoktól.",
+                "ro": "Stația de autobuz este la doar câțiva pași de arcade.",
+                "en": "The bus stop is just a few steps from the arches."
+              }
+            },
+            {
+              "name": "Church of San Pedro",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Abfahrtszeiten online im Trockenen.",
+                "hu": "Ellenőrizze a menetrendet online a szárazon.",
+                "ro": "Verificați programul online în timp ce sunteți la adăpost.",
+                "en": "Check the schedule online while staying dry."
+              }
+            },
+            {
+              "name": "Arcos Lake",
+              "tip_5lang": {
+                "de": "Warten Sie unter dem Unterstand an der Haltestelle.",
+                "hu": "Várjon a megálló fedett részén.",
+                "ro": "Așteptați sub copertina din stație.",
+                "en": "Wait under the shelter at the bus stop."
+              }
+            },
+            {
+              "name": "Calle Cuna",
+              "tip_5lang": {
+                "de": "Gute Anbindung an die Buslinie zurück zur Station.",
+                "hu": "Jó buszkapcsolat vissza a pályaudvarra.",
+                "ro": "Conexiune bună de autobuz înapoi spre autogară.",
+                "en": "Good bus connection back to the station."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die lokalen Busse sind die beste Option, um trocken nach oben zu kommen.",
+              "Haben Sie Kleingeld für das Ticket bereit, um Verzögerungen zu vermeiden.",
+              "Die Haltestellen bieten oft nur wenig Schutz vor starkem Wind.",
+              "Nutzen Sie die App für Echtzeit-Infos zu Verspätungen bei Regen."
+            ],
+            "hu": [
+              "A helyi buszok a legjobb opciók a száraz feljutáshoz.",
+              "Legyen aprópénze a jegyhez a késlekedés elkerülésére.",
+              "A megállók gyakran kevés védelmet nyújtanak az erős szél ellen.",
+              "Használja az appot a valós idejű infókhoz esőben."
+            ],
+            "ro": [
+              "Autobuzele locale sunt cea mai bună opțiune pentru a ajunge sus uscat.",
+              "Aveți mărunțiș pregătit pentru bilet pentru a evita întârzierile.",
+              "Stațiile oferă adesea puțină protecție împotriva vântului puternic.",
+              "Folosiți aplicația pentru informații în timp real despre întârzieri."
+            ],
+            "en": [
+              "Local buses are the best option to get uphill while staying dry.",
+              "Have small change ready for the ticket to avoid delays.",
+              "Bus stops often offer limited protection from strong winds.",
+              "Use the app for real-time info on rain-related delays."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens nutzen wir den Bus für den ersten Weg zur Plaza del Cabildo. Mittags ist die Fahrt zum See eine gute Gelegenheit, sich aufzuwärmen. Nachmittags kehren wir ins historische Zentrum zurück. Abends beenden wir die Tour an der Calle Cuna, wo die Beleuchtung im Winter besonders gemütlich wirkt.",
+            "hu": "Reggel busszal tesszük meg az első utat a Plaza del Cabildo felé. Délben a tóhoz vezető út jó alkalom a felmelegedésre. Délután visszatérünk a történelmi központba. Este a Calle Cuna-nál fejezzük be a túrát, ahol a téli kivilágítás különösen hangulatos.",
+            "ro": "Dimineața folosim autobuzul pentru prima parte a drumului spre Plaza del Cabildo. La prânz, drumul spre lac este o ocazie bună de încălzire. După-amiaza revenim în centrul istoric. Seara încheiem turul la Calle Cuna, unde iluminatul de iarnă este primitor.",
+            "en": "In the morning, use the bus for the first leg to Plaza del Cabildo. At noon, the ride to the lake is a good chance to warm up. Return to the historic center in the afternoon. End the tour at Calle Cuna, where the winter lighting feels especially cozy."
+          },
+          "stops": [
+            {
+              "name": "Arcos Bus Station",
+              "tip_5lang": {
+                "de": "Beheizter Warteraum vorhanden.",
+                "hu": "Fűtött váróterem áll rendelkezésre.",
+                "ro": "Sală de așteptare încălzită disponibilă.",
+                "en": "Heated waiting room available."
+              }
+            },
+            {
+              "name": "Plaza del Cabildo",
+              "tip_5lang": {
+                "de": "Der Bus hält direkt im sonnigen Teil des Plateaus.",
+                "hu": "A busz közvetlenül a fennsík napos részén áll meg.",
+                "ro": "Autobuzul oprește direct în partea însorită a platoului.",
+                "en": "The bus stops directly in the sunny part of the plateau."
+              }
+            },
+            {
+              "name": "Church of San Pedro",
+              "tip_5lang": {
+                "de": "Kurze Wege zwischen den Haltestellen im Zentrum.",
+                "hu": "Rövid távolságok a központi megállók között.",
+                "ro": "Distanțe scurte între stațiile din centru.",
+                "en": "Short distances between central stops."
+              }
+            },
+            {
+              "name": "Arcos Lake",
+              "tip_5lang": {
+                "de": "Achten Sie auf den selteneren Winterfahrplan zum See.",
+                "hu": "Figyeljen a ritkább téli menetrendre a tó felé.",
+                "ro": "Atenție la programul de iarnă mai rar spre lac.",
+                "en": "Watch out for the less frequent winter schedule to the lake."
+              }
+            },
+            {
+              "name": "Calle Cuna",
+              "tip_5lang": {
+                "de": "Letzter Bus zurück meist gegen 20:00 Uhr.",
+                "hu": "Az utolsó busz visszafelé általában 20:00 körül indul.",
+                "ro": "Ultimul autobuz înapoi pleacă de obicei în jur de ora 20:00.",
+                "en": "The last bus back usually leaves around 20:00."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "In den Bussen ist es angenehm warm.",
+              "Prüfen Sie den Fahrplan für die Abendstunden genau.",
+              "Die Busstation ist ein guter Ort, um sich zwischen den Fahrten aufzuwärmen.",
+              "Winterfahrpläne können sich von den Sommerzeiten unterscheiden."
+            ],
+            "hu": [
+              "A buszokban kellemesen meleg van.",
+              "Pontosan ellenőrizze az esti menetrendet.",
+              "A pályaudvar jó hely a felmelegedésre két járat között.",
+              "A téli menetrend eltérhet a nyáritól."
+            ],
+            "ro": [
+              "În autobuze este plăcut și cald.",
+              "Verificați cu atenție programul de seară.",
+              "Autogara este un loc bun pentru încălzire între curse.",
+              "Orarele de iarnă pot diferi de cele de vară."
+            ],
+            "en": [
+              "It is pleasantly warm inside the buses.",
+              "Check the evening schedule carefully.",
+              "The bus station is a good place to warm up between trips.",
+              "Winter schedules may differ from summer times."
+            ]
+          }
+        }
+      }
+    }
+  },
+  "external_resources": {
+    "tourism_office": "https://www.turismoarcos.es/",
+    "transit_official": "https://www.tgcomes.es/",
+    "events": "https://www.ayuntamientoarcos.org/agenda",
+    "webcam": "https://www.windy.com/36.751/-5.806",
+    "language_tips": {
+      "de": "Arcos ist 'Pueblo Blanco'-Klassiker, Spanisch dominiert. 'Mirador' (Aussichtspunkt) und 'tajo' (Felsabbruch) sind hier Schlüsselworte. 'Cola de toro' (Ochsenschwanz) ist Spezialität – nicht von der Übersetzung erschrecken lassen.",
+      "hu": "Arcos klasszikus 'Pueblo Blanco', a spanyol uralkodik. A 'mirador' (kilátó) és 'tajo' (sziklaperem) kulcsszavak. A 'cola de toro' (ökörfarok) a specialitás, ne ijedj meg a fordítástól, isteni.",
+      "ro": "Arcos e clasic 'Pueblo Blanco', spaniola domină. 'Mirador' și 'tajo' (margine de stâncă) sunt cuvinte cheie. 'Cola de toro' (coadă de vită) e specialitatea – nu te speria de traducere.",
+      "en": "Arcos is a classic 'pueblo blanco', Spanish-led. 'Mirador' (viewpoint) and 'tajo' (cliff edge) are key. 'Cola de toro' (oxtail) is the local speciality – don't let the translation scare you off."
+    },
+    "best_time_to_visit": {
+      "de": "März bis Mai für blühende Sierras und milde Temperaturen. September und Oktober nach der Sommerhitze. Karwoche besonders intensiv mit nächtlichen Prozessionen durch die Altstadt.",
+      "hu": "Március-május virágzó Sierrákkal és kellemes idővel. Szeptember-október a nyári hőség után. A Semana Santa különösen intenzív, éjszakai körmenetek a szűk utcákban.",
+      "ro": "Martie-mai pentru sierre înflorite și temperaturi blânde. Septembrie-octombrie după arșița verii. Săptămâna Mare e foarte intensă, procesiuni nocturne pe străduțele înguste.",
+      "en": "March–May for blooming sierras and mild weather. September–October after the summer heat. Holy Week is intense with night-time processions through the narrow lanes."
+    },
+    "neighborhood_warnings": {
+      "de": "Sehr sicher. Gassen extrem schmal und steil, mit Auto nicht in die Altstadt – Parkplätze unten ausgeschildert. Vorsicht am Tajo-Aussichtspunkt, Geländer niedrig. Nachts wenig Licht, Taschenlampe für Steingassen hilfreich.",
+      "hu": "Nagyon biztonságos. Az utcák extrém szűkek és meredekek, autóval be ne hajts az óvárosba, parkolók lent kitáblázva. A Tajo kilátónál a korlát alacsony, vigyázz. Éjjel kevés a fény, zseblámpa jól jön a köveken.",
+      "ro": "Foarte sigur. Străzile sunt extrem de înguste și abrupte, nu intra cu mașina în centrul vechi – parcări jos. La belvedere Tajo balustradele sunt joase, atenție. Noaptea iluminat slab, ia lanternă pentru pavaj.",
+      "en": "Very safe. Lanes are extremely narrow and steep – don't drive into the old town, lots are signed below. The Tajo viewpoint has low railings, mind your footing. Streets are dim at night – a torch helps on the stones."
+    }
+  }
+}

@@ -1,0 +1,2246 @@
+{
+  "city_id": "competa",
+  "anchor": {
+    "name": "Cómpeta",
+    "coords": [
+      -3.9667,
+      36.8333
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 2.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Plaza Almijara",
+          "coords": [
+            -3.9665,
+            36.8335
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Das pulsierende Herz des Dorfes.",
+            "hu": "A falu lüktető szíve.",
+            "ro": "Inima vibrantă a satului.",
+            "en": "The pulsating heart of the village."
+          }
+        },
+        {
+          "name": "Kirche La Asunción",
+          "coords": [
+            -3.9662,
+            36.8332
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie den ockerfarbenen Mudejar-Turm.",
+            "hu": "Csodálja meg az okkersárga mudejár tornyot.",
+            "ro": "Admirați turnul mudejar de culoare ocru.",
+            "en": "Admire the ochre-colored Mudejar tower."
+          }
+        },
+        {
+          "name": "Paseo de las Tradiciones",
+          "coords": [
+            -3.9675,
+            36.834
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "11:20",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Wandbilder aus Keramik zeigen die Geschichte.",
+            "hu": "Kerámia falképek mutatják be a helyi történelmet.",
+            "ro": "Mozaicuri ceramice care prezintă istoria.",
+            "en": "Ceramic murals depicting local history."
+          }
+        },
+        {
+          "name": "Casas Colgantes",
+          "coords": [
+            -3.968,
+            36.8345
+          ],
+          "category": "famous residences",
+          "arrive_at": "12:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Häuser, die über dem Abgrund zu schweben scheinen.",
+            "hu": "Házak, amelyek a szakadék felett lebegni látszanak.",
+            "ro": "Case care par să plutească deasupra abisului.",
+            "en": "Houses that seem to float over the abyss."
+          }
+        },
+        {
+          "name": "Museo de Artes Populares",
+          "coords": [
+            -3.967,
+            36.833
+          ],
+          "category": "museums",
+          "arrive_at": "14:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 105,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Einblick in das ländliche Leben der Axarquía.",
+            "hu": "Bepillantás az Axarquía vidéki életébe.",
+            "ro": "Incursiune în viața rurală din Axarquía.",
+            "en": "Insight into the rural life of Axarquía."
+          }
+        },
+        {
+          "name": "Mirador de San Antón",
+          "coords": [
+            -3.965,
+            36.8325
+          ],
+          "category": "natural features",
+          "arrive_at": "16:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Herrlicher Blick auf das Mittelmeer in der Ferne.",
+            "hu": "Pazar kilátás a távolban lévő Földközi-tengerre.",
+            "ro": "Vedere superbă spre Marea Mediterană în depărtare.",
+            "en": "Splendid view of the Mediterranean in the distance."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Cómpeta, das 'Dorf des Weines', erkunden Sie am besten zu Fuß. Starten Sie am Plaza Almijara, dem gesellschaftlichen Mittelpunkt. Besichtigen Sie die majestätische Kirche und folgen Sie dem Paseo de las Tradiciones zu den hängenden Häusern. Nach dem Museumsbesuch beenden Sie den Tag am Mirador San Antón mit einem weiten Blick über die Berge bis zum Meer.",
+        "hu": "Cómpetát, a 'bor faluját' a legjobb gyalog felfedezni. Kezdjen a Plaza Almijara téren, a közösségi élet központjában. Nézze meg a fenséges templomot, majd kövesse a Hagyományok Sétányát a függő házakig. A múzeumlátogatás után zárja a napot a San Antón kilátónál, ahonnan ellátni egészen a tengerig.",
+        "ro": "Cómpeta, 'satul vinului', este cel mai bine explorat la pas. Începeți în Plaza Almijara, centrul social. Vizitați biserica maiestuoasă și urmați Paseo de las Tradiciones până la casele suspendate. După muzeu, încheiați ziua la Mirador San Antón, cu o priveliște largă peste munți până la mare.",
+        "en": "Cómpeta, the 'village of wine', is best explored on foot. Start at Plaza Almijara, the social hub. Visit the majestic church and follow the Paseo de las Tradiciones to the hanging houses. After the museum visit, end the day at Mirador San Antón with a wide view over the mountains to the sea."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Vino de Cómpeta",
+            "tip": "Probieren Sie den berühmten süßen Moscatel-Wein."
+          },
+          {
+            "name": "Migas",
+            "tip": "Traditionelles Bauerngericht aus Brot oder Mehl."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vino de Cómpeta",
+            "tip": "Kóstolja meg a híres édes Moscatel bort."
+          },
+          {
+            "name": "Migas",
+            "tip": "Hagyományos paraszti étel kenyérből vagy lisztből."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vino de Cómpeta",
+            "tip": "Gustați faimosul vin dulce Moscatel."
+          },
+          {
+            "name": "Migas",
+            "tip": "Mâncare tradițională din pâine sau făină."
+          }
+        ],
+        "en": [
+          {
+            "name": "Vino de Cómpeta",
+            "tip": "Try the famous sweet Moscatel wine."
+          },
+          {
+            "name": "Migas",
+            "tip": "Traditional peasant dish made from bread or flour."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Plaza de la Vendimia",
+            "tip": "Ein ruhiger Platz abseits des Haupttrubels.",
+            "emoji": "🍇"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Plaza de la Vendimia",
+            "tip": "Csendes tér a fő nyüzsgéstől távol.",
+            "emoji": "🍇"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plaza de la Vendimia",
+            "tip": "O piață liniștită departe de agitație.",
+            "emoji": "🍇"
+          }
+        ],
+        "en": [
+          {
+            "name": "Plaza de la Vendimia",
+            "tip": "A quiet square away from the main bustle.",
+            "emoji": "🍇"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bodegas Almijara",
+            "tip": "Kaufen Sie lokalen Wein direkt vom Erzeuger."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bodegas Almijara",
+            "tip": "Vegyen helyi bort közvetlenül a termelőtől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bodegas Almijara",
+            "tip": "Cumpărați vin local direct de la producător."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bodegas Almijara",
+            "tip": "Buy local wine directly from the producer."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Gelände ist steil, planen Sie Pausen ein.",
+          "Probieren Sie die lokalen Mandeln."
+        ],
+        "hu": [
+          "A terep meredek, iktasson be pihenőket.",
+          "Kóstolja meg a helyi mandulát."
+        ],
+        "ro": [
+          "Terenul este abrupt, planificați pauze.",
+          "Gustați migdalele locale."
+        ],
+        "en": [
+          "The terrain is steep, plan for breaks.",
+          "Try the local almonds."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Cómpeta, das 'Dorf des Weines', erkunden Sie am besten zu Fuß. Starten Sie am Plaza Almijara, dem gesellschaftlichen Mittelpunkt. Besichtigen Sie die majestätische Kirche und folgen Sie dem Paseo de las Tradiciones zu den hängenden Häusern. Nach dem Museumsbesuch beenden Sie den Tag am Mirador San Antón mit einem weiten Blick über die Berge bis zum Meer.",
+            "hu": "Cómpetát, a 'bor faluját' a legjobb gyalog felfedezni. Kezdjen a Plaza Almijara téren, a közösségi élet központjában. Nézze meg a fenséges templomot, majd kövesse a Hagyományok Sétányát a függő házakig. A múzeumlátogatás után zárja a napot a San Antón kilátónál, ahonnan ellátni egészen a tengerig.",
+            "ro": "Cómpeta, 'satul vinului', este cel mai bine explorat la pas. Începeți în Plaza Almijara, centrul social. Vizitați biserica maiestuoasă și urmați Paseo de las Tradiciones până la casele suspendate. După muzeu, încheiați ziua la Mirador San Antón, cu o priveliște largă peste munți până la mare.",
+            "en": "Cómpeta, the 'village of wine', is best explored on foot. Start at Plaza Almijara, the social hub. Visit the majestic church and follow the Paseo de las Tradiciones to the hanging houses. After the museum visit, end the day at Mirador San Antón with a wide view over the mountains to the sea."
+          },
+          "stops": [
+            {
+              "name": "Plaza Almijara",
+              "tip_5lang": {
+                "de": "Das pulsierende Herz des Dorfes.",
+                "hu": "A falu lüktető szíve.",
+                "ro": "Inima vibrantă a satului.",
+                "en": "The pulsating heart of the village."
+              }
+            },
+            {
+              "name": "Kirche La Asunción",
+              "tip_5lang": {
+                "de": "Bewundern Sie den ockerfarbenen Mudejar-Turm.",
+                "hu": "Csodálja meg az okkersárga mudejár tornyot.",
+                "ro": "Admirați turnul mudejar de culoare ocru.",
+                "en": "Admire the ochre-colored Mudejar tower."
+              }
+            },
+            {
+              "name": "Paseo de las Tradiciones",
+              "tip_5lang": {
+                "de": "Wandbilder aus Keramik zeigen die Geschichte.",
+                "hu": "Kerámia falképek mutatják be a helyi történelmet.",
+                "ro": "Mozaicuri ceramice care prezintă istoria.",
+                "en": "Ceramic murals depicting local history."
+              }
+            },
+            {
+              "name": "Casas Colgantes",
+              "tip_5lang": {
+                "de": "Häuser, die über dem Abgrund zu schweben scheinen.",
+                "hu": "Házak, amelyek a szakadék felett lebegni látszanak.",
+                "ro": "Case care par să plutească deasupra abisului.",
+                "en": "Houses that seem to float over the abyss."
+              }
+            },
+            {
+              "name": "Museo de Artes Populares",
+              "tip_5lang": {
+                "de": "Einblick in das ländliche Leben der Axarquía.",
+                "hu": "Bepillantás az Axarquía vidéki életébe.",
+                "ro": "Incursiune în viața rurală din Axarquía.",
+                "en": "Insight into the rural life of Axarquía."
+              }
+            },
+            {
+              "name": "Mirador de San Antón",
+              "tip_5lang": {
+                "de": "Herrlicher Blick auf das Mittelmeer in der Ferne.",
+                "hu": "Pazar kilátás a távolban lévő Földközi-tengerre.",
+                "ro": "Vedere superbă spre Marea Mediterană în depărtare.",
+                "en": "Splendid view of the Mediterranean in the distance."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Vino de Cómpeta",
+                "tip": "Probieren Sie den berühmten süßen Moscatel-Wein."
+              },
+              {
+                "name": "Migas",
+                "tip": "Traditionelles Bauerngericht aus Brot oder Mehl."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Vino de Cómpeta",
+                "tip": "Kóstolja meg a híres édes Moscatel bort."
+              },
+              {
+                "name": "Migas",
+                "tip": "Hagyományos paraszti étel kenyérből vagy lisztből."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Vino de Cómpeta",
+                "tip": "Gustați faimosul vin dulce Moscatel."
+              },
+              {
+                "name": "Migas",
+                "tip": "Mâncare tradițională din pâine sau făină."
+              }
+            ],
+            "en": [
+              {
+                "name": "Vino de Cómpeta",
+                "tip": "Try the famous sweet Moscatel wine."
+              },
+              {
+                "name": "Migas",
+                "tip": "Traditional peasant dish made from bread or flour."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Plaza de la Vendimia",
+                "tip": "Ein ruhiger Platz abseits des Haupttrubels.",
+                "emoji": "🍇"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Plaza de la Vendimia",
+                "tip": "Csendes tér a fő nyüzsgéstől távol.",
+                "emoji": "🍇"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Plaza de la Vendimia",
+                "tip": "O piață liniștită departe de agitație.",
+                "emoji": "🍇"
+              }
+            ],
+            "en": [
+              {
+                "name": "Plaza de la Vendimia",
+                "tip": "A quiet square away from the main bustle.",
+                "emoji": "🍇"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Bodegas Almijara",
+                "tip": "Kaufen Sie lokalen Wein direkt vom Erzeuger."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Bodegas Almijara",
+                "tip": "Vegyen helyi bort közvetlenül a termelőtől."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Bodegas Almijara",
+                "tip": "Cumpărați vin local direct de la producător."
+              }
+            ],
+            "en": [
+              {
+                "name": "Bodegas Almijara",
+                "tip": "Buy local wine directly from the producer."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Das Gelände ist steil, planen Sie Pausen ein.",
+              "Probieren Sie die lokalen Mandeln."
+            ],
+            "hu": [
+              "A terep meredek, iktasson be pihenőket.",
+              "Kóstolja meg a helyi mandulát."
+            ],
+            "ro": [
+              "Terenul este abrupt, planificați pauze.",
+              "Gustați migdalele locale."
+            ],
+            "en": [
+              "The terrain is steep, plan for breaks.",
+              "Try the local almonds."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt auf der Plaza Almijara, wo die nassen Pflastersteine den Glanz der weißen Häuser reflektieren. Ein Schirm ist in den engen Gassen unerlässlich. Mittags bietet die Kirche La Asunción einen trockenen und spirituellen Rückzugsort vor den Schauern der Sierra. Am Nachmittag flüchten wir ins Museo de Artes Populares, um tief in die lokale Geschichte einzutauchen, während draußen der Regen trommelt. Der Abend endet gemütlich in einer der Bars am Platz, wo der schwere Duft des Regens mit dem Aroma von Cómpeta-Wein verschmilzt.",
+            "hu": "A reggel a Plaza Almijara téren indul, ahol a nedves macskakövek tükrözik a fehér házak fényét. Az esernyő elengedhetetlen a szűk utcákban. Délben a La Asunción templom nyújt száraz és spirituális menedéket a Sierrából érkező záporok elől. Délután a Néprajzi Múzeumba menekülünk, hogy elmerüljünk a helyi történelemben, miközben kint dobol az eső. Az este hangulatosan ér véget a főtér egyik bárjában, ahol az eső illata keveredik a híres Cómpeta bor aromájával.",
+            "ro": "Dimineața începe în Plaza Almijara, unde pietrele umede reflectă strălucirea caselor albe. O umbrelă este esențială pe străzile înguste. La prânz, Biserica La Asunción oferă un refugiu uscat și spiritual în fața ploilor din Sierra. După-amiaza ne adăpostim în Muzeul de Arte Populare pentru a explora istoria locală, în timp ce afară ploaia bate în geamuri. Seara se încheie confortabil într-unul dintre barurile din piață, unde mirosul ploii se împletește cu aroma vinului de Cómpeta.",
+            "en": "The morning starts at Plaza Almijara, where the wet cobblestones reflect the glow of the white houses. An umbrella is essential in the narrow streets. At noon, the Church of La Asunción provides a dry and spiritual retreat from the showers rolling in from the Sierra. In the afternoon, we take refuge in the Museum of Popular Arts to dive into local history while the rain drums outside. The evening ends cozily in one of the bars on the square, where the scent of rain mingles with the aroma of Cómpeta wine."
+          },
+          "stops": [
+            {
+              "name": "Plaza Almijara",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem glatten Marmor des Platzes.",
+                "hu": "Vigyázat, a tér márványburkolata esőben csúszik.",
+                "ro": "Atenție la marmura alunecoasă din piață.",
+                "en": "Watch out for the slippery marble on the square."
+              }
+            },
+            {
+              "name": "Kirche La Asunción",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um einen starken Schauer abzuwarten.",
+                "hu": "Tökéletes hely egy nagyobb zápor kivárására.",
+                "ro": "Locul perfect pentru a aștepta trecerea unei averse.",
+                "en": "Perfect place to wait out a heavy downpour."
+              }
+            },
+            {
+              "name": "Paseo de las Tradiciones",
+              "tip_5lang": {
+                "de": "Die Mosaike leuchten im Regen besonders intensiv.",
+                "hu": "A mozaikok esőben még élénkebb színekben pompáznak.",
+                "ro": "Mozaicurile strălucesc intens în lumina ploii.",
+                "en": "The mosaics glow intensely in the rain."
+              }
+            },
+            {
+              "name": "Casas Colgantes",
+              "tip_5lang": {
+                "de": "Blick auf den rauschenden Fluss im Tal unter den Häusern.",
+                "hu": "Nézze meg a megáradt patakot a függőházak alatt.",
+                "ro": "Admirați pârâul umflat de sub casele suspendate.",
+                "en": "View the rushing stream in the valley below the houses."
+              }
+            },
+            {
+              "name": "Museo de Artes Populares",
+              "tip_5lang": {
+                "de": "Hinter den dicken Mauern ist es trocken und warm.",
+                "hu": "A vastag falak mögött szárazság és meleg várja.",
+                "ro": "În spatele zidurilor groase este cald și uscat.",
+                "en": "It is dry and warm behind the thick walls."
+              }
+            },
+            {
+              "name": "Mirador de San Antón",
+              "tip_5lang": {
+                "de": "Dramatische Wolkenformationen über der Sierra Tejeda.",
+                "hu": "Dramatikus felhőjáték a Sierra Tejeda felett.",
+                "ro": "Formațiuni de nori dramatice peste Sierra Tejeda.",
+                "en": "Dramatic cloud formations over the Sierra Tejeda."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Schuhe mit gutem Profil, da das Kopfsteinpflaster extrem rutschig wird.",
+              "Nutzen Sie die Arkaden am Hauptplatz als natürlichen Regenschutz.",
+              "Die Cafés in Cómpeta sind ideal für längere Pausen bei schlechtem Wetter.",
+              "In den engen Gassen bietet die Architektur oft Schutz vor seitlichem Wind.",
+              "Planen Sie mehr Zeit für die Innenbesichtigungen der Museen und Kirchen ein."
+            ],
+            "hu": [
+              "Viseljen jó tapadású cipőt, mert a macskakő rendkívül csúszóssá válik.",
+              "Használja a főtér árkádjait természetes esővédőként.",
+              "Cómpeta kávézói ideálisak hosszabb pihenőkre rossz idő esetén.",
+              "A szűk utcákban az építészet gyakran védelmet nyújt az oldalszél ellen.",
+              "Tervezzen több időt a múzeumok és templomok belső megtekintésére."
+            ],
+            "ro": [
+              "Purtați încălțăminte cu aderență bună, deoarece pavajul devine extrem de alunecos.",
+              "Folosiți arcadele din piața principală ca protecție naturală împotriva ploii.",
+              "Cafenelele din Cómpeta sunt ideale pentru pauze lungi pe vreme rea.",
+              "Pe străzile înguste, arhitectura oferă adesea protecție împotriva vântului lateral.",
+              "Alocați mai mult timp pentru vizitarea muzeelor și bisericilor."
+            ],
+            "en": [
+              "Wear shoes with good grip as the cobblestones become extremely slippery.",
+              "Use the arcades in the main square as natural rain shelter.",
+              "The cafes in Cómpeta are ideal for longer breaks during bad weather.",
+              "In the narrow streets, the architecture often provides shelter from side winds.",
+              "Plan more time for indoor visits to museums and churches."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die klare Winterluft am Morgen lässt die weißen Fassaden von Cómpeta fast blenden. Ein Pullover ist im Schatten der Gassen nötig. Mittags wärmt die tieferstehende Sonne den Hauptplatz, perfekt für Tapas im Freien. Nachmittags wandern wir zu den Casas Colgantes, während das goldene Licht die Felsen in warme Farben taucht. Bereits um 17:30 Uhr versinkt die Sonne hinter den Bergen und hinterlässt einen spektakulären, kühlen Sternenhimmel über dem Dorf.",
+            "hu": "A tiszta téli reggeli levegőben Cómpeta fehér homlokzatai szinte vakítanak. Az árnyékos utcákban elkél a pulóver. Délben az alacsonyan járó nap felmelegíti a főteret, ami tökéletes egy szabadtéri tapasozáshoz. Délután a függőházakhoz sétálunk, miközben az aranyló fény meleg színekbe öltözteti a sziklákat. Már délután fél hatkor a hegyek mögé bukik a nap, látványos, de hűvös csillagos eget hagyva maga után.",
+            "ro": "Aerul curat de iarnă face ca fațadele albe din Cómpeta să fie aproape orbitoare. Un pulover este necesar la umbra străzilor. La prânz, soarele blând încălzește piața principală, fiind perfect pentru tapas în aer liber. După-amiaza ne plimbăm spre casele suspendate, în timp ce lumina aurie scaldă stâncile în culori calde. Deja la ora 17:30, soarele apune după munți, lăsând în urmă un cer înstelat spectaculos și răcoros.",
+            "en": "The crisp winter air in the morning makes Cómpeta's white facades almost dazzling. A sweater is needed in the shaded alleys. At noon, the low sun warms the main square, perfect for enjoying tapas outdoors. In the afternoon, we walk to the Casas Colgantes as the golden light bathes the cliffs in warm hues. By 5:30 PM, the sun sinks behind the mountains, leaving a spectacular but chilly starry sky over the village."
+          },
+          "stops": [
+            {
+              "name": "Plaza Almijara",
+              "tip_5lang": {
+                "de": "Suchen Sie sich einen Platz in der direkten Sonne.",
+                "hu": "Keressen egy asztalt közvetlenül a napsütésben.",
+                "ro": "Căutați o masă direct în bătaia soarelui.",
+                "en": "Find a seat directly in the sun."
+              }
+            },
+            {
+              "name": "Kirche La Asunción",
+              "tip_5lang": {
+                "de": "Im Inneren ist es oft kühler als draußen in der Sonne.",
+                "hu": "Odabent gyakran hűvösebb van, mint kint a napon.",
+                "ro": "În interior este adesea mai răcoare decât afară la soare.",
+                "en": "It is often cooler inside than outside in the sun."
+              }
+            },
+            {
+              "name": "Paseo de las Tradiciones",
+              "tip_5lang": {
+                "de": "Die Wintersonne beleuchtet die Mosaike ohne Blendung.",
+                "hu": "A téli nap vakítás nélkül világítja meg a mozaikokat.",
+                "ro": "Soarele de iarnă luminează mozaicurile fără a orbi.",
+                "en": "The winter sun illuminates the mosaics without glare."
+              }
+            },
+            {
+              "name": "Casas Colgantes",
+              "tip_5lang": {
+                "de": "Beste Zeit für Fotos ist das goldene Licht um 16:00 Uhr.",
+                "hu": "A fotózáshoz a legjobb az aranyló fény 16:00 körül.",
+                "ro": "Cel mai bun moment pentru poze este lumina aurie de la 16:00.",
+                "en": "Best time for photos is the golden light around 4:00 PM."
+              }
+            },
+            {
+              "name": "Museo de Artes Populares",
+              "tip_5lang": {
+                "de": "Ein guter Ort, um sich kurz aufzuwärmen.",
+                "hu": "Jó hely egy rövid felmelegedésre.",
+                "ro": "Un loc bun pentru a vă încălzi puțin.",
+                "en": "A good place to warm up for a bit."
+              }
+            },
+            {
+              "name": "Mirador de San Antón",
+              "tip_5lang": {
+                "de": "Warm anziehen für den Sonnenuntergang, es wird schnell kalt.",
+                "hu": "Öltözzön fel melegen a naplementéhez, gyorsan lehűl.",
+                "ro": "Îmbrăcați-vă bine pentru apus, se răcește rapid.",
+                "en": "Dress warmly for the sunset; it gets cold quickly."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Mittagsstunden für Outdoor-Aktivitäten, wenn es am wärmsten ist.",
+              "Zwiebelprinzip bei der Kleidung: Schatten ist kühl, Sonne ist warm.",
+              "Der Sonnenuntergang ist im Winter besonders farbenprächtig.",
+              "Achten Sie auf die kürzeren Öffnungszeiten mancher kleiner Geschäfte.",
+              "Probieren Sie den lokalen Vino Dulce, der im Winter besonders gut wärmt."
+            ],
+            "hu": [
+              "Használja ki a déli órákat a szabadtéri programokra, ekkor a legmelegebb.",
+              "Réteges öltözködés: az árnyék hűvös, a nap meleg.",
+              "A naplemente télen különösen színpompás a tiszta levegő miatt.",
+              "Ügyeljen egyes kisboltok rövidebb téli nyitvatartására.",
+              "Kóstolja meg a helyi édes bort, ami télen kiválóan melegít."
+            ],
+            "ro": [
+              "Folosiți orele prânzului pentru activități în aer liber, când este cel mai cald.",
+              "Îmbrăcăminte în straturi: la umbră este răcoare, la soare este cald.",
+              "Apusul este deosebit de colorat iarna datorită aerului curat.",
+              "Atenție la programul redus de iarnă al unor magazine mici.",
+              "Încercați vinul dulce local, care încălzește excelent iarna."
+            ],
+            "en": [
+              "Use the midday hours for outdoor activities when it is warmest.",
+              "Layer your clothing: shade is cool, sun is warm.",
+              "The sunset is particularly colorful in winter due to the clear air.",
+              "Watch out for shorter winter opening hours of some small shops.",
+              "Try the local sweet wine, which warms you up nicely in winter."
+            ]
+          }
+        }
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "15:00",
+      "total_km": 5.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Plaza Almijara",
+          "coords": [
+            -3.9665,
+            36.8335
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Frühstück am Platz vor der Tour.",
+            "hu": "Reggeli a téren a túra előtt.",
+            "ro": "Micul dejun în piață înainte de tur.",
+            "en": "Breakfast at the square before the tour."
+          }
+        },
+        {
+          "name": "Ermita de San Sebastián",
+          "coords": [
+            -3.9695,
+            36.832
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Schöne Kapelle in einer ruhigen Gegend.",
+            "hu": "Szép kápolna egy csendes környéken.",
+            "ro": "Capelă frumoasă într-o zonă liniștită.",
+            "en": "Beautiful chapel in a quiet area."
+          }
+        },
+        {
+          "name": "Plaza de la Vendimia",
+          "coords": [
+            -3.9675,
+            36.8315
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Ort des berühmten Weinfestes im August.",
+            "hu": "Az augusztusi híres borfesztivál helyszíne.",
+            "ro": "Locul celebrului festival al vinului din august.",
+            "en": "Site of the famous wine festival in August."
+          }
+        },
+        {
+          "name": "Bodegas Almijara",
+          "coords": [
+            -3.9705,
+            36.835
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "12:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Besichtigung der Weinherstellung.",
+            "hu": "A borkészítés folyamatának megtekintése.",
+            "ro": "Vizitarea procesului de producție a vinului.",
+            "en": "Tour of the wine-making process."
+          }
+        },
+        {
+          "name": "Mirador de San Antón",
+          "coords": [
+            -3.965,
+            36.8325
+          ],
+          "category": "natural features",
+          "arrive_at": "13:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Letzter Anstieg für die beste Aussicht.",
+            "hu": "Utolsó emelkedő a legjobb kilátásért.",
+            "ro": "Ultima urcare pentru cea mai bună priveliște.",
+            "en": "Last climb for the best view."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Cómpeta bietet herausfordernde Steigungen für Radfahrer. Nach dem Start im Dorf radeln Sie zur Kapelle San Sebastián. Besuchen Sie den Festplatz Vendimia und erfahren Sie mehr über den Weinbau in den Bodegas. Die Tour gipfelt im Mirador San Antón, einem perfekten Ort für eine Verschnaufpause mit Aussicht.",
+        "hu": "Cómpeta kihívást jelentő emelkedőket kínál a kerékpárosoknak. A faluból indulva tekerjen a San Sebastián kápolnához. Látogasson el a Vendimia ünnepi térre, és ismerje meg a borászatot a Bodegákban. A túra a San Antón kilátónál csúcsosodik ki, amely tökéletes hely egy pihenőhöz.",
+        "ro": "Cómpeta oferă urcări provocatoare pentru bicicliști. După pornirea din sat, pedalați spre capela San Sebastián. Vizitați piața de sărbătoare Vendimia și învățați despre viticultură la Bodegas. Turul culminează la Mirador San Antón, un loc perfect pentru o pauză cu priveliște.",
+        "en": "Cómpeta offers challenging climbs for cyclists. After starting in the village, cycle to San Sebastián Chapel. Visit the Vendimia festival square and learn about winemaking at the Bodegas. The tour culminates at Mirador San Antón, a perfect spot for a breather with a view."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pascual-Salat",
+            "tip": "Erfrischender Salat mit Kabeljau und Orange."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pascual saláta",
+            "tip": "Frissítő saláta tőkehallal és naranccsal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Salată Pascual",
+            "tip": "Salată răcoritoare cu cod și portocale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pascual Salad",
+            "tip": "Refreshing salad with cod and orange."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Sierras de Tejeda Rand",
+            "tip": "Stille Wege oberhalb des Dorfes.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sierras de Tejeda széle",
+            "tip": "Csendes utak a falu felett.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Marginea Sierras de Tejeda",
+            "tip": "Poteci liniștite deasupra satului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Edge of Sierras de Tejeda",
+            "tip": "Quiet paths above the village.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokales Olivenöl",
+            "tip": "Frisch gepresst aus der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi olívaolaj",
+            "tip": "Frissen préselt olaj a környékről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ulei de măsline local",
+            "tip": "Proaspăt presat din regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local olive oil",
+            "tip": "Freshly pressed from the region."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie Ihre Bremsen vor den steilen Abfahrten.",
+          "Ein E-Bike ist in diesem Gelände sehr zu empfehlen."
+        ],
+        "hu": [
+          "Ellenőrizze a fékeket a meredek lejtők előtt.",
+          "Ebben a terepben kifejezetten ajánlott az elektromos kerékpár."
+        ],
+        "ro": [
+          "Verificați frânele înainte de coborârile abrupte.",
+          "O bicicletă electrică este foarte recomandată în acest teren."
+        ],
+        "en": [
+          "Check your brakes before the steep descents.",
+          "An e-bike is highly recommended for this terrain."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Cómpeta bietet herausfordernde Steigungen für Radfahrer. Nach dem Start im Dorf radeln Sie zur Kapelle San Sebastián. Besuchen Sie den Festplatz Vendimia und erfahren Sie mehr über den Weinbau in den Bodegas. Die Tour gipfelt im Mirador San Antón, einem perfekten Ort für eine Verschnaufpause mit Aussicht.",
+            "hu": "Cómpeta kihívást jelentő emelkedőket kínál a kerékpárosoknak. A faluból indulva tekerjen a San Sebastián kápolnához. Látogasson el a Vendimia ünnepi térre, és ismerje meg a borászatot a Bodegákban. A túra a San Antón kilátónál csúcsosodik ki, amely tökéletes hely egy pihenőhöz.",
+            "ro": "Cómpeta oferă urcări provocatoare pentru bicicliști. După pornirea din sat, pedalați spre capela San Sebastián. Vizitați piața de sărbătoare Vendimia și învățați despre viticultură la Bodegas. Turul culminează la Mirador San Antón, un loc perfect pentru o pauză cu priveliște.",
+            "en": "Cómpeta offers challenging climbs for cyclists. After starting in the village, cycle to San Sebastián Chapel. Visit the Vendimia festival square and learn about winemaking at the Bodegas. The tour culminates at Mirador San Antón, a perfect spot for a breather with a view."
+          },
+          "stops": [
+            {
+              "name": "Plaza Almijara",
+              "tip_5lang": {
+                "de": "Frühstück am Platz vor der Tour.",
+                "hu": "Reggeli a téren a túra előtt.",
+                "ro": "Micul dejun în piață înainte de tur.",
+                "en": "Breakfast at the square before the tour."
+              }
+            },
+            {
+              "name": "Ermita de San Sebastián",
+              "tip_5lang": {
+                "de": "Schöne Kapelle in einer ruhigen Gegend.",
+                "hu": "Szép kápolna egy csendes környéken.",
+                "ro": "Capelă frumoasă într-o zonă liniștită.",
+                "en": "Beautiful chapel in a quiet area."
+              }
+            },
+            {
+              "name": "Plaza de la Vendimia",
+              "tip_5lang": {
+                "de": "Ort des berühmten Weinfestes im August.",
+                "hu": "Az augusztusi híres borfesztivál helyszíne.",
+                "ro": "Locul celebrului festival al vinului din august.",
+                "en": "Site of the famous wine festival in August."
+              }
+            },
+            {
+              "name": "Bodegas Almijara",
+              "tip_5lang": {
+                "de": "Besichtigung der Weinherstellung.",
+                "hu": "A borkészítés folyamatának megtekintése.",
+                "ro": "Vizitarea procesului de producție a vinului.",
+                "en": "Tour of the wine-making process."
+              }
+            },
+            {
+              "name": "Mirador de San Antón",
+              "tip_5lang": {
+                "de": "Letzter Anstieg für die beste Aussicht.",
+                "hu": "Utolsó emelkedő a legjobb kilátásért.",
+                "ro": "Ultima urcare pentru cea mai bună priveliște.",
+                "en": "Last climb for the best view."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Pascual-Salat",
+                "tip": "Erfrischender Salat mit Kabeljau und Orange."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Pascual saláta",
+                "tip": "Frissítő saláta tőkehallal és naranccsal."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Salată Pascual",
+                "tip": "Salată răcoritoare cu cod și portocale."
+              }
+            ],
+            "en": [
+              {
+                "name": "Pascual Salad",
+                "tip": "Refreshing salad with cod and orange."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Sierras de Tejeda Rand",
+                "tip": "Stille Wege oberhalb des Dorfes.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Sierras de Tejeda széle",
+                "tip": "Csendes utak a falu felett.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Marginea Sierras de Tejeda",
+                "tip": "Poteci liniștite deasupra satului.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Edge of Sierras de Tejeda",
+                "tip": "Quiet paths above the village.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Lokales Olivenöl",
+                "tip": "Frisch gepresst aus der Region."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Helyi olívaolaj",
+                "tip": "Frissen préselt olaj a környékről."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Ulei de măsline local",
+                "tip": "Proaspăt presat din regiune."
+              }
+            ],
+            "en": [
+              {
+                "name": "Local olive oil",
+                "tip": "Freshly pressed from the region."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Bremsen vor den steilen Abfahrten.",
+              "Ein E-Bike ist in diesem Gelände sehr zu empfehlen."
+            ],
+            "hu": [
+              "Ellenőrizze a fékeket a meredek lejtők előtt.",
+              "Ebben a terepben kifejezetten ajánlott az elektromos kerékpár."
+            ],
+            "ro": [
+              "Verificați frânele înainte de coborârile abrupte.",
+              "O bicicletă electrică este foarte recomandată în acest teren."
+            ],
+            "en": [
+              "Check your brakes before the steep descents.",
+              "An e-bike is highly recommended for this terrain."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein herausfordernder Morgen auf zwei Rädern. Die Auffahrt zur Plaza Almijara erfordert volle Konzentration auf dem nassen Asphalt. Mittags suchen wir Schutz in der Ermita de San Sebastián, während wir unsere Ausrüstung trocknen. Der Nachmittag führt uns zu den Bodegas Almijara – eine perfekte Indoor-Besichtigung, um den Regen auszusitzen. Am Abend kehren wir vorsichtig zurück, wobei die Lichter des Dorfes im nassen Untergrund funkeln.",
+            "hu": "Kihívásokkal teli reggel két keréken. A Plaza Almijara felé vezető út teljes koncentrációt igényel a vizes aszfalton. Délben a San Sebastián remetelaknál keresünk menedéket, miközben szárítjuk a felszerelésünket. A délután a Bodegas Almijara pincészethez vezet – tökéletes fedett program az eső kivárására. Este óvatosan ereszkedünk vissza, miközben a falu fényei csillognak a vizes úton.",
+            "ro": "O dimineață plină de provocări pe două roți. Urcarea spre Plaza Almijara necesită concentrare maximă pe asfaltul ud. La prânz căutăm adăpost la Ermita de San Sebastián în timp ce ne uscăm echipamentul. După-amiaza ne îndreptăm spre Bodegas Almijara – o vizită interioară perfectă pentru a evita ploaia. Seara ne întoarcem cu prudență, luminile satului sclipind pe carosabilul umed.",
+            "en": "A challenging morning on two wheels. The climb to Plaza Almijara requires full concentration on the wet asphalt. At noon, we seek shelter at the Ermita de San Sebastián while drying our gear. The afternoon leads us to Bodegas Almijara – a perfect indoor visit to wait out the rain. In the evening, we return carefully, with the village lights sparkling on the wet ground."
+          },
+          "stops": [
+            {
+              "name": "Plaza Almijara",
+              "tip_5lang": {
+                "de": "Vorsicht beim Absteigen, das Pflaster ist extrem glatt.",
+                "hu": "Vigyázat a leszálláskor, a burkolat rendkívül csúszós.",
+                "ro": "Atenție la descălecare, pavajul este extrem de alunecos.",
+                "en": "Careful when dismounting; the pavement is extremely slippery."
+              }
+            },
+            {
+              "name": "Ermita de San Sebastián",
+              "tip_5lang": {
+                "de": "Guter Unterstand für Fahrräder vor dem Eingang.",
+                "hu": "Jó fedett hely a kerékpároknak a bejárat előtt.",
+                "ro": "Adăpost bun pentru biciclete în fața intrării.",
+                "en": "Good shelter for bikes in front of the entrance."
+              }
+            },
+            {
+              "name": "Plaza de la Vendimia",
+              "tip_5lang": {
+                "de": "Vermeiden Sie schnelle Kurven auf den Mosaikböden.",
+                "hu": "Kerülje a gyors kanyarodást a mozaikos részeken.",
+                "ro": "Evitați virajele rapide pe zonele cu mozaic.",
+                "en": "Avoid sharp turns on the mosaic floors."
+              }
+            },
+            {
+              "name": "Bodegas Almijara",
+              "tip_5lang": {
+                "de": "Sicherer Parkplatz für Räder im Innenhof vorhanden.",
+                "hu": "Biztonságos kerékpárparkoló az udvarban.",
+                "ro": "Parcare sigură pentru biciclete disponibilă în curte.",
+                "en": "Safe bike parking available in the courtyard."
+              }
+            },
+            {
+              "name": "Mirador de San Antón",
+              "tip_5lang": {
+                "de": "Der Boden kann schlammig sein, bleiben Sie auf befestigten Wegen.",
+                "hu": "A talaj sáros lehet, maradjon a kiépített úton.",
+                "ro": "Solul poate fi noroios, rămâneți pe drumurile pavate.",
+                "en": "The ground can be muddy; stay on paved paths."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Bremsen vor der Abfahrt; nasse Felgen brauchen längere Bremswege.",
+              "Vermeiden Sie weiße Straßenmarkierungen, diese sind bei Nässe spiegelglatt.",
+              "Tragen Sie auffällige, wasserdichte Kleidung für bessere Sichtbarkeit.",
+              "Reduzieren Sie den Reifendruck leicht für mehr Grip auf nassem Asphalt.",
+              "Nutzen Sie die Bodegas als strategische Pause, um trocken zu werden."
+            ],
+            "hu": [
+              "Indulás előtt ellenőrizze a fékeket; a vizes felniken hosszabb a féktáv.",
+              "Kerülje a fehér útburkolati jeleket, ezek vizesen rendkívül csúsznak.",
+              "Viseljen feltűnő, vízálló ruházatot a jobb láthatóság érdekében.",
+              "Enyhén csökkentse a keréknyomást a jobb tapadásért a vizes úton.",
+              "Használja a pincészeteket stratégiai pihenőként a száradáshoz."
+            ],
+            "ro": [
+              "Verificați frânele înainte de plecare; jantele ude necesită distanțe de frânare mai mari.",
+              "Evitați marcajele rutiere albe, acestea devin extrem de alunecoase la umezeală.",
+              "Purtați haine reflectorizante și impermeabile pentru o vizibilitate mai bună.",
+              "Reduceți ușor presiunea în anvelope pentru o aderență mai bună pe asfalt ud.",
+              "Folosiți cramele ca pauze strategice pentru a vă usca."
+            ],
+            "en": [
+              "Check your brakes before starting; wet rims require longer braking distances.",
+              "Avoid white road markings; they are ice-clippery when wet.",
+              "Wear bright, waterproof clothing for better visibility.",
+              "Slightly reduce tire pressure for better grip on wet asphalt.",
+              "Use the wineries as strategic breaks to dry off."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein erfrischender Wintermorgen in den Bergen. Die Auffahrt hält den Körper warm, während der Wind um die Ecken pfeift. Mittags ist die Plaza de la Vendimia der perfekte sonnige Ort für eine Pause, bevor es weitergeht. Am Nachmittag radeln wir zu den Bodegas, wobei die tiefstehende Sonne lange Schatten auf den Weg wirft. Zum Abend hin wird es bei der Abfahrt empfindlich kalt – Handschuhe und eine winddichte Jacke sind jetzt Gold wert.",
+            "hu": "Frissítő téli reggel a hegyekben. Az emelkedők melegen tartják a testet, miközben a szél fütyül a sarkokon. Délben a Plaza de la Vendimia a tökéletes napsütötte hely egy kis pihenőre a folytatás előtt. Délután a pincészetek felé tekerünk, miközben az alacsony nap hosszú árnyékokat vet az útra. Estére az ereszkedéskor érezhetően hideg lesz – a kesztyű és a szélálló dzseki most aranyat ér.",
+            "ro": "O dimineață revigorantă de iarnă în munți. Urcările mențin corpul cald, în timp ce vântul șuieră la colțuri. La prânz, Plaza de la Vendimia este locul însorit perfect pentru o pauză înainte de a continua. După-amiaza pedalăm spre crame, în timp ce soarele jos aruncă umbre lungi pe drum. Spre seară se face foarte frig la coborâre – mănușile și o jachetă rezistentă la vânt sunt esențiale.",
+            "en": "A refreshing winter morning in the mountains. The climbs keep your body warm while the wind whistles around corners. At noon, Plaza de la Vendimia is the perfect sunny spot for a break before moving on. In the afternoon, we cycle towards the wineries as the low sun casts long shadows on the path. Towards evening, it gets significantly colder on the descent – gloves and a windproof jacket are worth their weight in gold now."
+          },
+          "stops": [
+            {
+              "name": "Plaza Almijara",
+              "tip_5lang": {
+                "de": "Genießen Sie den Kaffee in der Sonne, um die Akkus aufzuladen.",
+                "hu": "Igyon egy kávét a napon, hogy feltöltődjön energiával.",
+                "ro": "Savurați o cafea la soare pentru a vă reîncărca bateriile.",
+                "en": "Enjoy a coffee in the sun to recharge your batteries."
+              }
+            },
+            {
+              "name": "Ermita de San Sebastián",
+              "tip_5lang": {
+                "de": "Stellen Sie das Rad windgeschützt ab.",
+                "hu": "Állítsa le a kerékpárt szélvédett helyen.",
+                "ro": "Parcați bicicleta într-un loc ferit de vânt.",
+                "en": "Park your bike in a wind-sheltered spot."
+              }
+            },
+            {
+              "name": "Plaza de la Vendimia",
+              "tip_5lang": {
+                "de": "Bester Platz für eine Pause in der Mittagssonne.",
+                "hu": "A legjobb hely egy pihenőre a déli napsütésben.",
+                "ro": "Cel mai bun loc pentru o pauză în soarele prânzului.",
+                "en": "Best spot for a break in the midday sun."
+              }
+            },
+            {
+              "name": "Bodegas Almijara",
+              "tip_5lang": {
+                "de": "In den Kellern herrscht das ganze Jahr eine angenehme Temperatur.",
+                "hu": "A pincékben egész évben kellemes a hőmérséklet.",
+                "ro": "În crame este o temperatură plăcută tot timpul anului.",
+                "en": "The cellars maintain a pleasant temperature year-round."
+              }
+            },
+            {
+              "name": "Mirador de San Antón",
+              "tip_5lang": {
+                "de": "Spektakuläre Fernsicht bis zum Meer bei klarer Winterluft.",
+                "hu": "Látványos kilátás a tengerig a tiszta téli levegőben.",
+                "ro": "Vizibilitate spectaculoasă până la mare în aerul curat de iarnă.",
+                "en": "Spectacular distant views to the sea in the clear winter air."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie mehrere Schichten (Zwiebelprinzip) für die wechselnden Temperaturen.",
+              "Vermeiden Sie lange Standzeiten im Schatten, da man schnell auskühlt.",
+              "Die Abfahrten sind im Winter durch den Fahrtwind deutlich kälter.",
+              "Die Luft ist im Winter trockener, vergessen Sie das Trinken nicht.",
+              "Planen Sie Ihre Tour so, dass Sie vor Sonnenuntergang (ca. 18:00) zurück sind."
+            ],
+            "hu": [
+              "Viseljen több réteg ruhát a változó hőmérséklet miatt.",
+              "Kerülje a hosszú várakozást az árnyékban, mert gyorsan áthűlhet.",
+              "Az ereszkedések télen a menetszél miatt sokkal hidegebbek.",
+              "A levegő télen szárazabb, ne feledkezzen meg a folyadékpótlásról.",
+              "Tervezze úgy a túrát, hogy naplemente előtt (kb. 18:00) érjen vissza."
+            ],
+            "ro": [
+              "Purtați mai multe straturi de haine pentru temperaturile schimbătoare.",
+              "Evitați staționările lungi la umbră, deoarece vă veți răci rapid.",
+              "Coborârile sunt mult mai reci iarna din cauza curentului de aer.",
+              "Aerul este mai uscat iarna, nu uitați să vă hidratați.",
+              "Planificați turul astfel încât să vă întoarceți înainte de apus (aprox. 18:00)."
+            ],
+            "en": [
+              "Wear several layers of clothing for the changing temperatures.",
+              "Avoid long stops in the shade as you will cool down quickly.",
+              "Descents are much colder in winter due to the wind chill.",
+              "The air is drier in winter; don't forget to stay hydrated.",
+              "Plan your tour to be back before sunset (around 6:00 PM)."
+            ]
+          }
+        }
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "15:30",
+      "total_km": 10.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Bodegas Almijara",
+          "coords": [
+            -3.9705,
+            36.835
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Parken direkt an der Kellerei möglich.",
+            "hu": "Parkolás közvetlenül a borászatnál lehetséges.",
+            "ro": "Parcare disponibilă direct la vinărie.",
+            "en": "Parking available directly at the winery."
+          }
+        },
+        {
+          "name": "Galería Luz de la Vida",
+          "coords": [
+            -3.9685,
+            36.834
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "10:45",
+          "stay_min": 50,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Inspirierende Kunst in einem schönen Haus.",
+            "hu": "Inspiráló művészet egy gyönyörű házban.",
+            "ro": "Artă inspiratoare într-o casă frumoasă.",
+            "en": "Inspiring art in a beautiful house."
+          }
+        },
+        {
+          "name": "Plaza Almijara",
+          "coords": [
+            -3.9665,
+            36.8335
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Parken Sie auf dem großen Parkplatz am Dorfeingang.",
+            "hu": "Parkoljon a falu bejáratánál lévő nagy parkolóban.",
+            "ro": "Parcați în parcarea mare de la intrarea în sat.",
+            "en": "Park in the large parking lot at the village entrance."
+          }
+        },
+        {
+          "name": "Ermita de San Sebastián",
+          "coords": [
+            -3.9695,
+            36.832
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Kurzer Stopp für Fotos.",
+            "hu": "Rövid megálló fotózáshoz.",
+            "ro": "Scurtă oprire pentru fotografii.",
+            "en": "Short stop for photos."
+          }
+        },
+        {
+          "name": "Mirador de San Antón",
+          "coords": [
+            -3.965,
+            36.8325
+          ],
+          "category": "natural features",
+          "arrive_at": "15:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Leicht erreichbar für einen letzten Ausblick.",
+            "hu": "Könnyen megközelíthető egy utolsó kilátáshoz.",
+            "ro": "Ușor de ajuns pentru o ultimă panoramă.",
+            "en": "Easily reachable for a final view."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erreichen Sie mühelos die kulturellen und weintechnischen Highlights von Cómpeta. Beginnen Sie bei den Bodegas und besuchen Sie danach die Galerie 'Luz de la Vida'. Nach dem Mittagessen im Zentrum fahren Sie zur Kapelle San Sebastián und genießen zum Abschluss das Panorama vom Mirador San Antón.",
+        "hu": "Autóval könnyedén elérheti Cómpeta kulturális és borászati fénypontjait. Kezdjen a Bodegáknál, majd látogasson el a 'Luz de la Vida' galériába. A központi ebéd után guruljon el a San Sebastián kápolnához, végül csodálja meg a panorámát a San Antón kilátónál.",
+        "ro": "Cu mașina puteți ajunge ușor la punctele de atracție culturale și viticole din Cómpeta. Începeți la Bodegas și vizitați galeria 'Luz de la Vida'. După prânzul în centru, mergeți la capela San Sebastián și bucurați-vă de panorama finală de la Mirador San Antón.",
+        "en": "By car, you can easily reach the cultural and viticultural highlights of Cómpeta. Start at the Bodegas and then visit the 'Luz de la Vida' gallery. After lunch in the center, drive to San Sebastián Chapel and finally enjoy the panorama from Mirador San Antón."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Roscos",
+            "tip": "Hausgemachtes Gebäck, perfekt zum Kaffee."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Roscos",
+            "tip": "Házi készítésű fánkféle, tökéletes kávéhoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Roscos",
+            "tip": "Patiserie de casă, perfectă pentru cafea."
+          }
+        ],
+        "en": [
+          {
+            "name": "Roscos",
+            "tip": "Homemade pastry, perfect with coffee."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Paseo de las Tradiciones",
+            "tip": "Am Nachmittag oft sehr ruhig.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hagyományok Sétánya",
+            "tip": "Délutánonként gyakran nagyon csendes.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Paseo de las Tradiciones",
+            "tip": "Adesea foarte liniștit după-amiaza.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Paseo de las Traditions",
+            "tip": "Often very quiet in the afternoon.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Handgefertigte Keramik",
+            "tip": "Direkt aus den Ateliers der Künstler."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kézműves kerámia",
+            "tip": "Közvetlenül a művészek műhelyéből."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ceramică artizanală",
+            "tip": "Direct din atelierele artiștilor."
+          }
+        ],
+        "en": [
+          {
+            "name": "Handcrafted ceramics",
+            "tip": "Directly from the artists' studios."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Meiden Sie die Fahrt durch die engsten Gassen des Zentrums.",
+          "Die Zufahrtsstraße von Torrox ist kurvenreich."
+        ],
+        "hu": [
+          "Kerülje el az autóval való behajtást a legszűkebb sikátorokba.",
+          "A Torrox felől vezető út igen kanyargós."
+        ],
+        "ro": [
+          "Evitați conducerea prin cele mai înguste străzi din centru.",
+          "Drumul de acces dinspre Torrox este foarte virajat."
+        ],
+        "en": [
+          "Avoid driving through the narrowest alleys of the center.",
+          "The access road from Torrox is very winding."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erreichen Sie mühelos die kulturellen und weintechnischen Highlights von Cómpeta. Beginnen Sie bei den Bodegas und besuchen Sie danach die Galerie 'Luz de la Vida'. Nach dem Mittagessen im Zentrum fahren Sie zur Kapelle San Sebastián und genießen zum Abschluss das Panorama vom Mirador San Antón.",
+            "hu": "Autóval könnyedén elérheti Cómpeta kulturális és borászati fénypontjait. Kezdjen a Bodegáknál, majd látogasson el a 'Luz de la Vida' galériába. A központi ebéd után guruljon el a San Sebastián kápolnához, végül csodálja meg a panorámát a San Antón kilátónál.",
+            "ro": "Cu mașina puteți ajunge ușor la punctele de atracție culturale și viticole din Cómpeta. Începeți la Bodegas și vizitați galeria 'Luz de la Vida'. După prânzul în centru, mergeți la capela San Sebastián și bucurați-vă de panorama finală de la Mirador San Antón.",
+            "en": "By car, you can easily reach the cultural and viticultural highlights of Cómpeta. Start at the Bodegas and then visit the 'Luz de la Vida' gallery. After lunch in the center, drive to San Sebastián Chapel and finally enjoy the panorama from Mirador San Antón."
+          },
+          "stops": [
+            {
+              "name": "Bodegas Almijara",
+              "tip_5lang": {
+                "de": "Parken direkt an der Kellerei möglich.",
+                "hu": "Parkolás közvetlenül a borászatnál lehetséges.",
+                "ro": "Parcare disponibilă direct la vinărie.",
+                "en": "Parking available directly at the winery."
+              }
+            },
+            {
+              "name": "Galería Luz de la Vida",
+              "tip_5lang": {
+                "de": "Inspirierende Kunst in einem schönen Haus.",
+                "hu": "Inspiráló művészet egy gyönyörű házban.",
+                "ro": "Artă inspiratoare într-o casă frumoasă.",
+                "en": "Inspiring art in a beautiful house."
+              }
+            },
+            {
+              "name": "Plaza Almijara",
+              "tip_5lang": {
+                "de": "Parken Sie auf dem großen Parkplatz am Dorfeingang.",
+                "hu": "Parkoljon a falu bejáratánál lévő nagy parkolóban.",
+                "ro": "Parcați în parcarea mare de la intrarea în sat.",
+                "en": "Park in the large parking lot at the village entrance."
+              }
+            },
+            {
+              "name": "Ermita de San Sebastián",
+              "tip_5lang": {
+                "de": "Kurzer Stopp für Fotos.",
+                "hu": "Rövid megálló fotózáshoz.",
+                "ro": "Scurtă oprire pentru fotografii.",
+                "en": "Short stop for photos."
+              }
+            },
+            {
+              "name": "Mirador de San Antón",
+              "tip_5lang": {
+                "de": "Leicht erreichbar für einen letzten Ausblick.",
+                "hu": "Könnyen megközelíthető egy utolsó kilátáshoz.",
+                "ro": "Ușor de ajuns pentru o ultimă panoramă.",
+                "en": "Easily reachable for a final view."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Roscos",
+                "tip": "Hausgemachtes Gebäck, perfekt zum Kaffee."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Roscos",
+                "tip": "Házi készítésű fánkféle, tökéletes kávéhoz."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Roscos",
+                "tip": "Patiserie de casă, perfectă pentru cafea."
+              }
+            ],
+            "en": [
+              {
+                "name": "Roscos",
+                "tip": "Homemade pastry, perfect with coffee."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Paseo de las Tradiciones",
+                "tip": "Am Nachmittag oft sehr ruhig.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Hagyományok Sétánya",
+                "tip": "Délutánonként gyakran nagyon csendes.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Paseo de las Tradiciones",
+                "tip": "Adesea foarte liniștit după-amiaza.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Paseo de las Traditions",
+                "tip": "Often very quiet in the afternoon.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Handgefertigte Keramik",
+                "tip": "Direkt aus den Ateliers der Künstler."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Kézműves kerámia",
+                "tip": "Közvetlenül a művészek műhelyéből."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Ceramică artizanală",
+                "tip": "Direct din atelierele artiștilor."
+              }
+            ],
+            "en": [
+              {
+                "name": "Handcrafted ceramics",
+                "tip": "Directly from the artists' studios."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Meiden Sie die Fahrt durch die engsten Gassen des Zentrums.",
+              "Die Zufahrtsstraße von Torrox ist kurvenreich."
+            ],
+            "hu": [
+              "Kerülje el az autóval való behajtást a legszűkebb sikátorokba.",
+              "A Torrox felől vezető út igen kanyargós."
+            ],
+            "ro": [
+              "Evitați conducerea prin cele mai înguste străzi din centru.",
+              "Drumul de acces dinspre Torrox este foarte virajat."
+            ],
+            "en": [
+              "Avoid driving through the narrowest alleys of the center.",
+              "The access road from Torrox is very winding."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein entspannter Start bei den Bodegas Almijara, während der Regen gegen die Scheiben prasselt. Das Auto ist heute die perfekte Basis. Mittags erkunden wir die Galerie Luz de la Vida – ein kultureller Lichtblick an einem grauen Tag. Nachmittags parken wir nahe der Plaza Almijara und nutzen die kurzen Wege zwischen den Cafés, um trocken zu bleiben. Der Abend schließt mit einer Fahrt zum Mirador ab, wo die nassen Straßen die Lichter der Stadt wie Spiegel reflektieren.",
+            "hu": "Nyugodt kezdés a Bodegas Almijara pincészetnél, miközben az eső a szélvédőn kopog. Az autó ma a tökéletes bázis. Délben a Luz de la Vida galériát fedezzük fel – kulturális fénypont egy szürke napon. Délután a Plaza Almijara közelében parkolunk, és kihasználjuk a rövid távokat a kávézók között, hogy szárazon maradjunk. Az este egy autózással zárul a kilátóhoz, ahol a vizes utak tükörként verik vissza a város fényeit.",
+            "ro": "Un început relaxat la Bodegas Almijara, în timp ce ploaia bate în parbriz. Mașina este baza perfectă astăzi. La prânz explorăm galeria Luz de la Vida – o rază de lumină culturală într-o zi cenușie. După-amiaza parcăm lângă Plaza Almijara și profităm de distanțele scurte între cafenele pentru a rămâne uscați. Seara se încheie cu o plimbare spre Mirador, unde străzile umede reflectă luminile orașului ca niște oglinzi.",
+            "en": "A relaxed start at Bodegas Almijara while the rain patters against the windows. The car is the perfect base today. At noon, we explore the Luz de la Vida gallery – a cultural highlight on a gray day. In the afternoon, we park near Plaza Almijara and take advantage of the short distances between cafes to stay dry. The evening concludes with a drive to the Mirador, where the wet streets reflect the city lights like mirrors."
+          },
+          "stops": [
+            {
+              "name": "Bodegas Almijara",
+              "tip_5lang": {
+                "de": "Parken Sie direkt am Eingang, um nicht nass zu werden.",
+                "hu": "Parkoljon közvetlenül a bejáratnál, hogy ne ázzon el.",
+                "ro": "Parcați direct la intrare pentru a nu vă uda.",
+                "en": "Park directly at the entrance to avoid getting wet."
+              }
+            },
+            {
+              "name": "Galería Luz de la Vida",
+              "tip_5lang": {
+                "de": "Ein hervorragender Ort für Regentage.",
+                "hu": "Kiváló helyszín esős napokra.",
+                "ro": "Un loc excelent pentru zilele ploioase.",
+                "en": "An excellent place for rainy days."
+              }
+            },
+            {
+              "name": "Plaza Almijara",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Parkhaus am Dorfeingang.",
+                "hu": "Használja a falu bejáratánál lévő parkolóházat.",
+                "ro": "Folosiți parcarea acoperită de la intrarea în sat.",
+                "en": "Use the parking garage at the village entrance."
+              }
+            },
+            {
+              "name": "Ermita de San Sebastián",
+              "tip_5lang": {
+                "de": "Kurzer Stopp möglich, Parken direkt davor.",
+                "hu": "Rövid megálló lehetséges, parkolás közvetlenül előtte.",
+                "ro": "Oprire scurtă posibilă, parcare chiar în față.",
+                "en": "Short stop possible; parking right in front."
+              }
+            },
+            {
+              "name": "Mirador de San Antón",
+              "tip_5lang": {
+                "de": "Genießen Sie die Aussicht trocken aus dem Auto.",
+                "hu": "Élvezze a kilátást szárazon, az autóból.",
+                "ro": "Admirați priveliștea din confortul mașinii.",
+                "en": "Enjoy the view dry from inside the car."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Bergstraßen können bei starkem Regen rutschig sein, fahren Sie vorsichtig.",
+              "Achten Sie auf mögliche Steinschläge nach heftigen Schauern.",
+              "Das Parkhaus in Cómpeta ist ideal, um das Auto trocken zu verlassen.",
+              "Halten Sie die Scheibenbeschlagung durch die Klimaanlage unter Kontrolle.",
+              "Planen Sie Stopps an Orten mit direktem Zugang vom Parkplatz ein."
+            ],
+            "hu": [
+              "A hegyi utak heves esőzéskor csúszósak lehetnek, vezessen óvatosan.",
+              "Ügyeljen az esetleges kőomlásokra nagy záporok után.",
+              "Cómpeta parkolóháza ideális, hogy szárazon szálljon ki az autóból.",
+              "Tartsa kordában a szélvédő párásodását a klímaberendezéssel.",
+              "Tervezzen megállókat olyan helyeken, ahol közvetlen a bejutás a parkolóból."
+            ],
+            "ro": [
+              "Drumurile montane pot fi alunecoase în caz de ploaie abundentă, conduceți prudent.",
+              "Atenție la posibilele căderi de pietre după averse puternice.",
+              "Parcarea etajată din Cómpeta este ideală pentru a coborî din mașină la uscat.",
+              "Controlați aburirea geamurilor folosind aerul condiționat.",
+              "Planificați opriri în locuri cu acces direct din parcare."
+            ],
+            "en": [
+              "Mountain roads can be slippery during heavy rain; drive carefully.",
+              "Watch out for potential rockfalls after heavy showers.",
+              "The parking garage in Cómpeta is ideal for leaving the car dry.",
+              "Keep window fogging under control using the air conditioning.",
+              "Plan stops at locations with direct access from the parking lot."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein sonniger Wintermorgen mit klarer Sicht. Die Fahrt durch die Weinberge ist bei diesem Licht besonders fotogen. Mittags ist es in der Galerie Luz de la Vida angenehm temperiert, während die Sonne durch die Fenster flutet. Nachmittags genießen wir die lebendige Atmosphäre auf der Plaza Almijara, bevor es kühl wird. Der Abend endet mit einem Panoramablick vom Mirador, wobei die Heizung im Auto für wohlige Wärme sorgt.",
+            "hu": "Napsütéses téli reggel tiszta kilátással. Az autózás a szőlőültetvények között ebben a fényben különösen fotogén. Délben a Luz de la Vida galériában kellemes a hőmérséklet, miközben a nap besüt az ablakokon. Délután élvezzük a Plaza Almijara élénk hangulatát, mielőtt lehűl az idő. Az este a kilátónál zárul panorámával, miközben az autó fűtése gondoskodik a kellemes melegről.",
+            "ro": "O dimineață însorită de iarnă cu vizibilitate clară. Plimbarea prin podgorii este deosebit de fotogenică în această lumină. La prânz, galeria Luz de la Vida are o temperatură plăcută, în timp ce soarele inundă ferestrele. După-amiaza ne bucurăm de atmosfera plină de viață din Plaza Almijara înainte de a se face răcoare. Seara se încheie cu o vedere panoramică de la Mirador, în timp ce căldura din mașină oferă confort.",
+            "en": "A sunny winter morning with clear views. The drive through the vineyards is particularly photogenic in this light. At noon, the Luz de la Vida gallery is pleasantly tempered while the sun floods through the windows. In the afternoon, we enjoy the lively atmosphere at Plaza Almijara before it gets chilly. The evening ends with a panoramic view from the Mirador, with the car's heater providing cozy warmth."
+          },
+          "stops": [
+            {
+              "name": "Bodegas Almijara",
+              "tip_5lang": {
+                "de": "Beste Zeit für Weinproben ohne den Sommertrubel.",
+                "hu": "A legjobb időszak a borkóstolásra a nyári tömeg nélkül.",
+                "ro": "Cel mai bun moment pentru degustări de vin, fără aglomerația de vară.",
+                "en": "Best time for wine tastings without the summer crowds."
+              }
+            },
+            {
+              "name": "Galería Luz de la Vida",
+              "tip_5lang": {
+                "de": "Das Winterlicht hebt die Kunstwerke besonders hervor.",
+                "hu": "A téli fény különlegesen emeli ki a műalkotásokat.",
+                "ro": "Lumina de iarnă scoate în evidență operele de artă într-un mod special.",
+                "en": "The winter light highlights the artworks in a special way."
+              }
+            },
+            {
+              "name": "Plaza Almijara",
+              "tip_5lang": {
+                "de": "Parken ist im Winter oft einfacher als in der Hochsaison.",
+                "hu": "Télen gyakran könnyebb parkolni, mint a főszezonban.",
+                "ro": "Parcarea este adesea mai ușoară iarna decât în plin sezon.",
+                "en": "Parking is often easier in winter than in the high season."
+              }
+            },
+            {
+              "name": "Ermita de San Sebastián",
+              "tip_5lang": {
+                "de": "Die weiße Kapelle strahlt im klaren Winterlicht.",
+                "hu": "A fehér kápolna ragyog a tiszta téli fényben.",
+                "ro": "Capela albă strălucește în lumina clară de iarnă.",
+                "en": "The white chapel glows in the clear winter light."
+              }
+            },
+            {
+              "name": "Mirador de San Antón",
+              "tip_5lang": {
+                "de": "Perfekter Ort für den Sonnenuntergang aus dem Auto.",
+                "hu": "Tökéletes hely a naplemente megtekintéséhez az autóból.",
+                "ro": "Locul perfect pentru a vedea apusul din mașină.",
+                "en": "Perfect spot for watching the sunset from the car."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Reifendruck, da er bei Kälte sinken kann.",
+              "Die Lichtverhältnisse sind im Winter ideal für Landschaftsfotos aus dem Auto.",
+              "Nutzen Sie die kürzeren Tage für Fahrten in der Dämmerung.",
+              "Die Parkplatzsuche im Dorf ist im Winter deutlich entspannter.",
+              "Haben Sie immer eine Jacke griffbereit, wenn Sie das Auto verlassen."
+            ],
+            "hu": [
+              "Ellenőrizze a guminyomást, mert hidegben csökkenhet.",
+              "A fényviszonyok télen ideálisak a tájképekhez az autóból.",
+              "Használja ki a rövidebb nappalokat a szürkületi autózáshoz.",
+              "A parkolóhely-keresés a faluban télen sokkal nyugodtabb.",
+              "Mindig legyen kéznél egy kabát, ha kiszáll az autóból."
+            ],
+            "ro": [
+              "Verificați presiunea în anvelope, deoarece poate scădea la frig.",
+              "Condițiile de lumină sunt ideale iarna pentru fotografii de peisaj din mașină.",
+              "Profitate de zilele mai scurte pentru plimbări la amurg.",
+              "Căutarea unui loc de parcare în sat este mult mai relaxată iarna.",
+              "Aveți întotdeauna o jachetă la îndemână când coborâți din mașină."
+            ],
+            "en": [
+              "Check tire pressure as it can drop in cold weather.",
+              "Lighting conditions in winter are ideal for landscape photos from the car.",
+              "Take advantage of the shorter days for drives during twilight.",
+              "Finding a parking spot in the village is much more relaxed in winter.",
+              "Always have a jacket ready when leaving the car."
+            ]
+          }
+        }
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 2.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Bushaltestelle Cómpeta",
+          "coords": [
+            -3.967,
+            36.8335
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 60,
+          "hop_from_prev_km": 15.0,
+          "tip_5lang": {
+            "de": "Der Bus verbindet Cómpeta mit Málaga und Torre del Mar.",
+            "hu": "A busz összeköti Cómpetát Málagával és Torre del Mar-ral.",
+            "ro": "Autobuzul face legătura cu Málaga și Torre del Mar.",
+            "en": "The bus connects Cómpeta with Málaga and Torre del Mar."
+          }
+        },
+        {
+          "name": "Plaza Almijara",
+          "coords": [
+            -3.9665,
+            36.8335
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:45",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ideal für einen ersten Kaffee nach der Fahrt.",
+            "hu": "Ideális egy első kávéhoz az út után.",
+            "ro": "Ideal pentru o primă cafea după drum.",
+            "en": "Ideal for a first coffee after the ride."
+          }
+        },
+        {
+          "name": "Kirche La Asunción",
+          "coords": [
+            -3.9662,
+            36.8332
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Zentraler Anlaufpunkt.",
+            "hu": "Központi tájékozódási pont.",
+            "ro": "Punct central de reper.",
+            "en": "Central point of reference."
+          }
+        },
+        {
+          "name": "Museo de Artes Populares",
+          "coords": [
+            -3.967,
+            36.833
+          ],
+          "category": "museums",
+          "arrive_at": "14:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 85,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Vom Museum ist es nicht weit zurück zum Bus.",
+            "hu": "A múzeumtól nincs messze a buszmegálló.",
+            "ro": "De la muzeu nu e departe până la autobuz.",
+            "en": "It's not far from the museum back to the bus."
+          }
+        },
+        {
+          "name": "Paseo de las Tradiciones",
+          "coords": [
+            -3.9675,
+            36.834
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "16:10",
+          "stay_min": 35,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Letzter Rundgang vor der Abfahrt.",
+            "hu": "Utolsó körséta az indulás előtt.",
+            "ro": "Ultima plimbare înainte de plecare.",
+            "en": "Final stroll before departure."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Genießen Sie die malerische Busfahrt hinauf in die Axarquía. Beginnen Sie Ihren Besuch am Plaza Almijara und besichtigen Sie die Hauptkirche. Nach einer ausgiebigen Mittagspause erkunden Sie das Volkskundemuseum und beenden Ihren Ausflug mit einem Spaziergang entlang der kunstvollen Keramikwände, bevor der Bus zurückfährt.",
+        "hu": "Élvezze a festői buszutat fel az Axarquía hegyeibe. Kezdje látogatását a Plaza Almijara téren, és nézze meg a főtemplomot. Egy bőséges ebéd után fedezze fel a néprajzi múzeumot, majd zárja a kirándulást egy sétával a díszes kerámiafalak mentén a busz indulása előtt.",
+        "ro": "Bucurați-vă de drumul pitoresc cu autobuzul spre munții Axarquía. Începeți vizita în Plaza Almijara și vedeți biserica principală. După un prânz copios, explorați muzeul de etnografie și încheiați excursia cu o plimbare pe lângă mozaicurile ceramice înainte de plecare.",
+        "en": "Enjoy the scenic bus ride up into the Axarquía mountains. Start your visit at Plaza Almijara and see the main church. After a hearty lunch, explore the folk museum and end your trip with a stroll along the ornate ceramic walls before the bus leaves."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Honne-Kekse",
+            "tip": "Süße Mandelkekse für die Busfahrt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Honne sütemény",
+            "tip": "Édes mandulás keksz a buszútra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Biscuiți Honne",
+            "tip": "Biscuiți dulci cu migdale pentru drum."
+          }
+        ],
+        "en": [
+          {
+            "name": "Honne biscuits",
+            "tip": "Sweet almond biscuits for the bus ride."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Schattenbänke am Platz",
+            "tip": "Beobachten Sie das Dorfleben in Ruhe.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Árnyékos padok a téren",
+            "tip": "Figyelje a falusi életet nyugalomban.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bănci la umbră în piață",
+            "tip": "Observați viața satului în liniște.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Shaded benches at the square",
+            "tip": "Watch village life in peace.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Handwerker-Laden",
+            "tip": "Lokale Produkte und Kunsthandwerk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kézműves bolt",
+            "tip": "Helyi termékek és művészeti tárgyak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de artizanat",
+            "tip": "Produse locale și obiecte de artă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Handicraft shop",
+            "tip": "Local products and crafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Bustickets gibt es direkt beim Fahrer.",
+          "Die Busfrequenz ist am Wochenende eingeschränkt."
+        ],
+        "hu": [
+          "Buszjegyek közvetlenül a sofőrnél válthatók.",
+          "A buszjáratok sűrűsége hétvégén korlátozott."
+        ],
+        "ro": [
+          "Biletele de autobuz se cumpără direct de la șofer.",
+          "Frecvența autobuzelor este redusă în weekend."
+        ],
+        "en": [
+          "Bus tickets are available directly from the driver.",
+          "Bus frequency is limited on weekends."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Genießen Sie die malerische Busfahrt hinauf in die Axarquía. Beginnen Sie Ihren Besuch am Plaza Almijara und besichtigen Sie die Hauptkirche. Nach einer ausgiebigen Mittagspause erkunden Sie das Volkskundemuseum und beenden Ihren Ausflug mit einem Spaziergang entlang der kunstvollen Keramikwände, bevor der Bus zurückfährt.",
+            "hu": "Élvezze a festői buszutat fel az Axarquía hegyeibe. Kezdje látogatását a Plaza Almijara téren, és nézze meg a főtemplomot. Egy bőséges ebéd után fedezze fel a néprajzi múzeumot, majd zárja a kirándulást egy sétával a díszes kerámiafalak mentén a busz indulása előtt.",
+            "ro": "Bucurați-vă de drumul pitoresc cu autobuzul spre munții Axarquía. Începeți vizita în Plaza Almijara și vedeți biserica principală. După un prânz copios, explorați muzeul de etnografie și încheiați excursia cu o plimbare pe lângă mozaicurile ceramice înainte de plecare.",
+            "en": "Enjoy the scenic bus ride up into the Axarquía mountains. Start your visit at Plaza Almijara and see the main church. After a hearty lunch, explore the folk museum and end your trip with a stroll along the ornate ceramic walls before the bus leaves."
+          },
+          "stops": [
+            {
+              "name": "Bushaltestelle Cómpeta",
+              "tip_5lang": {
+                "de": "Der Bus verbindet Cómpeta mit Málaga und Torre del Mar.",
+                "hu": "A busz összeköti Cómpetát Málagával és Torre del Mar-ral.",
+                "ro": "Autobuzul face legătura cu Málaga și Torre del Mar.",
+                "en": "The bus connects Cómpeta with Málaga and Torre del Mar."
+              }
+            },
+            {
+              "name": "Plaza Almijara",
+              "tip_5lang": {
+                "de": "Ideal für einen ersten Kaffee nach der Fahrt.",
+                "hu": "Ideális egy első kávéhoz az út után.",
+                "ro": "Ideal pentru o primă cafea după drum.",
+                "en": "Ideal for a first coffee after the ride."
+              }
+            },
+            {
+              "name": "Kirche La Asunción",
+              "tip_5lang": {
+                "de": "Zentraler Anlaufpunkt.",
+                "hu": "Központi tájékozódási pont.",
+                "ro": "Punct central de reper.",
+                "en": "Central point of reference."
+              }
+            },
+            {
+              "name": "Museo de Artes Populares",
+              "tip_5lang": {
+                "de": "Vom Museum ist es nicht weit zurück zum Bus.",
+                "hu": "A múzeumtól nincs messze a buszmegálló.",
+                "ro": "De la muzeu nu e departe până la autobuz.",
+                "en": "It's not far from the museum back to the bus."
+              }
+            },
+            {
+              "name": "Paseo de las Tradiciones",
+              "tip_5lang": {
+                "de": "Letzter Rundgang vor der Abfahrt.",
+                "hu": "Utolsó körséta az indulás előtt.",
+                "ro": "Ultima plimbare înainte de plecare.",
+                "en": "Final stroll before departure."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Honne-Kekse",
+                "tip": "Süße Mandelkekse für die Busfahrt."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Honne sütemény",
+                "tip": "Édes mandulás keksz a buszútra."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Biscuiți Honne",
+                "tip": "Biscuiți dulci cu migdale pentru drum."
+              }
+            ],
+            "en": [
+              {
+                "name": "Honne biscuits",
+                "tip": "Sweet almond biscuits for the bus ride."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Schattenbänke am Platz",
+                "tip": "Beobachten Sie das Dorfleben in Ruhe.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Árnyékos padok a téren",
+                "tip": "Figyelje a falusi életet nyugalomban.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Bănci la umbră în piață",
+                "tip": "Observați viața satului în liniște.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Shaded benches at the square",
+                "tip": "Watch village life in peace.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Handwerker-Laden",
+                "tip": "Lokale Produkte und Kunsthandwerk."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Kézműves bolt",
+                "tip": "Helyi termékek és művészeti tárgyak."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Magazin de artizanat",
+                "tip": "Produse locale și obiecte de artă."
+              }
+            ],
+            "en": [
+              {
+                "name": "Handicraft shop",
+                "tip": "Local products and crafts."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Bustickets gibt es direkt beim Fahrer.",
+              "Die Busfrequenz ist am Wochenende eingeschränkt."
+            ],
+            "hu": [
+              "Buszjegyek közvetlenül a sofőrnél válthatók.",
+              "A buszjáratok sűrűsége hétvégén korlátozott."
+            ],
+            "ro": [
+              "Biletele de autobuz se cumpără direct de la șofer.",
+              "Frecvența autobuzelor este redusă în weekend."
+            ],
+            "en": [
+              "Bus tickets are available directly from the driver.",
+              "Bus frequency is limited on weekends."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ankunft an der Bushaltestelle bei leichtem Nieselregen. Der kurze Weg zum Hauptplatz ist dank der engen Gassen geschützt. Mittags ist die Plaza Almijara ein Treffpunkt, an dem man unter den Markisen trocken bleibt. Nachmittags besuchen wir die Kirche und das Museum, beide bequem zu Fuß von den Bushaltestellen erreichbar. Der Abend endet mit der Rückfahrt im Bus, während die Regentropfen an den Fenstern den Abschied von Cómpeta begleiten.",
+            "hu": "Érkezés a buszmegállóba szemerkélő esőben. A főtérig tartó rövid út a szűk utcáknak köszönhetően védett. Délben a Plaza Almijara a találkozóhely, ahol a napellenzők alatt szárazon maradhatunk. Délután a templomot és a múzeumot látogatjuk meg, mindkettő könnyen elérhető gyalog a buszmegállóktól. Az este a buszos visszúttal zárul, miközben az ablakon lefolyó esőcseppek kísérik a búcsút Cómpetától.",
+            "ro": "Sosire la stația de autobuz pe o ploaie ușoară. Drumul scurt spre piața principală este protejat datorită străzilor înguste. La prânz, Plaza Almijara este punctul de întâlnire unde puteți rămâne uscați sub copertine. După-amiaza vizităm biserica și muzeul, ambele fiind ușor accesibile pe jos de la stațiile de autobuz. Seara se încheie cu drumul de întoarcere cu autobuzul, în timp ce picăturile de ploaie de pe geam însoțesc plecarea din Cómpeta.",
+            "en": "Arrival at the bus stop in light drizzle. The short walk to the main square is sheltered thanks to the narrow streets. At noon, Plaza Almijara is the meeting point where you can stay dry under the awnings. In the afternoon, we visit the church and museum, both easily accessible on foot from the bus stops. The evening concludes with the bus ride back, with raindrops on the windows accompanying the farewell to Cómpeta."
+          },
+          "stops": [
+            {
+              "name": "Bushaltestelle Cómpeta",
+              "tip_5lang": {
+                "de": "Überdachter Wartebereich vorhanden.",
+                "hu": "Fedett várakozóhely áll rendelkezésre.",
+                "ro": "Zonă de așteptare acoperită disponibilă.",
+                "en": "Covered waiting area available."
+              }
+            },
+            {
+              "name": "Plaza Almijara",
+              "tip_5lang": {
+                "de": "Zentrale Cafés bieten guten Schutz vor Regen.",
+                "hu": "A központi kávézók jó védelmet nyújtanak az eső ellen.",
+                "ro": "Cafenelele centrale oferă protecție bună împotriva ploii.",
+                "en": "Central cafes provide good shelter from the rain."
+              }
+            },
+            {
+              "name": "Kirche La Asunción",
+              "tip_5lang": {
+                "de": "Nur 3 Minuten Fußweg von der Haltestelle entfernt.",
+                "hu": "Mindössze 3 perc séta a megállótól.",
+                "ro": "La doar 3 minute de mers pe jos de stație.",
+                "en": "Only a 3-minute walk from the stop."
+              }
+            },
+            {
+              "name": "Museo de Artes Populares",
+              "tip_5lang": {
+                "de": "Idealer Ort, um die Zeit bis zum nächsten Bus zu überbrücken.",
+                "hu": "Ideális hely a következő buszig hátralévő idő eltöltésére.",
+                "ro": "Locul ideal pentru a petrece timpul până la următorul autobuz.",
+                "en": "Ideal place to spend time until the next bus."
+              }
+            },
+            {
+              "name": "Paseo de las Tradiciones",
+              "tip_5lang": {
+                "de": "Kurzer, teils überdachter Weg zurück zur Haltestelle.",
+                "hu": "Rövid, részben fedett út vissza a megállóhoz.",
+                "ro": "Drum scurt, parțial acoperit, înapoi spre stație.",
+                "en": "Short, partly sheltered path back to the stop."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Busfahrplan online, da es bei Unwettern Verzögerungen geben kann.",
+              "Die Bushaltestelle in Cómpeta bietet Schutz vor Wind und Regen.",
+              "Tragen Sie wasserfeste Schuhe für die kurzen Wege zwischen den Sehenswürdigkeiten.",
+              "Nutzen Sie die Cafés nahe der Haltestelle für die Wartezeit.",
+              "Busse können bei Nässe etwas langsamer in den Kurven fahren."
+            ],
+            "hu": [
+              "Ellenőrizze a buszmenetrendet online, mert vihar esetén késések lehetnek.",
+              "Cómpeta buszmegállója védelmet nyújt a szél és az eső ellen.",
+              "Viseljen vízálló cipőt a látnivalók közötti rövid szakaszokon.",
+              "Használja a megálló közeli kávézókat a várakozási időre.",
+              "A buszok vizes úton lassabban közlekedhetnek a kanyarokban."
+            ],
+            "ro": [
+              "Verificați programul autobuzelor online, pot apărea întârzieri în caz de furtună.",
+              "Stația de autobuz din Cómpeta oferă protecție împotriva vântului și ploii.",
+              "Purtați încălțăminte impermeabilă pentru distanțele scurte dintre obiective.",
+              "Folosiți cafenelele de lângă stație pentru timpul de așteptare.",
+              "Autobuzele pot circula mai încet în curbe pe carosabil umed."
+            ],
+            "en": [
+              "Check the bus schedule online, as there may be delays during storms.",
+              "The bus stop in Cómpeta provides shelter from wind and rain.",
+              "Wear waterproof shoes for the short walks between attractions.",
+              "Use the cafes near the stop for your waiting time.",
+              "Buses may travel slower through curves in wet conditions."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintertag beginnt mit der Busfahrt durch die sonnigen Berge. Die Aussicht aus dem Busfenster ist heute brillant. Mittags ist der Hauptplatz der ideale Ort, um die Wärme der Wintersonne aufzusaugen. Nachmittags schlendern wir gemütlich durch das Dorf, während die Luft erfrischend kühl bleibt. Der Tag endet an der Bushaltestelle, kurz bevor die Sonne untergeht und die Kälte der Nacht einzieht.",
+            "hu": "Tiszta téli nap indul buszozással a napsütötte hegyekben. A kilátás a busz ablakából ma lenyűgöző. Délben a főtér az ideális hely a téli napsütés melegének beszippantására. Délután kényelmesen sétálunk a faluban, miközben a levegő frissítően hűvös marad. A nap a buszmegállóban zárul, éppen mielőtt a nap lebukik és beáll az éjszakai hideg.",
+            "ro": "O zi clară de iarnă începe cu o călătorie cu autobuzul prin munții însoriți. Vederea de pe geam este briliantă astăzi. La prânz, piața principală este locul ideal pentru a absorbi căldura soarelui de iarnă. După-amiaza ne plimbăm relaxați prin sat, în timp ce aerul rămâne revigorant de răcoros. Ziua se încheie la stația de autobuz, chiar înainte ca soarele să apună și să se instaleze frigul nopții.",
+            "en": "A clear winter day begins with a bus ride through the sunny mountains. The view from the bus window is brilliant today. At noon, the main square is the ideal place to soak up the warmth of the winter sun. In the afternoon, we stroll comfortably through the village while the air remains refreshingly cool. The day ends at the bus stop just before the sun sets and the night chill sets in."
+          },
+          "stops": [
+            {
+              "name": "Bushaltestelle Cómpeta",
+              "tip_5lang": {
+                "de": "In der Sonne warten ist angenehmer als im Schatten.",
+                "hu": "A napon várakozni kellemesebb, mint az árnyékban.",
+                "ro": "Așteptarea la soare este mai plăcută decât la umbră.",
+                "en": "Waiting in the sun is more pleasant than in the shade."
+              }
+            },
+            {
+              "name": "Plaza Almijara",
+              "tip_5lang": {
+                "de": "Perfekt für ein warmes Getränk im Freien.",
+                "hu": "Tökéletes egy meleg italhoz a szabadban.",
+                "ro": "Perfect pentru o băutură caldă în aer liber.",
+                "en": "Perfect for a warm drink outdoors."
+              }
+            },
+            {
+              "name": "Kirche La Asunción",
+              "tip_5lang": {
+                "de": "Drinnen kann es im Winter recht zugig sein.",
+                "hu": "Bent télen elég huzatos lehet.",
+                "ro": "În interior poate fi destul de mult curent iarna.",
+                "en": "It can be quite drafty inside in winter."
+              }
+            },
+            {
+              "name": "Museo de Artes Populares",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch als Aufwärmpause.",
+                "hu": "Használja a múzeumlátogatást melegedő pihenőként.",
+                "ro": "Folosiți vizita la muzeu ca o pauză de încălzire.",
+                "en": "Use the museum visit as a warm-up break."
+              }
+            },
+            {
+              "name": "Paseo de las Tradiciones",
+              "tip_5lang": {
+                "de": "Genießen Sie das letzte Sonnenlicht vor der Rückfahrt.",
+                "hu": "Élvezze az utolsó napsugarakat a visszaindulás előtt.",
+                "ro": "Bucurați-vă de ultimele raze de soare înainte de plecare.",
+                "en": "Enjoy the last sunlight before heading back."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie warme Kleidung für die Wartezeit an der Haltestelle.",
+              "Die Busse sind im Winter meist gut beheizt.",
+              "Nutzen Sie die klaren Tage für weite Ausblicke während der Fahrt.",
+              "Die Busfrequenz kann im Winter leicht reduziert sein, prüfen Sie den Plan.",
+              "Nehmen Sie einen frühen Bus, um das Tageslicht voll auszunutzen."
+            ],
+            "hu": [
+              "Viseljen meleg ruhát a megállóban való várakozáshoz.",
+              "A buszok télen általában jól fűtöttek.",
+              "Használja ki a tiszta napokat a távoli kilátásért utazás közben.",
+              "A buszjáratok sűrűsége télen kisebb lehet, ellenőrizze a menetrendet.",
+              "Válasszon korai buszt, hogy teljes mértékben kihasználja a nappali fényt."
+            ],
+            "ro": [
+              "Purtați haine groase pentru timpul de așteptare în stație.",
+              "Autobuzele sunt de obicei bine încălzite iarna.",
+              "Profitate de zilele clare pentru vederi panoramice în timpul mersului.",
+              "Frecvența autobuzelor poate fi ușor redusă iarna, verificați orarul.",
+              "Luați un autobuz matinal pentru a profita la maximum de lumina zilei."
+            ],
+            "en": [
+              "Wear warm clothing for the waiting time at the stop.",
+              "Buses are usually well-heated in winter.",
+              "Use clear days for wide views during the journey.",
+              "Bus frequency may be slightly reduced in winter; check the schedule.",
+              "Take an early bus to make the most of the daylight."
+            ]
+          }
+        }
+      }
+    }
+  },
+  "external_resources": {
+    "tourism_office": "https://www.turismocompeta.com/",
+    "transit_official": "https://www.alsa.com/",
+    "events": "https://www.competa.org/",
+    "webcam": "https://www.skylinewebcams.com/",
+    "restaurants_booking": "https://www.tiqets.com/es",
+    "language_tips": {
+      "de": "In Competa wohnen viele britische, niederlaendische und deutsche Auswanderer, Englisch funktioniert ueberall. Aber das Dorf ist traditionell, im Bodega Bar werden Sie mit ein paar Spanischbrocken sofort als Stammgast behandelt, probieren Sie den hauseigenen 'vino dulce'.",
+      "hu": "Cómpetában sok brit, holland és német kivándorló él, angollal mindenhol elboldogulsz. A falu viszont hagyományos, a bodegában néhány spanyol szóval rögtön törzsvendég leszel, kóstold meg a helyi 'vino dulce' (édes bor) különlegességet.",
+      "ro": "In Cómpeta locuiesc multi britanici, olandezi si germani, engleza merge peste tot. Dar satul e traditional, in bodega cu cateva cuvinte de spaniola devii imediat client de casa, gusta 'vino dulce' local.",
+      "en": "Cómpeta has a big British, Dutch and German expat community, English works everywhere. The village stays traditional though, drop a few Spanish words in the bodega and you're instantly a regular, try the local 'vino dulce' sweet wine."
+    },
+    "best_time_to_visit": {
+      "de": "April, Mai, September und Oktober bringen mildes Bergklima, ideal fuer Wanderungen in der Sierra de Almijara. Im August ist das Weinfest Noche del Vino (15. August) das Highlight, im Winter sonnig und ideal fuer Wandertouren.",
+      "hu": "Április, május, szeptember és október enyhe hegyi klímát hoz, ideális a Sierra de Almijara túrákhoz. Augusztusban a Noche del Vino bortfesztivál (augusztus 15.) a fénypont, télen napos és tökéletes túrázásra.",
+      "ro": "Aprilie, mai, septembrie si octombrie aduc clima blanda de munte, ideala pentru drumetii in Sierra de Almijara. In august festivalul vinului Noche del Vino (15 august) e atractia, iarna e insorita si buna de drumetie.",
+      "en": "April, May, September and October bring mild mountain weather, perfect for Sierra de Almijara hikes. The Noche del Vino wine festival on August 15 is the year's highlight, winter is sunny and ideal for trekking."
+    },
+    "neighborhood_warnings": {
+      "de": "Competa ist absolut sicher, ein kleines Bergdorf ohne Kriminalitaet. Die Anfahrt ueber die kurvige MA-111 von der Kueste ist anspruchsvoll, fahren Sie tagsueber und beachten Sie Ziegen und Wanderer auf der Strasse.",
+      "hu": "Cómpeta tökéletesen biztonságos, kis hegyi falu nulla bűnözéssel. A felvezető MA-111 kanyargós a tengerparttól, nappal vezess és figyelj a kecskékre és túrázókra az úton.",
+      "ro": "Cómpeta e absolut sigura, sat de munte fara criminalitate. Drumul de acces MA-111 e sinuos de la coasta, condu ziua si atentie la capre si drumeti pe sosea.",
+      "en": "Cómpeta is completely safe, a small mountain village with effectively no crime. The MA-111 access road from the coast is winding, drive in daylight and watch for goats and hikers on the road."
+    }
+  }
+}

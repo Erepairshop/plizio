@@ -1,0 +1,2889 @@
+{
+  "city_id": "alquezar",
+  "anchor": {
+    "name": "Alquézar",
+    "coords": [
+      0.0314,
+      42.1736
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:00",
+      "total_km": 2.9,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Plaza Mayor (Rafael Ayerbe)",
+          "coords": [
+            0.029,
+            42.173
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die typischen Arkadenhäuser bei einem Kaffee.",
+            "hu": "Csodálja meg a tipikus árkádos házakat egy kávé mellett.",
+            "ro": "Admirați casele tipice cu arcade la o cafea.",
+            "en": "Admire the typical arcaded houses over a coffee."
+          }
+        },
+        {
+          "name": "Stiftskirche Santa Maria la Mayor",
+          "coords": [
+            0.032,
+            42.174
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:50",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Die Fresken im Kreuzgang sind beeindruckend.",
+            "hu": "A kerengő freskói igazán lenyűgözőek.",
+            "ro": "Frescele din mănăstire sunt impresionante.",
+            "en": "The frescoes in the cloister are impressive."
+          }
+        },
+        {
+          "name": "Burg von Alquézar",
+          "coords": [
+            0.033,
+            42.1745
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein historisches Highlight mit Blick auf die Schlucht.",
+            "hu": "Történelmi fénypont a szurdokra nyíló kilátással.",
+            "ro": "Un punct de atracție istoric cu vedere la defileu.",
+            "en": "A historical highlight with a view of the gorge."
+          }
+        },
+        {
+          "name": "Stege des Flusses Vero",
+          "coords": [
+            0.035,
+            42.175
+          ],
+          "category": "natural features",
+          "arrive_at": "12:30",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Trittsicherheit ist auf diesem herrlichen Wanderweg erforderlich.",
+            "hu": "Lépésbiztonság szükséges ezen a csodás túraútvonalon.",
+            "ro": "Este necesară siguranța la mers pe acest traseu superb.",
+            "en": "Surefootedness is required on this beautiful hiking trail."
+          }
+        },
+        {
+          "name": "Aussichtspunkt Lächeln von Alquézar",
+          "coords": [
+            0.025,
+            42.17
+          ],
+          "category": "natural features",
+          "arrive_at": "14:50",
+          "stay_min": 70,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Die beste Aussicht auf das Dorf, ideal für Fotos.",
+            "hu": "A legjobb kilátás a falura, tökéletes fotózáshoz.",
+            "ro": "Cea mai bună vedere asupra satului, ideală pentru poze.",
+            "en": "The best view of the village, ideal for photos."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Tag beginnt an der malerischen Plaza Mayor. Vormittags beeindrucken die Stiftskirche und die mächtige Burg hoch über dem Tal. Am Nachmittag wandern Sie über die berühmten Stege des Flusses Vero. Beenden Sie den Tag am Aussichtspunkt für ein unvergessliches Panorama.",
+        "hu": "A nap a festői Plaza Mayor téren indul. Délelőtt a lenyűgöző társaskáptalani templom és a hatalmas vár várja. Délután sétáljon végig a híres Vero folyó pallóin. Zárja a napot a kilátónál egy felejthetetlen panorámával.",
+        "ro": "Ziua începe în pitoreasca Plaza Mayor. Dimineața veți fi impresionați de biserica colegială și de castelul impunător. După-amiaza, plimbați-vă pe faimoasele pasarele ale râului Vero. Încheiați ziua la punctul de belvedere cu o panoramă de neuitat.",
+        "en": "The day begins at the picturesque Plaza Mayor. In the morning, the collegiate church and the mighty castle will impress you. In the afternoon, hike along the famous footbridges of the Vero river. End the day at the viewpoint for an unforgettable panorama."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Chiretas",
+            "tip": "Gefüllte Lamminnereien, eine lokale Spezialität."
+          },
+          {
+            "name": "Vino del Somontano",
+            "tip": "Probieren Sie den exzellenten regionalen Wein."
+          },
+          {
+            "name": "Queso de Radiquero",
+            "tip": "Milder Ziegenkäse aus der Nähe."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Chiretas",
+            "tip": "Töltött báránybelsőségek, helyi különlegesség."
+          },
+          {
+            "name": "Vino del Somontano",
+            "tip": "Kóstolja meg a kiváló környékbeli bort."
+          },
+          {
+            "name": "Queso de Radiquero",
+            "tip": "Lágy kecskesajt a közeli településről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chiretas",
+            "tip": "Măruntaie de miel umplute, o specialitate locală."
+          },
+          {
+            "name": "Vino del Somontano",
+            "tip": "Gustați vinul regional excelent."
+          },
+          {
+            "name": "Queso de Radiquero",
+            "tip": "Brânză de capră moale din apropiere."
+          }
+        ],
+        "en": [
+          {
+            "name": "Chiretas",
+            "tip": "Stuffed lamb offal, a local specialty."
+          },
+          {
+            "name": "Vino del Somontano",
+            "tip": "Taste the excellent regional wine."
+          },
+          {
+            "name": "Queso de Radiquero",
+            "tip": "Mild goat cheese from nearby."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtspunkt Lächeln von Alquézar",
+            "tip": "Herrlich zum Sonnenuntergang.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Vero Fluss",
+            "tip": "Entspannen Sie am klaren Wasser.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Einsiedelei Unserer Lieben Frau vom Schnee",
+            "tip": "Ein stiller Ort der Andacht.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Alquézari mosoly kilátó",
+            "tip": "Gyönyörű naplemente idején.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Vero folyó",
+            "tip": "Pihenjen a tiszta víz mellett.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A Havas Boldogasszony remetelak",
+            "tip": "Egy csendes hely az elmélkedésre.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Belvedere Zâmbetul lui Alquézar",
+            "tip": "Superb la apusul soarelui.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Râul Vero",
+            "tip": "Relaxați-vă lângă apa limpede.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Schitul Maicii Domnului a Zăpezilor",
+            "tip": "Un loc liniștit de reflecție.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Smile of Alquézar Viewpoint",
+            "tip": "Beautiful at sunset.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Vero River",
+            "tip": "Relax by the clear water.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hermitage of Our Lady of the Snows",
+            "tip": "A quiet place for reflection.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Somontano Wein",
+            "tip": "Ein Muss in den Weinhandlungen."
+          },
+          {
+            "name": "Olivenöl",
+            "tip": "Lokales, hochwertiges Olivenöl."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Somontano bor",
+            "tip": "Kötelező vétel a borszaküzletekben."
+          },
+          {
+            "name": "Olívaolaj",
+            "tip": "Helyi, prémium minőségű olívaolaj."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vin Somontano",
+            "tip": "Un must-have în magazinele de vinuri."
+          },
+          {
+            "name": "Ulei de măsline",
+            "tip": "Ulei de măsline local, de înaltă calitate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Somontano Wine",
+            "tip": "A must-buy in the wine shops."
+          },
+          {
+            "name": "Olive Oil",
+            "tip": "Local, high-quality olive oil."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Gutes Schuhwerk ist für die Flusspassagen unerlässlich.",
+          "Nehmen Sie im Sommer ausreichend Wasser mit.",
+          "Die Wanderung über die Stege dauert ca. 2 Stunden.",
+          "Informieren Sie sich vorab über den Wasserstand des Flusses."
+        ],
+        "hu": [
+          "A jó cipő elengedhetetlen a folyami szakaszokhoz.",
+          "Nyáron vigyen magával elegendő vizet.",
+          "A pallókon való túra körülbelül 2 órát vesz igénybe.",
+          "Előzetesen tájékozódjon a folyó vízállásáról."
+        ],
+        "ro": [
+          "Încălțămintea bună este esențială pentru pasajele râului.",
+          "Vara luați suficientă apă cu dumneavoastră.",
+          "Drumeția pe pasarele durează aproximativ 2 ore.",
+          "Informați-vă în prealabil despre nivelul apei râului."
+        ],
+        "en": [
+          "Good footwear is essential for the river passages.",
+          "Take plenty of water with you in summer.",
+          "The hike along the footbridges takes about 2 hours.",
+          "Check the water level of the river in advance."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt an der malerischen Plaza Mayor. Vormittags beeindrucken die Stiftskirche und die mächtige Burg hoch über dem Tal. Am Nachmittag wandern Sie über die berühmten Stege des Flusses Vero. Beenden Sie den Tag am Aussichtspunkt für ein unvergessliches Panorama.",
+            "hu": "A nap a festői Plaza Mayor téren indul. Délelőtt a lenyűgöző társaskáptalani templom és a hatalmas vár várja. Délután sétáljon végig a híres Vero folyó pallóin. Zárja a napot a kilátónál egy felejthetetlen panorámával.",
+            "ro": "Ziua începe în pitoreasca Plaza Mayor. Dimineața veți fi impresionați de biserica colegială și de castelul impunător. După-amiaza, plimbați-vă pe faimoasele pasarele ale râului Vero. Încheiați ziua la punctul de belvedere cu o panoramă de neuitat.",
+            "en": "The day begins at the picturesque Plaza Mayor. In the morning, the collegiate church and the mighty castle will impress you. In the afternoon, hike along the famous footbridges of the Vero river. End the day at the viewpoint for an unforgettable panorama."
+          },
+          "stops": [
+            {
+              "name": "Plaza Mayor (Rafael Ayerbe)",
+              "tip_5lang": {
+                "de": "Bewundern Sie die typischen Arkadenhäuser bei einem Kaffee.",
+                "hu": "Csodálja meg a tipikus árkádos házakat egy kávé mellett.",
+                "ro": "Admirați casele tipice cu arcade la o cafea.",
+                "en": "Admire the typical arcaded houses over a coffee."
+              }
+            },
+            {
+              "name": "Stiftskirche Santa Maria la Mayor",
+              "tip_5lang": {
+                "de": "Die Fresken im Kreuzgang sind beeindruckend.",
+                "hu": "A kerengő freskói igazán lenyűgözőek.",
+                "ro": "Frescele din mănăstire sunt impresionante.",
+                "en": "The frescoes in the cloister are impressive."
+              }
+            },
+            {
+              "name": "Burg von Alquézar",
+              "tip_5lang": {
+                "de": "Ein historisches Highlight mit Blick auf die Schlucht.",
+                "hu": "Történelmi fénypont a szurdokra nyíló kilátással.",
+                "ro": "Un punct de atracție istoric cu vedere la defileu.",
+                "en": "A historical highlight with a view of the gorge."
+              }
+            },
+            {
+              "name": "Stege des Flusses Vero",
+              "tip_5lang": {
+                "de": "Trittsicherheit ist auf diesem herrlichen Wanderweg erforderlich.",
+                "hu": "Lépésbiztonság szükséges ezen a csodás túraútvonalon.",
+                "ro": "Este necesară siguranța la mers pe acest traseu superb.",
+                "en": "Surefootedness is required on this beautiful hiking trail."
+              }
+            },
+            {
+              "name": "Aussichtspunkt Lächeln von Alquézar",
+              "tip_5lang": {
+                "de": "Die beste Aussicht auf das Dorf, ideal für Fotos.",
+                "hu": "A legjobb kilátás a falura, tökéletes fotózáshoz.",
+                "ro": "Cea mai bună vedere asupra satului, ideală pentru poze.",
+                "en": "The best view of the village, ideal for photos."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Chiretas",
+                "tip": "Gefüllte Lamminnereien, eine lokale Spezialität."
+              },
+              {
+                "name": "Vino del Somontano",
+                "tip": "Probieren Sie den exzellenten regionalen Wein."
+              },
+              {
+                "name": "Queso de Radiquero",
+                "tip": "Milder Ziegenkäse aus der Nähe."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Chiretas",
+                "tip": "Töltött báránybelsőségek, helyi különlegesség."
+              },
+              {
+                "name": "Vino del Somontano",
+                "tip": "Kóstolja meg a kiváló környékbeli bort."
+              },
+              {
+                "name": "Queso de Radiquero",
+                "tip": "Lágy kecskesajt a közeli településről."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Chiretas",
+                "tip": "Măruntaie de miel umplute, o specialitate locală."
+              },
+              {
+                "name": "Vino del Somontano",
+                "tip": "Gustați vinul regional excelent."
+              },
+              {
+                "name": "Queso de Radiquero",
+                "tip": "Brânză de capră moale din apropiere."
+              }
+            ],
+            "en": [
+              {
+                "name": "Chiretas",
+                "tip": "Stuffed lamb offal, a local specialty."
+              },
+              {
+                "name": "Vino del Somontano",
+                "tip": "Taste the excellent regional wine."
+              },
+              {
+                "name": "Queso de Radiquero",
+                "tip": "Mild goat cheese from nearby."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Aussichtspunkt Lächeln von Alquézar",
+                "tip": "Herrlich zum Sonnenuntergang.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Vero Fluss",
+                "tip": "Entspannen Sie am klaren Wasser.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Einsiedelei Unserer Lieben Frau vom Schnee",
+                "tip": "Ein stiller Ort der Andacht.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Alquézari mosoly kilátó",
+                "tip": "Gyönyörű naplemente idején.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Vero folyó",
+                "tip": "Pihenjen a tiszta víz mellett.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "A Havas Boldogasszony remetelak",
+                "tip": "Egy csendes hely az elmélkedésre.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Belvedere Zâmbetul lui Alquézar",
+                "tip": "Superb la apusul soarelui.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Râul Vero",
+                "tip": "Relaxați-vă lângă apa limpede.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Schitul Maicii Domnului a Zăpezilor",
+                "tip": "Un loc liniștit de reflecție.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Smile of Alquézar Viewpoint",
+                "tip": "Beautiful at sunset.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Vero River",
+                "tip": "Relax by the clear water.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Hermitage of Our Lady of the Snows",
+                "tip": "A quiet place for reflection.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Somontano Wein",
+                "tip": "Ein Muss in den Weinhandlungen."
+              },
+              {
+                "name": "Olivenöl",
+                "tip": "Lokales, hochwertiges Olivenöl."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Somontano bor",
+                "tip": "Kötelező vétel a borszaküzletekben."
+              },
+              {
+                "name": "Olívaolaj",
+                "tip": "Helyi, prémium minőségű olívaolaj."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Vin Somontano",
+                "tip": "Un must-have în magazinele de vinuri."
+              },
+              {
+                "name": "Ulei de măsline",
+                "tip": "Ulei de măsline local, de înaltă calitate."
+              }
+            ],
+            "en": [
+              {
+                "name": "Somontano Wine",
+                "tip": "A must-buy in the wine shops."
+              },
+              {
+                "name": "Olive Oil",
+                "tip": "Local, high-quality olive oil."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Gutes Schuhwerk ist für die Flusspassagen unerlässlich.",
+              "Nehmen Sie im Sommer ausreichend Wasser mit.",
+              "Die Wanderung über die Stege dauert ca. 2 Stunden.",
+              "Informieren Sie sich vorab über den Wasserstand des Flusses."
+            ],
+            "hu": [
+              "A jó cipő elengedhetetlen a folyami szakaszokhoz.",
+              "Nyáron vigyen magával elegendő vizet.",
+              "A pallókon való túra körülbelül 2 órát vesz igénybe.",
+              "Előzetesen tájékozódjon a folyó vízállásáról."
+            ],
+            "ro": [
+              "Încălțămintea bună este esențială pentru pasajele râului.",
+              "Vara luați suficientă apă cu dumneavoastră.",
+              "Drumeția pe pasarele durează aproximativ 2 ore.",
+              "Informați-vă în prealabil despre nivelul apei râului."
+            ],
+            "en": [
+              "Good footwear is essential for the river passages.",
+              "Take plenty of water with you in summer.",
+              "The hike along the footbridges takes about 2 hours.",
+              "Check the water level of the river in advance."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bieten die Arkaden der Plaza Mayor Schutz vor dem Regen. Mittags erkunden wir die Stiftskirche und die Burg, während die Wolken tief über dem Vero-Canyon hängen. Nachmittags erfordern die Stege nasse Vorsicht, belohnen aber mit dramatischer Natur. Abends genießen wir den Blick auf das neblige Alquézar bei einem heißen Wein.",
+            "hu": "Reggel a Plaza Mayor árkádjai alatt kezdünk, védve az esőtől. Délben a templom és a vár falai között keresünk menedéket, miközben a köd belepi a Vero-kanyont. Délután a pallók csúszósak, de a látvány lenyűgöző. Este a város párás sziluettjében gyönyörködünk egy helyi fogadó melegéből.",
+            "ro": "Dimineața, arcadele din Plaza Mayor oferă adăpost împotriva ploii. La prânz explorăm biserica și castelul, în timp ce norii atârnă jos peste canionul Vero. După-amiaza, pasarelele necesită prudență fiind ude, dar oferă o natură dramatică. Seara admirăm panorama orașului cețos dintr-un local călduros.",
+            "en": "In the morning, the Plaza Mayor arches provide shelter from the rain. At noon, we explore the collegiate church and castle while clouds hang low over the Vero Canyon. In the afternoon, the walkways require wet-weather caution but reward with dramatic views. In the evening, we enjoy the misty silhouette of Alquézar from a cozy spot."
+          },
+          "stops": [
+            {
+              "name": "Plaza Mayor (Rafael Ayerbe)",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkadengänge, um trocken zu bleiben.",
+                "hu": "Használja az árkádokat a szárazon maradáshoz.",
+                "ro": "Folosiți arcadele pentru a rămâne uscat.",
+                "en": "Use the arched walkways to stay dry."
+              }
+            },
+            {
+              "name": "Stiftskirche Santa Maria la Mayor",
+              "tip_5lang": {
+                "de": "Idealer Ort für eine längere Innenbesichtigung bei Schauern.",
+                "hu": "Ideális helyszín egy hosszabb benti látogatásra zápor idején.",
+                "ro": "Loc ideal pentru o vizită interioară lungă în timpul ploii.",
+                "en": "Ideal spot for a longer indoor visit during showers."
+              }
+            },
+            {
+              "name": "Burg von Alquézar",
+              "tip_5lang": {
+                "de": "Vorsicht auf den nassen Steinstufen zum Burgberg.",
+                "hu": "Vigyázat a várhegyre vezető nedves kőlépcsőkön.",
+                "ro": "Atenție la treptele de piatră ude spre dealul castelului.",
+                "en": "Caution on the wet stone steps leading to the castle."
+              }
+            },
+            {
+              "name": "Stege des Flusses Vero",
+              "tip_5lang": {
+                "de": "Nur mit rutschfesten Schuhen und Regenponcho begehen.",
+                "hu": "Csak csúszásmentes cipőben és esőponcsóban induljon el.",
+                "ro": "Parcurgeți traseul doar cu încălțăminte aderentă și pelerină.",
+                "en": "Only attempt with non-slip shoes and a rain poncho."
+              }
+            },
+            {
+              "name": "Aussichtspunkt Lächeln von Alquézar",
+              "tip_5lang": {
+                "de": "Der Nebel im Tal erzeugt eine mystische Fotokulisse.",
+                "hu": "A völgyben lévő köd misztikus fotótémát kínál.",
+                "ro": "Ceața din vale creează un cadru foto mistic.",
+                "en": "The mist in the valley creates a mystical photo backdrop."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie knöchelhohe Wanderschuhe, da die Kalksteinwege bei Nässe sehr glatt werden.",
+              "Ein Regenponcho ist auf den engen Pasarelas praktischer als ein Regenschirm.",
+              "Prüfen Sie im Touristenbüro, ob der Weg durch die Schlucht wegen Hochwasser offen ist.",
+              "Die Plaza Mayor bietet viele überdachte Cafés für eine Pause im Trockenen.",
+              "Packen Sie Ihre Elektronik in wasserdichte Beutel für die Schluchtwanderung."
+            ],
+            "hu": [
+              "Viseljen bokát tartó túrabakancsot, mert a mészkő utak nedvesen nagyon csúsznak.",
+              "Az esőponcsó praktikusabb a szűk pallókon, mint az esernyő.",
+              "Érdeklődjön a turisztikai irodában, hogy a kanyon járható-e áradásveszély miatt.",
+              "A Plaza Mayor számos fedett kávézót kínál a száraz pihenéshez.",
+              "Tegye elektronikai eszközeit vízhatlan tasakba a szurdoktúra előtt."
+            ],
+            "ro": [
+              "Purtați bocanci de munte, deoarece potecile de calcar devin foarte alunecoase la umiditate.",
+              "O pelerină de ploaie este mai practică pe pasarelele înguste decât o umbrelă.",
+              "Verificați la biroul de turism dacă traseul prin canion este deschis în caz de viitură.",
+              "Plaza Mayor oferă multe cafenele acoperite pentru o pauză la uscat.",
+              "Puneți electronicele în pungi impermeabile pentru drumeția prin chei."
+            ],
+            "en": [
+              "Wear ankle-support hiking boots as limestone paths get very slippery when wet.",
+              "A rain poncho is more practical than an umbrella on the narrow boardwalks.",
+              "Check at the tourist office if the gorge path is open during heavy rain.",
+              "Plaza Mayor offers many covered cafes for a dry break.",
+              "Pack electronics in waterproof bags for the gorge hike."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen beginnt frisch in den leeren Gassen. Mittags wärmt uns die Sonne an den Südwänden der Burg und der Kirche. Nachmittags ist die Luft im Canyon kristallklar und ruhig. Den Tag beenden wir bei Sonnenuntergang am Aussichtspunkt, bevor wir uns bei einem kräftigen Somontano-Wein aufwärmen.",
+            "hu": "A tiszta téli reggel frissen indul az üres sikátorokban. Délben a nap melengeti a vár és a templom déli falait. Délután a kanyon levegője kristálytiszta és csendes. A napot naplementekor zárjuk a kilátónál, majd egy testes Somontano bor mellett melegszünk fel.",
+            "ro": "O dimineață senină de iarnă începe proaspăt pe străzile goale. La prânz soarele ne încălzește la zidurile sudice ale castelului și bisericii. După-amiaza aerul din canion este cristalini și liniștit. Încheiem ziua la apus la punctul de belvedere, înainte de a ne încălzi cu un vin de Somontano.",
+            "en": "A clear winter morning starts fresh in the empty alleys. At noon, the sun warms us by the south walls of the castle and church. In the afternoon, the canyon air is crystal clear and quiet. We end the day at sunset at the viewpoint before warming up with a bold Somontano wine."
+          },
+          "stops": [
+            {
+              "name": "Plaza Mayor (Rafael Ayerbe)",
+              "tip_5lang": {
+                "de": "Genießen Sie die Stille vor dem Eintreffen der wenigen Tagestouristen.",
+                "hu": "Élvezze a csendet a kevés napközbeni turista érkezése előtt.",
+                "ro": "Bucurați-vă de liniște înainte de sosirea puțini turiști de zi.",
+                "en": "Enjoy the silence before the few day tourists arrive."
+              }
+            },
+            {
+              "name": "Stiftskirche Santa Maria la Mayor",
+              "tip_5lang": {
+                "de": "Achten Sie auf die kühle Innentemperatur; ziehen Sie sich warm an.",
+                "hu": "Ügyeljen a hűvös benti hőmérsékletre; öltözzön fel melegen.",
+                "ro": "Atenție la temperatura scăzută din interior; îmbrăcați-vă bine.",
+                "en": "Note the cool indoor temperature; dress warmly."
+              }
+            },
+            {
+              "name": "Burg von Alquézar",
+              "tip_5lang": {
+                "de": "Bester Platz für Sonnenbäder an den geschützten Burgmauern.",
+                "hu": "A legjobb hely a napfürdőzésre a védett várfalaknál.",
+                "ro": "Cel mai bun loc pentru plajă la soare lângă zidurile protejate.",
+                "en": "Best spot for sunbathing by the protected castle walls."
+              }
+            },
+            {
+              "name": "Stege des Flusses Vero",
+              "tip_5lang": {
+                "de": "Im Schatten des Canyons ist es deutlich kälter als oben im Dorf.",
+                "hu": "A kanyon árnyékában jóval hidegebb van, mint fent a faluban.",
+                "ro": "În umbra canionului este mult mai frig decât sus în sat.",
+                "en": "It is significantly colder in the canyon shadow than in the village."
+              }
+            },
+            {
+              "name": "Aussichtspunkt Lächeln von Alquézar",
+              "tip_5lang": {
+                "de": "Perfekter Ort für den frühen Winter-Sonnenuntergang gegen 17:30.",
+                "hu": "Tökéletes hely a korai téli naplementéhez 17:30 körül.",
+                "ro": "Loc perfect pentru apusul timpuriu de iarnă în jur de 17:30.",
+                "en": "Perfect spot for the early winter sunset around 17:30."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Zwiebelprinzip bei der Kleidung: Die Sonne wärmt mittags, aber der Schatten ist frostig.",
+              "Die Sonne verschwindet im Winter früh hinter den Felsen, planen Sie die Schlucht vor 15 Uhr.",
+              "Probieren Sie lokale Spezialitäten wie 'Migas' oder Lammbraten zum Aufwärmen.",
+              "Die Wege können in dauerhaft schattigen Bereichen vereist sein.",
+              "Winter ist die beste Zeit für klare Fernsicht auf die schneebedeckten Pyrenäen."
+            ],
+            "hu": [
+              "Öltözzön rétegesen: a nap délben melegít, de az árnyék fagyos.",
+              "A nap télen korán eltűnik a sziklák mögött, tervezze a szurdokot 15 óra elé.",
+              "Kóstolja meg a helyi 'Migas'-t vagy báránysültet a felmelegedéshez.",
+              "Az állandóan árnyékos szakaszokon az utak jegesek lehetnek.",
+              "A tél a legjobb időszak a havas Pireneusokra nyíló tiszta kilátáshoz."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi: soarele încălzește la prânz, dar umbra este geroasă.",
+              "Soarele dispare devreme după stânci iarna, planificați cheile înainte de ora 15.",
+              "Gustați specialitățile locale precum 'Migas' sau friptura de miel pentru încălzire.",
+              "Potecile pot fi înghețate în zonele aflate permanent la umbră.",
+              "Iarna este cel mai bun moment pentru vizibilitate clară spre Pirineii înzăpeziți."
+            ],
+            "en": [
+              "Dress in layers: the sun warms at noon, but shadows are frosty.",
+              "The sun disappears early behind the rocks in winter; plan the gorge before 15:00.",
+              "Try local specialties like 'Migas' or roast lamb to warm up.",
+              "Paths can be icy in permanently shaded areas.",
+              "Winter is the best time for clear views of the snow-capped Pyrenees."
+            ]
+          }
+        }
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "15:35",
+      "total_km": 8.5,
+      "stop_count": 4,
+      "stops": [
+        {
+          "name": "Portal de Alquézar",
+          "coords": [
+            0.03,
+            42.1735
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Starten Sie hier am alten Stadttor.",
+            "hu": "Induljon innen, a régi városkaputól.",
+            "ro": "Începeți aici, la vechea poartă a orașului.",
+            "en": "Start here at the old city gate."
+          }
+        },
+        {
+          "name": "Kirche San Miguel Arcángel",
+          "coords": [
+            0.0315,
+            42.1742
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:55",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Eine charmante kleine Kirche auf dem Weg.",
+            "hu": "Egy bájos kis templom az út mentén.",
+            "ro": "O mică biserică fermecătoare pe drum.",
+            "en": "A charming little church along the way."
+          }
+        },
+        {
+          "name": "Burg von Alquézar",
+          "coords": [
+            0.033,
+            42.1745
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Sichern Sie das Rad für den kurzen Aufstieg.",
+            "hu": "Zárja le a kerékpárt a rövid emelkedőhöz.",
+            "ro": "Securizați bicicleta pentru o scurtă urcare.",
+            "en": "Lock your bike for the short climb up."
+          }
+        },
+        {
+          "name": "Aussichtspunkt Lächeln von Alquézar",
+          "coords": [
+            0.025,
+            42.17
+          ],
+          "category": "natural features",
+          "arrive_at": "12:40",
+          "stay_min": 145,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Perfekt für eine ausgiebige Pause mit Panoramablick.",
+            "hu": "Tökéletes egy hosszabb pihenőhöz panorámával.",
+            "ro": "Perfect pentru o pauză lungă cu vedere panoramică.",
+            "en": "Perfect for a long break with panoramic views."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie die Radtour am Portal de Alquézar. Fahren Sie gemütlich zur Kirche San Miguel und lassen Sie die Atmosphäre wirken. Gegen Mittag bewältigen Sie die Etappe zur Burg, um die Aussicht zu genießen. Den Nachmittag verbringen Sie entspannt am Aussichtspunkt.",
+        "hu": "Kezdje a biciklitúrát a Portal de Alquézarnál. Tekerjen el a San Miguel templomhoz és élvezze a hangulatot. Délben küzdje le a várhoz vezető szakaszt a kilátásért. A délutánt pihenéssel töltheti a kilátópontnál.",
+        "ro": "Începeți turul cu bicicleta la Portal de Alquézar. Mergeți liniștit spre biserica San Miguel și bucurați-vă de atmosferă. La prânz abordați traseul spre castel pentru a admira priveliștea. După-amiaza vă relaxați la punctul de belvedere.",
+        "en": "Start the bike tour at the Portal de Alquézar. Ride leisurely to the San Miguel church and take in the atmosphere. At midday, tackle the leg to the castle to enjoy the view. Spend the afternoon relaxing at the viewpoint."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bocadillos con Jamón",
+            "tip": "Klassische Schinkenbrötchen für die Fahrradtasche."
+          },
+          {
+            "name": "Empanadicos",
+            "tip": "Süßes oder herzhaftes Gebäck der Region."
+          },
+          {
+            "name": "Lokaler Käse",
+            "tip": "Ideal als Snack bei der Rast."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bocadillos con Jamón",
+            "tip": "Klasszikus sonkás szendvics a biciklis táskába."
+          },
+          {
+            "name": "Empanadicos",
+            "tip": "Édes vagy sós helyi péksütemény."
+          },
+          {
+            "name": "Helyi sajt",
+            "tip": "Ideális harapnivaló a pihenőnél."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bocadillos con Jamón",
+            "tip": "Sandvișuri clasice cu șuncă pentru rucsac."
+          },
+          {
+            "name": "Empanadicos",
+            "tip": "Produse de patiserie dulci sau sărate din regiune."
+          },
+          {
+            "name": "Brânză locală",
+            "tip": "Ideală ca gustare la popas."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bocadillos con Jamón",
+            "tip": "Classic ham sandwiches for the bike bag."
+          },
+          {
+            "name": "Empanadicos",
+            "tip": "Sweet or savory regional pastries."
+          },
+          {
+            "name": "Local cheese",
+            "tip": "Ideal as a snack during a break."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtspunkt Lächeln von Alquézar",
+            "tip": "Ein Muss für Fotofreunde.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Rand der Olivenhaine",
+            "tip": "Schattenplatz abseits des Zentrums.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Vero Flusstal (oben)",
+            "tip": "Tolle Fernsicht auf die Schlucht.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Alquézari mosoly kilátó",
+            "tip": "Kötelező a fotózás szerelmeseinek.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Az olajfaligetek széle",
+            "tip": "Árnyékos hely a központtól távol.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Vero folyó völgye (felülről)",
+            "tip": "Remek kilátás a szurdokra.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Belvedere Zâmbetul lui Alquézar",
+            "tip": "Un must pentru iubitorii de fotografie.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Marginea plantațiilor de măslini",
+            "tip": "Loc umbros departe de centru.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Valea râului Vero (de sus)",
+            "tip": "Vedere excelentă asupra defileului.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Smile of Alquézar Viewpoint",
+            "tip": "A must for photography lovers.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Edge of the olive groves",
+            "tip": "Shady spot away from the center.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Vero River Valley (above)",
+            "tip": "Great distant view of the gorge.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Flasche Wein",
+            "tip": "Gut verpackt für den Rucksack."
+          },
+          {
+            "name": "Olivenöl",
+            "tip": "Kleine Flaschen für unterwegs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Egy üveg bor",
+            "tip": "Jól becsomagolva a hátizsákba."
+          },
+          {
+            "name": "Olívaolaj",
+            "tip": "Kis üvegekben útravalónak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "O sticlă de vin",
+            "tip": "Bine ambalată pentru rucsac."
+          },
+          {
+            "name": "Ulei de măsline",
+            "tip": "Sticle mici pentru drum."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bottle of wine",
+            "tip": "Well packed for the backpack."
+          },
+          {
+            "name": "Olive oil",
+            "tip": "Small bottles for the road."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Radfahren im historischen Zentrum ist mühsam.",
+          "Nutzen Sie die Landstraßen für die besten Aussichten.",
+          "Die Anstiege in der Umgebung erfordern gute Kondition.",
+          "Nehmen Sie Reparaturwerkzeug für Reifenpannen mit."
+        ],
+        "hu": [
+          "A kerékpározás a történelmi központban nehézkes.",
+          "Használja az országutakat a legjobb kilátásért.",
+          "A környékbeli emelkedők jó kondíciót igényelnek.",
+          "Vigyen magával javítókészletet defekt esetére."
+        ],
+        "ro": [
+          "Mersul pe bicicletă în centrul istoric este dificil.",
+          "Folosiți drumurile de țară pentru cele mai bune priveliști.",
+          "Urcușurile din zonă necesită o condiție fizică bună.",
+          "Luați cu dumneavoastră trusa de reparații pentru pene."
+        ],
+        "en": [
+          "Cycling in the historical center is tedious.",
+          "Use the country roads for the best views.",
+          "The climbs in the area require good fitness.",
+          "Take repair tools for punctures with you."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie die Radtour am Portal de Alquézar. Fahren Sie gemütlich zur Kirche San Miguel und lassen Sie die Atmosphäre wirken. Gegen Mittag bewältigen Sie die Etappe zur Burg, um die Aussicht zu genießen. Den Nachmittag verbringen Sie entspannt am Aussichtspunkt.",
+            "hu": "Kezdje a biciklitúrát a Portal de Alquézarnál. Tekerjen el a San Miguel templomhoz és élvezze a hangulatot. Délben küzdje le a várhoz vezető szakaszt a kilátásért. A délutánt pihenéssel töltheti a kilátópontnál.",
+            "ro": "Începeți turul cu bicicleta la Portal de Alquézar. Mergeți liniștit spre biserica San Miguel și bucurați-vă de atmosferă. La prânz abordați traseul spre castel pentru a admira priveliștea. După-amiaza vă relaxați la punctul de belvedere.",
+            "en": "Start the bike tour at the Portal de Alquézar. Ride leisurely to the San Miguel church and take in the atmosphere. At midday, tackle the leg to the castle to enjoy the view. Spend the afternoon relaxing at the viewpoint."
+          },
+          "stops": [
+            {
+              "name": "Portal de Alquézar",
+              "tip_5lang": {
+                "de": "Starten Sie hier am alten Stadttor.",
+                "hu": "Induljon innen, a régi városkaputól.",
+                "ro": "Începeți aici, la vechea poartă a orașului.",
+                "en": "Start here at the old city gate."
+              }
+            },
+            {
+              "name": "Kirche San Miguel Arcángel",
+              "tip_5lang": {
+                "de": "Eine charmante kleine Kirche auf dem Weg.",
+                "hu": "Egy bájos kis templom az út mentén.",
+                "ro": "O mică biserică fermecătoare pe drum.",
+                "en": "A charming little church along the way."
+              }
+            },
+            {
+              "name": "Burg von Alquézar",
+              "tip_5lang": {
+                "de": "Sichern Sie das Rad für den kurzen Aufstieg.",
+                "hu": "Zárja le a kerékpárt a rövid emelkedőhöz.",
+                "ro": "Securizați bicicleta pentru o scurtă urcare.",
+                "en": "Lock your bike for the short climb up."
+              }
+            },
+            {
+              "name": "Aussichtspunkt Lächeln von Alquézar",
+              "tip_5lang": {
+                "de": "Perfekt für eine ausgiebige Pause mit Panoramablick.",
+                "hu": "Tökéletes egy hosszabb pihenőhöz panorámával.",
+                "ro": "Perfect pentru o pauză lungă cu vedere panoramică.",
+                "en": "Perfect for a long break with panoramic views."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Bocadillos con Jamón",
+                "tip": "Klassische Schinkenbrötchen für die Fahrradtasche."
+              },
+              {
+                "name": "Empanadicos",
+                "tip": "Süßes oder herzhaftes Gebäck der Region."
+              },
+              {
+                "name": "Lokaler Käse",
+                "tip": "Ideal als Snack bei der Rast."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Bocadillos con Jamón",
+                "tip": "Klasszikus sonkás szendvics a biciklis táskába."
+              },
+              {
+                "name": "Empanadicos",
+                "tip": "Édes vagy sós helyi péksütemény."
+              },
+              {
+                "name": "Helyi sajt",
+                "tip": "Ideális harapnivaló a pihenőnél."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Bocadillos con Jamón",
+                "tip": "Sandvișuri clasice cu șuncă pentru rucsac."
+              },
+              {
+                "name": "Empanadicos",
+                "tip": "Produse de patiserie dulci sau sărate din regiune."
+              },
+              {
+                "name": "Brânză locală",
+                "tip": "Ideală ca gustare la popas."
+              }
+            ],
+            "en": [
+              {
+                "name": "Bocadillos con Jamón",
+                "tip": "Classic ham sandwiches for the bike bag."
+              },
+              {
+                "name": "Empanadicos",
+                "tip": "Sweet or savory regional pastries."
+              },
+              {
+                "name": "Local cheese",
+                "tip": "Ideal as a snack during a break."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Aussichtspunkt Lächeln von Alquézar",
+                "tip": "Ein Muss für Fotofreunde.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Rand der Olivenhaine",
+                "tip": "Schattenplatz abseits des Zentrums.",
+                "emoji": "🍃"
+              },
+              {
+                "name": "Vero Flusstal (oben)",
+                "tip": "Tolle Fernsicht auf die Schlucht.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Alquézari mosoly kilátó",
+                "tip": "Kötelező a fotózás szerelmeseinek.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Az olajfaligetek széle",
+                "tip": "Árnyékos hely a központtól távol.",
+                "emoji": "🍃"
+              },
+              {
+                "name": "Vero folyó völgye (felülről)",
+                "tip": "Remek kilátás a szurdokra.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Belvedere Zâmbetul lui Alquézar",
+                "tip": "Un must pentru iubitorii de fotografie.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Marginea plantațiilor de măslini",
+                "tip": "Loc umbros departe de centru.",
+                "emoji": "🍃"
+              },
+              {
+                "name": "Valea râului Vero (de sus)",
+                "tip": "Vedere excelentă asupra defileului.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Smile of Alquézar Viewpoint",
+                "tip": "A must for photography lovers.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Edge of the olive groves",
+                "tip": "Shady spot away from the center.",
+                "emoji": "🍃"
+              },
+              {
+                "name": "Vero River Valley (above)",
+                "tip": "Great distant view of the gorge.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Flasche Wein",
+                "tip": "Gut verpackt für den Rucksack."
+              },
+              {
+                "name": "Olivenöl",
+                "tip": "Kleine Flaschen für unterwegs."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Egy üveg bor",
+                "tip": "Jól becsomagolva a hátizsákba."
+              },
+              {
+                "name": "Olívaolaj",
+                "tip": "Kis üvegekben útravalónak."
+              }
+            ],
+            "ro": [
+              {
+                "name": "O sticlă de vin",
+                "tip": "Bine ambalată pentru rucsac."
+              },
+              {
+                "name": "Ulei de măsline",
+                "tip": "Sticle mici pentru drum."
+              }
+            ],
+            "en": [
+              {
+                "name": "Bottle of wine",
+                "tip": "Well packed for the backpack."
+              },
+              {
+                "name": "Olive oil",
+                "tip": "Small bottles for the road."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Das Radfahren im historischen Zentrum ist mühsam.",
+              "Nutzen Sie die Landstraßen für die besten Aussichten.",
+              "Die Anstiege in der Umgebung erfordern gute Kondition.",
+              "Nehmen Sie Reparaturwerkzeug für Reifenpannen mit."
+            ],
+            "hu": [
+              "A kerékpározás a történelmi központban nehézkes.",
+              "Használja az országutakat a legjobb kilátásért.",
+              "A környékbeli emelkedők jó kondíciót igényelnek.",
+              "Vigyen magával javítókészletet defekt esetére."
+            ],
+            "ro": [
+              "Mersul pe bicicletă în centrul istoric este dificil.",
+              "Folosiți drumurile de țară pentru cele mai bune priveliști.",
+              "Urcușurile din zonă necesită o condiție fizică bună.",
+              "Luați cu dumneavoastră trusa de reparații pentru pene."
+            ],
+            "en": [
+              "Cycling in the historical center is tedious.",
+              "Use the country roads for the best views.",
+              "The climbs in the area require good fitness.",
+              "Take repair tools for punctures with you."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein verregneter Vormittag auf den Landstraßen rund um Alquézar erfordert volle Konzentration. Mittags machen wir Halt an der Kirche, um die nasse Ausrüstung zu ordnen. Nachmittags radeln wir vorsichtig zum Aussichtspunkt, während der Regen die Felsen glänzen lässt. Den Tag lassen wir erschöpft, aber zufrieden im Dorf ausklingen.",
+            "hu": "Az esős délelőtt Alquézar környéki utain teljes koncentrációt igényel. Délben megállunk a templomnál, hogy rendezzük vizes felszerelésünket. Délután óvatosan tekerünk a kilátóhoz, miközben az eső fényesre mossa a sziklákat. A napot fáradtan, de elégedetten zárjuk a faluban.",
+            "ro": "O dimineață ploioasă pe drumurile din jurul Alquézar-ului necesită concentrare maximă. La prânz ne oprim la biserică pentru a ne organiza echipamentul ud. După-amiaza pedalăm cu grijă spre punctul de belvedere, în timp ce ploaia face stâncile să strălucească. Încheiem ziua obosiți, dar mulțumiți în sat.",
+            "en": "A rainy morning on the roads around Alquézar requires full concentration. At noon, we stop by the church to organize our wet gear. In the afternoon, we cycle carefully to the viewpoint while the rain makes the rocks shine. We end the day exhausted but satisfied in the village."
+          },
+          "stops": [
+            {
+              "name": "Portal de Alquézar",
+              "tip_5lang": {
+                "de": "Achten Sie auf rutschiges Kopfsteinpflaster am Dorfeingang.",
+                "hu": "Ügyeljen a csúszós macskakőre a falu bejáratánál.",
+                "ro": "Atenție la pavajul alunecos la intrarea în sat.",
+                "en": "Watch out for slippery cobblestones at the village entrance."
+              }
+            },
+            {
+              "name": "Kirche San Miguel Arcángel",
+              "tip_5lang": {
+                "de": "Guter Unterstand unter den Vordächern für eine kurze Pause.",
+                "hu": "Jó menedék az előtetők alatt egy rövid pihenőre.",
+                "ro": "Adăpost bun sub streșini pentru o scurtă pauză.",
+                "en": "Good shelter under the eaves for a short break."
+              }
+            },
+            {
+              "name": "Burg von Alquézar",
+              "tip_5lang": {
+                "de": "Stellen Sie das Fahrrad geschützt ab; der Aufstieg ist zu Fuß sicherer.",
+                "hu": "Hagyja a kerékpárt védett helyen; a feljutás gyalog biztonságosabb.",
+                "ro": "Lăsați bicicleta într-un loc protejat; urcarea e mai sigură pe jos.",
+                "en": "Park your bike in a sheltered spot; the climb is safer on foot."
+              }
+            },
+            {
+              "name": "Aussichtspunkt Lächeln von Alquézar",
+              "tip_5lang": {
+                "de": "Vorsicht in den Kurven auf der Abfahrt bei nasser Fahrbahn.",
+                "hu": "Vigyázat a kanyarokban a lejtmenetnél nedves útfelületen.",
+                "ro": "Atenție în curbe la coborâre pe carosabil ud.",
+                "en": "Caution in the curves during descent on wet road surfaces."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Verwenden Sie breitere Reifen mit weniger Druck für besseren Grip auf nassem Asphalt.",
+              "Schutzbleche sind bei den lehmigen Straßenrändern hier ein Muss.",
+              "Vermeiden Sie steile, unbefestigte Wege im Canyon bei starkem Regen.",
+              "Tragen Sie neongelbe Regenkleidung für bessere Sichtbarkeit im Nebel.",
+              "Bremsen Sie auf den steilen Abfahrten frühzeitig und dosiert."
+            ],
+            "hu": [
+              "Használjon szélesebb gumiabroncsot kisebb nyomáson a jobb tapadásért a nedves aszfalton.",
+              "A sárvédő kötelező az itteni agyagos útszélek miatt.",
+              "Kerülje a meredek, burkolatlan utakat a kanyonban erős esőben.",
+              "Viseljen neon esőruházatot a jobb láthatóságért a ködben.",
+              "A meredek lejtőkön fékezzen időben és adagolva."
+            ],
+            "ro": [
+              "Folosiți anvelope mai late cu presiune scăzută pentru aderență mai bună pe asfalt ud.",
+              "Apărătorile sunt obligatorii din cauza marginilor de drum argiloase.",
+              "Evitați drumurile abrupte neasfaltate din canion pe ploaie puternică.",
+              "Purtați haine de ploaie neon pentru vizibilitate mai bună în ceață.",
+              "Frânați din timp și dozat pe coborârile abrupte."
+            ],
+            "en": [
+              "Use wider tires with lower pressure for better grip on wet asphalt.",
+              "Mudguards are a must due to the clayey roadsides here.",
+              "Avoid steep, unpaved trails in the canyon during heavy rain.",
+              "Wear neon rain gear for better visibility in the mist.",
+              "Brake early and gradually on steep descents."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Frühmorgens radeln wir durch die frostige Stille des Somontano. Mittags genießen wir die klare Sicht und die wärmende Sonne auf dem Weg zur Burg. Nachmittags bietet die Abfahrt zum Aussichtspunkt spektakuläre Panoramen der verschneiten Berge. Den Tag beenden wir zügig, bevor die Kälte bei Sonnenuntergang zurückkehrt.",
+            "hu": "Kora reggel a Somontano fagyos csendjében tekerünk. Délben élvezzük a tiszta kilátást és a melengető napot a vár felé vezető úton. Délután a kilátóhoz vezető lejtő látványos panorámát nyújt a havas hegyekre. A napot gyorsan zárjuk, mielőtt a hideg a naplementével visszatérne.",
+            "ro": "Dimineața devreme pedalăm prin liniștea geroasă din Somontano. La prânz ne bucurăm de vizibilitatea clară și soarele cald în drum spre castel. După-amiaza coborârea spre punctul de belvedere oferă panorame spectaculoase spre munții înzăpeziți. Încheiem ziua rapid înainte ca frigul să revină la apus.",
+            "en": "Early morning we cycle through the frosty silence of Somontano. At noon, we enjoy clear views and the warming sun on the way to the castle. In the afternoon, the descent to the viewpoint offers spectacular panoramas of the snowy mountains. We end the day quickly before the cold returns at sunset."
+          },
+          "stops": [
+            {
+              "name": "Portal de Alquézar",
+              "tip_5lang": {
+                "de": "Achten Sie auf Reifglätte in den schattigen Gassen am Morgen.",
+                "hu": "Ügyeljen a dér okozta csúszósságra az árnyékos sikátorokban reggel.",
+                "ro": "Atenție la polei în zonele umbrite ale satului dimineața.",
+                "en": "Watch out for frost in shaded alleys during the morning."
+              }
+            },
+            {
+              "name": "Kirche San Miguel Arcángel",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Mittagssonne hier für eine kurze Aufwärmpause.",
+                "hu": "Használja ki a déli napsütést egy rövid felmelegedésre.",
+                "ro": "Folosiți soarele de la prânz pentru o scurtă pauză de încălzire.",
+                "en": "Take advantage of the midday sun here for a short warm-up break."
+              }
+            },
+            {
+              "name": "Burg von Alquézar",
+              "tip_5lang": {
+                "de": "Der Wind oben an der Burg kann im Winter sehr schneidend sein.",
+                "hu": "A szél fent a várnál télen nagyon metsző lehet.",
+                "ro": "Vântul sus la castel poate fi foarte tăios iarna.",
+                "en": "The wind up at the castle can be very biting in winter."
+              }
+            },
+            {
+              "name": "Aussichtspunkt Lächeln von Alquézar",
+              "tip_5lang": {
+                "de": "Wärmen Sie Ihre Hände vor der finalen Abfahrt gut auf.",
+                "hu": "Melegítse fel jól a kezeit a végső lejtmenet előtt.",
+                "ro": "Încălziți-vă bine mâinile înainte de coborârea finală.",
+                "en": "Warm your hands well before the final descent."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie winddichte Handschuhe und Überschuhe gegen den Fahrtwind.",
+              "Vorsicht vor 'Schwarzeis' in schattigen Kurven der Bergstraßen.",
+              "Die klare Winterluft sorgt für extrem weite Sicht auf die Pyrenäen-Gipfel.",
+              "Starten Sie Ihre Tour erst ab 10 Uhr, wenn der Frost auf den Straßen getaut ist.",
+              "Ein heißer Tee in der Thermoskanne ist bei winterlichen Radtouren Gold wert."
+            ],
+            "hu": [
+              "Viseljen szélálló kesztyűt és kamáslit a menetszél ellen.",
+              "Vigyázzon a fekete jégre a hegyi utak árnyékos kanyarjaiban.",
+              "A tiszta téli levegő rendkívül távoli kilátást biztosít a Pireneusok csúcsaira.",
+              "Csak 10 óra után induljon, amikor a fagy már felengedett az utakon.",
+              "Egy termosznyi forró tea aranyat ér a téli kerékpártúrákon."
+            ],
+            "ro": [
+              "Purtați mănuși rezistente la vânt și protecții pentru pantofi împotriva curentului.",
+              "Atenție la 'gheața neagră' în curbele umbrite ale drumurilor montane.",
+              "Aerul curat de iarnă oferă o vizibilitate extrem de lungă spre vârfurile Pirineilor.",
+              "Începeți turul după ora 10, când înghețul de pe drumuri s-a topit.",
+              "Un ceai fierbinte în termos valorează aur în timpul turelor de iarnă."
+            ],
+            "en": [
+              "Wear windproof gloves and shoe covers against the biting wind.",
+              "Watch out for black ice in shaded corners of mountain roads.",
+              "The clear winter air provides extremely far views of the Pyrenean peaks.",
+              "Start your tour after 10:00 when the frost on the roads has thawed.",
+              "A thermos of hot tea is worth its weight in gold on winter bike rides."
+            ]
+          }
+        }
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "16:20",
+      "total_km": 10.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Portal de Alquézar",
+          "coords": [
+            0.03,
+            42.1735
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Parken Sie hier auf den ausgewiesenen Flächen.",
+            "hu": "Parkoljon le itt a kijelölt helyeken.",
+            "ro": "Parcați aici în zonele special amenajate.",
+            "en": "Park here in the designated areas."
+          }
+        },
+        {
+          "name": "Museum Casa Fabián",
+          "coords": [
+            0.0295,
+            42.1732
+          ],
+          "category": "museums",
+          "arrive_at": "09:50",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Einblick in das traditionelle Leben der Region.",
+            "hu": "Bepillantás a régió hagyományos életébe.",
+            "ro": "O privire asupra vieții tradiționale a regiunii.",
+            "en": "Insight into the traditional life of the region."
+          }
+        },
+        {
+          "name": "Stiftskirche Santa Maria la Mayor",
+          "coords": [
+            0.032,
+            42.174
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Der Kreuzgang ist ein architektonisches Juwel.",
+            "hu": "A kerengő egy igazi építészeti ékszerdoboz.",
+            "ro": "Mănăstirea este o bijuterie arhitecturală.",
+            "en": "The cloister is an architectural jewel."
+          }
+        },
+        {
+          "name": "Burg von Alquézar",
+          "coords": [
+            0.033,
+            42.1745
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Direkt neben der Kirche gelegen.",
+            "hu": "Közvetlenül a templom mellett található.",
+            "ro": "Situat chiar lângă biserică.",
+            "en": "Located right next to the church."
+          }
+        },
+        {
+          "name": "Aussichtspunkt Lächeln von Alquézar",
+          "coords": [
+            0.025,
+            42.17
+          ],
+          "category": "natural features",
+          "arrive_at": "14:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Fahren Sie mit dem Auto zum besten Fotomotiv.",
+            "hu": "Vezessen az autóval a legjobb fotós helyszínhez.",
+            "ro": "Conduceți spre cel mai bun loc pentru fotografii.",
+            "en": "Drive your car to the best photo spot."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Stellen Sie das Auto am Stadtrand ab und erkunden Sie morgens das Museum Casa Fabián. Besuchen Sie mittags die beeindruckende Stiftskirche und die angrenzende Burg. Den Nachmittag runden Sie mit einer kurzen Fahrt zum besten Aussichtspunkt ab, um das Dorfpanorama festzuhalten.",
+        "hu": "Hagyja az autót a város szélén, és fedezze fel reggel a Casa Fabián múzeumot. Délben látogassa meg a lenyűgöző társaskáptalani templomot és a szomszédos várat. A délutánt egy rövid autózással zárja a legjobb kilátóhoz, hogy megörökítse a falu panorámáját.",
+        "ro": "Lăsați mașina la marginea orașului și explorați dimineața muzeul Casa Fabián. La prânz vizitați impresionanta biserică colegială și castelul adiacent. După-amiaza se încheie cu un scurt drum spre cel mai bun punct de belvedere pentru a imortaliza panorama.",
+        "en": "Leave the car on the outskirts and explore the Casa Fabián museum in the morning. At midday, visit the impressive collegiate church and the adjacent castle. Round off the afternoon with a short drive to the best viewpoint to capture the village panorama."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Chiretas",
+            "tip": "Gefüllte Lamminnereien, eine lokale Spezialität."
+          },
+          {
+            "name": "Vino del Somontano",
+            "tip": "Probieren Sie den exzellenten regionalen Wein."
+          },
+          {
+            "name": "Queso de Radiquero",
+            "tip": "Milder Ziegenkäse aus der Nähe."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Chiretas",
+            "tip": "Töltött báránybelsőségek, helyi különlegesség."
+          },
+          {
+            "name": "Vino del Somontano",
+            "tip": "Kóstolja meg a kiváló környékbeli bort."
+          },
+          {
+            "name": "Queso de Radiquero",
+            "tip": "Lágy kecskesajt a közeli településről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chiretas",
+            "tip": "Măruntaie de miel umplute, o specialitate locală."
+          },
+          {
+            "name": "Vino del Somontano",
+            "tip": "Gustați vinul regional excelent."
+          },
+          {
+            "name": "Queso de Radiquero",
+            "tip": "Brânză de capră moale din apropiere."
+          }
+        ],
+        "en": [
+          {
+            "name": "Chiretas",
+            "tip": "Stuffed lamb offal, a local specialty."
+          },
+          {
+            "name": "Vino del Somontano",
+            "tip": "Taste the excellent regional wine."
+          },
+          {
+            "name": "Queso de Radiquero",
+            "tip": "Mild goat cheese from nearby."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtspunkt Lächeln von Alquézar",
+            "tip": "Herrlich zum Sonnenuntergang.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Umgebung des Dorfes",
+            "tip": "Genießen Sie die Stille der Natur.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Vero Flusstal (oben)",
+            "tip": "Tolle Fernsicht auf die Schlucht.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Alquézari mosoly kilátó",
+            "tip": "Gyönyörű naplemente idején.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A falu környéke",
+            "tip": "Élvezze a természet nyugalmát.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Vero folyó völgye (felülről)",
+            "tip": "Remek kilátás a szurdokra.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Belvedere Zâmbetul lui Alquézar",
+            "tip": "Superb la apusul soarelui.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Împrejurimile satului",
+            "tip": "Bucurați-vă de liniștea naturii.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Valea râului Vero (de sus)",
+            "tip": "Vedere excelentă asupra defileului.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Smile of Alquézar Viewpoint",
+            "tip": "Beautiful at sunset.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Surroundings of the village",
+            "tip": "Enjoy the silence of nature.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Vero River Valley (above)",
+            "tip": "Great distant view of the gorge.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Somontano Wein",
+            "tip": "Kaufen Sie ein paar Flaschen für Zuhause."
+          },
+          {
+            "name": "Olivenöl",
+            "tip": "Einfach im Auto zu transportieren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Somontano bor",
+            "tip": "Vásároljon néhány üveggel otthonra."
+          },
+          {
+            "name": "Olívaolaj",
+            "tip": "Könnyen szállítható az autóban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vin Somontano",
+            "tip": "Cumpărați câteva sticle pentru acasă."
+          },
+          {
+            "name": "Ulei de măsline",
+            "tip": "Ușor de transportat în mașină."
+          }
+        ],
+        "en": [
+          {
+            "name": "Somontano Wine",
+            "tip": "Buy a few bottles to take home."
+          },
+          {
+            "name": "Olive Oil",
+            "tip": "Easy to transport in the car."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Zufahrt in das Zentrum ist reglementiert.",
+          "Nutzen Sie die großen Parkplätze am Ortseingang.",
+          "Die Straßen um das Dorf sind sehr kurvig.",
+          "Im Sommer können die Parkplätze schnell voll sein."
+        ],
+        "hu": [
+          "A központba való behajtás szabályozott.",
+          "Használja a falu bejáratánál lévő nagy parkolókat.",
+          "A falu körüli utak nagyon kanyargósak.",
+          "Nyáron a parkolók gyorsan megtelhetnek."
+        ],
+        "ro": [
+          "Accesul în centru este reglementat.",
+          "Folosiți parcările mari de la intrarea în localitate.",
+          "Drumurile din jurul satului sunt foarte șerpuite.",
+          "Vara, parcările se pot ocupa foarte repede."
+        ],
+        "en": [
+          "Access to the center is regulated.",
+          "Use the large parking lots at the entrance to the village.",
+          "The roads around the village are very winding.",
+          "In summer, the parking lots can fill up quickly."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Stellen Sie das Auto am Stadtrand ab und erkunden Sie morgens das Museum Casa Fabián. Besuchen Sie mittags die beeindruckende Stiftskirche und die angrenzende Burg. Den Nachmittag runden Sie mit einer kurzen Fahrt zum besten Aussichtspunkt ab, um das Dorfpanorama festzuhalten.",
+            "hu": "Hagyja az autót a város szélén, és fedezze fel reggel a Casa Fabián múzeumot. Délben látogassa meg a lenyűgöző társaskáptalani templomot és a szomszédos várat. A délutánt egy rövid autózással zárja a legjobb kilátóhoz, hogy megörökítse a falu panorámáját.",
+            "ro": "Lăsați mașina la marginea orașului și explorați dimineața muzeul Casa Fabián. La prânz vizitați impresionanta biserică colegială și castelul adiacent. După-amiaza se încheie cu un scurt drum spre cel mai bun punct de belvedere pentru a imortaliza panorama.",
+            "en": "Leave the car on the outskirts and explore the Casa Fabián museum in the morning. At midday, visit the impressive collegiate church and the adjacent castle. Round off the afternoon with a short drive to the best viewpoint to capture the village panorama."
+          },
+          "stops": [
+            {
+              "name": "Portal de Alquézar",
+              "tip_5lang": {
+                "de": "Parken Sie hier auf den ausgewiesenen Flächen.",
+                "hu": "Parkoljon le itt a kijelölt helyeken.",
+                "ro": "Parcați aici în zonele special amenajate.",
+                "en": "Park here in the designated areas."
+              }
+            },
+            {
+              "name": "Museum Casa Fabián",
+              "tip_5lang": {
+                "de": "Einblick in das traditionelle Leben der Region.",
+                "hu": "Bepillantás a régió hagyományos életébe.",
+                "ro": "O privire asupra vieții tradiționale a regiunii.",
+                "en": "Insight into the traditional life of the region."
+              }
+            },
+            {
+              "name": "Stiftskirche Santa Maria la Mayor",
+              "tip_5lang": {
+                "de": "Der Kreuzgang ist ein architektonisches Juwel.",
+                "hu": "A kerengő egy igazi építészeti ékszerdoboz.",
+                "ro": "Mănăstirea este o bijuterie arhitecturală.",
+                "en": "The cloister is an architectural jewel."
+              }
+            },
+            {
+              "name": "Burg von Alquézar",
+              "tip_5lang": {
+                "de": "Direkt neben der Kirche gelegen.",
+                "hu": "Közvetlenül a templom mellett található.",
+                "ro": "Situat chiar lângă biserică.",
+                "en": "Located right next to the church."
+              }
+            },
+            {
+              "name": "Aussichtspunkt Lächeln von Alquézar",
+              "tip_5lang": {
+                "de": "Fahren Sie mit dem Auto zum besten Fotomotiv.",
+                "hu": "Vezessen az autóval a legjobb fotós helyszínhez.",
+                "ro": "Conduceți spre cel mai bun loc pentru fotografii.",
+                "en": "Drive your car to the best photo spot."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Chiretas",
+                "tip": "Gefüllte Lamminnereien, eine lokale Spezialität."
+              },
+              {
+                "name": "Vino del Somontano",
+                "tip": "Probieren Sie den exzellenten regionalen Wein."
+              },
+              {
+                "name": "Queso de Radiquero",
+                "tip": "Milder Ziegenkäse aus der Nähe."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Chiretas",
+                "tip": "Töltött báránybelsőségek, helyi különlegesség."
+              },
+              {
+                "name": "Vino del Somontano",
+                "tip": "Kóstolja meg a kiváló környékbeli bort."
+              },
+              {
+                "name": "Queso de Radiquero",
+                "tip": "Lágy kecskesajt a közeli településről."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Chiretas",
+                "tip": "Măruntaie de miel umplute, o specialitate locală."
+              },
+              {
+                "name": "Vino del Somontano",
+                "tip": "Gustați vinul regional excelent."
+              },
+              {
+                "name": "Queso de Radiquero",
+                "tip": "Brânză de capră moale din apropiere."
+              }
+            ],
+            "en": [
+              {
+                "name": "Chiretas",
+                "tip": "Stuffed lamb offal, a local specialty."
+              },
+              {
+                "name": "Vino del Somontano",
+                "tip": "Taste the excellent regional wine."
+              },
+              {
+                "name": "Queso de Radiquero",
+                "tip": "Mild goat cheese from nearby."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Aussichtspunkt Lächeln von Alquézar",
+                "tip": "Herrlich zum Sonnenuntergang.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Umgebung des Dorfes",
+                "tip": "Genießen Sie die Stille der Natur.",
+                "emoji": "🧘"
+              },
+              {
+                "name": "Vero Flusstal (oben)",
+                "tip": "Tolle Fernsicht auf die Schlucht.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Alquézari mosoly kilátó",
+                "tip": "Gyönyörű naplemente idején.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "A falu környéke",
+                "tip": "Élvezze a természet nyugalmát.",
+                "emoji": "🧘"
+              },
+              {
+                "name": "Vero folyó völgye (felülről)",
+                "tip": "Remek kilátás a szurdokra.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Belvedere Zâmbetul lui Alquézar",
+                "tip": "Superb la apusul soarelui.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Împrejurimile satului",
+                "tip": "Bucurați-vă de liniștea naturii.",
+                "emoji": "🧘"
+              },
+              {
+                "name": "Valea râului Vero (de sus)",
+                "tip": "Vedere excelentă asupra defileului.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Smile of Alquézar Viewpoint",
+                "tip": "Beautiful at sunset.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Surroundings of the village",
+                "tip": "Enjoy the silence of nature.",
+                "emoji": "🧘"
+              },
+              {
+                "name": "Vero River Valley (above)",
+                "tip": "Great distant view of the gorge.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Somontano Wein",
+                "tip": "Kaufen Sie ein paar Flaschen für Zuhause."
+              },
+              {
+                "name": "Olivenöl",
+                "tip": "Einfach im Auto zu transportieren."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Somontano bor",
+                "tip": "Vásároljon néhány üveggel otthonra."
+              },
+              {
+                "name": "Olívaolaj",
+                "tip": "Könnyen szállítható az autóban."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Vin Somontano",
+                "tip": "Cumpărați câteva sticle pentru acasă."
+              },
+              {
+                "name": "Ulei de măsline",
+                "tip": "Ușor de transportat în mașină."
+              }
+            ],
+            "en": [
+              {
+                "name": "Somontano Wine",
+                "tip": "Buy a few bottles to take home."
+              },
+              {
+                "name": "Olive Oil",
+                "tip": "Easy to transport in the car."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Die Zufahrt in das Zentrum ist reglementiert.",
+              "Nutzen Sie die großen Parkplätze am Ortseingang.",
+              "Die Straßen um das Dorf sind sehr kurvig.",
+              "Im Sommer können die Parkplätze schnell voll sein."
+            ],
+            "hu": [
+              "A központba való behajtás szabályozott.",
+              "Használja a falu bejáratánál lévő nagy parkolókat.",
+              "A falu körüli utak nagyon kanyargósak.",
+              "Nyáron a parkolók gyorsan megtelhetnek."
+            ],
+            "ro": [
+              "Accesul în centru este reglementat.",
+              "Folosiți parcările mari de la intrarea în localitate.",
+              "Drumurile din jurul satului sunt foarte șerpuite.",
+              "Vara, parcările se pot ocupa foarte repede."
+            ],
+            "en": [
+              "Access to the center is regulated.",
+              "Use the large parking lots at the entrance to the village.",
+              "The roads around the village are very winding.",
+              "In summer, the parking lots can fill up quickly."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Fahrt nach Alquézar im Regen bietet dramatische Ausblicke auf die Sierra de Guara. Mittags nutzen wir den Parkplatz nahe dem Zentrum für kurze Wege zum Museum und zur Kirche. Nachmittags ist die Burg ein markanter Punkt im Nebel. Den Tag beschließen wir trocken und bequem bei einer Fahrt durch die Weinberge.",
+            "hu": "Az esős út Alquézar felé drámai kilátást nyújt a Sierra de Guarára. Délben a központ közeli parkolót használjuk, hogy gyorsan elérjük a múzeumot és a templomot. Délután a vár jellegzetes pontként emelkedik ki a ködből. A napot szárazon és kényelmesen, a szőlőültetvények közötti autózással zárjuk.",
+            "ro": "Drumul spre Alquézar pe ploaie oferă vederi dramatice spre Sierra de Guara. La prânz folosim parcarea de lângă centru pentru acces rapid la muzeu și biserică. După-amiaza castelul este un punct marcant în ceață. Încheiem ziua uscați și confortabil cu o plimbare prin podgorii.",
+            "en": "The drive to Alquézar in the rain offers dramatic views of the Sierra de Guara. At noon, we use the parking lot near the center for short walks to the museum and church. In the afternoon, the castle stands out as a prominent landmark in the mist. We end the day dry and comfortable with a drive through the vineyards."
+          },
+          "stops": [
+            {
+              "name": "Portal de Alquézar",
+              "tip_5lang": {
+                "de": "Nutzen Sie den großen Parkplatz am Ortseingang; im Dorf herrscht Fahrverbot.",
+                "hu": "Használja a falu bejáratánál lévő nagy parkolót; a faluban behajtási tilalom van.",
+                "ro": "Folosiți parcarea mare de la intrarea în sat; în interior este interzis accesul auto.",
+                "en": "Use the large parking lot at the entrance; the village is car-free."
+              }
+            },
+            {
+              "name": "Museum Casa Fabián",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um einen kräftigen Regenguss im Trockenen zu überbrücken.",
+                "hu": "Tökéletes hely egy kiadós zápor szárazon történő átvészelésére.",
+                "ro": "Locul perfect pentru a aștepta trecerea unei ploi torențiale la adăpost.",
+                "en": "Perfect spot to wait out a heavy downpour in the dry."
+              }
+            },
+            {
+              "name": "Stiftskirche Santa Maria la Mayor",
+              "tip_5lang": {
+                "de": "Der kurze Fußweg vom Parkplatz ist auch bei Regen gut machbar.",
+                "hu": "A parkolótól való rövid séta esőben is könnyen teljesíthető.",
+                "ro": "Scurta plimbare de la parcare este ușor de făcut chiar și pe ploaie.",
+                "en": "The short walk from the parking lot is manageable even in the rain."
+              }
+            },
+            {
+              "name": "Burg von Alquézar",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die regenverhangene Schlucht.",
+                "hu": "Élvezze a kilátást az esőbe burkolózott szurdokra.",
+                "ro": "Bucurați-vă de priveliștea spre cheile acoperite de ploaie.",
+                "en": "Enjoy the view of the rain-shrouded gorge."
+              }
+            },
+            {
+              "name": "Aussichtspunkt Lächeln von Alquézar",
+              "tip_5lang": {
+                "de": "Der Aussichtspunkt ist direkt mit dem Auto für ein schnelles Foto erreichbar.",
+                "hu": "A kilátó autóval közvetlenül elérhető egy gyors fotó erejéig.",
+                "ro": "Punctul de belvedere este accesibil cu mașina pentru o fotografie rapidă.",
+                "en": "The viewpoint is directly accessible by car for a quick photo."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahren Sie auf den kurvigen Landstraßen bei Nässe vorsichtig wegen möglicher Steinschläge.",
+              "Halten Sie einen Regenschirm im Auto für den Weg vom Parkplatz ins Dorf bereit.",
+              "Die Parkplätze können bei Regen matschig sein; parken Sie auf befestigten Flächen.",
+              "Nutzen Sie die Fahrt für einen Abstecher zu den Bodegas in Barbastro.",
+              "Prüfen Sie Ihre Scheibenwischer vor der Fahrt in die bergige Region."
+            ],
+            "hu": [
+              "A kanyargós utakon vezessen óvatosan esőben az esetleges kőomlások miatt.",
+              "Tartson esernyőt az autóban a parkolótól a faluig tartó útra.",
+              "A parkolók esőben sárosak lehetnek; parkoljon szilárd felületen.",
+              "Használja ki az utat egy kitérőre a barbastrói borászatokhoz.",
+              "Ellenőrizze az ablaktörlőket a hegyvidéki út előtt."
+            ],
+            "ro": [
+              "Conduceți cu atenție pe drumurile virajate pe ploaie din cauza posibilelor căderi de pietre.",
+              "Țineți o umbrelă în mașină pentru drumul de la parcare în sat.",
+              "Parcările pot fi noroioase pe ploaie; parcați pe suprafețe consolidate.",
+              "Folosiți drumul pentru o vizită la cramele din Barbastro.",
+              "Verificați ștergătoarele înainte de călătoria în regiunea montană."
+            ],
+            "en": [
+              "Drive carefully on winding roads when wet due to potential rockfalls.",
+              "Keep an umbrella in the car for the walk from the parking lot into the village.",
+              "Parking lots can be muddy in the rain; park on paved areas.",
+              "Use the drive for a detour to the wineries in Barbastro.",
+              "Check your windshield wipers before heading into the mountainous region."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Wintersonne begleitet unsere Fahrt durch das ruhige Somontano-Gebiet. Mittags parken wir bequem und erkunden das fast menschenleere Dorf und seine Museen. Nachmittags leuchten die Felsen der Burg in der tiefstehenden Sonne besonders intensiv. Wir genießen den Komfort der Sitzheizung auf dem Rückweg nach einem kalten Tag.",
+            "hu": "A téli napsütés kíséri utunkat a csendes Somontano vidéken. Délben kényelmesen parkolunk, és felfedezzük a szinte néptelen falut és múzeumait. Délután a vár sziklái különösen intenzíven ragyognak az alacsonyan járó napfényben. Élvezzük az ülésfűtés kényelmét a hideg nap utáni hazaúton.",
+            "ro": "Soarele de iarnă ne însoțește drumul prin zona liniștită Somontano. La prânz parcăm confortabil și explorăm satul aproape pustiu și muzeele sale. După-amiaza stâncile castelului strălucesc intens în lumina soarelui de apus. Ne bucurăm de confortul scaunelor încălzite la întoarcere după o zi rece.",
+            "en": "Winter sun accompanies our drive through the quiet Somontano region. At noon, we park easily and explore the almost deserted village and its museums. In the afternoon, the castle rocks glow intensely in the low sun. We enjoy the comfort of seat heating on the way back after a cold day."
+          },
+          "stops": [
+            {
+              "name": "Portal de Alquézar",
+              "tip_5lang": {
+                "de": "Im Winter gibt es reichlich freie Parkplätze direkt am Dorfeingang.",
+                "hu": "Télen bőségesen van szabad parkoló közvetlenül a falu bejáratánál.",
+                "ro": "Iarna există numeroase locuri de parcare libere direct la intrarea în sat.",
+                "en": "In winter, there are plenty of free parking spaces right at the village entrance."
+              }
+            },
+            {
+              "name": "Museum Casa Fabián",
+              "tip_5lang": {
+                "de": "Ein angenehm warmer Ort, um etwas über die lokale Geschichte zu erfahren.",
+                "hu": "Kellemesen meleg hely a helyi történelem megismeréséhez.",
+                "ro": "Un loc plăcut și călduros pentru a învăța despre istoria locală.",
+                "en": "A pleasantly warm place to learn about local history."
+              }
+            },
+            {
+              "name": "Stiftskirche Santa Maria la Mayor",
+              "tip_5lang": {
+                "de": "Bewundern Sie das Lichtspiel der Wintersonne im Kreuzgang.",
+                "hu": "Csodálja meg a téli nap fényét a kerengőben.",
+                "ro": "Admirați jocul de lumini al soarelui de iarnă în claustru.",
+                "en": "Admire the winter sun's play of light in the cloister."
+              }
+            },
+            {
+              "name": "Burg von Alquézar",
+              "tip_5lang": {
+                "de": "Hinter den Mauern finden Sie windgeschützte Aussichtspunkte.",
+                "hu": "A falak mögött szélvédett kilátóhelyeket talál.",
+                "ro": "În spatele zidurilor veți găsi puncte de belvedere protejate de vânt.",
+                "en": "You will find wind-protected viewpoints behind the walls."
+              }
+            },
+            {
+              "name": "Aussichtspunkt Lächeln von Alquézar",
+              "tip_5lang": {
+                "de": "Perfekt für Fotos der verschneiten Pyrenäen im Hintergrund.",
+                "hu": "Tökéletes a háttérben lévő havas Pireneusok fotózásához.",
+                "ro": "Perfect pentru fotografii cu Pirineii înzăpeziți în fundal.",
+                "en": "Perfect for photos of the snowy Pyrenees in the background."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Frostschäden und Schlaglöcher auf den Nebenstraßen im Winter.",
+              "Die Straßen werden geräumt, aber Winterreifen sind in dieser Region Pflicht.",
+              "Kombinieren Sie den Besuch mit einem Einkauf von lokalem Olivenöl und Wein.",
+              "Lassen Sie den Motor im Stand nicht unnötig laufen; nutzen Sie die Standheizung.",
+              "Die Sichtweite ist im Winter oft besser als im dunstigen Sommer."
+            ],
+            "hu": [
+              "Ügyeljen a fagykárokra és kátyúkra a mellékutakon télen.",
+              "Az utakat takarítják, de a téli gumi kötelező ebben a régióban.",
+              "Kösse össze a látogatást helyi olívaolaj és bor vásárlásával.",
+              "Ne járassa feleslegesen a motort álló helyzetben; használja az állófűtést.",
+              "A látótávolság télen gyakran jobb, mint a párás nyáron."
+            ],
+            "ro": [
+              "Atenție la deteriorările cauzate de îngheț și la gropile de pe drumurile secundare.",
+              "Drumurile sunt curățate, dar anvelopele de iarnă sunt obligatorii în această regiune.",
+              "Combinați vizita cu achiziționarea de ulei de măsline local și vin.",
+              "Nu lăsați motorul pornit inutil pe loc; folosiți încălzirea auxiliară.",
+              "Vizibilitatea este adesea mai bună iarna decât în timpul verii cețoase."
+            ],
+            "en": [
+              "Watch out for frost damage and potholes on secondary roads in winter.",
+              "Roads are cleared, but winter tires are mandatory in this region.",
+              "Combine the visit with shopping for local olive oil and wine.",
+              "Do not leave the engine idling unnecessarily; use the auxiliary heater.",
+              "Visibility is often better in winter than in the hazy summer."
+            ]
+          }
+        }
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:25",
+      "total_km": 3.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Plaza Mayor (Rafael Ayerbe)",
+          "coords": [
+            0.029,
+            42.173
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg vom Bushalt zur Hauptplaza.",
+            "hu": "Rövid séta a buszmegállótól a főtérig.",
+            "ro": "Scurtă plimbare de la stația de autobuz la piața principală.",
+            "en": "Short walk from the bus stop to the main plaza."
+          }
+        },
+        {
+          "name": "Einsiedelei Unserer Lieben Frau vom Schnee",
+          "coords": [
+            0.0285,
+            42.1725
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:50",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ruhiger spiritueller Ort nahe dem Zentrum.",
+            "hu": "Csendes spirituális hely a központ közelében.",
+            "ro": "Loc spiritual liniștit aproape de centru.",
+            "en": "Quiet spiritual place near the center."
+          }
+        },
+        {
+          "name": "Museum Casa Fabián",
+          "coords": [
+            0.0295,
+            42.1732
+          ],
+          "category": "museums",
+          "arrive_at": "10:50",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die Geschichte der Region ein.",
+            "hu": "Merüljön el a régió történelmében.",
+            "ro": "Scufundați-vă în istoria regiunii.",
+            "en": "Immerse yourself in the history of the region."
+          }
+        },
+        {
+          "name": "Stiftskirche Santa Maria la Mayor",
+          "coords": [
+            0.032,
+            42.174
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein kulturelles Muss im Dorf.",
+            "hu": "Kulturális kötelező látványosság a faluban.",
+            "ro": "Un punct cultural obligatoriu în sat.",
+            "en": "A cultural must in the village."
+          }
+        },
+        {
+          "name": "Burg von Alquézar",
+          "coords": [
+            0.033,
+            42.1745
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:05",
+          "stay_min": 110,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Die Aussicht entschädigt für den Weg.",
+            "hu": "A kilátás kárpótol az útért.",
+            "ro": "Priveliștea compensează drumul.",
+            "en": "The view makes up for the walk."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nach Ankunft im Dorfzentrum besuchen Sie die Plaza Mayor und die friedliche Einsiedelei. Mittags bietet das Museum Casa Fabián tiefe Einblicke. Der Nachmittag ist für die berühmte Stiftskirche und die angrenzende Burg reserviert, bevor Sie die Rückfahrt antreten.",
+        "hu": "A faluközpontba érkezés után látogasson el a Plaza Mayorra és a békés remetelakhoz. Délben a Casa Fabián múzeum kínál betekintést a múltba. A délutánt a híres templomnak és a várnak szentelheti a visszautazás előtt.",
+        "ro": "După sosirea în centrul satului, vizitați Plaza Mayor și schitul liniștit. La prânz, muzeul Casa Fabián oferă o perspectivă profundă. După-amiaza este rezervată faimoasei biserici și castelului adiacent înainte de întoarcere.",
+        "en": "After arriving in the village center, visit the Plaza Mayor and the peaceful hermitage. At midday, the Casa Fabián museum offers deep insights. The afternoon is reserved for the famous collegiate church and the adjacent castle before you return."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Chiretas",
+            "tip": "Gefüllte Lamminnereien, eine lokale Spezialität."
+          },
+          {
+            "name": "Vino del Somontano",
+            "tip": "Probieren Sie den exzellenten regionalen Wein."
+          },
+          {
+            "name": "Queso de Radiquero",
+            "tip": "Milder Ziegenkäse aus der Nähe."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Chiretas",
+            "tip": "Töltött báránybelsőségek, helyi különlegesség."
+          },
+          {
+            "name": "Vino del Somontano",
+            "tip": "Kóstolja meg a kiváló környékbeli bort."
+          },
+          {
+            "name": "Queso de Radiquero",
+            "tip": "Lágy kecskesajt a közeli településről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chiretas",
+            "tip": "Măruntaie de miel umplute, o specialitate locală."
+          },
+          {
+            "name": "Vino del Somontano",
+            "tip": "Gustați vinul regional excelent."
+          },
+          {
+            "name": "Queso de Radiquero",
+            "tip": "Brânză de capră moale din apropiere."
+          }
+        ],
+        "en": [
+          {
+            "name": "Chiretas",
+            "tip": "Stuffed lamb offal, a local specialty."
+          },
+          {
+            "name": "Vino del Somontano",
+            "tip": "Taste the excellent regional wine."
+          },
+          {
+            "name": "Queso de Radiquero",
+            "tip": "Mild goat cheese from nearby."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Einsiedelei Unserer Lieben Frau vom Schnee",
+            "tip": "Ein stiller Ort der Andacht.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Rund um die Burg",
+            "tip": "Schöne Blicke auf das Flusstal.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Rand der Plaza Mayor",
+            "tip": "Beobachten Sie das Treiben bei Sonnenuntergang.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Havas Boldogasszony remetelak",
+            "tip": "Egy csendes hely az elmélkedésre.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "A vár körül",
+            "tip": "Szép kilátás a folyó völgyére.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A Plaza Mayor széle",
+            "tip": "Figyelje a forgatagot naplementekor.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Schitul Maicii Domnului a Zăpezilor",
+            "tip": "Un loc liniștit de reflecție.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "În jurul castelului",
+            "tip": "Vederi frumoase asupra văii râului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Marginea Plaza Mayor",
+            "tip": "Observați agitația la apus.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Hermitage of Our Lady of the Snows",
+            "tip": "A quiet place for reflection.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Around the castle",
+            "tip": "Beautiful views of the river valley.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Edge of Plaza Mayor",
+            "tip": "Watch the bustle at sunset.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Somontano Wein",
+            "tip": "Ein Muss in den Weinhandlungen."
+          },
+          {
+            "name": "Handwerk",
+            "tip": "Kleine Souvenirs in den Läden im Zentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Somontano bor",
+            "tip": "Kötelező vétel a borszaküzletekben."
+          },
+          {
+            "name": "Kézműves termékek",
+            "tip": "Kis emléktárgyak a központi boltokban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vin Somontano",
+            "tip": "Un must-have în magazinele de vinuri."
+          },
+          {
+            "name": "Artizanat",
+            "tip": "Mici suveniruri în magazinele din centru."
+          }
+        ],
+        "en": [
+          {
+            "name": "Somontano Wine",
+            "tip": "A must-buy in the wine shops."
+          },
+          {
+            "name": "Handicrafts",
+            "tip": "Small souvenirs in the central shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Busverbindungen sind sehr limitiert.",
+          "Prüfen Sie die Rückfahrzeiten gleich bei der Ankunft.",
+          "Das gesamte Dorf ist gut zu Fuß erschlossen.",
+          "Bringen Sie eine Flasche Wasser für den Rundgang mit."
+        ],
+        "hu": [
+          "A buszjáratok száma nagyon korlátozott.",
+          "Érkezéskor azonnal ellenőrizze a visszaindulás idejét.",
+          "Az egész falu könnyen bejárható gyalog.",
+          "Hozzon magával egy üveg vizet a sétához."
+        ],
+        "ro": [
+          "Conexiunile de autobuz sunt foarte limitate.",
+          "Verificați orele de întoarcere imediat la sosire.",
+          "Întregul sat poate fi ușor explorat pe jos.",
+          "Aduceți o sticlă de apă pentru plimbare."
+        ],
+        "en": [
+          "Bus connections are very limited.",
+          "Check the return times immediately upon arrival.",
+          "The whole village is easy to explore on foot.",
+          "Bring a bottle of water for the walk."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Nach Ankunft im Dorfzentrum besuchen Sie die Plaza Mayor und die friedliche Einsiedelei. Mittags bietet das Museum Casa Fabián tiefe Einblicke. Der Nachmittag ist für die berühmte Stiftskirche und die angrenzende Burg reserviert, bevor Sie die Rückfahrt antreten.",
+            "hu": "A faluközpontba érkezés után látogasson el a Plaza Mayorra és a békés remetelakhoz. Délben a Casa Fabián múzeum kínál betekintést a múltba. A délutánt a híres templomnak és a várnak szentelheti a visszautazás előtt.",
+            "ro": "După sosirea în centrul satului, vizitați Plaza Mayor și schitul liniștit. La prânz, muzeul Casa Fabián oferă o perspectivă profundă. După-amiaza este rezervată faimoasei biserici și castelului adiacent înainte de întoarcere.",
+            "en": "After arriving in the village center, visit the Plaza Mayor and the peaceful hermitage. At midday, the Casa Fabián museum offers deep insights. The afternoon is reserved for the famous collegiate church and the adjacent castle before you return."
+          },
+          "stops": [
+            {
+              "name": "Plaza Mayor (Rafael Ayerbe)",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg vom Bushalt zur Hauptplaza.",
+                "hu": "Rövid séta a buszmegállótól a főtérig.",
+                "ro": "Scurtă plimbare de la stația de autobuz la piața principală.",
+                "en": "Short walk from the bus stop to the main plaza."
+              }
+            },
+            {
+              "name": "Einsiedelei Unserer Lieben Frau vom Schnee",
+              "tip_5lang": {
+                "de": "Ruhiger spiritueller Ort nahe dem Zentrum.",
+                "hu": "Csendes spirituális hely a központ közelében.",
+                "ro": "Loc spiritual liniștit aproape de centru.",
+                "en": "Quiet spiritual place near the center."
+              }
+            },
+            {
+              "name": "Museum Casa Fabián",
+              "tip_5lang": {
+                "de": "Tauchen Sie in die Geschichte der Region ein.",
+                "hu": "Merüljön el a régió történelmében.",
+                "ro": "Scufundați-vă în istoria regiunii.",
+                "en": "Immerse yourself in the history of the region."
+              }
+            },
+            {
+              "name": "Stiftskirche Santa Maria la Mayor",
+              "tip_5lang": {
+                "de": "Ein kulturelles Muss im Dorf.",
+                "hu": "Kulturális kötelező látványosság a faluban.",
+                "ro": "Un punct cultural obligatoriu în sat.",
+                "en": "A cultural must in the village."
+              }
+            },
+            {
+              "name": "Burg von Alquézar",
+              "tip_5lang": {
+                "de": "Die Aussicht entschädigt für den Weg.",
+                "hu": "A kilátás kárpótol az útért.",
+                "ro": "Priveliștea compensează drumul.",
+                "en": "The view makes up for the walk."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Chiretas",
+                "tip": "Gefüllte Lamminnereien, eine lokale Spezialität."
+              },
+              {
+                "name": "Vino del Somontano",
+                "tip": "Probieren Sie den exzellenten regionalen Wein."
+              },
+              {
+                "name": "Queso de Radiquero",
+                "tip": "Milder Ziegenkäse aus der Nähe."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Chiretas",
+                "tip": "Töltött báránybelsőségek, helyi különlegesség."
+              },
+              {
+                "name": "Vino del Somontano",
+                "tip": "Kóstolja meg a kiváló környékbeli bort."
+              },
+              {
+                "name": "Queso de Radiquero",
+                "tip": "Lágy kecskesajt a közeli településről."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Chiretas",
+                "tip": "Măruntaie de miel umplute, o specialitate locală."
+              },
+              {
+                "name": "Vino del Somontano",
+                "tip": "Gustați vinul regional excelent."
+              },
+              {
+                "name": "Queso de Radiquero",
+                "tip": "Brânză de capră moale din apropiere."
+              }
+            ],
+            "en": [
+              {
+                "name": "Chiretas",
+                "tip": "Stuffed lamb offal, a local specialty."
+              },
+              {
+                "name": "Vino del Somontano",
+                "tip": "Taste the excellent regional wine."
+              },
+              {
+                "name": "Queso de Radiquero",
+                "tip": "Mild goat cheese from nearby."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Einsiedelei Unserer Lieben Frau vom Schnee",
+                "tip": "Ein stiller Ort der Andacht.",
+                "emoji": "🧘"
+              },
+              {
+                "name": "Rund um die Burg",
+                "tip": "Schöne Blicke auf das Flusstal.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Rand der Plaza Mayor",
+                "tip": "Beobachten Sie das Treiben bei Sonnenuntergang.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "A Havas Boldogasszony remetelak",
+                "tip": "Egy csendes hely az elmélkedésre.",
+                "emoji": "🧘"
+              },
+              {
+                "name": "A vár körül",
+                "tip": "Szép kilátás a folyó völgyére.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "A Plaza Mayor széle",
+                "tip": "Figyelje a forgatagot naplementekor.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Schitul Maicii Domnului a Zăpezilor",
+                "tip": "Un loc liniștit de reflecție.",
+                "emoji": "🧘"
+              },
+              {
+                "name": "În jurul castelului",
+                "tip": "Vederi frumoase asupra văii râului.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Marginea Plaza Mayor",
+                "tip": "Observați agitația la apus.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Hermitage of Our Lady of the Snows",
+                "tip": "A quiet place for reflection.",
+                "emoji": "🧘"
+              },
+              {
+                "name": "Around the castle",
+                "tip": "Beautiful views of the river valley.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Edge of Plaza Mayor",
+                "tip": "Watch the bustle at sunset.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Somontano Wein",
+                "tip": "Ein Muss in den Weinhandlungen."
+              },
+              {
+                "name": "Handwerk",
+                "tip": "Kleine Souvenirs in den Läden im Zentrum."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Somontano bor",
+                "tip": "Kötelező vétel a borszaküzletekben."
+              },
+              {
+                "name": "Kézműves termékek",
+                "tip": "Kis emléktárgyak a központi boltokban."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Vin Somontano",
+                "tip": "Un must-have în magazinele de vinuri."
+              },
+              {
+                "name": "Artizanat",
+                "tip": "Mici suveniruri în magazinele din centru."
+              }
+            ],
+            "en": [
+              {
+                "name": "Somontano Wine",
+                "tip": "A must-buy in the wine shops."
+              },
+              {
+                "name": "Handicrafts",
+                "tip": "Small souvenirs in the central shops."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Die Busverbindungen sind sehr limitiert.",
+              "Prüfen Sie die Rückfahrzeiten gleich bei der Ankunft.",
+              "Das gesamte Dorf ist gut zu Fuß erschlossen.",
+              "Bringen Sie eine Flasche Wasser für den Rundgang mit."
+            ],
+            "hu": [
+              "A buszjáratok száma nagyon korlátozott.",
+              "Érkezéskor azonnal ellenőrizze a visszaindulás idejét.",
+              "Az egész falu könnyen bejárható gyalog.",
+              "Hozzon magával egy üveg vizet a sétához."
+            ],
+            "ro": [
+              "Conexiunile de autobuz sunt foarte limitate.",
+              "Verificați orele de întoarcere imediat la sosire.",
+              "Întregul sat poate fi ușor explorat pe jos.",
+              "Aduceți o sticlă de apă pentru plimbare."
+            ],
+            "en": [
+              "Bus connections are very limited.",
+              "Check the return times immediately upon arrival.",
+              "The whole village is easy to explore on foot.",
+              "Bring a bottle of water for the walk."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Anreise mit dem Bus durch die regnerischen Hügel des Somontano ist entspannt. Mittags erkunden wir die Plaza Mayor und die Einsiedelei, wobei wir die kurzen Wege zwischen den Gebäuden schätzen. Nachmittags bietet das Museum einen trockenen Zufluchtsort voller Kultur. Abends warten wir im Warmen auf die Rückfahrt nach Barbastro.",
+            "hu": "A buszozás Somontano esős dombjai között pihentető. Délben a Plaza Mayort és a remetelakot fedezzük fel, értékelve az épületek közötti rövid távolságokat. Délután a múzeum száraz, kultúrával teli menedéket nyújt. Este meleg helyen várjuk a Barbastróba tartó buszt.",
+            "ro": "Călătoria cu autobuzul prin dealurile ploioase din Somontano este relaxantă. La prânz explorăm Plaza Mayor și schitul, apreciind distanțele scurte dintre clădiri. După-amiaza muzeul oferă un refugiu uscat plin de cultură. Seara așteptăm la căldură cursa de întoarcere spre Barbastro.",
+            "en": "The bus journey through the rainy hills of Somontano is relaxing. At noon, we explore Plaza Mayor and the hermitage, appreciating the short distances between buildings. In the afternoon, the museum provides a dry sanctuary full of culture. In the evening, we wait in the warm for the return trip to Barbastro."
+          },
+          "stops": [
+            {
+              "name": "Plaza Mayor (Rafael Ayerbe)",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle ist nur wenige Gehminuten von den schützenden Arkaden entfernt.",
+                "hu": "A buszmegálló csak néhány perc sétára van a védelmet nyújtó árkádoktól.",
+                "ro": "Stația de autobuz este la doar câteva minute de mers pe jos de arcade.",
+                "en": "The bus stop is just a few minutes' walk from the protective arches."
+              }
+            },
+            {
+              "name": "Einsiedelei Unserer Lieben Frau vom Schnee",
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint im Regen führt zu diesem besinnlichen Ort.",
+                "hu": "Egy rövid sprint az esőben, és máris ennél a meghitt helynél vagyunk.",
+                "ro": "Un scurt sprint prin ploaie vă duce la acest loc liniștit.",
+                "en": "A short sprint in the rain leads to this contemplative spot."
+              }
+            },
+            {
+              "name": "Museum Casa Fabián",
+              "tip_5lang": {
+                "de": "Planen Sie hier Ihren längsten Aufenthalt während eines Regengusses ein.",
+                "hu": "Ide tervezze a leghosszabb tartózkodást egy zápor idején.",
+                "ro": "Planificați aici cea mai lungă ședere în timpul unei ploi.",
+                "en": "Plan your longest stay here during a heavy rain."
+              }
+            },
+            {
+              "name": "Stiftskirche Santa Maria la Mayor",
+              "tip_5lang": {
+                "de": "Der Innenhof bietet begrenzten Schutz; bleiben Sie in den Innenräumen.",
+                "hu": "A belső udvar csak korlátozott védelmet nyújt; maradjon a benti termekben.",
+                "ro": "Curtea interioară oferă protecție limitată; rămâneți în interior.",
+                "en": "The courtyard offers limited protection; stay in the indoor rooms."
+              }
+            },
+            {
+              "name": "Burg von Alquézar",
+              "tip_5lang": {
+                "de": "Gehen Sie bei starkem Regen vorsichtig über den nassen Felsboden.",
+                "hu": "Erős esőben óvatosan járjon a nedves sziklafelületeken.",
+                "ro": "Mergeți cu atenție pe stânca udă în caz de ploaie puternică.",
+                "en": "Walk carefully on the wet rock surfaces during heavy rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie die Busfahrzeiten doppelt, da Regen im Gebirge zu Verzögerungen führen kann.",
+              "Ein kleiner, stabiler Regenschirm passt gut ins Handgepäck für den Bus.",
+              "Nutzen Sie die Wartehalle in Barbastro, falls Sie dort umsteigen müssen.",
+              "Die Busse sind klimatisiert, was bei hoher Luftfeuchtigkeit das Beschlagen verhindert.",
+              "Fragen Sie den Fahrer nach dem aktuellen Status der Pasarelas-Wege."
+            ],
+            "hu": [
+              "Ellenőrizze kétszer a buszmenetrendet, mert a hegyi eső késéseket okozhat.",
+              "Egy kicsi, stabil esernyő jól elfér a buszon a kézipoggyászban.",
+              "Használja a barbastrói várótermet, ha ott kell átszállnia.",
+              "A buszok légkondicionáltak, ami megakadályozza a párásodást esőben.",
+              "Kérdezze meg a sofőrt a Pasarelas útvonal aktuális állapotáról."
+            ],
+            "ro": [
+              "Verificați orarul autobuzelor, deoarece ploaia la munte poate cauza întârzieri.",
+              "O umbrelă mică și stabilă încape bine în bagajul de mână pentru autobuz.",
+              "Folosiți sala de așteptare din Barbastro dacă trebuie să schimbați acolo.",
+              "Autobuzele au aer condiționat, ceea ce previne aburirea pe timp de ploaie.",
+              "Întrebați șoferul despre starea actuală a traseului Pasarelas."
+            ],
+            "en": [
+              "Double-check bus times as mountain rain can cause delays.",
+              "A small, sturdy umbrella fits well in hand luggage for the bus.",
+              "Use the waiting area in Barbastro if you need to transfer there.",
+              "Buses are air-conditioned, which prevents fogging during high humidity.",
+              "Ask the driver about the current status of the Pasarelas trails."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Durch das frostige Somontano gleitet der Bus am klaren Wintermorgen. Mittags erkunden wir das ruhige Dorf, dessen Steine in der Sonne glänzen. Nachmittags bietet die Besichtigung der Burg und der Kirche eine Zeitreise ohne Touristenströme. Den Tag beenden wir mit einem Blick auf das beleuchtete Dorf, bevor der Bus uns zurückbringt.",
+            "hu": "A fagyos Somontanón keresztül suhan a busz a tiszta téli reggelen. Délben a csendes falut fedezzük fel, melynek kövei csillognak a napfényben. Délután a vár és a templom megtekintése időutazás turisták nélkül. A napot a kivilágított falu látványával zárjuk a busz érkezése előtt.",
+            "ro": "Autobuzul alunecă prin Somontano cel înghețat în dimineața senină de iarnă. La prânz explorăm satul liniștit ale cărui pietre strălucesc în soare. După-amiaza vizitarea castelului și a bisericii este o călătorie în timp fără turiști. Încheiem ziua cu imaginea satului iluminat înainte de plecarea autobuzului.",
+            "en": "The bus glides through frosty Somontano on a clear winter morning. At noon, we explore the quiet village, its stones glistening in the sun. In the afternoon, visiting the castle and church is a journey back in time without the crowds. We end the day with a view of the illuminated village before the bus takes us back."
+          },
+          "stops": [
+            {
+              "name": "Plaza Mayor (Rafael Ayerbe)",
+              "tip_5lang": {
+                "de": "Treffen Sie sich 5 Minuten vor Abfahrt an der Haltestelle; es kann windig sein.",
+                "hu": "Érkezzen 5 perccel indulás előtt a megállóba; szeles lehet az idő.",
+                "ro": "Veniți cu 5 minute înainte de plecare în stație; poate fi vântos.",
+                "en": "Be at the stop 5 minutes before departure; it can be windy."
+              }
+            },
+            {
+              "name": "Einsiedelei Unserer Lieben Frau vom Schnee",
+              "tip_5lang": {
+                "de": "Genießen Sie die klare, kalte Luft an diesem abgeschiedenen Ort.",
+                "hu": "Élvezze a tiszta, hideg levegőt ezen az eldugott helyen.",
+                "ro": "Bucurați-vă de aerul curat și rece în acest loc retras.",
+                "en": "Enjoy the clear, cold air at this secluded spot."
+              }
+            },
+            {
+              "name": "Museum Casa Fabián",
+              "tip_5lang": {
+                "de": "Ein guter Ort zum Aufwärmen zwischen den Außenbesichtigungen.",
+                "hu": "Jó hely a felmelegedésre a kültéri látnivalók között.",
+                "ro": "Un loc bun pentru încălzire între vizitele exterioare.",
+                "en": "A good place to warm up between outdoor sightseeing."
+              }
+            },
+            {
+              "name": "Stiftskirche Santa Maria la Mayor",
+              "tip_5lang": {
+                "de": "Die Akustik in der leeren Kirche ist im Winter besonders beeindruckend.",
+                "hu": "Az üres templom akusztikája télen különösen lenyűgöző.",
+                "ro": "Acustica bisericii goale este deosebit de impresionantă iarna.",
+                "en": "The acoustics in the empty church are particularly impressive in winter."
+              }
+            },
+            {
+              "name": "Burg von Alquézar",
+              "tip_5lang": {
+                "de": "Tragen Sie warme Socken; die Steinböden strahlen Kälte aus.",
+                "hu": "Viseljen meleg zoknit; a kőpadló ontja magából a hideget.",
+                "ro": "Purtați șosete groase; podelele de piatră emană frig.",
+                "en": "Wear warm socks; the stone floors radiate cold."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Im Winter verkehren weniger Busse; laden Sie den aktuellen Fahrplan vorab herunter.",
+              "Die Busse sind gut geheizt; kleiden Sie sich nach dem Zwiebelprinzip.",
+              "Nutzen Sie die Zeit im Dorf für ein langes, warmes Mittagessen.",
+              "Einige Cafés im Dorf könnten im Winter reduzierte Öffnungszeiten haben.",
+              "Kaufen Sie Tickets nach Möglichkeit vorab online, um Wartezeiten in der Kälte zu vermeiden."
+            ],
+            "hu": [
+              "Télen kevesebb busz jár; töltse le előre az aktuális menetrendet.",
+              "A buszok jól fűtöttek; öltözzön rétegesen a könnyű váltáshoz.",
+              "Használja ki az időt a faluban egy hosszú, meleg ebédre.",
+              "Néhány kávézó a faluban korlátozott nyitvatartással működhet télen.",
+              "Lehetőség szerint vegye meg a jegyeket előre online a hidegben várakozás elkerülésére."
+            ],
+            "ro": [
+              "Iarna circulă mai puține autobuze; descărcați orarul actualizat în avans.",
+              "Autobuzele sunt bine încălzite; îmbrăcați-vă în straturi.",
+              "Folosiți timpul în sat pentru un prânz lung și cald.",
+              "Unele cafenele din sat ar putea avea program redus iarna.",
+              "Cumpărați biletele online în avans pentru a evita așteptarea în frig."
+            ],
+            "en": [
+              "Fewer buses run in winter; download the current schedule in advance.",
+              "Buses are well-heated; dress in layers for easy transitions.",
+              "Use your time in the village for a long, warm lunch.",
+              "Some cafes in the village might have reduced hours in winter.",
+              "Buy tickets online in advance if possible to avoid waiting in the cold."
+            ]
+          }
+        }
+      }
+    }
+  },
+  "external_resources": {
+    "tourism_office": "https://www.alquezar.es/",
+    "transit_official": "https://www.avanzabus.com/",
+    "language_tips": {
+      "de": "Spanisch reicht überall, im Somontano-Gebiet wird ab und zu auch Aragonesisch (Fabla) gehört. Englisch verstehen vor allem die Guides der Canyoning-Anbieter, in den Dorfbars hilft ein freundliches 'hola' und ein Lächeln. Die Worte 'pasarelas' (Stege) und 'colegiata' (Stiftskirche) sind nützlich, wenn Sie nach dem Weg fragen.",
+      "hu": "Spanyolul mindenhol elboldogulsz, a Somontano vidékén néha még az aragóniai fablát is lehet hallani. A kanyoning- és túravezetők beszélnek angolul, a falusi bárokban viszont egy mosolygós 'hola' és némi gesztikulálás messzire visz. A 'pasarelas' (függőhidak) és 'colegiata' (társaskáptalan) szavakat érdemes megjegyezni.",
+      "ro": "Spaniola se descurcă peste tot, în zona Somontano se mai aude și aragoneza (fabla). Ghizii de canyoning vorbesc engleză, dar în barurile săteanilor un 'hola' prietenos și un zâmbet fac minuni. Cuvintele 'pasarelas' (pasarele) și 'colegiata' (biserica colegială) îți vor fi de folos.",
+      "en": "Spanish covers all needs, with hints of Aragonese (Fabla) in older locals. Canyoning guides and the tourist office speak English, but village bars warm up faster with a friendly 'hola' and a smile. Learn 'pasarelas' (walkways) and 'colegiata' (collegiate church) for directions."
+    },
+    "best_time_to_visit": {
+      "de": "April bis Juni und September bis Oktober sind ideal: mildes Klima, blühende Mandelbäume oder goldene Weinberge und perfekte Bedingungen für die Pasarelas-Schluchtenwanderung. Im Juli und August wird es heiß und die Parkplätze sind ab 10 Uhr voll, also früh anreisen.",
+      "hu": "Áprilistól júniusig és szeptembertől októberig a legjobb: enyhe idő, virágzó mandulafák vagy aranyló szőlősök, és tökéletes feltételek a Pasarelas szurdoktúrához. Júliusban és augusztusban tűz a nap, a parkolók 10 órára megtelnek, érdemes korán érkezni.",
+      "ro": "Aprilie-iunie și septembrie-octombrie sunt momentele ideale: vreme blândă, migdali înfloriți sau podgorii aurii și condiții perfecte pentru pasarelele din canion. În iulie-august e foarte cald, iar parcările se umplu pe la 10 dimineața.",
+      "en": "April to June and September to October are sweet spots: mild weather, almond blossom or golden vineyards, and ideal conditions for the canyon walkways. July and August get baking hot and parking fills by 10 am, so arrive early."
+    },
+    "neighborhood_warnings": {
+      "de": "Alquézar selbst gilt als sicher, die Gefahren liegen in der Natur: rutschige Pasarelas-Treppen bei Regen, plötzlich steigender Wasserstand im Río Vero und ungesicherte Felskanten. Festes Schuhwerk Pflicht, bei Gewitterwarnung Canyon meiden.",
+      "hu": "Maga Alquézar nyugodt, a veszélyt inkább a természet adja: a Pasarelas lépcsői esőben csúsznak, a Río Vero vízszintje hirtelen megemelkedhet, és a sziklaperemek nincsenek korláttal. Stabil bakancs kötelező, vihar-előrejelzés esetén ne menj le a szurdokba.",
+      "ro": "Satul în sine e sigur, riscurile vin din natură: scările pasarelelor alunecă pe ploaie, nivelul râului Vero crește brusc, iar marginile stâncii nu au balustrade. Bocanci buni sunt obligatorii și evitați canionul când e prognoză de furtună.",
+      "en": "The village itself is calm; risks lie in the gorge: the walkway steps get slick when wet, Río Vero can swell fast after rain, and cliff edges lack railings. Wear proper hiking shoes and avoid the canyon under any storm warning."
+    }
+  }
+}

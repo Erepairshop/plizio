@@ -1,0 +1,2295 @@
+{
+  "city_id": "benicassim",
+  "anchor": {
+    "name": "Plaza de las Cortes",
+    "coords": [
+      0.0744,
+      40.0489
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 4.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Iglesia de Santo Tomás de Villanueva",
+          "coords": [
+            0.0682,
+            40.0541
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die neoklassizistische Fassade.",
+            "hu": "Csodáld meg a neoklasszicista homlokzatot.",
+            "ro": "Admirați fațada neoclasică.",
+            "en": "Admire the neoclassical facade."
+          }
+        },
+        {
+          "name": "Bodegas Carmelitano",
+          "coords": [
+            0.0705,
+            40.0552
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "10:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Probieren Sie den berühmten Moscatel-Likör.",
+            "hu": "Kóstold meg a híres Moscatel likőrt.",
+            "ro": "Gustați celebrul lichior Moscatel.",
+            "en": "Taste the famous Moscatel liqueur."
+          }
+        },
+        {
+          "name": "Ruta de las Villas",
+          "coords": [
+            0.0815,
+            40.0515
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Villen der Belle Époque.",
+            "hu": "Fedezd fel a Belle Époque villáit.",
+            "ro": "Descoperiți vilele Belle Époque.",
+            "en": "Discover the Belle Époque villas."
+          }
+        },
+        {
+          "name": "Torre de Sant Vicent",
+          "coords": [
+            0.0784,
+            40.0465
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Genießen Sie den Blick auf die Küste vom Turm.",
+            "hu": "Élvezd a parti kilátást a toronyból.",
+            "ro": "Bucurați-vă de vederea de pe coastă din turn.",
+            "en": "Enjoy the coastal view from the tower."
+          }
+        },
+        {
+          "name": "Playa de Voramar",
+          "coords": [
+            0.0852,
+            40.0528
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:05",
+          "stay_min": 150,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Perfekt für ein entspanntes Bad am Abend.",
+            "hu": "Tökéletes egy esti frissítő fürdőzéshez.",
+            "ro": "Perfect pentru o baie relaxantă de seară.",
+            "en": "Perfect for a relaxing evening swim."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im historischen Zentrum mit der neoklassizistischen Kirche und einer geführten Tour durch die legendären Bodegas Carmelitano. Der Mittag gehört dem architektonischen Erbe der 'Ruta de las Villas', wo die Aristokratie des 19. Jahrhunderts ihre Sommer verbrachte. Nach einem kurzen Stopp am Wachturm Torre de Sant Vicent endet der Tag entspannt am feinen Sandstrand von Voramar, umgeben von herrschaftlichen Villen.",
+        "hu": "Kezdd a napot a történelmi központban a neoklasszicista templommal és a legendás Bodegas Carmelitano vezetésével. A délidő a 'Ruta de las Villas' építészeti örökségéé, ahol a 19. századi arisztokrácia töltötte nyarait. A Torre de Sant Vicent őrtorony után a nap a Voramar strand finom homokján zárul, impozáns villák gyűrűjében.",
+        "ro": "Începeți ziua în centrul istoric cu biserica neoclasică și un tur ghidat al legendarelor Bodegas Carmelitano. Amiaza aparține moștenirii arhitecturale a 'Ruta de las Villas', unde aristocrația secolului al XIX-lea își petrecea verile. După un popas la turnul de pază Sant Vicent, ziua se încheie relaxat pe nisipul fin al plajei Voramar.",
+        "en": "Start your day in the historic center with the neoclassical church and a guided tour of the legendary Bodegas Carmelitano. Midday belongs to the architectural heritage of the 'Ruta de las Villas', where 19th-century aristocracy spent their summers. After a brief stop at the Sant Vicent watchtower, the day ends relaxingly on the fine sand of Voramar beach."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Paella Valenciana",
+            "tip": "Probieren Sie sie im Restaurant Voramar direkt am Meer."
+          },
+          {
+            "name": "Moscatel Likör",
+            "tip": "Das Erbe der Karmeliter-Mönche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Paella Valenciana",
+            "tip": "Kóstold meg a Voramar étteremben, közvetlenül a parton."
+          },
+          {
+            "name": "Moscatel likőr",
+            "tip": "A karmelita szerzetesek öröksége."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Paella Valenciana",
+            "tip": "Încercați-o la restaurantul Voramar, direct pe plajă."
+          },
+          {
+            "name": "Lichior Moscatel",
+            "tip": "Moștenirea călugărilor carmeliți."
+          }
+        ],
+        "en": [
+          {
+            "name": "Paella Valenciana",
+            "tip": "Try it at Voramar restaurant, right on the beach."
+          },
+          {
+            "name": "Moscatel liqueur",
+            "tip": "The heritage of the Carmelite monks."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Promenade Voramar",
+            "tip": "Ruhiger Spaziergang bei Sonnenuntergang.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Voramar sétány",
+            "tip": "Csendes séta naplementekor.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Promenada Voramar",
+            "tip": "O plimbare liniștită la apus.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Voramar Promenade",
+            "tip": "Quiet walk at sunset.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bodegas Carmelitano Shop",
+            "tip": "Lokale Liköre und Weine."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bodegas Carmelitano bolt",
+            "tip": "Helyi likőrök és borok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul Bodegas Carmelitano",
+            "tip": "Lichioruri și vinuri locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bodegas Carmelitano Shop",
+            "tip": "Local liqueurs and wines."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Bequeme Schuhe für die Villen-Route sind ein Muss.",
+          "Die Bodegas-Touren sollten im Voraus gebucht werden.",
+          "Besuchen Sie die Strände früh, um die beste Ruhe zu genießen."
+        ],
+        "hu": [
+          "Kényelmes cipő a villák útvonalához elengedhetetlen.",
+          "A Bodegas túrákat érdemes előre lefoglalni.",
+          "Látogass el a strandokra korán a legnagyobb nyugalomért."
+        ],
+        "ro": [
+          "Pantofii confortabili pentru ruta vilelor sunt obligatorii.",
+          "Tururile la Bodegas trebuie rezervate în avans.",
+          "Vizitați plajele devreme pentru a vă bucura de liniște."
+        ],
+        "en": [
+          "Comfortable shoes for the Villa route are a must.",
+          "Bodegas tours should be booked in advance.",
+          "Visit the beaches early to enjoy the best peace."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag im historischen Zentrum mit der neoklassizistischen Kirche und einer geführten Tour durch die legendären Bodegas Carmelitano. Der Mittag gehört dem architektonischen Erbe der 'Ruta de las Villas', wo die Aristokratie des 19. Jahrhunderts ihre Sommer verbrachte. Nach einem kurzen Stopp am Wachturm Torre de Sant Vicent endet der Tag entspannt am feinen Sandstrand von Voramar, umgeben von herrschaftlichen Villen.",
+            "hu": "Kezdd a napot a történelmi központban a neoklasszicista templommal és a legendás Bodegas Carmelitano vezetésével. A délidő a 'Ruta de las Villas' építészeti örökségéé, ahol a 19. századi arisztokrácia töltötte nyarait. A Torre de Sant Vicent őrtorony után a nap a Voramar strand finom homokján zárul, impozáns villák gyűrűjében.",
+            "ro": "Începeți ziua în centrul istoric cu biserica neoclasică și un tur ghidat al legendarelor Bodegas Carmelitano. Amiaza aparține moștenirii arhitecturale a 'Ruta de las Villas', unde aristocrația secolului al XIX-lea își petrecea verile. După un popas la turnul de pază Sant Vicent, ziua se încheie relaxat pe nisipul fin al plajei Voramar.",
+            "en": "Start your day in the historic center with the neoclassical church and a guided tour of the legendary Bodegas Carmelitano. Midday belongs to the architectural heritage of the 'Ruta de las Villas', where 19th-century aristocracy spent their summers. After a brief stop at the Sant Vicent watchtower, the day ends relaxingly on the fine sand of Voramar beach."
+          },
+          "stops": [
+            {
+              "name": "Iglesia de Santo Tomás de Villanueva",
+              "tip_5lang": {
+                "de": "Bewundern Sie die neoklassizistische Fassade.",
+                "hu": "Csodáld meg a neoklasszicista homlokzatot.",
+                "ro": "Admirați fațada neoclasică.",
+                "en": "Admire the neoclassical facade."
+              }
+            },
+            {
+              "name": "Bodegas Carmelitano",
+              "tip_5lang": {
+                "de": "Probieren Sie den berühmten Moscatel-Likör.",
+                "hu": "Kóstold meg a híres Moscatel likőrt.",
+                "ro": "Gustați celebrul lichior Moscatel.",
+                "en": "Taste the famous Moscatel liqueur."
+              }
+            },
+            {
+              "name": "Ruta de las Villas",
+              "tip_5lang": {
+                "de": "Entdecken Sie die Villen der Belle Époque.",
+                "hu": "Fedezd fel a Belle Époque villáit.",
+                "ro": "Descoperiți vilele Belle Époque.",
+                "en": "Discover the Belle Époque villas."
+              }
+            },
+            {
+              "name": "Torre de Sant Vicent",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die Küste vom Turm.",
+                "hu": "Élvezd a parti kilátást a toronyból.",
+                "ro": "Bucurați-vă de vederea de pe coastă din turn.",
+                "en": "Enjoy the coastal view from the tower."
+              }
+            },
+            {
+              "name": "Playa de Voramar",
+              "tip_5lang": {
+                "de": "Perfekt für ein entspanntes Bad am Abend.",
+                "hu": "Tökéletes egy esti frissítő fürdőzéshez.",
+                "ro": "Perfect pentru o baie relaxantă de seară.",
+                "en": "Perfect for a relaxing evening swim."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Paella Valenciana",
+                "tip": "Probieren Sie sie im Restaurant Voramar direkt am Meer."
+              },
+              {
+                "name": "Moscatel Likör",
+                "tip": "Das Erbe der Karmeliter-Mönche."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Paella Valenciana",
+                "tip": "Kóstold meg a Voramar étteremben, közvetlenül a parton."
+              },
+              {
+                "name": "Moscatel likőr",
+                "tip": "A karmelita szerzetesek öröksége."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Paella Valenciana",
+                "tip": "Încercați-o la restaurantul Voramar, direct pe plajă."
+              },
+              {
+                "name": "Lichior Moscatel",
+                "tip": "Moștenirea călugărilor carmeliți."
+              }
+            ],
+            "en": [
+              {
+                "name": "Paella Valenciana",
+                "tip": "Try it at Voramar restaurant, right on the beach."
+              },
+              {
+                "name": "Moscatel liqueur",
+                "tip": "The heritage of the Carmelite monks."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Promenade Voramar",
+                "tip": "Ruhiger Spaziergang bei Sonnenuntergang.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Voramar sétány",
+                "tip": "Csendes séta naplementekor.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Promenada Voramar",
+                "tip": "O plimbare liniștită la apus.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Voramar Promenade",
+                "tip": "Quiet walk at sunset.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Bodegas Carmelitano Shop",
+                "tip": "Lokale Liköre und Weine."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Bodegas Carmelitano bolt",
+                "tip": "Helyi likőrök és borok."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Magazinul Bodegas Carmelitano",
+                "tip": "Lichioruri și vinuri locale."
+              }
+            ],
+            "en": [
+              {
+                "name": "Bodegas Carmelitano Shop",
+                "tip": "Local liqueurs and wines."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Bequeme Schuhe für die Villen-Route sind ein Muss.",
+              "Die Bodegas-Touren sollten im Voraus gebucht werden.",
+              "Besuchen Sie die Strände früh, um die beste Ruhe zu genießen."
+            ],
+            "hu": [
+              "Kényelmes cipő a villák útvonalához elengedhetetlen.",
+              "A Bodegas túrákat érdemes előre lefoglalni.",
+              "Látogass el a strandokra korán a legnagyobb nyugalomért."
+            ],
+            "ro": [
+              "Pantofii confortabili pentru ruta vilelor sunt obligatorii.",
+              "Tururile la Bodegas trebuie rezervate în avans.",
+              "Vizitați plajele devreme pentru a vă bucura de liniște."
+            ],
+            "en": [
+              "Comfortable shoes for the Villa route are a must.",
+              "Bodegas tours should be booked in advance.",
+              "Visit the beaches early to enjoy the best peace."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Morgen geschützt in der neoklassizistischen Iglesia de Santo Tomás. Mittags bietet die Bodegas Carmelitano eine trockene Zuflucht für eine Verkostung lokaler Liköre.  Am Nachmittag spazieren Sie trotz Regen entlang der Ruta de las Villas, wo die prächtigen Gärten im Nass glänzen. Beenden Sie den Tag am Torre de Sant Vicent und beobachten Sie die dramatische Brandung.  Am Abend bietet die Promenade trotz Schauern eine melancholisch-schöne Atmosphäre am Meer.",
+            "hu": "Kezdje a reggelt a Santo Tomás templom hűvös és száraz neoklasszicista belső terében. Délben vonuljon be a Bodegas Carmelitano falai közé egy hagyományos likőrkóstolóra, elkerülve az égi áldást.  Délután az eső ellenére is érdemes végigsétálni a Villas útvonalon, ahol a pálmák és villák különleges arcukat mutatják. A Torre de Sant Vicent mellett zárja a napot, figyelve a morajló tengert.  Este a Voramar strand partján a felhők és a víz találkozása nyújt drámai és emlékezetes látványt.",
+            "ro": "Începeți dimineața la adăpost în interiorul neoclasic al bisericii Santo Tomás. La prânz, vizitați Bodegas Carmelitano pentru o degustare de lichioruri, feriți de ploaie în distileria istorică.  După-amiază, plimbați-vă pe Ruta de las Villas, unde grădinile luxuriante strălucesc sub picăturile de ploaie. Încheiați ziua la Torre de Sant Vicent, admirând marea agitată de la înălțime.  Seara, atmosfera melancolică a plajei Voramar oferă un peisaj marin spectaculos sub cerul înnorat.",
+            "en": "Start your morning inside the sheltered neoclassical interior of the Santo Tomás Church. At noon, retreat to Bodegas Carmelitano for a guided tasting of traditional liqueurs away from the rain.  In the afternoon, even in the rain, the Route of the Villas offers a unique view of historic gardens glistening in the wet. End your day by the Torre de Sant Vicent, watching the dramatic waves.  By evening, the promenade provides a moody and beautiful coastal experience despite the occasional shower."
+          },
+          "stops": [
+            {
+              "name": "Iglesia de Santo Tomás de Villanueva",
+              "tip_4lang": {
+                "de": "Ein perfekter Ort, um den ersten Regenschauer trocken zu überstehen.",
+                "hu": "Tökéletes helyszín az első reggeli zápor száraz átvészeléséhez.",
+                "ro": "Un loc perfect pentru a aștepta trecerea primei averse de dimineață.",
+                "en": "A perfect spot to stay dry during the first morning shower."
+              }
+            },
+            {
+              "name": "Bodegas Carmelitano",
+              "tip_4lang": {
+                "de": "Die Innenführung ist ideal bei schlechtem Wetter; reservieren Sie vorab.",
+                "hu": "A belső vezetés ideális rossz időben; érdemes előre foglalni.",
+                "ro": "Turul interior este ideal pe vreme rea; se recomandă rezervarea.",
+                "en": "The indoor tour is ideal for bad weather; booking ahead is recommended."
+              }
+            },
+            {
+              "name": "Ruta de las Villas",
+              "tip_4lang": {
+                "de": "Tragen Sie rutschfeste Schuhe, da die Fliesen am Ufer glatt werden können.",
+                "hu": "Viseljen csúszásmentes cipőt, mert a parti burkolat vizesen síkos lehet.",
+                "ro": "Purtați încălțăminte antiderapantă, pavajul de pe faleză poate fi alunecos.",
+                "en": "Wear non-slip shoes as the promenade tiles can be slippery when wet."
+              }
+            },
+            {
+              "name": "Torre de Sant Vicent",
+              "tip_4lang": {
+                "de": "Der überdachte Eingangsbereich bietet kurzzeitigen Schutz vor Wind und Nass.",
+                "hu": "A fedett bejárati rész rövid ideig védelmet nyújt a szél és az eső ellen.",
+                "ro": "Zona de intrare acoperită oferă protecție temporară împotriva vântului.",
+                "en": "The covered entrance area provides temporary shelter from wind and rain."
+              }
+            },
+            {
+              "name": "Playa de Voramar",
+              "tip_4lang": {
+                "de": "Genießen Sie den Blick auf das stürmische Meer aus einem der nahen Cafés.",
+                "hu": "Élvezze a viharos tenger látványát a közeli kávézók egyikéből.",
+                "ro": "Admirați marea agitată de la adăpostul uneia dintre cafenelele din apropiere.",
+                "en": "Enjoy the view of the stormy sea from one of the nearby cafes."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine leichte Regenjacke statt eines Schirms wegen des Küstenwindes.",
+              "Die Bodega ist der beste Ort für eine längere Pause bei starkem Regen.",
+              "Achten Sie auf Pfützen auf den historischen Gehwegen der Villen-Route.",
+              "Nutzen Sie die Strandcafés als strategische Haltepunkte zum Aufwärmen."
+            ],
+            "hu": [
+              "Használjon esőkabátot esernyő helyett a gyakori tengerparti szél miatt.",
+              "A borászat a legjobb hely egy hosszabb pihenőre heves esőzés idején.",
+              "Vigyázzon a tócsákra a villák útvonalának történelmi járdáin.",
+              "Használja a parti kávézókat stratégiai pihenőpontként a felmelegedéshez."
+            ],
+            "ro": [
+              "Folosiți o pelerină de ploaie în loc de umbrelă din cauza vântului de coastă.",
+              "Crama este cel mai bun loc pentru o pauză lungă în caz de ploaie torențială.",
+              "Atenție la bălțile de pe trotuarele istorice ale rutei vilelor.",
+              "Folosiți cafenelele de pe plajă ca puncte strategice pentru a vă încălzi."
+            ],
+            "en": [
+              "Wear a rain poncho instead of an umbrella due to frequent coastal winds.",
+              "The winery is the best place for a long break during heavy downpours.",
+              "Watch out for puddles on the historic pavements of the Villa Route.",
+              "Use beachfront cafes as strategic stops to dry off and warm up."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie die milde Wintersonne bei einem Besuch der historischen Kirche am Morgen. Mittags wärmt Sie eine Führung durch die traditionsreiche Bodega mit einer Likörprobe auf.  Am Nachmittag genießen Sie die Ruhe auf der Villen-Route ohne die sommerlichen Touristenmassen. Erreichen Sie den Torre de Sant Vicent rechtzeitig vor dem frühen Sonnenuntergang um 17:30 Uhr.  Der Abend am Playa de Voramar ist kühl, bietet aber einen herrlich klaren Sternenhimmel über dem Mittelmeer.",
+            "hu": "Élvezze a lágy téli napsütést a történelmi templom meglátogatásával a reggeli órákban. Délben a Bodegas Carmelitano vezetett túrája és a likőrkóstoló kellemesen felmelegíti.  Délután használja ki a tömegmentes villák útvonalát, ahol ilyenkor is virágoznak a kertek. Érjen a Torre de Sant Vicenthez a korai, 17:30 körüli naplemente előtt.  Az este a Voramar strandon hűvös, de a tiszta téli égbolt és a tenger látványa kárpótolja.",
+            "ro": "Bucurați-vă de soarele blând de iarnă vizitând biserica istorică în cursul dimineții. La prânz, turul cramei Carmelitano și degustarea de lichior vă vor încălzi plăcut.  După-amiază, profitați de liniștea de pe Ruta de las Villas, fără mulțimile de turiști. Ajungeți la Torre de Sant Vicent înainte de apusul devreme, în jur de ora 17:30.  Seara pe plaja Voramar este răcoroasă, dar cerul senin de iarnă oferă o priveliște stelară deosebită.",
+            "en": "Enjoy the mild winter sun with a visit to the historic church in the morning. At noon, the guided tour of Bodegas Carmelitano and its liqueur tasting will warm you up comfortably.  In the afternoon, take advantage of the crowd-free Route of the Villas, where gardens still bloom. Reach the Torre de Sant Vicent before the early sunset around 17:30.  The evening at Playa de Voramar is chilly, but the clear winter sky over the Mediterranean is breathtaking."
+          },
+          "stops": [
+            {
+              "name": "Iglesia de Santo Tomás de Villanueva",
+              "tip_4lang": {
+                "de": "Die dicken Mauern speichern die Wärme der Mittagssonne erstaunlich gut.",
+                "hu": "A vastag falak meglepően jól tartják a nappali napsütés melegét.",
+                "ro": "Zidurile groase rețin surprinzător de bine căldura soarelui de amiază.",
+                "en": "The thick walls retain the midday sun's warmth surprisingly well."
+              }
+            },
+            {
+              "name": "Bodegas Carmelitano",
+              "tip_4lang": {
+                "de": "Der Muskateller-Likör ist das perfekte Getränk für einen kühlen Wintertag.",
+                "hu": "A muskotályos likőr tökéletes ital egy hűvös téli napon.",
+                "ro": "Lichiorul de muscat este băutura perfectă pentru o zi răcoroasă de iarnă.",
+                "en": "The Muscat liqueur is the perfect drink for a chilly winter day."
+              }
+            },
+            {
+              "name": "Ruta de las Villas",
+              "tip_4lang": {
+                "de": "Nutzen Sie das klare Winterlicht für fantastische Fotos der Architektur.",
+                "hu": "Használja ki a tiszta téli fényeket a villák építészeti fotózásához.",
+                "ro": "Profitați de lumina clară de iarnă pentru fotografii superbe ale vilelor.",
+                "en": "Take advantage of the clear winter light for great architectural photos."
+              }
+            },
+            {
+              "name": "Torre de Sant Vicent",
+              "tip_4lang": {
+                "de": "Der Sonnenuntergang ist hier im Winter besonders farbenintensiv.",
+                "hu": "A naplemente itt télen különösen intenzív színekben pompázik.",
+                "ro": "Apusul de soare este deosebit de colorat aici în timpul iernii.",
+                "en": "Sunset here is particularly vibrant and colorful during winter."
+              }
+            },
+            {
+              "name": "Playa de Voramar",
+              "tip_4lang": {
+                "de": "Ein zügiger Spaziergang am Ufer hilft gegen die abendliche Kühle.",
+                "hu": "Egy tempós séta a parton segít a hűvös esti szél ellen.",
+                "ro": "O plimbare alertă pe mal ajută la combaterea răcorii de seară.",
+                "en": "A brisk walk along the shore helps against the evening chill."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Zwiebelprinzip bei der Kleidung: Die Sonne wärmt, der Schatten ist kühl.",
+              "Beachten Sie den frühen Sonnenuntergang gegen 17:30 Uhr.",
+              "Viele Cafés an der Promenade haben im Winter nur eingeschränkt offen.",
+              "Die Luftfeuchtigkeit am Meer lässt die Kälte abends stärker wirken."
+            ],
+            "hu": [
+              "Öltözködjön rétegesen: a napon meleg van, de árnyékban hűvös.",
+              "Vegye figyelembe a korai, 17:30 körüli naplementét.",
+              "Sok parti kávézó télen korlátozott nyitvatartással üzemel.",
+              "A tengerparti pára miatt este hidegebbnek érződik az idő."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi: este cald la soare, dar răcoare la umbră.",
+              "Țineți cont de apusul de soare devreme, în jurul orei 17:30.",
+              "Multe cafenele de pe faleză au program redus în timpul iernii.",
+              "Umiditatea mării face ca frigul să fie resimțit mai tare seara."
+            ],
+            "en": [
+              "Dress in layers: it's warm in the sun but chilly in the shade.",
+              "Be mindful of the early sunset, usually around 17:30 in winter.",
+              "Many beachfront cafes have limited opening hours during winter.",
+              "Coastal humidity makes the evening air feel colder than it is."
+            ]
+          }
+        }
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:00",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Via Verde del Mar",
+          "coords": [
+            0.088,
+            40.065
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Spektakulärer Weg auf der alten Bahnstrecke.",
+            "hu": "Látványos út a régi vasútvonal mentén.",
+            "ro": "Traseu spectaculos pe vechea linie de cale ferată.",
+            "en": "Spectacular path along the old railway line."
+          }
+        },
+        {
+          "name": "Torre de Sant Vicent",
+          "coords": [
+            0.0784,
+            40.0465
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Historischer Wachturm gegen Piraten.",
+            "hu": "Történelmi őrtorony a kalózok ellen.",
+            "ro": "Turn de pază istoric împotriva piraților.",
+            "en": "Historic watchtower against pirates."
+          }
+        },
+        {
+          "name": "Ruta de las Villas",
+          "coords": [
+            0.0815,
+            40.0515
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Radfahren entlang der Belle Époque Villen.",
+            "hu": "Bringázás a Belle Époque villák mentén.",
+            "ro": "Ciclism de-a lungul vilelor Belle Époque.",
+            "en": "Cycling along the Belle Époque villas."
+          }
+        },
+        {
+          "name": "Bodegas Carmelitano",
+          "coords": [
+            0.0705,
+            40.0552
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "13:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Destillerie der Mönche.",
+            "hu": "Látogasd meg a szerzetesek lepárlóját.",
+            "ro": "Vizitați distileria călugărilor.",
+            "en": "Visit the monks' distillery."
+          }
+        },
+        {
+          "name": "Iglesia de Santo Tomás de Villanueva",
+          "coords": [
+            0.0682,
+            40.0541
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein ruhiger Ort im Stadtzentrum.",
+            "hu": "Egy csendes pont a városközpontban.",
+            "ro": "Un loc liniștit în centrul orașului.",
+            "en": "A quiet spot in the city center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erleben Sie die Küste auf der Via Verde del Mar, einem Radweg durch Tunnel und entlang von Klippen. Danach führt die Route südwärts zur Torre de Sant Vicent und entlang der prächtigen Strandvillen. Den Nachmittag verbringen Sie im Stadtinneren bei den Bodegas Carmelitano und der neoklassizistischen Kirche, bevor Sie den Tag gemütlich ausklingen lassen.",
+        "hu": "Fedezd fel a partot a Via Verde del Mar-on, amely alagutakon és sziklákon át vezet. Ezután délre kanyarodva a Torre de Sant Vicent és a pompás tengerparti villák következnek. A délutánt a belvárosban, a Bodegas Carmelitano-nál és a neoklasszicista templomnál töltjük, mielőtt a napot kényelmesen zárnánk.",
+        "ro": "Experimentați coasta pe Via Verde del Mar, o pistă de biciclete prin tuneluri și de-a lungul stâncilor. Apoi, traseul duce spre sud către Torre de Sant Vicent și de-a lungul vilelor magnifice de pe plajă. Amiaza o veți petrece în interiorul orașului la Bodegas Carmelitano și biserica neoclasică.",
+        "en": "Experience the coast on the Via Verde del Mar, a bike path through tunnels and along cliffs. Then the route leads south to the Sant Vicent Tower and along the magnificent beach villas. Spend the afternoon in the city center at Bodegas Carmelitano and the neoclassical church."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fideuà",
+            "tip": "Nudel-Paella mit Meeresfrüchten."
+          },
+          {
+            "name": "Horchata",
+            "tip": "Erfrischendes Erdmandelgetränk am Strand."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fideuà",
+            "tip": "Tészta-paella tenger gyümölcseivel."
+          },
+          {
+            "name": "Horchata",
+            "tip": "Frissítő mandulatej-szerű ital a parton."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fideuà",
+            "tip": "Paella cu tăieței și fructe de mare."
+          },
+          {
+            "name": "Horchata",
+            "tip": "Băutură răcoritoare de migdale pe plajă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fideuà",
+            "tip": "Pasta paella with seafood."
+          },
+          {
+            "name": "Horchata",
+            "tip": "Refreshing tiger nut milk drink at the beach."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Torre Colomera",
+            "tip": "Ruhiger Aussichtspunkt an der Via Verde.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Torre Colomera",
+            "tip": "Csendes kilátópont a Via Verde mentén.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Torre Colomera",
+            "tip": "Punct de belvedere liniștit pe Via Verde.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Torre Colomera",
+            "tip": "Quiet viewpoint along the Via Verde.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt Benicàssim",
+            "tip": "Frisches Obst und lokale Produkte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Benicàssim heti piac",
+            "tip": "Friss gyümölcsök és helyi termékek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală",
+            "tip": "Fructe proaspete și produse locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Benicàssim Weekly Market",
+            "tip": "Fresh fruit and local products."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Via Verde hat einige Tunnel, Licht am Rad ist gut.",
+          "In der Hochsaison ist die Promenade für Räder eingeschränkt.",
+          "Parken Sie Ihr Rad immer sicher an den vorgesehenen Plätzen."
+        ],
+        "hu": [
+          "A Via Verde alagutakat is tartalmaz, lámpa hasznos.",
+          "Főszezonban a sétányon korlátozott a kerékpározás.",
+          "Mindig biztonságos helyen parkold le a bringát."
+        ],
+        "ro": [
+          "Via Verde are câteva tuneluri, lumina la bicicletă e utilă.",
+          "În sezonul de vârf, promenada este restricționată pentru biciclete.",
+          "Parcați întotdeauna bicicleta în locuri sigure."
+        ],
+        "en": [
+          "The Via Verde has some tunnels, bike lights are useful.",
+          "In high season, cycling on the promenade is restricted.",
+          "Always park your bike securely in designated areas."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Erleben Sie die Küste auf der Via Verde del Mar, einem Radweg durch Tunnel und entlang von Klippen. Danach führt die Route südwärts zur Torre de Sant Vicent und entlang der prächtigen Strandvillen. Den Nachmittag verbringen Sie im Stadtinneren bei den Bodegas Carmelitano und der neoklassizistischen Kirche, bevor Sie den Tag gemütlich ausklingen lassen.",
+            "hu": "Fedezd fel a partot a Via Verde del Mar-on, amely alagutakon és sziklákon át vezet. Ezután délre kanyarodva a Torre de Sant Vicent és a pompás tengerparti villák következnek. A délutánt a belvárosban, a Bodegas Carmelitano-nál és a neoklasszicista templomnál töltjük, mielőtt a napot kényelmesen zárnánk.",
+            "ro": "Experimentați coasta pe Via Verde del Mar, o pistă de biciclete prin tuneluri și de-a lungul stâncilor. Apoi, traseul duce spre sud către Torre de Sant Vicent și de-a lungul vilelor magnifice de pe plajă. Amiaza o veți petrece în interiorul orașului la Bodegas Carmelitano și biserica neoclasică.",
+            "en": "Experience the coast on the Via Verde del Mar, a bike path through tunnels and along cliffs. Then the route leads south to the Sant Vicent Tower and along the magnificent beach villas. Spend the afternoon in the city center at Bodegas Carmelitano and the neoclassical church."
+          },
+          "stops": [
+            {
+              "name": "Via Verde del Mar",
+              "tip_5lang": {
+                "de": "Spektakulärer Weg auf der alten Bahnstrecke.",
+                "hu": "Látványos út a régi vasútvonal mentén.",
+                "ro": "Traseu spectaculos pe vechea linie de cale ferată.",
+                "en": "Spectacular path along the old railway line."
+              }
+            },
+            {
+              "name": "Torre de Sant Vicent",
+              "tip_5lang": {
+                "de": "Historischer Wachturm gegen Piraten.",
+                "hu": "Történelmi őrtorony a kalózok ellen.",
+                "ro": "Turn de pază istoric împotriva piraților.",
+                "en": "Historic watchtower against pirates."
+              }
+            },
+            {
+              "name": "Ruta de las Villas",
+              "tip_5lang": {
+                "de": "Radfahren entlang der Belle Époque Villen.",
+                "hu": "Bringázás a Belle Époque villák mentén.",
+                "ro": "Ciclism de-a lungul vilelor Belle Époque.",
+                "en": "Cycling along the Belle Époque villas."
+              }
+            },
+            {
+              "name": "Bodegas Carmelitano",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Destillerie der Mönche.",
+                "hu": "Látogasd meg a szerzetesek lepárlóját.",
+                "ro": "Vizitați distileria călugărilor.",
+                "en": "Visit the monks' distillery."
+              }
+            },
+            {
+              "name": "Iglesia de Santo Tomás de Villanueva",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort im Stadtzentrum.",
+                "hu": "Egy csendes pont a városközpontban.",
+                "ro": "Un loc liniștit în centrul orașului.",
+                "en": "A quiet spot in the city center."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Fideuà",
+                "tip": "Nudel-Paella mit Meeresfrüchten."
+              },
+              {
+                "name": "Horchata",
+                "tip": "Erfrischendes Erdmandelgetränk am Strand."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Fideuà",
+                "tip": "Tészta-paella tenger gyümölcseivel."
+              },
+              {
+                "name": "Horchata",
+                "tip": "Frissítő mandulatej-szerű ital a parton."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Fideuà",
+                "tip": "Paella cu tăieței și fructe de mare."
+              },
+              {
+                "name": "Horchata",
+                "tip": "Băutură răcoritoare de migdale pe plajă."
+              }
+            ],
+            "en": [
+              {
+                "name": "Fideuà",
+                "tip": "Pasta paella with seafood."
+              },
+              {
+                "name": "Horchata",
+                "tip": "Refreshing tiger nut milk drink at the beach."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Torre Colomera",
+                "tip": "Ruhiger Aussichtspunkt an der Via Verde.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Torre Colomera",
+                "tip": "Csendes kilátópont a Via Verde mentén.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Torre Colomera",
+                "tip": "Punct de belvedere liniștit pe Via Verde.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Torre Colomera",
+                "tip": "Quiet viewpoint along the Via Verde.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Wochenmarkt Benicàssim",
+                "tip": "Frisches Obst und lokale Produkte."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Benicàssim heti piac",
+                "tip": "Friss gyümölcsök és helyi termékek."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Piața săptămânală",
+                "tip": "Fructe proaspete și produse locale."
+              }
+            ],
+            "en": [
+              {
+                "name": "Benicàssim Weekly Market",
+                "tip": "Fresh fruit and local products."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Die Via Verde hat einige Tunnel, Licht am Rad ist gut.",
+              "In der Hochsaison ist die Promenade für Räder eingeschränkt.",
+              "Parken Sie Ihr Rad immer sicher an den vorgesehenen Plätzen."
+            ],
+            "hu": [
+              "A Via Verde alagutakat is tartalmaz, lámpa hasznos.",
+              "Főszezonban a sétányon korlátozott a kerékpározás.",
+              "Mindig biztonságos helyen parkold le a bringát."
+            ],
+            "ro": [
+              "Via Verde are câteva tuneluri, lumina la bicicletă e utilă.",
+              "În sezonul de vârf, promenada este restricționată pentru biciclete.",
+              "Parcați întotdeauna bicicleta în locuri sigure."
+            ],
+            "en": [
+              "The Via Verde has some tunnels, bike lights are useful.",
+              "In high season, cycling on the promenade is restricted.",
+              "Always park your bike securely in designated areas."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie vorsichtig auf der Via Verde; der Küstenweg kann bei Nässe rutschig sein. Mittags bietet der Torre de Sant Vicent einen kurzen Schutz vor den schlimmsten Güssen.  Am Nachmittag radeln Sie durch die Villen-Route, wo die dichte Vegetation der Gärten etwas Schutz bietet. Besuchen Sie die Bodegas Carmelitano für eine wohlverdiente Pause im Trockenen.  Beenden Sie Ihre Tour an der Kirche Santo Tomás, während der Regen langsam nachlässt.",
+            "hu": "Kezdje óvatosan a Via Verdén; a tengerparti út vizesen csúszós lehet. Délben a Torre de Sant Vicent tövében keressen rövid menedéket a záporok elől.  Délután tekerjen végig a villák útján, ahol a kertek sűrű növényzete némi védelmet nyújt. Látogasson el a Bodegas Carmelitano pincébe egy jól megérdemelt száraz pihenőre.  Zárja a túrát a Santo Tomás templomnál, ahogy az eső lassan csendesedni kezd.",
+            "ro": "Începeți cu prudență pe Via Verde; drumul de coastă poate fi alunecos când e ud. La prânz, Torre de Sant Vicent oferă un scurt adăpost împotriva ploii.  După-amiază, pedalați pe ruta vilelor, unde vegetația densă a grădinilor oferă o mică protecție. Vizitați Bodegas Carmelitano pentru o pauză binemeritată la uscat.  Încheiați turul la biserica Santo Tomás, în timp ce ploaia începe să se potolească lent.",
+            "en": "Start cautiously on the Via Verde; the coastal path can be slippery when wet. At noon, use the Torre de Sant Vicent area as a brief shelter from the showers.  In the afternoon, cycle through the Route of the Villas, where dense garden foliage provides some cover. Visit Bodegas Carmelitano for a well-deserved dry break.  Finish your tour at the Santo Tomás Church as the rain begins to slowly subside."
+          },
+          "stops": [
+            {
+              "name": "Via Verde del Mar",
+              "tip_4lang": {
+                "de": "Vorsicht in den Tunneln; der Boden kann dort länger nass und rutschig bleiben.",
+                "hu": "Vigyázzon az alagutakban; a talaj ott tovább maradhat vizes és csúszós.",
+                "ro": "Atenție în tuneluri; solul poate rămâne ud și alunecos mai mult timp.",
+                "en": "Be careful in tunnels; the ground can remain wet and slippery longer there."
+              }
+            },
+            {
+              "name": "Torre de Sant Vicent",
+              "tip_4lang": {
+                "de": "Parken Sie Ihr Rad nah am Turm, um es vor direktem Schlagregen zu schützen.",
+                "hu": "Parkoljon közel a toronyhoz, hogy védje kerékpárját a közvetlen esőtől.",
+                "ro": "Parcați bicicleta aproape de turn pentru a o proteja de ploaia directă.",
+                "en": "Park your bike close to the tower to shield it from direct driving rain."
+              }
+            },
+            {
+              "name": "Ruta de las Villas",
+              "tip_4lang": {
+                "de": "Vermeiden Sie scharfes Bremsen auf den nassen Pflastersteinen der Promenade.",
+                "hu": "Kerülje az erős fékezést a sétány nedves térkövein.",
+                "ro": "Evitați frânarea bruscă pe pavajul umed de pe faleză.",
+                "en": "Avoid sharp braking on the wet paving stones of the promenade."
+              }
+            },
+            {
+              "name": "Bodegas Carmelitano",
+              "tip_4lang": {
+                "de": "Ein idealer Ort, um die Ausrüstung zu trocknen und sich aufzuwärmen.",
+                "hu": "Ideális hely a felszerelés megszárítására és a felmelegedésre.",
+                "ro": "Un loc ideal pentru a vă usca echipamentul și a vă încălzi.",
+                "en": "An ideal place to dry your gear and warm up during the tour."
+              }
+            },
+            {
+              "name": "Iglesia de Santo Tomás de Villanueva",
+              "tip_4lang": {
+                "de": "Der Vorplatz bietet Platz zum sicheren Abstellen der Räder im Regen.",
+                "hu": "A templom előtti tér lehetőséget ad a biciklik biztonságos leállítására.",
+                "ro": "Piațeta din față oferă spațiu pentru parcarea bicicletelor în siguranță.",
+                "en": "The front plaza offers space to safely park bikes during the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine wasserdichte Regenhose und Schuhüberzieher.",
+              "Reduzieren Sie den Reifendruck leicht für besseren Grip auf nasser Fahrbahn.",
+              "Achten Sie auf Pfützen, die tiefe Schlaglöcher auf der Via Verde verbergen könnten.",
+              "Wischen Sie die Bremsflanken regelmäßig trocken für volle Bremsleistung."
+            ],
+            "hu": [
+              "Viseljen vízálló nadrágot és cipővédőt a túra során.",
+              "Csökkentse kicsit a guminyomást a jobb tapadás érdekében a nedves úton.",
+              "Vigyázzon a tócsákkal, amik mély gödröket rejthetnek a Via Verdén.",
+              "Rendszeresen törölje szárazra a felniket a teljes fékhatás érdekében."
+            ],
+            "ro": [
+              "Purtați pantaloni impermeabili și protecții pentru încălțăminte.",
+              "Reduceți ușor presiunea în pneuri pentru o aderență mai bună pe carosabil ud.",
+              "Atenție la bălțile care pot ascunde gropi adânci pe Via Verde.",
+              "Ștergeți periodic jantele pentru a asigura o frânare eficientă."
+            ],
+            "en": [
+              "Wear waterproof trousers and shoe covers for the duration of the trip.",
+              "Slightly reduce tire pressure for better grip on wet surfaces.",
+              "Watch out for puddles that might hide deep potholes on the Via Verde.",
+              "Periodically wipe your brake rims to ensure full stopping power."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie die frische Meeresbrise auf der Via Verde am Morgen; die Luft ist kristallklar. Mittags erreichen Sie den Torre de Sant Vicent, wo die Sonne den alten Stein wärmt.  Am Nachmittag radeln Sie entspannt an den prachtvollen Villen vorbei. Ein Besuch der Bodegas Carmelitano bietet eine willkommene Aufwärmpause mit einer Kostprobe der Klosterspezialitäten.  Beenden Sie den Tag an der Kirche Santo Tomás, bevor die Abendkälte einsetzt und die Lichter der Stadt angehen.",
+            "hu": "Élvezze a friss tengeri szellőt a Via Verdén reggel; a levegő ilyenkor kristálytiszta. Délben érje el a Torre de Sant Vicentet, ahol a nap melegíti a régi köveket.  Délután tekerjen el a pompás villák mellett. A Bodegas Carmelitano látogatása kellemes pihenőt nyújt, ahol megkóstolhatja a kolostori különlegességeket.  Zárja a napot a Santo Tomás templomnál, mielőtt beállna az esti hideg és kigyúlnának a város fényei.",
+            "ro": "Bucurați-vă de briza proaspătă a mării pe Via Verde dimineața; aerul este cristalinit. La prânz ajungeți la Torre de Sant Vicent, unde soarele încălzește piatra veche.  După-amiază, pedalați relaxat pe lângă vilele somptuoase. O vizită la Bodegas Carmelitano oferă o pauză de încălzire cu o degustare de specialități monahale.  Încheiați ziua la biserica Santo Tomás, înainte ca frigul serii să se instaleze și luminile orașului să se aprindă.",
+            "en": "Enjoy the fresh sea breeze on the Via Verde in the morning; the air is crystal clear. At noon, reach the Torre de Sant Vicent, where the sun warms the ancient stones.  In the afternoon, cycle casually past the magnificent villas. A visit to Bodegas Carmelitano provides a welcome warming break to taste the local monastic specialties.  Finish the day at the Santo Tomás Church before the evening chill sets in and the town lights flicker on."
+          },
+          "stops": [
+            {
+              "name": "Via Verde del Mar",
+              "tip_4lang": {
+                "de": "Tragen Sie Handschuhe; der Fahrtwind am Meer kann im Winter sehr schneidend sein.",
+                "hu": "Viseljen kesztyűt; a tengerparti menetszél télen nagyon metsző lehet.",
+                "ro": "Purtați mănuși; vântul din timpul mersului pe malul mării poate fi tăios.",
+                "en": "Wear gloves; the sea breeze while cycling can be very biting in winter."
+              }
+            },
+            {
+              "name": "Torre de Sant Vicent",
+              "tip_4lang": {
+                "de": "Ein geschützter Ort in der Sonne für eine kurze Rast.",
+                "hu": "Szélvédett, napos hely egy rövid pihenőhöz.",
+                "ro": "Un loc ferit de vânt și însorit pentru un scurt popas.",
+                "en": "A sheltered, sunny spot for a quick rest during your ride."
+              }
+            },
+            {
+              "name": "Ruta de las Villas",
+              "tip_4lang": {
+                "de": "Die tiefstehende Sonne kann blenden; eine Sonnenbrille ist auch im Winter nötig.",
+                "hu": "Az alacsonyan járó nap vakíthat; napszemüveg télen is szükséges.",
+                "ro": "Soarele jos poate fi orbitor; ochelarii de soare sunt necesari și iarna.",
+                "en": "The low winter sun can be blinding; sunglasses are necessary even now."
+              }
+            },
+            {
+              "name": "Bodegas Carmelitano",
+              "tip_4lang": {
+                "de": "Probieren Sie den warmen Kräuterlikör zur inneren Erwärmung.",
+                "hu": "Kóstolja meg a gyógynövénylikőrt a belső felmelegedéshez.",
+                "ro": "Gustați lichiorul de ierburi pentru a vă încălzi la interior.",
+                "en": "Try the herbal liqueur for a nice internal warming effect."
+              }
+            },
+            {
+              "name": "Iglesia de Santo Tomás de Villanueva",
+              "tip_4lang": {
+                "de": "Die Abendruhe hier ist im Winter besonders besinnlich.",
+                "hu": "Az esti csend itt télen különösen meghitt és megnyugtató.",
+                "ro": "Liniștea serii aici este deosebit de contemplativă iarna.",
+                "en": "The evening peace here is particularly contemplative during winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Fahrradbeleuchtung für den frühen Sonnenuntergang.",
+              "Winddichte Kleidung ist wichtiger als dicke Isolierung.",
+              "Nehmen Sie eine Thermoskanne mit einem heißen Getränk mit.",
+              "Vermeiden Sie lange Standzeiten im Schatten, um nicht auszukühlen."
+            ],
+            "hu": [
+              "Ellenőrizze a kerékpár világítását a korai sötétedés miatt.",
+              "A szélálló ruházat fontosabb, mint a vastag hőszigetelés.",
+              "Vigyen magával termoszt forró itallal a túrára.",
+              "Kerülje a hosszú várakozást az árnyékban, hogy ne fázzon meg."
+            ],
+            "ro": [
+              "Verificați sistemul de iluminare al bicicletei pentru apusul devreme.",
+              "Îmbrăcămintea rezistentă la vânt e mai importantă decât izolarea groasă.",
+              "Luați un termos cu o băutură caldă pentru traseu.",
+              "Evitați perioadele lungi de staționare la umbră pentru a nu vă răci."
+            ],
+            "en": [
+              "Check your bike lights as it gets dark much earlier in winter.",
+              "Windproof clothing is more important than thick insulation layers.",
+              "Carry a thermos with a hot drink for your cycling breaks.",
+              "Avoid long periods of standing in the shade to prevent catching a chill."
+            ]
+          }
+        }
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 28.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Desert de les Palmes",
+          "coords": [
+            0.02,
+            40.09
+          ],
+          "category": "natural features",
+          "arrive_at": "09:25",
+          "stay_min": 120,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 7.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie das alte Klosterruine.",
+            "hu": "Látogasd meg a régi kolostorromokat.",
+            "ro": "Vizitați ruinele vechii mănăstiri.",
+            "en": "Visit the old monastery ruins."
+          }
+        },
+        {
+          "name": "Centro de Interpretación La Bartola",
+          "coords": [
+            0.015,
+            40.085
+          ],
+          "category": "museums",
+          "arrive_at": "11:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über Flora und Fauna.",
+            "hu": "Tudj meg többet a helyi flóráról és faunáról.",
+            "ro": "Aflați mai multe despre floră și faună.",
+            "en": "Learn more about the flora and fauna."
+          }
+        },
+        {
+          "name": "Castillo de Montornés",
+          "coords": [
+            0.035,
+            40.075
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Kurze Wanderung zur maurischen Festung.",
+            "hu": "Rövid túra a mór erődítményhez.",
+            "ro": "Scurtă drumeție către fortăreața maură.",
+            "en": "Short hike to the Moorish fortress."
+          }
+        },
+        {
+          "name": "Ermita de la Magdalena",
+          "coords": [
+            -0.018,
+            40.015
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 11.0,
+          "tip_5lang": {
+            "de": "Ursprung der Stadt Castellón.",
+            "hu": "Castellón városának eredeti helyszíne.",
+            "ro": "Originea orașului Castellón.",
+            "en": "The origin of the city of Castellón."
+          }
+        },
+        {
+          "name": "Torre de Sant Vicent",
+          "coords": [
+            0.0784,
+            40.0465
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "16:05",
+          "stay_min": 30,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Abschluss am Meer in Benicàssim.",
+            "hu": "Zárás a tengerparton Benicàssimban.",
+            "ro": "Final la malul mării în Benicàssim.",
+            "en": "Finish by the sea in Benicàssim."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Route führt Sie hoch in die Berge des Desert de les Palmes Nationalparks. Genießen Sie atemberaubende Ausblicke von den Klosterruinen und wandern Sie zum Castillo de Montornés. Am Nachmittag besuchen Sie die geschichtsträchtige Ermita de la Magdalena, bevor Sie zurück an die Küste von Benicàssim kehren.",
+        "hu": "Ez az útvonal a Desert de les Palmes Nemzeti Park hegyei közé repít. Élvezd a lélegzetelállító kilátást a kolostorromoktól, és túrázz el a Castillo de Montornés-hez. Délután látogasd meg a történelmi Ermita de la Magdalena-t, mielőtt visszatérnél Benicàssim partjaihoz.",
+        "ro": "Acest traseu vă duce sus în munții parcului național Desert de les Palmes. Bucurați-vă de priveliști uluitoare de la ruinele mănăstirii și mergeți spre Castillo de Montornés. După-amiaza, vizitați istorica Ermita de la Magdalena, înainte de a reveni pe coasta Benicàssim.",
+        "en": "This route takes you high into the mountains of the Desert de les Palmes National Park. Enjoy breathtaking views from the monastery ruins and hike to the Castillo de Montornés. In the afternoon, visit the historic Ermita de la Magdalena before returning to the Benicàssim coast."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Arroz al Horno",
+            "tip": "Ein traditionelles Ofengericht."
+          },
+          {
+            "name": "Coca de Tomate",
+            "tip": "Hiesiger herzhafter Gebäcksnack."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Arroz al Horno",
+            "tip": "Hagyományos kemencés rizsétel."
+          },
+          {
+            "name": "Coca de Tomate",
+            "tip": "Helyi sós paradicsomos lepény."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Arroz al Horno",
+            "tip": "O mâncare tradițională la cuptor."
+          },
+          {
+            "name": "Coca de Tomate",
+            "tip": "Gustare locală cu roșii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Arroz al Horno",
+            "tip": "A traditional baked rice dish."
+          },
+          {
+            "name": "Coca de Tomate",
+            "tip": "Local savory tomato pastry snack."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Mirador del Desert",
+            "tip": "Panoramablick über die gesamte Bucht.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mirador del Desert",
+            "tip": "Panorámás kilátás az egész öbölre.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mirador del Desert",
+            "tip": "Vedere panoramică asupra întregului golf.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Mirador del Desert",
+            "tip": "Panoramic view over the entire bay.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Honig vom Desert",
+            "tip": "Naturrein vom Nationalpark."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Desert-i méz",
+            "tip": "Természetes méz a nemzeti parkból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miere din Desert",
+            "tip": "Miere naturală din parcul național."
+          }
+        ],
+        "en": [
+          {
+            "name": "Desert Honey",
+            "tip": "Pure honey from the national park."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Bergstraßen sind kurvenreich, fahren Sie vorsichtig.",
+          "Einige Wanderwege zum Schloss sind steinig.",
+          "Nehmen Sie genug Wasser für die Wanderungen mit."
+        ],
+        "hu": [
+          "A hegyi utak kanyargósak, vezess óvatosan.",
+          "A várhoz vezető ösvények kövesek lehetnek.",
+          "Vigyél magaddal elég vizet a túrákhoz."
+        ],
+        "ro": [
+          "Drumurile montane sunt sinuoase, conduceți cu atenție.",
+          "Unele poteci spre castel sunt pietroase.",
+          "Luați suficientă apă pentru drumeții."
+        ],
+        "en": [
+          "The mountain roads are winding, drive carefully.",
+          "Some paths to the castle are rocky.",
+          "Take enough water for the hikes."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Diese Route führt Sie hoch in die Berge des Desert de les Palmes Nationalparks. Genießen Sie atemberaubende Ausblicke von den Klosterruinen und wandern Sie zum Castillo de Montornés. Am Nachmittag besuchen Sie die geschichtsträchtige Ermita de la Magdalena, bevor Sie zurück an die Küste von Benicàssim kehren.",
+            "hu": "Ez az útvonal a Desert de les Palmes Nemzeti Park hegyei közé repít. Élvezd a lélegzetelállító kilátást a kolostorromoktól, és túrázz el a Castillo de Montornés-hez. Délután látogasd meg a történelmi Ermita de la Magdalena-t, mielőtt visszatérnél Benicàssim partjaihoz.",
+            "ro": "Acest traseu vă duce sus în munții parcului național Desert de les Palmes. Bucurați-vă de priveliști uluitoare de la ruinele mănăstirii și mergeți spre Castillo de Montornés. După-amiaza, vizitați istorica Ermita de la Magdalena, înainte de a reveni pe coasta Benicàssim.",
+            "en": "This route takes you high into the mountains of the Desert de les Palmes National Park. Enjoy breathtaking views from the monastery ruins and hike to the Castillo de Montornés. In the afternoon, visit the historic Ermita de la Magdalena before returning to the Benicàssim coast."
+          },
+          "stops": [
+            {
+              "name": "Desert de les Palmes",
+              "tip_5lang": {
+                "de": "Besuchen Sie das alte Klosterruine.",
+                "hu": "Látogasd meg a régi kolostorromokat.",
+                "ro": "Vizitați ruinele vechii mănăstiri.",
+                "en": "Visit the old monastery ruins."
+              }
+            },
+            {
+              "name": "Centro de Interpretación La Bartola",
+              "tip_5lang": {
+                "de": "Erfahren Sie mehr über Flora und Fauna.",
+                "hu": "Tudj meg többet a helyi flóráról és faunáról.",
+                "ro": "Aflați mai multe despre floră și faună.",
+                "en": "Learn more about the flora and fauna."
+              }
+            },
+            {
+              "name": "Castillo de Montornés",
+              "tip_5lang": {
+                "de": "Kurze Wanderung zur maurischen Festung.",
+                "hu": "Rövid túra a mór erődítményhez.",
+                "ro": "Scurtă drumeție către fortăreața maură.",
+                "en": "Short hike to the Moorish fortress."
+              }
+            },
+            {
+              "name": "Ermita de la Magdalena",
+              "tip_5lang": {
+                "de": "Ursprung der Stadt Castellón.",
+                "hu": "Castellón városának eredeti helyszíne.",
+                "ro": "Originea orașului Castellón.",
+                "en": "The origin of the city of Castellón."
+              }
+            },
+            {
+              "name": "Torre de Sant Vicent",
+              "tip_5lang": {
+                "de": "Abschluss am Meer in Benicàssim.",
+                "hu": "Zárás a tengerparton Benicàssimban.",
+                "ro": "Final la malul mării în Benicàssim.",
+                "en": "Finish by the sea in Benicàssim."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Arroz al Horno",
+                "tip": "Ein traditionelles Ofengericht."
+              },
+              {
+                "name": "Coca de Tomate",
+                "tip": "Hiesiger herzhafter Gebäcksnack."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Arroz al Horno",
+                "tip": "Hagyományos kemencés rizsétel."
+              },
+              {
+                "name": "Coca de Tomate",
+                "tip": "Helyi sós paradicsomos lepény."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Arroz al Horno",
+                "tip": "O mâncare tradițională la cuptor."
+              },
+              {
+                "name": "Coca de Tomate",
+                "tip": "Gustare locală cu roșii."
+              }
+            ],
+            "en": [
+              {
+                "name": "Arroz al Horno",
+                "tip": "A traditional baked rice dish."
+              },
+              {
+                "name": "Coca de Tomate",
+                "tip": "Local savory tomato pastry snack."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Mirador del Desert",
+                "tip": "Panoramablick über die gesamte Bucht.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Mirador del Desert",
+                "tip": "Panorámás kilátás az egész öbölre.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Mirador del Desert",
+                "tip": "Vedere panoramică asupra întregului golf.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Mirador del Desert",
+                "tip": "Panoramic view over the entire bay.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Honig vom Desert",
+                "tip": "Naturrein vom Nationalpark."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Desert-i méz",
+                "tip": "Természetes méz a nemzeti parkból."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Miere din Desert",
+                "tip": "Miere naturală din parcul național."
+              }
+            ],
+            "en": [
+              {
+                "name": "Desert Honey",
+                "tip": "Pure honey from the national park."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Die Bergstraßen sind kurvenreich, fahren Sie vorsichtig.",
+              "Einige Wanderwege zum Schloss sind steinig.",
+              "Nehmen Sie genug Wasser für die Wanderungen mit."
+            ],
+            "hu": [
+              "A hegyi utak kanyargósak, vezess óvatosan.",
+              "A várhoz vezető ösvények kövesek lehetnek.",
+              "Vigyél magaddal elég vizet a túrákhoz."
+            ],
+            "ro": [
+              "Drumurile montane sunt sinuoase, conduceți cu atenție.",
+              "Unele poteci spre castel sunt pietroase.",
+              "Luați suficientă apă pentru drumeții."
+            ],
+            "en": [
+              "The mountain roads are winding, drive carefully.",
+              "Some paths to the castle are rocky.",
+              "Take enough water for the hikes."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Fahren Sie vorsichtig in den Desert de les Palmes; die Bergstraßen können bei Regen rutschig sein. Mittags bietet das Interpretationszentrum La Bartola eine informative Pause im Trockenen.  Am Nachmittag besuchen Sie das Castillo de Montornés, wobei Sie die mystische Nebelatmosphäre über den Ruinen genießen. Die Ermita de la Magdalena bietet einen weiten Blick auf die graue Küste.  Beenden Sie den Tag am Torre de Sant Vicent, während die Wellen gegen die Küstenmauer schlagen.",
+            "hu": "Vezessen óvatosan a Desert de les Palmes hegységben; az utak esőben csúszósak lehetnek. Délben a La Bartola látogatóközpont informatív pihenőt kínál fedett helyen.  Délután látogassa meg a Castillo de Montornés romjait, élvezve a romok feletti misztikus ködöt. Az Ermita de la Magdalena pontról nézzen le a szürke tengerpartra.  Zárja a napot a Torre de Sant Vicentnél, ahogy a hullámok a partfalat verik.",
+            "ro": "Conduceți cu atenție în Desert de les Palmes; drumurile montane pot fi alunecoase pe ploaie. La prânz, centrul La Bartola oferă o pauză informativă la adăpost.  După-amiază, vizitați Castillo de Montornés, bucurându-vă de atmosfera mistică de ceață peste ruine. Ermita de la Magdalena oferă o priveliște amplă asupra coastei gri.  Încheiați ziua la Torre de Sant Vicent, în timp ce valurile se izbesc de zidul de protecție.",
+            "en": "Drive carefully in the Desert de les Palmes; mountain roads can be slick during rain. At noon, the La Bartola Interpretation Center offers an informative break in the dry.  In the afternoon, visit the ruins of Castillo de Montornés, enjoying the mystical mist over the site. The Ermita de la Magdalena provides a wide view of the grey coast.  Finish your day at the Torre de Sant Vicent while the waves crash against the coastal walls."
+          },
+          "stops": [
+            {
+              "name": "Desert de les Palmes",
+              "tip_4lang": {
+                "de": "Achten Sie auf Steinschlag nach starken Regenfällen in den Kurven.",
+                "hu": "Vigyázzon a kanyarokban az eső utáni esetleges kőomlásokra.",
+                "ro": "Atenție la căderile de pietre în curbe după ploi torențiale.",
+                "en": "Watch out for rockfalls in the bends after heavy rainfall."
+              }
+            },
+            {
+              "name": "Centro de Interpretación La Bartola",
+              "tip_4lang": {
+                "de": "Perfekter Ort, um mehr über die lokale Flora zu lernen, während es draußen regnet.",
+                "hu": "Tökéletes hely a helyi flóra megismerésére, amíg kint esik.",
+                "ro": "Locul perfect pentru a învăța despre flora locală în timp ce afară plouă.",
+                "en": "The perfect spot to learn about local flora while it rains outside."
+              }
+            },
+            {
+              "name": "Castillo de Montornés",
+              "tip_4lang": {
+                "de": "Der Pfad zu den Ruinen kann matschig sein; parken Sie sicher am Straßenrand.",
+                "hu": "A romokhoz vezető ösvény saras lehet; parkoljon biztonságosan az út szélén.",
+                "ro": "Poteca spre ruine poate fi noroioasă; parcați în siguranță pe marginea drumului.",
+                "en": "The path to the ruins can be muddy; park safely on the roadside."
+              }
+            },
+            {
+              "name": "Ermita de la Magdalena",
+              "tip_4lang": {
+                "de": "Die Sicht kann durch tiefhängende Wolken eingeschränkt sein; fahren Sie langsam.",
+                "hu": "A kilátást korlátozhatják az alacsony felhők; vezessen lassan a szerpentinen.",
+                "ro": "Vizibilitatea poate fi redusă de nori; conduceți încet pe serpentine.",
+                "en": "Visibility may be limited by low clouds; drive slowly on the winding roads."
+              }
+            },
+            {
+              "name": "Torre de Sant Vicent",
+              "tip_4lang": {
+                "de": "Parken Sie im nahen Parkhaus, um trockenen Fußes zur Küste zu gelangen.",
+                "hu": "Parkoljon a közeli parkolóházban, hogy száraz lábbal érje el a partot.",
+                "ro": "Parcați în parcarea acoperită din apropiere pentru a ajunge uscat la țărm.",
+                "en": "Park in the nearby parking garage to reach the coast without getting wet."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Scheibenwischer vor der Fahrt in die Berge.",
+              "Vermeiden Sie bei starkem Wind das Parken unter großen Palmen.",
+              "Die Berggipfel können oft in Wolken gehüllt sein; Nebelscheinwerfer nutzen.",
+              "In den Bodegas gibt es oft überdachte Parkplätze für Besucher."
+            ],
+            "hu": [
+              "Ellenőrizze az ablaktörlőket a hegyi menet előtt.",
+              "Erős szélben kerülje a nagy pálmák alatti parkolást.",
+              "A hegycsúcsok gyakran felhőbe burkolózhatnak; használjon ködlámpát.",
+              "A borászatnál gyakran vannak fedett parkolóhelyek a látogatóknak."
+            ],
+            "ro": [
+              "Verificați ștergătoarele înainte de a pleca spre munte.",
+              "Evitați parcarea sub palmieri mari în caz de vânt puternic.",
+              "Vârfurile munților pot fi în nori; folosiți luminile de ceață.",
+              "La crame există adesea locuri de parcare acoperite pentru vizitatori."
+            ],
+            "en": [
+              "Check your wipers before heading into the mountains.",
+              "Avoid parking under large palm trees during high winds.",
+              "Mountain peaks can often be shrouded in clouds; use fog lights.",
+              "The wineries often provide covered parking spaces for visitors."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie den Tag mit einer Panoramafahrt durch den klaren Desert de les Palmes am Morgen. Das Licht im Winter ist ideal für weite Ausblicke vom Interpretationszentrum La Bartola.  Am Nachmittag erkunden Sie die Burgruine Montornés bei angenehm kühlen Temperaturen. Die Ermita de la Magdalena bietet den perfekten Platz für den frühen Sonnenuntergang über Castellón.  Beenden Sie die Tour am Torre de Sant Vicent, wo die abendliche Hafenbeleuchtung für eine romantische Stimmung sorgt.",
+            "hu": "Kezdje a napot egy panorámaautózással a kristálytiszta Desert de les Palmes hegységben. A téli fények ideálisak a La Bartola központból nyíló kilátáshoz.  Délután fedezze fel a Montornés várromokat a kellemesen hűvös időben. Az Ermita de la Magdalena tökéletes helyszín a Castellón feletti korai naplemente megtekintéséhez.  Zárja a túrát a Torre de Sant Vicentnél, ahol az esti kikötői fények romantikus hangulatot árasztanak.",
+            "ro": "Începeți ziua cu o plimbare panoramică prin Desert de les Palmes. Lumina de iarnă este ideală pentru priveliștile largi de la centrul La Bartola.  După-amiază, explorați ruinele castelului Montornés la temperaturi răcoroase plăcute. Ermita de la Magdalena oferă locul perfect pentru apusul devreme peste Castellón.  Încheiați turul la Torre de Sant Vicent, unde luminile portului de seară creează o atmosferă romantică.",
+            "en": "Start your day with a scenic drive through the clear Desert de les Palmes. The winter light is ideal for the vast views from the La Bartola Interpretation Center.  In the afternoon, explore the Montornés castle ruins in the pleasantly cool air. The Ermita de la Magdalena is the perfect spot for the early sunset over Castellón.  Finish your tour at the Torre de Sant Vicent, where the evening harbor lights create a romantic atmosphere."
+          },
+          "stops": [
+            {
+              "name": "Desert de les Palmes",
+              "tip_4lang": {
+                "de": "Die Temperaturen in den Bergen können deutlich niedriger sein als an der Küste.",
+                "hu": "A hegyekben a hőmérséklet jelentősen alacsonyabb lehet, mint a parton.",
+                "ro": "Temperaturile la munte pot fi semnificativ mai mici decât la coastă.",
+                "en": "Temperatures in the mountains can be significantly lower than on the coast."
+              }
+            },
+            {
+              "name": "Centro de Interpretación La Bartola",
+              "tip_4lang": {
+                "de": "Genießen Sie den Panoramablick ohne die sommerliche Hitze und das Flimmern.",
+                "hu": "Élvezze a panorámát a nyári hőség és a levegő vibrálása nélkül.",
+                "ro": "Bucurați-vă de panoramă fără căldura verii și tremurul aerului.",
+                "en": "Enjoy the panoramic view without the summer heat and air shimmer."
+              }
+            },
+            {
+              "name": "Castillo de Montornés",
+              "tip_4lang": {
+                "de": "Die Wanderung zu den Ruinen ist im Winter wesentlich weniger anstrengend.",
+                "hu": "A romokhoz vezető túra télen lényegesen kevésbé megterhelő.",
+                "ro": "Drumeția spre ruine este mult mai puțin obositoare în timpul iernii.",
+                "en": "The hike to the ruins is much less strenuous in the winter air."
+              }
+            },
+            {
+              "name": "Ermita de la Magdalena",
+              "tip_4lang": {
+                "de": "Perfekter Ort, um die Lichter von Castellón nach Sonnenuntergang zu sehen.",
+                "hu": "Tökéletes hely Castellón fényeinek megtekintéséhez naplemente után.",
+                "ro": "Locul perfect pentru a vedea luminile orașului Castellón după apus.",
+                "en": "Perfect spot to watch the lights of Castellón after the early sunset."
+              }
+            },
+            {
+              "name": "Torre de Sant Vicent",
+              "tip_4lang": {
+                "de": "Nutzen Sie den Parkplatz direkt am Strand für einen kurzen Spaziergang.",
+                "hu": "Használja a közvetlen parti parkolót egy rövid, frissítő sétához.",
+                "ro": "Folosiți parcarea de pe plajă pentru o scurtă plimbare revigorantă.",
+                "en": "Use the beachfront parking for a short, refreshing walk by the sea."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie Fahrten in den Bergen nach Einbruch der Dunkelheit (Wildwechsel).",
+              "Prüfen Sie den Reifendruck; Kälte kann diesen beeinflussen.",
+              "Die Bergluft ist im Winter sehr trocken; trinken Sie ausreichend Wasser.",
+              "Viele Bergpässe können im Schatten vereiste Stellen haben."
+            ],
+            "hu": [
+              "Kerülje a hegyi vezetést sötétedés után (vadveszély).",
+              "Ellenőrizze a guminyomást, mert a hideg befolyásolhatja azt.",
+              "A hegyi levegő télen nagyon száraz; igyon elegendő vizet.",
+              "A hegyi utak árnyékos részei jegesek maradhatnak napközben is."
+            ],
+            "ro": [
+              "Evitați condusul la munte după lăsarea întunericului (risc de animale).",
+              "Verificați presiunea în pneuri; frigul o poate influența.",
+              "Aerul montan este foarte uscat iarna; hidratați-vă corespunzător.",
+              "Porțiunile umbrite ale drumurilor montane pot fi înghețate."
+            ],
+            "en": [
+              "Avoid driving in the mountains after dark due to wildlife risks.",
+              "Check your tire pressure as the cold can cause it to drop.",
+              "Mountain air is very dry in winter; stay properly hydrated.",
+              "Shaded sections of mountain roads can remain icy during the day."
+            ]
+          }
+        }
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 8.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Iglesia de Santo Tomás de Villanueva",
+          "coords": [
+            0.0682,
+            40.0541
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Zentraler Treffpunkt der Stadt.",
+            "hu": "A város központi találkozóhelye.",
+            "ro": "Locul central de întâlnire al orașului.",
+            "en": "Central meeting point of the city."
+          }
+        },
+        {
+          "name": "Bodegas Carmelitano",
+          "coords": [
+            0.0705,
+            40.0552
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "10:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Geschichte in Flaschen abgefüllt.",
+            "hu": "Palackba zárt történelem.",
+            "ro": "Istorie îmbuteliată.",
+            "en": "History bottled up."
+          }
+        },
+        {
+          "name": "Ruta de las Villas",
+          "coords": [
+            0.0815,
+            40.0515
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Eleganter Spaziergang am Meer.",
+            "hu": "Elegáns tengerparti séta.",
+            "ro": "O plimbare elegantă la malul mării.",
+            "en": "Elegant walk by the sea."
+          }
+        },
+        {
+          "name": "Torre de Sant Vicent",
+          "coords": [
+            0.0784,
+            40.0465
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Wahrzeichen von Benicàssim.",
+            "hu": "Benicàssim egyik jelképe.",
+            "ro": "Emblema orașului Benicàssim.",
+            "en": "A landmark of Benicàssim."
+          }
+        },
+        {
+          "name": "Playa de Voramar",
+          "coords": [
+            0.0852,
+            40.0528
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:05",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Genießen Sie die Sonne vor der Heimfahrt.",
+            "hu": "Élvezd a napsütést hazatérés előtt.",
+            "ro": "Bucurați-vă de soare înainte de plecare.",
+            "en": "Enjoy the sun before heading home."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie den lokalen Bus, um die Highlights von Benicàssim stressfrei zu erkunden. Vom historischen Zentrum geht es zu den Bodegas und dann direkt an die Küste. Bestaunen Sie die Architektur der Villen und entspannen Sie an der Torre de Sant Vicent, bevor der Bus Sie zum Voramar Strand bringt.",
+        "hu": "Használd a helyi buszjáratokat Benicàssim felfedezéséhez stresszmentesen. A történelmi központból a pincészetekhez, majd egyenesen a partra jutsz. Csodáld meg a villák építészetét és pihenj a Torre de Sant Vicentnél, mielőtt a busz a Voramar strandra vinne.",
+        "ro": "Folosiți autobuzul local pentru a explora atracțiile din Benicàssim fără stres. Din centrul istoric mergi la crame și apoi direct pe coastă. Admirați arhitectura vilelor și relaxați-vă la Torre de Sant Vicent.",
+        "en": "Use the local bus to explore Benicàssim's highlights stress-free. From the historic center, head to the wineries and then straight to the coast. Marvel at the architecture of the villas and relax at the Sant Vicent Tower before the bus takes you to Voramar beach."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Tapas am Markt",
+            "tip": "Frische Produkte direkt probieren."
+          },
+          {
+            "name": "Gelato Artigianale",
+            "tip": "Hauseigenes Eis an der Promenade."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tapas a piacon",
+            "tip": "Friss termékek közvetlen kóstolása."
+          },
+          {
+            "name": "Gelato Artigianale",
+            "tip": "Helyi kézműves fagylalt a sétányon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tapas la piață",
+            "tip": "Gustați produse proaspete direct."
+          },
+          {
+            "name": "Gelato Artigianale",
+            "tip": "Înghețată artizanală pe promenadă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tapas at the Market",
+            "tip": "Taste fresh products directly."
+          },
+          {
+            "name": "Gelato Artigianale",
+            "tip": "Homemade ice cream on the promenade."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Garten der Villa Elisa",
+            "tip": "Ein ruhiger Parkabschnitt.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Villa Elisa kertje",
+            "tip": "Egy csendes parkrész.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Villa Elisa",
+            "tip": "O secțiune de parc liniștită.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Villa Elisa Garden",
+            "tip": "A quiet park section.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirs Sant Vicent",
+            "tip": "Keramik und Postkarten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sant Vicent szuvenír",
+            "tip": "Kerámia és képeslapok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Suveniruri Sant Vicent",
+            "tip": "Ceramică și vederi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sant Vicent Souvenirs",
+            "tip": "Ceramics and postcards."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Fahrplan des 'Circular'-Busses.",
+          "Tickets können meist beim Fahrer gekauft werden.",
+          "Der Bus hält nah an allen wichtigen Sehenswürdigkeiten."
+        ],
+        "hu": [
+          "Ellenőrizd a 'Circular' busz menetrendjét.",
+          "Jegyet általában a sofőrnél tudsz venni.",
+          "A busz közel áll meg minden fő látnivalóhoz."
+        ],
+        "ro": [
+          "Verificați orarul autobuzului 'Circular'.",
+          "Biletele pot fi cumpărate de obicei de la șofer.",
+          "Autobuzul oprește aproape de toate atracțiile principale."
+        ],
+        "en": [
+          "Check the schedule of the 'Circular' bus.",
+          "Tickets can usually be bought from the driver.",
+          "The bus stops close to all major sights."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie den lokalen Bus, um die Highlights von Benicàssim stressfrei zu erkunden. Vom historischen Zentrum geht es zu den Bodegas und dann direkt an die Küste. Bestaunen Sie die Architektur der Villen und entspannen Sie an der Torre de Sant Vicent, bevor der Bus Sie zum Voramar Strand bringt.",
+            "hu": "Használd a helyi buszjáratokat Benicàssim felfedezéséhez stresszmentesen. A történelmi központból a pincészetekhez, majd egyenesen a partra jutsz. Csodáld meg a villák építészetét és pihenj a Torre de Sant Vicentnél, mielőtt a busz a Voramar strandra vinne.",
+            "ro": "Folosiți autobuzul local pentru a explora atracțiile din Benicàssim fără stres. Din centrul istoric mergi la crame și apoi direct pe coastă. Admirați arhitectura vilelor și relaxați-vă la Torre de Sant Vicent.",
+            "en": "Use the local bus to explore Benicàssim's highlights stress-free. From the historic center, head to the wineries and then straight to the coast. Marvel at the architecture of the villas and relax at the Sant Vicent Tower before the bus takes you to Voramar beach."
+          },
+          "stops": [
+            {
+              "name": "Iglesia de Santo Tomás de Villanueva",
+              "tip_5lang": {
+                "de": "Zentraler Treffpunkt der Stadt.",
+                "hu": "A város központi találkozóhelye.",
+                "ro": "Locul central de întâlnire al orașului.",
+                "en": "Central meeting point of the city."
+              }
+            },
+            {
+              "name": "Bodegas Carmelitano",
+              "tip_5lang": {
+                "de": "Geschichte in Flaschen abgefüllt.",
+                "hu": "Palackba zárt történelem.",
+                "ro": "Istorie îmbuteliată.",
+                "en": "History bottled up."
+              }
+            },
+            {
+              "name": "Ruta de las Villas",
+              "tip_5lang": {
+                "de": "Eleganter Spaziergang am Meer.",
+                "hu": "Elegáns tengerparti séta.",
+                "ro": "O plimbare elegantă la malul mării.",
+                "en": "Elegant walk by the sea."
+              }
+            },
+            {
+              "name": "Torre de Sant Vicent",
+              "tip_5lang": {
+                "de": "Wahrzeichen von Benicàssim.",
+                "hu": "Benicàssim egyik jelképe.",
+                "ro": "Emblema orașului Benicàssim.",
+                "en": "A landmark of Benicàssim."
+              }
+            },
+            {
+              "name": "Playa de Voramar",
+              "tip_5lang": {
+                "de": "Genießen Sie die Sonne vor der Heimfahrt.",
+                "hu": "Élvezd a napsütést hazatérés előtt.",
+                "ro": "Bucurați-vă de soare înainte de plecare.",
+                "en": "Enjoy the sun before heading home."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Tapas am Markt",
+                "tip": "Frische Produkte direkt probieren."
+              },
+              {
+                "name": "Gelato Artigianale",
+                "tip": "Hauseigenes Eis an der Promenade."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Tapas a piacon",
+                "tip": "Friss termékek közvetlen kóstolása."
+              },
+              {
+                "name": "Gelato Artigianale",
+                "tip": "Helyi kézműves fagylalt a sétányon."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Tapas la piață",
+                "tip": "Gustați produse proaspete direct."
+              },
+              {
+                "name": "Gelato Artigianale",
+                "tip": "Înghețată artizanală pe promenadă."
+              }
+            ],
+            "en": [
+              {
+                "name": "Tapas at the Market",
+                "tip": "Taste fresh products directly."
+              },
+              {
+                "name": "Gelato Artigianale",
+                "tip": "Homemade ice cream on the promenade."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Garten der Villa Elisa",
+                "tip": "Ein ruhiger Parkabschnitt.",
+                "emoji": "🍃"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Villa Elisa kertje",
+                "tip": "Egy csendes parkrész.",
+                "emoji": "🍃"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Grădina Villa Elisa",
+                "tip": "O secțiune de parc liniștită.",
+                "emoji": "🍃"
+              }
+            ],
+            "en": [
+              {
+                "name": "Villa Elisa Garden",
+                "tip": "A quiet park section.",
+                "emoji": "🍃"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Souvenirs Sant Vicent",
+                "tip": "Keramik und Postkarten."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Sant Vicent szuvenír",
+                "tip": "Kerámia és képeslapok."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Suveniruri Sant Vicent",
+                "tip": "Ceramică și vederi."
+              }
+            ],
+            "en": [
+              {
+                "name": "Sant Vicent Souvenirs",
+                "tip": "Ceramics and postcards."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Prüfen Sie den Fahrplan des 'Circular'-Busses.",
+              "Tickets können meist beim Fahrer gekauft werden.",
+              "Der Bus hält nah an allen wichtigen Sehenswürdigkeiten."
+            ],
+            "hu": [
+              "Ellenőrizd a 'Circular' busz menetrendjét.",
+              "Jegyet általában a sofőrnél tudsz venni.",
+              "A busz közel áll meg minden fő látnivalóhoz."
+            ],
+            "ro": [
+              "Verificați orarul autobuzului 'Circular'.",
+              "Biletele pot fi cumpărate de obicei de la șofer.",
+              "Autobuzul oprește aproape de toate atracțiile principale."
+            ],
+            "en": [
+              "Check the schedule of the 'Circular' bus.",
+              "Tickets can usually be bought from the driver.",
+              "The bus stops close to all major sights."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie den Bus, um trocken zur Kirche Santo Tomás zu gelangen. Mittags bringt Sie der Nahverkehr bequem zu den Bodegas Carmelitano für eine Innenbesichtigung.  Am Nachmittag können Sie die Villen-Route aus dem Fenster des Busses betrachten oder einen kurzen Spaziergang im Regen wagen. Der Torre de Sant Vicent ist gut angebunden.  Beenden Sie den Tag am Playa de Voramar und nutzen Sie die Wartehäuschen als Schutz vor den Schauern.",
+            "hu": "Használja a buszt, hogy szárazon jusson el a Santo Tomás templomhoz. Délben a helyi járat kényelmesen elviszi a Bodegas Carmelitano pincéhez a benti túrára.  Délután a busz ablakából is megcsodálhatja a villák útvonalát, vagy tehet egy rövid sétát az esőben. A Torre de Sant Vicent könnyen elérhető tömegközlekedéssel.  Zárja a napot a Voramar strandon, a buszvárókat használva menedékként a záporok elől.",
+            "ro": "Folosiți autobuzul pentru a ajunge uscat la biserica Santo Tomás. La prânz, transportul local vă duce confortabil la Bodegas Carmelitano pentru turul interior.  După-amiază puteți admira ruta vilelor de pe fereastra autobuzului sau puteți face o scurtă plimbare prin ploaie. Torre de Sant Vicent este bine conectat.  Încheiați ziua la plaja Voramar, folosind stațiile de autobuz ca adăpost împotriva averselor.",
+            "en": "Take the bus to arrive dry at the Santo Tomás Church in the morning. At noon, local transit conveniently drops you near Bodegas Carmelitano for the indoor tour.  In the afternoon, enjoy views of the Villa Route from the bus window or take a short walk in the rain. Torre de Sant Vicent is easily accessible by public transport.  Finish your day at Playa de Voramar, using the bus shelters to stay dry during any showers."
+          },
+          "stops": [
+            {
+              "name": "Iglesia de Santo Tomás de Villanueva",
+              "tip_4lang": {
+                "de": "Die Bushaltestelle befindet sich fast direkt vor dem Kircheneingang.",
+                "hu": "A buszmegálló szinte közvetlenül a templom bejárata előtt található.",
+                "ro": "Stația de autobuz se află aproape direct în fața intrării în biserică.",
+                "en": "The bus stop is located almost directly in front of the church entrance."
+              }
+            },
+            {
+              "name": "Bodegas Carmelitano",
+              "tip_4lang": {
+                "de": "Fragen Sie den Fahrer nach der Haltestelle für die Bodega; sie ist gut ausgeschildert.",
+                "hu": "Kérdezze a sofőrt a borászat megállójáról; jól ki van táblázva.",
+                "ro": "Întrebați șoferul despre stația pentru cramă; este bine semnalizată.",
+                "en": "Ask the driver for the winery stop; it is well-signposted for visitors."
+              }
+            },
+            {
+              "name": "Ruta de las Villas",
+              "tip_4lang": {
+                "de": "Nutzen Sie die Strandbus-Linie, um die gesamte Strecke ohne Regen nass zu sehen.",
+                "hu": "Használja a parti buszjáratot, hogy esőmentesen lássa a teljes útvonalat.",
+                "ro": "Folosiți linia de autobuz de coastă pentru a vedea traseul fără a vă uda.",
+                "en": "Use the coastal bus line to see the entire route without getting wet."
+              }
+            },
+            {
+              "name": "Torre de Sant Vicent",
+              "tip_4lang": {
+                "de": "Die Haltestelle hier ist überdacht und bietet Schutz während der Wartezeit.",
+                "hu": "Az itteni megálló fedett, így védelmet nyújt a várakozás alatt.",
+                "ro": "Stația de aici este acoperită și oferă protecție în timpul așteptării.",
+                "en": "The stop here is sheltered, providing protection while you wait."
+              }
+            },
+            {
+              "name": "Playa de Voramar",
+              "tip_4lang": {
+                "de": "Der Bus verkehrt auch bei Regen regelmäßig; prüfen Sie die App.",
+                "hu": "A busz esőben is menetrend szerint jár; ellenőrizze az alkalmazást.",
+                "ro": "Autobuzul circulă regulat chiar și pe ploaie; verificați aplicația.",
+                "en": "The bus runs regularly even in the rain; check the local transit app."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Halten Sie Kleingeld oder eine Karte bereit, um schnell einzusteigen.",
+              "Die Busse können bei Regen voller sein; planen Sie etwas Pufferzeit ein.",
+              "Nutzen Sie die 'Benicàssim Connecta' App für Echtzeit-Infos.",
+              "Tragen Sie wasserfeste Kleidung für die kurzen Wege zwischen Stopp und Bus."
+            ],
+            "hu": [
+              "Legyen kéznél aprópénz vagy kártya a gyors felszálláshoz.",
+              "Esőben a buszok zsúfoltabbak lehetnek; tervezzen némi pufferidőt.",
+              "Használja a 'Benicàssim Connecta' alkalmazást a valós idejű infókért.",
+              "Viseljen vízálló ruhát a buszmegálló és a látnivalók közötti szakaszokra."
+            ],
+            "ro": [
+              "Aveți pregătit mărunt sau cardul pentru o îmbarcare rapidă.",
+              "Autobuzele pot fi mai aglomerate pe ploaie; planificați timp suplimentar.",
+              "Folosiți aplicația 'Benicàssim Connecta' pentru informații în timp real.",
+              "Purtați haine impermeabile pentru distanțele scurte până la stație."
+            ],
+            "en": [
+              "Have exact change or a card ready for quick boarding in the rain.",
+              "Buses might be more crowded during rain; allow some buffer time.",
+              "Use the 'Benicàssim Connecta' app for real-time transit information.",
+              "Wear waterproof gear for the short walks between stops and the bus."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie den Komfort des beheizten Busses auf dem Weg zur Kirche am Morgen. Mittags ist die Verbindung zur Bodegas Carmelitano ideal für eine entspannte Tour.  Am Nachmittag können Sie die Villen-Route erkunden und den Torre de Sant Vicent besuchen, bevor es dunkel wird. Der Winterfahrplan ist zuverlässig.  Beenden Sie den Tag am Playa de Voramar und nehmen Sie den letzten Bus zurück ins Zentrum, während die Winterabende kühler werden.",
+            "hu": "Élvezze a fűtött busz kényelmét a templom felé vezető úton a reggeli órákban. Délben a Bodegas Carmelitano elérése ideális egy nyugodt túrához.  Délután fedezze fel a villák útvonalát és látogassa meg a Torre de Sant Vicentet sötétedés előtt. A téli menetrend megbízható és pontos.  Zárja a napot a Voramar strandon, majd csípje el az utolsó buszt a központba, ahogy a téli esték hűvösebbé válnak.",
+            "ro": "Bucurați-vă de confortul autobuzului încălzit spre biserică dimineața. La prânz, conexiunea către Bodegas Carmelitano este ideală pentru un tur relaxat.  După-amiază puteți explora ruta vilelor și vizita Torre de Sant Vicent înainte de lăsarea serii. Orarul de iarnă este fiabil și precis.  Încheiați ziua la plaja Voramar și luați ultimul autobuz spre centru, pe măsură ce serile de iarnă devin mai reci.",
+            "en": "Enjoy the comfort of a heated bus on your way to the church in the morning. At noon, the connection to Bodegas Carmelitano is ideal for a relaxed winter tour.  In the afternoon, explore the Villa Route and visit the Torre de Sant Vicent before sunset. The winter bus schedule is reliable and punctual.  Finish your day at Playa de Voramar and catch the last bus back to the center as the winter evening air turns chilly."
+          },
+          "stops": [
+            {
+              "name": "Iglesia de Santo Tomás de Villanueva",
+              "tip_4lang": {
+                "de": "Im Winter ist der Bus oft weniger voll und bietet eine warme Fahrt.",
+                "hu": "Télen a busz gyakran kevésbé zsúfolt, és kellemes meleg utazást kínál.",
+                "ro": "Iarna, autobuzul este adesea mai puțin aglomerat și oferă o călătorie caldă.",
+                "en": "In winter, the bus is often less crowded and provides a warm ride."
+              }
+            },
+            {
+              "name": "Bodegas Carmelitano",
+              "tip_4lang": {
+                "de": "Prüfen Sie die Winter-Öffnungszeiten, da diese von der Saison abweichen können.",
+                "hu": "Ellenőrizze a téli nyitvatartást, mert eltérhet a főszezontól.",
+                "ro": "Verificați programul de iarnă, deoarece poate diferi de cel din sezon.",
+                "en": "Check winter opening hours as they may differ from the high season."
+              }
+            },
+            {
+              "name": "Ruta de las Villas",
+              "tip_4lang": {
+                "de": "Die Haltestellen entlang der Villen-Route bieten tolle Ausblicke beim Warten.",
+                "hu": "A villák útvonala menti megállók szép kilátást nyújtanak várakozás közben.",
+                "ro": "Stațiile de pe ruta vilelor oferă vederi frumoase în timpul așteptării.",
+                "en": "The stops along the Villa Route offer great coastal views while waiting."
+              }
+            },
+            {
+              "name": "Torre de Sant Vicent",
+              "tip_4lang": {
+                "de": "Achten Sie auf den Winterfahrplan für die Rückfahrt am späten Nachmittag.",
+                "hu": "Ügyeljen a téli menetrendre a késő délutáni visszautazáshoz.",
+                "ro": "Atenție la orarul de iarnă pentru călătoria de întoarcere de după-amiază.",
+                "en": "Pay attention to the winter schedule for your late afternoon return trip."
+              }
+            },
+            {
+              "name": "Playa de Voramar",
+              "tip_4lang": {
+                "de": "Die letzte Busfahrt des Tages bietet oft einen schönen Blick auf die Lichter.",
+                "hu": "A nap utolsó buszútja gyakran szép kilátást nyújt a városi fényekre.",
+                "ro": "Ultima cursă de autobuz oferă adesea o vedere frumoasă asupra luminilor.",
+                "en": "The last bus trip of the day often offers a lovely view of the town lights."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Der Winterfahrplan (horario de invierno) hat oft größere Intervalle.",
+              "Die Busse sind im Winter gut beheizt; kleiden Sie sich variabel.",
+              "Beachten Sie, dass einige Express-Linien im Winter nicht verkehren.",
+              "Der frühe Sonnenuntergang macht die Orientierung an Haltestellen schwieriger."
+            ],
+            "hu": [
+              "A téli menetrendben (horario de invierno) ritkábbak lehetnek a járatok.",
+              "A buszok télen jól fűtöttek; öltözködjön rétegesen a kinti hideghez képest.",
+              "Vegyék figyelembe, hogy egyes expressz járatok télen nem közlekednek.",
+              "A korai sötétedés miatt nehezebb lehet a tájékozódás a megállókban."
+            ],
+            "ro": [
+              "Orarul de iarnă (horario de invierno) are adesea intervale mai mari.",
+              "Autobuzele sunt bine încălzite iarna; îmbrăcați-vă în straturi.",
+              "Rețineți că unele linii expres nu circulă în timpul iernii.",
+              "Apusul devreme face ca orientarea în stații să fie mai dificilă."
+            ],
+            "en": [
+              "The winter schedule (horario de invierno) often features longer intervals.",
+              "Buses are well-heated in winter; dress in versatile layers.",
+              "Note that some express beach lines may not operate during winter months.",
+              "Early darkness can make it harder to spot bus stops from a distance."
+            ]
+          }
+        }
+      }
+    }
+  },
+  "external_resources": {
+    "events": "https://www.benicassim.org/agenda",
+    "webcam": "https://www.benicassim.es/webcam",
+    "tourism_office": "https://www.benicassim.org/turismo",
+    "language_tips": {
+      "de": "Spanisch und Valencianisch sind die Amtssprachen, aber dank des FIB-Festivals sprechen viele Servicekraefte gutes Englisch. Ein hoeflich gemurmeltes 'Bon dia' am Morgen wird in den Bars sehr geschaetzt. Mit 'Una canya, per favor' bestellt man sein Bier wie ein Einheimischer.",
+      "hu": "A spanyol mellett a valenciai is hivatalos, de a FIB fesztival miatt sok pincer egesz jol angolul beszel. Egy halk 'Bon dia' reggel kifejezetten szimpatikussa tesz a presszosok szemeben. A korsoot helyiesen igy kered: 'Una canya, per favor'.",
+      "ro": "Pe langa spaniola se vorbeste valenciana, iar din cauza festivalului FIB multi ospatari se descurca binisor in engleza. Un 'Bon dia' soptit dimineata e foarte apreciat la baruri. Pentru o halba zii frumos: 'Una canya, per favor'.",
+      "en": "Spanish and Valencian are co-official, and thanks to the FIB festival many service staff speak decent English. A quiet 'Bon dia' in the morning earns you instant goodwill in beach bars. Order a draft beer like a local with 'Una canya, per favor'."
+    },
+    "best_time_to_visit": {
+      "de": "Juni bis Mitte Juli ist die ideale Mischung aus warmem Meer und ertraeglichen Temperaturen. Mitte Juli explodiert der Ort durch das FIB-Festival, dann sind Hotels Monate im Voraus ausgebucht. September bietet Badewetter ohne den Trubel.",
+      "hu": "Junius es julius kozepe a legjobb, meleg a tenger es a levego is meg elviselheto. Julius kozepen a FIB fesztival miatt felrobban a varos, a szallasokat honapokkal elobb el kell csipni. Szeptemberben meg lehet furodni, de mar tobb a hely is, a csend is.",
+      "ro": "Iunie pana la mijlocul lui iulie e combinatia perfecta de mare calduta si vreme suportabila. La mijlocul lui iulie orasul explodeaza din cauza festivalului FIB, hotelurile fiind rezervate cu luni inainte. Septembrie ofera plaja fara aglomeratie.",
+      "en": "June through mid-July gives you warm sea and bearable air temperatures. Mid-July the town erupts for the FIB festival, with hotels booked months ahead. September still offers swimmable water with far fewer crowds."
+    },
+    "neighborhood_warnings": {
+      "de": "Benicassim ist generell sehr sicher, auch nachts laesst es sich entspannt promenieren. Waehrend der FIB-Festivalwoche steigen Taschendiebstaehle auf dem Campingplatz und am Strandzugang spuerbar an. Wertsachen nie im Auto sichtbar liegen lassen, vor allem nicht am Desert-de-les-Palmes-Parkplatz.",
+      "hu": "Benicassim alapvetoen nagyon biztonsagos, ejszaka is nyugodtan setalhatsz a tengerparton. A FIB fesztival hete alatt viszont megugrik a zsebmetszes a kempingben es a strand bejaratainal. Az autoban semmit ne hagyj kint, foleg a Desert de les Palmes parkoloban.",
+      "ro": "Benicassim e foarte sigur in general, te poti plimba linistit si noaptea pe faleza. In saptamana festivalului FIB cresc semnificativ furturile din buzunare la camping si la intrarile pe plaja. Nu lasa nimic vizibil in masina, mai ales in parcarea de la Desert de les Palmes.",
+      "en": "Benicassim is generally very safe, with relaxed beachfront strolls even at night. During FIB festival week pickpocketing spikes at the campsite and beach access points. Never leave valuables visible in your car, especially at the Desert de les Palmes trailhead."
+    }
+  }
+}

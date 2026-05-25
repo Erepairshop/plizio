@@ -1,0 +1,2315 @@
+{
+  "city_id": "getaria",
+  "anchor": {
+    "name": "Getaria Old Town",
+    "coords": [
+      -2.2042,
+      43.3017
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 3.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Altstadt von Getaria",
+          "coords": [
+            -2.204,
+            43.302
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Achten Sie auf die Steinpflasterung.",
+            "hu": "Figyeljük meg a középkori kőburkolatot.",
+            "ro": "Observați pavajul medieval din piatră.",
+            "en": "Look for the medieval stone paving."
+          }
+        },
+        {
+          "name": "Kirche San Salvador",
+          "coords": [
+            -2.2035,
+            43.3035
+          ],
+          "category": "churches",
+          "arrive_at": "10:05",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Der Boden der Kirche ist schräg gebaut.",
+            "hu": "A templom padlója különlegesen lejt.",
+            "ro": "Podeaua bisericii este construită în pantă.",
+            "en": "The church floor is uniquely sloped."
+          }
+        },
+        {
+          "name": "Hafen von Getaria",
+          "coords": [
+            -2.2025,
+            43.304
+          ],
+          "category": "industrial",
+          "arrive_at": "11:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Hier riecht es nach gegrilltem Fisch.",
+            "hu": "Itt érezni a frissen sült hal illatát.",
+            "ro": "Aici miroase a pește proaspăt la grătar.",
+            "en": "Smell the fresh grilled fish here."
+          }
+        },
+        {
+          "name": "Denkmal für Juan Sebastián Elkano",
+          "coords": [
+            -2.2055,
+            43.3015
+          ],
+          "category": "monuments",
+          "arrive_at": "11:55",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Hommage an den Weltumsegler.",
+            "hu": "Tisztelgés a híres világkörüli hajós előtt.",
+            "ro": "Omagiu adus celebrului navigator.",
+            "en": "Tribute to the famous circumnavigator."
+          }
+        },
+        {
+          "name": "Cristóbal Balenciaga Museum",
+          "coords": [
+            -2.2065,
+            43.3025
+          ],
+          "category": "museums",
+          "arrive_at": "13:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 110,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein Muss für Modebegeisterte.",
+            "hu": "A divat szerelmeseinek kötelező program.",
+            "ro": "Un obiectiv obligatoriu pentru fanii modei.",
+            "en": "A must-visit for fashion lovers."
+          }
+        },
+        {
+          "name": "Palast von Aldamar",
+          "coords": [
+            -2.2068,
+            43.3028
+          ],
+          "category": "residences",
+          "arrive_at": "15:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Ehemalige Sommerresidenz der Königin.",
+            "hu": "A királynő egykori nyári rezidenciája.",
+            "ro": "Fosta reședință de vară a reginei.",
+            "en": "Former summer residence of the queen."
+          }
+        },
+        {
+          "name": "Berg San Anton (Die Maus)",
+          "coords": [
+            -2.2005,
+            43.3075
+          ],
+          "category": "natural",
+          "arrive_at": "16:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Der Aufstieg bietet die beste Aussicht.",
+            "hu": "A feljutás utáni panoráma páratlan.",
+            "ro": "Urcarea oferă cea mai bună panoramă.",
+            "en": "The climb offers the best panoramic view."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens erkunden wir den mittelalterlichen Kern und die schiefe Kirche San Salvador. Mittags spazieren wir am Hafen, wo Elkanos Geist weht. Der Nachmittag gehört der Haute Couture im Balenciaga Museum, bevor wir zum Sonnenuntergang den Berg San Anton erklimmen.",
+        "hu": "A reggelt a középkori óvárosban és a különleges San Salvador templomban töltjük. Délben a kikötőben élvezzük a tengeri levegőt Elkano emlékműve mellett. Délután Balenciaga divatvilágába kalauzolunk, végül naplementekor megmásszuk az 'Egér-hegyet'.",
+        "ro": "Dimineața explorăm centrul medieval și biserica înclinată San Salvador. La prânz ne plimbăm prin portul marcat de istoria lui Elkano. După-amiaza aparține modei la Muzeul Balenciaga, înainte de a urca pe muntele San Anton pentru apus.",
+        "en": "Morning is spent exploring the medieval core and the unique San Salvador church. At noon, we stroll the port near Elkano's monument. The afternoon belongs to haute couture at the Balenciaga Museum, ending with a sunset climb up Mount San Anton."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gegrillter Steinbutt",
+            "tip": "Probieren Sie ihn im Elkano oder Kaia Kaipe."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Grillezett rombuszhal",
+            "tip": "Kóstolja meg az Elkano vagy Kaia Kaipe étteremben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Calcan la grătar",
+            "tip": "Încercați-l la Elkano sau Kaia Kaipe."
+          }
+        ],
+        "en": [
+          {
+            "name": "Grilled Turbot",
+            "tip": "Try it at Elkano or Kaia Kaipe restaurants."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "San Anton Gipfel",
+            "tip": "Ruhiger Blick auf den Ozean.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "San Anton csúcs",
+            "tip": "Csendes kilátás az óceánra.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vârful San Anton",
+            "tip": "Vedere liniștită spre ocean.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "San Anton Summit",
+            "tip": "Quiet ocean views.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Txakoli Wein",
+            "tip": "Lokaler Weißwein aus der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Txakoli bor",
+            "tip": "Helyi savanykás fehérbor."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vin Txakoli",
+            "tip": "Vin alb local din regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Txakoli Wine",
+            "tip": "Local sparkling white wine."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Buchen Sie Restaurants im Voraus.",
+          "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster."
+        ],
+        "hu": [
+          "Foglaljon asztalt előre az éttermekbe.",
+          "Kényelmes cipőt viseljen a macskakövek miatt."
+        ],
+        "ro": [
+          "Rezervați masa în avans la restaurante.",
+          "Purtați încălțăminte comodă pentru pavaj."
+        ],
+        "en": [
+          "Book restaurant tables in advance.",
+          "Wear comfortable shoes for the cobblestones."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Morgens erkunden wir den mittelalterlichen Kern und die schiefe Kirche San Salvador. Mittags spazieren wir am Hafen, wo Elkanos Geist weht. Der Nachmittag gehört der Haute Couture im Balenciaga Museum, bevor wir zum Sonnenuntergang den Berg San Anton erklimmen.",
+            "hu": "A reggelt a középkori óvárosban és a különleges San Salvador templomban töltjük. Délben a kikötőben élvezzük a tengeri levegőt Elkano emlékműve mellett. Délután Balenciaga divatvilágába kalauzolunk, végül naplementekor megmásszuk az 'Egér-hegyet'.",
+            "ro": "Dimineața explorăm centrul medieval și biserica înclinată San Salvador. La prânz ne plimbăm prin portul marcat de istoria lui Elkano. După-amiaza aparține modei la Muzeul Balenciaga, înainte de a urca pe muntele San Anton pentru apus.",
+            "en": "Morning is spent exploring the medieval core and the unique San Salvador church. At noon, we stroll the port near Elkano's monument. The afternoon belongs to haute couture at the Balenciaga Museum, ending with a sunset climb up Mount San Anton."
+          },
+          "stops": [
+            {
+              "name": "Altstadt von Getaria",
+              "tip_5lang": {
+                "de": "Achten Sie auf die Steinpflasterung.",
+                "hu": "Figyeljük meg a középkori kőburkolatot.",
+                "ro": "Observați pavajul medieval din piatră.",
+                "en": "Look for the medieval stone paving."
+              }
+            },
+            {
+              "name": "Kirche San Salvador",
+              "tip_5lang": {
+                "de": "Der Boden der Kirche ist schräg gebaut.",
+                "hu": "A templom padlója különlegesen lejt.",
+                "ro": "Podeaua bisericii este construită în pantă.",
+                "en": "The church floor is uniquely sloped."
+              }
+            },
+            {
+              "name": "Hafen von Getaria",
+              "tip_5lang": {
+                "de": "Hier riecht es nach gegrilltem Fisch.",
+                "hu": "Itt érezni a frissen sült hal illatát.",
+                "ro": "Aici miroase a pește proaspăt la grătar.",
+                "en": "Smell the fresh grilled fish here."
+              }
+            },
+            {
+              "name": "Denkmal für Juan Sebastián Elkano",
+              "tip_5lang": {
+                "de": "Hommage an den Weltumsegler.",
+                "hu": "Tisztelgés a híres világkörüli hajós előtt.",
+                "ro": "Omagiu adus celebrului navigator.",
+                "en": "Tribute to the famous circumnavigator."
+              }
+            },
+            {
+              "name": "Cristóbal Balenciaga Museum",
+              "tip_5lang": {
+                "de": "Ein Muss für Modebegeisterte.",
+                "hu": "A divat szerelmeseinek kötelező program.",
+                "ro": "Un obiectiv obligatoriu pentru fanii modei.",
+                "en": "A must-visit for fashion lovers."
+              }
+            },
+            {
+              "name": "Palast von Aldamar",
+              "tip_5lang": {
+                "de": "Ehemalige Sommerresidenz der Königin.",
+                "hu": "A királynő egykori nyári rezidenciája.",
+                "ro": "Fosta reședință de vară a reginei.",
+                "en": "Former summer residence of the queen."
+              }
+            },
+            {
+              "name": "Berg San Anton (Die Maus)",
+              "tip_5lang": {
+                "de": "Der Aufstieg bietet die beste Aussicht.",
+                "hu": "A feljutás utáni panoráma páratlan.",
+                "ro": "Urcarea oferă cea mai bună panoramă.",
+                "en": "The climb offers the best panoramic view."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Gegrillter Steinbutt",
+                "tip": "Probieren Sie ihn im Elkano oder Kaia Kaipe."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Grillezett rombuszhal",
+                "tip": "Kóstolja meg az Elkano vagy Kaia Kaipe étteremben."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Calcan la grătar",
+                "tip": "Încercați-l la Elkano sau Kaia Kaipe."
+              }
+            ],
+            "en": [
+              {
+                "name": "Grilled Turbot",
+                "tip": "Try it at Elkano or Kaia Kaipe restaurants."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "San Anton Gipfel",
+                "tip": "Ruhiger Blick auf den Ozean.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "San Anton csúcs",
+                "tip": "Csendes kilátás az óceánra.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Vârful San Anton",
+                "tip": "Vedere liniștită spre ocean.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "San Anton Summit",
+                "tip": "Quiet ocean views.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Txakoli Wein",
+                "tip": "Lokaler Weißwein aus der Region."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Txakoli bor",
+                "tip": "Helyi savanykás fehérbor."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Vin Txakoli",
+                "tip": "Vin alb local din regiune."
+              }
+            ],
+            "en": [
+              {
+                "name": "Txakoli Wine",
+                "tip": "Local sparkling white wine."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Buchen Sie Restaurants im Voraus.",
+              "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster."
+            ],
+            "hu": [
+              "Foglaljon asztalt előre az éttermekbe.",
+              "Kényelmes cipőt viseljen a macskakövek miatt."
+            ],
+            "ro": [
+              "Rezervați masa în avans la restaurante.",
+              "Purtați încălțăminte comodă pentru pavaj."
+            ],
+            "en": [
+              "Book restaurant tables in advance.",
+              "Wear comfortable shoes for the cobblestones."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt in den engen, schützenden Gassen der Altstadt. Mittags bietet die Kirche San Salvador einen eindrucksvollen trockenen Zufluchtsort. Nachmittags verbringen wir viel Zeit im großzügigen Balenciaga Museum, weit weg vom Regen. Abends genießen wir den Blick auf das stürmische Meer vom Hafen aus, bevor wir in eine gemütliche Taverne einkehren.",
+            "hu": "A reggel az óváros szűk, védett utcáin indul. Délben a San Salvador-templom nyújt lenyűgöző és száraz menedéket. Délután bőséges időt töltünk a Balenciaga Múzeumban, távol az esőtől. Este a kikötőből csodáljuk a viharos tengert, majd betérünk egy barátságos tavernába.",
+            "ro": "Dimineața începe pe străzile înguste și protejate ale centrului vechi. La prânz, biserica San Salvador oferă un refugiu uscat și impresionant. După-amiaza petrecem mult timp în Muzeul Balenciaga, departe de ploaie. Seara admirăm marea agitată din port, înainte de a ne retrage într-o tavernă primitoare.",
+            "en": "The morning starts in the narrow, sheltered streets of the old town. At noon, San Salvador Church provides an impressive dry refuge. In the afternoon, we spend plenty of time in the Balenciaga Museum, far from the rain. In the evening, we admire the stormy sea from the harbor before heading to a cozy tavern."
+          },
+          "stops": [
+            {
+              "name": "Altstadt von Getaria",
+              "tip_5lang": {
+                "de": "Die schmalen Gassen bieten guten Schutz vor Seitenwind und leichtem Regen.",
+                "hu": "A szűk utcák jó védelmet nyújtanak az oldalszél és az enyhe eső ellen.",
+                "ro": "Străzile înguste oferă o protecție bună împotriva vântului lateral și a ploii ușoare.",
+                "en": "Narrow streets provide good shelter from crosswinds and light rain."
+              }
+            },
+            {
+              "name": "Kirche San Salvador",
+              "tip_5lang": {
+                "de": "Ein perfekter Ort, um einen heftigen Regenschauer trocken zu überstehen.",
+                "hu": "Tökéletes hely egy heves zápor szárazon történő átvészeléséhez.",
+                "ro": "Un loc perfect pentru a aștepta trecerea unei ploi torențiale la adăpost.",
+                "en": "A perfect place to wait out a heavy rain shower while staying dry."
+              }
+            },
+            {
+              "name": "Hafen von Getaria",
+              "tip_5lang": {
+                "de": "Die Fischerhütten bieten sporadisch Unterstand bei plötzlichen Güssen.",
+                "hu": "A halászkunyhók időnként menedéket nyújtanak a hirtelen zivatarok elől.",
+                "ro": "Colibele pescarilor oferă adăpost sporadic în timpul averselor bruște.",
+                "en": "Fishermen's huts offer sporadic shelter during sudden downpours."
+              }
+            },
+            {
+              "name": "Denkmal für Juan Sebastián Elkano",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp; bei Regen können die Steinstufen rutschig sein.",
+                "hu": "Rövid fotómegálló; esőben a kőlépcsők csúszósak lehetnek.",
+                "ro": "Oprire scurtă pentru poze; treptele de piatră pot fi alunecoase pe ploaie.",
+                "en": "Short photo stop; stone steps can be slippery when wet."
+              }
+            },
+            {
+              "name": "Cristóbal Balenciaga Museum",
+              "tip_5lang": {
+                "de": "Ideales Ziel für Regentage mit umfassenden Indoor-Ausstellungen.",
+                "hu": "Ideális úti cél esős napokra, kiterjedt beltéri kiállításokkal.",
+                "ro": "Destinație ideală pentru zilele ploioase, cu expoziții interioare vaste.",
+                "en": "Ideal destination for rainy days with extensive indoor exhibitions."
+              }
+            },
+            {
+              "name": "Palast von Aldamar",
+              "tip_5lang": {
+                "de": "Besichtigung der Innenräume schützt vor dem nassen Wetter draußen.",
+                "hu": "A belső terek megtekintése védelmet nyújt a kinti vizes időjárás ellen.",
+                "ro": "Vizitarea interiorului oferă protecție împotriva vremii umede de afară.",
+                "en": "Visiting the interior provides protection from the wet weather outside."
+              }
+            },
+            {
+              "name": "Berg San Anton (Die Maus)",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem Pfad; bei Regen kann der Boden schlammig und rutschig werden.",
+                "hu": "Vigyázat az ösvényen; esőben a talaj sáros és csúszós lehet.",
+                "ro": "Atenție pe potecă; solul poate deveni noroios și alunecos pe ploaie.",
+                "en": "Caution on the path; the ground can become muddy and slippery in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine hochwertige Regenjacke, da Schirme bei Küstenwind oft nutzlos sind.",
+              "Nutzen Sie das Balenciaga Museum als zeitlichen Puffer für die schlimmsten Schauer.",
+              "Die Steinflaster in der Altstadt können bei Nässe sehr glatt sein.",
+              "Genießen Sie Txakoli-Wein in den überdachten Bereichen der lokalen Bars."
+            ],
+            "hu": [
+              "Viseljen minőségi esőkabátot, mert az esernyők a parti szélben gyakran hasznavehetetlenek.",
+              "Használja a Balenciaga Múzeumot időbeli pufferként a legrosszabb záporok idején.",
+              "Az óváros kőburkolata nedvesen nagyon csúszós lehet.",
+              "Élvezze a Txakoli bort a helyi bárok fedett részein."
+            ],
+            "ro": [
+              "Purtați o jachetă de ploaie de calitate, deoarece umbrelele sunt adesea inutile în vântul de coastă.",
+              "Folosiți Muzeul Balenciaga ca tampon temporal pentru cele mai severe averse.",
+              "Pavajul de piatră din centrul vechi poate fi foarte alunecos când este ud.",
+              "Savurați vinul Txakoli în zonele acoperite ale barurilor locale."
+            ],
+            "en": [
+              "Wear a high-quality raincoat as umbrellas are often useless in coastal winds.",
+              "Use the Balenciaga Museum as a time buffer during the worst showers.",
+              "The stone pavements in the old town can be very slippery when wet.",
+              "Enjoy Txakoli wine in the covered areas of local bars."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Wintermorgen beginnt in der ruhigen Altstadt. Mittags wärmen wir uns in der Kirche auf, bevor wir den Hafen im klaren Winterlicht besuchen. Nachmittags ist das Balenciaga Museum ein warmer Rückzugsort. Der Tag endet früh mit einem spektakulären Sonnenuntergang am Berg San Anton, bevor die Kälte einsetzt.",
+            "hu": "Friss téli reggel indul a csendes óvárosban. Délben a templomban melegszünk fel, mielőtt meglátogatjuk a kikötőt a tiszta téli fényben. Délután a Balenciaga Múzeum meleg menedéket nyújt. A nap korán ér véget egy látványos naplementével a San Anton-hegyen, mielőtt beállna a hideg.",
+            "ro": "O dimineață răcoroasă de iarnă începe în centrul vechi liniștit. La prânz ne încălzim în biserică înainte de a vizita portul în lumina clară de iarnă. După-amiaza, Muzeul Balenciaga este un refugiu călduros. Ziua se termină devreme cu un apus spectaculos pe muntele San Anton, înainte de lăsarea gerului.",
+            "en": "A crisp winter morning begins in the quiet old town. At noon, we warm up in the church before visiting the harbor in the clear winter light. In the afternoon, the Balenciaga Museum is a warm retreat. The day ends early with a spectacular sunset at Mount San Anton before the cold sets in."
+          },
+          "stops": [
+            {
+              "name": "Altstadt von Getaria",
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe der Nebensaison ohne die üblichen Touristenmassen.",
+                "hu": "Élvezze az utószezon nyugalmát a szokásos turistaáradat nélkül.",
+                "ro": "Bucurați-vă de liniștea extrasezonului, fără mulțimile obișnuite de turiști.",
+                "en": "Enjoy the off-season tranquility without the usual tourist crowds."
+              }
+            },
+            {
+              "name": "Kirche San Salvador",
+              "tip_5lang": {
+                "de": "Die dicken Mauern halten die Kälte ab, aber ein Mantel ist drinnen ratsam.",
+                "hu": "A vastag falak távol tartják a hideget, de bent is ajánlott a kabát.",
+                "ro": "Zidurile groase țin frigul la distanță, dar o haină este recomandată în interior.",
+                "en": "The thick walls keep the cold out, but a coat is recommended inside."
+              }
+            },
+            {
+              "name": "Hafen von Getaria",
+              "tip_5lang": {
+                "de": "Die Wintersonne spiegelt sich wunderschön im ruhigen Hafenbecken.",
+                "hu": "A téli nap gyönyörűen tükröződik a nyugodt kikötőmedencében.",
+                "ro": "Soarele de iarnă se reflectă frumos în bazinul liniștit al portului.",
+                "en": "The winter sun reflects beautifully in the calm harbor basin."
+              }
+            },
+            {
+              "name": "Denkmal für Juan Sebastián Elkano",
+              "tip_5lang": {
+                "de": "Perfekter Ort für Fotos im weichen, tiefstehenden Licht der Wintersonne.",
+                "hu": "Tökéletes hely fotózáshoz a téli nap lágy, alacsonyan lévő fényében.",
+                "ro": "Loc perfect pentru fotografii în lumina blândă și joasă a soarelui de iarnă.",
+                "en": "Perfect spot for photos in the soft, low-angled light of the winter sun."
+              }
+            },
+            {
+              "name": "Cristóbal Balenciaga Museum",
+              "tip_5lang": {
+                "de": "Gut beheizte Galerien machen den Besuch im Winter sehr angenehm.",
+                "hu": "A jól fűtött galériák télen is nagyon kellemessé teszik a látogatást.",
+                "ro": "Galeriile bine încălzite fac vizita foarte plăcută în timpul iernii.",
+                "en": "Well-heated galleries make the visit very pleasant in winter."
+              }
+            },
+            {
+              "name": "Palast von Aldamar",
+              "tip_5lang": {
+                "de": "Ein warmer Stopp auf dem Weg zurück in das Stadtzentrum.",
+                "hu": "Meleg pihenőhely a városközpontba vezető visszaúton.",
+                "ro": "O oprire călduroasă în drumul de întoarcere spre centrul orașului.",
+                "en": "A warm stop on the way back to the city center."
+              }
+            },
+            {
+              "name": "Berg San Anton (Die Maus)",
+              "tip_5lang": {
+                "de": "Planen Sie den Aufstieg so, dass Sie vor dem frühen Sonnenuntergang (ca. 17:30) oben sind.",
+                "hu": "Tervezze úgy a feljutást, hogy a korai naplemente (kb. 17:30) előtt fent legyen.",
+                "ro": "Planificați urcarea astfel încât să ajungeți sus înainte de apusul timpuriu (aprox. 17:30).",
+                "en": "Plan the ascent to reach the top before the early sunset (approx. 17:30)."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Zwiebelprinzip bei der Kleidung: Der Wind am Meer kann sehr beißend sein.",
+              "Die Sonne geht im Winter bereits gegen 17:30 Uhr unter.",
+              "Viele Cafés bieten im Winter heiße Schokolade mit Churros an.",
+              "Prüfen Sie die Öffnungszeiten, da einige Lokale in der Nebensaison früher schließen."
+            ],
+            "hu": [
+              "Réteges öltözködés javasolt: a tengeri szél nagyon metsző lehet.",
+              "Télen a nap már 17:30 körül lenyugszik.",
+              "Sok kávézó kínál forró csokoládét churrosszal a téli hónapokban.",
+              "Ellenőrizze a nyitvatartást, mivel néhány hely korábban zárhat az utószezonban."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi: vântul de la mare poate fi foarte tăios.",
+              "Iarna, soarele apune deja în jurul orei 17:30.",
+              "Multe cafenele oferă ciocolată caldă cu churros în timpul iernii.",
+              "Verificați programul, deoarece unele localuri pot închide mai devreme în extrasezon."
+            ],
+            "en": [
+              "Dress in layers: the sea breeze can be very biting in winter.",
+              "The sun sets as early as 17:30 during winter months.",
+              "Many cafes offer hot chocolate with churros during the winter.",
+              "Check opening hours as some venues may close earlier in the off-season."
+            ]
+          }
+        }
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "15:30",
+      "total_km": 12.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Hafen von Getaria",
+          "coords": [
+            -2.2025,
+            43.304
+          ],
+          "category": "industrial",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Startpunkt an der Mole.",
+            "hu": "Indulópont a mólónál.",
+            "ro": "Punct de plecare de la dig.",
+            "en": "Start point by the pier."
+          }
+        },
+        {
+          "name": "Leuchtturm von Getaria",
+          "coords": [
+            -2.2,
+            43.3085
+          ],
+          "category": "bridges",
+          "arrive_at": "10:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Steile Auffahrt, aber lohnend.",
+            "hu": "Meredek emelkedő, de megéri.",
+            "ro": "Urcare abruptă, dar merită.",
+            "en": "Steep climb, but worth it."
+          }
+        },
+        {
+          "name": "Küstenstraße nach Zarautz",
+          "coords": [
+            -2.185,
+            43.295
+          ],
+          "category": "natural",
+          "arrive_at": "11:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Wunderschöner Radweg am Meer.",
+            "hu": "Gyönyörű kerékpárút a tenger mellett.",
+            "ro": "Pistă de biciclete superbă pe malul mării.",
+            "en": "Beautiful seaside bike path."
+          }
+        },
+        {
+          "name": "Altstadt von Getaria",
+          "coords": [
+            -2.204,
+            43.302
+          ],
+          "category": "squares",
+          "arrive_at": "12:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Pause für Pintxos.",
+            "hu": "Pintxos szünet az óvárosban.",
+            "ro": "Pauză pentru pintxos.",
+            "en": "Pintxos break in the old town."
+          }
+        },
+        {
+          "name": "Cristóbal Balenciaga Museum",
+          "coords": [
+            -2.2065,
+            43.3025
+          ],
+          "category": "museums",
+          "arrive_at": "14:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Sicherer Fahrradabstellplatz vorhanden.",
+            "hu": "Biztonságos biciklitároló a közelben.",
+            "ro": "Parcare sigură pentru biciclete disponibilă.",
+            "en": "Secure bike parking available."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Tour führt uns entlang der dramatischen Küste. Wir radeln zum Leuchtturm und dann auf der berühmten Uferstraße Richtung Zarautz. Zurück in Getaria genießen wir Pintxos und besuchen das Modemuseum.",
+        "hu": "Ez a túra a drámai tengerpart mentén vezet. Eltekerünk a világítótoronyhoz, majd a híres parti úton Zarautz felé. Visszatérve Getariába pintxos-t eszünk és megnézzük a Balenciaga múzeumot.",
+        "ro": "Acest tur ne poartă de-a lungul coastei dramatice. Pedalam spre far și apoi pe faimosul drum de coastă spre Zarautz. Reveniți în Getaria, savurăm pintxos și vizităm muzeul modei.",
+        "en": "This tour takes us along the dramatic coast. We cycle to the lighthouse and then along the famous coastal road towards Zarautz. Back in Getaria, we enjoy pintxos and visit the fashion museum."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Anschovis aus Getaria",
+            "tip": "Frisch und lokal konserviert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Getariai szardella",
+            "tip": "Friss és helyben konzervált."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Anșoa de Getaria",
+            "tip": "Proaspătă și conservată local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Getaria Anchovies",
+            "tip": "Fresh and locally preserved."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Leuchtturm-Plateau",
+            "tip": "Blick auf den Golf von Bizkaia.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Világítótorony-plató",
+            "tip": "Kilátás a Vizcayai-öbölre.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Platoul farului",
+            "tip": "Vedere spre Golful Biscaia.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lighthouse Plateau",
+            "tip": "Views over the Bay of Biscay.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Konserven-Läden",
+            "tip": "Hochwertiger Fisch in Dosen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Konzervboltok",
+            "tip": "Prémium minőségű halas konzervek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de conserve",
+            "tip": "Pește de calitate superioară la conservă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Canned Fish Shops",
+            "tip": "Premium quality canned seafood."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie den flachen Küstenweg.",
+          "Achten Sie auf starken Wind am Leuchtturm."
+        ],
+        "hu": [
+          "Használja a sík tengerparti sétányt.",
+          "Vigyázzon az erős szélre a toronynál."
+        ],
+        "ro": [
+          "Folosiți drumul plat de coastă.",
+          "Atenție la vântul puternic la far."
+        ],
+        "en": [
+          "Use the flat coastal path.",
+          "Watch out for strong winds at the lighthouse."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Diese Tour führt uns entlang der dramatischen Küste. Wir radeln zum Leuchtturm und dann auf der berühmten Uferstraße Richtung Zarautz. Zurück in Getaria genießen wir Pintxos und besuchen das Modemuseum.",
+            "hu": "Ez a túra a drámai tengerpart mentén vezet. Eltekerünk a világítótoronyhoz, majd a híres parti úton Zarautz felé. Visszatérve Getariába pintxos-t eszünk és megnézzük a Balenciaga múzeumot.",
+            "ro": "Acest tur ne poartă de-a lungul coastei dramatice. Pedalam spre far și apoi pe faimosul drum de coastă spre Zarautz. Reveniți în Getaria, savurăm pintxos și vizităm muzeul modei.",
+            "en": "This tour takes us along the dramatic coast. We cycle to the lighthouse and then along the famous coastal road towards Zarautz. Back in Getaria, we enjoy pintxos and visit the fashion museum."
+          },
+          "stops": [
+            {
+              "name": "Hafen von Getaria",
+              "tip_5lang": {
+                "de": "Startpunkt an der Mole.",
+                "hu": "Indulópont a mólónál.",
+                "ro": "Punct de plecare de la dig.",
+                "en": "Start point by the pier."
+              }
+            },
+            {
+              "name": "Leuchtturm von Getaria",
+              "tip_5lang": {
+                "de": "Steile Auffahrt, aber lohnend.",
+                "hu": "Meredek emelkedő, de megéri.",
+                "ro": "Urcare abruptă, dar merită.",
+                "en": "Steep climb, but worth it."
+              }
+            },
+            {
+              "name": "Küstenstraße nach Zarautz",
+              "tip_5lang": {
+                "de": "Wunderschöner Radweg am Meer.",
+                "hu": "Gyönyörű kerékpárút a tenger mellett.",
+                "ro": "Pistă de biciclete superbă pe malul mării.",
+                "en": "Beautiful seaside bike path."
+              }
+            },
+            {
+              "name": "Altstadt von Getaria",
+              "tip_5lang": {
+                "de": "Pause für Pintxos.",
+                "hu": "Pintxos szünet az óvárosban.",
+                "ro": "Pauză pentru pintxos.",
+                "en": "Pintxos break in the old town."
+              }
+            },
+            {
+              "name": "Cristóbal Balenciaga Museum",
+              "tip_5lang": {
+                "de": "Sicherer Fahrradabstellplatz vorhanden.",
+                "hu": "Biztonságos biciklitároló a közelben.",
+                "ro": "Parcare sigură pentru biciclete disponibilă.",
+                "en": "Secure bike parking available."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Anschovis aus Getaria",
+                "tip": "Frisch und lokal konserviert."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Getariai szardella",
+                "tip": "Friss és helyben konzervált."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Anșoa de Getaria",
+                "tip": "Proaspătă și conservată local."
+              }
+            ],
+            "en": [
+              {
+                "name": "Getaria Anchovies",
+                "tip": "Fresh and locally preserved."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Leuchtturm-Plateau",
+                "tip": "Blick auf den Golf von Bizkaia.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Világítótorony-plató",
+                "tip": "Kilátás a Vizcayai-öbölre.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Platoul farului",
+                "tip": "Vedere spre Golful Biscaia.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Lighthouse Plateau",
+                "tip": "Views over the Bay of Biscay.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Konserven-Läden",
+                "tip": "Hochwertiger Fisch in Dosen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Konzervboltok",
+                "tip": "Prémium minőségű halas konzervek."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Magazine de conserve",
+                "tip": "Pește de calitate superioară la conservă."
+              }
+            ],
+            "en": [
+              {
+                "name": "Canned Fish Shops",
+                "tip": "Premium quality canned seafood."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Nutzen Sie den flachen Küstenweg.",
+              "Achten Sie auf starken Wind am Leuchtturm."
+            ],
+            "hu": [
+              "Használja a sík tengerparti sétányt.",
+              "Vigyázzon az erős szélre a toronynál."
+            ],
+            "ro": [
+              "Folosiți drumul plat de coastă.",
+              "Atenție la vântul puternic la far."
+            ],
+            "en": [
+              "Use the flat coastal path.",
+              "Watch out for strong winds at the lighthouse."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Vorsichtig radeln wir am regnerischen Morgen zum Hafen. Der Leuchtturm bietet einen windigen, aber faszinierenden Anblick im Grau. Mittags geht es über die nasse Küstenstraße, wo wir besonders auf den Asphalt achten. Den Nachmittag verbringen wir trocken im Balenciaga Museum, während die Räder sicher geparkt sind.",
+            "hu": "Óvatosan kerekezünk a kikötőhöz az esős reggelen. A világítótorony szeles, de lenyűgöző látványt nyújt a szürkeségben. Délben a vizes parti úton haladunk, különösen figyelve az aszfaltra. A délutánt szárazon töltjük a Balenciaga Múzeumban, amíg a biciklik biztonságban parkolnak.",
+            "ro": "Pedalăm cu atenție spre port în dimineața ploioasă. Farul oferă o priveliște vântoasă, dar fascinantă în cenușiul zilei. La prânz mergem pe drumul de coastă umed, fiind atenți la asfalt. După-amiaza o petrecem la uscat în Muzeul Balenciaga, în timp ce bicicletele sunt parcate în siguranță.",
+            "en": "We cycle carefully to the harbor on a rainy morning. The lighthouse offers a windy but fascinating sight in the grey weather. At noon, we head along the wet coastal road, paying extra attention to the asphalt. We spend the afternoon dry in the Balenciaga Museum while the bikes are safely parked."
+          },
+          "stops": [
+            {
+              "name": "Hafen von Getaria",
+              "tip_5lang": {
+                "de": "Vorsicht beim Fahren auf nassen Kopfsteinpflastern im Hafenbereich.",
+                "hu": "Vigyázat a kikötői területen a vizes macskaköveken való közlekedéskor.",
+                "ro": "Atenție la deplasarea pe pavajul umed din zona portului.",
+                "en": "Caution when cycling on wet cobblestones in the harbor area."
+              }
+            },
+            {
+              "name": "Leuchtturm von Getaria",
+              "tip_5lang": {
+                "de": "Starker Wind am Kap; halten Sie den Lenker gut fest.",
+                "hu": "Erős szél a foknál; fogja szorosan a kormányt.",
+                "ro": "Vânt puternic la cap; țineți bine de ghidon.",
+                "en": "Strong winds at the cape; keep a firm grip on the handlebars."
+              }
+            },
+            {
+              "name": "Küstenstraße nach Zarautz",
+              "tip_5lang": {
+                "de": "Spritzwasser von Autos möglich; tragen Sie eine wasserfeste Hose.",
+                "hu": "Az autók felverhetik a vizet; viseljen vízálló nadrágot.",
+                "ro": "Mașinile pot stropi cu apă; purtați pantaloni impermeabili.",
+                "en": "Splash water from cars is possible; wear waterproof trousers."
+              }
+            },
+            {
+              "name": "Altstadt von Getaria",
+              "tip_5lang": {
+                "de": "Parken Sie das Rad an einem geschützten Ort vor der Pause.",
+                "hu": "Parkolja a kerékpárt védett helyre a pihenő előtt.",
+                "ro": "Parcați bicicleta într-un loc protejat înainte de pauză.",
+                "en": "Park your bike in a sheltered spot before your break."
+              }
+            },
+            {
+              "name": "Cristóbal Balenciaga Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch, um Ihre Kleidung zu trocknen.",
+                "hu": "Használja ki a múzeumlátogatást a ruházata megszárítására.",
+                "ro": "Profită de vizita la muzeu pentru a-ți usca hainele.",
+                "en": "Take advantage of the museum visit to dry your clothes."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf rutschige Fahrbahnmarkierungen und Gullydeckel.",
+              "Vermeiden Sie abruptes Bremsen auf nassem Asphalt.",
+              "Verwenden Sie Schutzbleche, um sich vor aufgewirbeltem Schlamm zu schützen.",
+              "Beleuchtung einschalten, da die Sicht bei Regen stark eingeschränkt sein kann."
+            ],
+            "hu": [
+              "Ügyeljen a csúszós útburkolati jelekre és csatornafedelekre.",
+              "Kerülje a hirtelen fékezést a vizes aszfalton.",
+              "Használjon sárvédőt a felcsapódó sár elleni védelem érdekében.",
+              "Kapcsolja be a világítást, mert esőben a látótávolság jelentősen csökkenhet."
+            ],
+            "ro": [
+              "Atenție la marcajele rutiere și capacele de canal care devin alunecoase.",
+              "Evitați frânarea bruscă pe asfaltul umed.",
+              "Folosiți aripi de protecție pentru a vă feri de noroiul împroșcat.",
+              "Aprindeți luminile, deoarece vizibilitatea poate fi redusă pe timp de ploaie."
+            ],
+            "en": [
+              "Watch out for slippery road markings and manhole covers.",
+              "Avoid sudden braking on wet asphalt.",
+              "Use mudguards to protect yourself from kicked-up mud.",
+              "Turn on your lights as visibility can be severely limited in the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kühler Morgen am Hafen verlangt nach warmer Kleidung. Die Fahrt zum Leuchtturm bietet eine klare Sicht über den Golf von Biskaya. Mittags genießen wir die frische Meeresbrise auf der Küstenstraße. Nach dem Aufwärmen in der Altstadt beschließen wir die Tour im Balenciaga Museum, bevor es dunkel wird.",
+            "hu": "A hűvös reggel a kikötőben meleg ruházatot igényel. A világítótoronyhoz vezető út tiszta kilátást nyújt a Vizcayai-öbölre. Délben a friss tengeri szellőt élvezzük a parti úton. Az óvárosban való felmelegedés után a Balenciaga Múzeumban zárjuk a túrát, mielőtt besötétedne.",
+            "ro": "O dimineață răcoroasă în port necesită haine groase. Drumul spre far oferă o vedere clară peste Golful Biscaia. La prânz ne bucurăm de briza proaspătă a mării pe drumul de coastă. După încălzirea în centrul vechi, încheiem turul la Muzeul Balenciaga înainte de lăsarea întunericului.",
+            "en": "A chilly morning at the harbor calls for warm clothing. The ride to the lighthouse offers clear views over the Bay of Biscay. At noon, we enjoy the fresh sea breeze on the coastal road. After warming up in the old town, we conclude the tour at the Balenciaga Museum before it gets dark."
+          },
+          "stops": [
+            {
+              "name": "Hafen von Getaria",
+              "tip_5lang": {
+                "de": "Tragen Sie Handschuhe; die Metallteile des Rads sind morgens eiskalt.",
+                "hu": "Viseljen kesztyűt; a kerékpár fém alkatrészei reggel jéghidegek.",
+                "ro": "Purtați mănuși; părțile metalice ale bicicletei sunt înghețate dimineața.",
+                "en": "Wear gloves; the metal parts of the bike are ice-cold in the morning."
+              }
+            },
+            {
+              "name": "Leuchtturm von Getaria",
+              "tip_5lang": {
+                "de": "Die Winterluft ist hier besonders scharf; ein Buff für den Hals ist ideal.",
+                "hu": "A téli levegő itt különösen metsző; egy nyakmelegítő ideális választás.",
+                "ro": "Aerul de iarnă este deosebit de tăios aici; un fular circular este ideal.",
+                "en": "The winter air is especially sharp here; a neck buff is ideal."
+              }
+            },
+            {
+              "name": "Küstenstraße nach Zarautz",
+              "tip_5lang": {
+                "de": "Achten Sie auf mögliche Eisflächen in schattigen Kurven.",
+                "hu": "Ügyeljen az esetleges jeges foltokra az árnyékos kanyarokban.",
+                "ro": "Atenție la eventualele porțiuni cu gheață în curbele umbrite.",
+                "en": "Watch out for potential icy patches in shaded corners."
+              }
+            },
+            {
+              "name": "Altstadt von Getaria",
+              "tip_5lang": {
+                "de": "Machen Sie eine Pause für einen heißen Tee in einem der Cafés.",
+                "hu": "Tartson szünetet egy forró teára az egyik kávézóban.",
+                "ro": "Faceți o pauză pentru un ceai fierbinte la una dintre cafenele.",
+                "en": "Take a break for a hot tea in one of the cafes."
+              }
+            },
+            {
+              "name": "Cristóbal Balenciaga Museum",
+              "tip_5lang": {
+                "de": "Ein perfekter Abschluss, um sich nach der Fahrt im Warmen zu erholen.",
+                "hu": "Tökéletes lezárás, hogy a tekerés után a melegben pihenjünk meg.",
+                "ro": "Un final perfect pentru a te recupera la căldură după traseu.",
+                "en": "A perfect finish to recover in the warmth after the ride."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Thermounterwäsche schützt effektiv vor dem kalten Küstenwind.",
+              "Überprüfen Sie den Reifendruck; kalte Luft kann ihn verringern.",
+              "Nutzen Sie die kürzeren Tage effizient und starten Sie pünktlich.",
+              "Halten Sie die Fahrtzeit am späten Nachmittag kurz, um der Kälte zu entgehen."
+            ],
+            "hu": [
+              "A hőtartó aláöltözet hatékonyan véd a hideg parti szél ellen.",
+              "Ellenőrizze a gumiabroncsok nyomását; a hideg levegő csökkentheti azt.",
+              "Használja ki hatékonyan a rövidebb nappalokat, és kezdjen időben.",
+              "Tartsa röviden a késő délutáni tekerést, hogy elkerülje a hideget."
+            ],
+            "ro": [
+              "Lenjeria termică protejează eficient împotriva vântului rece de coastă.",
+              "Verificați presiunea în anvelope; aerul rece o poate reduce.",
+              "Folosiți eficient zilele mai scurte și începeți la timp.",
+              "Scurtați timpul de pedalat după-amiaza târziu pentru a evita frigul."
+            ],
+            "en": [
+              "Thermal underwear effectively protects against the cold coastal wind.",
+              "Check tire pressure; cold air can cause it to drop.",
+              "Use the shorter daylight hours efficiently and start on time.",
+              "Keep the late afternoon ride short to avoid the dropping temperatures."
+            ]
+          }
+        }
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "16:00",
+      "total_km": 20.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Txakoli Weinberg (Besuch)",
+          "coords": [
+            -2.215,
+            43.295
+          ],
+          "category": "natural",
+          "arrive_at": "09:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Weinprobe am Vormittag.",
+            "hu": "Borkóstoló délelőtt.",
+            "ro": "Degustare de vin dimineața.",
+            "en": "Morning wine tasting."
+          }
+        },
+        {
+          "name": "Cristóbal Balenciaga Museum",
+          "coords": [
+            -2.2065,
+            43.3025
+          ],
+          "category": "museums",
+          "arrive_at": "11:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Parkhaus direkt am Museum.",
+            "hu": "Parkolóház közvetlenül a múzeumnál.",
+            "ro": "Parcare chiar lângă muzeu.",
+            "en": "Parking garage right at the museum."
+          }
+        },
+        {
+          "name": "Palast von Aldamar",
+          "coords": [
+            -2.2068,
+            43.3028
+          ],
+          "category": "residences",
+          "arrive_at": "12:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Historische Architektur bewundern.",
+            "hu": "Csodálja meg a történelmi építészetet.",
+            "ro": "Admirați arhitectura istorică.",
+            "en": "Admire the historical architecture."
+          }
+        },
+        {
+          "name": "Hafen von Getaria",
+          "coords": [
+            -2.2025,
+            43.304
+          ],
+          "category": "industrial",
+          "arrive_at": "13:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Mittagessen direkt am Wasser.",
+            "hu": "Ebéd közvetlenül a víznél.",
+            "ro": "Prânz chiar pe malul apei.",
+            "en": "Lunch right by the water."
+          }
+        },
+        {
+          "name": "Kirche San Salvador",
+          "coords": [
+            -2.2035,
+            43.3035
+          ],
+          "category": "churches",
+          "arrive_at": "14:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Gehen Sie durch den Tunnel unter der Kirche.",
+            "hu": "Sétáljon át a templom alatti alagúton.",
+            "ro": "Treceți prin tunelul de sub biserică.",
+            "en": "Walk through the tunnel under the church."
+          }
+        },
+        {
+          "name": "Altstadt von Getaria",
+          "coords": [
+            -2.204,
+            43.302
+          ],
+          "category": "squares",
+          "arrive_at": "15:40",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Letzter Kaffee am Marktplatz.",
+            "hu": "Utolsó kávé a főtéren.",
+            "ro": "Ultima cafea în piața centrală.",
+            "en": "Last coffee in the main square."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden wir die Hügel der Txakoli-Weinberge, bevor wir ins Zentrum von Getaria fahren. Wir verbinden Kultur im Balenciaga-Museum mit der kulinarischen Tradition am Hafen und beenden den Tag entspannt in der Altstadt.",
+        "hu": "Autóval fedezzük fel a Txakoli szőlőültetvények dombjait, mielőtt Getaria központjába érnénk. A Balenciaga múzeum kultúráját ötvözzük a kikötői gasztronómiával, majd az óvárosban pihenünk meg.",
+        "ro": "Cu mașina explorăm dealurile cu podgorii de Txakoli înainte de a ajunge în centrul orașului Getaria. Combinăm cultura la Muzeul Balenciaga cu tradiția culinară din port și încheiem ziua în centrul vechi.",
+        "en": "By car, we explore the hills of the Txakoli vineyards before heading to Getaria's center. We combine culture at the Balenciaga Museum with culinary tradition at the port, ending the day in the old town."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Txakoli de Getaria",
+            "tip": "Der berühmte lokale Weißwein."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Txakoli de Getaria",
+            "tip": "A híres helyi fehérbor."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Txakoli de Getaria",
+            "tip": "Celebrul vin alb local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Txakoli de Getaria",
+            "tip": "The famous local white wine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Weinberg-Aussicht",
+            "tip": "Blick über die Reben zum Meer.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szőlőhegyi kilátás",
+            "tip": "Kilátás a tőkék fölött a tengerre.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vedere din podgorii",
+            "tip": "Vedere peste vii spre mare.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Vineyard Viewpoint",
+            "tip": "View over the vines to the sea.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bodega Shop",
+            "tip": "Wein direkt vom Erzeuger kaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Borászati bolt",
+            "tip": "Vásároljon bort közvetlenül a termelőtől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de cramă",
+            "tip": "Cumpărați vin direct de la producător."
+          }
+        ],
+        "en": [
+          {
+            "name": "Winery Shop",
+            "tip": "Buy wine directly from the producer."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken Sie am Ortseingang.",
+          "Besuchen Sie eine Bodega in den Hügeln."
+        ],
+        "hu": [
+          "Parkoljon a város bejáratánál.",
+          "Látogasson el egy borászatba a dombokon."
+        ],
+        "ro": [
+          "Parcați la intrarea în localitate.",
+          "Vizitați o cramă pe dealuri."
+        ],
+        "en": [
+          "Park at the entrance of the town.",
+          "Visit a winery in the hills."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden wir die Hügel der Txakoli-Weinberge, bevor wir ins Zentrum von Getaria fahren. Wir verbinden Kultur im Balenciaga-Museum mit der kulinarischen Tradition am Hafen und beenden den Tag entspannt in der Altstadt.",
+            "hu": "Autóval fedezzük fel a Txakoli szőlőültetvények dombjait, mielőtt Getaria központjába érnénk. A Balenciaga múzeum kultúráját ötvözzük a kikötői gasztronómiával, majd az óvárosban pihenünk meg.",
+            "ro": "Cu mașina explorăm dealurile cu podgorii de Txakoli înainte de a ajunge în centrul orașului Getaria. Combinăm cultura la Muzeul Balenciaga cu tradiția culinară din port și încheiem ziua în centrul vechi.",
+            "en": "By car, we explore the hills of the Txakoli vineyards before heading to Getaria's center. We combine culture at the Balenciaga Museum with culinary tradition at the port, ending the day in the old town."
+          },
+          "stops": [
+            {
+              "name": "Txakoli Weinberg (Besuch)",
+              "tip_5lang": {
+                "de": "Weinprobe am Vormittag.",
+                "hu": "Borkóstoló délelőtt.",
+                "ro": "Degustare de vin dimineața.",
+                "en": "Morning wine tasting."
+              }
+            },
+            {
+              "name": "Cristóbal Balenciaga Museum",
+              "tip_5lang": {
+                "de": "Parkhaus direkt am Museum.",
+                "hu": "Parkolóház közvetlenül a múzeumnál.",
+                "ro": "Parcare chiar lângă muzeu.",
+                "en": "Parking garage right at the museum."
+              }
+            },
+            {
+              "name": "Palast von Aldamar",
+              "tip_5lang": {
+                "de": "Historische Architektur bewundern.",
+                "hu": "Csodálja meg a történelmi építészetet.",
+                "ro": "Admirați arhitectura istorică.",
+                "en": "Admire the historical architecture."
+              }
+            },
+            {
+              "name": "Hafen von Getaria",
+              "tip_5lang": {
+                "de": "Mittagessen direkt am Wasser.",
+                "hu": "Ebéd közvetlenül a víznél.",
+                "ro": "Prânz chiar pe malul apei.",
+                "en": "Lunch right by the water."
+              }
+            },
+            {
+              "name": "Kirche San Salvador",
+              "tip_5lang": {
+                "de": "Gehen Sie durch den Tunnel unter der Kirche.",
+                "hu": "Sétáljon át a templom alatti alagúton.",
+                "ro": "Treceți prin tunelul de sub biserică.",
+                "en": "Walk through the tunnel under the church."
+              }
+            },
+            {
+              "name": "Altstadt von Getaria",
+              "tip_5lang": {
+                "de": "Letzter Kaffee am Marktplatz.",
+                "hu": "Utolsó kávé a főtéren.",
+                "ro": "Ultima cafea în piața centrală.",
+                "en": "Last coffee in the main square."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Txakoli de Getaria",
+                "tip": "Der berühmte lokale Weißwein."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Txakoli de Getaria",
+                "tip": "A híres helyi fehérbor."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Txakoli de Getaria",
+                "tip": "Celebrul vin alb local."
+              }
+            ],
+            "en": [
+              {
+                "name": "Txakoli de Getaria",
+                "tip": "The famous local white wine."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Weinberg-Aussicht",
+                "tip": "Blick über die Reben zum Meer.",
+                "emoji": "🍃"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Szőlőhegyi kilátás",
+                "tip": "Kilátás a tőkék fölött a tengerre.",
+                "emoji": "🍃"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Vedere din podgorii",
+                "tip": "Vedere peste vii spre mare.",
+                "emoji": "🍃"
+              }
+            ],
+            "en": [
+              {
+                "name": "Vineyard Viewpoint",
+                "tip": "View over the vines to the sea.",
+                "emoji": "🍃"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Bodega Shop",
+                "tip": "Wein direkt vom Erzeuger kaufen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Borászati bolt",
+                "tip": "Vásároljon bort közvetlenül a termelőtől."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Magazin de cramă",
+                "tip": "Cumpărați vin direct de la producător."
+              }
+            ],
+            "en": [
+              {
+                "name": "Winery Shop",
+                "tip": "Buy wine directly from the producer."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Parken Sie am Ortseingang.",
+              "Besuchen Sie eine Bodega in den Hügeln."
+            ],
+            "hu": [
+              "Parkoljon a város bejáratánál.",
+              "Látogasson el egy borászatba a dombokon."
+            ],
+            "ro": [
+              "Parcați la intrarea în localitate.",
+              "Vizitați o cramă pe dealuri."
+            ],
+            "en": [
+              "Park at the entrance of the town.",
+              "Visit a winery in the hills."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir starten gemütlich bei den Weinbergen, wo wir die Aussicht aus dem Auto genießen. Mittags bietet das Balenciaga Museum perfekten Schutz vor den Güssen. Der Palast von Aldamar wird schnell besichtigt, bevor wir zum Hafen fahren. Der Tag endet sicher und trocken in der Altstadt, während es draußen stürmt.",
+            "hu": "Kényelmesen indulunk a szőlőültetvényeknél, ahol az autóból élvezzük a kilátást. Délben a Balenciaga Múzeum tökéletes védelmet nyújt a záporok elől. Az Aldamar-palotát gyorsan megtekintjük, mielőtt a kikötőbe hajtanánk. A nap biztonságban és szárazon ér véget az óvárosban, miközben kint tombol a vihar.",
+            "ro": "Începem confortabil la podgorii, unde admirăm priveliștea din mașină. La prânz, Muzeul Balenciaga oferă protecție perfectă împotriva averselor. Palatul Aldamar este vizitat rapid înainte de a conduce spre port. Ziua se încheie în siguranță și la uscat în centrul vechi, în timp ce afară este furtună.",
+            "en": "We start comfortably at the vineyards, enjoying the view from the car. At noon, the Balenciaga Museum offers perfect shelter from the downpours. Aldamar Palace is visited quickly before driving to the harbor. The day ends safely and dry in the old town while a storm rages outside."
+          },
+          "stops": [
+            {
+              "name": "Txakoli Weinberg (Besuch)",
+              "tip_5lang": {
+                "de": "Die Zufahrtswege können bei starkem Regen matschig sein; fahren Sie vorsichtig.",
+                "hu": "A bekötőutak heves esőzéskor sárosak lehetnek; vezessen óvatosan.",
+                "ro": "Drumurile de acces pot fi noroioase în caz de ploaie torențială; conduceți cu prudență.",
+                "en": "Access roads can be muddy during heavy rain; drive carefully."
+              }
+            },
+            {
+              "name": "Cristóbal Balenciaga Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie das nahegelegene Parkhaus, um trocken ins Museum zu gelangen.",
+                "hu": "Használja a közeli parkolóházat, hogy szárazon jusson be a múzeumba.",
+                "ro": "Folosiți parcarea acoperită din apropiere pentru a ajunge uscat la muzeu.",
+                "en": "Use the nearby parking garage to get to the museum while staying dry."
+              }
+            },
+            {
+              "name": "Palast von Aldamar",
+              "tip_5lang": {
+                "de": "Kurze Wege vom Parkplatz minimieren den Kontakt mit dem Regen.",
+                "hu": "A parkolótól való rövid távolság minimalizálja az esővel való érintkezést.",
+                "ro": "Distanța scurtă de la parcare minimizează contactul cu ploaia.",
+                "en": "Short paths from the parking lot minimize contact with the rain."
+              }
+            },
+            {
+              "name": "Hafen von Getaria",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die raue See bequem aus dem warmen Auto.",
+                "hu": "Élvezze a zord tenger látványát kényelmesen a meleg autóból.",
+                "ro": "Bucurați-vă de priveliștea mării agitate din confortul mașinii calde.",
+                "en": "Enjoy the view of the rough sea comfortably from your warm car."
+              }
+            },
+            {
+              "name": "Kirche San Salvador",
+              "tip_5lang": {
+                "de": "Der überdachte Bereich am Eingang ist ideal zum Absetzen von Passagieren.",
+                "hu": "A bejáratnál lévő fedett terület ideális az utasok kiszállásához.",
+                "ro": "Zona acoperită de la intrare este ideală pentru a lăsa pasagerii.",
+                "en": "The covered area at the entrance is ideal for dropping off passengers."
+              }
+            },
+            {
+              "name": "Altstadt von Getaria",
+              "tip_5lang": {
+                "de": "Suchen Sie einen Parkplatz direkt am Rand der Fußgängerzone.",
+                "hu": "Keressen parkolóhelyet közvetlenül a sétálóövezet szélén.",
+                "ro": "Căutați un loc de parcare chiar la marginea zonei pietonale.",
+                "en": "Look for a parking spot right at the edge of the pedestrian zone."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie das Parken in tief gelegenen Bereichen bei Flut und Sturm.",
+              "Halten Sie die Scheibenheizung bereit, um Beschlagen zu verhindern.",
+              "Die Küstenstraßen können bei starkem Regen anfällig für Geröll sein.",
+              "Haben Sie immer einen Regenschirm im Auto für den Weg zum Restaurant."
+            ],
+            "hu": [
+              "Kerülje a parkolást az alacsonyan fekvő területeken dagály és vihar idején.",
+              "Tartsa készenlétben a szélvédőfűtést a párásodás megelőzésére.",
+              "A parti utak heves esőzéskor hajlamosak lehetnek a törmelékfelhalmozódásra.",
+              "Mindig legyen esernyő az autóban az étteremig tartó útra."
+            ],
+            "ro": [
+              "Evitați parcarea în zonele joase în timpul fluxului și al furtunilor.",
+              "Folosiți dezaburirea parbrizului pentru a menține vizibilitatea.",
+              "Drumurile de coastă pot fi predispuse la căderi de pietre în caz de ploaie torențială.",
+              "Aveți întotdeauna o umbrelă în mașină pentru drumul spre restaurant."
+            ],
+            "en": [
+              "Avoid parking in low-lying areas during high tide and storms.",
+              "Keep the windshield defroster ready to prevent fogging.",
+              "Coastal roads can be prone to debris during heavy rain.",
+              "Always keep an umbrella in the car for the short walk to the restaurant."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen beginnt mit einer Fahrt durch die Weinberge. Mittags bietet das Museum angenehme Wärme und Kultur. Nachmittags besuchen wir den Palast und den Hafen, wobei wir die tiefstehende Sonne für Fotos nutzen. Die Tour endet gemütlich in der Altstadt, bevor die winterliche Kälte am Abend zunimmt.",
+            "hu": "Tiszta téli reggel indul egy autózással a szőlőültetvényeken keresztül. Délben a múzeum kellemes meleget és kultúrát kínál. Délután meglátogatjuk a palotát és a kikötőt, kihasználva az alacsonyan lévő napot a fotózáshoz. A túra kellemesen ér véget az óvárosban, mielőtt este fokozódna a téli hideg.",
+            "ro": "O dimineață senină de iarnă începe cu o plimbare prin podgorii. La prânz, muzeul oferă căldură plăcută și cultură. După-amiaza vizităm palatul și portul, profitând de soarele jos pentru fotografii. Turul se termină confortabil în centrul vechi, înainte ca frigul de iarnă să se intensifice seara.",
+            "en": "A clear winter morning begins with a drive through the vineyards. At noon, the museum offers pleasant warmth and culture. In the afternoon, we visit the palace and the harbor, using the low-lying sun for photos. The tour ends cozily in the old town before the winter cold intensifies in the evening."
+          },
+          "stops": [
+            {
+              "name": "Txakoli Weinberg (Besuch)",
+              "tip_5lang": {
+                "de": "Die Reben sind im Winter kahl, bieten aber eine grafisch reizvolle Landschaft.",
+                "hu": "A szőlőtőkék télen kopaszok, de grafikailag vonzó tájat nyújtanak.",
+                "ro": "Vița de vie este golașă iarna, dar oferă un peisaj grafic atractiv.",
+                "en": "The vines are bare in winter but offer a graphically attractive landscape."
+              }
+            },
+            {
+              "name": "Cristóbal Balenciaga Museum",
+              "tip_5lang": {
+                "de": "Ein warmer Ort, um die Mittagszeit sinnvoll zu verbringen.",
+                "hu": "Meleg hely a délidő hasznos eltöltéséhez.",
+                "ro": "Un loc călduros pentru a petrece util timpul prânzului.",
+                "en": "A warm place to spend your midday hours productively."
+              }
+            },
+            {
+              "name": "Palast von Aldamar",
+              "tip_5lang": {
+                "de": "Die Heizung in den Ausstellungsräumen ist im Winter sehr willkommen.",
+                "hu": "A kiállítótermek fűtése télen nagyon szívesen látott.",
+                "ro": "Încălzirea din sălile de expoziție este foarte binevenită iarna.",
+                "en": "The heating in the exhibition rooms is very welcome in winter."
+              }
+            },
+            {
+              "name": "Hafen von Getaria",
+              "tip_5lang": {
+                "de": "Das Licht am Nachmittag ist ideal für dramatische Küstenfotos.",
+                "hu": "A délutáni fény ideális a drámai parti fotókhoz.",
+                "ro": "Lumina de după-amiază este ideală pentru fotografii de coastă dramatice.",
+                "en": "The afternoon light is ideal for dramatic coastal photos."
+              }
+            },
+            {
+              "name": "Kirche San Salvador",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort für Besinnung abseits der winterlichen Brise.",
+                "hu": "Csendes hely az elmélkedésre, távol a téli fuvallattól.",
+                "ro": "Un loc liniștit pentru reflecție, departe de briza iernii.",
+                "en": "A quiet place for reflection away from the winter breeze."
+              }
+            },
+            {
+              "name": "Altstadt von Getaria",
+              "tip_5lang": {
+                "de": "Parkplätze sind im Winter leichter zu finden als im Sommer.",
+                "hu": "Télen könnyebb parkolóhelyet találni, mint nyáron.",
+                "ro": "Locurile de parcare sunt mai ușor de găsit iarna decât vara.",
+                "en": "Parking spots are easier to find in winter than in summer."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Reifendruck vor der Fahrt über die Küstenpässe.",
+              "Behalten Sie den Kraftstoffstand im Auge; Heizen verbraucht Energie.",
+              "Die Sonne blendet im Winter tiefer; Sonnenbrille nicht vergessen.",
+              "Nutzen Sie die weniger überlaufenen Parkplätze in der Nähe der Sehenswürdigkeiten."
+            ],
+            "hu": [
+              "Ellenőrizze a gumiabroncsok nyomását a parti hágókon való átkelés előtt.",
+              "Kísérje figyelemmel az üzemanyagszintet; a fűtés energiát fogyaszt.",
+              "A nap télen alacsonyabban vakít; ne felejtse otthon a napszemüveget.",
+              "Használja ki a kevésbé zsúfolt parkolókat a látnivalók közelében."
+            ],
+            "ro": [
+              "Verificați presiunea în anvelope înainte de a conduce pe drumurile de coastă.",
+              "Urmăriți nivelul combustibilului; încălzirea consumă energie.",
+              "Soarele este mai orbitor iarna fiind mai jos; nu uitați ochelarii de soare.",
+              "Folosiți parcările mai puțin aglomerate din apropierea obiectivelor turistice."
+            ],
+            "en": [
+              "Check tire pressure before driving over coastal passes.",
+              "Keep an eye on the fuel level; heating consumes energy.",
+              "The sun is more dazzling in winter as it sits lower; don't forget sunglasses.",
+              "Take advantage of the less crowded parking spots near the attractions."
+            ]
+          }
+        }
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 5.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Altstadt von Getaria",
+          "coords": [
+            -2.204,
+            43.302
+          ],
+          "category": "squares",
+          "arrive_at": "09:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Zentraler Bushalt in der Nähe.",
+            "hu": "Központi buszmegálló a közelben.",
+            "ro": "Stație centrală de autobuz în apropiere.",
+            "en": "Central bus stop nearby."
+          }
+        },
+        {
+          "name": "Cristóbal Balenciaga Museum",
+          "coords": [
+            -2.2065,
+            43.3025
+          ],
+          "category": "museums",
+          "arrive_at": "10:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Rollstuhlgerecht erreichbar.",
+            "hu": "Akadálymentesen megközelíthető.",
+            "ro": "Accesibil pentru scaune cu rotile.",
+            "en": "Wheelchair accessible."
+          }
+        },
+        {
+          "name": "Denkmal für Juan Sebastián Elkano",
+          "coords": [
+            -2.2055,
+            43.3015
+          ],
+          "category": "monuments",
+          "arrive_at": "12:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Guter Fotospot.",
+            "hu": "Jó fotópont.",
+            "ro": "Loc bun pentru poze.",
+            "en": "Great photo spot."
+          }
+        },
+        {
+          "name": "Hafen von Getaria",
+          "coords": [
+            -2.2025,
+            43.304
+          ],
+          "category": "industrial",
+          "arrive_at": "12:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Viele Restaurants zur Auswahl.",
+            "hu": "Számos étterem közül választhat.",
+            "ro": "Multe restaurante din care să alegeți.",
+            "en": "Many restaurants to choose from."
+          }
+        },
+        {
+          "name": "Kirche San Salvador",
+          "coords": [
+            -2.2035,
+            43.3035
+          ],
+          "category": "churches",
+          "arrive_at": "14:30",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ruhepause im Inneren.",
+            "hu": "Csendes pihenő odabent.",
+            "ro": "Pauză de liniște în interior.",
+            "en": "Quiet break inside."
+          }
+        },
+        {
+          "name": "Berg San Anton (Aussichtspunkt)",
+          "coords": [
+            -2.2015,
+            43.306
+          ],
+          "category": "natural",
+          "arrive_at": "15:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Vom Hafen aus zu Fuß erreichbar.",
+            "hu": "A kikötőtől gyalog érhető el.",
+            "ro": "Accesibil pe jos din port.",
+            "en": "Accessible on foot from the port."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Lurraldebus erreichen wir Getaria bequem. Wir verbringen den Vormittag mit Mode und Geschichte, genießen ein ausgiebiges Fischessen am Hafen und lassen den Tag mit dem Blick vom 'Maus-Berg' ausklingen.",
+        "hu": "A Lurraldebusszal kényelmesen elérjük Getariát. A délelőttöt divattal és történelemmel töltjük, délben egy kiadós halas ebédet eszünk a kikötőben, végül az 'Egér-hegy' kilátásával zárjuk a napot.",
+        "ro": "Ajungem confortabil în Getaria cu Lurraldebus. Petrecem dimineața cu modă și istorie, savurăm un prânz bogat cu pește în port și încheiem ziua cu vederea de pe 'muntele șoarece'.",
+        "en": "We reach Getaria comfortably with the Lurraldebus. We spend the morning with fashion and history, enjoy a hearty fish lunch at the port, and end the day with the view from 'Mouse Mountain'."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kokotxas",
+            "tip": "Baskische Seehechtkehlen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kokotxas",
+            "tip": "Baszk tőkehal-specialitás."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kokotxas",
+            "tip": "Specialitate bască din gușă de merluciu."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kokotxas",
+            "tip": "Basque hake cheeks specialty."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Mole-Ende",
+            "tip": "Windiger, einsamer Ort.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Móló vége",
+            "tip": "Szeles, magányos hely.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Capătul digului",
+            "tip": "Loc vântos și solitar.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Pier End",
+            "tip": "Windy, solitary spot.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Museumsshop",
+            "tip": "Elegante Accessoires."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Múzeumi bolt",
+            "tip": "Elegáns kiegészítők."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul muzeului",
+            "tip": "Accesorii elegante."
+          }
+        ],
+        "en": [
+          {
+            "name": "Museum Shop",
+            "tip": "Elegant accessories."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die App 'Lurraldebus'.",
+          "Die Busse fahren regelmäßig nach San Sebastian."
+        ],
+        "hu": [
+          "Használja a 'Lurraldebus' alkalmazást.",
+          "A buszok rendszeresen járnak San Sebastianba."
+        ],
+        "ro": [
+          "Folosiți aplicația 'Lurraldebus'.",
+          "Autobuzele circulă regulat spre San Sebastian."
+        ],
+        "en": [
+          "Use the 'Lurraldebus' app.",
+          "Buses run regularly to San Sebastian."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mit dem Lurraldebus erreichen wir Getaria bequem. Wir verbringen den Vormittag mit Mode und Geschichte, genießen ein ausgiebiges Fischessen am Hafen und lassen den Tag mit dem Blick vom 'Maus-Berg' ausklingen.",
+            "hu": "A Lurraldebusszal kényelmesen elérjük Getariát. A délelőttöt divattal és történelemmel töltjük, délben egy kiadós halas ebédet eszünk a kikötőben, végül az 'Egér-hegy' kilátásával zárjuk a napot.",
+            "ro": "Ajungem confortabil în Getaria cu Lurraldebus. Petrecem dimineața cu modă și istorie, savurăm un prânz bogat cu pește în port și încheiem ziua cu vederea de pe 'muntele șoarece'.",
+            "en": "We reach Getaria comfortably with the Lurraldebus. We spend the morning with fashion and history, enjoy a hearty fish lunch at the port, and end the day with the view from 'Mouse Mountain'."
+          },
+          "stops": [
+            {
+              "name": "Altstadt von Getaria",
+              "tip_5lang": {
+                "de": "Zentraler Bushalt in der Nähe.",
+                "hu": "Központi buszmegálló a közelben.",
+                "ro": "Stație centrală de autobuz în apropiere.",
+                "en": "Central bus stop nearby."
+              }
+            },
+            {
+              "name": "Cristóbal Balenciaga Museum",
+              "tip_5lang": {
+                "de": "Rollstuhlgerecht erreichbar.",
+                "hu": "Akadálymentesen megközelíthető.",
+                "ro": "Accesibil pentru scaune cu rotile.",
+                "en": "Wheelchair accessible."
+              }
+            },
+            {
+              "name": "Denkmal für Juan Sebastián Elkano",
+              "tip_5lang": {
+                "de": "Guter Fotospot.",
+                "hu": "Jó fotópont.",
+                "ro": "Loc bun pentru poze.",
+                "en": "Great photo spot."
+              }
+            },
+            {
+              "name": "Hafen von Getaria",
+              "tip_5lang": {
+                "de": "Viele Restaurants zur Auswahl.",
+                "hu": "Számos étterem közül választhat.",
+                "ro": "Multe restaurante din care să alegeți.",
+                "en": "Many restaurants to choose from."
+              }
+            },
+            {
+              "name": "Kirche San Salvador",
+              "tip_5lang": {
+                "de": "Ruhepause im Inneren.",
+                "hu": "Csendes pihenő odabent.",
+                "ro": "Pauză de liniște în interior.",
+                "en": "Quiet break inside."
+              }
+            },
+            {
+              "name": "Berg San Anton (Aussichtspunkt)",
+              "tip_5lang": {
+                "de": "Vom Hafen aus zu Fuß erreichbar.",
+                "hu": "A kikötőtől gyalog érhető el.",
+                "ro": "Accesibil pe jos din port.",
+                "en": "Accessible on foot from the port."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Kokotxas",
+                "tip": "Baskische Seehechtkehlen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Kokotxas",
+                "tip": "Baszk tőkehal-specialitás."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Kokotxas",
+                "tip": "Specialitate bască din gușă de merluciu."
+              }
+            ],
+            "en": [
+              {
+                "name": "Kokotxas",
+                "tip": "Basque hake cheeks specialty."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Mole-Ende",
+                "tip": "Windiger, einsamer Ort.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Móló vége",
+                "tip": "Szeles, magányos hely.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Capătul digului",
+                "tip": "Loc vântos și solitar.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Pier End",
+                "tip": "Windy, solitary spot.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Museumsshop",
+                "tip": "Elegante Accessoires."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Múzeumi bolt",
+                "tip": "Elegáns kiegészítők."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Magazinul muzeului",
+                "tip": "Accesorii elegante."
+              }
+            ],
+            "en": [
+              {
+                "name": "Museum Shop",
+                "tip": "Elegant accessories."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Nutzen Sie die App 'Lurraldebus'.",
+              "Die Busse fahren regelmäßig nach San Sebastian."
+            ],
+            "hu": [
+              "Használja a 'Lurraldebus' alkalmazást.",
+              "A buszok rendszeresen járnak San Sebastianba."
+            ],
+            "ro": [
+              "Folosiți aplicația 'Lurraldebus'.",
+              "Autobuzele circulă regulat spre San Sebastian."
+            ],
+            "en": [
+              "Use the 'Lurraldebus' app.",
+              "Buses run regularly to San Sebastian."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Dank der Busverbindungen bleiben wir am Vormittag weitgehend trocken. Mittags ist das Balenciaga Museum ein idealer Stopp mit Bushaltestellen in der Nähe. Nachmittags besichtigen wir den Hafen und die Kirche, wobei wir kurze Laufwege nutzen. Die Tour endet bequem mit der Rückfahrt im warmen Bus.",
+            "hu": "A buszjáratoknak köszönhetően délelőtt nagyrészt szárazon maradunk. Délben a Balenciaga Múzeum ideális megálló, a közelben lévő buszmegállókkal. Délután meglátogatjuk a kikötőt és a templomot, rövid gyalogutakat használva. A túra kényelmesen ér véget a visszautazással a meleg buszon.",
+            "ro": "Datorită conexiunilor de autobuz, rămânem în mare parte uscați dimineața. La prânz, Muzeul Balenciaga este o oprire ideală, cu stații de autobuz în apropiere. După-amiaza vizităm portul și biserica, folosind trasee scurte de mers pe jos. Turul se termină confortabil cu drumul de întoarcere în autobuzul cald.",
+            "en": "Thanks to the bus connections, we stay mostly dry in the morning. At noon, the Balenciaga Museum is an ideal stop with bus stations nearby. In the afternoon, we visit the harbor and the church, using short walking distances. The tour ends comfortably with the return trip on the warm bus."
+          },
+          "stops": [
+            {
+              "name": "Altstadt von Getaria",
+              "tip_5lang": {
+                "de": "Die Bushaltestellen bieten meist kleine Unterstände gegen Regen.",
+                "hu": "A buszmegállók többnyire kis menedéket nyújtanak az eső ellen.",
+                "ro": "Stațiile de autobuz oferă de obicei mici adăposturi împotriva ploii.",
+                "en": "Bus stops usually offer small shelters against the rain."
+              }
+            },
+            {
+              "name": "Cristóbal Balenciaga Museum",
+              "tip_5lang": {
+                "de": "Nur ein kurzer Fußweg von der Haupthaltestelle entfernt.",
+                "hu": "Csak egy rövid séta a fő buszmegállótól.",
+                "ro": "La doar o scurtă plimbare de stația principală.",
+                "en": "Just a short walk from the main bus stop."
+              }
+            },
+            {
+              "name": "Denkmal für Juan Sebastián Elkano",
+              "tip_5lang": {
+                "de": "Zwischenstopp auf dem Weg zur nächsten Haltestelle.",
+                "hu": "Köztes megálló a következő buszmegálló felé vezető úton.",
+                "ro": "Oprire intermediară în drumul spre următoarea stație.",
+                "en": "Intermediate stop on the way to the next bus station."
+              }
+            },
+            {
+              "name": "Hafen von Getaria",
+              "tip_5lang": {
+                "de": "Bei starkem Regen ist der Weg zum Hafen vom Bus aus etwas exponiert.",
+                "hu": "Heves esőben a kikötőhöz vezető út a busztól kissé kitett.",
+                "ro": "În caz de ploaie torențială, drumul spre port de la autobuz este puțin expus.",
+                "en": "In heavy rain, the path to the harbor from the bus is somewhat exposed."
+              }
+            },
+            {
+              "name": "Kirche San Salvador",
+              "tip_5lang": {
+                "de": "Zentral gelegen und gut mit den lokalen Buslinien erreichbar.",
+                "hu": "Központi elhelyezkedésű, és jól elérhető a helyi buszjáratokkal.",
+                "ro": "Situată central și ușor accesibilă cu liniile de autobuz locale.",
+                "en": "Centrally located and easily accessible by local bus lines."
+              }
+            },
+            {
+              "name": "Berg San Anton (Aussichtspunkt)",
+              "tip_5lang": {
+                "de": "Bei Regen kann der Weg zum Aussichtspunkt rutschig sein; vorsichtig gehen.",
+                "hu": "Esőben a kilátóhoz vezető út csúszós lehet; óvatosan közlekedjen.",
+                "ro": "Pe ploaie, drumul spre punctul de belvedere poate fi alunecos; mergeți cu atenție.",
+                "en": "In the rain, the path to the viewpoint can be slippery; walk carefully."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Lurraldebus-App für Echtzeit-Infos bei Wetterverzögerungen.",
+              "Halten Sie Kleingeld oder eine Mugi-Karte für den schnellen Einstieg bereit.",
+              "An den Haltestellen kann es bei Wind sehr zugig sein; warm einpacken.",
+              "Die Busse sind klimatisiert und bieten eine gute Trockenpause."
+            ],
+            "hu": [
+              "Használja a Lurraldebus alkalmazást a valós idejű információkért időjárási késések esetén.",
+              "Legyen kéznél aprópénz vagy Mugi-kártya a gyors felszálláshoz.",
+              "A megállókban szél esetén nagyon huzatos lehet; öltözzön melegen.",
+              "A buszok légkondicionáltak, és jó lehetőséget nyújtanak a megszáradásra."
+            ],
+            "ro": [
+              "Folosiți aplicația Lurraldebus pentru informații în timp real în caz de întârzieri din cauza vremii.",
+              "Aveți la îndemână mărunțiș sau un card Mugi pentru o îmbarcare rapidă.",
+              "În stații poate fi foarte mult curent când bate vântul; îmbrăcați-vă bine.",
+              "Autobuzele sunt climatizate și oferă o pauză bună pentru a vă usca."
+            ],
+            "en": [
+              "Use the Lurraldebus app for real-time info during weather delays.",
+              "Have small change or a Mugi card ready for quick boarding.",
+              "Bus stops can be very draughty in the wind; wrap up warm.",
+              "Buses are climate-controlled and offer a good chance to dry off."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen beginnt mit einer Busfahrt in die Altstadt. Mittags wärmen wir uns im Museum auf, das perfekt angebunden ist. Nachmittags besichtigen wir die Sehenswürdigkeiten im Stadtzentrum, bevor wir am frühen Abend den Aussichtspunkt besuchen. Die Rückfahrt erfolgt im gemütlich beheizten Bus.",
+            "hu": "A téli reggel egy buszozással indul az óvárosba. Délben a múzeumban melegszünk fel, amely tökéletes közlekedési kapcsolattal rendelkezik. Délután megtekintjük a városközpont látnivalóit, mielőtt kora este ellátogatnánk a kilátóhoz. A visszautazás kellemesen fűtött buszon történik.",
+            "ro": "Dimineața de iarnă începe cu o călătorie cu autobuzul spre centrul vechi. La prânz ne încălzim la muzeu, care este perfect conectat. După-amiaza vizităm obiectivele din centrul orașului, înainte de a merge la punctul de belvedere seara devreme. Întoarcerea are loc cu un autobuz încălzit confortabil.",
+            "en": "The winter morning starts with a bus ride to the old town. At noon, we warm up in the museum, which is perfectly connected. In the afternoon, we visit the sights in the city center before heading to the viewpoint in the early evening. The return journey is on a comfortably heated bus."
+          },
+          "stops": [
+            {
+              "name": "Altstadt von Getaria",
+              "tip_5lang": {
+                "de": "Die Busse fahren im Winter nach dem regulären Fahrplan.",
+                "hu": "A buszok télen a rendes menetrend szerint közlekednek.",
+                "ro": "Autobuzele circulă iarna conform programului obișnuit.",
+                "en": "Buses run according to the regular schedule during winter."
+              }
+            },
+            {
+              "name": "Cristóbal Balenciaga Museum",
+              "tip_5lang": {
+                "de": "Ein kurzer Spaziergang hält den Kreislauf in Schwung.",
+                "hu": "Egy rövid séta segít fitten tartani a keringést.",
+                "ro": "O scurtă plimbare menține circulația activă.",
+                "en": "A short walk keeps your circulation going in the cold."
+              }
+            },
+            {
+              "name": "Denkmal für Juan Sebastián Elkano",
+              "tip_5lang": {
+                "de": "Das Denkmal wirkt im harten Winterlicht besonders imposant.",
+                "hu": "Az emlékmű a kemény téli fényben különösen impozánsan mutat.",
+                "ro": "Monumentul arată deosebit de impunător în lumina aspră de iarnă.",
+                "en": "The monument looks particularly imposing in the harsh winter light."
+              }
+            },
+            {
+              "name": "Hafen von Getaria",
+              "tip_5lang": {
+                "de": "Vermeiden Sie langes Stehen an zugigen Haltestellen am Hafen.",
+                "hu": "Kerülje a hosszas várakozást a huzatos kikötői megállókban.",
+                "ro": "Evitați staționarea prelungită în stațiile de autobuz cu curent din port.",
+                "en": "Avoid standing for long at draughty bus stops by the harbor."
+              }
+            },
+            {
+              "name": "Kirche San Salvador",
+              "tip_5lang": {
+                "de": "Ein schöner Ort, um auf den nächsten Bus zu warten.",
+                "hu": "Kellemes hely a következő buszra való várakozáshoz.",
+                "ro": "Un loc frumos pentru a aștepta următorul autobuz.",
+                "en": "A nice place to wait for the next bus."
+              }
+            },
+            {
+              "name": "Berg San Anton (Aussichtspunkt)",
+              "tip_5lang": {
+                "de": "Achten Sie auf die Abfahrtszeiten des letzten Busses nach dem Sonnenuntergang.",
+                "hu": "Ügyeljen az utolsó busz indulási idejére a naplemente után.",
+                "ro": "Fiți atenți la orele de plecare ale ultimului autobuz după apus.",
+                "en": "Watch out for the last bus departure times after sunset."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Warten Sie in nahegelegenen Cafés auf den Bus, wenn es draußen zu kalt ist.",
+              "Die Fahrpläne können an Feiertagen im Winter variieren.",
+              "Sichern Sie sich einen Fensterplatz für die schöne Küstenaussicht im Winterlicht.",
+              "Tragen Sie rutschfeste Schuhe für die Wege zwischen Haltestelle und Ziel."
+            ],
+            "hu": [
+              "Várjon a közeli kávézókban a buszra, ha kint túl hideg van.",
+              "A menetrendek a téli ünnepek idején változhatnak.",
+              "Biztosítson magának ablak melletti helyet a téli fényben pompázó parti kilátáshoz.",
+              "Viseljen csúszásmentes cipőt a megálló és az úti cél közötti utakhoz."
+            ],
+            "ro": [
+              "Așteptați autobuzul în cafenelele din apropiere dacă este prea frig afară.",
+              "Orarele pot varia în timpul sărbătorilor de iarnă.",
+              "Ocupați un loc la fereastră pentru priveliștea de coastă în lumina de iarnă.",
+              "Purtați încălțăminte antiderapantă pentru drumurile între stație și destinație."
+            ],
+            "en": [
+              "Wait for the bus in nearby cafes if it's too cold outside.",
+              "Schedules may vary during winter holidays.",
+              "Grab a window seat for the beautiful coastal views in the winter light.",
+              "Wear non-slip shoes for the walks between the bus stop and your destination."
+            ]
+          }
+        }
+      }
+    }
+  },
+  "external_resources": {
+    "tourism_office": "https://www.getaria.eus/turismo",
+    "events": "https://www.getaria.eus/agenda",
+    "transit_official": "https://www.euskotren.eus/",
+    "language_tips": {
+      "de": "Sehr baskisch geprägt, Euskara dominiert die Gespräche zwischen Einheimischen. Im Balenciaga-Museum perfektes Englisch und Französisch. In den Grill-Restaurants am Hafen ('asadores') reicht Spanisch und gestikulieren - der Fisch spricht für sich.",
+      "hu": "Erősen baszk hangulat, a helyiek egymás közt euskarául beszélnek. A Balenciaga Múzeumban tökéletes angol-francia kiszolgálás. A kikötői grill-éttermekben ('asadores') a spanyol és a mutogatás elég, a hal beszél magáért.",
+      "ro": "Foarte basc, locuitorii vorbesc între ei euskara. La Muzeul Balenciaga, engleză și franceză perfecte. La restaurantele cu grătar din port ('asadores') ajunge spaniola și gesturile, peștele vorbește singur.",
+      "en": "Strongly Basque-feeling - locals chat in Euskara among themselves. The Balenciaga Museum has perfect English and French service. At the harbour grill restaurants ('asadores'), Spanish and pointing suffice; the fish speaks for itself."
+    },
+    "best_time_to_visit": {
+      "de": "Mai bis Oktober für Hafen-Restaurants und Txakoli-Tour. Erstes Wochenende im Juli Txakoli-Festival, Weinprobe in den Weinkellern oberhalb des Dorfes. Mittagessen am Hafen 13-15 Uhr, abends 21 Uhr - dazwischen ist alles zu.",
+      "hu": "Május-október a kikötői éttermekhez és txakoli (helyi habzóbor) borútakhoz. Július első hétvégéje a Txakoli-fesztivál, kóstoló a falu feletti pincékben. Ebéd a kikötőben 13-15 között, vacsora 21-től, közte minden zárva.",
+      "ro": "Mai-octombrie pentru restaurantele din port și turul de txakoli (vinul spumant local). Primul weekend din iulie e Festivalul Txakoli, degustări în crame deasupra satului. Prânz în port 13-15, cina de la 21, între ele totul închis.",
+      "en": "May to October for harbour grills and txakoli wine tours. The first weekend of July is the Txakoli Festival, with tastings in the hilltop wineries. Lunch 1-3 pm, dinner from 9 pm - everything closes in between."
+    },
+    "neighborhood_warnings": {
+      "de": "Sehr sicher, kleines Fischerdorf. Die Hauptstraße ist eng und einbahnstraße - vermeide es, im Sommer mit dem Auto reinzufahren, Parkplätze nur am Ortseingang. Mausgrau-Insel zu Fuß über den Damm erreichbar, bei Sturm aber gesperrt.",
+      "hu": "Nagyon biztonságos, kis halászfalu. A főutca szűk és egyirányú, nyáron ne autózz be, parkoló csak a falu szélén. A San Antón-szigetig (Mausgrau) gát vezet, viharban lezárják.",
+      "ro": "Foarte sigur, sat de pescari mic. Strada principală e îngustă și cu sens unic, vara nu intra cu mașina, parcările sunt doar la intrare. Insula San Antón se ajunge pe jos pe dig, dar pe furtună e închisă.",
+      "en": "Very safe, small fishing village. The main street is narrow one-way - don't drive in summer, parking is only at the village entrance. The San Antón islet is reachable on foot via the causeway, but closed in storms."
+    }
+  }
+}

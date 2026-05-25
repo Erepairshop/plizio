@@ -1,0 +1,2508 @@
+{
+  "city_id": "ribadeo",
+  "anchor": {
+    "name": "Ribadeo",
+    "coords": [
+      -7.0431,
+      43.5378
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "15:40",
+      "total_km": 2.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Plaza de España",
+            "hu": "Plaza de España",
+            "ro": "Plaza de España",
+            "en": "Plaza de España"
+          },
+          "coords": [
+            -7.0435,
+            43.5375
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Der perfekte Ort, um die Architektur des Rathauses zu bewundern.",
+            "hu": "Kiváló hely a városháza neoklasszicista épületének megtekintéséhez.",
+            "ro": "Locul perfect pentru a admira arhitectura neoclasică a primăriei.",
+            "en": "The perfect spot to admire the neoclassical architecture of the town hall."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre de los Moreno",
+            "hu": "Torre de los Moreno",
+            "ro": "Torre de los Moreno",
+            "en": "Torre de los Moreno"
+          },
+          "coords": [
+            -7.0438,
+            43.5372
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Achten Sie auf die Jugendstil-Details an der Fassade.",
+            "hu": "Figyelje meg a homlokzat szecessziós díszítéseit.",
+            "ro": "Observați detaliile moderniste de pe fațadă.",
+            "en": "Notice the modernist details on the facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Barrio de San Roque",
+            "hu": "San Roque negyed",
+            "ro": "Barrio de San Roque",
+            "en": "Barrio de San Roque"
+          },
+          "coords": [
+            -7.046,
+            43.5365
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:35",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch die engen Gassen mit den indianischen Häusern.",
+            "hu": "Sétáljon az 'indiano' házak között a hangulatos utcákban.",
+            "ro": "Plimbați-vă printre casele 'indiano' de pe străzile pitorești.",
+            "en": "Walk among the 'indiano' houses in the narrow streets."
+          }
+        },
+        {
+          "name": {
+            "de": "Capilla de la Atalaya",
+            "hu": "Atalaya-kápolna",
+            "ro": "Capilla de la Atalaya",
+            "en": "Capilla de la Atalaya"
+          },
+          "coords": [
+            -7.0395,
+            43.5385
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Genießen Sie den Blick auf die Flussmündung von der Klippe.",
+            "hu": "Élvezze a kilátást a folyótorkolatra a szikla széléről.",
+            "ro": "Bucurați-vă de priveliștea asupra estuarului de pe faleză.",
+            "en": "Enjoy the views over the estuary from the cliffside."
+          }
+        },
+        {
+          "name": {
+            "de": "Puerto de Ribadeo",
+            "hu": "Ribadeo kikötője",
+            "ro": "Portul Ribadeo",
+            "en": "Puerto de Ribadeo"
+          },
+          "coords": [
+            -7.037,
+            43.539
+          ],
+          "category": "port",
+          "arrive_at": "12:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Beobachten Sie das Treiben der Fischerboote am Kai.",
+            "hu": "Figyelje a halászhajók mozgását a rakparton.",
+            "ro": "Urmăriți activitatea bărcilor de pescuit la chei.",
+            "en": "Watch the fishing boats at the quay."
+          }
+        },
+        {
+          "name": {
+            "de": "Pazo de Ibáñez",
+            "hu": "Ibáñez-palota",
+            "ro": "Pazo de Ibáñez",
+            "en": "Pazo de Ibáñez"
+          },
+          "coords": [
+            -7.0432,
+            43.5377
+          ],
+          "category": "famous residences",
+          "arrive_at": "13:50",
+          "stay_min": 110,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein prächtiges Beispiel galizischer Adelsarchitektur.",
+            "hu": "A galíciai nemesi építészet pazar példája.",
+            "ro": "Un exemplu magnific de arhitectură nobiliară galiciană.",
+            "en": "A magnificent example of Galician noble architecture."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens erkunden Sie das elegante Zentrum von Ribadeo mit seinen modernistischen Einflüssen und dem historischen Platz. Mittags tauchen Sie in das Indianer-Viertel San Roque ein, wo prachtvolle Villen von Übersee-Rückkehrern zeugen. Am Nachmittag spazieren Sie zur Atalaya-Kappelle für Panoramablicke und beenden den Tag im lebhaften Hafenviertel.",
+        "hu": "Reggel Ribadeo elegáns központját fedezzük fel, ahol a szecesszió és a klasszikus terek találkoznak. Délben a San Roque negyed 'indiano' villái között kalandozunk, felidézve a Kubából visszatérők gazdagságát. Délután az Atalaya-kápolna szikláiról csodáljuk a torkolatot, majd a kikötő forgatagában zárjuk a napot.",
+        "ro": "Dimineața explorați centrul elegant al Ribadeo, cu influențele sale moderniste și piața istorică. La prânz, vizitați cartierul San Roque, unde vilele impunătoare amintesc de emigranții întorși din America. După-amiaza, mergeți la capela Atalaya pentru vederi panoramice și încheiați ziua în portul plin de viață.",
+        "en": "In the morning, explore Ribadeo's elegant center with its modernist touches and historic main square. At midday, wander through the San Roque district, where grand villas tell the story of returning emigrants. In the afternoon, walk to the Atalaya Chapel for panoramic views and finish your day at the bustling port area."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pulpo á feira",
+            "tip": "Probieren Sie den traditionellen galizischen Oktopus in einer der Tabernas am Hafen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pulpo á feira",
+            "tip": "Kóstolja meg a hagyományos galíciai polipot a kikötő melletti tavernák egyikében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pulpo á feira",
+            "tip": "Gustați tradiționalul caracatiță galiciană într-una dintre tavernele din port."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pulpo á feira",
+            "tip": "Try the traditional Galician octopus in one of the taverns near the port."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Mirador de la Atalaya",
+            "tip": "Ruhiger Aussichtspunkt über die Ría de Ribadeo.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mirador de la Atalaya",
+            "tip": "Csendes kilátópont a Ribadeo-öböl felett.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mirador de la Atalaya",
+            "tip": "Punct de observație liniștit deasupra Ría de Ribadeo.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Mirador de la Atalaya",
+            "tip": "Quiet viewpoint overlooking the Ría de Ribadeo.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Rúa de San Roque",
+            "tip": "Kleine Läden mit lokalem Kunsthandwerk und galizischen Spezialitäten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rúa de San Roque",
+            "tip": "Helyi kézműves termékeket és galíciai ínyencségeket kínáló kisboltok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rúa de San Roque",
+            "tip": "Magazine mici cu artizanat local și specialități galiciene."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rúa de San Roque",
+            "tip": "Small shops with local crafts and Galician specialties."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Ribadeo ist sehr gut zu Fuß begehbar.",
+          "Besuchen Sie die Tourist-Information an der Plaza de España.",
+          "Der Hafen bietet mittags die beste Atmosphäre.",
+          "Tragen Sie bequeme Schuhe für die kopfsteingepflasterten Gassen."
+        ],
+        "hu": [
+          "Ribadeo kiválóan felfedezhető gyalogosan.",
+          "Keresse fel a Plaza de España-n található információs irodát.",
+          "A kikötő környéke ebédidőben a leghangulatosabb.",
+          "Viseljen kényelmes cipőt a macskaköves utcákhoz."
+        ],
+        "ro": [
+          "Ribadeo este foarte ușor de explorat pe jos.",
+          "Vizitați biroul de turism din Plaza de España.",
+          "Zona portului are cea mai bună atmosferă la prânz.",
+          "Purtați încălțăminte confortabilă pentru străzile pietruite."
+        ],
+        "en": [
+          "Ribadeo is very walkable.",
+          "Visit the tourist information office at Plaza de España.",
+          "The port area has the best atmosphere at lunchtime.",
+          "Wear comfortable shoes for the cobbled streets."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Morgens erkunden Sie das elegante Zentrum von Ribadeo mit seinen modernistischen Einflüssen und dem historischen Platz. Mittags tauchen Sie in das Indianer-Viertel San Roque ein, wo prachtvolle Villen von Übersee-Rückkehrern zeugen. Am Nachmittag spazieren Sie zur Atalaya-Kappelle für Panoramablicke und beenden den Tag im lebhaften Hafenviertel.",
+            "hu": "Reggel Ribadeo elegáns központját fedezzük fel, ahol a szecesszió és a klasszikus terek találkoznak. Délben a San Roque negyed 'indiano' villái között kalandozunk, felidézve a Kubából visszatérők gazdagságát. Délután az Atalaya-kápolna szikláiról csodáljuk a torkolatot, majd a kikötő forgatagában zárjuk a napot.",
+            "ro": "Dimineața explorați centrul elegant al Ribadeo, cu influențele sale moderniste și piața istorică. La prânz, vizitați cartierul San Roque, unde vilele impunătoare amintesc de emigranții întorși din America. După-amiaza, mergeți la capela Atalaya pentru vederi panoramice și încheiați ziua în portul plin de viață.",
+            "en": "In the morning, explore Ribadeo's elegant center with its modernist touches and historic main square. At midday, wander through the San Roque district, where grand villas tell the story of returning emigrants. In the afternoon, walk to the Atalaya Chapel for panoramic views and finish your day at the bustling port area."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Plaza de España",
+                "hu": "Plaza de España",
+                "ro": "Plaza de España",
+                "en": "Plaza de España"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Ort, um die Architektur des Rathauses zu bewundern.",
+                "hu": "Kiváló hely a városháza neoklasszicista épületének megtekintéséhez.",
+                "ro": "Locul perfect pentru a admira arhitectura neoclasică a primăriei.",
+                "en": "The perfect spot to admire the neoclassical architecture of the town hall."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre de los Moreno",
+                "hu": "Torre de los Moreno",
+                "ro": "Torre de los Moreno",
+                "en": "Torre de los Moreno"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf die Jugendstil-Details an der Fassade.",
+                "hu": "Figyelje meg a homlokzat szecessziós díszítéseit.",
+                "ro": "Observați detaliile moderniste de pe fațadă.",
+                "en": "Notice the modernist details on the facade."
+              }
+            },
+            {
+              "name": {
+                "de": "Barrio de San Roque",
+                "hu": "San Roque negyed",
+                "ro": "Barrio de San Roque",
+                "en": "Barrio de San Roque"
+              },
+              "tip_5lang": {
+                "de": "Spazieren Sie durch die engen Gassen mit den indianischen Häusern.",
+                "hu": "Sétáljon az 'indiano' házak között a hangulatos utcákban.",
+                "ro": "Plimbați-vă printre casele 'indiano' de pe străzile pitorești.",
+                "en": "Walk among the 'indiano' houses in the narrow streets."
+              }
+            },
+            {
+              "name": {
+                "de": "Capilla de la Atalaya",
+                "hu": "Atalaya-kápolna",
+                "ro": "Capilla de la Atalaya",
+                "en": "Capilla de la Atalaya"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die Flussmündung von der Klippe.",
+                "hu": "Élvezze a kilátást a folyótorkolatra a szikla széléről.",
+                "ro": "Bucurați-vă de priveliștea asupra estuarului de pe faleză.",
+                "en": "Enjoy the views over the estuary from the cliffside."
+              }
+            },
+            {
+              "name": {
+                "de": "Puerto de Ribadeo",
+                "hu": "Ribadeo kikötője",
+                "ro": "Portul Ribadeo",
+                "en": "Puerto de Ribadeo"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das Treiben der Fischerboote am Kai.",
+                "hu": "Figyelje a halászhajók mozgását a rakparton.",
+                "ro": "Urmăriți activitatea bărcilor de pescuit la chei.",
+                "en": "Watch the fishing boats at the quay."
+              }
+            },
+            {
+              "name": {
+                "de": "Pazo de Ibáñez",
+                "hu": "Ibáñez-palota",
+                "ro": "Pazo de Ibáñez",
+                "en": "Pazo de Ibáñez"
+              },
+              "tip_5lang": {
+                "de": "Ein prächtiges Beispiel galizischer Adelsarchitektur.",
+                "hu": "A galíciai nemesi építészet pazar példája.",
+                "ro": "Un exemplu magnific de arhitectură nobiliară galiciană.",
+                "en": "A magnificent example of Galician noble architecture."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Pulpo á feira",
+                "tip": "Probieren Sie den traditionellen galizischen Oktopus in einer der Tabernas am Hafen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Pulpo á feira",
+                "tip": "Kóstolja meg a hagyományos galíciai polipot a kikötő melletti tavernák egyikében."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Pulpo á feira",
+                "tip": "Gustați tradiționalul caracatiță galiciană într-una dintre tavernele din port."
+              }
+            ],
+            "en": [
+              {
+                "name": "Pulpo á feira",
+                "tip": "Try the traditional Galician octopus in one of the taverns near the port."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Mirador de la Atalaya",
+                "tip": "Ruhiger Aussichtspunkt über die Ría de Ribadeo.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Mirador de la Atalaya",
+                "tip": "Csendes kilátópont a Ribadeo-öböl felett.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Mirador de la Atalaya",
+                "tip": "Punct de observație liniștit deasupra Ría de Ribadeo.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Mirador de la Atalaya",
+                "tip": "Quiet viewpoint overlooking the Ría de Ribadeo.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Rúa de San Roque",
+                "tip": "Kleine Läden mit lokalem Kunsthandwerk und galizischen Spezialitäten."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Rúa de San Roque",
+                "tip": "Helyi kézműves termékeket és galíciai ínyencségeket kínáló kisboltok."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Rúa de San Roque",
+                "tip": "Magazine mici cu artizanat local și specialități galiciene."
+              }
+            ],
+            "en": [
+              {
+                "name": "Rúa de San Roque",
+                "tip": "Small shops with local crafts and Galician specialties."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Ribadeo ist sehr gut zu Fuß begehbar.",
+              "Besuchen Sie die Tourist-Information an der Plaza de España.",
+              "Der Hafen bietet mittags die beste Atmosphäre.",
+              "Tragen Sie bequeme Schuhe für die kopfsteingepflasterten Gassen."
+            ],
+            "hu": [
+              "Ribadeo kiválóan felfedezhető gyalogosan.",
+              "Keresse fel a Plaza de España-n található információs irodát.",
+              "A kikötő környéke ebédidőben a leghangulatosabb.",
+              "Viseljen kényelmes cipőt a macskaköves utcákhoz."
+            ],
+            "ro": [
+              "Ribadeo este foarte ușor de explorat pe jos.",
+              "Vizitați biroul de turism din Plaza de España.",
+              "Zona portului are cea mai bună atmosferă la prânz.",
+              "Purtați încălțăminte confortabilă pentru străzile pietruite."
+            ],
+            "en": [
+              "Ribadeo is very walkable.",
+              "Visit the tourist information office at Plaza de España.",
+              "The port area has the best atmosphere at lunchtime.",
+              "Wear comfortable shoes for the cobbled streets."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag unter den schützenden Arkaden der Plaza de España, während der galicische Regen die Stadt in ein sanftes Grau taucht. Mittags bietet die Torre de los Moreno einen majestätischen Anblick, wobei die nassen Fassaden die Farben intensivieren. Nachmittags führt der Weg durch das Viertel San Roque, wo die bunten Häuser trotz der Wolken leuchten. Den Abend lassen Sie gemütlich in einem der Restaurants am Hafen ausklingen.",
+            "hu": "Kezdje a napot a Plaza de España árkádjai alatt, miközben a galíciai eső lágy szürkeségbe öltözteti a várost. Délben a Torre de los Moreno fenséges látványt nyújt, a nedves homlokzatok pedig felerősítik a színeket. Délután a San Roque negyed színes házai között sétálhatunk, amelyek a felhők ellenére is ragyognak. Az estét töltsük kellemesen a kikötő egyik éttermében, figyelve a vizet.",
+            "ro": "Începeți ziua sub arcadele protectoare din Plaza de España, în timp ce ploaia galiciană îmbracă orașul într-un gri blând. La prânz, Torre de los Moreno oferă o priveliște maiestuoasă, fațadele umede intensificând culorile. După-amiaza, drumul duce prin cartierul San Roque, unde casele colorate strălucesc în ciuda norilor. Încheiați seara confortabil într-unul dintre restaurantele din port.",
+            "en": "Start the day under the protective arcades of Plaza de España as the Galician rain paints the town in soft grey. At noon, Torre de los Moreno offers a majestic sight, with wet facades intensifying the architectural details. In the afternoon, walk through the San Roque district, where the colorful houses shine despite the clouds. Spend a cozy evening in one of the port restaurants watching the rain over the estuary."
+          },
+          "stops": [
+            {
+              "name": "Plaza de España",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkaden des Rathauses als trockenen Unterstand bei plötzlichem Schauer.",
+                "hu": "Használja a városháza árkádjait száraz menedékként hirtelen zápor esetén.",
+                "ro": "Folosiți arcadele primăriei ca adăpost uscat în caz de aversă bruscă.",
+                "en": "Use the Town Hall arcades as a dry shelter during sudden rain showers."
+              }
+            },
+            {
+              "name": "Torre de los Moreno",
+              "tip_5lang": {
+                "de": "Bewundern Sie die modernistische Kuppel; der nasse Schiefer glänzt im Regen besonders schön.",
+                "hu": "Csodálja meg a modernista kupolát; a nedves pala különösen szépen csillog az esőben.",
+                "ro": "Admirați cupola modernistă; ardezia umedă strălucește deosebit de frumos în ploaie.",
+                "en": "Admire the modernist dome; the wet slate glitters beautifully in the rain."
+              }
+            },
+            {
+              "name": "Barrio de San Roque",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem Kopfsteinpflaster, die bunten Casas de Indianos sind ideale Fotomotive.",
+                "hu": "Vigyázzon a macskaköveken, a színes indiai házak ideális fotótémák esőben is.",
+                "ro": "Atenție pe pavaj, casele colorate ale indienilor sunt motive foto ideale chiar și pe ploaie.",
+                "en": "Watch your step on the cobbles; the colorful Indiano houses are perfect photo spots even in rain."
+              }
+            },
+            {
+              "name": "Capilla de la Atalaya",
+              "tip_5lang": {
+                "de": "Der Aussichtspunkt ist windanfällig; halten Sie Ihren Regenschirm gut fest.",
+                "hu": "A kilátóhely szeles lehet; fogja szorosan az esernyőjét a Ría felett.",
+                "ro": "Punctul de belvedere este expus vântului; țineți bine umbrela deasupra estuarului.",
+                "en": "The viewpoint is prone to wind; hold your umbrella tightly over the estuary."
+              }
+            },
+            {
+              "name": "Puerto de Ribadeo",
+              "tip_5lang": {
+                "de": "Perfekter Ort für eine lange Mittagspause mit Blick auf die Fischerboote im Regen.",
+                "hu": "Tökéletes hely egy hosszú ebédszünethez, kilátással az esőben pihenő halászhajókra.",
+                "ro": "Loc perfect pentru o pauză lungă de prânz, cu vedere la bărcile de pescuit în ploaie.",
+                "en": "Perfect spot for a long lunch break with a view of the fishing boats in the rain."
+              }
+            },
+            {
+              "name": "Pazo de Ibáñez",
+              "tip_5lang": {
+                "de": "Das neoklassizistische Gebäude wirkt bei bewölktem Himmel besonders monumental.",
+                "hu": "A neoklasszicista épület felhős égbolt alatt különösen monumentálisnak hat.",
+                "ro": "Clădirea neoclasică pare deosebit de monumentală sub cerul înnorat.",
+                "en": "The neoclassical building looks particularly monumental under cloudy skies."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe, da das Kopfsteinpflaster in der Altstadt rutschig wird.",
+              "Galicischer Nieselregen (Orballo) ist tückisch; eine leichte Regenjacke ist Pflicht.",
+              "Die Cafés in der Calle Rodriguez Murias bieten gemütliche Rückzugsorte.",
+              "Nutzen Sie die Fahrstühle am Hafen, um steile, nasse Treppen zu vermeiden."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt, mert az óváros macskakövei csúszóssá válnak.",
+              "A galíciai szitáló eső (orballo) csalóka; egy könnyű esőkabát kötelező.",
+              "A Calle Rodriguez Murias kávézói barátságos menedéket nyújtanak.",
+              "Használja a kikötői liftet, hogy elkerülje a meredek, nedves lépcsőket."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă, deoarece pavajul din orașul vechi devine alunecos.",
+              "Burnița galiciană (orballo) este înșelătoare; o jachetă ușoară de ploaie este obligatorie.",
+              "Cafenelele de pe strada Rodriguez Murias oferă refugii primitoare.",
+              "Folosiți liftul din port pentru a evita scările abrupte și umede."
+            ],
+            "en": [
+              "Wear waterproof shoes as the old town cobbles become slippery when wet.",
+              "Galician drizzle (orballo) is deceptive; a light raincoat is a must.",
+              "The cafes on Rodriguez Murias street offer cozy indoor retreats.",
+              "Use the port elevator to avoid steep, wet stairs during your walk."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie Ribadeo im klaren Winterlicht, wenn die Plaza de España in eine ruhige Atmosphäre getaucht ist. Mittags glänzt die Torre de los Moreno unter der tiefstehenden Sonne. Der Nachmittag im San Roque Viertel ist perfekt für einen Spaziergang bei frischer Meeresbrise. Zum Sonnenuntergang bietet die Atalaya einen weiten Blick über die Eo-Mündung, bevor die Lichter der Stadt den Winterabend erhellen.",
+            "hu": "Tapasztalja meg Ribadeót a tiszta téli fényekben, amikor a Plaza de España nyugodt hangulatba burkolózik. Délben a Torre de los Moreno csillog az alacsonyan járó nap alatt. A délután a San Roque negyedben tökéletes egy sétához a friss tengeri szellőben. Naplementekor az Atalaya tágas kilátást nyújt az Eo torkolatára, mielőtt a város fényei kigyúlnak.",
+            "ro": "Experimentați Ribadeo în lumina clară de iarnă, când Plaza de España este cufundată într-o atmosferă liniștită. La prânz, Torre de los Moreno strălucește sub soarele jos. După-amiaza în cartierul San Roque este perfectă pentru o plimbare în briza proaspătă a mării. La apus, Atalaya oferă o vedere largă asupra estuarului Eo, înainte ca luminile orașului să se aprindă.",
+            "en": "Experience Ribadeo in the clear winter light when Plaza de España is immersed in a peaceful atmosphere. At noon, Torre de los Moreno glitters under the low-hanging sun. The afternoon in the San Roque district is perfect for a brisk walk in the fresh sea breeze. At sunset, the Atalaya viewpoint offers a wide vista over the Eo estuary before the city lights brighten the winter evening."
+          },
+          "stops": [
+            {
+              "name": "Plaza de España",
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe; im Winter gehören die Bänke fast nur den Einheimischen.",
+                "hu": "Élvezze a nyugalmat; télen a padok szinte csak a helyieké.",
+                "ro": "Bucurați-vă de liniște; iarna, băncile aparțin aproape exclusiv localnicilor.",
+                "en": "Enjoy the tranquility; in winter, the benches belong almost exclusively to the locals."
+              }
+            },
+            {
+              "name": "Torre de los Moreno",
+              "tip_5lang": {
+                "de": "Die tiefstehende Wintersonne wirft lange Schatten auf die kunstvolle Fassade.",
+                "hu": "Az alacsonyan járó téli nap hosszú árnyékokat vet a művészi homlokzatra.",
+                "ro": "Soarele jos de iarnă aruncă umbre lungi pe fațada artistică.",
+                "en": "The low winter sun casts long, dramatic shadows on the ornate facade."
+              }
+            },
+            {
+              "name": "Barrio de San Roque",
+              "tip_5lang": {
+                "de": "Die Farben der Indianos-Häuser wirken in der klaren Winterluft besonders scharf.",
+                "hu": "Az indiai házak színei a tiszta téli levegőben különösen élesnek tűnnek.",
+                "ro": "Culorile caselor indiene par deosebit de clare în aerul rece de iarnă.",
+                "en": "The colors of the Indiano houses appear particularly sharp in the crisp winter air."
+              }
+            },
+            {
+              "name": "Capilla de la Atalaya",
+              "tip_5lang": {
+                "de": "Warme Kleidung ist hier Pflicht, der Nordwind von der See kann schneidend sein.",
+                "hu": "Meleg ruházat kötelező; az északi szél a tenger felől metsző lehet.",
+                "ro": "Îmbrăcămintea groasă este obligatorie; vântul de nord dinspre mare poate fi tăios.",
+                "en": "Warm clothing is essential; the north wind from the sea can be biting here."
+              }
+            },
+            {
+              "name": "Puerto de Ribadeo",
+              "tip_5lang": {
+                "de": "Probieren Sie warme Kastanien, falls ein lokaler Verkäufer in der Nähe ist.",
+                "hu": "Kóstolja meg a sült gesztenyét, ha talál helyi árust a közelben.",
+                "ro": "Gustați castane calde dacă găsiți un vânzător local în apropiere.",
+                "en": "Try warm chestnuts if there is a local vendor nearby."
+              }
+            },
+            {
+              "name": "Pazo de Ibáñez",
+              "tip_5lang": {
+                "de": "Die frühe Dämmerung verleiht dem Gebäude eine mystische Ausstrahlung.",
+                "hu": "A korai szürkület misztikus kisugárzást kölcsönöz az épületnek.",
+                "ro": "Amurgul timpuriu oferă clădirii o aură mistică.",
+                "en": "The early twilight gives the building a mystical aura."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Winter gegen 18:00 Uhr unter; planen Sie Ihre Fotos frühzeitig.",
+              "Zwiebelprinzip bei der Kleidung hilft gegen den wechselhaften Küstenwind.",
+              "Genießen Sie eine 'Chocolate con Churros' in einer der Konditoreien im Zentrum.",
+              "Besuchen Sie den lokalen Markt für winterliche galicische Spezialitäten."
+            ],
+            "hu": [
+              "A nap télen 18:00 körül nyugszik; fotóit tervezze a korábbi órákra.",
+              "A réteges öltözködés segít a változékony tengerparti szél ellen.",
+              "Kóstoljon meg egy forró csokoládét churrosszal a központ egyik cukrászdájában.",
+              "Látogassa meg a helyi piacot a téli galíciai különlegességekért."
+            ],
+            "ro": [
+              "Soarele apune în jur de ora 18:00; planificați-vă fotografiile din timp.",
+              "Îmbrăcămintea în straturi ajută împotriva vântului schimbător de pe coastă.",
+              "Savurați o ciocolată caldă cu churros într-una dintre cofetăriile din centru.",
+              "Vizitați piața locală pentru specialități galiciene de iarnă."
+            ],
+            "en": [
+              "Sunset is around 18:00 in winter; plan your photography for earlier in the day.",
+              "Layered clothing is the best defense against the variable coastal winds.",
+              "Enjoy a 'Chocolate con Churros' in one of the central pastry shops.",
+              "Check out the local market for seasonal winter Galician specialties."
+            ]
+          }
+        }
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "15:20",
+      "total_km": 8.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Plaza de España",
+            "hu": "Plaza de España",
+            "ro": "Plaza de España",
+            "en": "Plaza de España"
+          },
+          "coords": [
+            -7.0435,
+            43.5375
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Startpunkt im Herzen der Stadt.",
+            "hu": "Indulópont a város szívében.",
+            "ro": "Punct de plecare în inima orașului.",
+            "en": "Starting point in the heart of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Faro de Isla Pancha",
+            "hu": "Isla Pancha világítótorony",
+            "ro": "Faro de Isla Pancha",
+            "en": "Faro de Isla Pancha"
+          },
+          "coords": [
+            -7.038,
+            43.5535
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "10:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Eine malerische Fahrt entlang der Küste zum Leuchtturm.",
+            "hu": "Festői tekerés a tengerpart mentén a világítótoronyig.",
+            "ro": "O plimbare pitorească de-a lungul coastei până la far.",
+            "en": "A scenic ride along the coast to the lighthouse."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirador de Santa Cruz",
+            "hu": "Santa Cruz kilátó",
+            "ro": "Mirador de Santa Cruz",
+            "en": "Mirador de Santa Cruz"
+          },
+          "coords": [
+            -7.06,
+            43.535
+          ],
+          "category": "natural features",
+          "arrive_at": "11:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Harter Anstieg, aber die Aussicht belohnt jede Mühe.",
+            "hu": "Meredek emelkedő, de a kilátás kárpótol a fáradságért.",
+            "ro": "Urcare abruptă, dar priveliștea merită efortul.",
+            "en": "Steep climb, but the view is worth the effort."
+          }
+        },
+        {
+          "name": {
+            "de": "Puerto de Ribadeo",
+            "hu": "Ribadeo kikötője",
+            "ro": "Portul Ribadeo",
+            "en": "Puerto de Ribadeo"
+          },
+          "coords": [
+            -7.037,
+            43.539
+          ],
+          "category": "port",
+          "arrive_at": "12:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie nach der Fahrt bei einer Erfrischung.",
+            "hu": "Pihenjen meg egy frissítővel a tekerés után.",
+            "ro": "Relaxați-vă cu o băutură după plimbare.",
+            "en": "Relax with a refreshment after the ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre de los Moreno",
+            "hu": "Torre de los Moreno",
+            "ro": "Torre de los Moreno",
+            "en": "Torre de los Moreno"
+          },
+          "coords": [
+            -7.0438,
+            43.5372
+          ],
+          "category": "famous residences",
+          "arrive_at": "13:30",
+          "stay_min": 110,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Rückkehr ins Zentrum zur Besichtigung.",
+            "hu": "Visszatérés a központba a látnivalók megtekintéséhez.",
+            "ro": "Revenire în centru pentru vizitare.",
+            "en": "Return to the center for sightseeing."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Radtour verbindet die Stadt mit der wilden Küste. Morgens fahren Sie zum ikonischen Isla Pancha Leuchtturm. Danach führt die Route hinauf zum Santa Cruz Aussichtspunkt für den besten Blick auf die Ría. Mittags kehren Sie zum Hafen zurück und beenden die Tour im Zentrum bei den architektonischen Schätzen der Stadt.",
+        "hu": "Ez a kerékpártúra összeköti a várost a vad tengerparttal. Reggel az ikonikus Isla Pancha világítótoronyhoz tekerünk, majd felkapaszkodunk a Santa Cruz kilátóhoz a legjobb panorámáért. Délben a kikötőben pihenünk meg, végül a belváros építészeti remekműveinél zárjuk a napot.",
+        "ro": "Acest tur cu bicicleta combină orașul cu coasta sălbatică. Dimineața pedalați spre emblematicul far Isla Pancha. Apoi, traseul urcă spre punctul de observație Santa Cruz pentru cea mai bună vedere asupra estuarului. La prânz reveniți în port și încheiați turul în centru, la comorile arhitecturale.",
+        "en": "This bike tour links the town with the wild coast. In the morning, ride to the iconic Isla Pancha lighthouse. Then, the route climbs to the Santa Cruz viewpoint for the best views of the estuary. At midday, return to the port and finish the tour in the center by the architectural gems."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Empanada Gallega",
+            "tip": "Perfekter Snack für Radfahrer, gefüllt mit Thunfisch oder Fleisch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Empanada Gallega",
+            "tip": "Tökéletes snack kerékpárosoknak, tonhallal vagy hússal töltve."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Empanada Gallega",
+            "tip": "Gustare perfectă pentru bicicliști, umplută cu ton sau carne."
+          }
+        ],
+        "en": [
+          {
+            "name": "Empanada Gallega",
+            "tip": "Perfect snack for cyclists, filled with tuna or meat."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ermita de Santa Cruz",
+            "tip": "Friedlicher Park rund um die Kapelle auf dem Hügel.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ermita de Santa Cruz",
+            "tip": "Békés park a dombtetőn lévő kápolna körül.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ermita de Santa Cruz",
+            "tip": "Parc liniștit în jurul capelei de pe deal.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Ermita de Santa Cruz",
+            "tip": "Peaceful park around the chapel on the hill.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Ciclos Ribadeo",
+            "tip": "Lokaler Fahrradladen für Ausrüstung oder Verleih."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ciclos Ribadeo",
+            "tip": "Helyi kerékpárbolt felszereléshez vagy kölcsönzéshez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ciclos Ribadeo",
+            "tip": "Magazin local de biciclete pentru echipament sau închirieri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ciclos Ribadeo",
+            "tip": "Local bike shop for gear or rentals."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Der Weg zum Leuchtturm ist flach und einfach.",
+          "Der Anstieg zum Santa Cruz Aussichtspunkt erfordert Kondition.",
+          "Es gibt Radwege entlang der Küstenstraße.",
+          "Achten Sie auf Windböen an den Klippen."
+        ],
+        "hu": [
+          "A világítótoronyhoz vezető út lapos és könnyű.",
+          "A Santa Cruz kilátóhoz vezető emelkedő edzettséget igényel.",
+          "A tengerparti út mentén vannak kerékpárutak.",
+          "Ügyeljen a széllökésekre a sziklák mentén."
+        ],
+        "ro": [
+          "Drumul spre far este plat și ușor.",
+          "Urcarea spre Santa Cruz necesită condiție fizică.",
+          "Există piste de biciclete de-a lungul drumului de coastă.",
+          "Atenție la rafalele de vânt pe faleză."
+        ],
+        "en": [
+          "The road to the lighthouse is flat and easy.",
+          "The climb to Santa Cruz viewpoint requires fitness.",
+          "There are bike paths along the coastal road.",
+          "Watch out for wind gusts on the cliffs."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Diese Radtour verbindet die Stadt mit der wilden Küste. Morgens fahren Sie zum ikonischen Isla Pancha Leuchtturm. Danach führt die Route hinauf zum Santa Cruz Aussichtspunkt für den besten Blick auf die Ría. Mittags kehren Sie zum Hafen zurück und beenden die Tour im Zentrum bei den architektonischen Schätzen der Stadt.",
+            "hu": "Ez a kerékpártúra összeköti a várost a vad tengerparttal. Reggel az ikonikus Isla Pancha világítótoronyhoz tekerünk, majd felkapaszkodunk a Santa Cruz kilátóhoz a legjobb panorámáért. Délben a kikötőben pihenünk meg, végül a belváros építészeti remekműveinél zárjuk a napot.",
+            "ro": "Acest tur cu bicicleta combină orașul cu coasta sălbatică. Dimineața pedalați spre emblematicul far Isla Pancha. Apoi, traseul urcă spre punctul de observație Santa Cruz pentru cea mai bună vedere asupra estuarului. La prânz reveniți în port și încheiați turul în centru, la comorile arhitecturale.",
+            "en": "This bike tour links the town with the wild coast. In the morning, ride to the iconic Isla Pancha lighthouse. Then, the route climbs to the Santa Cruz viewpoint for the best views of the estuary. At midday, return to the port and finish the tour in the center by the architectural gems."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Plaza de España",
+                "hu": "Plaza de España",
+                "ro": "Plaza de España",
+                "en": "Plaza de España"
+              },
+              "tip_5lang": {
+                "de": "Startpunkt im Herzen der Stadt.",
+                "hu": "Indulópont a város szívében.",
+                "ro": "Punct de plecare în inima orașului.",
+                "en": "Starting point in the heart of the city."
+              }
+            },
+            {
+              "name": {
+                "de": "Faro de Isla Pancha",
+                "hu": "Isla Pancha világítótorony",
+                "ro": "Faro de Isla Pancha",
+                "en": "Faro de Isla Pancha"
+              },
+              "tip_5lang": {
+                "de": "Eine malerische Fahrt entlang der Küste zum Leuchtturm.",
+                "hu": "Festői tekerés a tengerpart mentén a világítótoronyig.",
+                "ro": "O plimbare pitorească de-a lungul coastei până la far.",
+                "en": "A scenic ride along the coast to the lighthouse."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador de Santa Cruz",
+                "hu": "Santa Cruz kilátó",
+                "ro": "Mirador de Santa Cruz",
+                "en": "Mirador de Santa Cruz"
+              },
+              "tip_5lang": {
+                "de": "Harter Anstieg, aber die Aussicht belohnt jede Mühe.",
+                "hu": "Meredek emelkedő, de a kilátás kárpótol a fáradságért.",
+                "ro": "Urcare abruptă, dar priveliștea merită efortul.",
+                "en": "Steep climb, but the view is worth the effort."
+              }
+            },
+            {
+              "name": {
+                "de": "Puerto de Ribadeo",
+                "hu": "Ribadeo kikötője",
+                "ro": "Portul Ribadeo",
+                "en": "Puerto de Ribadeo"
+              },
+              "tip_5lang": {
+                "de": "Entspannen Sie nach der Fahrt bei einer Erfrischung.",
+                "hu": "Pihenjen meg egy frissítővel a tekerés után.",
+                "ro": "Relaxați-vă cu o băutură după plimbare.",
+                "en": "Relax with a refreshment after the ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre de los Moreno",
+                "hu": "Torre de los Moreno",
+                "ro": "Torre de los Moreno",
+                "en": "Torre de los Moreno"
+              },
+              "tip_5lang": {
+                "de": "Rückkehr ins Zentrum zur Besichtigung.",
+                "hu": "Visszatérés a központba a látnivalók megtekintéséhez.",
+                "ro": "Revenire în centru pentru vizitare.",
+                "en": "Return to the center for sightseeing."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Empanada Gallega",
+                "tip": "Perfekter Snack für Radfahrer, gefüllt mit Thunfisch oder Fleisch."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Empanada Gallega",
+                "tip": "Tökéletes snack kerékpárosoknak, tonhallal vagy hússal töltve."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Empanada Gallega",
+                "tip": "Gustare perfectă pentru bicicliști, umplută cu ton sau carne."
+              }
+            ],
+            "en": [
+              {
+                "name": "Empanada Gallega",
+                "tip": "Perfect snack for cyclists, filled with tuna or meat."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Ermita de Santa Cruz",
+                "tip": "Friedlicher Park rund um die Kapelle auf dem Hügel.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Ermita de Santa Cruz",
+                "tip": "Békés park a dombtetőn lévő kápolna körül.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Ermita de Santa Cruz",
+                "tip": "Parc liniștit în jurul capelei de pe deal.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Ermita de Santa Cruz",
+                "tip": "Peaceful park around the chapel on the hill.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Ciclos Ribadeo",
+                "tip": "Lokaler Fahrradladen für Ausrüstung oder Verleih."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Ciclos Ribadeo",
+                "tip": "Helyi kerékpárbolt felszereléshez vagy kölcsönzéshez."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Ciclos Ribadeo",
+                "tip": "Magazin local de biciclete pentru echipament sau închirieri."
+              }
+            ],
+            "en": [
+              {
+                "name": "Ciclos Ribadeo",
+                "tip": "Local bike shop for gear or rentals."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Der Weg zum Leuchtturm ist flach und einfach.",
+              "Der Anstieg zum Santa Cruz Aussichtspunkt erfordert Kondition.",
+              "Es gibt Radwege entlang der Küstenstraße.",
+              "Achten Sie auf Windböen an den Klippen."
+            ],
+            "hu": [
+              "A világítótoronyhoz vezető út lapos és könnyű.",
+              "A Santa Cruz kilátóhoz vezető emelkedő edzettséget igényel.",
+              "A tengerparti út mentén vannak kerékpárutak.",
+              "Ügyeljen a széllökésekre a sziklák mentén."
+            ],
+            "ro": [
+              "Drumul spre far este plat și ușor.",
+              "Urcarea spre Santa Cruz necesită condiție fizică.",
+              "Există piste de biciclete de-a lungul drumului de coastă.",
+              "Atenție la rafalele de vânt pe faleză."
+            ],
+            "en": [
+              "The road to the lighthouse is flat and easy.",
+              "The climb to Santa Cruz viewpoint requires fitness.",
+              "There are bike paths along the coastal road.",
+              "Watch out for wind gusts on the cliffs."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine sportliche Radtour startet an der Plaza de España trotz des Regens. Am Vormittag geht es zum Faro de Isla Pancha, wo die Wellen dramatisch gegen die Felsen peitschen. Mittags bietet der Mirador de Santa Cruz einen nebligen, aber weiten Blick. Nachmittags rollen Sie hinunter zum Hafen und beenden den Tag an der Torre de los Moreno, während Sie den Regen in der Luft spüren.",
+            "hu": "Egy sportos biciklitúra indul a Plaza de Españáról az eső ellenére is. Délelőtt a Faro de Isla Pancha felé vesszük az irányt, ahol a hullámok drámaian csapkodják a sziklákat. Délben a Mirador de Santa Cruz ködös, de tágas kilátást nyújt. Délután legurulunk a kikötőbe, és a napot a Torre de los Morenónál zárjuk az eső illatát érezve.",
+            "ro": "O tură sportivă cu bicicleta pornește din Plaza de España în ciuda ploii. Dimineața mergem spre Faro de Isla Pancha, unde valurile se lovesc dramatic de stânci. La prânz, Mirador de Santa Cruz oferă o vedere cețoasă, dar largă. După-amiaza coborâm spre port și încheiem ziua la Torre de los Moreno.",
+            "en": "A sporty bike tour starts at Plaza de España despite the rain. In the morning, head to Faro de Isla Pancha, where waves crash dramatically against the rocks. At noon, Mirador de Santa Cruz offers a misty but expansive view. In the afternoon, coast down to the port and conclude the day at Torre de los Moreno, feeling the fresh rain in the air."
+          },
+          "stops": [
+            {
+              "name": "Plaza de España",
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen, bevor Sie auf das nasse Kopfsteinpflaster fahren.",
+                "hu": "Ellenőrizze a fékeket, mielőtt a nedves macskakövekre hajtana.",
+                "ro": "Verificați frânele înainte de a intra pe pavajul umed.",
+                "en": "Check your brakes before heading out onto the wet cobblestones."
+              }
+            },
+            {
+              "name": "Faro de Isla Pancha",
+              "tip_5lang": {
+                "de": "Der Weg zum Leuchtturm ist exponiert; achten Sie auf seitliche Windböen.",
+                "hu": "A világítótoronyhoz vezető út nyitott; ügyeljen az oldalszélre.",
+                "ro": "Drumul spre far este expus; atenție la rafalele de vânt laterale.",
+                "en": "The path to the lighthouse is exposed; watch out for lateral wind gusts."
+              }
+            },
+            {
+              "name": "Mirador de Santa Cruz",
+              "tip_5lang": {
+                "de": "Der Aufstieg hält Sie warm, aber der Boden kann rutschig sein.",
+                "hu": "Az emelkedő melegen tart, de a talaj csúszós lehet.",
+                "ro": "Urcarea vă ține cald, dar solul poate fi alunecos.",
+                "en": "The climb will keep you warm, but the ground may be slippery."
+              }
+            },
+            {
+              "name": "Puerto de Ribadeo",
+              "tip_5lang": {
+                "de": "Fahren Sie langsam auf den Holzplanken und Metallgittern im Hafenbereich.",
+                "hu": "Hajtson lassan a kikötő fa pallóin és fémrácsain.",
+                "ro": "Conduceți încet pe scândurile de lemn și grătarele metalice din port.",
+                "en": "Ride slowly on the wooden planks and metal gratings in the port area."
+              }
+            },
+            {
+              "name": "Torre de los Moreno",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad unter einem Dach ab, während Sie die Architektur bewundern.",
+                "hu": "Támassza le a biciklit egy tető alá, amíg az építészetet csodálja.",
+                "ro": "Parcați bicicleta sub un acoperiș în timp ce admirați arhitectura.",
+                "en": "Park your bike under a roof while you admire the architecture."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie Schutzbleche, um sich vor Spritzwasser zu schützen.",
+              "Vermeiden Sie abrupte Bremsmanöver auf dem rutschigen Kopfsteinpflaster.",
+              "Tragen Sie eine auffällige Regenjacke für bessere Sichtbarkeit im grauen Wetter.",
+              "Die Route nach Santa Cruz ist steil; bei Nässe ist doppelte Vorsicht geboten."
+            ],
+            "hu": [
+              "Használjon sárvédőt, hogy megvédje magát a felcsapódó víztől.",
+              "Kerülje a hirtelen fékezést a csúszós macskaköveken.",
+              "Viseljen feltűnő esőkabátot a jobb láthatóság érdekében a szürke időben.",
+              "A Santa Cruz felé vezető út meredek; nedves időben dupla óvatosság kell."
+            ],
+            "ro": [
+              "Folosiți apărători pentru a vă proteja de stropii de apă.",
+              "Evitați frânarea bruscă pe pavajul alunecos.",
+              "Purtați o jachetă de ploaie reflectorizantă pentru vizibilitate mai bună.",
+              "Traseul spre Santa Cruz este abrupt; necesită prudență sporită pe umiditate."
+            ],
+            "en": [
+              "Use mudguards to protect yourself from road spray.",
+              "Avoid sudden braking maneuvers on the slippery cobblestones.",
+              "Wear a high-visibility raincoat for better safety in grey weather.",
+              "The route to Santa Cruz is steep; extra caution is needed when wet."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen beginnt frisch an der Plaza de España. Die Fahrt zum Faro de Isla Pancha ist belebend, mit klarer Sicht auf den Ozean. Mittags wärmt die Sonne am Mirador de Santa Cruz, bevor Sie zum Hafen hinunterfahren. Die kühle Brise im Gesicht macht die Tour zu einem echten Naturerlebnis, das an der Torre de los Moreno endet, wenn die goldene Stunde beginnt.",
+            "hu": "A téli reggel frissen indul a Plaza de Españán. A biciklizés a Faro de Isla Pancha felé élénkítő, tiszta kilátással az óceánra. Délben a nap melenget a Mirador de Santa Cruznál, mielőtt legurulnánk a kikötőbe. A hűvös szél az arcunkban igazi természetközeli élménnyé teszi a túrát, amely a Torre de los Morenónál ér véget.",
+            "ro": "Dimineața de iarnă începe proaspăt în Plaza de España. Drumul spre Faro de Isla Pancha este revigorant, cu vizibilitate clară asupra oceanului. La prânz, soarele încălzește la Mirador de Santa Cruz. Briza rece face din această tură o adevărată experiență naturală care se încheie la Torre de los Moreno.",
+            "en": "The winter morning starts fresh at Plaza de España. The ride to Faro de Isla Pancha is invigorating, with clear views over the Atlantic. At noon, the sun provides some warmth at Mirador de Santa Cruz before you head down to the port. The cool breeze on your face makes this a true outdoor adventure, ending at Torre de los Moreno as the golden hour begins."
+          },
+          "stops": [
+            {
+              "name": "Plaza de España",
+              "tip_5lang": {
+                "de": "Handschuhe sind für die Abfahrt unverzichtbar.",
+                "hu": "A kesztyű elengedhetetlen a lejtmenethez.",
+                "ro": "Mănușile sunt indispensabile pentru coborâre.",
+                "en": "Gloves are essential for the descents today."
+              }
+            },
+            {
+              "name": "Faro de Isla Pancha",
+              "tip_5lang": {
+                "de": "Ein atemberaubender Fotostopp; der Winterhimmel bietet fantastisches Licht.",
+                "hu": "Lélegzetelállító fotómegálló; a téli égbolt fantasztikus fényeket ad.",
+                "ro": "O oprire foto uluitoare; cerul de iarnă oferă o lumină fantastică.",
+                "en": "A breathtaking photo stop; the winter sky offers fantastic light."
+              }
+            },
+            {
+              "name": "Mirador de Santa Cruz",
+              "tip_5lang": {
+                "de": "Machen Sie hier ein paar Aufwärmübungen, bevor Sie die Aussicht genießen.",
+                "hu": "Végezzen néhány bemelegítő gyakorlatot, mielőtt élvezné a kilátást.",
+                "ro": "Faceți câteva exerciții de încălzire înainte de a admira priveliștea.",
+                "en": "Do a few warm-up exercises here before enjoying the view."
+              }
+            },
+            {
+              "name": "Puerto de Ribadeo",
+              "tip_5lang": {
+                "de": "Im Winter ist der Hafen ruhig; genießen Sie die friedliche Atmosphäre.",
+                "hu": "Télen a kikötő csendes; élvezze a békés hangulatot.",
+                "ro": "Iarna, portul este liniștit; bucurați-vă de atmosfera pașnică.",
+                "en": "The port is quiet in winter; enjoy the peaceful atmosphere."
+              }
+            },
+            {
+              "name": "Torre de los Moreno",
+              "tip_5lang": {
+                "de": "Das Licht der tiefstehenden Sonne lässt die Kuppel golden schimmern.",
+                "hu": "Az alacsonyan járó nap fénye aranylóan csillogtatja a kupolát.",
+                "ro": "Lumina soarelui jos face cupola să strălucească auriu.",
+                "en": "The light of the low sun makes the dome shimmer golden."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Thermokleidung, besonders für die windigen Küstenabschnitte.",
+              "Achten Sie auf Schattenstellen auf der Straße, dort kann es frostig sein.",
+              "Ein heißer Tee in der Thermoskanne ist ein idealer Begleiter.",
+              "Beleuchtung am Rad ist wichtig, da es früh dunkel wird."
+            ],
+            "hu": [
+              "Viseljen termoruházatot, különösen a szeles parti szakaszokon.",
+              "Ügyeljen az árnyékos útszakaszokra, ott fagyos lehet a talaj.",
+              "Egy termosz forró tea ideális társ az úton.",
+              "A kerékpár világítása fontos, mert korán sötétedik."
+            ],
+            "ro": [
+              "Purtați haine termice, mai ales pe secțiunile de coastă cu vânt.",
+              "Atenție la porțiunile umbrite ale drumului, pot fi înghețate.",
+              "Un ceai fierbinte într-un termos este tovarășul ideal.",
+              "Iluminarea bicicletei este importantă deoarece se întunecă devreme."
+            ],
+            "en": [
+              "Wear thermal clothing, especially for the windy coastal sections.",
+              "Watch out for shaded areas on the road; they might be frosty.",
+              "A thermos of hot tea is an ideal companion for this ride.",
+              "Bike lights are crucial as it gets dark early in winter."
+            ]
+          }
+        }
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 25.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Playa de las Catedrales",
+            "hu": "Katedrálisok strandja",
+            "ro": "Playa de las Catedrales",
+            "en": "Playa de las Catedrales"
+          },
+          "coords": [
+            -7.157,
+            43.554
+          ],
+          "category": "natural features",
+          "arrive_at": "09:20",
+          "stay_min": 180,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 10.0,
+          "tip_5lang": {
+            "de": "Buchen Sie Ihren Besuch unbedingt im Voraus (Saison).",
+            "hu": "Főszezonban kötelező az előzetes helyfoglalás.",
+            "ro": "Rezervați vizita în avans (în sezon).",
+            "en": "Be sure to book your visit in advance (seasonal)."
+          }
+        },
+        {
+          "name": {
+            "de": "Faro de Isla Pancha",
+            "hu": "Isla Pancha világítótorony",
+            "ro": "Faro de Isla Pancha",
+            "en": "Faro de Isla Pancha"
+          },
+          "coords": [
+            -7.038,
+            43.5535
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "12:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 11.0,
+          "tip_5lang": {
+            "de": "Parkplatz direkt vor der kleinen Brücke.",
+            "hu": "Parkoló közvetlenül a kis híd előtt.",
+            "ro": "Parcare chiar în fața podului mic.",
+            "en": "Parking available right before the small bridge."
+          }
+        },
+        {
+          "name": {
+            "de": "Puerto de Ribadeo",
+            "hu": "Ribadeo kikötője",
+            "ro": "Portul Ribadeo",
+            "en": "Puerto de Ribadeo"
+          },
+          "coords": [
+            -7.037,
+            43.539
+          ],
+          "category": "port",
+          "arrive_at": "13:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Nutzen Sie das Parkhaus am Hafen.",
+            "hu": "Használja a kikötői parkolóházat.",
+            "ro": "Folosiți parcarea etajată din port.",
+            "en": "Use the parking garage at the port."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre de los Moreno",
+            "hu": "Torre de los Moreno",
+            "ro": "Torre de los Moreno",
+            "en": "Torre de los Moreno"
+          },
+          "coords": [
+            -7.0438,
+            43.5372
+          ],
+          "category": "famous residences",
+          "arrive_at": "15:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Kurzer Stopp für Fotos im Stadtzentrum.",
+            "hu": "Rövid megálló fotózáshoz a városközpontban.",
+            "ro": "Oprire scurtă pentru fotografii în centrul orașului.",
+            "en": "Short stop for photos in the city center."
+          }
+        },
+        {
+          "name": {
+            "de": "Plaza de España",
+            "hu": "Plaza de España",
+            "ro": "Plaza de España",
+            "en": "Plaza de España"
+          },
+          "coords": [
+            -7.0435,
+            43.5375
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "15:50",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Zentraler Platz mit vielen Cafés.",
+            "hu": "Központi tér számos kávézóval.",
+            "ro": "Piață centrală cu multe cafenele.",
+            "en": "Central square with many cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "Capilla de la Atalaya",
+            "hu": "Atalaya-kápolna",
+            "ro": "Capilla de la Atalaya",
+            "en": "Capilla de la Atalaya"
+          },
+          "coords": [
+            -7.0395,
+            43.5385
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:50",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Abschluss mit Blick auf die Flussmündung.",
+            "hu": "Zárás a torkolatra nyíló kilátással.",
+            "ro": "Încheiere cu vedere spre estuar.",
+            "en": "Finish with views over the estuary."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Autotour führt Sie zu den spektakulärsten Orten der Region. Der Vormittag gehört der Playa de las Catedrales (Besuch unbedingt nach Gezeiten planen!). Danach geht es zum Isla Pancha Leuchtturm und zum Mittagessen in den Hafen. Am Nachmittag besichtigen wir die architektonischen Highlights im Zentrum und genießen den Sonnenuntergang an der Atalaya-Kappelle.",
+        "hu": "Ez az autós túra a régió leglátványosabb pontjaira visz el. A délelőtt a Katedrálisok strandjáé (a látogatást az árapályhoz kell igazítani!). Ezután az Isla Pancha világítótoronyhoz megyünk, majd a kikötőben ebédelünk. Délután a belváros építészeti kincseit nézzük meg, és az Atalaya-kápolnánál nézzük a naplementét.",
+        "ro": "Acest tur cu mașina vă duce la cele mai spectaculoase locuri din regiune. Dimineața aparține plajei Playa de las Catedrales (planificați vizita în funcție de maree!). Apoi mergem la farul Isla Pancha și la prânz în port. După-amiaza vizităm punctele forte arhitecturale din centru și ne bucurăm de apus la capela Atalaya.",
+        "en": "This car tour takes you to the region's most spectacular spots. The morning is dedicated to Las Catedrales beach (check the tide schedule!). Then head to Isla Pancha lighthouse and have lunch at the port. In the afternoon, visit the architectural highlights in the center and enjoy the sunset at Atalaya Chapel."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Merluza de Celeiro",
+            "tip": "Frischer Seehecht, eine Spezialität der kantabrischen Küste."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Merluza de Celeiro",
+            "tip": "Friss tőkehal, a kantábriai partvidék egyik specialitása."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Merluza de Celeiro",
+            "tip": "Merluciu proaspăt, o specialitate a coastei cantabrice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Merluza de Celeiro",
+            "tip": "Fresh hake, a specialty of the Cantabrian coast."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Playa de las Catedrales (Klippenweg)",
+            "tip": "Gehen Sie oben entlang, wenn die Flut den Strand bedeckt.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Playa de las Catedrales (sziklaösvény)",
+            "tip": "Sétáljon fent, amikor a dagály ellepi a partot.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Playa de las Catedrales (poteca de pe faleză)",
+            "tip": "Mergeți pe sus când mareea acoperă plaja.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Playa de las Catedrales (cliff path)",
+            "tip": "Walk along the top when the tide covers the beach.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Centro Comercial Abierto",
+            "tip": "Einkaufszone im Freien mit lokalen Marken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Centro Comercial Abierto",
+            "tip": "Szabadtéri bevásárlónegyed helyi márkákkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centro Comercial Abierto",
+            "tip": "Zonă comercială în aer liber cu mărci locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Centro Comercial Abierto",
+            "tip": "Open-air shopping zone with local brands."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Gezeitenkalender für Playa de las Catedrales prüfen!",
+          "Parken im Zentrum ist während der Stoßzeiten schwierig.",
+          "Die Autobahn A-8 verbindet die Küstenorte schnell.",
+          "Reservieren Sie Restaurants am Wochenende vorab."
+        ],
+        "hu": [
+          "Ellenőrizze az árapály-naptárat a strandhoz!",
+          "A belvárosi parkolás csúcsidőben nehézkes lehet.",
+          "Az A-8-as autópálya gyors összeköttetést biztosít.",
+          "Hétvégén foglaljon asztalt az éttermekben."
+        ],
+        "ro": [
+          "Verificați calendarul mareelor pentru plajă!",
+          "Parcarea în centru este dificilă în orele de vârf.",
+          "Autostrada A-8 conectează rapid localitățile de coastă.",
+          "Rezervați restaurantele în avans în weekend."
+        ],
+        "en": [
+          "Check the tide calendar for Las Catedrales beach!",
+          "Parking in the center can be difficult during peak hours.",
+          "The A-8 highway connects coastal towns quickly.",
+          "Book restaurants in advance on weekends."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Diese Autotour führt Sie zu den spektakulärsten Orten der Region. Der Vormittag gehört der Playa de las Catedrales (Besuch unbedingt nach Gezeiten planen!). Danach geht es zum Isla Pancha Leuchtturm und zum Mittagessen in den Hafen. Am Nachmittag besichtigen wir die architektonischen Highlights im Zentrum und genießen den Sonnenuntergang an der Atalaya-Kappelle.",
+            "hu": "Ez az autós túra a régió leglátványosabb pontjaira visz el. A délelőtt a Katedrálisok strandjáé (a látogatást az árapályhoz kell igazítani!). Ezután az Isla Pancha világítótoronyhoz megyünk, majd a kikötőben ebédelünk. Délután a belváros építészeti kincseit nézzük meg, és az Atalaya-kápolnánál nézzük a naplementét.",
+            "ro": "Acest tur cu mașina vă duce la cele mai spectaculoase locuri din regiune. Dimineața aparține plajei Playa de las Catedrales (planificați vizita în funcție de maree!). Apoi mergem la farul Isla Pancha și la prânz în port. După-amiaza vizităm punctele forte arhitecturale din centru și ne bucurăm de apus la capela Atalaya.",
+            "en": "This car tour takes you to the region's most spectacular spots. The morning is dedicated to Las Catedrales beach (check the tide schedule!). Then head to Isla Pancha lighthouse and have lunch at the port. In the afternoon, visit the architectural highlights in the center and enjoy the sunset at Atalaya Chapel."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Playa de las Catedrales",
+                "hu": "Katedrálisok strandja",
+                "ro": "Playa de las Catedrales",
+                "en": "Playa de las Catedrales"
+              },
+              "tip_5lang": {
+                "de": "Buchen Sie Ihren Besuch unbedingt im Voraus (Saison).",
+                "hu": "Főszezonban kötelező az előzetes helyfoglalás.",
+                "ro": "Rezervați vizita în avans (în sezon).",
+                "en": "Be sure to book your visit in advance (seasonal)."
+              }
+            },
+            {
+              "name": {
+                "de": "Faro de Isla Pancha",
+                "hu": "Isla Pancha világítótorony",
+                "ro": "Faro de Isla Pancha",
+                "en": "Faro de Isla Pancha"
+              },
+              "tip_5lang": {
+                "de": "Parkplatz direkt vor der kleinen Brücke.",
+                "hu": "Parkoló közvetlenül a kis híd előtt.",
+                "ro": "Parcare chiar în fața podului mic.",
+                "en": "Parking available right before the small bridge."
+              }
+            },
+            {
+              "name": {
+                "de": "Puerto de Ribadeo",
+                "hu": "Ribadeo kikötője",
+                "ro": "Portul Ribadeo",
+                "en": "Puerto de Ribadeo"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das Parkhaus am Hafen.",
+                "hu": "Használja a kikötői parkolóházat.",
+                "ro": "Folosiți parcarea etajată din port.",
+                "en": "Use the parking garage at the port."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre de los Moreno",
+                "hu": "Torre de los Moreno",
+                "ro": "Torre de los Moreno",
+                "en": "Torre de los Moreno"
+              },
+              "tip_5lang": {
+                "de": "Kurzer Stopp für Fotos im Stadtzentrum.",
+                "hu": "Rövid megálló fotózáshoz a városközpontban.",
+                "ro": "Oprire scurtă pentru fotografii în centrul orașului.",
+                "en": "Short stop for photos in the city center."
+              }
+            },
+            {
+              "name": {
+                "de": "Plaza de España",
+                "hu": "Plaza de España",
+                "ro": "Plaza de España",
+                "en": "Plaza de España"
+              },
+              "tip_5lang": {
+                "de": "Zentraler Platz mit vielen Cafés.",
+                "hu": "Központi tér számos kávézóval.",
+                "ro": "Piață centrală cu multe cafenele.",
+                "en": "Central square with many cafes."
+              }
+            },
+            {
+              "name": {
+                "de": "Capilla de la Atalaya",
+                "hu": "Atalaya-kápolna",
+                "ro": "Capilla de la Atalaya",
+                "en": "Capilla de la Atalaya"
+              },
+              "tip_5lang": {
+                "de": "Abschluss mit Blick auf die Flussmündung.",
+                "hu": "Zárás a torkolatra nyíló kilátással.",
+                "ro": "Încheiere cu vedere spre estuar.",
+                "en": "Finish with views over the estuary."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Merluza de Celeiro",
+                "tip": "Frischer Seehecht, eine Spezialität der kantabrischen Küste."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Merluza de Celeiro",
+                "tip": "Friss tőkehal, a kantábriai partvidék egyik specialitása."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Merluza de Celeiro",
+                "tip": "Merluciu proaspăt, o specialitate a coastei cantabrice."
+              }
+            ],
+            "en": [
+              {
+                "name": "Merluza de Celeiro",
+                "tip": "Fresh hake, a specialty of the Cantabrian coast."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Playa de las Catedrales (Klippenweg)",
+                "tip": "Gehen Sie oben entlang, wenn die Flut den Strand bedeckt.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Playa de las Catedrales (sziklaösvény)",
+                "tip": "Sétáljon fent, amikor a dagály ellepi a partot.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Playa de las Catedrales (poteca de pe faleză)",
+                "tip": "Mergeți pe sus când mareea acoperă plaja.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Playa de las Catedrales (cliff path)",
+                "tip": "Walk along the top when the tide covers the beach.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Centro Comercial Abierto",
+                "tip": "Einkaufszone im Freien mit lokalen Marken."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Centro Comercial Abierto",
+                "tip": "Szabadtéri bevásárlónegyed helyi márkákkal."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Centro Comercial Abierto",
+                "tip": "Zonă comercială în aer liber cu mărci locale."
+              }
+            ],
+            "en": [
+              {
+                "name": "Centro Comercial Abierto",
+                "tip": "Open-air shopping zone with local brands."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Gezeitenkalender für Playa de las Catedrales prüfen!",
+              "Parken im Zentrum ist während der Stoßzeiten schwierig.",
+              "Die Autobahn A-8 verbindet die Küstenorte schnell.",
+              "Reservieren Sie Restaurants am Wochenende vorab."
+            ],
+            "hu": [
+              "Ellenőrizze az árapály-naptárat a strandhoz!",
+              "A belvárosi parkolás csúcsidőben nehézkes lehet.",
+              "Az A-8-as autópálya gyors összeköttetést biztosít.",
+              "Hétvégén foglaljon asztalt az éttermekben."
+            ],
+            "ro": [
+              "Verificați calendarul mareelor pentru plajă!",
+              "Parcarea în centru este dificilă în orele de vârf.",
+              "Autostrada A-8 conectează rapid localitățile de coastă.",
+              "Rezervați restaurantele în avans în weekend."
+            ],
+            "en": [
+              "Check the tide calendar for Las Catedrales beach!",
+              "Parking in the center can be difficult during peak hours.",
+              "The A-8 highway connects coastal towns quickly.",
+              "Book restaurants in advance on weekends."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie den Tag an der Playa de las Catedrales, wo der Regen die Steinformationen mystisch erscheinen lässt. Mittags fahren Sie zum Faro de Isla Pancha, sicher geschützt im Auto, während draußen der Sturm tobt. Nachmittags erkunden Sie den Hafen und die historische Altstadt, wobei Sie die kurzen Wege zwischen den Parkplätzen nutzen.",
+            "hu": "Kezdje a napot a Playa de las Catedralesnél, ahol az eső misztikussá teszi a sziklaalakzatokat. Délben guruljon a Faro de Isla Panchához, az autó biztonságából figyelve a kinti vihart. Délután fedezze fel a kikötőt és a történelmi óvárost, kihasználva a parkolók közötti rövid távolságokat.",
+            "ro": "Începeți ziua la Playa de las Catedrales, unde ploaia face formațiunile stâncoase să pară mistice. La prânz, conduceți spre Faro de Isla Pancha, protejați în mașină în timp ce afară furtuna se dezlănțuie. După-amiaza explorați portul și centrul istoric.",
+            "en": "Start the day at Playa de las Catedrales, where the rain adds a mystical aura to the rock formations. At noon, drive to Faro de Isla Pancha, staying dry in your car while the storm rages outside. In the afternoon, explore the port and the historic old town, utilizing short walks between parking spots."
+          },
+          "stops": [
+            {
+              "name": "Playa de las Catedrales",
+              "tip_5lang": {
+                "de": "Prüfen Sie unbedingt die Gezeiten; bei Regen sind die Felsen extrem glatt.",
+                "hu": "Mindenképpen ellenőrizze az apály-dagályt; esőben a sziklák rendkívül csúszósak.",
+                "ro": "Verificați neapărat fluxul și refluxul; pe ploaie, stâncile sunt extrem de alunecoase.",
+                "en": "Be sure to check the tides; the rocks are extremely slippery in the rain."
+              }
+            },
+            {
+              "name": "Faro de Isla Pancha",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick vom Parkplatz aus, falls es zu stark regnet.",
+                "hu": "Élvezze a kilátást a parkolóból, ha túl erősen esne az eső.",
+                "ro": "Bucurați-vă de priveliște din parcare dacă plouă prea tare.",
+                "en": "Enjoy the view from the parking lot if the rain is too heavy to get out."
+              }
+            },
+            {
+              "name": "Puerto de Ribadeo",
+              "tip_5lang": {
+                "de": "Es gibt ein Parkhaus in der Nähe des Hafens, ideal bei Schlechtwetter.",
+                "hu": "A kikötő közelében van parkolóház, ideális rossz idő esetén.",
+                "ro": "Există o parcare acoperită lângă port, ideală pe vreme rea.",
+                "en": "There is a parking garage near the port, ideal for bad weather days."
+              }
+            },
+            {
+              "name": "Torre de los Moreno",
+              "tip_5lang": {
+                "de": "Parken Sie an der Plaza de España, um schnell im Trockenen zu sein.",
+                "hu": "Parkoljon a Plaza de España közelében, hogy gyorsan fedél alá érjen.",
+                "ro": "Parcați lângă Plaza de España pentru a ajunge rapid la adăpost.",
+                "en": "Park near Plaza de España to quickly find shelter under the arcades."
+              }
+            },
+            {
+              "name": "Plaza de España",
+              "tip_5lang": {
+                "de": "Die Cafés rund um den Platz sind perfekt für eine Regenpause.",
+                "hu": "A tér körüli kávézók tökéletesek egy esőszünethez.",
+                "ro": "Cafenelele din jurul pieței sunt perfecte pentru o pauză de ploaie.",
+                "en": "The cafes around the square are perfect for a rainy break."
+              }
+            },
+            {
+              "name": "Capilla de la Atalaya",
+              "tip_5lang": {
+                "de": "Man kann fast bis zum Aussichtspunkt fahren, was bei Regen praktisch ist.",
+                "hu": "Szinte a kilátóig lehet hajtani, ami praktikus esőben.",
+                "ro": "Se poate conduce aproape până la punctul de belvedere, util pe ploaie.",
+                "en": "You can drive almost right up to the viewpoint, which is handy in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Küstenstraßen können bei Starkregen durch Aquaplaning gefährlich sein.",
+              "Halten Sie Ausschau nach 'Aparcamiento'-Schildern im Zentrum.",
+              "Die Sicht am Mirador kann durch Nebel stark eingeschränkt sein.",
+              "Ein Regenschirm im Auto ist in Galicien ein Muss."
+            ],
+            "hu": [
+              "A parti utak heves esőzéskor a vízátfolyások miatt veszélyesek lehetnek.",
+              "Keresse az 'Aparcamiento' táblákat a központban.",
+              "A kilátóknál a látótávolság köd miatt erősen korlátozott lehet.",
+              "Egy esernyő az autóban Galíciában alapfelszerelés."
+            ],
+            "ro": [
+              "Drumurile de coastă pot fi periculoase din cauza acvaplanării pe ploaie torențială.",
+              "Căutați semnele 'Aparcamiento' în centru.",
+              "Vizibilitatea la punctele de belvedere poate fi limitată de ceață.",
+              "O umbrelă în mașină este obligatorie în Galiția."
+            ],
+            "en": [
+              "Coastal roads can be hazardous due to aquaplaning during heavy rain.",
+              "Look out for 'Aparcamiento' (parking) signs in the city center.",
+              "Visibility at the viewpoints can be significantly reduced by fog.",
+              "Always keep an umbrella in your car when traveling in Galicia."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintertag beginnt an der Playa de las Catedrales. Das morgendliche Licht auf den Klippen ist spektakulär. Mittags führt die Fahrt zum Faro de Isla Pancha, wo die Wintersonne tief über dem Meer steht. Der Nachmittag gehört der Altstadt von Ribadeo, bevor Sie den Tag an der Capilla de la Atalaya mit Blick auf den Sonnenuntergang abschließen.",
+            "hu": "Egy tiszta téli nap indul a Playa de las Catedralesnél. A reggeli fény a sziklákon lenyűgöző. Délben a Faro de Isla Pancha felé autózunk, ahol a téli nap alacsonyan áll a tenger felett. A délután Ribadeo óvárosáé, mielőtt a napot a Capilla de la Atalayánál zárnánk a naplementét figyelve.",
+            "ro": "O zi clară de iarnă începe la Playa de las Catedrales. Lumina dimineții pe stânci este spectaculoasă. La prânz, drumul duce spre Faro de Isla Pancha. După-amiaza aparține orașului vechi, înainte de a încheia ziua la Capilla de la Atalaya.",
+            "en": "A crisp winter day starts at Playa de las Catedrales. The morning light on the cliffs is spectacular. At noon, drive to Faro de Isla Pancha, where the winter sun sits low over the Atlantic. Spend the afternoon in Ribadeo's old town before concluding the day at Capilla de la Atalaya with a sunset view."
+          },
+          "stops": [
+            {
+              "name": "Playa de las Catedrales",
+              "tip_5lang": {
+                "de": "Im Winter brauchen Sie oft keine Voranmeldung, genießen Sie die Leere.",
+                "hu": "Télen gyakran nem kell előzetes regisztráció, élvezze az üres partot.",
+                "ro": "Iarna adesea nu este nevoie de rezervare, bucurați-vă de plaja goală.",
+                "en": "In winter, you often don't need a reservation; enjoy the empty beach."
+              }
+            },
+            {
+              "name": "Faro de Isla Pancha",
+              "tip_5lang": {
+                "de": "Das Winterlicht eignet sich perfekt für Landschaftsfotografie.",
+                "hu": "A téli fények tökéletesek a tájképfotózáshoz.",
+                "ro": "Lumina de iarnă este perfectă pentru fotografia de peisaj.",
+                "en": "The winter light is perfect for professional-looking landscape photography."
+              }
+            },
+            {
+              "name": "Puerto de Ribadeo",
+              "tip_5lang": {
+                "de": "Parken Sie direkt an der Hafenmauer für einen kurzen Weg zum Fischrestaurant.",
+                "hu": "Parkoljon közvetlenül a kikötőfalnál, hogy közel legyen a halétterem.",
+                "ro": "Parcați chiar lângă digul portului pentru a fi aproape de restaurant.",
+                "en": "Park right by the harbor wall for a short walk to the seafood restaurants."
+              }
+            },
+            {
+              "name": "Torre de los Moreno",
+              "tip_5lang": {
+                "de": "Die Fassade wird im Winterlicht wunderschön ausgeleuchtet.",
+                "hu": "A homlokzat a téli fényben gyönyörűen megvilágított.",
+                "ro": "Fațada este luminată superb în lumina de iarnă.",
+                "en": "The facade is beautifully illuminated by the low-angled winter sun."
+              }
+            },
+            {
+              "name": "Plaza de España",
+              "tip_5lang": {
+                "de": "Im Winter finden Sie hier leichter einen Parkplatz in den Seitenstraßen.",
+                "hu": "Télen könnyebben talál parkolót a mellékutcákban.",
+                "ro": "Iarna găsiți mai ușor loc de parcare în străzile laterale.",
+                "en": "In winter, it's easier to find parking in the side streets nearby."
+              }
+            },
+            {
+              "name": "Capilla de la Atalaya",
+              "tip_5lang": {
+                "de": "Perfekt für den Sonnenuntergang; seien Sie bis 17:45 Uhr dort.",
+                "hu": "Tökéletes a naplementéhez; legyen ott 17:45-ig.",
+                "ro": "Perfect pentru apus; fiți acolo până la ora 17:45.",
+                "en": "Perfect for the sunset; aim to be there by 17:45."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Glätte auf den Brückenabschnitten der N-634.",
+              "Die Parkplätze an den Catedrales sind im Winter meist kostenlos.",
+              "Prüfen Sie die Öffnungszeiten der Restaurants, viele machen Winterpause.",
+              "Küstennebel kann morgens die Sicht auf der Autobahn einschränken."
+            ],
+            "hu": [
+              "Ügyeljen a csúszós útszakaszokra az N-634-es hídjain.",
+              "A Catedrales parkolói télen többnyire ingyenesek.",
+              "Ellenőrizze az éttermek nyitvatartását, sokan téli szünetet tartanak.",
+              "A parti köd reggelente korlátozhatja a látási viszonyokat az autópályán."
+            ],
+            "ro": [
+              "Atenție la porțiunile cu polei pe podurile de pe N-634.",
+              "Parcările de la Catedrales sunt în mare parte gratuite iarna.",
+              "Verificați programul restaurantelor, multe au vacanță de iarnă.",
+              "Ceața de coastă poate limita vizibilitatea pe autostradă dimineața."
+            ],
+            "en": [
+              "Watch out for icy patches on the bridges of the N-634 road.",
+              "Parking at Las Catedrales beach is usually free during the winter months.",
+              "Check restaurant opening hours, as many take a winter break.",
+              "Coastal fog can limit visibility on the highway during early morning."
+            ]
+          }
+        }
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:20",
+      "total_km": 15.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Plaza de España",
+            "hu": "Plaza de España",
+            "ro": "Plaza de España",
+            "en": "Plaza de España"
+          },
+          "coords": [
+            -7.0435,
+            43.5375
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "In der Nähe der Bushaltestelle für den Strand-Bus.",
+            "hu": "A strandjárat buszmegállójának közelében.",
+            "ro": "Aproape de stația de autobuz pentru plajă.",
+            "en": "Near the bus stop for the beach shuttle."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa de las Catedrales",
+            "hu": "Katedrálisok strandja",
+            "ro": "Playa de las Catedrales",
+            "en": "Playa de las Catedrales"
+          },
+          "coords": [
+            -7.157,
+            43.554
+          ],
+          "category": "natural features",
+          "arrive_at": "10:15",
+          "stay_min": 150,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 10.0,
+          "tip_5lang": {
+            "de": "Der 'Bus das Catedrais' fährt im Sommer regelmäßig.",
+            "hu": "A 'Bus das Catedrais' nyáron rendszeresen közlekedik.",
+            "ro": "'Bus das Catedrais' circulă regulat în timpul verii.",
+            "en": "The 'Bus das Catedrais' runs regularly in summer."
+          }
+        },
+        {
+          "name": {
+            "de": "Puerto de Ribadeo",
+            "hu": "Ribadeo kikötője",
+            "ro": "Portul Ribadeo",
+            "en": "Puerto de Ribadeo"
+          },
+          "coords": [
+            -7.037,
+            43.539
+          ],
+          "category": "port",
+          "arrive_at": "13:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 10.5,
+          "tip_5lang": {
+            "de": "Vom Zentrum aus leicht zu Fuß erreichbar.",
+            "hu": "A központból könnyen elérhető gyalogosan.",
+            "ro": "Accesibil ușor pe jos din centru.",
+            "en": "Easily accessible on foot from the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Barrio de San Roque",
+            "hu": "San Roque negyed",
+            "ro": "Barrio de San Roque",
+            "en": "Barrio de San Roque"
+          },
+          "coords": [
+            -7.046,
+            43.5365
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "14:50",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Historisches Viertel im oberen Teil der Stadt.",
+            "hu": "Történelmi negyed a város felső részén.",
+            "ro": "Cartier istoric în partea de sus a orașului.",
+            "en": "Historic district in the upper part of town."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre de los Moreno",
+            "hu": "Torre de los Moreno",
+            "ro": "Torre de los Moreno",
+            "en": "Torre de los Moreno"
+          },
+          "coords": [
+            -7.0438,
+            43.5372
+          ],
+          "category": "famous residences",
+          "arrive_at": "15:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Zentraler Endpunkt der Tour.",
+            "hu": "A túra központi végállomása.",
+            "ro": "Punct final central al turului.",
+            "en": "Central end point of the tour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie den speziellen Strand-Bus für einen stressfreien Besuch der Playa de las Catedrales am Vormittag. Nach der Rückkehr ins Stadtzentrum verbringen wir die Mittagszeit am Hafen. Der Nachmittag ist einem entspannten Spaziergang durch die Indianer-Viertel und zur Plaza de España gewidmet.",
+        "hu": "Használja a speciális strandjáratot a Katedrálisok strandjának kényelmes délelőtti meglátogatásához. A központba való visszatérés után a kikötőben ebédelünk. A délután az 'indiano' negyed és a Plaza de España felfedezésével telik.",
+        "ro": "Folosiți autobuzul special pentru plajă pentru o vizită fără stres la Playa de las Catedrales dimineața. După revenirea în centru, petrecem prânzul în port. După-amiaza este dedicată unei plimbări relaxate prin cartierul 'indiano' și Plaza de España.",
+        "en": "Use the dedicated beach shuttle for a stress-free morning visit to Las Catedrales beach. After returning to the center, spend lunch at the port. The afternoon is dedicated to a relaxed stroll through the 'indiano' district and Plaza de España."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Tarta de Mondoñedo",
+            "tip": "Traditioneller Kuchen aus der Region mit Mandeln und Früchten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tarta de Mondoñedo",
+            "tip": "Hagyományos mandulás-gyümölcsös sütemény a környékről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tarta de Mondoñedo",
+            "tip": "Prăjitură tradițională din regiune cu migdale și fructe."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tarta de Mondoñedo",
+            "tip": "Traditional almond and fruit cake from the region."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parque de los Indianos",
+            "tip": "Schattiger Park im San Roque Viertel.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parque de los Indianos",
+            "tip": "Árnyas park a San Roque negyedben.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parque de los Indianos",
+            "tip": "Parc umbros în cartierul San Roque.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parque de los Indianos",
+            "tip": "Shady park in the San Roque district.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Busbahnhof Kiosk",
+            "tip": "Kaufen Sie hier Ihre Busfahrkarten und lokale Reiseführer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Buszpályaudvar kioszk",
+            "tip": "Itt veheti meg a buszjegyeket és a helyi útikönyveket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșc autogară",
+            "tip": "Cumpărați biletele de autobuz și ghidurile locale de aici."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bus station kiosk",
+            "tip": "Buy your bus tickets and local guides here."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie Busfahrkarten für den Strand-Bus online.",
+          "Der 'FEVE'-Zug verbindet Ribadeo mit anderen Küstenorten.",
+          "Die meisten Sehenswürdigkeiten im Zentrum sind nah beieinander.",
+          "Achten Sie auf die saisonalen Fahrpläne des Strand-Busses."
+        ],
+        "hu": [
+          "Vegye meg előre online a buszjegyet a strandjáratra.",
+          "A 'FEVE' vonat összeköti Ribadeót más tengerparti városokkal.",
+          "A legtöbb belvárosi látnivaló közel van egymáshoz.",
+          "Figyeljen a strandjárat szezonális menetrendjére."
+        ],
+        "ro": [
+          "Cumpărați biletele pentru autobuzul de plajă online.",
+          "Trenul 'FEVE' conectează Ribadeo cu alte orașe de coastă.",
+          "Cele mai multe atracții din centru sunt aproape una de alta.",
+          "Atenție la orarul sezonier al autobuzului pentru plajă."
+        ],
+        "en": [
+          "Buy bus tickets for the beach shuttle online.",
+          "The 'FEVE' train connects Ribadeo with other coastal towns.",
+          "Most central sights are close to each other.",
+          "Check the seasonal schedules for the beach bus."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie den speziellen Strand-Bus für einen stressfreien Besuch der Playa de las Catedrales am Vormittag. Nach der Rückkehr ins Stadtzentrum verbringen wir die Mittagszeit am Hafen. Der Nachmittag ist einem entspannten Spaziergang durch die Indianer-Viertel und zur Plaza de España gewidmet.",
+            "hu": "Használja a speciális strandjáratot a Katedrálisok strandjának kényelmes délelőtti meglátogatásához. A központba való visszatérés után a kikötőben ebédelünk. A délután az 'indiano' negyed és a Plaza de España felfedezésével telik.",
+            "ro": "Folosiți autobuzul special pentru plajă pentru o vizită fără stres la Playa de las Catedrales dimineața. După revenirea în centru, petrecem prânzul în port. După-amiaza este dedicată unei plimbări relaxate prin cartierul 'indiano' și Plaza de España.",
+            "en": "Use the dedicated beach shuttle for a stress-free morning visit to Las Catedrales beach. After returning to the center, spend lunch at the port. The afternoon is dedicated to a relaxed stroll through the 'indiano' district and Plaza de España."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Plaza de España",
+                "hu": "Plaza de España",
+                "ro": "Plaza de España",
+                "en": "Plaza de España"
+              },
+              "tip_5lang": {
+                "de": "In der Nähe der Bushaltestelle für den Strand-Bus.",
+                "hu": "A strandjárat buszmegállójának közelében.",
+                "ro": "Aproape de stația de autobuz pentru plajă.",
+                "en": "Near the bus stop for the beach shuttle."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa de las Catedrales",
+                "hu": "Katedrálisok strandja",
+                "ro": "Playa de las Catedrales",
+                "en": "Playa de las Catedrales"
+              },
+              "tip_5lang": {
+                "de": "Der 'Bus das Catedrais' fährt im Sommer regelmäßig.",
+                "hu": "A 'Bus das Catedrais' nyáron rendszeresen közlekedik.",
+                "ro": "'Bus das Catedrais' circulă regulat în timpul verii.",
+                "en": "The 'Bus das Catedrais' runs regularly in summer."
+              }
+            },
+            {
+              "name": {
+                "de": "Puerto de Ribadeo",
+                "hu": "Ribadeo kikötője",
+                "ro": "Portul Ribadeo",
+                "en": "Puerto de Ribadeo"
+              },
+              "tip_5lang": {
+                "de": "Vom Zentrum aus leicht zu Fuß erreichbar.",
+                "hu": "A központból könnyen elérhető gyalogosan.",
+                "ro": "Accesibil ușor pe jos din centru.",
+                "en": "Easily accessible on foot from the center."
+              }
+            },
+            {
+              "name": {
+                "de": "Barrio de San Roque",
+                "hu": "San Roque negyed",
+                "ro": "Barrio de San Roque",
+                "en": "Barrio de San Roque"
+              },
+              "tip_5lang": {
+                "de": "Historisches Viertel im oberen Teil der Stadt.",
+                "hu": "Történelmi negyed a város felső részén.",
+                "ro": "Cartier istoric în partea de sus a orașului.",
+                "en": "Historic district in the upper part of town."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre de los Moreno",
+                "hu": "Torre de los Moreno",
+                "ro": "Torre de los Moreno",
+                "en": "Torre de los Moreno"
+              },
+              "tip_5lang": {
+                "de": "Zentraler Endpunkt der Tour.",
+                "hu": "A túra központi végállomása.",
+                "ro": "Punct final central al turului.",
+                "en": "Central end point of the tour."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Tarta de Mondoñedo",
+                "tip": "Traditioneller Kuchen aus der Region mit Mandeln und Früchten."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Tarta de Mondoñedo",
+                "tip": "Hagyományos mandulás-gyümölcsös sütemény a környékről."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Tarta de Mondoñedo",
+                "tip": "Prăjitură tradițională din regiune cu migdale și fructe."
+              }
+            ],
+            "en": [
+              {
+                "name": "Tarta de Mondoñedo",
+                "tip": "Traditional almond and fruit cake from the region."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Parque de los Indianos",
+                "tip": "Schattiger Park im San Roque Viertel.",
+                "emoji": "🍃"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Parque de los Indianos",
+                "tip": "Árnyas park a San Roque negyedben.",
+                "emoji": "🍃"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Parque de los Indianos",
+                "tip": "Parc umbros în cartierul San Roque.",
+                "emoji": "🍃"
+              }
+            ],
+            "en": [
+              {
+                "name": "Parque de los Indianos",
+                "tip": "Shady park in the San Roque district.",
+                "emoji": "🍃"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Busbahnhof Kiosk",
+                "tip": "Kaufen Sie hier Ihre Busfahrkarten und lokale Reiseführer."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Buszpályaudvar kioszk",
+                "tip": "Itt veheti meg a buszjegyeket és a helyi útikönyveket."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Chioșc autogară",
+                "tip": "Cumpărați biletele de autobuz și ghidurile locale de aici."
+              }
+            ],
+            "en": [
+              {
+                "name": "Bus station kiosk",
+                "tip": "Buy your bus tickets and local guides here."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Kaufen Sie Busfahrkarten für den Strand-Bus online.",
+              "Der 'FEVE'-Zug verbindet Ribadeo mit anderen Küstenorten.",
+              "Die meisten Sehenswürdigkeiten im Zentrum sind nah beieinander.",
+              "Achten Sie auf die saisonalen Fahrpläne des Strand-Busses."
+            ],
+            "hu": [
+              "Vegye meg előre online a buszjegyet a strandjáratra.",
+              "A 'FEVE' vonat összeköti Ribadeót más tengerparti városokkal.",
+              "A legtöbb belvárosi látnivaló közel van egymáshoz.",
+              "Figyeljen a strandjárat szezonális menetrendjére."
+            ],
+            "ro": [
+              "Cumpărați biletele pentru autobuzul de plajă online.",
+              "Trenul 'FEVE' conectează Ribadeo cu alte orașe de coastă.",
+              "Cele mai multe atracții din centru sunt aproape una de alta.",
+              "Atenție la orarul sezonier al autobuzului pentru plajă."
+            ],
+            "en": [
+              "Buy bus tickets for the beach shuttle online.",
+              "The 'FEVE' train connects Ribadeo with other coastal towns.",
+              "Most central sights are close to each other.",
+              "Check the seasonal schedules for the beach bus."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie den Bus, um Ribadeo bei Regen zu erkunden. Der Vormittag auf der Plaza de España ist dank der umliegenden Cafés entspannt. Mittags bringt Sie der Shuttle zur Playa de las Catedrales, wo Sie die Naturgewalten erleben. Nachmittags kehren Sie zum Hafen zurück und lassen sich vom Rhythmus des Regens in der Altstadt verzaubern.",
+            "hu": "Használja a buszt Ribadeo felfedezéséhez esőben. A délelőtt a Plaza de Españán a közeli kávézóknak köszönhetően pihentető. Délben a transzfer kivisz a Playa de las Catedraleshez, ahol megtapasztalhatja a természet erejét. Délután térjen vissza a kikötőbe, és hagyja, hogy elvarázsolja az eső ritmusa.",
+            "ro": "Folosiți autobuzul pentru a explora Ribadeo pe ploaie. Dimineața în Plaza de España este relaxantă datorită cafenelelor. La prânz, naveta vă duce la Playa de las Catedrales. După-amiaza reveniți în port și lăsați-vă fermecați de ritmul ploii.",
+            "en": "Use the local bus to explore Ribadeo in the rain. A morning at Plaza de España is relaxing thanks to the surrounding cafes. At noon, take the shuttle to Playa de las Catedrales to witness the raw power of nature. In the afternoon, return to the port and let the rhythm of the rain enchant you in the old town."
+          },
+          "stops": [
+            {
+              "name": "Plaza de España",
+              "tip_5lang": {
+                "de": "Die Haupthaltestelle hat ein Wartehäuschen, das Sie trocken hält.",
+                "hu": "A fő buszmegálló fedett, így szárazon várakozhat.",
+                "ro": "Stația principală are un adăpost care vă menține uscat.",
+                "en": "The main bus stop has a shelter to keep you dry while waiting."
+              }
+            },
+            {
+              "name": "Playa de las Catedrales",
+              "tip_5lang": {
+                "de": "Der Bus hält nah am Eingang; sparen Sie sich den nassen Fußweg.",
+                "hu": "A busz közel áll meg a bejárathoz; spórolja meg a nedves gyalogutat.",
+                "ro": "Autobuzul oprește aproape de intrare; evitați mersul pe jos prin ploaie.",
+                "en": "The bus stops close to the entrance; save yourself the wet walk."
+              }
+            },
+            {
+              "name": "Puerto de Ribadeo",
+              "tip_5lang": {
+                "de": "Vom Hafen gibt es Taxis, falls der nächste Bus auf sich warten lässt.",
+                "hu": "A kikötőtől vannak taxik, ha a következő buszra sokat kellene várni.",
+                "ro": "Există taxiuri din port dacă următorul autobuz întârzie.",
+                "en": "Taxis are available from the port if the next bus is delayed."
+              }
+            },
+            {
+              "name": "Barrio de San Roque",
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint vom Bus ins nächste Café schützt vor dem Guss.",
+                "hu": "Egy rövid sprint a busztól a következő kávézóig megvéd a záportól.",
+                "ro": "Un sprint scurt de la autobuz la cafenea vă protejează de ploaie.",
+                "en": "A quick sprint from the bus to the nearest cafe will keep you dry."
+              }
+            },
+            {
+              "name": "Torre de los Moreno",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle bietet einen guten Blick auf das Gebäude.",
+                "hu": "A buszmegállóból jó kilátás nyílik az épületre.",
+                "ro": "Stația de autobuz oferă o vedere bună asupra clădirii.",
+                "en": "The bus stop area offers a great angle for viewing the building."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Laden Sie die Fahrplan-App herunter, um Wartezeiten im Freien zu minimieren.",
+              "Der 'Bus Playa' fährt in der Nebensaison seltener; prüfen Sie den Aushang.",
+              "Halten Sie Kleingeld für den Busfahrer bereit.",
+              "Die FEVE-Bahnstation ist ein guter Startpunkt bei Regen."
+            ],
+            "hu": [
+              "Töltse le a menetrend-alkalmazást, hogy minimalizálja a kinti várakozást.",
+              "A 'Bus Playa' holtszezonban ritkábban jár; ellenőrizze a hirdetményt.",
+              "Készítsen elő aprópénzt a buszsofőrnek.",
+              "A FEVE vasútállomás jó kiindulópont esőben."
+            ],
+            "ro": [
+              "Descărcați aplicația de transport pentru a minimiza așteptarea în exterior.",
+              "Autobuzul spre plajă circulă mai rar în extrasezon; verificați orarul.",
+              "Pregătiți mărunțiș pentru șoferul de autobuz.",
+              "Gara FEVE este un punct de plecare bun pe ploaie."
+            ],
+            "en": [
+              "Download the local transit app to minimize outdoor waiting times.",
+              "The beach bus runs less frequently in the off-season; check the posters.",
+              "Have small change ready for the bus driver to speed up boarding.",
+              "The FEVE train station is a good alternative starting point in the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Entdecken Sie Ribadeo im Winter mit den öffentlichen Verkehrsmitteln. Der Morgen an der Plaza de España ist belebt von Einheimischen. Eine Fahrt zur Playa de las Catedrales zeigt die raue Schönheit der Küste. Mittags wärmen Sie sich im Bus auf dem Weg zum Hafen auf. Der Abend im San Roque Viertel beendet einen entspannten Tag voller Entdeckungen.",
+            "hu": "Fedezze fel Ribadeót télen tömegközlekedéssel. A reggel a Plaza de Españán a helyiek nyüzsgésétől hangos. Egy út a Playa de las Catedraleshez megmutatja a partvidék nyers szépségét. Délben melegedjen fel a buszon a kikötő felé menet. Az este a San Roque negyedben zárja a felfedezésekkel teli napot.",
+            "ro": "Descoperiți Ribadeo iarna cu transportul public. Dimineața în Plaza de España este plină de viață locală. O călătorie la Playa de las Catedrales arată frumusețea aspră a coastei. La prânz, încălziți-vă în autobuz spre port.",
+            "en": "Discover Ribadeo in winter using public transport. A morning at Plaza de España is full of local life. A trip to Playa de las Catedrales reveals the raw beauty of the coastline. Warm up on the bus at noon as you head toward the port. The evening in the San Roque district concludes a relaxed day of discovery."
+          },
+          "stops": [
+            {
+              "name": "Plaza de España",
+              "tip_5lang": {
+                "de": "Im Winter ist der Bus oft der Treffpunkt für den Austausch im Dorf.",
+                "hu": "Télen a busz gyakran a falusi eszmecsere helyszíne.",
+                "ro": "Iarna, autobuzul este adesea locul de întâlnire pentru localnici.",
+                "en": "In winter, the bus is often a hub for local community chatter."
+              }
+            },
+            {
+              "name": "Playa de las Catedrales",
+              "tip_5lang": {
+                "de": "Achten Sie auf die Rückfahrzeiten; im Winter gibt es weniger Verbindungen.",
+                "hu": "Ügyeljen a visszautazási időpontokra; télen kevesebb a járat.",
+                "ro": "Atenție la orele de retur; iarna sunt mai puține conexiuni.",
+                "en": "Check the return times carefully; there are fewer connections in winter."
+              }
+            },
+            {
+              "name": "Puerto de Ribadeo",
+              "tip_5lang": {
+                "de": "Genießen Sie die warme Heizung im Bus nach dem windigen Hafenspaziergang.",
+                "hu": "Élvezze a busz fűtését a szeles kikötői séta után.",
+                "ro": "Bucurați-vă de căldura din autobuz după plimbarea vântoasă prin port.",
+                "en": "Enjoy the heating on the bus after a windy walk around the port."
+              }
+            },
+            {
+              "name": "Barrio de San Roque",
+              "tip_5lang": {
+                "de": "Die Haltestelle liegt zentral zwischen den buntesten Häusern.",
+                "hu": "A megálló központilag helyezkedik el a legszínesebb házak között.",
+                "ro": "Stația este situată central între cele mai colorate case.",
+                "en": "The stop is centrally located among the most colorful houses."
+              }
+            },
+            {
+              "name": "Torre de los Moreno",
+              "tip_5lang": {
+                "de": "Die Lichter der Stadt machen die Busfahrt am späten Nachmittag gemütlich.",
+                "hu": "A város fényei hangulatossá teszik a buszozást késő délután.",
+                "ro": "Luminile orașului fac călătoria cu autobuzul plăcută după-amiaza târziu.",
+                "en": "The city lights make the bus ride cozy in the late afternoon."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Planen Sie Pufferzeiten ein, da Busse bei Winterwetter verzögert sein können.",
+              "Die FEVE-Schmalspurbahn bietet tolle Ausblicke auf die winterliche Küste.",
+              "Kaufen Sie Tickets beim Fahrer oder am Kiosk in der Nähe der Plaza.",
+              "Tragen Sie eine Mütze, da es beim Warten an der Küste zieht."
+            ],
+            "hu": [
+              "Számoljon ráhagyással, mert a buszok télen késhetnek.",
+              "A FEVE keskeny nyomtávú vasút remek kilátást nyújt a téli partvidékre.",
+              "Vegye meg a jegyet a sofőrnél vagy a Plaza közeli újságosnál.",
+              "Viseljen sapkát, mert a parton várakozva huzat van."
+            ],
+            "ro": [
+              "Planificați timp suplimentar, deoarece autobuzele pot întârzia iarna.",
+              "Calea ferată îngustă FEVE oferă priveliști superbe ale coastei de iarnă.",
+              "Cumpărați bilete de la șofer sau de la chioșcul de lângă Plaza.",
+              "Purtați căciulă, vântul este puternic cât timp așteptați pe coastă."
+            ],
+            "en": [
+              "Allow for extra time as buses may be delayed during winter weather.",
+              "The FEVE narrow-gauge train offers great views of the winter coastline.",
+              "Buy tickets from the driver or at the kiosk near the main square.",
+              "Wear a warm hat as it can be very drafty while waiting near the coast."
+            ]
+          }
+        }
+      }
+    }
+  },
+  "external_resources": {
+    "tourism_office": "https://www.ribadeo.gal",
+    "transit_official": "https://www.monbus.es",
+    "language_tips": {
+      "de": "Ribadeo liegt an der Grenze zu Asturien, viele Einheimische sprechen Galego, einige auch eine Mischform mit Asturisch. Spanisch funktioniert, Englisch ist außerhalb der Touristeninfo selten.",
+      "hu": "Ribadeo Asztúria határán van, sokan galego nyelven beszélnek, néhányan asztúr keverékkel. A spanyol mindenhol megy, az angol a turistairodán kívül ritka.",
+      "ro": "Ribadeo se află la granița cu Asturia, mulți localnici vorbesc galega, unii un amestec cu asturiana. Spaniola merge, engleza e rară în afara biroului de turism.",
+      "en": "Ribadeo sits on the Asturias border, many locals speak Galego and some a mix with Asturian. Spanish works fine, English is rare outside the tourist office."
+    },
+    "best_time_to_visit": {
+      "de": "Juni bis September ist Hauptsaison wegen Praia das Catedrais. Im Juli und August braucht man dort kostenlose Online-Tickets im Voraus, sonst kommt man nicht auf den Strand.",
+      "hu": "Június-szeptember a főszezon a Praia das Catedrais miatt. Júliusban és augusztusban előzetes ingyenes online jegy kell, anélkül nem engednek le a strandra.",
+      "ro": "Iunie-septembrie e sezonul principal datorită Praia das Catedrais. În iulie și august trebuie să rezervi bilet online gratuit, fără el nu te lasă pe plajă.",
+      "en": "June to September is peak for Praia das Catedrais. In July and August you need a free advance online ticket to even reach the sand."
+    },
+    "neighborhood_warnings": {
+      "de": "Sehr sicheres Städtchen, fast keine Kriminalität. An der Praia das Catedrais die Gezeitenzeiten unbedingt einhalten, bei Flut werden die Höhlen schnell überspült und Touristen mussten schon gerettet werden.",
+      "hu": "Nagyon biztonságos kisváros, alig bűnözés. A Praia das Catedrais barlangjainál a dagály időpontját komolyan kell venni, áradásnál percek alatt elöntheti, már több turistát kellett kimenteni.",
+      "ro": "Orășel foarte sigur, criminalitate aproape inexistentă. La Praia das Catedrais respectă strict orarul mareelor, peșterile se umplu rapid la flux, turiști au trebuit deja salvați.",
+      "en": "Very safe town, almost no crime. At Praia das Catedrais take the tide times seriously, the caves flood fast at high water and tourists have needed rescue."
+    }
+  }
+}

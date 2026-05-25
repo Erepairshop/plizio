@@ -1,0 +1,2438 @@
+{
+  "city_id": "vejer-de-la-frontera",
+  "anchor": {
+    "name": "Plaza de España",
+    "coords": [
+      -5.9658,
+      36.2519
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 3.2,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": "Plaza de España",
+          "coords": [
+            -5.9658,
+            36.2519
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie den Brunnen mit den bunten Kacheln.",
+            "hu": "Csodáld meg a színes csempés szökőkutat.",
+            "ro": "Admirați fântâna cu plăci ceramice colorate.",
+            "en": "Admire the fountain with colorful tiles."
+          }
+        },
+        {
+          "name": "Arco de la Segur",
+          "coords": [
+            -5.9665,
+            36.2525
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:45",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Das am besten erhaltene Tor der alten Stadtmauer.",
+            "hu": "A városfal legjobban megőrzött kapuja.",
+            "ro": "Cea mai bine conservată poartă a zidului cetății.",
+            "en": "The best-preserved gate of the old town walls."
+          }
+        },
+        {
+          "name": "Iglesia del Divino Salvador",
+          "coords": [
+            -5.9662,
+            36.2528
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Beobachten Sie die Mischung aus Gotik und Mudéjar-Stil.",
+            "hu": "Figyeld meg a gótikus és mudéjar stílus keveredését.",
+            "ro": "Observați amestecul de stil gotic și mudéjar.",
+            "en": "Observe the blend of Gothic and Mudéjar styles."
+          }
+        },
+        {
+          "name": "Murallas de Vejer",
+          "coords": [
+            -5.967,
+            36.253
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang der Befestigungsanlagen aus dem 15. Jahrhundert.",
+            "hu": "Sétálj végig a 15. századi erődítmények mentén.",
+            "ro": "Plimbați-vă de-a lungul fortificațiilor din secolul XV.",
+            "en": "Walk along the 15th-century fortifications."
+          }
+        },
+        {
+          "name": "Castillo de Vejer",
+          "coords": [
+            -5.9675,
+            36.2535
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick vom Hufeisenbogen.",
+            "hu": "Élvezd a panorámát a patkóíves kaputól.",
+            "ro": "Bucurați-vă de panorama de la arcul în formă de potcoavă.",
+            "en": "Enjoy the panorama from the horseshoe arch."
+          }
+        },
+        {
+          "name": "Convento de las Monjas Concepcionistas",
+          "coords": [
+            -5.968,
+            36.254
+          ],
+          "category": "museums",
+          "arrive_at": "13:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Besuchen Sie das Stadtmuseum im ehemaligen Kloster.",
+            "hu": "Látogasd meg a városi múzeumot az egykori kolostorban.",
+            "ro": "Vizitați muzeul orașului în fosta mănăstire.",
+            "en": "Visit the city museum in the former convent."
+          }
+        },
+        {
+          "name": "Mirador de la Cobijada",
+          "coords": [
+            -5.9685,
+            36.2545
+          ],
+          "category": "natural features",
+          "arrive_at": "14:40",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Fotografieren Sie die Statue der traditionell gekleideten Frau.",
+            "hu": "Fotózd le a hagyományos viseletbe öltözött nő szobrát.",
+            "ro": "Fotografiați statuia femeii în costum tradițional.",
+            "en": "Take a photo of the statue of the traditionally dressed woman."
+          }
+        },
+        {
+          "name": "Molinos de Viento de Vejer",
+          "coords": [
+            -5.972,
+            36.256
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "15:30",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Besichtigen Sie die restaurierten Windmühlen von Las Tres Avemarías.",
+            "hu": "Nézd meg a Las Tres Avemarías restaurált szélmalmait.",
+            "ro": "Vizitați morile de vânt restaurate de la Las Tres Avemarías.",
+            "en": "Visit the restored windmills of Las Tres Avemarías."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Vejer auf der Plaza de España, umgeben von Palmen und dem berühmten Keramikbrunnen. Schlendern Sie durch die engen, weiß getünchten Gassen zum Arco de la Segur, einem Symbol der mittelalterlichen Verteidigung der Stadt.\n\nMittags erkunden Sie die beeindruckende Iglesia del Divino Salvador und die alten Stadtmauern, die einen spektakulären Blick auf die andalusische Landschaft bieten. Das Schloss von Vejer entführt Sie mit seiner maurischen Architektur in die Zeit der Reconquista.\n\nAm Nachmittag tauchen Sie im Convento de las Monjas Concepcionistas in die lokale Geschichte ein. Ein Stopp am Mirador de la Cobijada ist unverzichtbar, um die ikonische Statue der verschleierten Frau zu sehen, die an die geheimnisvolle Vergangenheit der Region erinnert.\n\nBeenden Sie den Tag bei den historischen Windmühlen auf dem Hügel. Hier spüren Sie den Wind von der Küste und genießen das goldene Licht der Abendsonne über den weißen Häusern eines der schönsten Dörfer Spaniens.",
+        "hu": "Kezd a napot Vejer szívében, a Plaza de España téren, pálmák és a híres kerámia szökőkút gyűrűjében. Sétálj a szűk, fehérre meszelt utcákon az Arco de la Segur kapuhoz, amely a város középkori védelmének jelképe.\n\nDélben fedezd fel a lenyűgöző Iglesia del Divino Salvador templomot és a várfalakat, ahonnan pazar kilátás nyílik az andalúz tájra. A Vejer-i vár mór építészetével visszarepít a Reconquista idejébe.\n\nDélután merülj el a helyi történelemben a Convento de las Monjas Concepcionistas falai között. Kötelező megálló a Mirador de la Cobijada kilátó, ahol megtekintheted a titokzatos múltra emlékeztető fátyolos nő szobrát.\n\nZárd a napot a dombtetőn álló történelmi szélmalmoknál. Itt érezheted a tenger felől fújó szelet, és gyönyörködhetsz az alkonyi fényekben, amelyek beragyogják Spanyolország egyik legszebb fehér faluját.",
+        "ro": "Începeți ziua în inima localității Vejer, în Plaza de España, înconjurați de palmieri și de faimoasa fântână cu ceramică. Plimbați-vă pe străzile înguste și albe până la Arco de la Segur, un simbol al apărării medievale a orașului.\n\nLa prânz, explorați impresionanta Iglesia del Divino Salvador și zidurile vechi ale cetății, care oferă o vedere spectaculoasă asupra peisajului andaluz. Castelul din Vejer vă transportă în timpul Reconquistei cu arhitectura sa maură.\n\nDupă-amiaza, pătrundeți în istoria locală la Convento de las Monjas Concepcionistas. O oprire la Mirador de la Cobijada este esențială pentru a vedea statuia iconică a femeii cu văl, care amintește de trecutul misterios al regiunii.\n\nÎncheiați ziua la morile de vânt istorice de pe deal. Aici veți simți briza mării și vă veți bucura de lumina aurie a apusului peste casele albe ale unuia dintre cele mai frumoase sate din Spania.",
+        "en": "Start your day in the heart of Vejer at Plaza de España, surrounded by palms and the famous ceramic fountain. Wander through the narrow, whitewashed streets to the Arco de la Segur, a symbol of the town's medieval defenses.\n\nAt midday, explore the impressive Iglesia del Divino Salvador and the ancient walls, which offer spectacular views of the Andalusian landscape. The Castle of Vejer transports you back to the time of the Reconquista with its Moorish architecture.\n\nIn the afternoon, immerse yourself in local history at the Convento de las Monjas Concepcionistas. A stop at the Mirador de la Cobijada is essential to see the iconic statue of the veiled woman, recalling the region's mysterious past.\n\nEnd the day at the historical windmills on the hill. Here you can feel the wind from the coast and enjoy the golden evening light over the white houses of one of Spain's most beautiful villages."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lomo en Manteca",
+            "tip": "Schweinelende in Schmalz konserviert, eine lokale Delikatesse."
+          },
+          {
+            "name": "Restaurante El Jardín del Califa",
+            "tip": "Nordafrikanisch-andalusische Fusionsküche in einem magischen Garten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lomo en Manteca",
+            "tip": "Sertéskaraj zsírban eltéve, igazi helyi specialitás."
+          },
+          {
+            "name": "Restaurante El Jardín del Califa",
+            "tip": "Észak-afrikai és andalúz fúziós konyha egy varázslatos kertben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lomo en Manteca",
+            "tip": "Cotlet de porc conservat în untură, o specialitate locală autentică."
+          },
+          {
+            "name": "Restaurante El Jardín del Califa",
+            "tip": "Bucătărie fusion nord-africană și andaluză într-o grădină magică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lomo en Manteca",
+            "tip": "Pork loin preserved in lard, a true local delicacy."
+          },
+          {
+            "name": "Restaurante El Jardín del Califa",
+            "tip": "North African and Andalusian fusion cuisine in a magical garden setting."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Mirador de la Cobijada",
+            "tip": "Stiller Ort für den Sonnenuntergang.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Calle de la Judería",
+            "tip": "Ruhige Gasse im ehemaligen jüdischen Viertel.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mirador de la Cobijada",
+            "tip": "Csendes pont a naplemente megtekintéséhez.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Calle de la Judería",
+            "tip": "Nyugodt sikátor az egykori zsidó negyedben.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mirador de la Cobijada",
+            "tip": "Loc liniștit pentru a privi apusul.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Calle de la Judería",
+            "tip": "Alee liniștită în fostul cartier evreiesc.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Mirador de la Cobijada",
+            "tip": "Quiet spot to watch the sunset.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Calle de la Judería",
+            "tip": "Peaceful alley in the former Jewish quarter.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Artesanía local",
+            "tip": "Handgefertigte Keramik und Lederwaren in der Altstadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kézművesség",
+            "tip": "Kézzel készült kerámiák és bőrtermékek az óvárosban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Artizanat local",
+            "tip": "Ceramică lucrată manual și articole din piele în centrul vechi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Crafts",
+            "tip": "Handmade ceramics and leather goods in the old town."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für die steilen Kopfsteinpflastergassen.",
+          "Besuchen Sie die Stadt am frühen Morgen, um die Hitze und Gruppen zu vermeiden.",
+          "Parken Sie am Fuße des Hügels, da die Altstadt fast autofrei ist.",
+          "Probieren Sie den lokalen Sherry (Fino) in einer der Tabernas."
+        ],
+        "hu": [
+          "Viselj kényelmes cipőt a meredek, macskaköves utcákhoz.",
+          "Érkezz korán reggel, hogy elkerüld a hőséget és a csoportokat.",
+          "Parkolj a domb alján, mert az óváros szinte autómentes.",
+          "Kóstold meg a helyi sherryt (Fino) az egyik tabernában."
+        ],
+        "ro": [
+          "Purtați încălțăminte comodă pentru străzile abrupte și pietruite.",
+          "Vizitați orașul dimineața devreme pentru a evita căldura și aglomerația.",
+          "Parcați la baza dealului, deoarece centrul vechi este aproape pietonal.",
+          "Gustați sherry-ul local (Fino) într-una dintre taberne."
+        ],
+        "en": [
+          "Wear comfortable shoes for the steep, cobbled streets.",
+          "Visit early in the morning to avoid the heat and tour groups.",
+          "Park at the bottom of the hill as the old town is mostly car-free.",
+          "Try the local sherry (Fino) in one of the traditional tabernas."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag im Herzen von Vejer auf der Plaza de España, umgeben von Palmen und dem berühmten Keramikbrunnen. Schlendern Sie durch die engen, weiß getünchten Gassen zum Arco de la Segur, einem Symbol der mittelalterlichen Verteidigung der Stadt.\n\nMittags erkunden Sie die beeindruckende Iglesia del Divino Salvador und die alten Stadtmauern, die einen spektakulären Blick auf die andalusische Landschaft bieten. Das Schloss von Vejer entführt Sie mit seiner maurischen Architektur in die Zeit der Reconquista.\n\nAm Nachmittag tauchen Sie im Convento de las Monjas Concepcionistas in die lokale Geschichte ein. Ein Stopp am Mirador de la Cobijada ist unverzichtbar, um die ikonische Statue der verschleierten Frau zu sehen, die an die geheimnisvolle Vergangenheit der Region erinnert.\n\nBeenden Sie den Tag bei den historischen Windmühlen auf dem Hügel. Hier spüren Sie den Wind von der Küste und genießen das goldene Licht der Abendsonne über den weißen Häusern eines der schönsten Dörfer Spaniens.",
+            "hu": "Kezd a napot Vejer szívében, a Plaza de España téren, pálmák és a híres kerámia szökőkút gyűrűjében. Sétálj a szűk, fehérre meszelt utcákon az Arco de la Segur kapuhoz, amely a város középkori védelmének jelképe.\n\nDélben fedezd fel a lenyűgöző Iglesia del Divino Salvador templomot és a várfalakat, ahonnan pazar kilátás nyílik az andalúz tájra. A Vejer-i vár mór építészetével visszarepít a Reconquista idejébe.\n\nDélután merülj el a helyi történelemben a Convento de las Monjas Concepcionistas falai között. Kötelező megálló a Mirador de la Cobijada kilátó, ahol megtekintheted a titokzatos múltra emlékeztető fátyolos nő szobrát.\n\nZárd a napot a dombtetőn álló történelmi szélmalmoknál. Itt érezheted a tenger felől fújó szelet, és gyönyörködhetsz az alkonyi fényekben, amelyek beragyogják Spanyolország egyik legszebb fehér faluját.",
+            "ro": "Începeți ziua în inima localității Vejer, în Plaza de España, înconjurați de palmieri și de faimoasa fântână cu ceramică. Plimbați-vă pe străzile înguste și albe până la Arco de la Segur, un simbol al apărării medievale a orașului.\n\nLa prânz, explorați impresionanta Iglesia del Divino Salvador și zidurile vechi ale cetății, care oferă o vedere spectaculoasă asupra peisajului andaluz. Castelul din Vejer vă transportă în timpul Reconquistei cu arhitectura sa maură.\n\nDupă-amiaza, pătrundeți în istoria locală la Convento de las Monjas Concepcionistas. O oprire la Mirador de la Cobijada este esențială pentru a vedea statuia iconică a femeii cu văl, care amintește de trecutul misterios al regiunii.\n\nÎncheiați ziua la morile de vânt istorice de pe deal. Aici veți simți briza mării și vă veți bucura de lumina aurie a apusului peste casele albe ale unuia dintre cele mai frumoase sate din Spania.",
+            "en": "Start your day in the heart of Vejer at Plaza de España, surrounded by palms and the famous ceramic fountain. Wander through the narrow, whitewashed streets to the Arco de la Segur, a symbol of the town's medieval defenses.\n\nAt midday, explore the impressive Iglesia del Divino Salvador and the ancient walls, which offer spectacular views of the Andalusian landscape. The Castle of Vejer transports you back to the time of the Reconquista with its Moorish architecture.\n\nIn the afternoon, immerse yourself in local history at the Convento de las Monjas Concepcionistas. A stop at the Mirador de la Cobijada is essential to see the iconic statue of the veiled woman, recalling the region's mysterious past.\n\nEnd the day at the historical windmills on the hill. Here you can feel the wind from the coast and enjoy the golden evening light over the white houses of one of Spain's most beautiful villages."
+          },
+          "stops": [
+            {
+              "name": "Plaza de España",
+              "tip_5lang": {
+                "de": "Bewundern Sie den Brunnen mit den bunten Kacheln.",
+                "hu": "Csodáld meg a színes csempés szökőkutat.",
+                "ro": "Admirați fântâna cu plăci ceramice colorate.",
+                "en": "Admire the fountain with colorful tiles."
+              }
+            },
+            {
+              "name": "Arco de la Segur",
+              "tip_5lang": {
+                "de": "Das am besten erhaltene Tor der alten Stadtmauer.",
+                "hu": "A városfal legjobban megőrzött kapuja.",
+                "ro": "Cea mai bine conservată poartă a zidului cetății.",
+                "en": "The best-preserved gate of the old town walls."
+              }
+            },
+            {
+              "name": "Iglesia del Divino Salvador",
+              "tip_5lang": {
+                "de": "Beobachten Sie die Mischung aus Gotik und Mudéjar-Stil.",
+                "hu": "Figyeld meg a gótikus és mudéjar stílus keveredését.",
+                "ro": "Observați amestecul de stil gotic și mudéjar.",
+                "en": "Observe the blend of Gothic and Mudéjar styles."
+              }
+            },
+            {
+              "name": "Murallas de Vejer",
+              "tip_5lang": {
+                "de": "Spazieren Sie entlang der Befestigungsanlagen aus dem 15. Jahrhundert.",
+                "hu": "Sétálj végig a 15. századi erődítmények mentén.",
+                "ro": "Plimbați-vă de-a lungul fortificațiilor din secolul XV.",
+                "en": "Walk along the 15th-century fortifications."
+              }
+            },
+            {
+              "name": "Castillo de Vejer",
+              "tip_5lang": {
+                "de": "Genießen Sie den Panoramablick vom Hufeisenbogen.",
+                "hu": "Élvezd a panorámát a patkóíves kaputól.",
+                "ro": "Bucurați-vă de panorama de la arcul în formă de potcoavă.",
+                "en": "Enjoy the panorama from the horseshoe arch."
+              }
+            },
+            {
+              "name": "Convento de las Monjas Concepcionistas",
+              "tip_5lang": {
+                "de": "Besuchen Sie das Stadtmuseum im ehemaligen Kloster.",
+                "hu": "Látogasd meg a városi múzeumot az egykori kolostorban.",
+                "ro": "Vizitați muzeul orașului în fosta mănăstire.",
+                "en": "Visit the city museum in the former convent."
+              }
+            },
+            {
+              "name": "Mirador de la Cobijada",
+              "tip_5lang": {
+                "de": "Fotografieren Sie die Statue der traditionell gekleideten Frau.",
+                "hu": "Fotózd le a hagyományos viseletbe öltözött nő szobrát.",
+                "ro": "Fotografiați statuia femeii în costum tradițional.",
+                "en": "Take a photo of the statue of the traditionally dressed woman."
+              }
+            },
+            {
+              "name": "Molinos de Viento de Vejer",
+              "tip_5lang": {
+                "de": "Besichtigen Sie die restaurierten Windmühlen von Las Tres Avemarías.",
+                "hu": "Nézd meg a Las Tres Avemarías restaurált szélmalmait.",
+                "ro": "Vizitați morile de vânt restaurate de la Las Tres Avemarías.",
+                "en": "Visit the restored windmills of Las Tres Avemarías."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Lomo en Manteca",
+                "tip": "Schweinelende in Schmalz konserviert, eine lokale Delikatesse."
+              },
+              {
+                "name": "Restaurante El Jardín del Califa",
+                "tip": "Nordafrikanisch-andalusische Fusionsküche in einem magischen Garten."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Lomo en Manteca",
+                "tip": "Sertéskaraj zsírban eltéve, igazi helyi specialitás."
+              },
+              {
+                "name": "Restaurante El Jardín del Califa",
+                "tip": "Észak-afrikai és andalúz fúziós konyha egy varázslatos kertben."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Lomo en Manteca",
+                "tip": "Cotlet de porc conservat în untură, o specialitate locală autentică."
+              },
+              {
+                "name": "Restaurante El Jardín del Califa",
+                "tip": "Bucătărie fusion nord-africană și andaluză într-o grădină magică."
+              }
+            ],
+            "en": [
+              {
+                "name": "Lomo en Manteca",
+                "tip": "Pork loin preserved in lard, a true local delicacy."
+              },
+              {
+                "name": "Restaurante El Jardín del Califa",
+                "tip": "North African and Andalusian fusion cuisine in a magical garden setting."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Mirador de la Cobijada",
+                "tip": "Stiller Ort für den Sonnenuntergang.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Calle de la Judería",
+                "tip": "Ruhige Gasse im ehemaligen jüdischen Viertel.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Mirador de la Cobijada",
+                "tip": "Csendes pont a naplemente megtekintéséhez.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Calle de la Judería",
+                "tip": "Nyugodt sikátor az egykori zsidó negyedben.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Mirador de la Cobijada",
+                "tip": "Loc liniștit pentru a privi apusul.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Calle de la Judería",
+                "tip": "Alee liniștită în fostul cartier evreiesc.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Mirador de la Cobijada",
+                "tip": "Quiet spot to watch the sunset.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Calle de la Judería",
+                "tip": "Peaceful alley in the former Jewish quarter.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Artesanía local",
+                "tip": "Handgefertigte Keramik und Lederwaren in der Altstadt."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Helyi kézművesség",
+                "tip": "Kézzel készült kerámiák és bőrtermékek az óvárosban."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Artizanat local",
+                "tip": "Ceramică lucrată manual și articole din piele în centrul vechi."
+              }
+            ],
+            "en": [
+              {
+                "name": "Local Crafts",
+                "tip": "Handmade ceramics and leather goods in the old town."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Tragen Sie bequeme Schuhe für die steilen Kopfsteinpflastergassen.",
+              "Besuchen Sie die Stadt am frühen Morgen, um die Hitze und Gruppen zu vermeiden.",
+              "Parken Sie am Fuße des Hügels, da die Altstadt fast autofrei ist.",
+              "Probieren Sie den lokalen Sherry (Fino) in einer der Tabernas."
+            ],
+            "hu": [
+              "Viselj kényelmes cipőt a meredek, macskaköves utcákhoz.",
+              "Érkezz korán reggel, hogy elkerüld a hőséget és a csoportokat.",
+              "Parkolj a domb alján, mert az óváros szinte autómentes.",
+              "Kóstold meg a helyi sherryt (Fino) az egyik tabernában."
+            ],
+            "ro": [
+              "Purtați încălțăminte comodă pentru străzile abrupte și pietruite.",
+              "Vizitați orașul dimineața devreme pentru a evita căldura și aglomerația.",
+              "Parcați la baza dealului, deoarece centrul vechi este aproape pietonal.",
+              "Gustați sherry-ul local (Fino) într-una dintre taberne."
+            ],
+            "en": [
+              "Wear comfortable shoes for the steep, cobbled streets.",
+              "Visit early in the morning to avoid the heat and tour groups.",
+              "Park at the bottom of the hill as the old town is mostly car-free.",
+              "Try the local sherry (Fino) in one of the traditional tabernas."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens suchen wir Schutz in den engen Gassen rund um die Plaza de España, wo die weißgetünchten Wände den Regen abhalten. Mittags erkunden wir das Innere der Kirche und der Stadtmauern, um trocken zu bleiben. Am Nachmittag bietet das Konvent einen kulturellen Rückzugsort vor den Schauern. Der Tag endet gemütlich in einer lokalen Taverne, während der Regen gegen die Fenster trommelt.",
+            "hu": "Reggel a Plaza de España körüli szűk utcákban keresünk menedéket, ahol a fehér falak felfogják a szelet. Délben a templom és a várfalak belső részeit fedezzük fel, hogy elkerüljük a záporokat. Délután a kolostor múzeuma nyújt kulturális kikapcsolódást és száraz helyet. Az estét egy helyi tavernában zárjuk, hallgatva az eső kopogását az ablakon.",
+            "ro": "Dimineața căutăm adăpost pe străzile înguste din jurul Plaza de España, unde zidurile albe ne feresc de vânt. La prânz explorăm interiorul bisericii și al zidurilor cetății pentru a rămâne uscați. După-amiaza, mănăstirea oferă un refugiu cultural în fața ploii. Seara se încheie confortabil într-o tavernă locală, în timp ce ploaia bate în ferestre.",
+            "en": "In the morning, we seek shelter in the narrow streets around Plaza de España, where the white walls block the wind. At noon, we explore the interior of the church and the city walls to stay dry. In the afternoon, the convent provides a cultural retreat from the showers. The day ends cozily in a local tavern while the rain patters against the windows."
+          },
+          "stops": [
+            {
+              "name": "Plaza de España",
+              "tip_4lang": {
+                "de": "Suchen Sie Schutz unter den Arkaden der umliegenden Gebäude.",
+                "hu": "Keressen menedéket a környező épületek árkádjai alatt.",
+                "ro": "Căutați adăpost sub arcadele clădirilor din jur.",
+                "en": "Seek shelter under the arcades of the surrounding buildings."
+              }
+            },
+            {
+              "name": "Arco de la Segur",
+              "tip_4lang": {
+                "de": "Der Bogen bietet einen kurzen trockenen Moment während des Gehens.",
+                "hu": "A boltív rövid száraz pihenőt nyújt séta közben.",
+                "ro": "Arcul oferă un scurt moment de uscăciune în timpul mersului.",
+                "en": "The arch provides a brief dry moment while walking."
+              }
+            },
+            {
+              "name": "Iglesia del Divino Salvador",
+              "tip_4lang": {
+                "de": "Perfekter Ort, um einen starken Regenschauer im Inneren abzuwarten.",
+                "hu": "Tökéletes hely egy nagyobb zápor kivárására a belső térben.",
+                "ro": "Locul perfect pentru a aștepta trecerea unei ploi torențiale în interior.",
+                "en": "Perfect place to wait out a heavy downpour inside."
+              }
+            },
+            {
+              "name": "Murallas de Vejer",
+              "tip_4lang": {
+                "de": "Vorsicht, die Steine können bei Nässe sehr rutschig sein.",
+                "hu": "Vigyázat, a kövek nedvesen nagyon csúszósak lehetnek.",
+                "ro": "Atenție, pietrele pot fi foarte alunecoase când sunt ude.",
+                "en": "Caution, the stones can be very slippery when wet."
+              }
+            },
+            {
+              "name": "Castillo de Vejer",
+              "tip_4lang": {
+                "de": "Nutzen Sie die überdachten Bereiche der Burgruine.",
+                "hu": "Használja ki a várrom fedett részeit a nézelődéshez.",
+                "ro": "Profitați de zonele acoperite ale ruinelor castelului.",
+                "en": "Take advantage of the covered areas of the castle ruins."
+              }
+            },
+            {
+              "name": "Convento de las Monjas Concepcionistas",
+              "tip_4lang": {
+                "de": "Ein idealer Indoor-Stopp mit interessanten Ausstellungen.",
+                "hu": "Ideális fedett megálló érdekes kiállításokkal.",
+                "ro": "O oprire ideală în interior, cu expoziții interesante.",
+                "en": "An ideal indoor stop with interesting exhibitions."
+              }
+            },
+            {
+              "name": "Mirador de la Cobijada",
+              "tip_4lang": {
+                "de": "Kurzer Stopp für ein Foto, da es hier sehr windig sein kann.",
+                "hu": "Csak egy gyors fotó, mert itt nagyon fújhat a szél.",
+                "ro": "O oprire scurtă pentru o fotografie, deoarece poate fi foarte vântos.",
+                "en": "Short stop for a photo, as it can be very windy here."
+              }
+            },
+            {
+              "name": "Molinos de Viento de Vejer",
+              "tip_4lang": {
+                "de": "Die Mühlen sind bei Regen oft geschlossen, bieten aber tolle Motive.",
+                "hu": "A malmok esőben gyakran zárva vannak, de kívülről is szépek.",
+                "ro": "Morile sunt adesea închise pe ploaie, dar oferă motive foto grozave.",
+                "en": "The mills are often closed in the rain, but offer great photo subjects."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie rutschfeste Schuhe für das Kopfsteinpflaster.",
+              "Ein stabiler Regenschirm ist wegen des Küstenwindes wichtig.",
+              "Besuchen Sie die Museen während der stärksten Regengüsse.",
+              "Die Cafés an der Plaza de España bieten gemütliche trockene Plätze.",
+              "Nutzen Sie die schmalen Gassen als natürlichen Windschutz."
+            ],
+            "hu": [
+              "Viseljen csúszásmentes cipőt a macskaköves utcákon.",
+              "A tengerparti szél miatt erős esernyőre lesz szüksége.",
+              "A legnagyobb záporok idejére időzítse a múzeumlátogatást.",
+              "A Plaza de España kávézói barátságos, száraz helyek.",
+              "Használja a szűk sikátorokat természetes szélfogóként."
+            ],
+            "ro": [
+              "Purtați încălțăminte antiderapantă pentru străzile pietruite.",
+              "Aveți nevoie de o umbrelă rezistentă din cauza vântului de coastă.",
+              "Planificați vizitarea muzeelor în timpul ploilor torențiale.",
+              "Cafenelele din Plaza de España oferă locuri uscate și primitoare.",
+              "Folosiți străzile înguste ca protecție naturală împotriva vântului."
+            ],
+            "en": [
+              "Wear non-slip shoes for the cobblestone streets.",
+              "A sturdy umbrella is essential due to the coastal wind.",
+              "Schedule museum visits during the heaviest downpours.",
+              "Cafés at Plaza de España offer cozy dry spots.",
+              "Use the narrow alleys as natural windbreaks."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen in Vejer ist frisch und klar, ideal für einen Spaziergang entlang der weißen Mauern. Mittags genießen wir die milde Sonne auf der Plaza de España bei einem warmen Getränk. Am Nachmittag leuchten die Windmühlen im goldenen Licht der tiefstehenden Sonne. Der Abend beginnt früh mit einem spektakulären Sonnenuntergang über der andalusischen Landschaft.",
+            "hu": "A téli reggel Vejerben friss és tiszta, ideális a fehér falak menti sétához. Délben a Plaza de España enyhe napsütését élvezzük egy meleg ital mellett. Délután a szélmalmok aranyfényben úsznak az alacsonyan járó nap alatt. Az este korán kezdődik egy látványos naplementével az andalúz táj felett.",
+            "ro": "Dimineața de iarnă în Vejer este proaspătă și senină, ideală pentru o plimbare de-a lungul zidurilor albe. La prânz ne bucurăm de soarele blând în Plaza de España cu o băutură caldă. După-amiaza, morile de vânt strălucesc în lumina aurie a soarelui jos. Seara începe devreme cu un apus spectaculos peste peisajul andaluz.",
+            "en": "The winter morning in Vejer is fresh and clear, ideal for a walk along the white walls. At noon, we enjoy the mild sun at Plaza de España with a warm drink. In the afternoon, the windmills glow in the golden light of the low sun. The evening begins early with a spectacular sunset over the Andalusian landscape."
+          },
+          "stops": [
+            {
+              "name": "Plaza de España",
+              "tip_4lang": {
+                "de": "Genießen Sie die Wintersonne auf den nach Süden ausgerichteten Bänken.",
+                "hu": "Élvezze a téli napsütést a déli fekvésű padokon.",
+                "ro": "Bucurați-vă de soarele de iarnă pe băncile orientate spre sud.",
+                "en": "Enjoy the winter sun on the south-facing benches."
+              }
+            },
+            {
+              "name": "Arco de la Segur",
+              "tip_4lang": {
+                "de": "Das Licht fällt im Winter besonders schön durch den Bogen.",
+                "hu": "A fény télen különösen szépen esik át a boltíven.",
+                "ro": "Lumina cade deosebit de frumos prin arc în timpul iernii.",
+                "en": "The light falls particularly beautifully through the arch in winter."
+              }
+            },
+            {
+              "name": "Iglesia del Divino Salvador",
+              "tip_4lang": {
+                "de": "Das Innere ist im Winter oft wärmer als die schattigen Gassen.",
+                "hu": "A belső tér télen gyakran melegebb, mint az árnyékos utcák.",
+                "ro": "Interiorul este adesea mai cald iarna decât străzile umbrite.",
+                "en": "The interior is often warmer in winter than the shaded alleys."
+              }
+            },
+            {
+              "name": "Murallas de Vejer",
+              "tip_4lang": {
+                "de": "Perfekt für einen zügigen Spaziergang, um warm zu bleiben.",
+                "hu": "Tökéletes egy tempós sétához, hogy mozgásban maradjunk.",
+                "ro": "Perfect pentru o plimbare rapidă pentru a vă menține căldura.",
+                "en": "Perfect for a brisk walk to stay warm."
+              }
+            },
+            {
+              "name": "Castillo de Vejer",
+              "tip_4lang": {
+                "de": "Prüfen Sie die Winteröffnungszeiten, die kürzer sein können.",
+                "hu": "Ellenőrizze a téli nyitvatartást, ami rövidebb lehet.",
+                "ro": "Verificați programul de iarnă, care poate fi mai scurt.",
+                "en": "Check winter opening hours, which may be shorter."
+              }
+            },
+            {
+              "name": "Convento de las Monjas Concepcionistas",
+              "tip_4lang": {
+                "de": "Ein schöner Ort, um der kühlen Brise am Nachmittag zu entkommen.",
+                "hu": "Kellemes hely a délutáni hűvös szellő elől való menekülésre.",
+                "ro": "Un loc plăcut pentru a scăpa de briza răcoroasă de după-amiază.",
+                "en": "A nice place to escape the cool afternoon breeze."
+              }
+            },
+            {
+              "name": "Mirador de la Cobijada",
+              "tip_4lang": {
+                "de": "Nehmen Sie eine Jacke mit, der Wind kann hier oben beißen.",
+                "hu": "Vigyen kabátot, a szél itt fent metsző lehet.",
+                "ro": "Luați o jachetă, vântul poate fi tăios aici sus.",
+                "en": "Take a jacket, the wind can be biting up here."
+              }
+            },
+            {
+              "name": "Molinos de Viento de Vejer",
+              "tip_4lang": {
+                "de": "Bester Ort für Fotos im goldenen Licht kurz vor Sonnenuntergang.",
+                "hu": "A legjobb hely a fotózáshoz az aranyórában, naplemente előtt.",
+                "ro": "Cel mai bun loc pentru fotografii în lumina aurie înainte de apus.",
+                "en": "Best spot for photos in the golden light just before sunset."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Zwiebelprinzip bei der Kleidung ist wegen des Windes ratsam.",
+              "Der Sonnenuntergang ist bereits gegen 18:00 Uhr.",
+              "Schattenseiten der Stadt können deutlich kühler sein.",
+              "Viele Cafés bieten im Winter Heizstrahler im Außenbereich.",
+              "Die Fernsicht nach Marokko ist an klaren Wintertagen am besten."
+            ],
+            "hu": [
+              "A szél miatt érdemes rétegesen öltözködni.",
+              "A naplemente már 18:00 körül bekövetkezik.",
+              "A város árnyékos oldalai jóval hűvösebbek lehetnek.",
+              "Sok kávézó hősugárzóval fűti a kinti teraszt télen.",
+              "Tiszta téli napokon a legjobb a kilátás Marokkó felé."
+            ],
+            "ro": [
+              "Se recomandă îmbrăcămintea în straturi din cauza vântului.",
+              "Apusul are loc deja în jurul orei 18:00.",
+              "Părțile umbrite ale orașului pot fi considerabil mai răcoroase.",
+              "Multe cafenele oferă încălzitoare pe terase în timpul iernii.",
+              "Vizibilitatea spre Maroc este cea mai bună în zilele senine de iarnă."
+            ],
+            "en": [
+              "Layering clothes is advisable because of the wind.",
+              "Sunset is already around 6:00 PM.",
+              "Shady sides of the city can be significantly cooler.",
+              "Many cafés offer outdoor heaters in winter.",
+              "Views to Morocco are best on clear winter days."
+            ]
+          }
+        }
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "14:30",
+      "total_km": 12.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Molinos de Viento",
+          "coords": [
+            -5.972,
+            36.256
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Perfekter Startpunkt mit Blick auf das Dorf.",
+            "hu": "Tökéletes kiindulópont kilátással a falura.",
+            "ro": "Punct de plecare perfect cu vedere spre sat.",
+            "en": "Perfect starting point with views of the village."
+          }
+        },
+        {
+          "name": "Plaza de España",
+          "coords": [
+            -5.9658,
+            36.2519
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:05",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Schieben Sie das Rad in den engen Gassen.",
+            "hu": "Told a biciklit a szűk sikátorokban.",
+            "ro": "Împingeți bicicleta pe străzile înguste.",
+            "en": "Push your bike in the narrow alleys."
+          }
+        },
+        {
+          "name": "Murallas de Vejer",
+          "coords": [
+            -5.967,
+            36.253
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Sichern Sie das Rad am Stadttor.",
+            "hu": "Zárd le a biciklit a városkapunál.",
+            "ro": "Asigurați bicicleta la poarta orașului.",
+            "en": "Lock your bike at the city gate."
+          }
+        },
+        {
+          "name": "Mirador de la Cobijada",
+          "coords": [
+            -5.9685,
+            36.2545
+          ],
+          "category": "natural features",
+          "arrive_at": "11:35",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Kurze Pause mit Aussicht auf das Meer.",
+            "hu": "Rövid pihenő kilátással a tengerre.",
+            "ro": "Scurtă pauză cu vedere la mare.",
+            "en": "Short break with a view of the sea."
+          }
+        },
+        {
+          "name": "Marismas del Barbate",
+          "coords": [
+            -5.95,
+            36.22
+          ],
+          "category": "natural features",
+          "arrive_at": "12:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 9.5,
+          "tip_5lang": {
+            "de": "Radeln Sie hinunter zu den Salzmarschen.",
+            "hu": "Tekerj le a sós mocsarakhoz.",
+            "ro": "Pedalați până la mlaștinile sărate.",
+            "en": "Cycle down to the salt marshes."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Radtour beginnt bei den majestätischen Windmühlen und führt Sie durch das historische Zentrum bis hinunter in die Naturlandschaft des Barbate-Flusses. Erleben Sie den Kontrast zwischen dem weißen Bergdorf und den weiten Marschen.",
+        "hu": "Ez a kerékpártúra a fenséges szélmalmoktól indul, átvezet a történelmi központon, majd leereszkedik a Barbate-folyó természetvédelmi területére. Éld át a fehér hegyi falu és a tágas mocsárvidék kontrasztját.",
+        "ro": "Acest tur cu bicicleta începe de la morile de vânt maiestuoase, trece prin centrul istoric și coboară până în peisajul natural al râului Barbate. Experimentați contrastul dintre satul alb de munte și mlaștinile vaste.",
+        "en": "This bike tour starts at the majestic windmills, leads through the historical center, and descends to the natural landscape of the Barbate River. Experience the contrast between the white mountain village and the wide marshes."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Montaditos",
+            "tip": "Kleine belegte Brötchen für die Energie unterwegs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Montaditos",
+            "tip": "Kis szendvicsek az energiapótláshoz útközben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Montaditos",
+            "tip": "Sandvișuri mici pentru energie pe drum."
+          }
+        ],
+        "en": [
+          {
+            "name": "Montaditos",
+            "tip": "Small sandwiches to boost energy on the go."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Marismas del Barbate",
+            "tip": "Vogelbeobachtung in aller Stille.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Marismas del Barbate",
+            "tip": "Madármegfigyelés teljes csendben.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Marismas del Barbate",
+            "tip": "Observarea păsărilor în liniște deplină.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Marismas del Barbate",
+            "tip": "Birdwatching in total silence.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Aceite de Oliva",
+            "tip": "Kaufen Sie lokales Olivenöl direkt von der Kooperative."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Olívaolaj",
+            "tip": "Vegyél helyi olívaolajat közvetlenül a szövetkezettől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ulei de măsline",
+            "tip": "Cumpărați ulei de măsline local direct de la cooperativă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Olive Oil",
+            "tip": "Buy local olive oil directly from the cooperative."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Vejer liegt auf einem steilen Hügel, E-Bikes sind sehr zu empfehlen.",
+          "Prüfen Sie den Wind (Levante), er kann das Radeln sehr erschweren.",
+          "Nehmen Sie ausreichend Wasser mit, der Aufstieg ist anstrengend.",
+          "In der Altstadt müssen Fahrräder oft geschoben werden."
+        ],
+        "hu": [
+          "Vejer egy meredek dombon fekszik, az e-bike erősen ajánlott.",
+          "Ellenőrizd a szelet (Levante), mert nagyon megnehezítheti a tekerést.",
+          "Vigyél elég vizet, a felfelé vezető út fárasztó.",
+          "Az óvárosban a biciklit gyakran tolni kell."
+        ],
+        "ro": [
+          "Vejer se află pe un deal abrupt, e-bike-ul este recomandat.",
+          "Verificați vântul (Levante), poate îngreuna mult pedalatul.",
+          "Luați suficientă apă, urcarea este solicitantă.",
+          "În centrul vechi, bicicleta trebuie adesea împinsă."
+        ],
+        "en": [
+          "Vejer is on a steep hill, E-bikes are highly recommended.",
+          "Check the wind (Levante), as it can make cycling very difficult.",
+          "Take plenty of water, the climb back up is exhausting.",
+          "In the old town, bikes often need to be pushed."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Diese Radtour beginnt bei den majestätischen Windmühlen und führt Sie durch das historische Zentrum bis hinunter in die Naturlandschaft des Barbate-Flusses. Erleben Sie den Kontrast zwischen dem weißen Bergdorf und den weiten Marschen.",
+            "hu": "Ez a kerékpártúra a fenséges szélmalmoktól indul, átvezet a történelmi központon, majd leereszkedik a Barbate-folyó természetvédelmi területére. Éld át a fehér hegyi falu és a tágas mocsárvidék kontrasztját.",
+            "ro": "Acest tur cu bicicleta începe de la morile de vânt maiestuoase, trece prin centrul istoric și coboară până în peisajul natural al râului Barbate. Experimentați contrastul dintre satul alb de munte și mlaștinile vaste.",
+            "en": "This bike tour starts at the majestic windmills, leads through the historical center, and descends to the natural landscape of the Barbate River. Experience the contrast between the white mountain village and the wide marshes."
+          },
+          "stops": [
+            {
+              "name": "Molinos de Viento",
+              "tip_5lang": {
+                "de": "Perfekter Startpunkt mit Blick auf das Dorf.",
+                "hu": "Tökéletes kiindulópont kilátással a falura.",
+                "ro": "Punct de plecare perfect cu vedere spre sat.",
+                "en": "Perfect starting point with views of the village."
+              }
+            },
+            {
+              "name": "Plaza de España",
+              "tip_5lang": {
+                "de": "Schieben Sie das Rad in den engen Gassen.",
+                "hu": "Told a biciklit a szűk sikátorokban.",
+                "ro": "Împingeți bicicleta pe străzile înguste.",
+                "en": "Push your bike in the narrow alleys."
+              }
+            },
+            {
+              "name": "Murallas de Vejer",
+              "tip_5lang": {
+                "de": "Sichern Sie das Rad am Stadttor.",
+                "hu": "Zárd le a biciklit a városkapunál.",
+                "ro": "Asigurați bicicleta la poarta orașului.",
+                "en": "Lock your bike at the city gate."
+              }
+            },
+            {
+              "name": "Mirador de la Cobijada",
+              "tip_5lang": {
+                "de": "Kurze Pause mit Aussicht auf das Meer.",
+                "hu": "Rövid pihenő kilátással a tengerre.",
+                "ro": "Scurtă pauză cu vedere la mare.",
+                "en": "Short break with a view of the sea."
+              }
+            },
+            {
+              "name": "Marismas del Barbate",
+              "tip_5lang": {
+                "de": "Radeln Sie hinunter zu den Salzmarschen.",
+                "hu": "Tekerj le a sós mocsarakhoz.",
+                "ro": "Pedalați până la mlaștinile sărate.",
+                "en": "Cycle down to the salt marshes."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Montaditos",
+                "tip": "Kleine belegte Brötchen für die Energie unterwegs."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Montaditos",
+                "tip": "Kis szendvicsek az energiapótláshoz útközben."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Montaditos",
+                "tip": "Sandvișuri mici pentru energie pe drum."
+              }
+            ],
+            "en": [
+              {
+                "name": "Montaditos",
+                "tip": "Small sandwiches to boost energy on the go."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Marismas del Barbate",
+                "tip": "Vogelbeobachtung in aller Stille.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Marismas del Barbate",
+                "tip": "Madármegfigyelés teljes csendben.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Marismas del Barbate",
+                "tip": "Observarea păsărilor în liniște deplină.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Marismas del Barbate",
+                "tip": "Birdwatching in total silence.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Aceite de Oliva",
+                "tip": "Kaufen Sie lokales Olivenöl direkt von der Kooperative."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Olívaolaj",
+                "tip": "Vegyél helyi olívaolajat közvetlenül a szövetkezettől."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Ulei de măsline",
+                "tip": "Cumpărați ulei de măsline local direct de la cooperativă."
+              }
+            ],
+            "en": [
+              {
+                "name": "Olive Oil",
+                "tip": "Buy local olive oil directly from the cooperative."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Vejer liegt auf einem steilen Hügel, E-Bikes sind sehr zu empfehlen.",
+              "Prüfen Sie den Wind (Levante), er kann das Radeln sehr erschweren.",
+              "Nehmen Sie ausreichend Wasser mit, der Aufstieg ist anstrengend.",
+              "In der Altstadt müssen Fahrräder oft geschoben werden."
+            ],
+            "hu": [
+              "Vejer egy meredek dombon fekszik, az e-bike erősen ajánlott.",
+              "Ellenőrizd a szelet (Levante), mert nagyon megnehezítheti a tekerést.",
+              "Vigyél elég vizet, a felfelé vezető út fárasztó.",
+              "Az óvárosban a biciklit gyakran tolni kell."
+            ],
+            "ro": [
+              "Vejer se află pe un deal abrupt, e-bike-ul este recomandat.",
+              "Verificați vântul (Levante), poate îngreuna mult pedalatul.",
+              "Luați suficientă apă, urcarea este solicitantă.",
+              "În centrul vechi, bicicleta trebuie adesea împinsă."
+            ],
+            "en": [
+              "Vejer is on a steep hill, E-bikes are highly recommended.",
+              "Check the wind (Levante), as it can make cycling very difficult.",
+              "Take plenty of water, the climb back up is exhausting.",
+              "In the old town, bikes often need to be pushed."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir starten die Tour vorsichtig bei den Windmühlen, wo der Wind den Regen peitscht. Auf dem Weg zur Plaza de España halten wir uns an die asphaltierten Straßen, um Matsch zu vermeiden. Die Fahrt zu den Marismas wird zu einer echten Herausforderung, bietet aber dramatische Ausblicke auf die Sümpfe. Den Tag beenden wir klatschnass, aber stolz auf unsere Ausdauer.",
+            "hu": "Óvatosan indulunk a szélmalmoktól, ahol a szél veri az esőt. A Plaza de España felé vezető úton az aszfaltozott utakat választjuk a sár elkerülésére. A mocsárvidék felé vezető út igazi kihívás, de drámai kilátást nyújt a lápokra. A napot bőrig ázva, de büszkén zárjuk az elszántságunkra.",
+            "ro": "Începem turul cu prudență la morile de vânt, unde vântul biciuiește ploaia. În drum spre Plaza de España, rămânem pe drumurile asfaltate pentru a evita noroiul. Drumul spre mlaștini devine o adevărată provocare, dar oferă vederi dramatice. Încheiem ziua uzi până la piele, dar mândri de perseverența noastră.",
+            "en": "We start the tour cautiously at the windmills, where the wind whips the rain. On the way to Plaza de España, we stick to paved roads to avoid mud. The ride to the marshes becomes a real challenge but offers dramatic views. We end the day soaking wet but proud of our endurance."
+          },
+          "stops": [
+            {
+              "name": "Molinos de Viento",
+              "tip_4lang": {
+                "de": "Vorsicht vor Windböen zwischen den Mühlen.",
+                "hu": "Vigyázzon a malmok közötti széllökésekkel.",
+                "ro": "Atenție la rafalele de vânt între mori.",
+                "en": "Watch out for wind gusts between the mills."
+              }
+            },
+            {
+              "name": "Plaza de España",
+              "tip_4lang": {
+                "de": "Bremsen Sie frühzeitig auf dem nassen Kopfsteinpflaster.",
+                "hu": "Fékezzen időben a nedves macskakövön.",
+                "ro": "Frânați din timp pe pietrele umede.",
+                "en": "Brake early on the wet cobblestones."
+              }
+            },
+            {
+              "name": "Murallas de Vejer",
+              "tip_4lang": {
+                "de": "Steigen Sie bei steilen, nassen Abschnitten lieber ab.",
+                "hu": "A meredek, nedves szakaszokon inkább szálljon le a bicikliről.",
+                "ro": "Mai degrabă coborâți de pe bicicletă pe secțiunile abrupte și ude.",
+                "en": "Better dismount on steep, wet sections."
+              }
+            },
+            {
+              "name": "Mirador de la Cobijada",
+              "tip_4lang": {
+                "de": "Kurzer Halt, um die stürmische See in der Ferne zu sehen.",
+                "hu": "Rövid megálló a viharos tenger távoli látványáért.",
+                "ro": "Scurtă oprire pentru a vedea marea învolburată în depărtare.",
+                "en": "Short stop to see the stormy sea in the distance."
+              }
+            },
+            {
+              "name": "Marismas del Barbate",
+              "tip_4lang": {
+                "de": "Der Weg kann sehr schlammig sein, Schutzbleche sind ein Muss.",
+                "hu": "Az út nagyon sáros lehet, a sárvédő kötelező.",
+                "ro": "Drumul poate fi foarte noroios, aripile sunt obligatorii.",
+                "en": "The path can be very muddy; fenders are a must."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vollständige Regenbekleidung ist absolut notwendig.",
+              "Reduzieren Sie den Reifendruck leicht für besseren Grip.",
+              "Meiden Sie lackierte Markierungen auf der Straße, sie sind extrem glatt.",
+              "Reinigen Sie Kette und Bremsen nach der Tour vom Schlamm.",
+              "Ein wasserdichter Rucksack schützt Ihre Wertsachen."
+            ],
+            "hu": [
+              "A teljes esőruházat elengedhetetlen.",
+              "Kicsit csökkentse a gumi nyomását a jobb tapadásért.",
+              "Kerülje az útburkolati jeleket, mert rendkívül csúsznak.",
+              "A túra után tisztítsa meg a láncot és a fékeket a sártól.",
+              "Vízálló hátizsák védi az értéktárgyait."
+            ],
+            "ro": [
+              "Echipamentul complet de ploaie este absolut necesar.",
+              "Reduceți ușor presiunea în pneuri pentru o aderență mai bună.",
+              "Evitați marcajele vopsite pe drum, sunt extrem de alunecoase.",
+              "Curățați lanțul și frânele de noroi după tură.",
+              "Un rucsac impermeabil vă protejează obiectele de valoare."
+            ],
+            "en": [
+              "Full rain gear is absolutely necessary.",
+              "Slightly reduce tire pressure for better grip.",
+              "Avoid painted road markings, they are extremely slippery.",
+              "Clean mud from chain and brakes after the tour.",
+              "A waterproof backpack protects your valuables."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Am kühlen Wintermorgen radeln wir zu den Windmühlen, wo die Luft kristallklar ist. Die Fahrt durch das Dorf zur Plaza de España ist belebend. Auf dem Weg zu den Marismas genießen wir die Stille der Natur und die Beobachtung von Zugvögeln. Wir beenden die Tour am frühen Nachmittag, bevor die Schatten in den Tälern zu lang und kalt werden.",
+            "hu": "A hűvös téli reggelen a szélmalmokhoz tekerünk, ahol a levegő kristálytiszta. A falun átvezető út a Plaza de España felé felfrissítő. A mocsárvidék felé menet élvezzük a természet csendjét és a költöző madarak látványát. A túrát kora délután fejezzük be, mielőtt az árnyékok túl hosszúak és hidegek lennének.",
+            "ro": "În dimineața răcoroasă de iarnă pedalăm spre morile de vânt, unde aerul este de cristal. Drumul prin sat spre Plaza de España este revigorant. În drum spre mlaștini ne bucurăm de liniștea naturii și de observarea păsărilor migratoare. Încheiem turul după-amiaza devreme, înainte ca umbrele să devină prea lungi și reci.",
+            "en": "On the cool winter morning, we cycle to the windmills where the air is crystal clear. The ride through the village to Plaza de España is invigorating. On the way to the marshes, we enjoy the silence of nature and birdwatching. We finish the tour in the early afternoon before the shadows in the valleys get too long and cold."
+          },
+          "stops": [
+            {
+              "name": "Molinos de Viento",
+              "tip_4lang": {
+                "de": "Tragen Sie warme Handschuhe, der Fahrtwind ist hier kühl.",
+                "hu": "Viseljen meleg kesztyűt, a menetszél itt hűvös.",
+                "ro": "Purtați mănuși calde, vântul din față este rece aici.",
+                "en": "Wear warm gloves; the wind chill is significant here."
+              }
+            },
+            {
+              "name": "Plaza de España",
+              "tip_4lang": {
+                "de": "Sonniger Stopp für eine kurze Aufwärmpause.",
+                "hu": "Napsütötte megálló egy rövid bemelegítő pihenőhöz.",
+                "ro": "Oprire însorită pentru o scurtă pauză de încălzire.",
+                "en": "Sunny stop for a quick warm-up break."
+              }
+            },
+            {
+              "name": "Murallas de Vejer",
+              "tip_4lang": {
+                "de": "Die schattigen Passagen an der Mauer können frostig sein.",
+                "hu": "A fal menti árnyékos szakaszok fagyosak lehetnek.",
+                "ro": "Pasajele umbrite de lângă zid pot fi geroase.",
+                "en": "The shaded passages along the wall can be frosty."
+              }
+            },
+            {
+              "name": "Mirador de la Cobijada",
+              "tip_4lang": {
+                "de": "Perfekte Sicht auf das Atlasgebirge bei klarer Winterluft.",
+                "hu": "Tökéletes kilátás az Atlasz-hegységre a tiszta téli levegőben.",
+                "ro": "Vedere perfectă spre munții Atlas în aerul curat de iarnă.",
+                "en": "Perfect view of the Atlas Mountains in the clear winter air."
+              }
+            },
+            {
+              "name": "Marismas del Barbate",
+              "tip_4lang": {
+                "de": "Beste Zeit für Vogelbeobachtungen (Fernglas einpacken).",
+                "hu": "A legjobb időszak a madármegfigyelésre (távcsövet vigyen).",
+                "ro": "Cea mai bună perioadă pentru observarea păsărilor (luați binoclul).",
+                "en": "Best time for birdwatching (pack binoculars)."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winddichte Kleidung ist wichtiger als dicke Isolierung.",
+              "Nutzen Sie die Mittagssonne für die längeren Etappen.",
+              "Die Wege in den Marismas sind im Winter oft fester als im Sommer.",
+              "Trinken Sie trotz Kälte genug Wasser.",
+              "Licht am Fahrrad ist wichtig für den frühen Dämmerungseinbruch."
+            ],
+            "hu": [
+              "A szélálló ruházat fontosabb, mint a vastag hőszigetelés.",
+              "Használja ki a déli napsütést a hosszabb szakaszokra.",
+              "A mocsárvidék útjai télen gyakran keményebbek, mint nyáron.",
+              "A hideg ellenére igyon elég vizet.",
+              "A kerékpáros lámpa fontos a korai sötétedés miatt."
+            ],
+            "ro": [
+              "Îmbrăcămintea rezistentă la vânt este mai importantă decât izolarea groasă.",
+              "Folosiți soarele de la prânz pentru etapele mai lungi.",
+              "Drumurile din mlaștini sunt adesea mai ferme iarna decât vara.",
+              "Beți suficientă apă în ciuda frigului.",
+              "Luminile la bicicletă sunt importante pentru amurgul timpuriu."
+            ],
+            "en": [
+              "Windproof clothing is more important than thick insulation.",
+              "Use the midday sun for the longer stages.",
+              "The paths in the marshes are often firmer in winter than in summer.",
+              "Drink enough water despite the cold.",
+              "Bicycle lights are important for the early onset of dusk."
+            ]
+          }
+        }
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 35.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Plaza de España",
+          "coords": [
+            -5.9658,
+            36.2519
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Parken Sie im 'Parking Los Remedios'.",
+            "hu": "Parkolj a 'Parking Los Remedios' parkolóban.",
+            "ro": "Parcați în 'Parking Los Remedios'.",
+            "en": "Park in 'Parking Los Remedios'."
+          }
+        },
+        {
+          "name": "Castillo de Vejer",
+          "coords": [
+            -5.9675,
+            36.2535
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:10",
+          "stay_min": 70,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Das Schloss liegt am höchsten Punkt des Dorfes.",
+            "hu": "A vár a falu legmagasabb pontján található.",
+            "ro": "Castelul se află în cel mai înalt punct al satului.",
+            "en": "The castle is at the highest point of the village."
+          }
+        },
+        {
+          "name": "Molinos de Viento",
+          "coords": [
+            -5.972,
+            36.256
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "11:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Leicht mit dem Auto erreichbar, gute Parkmöglichkeiten.",
+            "hu": "Autóval könnyen megközelíthető, jó parkolási lehetőség.",
+            "ro": "Ușor accesibil cu mașina, locuri bune de parcare.",
+            "en": "Easy to reach by car, good parking available."
+          }
+        },
+        {
+          "name": "Playa de El Palmar",
+          "coords": [
+            -6.068,
+            36.228
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:50",
+          "stay_min": 120,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 12.0,
+          "tip_5lang": {
+            "de": "Vejers Hausstrand, ideal zum Surfen.",
+            "hu": "Vejer saját strandja, ideális szörfözéshez.",
+            "ro": "Plaja proprie a orașului Vejer, ideală pentru surf.",
+            "en": "Vejer's own beach, ideal for surfing."
+          }
+        },
+        {
+          "name": "Trafalgar-Kap",
+          "coords": [
+            -6.031,
+            36.183
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "15:25",
+          "stay_min": 45,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 20.0,
+          "tip_5lang": {
+            "de": "Historischer Ort der berühmten Seeschlacht.",
+            "hu": "A híres tengeri csata történelmi helyszíne.",
+            "ro": "Locul istoric al faimoasei bătălii navale.",
+            "en": "Historical site of the famous naval battle."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Autotour kombiniert den Charme des Bergdorfes Vejer mit der wilden Schönheit der Costa de la Luz. Nach der Besichtigung der weißen Gassen fahren Sie hinunter zum Atlantik, um die Brise am Strand von El Palmar zu genießen und das geschichtsträchtige Kap Trafalgar zu besuchen.",
+        "hu": "Ez az autós túra ötvözi Vejer hegyi falujának báját a Costa de la Luz vad szépségével. A fehér utcák megtekintése után hajts le az Atlanti-óceánhoz, hogy élvezd a szellőt El Palmar strandján, és meglátogasd a történelmi Trafalgar-fokot.",
+        "ro": "Acest tur cu mașina combină farmecul satului de munte Vejer cu frumusețea sălbatică a Costa de la Luz. După vizitarea străzilor albe, conduceți până la Atlantic pentru a vă bucura de briză pe plaja El Palmar și pentru a vizita istoricul Cap Trafalgar.",
+        "en": "This car tour combines the charm of the mountain village of Vejer with the wild beauty of the Costa de la Luz. After visiting the white streets, drive down to the Atlantic to enjoy the breeze at El Palmar beach and visit the historic Cape Trafalgar."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Atún de Almadraba",
+            "tip": "Roter Thunfisch, frisch gefangen an der Küste."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Atún de Almadraba",
+            "tip": "Vörös tonhal, frissen fogva a part mentén."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Atún de Almadraba",
+            "tip": "Ton roșu, proaspăt prins pe coastă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Atún de Almadraba",
+            "tip": "Bluefin tuna, freshly caught along the coast."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Faro de Trafalgar",
+            "tip": "Spaziergang in den Dünen bei Sonnenuntergang.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Faro de Trafalgar",
+            "tip": "Séta a dűnék között naplementekor.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Faro de Trafalgar",
+            "tip": "Plimbare în dune la apus.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Faro de Trafalgar",
+            "tip": "Walk in the dunes at sunset.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mercado de Abastos",
+            "tip": "Frische Produkte und lokale Käsesorten (Payoyo)."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mercado de Abastos",
+            "tip": "Friss termékek és helyi sajtok (Payoyo)."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mercado de Abastos",
+            "tip": "Produse proaspete și brânzeturi locale (Payoyo)."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mercado de Abastos",
+            "tip": "Fresh produce and local cheeses (Payoyo)."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Vermeiden Sie es, mit dem Auto in die engsten Gassen der Altstadt zu fahren.",
+          "Parkplätze sind im Sommer in El Palmar sehr begrenzt.",
+          "Die Straßen zwischen Vejer und der Küste sind kurvig, aber malerisch.",
+          "Besuchen Sie das Kap Trafalgar bei Ebbe."
+        ],
+        "hu": [
+          "Kerüld el az autózást az óváros legszűkebb utcáin.",
+          "Nyáron a parkolóhelyek El Palmarban nagyon korlátozottak.",
+          "Az út Vejer és a part között kanyargós, de látványos.",
+          "Apálykor látogasd meg a Trafalgar-fokot."
+        ],
+        "ro": [
+          "Evitați să conduceți în cele mai înguste străzi din centrul vechi.",
+          "Locurile de parcare sunt foarte limitate în El Palmar pe timpul verii.",
+          "Drumurile dintre Vejer și coastă sunt sinuoase, dar pitorești.",
+          "Vizitați Capul Trafalgar la reflux."
+        ],
+        "en": [
+          "Avoid driving into the narrowest streets of the old town.",
+          "Parking in El Palmar is very limited during the summer.",
+          "The roads between Vejer and the coast are winding but scenic.",
+          "Visit Cape Trafalgar during low tide."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Diese Autotour kombiniert den Charme des Bergdorfes Vejer mit der wilden Schönheit der Costa de la Luz. Nach der Besichtigung der weißen Gassen fahren Sie hinunter zum Atlantik, um die Brise am Strand von El Palmar zu genießen und das geschichtsträchtige Kap Trafalgar zu besuchen.",
+            "hu": "Ez az autós túra ötvözi Vejer hegyi falujának báját a Costa de la Luz vad szépségével. A fehér utcák megtekintése után hajts le az Atlanti-óceánhoz, hogy élvezd a szellőt El Palmar strandján, és meglátogasd a történelmi Trafalgar-fokot.",
+            "ro": "Acest tur cu mașina combină farmecul satului de munte Vejer cu frumusețea sălbatică a Costa de la Luz. După vizitarea străzilor albe, conduceți până la Atlantic pentru a vă bucura de briză pe plaja El Palmar și pentru a vizita istoricul Cap Trafalgar.",
+            "en": "This car tour combines the charm of the mountain village of Vejer with the wild beauty of the Costa de la Luz. After visiting the white streets, drive down to the Atlantic to enjoy the breeze at El Palmar beach and visit the historic Cape Trafalgar."
+          },
+          "stops": [
+            {
+              "name": "Plaza de España",
+              "tip_5lang": {
+                "de": "Parken Sie im 'Parking Los Remedios'.",
+                "hu": "Parkolj a 'Parking Los Remedios' parkolóban.",
+                "ro": "Parcați în 'Parking Los Remedios'.",
+                "en": "Park in 'Parking Los Remedios'."
+              }
+            },
+            {
+              "name": "Castillo de Vejer",
+              "tip_5lang": {
+                "de": "Das Schloss liegt am höchsten Punkt des Dorfes.",
+                "hu": "A vár a falu legmagasabb pontján található.",
+                "ro": "Castelul se află în cel mai înalt punct al satului.",
+                "en": "The castle is at the highest point of the village."
+              }
+            },
+            {
+              "name": "Molinos de Viento",
+              "tip_5lang": {
+                "de": "Leicht mit dem Auto erreichbar, gute Parkmöglichkeiten.",
+                "hu": "Autóval könnyen megközelíthető, jó parkolási lehetőség.",
+                "ro": "Ușor accesibil cu mașina, locuri bune de parcare.",
+                "en": "Easy to reach by car, good parking available."
+              }
+            },
+            {
+              "name": "Playa de El Palmar",
+              "tip_5lang": {
+                "de": "Vejers Hausstrand, ideal zum Surfen.",
+                "hu": "Vejer saját strandja, ideális szörfözéshez.",
+                "ro": "Plaja proprie a orașului Vejer, ideală pentru surf.",
+                "en": "Vejer's own beach, ideal for surfing."
+              }
+            },
+            {
+              "name": "Trafalgar-Kap",
+              "tip_5lang": {
+                "de": "Historischer Ort der berühmten Seeschlacht.",
+                "hu": "A híres tengeri csata történelmi helyszíne.",
+                "ro": "Locul istoric al faimoasei bătălii navale.",
+                "en": "Historical site of the famous naval battle."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Atún de Almadraba",
+                "tip": "Roter Thunfisch, frisch gefangen an der Küste."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Atún de Almadraba",
+                "tip": "Vörös tonhal, frissen fogva a part mentén."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Atún de Almadraba",
+                "tip": "Ton roșu, proaspăt prins pe coastă."
+              }
+            ],
+            "en": [
+              {
+                "name": "Atún de Almadraba",
+                "tip": "Bluefin tuna, freshly caught along the coast."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Faro de Trafalgar",
+                "tip": "Spaziergang in den Dünen bei Sonnenuntergang.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Faro de Trafalgar",
+                "tip": "Séta a dűnék között naplementekor.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Faro de Trafalgar",
+                "tip": "Plimbare în dune la apus.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Faro de Trafalgar",
+                "tip": "Walk in the dunes at sunset.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Mercado de Abastos",
+                "tip": "Frische Produkte und lokale Käsesorten (Payoyo)."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Mercado de Abastos",
+                "tip": "Friss termékek és helyi sajtok (Payoyo)."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Mercado de Abastos",
+                "tip": "Produse proaspete și brânzeturi locale (Payoyo)."
+              }
+            ],
+            "en": [
+              {
+                "name": "Mercado de Abastos",
+                "tip": "Fresh produce and local cheeses (Payoyo)."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Vermeiden Sie es, mit dem Auto in die engsten Gassen der Altstadt zu fahren.",
+              "Parkplätze sind im Sommer in El Palmar sehr begrenzt.",
+              "Die Straßen zwischen Vejer und der Küste sind kurvig, aber malerisch.",
+              "Besuchen Sie das Kap Trafalgar bei Ebbe."
+            ],
+            "hu": [
+              "Kerüld el az autózást az óváros legszűkebb utcáin.",
+              "Nyáron a parkolóhelyek El Palmarban nagyon korlátozottak.",
+              "Az út Vejer és a part között kanyargós, de látványos.",
+              "Apálykor látogasd meg a Trafalgar-fokot."
+            ],
+            "ro": [
+              "Evitați să conduceți în cele mai înguste străzi din centrul vechi.",
+              "Locurile de parcare sunt foarte limitate în El Palmar pe timpul verii.",
+              "Drumurile dintre Vejer și coastă sunt sinuoase, dar pitorești.",
+              "Vizitați Capul Trafalgar la reflux."
+            ],
+            "en": [
+              "Avoid driving into the narrowest streets of the old town.",
+              "Parking in El Palmar is very limited during the summer.",
+              "The roads between Vejer and the coast are winding but scenic.",
+              "Visit Cape Trafalgar during low tide."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir beginnen den Tag gemütlich im Auto und fahren zur Plaza de España, wo wir einen Parkplatz in der Nähe suchen. Der Besuch der Burg bietet uns Schutz vor den stärksten Schauern. Danach fahren wir zu den Windmühlen und weiter zum Strand von El Palmar, um die tosende See sicher vom Auto aus zu beobachten. Den Tag lassen wir am Kap Trafalgar ausklingen, während die Wellen gegen die Klippen peitschen.",
+            "hu": "Kényelmesen, autóval kezdjük a napot a Plaza de España felé, keresve egy közeli parkolót. A vár látogatása menedéket nyújt a nagyobb záporok elől. Ezután a szélmalmokhoz, majd El Palmar strandjára hajtunk, hogy az autóból nézzük a dühöngő tengert. A napot a Trafalgar-foknál zárjuk, nézve a szikláknak csapódó hullámokat.",
+            "ro": "Începem ziua confortabil cu mașina spre Plaza de España, căutând o parcare în apropiere. Vizita la castel ne oferă adăpost de ploile torențiale. Apoi conducem spre morile de vânt și mai departe spre plaja El Palmar, pentru a observa marea învolburată din siguranța mașinii. Încheiem ziua la Capul Trafalgar, în timp ce valurile se sparg de stânci.",
+            "en": "We start the day comfortably in the car, heading to Plaza de España and looking for nearby parking. Visiting the castle provides shelter from the heaviest showers. Then we drive to the windmills and on to El Palmar beach to watch the roaring sea safely from the car. We end the day at Cape Trafalgar as the waves lash against the cliffs."
+          },
+          "stops": [
+            {
+              "name": "Plaza de España",
+              "tip_4lang": {
+                "de": "Parken Sie im Parkhaus am Ortseingang, um trocken zu bleiben.",
+                "hu": "Parkoljon a falu bejáratánál lévő parkolóházban, hogy száraz maradjon.",
+                "ro": "Parcați în parcarea de la intrarea în sat pentru a rămâne uscați.",
+                "en": "Park in the parking garage at the village entrance to stay dry."
+              }
+            },
+            {
+              "name": "Castillo de Vejer",
+              "tip_4lang": {
+                "de": "Ideal für einen längeren Aufenthalt bei Regen.",
+                "hu": "Ideális egy hosszabb tartózkodásra eső esetén.",
+                "ro": "Ideal pentru o ședere mai lungă în caz de ploaie.",
+                "en": "Ideal for a longer stay during rain."
+              }
+            },
+            {
+              "name": "Molinos de Viento",
+              "tip_4lang": {
+                "de": "Die Zufahrt kann bei Starkregen etwas rutschig sein.",
+                "hu": "A felvezető út heves esőben kissé csúszós lehet.",
+                "ro": "Drumul de acces poate fi puțin alunecos în caz de ploaie torențială.",
+                "en": "The access road can be a bit slippery during heavy rain."
+              }
+            },
+            {
+              "name": "Playa de El Palmar",
+              "tip_4lang": {
+                "de": "Genießen Sie den Blick auf die Wellen direkt vom Parkplatz aus.",
+                "hu": "Élvezze a hullámok látványát közvetlenül a parkolóból.",
+                "ro": "Bucurați-vă de vederea valurilor direct din parcare.",
+                "en": "Enjoy the view of the waves directly from the parking lot."
+              }
+            },
+            {
+              "name": "Trafalgar-Kap",
+              "tip_4lang": {
+                "de": "Achten Sie beim Öffnen der Autotür auf starke Windböen.",
+                "hu": "Vigyázzon az ajtónyitásnál az erős széllökésekre.",
+                "ro": "Atenție la rafalele de vânt când deschideți ușa mașinii.",
+                "en": "Watch out for strong wind gusts when opening the car door."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Aquaplaning auf der Küstenstraße.",
+              "Die Parkplätze in Vejer sind bei Regen schneller belegt.",
+              "Halten Sie die Scheiben frei von Beschlag (Klimaanlage nutzen).",
+              "Ein Regenschirm im Auto ist für die kurzen Wege zum Ziel wichtig.",
+              "Prüfen Sie, ob die Zufahrt zum Kap Trafalgar wegen Überflutung gesperrt ist."
+            ],
+            "hu": [
+              "Ügyeljen a vízenfutásra (aquaplaning) a partmenti úton.",
+              "A vejer-i parkolók esőben gyorsabban megtelnek.",
+              "Tartsa páramentesen a szélvédőt (használja a klímát).",
+              "Legyen esernyő az autóban a rövid kiszállásokhoz.",
+              "Ellenőrizze, nincs-e lezárva a Trafalgar-fokhoz vezető út vízátfolyás miatt."
+            ],
+            "ro": [
+              "Atenție la acvaplanare pe drumul de coastă.",
+              "Parcările din Vejer se ocupă mai repede când plouă.",
+              "Mențineți parbrizul dezaburit (folosiți aerul condiționat).",
+              "O umbrelă în mașină este importantă pentru distanțele scurte.",
+              "Verificați dacă drumul spre Capul Trafalgar este închis din cauza inundațiilor."
+            ],
+            "en": [
+              "Watch out for aquaplaning on the coastal road.",
+              "Parking spots in Vejer fill up faster during rain.",
+              "Keep windows clear of fog (use air conditioning).",
+              "Keep an umbrella in the car for short walks to destinations.",
+              "Check if the access to Cape Trafalgar is closed due to flooding."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine gemütliche Winterfahrt führt uns zunächst zur Plaza de España, die im klaren Licht strahlt. Die Besichtigung der Burg ist bei den milden Temperaturen sehr angenehm. Später besuchen wir die Windmühlen und fahren zum fast menschenleeren Strand von El Palmar für einen erfrischenden Spaziergang. Wir beenden den Tag am Kap Trafalgar, um den perfekten Wintersonnenuntergang über dem Meer zu erleben.",
+            "hu": "Egy kényelmes téli autózás először a Plaza de España-hoz vezet, amely ragyog a tiszta fényben. A vár látogatása az enyhe hőmérsékletben nagyon kellemes. Később megnézzük a szélmalmokat, majd a szinte néptelen El Palmar strandra hajtunk egy frissítő sétára. A napot a Trafalgar-foknál zárjuk, hogy átéljük a tökéletes téli naplementét a tenger felett.",
+            "ro": "O plimbare plăcută de iarnă ne duce mai întâi la Plaza de España, care strălucește în lumina clară. Vizitarea castelului este foarte plăcută la temperaturile blânde. Mai târziu vizităm morile de vânt și conducem spre plaja El Palmar, aproape pustie, pentru o plimbare revigorantă. Încheiem ziua la Capul Trafalgar pentru a vedea apusul perfect de iarnă peste mare.",
+            "en": "A pleasant winter drive leads us first to Plaza de España, shining in the clear light. Visiting the castle is very enjoyable in the mild temperatures. Later we visit the windmills and drive to the almost deserted El Palmar beach for a refreshing walk. We end the day at Cape Trafalgar to experience the perfect winter sunset over the sea."
+          },
+          "stops": [
+            {
+              "name": "Plaza de España",
+              "tip_4lang": {
+                "de": "Parkplätze sind im Winter deutlich leichter zu finden.",
+                "hu": "Télen lényegesen könnyebb parkolóhelyet találni.",
+                "ro": "Locurile de parcare sunt mult mai ușor de găsit iarna.",
+                "en": "Parking spots are much easier to find in winter."
+              }
+            },
+            {
+              "name": "Castillo de Vejer",
+              "tip_4lang": {
+                "de": "Genießen Sie die Ruhe ohne die sommerlichen Touristenmassen.",
+                "hu": "Élvezze a nyugalmat a nyári turistatömeg nélkül.",
+                "ro": "Bucurați-vă de liniște fără masele de turiști din vară.",
+                "en": "Enjoy the peace without the summer tourist crowds."
+              }
+            },
+            {
+              "name": "Molinos de Viento",
+              "tip_4lang": {
+                "de": "Hervorragendes Licht für Landschaftsfotografie vom Auto aus.",
+                "hu": "Kiváló fények a tájfotózáshoz közvetlenül az autóból.",
+                "ro": "Lumină excelentă pentru fotografia de peisaj din mașină.",
+                "en": "Excellent light for landscape photography from the car."
+              }
+            },
+            {
+              "name": "Playa de El Palmar",
+              "tip_4lang": {
+                "de": "Ideal für einen langen, einsamen Winterspaziergang am Flutsaum.",
+                "hu": "Ideális egy hosszú, magányos téli sétához a parton.",
+                "ro": "Ideal pentru o plimbare lungă și solitară de iarnă pe malul mării.",
+                "en": "Ideal for a long, lonely winter walk along the shoreline."
+              }
+            },
+            {
+              "name": "Trafalgar-Kap",
+              "tip_4lang": {
+                "de": "Kommen Sie rechtzeitig vor 17:30 Uhr für den Sonnenuntergang.",
+                "hu": "Érkezzen időben 17:30 előtt a naplementéhez.",
+                "ro": "Ajungeți din timp înainte de 17:30 pentru apus.",
+                "en": "Arrive early before 5:30 PM for the sunset."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Reifendruck vor der Fahrt in die Küstenregion.",
+              "Die Fernstraße A-48 bietet im Winter tolle Ausblicke auf grüne Felder.",
+              "Nehmen Sie warme Decken für Pausen am Strand mit.",
+              "Tankstellen sind in dieser Region im Winter normal besetzt.",
+              "Achten Sie auf Viehtrieb auf den kleineren Landstraßen."
+            ],
+            "hu": [
+              "Ellenőrizze a guminyomást a tengerparti út előtt.",
+              "Az A-48-as út télen nagyszerű kilátást nyújt a zöldellő mezőkre.",
+              "Vigyen meleg takarót a tengerparti pihenőkhöz.",
+              "A benzinkutak télen is a megszokott módon üzemelnek.",
+              "Ügyeljen az állatterelésre a kisebb országutakon."
+            ],
+            "ro": [
+              "Verificați presiunea în pneuri înainte de drumul spre coastă.",
+              "Autostrada A-48 oferă vederi minunate spre câmpurile verzi iarna.",
+              "Luați pături calde pentru pauzele de pe plajă.",
+              "Benzinăriile funcționează normal în această regiune iarna.",
+              "Atenție la animalele de pe drumurile secundare."
+            ],
+            "en": [
+              "Check tire pressure before driving to the coastal region.",
+              "The A-48 highway offers great views of green fields in winter.",
+              "Take warm blankets for breaks at the beach.",
+              "Gas stations in this region operate normally in winter.",
+              "Watch out for livestock on the smaller country roads."
+            ]
+          }
+        }
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 15.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Estación de Autobuses",
+          "coords": [
+            -5.962,
+            36.248
+          ],
+          "category": "port",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Der Busbahnhof liegt am unteren Rand des Dorfes.",
+            "hu": "A buszpályaudvar a falu alsó részén található.",
+            "ro": "Stația de autobuz se află în partea de jos a satului.",
+            "en": "The bus station is at the lower edge of the village."
+          }
+        },
+        {
+          "name": "Plaza de España",
+          "coords": [
+            -5.9658,
+            36.2519
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Vom Bus aus ein kurzer, steiler Spaziergang nach oben.",
+            "hu": "A busztól rövid, meredek séta felfelé.",
+            "ro": "De la autobuz, o scurtă plimbare abruptă în sus.",
+            "en": "A short, steep walk up from the bus stop."
+          }
+        },
+        {
+          "name": "Iglesia del Divino Salvador",
+          "coords": [
+            -5.9662,
+            36.2528
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:40",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Das religiöse Herz der Stadt.",
+            "hu": "A város vallási szíve.",
+            "ro": "Inima religioasă a orașului.",
+            "en": "The religious heart of the town."
+          }
+        },
+        {
+          "name": "Castillo de Vejer",
+          "coords": [
+            -5.9675,
+            36.2535
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Besichtigung der maurischen Festungsreste.",
+            "hu": "A mór erődmaradványok megtekintése.",
+            "ro": "Vizitarea resturilor fortăreței maure.",
+            "en": "Visit the Moorish fortress remains."
+          }
+        },
+        {
+          "name": "Playa de El Palmar (Bus)",
+          "coords": [
+            -6.068,
+            36.228
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 90,
+          "hop_from_prev_km": 13.0,
+          "tip_5lang": {
+            "de": "Nutzen Sie den Sommerbus 'Coming and Going'.",
+            "hu": "Használd a nyári 'Coming and Going' buszt.",
+            "ro": "Folosiți autobuzul de vară 'Coming and Going'.",
+            "en": "Use the summer bus 'Coming and Going'."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Dank der regionalen Busverbindungen können Sie Vejer auch ohne Auto erkunden. Genießen Sie den Tag in der Altstadt und nutzen Sie die speziellen Shuttle-Busse, um den Nachmittag am weitläufigen Strand von El Palmar zu verbringen.",
+        "hu": "A regionális buszjáratoknak köszönhetően autó nélkül is felfedezheted Vejert. Élvezd a napot az óvárosban, majd használd a speciális transzferbuszokat, hogy a délutánt El Palmar tágas strandján töltsd.",
+        "ro": "Datorită conexiunilor regionale de autobuz, puteți explora Vejer și fără mașină. Bucurați-vă de zi în centrul vechi și folosiți autobuzele speciale de transfer pentru a petrece după-amiaza pe plaja vastă din El Palmar.",
+        "en": "Thanks to regional bus connections, you can explore Vejer without a car. Enjoy the day in the old town and use the special shuttle buses to spend the afternoon at the extensive El Palmar beach."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Tortilla de Camarones",
+            "tip": "Knusprige Garnelenfladen, typisch für die Provinz Cádiz."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tortilla de Camarones",
+            "tip": "Ropogós garnélarákos lepény, Cádiz tartományra jellemző."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tortilla de Camarones",
+            "tip": "Clătite crocante cu creveți, tipice pentru provincia Cádiz."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tortilla de Camarones",
+            "tip": "Crispy shrimp fritters, typical of the Cádiz province."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Mirador del Paseo de las Cobijadas",
+            "tip": "Ruhiger Blick über das Tal.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mirador del Paseo de las Cobijadas",
+            "tip": "Nyugodt kilátás a völgyre.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mirador del Paseo de las Cobijadas",
+            "tip": "Vedere liniștită peste vale.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Mirador del Paseo de las Cobijadas",
+            "tip": "Quiet view over the valley.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Vino de Chiclana",
+            "tip": "Lokaler Wein aus der nahen Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vino de Chiclana",
+            "tip": "Helyi bor a közeli régióból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vino de Chiclana",
+            "tip": "Vin local din regiunea apropiată."
+          }
+        ],
+        "en": [
+          {
+            "name": "Vino de Chiclana",
+            "tip": "Local wine from the nearby region."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie die Busfahrpläne (TG Comes) im Voraus, da sie variieren.",
+          "Die Busverbindung zum Strand verkehrt hauptsächlich in der Hochsaison.",
+          "Kaufen Sie Tickets direkt beim Fahrer oder am Kiosk.",
+          "Vom Busbahnhof zur Altstadt ist es ein steiler Aufstieg."
+        ],
+        "hu": [
+          "Ellenőrizd előre a buszmenetrendet (TG Comes), mert változhat.",
+          "A strandbusz főleg főszezonban közlekedik.",
+          "Vegyél jegyet a sofőrnél vagy a kioszkban.",
+          "A buszmegállótól az óvárosig meredek az út felfelé."
+        ],
+        "ro": [
+          "Verificați orarul autobuzelor (TG Comes) în avans, deoarece poate varia.",
+          "Conexiunea cu autobuzul către plajă funcționează în principal în sezonul de vârf.",
+          "Cumpărați bilete direct de la șofer sau de la chioșc.",
+          "De la stația de autobuz până în centrul vechi este o urcare abruptă."
+        ],
+        "en": [
+          "Check bus schedules (TG Comes) in advance as they vary.",
+          "The beach bus connection runs mainly during high season.",
+          "Buy tickets directly from the driver or at the kiosk.",
+          "It's a steep climb from the bus station to the old town."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Dank der regionalen Busverbindungen können Sie Vejer auch ohne Auto erkunden. Genießen Sie den Tag in der Altstadt und nutzen Sie die speziellen Shuttle-Busse, um den Nachmittag am weitläufigen Strand von El Palmar zu verbringen.",
+            "hu": "A regionális buszjáratoknak köszönhetően autó nélkül is felfedezheted Vejert. Élvezd a napot az óvárosban, majd használd a speciális transzferbuszokat, hogy a délutánt El Palmar tágas strandján töltsd.",
+            "ro": "Datorită conexiunilor regionale de autobuz, puteți explora Vejer și fără mașină. Bucurați-vă de zi în centrul vechi și folosiți autobuzele speciale de transfer pentru a petrece după-amiaza pe plaja vastă din El Palmar.",
+            "en": "Thanks to regional bus connections, you can explore Vejer without a car. Enjoy the day in the old town and use the special shuttle buses to spend the afternoon at the extensive El Palmar beach."
+          },
+          "stops": [
+            {
+              "name": "Estación de Autobuses",
+              "tip_5lang": {
+                "de": "Der Busbahnhof liegt am unteren Rand des Dorfes.",
+                "hu": "A buszpályaudvar a falu alsó részén található.",
+                "ro": "Stația de autobuz se află în partea de jos a satului.",
+                "en": "The bus station is at the lower edge of the village."
+              }
+            },
+            {
+              "name": "Plaza de España",
+              "tip_5lang": {
+                "de": "Vom Bus aus ein kurzer, steiler Spaziergang nach oben.",
+                "hu": "A busztól rövid, meredek séta felfelé.",
+                "ro": "De la autobuz, o scurtă plimbare abruptă în sus.",
+                "en": "A short, steep walk up from the bus stop."
+              }
+            },
+            {
+              "name": "Iglesia del Divino Salvador",
+              "tip_5lang": {
+                "de": "Das religiöse Herz der Stadt.",
+                "hu": "A város vallási szíve.",
+                "ro": "Inima religioasă a orașului.",
+                "en": "The religious heart of the town."
+              }
+            },
+            {
+              "name": "Castillo de Vejer",
+              "tip_5lang": {
+                "de": "Besichtigung der maurischen Festungsreste.",
+                "hu": "A mór erődmaradványok megtekintése.",
+                "ro": "Vizitarea resturilor fortăreței maure.",
+                "en": "Visit the Moorish fortress remains."
+              }
+            },
+            {
+              "name": "Playa de El Palmar (Bus)",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Sommerbus 'Coming and Going'.",
+                "hu": "Használd a nyári 'Coming and Going' buszt.",
+                "ro": "Folosiți autobuzul de vară 'Coming and Going'.",
+                "en": "Use the summer bus 'Coming and Going'."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Tortilla de Camarones",
+                "tip": "Knusprige Garnelenfladen, typisch für die Provinz Cádiz."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Tortilla de Camarones",
+                "tip": "Ropogós garnélarákos lepény, Cádiz tartományra jellemző."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Tortilla de Camarones",
+                "tip": "Clătite crocante cu creveți, tipice pentru provincia Cádiz."
+              }
+            ],
+            "en": [
+              {
+                "name": "Tortilla de Camarones",
+                "tip": "Crispy shrimp fritters, typical of the Cádiz province."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Mirador del Paseo de las Cobijadas",
+                "tip": "Ruhiger Blick über das Tal.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Mirador del Paseo de las Cobijadas",
+                "tip": "Nyugodt kilátás a völgyre.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Mirador del Paseo de las Cobijadas",
+                "tip": "Vedere liniștită peste vale.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Mirador del Paseo de las Cobijadas",
+                "tip": "Quiet view over the valley.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Vino de Chiclana",
+                "tip": "Lokaler Wein aus der nahen Region."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Vino de Chiclana",
+                "tip": "Helyi bor a közeli régióból."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Vino de Chiclana",
+                "tip": "Vin local din regiunea apropiată."
+              }
+            ],
+            "en": [
+              {
+                "name": "Vino de Chiclana",
+                "tip": "Local wine from the nearby region."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Überprüfen Sie die Busfahrpläne (TG Comes) im Voraus, da sie variieren.",
+              "Die Busverbindung zum Strand verkehrt hauptsächlich in der Hochsaison.",
+              "Kaufen Sie Tickets direkt beim Fahrer oder am Kiosk.",
+              "Vom Busbahnhof zur Altstadt ist es ein steiler Aufstieg."
+            ],
+            "hu": [
+              "Ellenőrizd előre a buszmenetrendet (TG Comes), mert változhat.",
+              "A strandbusz főleg főszezonban közlekedik.",
+              "Vegyél jegyet a sofőrnél vagy a kioszkban.",
+              "A buszmegállótól az óvárosig meredek az út felfelé."
+            ],
+            "ro": [
+              "Verificați orarul autobuzelor (TG Comes) în avans, deoarece poate varia.",
+              "Conexiunea cu autobuzul către plajă funcționează în principal în sezonul de vârf.",
+              "Cumpărați bilete direct de la șofer sau de la chioșc.",
+              "De la stația de autobuz până în centrul vechi este o urcare abruptă."
+            ],
+            "en": [
+              "Check bus schedules (TG Comes) in advance as they vary.",
+              "The beach bus connection runs mainly during high season.",
+              "Buy tickets directly from the driver or at the kiosk.",
+              "It's a steep climb from the bus station to the old town."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir erreichen Vejer mit dem Bus und suchen sofort Schutz im Bahnhofsbereich. Der Weg zur Plaza de España wird bei Regen zur nassen Angelegenheit, aber die Cafés dort bieten Wärme. Den Nachmittag verbringen wir in der Kirche und der Burg, die ideale Indoor-Optionen darstellen. Trotz des Wetters nehmen wir den Bus zum Strand, um die Kraft des Meeres kurz zu erleben, bevor wir trocken zurückfahren.",
+            "hu": "Busszal érkezünk Vejerbe, és azonnal menedéket keresünk az állomás területén. A Plaza de España-hoz vezető út esőben vizes kaland, de az ottani kávézók melegséget kínálnak. A délutánt a templomban és a várban töltjük, amelyek ideális fedett lehetőségek. Az idő ellenére kimegyünk a strandra busszal, hogy rövid időre átéljük a tenger erejét.",
+            "ro": "Ajungem în Vejer cu autobuzul și căutăm imediat adăpost în zona gării. Drumul spre Plaza de España devine o aventură umedă, dar cafenelele de acolo oferă căldură. După-amiaza o petrecem în biserică și castel, care sunt opțiuni ideale de interior. În ciuda vremii, luăm autobuzul spre plajă pentru a simți forța mării înainte de a ne întoarce.",
+            "en": "We arrive in Vejer by bus and immediately seek shelter in the station area. The walk to Plaza de España is a wet affair, but the cafés there offer warmth. We spend the afternoon in the church and the castle, which are ideal indoor options. Despite the weather, we take the bus to the beach to briefly experience the power of the sea."
+          },
+          "stops": [
+            {
+              "name": "Estación de Autobuses",
+              "tip_4lang": {
+                "de": "Warten Sie im überdachten Wartebereich auf den Anschlussbus.",
+                "hu": "Várjon a fedett váróteremben a csatlakozásra.",
+                "ro": "Așteptați în zona de așteptare acoperită pentru autobuzul de legătură.",
+                "en": "Wait in the covered waiting area for your connecting bus."
+              }
+            },
+            {
+              "name": "Plaza de España",
+              "tip_4lang": {
+                "de": "Die Bushaltestelle hier bietet leider nur wenig Regenschutz.",
+                "hu": "Az itteni buszmegálló sajnos kevés védelmet nyújt az eső ellen.",
+                "ro": "Stația de autobuz de aici oferă din păcate puțină protecție contra ploii.",
+                "en": "The bus stop here unfortunately offers little rain protection."
+              }
+            },
+            {
+              "name": "Iglesia del Divino Salvador",
+              "tip_4lang": {
+                "de": "Ein guter Ort, um die Zeit bis zur nächsten Busabfahrt zu überbrücken.",
+                "hu": "Jó hely az idő eltöltésére a következő buszindulásig.",
+                "ro": "Un loc bun pentru a trece timpul până la următoarea plecare a autobuzului.",
+                "en": "A good place to kill time until the next bus departure."
+              }
+            },
+            {
+              "name": "Castillo de Vejer",
+              "tip_4lang": {
+                "de": "Überprüfen Sie die Busverbindung zum Strand direkt vor dem Abgang.",
+                "hu": "Közvetlenül indulás előtt ellenőrizze a strandhoz menő buszt.",
+                "ro": "Verificați legătura de autobuz spre plajă chiar înainte de plecare.",
+                "en": "Check the bus connection to the beach right before leaving."
+              }
+            },
+            {
+              "name": "Playa de El Palmar (Bus)",
+              "tip_4lang": {
+                "de": "Bleiben Sie bei starkem Regen in der Nähe der Bushaltestelle.",
+                "hu": "Heves esőben maradjon a buszmegálló közelében.",
+                "ro": "Rămâneți aproape de stația de autobuz în caz de ploaie torențială.",
+                "en": "Stay near the bus stop during heavy rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse können bei starkem Regen Verspätungen haben.",
+              "Nutzen Sie die App des Verkehrsverbundes für Echtzeitdaten.",
+              "Tragen Sie Kleidung, die schnell trocknet.",
+              "Die Busverbindung nach El Palmar ist im Winter/Regen seltener.",
+              "Haben Sie immer etwas Kleingeld für den Fahrpreis dabei."
+            ],
+            "hu": [
+              "A buszok heves esőben késhetnek.",
+              "Használja a közlekedési társaság alkalmazását a valós idejű adatokhoz.",
+              "Viseljen gyorsan száradó ruházatot.",
+              "A buszjárat El Palmar-ba esőben/télen ritkább.",
+              "Mindig legyen önnél aprópénz a jegyre."
+            ],
+            "ro": [
+              "Autobuzele pot avea întârzieri în caz de ploaie torențială.",
+              "Folosiți aplicația companiei de transport pentru date în timp real.",
+              "Purtați haine care se usucă repede.",
+              "Legătura de autobuz spre El Palmar este mai rară iarna/pe ploaie.",
+              "Aveți întotdeauna mărunțiș pentru bilet."
+            ],
+            "en": [
+              "Buses may have delays during heavy rain.",
+              "Use the transit app for real-time data.",
+              "Wear clothing that dries quickly.",
+              "The bus connection to El Palmar is less frequent in winter/rain.",
+              "Always have some small change for the fare."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Mit dem Bus erreichen wir das winterliche Vejer und genießen die klare Luft am Bahnhof. Der Spaziergang zur Plaza de España ist bei der milden Wintersonne ein Genuss. Nach dem Besuch der Burg und der Kirche nutzen wir den Nachmittagsbus zum Strand von El Palmar, wo wir die weite, leere Küste bestaunen. Die Rückfahrt erfolgt rechtzeitig zum frühen Abend, während die Lichter des Dorfes angehen.",
+            "hu": "Busszal érkezünk a téli Vejerbe, élvezve a friss levegőt az állomáson. A séta a Plaza de España-hoz az enyhe téli napsütésben igazi élvezet. A vár és a templom látogatása után a délutáni busszal El Palmar strandjára megyünk, ahol megcsodáljuk az üres partot. Időben visszatérünk, ahogy kigyúlnak a falu fényei.",
+            "ro": "Ajungem în Vejerul de iarnă cu autobuzul și ne bucurăm de aerul curat la gară. Plimbarea spre Plaza de España este o plăcere în soarele blând de iarnă. După vizitarea castelului și a bisericii, luăm autobuzul de după-amiază spre plaja El Palmar, unde admirăm coasta pustie. Ne întoarcem la timp, pe măsură ce se aprind luminile satului.",
+            "en": "We reach wintery Vejer by bus and enjoy the clear air at the station. The walk to Plaza de España is a delight in the mild winter sun. After visiting the castle and church, we take the afternoon bus to El Palmar beach to marvel at the wide, empty coast. We return in time as the village lights come on."
+          },
+          "stops": [
+            {
+              "name": "Estación de Autobuses",
+              "tip_4lang": {
+                "de": "Die Wintersonne wärmt den Wartebereich am Vormittag.",
+                "hu": "A téli nap délelőtt kellemesen melegíti a várótermet.",
+                "ro": "Soarele de iarnă încălzește zona de așteptare dimineața.",
+                "en": "The winter sun warms the waiting area in the morning."
+              }
+            },
+            {
+              "name": "Plaza de España",
+              "tip_4lang": {
+                "de": "Ein zentraler Ort, um die Zeit bis zum nächsten Bus zu genießen.",
+                "hu": "Központi hely, ahol kellemesen telik az idő a következő buszig.",
+                "ro": "Un loc central pentru a vă bucura de timp până la următorul autobuz.",
+                "en": "A central place to enjoy time until the next bus."
+              }
+            },
+            {
+              "name": "Iglesia del Divino Salvador",
+              "tip_4lang": {
+                "de": "Nutzen Sie die Mittagspause der Busse für eine ausführliche Besichtigung.",
+                "hu": "Használja ki a buszok ebédidejét egy alapos látogatásra.",
+                "ro": "Profitați de pauza de prânz a autobuzelor pentru o vizită detaliată.",
+                "en": "Use the buses' midday break for a detailed visit."
+              }
+            },
+            {
+              "name": "Castillo de Vejer",
+              "tip_4lang": {
+                "de": "Die Burgmauern schützen vor der kühlen Winterbrise.",
+                "hu": "A várfalak védenek a hűvös téli szellő ellen.",
+                "ro": "Zidurile castelului protejează de briza răcoroasă de iarnă.",
+                "en": "The castle walls protect against the cool winter breeze."
+              }
+            },
+            {
+              "name": "Playa de El Palmar (Bus)",
+              "tip_4lang": {
+                "de": "Achten Sie auf den letzten Bus zurück, er fährt im Winter früher.",
+                "hu": "Ügyeljen az utolsó visszajáratra, télen korábban indulhat.",
+                "ro": "Atenție la ultimul autobuz de întoarcere, pleacă mai devreme iarna.",
+                "en": "Watch out for the last bus back; it leaves earlier in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Der Winterfahrplan tritt oft ab November in Kraft.",
+              "Busse sind im Winter weniger überfüllt als im Sommer.",
+              "Kombinieren Sie Busfahrten mit kurzen Wanderungen bei kühlem Wetter.",
+              "Sitzplätze im Bus sind im Winter fast immer garantiert.",
+              "Die Rückfahrt bei Dämmerung bietet tolle Ausblicke auf das beleuchtete Vejer."
+            ],
+            "hu": [
+              "A téli menetrend gyakran novembertől lép életbe.",
+              "A buszok télen kevésbé zsúfoltak, mint nyáron.",
+              "Kombinálja a buszozást rövid túrákkal a hűvös időben.",
+              "Télen szinte mindig garantált az ülőhely a buszon.",
+              "A szürkületi visszajárat nagyszerű kilátást nyújt a kivilágított Vejerre."
+            ],
+            "ro": [
+              "Programul de iarnă intră adesea în vigoare din noiembrie.",
+              "Autobuzele sunt mai puțin aglomerate iarna decât vara.",
+              "Combinați călătoriile cu autobuzul cu scurte drumeții pe vreme răcoroasă.",
+              "Locurile în autobuz sunt aproape întotdeauna garantate iarna.",
+              "Drumul de întoarcere la amurg oferă vederi minunate spre Vejerul iluminat."
+            ],
+            "en": [
+              "The winter schedule often takes effect starting in November.",
+              "Buses are less crowded in winter than in summer.",
+              "Combine bus trips with short hikes in the cool weather.",
+              "Seats on the bus are almost always guaranteed in winter.",
+              "The return trip at dusk offers great views of illuminated Vejer."
+            ]
+          }
+        }
+      }
+    }
+  },
+  "external_resources": {
+    "tourism_office": "https://www.turismovejer.es/",
+    "transit_official": "https://www.tgcomes.es/",
+    "webcam": "https://www.windy.com/36.252/-5.965",
+    "language_tips": {
+      "de": "Vejer ist Bohemien-Andalusien, mehr Englisch als Nachbardörfer dank Expat-Szene. 'Retinto' ist das lokale Weiderind, unbedingt probieren. 'La Janda' nennen Einheimische die Ebene mit den Reisfeldern.",
+      "hu": "Vejer bohém Andalúzia, az expat közösség miatt több angolt hallasz, mint a környező falvakban. A 'retinto' a helyi szabadtartású marha, mindenképp kóstold. A 'La Janda' a helyiek szerint az alföld a rizsföldekkel.",
+      "ro": "Vejer este Andaluzia boemă, mai multă engleză decât în satele vecine datorită comunității expat. 'Retinto' este vita locală de pășune, neapărat de gustat. 'La Janda' e numele câmpiei cu orezării.",
+      "en": "Vejer is bohemian Andalusia – more English than neighbouring villages thanks to expats. 'Retinto' is the local free-range beef, a must. Locals call the rice-paddy plain below 'La Janda'."
+    },
+    "best_time_to_visit": {
+      "de": "April bis Juni und September für Wandern, Aussicht und milden Levante. Hochsommer drückend heiß, dann lieber morgens und abends erkunden. Karwoche und 'Toro Embolao' (Osternacht) sehr intensiv.",
+      "hu": "Április-június és szeptember a befutó túrázni, kilátást élvezni, enyhe Levantéval. Csúcsnyár fojtogató, akkor inkább reggel-este nézelődj. A Semana Santa és a 'Toro Embolao' (húsvét éjszakája) nagyon intenzív.",
+      "ro": "Aprilie-iunie și septembrie pentru drumeții, priveliști, vânt blând. Vara plină e sufocantă, vizitează dimineața și seara. Săptămâna Mare și 'Toro Embolao' (noaptea de Paște) sunt foarte intense.",
+      "en": "April–June and September for hiking, views and a milder Levante. High summer is suffocatingly hot – explore mornings and evenings. Holy Week and the Easter-night 'Toro Embolao' are intense."
+    },
+    "neighborhood_warnings": {
+      "de": "Sehr sicher, kleines Bergstädtchen. Steile Gassen mit Kopfsteinpflaster – feste Schuhe. Auto am Stadtrand parken (kostenlose Parkplätze ausgeschildert), Altstadt kaum befahrbar.",
+      "hu": "Nagyon biztonságos kis hegyi városka. A meredek macskaköves utcákon kemény talpú cipő kell. Az autót a város szélén hagyd (ingyenes parkolók kitáblázva), az óvárosba szinte lehetetlen behajtani.",
+      "ro": "Foarte sigur, orășel deluros. Străzi abrupte pavate cu piatră, încălțăminte solidă. Lasă mașina la marginea orașului (parcări gratuite semnalizate), centrul vechi e aproape impracticabil.",
+      "en": "Very safe little hill town. Steep cobbled lanes – sturdy shoes needed. Park on the edge (free lots are signposted); the old town is nearly impassable by car."
+    }
+  }
+}

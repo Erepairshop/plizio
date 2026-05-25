@@ -1,0 +1,2264 @@
+{
+  "city_id": "aguadulce",
+  "anchor": {
+    "name": "Puerto de Aguadulce",
+    "coords": [
+      -2.5567,
+      36.82
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "15:45",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Puerto Deportivo",
+            "hu": "Puerto Deportivo",
+            "ro": "Puerto Deportivo",
+            "en": "Puerto Deportivo"
+          },
+          "coords": [
+            -2.5585,
+            36.819
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Beobachten Sie das Einlaufen der Jachten bei einem Kaffee.",
+            "hu": "Figyeld a jachtok érkezését egy kávé mellett.",
+            "ro": "Urmăriți intrarea iahturilor savurând o cafea.",
+            "en": "Watch the yachts come in while enjoying a coffee."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa de Aguadulce",
+            "hu": "Aguadulce strand",
+            "ro": "Plaja Aguadulce",
+            "en": "Aguadulce Beach"
+          },
+          "coords": [
+            -2.565,
+            36.8175
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Ein weitläufiger Strand mit feinem Sand und klarem Wasser.",
+            "hu": "Tágas strand finom homokkal és tiszta vízzel.",
+            "ro": "O plajă întinsă cu nisip fin și apă clară.",
+            "en": "An extensive beach with fine sand and clear water."
+          }
+        },
+        {
+          "name": {
+            "de": "Paseo Marítimo",
+            "hu": "Paseo Marítimo",
+            "ro": "Paseo Marítimo",
+            "en": "Paseo Marítimo"
+          },
+          "coords": [
+            -2.57,
+            36.816
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:30",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Ideal für einen entspannten Spaziergang am Meer.",
+            "hu": "Ideális egy pihentető tengerparti sétához.",
+            "ro": "Ideal pentru o plimbare relaxantă pe malul mării.",
+            "en": "Ideal for a relaxed stroll by the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Parque de Aguadulce",
+            "hu": "Aguadulce park",
+            "ro": "Parcul Aguadulce",
+            "en": "Aguadulce Park"
+          },
+          "coords": [
+            -2.568,
+            36.822
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Eine grüne Oase im Herzen des Ferienortes.",
+            "hu": "Zöld oázis az üdülőhely szívében.",
+            "ro": "O oază verde în inima stațiunii.",
+            "en": "A green oasis in the heart of the resort."
+          }
+        },
+        {
+          "name": {
+            "de": "Iglesia de Nuestra Señora del Carmen",
+            "hu": "Iglesia de Nuestra Señora del Carmen",
+            "ro": "Iglesia de Nuestra Señora del Carmen",
+            "en": "Iglesia de Nuestra Señora del Carmen"
+          },
+          "coords": [
+            -2.564,
+            36.824
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Die Schutzpatronin der Seeleute wird hier verehrt.",
+            "hu": "A tengerészek védőszentjét tisztelik itt.",
+            "ro": "Patroana marinarilor este venerată aici.",
+            "en": "The patron saint of sailors is venerated here."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirador de Aguadulce",
+            "hu": "Aguadulce kilátó",
+            "ro": "Belvedere Aguadulce",
+            "en": "Aguadulce Viewpoint"
+          },
+          "coords": [
+            -2.56,
+            36.828
+          ],
+          "category": "natural features",
+          "arrive_at": "15:25",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Panoramablick über die Bucht von Almería.",
+            "hu": "Panorámás kilátás az almeríai öbölre.",
+            "ro": "Vedere panoramică asupra golfului Almería.",
+            "en": "Panoramic view over the Bay of Almería."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihren Tag am mondänen Puerto Deportivo, wo Sie das maritime Treiben genießen können. Ein kurzer Spaziergang führt Sie zur Playa de Aguadulce, perfekt für ein erfrischendes Bad am Vormittag. Mittags schlendern Sie entlang des Paseo Marítimo, gesäumt von Palmen und Cafés.\n\nDer Nachmittag beginnt mit einem Besuch im Stadtpark und der Kirche Nuestra Señora del Carmen, einem spirituellen Zentrum für die lokale Gemeinschaft. Beenden Sie Ihren Rundgang am Mirador de Aguadulce, von dem aus Sie den weiten Blick über die Küste und den Hafen genießen können, besonders reizvoll im sanften Nachmittagslicht.",
+        "hu": "Kezdje a napot az elegáns Puerto Deportivónál, ahol élvezheti a tengerparti nyüzsgést. Egy rövid séta elvezeti az Aguadulce strandra, amely tökéletes egy frissítő délelőtti fürdőzéshez. Délidőben sétáljon végig a Paseo Marítimo sétányon, amelyet pálmák és kávézók szegélyeznek.\n\nA délután a városi parkkal és a Nuestra Señora del Carmen templommal indul, amely a helyi közösség spirituális központja. A sétát az Aguadulce kilátónál fejezze be, ahonnan pazar kilátás nyílik a partra és a kikötőre, különösen a délutáni lágy fényekben.",
+        "ro": "Începeți ziua la elegantul Puerto Deportivo, unde vă puteți bucura de agitația maritimă. O scurtă plimbare vă duce la plaja Aguadulce, perfectă pentru o baie revigorantă de dimineață. La prânz, plimbați-vă pe Paseo Marítimo, mărginit de palmiere și cafenele.\n\nDupă-amiaza începe cu o vizită în parcul orașului și la biserica Nuestra Señora del Carmen, un centru spiritual pentru comunitatea locală. Încheiați turul la Mirador de Aguadulce, de unde puteți admira vederea largă asupra coastei și portului, deosebit de încântătoare în lumina blândă a după-amiezii.",
+        "en": "Start your day at the fashionable Puerto Deportivo, where you can enjoy the maritime bustle. A short walk takes you to Aguadulce Beach, perfect for a refreshing morning swim. At midday, stroll along the Paseo Marítimo, lined with palm trees and cafes.\n\nThe afternoon begins with a visit to the town park and the Church of Nuestra Señora del Carmen, a spiritual center for the local community. End your walk at the Aguadulce Viewpoint, from which you can enjoy sweeping views of the coast and the harbor, particularly charming in the soft afternoon light."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pescaito Frito",
+            "tip": "Frittierter Fisch, eine Spezialität in den Hafenrestaurants."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pescaito Frito",
+            "tip": "Sült hal, a kikötői éttermek specialitása."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pescaito Frito",
+            "tip": "Pește prăjit, o specialitate în restaurantele din port."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pescaito Frito",
+            "tip": "Fried fish, a specialty in the harbor restaurants."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Mirador de Aguadulce",
+            "tip": "Ruheplatz mit Blick auf das Meer.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Aguadulce kilátó",
+            "tip": "Csendes hely kilátással a tengerre.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Belvedere Aguadulce",
+            "tip": "Loc liniștit cu vedere la mare.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Aguadulce Viewpoint",
+            "tip": "Quiet spot with views of the sea.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Puerto Boutique",
+            "tip": "Exklusive Kleidung im Hafenbereich."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Puerto Boutique",
+            "tip": "Exkluzív ruházat a kikötői negyedben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Puerto Boutique",
+            "tip": "Îmbrăcăminte exclusivistă în zona portului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Puerto Boutique",
+            "tip": "Exclusive clothing in the harbor area."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die Strandduschen nach dem Baden.",
+          "Der Hafen ist abends sehr lebhaft.",
+          "Sonnenschutz ist am Paseo Marítimo unerlässlich.",
+          "Die Parkmöglichkeiten im Zentrum sind begrenzt."
+        ],
+        "hu": [
+          "Használja a strandzuhanyokat fürdés után.",
+          "A kikötő este nagyon élénk.",
+          "A naptej elengedhetetlen a Paseo Marítimón.",
+          "A központban korlátozottak a parkolási lehetőségek."
+        ],
+        "ro": [
+          "Folosiți dușurile de pe plajă după baie.",
+          "Portul este foarte animat seara.",
+          "Protecția solară este esențială pe Paseo Marítimo.",
+          "Opțiunile de parcare în centru sunt limitate."
+        ],
+        "en": [
+          "Use the beach showers after swimming.",
+          "The harbor is very lively in the evening.",
+          "Sunscreen is essential on the Paseo Marítimo.",
+          "Parking options in the center are limited."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Starten Sie Ihren Tag am mondänen Puerto Deportivo, wo Sie das maritime Treiben genießen können. Ein kurzer Spaziergang führt Sie zur Playa de Aguadulce, perfekt für ein erfrischendes Bad am Vormittag. Mittags schlendern Sie entlang des Paseo Marítimo, gesäumt von Palmen und Cafés.\n\nDer Nachmittag beginnt mit einem Besuch im Stadtpark und der Kirche Nuestra Señora del Carmen, einem spirituellen Zentrum für die lokale Gemeinschaft. Beenden Sie Ihren Rundgang am Mirador de Aguadulce, von dem aus Sie den weiten Blick über die Küste und den Hafen genießen können, besonders reizvoll im sanften Nachmittagslicht.",
+            "hu": "Kezdje a napot az elegáns Puerto Deportivónál, ahol élvezheti a tengerparti nyüzsgést. Egy rövid séta elvezeti az Aguadulce strandra, amely tökéletes egy frissítő délelőtti fürdőzéshez. Délidőben sétáljon végig a Paseo Marítimo sétányon, amelyet pálmák és kávézók szegélyeznek.\n\nA délután a városi parkkal és a Nuestra Señora del Carmen templommal indul, amely a helyi közösség spirituális központja. A sétát az Aguadulce kilátónál fejezze be, ahonnan pazar kilátás nyílik a partra és a kikötőre, különösen a délutáni lágy fényekben.",
+            "ro": "Începeți ziua la elegantul Puerto Deportivo, unde vă puteți bucura de agitația maritimă. O scurtă plimbare vă duce la plaja Aguadulce, perfectă pentru o baie revigorantă de dimineață. La prânz, plimbați-vă pe Paseo Marítimo, mărginit de palmiere și cafenele.\n\nDupă-amiaza începe cu o vizită în parcul orașului și la biserica Nuestra Señora del Carmen, un centru spiritual pentru comunitatea locală. Încheiați turul la Mirador de Aguadulce, de unde puteți admira vederea largă asupra coastei și portului, deosebit de încântătoare în lumina blândă a după-amiezii.",
+            "en": "Start your day at the fashionable Puerto Deportivo, where you can enjoy the maritime bustle. A short walk takes you to Aguadulce Beach, perfect for a refreshing morning swim. At midday, stroll along the Paseo Marítimo, lined with palm trees and cafes.\n\nThe afternoon begins with a visit to the town park and the Church of Nuestra Señora del Carmen, a spiritual center for the local community. End your walk at the Aguadulce Viewpoint, from which you can enjoy sweeping views of the coast and the harbor, particularly charming in the soft afternoon light."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Puerto Deportivo",
+                "hu": "Puerto Deportivo",
+                "ro": "Puerto Deportivo",
+                "en": "Puerto Deportivo"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das Einlaufen der Jachten bei einem Kaffee.",
+                "hu": "Figyeld a jachtok érkezését egy kávé mellett.",
+                "ro": "Urmăriți intrarea iahturilor savurând o cafea.",
+                "en": "Watch the yachts come in while enjoying a coffee."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa de Aguadulce",
+                "hu": "Aguadulce strand",
+                "ro": "Plaja Aguadulce",
+                "en": "Aguadulce Beach"
+              },
+              "tip_5lang": {
+                "de": "Ein weitläufiger Strand mit feinem Sand und klarem Wasser.",
+                "hu": "Tágas strand finom homokkal és tiszta vízzel.",
+                "ro": "O plajă întinsă cu nisip fin și apă clară.",
+                "en": "An extensive beach with fine sand and clear water."
+              }
+            },
+            {
+              "name": {
+                "de": "Paseo Marítimo",
+                "hu": "Paseo Marítimo",
+                "ro": "Paseo Marítimo",
+                "en": "Paseo Marítimo"
+              },
+              "tip_5lang": {
+                "de": "Ideal für einen entspannten Spaziergang am Meer.",
+                "hu": "Ideális egy pihentető tengerparti sétához.",
+                "ro": "Ideal pentru o plimbare relaxantă pe malul mării.",
+                "en": "Ideal for a relaxed stroll by the sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Parque de Aguadulce",
+                "hu": "Aguadulce park",
+                "ro": "Parcul Aguadulce",
+                "en": "Aguadulce Park"
+              },
+              "tip_5lang": {
+                "de": "Eine grüne Oase im Herzen des Ferienortes.",
+                "hu": "Zöld oázis az üdülőhely szívében.",
+                "ro": "O oază verde în inima stațiunii.",
+                "en": "A green oasis in the heart of the resort."
+              }
+            },
+            {
+              "name": {
+                "de": "Iglesia de Nuestra Señora del Carmen",
+                "hu": "Iglesia de Nuestra Señora del Carmen",
+                "ro": "Iglesia de Nuestra Señora del Carmen",
+                "en": "Iglesia de Nuestra Señora del Carmen"
+              },
+              "tip_5lang": {
+                "de": "Die Schutzpatronin der Seeleute wird hier verehrt.",
+                "hu": "A tengerészek védőszentjét tisztelik itt.",
+                "ro": "Patroana marinarilor este venerată aici.",
+                "en": "The patron saint of sailors is venerated here."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador de Aguadulce",
+                "hu": "Aguadulce kilátó",
+                "ro": "Belvedere Aguadulce",
+                "en": "Aguadulce Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Panoramablick über die Bucht von Almería.",
+                "hu": "Panorámás kilátás az almeríai öbölre.",
+                "ro": "Vedere panoramică asupra golfului Almería.",
+                "en": "Panoramic view over the Bay of Almería."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Pescaito Frito",
+                "tip": "Frittierter Fisch, eine Spezialität in den Hafenrestaurants."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Pescaito Frito",
+                "tip": "Sült hal, a kikötői éttermek specialitása."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Pescaito Frito",
+                "tip": "Pește prăjit, o specialitate în restaurantele din port."
+              }
+            ],
+            "en": [
+              {
+                "name": "Pescaito Frito",
+                "tip": "Fried fish, a specialty in the harbor restaurants."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Mirador de Aguadulce",
+                "tip": "Ruheplatz mit Blick auf das Meer.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Aguadulce kilátó",
+                "tip": "Csendes hely kilátással a tengerre.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Belvedere Aguadulce",
+                "tip": "Loc liniștit cu vedere la mare.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Aguadulce Viewpoint",
+                "tip": "Quiet spot with views of the sea.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Puerto Boutique",
+                "tip": "Exklusive Kleidung im Hafenbereich."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Puerto Boutique",
+                "tip": "Exkluzív ruházat a kikötői negyedben."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Puerto Boutique",
+                "tip": "Îmbrăcăminte exclusivistă în zona portului."
+              }
+            ],
+            "en": [
+              {
+                "name": "Puerto Boutique",
+                "tip": "Exclusive clothing in the harbor area."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Nutzen Sie die Strandduschen nach dem Baden.",
+              "Der Hafen ist abends sehr lebhaft.",
+              "Sonnenschutz ist am Paseo Marítimo unerlässlich.",
+              "Die Parkmöglichkeiten im Zentrum sind begrenzt."
+            ],
+            "hu": [
+              "Használja a strandzuhanyokat fürdés után.",
+              "A kikötő este nagyon élénk.",
+              "A naptej elengedhetetlen a Paseo Marítimón.",
+              "A központban korlátozottak a parkolási lehetőségek."
+            ],
+            "ro": [
+              "Folosiți dușurile de pe plajă după baie.",
+              "Portul este foarte animat seara.",
+              "Protecția solară este esențială pe Paseo Marítimo.",
+              "Opțiunile de parcare în centru sunt limitate."
+            ],
+            "en": [
+              "Use the beach showers after swimming.",
+              "The harbor is very lively in the evening.",
+              "Sunscreen is essential on the Paseo Marítimo.",
+              "Parking options in the center are limited."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen am Hafen beginnt ruhig, während Regentropfen sanft auf die Masten der Boote trommeln. Ein kurzer Spaziergang am leeren Strand von Aguadulce offenbart eine mystische, graue Küstenlandschaft. Am Nachmittag bietet die Kirche einen trockenen Zufluchtsort für Besinnung. Den Abend lassen wir am Aussichtspunkt ausklingen, wo der Nebel über das Mittelmeer zieht.",
+            "hu": "A reggel a kikötőben indul, ahol az eső kopogása a jachtok árbocain különleges ritmust ad a napnak. Délben a strand teljesen elcsendesedik, a szürke égbolt alatt az Alborán-tenger morajlása dominál. Délután a templom belső tere nyújt menedéket a zápor elől. Az estét a kilátónál zárjuk, ahonnan a párás levegőben sejtelmesen tűnnek fel a part menti fények.",
+            "ro": "Dimineața în port începe sub sunetul ploii care lovește catargele iahturilor ancorate. La prânz, plaja Aguadulce oferă un peisaj melancolic și spectaculos sub norii grei de deasupra mării. După-amiaza, interiorul bisericii devine un refugiu perfect împotriva umezelii. Seara se încheie la punctul de observație, unde ceața se ridică ușor peste linia țărmului.",
+            "en": "Morning at the harbor starts with the rhythmic sound of rain hitting the yacht masts. By noon, the beach is quiet and atmospheric, showing a different side of the Mediterranean under grey skies. In the afternoon, the local church provides a dry sanctuary for quiet reflection. The evening ends at the viewpoint, where the mist rolls over the coastline in a dramatic display."
+          },
+          "stops": [
+            {
+              "name": "Puerto Deportivo",
+              "tip_5lang": {
+                "de": "Die überdachten Arkaden am Hafen bieten hervorragenden Schutz vor dem Regen.",
+                "hu": "A kikötő fedett árkádjai alatt szárazon élvezhetjük a tengeri kilátást.",
+                "ro": "Arcadele acoperite din port oferă o protecție excelentă împotriva ploii.",
+                "en": "The covered arcades at the harbor offer excellent shelter from the rain."
+              }
+            },
+            {
+              "name": "Aguadulce Beach",
+              "tip_5lang": {
+                "de": "Vorsicht auf den Holzstegen, diese können bei Nässe sehr rutschig sein.",
+                "hu": "Vigyázat, a fa pallók az esőben rendkívül csúszóssá válhatnak.",
+                "ro": "Atenție pe podurile de lemn, acestea pot fi foarte alunecoase când sunt ude.",
+                "en": "Watch your step on the wooden boardwalks; they can be very slippery when wet."
+              }
+            },
+            {
+              "name": "Paseo Marítimo",
+              "tip_5lang": {
+                "de": "Ein fester Schirm ist hier wichtig, da der Wind den Regen oft seitlich peitscht.",
+                "hu": "Erős esernyő javasolt, mert a tenger felőli szél gyakran oldalról fújja az esőt.",
+                "ro": "Se recomandă o umbrelă rezistentă, vântul de pe mare poate sufla ploaia din lateral.",
+                "en": "A sturdy umbrella is key here, as sea winds often blow the rain sideways."
+              }
+            },
+            {
+              "name": "Aguadulce Park",
+              "tip_5lang": {
+                "de": "Die dichten Bäume bieten etwas Schutz, aber die Wege können schlammig sein.",
+                "hu": "A sűrű lombozat némi védelmet nyújt, de az utak sárosak lehetnek.",
+                "ro": "Copacii deși oferă puțină protecție, dar potecile pot fi noroioase.",
+                "en": "Dense trees provide some cover, but the paths may become muddy."
+              }
+            },
+            {
+              "name": "Iglesia de Nuestra Señora del Carmen",
+              "tip_5lang": {
+                "de": "Der ideale Ort, um sich aufzuwärmen und die Architektur im Trockenen zu bewundern.",
+                "hu": "Ideális hely a felmelegedésre és az építészet megcsodálására száraz környezetben.",
+                "ro": "Locul ideal pentru a vă încălzi și a admira arhitectura la adăpost.",
+                "en": "The ideal place to warm up and admire the architecture while staying dry."
+              }
+            },
+            {
+              "name": "Aguadulce Viewpoint",
+              "tip_5lang": {
+                "de": "Tragen Sie festes Schuhwerk, da der Aufstieg bei Regen rutschig sein kann.",
+                "hu": "Viseljen tapadós talpú cipőt, mert az emelkedő esőben csúszós lehet.",
+                "ro": "Purtați încălțăminte aderentă, deoarece urcarea poate fi alunecoasă pe ploaie.",
+                "en": "Wear high-grip shoes, as the ascent can be slick in rainy conditions."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Cafés im Yachthafen als Basis für Pausen.",
+              "Vermeiden Sie Sandwege am Strand, da diese zu tiefem Matsch werden.",
+              "Wasserdichte Kleidung ist bei der Meeresbrise effektiver als ein Regenschirm.",
+              "Die Sichtweite am Aussichtspunkt ist oft eingeschränkt, bietet aber tolle Fotos.",
+              "Planen Sie mehr Zeit für die Fortbewegung auf nassen Gehwegen ein."
+            ],
+            "hu": [
+              "Használja a jachtkikötő kávézóit pihenőhelyként.",
+              "Kerülje a homokos ösvényeket, mert mély sár alakulhat ki.",
+              "A vízhatlan kabát hatékonyabb az erős tengeri szélben, mint az esernyő.",
+              "A látótávolság korlátozott lehet, de a ködös táj kiváló fotótéma.",
+              "Számoljon több idővel a csúszós járdák miatti lassabb haladásra."
+            ],
+            "ro": [
+              "Folosiți cafenelele din port ca puncte de oprire între reprizele de ploaie.",
+              "Evitați potecile de nisip de pe plajă, deoarece se transformă în noroi.",
+              "Hainele impermeabile sunt mai eficiente decât umbrela în briza puternică.",
+              "Vizibilitatea la punctul de observație poate fi redusă, dar oferă poze dramatice.",
+              "Alocați mai mult timp pentru deplasare din cauza trotuarelor umede."
+            ],
+            "en": [
+              "Use the marina cafes as your base for breaks during heavy showers.",
+              "Avoid sandy paths near the beach as they turn into thick mud.",
+              "Waterproof jackets are more effective than umbrellas in the sea breeze.",
+              "Visibility at the viewpoint might be low, but it offers dramatic photo ops.",
+              "Allow extra time for moving safely on wet and slippery pavements."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen im Hafen ist erfrischend und bietet weite Sicht auf das Meer. Mittags ist die milde andalusische Sonne perfekt für einen Spaziergang an der windgeschützten Promenade. Der Nachmittag im Park lädt zum Verweilen in der kühleren Luft ein. Zum Sonnenuntergang bietet der Viewpoint ein spektakuläres Farbspiel, bevor es schnell abkühlt.",
+            "hu": "A friss téli reggel a kikötőben tiszta látási viszonyokat és élénkítő tengeri levegőt kínál. Délben az andalúz napsütés ereje pont elég egy kellemes sétához a védettebb sétányokon. Délután a park hűvösebb árnyai között pihenhetünk meg. A naplemente a kilátónál lenyűgöző színeket produkál, mielőtt a hőmérséklet hirtelen leesne.",
+            "ro": "O dimineață răcoroasă de iarnă în port oferă o vizibilitate clară asupra orizontului marin. La prânz, soarele blând al Andaluziei este perfect pentru o plimbare pe faleză. După-amiaza în parc este revigorantă în aerul curat. Apusul de la punctul de observație oferă un spectacol de culori înainte ca frigul serii să se instaleze.",
+            "en": "A crisp winter morning at the harbor provides clear views and refreshing sea air. By noon, the mild Andalusian sun is perfect for a stroll along the sheltered promenade. The afternoon park visit is invigorating in the cool air. Sunset at the viewpoint offers a spectacular display of colors before the rapid evening temperature drop."
+          },
+          "stops": [
+            {
+              "name": "Puerto Deportivo",
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Sicht; im Winter sieht man oft bis zum Horizont.",
+                "hu": "Élvezze a tiszta kilátást; télen gyakran ellátni a távoli horizontig.",
+                "ro": "Bucurați-vă de claritatea aerului; iarna se vede adesea până la orizont.",
+                "en": "Enjoy the clarity of the air; in winter you can often see right to the horizon."
+              }
+            },
+            {
+              "name": "Aguadulce Beach",
+              "tip_5lang": {
+                "de": "Perfekt für einen langen Spaziergang, ohne die Hitze des Sommers.",
+                "hu": "Tökéletes egy hosszú sétához, a nyári hőség zavaró hatása nélkül.",
+                "ro": "Perfect pentru o plimbare lungă, fără arșița insuportabilă a verii.",
+                "en": "Perfect for a long walk without the overwhelming heat of the summer."
+              }
+            },
+            {
+              "name": "Paseo Marítimo",
+              "tip_5lang": {
+                "de": "Suchen Sie sich ein sonniges Plätzchen; im Schatten ist es spürbar kühler.",
+                "hu": "Keressen egy napos padot; az árnyékban ilyenkor már érezhetően hűvösebb van.",
+                "ro": "Căutați un loc însorit; la umbră este considerabil mai răcoare.",
+                "en": "Find a sunny spot for a rest; it is noticeably cooler in the shadows."
+              }
+            },
+            {
+              "name": "Aguadulce Park",
+              "tip_5lang": {
+                "de": "Die Wintersonne dringt hier besser durch das teils lichtere Laub.",
+                "hu": "A téli napsütés jobban átszűrődik a ritkább lombozaton, kellemes fényt adva.",
+                "ro": "Soarele de iarnă pătrunde mai bine printre ramurile mai libere ale copacilor.",
+                "en": "The winter sun penetrates better through the thinner foliage this time of year."
+              }
+            },
+            {
+              "name": "Iglesia de Nuestra Señora del Carmen",
+              "tip_5lang": {
+                "de": "Im Inneren ist es oft wärmer als draußen; ein guter Ort für eine Pause.",
+                "hu": "Bent gyakran melegebb van, mint kint; remek hely egy rövid megállásra.",
+                "ro": "În interior este adesea mai cald decât afară; un loc bun pentru o pauză.",
+                "en": "It is often warmer inside than outside; a good spot for a short break."
+              }
+            },
+            {
+              "name": "Aguadulce Viewpoint",
+              "tip_5lang": {
+                "de": "Bringen Sie eine Jacke mit; der Sonnenuntergang ist früh (ca. 18:00 Uhr).",
+                "hu": "Vigyen magával kabátot; a naplemente korán, 18:00 körül van.",
+                "ro": "Aduceți o jachetă; apusul are loc devreme, în jur de ora 18:00.",
+                "en": "Bring a jacket; sunset happens early, around 18:00 in mid-winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Kleidung im Zwiebelprinzip für wechselnde Sonnenintensität.",
+              "Nutzen Sie die Mittagsstunden für Outdoor-Aktivitäten.",
+              "Die UV-Strahlung ist auch im Winter vorhanden, Sonnenschutz schadet nicht.",
+              "Der Aussichtspunkt ist windanfällig, Windschutz ist ratsam.",
+              "Viele Cafés haben Heizstrahler für den Außenbereich."
+            ],
+            "hu": [
+              "Öltözködjön rétegesen a változó napfény-intenzitás miatt.",
+              "Használja ki a déli órákat a szabadtéri programokra.",
+              "Az UV-sugárzás télen is erős lehet a tengerparton, használjon krémet.",
+              "A kilátó ilyenkor szeles lehet, egy széldzseki jól jöhet.",
+              "Sok kávézó teraszán van kültéri fűtőtest télen is."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi pentru a vă adapta la intensitatea soarelui.",
+              "Profitate de orele prânzului pentru activitățile în aer liber.",
+              "Radiațiile UV sunt prezente și iarna; folosiți protecție solară.",
+              "Punctul de observare poate fi vântos, o jachetă anti-vânt e utilă.",
+              "Multe cafenele au încălzitoare externe pentru terase."
+            ],
+            "en": [
+              "Dress in layers to adjust to the changing intensity of the winter sun.",
+              "Make the most of the midday hours for outdoor exploration.",
+              "UV radiation is still active in winter by the sea; use sun protection.",
+              "The viewpoint is prone to wind; a windbreaker is highly recommended.",
+              "Many cafes provide outdoor heaters for their terrace seating."
+            ]
+          }
+        }
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "13:30",
+      "total_km": 10.5,
+      "stop_count": 4,
+      "stops": [
+        {
+          "name": {
+            "de": "Puerto Deportivo",
+            "hu": "Puerto Deportivo",
+            "ro": "Puerto Deportivo",
+            "en": "Puerto Deportivo"
+          },
+          "coords": [
+            -2.5585,
+            36.819
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein flacher Start entlang der Kaianlagen.",
+            "hu": "Sima indulás a rakpartok mentén.",
+            "ro": "Un început lin de-a lungul cheiurilor.",
+            "en": "A flat start along the quays."
+          }
+        },
+        {
+          "name": {
+            "de": "Ribera de la Algaida",
+            "hu": "Ribera de la Algaida",
+            "ro": "Ribera de la Algaida",
+            "en": "Ribera de la Algaida"
+          },
+          "coords": [
+            -2.595,
+            36.808
+          ],
+          "category": "museums",
+          "arrive_at": "09:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Naturraum und archäologische Stätte, ideal für Vogelbeobachtung.",
+            "hu": "Természeti terület és régészeti lelőhely, ideális madármegfigyeléshez.",
+            "ro": "Spațiu natural și sit arheologic, ideal pentru observarea păsărilor.",
+            "en": "Natural area and archaeological site, ideal for birdwatching."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa de Aguadulce",
+            "hu": "Aguadulce strand",
+            "ro": "Plaja Aguadulce",
+            "en": "Aguadulce Beach"
+          },
+          "coords": [
+            -2.565,
+            36.8175
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:35",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Sichern Sie Ihr Fahrrad an den vorgesehenen Ständern.",
+            "hu": "Rögzítse kerékpárját a kijelölt tárolókhoz.",
+            "ro": "Asigurați-vă bicicleta în locurile special amenajate.",
+            "en": "Secure your bike at the designated racks."
+          }
+        },
+        {
+          "name": {
+            "de": "Palacio de Exposiciones",
+            "hu": "Palacio de Exposiciones",
+            "ro": "Palacio de Exposiciones",
+            "en": "Palacio de Exposiciones"
+          },
+          "coords": [
+            -2.555,
+            36.825
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "13:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ein modernes Zentrum für Messen und Kultur.",
+            "hu": "Modern központ kiállításoknak és kultúrának.",
+            "ro": "Un centru modern pentru expoziții și cultură.",
+            "en": "A modern center for exhibitions and culture."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Radtour führt Sie aus dem Zentrum hinaus in die Natur. Starten Sie am Hafen und fahren Sie entlang der Küste zur Ribera de la Algaida. Dieses Feuchtgebiet ist nicht nur ökologisch wertvoll, sondern beherbergt auch wichtige archäologische Funde.\n\nNach der Erkundung der Natur fahren Sie zurück zur Playa de Aguadulce für eine verdiente Pause. Der flache Paseo Marítimo ist perfekt für Radfahrer geeignet. Beenden Sie Ihre Tour am Palacio de Exposiciones y Congresos, einem markanten modernen Gebäude, das oft interessante kulturelle Veranstaltungen beherbergt.",
+        "hu": "Ez a kerékpártúra kivezeti Önt a központból a természetbe. Kezdjen a kikötőnél, és tekerjen a part mentén a Ribera de la Algaida területére. Ez a vizes élőhely nemcsak ökológiailag értékes, hanem fontos régészeti leleteket is rejt.\n\nA természet felfedezése után térjen vissza az Aguadulce strandra egy megérdemelt pihenőre. A sík Paseo Marítimo tökéletesen alkalmas kerékpárosoknak. Zárja a túrát a Palacio de Exposiciones y Congresos épületénél, amely egy feltűnő modern építmény, és gyakran ad otthont érdekes kulturális eseményeknek.",
+        "ro": "Această tură cu bicicleta vă scoate din centru în natură. Începeți la port și pedalați de-a lungul coastei spre Ribera de la Algaida. Această zonă umedă nu este doar valoroasă ecologic, ci găzduiește și descoperiri arheologice importante.\n\nDupă explorarea naturii, pedalați înapoi spre plaja Aguadulce pentru o pauză meritată. Faleza plată Paseo Marítimo este perfectă pentru bicicliști. Încheiați turul la Palacio de Exposiciones y Congresos, o clădire modernă marcantă care găzduiește adesea evenimente culturale interesante.",
+        "en": "This bike tour takes you out of the center and into nature. Start at the harbor and ride along the coast to Ribera de la Algaida. This wetland is not only ecologically valuable but also home to important archaeological finds.\n\nAfter exploring nature, ride back to Aguadulce Beach for a well-deserved break. The flat Paseo Marítimo is perfectly suited for cyclists. End your tour at the Palacio de Exposiciones y Congresos, a striking modern building that often hosts interesting cultural events."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Tapas Variadas",
+            "tip": "Probieren Sie verschiedene Tapas in den Bars am Paseo."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tapas Variadas",
+            "tip": "Kóstoljon különféle tapasokat a sétány bárjaiban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tapas Variadas",
+            "tip": "Încercați diverse tapas în barurile de pe faleză."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tapas Variadas",
+            "tip": "Try various tapas in the bars along the promenade."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ribera de la Algaida",
+            "tip": "Absolute Stille in der Natur.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ribera de la Algaida",
+            "tip": "Abszolút csend a természetben.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ribera de la Algaida",
+            "tip": "Liniște absolută în natură.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Ribera de la Algaida",
+            "tip": "Absolute silence in nature.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradladen Aguadulce",
+            "tip": "Für Zubehör und Reparaturen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Aguadulce kerékpárbolt",
+            "tip": "Kiegészítőkhöz és javításhoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de biciclete Aguadulce",
+            "tip": "Pentru accesorii și reparații."
+          }
+        ],
+        "en": [
+          {
+            "name": "Aguadulce Bike Shop",
+            "tip": "For accessories and repairs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Bleiben Sie auf den markierten Radwegen.",
+          "Achten Sie auf Fußgänger auf dem Paseo.",
+          "Nutzen Sie ein Fahrradschloss bei jedem Stopp.",
+          "In der Ribera de la Algaida sind die Wege unbefestigt."
+        ],
+        "hu": [
+          "Maradjon a kijelölt kerékpárutakon.",
+          "Figyeljen a gyalogosokra a sétányon.",
+          "Használjon kerékpárzárat minden megállónál.",
+          "A Ribera de la Algaida területén az utak burkolatlanok."
+        ],
+        "ro": [
+          "Rămâneți pe pistele de biciclete marcate.",
+          "Atenție la pietoni pe faleză.",
+          "Folosiți un antifurt la fiecare oprire.",
+          "În Ribera de la Algaida drumurile sunt neasfaltate."
+        ],
+        "en": [
+          "Stay on the marked bike paths.",
+          "Watch out for pedestrians on the promenade.",
+          "Use a bike lock at every stop.",
+          "In Ribera de la Algaida, the paths are unpaved."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Diese Radtour führt Sie aus dem Zentrum hinaus in die Natur. Starten Sie am Hafen und fahren Sie entlang der Küste zur Ribera de la Algaida. Dieses Feuchtgebiet ist nicht nur ökologisch wertvoll, sondern beherbergt auch wichtige archäologische Funde.\n\nNach der Erkundung der Natur fahren Sie zurück zur Playa de Aguadulce für eine verdiente Pause. Der flache Paseo Marítimo ist perfekt für Radfahrer geeignet. Beenden Sie Ihre Tour am Palacio de Exposiciones y Congresos, einem markanten modernen Gebäude, das oft interessante kulturelle Veranstaltungen beherbergt.",
+            "hu": "Ez a kerékpártúra kivezeti Önt a központból a természetbe. Kezdjen a kikötőnél, és tekerjen a part mentén a Ribera de la Algaida területére. Ez a vizes élőhely nemcsak ökológiailag értékes, hanem fontos régészeti leleteket is rejt.\n\nA természet felfedezése után térjen vissza az Aguadulce strandra egy megérdemelt pihenőre. A sík Paseo Marítimo tökéletesen alkalmas kerékpárosoknak. Zárja a túrát a Palacio de Exposiciones y Congresos épületénél, amely egy feltűnő modern építmény, és gyakran ad otthont érdekes kulturális eseményeknek.",
+            "ro": "Această tură cu bicicleta vă scoate din centru în natură. Începeți la port și pedalați de-a lungul coastei spre Ribera de la Algaida. Această zonă umedă nu este doar valoroasă ecologic, ci găzduiește și descoperiri arheologice importante.\n\nDupă explorarea naturii, pedalați înapoi spre plaja Aguadulce pentru o pauză meritată. Faleza plată Paseo Marítimo este perfectă pentru bicicliști. Încheiați turul la Palacio de Exposiciones y Congresos, o clădire modernă marcantă care găzduiește adesea evenimente culturale interesante.",
+            "en": "This bike tour takes you out of the center and into nature. Start at the harbor and ride along the coast to Ribera de la Algaida. This wetland is not only ecologically valuable but also home to important archaeological finds.\n\nAfter exploring nature, ride back to Aguadulce Beach for a well-deserved break. The flat Paseo Marítimo is perfectly suited for cyclists. End your tour at the Palacio de Exposiciones y Congresos, a striking modern building that often hosts interesting cultural events."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Puerto Deportivo",
+                "hu": "Puerto Deportivo",
+                "ro": "Puerto Deportivo",
+                "en": "Puerto Deportivo"
+              },
+              "tip_5lang": {
+                "de": "Ein flacher Start entlang der Kaianlagen.",
+                "hu": "Sima indulás a rakpartok mentén.",
+                "ro": "Un început lin de-a lungul cheiurilor.",
+                "en": "A flat start along the quays."
+              }
+            },
+            {
+              "name": {
+                "de": "Ribera de la Algaida",
+                "hu": "Ribera de la Algaida",
+                "ro": "Ribera de la Algaida",
+                "en": "Ribera de la Algaida"
+              },
+              "tip_5lang": {
+                "de": "Naturraum und archäologische Stätte, ideal für Vogelbeobachtung.",
+                "hu": "Természeti terület és régészeti lelőhely, ideális madármegfigyeléshez.",
+                "ro": "Spațiu natural și sit arheologic, ideal pentru observarea păsărilor.",
+                "en": "Natural area and archaeological site, ideal for birdwatching."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa de Aguadulce",
+                "hu": "Aguadulce strand",
+                "ro": "Plaja Aguadulce",
+                "en": "Aguadulce Beach"
+              },
+              "tip_5lang": {
+                "de": "Sichern Sie Ihr Fahrrad an den vorgesehenen Ständern.",
+                "hu": "Rögzítse kerékpárját a kijelölt tárolókhoz.",
+                "ro": "Asigurați-vă bicicleta în locurile special amenajate.",
+                "en": "Secure your bike at the designated racks."
+              }
+            },
+            {
+              "name": {
+                "de": "Palacio de Exposiciones",
+                "hu": "Palacio de Exposiciones",
+                "ro": "Palacio de Exposiciones",
+                "en": "Palacio de Exposiciones"
+              },
+              "tip_5lang": {
+                "de": "Ein modernes Zentrum für Messen und Kultur.",
+                "hu": "Modern központ kiállításoknak és kultúrának.",
+                "ro": "Un centru modern pentru expoziții și cultură.",
+                "en": "A modern center for exhibitions and culture."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Tapas Variadas",
+                "tip": "Probieren Sie verschiedene Tapas in den Bars am Paseo."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Tapas Variadas",
+                "tip": "Kóstoljon különféle tapasokat a sétány bárjaiban."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Tapas Variadas",
+                "tip": "Încercați diverse tapas în barurile de pe faleză."
+              }
+            ],
+            "en": [
+              {
+                "name": "Tapas Variadas",
+                "tip": "Try various tapas in the bars along the promenade."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Ribera de la Algaida",
+                "tip": "Absolute Stille in der Natur.",
+                "emoji": "🍃"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Ribera de la Algaida",
+                "tip": "Abszolút csend a természetben.",
+                "emoji": "🍃"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Ribera de la Algaida",
+                "tip": "Liniște absolută în natură.",
+                "emoji": "🍃"
+              }
+            ],
+            "en": [
+              {
+                "name": "Ribera de la Algaida",
+                "tip": "Absolute silence in nature.",
+                "emoji": "🍃"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Fahrradladen Aguadulce",
+                "tip": "Für Zubehör und Reparaturen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Aguadulce kerékpárbolt",
+                "tip": "Kiegészítőkhöz és javításhoz."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Magazin de biciclete Aguadulce",
+                "tip": "Pentru accesorii și reparații."
+              }
+            ],
+            "en": [
+              {
+                "name": "Aguadulce Bike Shop",
+                "tip": "For accessories and repairs."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Bleiben Sie auf den markierten Radwegen.",
+              "Achten Sie auf Fußgänger auf dem Paseo.",
+              "Nutzen Sie ein Fahrradschloss bei jedem Stopp.",
+              "In der Ribera de la Algaida sind die Wege unbefestigt."
+            ],
+            "hu": [
+              "Maradjon a kijelölt kerékpárutakon.",
+              "Figyeljen a gyalogosokra a sétányon.",
+              "Használjon kerékpárzárat minden megállónál.",
+              "A Ribera de la Algaida területén az utak burkolatlanok."
+            ],
+            "ro": [
+              "Rămâneți pe pistele de biciclete marcate.",
+              "Atenție la pietoni pe faleză.",
+              "Folosiți un antifurt la fiecare oprire.",
+              "În Ribera de la Algaida drumurile sunt neasfaltate."
+            ],
+            "en": [
+              "Stay on the marked bike paths.",
+              "Watch out for pedestrians on the promenade.",
+              "Use a bike lock at every stop.",
+              "In Ribera de la Algaida, the paths are unpaved."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Radtour am Hafen beginnt vorsichtig auf nassem Untergrund. Mittags bietet das Naturschutzgebiet Ribera de la Algaida eine raue, regenverhangene Schönheit. Ein kurzer Stopp am Strand zeigt die Kraft der Brandung. Den Nachmittag verbringen wir im Palacio de Exposiciones, um dem Regen für eine Weile zu entkommen.",
+            "hu": "A kerékpártúra óvatosan indul a kikötő nedves aszfaltján. Délben a Ribera de la Algaida természetvédelmi terület nyers, eső áztatta szépséget mutat. Egy rövid megálló a parton szemlélteti a hullámzás erejét. A délutánt a Palacio de Exposiciones épületében töltjük, hogy védve legyünk az esőtől.",
+            "ro": "Turul cu bicicleta începe cu prudență pe asfaltul ud din zona portului. La prânz, rezervația Ribera de la Algaida dezvăluie o frumusețe sălbatică sub ploaie. O scurtă oprire pe plajă ne arată forța valurilor. După-amiaza o petrecem la Palacio de Exposiciones pentru a ne adăposti de precipitații.",
+            "en": "The bike tour starts cautiously on the wet pavement around the harbor. By noon, the Ribera de la Algaida nature reserve shows a raw, rain-swept beauty. A quick stop at the beach illustrates the power of the surf. We spend the afternoon at the Palacio de Exposiciones to escape the downpour for a while."
+          },
+          "stops": [
+            {
+              "name": "Puerto Deportivo",
+              "tip_5lang": {
+                "de": "Vorsicht beim Anfahren; die Hafenkanten können bei Nässe extrem glatt sein.",
+                "hu": "Óvatosan induljon; a kikötői szegélyek nedvesen rendkívül csúszósak.",
+                "ro": "Atenție la plecare; marginile portului pot fi extrem de alunecoase când sunt ude.",
+                "en": "Be careful starting off; harbor edges can be extremely slick when wet."
+              }
+            },
+            {
+              "name": "Ribera de la Algaida",
+              "tip_5lang": {
+                "de": "Die unbefestigten Wege können schlammig sein; fahren Sie langsam.",
+                "hu": "A nem aszfaltozott utak sárosak lehetnek; lassabb tempó javasolt.",
+                "ro": "Drumurile neasfaltate pot fi noroioase; pedalați cu viteză redusă.",
+                "en": "Unpaved paths may be muddy; keep a slow and steady pace."
+              }
+            },
+            {
+              "name": "Aguadulce Beach",
+              "tip_5lang": {
+                "de": "Kurzer Stopp; parken Sie das Rad auf befestigtem Boden, nicht im Sand.",
+                "hu": "Rövid megálló; a biciklit szilárd burkolaton parkolja, ne a homokban.",
+                "ro": "Oprire scurtă; parcați bicicleta pe teren solid, nu în nisip.",
+                "en": "Short stop; park your bike on solid ground, avoiding the soft sand."
+              }
+            },
+            {
+              "name": "Palacio de Exposiciones",
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Eingangsbereich zum Abstellen der Räder.",
+                "hu": "Használja a fedett bejárati részt a kerékpárok biztonságos leállításához.",
+                "ro": "Folosiți zona acoperită de la intrare pentru a lăsa bicicletele la adăpost.",
+                "en": "Use the covered entrance area to park your bikes out of the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Bremsen vor der Abfahrt; Nässe verlängert den Bremsweg.",
+              "Vermeiden Sie Markierungen auf dem Asphalt, da diese sehr rutschig sind.",
+              "Ein Schutzblech ist heute unverzichtbar gegen Spritzwasser.",
+              "Tragen Sie eine gut sichtbare Regenjacke.",
+              "Reduzieren Sie den Reifendruck minimal für besseren Grip."
+            ],
+            "hu": [
+              "Indulás előtt ellenőrizze a fékeket; a víz növeli a féktávot.",
+              "Kerülje az aszfalton lévő felfestéseket, mert nagyon csúsznak.",
+              "A sárvédő ma nélkülözhetetlen a felcsapódó víz ellen.",
+              "Viseljen jól látható, élénk színű esőkabátot.",
+              "Kicsit csökkentse a guminyomást a jobb tapadás érdekében."
+            ],
+            "ro": [
+              "Verificați frânele înainte de plecare; umezeala prelungește distanța de frânare.",
+              "Evitați marcajele de pe asfalt, deoarece sunt foarte alunecoase.",
+              "Apărătorile de noroi sunt indispensabile astăzi împotriva stropirii.",
+              "Purtați o jachetă de ploaie cu vizibilitate ridicată.",
+              "Reduceți minim presiunea în anvelope pentru o aderență mai bună."
+            ],
+            "en": [
+              "Check your brakes before starting; wet rims increase braking distance.",
+              "Avoid road markings on the asphalt, as they become very slippery.",
+              "Mudguards are essential today against spray from the road.",
+              "Wear a high-visibility rain jacket for safety in low light.",
+              "Slightly reduce tire pressure for better grip on wet surfaces."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen bietet ideale Temperaturen für eine aktive Radtour ohne Schwitzen. In Ribera de la Algaida genießen wir die klare Luft und die Beobachtung von Wintervögeln. Mittags am Strand ist die Sonne angenehm warm im Gesicht. Der Tag endet am Palacio de Exposiciones, wo oft interessante Winterveranstaltungen stattfinden.",
+            "hu": "A téli reggel ideális hőmérsékletet kínál egy aktív tekeréshez izzadás nélkül. A Ribera de la Algaida területén élvezzük a friss levegőt és a telelő madarak megfigyelését. Délben a parton a nap melege kellemesen simogat. A nap a Palacio de Exposicionesnél zárul, ahol gyakran rendeznek téli vásárokat.",
+            "ro": "Dimineața de iarnă oferă temperatura ideală pentru un tur activ fără a transpira. În Ribera de la Algaida ne bucurăm de aerul curat și de păsările migratoare. La prânz, pe plajă, soarele se simte plăcut pe față. Ziua se termină la Palacio de Exposiciones, gazda multor evenimente de iarnă.",
+            "en": "The winter morning offers ideal temperatures for an active ride without overheating. At Ribera de la Algaida, we enjoy the crisp air and spotting wintering birds. By noon on the beach, the sun feels pleasantly warm on your face. The day ends at Palacio de Exposiciones, which often hosts interesting winter events."
+          },
+          "stops": [
+            {
+              "name": "Puerto Deportivo",
+              "tip_5lang": {
+                "de": "Die kühle Morgenluft ist perfekt, um den Kreislauf in Schwung zu bringen.",
+                "hu": "A hűvös reggeli levegő tökéletes a vérkeringés felpezsdítéséhez.",
+                "ro": "Aerul răcoros al dimineții este perfect pentru a vă pune sângele în mișcare.",
+                "en": "The cool morning air is perfect for getting your circulation going."
+              }
+            },
+            {
+              "name": "Ribera de la Algaida",
+              "tip_5lang": {
+                "de": "Bringen Sie ein Fernglas mit; im Winter gibt es hier viele Zugvögel.",
+                "hu": "Hozzon távcsövet; télen sok vándormadár pihen meg ezen a területen.",
+                "ro": "Aduceți un binoclu; iarna aici se pot observa multe păsări migratoare.",
+                "en": "Bring binoculars; in winter, many migratory birds can be seen here."
+              }
+            },
+            {
+              "name": "Aguadulce Beach",
+              "tip_5lang": {
+                "de": "Ein Sonnenbad im Windschatten der Dünen ist auch im Winter möglich.",
+                "hu": "A dűnék szélvédett oldalán télen is lehet egy kicsit napozni.",
+                "ro": "O baie de soare la adăpostul dunelor este posibilă chiar și iarna.",
+                "en": "A bit of sunbathing in the lee of the dunes is possible even in winter."
+              }
+            },
+            {
+              "name": "Palacio de Exposiciones",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Veranstaltungskalender; im Winter gibt es oft Indoor-Märkte.",
+                "hu": "Ellenőrizze az eseménynaptárt; télen gyakran tartanak itt beltéri vásárokat.",
+                "ro": "Verificați calendarul; iarna au loc adesea târguri în interior.",
+                "en": "Check the event calendar; winter often brings indoor markets here."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Handschuhe; der Fahrtwind kühlt die Hände schnell aus.",
+              "Die Sonne steht tief; eine Sonnenbrille ist wegen der Blendung wichtig.",
+              "Planen Sie Ihre Rückkehr vor Einbruch der Dunkelheit (ca. 18 Uhr).",
+              "Trinken Sie ausreichend, auch wenn Sie weniger Durst verspüren.",
+              "Ein Thermo-Trinkbehälter hält Ihren Tee oder Kaffee warm."
+            ],
+            "hu": [
+              "Viseljen kesztyűt; a menetszél hamar lehűti az ujjait.",
+              "A nap alacsonyan jár, a napszemüveg fontos a vakítás ellen.",
+              "Tervezze úgy az utat, hogy sötétedés előtt (18 óra körül) visszaérjen.",
+              "Igyon elegendő vizet, még ha kevésbé is érzi szomjasnak magát.",
+              "Egy termoszban tartott meleg tea sokat segíthet a komfortérzeten."
+            ],
+            "ro": [
+              "Purtați mănuși; curentul de aer răcește rapid mâinile.",
+              "Soarele este jos pe cer; ochelarii de soare sunt necesari împotriva orbirii.",
+              "Planificați întoarcerea înainte de lăsarea întunericului (ora 18).",
+              "Hidratați-vă corespunzător, chiar dacă senzația de sete e mai mică.",
+              "Un termos cu ceai cald vă va menține confortul termic."
+            ],
+            "en": [
+              "Wear gloves; the wind chill will cool down your hands very quickly.",
+              "The sun sits low in the sky; sunglasses are vital against glare.",
+              "Plan to be back before dark, which is around 18:00 in winter.",
+              "Stay hydrated, even if you don't feel as thirsty as in summer.",
+              "A thermal bottle will keep your tea or coffee warm throughout the trip."
+            ]
+          }
+        }
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 20,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 35.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Aguadulce Zentrum",
+            "hu": "Aguadulce központ",
+            "ro": "Centrul Aguadulce",
+            "en": "Aguadulce Center"
+          },
+          "coords": [
+            -2.5667,
+            36.82
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Kostenloses Parken oft in den Nebenstraßen möglich.",
+            "hu": "Ingyenes parkolás gyakran lehetséges a mellékutcákban.",
+            "ro": "Parcarea gratuită este adesea posibilă pe străzile secundare.",
+            "en": "Free parking is often possible in the side streets."
+          }
+        },
+        {
+          "name": {
+            "de": "Roquetas de Mar",
+            "hu": "Roquetas de Mar",
+            "ro": "Roquetas de Mar",
+            "en": "Roquetas de Mar"
+          },
+          "coords": [
+            -2.605,
+            36.765
+          ],
+          "category": "port",
+          "arrive_at": "10:30",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 8.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Burg Santa Ana und den Leuchtturm.",
+            "hu": "Látogassa meg a Santa Ana várat és a világítótornyot.",
+            "ro": "Vizitați castelul Santa Ana și farul.",
+            "en": "Visit the Santa Ana Castle and the lighthouse."
+          }
+        },
+        {
+          "name": {
+            "de": "Punta Entinas-Sabinar",
+            "hu": "Punta Entinas-Sabinar",
+            "ro": "Punta Entinas-Sabinar",
+            "en": "Punta Entinas-Sabinar"
+          },
+          "coords": [
+            -2.695,
+            36.705
+          ],
+          "category": "natural features",
+          "arrive_at": "13:00",
+          "stay_min": 150,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 15.0,
+          "tip_5lang": {
+            "de": "Ein geschütztes Naturgebiet mit unberührten Dünen.",
+            "hu": "Védett természeti terület érintetlen dűnékkel.",
+            "ro": "O zonă naturală protejată cu dune virgine.",
+            "en": "A protected natural area with pristine dunes."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirador de Aguadulce",
+            "hu": "Aguadulce kilátó",
+            "ro": "Belvedere Aguadulce",
+            "en": "Aguadulce Viewpoint"
+          },
+          "coords": [
+            -2.56,
+            36.828
+          ],
+          "category": "natural features",
+          "arrive_at": "16:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 10.5,
+          "tip_5lang": {
+            "de": "Bequem mit dem Auto erreichbar für den letzten Ausblick.",
+            "hu": "Autóval könnyen megközelíthető az utolsó kilátáshoz.",
+            "ro": "Ușor accesibil cu mașina pentru ultima priveliște.",
+            "en": "Easily accessible by car for the final view."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Das Auto ermöglicht es Ihnen, die Küste von Almería umfassend zu erkunden. Nach einem kurzen Aufenthalt im Zentrum von Aguadulce fahren Sie nach Roquetas de Mar, um das kulturelle Erbe im Castillo de Santa Ana zu besichtigen.\n\nWeiter geht es zum Naturpark Punta Entinas-Sabinar, einem Paradies für Naturliebhaber mit weitläufigen Dünen und Salzseen, wo man oft Flamingos beobachten kann. Genießen Sie die Weite und Ruhe abseits der bebauten Gebiete. Beenden Sie Ihren Tag zurück in Aguadulce am Mirador, um die gesamte Strecke, die Sie zurückgelegt haben, aus der Vogelperspektive zu betrachten.",
+        "hu": "Az autó lehetővé teszi Almería partvidékének átfogó felfedezését. Egy rövid aguadulcei tartózkodás után induljon Roquetas de Marba, hogy megtekintse a Castillo de Santa Ana kulturális örökségét.\n\nFolytassa útját a Punta Entinas-Sabinar természeti parkba, amely a természetkedvelők paradicsoma tágas dűnékkel és sós tavakkal, ahol gyakran látni flamingókat. Élvezze a tágas tereket és a nyugalmat távol a beépített területektől. A napot Aguadulcébe visszatérve a kilátónál zárja, ahonnan madártávlatból tekintheti át a megtett útvonalat.",
+        "ro": "Mașina vă permite să explorați cuprinzător coasta Almeríei. După o scurtă ședere în centrul Aguadulce, conduceți spre Roquetas de Mar pentru a vizita moștenirea culturală de la Castillo de Santa Ana.\n\nContinuați spre parcul natural Punta Entinas-Sabinar, un paradis pentru iubitorii de natură, cu dune întinse și lacuri sărate unde pot fi observați adesea flamingi. Bucurați-vă de imensitate și liniște departe de zonele construite. Încheiați ziua înapoi în Aguadulce, la punctul de belvedere, pentru a vedea întregul traseu parcurs din perspectivă aeriană.",
+        "en": "The car allows you to explore the Almería coast extensively. After a short stay in the center of Aguadulce, drive to Roquetas de Mar to visit the cultural heritage at the Castillo de Santa Ana.\n\nContinue to the Punta Entinas-Sabinar Natural Park, a paradise for nature lovers with vast dunes and salt lakes where flamingos can often be spotted. Enjoy the space and tranquility away from the built-up areas. End your day back in Aguadulce at the viewpoint to look over the entire distance you've covered from a bird's eye view."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Arroz a Banda",
+            "tip": "Ein klassisches Reisgericht der Region, oft in Roquetas serviert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Arroz a Banda",
+            "tip": "A régió klasszikus rizsétele, gyakran Roquetasban szolgálják fel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Arroz a Banda",
+            "tip": "Un preparat clasic cu orez din regiune, servit adesea în Roquetas."
+          }
+        ],
+        "en": [
+          {
+            "name": "Arroz a Banda",
+            "tip": "A classic rice dish of the region, often served in Roquetas."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Salinas de Roquetas",
+            "tip": "Beobachten Sie Vögel in aller Ruhe.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Roquetas sós tavai",
+            "tip": "Figyelje a madarakat teljes nyugalomban.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Salinele din Roquetas",
+            "tip": "Observați păsările în deplină liniște.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Salinas de Roquetas",
+            "tip": "Watch birds in complete peace.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Gran Plaza Mall",
+            "tip": "Großes Einkaufszentrum in der Nähe von Roquetas."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gran Plaza Mall",
+            "tip": "Nagy bevásárlóközpont Roquetas közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gran Plaza Mall",
+            "tip": "Centru comercial mare lângă Roquetas."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gran Plaza Mall",
+            "tip": "Large shopping center near Roquetas."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Küstenstraße kann im Berufsverkehr voll sein.",
+          "Parken Sie am Naturpark nur auf ausgewiesenen Plätzen.",
+          "Achten Sie auf die Geschwindigkeitsbegrenzungen.",
+          "Ein GPS ist für die Nebenstraßen hilfreich."
+        ],
+        "hu": [
+          "A tengerparti út a csúcsforgalomban zsúfolt lehet.",
+          "A nemzeti parknál csak a kijelölt helyeken parkoljon.",
+          "Ügyeljen a sebességkorlátozásokra.",
+          "A GPS hasznos a mellékutakhoz."
+        ],
+        "ro": [
+          "Drumul de coastă poate fi aglomerat la orele de vârf.",
+          "Parcați la parcul natural doar în locurile special amenajate.",
+          "Atenție la limitele de viteză.",
+          "Un GPS este util pentru drumurile secundare."
+        ],
+        "en": [
+          "The coastal road can be busy during rush hour.",
+          "Park at the natural park only in designated spots.",
+          "Pay attention to speed limits.",
+          "A GPS is helpful for the side roads."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Das Auto ermöglicht es Ihnen, die Küste von Almería umfassend zu erkunden. Nach einem kurzen Aufenthalt im Zentrum von Aguadulce fahren Sie nach Roquetas de Mar, um das kulturelle Erbe im Castillo de Santa Ana zu besichtigen.\n\nWeiter geht es zum Naturpark Punta Entinas-Sabinar, einem Paradies für Naturliebhaber mit weitläufigen Dünen und Salzseen, wo man oft Flamingos beobachten kann. Genießen Sie die Weite und Ruhe abseits der bebauten Gebiete. Beenden Sie Ihren Tag zurück in Aguadulce am Mirador, um die gesamte Strecke, die Sie zurückgelegt haben, aus der Vogelperspektive zu betrachten.",
+            "hu": "Az autó lehetővé teszi Almería partvidékének átfogó felfedezését. Egy rövid aguadulcei tartózkodás után induljon Roquetas de Marba, hogy megtekintse a Castillo de Santa Ana kulturális örökségét.\n\nFolytassa útját a Punta Entinas-Sabinar természeti parkba, amely a természetkedvelők paradicsoma tágas dűnékkel és sós tavakkal, ahol gyakran látni flamingókat. Élvezze a tágas tereket és a nyugalmat távol a beépített területektől. A napot Aguadulcébe visszatérve a kilátónál zárja, ahonnan madártávlatból tekintheti át a megtett útvonalat.",
+            "ro": "Mașina vă permite să explorați cuprinzător coasta Almeríei. După o scurtă ședere în centrul Aguadulce, conduceți spre Roquetas de Mar pentru a vizita moștenirea culturală de la Castillo de Santa Ana.\n\nContinuați spre parcul natural Punta Entinas-Sabinar, un paradis pentru iubitorii de natură, cu dune întinse și lacuri sărate unde pot fi observați adesea flamingi. Bucurați-vă de imensitate și liniște departe de zonele construite. Încheiați ziua înapoi în Aguadulce, la punctul de belvedere, pentru a vedea întregul traseu parcurs din perspectivă aeriană.",
+            "en": "The car allows you to explore the Almería coast extensively. After a short stay in the center of Aguadulce, drive to Roquetas de Mar to visit the cultural heritage at the Castillo de Santa Ana.\n\nContinue to the Punta Entinas-Sabinar Natural Park, a paradise for nature lovers with vast dunes and salt lakes where flamingos can often be spotted. Enjoy the space and tranquility away from the built-up areas. End your day back in Aguadulce at the viewpoint to look over the entire distance you've covered from a bird's eye view."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Aguadulce Zentrum",
+                "hu": "Aguadulce központ",
+                "ro": "Centrul Aguadulce",
+                "en": "Aguadulce Center"
+              },
+              "tip_5lang": {
+                "de": "Kostenloses Parken oft in den Nebenstraßen möglich.",
+                "hu": "Ingyenes parkolás gyakran lehetséges a mellékutcákban.",
+                "ro": "Parcarea gratuită este adesea posibilă pe străzile secundare.",
+                "en": "Free parking is often possible in the side streets."
+              }
+            },
+            {
+              "name": {
+                "de": "Roquetas de Mar",
+                "hu": "Roquetas de Mar",
+                "ro": "Roquetas de Mar",
+                "en": "Roquetas de Mar"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Burg Santa Ana und den Leuchtturm.",
+                "hu": "Látogassa meg a Santa Ana várat és a világítótornyot.",
+                "ro": "Vizitați castelul Santa Ana și farul.",
+                "en": "Visit the Santa Ana Castle and the lighthouse."
+              }
+            },
+            {
+              "name": {
+                "de": "Punta Entinas-Sabinar",
+                "hu": "Punta Entinas-Sabinar",
+                "ro": "Punta Entinas-Sabinar",
+                "en": "Punta Entinas-Sabinar"
+              },
+              "tip_5lang": {
+                "de": "Ein geschütztes Naturgebiet mit unberührten Dünen.",
+                "hu": "Védett természeti terület érintetlen dűnékkel.",
+                "ro": "O zonă naturală protejată cu dune virgine.",
+                "en": "A protected natural area with pristine dunes."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador de Aguadulce",
+                "hu": "Aguadulce kilátó",
+                "ro": "Belvedere Aguadulce",
+                "en": "Aguadulce Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Bequem mit dem Auto erreichbar für den letzten Ausblick.",
+                "hu": "Autóval könnyen megközelíthető az utolsó kilátáshoz.",
+                "ro": "Ușor accesibil cu mașina pentru ultima priveliște.",
+                "en": "Easily accessible by car for the final view."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Arroz a Banda",
+                "tip": "Ein klassisches Reisgericht der Region, oft in Roquetas serviert."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Arroz a Banda",
+                "tip": "A régió klasszikus rizsétele, gyakran Roquetasban szolgálják fel."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Arroz a Banda",
+                "tip": "Un preparat clasic cu orez din regiune, servit adesea în Roquetas."
+              }
+            ],
+            "en": [
+              {
+                "name": "Arroz a Banda",
+                "tip": "A classic rice dish of the region, often served in Roquetas."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Salinas de Roquetas",
+                "tip": "Beobachten Sie Vögel in aller Ruhe.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Roquetas sós tavai",
+                "tip": "Figyelje a madarakat teljes nyugalomban.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Salinele din Roquetas",
+                "tip": "Observați păsările în deplină liniște.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Salinas de Roquetas",
+                "tip": "Watch birds in complete peace.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Gran Plaza Mall",
+                "tip": "Großes Einkaufszentrum in der Nähe von Roquetas."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Gran Plaza Mall",
+                "tip": "Nagy bevásárlóközpont Roquetas közelében."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Gran Plaza Mall",
+                "tip": "Centru comercial mare lângă Roquetas."
+              }
+            ],
+            "en": [
+              {
+                "name": "Gran Plaza Mall",
+                "tip": "Large shopping center near Roquetas."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Die Küstenstraße kann im Berufsverkehr voll sein.",
+              "Parken Sie am Naturpark nur auf ausgewiesenen Plätzen.",
+              "Achten Sie auf die Geschwindigkeitsbegrenzungen.",
+              "Ein GPS ist für die Nebenstraßen hilfreich."
+            ],
+            "hu": [
+              "A tengerparti út a csúcsforgalomban zsúfolt lehet.",
+              "A nemzeti parknál csak a kijelölt helyeken parkoljon.",
+              "Ügyeljen a sebességkorlátozásokra.",
+              "A GPS hasznos a mellékutakhoz."
+            ],
+            "ro": [
+              "Drumul de coastă poate fi aglomerat la orele de vârf.",
+              "Parcați la parcul natural doar în locurile special amenajate.",
+              "Atenție la limitele de viteză.",
+              "Un GPS este util pentru drumurile secundare."
+            ],
+            "en": [
+              "The coastal road can be busy during rush hour.",
+              "Park at the natural park only in designated spots.",
+              "Pay attention to speed limits.",
+              "A GPS is helpful for the side roads."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Fahrt beginnt im Zentrum von Aguadulce, wo die Scheibenwischer den Takt angeben. In Roquetas de Mar beobachten wir die Fischerboote im Regen, bevor wir zum Naturschutzgebiet Punta Entinas-Sabinar weiterfahren. Dort wirkt die Landschaft unter den dunklen Wolken fast dramatisch. Der Tag endet sicher am Aussichtspunkt, während der Regen langsam nachlässt.",
+            "hu": "Az út Aguadulce központjából indul, az ablaktörlők ütemes mozgása mellett. Roquetas de Marban az esőben pihenő halászhajókat figyeljük meg, majd továbbutazunk Punta Entinas-Sabinar felé. A táj a sötét felhők alatt szinte drámai hatást kelt. A nap a kilátónál zárul, miközben az eső csendesedni kezd.",
+            "ro": "Călătoria începe în centrul Aguadulce, cu ștergătoarele marcând ritmul zilei. În Roquetas de Mar observăm bărcile de pescuit sub ploaie, apoi continuăm spre Punta Entinas-Sabinar. Acolo, peisajul sub norii negri pare aproape dramatic. Ziua se încheie în siguranță la punctul de observație, pe măsură ce ploaia se oprește.",
+            "en": "The drive starts in Aguadulce center with wipers setting the beat for the day. In Roquetas de Mar, we watch the fishing boats in the rain before heading to Punta Entinas-Sabinar. There, the landscape looks almost dramatic under the dark clouds. The day ends safely at the viewpoint as the rain begins to subside."
+          },
+          "stops": [
+            {
+              "name": "Aguadulce Center",
+              "tip_5lang": {
+                "de": "Parken Sie in Tiefgaragen, um beim Ein- und Aussteigen trocken zu bleiben.",
+                "hu": "Használjon mélygarázst, hogy ki- és beszálláskor száraz maradjon.",
+                "ro": "Parcați în garaje subterane pentru a rămâne uscați la urcare și coborâre.",
+                "en": "Use underground parking to stay dry when getting in and out of the car."
+              }
+            },
+            {
+              "name": "Roquetas de Mar",
+              "tip_5lang": {
+                "de": "Der Hafenbereich kann bei Starkregen Pfützen bilden; fahren Sie vorsichtig.",
+                "hu": "A kikötő környékén nagy tócsák alakulhatnak ki; vezessen óvatosan.",
+                "ro": "Zona portului poate avea bălți mari la ploi torențiale; conduceți prudent.",
+                "en": "The harbor area can have large puddles during heavy rain; drive carefully."
+              }
+            },
+            {
+              "name": "Punta Entinas-Sabinar",
+              "tip_5lang": {
+                "de": "Die Zufahrtswege sind teils unbefestigt; Vorsicht vor Rutschgefahr.",
+                "hu": "A bekötőutak néhol burkolatlanok; vigyázzon a megcsúszással.",
+                "ro": "Drumurile de acces sunt parțial neasfaltate; atenție la derapare.",
+                "en": "Access roads are partly unpaved; watch out for slippery mud patches."
+              }
+            },
+            {
+              "name": "Aguadulce Viewpoint",
+              "tip_5lang": {
+                "de": "Bleiben Sie bei starkem Wind und Regen lieber im Auto und genießen die Sicht.",
+                "hu": "Erős szélben és esőben maradjon inkább az autóban a kilátás élvezetéhez.",
+                "ro": "În caz de vânt și ploaie puternică, rămâneți în mașină pentru a admira panorama.",
+                "en": "In heavy wind and rain, stay inside the car to enjoy the panoramic view."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Zustand Ihrer Scheibenwischer vor der Tour.",
+              "Halten Sie größeren Sicherheitsabstand auf nassen Straßen.",
+              "Vermeiden Sie das Fahren durch tiefe Pfützen (Aquaplaning-Gefahr).",
+              "Licht einschalten erhöht die Sichtbarkeit deutlich.",
+              "Ein Regenschirm im Türfach ist für kurze Stopps praktisch."
+            ],
+            "hu": [
+              "Indulás előtt ellenőrizze az ablaktörlők állapotát.",
+              "Tartson nagyobb követési távolságot a nedves utakon.",
+              "Kerülje a mély tócsákat az aquaplaning veszélye miatt.",
+              "A fényszórók bekapcsolása jelentősen javítja a láthatóságot.",
+              "Tartson esernyőt az ajtózsebben a rövid kiszállásokhoz."
+            ],
+            "ro": [
+              "Verificați starea ștergătoarelor înainte de a porni la drum.",
+              "Păstrați o distanță de siguranță mai mare pe șoselele umede.",
+              "Evitați bălțile adânci din cauza riscului de acvaplanare.",
+              "Aprinderea farurilor crește semnificativ vizibilitatea.",
+              "O umbrelă în buzunarul portierei este utilă pentru opriri scurte."
+            ],
+            "en": [
+              "Check the condition of your windshield wipers before starting the trip.",
+              "Keep a larger following distance on wet and slick roads.",
+              "Avoid driving through deep puddles due to aquaplaning risks.",
+              "Turning on your headlights significantly improves visibility.",
+              "Keep an umbrella in the door pocket for quick stops outside the car."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein entspannter Roadtrip beginnt im Zentrum von Aguadulce bei klarer Wintersonne. In Roquetas de Mar genießen wir das maritime Flair ohne die sommerlichen Touristenmassen. Das Naturschutzgebiet Punta Entinas-Sabinar zeigt sich in sanftem Winterlicht. Zum Abschluss bietet der Aussichtspunkt ein Panorama, das im Winter besonders scharf und weit wirkt.",
+            "hu": "Egy nyugodt autós kirándulás kezdődik Aguadulce központjában a tiszta téli napsütésben. Roquetas de Marban a nyári tömeg nélkül élvezhetjük a tengerparti hangulatot. A Punta Entinas-Sabinar természetvédelmi terület lágy téli fényekben pompázik. Végezetül a kilátó olyan panorámát nyújt, amely télen különösen élesnek tűnik.",
+            "ro": "O excursie relaxantă cu mașina începe în centrul Aguadulce sub soarele clar de iarnă. În Roquetas de Mar ne bucurăm de atmosfera marină fără aglomerația de vară. Rezervația Punta Entinas-Sabinar se arată în culori blânde. La final, punctul de observație oferă o panoramă care iarna pare neobișnuit de clară.",
+            "en": "A relaxed road trip begins in Aguadulce center under clear winter skies. In Roquetas de Mar, we enjoy the maritime atmosphere without the summer crowds. The Punta Entinas-Sabinar nature reserve is bathed in soft winter light. Finally, the viewpoint offers a panorama that seems exceptionally sharp and distant in winter."
+          },
+          "stops": [
+            {
+              "name": "Aguadulce Center",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Parkplätze im Freien, die Sonne wärmt das Auto angenehm auf.",
+                "hu": "Parkoljon szabadtéren; a nap kellemesen felmelegíti az autót.",
+                "ro": "Parcați la exterior; soarele va încălzi mașina în mod plăcut.",
+                "en": "Use outdoor parking; the sun will warm up the car interior nicely."
+              }
+            },
+            {
+              "name": "Roquetas de Mar",
+              "tip_5lang": {
+                "de": "Spaziergang am Hafen; die Meeresbrise ist frisch, aber die Sonne wärmt.",
+                "hu": "Séta a kikötőben; a tengeri szél friss, de a napsütés melengető.",
+                "ro": "Plimbare în port; briza mării este proaspătă, dar soarele încălzește.",
+                "en": "Walk by the harbor; the sea breeze is crisp, but the sun is warming."
+              }
+            },
+            {
+              "name": "Punta Entinas-Sabinar",
+              "tip_5lang": {
+                "de": "Ideal für Naturbeobachtungen; die Tiere sind im Winter oft aktiver.",
+                "hu": "Ideális természetfigyelésre; az állatok télen gyakran aktívabbak napközben.",
+                "ro": "Ideal pentru observarea naturii; animalele sunt adesea mai active iarna.",
+                "en": "Ideal for nature watching; animals are often more active during winter days."
+              }
+            },
+            {
+              "name": "Aguadulce Viewpoint",
+              "tip_5lang": {
+                "de": "Perfekt für den Sonnenuntergang; parken Sie direkt am Rand für die Sicht.",
+                "hu": "Tökéletes a naplementéhez; parkoljon közvetlenül a szélén a kilátásért.",
+                "ro": "Perfect pentru apus; parcați chiar la margine pentru cea mai bună vedere.",
+                "en": "Perfect for sunset; park right at the edge for the best panoramic view."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Wintersonne kann beim Fahren stark blenden; Sonnenbrille griffbereit halten.",
+              "Die Temperaturen fallen nach Sonnenuntergang rapide ab.",
+              "Vermeiden Sie das Parken unter Palmen (herabfallende Blätter/Früchte).",
+              "Prüfen Sie den Reifendruck, da dieser bei Kälte sinken kann.",
+              "Genießen Sie die leeren Straßen abseits der Hauptsaison."
+            ],
+            "hu": [
+              "A téli nap alacsonyan jár és erősen vakíthat; tartson napszemüveget kéznél.",
+              "A hőmérséklet naplemente után gyorsan visszaesik.",
+              "Kerülje a pálmafák alatti parkolást a lehulló levelek vagy termés miatt.",
+              "Ellenőrizze a guminyomást, mert a hidegben csökkenhet.",
+              "Élvezze az üres utakat a főszezonon kívül."
+            ],
+            "ro": [
+              "Soarele de iarnă poate fi orbitor la volan; țineți ochelarii de soare la îndemână.",
+              "Temperaturile scad rapid imediat după apusul soarelui.",
+              "Evitați parcarea sub palmieri (pericol de cădere a frunzelor sau fructelor).",
+              "Verificați presiunea în anvelope, aceasta poate scădea la temperaturi mici.",
+              "Bucurați-vă de șoselele libere în afara sezonului turistic."
+            ],
+            "en": [
+              "The winter sun can be very blinding while driving; keep sunglasses handy.",
+              "Temperatures drop rapidly as soon as the sun goes down.",
+              "Avoid parking directly under palm trees (falling fronds or fruit).",
+              "Check your tire pressure, as it can drop in colder temperatures.",
+              "Enjoy the uncrowded roads during the off-season."
+            ]
+          }
+        }
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "15:30",
+      "total_km": 15.0,
+      "stop_count": 4,
+      "stops": [
+        {
+          "name": {
+            "de": "Aguadulce Zentrum",
+            "hu": "Aguadulce központ",
+            "ro": "Centrul Aguadulce",
+            "en": "Aguadulce Center"
+          },
+          "coords": [
+            -2.5667,
+            36.82
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Busse nach Almería und Roquetas halten hier.",
+            "hu": "Az Almeríába és Roquetasba tartó buszok itt állnak meg.",
+            "ro": "Autobuzele spre Almería și Roquetas opresc aici.",
+            "en": "Buses to Almería and Roquetas stop here."
+          }
+        },
+        {
+          "name": {
+            "de": "Almería Alcazaba",
+            "hu": "Almeríai Alcazaba",
+            "ro": "Alcazaba din Almería",
+            "en": "Almería Alcazaba"
+          },
+          "coords": [
+            -2.47,
+            36.84
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:45",
+          "stay_min": 120,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 12.0,
+          "tip_5lang": {
+            "de": "Die beeindruckende maurische Festung hoch über der Stadt.",
+            "hu": "A lenyűgöző mór erőd a város felett.",
+            "ro": "Impresionanta fortăreață maură de deasupra orașului.",
+            "en": "The impressive Moorish fortress high above the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Puerto de Aguadulce",
+            "hu": "Aguadulce kikötő",
+            "ro": "Portul Aguadulce",
+            "en": "Aguadulce Harbor"
+          },
+          "coords": [
+            -2.5585,
+            36.819
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:40",
+          "stay_min": 90,
+          "hop_from_prev_min": 55,
+          "hop_from_prev_km": 13.0,
+          "tip_5lang": {
+            "de": "Ein entspannter Ausklang am Wasser.",
+            "hu": "Pihentető befejezés a vízparton.",
+            "ro": "O încheiere relaxantă lângă apă.",
+            "en": "A relaxed conclusion by the water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Dank guter Busverbindungen können Sie Aguadulce als Basis für einen Ausflug nach Almería nutzen. Starten Sie im Zentrum und nehmen Sie den Bus zur Alcazaba von Almería, einer der größten maurischen Festungsanlagen Spaniens.\n\nNachdem Sie die Geschichte der Provinzhauptstadt erkundet haben, kehren Sie mit dem Bus nach Aguadulce zurück. Verbringen Sie den Rest des Nachmittags im Hafenbereich (Puerto Deportivo), um das maritime Flair zu genießen und den Tag bei einem Drink am Wasser Revue passieren zu lassen. Transit ist hier unkompliziert und bietet tolle Ausblicke auf die Steilküste während der Fahrt.",
+        "hu": "A jó buszközlekedésnek köszönhetően Aguadulcét bázisként használhatja egy almeríai kiránduláshoz. Kezdjen a központban, és szálljon buszra az almeríai Alcazabához, amely Spanyolország egyik legnagyobb mór erődítménye.\n\nMiután felfedezte a tartományi székhely történelmét, térjen vissza busszal Aguadulcébe. A délután hátralévő részét töltse a kikötői negyedben (Puerto Deportivo), élvezve a tengerparti hangulatot és egy ital mellett felidézve a nap eseményeit. A tömegközlekedés itt egyszerű, és az út során remek kilátás nyílik a meredek sziklapartra.",
+        "ro": "Datorită conexiunilor bune de autobuz, puteți folosi Aguadulce ca bază pentru o excursie la Almería. Începeți în centru și luați autobuzul spre Alcazaba din Almería, una dintre cele mai mari fortificații maure din Spania.\n\nDupă ce ați explorat istoria capitalei de provincie, întoarceți-vă cu autobuzul la Aguadulce. Petreceți restul după-amiezii în zona portului (Puerto Deportivo) pentru a vă bucura de flerul maritim și pentru a trece în revistă ziua cu o băutură lângă apă. Transportul este simplu aici și oferă vederi superbe asupra falezei abrupte în timpul călătoriei.",
+        "en": "Thanks to good bus connections, you can use Aguadulce as a base for a trip to Almería. Start in the center and take the bus to the Alcazaba of Almería, one of the largest Moorish fortifications in Spain.\n\nAfter exploring the history of the provincial capital, return by bus to Aguadulce. Spend the rest of the afternoon in the harbor area (Puerto Deportivo) to enjoy the maritime flair and reflect on the day with a drink by the water. Transit here is uncomplicated and offers great views of the steep coast during the ride."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Cherigan",
+            "tip": "Ein typisches getoastetes Brot aus Almería mit verschiedenen Belägen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cherigan",
+            "tip": "Almeríai pirított kenyér különféle feltétekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cherigan",
+            "tip": "O pâine prăjită tipică din Almería cu diverse toppinguri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cherigan",
+            "tip": "A typical toasted bread from Almería with various toppings."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Park am Hafen",
+            "tip": "Kleine Grünanlage mit Schattenplätzen.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kikötői park",
+            "tip": "Kis zöldterület árnyékos helyekkel.",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul din port",
+            "tip": "Mică zonă verde cu locuri umbrite.",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "Harbor Park",
+            "tip": "Small green area with shaded spots.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Almería Souvenirs",
+            "tip": "In den Läden rund um die Alcazaba."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Almeríai emléktárgyak",
+            "tip": "Az Alcazaba körüli boltokban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Suveniruri Almería",
+            "tip": "În magazinele din jurul Alcazaba."
+          }
+        ],
+        "en": [
+          {
+            "name": "Almería Souvenirs",
+            "tip": "In the shops around the Alcazaba."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nehmen Sie die Linie M-330 nach Almería.",
+          "Fahrkarten können im Bus gekauft werden.",
+          "Planen Sie Zeit für den Aufstieg zur Alcazaba ein.",
+          "Die Busse verkehren regelmäßig."
+        ],
+        "hu": [
+          "Használja az M-330-as vonalat Almeríába.",
+          "Jegyek a buszon vásárolhatók.",
+          "Szánjon időt az Alcazabához való feljutásra.",
+          "A buszok rendszeresen közlekednek."
+        ],
+        "ro": [
+          "Luați linia M-330 spre Almería.",
+          "Biletele pot fi cumpărate din autobuz.",
+          "Rezervați-vă timp pentru urcarea la Alcazaba.",
+          "Autobuzele circulă regulat."
+        ],
+        "en": [
+          "Take the M-330 line to Almería.",
+          "Tickets can be purchased on the bus.",
+          "Allow time for the climb to the Alcazaba.",
+          "Buses run regularly."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Dank guter Busverbindungen können Sie Aguadulce als Basis für einen Ausflug nach Almería nutzen. Starten Sie im Zentrum und nehmen Sie den Bus zur Alcazaba von Almería, einer der größten maurischen Festungsanlagen Spaniens.\n\nNachdem Sie die Geschichte der Provinzhauptstadt erkundet haben, kehren Sie mit dem Bus nach Aguadulce zurück. Verbringen Sie den Rest des Nachmittags im Hafenbereich (Puerto Deportivo), um das maritime Flair zu genießen und den Tag bei einem Drink am Wasser Revue passieren zu lassen. Transit ist hier unkompliziert und bietet tolle Ausblicke auf die Steilküste während der Fahrt.",
+            "hu": "A jó buszközlekedésnek köszönhetően Aguadulcét bázisként használhatja egy almeríai kiránduláshoz. Kezdjen a központban, és szálljon buszra az almeríai Alcazabához, amely Spanyolország egyik legnagyobb mór erődítménye.\n\nMiután felfedezte a tartományi székhely történelmét, térjen vissza busszal Aguadulcébe. A délután hátralévő részét töltse a kikötői negyedben (Puerto Deportivo), élvezve a tengerparti hangulatot és egy ital mellett felidézve a nap eseményeit. A tömegközlekedés itt egyszerű, és az út során remek kilátás nyílik a meredek sziklapartra.",
+            "ro": "Datorită conexiunilor bune de autobuz, puteți folosi Aguadulce ca bază pentru o excursie la Almería. Începeți în centru și luați autobuzul spre Alcazaba din Almería, una dintre cele mai mari fortificații maure din Spania.\n\nDupă ce ați explorat istoria capitalei de provincie, întoarceți-vă cu autobuzul la Aguadulce. Petreceți restul după-amiezii în zona portului (Puerto Deportivo) pentru a vă bucura de flerul maritim și pentru a trece în revistă ziua cu o băutură lângă apă. Transportul este simplu aici și oferă vederi superbe asupra falezei abrupte în timpul călătoriei.",
+            "en": "Thanks to good bus connections, you can use Aguadulce as a base for a trip to Almería. Start in the center and take the bus to the Alcazaba of Almería, one of the largest Moorish fortifications in Spain.\n\nAfter exploring the history of the provincial capital, return by bus to Aguadulce. Spend the rest of the afternoon in the harbor area (Puerto Deportivo) to enjoy the maritime flair and reflect on the day with a drink by the water. Transit here is uncomplicated and offers great views of the steep coast during the ride."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Aguadulce Zentrum",
+                "hu": "Aguadulce központ",
+                "ro": "Centrul Aguadulce",
+                "en": "Aguadulce Center"
+              },
+              "tip_5lang": {
+                "de": "Busse nach Almería und Roquetas halten hier.",
+                "hu": "Az Almeríába és Roquetasba tartó buszok itt állnak meg.",
+                "ro": "Autobuzele spre Almería și Roquetas opresc aici.",
+                "en": "Buses to Almería and Roquetas stop here."
+              }
+            },
+            {
+              "name": {
+                "de": "Almería Alcazaba",
+                "hu": "Almeríai Alcazaba",
+                "ro": "Alcazaba din Almería",
+                "en": "Almería Alcazaba"
+              },
+              "tip_5lang": {
+                "de": "Die beeindruckende maurische Festung hoch über der Stadt.",
+                "hu": "A lenyűgöző mór erőd a város felett.",
+                "ro": "Impresionanta fortăreață maură de deasupra orașului.",
+                "en": "The impressive Moorish fortress high above the city."
+              }
+            },
+            {
+              "name": {
+                "de": "Puerto de Aguadulce",
+                "hu": "Aguadulce kikötő",
+                "ro": "Portul Aguadulce",
+                "en": "Aguadulce Harbor"
+              },
+              "tip_5lang": {
+                "de": "Ein entspannter Ausklang am Wasser.",
+                "hu": "Pihentető befejezés a vízparton.",
+                "ro": "O încheiere relaxantă lângă apă.",
+                "en": "A relaxed conclusion by the water."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Cherigan",
+                "tip": "Ein typisches getoastetes Brot aus Almería mit verschiedenen Belägen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Cherigan",
+                "tip": "Almeríai pirított kenyér különféle feltétekkel."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Cherigan",
+                "tip": "O pâine prăjită tipică din Almería cu diverse toppinguri."
+              }
+            ],
+            "en": [
+              {
+                "name": "Cherigan",
+                "tip": "A typical toasted bread from Almería with various toppings."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Park am Hafen",
+                "tip": "Kleine Grünanlage mit Schattenplätzen.",
+                "emoji": "🌳"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Kikötői park",
+                "tip": "Kis zöldterület árnyékos helyekkel.",
+                "emoji": "🌳"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Parcul din port",
+                "tip": "Mică zonă verde cu locuri umbrite.",
+                "emoji": "🌳"
+              }
+            ],
+            "en": [
+              {
+                "name": "Harbor Park",
+                "tip": "Small green area with shaded spots.",
+                "emoji": "🌳"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Almería Souvenirs",
+                "tip": "In den Läden rund um die Alcazaba."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Almeríai emléktárgyak",
+                "tip": "Az Alcazaba körüli boltokban."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Suveniruri Almería",
+                "tip": "În magazinele din jurul Alcazaba."
+              }
+            ],
+            "en": [
+              {
+                "name": "Almería Souvenirs",
+                "tip": "In the shops around the Alcazaba."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Nehmen Sie die Linie M-330 nach Almería.",
+              "Fahrkarten können im Bus gekauft werden.",
+              "Planen Sie Zeit für den Aufstieg zur Alcazaba ein.",
+              "Die Busse verkehren regelmäßig."
+            ],
+            "hu": [
+              "Használja az M-330-as vonalat Almeríába.",
+              "Jegyek a buszon vásárolhatók.",
+              "Szánjon időt az Alcazabához való feljutásra.",
+              "A buszok rendszeresen közlekednek."
+            ],
+            "ro": [
+              "Luați linia M-330 spre Almería.",
+              "Biletele pot fi cumpărate din autobuz.",
+              "Rezervați-vă timp pentru urcarea la Alcazaba.",
+              "Autobuzele circulă regulat."
+            ],
+            "en": [
+              "Take the M-330 line to Almería.",
+              "Tickets can be purchased on the bus.",
+              "Allow time for the climb to the Alcazaba.",
+              "Buses run regularly."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir starten im Zentrum von Aguadulce und nutzen den Bus für eine trockene Fahrt. In Almería angekommen, bietet die Alcazaba trotz Regen faszinierende Einblicke, wobei wir uns oft unter Torbögen unterstellen. Der Rückweg führt uns zum Hafen von Aguadulce, wo wir in einem der küstennahen Cafés dem Treiben zusehen, während draußen der Regen fällt.",
+            "hu": "Aguadulce központjából indulunk, a busz száraz és kényelmes utazást biztosít. Almeríába érve az Alcazaba az eső ellenére is lenyűgöző, gyakran húzódunk a kapuboltozatok alá. A visszaút Aguadulce kikötőjébe vezet, ahol egy parti kávézó ablakából figyeljük a kinti esőt.",
+            "ro": "Pornim din centrul Aguadulce și folosim autobuzul pentru o călătorie uscată. Ajunși în Almería, Alcazaba oferă vederi fascinante în ciuda ploii, adăpostindu-ne des sub arcade. Drumul de întoarcere ne duce în portul Aguadulce, unde urmărim ploaia de la fereastra unei cafenele.",
+            "en": "We start in Aguadulce center, using the bus for a dry and comfortable journey. Upon reaching Almería, the Alcazaba remains fascinating despite the rain, with many archways providing cover. The return trip takes us to Aguadulce harbor, where we watch the rain from the warmth of a seaside cafe."
+          },
+          "stops": [
+            {
+              "name": "Aguadulce Center",
+              "tip_5lang": {
+                "de": "Warten Sie in den überdachten Bushaltestellen auf Ihre Linie.",
+                "hu": "Várja a járatát a fedett buszmegállókban.",
+                "ro": "Așteptați autobuzul în stațiile acoperite.",
+                "en": "Wait for your bus in the covered bus shelters."
+              }
+            },
+            {
+              "name": "Almería Alcazaba",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Innenräume und Türme, um dem Regen zu entkommen.",
+                "hu": "Használja ki a belső tereket és tornyokat az eső elől való menekülésre.",
+                "ro": "Folosiți spațiile interioare și turnurile pentru a evita ploaia.",
+                "en": "Utilize the indoor spaces and towers to escape the rain showers."
+              }
+            },
+            {
+              "name": "Aguadulce Harbor",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle liegt nahe am Hafen; ein kurzer Sprint reicht oft.",
+                "hu": "A buszmegálló közel van a kikötőhöz; egy rövid futással szárazon beérhet.",
+                "ro": "Stația de autobuz este aproape de port; un scurt sprint e suficient.",
+                "en": "The bus stop is close to the harbor; a short dash is usually enough."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Haben Sie Kleingeld für das Busticket bereit, falls keine Karte geht.",
+              "Die Busse können bei Regen voller sein als gewöhnlich.",
+              "Nutzen Sie Apps für Echtzeit-Infos, um Wartezeiten im Regen zu minimieren.",
+              "In Almería gibt es viele überdachte Passagen nahe der Bushaltestellen.",
+              "Achten Sie beim Einsteigen auf rutschige Stufen."
+            ],
+            "hu": [
+              "Legyen kéznél aprópénz a jegyhez, ha a kártyás fizetés nem működne.",
+              "Esőben a buszok a szokásosnál zsúfoltabbak lehetnek.",
+              "Használjon menetrendi appot, hogy minimalizálja az esőben való várakozást.",
+              "Almeríában sok fedett átjáró van a buszmegállók közelében.",
+              "Felszálláskor ügyeljen a vizes, csúszós lépcsőkre."
+            ],
+            "ro": [
+              "Aveți pregătit mărunt pentru bilet, în caz că plata cu cardul nu merge.",
+              "Autobuzele pot fi mai aglomerate decât de obicei pe timp de ploaie.",
+              "Folosiți aplicații de transport pentru a minimiza așteptarea în ploaie.",
+              "În Almería există multe pasaje acoperite lângă stațiile de autobuz.",
+              "Atenție la treptele alunecoase ale autobuzului la urcare."
+            ],
+            "en": [
+              "Have small change ready for the ticket in case card payment fails.",
+              "Buses may be more crowded than usual during rainy weather.",
+              "Use real-time transit apps to minimize waiting outside in the rain.",
+              "In Almería, there are many covered passages near the main bus stops.",
+              "Watch out for slippery steps when boarding the bus."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintertag beginnt mit einer entspannten Busfahrt von Aguadulce nach Almería. Die Alcazaba erstrahlt im tiefstehenden Sonnenlicht, das die alten Mauern in warmes Gold taucht. Nach der Besichtigung fahren wir zurück zum Hafen von Aguadulce, um die kühle, aber belebende Abendbrise bei einem Heißgetränk zu genießen.",
+            "hu": "A tiszta téli nap egy pihentető buszozással indul Aguadulce és Almería között. Az Alcazaba ragyog az alacsonyan járó napfényben, amely aranyló színbe öltözteti a falakat. A látogatás után visszatérünk Aguadulce kikötőjébe, hogy egy forró ital mellett élvezzük a hűvös esti szellőt.",
+            "ro": "O zi senină de iarnă începe cu o plimbare relaxantă cu autobuzul spre Almería. Alcazaba strălucește în lumina soarelui, care scaldă zidurile vechi în culori aurii. După vizită, ne întoarcem în portul Aguadulce pentru a savura o băutură caldă în briza serii.",
+            "en": "A clear winter day starts with a relaxed bus ride from Aguadulce to Almería. The Alcazaba glows in the low-angled sunlight, bathing the ancient walls in warm gold. After the visit, we head back to Aguadulce harbor to enjoy the cool but invigorating evening breeze with a hot drink."
+          },
+          "stops": [
+            {
+              "name": "Aguadulce Center",
+              "tip_5lang": {
+                "de": "Die Wintersonne an der Haltestelle ist angenehm; warten Sie auf der Sonnenseite.",
+                "hu": "A téli napsütés a megállóban kellemes; várjon a napos oldalon.",
+                "ro": "Soarele de iarnă în stație este plăcut; așteptați pe partea însorită.",
+                "en": "The winter sun at the stop is pleasant; wait on the sunny side if possible."
+              }
+            },
+            {
+              "name": "Almería Alcazaba",
+              "tip_5lang": {
+                "de": "Perfekte Zeit für Fotos; die Schatten sind im Winter länger und dramatischer.",
+                "hu": "Tökéletes időpont a fotózáshoz; az árnyékok télen hosszabbak és drámaibbak.",
+                "ro": "Moment perfect pentru fotografii; umbrele sunt mai lungi și dramatice iarna.",
+                "en": "Perfect time for photos; shadows are longer and more dramatic in winter."
+              }
+            },
+            {
+              "name": "Aguadulce Harbor",
+              "tip_5lang": {
+                "de": "Nach Sonnenuntergang wird es kühl; der Bus bringt Sie schnell zurück.",
+                "hu": "Naplemente után lehűl az idő; a busz hamar visszaviszi a szállására.",
+                "ro": "După apus se lasă frigul; autobuzul vă va duce rapid înapoi.",
+                "en": "It gets chilly after sunset; the bus will get you back quickly."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Winterfahrplan; manche Linien fahren seltener.",
+              "Die Busse sind im Winter gut beheizt.",
+              "Planen Sie die Rückfahrt vor 18 Uhr ein, um den Sonnenuntergang zu sehen.",
+              "Almería ist im Winter weniger überlaufen; genießen Sie die Ruhe.",
+              "Tragen Sie eine Jacke, da es beim Warten im Schatten kühl sein kann."
+            ],
+            "hu": [
+              "Ellenőrizze a téli menetrendet; egyes járatok ritkábban közlekedhetnek.",
+              "A buszok télen jól fűtöttek és komfortosak.",
+              "Tervezze a visszautat 18 óra elé, hogy lássa a naplementét a buszból.",
+              "Almería télen kevésbé zsúfolt; élvezze a nyugalmat a látnivalóknál.",
+              "Viseljen kabátot, mert az árnyékos megállókban hűvös lehet a várakozás."
+            ],
+            "ro": [
+              "Verificați orarul de iarnă; unele linii pot circula mai rar.",
+              "Autobuzele sunt bine încălzite și confortabile iarna.",
+              "Planificați întoarcerea înainte de ora 18 pentru a vedea apusul.",
+              "Almería este mai puțin aglomerată iarna; profitați de liniște.",
+              "Purtați o jachetă, deoarece așteptarea la umbră poate fi răcoroasă."
+            ],
+            "en": [
+              "Check the winter schedule; some lines might run less frequently.",
+              "Buses are well-heated and comfortable during the winter months.",
+              "Plan your return before 18:00 to catch the sunset from the window.",
+              "Almería is less crowded in winter; enjoy the peace at the monuments.",
+              "Wear a jacket, as waiting in shaded bus stops can be quite chilly."
+            ]
+          }
+        }
+      }
+    }
+  },
+  "external_resources": {
+    "tourism_office": "https://www.roquetasdemar.es/",
+    "language_tips": {
+      "de": "Aguadulce gehoert zu Roquetas de Mar und hat einen hohen Anteil deutscher Rentner, viele Geschaefte sprechen Deutsch. Lokale Verwaltung erfolgt durch Roquetas, Tourismusbuero in Roquetas-Zentrum. Im Hafen mit 'pescaito frito' bestellt man die typische Andalusische Fischplatte.",
+      "hu": "Aguadulce Roquetas de Mar resze, soks nemet nyugdijassal, sok bolt nemetul fogad. A helyi ugyintezes Roquetas-on tortenik, a turistairoda is ott talalhato. A kikotoben 'pescaito frito'-val rendelhetsz tipikus andaluz halat tanyert.",
+      "ro": "Aguadulce face parte din Roquetas de Mar si are multi pensionari germani, multe magazine vorbesc germana. Administratia locala e la Roquetas, biroul de turism in centrul Roquetas. In port, 'pescaito frito' e platoul tipic andaluz de peste prajit.",
+      "en": "Aguadulce belongs to Roquetas de Mar and has many German retirees, so shops often speak German. Local admin runs through Roquetas, including the tourist office in Roquetas centre. At the port, 'pescaito frito' is the classic Andalusian fried-fish platter."
+    },
+    "best_time_to_visit": {
+      "de": "Almeria-Provinz hat 300 Sonnentage und sehr milde Winter, von April bis November Badeurlaub moeglich. Hochsaison Juli und August ist deutsch-belgisch dominiert, fruehe Anreise zu den Straenden. Maerz und November sind ideal zum Wandern in den nahen Bergen.",
+      "hu": "Almeria megyenek 300 napos napsuteses ev jut, enyhe tellel, aprilistol novemberig furdoszezon. A julius-augusztusi csucsszezont nemet-belga turistak uralkjak, korai erkezes a strandhoz. Marcius es november a kornyezet hegyeiben turazasra ideal.",
+      "ro": "Provincia Almeria are 300 zile cu soare si ierni foarte blande, sezonul de baie din aprilie pana in noiembrie. Varful iulie-august e dominat de turisti germani si belgieni, ajunge devreme la plaja. Martie si noiembrie sunt ideale pentru drumetii in muntii din apropiere.",
+      "en": "Almeria province enjoys 300 sunny days and very mild winters, with swimming feasible April through November. Peak July-August is German and Belgian dominated, so reach the beach early. March and November are ideal for hiking in the nearby mountains."
+    },
+    "neighborhood_warnings": {
+      "de": "Aguadulce ist sehr sicher und familienfreundlich. Im Hafenbereich gibt es nachts vereinzelt betrunkene Touristen aber kaum Kriminalitaet. Achtung auf den Verkehr auf der Autovia AL-12, die hat haeufig Geisterfahrer im Sommer.",
+      "hu": "Aguadulce nagyon biztonsagos, csaladbarat. A kikoto kornyeken ejjel idonkent reszeg turistak, de bunozes nincs. Az AL-12 autopalyan nyaron gyakran kerul fel szembe joforgalmus auto, ovatosan vezess.",
+      "ro": "Aguadulce e foarte sigur si potrivit familiilor. In zona portului noaptea apar uneori turisti beti, dar criminalitate aproape deloc. Atentie pe autostrada AL-12, vara apar des soferi pe contrasens.",
+      "en": "Aguadulce is very safe and family-friendly. The port area sees occasional drunk tourists at night but barely any crime. Watch out on the AL-12 motorway, which has frequent wrong-way drivers in summer."
+    }
+  }
+}

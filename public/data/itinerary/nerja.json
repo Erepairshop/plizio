@@ -1,0 +1,2457 @@
+{
+  "city_id": "nerja",
+  "anchor": {
+    "name": "Balcón de Europa",
+    "coords": [
+      -3.8745,
+      36.7445
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 4.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Museum von Nerja",
+            "hu": "Nerjai Múzeum",
+            "ro": "Muzeul din Nerja",
+            "en": "Nerja Museum"
+          },
+          "coords": [
+            -3.876,
+            36.7485
+          ],
+          "category": "museums",
+          "arrive_at": "09:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Interaktive Geschichte der Region.",
+            "hu": "Interaktív helyi történelem.",
+            "ro": "Istorie locală interactivă.",
+            "en": "Interactive local history."
+          }
+        },
+        {
+          "name": {
+            "de": "Ermita de las Angustias",
+            "hu": "Angustias remetelak",
+            "ro": "Ermita de las Angustias",
+            "en": "Ermita de las Angustias"
+          },
+          "coords": [
+            -3.8785,
+            36.751
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Barocke Architektur aus 1720.",
+            "hu": "Barokk építészet 1720-ból.",
+            "ro": "Arhitectură barocă din 1720.",
+            "en": "Baroque architecture from 1720."
+          }
+        },
+        {
+          "name": {
+            "de": "Balcón de Europa",
+            "hu": "Európa erkélye",
+            "ro": "Balcón de Europa",
+            "en": "Balcony of Europe"
+          },
+          "coords": [
+            -3.8745,
+            36.7445
+          ],
+          "category": "natural features",
+          "arrive_at": "11:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Der ikonischste Ort Nerjas.",
+            "hu": "Nerja legikonikusabb helye.",
+            "ro": "Cel mai iconic loc din Nerja.",
+            "en": "The most iconic spot in Nerja."
+          }
+        },
+        {
+          "name": {
+            "de": "Heilandskirche",
+            "hu": "Megváltó temploma",
+            "ro": "Biserica El Salvador",
+            "en": "Church of El Salvador"
+          },
+          "coords": [
+            -3.874,
+            36.745
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Schöner Platz mit Palmen.",
+            "hu": "Szép tér pálmákkal.",
+            "ro": "Piață frumoasă cu palmieri.",
+            "en": "Beautiful square with palms."
+          }
+        },
+        {
+          "name": {
+            "de": "Burriana Strand",
+            "hu": "Burriana strand",
+            "ro": "Plaja Burriana",
+            "en": "Burriana Beach"
+          },
+          "coords": [
+            -3.868,
+            36.747
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:10",
+          "stay_min": 160,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Perfekt für Mittagspause.",
+            "hu": "Tökéletes ebédszünethez.",
+            "ro": "Perfect pentru pauza de prânz.",
+            "en": "Perfect for lunch break."
+          }
+        },
+        {
+          "name": {
+            "de": "Paseo de los Carabineros",
+            "hu": "Carabineros sétány",
+            "ro": "Paseo de los Carabineros",
+            "en": "Paseo de los Carabineros"
+          },
+          "coords": [
+            -3.871,
+            36.7455
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "17:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Küstenpfad unter Klippen.",
+            "hu": "Parti ösvény a sziklák alatt.",
+            "ro": "Cărare de coastă sub stânci.",
+            "en": "Coastal path under cliffs."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Nerja zu Fuß, beginnend mit dem Museum, um die reiche Geschichte zu verstehen. Besuchen Sie die barocke Ermita, bevor Sie den atemberaubenden Balcón de Europa erreichen. Nach der Besichtigung der Heilandskirche wandern Sie zum Burriana-Strand für ein langes Mittagessen am Meer. Beenden Sie den Tag auf dem Paseo de los Carabineros, einem malerischen Weg, der sich zwischen Felsen und Wellen schlängelt.",
+        "hu": "Fedezze fel Nerját gyalog, a múzeumban kezdve, hogy megismerje a város gazdag múltját. Látogassa meg a barokk remetelakot, majd érkezzen meg a lélegzetelállító Európa erkélyére. A Megváltó temploma után sétáljon el a Burriana strandra egy hosszú tengerparti ebédre. A napot a Paseo de los Carabineros ösvényen zárja, amely festőien kanyarog a sziklák és a hullámok között.",
+        "ro": "Explorați Nerja la pas, începând cu muzeul pentru a înțelege istoria bogată. Vizitați schitul baroc înainte de a ajunge la uimitorul Balcón de Europa. După biserica El Salvador, mergeți spre plaja Burriana pentru un prânz lung pe malul mării. Încheiați ziua pe Paseo de los Carabineros, o potecă pitorească ce șerpuiește printre stânci și valurile mării.",
+        "en": "Explore Nerja on foot, starting at the museum to understand the town's rich history. Visit the baroque hermitage before arriving at the breathtaking Balcony of Europe. After the Church of El Salvador, walk to Burriana Beach for a long seaside lunch. End your day on the Paseo de los Carabineros, a scenic path winding between the rocks and the waves."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Espetos de Sardinas",
+            "tip": "Am Spieß gegrillte Sardinen."
+          },
+          {
+            "name": "Restaurante Ayo",
+            "tip": "Berühmt für Paella über Holzfeuer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Espetos de Sardinas",
+            "tip": "Nyárson sült szardínia."
+          },
+          {
+            "name": "Restaurante Ayo",
+            "tip": "Híres a fatüzelésű paellájáról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Espetos de Sardinas",
+            "tip": "Sardine la proțap pe plajă."
+          },
+          {
+            "name": "Restaurante Ayo",
+            "tip": "Faimos pentru paella la foc de lemne."
+          }
+        ],
+        "en": [
+          {
+            "name": "Espetos",
+            "tip": "Sardines grilled on skewers."
+          },
+          {
+            "name": "Restaurante Ayo",
+            "tip": "Famous for wood-fired paella."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Cala del Carabeo",
+            "tip": "Ruhige Bucht nahe dem Zentrum.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cala del Carabeo",
+            "tip": "Csendes öböl a központ közelében.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cala del Carabeo",
+            "tip": "Golf liniștit aproape de centru.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cala del Carabeo",
+            "tip": "Quiet cove near the center.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Handgefertigte Töpferware",
+            "tip": "Typisch für die Region Axarquía."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kézműves kerámia",
+            "tip": "Jellemző az Axarquía régióra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ceramică artizanală",
+            "tip": "Tipică pentru regiunea Axarquía."
+          }
+        ],
+        "en": [
+          {
+            "name": "Handmade Pottery",
+            "tip": "Typical for the Axarquía region."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Der Weg zum Burriana-Strand ist steil.",
+          "Der Balcón de Europa ist bei Sonnenaufgang am schönsten."
+        ],
+        "hu": [
+          "A Burriana strandra vezető út meredek.",
+          "Az Európa erkélye napfelkeltekor a legszebb."
+        ],
+        "ro": [
+          "Drumul spre plaja Burriana este abrupt.",
+          "Balcón de Europa este cel mai frumos la răsărit."
+        ],
+        "en": [
+          "The walk to Burriana Beach is steep.",
+          "The Balcony of Europe is most beautiful at sunrise."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie Nerja zu Fuß, beginnend mit dem Museum, um die reiche Geschichte zu verstehen. Besuchen Sie die barocke Ermita, bevor Sie den atemberaubenden Balcón de Europa erreichen. Nach der Besichtigung der Heilandskirche wandern Sie zum Burriana-Strand für ein langes Mittagessen am Meer. Beenden Sie den Tag auf dem Paseo de los Carabineros, einem malerischen Weg, der sich zwischen Felsen und Wellen schlängelt.",
+            "hu": "Fedezze fel Nerját gyalog, a múzeumban kezdve, hogy megismerje a város gazdag múltját. Látogassa meg a barokk remetelakot, majd érkezzen meg a lélegzetelállító Európa erkélyére. A Megváltó temploma után sétáljon el a Burriana strandra egy hosszú tengerparti ebédre. A napot a Paseo de los Carabineros ösvényen zárja, amely festőien kanyarog a sziklák és a hullámok között.",
+            "ro": "Explorați Nerja la pas, începând cu muzeul pentru a înțelege istoria bogată. Vizitați schitul baroc înainte de a ajunge la uimitorul Balcón de Europa. După biserica El Salvador, mergeți spre plaja Burriana pentru un prânz lung pe malul mării. Încheiați ziua pe Paseo de los Carabineros, o potecă pitorească ce șerpuiește printre stânci și valurile mării.",
+            "en": "Explore Nerja on foot, starting at the museum to understand the town's rich history. Visit the baroque hermitage before arriving at the breathtaking Balcony of Europe. After the Church of El Salvador, walk to Burriana Beach for a long seaside lunch. End your day on the Paseo de los Carabineros, a scenic path winding between the rocks and the waves."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museum von Nerja",
+                "hu": "Nerjai Múzeum",
+                "ro": "Muzeul din Nerja",
+                "en": "Nerja Museum"
+              },
+              "tip_5lang": {
+                "de": "Interaktive Geschichte der Region.",
+                "hu": "Interaktív helyi történelem.",
+                "ro": "Istorie locală interactivă.",
+                "en": "Interactive local history."
+              }
+            },
+            {
+              "name": {
+                "de": "Ermita de las Angustias",
+                "hu": "Angustias remetelak",
+                "ro": "Ermita de las Angustias",
+                "en": "Ermita de las Angustias"
+              },
+              "tip_5lang": {
+                "de": "Barocke Architektur aus 1720.",
+                "hu": "Barokk építészet 1720-ból.",
+                "ro": "Arhitectură barocă din 1720.",
+                "en": "Baroque architecture from 1720."
+              }
+            },
+            {
+              "name": {
+                "de": "Balcón de Europa",
+                "hu": "Európa erkélye",
+                "ro": "Balcón de Europa",
+                "en": "Balcony of Europe"
+              },
+              "tip_5lang": {
+                "de": "Der ikonischste Ort Nerjas.",
+                "hu": "Nerja legikonikusabb helye.",
+                "ro": "Cel mai iconic loc din Nerja.",
+                "en": "The most iconic spot in Nerja."
+              }
+            },
+            {
+              "name": {
+                "de": "Heilandskirche",
+                "hu": "Megváltó temploma",
+                "ro": "Biserica El Salvador",
+                "en": "Church of El Salvador"
+              },
+              "tip_5lang": {
+                "de": "Schöner Platz mit Palmen.",
+                "hu": "Szép tér pálmákkal.",
+                "ro": "Piață frumoasă cu palmieri.",
+                "en": "Beautiful square with palms."
+              }
+            },
+            {
+              "name": {
+                "de": "Burriana Strand",
+                "hu": "Burriana strand",
+                "ro": "Plaja Burriana",
+                "en": "Burriana Beach"
+              },
+              "tip_5lang": {
+                "de": "Perfekt für Mittagspause.",
+                "hu": "Tökéletes ebédszünethez.",
+                "ro": "Perfect pentru pauza de prânz.",
+                "en": "Perfect for lunch break."
+              }
+            },
+            {
+              "name": {
+                "de": "Paseo de los Carabineros",
+                "hu": "Carabineros sétány",
+                "ro": "Paseo de los Carabineros",
+                "en": "Paseo de los Carabineros"
+              },
+              "tip_5lang": {
+                "de": "Küstenpfad unter Klippen.",
+                "hu": "Parti ösvény a sziklák alatt.",
+                "ro": "Cărare de coastă sub stânci.",
+                "en": "Coastal path under cliffs."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Espetos de Sardinas",
+                "tip": "Am Spieß gegrillte Sardinen."
+              },
+              {
+                "name": "Restaurante Ayo",
+                "tip": "Berühmt für Paella über Holzfeuer."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Espetos de Sardinas",
+                "tip": "Nyárson sült szardínia."
+              },
+              {
+                "name": "Restaurante Ayo",
+                "tip": "Híres a fatüzelésű paellájáról."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Espetos de Sardinas",
+                "tip": "Sardine la proțap pe plajă."
+              },
+              {
+                "name": "Restaurante Ayo",
+                "tip": "Faimos pentru paella la foc de lemne."
+              }
+            ],
+            "en": [
+              {
+                "name": "Espetos",
+                "tip": "Sardines grilled on skewers."
+              },
+              {
+                "name": "Restaurante Ayo",
+                "tip": "Famous for wood-fired paella."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Cala del Carabeo",
+                "tip": "Ruhige Bucht nahe dem Zentrum.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Cala del Carabeo",
+                "tip": "Csendes öböl a központ közelében.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Cala del Carabeo",
+                "tip": "Golf liniștit aproape de centru.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Cala del Carabeo",
+                "tip": "Quiet cove near the center.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Handgefertigte Töpferware",
+                "tip": "Typisch für die Region Axarquía."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Kézműves kerámia",
+                "tip": "Jellemző az Axarquía régióra."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Ceramică artizanală",
+                "tip": "Tipică pentru regiunea Axarquía."
+              }
+            ],
+            "en": [
+              {
+                "name": "Handmade Pottery",
+                "tip": "Typical for the Axarquía region."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Der Weg zum Burriana-Strand ist steil.",
+              "Der Balcón de Europa ist bei Sonnenaufgang am schönsten."
+            ],
+            "hu": [
+              "A Burriana strandra vezető út meredek.",
+              "Az Európa erkélye napfelkeltekor a legszebb."
+            ],
+            "ro": [
+              "Drumul spre plaja Burriana este abrupt.",
+              "Balcón de Europa este cel mai frumos la răsărit."
+            ],
+            "en": [
+              "The walk to Burriana Beach is steep.",
+              "The Balcony of Europe is most beautiful at sunrise."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bietet das Nerja-Museum einen trockenen Zufluchtsort voller Geschichte. Mittags besuchen Sie die geschützten Kapellen und Kirchen der Stadt. Der Nachmittag am Balcón de Europa ist windig, aber die raue See bietet ein dramatisches Schauspiel. Den Abend lassen wir bei einem Kaffee in den Arkaden ausklingen, während der Regen auf das Pflaster peitscht.",
+            "hu": "A reggelt a Nerja Múzeum fedett tereiben kezdjük, elkerülve az első záporokat. Délben a város patinás templomai nyújtanak menedéket és lelki feltöltődést. Délután az Európa-erkélyen a viharos tenger látványa lenyűgöző a sötét fellegek alatt. Az estét egy hangulatos, fedett teraszú kávézóban zárjuk, figyelve az esőcseppek táncát.",
+            "ro": "Dimineața începe la Muzeul Nerja, un refugiu ideal împotriva ploii. La prânz, vizităm bisericile istorice care oferă liniște și adăpost. După-amiaza la Balcón de Europa este spectaculoasă datorită mării agitate sub cerul plumburiu. Seara se încheie într-o cafenea primitoare, ascultând sunetul ploii pe străzile înguste.",
+            "en": "Start your morning at the Nerja Museum, a perfect dry haven filled with history. At noon, the town's churches provide a serene shelter from the rain. The afternoon at the Balcony of Europe offers dramatic views of the stormy sea. End your evening in a cozy indoor cafe, enjoying the rhythmic sound of rain on the cobblestones."
+          },
+          "stops": [
+            {
+              "name": "Nerja Museum",
+              "tip_5lang": {
+                "de": "Ideal zum Aufwärmen und Trocknen bei Regen.",
+                "hu": "Tökéletes helyszín az eső elleni menedékhez.",
+                "ro": "Locație ideală pentru a te adăposti de ploaie.",
+                "en": "Perfect indoor location to stay dry and warm."
+              }
+            },
+            {
+              "name": "Ermita de las Angustias",
+              "tip_5lang": {
+                "de": "Kleiner, trockener Rückzugsort mit schönen Fresken.",
+                "hu": "Apró, száraz menedék gyönyörű freskókkal.",
+                "ro": "Mic refugiu uscat, cu fresce superbe.",
+                "en": "Small, dry retreat featuring beautiful frescoes."
+              }
+            },
+            {
+              "name": "Balcony of Europe",
+              "tip_5lang": {
+                "de": "Vorsicht, die Fliesen können bei Nässe glatt sein.",
+                "hu": "Vigyázat, a kövezet vizesen csúszós lehet.",
+                "ro": "Atenție, pavajul poate fi alunecos când e ud.",
+                "en": "Caution, the tiles can be slippery when wet."
+              }
+            },
+            {
+              "name": "Church of El Salvador",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort, um einen Schauer abzuwarten.",
+                "hu": "Nyugodt hely egy nagyobb zápor átvészelésére.",
+                "ro": "Un loc liniștit pentru a aștepta trecerea ploii.",
+                "en": "A peaceful spot to wait out a heavy downpour."
+              }
+            },
+            {
+              "name": "Burriana Beach",
+              "tip_5lang": {
+                "de": "Besuchen Sie ein Chiringuito für eine warme Mahlzeit.",
+                "hu": "Térjen be egy partmenti étterembe egy meleg ételre.",
+                "ro": "Intrați într-un chiringuito pentru o masă caldă.",
+                "en": "Visit a beachside chiringuito for a warm meal."
+              }
+            },
+            {
+              "name": "Paseo de los Carabineros",
+              "tip_5lang": {
+                "de": "Regenschutz erforderlich, der Weg ist exponiert.",
+                "hu": "Esővédő kötelező, az út teljesen nyitott.",
+                "ro": "Protecție de ploaie necesară, poteca este expusă.",
+                "en": "Rain gear required as the path is fully exposed."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe für die Kopfsteinpflastergassen.",
+              "Die Museen in Nerja sind montags oft geschlossen, prüfen Sie die Zeiten.",
+              "Nutzen Sie die Arkaden am Balcón de Europa als Regenschutz.",
+              "Ein Taschenregenschirm ist bei plötzlichen Mittelmeerschauern Pflicht.",
+              "Genießen Sie Churros in einer der Cafés, während es draußen regnet."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt a macskaköves utcákon való sétához.",
+              "A Nerja Múzeum hétfőnként zárva tarthat, ellenőrizze előre.",
+              "Használja az Európa-erkély árkádjait eső elleni védelemként.",
+              "Egy összecsukható esernyő kötelező a hirtelen mediterrán záporokhoz.",
+              "Kóstoljon forró churrost egy kávézóban, amíg kint esik az eső."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă pentru străzile cu piatră cubică.",
+              "Muzeul Nerja poate fi închis lunea, verificați programul.",
+              "Folosiți arcadele de la Balcón de Europa ca adăpost.",
+              "O umbrelă pliabilă este esențială pentru aversele mediteraneene.",
+              "Savurați churros într-o cafenea în timp ce afară plouă."
+            ],
+            "en": [
+              "Wear waterproof shoes for walking on the cobblestone streets.",
+              "Check museum opening hours as they may be closed on Mondays.",
+              "Use the arches near the Balcony of Europe for rain cover.",
+              "A compact umbrella is a must for sudden Mediterranean showers.",
+              "Enjoy hot churros in a local cafe while it rains outside."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Morgen in Nerja ist frisch, aber die Wintersonne wärmt schnell auf. Mittags erkunden wir die Altstadt unter blauem Himmel ohne die Hitze des Sommers. Der Nachmittag am Strand lädt zu langen Spaziergängen in der klaren Meeresluft ein. Den Abend verbringen wir am Balcón de Europa, um den frühen, glutroten Sonnenuntergang über den Bergen zu bestaunen.",
+            "hu": "A reggel hűvös Nerjában, de a téli napsütés hamar kellemes meleget ad. Délben a történelmi központot fedezzük fel a tiszta kék ég alatt, nyári hőség nélkül. Délután a tengerparti séták frissítő ereje dominál a kristálytiszta levegőben. Az estét az Európa-erkélyen zárjuk, megcsodálva a korai, vöröslő naplementét a hegyek mögött.",
+            "ro": "Dimineața în Nerja este răcoroasă, dar soarele de iarnă încălzește rapid atmosfera. La prânz, explorăm centrul istoric sub un cer senin, fără canicula verii. După-amiaza este perfectă pentru plimbări lungi pe plajă în aerul curat de mare. Seara se încheie la Balcón de Europa pentru a admira apusul timpuriu peste munți.",
+            "en": "Mornings in Nerja are crisp, but the winter sun quickly warms the air. At noon, explore the historic center under bright blue skies without the summer heat. The afternoon is ideal for long beach walks in the fresh sea breeze. Spend your evening at the Balcony of Europe to witness the early, vibrant sunset over the mountains."
+          },
+          "stops": [
+            {
+              "name": "Nerja Museum",
+              "tip_5lang": {
+                "de": "Angenehm temperiert für einen Wintervormittag.",
+                "hu": "Kellemesen temperált helyszín egy téli délelőtthöz.",
+                "ro": "Temperatură plăcută pentru o dimineață de iarnă.",
+                "en": "Pleasantly tempered for a winter morning visit."
+              }
+            },
+            {
+              "name": "Ermita de las Angustias",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort für Besinnung in der Nebensaison.",
+                "hu": "Csendes hely az elmélkedésre a főszezonon kívül.",
+                "ro": "Un loc liniștit pentru reflecție în extrasezon.",
+                "en": "A peaceful spot for reflection during the off-season."
+              }
+            },
+            {
+              "name": "Balcony of Europe",
+              "tip_5lang": {
+                "de": "Bester Platz für den Sonnenuntergang um ca. 18 Uhr.",
+                "hu": "A legjobb hely a naplemente nézéséhez este 6 körül.",
+                "ro": "Cel mai bun loc pentru apus în jurul orei 18:00.",
+                "en": "Best spot for viewing the sunset around 6:00 PM."
+              }
+            },
+            {
+              "name": "Church of El Salvador",
+              "tip_5lang": {
+                "de": "Beachten Sie die festliche Winterdekoration.",
+                "hu": "Figyelje meg az ünnepi téli díszítést.",
+                "ro": "Admirați decorațiunile festive de iarnă.",
+                "en": "Admire the beautiful festive winter decorations."
+              }
+            },
+            {
+              "name": "Burriana Beach",
+              "tip_5lang": {
+                "de": "Perfekt für ein Sonnenbad im geschützten Bereich.",
+                "hu": "Tökéletes napozáshoz a szélvédett részeken.",
+                "ro": "Perfect pentru plajă în zonele ferite de vânt.",
+                "en": "Perfect for sunbathing in wind-protected areas."
+              }
+            },
+            {
+              "name": "Paseo de los Carabineros",
+              "tip_5lang": {
+                "de": "Die tiefstehende Sonne bietet tolles Fotolicht.",
+                "hu": "Az alacsony napállás remek fényeket ad a fotózáshoz.",
+                "ro": "Soarele jos oferă o lumină excelentă pentru poze.",
+                "en": "The low winter sun provides excellent light for photos."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Zwiebelprinzip: Morgens kühl, mittags T-Shirt-Wetter möglich.",
+              "Die Sonne geht im Winter bereits gegen 18:00 Uhr unter.",
+              "Viele Restaurants haben in der Nebensaison kürzere Öffnungszeiten.",
+              "Die Luftfeuchtigkeit ist im Winter niedriger, was die Fernsicht verbessert.",
+              "Schattenplätze können im Winter sehr schnell auskühlen."
+            ],
+            "hu": [
+              "Réteges öltözködés: reggel hűvös, délben pólós idő is lehet.",
+              "A nap télen már 18:00 körül lenyugszik.",
+              "Sok étteremnek rövidebb a nyitvatartása a holtszezonban.",
+              "A páratartalom télen alacsonyabb, ami javítja a távoli kilátást.",
+              "Az árnyékos helyek télen nagyon gyorsan lehűlhetnek."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi: dimineața e răcoare, la prânz e cald.",
+              "Soarele apune iarna în jurul orei 18:00.",
+              "Multe restaurante au program scurt în extrasezon.",
+              "Umiditatea este mai mică iarna, ceea ce îmbunătățește vizibilitatea.",
+              "Locurile umbrite se pot răci foarte rapid pe timpul iernii."
+            ],
+            "en": [
+              "Dress in layers: cool mornings but possible T-shirt weather at noon.",
+              "The sun sets quite early in winter, around 6:00 PM.",
+              "Many restaurants operate with shorter hours during the off-season.",
+              "Lower humidity in winter results in much clearer distant views.",
+              "Shaded areas can become chilly very quickly in winter."
+            ]
+          }
+        }
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "15:45",
+      "total_km": 10.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Verano Azul Park",
+            "hu": "Verano Azul park",
+            "ro": "Parcul Verano Azul",
+            "en": "Verano Azul Park"
+          },
+          "coords": [
+            -3.882,
+            36.748
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Hier steht das Schiff 'La Chanquete'.",
+            "hu": "Itt áll a 'La Chanquete' hajó.",
+            "ro": "Aici se află nava 'La Chanquete'.",
+            "en": "Home to the 'La Chanquete' boat."
+          }
+        },
+        {
+          "name": {
+            "de": "Chanquete Statue",
+            "hu": "Chanquete szobor",
+            "ro": "Statuia Chanquete",
+            "en": "Chanquete Statue"
+          },
+          "coords": [
+            -3.885,
+            36.7435
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:20",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ehre für den lokalen TV-Helden.",
+            "hu": "Tisztelgés a helyi TV-hős előtt.",
+            "ro": "Omagiu eroului TV local.",
+            "en": "Honoring the local TV hero."
+          }
+        },
+        {
+          "name": {
+            "de": "Nerja Höhlen",
+            "hu": "Nerjai barlangok",
+            "ro": "Peșterile din Nerja",
+            "en": "Nerja Caves"
+          },
+          "coords": [
+            -3.845,
+            36.762
+          ],
+          "category": "natural features",
+          "arrive_at": "11:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Weltgrößter Stalaktit hier.",
+            "hu": "A világ legnagyobb sztalaktitja.",
+            "ro": "Cel mai mare stalactit din lume.",
+            "en": "World's largest stalactite here."
+          }
+        },
+        {
+          "name": {
+            "de": "Adler-Aquädukt",
+            "hu": "Sas-akvadukt",
+            "ro": "Acueducto del Águila",
+            "en": "Eagle Aqueduct"
+          },
+          "coords": [
+            -3.848,
+            36.758
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "13:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Meisterwerk aus dem 19. Jh.",
+            "hu": "19. századi remekmű.",
+            "ro": "Capodoperă din secolul XIX.",
+            "en": "19th-century masterpiece."
+          }
+        },
+        {
+          "name": {
+            "de": "Burriana Strand",
+            "hu": "Burriana strand",
+            "ro": "Plaja Burriana",
+            "en": "Burriana Beach"
+          },
+          "coords": [
+            -3.868,
+            36.747
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Erfrischung nach der Fahrt.",
+            "hu": "Frissítő a tekerés után.",
+            "ro": "Răcorire după pedalat.",
+            "en": "Refreshment after the ride."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie am Verano Azul Park und radeln Sie zur Statue von Chanquete. Die größte Herausforderung ist die Fahrt bergauf zu den berühmten Höhlen von Nerja. Auf dem Rückweg halten Sie am beeindruckenden Adler-Aquädukt, bevor Sie zur Playa de Burriana hinunterrollen. Ein Tag voller Kontraste zwischen TV-Nostalgie, unterirdischen Wundern und andalusischer Ingenieurskunst.",
+        "hu": "Kezdje a Verano Azul parkban, majd tekerjen Chanquete szobrához. A legnagyobb kihívás a felfelé út a híres Nerjai barlangokhoz. Visszafelé álljon meg a lenyűgöző Sas-akvaduktnál, mielőtt legurulna a Burriana strandra. Egy nap tele kontrasztokkal: TV-nosztalgia, föld alatti csodák és andalúz mérnöki remekművek.",
+        "ro": "Începeți în parcul Verano Azul și pedalați spre statuia lui Chanquete. Cea mai mare provocare este urcarea spre faimoasele peșteri din Nerja. La întoarcere, opriți-vă la impresionantul Apeduct al Vulturului înainte de a coborî spre plaja Burriana. O zi plină de contraste între nostalgia TV, minunile subterane și ingineria andaluză.",
+        "en": "Start at Verano Azul Park and cycle to the statue of Chanquete. The main challenge is the uphill ride to the famous Nerja Caves. On the way back, stop at the impressive Eagle Aqueduct before rolling down to Burriana Beach. A day full of contrasts: TV nostalgia, underground wonders, and Andalusian engineering."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ajoblanco",
+            "tip": "Kalte Mandel-Knoblauch-Suppe."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ajoblanco",
+            "tip": "Hideg mandulás fokhagymaleves."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ajoblanco",
+            "tip": "Supă rece de migdale și usturoi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ajoblanco",
+            "tip": "Cold almond and garlic soup."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Acantilados de Maro",
+            "tip": "Wilde Klippenlandschaft.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Acantilados de Maro",
+            "tip": "Vad sziklás partvidék.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Acantilados de Maro",
+            "tip": "Stânci sălbatice pe coastă.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Maro Cliffs",
+            "tip": "Wild coastal cliff scenery.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Rohrhonig",
+            "tip": "Spezialität aus dem nahen Frigiliana."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Nádméz",
+            "tip": "Különlegesség a közeli Frigilianából."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miere de trestie",
+            "tip": "Specialitate din Frigiliana."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cane Honey",
+            "tip": "Specialty from nearby Frigiliana."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein E-Bike für die Höhlen-Tour.",
+          "Vorsicht auf der Hauptstraße N-340."
+        ],
+        "hu": [
+          "Béreljen e-bike-ot a barlangi túrához.",
+          "Legyen óvatos az N-340-es főúton."
+        ],
+        "ro": [
+          "Închiriați o bicicletă electrică pentru peșteri.",
+          "Atenție pe drumul principal N-340."
+        ],
+        "en": [
+          "Rent an e-bike for the cave trip.",
+          "Be careful on the N-340 main road."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Starten Sie am Verano Azul Park und radeln Sie zur Statue von Chanquete. Die größte Herausforderung ist die Fahrt bergauf zu den berühmten Höhlen von Nerja. Auf dem Rückweg halten Sie am beeindruckenden Adler-Aquädukt, bevor Sie zur Playa de Burriana hinunterrollen. Ein Tag voller Kontraste zwischen TV-Nostalgie, unterirdischen Wundern und andalusischer Ingenieurskunst.",
+            "hu": "Kezdje a Verano Azul parkban, majd tekerjen Chanquete szobrához. A legnagyobb kihívás a felfelé út a híres Nerjai barlangokhoz. Visszafelé álljon meg a lenyűgöző Sas-akvaduktnál, mielőtt legurulna a Burriana strandra. Egy nap tele kontrasztokkal: TV-nosztalgia, föld alatti csodák és andalúz mérnöki remekművek.",
+            "ro": "Începeți în parcul Verano Azul și pedalați spre statuia lui Chanquete. Cea mai mare provocare este urcarea spre faimoasele peșteri din Nerja. La întoarcere, opriți-vă la impresionantul Apeduct al Vulturului înainte de a coborî spre plaja Burriana. O zi plină de contraste între nostalgia TV, minunile subterane și ingineria andaluză.",
+            "en": "Start at Verano Azul Park and cycle to the statue of Chanquete. The main challenge is the uphill ride to the famous Nerja Caves. On the way back, stop at the impressive Eagle Aqueduct before rolling down to Burriana Beach. A day full of contrasts: TV nostalgia, underground wonders, and Andalusian engineering."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Verano Azul Park",
+                "hu": "Verano Azul park",
+                "ro": "Parcul Verano Azul",
+                "en": "Verano Azul Park"
+              },
+              "tip_5lang": {
+                "de": "Hier steht das Schiff 'La Chanquete'.",
+                "hu": "Itt áll a 'La Chanquete' hajó.",
+                "ro": "Aici se află nava 'La Chanquete'.",
+                "en": "Home to the 'La Chanquete' boat."
+              }
+            },
+            {
+              "name": {
+                "de": "Chanquete Statue",
+                "hu": "Chanquete szobor",
+                "ro": "Statuia Chanquete",
+                "en": "Chanquete Statue"
+              },
+              "tip_5lang": {
+                "de": "Ehre für den lokalen TV-Helden.",
+                "hu": "Tisztelgés a helyi TV-hős előtt.",
+                "ro": "Omagiu eroului TV local.",
+                "en": "Honoring the local TV hero."
+              }
+            },
+            {
+              "name": {
+                "de": "Nerja Höhlen",
+                "hu": "Nerjai barlangok",
+                "ro": "Peșterile din Nerja",
+                "en": "Nerja Caves"
+              },
+              "tip_5lang": {
+                "de": "Weltgrößter Stalaktit hier.",
+                "hu": "A világ legnagyobb sztalaktitja.",
+                "ro": "Cel mai mare stalactit din lume.",
+                "en": "World's largest stalactite here."
+              }
+            },
+            {
+              "name": {
+                "de": "Adler-Aquädukt",
+                "hu": "Sas-akvadukt",
+                "ro": "Acueducto del Águila",
+                "en": "Eagle Aqueduct"
+              },
+              "tip_5lang": {
+                "de": "Meisterwerk aus dem 19. Jh.",
+                "hu": "19. századi remekmű.",
+                "ro": "Capodoperă din secolul XIX.",
+                "en": "19th-century masterpiece."
+              }
+            },
+            {
+              "name": {
+                "de": "Burriana Strand",
+                "hu": "Burriana strand",
+                "ro": "Plaja Burriana",
+                "en": "Burriana Beach"
+              },
+              "tip_5lang": {
+                "de": "Erfrischung nach der Fahrt.",
+                "hu": "Frissítő a tekerés után.",
+                "ro": "Răcorire după pedalat.",
+                "en": "Refreshment after the ride."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Ajoblanco",
+                "tip": "Kalte Mandel-Knoblauch-Suppe."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Ajoblanco",
+                "tip": "Hideg mandulás fokhagymaleves."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Ajoblanco",
+                "tip": "Supă rece de migdale și usturoi."
+              }
+            ],
+            "en": [
+              {
+                "name": "Ajoblanco",
+                "tip": "Cold almond and garlic soup."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Acantilados de Maro",
+                "tip": "Wilde Klippenlandschaft.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Acantilados de Maro",
+                "tip": "Vad sziklás partvidék.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Acantilados de Maro",
+                "tip": "Stânci sălbatice pe coastă.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Maro Cliffs",
+                "tip": "Wild coastal cliff scenery.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Rohrhonig",
+                "tip": "Spezialität aus dem nahen Frigiliana."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Nádméz",
+                "tip": "Különlegesség a közeli Frigilianából."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Miere de trestie",
+                "tip": "Specialitate din Frigiliana."
+              }
+            ],
+            "en": [
+              {
+                "name": "Cane Honey",
+                "tip": "Specialty from nearby Frigiliana."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Mieten Sie ein E-Bike für die Höhlen-Tour.",
+              "Vorsicht auf der Hauptstraße N-340."
+            ],
+            "hu": [
+              "Béreljen e-bike-ot a barlangi túrához.",
+              "Legyen óvatos az N-340-es főúton."
+            ],
+            "ro": [
+              "Închiriați o bicicletă electrică pentru peșteri.",
+              "Atenție pe drumul principal N-340."
+            ],
+            "en": [
+              "Rent an e-bike for the cave trip.",
+              "Be careful on the N-340 main road."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Tag beginnt im Verano Azul Park, wo die Bäume ersten Schutz bieten. Mittags radeln wir vorsichtig zur Statue, bevor wir uns in die Nerja-Höhlen flüchten. Der Nachmittag unter dem Eagle Aquädukt zeigt die Kraft des Wassers. Den Tag beenden wir sicher am Strand, wo wir die Räder trocken abstellen und uns in ein Café zurückziehen.",
+            "hu": "Az esős napot a Verano Azul Parkban kezdjük, ahol a fák némi védelmet nyújtanak. Délben óvatosan tekerünk a szoborig, majd a Nerja-barlang fedett csodáihoz menekülünk. Délután a Sas-akvadukt alatt érezzük a természet erejét. A napot a tengerparton zárjuk, biztonságban leparkolva a gépeket egy meleg hely közelében.",
+            "ro": "O zi ploioasă începe în Parcul Verano Azul, unde copacii oferă o protecție parțială. La prânz pedalăm cu grijă spre statuie, apoi ne refugiem în Peșterile Nerja. După-amiaza sub Apeductul Vulturului simțim forța elementelor. Încheiem ziua la plajă, parcând bicicletele într-un loc ferit pentru o pauză caldă.",
+            "en": "A rainy day starts in Verano Azul Park, where trees provide some cover. At noon, we cycle carefully to the statue before taking refuge in the Nerja Caves. The afternoon under the Eagle Aqueduct showcases the power of nature. End the day at the beach, parking the bikes safely before heading into a nearby cafe."
+          },
+          "stops": [
+            {
+              "name": "Verano Azul Park",
+              "tip_5lang": {
+                "de": "Vorsicht bei nassen Blättern auf den Wegen.",
+                "hu": "Vigyázat a vizes levelekkel az utakon.",
+                "ro": "Atenție la frunzele ude de pe alei.",
+                "en": "Be careful with wet leaves on the paths."
+              }
+            },
+            {
+              "name": "Chanquete Statue",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp, dann schnell weiter ins Trockene.",
+                "hu": "Gyors fotó, aztán irány egy fedett hely.",
+                "ro": "Oprire rapidă pentru poze, apoi spre adăpost.",
+                "en": "Quick photo stop, then head to a dry area."
+              }
+            },
+            {
+              "name": "Nerja Caves",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um den Regen für Stunden zu vergessen.",
+                "hu": "Tökéletes hely az eső teljes elfelejtésére órákon át.",
+                "ro": "Locul perfect pentru a uita de ploaie ore în șir.",
+                "en": "Perfect place to forget the rain for hours."
+              }
+            },
+            {
+              "name": "Eagle Aqueduct",
+              "tip_5lang": {
+                "de": "Der Boden kann hier schlammig und rutschig sein.",
+                "hu": "A talaj itt sáros és csúszós lehet.",
+                "ro": "Solul poate fi noroios și alunecos aici.",
+                "en": "The ground here can be muddy and slippery."
+              }
+            },
+            {
+              "name": "Burriana Beach",
+              "tip_5lang": {
+                "de": "Stellen Sie das Rad unter einem Vordach ab.",
+                "hu": "Parkolja le a biciklit egy előtető alatt.",
+                "ro": "Parcați bicicleta sub o copertină.",
+                "en": "Park your bike under a roof or awning."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine vollflächige Regenjacke und wasserdichte Hosen.",
+              "Prüfen Sie Ihre Bremsen, da der Bremsweg auf nasser Straße länger ist.",
+              "Vermeiden Sie weiße Straßenmarkierungen, diese sind extrem glatt.",
+              "Verwenden Sie Schutzbleche, um Schmutzspritzer zu vermeiden.",
+              "Licht einschalten, um bei grauem Wetter besser gesehen zu werden."
+            ],
+            "hu": [
+              "Viseljen teljes esődzsekit és vízálló nadrágot.",
+              "Ellenőrizze a fékeket, a fékút hosszabb vizes úton.",
+              "Kerülje a fehér útburkolati jeleket, mert rendkívül csúszósak.",
+              "Használjon sárvédőt a felfröccsenő sár ellen.",
+              "Kapcsolja be a világítást a jobb láthatóságért szürke időben."
+            ],
+            "ro": [
+              "Purtați o jachetă de ploaie completă și pantaloni impermeabili.",
+              "Verificați frânele, distanța de frânare este mai mare pe ud.",
+              "Evitați marcajele rutiere albe, sunt extrem de alunecoase.",
+              "Folosiți apărători de noroi pentru a evita stropirea.",
+              "Aprindeți luminile pentru o vizibilitate mai bună pe vreme gri."
+            ],
+            "en": [
+              "Wear a full rain jacket and waterproof trousers.",
+              "Check your brakes; braking distance is longer on wet roads.",
+              "Avoid white road markings as they are extremely slippery.",
+              "Use mudguards to prevent splashes from the ground.",
+              "Turn on your lights to be more visible in grey weather."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Wintermorgen auf dem Rad ist belebend, während wir durch den sonnigen Park fahren. Mittags ist die Fahrt zu den Höhlen bei milden Temperaturen ein Genuss. Der Nachmittag am Aquädukt bietet glasklares Licht für Panoramafotos. Wir beenden die Tour am Burriana-Strand, wo die Wintersonne noch lange für eine angenehme Wärme sorgt.",
+            "hu": "A téli reggel élénkítő, ahogy áttekerünk a napsütötte parkon. Délben a barlangokhoz vezető út a kellemes hőmérsékletben igazi élvezet. Délután az akvaduktnál kristálytiszta fények várják a fotósokat. A túrát a Burriana-parton zárjuk, ahol a téli nap ereje még hosszan kellemes meleget áraszt.",
+            "ro": "O dimineață de iarnă pe bicicletă este revigorantă prin parcul însorit. La prânz, drumul spre peșteri este o plăcere la temperaturi blânde. După-amiaza la apeduct oferă o lumină clară pentru fotografii panoramice. Încheiem turul la plaja Burriana, unde soarele de iarnă încă oferă o căldură plăcută.",
+            "en": "A winter morning on a bike is invigorating as we ride through the sunny park. At noon, the trip to the caves is a delight in the mild temperatures. The afternoon at the aqueduct offers crystal clear light for panoramic photos. Finish the tour at Burriana Beach, where the winter sun still provides pleasant warmth."
+          },
+          "stops": [
+            {
+              "name": "Verano Azul Park",
+              "tip_5lang": {
+                "de": "Ideale Temperaturen für eine entspannte Runde.",
+                "hu": "Ideális hőmérséklet egy lazító körhöz.",
+                "ro": "Temperaturi ideale pentru o plimbare relaxată.",
+                "en": "Ideal temperatures for a relaxed ride."
+              }
+            },
+            {
+              "name": "Chanquete Statue",
+              "tip_5lang": {
+                "de": "Genießen Sie die Sonne am Fuße des Denkmals.",
+                "hu": "Élvezze a napsütést az emlékmű lábánál.",
+                "ro": "Bucurați-vă de soare la picioarele monumentului.",
+                "en": "Enjoy the sun at the base of the monument."
+              }
+            },
+            {
+              "name": "Nerja Caves",
+              "tip_5lang": {
+                "de": "Konstante 18-20 Grad im Inneren, sehr angenehm.",
+                "hu": "Állandó 18-20 fok bent, nagyon kellemes.",
+                "ro": "Constant 18-20 de grade în interior, foarte plăcut.",
+                "en": "Constant 18-20 degrees inside, very pleasant."
+              }
+            },
+            {
+              "name": "Eagle Aqueduct",
+              "tip_5lang": {
+                "de": "Weniger Besucher im Winter für das perfekte Foto.",
+                "hu": "Kevesebb látogató télen a tökéletes fotóhoz.",
+                "ro": "Mai puțini vizitatori iarna pentru poza perfectă.",
+                "en": "Fewer visitors in winter for that perfect shot."
+              }
+            },
+            {
+              "name": "Burriana Beach",
+              "tip_5lang": {
+                "de": "Am späten Nachmittag wird es im Schatten kühl.",
+                "hu": "Késő délután az árnyékban már hűvös lesz.",
+                "ro": "Dupa-amiaza târziu se face răcoare la umbră.",
+                "en": "It gets chilly in the shade by late afternoon."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie winddichte Kleidung, besonders bei Abfahrten.",
+              "Die Sonne ist stark, nutzen Sie auch im Winter Sonnenschutz.",
+              "Nehmen Sie ausreichend Wasser mit, man dehydriert auch bei Kälte.",
+              "Achten Sie auf die Lichtverhältnisse, es wird früh dunkel.",
+              "Ein Paar leichte Handschuhe schützt vor dem kalten Fahrtwind."
+            ],
+            "hu": [
+              "Viseljen szélálló ruházatot, főleg lejtmenetben.",
+              "A nap erős, télen is használjon naptejet.",
+              "Vigyen elég vizet, hidegben is felléphet a kiszáradás.",
+              "Figyeljen a fényviszonyokra, korán sötétedik.",
+              "Egy pár vékony kesztyű megvéd a hideg menetszéltől."
+            ],
+            "ro": [
+              "Purtați haine rezistente la vânt, mai ales la coborâre.",
+              "Soarele este puternic, folosiți protecție solară și iarna.",
+              "Luați destulă apă, deshidratarea apare și pe frig.",
+              "Atenție la lumină, se întunecă devreme.",
+              "O pereche de mănuși subțiri protejează de vântul rece."
+            ],
+            "en": [
+              "Wear windproof clothing, especially for downhill sections.",
+              "The sun is strong; use sunscreen even in winter.",
+              "Bring enough water, as dehydration occurs even in the cold.",
+              "Keep an eye on the time, as it gets dark early.",
+              "A pair of light gloves will protect against cold wind."
+            ]
+          }
+        }
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 14.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Nerja Höhlen",
+            "hu": "Nerjai barlangok",
+            "ro": "Peșterile din Nerja",
+            "en": "Nerja Caves"
+          },
+          "coords": [
+            -3.845,
+            36.762
+          ],
+          "category": "natural features",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Vorab reservieren ist Pflicht.",
+            "hu": "Előzetes foglalás kötelező.",
+            "ro": "Rezervarea prealabilă este obligatorie.",
+            "en": "Advance booking is mandatory."
+          }
+        },
+        {
+          "name": {
+            "de": "Adler-Aquädukt",
+            "hu": "Sas-akvadukt",
+            "ro": "Acueducto del Águila",
+            "en": "Eagle Aqueduct"
+          },
+          "coords": [
+            -3.848,
+            36.758
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "11:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Gute Parkmöglichkeit am Rand.",
+            "hu": "Jó parkolási lehetőség az út szélén.",
+            "ro": "Parcare bună pe marginea drumului.",
+            "en": "Good parking spot nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum von Nerja",
+            "hu": "Nerjai Múzeum",
+            "ro": "Muzeul din Nerja",
+            "en": "Nerja Museum"
+          },
+          "coords": [
+            -3.876,
+            36.7485
+          ],
+          "category": "museums",
+          "arrive_at": "11:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Parkhaus unter dem Platz nutzen.",
+            "hu": "Használja a tér alatti parkolót.",
+            "ro": "Parcați în parcarea subterană.",
+            "en": "Use the underground parking."
+          }
+        },
+        {
+          "name": {
+            "de": "Balcón de Europa",
+            "hu": "Európa erkélye",
+            "ro": "Balcón de Europa",
+            "en": "Balcony of Europe"
+          },
+          "coords": [
+            -3.8745,
+            36.7445
+          ],
+          "category": "natural features",
+          "arrive_at": "13:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Perfekt für das Panorama.",
+            "hu": "Tökéletes a panorámához.",
+            "ro": "Perfect pentru panoramă.",
+            "en": "Perfect for the panorama."
+          }
+        },
+        {
+          "name": {
+            "de": "Burriana Strand",
+            "hu": "Burriana strand",
+            "ro": "Plaja Burriana",
+            "en": "Burriana Beach"
+          },
+          "coords": [
+            -3.868,
+            36.747
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:25",
+          "stay_min": 140,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Bester Platz für Paella.",
+            "hu": "A legjobb hely egy paellához.",
+            "ro": "Cel mai bun loc pentru paella.",
+            "en": "Best place for paella."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Dank des Autos besuchen Sie morgens stressfrei die Höhlen von Nerja und das Adler-Aquädukt. Danach fahren Sie ins Zentrum zum Museum und zum Balcón de Europa. Mittags geht es hinunter zum Burriana-Strand, wo Sie ohne den steilen Rückweg ein ausgiebiges Essen genießen können. Eine Tour, die Naturwunder und die besten Aussichten der Costa del Sol verbindet.",
+        "hu": "Az autónak köszönhetően reggel stresszmentesen látogathatja meg a Nerjai barlangokat és a Sas-akvaduktot. Ezután irány a központ: a múzeum és az Európa erkélye. Délben guruljon le a Burriana strandra, ahol a meredek visszautat megúszva élvezheti a bőséges ebédet. Egy túra, amely egyesíti a természeti csodákat és a Costa del Sol legszebb kilátásait.",
+        "ro": "Datorită mașinii, vizitați fără stres peșterile din Nerja și Apeductul Vulturului dimineața. Apoi mergeți în centru pentru muzeu și Balcón de Europa. La prânz, coborâți la plaja Burriana, unde vă puteți bucura de o masă copioasă fără grija urcușului de întoarcere. Un tur care combină minunile naturii cu cele mai bune priveliști de pe Costa del Sol.",
+        "en": "Thanks to the car, you can visit the Nerja Caves and the Eagle Aqueduct stress-free in the morning. Then head to the center for the museum and the Balcony of Europe. At midday, drive down to Burriana Beach, where you can enjoy a hearty meal without worrying about the steep walk back. A tour combining natural wonders with the best views of the Costa del Sol."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Tortillitas de Camarones",
+            "tip": "Knusprige Garnelen-Tortillas."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tortillitas de Camarones",
+            "tip": "Ropogós garnélarákos lepénykék."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tortillitas de Camarones",
+            "tip": "Tortilla crocantă cu creveți."
+          }
+        ],
+        "en": [
+          {
+            "name": "Shrimp Tortillitas",
+            "tip": "Crispy shrimp fritters."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Maro Wasserfall",
+            "tip": "Nur per Boot oder Kajak erreichbar.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Maro vízesés",
+            "tip": "Csak hajóval vagy kajakkal elérhető.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cascada Maro",
+            "tip": "Accesibilă doar cu barca sau caiacul.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Maro Waterfall",
+            "tip": "Accessible only by boat or kayak.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lederwaren",
+            "tip": "Sandalen und Taschen aus lokalem Leder."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bőráruk",
+            "tip": "Helyi bőr szandálok és táskák."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Produse din piele",
+            "tip": "Sandale și genți din piele locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Leather Goods",
+            "tip": "Local leather sandals and bags."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parkplatz 'Carabeo' ist ideal für das Zentrum.",
+          "Die Straßen in der Altstadt sind für Autos gesperrt."
+        ],
+        "hu": [
+          "A 'Carabeo' parkoló ideális a központhoz.",
+          "Az óvárosi utcák le vannak zárva az autók elől."
+        ],
+        "ro": [
+          "Parcarea 'Carabeo' este ideală pentru centru.",
+          "Străzile din orașul vechi sunt pietonale."
+        ],
+        "en": [
+          "Parking 'Carabeo' is ideal for the center.",
+          "Old town streets are closed to private cars."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Dank des Autos besuchen Sie morgens stressfrei die Höhlen von Nerja und das Adler-Aquädukt. Danach fahren Sie ins Zentrum zum Museum und zum Balcón de Europa. Mittags geht es hinunter zum Burriana-Strand, wo Sie ohne den steilen Rückweg ein ausgiebiges Essen genießen können. Eine Tour, die Naturwunder und die besten Aussichten der Costa del Sol verbindet.",
+            "hu": "Az autónak köszönhetően reggel stresszmentesen látogathatja meg a Nerjai barlangokat és a Sas-akvaduktot. Ezután irány a központ: a múzeum és az Európa erkélye. Délben guruljon le a Burriana strandra, ahol a meredek visszautat megúszva élvezheti a bőséges ebédet. Egy túra, amely egyesíti a természeti csodákat és a Costa del Sol legszebb kilátásait.",
+            "ro": "Datorită mașinii, vizitați fără stres peșterile din Nerja și Apeductul Vulturului dimineața. Apoi mergeți în centru pentru muzeu și Balcón de Europa. La prânz, coborâți la plaja Burriana, unde vă puteți bucura de o masă copioasă fără grija urcușului de întoarcere. Un tur care combină minunile naturii cu cele mai bune priveliști de pe Costa del Sol.",
+            "en": "Thanks to the car, you can visit the Nerja Caves and the Eagle Aqueduct stress-free in the morning. Then head to the center for the museum and the Balcony of Europe. At midday, drive down to Burriana Beach, where you can enjoy a hearty meal without worrying about the steep walk back. A tour combining natural wonders with the best views of the Costa del Sol."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Nerja Höhlen",
+                "hu": "Nerjai barlangok",
+                "ro": "Peșterile din Nerja",
+                "en": "Nerja Caves"
+              },
+              "tip_5lang": {
+                "de": "Vorab reservieren ist Pflicht.",
+                "hu": "Előzetes foglalás kötelező.",
+                "ro": "Rezervarea prealabilă este obligatorie.",
+                "en": "Advance booking is mandatory."
+              }
+            },
+            {
+              "name": {
+                "de": "Adler-Aquädukt",
+                "hu": "Sas-akvadukt",
+                "ro": "Acueducto del Águila",
+                "en": "Eagle Aqueduct"
+              },
+              "tip_5lang": {
+                "de": "Gute Parkmöglichkeit am Rand.",
+                "hu": "Jó parkolási lehetőség az út szélén.",
+                "ro": "Parcare bună pe marginea drumului.",
+                "en": "Good parking spot nearby."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum von Nerja",
+                "hu": "Nerjai Múzeum",
+                "ro": "Muzeul din Nerja",
+                "en": "Nerja Museum"
+              },
+              "tip_5lang": {
+                "de": "Parkhaus unter dem Platz nutzen.",
+                "hu": "Használja a tér alatti parkolót.",
+                "ro": "Parcați în parcarea subterană.",
+                "en": "Use the underground parking."
+              }
+            },
+            {
+              "name": {
+                "de": "Balcón de Europa",
+                "hu": "Európa erkélye",
+                "ro": "Balcón de Europa",
+                "en": "Balcony of Europe"
+              },
+              "tip_5lang": {
+                "de": "Perfekt für das Panorama.",
+                "hu": "Tökéletes a panorámához.",
+                "ro": "Perfect pentru panoramă.",
+                "en": "Perfect for the panorama."
+              }
+            },
+            {
+              "name": {
+                "de": "Burriana Strand",
+                "hu": "Burriana strand",
+                "ro": "Plaja Burriana",
+                "en": "Burriana Beach"
+              },
+              "tip_5lang": {
+                "de": "Bester Platz für Paella.",
+                "hu": "A legjobb hely egy paellához.",
+                "ro": "Cel mai bun loc pentru paella.",
+                "en": "Best place for paella."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Tortillitas de Camarones",
+                "tip": "Knusprige Garnelen-Tortillas."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Tortillitas de Camarones",
+                "tip": "Ropogós garnélarákos lepénykék."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Tortillitas de Camarones",
+                "tip": "Tortilla crocantă cu creveți."
+              }
+            ],
+            "en": [
+              {
+                "name": "Shrimp Tortillitas",
+                "tip": "Crispy shrimp fritters."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Maro Wasserfall",
+                "tip": "Nur per Boot oder Kajak erreichbar.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Maro vízesés",
+                "tip": "Csak hajóval vagy kajakkal elérhető.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Cascada Maro",
+                "tip": "Accesibilă doar cu barca sau caiacul.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Maro Waterfall",
+                "tip": "Accessible only by boat or kayak.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Lederwaren",
+                "tip": "Sandalen und Taschen aus lokalem Leder."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Bőráruk",
+                "tip": "Helyi bőr szandálok és táskák."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Produse din piele",
+                "tip": "Sandale și genți din piele locală."
+              }
+            ],
+            "en": [
+              {
+                "name": "Leather Goods",
+                "tip": "Local leather sandals and bags."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Parkplatz 'Carabeo' ist ideal für das Zentrum.",
+              "Die Straßen in der Altstadt sind für Autos gesperrt."
+            ],
+            "hu": [
+              "A 'Carabeo' parkoló ideális a központhoz.",
+              "Az óvárosi utcák le vannak zárva az autók elől."
+            ],
+            "ro": [
+              "Parcarea 'Carabeo' este ideală pentru centru.",
+              "Străzile din orașul vechi sunt pietonale."
+            ],
+            "en": [
+              "Parking 'Carabeo' is ideal for the center.",
+              "Old town streets are closed to private cars."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein Regentag ist perfekt für eine Fahrt zu den Nerja-Höhlen, wo das Wetter draußen keine Rolle spielt. Mittags halten wir kurz am Aquädukt, bevor wir das trockene Nerja-Museum ansteuern. Der Balcón de Europa bietet vom Auto aus tolle Ausblicke auf die Brandung. Den Tag lassen wir entspannt in einem Restaurant am Burriana-Strand ausklingen.",
+            "hu": "Az esős nap tökéletes egy autóúthoz a Nerja-barlangokhoz, ahol az időjárás nem számít. Délben rövid megállót teszünk az akvaduktnál, majd a száraz Nerja Múzeum felé vesszük az irányt. Az Európa-erkély környékén az autóból is remek kilátás nyílik a hullámverésre. A napot kényelmesen zárjuk egy Burriana-parti étteremben.",
+            "ro": "O zi ploioasă este perfectă pentru o vizită la Peșterile Nerja, unde vremea nu contează. La prânz oprim scurt la apeduct, apoi mergem spre Muzeul Nerja. Balcón de Europa oferă vederi superbe spre valuri chiar și din mașină. Încheiem ziua relaxați într-un restaurant de pe plaja Burriana.",
+            "en": "A rainy day is perfect for a drive to the Nerja Caves, where the weather outside doesn't matter. At noon, we take a quick stop at the aqueduct before heading to the dry Nerja Museum. The Balcony of Europe area offers great views of the surf even from the car. End the day comfortably at a Burriana Beach restaurant."
+          },
+          "stops": [
+            {
+              "name": "Nerja Caves",
+              "tip_5lang": {
+                "de": "Großer Parkplatz, kurzer Weg ins Trockene.",
+                "hu": "Nagy parkoló, rövid út a fedett részig.",
+                "ro": "Parcare mare, drum scurt până la adăpost.",
+                "en": "Large parking area, short walk to stay dry."
+              }
+            },
+            {
+              "name": "Eagle Aqueduct",
+              "tip_5lang": {
+                "de": "Vom Parkplatz am Straßenrand gut sichtbar.",
+                "hu": "Az út menti parkolóból is jól látható.",
+                "ro": "Vizibil bine din parcarea de la marginea drumului.",
+                "en": "Clearly visible from the roadside parking spot."
+              }
+            },
+            {
+              "name": "Nerja Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Parkhaus in der Nähe.",
+                "hu": "Használja a közeli parkolóházat.",
+                "ro": "Folosiți parcarea subterană din apropiere.",
+                "en": "Use the nearby underground parking garage."
+              }
+            },
+            {
+              "name": "Balcony of Europe",
+              "tip_5lang": {
+                "de": "Zentraler Tiefgaragenplatz ist bei Regen ideal.",
+                "hu": "A központi mélygarázs esőben ideális.",
+                "ro": "Parcarea subterană centrală este ideală pe ploaie.",
+                "en": "Central underground parking is ideal during rain."
+              }
+            },
+            {
+              "name": "Burriana Beach",
+              "tip_5lang": {
+                "de": "Parken Sie direkt an der Promenade für kurze Wege.",
+                "hu": "Parkoljon közvetlenül a sétánynál a rövid útért.",
+                "ro": "Parcați direct pe faleză pentru distanțe scurte.",
+                "en": "Park right on the promenade for minimal walking."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie bei Starkregen tiefliegende Straßenabschnitte.",
+              "Prüfen Sie Ihre Scheibenwischer vor der Fahrt.",
+              "Die Parkhäuser in Nerja sind eng, fahren Sie vorsichtig.",
+              "Nutzen Sie die Klimaanlage gegen beschlagene Scheiben.",
+              "Planen Sie mehr Zeit für die Parkplatzsuche ein."
+            ],
+            "hu": [
+              "Heves esőzéskor kerülje az út mélyebben fekvő szakaszait.",
+              "Indulás előtt ellenőrizze az ablaktörlőket.",
+              "Nerja parkolóházai szűkek, vezessen óvatosan.",
+              "Használja a klímát a szélvédő párátlanításához.",
+              "Számoljon több idővel a parkolóhely-keresésnél."
+            ],
+            "ro": [
+              "Evitați porțiunile de drum joase în caz de ploi torențiale.",
+              "Verificați ștergătoarele înainte de a porni la drum.",
+              "Parcările din Nerja sunt strâmte, conduceți cu grijă.",
+              "Folosiți aerul condiționat pentru dezaburirea geamurilor.",
+              "Alocați mai mult timp pentru găsirea unui loc de parcare."
+            ],
+            "en": [
+              "Avoid low-lying road sections during heavy rainfall.",
+              "Check your windshield wipers before starting your trip.",
+              "Parking garages in Nerja are tight; drive carefully.",
+              "Use the air conditioning to defog the windows effectively.",
+              "Allow extra time for finding a parking spot."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein sonniger Wintertag beginnt entspannt mit der Fahrt zu den Höhlen. Mittags genießen wir die Fahrt entlang der Küste zum Aquädukt. Nachmittags parken wir zentral für einen Museumsbesuch und einen Spaziergang. Der Abend endet am Balcón de Europa, wo wir den Sonnenuntergang bequem erreichen, bevor es nach Einbruch der Dunkelheit kühler wird.",
+            "hu": "Egy napos téli nap kényelmesen indul a barlangok felé vezető úttal. Délben élvezzük a tengerparti autózást az akvaduktig. Délután központilag parkolunk a múzeumlátogatáshoz és egy sétához. A nap az Európa-erkélyen zárul, kényelmesen elérve a naplementét, mielőtt a sötétedéssel lehűlne az idő.",
+            "ro": "O zi însorită de iarnă începe relaxat cu drumul spre peșteri. La prânz ne bucurăm de condusul pe coastă până la apeduct. După-amiaza parcăm central pentru muzeu și o plimbare. Seara se încheie la Balcón de Europa, ajungând ușor la apus înainte să se facă frig după lăsarea întunericului.",
+            "en": "A sunny winter day starts relaxed with a drive to the caves. At noon, enjoy the coastal drive to the aqueduct. In the afternoon, park centrally for a museum visit and a stroll. The evening ends at the Balcony of Europe, reaching the sunset easily before it gets cooler after dark."
+          },
+          "stops": [
+            {
+              "name": "Nerja Caves",
+              "tip_5lang": {
+                "de": "Kein Problem mit Hitze im geparkten Auto.",
+                "hu": "Nincs gond a hőséggel a leparkolt autóban.",
+                "ro": "Fără probleme cu căldura în mașina parcată.",
+                "en": "No issues with heat in the parked car."
+              }
+            },
+            {
+              "name": "Eagle Aqueduct",
+              "tip_5lang": {
+                "de": "Hervorragende Sicht durch die klare Winterluft.",
+                "hu": "Kiváló kilátás a tiszta téli levegőnek köszönhetően.",
+                "ro": "Vizibilitate excelentă datorită aerului clar de iarnă.",
+                "en": "Excellent visibility thanks to the clear winter air."
+              }
+            },
+            {
+              "name": "Nerja Museum",
+              "tip_5lang": {
+                "de": "Zentrale Lage, kurze Wege zu den Cafés.",
+                "hu": "Központi helyszín, rövid út a kávézókig.",
+                "ro": "Locație centrală, distanțe scurte până la cafenele.",
+                "en": "Central location, short walk to nearby cafes."
+              }
+            },
+            {
+              "name": "Balcony of Europe",
+              "tip_5lang": {
+                "de": "Parkplatzsuche ist im Winter viel entspannter.",
+                "hu": "A parkolóhely-keresés télen sokkal nyugodtabb.",
+                "ro": "Găsirea parcării este mult mai relaxată iarna.",
+                "en": "Finding a parking spot is much easier in winter."
+              }
+            },
+            {
+              "name": "Burriana Beach",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf das Mittelmeer.",
+                "hu": "Élvezze a kilátást a Földközi-tengerre.",
+                "ro": "Bucurați-vă de vederea spre Marea Mediterană.",
+                "en": "Enjoy the stunning views of the Mediterranean."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Reifendruck bei niedrigeren Temperaturen.",
+              "Schattenparkplätze sind im Winter kein Muss.",
+              "Nutzen Sie das klare Licht für Landschaftsaufnahmen.",
+              "Vorsicht vor tiefstehender Sonne am Nachmittag.",
+              "In der Nebensaison sind Parkgebühren oft niedriger."
+            ],
+            "hu": [
+              "Ellenőrizze a guminyomást az alacsonyabb hőmérsékleten.",
+              "Télen nem muszáj árnyékos parkolót keresni.",
+              "Használja ki a tiszta fényeket tájképek készítéséhez.",
+              "Vigyázzon a délutáni alacsony napállás miatti vakításra.",
+              "A holtszezonban a parkolási díjak gyakran alacsonyabbak."
+            ],
+            "ro": [
+              "Verificați presiunea în pneuri la temperaturi scăzute.",
+              "Locurile de parcare la umbră nu sunt obligatorii iarna.",
+              "Folosiți lumina clară pentru poze de peisaj.",
+              "Atenție la soarele jos de după-amiază care poate orbi.",
+              "În extrasezon taxele de parcare sunt adesea mai mici."
+            ],
+            "en": [
+              "Check tire pressure as temperatures drop.",
+              "Shaded parking spots are not necessary in winter.",
+              "Take advantage of the clear light for landscape photos.",
+              "Watch out for the low afternoon sun while driving.",
+              "Parking fees are often lower during the off-season."
+            ]
+          }
+        }
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 10.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Nerja Höhlen",
+            "hu": "Nerjai barlangok",
+            "ro": "Peșterile din Nerja",
+            "en": "Nerja Caves"
+          },
+          "coords": [
+            -3.845,
+            36.762
+          ],
+          "category": "natural features",
+          "arrive_at": "09:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Der Blue Bus (Cueva) hält direkt.",
+            "hu": "A kék busz közvetlenül itt áll meg.",
+            "ro": "Autobuzul albastru oprește aici.",
+            "en": "The Blue Bus (Cueva) stops directly."
+          }
+        },
+        {
+          "name": {
+            "de": "Verano Azul Park",
+            "hu": "Verano Azul park",
+            "ro": "Parcul Verano Azul",
+            "en": "Verano Azul Park"
+          },
+          "coords": [
+            -3.882,
+            36.748
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Zentrale Haltestelle in Nerja.",
+            "hu": "Nerja központi megállója.",
+            "ro": "Stație centrală în Nerja.",
+            "en": "Central bus stop in Nerja."
+          }
+        },
+        {
+          "name": {
+            "de": "Balcón de Europa",
+            "hu": "Európa erkélye",
+            "ro": "Balcón de Europa",
+            "en": "Balcony of Europe"
+          },
+          "coords": [
+            -3.8745,
+            36.7445
+          ],
+          "category": "natural features",
+          "arrive_at": "12:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Nur 10 Min Fußweg vom Bus.",
+            "hu": "Csak 10 perc séta a busztól.",
+            "ro": "Doar 10 min de mers de la bus.",
+            "en": "Just a 10-min walk from the bus."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum von Nerja",
+            "hu": "Nerjai Múzeum",
+            "ro": "Muzeul din Nerja",
+            "en": "Nerja Museum"
+          },
+          "coords": [
+            -3.876,
+            36.7485
+          ],
+          "category": "museums",
+          "arrive_at": "14:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Direkt am Plaza de España.",
+            "hu": "Közvetlenül a Plaza de Españán.",
+            "ro": "Direct în Plaza de España.",
+            "en": "Right on Plaza de España."
+          }
+        },
+        {
+          "name": {
+            "de": "Burriana Strand",
+            "hu": "Burriana strand",
+            "ro": "Plaja Burriana",
+            "en": "Burriana Beach"
+          },
+          "coords": [
+            -3.868,
+            36.747
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:45",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Steiler Weg, Bus spart Kraft.",
+            "hu": "Meredek út, a busz erőt spórol.",
+            "ro": "Drum abrupt, busul economisește efort.",
+            "en": "Steep road, bus saves energy."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie den bequemen 'Cueva Bus', um morgens zuerst die Höhlen zu besichtigen. Zurück im Ort erkunden Sie den Verano Azul Park und spazieren zum Balcón de Europa. Nach dem Museumsbesuch am Nachmittag bringt Sie der lokale Bus hinunter zum Burriana-Strand. Ein entspannter Tag, der die wichtigsten Sehenswürdigkeiten verbindet, ohne dass Sie die steilen Hänge zu Fuß bewältigen müssen.",
+        "hu": "Használja a kényelmes 'Cueva Buszt', hogy reggel először a barlangokat lássa. Visszatérve a városba, fedezze fel a Verano Azul parkot, majd sétáljon el az Európa erkélyére. A délutáni múzeumlátogatás után a helyi busz leviszi Önt a Burriana strandra. Pihentető nap, amely összeköti a főbb látnivalókat anélkül, hogy a meredek lejtőkön gyalogolnia kellene.",
+        "ro": "Folosiți convenabilul 'Cueva Bus' pentru a vizita peșterile dimineața. Revenind în oraș, explorați parcul Verano Azul și plimbați-vă spre Balcón de Europa. După vizitarea muzeului, autobuzul local vă duce direct la plaja Burriana. O zi relaxantă care bifează obiectivele principale fără a fi nevoie să urcați pantele abrupte pe jos.",
+        "en": "Use the convenient 'Cueva Bus' to visit the caves first thing in the morning. Back in town, explore Verano Azul Park and walk to the Balcony of Europe. After the museum visit in the afternoon, the local bus takes you down to Burriana Beach. A relaxed day connecting the top sights without needing to tackle the steep slopes on foot."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Migas de Nerja",
+            "tip": "Traditionelles Hirtengericht."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Migas de Nerja",
+            "tip": "Hagyományos pásztorétel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Migas de Nerja",
+            "tip": "Mâncare tradițională de păstori."
+          }
+        ],
+        "en": [
+          {
+            "name": "Migas",
+            "tip": "Traditional fried breadcrumb dish."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Paseo Nuevo",
+            "tip": "Ruhigerer Platz hinter dem Museum.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Paseo Nuevo",
+            "tip": "Csendesebb tér a múzeum mögött.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Paseo Nuevo",
+            "tip": "Piață liniștită în spatele muzeului.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Paseo Nuevo",
+            "tip": "Quieter square behind the museum.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Süßwein aus Málaga",
+            "tip": "Ein Muss für Weinliebhaber."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Málagai édes bor",
+            "tip": "Kötelező a borbarátoknak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vin dulce de Málaga",
+            "tip": "O necesitate pentru iubitorii de vin."
+          }
+        ],
+        "en": [
+          {
+            "name": "Málaga Sweet Wine",
+            "tip": "A must-buy for wine lovers."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Der Busbahnhof liegt an der Hauptstraße.",
+          "Fahrpläne an den Haltestellen sind meist aktuell."
+        ],
+        "hu": [
+          "A buszpályaudvar a főúton található.",
+          "A megállókban lévő menetrendek általában pontosak."
+        ],
+        "ro": [
+          "Autogara se află pe drumul principal.",
+          "Orarele din stații sunt de obicei actualizate."
+        ],
+        "en": [
+          "The main bus station is on the main road.",
+          "Timetables at bus stops are usually accurate."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie den bequemen 'Cueva Bus', um morgens zuerst die Höhlen zu besichtigen. Zurück im Ort erkunden Sie den Verano Azul Park und spazieren zum Balcón de Europa. Nach dem Museumsbesuch am Nachmittag bringt Sie der lokale Bus hinunter zum Burriana-Strand. Ein entspannter Tag, der die wichtigsten Sehenswürdigkeiten verbindet, ohne dass Sie die steilen Hänge zu Fuß bewältigen müssen.",
+            "hu": "Használja a kényelmes 'Cueva Buszt', hogy reggel először a barlangokat lássa. Visszatérve a városba, fedezze fel a Verano Azul parkot, majd sétáljon el az Európa erkélyére. A délutáni múzeumlátogatás után a helyi busz leviszi Önt a Burriana strandra. Pihentető nap, amely összeköti a főbb látnivalókat anélkül, hogy a meredek lejtőkön gyalogolnia kellene.",
+            "ro": "Folosiți convenabilul 'Cueva Bus' pentru a vizita peșterile dimineața. Revenind în oraș, explorați parcul Verano Azul și plimbați-vă spre Balcón de Europa. După vizitarea muzeului, autobuzul local vă duce direct la plaja Burriana. O zi relaxantă care bifează obiectivele principale fără a fi nevoie să urcați pantele abrupte pe jos.",
+            "en": "Use the convenient 'Cueva Bus' to visit the caves first thing in the morning. Back in town, explore Verano Azul Park and walk to the Balcony of Europe. After the museum visit in the afternoon, the local bus takes you down to Burriana Beach. A relaxed day connecting the top sights without needing to tackle the steep slopes on foot."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Nerja Höhlen",
+                "hu": "Nerjai barlangok",
+                "ro": "Peșterile din Nerja",
+                "en": "Nerja Caves"
+              },
+              "tip_5lang": {
+                "de": "Der Blue Bus (Cueva) hält direkt.",
+                "hu": "A kék busz közvetlenül itt áll meg.",
+                "ro": "Autobuzul albastru oprește aici.",
+                "en": "The Blue Bus (Cueva) stops directly."
+              }
+            },
+            {
+              "name": {
+                "de": "Verano Azul Park",
+                "hu": "Verano Azul park",
+                "ro": "Parcul Verano Azul",
+                "en": "Verano Azul Park"
+              },
+              "tip_5lang": {
+                "de": "Zentrale Haltestelle in Nerja.",
+                "hu": "Nerja központi megállója.",
+                "ro": "Stație centrală în Nerja.",
+                "en": "Central bus stop in Nerja."
+              }
+            },
+            {
+              "name": {
+                "de": "Balcón de Europa",
+                "hu": "Európa erkélye",
+                "ro": "Balcón de Europa",
+                "en": "Balcony of Europe"
+              },
+              "tip_5lang": {
+                "de": "Nur 10 Min Fußweg vom Bus.",
+                "hu": "Csak 10 perc séta a busztól.",
+                "ro": "Doar 10 min de mers de la bus.",
+                "en": "Just a 10-min walk from the bus."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum von Nerja",
+                "hu": "Nerjai Múzeum",
+                "ro": "Muzeul din Nerja",
+                "en": "Nerja Museum"
+              },
+              "tip_5lang": {
+                "de": "Direkt am Plaza de España.",
+                "hu": "Közvetlenül a Plaza de Españán.",
+                "ro": "Direct în Plaza de España.",
+                "en": "Right on Plaza de España."
+              }
+            },
+            {
+              "name": {
+                "de": "Burriana Strand",
+                "hu": "Burriana strand",
+                "ro": "Plaja Burriana",
+                "en": "Burriana Beach"
+              },
+              "tip_5lang": {
+                "de": "Steiler Weg, Bus spart Kraft.",
+                "hu": "Meredek út, a busz erőt spórol.",
+                "ro": "Drum abrupt, busul economisește efort.",
+                "en": "Steep road, bus saves energy."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Migas de Nerja",
+                "tip": "Traditionelles Hirtengericht."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Migas de Nerja",
+                "tip": "Hagyományos pásztorétel."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Migas de Nerja",
+                "tip": "Mâncare tradițională de păstori."
+              }
+            ],
+            "en": [
+              {
+                "name": "Migas",
+                "tip": "Traditional fried breadcrumb dish."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Paseo Nuevo",
+                "tip": "Ruhigerer Platz hinter dem Museum.",
+                "emoji": "🍃"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Paseo Nuevo",
+                "tip": "Csendesebb tér a múzeum mögött.",
+                "emoji": "🍃"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Paseo Nuevo",
+                "tip": "Piață liniștită în spatele muzeului.",
+                "emoji": "🍃"
+              }
+            ],
+            "en": [
+              {
+                "name": "Paseo Nuevo",
+                "tip": "Quieter square behind the museum.",
+                "emoji": "🍃"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Süßwein aus Málaga",
+                "tip": "Ein Muss für Weinliebhaber."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Málagai édes bor",
+                "tip": "Kötelező a borbarátoknak."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Vin dulce de Málaga",
+                "tip": "O necesitate pentru iubitorii de vin."
+              }
+            ],
+            "en": [
+              {
+                "name": "Málaga Sweet Wine",
+                "tip": "A must-buy for wine lovers."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Der Busbahnhof liegt an der Hauptstraße.",
+              "Fahrpläne an den Haltestellen sind meist aktuell."
+            ],
+            "hu": [
+              "A buszpályaudvar a főúton található.",
+              "A megállókban lévő menetrendek általában pontosak."
+            ],
+            "ro": [
+              "Autogara se află pe drumul principal.",
+              "Orarele din stații sunt de obicei actualizate."
+            ],
+            "en": [
+              "The main bus station is on the main road.",
+              "Timetables at bus stops are usually accurate."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Bus erreichen wir bequem die Nerja-Höhlen, einen sicheren Ort vor dem Regen. Mittags bringt uns der Transit zurück in die Nähe des Verano Azul Parks. Den Nachmittag verbringen wir geschützt am Balcón de Europa oder im Nerja-Museum. Den Abend genießen wir in der Nähe der Bushaltestellen, um schnell und trocken zurückzukommen.",
+            "hu": "Busszal kényelmesen elérjük a Nerja-barlangokat, amely biztos menedék az eső elől. Délben a járat visszavisz minket a Verano Azul Park közelébe. A délutánt védetten töltjük az Európa-erkélynél vagy a múzeumban. Az estét a buszmegállók közelében élvezzük, hogy gyorsan és szárazon érjünk haza.",
+            "ro": "Cu autobuzul ajungem ușor la Peșterile Nerja, un loc sigur de ploaie. La prânz, transportul ne aduce înapoi lângă Parcul Verano Azul. După-amiaza o petrecem la adăpost la Balcón de Europa sau în muzeu. Seara stăm aproape de stațiile de autobuz pentru o întoarcere rapidă și uscată.",
+            "en": "By bus, we easily reach the Nerja Caves, a safe haven from the rain. At noon, the transit takes us back near Verano Azul Park. Spend the afternoon sheltered at the Balcony of Europe or in the Nerja Museum. Enjoy the evening near bus stops for a quick and dry return."
+          },
+          "stops": [
+            {
+              "name": "Nerja Caves",
+              "tip_5lang": {
+                "de": "Warten Sie im Kassenbereich auf den Bus.",
+                "hu": "Várja a buszt a pénztár melletti fedett részen.",
+                "ro": "Așteptați autobuzul în zona acoperită a casei de bilete.",
+                "en": "Wait for the bus in the sheltered ticket office area."
+              }
+            },
+            {
+              "name": "Verano Azul Park",
+              "tip_5lang": {
+                "de": "Haltestelle direkt am Parkeingang.",
+                "hu": "A buszmegálló közvetlenül a park bejáratánál van.",
+                "ro": "Stație de autobuz chiar la intrarea în parc.",
+                "en": "The bus stop is located right at the park entrance."
+              }
+            },
+            {
+              "name": "Balcony of Europe",
+              "tip_5lang": {
+                "de": "Zentraler Knotenpunkt, viele Cafés zum Warten.",
+                "hu": "Központi csomópont, sok kávézóval a várakozáshoz.",
+                "ro": "Nod central, multe cafenele pentru așteptare.",
+                "en": "Central hub with many cafes to wait in."
+              }
+            },
+            {
+              "name": "Nerja Museum",
+              "tip_5lang": {
+                "de": "Nur wenige Schritte von der Haltestelle entfernt.",
+                "hu": "Csak pár lépésre a buszmegállótól.",
+                "ro": "La doar câțiva pași de stația de autobuz.",
+                "en": "Only a few steps away from the bus stop."
+              }
+            },
+            {
+              "name": "Burriana Beach",
+              "tip_5lang": {
+                "de": "Steile Wege zur Haltestelle bei Nässe rutschig.",
+                "hu": "A megállóhoz vezető meredek út vizesen csúszós.",
+                "ro": "Drumul abrupt spre stație este alunecos pe ud.",
+                "en": "The steep path to the stop is slippery when wet."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die App für Echtzeit-Businformationen.",
+              "Halten Sie Kleingeld oder eine Fahrkarte bereit.",
+              "Bei Regen können Busse Verspätung haben.",
+              "Suchen Sie Haltestellen mit Überdachung.",
+              "Achten Sie auf Pfützen beim Ein- und Aussteigen."
+            ],
+            "hu": [
+              "Használja az applikációt a valós idejű buszinformációkhoz.",
+              "Készítsen elő aprópénzt vagy érvényes jegyet.",
+              "Esőben a buszok késhetnek a forgalom miatt.",
+              "Keressen fedett buszvárókat.",
+              "Vigyázzon a tócsákra le- és felszálláskor."
+            ],
+            "ro": [
+              "Folosiți aplicația pentru informații în timp real.",
+              "Aveți pregătit mărunt sau un bilet valabil.",
+              "Pe ploaie autobuzele pot avea întârzieri.",
+              "Căutați stații care au acoperiș.",
+              "Atenție la bălți când urcați sau coborâți."
+            ],
+            "en": [
+              "Use the mobile app for real-time bus information.",
+              "Have small change or a valid ticket ready.",
+              "Buses may experience delays during rainy weather.",
+              "Look for bus stops that offer overhead shelter.",
+              "Watch out for puddles when boarding or alighting."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Wintersonne begleitet uns im Bus zu den beeindruckenden Höhlen. Mittags kehren wir zum Verano Azul Park zurück, um die milde Luft zu genießen. Nachmittags ist die Fahrt zum Museum kurz und angenehm. Den Abend verbringen wir am Balcón de Europa, bevor wir den letzten Bus zurück nehmen, wenn es draußen kühler wird.",
+            "hu": "A téli napsütés kísér minket a buszon a lenyűgöző barlangokig. Délben visszatérünk a Verano Azul Parkba, hogy élvezzük a lágy levegőt. Délután a múzeumba vezető út rövid és kellemes. Az estét az Európa-erkélyen töltjük, majd az utolsó busszal indulunk haza, amint lehűl az idő.",
+            "ro": "Soarele de iarnă ne însoțește în autobuz spre peșterile impresionante. La prânz ne întoarcem la Parcul Verano Azul pentru a ne bucura de aerul blând. După-amiaza drumul spre muzeu este scurt și plăcut. Seara o petrecem la Balcón de Europa înainte de a lua ultimul autobuz spre casă.",
+            "en": "The winter sun accompanies us on the bus to the impressive caves. At noon, we return to Verano Azul Park to enjoy the mild air. In the afternoon, the trip to the museum is short and pleasant. Spend the evening at the Balcony of Europe before taking the last bus back as it gets cooler."
+          },
+          "stops": [
+            {
+              "name": "Nerja Caves",
+              "tip_5lang": {
+                "de": "Ideale Besuchszeit in der ruhigen Nebensaison.",
+                "hu": "Ideális látogatási idő a csendes holtszezonban.",
+                "ro": "Moment ideal pentru vizită în extrasezonul liniștit.",
+                "en": "Ideal time to visit during the quiet off-season."
+              }
+            },
+            {
+              "name": "Verano Azul Park",
+              "tip_5lang": {
+                "de": "Angenehme Wartezeiten in der Sonne.",
+                "hu": "Kellemes várakozási idő a napsütésben.",
+                "ro": "Timp de așteptare plăcut la soare.",
+                "en": "Pleasant waiting times in the winter sun."
+              }
+            },
+            {
+              "name": "Balcony of Europe",
+              "tip_5lang": {
+                "de": "Häufige Verbindungen auch im Winter.",
+                "hu": "Gyakori járatok télen is.",
+                "ro": "Conexiuni frecvente chiar și pe timpul iernii.",
+                "en": "Frequent bus connections even during winter."
+              }
+            },
+            {
+              "name": "Nerja Museum",
+              "tip_5lang": {
+                "de": "Bester Ausgangspunkt für den Transit im Zentrum.",
+                "hu": "A legjobb kiindulópont a központi közlekedéshez.",
+                "ro": "Cel mai bun punct de plecare pentru transportul central.",
+                "en": "Best starting point for transit in the center."
+              }
+            },
+            {
+              "name": "Burriana Beach",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Winterfahrplan der Strandbusse.",
+                "hu": "Ellenőrizze a strandbuszok téli menetrendjét.",
+                "ro": "Verificați orarul de iarnă al autobuzelor de plajă.",
+                "en": "Check the winter schedule for beach buses."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Einige Linien verkehren im Winter seltener.",
+              "Die Busse sind im Winter weniger überfüllt.",
+              "Nutzen Sie die Fahrt für einen Blick auf die Berge.",
+              "Planen Sie Ihre Rückfahrt vor Einbruch der Dunkelheit.",
+              "Die Temperatur im Bus kann deutlich höher sein als draußen."
+            ],
+            "hu": [
+              "Egyes vonalak télen ritkábban közlekednek.",
+              "A buszok télen kevésbé zsúfoltak.",
+              "Használja ki az utat a hegyekre nyíló kilátáshoz.",
+              "Tervezze meg a visszautat sötétedés előtt.",
+              "A buszban a hőmérséklet jóval magasabb lehet, mint kint."
+            ],
+            "ro": [
+              "Unele linii circulă mai rar pe timpul iernii.",
+              "Autobuzele sunt mai puțin aglomerate iarna.",
+              "Admirați munții în timpul călătoriei.",
+              "Planificați întoarcerea înainte de lăsarea întunericului.",
+              "Temperatura în autobuz poate fi mult mai mare decât afară."
+            ],
+            "en": [
+              "Some bus lines may run less frequently in winter.",
+              "Buses are generally less crowded during the winter months.",
+              "Enjoy the mountain views during your bus ride.",
+              "Plan your return trip before it gets dark.",
+              "The temperature inside the bus can be much higher than outside."
+            ]
+          }
+        }
+      }
+    }
+  },
+  "external_resources": {
+    "tourism_office": "https://www.nerja.es",
+    "transit_official": "https://www.alsa.com/",
+    "museum_tickets": "https://cuevadenerja.es/",
+    "events": "https://www.diariosur.es/",
+    "webcam": "https://www.skylinewebcams.com/",
+    "restaurants_booking": "https://www.tiqets.com/es",
+    "language_tips": {
+      "de": "Gesprochen wird Andalusisches Spanisch mit weichem 'c' und oft verschluckten Endsilben. In Nerja arbeiten viele Briten und Deutsche, daher kommt man mit Englisch in Restaurants und Hotels gut durch, ein freundliches 'Hola' und 'Gracias' wird trotzdem geschaetzt.",
+      "hu": "Az andalúz spanyolt beszélik, lágy 'c'-vel és gyakran lenyelt szóvégekkel. Nerjában rengeteg brit és német él, így angollal vagy akár pár szó németül is boldogulsz, de egy mosolygós 'Hola' és 'Gracias' itt is kinyitja az ajtókat.",
+      "ro": "Se vorbeste spaniola andaluza, cu 'c' moale si terminatii adesea inghitite. In Nerja sunt multi britanici si germani stabiliti, deci te descurci usor cu engleza in restaurante si hoteluri, dar un 'Hola' si 'Gracias' rostit cu zambet face minuni.",
+      "en": "Andalusian Spanish dominates, with a soft 'c' and dropped final syllables. Nerja has a big British and German expat scene, so English works fine in restaurants and shops, though a friendly 'Hola' and 'Gracias' always earns warmer service."
+    },
+    "best_time_to_visit": {
+      "de": "Mai bis Juni und September bis Oktober sind ideal: warm zum Baden, aber nicht ueberfuellt. Im Juli und August wird es heiss und die Strandpromenaden sind voll, im Winter ist es mild und die Tropfsteinhoehle bleibt das ganze Jahr offen.",
+      "hu": "Május-június és szeptember-október a legjobb: fürdésre meleg, de még nincs tömeg. Júliusban és augusztusban forróság és tele tengerpart, télen viszont enyhe az idő és a cseppkőbarlang egész évben látogatható.",
+      "ro": "Mai-iunie si septembrie-octombrie sunt perfecte: cald pentru plaja, dar fara aglomeratie. Iulie si august aduc canicula si plaje pline, iarna e blanda iar pestera cu stalactite e deschisa tot anul.",
+      "en": "May to June and September to October hit the sweet spot: warm enough to swim, never crowded. July and August bring intense heat and packed beaches, winter stays mild and the famous cave is open year-round."
+    },
+    "neighborhood_warnings": {
+      "de": "Nerja gilt als sehr sicher, das Altstadtzentrum und der Balcon de Europa sind tags und abends entspannt. Achten Sie an den Straenden Burriana und Calahonda im Hochsommer auf Wertsachen, parken Sie nicht unbeaufsichtigt mit sichtbarem Gepaeck im Auto.",
+      "hu": "Nerja kifejezetten biztonságos, az óváros és a Balcon de Europa nappal-este is nyugodt. A Burriana és Calahonda strandokon a főszezonban figyelj az értékekre, kocsiban pedig soha ne hagyj látható csomagot a parkolóban.",
+      "ro": "Nerja e foarte sigura, centrul vechi si Balconul Europei sunt linistite zi si seara. La plajele Burriana si Calahonda ai grija la lucruri in plin sezon, iar in masina nu lasa niciodata bagaje vizibile in parcare.",
+      "en": "Nerja is very safe, the old town and Balcon de Europa stay relaxed day and night. Watch your valuables at busy Burriana and Calahonda beaches in peak season, and never leave bags visible in a parked car."
+    }
+  }
+}

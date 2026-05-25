@@ -1,0 +1,2621 @@
+{
+  "city_id": "estepona",
+  "anchor": {
+    "name": "Estepona",
+    "coords": [
+      -5.1453,
+      36.4256
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "18:45",
+      "total_km": 4.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Plaza de las Flores",
+            "hu": "Plaza de las Flores",
+            "ro": "Plaza de las Flores",
+            "en": "Plaza de las Flores"
+          },
+          "coords": [
+            -5.1471,
+            36.4252
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Frühstücken Sie hier inmitten der Orangenbäume.",
+            "hu": "Reggelizzen itt a narancsfák árnyékában.",
+            "ro": "Luați micul dejun aici, printre portocali.",
+            "en": "Have breakfast here among the orange trees."
+          }
+        },
+        {
+          "name": {
+            "de": "Orquidario de Estepona",
+            "hu": "Estepona Orchideaház",
+            "ro": "Orquidario de Estepona",
+            "en": "Estepona Orchidarium"
+          },
+          "coords": [
+            -5.1442,
+            36.4285
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:05",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie den Wasserfall im Inneren des Glasdoms.",
+            "hu": "Nézze meg az üvegkupola alatti belső vízesést.",
+            "ro": "Vizitați cascada din interiorul domului de sticlă.",
+            "en": "Check out the waterfall inside the glass dome."
+          }
+        },
+        {
+          "name": {
+            "de": "Murales de Estepona",
+            "hu": "Estepona falfestményei",
+            "ro": "Murales de Estepona",
+            "en": "Estepona Murals"
+          },
+          "coords": [
+            -5.1485,
+            36.4265
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "11:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Suchen Sie das riesige 6-stöckige Mural 'Dia de Pesca'.",
+            "hu": "Keresse meg az óriási, 6 emeletes 'Halásznap' festményt.",
+            "ro": "Căutați pictura murală uriașă de 6 etaje 'Dia de Pesca'.",
+            "en": "Look for the giant 6-story mural 'Dia de Pesca'."
+          }
+        },
+        {
+          "name": {
+            "de": "Castillo de San Luis",
+            "hu": "San Luis várrom",
+            "ro": "Castillo de San Luis",
+            "en": "San Luis Castle"
+          },
+          "coords": [
+            -5.1465,
+            36.4245
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Die Ruinen befinden sich direkt hinter dem Markt.",
+            "hu": "A romok közvetlenül a piac mögött találhatók.",
+            "ro": "Ruinele sunt situate chiar în spatele pieței.",
+            "en": "The ruins are located right behind the market."
+          }
+        },
+        {
+          "name": {
+            "de": "Iglesia de los Remedios",
+            "hu": "Remedios-templom",
+            "ro": "Iglesia de los Remedios",
+            "en": "Remedios Church"
+          },
+          "coords": [
+            -5.1458,
+            36.4241
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:30",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Achten Sie auf die barocke Fassade aus dem 18. Jhd.",
+            "hu": "Figyelje meg a 18. századi barokk homlokzatot.",
+            "ro": "Admirați fațada barocă din secolul al XVIII-lea.",
+            "en": "Notice the 18th-century Baroque facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Paseo Marítimo",
+            "hu": "Tengerparti sétány",
+            "ro": "Paseo Marítimo",
+            "en": "Paseo Marítimo"
+          },
+          "coords": [
+            -5.145,
+            36.423
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:30",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Genießen Sie ein Eis mit Blick auf das Meer.",
+            "hu": "Fogyasszon el egy fagyit a tengerre néző kilátással.",
+            "ro": "Savurați o înghețată cu vedere la mare.",
+            "en": "Enjoy an ice cream with a view of the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Faro de Punta Doncella",
+            "hu": "Punta Doncella világítótorony",
+            "ro": "Faro de Punta Doncella",
+            "en": "Punta Doncella Lighthouse"
+          },
+          "coords": [
+            -5.1585,
+            36.4165
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "17:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Perfekter Ort für Fotos bei Sonnenuntergang.",
+            "hu": "Tökéletes helyszín naplementés fotókhoz.",
+            "ro": "Locul perfect pentru fotografii la apus.",
+            "en": "Perfect spot for sunset photos."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im blumengeschmückten Herzen der Altstadt an der Plaza de las Flores. Nach einem aromatischen Kaffee erkunden Sie das moderne Orchideenhaus mit seiner beeindruckenden Architektur. Mittags spazieren Sie entlang der faszinierenden Murales-Route, wo riesige Kunstwerke die Hauswände zieren. Den Nachmittag verbringen Sie entspannt am Paseo Marítimo und lassen den Tag am historischen Leuchtturm mit Blick auf den Felsen von Gibraltar ausklingen.",
+        "hu": "Kezdje a napot az óváros virágos szívében, a Plaza de las Flores téren. Egy aromás kávé után fedezze fel a modern Orchideaházat és annak lenyűgöző építészetét. Délben sétáljon végig a falfestmények útvonalán, ahol hatalmas műalkotások díszítik a házfalakat. A délutánt töltse lazítással a tengerparti sétányon, a napot pedig a történelmi világítótoronynál zárja, ahonnan ellátni egészen Gibraltárig.",
+        "ro": "Începeți ziua în inima înflorită a orașului vechi, în Plaza de las Flores. După o cafea aromată, explorați modernul Orquidario cu arhitectura sa impresionantă. La prânz, plimbați-vă de-a lungul rutei picturilor murale, unde opere de artă uriașe decorează pereții caselor. Petreceți după-amiaza relaxându-vă pe Paseo Marítimo și încheiați ziua la farul istoric, cu vedere spre Stânca Gibraltar.",
+        "en": "Start your day in the flower-filled heart of the old town at Plaza de las Flores. After an aromatic coffee, explore the modern Orchidarium with its impressive architecture. At midday, stroll along the mural route where giant artworks decorate the building walls. Spend the afternoon relaxing on the Paseo Marítimo and end the day at the historical lighthouse with views stretching to the Rock of Gibraltar."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Espetos de Sardinas",
+            "tip": "Probieren Sie gegrillte Sardinen am Strand im Chiringuito El Madero."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Espetos de Sardinas",
+            "tip": "Kóstolja meg a grillezett szardíniát a tengerparton a Chiringuito El Madero-ban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Espetos de Sardinas",
+            "tip": "Gustați sardinele la grătar pe plajă la Chiringuito El Madero."
+          }
+        ],
+        "en": [
+          {
+            "name": "Espetos de Sardinas",
+            "tip": "Try grilled sardines on the beach at Chiringuito El Madero."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Plazoleta Ortiz",
+            "tip": "Ein ruhiger Platz abseits der Massen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Plazoleta Ortiz",
+            "tip": "Egy csendes tér távol a tömegtől.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plazoleta Ortiz",
+            "tip": "O piațetă liniștită departe de aglomerație.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Plazoleta Ortiz",
+            "tip": "A quiet square away from the crowds.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Calle Real",
+            "tip": "Haupteinkaufsstraße mit lokalen Boutiquen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Calle Real",
+            "tip": "Fő bevásárlóutca helyi butikokkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Calle Real",
+            "tip": "Strada comercială principală cu buticuri locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Calle Real",
+            "tip": "Main shopping street with local boutiques."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Estepona ist die Stadt der Blumen; achten Sie auf die farbigen Töpfe.",
+          "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster.",
+          "Die Stadt ist sehr fußgängerfreundlich."
+        ],
+        "hu": [
+          "Estepona a virágok városa; figyelje a színes kaspókat az utcákon.",
+          "Viseljen kényelmes cipőt a macskaköves utcákhoz.",
+          "A városközpont rendkívül gyalogosbarát."
+        ],
+        "ro": [
+          "Estepona este orașul florilor; observați ghivecele colorate de pe străzi.",
+          "Purtați încălțăminte comodă pentru străzile pietruite.",
+          "Centrul orașului este foarte prietenos cu pietonii."
+        ],
+        "en": [
+          "Estepona is the city of flowers; look for the colorful pots on the walls.",
+          "Wear comfortable shoes for the cobblestone streets.",
+          "The city center is very pedestrian-friendly."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag im blumengeschmückten Herzen der Altstadt an der Plaza de las Flores. Nach einem aromatischen Kaffee erkunden Sie das moderne Orchideenhaus mit seiner beeindruckenden Architektur. Mittags spazieren Sie entlang der faszinierenden Murales-Route, wo riesige Kunstwerke die Hauswände zieren. Den Nachmittag verbringen Sie entspannt am Paseo Marítimo und lassen den Tag am historischen Leuchtturm mit Blick auf den Felsen von Gibraltar ausklingen.",
+            "hu": "Kezdje a napot az óváros virágos szívében, a Plaza de las Flores téren. Egy aromás kávé után fedezze fel a modern Orchideaházat és annak lenyűgöző építészetét. Délben sétáljon végig a falfestmények útvonalán, ahol hatalmas műalkotások díszítik a házfalakat. A délutánt töltse lazítással a tengerparti sétányon, a napot pedig a történelmi világítótoronynál zárja, ahonnan ellátni egészen Gibraltárig.",
+            "ro": "Începeți ziua în inima înflorită a orașului vechi, în Plaza de las Flores. După o cafea aromată, explorați modernul Orquidario cu arhitectura sa impresionantă. La prânz, plimbați-vă de-a lungul rutei picturilor murale, unde opere de artă uriașe decorează pereții caselor. Petreceți după-amiaza relaxându-vă pe Paseo Marítimo și încheiați ziua la farul istoric, cu vedere spre Stânca Gibraltar.",
+            "en": "Start your day in the flower-filled heart of the old town at Plaza de las Flores. After an aromatic coffee, explore the modern Orchidarium with its impressive architecture. At midday, stroll along the mural route where giant artworks decorate the building walls. Spend the afternoon relaxing on the Paseo Marítimo and end the day at the historical lighthouse with views stretching to the Rock of Gibraltar."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Plaza de las Flores",
+                "hu": "Plaza de las Flores",
+                "ro": "Plaza de las Flores",
+                "en": "Plaza de las Flores"
+              },
+              "tip_5lang": {
+                "de": "Frühstücken Sie hier inmitten der Orangenbäume.",
+                "hu": "Reggelizzen itt a narancsfák árnyékában.",
+                "ro": "Luați micul dejun aici, printre portocali.",
+                "en": "Have breakfast here among the orange trees."
+              }
+            },
+            {
+              "name": {
+                "de": "Orquidario de Estepona",
+                "hu": "Estepona Orchideaház",
+                "ro": "Orquidario de Estepona",
+                "en": "Estepona Orchidarium"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie den Wasserfall im Inneren des Glasdoms.",
+                "hu": "Nézze meg az üvegkupola alatti belső vízesést.",
+                "ro": "Vizitați cascada din interiorul domului de sticlă.",
+                "en": "Check out the waterfall inside the glass dome."
+              }
+            },
+            {
+              "name": {
+                "de": "Murales de Estepona",
+                "hu": "Estepona falfestményei",
+                "ro": "Murales de Estepona",
+                "en": "Estepona Murals"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie das riesige 6-stöckige Mural 'Dia de Pesca'.",
+                "hu": "Keresse meg az óriási, 6 emeletes 'Halásznap' festményt.",
+                "ro": "Căutați pictura murală uriașă de 6 etaje 'Dia de Pesca'.",
+                "en": "Look for the giant 6-story mural 'Dia de Pesca'."
+              }
+            },
+            {
+              "name": {
+                "de": "Castillo de San Luis",
+                "hu": "San Luis várrom",
+                "ro": "Castillo de San Luis",
+                "en": "San Luis Castle"
+              },
+              "tip_5lang": {
+                "de": "Die Ruinen befinden sich direkt hinter dem Markt.",
+                "hu": "A romok közvetlenül a piac mögött találhatók.",
+                "ro": "Ruinele sunt situate chiar în spatele pieței.",
+                "en": "The ruins are located right behind the market."
+              }
+            },
+            {
+              "name": {
+                "de": "Iglesia de los Remedios",
+                "hu": "Remedios-templom",
+                "ro": "Iglesia de los Remedios",
+                "en": "Remedios Church"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf die barocke Fassade aus dem 18. Jhd.",
+                "hu": "Figyelje meg a 18. századi barokk homlokzatot.",
+                "ro": "Admirați fațada barocă din secolul al XVIII-lea.",
+                "en": "Notice the 18th-century Baroque facade."
+              }
+            },
+            {
+              "name": {
+                "de": "Paseo Marítimo",
+                "hu": "Tengerparti sétány",
+                "ro": "Paseo Marítimo",
+                "en": "Paseo Marítimo"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie ein Eis mit Blick auf das Meer.",
+                "hu": "Fogyasszon el egy fagyit a tengerre néző kilátással.",
+                "ro": "Savurați o înghețată cu vedere la mare.",
+                "en": "Enjoy an ice cream with a view of the sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Faro de Punta Doncella",
+                "hu": "Punta Doncella világítótorony",
+                "ro": "Faro de Punta Doncella",
+                "en": "Punta Doncella Lighthouse"
+              },
+              "tip_5lang": {
+                "de": "Perfekter Ort für Fotos bei Sonnenuntergang.",
+                "hu": "Tökéletes helyszín naplementés fotókhoz.",
+                "ro": "Locul perfect pentru fotografii la apus.",
+                "en": "Perfect spot for sunset photos."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Espetos de Sardinas",
+                "tip": "Probieren Sie gegrillte Sardinen am Strand im Chiringuito El Madero."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Espetos de Sardinas",
+                "tip": "Kóstolja meg a grillezett szardíniát a tengerparton a Chiringuito El Madero-ban."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Espetos de Sardinas",
+                "tip": "Gustați sardinele la grătar pe plajă la Chiringuito El Madero."
+              }
+            ],
+            "en": [
+              {
+                "name": "Espetos de Sardinas",
+                "tip": "Try grilled sardines on the beach at Chiringuito El Madero."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Plazoleta Ortiz",
+                "tip": "Ein ruhiger Platz abseits der Massen.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Plazoleta Ortiz",
+                "tip": "Egy csendes tér távol a tömegtől.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Plazoleta Ortiz",
+                "tip": "O piațetă liniștită departe de aglomerație.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Plazoleta Ortiz",
+                "tip": "A quiet square away from the crowds.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Calle Real",
+                "tip": "Haupteinkaufsstraße mit lokalen Boutiquen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Calle Real",
+                "tip": "Fő bevásárlóutca helyi butikokkal."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Calle Real",
+                "tip": "Strada comercială principală cu buticuri locale."
+              }
+            ],
+            "en": [
+              {
+                "name": "Calle Real",
+                "tip": "Main shopping street with local boutiques."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Estepona ist die Stadt der Blumen; achten Sie auf die farbigen Töpfe.",
+              "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster.",
+              "Die Stadt ist sehr fußgängerfreundlich."
+            ],
+            "hu": [
+              "Estepona a virágok városa; figyelje a színes kaspókat az utcákon.",
+              "Viseljen kényelmes cipőt a macskaköves utcákhoz.",
+              "A városközpont rendkívül gyalogosbarát."
+            ],
+            "ro": [
+              "Estepona este orașul florilor; observați ghivecele colorate de pe străzi.",
+              "Purtați încălțăminte comodă pentru străzile pietruite.",
+              "Centrul orașului este foarte prietenos cu pietonii."
+            ],
+            "en": [
+              "Estepona is the city of flowers; look for the colorful pots on the walls.",
+              "Wear comfortable shoes for the cobblestone streets.",
+              "The city center is very pedestrian-friendly."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens genießen wir den Regen unter den Markisen der Plaza de las Flores bei einem Kaffee. Vormittags bietet das Orchidarium ein perfektes trockenes Refugium in tropischer Pracht. Mittags besichtigen wir die Murals und die Kirche im Schutz des Schirms. Der Nachmittag am Paseo Marítimo zeigt die raue Schönheit des Meeres, bevor wir den Tag am Leuchtturm im grauen, aber mystischen Licht beenden.",
+            "hu": "Reggel az esőáztatta Plaza de las Flores árkádjai alatt kávézunk. Délelőtt az Orchidarium üvegkupolája tökéletes menedéket nyújt a trópusi növények közt. Délután esernyővel keressük fel a muráliákat és a templom nyugalmát. A Paseo Marítimo ilyenkor vadregényes a hullámzó tengerrel, a napot pedig a világítótorony misztikus, párás fényeiben zárjuk a szürke égbolt alatt.",
+            "ro": "Dimineața savurăm o cafea sub arcadele din Plaza de las Flores, ascultând ploaia. Orchidarium este refugiul perfect la amiază, oferind un decor tropical uscat. După-amiaza explorăm picturile murale și biserica cu umbrela la îndemână. Faleza Paseo Marítimo oferă un spectacol dramatic al mării învolburate, iar farul Punta Doncella încheie ziua într-o atmosferă melancolică și mistică.",
+            "en": "Morning starts with coffee under the awnings of Plaza de las Flores. The Orchidarium provides a perfect dry sanctuary among tropical flora during the midday rain. Afternoon involves a damp but artistic walk past the murals and into the quiet church. The Paseo Marítimo offers a dramatic view of the grey sea, ending at the lighthouse where the mist creates a unique, moody atmosphere."
+          },
+          "stops": [
+            {
+              "name": "Plaza de las Flores",
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter den Café-Markisen.",
+                "hu": "Keressen menedéket a kávézók napellenzői alatt.",
+                "ro": "Căutați adăpost sub copertinele cafenelelor.",
+                "en": "Seek shelter under the cafe awnings for a dry view."
+              }
+            },
+            {
+              "name": "Estepona Orchidarium",
+              "tip_5lang": {
+                "de": "Ideal für Regentage, da komplett überdacht.",
+                "hu": "Ideális esős napra, mivel teljesen fedett.",
+                "ro": "Ideal pentru zile ploioase, fiind complet acoperit.",
+                "en": "Perfect for rainy days as it's completely indoor."
+              }
+            },
+            {
+              "name": "Estepona Murals",
+              "tip_5lang": {
+                "de": "Bunte Kunst trotzt dem grauen Wetter.",
+                "hu": "Színes falfestmények a szürke idő ellenére.",
+                "ro": "Arta colorată sfidează vremea gri de afară.",
+                "en": "Colorful art brightens up the grey, rainy weather."
+              }
+            },
+            {
+              "name": "San Luis Castle",
+              "tip_5lang": {
+                "de": "Die Mauern bieten wenig Schutz vor Regen.",
+                "hu": "A falak kevés védelmet nyújtanak az eső ellen.",
+                "ro": "Zidurile oferă puțin adăpost împotriva ploii.",
+                "en": "The ruins offer little protection from the rain."
+              }
+            },
+            {
+              "name": "Remedios Church",
+              "tip_5lang": {
+                "de": "Ein ruhiger, trockener Ort zum Innehalten.",
+                "hu": "Csendes, száraz hely egy kis pihenésre.",
+                "ro": "Un loc liniștit și uscat pentru reculegere.",
+                "en": "A peaceful and dry spot to take a break from rain."
+              }
+            },
+            {
+              "name": "Paseo Marítimo",
+              "tip_5lang": {
+                "de": "Vorsicht, die Fliesen können glatt sein.",
+                "hu": "Vigyázat, a kövezet csúszós lehet esőben.",
+                "ro": "Atenție, pavajul poate fi alunecos pe ploaie.",
+                "en": "Be careful, the tiles can be slippery when wet."
+              }
+            },
+            {
+              "name": "Punta Doncella Lighthouse",
+              "tip_5lang": {
+                "de": "Windfeste Kleidung ist hier am Meer wichtig.",
+                "hu": "Szélálló ruházat fontos itt a tengerparton.",
+                "ro": "Hainele rezistente la vânt sunt esențiale aici.",
+                "en": "Windproof clothing is essential here by the sea."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Schuhe mit gutem Grip, da die Altstadtpflaster glatt werden.",
+              "Das Orchidarium ist das beste Regen-Highlight der Stadt.",
+              "Nutzen Sie die vielen Cafés in der Altstadt als Zwischenstopps.",
+              "Die Meeresbrise am Paseo kann bei Regen sehr kühl sein.",
+              "Ein stabiler Schirm ist wegen des Windes besser als ein Knirps."
+            ],
+            "hu": [
+              "Viseljen jó tapadású cipőt, az óváros kövei csúszóssá válnak.",
+              "Az Orchidarium a legjobb esőbiztos látnivaló a városban.",
+              "Használja ki az óváros kávézóit pihenőhelyként az eső elől.",
+              "A tengeri szél a sétányon esőben metsző lehet.",
+              "A szél miatt egy stabilabb esernyő jobb, mint az összecsukható."
+            ],
+            "ro": [
+              "Purtați încălțăminte cu aderență, pavajul vechi devine alunecos.",
+              "Orchidarium este cea mai bună atracție indoor din oraș.",
+              "Folosiți numeroasele cafenele din centrul vechi ca refugii.",
+              "Briza mării pe faleză poate fi foarte rece în timpul ploii.",
+              "O umbrelă rezistentă este de preferat din cauza vântului."
+            ],
+            "en": [
+              "Wear shoes with good grip; old town tiles get slippery.",
+              "The Orchidarium is the best indoor highlight in town.",
+              "Utilize the many cafes in the old town as rain shelters.",
+              "Sea breezes on the promenade can be biting during rain.",
+              "A sturdy umbrella is better than a small one due to wind."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter beginnt der Morgen mild in der Sonne auf der Plaza de las Flores. Das Orchidarium bietet eine angenehme Wärme zwischen exotischen Pflanzen. Mittags erkunden wir die Murals bei klarem Licht und besuchen die historische Kirche. Der Paseo Marítimo lädt zum sonnigen Spaziergang ein, bevor wir den frühen, spektakulären Sonnenuntergang am Leuchtturm genießen, wenn es spürbar kühler wird.",
+            "hu": "Télen a reggel lágy napsütésben indul a Plaza de las Floresen. Az Orchidarium kellemes meleget áraszt az egzotikus növények között. Délben a muráliákat és a templomot látogatjuk meg a tiszta téli fényekben. A Paseo Marítimo hívogat egy napsütéses sétára, majd a korai, látványos naplementét a világítótoronynál csodáljuk meg, mielőtt hirtelen lehűlne a levegő.",
+            "ro": "Iarna, dimineața începe blând sub soarele din Plaza de las Flores. Orchidarium oferă o căldură plăcută printre plantele exotice. La prânz explorăm picturile murale și biserica în lumina clară a iernii. Faleza Paseo Marítimo este ideală pentru o plimbare însorită, terminând ziua cu un apus spectaculos la far, înainte ca aerul să devină brusc rece.",
+            "en": "In winter, the morning starts mildly under the sun at Plaza de las Flores. The Orchidarium provides pleasant warmth among exotic flora. Midday is perfect for seeing murals in clear light and visiting the church. The Paseo Marítimo invites a sunny stroll, ending with an early, spectacular sunset at the lighthouse just as the evening chill sets in."
+          },
+          "stops": [
+            {
+              "name": "Plaza de las Flores",
+              "tip_5lang": {
+                "de": "Sonnige Plätze sind am Morgen am begehrtesten.",
+                "hu": "A napos asztalok a legnépszerűbbek reggel.",
+                "ro": "Mesele la soare sunt cele mai căutate dimineața.",
+                "en": "Sunny spots are the most coveted in the morning."
+              }
+            },
+            {
+              "name": "Estepona Orchidarium",
+              "tip_5lang": {
+                "de": "Die feuchte Wärme ist im Winter sehr angenehm.",
+                "hu": "A párás meleg télen kifejezetten kellemes.",
+                "ro": "Căldura umedă este foarte plăcută în timpul iernii.",
+                "en": "The humid warmth is very pleasant during winter."
+              }
+            },
+            {
+              "name": "Estepona Murals",
+              "tip_5lang": {
+                "de": "Klares Winterlicht ist ideal zum Fotografieren.",
+                "hu": "A tiszta téli fény ideális a fotózáshoz.",
+                "ro": "Lumina clară de iarnă este ideală pentru poze.",
+                "en": "Clear winter light is perfect for photography."
+              }
+            },
+            {
+              "name": "San Luis Castle",
+              "tip_5lang": {
+                "de": "In der Sonne ist es hier angenehm mild.",
+                "hu": "A napon itt kellemesen enyhe az idő.",
+                "ro": "La soare, aici este plăcut de cald.",
+                "en": "It's pleasantly mild here when the sun is out."
+              }
+            },
+            {
+              "name": "Remedios Church",
+              "tip_5lang": {
+                "de": "In der Kirche kann es kühl sein, Schal einplanen.",
+                "hu": "A templom hűvös lehet, érdemes sálat vinni.",
+                "ro": "Poate fi răcoare în biserică, purtați un fular.",
+                "en": "The church can be chilly; keep your scarf on."
+              }
+            },
+            {
+              "name": "Paseo Marítimo",
+              "tip_5lang": {
+                "de": "Perfekte Zeit für lange Spaziergänge ohne Hitze.",
+                "hu": "Tökéletes idő hosszú sétákhoz hőség nélkül.",
+                "ro": "Moment ideal pentru plimbări lungi fără caniculă.",
+                "en": "Perfect time for long walks without the summer heat."
+              }
+            },
+            {
+              "name": "Punta Doncella Lighthouse",
+              "tip_5lang": {
+                "de": "Sonnenuntergang findet im Winter gegen 18 Uhr statt.",
+                "hu": "A naplemente télen 18 óra körül van.",
+                "ro": "Apusul are loc în jur de ora 18:00 iarna.",
+                "en": "Sunset occurs around 6 PM during the winter months."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Zwiebelprinzip bei Kleidung: Sonne wärmt, Schatten ist kühl.",
+              "Genießen Sie die Ruhe, es sind deutlich weniger Touristen da.",
+              "Die UV-Strahlung ist auch im Winter in Andalusien stark.",
+              "Ab 17:30 Uhr kühlt es am Meer spürbar ab.",
+              "Viele Cafés bieten im Winter Heizstrahler im Außenbereich."
+            ],
+            "hu": [
+              "Öltözködjön rétegesen: a napon meleg, árnyékban hűvös van.",
+              "Élvezze a nyugalmat, ilyenkor jóval kevesebb a turista.",
+              "Az UV-sugárzás Andalúziában télen is erős lehet.",
+              "Délután fél 6 után a tengerparton hirtelen lehűl az idő.",
+              "Sok kávézó teraszán van kültéri fűtőtest télen is."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi: e cald la soare, rece la umbră.",
+              "Bucurați-vă de liniște, sunt mult mai puțini turiști.",
+              "Radiațiile UV sunt puternice în Andaluzia chiar și iarna.",
+              "După ora 17:30, temperatura scade brusc lângă mare.",
+              "Multe cafenele au încălzitoare pe terase iarna."
+            ],
+            "en": [
+              "Dress in layers: warm in the sun, chilly in the shade.",
+              "Enjoy the peace as there are fewer tourists around.",
+              "UV radiation is still strong in Andalusia during winter.",
+              "Temperature drops significantly by the sea after 5:30 PM.",
+              "Many cafes offer outdoor heaters during winter months."
+            ]
+          }
+        }
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Paseo Marítimo",
+            "hu": "Tengerparti sétány",
+            "ro": "Paseo Marítimo",
+            "en": "Paseo Marítimo"
+          },
+          "coords": [
+            -5.145,
+            36.423
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Der Radweg entlang der Küste ist flach und sonnig.",
+            "hu": "A part menti kerékpárút sík és napos.",
+            "ro": "Pista de biciclete de-a lungul coastei este plană și însorită.",
+            "en": "The coastal bike path is flat and sunny."
+          }
+        },
+        {
+          "name": {
+            "de": "Puerto Deportivo",
+            "hu": "Jachtkikötő",
+            "ro": "Puerto Deportivo",
+            "en": "Marina"
+          },
+          "coords": [
+            -5.1612,
+            36.4168
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie den Sonntagsmarkt im Hafen.",
+            "hu": "Látogasson el a vasárnapi piacra a kikötőben.",
+            "ro": "Vizitați piața de duminică din port.",
+            "en": "Visit the Sunday market in the harbor."
+          }
+        },
+        {
+          "name": {
+            "de": "Faro de Punta Doncella",
+            "hu": "Punta Doncella világítótorony",
+            "ro": "Faro de Punta Doncella",
+            "en": "Punta Doncella Lighthouse"
+          },
+          "coords": [
+            -5.1585,
+            36.4165
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "11:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Guter Stopp für eine kurze Trinkpause.",
+            "hu": "Jó megálló egy rövid ivószünetre.",
+            "ro": "Un popas bun pentru o scurtă pauză de hidratare.",
+            "en": "Good stop for a short hydration break."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre del Reloj",
+            "hu": "Óratorony",
+            "ro": "Torre del Reloj",
+            "en": "Clock Tower"
+          },
+          "coords": [
+            -5.1472,
+            36.4248
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:35",
+          "stay_min": 20,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Einziger Rest einer alten Moschee.",
+            "hu": "Egy régi mecset egyetlen fennmaradt része.",
+            "ro": "Singura rămășiță a unei vechi moschei.",
+            "en": "The only remains of an old mosque."
+          }
+        },
+        {
+          "name": {
+            "de": "Plaza de las Flores",
+            "hu": "Plaza de las Flores",
+            "ro": "Plaza de las Flores",
+            "en": "Plaza de las Flores"
+          },
+          "coords": [
+            -5.1471,
+            36.4252
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "13:05",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Rad sicher am Rand des Platzes.",
+            "hu": "Parkolja le a bringát biztonságosan a tér szélén.",
+            "ro": "Parcați bicicleta în siguranță la marginea pieței.",
+            "en": "Park your bike safely at the edge of the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Orquidario",
+            "hu": "Orchideaház",
+            "ro": "Orquidario",
+            "en": "Orchidarium"
+          },
+          "coords": [
+            -5.1442,
+            36.4285
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Klimatisierter Innenraum, ideal für den Nachmittag.",
+            "hu": "Légkondicionált belső tér, ideális délutánra.",
+            "ro": "Interior climatizat, ideal pentru după-amiază.",
+            "en": "Air-conditioned interior, ideal for the afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erfahren Sie Estepona auf zwei Rädern entlang der Mittelmeerküste. Starten Sie auf dem breiten Paseo Marítimo und fahren Sie bis zum lebhaften Yachthafen. Nach einer Besichtigung des Leuchtturms radeln Sie landeinwärts zur historischen Uhrturm und beenden Ihre Tour im kühlen Orchideenhaus. Die Route ist überwiegend flach und bietet ständigen Meerblick.",
+        "hu": "Fedezze fel Esteponát két keréken a mediterrán part mentén. Kezdjen a széles tengerparti sétányon, és tekerjen el a pezsgő jachtkikötőig. A világítótorony megtekintése után induljon a szárazföld felé a történelmi Óratoronyhoz, majd zárja túráját a hűvös Orchideaházban. Az útvonal jórészt sík, és állandó kilátást nyújt a tengerre.",
+        "ro": "Descoperiți Estepona pe două roți de-a lungul coastei mediteraneene. Începeți pe faleza largă și pedalați până la portul de agrement plin de viață. După vizitarea farului, pedalați spre interiorul orașului către istoricul Turn al Ceasului și încheiați turul în răcoarea Orquidario-ului. Traseul este predominant plan și oferă vedere constantă la mare.",
+        "en": "Experience Estepona on two wheels along the Mediterranean coast. Start on the wide Paseo Marítimo and ride to the lively marina. After visiting the lighthouse, cycle inland to the historic Clock Tower and finish your tour in the cool Orchidarium. The route is mostly flat and offers constant sea views."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gazpacho Andaluz",
+            "tip": "Erfrischende kalte Suppe im Restaurant La Rada."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gazpacho Andaluz",
+            "tip": "Frissítő hideg leves a La Rada étteremben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gazpacho Andaluz",
+            "tip": "Supă rece revigorantă la restaurantul La Rada."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gazpacho Andaluz",
+            "tip": "Refreshing cold soup at La Rada restaurant."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Playa del Cristo",
+            "tip": "Ruhigere Bucht westlich des Hafens.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Playa del Cristo",
+            "tip": "Csendesebb öböl a kikötőtől nyugatra.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Playa del Cristo",
+            "tip": "Golfuleț mai liniștit la vest de port.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Playa del Cristo",
+            "tip": "Quieter bay west of the harbor.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mercado de Abastos",
+            "tip": "Lokale Markthalle für frische Produkte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mercado de Abastos",
+            "tip": "Helyi piac friss termékekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mercado de Abastos",
+            "tip": "Piață locală pentru produse proaspete."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mercado de Abastos",
+            "tip": "Local market for fresh products."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die 'Senda Litoral' für längere Fahrten.",
+          "Vermeiden Sie die Mittagshitze im Sommer.",
+          "Fahrradverleih gibt es direkt am Hafen."
+        ],
+        "hu": [
+          "Használja a 'Senda Litoral' utat hosszabb tekerésekhez.",
+          "Nyáron kerülje a déli hőséget.",
+          "Kerékpárkölcsönzők közvetlenül a kikötőben találhatók."
+        ],
+        "ro": [
+          "Folosiți 'Senda Litoral' pentru plimbări mai lungi.",
+          "Evitați căldura de la amiază în timpul verii.",
+          "Închirieri de biciclete găsiți chiar în port."
+        ],
+        "en": [
+          "Use the 'Senda Litoral' path for longer rides.",
+          "Avoid the midday heat in summer.",
+          "Bike rentals are available directly at the harbor."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Erfahren Sie Estepona auf zwei Rädern entlang der Mittelmeerküste. Starten Sie auf dem breiten Paseo Marítimo und fahren Sie bis zum lebhaften Yachthafen. Nach einer Besichtigung des Leuchtturms radeln Sie landeinwärts zur historischen Uhrturm und beenden Ihre Tour im kühlen Orchideenhaus. Die Route ist überwiegend flach und bietet ständigen Meerblick.",
+            "hu": "Fedezze fel Esteponát két keréken a mediterrán part mentén. Kezdjen a széles tengerparti sétányon, és tekerjen el a pezsgő jachtkikötőig. A világítótorony megtekintése után induljon a szárazföld felé a történelmi Óratoronyhoz, majd zárja túráját a hűvös Orchideaházban. Az útvonal jórészt sík, és állandó kilátást nyújt a tengerre.",
+            "ro": "Descoperiți Estepona pe două roți de-a lungul coastei mediteraneene. Începeți pe faleza largă și pedalați până la portul de agrement plin de viață. După vizitarea farului, pedalați spre interiorul orașului către istoricul Turn al Ceasului și încheiați turul în răcoarea Orquidario-ului. Traseul este predominant plan și oferă vedere constantă la mare.",
+            "en": "Experience Estepona on two wheels along the Mediterranean coast. Start on the wide Paseo Marítimo and ride to the lively marina. After visiting the lighthouse, cycle inland to the historic Clock Tower and finish your tour in the cool Orchidarium. The route is mostly flat and offers constant sea views."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Paseo Marítimo",
+                "hu": "Tengerparti sétány",
+                "ro": "Paseo Marítimo",
+                "en": "Paseo Marítimo"
+              },
+              "tip_5lang": {
+                "de": "Der Radweg entlang der Küste ist flach und sonnig.",
+                "hu": "A part menti kerékpárút sík és napos.",
+                "ro": "Pista de biciclete de-a lungul coastei este plană și însorită.",
+                "en": "The coastal bike path is flat and sunny."
+              }
+            },
+            {
+              "name": {
+                "de": "Puerto Deportivo",
+                "hu": "Jachtkikötő",
+                "ro": "Puerto Deportivo",
+                "en": "Marina"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie den Sonntagsmarkt im Hafen.",
+                "hu": "Látogasson el a vasárnapi piacra a kikötőben.",
+                "ro": "Vizitați piața de duminică din port.",
+                "en": "Visit the Sunday market in the harbor."
+              }
+            },
+            {
+              "name": {
+                "de": "Faro de Punta Doncella",
+                "hu": "Punta Doncella világítótorony",
+                "ro": "Faro de Punta Doncella",
+                "en": "Punta Doncella Lighthouse"
+              },
+              "tip_5lang": {
+                "de": "Guter Stopp für eine kurze Trinkpause.",
+                "hu": "Jó megálló egy rövid ivószünetre.",
+                "ro": "Un popas bun pentru o scurtă pauză de hidratare.",
+                "en": "Good stop for a short hydration break."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre del Reloj",
+                "hu": "Óratorony",
+                "ro": "Torre del Reloj",
+                "en": "Clock Tower"
+              },
+              "tip_5lang": {
+                "de": "Einziger Rest einer alten Moschee.",
+                "hu": "Egy régi mecset egyetlen fennmaradt része.",
+                "ro": "Singura rămășiță a unei vechi moschei.",
+                "en": "The only remains of an old mosque."
+              }
+            },
+            {
+              "name": {
+                "de": "Plaza de las Flores",
+                "hu": "Plaza de las Flores",
+                "ro": "Plaza de las Flores",
+                "en": "Plaza de las Flores"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad sicher am Rand des Platzes.",
+                "hu": "Parkolja le a bringát biztonságosan a tér szélén.",
+                "ro": "Parcați bicicleta în siguranță la marginea pieței.",
+                "en": "Park your bike safely at the edge of the square."
+              }
+            },
+            {
+              "name": {
+                "de": "Orquidario",
+                "hu": "Orchideaház",
+                "ro": "Orquidario",
+                "en": "Orchidarium"
+              },
+              "tip_5lang": {
+                "de": "Klimatisierter Innenraum, ideal für den Nachmittag.",
+                "hu": "Légkondicionált belső tér, ideális délutánra.",
+                "ro": "Interior climatizat, ideal pentru după-amiază.",
+                "en": "Air-conditioned interior, ideal for the afternoon."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Gazpacho Andaluz",
+                "tip": "Erfrischende kalte Suppe im Restaurant La Rada."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Gazpacho Andaluz",
+                "tip": "Frissítő hideg leves a La Rada étteremben."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Gazpacho Andaluz",
+                "tip": "Supă rece revigorantă la restaurantul La Rada."
+              }
+            ],
+            "en": [
+              {
+                "name": "Gazpacho Andaluz",
+                "tip": "Refreshing cold soup at La Rada restaurant."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Playa del Cristo",
+                "tip": "Ruhigere Bucht westlich des Hafens.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Playa del Cristo",
+                "tip": "Csendesebb öböl a kikötőtől nyugatra.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Playa del Cristo",
+                "tip": "Golfuleț mai liniștit la vest de port.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Playa del Cristo",
+                "tip": "Quieter bay west of the harbor.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Mercado de Abastos",
+                "tip": "Lokale Markthalle für frische Produkte."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Mercado de Abastos",
+                "tip": "Helyi piac friss termékekkel."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Mercado de Abastos",
+                "tip": "Piață locală pentru produse proaspete."
+              }
+            ],
+            "en": [
+              {
+                "name": "Mercado de Abastos",
+                "tip": "Local market for fresh products."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Nutzen Sie die 'Senda Litoral' für längere Fahrten.",
+              "Vermeiden Sie die Mittagshitze im Sommer.",
+              "Fahrradverleih gibt es direkt am Hafen."
+            ],
+            "hu": [
+              "Használja a 'Senda Litoral' utat hosszabb tekerésekhez.",
+              "Nyáron kerülje a déli hőséget.",
+              "Kerékpárkölcsönzők közvetlenül a kikötőben találhatók."
+            ],
+            "ro": [
+              "Folosiți 'Senda Litoral' pentru plimbări mai lungi.",
+              "Evitați căldura de la amiază în timpul verii.",
+              "Închirieri de biciclete găsiți chiar în port."
+            ],
+            "en": [
+              "Use the 'Senda Litoral' path for longer rides.",
+              "Avoid the midday heat in summer.",
+              "Bike rentals are available directly at the harbor."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Regnerisches Radeln startet am Paseo Marítimo mit Vorsicht auf den Belag. In der Marina finden wir kurze Unterstände zwischen den Booten. Der Leuchtturm wirkt stürmisch und wild. Mittags suchen wir Schutz in der Altstadt am Uhrturm und der Plaza de las Flores. Den Abschluss bildet das Orchidarium, wo wir die Räder sicher abstellen und im Trockenen entspannen können.",
+            "hu": "Az esős bringázás óvatosan indul a Paseo Marítimón a csúszós köveken. A kikötőben (Marina) a hajók közt keresünk rövid menedéket. A világítótorony ilyenkor vad és szeles. Délben az óvárosban, az óratoronynál és a Plaza de las Floresen pihenünk fedett részen. A napot az Orchidariumban zárjuk, ahol biztonságban lezárhatjuk a gépeket és szárazon pihenhetünk.",
+            "ro": "Turul pe bicicletă pe ploaie începe cu prudență pe faleză. În marină găsim scurte adăposturi între ambarcațiuni. Farul arată sălbatic sub cerul furtunos. La prânz ne refugiem în centrul vechi, lângă Turnul cu Ceas și Plaza de las Flores. Încheiem la Orchidarium, unde putem lăsa bicicletele și ne putem relaxa la adăpost.",
+            "en": "Rainy cycling starts carefully along the Paseo Marítimo's slick tiles. In the Marina, we find brief shelter among the docks. The lighthouse feels wild and stormy. Midday is spent in the old town near the Clock Tower and Plaza de las Flores' covered spots. We finish at the Orchidarium, where bikes can be parked while we dry off inside."
+          },
+          "stops": [
+            {
+              "name": "Paseo Marítimo",
+              "tip_5lang": {
+                "de": "Vorsicht vor rutschigen Bodenbelägen bei Nässe.",
+                "hu": "Vigyázat, a burkolat nagyon csúszik nedvesen.",
+                "ro": "Atenție la pavajul alunecos când este ud.",
+                "en": "Watch out for slippery surfaces when wet."
+              }
+            },
+            {
+              "name": "Marina",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Gebäude am Hafen als Regenschutz.",
+                "hu": "Használja a kikötői épületeket eső elleni védelemnek.",
+                "ro": "Folosiți clădirile din port pentru adăpost.",
+                "en": "Use the harbor buildings for rain protection."
+              }
+            },
+            {
+              "name": "Punta Doncella Lighthouse",
+              "tip_5lang": {
+                "de": "Starker Seitenwind am Kap bei Regen möglich.",
+                "hu": "Erős oldalszélre kell számítani a foknál esőben.",
+                "ro": "Vânt lateral puternic posibil la cap în timpul ploii.",
+                "en": "Strong crosswinds possible at the cape during rain."
+              }
+            },
+            {
+              "name": "Clock Tower",
+              "tip_5lang": {
+                "de": "Enge Gassen bieten etwas Schutz vor Wind.",
+                "hu": "A szűk utcák némi védelmet adnak a szél ellen.",
+                "ro": "Străzile înguste oferă puțin adăpost contra vântului.",
+                "en": "Narrow streets offer some protection from wind."
+              }
+            },
+            {
+              "name": "Plaza de las Flores",
+              "tip_5lang": {
+                "de": "Guter Ort für eine warme Kakao-Pause im Trockenen.",
+                "hu": "Jó hely egy forró kakaóra száraz helyen.",
+                "ro": "Loc bun pentru o pauză cu ciocolată caldă la uscat.",
+                "en": "Good spot for a warm cocoa break in the dry."
+              }
+            },
+            {
+              "name": "Orchidarium",
+              "tip_5lang": {
+                "de": "Perfekter warmer Abschluss der regnerischen Tour.",
+                "hu": "Tökéletes meleg lezárása az esős túrának.",
+                "ro": "Finalul cald perfect pentru turul pe ploaie.",
+                "en": "Perfect warm conclusion to a rainy bike tour."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Bremsen vor der Abfahrt im Regen.",
+              "Vermeiden Sie lackierte Markierungen auf der Straße.",
+              "Ein Poncho ist beim Radeln praktischer als ein Schirm.",
+              "Schutzbleche am Rad sind heute Gold wert.",
+              "Parken Sie das Rad an überdachten Fahrradständern."
+            ],
+            "hu": [
+              "Ellenőrizze a fékeket az esős indulás előtt.",
+              "Kerülje az útra festett jeleket, mert csúsznak.",
+              "A poncsó praktikusabb bringázáshoz, mint az esernyő.",
+              "A sárvédő ma aranyat ér a kerékpáron.",
+              "Próbáljon fedett helyen parkolni a bringával."
+            ],
+            "ro": [
+              "Verificați frânele înainte de a pleca pe ploaie.",
+              "Evitați marcajele vopsite pe asfalt, sunt alunecoase.",
+              "Un ponou este mai practic la pedalat decât umbrela.",
+              "Apărătorile de noroi sunt esențiale astăzi.",
+              "Parcați bicicleta în rasteluri acoperite dacă găsiți."
+            ],
+            "en": [
+              "Check your brakes before starting in the rain.",
+              "Avoid riding on painted road markings; they get slick.",
+              "A poncho is more practical for cycling than an umbrella.",
+              "Mudguards on your bike are worth their weight in gold today.",
+              "Try to park your bike in covered areas if possible."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radeln bei strahlender Sonne startet am Paseo Marítimo. Die kühle Brise in der Marina wird durch die Bewegung ausgeglichen. Am Leuchtturm genießen wir die klare Sicht bis Gibraltar. Mittags wärmen wir uns in den sonnigen Gassen der Altstadt auf. Die Tour endet entspannt im milden Klima des Orchidariums, bevor die Sonne am späten Nachmittag hinter den Bergen verschwindet.",
+            "hu": "Téli bringázás ragyogó napsütésben a Paseo Marítimón. A kikötő (Marina) hűvös szelét a mozgás ellensúlyozza. A világítótoronynál élvezzük a tiszta kilátást Gibraltár felé. Napközben az óváros napsütötte utcáin melegszünk fel. A túra az Orchidarium enyhe klímájában zárul, mielőtt a nap késő délután eltűnne a hegyek mögött.",
+            "ro": "Turul pe bicicletă iarna începe pe faleza însorită. Briza rece din marină este compensată de efortul fizic. La far ne bucurăm de vizibilitatea clară spre Gibraltar. La prânz ne încălzim pe străduțele însorite din centrul vechi. Turul se încheie în climatul blând de la Orchidarium, înainte ca soarele să apună după munți.",
+            "en": "Winter cycling under bright sun starts on the Paseo Marítimo. The cool breeze in the Marina is balanced by the physical activity. At the lighthouse, enjoy crystal-clear views towards Gibraltar. Midday is perfect for warming up in the sunny old town alleys. The tour ends in the mild climate of the Orchidarium before the late afternoon sun dips behind the mountains."
+          },
+          "stops": [
+            {
+              "name": "Paseo Marítimo",
+              "tip_5lang": {
+                "de": "Handschuhe schützen vor dem kalten Fahrtwind am Meer.",
+                "hu": "A kesztyű véd a hideg menetszéltől a tengerparton.",
+                "ro": "Mănușile protejează contra vântului rece de pe faleză.",
+                "en": "Gloves protect against the cold wind on the coast."
+              }
+            },
+            {
+              "name": "Marina",
+              "tip_5lang": {
+                "de": "Die Wintersonne im Hafen ist sehr kräftig.",
+                "hu": "A téli nap a kikötőben kifejezetten erős lehet.",
+                "ro": "Soarele de iarnă în port este destul de puternic.",
+                "en": "The winter sun in the harbor can be quite strong."
+              }
+            },
+            {
+              "name": "Punta Doncella Lighthouse",
+              "tip_5lang": {
+                "de": "Hervorragende Fernsicht im Winter oft garantiert.",
+                "hu": "Kiváló távoli kilátás télen gyakran garantált.",
+                "ro": "Vizibilitatea la distanță e adesea excelentă iarna.",
+                "en": "Excellent long-distance views are common in winter."
+              }
+            },
+            {
+              "name": "Clock Tower",
+              "tip_5lang": {
+                "de": "Im Schatten der Türme kühlt es schnell ab.",
+                "hu": "A torony árnyékában gyorsan lehűl az idő.",
+                "ro": "La umbra turnului se răcorește foarte repede.",
+                "en": "It cools down quickly in the shadow of the towers."
+              }
+            },
+            {
+              "name": "Plaza de las Flores",
+              "tip_5lang": {
+                "de": "Suchen Sie einen Platz direkt in der Sonne.",
+                "hu": "Keressen egy helyet közvetlenül a napon.",
+                "ro": "Căutați un loc direct sub razele soarelui.",
+                "en": "Look for a table directly in the sun."
+              }
+            },
+            {
+              "name": "Orchidarium",
+              "tip_5lang": {
+                "de": "Ein schöner Ort, um die Tour gemütlich ausklingen zu lassen.",
+                "hu": "Szép hely a túra kellemes lezárásához.",
+                "ro": "Un loc frumos pentru a încheia turul relaxat.",
+                "en": "A lovely spot to end the tour comfortably."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine winddichte Jacke gegen die Seebrise.",
+              "Die Tage sind kurz, starten Sie spätestens um 10 Uhr.",
+              "Die Luft ist im Winter sehr trocken und klar.",
+              "Vermeiden Sie Schattenstrecken am späten Nachmittag.",
+              "Sonnenschutz ist trotz kühlerer Luft wichtig."
+            ],
+            "hu": [
+              "Viseljen szélálló kabátot a tengeri szél miatt.",
+              "Rövidek a nappalok, induljon el legkésőbb délelőtt 10-kor.",
+              "A levegő télen nagyon száraz és tiszta.",
+              "Késő délután kerülje az árnyékos útvonalakat.",
+              "A fényvédő fontos a hűvösebb levegő ellenére is."
+            ],
+            "ro": [
+              "Purtați o jachetă rezistentă la vânt pentru briză.",
+              "Zilele sunt scurte, plecați cel târziu la ora 10:00.",
+              "Aerul este foarte uscat și clar în timpul iernii.",
+              "Evitați traseele umbrite după-amiaza târziu.",
+              "Protecția solară e necesară chiar dacă aerul e rece."
+            ],
+            "en": [
+              "Wear a windproof jacket against the sea breeze.",
+              "Days are short; start your tour by 10 AM at the latest.",
+              "The air is very dry and clear during the winter.",
+              "Avoid shaded routes in the late afternoon.",
+              "Sunscreen is important despite the cooler air."
+            ]
+          }
+        }
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 20,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 15.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Orquidario",
+            "hu": "Orchideaház",
+            "ro": "Orquidario",
+            "en": "Orchidarium"
+          },
+          "coords": [
+            -5.1442,
+            36.4285
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Großer Parkplatz in der Nähe vorhanden.",
+            "hu": "Nagy parkoló található a közelben.",
+            "ro": "Parcare mare disponibilă în apropiere.",
+            "en": "Large parking area available nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Puerto Deportivo",
+            "hu": "Jachtkikötő",
+            "ro": "Puerto Deportivo",
+            "en": "Marina"
+          },
+          "coords": [
+            -5.1612,
+            36.4168
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Ideal für ein Mittagessen am Wasser.",
+            "hu": "Ideális egy vízparti ebédhez.",
+            "ro": "Ideal pentru un prânz lângă apă.",
+            "en": "Ideal for a lunch by the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Faro de Punta Doncella",
+            "hu": "Punta Doncella világítótorony",
+            "ro": "Faro de Punta Doncella",
+            "en": "Punta Doncella Lighthouse"
+          },
+          "coords": [
+            -5.1585,
+            36.4165
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "12:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Kurzer Fotostopp direkt an der Straße.",
+            "hu": "Rövid fotómegálló közvetlenül az út mellett.",
+            "ro": "Scurt popas foto chiar lângă drum.",
+            "en": "Short photo stop right by the road."
+          }
+        },
+        {
+          "name": {
+            "de": "Plaza de las Flores",
+            "hu": "Plaza de las Flores",
+            "ro": "Plaza de las Flores",
+            "en": "Plaza de las Flores"
+          },
+          "coords": [
+            -5.1471,
+            36.4252
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "13:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Nutzen Sie das unterirdische Parkhaus am Paseo.",
+            "hu": "Használja a sétány alatti földalatti parkolót.",
+            "ro": "Folosiți parcarea subterană de pe faleză.",
+            "en": "Use the underground parking on the Paseo."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre del Reloj",
+            "hu": "Óratorony",
+            "ro": "Torre del Reloj",
+            "en": "Clock Tower"
+          },
+          "coords": [
+            -5.1472,
+            36.4248
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Zu Fuß vom Parkhaus in 5 Min erreichbar.",
+            "hu": "Gyalog 5 perc alatt elérhető a parkolótól.",
+            "ro": "Accesibil pe jos în 5 minute de la parcare.",
+            "en": "Accessible on foot in 5 mins from the parking."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erreichen Sie bequem die Highlights von Estepona. Beginnen Sie im Norden beim Orchideenhaus, fahren Sie dann zum Hafen für ein exzellentes Fischessen und besichtigen Sie den nahen Leuchtturm. Parken Sie anschließend zentral, um die blühende Altstadt und den historischen Uhrturm zu Fuß zu erkunden. Diese Kombination spart Zeit und bietet maximale Flexibilität.",
+        "hu": "Autóval kényelmesen elérheti Estepona fénypontjait. Kezdjen északon az Orchideaháznál, majd hajtson a kikötőbe egy kiváló halas ebédre, és nézze meg a közeli világítótornyot. Ezután parkoljon le a központban, hogy gyalog fedezhesse fel a virágzó óvárost és a történelmi Óratoronyt. Ez a kombináció időt takarít meg és maximális rugalmasságot biztosít.",
+        "ro": "Cu mașina puteți ajunge confortabil la punctele de atracție din Estepona. Începeți în nord la Orquidario, apoi conduceți spre port pentru un prânz excelent cu pește și vizitați farul din apropiere. Parcați apoi central pentru a explora pe jos orașul vechi plin de flori și istoricul Turn al Ceasului. Această combinație economisește timp și oferă flexibilitate maximă.",
+        "en": "By car, you can comfortably reach Estepona's highlights. Start in the north at the Orchidarium, then drive to the harbor for an excellent fish lunch and see the nearby lighthouse. Then park centrally to explore the flowering old town and the historic Clock Tower on foot. This combination saves time and provides maximum flexibility."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gambas al Pil-Pil",
+            "tip": "Scharfe Garnelen im Restaurant El Pescador."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gambas al Pil-Pil",
+            "tip": "Csípős garnélarák az El Pescador étteremben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gambas al Pil-Pil",
+            "tip": "Creveți picanți la restaurantul El Pescador."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gambas al Pil-Pil",
+            "tip": "Spicy prawns at El Pescador restaurant."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Mirador del Carmen",
+            "tip": "Panoramablick über die Stadt.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mirador del Carmen",
+            "tip": "Panorámás kilátás a városra.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mirador del Carmen",
+            "tip": "Vedere panoramică asupra orașului.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Mirador del Carmen",
+            "tip": "Panoramic view over the city.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Carrefour Estepona",
+            "tip": "Großer Supermarkt für lokale Weine."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Carrefour Estepona",
+            "tip": "Nagy szupermarket helyi borokhoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Carrefour Estepona",
+            "tip": "Supermarket mare pentru vinuri locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Carrefour Estepona",
+            "tip": "Large supermarket for local wines."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken in der Altstadt ist fast unmöglich; nutzen Sie Parkhäuser.",
+          "Die Hauptstraße N-340 verbindet alle Punkte schnell.",
+          "Blaue Zonen sind gebührenpflichtig."
+        ],
+        "hu": [
+          "Az óvárosban szinte lehetetlen parkolni; használjon parkolóházakat.",
+          "Az N-340-es főút gyorsan összeköti a pontokat.",
+          "A kék zónák díjkötelesek."
+        ],
+        "ro": [
+          "Parcarea în orașul vechi este aproape imposibilă; folosiți parcările etajate.",
+          "Drumul principal N-340 conectează rapid toate punctele.",
+          "Zonele albastre sunt cu plată."
+        ],
+        "en": [
+          "Parking in the old town is almost impossible; use parking garages.",
+          "The main N-340 road connects all points quickly.",
+          "Blue zones are paid parking."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erreichen Sie bequem die Highlights von Estepona. Beginnen Sie im Norden beim Orchideenhaus, fahren Sie dann zum Hafen für ein exzellentes Fischessen und besichtigen Sie den nahen Leuchtturm. Parken Sie anschließend zentral, um die blühende Altstadt und den historischen Uhrturm zu Fuß zu erkunden. Diese Kombination spart Zeit und bietet maximale Flexibilität.",
+            "hu": "Autóval kényelmesen elérheti Estepona fénypontjait. Kezdjen északon az Orchideaháznál, majd hajtson a kikötőbe egy kiváló halas ebédre, és nézze meg a közeli világítótornyot. Ezután parkoljon le a központban, hogy gyalog fedezhesse fel a virágzó óvárost és a történelmi Óratoronyt. Ez a kombináció időt takarít meg és maximális rugalmasságot biztosít.",
+            "ro": "Cu mașina puteți ajunge confortabil la punctele de atracție din Estepona. Începeți în nord la Orquidario, apoi conduceți spre port pentru un prânz excelent cu pește și vizitați farul din apropiere. Parcați apoi central pentru a explora pe jos orașul vechi plin de flori și istoricul Turn al Ceasului. Această combinație economisește timp și oferă flexibilitate maximă.",
+            "en": "By car, you can comfortably reach Estepona's highlights. Start in the north at the Orchidarium, then drive to the harbor for an excellent fish lunch and see the nearby lighthouse. Then park centrally to explore the flowering old town and the historic Clock Tower on foot. This combination saves time and provides maximum flexibility."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Orquidario",
+                "hu": "Orchideaház",
+                "ro": "Orquidario",
+                "en": "Orchidarium"
+              },
+              "tip_5lang": {
+                "de": "Großer Parkplatz in der Nähe vorhanden.",
+                "hu": "Nagy parkoló található a közelben.",
+                "ro": "Parcare mare disponibilă în apropiere.",
+                "en": "Large parking area available nearby."
+              }
+            },
+            {
+              "name": {
+                "de": "Puerto Deportivo",
+                "hu": "Jachtkikötő",
+                "ro": "Puerto Deportivo",
+                "en": "Marina"
+              },
+              "tip_5lang": {
+                "de": "Ideal für ein Mittagessen am Wasser.",
+                "hu": "Ideális egy vízparti ebédhez.",
+                "ro": "Ideal pentru un prânz lângă apă.",
+                "en": "Ideal for a lunch by the water."
+              }
+            },
+            {
+              "name": {
+                "de": "Faro de Punta Doncella",
+                "hu": "Punta Doncella világítótorony",
+                "ro": "Faro de Punta Doncella",
+                "en": "Punta Doncella Lighthouse"
+              },
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp direkt an der Straße.",
+                "hu": "Rövid fotómegálló közvetlenül az út mellett.",
+                "ro": "Scurt popas foto chiar lângă drum.",
+                "en": "Short photo stop right by the road."
+              }
+            },
+            {
+              "name": {
+                "de": "Plaza de las Flores",
+                "hu": "Plaza de las Flores",
+                "ro": "Plaza de las Flores",
+                "en": "Plaza de las Flores"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das unterirdische Parkhaus am Paseo.",
+                "hu": "Használja a sétány alatti földalatti parkolót.",
+                "ro": "Folosiți parcarea subterană de pe faleză.",
+                "en": "Use the underground parking on the Paseo."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre del Reloj",
+                "hu": "Óratorony",
+                "ro": "Torre del Reloj",
+                "en": "Clock Tower"
+              },
+              "tip_5lang": {
+                "de": "Zu Fuß vom Parkhaus in 5 Min erreichbar.",
+                "hu": "Gyalog 5 perc alatt elérhető a parkolótól.",
+                "ro": "Accesibil pe jos în 5 minute de la parcare.",
+                "en": "Accessible on foot in 5 mins from the parking."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Gambas al Pil-Pil",
+                "tip": "Scharfe Garnelen im Restaurant El Pescador."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Gambas al Pil-Pil",
+                "tip": "Csípős garnélarák az El Pescador étteremben."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Gambas al Pil-Pil",
+                "tip": "Creveți picanți la restaurantul El Pescador."
+              }
+            ],
+            "en": [
+              {
+                "name": "Gambas al Pil-Pil",
+                "tip": "Spicy prawns at El Pescador restaurant."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Mirador del Carmen",
+                "tip": "Panoramablick über die Stadt.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Mirador del Carmen",
+                "tip": "Panorámás kilátás a városra.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Mirador del Carmen",
+                "tip": "Vedere panoramică asupra orașului.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Mirador del Carmen",
+                "tip": "Panoramic view over the city.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Carrefour Estepona",
+                "tip": "Großer Supermarkt für lokale Weine."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Carrefour Estepona",
+                "tip": "Nagy szupermarket helyi borokhoz."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Carrefour Estepona",
+                "tip": "Supermarket mare pentru vinuri locale."
+              }
+            ],
+            "en": [
+              {
+                "name": "Carrefour Estepona",
+                "tip": "Large supermarket for local wines."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Parken in der Altstadt ist fast unmöglich; nutzen Sie Parkhäuser.",
+              "Die Hauptstraße N-340 verbindet alle Punkte schnell.",
+              "Blaue Zonen sind gebührenpflichtig."
+            ],
+            "hu": [
+              "Az óvárosban szinte lehetetlen parkolni; használjon parkolóházakat.",
+              "Az N-340-es főút gyorsan összeköti a pontokat.",
+              "A kék zónák díjkötelesek."
+            ],
+            "ro": [
+              "Parcarea în orașul vechi este aproape imposibilă; folosiți parcările etajate.",
+              "Drumul principal N-340 conectează rapid toate punctele.",
+              "Zonele albastre sunt cu plată."
+            ],
+            "en": [
+              "Parking in the old town is almost impossible; use parking garages.",
+              "The main N-340 road connects all points quickly.",
+              "Blue zones are paid parking."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist Estepona bei Regen entspannt. Wir parken direkt am Orchidarium und genießen die Tropenwelt. Danach geht es zur Marina für einen Kaffee mit Hafenblick. Der Leuchtturm wird kurz im Regen bestaunt. Mittags erreichen wir die Plaza de las Flores, wo wir in der Nähe parken und die Altstadt erkunden. Der Uhrturm markiert das Ende unserer wetterfesten Tour.",
+            "hu": "Autóval az esős Estepona is kényelmes. Közvetlenül az Orchidariumnál parkolunk, élvezve a trópusi világot. Ezután a kikötőbe (Marina) hajtunk egy kávéra, kikötői kilátással. A világítótoronynál csak rövid megállót teszünk az esőben. Délben a Plaza de las Flores környékén parkolunk, és onnan fedezzük fel az óvárost. Az óratorony zárja esőbiztos utunkat.",
+            "ro": "Cu mașina, Estepona pe ploaie este relaxantă. Parcăm direct la Orchidarium pentru a vedea lumea tropicală. Apoi mergem în marină pentru o cafea cu vedere la iahturi. Admirăm farul scurt prin ploaie. La prânz ajungem la Plaza de las Flores, parcând în apropiere pentru a explora centrul vechi. Turnul cu Ceas încheie turul nostru protejat.",
+            "en": "Estepona by car is relaxing even in the rain. We park right at the Orchidarium to enjoy its tropical world. Then, we drive to the Marina for coffee with harbor views. The lighthouse is a quick stop in the damp. Midday, we find parking near Plaza de las Flores to explore the old town. The Clock Tower marks the end of our weatherproof tour."
+          },
+          "stops": [
+            {
+              "name": "Orchidarium",
+              "tip_5lang": {
+                "de": "Große Tiefgarage direkt unter dem benachbarten Park.",
+                "hu": "Nagy mélygarázs van közvetlenül a szomszédos park alatt.",
+                "ro": "Parcare subterană mare chiar sub parcul vecin.",
+                "en": "Large underground parking right under the adjacent park."
+              }
+            },
+            {
+              "name": "Marina",
+              "tip_5lang": {
+                "de": "Parkplätze direkt am Hafenbecken verfügbar.",
+                "hu": "Parkolóhelyek közvetlenül a kikötőnél elérhetőek.",
+                "ro": "Locuri de parcare disponibile direct lângă port.",
+                "en": "Parking spaces available directly by the harbor."
+              }
+            },
+            {
+              "name": "Punta Doncella Lighthouse",
+              "tip_5lang": {
+                "de": "Halten Sie kurz am Straßenrand für ein schnelles Foto.",
+                "hu": "Álljon meg rövid időre az út szélén egy gyors fotóra.",
+                "ro": "Opriți scurt pe marginea drumului pentru o poză rapidă.",
+                "en": "Stop briefly at the roadside for a quick photo."
+              }
+            },
+            {
+              "name": "Plaza de las Flores",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Parkhaus 'Zapallito' für die Altstadt.",
+                "hu": "Használja a 'Zapallito' parkolóházat az óvároshoz.",
+                "ro": "Folosiți parcarea 'Zapallito' pentru centrul vechi.",
+                "en": "Use the 'Zapallito' parking garage for the old town."
+              }
+            },
+            {
+              "name": "Clock Tower",
+              "tip_5lang": {
+                "de": "In der Altstadt herrscht Fahrverbot, parken Sie außerhalb.",
+                "hu": "Az óvárosban behajtási tilalom van, parkoljon kívül.",
+                "ro": "Accesul auto e interzis în centrul vechi, parcați afară.",
+                "en": "The old town is car-free; park on the outskirts."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Tiefgaragen, um trocken in die Stadt zu kommen.",
+              "Die Straßen können bei dem ersten Regen sehr rutschig sein.",
+              "Achten Sie auf Pfützen in den tiefer gelegenen Straßen.",
+              "Das Parken am Hafen ist bei Regen oft unkomplizierter.",
+              "Lassen Sie keine Wertsachen sichtbar im Auto liegen."
+            ],
+            "hu": [
+              "Használja a mélygarázsokat, hogy szárazon jusson a városba.",
+              "Az utak az első eső után nagyon csúszósak lehetnek.",
+              "Ügyeljen a tócsákra az alacsonyabb fekvésű utcákban.",
+              "Esőben a kikötői parkolás gyakran egyszerűbb.",
+              "Ne hagyjon értéktárgyat látható helyen az autóban."
+            ],
+            "ro": [
+              "Folosiți parcările subterane pentru a rămâne uscați.",
+              "Șoselele pot fi foarte alunecoase la prima ploaie.",
+              "Atenție la bălțile de pe străzile joase.",
+              "Parcarea în port este adesea mai simplă când plouă.",
+              "Nu lăsați obiecte de valoare la vedere în mașină."
+            ],
+            "en": [
+              "Use underground parking to get into town dry.",
+              "Roads can be very slippery after the first rain.",
+              "Watch out for large puddles in lower-lying streets.",
+              "Parking at the harbor is often easier when it's raining.",
+              "Do not leave any valuables visible inside the car."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Wintersonne im Auto genießen: Wir starten am Orchidarium und nutzen das milde Klima. Danach geht es zum Hafen (Marina) für einen sonnigen Spaziergang. Der Leuchtturm bietet bei der klaren Winterluft tolle Ausblicke. Mittags parken wir nahe der Plaza de las Flores für Tapas in der Sonne. Die Tour endet am Uhrturm, bevor wir die Heizung für die Rückfahrt einschalten.",
+            "hu": "Élvezze a téli napsütést az autóból: az Orchidariumnál kezdünk, kihasználva az enyhe klímát. Ezután a kikötőbe (Marina) megyünk egy napsütéses sétára. A világítótoronynál a tiszta téli levegőben remek a kilátás. Délben a Plaza de las Flores közelében parkolunk egy napsütötte tapaszozáshoz. A túra az óratoronynál zárul, mielőtt bekapcsolnánk a fűtést a hazaútra.",
+            "ro": "Bucurați-vă de soarele de iarnă din mașină: începem la Orchidarium, profitând de climatul blând. Apoi mergem în marină pentru o plimbare însorită. Farul oferă vederi superbe în aerul clar de iarnă. La prânz parcăm lângă Plaza de las Flores pentru tapas la soare. Turul se încheie la Turnul cu Ceas, înainte de a porni căldura spre casă.",
+            "en": "Enjoy the winter sun from the car: start at the Orchidarium, making the most of the mild climate. Then head to the Marina for a sunny stroll. The lighthouse offers great views in the clear winter air. Midday, park near Plaza de las Flores for some tapas in the sun. The tour ends at the Clock Tower before turning on the heater for the drive back."
+          },
+          "stops": [
+            {
+              "name": "Orchidarium",
+              "tip_5lang": {
+                "de": "Im Winter sind hier oft Parkplätze frei.",
+                "hu": "Télen itt gyakran vannak szabad parkolóhelyek.",
+                "ro": "Iarna se găsesc adesea locuri de parcare libere aici.",
+                "en": "Parking spaces are often available here in winter."
+              }
+            },
+            {
+              "name": "Marina",
+              "tip_5lang": {
+                "de": "Sonnige Parkplätze am Wasser sind sehr beliebt.",
+                "hu": "A vízparti napos parkolóhelyek nagyon népszerűek.",
+                "ro": "Locurile de parcare însorite lângă apă sunt căutate.",
+                "en": "Sunny parking spots by the water are very popular."
+              }
+            },
+            {
+              "name": "Punta Doncella Lighthouse",
+              "tip_5lang": {
+                "de": "Perfekter Ort für Fotos bei tiefstehender Sonne.",
+                "hu": "Tökéletes hely fotózáshoz az alacsonyan járó napnál.",
+                "ro": "Loc perfect pentru poze cu soarele la orizont.",
+                "en": "Perfect spot for photos with the low-hanging sun."
+              }
+            },
+            {
+              "name": "Plaza de las Flores",
+              "tip_5lang": {
+                "de": "Parkhaus an der Promenade ist im Winter oft günstig.",
+                "hu": "A sétány menti parkolóház télen gyakran olcsóbb.",
+                "ro": "Parcarea de pe faleză este adesea mai ieftină iarna.",
+                "en": "The parking garage by the promenade is often cheap in winter."
+              }
+            },
+            {
+              "name": "Clock Tower",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg vom Parkplatz zur Altstadt.",
+                "hu": "Rövid séta a parkolótól az óvárosig.",
+                "ro": "Scurtă plimbare de la parcare spre centrul vechi.",
+                "en": "Short walk from the parking area to the old town."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Wintersonne kann beim Fahren stark blenden, Brille mitnehmen.",
+              "Vermeiden Sie Parkplätze direkt unter Pinien (Harzgefahr).",
+              "Die Küstenstraße N-340 ist im Winter staufrei.",
+              "Tiefgaragen sind oft wärmer als Außenparkplätze.",
+              "Nutzen Sie die Nebensaison für entspanntes Parken am Hafen."
+            ],
+            "hu": [
+              "A téli nap vezetés közben vakíthat, vigyen napszemüveget.",
+              "Kerülje a fenyőfák alatti parkolást a gyanta miatt.",
+              "Az N-340-es parti út télen forgalmi dugóktól mentes.",
+              "A mélygarázsok gyakran melegebbek, mint a kültéri helyek.",
+              "Használja ki az utószezont a kényelmes kikötői parkoláshoz."
+            ],
+            "ro": [
+              "Soarele de iarnă poate orbi la volan, luați ochelari de soare.",
+              "Evitați parcarea sub pini din cauza rășinii.",
+              "Drumul de coastă N-340 nu este aglomerat iarna.",
+              "Parcările subterane sunt adesea mai calde decât afară.",
+              "Profit Florile de extrasezon pentru o parcare ușoară în port."
+            ],
+            "en": [
+              "The winter sun can be blinding while driving; bring sunglasses.",
+              "Avoid parking directly under pine trees due to resin.",
+              "The N-340 coastal road is traffic-free during winter.",
+              "Underground garages are often warmer than outdoor spots.",
+              "Take advantage of the low season for easy parking at the harbor."
+            ]
+          }
+        }
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:15",
+      "total_km": 6.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Plaza de las Flores",
+            "hu": "Plaza de las Flores",
+            "ro": "Plaza de las Flores",
+            "en": "Plaza de las Flores"
+          },
+          "coords": [
+            -5.1471,
+            36.4252
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Zentraler Treffpunkt, gut erreichbar.",
+            "hu": "Központi találkozóhely, könnyen elérhető.",
+            "ro": "Punct de întâlnire central, ușor accesibil.",
+            "en": "Central meeting point, easily accessible."
+          }
+        },
+        {
+          "name": {
+            "de": "Orquidario",
+            "hu": "Orchideaház",
+            "ro": "Orquidario",
+            "en": "Orchidarium"
+          },
+          "coords": [
+            -5.1442,
+            36.4285
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Die Linie L1 hält in der Nähe.",
+            "hu": "Az L1-es busz megáll a közelben.",
+            "ro": "Linia L1 oprește în apropiere.",
+            "en": "Bus line L1 stops nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Murales de Estepona",
+            "hu": "Estepona falfestményei",
+            "ro": "Murales de Estepona",
+            "en": "Estepona Murals"
+          },
+          "coords": [
+            -5.1485,
+            36.4265
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "12:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Einige Murals liegen an der Busroute.",
+            "hu": "Néhány falfestmény a buszjárat mentén fekszik.",
+            "ro": "Unele picturi murale sunt pe ruta autobuzului.",
+            "en": "Some murals are along the bus route."
+          }
+        },
+        {
+          "name": {
+            "de": "Puerto Deportivo",
+            "hu": "Jachtkikötő",
+            "ro": "Puerto Deportivo",
+            "en": "Marina"
+          },
+          "coords": [
+            -5.1612,
+            36.4168
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Bushaltestelle direkt am Hafeneingang.",
+            "hu": "Buszmegálló közvetlenül a kikötő bejáratánál.",
+            "ro": "Stație de autobuz chiar la intrarea în port.",
+            "en": "Bus stop right at the harbor entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Paseo Marítimo",
+            "hu": "Tengerparti sétány",
+            "ro": "Paseo Marítimo",
+            "en": "Paseo Marítimo"
+          },
+          "coords": [
+            -5.145,
+            36.423
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Entlang der Promenade gibt es viele Haltestellen.",
+            "hu": "A sétány mentén számos megálló található.",
+            "ro": "Există multe stații de-a lungul falezei.",
+            "en": "There are many stops along the promenade."
+          }
+        },
+        {
+          "name": {
+            "de": "Iglesia de los Remedios",
+            "hu": "Remedios-templom",
+            "ro": "Iglesia de los Remedios",
+            "en": "Remedios Church"
+          },
+          "coords": [
+            -5.1458,
+            36.4241
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "17:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein kurzer Fußweg von der Haltestelle 'Centro'.",
+            "hu": "Rövid séta a 'Centro' megállótól.",
+            "ro": "O scurtă plimbare de la stația 'Centro'.",
+            "en": "A short walk from the 'Centro' stop."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das lokale Bussystem von Estepona, um stressfrei zwischen der Altstadt und dem Hafen zu pendeln. Starten Sie an der Plaza de las Flores, besuchen Sie das Orchideenhaus mit der Linie L1 und fahren Sie dann zum Hafen. Genießen Sie die Aussicht während der Fahrt entlang der Küste und beenden Sie Ihren Ausflug bei der barocken Remedios-Kirche im Stadtzentrum.",
+        "hu": "Használja Estepona helyi buszhálózatát a stresszmentes közlekedéshez az óváros és a kikötő között. Kezdjen a Plaza de las Flores-nél, látogasson el az Orchideaházhoz az L1-es busszal, majd utazzon el a kikötőbe. Élvezze a kilátást a tengerparti út során, és fejezze be kirándulását a barokk Remedios-templomnál a városközpontban.",
+        "ro": "Folosiți sistemul local de autobuze din Estepona pentru a face naveta fără stres între orașul vechi și port. Începeți în Plaza de las Flores, vizitați Orquidario cu linia L1, apoi mergeți în port. Bucurați-vă de priveliște în timpul călătoriei de-a lungul coastei și încheiați excursia la biserica barocă Remedios din centrul orașului.",
+        "en": "Use Estepona's local bus system to commute stress-free between the old town and the harbor. Start at Plaza de las Flores, visit the Orchidarium using line L1, and then travel to the marina. Enjoy the views during the ride along the coast and finish your trip at the Baroque Remedios Church in the city center."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ajoblanco",
+            "tip": "Kalte Mandelsuppe im Casa Doña Jeronima."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ajoblanco",
+            "tip": "Hideg mandulaleves a Casa Doña Jeronima-ban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ajoblanco",
+            "tip": "Supă rece de migdale la Casa Doña Jeronima."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ajoblanco",
+            "tip": "Cold almond soup at Casa Doña Jeronima."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parque del Calvario",
+            "tip": "Grüne Oase mit Wasserspielen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parque del Calvario",
+            "tip": "Zöld oázis szökőkutakkal.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parque del Calvario",
+            "tip": "Oază verde cu jocuri de apă.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parque del Calvario",
+            "tip": "Green oasis with water features.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Calle Terraza",
+            "tip": "Bekannte Geschäftsstraße im Zentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Calle Terraza",
+            "tip": "Ismert bevásárlóutca a központban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Calle Terraza",
+            "tip": "Cunoscută stradă comercială din centru."
+          }
+        ],
+        "en": [
+          {
+            "name": "Calle Terraza",
+            "tip": "Known shopping street in the center."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Fahrkarten können direkt beim Fahrer gekauft werden.",
+          "Die Linien L1 und L2 decken die touristischen Ziele ab.",
+          "Hinterlassen Sie keine Wertsachen sichtbar im Bus."
+        ],
+        "hu": [
+          "Jegyet közvetlenül a sofőrnél vásárolhat.",
+          "Az L1-es és L2-es járatok lefedik a turisztikai célpontokat.",
+          "Ne hagyjon értéktárgyat látható helyen a buszon."
+        ],
+        "ro": [
+          "Biletele pot fi cumpărate direct de la șofer.",
+          "Liniile L1 și L2 acoperă destinațiile turistice.",
+          "Nu lăsați obiecte de valoare la vedere în autobuz."
+        ],
+        "en": [
+          "Tickets can be bought directly from the driver.",
+          "Lines L1 and L2 cover the main tourist sites.",
+          "Do not leave valuables visible on the bus."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie das lokale Bussystem von Estepona, um stressfrei zwischen der Altstadt und dem Hafen zu pendeln. Starten Sie an der Plaza de las Flores, besuchen Sie das Orchideenhaus mit der Linie L1 und fahren Sie dann zum Hafen. Genießen Sie die Aussicht während der Fahrt entlang der Küste und beenden Sie Ihren Ausflug bei der barocken Remedios-Kirche im Stadtzentrum.",
+            "hu": "Használja Estepona helyi buszhálózatát a stresszmentes közlekedéshez az óváros és a kikötő között. Kezdjen a Plaza de las Flores-nél, látogasson el az Orchideaházhoz az L1-es busszal, majd utazzon el a kikötőbe. Élvezze a kilátást a tengerparti út során, és fejezze be kirándulását a barokk Remedios-templomnál a városközpontban.",
+            "ro": "Folosiți sistemul local de autobuze din Estepona pentru a face naveta fără stres între orașul vechi și port. Începeți în Plaza de las Flores, vizitați Orquidario cu linia L1, apoi mergeți în port. Bucurați-vă de priveliște în timpul călătoriei de-a lungul coastei și încheiați excursia la biserica barocă Remedios din centrul orașului.",
+            "en": "Use Estepona's local bus system to commute stress-free between the old town and the harbor. Start at Plaza de las Flores, visit the Orchidarium using line L1, and then travel to the marina. Enjoy the views during the ride along the coast and finish your trip at the Baroque Remedios Church in the city center."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Plaza de las Flores",
+                "hu": "Plaza de las Flores",
+                "ro": "Plaza de las Flores",
+                "en": "Plaza de las Flores"
+              },
+              "tip_5lang": {
+                "de": "Zentraler Treffpunkt, gut erreichbar.",
+                "hu": "Központi találkozóhely, könnyen elérhető.",
+                "ro": "Punct de întâlnire central, ușor accesibil.",
+                "en": "Central meeting point, easily accessible."
+              }
+            },
+            {
+              "name": {
+                "de": "Orquidario",
+                "hu": "Orchideaház",
+                "ro": "Orquidario",
+                "en": "Orchidarium"
+              },
+              "tip_5lang": {
+                "de": "Die Linie L1 hält in der Nähe.",
+                "hu": "Az L1-es busz megáll a közelben.",
+                "ro": "Linia L1 oprește în apropiere.",
+                "en": "Bus line L1 stops nearby."
+              }
+            },
+            {
+              "name": {
+                "de": "Murales de Estepona",
+                "hu": "Estepona falfestményei",
+                "ro": "Murales de Estepona",
+                "en": "Estepona Murals"
+              },
+              "tip_5lang": {
+                "de": "Einige Murals liegen an der Busroute.",
+                "hu": "Néhány falfestmény a buszjárat mentén fekszik.",
+                "ro": "Unele picturi murale sunt pe ruta autobuzului.",
+                "en": "Some murals are along the bus route."
+              }
+            },
+            {
+              "name": {
+                "de": "Puerto Deportivo",
+                "hu": "Jachtkikötő",
+                "ro": "Puerto Deportivo",
+                "en": "Marina"
+              },
+              "tip_5lang": {
+                "de": "Bushaltestelle direkt am Hafeneingang.",
+                "hu": "Buszmegálló közvetlenül a kikötő bejáratánál.",
+                "ro": "Stație de autobuz chiar la intrarea în port.",
+                "en": "Bus stop right at the harbor entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Paseo Marítimo",
+                "hu": "Tengerparti sétány",
+                "ro": "Paseo Marítimo",
+                "en": "Paseo Marítimo"
+              },
+              "tip_5lang": {
+                "de": "Entlang der Promenade gibt es viele Haltestellen.",
+                "hu": "A sétány mentén számos megálló található.",
+                "ro": "Există multe stații de-a lungul falezei.",
+                "en": "There are many stops along the promenade."
+              }
+            },
+            {
+              "name": {
+                "de": "Iglesia de los Remedios",
+                "hu": "Remedios-templom",
+                "ro": "Iglesia de los Remedios",
+                "en": "Remedios Church"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Fußweg von der Haltestelle 'Centro'.",
+                "hu": "Rövid séta a 'Centro' megállótól.",
+                "ro": "O scurtă plimbare de la stația 'Centro'.",
+                "en": "A short walk from the 'Centro' stop."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Ajoblanco",
+                "tip": "Kalte Mandelsuppe im Casa Doña Jeronima."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Ajoblanco",
+                "tip": "Hideg mandulaleves a Casa Doña Jeronima-ban."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Ajoblanco",
+                "tip": "Supă rece de migdale la Casa Doña Jeronima."
+              }
+            ],
+            "en": [
+              {
+                "name": "Ajoblanco",
+                "tip": "Cold almond soup at Casa Doña Jeronima."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Parque del Calvario",
+                "tip": "Grüne Oase mit Wasserspielen.",
+                "emoji": "🍃"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Parque del Calvario",
+                "tip": "Zöld oázis szökőkutakkal.",
+                "emoji": "🍃"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Parque del Calvario",
+                "tip": "Oază verde cu jocuri de apă.",
+                "emoji": "🍃"
+              }
+            ],
+            "en": [
+              {
+                "name": "Parque del Calvario",
+                "tip": "Green oasis with water features.",
+                "emoji": "🍃"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Calle Terraza",
+                "tip": "Bekannte Geschäftsstraße im Zentrum."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Calle Terraza",
+                "tip": "Ismert bevásárlóutca a központban."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Calle Terraza",
+                "tip": "Cunoscută stradă comercială din centru."
+              }
+            ],
+            "en": [
+              {
+                "name": "Calle Terraza",
+                "tip": "Known shopping street in the center."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Fahrkarten können direkt beim Fahrer gekauft werden.",
+              "Die Linien L1 und L2 decken die touristischen Ziele ab.",
+              "Hinterlassen Sie keine Wertsachen sichtbar im Bus."
+            ],
+            "hu": [
+              "Jegyet közvetlenül a sofőrnél vásárolhat.",
+              "Az L1-es és L2-es járatok lefedik a turisztikai célpontokat.",
+              "Ne hagyjon értéktárgyat látható helyen a buszon."
+            ],
+            "ro": [
+              "Biletele pot fi cumpărate direct de la șofer.",
+              "Liniile L1 și L2 acoperă destinațiile turistice.",
+              "Nu lăsați obiecte de valoare la vedere în autobuz."
+            ],
+            "en": [
+              "Tickets can be bought directly from the driver.",
+              "Lines L1 and L2 cover the main tourist sites.",
+              "Do not leave valuables visible on the bus."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Bus durch das regnerische Estepona: Wir starten an der Plaza de las Flores und nutzen die überdachten Haltestellen. Das Orchidarium ist das trockene Highlight des Vormittags. Danach geht es per Transit zu den Murals und zur Marina, wo wir den Hafen im Schutz der Gebäude erleben. Der Paseo Marítimo und die Kirche Remedios bilden den wettergeschützten Abschluss der Tour.",
+            "hu": "Busszal az esős Esteponában: a Plaza de las Floresnél kezdünk, kihasználva a fedett megállókat. Az Orchidarium a délelőtt száraz fénypontja. Ezután tömegközlekedéssel megyünk a muráliákhoz és a kikötőbe (Marina), ahol az épületek védelmében nézelődünk. A Paseo Marítimo és a Remedios templom zárja az időjárás viszontagságaitól védett utunkat.",
+            "ro": "Cu autobuzul prin Estepona ploioasă: începem la Plaza de las Flores folosind stațiile acoperite. Orchidarium este punctul culminant uscat al dimineții. Apoi mergem cu transportul public spre picturile murale și marină, unde stăm la adăpost. Faleza Paseo Marítimo și biserica Remedios încheie turul nostru protejat de vreme.",
+            "en": "By bus through rainy Estepona: starting at Plaza de las Flores using covered stops. The Orchidarium is the morning's dry highlight. Then, take transit to the murals and the Marina, staying under cover. The Paseo Marítimo and Remedios Church conclude the tour, keeping you mostly protected from the weather."
+          },
+          "stops": [
+            {
+              "name": "Plaza de las Flores",
+              "tip_5lang": {
+                "de": "Die Bushaltestellen an der Avenida España sind überdacht.",
+                "hu": "Az Avenida España buszmegállói fedettek.",
+                "ro": "Stațiile de autobuz de pe Avenida España sunt acoperite.",
+                "en": "The bus stops on Avenida España are covered."
+              }
+            },
+            {
+              "name": "Orchidarium",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg von der Haltestelle 'Orquidario'.",
+                "hu": "Rövid séta az 'Orquidario' megállótól.",
+                "ro": "Scurtă plimbare de la stația 'Orquidario'.",
+                "en": "Short walk from the 'Orquidario' bus stop."
+              }
+            },
+            {
+              "name": "Estepona Murals",
+              "tip_5lang": {
+                "de": "Die L1 Linie verbindet viele Murals-Standorte.",
+                "hu": "Az L1-es vonal sok murália-helyszínt érint.",
+                "ro": "Linia L1 face legătura între multe picturi murale.",
+                "en": "The L1 line connects many mural locations."
+              }
+            },
+            {
+              "name": "Marina",
+              "tip_5lang": {
+                "de": "Haltestelle direkt am Hafeneingang vorhanden.",
+                "hu": "A megálló közvetlenül a kikötő bejáratánál van.",
+                "ro": "Stația se află chiar la intrarea în port.",
+                "en": "The bus stop is right at the harbor entrance."
+              }
+            },
+            {
+              "name": "Paseo Marítimo",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Bus, um dem Wind am Meer zu entgehen.",
+                "hu": "Használja a buszt, hogy elkerülje a tengeri szelet.",
+                "ro": "Folosiți autobuzul pentru a evita vântul de pe faleză.",
+                "en": "Use the bus to avoid the strong sea wind."
+              }
+            },
+            {
+              "name": "Remedios Church",
+              "tip_5lang": {
+                "de": "Zentraler Ausstiegspunkt in der Altstadt.",
+                "hu": "Központi kiszállási pont az óvárosban.",
+                "ro": "Punct central de coborâre în orașul vechi.",
+                "en": "Central drop-off point in the old town area."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Halten Sie Kleingeld oder eine Karte für den Bus bereit.",
+              "Die Busse fahren bei Regen oft etwas unregelmäßiger.",
+              "Nutzen Sie die App 'Estepona en bus' für Echtzeitdaten.",
+              "Im Bus ist es trocken, aber bei hoher Feuchtigkeit beschlagen die Fenster.",
+              "Haben Sie Geduld an den Haltestellen ohne kompletten Schutz."
+            ],
+            "hu": [
+              "Készítsen elő aprópénzt vagy kártyát a buszhoz.",
+              "Esőben a buszok gyakran rendszertelenebbül járnak.",
+              "Használja az 'Estepona en bus' alkalmazást a valós idejű adatokhoz.",
+              "A buszon száraz az idő, de nagy pára esetén bepárásodhat az ablak.",
+              "Legyen türelmes a nem teljesen fedett megállókban."
+            ],
+            "ro": [
+              "Pregătiți mărunțiș sau un card pentru autobuz.",
+              "Autobuzele pot avea întârzieri când plouă.",
+              "Folosiți aplicația 'Estepona en bus' pentru date în timp real.",
+              "În autobuz este uscat, dar geamurile se pot aburi de la umiditate.",
+              "Aveți răbdare în stațiile care nu sunt complet acoperite."
+            ],
+            "en": [
+              "Have small change or a card ready for the bus fare.",
+              "Buses often run slightly less regularly when it rains.",
+              "Use the 'Estepona en bus' app for real-time tracking.",
+              "The bus is dry, but windows may fog up in high humidity.",
+              "Be patient at stops that lack full overhead cover."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterlicher Transit-Tag: Wir starten an der Plaza de las Flores in der milden Sonne. Das Orchidarium bietet eine willkommene Aufwärmpause. Per Bus erreichen wir die Murals und fahren weiter zur Marina für eine Brise Meeresluft. Den Nachmittag verbringen wir am Paseo Marítimo und besuchen die Kirche Remedios, bevor wir gemütlich im beheizten Bus zurückfahren.",
+            "hu": "Téli tömegközlekedős nap: enyhe napsütésben kezdünk a Plaza de las Floresnél. Az Orchidarium remek hely egy kis felmelegedéshez. Busszal megyünk a muráliákhoz, majd tovább a kikötőbe (Marina) egy kis tengeri levegőért. A délutánt a Paseo Marítimón töltjük és a Remedios templomot keressük fel, mielőtt a fűtött busszal visszatérnénk.",
+            "ro": "O zi de iarnă cu transportul public: începem sub soarele blând în Plaza de las Flores. Orchidarium este o pauză excelentă pentru încălzire. Cu autobuzul ajungem la picturile murale și continuăm spre marină pentru briza mării. După-amiaza o petrecem pe faleză și vizităm biserica Remedios, înainte de a ne întoarce cu autobuzul încălzit.",
+            "en": "A winter transit day: starting at Plaza de las Flores in the mild sun. The Orchidarium provides a welcome warm-up break. Reach the murals by bus and continue to the Marina for a breath of sea air. Spend the afternoon on the Paseo Marítimo and visit Remedios Church before heading back in a cozy, heated bus."
+          },
+          "stops": [
+            {
+              "name": "Plaza de las Flores",
+              "tip_5lang": {
+                "de": "In der Wintersonne an der Haltestelle warten ist angenehm.",
+                "hu": "A téli napon várakozni a megállóban kellemes.",
+                "ro": "Așteptarea în stație sub soarele de iarnă e plăcută.",
+                "en": "Waiting at the stop in the winter sun is pleasant."
+              }
+            },
+            {
+              "name": "Orchidarium",
+              "tip_5lang": {
+                "de": "Die Busse sind im Winter weniger überfüllt.",
+                "hu": "A buszok télen kevésbé zsúfoltak.",
+                "ro": "Autobuzele sunt mai puțin aglomerate iarna.",
+                "en": "Buses are generally less crowded during winter."
+              }
+            },
+            {
+              "name": "Estepona Murals",
+              "tip_5lang": {
+                "de": "Die Sicht aus dem Busfenster ist im Winter sehr klar.",
+                "hu": "A kilátás a buszablakból télen nagyon tiszta.",
+                "ro": "Vederea de pe geamul autobuzului e foarte clară iarna.",
+                "en": "The view from the bus window is very clear in winter."
+              }
+            },
+            {
+              "name": "Marina",
+              "tip_5lang": {
+                "de": "Ein schöner Ort für einen Spaziergang vor der Busfahrt.",
+                "hu": "Szép hely egy sétához a buszút előtt.",
+                "ro": "Un loc frumos pentru o plimbare înainte de autobuz.",
+                "en": "A lovely spot for a walk before catching the bus."
+              }
+            },
+            {
+              "name": "Paseo Marítimo",
+              "tip_5lang": {
+                "de": "Haltestellen an der Küste können im Winter zugig sein.",
+                "hu": "A tengerparti megállók télen huzatosak lehetnek.",
+                "ro": "Stațiile de pe coastă pot fi expuse la curent iarna.",
+                "en": "Coastal bus stops can be drafty during winter."
+              }
+            },
+            {
+              "name": "Remedios Church",
+              "tip_5lang": {
+                "de": "Letzte Busse fahren gegen 21 Uhr abends.",
+                "hu": "Az utolsó buszok este 9 óra körül indulnak.",
+                "ro": "Ultimele autobuze pleacă în jur de ora 21:00.",
+                "en": "Last buses depart around 9 PM in the evening."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Busse sind im Winter oft pünktlicher als im Sommer.",
+              "Vermeiden Sie das Warten in unbeschatteten Haltestellen mittags.",
+              "Andalusische Busse sind meist gut beheizt.",
+              "Der Winterfahrplan kann am Wochenende abweichen.",
+              "Nutzen Sie die Busfahrt, um die Küstenlandschaft zu genießen."
+            ],
+            "hu": [
+              "A buszok télen gyakran pontosabbak, mint nyáron.",
+              "Délben kerülje az árnyék nélküli megállókban való várakozást.",
+              "Az andalúz buszok általában jól fűtöttek.",
+              "A téli menetrend hétvégente eltérhet a hétköznapitól.",
+              "Használja ki a buszutat a part menti táj megcsodálására."
+            ],
+            "ro": [
+              "Autobuzele sunt adesea mai punctuale iarna decât vara.",
+              "Evitați așteptarea în stații fără umbră la amiază.",
+              "Autobuzele andaluze sunt de regulă bine încălzite.",
+              "Orarele de iarnă pot varia în weekend.",
+              "Folosiți drumul cu autobuzul pentru a admira coasta."
+            ],
+            "en": [
+              "Buses are often more punctual in winter than in summer.",
+              "Avoid waiting in unshaded bus stops at midday.",
+              "Andalusian buses are usually well-heated.",
+              "Winter schedules may differ on weekends.",
+              "Use the bus ride to enjoy the coastal scenery."
+            ]
+          }
+        }
+      }
+    }
+  },
+  "external_resources": {
+    "tourism_office": "https://www.estepona.es/",
+    "transit_official": "https://www.avanzabus.com/",
+    "events": "https://visitaestepona.com/",
+    "webcam": "https://www.skylinewebcams.com/",
+    "restaurants_booking": "https://www.tiqets.com/es",
+    "language_tips": {
+      "de": "Estepona ist multinational und an der Costa del Sol verbreitet sich Englisch flaechendeckend, viele Kellner sprechen auch Deutsch oder Niederlaendisch. Im alten Stadtkern mit den blumengeschmueckten Gassen lohnt ein 'que bonito' fuer einen freundlichen Plausch.",
+      "hu": "Estepona soknemzetiségű, a Costa del Solon az angol mindenhol megy, sok pincér ért németül vagy hollandul is. A virágos óváros sikátoraiban egy 'que bonito' azonnal beszélgetést indít a helyiekkel.",
+      "ro": "Estepona e multinationala, pe Costa del Sol engleza merge peste tot, multi ospatari stiu si germana sau olandeza. In centrul vechi cu ulite inflorate, un 'que bonito' deschide imediat o conversatie cu localnicii.",
+      "en": "Estepona is multinational and along the Costa del Sol English is universal, many waiters also speak German or Dutch. In the flower-filled old town a friendly 'que bonito' kicks off lovely chats with locals."
+    },
+    "best_time_to_visit": {
+      "de": "April bis Juni und September bis Oktober bieten warme Tage und leere Straende. Juli und August sind voll mit spanischen Urlaubern aus Madrid, der Winter ist mild und Golfsaison auf den umliegenden 17 Plaetzen.",
+      "hu": "Április-június és szeptember-október a legjobb: meleg napok, üresebb partok. Júliusban és augusztusban a madridi spanyolok özönlenek, télen pedig enyhe az idő és golfszezon van a környékbeli 17 pályán.",
+      "ro": "Aprilie-iunie si septembrie-octombrie ofera zile calde si plaje libere. Iulie si august sunt pline cu spanioli din Madrid, iarna e blanda si sezon de golf pe cele 17 terenuri din zona.",
+      "en": "April to June and September to October bring warm days and emptier beaches. July and August fill up with Spanish visitors from Madrid, winter is mild and prime golf season on the 17 nearby courses."
+    },
+    "neighborhood_warnings": {
+      "de": "Estepona ist eine der sichersten Staedte der Costa del Sol, das alte Zentrum und der Hafen sind tags und nachts entspannt. Vorsicht bei den nachts illegal parkenden Autos am Strand, im Hochsommer Taschen am Tisch in Strandrestaurants nicht abstellen.",
+      "hu": "Estepona a Costa del Sol egyik legbiztonságosabb városa, az óváros és a kikötő nappal-éjjel nyugodt. Vigyázz az illegálisan parkoló autóknál a strandon, nyár csúcsán a strandétteremben se tedd a táskát a földre.",
+      "ro": "Estepona e printre cele mai sigure orase de pe Costa del Sol, centrul vechi si portul sunt linistite zi si noapte. Atentie la masinile parcate ilegal pe plaja noaptea, vara nu lasa gentile pe jos in restaurantele de plaja.",
+      "en": "Estepona ranks among the safest Costa del Sol towns, the old centre and marina are calm day and night. Watch for cars parked illegally beachfront at night, in peak summer never leave bags on the floor in beach restaurants."
+    }
+  }
+}

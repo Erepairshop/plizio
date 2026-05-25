@@ -1,0 +1,2325 @@
+{
+  "city_id": "calpe",
+  "anchor": {
+    "name": "Plaza de la Constitución",
+    "coords": [
+      0.0444,
+      38.6453
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 3.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Casco Antiguo",
+          "coords": [
+            0.0452,
+            38.6465
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die bunt bemalten Gassen.",
+            "hu": "Sétálj végig a színesre festett szűk utcákon.",
+            "ro": "Plimbați-vă pe străzile înguste colorate.",
+            "en": "Stroll through the colorful painted narrow streets."
+          }
+        },
+        {
+          "name": "Torre de la Peça",
+          "coords": [
+            0.0448,
+            38.6462
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Teil der alten Stadtmauer gegen Korsaren.",
+            "hu": "A régi városfal része a kalózok ellen.",
+            "ro": "Parte a vechiului zid al orașului.",
+            "en": "Part of the old city wall against corsairs."
+          }
+        },
+        {
+          "name": "Iglesia Antigua",
+          "coords": [
+            0.0455,
+            38.646
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Einzigartige Wehrkirche im gotischen Stil.",
+            "hu": "Egyedülálló gótikus stílusú erődtemplom.",
+            "ro": "Biserică fortificată unică în stil gotic.",
+            "en": "Unique fortified church in Gothic style."
+          }
+        },
+        {
+          "name": "La Muralla Roja",
+          "coords": [
+            0.0385,
+            38.6415
+          ],
+          "category": "famous residences",
+          "arrive_at": "12:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Ikone der Architektur von Ricardo Bofill.",
+            "hu": "Ricardo Bofill építészeti ikonja.",
+            "ro": "Pictograma arhitecturală a lui Ricardo Bofill.",
+            "en": "Architectural icon by Ricardo Bofill."
+          }
+        },
+        {
+          "name": "Baños de la Reina",
+          "coords": [
+            0.0705,
+            38.6385
+          ],
+          "category": "natural features",
+          "arrive_at": "13:35",
+          "stay_min": 120,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Antike römische Fischzuchtanlage.",
+            "hu": "Antik római halgazdaság maradványai.",
+            "ro": "Vechile băi romane și crescătorie de pești.",
+            "en": "Ancient Roman fish farm remains."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie Calpe zu Fuß, beginnend im malerischen Casco Antiguo mit seinen Blumentöpfen und Treppen. Besuchen Sie die historische Wehrkirche und den Wehrturm, bevor Sie zum weltberühmten 'Muralla Roja' Komplex spazieren. Der Nachmittag endet entspannt an den 'Baños de la Reina', wo Sie in antiken römischen Becken baden können.",
+        "hu": "Fedezd fel Calpe-t gyalogosan, a festői Casco Antiguo-ban kezdve, virágos lépcsőivel és szűk utcáival. Látogasd meg a történelmi erődtemplomot és a tornyot, mielőtt a világhírű 'Muralla Roja' épülethez sétálnál. A délutánt a 'Baños de la Reina' római kori maradványainál töltheted frissítő fürdőzéssel.",
+        "ro": "Descoperiți Calpe pe jos, începând din pitorescul Casco Antiguo cu scările sale înflorite. Vizitați biserica fortificată și turnul istoric, înainte de a merge spre complexul 'Muralla Roja'. După-amiaza se încheie relaxat la 'Baños de la Reina', unde puteți înota în bazinele romane antice.",
+        "en": "Explore Calpe on foot, starting in the picturesque Casco Antiguo with its flowery stairs and narrow streets. Visit the historic fortified church and tower before walking to the world-famous 'Muralla Roja' complex. The afternoon ends relaxingly at 'Baños de la Reina', where you can swim in ancient Roman pools."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Cruet de Peix",
+            "tip": "Lokaler Fischeintopf nach Calpe-Art."
+          },
+          {
+            "name": "Arroz a banda",
+            "tip": "Reisgericht mit intensivem Fischgeschmack."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cruet de Peix",
+            "tip": "Helyi halragu Calpe módra."
+          },
+          {
+            "name": "Arroz a banda",
+            "tip": "Intenzív halízű rizsétel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cruet de Peix",
+            "tip": "Tocăniță de pește locală."
+          },
+          {
+            "name": "Arroz a banda",
+            "tip": "Mâncare de orez cu gust intens de pește."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cruet de Peix",
+            "tip": "Local fish stew Calpe style."
+          },
+          {
+            "name": "Arroz a banda",
+            "tip": "Rice dish with intense fish flavor."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Mirador de Carabineros",
+            "tip": "Stiller Blick auf das Meer.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mirador de Carabineros",
+            "tip": "Csendes kilátás a tengerre.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mirador de Carabineros",
+            "tip": "Vedere liniștită spre mare.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Mirador de Carabineros",
+            "tip": "Quiet view of the sea.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Calle Pescadores",
+            "tip": "Kleine Kunsthandwerksläden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Calle Pescadores",
+            "tip": "Kis kézműves boltok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Calle Pescadores",
+            "tip": "Mici magazine de artizanat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Calle Pescadores",
+            "tip": "Small craft shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Altstadt hat viele Stufen, tragen Sie bequeme Schuhe.",
+          "Die Muralla Roja ist bewohnt, bitte respektieren Sie die Privatsphäre.",
+          "Die römischen Bäder sind ideal zum Schnorcheln."
+        ],
+        "hu": [
+          "Az óváros sok lépcsővel rendelkezik, kényelmes cipőt válassz.",
+          "A Muralla Roja lakóház, tiszteld a lakók nyugalmát.",
+          "A római fürdők ideálisak egy kis búvárkodáshoz."
+        ],
+        "ro": [
+          "Orașul vechi are multe trepte, purtați pantofi confortabili.",
+          "Muralla Roja este locuită, respectați intimitatea.",
+          "Băile romane sunt ideale pentru snorkeling."
+        ],
+        "en": [
+          "The old town has many steps, wear comfortable shoes.",
+          "The Muralla Roja is inhabited, please respect privacy.",
+          "The Roman baths are ideal for snorkeling."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Entdecken Sie Calpe zu Fuß, beginnend im malerischen Casco Antiguo mit seinen Blumentöpfen und Treppen. Besuchen Sie die historische Wehrkirche und den Wehrturm, bevor Sie zum weltberühmten 'Muralla Roja' Komplex spazieren. Der Nachmittag endet entspannt an den 'Baños de la Reina', wo Sie in antiken römischen Becken baden können.",
+            "hu": "Fedezd fel Calpe-t gyalogosan, a festői Casco Antiguo-ban kezdve, virágos lépcsőivel és szűk utcáival. Látogasd meg a történelmi erődtemplomot és a tornyot, mielőtt a világhírű 'Muralla Roja' épülethez sétálnál. A délutánt a 'Baños de la Reina' római kori maradványainál töltheted frissítő fürdőzéssel.",
+            "ro": "Descoperiți Calpe pe jos, începând din pitorescul Casco Antiguo cu scările sale înflorite. Vizitați biserica fortificată și turnul istoric, înainte de a merge spre complexul 'Muralla Roja'. După-amiaza se încheie relaxat la 'Baños de la Reina', unde puteți înota în bazinele romane antice.",
+            "en": "Explore Calpe on foot, starting in the picturesque Casco Antiguo with its flowery stairs and narrow streets. Visit the historic fortified church and tower before walking to the world-famous 'Muralla Roja' complex. The afternoon ends relaxingly at 'Baños de la Reina', where you can swim in ancient Roman pools."
+          },
+          "stops": [
+            {
+              "name": "Casco Antiguo",
+              "tip_5lang": {
+                "de": "Schlendern Sie durch die bunt bemalten Gassen.",
+                "hu": "Sétálj végig a színesre festett szűk utcákon.",
+                "ro": "Plimbați-vă pe străzile înguste colorate.",
+                "en": "Stroll through the colorful painted narrow streets."
+              }
+            },
+            {
+              "name": "Torre de la Peça",
+              "tip_5lang": {
+                "de": "Teil der alten Stadtmauer gegen Korsaren.",
+                "hu": "A régi városfal része a kalózok ellen.",
+                "ro": "Parte a vechiului zid al orașului.",
+                "en": "Part of the old city wall against corsairs."
+              }
+            },
+            {
+              "name": "Iglesia Antigua",
+              "tip_5lang": {
+                "de": "Einzigartige Wehrkirche im gotischen Stil.",
+                "hu": "Egyedülálló gótikus stílusú erődtemplom.",
+                "ro": "Biserică fortificată unică în stil gotic.",
+                "en": "Unique fortified church in Gothic style."
+              }
+            },
+            {
+              "name": "La Muralla Roja",
+              "tip_5lang": {
+                "de": "Ikone der Architektur von Ricardo Bofill.",
+                "hu": "Ricardo Bofill építészeti ikonja.",
+                "ro": "Pictograma arhitecturală a lui Ricardo Bofill.",
+                "en": "Architectural icon by Ricardo Bofill."
+              }
+            },
+            {
+              "name": "Baños de la Reina",
+              "tip_5lang": {
+                "de": "Antike römische Fischzuchtanlage.",
+                "hu": "Antik római halgazdaság maradványai.",
+                "ro": "Vechile băi romane și crescătorie de pești.",
+                "en": "Ancient Roman fish farm remains."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Cruet de Peix",
+                "tip": "Lokaler Fischeintopf nach Calpe-Art."
+              },
+              {
+                "name": "Arroz a banda",
+                "tip": "Reisgericht mit intensivem Fischgeschmack."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Cruet de Peix",
+                "tip": "Helyi halragu Calpe módra."
+              },
+              {
+                "name": "Arroz a banda",
+                "tip": "Intenzív halízű rizsétel."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Cruet de Peix",
+                "tip": "Tocăniță de pește locală."
+              },
+              {
+                "name": "Arroz a banda",
+                "tip": "Mâncare de orez cu gust intens de pește."
+              }
+            ],
+            "en": [
+              {
+                "name": "Cruet de Peix",
+                "tip": "Local fish stew Calpe style."
+              },
+              {
+                "name": "Arroz a banda",
+                "tip": "Rice dish with intense fish flavor."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Mirador de Carabineros",
+                "tip": "Stiller Blick auf das Meer.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Mirador de Carabineros",
+                "tip": "Csendes kilátás a tengerre.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Mirador de Carabineros",
+                "tip": "Vedere liniștită spre mare.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Mirador de Carabineros",
+                "tip": "Quiet view of the sea.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Calle Pescadores",
+                "tip": "Kleine Kunsthandwerksläden."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Calle Pescadores",
+                "tip": "Kis kézműves boltok."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Calle Pescadores",
+                "tip": "Mici magazine de artizanat."
+              }
+            ],
+            "en": [
+              {
+                "name": "Calle Pescadores",
+                "tip": "Small craft shops."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Die Altstadt hat viele Stufen, tragen Sie bequeme Schuhe.",
+              "Die Muralla Roja ist bewohnt, bitte respektieren Sie die Privatsphäre.",
+              "Die römischen Bäder sind ideal zum Schnorcheln."
+            ],
+            "hu": [
+              "Az óváros sok lépcsővel rendelkezik, kényelmes cipőt válassz.",
+              "A Muralla Roja lakóház, tiszteld a lakók nyugalmát.",
+              "A római fürdők ideálisak egy kis búvárkodáshoz."
+            ],
+            "ro": [
+              "Orașul vechi are multe trepte, purtați pantofi confortabili.",
+              "Muralla Roja este locuită, respectați intimitatea.",
+              "Băile romane sunt ideale pentru snorkeling."
+            ],
+            "en": [
+              "The old town has many steps, wear comfortable shoes.",
+              "The Muralla Roja is inhabited, please respect privacy.",
+              "The Roman baths are ideal for snorkeling."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bieten die engen Gassen der Altstadt Schutz vor dem Regen. Mittags erkunden Sie die überdachten Bereiche der Torre de la Peça. Nachmittags führt der Weg zur Muralla Roja, deren Farben auch bei grauem Himmel leuchten. Abends endet die Tour bei den Baños de la Reina, wo das aufgewühlte Meer eine dramatische Kulisse bietet.",
+            "hu": "Reggel az óváros szűk utcái nyújtanak némi menedéket az eső elől. Délben a Torre de la Peça fedett részeit fedezzük fel. Délután a Muralla Roja színes falai között sétálunk, amelyek szürke égbolt alatt is látványosak. Este a királynő fürdőjénél zárjuk a napot, ahol a felkorbácsolt tenger látványa kárpótol a nedves időért.",
+            "ro": "Dimineața, străzile înguste din orașul vechi oferă adăpost împotriva ploii. La prânz, explorăm zonele acoperite ale Torre de la Peça. După-amiaza, vizităm Muralla Roja, ale cărei culori strălucesc chiar și sub cerul gri. Seara se încheie la Baños de la Reina, unde marea agitată creează un decor dramatic.",
+            "en": "In the morning, the narrow streets of the Old Town provide some shelter from the rain. At noon, explore the covered sections of Torre de la Peça. In the afternoon, visit La Muralla Roja, where the colors remain vibrant even under grey skies. The evening ends at the Queen's Baths, where the churning sea offers a dramatic backdrop."
+          },
+          "stops": [
+            {
+              "name": "Casco Antiguo",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Vordächer der Cafés, um trocken zu bleiben.",
+                "hu": "Használja a kávézók előtetőit a szárazon maradáshoz.",
+                "ro": "Folosiți copertinele cafenelelor pentru a rămâne uscați.",
+                "en": "Use the cafe awnings to stay dry while exploring."
+              }
+            },
+            {
+              "name": "Torre de la Peça",
+              "tip_5lang": {
+                "de": "Der Turm bietet guten Schutz bei plötzlichen Schauern.",
+                "hu": "A torony jó menedéket nyújt hirtelen záporok esetén.",
+                "ro": "Turnul oferă un adăpost bun în caz de averse bruște.",
+                "en": "The tower provides good shelter during sudden showers."
+              }
+            },
+            {
+              "name": "Iglesia Antigua",
+              "tip_5lang": {
+                "de": "Ideal für eine trockene Pause und kulturelle Besinnung.",
+                "hu": "Ideális egy száraz pihenőhöz és kulturális elmélyüléshez.",
+                "ro": "Ideal pentru o pauză uscată și reflecție culturală.",
+                "en": "Ideal for a dry break and cultural contemplation."
+              }
+            },
+            {
+              "name": "La Muralla Roja",
+              "tip_5lang": {
+                "de": "Vorsicht auf den nassen Treppenaußenbereichen.",
+                "hu": "Vigyázzon a vizes külső lépcsőkön.",
+                "ro": "Atenție pe scările exterioare umede.",
+                "en": "Be careful on the wet outdoor stairs."
+              }
+            },
+            {
+              "name": "Baños de la Reina",
+              "tip_5lang": {
+                "de": "Die Felsen sind bei Regen extrem rutschig.",
+                "hu": "A sziklák esőben rendkívül csúszósak.",
+                "ro": "Stâncile sunt extrem de alunecoase pe ploaie.",
+                "en": "The rocks are extremely slippery when wet."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe für das Kopfsteinpflaster in der Altstadt.",
+              "Ein Taschenschirm ist in den engen Gassen praktischer als ein großer Regenschirm.",
+              "Die Museen in der Nähe der Torre de la Peça sind perfekte Rückzugsorte.",
+              "Die Sicht auf den Peñón de Ifach kann bei starkem Regen eingeschränkt sein.",
+              "Achten Sie auf Pfützen in den tiefer gelegenen Bereichen der Strandpromenade."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt az óváros macskaköves utcáihoz.",
+              "Az összehajtható esernyő praktikusabb a szűk sikátorokban.",
+              "A Torre de la Peça környéki múzeumok tökéletes menedékek.",
+              "Heves esőben a Peñón de Ifach látványa korlátozott lehet.",
+              "Ügyeljen a tócsákra a tengerparti sétány alacsonyabb részein."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă pentru străzile pietruite din centrul vechi.",
+              "O umbrelă pliabilă este mai practică în aleile înguste.",
+              "Muzeele din apropierea Torre de la Peça sunt refugii perfecte.",
+              "Vizibilitatea asupra Peñón de Ifach poate fi limitată în caz de ploaie abundentă.",
+              "Atenție la bălțile din zonele joase ale falezei."
+            ],
+            "en": [
+              "Wear waterproof shoes for the cobblestone streets in the old town.",
+              "A compact umbrella is more practical in the narrow alleys than a large one.",
+              "The museums near Torre de la Peça are perfect retreats from the rain.",
+              "Visibility of Peñón de Ifach may be limited during heavy rain.",
+              "Watch out for puddles in the lower areas of the beach promenade."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Am klaren Wintermorgen ist die Luft in der Altstadt erfrischend. Mittags wärmt die milde Sonne den Kirchplatz. Nachmittags leuchten die Farben der Muralla Roja im tiefstehenden Licht besonders intensiv. Vor dem frühen Sonnenuntergang genießen Sie die Ruhe bei den Baños de la Reina ohne die sommerlichen Touristenströme.",
+            "hu": "A tiszta téli reggelen a levegő frissítő az óvárosban. Délben a lágy napsütés melengeti a templomteret. Délután a Muralla Roja színei különösen intenzíven ragyognak az alacsony napállásban. A korai naplemente előtt élvezze a nyugalmat a királynő fürdőjénél a nyári tömeg nélkül.",
+            "ro": "În dimineața senină de iarnă, aerul este revigorant în orașul vechi. La prânz, soarele blând încălzește piața bisericii. După-amiaza, culorile din Muralla Roja strălucesc intens în lumina joasă. Înainte de apusul timpuriu, bucurați-vă de liniștea de la Baños de la Reina, fără aglomerația de vară.",
+            "en": "On a clear winter morning, the air in the Old Town is refreshing. At noon, the mild sun warms the church square. In the afternoon, the colors of La Muralla Roja glow intensely in the low sunlight. Before the early sunset, enjoy the tranquility at the Queen's Baths without the summer crowds."
+          },
+          "stops": [
+            {
+              "name": "Casco Antiguo",
+              "tip_5lang": {
+                "de": "Die Nordseiten der Gassen bleiben im Winter recht kühl.",
+                "hu": "A sikátorok északi oldala télen elég hűvös marad.",
+                "ro": "Laturile de nord ale aleilor rămân destul de reci iarna.",
+                "en": "The north-facing sides of the alleys stay quite cool in winter."
+              }
+            },
+            {
+              "name": "Torre de la Peça",
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Fernsicht von den Wehrmauern.",
+                "hu": "Élvezze a tiszta távoli kilátást a várfalakról.",
+                "ro": "Bucurați-vă de vizibilitatea clară la distanță de pe ziduri.",
+                "en": "Enjoy the clear long-distance views from the defensive walls."
+              }
+            },
+            {
+              "name": "Iglesia Antigua",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort für Besinnung abseits der Saison.",
+                "hu": "Csendes hely az elmélyüléshez a főszezonon kívül.",
+                "ro": "Un loc liniștit pentru reflecție în afara sezonului.",
+                "en": "A peaceful place for contemplation outside the peak season."
+              }
+            },
+            {
+              "name": "La Muralla Roja",
+              "tip_5lang": {
+                "de": "Das Winterlicht bietet die besten Fotokontraste.",
+                "hu": "A téli fények adják a legjobb fotó-kontrasztokat.",
+                "ro": "Lumina de iarnă oferă cele mai bune contraste foto.",
+                "en": "Winter light offers the best photographic contrasts here."
+              }
+            },
+            {
+              "name": "Baños de la Reina",
+              "tip_5lang": {
+                "de": "Der Wind vom Meer kann hier im Winter sehr schneidend sein.",
+                "hu": "A tenger felőli szél télen itt nagyon metsző lehet.",
+                "ro": "Vântul dinspre mare poate fi foarte tăios aici iarna.",
+                "en": "The wind from the sea can be quite biting here in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Der Sonnenuntergang findet im Winter bereits gegen 17:45 Uhr statt.",
+              "Zwiebelprinzip bei der Kleidung: Die Sonne wärmt, der Schatten ist kühl.",
+              "Viele Cafés in der Altstadt haben auch im Winter Außentische in der Sonne.",
+              "Die Luftfeuchtigkeit ist niedriger, was die Sicht auf das Meer verbessert.",
+              "Ein heißer 'Chocolate con churros' ist der perfekte Snack nach dem Spaziergang."
+            ],
+            "hu": [
+              "A naplemente télen már 17:45 körül bekövetkezik.",
+              "Réteges öltözködés javasolt: a napon meleg van, árnyékban hűvös.",
+              "Sok óvárosi kávézó télen is tart fenn napsütötte kültéri asztalokat.",
+              "A páratartalom alacsonyabb, ami javítja a tengeri kilátást.",
+              "Egy forró 'Chocolate con churros' tökéletes uzsonna a séta után."
+            ],
+            "ro": [
+              "Apusul de soare are loc în jurul orei 17:45 iarna.",
+              "Îmbrăcați-vă în straturi: la soare e cald, la umbră e răcoare.",
+              "Multe cafenele din centrul vechi au mese la soare chiar și iarna.",
+              "Umiditatea este mai scăzută, ceea ce îmbunătățește vizibilitatea spre mare.",
+              "Un 'Chocolate con churros' fierbinte este gustarea perfectă după plimbare."
+            ],
+            "en": [
+              "Sunset occurs around 5:45 PM in the winter months.",
+              "Dress in layers: the sun is warm, but the shade is quite cool.",
+              "Many Old Town cafes keep sunny outdoor tables even in winter.",
+              "Humidity is lower, providing excellent clarity for sea views.",
+              "A hot 'Chocolate con churros' is the perfect post-walk snack."
+            ]
+          }
+        }
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "15:30",
+      "total_km": 9.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Paseo Ecológico",
+          "coords": [
+            0.082,
+            38.655
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Wunderschöner Weg entlang der Klippen.",
+            "hu": "Gyönyörű út a sziklák mentén.",
+            "ro": "Traseu minunat de-a lungul stâncilor.",
+            "en": "Beautiful path along the cliffs."
+          }
+        },
+        {
+          "name": "Las Salinas de Calpe",
+          "coords": [
+            0.0652,
+            38.6455
+          ],
+          "category": "natural features",
+          "arrive_at": "11:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Beobachten Sie die Flamingos im Salzsee.",
+            "hu": "Figyeld meg a flamingókat a sós tavon.",
+            "ro": "Observați flamingo în lacul sărat.",
+            "en": "Watch the flamingos in the salt lake."
+          }
+        },
+        {
+          "name": "Puerto de Calpe",
+          "coords": [
+            0.0735,
+            38.6362
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Erleben Sie die Fischauktion am Nachmittag.",
+            "hu": "Éld át a halárverést délután.",
+            "ro": "Experimentați licitația de pește.",
+            "en": "Experience the fish auction in the afternoon."
+          }
+        },
+        {
+          "name": "Baños de la Reina",
+          "coords": [
+            0.0705,
+            38.6385
+          ],
+          "category": "natural features",
+          "arrive_at": "13:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erfrischung im antiken Ambiente.",
+            "hu": "Frissítő fürdő antik környezetben.",
+            "ro": "Răcorire într-un cadru antic.",
+            "en": "Refreshment in an ancient setting."
+          }
+        },
+        {
+          "name": "Torre de la Peça",
+          "coords": [
+            0.0448,
+            38.6462
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:40",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Historischer Abschluss Ihrer Tour.",
+            "hu": "Történelmi zárása a túrának.",
+            "ro": "Final istoric al turului tău.",
+            "en": "Historic conclusion to your tour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie entlang des Paseo Ecológico und genießen Sie die Meeresbrise. Die Route führt Sie an den Salinas vorbei, wo oft Flamingos zu sehen sind. Nach einem Besuch im lebhaften Hafen und den antiken römischen Bädern kehren Sie in das Herz der Stadt zurück, um den Wehrturm zu besichtigen.",
+        "hu": "Bringázz a Paseo Ecológico mentén, élvezve a tengeri szellőt. Az útvonal a Salinas mellett vezet el, ahol gyakran láthatók flamingók. A nyüzsgő kikötő és az antik római fürdők után visszatérsz a város szívébe, hogy megnézd a történelmi őrtornyot.",
+        "ro": "Pedalați de-a lungul Paseo Ecológico și bucurați-vă de briza mării. Traseul trece pe lângă Salinas, unde pot fi văzuți adesea flamingo. După o vizită în portul plin de viață și la băile romane, reveniți în inima orașului.",
+        "en": "Cycle along the Paseo Ecológico and enjoy the sea breeze. The route takes you past the Salinas, where flamingos are often seen. After a visit to the lively port and the ancient Roman baths, return to the heart of the city to see the watchtower."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pescadito Frito",
+            "tip": "Frittierter Fisch direkt am Hafen."
+          },
+          {
+            "name": "Llandeta",
+            "tip": "Typisches Fischgericht der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pescadito Frito",
+            "tip": "Sült apróhal közvetlenül a kikötőben."
+          },
+          {
+            "name": "Llandeta",
+            "tip": "A régió jellegzetes halétele."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pescadito Frito",
+            "tip": "Pește prăjit direct în port."
+          },
+          {
+            "name": "Llandeta",
+            "tip": "Mâncare tipică de pește din regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pescadito Frito",
+            "tip": "Fried fish directly at the harbor."
+          },
+          {
+            "name": "Llandeta",
+            "tip": "Typical fish dish of the region."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Salinas Aussichtspunkt",
+            "tip": "Beobachtung der Vögel in Stille.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Salinas kilátó",
+            "tip": "Madármegfigyelés csendben.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punct de belvedere Salinas",
+            "tip": "Observarea păsărilor în liniște.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Salinas Viewpoint",
+            "tip": "Bird watching in silence.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fischmarkt",
+            "tip": "Frischer Fang des Tages."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Halpiac",
+            "tip": "A nap friss fogása."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața de pește",
+            "tip": "Captura proaspătă a zilei."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fish Market",
+            "tip": "Fresh catch of the day."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Der Küstenweg kann an manchen Stellen eng sein.",
+          "Achten Sie auf Fußgänger auf der Promenade.",
+          "Ein Schloss für das Fahrrad ist am Hafen ratsam."
+        ],
+        "hu": [
+          "A parti út néhol szűk lehet.",
+          "Figyelj a gyalogosokra a sétányon.",
+          "A kikötőben érdemes lezárni a bringát."
+        ],
+        "ro": [
+          "Poteca de coastă poate fi îngustă în unele locuri.",
+          "Fiți atenți la pietoni pe promenadă.",
+          "Un lacăt pentru bicicletă este recomandat în port."
+        ],
+        "en": [
+          "The coastal path can be narrow in some places.",
+          "Watch out for pedestrians on the promenade.",
+          "A bike lock is advisable at the harbor."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Radeln Sie entlang des Paseo Ecológico und genießen Sie die Meeresbrise. Die Route führt Sie an den Salinas vorbei, wo oft Flamingos zu sehen sind. Nach einem Besuch im lebhaften Hafen und den antiken römischen Bädern kehren Sie in das Herz der Stadt zurück, um den Wehrturm zu besichtigen.",
+            "hu": "Bringázz a Paseo Ecológico mentén, élvezve a tengeri szellőt. Az útvonal a Salinas mellett vezet el, ahol gyakran láthatók flamingók. A nyüzsgő kikötő és az antik római fürdők után visszatérsz a város szívébe, hogy megnézd a történelmi őrtornyot.",
+            "ro": "Pedalați de-a lungul Paseo Ecológico și bucurați-vă de briza mării. Traseul trece pe lângă Salinas, unde pot fi văzuți adesea flamingo. După o vizită în portul plin de viață și la băile romane, reveniți în inima orașului.",
+            "en": "Cycle along the Paseo Ecológico and enjoy the sea breeze. The route takes you past the Salinas, where flamingos are often seen. After a visit to the lively port and the ancient Roman baths, return to the heart of the city to see the watchtower."
+          },
+          "stops": [
+            {
+              "name": "Paseo Ecológico",
+              "tip_5lang": {
+                "de": "Wunderschöner Weg entlang der Klippen.",
+                "hu": "Gyönyörű út a sziklák mentén.",
+                "ro": "Traseu minunat de-a lungul stâncilor.",
+                "en": "Beautiful path along the cliffs."
+              }
+            },
+            {
+              "name": "Las Salinas de Calpe",
+              "tip_5lang": {
+                "de": "Beobachten Sie die Flamingos im Salzsee.",
+                "hu": "Figyeld meg a flamingókat a sós tavon.",
+                "ro": "Observați flamingo în lacul sărat.",
+                "en": "Watch the flamingos in the salt lake."
+              }
+            },
+            {
+              "name": "Puerto de Calpe",
+              "tip_5lang": {
+                "de": "Erleben Sie die Fischauktion am Nachmittag.",
+                "hu": "Éld át a halárverést délután.",
+                "ro": "Experimentați licitația de pește.",
+                "en": "Experience the fish auction in the afternoon."
+              }
+            },
+            {
+              "name": "Baños de la Reina",
+              "tip_5lang": {
+                "de": "Erfrischung im antiken Ambiente.",
+                "hu": "Frissítő fürdő antik környezetben.",
+                "ro": "Răcorire într-un cadru antic.",
+                "en": "Refreshment in an ancient setting."
+              }
+            },
+            {
+              "name": "Torre de la Peça",
+              "tip_5lang": {
+                "de": "Historischer Abschluss Ihrer Tour.",
+                "hu": "Történelmi zárása a túrának.",
+                "ro": "Final istoric al turului tău.",
+                "en": "Historic conclusion to your tour."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Pescadito Frito",
+                "tip": "Frittierter Fisch direkt am Hafen."
+              },
+              {
+                "name": "Llandeta",
+                "tip": "Typisches Fischgericht der Region."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Pescadito Frito",
+                "tip": "Sült apróhal közvetlenül a kikötőben."
+              },
+              {
+                "name": "Llandeta",
+                "tip": "A régió jellegzetes halétele."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Pescadito Frito",
+                "tip": "Pește prăjit direct în port."
+              },
+              {
+                "name": "Llandeta",
+                "tip": "Mâncare tipică de pește din regiune."
+              }
+            ],
+            "en": [
+              {
+                "name": "Pescadito Frito",
+                "tip": "Fried fish directly at the harbor."
+              },
+              {
+                "name": "Llandeta",
+                "tip": "Typical fish dish of the region."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Salinas Aussichtspunkt",
+                "tip": "Beobachtung der Vögel in Stille.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Salinas kilátó",
+                "tip": "Madármegfigyelés csendben.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Punct de belvedere Salinas",
+                "tip": "Observarea păsărilor în liniște.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Salinas Viewpoint",
+                "tip": "Bird watching in silence.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Fischmarkt",
+                "tip": "Frischer Fang des Tages."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Halpiac",
+                "tip": "A nap friss fogása."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Piața de pește",
+                "tip": "Captura proaspătă a zilei."
+              }
+            ],
+            "en": [
+              {
+                "name": "Fish Market",
+                "tip": "Fresh catch of the day."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Der Küstenweg kann an manchen Stellen eng sein.",
+              "Achten Sie auf Fußgänger auf der Promenade.",
+              "Ein Schloss für das Fahrrad ist am Hafen ratsam."
+            ],
+            "hu": [
+              "A parti út néhol szűk lehet.",
+              "Figyelj a gyalogosokra a sétányon.",
+              "A kikötőben érdemes lezárni a bringát."
+            ],
+            "ro": [
+              "Poteca de coastă poate fi îngustă în unele locuri.",
+              "Fiți atenți la pietoni pe promenadă.",
+              "Un lacăt pentru bicicletă este recomandat în port."
+            ],
+            "en": [
+              "The coastal path can be narrow in some places.",
+              "Watch out for pedestrians on the promenade.",
+              "A bike lock is advisable at the harbor."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Paseo Ecológico erfordert morgens bei Regen volle Konzentration wegen rutschiger Abschnitte. Mittags wirken die Salinas unter dem Wolkenhimmel besonders mystisch. Nachmittags geht es zum Hafen, wo die Fischerboote Schutz suchen. Den Tag beenden wir an der Torre de la Peça, während wir die Räder sicher abstellen.",
+            "hu": "A Paseo Ecológico reggel, esőben teljes koncentrációt igényel a csúszós szakaszok miatt. Délben a Salinas misztikus hangulatot áraszt a felhős ég alatt. Délután a kikötőbe tekerünk, ahol a halászhajók keresnek menedéket. A napot a Torre de la Peça-nál zárjuk, miután biztonságba helyeztük a bringákat.",
+            "ro": "Paseo Ecológico necesită concentrare maximă dimineața pe ploaie din cauza porțiunilor alunecoase. La prânz, Salinas pare mistic sub cerul înnorat. După-amiaza mergem în port, unde bărcile pescărești caută adăpost. Încheiem ziua la Torre de la Peça, lăsând bicicletele la adăpost.",
+            "en": "Paseo Ecológico requires full concentration on a rainy morning due to slippery sections. At noon, the Salinas look particularly mystical under a cloudy sky. In the afternoon, head to the port where fishing boats seek shelter. End the day at Torre de la Peça while parking the bikes securely."
+          },
+          "stops": [
+            {
+              "name": "Paseo Ecológico",
+              "tip_5lang": {
+                "de": "Reduzieren Sie die Geschwindigkeit auf den Holzstegen drastisch.",
+                "hu": "Jelentősen csökkentse a sebességet a fapallókon.",
+                "ro": "Reduceți drastic viteza pe podețele de lemn.",
+                "en": "Reduce your speed drastically on the wooden boardwalks."
+              }
+            },
+            {
+              "name": "Las Salinas de Calpe",
+              "tip_5lang": {
+                "de": "Die Wege um den See können schlammig sein.",
+                "hu": "A tó körüli utak sarasak lehetnek.",
+                "ro": "Potecile din jurul lacului pot fi noroioase.",
+                "en": "The paths around the lake can get muddy."
+              }
+            },
+            {
+              "name": "Puerto de Calpe",
+              "tip_5lang": {
+                "de": "Unterstände an der Fischbörse bieten trockene Pausen.",
+                "hu": "A halpiac alatti részek száraz pihenőhelyet kínálnak.",
+                "ro": "Adăposturile de la bursa de pește oferă pauze uscate.",
+                "en": "Shelters at the fish market provide dry breaks."
+              }
+            },
+            {
+              "name": "Baños de la Reina",
+              "tip_5lang": {
+                "de": "Vorsicht vor Gischt und Windböen direkt am Meer.",
+                "hu": "Vigyázzon a tengeri permetre és a széllökésekre a parton.",
+                "ro": "Atenție la stropii de mare și rafalele de vânt pe țărm.",
+                "en": "Watch out for sea spray and wind gusts near the shore."
+              }
+            },
+            {
+              "name": "Torre de la Peça",
+              "tip_5lang": {
+                "de": "Sichern Sie Ihr Rad an den überdachten Fahrradständern.",
+                "hu": "Zárja le a biciklit a fedett tárolóknál.",
+                "ro": "Asigurați bicicleta la suporturile acoperite.",
+                "en": "Secure your bike at the covered bike racks."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Bremsen vor dem Start; nasse Felgen bremsen schlechter.",
+              "Schutzbleche sind bei Regen in Calpe unerlässlich.",
+              "Vermeiden Sie weiße Straßenmarkierungen, diese werden extrem rutschig.",
+              "Tragen Sie eine gut sichtbare Regenjacke; die Sichtbarkeit sinkt rapide.",
+              "Die Strandpromenade kann bei Sturm gesperrt oder durch Sand rutschig sein."
+            ],
+            "hu": [
+              "Indulás előtt ellenőrizze a fékeket; a vizes felnik lassabban fognak.",
+              "A sárvédő elengedhetetlen Calpében esős időben.",
+              "Kerülje a fehér útburkolati jeleket, mert rendkívül csúszóssá válnak.",
+              "Viseljen jól látható esőkabátot; a láthatóság gyorsan csökken.",
+              "Viharos időben a tengerparti sétányt lezárhatják a homok miatt."
+            ],
+            "ro": [
+              "Verificați frânele înainte de pornire; jantele umede frânează mai greu.",
+              "Apărătorile de noroi sunt indispensabile în Calpe pe ploaie.",
+              "Evitați marcajele rutiere albe, acestea devin extrem de alunecoase.",
+              "Purtați o jachetă de ploaie reflectorizantă; vizibilitatea scade rapid.",
+              "Faleza poate fi închisă în caz de furtună sau poate fi alunecoasă din cauza nisipului."
+            ],
+            "en": [
+              "Check your brakes before starting; wet rims have reduced stopping power.",
+              "Fenders (mudguards) are essential when cycling in Calpe in the rain.",
+              "Avoid riding on white road markings as they become extremely slippery.",
+              "Wear a high-visibility rain jacket; visibility drops rapidly in rain.",
+              "The promenade may be closed during storms or be slippery with sand."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Wind begleitet uns morgens entlang des Paseo Ecológico. Mittags rasten wir bei den Salinas und beobachten die Flamingos im Winterquartier. Nachmittags ist der Hafen angenehm ruhig für eine Radpause. Zum Abschluss klettern wir mit den Rädern hoch zur Torre de la Peça und genießen das warme Abendlicht.",
+            "hu": "Friss szél kísér minket reggel a Paseo Ecológico mentén. Délben megpihenünk a Salinasnál, és megfigyeljük a téli szálláson időző flamingókat. Délután a kikötő kellemesen csendes egy kerékpáros pihenőhöz. Végezetül feltekerünk a Torre de la Peça-hoz, és élvezzük a meleg esti fényeket.",
+            "ro": "Un vânt proaspăt ne însoțește dimineața de-a lungul Paseo Ecológico. La prânz ne odihnim la Salinas și observăm flamingo în cartierul de iarnă. După-amiaza, portul este plăcut de liniștit pentru o pauză. La final, urcăm cu bicicletele spre Torre de la Peça și savurăm lumina caldă de seară.",
+            "en": "A fresh breeze accompanies us in the morning along the Paseo Ecológico. At noon, rest by the Salinas and observe the flamingos in their winter quarters. In the afternoon, the port is pleasantly quiet for a bike break. Finally, we cycle up to Torre de la Peça and enjoy the warm evening light."
+          },
+          "stops": [
+            {
+              "name": "Paseo Ecológico",
+              "tip_5lang": {
+                "de": "Ein leichter Windschutz ist für die Küstenabschnitte ratsam.",
+                "hu": "A parti szakaszokon tanácsos könnyű szélvédőt viselni.",
+                "ro": "O jachetă anti-vânt este recomandată pentru secțiunile de coastă.",
+                "en": "A light windbreaker is advisable for the coastal sections."
+              }
+            },
+            {
+              "name": "Las Salinas de Calpe",
+              "tip_5lang": {
+                "de": "Beste Zeit, um Flamingos ohne menschliche Störung zu sehen.",
+                "hu": "A legjobb idő a flamingók megfigyelésére zavarás nélkül.",
+                "ro": "Cel mai bun moment pentru a vedea flamingo fără deranj.",
+                "en": "Best time to see flamingos without human disturbance."
+              }
+            },
+            {
+              "name": "Puerto de Calpe",
+              "tip_5lang": {
+                "de": "Im Winter gibt es hier viele freie Fahrradparkplätze.",
+                "hu": "Télen rengeteg szabad kerékpárparkoló van itt.",
+                "ro": "Iarna există multe locuri de parcare libere pentru biciclete.",
+                "en": "There are plenty of free bike parking spots here in winter."
+              }
+            },
+            {
+              "name": "Baños de la Reina",
+              "tip_5lang": {
+                "de": "Die Wintersonne steht hier perfekt für Nachmittagsfotos.",
+                "hu": "A téli napállás tökéletes a délutáni fotókhoz.",
+                "ro": "Soarele de iarnă este perfect aici pentru fotografii de după-amiază.",
+                "en": "The winter sun is perfectly positioned here for afternoon photos."
+              }
+            },
+            {
+              "name": "Torre de la Peça",
+              "tip_5lang": {
+                "de": "Der Anstieg wärmt Sie vor der Abfahrt wieder auf.",
+                "hu": "Az emelkedő jól felmelegít a lejtő előtt.",
+                "ro": "Urcarea vă va încălzi înainte de coborâre.",
+                "en": "The climb will warm you up before the descent."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Handschuhe sind bei Abfahrten im Winter in Calpe sehr zu empfehlen.",
+              "Die Tage sind kurz; sorgen Sie für funktionierende Fahrradbeleuchtung.",
+              "Im Winter sind die Radwege weniger überfüllt, genießen Sie das Tempo.",
+              "Nutzen Sie die Mittagsstunden für die längsten Etappen im Sonnenschein.",
+              "Trinken Sie trotz Kälte genug; die trockene Winterluft dehydriert."
+            ],
+            "hu": [
+              "Téli lejtmenetnél Calpében nagyon ajánlott a kesztyű használata.",
+              "A nappalok rövidek; gondoskodjon a működő kerékpár-világításról.",
+              "Télen a kerékpárutak kevésbé zsúfoltak, élvezze a tempót.",
+              "A déli órákat használja a leghosszabb napsütéses szakaszokra.",
+              "Hideg ellenére is igyon eleget; a száraz téli levegő dehidratál."
+            ],
+            "ro": [
+              "Mănușile sunt foarte recomandate pentru coborârile de iarnă în Calpe.",
+              "Zilele sunt scurte; asigurați-vă că aveți lumini funcționale la bicicletă.",
+              "Iarna pistele de biciclete sunt mai puțin aglomerate, profitați de ritm.",
+              "Folosiți orele prânzului pentru cele mai lungi etape la soare.",
+              "Beți suficient în ciuda frigului; aerul uscat de iarnă deshidratează."
+            ],
+            "en": [
+              "Gloves are highly recommended for winter descents in Calpe.",
+              "Days are short; ensure your bike lights are in working order.",
+              "Cycle paths are less crowded in winter, so enjoy the faster pace.",
+              "Use the midday hours for the longest stretches in the sunshine.",
+              "Drink enough despite the cold; dry winter air can dehydrate you."
+            ]
+          }
+        }
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 15.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Peñón de Ifach",
+          "coords": [
+            0.0755,
+            38.6355
+          ],
+          "category": "natural features",
+          "arrive_at": "09:15",
+          "stay_min": 150,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Das Wahrzeichen der Costa Blanca.",
+            "hu": "A Costa Blanca ikonikus jelképe.",
+            "ro": "Simbolul coastei Costa Blanca.",
+            "en": "The iconic landmark of the Costa Blanca."
+          }
+        },
+        {
+          "name": "Las Salinas de Calpe",
+          "coords": [
+            0.0652,
+            38.6455
+          ],
+          "category": "natural features",
+          "arrive_at": "12:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Naturparadies mitten in der Stadt.",
+            "hu": "Természeti paradicsom a város közepén.",
+            "ro": "Paradis natural în mijlocul orașului.",
+            "en": "Natural paradise in the middle of the city."
+          }
+        },
+        {
+          "name": "Baños de la Reina",
+          "coords": [
+            0.0705,
+            38.6385
+          ],
+          "category": "natural features",
+          "arrive_at": "12:55",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Historisches Bad im Meer.",
+            "hu": "Történelmi fürdőzés a tengerben.",
+            "ro": "Baie istorică în mare.",
+            "en": "Historic swim in the sea."
+          }
+        },
+        {
+          "name": "La Muralla Roja",
+          "coords": [
+            0.0385,
+            38.6415
+          ],
+          "category": "famous residences",
+          "arrive_at": "14:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Perfekt für Architektur-Fotografen.",
+            "hu": "Tökéletes hely az építészet szerelmeseinek.",
+            "ro": "Perfect pentru fotografii de arhitectură.",
+            "en": "Perfect for architecture photographers."
+          }
+        },
+        {
+          "name": "Casco Antiguo",
+          "coords": [
+            0.0452,
+            38.6465
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "15:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Abendlicher Spaziergang zum Abschluss.",
+            "hu": "Esti séta a nap zárásaként.",
+            "ro": "O plimbare de seară pentru final.",
+            "en": "Evening stroll to conclude the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie mit einer Wanderung auf den Peñón de Ifach für eine unschlagbare Aussicht. Danach geht es zu den Salinas und den römischen Bädern. Bestaunen Sie die Muralla Roja und lassen Sie den Tag in den verwinkelten Gassen der Altstadt ausklingen, wo Sie das echte spanische Lebensgefühl spüren.",
+        "hu": "Kezdd a napot a Peñón de Ifach megmászásával a verhetetlen kilátásért. Ezután irány a Salinas és a római fürdők. Csodáld meg a Muralla Roja épületét, majd zárd a napot az óváros kanyargós utcáin, ahol átélheted az igazi spanyol életérzést.",
+        "ro": "Începeți cu o drumeție pe Peñón de Ifach pentru o vedere imbatabilă. Apoi mergi la Salinas și la băile romane. Admirați Muralla Roja și încheiați ziua pe străzile întortocheate ale orașului vechi.",
+        "en": "Start with a hike up the Peñón de Ifach for an unbeatable view. Then head to the Salinas and the Roman baths. Marvel at the Muralla Roja and end the day in the winding streets of the old town, where you can feel the true Spanish way of life."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Espencat",
+            "tip": "Geröstetes Gemüse mit Kabeljau."
+          },
+          {
+            "name": "Mestall",
+            "tip": "Traditionelles lokales Brotgericht."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Espencat",
+            "tip": "Sült zöldségek tőkehallal."
+          },
+          {
+            "name": "Mestall",
+            "tip": "Hagyományos helyi kenyérétel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Espencat",
+            "tip": "Legume coapte cu cod."
+          },
+          {
+            "name": "Mestall",
+            "tip": "Mâncare tradițională de pâine locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Espencat",
+            "tip": "Roasted vegetables with cod."
+          },
+          {
+            "name": "Mestall",
+            "tip": "Traditional local bread dish."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Cala del Morelló",
+            "tip": "Kleine Bucht neben den Bädern.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cala del Morelló",
+            "tip": "Kis öböl a fürdők mellett.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cala del Morelló",
+            "tip": "Mic golf lângă băi.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cala del Morelló",
+            "tip": "Small cove next to the baths.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirs Calpe",
+            "tip": "Typische Keramik und Fächer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Calpe Szuvenír",
+            "tip": "Tipikus kerámiák és legyezők."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Suveniruri Calpe",
+            "tip": "Ceramică tipică și evantaie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Calpe Souvenirs",
+            "tip": "Typical ceramics and fans."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken am Ifach kann schwierig sein, kommen Sie früh.",
+          "Für den Aufstieg zum Ifach ist eine Online-Reservierung nötig.",
+          "Die Straßen in der Altstadt sind teilweise gesperrt."
+        ],
+        "hu": [
+          "A parkolás az Ifach-nál nehéz lehet, érkezz korán.",
+          "Az Ifach-ra való feljutáshoz online foglalás szükséges.",
+          "Az óváros egyes utcái le vannak zárva az autók elől."
+        ],
+        "ro": [
+          "Parcarea la Ifach poate fi dificilă, veniți devreme.",
+          "Rezervarea online este necesară pentru a urca pe Ifach.",
+          "Unele străzi din orașul vechi sunt închise traficului."
+        ],
+        "en": [
+          "Parking at Ifach can be difficult, come early.",
+          "An online reservation is required to climb the Ifach.",
+          "Some streets in the old town are closed to cars."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie mit einer Wanderung auf den Peñón de Ifach für eine unschlagbare Aussicht. Danach geht es zu den Salinas und den römischen Bädern. Bestaunen Sie die Muralla Roja und lassen Sie den Tag in den verwinkelten Gassen der Altstadt ausklingen, wo Sie das echte spanische Lebensgefühl spüren.",
+            "hu": "Kezdd a napot a Peñón de Ifach megmászásával a verhetetlen kilátásért. Ezután irány a Salinas és a római fürdők. Csodáld meg a Muralla Roja épületét, majd zárd a napot az óváros kanyargós utcáin, ahol átélheted az igazi spanyol életérzést.",
+            "ro": "Începeți cu o drumeție pe Peñón de Ifach pentru o vedere imbatabilă. Apoi mergi la Salinas și la băile romane. Admirați Muralla Roja și încheiați ziua pe străzile întortocheate ale orașului vechi.",
+            "en": "Start with a hike up the Peñón de Ifach for an unbeatable view. Then head to the Salinas and the Roman baths. Marvel at the Muralla Roja and end the day in the winding streets of the old town, where you can feel the true Spanish way of life."
+          },
+          "stops": [
+            {
+              "name": "Peñón de Ifach",
+              "tip_5lang": {
+                "de": "Das Wahrzeichen der Costa Blanca.",
+                "hu": "A Costa Blanca ikonikus jelképe.",
+                "ro": "Simbolul coastei Costa Blanca.",
+                "en": "The iconic landmark of the Costa Blanca."
+              }
+            },
+            {
+              "name": "Las Salinas de Calpe",
+              "tip_5lang": {
+                "de": "Naturparadies mitten in der Stadt.",
+                "hu": "Természeti paradicsom a város közepén.",
+                "ro": "Paradis natural în mijlocul orașului.",
+                "en": "Natural paradise in the middle of the city."
+              }
+            },
+            {
+              "name": "Baños de la Reina",
+              "tip_5lang": {
+                "de": "Historisches Bad im Meer.",
+                "hu": "Történelmi fürdőzés a tengerben.",
+                "ro": "Baie istorică în mare.",
+                "en": "Historic swim in the sea."
+              }
+            },
+            {
+              "name": "La Muralla Roja",
+              "tip_5lang": {
+                "de": "Perfekt für Architektur-Fotografen.",
+                "hu": "Tökéletes hely az építészet szerelmeseinek.",
+                "ro": "Perfect pentru fotografii de arhitectură.",
+                "en": "Perfect for architecture photographers."
+              }
+            },
+            {
+              "name": "Casco Antiguo",
+              "tip_5lang": {
+                "de": "Abendlicher Spaziergang zum Abschluss.",
+                "hu": "Esti séta a nap zárásaként.",
+                "ro": "O plimbare de seară pentru final.",
+                "en": "Evening stroll to conclude the day."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Espencat",
+                "tip": "Geröstetes Gemüse mit Kabeljau."
+              },
+              {
+                "name": "Mestall",
+                "tip": "Traditionelles lokales Brotgericht."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Espencat",
+                "tip": "Sült zöldségek tőkehallal."
+              },
+              {
+                "name": "Mestall",
+                "tip": "Hagyományos helyi kenyérétel."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Espencat",
+                "tip": "Legume coapte cu cod."
+              },
+              {
+                "name": "Mestall",
+                "tip": "Mâncare tradițională de pâine locală."
+              }
+            ],
+            "en": [
+              {
+                "name": "Espencat",
+                "tip": "Roasted vegetables with cod."
+              },
+              {
+                "name": "Mestall",
+                "tip": "Traditional local bread dish."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Cala del Morelló",
+                "tip": "Kleine Bucht neben den Bädern.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Cala del Morelló",
+                "tip": "Kis öböl a fürdők mellett.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Cala del Morelló",
+                "tip": "Mic golf lângă băi.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Cala del Morelló",
+                "tip": "Small cove next to the baths.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Souvenirs Calpe",
+                "tip": "Typische Keramik und Fächer."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Calpe Szuvenír",
+                "tip": "Tipikus kerámiák és legyezők."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Suveniruri Calpe",
+                "tip": "Ceramică tipică și evantaie."
+              }
+            ],
+            "en": [
+              {
+                "name": "Calpe Souvenirs",
+                "tip": "Typical ceramics and fans."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Parken am Ifach kann schwierig sein, kommen Sie früh.",
+              "Für den Aufstieg zum Ifach ist eine Online-Reservierung nötig.",
+              "Die Straßen in der Altstadt sind teilweise gesperrt."
+            ],
+            "hu": [
+              "A parkolás az Ifach-nál nehéz lehet, érkezz korán.",
+              "Az Ifach-ra való feljutáshoz online foglalás szükséges.",
+              "Az óváros egyes utcái le vannak zárva az autók elől."
+            ],
+            "ro": [
+              "Parcarea la Ifach poate fi dificilă, veniți devreme.",
+              "Rezervarea online este necesară pentru a urca pe Ifach.",
+              "Unele străzi din orașul vechi sunt închise traficului."
+            ],
+            "en": [
+              "Parking at Ifach can be difficult, come early.",
+              "An online reservation is required to climb the Ifach.",
+              "Some streets in the old town are closed to cars."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens fahren wir zum Peñón de Ifach, dessen Gipfel oft in Wolken gehüllt ist. Mittags bieten die Salinas vom Auto aus einen guten Blick auf die Flamingos. Nachmittags nutzen wir das Auto als Basis für kurze Abstecher zu den Baños de la Reina und der Muralla Roja. Abends parken wir nahe der Altstadt für einen gemütlichen Abschluss.",
+            "hu": "Reggel a Peñón de Ifach-hoz hajtunk, melynek csúcsa gyakran felhőkbe burkolózik. Délben a Salinas az autóból is jó kilátást nyújt a flamingókra. Délután az autót bázisként használjuk a királynő fürdőjéhez és a Muralla Rojához tett rövid kiruccanásokhoz. Este az óváros közelében parkolunk a nap zárásához.",
+            "ro": "Dimineața conducem spre Peñón de Ifach, al cărui vârf este adesea învăluit în nori. La prânz, Salinas oferă o vedere bună asupra flamingo chiar din mașină. După-amiaza folosim mașina ca bază pentru scurte vizite la Baños de la Reina și Muralla Roja. Seara parcăm lângă centrul vechi pentru final.",
+            "en": "In the morning, drive to Peñón de Ifach, whose peak is often shrouded in clouds. At noon, the Salinas offer a good view of the flamingos from the car. In the afternoon, use the car as a base for short excursions to the Queen's Baths and La Muralla Roja. In the evening, park near the Old Town for a cozy finish."
+          },
+          "stops": [
+            {
+              "name": "Peñón de Ifach",
+              "tip_5lang": {
+                "de": "Vermeiden Sie den Aufstieg zum Gipfel bei starkem Regen.",
+                "hu": "Heves esőben kerülje a csúcsra való feljutást.",
+                "ro": "Evitați urcarea pe vârf în caz de ploaie abundentă.",
+                "en": "Avoid climbing to the summit during heavy rain."
+              }
+            },
+            {
+              "name": "Las Salinas de Calpe",
+              "tip_5lang": {
+                "de": "Es gibt Parkplätze mit direktem Blick auf den See.",
+                "hu": "Vannak parkolóhelyek közvetlen kilátással a tóra.",
+                "ro": "Există locuri de parcare cu vedere directă la lac.",
+                "en": "There are parking spots with a direct view of the lake."
+              }
+            },
+            {
+              "name": "Baños de la Reina",
+              "tip_5lang": {
+                "de": "Der Parkplatz kann bei Regen tiefe Pfützen haben.",
+                "hu": "A parkolóban esőben mély tócsák alakulhatnak ki.",
+                "ro": "Parcarea poate avea bălți adânci în caz de ploaie.",
+                "en": "The parking area can have deep puddles when it rains."
+              }
+            },
+            {
+              "name": "La Muralla Roja",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Auto zum Umziehen nach dem Fotostopp.",
+                "hu": "Használja az autót átöltözéshez a fotózás után.",
+                "ro": "Folosiți mașina pentru a vă schimba după oprirea foto.",
+                "en": "Use the car as a base to change clothes after the photo stop."
+              }
+            },
+            {
+              "name": "Casco Antiguo",
+              "tip_5lang": {
+                "de": "Das Parkhaus im Zentrum hält Sie beim Aussteigen trocken.",
+                "hu": "A központi parkolóház szárazon tart kiszálláskor.",
+                "ro": "Parcarea etajată din centru vă menține uscați la coborâre.",
+                "en": "The central parking garage keeps you dry when getting out."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahren Sie vorsichtig; die Straßen in Calpe werden bei Regen schmierig.",
+              "Nutzen Sie die Klimaanlage gegen beschlagene Scheiben.",
+              "Parkplätze direkt am Strand sind bei Regen meist problemlos zu finden.",
+              "Halten Sie Decken im Auto bereit, falls Sie nass geworden sind.",
+              "Prüfen Sie den Zustand Ihrer Wischerblätter vor der Fahrt an der Küste."
+            ],
+            "hu": [
+              "Vezessen óvatosan; Calpe útjai esőben csúszóssá válnak.",
+              "Használja a légkondicionálót a szélvédő páramentesítésére.",
+              "Esőben általában könnyű parkolóhelyet találni közvetlenül a parton.",
+              "Tartson takarót az autóban, ha esetleg megázna.",
+              "Ellenőrizze az ablaktörlők állapotát a parti út előtt."
+            ],
+            "ro": [
+              "Conduceți cu atenție; drumurile din Calpe devin alunecoase pe ploaie.",
+              "Folosiți aerul condiționat pentru a dezaburi geamurile.",
+              "Locurile de parcare de pe plajă sunt de obicei ușor de găsit pe ploaie.",
+              "Țineți pături în mașină în caz că v-ați udat.",
+              "Verificați starea ștergătoarelor înainte de drumul pe coastă."
+            ],
+            "en": [
+              "Drive carefully; Calpe's roads can get greasy when wet.",
+              "Use the air conditioning to prevent the windows from fogging up.",
+              "Beachside parking is usually easy to find during rainy weather.",
+              "Keep blankets in the car in case you get soaked during a stop.",
+              "Check the condition of your wiper blades before driving along the coast."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens genießen wir die klare Luft am Peñón de Ifach. Mittags geht es zu den Salinas, wo das Winterlicht die Flamingos perfekt beleuchtet. Nachmittags besuchen wir die Baños de la Reina und die Muralla Roja unter tiefstehender Sonne. Abends finden wir mühelos einen Parkplatz für den Spaziergang durch das ruhige Casco Antiguo.",
+            "hu": "Reggel élvezzük a tiszta levegőt a Peñón de Ifach-nál. Délben a Salinas felé vesszük az irányt, ahol a téli fények tökéletesen megvilágítják a flamingókat. Délután a királynő fürdőjét és a Muralla Roját látogatjuk meg az alacsonyan járó nap alatt. Este könnyen találunk parkolót a csendes óvárosi sétához.",
+            "ro": "Dimineața savurăm aerul curat de la Peñón de Ifach. La prânz mergem la Salinas, unde lumina de iarnă luminează perfect flamingo. După-amiaza vizităm Baños de la Reina și Muralla Roja sub soarele jos. Seara găsim fără efort parcare pentru o plimbare prin centrul vechi liniștit.",
+            "en": "In the morning, enjoy the crisp air at Peñón de Ifach. At noon, head to the Salinas, where the winter light illuminates the flamingos perfectly. In the afternoon, visit the Queen's Baths and La Muralla Roja under the low sun. In the evening, easily find parking for a stroll through the quiet Old Town."
+          },
+          "stops": [
+            {
+              "name": "Peñón de Ifach",
+              "tip_5lang": {
+                "de": "Die Parkplatzsituation am Naturpark ist im Winter entspannt.",
+                "hu": "A nemzeti parknál télen nagyon kedvező a parkolási helyzet.",
+                "ro": "Situația parcării la parcul natural este relaxată iarna.",
+                "en": "Parking at the nature park is very easy to find in winter."
+              }
+            },
+            {
+              "name": "Las Salinas de Calpe",
+              "tip_5lang": {
+                "de": "Beste Sicht auf den See ohne Hitze-Flimmern.",
+                "hu": "A legjobb kilátás a tóra hőség okozta vibrálás nélkül.",
+                "ro": "Cea mai bună vedere asupra lacului fără vibrațiile căldurii.",
+                "en": "Best view of the lake without heat haze distortion."
+              }
+            },
+            {
+              "name": "Baños de la Reina",
+              "tip_5lang": {
+                "de": "Kurze Wege vom Parkplatz sind bei kühlem Wind ideal.",
+                "hu": "A parkolótól való rövid távolság ideális hűvös szélben.",
+                "ro": "Distanța scurtă de la parcare este ideală în vânt rece.",
+                "en": "Short walks from the parking lot are ideal in the cool wind."
+              }
+            },
+            {
+              "name": "La Muralla Roja",
+              "tip_5lang": {
+                "de": "Das weiche Licht ist ideal für Architekturfotografie.",
+                "hu": "A lágy fények ideálisak az építészeti fotózáshoz.",
+                "ro": "Lumina caldă este ideală pentru fotografia de arhitectură.",
+                "en": "The soft winter light is ideal for architectural photography."
+              }
+            },
+            {
+              "name": "Casco Antiguo",
+              "tip_5lang": {
+                "de": "Viele Straßenparkplätze sind im Winter gebührenfrei.",
+                "hu": "Télen sok utcai parkolóhely díjmentesen használható.",
+                "ro": "Multe locuri de parcare pe stradă sunt gratuite iarna.",
+                "en": "Many street parking spots are free of charge in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Nebensaison für stressfreies Parken überall.",
+              "Die Batterieleistung kann bei kühleren Temperaturen leicht sinken.",
+              "Vermeiden Sie das Fahren direkt am Wasser bei starkem Wintersturm.",
+              "Die klare Winterluft sorgt für spektakuläre Fernsichten auf die Küste.",
+              "Planen Sie Ihre Fahrten so, dass Sie zum Sonnenuntergang am Meer sind."
+            ],
+            "hu": [
+              "Használja ki az utószezont a mindenütt stresszmentes parkoláshoz.",
+              "Az akkumulátor teljesítménye hűvösebb időben kissé csökkenhet.",
+              "Erős téli viharban kerülje a közvetlenül a víz melletti vezetést.",
+              "A tiszta téli levegő látványos távoli kilátást biztosít a partra.",
+              "Úgy tervezze az utat, hogy a naplementére a tengerparton legyen."
+            ],
+            "ro": [
+              "Profitați de extrasezon pentru o parcare fără stres peste tot.",
+              "Performanța bateriei poate scădea ușor la temperaturi mai scăzute.",
+              "Evitați condusul direct lângă apă în timpul furtunilor de iarnă.",
+              "Aerul curat de iarnă oferă vederi spectaculoase asupra coastei.",
+              "Planificați călătoriile astfel încât să fiți la mare la apus."
+            ],
+            "en": [
+              "Take advantage of the off-season for stress-free parking everywhere.",
+              "Battery performance can drop slightly in cooler temperatures.",
+              "Avoid driving directly by the water during strong winter storms.",
+              "Clear winter air provides spectacular long-distance coastal views.",
+              "Plan your drives to be by the sea in time for the sunset."
+            ]
+          }
+        }
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 10.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Las Salinas de Calpe",
+          "coords": [
+            0.0652,
+            38.6455
+          ],
+          "category": "natural features",
+          "arrive_at": "09:15",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Einfach per Bus erreichbar.",
+            "hu": "Busszal könnyen megközelíthető.",
+            "ro": "Ușor accesibil cu autobuzul.",
+            "en": "Easily accessible by bus."
+          }
+        },
+        {
+          "name": "Puerto de Calpe",
+          "coords": [
+            0.0735,
+            38.6362
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:20",
+          "stay_min": 70,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Zentrum der Fischerei.",
+            "hu": "A halászat központja.",
+            "ro": "Centrul pescuitului.",
+            "en": "The center of fishing."
+          }
+        },
+        {
+          "name": "Peñón de Ifach",
+          "coords": [
+            0.0755,
+            38.6355
+          ],
+          "category": "natural features",
+          "arrive_at": "11:45",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Wanderung am Fuße des Felsens.",
+            "hu": "Séta a szikla lábánál.",
+            "ro": "O plimbare la baza stâncii.",
+            "en": "A walk at the base of the rock."
+          }
+        },
+        {
+          "name": "Playa de la Fossa",
+          "coords": [
+            0.0785,
+            38.6485
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Breiter Sandstrand mit Promenade.",
+            "hu": "Széles homokos strand sétánnyal.",
+            "ro": "Plajă largă de nisip cu promenadă.",
+            "en": "Wide sandy beach with a promenade."
+          }
+        },
+        {
+          "name": "Torre de la Peça",
+          "coords": [
+            0.0448,
+            38.6462
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "16:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Rückkehr ins historische Zentrum.",
+            "hu": "Visszatérés a történelmi központba.",
+            "ro": "Revenire în centrul istoric.",
+            "en": "Return to the historic center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie den Calpe-Bus, um zwischen den Salzseen, dem Hafen und den Stränden zu pendeln. Diese Route kombiniert Naturbeobachtungen bei den Salinas mit der majestätischen Präsenz des Ifach und entspannten Stunden am Fossa-Strand, bevor Sie zur Altstadt zurückkehren.",
+        "hu": "Használd a Calpe buszt a sós tavak, a kikötő és a strandok közötti közlekedéshez. Ez az útvonal ötvözi a természet megfigyelését a Salinas-nál, az Ifach fenséges látványát és a pihentető órákat a Fossa strandon.",
+        "ro": "Folosiți autobuzul din Calpe pentru a face naveta între lacurile sărate, port și plaje. Acest traseu combină observarea naturii la Salinas cu prezența maiestuoasă a Ifach și orele de relaxare pe plaja Fossa.",
+        "en": "Use the Calpe bus to commute between the salt lakes, the port, and the beaches. This route combines nature watching at the Salinas with the majestic presence of the Ifach and relaxing hours at Fossa beach before returning to the old town."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Mariscada",
+            "tip": "Große Meeresfrüchteplatte."
+          },
+          {
+            "name": "Arroz del Senyoret",
+            "tip": "Geschälter Meeresfrüchte-Reis."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mariscada",
+            "tip": "Hatalmas tenger gyümölcsei tál."
+          },
+          {
+            "name": "Arroz del Senyoret",
+            "tip": "Pucolt tenger gyümölcsei rizsétel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mariscada",
+            "tip": "Platou mare cu fructe de mare."
+          },
+          {
+            "name": "Arroz del Senyoret",
+            "tip": "Orez cu fructe de mare decorticate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mariscada",
+            "tip": "Large seafood platter."
+          },
+          {
+            "name": "Arroz del Senyoret",
+            "tip": "Peeled seafood rice dish."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Paseo Marítimo",
+            "tip": "Abendbrise am Wasser genießen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Paseo Marítimo",
+            "tip": "Élvezd az esti szellőt a víznél.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Paseo Marítimo",
+            "tip": "Bucurați-vă de briza de seară.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Paseo Marítimo",
+            "tip": "Enjoy the evening breeze by the water.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Markt an der Fossa",
+            "tip": "Strandbekleidung und Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fossa parti piac",
+            "tip": "Strandruházat és szuvenírek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Fossa",
+            "tip": "Haine de plajă și suveniruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fossa Beach Market",
+            "tip": "Beachwear and souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Buslinie L1 verbindet alle wichtigen Punkte.",
+          "Passendes Kleingeld für das Ticket ist hilfreich.",
+          "Die Busse fahren regelmäßig alle 30-60 Minuten."
+        ],
+        "hu": [
+          "Az L1 buszjárat összeköti az összes fontos pontot.",
+          "Érdemes aprópénzt készíteni a jegyhez.",
+          "A buszok rendszeresen, 30-60 percenként járnak."
+        ],
+        "ro": [
+          "Linia L1 leagă toate punctele importante.",
+          "Mărunțișul pentru bilet este util.",
+          "Autobuzele circulă regulat la fiecare 30-60 de minute."
+        ],
+        "en": [
+          "Bus line L1 connects all major points.",
+          "Exact change for the ticket is helpful.",
+          "Buses run regularly every 30-60 minutes."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie den Calpe-Bus, um zwischen den Salzseen, dem Hafen und den Stränden zu pendeln. Diese Route kombiniert Naturbeobachtungen bei den Salinas mit der majestätischen Präsenz des Ifach und entspannten Stunden am Fossa-Strand, bevor Sie zur Altstadt zurückkehren.",
+            "hu": "Használd a Calpe buszt a sós tavak, a kikötő és a strandok közötti közlekedéshez. Ez az útvonal ötvözi a természet megfigyelését a Salinas-nál, az Ifach fenséges látványát és a pihentető órákat a Fossa strandon.",
+            "ro": "Folosiți autobuzul din Calpe pentru a face naveta între lacurile sărate, port și plaje. Acest traseu combină observarea naturii la Salinas cu prezența maiestuoasă a Ifach și orele de relaxare pe plaja Fossa.",
+            "en": "Use the Calpe bus to commute between the salt lakes, the port, and the beaches. This route combines nature watching at the Salinas with the majestic presence of the Ifach and relaxing hours at Fossa beach before returning to the old town."
+          },
+          "stops": [
+            {
+              "name": "Las Salinas de Calpe",
+              "tip_5lang": {
+                "de": "Einfach per Bus erreichbar.",
+                "hu": "Busszal könnyen megközelíthető.",
+                "ro": "Ușor accesibil cu autobuzul.",
+                "en": "Easily accessible by bus."
+              }
+            },
+            {
+              "name": "Puerto de Calpe",
+              "tip_5lang": {
+                "de": "Zentrum der Fischerei.",
+                "hu": "A halászat központja.",
+                "ro": "Centrul pescuitului.",
+                "en": "The center of fishing."
+              }
+            },
+            {
+              "name": "Peñón de Ifach",
+              "tip_5lang": {
+                "de": "Wanderung am Fuße des Felsens.",
+                "hu": "Séta a szikla lábánál.",
+                "ro": "O plimbare la baza stâncii.",
+                "en": "A walk at the base of the rock."
+              }
+            },
+            {
+              "name": "Playa de la Fossa",
+              "tip_5lang": {
+                "de": "Breiter Sandstrand mit Promenade.",
+                "hu": "Széles homokos strand sétánnyal.",
+                "ro": "Plajă largă de nisip cu promenadă.",
+                "en": "Wide sandy beach with a promenade."
+              }
+            },
+            {
+              "name": "Torre de la Peça",
+              "tip_5lang": {
+                "de": "Rückkehr ins historische Zentrum.",
+                "hu": "Visszatérés a történelmi központba.",
+                "ro": "Revenire în centrul istoric.",
+                "en": "Return to the historic center."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Mariscada",
+                "tip": "Große Meeresfrüchteplatte."
+              },
+              {
+                "name": "Arroz del Senyoret",
+                "tip": "Geschälter Meeresfrüchte-Reis."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Mariscada",
+                "tip": "Hatalmas tenger gyümölcsei tál."
+              },
+              {
+                "name": "Arroz del Senyoret",
+                "tip": "Pucolt tenger gyümölcsei rizsétel."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Mariscada",
+                "tip": "Platou mare cu fructe de mare."
+              },
+              {
+                "name": "Arroz del Senyoret",
+                "tip": "Orez cu fructe de mare decorticate."
+              }
+            ],
+            "en": [
+              {
+                "name": "Mariscada",
+                "tip": "Large seafood platter."
+              },
+              {
+                "name": "Arroz del Senyoret",
+                "tip": "Peeled seafood rice dish."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Paseo Marítimo",
+                "tip": "Abendbrise am Wasser genießen.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Paseo Marítimo",
+                "tip": "Élvezd az esti szellőt a víznél.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Paseo Marítimo",
+                "tip": "Bucurați-vă de briza de seară.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Paseo Marítimo",
+                "tip": "Enjoy the evening breeze by the water.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Markt an der Fossa",
+                "tip": "Strandbekleidung und Souvenirs."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Fossa parti piac",
+                "tip": "Strandruházat és szuvenírek."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Piața Fossa",
+                "tip": "Haine de plajă și suveniruri."
+              }
+            ],
+            "en": [
+              {
+                "name": "Fossa Beach Market",
+                "tip": "Beachwear and souvenirs."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Die Buslinie L1 verbindet alle wichtigen Punkte.",
+              "Passendes Kleingeld für das Ticket ist hilfreich.",
+              "Die Busse fahren regelmäßig alle 30-60 Minuten."
+            ],
+            "hu": [
+              "Az L1 buszjárat összeköti az összes fontos pontot.",
+              "Érdemes aprópénzt készíteni a jegyhez.",
+              "A buszok rendszeresen, 30-60 percenként járnak."
+            ],
+            "ro": [
+              "Linia L1 leagă toate punctele importante.",
+              "Mărunțișul pentru bilet este util.",
+              "Autobuzele circulă regulat la fiecare 30-60 de minute."
+            ],
+            "en": [
+              "Bus line L1 connects all major points.",
+              "Exact change for the ticket is helpful.",
+              "Buses run regularly every 30-60 minutes."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Bus bringt uns morgens trocken zu den Salinas. Mittags erreichen wir den Hafen, wo wir in den Restaurants Schutz suchen. Nachmittags geht es zum Peñón de Ifach, dessen Basis wir erkunden. Später bringt uns der Transit zur Playa de la Fossa und schließlich zur Torre de la Peça, immer mit kurzen Wegen zu den Haltestellen.",
+            "hu": "A busz reggel szárazon visz el minket a Salinashoz. Délben a kikötőbe érkezünk, ahol az éttermekben keresünk menedéket. Délután a Peñón de Ifach-hoz megyünk, aminek az alját fedezzük fel. Később a Playa de la Fossa-hoz, végül a Torre de la Peça-hoz utazunk, ügyelve a rövid sétákra a megállókig.",
+            "ro": "Autobuzul ne duce dimineața la Salinas fără să ne udăm. La prânz ajungem în port, unde ne adăpostim în restaurante. După-amiaza mergem la Peñón de Ifach pentru a explora baza acestuia. Mai târziu mergem la Playa de la Fossa și la Torre de la Peça, cu distanțe scurte până la stații.",
+            "en": "The bus takes us dry to the Salinas in the morning. At noon, reach the port and seek shelter in the local restaurants. In the afternoon, head to Peñón de Ifach to explore its base. Later, take transit to Playa de la Fossa and finally to Torre de la Peça, keeping walks to stops short."
+          },
+          "stops": [
+            {
+              "name": "Las Salinas de Calpe",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle bietet ein Dach gegen den Regen.",
+                "hu": "A buszmegálló fedett, védelmet nyújt az eső ellen.",
+                "ro": "Stația de autobuz are acoperiș împotriva ploii.",
+                "en": "The bus stop has a roof to keep you dry from the rain."
+              }
+            },
+            {
+              "name": "Puerto de Calpe",
+              "tip_5lang": {
+                "de": "Kurzer Sprint von der Haltestelle zu den Markthallen.",
+                "hu": "Rövid futás a megállótól a vásárcsarnokokig.",
+                "ro": "Sprint scurt de la stație până la halele pieței.",
+                "en": "A quick sprint from the stop to the market halls."
+              }
+            },
+            {
+              "name": "Peñón de Ifach",
+              "tip_5lang": {
+                "de": "Das Besucherzentrum ist ein guter Ort zum Aufwärmen.",
+                "hu": "A látogatóközpont jó hely a felmelegedéshez.",
+                "ro": "Centrul de vizitatori este un loc bun pentru încălzire.",
+                "en": "The visitor center is a good place to warm up."
+              }
+            },
+            {
+              "name": "Playa de la Fossa",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Strandcafés als gemütliche Wartebereiche.",
+                "hu": "Használja a tengerparti kávézókat váróhelyiségként.",
+                "ro": "Folosiți cafenelele de pe plajă ca zone de așteptare.",
+                "en": "Use the beach cafes as cozy waiting areas."
+              }
+            },
+            {
+              "name": "Torre de la Peça",
+              "tip_5lang": {
+                "de": "Die Haltestellen im Zentrum liegen oft nahe bei Arkaden.",
+                "hu": "A központi megállók gyakran árkádok közelében vannak.",
+                "ro": "Stațiile din centru sunt adesea lângă arcade.",
+                "en": "Central bus stops are often located near covered arcades."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Rechnen Sie bei Regen mit leichten Verzögerungen im Busverkehr.",
+              "Halten Sie Kleingeld oder Ihre Karte griffbereit, um schnell einzusteigen.",
+              "In den Bussen kann es bei Regen durch nasse Kleidung feucht sein.",
+              "Nutzen Sie die offizielle Calpe-Bus-App für Live-Abfahrtszeiten.",
+              "Die Haltestellen direkt am Meer sind oft windanfällig; warm anziehen."
+            ],
+            "hu": [
+              "Esőben számoljon a buszközlekedés kisebb késéseivel.",
+              "Tartsa készenlétben az aprópénzt vagy kártyát a gyors felszálláshoz.",
+              "A buszokban esős időben a vizes ruhák miatt párás lehet a levegő.",
+              "Használja a hivatalos Calpe buszalkalmazást az élő indulási időkhöz.",
+              "A közvetlenül a tengerparti megállók szelesek lehetnek; öltözzön melegen."
+            ],
+            "ro": [
+              "Așteptați-vă la mici întârzieri ale autobuzelor în caz de ploaie.",
+              "Țineți banii mărunți sau cardul la îndemână pentru urcare rapidă.",
+              "În autobuze poate fi umiditate ridicată din cauza hainelor ude.",
+              "Folosiți aplicația oficială de autobuz Calpe pentru timpii de plecare.",
+              "Stațiile de pe malul mării sunt adesea expuse vântului; îmbrăcați-vă bine."
+            ],
+            "en": [
+              "Expect slight delays in bus services during rainy weather.",
+              "Have your change or card ready to board the bus quickly.",
+              "Buses can get humid inside due to passengers' wet clothing.",
+              "Use the official Calpe bus app for live departure times.",
+              "Bus stops directly by the sea are often windy; dress warmly."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens bringt uns der Bus zur ruhigen Salinas-Lagune. Mittags genießen wir die Wintersonne am Hafen. Nachmittags geht es zum Peñón de Ifach, der im Winterlicht majestätisch wirkt. Später besuchen wir die Playa de la Fossa und kehren mit dem Transit zurück zur Torre de la Peça, während die Stadtlichter angehen.",
+            "hu": "Reggel a busz a csendes Salinas-lagúnához visz minket. Délben élvezzük a téli napsütést a kikötőben. Délután a Peñón de Ifach-hoz megyünk, amely fenséges a téli fényben. Később meglátogatjuk a Playa de la Fossa-t, majd visszatérünk a Torre de la Peça-hoz, ahogy kigyúlnak a város fényei.",
+            "ro": "Dimineața autobuzul ne duce la laguna liniștită Salinas. La prânz savurăm soarele de iarnă în port. După-amiaza mergem la Peñón de Ifach, care pare maiestuos în lumina de iarnă. Mai târziu vizităm Playa de la Fossa și revenim la Torre de la Peça când se aprind luminile orașului.",
+            "en": "In the morning, take the bus to the quiet Salinas lagoon. At noon, enjoy the winter sun at the port. In the afternoon, head to Peñón de Ifach, which looks majestic in the winter light. Later, visit Playa de la Fossa and return by transit to Torre de la Peça as the city lights come on."
+          },
+          "stops": [
+            {
+              "name": "Las Salinas de Calpe",
+              "tip_5lang": {
+                "de": "Im Winter sind die Busse zu den Salinas weniger voll.",
+                "hu": "Télen a Salinas felé tartó buszok kevésbé zsúfoltak.",
+                "ro": "Iarna autobuzele spre Salinas sunt mai puțin aglomerate.",
+                "en": "Buses to the Salinas are much less crowded in winter."
+              }
+            },
+            {
+              "name": "Puerto de Calpe",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um die Wintersonne am Mittag zu genießen.",
+                "hu": "Ideális hely a déli téli napsütés élvezetére.",
+                "ro": "Un loc ideal pentru a savura soarele de iarnă la prânz.",
+                "en": "An ideal spot to enjoy the winter sun during midday."
+              }
+            },
+            {
+              "name": "Peñón de Ifach",
+              "tip_5lang": {
+                "de": "Letzter Bus zurück vor Einbruch der Dunkelheit prüfen.",
+                "hu": "Ellenőrizze az utolsó visszatérő buszt sötétedés előtt.",
+                "ro": "Verificați ultimul autobuz de întoarcere înainte de lăsarea serii.",
+                "en": "Check the time of the last bus back before it gets dark."
+              }
+            },
+            {
+              "name": "Playa de la Fossa",
+              "tip_5lang": {
+                "de": "Genießen Sie den weiten Blick ohne die Sommer-Sonnenschirme.",
+                "hu": "Élvezze a tágas kilátást a nyári napernyők nélkül.",
+                "ro": "Bucurați-vă de vederea largă fără umbrelele de vară.",
+                "en": "Enjoy the wide-open views without the summer umbrellas."
+              }
+            },
+            {
+              "name": "Torre de la Peça",
+              "tip_5lang": {
+                "de": "Die Abendbeleuchtung der Altstadt ist im Winter sehr stimmungsvoll.",
+                "hu": "Az óváros esti kivilágítása télen nagyon hangulatos.",
+                "ro": "Iluminatul de seară al centrului vechi este foarte atmosferic iarna.",
+                "en": "The evening lighting of the Old Town is very atmospheric in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Beachten Sie eventuelle Winterfahrpläne (leicht reduzierte Taktung).",
+              "Die Busse sind im Winter angenehm geheizt.",
+              "Vermeiden Sie die Zeit des Schulschlusses für entspanntes Reisen.",
+              "Nutzen Sie die vorderen Sitze für die beste Sicht auf die Küstenstraße.",
+              "Kombinieren Sie Busfahrten mit kurzen Spaziergängen in der Sonne."
+            ],
+            "hu": [
+              "Ügyeljen az esetleges téli menetrendre (kissé ritkább járatok).",
+              "A buszok télen kellemesen fűtöttek.",
+              "A nyugodt utazás érdekében kerülje az iskolakezdés és -befejezés idejét.",
+              "Az első üléseket válassza a legjobb kilátáshoz a parti úton.",
+              "Kombinálja a buszozást rövid, napsütéses sétákkal."
+            ],
+            "ro": [
+              "Aveți în vedere eventualele orare de iarnă (frecvență ușor redusă).",
+              "Autobuzele sunt încălzite plăcut pe timp de iarnă.",
+              "Evitați orele de vârf școlare pentru o călătorie relaxată.",
+              "Folosiți locurile din față pentru cea mai bună vedere asupra drumului de coastă.",
+              "Combinați călătoriile cu autobuzul cu scurte plimbări la soare."
+            ],
+            "en": [
+              "Note any winter timetables (frequencies might be slightly reduced).",
+              "Buses are pleasantly heated during the winter months.",
+              "Avoid traveling during school finishing times for a more relaxed trip.",
+              "Sit near the front for the best views of the coastal roads.",
+              "Combine bus rides with short walks in the sunshine."
+            ]
+          }
+        }
+      }
+    }
+  },
+  "external_resources": {
+    "tourism_office": "https://www.calpe.es/",
+    "language_tips": {
+      "de": "In Calpe sprechen ueber 30 Prozent der Anwohner Deutsch oder Englisch, Speisekarten gibt es fast immer mehrsprachig. Trotzdem oeffnet ein 'Bona vesprada' nachmittags Tueren bei den valencianischen Stammgaesten. Die Einheimischen schaetzen es, wenn man wenigstens 'gracies' statt 'gracias' sagt.",
+      "hu": "Calpeban a lakossag tobb mint 30 szazaleka beszel nemetul vagy angolul, az etlapok szinte mindenhol tobbnyelvuek. Egy 'Bona vesprada' delutan megis melegen fogad a valenciai torzsvendegeknel. A helyiek nagyra ertekelik, ha legalabb 'gracies'-t mondasz a 'gracias' helyett.",
+      "ro": "In Calpe peste 30 la suta dintre localnici vorbesc germana sau engleza, iar meniurile sunt aproape mereu multilingve. Totusi un 'Bona vesprada' dupa-amiaza deschide multe usi printre valencienii vechi. Localnicii apreciaza cand zici macar 'gracies' in loc de 'gracias'.",
+      "en": "Over 30 percent of Calpe residents speak German or English, and menus are almost always multilingual. Still, a 'Bona vesprada' in the afternoon opens doors with the Valencian regulars. Locals appreciate a 'gracies' instead of the Castilian 'gracias'."
+    },
+    "best_time_to_visit": {
+      "de": "Mai und Oktober bieten 22 bis 26 Grad und halb leere Straende rund um den Penyal d'Ifac. Juli und August sind heiss und die Promenade ist gerammelt voll, Restaurantreservierungen sind dann Pflicht. Im Winter ist es mild genug fuer Wanderungen, aber das Meer ist mit 14 Grad nur fuer Hartgesottene.",
+      "hu": "Majus es oktober kinalja a legjobb mixet: 22-26 fok es felig ures strandok a Penyal d'Ifac koruleben. Julius-augusztus forro es a setany zsufolt, ilyenkor az ettermekben kotelezo asztalt foglalni. Telen tul a tura meg kellemes, de a 14 fokos tenger csak az edzetteknek valo.",
+      "ro": "Mai si octombrie ofera 22-26 grade si plaje pe jumatate goale in jurul lui Penyal d'Ifac. Iulie si august sunt fierbinti iar faleza e ticsita, rezervarile la restaurant sunt obligatorii. Iarna e suficient de blanda pentru drumetii, dar marea de 14 grade e doar pentru curajosi.",
+      "en": "May and October deliver 22-26C and half-empty beaches around Penyal d'Ifac. July-August get hot and the promenade is packed, with restaurant bookings essential. Winter stays mild enough for hiking, though the 14C sea is for hardy souls only."
+    },
+    "neighborhood_warnings": {
+      "de": "Calpe gilt als sehr sicher, die meisten Probleme sind Taschendiebstaehle am Playa de la Fossa in der Hochsaison. Der Aufstieg auf den Penyal d'Ifac erfordert festes Schuhwerk, das letzte Stueck ist ein gesicherter Klettersteig. Mietwagen niemals mit sichtbarem Gepaeck im Bereich Cala del Penyal abstellen.",
+      "hu": "Calpe nagyon biztonsagos, a fo problema a Playa de la Fossa zsebmetszese a fofszezonban. A Penyal d'Ifac megmaszasahoz kemeny cipo kell, az utolso szakasz biztositott via ferrata. Berelt autoba latvanyos csomagot ne hagyj, kulonosen a Cala del Penyal kornyeken.",
+      "ro": "Calpe e foarte sigur, problemele se rezuma la furturi din buzunare pe Playa de la Fossa in sezon. Urcusul pe Penyal d'Ifac cere incaltaminte solida, ultima portiune fiind via ferrata asigurata. Nu lasa bagaje vizibile in masina, mai ales in zona Cala del Penyal.",
+      "en": "Calpe rates as very safe, most issues are pickpocketing on Playa de la Fossa in peak season. The Penyal d'Ifac climb needs sturdy shoes, with the final stretch a secured via ferrata. Never leave luggage visible in rental cars around Cala del Penyal."
+    }
+  }
+}

@@ -1,0 +1,2454 @@
+{
+  "city_id": "el-rocio",
+  "anchor": {
+    "name": "El Rocío",
+    "coords": [
+      -6.4861,
+      37.1297
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3.0,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 3.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ermita de la Virgen del Rocío",
+            "hu": "Rocíói Szűz kápolna",
+            "ro": "Ermita de la Virgen del Rocío",
+            "en": "Ermita de la Virgen del Rocío"
+          },
+          "coords": [
+            -6.4852,
+            37.1321
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Früh kommen, um die Stille zu genießen.",
+            "hu": "Érdemes korán érkezni a tömeg előtt.",
+            "ro": "Veniți devreme pentru a evita aglomerația.",
+            "en": "Arrive early to enjoy the peaceful atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Tesoro de la Virgen",
+            "hu": "A Szűz kincstára múzeum",
+            "ro": "Muzeul Tezaurului Fecioarei",
+            "en": "Museo Tesoro de la Virgen"
+          },
+          "coords": [
+            -6.4845,
+            37.1325
+          ],
+          "category": "museums",
+          "arrive_at": "10:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Wunderschöne Gewänder und Votivgaben.",
+            "hu": "Csodálatos kegytárgyak és öltözékek.",
+            "ro": "Veșminte și obiecte votive spectaculoase.",
+            "en": "Stunning garments and votive offerings."
+          }
+        },
+        {
+          "name": {
+            "de": "Paseo Marismeño",
+            "hu": "Mocsár menti sétány",
+            "ro": "Paseo Marismeño",
+            "en": "Paseo Marismeño"
+          },
+          "coords": [
+            -6.4865,
+            37.131
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Blick auf Flamingos im Sumpf.",
+            "hu": "Flamingók láthatók a mocsárban.",
+            "ro": "Puteți vedea flamingo în mlaștină.",
+            "en": "Look out for flamingos in the marsh."
+          }
+        },
+        {
+          "name": {
+            "de": "Plaza del Acebuchal",
+            "hu": "Acebuchal tér",
+            "ro": "Plaza del Acebuchal",
+            "en": "Plaza del Acebuchal"
+          },
+          "coords": [
+            -6.482,
+            37.1335
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "13:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Sandige Straßen wie im Wilden Westen.",
+            "hu": "Homokos utcák, mint a vadnyugaton.",
+            "ro": "Străzi cu nisip, ca în Vestul Sălbatic.",
+            "en": "Sandy streets like the Wild West."
+          }
+        },
+        {
+          "name": {
+            "de": "Marismas del Rocío",
+            "hu": "Rocíói mocsárvilág",
+            "ro": "Marismas del Rocío",
+            "en": "Marismas del Rocío"
+          },
+          "coords": [
+            -6.4875,
+            37.1305
+          ],
+          "category": "natural features",
+          "arrive_at": "14:30",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Fernglas nicht vergessen.",
+            "hu": "Ne felejtse otthon a távcsövet.",
+            "ro": "Nu uitați binoclul pentru păsări.",
+            "en": "Don't forget your binoculars for birdwatching."
+          }
+        },
+        {
+          "name": {
+            "de": "Puente del Ajolí",
+            "hu": "Ajolí híd",
+            "ro": "Puente del Ajolí",
+            "en": "Puente del Ajolí"
+          },
+          "coords": [
+            -6.475,
+            37.1385
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "17:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Symbolischer Ort der Pilgerreise.",
+            "hu": "A zarándokút szimbolikus pontja.",
+            "ro": "Loc simbolic al pelerinajului.",
+            "en": "A symbolic spot for the pilgrimage."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "El Rocío ist ein Ort wie kein anderer, mit seinen staubigen Sandstraßen und der tiefen Spiritualität. Beginnen Sie Ihren Morgen in der strahlend weißen Ermita, dem Herzstück des Dorfes.\n\nMittags schlendern Sie am Paseo Marismeño entlang, wo das Dorf direkt in die Feuchtgebiete von Doñana übergeht. Es ist faszinierend, Pferde und Vögel so nah beieinander zu sehen.\n\nDer Nachmittag gehört der Naturbeobachtung in den Marismas. Die Weite der Landschaft ist besonders beeindruckend, wenn die Sonne tiefer steht.\n\nBeenden Sie Ihren Tag am geschichtsträchtigen Puente del Ajolí, bevor Sie in eines der gemütlichen Restaurants im Dorf einkehren.",
+        "hu": "El Rocío egyedülálló hely, ahol az utcákat homok borítja aszfalt helyett. Kezdje a reggelt a fehéren tündöklő kápolnában, amely a környék legfontosabb zarándokhelye.\n\nDélben sétáljon a mocsár menti sétányon, és figyelje meg a békésen legelésző lovakat és a vadon élő madarakat közvetlenül a házak tövében.\n\nDélután merüljön el a mocsárvilág nyugalmában. Ez a terület a Doñana Nemzeti Park kapuja, ahol a természet az úr.\n\nA napot az Ajolí hídnál zárja, amelyen minden évben zarándokok ezrei kelnek át lóháton és szekereken.",
+        "ro": "El Rocío pare desprins dintr-un film western, cu străzi de nisip și o atmosferă mistică. Începeți dimineața la Ermita, unde mii de oameni vin să se roage.\n\nLa prânz, faceți o plimbare pe faleza maritimă (Paseo Marismeño), care oferă o priveliște incredibilă asupra mlaștinilor pline de viață sălbatică.\n\nDupă-amiaza este pentru relaxare în natură. Marismas del Rocío oferă un spectacol continuu de culori și sunete ale naturii.\n\nÎncheiați ziua la Podul Ajolí, un loc încărcat de istorie pentru pelerini, înainte de a degusta preparate locale în sat.",
+        "en": "El Rocío is a unique village where sand replaces asphalt on every street. Start your morning at the iconic white Ermita, the spiritual heart of the region.\n\nAt midday, stroll along the Paseo Marismeño, where the village ends and the wild wetlands begin. It's common to see horses tied up outside houses like in the old days.\n\nSpend your afternoon birdwatching in the Marismas. The interaction between the village and the national park is seamless and beautiful.\n\nFinish your day at the Puente del Ajolí, the symbolic gateway for pilgrims, before enjoying a traditional Andalusian dinner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Caldereta de Cordero",
+            "tip": "Herzhafter Lammeintopf nach Hirtenart."
+          },
+          {
+            "name": "Mosto de la zona",
+            "tip": "Frischer lokaler Traubensaft oder Jungwein."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Caldereta de Cordero",
+            "tip": "Hagyományos bárányragu pásztor módra."
+          },
+          {
+            "name": "Gamba blanca",
+            "tip": "Huelva híres fehér garnélarákja."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Caldereta de Cordero",
+            "tip": "Tocăniță de miel tradițională."
+          },
+          {
+            "name": "Jamón de Huelva",
+            "tip": "Șuncă de calitate superioară din regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Caldereta de Cordero",
+            "tip": "Traditional shepherd's lamb stew."
+          },
+          {
+            "name": "Huelva Ham",
+            "tip": "Exquisite cured ham from the nearby mountains."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Marismas Aussicht",
+            "tip": "Besonders ruhig am frühen Abend.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mocsár kilátó",
+            "tip": "Különösen csendes a kora esti órákban.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Belvederea Marismas",
+            "tip": "Liniște totală la apus.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Marsh Viewpoint",
+            "tip": "Extremely peaceful during sunset.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Reitzubehör-Läden",
+            "tip": "Handgefertigte Lederstiefel und Sättel."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lovasboltok",
+            "tip": "Kézzel készült bőrcsizmák és nyergek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de echitație",
+            "tip": "Cizme de piele și accesorii lucrate manual."
+          }
+        ],
+        "en": [
+          {
+            "name": "Equestrian Shops",
+            "tip": "Handmade leather boots and traditional riding gear."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie geschlossene Schuhe, der Sand ist tief.",
+          "Pferde haben immer Vorfahrt.",
+          "Während der Romería im Mai ist das Dorf extrem überfüllt."
+        ],
+        "hu": [
+          "Viseljen zárt cipőt a mély homok miatt.",
+          "A lovasoknak mindig elsőbbsége van.",
+          "A májusi zarándoklat idején a falu rendkívül zsúfolt."
+        ],
+        "ro": [
+          "Purtați încălțăminte închisă, nisipul este adânc.",
+          "Caii au întotdeauna prioritate pe străzi.",
+          "Satul este extrem de aglomerat în timpul pelerinajului din mai."
+        ],
+        "en": [
+          "Wear closed shoes as the sand is deep everywhere.",
+          "Horses always have the right of way.",
+          "Avoid visiting during the Romería in May if you dislike crowds."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "El Rocío ist ein Ort wie kein anderer, mit seinen staubigen Sandstraßen und der tiefen Spiritualität. Beginnen Sie Ihren Morgen in der strahlend weißen Ermita, dem Herzstück des Dorfes.\n\nMittags schlendern Sie am Paseo Marismeño entlang, wo das Dorf direkt in die Feuchtgebiete von Doñana übergeht. Es ist faszinierend, Pferde und Vögel so nah beieinander zu sehen.\n\nDer Nachmittag gehört der Naturbeobachtung in den Marismas. Die Weite der Landschaft ist besonders beeindruckend, wenn die Sonne tiefer steht.\n\nBeenden Sie Ihren Tag am geschichtsträchtigen Puente del Ajolí, bevor Sie in eines der gemütlichen Restaurants im Dorf einkehren.",
+            "hu": "El Rocío egyedülálló hely, ahol az utcákat homok borítja aszfalt helyett. Kezdje a reggelt a fehéren tündöklő kápolnában, amely a környék legfontosabb zarándokhelye.\n\nDélben sétáljon a mocsár menti sétányon, és figyelje meg a békésen legelésző lovakat és a vadon élő madarakat közvetlenül a házak tövében.\n\nDélután merüljön el a mocsárvilág nyugalmában. Ez a terület a Doñana Nemzeti Park kapuja, ahol a természet az úr.\n\nA napot az Ajolí hídnál zárja, amelyen minden évben zarándokok ezrei kelnek át lóháton és szekereken.",
+            "ro": "El Rocío pare desprins dintr-un film western, cu străzi de nisip și o atmosferă mistică. Începeți dimineața la Ermita, unde mii de oameni vin să se roage.\n\nLa prânz, faceți o plimbare pe faleza maritimă (Paseo Marismeño), care oferă o priveliște incredibilă asupra mlaștinilor pline de viață sălbatică.\n\nDupă-amiaza este pentru relaxare în natură. Marismas del Rocío oferă un spectacol continuu de culori și sunete ale naturii.\n\nÎncheiați ziua la Podul Ajolí, un loc încărcat de istorie pentru pelerini, înainte de a degusta preparate locale în sat.",
+            "en": "El Rocío is a unique village where sand replaces asphalt on every street. Start your morning at the iconic white Ermita, the spiritual heart of the region.\n\nAt midday, stroll along the Paseo Marismeño, where the village ends and the wild wetlands begin. It's common to see horses tied up outside houses like in the old days.\n\nSpend your afternoon birdwatching in the Marismas. The interaction between the village and the national park is seamless and beautiful.\n\nFinish your day at the Puente del Ajolí, the symbolic gateway for pilgrims, before enjoying a traditional Andalusian dinner."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ermita de la Virgen del Rocío",
+                "hu": "Rocíói Szűz kápolna",
+                "ro": "Ermita de la Virgen del Rocío",
+                "en": "Ermita de la Virgen del Rocío"
+              },
+              "tip_5lang": {
+                "de": "Früh kommen, um die Stille zu genießen.",
+                "hu": "Érdemes korán érkezni a tömeg előtt.",
+                "ro": "Veniți devreme pentru a evita aglomerația.",
+                "en": "Arrive early to enjoy the peaceful atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Tesoro de la Virgen",
+                "hu": "A Szűz kincstára múzeum",
+                "ro": "Muzeul Tezaurului Fecioarei",
+                "en": "Museo Tesoro de la Virgen"
+              },
+              "tip_5lang": {
+                "de": "Wunderschöne Gewänder und Votivgaben.",
+                "hu": "Csodálatos kegytárgyak és öltözékek.",
+                "ro": "Veșminte și obiecte votive spectaculoase.",
+                "en": "Stunning garments and votive offerings."
+              }
+            },
+            {
+              "name": {
+                "de": "Paseo Marismeño",
+                "hu": "Mocsár menti sétány",
+                "ro": "Paseo Marismeño",
+                "en": "Paseo Marismeño"
+              },
+              "tip_5lang": {
+                "de": "Blick auf Flamingos im Sumpf.",
+                "hu": "Flamingók láthatók a mocsárban.",
+                "ro": "Puteți vedea flamingo în mlaștină.",
+                "en": "Look out for flamingos in the marsh."
+              }
+            },
+            {
+              "name": {
+                "de": "Plaza del Acebuchal",
+                "hu": "Acebuchal tér",
+                "ro": "Plaza del Acebuchal",
+                "en": "Plaza del Acebuchal"
+              },
+              "tip_5lang": {
+                "de": "Sandige Straßen wie im Wilden Westen.",
+                "hu": "Homokos utcák, mint a vadnyugaton.",
+                "ro": "Străzi cu nisip, ca în Vestul Sălbatic.",
+                "en": "Sandy streets like the Wild West."
+              }
+            },
+            {
+              "name": {
+                "de": "Marismas del Rocío",
+                "hu": "Rocíói mocsárvilág",
+                "ro": "Marismas del Rocío",
+                "en": "Marismas del Rocío"
+              },
+              "tip_5lang": {
+                "de": "Fernglas nicht vergessen.",
+                "hu": "Ne felejtse otthon a távcsövet.",
+                "ro": "Nu uitați binoclul pentru păsări.",
+                "en": "Don't forget your binoculars for birdwatching."
+              }
+            },
+            {
+              "name": {
+                "de": "Puente del Ajolí",
+                "hu": "Ajolí híd",
+                "ro": "Puente del Ajolí",
+                "en": "Puente del Ajolí"
+              },
+              "tip_5lang": {
+                "de": "Symbolischer Ort der Pilgerreise.",
+                "hu": "A zarándokút szimbolikus pontja.",
+                "ro": "Loc simbolic al pelerinajului.",
+                "en": "A symbolic spot for the pilgrimage."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Caldereta de Cordero",
+                "tip": "Herzhafter Lammeintopf nach Hirtenart."
+              },
+              {
+                "name": "Mosto de la zona",
+                "tip": "Frischer lokaler Traubensaft oder Jungwein."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Caldereta de Cordero",
+                "tip": "Hagyományos bárányragu pásztor módra."
+              },
+              {
+                "name": "Gamba blanca",
+                "tip": "Huelva híres fehér garnélarákja."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Caldereta de Cordero",
+                "tip": "Tocăniță de miel tradițională."
+              },
+              {
+                "name": "Jamón de Huelva",
+                "tip": "Șuncă de calitate superioară din regiune."
+              }
+            ],
+            "en": [
+              {
+                "name": "Caldereta de Cordero",
+                "tip": "Traditional shepherd's lamb stew."
+              },
+              {
+                "name": "Huelva Ham",
+                "tip": "Exquisite cured ham from the nearby mountains."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Marismas Aussicht",
+                "tip": "Besonders ruhig am frühen Abend.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Mocsár kilátó",
+                "tip": "Különösen csendes a kora esti órákban.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Belvederea Marismas",
+                "tip": "Liniște totală la apus.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Marsh Viewpoint",
+                "tip": "Extremely peaceful during sunset.",
+                "emoji": "🍃"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Reitzubehör-Läden",
+                "tip": "Handgefertigte Lederstiefel und Sättel."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Lovasboltok",
+                "tip": "Kézzel készült bőrcsizmák és nyergek."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Magazine de echitație",
+                "tip": "Cizme de piele și accesorii lucrate manual."
+              }
+            ],
+            "en": [
+              {
+                "name": "Equestrian Shops",
+                "tip": "Handmade leather boots and traditional riding gear."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Tragen Sie geschlossene Schuhe, der Sand ist tief.",
+              "Pferde haben immer Vorfahrt.",
+              "Während der Romería im Mai ist das Dorf extrem überfüllt."
+            ],
+            "hu": [
+              "Viseljen zárt cipőt a mély homok miatt.",
+              "A lovasoknak mindig elsőbbsége van.",
+              "A májusi zarándoklat idején a falu rendkívül zsúfolt."
+            ],
+            "ro": [
+              "Purtați încălțăminte închisă, nisipul este adânc.",
+              "Caii au întotdeauna prioritate pe străzi.",
+              "Satul este extrem de aglomerat în timpul pelerinajului din mai."
+            ],
+            "en": [
+              "Wear closed shoes as the sand is deep everywhere.",
+              "Horses always have the right of way.",
+              "Avoid visiting during the Romería in May if you dislike crowds."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bietet die Ermita Schutz vor dem Regen, während die Glocken im feuchten Wind läuten. Mittags ist das Museum der ideale Rückzugsort, um die Geschichte der Bruderschaften im Trockenen zu erkunden.\nNachmittags verwandeln sich die Sandstraßen in schlammige Pfade; der Blick auf die Marismas wirkt im Nebel mystisch. Abends wärmen Sie sich in einer der Tavernen am Acebuchal-Platz auf.",
+            "hu": "Reggel az Ermita nyújt menedéket az eső elől, miközben a harangszó tompán kondul a párás szélben. Délben a múzeum tökéletes helyszín, hogy szárazon ismerkedjünk a zarándoklat történetével.\nDélután a homokos utcák sárral telnek meg, a mocsárvilág látványa misztikus a ködben. Este az Acebuchal tér egyik fedett teraszán vagy tavernájában melegedhetünk fel.",
+            "ro": "Dimineața, Ermita oferă adăpost împotriva ploii, în timp ce clopotele răsună în vântul umed. La prânz, muzeul este refugiul ideal pentru a explora istoria pelerinajului la adăpost.\nDupă-amiaza, străzile de nisip se transformă în poteci noroioase; mlaștinile arată mistic prin ceață. Seara, vă puteți încălzi într-o tavernă din Piața Acebuchal.",
+            "en": "In the morning, the Ermita provides shelter from the rain as the bells echo in the damp wind. At noon, the museum is the perfect indoor retreat to explore the history of the brotherhoods.\nIn the afternoon, the sandy streets turn into muddy paths; the view over the marshes is mystical in the mist. In the evening, warm up in one of the taverns at Plaza del Acebuchal."
+          },
+          "stops": [
+            {
+              "name": "Ermita de la Virgen del Rocío",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um den ersten Schauer abzuwarten.",
+                "hu": "Tökéletes hely az első zápor kivárására.",
+                "ro": "Locul perfect pentru a aștepta trecerea primei ploi.",
+                "en": "Perfect place to wait out the first shower."
+              }
+            },
+            {
+              "name": "Museo Tesoro de la Virgen",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit für die Innenausstellung.",
+                "hu": "Használja ki az időt a benti kiállításra.",
+                "ro": "Profitați de timp pentru a vizita expoziția interioară.",
+                "en": "Take advantage of the time for the indoor exhibition."
+              }
+            },
+            {
+              "name": "Paseo Marismeño",
+              "tip_5lang": {
+                "de": "Vorsicht, der Sandboden wird hier sehr matschig.",
+                "hu": "Vigyázat, a homokos talaj itt nagyon sáros lesz.",
+                "ro": "Atenție, solul nisipos devine foarte noroios aici.",
+                "en": "Caution, the sandy ground gets very muddy here."
+              }
+            },
+            {
+              "name": "Plaza del Acebuchal",
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter den alten Olivenbäumen.",
+                "hu": "Keressen menedéket az öreg olajfák alatt.",
+                "ro": "Căutați adăpost sub măslinii antici.",
+                "en": "Seek shelter under the ancient olive trees."
+              }
+            },
+            {
+              "name": "Marismas del Rocío",
+              "tip_5lang": {
+                "de": "Die Vögel sind auch im Regen aktiv, Fernglas mitnehmen.",
+                "hu": "A madarak esőben is aktívak, vigyen távcsövet.",
+                "ro": "Păsările sunt active și pe ploaie, luați binoclul.",
+                "en": "Birds are active even in the rain, bring binoculars."
+              }
+            },
+            {
+              "name": "Puente del Ajolí",
+              "tip_5lang": {
+                "de": "Das Holz des Übergangs kann bei Nässe rutschig sein.",
+                "hu": "Az átjáró fapadlója nedvesen csúszós lehet.",
+                "ro": "Lemnul podului poate fi alunecos când este ud.",
+                "en": "The wooden bridge can be slippery when wet."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Stiefel, da der Sand in El Rocío bei Regen zu tiefem Schlamm wird.",
+              "Die Ermita ist der beste Ort für eine längere Pause im Trockenen.",
+              "Planen Sie mehr Zeit für die Wege ein, da das Gehen im nassen Sand anstrengender ist.",
+              "Regenschirme sind bei Wind schwierig, eine Regenjacke ist praktischer."
+            ],
+            "hu": [
+              "Viseljen vízálló bakancsot, mert a homokos utcák esőben mély sárra váltanak.",
+              "Az Ermita a legjobb hely egy hosszabb, száraz pihenőre.",
+              "Számoljon több idővel a közlekedésre, mert a vizes homokban nehezebb a járás.",
+              "Az esernyő a szélben nehézkes lehet, az esőkabát praktikusabb választás."
+            ],
+            "ro": [
+              "Purtați cizme impermeabile, deoarece nisipul devine noroi adânc pe ploaie.",
+              "Ermita este cel mai bun loc pentru o pauză lungă la uscat.",
+              "Alocați mai mult timp deplasării, mersul în nisip ud este mai obositor.",
+              "Umbrelele sunt greu de folosit pe vânt, o pelerină este mai practică."
+            ],
+            "en": [
+              "Wear waterproof boots as the sandy streets turn into deep mud in the rain.",
+              "The Ermita is the best place for a long dry break.",
+              "Allow more time for movement; walking in wet sand is more exhausting.",
+              "Umbrellas are difficult in the wind; a raincoat is more practical."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens liegt oft ein kühler Nebel über dem Dorf, der für eine andächtige Stille sorgt. Mittags scheint die milde Wintersonne auf den hellen Sand und lädt zum Verweilen im Freien ein.\nNachmittags ist die beste Zeit zur Vogelbeobachtung, wenn Tausende Gänse in die Marismas einfliegen. Abends sinken die Temperaturen schnell, sobald die Sonne gegen 18:00 Uhr verschwindet.",
+            "hu": "Reggel gyakran hűvös köd üli meg a falut, ami áhítatos csendet teremt. Délben a lágy téli napsütés megvilágítja a világos homokot, hívogatva a szabadtéri pihenésre.\nDélután a legjobb időszak a madárlesre, amikor vadludak ezrei érkeznek a mocsarakhoz. Este a hőmérséklet gyorsan csökken, amint a nap 18:00 körül lenyugszik.",
+            "ro": "Dimineața, o ceață răcoroasă acoperă satul, creând o liniște profundă. La prânz, soarele blând de iarnă luminează nisipul alb, invitând la relaxare în aer liber.\nDupă-amiaza este momentul ideal pentru observarea păsărilor în mlaștini. Seara, temperaturile scad rapid imediat ce soarele apune, în jurul orei 18:00.",
+            "en": "In the morning, a cool mist often settles over the village, creating a reverent silence. At noon, the mild winter sun shines on the bright sand, inviting outdoor relaxation.\nIn the afternoon, it's the peak time for birdwatching as thousands of geese arrive at the marshes. In the evening, temperatures drop quickly once the sun sets around 18:00."
+          },
+          "stops": [
+            {
+              "name": "Ermita de la Virgen del Rocío",
+              "tip_5lang": {
+                "de": "In der Kirche ist es oft kühler als draußen, Jacke anbehalten.",
+                "hu": "A templomban gyakran hűvösebb van, mint kint, tartsa magán a kabátot.",
+                "ro": "În biserică este adesea mai răcoare decât afară, păstrați jacheta.",
+                "en": "It's often cooler inside the church than outside, keep your jacket on."
+              }
+            },
+            {
+              "name": "Museo Tesoro de la Virgen",
+              "tip_5lang": {
+                "de": "Ein warmer Ort, um die Mittagskälte zu vermeiden.",
+                "hu": "Meleg helyszín a déli hűvös elkerülésére.",
+                "ro": "Un loc călduros pentru a evita răcoarea de la amiază.",
+                "en": "A warm place to avoid the midday chill."
+              }
+            },
+            {
+              "name": "Paseo Marismeño",
+              "tip_5lang": {
+                "de": "Die Wintersonne ist hier am Ufer besonders angenehm.",
+                "hu": "A téli napsütés itt a parton különösen kellemes.",
+                "ro": "Soarele de iarnă este deosebit de plăcut aici, pe mal.",
+                "en": "The winter sun is especially pleasant here by the shore."
+              }
+            },
+            {
+              "name": "Plaza del Acebuchal",
+              "tip_5lang": {
+                "de": "Perfekt für einen heißen Kaffee in der Wintersonne.",
+                "hu": "Tökéletes egy forró kávéhoz a téli napsütésben.",
+                "ro": "Perfect pentru o cafea fierbinte în soarele de iarnă.",
+                "en": "Perfect for a hot coffee in the winter sun."
+              }
+            },
+            {
+              "name": "Marismas del Rocío",
+              "tip_5lang": {
+                "de": "Hauptsaison für Zugvögel – ein Fernglas ist ein Muss.",
+                "hu": "A vonuló madarak főszezonja – a távcső kötelező.",
+                "ro": "Sezon de vârf pentru păsările migratoare – binoclul este obligatoriu.",
+                "en": "Peak season for migratory birds – binoculars are a must."
+              }
+            },
+            {
+              "name": "Puente del Ajolí",
+              "tip_5lang": {
+                "de": "Früh am Nachmittag besuchen, bevor es im Schatten kalt wird.",
+                "hu": "Kora délután látogassa meg, mielőtt az árnyékban lehűl.",
+                "ro": "Vizitați devreme după-amiaza, înainte să se facă frig la umbră.",
+                "en": "Visit early in the afternoon before it gets cold in the shade."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Zwiebel-Look; mittags ist es warm, morgens und abends sehr frisch.",
+              "Die Marismas führen im Winter oft mehr Wasser, was mehr Vögel anlockt.",
+              "Die Sonne geht früh unter (ca. 18:00), planen Sie Outdoor-Aktivitäten davor.",
+              "Genießen Sie die Ruhe, da im Winter deutlich weniger Touristen vor Ort sind."
+            ],
+            "hu": [
+              "Öltözzön rétegesen; délben meleg van, de a reggelek és esték hűvösek.",
+              "A mocsarak télen több vizet tartanak, ami több madarat vonz.",
+              "A nap korán nyugszik (18:00 körül), a kinti programokat időzítse elé.",
+              "Élvezze a nyugalmat, mert télen jóval kevesebb a turista."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi; la prânz e cald, dar diminețile și serile sunt reci.",
+              "Mlaștinile au mai multă apă iarna, atrăgând mai multe păsări.",
+              "Soarele apune devreme (aprox. 18:00), planificați activitățile în aer liber înainte.",
+              "Bucurați-vă de liniște, iarna fiind mult mai puțini turiști."
+            ],
+            "en": [
+              "Dress in layers; it's warm at noon, but mornings and evenings are very fresh.",
+              "The marshes often hold more water in winter, attracting more birds.",
+              "The sun sets early (around 18:00), plan outdoor activities before then.",
+              "Enjoy the peace, as there are significantly fewer tourists in winter."
+            ]
+          }
+        }
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 8.0,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 8.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Centro de Visitantes La Rocina",
+            "hu": "La Rocina látogatóközpont",
+            "ro": "Centrul La Rocina",
+            "en": "Centro de Visitantes La Rocina"
+          },
+          "coords": [
+            -6.505,
+            37.125
+          ],
+          "category": "natural features",
+          "arrive_at": "09:20",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Schöne Wanderwege direkt ab dem Zentrum.",
+            "hu": "Gyönyörű tanösvények indulnak innen.",
+            "ro": "Trasee naturale superbe chiar de aici.",
+            "en": "Beautiful nature trails start here."
+          }
+        },
+        {
+          "name": {
+            "de": "Ermita de la Virgen del Rocío",
+            "hu": "Rocíói Szűz kápolna",
+            "ro": "Ermita de la Virgen del Rocío",
+            "en": "Ermita de la Virgen del Rocío"
+          },
+          "coords": [
+            -6.4852,
+            37.1321
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Fahrrad draußen anbinden.",
+            "hu": "A kerékpárt kint kell hagyni.",
+            "ro": "Lăsați bicicleta legată afară.",
+            "en": "Lock your bike outside the chapel."
+          }
+        },
+        {
+          "name": {
+            "de": "Marismas del Rocío",
+            "hu": "Rocíói mocsárvilág",
+            "ro": "Marismas del Rocío",
+            "en": "Marismas del Rocío"
+          },
+          "coords": [
+            -6.4875,
+            37.1305
+          ],
+          "category": "natural features",
+          "arrive_at": "12:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Perfekt für eine Picknickpause.",
+            "hu": "Tökéletes hely egy piknikhez.",
+            "ro": "Loc ideal pentru un picnic.",
+            "en": "Great spot for a picnic break."
+          }
+        },
+        {
+          "name": {
+            "de": "Puente del Ajolí",
+            "hu": "Ajolí híd",
+            "ro": "Puente del Ajolí",
+            "en": "Puente del Ajolí"
+          },
+          "coords": [
+            -6.475,
+            37.1385
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "14:20",
+          "stay_min": 30,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Sandige Wege erfordern gute Reifen.",
+            "hu": "A homokos utak jó gumikat igényelnek.",
+            "ro": "Drumurile cu nisip necesită cauciucuri bune.",
+            "en": "Sandy paths require wide tires."
+          }
+        },
+        {
+          "name": {
+            "de": "Plaza del Acebuchal",
+            "hu": "Acebuchal tér",
+            "ro": "Plaza del Acebuchal",
+            "en": "Plaza del Acebuchal"
+          },
+          "coords": [
+            -6.482,
+            37.1335
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "15:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Schatten unter alten Ölbäumen.",
+            "hu": "Árnyék az öreg vadolajfák alatt.",
+            "ro": "Umbră sub măslinii sălbatici vechi.",
+            "en": "Shade under ancient wild olive trees."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radfahren in El Rocío ist ein Abenteuer, da man oft durch tiefen Sand muss. Starten Sie im Besucherzentrum La Rocina, um die Flora und Fauna kennenzulernen.\n\nMittags erreichen Sie das Dorf und besuchen die Ermita. Ein Picknick an den Marismas bietet eine tolle Aussicht auf die Sumpflandschaft.\n\nDer Nachmittag führt Sie zum Ajolí-Brücke und endet auf dem Acebuchal-Platz, wo Sie unter uralten Bäumen entspannen können.",
+        "hu": "A kerékpározás itt kihívás a homok miatt, de megéri. Kezdjen a La Rocina látogatóközpontnál, ahol megismerheti a park természetvilágát.\n\nDélben érkezzen a faluba, látogasson el a kápolnához, majd keressen egy árnyas helyet a mocsár partján az ebédhez.\n\nDélután tekerjen ki az Ajolí hídhoz, a napot pedig az Acebuchal téren zárja a hatalmas vadolajfák alatt.",
+        "ro": "Pedalatul în El Rocío este o aventură din cauza nisipului. Începeți la centrul La Rocina pentru a vedea păsările în mediul lor natural.\n\nLa prânz, vizitați Ermita și bucurați-vă de peisajul mlaștinilor. Este un loc perfect pentru relaxare activă.\n\nDupă-amiaza, mergeți spre Podul Ajolí și încheiați în Plaza del Acebuchal, sub umbra măslinilor sălbatici seculari.",
+        "en": "Cycling here is an adventure due to the sandy terrain. Start at La Rocina visitor center to explore the nature trails and bird hides.\n\nAt midday, head into the village for the Ermita and a lunch break by the water. Watching the wildlife from your bike is a unique experience.\n\nSpend your afternoon riding out to the Ajolí bridge and finish at the Acebuchal square, a peaceful spot under ancient trees."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bocadillo de Jamón",
+            "tip": "Einfach und lecker für unterwegs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bocadillo de Jamón",
+            "tip": "Egyszerű és finom sonkás szendvics."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bocadillo de Jamón",
+            "tip": "Sandviș cu șuncă locală, ideal pentru drum."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ham Sandwich",
+            "tip": "Simple and delicious local ham on crusty bread."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "La Rocina Pfade",
+            "tip": "Sehr ruhig am Vormittag.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "La Rocina ösvények",
+            "tip": "Nagyon csendes délelőtti sétahely.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Traseele La Rocina",
+            "tip": "Foarte liniștite dimineața.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "La Rocina Trails",
+            "tip": "Very peaceful early in the morning.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirläden an der Ermita",
+            "tip": "Religiöse Artikel."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ajándékboltok a kápolnánál",
+            "tip": "Vallási emléktárgyak és kegytárgyak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine lângă Ermita",
+            "tip": "Articole religioase și suveniruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ermita Souvenirs",
+            "tip": "Religious items and local crafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Ein Mountainbike mit breiten Reifen ist notwendig.",
+          "Viel Wasser mitnehmen.",
+          "Sandpassagen können anstrengend sein."
+        ],
+        "hu": [
+          "Széles kerekű hegyi kerékpár javasolt.",
+          "Vigyen magával sok vizet.",
+          "A homokos szakaszok fárasztóak lehetnek."
+        ],
+        "ro": [
+          "Este necesară o bicicletă cu cauciucuri late.",
+          "Luați multă apă cu voi.",
+          "Secțiunile cu nisip pot fi solicitante."
+        ],
+        "en": [
+          "A mountain bike with wide tires is essential for the sand.",
+          "Bring plenty of water.",
+          "Be prepared to push your bike in some sandy spots."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Radfahren in El Rocío ist ein Abenteuer, da man oft durch tiefen Sand muss. Starten Sie im Besucherzentrum La Rocina, um die Flora und Fauna kennenzulernen.\n\nMittags erreichen Sie das Dorf und besuchen die Ermita. Ein Picknick an den Marismas bietet eine tolle Aussicht auf die Sumpflandschaft.\n\nDer Nachmittag führt Sie zum Ajolí-Brücke und endet auf dem Acebuchal-Platz, wo Sie unter uralten Bäumen entspannen können.",
+            "hu": "A kerékpározás itt kihívás a homok miatt, de megéri. Kezdjen a La Rocina látogatóközpontnál, ahol megismerheti a park természetvilágát.\n\nDélben érkezzen a faluba, látogasson el a kápolnához, majd keressen egy árnyas helyet a mocsár partján az ebédhez.\n\nDélután tekerjen ki az Ajolí hídhoz, a napot pedig az Acebuchal téren zárja a hatalmas vadolajfák alatt.",
+            "ro": "Pedalatul în El Rocío este o aventură din cauza nisipului. Începeți la centrul La Rocina pentru a vedea păsările în mediul lor natural.\n\nLa prânz, vizitați Ermita și bucurați-vă de peisajul mlaștinilor. Este un loc perfect pentru relaxare activă.\n\nDupă-amiaza, mergeți spre Podul Ajolí și încheiați în Plaza del Acebuchal, sub umbra măslinilor sălbatici seculari.",
+            "en": "Cycling here is an adventure due to the sandy terrain. Start at La Rocina visitor center to explore the nature trails and bird hides.\n\nAt midday, head into the village for the Ermita and a lunch break by the water. Watching the wildlife from your bike is a unique experience.\n\nSpend your afternoon riding out to the Ajolí bridge and finish at the Acebuchal square, a peaceful spot under ancient trees."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Centro de Visitantes La Rocina",
+                "hu": "La Rocina látogatóközpont",
+                "ro": "Centrul La Rocina",
+                "en": "Centro de Visitantes La Rocina"
+              },
+              "tip_5lang": {
+                "de": "Schöne Wanderwege direkt ab dem Zentrum.",
+                "hu": "Gyönyörű tanösvények indulnak innen.",
+                "ro": "Trasee naturale superbe chiar de aici.",
+                "en": "Beautiful nature trails start here."
+              }
+            },
+            {
+              "name": {
+                "de": "Ermita de la Virgen del Rocío",
+                "hu": "Rocíói Szűz kápolna",
+                "ro": "Ermita de la Virgen del Rocío",
+                "en": "Ermita de la Virgen del Rocío"
+              },
+              "tip_5lang": {
+                "de": "Fahrrad draußen anbinden.",
+                "hu": "A kerékpárt kint kell hagyni.",
+                "ro": "Lăsați bicicleta legată afară.",
+                "en": "Lock your bike outside the chapel."
+              }
+            },
+            {
+              "name": {
+                "de": "Marismas del Rocío",
+                "hu": "Rocíói mocsárvilág",
+                "ro": "Marismas del Rocío",
+                "en": "Marismas del Rocío"
+              },
+              "tip_5lang": {
+                "de": "Perfekt für eine Picknickpause.",
+                "hu": "Tökéletes hely egy piknikhez.",
+                "ro": "Loc ideal pentru un picnic.",
+                "en": "Great spot for a picnic break."
+              }
+            },
+            {
+              "name": {
+                "de": "Puente del Ajolí",
+                "hu": "Ajolí híd",
+                "ro": "Puente del Ajolí",
+                "en": "Puente del Ajolí"
+              },
+              "tip_5lang": {
+                "de": "Sandige Wege erfordern gute Reifen.",
+                "hu": "A homokos utak jó gumikat igényelnek.",
+                "ro": "Drumurile cu nisip necesită cauciucuri bune.",
+                "en": "Sandy paths require wide tires."
+              }
+            },
+            {
+              "name": {
+                "de": "Plaza del Acebuchal",
+                "hu": "Acebuchal tér",
+                "ro": "Plaza del Acebuchal",
+                "en": "Plaza del Acebuchal"
+              },
+              "tip_5lang": {
+                "de": "Schatten unter alten Ölbäumen.",
+                "hu": "Árnyék az öreg vadolajfák alatt.",
+                "ro": "Umbră sub măslinii sălbatici vechi.",
+                "en": "Shade under ancient wild olive trees."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Bocadillo de Jamón",
+                "tip": "Einfach und lecker für unterwegs."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Bocadillo de Jamón",
+                "tip": "Egyszerű és finom sonkás szendvics."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Bocadillo de Jamón",
+                "tip": "Sandviș cu șuncă locală, ideal pentru drum."
+              }
+            ],
+            "en": [
+              {
+                "name": "Ham Sandwich",
+                "tip": "Simple and delicious local ham on crusty bread."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "La Rocina Pfade",
+                "tip": "Sehr ruhig am Vormittag.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "La Rocina ösvények",
+                "tip": "Nagyon csendes délelőtti sétahely.",
+                "emoji": "🍃"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Traseele La Rocina",
+                "tip": "Foarte liniștite dimineața.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "La Rocina Trails",
+                "tip": "Very peaceful early in the morning.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Souvenirläden an der Ermita",
+                "tip": "Religiöse Artikel."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Ajándékboltok a kápolnánál",
+                "tip": "Vallási emléktárgyak és kegytárgyak."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Magazine lângă Ermita",
+                "tip": "Articole religioase și suveniruri."
+              }
+            ],
+            "en": [
+              {
+                "name": "Ermita Souvenirs",
+                "tip": "Religious items and local crafts."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Ein Mountainbike mit breiten Reifen ist notwendig.",
+              "Viel Wasser mitnehmen.",
+              "Sandpassagen können anstrengend sein."
+            ],
+            "hu": [
+              "Széles kerekű hegyi kerékpár javasolt.",
+              "Vigyen magával sok vizet.",
+              "A homokos szakaszok fárasztóak lehetnek."
+            ],
+            "ro": [
+              "Este necesară o bicicletă cu cauciucuri late.",
+              "Luați multă apă cu voi.",
+              "Secțiunile cu nisip pot fi solicitante."
+            ],
+            "en": [
+              "A mountain bike with wide tires is essential for the sand.",
+              "Bring plenty of water.",
+              "Be prepared to push your bike in some sandy spots."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens führt die Fahrt durch den nassen Pinienwald von La Rocina, wo der Duft besonders intensiv ist. Mittags bietet die Ermita Schutz für Mensch und Rad.\nNachmittags ist die Tour durch die Marismas eine Herausforderung im Schlamm, aber belohnt mit einsamen Ausblicken. Abends endet die Fahrt im historischen Zentrum, wo man die Ausrüstung reinigen kann.",
+            "hu": "Reggel az út a La Rocina nedves fenyőerdőin át vezet, ahol az illatok különösen intenzívek. Délben az Ermita nyújt menedéket biciklisnek és gépnek egyaránt.\nDélután a mocsarak menti tekerés kihívást jelent a sárban, de magányos kilátással jutalmaz. Este a túra a központban ér véget, ahol lehetőség van a felszerelés letisztítására.",
+            "ro": "Dimineața, traseul trece prin pădurea umedă de pini La Rocina, unde mirosul este intens. La prânz, Ermita oferă adăpost atât pentru biciclist, cât și pentru bicicletă.\nDupă-amiaza, tura prin mlaștini este o provocare prin noroi, dar răsplătește cu vederi solitare. Seara se încheie în centrul istoric, unde puteți curăța echipamentul.",
+            "en": "In the morning, the ride leads through the wet pine forests of La Rocina, where scents are intense. At noon, the Ermita offers shelter for both rider and bike.\nIn the afternoon, the marsh tour is a challenge in the mud but rewards with solitary views. In the evening, the trip ends in the historic center where you can clean your gear."
+          },
+          "stops": [
+            {
+              "name": "Centro de Visitantes La Rocina",
+              "tip_5lang": {
+                "de": "Fahrradständer unter Dach vorhanden.",
+                "hu": "Fedett biciklitároló áll rendelkezésre.",
+                "ro": "Suporturi de biciclete acoperite disponibile.",
+                "en": "Covered bike racks available."
+              }
+            },
+            {
+              "name": "Ermita de la Virgen del Rocío",
+              "tip_5lang": {
+                "de": "Stellen Sie das Rad an die Außenmauer unter den Vorsprung.",
+                "hu": "Állítsa a biciklit a külső fal menti párkány alá.",
+                "ro": "Lăsați bicicleta sub streașina peretelui exterior.",
+                "en": "Park the bike under the ledge by the outer wall."
+              }
+            },
+            {
+              "name": "Marismas del Rocío",
+              "tip_5lang": {
+                "de": "Vorsicht bei Schlamm, die Reifen können leicht wegrutschen.",
+                "hu": "Vigyázat a sárban, a kerekek könnyen megcsúszhatnak.",
+                "ro": "Atenție la noroi, anvelopele pot aluneca ușor.",
+                "en": "Careful in the mud, tires can slip easily."
+              }
+            },
+            {
+              "name": "Puente del Ajolí",
+              "tip_5lang": {
+                "de": "Steigen Sie ab und schieben Sie das Rad über das nasse Holz.",
+                "hu": "Szálljon le és tolja a biciklit a nedves fán.",
+                "ro": "Coborâți și împingeți bicicleta pe lemnul ud.",
+                "en": "Dismount and push the bike across the wet wood."
+              }
+            },
+            {
+              "name": "Plaza del Acebuchal",
+              "tip_5lang": {
+                "de": "Viele Cafés erlauben das Abstellen des Rades in Sichtweite.",
+                "hu": "Sok kávézó megengedi a bicikli leállítását látótávolságban.",
+                "ro": "Multe cafenele permit lăsarea bicicletei la vedere.",
+                "en": "Many cafes allow parking the bike within sight."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Verwenden Sie Schutzbleche, der Sand-Schlamm spritzt sehr stark.",
+              "Die unbefestigten Wege können bei Starkregen unpassierbar werden.",
+              "Bremsbeläge verschleißen im nassen Sand schneller, vorab prüfen.",
+              "Vermeiden Sie tiefe Pfützen, der Boden darunter kann tückisch weich sein."
+            ],
+            "hu": [
+              "Használjon sárvédőt, mert a homokos sár nagyon felverődik.",
+              "A burkolatlan utak heves esőzéskor járhatatlanná válhatnak.",
+              "A fékbetétek vizes homokban gyorsabban kopnak, ellenőrizze őket.",
+              "Kerülje a mély tócsákat, az alatta lévő talaj csalóka és puha lehet."
+            ],
+            "ro": [
+              "Folosiți apărători, noroiul nisipos stropește foarte tare.",
+              "Drumurile neasfaltate pot deveni impracticabile la ploi torențiale.",
+              "Plăcuțele de frână se uzuază mai repede în nisip ud, verificați-le.",
+              "Evitați bălțile adânci, solul de dedesubt poate fi înșelător de moale."
+            ],
+            "en": [
+              "Use mudguards; the sandy mud splashes significantly.",
+              "Unpaved paths can become impassable during heavy rain.",
+              "Brake pads wear out faster in wet sand; check them beforehand.",
+              "Avoid deep puddles; the ground beneath can be treacherously soft."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens ist die Luft frisch und klar, ideal für die Fahrt zum La Rocina Besucherzentrum. Mittags wärmt die Sonne den Rücken, während man zur Ermita radelt.\nNachmittags gleitet man entlang der Marismas, wo die Wintervögel ein ständiges Konzert geben. Abends sollte man rechtzeitig zurück sein, da es nach Sonnenuntergang schnell abkühlt.",
+            "hu": "Reggel a levegő friss és tiszta, ideális a tekeréshez a La Rocina központ felé. Délben a nap melegíti a hátunkat, miközben az Ermita felé biciklizünk.\nDélután a mocsarak mentén gurulva a téli madarak folyamatos koncertjét hallgathatjuk. Este érdemes időben visszaérni, mert naplemente után gyorsan lehűl az idő.",
+            "ro": "Dimineața aerul este proaspăt și clar, ideal pentru drumul spre centrul La Rocina. La prânz, soarele vă încălzește spatele în timp ce pedalați spre Ermita.\nDupă-amiaza pedalați de-a lungul mlaștinilor, unde păsările de iarnă oferă un concert continuu. Seara e bine să vă întoarceți la timp, deoarece se răcește rapid după apus.",
+            "en": "In the morning, the air is fresh and clear, ideal for the ride to La Rocina center. At noon, the sun warms your back while cycling towards the Ermita.\nIn the afternoon, glide along the marshes where winter birds provide a constant concert. In the evening, aim to be back on time as it cools down quickly after sunset."
+          },
+          "stops": [
+            {
+              "name": "Centro de Visitantes La Rocina",
+              "tip_5lang": {
+                "de": "Die schattigen Waldwege sind im Winter angenehm kühl.",
+                "hu": "Az árnyékos erdei utak télen kellemesen hűvösek.",
+                "ro": "Potecile umbrite din pădure sunt plăcut de răcoroase iarna.",
+                "en": "Shady forest paths are pleasantly cool in winter."
+              }
+            },
+            {
+              "name": "Ermita de la Virgen del Rocío",
+              "tip_5lang": {
+                "de": "Der helle Vorplatz reflektiert die warme Wintersonne.",
+                "hu": "A világos előtér visszaveri a meleg téli napsütést.",
+                "ro": "Piața luminoasă reflectă soarele cald de iarnă.",
+                "en": "The bright forecourt reflects the warm winter sun."
+              }
+            },
+            {
+              "name": "Marismas del Rocío",
+              "tip_5lang": {
+                "de": "Halt für Vogelfotos einplanen – beste Sicht im Winter.",
+                "hu": "Tervezzen megállót madárfotózáshoz – télen a legjobb a kilátás.",
+                "ro": "Planificați o oprire pentru poze cu păsări – cea mai bună vizibilitate iarna.",
+                "en": "Plan a stop for bird photos – best visibility in winter."
+              }
+            },
+            {
+              "name": "Puente del Ajolí",
+              "tip_5lang": {
+                "de": "Ein schöner Ort für eine kurze Pause im milden Licht.",
+                "hu": "Szép hely egy rövid pihenőre a lágy fényekben.",
+                "ro": "Un loc frumos pentru o scurtă pauză în lumina blândă.",
+                "en": "A beautiful spot for a short break in the mild light."
+              }
+            },
+            {
+              "name": "Plaza del Acebuchal",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Sonnenplätze für das Picknick.",
+                "hu": "Használja a napos helyeket a piknikezéshez.",
+                "ro": "Folosiți locurile însorite pentru picnic.",
+                "en": "Use the sunny spots for a picnic."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Handschuhe sind für die kühlen Morgenstunden empfehlenswert.",
+              "Die Wege sind im Winter meist fest und gut befahrbar.",
+              "Nehmen Sie eine Thermoskanne mit einem warmen Getränk mit.",
+              "Beleuchtung am Rad ist wichtig, falls Sie in die Dämmerung kommen."
+            ],
+            "hu": [
+              "A hűvös reggeli órákban ajánlott a kesztyű használata.",
+              "Az utak télen többnyire kemények és jól járhatóak.",
+              "Vigyen magával termoszt egy meleg itallal.",
+              "A világítás fontos, ha esetleg besötétedne a túra végére."
+            ],
+            "ro": [
+              "Mănușile sunt recomandate pentru orele răcoroase ale dimineții.",
+              "Drumurile sunt de obicei ferme și ușor de parcurs iarna.",
+              "Luați un termos cu o băutură caldă.",
+              "Iluminarea bicicletei este importantă dacă vă prinde amurgul."
+            ],
+            "en": [
+              "Gloves are recommended for the cool morning hours.",
+              "The paths are mostly firm and easily rideable in winter.",
+              "Bring a thermos with a warm drink.",
+              "Bike lighting is important in case you get caught in the twilight."
+            ]
+          }
+        }
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 20.0,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 25.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Palacio del Acebrón",
+            "hu": "Acebrón palota",
+            "ro": "Palatul Acebrón",
+            "en": "Palacio del Acebrón"
+          },
+          "coords": [
+            -6.545,
+            37.135
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:20",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Ehemaliges Jagdschloss mit Museum.",
+            "hu": "Egykori vadászkastély múzeummal.",
+            "ro": "Fost conac de vânătoare cu muzeu.",
+            "en": "Former hunting lodge with a museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Centro de Visitantes La Rocina",
+            "hu": "La Rocina látogatóközpont",
+            "ro": "Centrul La Rocina",
+            "en": "Centro de Visitantes La Rocina"
+          },
+          "coords": [
+            -6.505,
+            37.125
+          ],
+          "category": "natural features",
+          "arrive_at": "11:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Großer kostenloser Parkplatz.",
+            "hu": "Nagy, ingyenes parkoló.",
+            "ro": "Parcare mare gratuită.",
+            "en": "Large free parking lot."
+          }
+        },
+        {
+          "name": {
+            "de": "Ermita de la Virgen del Rocío",
+            "hu": "Rocíói Szűz kápolna",
+            "ro": "Ermita de la Virgen del Rocío",
+            "en": "Ermita de la Virgen del Rocío"
+          },
+          "coords": [
+            -6.4852,
+            37.1321
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Parken am Dorfrand empfohlen.",
+            "hu": "Érdemes a falu szélén parkolni.",
+            "ro": "Parcați la marginea satului.",
+            "en": "Park at the village entrance to avoid deep sand."
+          }
+        },
+        {
+          "name": {
+            "de": "Marismas del Rocío",
+            "hu": "Rocíói mocsárvilág",
+            "ro": "Marismas del Rocío",
+            "en": "Marismas del Rocío"
+          },
+          "coords": [
+            -6.4875,
+            37.1305
+          ],
+          "category": "natural features",
+          "arrive_at": "14:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Blick auf Doñana direkt vom Auto aus möglich.",
+            "hu": "A kilátás az autóból is élvezhető.",
+            "ro": "Vedere spre Doñana direct din mașină.",
+            "en": "Views of Doñana right from the parking area."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Tesoro de la Virgen",
+            "hu": "A Szűz kincstára múzeum",
+            "ro": "Muzeul Tezaurului Fecioarei",
+            "en": "Museo Tesoro de la Virgen"
+          },
+          "coords": [
+            -6.4845,
+            37.1325
+          ],
+          "category": "museums",
+          "arrive_at": "15:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Klimatisiert und angenehm.",
+            "hu": "Légkondicionált és kellemes belső tér.",
+            "ro": "Interior climatizat și plăcut.",
+            "en": "Air-conditioned and pleasant inside."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto können Sie die entlegeneren Teile des Nationalparks wie den Acebrón-Palast besuchen. Starten Sie dort am frühen Morgen, um die Stille des Waldes zu genießen.\n\nMittags kehren Sie ins Dorf zurück. Nach einem Besuch der Ermita können Sie die Marismas bequem von den Aussichtspunkten am Dorfrand bewundern.\n\nDer Nachmittag endet mit einem kulturellen Highlight im Schatzmuseum der Jungfrau, bevor Sie die Rückreise antreten.",
+        "hu": "Autóval olyan távolabbi pontokat is elérhet, mint az Acebrón palota. Kezdje itt a reggelt, hogy élvezze az erdő csendjét és a múzeum kiállításait.\n\nDélben térjen vissza El Rocío faluba. A kápolna megtekintése után a falu széléről csodálhatja meg a mocsárvilágot.\n\nDélután látogasson el a kincstárba, ahol a vallási művészet remekeit őrzik, majd fejezze be a napot egy helyi étteremben.",
+        "ro": "Mașina vă oferă libertatea de a vedea locuri precum Palatul Acebrón, situat mai departe în pădure. Începeți ziua acolo pentru o experiență liniștită.\n\nLa prânz, reveniți în El Rocío. Vizitați Ermita și bucurați-vă de panorama mlaștinilor fără a merge prea mult prin soare.\n\nDupă-amiaza, descoperiți bogățiile Muzeului Tezaurului, un final cultural perfect pentru o zi în acest loc magic.",
+        "en": "A car is essential for visiting outliers like the Acebrón Palace. Start your morning there to enjoy the woodland trails before the heat of the day.\n\nAt midday, drive back to the village entrance. After visiting the Ermita, you can enjoy the marsh views from the comfort of the promenade.\n\nFinish your afternoon at the Treasury Museum, learning about the deep traditions of the Rocío pilgrimage before driving out."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Revuelto de Espárragos",
+            "tip": "Rührei mit wildem Spargel."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Revuelto de Espárragos",
+            "tip": "Tojásrántotta vadspárgával."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Revuelto de Espárragos",
+            "tip": "Omletă cu sparanghel sălbatic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Revuelto de Espárragos",
+            "tip": "Scrambled eggs with wild asparagus."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Palacio Acebrón Gärten",
+            "tip": "Sehr schattig und friedlich.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Acebrón palota kertje",
+            "tip": "Árnyas és rendkívül békés hely.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile Palatului Acebrón",
+            "tip": "Umbră și liniște totală.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Acebrón Palace Gardens",
+            "tip": "Very shady and peaceful forest setting.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Landestypische Hüte",
+            "tip": "Schutz vor der andalusischen Sonne."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hagyományos kalapok",
+            "tip": "Védelem az andalúz napsütés ellen."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pălării tradiționale",
+            "tip": "Protecție stilată împotriva soarelui."
+          }
+        ],
+        "en": [
+          {
+            "name": "Traditional Hats",
+            "tip": "Pick up a classic wide-brimmed Andalusian hat."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Fahren Sie im Dorf vorsichtig, der Sand ist tückisch.",
+          "Parken Sie nicht im tiefen Sand, man bleibt leicht stecken.",
+          "Navigationssysteme können ungenau sein."
+        ],
+        "hu": [
+          "Vezessen óvatosan a faluban a mély homok miatt.",
+          "Ne parkoljon puha homokba, könnyen elakadhat!",
+          "A navigáció néha pontatlan a homokos utak miatt."
+        ],
+        "ro": [
+          "Conduceți cu atenție în sat din cauza nisipului.",
+          "Nu parcați în nisip afânat, riscați să rămâneți blocați.",
+          "GPS-ul poate da erori pe drumurile neasfaltate."
+        ],
+        "en": [
+          "Drive slowly in the village; the sand is deep and tricky.",
+          "Don't park in soft sand or you might get stuck.",
+          "Navigation apps sometimes struggle with the sandy tracks."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto können Sie die entlegeneren Teile des Nationalparks wie den Acebrón-Palast besuchen. Starten Sie dort am frühen Morgen, um die Stille des Waldes zu genießen.\n\nMittags kehren Sie ins Dorf zurück. Nach einem Besuch der Ermita können Sie die Marismas bequem von den Aussichtspunkten am Dorfrand bewundern.\n\nDer Nachmittag endet mit einem kulturellen Highlight im Schatzmuseum der Jungfrau, bevor Sie die Rückreise antreten.",
+            "hu": "Autóval olyan távolabbi pontokat is elérhet, mint az Acebrón palota. Kezdje itt a reggelt, hogy élvezze az erdő csendjét és a múzeum kiállításait.\n\nDélben térjen vissza El Rocío faluba. A kápolna megtekintése után a falu széléről csodálhatja meg a mocsárvilágot.\n\nDélután látogasson el a kincstárba, ahol a vallási művészet remekeit őrzik, majd fejezze be a napot egy helyi étteremben.",
+            "ro": "Mașina vă oferă libertatea de a vedea locuri precum Palatul Acebrón, situat mai departe în pădure. Începeți ziua acolo pentru o experiență liniștită.\n\nLa prânz, reveniți în El Rocío. Vizitați Ermita și bucurați-vă de panorama mlaștinilor fără a merge prea mult prin soare.\n\nDupă-amiaza, descoperiți bogățiile Muzeului Tezaurului, un final cultural perfect pentru o zi în acest loc magic.",
+            "en": "A car is essential for visiting outliers like the Acebrón Palace. Start your morning there to enjoy the woodland trails before the heat of the day.\n\nAt midday, drive back to the village entrance. After visiting the Ermita, you can enjoy the marsh views from the comfort of the promenade.\n\nFinish your afternoon at the Treasury Museum, learning about the deep traditions of the Rocío pilgrimage before driving out."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Palacio del Acebrón",
+                "hu": "Acebrón palota",
+                "ro": "Palatul Acebrón",
+                "en": "Palacio del Acebrón"
+              },
+              "tip_5lang": {
+                "de": "Ehemaliges Jagdschloss mit Museum.",
+                "hu": "Egykori vadászkastély múzeummal.",
+                "ro": "Fost conac de vânătoare cu muzeu.",
+                "en": "Former hunting lodge with a museum."
+              }
+            },
+            {
+              "name": {
+                "de": "Centro de Visitantes La Rocina",
+                "hu": "La Rocina látogatóközpont",
+                "ro": "Centrul La Rocina",
+                "en": "Centro de Visitantes La Rocina"
+              },
+              "tip_5lang": {
+                "de": "Großer kostenloser Parkplatz.",
+                "hu": "Nagy, ingyenes parkoló.",
+                "ro": "Parcare mare gratuită.",
+                "en": "Large free parking lot."
+              }
+            },
+            {
+              "name": {
+                "de": "Ermita de la Virgen del Rocío",
+                "hu": "Rocíói Szűz kápolna",
+                "ro": "Ermita de la Virgen del Rocío",
+                "en": "Ermita de la Virgen del Rocío"
+              },
+              "tip_5lang": {
+                "de": "Parken am Dorfrand empfohlen.",
+                "hu": "Érdemes a falu szélén parkolni.",
+                "ro": "Parcați la marginea satului.",
+                "en": "Park at the village entrance to avoid deep sand."
+              }
+            },
+            {
+              "name": {
+                "de": "Marismas del Rocío",
+                "hu": "Rocíói mocsárvilág",
+                "ro": "Marismas del Rocío",
+                "en": "Marismas del Rocío"
+              },
+              "tip_5lang": {
+                "de": "Blick auf Doñana direkt vom Auto aus möglich.",
+                "hu": "A kilátás az autóból is élvezhető.",
+                "ro": "Vedere spre Doñana direct din mașină.",
+                "en": "Views of Doñana right from the parking area."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Tesoro de la Virgen",
+                "hu": "A Szűz kincstára múzeum",
+                "ro": "Muzeul Tezaurului Fecioarei",
+                "en": "Museo Tesoro de la Virgen"
+              },
+              "tip_5lang": {
+                "de": "Klimatisiert und angenehm.",
+                "hu": "Légkondicionált és kellemes belső tér.",
+                "ro": "Interior climatizat și plăcut.",
+                "en": "Air-conditioned and pleasant inside."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Revuelto de Espárragos",
+                "tip": "Rührei mit wildem Spargel."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Revuelto de Espárragos",
+                "tip": "Tojásrántotta vadspárgával."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Revuelto de Espárragos",
+                "tip": "Omletă cu sparanghel sălbatic."
+              }
+            ],
+            "en": [
+              {
+                "name": "Revuelto de Espárragos",
+                "tip": "Scrambled eggs with wild asparagus."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Palacio Acebrón Gärten",
+                "tip": "Sehr schattig und friedlich.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Acebrón palota kertje",
+                "tip": "Árnyas és rendkívül békés hely.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Grădinile Palatului Acebrón",
+                "tip": "Umbră și liniște totală.",
+                "emoji": "🍃"
+              }
+            ],
+            "en": [
+              {
+                "name": "Acebrón Palace Gardens",
+                "tip": "Very shady and peaceful forest setting.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Landestypische Hüte",
+                "tip": "Schutz vor der andalusischen Sonne."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Hagyományos kalapok",
+                "tip": "Védelem az andalúz napsütés ellen."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Pălării tradiționale",
+                "tip": "Protecție stilată împotriva soarelui."
+              }
+            ],
+            "en": [
+              {
+                "name": "Traditional Hats",
+                "tip": "Pick up a classic wide-brimmed Andalusian hat."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Fahren Sie im Dorf vorsichtig, der Sand ist tückisch.",
+              "Parken Sie nicht im tiefen Sand, man bleibt leicht stecken.",
+              "Navigationssysteme können ungenau sein."
+            ],
+            "hu": [
+              "Vezessen óvatosan a faluban a mély homok miatt.",
+              "Ne parkoljon puha homokba, könnyen elakadhat!",
+              "A navigáció néha pontatlan a homokos utak miatt."
+            ],
+            "ro": [
+              "Conduceți cu atenție în sat din cauza nisipului.",
+              "Nu parcați în nisip afânat, riscați să rămâneți blocați.",
+              "GPS-ul poate da erori pe drumurile neasfaltate."
+            ],
+            "en": [
+              "Drive slowly in the village; the sand is deep and tricky.",
+              "Don't park in soft sand or you might get stuck.",
+              "Navigation apps sometimes struggle with the sandy tracks."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens erreichen Sie bequem das Acebrón-Palais, während der Regen auf das Dach trommelt. Mittags ist das Besucherzentrum La Rocina ein trockener Stützpunkt für Naturbeobachtungen.\nNachmittags parken Sie nahe der Ermita und genießen den Blick auf die Marismas aus dem Auto. Abends bietet das Museum Schutz, bevor Sie bequem im Trockenen zurückfahren.",
+            "hu": "Reggel kényelmesen elérheti az Acebrón-palotát, miközben az eső kopog a tetőn. Délben a La Rocina látogatóközpont száraz bázis a természet megfigyeléséhez.\nDélután parkoljon le az Ermita közelében, és élvezze a mocsarak látványát az autóból. Este a múzeum nyújt menedéket, mielőtt szárazon hazaindulna.",
+            "ro": "Dimineața ajungeți confortabil la Palatul Acebrón, în timp ce ploaia bate în acoperiș. La prânz, centrul La Rocina este o bază uscată pentru observarea naturii.\nDupă-amiaza parcați lângă Ermita și admirați mlaștinile din mașină. Seara, muzeul oferă adăpost înainte de a pleca spre casă la uscat.",
+            "en": "In the morning, comfortably reach the Acebrón Palace while rain drums on the roof. At noon, the La Rocina visitor center is a dry base for nature observation.\nIn the afternoon, park near the Ermita and enjoy the marsh views from the car. In the evening, the museum provides shelter before a dry drive back."
+          },
+          "stops": [
+            {
+              "name": "Palacio del Acebrón",
+              "tip_5lang": {
+                "de": "Großer Parkplatz, kurzer Weg zum Eingang.",
+                "hu": "Nagy parkoló, rövid séta a bejáratig.",
+                "ro": "Parcare mare, drum scurt până la intrare.",
+                "en": "Large parking lot, short walk to the entrance."
+              }
+            },
+            {
+              "name": "Centro de Visitantes La Rocina",
+              "tip_5lang": {
+                "de": "Beobachten Sie Vögel aus den überdachten Hütten.",
+                "hu": "Figyelje a madarakat a fedett kunyhókból.",
+                "ro": "Observați păsările din colibele acoperite.",
+                "en": "Observe birds from the covered hides."
+              }
+            },
+            {
+              "name": "Ermita de la Virgen del Rocío",
+              "tip_5lang": {
+                "de": "Parken Sie auf festem Grund am Dorfrand.",
+                "hu": "Parkoljon szilárd talajon a falu szélén.",
+                "ro": "Parcați pe teren ferm la marginea satului.",
+                "en": "Park on firm ground at the edge of the village."
+              }
+            },
+            {
+              "name": "Marismas del Rocío",
+              "tip_5lang": {
+                "de": "Vom Parkstreifen am Paseo hat man eine tolle Sicht.",
+                "hu": "A Paseo menti parkolósávból remek a kilátás.",
+                "ro": "De pe banda de parcare de pe Paseo aveți o vedere excelentă.",
+                "en": "Great views from the parking strip along the Paseo."
+              }
+            },
+            {
+              "name": "Museo Tesoro de la Virgen",
+              "tip_5lang": {
+                "de": "Perfekter Abschluss bei schlechtem Wetter.",
+                "hu": "Tökéletes záróprogram rossz idő esetén.",
+                "ro": "Final perfect pentru o zi cu vreme rea.",
+                "en": "Perfect final stop in bad weather."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie tiefen Sand auf den Parkplätzen, man kann leicht stecken bleiben.",
+              "Nutzen Sie das Auto als mobilen Beobachtungspunkt bei starken Schauern.",
+              "Die Zufahrtsstraßen zu den Naturzentren sind asphaltiert und sicher.",
+              "Hinterlassen Sie keine Wertsachen im Auto, auch nicht bei Regen."
+            ],
+            "hu": [
+              "Kerülje a mély homokot a parkolókban, könnyen elakadhat az autó.",
+              "Használja az autót mobil megfigyelőpontként heves záporok idején.",
+              "A természetvédelmi központokhoz vezető utak aszfaltozottak és biztonságosak.",
+              "Ne hagyjon értéket az autóban, esőben sem."
+            ],
+            "ro": [
+              "Evitați nisipul adânc în parcări, puteți rămâne blocat ușor.",
+              "Folosiți mașina ca punct mobil de observare în timpul averselor.",
+              "Drumurile de acces spre centrele naturale sunt asfaltate și sigure.",
+              "Nu lăsați obiecte de valoare în mașină, nici măcar pe ploaie."
+            ],
+            "en": [
+              "Avoid deep sand in the parking lots; it's easy to get stuck.",
+              "Use the car as a mobile observation point during heavy showers.",
+              "Access roads to the nature centers are paved and safe.",
+              "Do not leave valuables in the car, even in the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens genießen Sie die Fahrt durch die nebligen Pinienwälder zum Acebrón-Palais. Mittags ist das milde Licht perfekt für Fotos am La Rocina Zentrum.\nNachmittags parken Sie am Ufer der Marismas und beobachten das winterliche Treiben der Flamingos. Abends sorgt die Sitzheizung für Komfort nach einem Spaziergang im kühlen El Rocío.",
+            "hu": "Reggel élvezze az utat a ködös fenyőerdőkön át az Acebrón-palotáig. Délben a lágy fények tökéletesek a fotózáshoz a La Rocina központnál.\nDélután parkoljon le a mocsarak partján, és figyelje a flamingók téli életét. Este az ülésfűtés nyújt kényelmet a hűvös El Rocíóban tett séta után.",
+            "ro": "Dimineața bucurați-vă de drumul prin pădurile cețoase de pini spre Palatul Acebrón. La prânz, lumina blândă este perfectă pentru poze la centrul La Rocina.\nDupă-amiaza parcați pe malul mlaștinilor și observați flamingii iarna. Seara, încălzirea în scaune oferă confort după o plimbare în răcorosul El Rocío.",
+            "en": "In the morning, enjoy the drive through misty pine forests to the Acebrón Palace. At noon, the mild light is perfect for photos at the La Rocina center.\nIn the afternoon, park by the marshes and observe the winter activity of the flamingos. In the evening, heated seats provide comfort after a walk in cool El Rocío."
+          },
+          "stops": [
+            {
+              "name": "Palacio del Acebrón",
+              "tip_5lang": {
+                "de": "Das Interieur ist im Winter angenehm temperiert.",
+                "hu": "A belső terek télen kellemes hőmérsékletűek.",
+                "ro": "Interiorul are o temperatură plăcută iarna.",
+                "en": "The interior is pleasantly tempered in winter."
+              }
+            },
+            {
+              "name": "Centro de Visitantes La Rocina",
+              "tip_5lang": {
+                "de": "Kurze Wanderwege sind auch bei kühler Luft ideal.",
+                "hu": "A rövid túraösvények hűvös időben is ideálisak.",
+                "ro": "Traseele scurte sunt ideale chiar și pe aer rece.",
+                "en": "Short hiking trails are ideal even in cool air."
+              }
+            },
+            {
+              "name": "Ermita de la Virgen del Rocío",
+              "tip_5lang": {
+                "de": "Parkplätze sind im Winter näher am Zentrum verfügbar.",
+                "hu": "Télen a parkolóhelyek közelebb elérhetőek a központhoz.",
+                "ro": "Locurile de parcare sunt mai aproape de centru iarna.",
+                "en": "Parking spots are available closer to the center in winter."
+              }
+            },
+            {
+              "name": "Marismas del Rocío",
+              "tip_5lang": {
+                "de": "Spektakuläre Sonnenuntergänge über dem Wasser.",
+                "hu": "Látványos naplementék a víz felett.",
+                "ro": "Apusuri spectaculoase peste apă.",
+                "en": "Spectacular sunsets over the water."
+              }
+            },
+            {
+              "name": "Museo Tesoro de la Virgen",
+              "tip_5lang": {
+                "de": "Ein kulturelles Highlight für kühle Nachmittage.",
+                "hu": "Kulturális fénypont a hűvös délutánokra.",
+                "ro": "Un punct cultural culminant pentru după-amiezile reci.",
+                "en": "A cultural highlight for cool afternoons."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die kürzeren Wege vom Parkplatz, um nicht auszukühlen.",
+              "Die Sichtweite ist im Winter oft klarer, ideal für Weitblick-Fotos.",
+              "Fenster beim Beobachten der Vögel nur kurz öffnen (Zugluft).",
+              "Planen Sie die Rückfahrt vor Einbruch der Dunkelheit (Wildwechsel)."
+            ],
+            "hu": [
+              "Használja a parkolóból nyíló rövidebb utakat, hogy ne hűljön ki.",
+              "A látótávolság télen gyakran tisztább, ideális a tájképekhez.",
+              "Madárles közben csak rövid ideig nyissa le az ablakot (huzat).",
+              "A visszautat tervezze sötétedés előttre (vadveszély)."
+            ],
+            "ro": [
+              "Folosiți traseele scurte din parcare pentru a nu vă răci.",
+              "Vizibilitatea este adesea mai clară iarna, ideală pentru poze panoramice.",
+              "Deschideți geamul doar scurt când observați păsările (curent).",
+              "Planificați drumul de întoarcere înainte de lăsarea întunericului."
+            ],
+            "en": [
+              "Use shorter paths from the parking lot to avoid getting cold.",
+              "Visibility is often clearer in winter, ideal for landscape photos.",
+              "Open windows only briefly when observing birds (drafts).",
+              "Plan the return trip before dark (wildlife crossing)."
+            ]
+          }
+        }
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15.0,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 4.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Ermita de la Virgen del Rocío",
+            "hu": "Rocíói Szűz kápolna",
+            "ro": "Ermita de la Virgen del Rocío",
+            "en": "Ermita de la Virgen del Rocío"
+          },
+          "coords": [
+            -6.4852,
+            37.1321
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Hauptbushaltestelle ist 10 Min. entfernt.",
+            "hu": "A fő buszmegálló 10 perc sétára van.",
+            "ro": "Stația principală e la 10 minute de mers.",
+            "en": "Main bus stop is a 10-minute walk away."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Tesoro de la Virgen",
+            "hu": "A Szűz kincstára múzeum",
+            "ro": "Muzeul Tezaurului Fecioarei",
+            "en": "Museo Tesoro de la Virgen"
+          },
+          "coords": [
+            -6.4845,
+            37.1325
+          ],
+          "category": "museums",
+          "arrive_at": "10:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Direkt neben der Ermita.",
+            "hu": "Közvetlenül a kápolna mellett.",
+            "ro": "Chiar lângă Ermita.",
+            "en": "Right next to the chapel."
+          }
+        },
+        {
+          "name": {
+            "de": "Paseo Marismeño",
+            "hu": "Mocsár menti sétány",
+            "ro": "Paseo Marismeño",
+            "en": "Paseo Marismeño"
+          },
+          "coords": [
+            -6.4865,
+            37.131
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Schöner Platz für eine Pause.",
+            "hu": "Kellemes hely egy kis pihenőhöz.",
+            "ro": "Loc plăcut pentru o pauză scurtă.",
+            "en": "Nice place for a short break."
+          }
+        },
+        {
+          "name": {
+            "de": "Marismas del Rocío",
+            "hu": "Rocíói mocsárvilág",
+            "ro": "Marismas del Rocío",
+            "en": "Marismas del Rocío"
+          },
+          "coords": [
+            -6.4875,
+            37.1305
+          ],
+          "category": "natural features",
+          "arrive_at": "13:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Vogelbeobachtung direkt vom Ufer.",
+            "hu": "Madármegfigyelés közvetlenül a partról.",
+            "ro": "Observarea păsărilor direct de pe mal.",
+            "en": "Birdwatching directly from the shore."
+          }
+        },
+        {
+          "name": {
+            "de": "Plaza del Acebuchal",
+            "hu": "Acebuchal tér",
+            "ro": "Plaza del Acebuchal",
+            "en": "Plaza del Acebuchal"
+          },
+          "coords": [
+            -6.482,
+            37.1335
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "15:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Authentische Atmosphäre.",
+            "hu": "Eredeti, autentikus hangulat.",
+            "ro": "Atmosferă autentică locală.",
+            "en": "Authentic local atmosphere."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "El Rocío ist über Busverbindungen von Huelva oder Sevilla erreichbar. Starten Sie bei der Ermita, die nur einen kurzen Spaziergang von der Haltestelle entfernt ist.\n\nMittags erkunden Sie das Schatzmuseum und spazieren dann zum Seeufer, um die Tierwelt zu beobachten.\n\nDer Nachmittag endet gemütlich im Dorf, bevor Sie den Bus zurück nehmen. Die sandigen Straßen machen das Gehen zwar langsamer, aber umso stimmungsvoller.",
+        "hu": "El Rocío elérhető busszal Huelvából vagy Sevillából is. Kezdje a zarándokkápolnával, amely sétatávolságra van a megállótól.\n\nDélben látogasson el a kincstárba, majd pihenjen meg a sétányon, figyelve a mocsár élővilágát.\n\nA délutánt töltse az ófalu felfedezésével, mielőtt visszaindulna a busszal. A homokos utcák varázsa feledhetetlen élmény.",
+        "ro": "Puteți ajunge în El Rocío cu autobuzul din Huelva sau Sevilla. Începeți la Ermita, simbolul satului, aflată la scurtă distanță de mers pe jos de stație.\n\nLa prânz, vizitați muzeul și apoi faleza pentru a vedea păsările migratoare.\n\nDupă-amiaza plimbați-vă pe străzile cu nisip din zona centrală înainte de a lua autobuzul de întoarcere.",
+        "en": "El Rocío is connected by bus to Huelva and Seville. Start at the main chapel, which is a short but sandy walk from the bus terminal.\n\nAt midday, visit the Treasury Museum and then head to the marsh promenade for some birdwatching.\n\nSpend your afternoon enjoying the unique atmosphere of the sandy streets before heading back to the bus stop for your return journey."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Tapas Variadas",
+            "tip": "Probieren Sie verschiedene Kleinigkeiten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vegyes tapaszok",
+            "tip": "Kóstoljon meg többféle helyi falatkát."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tapas variate",
+            "tip": "Încercați diverse gustări locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Assorted Tapas",
+            "tip": "Sample a variety of local snacks at a village bar."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Dorfkirche",
+            "tip": "Kühler und ruhiger Ort.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kápolna belső tere",
+            "tip": "Hűvös és csendes elvonulóhely.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Interiorul bisericii",
+            "tip": "Un loc răcoros și liniștit.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Church Interior",
+            "tip": "A cool and quiet place for reflection.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Postkarten-Shop",
+            "tip": "Klassische Motive des Dorfes."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Képeslapbolt",
+            "tip": "Hagyományos falusi motívumok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de vederi",
+            "tip": "Imagini clasice cu satul."
+          }
+        ],
+        "en": [
+          {
+            "name": "Postcard Shop",
+            "tip": "Classic images of the village and its horses."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Buszeiten vorab, sie sind begrenzt.",
+          "Sonnenschutz ist auf den offenen Plätzen wichtig.",
+          "Vermeiden Sie die Mittagshitze."
+        ],
+        "hu": [
+          "Ellenőrizze a buszmenetrendet, mert ritkán járnak.",
+          "A naptej kötelező a nyílt tereken.",
+          "Kerülje a déli forróságot."
+        ],
+        "ro": [
+          "Verificați orarul autobuzelor, sunt puține pe zi.",
+          "Protecția solară e vitală în spațiile deschise.",
+          "Evitați orele amiezii pentru mersul pe jos."
+        ],
+        "en": [
+          "Check bus times in advance as services are limited.",
+          "Sun protection is essential in the open sandy squares.",
+          "Avoid walking during the peak afternoon heat."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "El Rocío ist über Busverbindungen von Huelva oder Sevilla erreichbar. Starten Sie bei der Ermita, die nur einen kurzen Spaziergang von der Haltestelle entfernt ist.\n\nMittags erkunden Sie das Schatzmuseum und spazieren dann zum Seeufer, um die Tierwelt zu beobachten.\n\nDer Nachmittag endet gemütlich im Dorf, bevor Sie den Bus zurück nehmen. Die sandigen Straßen machen das Gehen zwar langsamer, aber umso stimmungsvoller.",
+            "hu": "El Rocío elérhető busszal Huelvából vagy Sevillából is. Kezdje a zarándokkápolnával, amely sétatávolságra van a megállótól.\n\nDélben látogasson el a kincstárba, majd pihenjen meg a sétányon, figyelve a mocsár élővilágát.\n\nA délutánt töltse az ófalu felfedezésével, mielőtt visszaindulna a busszal. A homokos utcák varázsa feledhetetlen élmény.",
+            "ro": "Puteți ajunge în El Rocío cu autobuzul din Huelva sau Sevilla. Începeți la Ermita, simbolul satului, aflată la scurtă distanță de mers pe jos de stație.\n\nLa prânz, vizitați muzeul și apoi faleza pentru a vedea păsările migratoare.\n\nDupă-amiaza plimbați-vă pe străzile cu nisip din zona centrală înainte de a lua autobuzul de întoarcere.",
+            "en": "El Rocío is connected by bus to Huelva and Seville. Start at the main chapel, which is a short but sandy walk from the bus terminal.\n\nAt midday, visit the Treasury Museum and then head to the marsh promenade for some birdwatching.\n\nSpend your afternoon enjoying the unique atmosphere of the sandy streets before heading back to the bus stop for your return journey."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ermita de la Virgen del Rocío",
+                "hu": "Rocíói Szűz kápolna",
+                "ro": "Ermita de la Virgen del Rocío",
+                "en": "Ermita de la Virgen del Rocío"
+              },
+              "tip_5lang": {
+                "de": "Hauptbushaltestelle ist 10 Min. entfernt.",
+                "hu": "A fő buszmegálló 10 perc sétára van.",
+                "ro": "Stația principală e la 10 minute de mers.",
+                "en": "Main bus stop is a 10-minute walk away."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Tesoro de la Virgen",
+                "hu": "A Szűz kincstára múzeum",
+                "ro": "Muzeul Tezaurului Fecioarei",
+                "en": "Museo Tesoro de la Virgen"
+              },
+              "tip_5lang": {
+                "de": "Direkt neben der Ermita.",
+                "hu": "Közvetlenül a kápolna mellett.",
+                "ro": "Chiar lângă Ermita.",
+                "en": "Right next to the chapel."
+              }
+            },
+            {
+              "name": {
+                "de": "Paseo Marismeño",
+                "hu": "Mocsár menti sétány",
+                "ro": "Paseo Marismeño",
+                "en": "Paseo Marismeño"
+              },
+              "tip_5lang": {
+                "de": "Schöner Platz für eine Pause.",
+                "hu": "Kellemes hely egy kis pihenőhöz.",
+                "ro": "Loc plăcut pentru o pauză scurtă.",
+                "en": "Nice place for a short break."
+              }
+            },
+            {
+              "name": {
+                "de": "Marismas del Rocío",
+                "hu": "Rocíói mocsárvilág",
+                "ro": "Marismas del Rocío",
+                "en": "Marismas del Rocío"
+              },
+              "tip_5lang": {
+                "de": "Vogelbeobachtung direkt vom Ufer.",
+                "hu": "Madármegfigyelés közvetlenül a partról.",
+                "ro": "Observarea păsărilor direct de pe mal.",
+                "en": "Birdwatching directly from the shore."
+              }
+            },
+            {
+              "name": {
+                "de": "Plaza del Acebuchal",
+                "hu": "Acebuchal tér",
+                "ro": "Plaza del Acebuchal",
+                "en": "Plaza del Acebuchal"
+              },
+              "tip_5lang": {
+                "de": "Authentische Atmosphäre.",
+                "hu": "Eredeti, autentikus hangulat.",
+                "ro": "Atmosferă autentică locală.",
+                "en": "Authentic local atmosphere."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Tapas Variadas",
+                "tip": "Probieren Sie verschiedene Kleinigkeiten."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Vegyes tapaszok",
+                "tip": "Kóstoljon meg többféle helyi falatkát."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Tapas variate",
+                "tip": "Încercați diverse gustări locale."
+              }
+            ],
+            "en": [
+              {
+                "name": "Assorted Tapas",
+                "tip": "Sample a variety of local snacks at a village bar."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Dorfkirche",
+                "tip": "Kühler und ruhiger Ort.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Kápolna belső tere",
+                "tip": "Hűvös és csendes elvonulóhely.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Interiorul bisericii",
+                "tip": "Un loc răcoros și liniștit.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Church Interior",
+                "tip": "A cool and quiet place for reflection.",
+                "emoji": "🍃"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Postkarten-Shop",
+                "tip": "Klassische Motive des Dorfes."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Képeslapbolt",
+                "tip": "Hagyományos falusi motívumok."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Magazin de vederi",
+                "tip": "Imagini clasice cu satul."
+              }
+            ],
+            "en": [
+              {
+                "name": "Postcard Shop",
+                "tip": "Classic images of the village and its horses."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Prüfen Sie die Buszeiten vorab, sie sind begrenzt.",
+              "Sonnenschutz ist auf den offenen Plätzen wichtig.",
+              "Vermeiden Sie die Mittagshitze."
+            ],
+            "hu": [
+              "Ellenőrizze a buszmenetrendet, mert ritkán járnak.",
+              "A naptej kötelező a nyílt tereken.",
+              "Kerülje a déli forróságot."
+            ],
+            "ro": [
+              "Verificați orarul autobuzelor, sunt puține pe zi.",
+              "Protecția solară e vitală în spațiile deschise.",
+              "Evitați orele amiezii pentru mersul pe jos."
+            ],
+            "en": [
+              "Check bus times in advance as services are limited.",
+              "Sun protection is essential in the open sandy squares.",
+              "Avoid walking during the peak afternoon heat."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bringt Sie der Bus direkt ins Zentrum, nur wenige Schritte von der Ermita entfernt. Mittags bietet das Museum eine ausgedehnte Pause im Trockenen.\nNachmittags schützt die Überdachung am Paseo Marismeño vor den schlimmsten Güssen. Abends warten Sie in einer der gemütlichen Bars nahe der Bushaltestelle auf die Rückfahrt.",
+            "hu": "Reggel a busz közvetlenül a központba viszi, pár lépésre az Ermitától. Délben a múzeum nyújt hosszabb kikapcsolódást szárazon.\nDélután a Paseo Marismeño fedett részei óvnak a nagyobb záporoktól. Este a buszmegálló közeli bárok egyikében várhatja meg a visszautat.",
+            "ro": "Dimineața autobuzul vă lasă direct în centru, la câțiva pași de Ermita. La prânz, muzeul oferă o pauză prelungită la uscat.\nDupă-amiaza, zonele acoperite de pe Paseo Marismeño vă protejează de ploaie. Seara așteptați întoarcerea într-un bar primitor lângă stația de autobuz.",
+            "en": "In the morning, the bus drops you in the center, just steps from the Ermita. At noon, the museum offers an extended break in the dry.\nIn the afternoon, the shelters at Paseo Marismeño protect against the heaviest showers. In the evening, wait for the return trip in a cozy bar near the bus stop."
+          },
+          "stops": [
+            {
+              "name": "Ermita de la Virgen del Rocío",
+              "tip_5lang": {
+                "de": "Direkt nebenan befinden sich Cafés zum Aufwärmen.",
+                "hu": "Közvetlenül mellette kávézók találhatók a felmelegedéshez.",
+                "ro": "Lângă se află cafenele unde vă puteți încălzi.",
+                "en": "Cafes for warming up are right next door."
+              }
+            },
+            {
+              "name": "Museo Tesoro de la Virgen",
+              "tip_5lang": {
+                "de": "Lassen Sie nasse Schirme im Eingangsbereich.",
+                "hu": "A vizes esernyőket hagyja a bejáratnál.",
+                "ro": "Lăsați umbrelele ude la intrare.",
+                "en": "Leave wet umbrellas at the entrance."
+              }
+            },
+            {
+              "name": "Paseo Marismeño",
+              "tip_5lang": {
+                "de": "Überdachte Bänke bieten Schutz und Aussicht.",
+                "hu": "Fedett padok nyújtanak menedéket és kilátást.",
+                "ro": "Băncile acoperite oferă adăpost și vedere.",
+                "en": "Covered benches offer shelter and views."
+              }
+            },
+            {
+              "name": "Marismas del Rocío",
+              "tip_5lang": {
+                "de": "Beobachten Sie das Wasser von der Ufermauer aus.",
+                "hu": "Figyelje a vizet a parti fal mellől.",
+                "ro": "Observați apa de lângă zidul falezei.",
+                "en": "Observe the water from the promenade wall."
+              }
+            },
+            {
+              "name": "Plaza del Acebuchal",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle ist in 5-10 Min. erreichbar.",
+                "hu": "A buszmegálló 5-10 perc alatt elérhető.",
+                "ro": "Stația de autobuz este accesibilă în 5-10 minute.",
+                "en": "The bus stop is reachable within 5-10 minutes."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie die Busfahrzeiten, bei Regen können Fahrten seltener sein.",
+              "Die Wege zwischen den Haltestellen und POIs sind kurz gehalten.",
+              "Tragen Sie Schuhe mit gutem Profil für den nassen Sandweg zum Bus.",
+              "Nutzen Sie die Wartehäuschen, sie sind meist windgeschützt."
+            ],
+            "hu": [
+              "Ellenőrizze a buszmenetrendet, esőben ritkábbak lehetnek a járatok.",
+              "A megállók és a látnivalók közötti távolságokat rövidre fogtuk.",
+              "Viseljen jó tapadású cipőt a buszhoz vezető vizes homokúton.",
+              "Használja a várókat, ezek többnyire szélvédettek."
+            ],
+            "ro": [
+              "Verificați orarul autobuzelor, cursele pot fi mai rare pe ploaie.",
+              "Traseele între stații și obiective sunt menținute scurte.",
+              "Purtați pantofi cu talpă aderentă pentru drumul ud spre autobuz.",
+              "Folosiți refugiile din stații, de obicei sunt ferite de vânt."
+            ],
+            "en": [
+              "Check bus schedules; services might be less frequent in the rain.",
+              "Distances between stops and POIs are kept short.",
+              "Wear shoes with good grip for the wet sandy walk to the bus.",
+              "Use the bus shelters; they are usually wind-protected."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens führt die Busfahrt durch die weite Winterlandschaft direkt ins Herz von El Rocío. Mittags lockt der sonnige Vorplatz der Ermita zu einem ausgedehnten Aufenthalt.\nNachmittags genießen Sie die klare Luft am Paseo, bevor Sie ins Museum wechseln. Abends ist die Rückfahrt im beheizten Bus eine willkommene Abwechslung zur Kälte draußen.",
+            "hu": "Reggel a buszút a tágas téli tájon át vezet egyenesen El Rocío szívébe. Délben az Ermita napos előtere hívogat egy hosszabb időtöltésre.\nDélután élvezze a tiszta levegőt a Paseón, mielőtt a múzeumba indulna. Este a fűtött buszban való utazás kellemes váltás a kinti hideg után.",
+            "ro": "Dimineața drumul cu autobuzul prin peisajul vast de iarnă vă duce direct în inima satului. La prânz, piața însorită a Ermitei invită la relaxare.\nDupă-amiaza bucurați-vă de aerul curat pe Paseo înainte de a merge la muzeu. Seara, drumul de întoarcere în autobuzul încălzit este o schimbare binevenită.",
+            "en": "In the morning, the bus ride through the vast winter landscape leads straight into the heart of El Rocío. At noon, the sunny forecourt of the Ermita invites a long stay.\nIn the afternoon, enjoy the clear air at the Paseo before heading to the museum. In the evening, the return trip in a heated bus is a welcome change from the cold outside."
+          },
+          "stops": [
+            {
+              "name": "Ermita de la Virgen del Rocío",
+              "tip_5lang": {
+                "de": "Die Wintersonne steht tief und leuchtet die Fassade toll aus.",
+                "hu": "A téli nap alacsonyan jár, csodásan megvilágítja a homlokzatot.",
+                "ro": "Soarele de iarnă este jos și luminează superb fațada.",
+                "en": "The winter sun is low and illuminates the facade beautifully."
+              }
+            },
+            {
+              "name": "Museo Tesoro de la Virgen",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort für Kulturliebhaber im Winter.",
+                "hu": "Csendes hely a kultúra kedvelőinek télen.",
+                "ro": "Un loc liniștit pentru iubitorii de cultură iarna.",
+                "en": "A quiet spot for culture lovers in winter."
+              }
+            },
+            {
+              "name": "Paseo Marismeño",
+              "tip_5lang": {
+                "de": "Warme Kleidung ist wegen der Brise vom Wasser wichtig.",
+                "hu": "A víz felőli szél miatt fontos a meleg ruházat.",
+                "ro": "Îmbrăcămintea groasă e importantă din cauza brizelor de pe apă.",
+                "en": "Warm clothing is important due to the breeze from the water."
+              }
+            },
+            {
+              "name": "Marismas del Rocío",
+              "tip_5lang": {
+                "de": "Beste Zeit für Naturbeobachtungen direkt vom Dorf aus.",
+                "hu": "A legjobb idő a természet megfigyelésére közvetlenül a faluból.",
+                "ro": "Cel mai bun moment pentru observarea naturii direct din sat.",
+                "en": "Best time for nature observation directly from the village."
+              }
+            },
+            {
+              "name": "Plaza del Acebuchal",
+              "tip_5lang": {
+                "de": "Die Cafés sind im Winter gemütlicher und weniger voll.",
+                "hu": "A kávézók télen barátságosabbak és kevésbé zsúfoltak.",
+                "ro": "Cafenelele sunt mai primitoare și mai puțin aglomerate iarna.",
+                "en": "Cafes are cozier and less crowded in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Der Bus ist im Winter oft weniger frequentiert, genießen Sie die Platzwahl.",
+              "Die Haltestellen sind zentral, sodass Sie wenig Zeit in der Kälte verbringen.",
+              "Nehmen Sie einen Schal mit, der Wind an den Marismas kann schneidend sein.",
+              "Winterfahrpläne können von Sommersaison-Zeiten abweichen."
+            ],
+            "hu": [
+              "A buszokon télen kevesebben vannak, élvezze a szabad helyválasztást.",
+              "A megállók központiak, így kevés időt kell a hidegben töltenie.",
+              "Vigyen sálat, a mocsarak felőli szél metsző lehet.",
+              "A téli menetrend eltérhet a nyári szezontól."
+            ],
+            "ro": [
+              "Autobuzul este mai puțin aglomerat iarna, bucurați-vă de locurile libere.",
+              "Stațiile sunt centrale, deci veți petrece puțin timp în frig.",
+              "Luați un fular, vântul de pe mlaștini poate fi tăios.",
+              "Orarele de iarnă pot diferi de cele de vară."
+            ],
+            "en": [
+              "The bus is often less crowded in winter; enjoy your choice of seats.",
+              "Stops are central, so you spend little time in the cold.",
+              "Bring a scarf; the wind from the marshes can be biting.",
+              "Winter schedules may differ from summer season times."
+            ]
+          }
+        }
+      }
+    }
+  },
+  "external_resources": {
+    "tourism_office": "https://www.donana.es/",
+    "transit_official": "https://www.damas-sa.es/",
+    "webcam": "https://www.windy.com/37.135/-6.486",
+    "language_tips": {
+      "de": "El Rocío ist Wallfahrtsdorf, fast nur Spanisch. Lerne 'Hermandad' (Bruderschaft) und 'Pentecostés' (Pfingsten) – das Herzstück des Ortes. Während der Romería den Hut ziehen vor 'la Blanca Paloma' – immer ein Lächeln wert.",
+      "hu": "El Rocío zarándokfalu, szinte csak spanyol. A 'Hermandad' (testvériség) és 'Pentecostés' (pünkösd) szavakat tanuld meg, ez itt a lényeg. A Romería idején a 'Blanca Paloma' (Fehér Galamb) szóra mindenki mosolyog.",
+      "ro": "El Rocío este sat de pelerinaj, aproape doar spaniolă. Învață 'Hermandad' (frăție) și 'Pentecostés' (Rusalii) – esența locului. La Romería, 'la Blanca Paloma' aduce mereu un zâmbet.",
+      "en": "El Rocío is a pilgrimage village, almost only Spanish. Learn 'Hermandad' (brotherhood) and 'Pentecostés' (Whitsun) – the heart of the place. During the Romería, 'la Blanca Paloma' always earns a smile."
+    },
+    "best_time_to_visit": {
+      "de": "Außerhalb der Romería (Pfingstwochenende) ist es ein leerer Geisterort mit Sandstraßen – surreal schön. Romería selbst überwältigend voll und teuer, Übernachtung kaum möglich. Frühjahr und Herbst ideal für Doñana-Vögel.",
+      "hu": "A Romérián kívül (pünkösd hétvégéje) szinte üres szellemfalu homokutcákkal, szürreálisan szép. Maga a Romería brutálisan zsúfolt és drága, szállást ne keress. Tavasz-ősz ideális a Doñana-i madarakhoz.",
+      "ro": "În afara Romería (weekend de Rusalii) e un sat-fantomă cu străzi de nisip, surreal de frumos. Romería în sine e copleșitor de aglomerată și scumpă, cazare aproape imposibilă. Primăvara-toamna ideale pentru păsările din Doñana.",
+      "en": "Outside the Romería (Whitsun weekend) it's a half-empty ghost village with sand streets – surreally beautiful. The Romería itself is overwhelmingly crowded and pricey; lodging is near impossible. Spring and autumn are ideal for Doñana birdlife."
+    },
+    "neighborhood_warnings": {
+      "de": "Sehr sicher, abgelegen. Im Doñana-Park nicht ohne Guide ins Sumpfgebiet – Treibsand und Wildschweine. Während Romería extreme Hitze und Staub, Wasser mitführen. Wenig medizinische Versorgung, Apotheke nicht 24h.",
+      "hu": "Nagyon biztonságos, eldugott. A Doñana parkban vezető nélkül ne menj a mocsárba, futóhomok és vaddisznó. Romería alatt brutális hőség és por, mindig legyen víz nálad. Egészségügyi ellátás minimális, a patika nem 24 órás.",
+      "ro": "Foarte sigur, izolat. În parcul Doñana nu intra în mlaștini fără ghid – nisipuri mișcătoare și mistreți. La Romería, căldură și praf extrem, ia apă. Asistență medicală minimă, farmacia nu e 24h.",
+      "en": "Very safe, remote. Don't enter Doñana marshes without a guide – quicksand and wild boar. During the Romería expect extreme heat and dust; carry water. Medical care is limited and the pharmacy is not 24/7."
+    }
+  }
+}

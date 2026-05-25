@@ -1,0 +1,2430 @@
+{
+  "city_id": "masca",
+  "anchor": {
+    "name": "Masca",
+    "coords": [
+      -16.8419,
+      28.3019
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "15:35",
+      "total_km": 1.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Mirador de Masca",
+            "hu": "Masca kilátó",
+            "ro": "Mirador de Masca",
+            "en": "Masca Viewpoint"
+          },
+          "coords": [
+            -16.8405,
+            28.3035
+          ],
+          "category": "natural features",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bester erster Blick auf das Dorf.",
+            "hu": "A legjobb első kilátás a falura.",
+            "ro": "Cea mai bună primă vedere asupra satului.",
+            "en": "Best first view of the village."
+          }
+        },
+        {
+          "name": {
+            "de": "Caserío de Masca",
+            "hu": "Masca faluközpont",
+            "ro": "Caserío de Masca",
+            "en": "Masca Village Center"
+          },
+          "coords": [
+            -16.8419,
+            28.3019
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:50",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie die engen, gepflasterten Gassen.",
+            "hu": "Fedezze fel a szűk, kövezett utcákat.",
+            "ro": "Explorați străzile înguste și pavate.",
+            "en": "Explore the narrow, cobbled streets."
+          }
+        },
+        {
+          "name": {
+            "de": "Iglesia de la Inmaculada Concepción",
+            "hu": "Szeplőtelen Fogantatás templom",
+            "ro": "Biserica Inmaculada Concepción",
+            "en": "Church of the Immaculate Conception"
+          },
+          "coords": [
+            -16.8422,
+            28.3015
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:45",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Eine winzige, aber wunderschöne Kapelle.",
+            "hu": "Apró, de gyönyörű kápolna.",
+            "ro": "O capelă mică, dar superbă.",
+            "en": "A tiny but beautiful chapel."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Etnográfico de Masca",
+            "hu": "Masca Néprajzi Múzeum",
+            "ro": "Muzeul Etnografic Masca",
+            "en": "Masca Ethnographic Museum"
+          },
+          "coords": [
+            -16.8425,
+            28.3012
+          ],
+          "category": "museums",
+          "arrive_at": "11:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Lernen Sie das frühere Leben in den Bergen kennen.",
+            "hu": "Ismerje meg a korábbi hegyi életet.",
+            "ro": "Aflați despre viața montană de odinioară.",
+            "en": "Learn about the former mountain life."
+          }
+        },
+        {
+          "name": {
+            "de": "Barranco de Masca",
+            "hu": "Masca-szurdok bejárata",
+            "ro": "Barranco de Masca",
+            "en": "Masca Ravine Entrance"
+          },
+          "coords": [
+            -16.8435,
+            28.3005
+          ],
+          "category": "natural features",
+          "arrive_at": "13:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Nur der Startpunkt; der Abstieg erfordert Genehmigung.",
+            "hu": "Csak a kezdőpont; a leereszkedéshez engedély kell.",
+            "ro": "Doar punctul de start; coborârea necesită permis.",
+            "en": "Just the starting point; descent requires a permit."
+          }
+        },
+        {
+          "name": {
+            "de": "Roque de Catana",
+            "hu": "Roque de Catana szikla",
+            "ro": "Roque de Catana",
+            "en": "Roque de Catana Rock"
+          },
+          "coords": [
+            -16.8465,
+            28.2985
+          ],
+          "category": "natural features",
+          "arrive_at": "14:50",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Markante Felsformation für Fotos.",
+            "hu": "Jellegzetes sziklaalakzat fotózáshoz.",
+            "ro": "Formațiune stâncoasă marcantă pentru poze.",
+            "en": "Striking rock formation for photos."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Das Dorf Masca ist ein Juwel im Teno-Gebirge. Beginnen Sie am Aussichtspunkt Mirador de Masca und steigen Sie dann in den historischen Ortskern ab. Besuchen Sie die kleine Kirche und das Museum, um die harte Geschichte dieses isolierten Ortes zu verstehen. Mittags genießen Sie die Aussicht vom Rande des Barrancos und bewundern den beeindruckenden Roque de Catana.",
+        "hu": "Masca falu a Teno-hegység gyöngyszeme. Kezdjen a Masca kilátónál, majd ereszkedjen le a történelmi faluközpontba. Látogassa meg a kis templomot és a múzeumot, hogy megértse ezen elszigetelt hely nehéz történelmét. Délben élvezze a kilátást a szurdok széléről, és csodálja meg a lenyűgöző Roque de Catana sziklát.",
+        "ro": "Satul Masca este o bijuterie în munții Teno. Începeți la Mirador de Masca și coborâți în centrul istoric. Vizitați mica biserică și muzeul pentru a înțelege istoria grea a acestui loc izolat. La prânz, bucurați-vă de priveliștea de la marginea râpei și admirați impresionantul Roque de Catana.",
+        "en": "Masca village is a jewel in the Teno Mountains. Start at the Masca viewpoint and then descend into the historical center. Visit the small church and the museum to understand the tough history of this isolated place. At noon, enjoy the view from the edge of the ravine and admire the impressive Roque de Catana rock."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "La Casa de la Abuela",
+            "tip": "Kaktusfeigeneis ist ein Muss."
+          }
+        ],
+        "hu": [
+          {
+            "name": "La Casa de la Abuela",
+            "tip": "A fügekaktusz fagylalt kötelező."
+          }
+        ],
+        "ro": [
+          {
+            "name": "La Casa de la Abuela",
+            "tip": "Înghețata de smochine de India este obligatorie."
+          }
+        ],
+        "en": [
+          {
+            "name": "La Casa de la Abuela",
+            "tip": "Cactus fruit ice cream is a must-try."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Hintere Terrassen von Masca",
+            "tip": "Suchen Sie eine abgelegene Bank mit Blick ins Tal.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Masca hátsó teraszai",
+            "tip": "Keressen egy eldugott padot kilátással a völgybe.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Terasele din spate ale Masca",
+            "tip": "Căutați o bancă retrasă cu vedere spre vale.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Rear terraces of Masca",
+            "tip": "Find a secluded bench with valley views.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokales Kunsthandwerk",
+            "tip": "Kaufen Sie handgemachte Körbe oder Palmhonig."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kézműves bolt",
+            "tip": "Vásároljon kézzel font kosarat vagy pálmamézet."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Artizanat local",
+            "tip": "Cumpărați coșuri împletite manual sau miere de palmier."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Craft Shops",
+            "tip": "Buy handmade baskets or palm honey."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie Wanderschuhe, da die Wege steil und rutschig sein können.",
+          "Es gibt nur sehr wenige Parkplätze im Dorf.",
+          "Besuchen Sie Masca vor 10:00 Uhr, um den Massen zu entgehen.",
+          "Bringen Sie eine Jacke mit, da es im Schatten kühl sein kann."
+        ],
+        "hu": [
+          "Viseljen túracipőt, az utak meredekek és csúszósak lehetnek.",
+          "Nagyon kevés parkolóhely van a faluban.",
+          "Látogasson el Mascába délelőtt 10 előtt a tömeg elkerüléséhez.",
+          "Hozzon kabátot, mert az árnyékban hűvös lehet."
+        ],
+        "ro": [
+          "Purtați încălțăminte de drumeție, potecile pot fi abrupte și alunecoase.",
+          "Există foarte puține locuri de parcare în sat.",
+          "Vizitați Masca înainte de ora 10:00 pentru a evita aglomerația.",
+          "Aduceți o jachetă, poate fi răcoare la umbră."
+        ],
+        "en": [
+          "Wear hiking shoes as the paths can be steep and slippery.",
+          "There are very few parking spaces in the village.",
+          "Visit Masca before 10:00 AM to avoid the crowds.",
+          "Bring a jacket as it can be cool in the shade."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Das Dorf Masca ist ein Juwel im Teno-Gebirge. Beginnen Sie am Aussichtspunkt Mirador de Masca und steigen Sie dann in den historischen Ortskern ab. Besuchen Sie die kleine Kirche und das Museum, um die harte Geschichte dieses isolierten Ortes zu verstehen. Mittags genießen Sie die Aussicht vom Rande des Barrancos und bewundern den beeindruckenden Roque de Catana.",
+            "hu": "Masca falu a Teno-hegység gyöngyszeme. Kezdjen a Masca kilátónál, majd ereszkedjen le a történelmi faluközpontba. Látogassa meg a kis templomot és a múzeumot, hogy megértse ezen elszigetelt hely nehéz történelmét. Délben élvezze a kilátást a szurdok széléről, és csodálja meg a lenyűgöző Roque de Catana sziklát.",
+            "ro": "Satul Masca este o bijuterie în munții Teno. Începeți la Mirador de Masca și coborâți în centrul istoric. Vizitați mica biserică și muzeul pentru a înțelege istoria grea a acestui loc izolat. La prânz, bucurați-vă de priveliștea de la marginea râpei și admirați impresionantul Roque de Catana.",
+            "en": "Masca village is a jewel in the Teno Mountains. Start at the Masca viewpoint and then descend into the historical center. Visit the small church and the museum to understand the tough history of this isolated place. At noon, enjoy the view from the edge of the ravine and admire the impressive Roque de Catana rock."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mirador de Masca",
+                "hu": "Masca kilátó",
+                "ro": "Mirador de Masca",
+                "en": "Masca Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Bester erster Blick auf das Dorf.",
+                "hu": "A legjobb első kilátás a falura.",
+                "ro": "Cea mai bună primă vedere asupra satului.",
+                "en": "Best first view of the village."
+              }
+            },
+            {
+              "name": {
+                "de": "Caserío de Masca",
+                "hu": "Masca faluközpont",
+                "ro": "Caserío de Masca",
+                "en": "Masca Village Center"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die engen, gepflasterten Gassen.",
+                "hu": "Fedezze fel a szűk, kövezett utcákat.",
+                "ro": "Explorați străzile înguste și pavate.",
+                "en": "Explore the narrow, cobbled streets."
+              }
+            },
+            {
+              "name": {
+                "de": "Iglesia de la Inmaculada Concepción",
+                "hu": "Szeplőtelen Fogantatás templom",
+                "ro": "Biserica Inmaculada Concepción",
+                "en": "Church of the Immaculate Conception"
+              },
+              "tip_5lang": {
+                "de": "Eine winzige, aber wunderschöne Kapelle.",
+                "hu": "Apró, de gyönyörű kápolna.",
+                "ro": "O capelă mică, dar superbă.",
+                "en": "A tiny but beautiful chapel."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Etnográfico de Masca",
+                "hu": "Masca Néprajzi Múzeum",
+                "ro": "Muzeul Etnografic Masca",
+                "en": "Masca Ethnographic Museum"
+              },
+              "tip_5lang": {
+                "de": "Lernen Sie das frühere Leben in den Bergen kennen.",
+                "hu": "Ismerje meg a korábbi hegyi életet.",
+                "ro": "Aflați despre viața montană de odinioară.",
+                "en": "Learn about the former mountain life."
+              }
+            },
+            {
+              "name": {
+                "de": "Barranco de Masca",
+                "hu": "Masca-szurdok bejárata",
+                "ro": "Barranco de Masca",
+                "en": "Masca Ravine Entrance"
+              },
+              "tip_5lang": {
+                "de": "Nur der Startpunkt; der Abstieg erfordert Genehmigung.",
+                "hu": "Csak a kezdőpont; a leereszkedéshez engedély kell.",
+                "ro": "Doar punctul de start; coborârea necesită permis.",
+                "en": "Just the starting point; descent requires a permit."
+              }
+            },
+            {
+              "name": {
+                "de": "Roque de Catana",
+                "hu": "Roque de Catana szikla",
+                "ro": "Roque de Catana",
+                "en": "Roque de Catana Rock"
+              },
+              "tip_5lang": {
+                "de": "Markante Felsformation für Fotos.",
+                "hu": "Jellegzetes sziklaalakzat fotózáshoz.",
+                "ro": "Formațiune stâncoasă marcantă pentru poze.",
+                "en": "Striking rock formation for photos."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "La Casa de la Abuela",
+                "tip": "Kaktusfeigeneis ist ein Muss."
+              }
+            ],
+            "hu": [
+              {
+                "name": "La Casa de la Abuela",
+                "tip": "A fügekaktusz fagylalt kötelező."
+              }
+            ],
+            "ro": [
+              {
+                "name": "La Casa de la Abuela",
+                "tip": "Înghețata de smochine de India este obligatorie."
+              }
+            ],
+            "en": [
+              {
+                "name": "La Casa de la Abuela",
+                "tip": "Cactus fruit ice cream is a must-try."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Hintere Terrassen von Masca",
+                "tip": "Suchen Sie eine abgelegene Bank mit Blick ins Tal.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Masca hátsó teraszai",
+                "tip": "Keressen egy eldugott padot kilátással a völgybe.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Terasele din spate ale Masca",
+                "tip": "Căutați o bancă retrasă cu vedere spre vale.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Rear terraces of Masca",
+                "tip": "Find a secluded bench with valley views.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Lokales Kunsthandwerk",
+                "tip": "Kaufen Sie handgemachte Körbe oder Palmhonig."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Helyi kézműves bolt",
+                "tip": "Vásároljon kézzel font kosarat vagy pálmamézet."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Artizanat local",
+                "tip": "Cumpărați coșuri împletite manual sau miere de palmier."
+              }
+            ],
+            "en": [
+              {
+                "name": "Local Craft Shops",
+                "tip": "Buy handmade baskets or palm honey."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Tragen Sie Wanderschuhe, da die Wege steil und rutschig sein können.",
+              "Es gibt nur sehr wenige Parkplätze im Dorf.",
+              "Besuchen Sie Masca vor 10:00 Uhr, um den Massen zu entgehen.",
+              "Bringen Sie eine Jacke mit, da es im Schatten kühl sein kann."
+            ],
+            "hu": [
+              "Viseljen túracipőt, az utak meredekek és csúszósak lehetnek.",
+              "Nagyon kevés parkolóhely van a faluban.",
+              "Látogasson el Mascába délelőtt 10 előtt a tömeg elkerüléséhez.",
+              "Hozzon kabátot, mert az árnyékban hűvös lehet."
+            ],
+            "ro": [
+              "Purtați încălțăminte de drumeție, potecile pot fi abrupte și alunecoase.",
+              "Există foarte puține locuri de parcare în sat.",
+              "Vizitați Masca înainte de ora 10:00 pentru a evita aglomerația.",
+              "Aduceți o jachetă, poate fi răcoare la umbră."
+            ],
+            "en": [
+              "Wear hiking shoes as the paths can be steep and slippery.",
+              "There are very few parking spaces in the village.",
+              "Visit Masca before 10:00 AM to avoid the crowds.",
+              "Bring a jacket as it can be cool in the shade."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag an den nebelverhangenen Aussichtspunkten von Masca, wo tief hängende Wolken eine mystische Atmosphäre schaffen. Ein Regenschirm ist auf den steilen Gassen unerlässlich.\r\nMittags bietet das Dorfzentrum Schutz in den gemütlichen Tavernen. Genießen Sie eine warme kanarische Suppe, während Sie dem Prasseln des Regens auf den Ziegeldächern lauschen.\r\nDer Nachmittag ist ideal für den Besuch des Ethnografischen Museums, einem trockenen Zufluchtsort voller Geschichte. Die Kirche bietet ebenfalls einen Moment der Ruhe und Trockenheit.\r\nAm Abend verblasst das Licht über dem glänzenden nassen Gestein der Schlucht. Die Rückkehr zum Ausgangspunkt erfolgt auf rutschigen, aber glitzernden Pfaden.",
+            "hu": "Kezdje a napot Masca ködbe burkolózott kilátóinál, ahol az alacsonyan szálló felhők misztikus hangulatot árasztanak. Az esernyő elengedhetetlen a meredek sikátorokban.\r\nDélben a falu központja menedéket nyújt a hangulatos tavernákban. Élvezzen egy meleg kanári levest, miközben hallgatja az eső kopogását a cseréptetőkön.\r\nA délután ideális az Etnográfiai Múzeum felkeresésére, amely száraz menedéket és gazdag történelmet kínál. A templom szintén alkalmas egy nyugodt, esőmentes pihenőre.\r\nEste a fény megcsillan a szurdok nedves szikláin. A visszatérés a kiindulópontra csúszós, de fénylő ösvényeken keresztül történik.",
+            "ro": "Începeți ziua la punctele de belvedere din Masca, învăluite în ceață, unde norii joși creează o atmosferă mistică. Umbrela este esențială pe străzile abrupte.\r\nLa prânz, centrul satului oferă adăpost în tavernele primitoare. Savurați o supă canariană caldă în timp ce ascultați ploaia bătând în acoperișurile de țiglă.\r\nDupă-amiaza este ideală pentru vizitarea Muzeului Etnografic, un refugiu uscat plin de istorie. Biserica oferă, de asemenea, un moment de liniște și protecție împotriva ploii.\r\nSeara, lumina se reflectă pe stâncile umede ale canionului. Întoarcerea la punctul de plecare se face pe poteci alunecoase, dar strălucitoare.",
+            "en": "Start your day at Masca's fog-shrouded viewpoints, where low-hanging clouds create a mystical atmosphere. An umbrella is essential on the steep alleys.\r\nAt noon, the village center provides shelter in cozy taverns. Enjoy a warm Canarian soup while listening to the rain patter on the tiled roofs.\r\nThe afternoon is ideal for visiting the Ethnographic Museum, a dry haven filled with history. The church also offers a quiet moment away from the rain.\r\nIn the evening, the light fades over the glistening wet rocks of the ravine. The return to the start follows slippery but shining paths."
+          },
+          "stops": [
+            {
+              "name": "Masca Viewpoint",
+              "tip_5lang": {
+                "de": "Vorsicht bei Windböen am Geländer; der Boden kann sehr rutschig sein.",
+                "hu": "Vigyázzon a széllökésekkel a korlátnál; a talaj nagyon csúszós lehet.",
+                "ro": "Atenție la rafalele de vânt lângă balustradă; solul poate fi foarte alunecos.",
+                "en": "Watch out for wind gusts near the railings; the ground can be very slippery."
+              }
+            },
+            {
+              "name": "Masca Village Center",
+              "tip_5lang": {
+                "de": "Suchen Sie unter den Arkaden oder in den lokalen Cafés Schutz vor dem Regen.",
+                "hu": "Keressen menedéket az árkádok alatt vagy a helyi kávézókban az eső elől.",
+                "ro": "Căutați adăpost sub arcade sau în cafenelele locale pentru a evita ploaia.",
+                "en": "Seek shelter under the arches or in local cafes to escape the rain."
+              }
+            },
+            {
+              "name": "Church of the Immaculate Conception",
+              "tip_5lang": {
+                "de": "Ein perfekter Ort, um kurz innezuhalten und im Trockenen die Stille zu genießen.",
+                "hu": "Tökéletes hely egy rövid megállásra és a csend élvezetére a szárazban.",
+                "ro": "Un loc perfect pentru o scurtă pauză și pentru a savura liniștea la adăpost.",
+                "en": "A perfect place for a short break to enjoy the silence in the dry."
+              }
+            },
+            {
+              "name": "Masca Ethnographic Museum",
+              "tip_5lang": {
+                "de": "Ideal bei Regen; die Ausstellungen im Inneren zeigen das traditionelle Leben.",
+                "hu": "Ideális esőben; a belső kiállítások a hagyományos életmódot mutatják be.",
+                "ro": "Ideal pe ploaie; expozițiile din interior prezintă viața tradițională.",
+                "en": "Ideal when it rains; the indoor exhibits showcase traditional life."
+              }
+            },
+            {
+              "name": "Masca Ravine Entrance",
+              "tip_5lang": {
+                "de": "Achtung: Der Abstieg ist bei starkem Regen oft aus Sicherheitsgründen gesperrt.",
+                "hu": "Figyelem: Erős esőben a lemenetelt biztonsági okokból gyakran lezárják.",
+                "ro": "Atenție: Coborârea este adesea închisă din motive de siguranță în caz de ploaie torențială.",
+                "en": "Note: The descent is often closed for safety reasons during heavy rain."
+              }
+            },
+            {
+              "name": "Roque de Catana Rock",
+              "tip_5lang": {
+                "de": "Die Felsen wirken im Regen fast schwarz und bieten ein dramatisches Fotomotiv.",
+                "hu": "A sziklák az esőben szinte feketének tűnnek, drámai fotótémát kínálva.",
+                "ro": "Stâncile par aproape negre în ploaie, oferind un subiect fotografic dramatic.",
+                "en": "The rocks appear almost black in the rain, offering a dramatic photo subject."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Wanderschuhe mit gutem Profil, da das Kopfsteinpflaster extrem glatt wird.",
+              "Prüfen Sie vorab, ob der Wanderweg durch die Schlucht aufgrund von Steinschlaggefahr offen ist.",
+              "Ein Poncho ist praktischer als ein Schirm, da es in Masca oft windig ist.",
+              "Die Restaurants im Dorf sind bei Regen schnell voll; reservieren Sie einen Tisch.",
+              "Nehmen Sie Ersatzsocken mit, falls Ihre Schuhe nass werden."
+            ],
+            "hu": [
+              "Viseljen jó tapadású túrabakancsot, mert a macskaköves utak rendkívül csúszósak.",
+              "Indulás előtt ellenőrizze, hogy a szurdoktúra nyitva van-e a kőomlásveszély miatt.",
+              "Az esőponcsó praktikusabb az esernyőnél, mert Mascában gyakran fúj a szél.",
+              "A falusi éttermek esőben hamar megtelnek; érdemes asztalt foglalni.",
+              "Vigyen magával pótzoknit, ha beázna a cipője."
+            ],
+            "ro": [
+              "Purtați bocanci de munte cu aderență bună, deoarece pavajul devine extrem de alunecos.",
+              "Verificați în prealabil dacă traseul prin canion este deschis, din cauza riscului de căderi de pietre.",
+              "O pelerină de ploaie este mai practică decât o umbrelă, deoarece în Masca bate des vântul.",
+              "Restaurantele din sat se umplu rapid când plouă; rezervați o masă din timp.",
+              "Luați șosete de schimb în cazul în care vă udă încălțămintea."
+            ],
+            "en": [
+              "Wear hiking boots with good grip, as the cobblestones become extremely slippery.",
+              "Check in advance if the ravine trail is open, as it may close due to rockfall risk.",
+              "A rain poncho is more practical than an umbrella because Masca is often windy.",
+              "Village restaurants fill up quickly in the rain; consider booking a table.",
+              "Bring spare socks in case your shoes get wet."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die frische Winterluft in den Bergen von Teno ist belebend. Starten Sie früh am Morgen, um die klaren Sichtverhältnisse und das sanfte Licht zu nutzen.\r\nMittags wärmt die Sonne das Tal angenehm auf, aber im Schatten bleibt es kühl. Ein Platz an der Sonne im Dorfzentrum ist heiß begehrt.\r\nAm Nachmittag bietet das Museum einen tieferen Einblick in das Leben der Guanchen. Die Schatten in der Schlucht werden nun länger und die Temperaturen sinken spürbar.\r\nDer frühe Sonnenuntergang färbt die Felsen in warme Orangetöne. Sorgen Sie dafür, dass Sie vor Einbruch der Dunkelheit wieder oben im Dorf sind.",
+            "hu": "A Teno-hegység friss téli levegője felpezsdítő. Kezdje korán a reggelt, hogy kihasználja a tiszta látási viszonyokat és a lágy fényeket.\r\nDélben a nap kellemesen felmelegíti a völgyet, de az árnyékban hűvös marad. A falu központjában a napsütötte helyek a legnépszerűbbek.\r\nDélután a múzeum mélyebb betekintést nyújt a guancsok életébe. A szurdok árnyékai egyre hosszabbak, és a hőmérséklet érezhetően csökken.\r\nA korai naplemente narancssárgára festi a sziklákat. Ügyeljen rá, hogy sötétedés előtt visszaérjen a falu felső részére.",
+            "ro": "Aerul proaspăt de iarnă din munții Teno este revigorant. Începeți dimineața devreme pentru a profita de vizibilitatea clară și de lumina blândă.\r\nLa prânz, soarele încălzește plăcut valea, dar la umbră rămâne răcoare. Un loc la soare în centrul satului este foarte căutat.\r\nDupă-amiaza, muzeul oferă o perspectivă profundă asupra vieții guanșilor. Umbrele din canion devin tot mai lungi, iar temperaturile scad vizibil.\r\nApusul timpuriu colorează stâncile în nuanțe calde de portocaliu. Asigurați-vă că reveniți în sat înainte de lăsarea întunericului.",
+            "en": "The crisp winter air in the Teno Mountains is invigorating. Start early in the morning to take advantage of the clear visibility and soft light.\r\nAt noon, the sun warms the valley pleasantly, but it remains cool in the shade. A sunny spot in the village center is highly sought after.\r\nIn the afternoon, the museum offers a deeper insight into Guanche life. The shadows in the ravine grow longer, and temperatures drop noticeably.\r\nThe early sunset paints the rocks in warm orange tones. Make sure to be back up in the village before dark falls."
+          },
+          "stops": [
+            {
+              "name": "Masca Viewpoint",
+              "tip_5lang": {
+                "de": "Ziehen Sie eine Jacke über; der Wind am Aussichtspunkt kann im Winter schneidend kalt sein.",
+                "hu": "Vegyen fel kabátot; a kilátónál a szél télen metszően hideg lehet.",
+                "ro": "Puneți o jachetă pe dvs.; vântul la punctul de belvedere poate fi tăios iarna.",
+                "en": "Put on a jacket; the wind at the viewpoint can be biting cold in winter."
+              }
+            },
+            {
+              "name": "Masca Village Center",
+              "tip_5lang": {
+                "de": "Genießen Sie einen Kaffee in der Sonne; die Terrassen sind im Winter die besten Plätze.",
+                "hu": "Élvezzen egy kávét a napon; a teraszok télen a legjobb helyek.",
+                "ro": "Savurați o cafea la soare; terasele sunt cele mai bune locuri pe timpul iernii.",
+                "en": "Enjoy a coffee in the sun; the terraces are the best spots in winter."
+              }
+            },
+            {
+              "name": "Church of the Immaculate Conception",
+              "tip_5lang": {
+                "de": "Im Inneren der Kirche ist es oft kühler als draußen; behalten Sie Ihre Schichten an.",
+                "hu": "A templom belsejében gyakran hűvösebb van, mint kint; tartsa magán a réteges öltözetet.",
+                "ro": "În interiorul bisericii este adesea mai răcoare decât afară; păstrați-vă hainele pe dvs.",
+                "en": "It's often cooler inside the church than outside; keep your layers on."
+              }
+            },
+            {
+              "name": "Masca Ethnographic Museum",
+              "tip_5lang": {
+                "de": "Ein guter Ort, um sich zwischen den Besichtigungen aufzuwärmen.",
+                "hu": "Jó hely a felmelegedésre a városnézés közben.",
+                "ro": "Un loc bun pentru a vă încălzi între vizite.",
+                "en": "A good place to warm up between sightseeing stops."
+              }
+            },
+            {
+              "name": "Masca Ravine Entrance",
+              "tip_5lang": {
+                "de": "Starten Sie die Wanderung im Winter spätestens um 11:00 Uhr wegen der frühen Dämmerung.",
+                "hu": "A túrát télen legkésőbb 11:00-kor kezdje el a korai sötétedés miatt.",
+                "ro": "Începeți drumeția cel târziu la ora 11:00 iarna, din cauza amurgului timpuriu.",
+                "en": "Start the hike by 11:00 AM at the latest in winter due to the early dusk."
+              }
+            },
+            {
+              "name": "Roque de Catana Rock",
+              "tip_5lang": {
+                "de": "Das Abendlicht im Winter ist hier besonders spektakulär für Landschaftsfotografen.",
+                "hu": "A téli esti fények itt különösen látványosak a tájképfotósok számára.",
+                "ro": "Lumina de seară iarna este deosebit de spectaculoasă aici pentru fotografii de peisaj.",
+                "en": "The evening light in winter is particularly spectacular here for landscape photographers."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie das 'Zwiebelprinzip' beim Ankleiden, da die Temperaturunterschiede groß sind.",
+              "Die Sonne verschwindet im Winter bereits gegen 17:30 Uhr hinter den Bergen.",
+              "Nehmen Sie eine Taschenlampe mit, falls Sie den Rückweg unterschätzt haben.",
+              "Genießen Sie lokale Spezialitäten wie Kaktusfeigenmarmelade, die im Winter Saison hat.",
+              "Die Busse fahren im Winter seltener; prüfen Sie den aktuellen Fahrplan."
+            ],
+            "hu": [
+              "Öltözködjön rétegesen, mert a hőmérséklet-különbségek nagyok lehetnek.",
+              "A nap télen már 17:30 körül eltűnik a hegyek mögött.",
+              "Vigyen magával zseblámpát, ha elszámolná a visszautat.",
+              "Kóstolja meg a helyi különlegességeket, például a télen szezonális fügekaktusz-lekvárt.",
+              "A buszok télen ritkábban járhatnak; ellenőrizze az aktuális menetrendet."
+            ],
+            "ro": [
+              "Folosiți sistemul straturilor de haine, deoarece diferențele de temperatură sunt mari.",
+              "Soarele dispare după munți încă de la ora 17:30 pe timpul iernii.",
+              "Luați o lanternă cu dvs. în cazul în care ați subestimat drumul de întoarcere.",
+              "Savurați specialități locale, cum ar fi dulceața de cactus, care este în sezon iarna.",
+              "Autobuzele circulă mai rar iarna; verificați programul actualizat."
+            ],
+            "en": [
+              "Use the 'onion principle' for clothing, as temperature differences can be large.",
+              "The sun disappears behind the mountains as early as 5:30 PM in winter.",
+              "Bring a flashlight in case you underestimate the return journey time.",
+              "Try local specialties like prickly pear jam, which is in season during winter.",
+              "Buses may run less frequently in winter; check the latest timetable."
+            ]
+          }
+        }
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "13:20",
+      "total_km": 5.0,
+      "stop_count": 4,
+      "stops": [
+        {
+          "name": {
+            "de": "Mirador de Cherfe",
+            "hu": "Cherfe kilátó",
+            "ro": "Mirador de Cherfe",
+            "en": "Cherfe Viewpoint"
+          },
+          "coords": [
+            -16.8325,
+            28.3065
+          ],
+          "category": "natural features",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Panorama über beide Seiten des Teno-Massivs.",
+            "hu": "Panoráma a Teno-masszívum mindkét oldalára.",
+            "ro": "Panoramă asupra ambelor părți ale masivului Teno.",
+            "en": "Panorama over both sides of the Teno massif."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirador de Masca",
+            "hu": "Masca kilátó",
+            "ro": "Mirador de Masca",
+            "en": "Masca Viewpoint"
+          },
+          "coords": [
+            -16.8405,
+            28.3035
+          ],
+          "category": "natural features",
+          "arrive_at": "10:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Kurze Pause vor dem Abstieg ins Dorf.",
+            "hu": "Rövid pihenő a faluba ereszkedés előtt.",
+            "ro": "Scurtă pauză înainte de coborârea în sat.",
+            "en": "Short break before descending into the village."
+          }
+        },
+        {
+          "name": {
+            "de": "Caserío de Masca",
+            "hu": "Masca faluközpont",
+            "ro": "Caserío de Masca",
+            "en": "Masca Village Center"
+          },
+          "coords": [
+            -16.8419,
+            28.3019
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:50",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Fahrrad sicher abstellen, da das Dorf nur zu Fuß begehbar ist.",
+            "hu": "Zárja le biztonságosan a biciklit, a falu csak gyalogos.",
+            "ro": "Parcați bicicleta sigur, satul este doar pietonal.",
+            "en": "Lock your bike securely; the village is pedestrian-only."
+          }
+        },
+        {
+          "name": {
+            "de": "Roque de Catana",
+            "hu": "Roque de Catana",
+            "ro": "Roque de Catana",
+            "en": "Roque de Catana"
+          },
+          "coords": [
+            -16.8465,
+            28.2985
+          ],
+          "category": "natural features",
+          "arrive_at": "12:35",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Die Serpentinen sind eine Herausforderung.",
+            "hu": "A szerpentinek komoly kihívást jelentenek.",
+            "ro": "Serpentinele sunt o provocare.",
+            "en": "The switchbacks are a major challenge."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radfahren in Masca ist nur etwas für erfahrene Radfahrer. Die Strecke bietet atemberaubende Aussichten vom Mirador de Cherfe und führt über dramatische Serpentinen hinunter ins Dorf. Nach einer Pause im historischen Caserío geht es weiter zum Aussichtspunkt beim Roque de Catana. Die steilen Anstiege erfordern eine sehr gute Kondition oder ein leistungsstarkes E-Bike.",
+        "hu": "A mascai kerékpározás csak tapasztalt bicikliseknek ajánlott. Az útvonal lélegzetelállító kilátást kínál a Cherfe kilátótól, és drámai szerpentineken vezet le a faluba. A faluközpontban tartott pihenő után folytassa az utat a Roque de Catana kilátópontjáig. A meredek emelkedők kiváló kondíciót vagy erős e-bike-ot igényelnek.",
+        "ro": "Ciclismul în Masca este doar pentru bicicliști experimentați. Traseul oferă priveliști uluitoare de la Mirador de Cherfe și coboară pe serpentine dramatice în sat. După o pauză în centrul istoric, continuați spre punctul de observație Roque de Catana. Urcările abrupte necesită o condiție fizică foarte bună sau o bicicletă electrică puternică.",
+        "en": "Cycling in Masca is only for experienced riders. The route offers breathtaking views from Mirador de Cherfe and leads down dramatic switchbacks into the village. After a break in the historical center, continue to the Roque de Catana viewpoint. The steep climbs require excellent fitness or a powerful e-bike."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurante El Guanche",
+            "tip": "Lokale Ziegenkäse-Spezialitäten und Meerblick."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Restaurante El Guanche",
+            "tip": "Helyi kecskesajt specialitások tengeri kilátással."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurante El Guanche",
+            "tip": "Specialități locale din brânză de capră și vedere la mare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurante El Guanche",
+            "tip": "Local goat cheese specialties and sea views."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Mirador de Cherfe",
+            "tip": "Einsamer Aussichtspunkt am frühen Morgen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cherfe kilátó",
+            "tip": "Magányos kilátópont kora reggel.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mirador de Cherfe",
+            "tip": "Punct de observație solitar dimineața devreme.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Mirador de Cherfe",
+            "tip": "Lonely viewpoint in the early morning.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Stände am Mirador",
+            "tip": "Frisches Obst von lokalen Bauern."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Árusok a kilátónál",
+            "tip": "Friss gyümölcsök a helyi gazdáktól."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tarabe la Mirador",
+            "tip": "Fructe proaspete de la fermierii locali."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mirador Stalls",
+            "tip": "Fresh fruit from local farmers."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie Ihre Bremsen vor der Abfahrt nach Masca.",
+          "Trinken Sie viel Wasser bei den harten Anstiegen.",
+          "Achten Sie auf Touristenbusse in den engen Kurven.",
+          "Ein Helm ist auf diesen gefährlichen Straßen Pflicht."
+        ],
+        "hu": [
+          "Ellenőrizze a fékeket a Mascába való leereszkedés előtt.",
+          "Igyon sok vizet a kemény emelkedőkön.",
+          "Figyeljen a turistabuszokra a szűk kanyarokban.",
+          "A sisak kötelező ezeken a veszélyes utakon."
+        ],
+        "ro": [
+          "Verificați frânele înainte de coborârea spre Masca.",
+          "Beți multă apă în timpul urcărilor grele.",
+          "Atenție la autocarele cu turiști în curbele strâmte.",
+          "Casca este obligatorie pe aceste drumuri periculoase."
+        ],
+        "en": [
+          "Check your brakes before descending into Masca.",
+          "Drink plenty of water during the tough climbs.",
+          "Watch out for tourist buses in narrow curves.",
+          "A helmet is mandatory on these dangerous roads."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Radfahren in Masca ist nur etwas für erfahrene Radfahrer. Die Strecke bietet atemberaubende Aussichten vom Mirador de Cherfe und führt über dramatische Serpentinen hinunter ins Dorf. Nach einer Pause im historischen Caserío geht es weiter zum Aussichtspunkt beim Roque de Catana. Die steilen Anstiege erfordern eine sehr gute Kondition oder ein leistungsstarkes E-Bike.",
+            "hu": "A mascai kerékpározás csak tapasztalt bicikliseknek ajánlott. Az útvonal lélegzetelállító kilátást kínál a Cherfe kilátótól, és drámai szerpentineken vezet le a faluba. A faluközpontban tartott pihenő után folytassa az utat a Roque de Catana kilátópontjáig. A meredek emelkedők kiváló kondíciót vagy erős e-bike-ot igényelnek.",
+            "ro": "Ciclismul în Masca este doar pentru bicicliști experimentați. Traseul oferă priveliști uluitoare de la Mirador de Cherfe și coboară pe serpentine dramatice în sat. După o pauză în centrul istoric, continuați spre punctul de observație Roque de Catana. Urcările abrupte necesită o condiție fizică foarte bună sau o bicicletă electrică puternică.",
+            "en": "Cycling in Masca is only for experienced riders. The route offers breathtaking views from Mirador de Cherfe and leads down dramatic switchbacks into the village. After a break in the historical center, continue to the Roque de Catana viewpoint. The steep climbs require excellent fitness or a powerful e-bike."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mirador de Cherfe",
+                "hu": "Cherfe kilátó",
+                "ro": "Mirador de Cherfe",
+                "en": "Cherfe Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Panorama über beide Seiten des Teno-Massivs.",
+                "hu": "Panoráma a Teno-masszívum mindkét oldalára.",
+                "ro": "Panoramă asupra ambelor părți ale masivului Teno.",
+                "en": "Panorama over both sides of the Teno massif."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador de Masca",
+                "hu": "Masca kilátó",
+                "ro": "Mirador de Masca",
+                "en": "Masca Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Kurze Pause vor dem Abstieg ins Dorf.",
+                "hu": "Rövid pihenő a faluba ereszkedés előtt.",
+                "ro": "Scurtă pauză înainte de coborârea în sat.",
+                "en": "Short break before descending into the village."
+              }
+            },
+            {
+              "name": {
+                "de": "Caserío de Masca",
+                "hu": "Masca faluközpont",
+                "ro": "Caserío de Masca",
+                "en": "Masca Village Center"
+              },
+              "tip_5lang": {
+                "de": "Fahrrad sicher abstellen, da das Dorf nur zu Fuß begehbar ist.",
+                "hu": "Zárja le biztonságosan a biciklit, a falu csak gyalogos.",
+                "ro": "Parcați bicicleta sigur, satul este doar pietonal.",
+                "en": "Lock your bike securely; the village is pedestrian-only."
+              }
+            },
+            {
+              "name": {
+                "de": "Roque de Catana",
+                "hu": "Roque de Catana",
+                "ro": "Roque de Catana",
+                "en": "Roque de Catana"
+              },
+              "tip_5lang": {
+                "de": "Die Serpentinen sind eine Herausforderung.",
+                "hu": "A szerpentinek komoly kihívást jelentenek.",
+                "ro": "Serpentinele sunt o provocare.",
+                "en": "The switchbacks are a major challenge."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Restaurante El Guanche",
+                "tip": "Lokale Ziegenkäse-Spezialitäten und Meerblick."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Restaurante El Guanche",
+                "tip": "Helyi kecskesajt specialitások tengeri kilátással."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Restaurante El Guanche",
+                "tip": "Specialități locale din brânză de capră și vedere la mare."
+              }
+            ],
+            "en": [
+              {
+                "name": "Restaurante El Guanche",
+                "tip": "Local goat cheese specialties and sea views."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Mirador de Cherfe",
+                "tip": "Einsamer Aussichtspunkt am frühen Morgen.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Cherfe kilátó",
+                "tip": "Magányos kilátópont kora reggel.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Mirador de Cherfe",
+                "tip": "Punct de observație solitar dimineața devreme.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Mirador de Cherfe",
+                "tip": "Lonely viewpoint in the early morning.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Stände am Mirador",
+                "tip": "Frisches Obst von lokalen Bauern."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Árusok a kilátónál",
+                "tip": "Friss gyümölcsök a helyi gazdáktól."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Tarabe la Mirador",
+                "tip": "Fructe proaspete de la fermierii locali."
+              }
+            ],
+            "en": [
+              {
+                "name": "Mirador Stalls",
+                "tip": "Fresh fruit from local farmers."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Überprüfen Sie Ihre Bremsen vor der Abfahrt nach Masca.",
+              "Trinken Sie viel Wasser bei den harten Anstiegen.",
+              "Achten Sie auf Touristenbusse in den engen Kurven.",
+              "Ein Helm ist auf diesen gefährlichen Straßen Pflicht."
+            ],
+            "hu": [
+              "Ellenőrizze a fékeket a Mascába való leereszkedés előtt.",
+              "Igyon sok vizet a kemény emelkedőkön.",
+              "Figyeljen a turistabuszokra a szűk kanyarokban.",
+              "A sisak kötelező ezeken a veszélyes utakon."
+            ],
+            "ro": [
+              "Verificați frânele înainte de coborârea spre Masca.",
+              "Beți multă apă în timpul urcărilor grele.",
+              "Atenție la autocarele cu turiști în curbele strâmte.",
+              "Casca este obligatorie pe aceste drumuri periculoase."
+            ],
+            "en": [
+              "Check your brakes before descending into Masca.",
+              "Drink plenty of water during the tough climbs.",
+              "Watch out for tourist buses in narrow curves.",
+              "A helmet is mandatory on these dangerous roads."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour nach Masca im Regen erfordert volle Konzentration auf der TF-436. Die serpentinenreichen Straßen glänzen bedrohlich im Nassen.\r\nIn Masca angekommen, ist eine ausgiebige Pause im Dorfzentrum nötig, um sich aufzuwärmen und die Kleidung zu trocknen.\r\nAm Nachmittag bietet die Abfahrt Richtung Roque de Catana dramatische Ausblicke durch die Wolkenlücken, fordert aber ständiges Bremsen auf dem Asphalt.\r\nZum Abschluss der Tour ist die Rückfahrt im Nebel eine echte Herausforderung für die Sichtbarkeit. Licht am Fahrrad ist nun überlebenswichtig.",
+            "hu": "Egy esős bringatúra Mascába teljes koncentrációt igényel a TF-436-os úton. A szerpentinek fenyegetően csillognak a nedvességtől.\r\nMascába érve hosszabb pihenőre van szükség a falu központjában, hogy felmelegedjen és megszárítsa a ruháit.\r\nDélután a Roque de Catana felé vezető lejtő drámai kilátást nyújt a felhők között, de folyamatos fékezést igényel az aszfalton.\r\nA túra végén a ködben való visszautazás komoly kihívás a látási viszonyok miatt. A kerékpárvilágítás most életfontosságú.",
+            "ro": "O tură cu bicicleta spre Masca pe ploaie necesită concentrare maximă pe drumul TF-436. Serpentinele strălucesc amenințător din cauza umezelii.\r\nAjunși în Masca, este necesară o pauză lungă în centrul satului pentru a vă încălzi și a vă usca hainele.\r\nDupă-amiaza, coborârea spre Roque de Catana oferă priveliști dramatice prin spărturile dintre nori, dar necesită frânare constantă pe asfalt.\r\nLa finalul turei, întoarcerea prin ceață este o adevărată provocare pentru vizibilitate. Lumina la bicicletă este acum vitală.",
+            "en": "A bike tour to Masca in the rain requires full concentration on the TF-436. The winding roads glisten dangerously in the wet.\r\nArriving in Masca, a long break in the village center is needed to warm up and dry your clothes.\r\nIn the afternoon, the descent towards Roque de Catana offers dramatic views through gaps in the clouds but demands constant braking on the asphalt.\r\nTo end the tour, riding back through the fog is a real challenge for visibility. Bike lights are now vital for safety."
+          },
+          "stops": [
+            {
+              "name": "Cherfe Viewpoint",
+              "tip_5lang": {
+                "de": "Vorsicht vor Seitenwinden; die Sicht auf den Teide ist oft durch Wolken versperrt.",
+                "hu": "Vigyázzon az oldalszéllel; a kilátás a Teidére gyakran felhős.",
+                "ro": "Atenție la vânturile laterale; vederea spre Teide este adesea blocată de nori.",
+                "en": "Beware of side winds; the view of Teide is often blocked by clouds."
+              }
+            },
+            {
+              "name": "Masca Viewpoint",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad sicher ab; der Boden am Parkplatz kann rutschig sein.",
+                "hu": "Biztonságosan támassza le a bringát; a parkoló talaja csúszós lehet.",
+                "ro": "Parcați bicicleta în siguranță; solul din parcare poate fi alunecos.",
+                "en": "Park your bike securely; the ground in the parking area can be slippery."
+              }
+            },
+            {
+              "name": "Masca Village Center",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Cafés, um die Akkus (und sich selbst) im Trockenen aufzuladen.",
+                "hu": "Használja a kávézókat az akkumulátorok (és saját maga) feltöltésére a szárazban.",
+                "ro": "Folosiți cafenelele pentru a reîncărca bateriile (și pe dvs.) la adăpost.",
+                "en": "Use the cafes to recharge batteries (and yourself) in the dry."
+              }
+            },
+            {
+              "name": "Roque de Catana",
+              "tip_5lang": {
+                "de": "Halten Sie die Felgenbremsen trocken; der Bremsweg verlängert sich erheblich.",
+                "hu": "Tartsa szárazon a felnifékeket; a féktávolság jelentősen megnő.",
+                "ro": "Păstrați frânele pe jantă uscate; distanța de frânare crește considerabil.",
+                "en": "Keep rim brakes dry; the braking distance increases significantly."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie hektische Lenkbewegungen auf den weißen Fahrbahnmarkierungen.",
+              "Vorder- und Rücklicht müssen bei Regen und Nebel auch tagsüber eingeschaltet sein.",
+              "Eine wasserdichte Regenjacke mit Belüftung ist bei den steilen Anstiegen ein Muss.",
+              "Checken Sie Ihre Bremsbeläge vor der Abfahrt nach Masca gründlich.",
+              "Der Straßenbelag in den Kurven kann durch Ölreste besonders glatt sein."
+            ],
+            "hu": [
+              "Kerülje a hirtelen kormánymozdulatokat a fehér útburkolati jeleken.",
+              "Az első és hátsó világítást esőben és ködben nappal is be kell kapcsolni.",
+              "A szellőzővel ellátott vízálló esőkabát kötelező a meredek emelkedőkön.",
+              "A Mascába való leereszkedés előtt alaposan ellenőrizze a fékbetéteket.",
+              "Az útburkolat a kanyarokban az olajmaradványok miatt különösen csúszós lehet."
+            ],
+            "ro": [
+              "Evitați mișcările bruște de ghidon pe marcajele rutiere albe.",
+              "Luminile față și spate trebuie să fie aprinse și ziua pe timp de ploaie sau ceață.",
+              "O jachetă de ploaie impermeabilă cu ventilație este obligatorie pe urcările abrupte.",
+              "Verificați temeinic plăcuțele de frână înainte de coborârea spre Masca.",
+              "Suprafața drumului în curbe poate fi deosebit de alunecoasă din cauza resturilor de ulei."
+            ],
+            "en": [
+              "Avoid sudden steering movements on white road markings.",
+              "Front and rear lights must be switched on during the day in rain and fog.",
+              "A waterproof rain jacket with ventilation is a must for the steep climbs.",
+              "Thoroughly check your brake pads before descending to Masca.",
+              "The road surface in bends can be particularly slippery due to oil residue."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radfahren im Teno-Gebirge bietet kühle Auffahrten und eiskalte Abfahrten. Ein Windstopper ist auf dem Weg zum Cherfe-Pass unverzichtbar.\r\nIn Masca angekommen, bietet die tiefstehende Wintersonne perfekte Bedingungen für Fotos, ohne dass man dabei ins Schwitzen gerät.\r\nDer Nachmittag am Roque de Catana ist ruhig; die Touristenscharen sind im Winter kleiner. Die klare Luft lässt den Ozean in der Ferne tiefblau erscheinen.\r\nDie Rückfahrt am späten Nachmittag muss zeitlich gut geplant sein, da es in den Bergen schlagartig kalt wird, sobald die Sonne weg ist.",
+            "hu": "A téli kerékpározás a Teno-hegységben hűvös emelkedőket és jéghideg lejtőket kínál. A Cherfe-hágó felé vezető úton a szélfogó kabát nélkülözhetetlen.\r\nMascába érve az alacsonyan járó téli nap tökéletes körülményeket biztosít a fotózáshoz anélkül, hogy megizzadna.\r\nA délután a Roque de Catana környékén nyugodt; a turistaáradat télen kisebb. A tiszta levegő miatt az óceán a távolban sötétkéknek látszik.\r\nA késő délutáni visszautat jól kell időzíteni, mert a hegyekben hirtelen lehűl a levegő, amint lemegy a nap.",
+            "ro": "Ciclismul de iarnă în munții Teno oferă urcări răcoroase și coborâri înghețate. Un windstopper este indispensabil în drum spre pasul Cherfe.\r\nAjunși în Masca, soarele de iarnă de joasă altitudine oferă condiții perfecte pentru fotografii fără a transpira prea mult.\r\nDupă-amiaza la Roque de Catana este liniștită; masele de turiști sunt mai mici iarna. Aerul clar face ca oceanul să pară de un albastru intens în depărtare.\r\nÎntoarcerea târziu după-amiaza trebuie bine planificată, deoarece în munți se face brusc frig imediat ce soarele apune.",
+            "en": "Winter cycling in the Teno Mountains offers cool climbs and ice-cold descents. A windstopper is indispensable on the way to the Cherfe Pass.\r\nArriving in Masca, the low-lying winter sun provides perfect photo conditions without breaking a sweat.\r\nThe afternoon at Roque de Catana is quiet; the tourist crowds are smaller in winter. The clear air makes the ocean in the distance appear deep blue.\r\nThe late afternoon return trip must be timed well, as it gets cold in the mountains instantly once the sun is gone."
+          },
+          "stops": [
+            {
+              "name": "Cherfe Viewpoint",
+              "tip_5lang": {
+                "de": "Legen Sie für die Abfahrt nach Masca eine zusätzliche Schicht an.",
+                "hu": "A Mascába való leereszkedéshez vegyen fel egy extra réteg ruhát.",
+                "ro": "Puneți un strat suplimentar de haine pentru coborârea spre Masca.",
+                "en": "Put on an extra layer for the descent to Masca."
+              }
+            },
+            {
+              "name": "Masca Viewpoint",
+              "tip_5lang": {
+                "de": "Das Licht ist hier im Winter am späten Vormittag am besten für Fotos.",
+                "hu": "A fények itt télen a késő délelőtti órákban a legjobbak a fotózáshoz.",
+                "ro": "Lumina este cea mai bună aici iarna, spre sfârșitul dimineții, pentru fotografii.",
+                "en": "The light here is best for photos in the late morning during winter."
+              }
+            },
+            {
+              "name": "Masca Village Center",
+              "tip_5lang": {
+                "de": "Suchen Sie einen Platz an der Sonne, um die Körpertemperatur zu halten.",
+                "hu": "Keressen egy napsütötte helyet, hogy fenntartsa testhőmérsékletét.",
+                "ro": "Căutați un loc la soare pentru a vă menține temperatura corpului.",
+                "en": "Seek out a spot in the sun to maintain your body temperature."
+              }
+            },
+            {
+              "name": "Roque de Catana",
+              "tip_5lang": {
+                "de": "Achten Sie auf feuchte Stellen im Schatten der Felsen, die gefrieren könnten.",
+                "hu": "Ügyeljen a sziklák árnyékában lévő nedves foltokra, amelyek lefagyhatnak.",
+                "ro": "Atenție la zonele umede din umbra stâncilor, care ar putea îngheța.",
+                "en": "Watch out for damp spots in the shadow of the rocks that could freeze."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vollfinger-Handschuhe sind für die langen Abfahrten im Winter ein Muss.",
+              "Die UV-Strahlung ist auch im Winter in dieser Höhe stark; nutzen Sie Sonnenschutz.",
+              "Trinken Sie ausreichend, auch wenn Sie aufgrund der Kälte weniger Durst verspüren.",
+              "Der Reifendruck sollte bei kälteren Temperaturen leicht kontrolliert werden.",
+              "Starten Sie Ihre Tour so, dass Sie spätestens um 16:30 Uhr zurück sind."
+            ],
+            "hu": [
+              "A hosszú téli lejtőkhöz a teli ujjas kesztyű kötelező.",
+              "Az UV-sugárzás télen is erős ebben a magasságban; használjon naptejet.",
+              "Igyon eleget, még akkor is, ha a hideg miatt kevésbé érzi szomjasnak magát.",
+              "Hidegebb időben érdemes ellenőrizni a guminyomást.",
+              "Úgy tervezze a túrát, hogy legkésőbb 16:30-ra visszaérjen."
+            ],
+            "ro": [
+              "Mănușile cu degete întregi sunt obligatorii pentru coborârile lungi iarna.",
+              "Radiațiile UV sunt puternice la această altitudine chiar și iarna; folosiți protecție solară.",
+              "Beți suficiente lichide, chiar dacă simțiți mai puțin setea din cauza frigului.",
+              "Presiunea în anvelope ar trebui verificată ușor la temperaturi mai scăzute.",
+              "Începeți tura astfel încât să vă întoarceți cel târziu la ora 16:30."
+            ],
+            "en": [
+              "Full-finger gloves are a must for long descents in winter.",
+              "UV radiation is strong at this altitude even in winter; use sunscreen.",
+              "Drink enough water, even if you feel less thirsty due to the cold.",
+              "Tire pressure should be checked as it can drop in colder temperatures.",
+              "Plan your tour so that you are back by 4:30 PM at the latest."
+            ]
+          }
+        }
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "15:20",
+      "total_km": 15.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Mirador de Cherfe",
+            "hu": "Cherfe kilátó",
+            "ro": "Mirador de Cherfe",
+            "en": "Cherfe Viewpoint"
+          },
+          "coords": [
+            -16.8325,
+            28.3065
+          ],
+          "category": "natural features",
+          "arrive_at": "09:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Bester Halt für Panoramafotos.",
+            "hu": "A legjobb hely panorámafotókhoz.",
+            "ro": "Cea mai bună oprire pentru fotografii panoramice.",
+            "en": "Best stop for panoramic photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirador de Masca",
+            "hu": "Masca kilátó",
+            "ro": "Mirador de Masca",
+            "en": "Masca Viewpoint"
+          },
+          "coords": [
+            -16.8405,
+            28.3035
+          ],
+          "category": "natural features",
+          "arrive_at": "10:05",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Parkplatz direkt am Aussichtspunkt.",
+            "hu": "Parkoló közvetlenül a kilátónál.",
+            "ro": "Parcare chiar lângă punctul de observație.",
+            "en": "Parking right at the viewpoint."
+          }
+        },
+        {
+          "name": {
+            "de": "Caserío de Masca",
+            "hu": "Masca faluközpont",
+            "ro": "Caserío de Masca",
+            "en": "Masca Village Center"
+          },
+          "coords": [
+            -16.8419,
+            28.3019
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Der Hauptparkplatz ist oft voll, früh anreisen.",
+            "hu": "A fő parkoló gyakran tele van, érkezzen korán.",
+            "ro": "Parcarea principală este adesea plină, sosiți devreme.",
+            "en": "The main parking lot is often full; arrive early."
+          }
+        },
+        {
+          "name": {
+            "de": "Iglesia de la Inmaculada Concepción",
+            "hu": "Templom",
+            "ro": "Biserica",
+            "en": "Church"
+          },
+          "coords": [
+            -16.8422,
+            28.3015
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:50",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Ein kühler Rückzugsort.",
+            "hu": "Hűvös menedékhely.",
+            "ro": "Un refugiu răcoros.",
+            "en": "A cool retreat."
+          }
+        },
+        {
+          "name": {
+            "de": "Camino de Masca",
+            "hu": "Mascai út",
+            "ro": "Camino de Masca",
+            "en": "Masca Path"
+          },
+          "coords": [
+            -16.843,
+            28.3008
+          ],
+          "category": "natural features",
+          "arrive_at": "12:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Spaziergang am Anfang des Wanderwegs.",
+            "hu": "Séta a túraútvonal elején.",
+            "ro": "Plimbare la începutul traseului de drumeție.",
+            "en": "Stroll at the beginning of the hiking trail."
+          }
+        },
+        {
+          "name": {
+            "de": "Roque de Catana",
+            "hu": "Roque de Catana",
+            "ro": "Roque de Catana",
+            "en": "Roque de Catana"
+          },
+          "coords": [
+            -16.8465,
+            28.2985
+          ],
+          "category": "natural features",
+          "arrive_at": "14:15",
+          "stay_min": 35,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Parkbucht für ein schnelles Foto.",
+            "hu": "Parkolóhely egy gyors fotóhoz.",
+            "ro": "Zonă de parcare pentru o poză rapidă.",
+            "en": "Parking bay for a quick photo."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Die Fahrt nach Masca ist eines der spektakulärsten Erlebnisse auf Teneriffa. Mit dem Auto können Sie bequem die verschiedenen Miradores wie Cherfe und Masca anfahren. Besuchen Sie das historische Dorfzentrum und die Kirche, ohne sich um Busfahrpläne sorgen zu müssen. Genießen Sie die dramatische Landschaft entlang des Camino de Masca und machen Sie einen letzten Stopp beim majestätischen Roque de Catana.",
+        "hu": "A Mascába vezető út Tenerife egyik leglátványosabb élménye. Autóval kényelmesen elérheti a különböző kilátókat, mint a Cherfe és a Masca kilátó. Látogassa meg a történelmi faluközpontot és a templomot anélkül, hogy a buszmenetrend miatt aggódna. Élvezze a drámai tájat a Camino de Masca mentén, és tartson egy utolsó megállót a fenséges Roque de Catana sziklánál.",
+        "ro": "Drumul spre Masca este una dintre cele mai spectaculoase experiențe din Tenerife. Cu mașina, puteți ajunge confortabil la diferitele Miradores, cum ar fi Cherfe și Masca. Vizitați centrul istoric al satului și biserica fără să vă faceți griji pentru orarul autobuzelor. Bucurați-vă de peisajul dramatic de-a lungul Camino de Masca și faceți o ultimă oprire la maiestuosul Roque de Catana.",
+        "en": "The drive to Masca is one of the most spectacular experiences in Tenerife. By car, you can comfortably visit the various viewpoints like Cherfe and Masca. Visit the historical village center and the church without worrying about bus schedules. Enjoy the dramatic landscape along Camino de Masca and make a final stop at the majestic Roque de Catana rock."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurante El Turron",
+            "tip": "Hähnchen mit Mandelsauce."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Restaurante El Turron",
+            "tip": "Csirke mandulaszósszal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurante El Turron",
+            "tip": "Pui cu sos de migdale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurante El Turron",
+            "tip": "Chicken with almond sauce."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "TF-436 Haltebuchten",
+            "tip": "Anhalten, wo es sicher ist, für totale Stille.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "TF-436 pihenőhelyek",
+            "tip": "Álljon meg, ahol biztonságos, a teljes csendért.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Refugii pe TF-436",
+            "tip": "Opriți unde este sigur pentru liniște totală.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "TF-436 Turnouts",
+            "tip": "Stop where safe for total silence.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirs de Masca",
+            "tip": "Kaktus-Marmelade und lokaler Wein."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Souvenirs de Masca",
+            "tip": "Kaktuszlekvár és helyi bor."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Souvenirs de Masca",
+            "tip": "Dulceață de cactus și vin local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Souvenirs de Masca",
+            "tip": "Cactus jam and local wine."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Fahren Sie extrem vorsichtig; die Straßen sind sehr eng.",
+          "Hupen Sie vor unübersichtlichen Kurven.",
+          "Geben Sie Bussen immer Vorrang.",
+          "Stellen Sie sicher, dass Ihr Tank voll ist, bevor Sie in die Berge fahren."
+        ],
+        "hu": [
+          "Vezessen rendkívül óvatosan; az utak nagyon szűkek.",
+          "Dudáljon a be nem látható kanyarok előtt.",
+          "Mindig adjon elsőbbséget a buszoknak.",
+          "Ellenőrizze, hogy tele van-e a tank, mielőtt a hegyekbe indul."
+        ],
+        "ro": [
+          "Conduceți extrem de prudent; drumurile sunt foarte înguste.",
+          "Claxonați înainte de curbele fără vizibilitate.",
+          "Acordați întotdeauna prioritate autobuzelor.",
+          "Asigurați-vă că aveți rezervorul plin înainte de a pleca la munte."
+        ],
+        "en": [
+          "Drive extremely carefully; the roads are very narrow.",
+          "Honk your horn before blind curves.",
+          "Always give priority to buses.",
+          "Ensure your tank is full before heading into the mountains."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Die Fahrt nach Masca ist eines der spektakulärsten Erlebnisse auf Teneriffa. Mit dem Auto können Sie bequem die verschiedenen Miradores wie Cherfe und Masca anfahren. Besuchen Sie das historische Dorfzentrum und die Kirche, ohne sich um Busfahrpläne sorgen zu müssen. Genießen Sie die dramatische Landschaft entlang des Camino de Masca und machen Sie einen letzten Stopp beim majestätischen Roque de Catana.",
+            "hu": "A Mascába vezető út Tenerife egyik leglátványosabb élménye. Autóval kényelmesen elérheti a különböző kilátókat, mint a Cherfe és a Masca kilátó. Látogassa meg a történelmi faluközpontot és a templomot anélkül, hogy a buszmenetrend miatt aggódna. Élvezze a drámai tájat a Camino de Masca mentén, és tartson egy utolsó megállót a fenséges Roque de Catana sziklánál.",
+            "ro": "Drumul spre Masca este una dintre cele mai spectaculoase experiențe din Tenerife. Cu mașina, puteți ajunge confortabil la diferitele Miradores, cum ar fi Cherfe și Masca. Vizitați centrul istoric al satului și biserica fără să vă faceți griji pentru orarul autobuzelor. Bucurați-vă de peisajul dramatic de-a lungul Camino de Masca și faceți o ultimă oprire la maiestuosul Roque de Catana.",
+            "en": "The drive to Masca is one of the most spectacular experiences in Tenerife. By car, you can comfortably visit the various viewpoints like Cherfe and Masca. Visit the historical village center and the church without worrying about bus schedules. Enjoy the dramatic landscape along Camino de Masca and make a final stop at the majestic Roque de Catana rock."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mirador de Cherfe",
+                "hu": "Cherfe kilátó",
+                "ro": "Mirador de Cherfe",
+                "en": "Cherfe Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Bester Halt für Panoramafotos.",
+                "hu": "A legjobb hely panorámafotókhoz.",
+                "ro": "Cea mai bună oprire pentru fotografii panoramice.",
+                "en": "Best stop for panoramic photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador de Masca",
+                "hu": "Masca kilátó",
+                "ro": "Mirador de Masca",
+                "en": "Masca Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Parkplatz direkt am Aussichtspunkt.",
+                "hu": "Parkoló közvetlenül a kilátónál.",
+                "ro": "Parcare chiar lângă punctul de observație.",
+                "en": "Parking right at the viewpoint."
+              }
+            },
+            {
+              "name": {
+                "de": "Caserío de Masca",
+                "hu": "Masca faluközpont",
+                "ro": "Caserío de Masca",
+                "en": "Masca Village Center"
+              },
+              "tip_5lang": {
+                "de": "Der Hauptparkplatz ist oft voll, früh anreisen.",
+                "hu": "A fő parkoló gyakran tele van, érkezzen korán.",
+                "ro": "Parcarea principală este adesea plină, sosiți devreme.",
+                "en": "The main parking lot is often full; arrive early."
+              }
+            },
+            {
+              "name": {
+                "de": "Iglesia de la Inmaculada Concepción",
+                "hu": "Templom",
+                "ro": "Biserica",
+                "en": "Church"
+              },
+              "tip_5lang": {
+                "de": "Ein kühler Rückzugsort.",
+                "hu": "Hűvös menedékhely.",
+                "ro": "Un refugiu răcoros.",
+                "en": "A cool retreat."
+              }
+            },
+            {
+              "name": {
+                "de": "Camino de Masca",
+                "hu": "Mascai út",
+                "ro": "Camino de Masca",
+                "en": "Masca Path"
+              },
+              "tip_5lang": {
+                "de": "Spaziergang am Anfang des Wanderwegs.",
+                "hu": "Séta a túraútvonal elején.",
+                "ro": "Plimbare la începutul traseului de drumeție.",
+                "en": "Stroll at the beginning of the hiking trail."
+              }
+            },
+            {
+              "name": {
+                "de": "Roque de Catana",
+                "hu": "Roque de Catana",
+                "ro": "Roque de Catana",
+                "en": "Roque de Catana"
+              },
+              "tip_5lang": {
+                "de": "Parkbucht für ein schnelles Foto.",
+                "hu": "Parkolóhely egy gyors fotóhoz.",
+                "ro": "Zonă de parcare pentru o poză rapidă.",
+                "en": "Parking bay for a quick photo."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Restaurante El Turron",
+                "tip": "Hähnchen mit Mandelsauce."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Restaurante El Turron",
+                "tip": "Csirke mandulaszósszal."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Restaurante El Turron",
+                "tip": "Pui cu sos de migdale."
+              }
+            ],
+            "en": [
+              {
+                "name": "Restaurante El Turron",
+                "tip": "Chicken with almond sauce."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "TF-436 Haltebuchten",
+                "tip": "Anhalten, wo es sicher ist, für totale Stille.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "TF-436 pihenőhelyek",
+                "tip": "Álljon meg, ahol biztonságos, a teljes csendért.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Refugii pe TF-436",
+                "tip": "Opriți unde este sigur pentru liniște totală.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "TF-436 Turnouts",
+                "tip": "Stop where safe for total silence.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Souvenirs de Masca",
+                "tip": "Kaktus-Marmelade und lokaler Wein."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Souvenirs de Masca",
+                "tip": "Kaktuszlekvár és helyi bor."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Souvenirs de Masca",
+                "tip": "Dulceață de cactus și vin local."
+              }
+            ],
+            "en": [
+              {
+                "name": "Souvenirs de Masca",
+                "tip": "Cactus jam and local wine."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Fahren Sie extrem vorsichtig; die Straßen sind sehr eng.",
+              "Hupen Sie vor unübersichtlichen Kurven.",
+              "Geben Sie Bussen immer Vorrang.",
+              "Stellen Sie sicher, dass Ihr Tank voll ist, bevor Sie in die Berge fahren."
+            ],
+            "hu": [
+              "Vezessen rendkívül óvatosan; az utak nagyon szűkek.",
+              "Dudáljon a be nem látható kanyarok előtt.",
+              "Mindig adjon elsőbbséget a buszoknak.",
+              "Ellenőrizze, hogy tele van-e a tank, mielőtt a hegyekbe indul."
+            ],
+            "ro": [
+              "Conduceți extrem de prudent; drumurile sunt foarte înguste.",
+              "Claxonați înainte de curbele fără vizibilitate.",
+              "Acordați întotdeauna prioritate autobuzelor.",
+              "Asigurați-vă că aveți rezervorul plin înainte de a pleca la munte."
+            ],
+            "en": [
+              "Drive extremely carefully; the roads are very narrow.",
+              "Honk your horn before blind curves.",
+              "Always give priority to buses.",
+              "Ensure your tank is full before heading into the mountains."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Fahrt nach Masca bei Regen ist ein Abenteuer für sich. Nebelschwaden hängen tief in den Kurven der TF-436 und fordern höchste Aufmerksamkeit am Steuer.\r\nIn Masca angekommen, parken Sie das Auto sicher und eilen zum Aussichtspunkt, bevor der nächste Regenguss einsetzt. Die Aussicht ist dramatisch und düster.\r\nMittags ist das Dorfzentrum der ideale Ort, um das Auto stehen zu lassen und die kanarische Küche in einem der urigen Restaurants zu genießen.\r\nAm Nachmittag führt der Weg zum Roque de Catana über nasse Straßen. Die Rückfahrt sollte langsam erfolgen, da der Bremsweg auf dem steilen Asphalt länger ist.",
+            "hu": "Az esős autózás Mascába önmagában is kaland. A ködfoltok mélyen beleülnek a TF-436-os út kanyarjaiba, maximális figyelmet követelve a kormány mögött.\r\nMascába érve parkoljon le biztonságosan, és siessen a kilátóhoz, mielőtt eleredne a következő zápor. A kilátás drámai és komor.\r\nDélben a falu központja ideális hely az autó leállítására és a kanári konyha élvezetére az egyik patinás étteremben.\r\nDélután a Roque de Catana felé vezető út nedves aszfalton visz. A visszautat lassan tegye meg, mert a fékút a meredek úton hosszabb.",
+            "ro": "Drumul cu mașina spre Masca pe ploaie este o aventură în sine. Bancurile de ceață stau jos în curbele drumului TF-436, cerând atenție maximă la volan.\r\nAjunși în Masca, parcați mașina în siguranță și grăbiți-vă spre punctul de belvedere înainte de următoarea aversă. Priveliștea este dramatică și sumbră.\r\nLa prânz, centrul satului este locul ideal pentru a lăsa mașina și a savura bucătăria canariană într-unul dintre restaurantele rustice.\r\nDupă-amiaza, drumul spre Roque de Catana trece peste șosele ude. Întoarcerea trebuie făcută încet, deoarece distanța de frânare este mai lungă pe asfaltul abrupt.",
+            "en": "Driving to Masca in the rain is an adventure in itself. Fog banks hang low in the curves of the TF-436, demanding maximum attention at the wheel.\r\nArriving in Masca, park your car safely and hurry to the viewpoint before the next downpour starts. The view is dramatic and somber.\r\nAt noon, the village center is the ideal place to leave the car and enjoy Canarian cuisine in one of the quaint restaurants.\r\nIn the afternoon, the path to Roque de Catana leads over wet roads. The return journey should be slow, as the braking distance is longer on the steep asphalt."
+          },
+          "stops": [
+            {
+              "name": "Cherfe Viewpoint",
+              "tip_5lang": {
+                "de": "Schalten Sie das Abblendlicht ein; die Sichtweite kann hier schlagartig sinken.",
+                "hu": "Kapcsolja be a tompított fényszórót; a látótávolság hirtelen lecsökkenhet.",
+                "ro": "Aprindeți faza scurtă; vizibilitatea poate scădea brusc aici.",
+                "en": "Turn on your dipped headlights; visibility can drop suddenly here."
+              }
+            },
+            {
+              "name": "Masca Viewpoint",
+              "tip_5lang": {
+                "de": "Vorsicht beim Aussteigen; die Parkplatzbegrenzungen sind bei Regen schwerer zu sehen.",
+                "hu": "Vigyázzon kiszálláskor; a parkoló szegélyei esőben nehezebben láthatóak.",
+                "ro": "Atenție la coborârea din mașină; marginile parcării sunt mai greu de văzut pe ploaie.",
+                "en": "Be careful when getting out; the parking lot boundaries are harder to see in the rain."
+              }
+            },
+            {
+              "name": "Masca Village Center",
+              "tip_5lang": {
+                "de": "Parkplätze sind begrenzt; bei Regen parken viele Autos unübersichtlich.",
+                "hu": "A parkolóhelyek száma korlátozott; esőben sok autó zavaróan parkolhat.",
+                "ro": "Locurile de parcare sunt limitate; pe ploaie, multe mașini sunt parcate haotic.",
+                "en": "Parking spaces are limited; in the rain, many cars may be parked awkwardly."
+              }
+            },
+            {
+              "name": "Church",
+              "tip_5lang": {
+                "de": "Ein kurzer Fußweg vom Parkplatz; nehmen Sie einen stabilen Schirm mit.",
+                "hu": "Rövid séta a parkolótól; vigyen magával egy stabil esernyőt.",
+                "ro": "O scurtă plimbare de la parcare; luați o umbrelă rezistentă cu dvs.",
+                "en": "A short walk from the parking lot; take a sturdy umbrella with you."
+              }
+            },
+            {
+              "name": "Masca Path",
+              "tip_5lang": {
+                "de": "Befahren Sie nur befestigte Wege; die Bankette können bei Regen aufweichen.",
+                "hu": "Csak szilárd burkolatú úton közlekedjen; az útpadka esőben felpuhulhat.",
+                "ro": "Conduceți doar pe drumuri pavate; acostamentele se pot înmuia din cauza ploii.",
+                "en": "Drive only on paved paths; the road shoulders can soften in the rain."
+              }
+            },
+            {
+              "name": "Roque de Catana",
+              "tip_5lang": {
+                "de": "Vermeiden Sie scharfes Bremsen auf den Bergabpassagen.",
+                "hu": "Kerülje az erős fékezést a lejtős szakaszokon.",
+                "ro": "Evitați frânarea bruscă pe porțiunile de coborâre.",
+                "en": "Avoid sharp braking on the downhill sections."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Zustand Ihrer Scheibenwischer vor der Fahrt in die Berge.",
+              "Halten Sie größeren Abstand zum Vordermann, besonders in den steilen Kurven.",
+              "Hupen Sie vor unübersichtlichen Kurven, um entgegenkommende Fahrzeuge zu warnen.",
+              "Nutzen Sie die Motorbremse, um die Bremsen bei der Abfahrt zu entlasten.",
+              "Einige Parkplätze können bei starkem Regen durch Geröll blockiert sein."
+            ],
+            "hu": [
+              "Indulás előtt ellenőrizze az ablaktörlők állapotát.",
+              "Tartson nagyobb követési távolságot, különösen a meredek kanyarokban.",
+              "Dudáljon a beláthatatlan kanyarok előtt, hogy figyelmeztesse a szembejövőket.",
+              "Használja a motorféket, hogy tehermentesítse a fékeket a lejtőn.",
+              "Erős esőzés után egyes parkolókat törmelék zárhat el."
+            ],
+            "ro": [
+              "Verificați starea ștergătoarelor înainte de a pleca spre munți.",
+              "Păstrați o distanță mai mare față de vehiculul din față, mai ales în curbele abrupte.",
+              "Claxonați înainte de curbele fără vizibilitate pentru a avertiza vehiculele care vin din sens opus.",
+              "Folosiți frâna de motor pentru a menaja frânele la coborâre.",
+              "Unele locuri de parcare pot fi blocate de resturi după ploi torențiale."
+            ],
+            "en": [
+              "Check the condition of your windshield wipers before driving into the mountains.",
+              "Keep a greater distance from the vehicle in front, especially in steep curves.",
+              "Honk your horn before blind curves to warn oncoming vehicles.",
+              "Use engine braking to take the pressure off your brakes during the descent.",
+              "Some parking spots may be blocked by debris after heavy rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Winterfahrt nach Masca besticht durch glasklare Fernsichten bis nach La Gomera. Die kühle Luft sorgt für eine optimale Motorleistung bei den Anstiegen.\r\nAm Vormittag füllt sich das Dorf Masca schnell mit Mietwagen. Frühzeitiges Erscheinen sichert Ihnen einen der begehrten Parkplätze.\r\nMittags ist es im Ort sonnig und angenehm, ideal für einen Spaziergang zur Kirche. Die Wintersonne steht tief und wirft lange, malerische Schatten.\r\nDer Nachmittag am Roque de Catana bietet eine friedliche Atmosphäre. Die Rückfahrt sollte vor Einbruch der Dunkelheit erfolgen, da die Serpentinen unbeleuchtet sind.",
+            "hu": "A téli autózás Mascába kristálytiszta kilátással ajándékoz meg egészen La Gomeráig. A hűvös levegő optimális motorteljesítményt biztosít az emelkedőkön.\r\nDélelőtt Masca faluja gyorsan megtelik bérautókkal. A korai érkezés biztosítja az egyik áhított parkolóhelyet.\r\nDélben a faluban napos és kellemes az idő, ideális egy sétához a templomig. A téli nap alacsonyan jár, és hosszú, festői árnyékokat vet.\r\nA délután a Roque de Catana környékén békés hangulatot áraszt. A visszautat sötétedés előtt érdemes megtenni, mert a szerpentinek nincsenek kivilágítva.",
+            "ro": "Drumul de iarnă spre Masca impresionează prin vederile clare până la La Gomera. Aerul răcoros asigură o performanță optimă a motorului pe urcări.\r\nÎn cursul dimineții, satul Masca se umple rapid de mașini închiriate. Sosirea devreme vă asigură unul dintre locurile de parcare râvnite.\r\nLa prânz, în localitate este însorit și plăcut, ideal pentru o plimbare spre biserică. Soarele de iarnă este jos și aruncă umbre lungi și pitorești.\r\nDupă-amiaza la Roque de Catana oferă o atmosferă pașnică. Întoarcerea ar trebui făcută înainte de lăsarea întunericului, deoarece serpentinele sunt neiluminate.",
+            "en": "The winter drive to Masca impresses with crystal-clear views all the way to La Gomera. The cool air ensures optimal engine performance on the climbs.\r\nDuring the morning, the village of Masca fills up quickly with rental cars. Arriving early secures you one of the coveted parking spots.\r\nAt noon, it's sunny and pleasant in the village, ideal for a stroll to the church. The winter sun is low, casting long, picturesque shadows.\r\nThe afternoon at Roque de Catana offers a peaceful atmosphere. The return trip should be made before dark, as the serpentine roads are unlit."
+          },
+          "stops": [
+            {
+              "name": "Cherfe Viewpoint",
+              "tip_5lang": {
+                "de": "Parken Sie kurz, um die Sicht auf den schneebedeckten Teide zu genießen.",
+                "hu": "Parkoljon le rövid időre, hogy megcsodálja a havas Teide látványát.",
+                "ro": "Parcați scurt pentru a vă bucura de vederea spre Teide acoperit de zăpadă.",
+                "en": "Park briefly to enjoy the view of snow-capped Mount Teide."
+              }
+            },
+            {
+              "name": "Masca Viewpoint",
+              "tip_5lang": {
+                "de": "Im Winter sind die Lichtverhältnisse für Panoramaaufnahmen am besten.",
+                "hu": "Télen a fényviszonyok a legalkalmasabbak a panorámafelvételekhez.",
+                "ro": "Iarna, condițiile de lumină sunt cele mai bune pentru fotografii panoramice.",
+                "en": "In winter, the light conditions are best for panoramic photos."
+              }
+            },
+            {
+              "name": "Masca Village Center",
+              "tip_5lang": {
+                "de": "Lassen Sie das Auto stehen und erkunden Sie die Gassen zu Fuß, solange es hell ist.",
+                "hu": "Hagyja az autót, és fedezze fel a sikátorokat gyalog, amíg világos van.",
+                "ro": "Lăsați mașina și explorați străduțele la pas cât timp este încă lumină.",
+                "en": "Leave the car and explore the alleys on foot while it's still light."
+              }
+            },
+            {
+              "name": "Church",
+              "tip_5lang": {
+                "de": "Die kleine Kirche bietet im Winter eine besinnliche Atmosphäre.",
+                "hu": "A kis templom télen meghitt hangulatot áraszt.",
+                "ro": "Mica biserică oferă o atmosferă de reflecție pe timpul iernii.",
+                "en": "The small church offers a contemplative atmosphere in winter."
+              }
+            },
+            {
+              "name": "Masca Path",
+              "tip_5lang": {
+                "de": "Im Winter sind weniger Wanderer unterwegs; genießen Sie die Stille.",
+                "hu": "Télen kevesebb túrázó van úton; élvezze a csendet.",
+                "ro": "Iarna sunt mai puțini drumeți pe drum; bucurați-vă de liniște.",
+                "en": "Fewer hikers are out in winter; enjoy the silence."
+              }
+            },
+            {
+              "name": "Roque de Catana",
+              "tip_5lang": {
+                "de": "Perfekter Stopp für den Sonnenuntergang; nehmen Sie eine warme Jacke mit.",
+                "hu": "Tökéletes megálló a naplementéhez; vigyen magával meleg kabátot.",
+                "ro": "Oprire perfectă pentru apus; luați o jachetă groasă cu dvs.",
+                "en": "Perfect stop for the sunset; bring a warm jacket with you."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Parkplatzsituation ist im Winter entspannter, aber kommen Sie dennoch vor 10 Uhr.",
+              "Die Temperaturen können in den Bergen 10 Grad niedriger sein als an der Küste.",
+              "Vergewissern Sie sich, dass Ihre Scheinwerfer sauber sind für die Rückfahrt im Dunkeln.",
+              "Im Winter kann es in Masca nachmittags sehr schnell schattig und kühl werden.",
+              "Ein warmer 'Barraquito'-Kaffee ist im Winter ein absolutes Muss im Dorf."
+            ],
+            "hu": [
+              "Télen a parkolási helyzet nyugodtabb, de érdemes 10 óra előtt érkezni.",
+              "A hegyekben a hőmérséklet 10 fokkal is alacsonyabb lehet, mint a tengerparton.",
+              "Ellenőrizze, hogy a fényszórók tiszták-e a sötétben való visszautazáshoz.",
+              "Télen Mascában délutánonként nagyon gyorsan árnyékossá és hűvössé válik az idő.",
+              "Egy meleg 'Barraquito' kávé télen kötelező a faluban."
+            ],
+            "ro": [
+              "Situația parcărilor este mai relaxată iarna, dar totuși veniți înainte de ora 10.",
+              "Temperaturile în munți pot fi cu 10 grade mai mici decât la coastă.",
+              "Asigurați-vă că farurile sunt curate pentru drumul de întoarcere pe întuneric.",
+              "Iarna în Masca se face umbră și răcoare foarte repede după-amiaza.",
+              "O cafea caldă 'Barraquito' este un must-have iarna în sat."
+            ],
+            "en": [
+              "The parking situation is more relaxed in winter, but still aim to arrive before 10 AM.",
+              "Temperatures in the mountains can be 10 degrees lower than on the coast.",
+              "Make sure your headlights are clean for the drive back in the dark.",
+              "In winter, it becomes shady and cool very quickly in the afternoon in Masca.",
+              "A warm 'Barraquito' coffee is an absolute must in the village during winter."
+            ]
+          }
+        }
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "15:45",
+      "total_km": 10.0,
+      "stop_count": 4,
+      "stops": [
+        {
+          "name": {
+            "de": "Mirador de Masca",
+            "hu": "Masca kilátó",
+            "ro": "Mirador de Masca",
+            "en": "Masca Viewpoint"
+          },
+          "coords": [
+            -16.8405,
+            28.3035
+          ],
+          "category": "natural features",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Der Bus hält direkt oberhalb des Dorfes.",
+            "hu": "A busz közvetlenül a falu felett áll meg.",
+            "ro": "Autobuzul oprește chiar deasupra satului.",
+            "en": "The bus stops right above the village."
+          }
+        },
+        {
+          "name": {
+            "de": "Caserío de Masca",
+            "hu": "Masca faluközpont",
+            "ro": "Caserío de Masca",
+            "en": "Masca Village Center"
+          },
+          "coords": [
+            -16.8419,
+            28.3019
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:50",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Beste Zeit zum Erkunden vor den großen Gruppen.",
+            "hu": "A legjobb idő a felfedezésre a nagy csoportok előtt.",
+            "ro": "Cel mai bun moment pentru explorare înainte de grupurile mari.",
+            "en": "Best time to explore before the large groups arrive."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Etnográfico de Masca",
+            "hu": "Masca Néprajzi Múzeum",
+            "ro": "Muzeul Etnografic Masca",
+            "en": "Masca Ethnographic Museum"
+          },
+          "coords": [
+            -16.8425,
+            28.3012
+          ],
+          "category": "museums",
+          "arrive_at": "11:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "In der Nähe der Bushaltestelle gelegen.",
+            "hu": "A buszmegálló közelében található.",
+            "ro": "Situat aproape de stația de autobuz.",
+            "en": "Located near the bus stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Iglesia de la Inmaculada Concepción",
+            "hu": "Templom",
+            "ro": "Biserica",
+            "en": "Church"
+          },
+          "coords": [
+            -16.8422,
+            28.3015
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:40",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Warten Sie hier im Schatten auf den Bus.",
+            "hu": "Várja itt a buszt az árnyékban.",
+            "ro": "Așteptați autobuzul aici, la umbră.",
+            "en": "Wait for the bus here in the shade."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Die Anreise nach Masca mit dem Bus (Linie 355 von Santiago del Teide) ist stressfrei und bietet tolle Ausblicke. Starten Sie am Aussichtspunkt Mirador de Masca und erkunden Sie dann das Caserío. Besuchen Sie das ethnografische Museum und die kleine Kirche im Herzen des Dorfes. Da der Parkplatz begrenzt ist, ist der Bus die klügste Wahl für einen entspannten Besuch.",
+        "hu": "Mascába busszal utazni (355-ös járat Santiago del Teide felől) feszültségmentes és remek kilátást nyújt. Kezdjen a Masca kilátónál, majd fedezze fel a faluközpontot. Látogassa meg a néprajzi múzeumot és a falu szívében lévő kis templomot. Mivel a parkolóhely korlátozott, a busz a legokosabb választás a pihentető látogatáshoz.",
+        "ro": "Călătoria spre Masca cu autobuzul (linia 355 din Santiago del Teide) este fără stres și oferă priveliști grozave. Începeți la Mirador de Masca și apoi explorați Caserío. Vizitați muzeul etnografic și mica biserică din inima satului. Deoarece parcarea este limitată, autobuzul este cea mai inteligentă alegere pentru o vizită relaxată.",
+        "en": "Traveling to Masca by bus (line 355 from Santiago del Teide) is stress-free and offers great views. Start at the Masca viewpoint and then explore the Caserío. Visit the ethnographic museum and the small church in the heart of the village. Since parking is limited, the bus is the smartest choice for a relaxed visit."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurante Blanky",
+            "tip": "Gofio-Mousse ist eine kanarische Delikatesse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Restaurante Blanky",
+            "tip": "A Gofio mousse egy helyi kanári csemege."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurante Blanky",
+            "tip": "Mousse de Gofio este o delicatesă canariană."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurante Blanky",
+            "tip": "Gofio mousse is a traditional Canarian delicacy."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kirchplatz",
+            "tip": "Ein ruhiger Ort, wenn die Busse gerade abgefahren sind.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Templom tér",
+            "tip": "Csendes hely, amikor a buszok épp elmentek.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Bisericii",
+            "tip": "Un loc liniștit imediat ce autobuzele au plecat.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Church Square",
+            "tip": "A quiet spot right after the buses have departed.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Laden im Museum",
+            "tip": "Bücher über die Geschichte von Teneriffa."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Múzeumi bolt",
+            "tip": "Könyvek Tenerife történelméről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul muzeului",
+            "tip": "Cărți despre istoria insulei Tenerife."
+          }
+        ],
+        "en": [
+          {
+            "name": "Museum Shop",
+            "tip": "Books about the history of Tenerife."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie die TITSA-Fahrpläne genau; Busse sind selten.",
+          "Haben Sie Kleingeld oder eine Ten+ Karte bereit.",
+          "Die Fahrt ist kurvenreich; bei Reisekrankheit vorsorgen.",
+          "Die Haltestelle befindet sich an der Hauptstraße oberhalb des Dorfes."
+        ],
+        "hu": [
+          "Pontosan ellenőrizze a TITSA menetrendet; a buszok ritkán járnak.",
+          "Legyen Önnél aprópénz vagy Ten+ kártya.",
+          "Az út kanyargós; készüljön fel, ha hajlamos az utazási betegségre.",
+          "A megálló a falu feletti főúton van."
+        ],
+        "ro": [
+          "Verificați cu atenție orarul TITSA; autobuzele sunt rare.",
+          "Aveți pregătit mărunțiș sau un card Ten+.",
+          "Drumul este sinuos; luați măsuri dacă aveți rău de mișcare.",
+          "Stația se află pe drumul principal deasupra satului."
+        ],
+        "en": [
+          "Check TITSA schedules carefully; buses are infrequent.",
+          "Have small change or a Ten+ card ready.",
+          "The ride is winding; prepare if you are prone to motion sickness.",
+          "The stop is located on the main road above the village."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Die Anreise nach Masca mit dem Bus (Linie 355 von Santiago del Teide) ist stressfrei und bietet tolle Ausblicke. Starten Sie am Aussichtspunkt Mirador de Masca und erkunden Sie dann das Caserío. Besuchen Sie das ethnografische Museum und die kleine Kirche im Herzen des Dorfes. Da der Parkplatz begrenzt ist, ist der Bus die klügste Wahl für einen entspannten Besuch.",
+            "hu": "Mascába busszal utazni (355-ös járat Santiago del Teide felől) feszültségmentes és remek kilátást nyújt. Kezdjen a Masca kilátónál, majd fedezze fel a faluközpontot. Látogassa meg a néprajzi múzeumot és a falu szívében lévő kis templomot. Mivel a parkolóhely korlátozott, a busz a legokosabb választás a pihentető látogatáshoz.",
+            "ro": "Călătoria spre Masca cu autobuzul (linia 355 din Santiago del Teide) este fără stres și oferă priveliști grozave. Începeți la Mirador de Masca și apoi explorați Caserío. Vizitați muzeul etnografic și mica biserică din inima satului. Deoarece parcarea este limitată, autobuzul este cea mai inteligentă alegere pentru o vizită relaxată.",
+            "en": "Traveling to Masca by bus (line 355 from Santiago del Teide) is stress-free and offers great views. Start at the Masca viewpoint and then explore the Caserío. Visit the ethnographic museum and the small church in the heart of the village. Since parking is limited, the bus is the smartest choice for a relaxed visit."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mirador de Masca",
+                "hu": "Masca kilátó",
+                "ro": "Mirador de Masca",
+                "en": "Masca Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Der Bus hält direkt oberhalb des Dorfes.",
+                "hu": "A busz közvetlenül a falu felett áll meg.",
+                "ro": "Autobuzul oprește chiar deasupra satului.",
+                "en": "The bus stops right above the village."
+              }
+            },
+            {
+              "name": {
+                "de": "Caserío de Masca",
+                "hu": "Masca faluközpont",
+                "ro": "Caserío de Masca",
+                "en": "Masca Village Center"
+              },
+              "tip_5lang": {
+                "de": "Beste Zeit zum Erkunden vor den großen Gruppen.",
+                "hu": "A legjobb idő a felfedezésre a nagy csoportok előtt.",
+                "ro": "Cel mai bun moment pentru explorare înainte de grupurile mari.",
+                "en": "Best time to explore before the large groups arrive."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Etnográfico de Masca",
+                "hu": "Masca Néprajzi Múzeum",
+                "ro": "Muzeul Etnografic Masca",
+                "en": "Masca Ethnographic Museum"
+              },
+              "tip_5lang": {
+                "de": "In der Nähe der Bushaltestelle gelegen.",
+                "hu": "A buszmegálló közelében található.",
+                "ro": "Situat aproape de stația de autobuz.",
+                "en": "Located near the bus stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Iglesia de la Inmaculada Concepción",
+                "hu": "Templom",
+                "ro": "Biserica",
+                "en": "Church"
+              },
+              "tip_5lang": {
+                "de": "Warten Sie hier im Schatten auf den Bus.",
+                "hu": "Várja itt a buszt az árnyékban.",
+                "ro": "Așteptați autobuzul aici, la umbră.",
+                "en": "Wait for the bus here in the shade."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Restaurante Blanky",
+                "tip": "Gofio-Mousse ist eine kanarische Delikatesse."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Restaurante Blanky",
+                "tip": "A Gofio mousse egy helyi kanári csemege."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Restaurante Blanky",
+                "tip": "Mousse de Gofio este o delicatesă canariană."
+              }
+            ],
+            "en": [
+              {
+                "name": "Restaurante Blanky",
+                "tip": "Gofio mousse is a traditional Canarian delicacy."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Kirchplatz",
+                "tip": "Ein ruhiger Ort, wenn die Busse gerade abgefahren sind.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Templom tér",
+                "tip": "Csendes hely, amikor a buszok épp elmentek.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Piața Bisericii",
+                "tip": "Un loc liniștit imediat ce autobuzele au plecat.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Church Square",
+                "tip": "A quiet spot right after the buses have departed.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Laden im Museum",
+                "tip": "Bücher über die Geschichte von Teneriffa."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Múzeumi bolt",
+                "tip": "Könyvek Tenerife történelméről."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Magazinul muzeului",
+                "tip": "Cărți despre istoria insulei Tenerife."
+              }
+            ],
+            "en": [
+              {
+                "name": "Museum Shop",
+                "tip": "Books about the history of Tenerife."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Überprüfen Sie die TITSA-Fahrpläne genau; Busse sind selten.",
+              "Haben Sie Kleingeld oder eine Ten+ Karte bereit.",
+              "Die Fahrt ist kurvenreich; bei Reisekrankheit vorsorgen.",
+              "Die Haltestelle befindet sich an der Hauptstraße oberhalb des Dorfes."
+            ],
+            "hu": [
+              "Pontosan ellenőrizze a TITSA menetrendet; a buszok ritkán járnak.",
+              "Legyen Önnél aprópénz vagy Ten+ kártya.",
+              "Az út kanyargós; készüljön fel, ha hajlamos az utazási betegségre.",
+              "A megálló a falu feletti főúton van."
+            ],
+            "ro": [
+              "Verificați cu atenție orarul TITSA; autobuzele sunt rare.",
+              "Aveți pregătit mărunțiș sau un card Ten+.",
+              "Drumul este sinuos; luați măsuri dacă aveți rău de mișcare.",
+              "Stația se află pe drumul principal deasupra satului."
+            ],
+            "en": [
+              "Check TITSA schedules carefully; buses are infrequent.",
+              "Have small change or a Ten+ card ready.",
+              "The ride is winding; prepare if you are prone to motion sickness.",
+              "The stop is located on the main road above the village."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Anreise mit dem Bus nach Masca im Regen ist die sicherste Wahl. Lehnen Sie sich zurück, während der Busfahrer die Serpentinen meistert.\r\nNach der Ankunft bietet die Wartehalle oder ein nahes Café ersten Schutz. Ein Spaziergang zum Aussichtspunkt ist nur in Regenpausen zu empfehlen.\r\nMittags ist das Ethnografische Museum der ideale Ort, um dem Wetter zu entfliehen. Hier verbringen Sie eine lehrreiche Zeit im Trockenen.\r\nDie Rückfahrt mit dem Bus am Nachmittag erfolgt durch dichte Nebelfelder. Die Atmosphäre ist fast gespenstisch, wenn die Umrisse der Berge im Grau verschwinden.",
+            "hu": "Az esős buszozás Mascába a legbiztonságosabb választás. Dőljön hátra, amíg a sofőr leküzdi a szerpentineket.\r\nÉrkezés után a váróterem vagy egy közeli kávézó nyújt elsőként menedéket. A kilátóhoz való séta csak az esőszünetekben ajánlott.\r\nDélben az Etnográfiai Múzeum ideális hely az időjárás elől való menekülésre. Itt tartalmas időt tölthet el a szárazban.\r\nA délutáni visszautazás busszal sűrű ködfoltokon keresztül történik. A hangulat szinte kísérteties, ahogy a hegyek körvonalai eltűnnek a szürkeségben.",
+            "ro": "Călătoria cu autobuzul spre Masca pe ploaie este cea mai sigură alegere. Relaxați-vă în timp ce șoferul stăpânește serpentinele.\r\nDupă sosire, sala de așteptare sau o cafenea din apropiere oferă primul adăpost. O plimbare la punctul de belvedere este recomandată doar în pauzele dintre ploi.\r\nLa prânz, Muzeul Etnografic este locul ideal pentru a scăpa de vremea rea. Aici veți petrece un timp educativ la adăpost.\r\nÎntoarcerea cu autobuzul după-amiaza se face prin bancuri dense de ceață. Atmosfera este aproape fantomatică pe măsură ce conturul munților dispare în gri.",
+            "en": "Traveling by bus to Masca in the rain is the safest choice. Sit back while the driver tackles the winding roads.\r\nUpon arrival, the waiting area or a nearby cafe provides initial shelter. A walk to the viewpoint is only recommended during breaks in the rain.\r\nAt noon, the Ethnographic Museum is the ideal place to escape the weather. You can spend an educational time here in the dry.\r\nThe bus trip back in the afternoon goes through dense fog. The atmosphere is almost ghostly as the mountain outlines disappear into the gray."
+          },
+          "stops": [
+            {
+              "name": "Masca Viewpoint",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle liegt direkt am Aussichtspunkt; nutzen Sie das Wartehäuschen.",
+                "hu": "A buszmegálló közvetlenül a kilátónál van; használja a váróhelyet.",
+                "ro": "Stația de autobuz este chiar lângă punctul de belvedere; folosiți refugiul.",
+                "en": "The bus stop is right at the viewpoint; make use of the shelter."
+              }
+            },
+            {
+              "name": "Masca Village Center",
+              "tip_5lang": {
+                "de": "Planen Sie mehr Zeit ein, da die Busse bei schlechtem Wetter Verspätung haben können.",
+                "hu": "Számoljon több idővel, mert rossz időben a buszok késhetnek.",
+                "ro": "Alocați mai mult timp, deoarece autobuzele pot avea întârzieri pe vreme rea.",
+                "en": "Allow more time, as buses may be delayed in bad weather."
+              }
+            },
+            {
+              "name": "Masca Ethnographic Museum",
+              "tip_5lang": {
+                "de": "Der perfekte Ort, um auf den nächsten Bus im Trockenen zu warten.",
+                "hu": "Tökéletes hely a következő busz megvárására a szárazban.",
+                "ro": "Locul perfect pentru a aștepta următorul autobuz la adăpost.",
+                "en": "The perfect place to wait for the next bus in the dry."
+              }
+            },
+            {
+              "name": "Church",
+              "tip_5lang": {
+                "de": "Achten Sie auf dem Weg zur Haltestelle auf rutschige Treppen.",
+                "hu": "A megállóhoz vezető úton vigyázzon a csúszós lépcsőkre.",
+                "ro": "Atenție la scările alunecoase în drum spre stație.",
+                "en": "Watch out for slippery stairs on the way to the bus stop."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Verwenden Sie die 'TITSA'-App, um die Busse in Echtzeit zu verfolgen.",
+              "Die Busse der Linie 355 sind klein; bei Regen wollen viele gleichzeitig mitfahren.",
+              "Haben Sie Kleingeld oder Ihre Ten+ Karte griffbereit, um den Einstieg zu beschleunigen.",
+              "Bei starkem Regen kann es zu Straßensperrungen kommen; prüfen Sie die TITSA-Website.",
+              "Tragen Sie eine Jacke, da die Klimaanlage im Bus oft kühl eingestellt ist."
+            ],
+            "hu": [
+              "Használja a 'TITSA' alkalmazást a buszok valós idejű követéséhez.",
+              "A 355-ös vonal buszai kicsik; esőben sokan akarnak egyszerre felszállni.",
+              "Legyen kéznél aprópénz vagy a Ten+ kártya a gyorsabb felszállás érdekében.",
+              "Erős esőben útlezárások fordulhatnak elő; ellenőrizze a TITSA weboldalát.",
+              "Viseljen kabátot, mert a buszokon a légkondicionálás gyakran hűvösre van állítva."
+            ],
+            "ro": [
+              "Utilizați aplicația 'TITSA' pentru a urmări autobuzele în timp real.",
+              "Autobuzele liniei 355 sunt mici; pe ploaie, mulți vor dori să urce în același timp.",
+              "Aveți la îndemână mărunțiș sau cardul Ten+ pentru a accelera urcarea.",
+              "În caz de ploi torențiale, pot apărea închideri de drumuri; verificați site-ul TITSA.",
+              "Purtați o jachetă, deoarece aerul condiționat din autobuz este adesea setat pe răcoare."
+            ],
+            "en": [
+              "Use the 'TITSA' app to track buses in real-time.",
+              "The 355 line buses are small; many people may want to board at once when it rains.",
+              "Have change or your Ten+ card ready to speed up boarding.",
+              "In heavy rain, road closures may occur; check the TITSA website.",
+              "Wear a jacket, as the air conditioning on the bus is often set quite cool."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Busfahrt nach Masca im Winter ist entspannt und bietet fantastische Ausblicke. Da weniger Touristen unterwegs sind, bekommen Sie leichter einen Sitzplatz.\r\nNach der Ankunft am Aussichtspunkt ist die Luft klar und frisch. Ein kurzer Spaziergang ins Dorfzentrum belebt die Geister nach der kurvigen Fahrt.\r\nMittags ist das Museum ein ruhiger Ort der Einkehr. Die Wintersonne scheint hell durch die Fenster und beleuchtet die Exponate.\r\nAm Nachmittag sollten Sie die letzte Busverbindung genau im Blick haben. In der Dämmerung zu warten kann in der Höhe empfindlich kalt werden.",
+            "hu": "A téli buszozás Mascába pihentető és fantasztikus kilátást nyújt. Mivel kevesebb a turista, könnyebben kaphat ülőhelyet.\r\nA kilátóhoz érve a levegő tiszta és friss. Egy rövid séta a falu központjába felfrissíti a lelket a kanyargós út után.\r\nDélben a múzeum a nyugalom szigete. A téli nap fényesen besüt az ablakokon, megvilágítva a kiállítási tárgyakat.\r\nDélután tartsa szem előtt az utolsó buszjáratot. A szürkületben való várakozás a hegyekben igencsak hideg lehet.",
+            "ro": "Călătoria cu autobuzul spre Masca iarna este relaxantă și oferă priveliști fantastice. Deoarece sunt mai puțini turiști, veți găsi mai ușor un loc pe scaun.\r\nDupă sosirea la punctul de belvedere, aerul este clar și proaspăt. O scurtă plimbare în centrul satului vă revigorează după drumul sinuos.\r\nLa prânz, muzeul este un loc liniștit de relaxare. Soarele de iarnă strălucește puternic prin ferestre, iluminând exponatele.\r\nDupă-amiaza ar trebui să aveți în vedere ultima cursă de autobuz. Așteptarea în amurg poate deveni extrem de friguroasă la această altitudine.",
+            "en": "The winter bus ride to Masca is relaxing and offers fantastic views. Since there are fewer tourists, you'll easily find a seat.\r\nUpon arriving at the viewpoint, the air is clear and fresh. A short walk into the village center invigorates the spirit after the winding journey.\r\nAt noon, the museum is a quiet place of refuge. The winter sun shines brightly through the windows, illuminating the exhibits.\r\nIn the afternoon, keep a close eye on the last bus connection. Waiting in the twilight can become quite cold at this altitude."
+          },
+          "stops": [
+            {
+              "name": "Masca Viewpoint",
+              "tip_5lang": {
+                "de": "Stellen Sie sich im Winter in die Sonne, während Sie auf den Bus warten.",
+                "hu": "Télen álljon a napra, amíg a buszra vár.",
+                "ro": "Stați la soare iarna în timp ce așteptați autobuzul.",
+                "en": "Stand in the sun during winter while waiting for the bus."
+              }
+            },
+            {
+              "name": "Masca Village Center",
+              "tip_5lang": {
+                "de": "Im Winter ist dies der beste Ort, um die lokale Atmosphäre ohne Trubel zu erleben.",
+                "hu": "Télen ez a legjobb hely a helyi hangulat megtapasztalására a tömeg nélkül.",
+                "ro": "Iarna acesta este cel mai bun loc pentru a experimenta atmosfera locală fără aglomerație.",
+                "en": "In winter, this is the best place to experience the local atmosphere without the crowds."
+              }
+            },
+            {
+              "name": "Masca Ethnographic Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Mittagszeit für den Museumsbesuch; es ist dann angenehm warm.",
+                "hu": "Használja ki a délidőt a múzeumlátogatásra; ilyenkor kellemesen meleg van.",
+                "ro": "Folosiți timpul prânzului pentru a vizita muzeul; este plăcut de cald atunci.",
+                "en": "Use the midday period for your museum visit; it's pleasantly warm then."
+              }
+            },
+            {
+              "name": "Church",
+              "tip_5lang": {
+                "de": "Nehmen Sie einen Bus früher, um den Sonnenuntergang von einem tiefer gelegenen Ort zu sehen.",
+                "hu": "Szálljon egy busszal korábbra, hogy a naplementét egy alacsonyabban fekvő helyről nézhesse meg.",
+                "ro": "Luați un autobuz mai devreme pentru a vedea apusul dintr-un loc mai puțin înalt.",
+                "en": "Take an earlier bus to see the sunset from a lower-lying location."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Busfrequenz ist im Winter stabil, aber die Plätze sind oft durch Einheimische belegt.",
+              "Vergewissern Sie sich, wann der letzte Bus nach Santiago del Teide oder Buenavista fährt.",
+              "Im Winter ist die Sicht aus dem Busfenster aufgrund der klaren Luft am besten.",
+              "Nehmen Sie eine Thermoskanne mit einem warmen Getränk für die Wartezeit mit.",
+              "Die Busfahrer sind im Winter oft entspannter; fragen Sie nach Tipps für die Region."
+            ],
+            "hu": [
+              "A buszjáratok télen stabilak, de a helyeket gyakran a helyiek foglalják el.",
+              "Győződjön meg róla, mikor indul az utolsó busz Santiago del Teide vagy Buenavista felé.",
+              "Télen a tiszta levegő miatt a buszablakból nyílik a legszebb kilátás.",
+              "Vigyen magával termoszt meleg itallal a várakozási időre.",
+              "A buszsofőrök télen gyakran nyugodtabbak; kérjen tőlük tippeket a környékről."
+            ],
+            "ro": [
+              "Frecvența autobuzelor este stabilă iarna, dar locurile sunt adesea ocupate de localnici.",
+              "Asigurați-vă că știți când pleacă ultimul autobuz spre Santiago del Teide sau Buenavista.",
+              "Iarna, vederea de la fereastra autobuzului este cea mai bună datorită aerului curat.",
+              "Luați un termos cu o băutură caldă pentru timpul de așteptare.",
+              "Șoferii de autobuz sunt adesea mai relaxați iarna; cereți-le sfaturi despre regiune."
+            ],
+            "en": [
+              "Bus frequency is stable in winter, but seats are often taken by locals.",
+              "Make sure you know when the last bus departs for Santiago del Teide or Buenavista.",
+              "In winter, the view from the bus window is best due to the clear air.",
+              "Bring a thermos with a warm drink for the waiting time.",
+              "Bus drivers are often more relaxed in winter; ask them for local tips."
+            ]
+          }
+        }
+      }
+    }
+  },
+  "external_resources": {
+    "tourism_office": "https://www.webtenerife.com/",
+    "transit_official": "https://titsa.com/",
+    "language_tips": {
+      "de": "Masca ist ein winziges Bergdorf, Einheimische sprechen Spanisch, einige im Tourismus Englisch. Deutsch eher nicht. Begrüßen Sie mit 'buenos días', man schätzt es. Kein Bedarf für lange Konversationen.",
+      "hu": "Masca apró hegyi falu, a helyiek spanyolul beszélnek, a turizmusban néhányan angolul. Német jobbára nem megy. Köszönj 'buenos días'-szal, értékelni fogják. Hosszú beszélgetésre nincs igény.",
+      "ro": "Masca e un sătuc montan, localnicii vorbesc spaniola, câțiva engleza în turism. Germana mai puțin. Salută cu 'buenos días', e apreciat. Conversații lungi nu sunt necesare.",
+      "en": "Masca is a tiny mountain hamlet, locals speak Spanish, a few in tourism speak English. German unlikely. A 'buenos días' greeting is appreciated. No need for long chats."
+    },
+    "best_time_to_visit": {
+      "de": "April-Juni und September-November für kühles Wanderwetter (15-22°C). Vormittags vor Tagestour-Bussen besuchen. Schlucht-Wanderung nur mit Permit. Sommer kann sehr heiß und voll werden.",
+      "hu": "Április-június és szeptember-november a legjobb hűvös túraidőhöz (15-22°C). Délelőtt menj a buszos turisták előtt. A szurdoktúrához engedély kell. Nyáron forró és zsúfolt lehet.",
+      "ro": "Aprilie-iunie și septembrie-noiembrie pentru drumeții la rece (15-22°C). Vino dimineața înainte de autocare. Drumeția în chei necesită permis. Vara poate fi foarte caldă și aglomerată.",
+      "en": "April-June and September-November for cool hiking weather (15-22°C). Visit in the morning before tour buses arrive. The gorge hike needs a permit. Summer can be very hot and crowded."
+    },
+    "neighborhood_warnings": {
+      "de": "Bergstraße extrem kurvig, schwindelfrei sein, Wohnmobile verboten. Schlucht-Wanderung nur mit Permit, fester Schuh, Helm Pflicht, Wasser viel mitnehmen. Mobilfunk lückenhaft, kein Notruf möglich.",
+      "hu": "A hegyi út rendkívül kanyargós, ne legyen tériszonyod, lakóautóval tilos. A szurdoktúrához engedély, bakancs és sisak kötelező, sok víz kell. Mobilhálózat foltos, segélyhívás nem mindig megy.",
+      "ro": "Drumul de munte e extrem de sinuos, fără rău de înălțime, rulotelor interzis. Drumeția în chei: permis, bocanci, cască obligatorie, multă apă. Semnal mobil slab, urgența nu funcționează.",
+      "en": "Mountain road is extremely twisty, no head for heights means trouble, no campervans allowed. Gorge hike: permit, sturdy boots, helmet mandatory, plenty of water. Patchy mobile signal, emergency calls unreliable."
+    }
+  }
+}

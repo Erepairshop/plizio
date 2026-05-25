@@ -1,0 +1,2105 @@
+{
+  "city_id": "salou",
+  "anchor": {
+    "name": "Salou",
+    "coords": [
+      1.1414,
+      41.0775
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "21:40",
+      "total_km": 4.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Torre Vella",
+            "hu": "Torre Vella",
+            "ro": "Torre Vella",
+            "en": "Torre Vella"
+          },
+          "coords": [
+            1.129,
+            41.078
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein alter Verteidigungsturm, der heute Kunstausstellungen beherbergt.",
+            "hu": "Régi védőtorony, amely ma művészeti kiállításoknak ad otthont.",
+            "ro": "Un vechi turn de apărare care astăzi găzduiește expoziții de artă.",
+            "en": "An old defense tower that now hosts art exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "Església de Santa Maria del Mar",
+            "hu": "Santa Maria del Mar-templom",
+            "ro": "Biserica Santa Maria del Mar",
+            "en": "Church of Santa Maria del Mar"
+          },
+          "coords": [
+            1.134,
+            41.075
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Eine charmante Kirche, die ursprünglich für Seeleute gebaut wurde.",
+            "hu": "Bájos templom, amelyet eredetileg tengerészeknek építettek.",
+            "ro": "O biserică fermecătoare, construită inițial pentru marinari.",
+            "en": "A charming church originally built for seafarers."
+          }
+        },
+        {
+          "name": {
+            "de": "Xalet Bonet",
+            "hu": "Xalet Bonet",
+            "ro": "Xalet Bonet",
+            "en": "Xalet Bonet"
+          },
+          "coords": [
+            1.139,
+            41.074
+          ],
+          "category": "famous residences",
+          "arrive_at": "12:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die modernistische Architektur von außen.",
+            "hu": "Csodálja meg a modernista építészetet kívülről.",
+            "ro": "Admirați arhitectura modernistă din exterior.",
+            "en": "Admire the modernist architecture from the outside."
+          }
+        },
+        {
+          "name": {
+            "de": "Passeig Jaume I",
+            "hu": "Passeig Jaume I",
+            "ro": "Passeig Jaume I",
+            "en": "Passeig Jaume I"
+          },
+          "coords": [
+            1.145,
+            41.073
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Die Hauptpromenade mit dem Denkmal für König Jakob I.",
+            "hu": "A fő sétány I. Jakab király emlékművével.",
+            "ro": "Faleza principală cu monumentul regelui Iacob I.",
+            "en": "The main promenade featuring the monument to King James I."
+          }
+        },
+        {
+          "name": {
+            "de": "Camí de Ronda",
+            "hu": "Camí de Ronda",
+            "ro": "Camí de Ronda",
+            "en": "Camí de Ronda"
+          },
+          "coords": [
+            1.16,
+            41.068
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:35",
+          "stay_min": 180,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Ein spektakulärer Küstenweg mit Zugang zu kleinen Buchten.",
+            "hu": "Látványos parti ösvény hozzáféréssel a kis öblökhöz.",
+            "ro": "Un drum de coastă spectaculos cu acces la golfuri mici.",
+            "en": "A spectacular coastal path with access to small coves."
+          }
+        },
+        {
+          "name": {
+            "de": "Font Lluminosa",
+            "hu": "Font Lluminosa",
+            "ro": "Font Lluminosa",
+            "en": "Illuminated Fountain"
+          },
+          "coords": [
+            1.151,
+            41.071
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "21:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Die Licht- und Musikshow beginnt nach Sonnenuntergang.",
+            "hu": "A fény- és zenejáték naplemente után kezdődik.",
+            "ro": "Spectacolul de lumini și muzică începe după apus.",
+            "en": "The light and music show starts after sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Entdecken Sie die Geschichte Salous im Torre Vella und der Kirche Santa Maria. Mittags: Bewundern Sie die prachtvollen Villen am Passeig Jaume I. Nachmittag: Wandern Sie auf dem Camí de Ronda entlang der Klippen zu versteckten Buchten. Abend: Lassen Sie sich von der Font Lluminosa Show verzaubern.",
+        "hu": "Reggel: Fedezze fel Salou történelmét a Torre Vellában és a Santa Maria templomban. Délben: Csodálja meg a Passeig Jaume I pompás villáit. Délután: Túrázzon a Camí de Rondán a sziklák mentén rejtett öblök felé. Este: Hagyja magát elvarázsolni a Font Lluminosa fényshow-jától.",
+        "ro": "Dimineața: Descoperiți istoria orașului Salou la Torre Vella și biserica Santa Maria. Prânz: Admirați vilele somptuoase de pe Passeig Jaume I. După-amiază: Mergeți pe Camí de Ronda de-a lungul stâncilor spre golfuri ascunse. Seara: Lăsați-vă fermecați de spectacolul Font Lluminosa.",
+        "en": "Morning: Discover Salou's history at Torre Vella and Santa Maria Church. Midday: Admire the grand villas along Passeig Jaume I. Afternoon: Hike the Camí de Ronda along the cliffs to hidden coves. Evening: Be enchanted by the Font Lluminosa light show."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gambas de Palamós",
+            "tip": "Frische Garnelen aus der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gambas de Palamós",
+            "tip": "Friss rákok a régióból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gambas de Palamós",
+            "tip": "Creveți proaspeți din regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gambas de Palamós",
+            "tip": "Fresh prawns from the region."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Cala Llenguadets",
+            "tip": "Kleine, ruhige Bucht abseits des Hauptstrandes.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cala Llenguadets",
+            "tip": "Kicsi, csendes öböl távol a főstrandtól.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cala Llenguadets",
+            "tip": "Un golf mic și liniștit, departe de plaja principală.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cala Llenguadets",
+            "tip": "Small, quiet cove away from the main beach.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Carrer de Barcelona",
+            "tip": "Die Haupteinkaufsstraße mit vielen Läden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Carrer de Barcelona",
+            "tip": "A fő bevásárlóutca számos üzlettel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Carrer de Barcelona",
+            "tip": "Strada comercială principală cu multe magazine."
+          }
+        ],
+        "en": [
+          {
+            "name": "Carrer de Barcelona",
+            "tip": "The main shopping street with many stores."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Font Lluminosa zeigt ihre Show nicht jeden Tag, prüfen Sie den Zeitplan.",
+          "Der Camí de Ronda kann teilweise steil sein.",
+          "Salou ist im Sommer sehr belebt, starten Sie früh.",
+          "Nutzen Sie den Schatten der Palmen auf der Promenade."
+        ],
+        "hu": [
+          "A Font Lluminosa nem minden nap működik, ellenőrizze a menetrendet.",
+          "A Camí de Ronda néhol meredek lehet.",
+          "Salou nyáron nagyon zsúfolt, kezdjen korán.",
+          "Használja a pálmafák árnyékát a sétányon."
+        ],
+        "ro": [
+          "Font Lluminosa nu are spectacol în fiecare zi, verificați programul.",
+          "Camí de Ronda poate fi abrupt pe alocuri.",
+          "Salou este foarte aglomerat vara, începeți devreme.",
+          "Folosiți umbra palmierilor de pe faleză."
+        ],
+        "en": [
+          "The Font Lluminosa show doesn't run every day; check the schedule.",
+          "The Camí de Ronda can be steep in some sections.",
+          "Salou is very crowded in summer; start your day early.",
+          "Make use of the palm trees' shade on the promenade."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Morgen: Entdecken Sie die Geschichte Salous im Torre Vella und der Kirche Santa Maria. Mittags: Bewundern Sie die prachtvollen Villen am Passeig Jaume I. Nachmittag: Wandern Sie auf dem Camí de Ronda entlang der Klippen zu versteckten Buchten. Abend: Lassen Sie sich von der Font Lluminosa Show verzaubern.",
+            "hu": "Reggel: Fedezze fel Salou történelmét a Torre Vellában és a Santa Maria templomban. Délben: Csodálja meg a Passeig Jaume I pompás villáit. Délután: Túrázzon a Camí de Rondán a sziklák mentén rejtett öblök felé. Este: Hagyja magát elvarázsolni a Font Lluminosa fényshow-jától.",
+            "ro": "Dimineața: Descoperiți istoria orașului Salou la Torre Vella și biserica Santa Maria. Prânz: Admirați vilele somptuoase de pe Passeig Jaume I. După-amiază: Mergeți pe Camí de Ronda de-a lungul stâncilor spre golfuri ascunse. Seara: Lăsați-vă fermecați de spectacolul Font Lluminosa.",
+            "en": "Morning: Discover Salou's history at Torre Vella and Santa Maria Church. Midday: Admire the grand villas along Passeig Jaume I. Afternoon: Hike the Camí de Ronda along the cliffs to hidden coves. Evening: Be enchanted by the Font Lluminosa light show."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Torre Vella",
+                "hu": "Torre Vella",
+                "ro": "Torre Vella",
+                "en": "Torre Vella"
+              },
+              "tip_5lang": {
+                "de": "Ein alter Verteidigungsturm, der heute Kunstausstellungen beherbergt.",
+                "hu": "Régi védőtorony, amely ma művészeti kiállításoknak ad otthont.",
+                "ro": "Un vechi turn de apărare care astăzi găzduiește expoziții de artă.",
+                "en": "An old defense tower that now hosts art exhibitions."
+              }
+            },
+            {
+              "name": {
+                "de": "Església de Santa Maria del Mar",
+                "hu": "Santa Maria del Mar-templom",
+                "ro": "Biserica Santa Maria del Mar",
+                "en": "Church of Santa Maria del Mar"
+              },
+              "tip_5lang": {
+                "de": "Eine charmante Kirche, die ursprünglich für Seeleute gebaut wurde.",
+                "hu": "Bájos templom, amelyet eredetileg tengerészeknek építettek.",
+                "ro": "O biserică fermecătoare, construită inițial pentru marinari.",
+                "en": "A charming church originally built for seafarers."
+              }
+            },
+            {
+              "name": {
+                "de": "Xalet Bonet",
+                "hu": "Xalet Bonet",
+                "ro": "Xalet Bonet",
+                "en": "Xalet Bonet"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die modernistische Architektur von außen.",
+                "hu": "Csodálja meg a modernista építészetet kívülről.",
+                "ro": "Admirați arhitectura modernistă din exterior.",
+                "en": "Admire the modernist architecture from the outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Passeig Jaume I",
+                "hu": "Passeig Jaume I",
+                "ro": "Passeig Jaume I",
+                "en": "Passeig Jaume I"
+              },
+              "tip_5lang": {
+                "de": "Die Hauptpromenade mit dem Denkmal für König Jakob I.",
+                "hu": "A fő sétány I. Jakab király emlékművével.",
+                "ro": "Faleza principală cu monumentul regelui Iacob I.",
+                "en": "The main promenade featuring the monument to King James I."
+              }
+            },
+            {
+              "name": {
+                "de": "Camí de Ronda",
+                "hu": "Camí de Ronda",
+                "ro": "Camí de Ronda",
+                "en": "Camí de Ronda"
+              },
+              "tip_5lang": {
+                "de": "Ein spektakulärer Küstenweg mit Zugang zu kleinen Buchten.",
+                "hu": "Látványos parti ösvény hozzáféréssel a kis öblökhöz.",
+                "ro": "Un drum de coastă spectaculos cu acces la golfuri mici.",
+                "en": "A spectacular coastal path with access to small coves."
+              }
+            },
+            {
+              "name": {
+                "de": "Font Lluminosa",
+                "hu": "Font Lluminosa",
+                "ro": "Font Lluminosa",
+                "en": "Illuminated Fountain"
+              },
+              "tip_5lang": {
+                "de": "Die Licht- und Musikshow beginnt nach Sonnenuntergang.",
+                "hu": "A fény- és zenejáték naplemente után kezdődik.",
+                "ro": "Spectacolul de lumini și muzică începe după apus.",
+                "en": "The light and music show starts after sunset."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Gambas de Palamós",
+                "tip": "Frische Garnelen aus der Region."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Gambas de Palamós",
+                "tip": "Friss rákok a régióból."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Gambas de Palamós",
+                "tip": "Creveți proaspeți din regiune."
+              }
+            ],
+            "en": [
+              {
+                "name": "Gambas de Palamós",
+                "tip": "Fresh prawns from the region."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Cala Llenguadets",
+                "tip": "Kleine, ruhige Bucht abseits des Hauptstrandes.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Cala Llenguadets",
+                "tip": "Kicsi, csendes öböl távol a főstrandtól.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Cala Llenguadets",
+                "tip": "Un golf mic și liniștit, departe de plaja principală.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Cala Llenguadets",
+                "tip": "Small, quiet cove away from the main beach.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Carrer de Barcelona",
+                "tip": "Die Haupteinkaufsstraße mit vielen Läden."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Carrer de Barcelona",
+                "tip": "A fő bevásárlóutca számos üzlettel."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Carrer de Barcelona",
+                "tip": "Strada comercială principală cu multe magazine."
+              }
+            ],
+            "en": [
+              {
+                "name": "Carrer de Barcelona",
+                "tip": "The main shopping street with many stores."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Die Font Lluminosa zeigt ihre Show nicht jeden Tag, prüfen Sie den Zeitplan.",
+              "Der Camí de Ronda kann teilweise steil sein.",
+              "Salou ist im Sommer sehr belebt, starten Sie früh.",
+              "Nutzen Sie den Schatten der Palmen auf der Promenade."
+            ],
+            "hu": [
+              "A Font Lluminosa nem minden nap működik, ellenőrizze a menetrendet.",
+              "A Camí de Ronda néhol meredek lehet.",
+              "Salou nyáron nagyon zsúfolt, kezdjen korán.",
+              "Használja a pálmafák árnyékát a sétányon."
+            ],
+            "ro": [
+              "Font Lluminosa nu are spectacol în fiecare zi, verificați programul.",
+              "Camí de Ronda poate fi abrupt pe alocuri.",
+              "Salou este foarte aglomerat vara, începeți devreme.",
+              "Folosiți umbra palmierilor de pe faleză."
+            ],
+            "en": [
+              "The Font Lluminosa show doesn't run every day; check the schedule.",
+              "The Camí de Ronda can be steep in some sections.",
+              "Salou is very crowded in summer; start your day early.",
+              "Make use of the palm trees' shade on the promenade."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt geschützt in der Torre Vella, wo Kunstausstellungen vom Regen ablenken. Mittags bietet die Kirche Santa Maria del Mar einen trockenen Zufluchtsort. Nach einem gemütlichen Mittagessen führt der Weg unter dem Schirm über den Passeig Jaume I. Der Camí de Ronda wirkt bei Regen besonders dramatisch, wenn die Wellen peitschen. Den Abschluss bildet die Illuminierte Fontäne, deren Lichter sich in den Pfützen spiegeln.",
+            "hu": "A reggel a Torre Vella vastag falai között indul, ahol helyi művészeti kiállítások óvnak az esőtől. Délben a Santa Maria del Mar templom nyújt csendes menedéket. Ebéd után az esernyős séta a tengerparti sétányon folytatódik. A Camí de Ronda ösvénye esőben vadregényes és drámai a felcsapó hullámokkal. Az estét a Megvilágított Szökőkút zárja, amelynek fényei látványosan tükröződnek a vizes aszfalton.",
+            "ro": "Dimineața începe la adăpost în Torre Vella, unde expozițiile de artă vă feresc de ploaie. La prânz, biserica Santa Maria del Mar oferă un refugiu spiritual uscat. După un prânz liniștit, urmează o plimbare cu umbrela pe Passeig Jaume I. Camí de Ronda devine dramatic sub ploaie, cu valurile lovind stâncile. Seara se încheie la Fântâna Luminată, ale cărei culori se reflectă superb în pavajul ud.",
+            "en": "Morning starts sheltered inside Torre Vella, exploring art while avoiding the drizzle. Midday offers a dry retreat within the 18th-century Santa Maria del Mar church. After lunch, the promenade walk continues under an umbrella. The Camí de Ronda feels raw and dramatic as waves crash in the rain. The night concludes at the Illuminated Fountain, where colorful lights dance in the reflections of the wet pavement."
+          },
+          "stops": [
+            {
+              "name": "Torre Vella",
+              "tip_5lang": {
+                "de": "Ideal für Regentage: Die Kunstgalerie ist komplett überdacht.",
+                "hu": "Tökéletes esőben: a galéria teljesen fedett és ingyenes.",
+                "ro": "Ideal pentru ploaie: galeria de artă este complet acoperită.",
+                "en": "Perfect for rainy days: the art gallery is completely indoors."
+              }
+            },
+            {
+              "name": "Church of Santa Maria del Mar",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort, um den stärksten Schauer abzuwarten.",
+                "hu": "Csendes hely a legerősebb záporok megvárására.",
+                "ro": "Un loc liniștit pentru a aștepta trecerea ploii torențiale.",
+                "en": "A quiet place to wait out the heaviest rain showers."
+              }
+            },
+            {
+              "name": "Xalet Bonet",
+              "tip_5lang": {
+                "de": "Nur von außen zu sehen; halten Sie kurz unter einem Vordach.",
+                "hu": "Csak kívülről nézhető; álljon meg egy közeli előtető alatt.",
+                "ro": "Vizibil doar din exterior; opriți-vă sub o cornișă apropiată.",
+                "en": "External view only; stop briefly under a nearby awning."
+              }
+            },
+            {
+              "name": "Passeig Jaume I",
+              "tip_5lang": {
+                "de": "Vorsicht auf den Marmorfliesen, sie werden bei Nässe extrem glatt.",
+                "hu": "Vigyázat a márványlapokon, nedvesen rendkívül csúszósak.",
+                "ro": "Atenție pe plăcile de marmură, devin extrem de alunecoase la umezeală.",
+                "en": "Careful on the marble tiles; they get extremely slippery when wet."
+              }
+            },
+            {
+              "name": "Camí de Ronda",
+              "tip_5lang": {
+                "de": "Festere Schuhe tragen, da der Boden an einigen Stellen matschig wird.",
+                "hu": "Viseljen zárt cipőt, mert az út néhol sáros lehet.",
+                "ro": "Purtați încălțăminte aderentă, poteca poate fi noroioasă pe alocuri.",
+                "en": "Wear sturdy shoes as the path can get muddy in some sections."
+              }
+            },
+            {
+              "name": "Illuminated Fountain",
+              "tip_5lang": {
+                "de": "Das Lichtspiel wirkt bei Regen durch die Reflexionen noch besser.",
+                "hu": "A fényjáték esőben a tükröződések miatt még látványosabb.",
+                "ro": "Jocul de lumini este și mai frumos datorită reflexiilor în apă.",
+                "en": "The light show looks even better in the rain due to reflections."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine wasserfeste Jacke, da der Wind vom Meer Schirme umknicken kann.",
+              "Die Steinplatten am Hafen sind bei Nässe rutschiger als normaler Asphalt.",
+              "Nutzen Sie die vielen Cafés am Passeig Jaume I für trockene Pausen.",
+              "Das Museum Torre Vella ist der beste Ort für den Vormittagsregen.",
+              "Die Busse der Linie Plana sind eine gute Alternative, wenn es zu stark regnet."
+            ],
+            "hu": [
+              "Viseljen vízhatlan kabátot, mert a tengeri szél kifordíthatja az esernyőt.",
+              "A kikötő környékén a kőburkolat vizesen nagyon csúszik.",
+              "Használja ki a Passeig Jaume I kávézóit a száraz pihenőkre.",
+              "A Torre Vella múzeum a legjobb hely a délelőtti eső elől.",
+              "A Plana buszjáratok jó alternatívát jelentenek felhőszakadás esetén."
+            ],
+            "ro": [
+              "Purtați o jachetă impermeabilă, vântul marin poate rupe umbrelele.",
+              "Pavajul de piatră din zona portului este foarte alunecos când plouă.",
+              "Profitați de cafenelele de pe Passeig Jaume I pentru pauze la uscat.",
+              "Muzeul Torre Vella este cel mai bun loc de refugiu pentru dimineață.",
+              "Autobuzele Plana sunt o alternativă bună dacă ploaia devine prea puternică."
+            ],
+            "en": [
+              "Wear a waterproof jacket; sea winds can easily flip umbrellas.",
+              "The stone paving near the harbor gets very slippery when wet.",
+              "Use the many cafes along Passeig Jaume I for dry breaks.",
+              "Torre Vella museum is the best indoor spot for morning rain.",
+              "Plana buses are a great alternative if the rain becomes too heavy."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die milde Wintersonne beleuchtet die Torre Vella am Morgen ohne die üblichen Touristenströme. Mittags herrscht in der Kirche Santa Maria eine andächtige Stille. Die Modernista-Villen wie das Xalet Bonet glänzen im tiefstehenden Licht. Ein Spaziergang am leeren Strand von Salou führt zum Camí de Ronda, wo die klare Luft Fernsichten ermöglicht. Der Tag endet früh bei Sonnenuntergang an der Fontäne, die in der kühlen Abendluft strahlt.",
+            "hu": "A gyenge téli napsütésben a Torre Vella látogatása a tömeg nélkül igazi felüdülés. Délben a Santa Maria templomban áhítatos csend fogadja. A modernista villák, mint a Xalet Bonet, ragyognak az alacsony napállásban. A sétány és a strand ilyenkor nyugodt, a Camí de Ronda ösvényén pedig a tiszta téli levegőben messzire ellátni. A nap korán, a naplementével ér véget a kivilágított szökőkútnál a hűvös estében.",
+            "ro": "Soarele blând de iarnă luminează Torre Vella dimineața, fără aglomerația obișnuită. La prânz, biserica Santa Maria oferă o liniște deplină. Vilele moderniste, precum Xalet Bonet, strălucesc în lumina joasă a soarelui. Plaja pustie din Salou invită la o plimbare spre Camí de Ronda, unde aerul curat oferă vizibilitate maximă. Ziua se încheie devreme, la apus, lângă fântâna care luminează aerul rece de seară.",
+            "en": "The mild winter sun illuminates Torre Vella in the morning without the summer crowds. Midday brings a peaceful atmosphere to the Santa Maria church. Modernista villas like Xalet Bonet glow in the low afternoon light. A walk along the quiet beach leads to the Camí de Ronda, where the crisp air provides stunning coastal views. The day ends early at sunset by the fountain, shining brightly in the cool evening air."
+          },
+          "stops": [
+            {
+              "name": "Torre Vella",
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe; im Winter gibt es kaum Wartezeiten.",
+                "hu": "Élvezze a nyugalmat; télen alig vannak látogatók.",
+                "ro": "Bucurați-vă de liniște; iarna nu există cozi la intrare.",
+                "en": "Enjoy the peace; there are almost no queues in winter."
+              }
+            },
+            {
+              "name": "Church of Santa Maria del Mar",
+              "tip_5lang": {
+                "de": "Das Licht durch die Fenster ist mittags im Winter besonders schön.",
+                "hu": "A téli déli napfény különösen szépen hatol be az ablakokon.",
+                "ro": "Lumina de iarnă prin vitralii este superbă la amiază.",
+                "en": "The winter midday light through the windows is especially beautiful."
+              }
+            },
+            {
+              "name": "Xalet Bonet",
+              "tip_5lang": {
+                "de": "Die Architektur ist ohne die Blätter der Bäume besser sichtbar.",
+                "hu": "Az épület részletei jobban látszanak a lombkoronák nélkül.",
+                "ro": "Arhitectura este mai vizibilă fără frunzișul bogat al copacilor.",
+                "en": "The architecture is more visible without the thick summer foliage."
+              }
+            },
+            {
+              "name": "Passeig Jaume I",
+              "tip_5lang": {
+                "de": "Die Wintersonne ist perfekt für Fotos ohne Menschenmassen.",
+                "hu": "A téli napfény tökéletes a tömeg nélküli fotózáshoz.",
+                "ro": "Soarele de iarnă este perfect pentru poze fără mulțime.",
+                "en": "The winter sun is perfect for photos without the crowds."
+              }
+            },
+            {
+              "name": "Camí de Ronda",
+              "tip_5lang": {
+                "de": "Beste Zeit für Wanderungen; die Luft ist klar und nicht zu heiß.",
+                "hu": "A legjobb idő a túrázásra; a levegő friss és nincs hőség.",
+                "ro": "Cel mai bun moment pentru drumeție; aerul e curat și nu e cald.",
+                "en": "Best time for hiking; the air is crisp and it's not too hot."
+              }
+            },
+            {
+              "name": "Illuminated Fountain",
+              "tip_5lang": {
+                "de": "Warme Kleidung einplanen, da es nach Sonnenuntergang schnell abkühlt.",
+                "hu": "Öltözzön melegen, naplemente után gyorsan lehűl a levegő.",
+                "ro": "Îmbrăcați-vă gros, temperatura scade rapid după apus.",
+                "en": "Dress warmly; it cools down quickly after sunset."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Der Sonnenuntergang ist im Winter bereits gegen 17:30 Uhr.",
+              "An der Küste weht oft ein frischer Wind, eine windfeste Jacke hilft.",
+              "Viele saisonale Geschäfte sind zu, aber die Cafés für Einheimische sind offen.",
+              "Die klare Winterluft bietet die beste Sicht bis zum Kap Salou.",
+              "Tragen Sie Zwiebelprinzip-Kleidung für sonnige Abschnitte und kühlen Schatten."
+            ],
+            "hu": [
+              "A naplemente télen már 17:30 körül bekövetkezik.",
+              "A parton gyakran fúj friss szél, a szélálló kabát hasznos.",
+              "Sok turistaüzlet zárva van, de a helyiek kávézói nyitva tartanak.",
+              "A tiszta téli levegőben a legjobb a kilátás a Salou-fokig.",
+              "Öltözzön rétegesen a napsütéses és az árnyékos szakaszok miatt."
+            ],
+            "ro": [
+              "Apusul soarelui are loc în jur de ora 17:30 iarna.",
+              "Pe coastă bate adesea un vânt rece, o jachetă anti-vânt este utilă.",
+              "Multe magazine sezoniere sunt închise, dar cafenelele locale sunt deschise.",
+              "Aerul curat de iarnă oferă cea mai bună vizibilitate spre Cap Salou.",
+              "Îmbrăcați-vă în straturi pentru segmentele însorite și cele cu umbră."
+            ],
+            "en": [
+              "Sunset occurs early in winter, around 17:30.",
+              "A fresh breeze often blows on the coast; a windproof jacket helps.",
+              "Many seasonal shops are closed, but local cafes remain open.",
+              "The clear winter air offers the best visibility towards Cap Salou.",
+              "Wear layers to adjust between sunny spots and chilly shaded areas."
+            ]
+          }
+        }
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 12.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Passeig Jaume I",
+            "hu": "Passeig Jaume I",
+            "ro": "Passeig Jaume I",
+            "en": "Passeig Jaume I"
+          },
+          "coords": [
+            1.145,
+            41.073
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die Fahrt auf dem breiten Boulevard.",
+            "hu": "Élvezze a biciklizést a széles sugárúton.",
+            "ro": "Bucurați-vă de plimbarea pe bulevardul larg.",
+            "en": "Enjoy the ride on the wide boulevard."
+          }
+        },
+        {
+          "name": {
+            "de": "Far de Salou",
+            "hu": "Salou-i világítótorony",
+            "ro": "Farul din Salou",
+            "en": "Salou Lighthouse"
+          },
+          "coords": [
+            1.173,
+            41.056
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "10:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Ein toller Aussichtspunkt am Ende des Kaps.",
+            "hu": "Remek kilátópont a fok végén.",
+            "ro": "Un punct de belvedere excelent la capătul promontoriului.",
+            "en": "A great viewpoint at the end of the cape."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre Vella",
+            "hu": "Torre Vella",
+            "ro": "Torre Vella",
+            "en": "Torre Vella"
+          },
+          "coords": [
+            1.129,
+            41.078
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 4.8,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Gärten rund um den Turm.",
+            "hu": "Látogassa meg a torony körüli kerteket.",
+            "ro": "Vizitați grădinile din jurul turnului.",
+            "en": "Visit the gardens around the tower."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Vormittag: Radeln Sie entlang der Küste zum Leuchtturm von Salou. Mittag: Rückfahrt zum Zentrum für einen kulturellen Stopp im Torre Vella. Nachmittag: Erkunden Sie die Radwege Richtung Cambrils entlang des Meeres.",
+        "hu": "Délelőtt: Tekerjen a part mentén a Salou-i világítótoronyhoz. Dél: Visszatérés a központba egy kulturális megállóhoz a Torre Vellánál. Délután: Fedezze fel a Cambrils felé vezető parti kerékpárutakat.",
+        "ro": "Dimineața: Pedalați de-a lungul coastei spre farul din Salou. Prânz: Revenire în centru pentru o oprire culturală la Torre Vella. După-amiază: Explorați pistele de biciclete spre Cambrils, de-a lungul mării.",
+        "en": "Morning: Cycle along the coast to the Salou Lighthouse. Midday: Return to the center for a cultural stop at Torre Vella. Afternoon: Explore the seaside bike paths heading towards Cambrils."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Suquet de Peix",
+            "tip": "Katalanischer Eintopf mit Fisch und Kartoffeln."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Suquet de Peix",
+            "tip": "Katalán halragu burgonyával."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Suquet de Peix",
+            "tip": "Tocăniță catalană cu pește și cartofi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Suquet de Peix",
+            "tip": "Catalan fish stew with potatoes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Cap Salou",
+            "tip": "Ruhige Klippenwege weit weg vom Trubel.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cap Salou",
+            "tip": "Csendes sziklás utak távol a nyüzsgéstől.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cap Salou",
+            "tip": "Poteci liniștite pe stânci, departe de agitație.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cap Salou",
+            "tip": "Quiet cliff paths far from the hustle and bustle.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mercadillo de Salou",
+            "tip": "Wöchentlicher Markt mit Kleidung und Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mercadillo de Salou",
+            "tip": "Heti piac ruhákkal és szuvenírekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mercadillo de Salou",
+            "tip": "Piață săptămânală cu haine și suveniruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mercadillo de Salou",
+            "tip": "Weekly market with clothes and souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die flache Strecke nach Cambrils.",
+          "Achten Sie auf Fußgänger auf gemischten Wegen.",
+          "Vermeiden Sie das Radfahren direkt auf dem Sand.",
+          "Trinken Sie viel Wasser bei Fahrten in der Sonne."
+        ],
+        "hu": [
+          "Használja a Cambrils felé vezető sík utat.",
+          "Ügyeljen a gyalogosokra a közös használatú utakon.",
+          "Kerülje a homokban való biciklizést.",
+          "Igyon sok vizet a napsütésben való tekeréskor."
+        ],
+        "ro": [
+          "Folosiți traseul plat spre Cambrils.",
+          "Atenție la pietoni pe traseele comune.",
+          "Evitați să mergeți cu bicicleta direct pe nisip.",
+          "Beți multă apă în timpul plimbărilor la soare."
+        ],
+        "en": [
+          "Use the flat route to Cambrils.",
+          "Watch out for pedestrians on shared paths.",
+          "Avoid cycling directly on the sand.",
+          "Drink plenty of water when cycling in the sun."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Vormittag: Radeln Sie entlang der Küste zum Leuchtturm von Salou. Mittag: Rückfahrt zum Zentrum für einen kulturellen Stopp im Torre Vella. Nachmittag: Erkunden Sie die Radwege Richtung Cambrils entlang des Meeres.",
+            "hu": "Délelőtt: Tekerjen a part mentén a Salou-i világítótoronyhoz. Dél: Visszatérés a központba egy kulturális megállóhoz a Torre Vellánál. Délután: Fedezze fel a Cambrils felé vezető parti kerékpárutakat.",
+            "ro": "Dimineața: Pedalați de-a lungul coastei spre farul din Salou. Prânz: Revenire în centru pentru o oprire culturală la Torre Vella. După-amiază: Explorați pistele de biciclete spre Cambrils, de-a lungul mării.",
+            "en": "Morning: Cycle along the coast to the Salou Lighthouse. Midday: Return to the center for a cultural stop at Torre Vella. Afternoon: Explore the seaside bike paths heading towards Cambrils."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Passeig Jaume I",
+                "hu": "Passeig Jaume I",
+                "ro": "Passeig Jaume I",
+                "en": "Passeig Jaume I"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Fahrt auf dem breiten Boulevard.",
+                "hu": "Élvezze a biciklizést a széles sugárúton.",
+                "ro": "Bucurați-vă de plimbarea pe bulevardul larg.",
+                "en": "Enjoy the ride on the wide boulevard."
+              }
+            },
+            {
+              "name": {
+                "de": "Far de Salou",
+                "hu": "Salou-i világítótorony",
+                "ro": "Farul din Salou",
+                "en": "Salou Lighthouse"
+              },
+              "tip_5lang": {
+                "de": "Ein toller Aussichtspunkt am Ende des Kaps.",
+                "hu": "Remek kilátópont a fok végén.",
+                "ro": "Un punct de belvedere excelent la capătul promontoriului.",
+                "en": "A great viewpoint at the end of the cape."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre Vella",
+                "hu": "Torre Vella",
+                "ro": "Torre Vella",
+                "en": "Torre Vella"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Gärten rund um den Turm.",
+                "hu": "Látogassa meg a torony körüli kerteket.",
+                "ro": "Vizitați grădinile din jurul turnului.",
+                "en": "Visit the gardens around the tower."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Suquet de Peix",
+                "tip": "Katalanischer Eintopf mit Fisch und Kartoffeln."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Suquet de Peix",
+                "tip": "Katalán halragu burgonyával."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Suquet de Peix",
+                "tip": "Tocăniță catalană cu pește și cartofi."
+              }
+            ],
+            "en": [
+              {
+                "name": "Suquet de Peix",
+                "tip": "Catalan fish stew with potatoes."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Cap Salou",
+                "tip": "Ruhige Klippenwege weit weg vom Trubel.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Cap Salou",
+                "tip": "Csendes sziklás utak távol a nyüzsgéstől.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Cap Salou",
+                "tip": "Poteci liniștite pe stânci, departe de agitație.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Cap Salou",
+                "tip": "Quiet cliff paths far from the hustle and bustle.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Mercadillo de Salou",
+                "tip": "Wöchentlicher Markt mit Kleidung und Souvenirs."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Mercadillo de Salou",
+                "tip": "Heti piac ruhákkal és szuvenírekkel."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Mercadillo de Salou",
+                "tip": "Piață săptămânală cu haine și suveniruri."
+              }
+            ],
+            "en": [
+              {
+                "name": "Mercadillo de Salou",
+                "tip": "Weekly market with clothes and souvenirs."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Nutzen Sie die flache Strecke nach Cambrils.",
+              "Achten Sie auf Fußgänger auf gemischten Wegen.",
+              "Vermeiden Sie das Radfahren direkt auf dem Sand.",
+              "Trinken Sie viel Wasser bei Fahrten in der Sonne."
+            ],
+            "hu": [
+              "Használja a Cambrils felé vezető sík utat.",
+              "Ügyeljen a gyalogosokra a közös használatú utakon.",
+              "Kerülje a homokban való biciklizést.",
+              "Igyon sok vizet a napsütésben való tekeréskor."
+            ],
+            "ro": [
+              "Folosiți traseul plat spre Cambrils.",
+              "Atenție la pietoni pe traseele comune.",
+              "Evitați să mergeți cu bicicleta direct pe nisip.",
+              "Beți multă apă în timpul plimbărilor la soare."
+            ],
+            "en": [
+              "Use the flat route to Cambrils.",
+              "Watch out for pedestrians on shared paths.",
+              "Avoid cycling directly on the sand.",
+              "Drink plenty of water when cycling in the sun."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine nasse Radtour beginnt am Passeig Jaume I, wo die Radwege vorsichtig befahren werden müssen. Der Weg zum Leuchtturm führt durch die Gischt und bietet graue, aber majestätische Meeresblicke. Zurück in der Stadt bietet die Torre Vella eine kulturelle Pause im Trockenen. Trotz Regen ist die flache Küstenstrecke gut befahrbar, wenn man die richtige Ausrüstung hat.",
+            "hu": "A vizes kerékpározás a Passeig Jaume I sétányon indul, ahol óvatosan kell haladni a csúszós úton. A világítótoronyhoz vezető út a tengeri permetben vezet, szürke, de fenséges kilátással. Visszatérve a városba, a Torre Vella nyújt kulturális pihenőt a szárazon. Az eső ellenére a lapos part menti szakasz jól tekerhető megfelelő felszereléssel.",
+            "ro": "O tură umedă cu bicicleta începe pe Passeig Jaume I, unde pistele trebuie parcurse cu prudență. Drumul spre far trece prin spray-ul marin, oferind vederi gri, dar maiestuoase. Revenind în oraș, Torre Vella oferă o pauză culturală la uscat. În ciuda ploii, traseul de coastă plat este ușor de parcurs cu echipament adecvat.",
+            "en": "A wet bike ride starts at Passeig Jaume I, where cycling paths require extra caution. The route to the lighthouse goes through sea mist, offering grey but majestic ocean views. Returning to town, Torre Vella provides a dry cultural break. Despite the rain, the flat coastal route is manageable with the right waterproof gear."
+          },
+          "stops": [
+            {
+              "name": "Passeig Jaume I",
+              "tip_5lang": {
+                "de": "Vorsicht bei Pfützen; die bemalten Linien können rutschig sein.",
+                "hu": "Vigyázat a tócsákkal; a felfestett vonalak csúszhatnak.",
+                "ro": "Atenție la bălți; liniile vopsite pot fi alunecoase.",
+                "en": "Watch out for puddles; the painted lines can be slippery."
+              }
+            },
+            {
+              "name": "Salou Lighthouse",
+              "tip_5lang": {
+                "de": "Windgeschützte Ecken am Turm suchen, um den Ausblick zu genießen.",
+                "hu": "Keressen szélvédett sarkot a toronynál a kilátáshoz.",
+                "ro": "Căutați colțuri ferite de vânt lângă turn pentru a admira vederea.",
+                "en": "Find wind-sheltered spots near the tower to enjoy the view."
+              }
+            },
+            {
+              "name": "Torre Vella",
+              "tip_5lang": {
+                "de": "Sicherer Fahrradständer direkt am Eingang vorhanden.",
+                "hu": "Biztonságos kerékpártároló közvetlenül a bejáratnál.",
+                "ro": "Suport de biciclete securizat chiar la intrare.",
+                "en": "Secure bike racks available right at the entrance."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Verlängern Sie den Bremsweg auf nassen Fliesen deutlich.",
+              "Schutzbleche sind bei diesem Wetter in Salou unerlässlich.",
+              "Vermeiden Sie schnelle Kurven auf den glatten Promenadenwegen.",
+              "Der Radweg zum Leuchtturm ist exponiert; mit Seitenwind rechnen.",
+              "Nutzen Sie die Unterführung beim Bahnhof für eine kurze Regenpause."
+            ],
+            "hu": [
+              "Vizes burkolaton jelentősen növelje meg a féktávot.",
+              "A sárvédő elengedhetetlen ilyenkor a Salou környéki utakon.",
+              "Kerülje a gyors kanyarodást a sétány síkos szakaszain.",
+              "A világítótoronyhoz vezető út nyitott; számítson oldalszélre.",
+              "Használja az állomás alatti aluljárót rövid esőpihenőre."
+            ],
+            "ro": [
+              "Măriți considerabil distanța de frânare pe pavajul ud.",
+              "Aripile la bicicletă sunt esențiale pe această vreme în Salou.",
+              "Evitați virajele strânse pe pistele de pe faleză.",
+              "Drumul spre far este expus; atenție la vântul lateral.",
+              "Folosiți pasajul de lângă gară pentru o scurtă pauză de ploaie."
+            ],
+            "en": [
+              "Significantly increase your braking distance on wet tiles.",
+              "Mudguards are essential for this weather in Salou.",
+              "Avoid sharp turns on the slippery promenade paths.",
+              "The bike path to the lighthouse is exposed; expect side winds.",
+              "Use the underpass near the station for a quick rain break."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter bietet die Radtour am Passeig Jaume I freie Fahrt ohne Fußgängermassen. Die Fahrt zum Leuchtturm von Salou ist erfrischend; die klare Luft lässt die Berge im Hinterland sichtbar werden. Nachmittags ist die Torre Vella ein warmer Stopp. Die tiefstehende Sonne sorgt für lange Schatten und goldenes Licht auf dem Aspahlt, perfekt für eine entspannte Fahrt entlang der Costa Daurada.",
+            "hu": "Télen a kerékpártúra a Passeig Jaume I sétányon szabad haladást kínál a tömeg nélkül. A világítótoronyhoz vezető út frissítő; a tiszta levegőben látszanak a háttérben húzódó hegyek. Délután a Torre Vella egy kellemes, meleg megálló. Az alacsonyan járó nap hosszú árnyékokat és arany fényeket vet az aszfaltra, ideális egy nyugodt tekeréshez a Costa Dauradán.",
+            "ro": "Iarna, tura cu bicicleta pe Passeig Jaume I oferă libertate totală de mișcare. Drumul spre farul din Salou este revigorant; aerul curat face vizibili munții din fundal. După-amiaza, Torre Vella este o oprire caldă. Soarele jos creează umbre lungi și o lumină aurie pe asfalt, perfect pentru o plimbare relaxată pe Costa Daurada.",
+            "en": "In winter, the bike ride along Passeig Jaume I offers a clear path without pedestrian crowds. The journey to the Salou Lighthouse is refreshing; the crisp air reveals the distant mountains. In the afternoon, Torre Vella is a cozy stop. The low sun creates long shadows and golden light on the pavement, perfect for a relaxed cycle along the Costa Daurada."
+          },
+          "stops": [
+            {
+              "name": "Passeig Jaume I",
+              "tip_5lang": {
+                "de": "Genießen Sie die leeren Radwege auf der gesamten Länge.",
+                "hu": "Élvezze az üres kerékpárutakat a sétány teljes hosszában.",
+                "ro": "Bucurați-vă de pistele de biciclete libere pe toată lungimea.",
+                "en": "Enjoy the empty bike lanes along the entire length."
+              }
+            },
+            {
+              "name": "Salou Lighthouse",
+              "tip_5lang": {
+                "de": "Im Winter ist der Zugang oft weniger windig als im Herbst.",
+                "hu": "Télen a bejárat gyakran kevésbé szeles, mint ősszel.",
+                "ro": "Iarna, accesul este adesea mai puțin vântos decât toamna.",
+                "en": "In winter, the access is often less windy than in autumn."
+              }
+            },
+            {
+              "name": "Torre Vella",
+              "tip_5lang": {
+                "de": "Ein guter Ort, um sich nach der Fahrt am Meer aufzuwärmen.",
+                "hu": "Jó hely a felmelegedésre a tengerparti tekerés után.",
+                "ro": "Un loc bun pentru a vă încălzi după tura pe malul mării.",
+                "en": "A good place to warm up after the coastal ride."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Handschuhe; der Fahrtwind am Meer ist im Winter kühl.",
+              "Die Sonne geht früh unter, prüfen Sie Ihre Fahrradbeleuchtung.",
+              "Die Radwege sind im Winter viel sicherer, da weniger Touristen queren.",
+              "Nehmen Sie eine Thermoskanne mit zum Leuchtturm-Picknick.",
+              "Die Temperaturen können im Schatten deutlich niedriger sein."
+            ],
+            "hu": [
+              "Viseljen kesztyűt; a tengerparti szél télen hűvös tekerés közben.",
+              "A nap korán nyugszik, ellenőrizze a kerékpár világítását.",
+              "A kerékpárutak télen biztonságosabbak, kevesebb a gyalogos.",
+              "Vigyen termoszban meleg italt a világítótoronyhoz.",
+              "Az árnyékos szakaszokon a hőmérséklet jóval alacsonyabb lehet."
+            ],
+            "ro": [
+              "Purtați mănuși; vântul de pe mare este rece iarna în timpul mersului.",
+              "Soarele apune devreme, verificați luminile bicicletei.",
+              "Pistele sunt mult mai sigure iarna, fiind mai puțini turiști.",
+              "Luați un termos cu băutură caldă pentru oprirea de la far.",
+              "Temperaturile pot fi considerabil mai mici în zonele cu umbră."
+            ],
+            "en": [
+              "Wear gloves; the sea breeze is cool while cycling in winter.",
+              "Sunset is early; check that your bike lights are working.",
+              "Bike paths are much safer in winter with fewer pedestrians.",
+              "Bring a thermos with a warm drink for the lighthouse stop.",
+              "Temperatures can be significantly lower in shaded areas."
+            ]
+          }
+        }
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 20,
+      "start": "09:00",
+      "end_estimate": "19:00",
+      "total_km": 18.0,
+      "stop_count": 4,
+      "stops": [
+        {
+          "name": {
+            "de": "PortAventura World",
+            "hu": "PortAventura World",
+            "ro": "PortAventura World",
+            "en": "PortAventura World"
+          },
+          "coords": [
+            1.155,
+            41.087
+          ],
+          "category": "museums",
+          "arrive_at": "09:30",
+          "stay_min": 300,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Einer der größten Freizeitparks Europas direkt vor der Stadt.",
+            "hu": "Európa egyik legnagyobb vidámparkja közvetlenül a város mellett.",
+            "ro": "Unul dintre cele mai mari parcuri de distracții din Europa.",
+            "en": "One of Europe's largest theme parks located right by the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Far de Salou",
+            "hu": "Salou-i világítótorony",
+            "ro": "Farul din Salou",
+            "en": "Salou Lighthouse"
+          },
+          "coords": [
+            1.173,
+            41.056
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "15:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Einfach mit dem Auto erreichbar, Parkplätze vorhanden.",
+            "hu": "Autóval könnyen elérhető, van parkolási lehetőség.",
+            "ro": "Ușor accesibil cu mașina, există locuri de parcare.",
+            "en": "Easily accessible by car, parking is available."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Vormittag: Verbringen Sie actionreiche Stunden im PortAventura World. Nachmittag: Fahren Sie zum Leuchtturm für Panoramablicke und erkunden Sie danach die Küste von Cap Salou.",
+        "hu": "Délelőtt: Töltsön akciódús órákat a PortAventura World-ben. Délután: Autózzon el a világítótoronyhoz a panorámáért, majd fedezze fel Cap Salou partjait.",
+        "ro": "Dimineața: Petreceți ore pline de adrenalină la PortAventura World. După-amiază: Mergeți la far pentru panorame superbe și explorați coasta Cap Salou.",
+        "en": "Morning: Spend action-packed hours at PortAventura World. Afternoon: Drive to the lighthouse for panoramas and then explore the coast of Cap Salou."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Paella Marinera",
+            "tip": "Klassische Meeresfrüchte-Paella."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Paella Marinera",
+            "tip": "Klasszikus tengeri gyümölcsös paella."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Paella Marinera",
+            "tip": "Paella clasică cu fructe de mare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Paella Marinera",
+            "tip": "Classic seafood paella."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Mirador de Salou",
+            "tip": "Aussichtspunkt mit Blick über die Bucht.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mirador de Salou",
+            "tip": "Kilátópont az öbölre néző kilátással.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mirador de Salou",
+            "tip": "Punct de belvedere cu vedere peste golf.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Mirador de Salou",
+            "tip": "Viewpoint overlooking the bay.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "PortAventura Stores",
+            "tip": "Exklusive Merchandising-Produkte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "PortAventura Stores",
+            "tip": "Exkluzív ajándéktárgyak és termékek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "PortAventura Stores",
+            "tip": "Produse de merchandising exclusive."
+          }
+        ],
+        "en": [
+          {
+            "name": "PortAventura Stores",
+            "tip": "Exclusive merchandising products."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "PortAventura hat große kostenpflichtige Parkplätze.",
+          "Vermeiden Sie das Zentrum zur Rushhour.",
+          "Die Parkplatzsuche am Strand ist im Sommer extrem schwierig.",
+          "Nutzen Sie Parkhäuser im Zentrum."
+        ],
+        "hu": [
+          "A PortAventura nagy fizetős parkolókkal rendelkezik.",
+          "Kerülje a belvárost a csúcsforgalom idején.",
+          "A strand közelében nyáron rendkívül nehéz parkolni.",
+          "Használja a belvárosi parkolóházakat."
+        ],
+        "ro": [
+          "PortAventura are parcări mari cu plată.",
+          "Evitați centrul la orele de vârf.",
+          "Găsirea unui loc de parcare lângă plajă e dificilă vara.",
+          "Folosiți parcările subterane din centru."
+        ],
+        "en": [
+          "PortAventura has large paid parking areas.",
+          "Avoid the city center during rush hour.",
+          "Finding beach parking in summer is extremely difficult.",
+          "Use central parking garages."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Vormittag: Verbringen Sie actionreiche Stunden im PortAventura World. Nachmittag: Fahren Sie zum Leuchtturm für Panoramablicke und erkunden Sie danach die Küste von Cap Salou.",
+            "hu": "Délelőtt: Töltsön akciódús órákat a PortAventura World-ben. Délután: Autózzon el a világítótoronyhoz a panorámáért, majd fedezze fel Cap Salou partjait.",
+            "ro": "Dimineața: Petreceți ore pline de adrenalină la PortAventura World. După-amiază: Mergeți la far pentru panorame superbe și explorați coasta Cap Salou.",
+            "en": "Morning: Spend action-packed hours at PortAventura World. Afternoon: Drive to the lighthouse for panoramas and then explore the coast of Cap Salou."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "PortAventura World",
+                "hu": "PortAventura World",
+                "ro": "PortAventura World",
+                "en": "PortAventura World"
+              },
+              "tip_5lang": {
+                "de": "Einer der größten Freizeitparks Europas direkt vor der Stadt.",
+                "hu": "Európa egyik legnagyobb vidámparkja közvetlenül a város mellett.",
+                "ro": "Unul dintre cele mai mari parcuri de distracții din Europa.",
+                "en": "One of Europe's largest theme parks located right by the city."
+              }
+            },
+            {
+              "name": {
+                "de": "Far de Salou",
+                "hu": "Salou-i világítótorony",
+                "ro": "Farul din Salou",
+                "en": "Salou Lighthouse"
+              },
+              "tip_5lang": {
+                "de": "Einfach mit dem Auto erreichbar, Parkplätze vorhanden.",
+                "hu": "Autóval könnyen elérhető, van parkolási lehetőség.",
+                "ro": "Ușor accesibil cu mașina, există locuri de parcare.",
+                "en": "Easily accessible by car, parking is available."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Paella Marinera",
+                "tip": "Klassische Meeresfrüchte-Paella."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Paella Marinera",
+                "tip": "Klasszikus tengeri gyümölcsös paella."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Paella Marinera",
+                "tip": "Paella clasică cu fructe de mare."
+              }
+            ],
+            "en": [
+              {
+                "name": "Paella Marinera",
+                "tip": "Classic seafood paella."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Mirador de Salou",
+                "tip": "Aussichtspunkt mit Blick über die Bucht.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Mirador de Salou",
+                "tip": "Kilátópont az öbölre néző kilátással.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Mirador de Salou",
+                "tip": "Punct de belvedere cu vedere peste golf.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Mirador de Salou",
+                "tip": "Viewpoint overlooking the bay.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "PortAventura Stores",
+                "tip": "Exklusive Merchandising-Produkte."
+              }
+            ],
+            "hu": [
+              {
+                "name": "PortAventura Stores",
+                "tip": "Exkluzív ajándéktárgyak és termékek."
+              }
+            ],
+            "ro": [
+              {
+                "name": "PortAventura Stores",
+                "tip": "Produse de merchandising exclusive."
+              }
+            ],
+            "en": [
+              {
+                "name": "PortAventura Stores",
+                "tip": "Exclusive merchandising products."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "PortAventura hat große kostenpflichtige Parkplätze.",
+              "Vermeiden Sie das Zentrum zur Rushhour.",
+              "Die Parkplatzsuche am Strand ist im Sommer extrem schwierig.",
+              "Nutzen Sie Parkhäuser im Zentrum."
+            ],
+            "hu": [
+              "A PortAventura nagy fizetős parkolókkal rendelkezik.",
+              "Kerülje a belvárost a csúcsforgalom idején.",
+              "A strand közelében nyáron rendkívül nehéz parkolni.",
+              "Használja a belvárosi parkolóházakat."
+            ],
+            "ro": [
+              "PortAventura are parcări mari cu plată.",
+              "Evitați centrul la orele de vârf.",
+              "Găsirea unui loc de parcare lângă plajă e dificilă vara.",
+              "Folosiți parcările subterane din centru."
+            ],
+            "en": [
+              "PortAventura has large paid parking areas.",
+              "Avoid the city center during rush hour.",
+              "Finding beach parking in summer is extremely difficult.",
+              "Use central parking garages."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Regnerische Tage sind ideal für die Indoor-Attraktionen von PortAventura World, wo Shows im Trockenen stattfinden. Die Fahrt zum Leuchtturm von Salou bietet einen Panoramablick auf das graue Meer direkt aus dem warmen Auto. Parken ist in der Nähe des Hafens einfacher, da weniger Tagestouristen unterwegs sind. Ein entspannter Tag, der die Küstenlandschaft ohne nasse Füße erlebbar macht.",
+            "hu": "Az esős napok ideálisak a PortAventura World fedett attrakcióihoz és show-műsoraihoz. A világítótoronyhoz vezető autóút panorámás kilátást nyújt a szürke tengerre közvetlenül a meleg autóból. A parkolás a kikötő közelében ilyenkor egyszerűbb, mert kevesebb a kiránduló. Egy nyugodt nap, amely vizes lábak nélkül teszi élvezhetővé a partvidéket.",
+            "ro": "Zilele ploioase sunt ideale pentru atracțiile de interior din PortAventura World. Drumul cu mașina spre farul din Salou oferă o vedere panoramică asupra mării gri direct din căldura vehiculului. Parcarea lângă port este mai ușoară, fiind mai puțini turiști de o zi. O zi relaxată care vă permite să vedeți coasta fără a vă uda la picioare.",
+            "en": "Rainy days are perfect for the indoor attractions and shows at PortAventura World. The drive to the Salou Lighthouse offers a panoramic view of the grey Mediterranean directly from the warmth of your car. Parking near the harbor is easier with fewer day-trippers around. A relaxed day that lets you experience the coastline without getting wet feet."
+          },
+          "stops": [
+            {
+              "name": "PortAventura World",
+              "tip_5lang": {
+                "de": "Nutzen Sie die App, um Indoor-Wartezeiten zu prüfen.",
+                "hu": "Használja az appot a fedett várakozási idők ellenőrzéséhez.",
+                "ro": "Folosiți aplicația pentru a verifica timpii de așteptare la interior.",
+                "en": "Use the app to check indoor waiting times."
+              }
+            },
+            {
+              "name": "Salou Lighthouse",
+              "tip_5lang": {
+                "de": "Parken Sie direkt am Aussichtspunkt für einen Blick aus dem Auto.",
+                "hu": "Parkoljon közvetlenül a kilátópontnál a kocsiból való nézelődéshez.",
+                "ro": "Parcați chiar lângă punctul de observație pentru a vedea marea din mașină.",
+                "en": "Park right by the viewpoint to see the sea from the car."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Tiefgarage im Zentrum (nahe Hafen) hält das Auto trocken.",
+              "Bei Regen sind die Hauptstraßen in Salou oft staubereinigt.",
+              "PortAventura bietet viele überdachte Shows als Regenschutz.",
+              "Vermeiden Sie die unbefestigten Parkplätze bei Cap Salou (Matsch).",
+              "Schalten Sie das Licht ein; die Sicht an der Küste kann trüb sein."
+            ],
+            "hu": [
+              "A belvárosi mélygarázs (kikötőnél) szárazon tartja az autót.",
+              "Esőben a Salou-i főutak forgalma lassabb, de biztonságos.",
+              "A PortAventura számos fedett show-t kínál eső esetén.",
+              "Kerülje a burkolatlan parkolókat Cap Salou-nál a sár miatt.",
+              "Kapcsolja be a fényszórókat; a látási viszonyok rosszak lehetnek."
+            ],
+            "ro": [
+              "Parcarea subterană din centru (lângă port) menține mașina uscată.",
+              "În caz de ploaie, traficul pe străzile principale este mai lent.",
+              "PortAventura oferă multe spectacole acoperite ca refugiu.",
+              "Evitați parcările neasfaltate din Cap Salou din cauza noroiului.",
+              "Aprindeți farurile; vizibilitatea pe coastă poate fi redusă."
+            ],
+            "en": [
+              "Underground parking in the center (near harbor) keeps the car dry.",
+              "Main roads in Salou are well-maintained but slower in rain.",
+              "PortAventura offers many indoor shows as rain protection.",
+              "Avoid unpaved parking lots at Cap Salou due to mud.",
+              "Turn on your lights; visibility on the coast can be poor."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Fahrt durch Salou ist entspannt, da die Parkplatzsuche am Passeig Jaume I wegfällt. PortAventura World ist oft weniger überlaufen, was mehr Zeit für die Attraktionen lässt. Der Besuch des Leuchtturms am späten Nachmittag bietet die Chance auf einen spektakulären Sonnenuntergang über dem Mittelmeer. Die klaren Straßen machen die Fahrt entlang der Küste zu einem echten Vergnügen.",
+            "hu": "A téli autózás Salou-ban stresszmentes, mert a Passeig Jaume I-nél könnyű parkolni. A PortAventura World ilyenkor kevésbé zsúfolt, így több idő jut az élményekre. A világítótorony meglátogatása késő délután lehetőséget ad egy látványos naplementére a Földközi-tenger felett. Az üres utak igazi élménnyé teszik a part menti kocsikázást.",
+            "ro": "O plimbare cu mașina prin Salou iarna este relaxantă, parcarea fiind ușor de găsit pe Passeig Jaume I. PortAventura World este adesea mai puțin aglomerat, oferind mai mult timp pentru atracții. Vizita la far la sfârșitul după-amiezii oferă șansa unui apus spectaculos peste Mediterană. Străzile libere fac condusul pe coastă o adevărată plăcere.",
+            "en": "A winter drive through Salou is stress-free as parking is easy to find at Passeig Jaume I. PortAventura World is often less crowded, allowing more time for the attractions. Visiting the lighthouse in the late afternoon offers a chance for a spectacular sunset over the Mediterranean. The clear roads make driving along the coast a genuine pleasure."
+          },
+          "stops": [
+            {
+              "name": "PortAventura World",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Winteröffnungszeiten vor der Abfahrt.",
+                "hu": "Indulás előtt ellenőrizze a téli nyitvatartást.",
+                "ro": "Verificați orarul de iarnă înainte de a pleca.",
+                "en": "Check the winter opening hours before heading out."
+              }
+            },
+            {
+              "name": "Salou Lighthouse",
+              "tip_5lang": {
+                "de": "Idealer Ort für den Sonnenuntergang gegen 17:30 Uhr.",
+                "hu": "Ideális helyszín a naplementéhez 17:30 körül.",
+                "ro": "Locul ideal pentru apusul soarelui în jur de ora 17:30.",
+                "en": "Ideal spot for the sunset around 17:30."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Parkgebühren sind im Winter oft niedriger oder entfallen.",
+              "Nutzen Sie das Auto als warmen Stützpunkt zwischen den Spaziergängen.",
+              "Die Straßen zum Cap Salou sind im Winter leer und gut befahrbar.",
+              "Planen Sie die Ankunft am Leuchtturm für das beste Fotolicht ein.",
+              "Prüfen Sie, ob bestimmte Attraktionen in PortAventura Winterpause haben."
+            ],
+            "hu": [
+              "A parkolási díjak télen gyakran alacsonyabbak vagy elmaradnak.",
+              "Használja az autót meleg bázisként a rövid séták között.",
+              "A Cap Salou felé vezető utak télen üresek és jól járhatóak.",
+              "Időzítse a világítótoronyhoz érkezést a legjobb fotófényekre.",
+              "Ellenőrizze, hogy a PortAventura bizonyos részei nincsenek-e zárva."
+            ],
+            "ro": [
+              "Taxele de parcare sunt adesea mai mici sau inexistente iarna.",
+              "Folosiți mașina ca bază caldă între scurtele plimbări pe jos.",
+              "Drumurile spre Cap Salou sunt libere și ușor de parcurs iarna.",
+              "Planificați sosirea la far pentru cea mai bună lumină foto.",
+              "Verificați dacă anumite atracții din PortAventura sunt în revizie."
+            ],
+            "en": [
+              "Parking fees are often lower or suspended during winter.",
+              "Use the car as a warm base between short walks.",
+              "The roads to Cap Salou are empty and easy to navigate in winter.",
+              "Time your arrival at the lighthouse for the best photo light.",
+              "Check if specific attractions at PortAventura have winter breaks."
+            ]
+          }
+        }
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:30",
+      "total_km": 7.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Torre Vella",
+            "hu": "Torre Vella",
+            "ro": "Torre Vella",
+            "en": "Torre Vella"
+          },
+          "coords": [
+            1.129,
+            41.078
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Vom Bahnhof Salou aus leicht zu Fuß erreichbar.",
+            "hu": "A Salou-i vasútállomástól könnyen elérhető gyalogosan.",
+            "ro": "Ușor accesibil pe jos de la gara din Salou.",
+            "en": "Easily accessible on foot from Salou train station."
+          }
+        },
+        {
+          "name": {
+            "de": "Passeig Jaume I",
+            "hu": "Passeig Jaume I",
+            "ro": "Passeig Jaume I",
+            "en": "Passeig Jaume I"
+          },
+          "coords": [
+            1.145,
+            41.073
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:55",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Zentraler Knotenpunkt für viele Buslinien.",
+            "hu": "Számos buszjárat központi csomópontja.",
+            "ro": "Nod central pentru multe linii de autobuz.",
+            "en": "Central hub for many bus lines."
+          }
+        },
+        {
+          "name": {
+            "de": "Font Lluminosa",
+            "hu": "Font Lluminosa",
+            "ro": "Font Lluminosa",
+            "en": "Illuminated Fountain"
+          },
+          "coords": [
+            1.151,
+            41.071
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "13:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Brunnen auch tagsüber.",
+            "hu": "Nézze meg a szökőkutakat napközben is.",
+            "ro": "Vizitați fântânile și în timpul zilei.",
+            "en": "Visit the fountains during the day as well."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Vormittag: Ankunft mit dem Zug und Besuch des historischen Torre Vella. Mittag: Erkundung des Passeig Jaume I und der umliegenden Strände. Nachmittag: Nutzen Sie den 'BusPlana' für Fahrten entlang der Küste oder zum PortAventura.",
+        "hu": "Délelőtt: Érkezés vonattal, majd a történelmi Torre Vella meglátogatása. Dél: A Passeig Jaume I és a környező strandok felfedezése. Délután: Használja a 'BusPlana' járatait a part mentén vagy a PortAventura felé.",
+        "ro": "Dimineața: Sosire cu trenul și vizitarea turnului istoric Torre Vella. Prânz: Explorarea Passeig Jaume I și a plajelor din jur. După-amiază: Folosiți 'BusPlana' pentru călătorii de-a lungul coastei sau spre PortAventura.",
+        "en": "Morning: Arrive by train and visit the historic Torre Vella. Midday: Explore Passeig Jaume I and the nearby beaches. Afternoon: Use the 'BusPlana' services for trips along the coast or to PortAventura."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Crema Catalana",
+            "tip": "Das berühmte katalanische Dessert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Crema Catalana",
+            "tip": "A híres katalán desszert."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Crema Catalana",
+            "tip": "Celebrul desert catalan."
+          }
+        ],
+        "en": [
+          {
+            "name": "Crema Catalana",
+            "tip": "The famous Catalan dessert."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parque de la Ciudad",
+            "tip": "Ein ruhiger Stadtpark im Zentrum.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parque de la Ciudad",
+            "tip": "Csendes városi park a központban.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parque de la Ciudad",
+            "tip": "Un parc orășenesc liniștit în centru.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parque de la Ciudad",
+            "tip": "A quiet city park in the center.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Centro Comercial La Marina",
+            "tip": "Geschäfte in Hafennähe."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Centro Comercial La Marina",
+            "tip": "Üzletek a kikötő közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centro Comercial La Marina",
+            "tip": "Magazine în apropierea portului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Centro Comercial La Marina",
+            "tip": "Stores near the harbor area."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "BusPlana ist der Hauptanbieter für Busse in der Region.",
+          "Kaufen Sie eine Mehrfahrtenkarte für günstigere Preise.",
+          "Der Bahnhof liegt etwas abseits der Hotels am Strand.",
+          "Busse zum PortAventura fahren regelmäßig."
+        ],
+        "hu": [
+          "A BusPlana a régió fő busztársasága.",
+          "Vásároljon gyűjtőjegyet a kedvezőbb árakért.",
+          "A vasútállomás kicsit messzebb van a parti hotelektől.",
+          "A buszok rendszeresen járnak a PortAventura felé."
+        ],
+        "ro": [
+          "BusPlana este principalul operator de autobuze din regiune.",
+          "Cumpărați un card de călătorie pentru prețuri mai mici.",
+          "Gara este puțin retrasă față de hotelurile de pe plajă.",
+          "Autobuzele spre PortAventura circulă regulat."
+        ],
+        "en": [
+          "BusPlana is the main bus provider in the region.",
+          "Buy a multi-trip card for better prices.",
+          "The train station is a bit far from the beach hotels.",
+          "Buses to PortAventura run frequently."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Vormittag: Ankunft mit dem Zug und Besuch des historischen Torre Vella. Mittag: Erkundung des Passeig Jaume I und der umliegenden Strände. Nachmittag: Nutzen Sie den 'BusPlana' für Fahrten entlang der Küste oder zum PortAventura.",
+            "hu": "Délelőtt: Érkezés vonattal, majd a történelmi Torre Vella meglátogatása. Dél: A Passeig Jaume I és a környező strandok felfedezése. Délután: Használja a 'BusPlana' járatait a part mentén vagy a PortAventura felé.",
+            "ro": "Dimineața: Sosire cu trenul și vizitarea turnului istoric Torre Vella. Prânz: Explorarea Passeig Jaume I și a plajelor din jur. După-amiază: Folosiți 'BusPlana' pentru călătorii de-a lungul coastei sau spre PortAventura.",
+            "en": "Morning: Arrive by train and visit the historic Torre Vella. Midday: Explore Passeig Jaume I and the nearby beaches. Afternoon: Use the 'BusPlana' services for trips along the coast or to PortAventura."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Torre Vella",
+                "hu": "Torre Vella",
+                "ro": "Torre Vella",
+                "en": "Torre Vella"
+              },
+              "tip_5lang": {
+                "de": "Vom Bahnhof Salou aus leicht zu Fuß erreichbar.",
+                "hu": "A Salou-i vasútállomástól könnyen elérhető gyalogosan.",
+                "ro": "Ușor accesibil pe jos de la gara din Salou.",
+                "en": "Easily accessible on foot from Salou train station."
+              }
+            },
+            {
+              "name": {
+                "de": "Passeig Jaume I",
+                "hu": "Passeig Jaume I",
+                "ro": "Passeig Jaume I",
+                "en": "Passeig Jaume I"
+              },
+              "tip_5lang": {
+                "de": "Zentraler Knotenpunkt für viele Buslinien.",
+                "hu": "Számos buszjárat központi csomópontja.",
+                "ro": "Nod central pentru multe linii de autobuz.",
+                "en": "Central hub for many bus lines."
+              }
+            },
+            {
+              "name": {
+                "de": "Font Lluminosa",
+                "hu": "Font Lluminosa",
+                "ro": "Font Lluminosa",
+                "en": "Illuminated Fountain"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Brunnen auch tagsüber.",
+                "hu": "Nézze meg a szökőkutakat napközben is.",
+                "ro": "Vizitați fântânile și în timpul zilei.",
+                "en": "Visit the fountains during the day as well."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Crema Catalana",
+                "tip": "Das berühmte katalanische Dessert."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Crema Catalana",
+                "tip": "A híres katalán desszert."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Crema Catalana",
+                "tip": "Celebrul desert catalan."
+              }
+            ],
+            "en": [
+              {
+                "name": "Crema Catalana",
+                "tip": "The famous Catalan dessert."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Parque de la Ciudad",
+                "tip": "Ein ruhiger Stadtpark im Zentrum.",
+                "emoji": "🍃"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Parque de la Ciudad",
+                "tip": "Csendes városi park a központban.",
+                "emoji": "🍃"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Parque de la Ciudad",
+                "tip": "Un parc orășenesc liniștit în centru.",
+                "emoji": "🍃"
+              }
+            ],
+            "en": [
+              {
+                "name": "Parque de la Ciudad",
+                "tip": "A quiet city park in the center.",
+                "emoji": "🍃"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Centro Comercial La Marina",
+                "tip": "Geschäfte in Hafennähe."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Centro Comercial La Marina",
+                "tip": "Üzletek a kikötő közelében."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Centro Comercial La Marina",
+                "tip": "Magazine în apropierea portului."
+              }
+            ],
+            "en": [
+              {
+                "name": "Centro Comercial La Marina",
+                "tip": "Stores near the harbor area."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "BusPlana ist der Hauptanbieter für Busse in der Region.",
+              "Kaufen Sie eine Mehrfahrtenkarte für günstigere Preise.",
+              "Der Bahnhof liegt etwas abseits der Hotels am Strand.",
+              "Busse zum PortAventura fahren regelmäßig."
+            ],
+            "hu": [
+              "A BusPlana a régió fő busztársasága.",
+              "Vásároljon gyűjtőjegyet a kedvezőbb árakért.",
+              "A vasútállomás kicsit messzebb van a parti hotelektől.",
+              "A buszok rendszeresen járnak a PortAventura felé."
+            ],
+            "ro": [
+              "BusPlana este principalul operator de autobuze din regiune.",
+              "Cumpărați un card de călătorie pentru prețuri mai mici.",
+              "Gara este puțin retrasă față de hotelurile de pe plajă.",
+              "Autobuzele spre PortAventura circulă regulat."
+            ],
+            "en": [
+              "BusPlana is the main bus provider in the region.",
+              "Buy a multi-trip card for better prices.",
+              "The train station is a bit far from the beach hotels.",
+              "Buses to PortAventura run frequently."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Bus lässt sich Salou auch bei Regen trocken erkunden. Die Fahrt zur Torre Vella startet bequem, während man draußen den Regen beobachtet. Der Passeig Jaume I ist durch die Bushaltestellen gut angebunden, sodass man schnell in ein Café flüchten kann. Mittags bietet die Illuminierte Fontäne einen schnellen Stopp, bevor man wieder in den warmen Bus steigt. Effizienter Transport ohne nass zu werden.",
+            "hu": "Busszal esőben is szárazon fedezhető fel Salou. Az út a Torre Vella felé kényelmesen indul, miközben az ablakból nézheti az esőt. A Passeig Jaume I megállóiból gyorsan be lehet menekülni egy kávézóba. Délben a Megvilágított Szökőkút egy rövid megálló, mielőtt visszaszállna a fűtött buszra. Hatékony közlekedés elázás nélkül.",
+            "ro": "Cu autobuzul, Salou poate fi explorat la uscat chiar și pe ploaie. Călătoria spre Torre Vella începe confortabil, admirând ploaia de la geam. Stațiile de pe Passeig Jaume I permit accesul rapid la cafenele. La prânz, Fântâna Luminată este o oprire scurtă înainte de a urca din nou în autobuzul cald. Transport eficient fără a vă uda.",
+            "en": "Explore Salou while staying dry using the local bus network. The trip to Torre Vella starts comfortably while you watch the rain from the window. Bus stops at Passeig Jaume I provide quick access to nearby cafes. Midday at the Illuminated Fountain is a brief stop before jumping back onto the warm bus. Efficient transport without getting soaked."
+          },
+          "stops": [
+            {
+              "name": "Torre Vella",
+              "tip_5lang": {
+                "de": "Bushaltestelle 'Carrer de Barcelona' ist nur 3 Min. entfernt.",
+                "hu": "A 'Carrer de Barcelona' buszmegálló mindössze 3 percre van.",
+                "ro": "Stația 'Carrer de Barcelona' este la doar 3 minute distanță.",
+                "en": "The 'Carrer de Barcelona' bus stop is only 3 mins away."
+              }
+            },
+            {
+              "name": "Passeig Jaume I",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Haltestellen mit Überdachung als Regenschutz.",
+                "hu": "Használja a fedett megállókat eső elleni védelemként.",
+                "ro": "Folosiți stațiile acoperite ca adăpost împotriva ploii.",
+                "en": "Use the sheltered bus stops as protection from the rain."
+              }
+            },
+            {
+              "name": "Illuminated Fountain",
+              "tip_5lang": {
+                "de": "Mehrere Linien halten direkt vor dem Platz.",
+                "hu": "Számos járat áll meg közvetlenül a tér előtt.",
+                "ro": "Mai multe linii opresc chiar în fața pieței.",
+                "en": "Multiple lines stop directly in front of the square."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Bus Plana App zeigt Live-Abfahrten bei Regen an.",
+              "Kaufen Sie eine 10er-Karte (T10), um das Ticketziehen im Regen zu vermeiden.",
+              "Die Haltestellen an der Promenade haben meist gute Unterstände.",
+              "Busse fahren im 15-20 Minuten Takt zwischen den Hauptpunkten.",
+              "Tragen Sie den Schirm beim Einsteigen geschlossen, um andere nicht zu nassen."
+            ],
+            "hu": [
+              "A Bus Plana app élőben mutatja az indulásokat esőben is.",
+              "Vegyen 10 alkalmas jegyet (T10), hogy ne kelljen az esőben jeggyel bajlódni.",
+              "A sétányon lévő megállók többsége jól védett az esőtől.",
+              "A buszok 15-20 percenként járnak a főbb pontok között.",
+              "Felszálláskor csukja össze az esernyőt, hogy ne vizezzen össze másokat."
+            ],
+            "ro": [
+              "Aplicația Bus Plana arată plecările în timp real pe ploaie.",
+              "Cumpărați un card T10 pentru a evita cumpărarea biletelor în ploaie.",
+              "Majoritatea stațiilor de pe faleză au adăposturi bune.",
+              "Autobuzele circulă la fiecare 15-20 de minute între punctele principale.",
+              "Închideți umbrela înainte de urcare pentru a nu uda alți pasageri."
+            ],
+            "en": [
+              "The Bus Plana app shows live departures during the rain.",
+              "Buy a 10-trip card (T10) to avoid fumbling with tickets in the rain.",
+              "Most stops along the promenade have good shelters.",
+              "Buses run every 15-20 minutes between the main sights.",
+              "Close your umbrella before boarding to avoid getting others wet."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Wintertage in Salou sind perfekt für die Erkundung mit öffentlichen Verkehrsmitteln, da die Busse angenehm geheizt sind. Der Weg zur Torre Vella ist kurz und stressfrei. Am Passeig Jaume I kann man das Meer beobachten und schnell wieder in den Bus steigen, wenn es zu windig wird. Die Illuminierte Fontäne ist mittags ein schöner, heller Stopp im klaren Winterlicht. Eine entspannte Art, die Stadt ohne Parkplatzsorgen zu sehen.",
+            "hu": "A téli napok Salou-ban tökéletesek a tömegközlekedéshez, a buszok kellemesen fűtöttek. Az út a Torre Vella felé rövid és stresszmentes. A Passeig Jaume I sétányon megcsodálhatja a tengert, majd gyorsan visszaszállhat a buszra, ha feltámad a szél. A Megvilágított Szökőkút délben szép, világos látvány a tiszta téli fényben. Nyugodt városnézés parkolási gondok nélkül.",
+            "ro": "Zilele de iarnă în Salou sunt perfecte pentru transportul public, autobuzele fiind încălzite. Drumul spre Torre Vella este scurt și fără stres. Pe Passeig Jaume I puteți admira marea și urca rapid înapoi în autobuz dacă vântul devine prea rece. Fântâna Luminată este o oprire frumoasă la amiază în lumina clară de iarnă. O metodă relaxată de vizitare fără grija parcării.",
+            "en": "Winter days in Salou are ideal for public transport as the buses are comfortably heated. The trip to Torre Vella is short and stress-free. At Passeig Jaume I, you can admire the sea and quickly hop back on the bus if the wind gets too cold. The Illuminated Fountain is a bright midday stop in the clear winter light. A relaxed way to see the town without parking worries."
+          },
+          "stops": [
+            {
+              "name": "Torre Vella",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Linie L1 für eine direkte Verbindung.",
+                "hu": "Használja az L1-es járatot a közvetlen kapcsolathoz.",
+                "ro": "Folosiți linia L1 pentru o conexiune directă.",
+                "en": "Use line L1 for a direct connection."
+              }
+            },
+            {
+              "name": "Passeig Jaume I",
+              "tip_5lang": {
+                "de": "Die Haltestellen bieten Schutz vor dem frischen Seewind.",
+                "hu": "A megállók védelmet nyújtanak a friss tengeri szél ellen.",
+                "ro": "Stațiile oferă protecție împotriva vântului rece de mare.",
+                "en": "The bus stops offer shelter from the fresh sea breeze."
+              }
+            },
+            {
+              "name": "Illuminated Fountain",
+              "tip_5lang": {
+                "de": "Im Winter sind die Busse oft leerer und bequemer.",
+                "hu": "Télen a buszok gyakran üresebbek és kényelmesebbek.",
+                "ro": "Iarna, autobuzele sunt adesea mai libere și confortabile.",
+                "en": "In winter, buses are often less crowded and more comfortable."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Winterfahrplan, da manche Linien seltener fahren.",
+              "Die Busse sind im Winter gut beheizt, ideal zum Aufwärmen.",
+              "Nutzen Sie die Zeit im Bus, um die Route für den nächsten Stopp zu planen.",
+              "Der Busbahnhof in der Nähe des Hafens ist ein zentraler Umsteigepunkt.",
+              "Fahrkarten können direkt beim Fahrer oder an Kiosken gekauft werden."
+            ],
+            "hu": [
+              "Ellenőrizze a téli menetrendet, néhány járat ritkábban közlekedik.",
+              "A buszok télen jól fűtöttek, ideálisak a felmelegedésre.",
+              "Használja a buszon töltött időt a következő állomás megtervezésére.",
+              "A kikötő melletti buszállomás központi átszállási pont.",
+              "Jegyek a sofőrnél vagy az újságosoknál is vásárolhatók."
+            ],
+            "ro": [
+              "Verificați orarul de iarnă, unele linii circulă mai rar.",
+              "Autobuzele sunt bine încălzite iarna, ideale pentru a vă încălzi.",
+              "Folosiți timpul în autobuz pentru a planifica următoarea oprire.",
+              "Stația de autobuz de lângă port este un punct central de transfer.",
+              "Biletele pot fi cumpărate direct de la șofer sau de la chioșcuri."
+            ],
+            "en": [
+              "Check the winter schedule as some lines may run less frequently.",
+              "Buses are well-heated in winter, making them ideal for warming up.",
+              "Use the time on the bus to plan your next stop.",
+              "The bus station near the harbor is a key transfer point.",
+              "Tickets can be purchased directly from the driver or at kiosks."
+            ]
+          }
+        }
+      }
+    }
+  },
+  "external_resources": {
+    "tourism_office": "https://www.visitsalou.eu/",
+    "transit_official": "https://rodalies.gencat.cat/",
+    "events": "https://www.civitatis.com/en/salou/",
+    "webcam": "https://www.skylinewebcams.com/en/webcam/espana/cataluna/tarragona/salou.html",
+    "parking_real_time": "https://www.parclick.es/",
+    "museum_tickets": "https://www.portaventuraworld.com/",
+    "restaurants_booking": "https://www.thefork.com/",
+    "language_tips": {
+      "de": "Salou ist sehr international, vor allem britische, irische und französische Gäste. Sie kommen mit Englisch überall durch. Katalanisch und Spanisch hört man in Geschäften, aber das Servicepersonal spricht meist 3 bis 4 Sprachen wegen PortAventura.",
+      "hu": "Salou nagyon nemzetközi, főleg brit, ír és francia turistákkal. Angollal mindenhol elboldogulsz. A katalán és spanyol hallható a boltokban, de a személyzet 3-4 nyelven beszél a PortAventura miatt.",
+      "ro": "Salou e foarte internațional, în special turiști britanici, irlandezi și francezi. Cu engleza te descurci peste tot. Catalana și spaniola se aud în magazine, dar personalul vorbește 3-4 limbi datorită PortAventurei.",
+      "en": "Salou is very international, especially British, Irish and French visitors. English works everywhere. Catalan and Spanish are heard in shops, but staff usually speak 3-4 languages thanks to PortAventura."
+    },
+    "best_time_to_visit": {
+      "de": "April bis Juni und September für angenehmes Wetter und ruhigeren PortAventura. Juli und August sind extrem voll und heiß, die Wartezeiten in den Themenparks erreichen 90 Minuten. Im Oktober ist Halloween in PortAventura ein Highlight.",
+      "hu": "Április-június és szeptember kellemes idővel és nyugodtabb PortAventurával. Júliusban-augusztusban tömeg és hőség, a vidámparkban 90 perc sor. Októberben a PortAventura Halloween-időszaka kihagyhatatlan.",
+      "ro": "Aprilie-iunie și septembrie: vreme bună și PortAventura mai liniștit. Iulie-august sunt foarte aglomerate și fierbinți, cozile la atracții ajung la 90 de minute. În octombrie, Halloween-ul de la PortAventura e spectaculos.",
+      "en": "April-June and September give nice weather and a calmer PortAventura. July-August get extremely busy and hot, with theme-park queues up to 90 minutes. October Halloween season at PortAventura is a highlight."
+    },
+    "neighborhood_warnings": {
+      "de": "Salou ist sicher, hat aber lautes Nachtleben. Carrer Carles Buigas ('Calle Carles') ist die Partymeile, dort nachts auf Taschendiebe und betrunkene Gruppen achten. Strände sind sicher und gut bewacht, immer auf die Flaggen schauen.",
+      "hu": "Salou biztonságos, de hangos éjszakai életű. A Carrer Carles Buigas a partiutca, ott éjjel figyelj a zsebtolvajokra és részeg csoportokra. A strandok biztonságosak, jól őrzöttek, a strandzászlóra figyelj.",
+      "ro": "Salou este sigur dar are viață de noapte zgomotoasă. Carrer Carles Buigas e strada de party, atenție la buzunare și grupuri beți noaptea. Plajele sunt sigure și supravegheate, verifică steagurile.",
+      "en": "Salou is safe but nightlife is loud. Carrer Carles Buigas is the party street, watch pickpockets and rowdy groups after dark. Beaches are safe and well-monitored, just check the flags."
+    }
+  }
+}

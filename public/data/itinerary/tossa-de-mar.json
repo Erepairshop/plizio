@@ -1,0 +1,2279 @@
+{
+  "city_id": "tossa-de-mar",
+  "anchor": {
+    "name": "Tossa de Mar",
+    "coords": [
+      2.9319,
+      41.7197
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "18:30",
+      "total_km": 3.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Vila Vella",
+          "coords": [
+            2.9335,
+            41.7165
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Die einzige befestigte mittelalterliche Stadt an der katalanischen Küste.",
+            "hu": "Az egyetlen épen maradt középkori erődített város a katalán parton.",
+            "ro": "Singurul oraș medieval fortificat de pe coasta catalană.",
+            "en": "The only fortified medieval town on the Catalan coast."
+          }
+        },
+        {
+          "name": "Far de Tossa",
+          "coords": [
+            2.9345,
+            41.7161
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "11:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Besuchen Sie das kleine Museum über Leuchttürme.",
+            "hu": "Látogassa meg a világítótornyokról szóló kis múzeumot.",
+            "ro": "Vizitați micul muzeu despre faruri.",
+            "en": "Visit the small museum about lighthouses."
+          }
+        },
+        {
+          "name": "Estàtua d'Ava Gardner",
+          "coords": [
+            2.9338,
+            41.7169
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "12:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Zu Ehren der Schauspielerin, die hier 'Pandora und der Fliegende Holländer' drehte.",
+            "hu": "A színésznő tiszteletére, aki itt forgatta a 'Pandora és a bolygó hollandi'-t.",
+            "ro": "În onoarea actriței care a filmat aici 'Pandora și olandezul zburător'.",
+            "en": "In honor of the actress who filmed 'Pandora and the Flying Dutchman' here."
+          }
+        },
+        {
+          "name": "Platja Gran",
+          "coords": [
+            2.9325,
+            41.7192
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:40",
+          "stay_min": 180,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Genießen Sie den Blick auf die Stadtmauer vom Wasser aus.",
+            "hu": "Élvezze a városfalra nyíló kilátást a vízből.",
+            "ro": "Bucurați-vă de vederea zidurilor orașului din apă.",
+            "en": "Enjoy the view of the city walls from the water."
+          }
+        },
+        {
+          "name": "Vil·la romana dels Ametllers",
+          "coords": [
+            2.9295,
+            41.7215
+          ],
+          "category": "museums",
+          "arrive_at": "16:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Eindrucksvolle Mosaike aus der Römerzeit.",
+            "hu": "Lenyűgöző mozaikok a római korból.",
+            "ro": "Mozaicuri impresionante din epoca romană.",
+            "en": "Impressive mosaics from the Roman era."
+          }
+        },
+        {
+          "name": "Església de Sant Vicenç",
+          "coords": [
+            2.9308,
+            41.7205
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "17:35",
+          "stay_min": 55,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Die barocke Kirche im Zentrum der Unterstadt.",
+            "hu": "A barokk templom az alsóváros központjában.",
+            "ro": "Biserica barocă din centrul orașului de jos.",
+            "en": "The baroque church in the center of the lower town."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie das prächtige Vila Vella, spazieren Sie zum Leuchtturm und finden Sie die Statue von Ava Gardner. Nach einem entspannten Mittagessen an der Platja Gran tauchen Sie in die römische Geschichte in der Vil·la dels Ametllers ein und besuchen die Kirche Sant Vicenç.",
+        "hu": "Fedezze fel a pompás Vila Vella-t, sétáljon el a világítótoronyhoz, és keresse meg Ava Gardner szobrát. A Platja Gran-on elfogyasztott ebéd után merüljön el a római történelemben a Vil·la dels Ametllers-nél, majd látogasson el a Sant Vicenç templomba.",
+        "ro": "Explorați Vila Vella, mergeți la far și găsiți statuia Avei Gardner. După un prânz relaxant pe Platja Gran, descoperiți istoria romană la Vil·la dels Ametllers și vizitați biserica Sant Vicenç.",
+        "en": "Explore the magnificent Vila Vella, walk to the lighthouse, and find Ava Gardner's statue. After a relaxing lunch on Platja Gran, dive into Roman history at Vil·la dels Ametllers and visit Sant Vicenç church."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Cim i Tomba",
+            "tip": "Das typischste Fischergericht von Tossa."
+          },
+          {
+            "name": "Can Sophia",
+            "tip": "Gehobene Küche in modernem Ambiente."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cim i Tomba",
+            "tip": "Tossa legjellemzőbb halétele."
+          },
+          {
+            "name": "Can Sophia",
+            "tip": "Kiváló konyha modern környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cim i Tomba",
+            "tip": "Cel mai tipic fel de mâncare pescăresc din Tossa."
+          },
+          {
+            "name": "Can Sophia",
+            "tip": "Bucătărie rafinată într-un cadru modern."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cim i Tomba",
+            "tip": "Tossa's most typical fisherman's dish."
+          },
+          {
+            "name": "Can Sophia",
+            "tip": "Upscale cuisine in a modern setting."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Cala Es Codolar",
+            "tip": "Kleine Bucht direkt hinter der Stadtmauer.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cala Es Codolar",
+            "tip": "Kis öböl közvetlenül a városfal mögött.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cala Es Codolar",
+            "tip": "Mic golf chiar în spatele zidurilor orașului.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cala Es Codolar",
+            "tip": "Small bay right behind the city walls.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Carrer dels Socors",
+            "tip": "Haupteinkaufsstraße mit vielen Boutiquen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Carrer dels Socors",
+            "tip": "Fő bevásárlóutca számos butikkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Carrer dels Socors",
+            "tip": "Strada principală de cumpărături cu multe buticuri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Carrer dels Socors",
+            "tip": "Main shopping street with many boutiques."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Der Aufstieg zur Vila Vella kann steil sein.",
+          "Besuchen Sie die Stadtmauer bei Sonnenuntergang.",
+          "Die römische Villa ist kostenlos zugänglich."
+        ],
+        "hu": [
+          "A Vila Vella-ba vezető út meredek lehet.",
+          "Látogassa meg a városfalat naplementekor.",
+          "A római villa ingyenesen látogatható."
+        ],
+        "ro": [
+          "Urcarea spre Vila Vella poate fi abruptă.",
+          "Vizitați zidurile orașului la apus.",
+          "Vila romană poate fi vizitată gratuit."
+        ],
+        "en": [
+          "The climb to Vila Vella can be steep.",
+          "Visit the city walls at sunset.",
+          "The Roman villa is free to visit."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie das prächtige Vila Vella, spazieren Sie zum Leuchtturm und finden Sie die Statue von Ava Gardner. Nach einem entspannten Mittagessen an der Platja Gran tauchen Sie in die römische Geschichte in der Vil·la dels Ametllers ein und besuchen die Kirche Sant Vicenç.",
+            "hu": "Fedezze fel a pompás Vila Vella-t, sétáljon el a világítótoronyhoz, és keresse meg Ava Gardner szobrát. A Platja Gran-on elfogyasztott ebéd után merüljön el a római történelemben a Vil·la dels Ametllers-nél, majd látogasson el a Sant Vicenç templomba.",
+            "ro": "Explorați Vila Vella, mergeți la far și găsiți statuia Avei Gardner. După un prânz relaxant pe Platja Gran, descoperiți istoria romană la Vil·la dels Ametllers și vizitați biserica Sant Vicenç.",
+            "en": "Explore the magnificent Vila Vella, walk to the lighthouse, and find Ava Gardner's statue. After a relaxing lunch on Platja Gran, dive into Roman history at Vil·la dels Ametllers and visit Sant Vicenç church."
+          },
+          "stops": [
+            {
+              "name": "Vila Vella",
+              "tip_5lang": {
+                "de": "Die einzige befestigte mittelalterliche Stadt an der katalanischen Küste.",
+                "hu": "Az egyetlen épen maradt középkori erődített város a katalán parton.",
+                "ro": "Singurul oraș medieval fortificat de pe coasta catalană.",
+                "en": "The only fortified medieval town on the Catalan coast."
+              }
+            },
+            {
+              "name": "Far de Tossa",
+              "tip_5lang": {
+                "de": "Besuchen Sie das kleine Museum über Leuchttürme.",
+                "hu": "Látogassa meg a világítótornyokról szóló kis múzeumot.",
+                "ro": "Vizitați micul muzeu despre faruri.",
+                "en": "Visit the small museum about lighthouses."
+              }
+            },
+            {
+              "name": "Estàtua d'Ava Gardner",
+              "tip_5lang": {
+                "de": "Zu Ehren der Schauspielerin, die hier 'Pandora und der Fliegende Holländer' drehte.",
+                "hu": "A színésznő tiszteletére, aki itt forgatta a 'Pandora és a bolygó hollandi'-t.",
+                "ro": "În onoarea actriței care a filmat aici 'Pandora și olandezul zburător'.",
+                "en": "In honor of the actress who filmed 'Pandora and the Flying Dutchman' here."
+              }
+            },
+            {
+              "name": "Platja Gran",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die Stadtmauer vom Wasser aus.",
+                "hu": "Élvezze a városfalra nyíló kilátást a vízből.",
+                "ro": "Bucurați-vă de vederea zidurilor orașului din apă.",
+                "en": "Enjoy the view of the city walls from the water."
+              }
+            },
+            {
+              "name": "Vil·la romana dels Ametllers",
+              "tip_5lang": {
+                "de": "Eindrucksvolle Mosaike aus der Römerzeit.",
+                "hu": "Lenyűgöző mozaikok a római korból.",
+                "ro": "Mozaicuri impresionante din epoca romană.",
+                "en": "Impressive mosaics from the Roman era."
+              }
+            },
+            {
+              "name": "Església de Sant Vicenç",
+              "tip_5lang": {
+                "de": "Die barocke Kirche im Zentrum der Unterstadt.",
+                "hu": "A barokk templom az alsóváros központjában.",
+                "ro": "Biserica barocă din centrul orașului de jos.",
+                "en": "The baroque church in the center of the lower town."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Cim i Tomba",
+                "tip": "Das typischste Fischergericht von Tossa."
+              },
+              {
+                "name": "Can Sophia",
+                "tip": "Gehobene Küche in modernem Ambiente."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Cim i Tomba",
+                "tip": "Tossa legjellemzőbb halétele."
+              },
+              {
+                "name": "Can Sophia",
+                "tip": "Kiváló konyha modern környezetben."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Cim i Tomba",
+                "tip": "Cel mai tipic fel de mâncare pescăresc din Tossa."
+              },
+              {
+                "name": "Can Sophia",
+                "tip": "Bucătărie rafinată într-un cadru modern."
+              }
+            ],
+            "en": [
+              {
+                "name": "Cim i Tomba",
+                "tip": "Tossa's most typical fisherman's dish."
+              },
+              {
+                "name": "Can Sophia",
+                "tip": "Upscale cuisine in a modern setting."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Cala Es Codolar",
+                "tip": "Kleine Bucht direkt hinter der Stadtmauer.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Cala Es Codolar",
+                "tip": "Kis öböl közvetlenül a városfal mögött.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Cala Es Codolar",
+                "tip": "Mic golf chiar în spatele zidurilor orașului.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Cala Es Codolar",
+                "tip": "Small bay right behind the city walls.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Carrer dels Socors",
+                "tip": "Haupteinkaufsstraße mit vielen Boutiquen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Carrer dels Socors",
+                "tip": "Fő bevásárlóutca számos butikkal."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Carrer dels Socors",
+                "tip": "Strada principală de cumpărături cu multe buticuri."
+              }
+            ],
+            "en": [
+              {
+                "name": "Carrer dels Socors",
+                "tip": "Main shopping street with many boutiques."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Der Aufstieg zur Vila Vella kann steil sein.",
+              "Besuchen Sie die Stadtmauer bei Sonnenuntergang.",
+              "Die römische Villa ist kostenlos zugänglich."
+            ],
+            "hu": [
+              "A Vila Vella-ba vezető út meredek lehet.",
+              "Látogassa meg a városfalat naplementekor.",
+              "A római villa ingyenesen látogatható."
+            ],
+            "ro": [
+              "Urcarea spre Vila Vella poate fi abruptă.",
+              "Vizitați zidurile orașului la apus.",
+              "Vila romană poate fi vizitată gratuit."
+            ],
+            "en": [
+              "The climb to Vila Vella can be steep.",
+              "Visit the city walls at sunset.",
+              "The Roman villa is free to visit."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt mystisch in der Vila Vella, wo der Regen die alten Mauern dunkel färbt. Ein Regenschirm ist in den steilen Gassen ein Muss.\n\nMittags bietet der Leuchtturm einen dramatischen Blick auf das graue, aufgewühlte Mittelmeer. Der Wind peitscht hier oben oft kräftig.\n\nNachmittags führt der Weg zur Platja Gran, wo die Regentropfen auf den Sand prasseln, bevor man in der römischen Villa Schutz sucht.\n\nAbends bietet die Kirche Sant Vicenç einen trockenen und friedlichen Ort zum Innehalten, bevor man in ein gemütliches Restaurant einkehrt.",
+            "hu": "A reggel misztikusan indul a Vila Vella falai között, ahol az eső sötétre festi az ősi köveket. Az esernyő kötelező a meredek utcákon.\n\nDélben a világítótoronytól drámai kilátás nyílik a szürke, háborgó tengerre. A szél itt fent gyakran felerősödik az esőben.\n\nDélután a Platja Gran felé vesszük az irányt, ahol az esőcseppek kopognak a homokon, majd a római villa mozaikjai közt keresünk menedéket.\n\nEste a Szent Vince templom nyújt száraz és békés helyszínt az elmélkedéshez, mielőtt beülnénk egy hangulatos helyi tavernába.",
+            "ro": "Dimineața începe mistic în Vila Vella, unde ploaia colorează zidurile vechi în nuanțe închise. Umbrela este obligatorie pe străzile abrupte.\n\nLa prânz, farul oferă o vedere dramatică asupra Mediteranei cenușii și agitate. Vântul suflă adesea cu putere aici sus pe timp de ploaie.\n\nDupă-amiaza drumul duce spre Platja Gran, unde picăturile de ploaie lovesc nisipul, înainte de a căuta adăpost la vila romană.\n\nSeara, biserica Sant Vicenç oferă un loc uscat și liniștit pentru reflecție, înainte de a intra într-un restaurant primitor.",
+            "en": "The morning starts mystically in Vila Vella, where the rain darkens the ancient stone walls. An umbrella is a must in the steep, narrow alleys.\n\nAt noon, the lighthouse offers a dramatic view of the grey, stormy Mediterranean. The wind often picks up here during the rain.\n\nIn the afternoon, head to Platja Gran where raindrops hit the sand, then seek shelter among the mosaics of the Roman villa.\n\nIn the evening, Sant Vicenç church provides a dry and peaceful spot for reflection before heading into a cozy local tavern."
+          },
+          "stops": [
+            {
+              "name": "Vila Vella",
+              "tip_5lang": {
+                "de": "Vorsicht, die alten Kopfsteinpflaster werden bei Nässe extrem rutschig.",
+                "hu": "Vigyázat, a régi macskakövek vizesen rendkívül csúszóssá válnak.",
+                "ro": "Atenție, pietrele cubice vechi devin extrem de alunecoase când sunt ude.",
+                "en": "Watch out, the old cobblestones become extremely slippery when wet."
+              }
+            },
+            {
+              "name": "Far de Tossa",
+              "tip_5lang": {
+                "de": "Halten Sie Ihren Schirm gut fest, am Kap weht oft ein starker Wind.",
+                "hu": "Fogja erősen az esernyőt, a foknál gyakran erős szél fúj.",
+                "ro": "Țineți bine umbrela, la cap se simte adesea un vânt puternic.",
+                "en": "Hold your umbrella tight, there is often a strong wind at the cape."
+              }
+            },
+            {
+              "name": "Estàtua d'Ava Gardner",
+              "tip_5lang": {
+                "de": "Die Statue befindet sich nahe einer Mauer, die etwas Windschutz bietet.",
+                "hu": "A szobor egy fal közelében van, amely némi szélvédelmet nyújt.",
+                "ro": "Statuia se află lângă un zid care oferă puțină protecție împotriva vântului.",
+                "en": "The statue is near a wall that provides some protection from the wind."
+              }
+            },
+            {
+              "name": "Platja Gran",
+              "tip_5lang": {
+                "de": "Beobachten Sie die Brandung von einem der Cafés an der Promenade aus.",
+                "hu": "Figyelje a hullámverést a sétány egyik fedett kávézójából.",
+                "ro": "Urmăriți valurile de la una dintre cafenelele de pe faleză.",
+                "en": "Watch the surf from one of the covered cafes on the promenade."
+              }
+            },
+            {
+              "name": "Vil·la romana dels Ametllers",
+              "tip_5lang": {
+                "de": "Einige Bereiche sind nicht überdacht; Regenkleidung wird empfohlen.",
+                "hu": "Néhány rész nem fedett; esőkabát használata javasolt.",
+                "ro": "Unele zone nu sunt acoperite; se recomandă purtarea unei pelerine.",
+                "en": "Some areas are not covered; wearing a raincoat is recommended."
+              }
+            },
+            {
+              "name": "Església de Sant Vicenç",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Vorraum, um Kleidung und Schirme kurz zu trocknen.",
+                "hu": "Használja az előteret a ruházat és az esernyők rövid szárítására.",
+                "ro": "Folosiți vestibulul pentru a vă usca scurt hainele și umbrelele.",
+                "en": "Use the vestibule to briefly dry your clothes and umbrellas."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe mit gutem Profil für die rutschigen Gassen.",
+              "Nutzen Sie die Regenpausen für Fotos von den glänzenden Mauern.",
+              "Die Museen in Tossa sind ideale Zufluchtsorte bei starken Schauern.",
+              "Einige Cafés in der Altstadt haben beheizte, überdachte Terrassen.",
+              "Prüfen Sie den Wind am Leuchtturm, bevor Sie den Schirm aufspannen."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt jó talppal a csúszós utcák miatt.",
+              "Használja ki az esőmentes szüneteket a csillogó falak fotózására.",
+              "Tossa múzeumai ideális menedékek heves záporok esetén.",
+              "Néhány óvárosi kávézó fűtött, fedett terasszal várja a vendégeket.",
+              "Ellenőrizze a szelet a világítótoronynál, mielőtt kinyitná az esernyőt."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă cu talpă aderentă pentru străzile alunecoase.",
+              "Profită de pauzele de ploaie pentru a fotografia zidurile strălucitoare.",
+              "Muzeele din Tossa sunt refugii ideale în timpul averselor puternice.",
+              "Unele cafenele din orașul vechi au terase acoperite și încălzite.",
+              "Verificați vântul la far înainte de a deschide umbrela."
+            ],
+            "en": [
+              "Wear waterproof shoes with good grip for the slippery alleys.",
+              "Take advantage of rain breaks to photograph the glistening walls.",
+              "Tossa's museums are ideal shelters during heavy showers.",
+              "Some old town cafes have heated, covered terraces for guests.",
+              "Check the wind at the lighthouse before opening your umbrella."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen in der Vila Vella ist ruhig und klar. Ohne die Sommermassen wirken die Wehrtürme noch imposanter.\n\nMittags wärmt die tiefstehende Sonne am Leuchtturm. Die Luft ist frisch und bietet eine unglaubliche Fernsicht bis zur Küste.\n\nNachmittags lädt die leere Platja Gran zu einem meditativen Spaziergang ein. Das goldene Licht verzaubert die Ava-Gardner-Statue.\n\nZum Abend hin wird es kühl; die römische Villa und die Kirche Sant Vicenç strahlen im dämmrigen Winterlicht eine besondere Ruhe aus.",
+            "hu": "A téli reggel a Vila Vella falai között csendes és tiszta. A tömeg nélkül az őrtornyok még monumentálisabbnak tűnnek.\n\nDélben a világítótoronynál melenget az alacsonyan járó nap. A friss levegő hihetetlen távlatokat nyit a part mentén.\n\nDélután az üres Platja Gran meditatív sétára hív. Az aranyló fények elvarázsolják az Ava Gardner szobrot.\n\nEstefelé lehűl a levegő; a római villa és a Szent Vince templom különleges nyugalmat áraszt a téli szürkületben.",
+            "ro": "Dimineața de iarnă în Vila Vella este liniștită și senină. Fără mulțimi, turnurile de apărare par și mai impunătoare.\n\nLa prânz, soarele blând de iarnă încălzește zona farului. Aerul este proaspăt și oferă o vizibilitate incredibilă pe coastă.\n\nDupă-amiaza, Platja Gran goală invită la o plimbare meditativă. Lumina aurie transformă complet atmosfera la statuia Avei Gardner.\n\nSpre seară se lasă frigul; vila romană și biserica Sant Vicenç emană o liniște aparte în lumina crepusculară.",
+            "en": "The winter morning in Vila Vella is quiet and clear. Without the summer crowds, the watchtowers look even more imposing.\n\nAt noon, the low winter sun warms the area by the lighthouse. The crisp air offers incredible visibility along the coast.\n\nIn the afternoon, the empty Platja Gran invites for a meditative walk. The golden light enchants the Ava Gardner statue.\n\nTowards evening, the air turns chilly; the Roman villa and Sant Vicenç church radiate a special calm in the winter twilight."
+          },
+          "stops": [
+            {
+              "name": "Vila Vella",
+              "tip_5lang": {
+                "de": "Genießen Sie die Stille der historischen Gassen ohne die Touristenströme.",
+                "hu": "Élvezze a történelmi utcák csendjét a turistaáradat nélkül.",
+                "ro": "Bucurați-vă de liniștea străzilor istorice fără puștoiul de turiști.",
+                "en": "Enjoy the silence of the historic alleys without the tourist crowds."
+              }
+            },
+            {
+              "name": "Far de Tossa",
+              "tip_5lang": {
+                "de": "Warme Kleidung ist wichtig, der Seewind kann im Winter sehr schneidend sein.",
+                "hu": "Meleg öltözet fontos, a tengeri szél télen metsző lehet.",
+                "ro": "Hainele groase sunt importante, vântul marin poate fi tăios iarna.",
+                "en": "Warm clothing is important; the sea wind can be very biting in winter."
+              }
+            },
+            {
+              "name": "Estàtua d'Ava Gardner",
+              "tip_5lang": {
+                "de": "Das warme Nachmittagslicht eignet sich hervorragend für Fotos der Statue.",
+                "hu": "A meleg délutáni fények kiválóak a szobor fotózásához.",
+                "ro": "Lumina caldă de după-amiază este excelentă pentru fotografii cu statuia.",
+                "en": "The warm afternoon light is excellent for taking photos of the statue."
+              }
+            },
+            {
+              "name": "Platja Gran",
+              "tip_5lang": {
+                "de": "Ideal für einen langen Spaziergang, um die klare Meeresluft einzuatmen.",
+                "hu": "Ideális egy hosszú sétára a tiszta tengeri levegő beszippantásához.",
+                "ro": "Ideal pentru o plimbare lungă pentru a respira aerul curat de mare.",
+                "en": "Ideal for a long walk to breathe in the clean sea air."
+              }
+            },
+            {
+              "name": "Vil·la romana dels Ametllers",
+              "tip_5lang": {
+                "de": "Die Anlage ist im Winter oft menschenleer und wirkt sehr authentisch.",
+                "hu": "A terület télen gyakran teljesen üres, így nagyon hitelesnek hat.",
+                "ro": "Situl este adesea pustiu iarna și pare foarte autentic.",
+                "en": "The site is often deserted in winter and feels very authentic."
+              }
+            },
+            {
+              "name": "Església de Sant Vicenç",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kirche kurz vor Sonnenuntergang für eine besondere Stimmung.",
+                "hu": "Látogasson el a templomba röviddel naplemente előtt a különleges hangulatért.",
+                "ro": "Vizitați biserica cu puțin timp înainte de apus pentru o atmosferă specială.",
+                "en": "Visit the church shortly before sunset for a special atmosphere."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Winter gegen 17:30 Uhr unter; planen Sie den Tag früh.",
+              "Zwiebelprinzip bei der Kleidung schützt vor dem wechselnden Wind.",
+              "Viele Restaurants haben im Winter verkürzte Öffnungszeiten oder Ruhetage.",
+              "Genießen Sie eine heiße Schokolade in einem der Cafés nahe der Vila Vella.",
+              "Die Fernsicht auf das Meer ist im Winter oft besser als im Sommer."
+            ],
+            "hu": [
+              "Télen a nap 17:30 körül nyugszik, tervezze koránra a programokat.",
+              "A réteges öltözködés megvéd a változékony tengeri széltől.",
+              "Sok étteremnek télen rövidített nyitvatartása vagy szünnapja van.",
+              "Élvezzen egy forró csokoládét a Vila Vella közeli kávézók egyikében.",
+              "A kilátás a tengerre télen gyakran tisztább, mint nyáron."
+            ],
+            "ro": [
+              "Soarele apune în jur de 17:30 iarna; planificați activitățile devreme.",
+              "Îmbrăcămintea în straturi vă protejează de vântul marin schimbător.",
+              "Multe restaurante au program scurt sau zile libere în timpul iernii.",
+              "Savurați o ciocolată caldă într-una dintre cafenelele de lângă Vila Vella.",
+              "Vizibilitatea spre mare este adesea mai bună iarna decât vara."
+            ],
+            "en": [
+              "The sun sets around 5:30 PM in winter; plan your activities early.",
+              "Layered clothing protects you from the changing sea wind.",
+              "Many restaurants have shorter opening hours or closing days in winter.",
+              "Enjoy a hot chocolate in one of the cafes near Vila Vella.",
+              "The view of the sea is often clearer in winter than in summer."
+            ]
+          }
+        }
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 12.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Platja Gran",
+          "coords": [
+            2.9325,
+            41.7192
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Schöner Startpunkt an der Promenade.",
+            "hu": "Szép indulópont a sétányon.",
+            "ro": "Punct frumos de plecare de pe faleză.",
+            "en": "Nice starting point on the promenade."
+          }
+        },
+        {
+          "name": "Torre de Can Magí",
+          "coords": [
+            2.9328,
+            41.7235
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Ein ehemaliger Wachturm gegen Piraten.",
+            "hu": "Egykori őrtorony a kalózok ellen.",
+            "ro": "Fost turn de veghe împotriva piraților.",
+            "en": "A former watchtower against pirates."
+          }
+        },
+        {
+          "name": "Cala Pola",
+          "coords": [
+            2.9515,
+            41.7315
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:20",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Wunderschöne Bucht nördlich von Tossa.",
+            "hu": "Gyönyörű öböl Tossától északra.",
+            "ro": "Golf minunat la nord de Tossa.",
+            "en": "Beautiful bay north of Tossa."
+          }
+        },
+        {
+          "name": "Vila Vella",
+          "coords": [
+            2.9335,
+            41.7165
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:50",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Schieben Sie Ihr Rad am Eingang.",
+            "hu": "Tolja a biciklijét a bejáratnál.",
+            "ro": "Împingeți bicicleta la intrare.",
+            "en": "Push your bike at the entrance."
+          }
+        },
+        {
+          "name": "Museu Municipal de Tossa",
+          "coords": [
+            2.9338,
+            41.7171
+          ],
+          "category": "museums",
+          "arrive_at": "15:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Das erste Museum für moderne Kunst in Spanien.",
+            "hu": "Az első modern művészeti múzeum Spanyolországban.",
+            "ro": "Primul muzeu de artă modernă din Spania.",
+            "en": "The first modern art museum in Spain."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie entlang der Küste zum Turm Can Magí und weiter zur idyllischen Cala Pola. Nach einem Badestopp kehren Sie zur Vila Vella zurück und besuchen das Stadtmuseum im ehemaligen Gouverneurspalast.",
+        "hu": "Tekerjen a part mentén a Can Magí toronyhoz, majd tovább az idilli Cala Pola öbölhöz. Egy fürdőzés után térjen vissza a Vila Vella-hoz, és látogassa meg a városi múzeumot az egykori kormányzói palotában.",
+        "ro": "Mergeți cu bicicleta pe coastă până la turnul Can Magí și mai departe spre idilicul golf Cala Pola. După o baie, reveniți la Vila Vella și vizitați muzeul municipal în fostul palat al guvernatorului.",
+        "en": "Ride along the coast to the Can Magí tower and further to the idyllic Cala Pola bay. After a swim, return to Vila Vella and visit the municipal museum in the former governor's palace."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "La Lluna",
+            "tip": "Tapas in einer versteckten Ecke der Vila Vella."
+          }
+        ],
+        "hu": [
+          {
+            "name": "La Lluna",
+            "tip": "Tapasok a Vila Vella egyik rejtett zugában."
+          }
+        ],
+        "ro": [
+          {
+            "name": "La Lluna",
+            "tip": "Tapas într-un colț ascuns din Vila Vella."
+          }
+        ],
+        "en": [
+          {
+            "name": "La Lluna",
+            "tip": "Tapas in a hidden corner of Vila Vella."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Wanderweg Cami de Ronda",
+            "tip": "Atemberaubende Aussichtspunkte.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cami de Ronda ösvény",
+            "tip": "Lélegzetelállító kilátópontok.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Traseul Cami de Ronda",
+            "tip": "Puncte de belvedere uluitoare.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cami de Ronda Path",
+            "tip": "Breathtaking viewpoints.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "L'Art de la Terra",
+            "tip": "Handgefertigte Keramik."
+          }
+        ],
+        "hu": [
+          {
+            "name": "L'Art de la Terra",
+            "tip": "Kézzel készített kerámiák."
+          }
+        ],
+        "ro": [
+          {
+            "name": "L'Art de la Terra",
+            "tip": "Ceramică lucrată manual."
+          }
+        ],
+        "en": [
+          {
+            "name": "L'Art de la Terra",
+            "tip": "Handmade ceramics."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Küstenstraße nach Sant Feliu ist sehr bergig.",
+          "Mieten Sie ein Fahrrad im Stadtzentrum.",
+          "Vermeiden Sie die Hauptstraße am Mittag."
+        ],
+        "hu": [
+          "A Sant Feliu felé vezető parti út nagyon hegyes.",
+          "Béreljen kerékpárt a városközpontban.",
+          "Kerülje a főutat délidőben."
+        ],
+        "ro": [
+          "Drumul de coastă spre Sant Feliu este foarte muntos.",
+          "Închiriați o bicicletă din centrul orașului.",
+          "Evitați drumul principal la prânz."
+        ],
+        "en": [
+          "The coastal road to Sant Feliu is very mountainous.",
+          "Rent a bike in the city center.",
+          "Avoid the main road at midday."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Fahren Sie entlang der Küste zum Turm Can Magí und weiter zur idyllischen Cala Pola. Nach einem Badestopp kehren Sie zur Vila Vella zurück und besuchen das Stadtmuseum im ehemaligen Gouverneurspalast.",
+            "hu": "Tekerjen a part mentén a Can Magí toronyhoz, majd tovább az idilli Cala Pola öbölhöz. Egy fürdőzés után térjen vissza a Vila Vella-hoz, és látogassa meg a városi múzeumot az egykori kormányzói palotában.",
+            "ro": "Mergeți cu bicicleta pe coastă până la turnul Can Magí și mai departe spre idilicul golf Cala Pola. După o baie, reveniți la Vila Vella și vizitați muzeul municipal în fostul palat al guvernatorului.",
+            "en": "Ride along the coast to the Can Magí tower and further to the idyllic Cala Pola bay. After a swim, return to Vila Vella and visit the municipal museum in the former governor's palace."
+          },
+          "stops": [
+            {
+              "name": "Platja Gran",
+              "tip_5lang": {
+                "de": "Schöner Startpunkt an der Promenade.",
+                "hu": "Szép indulópont a sétányon.",
+                "ro": "Punct frumos de plecare de pe faleză.",
+                "en": "Nice starting point on the promenade."
+              }
+            },
+            {
+              "name": "Torre de Can Magí",
+              "tip_5lang": {
+                "de": "Ein ehemaliger Wachturm gegen Piraten.",
+                "hu": "Egykori őrtorony a kalózok ellen.",
+                "ro": "Fost turn de veghe împotriva piraților.",
+                "en": "A former watchtower against pirates."
+              }
+            },
+            {
+              "name": "Cala Pola",
+              "tip_5lang": {
+                "de": "Wunderschöne Bucht nördlich von Tossa.",
+                "hu": "Gyönyörű öböl Tossától északra.",
+                "ro": "Golf minunat la nord de Tossa.",
+                "en": "Beautiful bay north of Tossa."
+              }
+            },
+            {
+              "name": "Vila Vella",
+              "tip_5lang": {
+                "de": "Schieben Sie Ihr Rad am Eingang.",
+                "hu": "Tolja a biciklijét a bejáratnál.",
+                "ro": "Împingeți bicicleta la intrare.",
+                "en": "Push your bike at the entrance."
+              }
+            },
+            {
+              "name": "Museu Municipal de Tossa",
+              "tip_5lang": {
+                "de": "Das erste Museum für moderne Kunst in Spanien.",
+                "hu": "Az első modern művészeti múzeum Spanyolországban.",
+                "ro": "Primul muzeu de artă modernă din Spania.",
+                "en": "The first modern art museum in Spain."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "La Lluna",
+                "tip": "Tapas in einer versteckten Ecke der Vila Vella."
+              }
+            ],
+            "hu": [
+              {
+                "name": "La Lluna",
+                "tip": "Tapasok a Vila Vella egyik rejtett zugában."
+              }
+            ],
+            "ro": [
+              {
+                "name": "La Lluna",
+                "tip": "Tapas într-un colț ascuns din Vila Vella."
+              }
+            ],
+            "en": [
+              {
+                "name": "La Lluna",
+                "tip": "Tapas in a hidden corner of Vila Vella."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Wanderweg Cami de Ronda",
+                "tip": "Atemberaubende Aussichtspunkte.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Cami de Ronda ösvény",
+                "tip": "Lélegzetelállító kilátópontok.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Traseul Cami de Ronda",
+                "tip": "Puncte de belvedere uluitoare.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Cami de Ronda Path",
+                "tip": "Breathtaking viewpoints.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "L'Art de la Terra",
+                "tip": "Handgefertigte Keramik."
+              }
+            ],
+            "hu": [
+              {
+                "name": "L'Art de la Terra",
+                "tip": "Kézzel készített kerámiák."
+              }
+            ],
+            "ro": [
+              {
+                "name": "L'Art de la Terra",
+                "tip": "Ceramică lucrată manual."
+              }
+            ],
+            "en": [
+              {
+                "name": "L'Art de la Terra",
+                "tip": "Handmade ceramics."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Die Küstenstraße nach Sant Feliu ist sehr bergig.",
+              "Mieten Sie ein Fahrrad im Stadtzentrum.",
+              "Vermeiden Sie die Hauptstraße am Mittag."
+            ],
+            "hu": [
+              "A Sant Feliu felé vezető parti út nagyon hegyes.",
+              "Béreljen kerékpárt a városközpontban.",
+              "Kerülje a főutat délidőben."
+            ],
+            "ro": [
+              "Drumul de coastă spre Sant Feliu este foarte muntos.",
+              "Închiriați o bicicletă din centrul orașului.",
+              "Evitați drumul principal la prânz."
+            ],
+            "en": [
+              "The coastal road to Sant Feliu is very mountainous.",
+              "Rent a bike in the city center.",
+              "Avoid the main road at midday."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen auf dem Rad beginnt an der Platja Gran, wo der feine Regen das Meer beruhigt. Vorsicht auf der nassen Promenade!\n\nMittags führt die Fahrt zum Torre de Can Magí. Die Anstiege sind auf dem feuchten Asphalt anstrengend, aber die Luft ist herrlich erfrischend.\n\nNachmittags geht es zur Cala Pola. Der Küstenweg ist bei Regen anspruchsvoll, bietet aber wilde Naturschönheit. Danach Rückfahrt zur Burg.\n\nDer Tag endet im Stadtmuseum, wo man sich aufwärmen und die Räder sicher abstellen kann, während man Kunst genießt.",
+            "hu": "A reggel a nyeregben a Platja Granon indul, ahol a finom eső elcsendesíti a tengert. Vigyázzon a vizes sétányon!\n\nDélben a Torre de Can Magí felé tekerünk. Az emelkedők a nedves aszfalton fárasztóak, de a levegő üdítően friss.\n\nDélután a Cala Pola az úti cél. A parti út esőben kihívást jelent, de vadregényes szépséget kínál. Visszatérés a várba.\n\nA nap a Városi Múzeumban ér véget, ahol felmelegedhetünk és biztonságban tudhatjuk a bringákat a műalkotások között.",
+            "ro": "Dimineața în șa începe la Platja Gran, unde ploaia fină liniștește marea. Atenție pe faleza umedă!\n\nLa prânz, pedalăm spre Torre de Can Magí. Urcările sunt obositoare pe asfaltul umed, dar aerul este revigorant de proaspăt.\n\nDupă-amiaza, destinația este Cala Pola. Drumul de coastă este o provocare pe ploaie, dar oferă o frumusețe sălbatică. Revenire la cetate.\n\nZiua se încheie la Muzeul Municipal, unde ne putem încălzi și lăsa bicicletele în siguranță în timp ce admirăm arta.",
+            "en": "The morning in the saddle starts at Platja Gran, where the light rain calms the sea. Be careful on the wet promenade!\n\nAt noon, cycle towards Torre de Can Magí. The climbs are tiring on wet asphalt, but the air is refreshingly crisp.\n\nIn the afternoon, head to Cala Pola. The coastal path is challenging in the rain but offers wild natural beauty. Return to the castle.\n\nThe day ends at the Municipal Museum, where you can warm up and keep the bikes safe while enjoying the artworks."
+          },
+          "stops": [
+            {
+              "name": "Platja Gran",
+              "tip_5lang": {
+                "de": "Achten Sie auf Fußgänger mit Regenschirmen auf der Promenade.",
+                "hu": "Ügyeljen az esernyős gyalogosokra a sétányon.",
+                "ro": "Atenție la pietonii cu umbrele de pe faleză.",
+                "en": "Watch out for pedestrians with umbrellas on the promenade."
+              }
+            },
+            {
+              "name": "Torre de Can Magí",
+              "tip_5lang": {
+                "de": "Vermeiden Sie abruptes Bremsen auf den nassen Pflastersteinen am Turm.",
+                "hu": "Kerülje a hirtelen fékezést a toronynál lévő vizes macskaköveken.",
+                "ro": "Evitați frânarea bruscă pe pietrele cubice umede de lângă turn.",
+                "en": "Avoid abrupt braking on the wet cobblestones near the tower."
+              }
+            },
+            {
+              "name": "Cala Pola",
+              "tip_5lang": {
+                "de": "Die Straße nach Cala Pola hat bei Nässe rutschige Kurven; langsam fahren.",
+                "hu": "A Cala Pola felé vezető út kanyarjai vizesen csúsznak; óvatosan hajtson.",
+                "ro": "Curbele spre Cala Pola sunt alunecoase pe ud; conduceți cu viteză redusă.",
+                "en": "The curves towards Cala Pola are slippery when wet; ride slowly."
+              }
+            },
+            {
+              "name": "Vila Vella",
+              "tip_5lang": {
+                "de": "Schieben Sie das Rad in den steilsten und engsten Gassen der Burg.",
+                "hu": "A vár legmeredekebb és legszűkebb utcáin tolja a biciklit.",
+                "ro": "Împingeți bicicleta pe străzile cele mai abrupte și înguste ale cetății.",
+                "en": "Push your bike in the steepest and narrowest alleys of the fortress."
+              }
+            },
+            {
+              "name": "Museu Municipal de Tossa",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch als ausgiebige Trockenpause.",
+                "hu": "Használja a múzeumlátogatást egy alapos szárítkozó pihenőre.",
+                "ro": "Folosiți vizita la muzeu ca pe o pauză prelungită pentru uscare.",
+                "en": "Use the museum visit as an extended drying break."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche am Fahrrad sind bei diesem Wetter unverzichtbar.",
+              "Tragen Sie eine gut sichtbare Regenjacke mit Reflektoren.",
+              "Prüfen Sie Ihre Bremsen vor der Abfahrt von den Hügeln.",
+              "Vermeiden Sie Fahrbahnmarkierungen, diese sind extrem rutschig.",
+              "Halten Sie Kette und Schaltung nach der Tour sauber und geölt."
+            ],
+            "hu": [
+              "A sárvédő elengedhetetlen kiegészítő ilyen időben.",
+              "Viseljen jól látható, fényvisszaverős esőkabátot.",
+              "Ellenőrizze a fékeket, mielőtt elindulna a dombokról lefelé.",
+              "Kerülje az útburkolati jeleket, mert rendkívül csúsznak.",
+              "A túra után tisztítsa meg és olajozza be a láncot és a váltót."
+            ],
+            "ro": [
+              "Apărătorile de noroi sunt indispensabile pe o astfel de vreme.",
+              "Purtați o pelerină de ploaie vizibilă, cu elemente reflectorizante.",
+              "Verificați frânele înainte de a coborî de pe dealuri.",
+              "Evitați marcajele rutiere, acestea sunt extrem de alunecoase.",
+              "Curățați și ungeți lanțul și schimbătorul după tură."
+            ],
+            "en": [
+              "Mudguards on your bike are indispensable in this weather.",
+              "Wear a highly visible raincoat with reflective elements.",
+              "Check your brakes before descending from the hills.",
+              "Avoid road markings, as they are extremely slippery.",
+              "Clean and oil the chain and gears after the tour."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kühler Wintermorgen startet an der Platja Gran. Der Wind ist frisch, aber die Sonne glitzert herrlich auf den Wellen.\n\nMittags geht es bergauf zum Torre de Can Magí. Die Anstrengung hält warm und der Blick über das winterliche Tossa ist unbezahlbar.\n\nNachmittags führt die Route zur einsamen Cala Pola. Die Küstenstraße gehört Ihnen fast allein, perfekt für zügiges Fahren in der Kälte.\n\nDer späte Nachmittag gehört der Vila Vella und dem Museum. Wenn die Sonne tief steht, wirken die Steine der Burg besonders warm.",
+            "hu": "Hűvös téli reggel indul a Platja Granon. A szél friss, de a nap gyönyörűen csillog a hullámokon.\n\nDélben felfelé tekerünk a Torre de Can Magíhoz. A kifejtett erő melegen tart, a kilátás a téli Tossára pedig megfizethetetlen.\n\nDélután az út a magányos Cala Polához vezet. A parti út szinte csak az Öné, tökéletes a tempós haladáshoz a hidegben.\n\nA késő délután a Vila Vella és a múzeum ideje. Amikor a nap alacsonyan jár, a vár kövei különösen melegnek tűnnek.",
+            "ro": "O dimineață răcoroasă de iarnă începe la Platja Gran. Vântul este proaspăt, dar soarele sclipește superb pe valuri.\n\nLa prânz urcăm spre Torre de Can Magí. Efortul vă menține cald, iar vederea peste Tossa hibernală este de neprețuit.\n\nDupă-amiaza traseul duce spre Cala Pola solitară. Drumul de coastă este aproape doar al tău, perfect pentru pedalat rapid în frig.\n\nTârziu după-amiaza este timpul pentru Vila Vella și muzeu. Când soarele este jos, pietrele cetății par deosebit de calde.",
+            "en": "A cool winter morning starts at Platja Gran. The wind is fresh, but the sun glitters beautifully on the waves.\n\nAt noon, cycle uphill to Torre de Can Magí. The effort keeps you warm, and the view over winter Tossa is priceless.\n\nIn the afternoon, the route leads to the lonely Cala Pola. The coastal road is almost entirely yours, perfect for brisk riding in the cold.\n\nLate afternoon is the time for Vila Vella and the museum. When the sun is low, the castle stones look particularly warm."
+          },
+          "stops": [
+            {
+              "name": "Platja Gran",
+              "tip_5lang": {
+                "de": "Tragen Sie winddichte Kleidung für die Fahrt entlang der Küste.",
+                "hu": "Viseljen szélálló ruházatot a part menti tekeréshez.",
+                "ro": "Purtați haine rezistente la vânt pentru plimbarea de-a lungul coastei.",
+                "en": "Wear windproof clothing for the ride along the coast."
+              }
+            },
+            {
+              "name": "Torre de Can Magí",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Aufstieg, um die Körpertemperatur hochzuhalten.",
+                "hu": "Használja ki az emelkedőt a testhőmérséklet magasan tartásához.",
+                "ro": "Folosiți urcarea pentru a vă menține temperatura corpului ridicată.",
+                "en": "Use the climb to keep your body temperature up."
+              }
+            },
+            {
+              "name": "Cala Pola",
+              "tip_5lang": {
+                "de": "In der Bucht ist es oft schattig und deutlich kühler als im Ort.",
+                "hu": "Az öbölben gyakran árnyékos és jóval hűvösebb van, mint a városban.",
+                "ro": "În golf este adesea umbră și mult mai răcoare decât în oraș.",
+                "en": "The bay is often shaded and significantly cooler than the town."
+              }
+            },
+            {
+              "name": "Vila Vella",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad am Eingang ab, um die Burg zu Fuß zu erkunden.",
+                "hu": "Hagyja a biciklit a bejáratnál, és gyalog fedezze fel a várat.",
+                "ro": "Lăsați bicicleta la intrare pentru a explora cetatea la pas.",
+                "en": "Park your bike at the entrance to explore the castle on foot."
+              }
+            },
+            {
+              "name": "Museu Municipal de Tossa",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um die Hände nach der Fahrt aufzuwärmen.",
+                "hu": "Ideális hely a kezek felmelegítésére a tekerés után.",
+                "ro": "Un loc ideal pentru a vă încălzi mâinile după plimbare.",
+                "en": "An ideal place to warm your hands after the ride."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Thermo-Fahrradhandschuhe sind bei den Abfahrten ein Segen.",
+              "Achten Sie auf Reifglätte in schattigen Waldabschnitten.",
+              "Die Wintersonne steht tief; eine Sonnenbrille ist beim Fahren wichtig.",
+              "Planen Sie die Rückkehr vor Einbruch der Dunkelheit (ca. 17:30 Uhr).",
+              "Ein warmer Tee in der Trinkflasche ist besser als kaltes Wasser."
+            ],
+            "hu": [
+              "A thermo biciklis kesztyű áldás a lejtőkön lefelé.",
+              "Ügyeljen a dér okozta csúszósságra az árnyékos erdős részeken.",
+              "A téli nap alacsonyan jár; a napszemüveg fontos tekerés köznél.",
+              "Tervezze a visszatérést sötétedés előtt (kb. 17:30).",
+              "Egy meleg tea a kulacsban jobb választás, mint a hideg víz."
+            ],
+            "ro": [
+              "Mănușile termice de ciclism sunt o binecuvântare la coborâri.",
+              "Atenție la polei în porțiunile de pădure umbrite.",
+              "Soarele de iarnă este jos; ochelarii de soare sunt importanți la pedalat.",
+              "Planificați revenirea înainte de lăsarea întunericului (aprox. 17:30).",
+              "Un ceai cald în bidon este mai bun decât apa rece."
+            ],
+            "en": [
+              "Thermal cycling gloves are a blessing during descents.",
+              "Watch out for frost in shaded forest sections.",
+              "The winter sun is low; sunglasses are important while riding.",
+              "Plan your return before dark (around 5:30 PM).",
+              "A warm tea in your water bottle is better than cold water."
+            ]
+          }
+        }
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 20.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Vila Vella",
+          "coords": [
+            2.9335,
+            41.7165
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Parken Sie im großen Parkplatz an der Bushaltestelle.",
+            "hu": "Parkoljon a buszmegállónál lévő nagy parkolóban.",
+            "ro": "Parcați în parcarea mare de lângă stația de autobuz.",
+            "en": "Park in the large parking lot by the bus station."
+          }
+        },
+        {
+          "name": "Far de Tossa",
+          "coords": [
+            2.9345,
+            41.7161
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "10:50",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Beste Panorama-Aussicht auf die Küste.",
+            "hu": "A legjobb panorámás kilátás a partra.",
+            "ro": "Cea mai bună vedere panoramică a coastei.",
+            "en": "Best panoramic view of the coast."
+          }
+        },
+        {
+          "name": "Cala Giverola",
+          "coords": [
+            2.9615,
+            41.7385
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:05",
+          "stay_min": 150,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Eine Bucht mit kristallklarem Wasser und Resort-Anlagen.",
+            "hu": "Öböl kristálytiszta vízzel és üdülőhelyi kényelemmel.",
+            "ro": "Un golf cu apă cristalină și facilități de resort.",
+            "en": "A bay with crystal clear water and resort facilities."
+          }
+        },
+        {
+          "name": "Vil·la romana dels Ametllers",
+          "coords": [
+            2.9295,
+            41.7215
+          ],
+          "category": "museums",
+          "arrive_at": "15:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 7.0,
+          "tip_5lang": {
+            "de": "Gut erhaltene Grundrisse eines römischen Landguts.",
+            "hu": "Egy római vidéki birtok jól megőrzött alaprajzai.",
+            "ro": "Planuri bine conservate ale unei moșii romane.",
+            "en": "Well-preserved floor plans of a Roman estate."
+          }
+        },
+        {
+          "name": "Platja Gran",
+          "coords": [
+            2.9325,
+            41.7192
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ideal für einen Drink zum Abschluss.",
+            "hu": "Ideális egy italhoz a nap végén.",
+            "ro": "Ideal pentru o băutură la finalul zilei.",
+            "en": "Ideal for a drink at the end of the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das Auto, um die Vila Vella und den Leuchtturm am Morgen zu besuchen, bevor Sie zur spektakulären Cala Giverola fahren. Am Nachmittag kehren Sie nach Tossa zurück, um die römischen Ruinen zu sehen und den Tag am Hauptstrand zu genießen.",
+        "hu": "Használja az autót a Vila Vella és a világítótorony megtekintéséhez délelőtt, majd autózzon a látványos Cala Giverola öbölhöz. Délután térjen vissza Tossába a római romokhoz, és élvezze a napot a főstrandon.",
+        "ro": "Folosiți mașina pentru a vizita Vila Vella și farul dimineața, apoi mergeți la spectaculosul golf Cala Giverola. După-amiaza, reveniți în Tossa pentru ruinele romane și relaxați-vă pe plaja principală.",
+        "en": "Use the car to visit Vila Vella and the lighthouse in the morning before driving to the spectacular Cala Giverola bay. In the afternoon, return to Tossa for the Roman ruins and enjoy the main beach."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pizzeria Bello",
+            "tip": "Gute Pizza mit Blick auf die Bucht."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pizzeria Bello",
+            "tip": "Jó pizza kilátással az öbölre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pizzeria Bello",
+            "tip": "Pizza bună cu vedere la golf."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pizzeria Bello",
+            "tip": "Good pizza with a view of the bay."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Mirador de Sant Jaume",
+            "tip": "Panoramablick über die Stadt.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mirador de Sant Jaume",
+            "tip": "Panorámás kilátás a városra.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mirador de Sant Jaume",
+            "tip": "Vedere panoramică asupra orașului.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Mirador de Sant Jaume",
+            "tip": "Panoramic view over the city.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mar Menut",
+            "tip": "Modegeschäfte im Zentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mar Menut",
+            "tip": "Divatüzletek a központban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mar Menut",
+            "tip": "Magazine de modă în centru."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mar Menut",
+            "tip": "Fashion shops in the center."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parkplätze sind im Sommer sehr teuer und begrenzt.",
+          "Die Straße nach Sant Feliu bietet tolle Aussichtspunkte.",
+          "Kommen Sie früh an, um einen Parkplatz zu finden."
+        ],
+        "hu": [
+          "A parkolóhelyek nyáron drágák és korlátozottak.",
+          "A Sant Feliu felé vezető út remek kilátópontokat kínál.",
+          "Érkezzen korán, hogy találjon parkolóhelyet."
+        ],
+        "ro": [
+          "Parcările sunt scumpe și limitate vara.",
+          "Drumul spre Sant Feliu oferă puncte de belvedere grozave.",
+          "Sosiți devreme pentru a găsi un loc de parcare."
+        ],
+        "en": [
+          "Parking spaces are expensive and limited in summer.",
+          "The road to Sant Feliu offers great viewpoints.",
+          "Arrive early to find a parking spot."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie das Auto, um die Vila Vella und den Leuchtturm am Morgen zu besuchen, bevor Sie zur spektakulären Cala Giverola fahren. Am Nachmittag kehren Sie nach Tossa zurück, um die römischen Ruinen zu sehen und den Tag am Hauptstrand zu genießen.",
+            "hu": "Használja az autót a Vila Vella és a világítótorony megtekintéséhez délelőtt, majd autózzon a látványos Cala Giverola öbölhöz. Délután térjen vissza Tossába a római romokhoz, és élvezze a napot a főstrandon.",
+            "ro": "Folosiți mașina pentru a vizita Vila Vella și farul dimineața, apoi mergeți la spectaculosul golf Cala Giverola. După-amiaza, reveniți în Tossa pentru ruinele romane și relaxați-vă pe plaja principală.",
+            "en": "Use the car to visit Vila Vella and the lighthouse in the morning before driving to the spectacular Cala Giverola bay. In the afternoon, return to Tossa for the Roman ruins and enjoy the main beach."
+          },
+          "stops": [
+            {
+              "name": "Vila Vella",
+              "tip_5lang": {
+                "de": "Parken Sie im großen Parkplatz an der Bushaltestelle.",
+                "hu": "Parkoljon a buszmegállónál lévő nagy parkolóban.",
+                "ro": "Parcați în parcarea mare de lângă stația de autobuz.",
+                "en": "Park in the large parking lot by the bus station."
+              }
+            },
+            {
+              "name": "Far de Tossa",
+              "tip_5lang": {
+                "de": "Beste Panorama-Aussicht auf die Küste.",
+                "hu": "A legjobb panorámás kilátás a partra.",
+                "ro": "Cea mai bună vedere panoramică a coastei.",
+                "en": "Best panoramic view of the coast."
+              }
+            },
+            {
+              "name": "Cala Giverola",
+              "tip_5lang": {
+                "de": "Eine Bucht mit kristallklarem Wasser und Resort-Anlagen.",
+                "hu": "Öböl kristálytiszta vízzel és üdülőhelyi kényelemmel.",
+                "ro": "Un golf cu apă cristalină și facilități de resort.",
+                "en": "A bay with crystal clear water and resort facilities."
+              }
+            },
+            {
+              "name": "Vil·la romana dels Ametllers",
+              "tip_5lang": {
+                "de": "Gut erhaltene Grundrisse eines römischen Landguts.",
+                "hu": "Egy római vidéki birtok jól megőrzött alaprajzai.",
+                "ro": "Planuri bine conservate ale unei moșii romane.",
+                "en": "Well-preserved floor plans of a Roman estate."
+              }
+            },
+            {
+              "name": "Platja Gran",
+              "tip_5lang": {
+                "de": "Ideal für einen Drink zum Abschluss.",
+                "hu": "Ideális egy italhoz a nap végén.",
+                "ro": "Ideal pentru o băutură la finalul zilei.",
+                "en": "Ideal for a drink at the end of the day."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Pizzeria Bello",
+                "tip": "Gute Pizza mit Blick auf die Bucht."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Pizzeria Bello",
+                "tip": "Jó pizza kilátással az öbölre."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Pizzeria Bello",
+                "tip": "Pizza bună cu vedere la golf."
+              }
+            ],
+            "en": [
+              {
+                "name": "Pizzeria Bello",
+                "tip": "Good pizza with a view of the bay."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Mirador de Sant Jaume",
+                "tip": "Panoramablick über die Stadt.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Mirador de Sant Jaume",
+                "tip": "Panorámás kilátás a városra.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Mirador de Sant Jaume",
+                "tip": "Vedere panoramică asupra orașului.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Mirador de Sant Jaume",
+                "tip": "Panoramic view over the city.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Mar Menut",
+                "tip": "Modegeschäfte im Zentrum."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Mar Menut",
+                "tip": "Divatüzletek a központban."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Mar Menut",
+                "tip": "Magazine de modă în centru."
+              }
+            ],
+            "en": [
+              {
+                "name": "Mar Menut",
+                "tip": "Fashion shops in the center."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Parkplätze sind im Sommer sehr teuer und begrenzt.",
+              "Die Straße nach Sant Feliu bietet tolle Aussichtspunkte.",
+              "Kommen Sie früh an, um einen Parkplatz zu finden."
+            ],
+            "hu": [
+              "A parkolóhelyek nyáron drágák és korlátozottak.",
+              "A Sant Feliu felé vezető út remek kilátópontokat kínál.",
+              "Érkezzen korán, hogy találjon parkolóhelyet."
+            ],
+            "ro": [
+              "Parcările sunt scumpe și limitate vara.",
+              "Drumul spre Sant Feliu oferă puncte de belvedere grozave.",
+              "Sosiți devreme pentru a găsi un loc de parcare."
+            ],
+            "en": [
+              "Parking spaces are expensive and limited in summer.",
+              "The road to Sant Feliu offers great viewpoints.",
+              "Arrive early to find a parking spot."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Morgen beginnt entspannt mit der Fahrt zur Vila Vella. Parken Sie nah am Mauereingang, um trocken zu bleiben.\n\nMittags geht es zum Leuchtturm. Genießen Sie den Ausblick auf das stürmische Meer direkt aus dem warmen Auto.\n\nNachmittags führt die Küstenstraße zur Cala Giverola. Das Trommeln des Regens auf das Autodach schafft eine gemütliche Atmosphäre.\n\nDen Abschluss bilden die römische Villa und die Platja Gran. Der Tag endet bequem, ohne dass Sie nass werden müssen.",
+            "hu": "Az esős reggel kényelmesen indul a Vila Vella felé. Parkoljon közel a várfal bejáratához, hogy száraz maradjon.\n\nDélben a világítótoronyhoz autózunk. Élvezze a viharos tenger látványát közvetlenül a meleg autóból.\n\nDélután a parti út a Cala Giverolához vezet. Az autótetőn kopogó eső igazán hangulatossá teszi az utat.\n\nA napot a római villa és a Platja Gran zárja. A program kényelmesen fejeződik be, anélkül, hogy megázna.",
+            "ro": "O dimineață ploioasă începe relaxat cu drumul spre Vila Vella. Parcați aproape de intrarea în cetate pentru a rămâne uscat.\n\nLa prânz mergem la far. Bucurați-vă de vederea mării învolburate direct din mașina caldă.\n\nDupă-amiaza, drumul de coastă duce la Cala Giverola. Ropoitul ploii pe plafonul mașinii creează o atmosferă primitoare.\n\nFinalul aparține vilei romane și plajei Platja Gran. Ziua se încheie confortabil, fără a fi nevoie să vă udați.",
+            "en": "A rainy morning starts relaxed with a drive to Vila Vella. Park close to the wall entrance to stay dry.\n\nAt noon, head to the lighthouse. Enjoy the view of the stormy sea directly from your warm car.\n\nIn the afternoon, the coastal road leads to Cala Giverola. The sound of rain on the car roof creates a cozy atmosphere.\n\nThe day concludes with the Roman villa and Platja Gran. The trip ends comfortably without you having to get wet."
+          },
+          "stops": [
+            {
+              "name": "Vila Vella",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Parkhaus am Eingang, um möglichst kurz im Regen zu gehen.",
+                "hu": "Használja a bejáratnál lévő parkolóházat, hogy a lehető legkevesebbet ázzon.",
+                "ro": "Folosiți parcarea de la intrare pentru a merge cât mai puțin prin ploaie.",
+                "en": "Use the parking garage at the entrance to minimize walking in the rain."
+              }
+            },
+            {
+              "name": "Far de Tossa",
+              "tip_5lang": {
+                "de": "Es gibt Parkmöglichkeiten nahe dem Gipfel, ideal bei schlechtem Wetter.",
+                "hu": "A csúcs közelében is van parkolási lehetőség, ideális rossz időben.",
+                "ro": "Există locuri de parcare aproape de vârf, ideale pe vreme rea.",
+                "en": "There are parking options near the top, ideal in bad weather."
+              }
+            },
+            {
+              "name": "Cala Giverola",
+              "tip_5lang": {
+                "de": "Die Küstenstraße ist bei Regen rutschig; fahren Sie vorsichtig.",
+                "hu": "A parti út esőben csúszós; vezessen óvatosan.",
+                "ro": "Drumul de coastă este alunecos pe ploaie; conduceți cu prudență.",
+                "en": "The coastal road is slippery in the rain; drive carefully."
+              }
+            },
+            {
+              "name": "Vil·la romana dels Ametllers",
+              "tip_5lang": {
+                "de": "Parkplätze in der Nähe ermöglichen einen schnellen Zugang zum Gelände.",
+                "hu": "A közelben lévő parkolók gyors hozzáférést biztosítanak a területhez.",
+                "ro": "Parcările din apropiere permit accesul rapid la sit.",
+                "en": "Nearby parking spots allow quick access to the site."
+              }
+            },
+            {
+              "name": "Platja Gran",
+              "tip_5lang": {
+                "de": "Parken Sie an der Promenade, um das Meer vom Auto aus zu sehen.",
+                "hu": "Parkoljon a sétányon, hogy az autóból láthassa a tengert.",
+                "ro": "Parcați pe faleză pentru a vedea marea din mașină.",
+                "en": "Park on the promenade to see the sea from the car."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Scheibenwischer vor der Fahrt auf der Küstenstraße.",
+              "Halten Sie die Fenster leicht geöffnet, um Beschlagen zu verhindern.",
+              "Achten Sie auf Steinschlaggefahr an den Klippen bei starkem Regen.",
+              "Nutzen Sie die Parkhäuser, um trockenen Fußes in die Altstadt zu gelangen.",
+              "Fahren Sie in den Kurven der GI-682 besonders langsam."
+            ],
+            "hu": [
+              "Ellenőrizze az ablaktörlőket a parti útra való indulás előtt.",
+              "Tartsa résnyire nyitva az ablakot, hogy elkerülje a párásodást.",
+              "Ügyeljen a kőomlás veszélyére a szikláknál heves esőzéskor.",
+              "Használja a parkolóházakat, hogy száraz lábbal jusson az óvárosba.",
+              "A GI-682-es út kanyarjaiban vezessen különösen lassan."
+            ],
+            "ro": [
+              "Verificați ștergătoarele înainte de a porni pe drumul de coastă.",
+              "Țineți ferestrele ușor deschise pentru a preveni aburirea.",
+              "Atenție la riscul de căderi de pietre de pe stânci în timpul ploilor.",
+              "Folosiți parcările etajate pentru a ajunge în orașul vechi fără a vă uda.",
+              "Conduceți deosebit de încet în curbele de pe GI-682."
+            ],
+            "en": [
+              "Check your wipers before driving on the coastal road.",
+              "Keep the windows slightly cracked to prevent fogging.",
+              "Watch out for rockfall risk at the cliffs during heavy rain.",
+              "Use parking garages to reach the old town dry-shod.",
+              "Drive particularly slowly in the curves of the GI-682."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen beginnt mit der Fahrt zur Vila Vella. Die Parkplätze sind leer und der Zugang zur Burg ist mühelos.\n\nMittags führt die Panoramastraße zum Leuchtturm. Die Wintersonne lässt das Meer tiefblau erscheinen.\n\nNachmittags geht es zur Cala Giverola. Die Strecke ist ein Traum für Autofahrer, da kaum Verkehr herrscht.\n\nDer Tag endet an der römischen Villa und der Platja Gran. Im warmen Auto sitzend, kann man den Sonnenuntergang über der Bucht genießen.",
+            "hu": "Tiszta téli reggel indul a Vila Vella felé. A parkolók üresek, a vár megközelítése pedig pofonegyszerű.\n\nDélben a panorámaút a világítótoronyhoz vezet. A téli nap mélykékre festi a tengert.\n\nDélután a Cala Giverola az úti cél. Az útszakasz az autósok álma, hiszen alig van forgalom.\n\nA nap a római villánál és a Platja Grannál zárul. A meleg autóban ülve élvezheti a naplementét az öböl felett.",
+            "ro": "O dimineață senină de iarnă începe cu drumul spre Vila Vella. Parcările sunt goale, iar accesul la cetate este facil.\n\nLa prânz, drumul panoramic duce spre far. Soarele de iarnă face ca marea să pară de un albastru profund.\n\nDupă-amiaza mergem la Cala Giverola. Traseul este un vis pentru șoferi, deoarece traficul este aproape inexistent.\n\nZiua se încheie la vila romană și Platja Gran. Stând în mașina caldă, puteți admira apusul peste golf.",
+            "en": "A clear winter morning begins with a drive to Vila Vella. The parking lots are empty, and access to the castle is effortless.\n\nAt noon, the panoramic road leads to the lighthouse. The winter sun makes the sea appear deep blue.\n\nIn the afternoon, head to Cala Giverola. This stretch of road is a driver's dream, as there is hardly any traffic.\n\nThe day ends at the Roman villa and Platja Gran. Sitting in your warm car, you can enjoy the sunset over the bay."
+          },
+          "stops": [
+            {
+              "name": "Vila Vella",
+              "tip_5lang": {
+                "de": "Profitieren Sie von den freien Parkplätzen direkt am Mauereingang.",
+                "hu": "Használja ki a közvetlenül a várfalnál lévő üres parkolóhelyeket.",
+                "ro": "Profitați de locurile de parcare libere chiar lângă intrarea în cetate.",
+                "en": "Take advantage of the free parking spots right by the wall entrance."
+              }
+            },
+            {
+              "name": "Far de Tossa",
+              "tip_5lang": {
+                "de": "Die Fernsicht vom Parkplatz am Leuchtturm ist im Winter grandios.",
+                "hu": "A világítótorony parkolójából nyíló kilátás télen lenyűgöző.",
+                "ro": "Vizibilitatea de la parcarea farului este grandioasă iarna.",
+                "en": "The visibility from the lighthouse parking lot is magnificent in winter."
+              }
+            },
+            {
+              "name": "Cala Giverola",
+              "tip_5lang": {
+                "de": "Genießen Sie die Fahrt auf der leeren Küstenstraße GI-682.",
+                "hu": "Élvezze az autózást az üres GI-682-es parti úton.",
+                "ro": "Bucurați-vă de condus pe drumul de coastă GI-682 aproape pustiu.",
+                "en": "Enjoy driving on the empty GI-682 coastal road."
+              }
+            },
+            {
+              "name": "Vil·la romana dels Ametllers",
+              "tip_5lang": {
+                "de": "Im Winter ist es hier sehr ruhig; ideal für einen kurzen Zwischenstopp.",
+                "hu": "Télen itt nagyon nagy a nyugalom; ideális egy rövid megállóra.",
+                "ro": "Iarna este foarte liniște aici; ideal pentru o scurtă oprire.",
+                "en": "It is very quiet here in winter; ideal for a short stop."
+              }
+            },
+            {
+              "name": "Platja Gran",
+              "tip_5lang": {
+                "de": "Parken Sie für den Sonnenuntergang mit Blick auf die beleuchtete Burg.",
+                "hu": "Parkoljon le a naplementéhez, kilátással a kivilágított várra.",
+                "ro": "Parcați pentru apus, cu vedere spre cetatea iluminată.",
+                "en": "Park for the sunset with a view of the illuminated castle."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Küstenstraße nach Sant Feliu ist im Winter besonders malerisch.",
+              "Prüfen Sie den Reifendruck, da dieser bei Kälte sinken kann.",
+              "Die Parkgebühren sind im Winter oft niedriger oder entfallen ganz.",
+              "Nutzen Sie die Sitzheizung für maximale Gemütlichkeit bei den Stopps.",
+              "Achten Sie auf tiefstehende Sonne, die beim Fahren blenden kann."
+            ],
+            "hu": [
+              "A Sant Feliu felé vezető parti út télen különösen festői.",
+              "Ellenőrizze a guminyomást, mert a hidegben csökkenhet.",
+              "A parkolási díjak télen gyakran alacsonyabbak vagy elmaradnak.",
+              "Használja az ülésfűtést a maximális kényelemért a megállóknál.",
+              "Ügyeljen az alacsonyan járó napra, amely vezetés közben vakíthat."
+            ],
+            "ro": [
+              "Drumul de coastă spre Sant Feliu este deosebit de pitoresc iarna.",
+              "Verificați presiunea în pneuri, deoarece aceasta poate scădea la frig.",
+              "Taxele de parcare sunt adesea mai mici sau inexistente iarna.",
+              "Folosiți încălzirea în scaune pentru confort maxim la opriri.",
+              "Atenție la soarele jos care vă poate orbi în timp ce conduceți."
+            ],
+            "en": [
+              "The coastal road to Sant Feliu is particularly picturesque in winter.",
+              "Check tire pressure, as it can drop in the cold.",
+              "Parking fees are often lower or waived entirely in winter.",
+              "Use the seat heating for maximum coziness during stops.",
+              "Watch out for the low sun, which can be blinding while driving."
+            ]
+          }
+        }
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 5.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Platja Gran",
+          "coords": [
+            2.9325,
+            41.7192
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Hier legen die Ausflugsboote ab.",
+            "hu": "Innen indulnak a kirándulóhajók.",
+            "ro": "De aici pleacă bărcile de excursie.",
+            "en": "This is where the excursion boats depart."
+          }
+        },
+        {
+          "name": "Vila Vella",
+          "coords": [
+            2.9335,
+            41.7165
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Der Touristenzug bringt Sie bequem nach oben.",
+            "hu": "A turistavonat kényelmesen felviszi a hegyre.",
+            "ro": "Trenulețul turistic vă duce confortabil sus.",
+            "en": "The tourist train takes you comfortably to the top."
+          }
+        },
+        {
+          "name": "Museu Municipal de Tossa",
+          "coords": [
+            2.9338,
+            41.7171
+          ],
+          "category": "museums",
+          "arrive_at": "12:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Kulturstopp im Herzen der Festung.",
+            "hu": "Kulturális megálló az erőd szívében.",
+            "ro": "Oprire culturală în inima cetății.",
+            "en": "Cultural stop in the heart of the fortress."
+          }
+        },
+        {
+          "name": "Estàtua d'Ava Gardner",
+          "coords": [
+            2.9338,
+            41.7169
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "13:50",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Ein Muss für Filmfans.",
+            "hu": "Filmrajongóknak kötelező.",
+            "ro": "Obligatoriu pentru fanii filmului.",
+            "en": "A must for movie fans."
+          }
+        },
+        {
+          "name": "Vil·la romana dels Ametllers",
+          "coords": [
+            2.9295,
+            41.7215
+          ],
+          "category": "museums",
+          "arrive_at": "14:40",
+          "stay_min": 150,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "In der Nähe der Bushaltestelle gelegen.",
+            "hu": "A buszmegálló közelében található.",
+            "ro": "Situat aproape de stația de autobuz.",
+            "en": "Located near the bus station."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie den touristischen Zug zur Vila Vella und erkunden Sie das Stadtmuseum sowie die Statue von Ava Gardner. Am Nachmittag bringt Sie ein kurzer Spaziergang oder der Bus zur römischen Villa dels Ametllers.",
+        "hu": "Használja a turistavonatot a Vila Vella eléréséhez, fedezze fel a városi múzeumot és Ava Gardner szobrát. Délután egy rövid séta vagy buszozás után látogassa meg a Vil·la dels Ametllers római romjait.",
+        "ro": "Folosiți trenulețul turistic pentru a ajunge la Vila Vella și explorați muzeul municipal și statuia Avei Gardner. După-amiaza, o scurtă plimbare sau autobuzul vă duce la vila romană dels Ametllers.",
+        "en": "Use the tourist train to reach Vila Vella and explore the municipal museum and Ava Gardner's statue. In the afternoon, a short walk or bus ride takes you to the Roman villa dels Ametllers."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant Victoria",
+            "tip": "Klassische katalanische Küche am Meer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Restaurant Victoria",
+            "tip": "Klasszikus katalán konyha a tengerparton."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant Victoria",
+            "tip": "Bucătărie catalană clasică lângă mare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant Victoria",
+            "tip": "Classic Catalan cuisine by the sea."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Pfarrgarten",
+            "tip": "Ruhiger Platz hinter der Kirche.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Plébániakert",
+            "tip": "Csendes tér a templom mögött.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina parohială",
+            "tip": "Loc liniștit în spatele bisericii.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parish Garden",
+            "tip": "Quiet spot behind the church.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Konditoreien",
+            "tip": "Probieren Sie die 'Besos de Tossa'."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi cukrászdák",
+            "tip": "Kóstolja meg a 'Besos de Tossa'-t."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cofetării locale",
+            "tip": "Gustați 'Besos de Tossa'."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Pastries",
+            "tip": "Try the 'Besos de Tossa'."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Boot 'Dofí Jet' verbindet Tossa mit anderen Küstenorten.",
+          "Der Carrilet (Touristenzug) ist ideal für Familien.",
+          "Der Busbahnhof ist 10 Minuten zu Fuß vom Strand entfernt."
+        ],
+        "hu": [
+          "A 'Dofí Jet' hajó összeköti Tossát más parti városokkal.",
+          "A Carrilet (turistavonat) ideális családoknak.",
+          "A buszállomás 10 perces sétára van a strandtól."
+        ],
+        "ro": [
+          "Barca 'Dofí Jet' conectează Tossa cu alte orașe de pe coastă.",
+          "Carrilet (trenulețul turistic) este ideal pentru familii.",
+          "Autogara este la 10 minute de mers pe jos de plajă."
+        ],
+        "en": [
+          "The 'Dofí Jet' boat connects Tossa with other coastal towns.",
+          "The Carrilet (tourist train) is ideal for families.",
+          "The bus station is a 10-minute walk from the beach."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie den touristischen Zug zur Vila Vella und erkunden Sie das Stadtmuseum sowie die Statue von Ava Gardner. Am Nachmittag bringt Sie ein kurzer Spaziergang oder der Bus zur römischen Villa dels Ametllers.",
+            "hu": "Használja a turistavonatot a Vila Vella eléréséhez, fedezze fel a városi múzeumot és Ava Gardner szobrát. Délután egy rövid séta vagy buszozás után látogassa meg a Vil·la dels Ametllers római romjait.",
+            "ro": "Folosiți trenulețul turistic pentru a ajunge la Vila Vella și explorați muzeul municipal și statuia Avei Gardner. După-amiaza, o scurtă plimbare sau autobuzul vă duce la vila romană dels Ametllers.",
+            "en": "Use the tourist train to reach Vila Vella and explore the municipal museum and Ava Gardner's statue. In the afternoon, a short walk or bus ride takes you to the Roman villa dels Ametllers."
+          },
+          "stops": [
+            {
+              "name": "Platja Gran",
+              "tip_5lang": {
+                "de": "Hier legen die Ausflugsboote ab.",
+                "hu": "Innen indulnak a kirándulóhajók.",
+                "ro": "De aici pleacă bărcile de excursie.",
+                "en": "This is where the excursion boats depart."
+              }
+            },
+            {
+              "name": "Vila Vella",
+              "tip_5lang": {
+                "de": "Der Touristenzug bringt Sie bequem nach oben.",
+                "hu": "A turistavonat kényelmesen felviszi a hegyre.",
+                "ro": "Trenulețul turistic vă duce confortabil sus.",
+                "en": "The tourist train takes you comfortably to the top."
+              }
+            },
+            {
+              "name": "Museu Municipal de Tossa",
+              "tip_5lang": {
+                "de": "Kulturstopp im Herzen der Festung.",
+                "hu": "Kulturális megálló az erőd szívében.",
+                "ro": "Oprire culturală în inima cetății.",
+                "en": "Cultural stop in the heart of the fortress."
+              }
+            },
+            {
+              "name": "Estàtua d'Ava Gardner",
+              "tip_5lang": {
+                "de": "Ein Muss für Filmfans.",
+                "hu": "Filmrajongóknak kötelező.",
+                "ro": "Obligatoriu pentru fanii filmului.",
+                "en": "A must for movie fans."
+              }
+            },
+            {
+              "name": "Vil·la romana dels Ametllers",
+              "tip_5lang": {
+                "de": "In der Nähe der Bushaltestelle gelegen.",
+                "hu": "A buszmegálló közelében található.",
+                "ro": "Situat aproape de stația de autobuz.",
+                "en": "Located near the bus station."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Restaurant Victoria",
+                "tip": "Klassische katalanische Küche am Meer."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Restaurant Victoria",
+                "tip": "Klasszikus katalán konyha a tengerparton."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Restaurant Victoria",
+                "tip": "Bucătărie catalană clasică lângă mare."
+              }
+            ],
+            "en": [
+              {
+                "name": "Restaurant Victoria",
+                "tip": "Classic Catalan cuisine by the sea."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Pfarrgarten",
+                "tip": "Ruhiger Platz hinter der Kirche.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Plébániakert",
+                "tip": "Csendes tér a templom mögött.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Grădina parohială",
+                "tip": "Loc liniștit în spatele bisericii.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Parish Garden",
+                "tip": "Quiet spot behind the church.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Lokale Konditoreien",
+                "tip": "Probieren Sie die 'Besos de Tossa'."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Helyi cukrászdák",
+                "tip": "Kóstolja meg a 'Besos de Tossa'-t."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Cofetării locale",
+                "tip": "Gustați 'Besos de Tossa'."
+              }
+            ],
+            "en": [
+              {
+                "name": "Local Pastries",
+                "tip": "Try the 'Besos de Tossa'."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Das Boot 'Dofí Jet' verbindet Tossa mit anderen Küstenorten.",
+              "Der Carrilet (Touristenzug) ist ideal für Familien.",
+              "Der Busbahnhof ist 10 Minuten zu Fuß vom Strand entfernt."
+            ],
+            "hu": [
+              "A 'Dofí Jet' hajó összeköti Tossát más parti városokkal.",
+              "A Carrilet (turistavonat) ideális családoknak.",
+              "A buszállomás 10 perces sétára van a strandtól."
+            ],
+            "ro": [
+              "Barca 'Dofí Jet' conectează Tossa cu alte orașe de pe coastă.",
+              "Carrilet (trenulețul turistic) este ideal pentru familii.",
+              "Autogara este la 10 minute de mers pe jos de plajă."
+            ],
+            "en": [
+              "The 'Dofí Jet' boat connects Tossa with other coastal towns.",
+              "The Carrilet (tourist train) is ideal for families.",
+              "The bus station is a 10-minute walk from the beach."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Morgen beginnt an der Platja Gran. Der Busbahnhof ist nah, so dass Sie schnell im Trockenen sind.\n\nMittags bringt Sie der Pendelbus bequem zur Vila Vella. Die Mauern im Regen wirken fast wie in einem Filmset.\n\nNachmittags bietet das Stadtmuseum den perfekten Schutz vor den Schauern. Tauchen Sie in die Geschichte Tossas ein, während es draußen stürmt.\n\nDer Tag endet mit einem kurzen Sprint zur Ava-Gardner-Statue und zur römischen Villa, bevor Sie mit dem Bus zurückfahren.",
+            "hu": "Az esős reggel a Platja Grannál indul. A buszpályaudvar közel van, így gyorsan fedett helyre érhet.\n\nDélben az ingajárat kényelmesen felviszi a Vila Vellához. Az esőben a falak úgy festenek, mint egy filmdíszlet.\n\nDélután a Városi Múzeum kínál tökéletes védelmet a záporok elől. Merüljön el Tossa történelmében, amíg kint tombol a vihar.\n\nA nap rövid futással zárul az Ava Gardner szoborhoz és a római villához, mielőtt busszal visszautazna.",
+            "ro": "O dimineață ploioasă începe la Platja Gran. Autogara este aproape, așa că ajungeți rapid la adăpost.\n\nLa prânz, autobuzul de transfer vă duce confortabil la Vila Vella. Zidurile în ploaie par desprinse dintr-un decor de film.\n\nDupă-amiaza, Muzeul Municipal oferă protecția perfectă împotriva averselor. Explorați istoria orașului Tossa în timp ce afară plouă.\n\nZiua se încheie cu un scurt sprint spre statuia Avei Gardner și vila romană, înainte de a lua autobuzul înapoi.",
+            "en": "A rainy morning starts at Platja Gran. The bus station is nearby, so you can quickly get to shelter.\n\nAt noon, the shuttle bus takes you comfortably to Vila Vella. The walls in the rain look almost like a movie set.\n\nIn the afternoon, the Municipal Museum offers perfect protection from the showers. Immerse yourself in Tossa's history while it storms outside.\n\nThe day ends with a quick dash to the Ava Gardner statue and the Roman villa before taking the bus back."
+          },
+          "stops": [
+            {
+              "name": "Platja Gran",
+              "tip_5lang": {
+                "de": "Die Bushaltestellen an der Hauptstraße bieten kleine Unterstände.",
+                "hu": "A főúton lévő buszmegállók kis várókkal rendelkeznek.",
+                "ro": "Stațiile de autobuz de pe drumul principal au mici adăposturi.",
+                "en": "The bus stops on the main road have small shelters."
+              }
+            },
+            {
+              "name": "Vila Vella",
+              "tip_5lang": {
+                "de": "Der Touristenzug (Carrilet) fährt auch bei Regen und ist überdacht.",
+                "hu": "A kisvonat (Carrilet) esőben is közlekedik és fedett.",
+                "ro": "Trenulețul turistic (Carrilet) circulă și pe ploaie și este acoperit.",
+                "en": "The tourist train (Carrilet) runs even in the rain and is covered."
+              }
+            },
+            {
+              "name": "Museu Municipal de Tossa",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um die Zeit bis zum nächsten Bus trocken zu überbrücken.",
+                "hu": "Ideális hely a következő buszig hátralévő idő szárazon való eltöltésére.",
+                "ro": "Un loc ideal pentru a aștepta următorul autobuz la adăpost.",
+                "en": "An ideal place to wait for the next bus while staying dry."
+              }
+            },
+            {
+              "name": "Estàtua d'Ava Gardner",
+              "tip_5lang": {
+                "de": "Die Statue ist nur einen kurzen Fußweg von den überdachten Gassen entfernt.",
+                "hu": "A szobor csak egy rövid sétára van a fedett utcácskáktól.",
+                "ro": "Statuia se află la doar o scurtă plimbare de străzile acoperite.",
+                "en": "The statue is just a short walk away from the covered alleys."
+              }
+            },
+            {
+              "name": "Vil·la romana dels Ametllers",
+              "tip_5lang": {
+                "de": "Die Haltestelle ist nah am Eingang; halten Sie den Schirm bereit.",
+                "hu": "A megálló közel van a bejárathoz; tartsa készenlétben az esernyőt.",
+                "ro": "Stația este aproape de intrare; țineți umbrela pregătită.",
+                "en": "The stop is near the entrance; keep your umbrella ready."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Fahrplan des Carrilet-Zugs bei schlechtem Wetter.",
+              "Halten Sie Kleingeld oder Ihre App für das Ticket bereit.",
+              "Der Busbahnhof in Tossa hat einen überdachten Wartebereich.",
+              "Tragen Sie eine Regenjacke, da der Weg zur Haltestelle nass sein kann.",
+              "Rechnen Sie mit leichten Verzögerungen im Verkehr bei starkem Regen."
+            ],
+            "hu": [
+              "Rossz időben ellenőrizze a Carrilet kisvonat menetrendjét.",
+              "Tartson készenlétben aprópénzt vagy az alkalmazást a jegyhez.",
+              "Tossa buszpályaudvarán fedett várakozóhely található.",
+              "Viseljen esőkabátot, mert a megállóig vezető út vizes lehet.",
+              "Számoljon kisebb forgalmi akadályokkal heves esőzés esetén."
+            ],
+            "ro": [
+              "Verificați programul trenulețului Carrilet în caz de vreme rea.",
+              "Aveți pregătit mărunt sau aplicația pentru bilet.",
+              "Autogara din Tossa are o zonă de așteptare acoperită.",
+              "Purtați pelerină, deoarece drumul spre stație poate fi umed.",
+              "Luați în calcul mici întârzieri în trafic pe timp de ploaie puternică."
+            ],
+            "en": [
+              "Check the Carrilet train schedule during bad weather.",
+              "Have small change or your app ready for the ticket.",
+              "The bus station in Tossa has a covered waiting area.",
+              "Wear a raincoat as the path to the stop might be wet.",
+              "Expect slight traffic delays during heavy rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen startet an der Platja Gran. Die Busse sind leer und die Fahrt durch den Ort ist entspannt.\n\nMittags bringt Sie der Bus zur Vila Vella. Die frische Luft in der Burg ist belebend und der Ausblick klarer als im Sommer.\n\nNachmittags lädt das Stadtmuseum zum Aufwärmen ein. Genießen Sie die Kunstwerke in aller Ruhe ohne den Trubel der Hochsaison.\n\nDer späte Nachmittag führt zur Ava-Gardner-Statue und zur römischen Villa, bevor Sie bequem mit dem Bus zum Ausgangspunkt zurückkehren.",
+            "hu": "Tiszta téli reggel indul a Platja Grannál. A buszok üresek, a városon átvezető út pedig pihentető.\n\nDélben a busz elviszi a Vila Vellához. A friss levegő a várban élénkítő, a kilátás pedig tisztább, mint nyáron.\n\nDélután a Városi Múzeum hívogat egy kis felmelegedésre. Élvezze a műalkotásokat teljes nyugalomban, a főszezoni zsivaj nélkül.\n\nA késő délután az Ava Gardner szoborhoz és a római villához vezet, mielőtt kényelmesen visszabuszozna a kiindulópontra.",
+            "ro": "O dimineață senină de iarnă începe la Platja Gran. Autobuzele sunt goale, iar drumul prin oraș este relaxant.\n\nLa prânz, autobuzul vă duce la Vila Vella. Aerul proaspăt din cetate este revigorant, iar vederea mai clară decât vara.\n\nDupă-amiaza, Muzeul Municipal vă invită la căldură. Admirați operele de artă în liniște deplină, fără agitația din plin sezon.\n\nTârziu după-amiaza mergeți la statuia Avei Gardner și la vila romană, înainte de a reveni confortabil cu autobuzul la punctul de plecare.",
+            "en": "A clear winter morning starts at Platja Gran. The buses are empty, and the ride through town is relaxed.\n\nAt noon, the bus takes you to Vila Vella. The crisp air in the castle is invigorating, and the view is clearer than in summer.\n\nIn the afternoon, the Municipal Museum invites you to warm up. Enjoy the artworks in peace without the high-season bustle.\n\nLate afternoon leads to the Ava Gardner statue and the Roman villa before you comfortably return to the starting point by bus."
+          },
+          "stops": [
+            {
+              "name": "Platja Gran",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Winterfahrplan, da weniger Busse fahren könnten.",
+                "hu": "Ellenőrizze a téli menetrendet, mert ritkábban járhatnak a buszok.",
+                "ro": "Verificați programul de iarnă, deoarece pot circula mai puține autobuze.",
+                "en": "Check the winter schedule, as fewer buses might be running."
+              }
+            },
+            {
+              "name": "Vila Vella",
+              "tip_5lang": {
+                "de": "Der Carrilet-Zug hat im Winter oft eingeschränkte Fahrzeiten.",
+                "hu": "A Carrilet kisvonatnak télen gyakran korlátozott a menetideje.",
+                "ro": "Trenulețul Carrilet are adesea ore de funcționare reduse iarna.",
+                "en": "The Carrilet train often has limited operating hours in winter."
+              }
+            },
+            {
+              "name": "Museu Municipal de Tossa",
+              "tip_5lang": {
+                "de": "Die Räume sind gut beheizt und bieten eine angenehme Pause.",
+                "hu": "A termek jól fűtöttek, kellemes pihenőt kínálnak.",
+                "ro": "Sălile sunt bine încălzite și oferă o pauză plăcută.",
+                "en": "The rooms are well-heated and offer a pleasant break."
+              }
+            },
+            {
+              "name": "Estàtua d'Ava Gardner",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle in der Nähe wird im Winter seltener bedient.",
+                "hu": "A közeli buszmegállót télen ritkábban érintik a járatok.",
+                "ro": "Stația de autobuz din apropiere este deservită mai rar iarna.",
+                "en": "The nearby bus stop is served less frequently in winter."
+              }
+            },
+            {
+              "name": "Vil·la romana dels Ametllers",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Bus für den Rückweg, wenn es nach 17:00 Uhr abkühlt.",
+                "hu": "Használja a buszt a visszaúthoz, ha 17:00 után lehűl az idő.",
+                "ro": "Folosiți autobuzul pentru întoarcere dacă se face frig după ora 17:00.",
+                "en": "Use the bus for the return trip if it cools down after 5:00 PM."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Der Busbahnhof bietet Schutz vor dem kalten Winterwind.",
+              "Einige Linien verkehren im Winter nur auf Abruf oder seltener.",
+              "Die Busse sind gut beheizt; ideal zum Aufwärmen zwischen den Stopps.",
+              "Planen Sie Ihre Fahrten so, dass Sie vor Sonnenuntergang zurück sind.",
+              "In der Nebensaison ist es im Bus deutlich entspannter als im Sommer."
+            ],
+            "hu": [
+              "A buszpályaudvar védelmet nyújt a hideg téli szél elől.",
+              "Néhány járat télen csak igény esetén vagy ritkábban közlekedik.",
+              "A buszok jól fűtöttek; ideálisak a felmelegedésre a megállók között.",
+              "Úgy tervezze az utazást, hogy naplemente előtt visszaérjen.",
+              "A főszezonon kívül sokkal nyugodtabb a buszozás, mint nyáron."
+            ],
+            "ro": [
+              "Autogara oferă protecție împotriva vântului rece de iarnă.",
+              "Unele linii circulă iarna doar la cerere sau mai rar.",
+              "Autobuzele sunt bine încălzite; ideale pentru încălzire între opriri.",
+              "Planificați călătoriile astfel încât să reveniți înainte de apus.",
+              "În extrasezon, mersul cu autobuzul este mult mai relaxat decât vara."
+            ],
+            "en": [
+              "The bus station provides shelter from the cold winter wind.",
+              "Some lines operate only on demand or less frequently in winter.",
+              "Buses are well-heated; ideal for warming up between stops.",
+              "Plan your trips to be back before sunset.",
+              "In the low season, taking the bus is much more relaxed than in summer."
+            ]
+          }
+        }
+      }
+    }
+  },
+  "external_resources": {
+    "tourism_office": "https://infotossa.com/",
+    "transit_official": "https://www.sagales.com/",
+    "events": "https://www.civitatis.com/en/tossa-de-mar/",
+    "webcam": "https://www.skylinewebcams.com/en/webcam/espana/cataluna/girona/tossa-de-mar.html",
+    "parking_real_time": "https://www.parclick.es/",
+    "restaurants_booking": "https://www.thefork.com/",
+    "language_tips": {
+      "de": "In Tossa de Mar wird Katalanisch und Spanisch gesprochen. 'Bon dia' (Guten Tag) und 'Gràcies' (Danke) werden sehr geschätzt. Im Tourismusbüro und in den Restaurants wird gut Englisch gesprochen, am Strand hört man oft auch Französisch und Deutsch.",
+      "hu": "Tossa de Marban katalánul és spanyolul beszélnek. Egy kedves 'Bon dia' (jó napot) és 'Gràcies' (köszönöm) komoly szimpátiát hoz a helyiektől. Az infoponton és a partmenti éttermekben jól megy az angol, a strandon szinte minden európai nyelvet hallani.",
+      "ro": "În Tossa de Mar se vorbește catalană și spaniolă. Un 'Bon dia' și 'Gràcies' în catalană sunt apreciate sincer de localnici. La oficiul de turism și în restaurante engleza merge bine, iar pe plajă auzi adesea franceză și germană.",
+      "en": "Tossa de Mar speaks Catalan and Spanish. A simple 'Bon dia' (hello) and 'Gràcies' (thanks) in Catalan goes a long way with locals. English works fine at the tourist office and beachfront restaurants, and you'll often hear French and German along the promenade."
+    },
+    "best_time_to_visit": {
+      "de": "Mai bis Juni und September sind ideal: warmes Meer, weniger Menschen, milde 22 bis 27 Grad. Juli und August sind sehr voll, vor allem die Platja Gran. Im Winter ist die Altstadt Vila Vella menschenleer und magisch.",
+      "hu": "Május-június és szeptember a legjobb: meleg tenger, kevesebb tömeg, kellemes 22-27 fok. Júliusban-augusztusban zsúfolt, főleg a Platja Gran. Télen az óváros, a Vila Vella szinte üres és varázslatos a fények alatt.",
+      "ro": "Mai-iunie și septembrie sunt ideale: marea caldă, mai puțină aglomerație, 22-27 grade. Iulie-august sunt foarte aglomerate, mai ales Platja Gran. Iarna, orașul vechi Vila Vella e gol și magic, perfect pentru fotografii.",
+      "en": "May-June and September are ideal: warm sea, fewer crowds, pleasant 22-27 degrees. July-August get packed, especially Platja Gran. In winter the old town Vila Vella is almost empty and magical at golden hour."
+    },
+    "neighborhood_warnings": {
+      "de": "Tossa ist sehr sicher, auch nachts in der Altstadt. Achten Sie am Strand und am Busbahnhof auf Taschendiebe in der Hochsaison. Die Klippenwege bei Cap de Tossa sind bei Regen rutschig, festes Schuhwerk lohnt sich.",
+      "hu": "Tossa nagyon biztonságos, éjjel is nyugodtan járhatsz az óvárosban. A strandon és a buszállomáson főszezonban figyelj a zsebtolvajokra. A Cap de Tossa szikla-ösvényei esőben csúszósak, zárt cipő kell hozzájuk.",
+      "ro": "Tossa este foarte sigur, chiar și noaptea în Vila Vella. La plajă și în autogară, în plin sezon, atenție la buzunarele deschise. Potecile de pe stânci spre Cap de Tossa devin alunecoase pe ploaie, ai nevoie de încălțări închise.",
+      "en": "Tossa feels very safe, even after dark in the old town. Watch for pickpockets at the beach and bus station in peak season. The cliff paths around Cap de Tossa get slippery in rain, so wear closed shoes."
+    }
+  }
+}

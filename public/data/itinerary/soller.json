@@ -1,0 +1,2509 @@
+{
+  "city_id": "soller",
+  "anchor": {
+    "name": "Sóller",
+    "coords": [
+      2.7156,
+      39.7672
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 3.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Plaza de la Constitución",
+            "hu": "Plaza de la Constitución",
+            "ro": "Plaza de la Constitución",
+            "en": "Constitution Square"
+          },
+          "coords": [
+            2.7156,
+            39.7672
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Trinken Sie einen frischen Orangensaft.",
+            "hu": "Igyon egy frissen facsart narancslevet.",
+            "ro": "Beți un suc proaspăt de portocale.",
+            "en": "Drink a fresh orange juice."
+          }
+        },
+        {
+          "name": {
+            "de": "Iglesia de San Bartolomé",
+            "hu": "Szent Bertalan-templom",
+            "ro": "Biserica Sfântul Bartolomeu",
+            "en": "Saint Bartholomew Church"
+          },
+          "coords": [
+            2.7158,
+            39.7675
+          ],
+          "category": "religious",
+          "arrive_at": "09:50",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Die modernistische Fassade ist einzigartig.",
+            "hu": "A modernista homlokzat egyedülálló.",
+            "ro": "Fațada modernistă este unică.",
+            "en": "The modernist facade is unique."
+          }
+        },
+        {
+          "name": {
+            "de": "Banco de Sóller",
+            "hu": "Sóller Banképülete",
+            "ro": "Banca Sóller",
+            "en": "Bank of Sóller"
+          },
+          "coords": [
+            2.716,
+            39.7674
+          ],
+          "category": "monuments",
+          "arrive_at": "10:50",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Entworfen von einem Schüler Gaudís.",
+            "hu": "Gaudí egyik tanítványa tervezte.",
+            "ro": "Proiectată de un elev al lui Gaudí.",
+            "en": "Designed by a pupil of Gaudí."
+          }
+        },
+        {
+          "name": {
+            "de": "Can Prunera",
+            "hu": "Can Prunera Múzeum",
+            "ro": "Can Prunera",
+            "en": "Can Prunera Museum"
+          },
+          "coords": [
+            2.7165,
+            39.7665
+          ],
+          "category": "museums",
+          "arrive_at": "11:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Wunderschönes Jugendstilgebäude.",
+            "hu": "Gyönyörű szecessziós épület.",
+            "ro": "Clădire Art Nouveau superbă.",
+            "en": "Beautiful Art Nouveau building."
+          }
+        },
+        {
+          "name": {
+            "de": "Jardín Botánico",
+            "hu": "Botanikus kert",
+            "ro": "Grădina Botanică",
+            "en": "Botanical Garden"
+          },
+          "coords": [
+            2.7135,
+            39.764
+          ],
+          "category": "parks",
+          "arrive_at": "13:35",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Flora der Balearen.",
+            "hu": "Fedezze fel a Baleár-szigetek flóráját.",
+            "ro": "Descoperiți flora Insulelor Baleare.",
+            "en": "Discover the flora of the Balearic Islands."
+          }
+        },
+        {
+          "name": {
+            "de": "Ferrocarril de Sóller",
+            "hu": "Sólleri vasútállomás",
+            "ro": "Gara Sóller",
+            "en": "Sóller Railway Station"
+          },
+          "coords": [
+            2.7145,
+            39.7685
+          ],
+          "category": "industrial",
+          "arrive_at": "16:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Sehen Sie den alten Holzzug.",
+            "hu": "Nézze meg a régi faborítású vonatot.",
+            "ro": "Vedeți vechiul tren din lemn.",
+            "en": "See the old wooden train."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag auf dem lebhaften Hauptplatz mit Blick auf die beeindruckende Kirche San Bartolomé. Nach dem Besuch des modernistischen Bankgebäudes tauchen Sie im Can Prunera in die Welt des Jugendstils ein. Am Nachmittag entspannen Sie im Botanischen Garten, bevor Sie den historischen Bahnhof besichtigen, wo die berühmte Holzeisenbahn startet.",
+        "hu": "Kezdje a napot a nyüzsgő főtéren, ahonnan remek kilátás nyílik a lenyűgöző Szent Bertalan-templomra. A modernista banképület után a Can Prunera múzeumban merülhet el a szecesszió világában. Délután a botanikus kertben pihenhet meg, végül pedig látogasson el a patinás vasútállomásra, ahonnan a híres faborítású vonat indul.",
+        "ro": "Începeți ziua în piața principală plină de viață, cu vedere spre impresionanta biserică San Bartolomé. După vizitarea băncii moderniste, pătrundeți în lumea Art Nouveau la Can Prunera. După-amiaza relaxați-vă în Grădina Botanică, înainte de a vizita gara istorică, de unde pleacă faimosul tren de lemn.",
+        "en": "Start your day in the lively main square with a view of the impressive San Bartolomé church. After visiting the modernist bank building, dive into the world of Art Nouveau at Can Prunera. In the afternoon, relax in the Botanical Garden before visiting the historic railway station where the famous wooden train departs."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Sóller-Garnelen",
+            "tip": "Probieren Sie die roten Garnelen am Hafen."
+          },
+          {
+            "name": "Ensaimada",
+            "tip": "Typisches mallorquinisches Gebäck."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sólleri rák",
+            "tip": "Kóstolja meg a vörös rákot a kikötőben."
+          },
+          {
+            "name": "Ensaimada",
+            "tip": "Tipikus mallorcai péksütemény."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Creveți de Sóller",
+            "tip": "Încercați creveții roșii în port."
+          },
+          {
+            "name": "Ensaimada",
+            "tip": "Produs de patiserie tipic mallorcan."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sóller Prawns",
+            "tip": "Try the famous red prawns at the port."
+          },
+          {
+            "name": "Ensaimada",
+            "tip": "Typical Mallorcan pastry."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Jardín Botánico",
+            "tip": "Oase der Ruhe im Tal.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Botanikus kert",
+            "tip": "A nyugalom oázisa a völgyben.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Botanică",
+            "tip": "Oază de liniște în vale.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Botanical Garden",
+            "tip": "Oasis of peace in the valley.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fet a Sóller",
+            "tip": "Produkte aus lokalen Orangen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fet a Sóller",
+            "tip": "Helyi narancsból készült termékek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fet a Sóller",
+            "tip": "Produse din portocale locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fet a Sóller",
+            "tip": "Products made from local oranges."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Samstags ist Markttag in Sóller.",
+          "Die Orangenblüte im Frühling ist magisch."
+        ],
+        "hu": [
+          "Szombatonként piacnapot tartanak Sóllerben.",
+          "Tavasszal a narancsvirágzás varázslatos."
+        ],
+        "ro": [
+          "Sâmbăta este zi de piață în Sóller.",
+          "Înflorirea portocalilor primăvara este magică."
+        ],
+        "en": [
+          "Saturday is market day in Sóller.",
+          "Orange blossom in spring is magical."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag auf dem lebhaften Hauptplatz mit Blick auf die beeindruckende Kirche San Bartolomé. Nach dem Besuch des modernistischen Bankgebäudes tauchen Sie im Can Prunera in die Welt des Jugendstils ein. Am Nachmittag entspannen Sie im Botanischen Garten, bevor Sie den historischen Bahnhof besichtigen, wo die berühmte Holzeisenbahn startet.",
+            "hu": "Kezdje a napot a nyüzsgő főtéren, ahonnan remek kilátás nyílik a lenyűgöző Szent Bertalan-templomra. A modernista banképület után a Can Prunera múzeumban merülhet el a szecesszió világában. Délután a botanikus kertben pihenhet meg, végül pedig látogasson el a patinás vasútállomásra, ahonnan a híres faborítású vonat indul.",
+            "ro": "Începeți ziua în piața principală plină de viață, cu vedere spre impresionanta biserică San Bartolomé. După vizitarea băncii moderniste, pătrundeți în lumea Art Nouveau la Can Prunera. După-amiaza relaxați-vă în Grădina Botanică, înainte de a vizita gara istorică, de unde pleacă faimosul tren de lemn.",
+            "en": "Start your day in the lively main square with a view of the impressive San Bartolomé church. After visiting the modernist bank building, dive into the world of Art Nouveau at Can Prunera. In the afternoon, relax in the Botanical Garden before visiting the historic railway station where the famous wooden train departs."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Plaza de la Constitución",
+                "hu": "Plaza de la Constitución",
+                "ro": "Plaza de la Constitución",
+                "en": "Constitution Square"
+              },
+              "tip_5lang": {
+                "de": "Trinken Sie einen frischen Orangensaft.",
+                "hu": "Igyon egy frissen facsart narancslevet.",
+                "ro": "Beți un suc proaspăt de portocale.",
+                "en": "Drink a fresh orange juice."
+              }
+            },
+            {
+              "name": {
+                "de": "Iglesia de San Bartolomé",
+                "hu": "Szent Bertalan-templom",
+                "ro": "Biserica Sfântul Bartolomeu",
+                "en": "Saint Bartholomew Church"
+              },
+              "tip_5lang": {
+                "de": "Die modernistische Fassade ist einzigartig.",
+                "hu": "A modernista homlokzat egyedülálló.",
+                "ro": "Fațada modernistă este unică.",
+                "en": "The modernist facade is unique."
+              }
+            },
+            {
+              "name": {
+                "de": "Banco de Sóller",
+                "hu": "Sóller Banképülete",
+                "ro": "Banca Sóller",
+                "en": "Bank of Sóller"
+              },
+              "tip_5lang": {
+                "de": "Entworfen von einem Schüler Gaudís.",
+                "hu": "Gaudí egyik tanítványa tervezte.",
+                "ro": "Proiectată de un elev al lui Gaudí.",
+                "en": "Designed by a pupil of Gaudí."
+              }
+            },
+            {
+              "name": {
+                "de": "Can Prunera",
+                "hu": "Can Prunera Múzeum",
+                "ro": "Can Prunera",
+                "en": "Can Prunera Museum"
+              },
+              "tip_5lang": {
+                "de": "Wunderschönes Jugendstilgebäude.",
+                "hu": "Gyönyörű szecessziós épület.",
+                "ro": "Clădire Art Nouveau superbă.",
+                "en": "Beautiful Art Nouveau building."
+              }
+            },
+            {
+              "name": {
+                "de": "Jardín Botánico",
+                "hu": "Botanikus kert",
+                "ro": "Grădina Botanică",
+                "en": "Botanical Garden"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie die Flora der Balearen.",
+                "hu": "Fedezze fel a Baleár-szigetek flóráját.",
+                "ro": "Descoperiți flora Insulelor Baleare.",
+                "en": "Discover the flora of the Balearic Islands."
+              }
+            },
+            {
+              "name": {
+                "de": "Ferrocarril de Sóller",
+                "hu": "Sólleri vasútállomás",
+                "ro": "Gara Sóller",
+                "en": "Sóller Railway Station"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie den alten Holzzug.",
+                "hu": "Nézze meg a régi faborítású vonatot.",
+                "ro": "Vedeți vechiul tren din lemn.",
+                "en": "See the old wooden train."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Sóller-Garnelen",
+                "tip": "Probieren Sie die roten Garnelen am Hafen."
+              },
+              {
+                "name": "Ensaimada",
+                "tip": "Typisches mallorquinisches Gebäck."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Sólleri rák",
+                "tip": "Kóstolja meg a vörös rákot a kikötőben."
+              },
+              {
+                "name": "Ensaimada",
+                "tip": "Tipikus mallorcai péksütemény."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Creveți de Sóller",
+                "tip": "Încercați creveții roșii în port."
+              },
+              {
+                "name": "Ensaimada",
+                "tip": "Produs de patiserie tipic mallorcan."
+              }
+            ],
+            "en": [
+              {
+                "name": "Sóller Prawns",
+                "tip": "Try the famous red prawns at the port."
+              },
+              {
+                "name": "Ensaimada",
+                "tip": "Typical Mallorcan pastry."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Jardín Botánico",
+                "tip": "Oase der Ruhe im Tal.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Botanikus kert",
+                "tip": "A nyugalom oázisa a völgyben.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Grădina Botanică",
+                "tip": "Oază de liniște în vale.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Botanical Garden",
+                "tip": "Oasis of peace in the valley.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Fet a Sóller",
+                "tip": "Produkte aus lokalen Orangen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Fet a Sóller",
+                "tip": "Helyi narancsból készült termékek."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Fet a Sóller",
+                "tip": "Produse din portocale locale."
+              }
+            ],
+            "en": [
+              {
+                "name": "Fet a Sóller",
+                "tip": "Products made from local oranges."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Samstags ist Markttag in Sóller.",
+              "Die Orangenblüte im Frühling ist magisch."
+            ],
+            "hu": [
+              "Szombatonként piacnapot tartanak Sóllerben.",
+              "Tavasszal a narancsvirágzás varázslatos."
+            ],
+            "ro": [
+              "Sâmbăta este zi de piață în Sóller.",
+              "Înflorirea portocalilor primăvara este magică."
+            ],
+            "en": [
+              "Saturday is market day in Sóller.",
+              "Orange blossom in spring is magical."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt unter den Arkaden am Hauptplatz, während der Regen die Berge verhüllt. Mittags bietet die prächtige Kirche Sant Bartomeu trockenen Unterschlupf. Am Nachmittag erkunden Sie das Kunstmuseum Can Prunera. Den Tag lassen Sie am überdachten Bahnhof bei einem Kaffee ausklingen.",
+            "hu": "A reggel a főtér árkádjai alatt indul, miközben a felhők ráülnek a hegyekre. Délben a Sant Bartomeu templom nyújt menedéket a zápor elől. Délután fedezze fel a Can Prunera múzeum belső termeit. Az estét a vasútállomás fedett peronjai mellett, egy kávéval zárja.",
+            "ro": "Dimineața începe sub arcadele pieței, în timp ce ploaia acoperă munții. La prânz, biserica Sant Bartomeu oferă un adăpost uscat și liniștit. După-amiaza este dedicată artei în muzeul Can Prunera. Încheiați ziua la gara acoperită, savurând o cafea caldă.",
+            "en": "Start your morning under the square's arches while the rain veils the mountains. At noon, the Saint Bartholomew Church provides a dry and peaceful refuge. Spend your afternoon inside the Can Prunera art museum. End the day at the covered railway station with a hot coffee."
+          },
+          "stops": [
+            {
+              "name": "Constitution Square",
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter den Arkaden der Soportales.",
+                "hu": "Keressen menedéket a Los Soportales árkádjai alatt.",
+                "ro": "Căutați adăpost sub arcadele de la Los Soportales.",
+                "en": "Seek shelter under the arches of Los Soportales."
+              }
+            },
+            {
+              "name": "Saint Bartholomew Church",
+              "tip_5lang": {
+                "de": "Ideal, um das prächtige Innere trocken zu bewundern.",
+                "hu": "Ideális hely a belső tér szárazon történő megcsodálására.",
+                "ro": "Ideal pentru a admira interiorul superb fără a te uda.",
+                "en": "Ideal spot to admire the interior while staying dry."
+              }
+            },
+            {
+              "name": "Bank of Sóller",
+              "tip_5lang": {
+                "de": "Betrachten Sie die Fassade geschützt vom gegenüberliegenden Portal.",
+                "hu": "Nézze meg a homlokzatot a szemközti kapualj védelméből.",
+                "ro": "Admirați fațada din protecția portalului de vizavi.",
+                "en": "View the facade from the shelter of the opposite portal."
+              }
+            },
+            {
+              "name": "Can Prunera Museum",
+              "tip_5lang": {
+                "de": "Perfekter Ort für eine lange, trockene Kunstpause.",
+                "hu": "Tökéletes helyszín egy hosszú, száraz művészeti szünethez.",
+                "ro": "Locul perfect pentru o pauză lungă de artă la adăpost.",
+                "en": "Perfect location for a long, dry art break."
+              }
+            },
+            {
+              "name": "Botanical Garden",
+              "tip_5lang": {
+                "de": "Die Gewächshäuser bieten Schutz vor den Schauern.",
+                "hu": "Az üvegházak védelmet nyújtanak a záporok elől.",
+                "ro": "Serele oferă protecție împotriva averselor de ploaie.",
+                "en": "The greenhouses provide shelter from the rain showers."
+              }
+            },
+            {
+              "name": "Sóller Railway Station",
+              "tip_5lang": {
+                "de": "Warten Sie in der historischen, überdachten Bahnhofshalle.",
+                "hu": "Várakozzon a történelmi, fedett állomási csarnokban.",
+                "ro": "Așteptați în holul istoric și acoperit al gării.",
+                "en": "Wait inside the historic, covered railway hall."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Schuhe mit gutem Profil, da das Kopfsteinpflaster rutschig wird.",
+              "Nutzen Sie die Arkaden rund um den Hauptplatz als natürlichen Regenschutz.",
+              "Die Museen in Sóller sind bei Regen hervorragende Rückzugsorte.",
+              "Ein Taschenregenschirm ist in den engen Gassen praktischer als ein großer.",
+              "Das Tramuntana-Gebirge hält oft Wolken fest, seien Sie auf plötzliche Schauer vorbereitet."
+            ],
+            "hu": [
+              "Viseljen jó tapadású cipőt, mert a macskakő vizesen nagyon csúszik.",
+              "Használja a főtér körüli árkádokat természetes esővédőként.",
+              "Sóller múzeumai kiváló menedékhelyek esős időben.",
+              "A szűk utcákban egy összecsukható esernyő praktikusabb a nagynál.",
+              "A Tramuntana-hegység gyakran megfogja a felhőket, készüljön hirtelen záporra."
+            ],
+            "ro": [
+              "Purtați încălțăminte cu aderență bună, deoarece piatra cubică devine alunecoasă.",
+              "Folosiți arcadele din jurul pieței centrale ca protecție naturală contra ploii.",
+              "Muzeele din Sóller sunt refugii excelente pe timp de ploaie.",
+              "O umbrelă pliabilă este mai practică decât una mare pe străzile înguste.",
+              "Munții Tramuntana rețin adesea norii, fiți pregătiți pentru averse bruște."
+            ],
+            "en": [
+              "Wear shoes with good grip as the cobblestones become very slippery when wet.",
+              "Use the arches around the main square as natural rain shelter.",
+              "The museums in Sóller are excellent refuges during rainy weather.",
+              "A compact umbrella is more practical than a large one in narrow streets.",
+              "The Tramuntana mountains often trap clouds, so be ready for sudden showers."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die frische Bergluft und der Duft reifer Orangen begrüßen Sie am Morgen. Mittags wärmt die sanfte Wintersonne den Hauptplatz auf angenehme Weise. Am Nachmittag bietet das beheizte Museum wohlige Wärme. Beenden Sie den Tag früh, bevor die Sonne hinter den schroffen Gipfeln verschwindet.",
+            "hu": "A friss hegyi levegő és az érett narancs illata köszönti reggel. Délben a szelíd téli napsütés kellemesen felmelegíti a főteret. Délután a fűtött múzeum nyújt barátságos meleget. Fejezze be korán a napot, mielőtt a nap eltűnik a meredek csúcsok mögött.",
+            "ro": "Aerul proaspăt de munte și mirosul portocalelor coapte vă întâmpină dimineața. La prânz, soarele blând de iarnă încălzește piața într-un mod plăcut. După-amiaza, muzeul încălzit oferă o căldură primitoare. Încheiați ziua devreme, înainte ca soarele să dispară după creste.",
+            "en": "Crisp mountain air and the scent of ripe oranges greet you in the morning. At noon, the gentle winter sun warms the square comfortably. In the afternoon, the heated museum offers welcoming warmth. End your day early before the sun vanishes behind the jagged peaks."
+          },
+          "stops": [
+            {
+              "name": "Constitution Square",
+              "tip_5lang": {
+                "de": "Genießen Sie die Mittagssonne bei einem frisch gepressten Saft.",
+                "hu": "Élvezze a déli napsütést egy frissen facsart narancslé mellett.",
+                "ro": "Bucurați-vă de soarele de la prânz cu un suc proaspăt stors.",
+                "en": "Enjoy the midday sun with a freshly squeezed orange juice."
+              }
+            },
+            {
+              "name": "Saint Bartholomew Church",
+              "tip_5lang": {
+                "de": "Im Inneren ist es kühler als draußen; behalten Sie Ihre Jacke an.",
+                "hu": "Bent hűvösebb van, mint kint; tartsa magán a kabátját.",
+                "ro": "În interior este mai răcoare decât afară; păstrați geaca pe voi.",
+                "en": "It is cooler inside than outside; keep your jacket on."
+              }
+            },
+            {
+              "name": "Bank of Sóller",
+              "tip_5lang": {
+                "de": "Das Winterlicht hebt die Details der modernistischen Fassade hervor.",
+                "hu": "A téli fény kiemeli a modernista homlokzat részleteit.",
+                "ro": "Lumina de iarnă scoate în evidență detaliile fațadei moderniste.",
+                "en": "Winter light beautifully highlights the modernist facade details."
+              }
+            },
+            {
+              "name": "Can Prunera Museum",
+              "tip_5lang": {
+                "de": "Ein perfekt beheizter Ort für die kühlen Nachmittagsstunden.",
+                "hu": "Tökéletesen fűtött helyszín a hűvös délutáni órákban.",
+                "ro": "Un loc perfect încălzit pentru orele răcoroase de după-amiază.",
+                "en": "A perfectly heated spot for the cool afternoon hours."
+              }
+            },
+            {
+              "name": "Botanical Garden",
+              "tip_5lang": {
+                "de": "Bestrahlen Sie die Winterblüte der mallorquinischen Flora.",
+                "hu": "Csodálja meg a mallorcai flóra téli virágzását.",
+                "ro": "Admirați înflorirea de iarnă a florei din Mallorca.",
+                "en": "Admire the winter blooming of the Mallorcan flora."
+              }
+            },
+            {
+              "name": "Sóller Railway Station",
+              "tip_5lang": {
+                "de": "Im Winter sind die Züge weniger überfüllt und sehr gemütlich.",
+                "hu": "Télen a vonatok kevésbé zsúfoltak és nagyon hangulatosak.",
+                "ro": "Iarna trenurile sunt mai puțin aglomerate și foarte primitoare.",
+                "en": "Trains are less crowded and very cozy during winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Zwiebelschichten, da es im Schatten der Berge schnell abkühlt.",
+              "Die Sonne verschwindet im Winter bereits gegen 17:30 Uhr hinter den Bergen.",
+              "Viele Cafés auf dem Platz haben Heizstrahler für den Außenbereich.",
+              "Der Winter ist die Haupterntezeit für die berühmten Sóller-Orangen.",
+              "Prüfen Sie die Fahrpläne, da der rote Blitz im Winter seltener fährt."
+            ],
+            "hu": [
+              "Öltözzön rétegesen, mert a hegyek árnyékában gyorsan lehűl a levegő.",
+              "A nap télen már 17:30 körül eltűnik a hegyek mögött.",
+              "A főtér legtöbb kávézójában van kültéri hősugárzó.",
+              "A tél a híres sólleri narancs fő szüreti időszaka.",
+              "Ellenőrizze a menetrendet, mert a nosztalgiavonat télen ritkábban jár."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi, deoarece se răcește repede la umbra munților.",
+              "Soarele dispare după munți în jurul orei 17:30 pe timp de iarnă.",
+              "Multe cafenele din piață au încălzitoare pentru terase.",
+              "Iarna este sezonul principal de recoltare a celebrelor portocale de Sóller.",
+              "Verificați orarul, deoarece trenul istoric circulă mai rar iarna."
+            ],
+            "en": [
+              "Dress in layers as it cools down quickly in the shadow of the mountains.",
+              "The sun disappears behind the mountains around 17:30 in winter.",
+              "Many cafes in the square have outdoor heaters for their terraces.",
+              "Winter is the main harvest season for the famous Sóller oranges.",
+              "Check the timetables as the historic train runs less frequently in winter."
+            ]
+          }
+        }
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 6.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ferrocarril de Sóller",
+            "hu": "Sólleri vasútállomás",
+            "ro": "Gara Sóller",
+            "en": "Sóller Railway Station"
+          },
+          "coords": [
+            2.7145,
+            39.7685
+          ],
+          "category": "industrial",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Kommen Sie mit dem Holzzug von Palma.",
+            "hu": "Érkezzen Palmából a történelmi vonattal.",
+            "ro": "Veniți cu trenul de lemn din Palma.",
+            "en": "Arrive from Palma on the wooden train."
+          }
+        },
+        {
+          "name": {
+            "de": "Plaza de la Constitución",
+            "hu": "Városközpont",
+            "ro": "Centrul orașului",
+            "en": "Town Center"
+          },
+          "coords": [
+            2.7156,
+            39.7672
+          ],
+          "category": "squares",
+          "arrive_at": "10:05",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Hier startet die Straßenbahn zum Hafen.",
+            "hu": "Itt indul a villamos a kikötőbe.",
+            "ro": "De aici pleacă tramvaiul spre port.",
+            "en": "The tram to the port starts here."
+          }
+        },
+        {
+          "name": {
+            "de": "Port de Sóller",
+            "hu": "Port de Sóller (Kikötő)",
+            "ro": "Port de Sóller",
+            "en": "Port of Sóller"
+          },
+          "coords": [
+            2.695,
+            39.795
+          ],
+          "category": "port",
+          "arrive_at": "11:20",
+          "stay_min": 150,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Genießen Sie die Fahrt mit der Tram.",
+            "hu": "Élvezze az utat a nyitott villamoson.",
+            "ro": "Bucurați-vă de drumul cu tramvaiul.",
+            "en": "Enjoy the ride on the open tram."
+          }
+        },
+        {
+          "name": {
+            "de": "Museu de la Mar",
+            "hu": "Tengerészeti Múzeum",
+            "ro": "Museu de la Mar",
+            "en": "Maritime Museum"
+          },
+          "coords": [
+            2.693,
+            39.7965
+          ],
+          "category": "museums",
+          "arrive_at": "14:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Wunderbarer Blick über die Bucht.",
+            "hu": "Csodás kilátás nyílik az öbölre.",
+            "ro": "Vedere minunată asupra golfului.",
+            "en": "Wonderful view over the bay."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre Picada",
+            "hu": "Torre Picada őrtorony",
+            "ro": "Torre Picada",
+            "en": "Torre Picada Tower"
+          },
+          "coords": [
+            2.698,
+            39.802
+          ],
+          "category": "castles",
+          "arrive_at": "15:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Kurze Wanderung bergauf.",
+            "hu": "Rövid, meredek séta felfelé.",
+            "ro": "Scurtă drumeție în pantă.",
+            "en": "Short uphill hike."
+          }
+        },
+        {
+          "name": {
+            "de": "Port de Sóller (Tram)",
+            "hu": "Kikötői villamosmegálló",
+            "ro": "Stația de tramvai din port",
+            "en": "Port Tram Stop"
+          },
+          "coords": [
+            2.696,
+            39.7945
+          ],
+          "category": "port",
+          "arrive_at": "16:55",
+          "stay_min": 20,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Rückfahrt nach Sóller.",
+            "hu": "Visszautazás Sóllerbe.",
+            "ro": "Întoarcerea în Sóller.",
+            "en": "Heading back to Sóller."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie die historischen Verkehrsmittel für ein besonderes Erlebnis. Vormittags erkunden Sie das Stadtzentrum und fahren dann mit der charmanten Straßenbahn zum Hafen. Dort verbringen Sie den Mittag am Meer und besuchen das Meeresmuseum. Am Nachmittag wandern Sie zur Torre Picada für einen Fernblick, bevor die Tram Sie zurückbringt.",
+        "hu": "Használja a történelmi járműveket a különleges élményért. Délelőtt a városközpontot fedezzük fel, majd a hangulatos villamossal megyünk le a kikötőbe. Ott a tengerparton töltjük a délutánt, meglátogatjuk a tengerészeti múzeumot és felsétálunk a Torre Picada őrtoronyhoz a panorámáért.",
+        "ro": "Folosiți mijloacele de transport istorice pentru o experiență deosebită. Dimineața explorați centrul orașului, apoi luați tramvaiul fermecător spre port. Acolo petreceți prânzul lângă mare și vizitați muzeul maritim. După-amiaza urcați la Torre Picada pentru panoramă, înainte de revenire.",
+        "en": "Use historic transport for a unique experience. In the morning, explore the town center and take the charming tram to the port. Spend the midday by the sea, visit the maritime museum, and hike up to Torre Picada for panoramic views before the tram takes you back."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Paella",
+            "tip": "Genießen Sie Paella direkt am Hafen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Paella",
+            "tip": "Kóstoljon paellát közvetlenül a kikötőben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Paella",
+            "tip": "Savurați o paella chiar în port."
+          }
+        ],
+        "en": [
+          {
+            "name": "Paella",
+            "tip": "Enjoy paella right by the harbor."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Santa Catalina Viertel",
+            "tip": "Ruhige Gassen im Hafen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Santa Catalina negyed",
+            "tip": "Csendes utcák a kikötőben.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cartierul Santa Catalina",
+            "tip": "Străduțe liniștite în port.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Santa Catalina District",
+            "tip": "Quiet alleys in the port area.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Korbwaren",
+            "tip": "Handgefertigte Taschen aus Mallorca."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kosáráru",
+            "tip": "Kézzel készített mallorcai táskák."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Articole de împletit",
+            "tip": "Genți lucrate manual în Mallorca."
+          }
+        ],
+        "en": [
+          {
+            "name": "Basketware",
+            "tip": "Handmade Mallorcan bags."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie ein Kombiticket für Zug und Straßenbahn.",
+          "Die Straßenbahn ist oft sehr voll, steigen Sie früh ein."
+        ],
+        "hu": [
+          "Váltson kombinált jegyet a vonatra és a villamosra.",
+          "A villamos gyakran zsúfolt, szálljon fel időben."
+        ],
+        "ro": [
+          "Cumpărați un bilet combinat pentru tren și tramvai.",
+          "Tramvaiul este adesea aglomerat, urcați devreme."
+        ],
+        "en": [
+          "Buy a combined ticket for the train and tram.",
+          "The tram can be very crowded, board early."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie die historischen Verkehrsmittel für ein besonderes Erlebnis. Vormittags erkunden Sie das Stadtzentrum und fahren dann mit der charmanten Straßenbahn zum Hafen. Dort verbringen Sie den Mittag am Meer und besuchen das Meeresmuseum. Am Nachmittag wandern Sie zur Torre Picada für einen Fernblick, bevor die Tram Sie zurückbringt.",
+            "hu": "Használja a történelmi járműveket a különleges élményért. Délelőtt a városközpontot fedezzük fel, majd a hangulatos villamossal megyünk le a kikötőbe. Ott a tengerparton töltjük a délutánt, meglátogatjuk a tengerészeti múzeumot és felsétálunk a Torre Picada őrtoronyhoz a panorámáért.",
+            "ro": "Folosiți mijloacele de transport istorice pentru o experiență deosebită. Dimineața explorați centrul orașului, apoi luați tramvaiul fermecător spre port. Acolo petreceți prânzul lângă mare și vizitați muzeul maritim. După-amiaza urcați la Torre Picada pentru panoramă, înainte de revenire.",
+            "en": "Use historic transport for a unique experience. In the morning, explore the town center and take the charming tram to the port. Spend the midday by the sea, visit the maritime museum, and hike up to Torre Picada for panoramic views before the tram takes you back."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ferrocarril de Sóller",
+                "hu": "Sólleri vasútállomás",
+                "ro": "Gara Sóller",
+                "en": "Sóller Railway Station"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie mit dem Holzzug von Palma.",
+                "hu": "Érkezzen Palmából a történelmi vonattal.",
+                "ro": "Veniți cu trenul de lemn din Palma.",
+                "en": "Arrive from Palma on the wooden train."
+              }
+            },
+            {
+              "name": {
+                "de": "Plaza de la Constitución",
+                "hu": "Városközpont",
+                "ro": "Centrul orașului",
+                "en": "Town Center"
+              },
+              "tip_5lang": {
+                "de": "Hier startet die Straßenbahn zum Hafen.",
+                "hu": "Itt indul a villamos a kikötőbe.",
+                "ro": "De aici pleacă tramvaiul spre port.",
+                "en": "The tram to the port starts here."
+              }
+            },
+            {
+              "name": {
+                "de": "Port de Sóller",
+                "hu": "Port de Sóller (Kikötő)",
+                "ro": "Port de Sóller",
+                "en": "Port of Sóller"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Fahrt mit der Tram.",
+                "hu": "Élvezze az utat a nyitott villamoson.",
+                "ro": "Bucurați-vă de drumul cu tramvaiul.",
+                "en": "Enjoy the ride on the open tram."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu de la Mar",
+                "hu": "Tengerészeti Múzeum",
+                "ro": "Museu de la Mar",
+                "en": "Maritime Museum"
+              },
+              "tip_5lang": {
+                "de": "Wunderbarer Blick über die Bucht.",
+                "hu": "Csodás kilátás nyílik az öbölre.",
+                "ro": "Vedere minunată asupra golfului.",
+                "en": "Wonderful view over the bay."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre Picada",
+                "hu": "Torre Picada őrtorony",
+                "ro": "Torre Picada",
+                "en": "Torre Picada Tower"
+              },
+              "tip_5lang": {
+                "de": "Kurze Wanderung bergauf.",
+                "hu": "Rövid, meredek séta felfelé.",
+                "ro": "Scurtă drumeție în pantă.",
+                "en": "Short uphill hike."
+              }
+            },
+            {
+              "name": {
+                "de": "Port de Sóller (Tram)",
+                "hu": "Kikötői villamosmegálló",
+                "ro": "Stația de tramvai din port",
+                "en": "Port Tram Stop"
+              },
+              "tip_5lang": {
+                "de": "Rückfahrt nach Sóller.",
+                "hu": "Visszautazás Sóllerbe.",
+                "ro": "Întoarcerea în Sóller.",
+                "en": "Heading back to Sóller."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Paella",
+                "tip": "Genießen Sie Paella direkt am Hafen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Paella",
+                "tip": "Kóstoljon paellát közvetlenül a kikötőben."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Paella",
+                "tip": "Savurați o paella chiar în port."
+              }
+            ],
+            "en": [
+              {
+                "name": "Paella",
+                "tip": "Enjoy paella right by the harbor."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Santa Catalina Viertel",
+                "tip": "Ruhige Gassen im Hafen.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Santa Catalina negyed",
+                "tip": "Csendes utcák a kikötőben.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Cartierul Santa Catalina",
+                "tip": "Străduțe liniștite în port.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Santa Catalina District",
+                "tip": "Quiet alleys in the port area.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Korbwaren",
+                "tip": "Handgefertigte Taschen aus Mallorca."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Kosáráru",
+                "tip": "Kézzel készített mallorcai táskák."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Articole de împletit",
+                "tip": "Genți lucrate manual în Mallorca."
+              }
+            ],
+            "en": [
+              {
+                "name": "Basketware",
+                "tip": "Handmade Mallorcan bags."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Kaufen Sie ein Kombiticket für Zug und Straßenbahn.",
+              "Die Straßenbahn ist oft sehr voll, steigen Sie früh ein."
+            ],
+            "hu": [
+              "Váltson kombinált jegyet a vonatra és a villamosra.",
+              "A villamos gyakran zsúfolt, szálljon fel időben."
+            ],
+            "ro": [
+              "Cumpărați un bilet combinat pentru tren și tramvai.",
+              "Tramvaiul este adesea aglomerat, urcați devreme."
+            ],
+            "en": [
+              "Buy a combined ticket for the train and tram.",
+              "The tram can be very crowded, board early."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie am Bahnhof und genießen Sie die Fahrt mit der hölzernen Straßenbahn zum Hafen. Mittags bietet das Maritimmuseum Schutz vor dem Küstenregen. Am Nachmittag erkunden Sie die Cafés am Kai. Den Tag beenden Sie mit einer gemütlichen Bahnfahrt zurück ins Stadtzentrum.",
+            "hu": "Kezdje az állomáson, és élvezze a faborítású villamosutat a kikötőbe. Délben a Tengerészeti Múzeum nyújt menedéket a parti eső elől. Délután fedezze fel a rakpart kávézóit. A napot egy hangulatos villamosozással zárja vissza a városközpontba.",
+            "ro": "Începeți la gară și bucurați-vă de călătoria cu tramvaiul din lemn spre port. La prânz, Muzeul Maritim oferă adăpost contra ploii de pe coastă. După-amiaza explorați cafenelele de pe chei. Încheiați ziua cu o călătorie relaxantă înapoi spre centru.",
+            "en": "Start at the station and enjoy the wooden tram ride to the port. At noon, the Maritime Museum provides shelter from the coastal rain. Spend the afternoon in the quayside cafes. End your day with a cozy tram ride back to the town center."
+          },
+          "stops": [
+            {
+              "name": "Sóller Railway Station",
+              "tip_5lang": {
+                "de": "Warten Sie im überdachten Bereich auf die Straßenbahn.",
+                "hu": "Várjon a villamosra a fedett területen.",
+                "ro": "Așteptați tramvaiul în zona acoperită.",
+                "en": "Wait for the tram in the covered area."
+              }
+            },
+            {
+              "name": "Town Center",
+              "tip_5lang": {
+                "de": "Die Geschäfte in den engen Gassen bieten guten Regenschutz.",
+                "hu": "A szűk utcák üzletei jó esővédelmet nyújtanak.",
+                "ro": "Magazinele de pe străzile înguste oferă o bună protecție contra ploii.",
+                "en": "Shops in the narrow streets offer good rain protection."
+              }
+            },
+            {
+              "name": "Port of Sóller",
+              "tip_5lang": {
+                "de": "Die Straßenbahn ist überdacht, aber an den Seiten offen.",
+                "hu": "A villamos fedett, de az oldalai nyitottak.",
+                "ro": "Tramvaiul este acoperit, dar deschis pe părțile laterale.",
+                "en": "The tram is covered but open on the sides."
+              }
+            },
+            {
+              "name": "Maritime Museum",
+              "tip_5lang": {
+                "de": "Ein hervorragender Ort, um den Regen im Hafen auszusitzen.",
+                "hu": "Kiváló hely az eső átvészelésére a kikötőben.",
+                "ro": "Un loc excelent pentru a aștepta trecerea ploii în port.",
+                "en": "An excellent place to wait out the rain in the port."
+              }
+            },
+            {
+              "name": "Torre Picada Tower",
+              "tip_5lang": {
+                "de": "Der Aufstieg kann bei Regen sehr rutschig und schlammig sein.",
+                "hu": "Az emelkedő esőben nagyon csúszós és sáros lehet.",
+                "ro": "Urcarea poate fi foarte alunecoasă și noroioasă pe ploaie.",
+                "en": "The climb can be very slippery and muddy in the rain."
+              }
+            },
+            {
+              "name": "Port Tram Stop",
+              "tip_5lang": {
+                "de": "Der Unterstand am Hafen bietet nur begrenzt Platz.",
+                "hu": "A kikötői esőbeálló csak korlátozott helyet kínál.",
+                "ro": "Adăpostul din port oferă spațiu limitat.",
+                "en": "The shelter at the port provides limited space."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die hölzerne Straßenbahn hat keine Fenster; ein Regenponcho ist ratsam.",
+              "Die Sitze können bei seitlichem Regen nass werden.",
+              "Im Maritimmuseum sind Sie komplett vor dem Wetter geschützt.",
+              "Der Hafen kann bei Sturm sehr windig sein; festes Schuhwerk ist wichtig.",
+              "Nutzen Sie die App des öffentlichen Verkehrs für aktuelle Infos bei Unwettern."
+            ],
+            "hu": [
+              "A fából készült villamosnak nincs ablaka; egy esőponcsó ajánlott.",
+              "Oldalirányú esőnél az ülések vizesek lehetnek.",
+              "A Tengerészeti Múzeumban teljesen védve lesz az időjárástól.",
+              "Viharos időben a kikötő nagyon szeles lehet; a stabil cipő fontos.",
+              "Használja a tömegközlekedési appot a friss infókért rossz idő esetén."
+            ],
+            "ro": [
+              "Tramvaiul de lemn nu are ferestre; o pelerină de ploaie este recomandată.",
+              "Scaunele se pot uda dacă plouă din lateral.",
+              "În Muzeul Maritim sunteți complet protejați de vreme.",
+              "Portul poate fi foarte vântos pe furtună; încălțămintea stabilă e importantă.",
+              "Folosiți aplicația de transport public pentru info actualizate pe timp de furtună."
+            ],
+            "en": [
+              "The wooden tram has no windows; a rain poncho is advisable.",
+              "Seats can get wet if it rains from the side.",
+              "In the Maritime Museum, you are completely protected from the weather.",
+              "The port can be very windy during storms; sturdy footwear is important.",
+              "Use the public transport app for live updates during bad weather."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Am Morgen ist die Fahrt zum Hafen besonders ruhig und malerisch. Mittags glitzert die Wintersonne auf dem Meer in der Bucht. Am Nachmittag laden die beheizten Cafés im Hafen zum Verweilen ein. Die Rückfahrt im Licht der blauen Stunde ist ein echtes Highlight.",
+            "hu": "Reggel a kikötőbe vezető út különösen csendes és festői. Délben a téli nap csillog az öböl vizén. Délután a kikötő fűtött kávézói hívogatnak pihenésre. A kék óra fényében történő visszautazás igazi élmény.",
+            "ro": "Dimineața, drumul spre port este deosebit de liniștit și pitoresc. La prânz, soarele de iarnă sclipește pe apa din golf. După-amiaza, cafenelele încălzite din port vă invită la relaxare. Întoarcerea în lumina orei albastre este o experiență specială.",
+            "en": "The morning ride to the port is particularly quiet and picturesque. At noon, the winter sun glitters on the bay's water. In the afternoon, the heated portside cafes invite you to relax. The return journey during the blue hour light is a real highlight."
+          },
+          "stops": [
+            {
+              "name": "Sóller Railway Station",
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe am Bahnhof ohne die Sommermassen.",
+                "hu": "Élvezze az állomás nyugalmát a nyári tömeg nélkül.",
+                "ro": "Bucurați-vă de liniștea gării fără aglomerația de vară.",
+                "en": "Enjoy the station's peace without the summer crowds."
+              }
+            },
+            {
+              "name": "Town Center",
+              "tip_5lang": {
+                "de": "Besuchen Sie die kleinen Handwerksläden, die auch im Winter offen sind.",
+                "hu": "Látogassa meg a kis kézműves boltokat, amik télen is nyitva vannak.",
+                "ro": "Vizitați micile magazine artizanale deschise și iarna.",
+                "en": "Visit the small artisan shops that stay open in winter."
+              }
+            },
+            {
+              "name": "Port of Sóller",
+              "tip_5lang": {
+                "de": "Die Fahrt mit der Straßenbahn kann im Winter sehr zugig sein.",
+                "hu": "A villamosút télen nagyon huzatos lehet.",
+                "ro": "Călătoria cu tramvaiul poate fi foarte răcoroasă iarna.",
+                "en": "The tram ride can be very drafty in winter."
+              }
+            },
+            {
+              "name": "Maritime Museum",
+              "tip_5lang": {
+                "de": "Die Aussicht vom Museumshügel auf die Bucht ist im Winter klarer.",
+                "hu": "A múzeumi dombról az öbölre nyíló kilátás télen tisztább.",
+                "ro": "Priveliștea din vârful dealului spre golf este mai clară iarna.",
+                "en": "The view from the museum hill over the bay is clearer in winter."
+              }
+            },
+            {
+              "name": "Torre Picada Tower",
+              "tip_5lang": {
+                "de": "Ein idealer Ort für Fotos im goldenen Licht des Winternachmittags.",
+                "hu": "Ideális hely fotózáshoz a téli délután arany fényeiben.",
+                "ro": "Un loc ideal pentru poze în lumina aurie a după-amiezii de iarnă.",
+                "en": "An ideal spot for photos in the golden winter afternoon light."
+              }
+            },
+            {
+              "name": "Port Tram Stop",
+              "tip_5lang": {
+                "de": "Achten Sie auf den ausgedünnten Winterfahrplan am Abend.",
+                "hu": "Figyeljen a ritkított esti téli menetrendre.",
+                "ro": "Atenție la orarul de iarnă mai rar în timpul serii.",
+                "en": "Watch out for the reduced winter schedule in the evening."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Bringen Sie eine warme Jacke für die offene Straßenbahnfahrt mit.",
+              "Im Winter ist der Hafen viel entspannter als in der Hochsaison.",
+              "Genießen Sie einen heißen Kakao in einem der Cafés mit Hafenblick.",
+              "Die Lichtverhältnisse am späten Nachmittag sind perfekt für Fotografen.",
+              "Einige Boote im Hafen sind im Winter im Trockendock zu sehen."
+            ],
+            "hu": [
+              "Hozzon meleg kabátot a nyitott villamosúthoz.",
+              "Télen a kikötő sokkal nyugodtabb, mint a főszezonban.",
+              "Élvezze a forró kakaót az egyik kikötőre néző kávézóban.",
+              "A késő délutáni fényviszonyok tökéletesek a fotósok számára.",
+              "Néhány hajó a kikötőben télen a szárazdokkban látható."
+            ],
+            "ro": [
+              "Aduceți o geacă groasă pentru călătoria cu tramvaiul deschis.",
+              "Iarna portul este mult mai relaxat decât în plin sezon.",
+              "Savurați o ciocolată caldă la una dintre cafenelele cu vedere la port.",
+              "Condițiile de lumină de după-amiază târzie sunt ideale pentru fotografi.",
+              "Unele bărci din port pot fi văzute în docul uscat pe timp de iarnă."
+            ],
+            "en": [
+              "Bring a warm jacket for the open-air tram ride.",
+              "In winter, the port is much more relaxed than in high season.",
+              "Enjoy a hot chocolate in one of the cafes with a harbor view.",
+              "Late afternoon light conditions are perfect for photographers.",
+              "Some boats in the port can be seen in dry dock during winter."
+            ]
+          }
+        }
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 15.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Plaza de la Constitución",
+            "hu": "Sóller központ",
+            "ro": "Centrul Sóller",
+            "en": "Sóller Center"
+          },
+          "coords": [
+            2.7156,
+            39.7672
+          ],
+          "category": "squares",
+          "arrive_at": "09:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Parken Sie im Parkhaus am Bahnhof.",
+            "hu": "Parkoljon a vasútállomás melletti parkolóban.",
+            "ro": "Parcați în parcarea de lângă gară.",
+            "en": "Park in the garage near the station."
+          }
+        },
+        {
+          "name": {
+            "de": "Fornalutx",
+            "hu": "Fornalutx falu",
+            "ro": "Satul Fornalutx",
+            "en": "Fornalutx Village"
+          },
+          "coords": [
+            2.74,
+            39.782
+          ],
+          "category": "historical",
+          "arrive_at": "10:35",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Eines der schönsten Dörfer Spaniens.",
+            "hu": "Spanyolország egyik legszebb faluja.",
+            "ro": "Unul dintre cele mai frumoase sate din Spania.",
+            "en": "One of the most beautiful villages in Spain."
+          }
+        },
+        {
+          "name": {
+            "de": "Port de Sóller",
+            "hu": "Kikötő",
+            "ro": "Portul Sóller",
+            "en": "The Port"
+          },
+          "coords": [
+            2.695,
+            39.795
+          ],
+          "category": "port",
+          "arrive_at": "12:35",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Mittagessen mit Meerblick.",
+            "hu": "Ebéd tengeri kilátással.",
+            "ro": "Prânz cu vedere la mare.",
+            "en": "Lunch with a sea view."
+          }
+        },
+        {
+          "name": {
+            "de": "Museu de la Mar",
+            "hu": "Tengerészeti Múzeum",
+            "ro": "Museu de la Mar",
+            "en": "Maritime Museum"
+          },
+          "coords": [
+            2.693,
+            39.7965
+          ],
+          "category": "museums",
+          "arrive_at": "14:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "In einer alten Kapelle untergebracht.",
+            "hu": "Egy régi kápolnában kapott helyet.",
+            "ro": "Găzduit într-o veche capelă.",
+            "en": "Housed in an old chapel."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre Picada",
+            "hu": "Torre Picada",
+            "ro": "Torre Picada",
+            "en": "Torre Picada"
+          },
+          "coords": [
+            2.698,
+            39.802
+          ],
+          "category": "castles",
+          "arrive_at": "16:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Fantastischer Sonnenuntergang.",
+            "hu": "Fantasztikus naplemente helyszín.",
+            "ro": "Locație fantastică pentru apus.",
+            "en": "Fantastic sunset location."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie das Tal von Sóller flexibel mit dem Auto. Nach einem Besuch im Stadtzentrum fahren Sie in das preisgekrönte Bergdorf Fornalutx. Mittags erreichen Sie den Hafen von Sóller für ein entspanntes Essen. Den Nachmittag verbringen Sie mit Kultur im Meeresmuseum und einem kurzen Ausflug zur Torre Picada für die beste Aussicht.",
+        "hu": "Fedezze fel Sóller völgyét rugalmasan, autóval. A városközpont után látogasson el a díjnyertes hegyi faluba, Fornalutxba. Délben érkezzen meg Sóller kikötőjébe egy kellemes ebédre. A délutánt a tengerészeti múzeumban és a Torre Picada kilátópontnál töltjük, ahonnan a legjobb a panoráma.",
+        "ro": "Explorați valea Sóller în mod flexibil cu mașina. După centrul orașului, vizitați satul de munte Fornalutx. La prânz ajungeți în portul Sóller pentru o masă relaxată. Petreceți după-amiaza cu cultură la muzeul maritim și o scurtă excursie la Torre Picada pentru cea mai bună vedere.",
+        "en": "Explore the Sóller valley flexibly by car. After the town center, visit the award-winning mountain village of Fornalutx. At midday, reach the Port of Sóller for a relaxed meal. Spend the afternoon enjoying culture at the maritime museum and a short trip to Torre Picada for the best views."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lammbraten",
+            "tip": "Spezialität in Fornalutx."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sült bárány",
+            "tip": "Fornalutx specialitása."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miel la cuptor",
+            "tip": "Specialitate în Fornalutx."
+          }
+        ],
+        "en": [
+          {
+            "name": "Roast Lamb",
+            "tip": "Specialty in Fornalutx."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Torre Picada",
+            "tip": "Weitblick über das Meer.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Torre Picada",
+            "tip": "Kilátás a nyílt tengerre.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Torre Picada",
+            "tip": "Vedere panoramică spre mare.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Torre Picada",
+            "tip": "Panoramic sea views.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Olivenöl aus Sóller",
+            "tip": "Frisch gepresst in der Kooperative."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sólleri olívaolaj",
+            "tip": "Frissen préselt helyi olaj."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ulei de măsline",
+            "tip": "Presat la cooperativa locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sóller Olive Oil",
+            "tip": "Freshly pressed at the cooperative."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken in Fornalutx ist begrenzt, kommen Sie früh.",
+          "Die Tunnelgebühr nach Palma entfällt mittlerweile."
+        ],
+        "hu": [
+          "Fornalutxban kevés a parkoló, érkezzen korán.",
+          "A Palma felé vezető alagút ma már ingyenes."
+        ],
+        "ro": [
+          "Parcarea în Fornalutx este limitată, veniți devreme.",
+          "Taxa de tunel spre Palma a fost eliminată."
+        ],
+        "en": [
+          "Parking in Fornalutx is limited, arrive early.",
+          "The tunnel fee to Palma has been abolished."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie das Tal von Sóller flexibel mit dem Auto. Nach einem Besuch im Stadtzentrum fahren Sie in das preisgekrönte Bergdorf Fornalutx. Mittags erreichen Sie den Hafen von Sóller für ein entspanntes Essen. Den Nachmittag verbringen Sie mit Kultur im Meeresmuseum und einem kurzen Ausflug zur Torre Picada für die beste Aussicht.",
+            "hu": "Fedezze fel Sóller völgyét rugalmasan, autóval. A városközpont után látogasson el a díjnyertes hegyi faluba, Fornalutxba. Délben érkezzen meg Sóller kikötőjébe egy kellemes ebédre. A délutánt a tengerészeti múzeumban és a Torre Picada kilátópontnál töltjük, ahonnan a legjobb a panoráma.",
+            "ro": "Explorați valea Sóller în mod flexibil cu mașina. După centrul orașului, vizitați satul de munte Fornalutx. La prânz ajungeți în portul Sóller pentru o masă relaxată. Petreceți după-amiaza cu cultură la muzeul maritim și o scurtă excursie la Torre Picada pentru cea mai bună vedere.",
+            "en": "Explore the Sóller valley flexibly by car. After the town center, visit the award-winning mountain village of Fornalutx. At midday, reach the Port of Sóller for a relaxed meal. Spend the afternoon enjoying culture at the maritime museum and a short trip to Torre Picada for the best views."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Plaza de la Constitución",
+                "hu": "Sóller központ",
+                "ro": "Centrul Sóller",
+                "en": "Sóller Center"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie im Parkhaus am Bahnhof.",
+                "hu": "Parkoljon a vasútállomás melletti parkolóban.",
+                "ro": "Parcați în parcarea de lângă gară.",
+                "en": "Park in the garage near the station."
+              }
+            },
+            {
+              "name": {
+                "de": "Fornalutx",
+                "hu": "Fornalutx falu",
+                "ro": "Satul Fornalutx",
+                "en": "Fornalutx Village"
+              },
+              "tip_5lang": {
+                "de": "Eines der schönsten Dörfer Spaniens.",
+                "hu": "Spanyolország egyik legszebb faluja.",
+                "ro": "Unul dintre cele mai frumoase sate din Spania.",
+                "en": "One of the most beautiful villages in Spain."
+              }
+            },
+            {
+              "name": {
+                "de": "Port de Sóller",
+                "hu": "Kikötő",
+                "ro": "Portul Sóller",
+                "en": "The Port"
+              },
+              "tip_5lang": {
+                "de": "Mittagessen mit Meerblick.",
+                "hu": "Ebéd tengeri kilátással.",
+                "ro": "Prânz cu vedere la mare.",
+                "en": "Lunch with a sea view."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu de la Mar",
+                "hu": "Tengerészeti Múzeum",
+                "ro": "Museu de la Mar",
+                "en": "Maritime Museum"
+              },
+              "tip_5lang": {
+                "de": "In einer alten Kapelle untergebracht.",
+                "hu": "Egy régi kápolnában kapott helyet.",
+                "ro": "Găzduit într-o veche capelă.",
+                "en": "Housed in an old chapel."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre Picada",
+                "hu": "Torre Picada",
+                "ro": "Torre Picada",
+                "en": "Torre Picada"
+              },
+              "tip_5lang": {
+                "de": "Fantastischer Sonnenuntergang.",
+                "hu": "Fantasztikus naplemente helyszín.",
+                "ro": "Locație fantastică pentru apus.",
+                "en": "Fantastic sunset location."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Lammbraten",
+                "tip": "Spezialität in Fornalutx."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Sült bárány",
+                "tip": "Fornalutx specialitása."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Miel la cuptor",
+                "tip": "Specialitate în Fornalutx."
+              }
+            ],
+            "en": [
+              {
+                "name": "Roast Lamb",
+                "tip": "Specialty in Fornalutx."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Torre Picada",
+                "tip": "Weitblick über das Meer.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Torre Picada",
+                "tip": "Kilátás a nyílt tengerre.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Torre Picada",
+                "tip": "Vedere panoramică spre mare.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Torre Picada",
+                "tip": "Panoramic sea views.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Olivenöl aus Sóller",
+                "tip": "Frisch gepresst in der Kooperative."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Sólleri olívaolaj",
+                "tip": "Frissen préselt helyi olaj."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Ulei de măsline",
+                "tip": "Presat la cooperativa locală."
+              }
+            ],
+            "en": [
+              {
+                "name": "Sóller Olive Oil",
+                "tip": "Freshly pressed at the cooperative."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Parken in Fornalutx ist begrenzt, kommen Sie früh.",
+              "Die Tunnelgebühr nach Palma entfällt mittlerweile."
+            ],
+            "hu": [
+              "Fornalutxban kevés a parkoló, érkezzen korán.",
+              "A Palma felé vezető alagút ma már ingyenes."
+            ],
+            "ro": [
+              "Parcarea în Fornalutx este limitată, veniți devreme.",
+              "Taxa de tunel spre Palma a fost eliminată."
+            ],
+            "en": [
+              "Parking in Fornalutx is limited, arrive early.",
+              "The tunnel fee to Palma has been abolished."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie trocken in Sóller und fahren Sie vorsichtig durch das Tal. Mittags bietet Fornalutx eine mystische Stimmung im Nebel. Am Nachmittag ist der Hafen ideal für einen Besuch im Maritimmuseum. Den Tag beenden Sie bei einem gemütlichen Abendessen direkt am Meer.",
+            "hu": "Induljon szárazon Sóllerből, és vezessen óvatosan a völgyben. Délben Fornalutx misztikus hangulatot áraszt a ködben. Délután a kikötő ideális helyszín a Tengerészeti Múzeum meglátogatásához. A napot egy kellemes tengerparti vacsorával zárja.",
+            "ro": "Începeți la adăpost în Sóller și conduceți cu atenție prin vale. La prânz, Fornalutx are o atmosferă mistică în ceață. După-amiaza, portul este ideal pentru o vizită la Muzeul Maritim. Încheiați ziua cu o cină relaxantă lângă mare.",
+            "en": "Start dry in Sóller and drive carefully through the valley. At noon, Fornalutx offers a mystical atmosphere in the mist. Afternoon is perfect for visiting the Maritime Museum in the port. End your day with a cozy dinner by the sea."
+          },
+          "stops": [
+            {
+              "name": "Sóller Center",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Parkhaus nahe dem Zentrum für trockenes Aussteigen.",
+                "hu": "Használja a központ közeli parkolóházat a száraz kiszálláshoz.",
+                "ro": "Folosiți parcarea acoperită de lângă centru pentru a coborî uscați.",
+                "en": "Use the parking garage near the center to get out dry."
+              }
+            },
+            {
+              "name": "Fornalutx Village",
+              "tip_5lang": {
+                "de": "Vorsicht auf den steilen, nassen Steinstraßen im Dorf.",
+                "hu": "Vigyázzon a falu meredek, vizes kőutcáin.",
+                "ro": "Atenție pe străzile de piatră abrupte și ude din sat.",
+                "en": "Be careful on the steep, wet stone streets in the village."
+              }
+            },
+            {
+              "name": "The Port",
+              "tip_5lang": {
+                "de": "Bei starkem Regen können Sie den Blick direkt aus dem Auto genießen.",
+                "hu": "Erős esőben élvezheti a kilátást közvetlenül az autóból is.",
+                "ro": "Pe ploaie puternică, puteți admira vederea direct din mașină.",
+                "en": "In heavy rain, you can enjoy the view directly from the car."
+              }
+            },
+            {
+              "name": "Maritime Museum",
+              "tip_5lang": {
+                "de": "Das Museum ist der perfekte Indoor-Stopp am Hafen.",
+                "hu": "A múzeum a tökéletes fedett állomás a kikötőben.",
+                "ro": "Muzeul este oprirea perfectă la interior în port.",
+                "en": "The museum is the perfect indoor stop at the port."
+              }
+            },
+            {
+              "name": "Torre Picada",
+              "tip_5lang": {
+                "de": "Bei starkem Regen ist die Aussicht vom Parkplatz aus besser.",
+                "hu": "Szakadó esőben a kilátás jobb a parkolóból.",
+                "ro": "Dacă plouă tare, vederea este mai bună din parcare.",
+                "en": "If it rains heavily, the view is better from the parking area."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Bergstraßen können bei Regen rutschig sein; fahren Sie defensiv.",
+              "Nutzen Sie überdachte Parkplätze, um trocken in die Zentren zu gelangen.",
+              "Die Sicht in den Bergen kann durch Nebel stark eingeschränkt sein.",
+              "Fornalutx ist bei Regen besonders ruhig und fotogen.",
+              "Achten Sie auf herabfallende Steine auf den Gebirgsstraßen nach Regengüssen."
+            ],
+            "hu": [
+              "A hegyi utak esőben csúszósak lehetnek; vezessen óvatosan.",
+              "Használjon fedett parkolókat, hogy szárazon érjen a központokba.",
+              "A látási viszonyok a hegyekben a köd miatt korlátozottak lehetnek.",
+              "Fornalutx esőben különösen csendes és fotogén.",
+              "Eső után figyeljen a hegyi utakon az esetleges kőomlásokra."
+            ],
+            "ro": [
+              "Drumurile de munte pot fi alunecoase pe ploaie; conduceți prudent.",
+              "Folosiți parcări acoperite pentru a ajunge uscați în centre.",
+              "Vizibilitatea în munți poate fi redusă din cauza ceții.",
+              "Fornalutx este deosebit de liniștit și fotogenic pe ploaie.",
+              "Atenție la căderile de pietre pe drumurile montane după ploi."
+            ],
+            "en": [
+              "Mountain roads can be slippery in the rain; drive defensively.",
+              "Use covered parking areas to stay dry when reaching the centers.",
+              "Visibility in the mountains can be significantly limited by fog.",
+              "Fornalutx is especially quiet and photogenic in the rain.",
+              "Watch out for falling rocks on mountain roads after heavy rainfall."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie die klare Sicht bei der Fahrt durch das Sóller-Tal am Morgen. Mittags laden die sonnigen Gassen von Fornalutx zum Erkunden ein. Am Nachmittag bietet der Hafen eine entspannte Atmosphäre ohne Parkplatznot. Der Sonnenuntergang am Cap de Gros ist im Winter spektakulär.",
+            "hu": "Élvezze a tiszta kilátást a Sóller-völgyön átvezető úton reggel. Délben Fornalutx napfényes utcái hívogatnak felfedezésre. Délután a kikötő nyugodt légkört kínál parkolási nehézségek nélkül. A naplemente a Cap de Grosnál télen látványos.",
+            "ro": "Bucurați-vă de vizibilitatea clară la drum prin valea Sóller dimineața. La prânz, străzile însorite din Fornalutx vă invită la explorat. După-amiaza, portul oferă o atmosferă relaxată fără probleme de parcare. Apusul la Cap de Gros este spectaculos iarna.",
+            "en": "Enjoy the clear views while driving through the Sóller valley in the morning. At noon, the sunny streets of Fornalutx invite exploration. In the afternoon, the port offers a relaxed atmosphere without parking issues. The sunset at Cap de Gros is spectacular in winter."
+          },
+          "stops": [
+            {
+              "name": "Sóller Center",
+              "tip_5lang": {
+                "de": "Im Winter finden Sie leichter Parkplätze direkt am Zentrum.",
+                "hu": "Télen könnyebben talál parkolóhelyet közvetlenül a központban.",
+                "ro": "Iarna găsiți mai ușor locuri de parcare chiar lângă centru.",
+                "en": "In winter, you can more easily find parking right by the center."
+              }
+            },
+            {
+              "name": "Fornalutx Village",
+              "tip_5lang": {
+                "de": "Die tiefstehende Sonne erzeugt tolle Schattenwürfe im Dorf.",
+                "hu": "Az alacsonyan járó nap remek árnyékokat vet a faluban.",
+                "ro": "Soarele jos creează umbre superbe în sat.",
+                "en": "The low sun creates beautiful shadow patterns in the village."
+              }
+            },
+            {
+              "name": "The Port",
+              "tip_5lang": {
+                "de": "Viele Parkzonen am Hafen sind im Winter kostenlos.",
+                "hu": "A kikötőben sok parkolási zóna ingyenes télen.",
+                "ro": "Multe zone de parcare din port sunt gratuite iarna.",
+                "en": "Many parking zones at the port are free in winter."
+              }
+            },
+            {
+              "name": "Maritime Museum",
+              "tip_5lang": {
+                "de": "Besuchen Sie das Museum für einen warmen Rückzugsort.",
+                "hu": "Látogassa meg a múzeumot egy kis melegedéshez.",
+                "ro": "Vizitați muzeul pentru un refugiu călduros.",
+                "en": "Visit the museum for a warm indoor retreat."
+              }
+            },
+            {
+              "name": "Torre Picada",
+              "tip_5lang": {
+                "de": "Nutzen Sie das klare Winterlicht für Fernblicke bis zum Meer.",
+                "hu": "Használja a tiszta téli fényt a távoli tengeri kilátáshoz.",
+                "ro": "Folosiți lumina clară de iarnă pentru vederi îndepărtate spre mare.",
+                "en": "Use the clear winter light for distant sea views."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahren Sie vor 17 Uhr zum Leuchtturm Cap de Gros für den Sonnenuntergang.",
+              "Parkplätze sind im Winter im gesamten Tal deutlich entspannter.",
+              "Die Straßen können in schattigen Berglagen morgens leicht glatt sein.",
+              "Der Winter ist ideal, um die kurvigen Straßen ohne Reisebusse zu genießen.",
+              "Prüfen Sie, ob Ihr Mietwagen ein funktionierendes Gebläse gegen Beschlagen hat."
+            ],
+            "hu": [
+              "Menjen ki a Cap de Gros világítótoronyhoz 17 óra előtt a naplementére.",
+              "Télen a parkolás az egész völgyben sokkal nyugodtabb.",
+              "A hegyi utak árnyékos részei reggelente enyhén jegesek lehetnek.",
+              "A tél ideális a kanyargós utak élvezetéhez buszok nélkül.",
+              "Ellenőrizze, hogy a bérautó páramentesítője jól működik-e."
+            ],
+            "ro": [
+              "Mergeți la farul Cap de Gros înainte de ora 17 pentru apus.",
+              "Parcarea este mult mai relaxată în toată valea pe timp de iarnă.",
+              "Drumurile pot fi ușor înghețate dimineața în zonele montane umbrite.",
+              "Iarna este ideală pentru a te bucura de curbe fără autocare de turiști.",
+              "Verificați dacă mașina închiriată are dezaburirea funcțională."
+            ],
+            "en": [
+              "Drive to the Cap de Gros lighthouse before 17:00 for the sunset.",
+              "Parking is much more relaxed throughout the valley in winter.",
+              "Roads can be slightly icy in shaded mountain areas in the morning.",
+              "Winter is ideal for enjoying the winding roads without tour buses.",
+              "Check that your rental car's defroster is working correctly."
+            ]
+          }
+        }
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "15:45",
+      "total_km": 12.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Plaza de la Constitución",
+            "hu": "Sóller főtér",
+            "ro": "Piața Sóller",
+            "en": "Sóller Main Square"
+          },
+          "coords": [
+            2.7156,
+            39.7672
+          ],
+          "category": "squares",
+          "arrive_at": "09:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Perfekter Ort für das Frühstück.",
+            "hu": "Tökéletes helyszín a reggelihez.",
+            "ro": "Locul perfect pentru micul dejun.",
+            "en": "Perfect spot for breakfast."
+          }
+        },
+        {
+          "name": {
+            "de": "Port de Sóller",
+            "hu": "Kikötő",
+            "ro": "Portul Sóller",
+            "en": "The Port"
+          },
+          "coords": [
+            2.695,
+            39.795
+          ],
+          "category": "port",
+          "arrive_at": "10:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Radeln Sie entlang der Promenade.",
+            "hu": "Tekerjen végig a tengerparti sétányon.",
+            "ro": "Pedalați de-a lungul faleză.",
+            "en": "Cycle along the promenade."
+          }
+        },
+        {
+          "name": {
+            "de": "Museu de la Mar",
+            "hu": "Tengerészeti Múzeum",
+            "ro": "Museu de la Mar",
+            "en": "Maritime Museum"
+          },
+          "coords": [
+            2.693,
+            39.7965
+          ],
+          "category": "museums",
+          "arrive_at": "12:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Abstellen der Räder ist einfach.",
+            "hu": "A kerékpárok könnyen leparkolhatók.",
+            "ro": "Parcarea bicicletelor este ușoară.",
+            "en": "Easy to park your bikes here."
+          }
+        },
+        {
+          "name": {
+            "de": "Jardín Botánico",
+            "hu": "Botanikus kert",
+            "ro": "Grădina Botanică",
+            "en": "Botanical Garden"
+          },
+          "coords": [
+            2.7135,
+            39.764
+          ],
+          "category": "parks",
+          "arrive_at": "13:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Ruhiger Rückweg durch Obsthaine.",
+            "hu": "Csendes visszautat válasszon a ligeteken át.",
+            "ro": "Drum de întoarcere liniștit prin livezi.",
+            "en": "Quiet return route through orchards."
+          }
+        },
+        {
+          "name": {
+            "de": "Can Prunera",
+            "hu": "Can Prunera",
+            "ro": "Can Prunera",
+            "en": "Can Prunera"
+          },
+          "coords": [
+            2.7165,
+            39.7665
+          ],
+          "category": "museums",
+          "arrive_at": "15:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Abschluss im Museumsshop.",
+            "hu": "Zárja a napot a múzeumi boltban.",
+            "ro": "Final în magazinul muzeului.",
+            "en": "Finish at the museum shop."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Genießen Sie eine Radtour durch das 'Tal des Goldes'. Von Sóller radeln Sie entspannt hinunter zum Hafen und genießen die Meeresbrise. Nach dem Besuch des Meeresmuseums führt Sie der Weg durch duftende Orangen- und Zitronenhaine zurück zum Botanischen Garten. Den Tag lassen Sie kulturell im Can Prunera ausklingen.",
+        "hu": "Élvezze a kerékpártúrát az 'Aranyvölgyben'. Sóllerből kényelmesen letekertünk a kikötőbe, élvezve a tengeri szellőt. A tengerészeti múzeum után az út illatos narancs- és citromligeteken keresztül vezet vissza a botanikus kerthez. A napot kulturális élménnyel zárjuk a Can Prunera múzeumbál.",
+        "ro": "Bucurați-vă de un tur cu bicicleta prin 'Valea Aurului'. Din Sóller pedalați relaxat spre port și savurați briza mării. După vizitarea muzeului maritim, drumul vă poartă prin livezi parfumate de portocali și lămâi înapoi spre Grădina Botanică. Încheiați ziua cultural la Can Prunera.",
+        "en": "Enjoy a bike ride through the 'Valley of Gold'. From Sóller, cycle leisurely down to the port and enjoy the sea breeze. After visiting the maritime museum, the path leads through fragrant orange and lemon orchards back to the Botanical Garden. End your day with a cultural touch at Can Prunera."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Orangeneis",
+            "tip": "Hausgemacht aus Sóller-Orangen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Narancsfagylalt",
+            "tip": "Helyi narancsból készült fagyi."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Înghețată de portocale",
+            "tip": "Artizanală, din portocale de Sóller."
+          }
+        ],
+        "en": [
+          {
+            "name": "Orange Ice Cream",
+            "tip": "Homemade from Sóller oranges."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Orangenhaine",
+            "tip": "Fahrt durch die Plantagen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Narancsligetek",
+            "tip": "Tekerés az ültetvények között.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Livezile de portocali",
+            "tip": "Drum prin plantații.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Orange Orchards",
+            "tip": "Cycling through the plantations.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Orangenmarmelade",
+            "tip": "Süß und fruchtig."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Narancslekvár",
+            "tip": "Édes és gyümölcsös helyi lekvár."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dulceață de portocale",
+            "tip": "Dulce și fructată."
+          }
+        ],
+        "en": [
+          {
+            "name": "Orange Marmalade",
+            "tip": "Sweet and fruity local jam."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Meiden Sie die Hauptstraße zum Hafen, nutzen Sie Nebenwege.",
+          "Achten Sie auf die Straßenbahn, die die Straße kreuzt."
+        ],
+        "hu": [
+          "Kerülje a főutat a kikötő felé, használja a mellékutakat.",
+          "Vigyázzon a villamosra, amely keresztezi az utat."
+        ],
+        "ro": [
+          "Evitați drumul principal spre port, folosiți rute secundare.",
+          "Atenție la tramvaiul care traversează drumul."
+        ],
+        "en": [
+          "Avoid the main road to the port, use side paths.",
+          "Watch out for the tram crossing the road."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Genießen Sie eine Radtour durch das 'Tal des Goldes'. Von Sóller radeln Sie entspannt hinunter zum Hafen und genießen die Meeresbrise. Nach dem Besuch des Meeresmuseums führt Sie der Weg durch duftende Orangen- und Zitronenhaine zurück zum Botanischen Garten. Den Tag lassen Sie kulturell im Can Prunera ausklingen.",
+            "hu": "Élvezze a kerékpártúrát az 'Aranyvölgyben'. Sóllerből kényelmesen letekertünk a kikötőbe, élvezve a tengeri szellőt. A tengerészeti múzeum után az út illatos narancs- és citromligeteken keresztül vezet vissza a botanikus kerthez. A napot kulturális élménnyel zárjuk a Can Prunera múzeumbál.",
+            "ro": "Bucurați-vă de un tur cu bicicleta prin 'Valea Aurului'. Din Sóller pedalați relaxat spre port și savurați briza mării. După vizitarea muzeului maritim, drumul vă poartă prin livezi parfumate de portocali și lămâi înapoi spre Grădina Botanică. Încheiați ziua cultural la Can Prunera.",
+            "en": "Enjoy a bike ride through the 'Valley of Gold'. From Sóller, cycle leisurely down to the port and enjoy the sea breeze. After visiting the maritime museum, the path leads through fragrant orange and lemon orchards back to the Botanical Garden. End your day with a cultural touch at Can Prunera."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Plaza de la Constitución",
+                "hu": "Sóller főtér",
+                "ro": "Piața Sóller",
+                "en": "Sóller Main Square"
+              },
+              "tip_5lang": {
+                "de": "Perfekter Ort für das Frühstück.",
+                "hu": "Tökéletes helyszín a reggelihez.",
+                "ro": "Locul perfect pentru micul dejun.",
+                "en": "Perfect spot for breakfast."
+              }
+            },
+            {
+              "name": {
+                "de": "Port de Sóller",
+                "hu": "Kikötő",
+                "ro": "Portul Sóller",
+                "en": "The Port"
+              },
+              "tip_5lang": {
+                "de": "Radeln Sie entlang der Promenade.",
+                "hu": "Tekerjen végig a tengerparti sétányon.",
+                "ro": "Pedalați de-a lungul faleză.",
+                "en": "Cycle along the promenade."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu de la Mar",
+                "hu": "Tengerészeti Múzeum",
+                "ro": "Museu de la Mar",
+                "en": "Maritime Museum"
+              },
+              "tip_5lang": {
+                "de": "Abstellen der Räder ist einfach.",
+                "hu": "A kerékpárok könnyen leparkolhatók.",
+                "ro": "Parcarea bicicletelor este ușoară.",
+                "en": "Easy to park your bikes here."
+              }
+            },
+            {
+              "name": {
+                "de": "Jardín Botánico",
+                "hu": "Botanikus kert",
+                "ro": "Grădina Botanică",
+                "en": "Botanical Garden"
+              },
+              "tip_5lang": {
+                "de": "Ruhiger Rückweg durch Obsthaine.",
+                "hu": "Csendes visszautat válasszon a ligeteken át.",
+                "ro": "Drum de întoarcere liniștit prin livezi.",
+                "en": "Quiet return route through orchards."
+              }
+            },
+            {
+              "name": {
+                "de": "Can Prunera",
+                "hu": "Can Prunera",
+                "ro": "Can Prunera",
+                "en": "Can Prunera"
+              },
+              "tip_5lang": {
+                "de": "Abschluss im Museumsshop.",
+                "hu": "Zárja a napot a múzeumi boltban.",
+                "ro": "Final în magazinul muzeului.",
+                "en": "Finish at the museum shop."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Orangeneis",
+                "tip": "Hausgemacht aus Sóller-Orangen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Narancsfagylalt",
+                "tip": "Helyi narancsból készült fagyi."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Înghețată de portocale",
+                "tip": "Artizanală, din portocale de Sóller."
+              }
+            ],
+            "en": [
+              {
+                "name": "Orange Ice Cream",
+                "tip": "Homemade from Sóller oranges."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Orangenhaine",
+                "tip": "Fahrt durch die Plantagen.",
+                "emoji": "🍃"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Narancsligetek",
+                "tip": "Tekerés az ültetvények között.",
+                "emoji": "🍃"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Livezile de portocali",
+                "tip": "Drum prin plantații.",
+                "emoji": "🍃"
+              }
+            ],
+            "en": [
+              {
+                "name": "Orange Orchards",
+                "tip": "Cycling through the plantations.",
+                "emoji": "🍃"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Orangenmarmelade",
+                "tip": "Süß und fruchtig."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Narancslekvár",
+                "tip": "Édes és gyümölcsös helyi lekvár."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Dulceață de portocale",
+                "tip": "Dulce și fructată."
+              }
+            ],
+            "en": [
+              {
+                "name": "Orange Marmalade",
+                "tip": "Sweet and fruity local jam."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Meiden Sie die Hauptstraße zum Hafen, nutzen Sie Nebenwege.",
+              "Achten Sie auf die Straßenbahn, die die Straße kreuzt."
+            ],
+            "hu": [
+              "Kerülje a főutat a kikötő felé, használja a mellékutakat.",
+              "Vigyázzon a villamosra, amely keresztezi az utat."
+            ],
+            "ro": [
+              "Evitați drumul principal spre port, folosiți rute secundare.",
+              "Atenție la tramvaiul care traversează drumul."
+            ],
+            "en": [
+              "Avoid the main road to the port, use side paths.",
+              "Watch out for the tram crossing the road."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie vorsichtig am Hauptplatz und achten Sie auf das glatte Pflaster. Mittags bietet der Hafen eine raue, maritime Atmosphäre. Am Nachmittag ist das Maritimmuseum der perfekte Ort, um sich aufzuwärmen. Beenden Sie die Tour früh und suchen Sie Schutz in Sóllers Museen.",
+            "hu": "Induljon óvatosan a főtérről, és figyeljen a csúszós burkolatra. Délben a kikötő nyers, tengeri hangulatot áraszt. Délután a Tengerészeti Múzeum tökéletes hely a felmelegedéshez. Fejezze be korán a túrát, és keressen menedéket Sóller múzeumaiban.",
+            "ro": "Începeți cu atenție din piața centrală, atenție la pavajul alunecos. La prânz, portul are o atmosferă maritimă brută. După-amiaza, Muzeul Maritim este locul perfect pentru a vă încălzi. Încheiați turul devreme și căutați adăpost în muzeele din Sóller.",
+            "en": "Start carefully from the main square, watching out for slippery stones. At noon, the port offers a raw, maritime atmosphere. In the afternoon, the Maritime Museum is the perfect place to warm up. End your tour early and seek shelter in Sóller's museums."
+          },
+          "stops": [
+            {
+              "name": "Sóller Main Square",
+              "tip_5lang": {
+                "de": "Vorsicht: Die glatten Steine sind bei Nässe wie Eis.",
+                "hu": "Vigyázat: a sima kövek vizesen olyanok, mint a jég.",
+                "ro": "Atenție: pietrele lucioase sunt ca gheața pe ploaie.",
+                "en": "Caution: the smooth stones are like ice when wet."
+              }
+            },
+            {
+              "name": "The Port",
+              "tip_5lang": {
+                "de": "Fahren Sie langsam auf der Uferpromenade; Windböen einplanen.",
+                "hu": "Vezessen lassan a tengerparti sétányon; számoljon a széllökésekkel.",
+                "ro": "Conduceți încet pe faleză; atenție la rafalele de vânt.",
+                "en": "Ride slowly on the waterfront; account for wind gusts."
+              }
+            },
+            {
+              "name": "Maritime Museum",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad unter dem Vordach ab.",
+                "hu": "Parkolja le a biciklijét az előtető alatt.",
+                "ro": "Parcați bicicleta sub acoperișul de la intrare.",
+                "en": "Park your bike under the entrance overhang."
+              }
+            },
+            {
+              "name": "Botanical Garden",
+              "tip_5lang": {
+                "de": "Die unbefestigten Wege können schlammig sein.",
+                "hu": "A burkolatlan utak sárosak lehetnek.",
+                "ro": "Potecile neasfaltate pot fi noroioase.",
+                "en": "The unpaved paths can be muddy."
+              }
+            },
+            {
+              "name": "Can Prunera",
+              "tip_5lang": {
+                "de": "Sichern Sie Ihr Rad nahe dem Eingang unter einem Balkon.",
+                "hu": "Zárja le a biciklijét a bejárat közelében egy erkély alatt.",
+                "ro": "Încuiați bicicleta lângă intrare sub un balcon.",
+                "en": "Lock your bike near the entrance under a balcony."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie unbedingt die Straßenbahnschienen; sie sind extrem rutschig.",
+              "Tragen Sie einen wasserdichten Poncho; Bergreget kann sehr intensiv sein.",
+              "Prüfen Sie Ihre Bremsen vor den Abfahrten im Tal.",
+              "Viele Straßen in Sóller sind aus poliertem Stein, der bei Regen gefährlich wird.",
+              "Nutzen Sie Schutzbleche, um sich vor Spritzwasser zu schützen."
+            ],
+            "hu": [
+              "Mindenképpen kerülje a villamossíneket; vizesen rendkívül csúsznak.",
+              "Viseljen vízálló poncsót; a hegyi eső nagyon intenzív lehet.",
+              "Ellenőrizze a fékeket a völgybe vezető lejtők előtt.",
+              "Sóller sok utcája csiszolt kőből van, ami esőben veszélyessé válik.",
+              "Használjon sárvédőt a felcsapódó víz ellen."
+            ],
+            "ro": [
+              "Evitați neapărat șinele de tramvai; sunt extrem de alunecoase pe ploaie.",
+              "Purtați o pelerină impermeabilă; ploaia de munte poate fi intensă.",
+              "Verificați frânele înainte de coborârile în vale.",
+              "Multe străzi din Sóller sunt din piatră șlefuită, periculoasă pe ploaie.",
+              "Folosiți apărători de noroi pentru a vă proteja de stropi."
+            ],
+            "en": [
+              "Strictly avoid the tram tracks; they are extremely slippery when wet.",
+              "Wear a waterproof poncho; mountain rain can be very intense.",
+              "Check your brakes before any descents in the valley.",
+              "Many streets in Sóller are made of polished stone, which becomes dangerous in rain.",
+              "Use fenders to protect yourself from water splashes."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Am kühlen Morgen kurbelt die Fahrt nach Fornalutx den Kreislauf an. Mittags genießen Sie die Sonne am Hafenbecken. Am Nachmittag bietet der Botanische Garten eine geschützte, grüne Oase. Beenden Sie die Tour bei Sonnenuntergang und wärmen Sie sich in einem Café auf.",
+            "hu": "A hűvös reggelen a Fornalutx felé vezető út beindítja a vérkeringést. Délben élvezze a napsütést a kikötőnél. Délután a Botanikus Kert védett, zöld oázist nyújt. Zárja a túrát naplementekor, és melegedjen fel egy kávézóban.",
+            "ro": "În dimineața răcoroasă, drumul spre Fornalutx vă va pune sângele în mișcare. La prânz, bucurați-vă de soare lângă port. După-amiaza, Grădina Botanică oferă o oază verde protejată. Încheiați turul la apus și încălziți-vă într-o cafenea.",
+            "en": "On a cool morning, the ride to Fornalutx gets your circulation going. At noon, enjoy the sun by the harbor. In the afternoon, the Botanical Garden offers a sheltered, green oasis. End your tour at sunset and warm up in a cafe."
+          },
+          "stops": [
+            {
+              "name": "Sóller Main Square",
+              "tip_5lang": {
+                "de": "Ein Kaffee in der Sonne ist der perfekte Start.",
+                "hu": "Egy kávé a napsütésben a tökéletes kezdés.",
+                "ro": "O cafea la soare este startul perfect.",
+                "en": "A coffee in the sun is the perfect start."
+              }
+            },
+            {
+              "name": "The Port",
+              "tip_5lang": {
+                "de": "Im Winter ist es am Wasser oft kühler als im Ort.",
+                "hu": "Télen a vízparton gyakran hűvösebb van, mint a faluban.",
+                "ro": "Iarna este adesea mai răcoare lângă apă decât în sat.",
+                "en": "In winter, it's often cooler by the water than in town."
+              }
+            },
+            {
+              "name": "Maritime Museum",
+              "tip_5lang": {
+                "de": "Die Auffahrt zum Museum hält Sie warm.",
+                "hu": "A múzeumhoz vezető emelkedő melegen tartja.",
+                "ro": "Urcarea spre muzeu vă va ține de cald.",
+                "en": "The climb up to the museum will keep you warm."
+              }
+            },
+            {
+              "name": "Botanical Garden",
+              "tip_5lang": {
+                "de": "Die Mauern des Gartens speichern die Wärme der Wintersonne.",
+                "hu": "A kert falai megőrzik a téli nap melegét.",
+                "ro": "Zidurile grădinii păstrează căldura soarelui de iarnă.",
+                "en": "The garden walls retain the warmth of the winter sun."
+              }
+            },
+            {
+              "name": "Can Prunera",
+              "tip_5lang": {
+                "de": "Genießen Sie die Kunst in den beheizten Innenräumen.",
+                "hu": "Élvezze a művészetet a fűtött belső terekben.",
+                "ro": "Bucurați-vă de artă în interioarele încălzite.",
+                "en": "Enjoy the art in the heated indoor rooms."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kleiden Sie sich in Schichten; Bergauffahrten wärmen, Abfahrten kühlen extrem.",
+              "Vermeiden Sie Fahrten nach 17:30 Uhr, da es im Tal schlagartig dunkel wird.",
+              "Handschuhe sind für die Abfahrten vom Hafen oder aus Fornalutx ratsam.",
+              "Die Luft ist im Winter glasklar, ideal für Fernsichten beim Radfahren.",
+              "Prüfen Sie Ihre Beleuchtung, falls die Tour etwas länger dauert."
+            ],
+            "hu": [
+              "Öltözzön rétegesen; a hegymenet felmelegít, a lejtő viszont lehűt.",
+              "Kerülje a biciklizést 17:30 után, mert a völgyben hirtelen sötétedik.",
+              "A kikötőből vagy Fornalutxból induló lejtőkhöz ajánlott a kesztyű.",
+              "A levegő télen kristálytiszta, ideális a messzi kilátáshoz tekerés közben.",
+              "Ellenőrizze a világítást, ha a túra kicsit tovább tartana."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi; urcările vă încălzesc, dar coborârile vă răcesc tare.",
+              "Evitați să pedalați după ora 17:30, deoarece în vale se întunecă brusc.",
+              "Mănușile sunt recomandate pentru coborârile dinspre port sau Fornalutx.",
+              "Aerul este cristaliniarna, ideal pentru panorame în timp ce pedalați.",
+              "Verificați luminile în cazul în care turul durează puțin mai mult."
+            ],
+            "en": [
+              "Dress in layers; climbs will warm you up, but descents will cool you down fast.",
+              "Avoid riding after 17:30 as it gets dark suddenly in the valley.",
+              "Gloves are advisable for the descents from the port or Fornalutx.",
+              "The air is crystal clear in winter, ideal for long-distance views while cycling.",
+              "Check your lights in case the tour takes a bit longer than expected."
+            ]
+          }
+        }
+      }
+    }
+  },
+  "external_resources": {
+    "tourism_office": "https://www.visitsoller.com/",
+    "transit_official": "https://www.tib.org/",
+    "events": "https://www.ajsoller.net/",
+    "language_tips": {
+      "de": "In Sóller wird Mallorquinisch (ein katalanischer Dialekt) gesprochen, neben Spanisch. 'Bon dia' (Guten Tag) und 'gràcies' (Danke) auf Mallorquinisch begeistern die Einheimischen. In Touristenbereichen ist Deutsch und Englisch weit verbreitet, vor allem im Hafen.",
+      "hu": "Sóllerben mallorquí nyelvet (katalán dialektus) és spanyolt is hallani. Egy 'bon dia' és 'gràcies' mallorquí nyelven garantáltan mosolyt csal a helyiek arcára. Turistazónákban, főleg a kikötőben, gyakori a német és angol nyelvtudás.",
+      "ro": "În Sóller se vorbește mallorquí (un dialect catalan) și spaniolă. 'Bon dia' și 'gràcies' rostite în mallorquí încântă localnicii. În zonele turistice, mai ales în port, germana și engleza sunt larg răspândite.",
+      "en": "Sóller speaks Mallorquí (a Catalan dialect) alongside Spanish. 'Bon dia' and 'gràcies' in Mallorquí delight locals. German and English are widely spoken in tourist areas, especially around the port."
+    },
+    "best_time_to_visit": {
+      "de": "Mai, Juni und September bieten ideale 22-28°C, blühende Orangenhaine und warmes Meer ohne Hochsaison-Andrang. Juli-August sind heiß und voll, der Hafen wird zur deutsch-britischen Enklave. Im Februar blüht der Mandelbaum, ein magischer aber kühler Anblick (10-15°C).",
+      "hu": "Május, június és szeptember kínálja az ideális 22-28°C-ot, virágzó narancsligeteket és meleg tengert, főszezoni tömeg nélkül. Július-augusztus forró és zsúfolt, a kikötő német-brit enklávévá válik. Februárban virágzik a mandulafa, varázslatos, de hűvös látvány (10-15°C).",
+      "ro": "Mai, iunie și septembrie oferă 22-28°C ideale, livezi de portocali înflorite și mare caldă fără aglomerația sezonului de vârf. Iulie-august sunt fierbinți și aglomerate, portul devine o enclavă germano-britanică. În februarie înflorește migdalul, peisaj magic dar răcoros (10-15°C).",
+      "en": "May, June and September offer ideal 22-28°C, blossoming orange groves and warm sea without peak-season crowds. July-August get hot and crowded, with the port turning into a German-British enclave. February brings almond blossoms, a magical but cool sight (10-15°C)."
+    },
+    "neighborhood_warnings": {
+      "de": "Sóller ist sehr sicher, das größte Risiko sind die kurvigen Bergstraßen und die historische Holzstraßenbahn zum Hafen, deren Gleise rutschig sein können. Im Sommer sind Strandcafés Hochburgen für gelegentliche Taschendiebe. Wandert nicht alleine in den Tramuntana-Bergen ohne Karte, das Netz fällt schnell aus.",
+      "hu": "Sóller nagyon biztonságos, a legnagyobb kockázat a kanyargós hegyi utak és a kikötőbe vezető történelmi fa-villamos csúszós sínje. Nyáron a strandkávézókban néha zsebtolvajok dolgoznak. A Tramuntana hegyekben ne túrázz egyedül térkép nélkül, gyorsan elveszíted a térerőt.",
+      "ro": "Sóller este foarte sigur, riscul cel mai mare îl reprezintă șoselele șerpuite și tramvaiul istoric din lemn spre port, ale cărui șine pot fi alunecoase. Vara, cafenelele de plajă atrag uneori hoți de buzunare. Nu face drumeții singur în munții Tramuntana fără hartă, semnalul telefonic dispare rapid.",
+      "en": "Sóller is very safe, the biggest risks being winding mountain roads and the historic wooden tram to the port whose tracks can be slippery. Beach cafés occasionally attract pickpockets in summer. Don't hike alone in the Tramuntana mountains without a map, phone signal drops fast."
+    }
+  }
+}

@@ -1,0 +1,2456 @@
+{
+  "city_id": "santa-cruz-de-la-palma",
+  "anchor": {
+    "name": "Santa Cruz de La Palma",
+    "coords": [
+      -17.7647,
+      28.6833
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 2.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Plaza de España",
+            "hu": "Spanyol tér",
+            "ro": "Plaza de España",
+            "en": "Plaza de España"
+          },
+          "coords": [
+            -17.7645,
+            28.6835
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Das Herz der Stadt mit Renaissance-Flair.",
+            "hu": "A város reneszánsz hangulatú szíve.",
+            "ro": "Inima orașului cu fler renascentist.",
+            "en": "The heart of the city with Renaissance flair."
+          }
+        },
+        {
+          "name": {
+            "de": "Iglesia de El Salvador",
+            "hu": "Megváltó-templom",
+            "ro": "Biserica El Salvador",
+            "en": "Church of El Salvador"
+          },
+          "coords": [
+            -17.7644,
+            28.6834
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Mudejar-Holzdecke.",
+            "hu": "Csodálja meg a mudéjar stílusú famennyezetet.",
+            "ro": "Admirați tavanul de lemn în stil mudejar.",
+            "en": "Admire the Mudejar-style wooden ceiling."
+          }
+        },
+        {
+          "name": {
+            "de": "Ayuntamiento",
+            "hu": "Városháza",
+            "ro": "Primăria",
+            "en": "Town Hall"
+          },
+          "coords": [
+            -17.7646,
+            28.6836
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Historisches Gebäude mit prachtvoller Fassade.",
+            "hu": "Történelmi épület pompás homlokzattal.",
+            "ro": "Clădire istorică cu o fațadă splendidă.",
+            "en": "Historic building with a magnificent facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Balcones de la Avenida Marítima",
+            "hu": "Tengerparti sugárút erkélyei",
+            "ro": "Balcoanele de pe Avenida Marítima",
+            "en": "Balconies of Avenida Marítima"
+          },
+          "coords": [
+            -17.763,
+            28.6845
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:55",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Die berühmtesten Holzbalkone der Kanaren.",
+            "hu": "A Kanári-szigetek leghíresebb faerkélyei.",
+            "ro": "Cele mai faimoase balcoane de lemn din Canare.",
+            "en": "The most famous wooden balconies in the Canaries."
+          }
+        },
+        {
+          "name": {
+            "de": "Real Castillo de Santa Catalina",
+            "hu": "Szent Katalin királyi erőd",
+            "ro": "Castelul Santa Catalina",
+            "en": "Royal Castle of Santa Catalina"
+          },
+          "coords": [
+            -17.7625,
+            28.6875
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:55",
+          "stay_min": 70,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ehemalige Verteidigungsanlage gegen Piraten.",
+            "hu": "Egykori védmű a kalózok ellen.",
+            "ro": "Fostă fortificație de apărare împotriva piraților.",
+            "en": "Former defense structure against pirates."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Naval - Barco de la Virgen",
+            "hu": "Tengerészeti Múzeum - Szűz hajója",
+            "ro": "Muzeul Naval",
+            "en": "Naval Museum - Barco de la Virgen"
+          },
+          "coords": [
+            -17.762,
+            28.6885
+          ],
+          "category": "museums",
+          "arrive_at": "14:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein Museum in einem Schiff-Nachbau.",
+            "hu": "Múzeum egy hajómásolat belsejében.",
+            "ro": "Un muzeu într-o replică de corabie.",
+            "en": "A museum inside a ship replica."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Santa Cruz de La Palma ist ein Juwel kolonialer Architektur. Ihr Rundgang führt Sie vom Renaissance-Ensemble der Plaza de España zu den farbenfrohen Holzbalkonen am Meer. Entdecken Sie die Wehrhaftigkeit im Castillo de Santa Catalina und tauchen Sie im einzigartigen Schiff-Museum in die maritime Geschichte ein. Jeder Schritt erzählt von der Bedeutung der Stadt als Brücke zur Neuen Welt.",
+        "hu": "Santa Cruz de La Palma a gyarmati építészet ékköve. Sétája a Plaza de España reneszánsz együttesétől a tengerparti színes faerkélyekig vezet. Fedezze fel a város védelmét szolgáló Castillo de Santa Catalina erődöt, majd merüljön el a tengerészeti történelemben a különleges hajómúzeumban. Minden lépés a város Újvilág felé vezető híd szerepéről mesél.",
+        "ro": "Santa Cruz de La Palma este o bijuterie a arhitecturii coloniale. Turul vă poartă de la ansamblul renascentist din Plaza de España la balcoanele colorate de lemn de pe malul mării. Descoperiți forța defensivă a Castelului Santa Catalina și scufundați-vă în istoria maritimă la muzeul-corabie unic. Fiecare pas povestește despre rolul orașului de punte către Lumea Nouă.",
+        "en": "Santa Cruz de La Palma is a gem of colonial architecture. Your walk takes you from the Renaissance ensemble of Plaza de España to the colorful wooden balconies by the sea. Discover the defensive strength of the Santa Catalina Castle and dive into maritime history at the unique ship museum. Every step tells of the city's role as a bridge to the New World."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "La Lonja",
+            "tip": "Traditionelle Küche im Altbau."
+          },
+          {
+            "name": "Queso de Palma",
+            "tip": "Lokaler Ziegenkäse mit Honig."
+          }
+        ],
+        "hu": [
+          {
+            "name": "La Lonja",
+            "tip": "Hagyományos konyha ódon épületben."
+          },
+          {
+            "name": "Queso de Palma",
+            "tip": "Helyi kecskesajt pálmamézzel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "La Lonja",
+            "tip": "Bucătărie tradițională în clădire veche."
+          },
+          {
+            "name": "Queso de Palma",
+            "tip": "Brânză locală de capră cu miere."
+          }
+        ],
+        "en": [
+          {
+            "name": "La Lonja",
+            "tip": "Traditional cuisine in an old building."
+          },
+          {
+            "name": "Queso de Palma",
+            "tip": "Local goat cheese with palm honey."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Placeta de Borrero",
+            "tip": "Ein ruhiger Winkel in der Altstadt.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Placeta de Borrero",
+            "tip": "Csendes kis szeglet az óvárosban.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Placeta de Borrero",
+            "tip": "Un colț liniștit în orașul vechi.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Placeta de Borrero",
+            "tip": "A quiet corner in the old town.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Calle O'Daly",
+            "tip": "Einkaufsstraße mit Kunsthandwerk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Calle O'Daly",
+            "tip": "Stradă comercială cu artizanat.",
+            "ro": "Calle O'Daly"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Calle O'Daly",
+            "tip": "Stradă comercială cu artizanat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Calle O'Daly",
+            "tip": "Shopping street with handicrafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Stadt ist steil, nutzen Sie die Aufzüge wenn nötig.",
+          "Besuchen Sie die Plaza de España am frühen Vormittag.",
+          "Achten Sie auf die Details der Holzschnitzereien."
+        ],
+        "hu": [
+          "A város meredek, szükség esetén használja a lifteket.",
+          "Látogassa meg a Plaza de España-t kora délelőtt.",
+          "Figyeljen a fafaragások apró részleteire."
+        ],
+        "ro": [
+          "Orașul este abrupt, folosiți lifturile dacă e necesar.",
+          "Vizitați Plaza de España dimineața devreme.",
+          "Fiți atenți la detaliile sculpturilor în lemn."
+        ],
+        "en": [
+          "The city is steep, use the elevators if needed.",
+          "Visit Plaza de España in the early morning.",
+          "Pay attention to the details of the wood carvings."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Santa Cruz de La Palma ist ein Juwel kolonialer Architektur. Ihr Rundgang führt Sie vom Renaissance-Ensemble der Plaza de España zu den farbenfrohen Holzbalkonen am Meer. Entdecken Sie die Wehrhaftigkeit im Castillo de Santa Catalina und tauchen Sie im einzigartigen Schiff-Museum in die maritime Geschichte ein. Jeder Schritt erzählt von der Bedeutung der Stadt als Brücke zur Neuen Welt.",
+            "hu": "Santa Cruz de La Palma a gyarmati építészet ékköve. Sétája a Plaza de España reneszánsz együttesétől a tengerparti színes faerkélyekig vezet. Fedezze fel a város védelmét szolgáló Castillo de Santa Catalina erődöt, majd merüljön el a tengerészeti történelemben a különleges hajómúzeumban. Minden lépés a város Újvilág felé vezető híd szerepéről mesél.",
+            "ro": "Santa Cruz de La Palma este o bijuterie a arhitecturii coloniale. Turul vă poartă de la ansamblul renascentist din Plaza de España la balcoanele colorate de lemn de pe malul mării. Descoperiți forța defensivă a Castelului Santa Catalina și scufundați-vă în istoria maritimă la muzeul-corabie unic. Fiecare pas povestește despre rolul orașului de punte către Lumea Nouă.",
+            "en": "Santa Cruz de La Palma is a gem of colonial architecture. Your walk takes you from the Renaissance ensemble of Plaza de España to the colorful wooden balconies by the sea. Discover the defensive strength of the Santa Catalina Castle and dive into maritime history at the unique ship museum. Every step tells of the city's role as a bridge to the New World."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Plaza de España",
+                "hu": "Spanyol tér",
+                "ro": "Plaza de España",
+                "en": "Plaza de España"
+              },
+              "tip_5lang": {
+                "de": "Das Herz der Stadt mit Renaissance-Flair.",
+                "hu": "A város reneszánsz hangulatú szíve.",
+                "ro": "Inima orașului cu fler renascentist.",
+                "en": "The heart of the city with Renaissance flair."
+              }
+            },
+            {
+              "name": {
+                "de": "Iglesia de El Salvador",
+                "hu": "Megváltó-templom",
+                "ro": "Biserica El Salvador",
+                "en": "Church of El Salvador"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Mudejar-Holzdecke.",
+                "hu": "Csodálja meg a mudéjar stílusú famennyezetet.",
+                "ro": "Admirați tavanul de lemn în stil mudejar.",
+                "en": "Admire the Mudejar-style wooden ceiling."
+              }
+            },
+            {
+              "name": {
+                "de": "Ayuntamiento",
+                "hu": "Városháza",
+                "ro": "Primăria",
+                "en": "Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Historisches Gebäude mit prachtvoller Fassade.",
+                "hu": "Történelmi épület pompás homlokzattal.",
+                "ro": "Clădire istorică cu o fațadă splendidă.",
+                "en": "Historic building with a magnificent facade."
+              }
+            },
+            {
+              "name": {
+                "de": "Balcones de la Avenida Marítima",
+                "hu": "Tengerparti sugárút erkélyei",
+                "ro": "Balcoanele de pe Avenida Marítima",
+                "en": "Balconies of Avenida Marítima"
+              },
+              "tip_5lang": {
+                "de": "Die berühmtesten Holzbalkone der Kanaren.",
+                "hu": "A Kanári-szigetek leghíresebb faerkélyei.",
+                "ro": "Cele mai faimoase balcoane de lemn din Canare.",
+                "en": "The most famous wooden balconies in the Canaries."
+              }
+            },
+            {
+              "name": {
+                "de": "Real Castillo de Santa Catalina",
+                "hu": "Szent Katalin királyi erőd",
+                "ro": "Castelul Santa Catalina",
+                "en": "Royal Castle of Santa Catalina"
+              },
+              "tip_5lang": {
+                "de": "Ehemalige Verteidigungsanlage gegen Piraten.",
+                "hu": "Egykori védmű a kalózok ellen.",
+                "ro": "Fostă fortificație de apărare împotriva piraților.",
+                "en": "Former defense structure against pirates."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Naval - Barco de la Virgen",
+                "hu": "Tengerészeti Múzeum - Szűz hajója",
+                "ro": "Muzeul Naval",
+                "en": "Naval Museum - Barco de la Virgen"
+              },
+              "tip_5lang": {
+                "de": "Ein Museum in einem Schiff-Nachbau.",
+                "hu": "Múzeum egy hajómásolat belsejében.",
+                "ro": "Un muzeu într-o replică de corabie.",
+                "en": "A museum inside a ship replica."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "La Lonja",
+                "tip": "Traditionelle Küche im Altbau."
+              },
+              {
+                "name": "Queso de Palma",
+                "tip": "Lokaler Ziegenkäse mit Honig."
+              }
+            ],
+            "hu": [
+              {
+                "name": "La Lonja",
+                "tip": "Hagyományos konyha ódon épületben."
+              },
+              {
+                "name": "Queso de Palma",
+                "tip": "Helyi kecskesajt pálmamézzel."
+              }
+            ],
+            "ro": [
+              {
+                "name": "La Lonja",
+                "tip": "Bucătărie tradițională în clădire veche."
+              },
+              {
+                "name": "Queso de Palma",
+                "tip": "Brânză locală de capră cu miere."
+              }
+            ],
+            "en": [
+              {
+                "name": "La Lonja",
+                "tip": "Traditional cuisine in an old building."
+              },
+              {
+                "name": "Queso de Palma",
+                "tip": "Local goat cheese with palm honey."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Placeta de Borrero",
+                "tip": "Ein ruhiger Winkel in der Altstadt.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Placeta de Borrero",
+                "tip": "Csendes kis szeglet az óvárosban.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Placeta de Borrero",
+                "tip": "Un colț liniștit în orașul vechi.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Placeta de Borrero",
+                "tip": "A quiet corner in the old town.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Calle O'Daly",
+                "tip": "Einkaufsstraße mit Kunsthandwerk."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Calle O'Daly",
+                "tip": "Stradă comercială cu artizanat.",
+                "ro": "Calle O'Daly"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Calle O'Daly",
+                "tip": "Stradă comercială cu artizanat."
+              }
+            ],
+            "en": [
+              {
+                "name": "Calle O'Daly",
+                "tip": "Shopping street with handicrafts."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Die Stadt ist steil, nutzen Sie die Aufzüge wenn nötig.",
+              "Besuchen Sie die Plaza de España am frühen Vormittag.",
+              "Achten Sie auf die Details der Holzschnitzereien."
+            ],
+            "hu": [
+              "A város meredek, szükség esetén használja a lifteket.",
+              "Látogassa meg a Plaza de España-t kora délelőtt.",
+              "Figyeljen a fafaragások apró részleteire."
+            ],
+            "ro": [
+              "Orașul este abrupt, folosiți lifturile dacă e necesar.",
+              "Vizitați Plaza de España dimineața devreme.",
+              "Fiți atenți la detaliile sculpturilor în lemn."
+            ],
+            "en": [
+              "The city is steep, use the elevators if needed.",
+              "Visit Plaza de España in the early morning.",
+              "Pay attention to the details of the wood carvings."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt unter den Renaissance-Arkaden der Plaza de España, die perfekten Schutz vor den atlantischen Schauern bieten. Die kopfsteingepflasterten Gassen glänzen im Regen und wirken besonders nostalgisch.\n\nMittags suchen wir Zuflucht in der kühlen Stille der El Salvador Kirche und im prächtigen Rathaus. Die kunstvollen Holzdecken lassen den Regen draußen schnell vergessen.\n\nNachmittags bewundern wir die berühmten Balkone der Avenida Marítima, während wir unter den Dachvorsprüngen von Haus zu Haus huschen. Der maritime Duft ist bei Regen besonders intensiv.\n\nDer Abend endet im Naval Museum, das in einem originalgetreuen Nachbau einer Galeone untergebracht ist – ein idealer trockener Ort, um in die Seefahrtsgeschichte einzutauchen.",
+            "hu": "A reggel a Plaza de España reneszánsz árkádjai alatt indul, amelyek kiváló menedéket nyújtanak az atlanti záporok elől. A vizes macskakövek csillogása különleges, nosztalgikus hangulatot áraszt a történelmi negyedben.\n\nDélben az El Salvador templom és a Városháza belső tereiben találunk oltalmat. A díszes famennyezetek és a hűvös falak között észre sem venni a kinti esőzést.\n\nDélután az Avenida Marítima színes erkélyeit csodáljuk meg, az ereszek alatt húzódva. Az eső illata és az óceán közelsége ilyenkor még karakteresebb élményt nyújt.\n\nAz estét a Naval Museum hajóformájú épületében zárjuk, ahol a tengerészeti kiállítások között szárazon és kényelemben fedezhetjük fel a sziget hódítóinak múltját.",
+            "ro": "Dimineața începe sub arcadele renascentiste din Plaza de España, care oferă adăpostul perfect împotriva averselor atlantice. Pavajul umed strălucește, oferind centrului istoric o aură nostalgică.\n\nLa prânz, ne refugiem în liniștea bisericii El Salvador și în interiorul somptuos al Primăriei. Tavanele din lemn sculptat ne fac să uităm repede de ploaia de afară.\n\nDupă-amiaza admirăm faimoasele balcoane de pe Avenida Marítima, strecurându-ne de la un adăpost la altul sub streșinile caselor coloniale. Aerul sărat este mai intens acum.\n\nSeara se încheie la Muzeul Naval, adăpostit într-o replică de galion – locul ideal și uscat pentru a explora istoria maritimă glorioasă a insulei La Palma.",
+            "en": "The morning starts under the Renaissance arcades of Plaza de España, providing perfect shelter from Atlantic showers. The wet cobblestones glisten, adding a nostalgic aura to the old town.\n\nAt noon, we find refuge in the quiet of El Salvador Church and the grand interiors of the Town Hall. The ornate wooden ceilings make you forget the rain outside instantly.\n\nIn the afternoon, we admire the famous balconies of Avenida Marítima, hopping from shelter to shelter under the colonial eaves. The scent of the sea is particularly strong in the rain.\n\nThe evening concludes at the Naval Museum, housed in a life-size ship replica—an ideal dry spot to explore the island's rich maritime conquest history."
+          },
+          "stops": [
+            {
+              "name": "Plaza de España",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkaden des Rathauses als trockenen Aussichtspunkt.",
+                "hu": "Használja a városháza árkádjait száraz kilátópontként a térre.",
+                "ro": "Folosiți arcadele primăriei ca punct de observație uscat.",
+                "en": "Use the Town Hall arcades as a dry vantage point for the square."
+              }
+            },
+            {
+              "name": "Church of El Salvador",
+              "tip_5lang": {
+                "de": "Idealer Ort, um einen starken Regenguss im Trockenen abzuwarten.",
+                "hu": "Tökéletes helyszín egy nagyobb zápor száraz megvárásához.",
+                "ro": "Locul ideal pentru a aștepta trecerea unei averse puternice.",
+                "en": "Perfect place to wait out a heavy downpour in the dry."
+              }
+            },
+            {
+              "name": "Town Hall",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Innenfresken, während es draußen regnet.",
+                "hu": "Csodálja meg a belső freskókat, miközben kint esik az eső.",
+                "ro": "Admirați frescele interioare în timp ce afară plouă.",
+                "en": "Admire the interior frescoes while it rains outside."
+              }
+            },
+            {
+              "name": "Balconies of Avenida Marítima",
+              "tip_5lang": {
+                "de": "Die gegenüberliegenden Arkaden bieten Schutz beim Fotografieren.",
+                "hu": "A szemközti árkádok védelmet nyújtanak fotózás közben.",
+                "ro": "Arcadele de vis-à-vis oferă adăpost în timp ce faceți poze.",
+                "en": "The opposite arcades provide shelter while taking photos."
+              }
+            },
+            {
+              "name": "Royal Castle of Santa Catalina",
+              "tip_5lang": {
+                "de": "Vorsicht, die steinernen Außenbereiche können bei Nässe glatt sein.",
+                "hu": "Vigyázat, a kőburkolatok nedvesen rendkívül csúszósak lehetntnek.",
+                "ro": "Atenție, zonele exterioare de piatră pot fi alunecoase când sunt ude.",
+                "en": "Caution, the stone exterior areas can be slippery when wet."
+              }
+            },
+            {
+              "name": "Naval Museum - Barco de la Virgen",
+              "tip_5lang": {
+                "de": "Komplett überdacht, perfekt für den Abschluss eines Regentages.",
+                "hu": "Teljesen fedett, tökéletes zárása egy esős napnak.",
+                "ro": "Complet acoperit, finalul perfect pentru o zi ploioasă.",
+                "en": "Fully covered, the perfect end to a rainy day."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Schuhe mit gutem Profil für das glatte Kopfsteinpflaster.",
+              "Die Plaza de España bietet viele Arkaden als natürlichen Regenschutz.",
+              "Museen sind in Santa Cruz die besten Rückzugsorte bei Dauerregen.",
+              "Ein kleiner Taschenschirm ist wegen der engen Gassen praktischer als ein großer."
+            ],
+            "hu": [
+              "Viseljen jó tapadású cipőt a csúszós macskakövek miatt.",
+              "A Plaza de España árkádjai természetes védelmet nyújtanak az eső ellen.",
+              "Tartós eső esetén a múzeumok a legjobb menedékhelyek a városban.",
+              "A szűk utcák miatt a kisméretű esernyő praktikusabb a nagynál."
+            ],
+            "ro": [
+              "Purtați încălțăminte cu talpă aderentă pentru pavajul alunecos.",
+              "Plaza de España oferă multe arcade ca protecție naturală contra ploii.",
+              "Muzeele sunt cele mai bune refugii în caz de ploaie persistentă.",
+              "O umbrelă mică este mai practică decât una mare pe străzile înguste."
+            ],
+            "en": [
+              "Wear shoes with good grip for the slippery cobblestones.",
+              "Plaza de España offers many arcades as natural rain protection.",
+              "Museums are the best retreats in Santa Cruz during persistent rain.",
+              "A small umbrella is more practical than a large one in narrow streets."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen ist mild und klar, ideal für einen Spaziergang über die Plaza de España. Die tiefstehende Sonne betont die Details der Renaissance-Fassaden auf einzigartige Weise.\n\nMittags genießen wir die angenehmen Temperaturen in der El Salvador Kirche. Ohne die Sommerhitze lässt es sich viel entspannter durch das historische Rathaus wandeln.\n\nAm Nachmittag spazieren wir entlang der Avenida Marítima. Das sanfte Winterlicht lässt die bunten Blumen auf den Holzbalkonen besonders kräftig leuchten.\n\nDer frühe Sonnenuntergang färbt die Burg Santa Catalina in warme Goldtöne. Wir beenden den Tag im Naval Museum, bevor die kühle Meeresbrise des Abends auffrischt.",
+            "hu": "A téli reggel enyhe és tiszta, tökéletes egy sétához a Plaza de España téren. Az alacsonyan járó nap sugarai kiemelik a reneszánsz homlokzatok finom részleteit.\n\nDélben az El Salvador templom hűvösében pihenünk. A nyári hőség nélkül sokkal kényelmesebb a Városháza történelmi termeinek felfedezése.\n\nDélután az Avenida Marítima mentén korzózunk. A lágy téli fényben a fafaragásos erkélyek virágai szinte izzanak a színektől.\n\nA korai naplemente aranyba vonja a Santa Catalina várfalait. Napunkat a Naval Museum tárlatai között zárjuk, mielőtt az esti tengeri fuvallat lehűtené a várost.",
+            "ro": "Dimineața de iarnă este blândă și senină, ideală pentru o plimbare în Plaza de España. Soarele jos scoate în evidență detaliile fațadelor renascentiste.\n\nLa prânz ne bucurăm de temperaturile plăcute în biserica El Salvador. Fără arșița verii, explorarea Primăriei istorice este mult mai relaxantă.\n\nDupă-amiaza ne plimbăm pe Avenida Marítima. Lumina blândă de iarnă face ca florile de pe balcoanele de lemn să pară mai vii ca niciodată.\n\nApusul timpuriu colorează Castelul Santa Catalina în tonuri calde de aur. Încheiem ziua la Muzeul Naval înainte ca briza serii să devină răcoroasă.",
+            "en": "The winter morning is mild and clear, perfect for a stroll across Plaza de España. The low sun highlights the Renaissance facade details uniquely.\n\nAt noon, we enjoy the pleasant temperatures inside El Salvador Church. Without the summer heat, exploring the historic Town Hall is much more relaxing.\n\nIn the afternoon, we walk along Avenida Marítima. The soft winter light makes the colorful flowers on the wooden balconies glow intensely.\n\nThe early sunset paints Santa Catalina Castle in warm golden tones. We end the day at the Naval Museum before the cool evening sea breeze picks up."
+          },
+          "stops": [
+            {
+              "name": "Plaza de España",
+              "tip_5lang": {
+                "de": "Genießen Sie die Morgensonne, die den Platz herrlich erwärmt.",
+                "hu": "Élvezze a reggeli napsütést, amely kellemesen felmelegíti a teret.",
+                "ro": "Bucurați-vă de soarele dimineții care încălzește plăcut piața.",
+                "en": "Enjoy the morning sun that warms the square beautifully."
+              }
+            },
+            {
+              "name": "Church of El Salvador",
+              "tip_5lang": {
+                "de": "Die dicken Mauern halten die Wärme der Vortage gut.",
+                "hu": "A vastag falak jól megtartják az előző napok melegét.",
+                "ro": "Zidurile groase rețin bine căldura zilelor precedente.",
+                "en": "The thick walls retain the warmth from previous days well."
+              }
+            },
+            {
+              "name": "Town Hall",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Ausstellung im Inneren, wenn es draußen windig ist.",
+                "hu": "Látogassa meg a belső kiállítást, ha kint feltámad a szél.",
+                "ro": "Vizitați expoziția interioară dacă afară bate vântul.",
+                "en": "Visit the interior exhibition if it gets windy outside."
+              }
+            },
+            {
+              "name": "Balconies of Avenida Marítima",
+              "tip_5lang": {
+                "de": "Das Winterlicht ist perfekt für schattenfreie Fotos der Fassaden.",
+                "hu": "A téli fény tökéletes az árnyékmentes fotókhoz a homlokzatokról.",
+                "ro": "Lumina de iarnă e perfectă pentru poze fără umbre pe fațade.",
+                "en": "The winter light is perfect for shadow-free photos of the facades."
+              }
+            },
+            {
+              "name": "Royal Castle of Santa Catalina",
+              "tip_5lang": {
+                "de": "Bester Ort für den frühen winterlichen Sonnenuntergang.",
+                "hu": "A legjobb helyszín a korai téli naplemente megtekintéséhez.",
+                "ro": "Cel mai bun loc pentru a vedea apusul timpuriu de iarnă.",
+                "en": "Best spot for the early winter sunset."
+              }
+            },
+            {
+              "name": "Naval Museum - Barco de la Virgen",
+              "tip_5lang": {
+                "de": "Ein geschützter Ort, wenn die Abendbrise kühler wird.",
+                "hu": "Védett helyszín, amikor az esti szél hűvösebbre fordul.",
+                "ro": "Un loc ferit când briza serii devine mai răcoroasă.",
+                "en": "A sheltered spot when the evening breeze turns cooler."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie das Tageslicht, da die Sonne gegen 18:15 Uhr untergeht.",
+              "Eine leichte Jacke ist für die schattigen Gassen der Altstadt ratsam.",
+              "Die Temperaturen sind ideal für ausgiebige Stadterkundungen zu Fuß.",
+              "In den Wintermonaten ist die Stadt weniger überlaufen und authentischer."
+            ],
+            "hu": [
+              "Használja ki a nappali fényt, mert a nap 18:15 körül nyugszik.",
+              "Egy könnyű dzseki ajánlott az óváros árnyékos utcáiba.",
+              "A hőmérséklet ideális a hosszú gyalogos városnézéshez.",
+              "A téli hónapokban a város kevésbé zsúfolt és sokkal hitelesebb."
+            ],
+            "ro": [
+              "Profitați de lumina zilei, soarele apune în jur de ora 18:15.",
+              "O jachetă subțire este recomandată pentru străzile umbrite.",
+              "Temperaturile sunt ideale pentru explorări lungi pe jos.",
+              "În lunile de iarnă orașul este mai puțin aglomerat și mai autentic."
+            ],
+            "en": [
+              "Make use of daylight as the sun sets around 6:15 PM.",
+              "A light jacket is recommended for the shaded old town streets.",
+              "Temperatures are ideal for extensive city exploration on foot.",
+              "During winter months, the city is less crowded and more authentic."
+            ]
+          }
+        }
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "13:30",
+      "total_km": 5.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Avenida Marítima",
+            "hu": "Tengerparti sugárút",
+            "ro": "Avenida Marítima",
+            "en": "Avenida Marítima"
+          },
+          "coords": [
+            -17.763,
+            28.6845
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Flache Strecke entlang der Küste.",
+            "hu": "Sík szakasz a tengerpart mentén.",
+            "ro": "Traseu plan de-a lungul coastei.",
+            "en": "Flat stretch along the coastline."
+          }
+        },
+        {
+          "name": {
+            "de": "Real Castillo de Santa Catalina",
+            "hu": "Szent Katalin királyi erőd",
+            "ro": "Castelul Santa Catalina",
+            "en": "Royal Castle of Santa Catalina"
+          },
+          "coords": [
+            -17.7625,
+            28.6875
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:45",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Fahrradständer am Eingang.",
+            "hu": "Kerékpártároló a bejáratnál.",
+            "ro": "Suport de biciclete la intrare.",
+            "en": "Bike racks at the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Naval",
+            "hu": "Tengerészeti Múzeum",
+            "ro": "Muzeul Naval",
+            "en": "Naval Museum"
+          },
+          "coords": [
+            -17.762,
+            28.6885
+          ],
+          "category": "museums",
+          "arrive_at": "10:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Beeindruckender Blick vom Vorplatz.",
+            "hu": "Lenyűgöző kilátás az előtérről.",
+            "ro": "Vedere impresionantă de pe esplanadă.",
+            "en": "Impressive view from the forecourt."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro Circo de Marte",
+            "hu": "Mars Cirkusz Színház",
+            "ro": "Teatrul Circo de Marte",
+            "en": "Teatro Circo de Marte"
+          },
+          "coords": [
+            -17.765,
+            28.6825
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "12:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Kulturelles Zentrum in einem Prachtbau.",
+            "hu": "Kulturális központ egy díszes épületben.",
+            "ro": "Centru cultural într-o clădire somptuoasă.",
+            "en": "Cultural center in a grand building."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Insular de La Palma",
+            "hu": "La Palma-i Szigeti Múzeum",
+            "ro": "Muzeul Insular La Palma",
+            "en": "Insular Museum of La Palma"
+          },
+          "coords": [
+            -17.7655,
+            28.684
+          ],
+          "category": "museums",
+          "arrive_at": "12:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ehemaliges Kloster mit schönem Innenhof.",
+            "hu": "Egykori kolostor szép belső udvarral.",
+            "ro": "Fostă mănăstire cu o curte interioară frumoasă.",
+            "en": "Former convent with a beautiful courtyard."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie die Küstenfront und die kulturellen Highlights mit dem Rad. Die Avenida Marítima bietet eine entspannte Fahrt mit Blick auf die Balkone und den Ozean. Besuchen Sie das Castillo und das Schiff-Museum im Norden, bevor Sie durch die Altstadt zu den bedeutenden Theatern und Museen im Süden zurückkehren.",
+        "hu": "Fedezze fel a tengerparti frontot és a kulturális látnivalókat kerékpárral. Az Avenida Marítima pihentető tekerést kínál az erkélyekre és az óceánra nyíló kilátással. Látogassa meg az erődöt és a hajómúzeumot északon, majd térjen vissza az óvároson keresztül a déli színházakhoz és múzeumokhoz.",
+        "ro": "Explorați faleza și atracțiile culturale cu bicicleta. Avenida Marítima oferă o plimbare relaxantă cu vedere la balcoane și la ocean. Vizitați castelul și muzeul-corabie în nord, apoi reveniți prin orașul vechi către teatrele și muzeele importante din sud.",
+        "en": "Discover the waterfront and cultural highlights by bike. Avenida Marítima offers a relaxed ride with views of the balconies and the ocean. Visit the castle and the ship museum in the north before returning through the old town to the significant theaters and museums in the south."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kiosko del Mar",
+            "tip": "Snacks am Strand."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kiosko del Mar",
+            "tip": "Gyors falatok a strandnál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kiosko del Mar",
+            "tip": "Gustări pe plajă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosko del Mar",
+            "tip": "Snacks at the beach."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Playa de Santa Cruz",
+            "tip": "Meeresrauschen genießen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Santa Cruz-i strand",
+            "tip": "Élvezze a tenger morajlását.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plaja Santa Cruz",
+            "tip": "Bucurați-vă de sunetul mării.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Santa Cruz Beach",
+            "tip": "Enjoy the sound of the sea.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Artesanía El Puente",
+            "tip": "Lokales Handwerk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Artesanía El Puente",
+            "tip": "Helyi kézműves termékek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Artesanía El Puente",
+            "tip": "Artizanat local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Artesanía El Puente",
+            "tip": "Local crafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Bleiben Sie auf der flachen Avenida.",
+          "Die Altstadtgassen können eng und kopfsteingepflastert sein.",
+          "Ein Schloss ist für Stopps an Museen notwendig."
+        ],
+        "hu": [
+          "Maradjon a sík Avenida-n.",
+          "Az óvárosi utcák szűkek és macskakövesek lehetnek.",
+          "A múzeumi megállókhoz lakat szükséges."
+        ],
+        "ro": [
+          "Rămâneți pe Avenida plană.",
+          "Străzile din orașul vechi pot fi înguste și pavate.",
+          "Este necesar un antifurt pentru opririle la muzee."
+        ],
+        "en": [
+          "Stay on the flat Avenida.",
+          "Old town streets can be narrow and cobbled.",
+          "A lock is necessary for museum stops."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Entdecken Sie die Küstenfront und die kulturellen Highlights mit dem Rad. Die Avenida Marítima bietet eine entspannte Fahrt mit Blick auf die Balkone und den Ozean. Besuchen Sie das Castillo und das Schiff-Museum im Norden, bevor Sie durch die Altstadt zu den bedeutenden Theatern und Museen im Süden zurückkehren.",
+            "hu": "Fedezze fel a tengerparti frontot és a kulturális látnivalókat kerékpárral. Az Avenida Marítima pihentető tekerést kínál az erkélyekre és az óceánra nyíló kilátással. Látogassa meg az erődöt és a hajómúzeumot északon, majd térjen vissza az óvároson keresztül a déli színházakhoz és múzeumokhoz.",
+            "ro": "Explorați faleza și atracțiile culturale cu bicicleta. Avenida Marítima oferă o plimbare relaxantă cu vedere la balcoane și la ocean. Vizitați castelul și muzeul-corabie în nord, apoi reveniți prin orașul vechi către teatrele și muzeele importante din sud.",
+            "en": "Discover the waterfront and cultural highlights by bike. Avenida Marítima offers a relaxed ride with views of the balconies and the ocean. Visit the castle and the ship museum in the north before returning through the old town to the significant theaters and museums in the south."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Avenida Marítima",
+                "hu": "Tengerparti sugárút",
+                "ro": "Avenida Marítima",
+                "en": "Avenida Marítima"
+              },
+              "tip_5lang": {
+                "de": "Flache Strecke entlang der Küste.",
+                "hu": "Sík szakasz a tengerpart mentén.",
+                "ro": "Traseu plan de-a lungul coastei.",
+                "en": "Flat stretch along the coastline."
+              }
+            },
+            {
+              "name": {
+                "de": "Real Castillo de Santa Catalina",
+                "hu": "Szent Katalin királyi erőd",
+                "ro": "Castelul Santa Catalina",
+                "en": "Royal Castle of Santa Catalina"
+              },
+              "tip_5lang": {
+                "de": "Fahrradständer am Eingang.",
+                "hu": "Kerékpártároló a bejáratnál.",
+                "ro": "Suport de biciclete la intrare.",
+                "en": "Bike racks at the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Naval",
+                "hu": "Tengerészeti Múzeum",
+                "ro": "Muzeul Naval",
+                "en": "Naval Museum"
+              },
+              "tip_5lang": {
+                "de": "Beeindruckender Blick vom Vorplatz.",
+                "hu": "Lenyűgöző kilátás az előtérről.",
+                "ro": "Vedere impresionantă de pe esplanadă.",
+                "en": "Impressive view from the forecourt."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro Circo de Marte",
+                "hu": "Mars Cirkusz Színház",
+                "ro": "Teatrul Circo de Marte",
+                "en": "Teatro Circo de Marte"
+              },
+              "tip_5lang": {
+                "de": "Kulturelles Zentrum in einem Prachtbau.",
+                "hu": "Kulturális központ egy díszes épületben.",
+                "ro": "Centru cultural într-o clădire somptuoasă.",
+                "en": "Cultural center in a grand building."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Insular de La Palma",
+                "hu": "La Palma-i Szigeti Múzeum",
+                "ro": "Muzeul Insular La Palma",
+                "en": "Insular Museum of La Palma"
+              },
+              "tip_5lang": {
+                "de": "Ehemaliges Kloster mit schönem Innenhof.",
+                "hu": "Egykori kolostor szép belső udvarral.",
+                "ro": "Fostă mănăstire cu o curte interioară frumoasă.",
+                "en": "Former convent with a beautiful courtyard."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Kiosko del Mar",
+                "tip": "Snacks am Strand."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Kiosko del Mar",
+                "tip": "Gyors falatok a strandnál."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Kiosko del Mar",
+                "tip": "Gustări pe plajă."
+              }
+            ],
+            "en": [
+              {
+                "name": "Kiosko del Mar",
+                "tip": "Snacks at the beach."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Playa de Santa Cruz",
+                "tip": "Meeresrauschen genießen.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Santa Cruz-i strand",
+                "tip": "Élvezze a tenger morajlását.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Plaja Santa Cruz",
+                "tip": "Bucurați-vă de sunetul mării.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Santa Cruz Beach",
+                "tip": "Enjoy the sound of the sea.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Artesanía El Puente",
+                "tip": "Lokales Handwerk."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Artesanía El Puente",
+                "tip": "Helyi kézműves termékek."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Artesanía El Puente",
+                "tip": "Artizanat local."
+              }
+            ],
+            "en": [
+              {
+                "name": "Artesanía El Puente",
+                "tip": "Local crafts."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Bleiben Sie auf der flachen Avenida.",
+              "Die Altstadtgassen können eng und kopfsteingepflastert sein.",
+              "Ein Schloss ist für Stopps an Museen notwendig."
+            ],
+            "hu": [
+              "Maradjon a sík Avenida-n.",
+              "Az óvárosi utcák szűkek és macskakövesek lehetnek.",
+              "A múzeumi megállókhoz lakat szükséges."
+            ],
+            "ro": [
+              "Rămâneți pe Avenida plană.",
+              "Străzile din orașul vechi pot fi înguste și pavate.",
+              "Este necesar un antifurt pentru opririle la muzee."
+            ],
+            "en": [
+              "Stay on the flat Avenida.",
+              "Old town streets can be narrow and cobbled.",
+              "A lock is necessary for museum stops."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir starten unsere Radtour vorsichtig entlang der nassen Avenida Marítima. Der Blick auf den aufgewühlten Atlantik ist bei Regen besonders dramatisch.\n\nMittags erreichen wir die Burg Santa Catalina. Die alten Steinmauern bieten Schutz, während wir die Aussicht auf den Hafen genießen.\n\nNachmittags radeln wir zum Naval Museum. Es ist die perfekte Station, um die Fahrräder kurz abzustellen und die maritime Geschichte im Trockenen zu erleben.\n\nDer Tag endet mit einer kulturellen Pause im Teatro Circo de Marte und einem Besuch im Insular Museum, wo wir den Regen in den wunderschönen Kreuzgängen vergessen können.",
+            "hu": "Óvatosan kezdjük a bringázást a nedves Avenida Marítima mentén. A felkorbácsolt Atlanti-óceán látványa esőben különösen drámai.\n\nDélben érjük el a Santa Catalina várat. Az ódon kőfalak védelmet nyújtanak, miközben a kikötő látványában gyönyörködünk.\n\nDélután a Naval Museum felé vesszük az irányt. Ez a tökéletes megálló, hogy rövid időre letegyük a bringát és szárazon fedezzük fel a múltat.\n\nA napot kulturális pihenővel zárjuk a Teatro Circo de Marte-ban, majd az Insular Museumban, ahol a kerengők alatt feledhetjük el a kinti esőt.",
+            "ro": "Începem tura cu bicicleta cu prudență pe Avenida Marítima umedă. Vederea spre Atlanticul agitat este deosebit de dramatică pe ploaie.\n\nLa prânz ajungem la Castelul Santa Catalina. Zidurile vechi de piatră oferă adăpost în timp ce admirăm panorama portului.\n\nDupă-amiaza pedalăm spre Muzeul Naval. Este stația perfectă pentru a parca bicicleta și a explora istoria maritimă la adăpost.\n\nZiua se încheie cu o pauză culturală la Teatro Circo de Marte și o vizită la Muzeul Insular, unde arcadele curții ne fac să uităm de ploaie.",
+            "en": "We start our bike tour cautiously along the wet Avenida Marítima. The view of the churning Atlantic is particularly dramatic in the rain.\n\nAt noon, we reach Santa Catalina Castle. The old stone walls offer shelter while we enjoy the views over the harbor.\n\nIn the afternoon, we cycle to the Naval Museum. It's the perfect stop to park the bikes briefly and experience maritime history in the dry.\n\nThe day ends with a cultural break at Teatro Circo de Marte and a visit to the Insular Museum, where we can forget the rain in the beautiful cloisters."
+          },
+          "stops": [
+            {
+              "name": "Avenida Marítima",
+              "tip_5lang": {
+                "de": "Achtung bei den Fliesenabschnitten, diese sind bei Regen extrem rutschig.",
+                "hu": "Vigyázat a csempézett szakaszokon, esőben rendkívül csúsznak.",
+                "ro": "Atenție la secțiunile cu gresie, sunt extrem de alunecoase pe ploaie.",
+                "en": "Watch out for tiled sections, they are extremely slippery in the rain."
+              }
+            },
+            {
+              "name": "Royal Castle of Santa Catalina",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad unter dem Torbogen unter, um trocken zu bleiben.",
+                "hu": "Állítsa a kerékpárt a kapualj alá, hogy száraz maradjon.",
+                "ro": "Parcați bicicleta sub arcada porții pentru a rămâne uscat.",
+                "en": "Park your bike under the gateway arch to stay dry."
+              }
+            },
+            {
+              "name": "Naval Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Garderobe für Ihre nasse Regenbekleidung.",
+                "hu": "Használja a ruhatárat a nedves esőruházat elhelyezésére.",
+                "ro": "Folosiți garderoba pentru hainele de ploaie ude.",
+                "en": "Use the cloakroom for your wet rain gear."
+              }
+            },
+            {
+              "name": "Teatro Circo de Marte",
+              "tip_5lang": {
+                "de": "Informieren Sie sich über Innenführungen während des Regenschauers.",
+                "hu": "Érdeklődjön a belső vezetésekről a zápor ideje alatt.",
+                "ro": "Întrebați de tururile interioare pe durata averselor.",
+                "en": "Inquire about interior tours during the rain shower."
+              }
+            },
+            {
+              "name": "Insular Museum of La Palma",
+              "tip_5lang": {
+                "de": "Die überdachten Gänge bieten idealen Schutz für Radfahrer.",
+                "hu": "A fedett folyosók ideális védelmet nyújtanak a bringásoknak.",
+                "ro": "Coridoarele acoperite oferă adăpost ideal pentru bicicliști.",
+                "en": "The covered corridors provide ideal shelter for cyclists."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Bremsen vor der Abfahrt, da Nässe den Bremsweg verlängert.",
+              "Vermeiden Sie schnelle Kurvenfahrten auf bemaltem Asphalt oder Fliesen.",
+              "Tragen Sie eine auffällige Regenjacke für bessere Sichtbarkeit im Verkehr.",
+              "Schutzbleche am Fahrrad sind bei diesem Wetter absolut empfehlenswert."
+            ],
+            "hu": [
+              "Indulás előtt ellenőrizze a fékeket, a nedvesség növeli a fékutat.",
+              "Kerülje a hirtelen kanyarodást a festett aszfalton vagy csempén.",
+              "Viseljen feltűnő esődzsekit a jobb láthatóság érdekében a forgalomban.",
+              "Sárvédő használata ilyen időben kifejezetten ajánlott."
+            ],
+            "ro": [
+              "Verificați frânele înainte de plecare, umezeala mărește distanța de frânare.",
+              "Evitați virajele strânse pe asfaltul pictat sau pe gresie.",
+              "Purtați o jachetă de ploaie reflectorizantă pentru vizibilitate în trafic.",
+              "Aripile la bicicletă sunt absolut recomandate pe această vreme."
+            ],
+            "en": [
+              "Check your brakes before starting, as wetness increases braking distance.",
+              "Avoid sharp turns on painted asphalt or tiled surfaces.",
+              "Wear a high-visibility rain jacket for better visibility in traffic.",
+              "Mudguards on your bike are highly recommended in this weather."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen auf dem Rad ist erfrischend. Wir fahren die Avenida Marítima entlang und genießen die klare Sicht auf den Horizont.\n\nMittags erkunden wir die Burg Santa Catalina. Die milde Sonne macht den Aufstieg zu den Aussichtspunkten sehr angenehm.\n\nNach einem Besuch im Naval Museum radeln wir zum Teatro Circo de Marte. Die kühle Brise im Gesicht ist die perfekte Abkühlung während der Tour.\n\nZum Abschluss besuchen wir das Insular Museum. Die ruhige Atmosphäre des Winters passt perfekt zu den historischen Exponaten, bevor wir die Tour beenden.",
+            "hu": "A téli reggel frissítő a kerékpáron. Végigtekerünk az Avenida Marítima mentén, élvezve a tiszta kilátást a horizontra.\n\nDélben a Santa Catalina várat fedezzük fel. Az enyhe napsütésben nagyon kellemes a feljutás a kilátópontokra.\n\nA Naval Museum után a Teatro Circo de Marte felé vesszük az irányt. Az arcunkba fújó hűvös szellő tökéletes felfrissülést hoz.\n\nZárásként az Insular Museumot látogatjuk meg. A téli nyugalom remekül illik a történelmi tárlatokhoz a túra végén.",
+            "ro": "Dimineața de iarnă pe bicicletă este revigorantă. Pedalam pe Avenida Marítima și ne bucurăm de vizibilitatea clară spre orizont.\n\nLa prânz explorăm Castelul Santa Catalina. Soarele blând face urcarea spre punctele de belvedere foarte plăcută.\n\nDupă vizita la Muzeul Naval, mergem spre Teatro Circo de Marte. Briza răcoroasă este perfectă pentru a ne menține energia pe traseu.\n\nLa final vizităm Muzeul Insular. Atmosfera liniștită de iarnă se potrivește de minune cu exponatele istorice înainte de finalul turei.",
+            "en": "The winter morning on the bike is refreshing. We ride along Avenida Marítima, enjoying the clear view of the horizon.\n\nAt noon, we explore Santa Catalina Castle. The mild sun makes climbing to the viewpoints very pleasant.\n\nAfter a visit to the Naval Museum, we cycle to Teatro Circo de Marte. The cool breeze on our faces is the perfect refreshment during the tour.\n\nTo conclude, we visit the Insular Museum. The quiet winter atmosphere matches the historical exhibits perfectly before we finish."
+          },
+          "stops": [
+            {
+              "name": "Avenida Marítima",
+              "tip_5lang": {
+                "de": "Die kühle Meeresbrise erfordert ein leichtes Windshirt.",
+                "hu": "A hűvös tengeri szellő miatt egy könnyű szélkabát ajánlott.",
+                "ro": "Briza răcoroasă a mării necesită o jachetă de vânt subțire.",
+                "en": "The cool sea breeze requires a light windbreaker."
+              }
+            },
+            {
+              "name": "Royal Castle of Santa Catalina",
+              "tip_5lang": {
+                "de": "Perfektes Licht für Fotos der Küstenlinie am Mittag.",
+                "hu": "Tökéletes fények a tengerparti sáv fotózásához délidőben.",
+                "ro": "Lumină perfectă pentru poze cu linia țărmului la prânz.",
+                "en": "Perfect light for photos of the coastline at noon."
+              }
+            },
+            {
+              "name": "Naval Museum",
+              "tip_5lang": {
+                "de": "Sichere Fahrradständer befinden sich direkt vor dem Museumsschiff.",
+                "hu": "Biztonságos kerékpártárolók találhatók közvetlenül a múzeumhajó előtt.",
+                "ro": "Rasteluri sigure pentru biciclete se află chiar în fața navei-muzeu.",
+                "en": "Secure bike racks are located directly in front of the museum ship."
+              }
+            },
+            {
+              "name": "Teatro Circo de Marte",
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad in den Seitenstraßen für einen kurzen Blick.",
+                "hu": "Parkolja le a bringát a mellékutcákban egy rövid nézelődéshez.",
+                "ro": "Parcați bicicleta pe străzile laterale pentru o scurtă vizită.",
+                "en": "Park your bike in the side streets for a quick look."
+              }
+            },
+            {
+              "name": "Insular Museum of La Palma",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Innenhof für eine kurze, windstille Pause.",
+                "hu": "Használja a belső udvart egy rövid, szélmentes pihenőre.",
+                "ro": "Folosiți curtea interioară pentru o scurtă pauză ferită de vânt.",
+                "en": "Use the courtyard for a short, windless break."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Zwiebelprinzip bei der Kleidung: In der Sonne warm, im Schatten kühl.",
+              "Die UV-Strahlung ist auch im Winter auf den Kanaren nicht zu unterschätzen.",
+              "Planen Sie Ihre Rückkehr vor 18:00 Uhr, um im Hellen anzukommen.",
+              "Fahrradverleiher haben im Winter oft flexiblere Rückgabezeiten."
+            ],
+            "hu": [
+              "Réteges öltözködés javasolt: a napon meleg van, árnyékban hűvös.",
+              "Az UV-sugárzás télen sem elhanyagolható a Kanári-szigeteken.",
+              "Tervezze a visszaérkezést 18:00 előtt, hogy még világosban célba érjen.",
+              "A kerékpárkölcsönzők télen gyakran rugalmasabb nyitvatartással működnek."
+            ],
+            "ro": [
+              "Folosiți principiul straturilor: e cald la soare, dar răcoare la umbră.",
+              "Radiațiile UV nu trebuie subestimate nici iarna în Canare.",
+              "Planificați întoarcerea înainte de 18:00 pentru a ajunge pe lumină.",
+              "Centrele de închirieri biciclete au adesea orar mai flexibil iarna."
+            ],
+            "en": [
+              "Use the layering principle: warm in the sun, cool in the shade.",
+              "UV radiation shouldn't be underestimated even in winter in the Canaries.",
+              "Plan your return before 6:00 PM to arrive while it's still light.",
+              "Bike rental shops often have more flexible return times in winter."
+            ]
+          }
+        }
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "15:30",
+      "total_km": 15.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Plaza de España",
+            "hu": "Spanyol tér",
+            "ro": "Plaza de España",
+            "en": "Plaza de España"
+          },
+          "coords": [
+            -17.7645,
+            28.6835
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Parken Sie im Hafen-Parkhaus.",
+            "hu": "Parkoljon a kikötői mélygarázsban.",
+            "ro": "Parcați în parcarea din port.",
+            "en": "Park in the port parking garage."
+          }
+        },
+        {
+          "name": {
+            "de": "Santuario de la Virgen de las Nieves (Exkursion)",
+            "hu": "Havas Boldogasszony szentély (kirándulás)",
+            "ro": "Sanctuarul Virgen de las Nieves",
+            "en": "Sanctuary of the Virgin of the Snows"
+          },
+          "coords": [
+            -17.778,
+            28.698
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Heiligtum in den Hügeln über der Stadt.",
+            "hu": "Szentély a város feletti dombokon.",
+            "ro": "Sanctuar în dealurile de deasupra orașului.",
+            "en": "Sanctuary in the hills above the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Naval",
+            "hu": "Tengerészeti Múzeum",
+            "ro": "Muzeul Naval",
+            "en": "Naval Museum"
+          },
+          "coords": [
+            -17.762,
+            28.6885
+          ],
+          "category": "museums",
+          "arrive_at": "11:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Einfach erreichbar im Norden der Stadt.",
+            "hu": "Könnyen elérhető a város északi részén.",
+            "ro": "Ușor accesibil în nordul orașului.",
+            "en": "Easily accessible in the north of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Balcones de la Avenida Marítima",
+            "hu": "Tengerparti sugárút erkélyei",
+            "ro": "Balcoanele de pe Avenida Marítima",
+            "en": "Balconies of Avenida Marítima"
+          },
+          "coords": [
+            -17.763,
+            28.6845
+          ],
+          "category": "famous residences",
+          "arrive_at": "13:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Fotostopp an der Küstenstraße.",
+            "hu": "Fotómegálló a tengerparti úton.",
+            "ro": "Oprire pentru fotografii pe drumul de coastă.",
+            "en": "Photo stop on the coastal road."
+          }
+        },
+        {
+          "name": {
+            "de": "Real Castillo de Santa Catalina",
+            "hu": "Szent Katalin királyi erőd",
+            "ro": "Castelul Santa Catalina",
+            "en": "Royal Castle of Santa Catalina"
+          },
+          "coords": [
+            -17.7625,
+            28.6875
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Letzter Stopp vor der Abfahrt.",
+            "hu": "Utolsó megálló indulás előtt.",
+            "ro": "Ultima oprire înainte de plecare.",
+            "en": "Final stop before departure."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Das Auto ermöglicht Ihnen einen Abstecher zum Santuario in den grünen Bergen oberhalb der Stadt, dem Sitz der Inselpatronin. Danach kehren Sie zurück ins Zentrum, um die maritimen und architektonischen Schätze von Santa Cruz zu bewundern. Die Route kombiniert religiöses Erbe mit der einzigartigen Atmosphäre der kolonialen Hafenstadt.",
+        "hu": "Az autó lehetővé teszi a látogatást a város feletti zöld hegyekben található szentélyhez, a sziget védőszentjének otthonához. Ezután térjen vissza a központba, hogy megcsodálja Santa Cruz tengerészeti és építészeti kincseit. Az útvonal ötvözi a vallási örökséget a gyarmati kikötőváros egyedi hangulatával.",
+        "ro": "Mașina vă permite o abatere la sanctuarul din munții verzi de deasupra orașului, sediul patroanei insulei. Apoi reveniți în centru pentru a admira comorile maritime și arhitecturale din Santa Cruz. Traseul combină moștenirea religioasă cu atmosfera unică a orașului portuar colonial.",
+        "en": "The car allows you a detour to the sanctuary in the green mountains above the city, the home of the island's patron saint. Then return to the center to admire the maritime and architectural treasures of Santa Cruz. The route combines religious heritage with the unique atmosphere of the colonial port city."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Parilla La Caldera",
+            "tip": "Grillspezialitäten über der Stadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parilla La Caldera",
+            "tip": "Grillspecialitások a város felett."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parilla La Caldera",
+            "tip": "Specialități la grătar deasupra orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Parilla La Caldera",
+            "tip": "Grill specialties above the city."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Mirador de las Nieves",
+            "tip": "Panoramablick auf die Stadt.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Havas kilátó",
+            "tip": "Panorámás kilátás a városra.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mirador de las Nieves",
+            "tip": "Vedere panoramică asupra orașului.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Mirador de las Nieves",
+            "tip": "Panoramic view of the city.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mercado Municipal",
+            "tip": "Frische Produkte und Käse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Városi Piac",
+            "tip": "Friss áruk és sajtok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Municipală",
+            "tip": "Produse proaspete și brânzeturi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Municipal Market",
+            "tip": "Fresh produce and cheese."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken in der Altstadt ist fast unmöglich.",
+          "Die Straße zum Santuario ist kurvenreich.",
+          "Nutzen Sie den großen Parkplatz am Meer."
+        ],
+        "hu": [
+          "Az óvárosban szinte lehetetlen parkolni.",
+          "A szentélyhez vezető út kanyargós.",
+          "Használja a nagy tengerparti parkolót."
+        ],
+        "ro": [
+          "Parcarea în orașul vechi este aproape imposibilă.",
+          "Drumul spre sanctuar este sinuos.",
+          "Folosiți parcarea mare de pe malul mării."
+        ],
+        "en": [
+          "Parking in the old town is almost impossible.",
+          "The road to the sanctuary is winding.",
+          "Use the large parking lot by the sea."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Das Auto ermöglicht Ihnen einen Abstecher zum Santuario in den grünen Bergen oberhalb der Stadt, dem Sitz der Inselpatronin. Danach kehren Sie zurück ins Zentrum, um die maritimen und architektonischen Schätze von Santa Cruz zu bewundern. Die Route kombiniert religiöses Erbe mit der einzigartigen Atmosphäre der kolonialen Hafenstadt.",
+            "hu": "Az autó lehetővé teszi a látogatást a város feletti zöld hegyekben található szentélyhez, a sziget védőszentjének otthonához. Ezután térjen vissza a központba, hogy megcsodálja Santa Cruz tengerészeti és építészeti kincseit. Az útvonal ötvözi a vallási örökséget a gyarmati kikötőváros egyedi hangulatával.",
+            "ro": "Mașina vă permite o abatere la sanctuarul din munții verzi de deasupra orașului, sediul patroanei insulei. Apoi reveniți în centru pentru a admira comorile maritime și arhitecturale din Santa Cruz. Traseul combină moștenirea religioasă cu atmosfera unică a orașului portuar colonial.",
+            "en": "The car allows you a detour to the sanctuary in the green mountains above the city, the home of the island's patron saint. Then return to the center to admire the maritime and architectural treasures of Santa Cruz. The route combines religious heritage with the unique atmosphere of the colonial port city."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Plaza de España",
+                "hu": "Spanyol tér",
+                "ro": "Plaza de España",
+                "en": "Plaza de España"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie im Hafen-Parkhaus.",
+                "hu": "Parkoljon a kikötői mélygarázsban.",
+                "ro": "Parcați în parcarea din port.",
+                "en": "Park in the port parking garage."
+              }
+            },
+            {
+              "name": {
+                "de": "Santuario de la Virgen de las Nieves (Exkursion)",
+                "hu": "Havas Boldogasszony szentély (kirándulás)",
+                "ro": "Sanctuarul Virgen de las Nieves",
+                "en": "Sanctuary of the Virgin of the Snows"
+              },
+              "tip_5lang": {
+                "de": "Heiligtum in den Hügeln über der Stadt.",
+                "hu": "Szentély a város feletti dombokon.",
+                "ro": "Sanctuar în dealurile de deasupra orașului.",
+                "en": "Sanctuary in the hills above the city."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Naval",
+                "hu": "Tengerészeti Múzeum",
+                "ro": "Muzeul Naval",
+                "en": "Naval Museum"
+              },
+              "tip_5lang": {
+                "de": "Einfach erreichbar im Norden der Stadt.",
+                "hu": "Könnyen elérhető a város északi részén.",
+                "ro": "Ușor accesibil în nordul orașului.",
+                "en": "Easily accessible in the north of the city."
+              }
+            },
+            {
+              "name": {
+                "de": "Balcones de la Avenida Marítima",
+                "hu": "Tengerparti sugárút erkélyei",
+                "ro": "Balcoanele de pe Avenida Marítima",
+                "en": "Balconies of Avenida Marítima"
+              },
+              "tip_5lang": {
+                "de": "Fotostopp an der Küstenstraße.",
+                "hu": "Fotómegálló a tengerparti úton.",
+                "ro": "Oprire pentru fotografii pe drumul de coastă.",
+                "en": "Photo stop on the coastal road."
+              }
+            },
+            {
+              "name": {
+                "de": "Real Castillo de Santa Catalina",
+                "hu": "Szent Katalin királyi erőd",
+                "ro": "Castelul Santa Catalina",
+                "en": "Royal Castle of Santa Catalina"
+              },
+              "tip_5lang": {
+                "de": "Letzter Stopp vor der Abfahrt.",
+                "hu": "Utolsó megálló indulás előtt.",
+                "ro": "Ultima oprire înainte de plecare.",
+                "en": "Final stop before departure."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Parilla La Caldera",
+                "tip": "Grillspezialitäten über der Stadt."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Parilla La Caldera",
+                "tip": "Grillspecialitások a város felett."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Parilla La Caldera",
+                "tip": "Specialități la grătar deasupra orașului."
+              }
+            ],
+            "en": [
+              {
+                "name": "Parilla La Caldera",
+                "tip": "Grill specialties above the city."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Mirador de las Nieves",
+                "tip": "Panoramablick auf die Stadt.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Havas kilátó",
+                "tip": "Panorámás kilátás a városra.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Mirador de las Nieves",
+                "tip": "Vedere panoramică asupra orașului.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Mirador de las Nieves",
+                "tip": "Panoramic view of the city.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Mercado Municipal",
+                "tip": "Frische Produkte und Käse."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Városi Piac",
+                "tip": "Friss áruk és sajtok."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Piața Municipală",
+                "tip": "Produse proaspete și brânzeturi."
+              }
+            ],
+            "en": [
+              {
+                "name": "Municipal Market",
+                "tip": "Fresh produce and cheese."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Parken in der Altstadt ist fast unmöglich.",
+              "Die Straße zum Santuario ist kurvenreich.",
+              "Nutzen Sie den großen Parkplatz am Meer."
+            ],
+            "hu": [
+              "Az óvárosban szinte lehetetlen parkolni.",
+              "A szentélyhez vezető út kanyargós.",
+              "Használja a nagy tengerparti parkolót."
+            ],
+            "ro": [
+              "Parcarea în orașul vechi este aproape imposibilă.",
+              "Drumul spre sanctuar este sinuos.",
+              "Folosiți parcarea mare de pe malul mării."
+            ],
+            "en": [
+              "Parking in the old town is almost impossible.",
+              "The road to the sanctuary is winding.",
+              "Use the large parking lot by the sea."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden wir Santa Cruz heute ganz entspannt. Wir starten an der Plaza de España und huschen zwischen den Schauern kurz hinaus.\n\nMittags fahren wir hinauf zum Santuario de la Virgen de las Nieves. Die wolkenverhangenen Berge verleihen diesem heiligen Ort eine mystische Atmosphäre.\n\nNachmittags parken wir direkt beim Naval Museum. Es ist der ideale Stopp, um die Regenzeit mit maritimem Wissen zu füllen.\n\nZum Abschluss bewundern wir die Balkone der Avenida Marítima und die Burg Santa Catalina bequem vom Auto aus oder bei kurzen Stopps, wenn der Regen nachlässt.",
+            "hu": "Autóval ma kényelmesen fedezzük fel Santa Cruzt. A Plaza de España téren kezdünk, két zápor között téve egy rövid sétát.\n\nDélben felautózunk a Santuario de la Virgen de las Nieves szentélyhez. A felhőbe burkolózott hegyek misztikus hangulatot adnak a helynek.\n\nDélután közvetlenül a Naval Museum mellett parkolunk le. Ideális állomás, hogy az esős időt tengerészeti ismeretekkel töltsük meg.\n\nZárásként az Avenida Marítima erkélyeit és a Santa Catalina várat csodáljuk meg az autóból, vagy rövid megállókkal, amikor csendesedik az eső.",
+            "ro": "Explorăm Santa Cruz relaxat cu mașina astăzi. Începem la Plaza de España, ieșind scurt între două reprize de ploaie.\n\nLa prânz urcăm spre Sanctuarul Virgen de las Nieves. Munții acoperiți de nori oferă acestui loc sfânt o atmosferă mistică.\n\nDupă-amiaza parcăm chiar lângă Muzeul Naval. Este oprirea ideală pentru a umple timpul ploios cu istorie maritimă.\n\nLa final admirăm balcoanele de pe Avenida Marítima și Castelul Santa Catalina confortabil din mașină sau cu scurte opriri când ploaia se mai domolește.",
+            "en": "We explore Santa Cruz very relaxedly by car today. We start at Plaza de España, darting out briefly between showers.\n\nAt noon, we drive up to the Sanctuary of the Virgin of the Snows. The cloud-covered mountains give this holy place a mystical atmosphere.\n\nIn the afternoon, we park directly by the Naval Museum. It's the ideal stop to fill the rainy time with maritime knowledge.\n\nTo conclude, we admire the balconies of Avenida Marítima and Santa Catalina Castle comfortably from the car or during short stops when the rain lets up."
+          },
+          "stops": [
+            {
+              "name": "Plaza de España",
+              "tip_5lang": {
+                "de": "Parken Sie im nahen Parkhaus, um trocken ins Zentrum zu kommen.",
+                "hu": "Parkoljon a közeli parkolóházban, hogy szárazon jusson a központba.",
+                "ro": "Parcați în garajul subteran din apropiere pentru a ajunge uscat în centru.",
+                "en": "Park in the nearby parking garage to get to the center dry."
+              }
+            },
+            {
+              "name": "Sanctuary of the Virgin of the Snows",
+              "tip_5lang": {
+                "de": "Vorsicht bei Nebel auf der Bergstraße zum Santuario.",
+                "hu": "Vigyázat, a szentélyhez vezető hegyi úton köd alakulhat ki.",
+                "ro": "Atenție la ceață pe drumul de munte spre sanctuar.",
+                "en": "Watch out for fog on the mountain road to the Sanctuary."
+              }
+            },
+            {
+              "name": "Naval Museum",
+              "tip_5lang": {
+                "de": "Parkplätze finden sich oft direkt an der Hauptstraße davor.",
+                "hu": "Parkolóhelyek gyakran találhatók közvetlenül előtte a főúton.",
+                "ro": "Locuri de parcare se găsesc adesea chiar pe drumul principal din față.",
+                "en": "Parking spots can often be found directly on the main road in front."
+              }
+            },
+            {
+              "name": "Balconies of Avenida Marítima",
+              "tip_5lang": {
+                "de": "Langsames Vorbeifahren erlaubt einen guten Blick ohne auszusteigen.",
+                "hu": "A lassú elhajtás jó rálátást biztosít anélkül, hogy kiszállna.",
+                "ro": "Trecerea lentă cu mașina permite o vedere bună fără a coborî.",
+                "en": "Driving by slowly allows a good view without getting out."
+              }
+            },
+            {
+              "name": "Royal Castle of Santa Catalina",
+              "tip_5lang": {
+                "de": "Kurzer Stopp am Straßenrand für ein schnelles Foto möglich.",
+                "hu": "Rövid megállás az út szélén lehetséges egy gyors fotóhoz.",
+                "ro": "Scurtă oprire la marginea drumului posibilă pentru o poză rapidă.",
+                "en": "Short stop at the roadside possible for a quick photo."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Berücksichtigen Sie bei Regen schlechtere Sicht auf den Bergstraßen.",
+              "Die öffentlichen Parkhäuser in Hafennähe sind im Winter oft leerer.",
+              "Nutzen Sie die Zeit für Fahrten zu höher gelegenen Aussichtspunkten.",
+              "Prüfen Sie den Zustand Ihrer Scheibenwischer vor der Fahrt ins Gebirge."
+            ],
+            "hu": [
+              "Számoljon a rosszabb látási viszonyokkal az esős hegyi utakon.",
+              "A kikötő közeli nyilvános parkolóházak télen gyakran üresebbek.",
+              "Használja ki az időt a magasabban fekvő kilátópontok felkeresésére.",
+              "Ellenőrizze az ablaktörlők állapotát a hegyi túra előtt."
+            ],
+            "ro": [
+              "Luați în calcul vizibilitatea redusă pe drumurile de munte pe ploaie.",
+              "Parcările publice de lângă port sunt adesea mai goale iarna.",
+              "Folosiți timpul pentru a conduce spre puncte de belvedere mai înalte.",
+              "Verificați starea ștergătoarelor înainte de a pleca spre munți."
+            ],
+            "en": [
+              "Account for poorer visibility on mountain roads during rain.",
+              "Public parking garages near the harbor are often emptier in winter.",
+              "Use the time for drives to higher-altitude viewpoints.",
+              "Check your windshield wiper condition before heading to the mountains."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen lädt zu einer entspannten Fahrt durch Santa Cruz ein. Die Plaza de España ist im milden Licht ein wunderbarer erster Stopp.\n\nMittags fahren wir zum Santuario de la Virgen de las Nieves. Die klare Winterluft ermöglicht weite Ausblicke über die gesamte Ostküste.\n\nNachmittags besuchen wir das Naval Museum. Die Parkplatzsuche ist in der Nebensaison deutlich entspannter als im Sommer.\n\nWir beenden die Tour bei der Avenida Marítima und der Burg Santa Catalina. Das warme Licht der Wintersonne ist perfekt für Landschaftsaufnahmen.",
+            "hu": "A téli reggel hívogató egy kényelmes autózáshoz Santa Cruzban. A Plaza de España az enyhe fényben csodálatos első állomás.\n\nDélben felhajtunk a Santuario de la Virgen de las Nieves szentélyhez. A tiszta téli levegőben messzire ellátni a teljes keleti part felett.\n\nDélután a Naval Museumot látogatjuk meg. A parkolóhely-keresés utószezonban sokkal nyugodtabb, mint nyáron.\n\nTúránkat az Avenida Marítima mentén és a Santa Catalina várnál zárjuk. A téli nap meleg fényei tökéletesek a tájfotózáshoz.",
+            "ro": "Dimineața de iarnă ne invită la o plimbare relaxantă cu mașina prin Santa Cruz. Plaza de España este o primă oprire minunată în lumina blândă.\n\nLa prânz conducem spre Sanctuarul Virgen de las Nieves. Aerul clar de iarnă permite vederi panoramice peste întreaga coastă de est.\n\nDupă-amiaza vizităm Muzeul Naval. Găsirea unui loc de parcare este mult mai ușoară în extrasezon decât vara.\n\nÎncheiem turul la Avenida Marítima și Castelul Santa Catalina. Lumina caldă a soarelui de iarnă este perfectă pentru fotografii de peisaj.",
+            "en": "The winter morning invites a relaxed drive through Santa Cruz. Plaza de España is a wonderful first stop in the mild light.\n\nAt noon, we drive to the Sanctuary of the Virgin of the Snows. The clear winter air allows for far-reaching views over the entire east coast.\n\nIn the afternoon, we visit the Naval Museum. Finding a parking spot is much more relaxed in the off-season than in summer.\n\nWe end the tour at Avenida Marítima and Santa Catalina Castle. The warm winter sun light is perfect for landscape shots."
+          },
+          "stops": [
+            {
+              "name": "Plaza de España",
+              "tip_5lang": {
+                "de": "Kurzzeitparken ist in den Morgenstunden oft problemlos möglich.",
+                "hu": "A rövid távú parkolás a reggeli órákban gyakran problémamentes.",
+                "ro": "Parcarea pe termen scurt este adesea facilă în orele dimineții.",
+                "en": "Short-term parking is often trouble-free during morning hours."
+              }
+            },
+            {
+              "name": "Sanctuary of the Virgin of the Snows",
+              "tip_5lang": {
+                "de": "Bringen Sie eine Jacke mit, es ist hier oben kühler als am Meer.",
+                "hu": "Hozzon kabátot, itt fent hűvösebb van, mint a tengerparton.",
+                "ro": "Aduceți o jachetă, aici sus este mai răcoare decât la malul mării.",
+                "en": "Bring a jacket, it's cooler up here than at the seaside."
+              }
+            },
+            {
+              "name": "Naval Museum",
+              "tip_5lang": {
+                "de": "Perfekt für einen Museumsbesuch ohne Sommertouristenströme.",
+                "hu": "Tökéletes múzeumlátogatás a nyári turistaáradat nélkül.",
+                "ro": "Perfect pentru o vizită la muzeu fără puhoaiele de turiști de vară.",
+                "en": "Perfect for a museum visit without the summer tourist crowds."
+              }
+            },
+            {
+              "name": "Balconies of Avenida Marítima",
+              "tip_5lang": {
+                "de": "Genießen Sie den Ausblick, bevor der frühe Schatten fällt.",
+                "hu": "Élvezze a kilátást, mielőtt a korai árnyékok megérkeznének.",
+                "ro": "Bucurați-vă de priveliște înainte de lăsarea umbrelor timpurii.",
+                "en": "Enjoy the view before the early shadows fall."
+              }
+            },
+            {
+              "name": "Royal Castle of Santa Catalina",
+              "tip_5lang": {
+                "de": "Der Parkplatz davor ist im Winter meist frei.",
+                "hu": "Az előtte lévő parkoló télen többnyire szabad.",
+                "ro": "Parcarea din față este de obicei liberă iarna.",
+                "en": "The parking lot in front is usually free in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahren Sie rechtzeitig zum Sonnenuntergang an die Küste.",
+              "Die Straßen sind im Winter weniger befahren, ideal für Mietwagen-Neulinge.",
+              "Klimaanlage auf Heizen stellen, wenn Sie in die Berge fahren.",
+              "Parkgebühren sind in einigen Zonen im Winter reduziert."
+            ],
+            "hu": [
+              "Induljon időben a tengerpartra a naplemente megtekintéséhez.",
+              "Az utak télen kevésbé zsúfoltak, ideális bérautós kezdőknek.",
+              "Állítsa a légkondicionálót fűtésre, ha a hegyekbe utazik.",
+              "A parkolási díjak bizonyos zónákban télen kedvezőbbek lehetnek."
+            ],
+            "ro": [
+              "Conduceți spre coastă la timp pentru a prinde apusul.",
+              "Drumurile sunt mai puțin circulate iarna, ideal pentru șoferii cu mașini închiriate.",
+              "Setați climatizarea pe încălzire când mergeți spre munți.",
+              "Taxele de parcare sunt reduse în unele zone pe timpul iernii."
+            ],
+            "en": [
+              "Drive to the coast in time for the sunset.",
+              "The roads are less busy in winter, ideal for rental car novices.",
+              "Set the air conditioning to heating when driving into the mountains.",
+              "Parking fees are reduced in some zones during winter."
+            ]
+          }
+        }
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "15:30",
+      "total_km": 4.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Puerto de Santa Cruz",
+            "hu": "Santa Cruz-i kikötő",
+            "ro": "Portul Santa Cruz",
+            "en": "Santa Cruz Port"
+          },
+          "coords": [
+            -17.766,
+            28.681
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Hauptknotenpunkt für Busse und Fähren.",
+            "hu": "Fő csomópont buszokhoz és kompokhoz.",
+            "ro": "Nod principal pentru autobuze și feriboturi.",
+            "en": "Main hub for buses and ferries."
+          }
+        },
+        {
+          "name": {
+            "de": "Plaza de España",
+            "hu": "Spanyol tér",
+            "ro": "Plaza de España",
+            "en": "Plaza de España"
+          },
+          "coords": [
+            -17.7645,
+            28.6835
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:05",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Haltestelle in Gehweite.",
+            "hu": "Megálló sétatávolságra.",
+            "ro": "Stație la mică distanță de mers pe jos.",
+            "en": "Stop within walking distance."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Naval",
+            "hu": "Tengerészeti Múzeum",
+            "ro": "Muzeul Naval",
+            "en": "Naval Museum"
+          },
+          "coords": [
+            -17.762,
+            28.6885
+          ],
+          "category": "museums",
+          "arrive_at": "11:05",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Nördliches Ende der Buslinie.",
+            "hu": "A buszvonal északi vége.",
+            "ro": "Capătul nordic al liniei de autobuz.",
+            "en": "Northern end of the bus line."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Insular de La Palma",
+            "hu": "La Palma-i Szigeti Múzeum",
+            "ro": "Muzeul Insular La Palma",
+            "en": "Insular Museum of La Palma"
+          },
+          "coords": [
+            -17.7655,
+            28.684
+          ],
+          "category": "museums",
+          "arrive_at": "12:45",
+          "stay_min": 70,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Zentraler Stopp für Kulturfreunde.",
+            "hu": "Központi megálló a kultúra kedvelőinek.",
+            "ro": "Stație centrală pentru iubitorii de cultură.",
+            "en": "Central stop for culture lovers."
+          }
+        },
+        {
+          "name": {
+            "de": "Avenida Marítima",
+            "hu": "Tengerparti sugárút",
+            "ro": "Avenida Marítima",
+            "en": "Avenida Marítima"
+          },
+          "coords": [
+            -17.763,
+            28.6845
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:05",
+          "stay_min": 55,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Perfekter Abschluss am Meer.",
+            "hu": "Tökéletes befejezés a tengerparton.",
+            "ro": "Final perfect pe malul mării.",
+            "en": "Perfect end by the sea."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Dank des gut ausgebauten Busnetzes erreichen Sie mühelos die kulturellen Zentren der Stadt. Vom Hafen führt die Reise zum renesancéhaften Kern und weiter zum berühmten Schiff-Museum. Diese Tour bietet eine stressfreie Möglichkeit, die bedeutendsten Museen und architektonischen Wahrzeichen der Inselhauptstadt zu erleben.",
+        "hu": "A jól kiépített buszhálózatnak köszönhetően könnyedén elérheti a város kulturális központjait. A kikötőtől az út a reneszánsz maghoz, majd a híres hajómúzeumhoz vezet. Ez a túra stresszmentes lehetőséget kínál a sziget fővárosának legfontosabb múzeumainak és építészeti nevezetességeinek megtekintésére.",
+        "ro": "Datorită rețelei de autobuze bine puse la punct, ajungeți fără efort la centrele culturale ale orașului. De la port, călătoria duce spre nucleul renascentist și mai departe la celebrul muzeu-corabie. Acest tur oferă o modalitate fără stres de a experimenta cele mai importante muzee și repere arhitecturale ale capitalei insulei.",
+        "en": "Thanks to the well-developed bus network, you can effortlessly reach the city's cultural centers. From the port, the journey leads to the Renaissance core and further to the famous ship museum. This tour offers a stress-free way to experience the most significant museums and architectural landmarks of the island's capital."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Arepera La Carabela",
+            "tip": "Günstige Arepas nähe Hafen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Arepera La Carabela",
+            "tip": "Kedvező árú arepák a kikötőnél."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Arepera La Carabela",
+            "tip": "Arepas ieftine lângă port."
+          }
+        ],
+        "en": [
+          {
+            "name": "Arepera La Carabela",
+            "tip": "Affordable arepas near the port."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parque de los Álamos",
+            "tip": "Ruhiger Platz zum Warten.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Álamos park",
+            "tip": "Csendes hely a várakozáshoz.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Álamos",
+            "tip": "Loc liniștit pentru așteptare.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Alamos Park",
+            "tip": "Quiet place to wait.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kiosk San Telmo",
+            "tip": "Zeitschriften und Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szent Elmo kioszk",
+            "tip": "Újságok és ajándéktárgyak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșcul San Telmo",
+            "tip": "Ziare și suveniruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "San Telmo Kiosk",
+            "tip": "Magazines and souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Mehrfahrtenkarte (Bono).",
+          "Achten Sie auf die Fahrpläne am Wochenende.",
+          "Die Hauptstation liegt direkt am Hafen."
+        ],
+        "hu": [
+          "Vásároljon gyűjtőjegyet (Bono).",
+          "Hétvégén figyelje a menetrendet.",
+          "A főállomás közvetlenül a kikötőnél található."
+        ],
+        "ro": [
+          "Cumpărați un card Bono.",
+          "Atenție la orarul de weekend.",
+          "Stația principală este chiar în port."
+        ],
+        "en": [
+          "Buy a multi-trip card (Bono).",
+          "Pay attention to weekend schedules.",
+          "The main station is right at the port."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Dank des gut ausgebauten Busnetzes erreichen Sie mühelos die kulturellen Zentren der Stadt. Vom Hafen führt die Reise zum renesancéhaften Kern und weiter zum berühmten Schiff-Museum. Diese Tour bietet eine stressfreie Möglichkeit, die bedeutendsten Museen und architektonischen Wahrzeichen der Inselhauptstadt zu erleben.",
+            "hu": "A jól kiépített buszhálózatnak köszönhetően könnyedén elérheti a város kulturális központjait. A kikötőtől az út a reneszánsz maghoz, majd a híres hajómúzeumhoz vezet. Ez a túra stresszmentes lehetőséget kínál a sziget fővárosának legfontosabb múzeumainak és építészeti nevezetességeinek megtekintésére.",
+            "ro": "Datorită rețelei de autobuze bine puse la punct, ajungeți fără efort la centrele culturale ale orașului. De la port, călătoria duce spre nucleul renascentist și mai departe la celebrul muzeu-corabie. Acest tur oferă o modalitate fără stres de a experimenta cele mai importante muzee și repere arhitecturale ale capitalei insulei.",
+            "en": "Thanks to the well-developed bus network, you can effortlessly reach the city's cultural centers. From the port, the journey leads to the Renaissance core and further to the famous ship museum. This tour offers a stress-free way to experience the most significant museums and architectural landmarks of the island's capital."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Puerto de Santa Cruz",
+                "hu": "Santa Cruz-i kikötő",
+                "ro": "Portul Santa Cruz",
+                "en": "Santa Cruz Port"
+              },
+              "tip_5lang": {
+                "de": "Hauptknotenpunkt für Busse und Fähren.",
+                "hu": "Fő csomópont buszokhoz és kompokhoz.",
+                "ro": "Nod principal pentru autobuze și feriboturi.",
+                "en": "Main hub for buses and ferries."
+              }
+            },
+            {
+              "name": {
+                "de": "Plaza de España",
+                "hu": "Spanyol tér",
+                "ro": "Plaza de España",
+                "en": "Plaza de España"
+              },
+              "tip_5lang": {
+                "de": "Haltestelle in Gehweite.",
+                "hu": "Megálló sétatávolságra.",
+                "ro": "Stație la mică distanță de mers pe jos.",
+                "en": "Stop within walking distance."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Naval",
+                "hu": "Tengerészeti Múzeum",
+                "ro": "Muzeul Naval",
+                "en": "Naval Museum"
+              },
+              "tip_5lang": {
+                "de": "Nördliches Ende der Buslinie.",
+                "hu": "A buszvonal északi vége.",
+                "ro": "Capătul nordic al liniei de autobuz.",
+                "en": "Northern end of the bus line."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Insular de La Palma",
+                "hu": "La Palma-i Szigeti Múzeum",
+                "ro": "Muzeul Insular La Palma",
+                "en": "Insular Museum of La Palma"
+              },
+              "tip_5lang": {
+                "de": "Zentraler Stopp für Kulturfreunde.",
+                "hu": "Központi megálló a kultúra kedvelőinek.",
+                "ro": "Stație centrală pentru iubitorii de cultură.",
+                "en": "Central stop for culture lovers."
+              }
+            },
+            {
+              "name": {
+                "de": "Avenida Marítima",
+                "hu": "Tengerparti sugárút",
+                "ro": "Avenida Marítima",
+                "en": "Avenida Marítima"
+              },
+              "tip_5lang": {
+                "de": "Perfekter Abschluss am Meer.",
+                "hu": "Tökéletes befejezés a tengerparton.",
+                "ro": "Final perfect pe malul mării.",
+                "en": "Perfect end by the sea."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Arepera La Carabela",
+                "tip": "Günstige Arepas nähe Hafen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Arepera La Carabela",
+                "tip": "Kedvező árú arepák a kikötőnél."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Arepera La Carabela",
+                "tip": "Arepas ieftine lângă port."
+              }
+            ],
+            "en": [
+              {
+                "name": "Arepera La Carabela",
+                "tip": "Affordable arepas near the port."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Parque de los Álamos",
+                "tip": "Ruhiger Platz zum Warten.",
+                "emoji": "🍃"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Álamos park",
+                "tip": "Csendes hely a várakozáshoz.",
+                "emoji": "🍃"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Parcul Álamos",
+                "tip": "Loc liniștit pentru așteptare.",
+                "emoji": "🍃"
+              }
+            ],
+            "en": [
+              {
+                "name": "Alamos Park",
+                "tip": "Quiet place to wait.",
+                "emoji": "🍃"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Kiosk San Telmo",
+                "tip": "Zeitschriften und Souvenirs."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Szent Elmo kioszk",
+                "tip": "Újságok és ajándéktárgyak."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Chioșcul San Telmo",
+                "tip": "Ziare și suveniruri."
+              }
+            ],
+            "en": [
+              {
+                "name": "San Telmo Kiosk",
+                "tip": "Magazines and souvenirs."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Kaufen Sie eine Mehrfahrtenkarte (Bono).",
+              "Achten Sie auf die Fahrpläne am Wochenende.",
+              "Die Hauptstation liegt direkt am Hafen."
+            ],
+            "hu": [
+              "Vásároljon gyűjtőjegyet (Bono).",
+              "Hétvégén figyelje a menetrendet.",
+              "A főállomás közvetlenül a kikötőnél található."
+            ],
+            "ro": [
+              "Cumpărați un card Bono.",
+              "Atenție la orarul de weekend.",
+              "Stația principală este chiar în port."
+            ],
+            "en": [
+              "Buy a multi-trip card (Bono).",
+              "Pay attention to weekend schedules.",
+              "The main station is right at the port."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir nutzen die 'Guaguas', um Santa Cruz im Regen zu erkunden. Vom Hafen aus erreichen wir schnell die Plaza de España und bleiben im Bus trocken.\n\nMittags steigen wir beim Naval Museum aus. Die kurzen Wege zwischen Haltestelle und Museum minimieren den Kontakt mit dem Regen.\n\nNachmittags besuchen wir das Insular Museum. Busfahren bietet uns die Flexibilität, immer dort auszusteigen, wo gerade ein Unterstand ist.\n\nWir beenden den Tag an der Avenida Marítima. Die überdachten Haltestellen sind gute Aussichtspunkte, um den Regen über dem Meer zu beobachten.",
+            "hu": "A 'Guaguas' buszokat használjuk Santa Cruz felfedezéséhez az esőben. A kikötőből gyorsan elérjük a Plaza de España-t, miközben szárazon maradunk.\n\nDélben a Naval Museumnál szállunk le. A megálló és a múzeum közötti rövid táv minimalizálja az esővel való érintkezést.\n\nDélután az Insular Museumot keressük fel. A buszozás rugalmasságot ad: ott szállunk le, ahol épp fedett várakozót találunk.\n\nA napot az Avenida Marítima mentén zárjuk. A fedett buszmegállók jó megfigyelőpontok az óceán feletti eső követésére.",
+            "ro": "Folosim autobuzele 'Guaguas' pentru a explora Santa Cruz pe ploaie. Din port ajungem rapid în Plaza de España, rămânând uscați în autobuz.\n\nLa prânz coborâm la Muzeul Naval. Distanța scurtă dintre stație și muzeu minimizează contactul cu ploaia.\n\nDupă-amiaza vizităm Muzeul Insular. Mersul cu autobuzul ne oferă flexibilitatea de a coborî acolo unde există un adăpost.\n\nÎncheiem ziua pe Avenida Marítima. Stațiile acoperite sunt puncte bune de observație pentru a privi ploaia deasupra mării.",
+            "en": "We use the 'Guaguas' to explore Santa Cruz in the rain. From the port, we quickly reach Plaza de España while staying dry on the bus.\n\nAt noon, we get off at the Naval Museum. The short distance between the stop and the museum minimizes contact with the rain.\n\nIn the afternoon, we visit the Insular Museum. Taking the bus gives us the flexibility to get off wherever there is a shelter.\n\nWe end the day at Avenida Marítima. The covered bus stops are good vantage points to watch the rain over the sea."
+          },
+          "stops": [
+            {
+              "name": "Santa Cruz Port",
+              "tip_5lang": {
+                "de": "Die Wartehalle im Hafen ist ein perfekter trockener Startpunkt.",
+                "hu": "A kikötői váróterem tökéletes száraz indulási pont.",
+                "ro": "Sala de așteptare din port este un punct de plecare uscat ideal.",
+                "en": "The port waiting hall is a perfect dry starting point."
+              }
+            },
+            {
+              "name": "Plaza de España",
+              "tip_5lang": {
+                "de": "Zentrale Haltestelle mit vielen Unterstellmöglichkeiten in der Nähe.",
+                "hu": "Központi megálló, a közelben számos fedett várakozási lehetőséggel.",
+                "ro": "Stație centrală cu multe posibilități de adăpost în apropiere.",
+                "en": "Central stop with many shelter options nearby."
+              }
+            },
+            {
+              "name": "Naval Museum",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle befindet sich fast direkt vor dem Eingang.",
+                "hu": "A buszmegálló szinte közvetlenül a bejárat előtt található.",
+                "ro": "Stația de autobuz se află aproape direct în fața intrării.",
+                "en": "The bus stop is located almost directly in front of the entrance."
+              }
+            },
+            {
+              "name": "Insular Museum of La Palma",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg von der Haltestelle durch meist enge, geschützte Gassen.",
+                "hu": "Rövid séta a megállótól, többnyire szűk, védett utcákon keresztül.",
+                "ro": "Scurtă plimbare de la stație prin străduțe înguste și protejate.",
+                "en": "Short walk from the stop through mostly narrow, sheltered streets."
+              }
+            },
+            {
+              "name": "Avenida Marítima",
+              "tip_5lang": {
+                "de": "Nutzen Sie die gläsernen Wartehäuschen für den Meerblick.",
+                "hu": "Használja az üvegezett várókat a tengeri kilátáshoz.",
+                "ro": "Folosiți refugiile de sticlă ale stațiilor pentru vedere la mare.",
+                "en": "Use the glass bus shelters for the sea view."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Holen Sie sich eine 'Bono-Bus' Karte für günstigere Fahrten.",
+              "Die Busse sind im Winter oft pünktlicher als in der Hauptsaison.",
+              "Vermeiden Sie das Warten an nicht überdachten Haltestellen.",
+              "Prüfen Sie die Fahrpläne online, da sie im Winter variieren können."
+            ],
+            "hu": [
+              "Váltson 'Bono-Bus' kártyát a kedvezőbb viteldíjakért.",
+              "A buszok télen gyakran pontosabbak, mint a főszezonban.",
+              "Kerülje a várakozást a nem fedett megállókban.",
+              "Ellenőrizze a menetrendet online, mert télen változhatnak."
+            ],
+            "ro": [
+              "Luați un card 'Bono-Bus' pentru tarife mai mici.",
+              "Autobuzele sunt adesea mai punctuale iarna decât în plin sezon.",
+              "Evitați să așteptați în stațiile care nu sunt acoperite.",
+              "Verificați orarul online, deoarece poate varia iarna."
+            ],
+            "en": [
+              "Get a 'Bono-Bus' card for cheaper fares.",
+              "Buses are often more punctual in winter than in high season.",
+              "Avoid waiting at stops that are not covered.",
+              "Check schedules online as they may vary in winter."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintertag ist ideal für den öffentlichen Nahverkehr. Wir starten im Hafen und genießen die Fahrt durch die weihnachtlich dekorierte Stadt.\n\nMittags erreichen wir die Plaza de España. Die milde Luft macht das Warten auf den nächsten Bus an den offenen Haltestellen angenehm.\n\nNachmittags besuchen wir das Naval Museum und das Insular Museum. Die Busse sind weniger voll und wir bekommen immer einen Fensterplatz.\n\nWir beenden die Tour an der Avenida Marítima. Die beleuchteten Fassaden der Altstadt wirken im frühen Abendlicht besonders prächtig.",
+            "hu": "Egy tiszta téli nap ideális a tömegközlekedéshez. A kikötőből indulunk, élvezve az utazást a karácsonyi díszbe öltözött városon át.\n\nDélben érkezünk a Plaza de España térre. Az enyhe időben kellemes a várakozás a következő buszra a nyitott megállókban.\n\nDélután a Naval Museumot és az Insular Museumot látogatjuk meg. A buszok kevésbé zsúfoltak, mindig jut ablak melletti hely.\n\nTúránkat az Avenida Marítima mentén zárjuk. Az óváros kivilágított homlokzatai a korai esti fényben különösen pompásak.",
+            "ro": "O zi senină de iarnă este ideală pentru transportul public. Pornim din port și ne bucurăm de călătoria prin orașul decorat de sărbătoare.\n\nLa prânz ajungem în Plaza de España. Vremea blândă face ca așteptarea următorului autobuz în stațiile deschise să fie plăcută.\n\nDupă-amiaza vizităm Muzeul Naval și Muzeul Insular. Autobuzele sunt mai libere și găsim mereu loc la fereastră.\n\nÎncheiem turul pe Avenida Marítima. Fațadele iluminate ale centrului vechi arată spectaculos în lumina serii timpurii.",
+            "en": "A clear winter day is ideal for public transit. We start at the port and enjoy the ride through the Christmas-decorated city.\n\nAt noon, we reach Plaza de España. The mild weather makes waiting for the next bus at open stops pleasant.\n\nIn the afternoon, we visit the Naval Museum and the Insular Museum. The buses are less crowded, and we always get a window seat.\n\nWe end the tour at Avenida Marítima. The illuminated facades of the old town look particularly magnificent in the early evening light."
+          },
+          "stops": [
+            {
+              "name": "Santa Cruz Port",
+              "tip_5lang": {
+                "de": "Startpunkt für viele Linien, die das Zentrum und die Vororte verbinden.",
+                "hu": "Kiindulópont számos járat számára, amelyek a központot és az elővárosokat kötik össze.",
+                "ro": "Punct de plecare pentru multe linii care leagă centrul de suburbii.",
+                "en": "Starting point for many lines connecting the center and suburbs."
+              }
+            },
+            {
+              "name": "Plaza de España",
+              "tip_5lang": {
+                "de": "Ideal, um zwischen verschiedenen Stadtlinien umzusteigen.",
+                "hu": "Ideális átszállási pont a különböző városi járatok között.",
+                "ro": "Ideal pentru a schimba între diferite linii urbane.",
+                "en": "Ideal for transferring between different city bus lines."
+              }
+            },
+            {
+              "name": "Naval Museum",
+              "tip_5lang": {
+                "de": "Genießen Sie die Aussicht aus dem Bus während der Fahrt hierher.",
+                "hu": "Élvezze a kilátást a buszból az idevezető út során.",
+                "ro": "Bucurați-vă de priveliște din autobuz în timpul călătoriei până aici.",
+                "en": "Enjoy the view from the bus during the ride here."
+              }
+            },
+            {
+              "name": "Insular Museum of La Palma",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle liegt in einer der schönsten Straßen der Stadt.",
+                "hu": "A buszmegálló a város egyik legszebb utcájában található.",
+                "ro": "Stația de autobuz se află pe una dintre cele mai frumoase străzi.",
+                "en": "The bus stop is located on one of the most beautiful streets."
+              }
+            },
+            {
+              "name": "Avenida Marítima",
+              "tip_5lang": {
+                "de": "Bester Ausstiegspunkt, um die Abendbeleuchtung zu bewundern.",
+                "hu": "A legjobb leszállóhely az esti kivilágítás megtekintéséhez.",
+                "ro": "Cel mai bun punct de coborâre pentru a admira iluminatul de seară.",
+                "en": "Best drop-off point to admire the evening illumination."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die 'Tilp' App für Echtzeit-Businformationen.",
+              "Die Busfrequenz kann an Wochenenden im Winter reduziert sein.",
+              "Achten Sie auf Sonderfahrpläne während der Weihnachtszeit.",
+              "Die vorderen Sitze im Bus bieten oft die beste Sicht auf die engen Kurven."
+            ],
+            "hu": [
+              "Használja a 'Tilp' alkalmazást a valós idejű buszinformációkért.",
+              "A buszok gyakorisága hétvégenként télen alacsonyabb lehet.",
+              "Ügyeljen a karácsonyi időszak alatti rendkívüli menetrendre.",
+              "A busz első ülései kínálják a legjobb kilátást a szűk kanyarokra."
+            ],
+            "ro": [
+              "Folosiți aplicația 'Tilp' pentru informații în timp real despre autobuze.",
+              "Frecvența autobuzelor poate fi redusă în weekend-urile de iarnă.",
+              "Atenție la orarele speciale din perioada Crăciunului.",
+              "Scaunele din față oferă adesea cea mai bună vedere asupra curbelor strânse."
+            ],
+            "en": [
+              "Use the 'Tilp' app for real-time bus information.",
+              "Bus frequency may be reduced on weekends during winter.",
+              "Watch out for special holiday schedules during the Christmas period.",
+              "The front seats in the bus often offer the best view of narrow turns."
+            ]
+          }
+        }
+      }
+    }
+  },
+  "external_resources": {
+    "tourism_office": "https://www.visitlapalma.es",
+    "events": "https://www.santacruzdelapalma.es",
+    "transit_official": "https://www.cabildodelapalma.es",
+    "language_tips": {
+      "de": "La Palma ist die spanischste Kanareninsel, weniger Massentourismus, weniger Englisch. Außerhalb der wenigen Hotels reicht ein Lächeln und ein paar Brocken Spanisch oft weiter als jede App.",
+      "hu": "La Palma a legspanyolabb kanári sziget, kevesebb tömegturizmus, kevesebb angol. A néhány szállodán kívül egy mosoly és pár szó spanyol többet ér, mint bármilyen fordító app.",
+      "ro": "La Palma e cea mai spaniolă insulă din Canare, mai puțin turism de masă, mai puțină engleză. În afara celor câtorva hoteluri, un zâmbet și câteva cuvinte spaniole contează mai mult decât o aplicație.",
+      "en": "La Palma is the most Spanish of the Canaries, less mass tourism and less English. Outside the handful of hotels, a smile and a few Spanish words go further than any translation app."
+    },
+    "best_time_to_visit": {
+      "de": "Wegen der Höhenlage angenehm kühler als die anderen Inseln, ideal März bis Mai und September bis November. Achtung, der Vulkan-Ausbruch 2021 hat Lavafelder hinterlassen, einige Touren sind weiterhin geschlossen.",
+      "hu": "A magasabb fekvés miatt hűvösebb a többi szigetnél, március-május és szeptember-november ideális. Vigyázz, a 2021-es vulkánkitörés lávamezőket hagyott maga után, néhány túraútvonal még zárva.",
+      "ro": "Datorită altitudinii, e mai răcoroasă decât celelalte insule, ideal martie-mai și septembrie-noiembrie. Atenție, erupția din 2021 a lăsat câmpuri de lavă, unele trasee sunt încă închise.",
+      "en": "Higher altitude makes La Palma cooler than its neighbours, ideal March-May and September-November. Note that the 2021 eruption left active lava fields, some hiking routes remain closed."
+    },
+    "neighborhood_warnings": {
+      "de": "Santa Cruz ist sehr sicher, eine ruhige Hauptstadt ohne Nachtleben-Probleme. Bei Wanderungen am Caldera de Taburiente unbedingt vorher Wetter und Wegzustand prüfen, das Gebirge ist anspruchsvoll.",
+      "hu": "Santa Cruz nagyon biztonságos, csendes főváros, semmi éjszakai galiba. A Caldera de Taburiente túrák előtt mindig nézd meg az időjárást és az útállapotot, a hegyek komolyak.",
+      "ro": "Santa Cruz e foarte sigur, capitală liniștită fără probleme nocturne. Pentru drumeții în Caldera de Taburiente, verifică mereu vremea și starea potecilor, muntele e serios.",
+      "en": "Santa Cruz is very safe, a quiet capital with no nightlife issues. Before hiking the Caldera de Taburiente always check weather and trail status, the mountains are serious terrain."
+    }
+  }
+}

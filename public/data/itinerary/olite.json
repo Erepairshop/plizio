@@ -1,0 +1,2615 @@
+{
+  "city_id": "olite",
+  "anchor": {
+    "name": "Plaza de Carlos III El Noble",
+    "coords": [
+      -1.6478,
+      42.4844
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 2.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Plaza de Carlos III El Noble",
+            "hu": "Plaza de Carlos III El Noble",
+            "ro": "Plaza de Carlos III El Noble",
+            "en": "Plaza de Carlos III El Noble"
+          },
+          "coords": [
+            -1.6482,
+            42.4842
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Frühstücken Sie hier mit Blick auf das Rathaus.",
+            "hu": "Reggelizzen itt a városháza panorámájával.",
+            "ro": "Luați micul dejun aici cu vedere la primărie.",
+            "en": "Have breakfast here with a view of the town hall."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Santa María la Real",
+            "hu": "Santa María la Real templom",
+            "ro": "Biserica Santa María la Real",
+            "en": "Church of Santa María la Real"
+          },
+          "coords": [
+            -1.6488,
+            42.4846
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:45",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die prächtige gotische Fassade.",
+            "hu": "Csodálja meg a pompás gótikus homlokzatot.",
+            "ro": "Admirați fațada gotică magnifică.",
+            "en": "Admire the magnificent Gothic facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Königspalast von Olite",
+            "hu": "Olite királyi palotája",
+            "ro": "Palatul Regal din Olite",
+            "en": "Royal Palace of Olite"
+          },
+          "coords": [
+            -1.6492,
+            42.4848
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:40",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Steigen Sie auf die Türme für die beste Aussicht.",
+            "hu": "Másszon fel a tornyokba a legjobb kilátásért.",
+            "ro": "Urcați în turnuri pentru cea mai bună vedere.",
+            "en": "Climb the towers for the best views."
+          }
+        },
+        {
+          "name": {
+            "de": "Römische Stadtmauern",
+            "hu": "Római városfalak",
+            "ro": "Zidurile Romane",
+            "en": "Roman Walls"
+          },
+          "coords": [
+            -1.6475,
+            42.4855
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang der gut erhaltenen Abschnitte.",
+            "hu": "Sétáljon végig a jól megőrzött szakaszokon.",
+            "ro": "Plimbați-vă de-a lungul secțiunilor bine conservate.",
+            "en": "Walk along the well-preserved sections."
+          }
+        },
+        {
+          "name": {
+            "de": "Navarra Weinmuseum",
+            "hu": "Navarrai Bormúzeum",
+            "ro": "Muzeul Vinului din Navarra",
+            "en": "Navarra Wine Museum"
+          },
+          "coords": [
+            -1.6465,
+            42.4835
+          ],
+          "category": "museums",
+          "arrive_at": "14:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 120,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erfahren Sie alles über den Weinbau in Navarra.",
+            "hu": "Ismerje meg a navarrai borászat titkait.",
+            "ro": "Aflați totul despre viticultura din Navarra.",
+            "en": "Learn all about wine-making in Navarra."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche San Pedro",
+            "hu": "Szent Péter templom",
+            "ro": "Biserica San Pedro",
+            "en": "Church of San Pedro"
+          },
+          "coords": [
+            -1.6472,
+            42.4828
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Besuchen Sie den romanischen Kreuzgang.",
+            "hu": "Látogassa meg a román stílusú kolostorkertet.",
+            "ro": "Vizitați claustrul romanic.",
+            "en": "Visit the Romanesque cloister."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Olite entführt Sie direkt ins Mittelalter. Der Morgen beginnt am belebten Hauptplatz, bevor Sie die architektonischen Schätze der gotischen Kirche und des märchenhaften Königspalastes erkunden. Nach einem typischen Mittagessen tauchen Sie in die römische Geschichte der Stadtmauern ein. Der Nachmittag steht im Zeichen des Weines, gefolgt von der spirituellen Ruhe der San Pedro Kirche.",
+        "hu": "Olite visszarepíti Önt a középkorba. A reggel a nyüzsgő főtéren indul, majd a gótikus templom és a meseszerű királyi palota építészeti kincseit fedezzük fel. Egy tipikus ebéd után a római falak történelmébe merülünk el. A délután a borászat jegyében telik, majd a Szent Péter templom spirituális békéjével zárjuk a napot.",
+        "ro": "Olite vă poartă direct în epoca medievală. Dimineața începe în piața principală animată, înainte de a explora comorile arhitecturale ale bisericii gotice și ale palatului regal ca din povești. După un prânz tipic, pătrundeți în istoria romană a zidurilor cetății. După-amiaza este dedicată vinului, urmată de liniștea spirituală a bisericii San Pedro.",
+        "en": "Olite takes you straight back to the Middle Ages. The morning begins in the lively main square before exploring the architectural treasures of the Gothic church and the fairytale Royal Palace. After a typical lunch, dive into the Roman history of the town walls. The afternoon is dedicated to wine culture, followed by the spiritual peace of San Pedro Church."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Cordero al Chilindrón",
+            "tip": "Lammragout mit Paprika und Tomaten."
+          },
+          {
+            "name": "Casa del Preboste",
+            "tip": "Rustikales Restaurant im historischen Zentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cordero al Chilindrón",
+            "tip": "Bárányragu paprikával és paradicsommal."
+          },
+          {
+            "name": "Casa del Preboste",
+            "tip": "Rusztikus étterem a történelmi központban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cordero al Chilindrón",
+            "tip": "Tocăniță de miel cu ardei și roșii."
+          },
+          {
+            "name": "Casa del Preboste",
+            "tip": "Restaurant rustic în centrul istoric."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cordero al Chilindrón",
+            "tip": "Lamb stew with peppers and tomatoes."
+          },
+          {
+            "name": "Casa del Preboste",
+            "tip": "Rustic restaurant in the historical center."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Palastgärten",
+            "tip": "Ruhiger Spaziergang im Schatten der Türme.",
+            "emoji": "🏰"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Palotakertek",
+            "tip": "Csendes séta a tornyok árnyékában.",
+            "emoji": "🏰"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile Palatului",
+            "tip": "Plimbare liniștită la umbra turnurilor.",
+            "emoji": "🏰"
+          }
+        ],
+        "en": [
+          {
+            "name": "Palace Gardens",
+            "tip": "Quiet walk in the shadow of the towers.",
+            "emoji": "🏰"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Vinoteca Olite",
+            "tip": "Navarra-Weine und Olivenöl."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vinoteca Olite",
+            "tip": "Navarrai borok és olívaolaj."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vinoteca Olite",
+            "tip": "Vinuri de Navarra și ulei de măsline."
+          }
+        ],
+        "en": [
+          {
+            "name": "Vinoteca Olite",
+            "tip": "Navarra wines and olive oil."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Buchen Sie die Palasttickets im Voraus online.",
+          "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster.",
+          "Probieren Sie den lokalen Roséwein (Rosado).",
+          "Das Stadtzentrum ist fast komplett Fußgängerzone."
+        ],
+        "hu": [
+          "Foglalja le a palotajegyeket előre online.",
+          "Viseljen kényelmes cipőt a macskaköves utcákhoz.",
+          "Kóstolja meg a helyi rozét (Rosado).",
+          "A városközpont szinte teljesen sétálóövezet."
+        ],
+        "ro": [
+          "Rezervați biletele la palat online în avans.",
+          "Purtați pantofi comozi pentru străzile cu piatră cubică.",
+          "Gustați vinul rosé local (Rosado).",
+          "Centrul orașului este aproape în întregime pietonal."
+        ],
+        "en": [
+          "Book palace tickets online in advance.",
+          "Wear comfortable shoes for the cobblestone streets.",
+          "Taste the local rosé wine (Rosado).",
+          "The city center is almost entirely pedestrianized."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Olite entführt Sie direkt ins Mittelalter. Der Morgen beginnt am belebten Hauptplatz, bevor Sie die architektonischen Schätze der gotischen Kirche und des märchenhaften Königspalastes erkunden. Nach einem typischen Mittagessen tauchen Sie in die römische Geschichte der Stadtmauern ein. Der Nachmittag steht im Zeichen des Weines, gefolgt von der spirituellen Ruhe der San Pedro Kirche.",
+            "hu": "Olite visszarepíti Önt a középkorba. A reggel a nyüzsgő főtéren indul, majd a gótikus templom és a meseszerű királyi palota építészeti kincseit fedezzük fel. Egy tipikus ebéd után a római falak történelmébe merülünk el. A délután a borászat jegyében telik, majd a Szent Péter templom spirituális békéjével zárjuk a napot.",
+            "ro": "Olite vă poartă direct în epoca medievală. Dimineața începe în piața principală animată, înainte de a explora comorile arhitecturale ale bisericii gotice și ale palatului regal ca din povești. După un prânz tipic, pătrundeți în istoria romană a zidurilor cetății. După-amiaza este dedicată vinului, urmată de liniștea spirituală a bisericii San Pedro.",
+            "en": "Olite takes you straight back to the Middle Ages. The morning begins in the lively main square before exploring the architectural treasures of the Gothic church and the fairytale Royal Palace. After a typical lunch, dive into the Roman history of the town walls. The afternoon is dedicated to wine culture, followed by the spiritual peace of San Pedro Church."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Plaza de Carlos III El Noble",
+                "hu": "Plaza de Carlos III El Noble",
+                "ro": "Plaza de Carlos III El Noble",
+                "en": "Plaza de Carlos III El Noble"
+              },
+              "tip_5lang": {
+                "de": "Frühstücken Sie hier mit Blick auf das Rathaus.",
+                "hu": "Reggelizzen itt a városháza panorámájával.",
+                "ro": "Luați micul dejun aici cu vedere la primărie.",
+                "en": "Have breakfast here with a view of the town hall."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Santa María la Real",
+                "hu": "Santa María la Real templom",
+                "ro": "Biserica Santa María la Real",
+                "en": "Church of Santa María la Real"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die prächtige gotische Fassade.",
+                "hu": "Csodálja meg a pompás gótikus homlokzatot.",
+                "ro": "Admirați fațada gotică magnifică.",
+                "en": "Admire the magnificent Gothic facade."
+              }
+            },
+            {
+              "name": {
+                "de": "Königspalast von Olite",
+                "hu": "Olite királyi palotája",
+                "ro": "Palatul Regal din Olite",
+                "en": "Royal Palace of Olite"
+              },
+              "tip_5lang": {
+                "de": "Steigen Sie auf die Türme für die beste Aussicht.",
+                "hu": "Másszon fel a tornyokba a legjobb kilátásért.",
+                "ro": "Urcați în turnuri pentru cea mai bună vedere.",
+                "en": "Climb the towers for the best views."
+              }
+            },
+            {
+              "name": {
+                "de": "Römische Stadtmauern",
+                "hu": "Római városfalak",
+                "ro": "Zidurile Romane",
+                "en": "Roman Walls"
+              },
+              "tip_5lang": {
+                "de": "Spazieren Sie entlang der gut erhaltenen Abschnitte.",
+                "hu": "Sétáljon végig a jól megőrzött szakaszokon.",
+                "ro": "Plimbați-vă de-a lungul secțiunilor bine conservate.",
+                "en": "Walk along the well-preserved sections."
+              }
+            },
+            {
+              "name": {
+                "de": "Navarra Weinmuseum",
+                "hu": "Navarrai Bormúzeum",
+                "ro": "Muzeul Vinului din Navarra",
+                "en": "Navarra Wine Museum"
+              },
+              "tip_5lang": {
+                "de": "Erfahren Sie alles über den Weinbau in Navarra.",
+                "hu": "Ismerje meg a navarrai borászat titkait.",
+                "ro": "Aflați totul despre viticultura din Navarra.",
+                "en": "Learn all about wine-making in Navarra."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche San Pedro",
+                "hu": "Szent Péter templom",
+                "ro": "Biserica San Pedro",
+                "en": "Church of San Pedro"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie den romanischen Kreuzgang.",
+                "hu": "Látogassa meg a román stílusú kolostorkertet.",
+                "ro": "Vizitați claustrul romanic.",
+                "en": "Visit the Romanesque cloister."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Cordero al Chilindrón",
+                "tip": "Lammragout mit Paprika und Tomaten."
+              },
+              {
+                "name": "Casa del Preboste",
+                "tip": "Rustikales Restaurant im historischen Zentrum."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Cordero al Chilindrón",
+                "tip": "Bárányragu paprikával és paradicsommal."
+              },
+              {
+                "name": "Casa del Preboste",
+                "tip": "Rusztikus étterem a történelmi központban."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Cordero al Chilindrón",
+                "tip": "Tocăniță de miel cu ardei și roșii."
+              },
+              {
+                "name": "Casa del Preboste",
+                "tip": "Restaurant rustic în centrul istoric."
+              }
+            ],
+            "en": [
+              {
+                "name": "Cordero al Chilindrón",
+                "tip": "Lamb stew with peppers and tomatoes."
+              },
+              {
+                "name": "Casa del Preboste",
+                "tip": "Rustic restaurant in the historical center."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Palastgärten",
+                "tip": "Ruhiger Spaziergang im Schatten der Türme.",
+                "emoji": "🏰"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Palotakertek",
+                "tip": "Csendes séta a tornyok árnyékában.",
+                "emoji": "🏰"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Grădinile Palatului",
+                "tip": "Plimbare liniștită la umbra turnurilor.",
+                "emoji": "🏰"
+              }
+            ],
+            "en": [
+              {
+                "name": "Palace Gardens",
+                "tip": "Quiet walk in the shadow of the towers.",
+                "emoji": "🏰"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Vinoteca Olite",
+                "tip": "Navarra-Weine und Olivenöl."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Vinoteca Olite",
+                "tip": "Navarrai borok és olívaolaj."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Vinoteca Olite",
+                "tip": "Vinuri de Navarra și ulei de măsline."
+              }
+            ],
+            "en": [
+              {
+                "name": "Vinoteca Olite",
+                "tip": "Navarra wines and olive oil."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Buchen Sie die Palasttickets im Voraus online.",
+              "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster.",
+              "Probieren Sie den lokalen Roséwein (Rosado).",
+              "Das Stadtzentrum ist fast komplett Fußgängerzone."
+            ],
+            "hu": [
+              "Foglalja le a palotajegyeket előre online.",
+              "Viseljen kényelmes cipőt a macskaköves utcákhoz.",
+              "Kóstolja meg a helyi rozét (Rosado).",
+              "A városközpont szinte teljesen sétálóövezet."
+            ],
+            "ro": [
+              "Rezervați biletele la palat online în avans.",
+              "Purtați pantofi comozi pentru străzile cu piatră cubică.",
+              "Gustați vinul rosé local (Rosado).",
+              "Centrul orașului este aproape în întregime pietonal."
+            ],
+            "en": [
+              "Book palace tickets online in advance.",
+              "Wear comfortable shoes for the cobblestone streets.",
+              "Taste the local rosé wine (Rosado).",
+              "The city center is almost entirely pedestrianized."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag unter den Arkaden der Plaza de Carlos III, die idealen Schutz bieten. Mittags erkunden Sie die prächtigen Innenräume des Königspalastes, wo Sie vollkommen trocken bleiben. Am Nachmittag bietet das Weinmuseum von Navarra eine informative Flucht vor dem Wetter. Den Abend lassen Sie bei einem Glas Wein in einer gemütlichen Bodega in der Altstadt ausklingen.",
+            "hu": "Kezdje a napot a Plaza de Carlos III árkádjai alatt, amelyek tökéletes menedéket nyújtanak. Délben fedezze fel a királyi palota belső termeit, ahol teljesen szárazon maradhat. Délután a Navarrai Bormúzeum kínál tartalmas kikapcsolódást az eső elől. Az estét zárja egy pohár helyi borral egy hangulatos óvárosi borozó mélyén.",
+            "ro": "Începeți ziua sub arcadele din Plaza de Carlos III, care oferă adăpostul ideal. La prânz, explorați interioarele magnifice ale Palatului Regal, unde veți rămâne complet uscat. După-amiaza, Muzeul Vinului din Navarra oferă o evadare informativă din calea ploii. Încheiați seara cu un pahar de vin într-o bodegă primitoare din centrul vechi.",
+            "en": "Start your day under the arcades of Plaza de Carlos III, which offer ideal shelter from the drizzle. At noon, explore the magnificent interiors of the Royal Palace, where you stay perfectly dry. In the afternoon, the Navarra Wine Museum provides a meaningful escape from the wet weather. End the evening with a glass of local wine in a cozy old town cellar."
+          },
+          "stops": [
+            {
+              "name": "Plaza de Carlos III El Noble",
+              "tip_5lang": {
+                "de": "Nutzen Sie die historischen Steinbögen der Plaza, um trocken zwischen den Cafés zu wechseln.",
+                "hu": "Használja a tér történelmi kőárkádjait, hogy szárazon közlekedhessen a kávézók között.",
+                "ro": "Folosiți arcadele istorice ale pieței pentru a vă deplasa uscat între cafenele.",
+                "en": "Use the historic stone arches of the square to move dryly between the cafes."
+              }
+            },
+            {
+              "name": "Church of Santa María la Real",
+              "tip_5lang": {
+                "de": "Bewundern Sie das gotische Portal unter dem Schutz des angrenzenden Palastvorplatzes.",
+                "hu": "Csodálja meg a gótikus kaput a szomszédos palotaudvar védelméből.",
+                "ro": "Admirați portalul gotic sub protecția curții adiacente a palatului.",
+                "en": "Admire the Gothic portal under the shelter of the adjacent palace forecourt."
+              }
+            },
+            {
+              "name": "Royal Palace of Olite",
+              "tip_5lang": {
+                "de": "Die Innenräume und überdachten Galerien machen den Palast zum besten Ziel bei Regen.",
+                "hu": "A belső terek és fedett galériák miatt a palota a legjobb úti cél esőben.",
+                "ro": "Interioarele și galeriile acoperite fac din palat cea mai bună destinație pe ploaie.",
+                "en": "The interiors and covered galleries make the palace the best destination in the rain."
+              }
+            },
+            {
+              "name": "Roman Walls",
+              "tip_5lang": {
+                "de": "Vorsicht auf den Wehrgängen; die alten Steine können bei Nässe sehr rutschig sein.",
+                "hu": "Vigyázat a gyilokjárókon; a régi kövek vizesen nagyon csúszósak lehetnek.",
+                "ro": "Atenție pe coridoarele de apărare; pietrele vechi pot fi foarte alunecoase când sunt ude.",
+                "en": "Careful on the ramparts; the old stones can be very slippery when wet."
+              }
+            },
+            {
+              "name": "Navarra Wine Museum",
+              "tip_5lang": {
+                "de": "Ein großartiger Ort, um eine Stunde im Trockenen zu verbringen und über Wein zu lernen.",
+                "hu": "Nagyszerű hely, ahol egy órát szárazon tölthet el, miközben a borról tanul.",
+                "ro": "Un loc excelent pentru a petrece o oră la adăpost și a învăța despre vin.",
+                "en": "A great place to spend an hour in the dry while learning about wine."
+              }
+            },
+            {
+              "name": "Church of San Pedro",
+              "tip_5lang": {
+                "de": "Besuchen Sie den gotischen Kreuzgang, der auch bei Regen eine ruhige Atmosphäre bietet.",
+                "hu": "Látogasson el a gótikus keresztfolyosóra, amely esőben is nyugodt hangulatot áraszt.",
+                "ro": "Vizitați claustrul gotic, care oferă o atmosferă liniștită chiar și pe ploaie.",
+                "en": "Visit the Gothic cloister, which offers a peaceful atmosphere even in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Schuhe mit gutem Profil, da das Kopfsteinpflaster der Altstadt bei Regen glatt wird.",
+              "Die Arkaden am Hauptplatz sind der perfekte Ort für eine Kaffeepause im Freien, ohne nass zu werden.",
+              "Planen Sie die Besichtigung des Palastes für die stärksten Regenschauer ein.",
+              "Ein Regenschirm ist bei Wind in den engen Gassen praktischer als ein Regenponcho.",
+              "Die meisten Bodegas im Zentrum bieten gemütliche, trockene Kellergewölbe für Verkostungen."
+            ],
+            "hu": [
+              "Viseljen jó tapadású cipőt, mert az óváros macskakövei esőben csúszóssá válnak.",
+              "A főtér árkádjai tökéletesek egy szabadtéri kávézáshoz anélkül, hogy megázna.",
+              "A palota látogatását időzítse a leghevesebb esőzések idejére.",
+              "Az esernyő praktikusabb a szűk utcákban a szél miatt, mint egy esőponcsó.",
+              "A központ legtöbb borozója hangulatos, száraz pincerendszerrel várja a kóstolásra vágyókat."
+            ],
+            "ro": [
+              "Purtați încălțăminte cu aderență bună, deoarece pavajul din centrul vechi devine alunecos pe ploaie.",
+              "Arcadele din piața principală sunt locul perfect pentru o cafea afară fără a vă uda.",
+              "Planificați vizitarea palatului pentru perioadele cu ploaie torențială.",
+              "O umbrelă este mai practică decât o pelerină în zonele înguste ale orașului.",
+              "Majoritatea cramelor din centru oferă pivnițe uscate și primitoare pentru degustări."
+            ],
+            "en": [
+              "Wear shoes with good grip as the old town's cobblestones become slippery in the rain.",
+              "The arcades in the main square are perfect for an outdoor coffee break without getting wet.",
+              "Time your visit to the palace for the heaviest rain showers.",
+              "An umbrella is more practical in the narrow streets than a rain poncho due to wind.",
+              "Most bodegas in the center offer cozy, dry underground cellars for tastings."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie die klare Winterluft bei einem Spaziergang über den ruhigen Hauptplatz. Mittags wärmen Sie sich in den sonnigen Innenhöfen des Palastes auf, auch wenn es auf den Türmen windig ist. Am Nachmittag bietet das Weinmuseum eine angenehm temperierte Umgebung. Den Abend verbringen Sie in einer der beleuchteten Gassen, bevor Sie sich in ein warmes Restaurant zurückziehen.",
+            "hu": "Élvezze a friss téli levegőt egy sétával a csendes főtéren. Napközben melegedjen fel a palota napsütötte udvarain, még ha a tornyokban szeles is az idő. Délután a Bormúzeum kellemesen temperált környezetet biztosít. Az estét a kivilágított utcákban töltse, mielőtt visszavonulna egy fűtött étterembe.",
+            "ro": "Bucurați-vă de aerul curat de iarnă cu o plimbare prin piața principală liniștită. La prânz, încălziți-vă în curțile însorite ale palatului, chiar dacă în turnuri bate vântul. După-amiaza, Muzeul Vinului oferă un mediu cu temperatură plăcută. Seara o puteți petrece pe străzile iluminate, înainte de a vă retrage într-un restaurant călduros.",
+            "en": "Enjoy the crisp winter air with a stroll across the quiet main square. At noon, warm up in the sunny courtyards of the palace, even if it is windy atop the towers. In the afternoon, the Wine Museum provides a pleasantly tempered environment. Spend the evening in the illuminated alleys before retreating to a warm restaurant."
+          },
+          "stops": [
+            {
+              "name": "Plaza de Carlos III El Noble",
+              "tip_5lang": {
+                "de": "Holen Sie sich einen heißen Café con Leche in einer der Bars am Platz zum Aufwärmen.",
+                "hu": "Igyon egy forró Café con Leche-t a tér egyik bárjában, hogy felmelegedjen.",
+                "ro": "Luați un Café con Leche fierbinte la una dintre cafenelele din piață pentru a vă încălzi.",
+                "en": "Grab a hot Café con Leche at one of the bars in the square to warm up."
+              }
+            },
+            {
+              "name": "Church of Santa María la Real",
+              "tip_5lang": {
+                "de": "Die Kirche kann im Winter kühl sein; behalten Sie Ihren Mantel während der Besichtigung an.",
+                "hu": "A templom télen hűvös lehet; tartsa magán a kabátját a látogatás alatt.",
+                "ro": "Biserica poate fi răcoroasă iarna; păstrați haina pe dvs. în timpul vizitei.",
+                "en": "The church can be chilly in winter; keep your coat on during the visit."
+              }
+            },
+            {
+              "name": "Royal Palace of Olite",
+              "tip_5lang": {
+                "de": "Die Aussicht von den Türmen ist im Winter klar, aber achten Sie auf den kalten Nordwind.",
+                "hu": "A tornyokból télen tiszta a kilátás, de ügyeljen a hideg északi szélre.",
+                "ro": "Priveliștea din turnuri este clară iarna, dar atenție la vântul rece din nord.",
+                "en": "The views from the towers are clear in winter, but watch out for the cold north wind."
+              }
+            },
+            {
+              "name": "Roman Walls",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Mauern am frühen Nachmittag, um das letzte warme Sonnenlicht zu nutzen.",
+                "hu": "Látogassa meg a falakat kora délután, hogy kihasználja az utolsó meleg napsugarakat.",
+                "ro": "Vizitați zidurile după-amiaza devreme pentru a profita de ultima lumină caldă a soarelui.",
+                "en": "Visit the walls in the early afternoon to catch the last warm sunlight."
+              }
+            },
+            {
+              "name": "Navarra Wine Museum",
+              "tip_5lang": {
+                "de": "Die Ausstellungen sind beheizt, was diesen Stopp ideal für den späten Nachmittag macht.",
+                "hu": "A kiállítások fűtöttek, így ez a megálló ideális késő délutánra.",
+                "ro": "Expozițiile sunt încălzite, ceea ce face această oprire ideală pentru după-amiaza târzie.",
+                "en": "The exhibits are heated, making this stop ideal for the late afternoon."
+              }
+            },
+            {
+              "name": "Church of San Pedro",
+              "tip_5lang": {
+                "de": "Die Turmspitze sieht gegen den klaren Winterhimmel besonders beeindruckend aus.",
+                "hu": "A templomtorony különösen lenyűgöző a tiszta téli égbolt előtt.",
+                "ro": "Turnul bisericii arată deosebit de impresionant pe fundalul cerului senin de iarnă.",
+                "en": "The church spire looks particularly impressive against the clear winter sky."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kleiden Sie sich nach dem Zwiebelprinzip, da es in der Sonne warm, im Schatten aber sehr kalt ist.",
+              "Die Sonne geht im Winter gegen 17:30 Uhr unter; planen Sie Außenaktivitäten frühzeitig.",
+              "Die Turmbesteigungen im Palast können bei Wind sehr zugig sein – Handschuhe mitnehmen.",
+              "Olite ist im Winter viel ruhiger; genießen Sie die Einsamkeit bei den Sehenswürdigkeiten.",
+              "Probieren Sie lokale Winterspezialitäten wie herzhafte Eintöpfe in den Restaurants."
+            ],
+            "hu": [
+              "Öltözzön rétegesen, mert a napon meleg lehet, de árnyékban nagyon hideg van.",
+              "A nap télen 17:30 körül nyugszik; a szabadtéri programokat tervezze korábbra.",
+              "A palota toronybemászásai szelesek lehetnek – vigyen magával kesztyűt.",
+              "Olite télen sokkal csendesebb; élvezze a tömegmentes látnivalókat.",
+              "Kóstolja meg a helyi téli specialitásokat, például a laktató egytálételeket az éttermekben."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi, deoarece la soare poate fi cald, dar la umbră este foarte frig.",
+              "Soarele apune în jur de 17:30 iarna; planificați activitățile în aer liber mai devreme.",
+              "Urcarea în turnurile palatului poate fi foarte expusă vântului – luați mănuși.",
+              "Olite este mult mai liniștit iarna; bucurați-vă de obiective fără aglomerație.",
+              "Încercați specialitățile locale de iarnă, cum ar fi supele groase, în restaurante."
+            ],
+            "en": [
+              "Dress in layers as it can be warm in the sun but very cold in the shade.",
+              "The sun sets around 17:30 in winter; plan outdoor activities for earlier in the day.",
+              "Palace tower climbs can be very breezy – bring gloves for the metal railings.",
+              "Olite is much quieter in winter; enjoy the solitude at the main sights.",
+              "Try local winter specialties like hearty stews in the restaurants."
+            ]
+          }
+        }
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "15:30",
+      "total_km": 6.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Königspalast von Olite",
+            "hu": "Olite királyi palotája",
+            "ro": "Palatul Regal din Olite",
+            "en": "Royal Palace of Olite"
+          },
+          "coords": [
+            -1.6492,
+            42.4848
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Früh starten, um die Hitze zu vermeiden.",
+            "hu": "Induljon korán, hogy elkerülje a hőséget.",
+            "ro": "Porniți devreme pentru a evita căldura.",
+            "en": "Start early to avoid the heat."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche San Pedro",
+            "hu": "Szent Péter templom",
+            "ro": "Biserica San Pedro",
+            "en": "Church of San Pedro"
+          },
+          "coords": [
+            -1.6472,
+            42.4828
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie das gotische Portal.",
+            "hu": "Csodálja meg a gótikus kapuzatot.",
+            "ro": "Admirați portalul gotic.",
+            "en": "Admire the Gothic portal."
+          }
+        },
+        {
+          "name": {
+            "de": "Kloster San Francisco",
+            "hu": "Szent Ferenc kolostor",
+            "ro": "Mănăstirea San Francisco",
+            "en": "San Francisco Monastery"
+          },
+          "coords": [
+            -1.6445,
+            42.4865
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:25",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Liegt etwas außerhalb, perfekt mit dem Rad.",
+            "hu": "Kissé kijjebb esik, kerékpárral tökéletes.",
+            "ro": "Situat puțin în afară, perfect cu bicicleta.",
+            "en": "Located slightly outside, perfect by bike."
+          }
+        },
+        {
+          "name": {
+            "de": "Navarra Weinmuseum",
+            "hu": "Navarrai Bormúzeum",
+            "ro": "Muzeul Vinului din Navarra",
+            "en": "Navarra Wine Museum"
+          },
+          "coords": [
+            -1.6465,
+            42.4835
+          ],
+          "category": "museums",
+          "arrive_at": "12:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Rad sicher am Eingang.",
+            "hu": "Parkolja le biztonságosan a biciklit a bejáratnál.",
+            "ro": "Parcați bicicleta în siguranță la intrare.",
+            "en": "Park your bike safely at the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Plaza de Carlos III El Noble",
+            "hu": "Plaza de Carlos III El Noble",
+            "ro": "Plaza de Carlos III El Noble",
+            "en": "Plaza de Carlos III El Noble"
+          },
+          "coords": [
+            -1.6482,
+            42.4842
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "14:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Genießen Sie Tapas zum Abschluss.",
+            "hu": "Élvezze a tapasokat a végén.",
+            "ro": "Savurați niște tapas la final.",
+            "en": "Enjoy some tapas at the end."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Fahrrad erkunden Sie Olite und seine grüne Umgebung. Der Vormittag gehört dem prächtigen Palast und der Altstadt. Danach radeln Sie zum ruhigen San Francisco Kloster am Stadtrand. Nach dem Museumsbesuch endet die Tour entspannt bei regionalen Spezialitäten auf dem belebten Hauptplatz.",
+        "hu": "Kerékpárral felfedezheti Olitét és zöld környezetét. A délelőtt a pompás palotáé és az óvárosé. Ezután kitekerünk a csendes Szent Ferenc kolostorhoz a város szélére. A múzeumlátogatás után a túra a főtéren ér véget, regionális specialitásokkal.",
+        "ro": "Cu bicicleta explorați Olite și împrejurimile sale verzi. Dimineața aparține palatului magnific și centrului vechi. Apoi pedalați spre mănăstirea liniștită San Francisco de la marginea orașului. După vizitarea muzeului, turul se încheie relaxat cu specialități regionale în piața principală.",
+        "en": "By bike, you can explore Olite and its green surroundings. The morning is dedicated to the magnificent palace and the old town. Then, cycle to the quiet San Francisco monastery on the outskirts. After the museum visit, the tour ends relaxedly with regional specialties in the lively main square."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Espárragos de Navarra",
+            "tip": "Frischer Spargel aus der Region."
+          },
+          {
+            "name": "Asador El Parque",
+            "tip": "Grillspezialitäten in entspannter Atmosphäre."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Espárragos de Navarra",
+            "tip": "Friss spárga a régióból."
+          },
+          {
+            "name": "Asador El Parque",
+            "tip": "Grillezett specialitások nyugodt környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Espárragos de Navarra",
+            "tip": "Sparanghel proaspăt din regiune."
+          },
+          {
+            "name": "Asador El Parque",
+            "tip": "Specialități la grătar într-o atmosferă relaxată."
+          }
+        ],
+        "en": [
+          {
+            "name": "Espárragos de Navarra",
+            "tip": "Fresh asparagus from the region."
+          },
+          {
+            "name": "Asador El Parque",
+            "tip": "Grilled specialties in a relaxed atmosphere."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Río Cidacos",
+            "tip": "Natur pur am Stadtrand.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cidacos-folyó partja",
+            "tip": "Tiszta természet a város szélén.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul râului Cidacos",
+            "tip": "Natură pură la marginea orașului.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Río Cidacos",
+            "tip": "Pure nature on the outskirts.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Pastelería Casa Marcos",
+            "tip": "Traditionelles Gebäck aus Olite."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pastelería Casa Marcos",
+            "tip": "Hagyományos sütemények Olitéből."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pastelería Casa Marcos",
+            "tip": "Patiserie tradițională din Olite."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pastelería Casa Marcos",
+            "tip": "Traditional pastries from Olite."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Wege um Olite sind flach und leicht zu befahren.",
+          "Nehmen Sie ausreichend Wasser mit.",
+          "Mieten Sie Ihr Rad am Tourismusbüro.",
+          "Achten Sie auf Fußgänger in der Altstadt."
+        ],
+        "hu": [
+          "Az Olite körüli utak síkak és könnyen járhatók.",
+          "Vigyen magával elegendő vizet.",
+          "Béreljen kerékpárt a turisztikai irodánál.",
+          "Ügyeljen a gyalogosokra az óvárosban."
+        ],
+        "ro": [
+          "Drumurile din jurul Olite sunt plate și ușor de parcurs.",
+          "Luați suficientă apă cu voi.",
+          "Închiriați bicicleta de la biroul de turism.",
+          "Atenție la pietoni în centrul vechi."
+        ],
+        "en": [
+          "The paths around Olite are flat and easy to ride.",
+          "Take enough water with you.",
+          "Rent your bike at the tourist office.",
+          "Watch out for pedestrians in the old town."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mit dem Fahrrad erkunden Sie Olite und seine grüne Umgebung. Der Vormittag gehört dem prächtigen Palast und der Altstadt. Danach radeln Sie zum ruhigen San Francisco Kloster am Stadtrand. Nach dem Museumsbesuch endet die Tour entspannt bei regionalen Spezialitäten auf dem belebten Hauptplatz.",
+            "hu": "Kerékpárral felfedezheti Olitét és zöld környezetét. A délelőtt a pompás palotáé és az óvárosé. Ezután kitekerünk a csendes Szent Ferenc kolostorhoz a város szélére. A múzeumlátogatás után a túra a főtéren ér véget, regionális specialitásokkal.",
+            "ro": "Cu bicicleta explorați Olite și împrejurimile sale verzi. Dimineața aparține palatului magnific și centrului vechi. Apoi pedalați spre mănăstirea liniștită San Francisco de la marginea orașului. După vizitarea muzeului, turul se încheie relaxat cu specialități regionale în piața principală.",
+            "en": "By bike, you can explore Olite and its green surroundings. The morning is dedicated to the magnificent palace and the old town. Then, cycle to the quiet San Francisco monastery on the outskirts. After the museum visit, the tour ends relaxedly with regional specialties in the lively main square."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Königspalast von Olite",
+                "hu": "Olite királyi palotája",
+                "ro": "Palatul Regal din Olite",
+                "en": "Royal Palace of Olite"
+              },
+              "tip_5lang": {
+                "de": "Früh starten, um die Hitze zu vermeiden.",
+                "hu": "Induljon korán, hogy elkerülje a hőséget.",
+                "ro": "Porniți devreme pentru a evita căldura.",
+                "en": "Start early to avoid the heat."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche San Pedro",
+                "hu": "Szent Péter templom",
+                "ro": "Biserica San Pedro",
+                "en": "Church of San Pedro"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie das gotische Portal.",
+                "hu": "Csodálja meg a gótikus kapuzatot.",
+                "ro": "Admirați portalul gotic.",
+                "en": "Admire the Gothic portal."
+              }
+            },
+            {
+              "name": {
+                "de": "Kloster San Francisco",
+                "hu": "Szent Ferenc kolostor",
+                "ro": "Mănăstirea San Francisco",
+                "en": "San Francisco Monastery"
+              },
+              "tip_5lang": {
+                "de": "Liegt etwas außerhalb, perfekt mit dem Rad.",
+                "hu": "Kissé kijjebb esik, kerékpárral tökéletes.",
+                "ro": "Situat puțin în afară, perfect cu bicicleta.",
+                "en": "Located slightly outside, perfect by bike."
+              }
+            },
+            {
+              "name": {
+                "de": "Navarra Weinmuseum",
+                "hu": "Navarrai Bormúzeum",
+                "ro": "Muzeul Vinului din Navarra",
+                "en": "Navarra Wine Museum"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad sicher am Eingang.",
+                "hu": "Parkolja le biztonságosan a biciklit a bejáratnál.",
+                "ro": "Parcați bicicleta în siguranță la intrare.",
+                "en": "Park your bike safely at the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Plaza de Carlos III El Noble",
+                "hu": "Plaza de Carlos III El Noble",
+                "ro": "Plaza de Carlos III El Noble",
+                "en": "Plaza de Carlos III El Noble"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie Tapas zum Abschluss.",
+                "hu": "Élvezze a tapasokat a végén.",
+                "ro": "Savurați niște tapas la final.",
+                "en": "Enjoy some tapas at the end."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Espárragos de Navarra",
+                "tip": "Frischer Spargel aus der Region."
+              },
+              {
+                "name": "Asador El Parque",
+                "tip": "Grillspezialitäten in entspannter Atmosphäre."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Espárragos de Navarra",
+                "tip": "Friss spárga a régióból."
+              },
+              {
+                "name": "Asador El Parque",
+                "tip": "Grillezett specialitások nyugodt környezetben."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Espárragos de Navarra",
+                "tip": "Sparanghel proaspăt din regiune."
+              },
+              {
+                "name": "Asador El Parque",
+                "tip": "Specialități la grătar într-o atmosferă relaxată."
+              }
+            ],
+            "en": [
+              {
+                "name": "Espárragos de Navarra",
+                "tip": "Fresh asparagus from the region."
+              },
+              {
+                "name": "Asador El Parque",
+                "tip": "Grilled specialties in a relaxed atmosphere."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Ufer des Río Cidacos",
+                "tip": "Natur pur am Stadtrand.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Cidacos-folyó partja",
+                "tip": "Tiszta természet a város szélén.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Malul râului Cidacos",
+                "tip": "Natură pură la marginea orașului.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Banks of the Río Cidacos",
+                "tip": "Pure nature on the outskirts.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Pastelería Casa Marcos",
+                "tip": "Traditionelles Gebäck aus Olite."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Pastelería Casa Marcos",
+                "tip": "Hagyományos sütemények Olitéből."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Pastelería Casa Marcos",
+                "tip": "Patiserie tradițională din Olite."
+              }
+            ],
+            "en": [
+              {
+                "name": "Pastelería Casa Marcos",
+                "tip": "Traditional pastries from Olite."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Die Wege um Olite sind flach und leicht zu befahren.",
+              "Nehmen Sie ausreichend Wasser mit.",
+              "Mieten Sie Ihr Rad am Tourismusbüro.",
+              "Achten Sie auf Fußgänger in der Altstadt."
+            ],
+            "hu": [
+              "Az Olite körüli utak síkak és könnyen járhatók.",
+              "Vigyen magával elegendő vizet.",
+              "Béreljen kerékpárt a turisztikai irodánál.",
+              "Ügyeljen a gyalogosokra az óvárosban."
+            ],
+            "ro": [
+              "Drumurile din jurul Olite sunt plate și ușor de parcurs.",
+              "Luați suficientă apă cu voi.",
+              "Închiriați bicicleta de la biroul de turism.",
+              "Atenție la pietoni în centrul vechi."
+            ],
+            "en": [
+              "The paths around Olite are flat and easy to ride.",
+              "Take enough water with you.",
+              "Rent your bike at the tourist office.",
+              "Watch out for pedestrians in the old town."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihre Tour am Palast, wo Sie Ihr Rad sicher abstellen können, während es regnet. Eine kurze Fahrt führt zur Kirche San Pedro, bevor Sie zum Kloster San Francisco weiterziehen. Mittags bietet das Weinmuseum eine trockene Pause für Kultur und Wärme. Die Tour endet an der Plaza de Carlos III, wo Sie unter den Arkaden Ihr Rad parken und einkehren können.",
+            "hu": "Kezdje a túrát a palotánál, ahol biztonságban lezárhatja a kerékpárt az eső idejére. Rövid tekerés vezet a San Pedro templomhoz, majd a San Francisco kolostorhoz. Délben a Bormúzeum nyújt száraz pihenőt a kultúra és a meleg jegyében. A túra a Plaza de Carlos III-nál ér véget, ahol az árkádok alatt parkolhat le és pihenhet meg.",
+            "ro": "Începeți turul la palat, unde puteți lăsa bicicleta în siguranță cât timp plouă. O scurtă plimbare vă duce la Biserica San Pedro, apoi spre Mănăstirea San Francisco. La prânz, Muzeul Vinului oferă o pauză uscată pentru cultură și căldură. Turul se încheie în Plaza de Carlos III, unde puteți parca bicicleta sub arcade.",
+            "en": "Start your tour at the palace, where you can safely lock your bike while it rains. A short ride leads to San Pedro Church before moving to the San Francisco Monastery. At noon, the Wine Museum offers a dry break for culture and warmth. The tour ends at Plaza de Carlos III, where you can park your bike under the arches and warm up."
+          },
+          "stops": [
+            {
+              "name": "Royal Palace of Olite",
+              "tip_5lang": {
+                "de": "Es gibt überdachte Bereiche in der Nähe des Eingangs, um das Fahrrad abzustellen.",
+                "hu": "A bejárat közelében fedett helyek találhatók a kerékpárok tárolására.",
+                "ro": "Există zone acoperite lângă intrare pentru a lăsa bicicleta.",
+                "en": "There are covered areas near the entrance to park your bicycle."
+              }
+            },
+            {
+              "name": "Church of San Pedro",
+              "tip_5lang": {
+                "de": "Der Weg hierher ist kurz, achten Sie aber auf die rutschigen Markierungen auf der Straße.",
+                "hu": "Az út ide rövid, de ügyeljen a csúszós útburkolati jelekre.",
+                "ro": "Drumul până aici este scurt, dar atenție la marcajele alunecoase de pe carosabil.",
+                "en": "The ride here is short, but watch out for slippery road markings."
+              }
+            },
+            {
+              "name": "San Francisco Monastery",
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf den asphaltierten Wegen außerhalb der Stadtmauern.",
+                "hu": "Óvatosan tekerjen a városfalakon kívüli aszfaltozott utakon.",
+                "ro": "Mergeți cu grijă pe drumurile asfaltate din afara zidurilor orașului.",
+                "en": "Cycle carefully on the paved paths outside the city walls."
+              }
+            },
+            {
+              "name": "Navarra Wine Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch, um Ihre Regenbekleidung etwas trocknen zu lassen.",
+                "hu": "Használja ki a múzeumlátogatást, hogy az esőruházata kicsit megszáradjon.",
+                "ro": "Folosiți vizita la muzeu pentru a lăsa echipamentul de ploaie să se usuce puțin.",
+                "en": "Use the museum visit to let your rain gear dry out a bit."
+              }
+            },
+            {
+              "name": "Plaza de Carlos III El Noble",
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad in Sichtweite unter den Arkaden, während Sie einen Kaffee genießen.",
+                "hu": "Parkolja le a bringát szem előtt az árkádok alatt, miközben kávézik.",
+                "ro": "Parcați bicicleta la vedere sub arcade în timp ce savurați o cafea.",
+                "en": "Park your bike within sight under the arches while enjoying a coffee."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche am Fahrrad sind bei den Pfützen in Olite sehr zu empfehlen.",
+              "Vermeiden Sie schnelles Bremsen auf dem nassen Kopfsteinpflaster im Zentrum.",
+              "Tragen Sie eine wasserdichte Jacke und eventuell eine Regenhose für die Fahrt zum Kloster.",
+              "Nutzen Sie die Schließfächer im Palast oder Museum für nasse Helme oder Rucksäcke.",
+              "Überprüfen Sie vor der Fahrt Ihre Bremsen, da Nässe den Bremsweg verlängert."
+            ],
+            "hu": [
+              "A sárvédő nagyon ajánlott a kerékpáron az olitei tócsák miatt.",
+              "Kerülje a hirtelen fékezést a központ vizes macskakövein.",
+              "Viseljen vízálló dzsekit és esetleg esőnadrágot a kolostorhoz vezető úton.",
+              "Használja a palota vagy a múzeum szekrényeit a vizes sisakok és hátizsákok tárolására.",
+              "Indulás előtt ellenőrizze a fékeket, mert a nedvesség növeli a féktávot."
+            ],
+            "ro": [
+              "Aripile la bicicletă sunt foarte recomandate din cauza bălților din Olite.",
+              "Evitați frânarea bruscă pe pavajul ud din centrul orașului.",
+              "Purtați o jachetă impermeabilă și eventual pantaloni de ploaie pentru drumul spre mănăstire.",
+              "Folosiți vestiarele de la palat sau muzeu pentru căștile sau rucsacurile ude.",
+              "Verificați frânele înainte de drum, deoarece umezeala mărește distanța de frânare."
+            ],
+            "en": [
+              "Fenders on your bike are highly recommended due to puddles in Olite.",
+              "Avoid sudden braking on the wet cobblestones in the center.",
+              "Wear a waterproof jacket and possibly rain pants for the ride to the monastery.",
+              "Use the lockers at the palace or museum for wet helmets or backpacks.",
+              "Check your brakes before starting, as wetness increases braking distance."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie Ihre Wintertour am majestätischen Palast bei kühler, klarer Luft. Die Fahrt zur Kirche San Pedro hält Sie durch die Bewegung warm. Besuchen Sie das Kloster San Francisco, bevor Sie am Mittag im Weinmuseum einkehren, um sich aufzuwärmen. Beenden Sie den Tag auf der Plaza de Carlos III, wenn die Lichter der Stadt in der frühen Dämmerung angehen.",
+            "hu": "Kezdje téli túráját a fenséges palotánál a hűvös, tiszta levegőben. A San Pedro templomhoz vezető út a mozgás által melegen tartja. Látogassa meg a San Francisco kolostort, majd délben térjen be a Bormúzeumba melegedni. Zárja a napot a Plaza de Carlos III-on, amikor a város fényei kigyúlnak a korai szürkületben.",
+            "ro": "Începeți turul de iarnă la palatul maiestuos în aerul rece și clar. Drumul spre Biserica San Pedro vă va ține cald prin mișcare. Vizitați Mănăstirea San Francisco înainte de a vă opri la Muzeul Vinului pentru a vă încălzi. Încheiați ziua în Plaza de Carlos III, când luminile orașului se aprind în amurgul timpuriu.",
+            "en": "Start your winter tour at the majestic palace in the cool, clear air. The ride to San Pedro Church keeps you warm through movement. Visit the San Francisco Monastery before stopping at the Wine Museum at noon to warm up. End the day at Plaza de Carlos III as the city lights come on in the early twilight."
+          },
+          "stops": [
+            {
+              "name": "Royal Palace of Olite",
+              "tip_5lang": {
+                "de": "Achten Sie beim Abstellen des Rades auf eventuelles Glatteis in schattigen Ecken.",
+                "hu": "A kerékpár leállításakor ügyeljen az esetleges jegesedésre az árnyékos sarkokban.",
+                "ro": "Atenție la eventualul polei în colțurile umbrite când parcați bicicleta.",
+                "en": "Watch out for potential ice in shaded corners when parking your bike."
+              }
+            },
+            {
+              "name": "Church of San Pedro",
+              "tip_5lang": {
+                "de": "Die kurze Fahrt durch die Gassen schützt etwas vor dem kalten Winterwind.",
+                "hu": "A szűk utcákon való rövid tekerés védelmet nyújt a hideg téli szél ellen.",
+                "ro": "Scurta plimbare prin străduțe vă protejează puțin de vântul rece de iarnă.",
+                "en": "The short ride through the alleys provides some shelter from the cold winter wind."
+              }
+            },
+            {
+              "name": "San Francisco Monastery",
+              "tip_5lang": {
+                "de": "Tragen Sie auf der freien Strecke zum Kloster unbedingt Handschuhe.",
+                "hu": "A kolostorhoz vezető nyílt útszakaszon mindenképpen viseljen kesztyűt.",
+                "ro": "Purtați neapărat mănuși pe porțiunea de drum deschis spre mănăstire.",
+                "en": "Be sure to wear gloves on the open stretch of road towards the monastery."
+              }
+            },
+            {
+              "name": "Navarra Wine Museum",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um die Hände aufzuwärmen und den kulturellen Teil fortzusetzen.",
+                "hu": "Ideális hely a kezek felmelegítésére és a kulturális program folytatására.",
+                "ro": "Un loc ideal pentru a vă încălzi mâinile și a continua partea culturală.",
+                "en": "An ideal place to warm up your hands and continue the cultural portion."
+              }
+            },
+            {
+              "name": "Plaza de Carlos III El Noble",
+              "tip_5lang": {
+                "de": "Die Cafés hier haben im Winter oft Heizstrahler im Außenbereich.",
+                "hu": "Az itteni kávézókban télen gyakran vannak kültéri hősugárzók.",
+                "ro": "Cafenelele de aici au adesea radiatoare în zonele exterioare iarna.",
+                "en": "The cafes here often have outdoor heaters in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Thermo-Handschuhe; der kalte Metalllenker entzieht den Händen schnell Wärme.",
+              "Die Tage sind kurz; stellen Sie sicher, dass Ihre Fahrradbeleuchtung funktioniert.",
+              "Planen Sie mehr Zeit für Pausen in warmen Cafés ein, um die Körpertemperatur zu halten.",
+              "Achten Sie auf Raureif auf dem Kopfsteinpflaster am frühen Morgen.",
+              "Eine Mütze unter dem Helm verhindert das Auskühlen über den Kopf."
+            ],
+            "hu": [
+              "Viseljen termokesztyűt; a hideg fémkormány gyorsan elvonja a hőt a kezétől.",
+              "A nappalok rövidek; győződjön meg róla, hogy a kerékpáros világítás működik.",
+              "Tervezzen több pihenőt meleg kávézókban a testhőmérséklet fenntartása érdekében.",
+              "Ügyeljen a zúzmarára a macskaköveken kora reggel.",
+              "A sisak alatt viselt sapka megakadályozza a fej kihűlését."
+            ],
+            "ro": [
+              "Purtați mănuși termice; ghidonul metalic rece atrage rapid căldura din mâini.",
+              "Zilele sunt scurte; asigurați-vă că luminile bicicletei funcționează.",
+              "Planificați mai multe pauze în cafenele calde pentru a menține temperatura corpului.",
+              "Atenție la chiciură pe pavaj dimineața devreme.",
+              "O căciulă sub cască previne pierderea căldurii prin zona capului."
+            ],
+            "en": [
+              "Wear thermal gloves; the cold metal handlebars quickly drain heat from your hands.",
+              "Days are short; ensure your bike lights are functioning properly.",
+              "Plan more breaks in warm cafes to maintain your body temperature.",
+              "Watch out for hoarfrost on the cobblestones in the early morning.",
+              "A thin hat under your helmet prevents heat loss through your head."
+            ]
+          }
+        }
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 15.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Königspalast von Olite",
+            "hu": "Olite királyi palotája",
+            "ro": "Palatul Regal din Olite",
+            "en": "Royal Palace of Olite"
+          },
+          "coords": [
+            -1.6492,
+            42.4848
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Nutzen Sie den großen Parkplatz am Ortseingang.",
+            "hu": "Használja a nagy parkolót a város bejáratánál.",
+            "ro": "Folosiți parcarea mare de la intrarea în oraș.",
+            "en": "Use the large parking lot at the town entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Santa María la Real",
+            "hu": "Santa María la Real templom",
+            "ro": "Biserica Santa María la Real",
+            "en": "Church of Santa María la Real"
+          },
+          "coords": [
+            -1.6488,
+            42.4846
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Direkt neben dem Palast gelegen.",
+            "hu": "Közvetlenül a palota mellett található.",
+            "ro": "Situată chiar lângă palat.",
+            "en": "Located right next to the palace."
+          }
+        },
+        {
+          "name": {
+            "de": "Bodega Ochoa (Weingut)",
+            "hu": "Bodega Ochoa borászat",
+            "ro": "Crama Bodega Ochoa",
+            "en": "Bodega Ochoa (Winery)"
+          },
+          "coords": [
+            -1.6355,
+            42.4782
+          ],
+          "category": "gastro",
+          "arrive_at": "12:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Besichtigung eines modernen Weinguts.",
+            "hu": "Látogatás egy modern borászatban.",
+            "ro": "Vizitați o cramă modernă.",
+            "en": "Visit a modern winery."
+          }
+        },
+        {
+          "name": {
+            "de": "Kloster San Francisco",
+            "hu": "Szent Ferenc kolostor",
+            "ro": "Mănăstirea San Francisco",
+            "en": "San Francisco Monastery"
+          },
+          "coords": [
+            -1.6445,
+            42.4865
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die gotische Architektur.",
+            "hu": "Csodálja meg a gótikus építészetet.",
+            "ro": "Admirați arhitectura gotică.",
+            "en": "Admire the Gothic architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt Olite (Rada)",
+            "hu": "Olite kilátópont (Rada)",
+            "ro": "Belvederea Olite (Rada)",
+            "en": "Olite Viewpoint (Rada)"
+          },
+          "coords": [
+            -1.6012,
+            42.3452
+          ],
+          "category": "quiet_picks",
+          "arrive_at": "16:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 15.0,
+          "tip_5lang": {
+            "de": "Spektakuläre Ruinen in der Nähe.",
+            "hu": "Látványos romok a közelben.",
+            "ro": "Ruine spectaculoase în apropiere.",
+            "en": "Spectacular ruins nearby."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto genießen Sie die volle Flexibilität. Nach dem morgendlichen Kulturprogramm im Palast von Olite besuchen Sie ein renommiertes Weingut in der Umgebung. Am Nachmittag erkunden Sie das San Francisco Kloster und fahren schließlich zu den beeindruckenden Ruinen von Rada, um die weite Landschaft Navarras zu überblicken.",
+        "hu": "Autóval teljes rugalmasságot élvezhet. Az olite-i palota reggeli kulturális programja után ellátogatunk a környék egyik neves borászatába. Délután felfedezzük a Szent Ferenc kolostort, majd a Rada lenyűgöző romjaihoz autózunk, hogy belássuk Navarra tájait.",
+        "ro": "Cu mașina beneficiați de flexibilitate totală. După programul cultural de dimineață la palatul din Olite, vizitați o cramă renumită din zonă. După-amiaza explorați mănăstirea San Francisco și, în final, conduceți spre ruinele impresionante din Rada pentru a admira peisajul vast al Navarrei.",
+        "en": "By car, you enjoy full flexibility. After the morning cultural program at the Palace of Olite, visit a renowned winery in the area. In the afternoon, explore the San Francisco Monastery and finally drive to the impressive ruins of Rada to overlook the vast Navarra landscape."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Chuletón de Ternera",
+            "tip": "Saftiges Rindersteak vom Grill."
+          },
+          {
+            "name": "Mesón El Sol",
+            "tip": "Traditionelle navarresische Küche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Chuletón de Ternera",
+            "tip": "Szaftos marhasült grillen."
+          },
+          {
+            "name": "Mesón El Sol",
+            "tip": "Hagyományos navarrai konyha."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chuletón de Ternera",
+            "tip": "Friptură suculentă de vită la grătar."
+          },
+          {
+            "name": "Mesón El Sol",
+            "tip": "Bucătărie tradițională navareză."
+          }
+        ],
+        "en": [
+          {
+            "name": "Chuletón de Ternera",
+            "tip": "Juicy grilled beef steak."
+          },
+          {
+            "name": "Mesón El Sol",
+            "tip": "Traditional Navarrese cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Despoblado de Rada",
+            "tip": "Einsame mittelalterliche Ruinen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Despoblado de Rada",
+            "tip": "Elhagyatott középkori romok.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Despoblado de Rada",
+            "tip": "Ruine medievale izolate.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Despoblado de Rada",
+            "tip": "Solitary medieval ruins.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bodega Balduz",
+            "tip": "Direktverkauf von Spitzenweinen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bodega Balduz",
+            "tip": "Csúcsborok közvetlen értékesítése."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bodega Balduz",
+            "tip": "Vânzare directă de vinuri premium."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bodega Balduz",
+            "tip": "Direct sale of top wines."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken Sie außerhalb der engen Gassen.",
+          "Vermeiden Sie die Mittagszeit für Autobahnfahrten.",
+          "Die Weinkeller bieten oft Führungen an.",
+          "Achten Sie auf die Geschwindigkeitsbegrenzungen."
+        ],
+        "hu": [
+          "Parkoljon a szűk utcákon kívül.",
+          "Kerülje el az autópályát délidőben.",
+          "A borospincék gyakran kínálnak vezetett túrákat.",
+          "Ügyeljen a sebességkorlátozásokra."
+        ],
+        "ro": [
+          "Parcați în afara străzilor înguste.",
+          "Evitați orele prânzului pentru deplasările pe autostradă.",
+          "Cramele oferă adesea tururi ghidate.",
+          "Atenție la limitele de viteză."
+        ],
+        "en": [
+          "Park outside the narrow streets.",
+          "Avoid peak hours for highway travel.",
+          "Wineries often offer guided tours.",
+          "Pay attention to speed limits."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto genießen Sie die volle Flexibilität. Nach dem morgendlichen Kulturprogramm im Palast von Olite besuchen Sie ein renommiertes Weingut in der Umgebung. Am Nachmittag erkunden Sie das San Francisco Kloster und fahren schließlich zu den beeindruckenden Ruinen von Rada, um die weite Landschaft Navarras zu überblicken.",
+            "hu": "Autóval teljes rugalmasságot élvezhet. Az olite-i palota reggeli kulturális programja után ellátogatunk a környék egyik neves borászatába. Délután felfedezzük a Szent Ferenc kolostort, majd a Rada lenyűgöző romjaihoz autózunk, hogy belássuk Navarra tájait.",
+            "ro": "Cu mașina beneficiați de flexibilitate totală. După programul cultural de dimineață la palatul din Olite, vizitați o cramă renumită din zonă. După-amiaza explorați mănăstirea San Francisco și, în final, conduceți spre ruinele impresionante din Rada pentru a admira peisajul vast al Navarrei.",
+            "en": "By car, you enjoy full flexibility. After the morning cultural program at the Palace of Olite, visit a renowned winery in the area. In the afternoon, explore the San Francisco Monastery and finally drive to the impressive ruins of Rada to overlook the vast Navarra landscape."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Königspalast von Olite",
+                "hu": "Olite királyi palotája",
+                "ro": "Palatul Regal din Olite",
+                "en": "Royal Palace of Olite"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den großen Parkplatz am Ortseingang.",
+                "hu": "Használja a nagy parkolót a város bejáratánál.",
+                "ro": "Folosiți parcarea mare de la intrarea în oraș.",
+                "en": "Use the large parking lot at the town entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Santa María la Real",
+                "hu": "Santa María la Real templom",
+                "ro": "Biserica Santa María la Real",
+                "en": "Church of Santa María la Real"
+              },
+              "tip_5lang": {
+                "de": "Direkt neben dem Palast gelegen.",
+                "hu": "Közvetlenül a palota mellett található.",
+                "ro": "Situată chiar lângă palat.",
+                "en": "Located right next to the palace."
+              }
+            },
+            {
+              "name": {
+                "de": "Bodega Ochoa (Weingut)",
+                "hu": "Bodega Ochoa borászat",
+                "ro": "Crama Bodega Ochoa",
+                "en": "Bodega Ochoa (Winery)"
+              },
+              "tip_5lang": {
+                "de": "Besichtigung eines modernen Weinguts.",
+                "hu": "Látogatás egy modern borászatban.",
+                "ro": "Vizitați o cramă modernă.",
+                "en": "Visit a modern winery."
+              }
+            },
+            {
+              "name": {
+                "de": "Kloster San Francisco",
+                "hu": "Szent Ferenc kolostor",
+                "ro": "Mănăstirea San Francisco",
+                "en": "San Francisco Monastery"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die gotische Architektur.",
+                "hu": "Csodálja meg a gótikus építészetet.",
+                "ro": "Admirați arhitectura gotică.",
+                "en": "Admire the Gothic architecture."
+              }
+            },
+            {
+              "name": {
+                "de": "Aussichtspunkt Olite (Rada)",
+                "hu": "Olite kilátópont (Rada)",
+                "ro": "Belvederea Olite (Rada)",
+                "en": "Olite Viewpoint (Rada)"
+              },
+              "tip_5lang": {
+                "de": "Spektakuläre Ruinen in der Nähe.",
+                "hu": "Látványos romok a közelben.",
+                "ro": "Ruine spectaculoase în apropiere.",
+                "en": "Spectacular ruins nearby."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Chuletón de Ternera",
+                "tip": "Saftiges Rindersteak vom Grill."
+              },
+              {
+                "name": "Mesón El Sol",
+                "tip": "Traditionelle navarresische Küche."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Chuletón de Ternera",
+                "tip": "Szaftos marhasült grillen."
+              },
+              {
+                "name": "Mesón El Sol",
+                "tip": "Hagyományos navarrai konyha."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Chuletón de Ternera",
+                "tip": "Friptură suculentă de vită la grătar."
+              },
+              {
+                "name": "Mesón El Sol",
+                "tip": "Bucătărie tradițională navareză."
+              }
+            ],
+            "en": [
+              {
+                "name": "Chuletón de Ternera",
+                "tip": "Juicy grilled beef steak."
+              },
+              {
+                "name": "Mesón El Sol",
+                "tip": "Traditional Navarrese cuisine."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Despoblado de Rada",
+                "tip": "Einsame mittelalterliche Ruinen.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Despoblado de Rada",
+                "tip": "Elhagyatott középkori romok.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Despoblado de Rada",
+                "tip": "Ruine medievale izolate.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Despoblado de Rada",
+                "tip": "Solitary medieval ruins.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Bodega Balduz",
+                "tip": "Direktverkauf von Spitzenweinen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Bodega Balduz",
+                "tip": "Csúcsborok közvetlen értékesítése."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Bodega Balduz",
+                "tip": "Vânzare directă de vinuri premium."
+              }
+            ],
+            "en": [
+              {
+                "name": "Bodega Balduz",
+                "tip": "Direct sale of top wines."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Parken Sie außerhalb der engen Gassen.",
+              "Vermeiden Sie die Mittagszeit für Autobahnfahrten.",
+              "Die Weinkeller bieten oft Führungen an.",
+              "Achten Sie auf die Geschwindigkeitsbegrenzungen."
+            ],
+            "hu": [
+              "Parkoljon a szűk utcákon kívül.",
+              "Kerülje el az autópályát délidőben.",
+              "A borospincék gyakran kínálnak vezetett túrákat.",
+              "Ügyeljen a sebességkorlátozásokra."
+            ],
+            "ro": [
+              "Parcați în afara străzilor înguste.",
+              "Evitați orele prânzului pentru deplasările pe autostradă.",
+              "Cramele oferă adesea tururi ghidate.",
+              "Atenție la limitele de viteză."
+            ],
+            "en": [
+              "Park outside the narrow streets.",
+              "Avoid peak hours for highway travel.",
+              "Wineries often offer guided tours.",
+              "Pay attention to speed limits."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie das Auto, um bequem zwischen den Sehenswürdigkeiten von Olite zu wechseln, während es regnet. Der Besuch des Palastes und der Kirche Santa María bietet viel Schutz. Mittags fahren Sie zur Bodega Ochoa, wo die Weinverkostung im Trockenen stattfindet. Nach einem Besuch im Kloster San Francisco beenden Sie den Tag an einem Aussichtspunkt, wobei Sie die Aussicht sicher aus dem warmen Auto genießen.",
+            "hu": "Használja az autót, hogy kényelmesen közlekedjen Olite látnivalói között az esőben. A palota és a Santa María templom látogatása sok védelmet nyújt. Délben hajtson a Bodega Ochoa-hoz, ahol a borkóstolás fedett helyen zajlik. A San Francisco kolostor után zárja a napot egy kilátópontnál, ahonnan az autóból is élvezheti a tájat.",
+            "ro": "Folosiți mașina pentru a vă deplasa confortabil între atracțiile din Olite în timp ce plouă. Vizitarea palatului și a bisericii Santa María oferă mult adăpost. La prânz, mergeți la Bodega Ochoa, unde degustarea de vinuri are loc la interior. După mănăstirea San Francisco, încheiați ziua la un punct de belvedere, admirând peisajul din mașina caldă.",
+            "en": "Use your car to travel comfortably between Olite's sights while it rains. Visiting the palace and Santa María Church provides plenty of shelter. At noon, drive to Bodega Ochoa, where the wine tasting takes place indoors. After the San Francisco Monastery, end the day at a viewpoint, enjoying the vista safely from your warm car."
+          },
+          "stops": [
+            {
+              "name": "Royal Palace of Olite",
+              "tip_5lang": {
+                "de": "Es gibt Parkplätze direkt vor den Stadtmauern, nur wenige Schritte vom Eingang entfernt.",
+                "hu": "Közvetlenül a városfalakon kívül találhatók parkolók, pár lépésre a bejárattól.",
+                "ro": "Există parcări chiar în afara zidurilor orașului, la câțiva pași de intrare.",
+                "en": "There are parking lots right outside the city walls, just steps from the entrance."
+              }
+            },
+            {
+              "name": "Church of Santa María la Real",
+              "tip_5lang": {
+                "de": "Parken Sie auf dem nahegelegenen Parkplatz, um den Fußweg im Regen kurz zu halten.",
+                "hu": "Parkoljon a közeli parkolóban, hogy az esőben megtett séta rövid legyen.",
+                "ro": "Parcați în parcarea din apropiere pentru a scurta drumul pe jos prin ploaie.",
+                "en": "Park in the nearby lot to keep the walk in the rain as short as possible."
+              }
+            },
+            {
+              "name": "Bodega Ochoa (Winery)",
+              "tip_5lang": {
+                "de": "Ein perfektes Ziel bei Regen, da alle Aktivitäten im Innenbereich stattfinden.",
+                "hu": "Tökéletes úti cél esőben, mivel minden tevékenység fedett helyen zajlik.",
+                "ro": "O destinație perfectă pe ploaie, deoarece toate activitățile au loc la interior.",
+                "en": "A perfect destination in the rain as all activities take place indoors."
+              }
+            },
+            {
+              "name": "San Francisco Monastery",
+              "tip_5lang": {
+                "de": "Der Parkplatz direkt am Kloster ist ideal, um trocken ins Innere zu gelangen.",
+                "hu": "A közvetlenül a kolostornál lévő parkoló ideális, hogy szárazon bejusson.",
+                "ro": "Parcarea chiar lângă mănăstire este ideală pentru a intra uscat în interior.",
+                "en": "The parking lot right at the monastery is ideal for getting inside dryly."
+              }
+            },
+            {
+              "name": "Olite Viewpoint (Rada)",
+              "tip_5lang": {
+                "de": "Bei starkem Regen können Sie die Landschaft auch direkt durch die Windschutzscheibe bewundern.",
+                "hu": "Heves esőben a tájat közvetlenül a szélvédőn keresztül is csodálhatja.",
+                "ro": "În caz de ploaie torențială, puteți admira peisajul direct prin parbriz.",
+                "en": "In heavy rain, you can admire the landscape directly through the windshield."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Parkplätze 'Parking Olite' am Stadtrand für einfachen Zugang zum Zentrum.",
+              "Die Fahrt zur Bodega Ochoa ist bei Regen viel angenehmer als der Fußweg.",
+              "Halten Sie einen Schirm im Auto bereit für den kurzen Weg vom Parkplatz zum Palast.",
+              "Achten Sie auf tiefere Pfützen auf den Nebenstraßen rund um die Weinberge.",
+              "Die Sicht am Viewpoint kann bei Regen durch Nebel eingeschränkt sein."
+            ],
+            "hu": [
+              "Használja a város szélén található 'Parking Olite' parkolókat a központ könnyű eléréséhez.",
+              "A Bodega Ochoa-hoz vezető út esőben sokkal kellemesebb autóval, mint gyalog.",
+              "Tartson esernyőt az autóban a parkolótól a palotáig tartó rövid útra.",
+              "Ügyeljen a mélyebb tócsákra a szőlőültetvények körüli mellékutakon.",
+              "A kilátópontnál a látótávolságot esőben korlátozhatja a köd."
+            ],
+            "ro": [
+              "Folosiți parcările 'Parking Olite' de la marginea orașului pentru acces ușor în centru.",
+              "Drumul spre Bodega Ochoa este mult mai plăcut cu mașina decât pe jos când plouă.",
+              "Aveți o umbrelă pregătită în mașină pentru drumul scurt de la parcare la palat.",
+              "Atenție la bălțile adânci pe drumurile secundare din jurul podgoriilor.",
+              "Vizibilitatea la punctul de belvedere poate fi limitată de ceață pe timp de ploaie."
+            ],
+            "en": [
+              "Use the 'Parking Olite' lots on the edge of town for easy access to the center.",
+              "The drive to Bodega Ochoa is much more pleasant in the rain than walking.",
+              "Keep an umbrella ready in the car for the short walk from the parking lot to the palace.",
+              "Watch out for deeper puddles on the secondary roads around the vineyards.",
+              "Visibility at the viewpoint may be limited by fog during rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie eine warme Fahrt durch das winterliche Olite, beginnend am beeindruckenden Palast. Besuchen Sie die Kirche Santa María, bevor Sie zur Bodega Ochoa weiterfahren, um lokale Weine in gemütlicher Atmosphäre zu probieren. Nach dem Kloster San Francisco bietet die Fahrt zum Aussichtspunkt Rada spektakuläre Blicke auf die verschneiten oder frostigen Pyrenäen in der Ferne.",
+            "hu": "Élvezze a meleg autózást a téli Olitében, kezdve a lenyűgöző palotánál. Látogassa meg a Santa María templomot, majd hajtson tovább a Bodega Ochoa-hoz, hogy hangulatos környezetben kóstoljon helyi borokat. A San Francisco kolostor után a Rada kilátóhoz vezető út látványos panorámát nyújt a távoli, havas vagy zúzmarás Pireneusokra.",
+            "ro": "Bucurați-vă de o plimbare caldă cu mașina prin Olite iarna, începând de la palatul impresionant. Vizitați biserica Santa María înainte de a merge la Bodega Ochoa pentru a gusta vinuri locale într-o atmosferă primitoare. După mănăstirea San Francisco, drumul spre punctul de belvedere Rada oferă vederi spectaculoase spre Pirineii înzăpeziți în depărtare.",
+            "en": "Enjoy a warm drive through wintery Olite, starting at the impressive palace. Visit Santa María Church before heading to Bodega Ochoa to taste local wines in a cozy atmosphere. After the San Francisco Monastery, the drive to the Rada viewpoint offers spectacular views of the snowy or frosty Pyrenees in the distance."
+          },
+          "stops": [
+            {
+              "name": "Royal Palace of Olite",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Sitzheizung nach der Besichtigung der kühlen Palasttürme.",
+                "hu": "Használja az ülésfűtést a hűvös palotatornyok látogatása után.",
+                "ro": "Folosiți încălzirea în scaune după vizitarea turnurilor răcoroase ale palatului.",
+                "en": "Use the seat heating after visiting the chilly palace towers."
+              }
+            },
+            {
+              "name": "Church of Santa María la Real",
+              "tip_5lang": {
+                "de": "Der nahegelegene Parkplatz ermöglicht einen schnellen Wechsel in die Wärme des Autos.",
+                "hu": "A közeli parkoló lehetővé teszi a gyors visszatérést az autó melegébe.",
+                "ro": "Parcarea din apropiere permite o revenire rapidă la căldura mașinii.",
+                "en": "The nearby parking lot allows for a quick transition back to the car's warmth."
+              }
+            },
+            {
+              "name": "Bodega Ochoa (Winery)",
+              "tip_5lang": {
+                "de": "Ein Besuch hier ist ideal, um die Kälte draußen für eine Weile zu vergessen.",
+                "hu": "Az itt tett látogatás ideális, hogy egy időre elfelejtse a kinti hideget.",
+                "ro": "O vizită aici este ideală pentru a uita de frigul de afară pentru o vreme.",
+                "en": "A visit here is ideal for forgetting the cold outside for a while."
+              }
+            },
+            {
+              "name": "San Francisco Monastery",
+              "tip_5lang": {
+                "de": "Achten Sie auf Raureif auf der Zufahrtsstraße zum Kloster am frühen Morgen.",
+                "hu": "Ügyeljen a zúzmarára a kolostorhoz vezető úton kora reggel.",
+                "ro": "Atenție la chiciură pe drumul de acces spre mănăstire dimineața devreme.",
+                "en": "Watch for hoarfrost on the access road to the monastery in the early morning."
+              }
+            },
+            {
+              "name": "Olite Viewpoint (Rada)",
+              "tip_5lang": {
+                "de": "Im Winter ist die Fernsicht oft am besten; nehmen Sie ein Fernglas mit.",
+                "hu": "Télen a legjobb a látótávolság; vigyen magával távcsövet.",
+                "ro": "Iarna vizibilitatea la distanță este adesea cea mai bună; luați un binoclu.",
+                "en": "In winter, long-distance visibility is often best; bring binoculars."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Überprüfen Sie den Frostschutz in der Scheibenwaschanlage vor der Fahrt.",
+              "Die Straßen in Navarra können im Winter bei Sonnenaufgang glatt sein.",
+              "Nutzen Sie die Heizung des Autos, um zwischen den Stopps wieder warm zu werden.",
+              "Planen Sie den Aussichtspunkt Rada kurz vor Sonnenuntergang ein (ca. 17:15 Uhr).",
+              "Parken Sie in der Sonne, um das Auto während der Besichtigungen natürlich aufzuheizen."
+            ],
+            "hu": [
+              "Indulás előtt ellenőrizze a szélvédőmosó fagyállóságát.",
+              "Navarra útjai télen, napkeltekor csúszósak lehetnek.",
+              "Használja az autó fűtését, hogy a megállók között újra felmelegedjen.",
+              "A Rada kilátót tervezze közvetlenül naplemente elé (kb. 17:15).",
+              "Parkoljon a napon, hogy az autó a látogatások alatt természetes módon felmelegedjen."
+            ],
+            "ro": [
+              "Verificați antigelul din lichidul de parbriz înainte de drum.",
+              "Drumurile din Navarra pot fi alunecoase iarna la răsăritul soarelui.",
+              "Folosiți încălzirea mașinii pentru a vă reîncălzi între opriri.",
+              "Planificați vizita la punctul Rada chiar înainte de apus (aprox. 17:15).",
+              "Parcați la soare pentru a lăsa mașina să se încălzească natural în timpul vizitelor."
+            ],
+            "en": [
+              "Check the anti-freeze in your windshield washer fluid before the trip.",
+              "Roads in Navarra can be slippery in winter at sunrise.",
+              "Use the car's heater to warm up again between stops.",
+              "Plan the Rada viewpoint for just before sunset (approx. 17:15).",
+              "Park in the sun to let the car warm up naturally during your visits."
+            ]
+          }
+        }
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 4.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Bahnhof Olite",
+            "hu": "Olite vasútállomás",
+            "ro": "Gara Olite",
+            "en": "Olite Train Station"
+          },
+          "coords": [
+            -1.6425,
+            42.4825
+          ],
+          "category": "port",
+          "arrive_at": "09:10",
+          "stay_min": 10,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Direkte Anbindung an Pamplona.",
+            "hu": "Közvetlen kapcsolat Pamplonával.",
+            "ro": "Legătură directă cu Pamplona.",
+            "en": "Direct connection to Pamplona."
+          }
+        },
+        {
+          "name": {
+            "de": "Königspalast von Olite",
+            "hu": "Olite királyi palotája",
+            "ro": "Palatul Regal din Olite",
+            "en": "Royal Palace of Olite"
+          },
+          "coords": [
+            -1.6492,
+            42.4848
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg vom Bahnhof.",
+            "hu": "Rövid séta az állomástól.",
+            "ro": "Scurtă plimbare de la gară.",
+            "en": "Short walk from the station."
+          }
+        },
+        {
+          "name": {
+            "de": "Plaza de Carlos III El Noble",
+            "hu": "Plaza de Carlos III El Noble",
+            "ro": "Plaza de Carlos III El Noble",
+            "en": "Plaza de Carlos III El Noble"
+          },
+          "coords": [
+            -1.6482,
+            42.4842
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Zentrum des städtischen Lebens.",
+            "hu": "A városi élet központja.",
+            "ro": "Centrul vieții urbane.",
+            "en": "Center of urban life."
+          }
+        },
+        {
+          "name": {
+            "de": "Navarra Weinmuseum",
+            "hu": "Navarrai Bormúzeum",
+            "ro": "Muzeul Vinului din Navarra",
+            "en": "Navarra Wine Museum"
+          },
+          "coords": [
+            -1.6465,
+            42.4835
+          ],
+          "category": "museums",
+          "arrive_at": "13:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 120,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Perfekt für Weinkultur ohne Auto.",
+            "hu": "Tökéletes borkultúra autó nélkül.",
+            "ro": "Perfect pentru cultura vinului fără mașină.",
+            "en": "Perfect for wine culture without a car."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche San Pedro",
+            "hu": "Szent Péter templom",
+            "ro": "Biserica San Pedro",
+            "en": "Church of San Pedro"
+          },
+          "coords": [
+            -1.6472,
+            42.4828
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:20",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Sehenswerte romanische Elemente.",
+            "hu": "Látványos román stílusú elemek.",
+            "ro": "Elemente romanice deosebite.",
+            "en": "Worth seeing Romanesque elements."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Reisen Sie entspannt mit dem Zug nach Olite. Vom Bahnhof aus ist das gesamte historische Zentrum bequem zu Fuß erreichbar. Sie erleben den prunkvollen Palast, schlendern über den Hauptplatz und verkosten navarresische Weine im Museum, bevor Sie am späten Nachmittag die Rückreise antreten.",
+        "hu": "Utazzon kényelmesen vonattal Olitébe. Az állomástól a teljes történelmi központ könnyen elérhető gyalog. Megismerheti a pompás palotát, sétálhat a főtéren és megkóstolhatja a navarrai borokat a múzeumban, mielőtt késő délután elindulna visszafelé.",
+        "ro": "Călătoriți relaxat cu trenul spre Olite. De la gară, întregul centru istoric este ușor accesibil pe jos. Experimentați palatul somptuos, plimbați-vă prin piața principală și degustați vinuri navareze la muzeu, înainte de a porni înapoi spre casă după-amiaza târziu.",
+        "en": "Travel relaxedly by train to Olite. From the station, the entire historical center is easily accessible on foot. Experience the magnificent palace, stroll through the main square, and taste Navarrese wines at the museum before heading back in the late afternoon."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pimientos del Piquillo",
+            "tip": "Gefüllte rote Paprika."
+          },
+          {
+            "name": "Restaurante Gambarte",
+            "tip": "Hausgemachte Speisen nah am Zentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pimientos del Piquillo",
+            "tip": "Töltött piros paprika."
+          },
+          {
+            "name": "Restaurante Gambarte",
+            "tip": "Házias ételek a központ közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pimientos del Piquillo",
+            "tip": "Ardei roșii umpluți."
+          },
+          {
+            "name": "Restaurante Gambarte",
+            "tip": "Mâncare de casă aproape de centru."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pimientos del Piquillo",
+            "tip": "Stuffed red peppers."
+          },
+          {
+            "name": "Restaurante Gambarte",
+            "tip": "Homemade food near the center."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Mittelalterliche Galerien",
+            "tip": "Kühle und Stille unter der Erde.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Középkori galériák",
+            "tip": "Hűvös és csend a föld alatt.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Galerii medievale",
+            "tip": "Răcoare și liniște sub pământ.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Medieval Galleries",
+            "tip": "Coolness and silence underground.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Artesanía Navarra",
+            "tip": "Lokales Kunsthandwerk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Artesanía Navarra",
+            "tip": "Helyi kézműves termékek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Artesanía Navarra",
+            "tip": "Artizanat local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Artesanía Navarra",
+            "tip": "Local handicrafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie die Zugfahrzeiten der RENFE.",
+          "Busse fahren regelmäßig von Pamplona.",
+          "Alle Sehenswürdigkeiten sind nah beieinander.",
+          "Nutzen Sie den Audioguide im Palast."
+        ],
+        "hu": [
+          "Ellenőrizze a RENFE vonatmenetrendjét.",
+          "Buszok rendszeresen indulnak Pamplonából.",
+          "Minden látnivaló közel van egymáshoz.",
+          "Használja az audiókalauzt a palotában."
+        ],
+        "ro": [
+          "Verificați mersul trenurilor RENFE.",
+          "Autobuzele circulă regulat din Pamplona.",
+          "Toate atracțiile sunt aproape una de alta.",
+          "Folosiți ghidul audio la palat."
+        ],
+        "en": [
+          "Check the RENFE train schedule.",
+          "Buses run regularly from Pamplona.",
+          "All sights are close to each other.",
+          "Use the audio guide in the palace."
+        ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Reisen Sie entspannt mit dem Zug nach Olite. Vom Bahnhof aus ist das gesamte historische Zentrum bequem zu Fuß erreichbar. Sie erleben den prunkvollen Palast, schlendern über den Hauptplatz und verkosten navarresische Weine im Museum, bevor Sie am späten Nachmittag die Rückreise antreten.",
+            "hu": "Utazzon kényelmesen vonattal Olitébe. Az állomástól a teljes történelmi központ könnyen elérhető gyalog. Megismerheti a pompás palotát, sétálhat a főtéren és megkóstolhatja a navarrai borokat a múzeumban, mielőtt késő délután elindulna visszafelé.",
+            "ro": "Călătoriți relaxat cu trenul spre Olite. De la gară, întregul centru istoric este ușor accesibil pe jos. Experimentați palatul somptuos, plimbați-vă prin piața principală și degustați vinuri navareze la muzeu, înainte de a porni înapoi spre casă după-amiaza târziu.",
+            "en": "Travel relaxedly by train to Olite. From the station, the entire historical center is easily accessible on foot. Experience the magnificent palace, stroll through the main square, and taste Navarrese wines at the museum before heading back in the late afternoon."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bahnhof Olite",
+                "hu": "Olite vasútállomás",
+                "ro": "Gara Olite",
+                "en": "Olite Train Station"
+              },
+              "tip_5lang": {
+                "de": "Direkte Anbindung an Pamplona.",
+                "hu": "Közvetlen kapcsolat Pamplonával.",
+                "ro": "Legătură directă cu Pamplona.",
+                "en": "Direct connection to Pamplona."
+              }
+            },
+            {
+              "name": {
+                "de": "Königspalast von Olite",
+                "hu": "Olite királyi palotája",
+                "ro": "Palatul Regal din Olite",
+                "en": "Royal Palace of Olite"
+              },
+              "tip_5lang": {
+                "de": "Kurzer Fußweg vom Bahnhof.",
+                "hu": "Rövid séta az állomástól.",
+                "ro": "Scurtă plimbare de la gară.",
+                "en": "Short walk from the station."
+              }
+            },
+            {
+              "name": {
+                "de": "Plaza de Carlos III El Noble",
+                "hu": "Plaza de Carlos III El Noble",
+                "ro": "Plaza de Carlos III El Noble",
+                "en": "Plaza de Carlos III El Noble"
+              },
+              "tip_5lang": {
+                "de": "Zentrum des städtischen Lebens.",
+                "hu": "A városi élet központja.",
+                "ro": "Centrul vieții urbane.",
+                "en": "Center of urban life."
+              }
+            },
+            {
+              "name": {
+                "de": "Navarra Weinmuseum",
+                "hu": "Navarrai Bormúzeum",
+                "ro": "Muzeul Vinului din Navarra",
+                "en": "Navarra Wine Museum"
+              },
+              "tip_5lang": {
+                "de": "Perfekt für Weinkultur ohne Auto.",
+                "hu": "Tökéletes borkultúra autó nélkül.",
+                "ro": "Perfect pentru cultura vinului fără mașină.",
+                "en": "Perfect for wine culture without a car."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche San Pedro",
+                "hu": "Szent Péter templom",
+                "ro": "Biserica San Pedro",
+                "en": "Church of San Pedro"
+              },
+              "tip_5lang": {
+                "de": "Sehenswerte romanische Elemente.",
+                "hu": "Látványos román stílusú elemek.",
+                "ro": "Elemente romanice deosebite.",
+                "en": "Worth seeing Romanesque elements."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Pimientos del Piquillo",
+                "tip": "Gefüllte rote Paprika."
+              },
+              {
+                "name": "Restaurante Gambarte",
+                "tip": "Hausgemachte Speisen nah am Zentrum."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Pimientos del Piquillo",
+                "tip": "Töltött piros paprika."
+              },
+              {
+                "name": "Restaurante Gambarte",
+                "tip": "Házias ételek a központ közelében."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Pimientos del Piquillo",
+                "tip": "Ardei roșii umpluți."
+              },
+              {
+                "name": "Restaurante Gambarte",
+                "tip": "Mâncare de casă aproape de centru."
+              }
+            ],
+            "en": [
+              {
+                "name": "Pimientos del Piquillo",
+                "tip": "Stuffed red peppers."
+              },
+              {
+                "name": "Restaurante Gambarte",
+                "tip": "Homemade food near the center."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Mittelalterliche Galerien",
+                "tip": "Kühle und Stille unter der Erde.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Középkori galériák",
+                "tip": "Hűvös és csend a föld alatt.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Galerii medievale",
+                "tip": "Răcoare și liniște sub pământ.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Medieval Galleries",
+                "tip": "Coolness and silence underground.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Artesanía Navarra",
+                "tip": "Lokales Kunsthandwerk."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Artesanía Navarra",
+                "tip": "Helyi kézműves termékek."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Artesanía Navarra",
+                "tip": "Artizanat local."
+              }
+            ],
+            "en": [
+              {
+                "name": "Artesanía Navarra",
+                "tip": "Local handicrafts."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Überprüfen Sie die Zugfahrzeiten der RENFE.",
+              "Busse fahren regelmäßig von Pamplona.",
+              "Alle Sehenswürdigkeiten sind nah beieinander.",
+              "Nutzen Sie den Audioguide im Palast."
+            ],
+            "hu": [
+              "Ellenőrizze a RENFE vonatmenetrendjét.",
+              "Buszok rendszeresen indulnak Pamplonából.",
+              "Minden látnivaló közel van egymáshoz.",
+              "Használja az audiókalauzt a palotában."
+            ],
+            "ro": [
+              "Verificați mersul trenurilor RENFE.",
+              "Autobuzele circulă regulat din Pamplona.",
+              "Toate atracțiile sunt aproape una de alta.",
+              "Folosiți ghidul audio la palat."
+            ],
+            "en": [
+              "Check the RENFE train schedule.",
+              "Buses run regularly from Pamplona.",
+              "All sights are close to each other.",
+              "Use the audio guide in the palace."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Kommen Sie entspannt am Bahnhof Olite an und nutzen Sie den kurzen, regengeschützten Weg ins Zentrum. Der Vormittag gehört dem Palast, dessen überdachte Gänge ideal für nasses Wetter sind. Mittags bietet die Plaza de Carlos III Schutz unter ihren Arkaden für einen Kaffee. Nachmittags ist das Weinmuseum ein perfekter trockener Ort, bevor Sie von der Kirche San Pedro zurück zum Bahnhof spazieren.",
+            "hu": "Érkezzen meg pihenten az olitei állomásra, és használja a rövid, esőtől védett utat a központba. A délelőtt a palotáé, amelynek fedett folyosói ideálisak vizes időben. Délben a Plaza de Carlos III árkádjai alatt ihat meg egy kávét szárazon. Délután a Bormúzeum tökéletes fedett helyszín, mielőtt a San Pedro templomtól visszasétálna az állomásra.",
+            "ro": "Sosiți relaxat la gara Olite și folosiți drumul scurt și protejat de ploaie spre centru. Dimineața aparține palatului, ale cărui coridoare acoperite sunt ideale pe vreme umedă. La prânz, Plaza de Carlos III oferă adăpost sub arcade pentru o cafea. După-amiaza, Muzeul Vinului este un loc perfect și uscat, înainte de a merge de la biserica San Pedro înapoi la gară.",
+            "en": "Arrive relaxed at Olite station and take the short path to the center, sheltered from the rain. The morning belongs to the palace, whose covered walkways are ideal for wet weather. At noon, Plaza de Carlos III offers shelter under its arches for a coffee. In the afternoon, the Wine Museum is a perfect dry spot before strolling back to the station from San Pedro Church."
+          },
+          "stops": [
+            {
+              "name": "Olite Train Station",
+              "tip_5lang": {
+                "de": "Das Bahnhofsgebäude bietet einen kleinen Warteraum, falls es bei Ankunft stark regnet.",
+                "hu": "Az állomásépületben van egy kis váróterem, ha érkezéskor hevesen esne az eső.",
+                "ro": "Clădirea gării oferă o mică sală de așteptare în caz că plouă torențial la sosire.",
+                "en": "The station building offers a small waiting room in case it's raining heavily upon arrival."
+              }
+            },
+            {
+              "name": "Royal Palace of Olite",
+              "tip_5lang": {
+                "de": "Vom Bahnhof zum Palast sind es nur 10 Minuten zu Fuß – ideal bei leichtem Regen.",
+                "hu": "Az állomástól a palotáig csak 10 perc séta – ideális szemerkélő esőben is.",
+                "ro": "De la gară la palat sunt doar 10 minute pe jos – ideal chiar și pe o ploaie ușoară.",
+                "en": "It's only a 10-minute walk from the station to the palace – ideal even in light rain."
+              }
+            },
+            {
+              "name": "Plaza de Carlos III El Noble",
+              "tip_5lang": {
+                "de": "Die Arkaden verbinden fast alle Cafés der Plaza, so dass man trocken bleibt.",
+                "hu": "Az árkádok majdnem az összes kávézót összekötik a téren, így szárazon maradhat.",
+                "ro": "Arcadele leagă aproape toate cafenelele din piață, permițându-vă să rămâneți uscat.",
+                "en": "The arcades connect almost all the cafes in the square, so you can stay dry."
+              }
+            },
+            {
+              "name": "Navarra Wine Museum",
+              "tip_5lang": {
+                "de": "Das Museum ist komplett überdacht und bietet eine gute Pause vom Regenwetter.",
+                "hu": "A múzeum teljesen fedett, és jó pihenőt nyújt az esős időben.",
+                "ro": "Muzeul este complet acoperit și oferă o pauză bună de la vremea ploioasă.",
+                "en": "The museum is completely covered and offers a good break from the rainy weather."
+              }
+            },
+            {
+              "name": "Church of San Pedro",
+              "tip_5lang": {
+                "de": "Besichtigen Sie das Innere, während Sie auf die nächste Zugverbindung warten.",
+                "hu": "Tekintse meg a belső teret, miközben a következő vonatcsatlakozásra vár.",
+                "ro": "Vizitați interiorul în timp ce așteptați următoarea legătură de tren.",
+                "en": "Visit the interior while waiting for your next train connection."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie die Zugfahrzeiten vorab, da die Frequenz in Olite nicht sehr hoch ist.",
+              "Nutzen Sie die Schließfächer im Palast, um schweres Gepäck oder nasse Schirme abzugeben.",
+              "Die Wege zwischen den Sehenswürdigkeiten im Zentrum sind kurz und gut zu Fuß machbar.",
+              "Im Bahnhof gibt es keinen Kiosk; kaufen Sie Getränke vorab im Stadtzentrum.",
+              "Der Weg vom Weinmuseum zur Kirche San Pedro ist teilweise durch Häuserzeilen geschützt."
+            ],
+            "hu": [
+              "Előre ellenőrizze a vonatmenetrendet, mert Olitében nem túl sűrű a forgalom.",
+              "Használja a palota szekrényeit a nehéz csomagok vagy vizes esernyők leadására.",
+              "A központ látnivalói közötti utak rövidek és gyalogosan is jól teljesíthetők.",
+              "Az állomáson nincs büfé; az italokat előre vegye meg a városközpontban.",
+              "A Bormúzeumtól a San Pedro templomig vezető út részben védett a házsorok által."
+            ],
+            "ro": [
+              "Verificați mersul trenurilor în prealabil, deoarece frecvența în Olite nu este foarte mare.",
+              "Folosiți vestiarele de la palat pentru a lăsa bagajele grele sau umbrelele ude.",
+              "Drumurile între obiectivele din centru sunt scurte și ușor de parcurs pe jos.",
+              "În gară nu există chioșc; cumpărați băuturi în prealabil din centrul orașului.",
+              "Drumul de la Muzeul Vinului la biserica San Pedro este parțial protejat de clădiri."
+            ],
+            "en": [
+              "Check train times in advance as the frequency in Olite is not very high.",
+              "Use the palace lockers to store heavy luggage or wet umbrellas.",
+              "The paths between sights in the center are short and easily walkable.",
+              "There is no kiosk at the station; buy drinks in advance in the city center.",
+              "The path from the Wine Museum to San Pedro Church is partially sheltered by buildings."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erreichen Sie Olite am Morgen per Bahn und spüren Sie die frische Winterbrise. Der prachtvolle Palast ist Ihr erstes Ziel, wobei die Aussicht bei klarer Winterluft besonders weit reicht. Mittags bietet die Plaza de Carlos III sonnige Plätze zum Aufwärmen. Das Weinmuseum am Nachmittag ist ein idealer beheizter Rückzugsort, bevor Sie Ihren Tag an der Kirche San Pedro abschließen und zum Bahnhof zurückkehren.",
+            "hu": "Érkezzen meg Olitébe reggel vonattal, és érezze a friss téli szellőt. A pompás palota az első állomás, ahol a tiszta téli levegőben a kilátás különösen messzire nyúlik. Délben a Plaza de Carlos III napsütötte helyeket kínál a felmelegedéshez. A délutáni Bormúzeum ideális fűtött menedék, mielőtt a San Pedro templomnál zárná a napot és visszatérne az állomásra.",
+            "ro": "Sosiți în Olite dimineața cu trenul și simțiți briza proaspătă de iarnă. Palatul splendid este prima destinație, unde vizibilitatea este excelentă în aerul clar. La prânz, Plaza de Carlos III oferă locuri însorite pentru a vă încălzi. Muzeul Vinului de după-amiază este un refugiu încălzit ideal, înainte de a încheia ziua la biserica San Pedro și a reveni la gară.",
+            "en": "Arrive in Olite by train in the morning and feel the fresh winter breeze. The magnificent palace is your first destination, where the view extends particularly far in the clear winter air. At noon, Plaza de Carlos III offers sunny spots to warm up. The afternoon Wine Museum is an ideal heated retreat before ending your day at San Pedro Church and returning to the station."
+          },
+          "stops": [
+            {
+              "name": "Olite Train Station",
+              "tip_5lang": {
+                "de": "Der Bahnhof ist im Winter ruhig; ziehen Sie sich warm an für den Weg ins Zentrum.",
+                "hu": "Az állomás télen csendes; öltözzön fel melegen a központba vezető úthoz.",
+                "ro": "Gara este liniștită iarna; îmbrăcați-vă gros pentru drumul spre centru.",
+                "en": "The station is quiet in winter; dress warmly for the walk to the center."
+              }
+            },
+            {
+              "name": "Royal Palace of Olite",
+              "tip_5lang": {
+                "de": "Die Sonne steht tief und beleuchtet die Palastfassade im Winter besonders schön.",
+                "hu": "A nap alacsonyan jár, és télen különösen szépen világítja meg a palota homlokzatát.",
+                "ro": "Soarele este jos și luminează fațada palatului deosebit de frumos iarna.",
+                "en": "The sun is low and illuminates the palace facade particularly beautifully in winter."
+              }
+            },
+            {
+              "name": "Plaza de Carlos III El Noble",
+              "tip_5lang": {
+                "de": "Genießen Sie die Wintersonne auf den Bänken der Plaza, bevor es am Nachmittag kühler wird.",
+                "hu": "Élvezze a téli napsütést a tér padjain, mielőtt délután hűvösebb lesz.",
+                "ro": "Bucurați-vă de soarele de iarnă pe băncile din piață înainte de a se răci după-amiaza.",
+                "en": "Enjoy the winter sun on the square's benches before it gets cooler in the afternoon."
+              }
+            },
+            {
+              "name": "Navarra Wine Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Heizung im Museum, um für den letzten Teil des Tages Kraft zu tanken.",
+                "hu": "Használja ki a múzeum fűtését, hogy erőt gyűjtsön a nap utolsó részéhez.",
+                "ro": "Folosiți încălzirea din muzeu pentru a vă reîncărca bateriile pentru ultima parte a zilei.",
+                "en": "Use the museum's heating to recharge your energy for the final part of the day."
+              }
+            },
+            {
+              "name": "Church of San Pedro",
+              "tip_5lang": {
+                "de": "Der Kirchturm ist ein guter Orientierungspunkt für den Rückweg zum Bahnhof.",
+                "hu": "A templomtorony jó tájékozódási pont a vasútállomáshoz visszavezető úton.",
+                "ro": "Turnul bisericii este un bun punct de orientare pentru drumul înapoi spre gară.",
+                "en": "The church spire is a good landmark for the way back to the train station."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Der Bahnhof liegt etwas außerhalb; planen Sie 15 Minuten Fußweg zum Zug ein.",
+              "Die Züge können im Winter beheizt sein, was die Rückreise sehr angenehm macht.",
+              "Die Besichtigung des Palastes dauert ca. 90 Minuten; planen Sie genug Pufferzeit ein.",
+              "Nehmen Sie eine Thermoskanne mit einem heißen Getränk für die Wartezeit am Bahnhof mit.",
+              "Die letzten Sonnenstrahlen auf dem Palast sind gegen 17:00 Uhr am schönsten."
+            ],
+            "hu": [
+              "Az állomás kicsit kijjebb van; tervezzen 15 perc sétát a vonatig.",
+              "A vonatok télen fűtöttek, ami a hazautazást nagyon kellemessé teszi.",
+              "A palota látogatása kb. 90 percet vesz igénybe; hagyjon elég időt a vonatig.",
+              "Vigyen magával termoszban forró italt az állomáson való várakozáshoz.",
+              "Az utolsó napsugarak a palotán 17:00 körül a legszebbek."
+            ],
+            "ro": [
+              "Gara este puțin în afara orașului; planificați 15 minute de mers pe jos până la tren.",
+              "Trenurile pot fi încălzite iarna, ceea ce face călătoria de întoarcere foarte plăcută.",
+              "Vizitarea palatului durează aprox. 90 de minute; planificați suficient timp de rezervă.",
+              "Luați un termos cu o băutură caldă pentru timpul de așteptare în gară.",
+              "Ultimele raze de soare pe palat sunt cele mai frumoase în jurul orei 17:00."
+            ],
+            "en": [
+              "The station is slightly outside the center; plan a 15-minute walk to catch your train.",
+              "Trains are usually heated in winter, making the return journey very comfortable.",
+              "Visiting the palace takes about 90 minutes; plan enough buffer time for your train.",
+              "Bring a thermos with a hot drink for the wait at the station.",
+              "The last rays of sun on the palace are most beautiful around 17:00."
+            ]
+          }
+        }
+      }
+    }
+  },
+  "external_resources": {
+    "tourism_office": "https://www.olite.es/",
+    "transit_official": "https://www.alsa.es/",
+    "events": "https://www.olite.es/agenda",
+    "museum_tickets": "https://palaciorealdeolite.com/",
+    "language_tips": {
+      "de": "Spanisch ist die Hauptsprache, im Königlichen Palast und im Tourismusbüro wird auch Englisch und Französisch verstanden. Baskisch hört man in Olite kaum, anders als in Pamplona. 'Palacio Real' und 'cata de vinos' (Weinverkostung) gehören zum Pflichtwortschatz.",
+      "hu": "Spanyolul beszélnek, a Királyi Palotában és a tourist office-ban angolul-franciául is megértetik magukat. Baszk nyelv itt alig hallható, ellentétben Pamplonával. A 'palacio real' és 'cata de vinos' (borkóstoló) szavak hasznosak.",
+      "ro": "Spaniola e limba principală, la Palatul Regal și la oficiul de turism se vorbește și engleză sau franceză. Basca aproape că nu se aude aici, spre deosebire de Pamplona. Reține 'palacio real' și 'cata de vinos' (degustare de vinuri).",
+      "en": "Spanish dominates; the Royal Palace and tourist office staff handle English and some French. You'll rarely hear Basque here, unlike in Pamplona. Useful words: 'palacio real' and 'cata de vinos' (wine tasting)."
+    },
+    "best_time_to_visit": {
+      "de": "Mai bis Juni und September sind ideal: angenehme Temperaturen, weniger Touristen und die Weinlese im September macht die Bodegas der DO Navarra besonders lebendig. Mitte August lockt das Mittelalterfest, doch dann sind die Unterkünfte teuer und ausgebucht.",
+      "hu": "Május-június és szeptember a tökéletes időpont: kellemes hőmérséklet, kevesebb turista, és a szeptemberi szüret idején a DO Navarra borászatai pezsegnek. Augusztus közepén tartják a középkori fesztivált, akkor viszont drágák és teltek a szállások.",
+      "ro": "Mai-iunie și septembrie sunt ideale: temperaturi plăcute, mai puțini turiști, iar culesul viei din septembrie animă cramele DO Navarra. La mijlocul lui august are loc festivalul medieval, dar atunci cazările sunt scumpe și pline.",
+      "en": "May-June and September are ideal: pleasant temperatures, fewer crowds, and the September harvest brings DO Navarra wineries to life. The mid-August medieval festival is spectacular but pushes hotel prices and bookings to the limit."
+    },
+    "neighborhood_warnings": {
+      "de": "Olite ist eines der sichersten Ziele Spaniens, Taschendiebstahl ist quasi unbekannt. Achten Sie nur auf die unebenen Pflastersteine in der Altstadt und auf die steilen, schmalen Treppen im Palastinneren. Im Sommer ausreichend Wasser mitnehmen, Schatten ist Mangelware.",
+      "hu": "Olite Spanyolország egyik legbiztonságosabb úti célja, zsebtolvajlás gyakorlatilag nincs. Inkább a belváros egyenetlen macskakövére és a palota meredek, szűk lépcsőire kell figyelni. Nyáron vigyél sok vizet, mert árnyék alig van.",
+      "ro": "Olite e una dintre cele mai sigure destinații din Spania, buzunărelile sunt practic inexistente. Atenție doar la pavajul neregulat din centrul vechi și la scările abrupte și înguste din palat. Vara, luați apă suficientă, umbra e puțină.",
+      "en": "Olite ranks among Spain's safest small towns, with negligible pickpocketing. Real hazards are uneven cobblestones in the old core and steep narrow staircases inside the palace. Carry plenty of water in summer; shade is scarce."
+    }
+  }
+}
