@@ -1,14 +1,5 @@
 [
   {
-    "title": "Három hónap, ami mindent megváltoztat… vagy mégsem",
-    "snippet": "2026-ban szinte lehetetlen úgy megnyitni a közösségi médiát, hogy ne találkozzunk egy újabb életet ígérő tanfolyammal. „Válts karriert három hónap alatt!”, „Tanulj otthonról, és teremts",
-    "url": "https://hirnok.hu/harom-honap-ami-mindent-megvaltoztat-vagy-megsem/",
-    "source": "hirnok.hu (megyei)",
-    "lang": "hu",
-    "scope": "county",
-    "date": "Thu, 21 May 2026 17:39:29 +0000"
-  },
-  {
     "title": "Fertőzött terület lett Isaszeg, több vaddisznóban is kimutatták a sertéspestist",
     "snippet": "Az önkormányzat figyelmeztette a sertéstartókat.",
     "url": "https://index.hu/belfold/2026/05/22/isaszeg-afrikai-sertespestis-betegseg-fertozott-terulet-vaddisznok/",
@@ -25,6 +16,15 @@
     "lang": "hu",
     "scope": "city",
     "date": "Fri, 22 May 2026 12:59:53 +0000"
+  },
+  {
+    "title": "Három hónap, ami mindent megváltoztat… vagy mégsem",
+    "snippet": "2026-ban szinte lehetetlen úgy megnyitni a közösségi médiát, hogy ne találkozzunk egy újabb életet ígérő tanfolyammal. „Válts karriert három hónap alatt!”, „Tanulj otthonról, és teremts",
+    "url": "https://hirnok.hu/harom-honap-ami-mindent-megvaltoztat-vagy-megsem/",
+    "source": "hirnok.hu (megyei)",
+    "lang": "hu",
+    "scope": "county",
+    "date": "Thu, 21 May 2026 17:39:29 +0000"
   },
   {
     "title": "Az egycsillagos igazság",
@@ -52,15 +52,6 @@
     "lang": "hu",
     "scope": "city",
     "date": ""
-  },
-  {
-    "title": "Az önéletrajz elemei, amik eldöntik, behívnak-e állásinterjúra",
-    "snippet": "Az önéletrajzoknál a különböző területeken eltérő szempontok alapján döntenek a cégek, ezért érdemes a jelentkezést az adott munkához igazítani. A Profession.hu kutatása szerint tízből kilenc",
-    "url": "https://hirnok.hu/az-oneletrajz-elemei-amik-eldontik-behivnak-e-allasinterjura/",
-    "source": "hirnok.hu (megyei)",
-    "lang": "hu",
-    "scope": "county",
-    "date": "Wed, 20 May 2026 09:54:25 +0000"
   },
   {
     "title": "Szebb arc, könnyebb élet?",

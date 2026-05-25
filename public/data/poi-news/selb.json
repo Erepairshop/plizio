@@ -9,15 +9,6 @@
     "date": "Sat, 23 May 2026 18:00:00 GMT"
   },
   {
-    "title": "Kino in Selb: „Spektrum“ begrüßt 10.000 Besucherin des Jahres",
-    "snippet": "Damit haben schon im Mai mehr G ste das kommunale Kino besucht als im ganzen vergangenen Jahr. Worin Oberb rgermeister P tzsch den Schl ssel des Erfolges sieht.",
-    "url": "https://www.frankenpost.de/inhalt.kino-in-selb-spektrum-begruesst-10000-besucherin-des-jahres.892e77b1-07e9-46b5-8547-08d37b12eb24.html",
-    "source": "Frankenpost",
-    "lang": "de",
-    "scope": "state",
-    "date": "Sat, 23 May 2026 13:00:00 GMT"
-  },
-  {
     "title": "600 Jahre Selb: Vortrag am 26. Mai im SPEKTRUM Selb",
     "snippet": "Im Rahmen der Vortragsreihe zum Stadtjubiläum hält Gerd Bock am Dienstag, den 26. Mai einen weiteren Vortrag, diesmal „Unser liebes altes und neues Selb – West“.",
     "url": "https://www.selb.de/aktuelles-events/detailansicht/600-jahre-selb-vortrag-am-26-mai-im-spektrum-selb",
@@ -25,6 +16,15 @@
     "lang": "de",
     "scope": "city",
     "date": "Fri, 22 May 2026 08:13:57 +0200"
+  },
+  {
+    "title": "25 Jahre R+V Generalagentur Ronald Rothe in Rehau und Selb",
+    "snippet": "Seit einem Vierteljahrhundert ist Ronald Rothe ein verlässlicher Ansprechpartner in allen Fragen rund um Versicherungen – kompetent, persönlich und stets nah am Kunden.",
+    "url": "https://rehau.bayern/de/aktuelles/25-jahre-r-v-generalagentur-ronald-rothe-in-rehau-und-selb/",
+    "source": "Rehau (official)",
+    "lang": "de",
+    "scope": "city",
+    "date": "Tue, 19 May 2026 22:00:00 GMT"
   },
   {
     "title": "Neuer Imbiss mit Biergarten am Naturcampingplatz Kornberg-Borderland-Camping in Heidelheim",
@@ -43,24 +43,6 @@
     "lang": "de",
     "scope": "city",
     "date": "Wed, 20 May 2026 10:07:18 +0200"
-  },
-  {
-    "title": "25 Jahre R+V Generalagentur Ronald Rothe in Rehau und Selb",
-    "snippet": "Seit einem Vierteljahrhundert ist Ronald Rothe ein verlässlicher Ansprechpartner in allen Fragen rund um Versicherungen – kompetent, persönlich und stets nah am Kunden.",
-    "url": "https://rehau.bayern/de/aktuelles/25-jahre-r-v-generalagentur-ronald-rothe-in-rehau-und-selb/",
-    "source": "Rehau (official)",
-    "lang": "de",
-    "scope": "city",
-    "date": "Tue, 19 May 2026 22:00:00 GMT"
-  },
-  {
-    "title": "Vortrag zur Geschichte von Selb mit anschließender Benefizversteigerung",
-    "snippet": "Die Stadt Selb blickt auf eine spannende und vielseitige Geschichte zurück. Von den ersten Siedlungsspuren über die Machtstrukturen des Mittelalters bis hin zum Aufschwung des Handwerks, der schließlich den Weg in die Industrialisierung ebnete – die Entwicklung der Stadt Selb ist geprägt von Wandel,",
-    "url": "https://www.selb.de/aktuelles-events/detailansicht/vortrag-zur-geschichte-von-selb-mit-anschliessender-benefizversteigerung",
-    "source": "selb.de (official)",
-    "lang": "de",
-    "scope": "city",
-    "date": "Tue, 19 May 2026 09:18:01 +0200"
   },
   {
     "title": "Konstituierende Sitzung des Selber Stadtrats",

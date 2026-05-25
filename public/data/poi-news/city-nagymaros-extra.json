@@ -9,15 +9,6 @@
     "date": "Thu, 21 May 2026 20:58:00 +0200"
   },
   {
-    "title": "Összehangolt mentőakció a Börzsönyben, hegyimentők és tűzoltók mentettek ki egy túrázót",
-    "snippet": "Egy 62 éves hölgy került bajba a Szent Mihály-hegynél.",
-    "url": "https://index.hu/belfold/2026/04/18/borzsony-turazo-nagymaros-hegyimentes-labserules-hegyimentok-tuzoltosag-mentesi-munkalat/",
-    "source": "index.hu/Nagymaros",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Sat, 18 Apr 2026 17:32:00 +0200"
-  },
-  {
     "title": "Második világháborús gránátot találtak Nagymaroson",
     "snippet": "A 10,5 centiméteres német repeszromboló gránátot már elszállították. The post Második világháborús gránátot találtak Nagymaroson first appeared on 24.hu .",
     "url": "https://24.hu/belfold/2026/02/08/nagymaros-vilaghaborus-granat-elszallitottak/",
@@ -27,13 +18,13 @@
     "date": "Sun, 08 Feb 2026 13:33:58 +0000"
   },
   {
-    "title": "Lezárták a Hunyadi sétányt Nagymaroson, második világháborús repeszromboló gránátot találtak a járókelők",
-    "snippet": "A robbanóeszköz a Duna alacsony vízállása miatt került elő.",
-    "url": "https://index.hu/belfold/2026/02/08/nagymaros-katonai-robbanoeszkoz-setany-lezaras/",
+    "title": "Összehangolt mentőakció a Börzsönyben, hegyimentők és tűzoltók mentettek ki egy túrázót",
+    "snippet": "Egy 62 éves hölgy került bajba a Szent Mihály-hegynél.",
+    "url": "https://index.hu/belfold/2026/04/18/borzsony-turazo-nagymaros-hegyimentes-labserules-hegyimentok-tuzoltosag-mentesi-munkalat/",
     "source": "index.hu/Nagymaros",
     "lang": "hu",
     "scope": "city",
-    "date": "Sun, 08 Feb 2026 14:22:00 +0100"
+    "date": "Sat, 18 Apr 2026 17:32:00 +0200"
   },
   {
     "title": "Birtokba vette a Dunakanyart a víz – képgaléria tetőzés előtt",
@@ -45,6 +36,15 @@
     "date": "Thu, 19 Sep 2024 16:24:31 +0000"
   },
   {
+    "title": "Lezárták a Hunyadi sétányt Nagymaroson, második világháborús repeszromboló gránátot találtak a járókelők",
+    "snippet": "A robbanóeszköz a Duna alacsony vízállása miatt került elő.",
+    "url": "https://index.hu/belfold/2026/02/08/nagymaros-katonai-robbanoeszkoz-setany-lezaras/",
+    "source": "index.hu/Nagymaros",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Sun, 08 Feb 2026 14:22:00 +0100"
+  },
+  {
     "title": "Meghívó – Képviselő-testületi ülés",
     "snippet": "Nagymaros Város Önkormányzatának Képviselő-testülete 2026.05.26-án rendes ülést tart, melyre ezúton meghívom. A Meghívó Képviselő-testületi ülés bejegyzés először Nagymaros Város -én jelent meg.",
     "url": "https://nagymaros.hu/2026/05/22/meghivo-kepviselo-testuleti-ules-4/",
@@ -54,15 +54,6 @@
     "date": "Fri, 22 May 2026 16:31:04 +0000"
   },
   {
-    "title": "Továbbra is pusztul a nagymarosi panorámás szellemlakótelep",
-    "snippet": "Az elvetélt vízlépcsőterv és az elmúlt 35 év tehetetlenségének utolsó mementója az épület.",
-    "url": "https://index.hu/kultur/jardasziget/2024/05/26/nagymaros-munkasszallo-ugy-maradt-jardasziget/",
-    "source": "index.hu/Nagymaros",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Sun, 26 May 2024 20:49:00 +0200"
-  },
-  {
     "title": "MÁV: lehet, hogy még hétfőn sem mehetnek vonatok Nagymaroson át",
     "snippet": "A baleset következtében jelentősen rongálódott a vasúti pálya, a jelzőberendezések, és a váltók is. The post MÁV: lehet, hogy még hétfőn sem mehetnek vonatok Nagymaroson át first appeared on 24.hu .",
     "url": "https://24.hu/belfold/2023/12/31/nagymaros-tehervonat-kisiklas-muszaki-mentes-karok-mav-kozlemeny/",
@@ -70,6 +61,15 @@
     "lang": "hu",
     "scope": "city",
     "date": "Sun, 31 Dec 2023 08:19:33 +0000"
+  },
+  {
+    "title": "Továbbra is pusztul a nagymarosi panorámás szellemlakótelep",
+    "snippet": "Az elvetélt vízlépcsőterv és az elmúlt 35 év tehetetlenségének utolsó mementója az épület.",
+    "url": "https://index.hu/kultur/jardasziget/2024/05/26/nagymaros-munkasszallo-ugy-maradt-jardasziget/",
+    "source": "index.hu/Nagymaros",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Sun, 26 May 2024 20:49:00 +0200"
   },
   {
     "title": "Meghívó – Együttes bizottsági ülés",

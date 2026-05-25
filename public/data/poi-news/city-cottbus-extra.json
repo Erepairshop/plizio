@@ -1,5 +1,32 @@
 [
   {
+    "title": "Nach Aufstieg: Energie Cottbus' To-Do-Liste für die 2. Bundesliga",
+    "snippet": "Vor einer Woche hat Energie Cottbus den Aufstieg in die 2. Bundesliga perfekt gemacht. Auf eine große Party folgt nun viel Arbeit. Von der Stadionrenovierung bis zur Kaderplanung ist Energies To-Do-Liste für den Sommer prall gefüllt.",
+    "url": "https://www.rbb24.de/sport/beitrag/2026/05/fussball-zweite-liga-2-bundesliga-energie-cottbus-aufstieg-stadion-cigerci.html",
+    "source": "rbb24 Berlin",
+    "lang": "de",
+    "scope": "region",
+    "date": "Sun, 24 May 2026 16:35:59 +0200"
+  },
+  {
+    "title": "So viel kostet Sprit heute in Cottbus",
+    "snippet": "Aktuelle Benzinpreise Cottbus am 25.05.2026: Diesel ab 1,92 € (Greenline), Super E5 ab 2,01 €. 13 Tankstellen im Vergleich.",
+    "url": "https://www.niederlausitz-aktuell.de/niederlausitz-aktuell/orte/cottbus/311584/benzinpreise-cottbus.html",
+    "source": "Niederlausitz Aktuell",
+    "lang": "de",
+    "scope": "region",
+    "date": "Mon, 25 May 2026 06:00:04 +0000"
+  },
+  {
+    "title": "Wirtschaftsfaktor Energie Cottbus. Was der Aufstieg der Lausitz bringt",
+    "snippet": "Die IHK Cottbus rechnet durch den Aufstieg von Energie Cottbus in die 2. Bundesliga mit spürbaren wirtschaftlichen Impulsen für die Region. Eine konkrete monetäre Bewertung liegt nach Angaben der Kammer derzeit nicht vor. Das geht aus einer Antwort der IHK auf Anfrage von Niederlausitz aktuell hervo",
+    "url": "https://www.niederlausitz-aktuell.de/niederlausitz-aktuell/themen/wirtschaft/314624/wirtschaftsfaktor-energie-cottbus-was-der-aufstieg-der-lausitz-bringt.html",
+    "source": "Niederlausitz Aktuell",
+    "lang": "de",
+    "scope": "region",
+    "date": "Mon, 25 May 2026 05:30:51 +0000"
+  },
+  {
     "title": "Landespokalfinale: VfB Krieschow schockt Cottbus - Jena triumphiert in Thüringen",
     "snippet": "Pokalsensation in Brandenburg: Außenseiter VfB Krieschow schlägt Zweitliga-Aufsteiger Energie Cottbus. In Thüringen holt der Carl Zeiss Jena mit einem knappen Sieg den Landespokal.",
     "url": "https://www.berliner-zeitung.de/article/landespokalfinale-vfb-krieschow-schockt-cottbus-jena-siegt-in-thueringen-10038086",
@@ -9,13 +36,13 @@
     "date": "Sat, 23 May 2026 12:03:09 GMT"
   },
   {
-    "title": "Überraschung in Brandenburg: Krieschow schlägt Energie Cottbus im Landespokal-Finale!",
-    "snippet": "Völlig überraschend gewinnt der VfB Krieschow das Finale um den Brandenburg-Pokal gegen Energie Cottbus mit 2:1.",
-    "url": "https://www.bz-berlin.de/berlin-sport/krieschow-schlaegt-energie-cottbus-im-landespokal-finale",
-    "source": "B.Z. Berlin",
+    "title": "Fußball: Energie Cottbus verlängert mit Tolcay Cigerci",
+    "snippet": "",
+    "url": "https://www.rbb24.de/sport/beitrag/2026/05/fussball-dritte-liga-energie-cottbus-.html",
+    "source": "rbb24 Berlin",
     "lang": "de",
-    "scope": "city",
-    "date": "Sat, 23 May 2026 14:10:37 +0200"
+    "scope": "region",
+    "date": "Fri, 22 May 2026 20:11:34 +0200"
   },
   {
     "title": "Landespokal: Ohne Wollitz: Cottbus verliert Pokalfinale gegen Krieschow",
@@ -36,58 +63,40 @@
     "date": "Sat, 23 May 2026 13:49:52 +0200"
   },
   {
-    "title": "VfB Krieschow gewinnt gegen FC Energie Cottbus erstmals Fußball-Landespokal Brandenburg",
-    "snippet": "Sensation im Finale um den Fußball-Landespokal Brandenburg: Oberligist VfB Krieschow besiegt Zweitliga-Aufsteiger FC Energie Cottbus vor 10.336 Zuschauenden mit 2:1. Nach den Aufstiegsfeierlichkeiten wirkt der Auftritt des Favoriten über weite Strecken behäbig.",
-    "url": "https://www.maz-online.de/sport/regional/vfb-krieschow-gewinnt-gegen-fc-energie-cottbus-erstmals-fussball-landespokal-brandenburg-IO6EKIG2VRATXH5QNUA5HGA7X4.html",
-    "source": "Maerkische Allgemeine",
-    "lang": "de",
-    "scope": "state",
-    "date": "Sat, 23 May 2026 15:01:42 +0200"
-  },
-  {
-    "title": "Cottbus: Alle Tankstellen-Preise auf einen Blick",
-    "snippet": "Benzinpreise Cottbus: Diesel ab – €, Super E5 ab – €. Jetzt 0 Tankstellen vergleichen und günstig tanken.",
-    "url": "https://www.niederlausitz-aktuell.de/niederlausitz-aktuell/orte/cottbus/311584/benzinpreise-cottbus.html",
-    "source": "Niederlausitz Aktuell",
-    "lang": "de",
-    "scope": "region",
-    "date": "Sun, 24 May 2026 06:00:03 +0000"
-  },
-  {
-    "title": "Landespokal Finale Brandenburg mit VfB Krieschow und Energie Cottbus: Andy Hebler hat den Tor-Rekord",
-    "snippet": "Andy Hebler (37) führt die ewige Torjägerliste des Brandenburger Landespokals mit riesigem Abstand an. Verbessert der Kapitän des VfB Krieschow seine Rekordmarke ausgerechnet im Finale gegen Energie Cottbus, seine alte Liebe? Und: Welchen Gegner wünscht er sich im DFB-Pokal?",
-    "url": "https://www.maz-online.de/sport/regional/landespokal-finale-brandenburg-mit-vfb-krieschow-und-energie-cottbus-andy-hebler-hat-den-tor-rekord-573AXO5P5RHQHDP3XLWHZLVA7U.html",
-    "source": "Maerkische Allgemeine",
-    "lang": "de",
-    "scope": "state",
-    "date": "Sat, 23 May 2026 11:07:01 +0200"
-  },
-  {
-    "title": "VfB Krieschow gewinnt Landespokal-Finale gegen Energie Cottbus 2:1",
-    "snippet": "Die kleine Sensation ist perfekt: Der VfB Krieschow hat das Brandenburger Landespokalfinale mit 2:1 gegen den FC Energie Cottbus gewonnen und sich damit den prestigeträchtigen Titel gesichert. Vor rund 10.300 Zuschauern im LEAG Energie Stadion brachte ein Eigentor von Henry Rorig den Oberligisten be",
-    "url": "https://www.niederlausitz-aktuell.de/niederlausitz-aktuell/orte/cottbus/314661/vfb-krieschow-gewinnt-landespokal-finale-gegen-energie-cottbus-21.html",
-    "source": "Niederlausitz Aktuell",
-    "lang": "de",
-    "scope": "region",
-    "date": "Sat, 23 May 2026 11:32:38 +0000"
-  },
-  {
-    "title": "Fußball: Energie Cottbus verlängert mit Tolcay Cigerci",
-    "snippet": "",
-    "url": "https://www.rbb24.de/sport/beitrag/2026/05/fussball-dritte-liga-energie-cottbus-.html",
-    "source": "rbb24 Berlin",
-    "lang": "de",
-    "scope": "region",
-    "date": "Fri, 22 May 2026 20:11:34 +0200"
-  },
-  {
-    "title": "Zweite Fußball-Liga: Cottbus verlängert mit Campulka und Cigerci - Werder-Test",
-    "snippet": "Tim Campulka und Tolcay Cigerci bleiben Energie Cottbus erhalten. Eine Verlängerung mit den beiden hatte sich schon lange angebahnt. Auch der Sommer-Fahrplan steht bei den Lausitzern.",
-    "url": "https://www.tagesspiegel.de/berlin/zweite-fussball-liga-cottbus-verlangert-mit-campulka-und-cigerci-werder-test-15629261.html",
-    "source": "Tagesspiegel Berlin",
+    "title": "32. Brandenburgische Seniorenwoche startet in Cottbus/Chóśebuz",
+    "snippet": "Cottbus/Chóśebuz ist in diesem Jahr Gastgeberin der offiziellen Auftaktveranstaltung der 32. Bran-denburgischen Seniorenwoche. Unter dem landesweiten Motto „Gesellschaft braucht Erfahrung – Senioren brauchen Teilhabe“ wird die Seniorenwoche am Samstag, 30.05.2026, in der Lausitz-Arena feierlich eröf",
+    "url": "https://cottbus.de/pressemitteilung/32-brandenburgische-seniorenwoche-startet-in-cottbus-chosebuz/",
+    "source": "Cottbus (official)",
     "lang": "de",
     "scope": "city",
-    "date": "Fri, 22 May 2026 11:37:05 +0200"
+    "date": "Fri, 22 May 2026 12:43:52 +0000"
+  },
+  {
+    "title": "Deutsch-polnischer Austausch am Max-Steenbeck-Gymnasium",
+    "snippet": "Im Rahmen der langjährigen Städtepartnerschaft zwischen Cottbus/Chóśebuz und Zielona Góra trafen sich Schülerinnen und Schüler des Max-Steenbeck-Gymnasium und der Schule Nr. 17 aus Zielona Góra zu einer mehrtägigen deutsch-polnischen Jugendbegegnung. Offiziell begrüßt wurden die Teilnehmenden durch ",
+    "url": "https://cottbus.de/pressemitteilung/deutsch-polnischer-austausch-am-max-steenbeck-gymnasium/",
+    "source": "Cottbus (official)",
+    "lang": "de",
+    "scope": "city",
+    "date": "Fri, 22 May 2026 12:39:26 +0000"
+  },
+  {
+    "title": "Musen am Staatstheater Cottbus bekommen Gliedmaßen zurück",
+    "snippet": "",
+    "url": "https://www.rbb24.de/kultur/beitrag/2026/05/brandenburg-cottbus-staatstheater-rekonstruktion-musen.html",
+    "source": "rbb24 Kultur",
+    "lang": "de",
+    "scope": "region",
+    "date": "Tue, 19 May 2026 17:29:40 +0200"
+  },
+  {
+    "title": "Team der BTU Cottbus-Senftenberg forscht in Grönland zum Klima",
+    "snippet": "Der Boden von Grönland war im April an manchen Stellen fünf Grad wärmer als normalerweise. Dafür verantwortlich sind Forscher aus Cottbus. Sie wollen vor Ort untersuchen, wie sich der Klimawandel auf die Arktis und global auswirkt.",
+    "url": "https://www.rbb24.de/panorama/beitrag/2026/05/brandenburg-cottbus-forscher-btu-klima-erwaermung-arktis.html",
+    "source": "rbb24 Panorama",
+    "lang": "de",
+    "scope": "region",
+    "date": "Tue, 19 May 2026 11:17:00 +0200"
   },
   {
     "title": "VfB Krieschow will Cottbus ärgern und \"das Ding endlich gewinnen\"",
@@ -108,69 +117,6 @@
     "date": "Thu, 21 May 2026 09:32:04 CEST"
   },
   {
-    "title": "32. Brandenburgische Seniorenwoche startet in Cottbus/Chóśebuz",
-    "snippet": "Cottbus/Chóśebuz ist in diesem Jahr Gastgeberin der offiziellen Auftaktveranstaltung der 32. Bran-denburgischen Seniorenwoche. Unter dem landesweiten Motto „Gesellschaft braucht Erfahrung – Senioren brauchen Teilhabe“ wird die Seniorenwoche am Samstag, 30.05.2026, in der Lausitz-Arena feierlich eröf",
-    "url": "https://cottbus.de/pressemitteilung/32-brandenburgische-seniorenwoche-startet-in-cottbus-chosebuz/",
-    "source": "Cottbus (official)",
-    "lang": "de",
-    "scope": "city",
-    "date": "Fri, 22 May 2026 12:43:52 +0000"
-  },
-  {
-    "title": "Deutsch-polnischer Austausch am Max-Steenbeck-Gymnasium",
-    "snippet": "Im Rahmen der langjährigen Städtepartnerschaft zwischen Cottbus/Chóśebuz und Zielona Góra trafen sich Schülerinnen und Schüler des Max-Steenbeck-Gymnasium und der Schule Nr. 17 aus Zielona Góra zu einer mehrtägigen deutsch-polnischen Jugendbegegnung. Offiziell begrüßt wurden die Teilnehmenden durch ",
-    "url": "https://cottbus.de/pressemitteilung/deutsch-polnischer-austausch-am-max-steenbeck-gymnasium/",
-    "source": "Cottbus (official)",
-    "lang": "de",
-    "scope": "city",
-    "date": "Fri, 22 May 2026 12:39:26 +0000"
-  },
-  {
-    "title": "OB Schick besucht Radrennbahn im Sportzentrum Cottbus",
-    "snippet": "Oberbürgermeister Tobias Schick hat sich im Sportzentrum Cottbus ein Bild von den laufenden Arbeiten zur Erneuerung der Radrennbahn gemacht und sich dabei mit Vertreterinnen und Vertretern des Sports sowie den Verantwortlichen vor Ort ausgetauscht. Dabei betonte er die Bedeutung einer ausgewogenen F",
-    "url": "https://cottbus.de/pressemitteilung/ob-schick-besucht-radrennbahn-im-sportzentrum-cottbus/",
-    "source": "Cottbus (official)",
-    "lang": "de",
-    "scope": "city",
-    "date": "Thu, 21 May 2026 13:58:05 +0000"
-  },
-  {
-    "title": "Musen am Staatstheater Cottbus bekommen Gliedmaßen zurück",
-    "snippet": "",
-    "url": "https://www.rbb24.de/kultur/beitrag/2026/05/brandenburg-cottbus-staatstheater-rekonstruktion-musen.html",
-    "source": "rbb24 Kultur",
-    "lang": "de",
-    "scope": "region",
-    "date": "Tue, 19 May 2026 17:29:40 +0200"
-  },
-  {
-    "title": "Energie Cottbus feiert riesige Aufstiegsparty mit den Fans",
-    "snippet": "Cottbus ist nach zwölf Jahren zurück in der 2. Liga: Nach dem 1:0-Sieg gegen Regensburg am Samstag war Platz 2 gesichert. Noch in der Nacht empfingen Tausende Energie-Fans ihre Helden, am Sonntag folgte die große Aufstiegsparty in der Innenstadt.",
-    "url": "https://www.rbb24.de/sport/beitrag/2026/05/fussball-energie-cottbus-aufstieg-party-feier-pele-wollitz.html",
-    "source": "rbb24 Sport",
-    "lang": "de",
-    "scope": "region",
-    "date": "Sun, 17 May 2026 16:27:52 +0200"
-  },
-  {
-    "title": "Team der BTU Cottbus-Senftenberg forscht in Grönland zum Klima",
-    "snippet": "Der Boden von Grönland war im April an manchen Stellen fünf Grad wärmer als normalerweise. Dafür verantwortlich sind Forscher aus Cottbus. Sie wollen vor Ort untersuchen, wie sich der Klimawandel auf die Arktis und global auswirkt.",
-    "url": "https://www.rbb24.de/panorama/beitrag/2026/05/brandenburg-cottbus-forscher-btu-klima-erwaermung-arktis.html",
-    "source": "rbb24 Panorama",
-    "lang": "de",
-    "scope": "region",
-    "date": "Tue, 19 May 2026 11:17:00 +0200"
-  },
-  {
-    "title": "Was das mit einem Absteiger zu tun hat - Energie Cottbus vor Verlängerung mit Abräumer",
-    "snippet": "Rund 26 Stunden nach dem Aufstieg konnte Energie Cottbus schon wieder jubeln.",
-    "url": "https://www.bild.de/sport/fussball/2-liga-nach-duesseldorf-desaster-energie-cottbus-kann-diesen-profi-holen-6a0d682d3b7096456ac7ce4f",
-    "source": "Bild Dresden",
-    "lang": "de",
-    "scope": "city",
-    "date": "Wed, 20 May 2026 10:38:58 CEST"
-  },
-  {
     "title": "Radtour ab Beckum: Beumer-Team aus sieben Ländern fährt bis Cottbus",
     "snippet": "Die Beumer Group hat mit 56 Mitarbeitern aus sieben Ländern mehr als 500 Kilometer per Fahrrad geschafft.",
     "url": "https://www.die-glocke.de/kreis-warendorf/beckum/artikel/radtour-ab-beckum-beumer-team-aus-sieben-laendern-faehrt-bis-cottbus-1779106253",
@@ -189,13 +135,13 @@
     "date": "Mon, 18 May 2026 10:18:45 +0000"
   },
   {
-    "title": "20. Sitzung des Hauptausschusses der Stadtverordnetenversammlung Cottbus/Chóśebuz 20. Mai 2026",
-    "snippet": "Die 20. Sitzung des Hauptausschusses der Stadtverordnetenversammlung Cottbus/Chóśebuz für die VIII. Wahlperiode fand am 20. Mai 2026 im Stadthaus statt. Den Mitschnitt der Veranstaltung können Sie hier abrufen. Die Untertitel wurden automatisch erzeugt.",
-    "url": "https://cottbus.de/stadtverordnete/live-stream-und-mitschnitte/20-sitzung-des-hauptausschusses-der-stadtverordnetenversammlung-cottbus-chosebuz-20-mai-2026/",
+    "title": "OB Schick besucht Radrennbahn im Sportzentrum Cottbus",
+    "snippet": "Oberbürgermeister Tobias Schick hat sich im Sportzentrum Cottbus ein Bild von den laufenden Arbeiten zur Erneuerung der Radrennbahn gemacht und sich dabei mit Vertreterinnen und Vertretern des Sports sowie den Verantwortlichen vor Ort ausgetauscht. Dabei betonte er die Bedeutung einer ausgewogenen F",
+    "url": "https://cottbus.de/pressemitteilung/ob-schick-besucht-radrennbahn-im-sportzentrum-cottbus/",
     "source": "Cottbus (official)",
     "lang": "de",
     "scope": "city",
-    "date": "Wed, 20 May 2026 18:42:00 +0000"
+    "date": "Thu, 21 May 2026 13:58:05 +0000"
   },
   {
     "title": "Mutmaßlich rechtsextreme Angriffe in Cottbus: \"Wir müssen ein Zeichen setzen\"",
@@ -207,22 +153,31 @@
     "date": "Mon, 18 May 2026 11:37:13 +0200"
   },
   {
-    "title": "Baumfällungen im Cottbuser Stadtgebiet",
-    "snippet": "Im Cottbuser Stadtgebiet müssen kurzfristig zwei Linden gefällt werden. Betroffen sind jeweils ein Baum auf dem Lindenplatz im Ortsteil Sandow/Žandow sowie in der Bahnhofstraße 82 im Ortsteil Kiekebusch/Kibuš. Bei beiden Bäumen wurde ein Befall mit dem Brandkrustenpilz festgestellt. Dieser verursach",
-    "url": "https://cottbus.de/pressemitteilung/baumfaellungen-im-cottbuser-stadtgebiet-5/",
-    "source": "Cottbus (official)",
+    "title": "Was das mit einem Absteiger zu tun hat - Energie Cottbus vor Verlängerung mit Abräumer",
+    "snippet": "Rund 26 Stunden nach dem Aufstieg konnte Energie Cottbus schon wieder jubeln.",
+    "url": "https://www.bild.de/sport/fussball/2-liga-nach-duesseldorf-desaster-energie-cottbus-kann-diesen-profi-holen-6a0d682d3b7096456ac7ce4f",
+    "source": "Bild Dresden",
     "lang": "de",
     "scope": "city",
-    "date": "Wed, 20 May 2026 13:09:13 +0000"
+    "date": "Wed, 20 May 2026 10:38:58 CEST"
   },
   {
-    "title": "Ortsteilrungang in Döbbrick-Maiberg/Depsk-Majberk",
-    "snippet": "Dezernentin Eike Belle und Dezernentin Heike Kolter sind am kommenden Samstag, 23.05.2026, zu Gast im Ortsteil Döbbrick-Maiberg/Depsk-Majberk. Dort setzen sie die Serie der Ortsteilrundgänge des Oberbürgermeisters, diesmal in Vertretung des Stadtoberhauptes, fort. Treffpunkt für das öffentliche Gesp",
-    "url": "https://cottbus.de/pressemitteilung/ortsteilrungang-in-doebbrick-maiberg-depsk-majberk/",
+    "title": "Leitfaden „Disability Mainstreaming“ setzt wichtige Impulse für mehr Inklusion und Barrierefreiheit",
+    "snippet": "Der neue Leitfaden „Disability Mainstreaming – Teilhabe von Menschen mit Behinderungen verbessern“ des Bundesministeriums für Arbeit und Soziales setzt ein wichtiges Signal für eine inklusive und barrierefreie Gesellschaft. Die Broschüre macht deutlich, dass Inklusion nicht als Einzelaufgabe verstan",
+    "url": "https://cottbus.de/aktuelle-informationen-der-bereiche/beauftragte/leitfaden-disability-mainstreaming-setzt-wichtige-impulse-fuer-mehr-inklusion-und-barrierefreiheit/",
     "source": "Cottbus (official)",
     "lang": "de",
     "scope": "city",
-    "date": "Wed, 20 May 2026 12:40:41 +0000"
+    "date": "Thu, 21 May 2026 10:25:27 +0000"
+  },
+  {
+    "title": "Euro-WC-Schlüssel",
+    "snippet": "Bundesverband Selbsthilfe Körperbehinderter e.V. Der BSK – eine Gemeinschaft für alle! Als Bundesverband Selbsthilfe Körperbehinderter e.V. (kurz BSK) stärken wir seit 1955 die Rechte und Belange von Menschen mit Körperbehinderungen in ganz Deutschland. Ehrenamtlich geführt schaffen wir Bewusstsein,",
+    "url": "https://cottbus.de/aktuelle-informationen-der-bereiche/buero-des-oberbuergermeisters/beirat-fuer-menschen-mit-behinderung/euro-wc-schluessel/",
+    "source": "Cottbus (official)",
+    "lang": "de",
+    "scope": "city",
+    "date": "Thu, 21 May 2026 09:37:35 +0000"
   },
   {
     "title": "BFC vs. Cottbus: Heftige Ausschreitungen – 155 verletzte Polizisten",
@@ -243,15 +198,6 @@
     "date": "Sun, 17 May 2026 09:20:00 +0200"
   },
   {
-    "title": "Energie feiert Zweitliga-Rückkehr: \"Cottbus wird brennen\"",
-    "snippet": "Der FC Energie Cottbus ist zurück in der 2. Fußball-Bundesliga. Nach dem Aufstieg rangen die Spieler um Worte. Trainer Wollitz sprach über seine Zukunft. Die gesammelten Reaktionen der Lausitzer.",
-    "url": "https://www.rbb24.de/sport/beitrag/2026/05/fussball-dritte-liga-fc-energie-cottbus-aufstieg-zweite-bundesliga-reaktionen-stimmen-jubel-wollitz-lemke-funk-rorig.html",
-    "source": "rbb24 Sport",
-    "lang": "de",
-    "scope": "region",
-    "date": "Sat, 16 May 2026 18:40:00 +0200"
-  },
-  {
     "title": "Medizinstudium in Cottbus: Landarztquote soll Mangel beheben",
     "snippet": "Im Herbst startet das Medizinstudium an der neuen Uni in Cottbus. Zehn Prozent der Studienplätze sollen an jene gehen, die nach ihrer Ausbildung mindestens zehn Jahre als Landärzte in Brandenburg arbeiten. Kann dieses Modell den Mangel lindern?",
     "url": "https://www.rbb24.de/politik/beitrag/2026/04/brandenburg-medizin-studienplatz-vergabe-landarzt-mangel.html",
@@ -268,5 +214,41 @@
     "lang": "de",
     "scope": "region",
     "date": "Wed, 29 Apr 2026 10:49:49 +0200"
+  },
+  {
+    "title": "Energie Cottbus feiert riesige Aufstiegsparty mit den Fans",
+    "snippet": "Cottbus ist nach zwölf Jahren zurück in der 2. Liga: Nach dem 1:0-Sieg gegen Regensburg am Samstag war Platz 2 gesichert. Noch in der Nacht empfingen Tausende Energie-Fans ihre Helden, am Sonntag folgte die große Aufstiegsparty in der Innenstadt.",
+    "url": "https://www.rbb24.de/sport/beitrag/2026/05/fussball-energie-cottbus-aufstieg-party-feier-pele-wollitz.html",
+    "source": "rbb24 Sport",
+    "lang": "de",
+    "scope": "region",
+    "date": "Sun, 17 May 2026 16:27:52 +0200"
+  },
+  {
+    "title": "Cottbus zurück in 2. Bundesliga - Essen in der Relegation",
+    "snippet": "Energie Cottbus hat den Aufstieg in die 2. Bundesliga hinter Meister Osnabrück geschafft. Essen verdrängt kurz vor Schluss Duisburg vom Relegationsplatz.",
+    "url": "https://www.onetz.de/sport/regensburg/cottbus-zurueck-2-bundesliga-essen-relegation-id5373547.html",
+    "source": "Onetz — more LK",
+    "lang": "de",
+    "scope": "state",
+    "date": "Sat, 16 May 2026 13:37:33 +0000"
+  },
+  {
+    "title": "Energie feiert Zweitliga-Rückkehr: \"Cottbus wird brennen\"",
+    "snippet": "Der FC Energie Cottbus ist zurück in der 2. Fußball-Bundesliga. Nach dem Aufstieg rangen die Spieler um Worte. Trainer Wollitz sprach über seine Zukunft. Die gesammelten Reaktionen der Lausitzer.",
+    "url": "https://www.rbb24.de/sport/beitrag/2026/05/fussball-dritte-liga-fc-energie-cottbus-aufstieg-zweite-bundesliga-reaktionen-stimmen-jubel-wollitz-lemke-funk-rorig.html",
+    "source": "rbb24 Sport",
+    "lang": "de",
+    "scope": "region",
+    "date": "Sat, 16 May 2026 18:40:00 +0200"
+  },
+  {
+    "title": "Wie Claus-Dieter Wollitz aus Cottbus einen Zweitligisten formte",
+    "snippet": "Seit fast fünf Jahren ist Claus-Dieter Wollitz nun in seiner dritten Amtszeit Trainer bei Energie Cottbus. Währenddessen machte er aus einem strauchelnden Regionalligisten einen Zweitliga-Klub. Auch, weil er mehr als nur das Spiel im Blick hat.",
+    "url": "https://www.rbb24.de/sport/beitrag/2026/05/fussball-dritte-liga-energie-cottbus-aufstieg-pele-wollitz.html",
+    "source": "rbb24 Sport",
+    "lang": "de",
+    "scope": "region",
+    "date": "Sat, 16 May 2026 16:27:58 +0200"
   }
 ]

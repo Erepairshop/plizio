@@ -1,39 +1,48 @@
 [
   {
-    "title": "<strong>Gasexplosion in Görlitz: Stadtwerke schließen erste Arbeiten nach Einsturz von Haus ab – doch Sperrung bleibt</strong>",
+    "title": "Nach Görlitz-Explosion: Diese 7 Regeln können Ihr Leben retten",
+    "snippet": "Drei Menschen starben in Görlitz bei einer Gasexplosion. Alte Leitungen bergen Risiken. Worauf Sie bei nun sich und anderen zu Hause achten sollten.",
+    "url": "https://www.berliner-zeitung.de/article/nach-goerlitz-explosion-diese-7-regeln-koennen-ihr-leben-retten-10038150",
+    "source": "Berliner Zeitung",
+    "lang": "de",
+    "scope": "city",
+    "date": "Sun, 24 May 2026 15:42:18 GMT"
+  },
+  {
+    "title": "Görlitz: Frau verliert fast 50.000 Euro an Krypto-Betrüger",
+    "snippet": "Eine Görlitzerin verliert fast 50.000 Euro nach Investitionen auf einer dubiosen Krypto-Plattform. Die Polizei warnt erneut vor solchen Betrugsmaschen.",
+    "url": "https://www.saechsische.de/lokales/goerlitz-lk/goerlitz/goerlitz-frau-verliert-fast-50-000-euro-an-krypto-betrueger-AUKEL6D6FFFK5FONGCEXU7CYBM.html",
+    "source": "Saechsische Zeitung",
+    "lang": "de",
+    "scope": "state",
+    "date": "Sun, 24 May 2026 14:42:11 +0200"
+  },
+  {
+    "title": "Spielender Hund verursacht in Görlitz Verkehrsunfall",
+    "snippet": "Wegen eines spielenden Hundes musste ein Busfahrer in Görlitz eine Notbremsung einleiten. Dabei wurden sechs Menschen verletzt. Der Hundebesitzer muss sich nun verantworten.",
+    "url": "https://www.mdr.de/nachrichten/sachsen/bautzen/goerlitz-weisswasser-zittau/hund-ball-bus-verletzte-polizei-100.html",
+    "source": "MDR Sachsen Bautzen",
+    "lang": "de",
+    "scope": "county",
+    "date": "Sun, 24 May 2026 15:52:23 +0200"
+  },
+  {
+    "title": "Polizeiticker Görlitz: Aktuelle Unfall- und Kriminalmeldungen am 24.05.2026 aus der Region",
+    "snippet": "Verkehrsunfälle, Sperrungen, Vermisstenmeldung, Gewaltdelikte oder anderweitige Verbrechen – aktuelle Polizei- und Verkehrsmeldungen in Görlitz, Löbau, Zittau und der Region in unserem Ticker.",
+    "url": "https://www.saechsische.de/lokales/goerlitz-lk/polizeiticker-goerlitz-aktuelle-unfall-und-kriminalmeldungen-am-24-05-2026-aus-der-region-BYZUNVA7LFGJLHX25CELC4SAEQ.html",
+    "source": "Saechsische Zeitung",
+    "lang": "de",
+    "scope": "state",
+    "date": "Sun, 24 May 2026 12:30:04 +0200"
+  },
+  {
+    "title": "Gasexplosion in Görlitz: Stadtwerke schließen erste Arbeiten nach Einsturz von Haus ab – Sperrung bleibt",
     "snippet": "Gut zwei Wochen nach dem schweren Hauseinsturz in Görlitz sind neun Gebäude wieder an das Gasnetz. Weitere Arbeiten müssen jedoch warten. Warum?",
     "url": "https://www.berliner-zeitung.de/article/gasexplosion-in-goerlitz-stadtwerke-schliessen-erste-arbeiten-nach-einsturz-von-haus-ab-doch-sperrung-bleibt-10038112",
     "source": "Berliner Zeitung",
     "lang": "de",
     "scope": "city",
     "date": "Sun, 24 May 2026 05:04:06 GMT"
-  },
-  {
-    "title": "Hauseinsturz in Görlitz: Gasversorgung teils wiederhergestellt – Räumarbeiten ruhen wegen Einsturzgefahr",
-    "snippet": "In Görlitz ist am Montag ein Gründerzeithaus komplett eingestürzt. Nachdem die Rettungskräfte am Donnerstag eine dritte Leiche geborgen haben, wurden die Aufräumarbeiten vorerst eingestellt. Auch die Kriminaltechniker mussten ihre Arbeit abbrechen. Nun soll eine Spezialfirma die Statik des Gebäudes ",
-    "url": "https://www.lvz.de/mitteldeutschland/hauseinsturz-in-goerlitz-gasversorgung-teils-wiederhergestellt-raeumarbeiten-ruhen-wegen-JUIZS4FEVVDXTCJJF7FWIPGYSQ.html",
-    "source": "LVZ",
-    "lang": "de",
-    "scope": "city",
-    "date": "Sat, 23 May 2026 18:37:04 +0200"
-  },
-  {
-    "title": "Polizeiticker Görlitz: Aktuelle Unfall- und Kriminalmeldungen am 23.05.2026 aus der Region",
-    "snippet": "Verkehrsunfälle, Sperrungen, Vermisstenmeldung, Gewaltdelikte oder anderweitige Verbrechen – aktuelle Polizei- und Verkehrsmeldungen in Görlitz, Löbau, Zittau und der Region in unserem Ticker.",
-    "url": "https://www.saechsische.de/lokales/goerlitz-lk/polizeiticker-goerlitz-aktuelle-unfall-und-kriminalmeldungen-am-23-05-2026-aus-der-region-BYZUNVA7LFGJLHX25CELC4SAEQ.html",
-    "source": "Saechsische Zeitung",
-    "lang": "de",
-    "scope": "state",
-    "date": "Sat, 23 May 2026 12:31:25 +0200"
-  },
-  {
-    "title": "Einsturz-Drama in Görlitz: Warum bricht ein Haus plötzlich zusammen? Experten klären auf",
-    "snippet": "In Görlitz in Sachsen ist am Montag ein Wohnhaus zusammengestürzt – zwei Menschen werden noch vermisst. Wie kann es in der heutigen Zeit zu einer solchen Katastrophe kommen",
-    "url": "https://www.fuldaerzeitung.de/panorama/wohnhaus-einstuerzen-zr-94318742.html",
-    "source": "Fuldaer Zeitung",
-    "lang": "de",
-    "scope": "county",
-    "date": "Sat, 23 May 2026 14:32:06 +0200"
   },
   {
     "title": "Nach Hauseinsturz in Görlitz: Erste Gebäude haben wieder Gas",
@@ -54,22 +63,13 @@
     "date": "Sat, 23 May 2026 18:26:58 +0200"
   },
   {
-    "title": "Berlin / Brandenburg: Zweite Leiche nach Hauseinsturz in Görlitz gefunden",
-    "snippet": "Zweite Leiche nach Hauseinsturz in Görlitz gefunden",
-    "url": "https://www.tagesspiegel.de/berlin-brandenburg-zweite-leiche-nach-hauseinsturz-in-gorlitz-gefunden-15631982.html",
-    "source": "Tagesspiegel",
+    "title": "Hauseinsturz mit drei Toten in Görlitz: Polizei ermittelt in alle Richtungen",
+    "snippet": "Nach dem Einsturz eines Mehrfamilienhauses in Görlitz, bei dem drei Menschen starben, ermittelt die Polizei in alle Richtungen. Unterdessen dürfen weitere Anwohner in ihre Häuser zurück.",
+    "url": "https://www.mdr.de/nachrichten/sachsen/bautzen/goerlitz-weisswasser-zittau/haus-eingestuerzt-tote-polizei-ermittelt-anwohner-sperrung100.html",
+    "source": "MDR Sachsen Bautzen",
     "lang": "de",
-    "scope": "city",
-    "date": "Fri, 22 May 2026 19:09:44 +0200"
-  },
-  {
-    "title": "Traurige Gewissheit nach Hauseinsturz in Görlitz – alle Vermissten sind tot",
-    "snippet": "Tage nach dem Hauseinsturz in Görlitz wurden eine zweite Leiche und dann eine dritte Leiche entdeckt. Somit sind alle drei Vermissten tot.",
-    "url": "https://www.berlin-live.de/panorama/goerlitz-sachsen-einsturz-entdeckung-leiche-polizei-id607856.html",
-    "source": "Berlin Live",
-    "lang": "de",
-    "scope": "city",
-    "date": "Thu, 21 May 2026 18:36:35 +0000"
+    "scope": "county",
+    "date": "Fri, 22 May 2026 19:37:23 +0200"
   },
   {
     "title": "Haus in Görlitz eingestürzt - Stand der Rettungsarbeiten",
@@ -81,15 +81,6 @@
     "date": "Thu, 21 May 2026 16:09:00 EST"
   },
   {
-    "title": "Hauseinsturz mit drei Toten in Görlitz: Polizei ermittelt in alle Richtungen",
-    "snippet": "Nach dem Einsturz eines Mehrfamilienhauses in Görlitz, bei dem drei Menschen starben, ermittelt die Polizei in alle Richtungen. Unterdessen dürfen weitere Anwohner in ihre Häuser zurück.",
-    "url": "https://www.mdr.de/nachrichten/sachsen/bautzen/goerlitz-weisswasser-zittau/haus-eingestuerzt-tote-polizei-ermittelt-anwohner-sperrung100.html",
-    "source": "MDR Sachsen Bautzen",
-    "lang": "de",
-    "scope": "county",
-    "date": "Fri, 22 May 2026 19:37:23 +0200"
-  },
-  {
     "title": "Pressekonferenz zum Hauseinsturz in Görlitz",
     "snippet": "In der Innenstadt von Görlitz ist am Montag ein Mehrfamilienhaus eingestürzt. Seit Tagen sichern Rettungskräfte die anliegenden Häuser und suchen nach Verschütteten. Hier sehen Sie die Pressekonferenz zur aktuellen Lage.",
     "url": "https://www.mdr.de/video/mdr-plus-videos/video-pressekonferenz-zum-hauseinsturz-in-goerlitz-freitag-100.html",
@@ -97,15 +88,6 @@
     "lang": "de",
     "scope": "county",
     "date": "Fri, 22 May 2026 09:00:00 +0200"
-  },
-  {
-    "title": "Hauseinsturz in Görlitz: Dritte Leiche in Trümmern gefunden",
-    "snippet": "In den Trümmern des eingestürzten Hauses in Görlitz haben die Einsatzkräfte am Donnerstagabend eine dritte Leiche gefunden. Es handelt sich um einen Mann. Zuvor waren bereits zwei tote Frauen geborgen worden.",
-    "url": "https://www.mdr.de/nachrichten/sachsen/bautzen/goerlitz-weisswasser-zittau/haus-eingestuerzt-tote-gefunden-suche-beendet-leiche-100.html",
-    "source": "MDR Sachsen Bautzen",
-    "lang": "de",
-    "scope": "county",
-    "date": "Thu, 21 May 2026 22:28:58 +0200"
   },
   {
     "title": "Informationen zweiter Wahlgang und Briefwahl zur Oberbürgermeisterwahl am 31. Mai 2026",
@@ -117,13 +99,13 @@
     "date": "Wed, 20 May 2026 11:00:00 EST"
   },
   {
-    "title": "Hauseinsturz in Görlitz: Helfer suchen zwischen Staub und Trümmern nach Vermissten",
-    "snippet": "In Görlitz dauern die Bergungsarbeiten nach dem Hauseinsturz an. Noch immer werden drei Menschen vermisst. Die Gefahr durch ausströmendes Gas ist aber gebannt.",
-    "url": "https://www.mdr.de/nachrichten/sachsen/bautzen/goerlitz-weisswasser-zittau/hauseinsturz-vermisste-suche-gas-truemmer-102.html",
+    "title": "Hauseinsturz in Görlitz: Dritte Leiche in Trümmern gefunden",
+    "snippet": "In den Trümmern des eingestürzten Hauses in Görlitz haben die Einsatzkräfte am Donnerstagabend eine dritte Leiche gefunden. Es handelt sich um einen Mann. Zuvor waren bereits zwei tote Frauen geborgen worden.",
+    "url": "https://www.mdr.de/nachrichten/sachsen/bautzen/goerlitz-weisswasser-zittau/haus-eingestuerzt-tote-gefunden-suche-beendet-leiche-100.html",
     "source": "MDR Sachsen Bautzen",
     "lang": "de",
     "scope": "county",
-    "date": "Wed, 20 May 2026 20:23:12 +0200"
+    "date": "Thu, 21 May 2026 22:28:58 +0200"
   },
   {
     "title": "Bekannte Motive, neue Blicke – Gewinner der Görlitzer Fotochallenge 2026 stehen fest",
@@ -135,13 +117,13 @@
     "date": "Wed, 20 May 2026 10:00:00 EST"
   },
   {
-    "title": "Notfallseelsorger: Die Situation in Görlitz ist nicht alltäglich",
-    "snippet": "Der seit Montag andauernde Rettungseinsatz am eingestürzten Haus in Görlitz ist auch für das Seelsorgeteam vor Ort ungewöhnlich. Rund um die Uhr betreuen sie die Angehörigen der Vermissten.",
-    "url": "https://www.mdr.de/nachrichten/sachsen/bautzen/goerlitz-weisswasser-zittau/notfall-seelsorge-haus-einsturz-100.html",
+    "title": "Nach Hauseinsturz in Görlitz: Umliegende Häuser sollen schnell wieder Gas haben",
+    "snippet": "Wegen des Hauseinsturzes in Görlitz haben 18 Häuser in der Umgebung seit Dienstag kein Gas. Die Stadtwerke wollen das schnell ändern und die Häuser an eine andere Leitung anschließen.",
+    "url": "https://www.mdr.de/nachrichten/sachsen/bautzen/goerlitz-weisswasser-zittau/haus-einsturz-gas-versorgung-stadtwerke-100.html",
     "source": "MDR Sachsen Bautzen",
     "lang": "de",
     "scope": "county",
-    "date": "Wed, 20 May 2026 18:58:38 +0200"
+    "date": "Thu, 21 May 2026 21:21:21 +0200"
   },
   {
     "title": "»BÔ YIN RÂ – Das geistige Lehrwerk« - Neue Sonderausstellung vom 28. Mai bis 4. Oktober 2026 in der Schatzkammer des Barockhauses Görlitz",
@@ -153,13 +135,13 @@
     "date": "Mon, 18 May 2026 00:00:00 EST"
   },
   {
-    "title": "Mehrfamilienhaus in Görlitz eingestürzt: Gasaustritt gestoppt",
-    "snippet": "In Görlitz ist am Montag ein Mehrfamilienhaus eingestürzt. Drei Menschen werden noch vermisst. Die Suche läuft am Mittwoch weiter. Die ersten Anwohner aus der Nachbarschaft durften in ihre Wohnungen zurückkehren.",
-    "url": "https://www.mdr.de/nachrichten/sachsen/bautzen/goerlitz-weisswasser-zittau/haus-eingestuerzt-explosion-gas-suche-vermisste-102.html",
+    "title": "Zweiter Wahlgang OB-Wahl in Görlitz: Nur noch zwei Kandidaten treten an",
+    "snippet": "Nach dem Rückzug von Sabine Christian (Die Linke) und Hagen Jeschke (parteilos) treten im zweiten Wahlgang am 31. Mai nur noch Amtsinhaber Octavian Ursu (CDU) und AfD-Kandidat Sebastian Wippel gegeneinander an.",
+    "url": "https://www.mdr.de/nachrichten/sachsen/bautzen/goerlitz-weisswasser-zittau/oberbuergermeisterwahl-ursu-wippel-zweiter-wahlgang-100.html",
     "source": "MDR Sachsen Bautzen",
     "lang": "de",
     "scope": "county",
-    "date": "Wed, 20 May 2026 08:15:01 +0200"
+    "date": "Tue, 12 May 2026 11:30:00 +0200"
   },
   {
     "title": "Kuchenpause mit Oberbürgermeister Octavian Ursu",
@@ -171,24 +153,6 @@
     "date": "Fri, 15 May 2026 10:00:00 EST"
   },
   {
-    "title": "Zweiter Wahlgang OB-Wahl in Görlitz: Nur noch zwei Kandidaten treten an",
-    "snippet": "Nach dem Rückzug von Sabine Christian (Die Linke) und Hagen Jeschke (parteilos) treten im zweiten Wahlgang am 31. Mai nur noch Amtsinhaber Octavian Ursu (CDU) und AfD-Kandidat Sebastian Wippel gegeneinander an.",
-    "url": "https://www.mdr.de/nachrichten/sachsen/bautzen/goerlitz-weisswasser-zittau/oberbuergermeisterwahl-ursu-wippel-zweiter-wahlgang-100.html",
-    "source": "MDR Sachsen Bautzen",
-    "lang": "de",
-    "scope": "county",
-    "date": "Tue, 12 May 2026 11:30:00 +0200"
-  },
-  {
-    "title": "Einladung zur Vorstellung der Projekte Innenstadt West",
-    "snippet": "Der Bürgerrat Innenstadt West bedankt sich recht herzlich für das große Engagement und die vielen eingereichten Projekt-Vorschläge für das Jahr 2026.",
-    "url": "https://www.goerlitz.de/news/2448",
-    "source": "Görlitz (official)",
-    "lang": "de",
-    "scope": "city",
-    "date": "Tue, 05 May 2026 08:00:00 EST"
-  },
-  {
     "title": "OB-Wahl in Görlitz: CDU-Amtsinhaber vor AfD-Kandidat - aber zweiter Wahlgang nötig",
     "snippet": "In der Görlitz wurde am Sonntag der Oberbürgermeister gewählt. Unter vier Kandidaten setzte sich im ersten Wahlgang der Amtsinhaber Octavian Ursu (CDU) durch, verpasste aber knapp die absolute Mehrheit.",
     "url": "https://www.mdr.de/nachrichten/sachsen/bautzen/goerlitz-weisswasser-zittau/oberbuergermeister-wahl-ursu-wippel-cdu-afd-102.html",
@@ -198,13 +162,13 @@
     "date": "Sun, 10 May 2026 20:00:34 +0200"
   },
   {
-    "title": "Gerhart-Hauptmann-Theater Görlitz-Zittau erhält Europastadtmedaille für das Internationale Straßentheaterfestival ViaThea",
-    "snippet": "Im Rahmen der gemeinsamen Stadtratssitzung der Europastadt Görlitz/Zgorzelec am 5. Mai wurde das Gerhart-Hauptmann-Theater Görlitz-Zittau für das Internationale Straßentheaterfestival ViaThea mit dem Ehrentitel „Für Verdienste um die Europastadt Görlitz/Zgorzelec“ ausgezeichnet. Der Stadtrat hatte d",
-    "url": "https://www.goerlitz.de/news/2451",
+    "title": "Einladung zur Vorstellung der Projekte Innenstadt West",
+    "snippet": "Der Bürgerrat Innenstadt West bedankt sich recht herzlich für das große Engagement und die vielen eingereichten Projekt-Vorschläge für das Jahr 2026.",
+    "url": "https://www.goerlitz.de/news/2448",
     "source": "Görlitz (official)",
     "lang": "de",
     "scope": "city",
-    "date": "Tue, 05 May 2026 00:00:00 EST"
+    "date": "Tue, 05 May 2026 08:00:00 EST"
   },
   {
     "title": "Oberbürgermeisterwahl in Görlitz: Das sind die Kandidaten",

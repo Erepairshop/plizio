@@ -1,12 +1,30 @@
 [
   {
-    "title": "Tarnaszentmária is csalatkozott az Örökségtúrához - HEOL",
-    "snippet": "Tarnaszentmária is csalatkozott az Örökségtúrához HEOL",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTVZyemhPdmEybXhPNlQ1MmthS0I0NlFSazkzdFhQSGltVG42VU5QUnVpVGgzY2NzNlA2Y1IxaWdzbFhtWEplbUZHZi0wZ193QUQ5a2dkMm9OOWVjc3dGWk9pYnJiS19rVW5IMG5xNzIyMFl6MXFEWXZzaVYzRU9EYU1BZHdKcFU0d28wQXln?oc=5",
-    "source": "google-news",
+    "title": "Jó hír az utazóknak: Elhárították a hibát, újra működik a jegyértékesítés a MÁV-nál",
+    "snippet": "A MÁV gyorsan orvosolta a problémát.",
+    "url": "https://www.heol.hu/helyi-kozelet/2026/05/mav-jegy-hiba?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+    "source": "heol.hu (megyei)",
     "lang": "hu",
-    "scope": "search",
-    "date": "Sun, 17 May 2026 15:40:14 GMT"
+    "scope": "county",
+    "date": "Mon, 25 May 2026 08:01:18 +0000"
+  },
+  {
+    "title": "A 2006-os gyurcsányi rendőrattak egyik kulcsfigurája Magyar Péter kormányának rendészeti államtitkára",
+    "snippet": "Mi ez, ha nem üzenet?",
+    "url": "https://www.heol.hu/orszag-vilag/2026/05/magyar-peter-toth-gabor-rendeszeti-allamtitkar-2006-gyurcsany-rendorterror?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+    "source": "heol.hu (megyei)",
+    "lang": "hu",
+    "scope": "county",
+    "date": "Mon, 25 May 2026 07:39:40 +0000"
+  },
+  {
+    "title": "Mutatjuk, mikor lehet vért adni a pünkösd utáni héten",
+    "snippet": "Több településen is szerveznek véradást Heves vármegyében a héten.",
+    "url": "https://www.heol.hu/helyi-kozelet/2026/05/veradas-idopontok-heves?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+    "source": "heol.hu (megyei)",
+    "lang": "hu",
+    "scope": "county",
+    "date": "Mon, 25 May 2026 07:11:08 +0000"
   },
   {
     "title": "Nincs vezetékes víz Tarnaszentmárián",
@@ -16,32 +34,5 @@
     "lang": "hu",
     "scope": "city",
     "date": "Sat, 22 Jul 2017 19:58:32 +0000"
-  },
-  {
-    "title": "Tarnaszentmária időjárása - Köpönyeg",
-    "snippet": "Tarnaszentmária időjárása Köpönyeg",
-    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE02bFdremNEMXExTlRpX1ViMEVYQVpGUHluV1hiX2YzMm9hUDlwWUxaZXBsMFh6UG83YU4wY1BNX3ROUm5kTk1VUnYwVFNlYnVKQ1BoTzRnZFk2dWYybkJOckVB?oc=5",
-    "source": "google-news",
-    "lang": "hu",
-    "scope": "search",
-    "date": "Fri, 28 Sep 2018 11:22:17 GMT"
-  },
-  {
-    "title": "Tarnaszentmária időjárás - Időkép",
-    "snippet": "Tarnaszentmária időjárás Időkép",
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9JaUhpYnNZbmpGVzk4bHdwU29QOExQNXdwYlRWRHYyN0xCZHNOZGtDdGQwekNkRko5Vld3WnowbzNJcEh0a2JsN0Q4dGxadEdrdWpwYkotNDMwakE3M2FKcQ?oc=5",
-    "source": "google-news",
-    "lang": "hu",
-    "scope": "search",
-    "date": "Sun, 16 Jul 2017 22:21:20 GMT"
-  },
-  {
-    "title": "Sarlós Boldogasszony ünnepén Tarnaszentmária templomáról is megemlékezik a képviselő - HEOL",
-    "snippet": "Sarlós Boldogasszony ünnepén Tarnaszentmária templomáról is megemlékezik a képviselő HEOL",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObkR1WnpsNEJzY0hTenpvMmZtZzl2bmVWeDBqbDZyTmxXMDhyOFdDTjRGTkVwTndaZGFTVThfdmpmcUlKa2pGNWdJWUhnQ3ZLTzhrWUNpbEZtc3ZOMkhET2RGendhUjVwMmdVMFUzX04wRUtLSVJ5WGxNaVdPZ3hNbDFsYkRHUGtMM3pOUDZaVW5mOGItcENLZ29CdWVRY0ZIM2VUbHBzc2hhbmJmSFhXbTBQSDJkd3JXdXFaLTVWU2UzYlAw?oc=5",
-    "source": "google-news",
-    "lang": "hu",
-    "scope": "search",
-    "date": "Sun, 02 Jul 2023 07:00:00 GMT"
   }
 ]

@@ -1,5 +1,41 @@
 [
   {
+    "title": "Az utolsó forduló dönt az érmekről az I. osztályban – a Zalaszentgrót, az Andráshida és a Hévíz küzd az ezüstért (galéria)",
+    "snippet": "A hét végén a 25. fordulót rendezték a Zala vármegyei labdarúgó-bajnokság I. osztályában.",
+    "url": "https://www.zaol.hu/helyi-sport/2026/05/varmegyei-foci-i-osztaly-25-fordulo-2026?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+    "source": "ZAOL Zala vármegyei hírportál",
+    "lang": "hu",
+    "scope": "county",
+    "date": "Sun, 24 May 2026 19:22:20 +0000"
+  },
+  {
+    "title": "32 fok is lehet pünkösdhétfőn – de nem mindenhol marad száraz az idő",
+    "snippet": "Marad a nyárias időjárás, de záporeső is előfordulhat.",
+    "url": "https://www.zaol.hu/helyi-idojaras/2026/05/idojaras-elorejelzes-zala-punkosdhetfo?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+    "source": "zaol.hu (megyei)",
+    "lang": "hu",
+    "scope": "county",
+    "date": "Mon, 25 May 2026 08:03:16 +0000"
+  },
+  {
+    "title": "A 2006-os gyurcsányi rendőrattak egyik kulcsfigurája Magyar Péter kormányának rendészeti államtitkára",
+    "snippet": "Mi ez, ha nem üzenet?",
+    "url": "https://www.zaol.hu/orszag-vilag/2026/05/magyar-peter-toth-gabor-rendeszeti-allamtitkar-2006-gyurcsany-rendorterror?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+    "source": "zaol.hu (megyei)",
+    "lang": "hu",
+    "scope": "county",
+    "date": "Mon, 25 May 2026 07:39:40 +0000"
+  },
+  {
+    "title": "Zalai a legszebb településnév-verseny abszolút győztese – a kis falu nagy napja (galéria)",
+    "snippet": "Oltárc polgármestere a legszebb településnév díját vasárnap vette át a szentendrei Skanzenben.",
+    "url": "https://www.zaol.hu/helyi-kultura/2026/05/legszebb-telepulesnev-verseny-zalai-falu-nyert-oltarc?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+    "source": "zaol.hu (megyei)",
+    "lang": "hu",
+    "scope": "county",
+    "date": "Mon, 25 May 2026 07:30:00 +0000"
+  },
+  {
     "title": "Nagy durranásra készül a Hévíz-Balaton Airport",
     "snippet": "V4-es, német és izraeli turistákat várnak Nyugat-Magyarországra.",
     "url": "https://index.hu/belfold/2025/05/21/nemzetgazdasagi-miniszterium-heviz-naszados-peter-heviz-balaton-airport-turizmus-nyugat-magyarorszag-sarmellek/",
@@ -7,42 +43,6 @@
     "lang": "hu",
     "scope": "city",
     "date": "Wed, 21 May 2025 06:00:00 +0200"
-  },
-  {
-    "title": "Az idő luxusát ünnepli az egyéves hévízi Le Primore Hotel & Spa",
-    "snippet": "Első születésnapját ünnepli a hévízi Le Primore Hotel Spa, és egy első születésnapot illik a lehető legkülönlegesebben megünnepelni neves hazai művészekkel és sztárszakácsokkal. The post Az idő luxusát ünnepli az egyéves hévízi Le Primore Hotel & Spa first appeared on 24.hu .",
-    "url": "https://24.hu/kultura/2026/04/20/heviz-le-primore-hotel-spa-szuletesnap/",
-    "source": "24.hu/Hévíz",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Mon, 20 Apr 2026 09:32:00 +0000"
-  },
-  {
-    "title": "Kigyulladt egy hévízi szálloda, csaknem 300 embernek kellett elhagynia az épületet",
-    "snippet": "A tűz az alagsorban keletkezett.",
-    "url": "https://index.hu/belfold/2026/04/04/heviz-szalloda-tuz-trafo/",
-    "source": "index.hu/Hévíz",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Sat, 04 Apr 2026 15:29:00 +0200"
-  },
-  {
-    "title": "Tűz volt egy hévízi szállodában, majdnem 300 embert evakuáltak",
-    "snippet": "A tüzet eloltották, a személyzet és a vendégek visszatérhettek a hotelbe. The post Tűz volt egy hévízi szállodában, majdnem 300 embert evakuáltak first appeared on 24.hu .",
-    "url": "https://24.hu/belfold/2026/04/04/tuz-heviz-evakualas/",
-    "source": "24.hu/Hévíz",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Sat, 04 Apr 2026 13:33:03 +0000"
-  },
-  {
-    "title": "Egy hévízi férfi a teljes vagyonát, több száz millió forintot hagyott a német AfD-re",
-    "snippet": "A párt az összeg egyedüli örököse.",
-    "url": "https://index.hu/kulfold/2026/02/20/nemetorszag-afd-hagyatek-orokseg-heviz/",
-    "source": "index.hu/Hévíz",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Fri, 20 Feb 2026 07:27:00 +0100"
   },
   {
     "title": "Ahol az idő lassabban telik – 50 éves az Ensana Thermal Hévíz",
@@ -54,13 +54,40 @@
     "date": ""
   },
   {
-    "title": "700 ezer eurós örökségről számolt be a német szélsőjobb Magyarországról – eurómilliós büntetés lehet a vége",
-    "snippet": "Egy Hévízen meghalt ferraris német nyugdíjas 272 milliós örökséget hagyott az AfD-re, állítja a párt. Valójában a férfi özvegye lehet rá a jogosult. Már ha létezik ez a vagyon. The post 700 ezer eurós örökségről számolt be a német szélsőjobb Magyarországról – eurómilliós büntetés lehet a vége first ",
-    "url": "https://24.hu/elet-stilus/2026/03/12/afd-orokseg-heviz-nyugdijas-ozvegy-vegrendelet/",
+    "title": "Kigyulladt egy hévízi szálloda, csaknem 300 embernek kellett elhagynia az épületet",
+    "snippet": "A tűz az alagsorban keletkezett.",
+    "url": "https://index.hu/belfold/2026/04/04/heviz-szalloda-tuz-trafo/",
+    "source": "index.hu/Hévíz",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Sat, 04 Apr 2026 15:29:00 +0200"
+  },
+  {
+    "title": "Az idő luxusát ünnepli az egyéves hévízi Le Primore Hotel & Spa",
+    "snippet": "Első születésnapját ünnepli a hévízi Le Primore Hotel Spa, és egy első születésnapot illik a lehető legkülönlegesebben megünnepelni neves hazai művészekkel és sztárszakácsokkal. The post Az idő luxusát ünnepli az egyéves hévízi Le Primore Hotel & Spa first appeared on 24.hu .",
+    "url": "https://24.hu/kultura/2026/04/20/heviz-le-primore-hotel-spa-szuletesnap/",
     "source": "24.hu/Hévíz",
     "lang": "hu",
     "scope": "city",
-    "date": "Thu, 12 Mar 2026 11:24:20 +0000"
+    "date": "Mon, 20 Apr 2026 09:32:00 +0000"
+  },
+  {
+    "title": "Egy hévízi férfi a teljes vagyonát, több száz millió forintot hagyott a német AfD-re",
+    "snippet": "A párt az összeg egyedüli örököse.",
+    "url": "https://index.hu/kulfold/2026/02/20/nemetorszag-afd-hagyatek-orokseg-heviz/",
+    "source": "index.hu/Hévíz",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Fri, 20 Feb 2026 07:27:00 +0100"
+  },
+  {
+    "title": "Tűz volt egy hévízi szállodában, majdnem 300 embert evakuáltak",
+    "snippet": "A tüzet eloltották, a személyzet és a vendégek visszatérhettek a hotelbe. The post Tűz volt egy hévízi szállodában, majdnem 300 embert evakuáltak first appeared on 24.hu .",
+    "url": "https://24.hu/belfold/2026/04/04/tuz-heviz-evakualas/",
+    "source": "24.hu/Hévíz",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Sat, 04 Apr 2026 13:33:03 +0000"
   },
   {
     "title": "Lebontják a hévízi tófürdő ikonikus központi fürdőházát",
@@ -70,5 +97,14 @@
     "lang": "hu",
     "scope": "city",
     "date": "Tue, 09 Dec 2025 05:59:00 +0100"
+  },
+  {
+    "title": "700 ezer eurós örökségről számolt be a német szélsőjobb Magyarországról – eurómilliós büntetés lehet a vége",
+    "snippet": "Egy Hévízen meghalt ferraris német nyugdíjas 272 milliós örökséget hagyott az AfD-re, állítja a párt. Valójában a férfi özvegye lehet rá a jogosult. Már ha létezik ez a vagyon. The post 700 ezer eurós örökségről számolt be a német szélsőjobb Magyarországról – eurómilliós büntetés lehet a vége first ",
+    "url": "https://24.hu/elet-stilus/2026/03/12/afd-orokseg-heviz-nyugdijas-ozvegy-vegrendelet/",
+    "source": "24.hu/Hévíz",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Thu, 12 Mar 2026 11:24:20 +0000"
   }
 ]

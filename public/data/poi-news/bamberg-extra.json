@@ -1,5 +1,14 @@
 [
   {
+    "title": "Landkreis Bamberg: Update – Vermisste wurde gefunden",
+    "snippet": "Die Polizei suchte nach einer Frau aus dem Landkreis Bamberg. Nun wurde sie unweit ihres Wohnortes gefunden.",
+    "url": "https://www.frankenpost.de/inhalt.landkreis-bamberg-51-jaehrige-aus-hirschaid-vermisst.5785386d-22cb-40c8-8df3-a578613007f8.html",
+    "source": "Frankenpost",
+    "lang": "de",
+    "scope": "state",
+    "date": "Sun, 24 May 2026 11:23:30 GMT"
+  },
+  {
     "title": "Demokratie vor Ort stark machen",
     "snippet": "Das Amt für Inklusion lädt zum Workshop am 24. Mai ein Wie lässt sich Demokratie auf kommunaler Ebene fördern und stärken? Mit diesem Thema beschäftigt sich ein Workshop, der vom Amt ...",
     "url": "https://www.stadt.bamberg.de/index.php?ModID=255&FID=3481.31297.1&object=tx%2C3481.6",
@@ -70,5 +79,14 @@
     "lang": "de",
     "scope": "city",
     "date": "Tue, 22 Oct 2024 10:31:01 GMT"
+  },
+  {
+    "title": "\"Wir müssen die Innenstadt stärken\"",
+    "snippet": "Oberbürgermeister Niedermaier besucht drei Unternehmen Gemeinsam mit Wirtschaftsreferent Dr. Stefan Goller und Ruth Vollmar, Leiterin der Wirtschaftsförderung, besuchte Oberbürgermeister Sebastian M. Niedermaier drei Unternehmen in der Innenstadt. Die Stärkung der Unternehmen ...",
+    "url": "https://www.stadt.bamberg.de/index.php?ModID=255&FID=3481.31224.1&object=tx%2C3481.6",
+    "source": "Bamberg (official)",
+    "lang": "de",
+    "scope": "city",
+    "date": "Mon, 18 May 2026 09:12:07 +0200"
   }
 ]

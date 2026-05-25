@@ -1,14 +1,5 @@
 [
   {
-    "title": "Lemondta a Bácsalmás a Kiskunfélegyháza elleni bajnoki mérkőzést",
-    "snippet": "A vármegyei elsőosztályú labdarúgó bajnokság utolsó előtti fordulójának mérkőzése elmarad.",
-    "url": "https://www.baon.hu/helyi-sport/2026/05/bacsalmasi-psve-merkozes-lemondas?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
-    "source": "Baon",
-    "lang": "hu",
-    "scope": "county",
-    "date": "Sun, 24 May 2026 05:15:00 +0000"
-  },
-  {
     "title": "Borzalom Bács-Kiskunban: utcán ölte meg volt párját egy férfi, majd önmagával is végzett",
     "snippet": "Közös gyermeküket is meg akarta ölni.",
     "url": "https://index.hu/belfold/2025/07/01/emberoles-bacsalmas-rendorseg-bacs-kiskun-varmegye/",
@@ -45,15 +36,6 @@
     "date": "Tue, 01 Jul 2025 13:47:48 +0000"
   },
   {
-    "title": "Közmeghallgatás 2026.05.28",
-    "snippet": "Közmeghallgatás 2026.05.28 Közzétéve: 2026-05-12",
-    "url": "http://www.bacsalmas.hu?hir=514",
-    "source": "bacsalmas.hu (hivatalos)",
-    "lang": "hu",
-    "scope": "city",
-    "date": "2026-05-28"
-  },
-  {
     "title": "„Hitelt kellett felvennem édesanyám gyógyszereire” – így készülnek a télre a Bácsalmási járásban",
     "snippet": "Riport a szocializmus árnyékában maradt szegénységből.",
     "url": "https://index.hu/belfold/szegenyseg-magyarorszagon/2024/11/28/hitel-bacsalmas-jaras-tel-tuzifa-karacsony-gyogyszer-egeszseg/",
@@ -61,6 +43,15 @@
     "lang": "hu",
     "scope": "city",
     "date": "Thu, 28 Nov 2024 20:05:00 +0100"
+  },
+  {
+    "title": "Közmeghallgatás 2026.05.28",
+    "snippet": "Közmeghallgatás 2026.05.28 Közzétéve: 2026-05-12",
+    "url": "http://www.bacsalmas.hu?hir=514",
+    "source": "bacsalmas.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "2026-05-28"
   },
   {
     "title": "Négymillióba fájt egy férfinek, hogy hazavitte a nőt szex után",

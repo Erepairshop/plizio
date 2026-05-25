@@ -27,22 +27,22 @@
     "date": "Fri, 22 May 2026 08:29:21 +0000"
   },
   {
-    "title": "Új esély a helyi közösségeknek",
-    "snippet": "„Ki kell mondanunk: az iskola helyzete a helyi települési közösség legfontosabb ügye!” Fábri István polgármester felhívása, Magyarország polgármestereihez és önkormányzati képviselőihez. A Új esély a helyi közösségeknek bejegyzés először Csömör Nagyközség honlapja -én jelent meg.",
-    "url": "https://csomor.hu/uj-esely-a-helyi-kozossegeknek/",
-    "source": "Csömöri Hírmondó",
+    "title": "Három hónap, ami mindent megváltoztat… vagy mégsem",
+    "snippet": "2026-ban szinte lehetetlen úgy megnyitni a közösségi médiát, hogy ne találkozzunk egy újabb életet ígérő tanfolyammal. „Válts karriert három hónap alatt!”, „Tanulj otthonról, és teremts",
+    "url": "https://hirnok.hu/harom-honap-ami-mindent-megvaltoztat-vagy-megsem/",
+    "source": "hirnok.hu (megyei)",
     "lang": "hu",
-    "scope": "city",
-    "date": "Wed, 20 May 2026 13:37:24 +0000"
+    "scope": "county",
+    "date": "Thu, 21 May 2026 17:39:29 +0000"
   },
   {
-    "title": "Vágatlan május!",
-    "snippet": "Bizonyára sokan találkoztunk már azzal a felhívással, amely a rendkívüli száraz tavaszi időjárás miatt már bejárta a közösségi médiát. A Vágatlan május! bejegyzés először Csömör Nagyközség honlapja -én jelent meg.",
-    "url": "https://csomor.hu/vagatlan-majus/",
+    "title": "Megkezdődött a gazmentesítés időszaka",
+    "snippet": "A helyi környezetvédelemről szóló 22/2015 (IX. 25) önkormányzati rendelet alapján az ingatlanok tisztán tartása, a gaz és gyomnövények eltávolítása a tulajdonos vagy a használó kötelezettsége. A Megkezdődött a gazmentesítés időszaka bejegyzés először Csömör Nagyközség honlapja -én jelent meg.",
+    "url": "https://csomor.hu/megkezdodott-a-gazmentesites-idoszaka-2/",
     "source": "Csömöri Hírmondó",
     "lang": "hu",
     "scope": "city",
-    "date": "Mon, 18 May 2026 09:06:31 +0000"
+    "date": "Fri, 22 May 2026 08:01:15 +0000"
   },
   {
     "title": "Bajnok lett a Csömör KSK labdarúgócsapata!",
@@ -54,13 +54,49 @@
     "date": ""
   },
   {
-    "title": "Csömörön leszedték a választási plakátokat, de a Fidesz visszapakolta őket, nem tárgyal a civilekkel",
-    "snippet": "A Fidesz jelöltje, Tuzson Bence nem hajlandó még csak leülni sem a csömöriekkel. The post Csömörön leszedték a választási plakátokat, de a Fidesz visszapakolta őket, nem tárgyal a civilekkel first appeared on 24.hu .",
-    "url": "https://24.hu/belfold/2026/03/30/csomor-leszedett-valasztasi-plakatok-fidesz-feljelent/",
-    "source": "24.hu/Csömör",
+    "title": "Az egycsillagos igazság",
+    "snippet": "Valami gyökeresen megváltozott a vásárlási szokásainkban. Már nem a hibátlan cégeket keressük, hanem azokat, amelyek képesek emberként viselkedni akkor is, amikor minden félremegy. De miért",
+    "url": "https://hirnok.hu/az-egycsillagos-igazsag/",
+    "source": "hirnok.hu (megyei)",
+    "lang": "hu",
+    "scope": "county",
+    "date": "Wed, 20 May 2026 14:54:45 +0000"
+  },
+  {
+    "title": "Német nemzetiségi óvodapedagógust keresnek",
+    "snippet": "Német nemzetiségi óvodapedagógust keresnek 2026. augusztus 24-i kezdéssel a Csömöri Nefelejcs Művészeti Óvodába. A pedagógus számára – amennyiben szükséges – lakhatást is biztosítanak A Német nemzetiségi óvodapedagógust keresnek bejegyzés először Csömör Nagyközség honlapja -én jelent meg.",
+    "url": "https://csomor.hu/nemet-nemzetisegi-ovodapedagogust-keresnek/",
+    "source": "Csömöri Hírmondó",
     "lang": "hu",
     "scope": "city",
-    "date": "Mon, 30 Mar 2026 13:21:35 +0000"
+    "date": "Thu, 21 May 2026 09:47:43 +0000"
+  },
+  {
+    "title": "Miért kötődünk érzelmileg is a telefonszámunkhoz?",
+    "snippet": "A hívás továbbra is a legerősebb kommunikációs forma – derül ki a Yettel országos kutatásából, amely a május 17-i, a távközlés világnapja apropóján vizsgálta a magyarok kapcsolattartási szokásait",
+    "url": "https://hirnok.hu/miert-kotodunk-erzelmileg-is-a-telefonszamunkhoz/",
+    "source": "hirnok.hu (megyei)",
+    "lang": "hu",
+    "scope": "county",
+    "date": "Wed, 20 May 2026 13:53:29 +0000"
+  },
+  {
+    "title": "Új esély a helyi közösségeknek",
+    "snippet": "„Ki kell mondanunk: az iskola helyzete a helyi települési közösség legfontosabb ügye!” Fábri István polgármester felhívása, Magyarország polgármestereihez és önkormányzati képviselőihez. A Új esély a helyi közösségeknek bejegyzés először Csömör Nagyközség honlapja -én jelent meg.",
+    "url": "https://csomor.hu/uj-esely-a-helyi-kozossegeknek/",
+    "source": "Csömöri Hírmondó",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Wed, 20 May 2026 13:37:24 +0000"
+  },
+  {
+    "title": "Szebb arc, könnyebb élet?",
+    "snippet": "A tudomány szerint a vonzerő egyszerre lehet előny és társadalmi csapda A közösségi média korában a „pretty privilege”, vagyis a szépségből fakadó társadalmi előny fogalma",
+    "url": "https://hirnok.hu/szebb-arc-konnyebb-elet/",
+    "source": "hirnok.hu (megyei)",
+    "lang": "hu",
+    "scope": "county",
+    "date": "Wed, 13 May 2026 11:38:02 +0000"
   },
   {
     "title": "Amikor a szökevény Valter Attilát üldözte Tadej Pogacar",
@@ -72,6 +108,15 @@
     "date": "Tue, 12 May 2026 11:26:00 +0200"
   },
   {
+    "title": "Csömörön leszedték a választási plakátokat, de a Fidesz visszapakolta őket, nem tárgyal a civilekkel",
+    "snippet": "A Fidesz jelöltje, Tuzson Bence nem hajlandó még csak leülni sem a csömöriekkel. The post Csömörön leszedték a választási plakátokat, de a Fidesz visszapakolta őket, nem tárgyal a civilekkel first appeared on 24.hu .",
+    "url": "https://24.hu/belfold/2026/03/30/csomor-leszedett-valasztasi-plakatok-fidesz-feljelent/",
+    "source": "24.hu/Csömör",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Mon, 30 Mar 2026 13:21:35 +0000"
+  },
+  {
     "title": "Képviselő-testületi ülést tartanak",
     "snippet": "Csömör Nagyközség Önkormányzatának Képviselő-testülete 2026. május 21-én csütörtökön, 16.00 órakor tartja soron következő ülését a Polgármesteri Hivatal tanácstermében. A Képviselő-testületi ülést tartanak bejegyzés először Csömör Nagyközség honlapja -én jelent meg.",
     "url": "https://csomor.hu/kepviselo-testuleti-ulest-tartanak-2/",
@@ -81,13 +126,13 @@
     "date": "Fri, 15 May 2026 14:15:12 +0000"
   },
   {
-    "title": "Csömörön már most leszedték az összes választási plakátot",
-    "snippet": "A helyiek megelégelték a sorozatos rongálásokat. The post Csömörön már most leszedték az összes választási plakátot first appeared on 24.hu .",
-    "url": "https://24.hu/belfold/2026/03/28/csomor-valasztasi-plakatok/",
-    "source": "24.hu/Csömör",
+    "title": "Suzuki: biztosra mennek…",
+    "snippet": "Csak egy (teszt)példa. Igen kellemes autó a Suzuki Swift! A jelenkor Swiftje persze már más, mint azelőtt. Mokány hibrid, 5 körüli fogyasztással, strapabíró futóművel. A",
+    "url": "https://hirnok.hu/suzuki-biztosra-mennek/",
+    "source": "hirnok.hu (megyei)",
     "lang": "hu",
-    "scope": "city",
-    "date": "Sat, 28 Mar 2026 12:27:54 +0000"
+    "scope": "county",
+    "date": "Sat, 09 May 2026 19:23:41 +0000"
   },
   {
     "title": "Elegük lett a választási plakátokból, akcióba lendültek a csömöriek",
@@ -99,6 +144,15 @@
     "date": "Sat, 28 Mar 2026 17:18:00 +0100"
   },
   {
+    "title": "Csömörön már most leszedték az összes választási plakátot",
+    "snippet": "A helyiek megelégelték a sorozatos rongálásokat. The post Csömörön már most leszedték az összes választási plakátot first appeared on 24.hu .",
+    "url": "https://24.hu/belfold/2026/03/28/csomor-valasztasi-plakatok/",
+    "source": "24.hu/Csömör",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Sat, 28 Mar 2026 12:27:54 +0000"
+  },
+  {
     "title": "Légy részese az Úrnapi virágszőnyeg készítésének!",
     "snippet": "Idén az Úrnapi szentmise és a virágszőnyeges körmenetet június 7-én vasárnap tartják. A körmenet az Erzsébet utca - Deák Ferenc utca - Kossuth utca -Szabadság út útvonalon halad. A szentmise, melyet Balogh Péter Piusz premontrei apát celebrál, 10.00 órakor kezdődik a katolikus templomban, a körmenet",
     "url": "https://csomor.hu/legy-reszese-az-urnapi-viragszonyeg-keszitesenek/",
@@ -108,13 +162,13 @@
     "date": "Wed, 13 May 2026 13:52:48 +0000"
   },
   {
-    "title": "Pitbull támadt egy fiatalra Csömörön, sokkos állapotban vitték kórházba",
-    "snippet": "Büntetőeljárást indított a rendőrség. The post Pitbull támadt egy fiatalra Csömörön, sokkos állapotban vitték kórházba first appeared on 24.hu .",
-    "url": "https://24.hu/belfold/2025/08/25/pitbull-tamadt-egy-fiatalra-csomoron-sokkos-allapotban-vittek-korhazba/",
-    "source": "24.hu/Csömör",
+    "title": "Drasztikusan nőttek a gyermekek elleni online szexuális visszaélések",
+    "snippet": "Egyre súlyosabb problémát jelentenek a gyermekekkel szemben elkövetett szexuális visszaélések – derül ki a gyermekek online szexuális kizsákmányolása ellen küzdő nemzetközi szövetség, az INHOPE (International",
+    "url": "https://hirnok.hu/drasztikusan-nottek-a-gyermekek-elleni-online-szexualis-visszaelesek/",
+    "source": "hirnok.hu (megyei)",
     "lang": "hu",
-    "scope": "city",
-    "date": "Mon, 25 Aug 2025 15:02:33 +0000"
+    "scope": "county",
+    "date": "Tue, 05 May 2026 14:30:46 +0000"
   },
   {
     "title": "Magántartásból szökhetett el a Mogyoród külterületén észlelt medve",
@@ -124,6 +178,15 @@
     "lang": "hu",
     "scope": "city",
     "date": "Tue, 17 Feb 2026 19:22:00 +0100"
+  },
+  {
+    "title": "Pitbull támadt egy fiatalra Csömörön, sokkos állapotban vitték kórházba",
+    "snippet": "Büntetőeljárást indított a rendőrség. The post Pitbull támadt egy fiatalra Csömörön, sokkos állapotban vitték kórházba first appeared on 24.hu .",
+    "url": "https://24.hu/belfold/2025/08/25/pitbull-tamadt-egy-fiatalra-csomoron-sokkos-allapotban-vittek-korhazba/",
+    "source": "24.hu/Csömör",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Mon, 25 Aug 2025 15:02:33 +0000"
   },
   {
     "title": "Csömöri Hírmondó 2026. évi Költségvetési különszám",

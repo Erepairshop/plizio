@@ -27,42 +27,6 @@
     "date": "Thu, 21 May 2026 08:57:17 GMT"
   },
   {
-    "title": "Mit Schwung in die zweite Maihälfte: Mosbach lädt zu vielfältigen Führungen ein",
-    "snippet": "Mosbach lädt in der zweiten Maihälfte zu vielfältigen Stadt- und Themenführungen ein – von historischen Rundgängen über Familienangebote bis hin zu Wanderungen und Abendführungen.",
-    "url": "https://www.mosbach.de/veranstaltungshinweis_+vielfaeltige+fuehrungen+in+mosbach+in+der+zweiten+maihaelfte",
-    "source": "Mosbach (official)",
-    "lang": "de",
-    "scope": "city",
-    "date": "Wed, 20 May 2026 17:00:00 GMT"
-  },
-  {
-    "title": "Stadtjubiläum erinnert an Mosbacher Köpfe: Fanny Morweiser-Abend in der Mediathek",
-    "snippet": "Am Mittwoch, den 20. Mai um 19 Uhr erinnert ein Abend mit Texten und Bildern an die Mosbacher Autorin Fanny Morweiser.",
-    "url": "https://www.mosbach.de/fanny+morweiser+20_05_",
-    "source": "Mosbach (official)",
-    "lang": "de",
-    "scope": "city",
-    "date": "Wed, 20 May 2026 06:20:00 GMT"
-  },
-  {
-    "title": "*calendar* Terminvereinbarung",
-    "snippet": "*calendar* Terminvereinbarung *clock* Öffnungszeiten *comments* Bürgerservices *file-invoice* Bekanntmachungen *bus-simple* Parken & ÖPNV *check-to-slot* Wahlen *file-user* Job & Karriere *cake-candles* Jubiläum",
-    "url": "https://termine-reservieren.de/termine/mosbach/?rs",
-    "source": "termine-reservieren.de (hivatalos)",
-    "lang": "de",
-    "scope": "city",
-    "date": ""
-  },
-  {
-    "title": "Im Kreistag soll am 20. Mai eine Entscheidung zu den Kliniken fallen",
-    "snippet": "Die Bevölkerung ist zu der Sitzung in Mudau eingeladen.",
-    "url": "https://www.mosbach.de/kreistag+beraet+am+20_+mai+zu+den+kliniken",
-    "source": "Mosbach (official)",
-    "lang": "de",
-    "scope": "city",
-    "date": "Wed, 20 May 2026 06:14:00 GMT"
-  },
-  {
     "title": "Musikalisches Marktplatzfest am 16. und 17. Mai: Sechs Länder feiern die Freundschaft",
     "snippet": "Da liegt Musik in der Luft: Am Wochenende des 15. und 17. Mai feiern alle Partnerstädte gemeinsam im Rahmen des Mosbacher Stadtjubiläums ein buntes Fest.",
     "url": "https://www.mosbach.de/musikwochenende+16_17_+mai",
@@ -79,6 +43,15 @@
     "lang": "de",
     "scope": "city",
     "date": "Tue, 12 May 2026 07:28:55 GMT"
+  },
+  {
+    "title": "*calendar* Terminvereinbarung",
+    "snippet": "*calendar* Terminvereinbarung *clock* Öffnungszeiten *comments* Bürgerservices *file-invoice* Bekanntmachungen *bus-simple* Parken & ÖPNV *check-to-slot* Wahlen *file-user* Job & Karriere *cake-candles* Jubiläum",
+    "url": "https://termine-reservieren.de/termine/mosbach/?rs",
+    "source": "termine-reservieren.de (hivatalos)",
+    "lang": "de",
+    "scope": "city",
+    "date": ""
   },
   {
     "title": "Abteilung Bildung, Sport und Generationen zieht um – Eingeschränkte Erreichbarkeit ab 25. Mai",

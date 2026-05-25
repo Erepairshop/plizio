@@ -1,5 +1,14 @@
 [
   {
+    "title": "Veretlenül bajnok a Balatonalmádi SE!",
+    "snippet": "Kiütéses, 10–0-s győzelmet aratott a TIAC vendéglátójaként a Balatonalmádi a Vehir.hu vármegyei I. osztályú labdarúgó-bajnokság idénybeli utolsó fordulójában, így veretlenül szerezte meg a bajnoki címet.",
+    "url": "https://vehir.hu/cikk/84839-veretlenul-bajnok-a-balatonalmadi-se",
+    "source": "Vehír",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Sun, 24 May 2026 22:36:37 +0200"
+  },
+  {
     "title": "Lázár János: A magyar választópolgárok nem akarnak szaros vécét takarítani az InterCityn",
     "snippet": "A miniszter szerint „ha valaki vigyáz ebben az országban a közpénzre, az Orbán Viktor”.",
     "url": "https://index.hu/belfold/2026/01/23/lazar-janos-lazarinfo-balatonalmadi-nyertes-orban-viktor/",
@@ -36,15 +45,6 @@
     "date": "Wed, 14 May 2025 13:18:14 +0000"
   },
   {
-    "title": "Sérült vaddisznó támadt egy idős férfira Balatonalmádiban",
-    "snippet": "Térkép mutatja, hogy hol találkozhatunk az állattal.",
-    "url": "https://index.hu/belfold/2025/07/18/vaddiszno-tamadas-balaton-balatonalmadi-korhaz-serules/",
-    "source": "index.hu/Balatonalmádi",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Fri, 18 Jul 2025 21:40:00 +0200"
-  },
-  {
     "title": "Választási információk",
     "snippet": "Választási információk",
     "url": "http://www.balatonalmadi.hu/valasztasi-informaciok/valasztasi-informaciok",
@@ -52,6 +52,15 @@
     "lang": "hu",
     "scope": "city",
     "date": "2026-04-07"
+  },
+  {
+    "title": "Sérült vaddisznó támadt egy idős férfira Balatonalmádiban",
+    "snippet": "Térkép mutatja, hogy hol találkozhatunk az állattal.",
+    "url": "https://index.hu/belfold/2025/07/18/vaddiszno-tamadas-balaton-balatonalmadi-korhaz-serules/",
+    "source": "index.hu/Balatonalmádi",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Fri, 18 Jul 2025 21:40:00 +0200"
   },
   {
     "title": "Egy 70 éves férfit gázolt halálra a vonat Balatonalmádiban",

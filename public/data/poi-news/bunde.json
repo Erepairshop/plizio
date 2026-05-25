@@ -27,15 +27,6 @@
     "date": "Tue, 19 May 2026 00:00:00 +0200"
   },
   {
-    "title": "Einladung zum »Grand Opening« des Skateparks an der Osnabrücker Straße",
-    "snippet": "Einladung zum »Grand Opening« des Skateparks an der Osnabrücker Straße Ein Banner am Zaun kündigt es bereits an: Die große Eröffnung des neuen Skateparks an der Osnabrücker Straße in Bünde steht bevor. Am ...",
-    "url": "https://www.buende.de/index.php?ModID=255&FID=2619.3583.1&object=tx%2C2619.14",
-    "source": "Bünde (official)",
-    "lang": "de",
-    "scope": "city",
-    "date": "Mon, 18 May 2026 00:00:00 +0200"
-  },
-  {
     "title": "25 Jahre Einsatz für das Gemeinwohl",
     "snippet": "25 Jahre Einsatz für das Gemeinwohl Ob im Sportverein, bei der Feuerwehr, in sozialen Einrichtungen oder im kulturellen Leben: Das freiwillige Engagement vieler Bürgerinnen und Bürger prägt das Miteinander in Bünde entscheidend mit. ...",
     "url": "https://www.buende.de/index.php?ModID=255&FID=2619.3584.1&object=tx%2C2619.14",
@@ -43,5 +34,14 @@
     "lang": "de",
     "scope": "city",
     "date": ""
+  },
+  {
+    "title": "Einladung zum »Grand Opening« des Skateparks an der Osnabrücker Straße",
+    "snippet": "Einladung zum »Grand Opening« des Skateparks an der Osnabrücker Straße Ein Banner am Zaun kündigt es bereits an: Die große Eröffnung des neuen Skateparks an der Osnabrücker Straße in Bünde steht bevor. Am ...",
+    "url": "https://www.buende.de/index.php?ModID=255&FID=2619.3583.1&object=tx%2C2619.14",
+    "source": "Bünde (official)",
+    "lang": "de",
+    "scope": "city",
+    "date": "Mon, 18 May 2026 00:00:00 +0200"
   }
 ]

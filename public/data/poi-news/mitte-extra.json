@@ -1,21 +1,39 @@
 [
   {
-    "title": "MDR THÜRINGEN Nachrichten Mitte/West",
-    "snippet": "Die MDR THÜRINGEN Nachrichten Mitte/West",
-    "url": "https://www.mdr.de/mdr-thueringen/audio/nachrichten/mitte-west/audio-3262296.html",
-    "source": "MDR Th Mitte-West",
+    "title": "Ein neuer Plan für das Tempelhofer Feld: „Wir brauchen endlich eine Wohnungspolitik, die auch die Mitte sieht“",
+    "snippet": "21.400 Wohnungen am Rand des Feldes – ein Architektenentwurf hat unter Tagesspiegel-Leserinnen und -Lesern eine Diskussion neu entfacht, die die Stadt seit Jahren beschäftigt.",
+    "url": "https://www.tagesspiegel.de/berlin/ein-neuer-plan-fur-das-tempelhofer-feld-wir-brauchen-endlich-eine-wohnungspolitik-die-auch-die-mitte-sieht-15631171.html",
+    "source": "Tagesspiegel Berlin",
     "lang": "de",
-    "scope": "region",
-    "date": "Sat, 23 May 2026 14:11:46 +0200"
+    "scope": "city",
+    "date": "Sun, 24 May 2026 13:29:06 +0200"
   },
   {
-    "title": "Region Mitte",
-    "snippet": "Täglich aktuell: Nachrichten und Informationen aus Mittelthüringen. Dazu Fotos, Audios und Videos des MDR aus der Region.",
-    "url": "https://www.mdr.de/nachrichten/thueringen/mitte-thueringen/mittelthueringen-nachrichtenfeed100.html",
-    "source": "MDR Th Ost",
+    "title": "Pannenserie geht weiter: Land stellt Betrieb der „Missunde III“ bis Mitte Juni ein",
+    "snippet": "Die umstrittene E-Fähre „Missunde III“ macht erneut Probleme. Aus Sicherheitsgründen hat das Land Schleswig-Holstein nun den Betrieb für die kommenden Wochen eingestellt.",
+    "url": "https://www.shz.de/lokales/gluecksburg-angeln/artikel/pannenserie-land-sh-stellt-betrieb-der-missunde-iii-vorerst-ein-50684967",
+    "source": "Schleswiger Nachrichten",
     "lang": "de",
-    "scope": "region",
-    "date": "Sat, 23 May 2026 18:39:12 +0200"
+    "scope": "city",
+    "date": "2026-05-24T09:10:27Z"
+  },
+  {
+    "title": "Nächster Rückschlag: Neue Schleifähre fällt bis Mitte Juni aus",
+    "snippet": "Der Antriebsriemen der „Missunde III“ muss ausgetauscht werden. Für Pendler ist das besonders bitter, weil für sie die Lindaunisbrücke gesperrt ist.",
+    "url": "https://www.abendblatt.de/schleswig-holstein/article412083512/schleifaehre-missunde-iiirdquo-faellt-bis-mitte-juni-aus.html",
+    "source": "Hamburger Abendblatt",
+    "lang": "de",
+    "scope": "city",
+    "date": "Sun, 24 May 2026 12:22:51 +0200"
+  },
+  {
+    "title": "Kindersachen-Trödelmarkt in Vohwinkel-Mitte",
+    "snippet": "Im Jugendhaus Vohwinkel-Mitte findet am Samstag, 30. Mai 2026, ein Trödelmarkt rund um Kindersachen statt. Besucher haben dort von 9 bis 13 Uhr Gelegenheit, Kleidung, Spielzeug und weitere Artikel für",
+    "url": "https://wuppertal-total.de/stadtleben/kindersachen-troedelmarkt-in-vohwinkel-mitte/?utm_source=rss&utm_medium=rss&utm_campaign=kindersachen-troedelmarkt-in-vohwinkel-mitte",
+    "source": "Wuppertal Total",
+    "lang": "de",
+    "scope": "city",
+    "date": "Sun, 24 May 2026 10:16:01 +0000"
   },
   {
     "title": "Mega-Stau an der Kreuzung in Zehlendorf-Mitte: Das ist der Grund",
@@ -27,15 +45,6 @@
     "date": "Fri, 22 May 2026 14:16:54 +0200"
   },
   {
-    "title": "Bauprojekt in Berlin-Mitte: Bundestag steigt wegen Spardruck aus",
-    "snippet": "Auf einer Brachfläche nahe des Reichstagsgebäudes sollten eigentlich weitere Büros für den Bundestag entstehen. Wegen klammer Kassen wird das Projekt nun gestoppt.",
-    "url": "https://www.rbb24.de/politik/beitrag/2026/05/berlin-bundestag-spardruck-neubau-kommt-nicht.html",
-    "source": "rbb24 Politik",
-    "lang": "de",
-    "scope": "region",
-    "date": "Thu, 21 May 2026 11:32:57 +0200"
-  },
-  {
     "title": "Stuttgart-Mitte: Passanten in der Königstraße belästigt – Polizei nimmt 37-Jährigen fest",
     "snippet": "Ein 37-J hriger bel stigt offenbar Passanten in der Stuttgarter-Innenstadt. Als die Polizei ihn kontrolliert, stellt sie fest, dass gegen ihn ein Haftbefehl vorliegt.",
     "url": "https://www.stuttgarter-zeitung.de/inhalt.stuttgart-mitte-passanten-in-der-koenigstrasse-belaestigt-polizei-nimmt-37-jaehrigen-fest.3f6499a2-11ba-4cf7-932f-5b0c48215f15.html",
@@ -45,22 +54,13 @@
     "date": "Fri, 22 May 2026 13:26:00 GMT"
   },
   {
-    "title": "Video: Die Thüringer Bergbahn in Oberweißbach steht ab Mitte Juli still",
-    "snippet": "Die Thüringer Bergbahn in Oberweißbach wird fast ein halbes Jahr lang saniert. Die Deutsche Bahn gibt für die Sanierung der 100 Jahre alten Standseilbahn 10 Millionen Euro.",
-    "url": "https://www.mdr.de/nachrichten/thueringen/ost-thueringen/saalfeld-rudolstadt/video-bergbahn-oberweissenbach-sanierung-100.html",
+    "title": "Region Mitte",
+    "snippet": "Täglich aktuell: Nachrichten und Informationen aus Mittelthüringen. Dazu Fotos, Audios und Videos des MDR aus der Region.",
+    "url": "https://www.mdr.de/nachrichten/thueringen/mitte-thueringen/mittelthueringen-nachrichtenfeed100.html",
     "source": "MDR Th Ost",
     "lang": "de",
     "scope": "region",
-    "date": "Thu, 21 May 2026 20:19:59 +0200"
-  },
-  {
-    "title": "Wasser in Brunnen in Mitte plötzlich giftgrün – Polizisten müssen sauber machen",
-    "snippet": "Ein Brunnen vor dem Wirtschaftsministerium in Berlin leuchtet plötzlich giftgrün. Was zunächst rätselhaft wirkt, hat einen politischen Hintergrund.",
-    "url": "https://www.morgenpost.de/berlin/article412057664/wasser-in-brunnen-in-berlin-mitte-ploetzlich-giftgruen.html",
-    "source": "Berliner Morgenpost",
-    "lang": "de",
-    "scope": "city",
-    "date": "Thu, 21 May 2026 12:57:12 +0200"
+    "date": "Sat, 23 May 2026 18:39:12 +0200"
   },
   {
     "title": "Brand in Stuttgart-Mitte: Feuer bricht in Toilette am Schlossplatz aus – Zeugen gesucht",
@@ -70,6 +70,15 @@
     "lang": "de",
     "scope": "city",
     "date": "Fri, 22 May 2026 09:50:00 GMT"
+  },
+  {
+    "title": "Bauprojekt in Berlin-Mitte: Bundestag steigt wegen Spardruck aus",
+    "snippet": "Auf einer Brachfläche nahe des Reichstagsgebäudes sollten eigentlich weitere Büros für den Bundestag entstehen. Wegen klammer Kassen wird das Projekt nun gestoppt.",
+    "url": "https://www.rbb24.de/politik/beitrag/2026/05/berlin-bundestag-spardruck-neubau-kommt-nicht.html",
+    "source": "rbb24 Politik",
+    "lang": "de",
+    "scope": "region",
+    "date": "Thu, 21 May 2026 11:32:57 +0200"
   },
   {
     "title": "Vorfall in Stuttgart-Mitte: 35-Jähriger randaliert und bedroht Passanten – Festnahme",
@@ -106,6 +115,15 @@
     "lang": "de",
     "scope": "city",
     "date": "Wed, 20 May 2026 19:33:32 +0200"
+  },
+  {
+    "title": "Video: Die Thüringer Bergbahn in Oberweißbach steht ab Mitte Juli still",
+    "snippet": "Die Thüringer Bergbahn in Oberweißbach wird fast ein halbes Jahr lang saniert. Die Deutsche Bahn gibt für die Sanierung der 100 Jahre alten Standseilbahn 10 Millionen Euro.",
+    "url": "https://www.mdr.de/nachrichten/thueringen/ost-thueringen/saalfeld-rudolstadt/video-bergbahn-oberweissenbach-sanierung-100.html",
+    "source": "MDR Th Ost",
+    "lang": "de",
+    "scope": "region",
+    "date": "Thu, 21 May 2026 20:19:59 +0200"
   },
   {
     "title": "Wochenmarkt Menden-Mitte",
@@ -250,23 +268,5 @@
     "lang": "de",
     "scope": "city",
     "date": "Thu, 07 May 2026 08:43:16 GMT"
-  },
-  {
-    "title": "Tageweise Sperrung in der Braker Mitte",
-    "snippet": "Grund ist Dachsanierung",
-    "url": "https://www.lemgo.de/news-detail/tageweise-sperrung-in-der-braker-mitte",
-    "source": "lemgo.de (official)",
-    "lang": "de",
-    "scope": "city",
-    "date": "Mon, 09 Mar 2026 08:54:00 +0100"
-  },
-  {
-    "title": "MINTmachtag an der Grundschule Mitte",
-    "snippet": "Unter dem Titel „Entdecken, Forschen, Freisein!” haben die Kinder der Grundschule Mitte und die künftigen ersten Klassen einen ganzen Schulvormittag in die Forschung investiert.",
-    "url": "https://www.beckum.de/news/april-bis-juni-2024/mintmachtag-an-der-grundschule-mitte/",
-    "source": "beckum.de (official)",
-    "lang": "de",
-    "scope": "city",
-    "date": "Mon, 27 May 2024 12:08:25 GMT"
   }
 ]

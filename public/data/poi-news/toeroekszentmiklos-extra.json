@@ -1,5 +1,14 @@
 [
   {
+    "title": "Tűzoltók munkáját ismerték el Szent Flórián napján",
+    "snippet": "Szent Flórián napja, a tűzoltók és a tüzes mesterségek védőszentje. Ebből az alkalomból tartott ünnepséget a Jász-Nagykun-Szolnok Vármegyei Katasztrófavédelmi Igazgatóság, A Tűzoltók munkáját ismerték el Szent Flórián napján bejegyzés először Szentmiklós Online -én jelent meg.",
+    "url": "https://szentmiklosonline.hu/2026/05/25/tuzoltok-munkajat-ismertek-el-szent-florian-napjan/",
+    "source": "Szentmiklós Online",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Mon, 25 May 2026 05:23:41 +0000"
+  },
+  {
     "title": "Útlezárásokra kell számítani Törökszentmiklós közelében",
     "snippet": "A 4-es úton és a 46-os úton konzolszerkezeteket emelnek be, és útirányjelző táblákat szerelnek fel.",
     "url": "https://index.hu/belfold/2021/11/18/utlezarasokra-kell-szamitani-a-4-es-es-a-46-os-ut-egy-egy-szakaszan-torokszentmiklos-kozeleben/",
@@ -36,15 +45,6 @@
     "date": "Fri, 15 May 2026 17:06:24 +0000"
   },
   {
-    "title": "Tömegbaleset volt Törökszentmiklósnál, egy ember a helyszínen meghalt",
-    "snippet": "Az egyik autó kigyulladt, nagy erőkkel vonultak ki a tűzoltók.",
-    "url": "https://index.hu/belfold/2025/12/21/torokszentmiklos-halalos-baleset-szombat-este-egy-ember-meghalt/",
-    "source": "index.hu/Törökszentmiklós",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Sun, 21 Dec 2025 07:21:00 +0100"
-  },
-  {
     "title": "Áprilisi állatorvosi ügyelet",
     "snippet": "Áprilisi állatorvosi ügyelet",
     "url": "http://www.torokszentmiklos.hu/hirek/167715/aprilisi_allatorvosi_ugyelet",
@@ -52,6 +52,15 @@
     "lang": "hu",
     "scope": "city",
     "date": ""
+  },
+  {
+    "title": "Tömegbaleset volt Törökszentmiklósnál, egy ember a helyszínen meghalt",
+    "snippet": "Az egyik autó kigyulladt, nagy erőkkel vonultak ki a tűzoltók.",
+    "url": "https://index.hu/belfold/2025/12/21/torokszentmiklos-halalos-baleset-szombat-este-egy-ember-meghalt/",
+    "source": "index.hu/Törökszentmiklós",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Sun, 21 Dec 2025 07:21:00 +0100"
   },
   {
     "title": "100 ezer forintot ér a gondozott kert: ebben a városban pénzjutalom jár a legszebb portának",

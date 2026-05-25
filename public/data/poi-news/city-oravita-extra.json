@@ -1,5 +1,32 @@
 [
   {
+    "title": "Românii cumpără mai mult ca niciodată, dar nu din magazine",
+    "snippet": "Românii cumpără mai mult ca niciodată, însă tot mai puține comenzi vin din magazinele clasice. TikTok, Temu și aplicațiile mobile au transformat shoppingul într-un reflex digital alimentat de algoritmi, reduceri și scrolling fără oprire. În 2026, telefonul nu mai este doar un instrument de comunicar",
+    "url": "https://expressdebanat.ro/romanii-cumpara-mai-mult-ca-niciodata-dar-nu-din-magazine/",
+    "source": "Express de Banat",
+    "lang": "ro",
+    "scope": "county",
+    "date": "Mon, 25 May 2026 08:20:45 +0000"
+  },
+  {
+    "title": "Atenție, șoferi, acțiune rutieră de tip „Releu” pe DN 6!",
+    "snippet": "Polițiștii rutieri din Caraș-Severin se alătură colegilor din județele tranzitate de DN 6 în cadrul unei ample acțiuni de tip „Releu”, în vederea creșterii siguranței rutiere. Activitatea care are loc astăzi are caracter integrat și se desfășoară simultan pe întregul tronson al DN 6, cu implicarea p",
+    "url": "https://expressdebanat.ro/atentie-soferi-actiune-rutiera-de-tip-releu-pe-dn-6/",
+    "source": "Express de Banat",
+    "lang": "ro",
+    "scope": "county",
+    "date": "Mon, 25 May 2026 07:10:24 +0000"
+  },
+  {
+    "title": "Parcările publice din Reșița – monitorizate digital",
+    "snippet": "În curând, șoferii din Reșița vor putea verifica în timp real locurile de parcare disponibile în oraș, iar autoritățile vor monitoriza digital plata taxelor printr-un sistem inteligent finanțat din fonduri europene. Primăria Reșița modernizează sistemul de parcări publice prin montarea unor senzori ",
+    "url": "https://expressdebanat.ro/parcarile-publice-din-resita-monitorizate-digital/",
+    "source": "Express de Banat",
+    "lang": "ro",
+    "scope": "county",
+    "date": "Mon, 25 May 2026 06:30:20 +0000"
+  },
+  {
     "title": "Gărâna Folk 2026, trei seri de muzică, poezie și povești în Poiana Lupului din Gărâna",
     "snippet": "Bosquito, Taxi, Mircea Baniciu, Ducu Bertzi, Narcisa Suciu sau Cristian Buică sunt doar câțiva dintre invitații care aduc frumosul poeziei în Poiana Lupului din Gărâna. Bine-cunoscuta locație din Caraș-Severin, Poiana Lupului, se pregătește să găzduiască, între 24 și 26 iulie 2026, cea de‑a 19‑a edi",
     "url": "https://expressdebanat.ro/garana-folk-2026-trei-seri-de-muzica-poezie-si-povesti-in-poiana-lupului-din-garana/",
@@ -18,33 +45,6 @@
     "date": "Sat, 23 May 2026 22:24:47 +0000"
   },
   {
-    "title": "Băsescu desființează clasa politică: „clienți” și „slugi” dependenți de șeful de partid",
-    "snippet": "Traian Băsescu, fostul președinte al României, spune că politica românească este plină de oameni dependenți de liderii de partid, fără meserie și fără independență reală. În opinia sa, soluția este ca în politică să intre oameni care au deja o profesie și o carieră construită în afara partidelor. „Î",
-    "url": "https://expressdebanat.ro/basescu-desfiinteaza-clasa-politica-clienti-si-slugi-dependenti-de-seful-de-partid/",
-    "source": "Express de Banat",
-    "lang": "ro",
-    "scope": "county",
-    "date": "Sun, 24 May 2026 07:56:31 +0000"
-  },
-  {
-    "title": "Ziua Copilului, sărbătorită, cu bucurie, la Vărădia și Mercina. O zi plină de energie, zâmbete și culoare!",
-    "snippet": "Primarul comunei Vărădia, din Caraș-Severin, Loredana Racu, îi invită pe cei mici la o după‑amiază încărcată cu veselie, un strop de magie și inocența copilăriei. Comuna Vărădia se pregătește să devină, pentru o zi, un loc în care imaginația prinde aripi, iar râsetele copiilor vor umple atmosfera. E",
-    "url": "https://expressdebanat.ro/ziua-copilului-sarbatorita-cu-bucurie-la-varadia-si-mercina-o-zi-plina-de-energie-zambete-si-culoare/",
-    "source": "Express de Banat",
-    "lang": "ro",
-    "scope": "county",
-    "date": "Sun, 24 May 2026 07:00:33 +0000"
-  },
-  {
-    "title": "57,6 milioane de lei pentru modernizarea rețelei electrice din zona Gărâna–Văliug–Trei Ape",
-    "snippet": "Rețele Electrice România face o investiție majoră pentru turismul din Caraș‑Severin, într-unul dintre cele mai spectaculoase colțuri ale României. Zona intră într-o etapă amplă de modernizare a infrastructurii de distribuție a energiei electrice. Rețele Electrice România a demarat un proiect strateg",
-    "url": "https://expressdebanat.ro/576-milioane-de-lei-pentru-modernizarea-retelei-electrice-din-zona-garana-valiug-trei-ape/",
-    "source": "Express de Banat",
-    "lang": "ro",
-    "scope": "county",
-    "date": "Sat, 23 May 2026 08:00:17 +0000"
-  },
-  {
     "title": "Orasul in acuarela",
     "snippet": "",
     "url": "http://oravita.ro/orasul-in-acuarela1/",
@@ -52,6 +52,15 @@
     "lang": "ro",
     "scope": "city",
     "date": "Sun, 05 Aug 2018 21:27:55 +0000"
+  },
+  {
+    "title": "Băsescu desființează clasa politică: „clienți” și „slugi” dependenți de șeful de partid",
+    "snippet": "Traian Băsescu, fostul președinte al României, spune că politica românească este plină de oameni dependenți de liderii de partid, fără meserie și fără independență reală. În opinia sa, soluția este ca în politică să intre oameni care au deja o profesie și o carieră construită în afara partidelor. „Î",
+    "url": "https://expressdebanat.ro/basescu-desfiinteaza-clasa-politica-clienti-si-slugi-dependenti-de-seful-de-partid/",
+    "source": "Express de Banat",
+    "lang": "ro",
+    "scope": "county",
+    "date": "Sun, 24 May 2026 07:56:31 +0000"
   },
   {
     "title": "Ce spune cămașa ta despre tine: ghidul bărbatului care vrea să arate impecabil",
@@ -63,13 +72,13 @@
     "date": "Fri, 22 May 2026 14:35:00 +0000"
   },
   {
-    "title": "Blocul 20 din cartierul reșițean Govândari, în haine noi!",
-    "snippet": "Încă un bloc de pe Bulevardul Republicii din Reșița, supus lucrărilor de reabilitare termică, a fost finalizat. Investițiile municipalității continuă cu alte 19 unități locative. Primăria Reșița a finalizat lucrările de reabilitare termică la Blocul 20 din cartierul Govândari. Valoarea totală a proi",
-    "url": "https://expressdebanat.ro/blocul-20-din-cartierul-resitean-govandari-in-haine-noi/",
+    "title": "Ziua Copilului, sărbătorită, cu bucurie, la Vărădia și Mercina. O zi plină de energie, zâmbete și culoare!",
+    "snippet": "Primarul comunei Vărădia, din Caraș-Severin, Loredana Racu, îi invită pe cei mici la o după‑amiază încărcată cu veselie, un strop de magie și inocența copilăriei. Comuna Vărădia se pregătește să devină, pentru o zi, un loc în care imaginația prinde aripi, iar râsetele copiilor vor umple atmosfera. E",
+    "url": "https://expressdebanat.ro/ziua-copilului-sarbatorita-cu-bucurie-la-varadia-si-mercina-o-zi-plina-de-energie-zambete-si-culoare/",
     "source": "Express de Banat",
     "lang": "ro",
     "scope": "county",
-    "date": "Sat, 23 May 2026 07:15:57 +0000"
+    "date": "Sun, 24 May 2026 07:00:33 +0000"
   },
   {
     "title": "Rețele Electrice România începe lucrările de modernizare a infrastructurii de distribuție din zona Gărâna-Văliug-Trei Ape",
@@ -81,31 +90,13 @@
     "date": "Fri, 22 May 2026 09:34:54 +0000"
   },
   {
-    "title": "Revin trenurile spre litoral. CFR introduce curse directe din toată țara",
-    "snippet": "„Trenurile Soarelui” revin în circulație din 12 iunie până în 7 septembrie, anunță CFR Călători. Programul estival va asigura zilnic 60 de trenuri spre litoralul Mării Negre, dintre care 28 sunt suplimentare. Vor exista legături directe din mai multe orașe mari din țară, inclusiv Oradea, Satu Mare, ",
-    "url": "https://expressdebanat.ro/revin-trenurile-spre-litoral-cfr-introduce-curse-directe-din-toata-tara/",
+    "title": "Acord la Cotroceni pentru salariile bugetarilor: veniturile nu vor scădea",
+    "snippet": "Niciun salariu din sectorul public nu va scădea, iar cheltuielile cu salariile vor fi plafonate, anunță Administrația Prezidențială, după un acord semnat de PSD, PNL, USR și UDMR. „În urma unui proces de mediere desfășurat sub coordonarea Administrației Prezidențiale, Partidul Social Democrat, Parti",
+    "url": "https://expressdebanat.ro/acord-la-cotroceni-pentru-salariile-bugetarilor-veniturile-nu-vor-scadea/",
     "source": "Express de Banat",
     "lang": "ro",
     "scope": "county",
-    "date": "Sat, 23 May 2026 07:15:52 +0000"
-  },
-  {
-    "title": "ANUNŢ OPRIRE APĂ Bocșa Română–avarie",
-    "snippet": "În vederea eliminării unei avarii apărute spontan la conductaprincipală pe str. Mircea cel Bătân, se va sista furnizarea apeipotabile, în data de : 22.05.2026 de la ora 12:00 – până la remediere. Vor fi afectați consumatorii de pe – str. Mircea cel Bătrân parțial Lucrarea va fi executată, în interva",
-    "url": "https://www.infocs.ro/anunt-oprire-apa-in-bocsa-romana-22-05-2026-avarie-str-mircea-cel-batran-partial/",
-    "source": "Info CS",
-    "lang": "ro",
-    "scope": "county",
-    "date": "Fri, 22 May 2026 09:30:00 +0000"
-  },
-  {
-    "title": "După votarea bugetului, administrația din Cornereva și-a creionat prioritățile",
-    "snippet": "Aleșii locali din Cornereva au votat bugetul pentru anul 2026. Acesta este de aproape 14 milioane de lei, fonduri ce vor susține funcționarea administrației și o serie de investiții pentru educație și modernizarea infrastructurii. Bugetul comunei Cornereva pentru anul 2026 a primit aprobarea Consili",
-    "url": "https://expressdebanat.ro/dupa-votarea-bugetului-administratia-din-cornereva-si-a-creionat-prioritatile/",
-    "source": "Express de Banat",
-    "lang": "ro",
-    "scope": "county",
-    "date": "Thu, 21 May 2026 08:00:40 +0000"
+    "date": "Fri, 22 May 2026 08:17:05 +0000"
   },
   {
     "title": "OncoHelp și Medima deschid un centru imagistic la Reșița",
@@ -117,22 +108,49 @@
     "date": "Wed, 20 May 2026 07:01:53 +0000"
   },
   {
-    "title": "Tații pot asista la naștere la Maternitatea Odobescu din Timișoara",
-    "snippet": "Tații pot fi prezenți în sala de naștere la Maternitatea Odobescu din Timișoara, în anumite condiții stabilite de unitatea medicală. Opțiunea este disponibilă atât pentru nașteri naturale, cât și, în anumite situații, pentru operații de cezariană, în funcție de evaluarea echipei medicale și de respe",
-    "url": "https://expressdebanat.ro/tatii-pot-asista-la-nastere-la-maternitatea-odobescu-din-timisoara/",
-    "source": "Express de Banat",
+    "title": "ANUNŢ OPRIRE APĂ în BĂILE HERCULANE -22.05.2026 – avarie-str. Zăvoiului",
+    "snippet": "În vederea eliminării unei avarii apărute spontan la coloana principalăde apă pe str. Zăvoiului nr.62 se va opri furnizarea apei potabile îndata de: 22.05.2026 de la ora 10:30 până la remediere. Vor fi afectaţi consumatorii de pe str. Zăvoiului Lucrarea va fi executată în intervalul orar specificat ",
+    "url": "https://www.infocs.ro/anunt-oprire-apa-in-baile-herculane-avarie/",
+    "source": "Info CS",
     "lang": "ro",
     "scope": "county",
-    "date": "Thu, 21 May 2026 07:47:43 +0000"
+    "date": "Fri, 22 May 2026 07:20:00 +0000"
   },
   {
-    "title": "Timișul intră pe „Camino de Santiago”. Drum de pelerinaj spre Charlottenburg",
-    "snippet": "CJ Timiș pregătește intrarea Banatului într-unul dintre cele mai cunoscute trasee de pelerinaj din lume. Consilierii județeni urmează să voteze un parteneriat pentru dezvoltarea traseului „Camino de România”. Prin acest parteneriat, CJ Timiș și Asociația Prietenilor Camino de Santiago vor colabora p",
-    "url": "https://expressdebanat.ro/timisul-intra-pe-camino-de-santiago-drum-de-pelerinaj-spre-charlottenburg/",
+    "title": "Au început pregătirile pentru transformarea funicularului din Reșița. Constructorul intră în șantier!",
+    "snippet": "Organizarea de șantier pentru unul dintre cele mai ambițioase proiecte ale administrației reșițene a debutat în aceste zile. Funicularul va fi transformat într-o pasarelă suspendată pentru pietoni și bicicliști. Lucrările pentru reconversia funicularului din centrul Reșița intră în faza de pregătire",
+    "url": "https://expressdebanat.ro/au-inceput-pregatirile-pentru-transformarea-funicularului-din-resita-constructorul-intra-in-santier/",
     "source": "Express de Banat",
     "lang": "ro",
     "scope": "county",
-    "date": "Thu, 21 May 2026 06:52:14 +0000"
+    "date": "Fri, 22 May 2026 07:54:31 +0000"
+  },
+  {
+    "title": "Tradiții de Ispas din Banatul Montan – Rudăria a îmbrăcat straie de sărbătoare VIDEO",
+    "snippet": "Începând de joi, comună Rudăria este, timp de două zile, gazda unuia dintre cele mai frumoase și așteptate evenimente din Valea Almăjului – „Nigeia” satului. De sărbătoarea de Ispas satul își sărbătorește ruga – hramul bisericii, prilej de reîntâlnire pentru comunitate, dar și de păstrare a tradiții",
+    "url": "https://www.infocs.ro/traditii-de-ispas-din-banatul-montan-rudaria-a-imbracat-straie-de-sarbatoare/",
+    "source": "Info CS",
+    "lang": "ro",
+    "scope": "county",
+    "date": "Thu, 21 May 2026 21:42:01 +0000"
+  },
+  {
+    "title": "România are deficit de paturi ATI pentru nou-născuți. Medici instruiți la Timișoara pentru cazuri critice",
+    "snippet": "La Timișoara are loc, vineri și sâmbătă, un program de formare în terapia intensivă neonatală, într-un context în care sistemul medical din România funcționează la jumătate din capacitatea necesară pentru îngrijirea nou-născuților critici. Cursurile sunt organizate de Spitalul pentru Copii „Louis Țu",
+    "url": "https://expressdebanat.ro/romania-are-deficit-de-paturi-ati-pentru-nou-nascuti-medici-instruiti-la-timisoara-pentru-cazuri-critice/",
+    "source": "Express de Banat",
+    "lang": "ro",
+    "scope": "county",
+    "date": "Fri, 22 May 2026 07:21:46 +0000"
+  },
+  {
+    "title": "Suspiciune de infecție cu hantavirus la Reșița VIDEO",
+    "snippet": "Șefa secției Boli Infecțioase a Spitalului Județean de Urgență din Reșița a transmis conducerii spitalului că ar exista o suspiciune de hantavirus! Un bărbat de aproximativ 45 de ani, pompier, s-a prezentat acum două zile la UPU din cadrul Spitalului Județean de Urgență din Reșița acuzând o stare de",
+    "url": "https://www.infocs.ro/suspiciune-de-infectie-cu-hantavirus-la-resita/",
+    "source": "Info CS",
+    "lang": "ro",
+    "scope": "county",
+    "date": "Thu, 21 May 2026 14:21:45 +0000"
   },
   {
     "title": "Nelu Popa: PSD vrea să scape de Bolojan pentru că a sacrificat „vacile de muls”!",

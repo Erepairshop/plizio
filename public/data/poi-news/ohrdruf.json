@@ -27,15 +27,6 @@
     "date": "Mon, 18 May 2026 10:06:00 +0200"
   },
   {
-    "title": "Information über Erteilung Auftrag, Errichtung Modulgebäude, Sanierung Freibad Wölfis",
-    "snippet": "Errichtung Modulgebäude - Sanierung Freibad, Wölfis",
-    "url": "https://www.ohrdruf.de/medien/dokumente/info_erteilung_auftrag_modulgebaeude.pdf?20260511134657",
-    "source": "Ohrdruf (official)",
-    "lang": "de",
-    "scope": "city",
-    "date": "Mon, 11 May 2026 13:44:00 +0200"
-  },
-  {
     "title": "Die schönsten Fotos vom Wandertag auf dem Übungsplatz Ohrdruf",
     "snippet": "In Scharen strömten die Menschen zum Standortübungsplatz Ohrdruf. Dort gab es seltene Einblicke in eine sonst verborgene Welt. Unsere Reporter waren mit der Kamera dabei.",
     "url": "https://www.thueringer-allgemeine.de/lokales/gotha/article411822925/die-schoensten-fotos-vom-wandertag-auf-dem-uebungsplatz-ohrdruf.html",
@@ -45,6 +36,15 @@
     "date": "Sun, 26 Apr 2026 17:46:00 +0200"
   },
   {
+    "title": "Information über Erteilung Auftrag, Errichtung Modulgebäude, Sanierung Freibad Wölfis",
+    "snippet": "Errichtung Modulgebäude - Sanierung Freibad, Wölfis",
+    "url": "https://www.ohrdruf.de/medien/dokumente/info_erteilung_auftrag_modulgebaeude.pdf?20260511134657",
+    "source": "Ohrdruf (official)",
+    "lang": "de",
+    "scope": "city",
+    "date": "Mon, 11 May 2026 13:44:00 +0200"
+  },
+  {
     "title": "Öffentliche Ausschreibung - Los 07 Hebung",
     "snippet": "Los 07 Hebung - Sanierung und Umbau Quartier Löberstraße 12-18, Ohrdruf",
     "url": "https://www.ohrdruf.de/medien/dokumente/langtext_ausschreibung_website_07.pdf?20260506145057",
@@ -52,14 +52,5 @@
     "lang": "de",
     "scope": "city",
     "date": "Wed, 06 May 2026 14:48:00 +0200"
-  },
-  {
-    "title": "Information über Erteilung Auftrag, Umrüstung Straßenbeleuchtungsanlage, Ohrdruf und Crawinkel",
-    "snippet": "Umrüstung Straßenbeleuchtungsanlage auf LED - Technische Leuchten",
-    "url": "https://www.ohrdruf.de/medien/dokumente/info_erteilung_auftrag_led.pdf?20260506144255",
-    "source": "Ohrdruf (official)",
-    "lang": "de",
-    "scope": "city",
-    "date": "Wed, 06 May 2026 14:39:00 +0200"
   }
 ]

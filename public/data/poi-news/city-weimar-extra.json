@@ -1,23 +1,5 @@
 [
   {
-    "title": "Die deutsche Politik der Gegenwart und der heikle Weimar-Vergleich",
-    "snippet": "Die Angst, die durch diesen Vergleich im politischen Berlin entsteht, führt zu drastischen Forderungen. Und lässt an einen Auftritt in Weimar vor 100 Jahren denken.",
-    "url": "https://www.berliner-zeitung.de/article/die-deutsche-politik-der-gegenwart-und-der-heikle-weimar-vergleich-10037116",
-    "source": "Berliner Zeitung",
-    "lang": "de",
-    "scope": "city",
-    "date": "Sat, 23 May 2026 18:06:37 GMT"
-  },
-  {
-    "title": "„Zu behütet“ – Gastronom aus Weimar erschrocken über Arbeitsmoral deutscher Azubis",
-    "snippet": "Zwei Führungskräfte aus Weimar und Blankenhain sorgen sich um den Nachwuchs. Was ihre Kritik ist und was junge Auszubildende dazu sagen.",
-    "url": "https://www.thueringer-allgemeine.de/lokales/weimar-und-weimarer-land/article412037858/zu-behuetet-gastronom-aus-weimar-erschrocken-ueber-arbeitsmoral-deutscher-azubis.html",
-    "source": "Thüringer Allgemeine",
-    "lang": "de",
-    "scope": "region",
-    "date": "Sat, 23 May 2026 16:00:00 +0200"
-  },
-  {
     "title": "Thüringen-Quiz: Einstein, Goethe oder Marx – Wessen Grab liegt in Weimar?",
     "snippet": "Das Thüringen-Quiz zum Wochenende stellt 7 Fragen zu Thüringer Städten – von Erfurt bis Heiligenstadt. Die Auflösung gibt es am Schluss.",
     "url": "https://www.thueringer-allgemeine.de/kultur/article412062724/thueringen-quiz-einstein-goethe-oder-marx-wessen-grab-liegt-in-weimar.html",
@@ -25,6 +7,15 @@
     "lang": "de",
     "scope": "city",
     "date": "Sat, 23 May 2026 04:30:00 +0200"
+  },
+  {
+    "title": "Lori aus Weimar gewinnt Thüringen Grammy 2026 – mit Hilfe ihrer Oma Petra",
+    "snippet": "Die quirlige Studentin aus Weimar konnte sich gegen 26 Konkurrenten durchsetzen und rockt nun im Juni beim Erfurter Krämerbrückenfest.",
+    "url": "https://www.thueringer-allgemeine.de/panorama/article412037700/lori-aus-weimar-gewinnt-thueringen-grammy-2026-und-rockt-das-erfurter-kraemerbrueckenfest.html",
+    "source": "TA Erfurt",
+    "lang": "de",
+    "scope": "city",
+    "date": "Tue, 19 May 2026 14:26:00 +0200"
   },
   {
     "title": "Theater in Weimar, Erfurt, Meiningen: 7 besondere Stücke im Juni 2026",
@@ -45,15 +36,6 @@
     "date": "Thu, 21 May 2026 12:23:00 +0200"
   },
   {
-    "title": "Lori aus Weimar gewinnt Thüringen Grammy 2026 – mit Hilfe ihrer Oma Petra",
-    "snippet": "Die quirlige Studentin aus Weimar konnte sich gegen 26 Konkurrenten durchsetzen und rockt nun im Juni beim Erfurter Krämerbrückenfest.",
-    "url": "https://www.thueringer-allgemeine.de/panorama/article412037700/lori-aus-weimar-gewinnt-thueringen-grammy-2026-und-rockt-das-erfurter-kraemerbrueckenfest.html",
-    "source": "TA Erfurt",
-    "lang": "de",
-    "scope": "city",
-    "date": "Tue, 19 May 2026 14:26:00 +0200"
-  },
-  {
     "title": "Bauhaus-Uni Weimar: Senat leitet Abwahlverfahren gegen Kanzler ein",
     "snippet": "Der Senat der Bauhaus-Universität Weimar hat ein Abwahlverfahren gegen den Kanzler gestartet. Hintergrund sind Finanzprobleme und Kritik an Kommunikation und Entscheidungsprozessen innerhalb der Hochschulleitung.",
     "url": "https://www.mdr.de/nachrichten/thueringen/mitte-thueringen/weimar/bauhaus-uni-kanzler-abwahl-finanzkrise-100.html",
@@ -61,24 +43,6 @@
     "lang": "de",
     "scope": "region",
     "date": "Wed, 20 May 2026 20:38:52 +0200"
-  },
-  {
-    "title": "Rettungseinsatz der Feuerwehr in Weimar: Betrunkener Mann stürzt in Schacht",
-    "snippet": "Die Feuerwehr musste am Dienstagabend einen Mann in Weimar aus einem Schacht bergen. Eine Spaziergängerin hatte zuvor Hilferufe gehört.",
-    "url": "https://www.mdr.de/nachrichten/thueringen/mitte-thueringen/weimar/unfall-sturz-schacht-feuerwehr-polizei-100.html",
-    "source": "MDR Th Mitte-West",
-    "lang": "de",
-    "scope": "region",
-    "date": "Wed, 20 May 2026 11:00:00 +0200"
-  },
-  {
-    "title": "Buttersäure-Verdacht: Ballons mit verdächtigem Inhalt in Weimar gefunden",
-    "snippet": "In Weimar sind Ballons mit verdächtigem Inhalt vor dem Gebäude der Rentenversicherung deponiert worden. Einer davon platzte, in der Luft lag danach ein unangenehmer Geruch. Der Verdacht: Buttersäure.",
-    "url": "https://www.mdr.de/nachrichten/thueringen/mitte-thueringen/weimar/video-ballons-buttersaeure-100.html",
-    "source": "MDR Th Mitte-West",
-    "lang": "de",
-    "scope": "region",
-    "date": "Mon, 18 May 2026 19:40:45 +0200"
   },
   {
     "title": "Neues Buch von Katja Hoyer: Wie Weimar 1933 den NS ermöglichte",

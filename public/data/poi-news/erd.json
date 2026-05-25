@@ -1,5 +1,14 @@
 [
   {
+    "title": "Már Érdnek is van gólyakamerája",
+    "snippet": "Mostantól élőben nézhetjük Kelep és Kamilla hétköznapjait.",
+    "url": "https://erdmost.hu/2026/05/24/mar-erdnek-is-van-golyakameraja/",
+    "source": "Érdi Újság",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Sun, 24 May 2026 13:12:50 +0000"
+  },
+  {
     "title": "Nem lesz zökkentőmentes a közlekedés az M6-os érdi szakaszán",
     "snippet": "Május 26-tól folytatódnak a hídjavítási munkálatok az autópályán.",
     "url": "https://erdmost.hu/2026/05/22/nem-lesz-zokkentomentes-a-kozlekedes-az-m6-os-erdi-szakaszan/",
@@ -27,22 +36,13 @@
     "date": "Fri, 22 May 2026 09:12:31 +0000"
   },
   {
-    "title": "„Félelemben élünk” – porig égették egy nő 25 millió forintos autóját Érden",
-    "snippet": "Két flakon gyújtófolyadékot is felhasználtak, majd öngyújtóval lobbantották lángra a járművet.",
-    "url": "https://index.hu/belfold/2026/05/19/auto-gyujtogatas-rendorseg-nyomozas-erd-milliok/",
-    "source": "index.hu/Érd",
+    "title": "Az érdi piac parkolójában dolgozik az Érdi Városgazda",
+    "snippet": "Javítják az aszfaltburkolatot, de kertészeti munkákat is végeznek a szakemberek a nap folyamán.",
+    "url": "https://erdmost.hu/2026/05/22/az-erdi-piac-parkolojaban-dolgozik-az-erdi-varosgazda/",
+    "source": "Érdi Újság",
     "lang": "hu",
     "scope": "city",
-    "date": "Tue, 19 May 2026 06:43:00 +0200"
-  },
-  {
-    "title": "Kivágott egy fát a kertjében, százezrekre büntethetik az érdi férfit",
-    "snippet": "Az önkormányzat jegyzőkönyvet vett fel és hivatalosan is megindította az eljárást. The post Kivágott egy fát a kertjében, százezrekre büntethetik az érdi férfit first appeared on 24.hu .",
-    "url": "https://24.hu/otthon/2026/05/08/erd-fakivagas-buntetes/",
-    "source": "24.hu/Érd",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Fri, 08 May 2026 12:57:47 +0000"
+    "date": "Fri, 22 May 2026 08:04:38 +0000"
   },
   {
     "title": "Hírek, aktualitások",
@@ -52,6 +52,42 @@
     "lang": "hu",
     "scope": "city",
     "date": ""
+  },
+  {
+    "title": "„Félelemben élünk” – porig égették egy nő 25 millió forintos autóját Érden",
+    "snippet": "Két flakon gyújtófolyadékot is felhasználtak, majd öngyújtóval lobbantották lángra a járművet.",
+    "url": "https://index.hu/belfold/2026/05/19/auto-gyujtogatas-rendorseg-nyomozas-erd-milliok/",
+    "source": "index.hu/Érd",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Tue, 19 May 2026 06:43:00 +0200"
+  },
+  {
+    "title": "A Füzérvári utca szerepe jóval nagyobb annál, mint elsőre gondolnánk",
+    "snippet": "Az aszfaltozást követően akár új forgalmi megoldások bevezetésére is lehetőség nyílhat.",
+    "url": "https://erdmost.hu/2026/05/22/a-fuzervari-utca-szerepe-joval-nagyobb-annal-mint-elsore-gondolnank/",
+    "source": "Érdi Újság",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Fri, 22 May 2026 05:58:17 +0000"
+  },
+  {
+    "title": "Szedd magad akciót indít az Elvira",
+    "snippet": "A korai cseresznyét május 26-tól szüretelhetjük az Érd és Martonvásár között fekvő majorban.",
+    "url": "https://erdmost.hu/2026/05/21/szedd-magad-akciot-indit-az-elvira/",
+    "source": "Érdi Újság",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Thu, 21 May 2026 15:13:22 +0000"
+  },
+  {
+    "title": "Kivágott egy fát a kertjében, százezrekre büntethetik az érdi férfit",
+    "snippet": "Az önkormányzat jegyzőkönyvet vett fel és hivatalosan is megindította az eljárást. The post Kivágott egy fát a kertjében, százezrekre büntethetik az érdi férfit first appeared on 24.hu .",
+    "url": "https://24.hu/otthon/2026/05/08/erd-fakivagas-buntetes/",
+    "source": "24.hu/Érd",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Fri, 08 May 2026 12:57:47 +0000"
   },
   {
     "title": "Hódít a sportág, amit akár ötvenévesen is elkezdhetsz, és világklasszissá válhatsz",

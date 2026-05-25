@@ -1,29 +1,47 @@
 [
   {
-    "title": "[GA+] Ein Landgut aus der Lotterie: „Schatzi, ick hab‘ da wat jewonnen“",
-    "snippet": "„Man kann die Gefühle nicht beschreiben, die man in diesem Moment empfindet“: Ein 40-jähriger Supermarktmitarbeiter aus Brandenburg gewinnt bei einer Lotterie ein 2,8-Millionen-Euro- und 22.000-Quadratmeter-Landgut. Und jetzt?",
-    "url": "https://ga.de/news/panorama/supermarktmitarbeiter-gewinnt-landgut-bei-duesseldorf_aid-148617797",
+    "title": "[GA+] Wildtiere in Bonn: Tierheim nimmt keine verletzten Wildtiere mehr auf",
+    "snippet": "Das Bonner Tierheim weist Finder von kranken Wildtieren seit knapp zwei Jahren ab. Es fehlen Betriebserlaubnis, Personal und Räume. Nur Eichhörnchen werden noch behandelt.",
+    "url": "https://ga.de/bonn/stadt-bonn/tierheim-bonn-keine-wildtiere-mehr-ausnahme-eichhoernchen_aid-148368501",
     "source": "General-Anzeiger Bonn",
     "lang": "de",
     "scope": "state",
-    "date": "Sun, 24 May 2026 07:00:00 +0200"
+    "date": "Mon, 25 May 2026 08:23:00 +0200"
   },
   {
-    "title": "[GA+] Debatte um Sahles Parteispende: „An die CDU in Bonn ist niemals eine Spende geflossen“",
-    "snippet": "Die Firma Sahle hat 2020 eine Parteispende von rund 18.000 Euro an die CDU abgegeben. Besteht deshalb ein Interessenskonflikt im Zusammenhang mit der Landwirtschaftskammer in Roleber? Antworten auf eine kritische Nachfrage der Opposition.",
-    "url": "https://ga.de/bonn/beuel/sahle-spende-an-cdu-debatte-um-roleber-bauprojekt-beuel_aid-148632315",
+    "title": "[GA+] Ehemaliger Diplomat im Interview: „Von den Iranern hieß es: Congratulations to Germany!“",
+    "snippet": "Hans-Dieter Lucas war maßgeblich am Atomabkommen mit Iran 2015 beteiligt. Im GA-Interview erzählt der Diplomat, worauf es bei Verhandlungen ankommt, was hinter den Kulissen abläuft – und wie er gemeinsam mit der iranischen Delegation das WM-Finale 2014 geguckt hat.",
+    "url": "https://ga.de/news/politik/bonn-diplomat-lucas-ueber-iran-verhandlungen-und-diplomatie_aid-148290507",
     "source": "General-Anzeiger Bonn",
     "lang": "de",
     "scope": "state",
-    "date": "Sun, 24 May 2026 05:00:00 +0200"
+    "date": "Mon, 25 May 2026 07:00:00 +0200"
   },
   {
-    "title": "[GA+] Offenbar Familienkonflikt eskaliert: Versuchte Tötung in Bonn-Oberkassel? Frau nach Auto-Attacke verletzt",
-    "snippet": "Nach einem mutmaßlich gezielten Angriff mit einem Auto auf eine 48-jährige Frau in Bonn-Oberkassel ermittelt eine Mordkommission wegen versuchten Tötungsdelikts. Der 20 Jahre alte Tatverdächtige ist weiter auf der Flucht. Nach Angaben der Familie des Opfers sollen dem Vorfall massive Drohungen vorau",
-    "url": "https://ga.de/bonn/beuel/versuchte-toetung-in-bonn-oberkassel-frau-nach-auto-attacke-verletzt_aid-148800065",
+    "title": "[GA+] 120 jährige Geschichte: Diese großen Einsätze erlebte die Lannesdorfer Feuerwehr",
+    "snippet": "Von der Ahrflut bis zum Dachstuhlbrand in der Koblenzer Straße: Die Freiwillige Feuerwehr Lannesdorf war in ihrer Geschichte bei sehr unterschiedlichen Lagen gefordert. Ein Rückblick auf besondere Einsätze und die Entwicklung der Einheit.",
+    "url": "https://ga.de/bonn/bad-godesberg/bonn-lannesdorf-feuerwehr-jubilaeum-mit-blick-auf-grosse-einsaetze_aid-146860341",
     "source": "General-Anzeiger Bonn",
     "lang": "de",
     "scope": "state",
-    "date": "Sat, 23 May 2026 22:18:00 +0200"
+    "date": "Mon, 25 May 2026 07:00:00 +0200"
+  },
+  {
+    "title": "[GA+] Altstadt-Beats und Rheinauen-Picknick: So entspannt startet Bonn ins erste echte Sommer-Wochenende",
+    "snippet": "Am ersten sommerlichen Samstag des Jahres tanzen die einen zu elektronischer Musik auf dem Frankenbadplatz, die anderen genießen die Sonne in der Rheinaue.",
+    "url": "https://ga.de/bonn/stadt-bonn/so-entspannt-startet-bonn-ins-erste-echte-sommer-wochenende_aid-148629215",
+    "source": "General-Anzeiger Bonn",
+    "lang": "de",
+    "scope": "state",
+    "date": "Sat, 23 May 2026 20:00:00 +0200"
+  },
+  {
+    "title": "[GA+] Start der Freibadsaison: 13 Gründe, warum sich der Sprung in die Bonner Freibäder lohnt",
+    "snippet": "Das Rüngsdorfer Panoramabad öffnet als erstes Bonner Freibad seine Tore. Ein guter Anlass, um sich direkt ins kühle Nass zu stürzen – doch bei Weitem nicht der einzige. Denn es gibt viele gute Gründe, unter freiem Himmel zu schwimmen.",
+    "url": "https://ga.de/bonn/bad-godesberg/freibadsaison-in-bonn-startet-13-gruende-fuer-den-besuch_aid-147862111",
+    "source": "General-Anzeiger Bonn",
+    "lang": "de",
+    "scope": "state",
+    "date": "Thu, 21 May 2026 19:40:00 +0200"
   }
 ]

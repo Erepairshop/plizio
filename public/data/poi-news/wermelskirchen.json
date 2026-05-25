@@ -1,14 +1,5 @@
 [
   {
-    "title": "Musikbar mit Großstadt-Flair: Warum diese Bar in Wermelskirchen ihre Gäste überrascht",
-    "snippet": "Mittwochs gibt es Schallplatten statt Playlist: Robert Haag legt im „Ivy“ Funk und Soul auf – „Organic Grooves“. Die Gäste schätzen die entspannte Atmosphäre und das gemeinsame Musikhören.",
-    "url": "https://rp-online.de/nrw/staedte/wermelskirchen/wermelskirchen-die-musikbar-ivy-sorgt-fuer-wohnzimmer-flair_aid-147595755",
-    "source": "RP Solingen",
-    "lang": "de",
-    "scope": "city",
-    "date": "Thu, 21 May 2026 11:42:00 +0200"
-  },
-  {
     "title": "Unternehmerfrau aus Wermelskirchen: 179 Briefe und eine große Liebe",
     "snippet": "Angela Lux hat ihr Leben lang andere Menschen glücklich gemacht – als vierfache Mutter, Unternehmergattin und Ehrenämtlerin. Ihr eigenes Glück sei trotzdem nicht auf der Strecke geblieben, sagt sie.",
     "url": "https://rp-online.de/nrw/staedte/remscheid/wermelskirchen-remscheid-unternehmerfrau-angela-lux_aid-148518945",
@@ -16,6 +7,15 @@
     "lang": "de",
     "scope": "city",
     "date": "Wed, 20 May 2026 06:34:00 +0200"
+  },
+  {
+    "title": "Musikbar mit Großstadt-Flair: Warum diese Bar in Wermelskirchen ihre Gäste überrascht",
+    "snippet": "Mittwochs gibt es Schallplatten statt Playlist: Robert Haag legt im „Ivy“ Funk und Soul auf – „Organic Grooves“. Die Gäste schätzen die entspannte Atmosphäre und das gemeinsame Musikhören.",
+    "url": "https://rp-online.de/nrw/staedte/wermelskirchen/wermelskirchen-die-musikbar-ivy-sorgt-fuer-wohnzimmer-flair_aid-147595755",
+    "source": "RP Solingen",
+    "lang": "de",
+    "scope": "city",
+    "date": "Thu, 21 May 2026 11:42:00 +0200"
   },
   {
     "title": "Feilenfabrik Ehlis an der Stadtgrenze Wermelskirchen / Remscheid: Alte Maschinen erzählen jetzt ihre Geschichte selbst",
@@ -30,7 +30,7 @@
     "title": "Startschuss für die Kommunale Wärmeplanung in Hückeswagen, Wermelskirchen und Wipperfürth",
     "snippet": "Informationen zur Wärmeplanung finden Sie unter Wirtschaft-Wohnen/Klimaschutz/ Kommunale Wärmeplanung.",
     "url": "https://wipperfuerth.de/fileadmin/redaktion/Hansestadt_Wipperfuerth/News/Kommunale_Waermeplanung.pdf",
-    "source": "Wipperfürth (official)",
+    "source": "wipperfuerth.de (official)",
     "lang": "de",
     "scope": "city",
     "date": "Wed, 30 Apr 2025 11:34:18 +0200"

@@ -1,14 +1,5 @@
 [
   {
-    "title": "A legszebb, legügyesebb kutyák vették birtokba egy napra Hajdúszoboszló parkját – fotókkal, videóval",
-    "snippet": "A hétvégén igazi kutyás paradicsommá változott a hajdúszoboszlói Szent István park.",
-    "url": "https://www.haon.hu/helyi-kozelet/2026/05/hajduszoboszloi-kutyapark-agility-verseny?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
-    "source": "haon.hu (megyei)",
-    "lang": "hu",
-    "scope": "county",
-    "date": "Sat, 23 May 2026 16:40:45 +0000"
-  },
-  {
     "title": "Megkéseltek egy férfit Hajdúszoboszlón",
     "snippet": "Egy 40 év körüli férfi az áldozat. The post Megkéseltek egy férfit Hajdúszoboszlón first appeared on 24.hu .",
     "url": "https://24.hu/belfold/2026/04/26/keseles-hajduszoboszlo-ferfi/",
@@ -45,15 +36,6 @@
     "date": "Tue, 16 Sep 2025 14:55:00 +0200"
   },
   {
-    "title": "Valentin-nap Hajdúszoboszlón: közös élmények, wellness és romantikus pillanatok",
-    "snippet": "A Valentin-nap tökéletes alkalom arra, hogy egy kicsit kiszakadjunk a hétköznapokból, és valóban egymásra figyeljünk.",
-    "url": "https://hajduszoboszlo.hu/valentin-nap-hajduszoboszlon-kozos-elmenyek-wellness-es-romantikus-pillanatok/",
-    "source": "hajduszoboszlo.hu (hivatalos)",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Fri, 30 Jan 2026 07:16:00 +0000"
-  },
-  {
     "title": "Szerelés közben rázuhant az autója egy hetvenes férfira, azonnal meghalt",
     "snippet": "A rendőrség vizsgálja a tragédia körülményeit. The post Szerelés közben rázuhant az autója egy hetvenes férfira, azonnal meghalt first appeared on 24.hu .",
     "url": "https://24.hu/belfold/2026/03/25/hajduszoboszlo-auto-razuhant-meghalt/",
@@ -61,6 +43,15 @@
     "lang": "hu",
     "scope": "city",
     "date": "Wed, 25 Mar 2026 09:30:38 +0000"
+  },
+  {
+    "title": "Valentin-nap Hajdúszoboszlón: közös élmények, wellness és romantikus pillanatok",
+    "snippet": "A Valentin-nap tökéletes alkalom arra, hogy egy kicsit kiszakadjunk a hétköznapokból, és valóban egymásra figyeljünk.",
+    "url": "https://hajduszoboszlo.hu/valentin-nap-hajduszoboszlon-kozos-elmenyek-wellness-es-romantikus-pillanatok/",
+    "source": "hajduszoboszlo.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Fri, 30 Jan 2026 07:16:00 +0000"
   },
   {
     "title": "Többtonnás kombájn gázolt el egy idős nőt Hajdúszoboszlón",

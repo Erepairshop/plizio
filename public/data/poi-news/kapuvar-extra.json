@@ -1,14 +1,5 @@
 [
   {
-    "title": "Megyei foci: Ketten is hét találatig jutottak, tíz gólt lőtt az Abda és a Gyirmót II, hetet a Kapuvár és az Óvár II",
-    "snippet": "Ovifoci, csak ennyit mondott csapatáról az edző. Maidics Balázs és Priskin Tamás is hétszer talált a kapuba. Utóbbi közel jár az ötven találathoz.",
-    "url": "https://www.kisalfold.hu/helyi-sport/2026/05/megyei-foci-ketten-is-het-talalatig-jutottak?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
-    "source": "kisalfold.hu (megyei)",
-    "lang": "hu",
-    "scope": "county",
-    "date": "Sat, 23 May 2026 17:18:20 +0000"
-  },
-  {
     "title": "Ízekre szedi az internet népe Gáspár Lacit, amiért alig volt néző a kapuvári fellépésén",
     "snippet": "",
     "url": "https://index.hu/mindekozben/poszt/2025/10/29/gaspar-laci-koncert-kapuvar-tiktok-video/",
@@ -45,15 +36,6 @@
     "date": "Wed, 05 Mar 2025 13:08:26 +0000"
   },
   {
-    "title": "2026.05.26. RNÖ ülés",
-    "snippet": "2026.05.26. RNÖ ülés",
-    "url": "https://www.kapuvar.hu/hu/varoshaza/kapuvar-varosi-onkormanyzat/kapuvari-roma-nemzetisegi-onkormanyzat/kapuvari-roma-nemzetisegi-onkormanyzati-ulesek/2026/20260526-rno-ules",
-    "source": "kapuvar.hu (hivatalos)",
-    "lang": "hu",
-    "scope": "city",
-    "date": "2026-05-21"
-  },
-  {
     "title": "Váratlan helyen tűnt fel Havasi Bertalan",
     "snippet": "Fakanalat ragadott Orbán Viktor korábbi sajtófőnöke.",
     "url": "https://index.hu/belfold/2025/03/07/havasi-bertalan-bollermaj-fesztival-kapuvar-orban-viktor-sajtofonok/",
@@ -61,6 +43,15 @@
     "lang": "hu",
     "scope": "city",
     "date": "Fri, 07 Mar 2025 10:56:00 +0100"
+  },
+  {
+    "title": "2026.05.26. RNÖ ülés",
+    "snippet": "2026.05.26. RNÖ ülés",
+    "url": "https://www.kapuvar.hu/hu/varoshaza/kapuvar-varosi-onkormanyzat/kapuvari-roma-nemzetisegi-onkormanyzat/kapuvari-roma-nemzetisegi-onkormanyzati-ulesek/2026/20260526-rno-ules",
+    "source": "kapuvar.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "2026-05-21"
   },
   {
     "title": "„A saját híveinkkel kell beszélni, az fényesen elegendő a győzelemhez” – Orbán Viktort a titkos kampánykörútján kergettük egy napon át",

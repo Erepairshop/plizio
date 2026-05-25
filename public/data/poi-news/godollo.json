@@ -1,5 +1,41 @@
 [
   {
+    "title": "Légi lebegés a Tisza felett",
+    "snippet": "Az érdeklődők széles spektrumot találnak a repülések között, így aki az égbe vágyik, biztosan megtalálja a számításait",
+    "url": "http://godolloihirek.hu/cikkek/2026/05/25/kitekint/legi-lebeges-a-tisza-felett",
+    "source": "Gödöllői Hírek",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Mon, 25 May 2026 10:05:34 +0200"
+  },
+  {
+    "title": "Labdarúgás, NB III.: a gödöllői társulat közel állt ahhoz, hogy megtréfálja a bajnok Kisvárda „kettőt”",
+    "snippet": "Harcias és élvezetes meccsel búcsúztak a 2025/2026-os bajnoki idénytől a riválisok a Szűcs Lajos Sportcentrum pazar minőségű gyepén",
+    "url": "http://godolloihirek.hu/cikkek/2026/05/24/sport/labdarugas-nb-iii-a-godolloi-tarsulat-kozel-allt-ahhoz-hogy-megtrefalja-a-bajnok-kisvarda-kettot",
+    "source": "Gödöllői Hírek",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Sun, 24 May 2026 19:34:59 +0200"
+  },
+  {
+    "title": "Rács mögé juttatták a gödöllői rendőrök azt a férfit, aki ellen három elfogatóparancs volt érvényben",
+    "snippet": "A 27 éves kerepesi körözött személyt egy lakásban kapcsolták le, ahol egy asztal alatt kísérelte meg, hogy elbújjon a zsaruk elől. Nem jött neki össze…",
+    "url": "http://godolloihirek.hu/cikkek/2026/05/24/riaszt-s/racs-moge-juttattak-a-godolloi-rendorok-azt-a-ferfit-aki-ellen-harom-elfogatoparancs-volt-ervenyben",
+    "source": "Gödöllői Hírek",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Sun, 24 May 2026 15:41:26 +0200"
+  },
+  {
+    "title": "Miért ennyire fontos a villamos berendezések rendszeres karbantartása?",
+    "snippet": "Az ipari rendszerek működése sokszor magától értetődőnek tűnik egészen addig, amíg valamilyen meghibásodás nem történik",
+    "url": "http://godolloihirek.hu/cikkek/2026/05/24/kitekint/miert-ennyire-fontos-a-villamos-berendezesek-rendszeres-karbantartasa",
+    "source": "Gödöllői Hírek",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Sun, 24 May 2026 10:09:10 +0200"
+  },
+  {
     "title": "Kézilabda NB II.: mínusz hétről állt fel és nyert két góllal a gödöllői legénység",
     "snippet": "Pásztor Áron együttese huszáros hajrával múlta felül a hajdúnánásiakat, és a csoport 4. helyére lépett előre",
     "url": "http://godolloihirek.hu/cikkek/2026/05/23/sport/kezilabda-nb-ii-minusz-hetrol-allt-fel-es-nyert-ket-gollal-a-godolloi-legenyseg",
@@ -9,6 +45,15 @@
     "date": "Sat, 23 May 2026 18:39:44 +0200"
   },
   {
+    "title": "Dr. Szőcs Judit új blahai háziorovos tájékoztatója",
+    "snippet": "Dr. Szőcs Judit háziorvos tájékoztatja a 2. számú háziorvosi körzet lakosságát, hogy 2026. május hónaptól átvette Dr. Mészöly Zsolttól a háziorvosi körzetet. Rendelési idő: Prevenciós rendelés Hétfő: 12:00 15:00 [ ]",
+    "url": "https://www.godollo.hu/dr-szocs-judit-uj-blahai-haziorovos-tajekoztatoja/",
+    "source": "godollo.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Mon, 04 May 2026 07:30:23 +0000"
+  },
+  {
     "title": "Újabb elismerő címet érdemelt ki a gödöllői kastély",
     "snippet": "Az Antal nap, mint közösségi jó gyakorlat elnevezésű pályázatot a Múzeumi Oktatási és Módszertani Központ díjazta",
     "url": "http://godolloihirek.hu/cikkek/2026/05/23/mindennapi/jabb-elismero-cimet-erdemelt-ki-a-godolloi-kastely",
@@ -16,15 +61,6 @@
     "lang": "hu",
     "scope": "city",
     "date": "Sat, 23 May 2026 09:22:12 +0200"
-  },
-  {
-    "title": "Tények és tévhitek a CBD-ről",
-    "snippet": "A kannabidiol az elmúlt évek egyik legismertebb növényi eredetű összetevője lett, ennek ellenére rengeteg félreértés kapcsolódik hozzá",
-    "url": "http://godolloihirek.hu/cikkek/2026/05/23/kitekint/tenyek-es-tevhitek-a-cbd-rol",
-    "source": "Gödöllői Hírek",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Sat, 23 May 2026 09:14:43 +0200"
   },
   {
     "title": "Molnár Piroska átvette a Pécsi Ildikó Emlékdíjat",
@@ -45,15 +81,6 @@
     "date": "Thu, 21 May 2026 18:38:09 +0200"
   },
   {
-    "title": "Dr. Szőcs Judit új blahai háziorovos tájékoztatója",
-    "snippet": "Dr. Szőcs Judit háziorvos tájékoztatja a 2. számú háziorvosi körzet lakosságát, hogy 2026. május hónaptól átvette Dr. Mészöly Zsolttól a háziorvosi körzetet. Rendelési idő: Prevenciós rendelés Hétfő: 12:00 15:00 [ ]",
-    "url": "https://www.godollo.hu/dr-szocs-judit-uj-blahai-haziorovos-tajekoztatoja/",
-    "source": "godollo.hu (hivatalos)",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Mon, 04 May 2026 07:30:23 +0000"
-  },
-  {
     "title": "Jöttek-mentek a gödöllői közpénz-milliárdok…",
     "snippet": "Az elmúlt évben csökkent az iparűzési adóbevétel, meghaladta az 1,3 milliárd forintot a szolidaritási hozzájárulás összege",
     "url": "http://godolloihirek.hu/cikkek/2026/05/21/koz-rdekl-d-s/jottek-mentek-a-godolloi-kozpenz-milliardok",
@@ -61,33 +88,6 @@
     "lang": "hu",
     "scope": "city",
     "date": "Thu, 21 May 2026 09:34:28 +0200"
-  },
-  {
-    "title": "Egyre többen kérnek segítséget a takarításban a környéken",
-    "snippet": "Számos lakás- és háztulajdonos ismeri fel, hogy a professzionális tisztasági munkavégzés nem luxus, hanem egy megtérülő befektetés",
-    "url": "http://godolloihirek.hu/cikkek/2026/05/21/kitekint/egyre-tobben-kernek-segitseget-a-takaritasban-a-kornyeken",
-    "source": "Gödöllői Hírek",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Thu, 21 May 2026 08:17:12 +0200"
-  },
-  {
-    "title": "Kettős évfordulóhoz kapcsolódik a gödöllői Grassalkovich Antal Emléknap",
-    "snippet": "Június 13-án, szombaton a gróf kastéllyal szemközti szobránál lezajló koszorúzással kezdődik a gazdag programsorozat",
-    "url": "http://godolloihirek.hu/cikkek/2026/05/20/mindennapi/kettos-evfordulohoz-kapcsolodik-a-godolloi-grassalkovich-antal-emleknap",
-    "source": "Gödöllői Hírek",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Wed, 20 May 2026 18:37:20 +0200"
-  },
-  {
-    "title": "A gödöllői kapitányságra állították elő a szabadnapos álrendőrt",
-    "snippet": "A Pest megyei nyomozók elfogtak egy 43 éves férfit, aki jogtalanul igazoltatott és tartott fel több embert az isaszegi vasútállomás aluljárójában",
-    "url": "http://godolloihirek.hu/cikkek/2026/05/20/riaszt-s/a-godolloi-kapitanysagra-allitottak-elo-a-szabadnapos-alrendort",
-    "source": "Gödöllői Hírek",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Wed, 20 May 2026 15:41:11 +0200"
   },
   {
     "title": "Milliárdos fejlesztés indul Gödöllőn",

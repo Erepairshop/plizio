@@ -1,32 +1,5 @@
 [
   {
-    "title": "Probleme von Leipzig nach Berlin: Böschungsbrand verursacht stundenlange Probleme im Fernverkehr",
-    "snippet": "Stundenlang kämpfen Feuerwehrleute in Brandenburg gegen einen Brand an der Bahnstrecke Berlin-Leipzig an. Erst am späten Abend wird die Sperrung wieder aufgehoben. Es dauert aber noch etwas, bis der Verkehr wieder ganz wie geplant läuft.",
-    "url": "https://www.n-tv.de/panorama/Boeschungsbrand-verursacht-stundenlange-Probleme-im-Fernverkehr-id30853287.html",
-    "source": "n-tv.de",
-    "lang": "de",
-    "scope": "national",
-    "date": "Sat, 23 May 2026 23:59:23 +0200"
-  },
-  {
-    "title": "Passagiere saßen fest: Brand! Bahnstrecke Leipzig – Berlin stundenlang gesperrt",
-    "snippet": "Böschungsbrand an der Bahnstrecke Leipzig – Berlin! Mittags brach im brandenburgischen Trebbin ein Feuer an der Strecke aus.",
-    "url": "https://www.bz-berlin.de/berlin/brand-bahnstrecke-leipzig-berlin-gesperrt",
-    "source": "B.Z. Berlin",
-    "lang": "de",
-    "scope": "city",
-    "date": "Sun, 24 May 2026 08:37:34 +0200"
-  },
-  {
-    "title": "Nach Böschungsbrand bei Trebbin: Sperrung auf Bahnstrecke Berlin-Leipzig aufgehoben",
-    "snippet": "Bei Trebbin in Brandenburg brannte es an einem Bahndamm, die Strecke zwischen Jüterbog und Ludwigsfelde war gesperrt. Es war zu Störungen im Fernverkehr zwischen Berlin und Leipzig gekommen.",
-    "url": "https://www.tagesspiegel.de/berlin/nach-boschungsbrand-bei-trebbin-sperrung-auf-bahnstrecke-berlin-leipzig-aufgehoben-15633859.html",
-    "source": "Tagesspiegel",
-    "lang": "de",
-    "scope": "city",
-    "date": "Sat, 23 May 2026 17:56:12 +0200"
-  },
-  {
     "title": "Passagiere sitzen fest - Brand! Bahnstrecke Leipzig – Berlin gesperrt",
     "snippet": "Böschungsbrand bei Trebbin legt den Zugverkehr lahm, Reisende sitzen fest.",
     "url": "https://www.bild.de/news/passagiere-sitzen-fest-brand-bahnstrecke-leipzig-berlin-gesperrt-6a11b81c3b7096456ac80aca",
@@ -34,6 +7,177 @@
     "lang": "de",
     "scope": "city",
     "date": "Sun, 24 May 2026 08:36:15 CEST"
+  },
+  {
+    "title": "Direkt am See: Diese Kleinstädte gehören zu den schönsten in Österreich",
+    "snippet": "Sommer, Sonne, See: Österreich ist nicht nur bekannt für beeindruckende Berge, sondern auch für sensationelle Seen. Wer direkt am Wasser Urlaub machen will, sollte in die schönsten Kleinstädte am See in Österreich reisen.",
+    "url": "https://www.lvz.de/reise/direkt-am-see-diese-kleinstaedte-gehoeren-zu-den-schoensten-in-oesterreich-6Q3UDNVBKBELJKV5HPVER6PMBM.html",
+    "source": "LVZ",
+    "lang": "de",
+    "scope": "city",
+    "date": "Mon, 25 May 2026 09:56:42 +0200"
+  },
+  {
+    "title": "WM-Gegner schuftet im Urlaub - Bundesliga-Star mit Mucki-Ansage an Deutschland",
+    "snippet": "Leipzig-Superstar Yan Diomande denkt auch im Kurz-Urlaub vor der WM gar nicht an Pause.",
+    "url": "https://www.bild.de/sport/fussball/rb-leipzig-wm-gegner-schuftet-im-urlaub-yan-diomande-mit-mucki-ansage-an-deutschland-6a12a72ef69db3699d70fdd3",
+    "source": "Bild Leipzig",
+    "lang": "de",
+    "scope": "city",
+    "date": "Mon, 25 May 2026 05:50:15 CEST"
+  },
+  {
+    "title": "WGT 2026 Leipzig: Alle Infos und Bilder zum Wave-Gotik-Treffen",
+    "snippet": "Das 33. WGT läuft! Bis zum 25. Mai 2026 treffen sich zu Pfingsten wieder tausende Fans der schwarzen Szene. Alle Infos rund um Konzerte, Veranstaltungen, Viktorianisches Picknick und die schönsten Bilder gibt s hier.",
+    "url": "https://www.mdr.de/kultur/wgt/wave-gotik-treffen-pfingsten-108.html",
+    "source": "MDR Sachsen Leipzig",
+    "lang": "de",
+    "scope": "city",
+    "date": "Sun, 24 May 2026 16:09:40 +0200"
+  },
+  {
+    "title": "Das Heidnische Dorf in Leipzig: Zwischen schwarzer Szene, Musik und mittelalterlicher Atmosphäre + Bildergalerie",
+    "snippet": "Das „Heidnische Dorf“ gehört seit vielen Jahren zu den beliebtesten Orten des Wave-Gotik-Treffens (WGT) in Leipzig. Zwischen Metständen, mittelalterlicher Musik, Tavernen und fantasievollen Gewandungen entsteht eine besondere Atmosphäre, die Besucher für einige Stunden aus dem hektischen Alltag entf",
+    "url": "https://www.l-iz.de/leben/gesellschaft/2026/05/das-heidnische-dorf-in-leipzig-zwischen-schwarzer-szene-musik-und-mittelalterlicher-atmosphaere-bildergalerie-658225",
+    "source": "Leipziger Zeitung",
+    "lang": "de",
+    "scope": "city",
+    "date": "Mon, 25 May 2026 06:43:33 +0000"
+  },
+  {
+    "title": "Konzert in Werne: „emBRASSment“ bringt Musik aus Leipzig",
+    "snippet": "Mit Trompeten, Horn und Posaune präsentiert das Quintett „emBrassment“ in Werne ein Programm, das von Bach bis zur Popgruppe „Die Prinzen“ reicht.",
+    "url": "https://www.ruhrnachrichten.de/werne/konzert-werne-leipziger-quintett-embrassment-bach-die-prinzen-mai-2026-leipzig-christophorus-w1197746-2002076990/",
+    "source": "Ruhr Nachrichten",
+    "lang": "de",
+    "scope": "state",
+    "date": "Mon, 25 May 2026 07:00:00 +0000"
+  },
+  {
+    "title": "Wave-Gotik-Treffen in Leipzig: Zwischen schwarzer Szene, Musik und mittelalterlicher Atmosphäre",
+    "snippet": "Das „Heidnische Dorf“ gehört seit vielen Jahren zu den beliebtesten Orten des Wave-Gotik-Treffens (WGT) in Leipzig. Zwischen Metständen, mittelalterlicher Musik, Tavernen und fantasievollen Gewandungen entsteht eine besondere Atmosphäre, die Besucher für einige Stunden aus",
+    "url": "https://dubisthalle.de/wave-gotik-treffen-in-leipzig-zwischen-schwarzer-szene-musik-und-mittelalterlicher-atmosphaere/",
+    "source": "Du bist Halle",
+    "lang": "de",
+    "scope": "city",
+    "date": "Sun, 24 May 2026 16:48:00 +0000"
+  },
+  {
+    "title": "Giro d’Italia 2026: TV-Übertragung und Stream - alle Infos (25.05.2026)",
+    "snippet": "Giro d’Italia 2026: Wer trägt am Ende das Maglia Rosa, wie sehen die einzelnen Etappen aus und wo kann man die Live-Übertragung im TV sehen? Alle Infos hier.",
+    "url": "https://www.lvz.de/sport/giro-d-italia-2026-tv-uebertragung-und-stream-alle-infos-25-05-2026-ZK6TMQGEAFHXFPU2O2AKRWGTP4.html",
+    "source": "LVZ",
+    "lang": "de",
+    "scope": "city",
+    "date": "Mon, 25 May 2026 09:52:06 +0200"
+  },
+  {
+    "title": "20 Extra-Flieger, 22500 Liter Bier! - England-Fans lassen nun diese deutsche Stadt beben",
+    "snippet": "Das Finale der Conference League sorgt für eine Invasion von England-Fans in Leipzig.",
+    "url": "https://www.bild.de/sport/fussball/conference-league-flieger-werden-extra-umgeleitet-invasion-der-england-fans-in-leipzig-6a12bac1f1c38fda88c006c5",
+    "source": "Bild Leipzig",
+    "lang": "de",
+    "scope": "city",
+    "date": "Sun, 24 May 2026 20:44:19 CEST"
+  },
+  {
+    "title": "Von Lacrimosa bis Heidevolk: Diese Bands bringen das WGT 2026 zum Beben",
+    "snippet": "Das WGT 2026 in Leipzig lockt mit über 200 Künstlern und zahlreichen Konzerten. Auch Fans von Rock und Metal dürfen sich auf Bands wie Lacrimosa, Heidevolk und Unzucht freuen. Sieben Konzert-Highlights!",
+    "url": "https://www.mdr.de/kultur/wgt/leipzig-wgt-metal-folk-mittelalter-konzerte-tipps-112.html",
+    "source": "MDR Sachsen Leipzig",
+    "lang": "de",
+    "scope": "city",
+    "date": "Sun, 24 May 2026 18:53:40 +0200"
+  },
+  {
+    "title": "Information zum internationalen Tag der Biodiversität: Neues Großprojekt schützt Waldfledermausarten und fördert klimaresiliente Wälder",
+    "snippet": "In diesem Frühjahr ist ein bundesweites Verbundprojekt zum Schutz von Waldfledermäusen in Deutschland gestartet. Unter der Leitung der Naturstiftung David arbeiten zehn Partnerorganisationen aus Naturschutz und Wissenschaft daran, wichtige Lebensräume von Waldfledermäusen langfristig zu sichern und ",
+    "url": "https://www.l-iz.de/bildung/forschung/2026/05/information-zum-internationalen-tag-der-biodiversitat-neues-grossprojekt-schutzt-waldfledermausarten-fordert-klimaresiliente-walder-658209",
+    "source": "Leipziger Zeitung",
+    "lang": "de",
+    "scope": "city",
+    "date": "Mon, 25 May 2026 02:47:00 +0000"
+  },
+  {
+    "title": "Böschungsbrand im Saalekreis: Zugausfälle zwischen Halle und Leipzig",
+    "snippet": "Am frühen Mittag kam es im Zugverkehr zwischen Halle (Saale) und Leipzig zu Ausfällen. Grund ist ein Böschungsbrand in der Nähe von Gröbers. Betroffen waren die S-Bahn-Linien S3 und S5 / S5X sowie die",
+    "url": "https://dubisthalle.de/boeschungsbrand-im-saalekreis-zugausfaelle-zwischen-halle-und-leipzig/",
+    "source": "Du bist Halle",
+    "lang": "de",
+    "scope": "city",
+    "date": "Sun, 24 May 2026 10:03:00 +0000"
+  },
+  {
+    "title": "Public Viewing in Leipzig: Stadt zeigt Conference League Final live auf dem Markt",
+    "snippet": "Zum Abschluss des dreitägigen Fanfestes gibt es Public Viewing auf dem Leipziger Markt: Die Stadt überträgt das Finale der Conference League aus dem Stadion.",
+    "url": "https://www.lvz.de/lokales/leipzig/public-viewing-in-leipzig-stadt-zeigt-conference-league-final-live-auf-dem-markt-KQHHMHCNYJAYJOELYVCMRG634Y.html",
+    "source": "LVZ",
+    "lang": "de",
+    "scope": "city",
+    "date": "Mon, 25 May 2026 09:44:13 +0200"
+  },
+  {
+    "title": "Reform-Druck immer größer - Fan-Protest sogar beim Pokal-Finale in Berlin",
+    "snippet": "Die Bayern-Fans haben den DFB-Bossen beim Pokalfinale richtig eingeheizt.",
+    "url": "https://www.bild.de/sport/fussball/fussball-druck-auf-dfb-bosse-mega-protest-beim-pokal-finale-fuer-reform-6a12c0b1f1c38fda88c0075e",
+    "source": "Bild Leipzig",
+    "lang": "de",
+    "scope": "city",
+    "date": "Sun, 24 May 2026 16:55:39 CEST"
+  },
+  {
+    "title": "WGT ohne Bändchen? Diese Veranstaltungen kann man auch ohne Ticket erleben",
+    "snippet": "Kein Ticket fürs WGT? Kein Problem! Auch ohne Bändchen gibt es viel zu entdecken – ob Leichenwagenkorso oder Heidnisches Dorf. Viele Events sind offen, manche gratis. Hier sind Tipps für das WGT Leipzig 2026!",
+    "url": "https://www.mdr.de/kultur/wgt/wgt-leipzig-ohne-ticket-120.html",
+    "source": "MDR Sachsen Leipzig",
+    "lang": "de",
+    "scope": "city",
+    "date": "Sun, 24 May 2026 16:05:02 +0200"
+  },
+  {
+    "title": "Taucha stärkt Grundschulstandort: Parthelandschule eröffnet künftig zwei erste Klassen",
+    "snippet": "Durch das gemeinsame Engagement von Eltern, Stadtverwaltung und den zuständigen Bildungsbehörden konnte für den Schulstandort Taucha ein wichtiger Erfolg erzielt werden: Nach intensiven Gesprächen zwischen dem Landesamt für Schule und Bildung (LaSuB) und der Stadtverwaltung seit Februar 2026 wurde d",
+    "url": "https://www.l-iz.de/melder/wortmelder/2026/05/taucha-staerkt-grundschulstandort-parthelandschule-eroeffnet-kuenftig-zwei-erste-klassen-658223",
+    "source": "Leipziger Zeitung",
+    "lang": "de",
+    "scope": "city",
+    "date": "Sun, 24 May 2026 13:22:31 +0000"
+  },
+  {
+    "title": "UEFA Conference League Finale: Lidl bringt den Frische-Kick nach Leipzig / Drei Tage volles Programm und Fan-Highlights im \"Frische Stadion\"",
+    "snippet": "Lidl: Bad Wimpfen (ots) - Im Vorfeld des Finales der UEFA Conference League in Leipzig begeistert Lidl die Fans mit zahlreichen Aktionen abseits des Rasens. Als Offizieller Partner der UEFA Conference League und neunfacher Gewinner des Retail Awards im ...",
+    "url": "https://www.presseportal.de/pm/58227/6280095",
+    "source": "Presseportal Topic-panorama",
+    "lang": "de",
+    "scope": "national",
+    "date": "Fri, 22 May 2026 12:00:12 +0200"
+  },
+  {
+    "title": "Nach Böschungsbrand bei Trebbin: Sperrung auf Bahnstrecke Berlin-Leipzig aufgehoben",
+    "snippet": "Bei Trebbin in Brandenburg brannte es an einem Bahndamm, die Strecke zwischen Jüterbog und Ludwigsfelde war gesperrt. Es war zu Störungen im Fernverkehr zwischen Berlin und Leipzig gekommen.",
+    "url": "https://www.tagesspiegel.de/berlin/nach-boschungsbrand-bei-trebbin-sperrung-auf-bahnstrecke-berlin-leipzig-aufgehoben-15633859.html",
+    "source": "Tagesspiegel Berlin",
+    "lang": "de",
+    "scope": "city",
+    "date": "Sat, 23 May 2026 17:56:12 +0200"
+  },
+  {
+    "title": "Steinzeitliches Augenrollen",
+    "snippet": "In Halle ersteht die Schamanin von Bad Dürrenberg auf – nach 9.000 Jahren",
+    "url": "https://kreuzer-leipzig.de/2026/05/24/leipzig-ausflug-halle-schamanin",
+    "source": "Kreuzer Online",
+    "lang": "de",
+    "scope": "city",
+    "date": "Sun, 24 May 2026 09:34:00 +0200"
+  },
+  {
+    "title": "Was koche ich heute? Rezepte für den Feierabend (Sonntag, 24. Mai 2026)",
+    "snippet": "Lecker, gesund, einfach: Die alltägliche Suche nach einem passenden Rezept gestaltet sich oft schwer und raubt kostbare Zeit. Damit Sie Ihren Feierabend möglichst lang genießen können, nehmen wir Ihnen die Entscheidung ab – anbei finden Sie unser täglich wechselndes Rezept des Tages. Guten Appetit!",
+    "url": "https://www.lvz.de/lifestyle/was-koche-ich-heute-rezepte-fuer-den-feierabend-sonntag-24-mai-2026-BXLGXXARURGITHNZDYXZBWN464.html",
+    "source": "LVZ",
+    "lang": "de",
+    "scope": "city",
+    "date": "Sun, 24 May 2026 09:30:22 +0200"
   },
   {
     "title": "Nur für ein paar Tage - Bundesliga-Stadion bekommt neuen Namen",
@@ -45,22 +189,22 @@
     "date": "Sun, 24 May 2026 07:15:45 CEST"
   },
   {
-    "title": "Die besten Podcasts Deutschlands: Aktuelle Top 10 bei Spotify und iTunes (24.5.2026)",
-    "snippet": "Welche Podcasts sind aktuell in Deutschland am beliebtesten? Hier finden Sie die täglichen Podcastcharts von Spotify und Apple iTunes.",
-    "url": "https://www.lvz.de/medien/die-besten-podcasts-deutschlands-aktuelle-top-10-bei-spotify-und-itunes-24-5-2026-AVQYY6ITH5GCVNU3QEXQZUXZDA.html",
-    "source": "LVZ",
-    "lang": "de",
-    "scope": "city",
-    "date": "Sun, 24 May 2026 08:52:33 +0200"
-  },
-  {
-    "title": "WGT 2026 Leipzig: Alle Infos und Bilder zum Wave-Gotik-Treffen",
-    "snippet": "Das 33. WGT läuft! Bis zum 25. Mai 2026 treffen sich zu Pfingsten wieder tausende Fans der schwarzen Szene. Alle Infos rund um Konzerte, Veranstaltungen, Viktorianisches Picknick und die schönsten Bilder gibt s hier.",
-    "url": "https://www.mdr.de/kultur/wgt/wave-gotik-treffen-pfingsten-108.html",
+    "title": "Fäuste, Schaufeln, Baseballschläger: Massenschlägerei in Mockrehna in Nordsachsen",
+    "snippet": "Mockrehna ist ein kleiner, beschaulicher Ort in Nordsachsen. Doch am Freitagabend müssen auf einmal Polizisten aus ganz Sachsen anrücken. Grund ist eine Massenschlägerei. Sieben Menschen wurden verletzt.",
+    "url": "https://www.mdr.de/nachrichten/sachsen/leipzig/delitzsch-eilenburg-torgau/massenschlaegerei-mockrehna-gewalt-polizei-festnahme-100.html",
     "source": "MDR Sachsen Leipzig",
     "lang": "de",
     "scope": "city",
-    "date": "Sun, 24 May 2026 08:19:57 +0200"
+    "date": "Sat, 23 May 2026 21:15:09 +0200"
+  },
+  {
+    "title": "Leipziger Amtsblatt 10/2026",
+    "snippet": "Themen dieser Ausgabe (Auszug): Leipzig feiert den europäischen Fußball; Stadthafen wird eröffnet; Mobile Großbrunnen für die Stadt; „Tacheles“: Jüdische Kultur erleben; Feuerwehr-Bilanz 2025 „Weit mehr als Brandbekämpfung“; Fünf Vorbild-Projekte mit Zukunftspreis ausgezeichnet; Leipzig baut Förders",
+    "url": "https://www.leipzig.de/newsarchiv/news/leipziger-amtsblatt-10-2026",
+    "source": "leipzig.de (official)",
+    "lang": "de",
+    "scope": "city",
+    "date": "Sat, 23 May 2026 00:05:00 +0200"
   },
   {
     "title": "Energieministerkonferenz 2026: Sachsen setzt sich für einen verbindlichen Energiewendefahrplan ein",
@@ -73,165 +217,12 @@
   },
   {
     "title": "33. Wave-Gotik-Treffen in Leipzig – Die Bilder vom Samstag",
-    "snippet": "",
-    "url": "https://www.thueringer-allgemeine.de/panorama/article412080795/33-wave-gotik-treffen-in-leipzig-die-bilder-vom-samstag.html",
-    "source": "Thüringer Allgemeine",
+    "snippet": "Bei bestem Wetter versammelten sich am Pfingstsamstag die Fans der schwarzen Szene in Leipzig zum Wave-Gotik-Treffen 2026.",
+    "url": "https://www.otz.de/panorama/article412080795/33-wave-gotik-treffen-in-leipzig-die-bilder-vom-samstag.html",
+    "source": "OTZ",
     "lang": "de",
-    "scope": "region",
+    "scope": "state",
     "date": "Sat, 23 May 2026 22:47:00 +0200"
-  },
-  {
-    "title": "Wave-Gotik-Treffen Leipzig: Auftakt mit Viktorianischem Picknick",
-    "snippet": "Mit dem Viktorianischen Picknick im Clara‑Zetkin‑Park hat sich die schwarze Szene am Freitag auf das Wave‑Gotik‑Treffen 2026 in Leipzig eingestimmt. Klicken Sie sich durch unsere Bilder.",
-    "url": "https://www.insuedthueringen.de/inhalt.wave-gotik-treffen-leipzig-auftakt-mit-viktorianischem-picknick.02032641-61dc-4393-b239-ca0594012e3f.html",
-    "source": "Freies Wort (Sonneberg)",
-    "lang": "de",
-    "scope": "city",
-    "date": "Sat, 23 May 2026 08:13:55 GMT"
-  },
-  {
-    "title": "Camp-Haustier, Team-Besuche, Fitness - DFB-Star Raum verrät, was Kimmich zur WM plant",
-    "snippet": "Er vertritt RB Leipzig im DFB-Team! In BILD verrät David Raum seinen WM-Plan.",
-    "url": "https://www.bild.de/sport/fussball/dfb-spielerfrauen-haustier-fitness-leipzig-kapitaen-david-raum-ueber-seinen-wm-plan-6a103cbdab04a3614e21ff8a",
-    "source": "Bild Leipzig",
-    "lang": "de",
-    "scope": "city",
-    "date": "Sun, 24 May 2026 05:28:03 CEST"
-  },
-  {
-    "title": "Was läuft heute Abend im Fernsehen? TV-Programm um 20.15 Uhr (Sonntag, 24.5.2026)",
-    "snippet": "Welche Highlights haben ZDF, ProSieben, RTL und Co. heute im Programm? Die Sendungen im Free-TV um 20.15 Uhr in der Übersicht.",
-    "url": "https://www.lvz.de/medien/was-laeuft-heute-abend-im-fernsehen-tv-programm-um-20-15-uhr-sonntag-24-5-2026-B5HA775UTRCT3C2NQV5QMRWY5U.html",
-    "source": "LVZ",
-    "lang": "de",
-    "scope": "city",
-    "date": "Sun, 24 May 2026 08:50:04 +0200"
-  },
-  {
-    "title": "Böschungsbrand: Fernverkehr von Berlin nach Leipzig, Halle und Erfurt betroffen",
-    "snippet": "Ein Böschungsbrand bei Trebbin hat für Einschränkungen im Fernverkehr von und nach Sachsen, Sachsen-Anhalt und Thüringen gesorgt. Betroffen waren Verbindungen von Berlin nach Leipzig, Halle, Erfurt, Riesa und Dresden.",
-    "url": "https://www.mdr.de/nachrichten/deutschland/panorama/boeschungs-brand-trebbin-sperrung-deutsche-bahn-leipzig-halle-100.html",
-    "source": "MDR Sachsen Leipzig",
-    "lang": "de",
-    "scope": "city",
-    "date": "Sun, 24 May 2026 01:16:45 +0200"
-  },
-  {
-    "title": "Jetzt bewerben: Sozialministerium vergibt „Peter-Henkenborg-Preis für die Didaktik der politischen Bildung“",
-    "snippet": "Noch bis zum 13. Juli 2026 können sich Bildungseinrichtungen, Vereine, Netzwerke sowie zivilgesellschaftliche Initiativen in Sachsen, die mit innovativen didaktischen Konzepten zur Stärkung demokratischer Kompetenzen beitragen, um den „Peter-Henkenborg-Preis für die Didaktik der politischen Bildung“",
-    "url": "https://www.l-iz.de/politik/sachsen/2026/05/jetzt-bewerben-sozialministerium-peter-henkenborg-preis-didaktik-politische-bildung-658192",
-    "source": "Leipziger Zeitung",
-    "lang": "de",
-    "scope": "city",
-    "date": "Sun, 24 May 2026 02:57:00 +0000"
-  },
-  {
-    "title": "WGT-Auftakt in Leipzig mit Viktorianischem Picknick im Clara-Zetkin-Park",
-    "snippet": "Ein Highlight des WGT 2026 in Leipzig ist das Viktorianische Picknick im Clara-Zetkin-Park – der stilvolle Auftakt der schwarzen Szene. Hier gibt es die Bilder.",
-    "url": "https://www.thueringer-allgemeine.de/panorama/article412077353/wgt-auftakt-in-leipzig-mit-viktorianischem-picknick-im-clara-zetkin-park.html",
-    "source": "Thüringer Allgemeine",
-    "lang": "de",
-    "scope": "region",
-    "date": "Sat, 23 May 2026 10:08:36 +0200"
-  },
-  {
-    "title": "Massenschlägerei in Sachsen - Hier prügeln sich Anwohner mit Schaufeln und Felgen",
-    "snippet": "Mockrehna (Sachsen) – In Mockrehna kommt es am Freitagabend zu einer heftigen Massenschlägerei. Rund 40 Menschen gehen dort mit Fäus...",
-    "url": "https://www.bild.de/news/inland/massenschlaegerei-in-sachsen-hier-pruegeln-sich-anwohner-mit-schaufeln-und-felgen-6a1156da3b7096456ac80528",
-    "source": "Bild Leipzig",
-    "lang": "de",
-    "scope": "city",
-    "date": "Sat, 23 May 2026 09:54:56 CEST"
-  },
-  {
-    "title": "Wellnessurlaub für den Hermann: „The Grand Dough“ ist Deutschlands erstes Sauerteighotel",
-    "snippet": "Deutschlands verrücktestes Hotel ist offiziell in Kiel zu finden: Dort gibt es jetzt eine Urlaubspension für sauren Roggen, Dinkel und Co. Gefüttert wird natürlich regelmäßig.",
-    "url": "https://www.lvz.de/reise/wellnessurlaub-fuer-den-hermann-the-grand-dough-ist-deutschlands-erstes-sauerteighotel-XGZBJP2PSBFUPPQR3OQ3SSVI6Y.html",
-    "source": "LVZ",
-    "lang": "de",
-    "scope": "city",
-    "date": "Sun, 24 May 2026 08:49:13 +0200"
-  },
-  {
-    "title": "Fäuste, Schaufeln, Baseballschläger: Massenschlägerei in Mockrehna in Nordsachsen",
-    "snippet": "Mockrehna ist ein kleiner, beschaulicher Ort in Nordsachsen. Doch am Freitagabend müssen auf einmal Polizisten aus ganz Sachsen anrücken. Grund ist eine Massenschlägerei. Sieben Menschen wurden verletzt.",
-    "url": "https://www.mdr.de/nachrichten/sachsen/leipzig/delitzsch-eilenburg-torgau/massenschlaegerei-mockrehna-gewalt-polizei-festnahme-100.html",
-    "source": "MDR Sachsen Leipzig",
-    "lang": "de",
-    "scope": "city",
-    "date": "Sat, 23 May 2026 21:15:09 +0200"
-  },
-  {
-    "title": "Verkehrsforum im Rathaus Markkleeberg",
-    "snippet": "Unter dem Motto „QUO VADIS Markkleebergs Verkehr“ findet am Donnerstag, 28. Mai 2026, das dritte Verkehrsforum im Großen Lindensaal statt. Gastgeber sind der BürgerVerein Markkleeberg e.V. und die Stadt Markkleeberg. Los geht`s um 18 Uhr. Vor einem Jahr hatte der BürgerVerein Markkleeberg zum ersten",
-    "url": "https://www.l-iz.de/melder/wortmelder/2026/05/verkehrsforum-im-rathaus-markkleeberg-658200",
-    "source": "Leipziger Zeitung",
-    "lang": "de",
-    "scope": "city",
-    "date": "Sat, 23 May 2026 12:52:59 +0000"
-  },
-  {
-    "title": "UEFA Conference League Finale: Lidl bringt den Frische-Kick nach Leipzig / Drei Tage volles Programm und Fan-Highlights im \"Frische Stadion\"",
-    "snippet": "Lidl: Bad Wimpfen (ots) - Im Vorfeld des Finales der UEFA Conference League in Leipzig begeistert Lidl die Fans mit zahlreichen Aktionen abseits des Rasens. Als Offizieller Partner der UEFA Conference League und neunfacher Gewinner des Retail Awards im ...",
-    "url": "https://www.presseportal.de/pm/58227/6280095",
-    "source": "Presseportal Topic-panorama",
-    "lang": "de",
-    "scope": "national",
-    "date": "Fri, 22 May 2026 12:00:12 +0200"
-  },
-  {
-    "title": "Bierbörse Leipzig 2026 an Pfingsten: Vier Tage Braukunst aus aller Welt am Völkerschlachtdenkmal",
-    "snippet": "Vom 22. bis 25. Mai verwandelt sich das Areal am Völkerschlachtdenkmal in einen Hotspot für Bierfreunde. 500 Sorten warten, und viele Neuerungen",
-    "url": "https://www.berliner-zeitung.de/article/bierboerse-leipzig-2026-an-pfingsten-vier-tage-braukunst-aus-aller-welt-am-voelkerschlachtdenkmal-10037587",
-    "source": "Berliner Zeitung",
-    "lang": "de",
-    "scope": "city",
-    "date": "Thu, 21 May 2026 13:59:37 GMT"
-  },
-  {
-    "title": "Nach 17 Jahren - RB Leipzig schmeißt Zeugwart-Pärchen raus",
-    "snippet": "Champions League erreicht, aber dennoch dreht RB Leipzig jetzt jeden Stein um!",
-    "url": "https://www.bild.de/sport/fussball/bundesliga-nach-13-jahren-rb-leipzig-schmeisst-zeugwart-paerchen-raus-6a1050d03b7096456ac7fc68",
-    "source": "Bild Leipzig",
-    "lang": "de",
-    "scope": "city",
-    "date": "Sat, 23 May 2026 04:47:36 CEST"
-  },
-  {
-    "title": "Bierbörse in Leipzig: Festival zwischen Vielfalt und sinkendem Alkoholkonsum",
-    "snippet": "Die Leipziger Bierbörse 2026 ist gestartet: Über Pfingsten locken 500 Biersorten am Völkerschlachtdenkmal. Bestes Genusswetter ist ebenfalls vorhergesagt. Der Eintritt ist frei.",
-    "url": "https://www.mdr.de/nachrichten/sachsen/leipzig/bier-fest-veranstaltung-pfingsten-100.html",
-    "source": "MDR Sachsen Leipzig",
-    "lang": "de",
-    "scope": "city",
-    "date": "Sat, 23 May 2026 07:00:00 +0200"
-  },
-  {
-    "title": "Fine Dining bodenständig",
-    "snippet": "Das Bistro Baerbel bietet unkompliziertes Abendessen auf hohem Niveau. Und dazu besondere Weine",
-    "url": "https://kreuzer-leipzig.de/2026/05/23/leipzig-restaurant-bistro-baerbel",
-    "source": "Kreuzer Online",
-    "lang": "de",
-    "scope": "city",
-    "date": "Sat, 23 May 2026 09:00:00 +0200"
-  },
-  {
-    "title": "Leipziger Amtsblatt 10/2026",
-    "snippet": "Themen dieser Ausgabe (Auszug): Leipzig feiert den europäischen Fußball; Stadthafen wird eröffnet; Mobile Großbrunnen für die Stadt; „Tacheles“: Jüdische Kultur erleben; Feuerwehr-Bilanz 2025 „Weit mehr als Brandbekämpfung“; Fünf Vorbild-Projekte mit Zukunftspreis ausgezeichnet; Leipzig baut Förders",
-    "url": "https://www.leipzig.de/newsarchiv/news/leipziger-amtsblatt-10-2026",
-    "source": "leipzig.de (official)",
-    "lang": "de",
-    "scope": "city",
-    "date": "Sat, 23 May 2026 00:05:00 +0200"
-  },
-  {
-    "title": "Gastkommentar von Christian Wolff: Der Geist des Grundgesetzes – durchaus ein heiliger!",
-    "snippet": "Er fällt in diesem Jahr auf den Vorabend des Pfingstfestes: der Verfassungstag. Am 23. Mai 1949 wurde das Grundgesetz der Bundesrepublik Deutschland vom Parlamentarischen Rat erlassen. Seit dem 3. Oktober 1990 ist das Grundgesetz die Verfassung des vereinten Deutschlands. Mehr als ein Grund, dies ge",
-    "url": "https://www.l-iz.de/leben/gesellschaft/2026/05/gastkommentar-von-christian-wolff-der-geist-des-grundgesetzes-durchaus-ein-heiliger-657983",
-    "source": "Leipziger Zeitung",
-    "lang": "de",
-    "scope": "city",
-    "date": "Sat, 23 May 2026 05:59:00 +0000"
   },
   {
     "title": "Leipzig gewinnt den Fußball-Cup der mitteldeutschen Berufsfeuerwehren in Halle",
@@ -243,30 +234,39 @@
     "date": "Fri, 22 May 2026 15:41:00 +0000"
   },
   {
-    "title": "Theater in Dresden, Leipzig & Chemnitz: 7 sehenswerte Stücke im Juni 2026",
-    "snippet": "Diesen Juni zeigen die Theater in Sachsen tolle Stücke. Unsere Tipps: In Chemnitz trifft sich Theater aus aller Welt, in Leipzig gibt es ein kluges Solo-Stück und in Dresden Horror-Schauspiel und Zirkustheater.",
-    "url": "https://www.mdr.de/kultur/theater/sachsen-chemnitz-dresden-leipzig-theater-juni-100.html",
-    "source": "MDR Sachsen Chemnitz",
+    "title": "Fine Dining bodenständig",
+    "snippet": "Das Bistro Baerbel bietet unkompliziertes Abendessen auf hohem Niveau. Und dazu besondere Weine",
+    "url": "https://kreuzer-leipzig.de/2026/05/23/leipzig-restaurant-bistro-baerbel",
+    "source": "Kreuzer Online",
     "lang": "de",
     "scope": "city",
-    "date": "Thu, 21 May 2026 17:18:46 +0200"
+    "date": "Sat, 23 May 2026 09:00:00 +0200"
   },
   {
-    "title": "Er hatte 218.000 Follower - Instagram-Account von DFB-Star plötzlich gelöscht",
-    "snippet": "Rätselraten um DFB-Star Benjamin Henrichs nach seiner verpassten WM-Nominierung.",
-    "url": "https://www.bild.de/sport/fussball/nationalelf-er-hatte-218-000-follower-instagram-profil-von-henrichs-geloescht-6a10255ff0f7eb608db7a5bd",
+    "title": "Murmeltiere in der Schweiz: Dies ist der beste Ort, um sie in freier Wildbahn zu sehen und zu füttern",
+    "snippet": "In der Schweizer Ferienregion Saas-Fee-Saastal leben die wohl charmantesten Bewohner der Alpen – neugierige, flauschige Murmeltiere. An diesen Orten kannst du sie beobachten.",
+    "url": "https://www.lvz.de/reise/murmeltiere-in-der-schweiz-dies-ist-der-beste-ort-um-sie-in-freier-wildbahn-zu-sehen-und-zu-fuettern-SGHAYX36J5DAJPRRU5YULNRMFM.html",
+    "source": "LVZ",
+    "lang": "de",
+    "scope": "city",
+    "date": "Sun, 24 May 2026 09:20:02 +0200"
+  },
+  {
+    "title": "Massenschlägerei in Sachsen - Hier prügeln sich Anwohner mit Schaufeln und Felgen",
+    "snippet": "Mockrehna (Sachsen) – In Mockrehna kommt es am Freitagabend zu einer heftigen Massenschlägerei. Rund 40 Menschen gehen dort mit Fäus...",
+    "url": "https://www.bild.de/news/inland/massenschlaegerei-in-sachsen-hier-pruegeln-sich-anwohner-mit-schaufeln-und-felgen-6a1156da3b7096456ac80528",
     "source": "Bild Leipzig",
     "lang": "de",
     "scope": "city",
-    "date": "Fri, 22 May 2026 18:04:17 CEST"
+    "date": "Sat, 23 May 2026 09:54:56 CEST"
   },
   {
-    "title": "Schwungvoll durch den Nachmittag: Eilenburger pflegen die Tradition des Tanztees",
-    "snippet": "Einmal im Monat gibt es im Bürgerhaus in Eilenburg zum Stachelbeerbaiser einen Discofox statt Schlagsahne. 140 Tanzwütige trägt die Musik hier durch den Nachmittag.",
-    "url": "https://www.mdr.de/video/mdr-videos/c/video-1012490.html",
+    "title": "Badesaison im Elberitzbad in Delitzsch eröffnet",
+    "snippet": "Ob Bahnenschwimmer, Dauerrutscher oder Turmspringer: in Delitzsch haben Wasserratten aller Art am Pfingstwochenende den Start in die Freibadsaison gefeiert. Die Stimmung wurde dabei durch nichts gehemmt.",
+    "url": "https://www.mdr.de/video/mdr-videos/c/video-1012612.html",
     "source": "MDR Sachsen Leipzig",
     "lang": "de",
     "scope": "city",
-    "date": "Fri, 22 May 2026 20:10:57 +0200"
+    "date": "Sat, 23 May 2026 19:32:05 +0200"
   }
 ]

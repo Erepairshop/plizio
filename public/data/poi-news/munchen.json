@@ -1,21 +1,111 @@
 [
   {
-    "title": "Polizei: A8 Richtung München nach Unfall mit Falschfahrer gesperrt",
-    "snippet": "Falschfahrer auf der A8 sorgt für Chaos: Nach einem Unfall mit mehreren Autos und Verletzten ist die Strecke Richtung München dicht. Was bisher über den Unfall und die Beteiligten bekannt ist.",
-    "url": "https://www.sueddeutsche.de/bayern/muenchen-unfall-falschfahrer-autobahn-li.3488137",
-    "source": "sueddeutsche.de",
-    "lang": "de",
-    "scope": "national",
-    "date": "Sat, 23 May 2026 14:07:58 GMT"
-  },
-  {
-    "title": "München: Eine Trachten-Unternehmerin muss ihre Dirndl neben einer Dauerbaustelle verkaufen",
-    "snippet": "Staub, Lärm – und das jahrelang: Eine Großbaustelle in München bringt Einzelhändler in Not. Hier berichtet Trachten-Unternehmerin Nina Munz über Zukunftssorgen und ihre verbliebene Hoffnung auf die Stadt.",
-    "url": "https://www.spiegel.de/panorama/gesellschaft/muenchen-eine-trachten-unternehmerin-muss-ihre-dirndl-neben-einer-dauerbaustelle-verkaufen-a-0d72100b-fb61-466e-baf0-82b7c1f06cdb#ref=rss",
+    "title": "FC Bayern München: Leon Goretzkas Abschied und die Bilanz seiner Zeit beim FCB",
+    "snippet": "Erst sollte er die Bayern in die Zukunft führen, dann wollten sie ihn loswerden. Nun hat Leon Goretzka Abschied abgenommen. Auch weil seine Qualitäten unter Trainer Vincent Kompany nicht mehr gefragt waren.",
+    "url": "https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-leon-goretzkas-abschied-und-die-bilanz-seiner-zeit-beim-fcb-a-8da15ea4-2a4e-4e84-b880-3f7161fb06f6#ref=rss",
     "source": "spiegel.de",
     "lang": "de",
     "scope": "national",
-    "date": "Sun, 24 May 2026 08:35:00 +0200"
+    "date": "Sun, 24 May 2026 16:05:00 +0200"
+  },
+  {
+    "title": "Kleingarten-Glück: Ein Stück Erde für mich",
+    "snippet": "Glück oder Geduld braucht es, dann kann einer mitten in der Stadt ein Stückchen Land haben. Wer mag, zieht Tomatenpflänzchen, sät Radieschen und erntet Äpfel. Oder liegt in der Hängematte und überlässt den Schnecken das Gemüse.",
+    "url": "https://www.sueddeutsche.de/muenchen/muenchen-kleingarten-gemuese-erde-li.3487305",
+    "source": "Süddeutsche Zeitung München",
+    "lang": "de",
+    "scope": "city",
+    "date": "Sun, 24 May 2026 11:10:18 GMT"
+  },
+  {
+    "title": "Ab ins Freibad: Die besten Tipps für den Sommer in München",
+    "snippet": "Sonne, Wasser und Sommerfeeling pur: Diese Freibäder in München bieten Abkühlung, Freizeitspaß und Erholung für die ganze Familie.",
+    "url": "https://www.tz.de/muenchen/stadt/ab-ins-freibad-die-besten-tipps-fuer-den-sommer-in-muenchen-94319297.html",
+    "source": "tz München",
+    "lang": "de",
+    "scope": "city",
+    "date": "Mon, 25 May 2026 09:01:00 +0200"
+  },
+  {
+    "title": "FlixTrain kommt nach München: Wann das Angebot starten soll – „Schnell, komfortabel, erschwinglich“",
+    "snippet": "Ab 2028 verbindet FlixTrain München mit neuen Direktverbindungen – mit Zügen, die bis zu 230 km/h schnell sind.",
+    "url": "https://www.merkur.de/lokales/muenchen/flixtrain-kommt-nach-muenchen-wann-das-angebot-starten-soll-schnell-komfortabel-erschwinglich-94320321.html",
+    "source": "Münchner Merkur",
+    "lang": "de",
+    "scope": "city",
+    "date": "Sun, 24 May 2026 10:09:58 +0200"
+  },
+  {
+    "title": "Oelder Fanclub lädt Mennekes vom FC Bayern München ein",
+    "snippet": "Der Zweite Vizepräsident des FC Bayern München, Walter Mennekes, ist am 3. Juni zu Gast beim Verein „feiernmitbayern“ - nicht nur für Bayer-Fans.",
+    "url": "https://www.die-glocke.de/kreis-warendorf/oelde/artikel/oelder-fanclub-laedt-mennekes-vom-fc-bayern-muenchen-ein-1779459606",
+    "source": "Die Glocke oelde",
+    "lang": "de",
+    "scope": "city",
+    "date": "Mon, 25 May 2026 07:08:00 +0200"
+  },
+  {
+    "title": "Die Moviebande gewinnt den Dokumentarfilmpreis beim 41. DOK.fest München",
+    "snippet": "Mit ihrem Film „Überlebt - eine Welt ohne WLAN“ thematisiert das Team Nachhaltigkeit und Generationendialog und begeistert die Jury.",
+    "url": "https://www.augsburger-allgemeine.de/noerdlingen/dokumentarfilmpreis-moviebande-gewinnt-dok-fest-muenchen-mit-nachhaltigkeit-114304570",
+    "source": "Augsburger Allgemeine (Ries)",
+    "lang": "de",
+    "scope": "region",
+    "date": "2026-05-24T17:03:54Z"
+  },
+  {
+    "title": "Konzert der Münchner Philharmoniker: Unter Strom - auch ohne Yuja Wang",
+    "snippet": "Behzod Abduraimov springt beim Konzert der Münchner Philharmoniker kurzfristig für Star-Pianistin Yuja Wang ein und überzeugt auf ganzer Linie.",
+    "url": "https://www.sueddeutsche.de/muenchen/konzert-muenchen-isarphilharmonie-muenchner-philharmoniker-yuja-wang-behzod-abduraimov-kritik-li.3472903",
+    "source": "Süddeutsche Zeitung München",
+    "lang": "de",
+    "scope": "city",
+    "date": "Sun, 24 May 2026 10:09:56 GMT"
+  },
+  {
+    "title": "Hitze-Knall in Bayern: Auch München schwitzt in den Pfingstferien – Gewitter drohen",
+    "snippet": "Bis zu 34 Grad: Bayern startet mit Hochsommer in die Pfingstferien – doch nicht überall bleibt es trocken. Gewitter drohen.",
+    "url": "https://www.tz.de/muenchen/stadt/hitze-knall-in-bayern-auch-muenchen-schwitzt-gewitter-drohen-94320814.html",
+    "source": "tz München",
+    "lang": "de",
+    "scope": "city",
+    "date": "Mon, 25 May 2026 08:54:53 +0200"
+  },
+  {
+    "title": "Ex-Bayern-Star Gomez packt über fatalen Fehler im CL-Finale 2012 aus",
+    "snippet": "Für Mario Gomez hagelte es beim FC Bayern einiges an Kritik. Jetzt gibt der frühere Stürmer zu: Möglicherweise trägt er daran auch eine Mitschuld.",
+    "url": "https://www.merkur.de/sport/fc-bayern/ex-bayern-star-gomez-packt-ueber-champions-league-fehler-aus-zr-94320866.html",
+    "source": "Münchner Merkur",
+    "lang": "de",
+    "scope": "city",
+    "date": "Mon, 25 May 2026 09:53:12 +0200"
+  },
+  {
+    "title": "Rätselraten in den Alpen: Keine Behörde weiß, wer das Bauwerk errichtet hat",
+    "snippet": "Gemeinde, Landratsamt und Staatsforsten tappen im Dunkeln: Eine Stahlplattform am Dammkartunnel in Mittenwald wurde offenbar ohne jede Genehmigung gebaut.",
+    "url": "https://www.tz.de/muenchen/region/raetselraten-in-den-alpen-keine-behoerde-weiss-wer-das-bauwerk-errichtet-hat-94317987.html",
+    "source": "tz München",
+    "lang": "de",
+    "scope": "city",
+    "date": "Mon, 25 May 2026 08:00:00 +0200"
+  },
+  {
+    "title": "Wirtschaftsweiser kritisiert GKV-Finanzierung für Bürgergeldempfänger: „Bund macht schlanken Fuß“",
+    "snippet": "Der Ökonom Achim Truger will Beamte in die gesetzliche Krankenversicherung holen. Er sieht darin mehr Gerechtigkeit. Auch die Bürgergeld-Finanzierung gerät dabei in den Fokus.",
+    "url": "https://www.merkur.de/wirtschaft/wirtschaftsweiser-kritisiert-gkv-finanzierung-fuer-buergergeldempfaenger-bund-macht-schlanken-fuss-94320862.html",
+    "source": "Münchner Merkur",
+    "lang": "de",
+    "scope": "city",
+    "date": "Mon, 25 May 2026 09:50:49 +0200"
+  },
+  {
+    "title": "Bundespolizeidirektion München: Unbekannte legen Steine auf Gleise - Lebensgefahr",
+    "snippet": "Nürnberg (ots) - Am Samstagabend (16.Mai) haben bislang Unbekannte auf der Bahnstrecke von Donauwörth nach Treuchtlingen wiederholt Steine auf die Schienen gelegt. Nach aktuellem Ermittlungsstand wurden im Zeitraum zwischen 18:00 Uhr und 22:20 Uhr ...",
+    "url": "https://www.presseportal.de/blaulicht/pm/64017/6280139",
+    "source": "Presseportal Polizei-BY",
+    "lang": "de",
+    "scope": "national",
+    "date": "Fri, 22 May 2026 12:25:51 +0200"
   },
   {
     "title": "Bayern München gewinnt DFB-Pokalfinale in Berlin",
@@ -27,22 +117,22 @@
     "date": "Sat, 23 May 2026 22:22:28 +0200"
   },
   {
-    "title": "Hattrick von Harry Kane: FC Bayern München gewinnt DFB-Pokalfinale gegen Stuttgart",
-    "snippet": "Ohne Neuer, mit Protesten im Stadion und einem herausragenden Harry Kane: Wie die Bayern Stuttgarts Träume von der Titelverteidigung in Berlin beim 3:0 platzen lassen.",
-    "url": "https://www.tagesspiegel.de/sport/hattrick-von-harry-kane-fc-bayern-munchen-gewinnt-dfb-pokalfinale-gegen-stuttgart-15634077.html",
-    "source": "Tagesspiegel",
+    "title": "Premiere von „La Traviata“ am Gärtnerplatztheater: Zwischen großer Leidenschaft und trostlosem Ende",
+    "snippet": "Am Gärtnerplatztheater überzeugt „La Traviata“ musikalisch fast durchweg – Regie und Bühne können da allerdings nicht mithalten.",
+    "url": "https://www.sueddeutsche.de/muenchen/gaertnerplatztheater-muenchen-la-traviata-premiere-kritik-li.3472899",
+    "source": "Süddeutsche Zeitung München",
     "lang": "de",
     "scope": "city",
-    "date": "Sat, 23 May 2026 21:59:19 +0200"
+    "date": "Sat, 23 May 2026 09:24:22 GMT"
   },
   {
-    "title": "Täglich kommen viele Menschen, um sie zu bestaunen: Was es mit München-Attraktion auf sich hat",
-    "snippet": "Wenn das Glockenspiel am Turm des Neuen Rathauses ertönt, staut es sich am Marienplatz. Was viele über die Münchner Sehenswürdigkeit vermutlich nicht wissen.",
-    "url": "https://www.tz.de/muenchen/stadt/altstadt-lehel-ort43327/taeglich-kommen-viele-menschen-um-muenchen-attraktion-zu-bestaunen-spannende-details-94320256.html",
+    "title": "Werden Teile der Münchner Altstadt zur Fußgängerzone? Pläne lösen große Sorge aus",
+    "snippet": "Die Grünen haben im Stadtrat beantragt, Rosental und Prälat-Zistl-Straße für Autos zu sperren. Marianne Reit wohnt in der Altenwohnanlage am Sebastiansplatz und kann nur noch 50 Meter laufen.",
+    "url": "https://www.tz.de/muenchen/stadt/altstadt-lehel-ort43327/gruene-wollen-altstadt-zur-fussgaengerzone-machen-gehbehinderte-fuerchtet-um-versorgung-94315226.html",
     "source": "tz München",
     "lang": "de",
     "scope": "city",
-    "date": "Sun, 24 May 2026 08:04:37 +0200"
+    "date": "Sun, 24 May 2026 10:00:00 +0200"
   },
   {
     "title": "Also doch: Giesinger auf dem Oktoberfest!",
@@ -54,15 +144,6 @@
     "date": "Sat, 23 May 2026 20:00:00 +0200"
   },
   {
-    "title": "Oper: Zwischen großer Leidenschaft und trostlosem Ende",
-    "snippet": "Am Gärtnerplatztheater überzeugt „La Traviata“ musikalisch fast durchweg – auch wenn Regie und Bühne nicht immer mithalten können.",
-    "url": "https://www.sueddeutsche.de/muenchen/gaertnerplatztheater-muenchen-la-traviata-auffuehrung-kritik-li.3472899",
-    "source": "Süddeutsche Zeitung München",
-    "lang": "de",
-    "scope": "city",
-    "date": "Sat, 23 May 2026 09:24:22 GMT"
-  },
-  {
     "title": "Nach 25 Jahren: Christoph Nadler gibt Fraktionsvorsitz ab",
     "snippet": "Christoph Nadler tritt als Fraktionschef der Grünen im Kreistag zurück. Christina Risinger und Johannes Rohleder übernehmen als Doppelspitze.",
     "url": "https://www.hallo-muenchen.de/muenchen/landkreis-ost/nach-25-jahren-christoph-nadler-gibt-fraktionsvorsitz-ab-94318933.html",
@@ -72,22 +153,31 @@
     "date": "Sun, 24 May 2026 07:39:00 +0200"
   },
   {
-    "title": "FC Bayern München: Hoeneß zu Eberl-Zukunft: „Da sind noch Zweifel“",
-    "snippet": "Die Zukunft von Max Eberl beim FC Bayern München ist spannend. Uli Hoeneß sieht die Tendenz zu einer Verlängerung. Komplett überzeugt hat der Sportvorstand seiner Meinung nach aber nicht.",
-    "url": "https://www.tagesspiegel.de/sport/fc-bayern-munchen-hoeness-zu-eberl-zukunft-da-sind-noch-zweifel-15633097.html",
-    "source": "Tagesspiegel",
+    "title": "Star-DJ und Fußball-Fan: Warum sich Purple Disco Machine für Dynamo Dresden und Bayern München freut",
+    "snippet": "Purple Disco Machine lässt Dresden über Pfingsten lila leuchten. Dabei mag der Star-DJ und bekennender Fußball-Fan sportlich lieber andere Farben. Im Schwarz-Gelb-Podcast spricht er über seine Leidenschaft für Bayern München und vor allem Dynamo. Zu Kapitän Kutschke besteht eine besondere Verbindung",
+    "url": "https://www.saechsische.de/sport/regional/star-dj-und-fussball-fan-warum-sich-purple-disco-machine-fuer-dynamo-dresden-und-bayern-muenchen-Y2646OVYN5G4RDX6WTTTZ4E6PU.html",
+    "source": "Saechsische Zeitung",
     "lang": "de",
-    "scope": "city",
-    "date": "Sat, 23 May 2026 13:54:11 +0200"
+    "scope": "state",
+    "date": "Sun, 24 May 2026 09:59:05 +0200"
   },
   {
-    "title": "„30 Jahre 1860 Chaoten“: Polizei nimmt Löwen-Schmierer fest",
-    "snippet": "Die vermummten Männer hatten Hausmauern, Verkehrszeichen und Stromkästen besprüht. Einer der Beamten wurde bei der Festnahme leicht verletzt.",
-    "url": "https://www.tz.de/muenchen/stadt/polizei-nimmt-drei-loewen-fans-fest-einer-muss-zu-boden-gebracht-werden-94318995.html",
+    "title": "Prozess vor dem Landgericht München I: 400 000 Euro weg – Autohändler nimmt Seniorin „bis zum letzten Atemzug“ aus",
+    "snippet": "Die Frau hatte geglaubt, ihr Geld werde angelegt – doch es kam anders. Bei der Urteilsverkündung findet der Richter deutliche Worte für den Angeklagten und dessen Komplize: einen bekannten Münchner Strafverteidiger.",
+    "url": "https://www.sueddeutsche.de/muenchen/muenchen-autohaendler-betrug-seniorin-rechtsanwalt-li.3486545",
+    "source": "Süddeutsche Zeitung München",
+    "lang": "de",
+    "scope": "city",
+    "date": "Fri, 22 May 2026 16:45:08 GMT"
+  },
+  {
+    "title": "„Teufelskreis“: 17-Jährige kämpft nach einer Grippe mit einer tückischen Krankheit",
+    "snippet": "Melina (17) aus Oberbayern kann kaum Licht oder Geräusche ertragen. Sie leidet an ME/CFS. Ihre Eltern haben alles aufgegeben – und kämpfen täglich weiter.",
+    "url": "https://www.tz.de/muenchen/region/grippe-ohnmacht-pflegestufe-schicksal-einer-17-jaehrigen-aus-oberbayern-94320287.html",
     "source": "tz München",
     "lang": "de",
     "scope": "city",
-    "date": "Sun, 24 May 2026 08:00:00 +0200"
+    "date": "Sun, 24 May 2026 09:03:36 +0200"
   },
   {
     "title": "„Lieber zwei Arbeiten, als zum Sozialamt“: Rentnerin hat in München kaum Geld zum Leben übrig",
@@ -108,13 +198,22 @@
     "date": "Sat, 23 May 2026 18:35:00 +0200"
   },
   {
-    "title": "Ab München: Billig-Airline mit neuem Angebot in Millionenmetropole",
-    "snippet": "Die Billig-Airline flynas geht in München mit einem neuen Angebot an den Start. Los gehen soll es noch in diesem Sommer.",
-    "url": "https://www.tz.de/muenchen/region/ab-muenchen-billig-airline-mit-neuem-angebot-in-millionenmetropole-94320115.html",
+    "title": "News-Überblick: Das sind die Nachrichten des Tages",
+    "snippet": "Wo das Eis in der Stadt am besten schmeckt, weshalb Bäume immer wieder zum Streitthema werden, warum ein AfD-Politiker Stimmen von CSU und FDP erhalten hat und mehr.",
+    "url": "https://www.sueddeutsche.de/muenchen/muenchen-nachrichten-eis-baeume-mvg-politik-festival-li.3487860",
+    "source": "Süddeutsche Zeitung München",
+    "lang": "de",
+    "scope": "city",
+    "date": "Fri, 22 May 2026 15:46:17 GMT"
+  },
+  {
+    "title": "Täglich kommen viele Menschen, um sie zu bestaunen: Was es mit München-Attraktion auf sich hat",
+    "snippet": "Wenn das Glockenspiel am Turm des Neuen Rathauses ertönt, staut es sich am Marienplatz. Was viele über die Münchner Sehenswürdigkeit vermutlich nicht wissen.",
+    "url": "https://www.tz.de/muenchen/stadt/altstadt-lehel-ort43327/taeglich-kommen-viele-menschen-um-muenchen-attraktion-zu-bestaunen-spannende-details-94320256.html",
     "source": "tz München",
     "lang": "de",
     "scope": "city",
-    "date": "Sat, 23 May 2026 20:13:55 +0200"
+    "date": "Sun, 24 May 2026 08:04:37 +0200"
   },
   {
     "title": "Autofriedhof am Riemer Park: Stadt kann Schrottkarren nicht abschleppen",
@@ -135,138 +234,39 @@
     "date": "Sat, 23 May 2026 15:34:00 +0200"
   },
   {
-    "title": "Bundespolizeidirektion München: Unbekannte legen Steine auf Gleise - Lebensgefahr",
-    "snippet": "Nürnberg (ots) - Am Samstagabend (16.Mai) haben bislang Unbekannte auf der Bahnstrecke von Donauwörth nach Treuchtlingen wiederholt Steine auf die Schienen gelegt. Nach aktuellem Ermittlungsstand wurden im Zeitraum zwischen 18:00 Uhr und 22:20 Uhr ...",
-    "url": "https://www.presseportal.de/blaulicht/pm/64017/6280139",
-    "source": "Presseportal Polizei-BY",
-    "lang": "de",
-    "scope": "national",
-    "date": "Fri, 22 May 2026 12:25:51 +0200"
-  },
-  {
-    "title": "„Da braut sich etwas zusammen“: Warum Münchner Isarbrücke meiden sollten",
-    "snippet": "Was Sie vor einem Besuch der Reichenbachbrücke wissen sollten: tz.de-Kolumnist Flaucherfranzl ist der beliebte Treffpunkt nicht geheuer – wie er in seinem neuen Video unterstreicht.",
-    "url": "https://www.tz.de/muenchen/stadt/ludwigsvorstadt-isarvorstadt-ort43328/da-braut-sich-etwas-zusammen-warum-muenchner-isarbruecke-meiden-sollten-94315371.html",
-    "source": "tz München",
-    "lang": "de",
-    "scope": "city",
-    "date": "Sat, 23 May 2026 08:47:00 +0200"
-  },
-  {
-    "title": "Nach Tod in der Isar: Remo (†19) beerdigt – auf seinem Sarg steht „Freiheit“",
-    "snippet": "Der Sohn der Schauspielerin Lara Joy Körner wurde am Freitag auf dem Friedhof Bogenhausen beigesetzt. Familie und Freunde hinterließen bunte Botschaften auf dem naturbelassenen Holzsarg.",
-    "url": "https://www.merkur.de/lokales/muenchen/bogenhausen-ort43345/remo-aime-pollert-beerdigt-freiheit-steht-auf-seinem-sarg-94318692.html",
+    "title": "Zur Fußball-WM: Krause kickt Sperrstunde in München – was das für Public-Viewing-Events bedeutet",
+    "snippet": "München erlaubt zur WM längeres Public Viewing. Gezeigt werden darf bis 1 Uhr und wieder ab 6 Uhr. Für manche Betriebe bleibt es trotzdem bei 22 Uhr.",
+    "url": "https://www.merkur.de/lokales/muenchen/wegen-fussball-wm-ob-dominik-krause-kickt-die-sperrstunde-in-muenchen-94317835.html",
     "source": "Münchner Merkur",
     "lang": "de",
     "scope": "city",
-    "date": "Fri, 22 May 2026 14:01:53 +0200"
+    "date": "Fri, 22 May 2026 08:11:00 +0200"
   },
   {
-    "title": "Prozess vor dem Landgericht München I: 400 000 Euro weg – Autohändler nimmt Seniorin „bis zum letzten Atemzug“ aus",
-    "snippet": "Die Frau hatte geglaubt, ihr Geld werde angelegt – doch es kam anders. Bei der Urteilsverkündung findet der Richter deutliche Worte für den Angeklagten und dessen Komplize: einen bekannten Münchner Strafverteidiger.",
-    "url": "https://www.sueddeutsche.de/muenchen/muenchen-autohaendler-betrug-seniorin-rechtsanwalt-li.3486545",
-    "source": "Süddeutsche Zeitung München",
+    "title": "Lässig bis in die Fingerspitzen: Eric Clapton in München",
+    "snippet": "Bestens durchorganisiert, glasklarer Sound, intensives Hörerlebnis: Das 95-Minuten-Hochamt des Gitarren-Gotts in der Oympiahalle.",
+    "url": "https://www.augsburger-allgemeine.de/kultur/die-reine-hoerlust-in-muenchen-eric-clapton-singt-seufzt-und-jammert-mit-der-gitarre-114254280",
+    "source": "Augsburger Allgemeine — more sections",
     "lang": "de",
-    "scope": "city",
-    "date": "Fri, 22 May 2026 16:45:08 GMT"
-  },
-  {
-    "title": "BND zapfte geheimes SED-Richtfunknetz an – und blieb trotzdem unbeliebt",
-    "snippet": "Historiker haben in Pullach einen neuen Band über den Bundesnachrichtendienst nach der Ära Gehlen vorgestellt. Trotz erfolgreicher Spionage nannte Kanzler Helmut Schmidt die Pullacher einen „Dilettanten-Verein\".",
-    "url": "https://www.hallo-muenchen.de/muenchen/landkreis-suedost/bnd-zapfte-geheimes-sed-richtfunknetz-an-und-blieb-trotzdem-unbeliebt-94318899.html",
-    "source": "Hallo München",
-    "lang": "de",
-    "scope": "city",
-    "date": "Sat, 23 May 2026 07:00:00 +0200"
+    "scope": "state",
+    "date": "2026-05-21T14:38:00Z"
   },
   {
     "title": "Aus Sicherheitsgründen: Flughafen München sperrt beliebtes Ziel für Familien und Fotografen",
     "snippet": "Vor allem Familien mit Kindern und Planespotter tummelten sich dort: Am Flughafen München wurden jüngst Park-Nischen für Besucher gesperrt. Die FMG erklärt, warum.",
-    "url": "https://www.merkur.de/lokales/erding/flughafen-muenchen-ort60188/beendet-auto-stopps-an-startbahn-beliebtes-ziel-fuer-familien-und-fotografen-gesperrt-flughafen-muenchen-94315519.html",
+    "url": "https://www.merkur.de/lokales/erding/flughafen-muenchen-ort60188/flughafen-muenchen-beendet-auto-stopps-an-startbahn-beliebtes-ziel-fuer-familien-und-fotografen-gesperrt-94315519.html",
     "source": "Merkur (Münchner Merkur)",
     "lang": "de",
     "scope": "state",
     "date": "Thu, 21 May 2026 12:00:00 +0200"
   },
   {
-    "title": "„Wirklich ein kleines Paradies“: Was Freibad in München so besonders macht",
-    "snippet": "Die Saison in Münchens Freibädern nimmt wieder Fahrt auf. Schon traditionell steht das zweitälteste der Stadt besonders im Fokus.",
-    "url": "https://www.tz.de/muenchen/stadt/thalkirchen-obersendling-forstenried-fuerstenried-solln-ort43351/wirklich-ein-kleines-paradies-was-freibad-in-muenchen-so-besonders-macht-94315284.html",
-    "source": "tz München",
-    "lang": "de",
-    "scope": "city",
-    "date": "Sat, 23 May 2026 07:45:00 +0200"
-  },
-  {
-    "title": "Im Münchner Osten: „Person unter Lkw geraten“ – Großeinsatz mit Hubschrauber",
-    "snippet": "Am Freitagmittag läuft im Osten von München ein größerer Rettungseinsatz. Eine Person erlitt bei einem Unfall schwere Verletzungen.",
-    "url": "https://www.merkur.de/lokales/muenchen/trudering-riem-ort43347/person-unter-lkw-geraten-grosseinsatz-mit-rettungshubschrauber-94318462.html",
+    "title": "„Maulwurf“ für München: Erste Tunnelbohrmaschine für 2. Stammstrecke ist fertig – exklusive Bilder",
+    "snippet": "Gut neun Jahre nach dem Spatenstich soll demnächst der erste Tunnel für die 2. Stammstrecke der S-Bahn gebohrt werden. Die Maschine dafür steht noch in einer Werkshalle in Baden-Württemberg.",
+    "url": "https://www.merkur.de/lokales/muenchen/maulwurf-fuer-muenchen-erste-tunnelbohrmaschine-fuer-stammstrecke-ist-fertig-94317248.html",
     "source": "Münchner Merkur",
     "lang": "de",
     "scope": "city",
-    "date": "Fri, 22 May 2026 12:51:01 +0200"
-  },
-  {
-    "title": "News-Überblick: Das sind die Nachrichten des Tages",
-    "snippet": "Wo das Eis in der Stadt am besten schmeckt, weshalb Bäume immer wieder zum Streitthema werden, warum ein AfD-Politiker Stimmen von CSU und FDP erhalten hat und mehr.",
-    "url": "https://www.sueddeutsche.de/muenchen/muenchen-nachrichten-eis-baeume-mvg-politik-festival-li.3487860",
-    "source": "Süddeutsche Zeitung München",
-    "lang": "de",
-    "scope": "city",
-    "date": "Fri, 22 May 2026 15:46:17 GMT"
-  },
-  {
-    "title": "NS-Euthanasiemorde in Haar: Autor liest über Schicksal der eigenen Großtante",
-    "snippet": "Christoph Poschenrieder fand seine Großtante Hedwig im Gedenkbuch für NS-Euthanasie-Opfer. Sie wurde 1944 in der Heil- und Pflegeanstalt Eglfing-Haar ermordet.",
-    "url": "https://www.hallo-muenchen.de/muenchen/landkreis-ost/haar-autor-liest-ueber-ermordete-grosstante-300-meter-vom-tatort-entfernt-94318894.html",
-    "source": "Hallo München",
-    "lang": "de",
-    "scope": "city",
-    "date": "Sat, 23 May 2026 05:29:00 +0200"
-  },
-  {
-    "title": "Die zehn höchsten Hochhäuser in Bayern – Platz zwei steht nicht in München",
-    "snippet": "Bayern hat keine Städte, deren Silhouetten von Wolkenkratzern geprägt sind. Dennoch sind einige Tower dabei, die stattliche Größen haben.",
-    "url": "https://www.tz.de/muenchen/region/die-zehn-hoechsten-hochhaeuser-in-bayern-platz-zwei-steht-nicht-in-muenchen-94315282.html",
-    "source": "tz München",
-    "lang": "de",
-    "scope": "city",
-    "date": "Sat, 23 May 2026 06:20:00 +0200"
-  },
-  {
-    "title": "Ihr Team beschützt das Herz der Polizei: Diese Frau leitet ab sofort die Wache des Präsidiums",
-    "snippet": "Mitten in der Fußgängerzone schlägt das Herz der Münchner Polizei – und ab sofort hat es eine neue Hüterin. Polizeioberrätin Michaela Vetter leitet die Inspektion Wache am Präsidium an der Ettstraße.",
-    "url": "https://www.merkur.de/lokales/muenchen/ihr-team-beschuetzt-das-herz-der-polizei-michaela-vetter-leitet-ab-sofort-die-hauswache-des-praesidiums-94318107.html",
-    "source": "Münchner Merkur",
-    "lang": "de",
-    "scope": "city",
-    "date": "Fri, 22 May 2026 10:48:00 +0200"
-  },
-  {
-    "title": "Kelly Rutherford in München: Gossip-Girl-Star stellt Hundeshampoo vor",
-    "snippet": "Über einen Nachmittag mit sehr viel Beige, vielen sehr kleinen Hunden und der Frage, wer sich bei dem Event in einem Münchner Modehaus eigentlich für Fellpflege interessiert.",
-    "url": "https://www.sueddeutsche.de/muenchen/muenchen-kelly-rutherford-gossip-girl-simply-wau-breuninger-li.3482412",
-    "source": "Süddeutsche Zeitung München",
-    "lang": "de",
-    "scope": "city",
-    "date": "Fri, 22 May 2026 13:55:12 GMT"
-  },
-  {
-    "title": "Schwedenrestaurant eröffnet mit Self-Order-Kiosken statt Schlange",
-    "snippet": "Ikea Taufkirchen hat sein Restaurant vier Monate lang umgebaut. Kunden bestellen und bezahlen jetzt an digitalen Terminals – oder stellen sich wie bisher an.",
-    "url": "https://www.hallo-muenchen.de/muenchen/landkreis-suedost/schwedenrestaurant-eroeffnet-mit-self-order-kiosken-statt-schlange-94318681.html",
-    "source": "Hallo München",
-    "lang": "de",
-    "scope": "city",
-    "date": "Fri, 22 May 2026 18:16:00 +0200"
-  },
-  {
-    "title": "International gefeierte Formula 1®-Ausstellung in München eröffnet",
-    "snippet": "Alegria Exhibition GmbH: München (ots) - Die offizielle Formula 1®-Wanderausstellung hat ihre Türen im Pineapple Park geöffnet. Auf 3.000 Quadratmetern verbindet sie ab sofort originale F1®-Fahrzeuge, seltene Exponate, multimediale Inszenierungen und interaktive ...",
-    "url": "https://www.presseportal.de/pm/172517/6277917",
-    "source": "Presseportal Topic-auto-verkehr",
-    "lang": "de",
-    "scope": "national",
-    "date": "Tue, 19 May 2026 13:53:05 +0200"
+    "date": "Fri, 22 May 2026 07:00:00 +0200"
   }
 ]

@@ -9,15 +9,6 @@
     "date": "Fri, 22 May 2026 00:00:00 +0200"
   },
   {
-    "title": "Ehrentag im Isy7: Ehrenamt kann auch Pommes, Minec-raft und Boxtraining",
-    "snippet": "Ehrenamt klingt manchmal nach Sitzung, Formular und langer Verpflichtung. Am Freitag, 22. Mai 2026, zeigt Espelkamp, dass Ehrenamt auch ganz anders aussehen kann: lebendig, kreativ, sportlich, unkompliziert und mitten aus dem ...",
-    "url": "https://www.espelkamp.de/index.php?ModID=255&FID=2862.2597.1&object=tx%2C2862.55",
-    "source": "Espelkamp (official)",
-    "lang": "de",
-    "scope": "city",
-    "date": "Wed, 20 May 2026 00:00:00 +0200"
-  },
-  {
     "title": "Kostenlose Schadstoffsammlung am 27. Mai",
     "snippet": "Die nächste Schadstoffsammlung in der Stadt Espelkamp findet am Mittwoch, 27. Mai auf dem Hof gegenüber der Feuerwache, An der Feuerwache 3, in Espelkamp, in der Zeit von 16:00 bis 18:00 Uhr statt. ...",
     "url": "https://www.espelkamp.de/index.php?ModID=255&FID=2862.1954.1&object=tx%2C2862.55",
@@ -27,13 +18,13 @@
     "date": "Wed, 20 May 2026 00:00:00 +0200"
   },
   {
-    "title": "STADTRADELN geht in die nächste Runde",
-    "snippet": "STADTRADELN geht in die nächste Runde Kilometer sammeln, frische Luft genießen und dabei gemeinsam etwas bewegen: Auch in diesem Jahr beteiligt sich die Stadt Espelkamp wieder an der Aktion STADTRADELN. Ab Pfingstmontag, ...",
-    "url": "https://www.espelkamp.de/index.php?ModID=255&FID=2862.2595.1&object=tx%2C2862.55",
+    "title": "Ehrentag im Isy7: Ehrenamt kann auch Pommes, Minec-raft und Boxtraining",
+    "snippet": "Ehrenamt klingt manchmal nach Sitzung, Formular und langer Verpflichtung. Am Freitag, 22. Mai 2026, zeigt Espelkamp, dass Ehrenamt auch ganz anders aussehen kann: lebendig, kreativ, sportlich, unkompliziert und mitten aus dem ...",
+    "url": "https://www.espelkamp.de/index.php?ModID=255&FID=2862.2597.1&object=tx%2C2862.55",
     "source": "Espelkamp (official)",
     "lang": "de",
     "scope": "city",
-    "date": "Tue, 19 May 2026 00:00:00 +0200"
+    "date": "Wed, 20 May 2026 00:00:00 +0200"
   },
   {
     "title": "Seniorenvertretung Espelkamp wird neu gewählt",
@@ -45,15 +36,6 @@
     "date": "Sat, 16 May 2026 00:00:00 +0200"
   },
   {
-    "title": "Sperrung Zuwegung Brückenbauwerk Nr. 10",
-    "snippet": "22.05.2026 Sperrung Zuwegung Brückenbauwerk Nr. 10 Textanriss &uuml;berspringen An dem neuen Br&uuml;ckenbauwerk Nr. 10 zwischen dem Kleih&uuml;gelsee und dem Auesee werden vom 26.05.2026 bis 27.05.2026 die M&auml;ngel der Zuwegungen ...",
-    "url": "https://www.espelkamp.de/Start/Sperrung-Zuwegung-Br%C3%BCckenbauwerk-Nr-10.php?object=tx,2862.55&amp;ModID=7&amp;FID=2862.2598.1&amp;NavID=2862.208",
-    "source": "espelkamp.de (hivatalos)",
-    "lang": "de",
-    "scope": "city",
-    "date": ""
-  },
-  {
     "title": "Neuer Händler auf dem Espelkamper Wochenmarkt",
     "snippet": "Ab sofort ist Sebastian Wetter aus Hille mit einem eigenen Verkaufsstand auf dem Espelkamper Wochenmarkt vertreten. Im Mittelpunkt stehen frische Produkte aus eigener bzw. regionaler Erzeugung. Zum Sortiment gehören in der Regel: ...",
     "url": "https://www.espelkamp.de/index.php?ModID=255&FID=2862.2593.1&object=tx%2C2862.55",
@@ -61,6 +43,15 @@
     "lang": "de",
     "scope": "city",
     "date": "Thu, 14 May 2026 00:00:00 +0200"
+  },
+  {
+    "title": "Sperrung Zuwegung Brückenbauwerk Nr. 10",
+    "snippet": "22.05.2026 Sperrung Zuwegung Brückenbauwerk Nr. 10 Textanriss &uuml;berspringen An dem neuen Br&uuml;ckenbauwerk Nr. 10 zwischen dem Kleih&uuml;gelsee und dem Auesee werden vom 26.05.2026 bis 27.05.2026 die M&auml;ngel der Zuwegungen ...",
+    "url": "https://www.espelkamp.de/Start/Sperrung-Zuwegung-Br%C3%BCckenbauwerk-Nr-10.php?object=tx,2862.55&amp;ModID=7&amp;FID=2862.2598.1&amp;NavID=2862.208",
+    "source": "espelkamp.de (hivatalos)",
+    "lang": "de",
+    "scope": "city",
+    "date": ""
   },
   {
     "title": "Junges Ehrenamt wird ausgezeichnet: Reiche deinen Vorschlag bis 17. Mai ein!",

@@ -1,5 +1,14 @@
 [
   {
+    "title": "Sperrung des Ladeholzes in Sehnde aufgehoben",
+    "snippet": "Das Ladeholz in Sehnde ist wieder zugänglich. Die Stadt hatte das Naherholungsgebiet zuletzt am 5. Mai wegen erkrankter Eschen gesperrt. Doch die Gefahr ist nicht gebannt. Waldspaziergänger sollten weiterhin achtsam sein.",
+    "url": "https://www.neuepresse.de/lokales/umland/sehnde/sperrung-des-ladeholzes-in-sehnde-aufgehoben-QQ37AP6BYJHRDDQWKGCGFEJGSM.html",
+    "source": "Neue Presse Hannover",
+    "lang": "de",
+    "scope": "city",
+    "date": "Sun, 24 May 2026 09:15:00 +0200"
+  },
+  {
     "title": "Sprechstunde Sanierungsmanagement",
     "snippet": "Sehnde bietet wichtiges Informations- und Beratungsangebot",
     "url": "https://www.sehnde.de/portal/meldungen/sprechstunde-sanierungsmanagement-915004142-22550.html?rubrik=915000004",
@@ -25,6 +34,24 @@
     "lang": "de",
     "scope": "city",
     "date": "Fri, 22 May 2026 12:19:00 +0200"
+  },
+  {
+    "title": "Veranstaltungsreihe Klima & Gender",
+    "snippet": "",
+    "url": "https://www.sehnde.de/portal/meldungen/veranstaltungsreihe-klima-gender-915004679-22550.html?rubrik=915000022",
+    "source": "Sehnde (official)",
+    "lang": "de",
+    "scope": "city",
+    "date": "Fri, 22 May 2026 08:00:00 +0200"
+  },
+  {
+    "title": "Sperrung des Ladeholzes aufgehoben",
+    "snippet": "Hintergrund der vorübergehenden Sperrung waren erneut erhebliche Schäden am Eschenbestand.",
+    "url": "https://www.sehnde.de/portal/meldungen/sperrung-des-ladeholzes-aufgehoben-915004700-22550.html?rubrik=915000029",
+    "source": "Sehnde (official)",
+    "lang": "de",
+    "scope": "city",
+    "date": "Thu, 21 May 2026 16:01:00 +0200"
   },
   {
     "title": "Stadtradeln 2026",
@@ -61,14 +88,5 @@
     "lang": "de",
     "scope": "city",
     "date": "Tue, 12 May 2026 15:31:00 +0200"
-  },
-  {
-    "title": "Straßensanierungsarbeiten Ilten & Rethmar",
-    "snippet": "Die bauausführende Firma hat neue Termin für die Fertigstellung benannt: Rethmar: 21.05.2026 Ilten: 26. & 27.05.2026",
-    "url": "https://www.sehnde.de/portal/meldungen/strassensanierungsarbeiten-ilten-rethmar-915004430-22550.html?rubrik=915000024",
-    "source": "Sehnde (official)",
-    "lang": "de",
-    "scope": "city",
-    "date": "Tue, 12 May 2026 10:32:00 +0200"
   }
 ]

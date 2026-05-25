@@ -1,5 +1,32 @@
 [
   {
+    "title": "Viszket a szeme, folyik az orra? Itt a legfrisebb pollenjelentés",
+    "snippet": "Tart a pollenszezon kora nyári, átmeneti időszaka.",
+    "url": "https://www.vaol.hu/helyi-kozelet/2026/05/pollenjelentes-allergia-tunetek-nnk-kozlemeny?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+    "source": "vaol.hu (megyei)",
+    "lang": "hu",
+    "scope": "county",
+    "date": "Mon, 25 May 2026 08:13:28 +0000"
+  },
+  {
+    "title": "Sokan fellélegezhetnek Vasban: házhoz jön az ügyintézés, a személyi igazolvány legyen nálad",
+    "snippet": "Mutatjuk, mikor érkeznek, és mit kell előkészítened. Lakcímkártya és személyi igazolvány kelleni fog, de a bankkártya is jó, ha kéznél van!",
+    "url": "https://www.vaol.hu/helyi-kozelet/2026/05/szemelyi-igazolvany-ugyintezes-lakcimkartya-iratok-2?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+    "source": "vaol.hu (megyei)",
+    "lang": "hu",
+    "scope": "county",
+    "date": "Mon, 25 May 2026 08:05:46 +0000"
+  },
+  {
+    "title": "Mesebeli pincesor és élő közösség: Cák varázsa a Belsikátorban",
+    "snippet": "Cák aprócska, de gazdag értékekkel teli faluja most a szombathelyi Értékkirakatban mutatkozik be.",
+    "url": "https://www.vaol.hu/helyi-kozelet/2026/05/caki-ertekek-a-szombathelyi-belsikator-ertekkirakataban?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+    "source": "vaol.hu (megyei)",
+    "lang": "hu",
+    "scope": "county",
+    "date": "Mon, 25 May 2026 08:00:05 +0000"
+  },
+  {
     "title": "Magabiztosan nyert a Körmend, a kilencedik helyen végzett a csapat",
     "snippet": "Ferencz Csaba búcsúmeccsén húsz pontot dobott.",
     "url": "https://www.nyugat.hu/cikk/magabiztosan_nyert_a_kormend_a_kilencedik_helyet",
@@ -9,15 +36,6 @@
     "date": "Sat, 23 May 2026 19:23:17 +0000"
   },
   {
-    "title": "Óriási élőképpel búcsúztak Ferencz Csabától a Körmend-szurkolók - fotók, videó",
-    "snippet": "A játékos a Pécs elleni meccse után visszavonult az aktív játéktól",
-    "url": "https://www.vaol.hu/helyi-sport/2026/05/egis-kormend-ferencz-csaba-bucsu-oriasi-elokep?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
-    "source": "vaol.hu (megyei)",
-    "lang": "hu",
-    "scope": "county",
-    "date": "Sat, 23 May 2026 17:02:59 +0000"
-  },
-  {
     "title": "Fegyverrel akartak kirabolni egy körmendi üzletet, hajtóvadászatot indított a rendőrség",
     "snippet": "Zárás előtt tért be a boltba, majd megfenyegette az eladót.",
     "url": "https://index.hu/belfold/2026/01/18/kormend-fegyveres-rablas-hajtovadaszat-rendorseg/",
@@ -25,6 +43,15 @@
     "lang": "hu",
     "scope": "city",
     "date": "Sun, 18 Jan 2026 19:23:00 +0100"
+  },
+  {
+    "title": "55. Májusfa kitáncolás",
+    "snippet": "55. Májusfa kitáncolás",
+    "url": "http://kormend.hu/Hirek/55_Majusfa_kitancolas.html",
+    "source": "kormend.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "2026-05-22"
   },
   {
     "title": "Megroppant egy osztrák multicég, 600 magyar munkahely került veszélybe",
@@ -43,15 +70,6 @@
     "lang": "hu",
     "scope": "city",
     "date": "Fri, 29 Aug 2025 17:55:00 +0200"
-  },
-  {
-    "title": "55. Májusfa kitáncolás",
-    "snippet": "55. Májusfa kitáncolás",
-    "url": "http://kormend.hu/Hirek/55_Majusfa_kitancolas.html",
-    "source": "kormend.hu (hivatalos)",
-    "lang": "hu",
-    "scope": "city",
-    "date": "2026-05-22"
   },
   {
     "title": "Több százmilliárd forintért építtetne új gyorsforgalmi utat, amit aztán koncesszióba adna a kormány",

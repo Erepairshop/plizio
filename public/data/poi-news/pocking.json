@@ -1,14 +1,5 @@
 [
   {
-    "title": "Sommerpause-2026",
-    "snippet": "",
-    "url": "https://pocking.de/?view=article&id=587:sommerpause-2026&catid=25",
-    "source": "Pocking (official)",
-    "lang": "de",
-    "scope": "city",
-    "date": "Fri, 22 May 2026 08:03:04 +0000"
-  },
-  {
     "title": "Rathaus geschlossen 2026",
     "snippet": "Der städtische Bauhof ist am Freitag, 05.06.2026 ebenfalls ganztägig geschlossen",
     "url": "https://pocking.de/?view=article&id=586:rathaus-geschlossen-2026&catid=25",
@@ -16,6 +7,15 @@
     "lang": "de",
     "scope": "city",
     "date": "Wed, 20 May 2026 12:26:37 +0000"
+  },
+  {
+    "title": "Sommerpause-2026",
+    "snippet": "",
+    "url": "https://pocking.de/?view=article&id=587:sommerpause-2026&catid=25",
+    "source": "Pocking (official)",
+    "lang": "de",
+    "scope": "city",
+    "date": "Fri, 22 May 2026 08:03:04 +0000"
   },
   {
     "title": "Rathaus ist geöffnet",

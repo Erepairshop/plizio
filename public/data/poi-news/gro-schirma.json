@@ -27,6 +27,15 @@
     "date": "Mon, 18 May 2026 07:10:00 +0200"
   },
   {
+    "title": "Wandern zum Sommeranfang",
+    "snippet": "Rundwanderung am 21. Juni 2026",
+    "url": "https://www.grossschirma.de/portal/meldungen/wandern-zum-sommeranfang-900000512-26130.html?rubrik=900000001",
+    "source": "Großschirma (official)",
+    "lang": "de",
+    "scope": "city",
+    "date": "Mon, 18 May 2026 07:08:00 +0200"
+  },
+  {
     "title": "BikeGenuss Erzgebirge",
     "snippet": "Aktives Sommerwochenende im Erzgebirge",
     "url": "https://www.grossschirma.de/portal/meldungen/bikegenuss-erzgebirge-900000511-26130.html?rubrik=900000001",
@@ -34,23 +43,5 @@
     "lang": "de",
     "scope": "city",
     "date": "Wed, 13 May 2026 12:11:00 +0200"
-  },
-  {
-    "title": "Sehprobleme verunsichern - Beratung unterstützt!",
-    "snippet": "Beratungsangebot \"Blickpunkt Auge\" - Rat und Hilfe bei Sehverlust",
-    "url": "https://www.grossschirma.de/portal/meldungen/sehprobleme-verunsichern-beratung-unterstuetzt--900000389-26130.html?rubrik=900000001",
-    "source": "Großschirma (official)",
-    "lang": "de",
-    "scope": "city",
-    "date": "Fri, 08 May 2026 10:15:00 +0200"
-  },
-  {
-    "title": "Klosterbezirk Altzella",
-    "snippet": "Aufruf 18/2026 aus dem Handlungsfeld (HF) 3 - Tourismus und Naherholung",
-    "url": "https://www.grossschirma.de/portal/meldungen/klosterbezirk-altzella-900000510-26130.html?rubrik=900000001",
-    "source": "Großschirma (official)",
-    "lang": "de",
-    "scope": "city",
-    "date": "Thu, 07 May 2026 06:59:00 +0200"
   }
 ]

@@ -1,5 +1,41 @@
 [
   {
+    "title": "Rossz hír az utasoknak: hétfőn több helyen leállt a jegyértékesítés",
+    "snippet": "Hétfő délelőttől fennakadások alakultak ki a jegyértékesítésben.",
+    "url": "https://www.boon.hu/helyi-kozelet/2026/05/muszaki-hiba-jegyvasarlas-hetfo-delelott?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+    "source": "boon.hu (megyei)",
+    "lang": "hu",
+    "scope": "county",
+    "date": "Mon, 25 May 2026 07:51:43 +0000"
+  },
+  {
+    "title": "Ingyenes jogi segítséget ajánlottak fel a Mol üzemi balesetének érintettjeinek",
+    "snippet": "Továbbra sem tudni a baleset okait, a rendőrség nyomozást indított.",
+    "url": "https://index.hu/belfold/2026/05/24/magyarorszag-mol-tiszaujvaros-uzemi-baleset-munkastanacsok-orszagos-szovetsege-szakszervezet-jogi-segitseg/",
+    "source": "index.hu/Tiszaújváros",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Sun, 24 May 2026 11:28:00 +0200"
+  },
+  {
+    "title": "A 2006-os gyurcsányi rendőrattak egyik kulcsfigurája Magyar Péter kormányának rendészeti államtitkára",
+    "snippet": "Mi ez, ha nem üzenet?",
+    "url": "https://www.boon.hu/orszag-vilag/2026/05/magyar-peter-toth-gabor-rendeszeti-allamtitkar-2006-gyurcsany-rendorterror?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+    "source": "boon.hu (megyei)",
+    "lang": "hu",
+    "scope": "county",
+    "date": "Mon, 25 May 2026 07:39:40 +0000"
+  },
+  {
+    "title": "Halálos baleset Mezőkeresztesen: fiatal férfi vesztette életét",
+    "snippet": "A baleset során a sofőr kizuhant a járműből.",
+    "url": "https://www.boon.hu/helyi-kek-hirek/2026/05/baleset-mezokeresztes-halalos?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+    "source": "boon.hu (megyei)",
+    "lang": "hu",
+    "scope": "county",
+    "date": "Mon, 25 May 2026 07:30:17 +0000"
+  },
+  {
     "title": "Vizsgálóbizottságot állított fel a Mol a tiszaújvárosi baleset kivizsgálására",
     "snippet": "Infókat közöltek a sérültekről, jelezve: a baleset Magyarország üzemanyag-ellátását nem érinti.",
     "url": "https://index.hu/belfold/2026/05/23/vizsgalobizottsag-mol-robbanas-tiszaujvaros-serultek-uzemanyag-ellatas/",
@@ -7,6 +43,15 @@
     "lang": "hu",
     "scope": "city",
     "date": "Sat, 23 May 2026 17:29:00 +0200"
+  },
+  {
+    "title": "Tiszaújváros lakói biztonságban vannak",
+    "snippet": "Tiszaújváros lakói biztonságban vannak",
+    "url": "https://magyarhirlap.hu/belfold/20260522-tiszaujvaros-lakoi-biztonsagban-vannak",
+    "source": "magyarhirlap.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
   },
   {
     "title": "A Mol vizsgálóbizottságot állított fel a tiszaújvárosi robbanás kivizsgálására",
@@ -45,15 +90,6 @@
     "date": "Sat, 23 May 2026 12:29:00 +0200"
   },
   {
-    "title": "Tiszaújváros lakói biztonságban vannak",
-    "snippet": "Tiszaújváros lakói biztonságban vannak",
-    "url": "https://magyarhirlap.hu/belfold/20260522-tiszaujvaros-lakoi-biztonsagban-vannak",
-    "source": "magyarhirlap.hu (hivatalos)",
-    "lang": "hu",
-    "scope": "city",
-    "date": ""
-  },
-  {
     "title": "Lélegeztetőgépen az egyik tiszaújvárosi sérült",
     "snippet": "Három társával együtt kezelik a debreceni egyetemi égési centrumban, állapotuk stabil. The post Lélegeztetőgépen az egyik tiszaújvárosi sérült first appeared on 24.hu .",
     "url": "https://24.hu/belfold/2026/05/23/tiszaujvaros-robbanas-serultek-lelegeztetogep-mol-petrolkemia/",
@@ -63,58 +99,13 @@
     "date": "Sat, 23 May 2026 10:28:55 +0000"
   },
   {
-    "title": "„Az ablak szabály szerint kicsapódott” – megszólalt a Mol egyik dolgozója a tiszaújvárosi robbanásról",
-    "snippet": "Elmondása szerint „akkora heves tűzzel égett”, hogy a lökéshullám és a hőtermelés sok mindenkit elért.",
-    "url": "https://index.hu/belfold/2026/05/22/mol-tiszaujvaros-uzem-robbanas-aldozat-serultek-dolgozo/",
+    "title": "Újabb részletek a Mol tiszaújvárosi üzemében történt robbanásról, sajtóhírek szerint több áldozat is lehet",
+    "snippet": "Három mentőhelikoptert riasztottak a helyszínre.",
+    "url": "https://index.hu/belfold/2026/05/22/mol-tiszaujvaros-uzem-robbanas-baleset-magyar-peter-miniszterelnok-kapitany-istvan-miniszter/",
     "source": "index.hu/Tiszaújváros",
     "lang": "hu",
     "scope": "city",
-    "date": "Fri, 22 May 2026 18:13:00 +0200"
-  },
-  {
-    "title": "Hegedűs Zsolt: A tiszaújvárosi robbanás sérültjei közül kettőt hazaengedtek a kórházból",
-    "snippet": "Hárman még megfigyelés alatt állnak, ők stabil állapotban vannak. The post Hegedűs Zsolt: A tiszaújvárosi robbanás sérültjei közül kettőt hazaengedtek a kórházból first appeared on 24.hu .",
-    "url": "https://24.hu/belfold/2026/05/22/hegedus-zsolt-tiszaujvaros-mol-robbanas/",
-    "source": "24.hu/Tiszaújváros",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Fri, 22 May 2026 14:12:10 +0000"
-  },
-  {
-    "title": "„A mindent jelentetted nekünk” – megrendítő búcsút vett férjétől a tiszaújvárosi robbanás áldozatának özvegye",
-    "snippet": "A nő közösségi oldalán egy családi fotó mellett írt arról, mit jelentett számukra a férfi.",
-    "url": "https://index.hu/belfold/2026/05/22/mol-robbanas-tiszaujvaros-halalos-aldozat-ozvegy-bucsu/",
-    "source": "index.hu/Tiszaújváros",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Fri, 22 May 2026 16:53:00 +0200"
-  },
-  {
-    "title": "Óriási állami támogatást kapott az Orbán-kormánytól a Mol tiszaújvárosi üzeme",
-    "snippet": "A korábbi években nagyon jelentős fejlesztések zajlottak a komplexumban. The post Óriási állami támogatást kapott az Orbán-kormánytól a Mol tiszaújvárosi üzeme first appeared on 24.hu .",
-    "url": "https://24.hu/fn/gazdasag/2026/05/22/mol-petrolkemia-baleset-tuz/",
-    "source": "24.hu/Tiszaújváros",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Fri, 22 May 2026 12:57:50 +0000"
-  },
-  {
-    "title": "Megszólalt Tiszaújváros polgármestere a robbanásról: Nincs szükség magánlaborok bevetésére",
-    "snippet": "A Mol helyi üzemében történt a baleset.",
-    "url": "https://index.hu/gazdasag/2026/05/22/mol-uzem-robbanas-tiszaujvaros-polgarmester-fulop-gyorgy-reakcio-sajtotajekoztato/",
-    "source": "index.hu/Tiszaújváros",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Fri, 22 May 2026 14:19:00 +0200"
-  },
-  {
-    "title": "Tiszaújvárosi robbanás: a technológiai balesetek jelentős része mögött a dolgozók túlterheltsége áll",
-    "snippet": "A balesetek a szakszervezet vezetője szerint nem ritkán a dolgozók túlterheltsége miatt következnek be. The post Tiszaújvárosi robbanás: a technológiai balesetek jelentős része mögött a dolgozók túlterheltsége áll first appeared on 24.hu .",
-    "url": "https://24.hu/fn/gazdasag/2026/05/22/tiszaujvarosi-robbanas-tulterhelt-dolgozok/",
-    "source": "24.hu/Tiszaújváros",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Fri, 22 May 2026 11:45:46 +0000"
+    "date": "Fri, 22 May 2026 09:34:00 +0200"
   },
   {
     "title": "Lenin-szobrot állítanak a majálison, elindult a tiltakozás",

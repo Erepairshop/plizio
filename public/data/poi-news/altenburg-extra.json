@@ -1,14 +1,5 @@
 [
   {
-    "title": "Altenburg: Ehemaliger evangelischer Pfarrer Stefan Thiel leitet katholische Gemeinden",
-    "snippet": "2002 trat der evangelische Pfarrer Stefan Thiel mit seiner Familie zum katholischen Glauben über. Seit Kurzem leitet er die katholische Pfarrei Altenburg. Als verheirateter Mann ist das nicht selbstverständlich.",
-    "url": "https://www.lvz.de/lokales/altenburger-land/altenburg-ehemaliger-evangelischer-pfarrer-stefan-thiel-leitet-katholische-gemeinden-EDVKPDSECVG7BNGSDINCG3P5TY.html",
-    "source": "LVZ",
-    "lang": "de",
-    "scope": "city",
-    "date": "Sun, 24 May 2026 04:26:00 +0200"
-  },
-  {
     "title": "Totschlag in Altenburg: Diese Strafe verhängt das Gericht gegen Mann aus Gera",
     "snippet": "Der 51-jährige Angeklagte hatte im Prozess am Landgericht Gera ein Geständnis abgelegt. Doch es wird knifflig, weil er im letzten Wort seine Aussagen widerruft.",
     "url": "https://www.otz.de/lokales/gera/article412063692/totschlag-in-altenburg-diese-strafe-verhaengt-das-gericht-gegen-mann-aus-gera.html",
@@ -27,15 +18,6 @@
     "date": "Sun, 17 May 2026 17:53:14 +0200"
   },
   {
-    "title": "Richtfest für umstrittenes Bauprojekt in Altenburg",
-    "snippet": "Am Tag der Städtebauförderung zeigte auch die Stadt Altenburg, was sie aus alten Gebäuden mit Unterstützung des Bundes gemacht hat. Höhepunkt war aber das Richtfest für einen ganz besonderen Spielplatz .",
-    "url": "https://www.mdr.de/video/mdr-videos/f/video-1009484.html",
-    "source": "MDR Th Ost",
-    "lang": "de",
-    "scope": "region",
-    "date": "Fri, 08 May 2026 19:41:01 +0200"
-  },
-  {
     "title": "Ortsbeirat Altenburg startet in die neue Legislaturperiode",
     "snippet": "Der Ortsbeirat Altenburg hat sich am 11. Mai 2026 zu",
     "url": "https://www.alsfeld.de/ortsbeirat-altenburg-startet-in-die-neue-legislaturperiode/",
@@ -45,15 +27,6 @@
     "date": "Fri, 15 May 2026 07:37:55 +0000"
   },
   {
-    "title": "Schnelleinstieg",
-    "snippet": "Schnelleinstieg $( document ).ready( function(){ portunaHelper.attachFancybox('template_page') }); Online-Terminevergabe Stellenangebote Zuständigkeiten Mängelmelder Bürgersprechstunden Verkehrsmeldungen",
-    "url": "https://tevis.altenburg.eu/",
-    "source": "tevis.altenburg.eu (hivatalos)",
-    "lang": "de",
-    "scope": "city",
-    "date": ""
-  },
-  {
     "title": "06.05.2026: Aktuelle Informationen der Verkehrsbehörde",
     "snippet": "Terrassenstraße am 8. Mai gesperrt Wegen der Anlieferung eines Baukrans wird die Terrassenstraße im Bereich der Hausnummern 10 – 20 am Freitag, 8. Mai, für den Fahrzeugverkehr gesperrt. ... [ mehr ]",
     "url": "https://www.stadt-altenburg.de/news/index.php?news=1232556",
@@ -61,6 +34,24 @@
     "lang": "de",
     "scope": "city",
     "date": "Wed, 06 May 2026 00:00:00 +0200"
+  },
+  {
+    "title": "Richtfest für umstrittenes Bauprojekt in Altenburg",
+    "snippet": "Am Tag der Städtebauförderung zeigte auch die Stadt Altenburg, was sie aus alten Gebäuden mit Unterstützung des Bundes gemacht hat. Höhepunkt war aber das Richtfest für einen ganz besonderen Spielplatz .",
+    "url": "https://www.mdr.de/video/mdr-videos/f/video-1009484.html",
+    "source": "MDR Th Ost",
+    "lang": "de",
+    "scope": "region",
+    "date": "Fri, 08 May 2026 19:41:01 +0200"
+  },
+  {
+    "title": "Schnelleinstieg",
+    "snippet": "Schnelleinstieg $( document ).ready( function(){ portunaHelper.attachFancybox('template_page') }); Online-Terminevergabe Stellenangebote Zuständigkeiten Mängelmelder Bürgersprechstunden Verkehrsmeldungen",
+    "url": "https://tevis.altenburg.eu/",
+    "source": "tevis.altenburg.eu (hivatalos)",
+    "lang": "de",
+    "scope": "city",
+    "date": ""
   },
   {
     "title": "17.04.2026: Aktuelle Informationen der Verkehrsbehörde",

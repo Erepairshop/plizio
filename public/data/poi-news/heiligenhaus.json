@@ -1,5 +1,32 @@
 [
   {
+    "title": "Feuerwehr rückt aus: Auto brennt auf der A44 bei Heiligenhaus",
+    "snippet": "Schrecksekunden auf der Autobahn bei Hetterscheidt: Ein Auto fängt plötzlich Feuer.",
+    "url": "https://www.waz.de/lokales/heiligenhaus/article412086544/feuerwehr-rueckt-aus-auto-brennt-auf-der-a44-bei-heiligenhaus.html",
+    "source": "WAZ Hagen",
+    "lang": "de",
+    "scope": "city",
+    "date": "Sun, 24 May 2026 23:31:21 +0200"
+  },
+  {
+    "title": "14-Jähriger verletzt sich schwer bei E-Scooter-Unfall in Heiligenhaus",
+    "snippet": "Der Jugendliche fährt plötzlich von einem Parkplatz auf die Fahrbahn der Losenburger Straße. Eine junge Autofahrerin kann nicht mehr rechtzeitig reagieren.",
+    "url": "https://www.waz.de/lokales/heiligenhaus/article412083872/14-jaehriger-verletzt-sich-schwer-bei-e-scooter-unfall-in-heiligenhaus.html",
+    "source": "WAZ Hagen",
+    "lang": "de",
+    "scope": "city",
+    "date": "Sun, 24 May 2026 13:47:21 +0200"
+  },
+  {
+    "title": "Tag der Architektur: Neue Bauprojekte in Velbert und Heiligenhaus öffnen Türen",
+    "snippet": "Am Tag der Architektur öffnen in Velbert und Heiligenhaus innovative Schul- und Kitabauten ihre Türen. Diese Highlights gibt es für die Besucher.",
+    "url": "https://www.waz.de/lokales/velbert/article412026375/tag-der-architektur-neue-bauprojekte-in-velbert-und-heiligenhaus-oeffnen-tueren.html",
+    "source": "WAZ Hagen",
+    "lang": "de",
+    "scope": "city",
+    "date": "Sun, 24 May 2026 16:09:00 +0200"
+  },
+  {
     "title": "Einbruch in Heiligenhauser Spielhalle: Was die Täter klauten",
     "snippet": "An der Höseler Straße wollten es Einbrecher nicht dem Glück überlassen, den Jackpot zu knacken. Stattdessen knackten sie direkt die Spielgeräte.",
     "url": "https://www.waz.de/staedte/heiligenhaus/article242543218/Einbruch-in-Heiligenhauser-Spielhalle-Was-die-Taeter-klauten.html",
@@ -18,15 +45,6 @@
     "date": "Mon, 10 Jun 2024 12:34:02 +0200"
   },
   {
-    "title": "Europawahl: CDU in Heiligenhaus vorne, AfD legt ebenfalls zu",
-    "snippet": "Der Bundestrend kommt auch in Heiligenhaus an. In einem Wahlbezirk wird die AfD stärkste Kraft. Die Endergebnisse und die Stimmen.",
-    "url": "https://www.waz.de/staedte/heiligenhaus/article242537020/Europawahl-CDU-in-Heiligenhaus-vorne-AfD-legt-ebenfalls-zu.html",
-    "source": "WAZ Heiligenhaus",
-    "lang": "de",
-    "scope": "city",
-    "date": "Sun, 09 Jun 2024 19:30:25 +0200"
-  },
-  {
     "title": "Anmeldung für Hobbyturniere",
     "snippet": "Anmeldung für Hobbyturniere Jetzt Teams für Air-Badminton und Beachvolleyball&hellip; Weiterlesen",
     "url": "https://www.heiligenhaus.de/einzelansicht?tx_news_pi1%5Baction%5D=detail&amp;tx_news_pi1%5Bcontroller%5D=News&amp;tx_news_pi1%5Bnews%5D=2208&amp;cHash=75cf3b9b5ca2829efdcaecc2aa395872",
@@ -34,6 +52,15 @@
     "lang": "de",
     "scope": "city",
     "date": ""
+  },
+  {
+    "title": "Europawahl: CDU in Heiligenhaus vorne, AfD legt ebenfalls zu",
+    "snippet": "Der Bundestrend kommt auch in Heiligenhaus an. In einem Wahlbezirk wird die AfD stärkste Kraft. Die Endergebnisse und die Stimmen.",
+    "url": "https://www.waz.de/staedte/heiligenhaus/article242537020/Europawahl-CDU-in-Heiligenhaus-vorne-AfD-legt-ebenfalls-zu.html",
+    "source": "WAZ Heiligenhaus",
+    "lang": "de",
+    "scope": "city",
+    "date": "Sun, 09 Jun 2024 19:30:25 +0200"
   },
   {
     "title": "Gespinstmotten",

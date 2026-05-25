@@ -1,12 +1,93 @@
 [
   {
-    "title": "Grausamer Anblick: Tierschützer retten Huskys aus Zwingern – Besitzer gestorben",
-    "snippet": "Die Tierschützer sind sprachlos: Sieben Huskys wurden aus katastrophalen Bedingungen gerettet. Auf das, was sie vor Ort vorfanden, waren sie nicht vorbereitet.",
-    "url": "https://www.wa.de/nordrhein-westfalen/grausamer-anblick-tierschuetzer-retten-huskys-aus-zwingern-besitzer-gestorben-94320282.html",
+    "title": "Häppchen statt Kuchen – und das mit nur 4 Zutaten",
+    "snippet": "Kleine Häppchen, die nach Kuchen schmecken und keine Zuckerbombe sind, überzeugen gerade viele – weil sie praktisch sind und ohne raffinierten Zucker auskommen.",
+    "url": "https://www.wa.de/verbraucher/schmeckt-wie-kuchen-ist-aber-gesund-haeppchen-die-nur-4-zutaten-benoetigen-banane-haferflocken-zr-94320860.html",
     "source": "Westfälischer Anzeiger",
     "lang": "de",
     "scope": "county",
-    "date": "Sun, 24 May 2026 08:51:58 +0200"
+    "date": "Mon, 25 May 2026 09:48:17 +0200"
+  },
+  {
+    "title": "„Möchte mit Füßen zuerst rausgetragen werden“: Warum ein Mehrgenerationenhaus gut gebaut ist",
+    "snippet": "Für das Mehrgenerationenhaus im Hammer Osten gab es eine Auszeichnung für „Gutes Bauen“. Wie sich zeigt, geht es nicht nur ums Wohnen.",
+    "url": "https://www.wa.de/hamm/uentrop-ort370525/mehrgenerationenhaus-vicanus-ii-in-hamm-erhaelt-preis-gutes-bauen-94317468.html",
+    "source": "WA Hamm",
+    "lang": "de",
+    "scope": "city",
+    "date": "Mon, 25 May 2026 05:30:00 +0200"
+  },
+  {
+    "title": "<b>Online-Befragung zu Bus und Bahn startet </b>",
+    "snippet": "Im Rahmen des Nahverkehrsplan 2023 wurden mit den Tarifmaßnahmen und Taktverdichtungen auf den Linien 1/3 und 10/11 wichtige Maßnahmen zur Steigerung der Attraktivität des ÖPNVs in Hamm umgesetzt. Um die Wirksamkeit der Angebote zu evaluieren, gibt es zwischen dem 18.05.2026 - 14.06.2026 die Möglich",
+    "url": "https://www.hamm.de/aktuelles/online-befragung-zu-bus-und-bahn-startet",
+    "source": "Hamm (official)",
+    "lang": "de",
+    "scope": "city",
+    "date": "Mon, 25 May 2026 08:00:00 +0200"
+  },
+  {
+    "title": "Hitze-Knall mit bis zu 34 Grad – Wo in Bayern Gewitter drohen",
+    "snippet": "Der Freistaat startet mit echtem Hochsommerwetter in die Pfingstferien. Der DWD verspricht bis Donnerstag viel Sonne – doch es lauern Gewitter.",
+    "url": "https://www.wa.de/deutschland/wetter-hitze-knall-mit-bis-zu-34-grad-wo-in-bayern-gewitter-drohen-zr-94320859.html",
+    "source": "Westfälischer Anzeiger",
+    "lang": "de",
+    "scope": "county",
+    "date": "Mon, 25 May 2026 09:48:15 +0200"
+  },
+  {
+    "title": "Konkrete Gespräche: Nachnutzung für Schandfleck am Ökozentrum in Sicht",
+    "snippet": "Seit 2023 die heruntergekommene Parkpalette am Ökozentrum abgerissen wurde, hat sich dort wenig getan. Heimische Unternehmen haben laut Stadt Hamm aber Interesse an der Fläche, bald könnte es sogar schon losgehen.",
+    "url": "https://www.wa.de/hamm/heessen-ort370526/stadt-fuehrt-konkrete-gespraeche-gewerbebetriebe-fuer-parkpaletten-flaeche-94317355.html",
+    "source": "WA Hamm",
+    "lang": "de",
+    "scope": "city",
+    "date": "Mon, 25 May 2026 05:00:00 +0200"
+  },
+  {
+    "title": "LED-Lampen im Test: Billig-Modell schlägt die gesamte Konkurrenz",
+    "snippet": "LED-Lampen gibt es in Hülle und Fülle. Ein aktueller Vergleich zeigt jetzt, welches Modell bei Leistung und Preis ganz vorne liegt.",
+    "url": "https://www.wa.de/verbraucher/led-lampen-im-test-billig-modell-schlaegt-die-gesamte-konkurrenz-zr-94320854.html",
+    "source": "Westfälischer Anzeiger",
+    "lang": "de",
+    "scope": "county",
+    "date": "Mon, 25 May 2026 09:42:19 +0200"
+  },
+  {
+    "title": "Aus der Not geboren: „Kaffeemoni“ arbeitet seit 21 Jahren bei der Hammer Tafel",
+    "snippet": "Monika ist seit vielen Jahren Mitarbeiterin der Hammer Tafel. Jeden Montag steht sie um halb sieben in der Küche – obwohl die Arbeit erst um 9 Uhr beginnt.",
+    "url": "https://www.wa.de/hamm/kaffeemoni-arbeitet-seit-21-jahren-bei-der-hammer-tafel-94319244.html",
+    "source": "WA Hamm",
+    "lang": "de",
+    "scope": "city",
+    "date": "Mon, 25 May 2026 05:00:00 +0200"
+  },
+  {
+    "title": "„Ist mir nicht leichtgefallen“: Beliebte Pfarrerin verlässt Hamm für Pfarrhaus in Ibbenbüren",
+    "snippet": "Die Emmaus-Kirchengemeinde Hamm verabschiedet Pfarrerin Vera Gronemann. Nach den Sommerferien wechselt sie nach Ibbenbüren. Für die Stelle in Hamm laufen nun Beratungen an.",
+    "url": "https://www.soester-anzeiger.de/lokales/werl/pfarrhaus-in-ibbenbueren-pfarrerin-vera-gronemann-verlaesst-emmaus-kirchen-gemeinde-hamm-fuer-94318572.html",
+    "source": "Soester Anzeiger",
+    "lang": "de",
+    "scope": "city",
+    "date": "Fri, 22 May 2026 13:00:30 +0200"
+  },
+  {
+    "title": "Klimademo zwischen Hamm und Werne: VKU-Busse müssen Umleitung fahren",
+    "snippet": "Das Klimacamp rund um das Gersteinwerk führt zu Einschränkungen im Busverkehr zwischen Werne und Hamm. Betroffen sind die Linien X1 und 215.",
+    "url": "https://www.ruhrnachrichten.de/werne/klimademo-hamm-werne-gersteinwerk-busverkehr-vku-umleitung-linie-x1-215-klimacamp-stockum-w1197626-2002076470/",
+    "source": "Ruhr Nachrichten - Werne",
+    "lang": "de",
+    "scope": "city",
+    "date": "Sun, 24 May 2026 07:00:00 +0000"
+  },
+  {
+    "title": "Motorradunfall im Sauerland: 58-jähriger Hammer schwer verletzt",
+    "snippet": "Ein Motorradfahrer aus Hamm verünglückt bei Bestwig. Die Ursache ist unklar. Der Mann wird schwer verletzt ins Krankenhaus geflogen.",
+    "url": "https://www.wa.de/hamm/unfall-auf-der-l776-motorradfahrer-schwer-verletzt-94320307.html",
+    "source": "WA Hamm",
+    "lang": "de",
+    "scope": "city",
+    "date": "Sun, 24 May 2026 09:47:05 +0200"
   },
   {
     "title": "Haus ermöglicht Menschen mit Beeinträchtigung eine eigene Wohnung – Verein erlebt „überglückliche Familien“",
@@ -18,15 +99,6 @@
     "date": "Sun, 24 May 2026 05:30:00 +0200"
   },
   {
-    "title": "Video: Was ist Pfingsten? Das steckt wirklich hinter dem Feiertag",
-    "snippet": "Pfingsten ist ein arbeitsfreies, langes Wochenende – klar. Aber warum eigentlich? Wir erklären die tiefgreifende Bedeutung hinter dem wichtigen christlichen Fest.",
-    "url": "https://www.wa.de/welt/pfingsten-video-darum-ist-das-fest-der-geburtstag-der-kirche-zr-94319494.html",
-    "source": "Westfälischer Anzeiger",
-    "lang": "de",
-    "scope": "county",
-    "date": "Sun, 24 May 2026 08:42:00 +0200"
-  },
-  {
     "title": "Bezirk stellt sich auf Risikofaktor Hitze ein: Ältere sind besonders betroffen",
     "snippet": "In Rhynern leben überdurchschnittlich viele ältere Menschen, die als besonders hitzeanfällig gelten. 15 sensible Einrichtungen wie Pflege- und Betreuungsheime liegen teilweise in thermisch belasteten Bereichen.",
     "url": "https://www.wa.de/hamm/rhynern-ort370524/23-prozent-ueber-65-stadt-bezirk-rhynern-hitzeaktionsplan-senioren-besonders-betroffen-klima-wandel-94320139.html",
@@ -36,67 +108,13 @@
     "date": "Sun, 24 May 2026 05:00:00 +0200"
   },
   {
-    "title": "Wie kommt es zu einem Flugzeugabsturz?",
-    "snippet": "228 Menschen waren 2009 beim Absturz einer Air-France-Maschine ums Leben gekommen. Nun wurden die Airline und der Flugzeugbauer Airbus wegen fahrlässiger Tötung verurteilt. Doch wie kommt es dazu, dass ein Flugzeug abstürzt?",
-    "url": "https://www.wa.de/leben/wissen/flugzeugabsturz-zr-94318753.html",
-    "source": "Westfälischer Anzeiger",
-    "lang": "de",
-    "scope": "county",
-    "date": "Sun, 24 May 2026 08:39:00 +0200"
-  },
-  {
-    "title": "Rollstuhlfahrer und Autofahrer stoßen zusammen – Senior schwer verletzt",
-    "snippet": "Ein 86-jähriger Rollstuhlfahrer ist am Freitag in Hamm bei einem Unfall schwer verletzt worden. Auch ein 70-jähriger Autofahrer kam ins Krankenhaus.",
-    "url": "https://www.wa.de/hamm/rollstuhlfahrer-und-autofahrer-stossen-zusammen-senior-schwer-verletzt-94320186.html",
+    "title": "Bis zu 18 Stunden täglich gezockt: Niklas (18) aus Hamm landet in der Klinik",
+    "snippet": "Ein 18-Jähriger aus Hamm verbrachte fast den ganzen Tag mit Onlinespielen. Fürs Gaming vernachlässigte er alles andere – bis nichts mehr ging.",
+    "url": "https://www.wa.de/hamm/aus-hamm-landet-in-der-klinik-18-stunden-taeglich-gezockt-niklas-18-94317429.html",
     "source": "WA Hamm",
     "lang": "de",
     "scope": "city",
-    "date": "Sun, 24 May 2026 00:05:45 +0200"
-  },
-  {
-    "title": "„Ist mir nicht leichtgefallen“: Beliebte Pfarrerin verlässt Hamm für Pfarrhaus in Ibbenbüren",
-    "snippet": "Die Emmaus-Kirchengemeinde Hamm verabschiedet Pfarrerin Vera Gronemann. Nach den Sommerferien wechselt sie nach Ibbenbüren. Für die Stelle in Hamm laufen nun Beratungen an.",
-    "url": "https://www.soester-anzeiger.de/lokales/werl/in-ibbenbueren-pfarrerin-vera-gronemann-verlaesst-emmaus-kirchen-gemeinde-hamm-fuer-pfarrhaus-94318572.html",
-    "source": "Soester Anzeiger",
-    "lang": "de",
-    "scope": "city",
-    "date": "Fri, 22 May 2026 13:00:30 +0200"
-  },
-  {
-    "title": "Größter Polizeieinsatz der Stadtgeschichte: Hamm rüstet für Klima-Demo auf",
-    "snippet": "Am 30. Mai demonstrieren Klimaaktivisten vor dem Gersteinwerk in Hamm. Die Polizei zieht Kräfte aus ganz NRW zusammen – und rechnet mit Teilnehmern aus ganz Europa.",
-    "url": "https://www.wa.de/hamm/hamm-ruestet-fuer-klima-demo-auf-groesster-polizeieinsatz-der-stadtgeschichte-94319370.html",
-    "source": "WA Hamm",
-    "lang": "de",
-    "scope": "city",
-    "date": "Sat, 23 May 2026 05:30:00 +0200"
-  },
-  {
-    "title": "Funklöcher gestopft: Telekom stellt neue Mobilfunkmasten im Stadtgebiet auf",
-    "snippet": "Am Klostermühlenweg wurde ein neuer Sendemast errichtet. Er soll vor allem die Bahnstrecke versorgen – aber auch Hövel-Nord und die Lipperandstraße.",
-    "url": "https://www.wa.de/hamm/bockum-hoevel-ort370528/telekom-stellt-neuen-mobilfunkmast-in-bockum-hoevel-auf-94318840.html",
-    "source": "WA Hamm",
-    "lang": "de",
-    "scope": "city",
-    "date": "Sat, 23 May 2026 05:00:00 +0200"
-  },
-  {
-    "title": "Live vor über 2000 Zuschauern: Franz Johann singt „Komm‘se mal nach Hamm“ bei ASV-Spiel",
-    "snippet": "Wie früher beim Karneval: Franz Johann singt „Komm‘se mal nach Hamm“ – diesmal live vor den Handball-Fans des ASV. Dort läuft die „Hamm-Hymne“ vor jedem Heimspiel.",
-    "url": "https://www.wa.de/hamm/live-vor-ueber-2000-zuschauern-franz-johann-singt-kommse-mal-nach-hamm-bei-asv-spiel-94319518.html",
-    "source": "WA Hamm",
-    "lang": "de",
-    "scope": "city",
-    "date": "Fri, 22 May 2026 20:20:00 +0200"
-  },
-  {
-    "title": "Neue Gastro: So unterschiedlich läuft es für die Lokale in der Innenstadt",
-    "snippet": "In Hamm haben in den vergangenen Monaten mehrere neue Gastronomen eröffnet. Manche haben schon Vollauslastung, andere kämpfen noch, zum Beispiel mit mit fehlenden Parkplätzen.",
-    "url": "https://www.wa.de/hamm/cafe-und-bars-hamm-innenstadt-so-laeuft-der-start-fuer-neue-restaurants-94315076.html",
-    "source": "WA Hamm",
-    "lang": "de",
-    "scope": "city",
-    "date": "Thu, 21 May 2026 08:30:00 +0200"
+    "date": "Fri, 22 May 2026 08:30:00 +0200"
   },
   {
     "title": "<b>ASH sucht wieder Ferienjobber:innen für die Müllabfuhr</b>",
@@ -108,22 +126,22 @@
     "date": "Mon, 18 May 2026 14:26:48 +0200"
   },
   {
-    "title": "Falsche Handwerker täuschen Senior – Verdächtige stehlen Schmuck und Bargeld",
-    "snippet": "Zwei Männer haben sich am Mittwoch in Hamm als Mitarbeiter einer Wohnbaugesellschaft ausgegeben und eine 85-jährige Frau bestohlen.",
-    "url": "https://www.wa.de/hamm/hamm-mitte-ort370531/falsche-handwerker-taeuschen-senior-verdaechtige-stehlen-schmuck-und-bargeld-94316041.html",
+    "title": "Eineinhalb Jahre nach Kühlturmbrand: RAG will ihr Schweigen endlich brechen",
+    "snippet": "Die Abschlussdokumentation zum Kühlturmbrand auf Heinrich Robert umfasst 1500 Seiten. Die RAG will sich bis Ende Mai dazu äußern.",
+    "url": "https://www.wa.de/hamm/herringen-ort370529/funkenflug-beim-trennschleifen-loest-kuehlturmbrand-auf-heinrich-robert-aus-94317338.html",
     "source": "WA Hamm",
     "lang": "de",
     "scope": "city",
-    "date": "Thu, 21 May 2026 08:27:38 +0200"
+    "date": "Fri, 22 May 2026 08:00:00 +0200"
   },
   {
-    "title": "Autofahrer biegt ab – Jugendlicher auf E-Scooter wird erfasst",
-    "snippet": "Ein 14-Jähriger ist am Mittwoch in Hamm beim Abbiegen eines Autos mit seinem E-Scooter zusammengestoßen und kam ins Krankenhaus.",
-    "url": "https://www.wa.de/hamm/autofahrer-biegt-ab-jugendlicher-auf-scooter-wird-erfasst-94316035.html",
+    "title": "Asiatische Hornisse breitet sich aus – Expertin warnt: „Dann geht es schnell um Leben und Tod“",
+    "snippet": "Die Asiatische Hornisse ist endgültig in Hamm angekommen. Wenn sie ihr Nest in Gefahr sieht, können tausende Tiere auschwärmen und Menschen angreifen.",
+    "url": "https://www.wa.de/hamm/sieben-nester-in-diesem-jahr-asiatische-hornisse-breitet-sich-rasant-aus-94317501.html",
     "source": "WA Hamm",
     "lang": "de",
     "scope": "city",
-    "date": "Thu, 21 May 2026 08:23:37 +0200"
+    "date": "Fri, 22 May 2026 05:30:00 +0200"
   },
   {
     "title": "Volvo überschlägt sich auf A1 bei Hamm und landet auf dem Dach",

@@ -27,15 +27,6 @@
     "date": "Wed, 20 May 2026 13:53:29 +0000"
   },
   {
-    "title": "Az önéletrajz elemei, amik eldöntik, behívnak-e állásinterjúra",
-    "snippet": "Az önéletrajzoknál a különböző területeken eltérő szempontok alapján döntenek a cégek, ezért érdemes a jelentkezést az adott munkához igazítani. A Profession.hu kutatása szerint tízből kilenc",
-    "url": "https://hirnok.hu/az-oneletrajz-elemei-amik-eldontik-behivnak-e-allasinterjura/",
-    "source": "hirnok.hu (megyei)",
-    "lang": "hu",
-    "scope": "county",
-    "date": "Wed, 20 May 2026 09:54:25 +0000"
-  },
-  {
     "title": "Szebb arc, könnyebb élet?",
     "snippet": "A tudomány szerint a vonzerő egyszerre lehet előny és társadalmi csapda A közösségi média korában a „pretty privilege”, vagyis a szépségből fakadó társadalmi előny fogalma",
     "url": "https://hirnok.hu/szebb-arc-konnyebb-elet/",
@@ -45,15 +36,6 @@
     "date": "Wed, 13 May 2026 11:38:02 +0000"
   },
   {
-    "title": "Meghívó 2026.05.28-i Képviselő-testületi ülésre",
-    "snippet": "A Meghívó 2026.05.28-i Képviselő-testületi ülésre bejegyzés először Erdőkertes Község Honlapja -én jelent meg.",
-    "url": "https://erdokertes.hu/2026/05/22/meghivo-2026-05-28-i-kepviselo-testuleti-ulesre/",
-    "source": "erdokertes.hu (hivatalos)",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Fri, 22 May 2026 08:22:07 +0000"
-  },
-  {
     "title": "Kivonult a TEK egy férfihoz, aki robbantással fenyegette meg a mentősöket Erdőkertesen",
     "snippet": "A szomszédok szerint mentális betegséggel küzd.",
     "url": "https://index.hu/belfold/2025/10/10/tek-erdokertes-robbantas-fenyegetes-mentok/",
@@ -61,6 +43,15 @@
     "lang": "hu",
     "scope": "city",
     "date": "Fri, 10 Oct 2025 17:49:00 +0200"
+  },
+  {
+    "title": "Meghívó 2026.05.28-i Képviselő-testületi ülésre",
+    "snippet": "A Meghívó 2026.05.28-i Képviselő-testületi ülésre bejegyzés először Erdőkertes Község Honlapja -én jelent meg.",
+    "url": "https://erdokertes.hu/2026/05/22/meghivo-2026-05-28-i-kepviselo-testuleti-ulesre/",
+    "source": "erdokertes.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Fri, 22 May 2026 08:22:07 +0000"
   },
   {
     "title": "Vallott a férfi, aki leszúrta a házfelújítással lassan haladó ismerősét",

@@ -54,15 +54,6 @@
     "date": "Fri, 22 May 2026 07:00:00 +0200"
   },
   {
-    "title": "Abendmarkt ab Juni auf dem Weißenfelser Marktplatz",
-    "snippet": "Während des ersten Weißenfelser Abendmarkts am 12. Juni 2026 wird der Platz vor dem Rathaus zu einem lebendigen Treffpunkt für Genießer, Familien und Freunde regionaler Produkte. Von 16 bis 20 Uhr erwartet ...",
-    "url": "https://www.weissenfels.de/index.php?ModID=255&FID=3678.56942.1&object=tx%2C3678.5.1",
-    "source": "Weißenfels (official)",
-    "lang": "de",
-    "scope": "city",
-    "date": "Wed, 20 May 2026 18:00:00 +0200"
-  },
-  {
     "title": "Nach Raubüberfall in Weißenfels: Junger Mann muss für drei Jahre ins Gefängnis",
     "snippet": "Das Amtsgericht Naumburg hat einen jungen Mann am Dienstag zu drei Jahren Jugendhaft verurteilt. Er hatte im Januar mit einer Schreckschusswaffe einen Zeitschriftenladen und einen Discounter überfallen.",
     "url": "https://www.mdr.de/nachrichten/sachsen-anhalt/halle/burgenland/urteil-raubueberfall-bewaffnet-weissenfels-100.html",
@@ -70,6 +61,15 @@
     "lang": "de",
     "scope": "city",
     "date": "Tue, 19 May 2026 17:36:58 +0200"
+  },
+  {
+    "title": "Abendmarkt ab Juni auf dem Weißenfelser Marktplatz",
+    "snippet": "Während des ersten Weißenfelser Abendmarkts am 12. Juni 2026 wird der Platz vor dem Rathaus zu einem lebendigen Treffpunkt für Genießer, Familien und Freunde regionaler Produkte. Von 16 bis 20 Uhr erwartet ...",
+    "url": "https://www.weissenfels.de/index.php?ModID=255&FID=3678.56942.1&object=tx%2C3678.5.1",
+    "source": "Weißenfels (official)",
+    "lang": "de",
+    "scope": "city",
+    "date": "Wed, 20 May 2026 18:00:00 +0200"
   },
   {
     "title": "Herbstkonzert der Jenaer Philharmonie",
@@ -81,13 +81,13 @@
     "date": "Wed, 20 May 2026 10:00:00 +0200"
   },
   {
-    "title": "Jobcenter Burgenlandkreis führt Online-Briefkasten ein",
-    "snippet": "Das Jobcenter Burgenlandkreis bietet ab sofort eine neue digitale Möglichkeit an, um Mitteilungen, Unterlagen und Nachweise beim Jobcenter einzureichen. Durch den sogenannten Online-Briefkasten können Bürgergeldempfänger ihre Anliegen unkompliziert und zu jeder Zeit ...",
-    "url": "https://www.weissenfels.de/index.php?ModID=255&FID=3678.56945.1&object=tx%2C3678.5.1",
+    "title": "Kunst, Musik und Geschichte erleben",
+    "snippet": "Ein Wochenende ganz im Zeichen von Kultur, Begegnung und außergewöhnlichen Erlebnissen erwartet Besucherinnen und Besucher in Weißenfels: Am Samstag, 16. Mai 2026, lädt die Weißenfelser Museumsnacht zu einem vielseitigen Abendprogramm ein. Am Sonntag, ...",
+    "url": "https://www.weissenfels.de/index.php?ModID=255&FID=3678.56527.1&object=tx%2C3678.5.1",
     "source": "Weißenfels (official)",
     "lang": "de",
     "scope": "city",
-    "date": "Wed, 20 May 2026 10:00:00 +0200"
+    "date": "Sun, 17 May 2026 10:00:00 +0200"
   },
   {
     "title": "Weißenfelser Bürgerzentrum geschlossen",
@@ -106,14 +106,5 @@
     "lang": "de",
     "scope": "city",
     "date": "Tue, 12 May 2026 14:00:00 +0200"
-  },
-  {
-    "title": "Saisonstart im Freibad Weißenfels",
-    "snippet": "Im Freibad Weißenfels startet am 15. Mai 2026, um 10 Uhr die Saison. Das Bad am Kastanienweg 1 freut sich dann bis Mitte September täglich von 10 bis 20 Uhr auf Badegäste. Kassenschluss ist ...",
-    "url": "https://www.weissenfels.de/index.php?ModID=255&FID=3678.56908.1&object=tx%2C3678.5.1",
-    "source": "Weißenfels (official)",
-    "lang": "de",
-    "scope": "city",
-    "date": "Tue, 12 May 2026 13:00:00 +0200"
   }
 ]

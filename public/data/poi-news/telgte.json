@@ -1,14 +1,5 @@
 [
   {
-    "title": "Weinfest Telgte: Nach homophobem Angriff noch keine Täter ermittelt",
-    "snippet": "Ein schwules Paar wurde nach dem Weinfest von zwei jungen Männern geschlagen. Das ist der Stand der Dinge.",
-    "url": "https://www.die-glocke.de/kreis-warendorf/warendorf/artikel/weinfest-telgte-nach-homophobem-angriff-noch-keine-taeter-ermittelt-1779358509",
-    "source": "Die Glocke",
-    "lang": "de",
-    "scope": "city",
-    "date": "Thu, 21 May 2026 12:32:00 +0200"
-  },
-  {
     "title": "Katja Behrendt zu Besuch bei der Tunstall GmbH",
     "snippet": "Telgter Bürgermeisterin setzt ihren Dialog mit der örtlichen Wirtschaft fort.",
     "url": "https://www.telgte.de/portal/meldungen/katja-behrendt-zu-besuch-bei-der-tunstall-gmbh-900002217-26900.html?rubrik=900000002",
@@ -16,6 +7,15 @@
     "lang": "de",
     "scope": "city",
     "date": "Fri, 22 May 2026 13:34:00 +0200"
+  },
+  {
+    "title": "Weinfest Telgte: Nach homophobem Angriff noch keine Täter ermittelt",
+    "snippet": "Ein schwules Paar wurde nach dem Weinfest von zwei jungen Männern geschlagen. Das ist der Stand der Dinge.",
+    "url": "https://www.die-glocke.de/kreis-warendorf/warendorf/artikel/weinfest-telgte-nach-homophobem-angriff-noch-keine-taeter-ermittelt-1779358509",
+    "source": "Die Glocke",
+    "lang": "de",
+    "scope": "city",
+    "date": "Thu, 21 May 2026 12:32:00 +0200"
   },
   {
     "title": "Symbolischer Spatenstich in Telgte-Süd",

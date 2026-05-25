@@ -1,5 +1,14 @@
 [
   {
+    "title": "Győzelemmel hangolt a záró körre a Kozármisleny",
+    "snippet": "Simán verték az ellenfelüket.",
+    "url": "https://www.bama.hu/helyi-sport/2026/05/gyozelemmel-hangolt-a-zaro-korre-a-kozarmisleny?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+    "source": "bama.hu (megyei)",
+    "lang": "hu",
+    "scope": "county",
+    "date": "Sun, 24 May 2026 18:09:52 +0000"
+  },
+  {
     "title": "Megbénította az országot a havazás: több jármű elakadt, autók csúsztak árokba",
     "snippet": "Több helyen okoz fennakadást a hó.",
     "url": "https://index.hu/belfold/2025/11/22/bakony-havazas-idojaras-fennakadas-kozlekedes-katasztrofavedelem/",
@@ -36,15 +45,6 @@
     "date": "Tue, 27 Jan 2026 13:57:28 +0000"
   },
   {
-    "title": "Győzött és előzött, feljutó helyen áll a Vasas",
-    "snippet": "Az angyalföldiek kihasználták az ETO hétvégi botlását az NB II-ben.",
-    "url": "https://index.hu/sport/futball/2024/04/16/vasas-kozarmisleny-nb-ii-elozes-eto-harmadik-helyre-szorult/",
-    "source": "index.hu/Kozármisleny",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Tue, 16 Apr 2024 09:37:00 +0200"
-  },
-  {
     "title": "Történelmi múlt",
     "snippet": "Történelmi múlt",
     "url": "http://kozarmisleny.hu/a-varos/tortenelmi-mult",
@@ -52,6 +52,15 @@
     "lang": "hu",
     "scope": "city",
     "date": ""
+  },
+  {
+    "title": "Győzött és előzött, feljutó helyen áll a Vasas",
+    "snippet": "Az angyalföldiek kihasználták az ETO hétvégi botlását az NB II-ben.",
+    "url": "https://index.hu/sport/futball/2024/04/16/vasas-kozarmisleny-nb-ii-elozes-eto-harmadik-helyre-szorult/",
+    "source": "index.hu/Kozármisleny",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Tue, 16 Apr 2024 09:37:00 +0200"
   },
   {
     "title": "Hűtlen kezeléssel, közokirat-hamisítással gyanúsítják a kozármislenyi polgármestert",

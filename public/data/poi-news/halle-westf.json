@@ -1,12 +1,75 @@
 [
   {
-    "title": "Miriam Wiskemann: Studentin aus Halle »gewinnt« schwedische Insel Marsten",
-    "snippet": "267.570 Inseln gehören zu Schweden. Fünf von ihnen wurden beim Wettbewerb »Your Swedish Island« ausgeschrieben. Unter den glücklichen Gewinnerinnen und Gewinnern: eine 27-Jährige aus Deutschland.",
-    "url": "https://www.spiegel.de/panorama/gesellschaft/miriam-wiskemann-studentin-aus-halle-gewinnt-schwedische-insel-marsten-a-3e28f9f7-0029-4da7-b87f-fbad214d3d75#ref=rss",
-    "source": "spiegel.de",
+    "title": "Böschungsbrand: Fernverkehr von Berlin nach Leipzig, Halle und Erfurt betroffen",
+    "snippet": "Ein Böschungsbrand bei Trebbin hat für Einschränkungen im Fernverkehr von und nach Sachsen, Sachsen-Anhalt und Thüringen gesorgt. Betroffen waren Verbindungen von Berlin nach Leipzig, Halle, Erfurt, Riesa und Dresden.",
+    "url": "https://www.mdr.de/nachrichten/deutschland/panorama/boeschungs-brand-trebbin-sperrung-deutsche-bahn-leipzig-halle-100.html",
+    "source": "MDR Sachsen Leipzig",
     "lang": "de",
-    "scope": "national",
-    "date": "Sun, 24 May 2026 08:22:00 +0200"
+    "scope": "city",
+    "date": "Sun, 24 May 2026 10:39:03 +0200"
+  },
+  {
+    "title": "EU forciert Wiederherstellung der Natur // Anhörung zu Umsetzungs-Plan – Menschen können bei künftiger Stärkung und Sicherung von Ökosystemen mitreden",
+    "snippet": "Intakte Moore, Wälder, Flüsse, Auen und Grünlandflächen sind lebenswichtig. Sie bieten Tieren wie Pflanzen Lebensraum und speichern darüber hinaus Kohlenstoff, halten Wasser in der Landschaft und kühlen bei Hitze. Doch wie lassen sich",
+    "url": "https://dubisthalle.de/eu-forciert-wiederherstellung-der-natur-anhoerung-zu-umsetzungs-plan-menschen-koennen-bei-kuenftiger-staerkung-und-sicherung-von-oekosystemen-mitreden/",
+    "source": "Du bist Halle",
+    "lang": "de",
+    "scope": "city",
+    "date": "Mon, 25 May 2026 04:52:00 +0000"
+  },
+  {
+    "title": "Sachsen-Anhalt",
+    "snippet": "Nachrichten, Informationen und Hintergründe aus Wirtschaft, Politik, Sport und Kultur in Sachsen-Anhalt.",
+    "url": "https://www.mdr.de/nachrichten/sachsen-anhalt/sachsen-anhalt-nachrichtenfeed-138.html",
+    "source": "MDR Halle",
+    "lang": "de",
+    "scope": "city",
+    "date": "Mon, 25 May 2026 09:26:27 +0200"
+  },
+  {
+    "title": "Nach Böschungsbrand: Bahnverkehr zwischen Berlin und Halle störungsfrei",
+    "snippet": "Auf der wichtigen Bahnstrecke zwischen Berlin und Halle war ein Feuer ausgebrochen. Auch am Sonntagmorgen musste die Feuerwehr anrücken.",
+    "url": "https://www.wp.de/panorama/article412078825/boeschungsbrand-bahnstrecke-zwischen-berlin-und-halle-gesperrt.html",
+    "source": "WP siegerland",
+    "lang": "de",
+    "scope": "state",
+    "date": "Sun, 24 May 2026 16:05:29 +0200"
+  },
+  {
+    "title": "Wildes Stadtleben unter der Lupe: Leopoldina lädt zum Mikroskopieren und Artenbestimmen am Langen Tag der StadtNatur ein",
+    "snippet": "Ein wildes Treiben herrscht mitten in der Stadt: Der Park rund um den Hauptsitz der Nationalen Akademie der Wissenschaften Leopoldina auf dem Jägerberg bietet zahlreichen Pflanzen und Tieren ein Zuhause. Wer genau dort kreucht",
+    "url": "https://dubisthalle.de/wildes-stadtleben-unter-der-lupe-leopoldina-laedt-zum-mikroskopieren-und-artenbestimmen-am-langen-tag-der-stadtnatur-ein/",
+    "source": "Du bist Halle",
+    "lang": "de",
+    "scope": "city",
+    "date": "Sun, 24 May 2026 22:09:51 +0000"
+  },
+  {
+    "title": "Gebäude nach Großbrand auf Vierseitenhof einsturzgefährdet — keine Personen verletzt",
+    "snippet": "Nach einem Großbrand auf einem Grundstück in Stößen sind mehrere Gebäude auf dem Grundstück einsturzgefährdet. Die Feuerwehr war mit einem Großaufgebot im Einsatz.",
+    "url": "https://www.mdr.de/nachrichten/sachsen-anhalt/halle/burgenland/brand-hof-stoessen-102.html",
+    "source": "MDR Halle",
+    "lang": "de",
+    "scope": "city",
+    "date": "Mon, 25 May 2026 09:41:03 +0200"
+  },
+  {
+    "title": "Haltestellen-Scheiben an der Magistrale zerstört",
+    "snippet": "Am späten Samstagabend sind auf der Magistrale an der Haltestelle Schwimmhalle die Glasscheiben zerstört worden. Zeugen haben noch einen jungen Mann wegrennen sehen.",
+    "url": "https://dubisthalle.de/haltestellen-scheiben-an-der-magistrale-zerstoert/",
+    "source": "Du bist Halle",
+    "lang": "de",
+    "scope": "city",
+    "date": "Sun, 24 May 2026 21:33:17 +0000"
+  },
+  {
+    "title": "Halle: Junge Frau bei Motorradunfall verstorben",
+    "snippet": "In Halle ist eine junge Frau bei einem Motorradunfall verstorben. Die 20-Jährige krachte gegen eine Hauswand.",
+    "url": "https://www.mdr.de/nachrichten/sachsen-anhalt/halle/halle/unfall-motorrad-frau-verstorben-100.html",
+    "source": "MDR Halle",
+    "lang": "de",
+    "scope": "city",
+    "date": "Mon, 25 May 2026 09:26:11 +0200"
   },
   {
     "title": "Landespokalfinale: Hansa Rostock und Halle lösen DFB-Pokal-Ticket",
@@ -18,22 +81,13 @@
     "date": "Sat, 23 May 2026 13:45:44 GMT"
   },
   {
-    "title": "Für ein Jahr: Studentin aus Halle „gewinnt“ schwedische Insel",
-    "snippet": "Fünf Inseln, 2.242 Bewerbungen. Miriam Wiskemann aus Halle zählt zu den Gewinnern - und darf sich nun Inselverwalterin nennen. Was sie plant.",
-    "url": "https://www.tagesspiegel.de/gesellschaft/panorama/fur-ein-jahr-studentin-aus-halle-gewinnt-schwedische-insel-15633964.html",
-    "source": "Tagesspiegel",
-    "lang": "de",
-    "scope": "city",
-    "date": "Sat, 23 May 2026 19:24:36 +0200"
-  },
-  {
-    "title": "Böschungsbrand: Fernverkehr von Berlin nach Leipzig, Halle und Erfurt betroffen",
-    "snippet": "Ein Böschungsbrand bei Trebbin hat für Einschränkungen im Fernverkehr von und nach Sachsen, Sachsen-Anhalt und Thüringen gesorgt. Betroffen waren Verbindungen von Berlin nach Leipzig, Halle, Erfurt, Riesa und Dresden.",
-    "url": "https://www.mdr.de/nachrichten/deutschland/panorama/boeschungs-brand-trebbin-sperrung-deutsche-bahn-leipzig-halle-100.html",
+    "title": "Tödlicher Arbeitsunfall in Wurzen: Halle auf Betriebsgelände teilweise eingestürzt",
+    "snippet": "In Wurzen bei Leipzig hat sich am Freitagmorgen ein schwerer Arbeitsunfall ereignet. Dabei ist der Fahrer eines Lasters zu Tode gekommen. Er war mit dem Lkw gegen eine Hallenwand geprallt.",
+    "url": "https://www.mdr.de/nachrichten/sachsen/leipzig/grimma-oschatz-wurzen/arbeitsunfall-lkw-einsturz-halle-toter-100.html",
     "source": "MDR Sachsen Leipzig",
     "lang": "de",
     "scope": "city",
-    "date": "Sun, 24 May 2026 01:16:45 +0200"
+    "date": "Fri, 22 May 2026 12:46:52 +0200"
   },
   {
     "title": "Ein Hauch von Las Vegas - Ehrlich Brothers in der Volkswagen Halle",
@@ -45,40 +99,13 @@
     "date": "Sat, 23 May 2026 09:46:44 +0200"
   },
   {
-    "title": "Wildcats feiern deutlichen Derby-Sieg gegen Zwickau und tanken Selbstvertrauen für die Relegation",
-    "snippet": "Mit einer beeindruckenden Offensivleistung haben sich die Wildcats des SV UNION Halle-Neustadt am Samstagabend im letzten Heimspiel der Play-off-Runde eindrucksvoll zurückgemeldet. Vor 778 Zuschauerinnen und Zuschauern setzte sich das Team von Trainerin Ines Seidler",
-    "url": "https://dubisthalle.de/wildcats-feiern-deutlichen-derby-sieg-gegen-zwickau-und-tanken-selbstvertrauen-fuer-die-relegation/",
+    "title": "Möglicherweise Autorennen: Verletzte bei Unfall auf der Magistrale, Polizei sucht Zeugen zu geflüchtetem Fahrzeug",
+    "snippet": "Am Samstag, 23.05.2026 gegen 20:45 Uhr prallte ein PKW Daimler-Benz An der Magistrale von hinten auf einen anderen PKW, der an einer Ampel Höhe Hallorenstraße verkehrsbedingt wartete. Durch die Wucht des Aufpralls wurde der",
+    "url": "https://dubisthalle.de/verletzte-bei-unfall-auf-der-magistrale-2/",
     "source": "Du bist Halle",
     "lang": "de",
     "scope": "city",
-    "date": "Sun, 24 May 2026 06:21:44 +0000"
-  },
-  {
-    "title": "Sachsen-Anhalt",
-    "snippet": "Nachrichten, Informationen und Hintergründe aus Wirtschaft, Politik, Sport und Kultur in Sachsen-Anhalt.",
-    "url": "https://www.mdr.de/nachrichten/sachsen-anhalt/sachsen-anhalt-nachrichtenfeed-138.html",
-    "source": "MDR Halle",
-    "lang": "de",
-    "scope": "city",
-    "date": "Sun, 24 May 2026 08:24:40 +0200"
-  },
-  {
-    "title": "Böschungsbrand: Bahnstrecke zwischen Berlin und Halle gesperrt",
-    "snippet": "Auf der wichtigen Bahnstrecke zwischen Berlin und Halle ist ein Feuer ausgebrochen. Reisende sitzen im Zug fest. Die Feuerwehr ist im Einsatz.",
-    "url": "https://www.wp.de/panorama/article412078825/boeschungsbrand-bahnstrecke-zwischen-berlin-und-halle-gesperrt.html",
-    "source": "WP siegerland",
-    "lang": "de",
-    "scope": "state",
-    "date": "Sat, 23 May 2026 16:53:35 +0200"
-  },
-  {
-    "title": "Unrat auf alten Industriegelände in Ammendorf brannte",
-    "snippet": "Am Samstagnachmittag stieg über dem Süden von Halle (Saale) eine dunkle Rauchwolke auf. In der Alten Heerstraße brannte Unrat auf dem Gelände des alten Plattenwerks. Die Feuerwehr hatte den Brand schnell gelöscht.",
-    "url": "https://dubisthalle.de/unrat-auf-alten-industriegelaende-in-ammendorf-brannte/",
-    "source": "Du bist Halle",
-    "lang": "de",
-    "scope": "city",
-    "date": "Sat, 23 May 2026 22:51:04 +0000"
+    "date": "Sun, 24 May 2026 07:51:00 +0000"
   },
   {
     "title": "Sachsen-Anhalt Pokal: Halle gnadenlos gegen Halberstadt",
@@ -90,13 +117,13 @@
     "date": "Sat, 23 May 2026 19:55:58 +0200"
   },
   {
-    "title": "Verletzte bei Unfall auf der Magistrale",
-    "snippet": "Am Samstagabend sind auf der Magistrale in Halle-Neustadt Höhe Hallorenstraße zwei Autos zusammengestoßen. Personen wurden im Rettungswagen behandelt. Die beiden Fahrzeuge mussten abgeschleppt werden. Nähere Informationen folgen",
-    "url": "https://dubisthalle.de/verletzte-bei-unfall-auf-der-magistrale-2/",
+    "title": "Feuerwehreinsatz im Südpark: Unrat im Hausflur brannte",
+    "snippet": "Am Sonntag gegen 01:50 Uhr wurde Qualm im Treppenhaus eines Mehrfamilienhauses in der Offenbachstraße bemerkt und Rettungskräfte alarmiert. Die Feuerwehr konnte im Flur qualmenden Unrat schnell löschen. Verletzt wurde niemand. Die Polizei nimmt Ermittlungen",
+    "url": "https://dubisthalle.de/feuerwehreinsatz-im-suedpark-unrat-im-hausflur-brannte/",
     "source": "Du bist Halle",
     "lang": "de",
     "scope": "city",
-    "date": "Sat, 23 May 2026 19:51:37 +0000"
+    "date": "Sun, 24 May 2026 07:17:00 +0000"
   },
   {
     "title": "Grundgesetz feiert Geburtstag in Eisleben",
@@ -108,13 +135,31 @@
     "date": "Sat, 23 May 2026 19:34:59 +0200"
   },
   {
-    "title": "Tödlicher Arbeitsunfall in Wurzen: Halle auf Betriebsgelände teilweise eingestürzt",
-    "snippet": "In Wurzen bei Leipzig hat sich am Freitagmorgen ein schwerer Arbeitsunfall ereignet. Dabei ist der Fahrer eines Lasters zu Tode gekommen. Er war mit dem Lkw gegen eine Hallenwand geprallt.",
-    "url": "https://www.mdr.de/nachrichten/sachsen/leipzig/grimma-oschatz-wurzen/arbeitsunfall-lkw-einsturz-halle-toter-100.html",
-    "source": "MDR Sachsen Leipzig",
+    "title": "Wildcats feiern deutlichen Derby-Sieg gegen Zwickau und tanken Selbstvertrauen für die Relegation",
+    "snippet": "Mit einer beeindruckenden Offensivleistung haben sich die Wildcats des SV UNION Halle-Neustadt am Samstagabend im letzten Heimspiel der Play-off-Runde eindrucksvoll zurückgemeldet. Vor 778 Zuschauerinnen und Zuschauern setzte sich das Team von Trainerin Ines Seidler",
+    "url": "https://dubisthalle.de/wildcats-feiern-deutlichen-derby-sieg-gegen-zwickau-und-tanken-selbstvertrauen-fuer-die-relegation/",
+    "source": "Du bist Halle",
     "lang": "de",
     "scope": "city",
-    "date": "Fri, 22 May 2026 12:46:52 +0200"
+    "date": "Sun, 24 May 2026 06:21:44 +0000"
+  },
+  {
+    "title": "Ein Konzept, zwei Meinungen: Mähfreier Mai in Halle",
+    "snippet": "Insektenparadies oder ungepflegte Wildnis? Im Mai bleibt der Rasenmäher in vielen Teilen von Halle im Schuppen. Ökologische Ideale prallen auf wirtschaftliche Zwänge und Ästhetik-Vorstellungen der Anwohner.",
+    "url": "https://www.mdr.de/nachrichten/sachsen-anhalt/halle/halle/maehfreier-mai-halle-100.html",
+    "source": "MDR Halle",
+    "lang": "de",
+    "scope": "city",
+    "date": "Sat, 23 May 2026 11:21:08 +0200"
+  },
+  {
+    "title": "Madison Beer in der Max-Schmeling-Halle: Ein bisschen zu viel Politur",
+    "snippet": "Anfang der 2010er machte Justin Bieber die US-Amerikanerin Madison Beer quasi über Nacht weltberühmt. Derzeit ist sie mit ihrem dritten Album auf Tour. In der Berliner Max-Schmeling-Halle gab es tolle Songs zu hören, die etwas zu perfekt inszeniert waren.",
+    "url": "https://www.rbb24.de/kultur/beitrag/2026/05/madison-beer-konzert-max-schmeeling-halle-berlin.html",
+    "source": "rbb24 Kultur",
+    "lang": "de",
+    "scope": "region",
+    "date": "Wed, 20 May 2026 08:56:00 +0200"
   },
   {
     "title": "Theater in Halle, Eisleben, Magdeburg: Die 6 Top Stücke im Juni 2026",
@@ -135,22 +180,22 @@
     "date": "Thu, 21 May 2026 14:46:20 +0000"
   },
   {
-    "title": "Wildcats empfangen Zwickau zum letzten Heimspiel der Playoffs",
-    "snippet": "Zum letzten Heimspiel der diesjährigen Playoffs empfangen die Wildcats am Samstagabend den BSV Sachsen Zwickau zum mit Spannung erwarteten Ostderby. Auch wenn die tabellarische Ausgangslage inzwischen klar ist, wollen sich die Wildcats vor heimischem",
-    "url": "https://dubisthalle.de/wildcats-empfangen-zwickau-zum-letzten-heimspiel-der-playoffs/",
+    "title": "Haushaltsgenehmigung für Halle: Landesverwaltungsamt streicht Projekte über 18 Millionen Euro – Stadt will sie durch Umschichtungen trotzdem umsetzen",
+    "snippet": "Der städtische Finanzausschuss am Mittwoch stand ganz im Zeichen des Haushalts 2026. Das Landesverwaltungsamt greift bei den städtischen Finanzen teilweise hart durch und versagte Genehmigungen für Verpflichtungsermächtigungen in Höhe von rund 17,36 Millionen Euro",
+    "url": "https://dubisthalle.de/haushaltsgenehmigung-fuer-halle-landesverwaltungsamt-streicht-projekte-ueber-18-millionen-euro-stadt-will-sie-durch-umschichtungen-trotzdem-umsetzen/",
     "source": "Du bist Halle",
     "lang": "de",
     "scope": "city",
-    "date": "Sat, 23 May 2026 05:31:05 +0000"
+    "date": "Fri, 22 May 2026 06:48:14 +0000"
   },
   {
-    "title": "Brückensperrung in Karsdorf: Was Wassersportler beachten müssenKarsdorf, Brücke, Brückensperrung, Sperrung, Paddler, Paddeln, news-anhalt",
-    "snippet": "In Karsdorf beginnt in diesen Tagen die Saison des sanften Tourismus. Die Vorfreude auf ausgedehnte Paddler-Ausflüge ist groß. Aber dann ist da noch die Nachricht von einer geplanten Brückensperrung.",
-    "url": "https://www.mdr.de/video/mdr-videos/c/video-1012458.html",
+    "title": "Saisonstart im Freibad Weißenfels",
+    "snippet": "An diesem Wochenende schon können alle, die den Sommer lieben, völlig ausflippen und ins Wasser springen. Unsere Reporterin Tanja Ries ist froh, endlich wieder draußen zu sein. Aber so richtig ins kühle Nass eintauchen?",
+    "url": "https://www.mdr.de/video/mdr-videos/c/video-1012244.html",
     "source": "MDR Halle",
     "lang": "de",
     "scope": "city",
-    "date": "Fri, 22 May 2026 19:39:16 +0200"
+    "date": "Thu, 21 May 2026 20:07:57 +0200"
   },
   {
     "title": "Uni Halle lädt zum Hochschulinformationstag 2026 ein",
@@ -162,49 +207,22 @@
     "date": "Thu, 21 May 2026 12:47:51 +0000"
   },
   {
-    "title": "Kakteenbörse im Botanischen Garten heute und morgen",
-    "snippet": "Kakteenliebhaber und Hobbygärtner sollten sich das kommende Wochenende rot im Kalender anstreichen: Der Botanische Garten der Martin-Luther-Universität Halle-Wittenberg lädt wieder zu seiner traditionellen Kakteen- und Jungpflanzenbörse ein. Am 23. und 24. Mai 2026 verwandelt",
-    "url": "https://dubisthalle.de/kakteenboerse-im-botanischen-garten-heute-und-morgen/",
+    "title": "Konflikt um das neue Cannabisgesetz – „Kein Stecki ist illegal!“: Kundgebung am Leipziger Turm angekündigt",
+    "snippet": "Ein politisches Nachspiel zur Cannabis-Entkriminalisierung erreicht Halle (Saale): Am kommenden Pfingstsonntag mobilisiert der Deutsche Hanfverband (DHV) Halle-Saalekreis zu einer Kundgebung. Unter dem prägnanten Motto „Kein Stecki ist illegal!“ fordern die Aktivisten Rechtssicherheit im Umgang",
+    "url": "https://dubisthalle.de/konflikt-um-das-neue-cannabisgesetz-kein-stecki-ist-illegal-kundgebung-am-leipziger-turm-angekuendigt/",
     "source": "Du bist Halle",
     "lang": "de",
     "scope": "city",
-    "date": "Sat, 23 May 2026 04:48:43 +0000"
+    "date": "Fri, 22 May 2026 06:22:00 +0000"
   },
   {
-    "title": "Hotel \"Rebschule\" - Koch erfüllt sich einen Traum",
-    "snippet": "Uwe Marquardt hat gerade von Koch und Barbesitzer auf Hotelier umgesattelt und sich damit einen Traum verwirklicht. Jetzt kommt der nächste Schritt: der Freyburger Rebschule wieder zu altem Glanz verhelfen.",
-    "url": "https://www.mdr.de/video/mdr-videos/c/video-1012456.html",
+    "title": "Unstrut bei Karsdorf im Sommer für Paddler und Schiffe gesperrt",
+    "snippet": "Bereits im vergangenen Jahr musste die Unstrut wegen Brückenarbeiten bei Karsdorf im Burgenlandkreis gesperrt werden. Nun gibt es neue Arbeiten im August. Für Kanufahrer soll es extra Ein- und Ausstiegpunkte geben.",
+    "url": "https://www.mdr.de/nachrichten/sachsen-anhalt/halle/burgenland/unstrut-erneut-gesperrt-100.html",
     "source": "MDR Halle",
     "lang": "de",
     "scope": "city",
-    "date": "Fri, 22 May 2026 19:37:36 +0200"
-  },
-  {
-    "title": "Eleganz in Schwarz: Das Viktorianische Picknick beim Wave-Gotik-Treffen begeistert Tausende Besucher",
-    "snippet": "Leipzig wird schwarz – und gleichzeitig so bunt wie kaum eine andere Stadt in Deutschland. Wenn sich zu Pfingsten Tausende Menschen in aufwendig gestalteten viktorianischen Kleidern, Uniformen, Korsetts, Fräcken und Spitzengewändern im Clara-Zetkin-Park versammeln,",
-    "url": "https://dubisthalle.de/eleganz-in-schwarz-das-viktorianische-picknick-beim-wave-gotik-treffen-begeistert-tausende-besucher/",
-    "source": "Du bist Halle",
-    "lang": "de",
-    "scope": "city",
-    "date": "Sat, 23 May 2026 03:28:51 +0000"
-  },
-  {
-    "title": "Für die Artenvielfalt: Mäh-freier Mai in Halle",
-    "snippet": "Was auf den ersten Blick wild und ungewohnt erscheint, hat meistens einen großen Nutzen für die Natur. Die Stadt Halle lässt ihre Grünfläche im gesamten Mai deshalb stehen. Aber nicht alle finden das gut.",
-    "url": "https://www.mdr.de/video/mdr-videos/c/video-1012446.html",
-    "source": "MDR Halle",
-    "lang": "de",
-    "scope": "city",
-    "date": "Fri, 22 May 2026 19:32:46 +0200"
-  },
-  {
-    "title": "Madison Beer in der Max-Schmeling-Halle: Ein bisschen zu viel Politur",
-    "snippet": "Anfang der 2010er machte Justin Bieber die US-Amerikanerin Madison Beer quasi über Nacht weltberühmt. Derzeit ist sie mit ihrem dritten Album auf Tour. In der Berliner Max-Schmeling-Halle gab es tolle Songs zu hören, die etwas zu perfekt inszeniert waren.",
-    "url": "https://www.rbb24.de/kultur/beitrag/2026/05/madison-beer-konzert-max-schmeeling-halle-berlin.html",
-    "source": "rbb24 Kultur",
-    "lang": "de",
-    "scope": "region",
-    "date": "Wed, 20 May 2026 08:56:00 +0200"
+    "date": "Thu, 21 May 2026 17:21:52 +0200"
   },
   {
     "title": "Mehr als 8000 Besucher: Ausstellung über Obdachlosigkeit endet im Stadtmuseum Halle",
@@ -216,49 +234,13 @@
     "date": "Wed, 20 May 2026 13:23:15 +0000"
   },
   {
-    "title": "Pokalfinale: HFC will Favoritenrolle erfüllen",
-    "snippet": "Am kommenden Wochenende rollt der Ball beim Finaltag der Amateure. Da laufen in allen Bundesländern an einem Tag die Finalspiele im Landespokal. In Sachsen-Anhalt ist der Hallesche FC gegen Halberstadt Favorit.",
-    "url": "https://www.mdr.de/video/mdr-videos/c/video-1012024.html",
+    "title": "Halle: Krankenhaus übernommen – neuer Name steht fest",
+    "snippet": "In Halle hatte das katholische Krankenhaus St. Elisabeth und St. Barbara zum neuen Jahr den Standort Martha-Maria in Dölau übernommen. Nun steht der neue Name fest.",
+    "url": "https://www.mdr.de/nachrichten/sachsen-anhalt/halle/halle/krankenhaus-sankt-elisabeth-barbara-martha-maria-neuer-name100.html",
     "source": "MDR Halle",
     "lang": "de",
     "scope": "city",
-    "date": "Wed, 20 May 2026 19:53:11 +0200"
-  },
-  {
-    "title": "„Kein Stecki ist illegal“ – Kundgebung zu Cannabis-Stecklingen in Halle angekündigt",
-    "snippet": "Halle (Saale) – Unter dem Motto „Kein Stecki ist illegal!“ ruft der Deutscher Hanfverband Halle-Saalekreis für Pfingstsonntag, 24. Mai, zu einer Kundgebung Am Leipziger Turm in Halle auf. Die Veranstaltung soll von 14 bis 19 Uhr stattfinden. Im Mittelpunkt steht die Frage, wie das Cannabisgesetz (KC",
-    "url": "https://hallespektrum.de/aktuelles/kein-stecki-ist-illegal-kundgebung-zu-cannabis-stecklingen-in-halle-angekuendigt/477018/",
-    "source": "HalleSpektrum",
-    "lang": "de",
-    "scope": "city",
-    "date": "Wed, 20 May 2026 11:51:06 +0000"
-  },
-  {
-    "title": "Neuzugänge in Halle: Zwei Löwen für den Bergzoo",
-    "snippet": "Bienvenue a Halle: Zwei Berberlöwen aus Frankreich sind am Mittwochmorgen im Bergzoo eingetroffen. Die beiden schicken Neuzugänge ziehen ins alte Löwengehege ein - und mit ihnen großes Gebrüll.",
-    "url": "https://www.mdr.de/video/mdr-videos/c/video-1012020.html",
-    "source": "MDR Halle",
-    "lang": "de",
-    "scope": "city",
-    "date": "Wed, 20 May 2026 19:49:57 +0200"
-  },
-  {
-    "title": "Bühnen Halle starten Vorverkauf für die Spielzeit 2026/27",
-    "snippet": "Mit Oper, Schauspiel, Tanz, Puppentheater und Sinfoniekonzerten starten die Bühnen Halle in die neue Spielzeit 2026/27. Der Vorverkauf beginnt am 20. Mai 2026. Ab diesem Zeitpunkt sind Eintrittskarten für sämtliche Vorstellungen von Oper, Ballett und Staatskapelle sowie für die ersten Termine im neu",
-    "url": "https://hallespektrum.de/aktuelles/buehnen-halle-starten-vorverkauf-fuer-die-spielzeit-2026-27/477012/",
-    "source": "HalleSpektrum",
-    "lang": "de",
-    "scope": "city",
-    "date": "Tue, 19 May 2026 16:24:26 +0000"
-  },
-  {
-    "title": "Video:",
-    "snippet": "Der Bergzoo Halle hat am Mittwoch Zuwachs bekommen. Zwei Löwenbrüder sind in das zuvor leerstehende Gehege eingezogen. So richtig trauten sich die beiden nicht in das neue Zuhause.",
-    "url": "https://www.mdr.de/nachrichten/sachsen-anhalt/halle/halle/video-bergzoo-halle-loewen-zuwachs-100.html",
-    "source": "MDR Halle",
-    "lang": "de",
-    "scope": "city",
-    "date": "Wed, 20 May 2026 18:24:14 +0200"
+    "date": "Thu, 21 May 2026 13:38:15 +0200"
   },
   {
     "title": "Region Halle",
@@ -268,5 +250,23 @@
     "lang": "de",
     "scope": "city",
     "date": "Tue, 14 Apr 2026 15:30:49 +0200"
+  },
+  {
+    "title": "Für Radschnellweg Heidelberg – Mannheim: Abriss von Halle in Ladenburg gestartet",
+    "snippet": "Zwischen Heidelberg und Mannheim entsteht ein Radschnellweg. Dafür wird nun eine große Halle in Ladenburg abgerissen. Die Details:",
+    "url": "https://www.heidelberg24.de/heidelberg/radschnellweg-heidelberg-mannheim-abriss-von-halle-in-ladenburg-94304555.html",
+    "source": "Heidelberg24",
+    "lang": "de",
+    "scope": "city",
+    "date": "Wed, 13 May 2026 07:47:46 +0200"
+  },
+  {
+    "title": "Stadthalle Görlitz: CongressCenter und Halle für alle",
+    "snippet": "Die Stadt Görlitz präsentierte ihr derzeit größtes Zukunftsprojekt am vergangenen Montag in der Bundeshauptstadt. Mit der sanierten Stadthalle wird die Europastadt Görlitz/Zgorzelec zu einer attraktiven Destination auf dem Markt für Tagungen und Kongresse.",
+    "url": "https://www.goerlitz.de/news/2409",
+    "source": "Görlitz (official)",
+    "lang": "de",
+    "scope": "city",
+    "date": "Wed, 11 Mar 2026 08:00:00 EST"
   }
 ]

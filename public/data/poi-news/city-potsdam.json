@@ -1,93 +1,183 @@
 [
   {
-    "title": "Handydaten führten zur Leiche: Entführter Berliner ermordet in Wald bei Potsdam entdeckt",
-    "snippet": "Der Ende April in Reinickendorf entführte Geschäftsmann Ismet K. wurde ermordet. Nach B.Z.-Informationen wurde er in einem Waldstück bei Potsdam entdeckt.",
-    "url": "https://www.bz-berlin.de/polizei/entfuehrter-berliner-ermordet-in-wald-bei-potsdam-entdeckt",
+    "title": "Heftiger Unfall bei Potsdam: Biker kracht in Auto – schwerstverletzt!",
+    "snippet": "Perfektes Ausflugswetter für Motorradfahrer. Doch auf der B273 endete die Fahrt eines Bikers am Samstag dramatisch!",
+    "url": "https://www.bz-berlin.de/polizei/biker-kracht-in-auto-schwerstverletzt",
     "source": "B.Z. Berlin",
     "lang": "de",
     "scope": "city",
-    "date": "Sat, 23 May 2026 22:51:22 +0200"
+    "date": "Sun, 24 May 2026 17:03:42 +0200"
   },
   {
-    "title": "Die AfD als Problem der SPD: Albigs Vorstoß ist hochriskant",
-    "snippet": "Der frühere Ministerpräsident sieht die Lage klar. Aber er unterschätzt die Gefahr strategischer Abhängigkeit von den Rechtsaußen. Die Sozialdemokratie braucht eigene Stärke.",
-    "url": "https://www.tagesspiegel.de/politik/die-afd-als-problem-der-spd-albigs-vorstoss-ist-hochriskant-15633818.html",
+    "title": "Heute wird es wieder heiß: Diese Seen und Ausflugsziele sind von Berlin und Potsdam aus mit der Bahn erreichbar",
+    "snippet": "Die Region schwitzt bei annähernd 30 Grad. Müggelsee, Dämeritzsee und Co. locken mit klarem Wasser. Dabei geht es um Spaß - und Geschichte.",
+    "url": "https://www.berliner-zeitung.de/article/berlin-schwitzt-bei-30-grad-diese-seen-und-ausflugsziele-im-osten-sind-jetzt-perfekt-10038133",
+    "source": "Berliner Zeitung",
+    "lang": "de",
+    "scope": "city",
+    "date": "Sun, 24 May 2026 09:14:50 GMT"
+  },
+  {
+    "title": "Berliner im April verschleppt – Polizei stößt auf Männerleiche bei Potsdam",
+    "snippet": "Im April wurde ein Mann in einen Transporter gezerrt und verschleppt. Seitdem fehlt jede Spur. Nun soll es neue Entwicklungen geben.",
+    "url": "https://www.morgenpost.de/berlin/article411926510/in-weissen-transporter-gezerrt-und-verschleppt-wer-hat-ismet-k-gesehen.html",
+    "source": "Berliner Morgenpost",
+    "lang": "de",
+    "scope": "city",
+    "date": "Sun, 24 May 2026 13:00:13 +0200"
+  },
+  {
+    "title": "Wohnungspolitik: Nach der Räumung legen Hausbesetzer in Potsdam nach",
+    "snippet": "Die Polizei räumt ein besetztes Gebäude in Potsdam. Doch für die Aktivisten ist der Konflikt noch längst nicht beendet. Spitzt sich der Streit um fehlende Wohnungen und Leerstand zu?",
+    "url": "https://www.tagesspiegel.de/berlin/wohnungspolitik-nach-der-raumung-legen-hausbesetzer-in-potsdam-nach-15635189.html",
+    "source": "Tagesspiegel Berlin",
+    "lang": "de",
+    "scope": "city",
+    "date": "Sun, 24 May 2026 17:22:32 +0200"
+  },
+  {
+    "title": "Im Wald bei Potsdam - Killer vergruben Unternehmer mit Hunderten Euro",
+    "snippet": "Entführter Bauunternehmer Ismet K. wurde im Wald vergraben tot aufgefunden.",
+    "url": "https://www.bild.de/regional/berlin/potsdam-unternehmer-ermordet-und-mit-hunderten-euro-vergraben-6a12bc763b7096456ac8133b",
+    "source": "Bild Berlin",
+    "lang": "de",
+    "scope": "city",
+    "date": "Sun, 24 May 2026 13:55:19 CEST"
+  },
+  {
+    "title": "Männerleiche in Potsdam gefunden - Zusammenhang mit Berliner Fall möglich",
+    "snippet": "Die Polizei hat in einem Wald bei Potsdam eine vergrabene Leiche gefunden. Möglicherweise handelt es sich um einen Ende April in Berlin entführten Mann, die Identifizierung aber noch nicht abgeschlossen.",
+    "url": "https://www.rbb24.de/panorama/beitrag/2026/05/potsdam-leichenfund-verschleppter-mann-berlin-.html",
+    "source": "rbb24 Panorama",
+    "lang": "de",
+    "scope": "region",
+    "date": "Sun, 24 May 2026 13:42:26 +0200"
+  },
+  {
+    "title": "„Schränken Angebote massiv ein“: Auch Potsdams Bürgerhäuser kritisieren die Verpackungssteuer",
+    "snippet": "Nach der Gastrobranche machen nun gemeinnützige Betreiber gegen die neue Steuer mobil. Sie fürchten sich vor Bürokratie und höheren Preisen. Mehrweggeschirr könnten sie sich nicht leisten.",
+    "url": "https://www.tagesspiegel.de/potsdam/landeshauptstadt/schranken-angebote-massiv-ein-auch-potsdams-burgerhauser-kritisieren-die-verpackungssteuer-15631991.html",
+    "source": "PNN Potsdam News",
+    "lang": "de",
+    "scope": "city",
+    "date": "Sun, 24 May 2026 15:27:16 +0200"
+  },
+  {
+    "title": "Hohe Prämien in Las Vegas: Doping erlaubt: Enhanced Games begeistern Teilnehmer",
+    "snippet": "Finanziell hat sich die Premiere der Enhanced Games für Marius Kusch gelohnt. Der deutsche Schwimmer kassiert für seinen Sieg über 100 Meter Freistil bei dem umstrittenen Event 250.000 US-Dollar.",
+    "url": "https://www.tagesspiegel.de/sport/hohe-pramien-in-las-vegas-doping-erlaubt-enhanced-games-begeistern-teilnehmer-15635697.html",
     "source": "PNN Potsdam",
     "lang": "de",
     "scope": "city",
-    "date": "Sun, 24 May 2026 08:47:35 +0200"
+    "date": "Mon, 25 May 2026 07:24:43 +0200"
   },
   {
-    "title": "Potsdam: Über 30 Hunde beim ersten Dackel-Rennen in Potsdam - mit Bildergalerie",
-    "snippet": "Beim ersten Dackelrennen in Neu Fahrland flitzten 30 Vierbeiner um die Wette. Von Fehlstarts bis zum Überraschungssieg: Es war alles dabei. Hier geht es zu den schönsten Eindrücken.",
-    "url": "https://www.maz-online.de/lokales/potsdam/potsdam-ueber-30-hunde-beim-ersten-dackel-rennen-in-potsdam-mit-bildergalerie-SIHPWV5NIRH65PCBTRTCXWQP3Y.html",
+    "title": "Potsdam-Museum: Wie Hannes Wittenberg sowjetische Relikte für die Sammlung rettete",
+    "snippet": "Hannes Wittenberg hat sich viele Jahre lang auf die Suche nach Objekten für die Sammlung des Potsdam-Museums gemacht, schon lange, bevor er dessen stellvertretender Direktor wurde. Im Interview spricht er über Indiana-Jones-Momente in sowjetischen Kasernen und begehrte Objekte, die ihm am Ende doch ",
+    "url": "https://www.maz-online.de/lokales/potsdam/potsdam-museum-wie-hannes-wittenberg-sowjetische-relikte-fuer-die-sammlung-rettete-MCEWVBJJLZHE5BWHQIPEFJEFKI.html",
     "source": "Maerkische Allgemeine",
     "lang": "de",
     "scope": "state",
-    "date": "Sat, 23 May 2026 19:53:38 +0200"
+    "date": "Mon, 25 May 2026 09:13:00 +0200"
   },
   {
-    "title": "Veranstaltungen in Potsdam und Umgebung: Die MAZ-Event-Tipps über Pfingsten",
-    "snippet": "Ob auf eine Reise ins mittelalterliche Markttreiben, auf ein Dackelrennen an einer Villa oder auf musikalische Ausflüge: Diese Veranstaltungen in Potsdam und Umgebung nehmen Sie mit ins lange Pfingstwochenende. Die MAZ-Tipps für das Wochenende vom 22. bis 25. Mai.",
-    "url": "https://www.maz-online.de/lokales/potsdam/veranstaltungen-in-potsdam-und-umgebung-die-maz-event-tipps-ueber-pfingsten-OYKS2OCPOFC4LKMEQPA7YOGLAU.html",
+    "title": "„Stimmung der Angst“ - Gewalttätige Potsdamer Jugendgruppe terrorisiert Jugendclubs",
+    "snippet": "Verbale, körperliche und sexualisierte Gewalt: Eine Gruppe Jugendlicher zieht durch Potsdam und sorgt vor allem in den Jugendclubs für Angst. Die Stadt hat erste Maßnahmen getroffen, doch die Situation spitzt sich weiter zu. Ein Sozialarbeiter warnt: „Es entstehen rechtsfreie Räume.“",
+    "url": "https://www.maz-online.de/lokales/potsdam/stimmung-der-angst-gewalttaetige-potsdamer-jugendgruppe-terrorisiert-jugendclubs-JIJR7QPVSNFLLIW6M67Q53ZIDA.html",
     "source": "MAZ Potsdam",
     "lang": "de",
     "scope": "city",
-    "date": "Sat, 23 May 2026 09:11:00 +0200"
+    "date": "Sun, 24 May 2026 15:03:00 +0200"
   },
   {
-    "title": "Major League Soccer: Thomas Müller glänzt bei Whitecaps-Sieg in San Diego",
-    "snippet": "Thomas Müller überzeugt bei Vancouvers 4:2-Erfolg in San Diego – und bringt sein Team damit an die Tabellenspitze der Western Conference.",
-    "url": "https://www.tagesspiegel.de/sport/major-league-soccer-thomas-muller-glanzt-bei-whitecaps-sieg-in-san-diego-15634289.html",
+    "title": "Vergraben im Wald: Männerleiche bei Potsdam entdeckt",
+    "snippet": "In einem Waldstück bei Potsdam wird eine Männerleiche entdeckt – steckt ein Entführungsfall aus Berlin dahinter? Die Ermittler prüfen die Verbindung zu einem vermissten Geschäftsmann.",
+    "url": "https://www.suedkurier.de/panorama/kriminalitaet-vergraben-im-wald-maennerleiche-bei-potsdam-entdeckt-114303409",
+    "source": "Südkurier",
+    "lang": "de",
+    "scope": "region",
+    "date": "2026-05-24T10:37:35Z"
+  },
+  {
+    "title": "Männerleiche bei Potsdam entdeckt: Handelt es sich um einen entführten Berliner Geschäftsmann?",
+    "snippet": "In einem Waldstück bei Potsdam wird eine Männerleiche entdeckt. Womöglich steckt ein Entführungsfall aus Berlin dahinter. Die Ermittler prüfen die Verbindung zu einem vermissten Geschäftsmann.",
+    "url": "https://www.tagesspiegel.de/berlin/mannerleiche-bei-potsdam-entdeckt-handelt-es-sich-um-einen-entfuhrten-berliner-geschaftsmann-15634772.html",
+    "source": "Tagesspiegel Berlin",
+    "lang": "de",
+    "scope": "city",
+    "date": "Sun, 24 May 2026 12:38:27 +0200"
+  },
+  {
+    "title": "Der Kilopreis ist gerade hoch: Diebe stehlen mehrere Kisten Erdbeeren aus Verkaufsstand von „Karls Erdbeerhof“",
+    "snippet": "Außerhalb der Geschäftszeiten interessieren sich Diebe für einen Erdbeerstand in Lübben im Spreewald. Doch nicht ihre ganze Beute nehmen sie mit. Auf einem Parkplatz bleiben Spuren zurück.",
+    "url": "https://www.tagesspiegel.de/potsdam/brandenburg/der-kilopreis-ist-gerade-hoch-diebe-stehlen-mehrere-kisten-erdbeeren-aus-verkaufsstand-von-karls-erdbeerhof-15635116.html",
+    "source": "PNN Potsdam News",
+    "lang": "de",
+    "scope": "city",
+    "date": "Sun, 24 May 2026 16:03:00 +0200"
+  },
+  {
+    "title": "Buchveröffentlichung: Hart an der Front: „Vergessene Soldatinnen“",
+    "snippet": "Sanitäterin, Kämpferin, Trosserin: Karen Hagemann zeigt, wie Frauen in Kriegen über Jahrhunderte unentbehrlich wurden - und trotzdem immer wieder an den Rand gedrängt wurden.",
+    "url": "https://www.tagesspiegel.de/gesellschaft/buchveroffentlichung-hart-an-der-front-vergessene-soldatinnen-15635822.html",
     "source": "PNN Potsdam",
     "lang": "de",
     "scope": "city",
-    "date": "Sun, 24 May 2026 08:47:10 +0200"
+    "date": "Mon, 25 May 2026 09:33:05 +0200"
   },
   {
-    "title": "Potsdamer WeinPICKNICK",
-    "snippet": "Potsdamer WeinPICKNICK 23.05.2026 | 12:00 – 14:00 Königlicher Weinberg Mehr lesen »",
-    "url": "https://www.potsdam.de/de/veranstaltung/potsdamer-weinpicknick-1",
-    "source": "potsdam.de (hivatalos)",
-    "lang": "de",
-    "scope": "city",
-    "date": ""
-  },
-  {
-    "title": "Magerkost in der Landesliga Nord: Viktoria Potsdam erfüllt Pflicht gegen Buckow/Waldsieversdorf",
-    "snippet": "Der Landesliga-Nord-Spitzenreiter macht gegen Kellerkind Concordia Buckow/Waldsieversdorf nicht mehr als nötig. Dem Youngster gelingt dennoch ein Traum-Einstand. Im Aufstiegsfall steht Viktoria ein Umzug bevor.",
-    "url": "https://www.maz-online.de/sport/regional/magerkost-in-der-landesliga-nord-viktoria-potsdam-erfuellt-pflicht-gegen-buckow-waldsieversdorf-I4VGWTTU7ZHJTMO7JZWKYDNWIY.html",
+    "title": "2. Handball-Bundesliga: Verletzungspech des VfL Potsdam wird immer größer",
+    "snippet": "Der 1. VfL Potsdam hat in der 2. Handball-Bundesliga den TV Großwallstadt mit 30:29 besiegt. Damit springen die Adler zumindest über Nacht auf Platz drei - Dresden kann aber noch nachziehen. Für Jannek Klein war es gegen seine künfigen Teamkollegen ein besonderes Spiel.",
+    "url": "https://www.maz-online.de/sport/regional/2-handball-bundesliga-verletzungspech-des-vfl-potsdam-wird-immer-groesser-LNJ2JVHWIZEBPBQRE5DBZO25FQ.html",
     "source": "Maerkische Allgemeine",
     "lang": "de",
     "scope": "state",
-    "date": "Sat, 23 May 2026 14:17:36 +0200"
+    "date": "Mon, 25 May 2026 05:58:00 +0200"
   },
   {
-    "title": "Polizeiticker Potsdam: aktuelle Polizeimeldungen aus der Landeshauptstadt am 24.05.2026",
+    "title": "Unsichtbar und langlebig: Mikroplastik in Brandenburgs Böden und Gewässern",
+    "snippet": "Mikroplastik ist inzwischen leicht zu finden. Wie verbreitet es aber sogar in entlegenen Regionen Brandenburgs ist, hat selbst den Feldforscher Sascha Oswald von der Universität Potsdam überrascht.",
+    "url": "https://www.maz-online.de/brandenburg/unsichtbar-und-langlebig-mikroplastik-in-brandenburgs-boeden-und-gewaessern-Z3BQAIXWWBCYLIUAQJJMXEAV4I.html",
+    "source": "MAZ Potsdam",
+    "lang": "de",
+    "scope": "city",
+    "date": "Sun, 24 May 2026 13:27:13 +0200"
+  },
+  {
+    "title": "Für Radrennen auf Weltniveau: Oberbürgermeisterin Aubel will Olympia nach Potsdam holen",
+    "snippet": "Die Stadtverordneten sollen mit einem Votum die Bewerbung mit Berlin unterstützen. Noosha Aubel wirbt dafür – und sieht große Chancen für die Stadt. Allerdings gibt es ein Manko.",
+    "url": "https://www.tagesspiegel.de/potsdam/landeshauptstadt/fur-radrennen-auf-weltniveau-oberburgermeisterin-aubel-will-olympia-nach-potsdam-holen-15618542.html",
+    "source": "PNN Potsdam News",
+    "lang": "de",
+    "scope": "city",
+    "date": "Sun, 24 May 2026 11:03:21 +0200"
+  },
+  {
+    "title": "Bezirke schicken „Waste-Watcher“ los: Mehr als 1000 Bußgelder gegen Müllsünder in Berlin verhängt",
+    "snippet": "Im Kampf gegen Dreck und Unrat wurden 2025 über 1000 Bußgelder erhoben, die Stadt nahm dadurch 300.000 Euro ein. Die Bezirksämter berichten von Erfolgen – und Problemen.",
+    "url": "https://www.tagesspiegel.de/berlin/bezirke-schicken-waste-watcher-los-mehr-als-1000-bussgelder-gegen-mullsunder-in-berlin-verhangt-15635679.html",
+    "source": "PNN Potsdam",
+    "lang": "de",
+    "scope": "city",
+    "date": "Mon, 25 May 2026 05:46:10 +0200"
+  },
+  {
+    "title": "Potsdam: Nach Räumung von besetztem Haus zweite Protest-Demo geplant",
+    "snippet": "Nach der Räumung eines besetzten Hauses in der Tornowstraße 40 in Potsdam gehen die Proteste weiter. Vor Pfingsten gab es einen spontanen Protest. Am Dienstag ist eine Großdemonstration angekündigt.",
+    "url": "https://www.maz-online.de/lokales/potsdam/potsdam-nach-raeumung-von-besetztem-haus-protestdemo-geplant-72IULBF2YBGTVPPD6JLO4XDZTA.html",
+    "source": "Maerkische Allgemeine",
+    "lang": "de",
+    "scope": "state",
+    "date": "Sun, 24 May 2026 21:45:38 +0200"
+  },
+  {
+    "title": "Polizeiticker Potsdam: aktuelle Polizeimeldungen aus der Landeshauptstadt am 25.05.2026",
     "snippet": "Ob Verkehrsunfälle, Einbrüche, Sperrungen, Vermisstenmeldungen, Gewaltdelikte oder anderweitige Verbrechen. Aktuelle Polizei- und Verkehrsmeldungen für Potsdam rund um die Uhr in unserem Liveticker.",
-    "url": "https://www.maz-online.de/lokales/potsdam/polizeiticker-potsdam-aktuelle-polizeimeldungen-aus-der-landeshauptstadt-am-24-05-2026-TMX2HUNPJREUJPH66RH6R6LJC4.html",
+    "url": "https://www.maz-online.de/lokales/potsdam/polizeiticker-potsdam-aktuelle-polizeimeldungen-aus-der-landeshauptstadt-am-25-05-2026-TMX2HUNPJREUJPH66RH6R6LJC4.html",
     "source": "MAZ Potsdam",
     "lang": "de",
     "scope": "city",
-    "date": "Sun, 24 May 2026 04:26:36 +0200"
-  },
-  {
-    "title": "„Viel Zeit wurde vergeudet“: Ex-Ukraine-Botschafter Melnyk fordert mehr Diplomatie von Europa",
-    "snippet": "Andrij Melnyk hält die EU für einen guten Vermittler im Krieg gegen Russland. Der früheren Bundeskanzlerin Angela Merkel traut er die Aufgabe aber nicht zu.",
-    "url": "https://www.tagesspiegel.de/politik/viel-zeit-wurde-vergeudet-ex-ukraine-botschafter-melnyk-fordert-mehr-diplomatie-von-europa-15632496.html",
-    "source": "PNN Potsdam",
-    "lang": "de",
-    "scope": "city",
-    "date": "Sat, 23 May 2026 19:06:04 +0200"
-  },
-  {
-    "title": "Neues Ranking: Potsdam schlägt in puncto \"Kinderfreundlichkeit\" fast alle deutschen Städte",
-    "snippet": "Potsdam überzeugt im Tui-Ranking als drittkinderfreundlichste Stadt Deutschlands. In welchen Kategorien punktet die Landeshauptstadt am meisten und wo ist noch Luft nach oben?",
-    "url": "https://www.maz-online.de/lokales/potsdam/neues-ranking-potsdam-schlaegt-in-puncto-kinderfreundlichkeit-fast-alle-deutschen-staedte-2LKEJPEX2ZB67DTJDKCEEPHU2M.html",
-    "source": "Maerkische Allgemeine",
-    "lang": "de",
-    "scope": "state",
-    "date": "Sat, 23 May 2026 12:04:00 +0200"
+    "date": "Mon, 25 May 2026 04:26:40 +0200"
   },
   {
     "title": "Dackelrennen in Potsdam: Vierbeiner messen sich auf 35-Meter-Rasenstrecke",
@@ -108,15 +198,6 @@
     "date": "Fri, 22 May 2026 15:24:44 +0200"
   },
   {
-    "title": "Wohnungsnot: Polizei räumt besetztes Haus in Potsdam – Abriss geplant",
-    "snippet": "Mehr als 20 Menschen besetzen ein leerstehendes Haus in Potsdam. Nach einer Woche rückt die Polizei an und räumt das Grundstück. Die Stadt hat bereits Pläne für das Areal.",
-    "url": "https://www.tagesspiegel.de/berlin/wohnungsnot-polizei-raumt-besetztes-haus-in-potsdam--abriss-geplant-15628529.html",
-    "source": "Tagesspiegel Berlin",
-    "lang": "de",
-    "scope": "city",
-    "date": "Fri, 22 May 2026 09:22:57 +0200"
-  },
-  {
     "title": "Besetztes Haus in Potsdam: Aktivisten verlassen Gebäude",
     "snippet": "Rund 20 Aktivisten hatten in Potsdam ein leerstehendes Gebäude besetzt, um auf die Wohnungsnot aufmerksam zu machen. Nun haben sie das Haus verlassen - begleitet von einem Polizeieinsatz.",
     "url": "https://www.rbb24.de/panorama/beitrag/2026/05/potsdam-hermannswerder-haus-besetzung-polizei-raeumung.html",
@@ -126,31 +207,31 @@
     "date": "Fri, 22 May 2026 17:35:51 +0200"
   },
   {
-    "title": "„Wer bei den Enhanced Games mitmacht, ist bescheuert“: Das steckt hinter den Doping-Spielen",
-    "snippet": "Bei den Enhanced Games sollen Rekorde fallen – mithilfe von Doping. Die wichtigsten Fragen und Antworten zu einem Event, das die Sportwelt spaltet.",
-    "url": "https://www.tagesspiegel.de/sport/wer-da-mitmacht-ist-bescheuert-das-steckt-hinter-den-doping-spielen-in-der-stadt-der-sunde-15625883.html",
-    "source": "PNN Potsdam",
-    "lang": "de",
-    "scope": "city",
-    "date": "Thu, 21 May 2026 15:36:38 +0200"
-  },
-  {
-    "title": "Potsdam: Dackelrennen am Gästehaus am Lehnitzsee",
-    "snippet": "Am Sonnabend, 23. Mai, startet das 1. Dackelrennen in Potsdam. Ob Standard, Zwerg oder flinke Gäste bis 30 cm – hier zählt jeder Zentimeter und jede Sekunde. Welche Klassen es gibt und wie die Anmeldung erfolgt.",
-    "url": "https://www.maz-online.de/lokales/potsdam/potsdam-dackelrennen-am-gaestehaus-am-lehnitzsee-ZG65ENLE5JFNFH5CQTZVSBVMQU.html",
-    "source": "MAZ Potsdam",
-    "lang": "de",
-    "scope": "city",
-    "date": "Sat, 23 May 2026 07:33:00 +0200"
-  },
-  {
-    "title": "Fußballgottesdienst und nächtliche Partys: Was Berliner Kirchen an Pfingsten zu bieten haben",
-    "snippet": "An Pfingsten laden viele Gemeinden in Berlin und Brandenburg zur „Nacht der offenen Kirchen“ ein. Konzerte, Führungen und besondere Gottesdienste: Das Programm ist vielfältig.",
-    "url": "https://www.tagesspiegel.de/berlin/fussballgottesdienst-und-nachtliche-partys-was-berliner-kirchen-an-pfingsten-zu-bieten-haben-15627687.html",
+    "title": "Temperaturen an der 30-Grad-Grenze: Pfingsten bringt Berlin Sonnenschein – und Gewitter",
+    "snippet": "Mit Sonnenschein und nur wenigen Wolken löst Pfingsten Sommergefühle in Berlin und Brandenburg aus. Doch nachmittags kann es an bestimmten Orten gewittern.",
+    "url": "https://www.tagesspiegel.de/berlin/temperaturen-an-der-30-grad-grenze-pfingsten-bringt-berlin-sonnenschein--und-gewitter-15634272.html",
     "source": "PNN Potsdam News",
     "lang": "de",
     "scope": "city",
-    "date": "Thu, 21 May 2026 18:12:03 +0200"
+    "date": "Sun, 24 May 2026 08:08:53 +0200"
+  },
+  {
+    "title": "Mini-Olympia für Doping-Fans: Die „Enhanced Games“ missbrauchen Sport und Wissenschaft",
+    "snippet": "Leistungssport, bei dem Doping nicht nur erlaubt, sondern erwünscht ist. Die „Enhanced Games“ in Las Vegas, bei denen angeblich alles „rein wissenschaftlich“ zugeht, sind mehr als nur ein schräges Spektakel. Ein Kommentar.",
+    "url": "https://www.tagesspiegel.de/wissen/ein-mini-olympia-fur-doping-fans-die-enhanced-games-missbrauchen-sport-und-wissenschaft-15631151.html",
+    "source": "PNN Potsdam",
+    "lang": "de",
+    "scope": "city",
+    "date": "Sat, 23 May 2026 00:36:06 +0200"
+  },
+  {
+    "title": "Neues Ranking: Potsdam schlägt in puncto \"Kinderfreundlichkeit\" fast alle deutschen Städte",
+    "snippet": "Potsdam überzeugt im Tui-Ranking als drittkinderfreundlichste Stadt Deutschlands. In welchen Kategorien punktet die Landeshauptstadt am meisten und wo ist noch Luft nach oben?",
+    "url": "https://www.maz-online.de/lokales/potsdam/neues-ranking-potsdam-schlaegt-in-puncto-kinderfreundlichkeit-fast-alle-deutschen-staedte-2LKEJPEX2ZB67DTJDKCEEPHU2M.html",
+    "source": "MAZ Potsdam",
+    "lang": "de",
+    "scope": "city",
+    "date": "Sat, 23 May 2026 12:04:00 +0200"
   },
   {
     "title": "Potsdam: Polizei räumt besetztes Haus auf Hermannswerder&nbsp;–&nbsp;Abriss&nbsp;geplant",
@@ -162,111 +243,30 @@
     "date": "Fri, 22 May 2026 11:27:32 GMT"
   },
   {
-    "title": "Potsdam: Streit um Mitbestimmung zwischen Edis und Stadtwerke",
-    "snippet": "Der Potsdamer Energie- und Wasserversorger EWP steht vor einem Umbruch bei der Wärmeversorgung. Doch es gibt Zoff zwischen den Gesellschaftern.",
-    "url": "https://www.tagesspiegel.de/berlin/potsdam-streit-um-mitbestimmung-zwischen-edis-und-stadtwerke-15630850.html",
-    "source": "Tagesspiegel Berlin",
+    "title": "Nach Böschungsbrand bei Trebbin: Sperrung auf Bahnstrecke Berlin-Leipzig aufgehoben",
+    "snippet": "Bei Trebbin in Brandenburg brannte es an einem Bahndamm, die Strecke zwischen Jüterbog und Ludwigsfelde war gesperrt. Es war zu Störungen im Fernverkehr zwischen Berlin und Leipzig gekommen.",
+    "url": "https://www.tagesspiegel.de/berlin/nach-boschungsbrand-bei-trebbin-sperrung-auf-bahnstrecke-berlin-leipzig-aufgehoben-15633859.html",
+    "source": "PNN Potsdam News",
     "lang": "de",
     "scope": "city",
-    "date": "Fri, 22 May 2026 14:47:13 +0200"
+    "date": "Sat, 23 May 2026 17:56:12 +0200"
   },
   {
-    "title": "Zeichen gegen Wohnungsnot: Potsdam sucht Lösung für besetztes Haus auf Halbinsel Hermannswerder",
-    "snippet": "Eine Woche nach der Besetzung eines leerstehenden Hauses auf der Potsdamer Halbinsel Hermannswerder prüft die Stadt das weitere Vorgehen. Die Besetzer weigern sich zu gehen.",
-    "url": "https://www.rbb24.de/panorama/beitrag/2026/05/potsdam-besetzes-haus-stadt-sucht-loesung-hermannswerder-hausbesetzung.html",
-    "source": "rbb24 Panorama",
-    "lang": "de",
-    "scope": "region",
-    "date": "Thu, 21 May 2026 10:29:42 +0200"
-  },
-  {
-    "title": "Der Pilzjäger von Berlin: „Mein Favorit ist immer der nächste spannende Fund“",
-    "snippet": "René Jarling ist Vorsitzender der Pilzkundlichen Arbeitsgemeinschaft Berlin-Brandenburg. Beim Langen Tag der Stadtnatur am 30./31.5. will er Besucher mit rund 200 bis 300 verschiedenen Arten begeistern.",
-    "url": "https://www.tagesspiegel.de/themenspeziale/unterwegsundfreizeit/der-pilzjager-von-berlin-mein-favorit-ist-immer-der-nachste-spannende-fund-15616993.html",
+    "title": "Für Familien, für Glamper, für Nackte: Diese Zeltplätze rund um Berlin haben es in den neuen Camping-Guide geschafft",
+    "snippet": "Mancher will am Lagerfeuer quatschen, mancher nur seine Ruhe: Den richtigen Zeltplatz zu finden, ist gar nicht schwer. Ein neuer Camping-Guide hilft bei der Entscheidung.",
+    "url": "https://www.tagesspiegel.de/berlin/fur-familien-fur-glamper-fur-nackte-diese-zeltplatze-rund-um-berlin-haben-es-in-den-neuen-camping-guide-geschafft-15606665.html",
     "source": "PNN Potsdam",
     "lang": "de",
     "scope": "city",
-    "date": "Thu, 21 May 2026 15:08:09 +0200"
+    "date": "Fri, 22 May 2026 10:09:44 +0200"
   },
   {
-    "title": "Stadt beendet Hausbesetzung auf Potsdamer Halbinsel Hermannswerder: Ehemalige Werkstatt geräumt",
-    "snippet": "Am Freitagmorgen ist auf der Potsdamer Halbinsel Hermannswerder die Besetzung der ehemaligen Fahrradwerkstatt beendet worden. Die Stadtverwaltung hatte die Räumung angeordnet. Am Abend forderten Demonstranten auf dem Alten Markt die Rückgabe des Gebäudes. Anschließend zogen sie noch durch die Stadt.",
-    "url": "https://www.maz-online.de/lokales/potsdam/stadt-beendet-hausbesetzung-auf-potsdamer-halbinsel-hermannswerder-ehemalige-werkstatt-geraeumt-CGHX3RZOURAYJCT2MIU3IVSUHM.html",
+    "title": "Potsdam: Die schönsten Biergärten im Überblick - mit Karte",
+    "snippet": "Sonnenzeit ist Biergartenzeit. Hier eine Auswahl der schönsten Biergärten rund um die brandenburgische Landeshauptstadt.",
+    "url": "https://www.maz-online.de/lokales/potsdam/potsdam-die-schoensten-biergaerten-im-ueberblick-mit-karte-5CQH7NJCR2LZAYFVAPMKEA5SX4.html",
     "source": "MAZ Potsdam",
     "lang": "de",
     "scope": "city",
-    "date": "Fri, 22 May 2026 22:15:19 +0200"
-  },
-  {
-    "title": "„Jetzt sind wir wieder flauschig“: Daumendrücken für Potsdams größte Rosskastanie",
-    "snippet": "Trockenheit und Stürme setzen dem Baumbestand auf der Freundschaftsinsel zu. Wie das Team um Inselgärtner Thoralf Götsch die Grünanlage zukunftssicher macht.",
-    "url": "https://www.tagesspiegel.de/potsdam/landeshauptstadt/jetzt-sind-wir-wieder-flauschig-daumendrucken-fur-potsdams-grosste-rosskastanie-15614601.html",
-    "source": "PNN Potsdam News",
-    "lang": "de",
-    "scope": "city",
-    "date": "Fri, 22 May 2026 17:58:33 +0200"
-  },
-  {
-    "title": "„Ein Kanzler von der AfD wäre schon tough“ : Joschka Fischer warnt CDU vor Koalition mit AfD",
-    "snippet": "Ex-Außenminister Joschka Fischer (Grüne) sieht in der CDU Anhänger von Koalitionen mit der AfD. Er sieht die CDU in einem solchen Fall vor einer Spaltung.",
-    "url": "https://www.tagesspiegel.de/ein-kanzler-von-der-afd-ware-schon-tough-joschka-fischer-warnt-cdu-vor-koalition-mit-afd-15628225.html",
-    "source": "PNN Potsdam",
-    "lang": "de",
-    "scope": "city",
-    "date": "Fri, 22 May 2026 08:30:37 +0200"
-  },
-  {
-    "title": "Machtkampf vor Gericht: Stadtwerke Potsdam und Edis AG streiten um Einfluss in der EWP",
-    "snippet": "Der private Energiekonzern Edis will sich in der EWP bei Streitfragen gegen die Stadtwerke Potsdam durchsetzen, obwohl ihm nur 35 Prozent der Anteile gehören. Das Landgericht Potsdam verhandelt zu Kompetenzfragen und Einfluss. Der Fall könnte vor dem Bundesgerichtshof landen.",
-    "url": "https://www.maz-online.de/lokales/potsdam/machtkampf-vor-gericht-stadtwerke-potsdam-und-edis-ag-streiten-um-einfluss-in-der-ewp-I52MXXNSVZGPXH3UBRSVZY7FLI.html",
-    "source": "MAZ Potsdam",
-    "lang": "de",
-    "scope": "city",
-    "date": "Fri, 22 May 2026 19:58:00 +0200"
-  },
-  {
-    "title": "Mehr Autos, weniger Verbrenner: Was auf Potsdams Straßen rollt",
-    "snippet": "Der langsame Abschied vom Verbrenner setzt sich auch in der Landeshauptstadt fort. Aber die Potsdamer haben noch weitere Vorlieben.",
-    "url": "https://www.tagesspiegel.de/potsdam/landeshauptstadt/mehr-autos-weniger-verbrenner-was-auf-potsdams-strassen-rollt-15613242.html",
-    "source": "PNN Potsdam News",
-    "lang": "de",
-    "scope": "city",
-    "date": "Fri, 22 May 2026 19:24:21 +0200"
-  },
-  {
-    "title": "Brandenburg beim Theatertreffen: Der Hartmann von Cottbus und Potsdam",
-    "snippet": "Nie zuvor war ein Brandenburger Theater zum Berliner Theatertreffen eingeladen. Dieses Jahr sind es gleich zwei - aus Cottbus und Potsdam. Beide Inszenierungen stammen von Sebastian Hartmann. Beide sind erstaunlich - und könnten kaum unterschiedlicher sein.",
-    "url": "https://www.rbb24.de/kultur/beitrag/2026/05/kritik-hartmann-serotonin-hauptmann-koepenick-berlin-theatertreffen-potsdam-cottbus.html",
-    "source": "rbb24 Kultur",
-    "lang": "de",
-    "scope": "region",
-    "date": "Sun, 17 May 2026 09:20:00 +0200"
-  },
-  {
-    "title": "Mit Eseln wandern oder in historische Altstädte radeln : Die schönsten Pfingstausflüge in Berlins Umland",
-    "snippet": "Noch keine Pläne über Pfingsten? In Brandenburg warten über die Feiertage spannende Veranstaltungen, Führungen und Ausflugsziele. Zehn Tipps fürs lange Wochenende.",
-    "url": "https://www.tagesspiegel.de/berlin/mit-eseln-wandern-oder-in-historische-altstadte-radeln-die-schonsten-pfingstausfluge-in-berlins-umland-15612514.html",
-    "source": "PNN Potsdam News",
-    "lang": "de",
-    "scope": "city",
-    "date": "Tue, 19 May 2026 17:12:20 +0200"
-  },
-  {
-    "title": "Versorgungswerk der Berliner Zahnärzte: Schadenersatzklage gegen Ex-Manager, Wirtschaftsprüfer und das Land Berlin",
-    "snippet": "Die Rentenkasse macht ernst und geht unter anderem gegen ihre Aufsicht, das Land Berlin, vor. Ein Prozess dürfte sich über Jahre und mehrere Instanzen erstrecken.",
-    "url": "https://www.tagesspiegel.de/berlin/berliner-wirtschaft/versorgungswerk-der-berliner-zahnarzte-fuhrung-reicht-schadenersatzklage-gegen-ehemalige-manager-wirtschaftsprufer-und-land-berlin-ein-15617586.html",
-    "source": "PNN Potsdam News",
-    "lang": "de",
-    "scope": "city",
-    "date": "Wed, 20 May 2026 12:56:38 +0200"
-  },
-  {
-    "title": "Sommerliche Pfingsten: Bis zu 30 Grad in Berlin und Brandenburg erwartet",
-    "snippet": "Das verlängerte Wochenende lockt mit viel Sonnenschein. Dabei werden voraussichtlich die 30 Grad geknackt – Sonnencreme und eine geeignete Abkühlung sollten also besser nicht fehlen.",
-    "url": "https://www.tagesspiegel.de/berlin/sommerliche-pfingsten-bis-zu-30-grad-in-berlin-und-brandenburg-erwartet-15622550.html",
-    "source": "PNN Potsdam News",
-    "lang": "de",
-    "scope": "city",
-    "date": "Thu, 21 May 2026 06:34:45 +0200"
+    "date": "Sat, 23 May 2026 10:55:00 +0200"
   }
 ]

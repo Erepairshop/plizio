@@ -1,14 +1,5 @@
 [
   {
-    "title": "Historische Stadtführung",
-    "snippet": "Start: So., 24 Mai 2026 10:00:00 ,Ende: So., 24 Mai 2026 11:30:00 | Die historische Altstadt entdecken! Spannend, informativ und historisch: Facettenreiche Stadtführungen nehmen Gäste und Einheimische ganzjährig mit auf eine lebendige Zeitreise durch das mittelalterliche Hersbruck.",
-    "url": "https://www.hersbruck.de/tourismus/veranstaltungen/veranstaltungen/veranstaltung/historische-stadtfuehrung-3",
-    "source": "hersbruck.de (official)",
-    "lang": "de",
-    "scope": "city",
-    "date": ""
-  },
-  {
     "title": "Hansgörgl Kirchweih",
     "snippet": "Start: Mo., 25 Mai 2026 08:00:00 ,Ende: Mo., 25 Mai 2026 14:26:00 | Die Hansgörgl-Kirchweih in Hersbruck findet immer am Pfingstmontag statt. Das Fest findet auf dem Altensittenbacher Anger statt, dauert von 8.00 Uhr bis 14.00 Uhr und zieht scharenweise Besucher an.",
     "url": "https://www.hersbruck.de/tourismus/veranstaltungen/veranstaltungen/veranstaltung/hansgoergl-kirchweih",
@@ -21,6 +12,15 @@
     "title": "416 Jahre Wolfsschlucht - Geschichte - Genuss - Geselligkeit",
     "snippet": "Start: Sa., 30 Mai 2026 18:00:00 ,Ende: | Eine Zeitreise mit den Altstadtfreunden e.V. zum Jahresthema: \"Moment mal - Denkmal!\"",
     "url": "https://www.hersbruck.de/tourismus/veranstaltungen/veranstaltungen/veranstaltung/416-jahre-wolfsschlucht-geschichte-genuss-geselligkeit",
+    "source": "hersbruck.de (official)",
+    "lang": "de",
+    "scope": "city",
+    "date": ""
+  },
+  {
+    "title": "Lust auf Wandern? Tageswanderung mit dem Fränkischen Albverein Hersbruck \"Über die Burgruine Lichtenstein\"",
+    "snippet": "Start: So., 31 Mai 2026 09:00:00 ,Ende: So., 31 Mai 2026 16:00:00 | Pommelsbrunn – Hubmersberg – Eschenbach – Hohenstadt – Pommelsbrunn, l.u.s.G., 4,5h/13km. TP 1: 9:00 HEB-Bf-li.(Abf.8:41 Nbg.Hbf. S1) TP 2: 9:20 S-Bhf. Pommelsbrunn für Autofahrer WF: S. Nocullak (Anmeldung bis Sa.23.05./ Vorwahl 01",
+    "url": "https://www.hersbruck.de/tourismus/veranstaltungen/veranstaltungen/veranstaltung/lust-auf-wandern-tageswanderung-mit-dem-fraenkischen-albverein-herbruck-ueber-die-burgruine-lichtenstein",
     "source": "hersbruck.de (official)",
     "lang": "de",
     "scope": "city",

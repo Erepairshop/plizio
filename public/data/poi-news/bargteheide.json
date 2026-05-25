@@ -1,5 +1,23 @@
 [
   {
+    "title": "Dramatischer Unfall in Bargteheide: Junge Frau nach Kollision mit Pkw schwer verletzt",
+    "snippet": "Ein Paar will eine Straße in Bargteheide überqueren. Dabei wird die junge Frau von einem Auto erfasst und schwer verletzt. Das ist bislang zu dem Unfall bekannt.",
+    "url": "https://www.shz.de/lokales/bargteheide-ahrensburg/artikel/unfall-in-bargteheide-frau-von-auto-erfasst-und-schwer-verletzt-50686468",
+    "source": "Schleswig-Holsteinischer Zeitungsverlag",
+    "lang": "de",
+    "scope": "region",
+    "date": "2026-05-24T15:27:59Z"
+  },
+  {
+    "title": "SV Eichede verpflichtet Malte Kentzler vom TSV Bargteheide für die Oberliga",
+    "snippet": "Der SV Eichede hat Malte Kentzler verpflichtet. Der 25-jährige Rechtsverteidiger wechselt vom TSV Bargteheide zum Oberligisten und wurde einst beim VfB Lübeck ausgebildet. Er ist bereits der sechste Neuzugang für die kommende Saison.",
+    "url": "https://www.ln-online.de/sport/regional/sv-eichede-verpflichtet-malte-kentzler-vom-tsv-bargteheide-fuer-die-oberliga-RYYT5X3OPVGBNKW4MYLFF5A5KM.html",
+    "source": "Lübecker Nachrichten",
+    "lang": "de",
+    "scope": "region",
+    "date": "Sun, 24 May 2026 10:00:01 +0200"
+  },
+  {
     "title": "Große Resonanz beim Informationsabend: Bargteheide rüstet sich für den Katastrophenschutz",
     "snippet": "Erstmalig hatten die Stadt Bargteheide und die Freiwillige Feuerwehr gemeinsam zu einem Informationsabend zum Thema Katastrophenschutz in das Ganztagszentrum eingeladen. Der überwältigende Andrang der Bürgerinnen und Bürger zeigte deutlich, wie stark ...",
     "url": "https://www.bargteheide.de/index.php?ModID=255&FID=3489.48350.1&object=tx%2C3489.6",
@@ -27,15 +45,6 @@
     "date": "Fri, 15 May 2026 10:56:46 +0200"
   },
   {
-    "title": "Jetzt Reisedokumente für die Urlaubszeit prüfen",
-    "snippet": "Mit Beginn der Sommer- und Urlaubszeit steigt bei vielen die Vorfreude auf die nächste Reise ins Ausland. Damit der Urlaub entspannt starten kann, sollten Reisepässe und Personalausweise frühzeitig auf Ihre ...",
-    "url": "https://www.bargteheide.de/index.php?ModID=255&FID=3489.48334.1&object=tx%2C3489.6",
-    "source": "Bargteheide (official)",
-    "lang": "de",
-    "scope": "city",
-    "date": "Mon, 11 May 2026 10:48:55 +0200"
-  },
-  {
     "title": "Reinigung der Fahrradunterst&auml;nde",
     "snippet": "Datum: 22.05.2026 Reinigung der Fahrradunterst&auml;nde Ab dem 01.06.2026 werden die Fahrradunterst&auml;nde am Bahnhof (Parkplatz/Bahnhofgeb&auml;ude) gereinigt, ebenso die Rinnen und D&auml;cher.",
     "url": "https://www.bargteheide.de/index.php?object=tx,3489.6&amp;ModID=7&amp;FID=3489.48356.1",
@@ -43,5 +52,14 @@
     "lang": "de",
     "scope": "city",
     "date": ""
+  },
+  {
+    "title": "Jetzt Reisedokumente für die Urlaubszeit prüfen",
+    "snippet": "Mit Beginn der Sommer- und Urlaubszeit steigt bei vielen die Vorfreude auf die nächste Reise ins Ausland. Damit der Urlaub entspannt starten kann, sollten Reisepässe und Personalausweise frühzeitig auf Ihre ...",
+    "url": "https://www.bargteheide.de/index.php?ModID=255&FID=3489.48334.1&object=tx%2C3489.6",
+    "source": "Bargteheide (official)",
+    "lang": "de",
+    "scope": "city",
+    "date": "Mon, 11 May 2026 10:48:55 +0200"
   }
 ]

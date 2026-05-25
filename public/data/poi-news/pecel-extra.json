@@ -27,15 +27,6 @@
     "date": "Wed, 20 May 2026 13:53:29 +0000"
   },
   {
-    "title": "Az önéletrajz elemei, amik eldöntik, behívnak-e állásinterjúra",
-    "snippet": "Az önéletrajzoknál a különböző területeken eltérő szempontok alapján döntenek a cégek, ezért érdemes a jelentkezést az adott munkához igazítani. A Profession.hu kutatása szerint tízből kilenc",
-    "url": "https://hirnok.hu/az-oneletrajz-elemei-amik-eldontik-behivnak-e-allasinterjura/",
-    "source": "hirnok.hu (megyei)",
-    "lang": "hu",
-    "scope": "county",
-    "date": "Wed, 20 May 2026 09:54:25 +0000"
-  },
-  {
     "title": "Szebb arc, könnyebb élet?",
     "snippet": "A tudomány szerint a vonzerő egyszerre lehet előny és társadalmi csapda A közösségi média korában a „pretty privilege”, vagyis a szépségből fakadó társadalmi előny fogalma",
     "url": "https://hirnok.hu/szebb-arc-konnyebb-elet/",
@@ -45,15 +36,6 @@
     "date": "Wed, 13 May 2026 11:38:02 +0000"
   },
   {
-    "title": "Képviselő-testületi ülés 2026. 05. 28.",
-    "snippet": "Képviselő-testületi ülés 2026. 05. 28. 2026 május 22. Önkormányzat",
-    "url": "https://www.pecel.hu/hirek/kepviselo-testuleti-ules-2026-05-28",
-    "source": "pecel.hu (hivatalos)",
-    "lang": "hu",
-    "scope": "city",
-    "date": "2026-05-28"
-  },
-  {
     "title": "Ékszert, pénzt csaltak ki idős emberektől",
     "snippet": "A két unokázós csalót Pécelen fogták el. The post Ékszert, pénzt csaltak ki idős emberektől first appeared on 24.hu .",
     "url": "https://24.hu/belfold/2019/04/10/ekszert-penzt-csaltak-ki-idos-emberektol/",
@@ -61,6 +43,15 @@
     "lang": "hu",
     "scope": "city",
     "date": "Wed, 10 Apr 2019 04:43:28 +0000"
+  },
+  {
+    "title": "Képviselő-testületi ülés 2026. 05. 28.",
+    "snippet": "Képviselő-testületi ülés 2026. 05. 28. 2026 május 22. Önkormányzat",
+    "url": "https://www.pecel.hu/hirek/kepviselo-testuleti-ules-2026-05-28",
+    "source": "pecel.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "2026-05-28"
   },
   {
     "title": "Gáspár Laci átadott egy vécét Pécelen",

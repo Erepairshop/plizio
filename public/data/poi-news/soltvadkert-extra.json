@@ -1,5 +1,32 @@
 [
   {
+    "title": "Régi motoros intett búcsút Tiszakécskének",
+    "snippet": "Közelebb akart lenni családjához.",
+    "url": "https://www.baon.hu/helyi-sport/2026/05/balazs-benjamin-tiszakecske-tavozas?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+    "source": "Baon",
+    "lang": "hu",
+    "scope": "county",
+    "date": "Mon, 25 May 2026 08:00:35 +0000"
+  },
+  {
+    "title": "A 2006-os gyurcsányi rendőrattak egyik kulcsfigurája Magyar Péter kormányának rendészeti államtitkára",
+    "snippet": "Mi ez, ha nem üzenet?",
+    "url": "https://www.baon.hu/orszag-vilag/2026/05/magyar-peter-toth-gabor-rendeszeti-allamtitkar-2006-gyurcsany-rendorterror?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+    "source": "Baon",
+    "lang": "hu",
+    "scope": "county",
+    "date": "Mon, 25 May 2026 07:39:40 +0000"
+  },
+  {
+    "title": "Halálos vírus miatt kellett elaltatni egy lovat, különleges leleteket találtak az ásatáson",
+    "snippet": "Összeszedtük a 21. hét legolvasottabb cikkeit.",
+    "url": "https://www.baon.hu/helyi-kozelet/2026/05/fertozo-kevesveruseg-kiskorosi-egymi-palackvisszavaltas?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+    "source": "Baon",
+    "lang": "hu",
+    "scope": "county",
+    "date": "Mon, 25 May 2026 07:25:02 +0000"
+  },
+  {
     "title": "Drámai baleset Soltvadkert és Tázlár között: előzés közben csapódott árokba két autó",
     "snippet": "Baleset történt Soltvadkert és Tázlár között, az 5405-ös út 5-ös kilométerszelvényénél, ahol két személyautó ütközött össze egy előzési manőver közben. Az egyik jármű vezetője fejsérülést szenvedett, a mentők a kiskunhalasi kórházba szállították.",
     "url": "https://hiros.hu/dramai-baleset-soltvadkert-es-tazlar-kozott-elozes-kozben-csapodott-arokba-ket-auto/",
@@ -9,15 +36,6 @@
     "date": "Sat, 23 May 2026 11:47:05 +0000"
   },
   {
-    "title": "Hatalmas csattanás Soltvadkert és Tázlár között: árokban végezte mindkét autó + fotók, videó",
-    "snippet": "Egy embert szállítottak kórházba.",
-    "url": "https://www.baon.hu/helyi-kek-hirek/2026/05/baleset-soltvadkert-tazlar-rendorseg?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
-    "source": "Baon",
-    "lang": "hu",
-    "scope": "county",
-    "date": "Sat, 23 May 2026 11:29:21 +0000"
-  },
-  {
     "title": "Meghalt Kárász András, Soltvadkert alpolgármestere",
     "snippet": "Példamutató erővel viselte betegségét.",
     "url": "https://index.hu/belfold/2026/05/14/soltvadkert-gyasz-karasz-robert-alpolgarmester/",
@@ -25,6 +43,15 @@
     "lang": "hu",
     "scope": "city",
     "date": "Thu, 14 May 2026 13:10:00 +0200"
+  },
+  {
+    "title": "Hirdetmény!",
+    "snippet": "A földtulajdonosi közösség éves gyűlést tart a vad védelméről, a vadgazdálkodásról, valamint a vadászatról szóló rendelettel kapcsolatos tudnivalókról. A részleteket IDE kattintva olvashatják. A Hirdetmény! bejegyzés először Soltvadkert -én jelent meg.",
+    "url": "https://soltvadkert.hu/hirdetmeny-2/",
+    "source": "soltvadkert.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Wed, 29 Apr 2026 12:43:22 +0000"
   },
   {
     "title": "Meghalt Soltvadkert alpolgármestere",
@@ -43,15 +70,6 @@
     "lang": "hu",
     "scope": "city",
     "date": "Tue, 10 Jun 2025 21:00:00 +0200"
-  },
-  {
-    "title": "Hirdetmény!",
-    "snippet": "A földtulajdonosi közösség éves gyűlést tart a vad védelméről, a vadgazdálkodásról, valamint a vadászatról szóló rendelettel kapcsolatos tudnivalókról. A részleteket IDE kattintva olvashatják. A Hirdetmény! bejegyzés először Soltvadkert -én jelent meg.",
-    "url": "https://soltvadkert.hu/hirdetmeny-2/",
-    "source": "soltvadkert.hu (hivatalos)",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Wed, 29 Apr 2026 12:43:22 +0000"
   },
   {
     "title": "Két fiatal szakadt be egy tóba Soltvadkerten",

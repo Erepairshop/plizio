@@ -1,5 +1,32 @@
 [
   {
+    "title": "Ein buntes Programm für Groß und Klein beim Stadtfest in Soltau.",
+    "snippet": "Von Freitag, 29. Mai, bis Sonntag, 31. Mai, wird in Soltau wieder gefeiert: Das 23. Soltauer Stadtfest verwandelt die Innenstadt in eine lebendige Festmeile mit Musik, Kultur und zahlreichen Mitmachaktionen für die ganze Familie. Zwischen Marktstraße, Georges-Lemoine-Platz, Alter Stadtgraben …",
+    "url": "https://www.wz-net.de/soltau/buntes-programm-fuer-gross-klein-beim-stadtfest-soltau-id296431.html",
+    "source": "Walsroder Zeitung",
+    "lang": "de",
+    "scope": "city",
+    "date": "Mon, 25 May 2026 02:00:00 +0000"
+  },
+  {
+    "title": "„Täter suchen keine Gegner, Täter suchen Opfer“: Bundespolizist trainiert Frauen in Selbstverteidigung",
+    "snippet": "Tobias Remus, Bundespolizeibeamter und Kursleiter bei der Volkshochschule, steht am späten Dienstagnachmittag vor der Wache der Bundespolizei in Walsrode und wartet auf „Zivilisten“. Er trägt selbst ebenfalls zivil, Sportkleidung genauer gesagt, und begleitet schließlich 14 Frauen und Mädchen …",
+    "url": "https://www.wz-net.de/walsrode/taeter-suchen-keine-gegner-taeter-suchen-opfer-bundespolizis-id296370.html",
+    "source": "Walsroder Zeitung",
+    "lang": "de",
+    "scope": "city",
+    "date": "Sun, 24 May 2026 16:00:00 +0000"
+  },
+  {
+    "title": "Heiße Darts-Duelle der Kämper MC Flyers im Luftgewehrstand Südkampen",
+    "snippet": "Im gewohnten Luftgewehrstand prangen zwischenzeitlich die Darts-Boards. Die aus dem legendären Ally Pally herübergeschwappte Welle der Begeisterung zeigt auch beim SV Südkampen Spuren. In dem klassischen Schützenverein wird seit Monaten schon nicht mehr nur scharf geschossen, sondern …",
+    "url": "https://www.wz-net.de/sport/lokalsport/suedkampen/heisse-darts-duelle-kaemper-mc-flyers-luftgewehrstand-suedka-id296410.html",
+    "source": "Walsroder Zeitung",
+    "lang": "de",
+    "scope": "city",
+    "date": "Sun, 24 May 2026 11:00:00 +0000"
+  },
+  {
     "title": "Zum Tod von Adolf Domeier: Ein Leben für Heimat und Geschichte",
     "snippet": "Mit Adolf Domeier verlieren die heimatkundliche Gemeinschaft des Heidekreises und die Freunde der plattdeutschen Sprache einen langjährigen beliebten Weggefährten. Besonders aber hat der Heimatverein für das Kirchspiel Dorfmark Adolf Domeier außerordentlich viel zu verdanken. Dieser rege …",
     "url": "https://www.wz-net.de/dorfmark/tod-adolf-domeier-leben-fuer-heimat-geschichte-id296401.html",
@@ -7,33 +34,6 @@
     "lang": "de",
     "scope": "city",
     "date": "Sun, 24 May 2026 06:00:00 +0000"
-  },
-  {
-    "title": "HSG Heidmark steht nach „Nicht-Leistung“ vor dem Abstieg",
-    "snippet": "Die Hoffnung auf den Klassenerhalt in der Handball-Oberliga haben für die Herren der HSG Heidmark am Wochenende gleich zwei Dämpfer erhalten. Am Freitagnachmittag hatten sie vom Verband die Nachricht bekommen, dass der Einspruch gegen die Wertung des nicht ausgetragenen Punktspiels bei der TG …",
-    "url": "https://www.wz-net.de/sport/lokalsport/dorfmark/hsg-heidmark-steht-leistung-abstieg-id296508.html",
-    "source": "Walsroder Zeitung",
-    "lang": "de",
-    "scope": "city",
-    "date": "Sat, 23 May 2026 21:37:33 +0000"
-  },
-  {
-    "title": "Wechsel an der LaFiBo-Spitze",
-    "snippet": "Der Theaterverein LaFiBo hat auf seiner Jahreshauptversammlung einen neuen Vorstand gewählt. Der Verein setzt damit auf eine Mischung aus Kontinuität, Erfahrung und junger Energie. Der neue Vorstand setzt sich wie folgt zusammen: Erster Vorsitzender Jochen Raske, Zweite Vorsitzende …",
-    "url": "https://www.wz-net.de/bomlitz/wechsel-lafibo-spitze-id296386.html",
-    "source": "Walsroder Zeitung",
-    "lang": "de",
-    "scope": "city",
-    "date": "Sat, 23 May 2026 16:00:00 +0000"
-  },
-  {
-    "title": "Liedgemüse",
-    "snippet": "Gibt es Lieder, die Sie an Ihre Kindheit erinnern? Wahrscheinlich. Bei mir ist es allerdings so, dass ich mich auch an konkrete Situationen erinnere, in denen ich bestimmte Songs gehört habe. Höre ich von Moby „Why does my heart feel so bad“, fühle ich mich sofort in die Gemüseabteilung eines …",
-    "url": "https://www.wz-net.de/walsrode/liedgemuese-id296369.html",
-    "source": "Walsroder Zeitung",
-    "lang": "de",
-    "scope": "city",
-    "date": "Sat, 23 May 2026 06:00:00 +0000"
   },
   {
     "title": "Elektronisches Amtsblatt der Stadt Walsrode - 5. Jahrgang 2026 Nr. 18 vom 23.05.2026",
@@ -45,13 +45,13 @@
     "date": "Sat, 23 May 2026 00:00:00 +0200"
   },
   {
-    "title": "Spielplatz am Breslauer Weg: Beetenbrück hat jetzt eine eigene Windmühle",
-    "snippet": "Pfingstmontag wird alljährlich an hunderten Orten der Mühlentag begangen. Im Düshorner Ortsteil Beetenbrück war es bereits Freitagmittag soweit: Mitglieder des Rates, Mitarbeiter der Verwaltung und der beauftragten Baufirma eröffneten dort, an der Ecke Breslauer Weg und Königsberger Weg, einen …",
-    "url": "https://www.wz-net.de/beetenbrueck/spielplatz-breslauer-weg-beetenbrueck-hat-eigene-windmuehle-id296418.html",
+    "title": "HSG Heidmark steht nach „Nicht-Leistung“ vor dem Abstieg",
+    "snippet": "Die Hoffnung auf den Klassenerhalt in der Handball-Oberliga haben für die Herren der HSG Heidmark am Wochenende gleich zwei Dämpfer erhalten. Am Freitagnachmittag hatten sie vom Verband die Nachricht bekommen, dass der Einspruch gegen die Wertung des nicht ausgetragenen Punktspiels bei der TG …",
+    "url": "https://www.wz-net.de/sport/lokalsport/dorfmark/hsg-heidmark-steht-leistung-abstieg-id296508.html",
     "source": "Walsroder Zeitung",
     "lang": "de",
     "scope": "city",
-    "date": "Fri, 22 May 2026 16:00:00 +0000"
+    "date": "Sat, 23 May 2026 21:37:33 +0000"
   },
   {
     "title": "Bekanntmachung des Aufstellungsbeschlusses gem. § 2 Abs. 1 Baugesetzbuch (BauGB) sowie der frühzeitigen Beteiligung der Öffentlichkeit gem. § 3 Abs. 1 BauGB der 86. Änderung des Flächennutzungsplans »",
@@ -63,22 +63,40 @@
     "date": "Sat, 23 May 2026 00:00:00 +0200"
   },
   {
-    "title": "Durchfahrtverbot bei Stau vom Tisch",
-    "snippet": "Ein mögliches Durchfahrtverbot durch Bad Fallingbostel und andere Ortschaften entlang der Autobahn 7 beziehungsweise ein Abfahren von der Autobahn bei Stau scheint für die Region endgültig vom Tisch zu sein. Bei der jüngsten Sitzung des Ausschusses für Wirtschaft, Verkehr, Tourismus und …",
-    "url": "https://www.wz-net.de/bad-fallingbostel/durchfahrtverbot-stau-tisch-id296377.html",
+    "title": "Wechsel an der LaFiBo-Spitze",
+    "snippet": "Der Theaterverein LaFiBo hat auf seiner Jahreshauptversammlung einen neuen Vorstand gewählt. Der Verein setzt damit auf eine Mischung aus Kontinuität, Erfahrung und junger Energie. Der neue Vorstand setzt sich wie folgt zusammen: Erster Vorsitzender Jochen Raske, Zweite Vorsitzende …",
+    "url": "https://www.wz-net.de/bomlitz/wechsel-lafibo-spitze-id296386.html",
     "source": "Walsroder Zeitung",
     "lang": "de",
     "scope": "city",
-    "date": "Fri, 22 May 2026 12:00:00 +0000"
+    "date": "Sat, 23 May 2026 16:00:00 +0000"
   },
   {
-    "title": "50 Jahre gelebte Nächstenliebe",
-    "snippet": "Im April 1976 wurde der Besuchsdienstkreis der evangelischen Kirchengemeinde Schwarmstedt aus einer Notsituation heraus geboren: Pastor Drude hatte Schwarmstedt verlassen, um eine andere Pfarrstelle anzutreten. Ein Nachfolger war erst einmal nicht in Sicht, und der verbliebene Pastor Martin …",
-    "url": "https://www.wz-net.de/schwarmstedt/50-jahre-gelebte-naechstenliebe-id296128.html",
+    "title": "„Schick mal ein paar Bilder von Dir, Süße“",
+    "snippet": "Wegen sexuellen Missbrauchs eines Kindes ohne Körperkontakt und des Besitzes und Verschaffens kinder- und jugendpornografischer Fotos wurde im Oktober 2025 am Amtsgericht Walsrode ein 39 Jahre alter Angeklagter zu einer 21-monatigen Bewährungsstrafe verurteilt. Dies entsprach zwar dem in der …",
+    "url": "https://www.wz-net.de/walsrode/schick-mal-paar-bilder-dir-suesse-id296281.html",
     "source": "Walsroder Zeitung",
     "lang": "de",
     "scope": "city",
-    "date": "Thu, 21 May 2026 06:00:00 +0000"
+    "date": "Fri, 22 May 2026 06:00:00 +0000"
+  },
+  {
+    "title": "Mit gefälschtem Führerschein aufgeflogen",
+    "snippet": "Im Rahmen einer Verkehrskontrolle am 20. Mai präsentierte ein Autofahrer einen Führerschein, an dessen Echtheit die Beamten erhebliche Zweifel hatten. Eine genauere Überprüfung ergab, dass augenscheinlich an dem Dokument manipuliert wurde. Gegen den 20-jährigen Fahrzeugführer wurden …",
+    "url": "https://www.wz-net.de/soltau/gefaelschtem-fuehrerschein-aufgeflogen-id296286.html",
+    "source": "Walsroder Zeitung",
+    "lang": "de",
+    "scope": "city",
+    "date": "Fri, 22 May 2026 02:15:00 +0000"
+  },
+  {
+    "title": "Eintrittskarte",
+    "snippet": "Als Fan des Hamburger SV träumte ich lange davon, einmal über „meinen“ Verein zu berichten. Anfang 2003 war es soweit, als der HSV ein Testspiel auf Schnee in Schneverdingen gegen den damaligen Zweitligisten VfB Lübeck mit 2:1 gewann. Die Torschützen waren damals echte Stars: Rodolfo Cardoso …",
+    "url": "https://www.wz-net.de/walsrode/eintrittskarte-id296249.html",
+    "source": "Walsroder Zeitung",
+    "lang": "de",
+    "scope": "city",
+    "date": "Fri, 22 May 2026 02:00:00 +0000"
   },
   {
     "title": "Bekanntmachung des Gemeindewahlleiters der Stadt Walsrode über die Zusammensetzung des Gemeindewahlausschusses",
@@ -88,24 +106,6 @@
     "lang": "de",
     "scope": "city",
     "date": "Mon, 18 May 2026 00:00:00 +0200"
-  },
-  {
-    "title": "Kollision auf der Autobahn",
-    "snippet": "Am Dienstag kam es gegen 14.15 Uhr auf der A 7 in Fahrtrichtung Hannover im Bereich der Anschlussstelle Soltau-Süd zu einem Verkehrsunfall zwischen einem Auto und einem Sattelzug. Nach bisherigen Erkenntnissen der Polizei wechselte eine 34-jährige Autofahrerin vom Beschleunigungsstreifen auf …",
-    "url": "https://www.wz-net.de/soltau/kollision-autobahn-id296162.html",
-    "source": "Walsroder Zeitung",
-    "lang": "de",
-    "scope": "city",
-    "date": "Thu, 21 May 2026 02:15:00 +0000"
-  },
-  {
-    "title": "Durchzuckt",
-    "snippet": "Nägel schneiden, mit Streichhölzern hantieren oder Shampoo in den Augen beim Duschen: Alles ein Graus in der Kindheit. Irgendwann war das nicht mehr ganz so schlimm. Meine Nägel schneide ich ohne Schmerzen, meine Furcht vor Streichhölzern spielt keine Rolle mehr, und Shampoo gerät nur noch …",
-    "url": "https://www.wz-net.de/walsrode/durchzuckt-id296156.html",
-    "source": "Walsroder Zeitung",
-    "lang": "de",
-    "scope": "city",
-    "date": "Thu, 21 May 2026 02:00:00 +0000"
   },
   {
     "title": "Veranstaltungen für Eltern, Lehrkräfte, Fachkräfte aus Jugendhilfe und Kita",
@@ -120,15 +120,6 @@
     "title": "Elektronisches Amtsblatt der Stadt Walsrode - 5. Jahrgang 2026 Nr. 16 vom 08.05.2026",
     "snippet": "",
     "url": "https://www.stadt-walsrode.de/media/custom/2726_1123_1.PDF?1778146421",
-    "source": "Walsrode (official)",
-    "lang": "de",
-    "scope": "city",
-    "date": "Fri, 08 May 2026 00:00:00 +0200"
-  },
-  {
-    "title": "Elektronisches Amtsblatt der Stadt Walsrode - 5. Jahrgang 2026 Nr. 17 vom 08.05.2026",
-    "snippet": "",
-    "url": "https://www.stadt-walsrode.de/media/custom/2726_1124_1.PDF?1778146978",
     "source": "Walsrode (official)",
     "lang": "de",
     "scope": "city",

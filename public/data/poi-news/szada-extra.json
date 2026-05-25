@@ -27,15 +27,6 @@
     "date": "Wed, 20 May 2026 13:53:29 +0000"
   },
   {
-    "title": "Az önéletrajz elemei, amik eldöntik, behívnak-e állásinterjúra",
-    "snippet": "Az önéletrajzoknál a különböző területeken eltérő szempontok alapján döntenek a cégek, ezért érdemes a jelentkezést az adott munkához igazítani. A Profession.hu kutatása szerint tízből kilenc",
-    "url": "https://hirnok.hu/az-oneletrajz-elemei-amik-eldontik-behivnak-e-allasinterjura/",
-    "source": "hirnok.hu (megyei)",
-    "lang": "hu",
-    "scope": "county",
-    "date": "Wed, 20 May 2026 09:54:25 +0000"
-  },
-  {
     "title": "Szebb arc, könnyebb élet?",
     "snippet": "A tudomány szerint a vonzerő egyszerre lehet előny és társadalmi csapda A közösségi média korában a „pretty privilege”, vagyis a szépségből fakadó társadalmi előny fogalma",
     "url": "https://hirnok.hu/szebb-arc-konnyebb-elet/",
@@ -45,15 +36,6 @@
     "date": "Wed, 13 May 2026 11:38:02 +0000"
   },
   {
-    "title": "Legfrissebb videó",
-    "snippet": "Legfrissebb videó Székely Bertalan - nap 2026 - Kiállítás megnyitó a Műteremházban",
-    "url": "https://www.szada.hu/videok/szekely-bertalan-nap-2026-kiallitas-megnyito-a-muteremhazban",
-    "source": "szada.hu (hivatalos)",
-    "lang": "hu",
-    "scope": "city",
-    "date": ""
-  },
-  {
     "title": "Kiengedték a kórházból a szenteste autóbalesetet szenvedő Bardóczy Kornél szövetségi kapitányt",
     "snippet": "Az ütközést okozó sofőr ittas volt.",
     "url": "https://index.hu/sport/tenisz/2025/12/28/bardoczky-kornel-davis-kupa-valogatott-szovetsegi-kapitany-baleset-gyogyulas/",
@@ -61,6 +43,15 @@
     "lang": "hu",
     "scope": "city",
     "date": "Sun, 28 Dec 2025 13:22:00 +0100"
+  },
+  {
+    "title": "Legfrissebb videó",
+    "snippet": "Legfrissebb videó Székely Bertalan - nap 2026 - Kiállítás megnyitó a Műteremházban",
+    "url": "https://www.szada.hu/videok/szekely-bertalan-nap-2026-kiallitas-megnyito-a-muteremhazban",
+    "source": "szada.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
   },
   {
     "title": "Bocsánatot kért az ittas sofőr, aki frontálisan ütközött a magyar Davis-kupa-csapat kapitányával",

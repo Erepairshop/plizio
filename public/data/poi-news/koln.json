@@ -1,5 +1,14 @@
 [
   {
+    "title": "So isst Politik: Vorbei ist's mit der Kluft zwischen Köln und Düsseldorf!",
+    "snippet": "Unsere Autorin futtert sich durch das politische Berlin. Nun war sie live dabei, wie eine Tradition geradezu vorbildhaft eingerissen wurde – auch mit Hilfe von Wurst, Huhn und Spargel.",
+    "url": "https://www.faz.net/aktuell/besser-leben/essen/so-isst-politik-vorbild-rheinland-accg-200854517.html",
+    "source": "faz.net",
+    "lang": "de",
+    "scope": "national",
+    "date": "Sun, 24 May 2026 16:44:04 GMT"
+  },
+  {
     "title": "\"Köln baut bezahlbar – Wohnen für alle\"",
     "snippet": "22. Mai 2026, 13:05 Politik wird eingebunden – Zwischenergebnis im Prozess zur Baukostensenkung",
     "url": "https://www.stadt-koeln.de/politik-und-verwaltung/presseservice/koeln-baut-bezahlbar-wohnen-fuer-alle",
@@ -9,22 +18,13 @@
     "date": "Fri, 22 May 2026 12:05:00 +0100"
   },
   {
-    "title": "Torschütze von Viktoria Köln: Ex-Zebra Duman zeigt Mitgefühl mit dem MSV Duisburg",
-    "snippet": "Vor dem Finaltag der Amateure am 23. Mai spricht der Moerser Taylan Duman über sein Tor gegen den MSV Duisburg. Wie der Drittliga-Fußballer von Viktoria Köln das Saisonfinale erlebte und wie’s für ihn in der nächsten Spielzeit weitergeht.",
-    "url": "https://rp-online.de/nrw/staedte/xanten/sport/msv-duisburg-ex-zebra-taylan-duman-ueber-sein-tor-fuer-viktoria-koeln_aid-148675435",
-    "source": "Rheinische Post",
+    "title": "Einschränkungen auf der RE 9 zwischen Siegen und Köln",
+    "snippet": "Mehrere Fahrten auf der Linie RE 9 fallen am Sonntag, 24. Mai, auf Teilstrecken aus. Grund ist nach Angaben des Zuginfo-NRW-Teams die Reparatur an einem Zug.",
+    "url": "https://www.siegener-zeitung.de/lokales/siegerland/siegen/einschraenkungen-auf-der-re-9-zwischen-siegen-und-koeln-DLSCMXRZFRHPDEDZIAVPO6A4MI.html",
+    "source": "Siegener Zeitung",
     "lang": "de",
-    "scope": "city",
-    "date": "Thu, 21 May 2026 14:03:31 +0200"
-  },
-  {
-    "title": "Besuch bei SK Stiftung in Köln",
-    "snippet": "Herdorfer Delegation besucht SK Stiftung Kultur in Köln Im August-Sander-Jahr 2026 besuchte jetzt eine Delegation der Stadt Herdorf die SK Stiftung Kultur im Mediapark Köln. Anlass des Besuchs war der [ ] Der Beitrag Besuch bei SK Stiftung in Köln erschien zuerst auf herdorf.de .",
-    "url": "https://www.herdorf.de/besuch-bei-sk-stiftung-in-koeln/",
-    "source": "herdorf.de (official)",
-    "lang": "de",
-    "scope": "city",
-    "date": "Fri, 22 May 2026 07:00:00 +0000"
+    "scope": "region",
+    "date": "Sun, 24 May 2026 09:44:23 +0200"
   },
   {
     "title": "Abkühlung im Rhein kann tödlich enden",
@@ -63,6 +63,42 @@
     "date": "Thu, 21 May 2026 06:59:00 GMT"
   },
   {
+    "title": "„Hitze im Veedel“ am bundesweiten Hitzeaktionstag",
+    "snippet": "22. Mai 2026, 10:00 Stadt Köln bietet Hitzespaziergänge und Informationen zum Hitzeschutz an",
+    "url": "https://www.stadt-koeln.de/politik-und-verwaltung/presseservice/hitze-im-veedel-am-bundesweiten-hitzeaktionstag",
+    "source": "Köln (official)",
+    "lang": "de",
+    "scope": "city",
+    "date": "Fri, 22 May 2026 09:00:00 +0100"
+  },
+  {
+    "title": "Torschütze von Viktoria Köln: Ex-Zebra Duman zeigt Mitgefühl mit dem MSV Duisburg",
+    "snippet": "Vor dem Finaltag der Amateure am 23. Mai spricht der Moerser Taylan Duman über sein Tor gegen den MSV Duisburg. Wie der Drittliga-Fußballer von Viktoria Köln das Saisonfinale erlebte und wie’s für ihn in der nächsten Spielzeit weitergeht.",
+    "url": "https://rp-online.de/nrw/staedte/xanten/sport/msv-duisburg-ex-zebra-taylan-duman-ueber-sein-tor-fuer-viktoria-koeln_aid-148675435",
+    "source": "Rheinische Post",
+    "lang": "de",
+    "scope": "city",
+    "date": "Thu, 21 May 2026 14:03:31 +0200"
+  },
+  {
+    "title": "Besuch bei SK Stiftung in Köln",
+    "snippet": "Herdorfer Delegation besucht SK Stiftung Kultur in Köln Im August-Sander-Jahr 2026 besuchte jetzt eine Delegation der Stadt Herdorf die SK Stiftung Kultur im Mediapark Köln. Anlass des Besuchs war der [ ] Der Beitrag Besuch bei SK Stiftung in Köln erschien zuerst auf herdorf.de .",
+    "url": "https://www.herdorf.de/besuch-bei-sk-stiftung-in-koeln/",
+    "source": "herdorf.de (official)",
+    "lang": "de",
+    "scope": "city",
+    "date": "Fri, 22 May 2026 07:00:00 +0000"
+  },
+  {
+    "title": "Zwischen künstlerischem Aufbruch und gewaltsamem Verstummen",
+    "snippet": "21. Mai 2026, 14:13 Kölnisches Stadtmuseum erinnert an die Expressionistin Olga Oppenheimer",
+    "url": "https://www.stadt-koeln.de/politik-und-verwaltung/presseservice/zwischen-kuenstlerischem-aufbruch-und-gewaltsamem-verstummen",
+    "source": "Köln (official)",
+    "lang": "de",
+    "scope": "city",
+    "date": "Thu, 21 May 2026 13:13:00 +0100"
+  },
+  {
     "title": "Asiatische Tigermücke",
     "snippet": "20. Mai 2026, 15:52 Gesundheitsamt der Stadt Köln gibt Tipps zur Eindämmung",
     "url": "https://www.stadt-koeln.de/politik-und-verwaltung/presseservice/asiatische-tigermuecke-1",
@@ -70,24 +106,6 @@
     "lang": "de",
     "scope": "city",
     "date": "Wed, 20 May 2026 14:52:00 +0100"
-  },
-  {
-    "title": "Die botanischen Termine der Stadt Köln im Juni 2026",
-    "snippet": "19. Mai 2026, 11:15",
-    "url": "https://www.stadt-koeln.de/politik-und-verwaltung/presseservice/die-botanischen-termine-der-stadt-koeln-im-juni-2026",
-    "source": "Köln (official)",
-    "lang": "de",
-    "scope": "city",
-    "date": "Tue, 19 May 2026 10:15:00 +0100"
-  },
-  {
-    "title": "Jubiläumspflanzung in Köln-Chorweiler",
-    "snippet": "19. Mai 2026, 10:50 Köln feiert 50 Jahre GALK-Arbeitskreis Stadtbäume",
-    "url": "https://www.stadt-koeln.de/politik-und-verwaltung/presseservice/jubilaeumspflanzung-koeln-chorweiler",
-    "source": "Köln (official)",
-    "lang": "de",
-    "scope": "city",
-    "date": "Tue, 19 May 2026 09:50:00 +0100"
   },
   {
     "title": "Trainieren für den Weltraum: Der Mond in Köln",

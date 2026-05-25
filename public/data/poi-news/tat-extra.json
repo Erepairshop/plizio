@@ -27,15 +27,6 @@
     "date": "Wed, 20 May 2026 12:33:50 +0000"
   },
   {
-    "title": "Közmeghallgatás 2026. május 18.",
-    "snippet": "Az alábbi linken tölthető le a 2026. május 18-i Közmeghallgatás meghívója",
-    "url": "https://tat.hu/kozmeghallgatas-2026-majus-18/",
-    "source": "Tát Város Hivatalos Honlapja",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Fri, 08 May 2026 07:36:06 +0000"
-  },
-  {
     "title": "Náci szimbólumokat tetováltatott magára egy képviselőjelölt, vissza kellett lépnie",
     "snippet": "Hitler portréjával a testén indult volna a választásokon.",
     "url": "https://index.hu/belfold/2024/onkormanyzati_valasztas/2024/06/04/naci-hitler-soltysiak-edina-szimbolumok-tetovalas-tat-komarom-esztergom-fuggetlen-jelolt/",
@@ -43,6 +34,15 @@
     "lang": "hu",
     "scope": "city",
     "date": "Tue, 04 Jun 2024 18:04:00 +0200"
+  },
+  {
+    "title": "Közmeghallgatás 2026. május 18.",
+    "snippet": "Az alábbi linken tölthető le a 2026. május 18-i Közmeghallgatás meghívója",
+    "url": "https://tat.hu/kozmeghallgatas-2026-majus-18/",
+    "source": "Tát Város Hivatalos Honlapja",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Fri, 08 May 2026 07:36:06 +0000"
   },
   {
     "title": "Hidegben eltévedt fiatal nő életét mentették meg a rendőrök",
@@ -54,15 +54,6 @@
     "date": "Tue, 20 Jan 2026 10:08:25 +0000"
   },
   {
-    "title": "Fogászat 2026.05.12-05.14 között a rendelés szünetel",
-    "snippet": "",
-    "url": "https://tat.hu/fogaszat-2026-05-12-05-14-kozott-a-rendeles-szunetel/",
-    "source": "Tát Város Hivatalos Honlapja",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Wed, 06 May 2026 11:37:59 +0000"
-  },
-  {
     "title": "Robogójával szenvedett halálos balesetet egy nyugdíjas Táton",
     "snippet": "Véletlenül a lánya is belefutott a helyszínelésbe.",
     "url": "https://index.hu/belfold/2023/11/24/tat-halalos-baleset-idos-ferfi/",
@@ -70,6 +61,15 @@
     "lang": "hu",
     "scope": "city",
     "date": "Fri, 24 Nov 2023 08:46:00 +0100"
+  },
+  {
+    "title": "Fogászat 2026.05.12-05.14 között a rendelés szünetel",
+    "snippet": "",
+    "url": "https://tat.hu/fogaszat-2026-05-12-05-14-kozott-a-rendeles-szunetel/",
+    "source": "Tát Város Hivatalos Honlapja",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Wed, 06 May 2026 11:37:59 +0000"
   },
   {
     "title": "Halálos baleset történt a 10-es főúton",
@@ -81,15 +81,6 @@
     "date": "Mon, 22 Mar 2021 16:26:56 +0000"
   },
   {
-    "title": "Kreatív délelőtt a Könyvtárban május 16-án",
-    "snippet": "Ismét várjuk az érdeklődőket egy jó hangulatú, kreatív délelőttre, május 16-án 9 és 12 óra között a könyvtárba. Ha szeretsz alkotni, kikapcsolódni, vagy csak kipróbálnál valami újat egy barátságos, inspiráló közegben, akkor itt a",
-    "url": "https://tat.hu/kreativ-delelott-a-konyvtarban-majus-16-an/",
-    "source": "Tát Város Hivatalos Honlapja",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Tue, 05 May 2026 11:46:55 +0000"
-  },
-  {
     "title": "Két autó ütközött Tátnál, egy ember meghalt",
     "snippet": "A 117-es úton történt a baleset.",
     "url": "https://index.hu/belfold/2022/03/31/baleset-kozlekedes-tat-117-es-ut/",
@@ -97,6 +88,15 @@
     "lang": "hu",
     "scope": "city",
     "date": "Thu, 31 Mar 2022 19:59:00 +0200"
+  },
+  {
+    "title": "Kreatív délelőtt a Könyvtárban május 16-án",
+    "snippet": "Ismét várjuk az érdeklődőket egy jó hangulatú, kreatív délelőttre, május 16-án 9 és 12 óra között a könyvtárba. Ha szeretsz alkotni, kikapcsolódni, vagy csak kipróbálnál valami újat egy barátságos, inspiráló közegben, akkor itt a",
+    "url": "https://tat.hu/kreativ-delelott-a-konyvtarban-majus-16-an/",
+    "source": "Tát Város Hivatalos Honlapja",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Tue, 05 May 2026 11:46:55 +0000"
   },
   {
     "title": "A NAV vizsgálja a Vadainak gyanús kerékpárutat",

@@ -1,5 +1,14 @@
 [
   {
+    "title": "FC Hatvan: két gól kevés volt a pontszerzéshez",
+    "snippet": "A hatvaniaknak végig futni kellett az eredmény után",
+    "url": "https://www.heol.hu/helyi-sport/2026/05/fc-hatvan-dvtk-szabo-zoltan?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+    "source": "heol.hu (megyei)",
+    "lang": "hu",
+    "scope": "county",
+    "date": "Sun, 24 May 2026 18:02:16 +0000"
+  },
+  {
     "title": "Virágba borult Hatvan: befejeződtek a tavaszi ültetési munkálatok",
     "snippet": "Május végére teljesen megújultak Hatvan zöldfelületei. A Hatvani Szolgáltató Kft. munkatársai a Dobó téren helyezték el az utolsó virágokat, így idén is több tízezer tő növény teszi látványosabbá a várost. A lakosság kérésére idén jelentősen növelték az évelő ágyások arányát, a fenntarthatóságot ped",
     "url": "https://hatvanihirlap.hu/viragba-borult-hatvan-befejezodtek-a-tavaszi-ultetesi-munkalatok/",
@@ -36,15 +45,6 @@
     "date": "Sat, 23 Aug 2025 14:30:00 +0200"
   },
   {
-    "title": "Vonatgázolás miatt meghosszabbodott a menetidő a Budapest–Hatvan–Miskolc vonalon",
-    "snippet": "Keleti pályaudvarra tartó Kócsag InterCity vonat a péceli állomáson elütött egy embert.",
-    "url": "https://index.hu/belfold/2021/10/05/baleset-vonatgazolas-pecel-halalos-aldozat-budapest-hatvan-miskolc-vonal-megnovekedett-menetido/",
-    "source": "index.hu/Pécel",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Tue, 05 Oct 2021 19:54:00 +0200"
-  },
-  {
     "title": "Hatvan éve ugyanazt jelenti: ballagással és sárgulással búcsúztak a végzős agrárhallgatók - galériával",
     "snippet": "Hatvan éve ugyanazt jelenti: ballagással és sárgulással búcsúztak a végzős agrárhallgatók - galériával",
     "url": "https://www.delmagyar.hu/helyi-kozelet/2026/05/sargulas-bucsu-vegzos-agrarhallgatok-vasarhely",
@@ -52,6 +52,15 @@
     "lang": "hu",
     "scope": "city",
     "date": ""
+  },
+  {
+    "title": "Vonatgázolás miatt meghosszabbodott a menetidő a Budapest–Hatvan–Miskolc vonalon",
+    "snippet": "Keleti pályaudvarra tartó Kócsag InterCity vonat a péceli állomáson elütött egy embert.",
+    "url": "https://index.hu/belfold/2021/10/05/baleset-vonatgazolas-pecel-halalos-aldozat-budapest-hatvan-miskolc-vonal-megnovekedett-menetido/",
+    "source": "index.hu/Pécel",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Tue, 05 Oct 2021 19:54:00 +0200"
   },
   {
     "title": "Hatvan évvel fiatalabb nőt vett feleségül Kunhegyes polgármestere, elfogyott a fagyi",

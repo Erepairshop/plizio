@@ -1,5 +1,14 @@
 [
   {
+    "title": "BVB-Änderungen im Hintergrund: Kehl-Vertrauter weg, bald Verstärkung für Book?",
+    "snippet": "Nach der Trennung von Sportdirektor Sebastian Kehl gibt es bei Borussia Dortmund weitere Abschiede. Indes wird ein Vertrauter von Ole Book beim BVB gehandelt.",
+    "url": "https://www.wp.de/sport/borussia-dortmund/article412061792/bvb-umbau-hinter-den-kulissen-kehl-vertrauter-verabschiedet-book-mann-im-fokus.html",
+    "source": "WP siegerland",
+    "lang": "de",
+    "scope": "state",
+    "date": "Sun, 24 May 2026 21:44:00 +0200"
+  },
+  {
     "title": "Kehl sagt Danke",
     "snippet": "Internationale Platzierungen, Erfolge bei Deutschen Meisterschaften und gesellschaftliches Engagement standen am Freitag, 22. Mai, in der Stadthalle im Mittelpunkt. Die Stadt zeichnete zahlreiche Sportlerinnen und Sportler, Mannschaften sowie Blutspenderinnen und Blutspender aus. Außerdem erhielt Ch",
     "url": "https://kehl.de/kehl+sagt+danke",
@@ -7,15 +16,6 @@
     "lang": "de",
     "scope": "city",
     "date": "Fri, 22 May 2026 18:02:17 GMT"
-  },
-  {
-    "title": "BVB-Umbau hinter den Kulissen: Kehl-Vertrauter verabschiedet, Book-Mann im Fokus",
-    "snippet": "Nach Sebastian Kehl verließ auch ein Vertrauter des ehemaligen Sportdirektors Borussia Dortmund. Nachfolger Ole Book könnte bald neue Unterstützung erhalten.",
-    "url": "https://www.wp.de/sport/borussia-dortmund/article412061792/bvb-umbau-hinter-den-kulissen-kehl-vertrauter-verabschiedet-book-mann-im-fokus.html",
-    "source": "WP siegerland",
-    "lang": "de",
-    "scope": "state",
-    "date": "Sat, 23 May 2026 08:33:00 +0200"
   },
   {
     "title": "Flüchtlingsunterkunft",
@@ -54,15 +54,6 @@
     "date": "Wed, 20 May 2026 14:31:00 GMT"
   },
   {
-    "title": "Messdi-Bilanz",
-    "snippet": "Wetterbedingt zählte der Kehler Messdi weniger Besucherinnen und Besucher als im Vorjahr. Von Himmelfahrt bis Sonntag feierten rund 145 000 Gäste das größte Volksfest der Ortenau. Im vergangenen Jahr waren es noch mehr als 195 000. Dennoch fällt das Fazit der Organisatoren überwiegend positiv aus. D",
-    "url": "https://kehl.de/messdi+2026",
-    "source": "Kehl (official)",
-    "lang": "de",
-    "scope": "city",
-    "date": "Mon, 18 May 2026 07:00:00 GMT"
-  },
-  {
     "title": "Großputz Fußgängerzone",
     "snippet": "Kaum waren die vielen Stände, Fahrgeschäfte und Bühnen des Messdi endgültig abgebaut, hat in der Kehler Innenstadt der Großputz begonnen. In den kommenden knapp zwei Wochen arbeitet sich das beauftragte Unternehmen abschnittsweise durch die Fußgängerzone und bringt die Steinflächen wieder auf Vorder",
     "url": "https://kehl.de/grossputz+fussgaengerzone",
@@ -81,12 +72,12 @@
     "date": "Wed, 13 May 2026 13:06:00 GMT"
   },
   {
-    "title": "THW-Behelfsbrücken (mit Video)",
-    "snippet": "Kaum zu übersehen waren die beiden großen Teleskopkräne, die am Samstag, 9. Mai, über die Dächer von Neumühl ragten. Während Kräfte des Technischen Hilfswerks Verbindungselemente montierten, hoben sie Brückenteile zentimetergenau über den Gießelbach. Die Aktion war Teil der Erneuerung des Gießelbach",
-    "url": "https://kehl.de/behelfsbruecken+in+neumuehl",
+    "title": "Messdi-Bilanz",
+    "snippet": "Wetterbedingt zählte der Kehler Messdi weniger Besucherinnen und Besucher als im Vorjahr. Von Himmelfahrt bis Sonntag feierten rund 145 000 Gäste das größte Volksfest der Ortenau. Im vergangenen Jahr waren es noch mehr als 195 000. Dennoch fällt das Fazit der Organisatoren überwiegend positiv aus. D",
+    "url": "https://kehl.de/messdi+2026",
     "source": "Kehl (official)",
     "lang": "de",
     "scope": "city",
-    "date": "Tue, 12 May 2026 13:59:31 GMT"
+    "date": "Mon, 18 May 2026 07:00:00 GMT"
   }
 ]

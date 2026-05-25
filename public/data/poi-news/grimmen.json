@@ -1,5 +1,23 @@
 [
   {
+    "title": "Edeka in Franzburg geschlossen: Fleischerei und Bäcker versorgen Stadt mit Lebensmitteln",
+    "snippet": "Nachdem der Edeka-Markt in Franzburg plötzlich geschlossen wurde, stehen die Einwohner ohne Lebensmittel-Versorgung da. Bis eine langfristige Lösung gefunden ist, gibt es tolle Übergangs-Aktionen - hier ein Überblick.",
+    "url": "https://www.ostsee-zeitung.de/lokales/vorpommern-ruegen/stralsund/edeka-in-franzburg-geschlossen-fleischerei-und-baecker-versorgen-stadt-mit-lebensmitteln-7UDUGMYZNJEV3CVKPIQCXG5HJI.html",
+    "source": "Ostsee-Zeitung Grimmen",
+    "lang": "de",
+    "scope": "city",
+    "date": "Mon, 25 May 2026 06:00:02 +0200"
+  },
+  {
+    "title": "Polizei Grimmen: Unfälle, Verbrechen, Vermisstenmeldungen – aktuelle Meldungen aus der Region (25.05.2026)",
+    "snippet": "Ob Verkehrsunfälle, Sperrungen, Vermisstenmeldungen, Gewaltdelikte oder anderweitige Verbrechen. Aktuelle Polizei- und Verkehrsmeldungen aus Grimmen finden Sie ab sofort rund um die Uhr auch in unserem Liveticker.",
+    "url": "https://www.ostsee-zeitung.de/lokales/vorpommern-ruegen/grimmen/polizei-grimmen-unfaelle-verbrechen-vermisstenmeldungen-aktuelle-meldungen-aus-der-region-25-05-2026-BQTRWQ53FBH67KPFZXLDL3PJIA.html",
+    "source": "Ostsee-Zeitung Grimmen",
+    "lang": "de",
+    "scope": "city",
+    "date": "Mon, 25 May 2026 04:04:45 +0200"
+  },
+  {
     "title": "Vorpommern-Rügen sucht Familien für Bereitschaftspflege: Das müssen Bewerber wissen",
     "snippet": "Wer darf Kindern in Not helfen? Welche Voraussetzungen sind zu erfüllen? Wie hoch ist die Aufwandsentschädigung? All diese Fragen beantwortet das Jugendamt Vorpommern-Rügen.",
     "url": "https://www.ostsee-zeitung.de/lokales/vorpommern-ruegen/stralsund/vorpommern-ruegen-sucht-familien-fuer-bereitschaftspflege-das-muessen-bewerber-wissen-T6BEUIXVXJCY3O6NQ6VHDWDNJA.html",
@@ -18,37 +36,10 @@
     "date": "Sun, 24 May 2026 08:43:27 +0200"
   },
   {
-    "title": "Polizei Grimmen: Unfälle, Verbrechen, Vermisstenmeldungen – aktuelle Meldungen aus der Region (24.05.2026)",
-    "snippet": "Ob Verkehrsunfälle, Sperrungen, Vermisstenmeldungen, Gewaltdelikte oder anderweitige Verbrechen. Aktuelle Polizei- und Verkehrsmeldungen aus Grimmen finden Sie ab sofort rund um die Uhr auch in unserem Liveticker.",
-    "url": "https://www.ostsee-zeitung.de/lokales/vorpommern-ruegen/grimmen/polizei-grimmen-unfaelle-verbrechen-vermisstenmeldungen-aktuelle-meldungen-aus-der-region-24-05-2026-BQTRWQ53FBH67KPFZXLDL3PJIA.html",
-    "source": "Ostsee-Zeitung Grimmen",
-    "lang": "de",
-    "scope": "city",
-    "date": "Sun, 24 May 2026 04:04:41 +0200"
-  },
-  {
-    "title": "Grimmen: Kindertag mit Nudelessen und Programm im Stadtpark am 1. Juni",
-    "snippet": "Seit vielen Jahren zelebriert die Stadt Grimmen den Ehrentag für die Knirpse. In diesem Jahr zieht die Veranstaltung zum internationalen Kindertag wieder in den Stadtpark um.",
-    "url": "https://www.ostsee-zeitung.de/lokales/vorpommern-ruegen/grimmen/grimmen-kindertag-mit-nudelessen-und-programm-im-stadtpark-am-1-juni-KZ4PTQ45JNF3LB6RP5H6RW6LGI.html",
-    "source": "Ostsee-Zeitung Grimmen",
-    "lang": "de",
-    "scope": "city",
-    "date": "Sat, 23 May 2026 07:45:00 +0200"
-  },
-  {
-    "title": "Sommertheater in Stralsund und Greifswald mit vier flotten Open-Air-Produktionen",
-    "snippet": "Das Theater Vorpommern lässt seine Spielzeit auch in diesem Jahr mit dem traditionellen Sommertheater ausklingen. Insgesamt wird es in der Saison vier Produktionen geben, davon zwei für Kinder und Familien.",
-    "url": "https://www.ostsee-zeitung.de/lokales/vorpommern-greifswald/greifswald/sommertheater-in-stralsund-und-greifswald-mit-vier-flotten-open-air-produktionen-MPXL4S22WVEUTP33SNXP2CV2VE.html",
-    "source": "Ostsee-Zeitung Grimmen",
-    "lang": "de",
-    "scope": "city",
-    "date": "Fri, 22 May 2026 12:01:00 +0200"
-  },
-  {
     "title": "Nudelessen zum Kindertag",
     "snippet": "",
     "url": "https://www.grimmen.de/nudelessen-zum-kindertag/",
-    "source": "Grimmen (official)",
+    "source": "grimmen.de (official)",
     "lang": "de",
     "scope": "city",
     "date": "Tue, 19 May 2026 14:59:49 +0000"
@@ -57,7 +48,7 @@
     "title": "Fleißige Hände für Frühjahrsputz in Grimmen gesucht",
     "snippet": "",
     "url": "https://www.grimmen.de/fleissige-haende-fuer-fruehjahrsputz-in-grimmen-gesucht/",
-    "source": "Grimmen (official)",
+    "source": "grimmen.de (official)",
     "lang": "de",
     "scope": "city",
     "date": "Tue, 12 May 2026 07:59:22 +0000"
@@ -66,7 +57,7 @@
     "title": "Maibaumfest Grimmen",
     "snippet": "",
     "url": "https://www.grimmen.de/maibaumfest-grimmen/",
-    "source": "Grimmen (official)",
+    "source": "grimmen.de (official)",
     "lang": "de",
     "scope": "city",
     "date": "Thu, 23 Apr 2026 13:57:28 +0000"
@@ -75,7 +66,7 @@
     "title": "Spendenübergabe nach Torten-Duell der Stadtbäckerei Kühl",
     "snippet": "",
     "url": "https://www.grimmen.de/spendenuebergabe-nach-torten-duell-der-stadtbaeckerei-kuehl/",
-    "source": "Grimmen (official)",
+    "source": "grimmen.de (official)",
     "lang": "de",
     "scope": "city",
     "date": "Wed, 22 Apr 2026 15:34:08 +0000"
