@@ -1,0 +1,1038 @@
+{
+  "city_id": "pazin",
+  "anchor": {
+    "name": "Pazin",
+    "coords": [
+      13.9356,
+      45.2406
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 2.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Pfarrkirche des Heiligen Nikolaus",
+            "hu": "Szent Miklós plébániatemplom",
+            "ro": "Biserica Sfântul Nicolae",
+            "en": "Parish Church of St. Nicholas"
+          },
+          "coords": [
+            13.937,
+            45.2415
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die gotischen Fresken.",
+            "hu": "Csodálja meg a gótikus freskókat.",
+            "ro": "Admirați frescele gotice.",
+            "en": "Admire the Gothic frescoes inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Jules-Verne-Denkmal",
+            "hu": "Jules Verne-emlékmű",
+            "ro": "Monumentul Jules Verne",
+            "en": "Jules Verne Monument"
+          },
+          "coords": [
+            13.935,
+            45.2405
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erinnert an den Roman Mathias Sandorf.",
+            "hu": "A Sándor Mátyás című regényre emlékeztet.",
+            "ro": "Amintește de romanul Mathias Sandorf.",
+            "en": "Commemorates the novel Mathias Sandorf."
+          }
+        },
+        {
+          "name": {
+            "de": "Kastell Pazin",
+            "hu": "Pazini vár",
+            "ro": "Castelul Pazin",
+            "en": "Pazin Castle"
+          },
+          "coords": [
+            13.934,
+            45.2395
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:55",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Die größte Festung Istriens.",
+            "hu": "Isztria legnagyobb vára.",
+            "ro": "Cea mai mare cetate din Istria.",
+            "en": "The largest and best-preserved castle in Istria."
+          }
+        },
+        {
+          "name": {
+            "de": "Ethnographisches Museum Istriens",
+            "hu": "Isztriai Néprajzi Múzeum",
+            "ro": "Muzeul Etnografic al Istriei",
+            "en": "Ethnographic Museum of Istria"
+          },
+          "coords": [
+            13.934,
+            45.2395
+          ],
+          "category": "museums",
+          "arrive_at": "12:25",
+          "stay_min": 100,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Im Inneren des Kastells gelegen.",
+            "hu": "A vár belsejében található.",
+            "ro": "Situat în interiorul castelului.",
+            "en": "Located inside the castle complex."
+          }
+        },
+        {
+          "name": {
+            "de": "Paziner Grube",
+            "hu": "Pazini-barlang (nyelő)",
+            "ro": "Groapa Pazin",
+            "en": "Pazin Abyss"
+          },
+          "coords": [
+            13.9335,
+            45.239
+          ],
+          "category": "natural features",
+          "arrive_at": "14:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Naturphänomen unter dem Kastell.",
+            "hu": "Természeti jelenség a vár alatt.",
+            "ro": "Fenomen natural sub castel.",
+            "en": "A natural phenomenon below the castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Paziner Brücke",
+            "hu": "Pazini híd",
+            "ro": "Podul Pazin",
+            "en": "Pazin Bridge"
+          },
+          "coords": [
+            13.933,
+            45.24
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "16:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bester Blick in die Tiefe.",
+            "hu": "A legjobb kilátás a mélységbe.",
+            "ro": "Cea mai bună vedere spre adâncime.",
+            "en": "The best view down into the abyss."
+          }
+        },
+        {
+          "name": {
+            "de": "Franziskanerkloster",
+            "hu": "Ferences kolostor",
+            "ro": "Mănăstirea Franciscană",
+            "en": "Franciscan Monastery"
+          },
+          "coords": [
+            13.938,
+            45.243
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "17:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Ruhiger Kreuzgang und Bibliothek.",
+            "hu": "Csendes keresztfolyosó és könyvtár.",
+            "ro": "Claustru liniștit și bibliotecă.",
+            "en": "Quiet cloister and historic library."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen Istriens bei der St. Nikolaus Kirche, bevor Sie die literarischen Spuren von Jules Verne entdecken. Das imposante Kastell von Pazin thront majestätisch über dem Abgrund.\n\nMittags tauchen Sie im Ethnographischen Museum tief in die istrische Kultur ein. Es befindet sich direkt in den Mauern der Festung und bietet kühle Räume an heißen Tagen.\n\nDer Nachmittag steht ganz im Zeichen des Naturwunders der Paziner Grube. Bestaunen Sie die Tiefe von der Brücke aus oder wandern Sie entlang des Randes.\n\nDen Abend lassen Sie in der spirituellen Stille des Franziskanerklosters ausklingen, das einen wunderbaren Kontrast zum dramatischen Schlund der Grube bildet.",
+        "hu": "Kezdje a napot Isztria szívében a Szent Miklós-templomnál, mielőtt felfedezné Jules Verne irodalmi nyomait. A tekintélyes pazini vár fenségesen trónol a szakadék felett.\n\nDélben merüljön el az Isztriai Néprajzi Múzeumban a helyi kultúrába. A várfalakon belül található, és hűvös tereket kínál a forró napokon.\n\nA délután a Pazini-barlang természeti csodájáé. Csodálja meg a mélységet a hídról, vagy sétáljon a szakadék peremén.\n\nAz estét a ferences kolostor spirituális csendjében zárja, amely csodálatos kontrasztot alkot a barlang drámai torkával.",
+        "ro": "Începeți ziua în inima Istriei la Biserica Sf. Nicolae, înainte de a descoperi urmele literare ale lui Jules Verne. Impunătorul castel din Pazin tronează maiestuos deasupra abisului.\n\nLa prânz, aprofundați cultura istriană la Muzeul Etnografic. Se află chiar între zidurile cetății și oferă spații răcoroase în zilele toride.\n\nDupă-amiaza este dedicată minunii naturale a Gropii Pazin. Admirați adâncimea de pe pod sau plimbați-vă pe marginea prăpastiei.\n\nÎncheiați seara în liniștea spirituală a mănăstirii franciscane, care oferă un contrast minunat cu gura dramatică a gropii.",
+        "en": "Start your day in the heart of Istria at St. Nicholas Church before discovering the literary traces of Jules Verne. The imposing Pazin Castle sits majestically above the abyss.\n\nAt midday, dive deep into Istrian culture at the Ethnographic Museum. It is located directly within the fortress walls and offers cool rooms on hot days.\n\nIn the afternoon, focus on the natural wonder of the Pazin Abyss. Marvel at the depth from the bridge or hike along the edge.\n\nEnd your evening in the spiritual silence of the Franciscan monastery, which provides a wonderful contrast to the dramatic maw of the abyss."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bunker Pazin",
+            "tip": "Probieren Sie die Fleischspezialitäten direkt am Rand des Abgrunds."
+          },
+          {
+            "name": "Paziner Zuckerbrot",
+            "tip": "Ein traditionelles lokales Gebäck (Pazinski cukerančić)."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bunker Pazin",
+            "tip": "Kóstolja meg a húsételeket közvetlenül a szakadék szélén."
+          },
+          {
+            "name": "Pazini cukorperec",
+            "tip": "Hagyományos helyi édesség (Pazinski cukerančić)."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bunker Pazin",
+            "tip": "Încercați specialitățile din carne chiar pe marginea abisului."
+          },
+          {
+            "name": "Cukerančić de Pazin",
+            "tip": "Un produs de patiserie tradițional local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bunker Pazin",
+            "tip": "Try the meat specialties right on the edge of the abyss."
+          },
+          {
+            "name": "Pazin Sugar Cookie",
+            "tip": "A traditional local pastry (Pazinski cukerančić)."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Franziskanerkloster",
+            "tip": "Ein Ort der absoluten Ruhe.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Paziner Brücke",
+            "tip": "Blick in die grüne Tiefe.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ferences kolostor",
+            "tip": "Az abszolút nyugalom helye.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Pazini híd",
+            "tip": "Kilátás a zöld mélységbe.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mănăstirea Franciscană",
+            "tip": "Un loc de liniște absolută.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Podul Pazin",
+            "tip": "Privire spre adâncimea verde.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Franciscan Monastery",
+            "tip": "A place of absolute peace.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Pazin Bridge",
+            "tip": "View into the green depths.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Marktplatz Pazin",
+            "tip": "Kaufen Sie istrischen Schinken (Pršut) und Käse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pazini piac",
+            "tip": "Vásároljon isztriai sonkát (Pršut) és sajtot."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Pazin",
+            "tip": "Cumpărați șuncă istriană (Pršut) și brânză."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pazin Market",
+            "tip": "Buy Istrian ham (Pršut) and local cheese."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Paziner Grube kann auch per Zipline überquert werden.",
+          "Parken ist im Stadtzentrum oft zeitlich begrenzt.",
+          "Die Museen im Kastell haben montags oft geschlossen.",
+          "Tragen Sie festes Schuhwerk für den Wanderweg am Abgrund."
+        ],
+        "hu": [
+          "A Pazini-barlang felett zipline-nal is átkelhet.",
+          "A városközpontban a parkolás gyakran időkorlátos.",
+          "A vár múzeumai hétfőnként gyakran zárva tartanak.",
+          "Viseljen stabil cipőt a szakadék menti túraútvonalhoz."
+        ],
+        "ro": [
+          "Groapa Pazin poate fi traversată și cu tiroliana.",
+          "Parcarea în centrul orașului este adesea limitată în timp.",
+          "Muzeele din castel sunt adesea închise lunea.",
+          "Purtați încălțăminte solidă pentru poteca de pe marginea prăpastiei."
+        ],
+        "en": [
+          "The Pazin Abyss can also be crossed by zipline.",
+          "Parking in the city center is often time-limited.",
+          "The castle museums are often closed on Mondays.",
+          "Wear sturdy shoes for the hiking trail along the abyss."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "14:45",
+      "total_km": 12.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Kastell Pazin",
+            "hu": "Pazini vár",
+            "ro": "Castelul Pazin",
+            "en": "Pazin Castle"
+          },
+          "coords": [
+            13.934,
+            45.2395
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Startpunkt mit historischem Flair.",
+            "hu": "Kiindulópont történelmi hangulattal.",
+            "ro": "Punct de plecare cu fler istoric.",
+            "en": "Starting point with historic flair."
+          }
+        },
+        {
+          "name": {
+            "de": "Paziner Brücke",
+            "hu": "Pazini híd",
+            "ro": "Podul Pazin",
+            "en": "Pazin Bridge"
+          },
+          "coords": [
+            13.933,
+            45.24
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "10:20",
+          "stay_min": 20,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Vorsicht bei Wind auf der Brücke.",
+            "hu": "Vigyázzon a széllel a hídon.",
+            "ro": "Atenție la vânt pe pod.",
+            "en": "Be careful with the wind on the bridge."
+          }
+        },
+        {
+          "name": {
+            "de": "Franziskanerkloster",
+            "hu": "Ferences kolostor",
+            "ro": "Mănăstirea Franciscană",
+            "en": "Franciscan Monastery"
+          },
+          "coords": [
+            13.938,
+            45.243
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Leichte Steigung im Stadtgebiet.",
+            "hu": "Enyhe emelkedő a városi területen.",
+            "ro": "Urcare ușoară în zona urbană.",
+            "en": "Slight incline within the urban area."
+          }
+        },
+        {
+          "name": {
+            "de": "Zarečki krov Wasserfall",
+            "hu": "Zarečki krov vízesés",
+            "ro": "Cascada Zarečki krov",
+            "en": "Zarečki krov Waterfall"
+          },
+          "coords": [
+            13.961,
+            45.251
+          ],
+          "category": "natural features",
+          "arrive_at": "11:55",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Wunderschöner Ort zum Picknicken.",
+            "hu": "Gyönyörű hely a piknikezéshez.",
+            "ro": "Loc superb pentru picnic.",
+            "en": "Beautiful spot for a picnic by the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Staatsarchiv in Pazin",
+            "hu": "Pazini Állami Levéltár",
+            "ro": "Arhivele Statului din Pazin",
+            "en": "State Archives in Pazin"
+          },
+          "coords": [
+            13.936,
+            45.241
+          ],
+          "category": "museums",
+          "arrive_at": "13:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Im beeindruckenden ehemaligen Gymnasium.",
+            "hu": "A lenyűgöző egykori gimnáziumban.",
+            "ro": "În fostul gimnaziu impresionant.",
+            "en": "Located in the impressive former gymnasium."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Pazin und seine Umgebung auf zwei Rädern. Nach dem Besuch des Kastells und einem Blick in den Abgrund führt die Route durch die Stadt zum Kloster.\n\nMittags verlassen Sie das Zentrum für eine Fahrt zum Zarečki krov Wasserfall. Der Weg dorthin ist landschaftlich reizvoll und der Wasserfall bietet eine ideale Kulisse für eine ausgiebige Pause.\n\nAm Nachmittag radeln Sie zurück in die Stadt, um das monumentale Staatsarchiv zu besichtigen.\n\nDiese Tour verbindet städtische Geschichte mit der natürlichen Schönheit des istrischen Hinterlandes.",
+        "hu": "Fedezze fel Pazint és környékét két keréken. A vár meglátogatása és a szakadékba vetett pillantás után az útvonal a városon keresztül a kolostorhoz vezet.\n\nDélben hagyja el a központot, és tekerjen a Zarečki krov vízeséshez. Az odavezető út tájilag elragadó, a vízesés pedig ideális helyszín egy hosszabb pihenőhöz.\n\nDélután tekerjen vissza a városba, hogy megtekintse a monumentális Állami Levéltár épületét.\n\nEz a túra egyesíti a városi történelmet az isztriai hátország természeti szépségével.",
+        "ro": "Explorați Pazin și împrejurimile sale pe două roți. După vizitarea castelului și o privire în abis, traseul trece prin oraș spre mănăstire.\n\nLa prânz, părăsiți centrul pentru o plimbare spre cascada Zarečki krov. Drumul este pitoresc, iar cascada oferă cadrul ideal pentru o pauză prelungită.\n\nDupă-amiaza, pedalați înapoi în oraș pentru a vizita Arhivele Statului monumentale.\n\nAcest tur combină istoria urbană cu frumusețea naturală a interiorului Istriei.",
+        "en": "Explore Pazin and its surroundings on two wheels. After visiting the castle and glancing into the abyss, the route leads through town to the monastery.\n\nAt midday, leave the center for a ride to the Zarečki krov waterfall. The path there is scenic, and the waterfall provides an ideal backdrop for an extended break.\n\nIn the afternoon, cycle back to town to visit the monumental State Archives.\n\nThis tour combines urban history with the natural beauty of the Istrian hinterland."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Agroturizam Ograde",
+            "tip": "Traditionelle Gerichte in der Nähe von Pazin."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Agroturizam Ograde",
+            "tip": "Hagyományos ételek Pazin közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Agroturizam Ograde",
+            "tip": "Mâncăruri tradiționale în apropiere de Pazin."
+          }
+        ],
+        "en": [
+          {
+            "name": "Agroturizam Ograde",
+            "tip": "Traditional dishes near Pazin."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Zarečki krov",
+            "tip": "Rauschen des Wassers und Natur pur.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zarečki krov",
+            "tip": "Vízcsobogás és tiszta természet.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zarečki krov",
+            "tip": "Sunetul apei și natură pură.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Zarečki krov",
+            "tip": "Sound of water and pure nature.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Pazin Souvenirs",
+            "tip": "Lokale Weine und Spirituosen (Bisks)."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pazini ajándékok",
+            "tip": "Helyi borok és párlatok (Biska)."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Suveniruri Pazin",
+            "tip": "Vinuri și băuturi spirtoase locale (Biska)."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pazin Souvenirs",
+            "tip": "Local wines and spirits (Biska)."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Strecke zum Wasserfall ist teilweise auf Schotter.",
+          "Nehmen Sie genug Wasser mit, da es im Hinterland heiß werden kann.",
+          "In Pazin gibt es einige steile Anstiege."
+        ],
+        "hu": [
+          "A vízeséshez vezető út részben kavicsos.",
+          "Vigyen elég vizet, mert a hátországban forróság lehet.",
+          "Pazinban van néhány meredek emelkedő."
+        ],
+        "ro": [
+          "Traseul spre cascadă este parțial pe pietriș.",
+          "Luați destulă apă, deoarece în interior poate fi foarte cald.",
+          "În Pazin există câteva urcări abrupte."
+        ],
+        "en": [
+          "The route to the waterfall is partly on gravel.",
+          "Bring enough water as it can get hot in the hinterland.",
+          "There are some steep climbs within Pazin."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "15:35",
+      "total_km": 10.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Kastell Pazin",
+            "hu": "Pazini vár",
+            "ro": "Castelul Pazin",
+            "en": "Pazin Castle"
+          },
+          "coords": [
+            13.934,
+            45.2395
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Großer Parkplatz in der Nähe.",
+            "hu": "Nagy parkoló a közelben.",
+            "ro": "Parcare mare în apropiere.",
+            "en": "Large parking lot nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Paziner Grube",
+            "hu": "Pazini-barlang",
+            "ro": "Groapa Pazin",
+            "en": "Pazin Abyss"
+          },
+          "coords": [
+            13.9335,
+            45.239
+          ],
+          "category": "natural features",
+          "arrive_at": "10:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Aussichtspunkte sind gut beschildert.",
+            "hu": "A kilátópontok jól ki vannak táblázva.",
+            "ro": "Punctele de belvedere sunt bine semnalizate.",
+            "en": "Viewpoints are well signposted."
+          }
+        },
+        {
+          "name": {
+            "de": "Staatsarchiv in Pazin",
+            "hu": "Pazini Állami Levéltár",
+            "ro": "Arhivele Statului din Pazin",
+            "en": "State Archives in Pazin"
+          },
+          "coords": [
+            13.936,
+            45.241
+          ],
+          "category": "museums",
+          "arrive_at": "12:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Architektonisches Highlight der Stadt.",
+            "hu": "A város építészeti fénypontja.",
+            "ro": "Punctul culminant arhitectural al orașului.",
+            "en": "Architectural highlight of the town."
+          }
+        },
+        {
+          "name": {
+            "de": "Franziskanerkloster",
+            "hu": "Ferences kolostor",
+            "ro": "Mănăstirea Franciscană",
+            "en": "Franciscan Monastery"
+          },
+          "coords": [
+            13.938,
+            45.243
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Parken direkt vor dem Kloster möglich.",
+            "hu": "Parkolás közvetlenül a kolostor előtt lehetséges.",
+            "ro": "Parcare posibilă chiar în fața mănăstirii.",
+            "en": "Parking possible directly in front of the monastery."
+          }
+        },
+        {
+          "name": {
+            "de": "Zarečki krov Wasserfall",
+            "hu": "Zarečki krov vízesés",
+            "ro": "Cascada Zarečki krov",
+            "en": "Zarečki krov Waterfall"
+          },
+          "coords": [
+            13.961,
+            45.251
+          ],
+          "category": "natural features",
+          "arrive_at": "13:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Zufahrt über eine schmale Straße.",
+            "hu": "Megközelítés keskeny úton.",
+            "ro": "Acces printr-un drum îngust.",
+            "en": "Access via a narrow road."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das Auto, um sowohl das historische Zentrum als auch die Naturwunder von Pazin zu erleben. Starten Sie beim Kastell und dem beeindruckenden Abgrund.\n\nMittags besuchen Sie das monumentale Staatsarchiv und das ruhige Franziskanerkloster, die beide gut mit dem Fahrzeug erreichbar sind.\n\nDer Höhepunkt des Nachmittags ist die Fahrt zum Zarečki krov Wasserfall, einem versteckten Paradies unweit der Stadt.\n\nDiese Route bietet maximalen Komfort und zeigt die Vielfalt der Region.",
+        "hu": "Használja az autót, hogy Pazin történelmi központját és természeti csodáit egyaránt megtapasztalja. Kezdjen a várnál és a lenyűgöző szakadéknál.\n\nDélben látogassa meg a monumentális Állami Levéltárat és a csendes ferences kolostort, amelyek mindketten jól megközelíthetők járművel.\n\nA délután fénypontja a Zarečki krov vízeséshez vezető út, amely egy rejtett paradicsom a város közelében.\n\nEz az útvonal maximális kényelmet nyújt, és bemutatja a régió sokszínűségét.",
+        "ro": "Utilizați mașina pentru a experimenta atât centrul istoric, cât și minunile naturale din Pazin. Începeți la castel și la impresionantul abis.\n\nLa prânz, vizitați Arhivele Statului monumentale și mănăstirea franciscană liniștită, ambele fiind ușor accesibile cu vehiculul.\n\nPunctul culminant al după-amiezii este drumul spre cascada Zarečki krov, un paradis ascuns nu departe de oraș.\n\nAcest traseu oferă confort maxim și arată diversitatea regiunii.",
+        "en": "Use your car to experience both the historic center and the natural wonders of Pazin. Start at the castle and the impressive abyss.\n\nAt midday, visit the monumental State Archives and the quiet Franciscan monastery, both easily reachable by vehicle.\n\nThe highlight of the afternoon is the drive to the Zarečki krov waterfall, a hidden paradise not far from the city.\n\nThis route offers maximum comfort and shows the region's diversity."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Konoba Vela Vrata",
+            "tip": "Bekannt für istrische Trüffelgerichte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Konoba Vela Vrata",
+            "tip": "Híres az isztriai szarvasgombás ételeiről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Konoba Vela Vrata",
+            "tip": "Cunoscută pentru preparatele cu trufe istriene."
+          }
+        ],
+        "en": [
+          {
+            "name": "Konoba Vela Vrata",
+            "tip": "Famous for its Istrian truffle dishes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Zarečki krov",
+            "tip": "Idyllischer Rückzugsort.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zarečki krov",
+            "tip": "Idilli búvóhely.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zarečki krov",
+            "tip": "Refugiu idilic.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Zarečki krov",
+            "tip": "Idyllic retreat in nature.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokalpatriot Shop",
+            "tip": "Regionale Spezialitäten und Kunsthandwerk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lokalpatriot Bolt",
+            "tip": "Regionális specialitások és kézműves termékek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin Lokalpatriot",
+            "tip": "Specialități regionale și meșteșuguri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lokalpatriot Shop",
+            "tip": "Regional specialties and local handicrafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "In Pazin ist das Parken am Vormittag oft schwierig.",
+          "Die Straße zum Wasserfall ist eng, fahren Sie vorsichtig.",
+          "Kombinieren Sie den Besuch mit einem Abstecher nach Beram (5 km)."
+        ],
+        "hu": [
+          "Pazinban a délelőtti parkolás gyakran nehézkes.",
+          "A vízeséshez vezető út keskeny, vezessen óvatosan.",
+          "Kombinálja a látogatást egy kitérővel Beramba (5 km)."
+        ],
+        "ro": [
+          "Parcarea în Pazin este adesea dificilă dimineața.",
+          "Drumul spre cascadă este îngust, conduceți cu atenție.",
+          "Combinați vizita cu o excursie la Beram (5 km)."
+        ],
+        "en": [
+          "Morning parking in Pazin can be difficult.",
+          "The road to the waterfall is narrow, drive carefully.",
+          "Combine your visit with a trip to nearby Beram (5 km)."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "15:25",
+      "total_km": 4.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Kastell Pazin",
+            "hu": "Pazini vár",
+            "ro": "Castelul Pazin",
+            "en": "Pazin Castle"
+          },
+          "coords": [
+            13.934,
+            45.2395
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Vom Bahnhof ca. 15 Min zu Fuß.",
+            "hu": "A vasútállomástól kb. 15 perc gyalog.",
+            "ro": "La aproximativ 15 minute de mers pe jos de la gară.",
+            "en": "About a 15-minute walk from the station."
+          }
+        },
+        {
+          "name": {
+            "de": "Paziner Grube",
+            "hu": "Pazini-barlang",
+            "ro": "Groapa Pazin",
+            "en": "Pazin Abyss"
+          },
+          "coords": [
+            13.9335,
+            45.239
+          ],
+          "category": "natural features",
+          "arrive_at": "10:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Direkt neben dem Kastell.",
+            "hu": "Közvetlenül a vár mellett.",
+            "ro": "Chiar lângă castel.",
+            "en": "Located right next to the castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Pfarrkirche des Heiligen Nikolaus",
+            "hu": "Szent Miklós-templom",
+            "ro": "Biserica Sf. Nicolae",
+            "en": "Church of St. Nicholas"
+          },
+          "coords": [
+            13.937,
+            45.2415
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:05",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Zentral in der Stadt gelegen.",
+            "hu": "Központban található.",
+            "ro": "Situată central în oraș.",
+            "en": "Centrally located in the town."
+          }
+        },
+        {
+          "name": {
+            "de": "Staatsarchiv in Pazin",
+            "hu": "Pazini Állami Levéltár",
+            "ro": "Arhivele Statului din Pazin",
+            "en": "State Archives in Pazin"
+          },
+          "coords": [
+            13.936,
+            45.241
+          ],
+          "category": "museums",
+          "arrive_at": "13:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Kurzer Weg von der Kirche.",
+            "hu": "Rövid séta a templomtól.",
+            "ro": "Scurtă plimbare de la biserică.",
+            "en": "Short walk from the church."
+          }
+        },
+        {
+          "name": {
+            "de": "Franziskanerkloster",
+            "hu": "Ferences kolostor",
+            "ro": "Mănăstirea Franciscană",
+            "en": "Franciscan Monastery"
+          },
+          "coords": [
+            13.938,
+            45.243
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Die Bushaltestelle ist nah.",
+            "hu": "A buszmegálló közel van.",
+            "ro": "Stația de autobuz este aproape.",
+            "en": "The bus stop is nearby."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Pazin ist ein wichtiger Verkehrsknotenpunkt in Istrien. Beginnen Sie Ihren Tag beim Kastell, das Sie bequem vom Bahnhof erreichen können.\n\nMittags erkunden Sie die Paziner Grube und die Nikolauskirche im Zentrum. Alles ist gut zu Fuß erreichbar.\n\nDer Nachmittag widmet sich dem Staatsarchiv und dem Franziskanerkloster, bevor Sie Ihre Reise mit dem Bus oder Zug fortsetzen.\n\nEine ideale Tour für Reisende, die die istrische Bahn oder Busse nutzen.",
+        "hu": "Pazin Isztria fontos közlekedési csomópontja. Kezdje a napot a várnál, amely kényelmesen elérhető a vasútállomástól.\n\nDélben fedezze fel a Pazini-barlangot és a Szent Miklós-templomot a központban. Minden jól megközelíthető gyalogosan.\n\nA délután az Állami Levéltáré és a ferences kolostoré, mielőtt folytatná útját busszal vagy vonattal.\n\nIdeális túra az isztriai vasutat vagy buszokat használó utazók számára.",
+        "ro": "Pazin este un nod de transport important în Istria. Începeți ziua la castel, care este ușor accesibil de la gară.\n\nLa prânz, explorați Groapa Pazin și biserica Sf. Nicolae din centru. Totul este ușor accesibil pe jos.\n\nDupă-amiaza este dedicată Arhivelor Statului și mănăstirii franciscane, înainte de a continua călătoria cu autobuzul sau trenul.\n\nUn tur ideal pentru călătorii care folosesc trenurile sau autobuzele istriene.",
+        "en": "Pazin is an important transport hub in Istria. Start your day at the castle, which is easily accessible from the train station.\n\nAt midday, explore the Pazin Abyss and St. Nicholas Church in the center. Everything is within walking distance.\n\nSpend the afternoon at the State Archives and the Franciscan monastery before continuing your journey by bus or train.\n\nAn ideal tour for travelers using Istrian rail or bus services."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pastel Pazin",
+            "tip": "Moderne Interpretation istrischer Klassiker."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pastel Pazin",
+            "tip": "Isztriai klasszikusok modern értelmezése."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pastel Pazin",
+            "tip": "Interpretare modernă a clasicelor istriene."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pastel Pazin",
+            "tip": "Modern interpretation of Istrian classics."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Klostergarten",
+            "tip": "Ein stiller Ort zum Verweilen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kolostorkert",
+            "tip": "Csendes hely az időzéshez.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina mănăstirii",
+            "tip": "Un loc liniștit pentru relaxare.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Monastery Garden",
+            "tip": "A quiet place to linger.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kiosk Pazin",
+            "tip": "Lokale Wanderkarten und Broschüren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pazini újságos",
+            "tip": "Helyi turistatérképek és brosúrák."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșc Pazin",
+            "tip": "Hărți turistice locale și broșuri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pazin Kiosk",
+            "tip": "Local hiking maps and brochures."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Der Bahnhof Pazin liegt etwas oberhalb der Stadt.",
+          "Überprüfen Sie die Zugverbindungen, sie sind nicht sehr häufig.",
+          "Nutzen Sie die App der kroatischen Bahn (HŽ) für Echtzeitinfos."
+        ],
+        "hu": [
+          "A pazini vasútállomás kicsivel a város felett található.",
+          "Ellenőrizze a vonatcsatlakozásokat, nem túl gyakoriak.",
+          "Használja a horvát vasút (HŽ) alkalmazását a valós idejű infókért."
+        ],
+        "ro": [
+          "Gara Pazin se află puțin deasupra orașului.",
+          "Verificați conexiunile de tren, nu sunt foarte frecvente.",
+          "Utilizați aplicația căilor ferate croate (HŽ) pentru info în timp real."
+        ],
+        "en": [
+          "Pazin train station is located slightly above the town.",
+          "Check train connections as they are not very frequent.",
+          "Use the Croatian Railways (HŽ) app for real-time information."
+        ]
+      }
+    }
+  }
+}

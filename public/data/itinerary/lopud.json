@@ -1,0 +1,830 @@
+{
+  "city_id": "lopud",
+  "anchor": {
+    "name": "Lopud",
+    "coords": [
+      17.9483,
+      42.6856
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "18:45",
+      "total_km": 4.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Franziskanerkloster",
+          "coords": [
+            17.9461,
+            42.6885
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Besuchen Sie den Renaissance-Garten.",
+            "hu": "Nézze meg a reneszánsz kertet.",
+            "ro": "Vizitați grădina renascentistă.",
+            "en": "Visit the Renaissance garden."
+          }
+        },
+        {
+          "name": "Rektorenpalast",
+          "coords": [
+            17.9475,
+            42.6862
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die gotische Architektur.",
+            "hu": "Csodálja meg a gótikus építészetet.",
+            "ro": "Admirați arhitectura gotică.",
+            "en": "Admire the Gothic architecture."
+          }
+        },
+        {
+          "name": "Đorđić-Mayneri Park",
+          "coords": [
+            17.949,
+            17.949
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:50",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Schatten unter exotischen Palmen.",
+            "hu": "Árnyék az egzotikus pálmák alatt.",
+            "ro": "Umbră sub palmieri exotici.",
+            "en": "Shade under exotic palms."
+          }
+        },
+        {
+          "name": "Festung Sutvrač",
+          "coords": [
+            17.945,
+            42.682
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Bester Panoramablick auf die Elaphiten.",
+            "hu": "A legjobb panoráma az Elafit-szigetekre.",
+            "ro": "Cea mai bună panoramă asupra Elafiti.",
+            "en": "Best panoramic view of the Elafiti."
+          }
+        },
+        {
+          "name": "Kirche Unserer Lieben Frau von Šunj",
+          "coords": [
+            17.954,
+            42.678
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein ruhiger Ort vor dem Strand.",
+            "hu": "Csendes hely a strand előtt.",
+            "ro": "Un loc liniștit înainte de plajă.",
+            "en": "A quiet spot before the beach."
+          }
+        },
+        {
+          "name": "Strand Šunj",
+          "coords": [
+            17.957,
+            42.676
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:05",
+          "stay_min": 130,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Feiner Sandstrand, ideal zum Baden.",
+            "hu": "Finom homokos strand, ideális úszáshoz.",
+            "ro": "Plajă cu nisip fin, ideală pentru înot.",
+            "en": "Fine sandy beach, ideal for swimming."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag am Hafen und spazieren Sie zum prächtigen Franziskanerkloster. Nach der Besichtigung des Rektorenpalastes genießen Sie die Kühle im Botanischen Garten. Ein Aufstieg zur Festung belohnt Sie mit Aussichten, bevor Sie den Nachmittag am berühmten Sandstrand Šunj verbringen.",
+        "hu": "Kezdje a napot a kikötőben, és sétáljon el a pompás ferences kolostorhoz. A Rektori palota megtekintése után élvezze a hűvöst a botanikus kertben. A várba való felkapaszkodás kilátással jutalmazza, mielőtt a délutánt a híres Šunj homokos strandon töltené.",
+        "ro": "Începeți ziua în port și mergeți la mănăstirea franciscană. După vizitarea Palatului Rectorului, bucurați-vă de răcoare în grădina botanică. O urcare la fortăreață vă răsplătește cu priveliști înainte de a petrece după-amiaza pe celebra plajă cu nisip Šunj.",
+        "en": "Start your day at the harbor and walk to the magnificent Franciscan monastery. After visiting the Rector's Palace, enjoy the cool in the botanical garden. A climb to the fortress rewards you with views before spending the afternoon at the famous Šunj sandy beach."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant Obala",
+            "tip": "Frischer Fisch direkt am Meer."
+          },
+          {
+            "name": "Lopud-Kuchen",
+            "tip": "Traditionelles Gebäck mit Mandeln."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Obala Étterem",
+            "tip": "Friss hal közvetlenül a tengerparton."
+          },
+          {
+            "name": "Lopudi sütemény",
+            "tip": "Hagyományos mandulás édesség."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant Obala",
+            "tip": "Pește proaspăt direct pe malul mării."
+          },
+          {
+            "name": "Prăjitură Lopud",
+            "tip": "Desert tradițional cu migdale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Obala Restaurant",
+            "tip": "Fresh fish right by the sea."
+          },
+          {
+            "name": "Lopud Cake",
+            "tip": "Traditional almond pastry."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Sutvrač Ausblick",
+            "tip": "Stille und Weite.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sutvrač kilátó",
+            "tip": "Csend és tágasság.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Belvederea Sutvrač",
+            "tip": "Liniște și spațiu.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sutvrač Viewpoint",
+            "tip": "Quietness and vastness.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Olivenöle",
+            "tip": "Kaufen Sie direkt bei den Erzeugern."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi olívaolajok",
+            "tip": "Vásároljon közvetlenül a termelőktől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ulei de măsline local",
+            "tip": "Cumpărați direct de la producători."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Olive Oils",
+            "tip": "Buy directly from producers."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für den Weg zum Šunj Strand.",
+          "Es gibt keine Autos auf der Insel, nur Golf-Carts."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt a Šunj strandhoz vezető úthoz.",
+          "A szigeten nincsenek autók, csak golfkocsik."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili pentru drumul spre plaja Šunj.",
+          "Nu există mașini pe insulă, doar mașinuțe de golf."
+        ],
+        "en": [
+          "Wear comfortable shoes for the walk to Šunj beach.",
+          "There are no cars on the island, only golf carts."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 6.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Hafen von Lopud",
+          "coords": [
+            17.9483,
+            42.6856
+          ],
+          "category": "port",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Mieten Sie ein Fahrrad in der Nähe.",
+            "hu": "Béreljen kerékpárt a közelben.",
+            "ro": "Închiriați o bicicletă în apropiere.",
+            "en": "Rent a bike nearby."
+          }
+        },
+        {
+          "name": "Grand Hotel",
+          "coords": [
+            17.95,
+            42.684
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Architektonisches Denkmal der Moderne.",
+            "hu": "A modern építészet emléke.",
+            "ro": "Monument de arhitectură modernă.",
+            "en": "Architectural monument of modernism."
+          }
+        },
+        {
+          "name": "Đorđić-Mayneri Park",
+          "coords": [
+            17.949,
+            42.685
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Fahren Sie vorsichtig in der Nähe des Parks.",
+            "hu": "Vezessen óvatosan a park közelében.",
+            "ro": "Conduceți cu atenție lângă parc.",
+            "en": "Ride carefully near the park."
+          }
+        },
+        {
+          "name": "Insel-Rundweg",
+          "coords": [
+            17.96,
+            42.68
+          ],
+          "category": "natural features",
+          "arrive_at": "11:45",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Genießen Sie die Pinienwälder.",
+            "hu": "Élvezze a fenyőerdőket.",
+            "ro": "Bucurați-vă de pădurile de pini.",
+            "en": "Enjoy the pine forests."
+          }
+        },
+        {
+          "name": "Strand Šunj",
+          "coords": [
+            17.957,
+            42.676
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:30",
+          "stay_min": 180,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Stellen Sie das Rad am Eingang ab.",
+            "hu": "Hagyja a biciklit a bejáratnál.",
+            "ro": "Lăsați bicicleta la intrare.",
+            "en": "Park your bike at the entrance."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Lopud auf zwei Rädern. Starten Sie im Zentrum und radeln Sie vorbei an historischen Villen und dem Grand Hotel. Der Weg führt Sie durch schattige Wälder bis zum Šunj-Strand, wo Sie den Rest des Tages entspannen können.",
+        "hu": "Fedezze fel Lopudot két keréken. Kezdje a központban, és kerekezzen el a történelmi villák és a Grand Hotel mellett. Az út árnyas erdőkön keresztül vezet a Šunj strandig, ahol a nap hátralévő részét pihenéssel töltheti.",
+        "ro": "Explorați Lopud pe două roți. Începeți în centru și pedalați pe lângă vile istorice și Grand Hotel. Drumul vă poartă prin păduri umbroase până la plaja Šunj, unde vă puteți relaxa restul zilei.",
+        "en": "Explore Lopud on two wheels. Start in the center and cycle past historic villas and the Grand Hotel. The path leads you through shaded forests to Šunj beach, where you can relax for the rest of the day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Beach Bar Šunj",
+            "tip": "Erfrischende Cocktails."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Šunj Beach Bár",
+            "tip": "Frissítő koktélok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Beach Bar Šunj",
+            "tip": "Cocktailuri răcoritoare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Šunj Beach Bar",
+            "tip": "Refreshing cocktails."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Nordküsten-Pfad",
+            "tip": "Einsame Buchten.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Északi part menti ösvény",
+            "tip": "Magányos öblök.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cărarea coastei de nord",
+            "tip": "Golfuri izolate.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "North coast path",
+            "tip": "Lonely bays.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lopud Souvenirs",
+            "tip": "Handgefertigter Schmuck."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lopud Ajándékbolt",
+            "tip": "Kézzel készített ékszerek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lopud Souvenirs",
+            "tip": "Bijuterii lucrate manual."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lopud Souvenirs",
+            "tip": "Handmade jewelry."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Einige Wege sind steil, nehmen Sie genug Wasser mit."
+        ],
+        "hu": [
+          "Néhány út meredek, vigyen magával elég vizet."
+        ],
+        "ro": [
+          "Unele drumuri sunt abrupte, luați suficientă apă."
+        ],
+        "en": [
+          "Some paths are steep, take enough water with you."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "16:00",
+      "total_km": 5.0,
+      "stop_count": 4,
+      "stops": [
+        {
+          "name": "Hafen / Buggy Station",
+          "coords": [
+            17.9483,
+            42.6856
+          ],
+          "category": "port",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Nutzen Sie den Elektro-Buggy-Service.",
+            "hu": "Vegye igénybe az elektromos kisautó szervizt.",
+            "ro": "Folosiți serviciul de buggy electric.",
+            "en": "Use the electric buggy service."
+          }
+        },
+        {
+          "name": "Franziskanerkloster",
+          "coords": [
+            17.9461,
+            42.6885
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Einfacher Zugang mit dem Buggy.",
+            "hu": "Könnyű megközelítés kisautóval.",
+            "ro": "Acces ușor cu buggy-ul.",
+            "en": "Easy access with the buggy."
+          }
+        },
+        {
+          "name": "Insel-Zentrum",
+          "coords": [
+            17.952,
+            42.682
+          ],
+          "category": "historical",
+          "arrive_at": "11:05",
+          "stay_min": 70,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Blick auf alte Sommerresidenzen.",
+            "hu": "Kilátás a régi nyári rezidenciákra.",
+            "ro": "Vedere la vechile reședințe de vară.",
+            "en": "View of old summer residences."
+          }
+        },
+        {
+          "name": "Strand Šunj",
+          "coords": [
+            17.957,
+            42.676
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:30",
+          "stay_min": 180,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Der Buggy bringt Sie direkt zum Strand.",
+            "hu": "A kisautó közvetlenül a strandra viszi.",
+            "ro": "Buggy-ul vă duce direct la plajă.",
+            "en": "The buggy takes you directly to the beach."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Da Lopud autofrei ist, ersetzt der Elektro-Buggy das Auto. Lassen Sie sich bequem zu den Sehenswürdigkeiten und quer über die Insel zum Šunj-Strand fahren. Perfekt für Familien oder bei großer Hitze.",
+        "hu": "Mivel Lopud autómentes, az elektromos kisautó helyettesíti az autót. Vitessen el magát kényelmesen a látnivalókhoz és a szigeten át a Šunj strandhoz. Tökéletes családoknak vagy nagy hőségben.",
+        "ro": "Deoarece Lopud este fără mașini, buggy-ul electric înlocuiește mașina. Lăsați-vă condus confortabil la obiectivele turistice și peste insulă până la plaja Šunj. Perfect pentru familii sau pe căldură mare.",
+        "en": "Since Lopud is car-free, the electric buggy replaces the car. Get driven comfortably to the sights and across the island to Šunj beach. Perfect for families or in great heat."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "La Villa",
+            "tip": "Gourmet-Küche am Hafen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "La Villa",
+            "tip": "Gourmet konyha a kikötőben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "La Villa",
+            "tip": "Bucătărie gourmet în port."
+          }
+        ],
+        "en": [
+          {
+            "name": "La Villa",
+            "tip": "Gourmet cuisine at the harbor."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Südkap",
+            "tip": "Meeresrauschen ohne Trubel.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Déli fok",
+            "tip": "Tengermorajlás tömeg nélkül.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Capul de sud",
+            "tip": "Sunetul mării fără aglomerație.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "South cape",
+            "tip": "Sound of the sea without the crowds.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokalmarkt",
+            "tip": "Getrocknete Feigen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Szárított füge."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Smochine uscate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local market",
+            "tip": "Dried figs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Verhandeln Sie den Preis für die Buggy-Fahrt vorab.",
+          "Die Fahrt zum Šunj Strand dauert etwa 10-15 Minuten."
+        ],
+        "hu": [
+          "Előre alkudja meg a kisautós fuvar árát.",
+          "Az út a Šunj strandhoz kb. 10-15 percig tart."
+        ],
+        "ro": [
+          "Negociați prețul pentru călătoria cu buggy în avans.",
+          "Călătoria spre plaja Šunj durează aproximativ 10-15 minute."
+        ],
+        "en": [
+          "Negotiate the price for the buggy ride in advance.",
+          "The ride to Šunj beach takes about 10-15 minutes."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 3.0,
+      "stop_count": 4,
+      "stops": [
+        {
+          "name": "Fähranleger Lopud",
+          "coords": [
+            17.9483,
+            42.6856
+          ],
+          "category": "port",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Prüfen Sie die Rückfahrzeiten der Fähre.",
+            "hu": "Ellenőrizze a komp visszaindulási idejét.",
+            "ro": "Verificați orele de întoarcere ale feribotului.",
+            "en": "Check the ferry return times."
+          }
+        },
+        {
+          "name": "Kirche des Hl. Nikolaus",
+          "coords": [
+            17.947,
+            42.687
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:55",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Kleine historische Kirche.",
+            "hu": "Kis történelmi templom.",
+            "ro": "Mică biserică istorică.",
+            "en": "Small historical church."
+          }
+        },
+        {
+          "name": "Đorđić-Mayneri Park",
+          "coords": [
+            17.949,
+            42.685
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein Muss für Pflanzenliebhaber.",
+            "hu": "Növénykedvelőknek kötelező.",
+            "ro": "Obligatoriu pentru iubitorii de plante.",
+            "en": "A must for plant lovers."
+          }
+        },
+        {
+          "name": "Strand Šunj",
+          "coords": [
+            17.957,
+            42.676
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:00",
+          "stay_min": 210,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie den Elektro-Shuttle vom Park.",
+            "hu": "Vegye igénybe az elektromos buszt a parktól.",
+            "ro": "Luați naveta electrică din parc.",
+            "en": "Take the electric shuttle from the park."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie die Ankunft mit der Fähre als Startpunkt. Besuchen Sie die nahegelegenen Kirchen und entspannen Sie im Park. Ein regelmäßiger Elektro-Shuttle verbindet den Hafenbereich mit dem Šunj-Strand auf der anderen Inselseite.",
+        "hu": "Használja a komppal való érkezést kiindulópontként. Látogassa meg a közeli templomokat és lazítson a parkban. Rendszeres elektromos ingajárat köti össze a kikötőt a sziget túloldalán lévő Šunj stranddal.",
+        "ro": "Folosiți sosirea cu feribotul ca punct de plecare. Vizitați bisericile din apropiere și relaxați-vă în parc. O navetă electrică regulată leagă zona portului de plaja Šunj de pe cealaltă parte a insulei.",
+        "en": "Use the arrival by ferry as a starting point. Visit the nearby churches and relax in the park. A regular electric shuttle connects the harbor area with Šunj beach on the other side of the island."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pizzeria Mandrac",
+            "tip": "Gute Pizza am Hafen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mandrac Pizzéria",
+            "tip": "Jó pizza a kikötőben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pizzeria Mandrac",
+            "tip": "Pizza bună în port."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mandrac Pizzeria",
+            "tip": "Good pizza at the harbor."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Park-Bänke",
+            "tip": "Vogelgezwitscher genießen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parki padok",
+            "tip": "Élvezze a madárcsicsergést.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bănci în parc",
+            "tip": "Bucurați-vă de ciripitul păsărilor.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Park benches",
+            "tip": "Enjoy the birdsong.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Postkarten-Shop",
+            "tip": "Schöne Motive der Insel."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Képeslapbolt",
+            "tip": "Szép motívumok a szigetről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de vederi",
+            "tip": "Motive frumoase cu insula."
+          }
+        ],
+        "en": [
+          {
+            "name": "Postcard shop",
+            "tip": "Beautiful island motifs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie Fährtickets vorab online.",
+          "Der Elektro-Shuttle ist kostenpflichtig."
+        ],
+        "hu": [
+          "Vásárolja meg a kompjegyeket előre online.",
+          "Az elektromos ingajárat fizetős."
+        ],
+        "ro": [
+          "Cumpărați biletele de feribot online în avans.",
+          "Naveta electrică este contra cost."
+        ],
+        "en": [
+          "Buy ferry tickets online in advance.",
+          "The electric shuttle is not free."
+        ]
+      }
+    }
+  }
+}

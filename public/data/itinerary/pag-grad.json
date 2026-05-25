@@ -1,0 +1,1249 @@
+{
+  "city_id": "pag-grad",
+  "anchor": {
+    "name": "Pag",
+    "coords": [
+      15.0567,
+      44.4439
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "18:45",
+      "total_km": 3.2,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Altstadt von Pag",
+            "hu": "Pag óvárosa",
+            "ro": "Orașul vechi Pag",
+            "en": "Pag Old Town"
+          },
+          "coords": [
+            15.0567,
+            44.4439
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Renaissance-Stadtplanung von Juraj Dalmatinac.",
+            "hu": "Csodálja meg Juraj Dalmatinac reneszánsz várostervezését.",
+            "ro": "Admirați planificarea urbană renascentistă a lui Juraj Dalmatinac.",
+            "en": "Admire the Renaissance urban planning by Juraj Dalmatinac."
+          }
+        },
+        {
+          "name": {
+            "de": "Rektorenpalast",
+            "hu": "Hercegi palota",
+            "ro": "Palatul Rectorului",
+            "en": "Rector's Palace"
+          },
+          "coords": [
+            15.056,
+            44.444
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:45",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Einst der Sitz der venezianischen Verwaltung auf der Insel.",
+            "hu": "Egykor a velencei közigazgatás székhelye volt a szigeten.",
+            "ro": "Fostul sediu al administrației venețiene pe insulă.",
+            "en": "Once the seat of the Venetian administration on the island."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Mariä Himmelfahrt",
+            "hu": "Szűz Mária Mennybevétele templom",
+            "ro": "Biserica Adormirea Maicii Domnului",
+            "en": "Church of the Assumption"
+          },
+          "coords": [
+            15.0562,
+            44.4442
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Achten Sie auf das beeindruckende Steinrelief an der Fassade.",
+            "hu": "Figyelje meg a homlokzaton lévő lenyűgöző kőreliefet.",
+            "ro": "Observați basorelieful din piatră impresionant de pe fațadă.",
+            "en": "Look for the impressive stone relief on the facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Spitzenmuseum Pag",
+            "hu": "Pagi csipkemúzeum",
+            "ro": "Muzeul Dantelei din Pag",
+            "en": "Pag Lace Museum"
+          },
+          "coords": [
+            15.0558,
+            44.4438
+          ],
+          "category": "museums",
+          "arrive_at": "12:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Die Pager Spitze gehört zum UNESCO-Weltkulturerbe.",
+            "hu": "A pagi csipke az UNESCO világörökség része.",
+            "ro": "Dantela de Pag face parte din patrimoniul mondial UNESCO.",
+            "en": "Pag lace is part of the UNESCO World Heritage."
+          }
+        },
+        {
+          "name": {
+            "de": "Katine-Brücke",
+            "hu": "Katine-híd",
+            "ro": "Podul Katine",
+            "en": "Katine Bridge"
+          },
+          "coords": [
+            15.0535,
+            44.4425
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "13:50",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Eine moderne Replik der alten venezianischen Brücke.",
+            "hu": "A régi velencei híd modern másolata.",
+            "ro": "O replică modernă a vechiului pod venețian.",
+            "en": "A modern replica of the old Venetian bridge."
+          }
+        },
+        {
+          "name": {
+            "de": "Salzmuseum",
+            "hu": "Sómuzeum",
+            "ro": "Muzeul Sării",
+            "en": "Salt Museum"
+          },
+          "coords": [
+            15.06,
+            44.435
+          ],
+          "category": "museums",
+          "arrive_at": "14:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über das „weiße Gold“ der Insel Pag.",
+            "hu": "Ismerje meg a sziget „fehér aranyának” történetét.",
+            "ro": "Aflați mai multe despre „aurul alb” al insulei Pag.",
+            "en": "Learn more about the 'white gold' of Pag island."
+          }
+        },
+        {
+          "name": {
+            "de": "Skrivanat-Turm",
+            "hu": "Skrivanat-torony",
+            "ro": "Turnul Skrivanat",
+            "en": "Skrivanat Tower"
+          },
+          "coords": [
+            15.0575,
+            44.445
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "16:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Der einzige erhaltene von einst neun Türmen der Stadt.",
+            "hu": "Az egyetlen épségben maradt torony a város kilenc tornyából.",
+            "ro": "Singurul turn rămas din cele nouă pe care le avea orașul.",
+            "en": "The only remaining tower of the city's original nine."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand Prosika",
+            "hu": "Prosika strand",
+            "ro": "Plaja Prosika",
+            "en": "Prosika Beach"
+          },
+          "coords": [
+            15.048,
+            44.446
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "17:40",
+          "stay_min": 180,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Perfekt für ein erfrischendes Bad zum Abschluss des Tages.",
+            "hu": "Tökéletes egy frissítő csobbanáshoz a nap végén.",
+            "ro": "Perfect pentru o baie revigorantă la sfârșitul zilei.",
+            "en": "Perfect for a refreshing dip at the end of the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt im Herzen der Renaissance-Stadt Pag. Erkunden Sie den zentralen Platz und den Rektorenpalast, während die Stadt erwacht. Zum Mittagessen tauchen Sie in die faszinierende Welt der Pager Spitze ein, einer Kunstform, die so fein ist, dass sie zum UNESCO-Erbe zählt. Am Nachmittag spazieren Sie zur Katine-Brücke und besuchen das Salzmuseum, um die Bedeutung der Salzgewinnung für die Insel zu verstehen. Den Abend lassen Sie am Skrivanat-Turm und am Strand Prosika ausklingen, wo Sie die goldene Stunde genießen können.",
+        "hu": "A napja Pag reneszánsz városának szívében kezdődik. Fedezze fel a főteret és a Hercegi palotát, miközben a város ébredezik. Délben merüljön el a pagi csipke lenyűgöző világában, amely olyan finom művészeti forma, hogy az UNESCO örökség része. Délután sétáljon el a Katine-hídhoz, és látogassa meg a Sómuzeumot, hogy megértse a sólepárlás jelentőségét a sziget számára. Az estét a Skrivanat-toronynál és a Prosika strandon zárja, ahol élvezheti az aranyórát.",
+        "ro": "Ziua începe în inima orașului renascentist Pag. Explorați piața centrală și Palatul Rectorului pe măsură ce orașul se trezește. La prânz, scufundați-vă în lumea fascinantă a dantelei de Pag, o formă de artă atât de fină încât face parte din patrimoniul UNESCO. După-amiaza, plimbați-vă până la Podul Katine și vizitați Muzeul Sării pentru a înțelege importanța producției de sare pentru insulă. Seara se încheie la Turnul Skrivanat și pe plaja Prosika, unde vă puteți bucura de ora de aur.",
+        "en": "Your day starts in the heart of the Renaissance city of Pag. Explore the main square and the Rector's Palace as the city wakes up. At midday, immerse yourself in the fascinating world of Pag lace, an art form so fine it's part of UNESCO heritage. In the afternoon, stroll to the Katine Bridge and visit the Salt Museum to understand the significance of salt production for the island. The evening ends at the Skrivanat Tower and Prosika Beach, where you can enjoy the golden hour."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Paški sir",
+            "tip": "Probieren Sie den berühmten Pager Schafskäse bei 'Konoba Bodulo'."
+          },
+          {
+            "name": "Paška janjetina",
+            "tip": "Pager Lammfleisch ist eine Delikatesse, oft am Spieß zubereitet."
+          },
+          {
+            "name": "Bashkotin",
+            "tip": "Ein traditioneller süßer Zwieback aus dem Benediktinerkloster."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Paški sir",
+            "tip": "Kóstolja meg a híres pagi juhsajtot a 'Konoba Bodulo' étteremben."
+          },
+          {
+            "name": "Paška janjetina",
+            "tip": "A pagi bárányhús csemege, gyakran nyárson sütve készítik."
+          },
+          {
+            "name": "Bashkotin",
+            "tip": "Hagyományos édes kétszersült a bencés kolostorból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Paški sir",
+            "tip": "Gustați faimoasa brânză de oaie din Pag la 'Konoba Bodulo'."
+          },
+          {
+            "name": "Paška janjetina",
+            "tip": "Mielul de Pag este o delicatesă, adesea preparat la proțap."
+          },
+          {
+            "name": "Bashkotin",
+            "tip": "Un pesmet dulce tradițional de la mănăstirea benedictină."
+          }
+        ],
+        "en": [
+          {
+            "name": "Paški sir",
+            "tip": "Try the famous Pag sheep cheese at 'Konoba Bodulo'."
+          },
+          {
+            "name": "Paška janjetina",
+            "tip": "Pag lamb is a delicacy, often prepared on a spit."
+          },
+          {
+            "name": "Bashkotin",
+            "tip": "A traditional sweet rusk from the Benedictine monastery."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Alte Salinen-Panorama",
+            "tip": "Blick über die historischen Salzpfannen.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Prosika Ufer",
+            "tip": "Ein ruhiger Spaziergang entlang der Küste.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Benediktinerkloster Garten",
+            "tip": "Stille und Einkehr im Zentrum.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Régi sólepárlók panorámája",
+            "tip": "Kilátás a történelmi sólepárló medencékre.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Prosika partpart",
+            "tip": "Csendes séta a tengerpart mentén.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bencés kolostorkert",
+            "tip": "Csend és nyugalom a központban.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Panorama vechilor saline",
+            "tip": "Vedere peste bazinele istorice de evaporare.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Țărmul Prosika",
+            "tip": "O plimbare liniștită de-a lungul coastei.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădina mănăstirii benedictine",
+            "tip": "Liniște și reculegere în centru.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Old Salt Pans Panorama",
+            "tip": "View over the historical salt evaporation pans.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Prosika Shore",
+            "tip": "A quiet walk along the coastline.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Benedictine Monastery Garden",
+            "tip": "Quiet and contemplation in the center.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Pager Spitze",
+            "tip": "Echte handgefertigte Spitze im Museumsshop oder direkt bei Spitzenklöpplerinnen."
+          },
+          {
+            "name": "Solana Pag Salz",
+            "tip": "Hochwertiges Meersalz und Fleur de Sel direkt von der Quelle."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pagi csipke",
+            "tip": "Eredeti kézzel készített csipke a múzeumi boltban vagy közvetlenül a készítőknél."
+          },
+          {
+            "name": "Solana Pag só",
+            "tip": "Kiváló minőségű tengeri só és sóvirág közvetlenül a forrásból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dantela de Pag",
+            "tip": "Dantelă autentică lucrată manual la magazinul muzeului sau direct de la dantelărese."
+          },
+          {
+            "name": "Sare Solana Pag",
+            "tip": "Sare de mare de înaltă calitate și floare de sare direct de la sursă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pag Lace",
+            "tip": "Authentic handmade lace at the museum shop or directly from lace makers."
+          },
+          {
+            "name": "Solana Pag Salt",
+            "tip": "High-quality sea salt and flower of salt directly from the source."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster in der Altstadt.",
+          "Besuchen Sie das Spitzenmuseum früh am Tag, um den Massen zu entgehen.",
+          "In Pag kann es sehr windig sein (Bura), halten Sie eine leichte Jacke bereit.",
+          "Probieren Sie Bashkotin-Kekse, die nur im Benediktinerkloster verkauft werden.",
+          "Die meisten Sehenswürdigkeiten sind in Gehweite zueinander."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt az óváros macskaköves utcáihoz.",
+          "Látogassa meg a csipkemúzeumot korán, hogy elkerülje a tömeget.",
+          "Pagon nagyon szeles lehet az idő (Bura), legyen kéznél egy könnyű dzseki.",
+          "Kóstolja meg a Bashkotin kekszet, amelyet csak a bencés kolostorban árulnak.",
+          "A legtöbb látnivaló sétatávolságra található egymástól."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili pentru străzile pietruite din orașul vechi.",
+          "Vizitați muzeul dantelei devreme pentru a evita aglomerația.",
+          "În Pag poate fi foarte vânt (Bura), aveți la îndemână o jachetă ușoară.",
+          "Încercați biscuiții Bashkotin, vânduți doar la mănăstirea benedictină.",
+          "Majoritatea obiectivelor turistice sunt la mică distanță de mers pe jos."
+        ],
+        "en": [
+          "Wear comfortable shoes for the cobblestone streets in the old town.",
+          "Visit the lace museum early in the day to avoid the crowds.",
+          "It can be very windy in Pag (Bura), keep a light jacket handy.",
+          "Try Bashkotin biscuits, sold only at the Benedictine monastery.",
+          "Most sights are within walking distance of each other."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 6.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Altstadt von Pag",
+            "hu": "Pag óvárosa",
+            "ro": "Orașul vechi Pag",
+            "en": "Pag Old Town"
+          },
+          "coords": [
+            15.0567,
+            44.4439
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Rad am Rand der Fußgängerzone.",
+            "hu": "Parkolja le a biciklit a sétálóövezet szélén.",
+            "ro": "Parcați bicicleta la marginea zonei pietonale.",
+            "en": "Park your bike at the edge of the pedestrian zone."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Mariä Himmelfahrt",
+            "hu": "Szűz Mária Mennybevétele templom",
+            "ro": "Biserica Adormirea Maicii Domnului",
+            "en": "Church of the Assumption"
+          },
+          "coords": [
+            15.0562,
+            44.4442
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:45",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Zentraler Anlaufpunkt am Hauptplatz.",
+            "hu": "Központi találkozóhely a főtéren.",
+            "ro": "Punct central de întâlnire în piața principală.",
+            "en": "Central meeting point on the main square."
+          }
+        },
+        {
+          "name": {
+            "de": "Spitzenmuseum Pag",
+            "hu": "Pagi csipkemúzeum",
+            "ro": "Muzeul Dantelei din Pag",
+            "en": "Pag Lace Museum"
+          },
+          "coords": [
+            15.0558,
+            44.4438
+          ],
+          "category": "museums",
+          "arrive_at": "10:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Kulturstopp im Herzen der Stadt.",
+            "hu": "Kulturális megálló a város szívében.",
+            "ro": "Oprire culturală în inima orașului.",
+            "en": "Cultural stop in the heart of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Salzmuseum",
+            "hu": "Sómuzeum",
+            "ro": "Muzeul Sării",
+            "en": "Salt Museum"
+          },
+          "coords": [
+            15.06,
+            44.435
+          ],
+          "category": "museums",
+          "arrive_at": "12:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Eine angenehme Fahrt entlang der Lagune.",
+            "hu": "Kellemes tekerés a lagúna mentén.",
+            "ro": "O plimbare plăcută de-a lungul lagunei.",
+            "en": "A pleasant ride along the lagoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Katine-Brücke",
+            "hu": "Katine-híd",
+            "ro": "Podul Katine",
+            "en": "Katine Bridge"
+          },
+          "coords": [
+            15.0535,
+            44.4425
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "14:30",
+          "stay_min": 20,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Fahren Sie über die Brücke für tolle Fotomotive.",
+            "hu": "Tekerjen át a hídon a remek fotókért.",
+            "ro": "Traversați podul pentru oportunități foto excelente.",
+            "en": "Ride across the bridge for great photo opportunities."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand Prosika",
+            "hu": "Prosika strand",
+            "ro": "Plaja Prosika",
+            "en": "Prosika Beach"
+          },
+          "coords": [
+            15.048,
+            44.446
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Fahrradständer sind in der Nähe des Strandes vorhanden.",
+            "hu": "Kerékpártárolók találhatók a strand közelében.",
+            "ro": "Rasteluri de biciclete sunt disponibile lângă plajă.",
+            "en": "Bike racks are available near the beach."
+          }
+        },
+        {
+          "name": {
+            "de": "Skrivanat-Turm",
+            "hu": "Skrivanat-torony",
+            "ro": "Turnul Skrivanat",
+            "en": "Skrivanat Tower"
+          },
+          "coords": [
+            15.0575,
+            44.445
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "17:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Schöner Abschluss mit Blick auf die Stadtmauer.",
+            "hu": "Szép zárás kilátással a városfalakra.",
+            "ro": "O încheiere frumoasă cu vedere la zidurile orașului.",
+            "en": "Nice finish with a view of the city walls."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Fahrrad erkunden Sie Pag und seine Umgebung effizient. Starten Sie in der Altstadt und besichtigen Sie die Kirche und das Spitzenmuseum. Danach radeln Sie entlang der Salzwiesen zum Salzmuseum. Nach einer Mittagspause führt der Weg über die Katine-Brücke zum Strand Prosika, wo Sie sich entspannen können. Den Tag krönen Sie mit einer Fahrt zum Skrivanat-Turm, dem Stolz der Pager Befestigung.",
+        "hu": "Kerékpárral hatékonyan fedezheti fel Pagot és környékét. Kezdjen az óvárosban, látogassa meg a templomot és a csipkemúzeumot. Ezután tekerjen a sólepárlók mentén a Sómuzeumba. Ebédszünet után az út a Katine-hídon keresztül a Prosika strandra vezet, ahol megpihenhet. A napot a Skrivanat-toronyhoz való tekeréssel koronázza meg, amely a pagi erődítmény büszkesége.",
+        "ro": "Cu bicicleta, explorați Pag și împrejurimile sale în mod eficient. Începeți în orașul vechi și vizitați biserica și muzeul dantelei. Apoi, pedalați de-a lungul salinelor până la Muzeul Sării. După o pauză de prânz, drumul duce peste Podul Katine spre plaja Prosika, unde vă puteți relaxa. Încununați ziua cu o plimbare până la Turnul Skrivanat, mândria fortificațiilor din Pag.",
+        "en": "By bike, you can efficiently explore Pag and its surroundings. Start in the old town and visit the church and the lace museum. Then ride along the salt flats to the Salt Museum. After a lunch break, the path leads across the Katine Bridge to Prosika Beach, where you can relax. Crown the day with a ride to the Skrivanat Tower, the pride of Pag's fortifications."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bistro Na Tale",
+            "tip": "Frischer Fisch und lokale Pasta nach einer Radtour."
+          },
+          {
+            "name": "Paški baškotin",
+            "tip": "Perfekter Snack für unterwegs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bistro Na Tale",
+            "tip": "Friss hal és helyi tészta a biciklizés után."
+          },
+          {
+            "name": "Paški baškotin",
+            "tip": "Tökéletes rágcsálnivaló útközben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bistro Na Tale",
+            "tip": "Pește proaspăt și paste locale după o tură cu bicicleta."
+          },
+          {
+            "name": "Paški baškotin",
+            "tip": "Gustarea perfectă pentru drum."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bistro Na Tale",
+            "tip": "Fresh fish and local pasta after a bike ride."
+          },
+          {
+            "name": "Paški baškotin",
+            "tip": "Perfect snack for the road."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Radweg zu den Salinen",
+            "tip": "Stille Natur pur.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Prosika Sonnenuntergang",
+            "tip": "Abendruhe am Wasser.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárút a sólepárlókhoz",
+            "tip": "Tiszta, csendes természet.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Prosika naplemente",
+            "tip": "Esti nyugalom a víznél.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista de biciclete spre saline",
+            "tip": "Natură pură și liniște.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Apus la Prosika",
+            "tip": "Liniște de seară la malul apei.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike path to the salt pans",
+            "tip": "Pure quiet nature.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Prosika Sunset",
+            "tip": "Evening calm by the water.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Käseladen",
+            "tip": "Kaufen Sie Paški sir direkt vom Erzeuger."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi sajtbolt",
+            "tip": "Vásároljon pagi sajtot közvetlenül a termelőtől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin local de brânzeturi",
+            "tip": "Cumpărați brânză de Pag direct de la producător."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Cheese Shop",
+            "tip": "Buy Pag cheese directly from the producer."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Strecke zum Salzmuseum ist flach und einfach zu befahren.",
+          "Achten Sie auf den Wind, der das Radfahren erschweren kann.",
+          "Nehmen Sie genügend Wasser mit, es gibt wenig Schatten.",
+          "Schließen Sie Ihr Rad immer ab, auch wenn Pag sicher ist."
+        ],
+        "hu": [
+          "A Sómuzeumhoz vezető út sík és könnyen tekerhető.",
+          "Figyeljen a szélre, amely megnehezítheti a biciklizést.",
+          "Vigyen magával elég vizet, kevés az árnyék.",
+          "Mindig zárja le a biciklijét, még ha Pag biztonságos is."
+        ],
+        "ro": [
+          "Traseul către Muzeul Sării este plat și ușor de parcurs.",
+          "Fiți atenți la vânt, care poate îngreuna pedalarea.",
+          "Luați destulă apă, există puțină umbră.",
+          "Încuiați-vă întotdeauna bicicleta, chiar dacă Pag este sigur."
+        ],
+        "en": [
+          "The route to the Salt Museum is flat and easy to ride.",
+          "Watch out for the wind, which can make cycling difficult.",
+          "Bring plenty of water, there is little shade.",
+          "Always lock your bike, even though Pag is safe."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 20,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 12.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Altstadt von Pag",
+            "hu": "Pag óvárosa",
+            "ro": "Orașul vechi Pag",
+            "en": "Pag Old Town"
+          },
+          "coords": [
+            15.0567,
+            44.4439
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Großer Parkplatz in der Nähe der Brücke nutzen.",
+            "hu": "Használja a híd közeli nagy parkolót.",
+            "ro": "Folosiți parcarea mare de lângă pod.",
+            "en": "Use the large parking lot near the bridge."
+          }
+        },
+        {
+          "name": {
+            "de": "Rektorenpalast",
+            "hu": "Hercegi palota",
+            "ro": "Palatul Rectorului",
+            "en": "Rector's Palace"
+          },
+          "coords": [
+            15.056,
+            44.444
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:45",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Zentral gelegen, zu Fuß vom Parkplatz erreichbar.",
+            "hu": "Központi elhelyezkedés, gyalog elérhető a parkolótól.",
+            "ro": "Situat central, accesibil pe jos din parcare.",
+            "en": "Centrally located, reachable on foot from the parking."
+          }
+        },
+        {
+          "name": {
+            "de": "Spitzenmuseum Pag",
+            "hu": "Pagi csipkemúzeum",
+            "ro": "Muzeul Dantelei din Pag",
+            "en": "Pag Lace Museum"
+          },
+          "coords": [
+            15.0558,
+            44.4438
+          ],
+          "category": "museums",
+          "arrive_at": "10:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein Muss für Kulturliebhaber.",
+            "hu": "Kultúrakedvelőknek kötelező.",
+            "ro": "O necesitate pentru iubitorii de cultură.",
+            "en": "A must for culture lovers."
+          }
+        },
+        {
+          "name": {
+            "de": "Salzmuseum",
+            "hu": "Sómuzeum",
+            "ro": "Muzeul Sării",
+            "en": "Salt Museum"
+          },
+          "coords": [
+            15.06,
+            44.435
+          ],
+          "category": "museums",
+          "arrive_at": "12:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Eigene Parkplätze direkt vor dem Museum.",
+            "hu": "Saját parkoló közvetlenül a múzeum előtt.",
+            "ro": "Parcare proprie chiar în fața muzeului.",
+            "en": "Private parking right in front of the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand Prosika",
+            "hu": "Prosika strand",
+            "ro": "Plaja Prosika",
+            "en": "Prosika Beach"
+          },
+          "coords": [
+            15.048,
+            44.446
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:40",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Parken in Strandnähe oft gebührenpflichtig.",
+            "hu": "A parkolás a strand közelében gyakran fizetős.",
+            "ro": "Parcarea lângă plajă este adesea cu plată.",
+            "en": "Parking near the beach is often paid."
+          }
+        },
+        {
+          "name": {
+            "de": "Skrivanat-Turm",
+            "hu": "Skrivanat-torony",
+            "ro": "Turnul Skrivanat",
+            "en": "Skrivanat Tower"
+          },
+          "coords": [
+            15.0575,
+            44.445
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "16:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Kurzer Stopp vor der Rückfahrt.",
+            "hu": "Rövid megálló a visszaindulás előtt.",
+            "ro": "Scurtă oprire înainte de întoarcere.",
+            "en": "Short stop before heading back."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto genießen Sie maximale Flexibilität in Pag. Parken Sie zentral und erkunden Sie die Altstadt, den Palast und das weltberühmte Spitzenmuseum. Danach fahren Sie bequem zum Salzmuseum am Stadtrand. Der Nachmittag gehört dem Strand Prosika, der leicht mit dem Wagen zu erreichen ist. Bevor Sie Pag verlassen, werfen Sie einen Blick auf den Skrivanat-Turm, ein Relikt der alten Stadtmauer.",
+        "hu": "Autóval maximális rugalmasságot élvezhet Pagon. Parkoljon központilag, és fedezze fel az óvárost, a palotát és a világhírű csipkemúzeumot. Ezután kényelmesen hajtson ki a város szélén található Sómuzeumba. A délután a Prosika strandé, amely autóval könnyen megközelíthető. Mielőtt elhagyná Pagot, vessen egy pillantást a Skrivanat-toronyra, a régi városfal maradványára.",
+        "ro": "Cu mașina, vă bucurați de flexibilitate maximă în Pag. Parcați central și explorați orașul vechi, palatul și faimosul muzeu al dantelei. Apoi, conduceți confortabil până la Muzeul Sării de la marginea orașului. După-amiaza aparține plajei Prosika, ușor accesibilă cu mașina. Înainte de a părăsi orașul, aruncați o privire la Turnul Skrivanat, o relicvă a vechiului zid al orașului.",
+        "en": "With a car, you enjoy maximum flexibility in Pag. Park centrally and explore the old town, the palace, and the world-famous lace museum. Then drive comfortably to the Salt Museum on the outskirts of town. The afternoon belongs to Prosika Beach, which is easily accessible by car. Before leaving Pag, take a look at the Skrivanat Tower, a relic of the old city wall."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Konoba Barcarola",
+            "tip": "Direkt am Meer mit Pager Spezialitäten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Konoba Barcarola",
+            "tip": "Közvetlenül a tengerparton pagi különlegességekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Konoba Barcarola",
+            "tip": "Chiar pe malul mării cu specialități din Pag."
+          }
+        ],
+        "en": [
+          {
+            "name": "Konoba Barcarola",
+            "tip": "Right by the sea with specialties from Pag."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtspunkt 'Gradac'",
+            "tip": "Panoramablick über die gesamte Bucht (kurze Fahrt).",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gradac kilátópont",
+            "tip": "Panoráma kilátás az egész öbölre (rövid autóút).",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punct de belvedere 'Gradac'",
+            "tip": "Vedere panoramică peste întregul golf (scurtă plimbare cu mașina).",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Gradac Viewpoint",
+            "tip": "Panoramic view over the entire bay (short drive).",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Gligora Cheese Shop",
+            "tip": "Erstklassiger Käse für die Heimreise."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gligora sajtbolt",
+            "tip": "Kiváló minőségű sajt a hazaútra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de brânzeturi Gligora",
+            "tip": "Brânză de primă clasă pentru drumul spre casă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gligora Cheese Shop",
+            "tip": "First-class cheese for the trip home."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken Sie in Pag auf markierten Plätzen, um Bußgelder zu vermeiden.",
+          "Die Küstenstraße bietet spektakuläre Ausblicke auf das Velebit-Gebirge.",
+          "Im Sommer sind die Parkplätze oft früh belegt."
+        ],
+        "hu": [
+          "Pagon csak a kijelölt helyeken parkoljon a bírságok elkerülése érdekében.",
+          "A parti út látványos kilátást nyújt a Velebit-hegységre.",
+          "Nyáron a parkolók gyakran korán megtelnek."
+        ],
+        "ro": [
+          "Parcați în locurile marcate în Pag pentru a evita amenzile.",
+          "Drumul de coastă oferă vederi spectaculoase spre munții Velebit.",
+          "Vara, locurile de parcare se ocupă adesea devreme."
+        ],
+        "en": [
+          "Park in marked spots in Pag to avoid fines.",
+          "The coastal road offers spectacular views of the Velebit mountains.",
+          "In summer, parking lots are often filled early."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:15",
+      "total_km": 4.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Altstadt von Pag",
+            "hu": "Pag óvárosa",
+            "ro": "Orașul vechi Pag",
+            "en": "Pag Old Town"
+          },
+          "coords": [
+            15.0567,
+            44.4439
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Die Bushaltestelle liegt am Eingang zur Altstadt.",
+            "hu": "A buszmegálló az óváros bejáratánál található.",
+            "ro": "Stația de autobuz este la intrarea în orașul vechi.",
+            "en": "The bus stop is at the entrance to the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Mariä Himmelfahrt",
+            "hu": "Szűz Mária Mennybevétele templom",
+            "ro": "Biserica Adormirea Maicii Domnului",
+            "en": "Church of the Assumption"
+          },
+          "coords": [
+            15.0562,
+            44.4442
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Zentraler Treffpunkt.",
+            "hu": "Központi találkozóhely.",
+            "ro": "Punct central de întâlnire.",
+            "en": "Central meeting point."
+          }
+        },
+        {
+          "name": {
+            "de": "Spitzenmuseum Pag",
+            "hu": "Pagi csipkemúzeum",
+            "ro": "Muzeul Dantelei din Pag",
+            "en": "Pag Lace Museum"
+          },
+          "coords": [
+            15.0558,
+            44.4438
+          ],
+          "category": "museums",
+          "arrive_at": "11:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in die lokale Geschichte.",
+            "hu": "Merüljön el a helyi történelemben.",
+            "ro": "Scufundați-vă în istoria locală.",
+            "en": "Immerse yourself in local history."
+          }
+        },
+        {
+          "name": {
+            "de": "Salzmuseum",
+            "hu": "Sómuzeum",
+            "ro": "Muzeul Sării",
+            "en": "Salt Museum"
+          },
+          "coords": [
+            15.06,
+            44.435
+          ],
+          "category": "museums",
+          "arrive_at": "13:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Etwas außerhalb, nutzen Sie den lokalen Bus falls verfügbar.",
+            "hu": "Kicsit kijjebb van, használja a helyi buszt, ha elérhető.",
+            "ro": "Puțin în afara orașului, folosiți autobuzul local dacă este disponibil.",
+            "en": "A bit outside, use the local bus if available."
+          }
+        },
+        {
+          "name": {
+            "de": "Katine-Brücke",
+            "hu": "Katine-híd",
+            "ro": "Podul Katine",
+            "en": "Katine Bridge"
+          },
+          "coords": [
+            15.0535,
+            44.4425
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "15:25",
+          "stay_min": 25,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Wahrzeichen der Stadt.",
+            "hu": "A város jelképe.",
+            "ro": "Simbolul orașului.",
+            "en": "Symbol of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand Prosika",
+            "hu": "Prosika strand",
+            "ro": "Plaja Prosika",
+            "en": "Prosika Beach"
+          },
+          "coords": [
+            15.048,
+            44.446
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:05",
+          "stay_min": 130,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entspannung pur vor der Heimfahrt.",
+            "hu": "Tiszta kikapcsolódás a hazaút előtt.",
+            "ro": "Relaxare pură înainte de plecare.",
+            "en": "Pure relaxation before heading home."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie den lokalen Bus und Ihre Füße, um Pag zu erkunden. Beginnen Sie in der Altstadt und besuchen Sie die Kirche sowie das Spitzenmuseum. Ein Spaziergang oder eine kurze Fahrt führt Sie zum Salzmuseum. Zurück im Zentrum überqueren Sie die Katine-Brücke und verbringen den späten Nachmittag am Strand Prosika, bevor Sie den Bus für Ihre Rückreise nehmen.",
+        "hu": "Használja a helyi buszt és a lábait Pag felfedezéséhez. Kezdjen az óvárosban, látogassa meg a templomot és a csipkemúzeumot. Egy séta vagy rövid utazás elviszi a Sómuzeumba. Visszatérve a központba, keljen át a Katine-hídon, és töltse a késő délutánt a Prosika strandon, mielőtt felszállna a hazafelé tartó buszra.",
+        "ro": "Folosiți autobuzul local și picioarele proprii pentru a explora Pag. Începeți în orașul vechi și vizitați biserica și muzeul dantelei. O plimbare sau o scurtă călătorie vă duce la Muzeul Sării. Întorși în centru, traversați Podul Katine și petreceți după-amiaza târzie pe plaja Prosika înainte de a lua autobuzul spre casă.",
+        "en": "Use the local bus and your feet to explore Pag. Start in the old town and visit the church and the lace museum. A walk or a short ride takes you to the Salt Museum. Back in the center, cross the Katine Bridge and spend the late afternoon at Prosika Beach before catching the bus for your return journey."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Buffet 'Tale'",
+            "tip": "Gute Preise und authentische Küche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Buffet 'Tale'",
+            "tip": "Jó árak és autentikus konyha."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Buffet 'Tale'",
+            "tip": "Prețuri bune și bucătărie autentică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Buffet 'Tale'",
+            "tip": "Good prices and authentic cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Prosika Park",
+            "tip": "Schattige Plätzchen unter Bäumen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Prosika park",
+            "tip": "Árnyékos helyek a fák alatt.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Prosika",
+            "tip": "Locuri umbroase sub copaci.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Prosika Park",
+            "tip": "Shady spots under the trees.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Supermarkt Lorenco",
+            "tip": "Lokale Produkte und Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lorenco szupermarket",
+            "tip": "Helyi termékek és szuvenírek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Supermarket Lorenco",
+            "tip": "Produse locale și suveniruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lorenco Supermarket",
+            "tip": "Local products and souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Busfahrplan genau, da die Frequenzen variieren.",
+          "Tickets können oft beim Fahrer gekauft werden.",
+          "Die Stadt Pag ist kompakt, das meiste ist zu Fuß machbar."
+        ],
+        "hu": [
+          "Ellenőrizze pontosan a buszmenetrendet, mivel a gyakoriság változó.",
+          "A jegyek gyakran a sofőrnél is megvásárolhatók.",
+          "Pag városa kompakt, a legtöbb dolog gyalog is elérhető."
+        ],
+        "ro": [
+          "Verificați cu atenție orarul autobuzelor, deoarece frecvența variază.",
+          "Biletele pot fi adesea cumpărate de la șofer.",
+          "Orașul Pag este compact, majoritatea obiectivelor sunt accesibile pe jos."
+        ],
+        "en": [
+          "Check the bus schedule carefully as frequencies vary.",
+          "Tickets can often be bought from the driver.",
+          "Pag city is compact, most things are doable on foot."
+        ]
+      }
+    }
+  }
+}

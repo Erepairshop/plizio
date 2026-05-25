@@ -1,0 +1,1077 @@
+{
+  "city_id": "lastovo-grad",
+  "anchor": {
+    "name": "Lastovo",
+    "coords": [
+      16.895,
+      42.77
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 2.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Pjevor Platz",
+            "hu": "Pjevor tér",
+            "ro": "Piața Pjevor",
+            "en": "Pjevor Square"
+          },
+          "coords": [
+            16.8955,
+            42.7698
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 35,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Der beste Ort für den ersten Morgenkaffee mit Blick auf die Dächer.",
+            "hu": "A legjobb hely a reggeli kávéhoz, kilátással a háztetőkre.",
+            "ro": "Cel mai bun loc pentru prima cafea de dimineață cu vedere la acoperișuri.",
+            "en": "The best spot for your first morning coffee with a view of the rooftops."
+          }
+        },
+        {
+          "name": {
+            "de": "Rektorenpalast",
+            "hu": "Rektori palota",
+            "ro": "Palatul Rectorului",
+            "en": "Rector's Palace"
+          },
+          "coords": [
+            16.895,
+            42.7688
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:55",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die gotisch-renaissance Architektur der alten Inselverwaltung.",
+            "hu": "Csodálja meg a sziget egykori közigazgatási központjának gótikus-reneszánsz stílusát.",
+            "ro": "Admirați arhitectura gotico-renascentistă a fostei administrații a insulei.",
+            "en": "Admire the Gothic-Renaissance architecture of the old island administration."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche der Heiligen Cosmas und Damian",
+            "hu": "Szent Kozma és Damján templom",
+            "ro": "Biserica Sfinții Cosma și Damian",
+            "en": "Church of Saints Cosmas and Damian"
+          },
+          "coords": [
+            16.8942,
+            42.7682
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Achten Sie auf das Altarbild von Giovanni Lanfranco im Inneren.",
+            "hu": "Keresse Giovanni Lanfranco oltárképét a belső térben.",
+            "ro": "Căutați pictura de altar realizată de Giovanni Lanfranco în interior.",
+            "en": "Look for the altar painting by Giovanni Lanfranco inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Fumari von Lastovo",
+            "hu": "Lastovói Fumari",
+            "ro": "Fumari din Lastovo",
+            "en": "Fumari of Lastovo"
+          },
+          "coords": [
+            16.8948,
+            42.7692
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "12:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Suchen Sie nach den einzigartigen Schornsteinen auf den Hausdächern.",
+            "hu": "Keresse az egyedi formájú kéményeket a házak tetején.",
+            "ro": "Căutați hornurile unice de pe acoperișurile caselor.",
+            "en": "Look for the unique chimneys on the rooftops of the houses."
+          }
+        },
+        {
+          "name": {
+            "de": "Die Treppen von Lastovo",
+            "hu": "Lastovói lépcsők",
+            "ro": "Scările din Lastovo",
+            "en": "The Steps of Lastovo"
+          },
+          "coords": [
+            16.8962,
+            42.7695
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "14:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 120,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein steiler Spaziergang, der die oberen und unteren Teile der Stadt verbindet.",
+            "hu": "Meredek séta, amely összeköti a város alsó és felső részeit.",
+            "ro": "O plimbare abruptă care leagă părțile de sus și de jos ale orașului.",
+            "en": "A steep walk connecting the upper and lower parts of the town."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche des Heiligen Joseph",
+            "hu": "Szent József templom",
+            "ro": "Biserica Sfântul Iosif",
+            "en": "Church of Saint Joseph"
+          },
+          "coords": [
+            16.8958,
+            42.7702
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Eine charmante kleine Kirche aus dem 17. Jahrhundert.",
+            "hu": "Bájos kis templom a 17. századból.",
+            "ro": "O biserică mică și fermecătoare din secolul al XVII-lea.",
+            "en": "A charming small church dating back to the 17th century."
+          }
+        },
+        {
+          "name": {
+            "de": "Festung Kašćel",
+            "hu": "Kašćel erőd",
+            "ro": "Cetatea Kašćel",
+            "en": "Kašćel Fortress"
+          },
+          "coords": [
+            16.8965,
+            42.771
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "16:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick über die gesamte Stadt bei Sonnenuntergang.",
+            "hu": "Élvezze a panorámát az egész városra naplementekor.",
+            "ro": "Bucurați-vă de panorama asupra întregului oraș la apus.",
+            "en": "Enjoy the panoramic view over the entire town at sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt auf dem Pjevor-Platz, dem lebendigen Herzstück, gefolgt von der Erkundung des majestätischen Rektorenpalastes. Mittags tauchen wir in die spirituelle Stille der Cosmas-und-Damian-Kirche ein, bevor wir die berühmten Fumari-Schornsteine bewundern. Am Nachmittag erklimmen wir die historischen Treppen und besuchen die Kirche des Heiligen Joseph. Der Tag endet mit einem spektakulären Blick von der Festung Kašćel über das in warmes Licht getauchte Lastovo.",
+        "hu": "A reggel a Pjevor téren, a város lüktető szívében indul, majd a fenséges Rektori palota felfedezésével folytatódik. Délben a Szent Kozma és Damján templom spirituális csendjébe merülünk, mielőtt megcsodálnánk a híres Fumari kéményeket. Délután megmásszuk a történelmi lépcsőket és meglátogatjuk a Szent József templomot. A nap a Kašćel erőd látványos kilátásával zárul, ahonnan az egész város aranyló fényben úszik.",
+        "ro": "Dimineața începe în Piața Pjevor, inima vibrantă a orașului, urmată de explorarea maiestuosului Palat al Rectorului. La prânz, ne cufundăm în liniștea spirituală a bisericii Sfinții Cosma și Damian, înainte de a admira faimoasele hornuri Fumari. După-amiaza, urcăm scările istorice și vizităm biserica Sfântul Iosif. Ziua se încheie cu o vedere spectaculoasă de la Cetatea Kašćel, de unde întregul oraș se vede scăldat în lumina caldă a apusului.",
+        "en": "The morning starts at Pjevor Square, the vibrant heart of the town, followed by an exploration of the majestic Rector's Palace. At midday, we immerse ourselves in the spiritual silence of the Church of Saints Cosmas and Damian before admiring the famous Fumari chimneys. In the afternoon, we climb the historical steps and visit the Church of Saint Joseph. The day concludes with a spectacular view from the Kašćel Fortress, watching Lastovo bathed in the warm light of sunset."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lastovo-Sardellen",
+            "tip": "Probieren Sie gesalzene Sardellen mit Kapern in der Konoba Bačvara."
+          },
+          {
+            "name": "Hummer-Pasta",
+            "tip": "Die Insel ist berühmt für frischen Hummer, serviert mit hausgemachten Nudeln."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lastovói szardella",
+            "tip": "Kóstolja meg a sós szardellát kapribogyóval a Konoba Bačvara étteremben."
+          },
+          {
+            "name": "Homáros tészta",
+            "tip": "A sziget híres a friss homárról, amelyet házi tésztával tálalnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sardine de Lastovo",
+            "tip": "Încercați sardinele sărate cu capere la Konoba Bačvara."
+          },
+          {
+            "name": "Paste cu homar",
+            "tip": "Insula este faimoasă pentru homarul proaspăt, servit cu paste de casă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lastovo Sardines",
+            "tip": "Try salted sardines with capers at Konoba Bačvara."
+          },
+          {
+            "name": "Lobster Pasta",
+            "tip": "The island is famous for fresh lobster, often served with homemade pasta."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kašćel-Aussichtspunkt",
+            "tip": "Ein ruhiger Ort, um den Sonnenuntergang über den Hügeln zu beobachten.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Sveti Ciprijan Garten",
+            "tip": "Ein friedlicher Ort im Schatten alter Mauern.",
+            "emoji": "🌿"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kašćel kilátópont",
+            "tip": "Csendes hely a naplemente megtekintéséhez a dombok felett.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Sveti Ciprijan kert",
+            "tip": "Békés hely a régi falak árnyékában.",
+            "emoji": "🌿"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punctul de belvedere Kašćel",
+            "tip": "Un loc liniștit pentru a privi apusul peste dealuri.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Grădina Sveti Ciprijan",
+            "tip": "Un loc pașnic la umbra zidurilor vechi.",
+            "emoji": "🌿"
+          }
+        ],
+        "en": [
+          {
+            "name": "Kašćel Lookout",
+            "tip": "A quiet spot to watch the sunset over the hills.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Sveti Ciprijan Garden",
+            "tip": "A peaceful spot in the shade of old walls.",
+            "emoji": "🌿"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Insel-Honig",
+            "tip": "Aromatischer Rosmarinhonig direkt von lokalen Imkern."
+          },
+          {
+            "name": "Klavier-Kekse",
+            "tip": "Traditionelles Gebäck der Insel, ideal als Mitbringsel."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szigeti méz",
+            "tip": "Aromás rozmaringméz közvetlenül a helyi méhészektől."
+          },
+          {
+            "name": "Klavier sütemény",
+            "tip": "A sziget hagyományos édessége, tökéletes ajándéknak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miere de insulă",
+            "tip": "Miere aromată de rozmarin direct de la apicultorii locali."
+          },
+          {
+            "name": "Biscuiți Klavier",
+            "tip": "Dulciuri tradiționale ale insulei, ideale pentru cadou."
+          }
+        ],
+        "en": [
+          {
+            "name": "Island Honey",
+            "tip": "Aromatic rosemary honey directly from local beekeepers."
+          },
+          {
+            "name": "Klavier Cookies",
+            "tip": "Traditional island sweets, perfect as a souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Lastovo viele steile Treppen hat.",
+          "Füllen Sie Ihre Wasserflasche an den öffentlichen Brunnen auf.",
+          "Besuchen Sie die Stadt am späten Nachmittag, wenn das Licht ideal für Fotos ist.",
+          "Achten Sie auf die verschiedenen Formen der Fumari-Schornsteine."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mert Lastovo sok meredek lépcsővel rendelkezik.",
+          "Töltse meg vizespalackját a nyilvános kutaknál.",
+          "Késő délután látogasson el a városba, amikor a fények tökéletesek a fotózáshoz.",
+          "Figyelje meg a Fumari kémények különböző formáit."
+        ],
+        "ro": [
+          "Purtați încălțăminte comodă, deoarece Lastovo are multe scări abrupte.",
+          "Umpleți sticla cu apă de la cișmelele publice.",
+          "Vizitați orașul după-amiaza târziu, când lumina este ideală pentru fotografii.",
+          "Observați formele variate ale hornurilor Fumari."
+        ],
+        "en": [
+          "Wear comfortable shoes as Lastovo has many steep stairs.",
+          "Refill your water bottle at the public fountains.",
+          "Visit the town in the late afternoon when the light is perfect for photos.",
+          "Pay attention to the different shapes of the Fumari chimneys."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:00",
+      "total_km": 12.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Pjevor Platz",
+            "hu": "Pjevor tér",
+            "ro": "Piața Pjevor",
+            "en": "Pjevor Square"
+          },
+          "coords": [
+            16.8955,
+            42.7698
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Startpunkt mit toller Aussicht auf die Felder.",
+            "hu": "Kiindulópont remek kilátással a mezőkre.",
+            "ro": "Punct de plecare cu o vedere superbă spre câmpuri.",
+            "en": "Starting point with a great view over the fields."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche der Heiligen Cosmas und Damian",
+            "hu": "Szent Kozma és Damján templom",
+            "ro": "Biserica Sfinții Cosma și Damian",
+            "en": "Church of Saints Cosmas and Damian"
+          },
+          "coords": [
+            16.8942,
+            42.7682
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad am unteren Kircheneingang.",
+            "hu": "Parkolja le kerékpárját az alsó templombejáratnál.",
+            "ro": "Parcați bicicleta la intrarea inferioară a bisericii.",
+            "en": "Park your bike at the lower church entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Lučica Bucht",
+            "hu": "Lučica-öböl",
+            "ro": "Golful Lučica",
+            "en": "Lučica Bay"
+          },
+          "coords": [
+            16.8995,
+            42.7725
+          ],
+          "category": "park/beach",
+          "arrive_at": "11:20",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Ein steiler Abstieg zu einem malerischen Fischerdorf.",
+            "hu": "Meredek leereszkedés egy festői halászfaluba.",
+            "ro": "O coborâre abruptă către un sat pitoresc de pescari.",
+            "en": "A steep descent to a picturesque fishing village."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche des Heiligen Blasius",
+            "hu": "Szent Balázs templom",
+            "ro": "Biserica Sfântul Vlasie",
+            "en": "Church of Saint Blaise"
+          },
+          "coords": [
+            16.892,
+            42.765
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 55,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Kleine Votivkirche auf dem Weg zurück in die Stadt.",
+            "hu": "Kis fogadalmi templom a városba vezető úton.",
+            "ro": "O mică biserică votivă pe drumul de întoarcere spre oraș.",
+            "en": "A small votive church on the way back to town."
+          }
+        },
+        {
+          "name": {
+            "de": "Festung Kašćel",
+            "hu": "Kašćel erőd",
+            "ro": "Cetatea Kašćel",
+            "en": "Kašćel Fortress"
+          },
+          "coords": [
+            16.8965,
+            42.771
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:25",
+          "stay_min": 65,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Der letzte Anstieg wird mit dem besten Inselpanorama belohnt.",
+            "hu": "Az utolsó emelkedőt a legjobb szigeti panoráma jutalmazza.",
+            "ro": "Ultima urcare este răsplătită cu cea mai frumoasă panoramă a insulei.",
+            "en": "The final climb is rewarded with the best island panorama."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Radtour verbindet die historische Stadt mit der wunderschönen Küste. Nach dem Start in Pjevor besuchen wir die Hauptkirche und radeln dann hinunter in die charmante Bucht von Lučica. Dort genießen wir eine lange Pause am Meer, bevor wir über hügelige Straßen an der Blasius-Kirche vorbei zurückkehren und den Tag an der Kašćel-Festung ausklingen lassen.",
+        "hu": "Ez a kerékpártúra összeköti a történelmi várost a gyönyörű tengerparttal. A Pjevorból indulva meglátogatjuk a főtemplomot, majd legurulunk a bájos Lučica-öbölbe. Itt hosszú pihenőt tartunk a tengernél, mielőtt a dombos utakon a Szent Balázs templom érintésével visszatérnénk, és a napot a Kašćel erődnél zárnánk.",
+        "ro": "Acest tur cu bicicleta îmbină orașul istoric cu coasta minunată. După plecarea din Pjevor, vizităm biserica principală și apoi pedalăm la vale spre fermecătorul golf Lučica. Acolo ne bucurăm de o pauză lungă la mare, înainte de a reveni pe drumuri deluroase trecând pe lângă biserica Sfântul Vlasie, încheind ziua la Cetatea Kašćel.",
+        "en": "This bike tour connects the historic town with the beautiful coastline. Starting in Pjevor, we visit the main church and then cycle down to the charming Lučica Bay. We enjoy a long break by the sea before returning via hilly roads past Saint Blaise Church, finishing the day at the Kašćel Fortress."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gegrillter Fisch",
+            "tip": "In Lučica gibt es fangfrischen Fisch direkt am Wasser."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Grillezett hal",
+            "tip": "Lučicában frissen fogott halat ehet közvetlenül a vízparton."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pește la grătar",
+            "tip": "În Lučica găsiți pește proaspăt prins, chiar pe malul apei."
+          }
+        ],
+        "en": [
+          {
+            "name": "Grilled Fish",
+            "tip": "In Lučica, you can find fresh catch directly by the water."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Lučica Steine",
+            "tip": "Hören Sie das sanfte Rauschen der Wellen in der Bucht.",
+            "emoji": "🌊"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lučica kövei",
+            "tip": "Hallgassa a hullámok lágy morajlását az öbölben.",
+            "emoji": "🌊"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pietrele din Lučica",
+            "tip": "Ascultați susurul blând al valurilor în golf.",
+            "emoji": "🌊"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lučica Stones",
+            "tip": "Listen to the gentle sound of waves in the bay.",
+            "emoji": "🌊"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Olivenöl",
+            "tip": "Kaufen Sie lokales Olivenöl in einer der kleinen Farmen am Straßenrand."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Olívaolaj",
+            "tip": "Vásároljon helyi olívaolajat az út menti kis gazdaságok egyikében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ulei de măsline",
+            "tip": "Cumpărați ulei de măsline local de la una dintre fermele mici de pe marginea drumului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Olive Oil",
+            "tip": "Buy local olive oil from one of the small farms along the road."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Straßen sind schmal und kurvig, fahren Sie vorsichtig.",
+          "Ein E-Bike ist für die steilen Hügel von Lastovo sehr zu empfehlen.",
+          "Nehmen Sie ausreichend Wasser mit, da es außerhalb der Stadt kaum Schatten gibt."
+        ],
+        "hu": [
+          "Az utak keskenyek és kanyargósak, vezessen óvatosan.",
+          "Az e-bike nagyon ajánlott Lastovo meredek dombjai miatt.",
+          "Vigyen elegendő vizet, mert a városon kívül kevés az árnyék."
+        ],
+        "ro": [
+          "Drumurile sunt înguste și sinuoase, conduceți cu atenție.",
+          "O bicicletă electrică este foarte recomandată pentru dealurile abrupte din Lastovo.",
+          "Luați suficientă apă, deoarece există puțină umbră în afara orașului."
+        ],
+        "en": [
+          "The roads are narrow and curvy, drive carefully.",
+          "An e-bike is highly recommended for the steep hills of Lastovo.",
+          "Take plenty of water as there is little shade outside the town."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 25.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Hum Aussichtspunkt",
+            "hu": "Hum kilátó",
+            "ro": "Punctul de belvedere Hum",
+            "en": "Hum Lookout"
+          },
+          "coords": [
+            16.878,
+            42.758
+          ],
+          "category": "park/beach",
+          "arrive_at": "09:20",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Der höchste Punkt der Insel mit Blick bis nach Italien bei klarem Wetter.",
+            "hu": "A sziget legmagasabb pontja, tiszta időben Olaszországig is ellátni.",
+            "ro": "Cel mai înalt punct al insulei, cu vedere până în Italia pe timp senin.",
+            "en": "The highest point of the island, offering views as far as Italy on clear days."
+          }
+        },
+        {
+          "name": {
+            "de": "Pjevor Platz",
+            "hu": "Pjevor tér",
+            "ro": "Piața Pjevor",
+            "en": "Pjevor Square"
+          },
+          "coords": [
+            16.8955,
+            42.7698
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Großer Parkplatz in der Nähe des Stadtzentrums.",
+            "hu": "Nagy parkoló a városközpont közelében.",
+            "ro": "Parcare mare în apropierea centrului orașului.",
+            "en": "Large parking area near the town center."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche der Heiligen Cosmas und Damian",
+            "hu": "Szent Kozma és Damján templom",
+            "ro": "Biserica Sfinții Cosma și Damian",
+            "en": "Church of Saints Cosmas and Damian"
+          },
+          "coords": [
+            16.8942,
+            42.7682
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie das angeschlossene kleine Museum.",
+            "hu": "Látogassa meg a templomhoz tartozó kis múzeumot.",
+            "ro": "Vizitați micul muzeu adiacent.",
+            "en": "Visit the small museum attached to the church."
+          }
+        },
+        {
+          "name": {
+            "de": "Skrivena Luka (Struga Leuchtturm)",
+            "hu": "Skrivena Luka (Struga világítótorony)",
+            "ro": "Skrivena Luka (Farul Struga)",
+            "en": "Skrivena Luka (Struga Lighthouse)"
+          },
+          "coords": [
+            16.8885,
+            42.731
+          ],
+          "category": "historical",
+          "arrive_at": "12:50",
+          "stay_min": 150,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 10.0,
+          "tip_5lang": {
+            "de": "Atemberaubende Klippen am südlichsten Punkt der Insel.",
+            "hu": "Lélegzetelállító sziklák a sziget legdélebbi pontján.",
+            "ro": "Stânci uluitoare la cel mai sudic punct al insulei.",
+            "en": "Breathtaking cliffs at the southernmost point of the island."
+          }
+        },
+        {
+          "name": {
+            "de": "Fumari von Lastovo",
+            "hu": "Lastovói Fumari",
+            "ro": "Fumari din Lastovo",
+            "en": "Fumari of Lastovo"
+          },
+          "coords": [
+            16.8948,
+            42.7692
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "15:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 9.0,
+          "tip_5lang": {
+            "de": "Ein kurzer Stopp für Fotos der einzigartigen Architektur.",
+            "hu": "Rövid megálló a különleges kémények fotózásához.",
+            "ro": "O oprire scurtă pentru fotografii ale arhitecturii unice.",
+            "en": "A short stop for photos of the unique architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Festung Kašćel",
+            "hu": "Kašćel erőd",
+            "ro": "Cetatea Kašćel",
+            "en": "Kašćel Fortress"
+          },
+          "coords": [
+            16.8965,
+            42.771
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "16:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Beobachten Sie, wie die Sonne hinter dem Horizont verschwindet.",
+            "hu": "Nézze meg, ahogy a nap eltűnik a látóhatár mögött.",
+            "ro": "Priviți cum soarele dispare dincolo de orizont.",
+            "en": "Watch as the sun disappears behind the horizon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto entdecken wir die ganze Vielfalt Lastovos. Der Tag beginnt auf dem höchsten Gipfel, Hum, mit endlosen Ausblicken. Danach erkunden wir den Kern der Altstadt und ihre Kirchen. Den Mittag verbringen wir an den dramatischen Klippen des Struga-Leuchtturms in Skrivena Luka, bevor wir für die berühmten Schornsteine zurückkehren und den Tag auf der Festung Kašćel krönen.",
+        "hu": "Autóval felfedezzük Lastovo egész sokszínűségét. A nap a legmagasabb csúcson, a Humon kezdődik, végtelen kilátással. Ezután felfedezzük az óváros magját és templomait. A delet a Skrivena Luka-i Struga világítótorony drámai szikláinál töltjük, majd visszatérünk a híres kéményekhez, és a napot a Kašćel erődnél koronázzuk meg.",
+        "ro": "Cu mașina descoperim întreaga diversitate a insulei Lastovo. Ziua începe pe cel mai înalt vârf, Hum, cu vederi nesfârșite. Apoi explorăm nucleul orașului vechi și bisericile sale. Prânzul îl petrecem la stâncile dramatice ale farului Struga din Skrivena Luka, înainte de a reveni pentru faimoasele hornuri și de a încorona ziua la Cetatea Kašćel.",
+        "en": "By car, we discover the full diversity of Lastovo. The day starts at the highest peak, Hum, with endless views. Then we explore the core of the old town and its churches. We spend midday at the dramatic cliffs of the Struga lighthouse in Skrivena Luka before returning for the famous chimneys and crowning the day at the Kašćel Fortress."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lamm unter der Peka",
+            "tip": "In den Dörfern im Inselinneren finden Sie bestes Fleisch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bárány sült (Peka)",
+            "tip": "A sziget belső falvaiban találja a legjobb sült húsokat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miel sub capac (Peka)",
+            "tip": "În satele din interiorul insulei găsiți cea mai bună carne."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lamb under Peka",
+            "tip": "In the inland villages, you'll find the best meat prepared traditionally."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Struga Klippen",
+            "tip": "Tiefer Abgrund und die Kraft des Meeres.",
+            "emoji": "🌊"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Struga-sziklák",
+            "tip": "Mély szakadék és a tenger ereje.",
+            "emoji": "🌊"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stâncile Struga",
+            "tip": "Abisul adânc și puterea mării.",
+            "emoji": "🌊"
+          }
+        ],
+        "en": [
+          {
+            "name": "Struga Cliffs",
+            "tip": "Deep abyss and the power of the sea.",
+            "emoji": "🌊"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Travarica",
+            "tip": "Kräuterschnaps mit lokalen Kräutern der Insel."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Travarica",
+            "tip": "Gyógynövényes pálinka a sziget helyi füveivel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Travarica",
+            "tip": "Rachiu din plante cu ierburi locale de pe insulă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Travarica",
+            "tip": "Herbal brandy made with local herbs from the island."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Straßen sind oft sehr schmal, hupen Sie vor unübersichtlichen Kurven.",
+          "Es gibt nur eine Tankstelle auf der Insel, im Hafen von Ubli.",
+          "Parken Sie in Lastovo-Stadt nur auf markierten Flächen."
+        ],
+        "hu": [
+          "Az utak gyakran nagyon keskenyek, dudáljon a beláthatatlan kanyarok előtt.",
+          "Csak egy benzinkút van a szigeten, Ubli kikötőjében.",
+          "Lastovo városában csak a kijelölt helyeken parkoljon."
+        ],
+        "ro": [
+          "Drumurile sunt adesea foarte înguste, claxonați înainte de curbele fără vizibilitate.",
+          "Există o singură benzinărie pe insulă, în portul Ubli.",
+          "Parcați în orașul Lastovo doar în locurile marcate."
+        ],
+        "en": [
+          "The roads are often very narrow, honk before blind curves.",
+          "There is only one gas station on the island, in the port of Ubli.",
+          "Park in Lastovo town only in designated areas."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 15.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Ubli Hafen",
+            "hu": "Ubli kikötő",
+            "ro": "Portul Ubli",
+            "en": "Ubli Port"
+          },
+          "coords": [
+            16.828,
+            42.7445
+          ],
+          "category": "port",
+          "arrive_at": "09:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ankunftspunkt der Fähren und Knotenpunkt für Busse.",
+            "hu": "Kompok érkezési pontja és a buszok központja.",
+            "ro": "Punctul de sosire a feriboturilor și nodul pentru autobuze.",
+            "en": "Arrival point for ferries and the main hub for buses."
+          }
+        },
+        {
+          "name": {
+            "de": "Pjevor Platz",
+            "hu": "Pjevor tér",
+            "ro": "Piața Pjevor",
+            "en": "Pjevor Square"
+          },
+          "coords": [
+            16.8955,
+            42.7698
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 8.5,
+          "tip_5lang": {
+            "de": "Die zentrale Bushaltestelle liegt direkt am Eingang zur Altstadt.",
+            "hu": "A központi buszmegálló közvetlenül az óváros bejáratánál van.",
+            "ro": "Stația centrală de autobuz este chiar la intrarea în orașul vechi.",
+            "en": "The central bus stop is located right at the entrance to the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Rektorenpalast",
+            "hu": "Rektori palota",
+            "ro": "Palatul Rectorului",
+            "en": "Rector's Palace"
+          },
+          "coords": [
+            16.895,
+            42.7688
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein kurzer Fußweg vom Busstopp.",
+            "hu": "Rövid séta a buszmegállótól.",
+            "ro": "O scurtă plimbare de la stația de autobuz.",
+            "en": "A short walk from the bus stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Fumari von Lastovo",
+            "hu": "Lastovói Fumari",
+            "ro": "Fumari din Lastovo",
+            "en": "Fumari of Lastovo"
+          },
+          "coords": [
+            16.8948,
+            42.7692
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "12:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "In der Nähe gibt es kleine Cafés zum Verweilen.",
+            "hu": "A közelben kis kávézók várják a pihenni vágyókat.",
+            "ro": "În apropiere există cafenele mici unde vă puteți relaxa.",
+            "en": "There are small cafes nearby to relax."
+          }
+        },
+        {
+          "name": {
+            "de": "Festung Kašćel",
+            "hu": "Kašćel erőd",
+            "ro": "Cetatea Kašćel",
+            "en": "Kašćel Fortress"
+          },
+          "coords": [
+            16.8965,
+            42.771
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 115,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie den Schatten der Mauern vor der Rückfahrt.",
+            "hu": "Élvezze a falak árnyékát a visszautazás előtt.",
+            "ro": "Bucurați-vă de umbra zidurilor înainte de plecare.",
+            "en": "Enjoy the shade of the walls before the return journey."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie den lokalen Bus, um stressfrei von Ubli nach Lastovo zu gelangen. Wir starten am Hafen, fahren durch das grüne Hinterland zum Pjevor-Platz und erkunden dann zu Fuß die historischen Paläste und Kirchen. Nach dem Mittagessen bewundern wir die Fumari-Schornsteine und genießen den Ausblick von der Kašćel-Festung, bevor uns der Bus zurück zum Hafen bringt.",
+        "hu": "Használja a helyi buszt, hogy stresszmentesen jusson el Ubliból Lastovóba. A kikötőből indulunk, a zöld belső tájakon át a Pjevor térre érkezünk, majd gyalog fedezzük fel a történelmi palotákat és templomokat. Ebéd után megcsodáljuk a Fumari kéményeket és a kilátást a Kašćel erődről, mielőtt a busz visszavinne a kikötőbe.",
+        "ro": "Folosiți autobuzul local pentru a ajunge fără stres de la Ubli la Lastovo. Plecăm din port, trecem prin interiorul verde până în Piața Pjevor și apoi explorăm pe jos palatele istorice și bisericile. După prânz, admirăm hornurile Fumari și ne bucurăm de vederea de la Cetatea Kašćel, înainte ca autobuzul să ne ducă înapoi în port.",
+        "en": "Use the local bus for a stress-free trip from Ubli to Lastovo. Starting at the port, we travel through the green interior to Pjevor Square, then explore the historic palaces and churches on foot. After lunch, we admire the Fumari chimneys and the views from the Kašćel Fortress before taking the bus back to the port."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Maraština Wein",
+            "tip": "Trinken Sie ein Glas lokalen Weißweins in einer Bar am Pjevor."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Maraština bor",
+            "tip": "Igyon egy pohár helyi fehérbort a Pjevor egyik bárjában."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vin Maraština",
+            "tip": "Beți un pahar de vin alb local la un bar din Pjevor."
+          }
+        ],
+        "en": [
+          {
+            "name": "Maraština Wine",
+            "tip": "Sip a glass of local white wine at a bar in Pjevor Square."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Friedhofskirche",
+            "tip": "Ein sehr ruhiger Ort mit Blick auf das Tal.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Temetőkápolna",
+            "tip": "Nagyon csendes hely kilátással a völgyre.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Capela din cimitir",
+            "tip": "Un loc foarte liniștit cu vedere spre vale.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cemetery Chapel",
+            "tip": "A very quiet spot with a view of the valley.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Getrocknete Feigen",
+            "tip": "In Ubli finden Sie oft Bauern, die ihre Produkte am Hafen verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Aszalt füge",
+            "tip": "Ubliban gyakran találni gazdákat, akik a kikötőben árulják termékeiket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Smochine uscate",
+            "tip": "În Ubli găsiți adesea fermieri care își vând produsele în port."
+          }
+        ],
+        "en": [
+          {
+            "name": "Dried Figs",
+            "tip": "In Ubli, you'll often find farmers selling their products at the port."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Busfahrplan genau, er ist auf die Fährzeiten abgestimmt.",
+          "Tickets können direkt beim Fahrer gekauft werden.",
+          "Die Fahrt von Ubli nach Lastovo dauert etwa 20 Minuten."
+        ],
+        "hu": [
+          "Ellenőrizze pontosan a buszmenetrendet, amely a kompokhoz igazodik.",
+          "A jegyek közvetlenül a sofőrnél válthatók meg.",
+          "Az út Ubliból Lastovóba körülbelül 20 percet vesz igénybe."
+        ],
+        "ro": [
+          "Verificați cu atenție orarul autobuzelor, acesta este sincronizat cu feriboturile.",
+          "Biletele pot fi cumpărate direct de la șofer.",
+          "Călătoria de la Ubli la Lastovo durează aproximativ 20 de minute."
+        ],
+        "en": [
+          "Check the bus schedule carefully, as it's coordinated with ferry arrival times.",
+          "Tickets can be purchased directly from the driver.",
+          "The ride from Ubli to Lastovo takes about 20 minutes."
+        ]
+      }
+    }
+  }
+}

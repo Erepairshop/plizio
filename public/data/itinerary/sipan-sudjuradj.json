@@ -1,0 +1,816 @@
+{
+  "city_id": "sipan-sudjuradj",
+  "anchor": {
+    "name": "Suđurađ",
+    "coords": [
+      17.858,
+      42.725
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 3.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Hafen von Suđurađ",
+          "coords": [
+            17.8585,
+            42.7245
+          ],
+          "category": "port",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Beobachten Sie das bunte Hafentreiben.",
+            "hu": "Figyelje a kikötő színes forgatagát.",
+            "ro": "Observați agitația colorată din port.",
+            "en": "Watch the colorful harbor hustle."
+          }
+        },
+        {
+          "name": "Sommerresidenz Skočibuha",
+          "coords": [
+            17.857,
+            42.726
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:55",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Besichtigung der Renaissance-Anlage.",
+            "hu": "A reneszánsz épületegyüttes megtekintése.",
+            "ro": "Vizitarea complexului renascentist.",
+            "en": "Tour of the Renaissance complex."
+          }
+        },
+        {
+          "name": "Pakljena-Turm",
+          "coords": [
+            17.856,
+            42.727
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:40",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Historischer Wehrturm.",
+            "hu": "Történelmi bástya.",
+            "ro": "Turn de apărare istoric.",
+            "en": "Historical defense tower."
+          }
+        },
+        {
+          "name": "Olivenhaine von Šipan",
+          "coords": [
+            17.85,
+            42.73
+          ],
+          "category": "natural features",
+          "arrive_at": "12:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Spaziergang durch uralte Haine.",
+            "hu": "Séta az ősi ligetekben.",
+            "ro": "Plimbare prin livezi străvechi.",
+            "en": "Walk through ancient groves."
+          }
+        },
+        {
+          "name": "Aussichtspunkt Sutulija",
+          "coords": [
+            17.845,
+            42.735
+          ],
+          "category": "natural features",
+          "arrive_at": "15:05",
+          "stay_min": 130,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Höchster Punkt der Insel.",
+            "hu": "A sziget legmagasabb pontja.",
+            "ro": "Cel mai înalt punct al insulei.",
+            "en": "Highest point of the island."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie die größte der Elaphiten-Inseln zu Fuß. Starten Sie am malerischen Hafen und besichtigen Sie die prächtige Residenz Skočibuha. Ein Spaziergang führt Sie durch die berühmten Olivenhaine hinauf zum Aussichtspunkt Sutulija für einen weiten Blick.",
+        "hu": "Fedezze fel az Elafit-szigetek legnagyobbikát gyalogosan. Kezdje a festői kikötőben, és látogassa meg a pompás Skočibuha rezidenciát. Egy séta a híres olajfaligeteken keresztül vezet fel a Sutulija kilátóhoz a tágas kilátásért.",
+        "ro": "Descoperiți cea mai mare dintre insulele Elafiti pe jos. Începeți în portul pitoresc și vizitați reședința Skočibuha. O plimbare vă poartă prin faimoasele livezi de măslini până la punctul de belvedere Sutulija pentru o vedere panoramică.",
+        "en": "Discover the largest of the Elafiti islands on foot. Start at the picturesque harbor and visit the magnificent Skočibuha residence. A walk leads you through the famous olive groves up to the Sutulija viewpoint for a wide view."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Konoba Šipan",
+            "tip": "Traditionelle Peka-Gerichte."
+          },
+          {
+            "name": "Olivenöl-Verkostung",
+            "tip": "Direkt beim Produzenten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Konoba Šipan",
+            "tip": "Hagyományos peka ételek."
+          },
+          {
+            "name": "Olívaolaj kóstolás",
+            "tip": "Közvetlenül a termelőnél."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Konoba Šipan",
+            "tip": "Preparate tradiționale peka."
+          },
+          {
+            "name": "Degustare de ulei de măsline",
+            "tip": "Direct la producător."
+          }
+        ],
+        "en": [
+          {
+            "name": "Konoba Šipan",
+            "tip": "Traditional Peka dishes."
+          },
+          {
+            "name": "Olive oil tasting",
+            "tip": "Directly at the producer."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "St. Stephan Kirche",
+            "tip": "Stiller Rückzugsort.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szent István templom",
+            "tip": "Csendes menedék.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Biserica Sf. Ștefan",
+            "tip": "Loc de retragere liniștit.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "St. Stephen's Church",
+            "tip": "Quiet retreat.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Insel-Öl",
+            "tip": "Preisgekröntes Olivenöl."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szigeti olaj",
+            "tip": "Díjnyertes olívaolaj."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ulei de insulă",
+            "tip": "Ulei de măsline premiat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Island Oil",
+            "tip": "Award-winning olive oil."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Sipan ist bekannt für seine vielen Olivenbäume.",
+          "Bringen Sie festes Schuhwerk für den Aufstieg nach Sutulija mit."
+        ],
+        "hu": [
+          "Sipan a sok olajfájáról ismert.",
+          "Hozzon stabil lábbelit a Sutulijára való felkapaszkodáshoz."
+        ],
+        "ro": [
+          "Sipan este cunoscută pentru numeroșii săi măslini.",
+          "Aduceți încălțăminte stabilă pentru urcarea spre Sutulija."
+        ],
+        "en": [
+          "Sipan is known for its many olive trees.",
+          "Bring sturdy footwear for the climb to Sutulija."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 12.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Hafen von Suđurađ",
+          "coords": [
+            17.858,
+            42.725
+          ],
+          "category": "port",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Mieten Sie ein Fahrrad am Hafen.",
+            "hu": "Béreljen kerékpárt a kikötőben.",
+            "ro": "Închiriați o bicicletă în port.",
+            "en": "Rent a bike at the harbor."
+          }
+        },
+        {
+          "name": "Heilig-Geist-Kirche",
+          "coords": [
+            17.854,
+            42.728
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:50",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Besuchen Sie die befestigte Kirche.",
+            "hu": "Látogassa meg az erődtemplomot.",
+            "ro": "Vizitați biserica fortificată.",
+            "en": "Visit the fortified church."
+          }
+        },
+        {
+          "name": "Sommerhaus Getaldić",
+          "coords": [
+            17.84,
+            42.74
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Ruine einer adligen Residenz.",
+            "hu": "Egy nemesi rezidencia romjai.",
+            "ro": "Ruinele unei reședințe nobiliare.",
+            "en": "Ruins of a noble residence."
+          }
+        },
+        {
+          "name": "Feldweg nach Šipanska Luka",
+          "coords": [
+            17.82,
+            42.75
+          ],
+          "category": "natural features",
+          "arrive_at": "12:45",
+          "stay_min": 90,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Fahrt durch das fruchtbare Feld.",
+            "hu": "Kerékpározás a termékeny mezőn át.",
+            "ro": "Călătorie prin câmpul fertil.",
+            "en": "Ride through the fertile field."
+          }
+        },
+        {
+          "name": "Kirche des Hl. Stephan",
+          "coords": [
+            17.857,
+            42.724
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:30",
+          "stay_min": 105,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Entspannung in Hafennähe.",
+            "hu": "Lazítás a kikötő közelében.",
+            "ro": "Relaxare lângă port.",
+            "en": "Relaxation near the harbor."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Das flache Inselinnere eignet sich perfekt für eine Radtour. Radeln Sie von Suđurađ quer über die Insel, vorbei an alten Kirchen und verlassenen Sommerhäusern, und genießen Sie die ländliche Ruhe der Elaphiten.",
+        "hu": "A sziget lapos belseje tökéletes kerékpártúrához. Kerekezzen át Suđurađból a szigeten, elhaladva régi templomok és elhagyatott nyaralók mellett, és élvezze az Elafit-szigetek vidéki nyugalmát.",
+        "ro": "Interiorul plat al insulei este perfect pentru o tură cu bicicleta. Pedalați din Suđurađ peste insulă, trecând pe lângă biserici vechi și case de vară abandonate, și bucurați-vă de liniștea rurală a insulelor Elafiti.",
+        "en": "The flat interior of the island is perfect for a bike tour. Cycle from Suđurađ across the island, past old churches and abandoned summer houses, and enjoy the rural peace of the Elafiti islands."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Konoba Tri Sestre",
+            "tip": "Hervorragende Meeresfrüchte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tri Sestre Konoba",
+            "tip": "Kiváló tenger gyümölcsei."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Konoba Tri Sestre",
+            "tip": "Fructe de mare excelente."
+          }
+        ],
+        "en": [
+          {
+            "name": "Konoba Tri Sestre",
+            "tip": "Excellent seafood."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Inselmitte",
+            "tip": "Vogelgezwitscher und Olivenhaine.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sziget közepe",
+            "tip": "Madárcsicsergés és olajfaligetek.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mijlocul insulei",
+            "tip": "Ciripit de păsări și livezi.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Center of the island",
+            "tip": "Birdsong and olive groves.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Wein",
+            "tip": "Kaufen Sie Sipan-Wein."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi bor",
+            "tip": "Vásároljon sipani bort."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vin local",
+            "tip": "Cumpărați vin de Sipan."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local wine",
+            "tip": "Buy Sipan wine."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Hauptstraße ist kaum befahren.",
+          "Es gibt kaum Steigungen im Feld."
+        ],
+        "hu": [
+          "A főúton alig van forgalom.",
+          "A mezőn alig van emelkedő."
+        ],
+        "ro": [
+          "Drumul principal este puțin circulat.",
+          "Sunt puține pante în câmp."
+        ],
+        "en": [
+          "The main road has very little traffic.",
+          "There are few slopes in the field."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "15:30",
+      "total_km": 15.0,
+      "stop_count": 4,
+      "stops": [
+        {
+          "name": "Suđurađ Hafen",
+          "coords": [
+            17.858,
+            42.725
+          ],
+          "category": "port",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe des Hafens.",
+            "hu": "Parkoljon a kikötő közelében.",
+            "ro": "Parcați lângă port.",
+            "en": "Park near the harbor."
+          }
+        },
+        {
+          "name": "Heilig-Geist-Kirche",
+          "coords": [
+            17.854,
+            42.728
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:55",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Eindrucksvolle Architektur.",
+            "hu": "Lenyűgöző építészet.",
+            "ro": "Arhitectură impresionantă.",
+            "en": "Impressive architecture."
+          }
+        },
+        {
+          "name": "Šipanska Luka (Ausflug)",
+          "coords": [
+            17.805,
+            42.765
+          ],
+          "category": "historical",
+          "arrive_at": "11:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie die andere Seite der Insel.",
+            "hu": "Látogassa meg a sziget másik oldalát.",
+            "ro": "Vizitați cealaltă parte a insulei.",
+            "en": "Visit the other side of the island."
+          }
+        },
+        {
+          "name": "Sommerresidenz Skočibuha",
+          "coords": [
+            17.857,
+            42.726
+          ],
+          "category": "famous residences",
+          "arrive_at": "13:50",
+          "stay_min": 70,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 8.5,
+          "tip_5lang": {
+            "de": "Rückkehr nach Suđurađ.",
+            "hu": "Visszatérés Suđurađba.",
+            "ro": "Întoarcere în Suđurađ.",
+            "en": "Return to Suđurađ."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto können Sie Sipan in seiner ganzen Länge erkunden. Fahren Sie von Suđurađ durch das fruchtbare Inselinnere bis zum Fischerdorf Šipanska Luka am anderen Ende und besichtigen Sie historische Residenzen.",
+        "hu": "Autóval teljes hosszában felfedezheti Sipant. Hajtson Suđurađból a termékeny szigetbelsőn keresztül a másik végén lévő Šipanska Luka halászfaluba, és látogasson meg történelmi rezidenciákat.",
+        "ro": "Cu mașina puteți explora Sipan în toată lungimea sa. Conduceți din Suđurađ prin interiorul fertil al insulei până în satul de pescari Šipanska Luka de la celălalt capăt și vizitați reședințe istorice.",
+        "en": "With a car, you can explore Sipan in its entire length. Drive from Suđurađ through the fertile island interior to the fishing village of Šipanska Luka at the other end and visit historic residences."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant Kod Marka",
+            "tip": "Berühmt für Tintenfisch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kod Marka Étterem",
+            "tip": "Híres a tintahaláról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant Kod Marka",
+            "tip": "Celebră pentru caracatiță."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kod Marka Restaurant",
+            "tip": "Famous for octopus."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Panoramastraße",
+            "tip": "Blick auf die Nachbarinseln.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Panorámaút",
+            "tip": "Kilátás a szomszédos szigetekre.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Drum panoramic",
+            "tip": "Vedere la insulele vecine.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Panoramic road",
+            "tip": "View of the neighboring islands.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kräuter der Insel",
+            "tip": "Getrockneter Lavendel."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szigeti gyógynövények",
+            "tip": "Szárított levendula."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ierburi de pe insulă",
+            "tip": "Levănțică uscată."
+          }
+        ],
+        "en": [
+          {
+            "name": "Island herbs",
+            "tip": "Dried lavender."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Straßen sind schmal, fahren Sie vorsichtig.",
+          "Es gibt begrenzte Parkplätze in den Häfen."
+        ],
+        "hu": [
+          "Az utak keskenyek, vezessen óvatosan.",
+          "A kikötőkben korlátozott a parkolóhelyek száma."
+        ],
+        "ro": [
+          "Drumurile sunt înguste, conduceți cu atenție.",
+          "Există locuri de parcare limitate în porturi."
+        ],
+        "en": [
+          "The roads are narrow, drive carefully.",
+          "There are limited parking spaces in the harbors."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "15:45",
+      "total_km": 10.0,
+      "stop_count": 4,
+      "stops": [
+        {
+          "name": "Busstation Suđurađ",
+          "coords": [
+            17.858,
+            42.725
+          ],
+          "category": "port",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Nutzen Sie den lokalen Bus.",
+            "hu": "Használja a helyi buszt.",
+            "ro": "Folosiți autobuzul local.",
+            "en": "Use the local bus."
+          }
+        },
+        {
+          "name": "Kirche des Hl. Stephan",
+          "coords": [
+            17.857,
+            42.724
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Historische Kirche am Hafen.",
+            "hu": "Történelmi templom a kikötőben.",
+            "ro": "Biserică istorică în port.",
+            "en": "Historical church at the harbor."
+          }
+        },
+        {
+          "name": "Šipanska Luka",
+          "coords": [
+            17.805,
+            42.765
+          ],
+          "category": "historical",
+          "arrive_at": "11:35",
+          "stay_min": 150,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 9.0,
+          "tip_5lang": {
+            "de": "Mit dem Bus in 15 Min. erreichbar.",
+            "hu": "Busszal 15 perc alatt elérhető.",
+            "ro": "Accesibil cu autobuzul în 15 min.",
+            "en": "Accessible by bus in 15 min."
+          }
+        },
+        {
+          "name": "Hafen von Suđurađ",
+          "coords": [
+            17.858,
+            42.725
+          ],
+          "category": "port",
+          "arrive_at": "14:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 9.0,
+          "tip_5lang": {
+            "de": "Rückkehr für die Fähre.",
+            "hu": "Visszatérés a komphoz.",
+            "ro": "Întoarcere pentru feribot.",
+            "en": "Return for the ferry."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ein lokaler Bus verbindet die beiden Hauptorte der Insel. Nutzen Sie diesen unkomplizierten Service, um beide Seiten von Sipan zu sehen und zwischendurch in Suđurađ das Skočibuha-Sommerhaus zu bewundern.",
+        "hu": "Egy helyi busz köti össze a sziget két fő települését. Használja ezt az egyszerű szolgáltatást, hogy lássa Sipan mindkét oldalát, és közben Suđurađban megcsodálja a Skočibuha nyaralót.",
+        "ro": "Un autobuz local leagă cele două localități principale de pe insulă. Folosiți acest serviciu simplu pentru a vedea ambele părți ale Sipanului și, între timp, admirați casa de vară Skočibuha în Suđurađ.",
+        "en": "A local bus connects the two main towns on the island. Use this straightforward service to see both sides of Sipan and admire the Skočibuha summer house in Suđurađ in between."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Konoba Taurus",
+            "tip": "Gute lokale Weine."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Taurus Konoba",
+            "tip": "Jó helyi borok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Konoba Taurus",
+            "tip": "Vinuri locale bune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Konoba Taurus",
+            "tip": "Good local wines."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Hafenkai",
+            "tip": "Schiffe beobachten.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kikötői móló",
+            "tip": "Hajók megfigyelése.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Moll de port",
+            "tip": "Observarea vapoarelor.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Harbor pier",
+            "tip": "Watching ships.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Handwerksshop",
+            "tip": "Lokal hergestellte Waren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kézműves bolt",
+            "tip": "Helyben készített áruk."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de artizanat",
+            "tip": "Produse fabricate local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Handicraft shop",
+            "tip": "Locally made goods."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Der Busfahrplan ist auf die Fähren abgestimmt.",
+          "Tickets werden beim Fahrer gekauft."
+        ],
+        "hu": [
+          "A buszmenetrend a kompokhoz igazodik.",
+          "A jegyeket a sofőrnél kell megvenni."
+        ],
+        "ro": [
+          "Programul autobuzului este coordonat cu feriboturile.",
+          "Biletele se cumpără de la șofer."
+        ],
+        "en": [
+          "The bus schedule is coordinated with the ferries.",
+          "Tickets are bought from the driver."
+        ]
+      }
+    }
+  }
+}

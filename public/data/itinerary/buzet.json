@@ -1,0 +1,1102 @@
+{
+  "city_id": "buzet",
+  "anchor": {
+    "name": "Buzet",
+    "coords": [
+      45.408,
+      13.9667
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 1.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Altstadtplatz",
+            "hu": "Óváros tér",
+            "ro": "Piața Orașului Vechi",
+            "en": "Old Town Square"
+          },
+          "coords": [
+            13.9665,
+            45.4085
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Trinken Sie einen Kaffee am Brunnen.",
+            "hu": "Igyon egy kávét a szökőkút mellett.",
+            "ro": "Beți o cafea lângă fântână.",
+            "en": "Have a coffee by the fountain."
+          }
+        },
+        {
+          "name": {
+            "de": "Vela vrata (Großes Tor)",
+            "hu": "Vela vrata (Nagy kapu)",
+            "ro": "Vela vrata (Poarta Mare)",
+            "en": "Vela vrata (Big Gate)"
+          },
+          "coords": [
+            13.966,
+            45.4082
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:55",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Achten Sie auf das steinerne Wappen.",
+            "hu": "Figyelje meg a kőbe vésett címert.",
+            "ro": "Observați stema sculptată în piatră.",
+            "en": "Notice the coat of arms in stone."
+          }
+        },
+        {
+          "name": {
+            "de": "Heimatmuseum Buzet",
+            "hu": "Buzeti Helytörténeti Múzeum",
+            "ro": "Muzeul de Istorie Locală",
+            "en": "Buzet Heritage Museum"
+          },
+          "coords": [
+            13.9668,
+            45.4088
+          ],
+          "category": "museums",
+          "arrive_at": "10:35",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Besuchen Sie die alte Schmiede.",
+            "hu": "Nézze meg a régi kovácsműhelyt.",
+            "ro": "Vizitați vechea fierărie.",
+            "en": "Visit the old blacksmith shop."
+          }
+        },
+        {
+          "name": {
+            "de": "Pfarrkirche Maria Himmelfahrt",
+            "hu": "Mária Mennybemenetele plébániatemplom",
+            "ro": "Biserica Adormirea Maicii Domnului",
+            "en": "Parish Church of the Assumption"
+          },
+          "coords": [
+            13.9672,
+            45.409
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:15",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Barockaltäre.",
+            "hu": "Csodálja meg a barokk oltárokat.",
+            "ro": "Admirați altarele baroce.",
+            "en": "Admire the baroque altars."
+          }
+        },
+        {
+          "name": {
+            "de": "Fonticus-Palast",
+            "hu": "Fonticus-palota",
+            "ro": "Palatul Fonticus",
+            "en": "Fonticus Palace"
+          },
+          "coords": [
+            13.9666,
+            45.4086
+          ],
+          "category": "famous residences",
+          "arrive_at": "13:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Prüfen Sie die aktuellen Kunstausstellungen.",
+            "hu": "Nézze meg az aktuális kiállításokat.",
+            "ro": "Verificați expozițiile de artă actuale.",
+            "en": "Check the current art exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt ins Mirna-Tal",
+            "hu": "Kilátó a Mirna-völgyre",
+            "ro": "Belvedere Valea Mirnei",
+            "en": "Mirna Valley Viewpoint"
+          },
+          "coords": [
+            13.9675,
+            45.4095
+          ],
+          "category": "natural features",
+          "arrive_at": "14:20",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Perfekter Ort für Fotos vom Tal.",
+            "hu": "Tökéletes hely a völgy fotózásához.",
+            "ro": "Loc perfect pentru poze cu valea.",
+            "en": "Perfect spot for valley photos."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen auf dem historischen Altstadtplatz von Buzet, dem Herz der 'Stadt der Trüffel'. Bewundern Sie die Architektur und das große venezianische Stadttor Vela vrata.\n\nNachmittags tauchen Sie im Heimatmuseum tief in die Geschichte Istriens ein, bevor Sie die prächtige barocke Pfarrkirche Maria Himmelfahrt und den kunstvollen Fonticus-Palast besichtigen.\n\nGenießen Sie den späten Nachmittag am Panorama-Aussichtspunkt mit Blick auf das weite Mirna-Tal, wo die berühmten Trüffelwälder beginnen.\n\nLassen Sie den Tag in einer lokalen Konoba mit hausgemachten Nudeln und frischen Trüffeln ausklingen, während die Sonne über den Hügeln Nordistriens untergeht.",
+        "hu": "Kezdje a reggelt Buzet történelmi főterén, a 'szarvasgomba városának' szívében. Csodálja meg az építészetet és a monumentális velencei városkaput, a Vela vratát.\n\nDélután merüljön el Isztria történelmében a Helytörténeti Múzeumban, majd látogasson el a pompás barokk plébániatemplomba és a művészeti galériaként működő Fonticus-palotába.\n\nÉlvezze a késő délutánt a panorámás kilátóponton, ahonnan belátni az egész Mirna-völgyet, a híres szarvasgomba-lelőhelyek otthonát.\n\nZárja a napot egy helyi konobában, ahol házi tésztát és friss szarvasgombát kóstolhat, miközben a nap lebukik Észak-Isztria dombjai mögött.",
+        "ro": "Începeți dimineața în piața istorică din centrul vechi al orașului Buzet, inima 'orașului trufelor'. Admirați arhitectura și marea poartă venețiană Vela vrata.\n\nDupă-amiaza, pătrundeți în istoria Istriei la Muzeul local, înainte de a vizita splendida biserică parohială barocă și Palatul Fonticus, acum galerie de artă.\n\nBucurați-vă de amiaza târzie la punctul de belvedere asupra Văii Mirna, locul unde încep faimoasele păduri de trufe.\n\nÎncheiați ziua într-o konoba locală cu paste de casă și trufe proaspete, în timp ce soarele apune peste colinele din nordul Istriei.",
+        "en": "Start your morning at the historic Old Town Square of Buzet, the heart of the 'City of Truffles'. Admire the architecture and the grand Venetian town gate, Vela vrata.\n\nIn the afternoon, dive deep into Istrian history at the Heritage Museum before visiting the magnificent baroque Parish Church and the ornate Fonticus Palace.\n\nEnjoy the late afternoon at the panoramic viewpoint overlooking the vast Mirna Valley, home to the famous truffle forests.\n\nEnd your day in a local konoba with homemade pasta and fresh truffles as the sun sets over the hills of Northern Istria."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fuži mit Trüffeln",
+            "tip": "Probieren Sie diese traditionelle Pasta im Restaurant Old River."
+          },
+          {
+            "name": "Istrianischer Schinken",
+            "tip": "Hauchdünn geschnittener Pršut als Vorspeise."
+          },
+          {
+            "name": "Bura Bier",
+            "tip": "Lokales Craft-Bier aus der Brauerei in Buzet."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fuži szarvasgombával",
+            "tip": "Hagyományos tészta, kóstolja meg az Old River étteremben."
+          },
+          {
+            "name": "Isztriai sonka",
+            "tip": "Hajszálvékonyra szeletelt pršut előételnek."
+          },
+          {
+            "name": "Bura sör",
+            "tip": "Helyi kézműves sör a buzeti sörfőzdéből."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fuži cu trufe",
+            "tip": "Paste tradiționale, încercați-le la restaurantul Old River."
+          },
+          {
+            "name": "Prosciutto de Istria",
+            "tip": "Pršut tăiat subțire ca aperitiv."
+          },
+          {
+            "name": "Bere Bura",
+            "tip": "Bere artizanală locală produsă în Buzet."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fuži with Truffles",
+            "tip": "Traditional pasta, try it at Old River restaurant."
+          },
+          {
+            "name": "Istrian Ham",
+            "tip": "Paper-thin sliced pršut as an appetizer."
+          },
+          {
+            "name": "Bura Beer",
+            "tip": "Local craft beer from the brewery in Buzet."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Mirna-Tal Aussicht",
+            "tip": "Stiller Moment mit Blick auf den Fluss.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "St. Georgs Garten",
+            "tip": "Ruhiger Platz hinter der Kirche.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mirna-völgyi kilátó",
+            "tip": "Csendes pillanat a folyóra nézve.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Szent György kert",
+            "tip": "Nyugodt hely a templom mögött.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Belvedere Valea Mirnei",
+            "tip": "Moment de liniște cu vedere la râu.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădina Sf. Gheorghe",
+            "tip": "Loc liniștit în spatele bisericii.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Mirna Valley View",
+            "tip": "Quiet moment overlooking the river.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "St. George's Garden",
+            "tip": "Peaceful spot behind the church.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Natura Tartufi",
+            "tip": "Hochwertige Trüffelprodukte direkt vom Erzeuger."
+          },
+          {
+            "name": "Aura Destillerie",
+            "tip": "Lokale Schnäpse und Marmeladen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Natura Tartufi",
+            "tip": "Prémium szarvasgomba termékek közvetlenül a termelőtől."
+          },
+          {
+            "name": "Aura lepárló",
+            "tip": "Helyi pálinkák és lekvárok boltja."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Natura Tartufi",
+            "tip": "Produse cu trufe de calitate direct de la producător."
+          },
+          {
+            "name": "Distileria Aura",
+            "tip": "Rachiuri și gemuri locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Natura Tartufi",
+            "tip": "Premium truffle products directly from the producer."
+          },
+          {
+            "name": "Aura Distillery",
+            "tip": "Local brandies and jams shop."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Altstadt liegt auf einem Hügel, tragen Sie bequeme Schuhe.",
+          "Parken Sie am Fuße des Hügels und gehen Sie zu Fuß hinauf.",
+          "Die beste Zeit für frische Trüffel ist der Herbst.",
+          "Reservieren Sie in den Konobas der Altstadt vorab einen Tisch."
+        ],
+        "hu": [
+          "Az óváros egy dombtetőn van, viseljen kényelmes cipőt.",
+          "Parkoljon a domb alján, és sétáljon fel a várba.",
+          "A friss szarvasgomba szezonja főleg ősszel van.",
+          "Az óvárosi konobákba érdemes előre asztalt foglalni."
+        ],
+        "ro": [
+          "Orașul vechi este pe un deal, purtați încălțăminte comodă.",
+          "Parcați la baza dealului și urcați pe jos în cetate.",
+          "Cea mai bună perioadă pentru trufe proaspete este toamna.",
+          "Rezervați din timp o masă în restaurantele din centrul vechi."
+        ],
+        "en": [
+          "The old town is on a hilltop, wear comfortable walking shoes.",
+          "Park at the bottom of the hill and walk up to the fortress.",
+          "The best season for fresh truffles is in the autumn.",
+          "It is recommended to book a table in old town konobas in advance."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "15:30",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Altstadtplatz",
+            "hu": "Óváros tér",
+            "ro": "Piața Orașului Vechi",
+            "en": "Old Town Square"
+          },
+          "coords": [
+            13.9665,
+            45.4085
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Startpunkt der Tour.",
+            "hu": "A túra kiindulópontja.",
+            "ro": "Punctul de plecare.",
+            "en": "Starting point of the tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche des Heiligen Georg",
+            "hu": "Szent György templom",
+            "ro": "Biserica Sfântul Gheorghe",
+            "en": "Church of Saint George"
+          },
+          "coords": [
+            13.9678,
+            45.4102
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Schöne Aussicht von der Kirchenmauer.",
+            "hu": "Szép kilátás a templomfal mellől.",
+            "ro": "Vedere frumoasă de lângă zidul bisericii.",
+            "en": "Nice view from the church wall."
+          }
+        },
+        {
+          "name": {
+            "de": "Mala vrata (Kleines Tor)",
+            "hu": "Mala vrata (Kis kapu)",
+            "ro": "Poarta Mică",
+            "en": "Small Gate"
+          },
+          "coords": [
+            13.9685,
+            45.4098
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:35",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Weniger touristisch als das große Tor.",
+            "hu": "Kevésbé turisztikai, mint a nagy kapu.",
+            "ro": "Mai puțin turistică decât poarta mare.",
+            "en": "Less touristy than the big gate."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirna-Uferweg",
+            "hu": "Mirna-parti út",
+            "ro": "Drumul de pe malul Mirnei",
+            "en": "Mirna Riverside Path"
+          },
+          "coords": [
+            13.975,
+            45.402
+          ],
+          "category": "natural features",
+          "arrive_at": "11:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Flacher Weg entlang des Flusses.",
+            "hu": "Lapos út a folyó mentén.",
+            "ro": "Drum plat de-a lungul râului.",
+            "en": "Flat path along the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Brauerei Favorit (Buzet)",
+            "hu": "Favorit sörfőzde",
+            "ro": "Fabrica de bere Favorit",
+            "en": "Favorit Brewery"
+          },
+          "coords": [
+            13.961,
+            45.401
+          ],
+          "category": "industry",
+          "arrive_at": "12:45",
+          "stay_min": 50,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Erfrischen Sie sich mit einem lokalen Bier.",
+            "hu": "Frissüljön fel egy helyi sörrel.",
+            "ro": "Răcoriți-vă cu o bere locală.",
+            "en": "Refresh yourself with a local beer."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt ins Mirna-Tal",
+            "hu": "Kilátó a Mirna-völgyre",
+            "ro": "Belvedere Valea Mirnei",
+            "en": "Mirna Valley Viewpoint"
+          },
+          "coords": [
+            13.9675,
+            45.4095
+          ],
+          "category": "natural features",
+          "arrive_at": "14:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Letzter Anstieg mit toller Belohnung.",
+            "hu": "Utolsó emelkedő pazar jutalommal.",
+            "ro": "Ultima urcare cu o recompensă pe măsură.",
+            "en": "Final climb with a great reward."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie Buzet auf zwei Rädern! Starten Sie in der Altstadt und rollen Sie hinunter zum Fluss Mirna, wo Sie flache Wege durch die grüne Landschaft genießen können.\n\nBesuchen Sie die weniger bekannten Ecken wie das Kleine Tor und die St. Georgs Kirche, bevor Sie die lokale Brautradition in der Buzeter Brauerei kennenlernen.\n\nDer Tag kombiniert sportliche Aktivität im Tal mit dem kulturellen Charme der mittelalterlichen Festungsstadt auf dem Hügel.\n\nGenießen Sie die Abfahrt durch die Weinberge und Olivenhaine, die Buzet umgeben.",
+        "hu": "Fedezze fel Buzetet két keréken! Kezdje az óvárosban, majd guruljon le a Mirna folyóhoz, ahol sík utakon tekerhet a zöld tájban.\n\nLátogasson el a kevésbé ismert sarkokhoz, mint a Kis kapu és a Szent György templom, mielőtt megismerné a helyi sörfőzési hagyományokat a buzeti gyárban.\n\nA nap ötvözi a völgyben végzett sportos aktivitást a középkori erődváros kulturális bájával.\n\nÉlvezze a gurulást a Buzetet körülvevő szőlőültetvények és olajfaligetek között.",
+        "ro": "Descoperiți Buzet pe două roți! Începeți în centrul vechi și coborâți spre râul Mirna, unde vă puteți bucura de drumuri plate prin peisajul verde.\n\nVizitați locuri mai puțin cunoscute, precum Poarta Mică și Biserica Sf. Gheorghe, înainte de a descoperi tradiția locală a berii la fabrica din Buzet.\n\nZiua combină activitatea sportivă din vale cu farmecul cultural al orașului cetate medieval de pe deal.\n\nBucurați-vă de coborârea printre podgoriile și livezile de măslini care înconjoară orașul.",
+        "en": "Discover Buzet on two wheels! Start in the old town and roll down to the Mirna River, where you can enjoy flat paths through the green landscape.\n\nVisit lesser-known corners like the Small Gate and St. George's Church before learning about the local brewing tradition at the Buzet brewery.\n\nThe day combines sporty activity in the valley with the cultural charm of the medieval fortress town on the hill.\n\nEnjoy riding through the vineyards and olive groves surrounding Buzet."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Buzet Bier",
+            "tip": "Direkt bei der Brauerei probieren."
+          },
+          {
+            "name": "Energiereiche Fuži",
+            "tip": "Pasta mit Trüffelcreme für Radfahrer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Buzeti sör",
+            "tip": "Kóstolja meg közvetlenül a gyárnál."
+          },
+          {
+            "name": "Energiadús fuži",
+            "tip": "Szarvasgombás tészta bringásoknak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bere de Buzet",
+            "tip": "Încercați-o direct la fabrică."
+          },
+          {
+            "name": "Fuži energizant",
+            "tip": "Paste cu cremă de trufe pentru bicicliști."
+          }
+        ],
+        "en": [
+          {
+            "name": "Buzet Beer",
+            "tip": "Try it directly at the brewery."
+          },
+          {
+            "name": "Energy Fuži",
+            "tip": "Pasta with truffle cream for cyclists."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Mirna-Flussufer",
+            "tip": "Ruhiger Ort zum Verschnaufen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mirna-folyópart",
+            "tip": "Csendes hely egy kis pihenőre.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul râului Mirna",
+            "tip": "Loc liniștit pentru o pauză.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Mirna Riverbank",
+            "tip": "Quiet spot for a short break.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokales Olivenöl",
+            "tip": "Direkt beim Bauern im Tal kaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi olívaolaj",
+            "tip": "Vásároljon közvetlenül a termelőtől a völgyben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ulei de măsline local",
+            "tip": "Cumpărați direct de la fermieri în vale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Olive Oil",
+            "tip": "Buy directly from farmers in the valley."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Der Aufstieg zur Altstadt ist steil, schieben ist okay.",
+          "Die Wege im Mirna-Tal sind meist verkehrsarm.",
+          "Nehmen Sie ausreichend Wasser mit, im Sommer wird es heiß."
+        ],
+        "hu": [
+          "Az óvárosba vezető út meredek, nyugodtan tolja a bringát.",
+          "A Mirna-völgy útjai többnyire forgalommentesek.",
+          "Vigyen elég vizet, nyáron nagyon meleg van."
+        ],
+        "ro": [
+          "Urcarea spre orașul vechi este abruptă, e în regulă să mergeți pe lângă bicicletă.",
+          "Drumurile din Valea Mirnei sunt în mare parte ferite de trafic.",
+          "Luați destulă apă, vara poate fi foarte cald."
+        ],
+        "en": [
+          "The climb to the old town is steep, pushing your bike is fine.",
+          "The paths in the Mirna Valley are mostly low-traffic.",
+          "Take enough water, it gets very hot in the summer."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "16:00",
+      "total_km": 35.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Altstadt von Buzet",
+            "hu": "Buzeti óváros",
+            "ro": "Orașul vechi Buzet",
+            "en": "Buzet Old Town"
+          },
+          "coords": [
+            13.9665,
+            45.4085
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Parken Sie am großen Parkplatz unterhalb.",
+            "hu": "Parkoljon a vár alatti nagy parkolóban.",
+            "ro": "Parcați în parcarea mare de sub cetate.",
+            "en": "Park at the large parking lot below."
+          }
+        },
+        {
+          "name": {
+            "de": "Kotli (Alte Mühle & Wasserfälle)",
+            "hu": "Kotli (Régi malom és vízesések)",
+            "ro": "Kotli (Moara veche și cascadele)",
+            "en": "Kotli (Old Mill & Waterfalls)"
+          },
+          "coords": [
+            14.02,
+            45.367
+          ],
+          "category": "natural features",
+          "arrive_at": "11:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 12.0,
+          "tip_5lang": {
+            "de": "Baden Sie in den natürlichen Felsbecken.",
+            "hu": "Fürödjön meg a természetes sziklamedencékben.",
+            "ro": "Faceți o baie în bazinele naturale din stâncă.",
+            "en": "Take a swim in the natural rock pools."
+          }
+        },
+        {
+          "name": {
+            "de": "Roč (Mittelalterliches Dorf)",
+            "hu": "Roč (Középkori falu)",
+            "ro": "Roč (Sat medieval)",
+            "en": "Roč (Medieval Village)"
+          },
+          "coords": [
+            14.048,
+            45.394
+          ],
+          "category": "historical",
+          "arrive_at": "13:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Zentrum der glagolitischen Schrift.",
+            "hu": "A glagolita írásbeliség központja.",
+            "ro": "Centrul scrierii glagolitice.",
+            "en": "Center of Glagolitic literacy."
+          }
+        },
+        {
+          "name": {
+            "de": "Hum (Kleinste Stadt der Welt)",
+            "hu": "Hum (A világ legkisebb városa)",
+            "ro": "Hum (Cel mai mic oraș din lume)",
+            "en": "Hum (World's Smallest Town)"
+          },
+          "coords": [
+            14.049,
+            45.348
+          ],
+          "category": "historical",
+          "arrive_at": "14:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 10.0,
+          "tip_5lang": {
+            "de": "Probieren Sie den Mistelschnaps 'Biska'.",
+            "hu": "Kóstolja meg a 'Biska' fagyöngypálinkát.",
+            "ro": "Gustați rachiul de vâsc 'Biska'.",
+            "en": "Try the mistletoe brandy 'Biska'."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt ins Mirna-Tal",
+            "hu": "Kilátó a Mirna-völgyre",
+            "ro": "Belvedere Valea Mirnei",
+            "en": "Mirna Valley Viewpoint"
+          },
+          "coords": [
+            13.9675,
+            45.4095
+          ],
+          "category": "natural features",
+          "arrive_at": "15:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 15.0,
+          "tip_5lang": {
+            "de": "Abschluss der Tour bei Sonnenuntergang.",
+            "hu": "A túra lezárása naplementekor.",
+            "ro": "Încheierea turului la apus.",
+            "en": "End the tour at sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Autotour führt Sie von Buzet zu den versteckten Juwelen des istrischen Hinterlandes. Nach einem Spaziergang durch die Buzeter Altstadt fahren Sie zum idyllischen Dorf Kotli, wo der Fluss Mirna türkisfarbene Becken in den Fels gegraben hat.\n\nBesuchen Sie Roč, ein wichtiges historisches Zentrum, und fahren Sie entlang der Allee der Glagoliten zum legendären Hum, der kleinsten Stadt der Welt.\n\nDie Route bietet spektakuläre Ausblicke auf die Hügellandschaft und führt durch dichte Wälder, in denen die wertvollsten Trüffel Istriens wachsen.\n\nEin perfekter Tag für Naturliebhaber und Geschichtsinteressierte, die mehr als nur die Küste sehen wollen.",
+        "hu": "Ez az autós túra Buzetből az isztriai hátország rejtett ékszereihez vezet. A buzeti óvárosi séta után hajtson el a festői Kotli faluba, ahol a Mirna folyó türkizkék medencéket vájt a sziklába.\n\nLátogasson el Ročba, a fontos történelmi központba, majd hajtson végig a Glagolita sugárúton a legendás Humig, a világ legkisebb városáig.\n\nAz útvonal látványos kilátást nyújt a dombvidékre, és sűrű erdőkön vezet keresztül, ahol Isztria legértékesebb szarvasgombái teremnek.\n\nTökéletes nap a természet kedvelőinek és a történelem rajongóinak, akik többet szeretnének látni a tengerpartnál.",
+        "ro": "Acest tur auto vă duce din Buzet spre bijuteriile ascunse ale interiorului Istriei. După o plimbare prin centrul vechi din Buzet, conduceți spre satul idilic Kotli, unde râul Mirna a săpat bazine turcoaz în stâncă.\n\nVizitați Roč, un centru istoric important, și conduceți pe Aleea Glagoliticilor până la legendarul Hum, cel mai mic oraș din lume.\n\nTraseul oferă vederi spectaculoase asupra colinelor și trece prin păduri dese, unde cresc cele mai valoroase trufe din Istria.\n\nO zi perfectă pentru iubitorii de natură și istorie care doresc să vadă mai mult decât zona de coastă.",
+        "en": "This car tour takes you from Buzet to the hidden gems of the Istrian hinterland. After a stroll through Buzet's old town, drive to the idyllic village of Kotli, where the Mirna River has carved turquoise pools into the rock.\n\nVisit Roč, an important historical center, and drive along the Glagolitic Alley to the legendary Hum, the world's smallest town.\n\nThe route offers spectacular views of the hilly landscape and leads through dense forests where Istria's most valuable truffles grow.\n\nA perfect day for nature lovers and history buffs who want to see more than just the coast."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Biska Schnaps",
+            "tip": "Probieren Sie das Original in Hum."
+          },
+          {
+            "name": "Trüffel-Frittata",
+            "tip": "Hervorragend in der Konoba Kotli."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Biska pálinka",
+            "tip": "Kóstolja meg az eredetit Humban."
+          },
+          {
+            "name": "Szarvasgombás frittata",
+            "tip": "Kiváló a Kotli konobában."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rachiu Biska",
+            "tip": "Gustați originalul în Hum."
+          },
+          {
+            "name": "Frittata cu trufe",
+            "tip": "Excelentă la Konoba Kotli."
+          }
+        ],
+        "en": [
+          {
+            "name": "Biska Brandy",
+            "tip": "Try the original in Hum."
+          },
+          {
+            "name": "Truffle Frittata",
+            "tip": "Excellent at Konoba Kotli."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kotli Wasserfälle",
+            "tip": "Rauschen des Wassers genießen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kotli vízesések",
+            "tip": "Élvezze a víz csobogását.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cascadele din Kotli",
+            "tip": "Bucurați-vă de susurul apei.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Kotli Waterfalls",
+            "tip": "Enjoy the sound of rushing water.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Humer Souvenirs",
+            "tip": "Kleine handgemachte Keramik und Glagolita-Schrift."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Humi szuvenírek",
+            "tip": "Kézműves kerámiák és glagolita feliratok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Suveniruri din Hum",
+            "tip": "Ceramică lucrată manual și inscripții glagolitice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Hum Souvenirs",
+            "tip": "Handmade ceramics and Glagolitic script items."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Straßen nach Kotli und Hum sind schmal, fahren Sie vorsichtig.",
+          "In Hum gibt es nur begrenzte Parkplätze am Stadttor.",
+          "Kotli kann im Hochsommer austrocknen, am besten im Frühling besuchen."
+        ],
+        "hu": [
+          "A Kotliba és Humhoz vezető utak keskenyek, vezessen óvatosan.",
+          "Humban korlátozott a parkolóhely a városkapunál.",
+          "Kotli a nyári hőségben kiszáradhat, tavasszal a legszebb."
+        ],
+        "ro": [
+          "Drumurile spre Kotli și Hum sunt înguste, conduceți cu atenție.",
+          "În Hum locurile de parcare sunt limitate lângă poarta orașului.",
+          "Kotli poate seca în toiul verii, cel mai bine vizitați primăvara."
+        ],
+        "en": [
+          "The roads to Kotli and Hum are narrow, drive carefully.",
+          "In Hum, there is limited parking available at the city gate.",
+          "Kotli can dry up in mid-summer, best visited in spring."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:20",
+      "total_km": 4.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Bushaltestelle Buzet (Unten)",
+            "hu": "Buzeti buszmegálló (Alsó)",
+            "ro": "Stația de autobuz Buzet (Jos)",
+            "en": "Buzet Bus Station (Bottom)"
+          },
+          "coords": [
+            13.963,
+            45.4015
+          ],
+          "category": "port",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Sammelpunkt für regionale Busse.",
+            "hu": "Regionális buszok gyűjtőpontja.",
+            "ro": "Punct de legătură pentru autobuze regionale.",
+            "en": "Hub for regional buses."
+          }
+        },
+        {
+          "name": {
+            "de": "Altstadtplatz",
+            "hu": "Óváros tér",
+            "ro": "Piața Orașului Vechi",
+            "en": "Old Town Square"
+          },
+          "coords": [
+            13.9665,
+            45.4085
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Der lokale Shuttle fährt unregelmäßig, Taxi ist oft besser.",
+            "hu": "A helyi járat rendszertelen, a taxi gyakran jobb.",
+            "ro": "Microbuzul local e neregulat, taxiul e adesea mai bun.",
+            "en": "The local shuttle is irregular, a taxi is often better."
+          }
+        },
+        {
+          "name": {
+            "de": "Heimatmuseum Buzet",
+            "hu": "Buzeti Helytörténeti Múzeum",
+            "ro": "Muzeul de Istorie Locală",
+            "en": "Buzet Heritage Museum"
+          },
+          "coords": [
+            13.9668,
+            45.4088
+          ],
+          "category": "museums",
+          "arrive_at": "11:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Hervorragende Sammlung in einem alten Palast.",
+            "hu": "Kiváló gyűjtemény egy régi palotában.",
+            "ro": "Colecție excelentă într-un palat vechi.",
+            "en": "Excellent collection in an old palace."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt ins Mirna-Tal",
+            "hu": "Kilátó a Mirna-völgyre",
+            "ro": "Belvedere Valea Mirnei",
+            "en": "Mirna Valley Viewpoint"
+          },
+          "coords": [
+            13.9675,
+            45.4095
+          ],
+          "category": "natural features",
+          "arrive_at": "12:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Blick auf den Trüffelwald von oben.",
+            "hu": "Kilátás a szarvasgomba-erdőre felülről.",
+            "ro": "Vedere asupra pădurii de trufe de sus.",
+            "en": "View of the truffle forest from above."
+          }
+        },
+        {
+          "name": {
+            "de": "Fonticus-Palast",
+            "hu": "Fonticus-palota",
+            "ro": "Palatul Fonticus",
+            "en": "Fonticus Palace"
+          },
+          "coords": [
+            13.9666,
+            45.4086
+          ],
+          "category": "famous residences",
+          "arrive_at": "14:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Kulturzentrum der Stadt.",
+            "hu": "A város kulturális központja.",
+            "ro": "Centrul cultural al orașului.",
+            "en": "The city's cultural center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Buzet mit öffentlichen Verkehrsmitteln zu erkunden, erfordert etwas Planung, belohnt aber mit authentischen Eindrücken. Von der zentralen Bushaltestelle im modernen Teil der Stadt geht es hinauf in die mittelalterliche Festung.\n\nBesuchen Sie das preisgekrönte Museum und schlendern Sie durch die engen Gassen, die im Sommer angenehm kühl bleiben.\n\nDer Tag steht ganz im Zeichen der Geschichte und der Gastronomie, die in der Altstadt an jeder Ecke spürbar ist.\n\nEin entspannter Weg, um die Atmosphäre der 'Stadt der Trüffel' ohne Parkplatzsuche zu genießen.",
+        "hu": "Buzet felfedezése tömegközlekedéssel némi tervezést igényel, de hiteles élményekkel jutalmaz. A város modern részén található központi buszmegállóból vezet az út fel a középkori erődbe.\n\nLátogasson el a díjnyertes múzeumba, és sétáljon a szűk utcákon, amelyek nyáron is kellemesen hűvösek maradnak.\n\nA nap a történelemről és a gasztronómiáról szól, amely az óváros minden sarkában érezhető.\n\nKényelmes módja annak, hogy parkolási gondok nélkül élvezze a 'szarvasgomba városa' hangulatát.",
+        "ro": "Explorarea orașului Buzet cu transportul public necesită puțină planificare, dar oferă experiențe autentice. De la autogara centrală din partea modernă a orașului, drumul duce sus spre cetatea medievală.\n\nVizitați muzeul premiat și plimbați-vă pe străzile înguste, care rămân plăcut răcoroase vara.\n\nZiua este dedicată istoriei și gastronomiei, prezente la fiecare pas în orașul vechi.\n\nO modalitate relaxată de a savura atmosfera 'orașului trufelor' fără grija parcării.",
+        "en": "Exploring Buzet by public transport requires some planning but rewards you with authentic impressions. From the central bus station in the modern part of town, the path leads up to the medieval fortress.\n\nVisit the award-winning museum and stroll through the narrow streets that remain pleasantly cool in summer.\n\nThe day is focused on history and gastronomy, which can be felt on every corner of the old town.\n\nA relaxed way to enjoy the atmosphere of the 'City of Truffles' without worrying about parking."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Trüffel-Käse",
+            "tip": "Perfekt als kleiner Snack zwischendurch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szarvasgombás sajt",
+            "tip": "Tökéletes kis snack két látnivaló között."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brânză cu trufe",
+            "tip": "Gustarea perfectă între vizite."
+          }
+        ],
+        "en": [
+          {
+            "name": "Truffle Cheese",
+            "tip": "Perfect as a small snack between sights."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Altstadt-Gassen",
+            "tip": "Versteckte Ecken abseits der Hauptroute.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Óvárosi sikátorok",
+            "tip": "Rejtett zugok a főútvonalon kívül.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ulițele orașului vechi",
+            "tip": "Colțuri ascunse departe de traseul principal.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Old Town Alleys",
+            "tip": "Hidden corners away from the main route.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Honig",
+            "tip": "Spezialität aus der Region Buzet."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi méz",
+            "tip": "A buzeti régió különlegessége."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miere locală",
+            "tip": "Specialitate din regiunea Buzet."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Honey",
+            "tip": "Specialty from the Buzet region."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Busverbindungen nach Rijeka oder Pula sind besser als die lokalen Stadtbusse.",
+          "Nutzen Sie lokale Taxis für den kurzen, steilen Weg in die Altstadt.",
+          "Prüfen Sie den Fahrplan der Istrischen Eisenbahn im Tal."
+        ],
+        "hu": [
+          "A Fiume vagy Póla felé közlekedő buszok sűrűbbek, mint a helyi járatok.",
+          "Vegyen igénybe helyi taxit az óvárosba vezető rövid, de meredek úthoz.",
+          "Nézze meg az isztriai vasút menetrendjét a völgyben."
+        ],
+        "ro": [
+          "Legăturile de autobuz spre Rijeka sau Pula sunt mai bune decât transportul local.",
+          "Folosiți taxiuri locale pentru drumul scurt și abrupt spre orașul vechi.",
+          "Verificați mersul trenurilor pentru calea ferată istriana din vale."
+        ],
+        "en": [
+          "Bus connections to Rijeka or Pula are more frequent than local town buses.",
+          "Use local taxis for the short, steep trip to the old town.",
+          "Check the schedule for the Istrian railway in the valley."
+        ]
+      }
+    }
+  }
+}

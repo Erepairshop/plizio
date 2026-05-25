@@ -78,3 +78,48 @@ A multi4 prompt elején `## WIKIPEDIA KONTEXTUS` blokk van, POI-nkénti faktikus
 - Plizio repo: `C:/Users/User/plizio-repo` (Next.js, SEO, POI). PunktePass repo (`punktepass-code`) MÁSIK projekt — ne keverd.
 - POI fájlok: `lib/visualLab/data/*Poi.ts`, `poiExtra*V2.ts`
 - Új fájlnál: vedd fel `allCountryPois.ts`-be (`import` + spread `...xxxAllPoi,`).
+
+## PLIZIOGO BATCH TASKOK — Flash kritikus szabályok (2026-05-24 tanulság)
+
+A HR-49 + HR-v2 PlizioGo content-generálásból összegyűlt hibák ami **TILOS** a jövőben:
+
+### JSON SYNTAX (parser-killer)
+
+1. **`)` `}` helyett**: Ha objektum-záráshoz érsz, MINDIG `}` — NEM `)`. Példa hiba: `"en": "Krka NP (Lozovac)" )` ← `)` után `}` jön. Ha a string-érték `(zárójellel)` végződik, a következő karakter `,` vagy `}`, **soha nem `)`**.
+2. **Apostrof string-ben**: `"d'Antibes"` OK, `'d\'Antibes'` TILOS. Mindig double-quote.
+3. **Trailing comma**: JSON-ban TILOS `,` az utolsó elem után objektumban/array-ben. `{a:1, b:2}` ✅ NEM `{a:1, b:2,}`.
+4. **Control chars stringekben**: NE rakj raw `\n` `\t` `\r`-t a string-be — ha sortörés kell, escape-eld `\n`-re vagy szabd át a szöveget egy mondatra.
+
+### BATCH MÉRET
+
+- **PlizioGo tourist-content multi-POI batch**: max 5 POI/batch, **ideális 3-4 POI/batch**. 5+ POI esetén Flash gyakran truncate-li a végén levő POI-kat, vagy syntax-hibára fut.
+- **Itinerary content (4 mode × 5 lang)**: Tier-1 hot = **1 POI/batch**, Tier-2/3 = max 2 POI/batch.
+- **Output cap kockázat**: ha output > 25K token, vakon összerakja; bonts kisebbre.
+
+### ID FORMATUM
+
+- **NE adj prefix-et** a megadott ID-nek. Ha promptban `id: cavtat` van, az output-ban is `"id": "cavtat"` legyen — NEM `"hr-cavtat"`. A parent-régió-kódot KÜLÖN mező (`parent: "HR-19"`).
+- **Bare slug** (`cavtat`, `dubrovnik`, `mali-ston`) — kebab-case, ország-prefix NÉLKÜL.
+
+### TOOL CALL TILALOM
+
+- **NO grep, NO web search, NO Python, NO shell, NO file read** — a PlizioGo prompt-ok ÖNÁLLÓAN minden infót megadnak. NE indíts GrepLogic / web_fetch / web_search tool-t.
+- **AbortError észlelés**: ha a Flash önmagát "GrepLogic" tool-call-ra váltja, NE folytasd — a feladat tiszta szöveg-generálás.
+
+### MULTI-POI BATCH OUTPUT FORMÁTUM
+
+Mindig keyed-by-id JSON top-level:
+```json
+{
+  "<city-id-1>": { "id": "<city-id-1>", "type": "city", ... },
+  "<city-id-2>": { ... }
+}
+```
+NEM direkt POI obj a top-level-en (mert akkor a több POI elveszik a parser-ben).
+
+### LANG MEZŐK PER COUNTRY
+
+- **HR-tourist**: 4 lang (de/hu/ro/en). NEM 5 (FR kihagyva).
+- **FR-tourist**: 5 lang (de/hu/ro/en + fr).
+- **DE-tourist**: 5 lang (de/hu/ro/en + tr).
+- Ha a prompt csak 4 nyelvet kér, NE adj 5-iket.

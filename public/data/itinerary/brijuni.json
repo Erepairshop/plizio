@@ -1,0 +1,1004 @@
+{
+  "city_id": "brijuni",
+  "anchor": {
+    "name": "Brijuni National Park",
+    "coords": [
+      13.7553,
+      44.9133
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 4.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Tito-Museum",
+            "hu": "Tito Múzeum",
+            "ro": "Muzeul Tito",
+            "en": "Tito Museum"
+          },
+          "coords": [
+            13.762,
+            44.923
+          ],
+          "category": "museums",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Fotoausstellung 'Tito auf Brioni'.",
+            "hu": "Nézze meg a 'Tito Brioni-szigetén' fotókiállítást.",
+            "ro": "Vizitați expoziția foto 'Tito pe Brioni'.",
+            "en": "Visit the 'Tito on Brijuni' photo exhibition."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittelmeer-Garten",
+            "hu": "Mediterrán kert",
+            "ro": "Grădina Mediteraneană",
+            "en": "Mediterranean Garden"
+          },
+          "coords": [
+            13.763,
+            44.921
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:55",
+          "stay_min": 120,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein idealer Ort, um die lokale Flora zu bewundern.",
+            "hu": "Ideális hely a helyi flóra megcsodálásához.",
+            "ro": "Un loc ideal pentru a admira flora locală.",
+            "en": "An ideal place to admire the local flora."
+          }
+        },
+        {
+          "name": {
+            "de": "Alter Olivenbaum",
+            "hu": "Öreg olajfa",
+            "ro": "Măslinul străvechi",
+            "en": "Old Olive Tree"
+          },
+          "coords": [
+            13.765,
+            44.919
+          ],
+          "category": "natural features",
+          "arrive_at": "13:05",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Dieser Baum ist über 1600 Jahre alt.",
+            "hu": "Ez a fa több mint 1600 éves.",
+            "ro": "Acest copac are o vechime de peste 1600 de ani.",
+            "en": "This tree is over 1600 years old."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilika der Heiligen Maria",
+            "hu": "Szent Mária-bazilika",
+            "ro": "Bazilica Sfânta Maria",
+            "en": "Basilica of Saint Mary"
+          },
+          "coords": [
+            13.755,
+            44.917
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:55",
+          "stay_min": 50,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ruinen einer dreischiffigen christlichen Basilika.",
+            "hu": "Egy háromhajós keresztény bazilika romjai.",
+            "ro": "Ruinele unei bazilici creștine cu trei nave.",
+            "en": "Ruins of a three-aisled Christian basilica."
+          }
+        },
+        {
+          "name": {
+            "de": "Byzantinisches Kastrum",
+            "hu": "Bizánci kasztrum",
+            "ro": "Castrul Bizantin",
+            "en": "Byzantine Castrum"
+          },
+          "coords": [
+            13.753,
+            44.917
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Überreste der befestigten Siedlung.",
+            "hu": "Fedezze fel a megerődített település maradványait.",
+            "ro": "Descoperiți rămășițele așezării fortificate.",
+            "en": "Explore the remains of the fortified settlement."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens tauchen Sie im Tito-Museum in die Geschichte ein. Mittags genießen Sie die Ruhe im mediterranen Garten und besuchen den 1600 Jahre alten Olivenbaum. Am Nachmittag erkunden Sie die sakralen Ruinen der Marienbasilika. Den Abend lassen Sie zwischen den Mauern des byzantinischen Kastrums ausklingen, während die Sonne langsam über der Adria versinkt.",
+        "hu": "Reggel a Tito-múzeumban merülhet el a történelemben. Délben a mediterrán kert nyugalmát élvezheti, és meglátogathatja az 1600 éves olajfát. Délután a Szent Mária-bazilika szakrális romjait fedezheti fel. Az estét a bizánci kasztrum falai között zárhatja, miközben a nap lassan lebukik az Adria felett.",
+        "ro": "Dimineața, vă scufundați în istorie la Muzeul Tito. La prânz, vă bucurați de liniștea grădinii mediteraneene și vizitați măslinul vechi de 1600 de ani. După-amiaza, explorați ruinele sacre ale Bazilicii Sfânta Maria. Seara se încheie printre zidurile castrului bizantin, în timp ce soarele apune încet peste Marea Adriatică.",
+        "en": "In the morning, immerse yourself in history at the Tito Museum. At midday, enjoy the tranquility of the Mediterranean garden and visit the 1600-year-old olive tree. In the afternoon, explore the sacred ruins of St. Mary's Basilica. The evening ends among the walls of the Byzantine Castrum as the sun slowly sets over the Adriatic."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant Galija",
+            "tip": "Probieren Sie frische Meeresfrüchte direkt am Hafen."
+          },
+          {
+            "name": "Istrische Trüffelpasta",
+            "tip": "Eine lokale Delikatesse, oft in den Hotelrestaurants serviert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Galija Étterem",
+            "tip": "Kóstolja meg a friss tenger gyümölcseit közvetlenül a kikötőben."
+          },
+          {
+            "name": "Isztriai szarvasgombás tészta",
+            "tip": "Helyi különlegesség, gyakran a szállodai éttermekben kínálják."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant Galija",
+            "tip": "Încercați fructe de mare proaspete chiar în port."
+          },
+          {
+            "name": "Paste cu trufe istriene",
+            "tip": "O delicatesă locală, servită adesea în restaurantele hotelurilor."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant Galija",
+            "tip": "Try fresh seafood right at the harbor."
+          },
+          {
+            "name": "Istrian Truffle Pasta",
+            "tip": "A local delicacy often served in the hotel restaurants."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Uferpromenade",
+            "tip": "Ein ruhiger Spaziergang am Meer.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Alter Olivenbaum",
+            "tip": "Ein Ort der Stille unter uralten Zweigen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parti sétány",
+            "tip": "Csendes séta a tengerparton.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Öreg olajfa",
+            "tip": "A nyugalom helye az ősi ágak alatt.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Promenada de la malul mării",
+            "tip": "O plimbare liniștită pe malul mării.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Măslinul străvechi",
+            "tip": "Un loc de liniște sub ramuri milenare.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Seaside Promenade",
+            "tip": "A quiet walk along the sea.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Old Olive Tree",
+            "tip": "A place of silence under ancient branches.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirshop im Hafen",
+            "tip": "Brijuni-Naturkosmetik und Postkarten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kikötői ajándékbolt",
+            "tip": "Brijuni natúrkozmetikumok és képeslapok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de suveniruri din port",
+            "tip": "Cosmetice naturale Brijuni și cărți poștale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Harbor Souvenir Shop",
+            "tip": "Brijuni natural cosmetics and postcards."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Buchen Sie die Fähre von Fažana im Voraus.",
+          "Tragen Sie bequeme Wanderschuhe.",
+          "Nehmen Sie ausreichend Wasser mit.",
+          "Beachten Sie die Fahrzeiten der letzten Fähre."
+        ],
+        "hu": [
+          "Foglalja le előre a kompot Fažanából.",
+          "Viseljen kényelmes gyaloglócipőt.",
+          "Vigyen magával elegendő vizet.",
+          "Ügyeljen az utolsó komp indulási idejére."
+        ],
+        "ro": [
+          "Rezervați ferry-ul din Fažana în avans.",
+          "Purtați pantofi de mers confortabili.",
+          "Luați suficientă apă cu voi.",
+          "Fiți atenți la ora de plecare a ultimului ferry."
+        ],
+        "en": [
+          "Book the ferry from Fažana in advance.",
+          "Wear comfortable walking shoes.",
+          "Take plenty of water with you.",
+          "Pay attention to the last ferry departure time."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 11.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Alter Olivenbaum",
+            "hu": "Öreg olajfa",
+            "ro": "Măslinul străvechi",
+            "en": "Old Olive Tree"
+          },
+          "coords": [
+            13.765,
+            44.919
+          ],
+          "category": "natural features",
+          "arrive_at": "09:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein Muss für Naturfotografen.",
+            "hu": "Természetfotósoknak kötelező látnivaló.",
+            "ro": "O necesitate pentru fotografii de natură.",
+            "en": "A must-see for nature photographers."
+          }
+        },
+        {
+          "name": {
+            "de": "Römische Villa in der Verige-Bucht",
+            "hu": "Római villa a Verige-öbölben",
+            "ro": "Vila romană din golful Verige",
+            "en": "Roman Villa in Verige Bay"
+          },
+          "coords": [
+            13.771,
+            44.913
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Beeindruckende Mosaike direkt am Wasser.",
+            "hu": "Lenyűgöző mozaikok közvetlenül a vízparton.",
+            "ro": "Mozaicuri impresionante chiar lângă apă.",
+            "en": "Impressive mosaics right by the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilika der Heiligen Maria",
+            "hu": "Szent Mária-bazilika",
+            "ro": "Bazilica Sfânta Maria",
+            "en": "Basilica of Saint Mary"
+          },
+          "coords": [
+            13.755,
+            44.917
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:35",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie die byzantinischen Ruinen.",
+            "hu": "Fedezze fel a bizánci romokat.",
+            "ro": "Explorați ruinele bizantine.",
+            "en": "Explore the Byzantine ruins."
+          }
+        },
+        {
+          "name": {
+            "de": "Safari-Park",
+            "hu": "Szafari park",
+            "ro": "Safari Park",
+            "en": "Safari Park"
+          },
+          "coords": [
+            13.738,
+            44.938
+          ],
+          "category": "natural features",
+          "arrive_at": "12:55",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Sehen Sie Zebras, Lamas und den Elefanten Lanka.",
+            "hu": "Nézze meg a zebrákat, lámákat és Lanka elefántot.",
+            "ro": "Vedeți zebre, lame și elefantul Lanka.",
+            "en": "See zebras, llamas, and Lanka the elephant."
+          }
+        },
+        {
+          "name": {
+            "de": "Dinosaurier-Fußabdrücke",
+            "hu": "Dinoszaurusz lábnyomok",
+            "ro": "Urme de dinozauri",
+            "en": "Dinosaur Footprints"
+          },
+          "coords": [
+            13.732,
+            44.936
+          ],
+          "category": "natural features",
+          "arrive_at": "15:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Echte Kreidezeit-Spuren an der Küste.",
+            "hu": "Valódi kréta kori nyomok a parton.",
+            "ro": "Urme reale din perioada cretacică pe țărm.",
+            "en": "Real Cretaceous footprints on the shore."
+          }
+        },
+        {
+          "name": {
+            "de": "Tito-Museum",
+            "hu": "Tito Múzeum",
+            "ro": "Muzeul Tito",
+            "en": "Tito Museum"
+          },
+          "coords": [
+            13.762,
+            44.923
+          ],
+          "category": "museums",
+          "arrive_at": "16:15",
+          "stay_min": 50,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Kurzer Besuch der Hauptausstellung.",
+            "hu": "Rövid látogatás a fő kiállításon.",
+            "ro": "Scurtă vizită la expoziția principală.",
+            "en": "Short visit to the main exhibition."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Fahrrad erkunden Sie morgens die Küste bis zur römischen Villa. Mittags radeln Sie durch schattige Alleen zum Safari-Park im Norden. Nachmittags suchen Sie nach Dinosaurierspuren am Meeresufer. Zum Abschluss besuchen Sie das Museum im Hafenviertel, bevor Sie die Abendfähre zurück zum Festland nehmen.",
+        "hu": "Kerékpárral reggel a part mentén a római villáig tekerhet. Délben árnyas fasorokon keresztül jut el az északi szafari parkba. Délután dinoszaurusznyomokat kereshet a tengerparton. Végezetül látogasson el a kikötőnegyed múzeumába, mielőtt felszállna az esti kompra vissza a szárazföldre.",
+        "ro": "Cu bicicleta, explorați coasta dimineața până la vila romană. La prânz, pedalați prin alei umbrite către parcul safari din nord. După-amiaza, căutați urme de dinozauri pe malul mării. În final, vizitați muzeul din zona portului înainte de a lua ferry-ul de seară înapoi pe continent.",
+        "en": "By bike, explore the coast in the morning as far as the Roman villa. At midday, cycle through shaded avenues to the Safari Park in the north. In the afternoon, look for dinosaur footprints on the seashore. Finally, visit the museum in the harbor district before taking the evening ferry back to the mainland."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Brijuni Picknick",
+            "tip": "Mieten Sie ein Fahrrad mit Korb für ein Picknick."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Brijuni Piknik",
+            "tip": "Béreljen kosaras kerékpárt egy piknikhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Picnic Brijuni",
+            "tip": "Închiriați o bicicletă cu coș pentru un picnic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Brijuni Picnic",
+            "tip": "Rent a bike with a basket for a picnic."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Verige-Bucht",
+            "tip": "Ruhiger Badeplatz bei den Ruinen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Verige-öböl",
+            "tip": "Csendes fürdőhely a romoknál.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Golful Verige",
+            "tip": "Loc de scăldat liniștit lângă ruine.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Verige Bay",
+            "tip": "Quiet swimming spot near the ruins.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradverleih-Shop",
+            "tip": "Karten der Radwege erhältlich."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárkölcsönző bolt",
+            "tip": "Kerékpárút-térképek kaphatók."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul de închirieri biciclete",
+            "tip": "Hărți ale pistelor de biciclete disponibile."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Rental Shop",
+            "tip": "Bike path maps available."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie Fahrräder direkt am Hafen.",
+          "Die Wege sind größtenteils flach und gut befahrbar.",
+          "Vermeiden Sie das Radfahren in der prallen Mittagssonne.",
+          "Achten Sie auf Wildtiere, die den Weg kreuzen."
+        ],
+        "hu": [
+          "Béreljen kerékpárt közvetlenül a kikötőben.",
+          "Az utak többnyire síkok és jól járhatóak.",
+          "Kerülje a kerékpározást a déli tűző napon.",
+          "Ügyeljen az utat keresztező vadon élő állatokra."
+        ],
+        "ro": [
+          "Închiriați biciclete direct din port.",
+          "Traseele sunt în mare parte plate și ușor de parcurs.",
+          "Evitați mersul cu bicicleta în soarele arzător de la prânz.",
+          "Atenție la animalele sălbatice care traversează drumul."
+        ],
+        "en": [
+          "Rent bikes directly at the harbor.",
+          "The paths are mostly flat and easy to ride.",
+          "Avoid cycling in the blazing midday sun.",
+          "Watch out for wildlife crossing the path."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 14.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Archäologisches Museum",
+            "hu": "Régészeti Múzeum",
+            "ro": "Muzeul de Arheologie",
+            "en": "Archaeological Museum"
+          },
+          "coords": [
+            13.762,
+            44.922
+          ],
+          "category": "museums",
+          "arrive_at": "09:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "In einer venezianischen Zitadelle untergebracht.",
+            "hu": "Egy velencei citadellában található.",
+            "ro": "Găzduit într-o citadelă venețiană.",
+            "en": "Housed in a Venetian citadel."
+          }
+        },
+        {
+          "name": {
+            "de": "Römische Villa in der Verige-Bucht",
+            "hu": "Római villa a Verige-öbölben",
+            "ro": "Vila romană din golful Verige",
+            "en": "Roman Villa in Verige Bay"
+          },
+          "coords": [
+            13.771,
+            44.913
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Überreste einer luxuriösen Sommerresidenz.",
+            "hu": "Egy luxus nyári rezidencia maradványai.",
+            "ro": "Rămășițele unei reședințe de vară luxoase.",
+            "en": "Remains of a luxurious summer residence."
+          }
+        },
+        {
+          "name": {
+            "de": "Safari-Park",
+            "hu": "Szafari park",
+            "ro": "Safari Park",
+            "en": "Safari Park"
+          },
+          "coords": [
+            13.738,
+            44.938
+          ],
+          "category": "natural features",
+          "arrive_at": "12:45",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Fahren Sie vorsichtig durch das Gelände.",
+            "hu": "Vezessen óvatosan a területen keresztül.",
+            "ro": "Conduceți cu atenție prin teren.",
+            "en": "Drive carefully through the grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Dinosaurier-Fußabdrücke",
+            "hu": "Dinoszaurusz lábnyomok",
+            "ro": "Urme de dinozauri",
+            "en": "Dinosaur Footprints"
+          },
+          "coords": [
+            13.732,
+            44.936
+          ],
+          "category": "natural features",
+          "arrive_at": "14:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Einzigartige paläontologische Stätte.",
+            "hu": "Egyedülálló őslénytani lelőhely.",
+            "ro": "Sit paleontologic unic.",
+            "en": "Unique paleontological site."
+          }
+        },
+        {
+          "name": {
+            "de": "Tito-Museum",
+            "hu": "Tito Múzeum",
+            "ro": "Muzeul Tito",
+            "en": "Tito Museum"
+          },
+          "coords": [
+            13.762,
+            44.923
+          ],
+          "category": "museums",
+          "arrive_at": "15:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Abschluss der Inselrundfahrt.",
+            "hu": "A szigettúra lezárása.",
+            "ro": "Finalul turului insulei.",
+            "en": "End of the island tour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Elektro-Cart erkunden Sie bequem die Highlights. Beginnen Sie im Archäologischen Museum und fahren Sie dann zur Verige-Bucht. Der Mittag gehört den Tieren im Safari-Park und den Dinosaurierspuren im Norden. Beenden Sie den Tag im Tito-Museum, bevor Sie das Cart am Hafen zurückgeben.",
+        "hu": "Elektromos autóval kényelmesen fedezheti fel a látnivalókat. Kezdje a Régészeti Múzeumban, majd hajtson a Verige-öbölbe. A délidő a szafari park állataié és az északi dinoszaurusznyomoké. Zárja a napot a Tito-múzeumban, mielőtt visszaadná az autót a kikötőben.",
+        "ro": "Cu mașina electrică, explorați confortabil punctele de interes. Începeți la Muzeul de Arheologie și apoi conduceți către Golful Verige. Prânzul aparține animalelor din parcul safari și urmelor de dinozauri din nord. Încheiați ziua la Muzeul Tito înainte de a returna mașina în port.",
+        "en": "By electric cart, comfortably explore the highlights. Start at the Archaeological Museum and then drive to Verige Bay. Midday belongs to the animals in the Safari Park and the dinosaur footprints in the north. End the day at the Tito Museum before returning the cart at the harbor."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Hotel Neptun Restaurant",
+            "tip": "Elegantes Abendessen mit Blick auf den Hafen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hotel Neptun Étterem",
+            "tip": "Elegáns vacsora kilátással a kikötőre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurantul Hotelului Neptun",
+            "tip": "Cină elegantă cu vedere la port."
+          }
+        ],
+        "en": [
+          {
+            "name": "Hotel Neptun Restaurant",
+            "tip": "Elegant dinner with a view of the harbor."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Südküste",
+            "tip": "Ruhige Buchten abseits der Hauptwege.",
+            "emoji": "🌊"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Déli part",
+            "tip": "Csendes öblök a főutaktól távol.",
+            "emoji": "🌊"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Coasta de sud",
+            "tip": "Golfuri liniștite departe de drumurile principale.",
+            "emoji": "🌊"
+          }
+        ],
+        "en": [
+          {
+            "name": "South Coast",
+            "tip": "Quiet bays away from the main paths.",
+            "emoji": "🌊"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Golf-Shop",
+            "tip": "Brijuni-Sportbekleidung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Golf-bolt",
+            "tip": "Brijuni sportruházat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de golf",
+            "tip": "Îmbrăcăminte sport Brijuni."
+          }
+        ],
+        "en": [
+          {
+            "name": "Golf Shop",
+            "tip": "Brijuni sports apparel."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein Elektro-Cart (Golf-Cart) am Hafen.",
+          "Ein Führerschein ist erforderlich.",
+          "Die Carts haben eine begrenzte Reichweite.",
+          "Parken Sie nur an ausgewiesenen Stellen."
+        ],
+        "hu": [
+          "Béreljen elektromos autót (golfkocsit) a kikötőben.",
+          "Vezetői engedély szükséges.",
+          "Az autók hatótávolsága korlátozott.",
+          "Csak a kijelölt helyeken parkoljon."
+        ],
+        "ro": [
+          "Închiriați o mașină electrică (golf cart) din port.",
+          "Este necesar permis de conducere.",
+          "Mașinile au o autonomie limitată.",
+          "Parcați numai în locurile special amenajate."
+        ],
+        "en": [
+          "Rent an electric cart (golf cart) at the harbor.",
+          "A driver's license is required.",
+          "The carts have limited range.",
+          "Park only in designated areas."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:20",
+      "total_km": 10.0,
+      "stop_count": 4,
+      "stops": [
+        {
+          "name": {
+            "de": "Tito-Museum",
+            "hu": "Tito Múzeum",
+            "ro": "Muzeul Tito",
+            "en": "Tito Museum"
+          },
+          "coords": [
+            13.762,
+            44.923
+          ],
+          "category": "museums",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Startpunkt vieler geführter Touren.",
+            "hu": "Számos vezetett túra kiindulópontja.",
+            "ro": "Punctul de plecare pentru multe tururi ghidate.",
+            "en": "Starting point for many guided tours."
+          }
+        },
+        {
+          "name": {
+            "de": "Safari-Park",
+            "hu": "Szafari park",
+            "ro": "Safari Park",
+            "en": "Safari Park"
+          },
+          "coords": [
+            13.738,
+            44.938
+          ],
+          "category": "natural features",
+          "arrive_at": "11:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Halt mit dem Touristenzug direkt am Park.",
+            "hu": "Megálló a kisvonattal közvetlenül a parknál.",
+            "ro": "Oprire cu trenulețul turistic direct la parc.",
+            "en": "Stop with the tourist train directly at the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Römische Villa in der Verige-Bucht",
+            "hu": "Római villa a Verige-öbölben",
+            "ro": "Vila romană din golful Verige",
+            "en": "Roman Villa in Verige Bay"
+          },
+          "coords": [
+            13.771,
+            44.913
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Der Zug hält in der Nähe der Ausgrabungen.",
+            "hu": "A vonat az ásatások közelében áll meg.",
+            "ro": "Trenul oprește în apropierea săpăturilor.",
+            "en": "The train stops near the excavations."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologisches Museum",
+            "hu": "Régészeti Múzeum",
+            "ro": "Muzeul de Arheologie",
+            "en": "Archaeological Museum"
+          },
+          "coords": [
+            13.762,
+            44.922
+          ],
+          "category": "museums",
+          "arrive_at": "15:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Letzter Stopp vor der Rückfahrt zum Hafen.",
+            "hu": "Utolsó megálló a kikötőbe való visszatérés előtt.",
+            "ro": "Ultima oprire înainte de întoarcerea în port.",
+            "en": "Last stop before returning to the harbor."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Touristenzug bringt Sie bequem zu den wichtigsten Punkten. Nach dem Museumsbesuch am Morgen geht es zum Safari-Park. Mittags besichtigen Sie die römische Villa, bevor der Zug Sie zurück in den Hafenbereich bringt, wo Sie das archäologische Museum besichtigen können, bevor die Fähre ablegt.",
+        "hu": "A turistavonat kényelmesen elviszi a legfontosabb pontokhoz. A reggeli múzeumlátogatás után a szafari park következik. Délben megtekintheti a római villát, mielőtt a vonat visszaviszi a kikötőbe, ahol a komp indulása előtt megnézheti a régészeti múzeumot.",
+        "ro": "Trenulețul turistic vă duce confortabil la cele mai importante puncte. După vizita la muzeu de dimineață, mergeți la parcul safari. La prânz, vizitați vila romană înainte ca trenul să vă ducă înapoi în zona portului, unde puteți vizita muzeul de arheologie înainte de plecarea ferry-ului.",
+        "en": "The tourist train takes you comfortably to the most important points. After the museum visit in the morning, head to the Safari Park. At midday, visit the Roman villa before the train takes you back to the harbor area, where you can visit the archaeological museum before the ferry departs."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kiosk am Safari-Park",
+            "tip": "Snacks und Erfrischungen während der Zugpause."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szafari park büfé",
+            "tip": "Snackek és frissítők a vonatozás szünetében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșc la Safari Park",
+            "tip": "Gustări și băuturi răcoritoare în timpul pauzei trenului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Safari Park Kiosk",
+            "tip": "Snacks and refreshments during the train break."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Zugfahrt durch den Wald",
+            "tip": "Genießen Sie die Aussicht während der Fahrt.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vonatozás az erdőn át",
+            "tip": "Élvezze a kilátást utazás közben.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Călătoria cu trenul prin pădure",
+            "tip": "Bucurați-vă de priveliște în timpul călătoriei.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Train ride through the forest",
+            "tip": "Enjoy the view during the journey.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Informationszentrum",
+            "tip": "Offizielle Brijuni-Bücher und Führer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Információs központ",
+            "tip": "Hivatalos Brijuni könyvek és útmutatók."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul de informare",
+            "tip": "Cărți și ghiduri oficiale Brijuni."
+          }
+        ],
+        "en": [
+          {
+            "name": "Information Center",
+            "tip": "Official Brijuni books and guides."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Der Touristenzug ist im Nationalpark-Ticket enthalten.",
+          "Informieren Sie sich über die Abfahrtszeiten am Hafen.",
+          "Die Tour ist oft geführt (mehrsprachig).",
+          "Sichern Sie sich frühzeitig einen Platz im Zug."
+        ],
+        "hu": [
+          "A turistavonat benne van a nemzeti parki jegy árában.",
+          "Érdeklődjön az indulási időkről a kikötőben.",
+          "A túra gyakran többnyelvű idegenvezetéssel zajlik.",
+          "Biztosítsa időben a helyét a vonaton."
+        ],
+        "ro": [
+          "Trenulețul turistic este inclus în biletul pentru parcul național.",
+          "Informați-vă despre orele de plecare din port.",
+          "Turul este adesea ghidat (multilingv).",
+          "Asigurați-vă un loc în tren din timp."
+        ],
+        "en": [
+          "The tourist train is included in the national park ticket.",
+          "Check the departure times at the harbor.",
+          "The tour is often guided (multilingual).",
+          "Secure a seat on the train early."
+        ]
+      }
+    }
+  }
+}

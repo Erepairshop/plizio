@@ -1,0 +1,1105 @@
+{
+  "city_id": "hum",
+  "anchor": {
+    "name": "Hum",
+    "coords": [
+      14.05,
+      45.3506
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "15:45",
+      "total_km": 1.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Stadttor von Hum",
+            "hu": "Humi városkapu",
+            "ro": "Poarta orașului Hum",
+            "en": "Hum City Gate"
+          },
+          "coords": [
+            14.0492,
+            45.3492
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 35,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Betrachten Sie die bronzenen Türgriffe mit glagolitischen Inschriften.",
+            "hu": "Figyelje meg a bronz kilincseket glagolita feliratokkal.",
+            "ro": "Observați mânerele din bronz ale porții cu inscripții glagolitice.",
+            "en": "Notice the bronze door handles with Glagolitic inscriptions."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtloggia",
+            "hu": "Városi loggia",
+            "ro": "Loja orașului",
+            "en": "City Loggia"
+          },
+          "coords": [
+            14.0498,
+            45.3495
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:55",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Hier wird jedes Jahr der Gespan (Landrat) gewählt.",
+            "hu": "Itt választják meg minden évben a zsupánt (öljárót).",
+            "ro": "Aici este ales prefectul în fiecare an.",
+            "en": "This is where the prefect is elected every year."
+          }
+        },
+        {
+          "name": {
+            "de": "Städtischer Glockenturm",
+            "hu": "Városi harangtorony",
+            "ro": "Turnul clopotniță al orașului",
+            "en": "City Bell Tower"
+          },
+          "coords": [
+            14.0502,
+            45.3501
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Ein wehrhafter Turm, der einst zur Verteidigung diente.",
+            "hu": "Erődített torony, amely egykor védelmi célokat szolgált.",
+            "ro": "Un turn fortificat care a servit odinioară pentru apărare.",
+            "en": "A fortified tower that once served as a defense structure."
+          }
+        },
+        {
+          "name": {
+            "de": "Pfarrkirche Mariä Himmelfahrt",
+            "hu": "Mária mennybevétele plébániatemplom",
+            "ro": "Biserica parohială Adormirea Maicii Domnului",
+            "en": "Parish Church of the Assumption"
+          },
+          "coords": [
+            14.0505,
+            45.3503
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:25",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Barocke Kirche mit wertvollen Gemälden.",
+            "hu": "Barokk templom értékes festményekkel.",
+            "ro": "O biserică barocă cu picturi valoroase.",
+            "en": "A Baroque church containing valuable paintings."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum von Hum",
+            "hu": "Humi Múzeum",
+            "ro": "Muzeul din Hum",
+            "en": "Museum of Hum"
+          },
+          "coords": [
+            14.0508,
+            45.3505
+          ],
+          "category": "museums",
+          "arrive_at": "12:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über die Geschichte der glagolitischen Schrift.",
+            "hu": "Tudjon meg többet a glagolita írás történetéről.",
+            "ro": "Aflați mai multe despre istoria scrierii glagolitice.",
+            "en": "Learn more about the history of the Glagolitic script."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche des Heiligen Hieronymus",
+            "hu": "Szent Jeromos templom",
+            "ro": "Biserica Sfântul Ieronim",
+            "en": "Church of Saint Jerome"
+          },
+          "coords": [
+            14.0515,
+            45.3512
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Fresken aus dem 12. Jahrhundert auf dem Friedhof.",
+            "hu": "Csodálja meg a 12. századi freskókat a temetőben.",
+            "ro": "Admirați frescele din secolul al XII-lea din cimitir.",
+            "en": "Admire the 12th-century frescoes located in the cemetery."
+          }
+        },
+        {
+          "name": {
+            "de": "Aura Destillerie",
+            "hu": "Aura Lepárló",
+            "ro": "Distileria Aura",
+            "en": "Aura Distillery"
+          },
+          "coords": [
+            14.05,
+            45.35
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "15:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Verpassen Sie nicht die Verkostung des Biska-Schnapses.",
+            "hu": "Ne hagyja ki a biska pálinka kóstolását.",
+            "ro": "Nu ratați degustarea rachiului Biska.",
+            "en": "Don't miss a tasting of the Biska brandy."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Willkommen in der kleinsten Stadt der Welt! Wir betreten Hum durch das massive Stadttor und erkunden die mittelalterliche Loggia und den Glockenturm. Nach einem Besuch der barocken Pfarrkirche und des Museums spazieren wir zur Friedhofskirche des Heiligen Hieronymus mit ihren antiken Fresken. Den Nachmittag lassen wir bei einer Verkostung traditioneller Liköre in der Aura-Destillerie gemütlich ausklingen.",
+        "hu": "Isten hozta a világ legkisebb városában! A masszív városkapun át lépünk be Humba, majd felfedezzük a középkori loggiát és a harangtornyot. A barokk plébániatemplom és a múzeum megtekintése után elsétálunk a Szent Jeromos temetőkápolnához az ősi freskókért. A délutánt a hagyományos likőrök kóstolásával zárjuk az Aura lepárlóban.",
+        "ro": "Bun venit în cel mai mic oraș din lume! Intrăm în Hum prin poarta masivă a orașului și explorăm loja medievală și turnul clopotniță. După vizitarea bisericii parohiale baroce și a muzeului, ne plimbăm spre biserica Sfântul Ieronim din cimitir pentru frescele sale antice. După-amiaza se încheie plăcut cu o degustare de lichioruri tradiționale la distileria Aura.",
+        "en": "Welcome to the smallest town in the world! We enter Hum through the massive city gate and explore the medieval loggia and the bell tower. After visiting the Baroque parish church and the museum, we walk to the cemetery church of Saint Jerome with its ancient frescoes. The afternoon ends cozily with a tasting of traditional liqueurs at the Aura Distillery."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Biska",
+            "tip": "Ein berühmter Mistelschnaps, dessen Rezept aus Hum stammt."
+          },
+          {
+            "name": "Istrische Fuži",
+            "tip": "Hausgemachte Nudeln mit Trüffeln in der Humska Konoba."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Biska",
+            "tip": "Híres fagyöngypálinka, amelynek receptje Humból származik."
+          },
+          {
+            "name": "Isztriai fuži",
+            "tip": "Házi tészta szarvasgombával a Humska Konobában."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Biska",
+            "tip": "Un faimos rachiu de vâsc, a cărui rețetă provine din Hum."
+          },
+          {
+            "name": "Fuži istriene",
+            "tip": "Paste de casă cu trufe la Humska Konoba."
+          }
+        ],
+        "en": [
+          {
+            "name": "Biska",
+            "tip": "A famous mistletoe brandy whose recipe originated in Hum."
+          },
+          {
+            "name": "Istrian Fuži",
+            "tip": "Homemade pasta with truffles at the Humska Konoba."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Stadtmauer-Blick",
+            "tip": "Ruhiger Blick über das grüne Mirna-Tal.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sveti Jeronim Friedhof",
+            "tip": "Stiller Ort mit spiritueller Atmosphäre.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Városfal kilátás",
+            "tip": "Csendes kilátás a zöld Mirna-völgyre.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Szent Jeromos temető",
+            "tip": "Csendes hely spirituális atmoszférával.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vederea de pe ziduri",
+            "tip": "O vedere liniștită peste valea verde a râului Mirna.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cimitirul Sfântul Ieronim",
+            "tip": "Un loc tăcut cu o atmosferă spirituală.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "City Wall View",
+            "tip": "Quiet view over the green Mirna valley.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Saint Jerome Cemetery",
+            "tip": "A quiet spot with a spiritual atmosphere.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Trüffelprodukte",
+            "tip": "Isztrien ist das Land der Trüffel; kaufen Sie Öl oder Pasten."
+          },
+          {
+            "name": "Glagolitische Souvenirs",
+            "tip": "Kleine Steintafeln mit Ihren Initialen in alter Schrift."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szarvasgomba termékek",
+            "tip": "Isztria a szarvasgomba hazája; vegyen olajat vagy krémeket."
+          },
+          {
+            "name": "Glagolita emléktárgyak",
+            "tip": "Kis kőtáblák az Ön kezdőbetűivel az ősi írással."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Produse cu trufe",
+            "tip": "Istria este țara trufelor; cumpărați ulei sau paste."
+          },
+          {
+            "name": "Suveniruri glagolitice",
+            "tip": "Mici tăblițe de piatră cu inițialele tale în scrierea veche."
+          }
+        ],
+        "en": [
+          {
+            "name": "Truffle Products",
+            "tip": "Istria is the land of truffles; buy some oil or spreads."
+          },
+          {
+            "name": "Glagolitic Souvenirs",
+            "tip": "Small stone tablets with your initials in the ancient script."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Hum ist sehr klein, man kann alles in einer Stunde sehen, aber lassen Sie sich Zeit.",
+          "Parken Sie vor dem Stadttor auf dem großen Parkplatz.",
+          "Die beste Reisezeit ist der Frühling oder Herbst.",
+          "Probieren Sie die hausgemachte Suppe in der lokalen Konoba."
+        ],
+        "hu": [
+          "Hum nagyon kicsi, mindent láthat egy óra alatt, de ne siessen.",
+          "A városkapu előtt parkoljon a nagy parkolóban.",
+          "A legjobb látogatási idő a tavasz vagy az ősz.",
+          "Kóstolja meg a házi levest a helyi konobában."
+        ],
+        "ro": [
+          "Hum este foarte mic, puteți vedea totul într-o oră, dar nu vă grăbiți.",
+          "Parcați înainte de poarta orașului în parcarea mare.",
+          "Cea mai bună perioadă de vizitare este primăvara sau toamna.",
+          "Încercați supa de casă la konoba locală."
+        ],
+        "en": [
+          "Hum is very small, you can see everything in an hour, but take your time.",
+          "Park at the large parking lot before the city gate.",
+          "The best time to visit is spring or autumn.",
+          "Try the homemade soup at the local konoba."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "15:30",
+      "total_km": 14.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Glagolitische Allee",
+            "hu": "Glagolita sugárút",
+            "ro": "Aleea Glagolitică",
+            "en": "Glagolitic Alley"
+          },
+          "coords": [
+            14.035,
+            45.375
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Elf Denkmäler entlang der Straße von Roč nach Hum.",
+            "hu": "Tizenegy emlékmű a Roč és Hum közötti út mentén.",
+            "ro": "Unsprezece monumente de-a lungul drumului de la Roč la Hum.",
+            "en": "Eleven monuments along the road from Roč to Hum."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadttor von Hum",
+            "hu": "Humi városkapu",
+            "ro": "Poarta orașului Hum",
+            "en": "Hum City Gate"
+          },
+          "coords": [
+            14.0492,
+            45.3492
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:35",
+          "stay_min": 30,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Rad am Eingang ab.",
+            "hu": "Hagyja a kerékpárját a bejáratnál.",
+            "ro": "Lăsați bicicleta la intrare.",
+            "en": "Leave your bike at the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtloggia",
+            "hu": "Városi loggia",
+            "ro": "Loja orașului",
+            "en": "City Loggia"
+          },
+          "coords": [
+            14.0498,
+            45.3495
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Ein schattiger Platz für eine kurze Pause.",
+            "hu": "Árnyas hely egy rövid pihenőhöz.",
+            "ro": "Un loc umbros pentru o scurtă pauză.",
+            "en": "A shaded spot for a short break."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum von Hum",
+            "hu": "Humi Múzeum",
+            "ro": "Muzeul din Hum",
+            "en": "Museum of Hum"
+          },
+          "coords": [
+            14.0508,
+            45.3505
+          ],
+          "category": "museums",
+          "arrive_at": "12:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Kühl und informativ an heißen Tagen.",
+            "hu": "Hűvös és informatív a forró napokon.",
+            "ro": "Răcoros și informativ în zilele caniculare.",
+            "en": "Cool and informative on hot days."
+          }
+        },
+        {
+          "name": {
+            "de": "Aura Destillerie",
+            "hu": "Aura Lepárló",
+            "ro": "Distileria Aura",
+            "en": "Aura Distillery"
+          },
+          "coords": [
+            14.05,
+            45.35
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "13:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Kaufen Sie ein kleines Fläschchen für später.",
+            "hu": "Vegyen egy kis üveggel későbbre.",
+            "ro": "Cumpărați o sticluță pentru mai târziu.",
+            "en": "Buy a small bottle for later."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche des Heiligen Hieronymus",
+            "hu": "Szent Jeromos templom",
+            "ro": "Biserica Sfântul Ieronim",
+            "en": "Church of Saint Jerome"
+          },
+          "coords": [
+            14.0515,
+            45.3512
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein friedlicher Abschluss der Tour.",
+            "hu": "A túra békés lezárása.",
+            "ro": "Un final liniștit al turului.",
+            "en": "A peaceful conclusion to the tour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Radtour führt Sie durch die Geschichte der glagolitischen Schrift. Wir radeln entlang der Glagolitischen Allee mit ihren beeindruckenden Steinstatuen bis nach Hum. In der Stadt erkunden wir das Tor, die Loggia und das Museum. Nach einer Pause in der Aura-Destillerie besuchen wir die friedliche Hieronymus-Kirche, bevor wir die sanfte Abfahrt zurück genießen.",
+        "hu": "Ez a kerékpártúra végigvezet a glagolita írás történetén. A Glagolita sugárúton tekerünk az impozáns kőszobrok mellett egészen Humban. A városban felfedezzük a kaput, a loggiát és a múzeumot. Az Aura lepárlóban tartott pihenő után meglátogatjuk a békés Szent Jeromos templomot, majd élvezzük a lejtős visszautat.",
+        "ro": "Acest tur cu bicicleta vă poartă prin istoria scrierii glagolitice. Pedalăm de-a lungul Aleii Glagolitice cu statuile sale de piatră impresionante până la Hum. În oraș explorăm poarta, loja și muzeul. După o pauză la distileria Aura, vizităm biserica liniștită Sfântul Ieronim, înainte de a ne bucura de coborârea lină înapoi.",
+        "en": "This bike tour takes you through the history of the Glagolitic script. We cycle along the Glagolitic Alley with its impressive stone statues to Hum. In town, we explore the gate, the loggia, and the museum. After a break at the Aura Distillery, we visit the peaceful Saint Jerome Church before enjoying the gentle ride back."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Hausgemachter Käse",
+            "tip": "Probieren Sie Käse mit Trüffelstücken bei lokalen Produzenten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Házi sajt",
+            "tip": "Kóstolja meg a szarvasgombás sajtot a helyi termelőknél."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brânză de casă",
+            "tip": "Încercați brânza cu bucățele de trufe de la producătorii locali."
+          }
+        ],
+        "en": [
+          {
+            "name": "Homemade Cheese",
+            "tip": "Try cheese with truffle pieces from local producers."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Mirna-Tal-Blick",
+            "tip": "Ein herrlicher Panoramablick während der Fahrt.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mirna-völgyi kilátás",
+            "tip": "Pazar panoráma a tekerés közben.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vedere spre Valea Mirnei",
+            "tip": "O panoramă superbă în timpul mersului cu bicicleta.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Aleea Glagolitică",
+            "tip": "Liniște între câmpuri și statui.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Mirna Valley View",
+            "tip": "A wonderful panoramic view during the ride.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mispel-Likör",
+            "tip": "Eine Spezialität der Region Aura."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Naspolyalikőr",
+            "tip": "Az Aura régió különlegessége."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lichior de moșmon",
+            "tip": "O specialitate din regiunea Aura."
+          }
+        ],
+        "en": [
+          {
+            "name": "Medlar Liqueur",
+            "tip": "A specialty of the Aura distillery region."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Strecke ist hügelig, aber für durchschnittliche Radfahrer gut machbar.",
+          "Achten Sie auf den Autoverkehr auf der Allee.",
+          "Nehmen Sie sich Zeit für die Denkmäler am Wegesrand."
+        ],
+        "hu": [
+          "Az útvonal dombos, de átlagos kerékpárosoknak is teljesíthető.",
+          "Figyeljen az autóforgalomra a sugárúton.",
+          "Szánjon időt az út menti emlékművekre."
+        ],
+        "ro": [
+          "Traseul este deluros, dar accesibil bicicliștilor obișnuiți.",
+          "Atenție la traficul auto de pe alee.",
+          "Acordați-vă timp pentru monumentele de pe marginea drumului."
+        ],
+        "en": [
+          "The route is hilly but manageable for average cyclists.",
+          "Watch out for car traffic on the alley.",
+          "Take your time to explore the monuments along the way."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "15:15",
+      "total_km": 20.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kotli (Wasserfälle)",
+            "hu": "Kotli vízesések",
+            "ro": "Cascadele Kotli",
+            "en": "Kotli (Waterfalls)"
+          },
+          "coords": [
+            14.015,
+            45.365
+          ],
+          "category": "park/beach",
+          "arrive_at": "09:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Ein verlassenes Dorf mit natürlichen Felsenpools im Fluss.",
+            "hu": "Elhagyatott falu természetes sziklamedencékkel a folyóban.",
+            "ro": "Un sat părăsit cu piscine naturale în stâncă în albia râului.",
+            "en": "An abandoned village with natural rock pools in the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Glagolitische Allee",
+            "hu": "Glagolita sugárút",
+            "ro": "Aleea Glagolitică",
+            "en": "Glagolitic Alley"
+          },
+          "coords": [
+            14.035,
+            45.375
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:35",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Halten Sie an den wichtigsten Statuen für Fotos.",
+            "hu": "Álljon meg a legfontosabb szobroknál fotózni.",
+            "ro": "Opriți la cele mai importante statui pentru fotografii.",
+            "en": "Stop at the most important statues for photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadttor von Hum",
+            "hu": "Humi városkapu",
+            "ro": "Poarta orașului Hum",
+            "en": "Hum City Gate"
+          },
+          "coords": [
+            14.0492,
+            45.3492
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:40",
+          "stay_min": 30,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Parkplatz direkt am Stadteingang.",
+            "hu": "Parkoló közvetlenül a város bejáratánál.",
+            "ro": "Parcare chiar la intrarea în oraș.",
+            "en": "Parking is available right at the city entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Pfarrkirche Mariä Himmelfahrt",
+            "hu": "Mária mennybevétele plébániatemplom",
+            "ro": "Biserica parohială Adormirea Maicii Domnului",
+            "en": "Parish Church of the Assumption"
+          },
+          "coords": [
+            14.0505,
+            45.3503
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:20",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Besichtigung des prächtigen Interieurs.",
+            "hu": "A pompás belső tér megtekintése.",
+            "ro": "Vizitarea interiorului splendid.",
+            "en": "Visit the magnificent interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Aura Destillerie",
+            "hu": "Aura Lepárló",
+            "ro": "Distileria Aura",
+            "en": "Aura Distillery"
+          },
+          "coords": [
+            14.05,
+            45.35
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "13:45",
+          "stay_min": 50,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ideal für den Kauf von hochwertigen Geschenken.",
+            "hu": "Ideális minőségi ajándékok vásárlásához.",
+            "ro": "Ideal pentru cumpărarea unor cadouri de calitate.",
+            "en": "Ideal for buying high-quality gifts."
+          }
+        },
+        {
+          "name": {
+            "de": "Städtischer Glockenturm",
+            "hu": "Városi harangtorony",
+            "ro": "Turnul clopotniță al orașului",
+            "en": "City Bell Tower"
+          },
+          "coords": [
+            14.0502,
+            45.3501
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Ein letzter Blick über die Dächer von Hum.",
+            "hu": "Utolsó pillantás Hum háztetőire.",
+            "ro": "O ultimă privire peste acoperișurile din Hum.",
+            "en": "A final look over the rooftops of Hum."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden wir die versteckten Juwelen um Hum. Wir beginnen am malerischen Kotli mit seinen Wasserfällen, fahren dann die Glagolitische Allee entlang und erreichen Hum. Dort besichtigen wir das Stadttor, die prächtige Pfarrkirche und probieren lokale Spezialitäten in der Aura-Destillerie. Der Tag endet mit einem Blick vom historischen Glockenturm über die kleinste Stadt der Welt.",
+        "hu": "Autóval fedezzük fel Hum környékének rejtett gyöngyszemeit. A festői Kotliban kezdünk a vízeséseknél, majd a Glagolita sugárúton át érkezünk Humba. Itt megnézzük a városkaput, a pompás plébániatemplomot és megkóstoljuk a helyi különlegességeket az Aura lepárlóban. A nap a történelmi harangtoronyból nyíló kilátással zárul a világ legkisebb városára.",
+        "ro": "Cu mașina explorăm bijuteriile ascunse din jurul orașului Hum. Începem la pitorescul Kotli cu cascadele sale, apoi conducem pe Aleea Glagolitică până la Hum. Acolo vizităm poarta orașului, biserica parohială splendidă și degustăm specialități locale la distileria Aura. Ziua se încheie cu o vedere de la turnul clopotniță istoric peste cel mai mic oraș din lume.",
+        "en": "By car, we explore the hidden gems around Hum. We start at the picturesque Kotli with its waterfalls, then drive along the Glagolitic Alley to reach Hum. There, we visit the city gate, the magnificent parish church, and taste local specialties at the Aura Distillery. The day ends with a view from the historic bell tower over the smallest town in the world."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Hausgemachte Pasta",
+            "tip": "Probieren Sie Pljukanci in der Konoba in Kotli."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Házi tészta",
+            "tip": "Kóstolja meg a pljukancit a kotli konobában."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Paste de casă",
+            "tip": "Încercați pljukanci la konoba din Kotli."
+          }
+        ],
+        "en": [
+          {
+            "name": "Homemade Pasta",
+            "tip": "Try pljukanci at the konoba in Kotli."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kotli Flussufer",
+            "tip": "Sehr entspannend, wenn wenig Wasser fließt.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kotli folyópart",
+            "tip": "Nagyon megnyugtató, amikor kevés víz folyik.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul râului din Kotli",
+            "tip": "Foarte relaxant când debitul apei este mic.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Kotli Riverbank",
+            "tip": "Very relaxing when the water flow is gentle.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Istrische Weine",
+            "tip": "Malvazija und Teran sind die Stars der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Isztriai borok",
+            "tip": "A Malvazija és a Teran a régió sztárjai."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vinuri istriene",
+            "tip": "Malvazija și Teran sunt vedetele regiunii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Istrian Wines",
+            "tip": "Malvazija and Teran are the stars of the region."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Straße nach Kotli ist schmal und kurvig.",
+          "In Hum gibt es nur begrenzte Parkplätze im Inneren, nutzen Sie den äußeren Parkplatz.",
+          "Kombinieren Sie den Besuch mit einem Abstecher nach Roč."
+        ],
+        "hu": [
+          "A Kotliba vezető út keskeny és kanyargós.",
+          "Humban belül kevés a parkoló, használja a külső parkolót.",
+          "Kombinálja a látogatást egy kitérővel Roč felé."
+        ],
+        "ro": [
+          "Drumul spre Kotli este îngust și sinuos.",
+          "În Hum locurile de parcare interioare sunt limitate, folosiți parcarea exterioară.",
+          "Combinați vizita cu o oprire în Roč."
+        ],
+        "en": [
+          "The road to Kotli is narrow and winding.",
+          "Parking inside Hum is limited, so use the outer parking lot.",
+          "Combine your visit with a detour to the town of Roč."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "15:00",
+      "total_km": 10.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Roč Bahnhof/Zentrum",
+            "hu": "Roč állomás/központ",
+            "ro": "Gara/Centrul Roč",
+            "en": "Roč Station/Center"
+          },
+          "coords": [
+            14.048,
+            45.395
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Startpunkt für den Transport nach Hum.",
+            "hu": "Kiindulópont a Humba tartó közlekedéshez.",
+            "ro": "Punct de plecare pentru transportul spre Hum.",
+            "en": "Starting point for transportation to Hum."
+          }
+        },
+        {
+          "name": {
+            "de": "Glagolitische Allee",
+            "hu": "Glagolita sugárút",
+            "ro": "Aleea Glagolitică",
+            "en": "Glagolitic Alley"
+          },
+          "coords": [
+            14.035,
+            45.375
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Einige Busse halten direkt an den Monumenten.",
+            "hu": "Néhány busz közvetlenül az emlékműveknél is megáll.",
+            "ro": "Unele autobuze opresc chiar lângă monumente.",
+            "en": "Some buses stop directly at the monuments."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadttor von Hum",
+            "hu": "Humi városkapu",
+            "ro": "Poarta orașului Hum",
+            "en": "Hum City Gate"
+          },
+          "coords": [
+            14.0492,
+            45.3492
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:15",
+          "stay_min": 35,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Eingang zur mittelalterlichen Welt.",
+            "hu": "Bejárat a középkori világba.",
+            "ro": "Intrarea în lumea medievală.",
+            "en": "Entrance to the medieval world."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum von Hum",
+            "hu": "Humi Múzeum",
+            "ro": "Muzeul din Hum",
+            "en": "Museum of Hum"
+          },
+          "coords": [
+            14.0508,
+            45.3505
+          ],
+          "category": "museums",
+          "arrive_at": "12:05",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Ein Muss für Geschichtsinteressierte.",
+            "hu": "Történelemkedvelőknek kötelező látnivaló.",
+            "ro": "O necesitate pentru pasionații de istorie.",
+            "en": "A must-see for history buffs."
+          }
+        },
+        {
+          "name": {
+            "de": "Aura Destillerie",
+            "hu": "Aura Lepárló",
+            "ro": "Distileria Aura",
+            "en": "Aura Distillery"
+          },
+          "coords": [
+            14.05,
+            45.35
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "13:35",
+          "stay_min": 85,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Gemütlicher Ausklang vor der Rückfahrt.",
+            "hu": "Hangulatos zárás a visszautazás előtt.",
+            "ro": "O încheiere plăcută înainte de întoarcere.",
+            "en": "A cozy ending before your return journey."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Reisen Sie mit öffentlichen Verkehrsmitteln von Roč nach Hum. Nach dem Start im historischen Roč fahren wir entlang der Glagolitischen Allee und erreichen die Stadtmauern von Hum. Dort besichtigen wir das Tor und das Museum, bevor wir uns bei einer Verkostung in der Aura-Destillerie entspannen. Der Bus bringt uns bequem zurück zum Ausgangspunkt.",
+        "hu": "Utazzon tömegközlekedéssel Ročból Humba. A történelmi Ročból indulva a Glagolita sugárút mentén haladunk Hum városfalaihoz. Itt megnézzük a kaput és a múzeumot, majd egy kóstolóval lazítunk az Aura lepárlóban. A busz kényelmesen visszavisz minket a kiindulópontra.",
+        "ro": "Călătoriți cu mijloacele de transport public de la Roč la Hum. După plecarea din istoricul Roč, mergem de-a lungul Aleii Glagolitice și ajungem la zidurile orașului Hum. Acolo vizităm poarta și muzeul, înainte de a ne relaxa cu o degustare la distileria Aura. Autobuzul ne va duce confortabil înapoi la punctul de plecare.",
+        "en": "Travel by public transport from Roč to Hum. After starting in historic Roč, we travel along the Glagolitic Alley to reach the city walls of Hum. There, we visit the gate and the museum before relaxing with a tasting at the Aura Distillery. The bus will take us comfortably back to our starting point."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Biska Schokolade",
+            "tip": "Süßigkeiten mit dem Aroma des berühmten Schnapses."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Biska csokoládé",
+            "tip": "Édesség a híres pálinka aromájával."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ciocolată cu Biska",
+            "tip": "Dulciuri cu aroma faimosului rachiu."
+          }
+        ],
+        "en": [
+          {
+            "name": "Biska Chocolate",
+            "tip": "Sweets infused with the aroma of the famous brandy."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Hum-Garten",
+            "tip": "Kleine grüne Oasen zwischen den Steinhäusern.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Humi kertek",
+            "tip": "Kis zöld oázisok a kőházak között.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile din Hum",
+            "tip": "Mici oaze verzi între casele de piatră.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Hum Gardens",
+            "tip": "Small green oases nestled between the stone houses.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hausgemachte Marmelade",
+            "tip": "Aus wilden Früchten der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Házi lekvár",
+            "tip": "A régió vadgyümölcseiből készült."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gem de casă",
+            "tip": "Din fructe de pădure ale regiunii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Homemade Jam",
+            "tip": "Made from wild fruits found in the region."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Busse zwischen Roč und Hum verkehren seltener, prüfen Sie den Fahrplan.",
+          "In der Hochsaison gibt es oft Touristenshuttles.",
+          "Die Fahrt dauert nur etwa 10-15 Minuten."
+        ],
+        "hu": [
+          "A buszok Roč és Hum között ritkábban járnak, ellenőrizze a menetrendet.",
+          "Főszezonban gyakran járnak turista transzferbuszok.",
+          "Az út mindössze 10-15 percet vesz igénybe."
+        ],
+        "ro": [
+          "Autobuzele între Roč și Hum circulă mai rar, verificați orarul.",
+          "În plin sezon există adesea microbuze turistice.",
+          "Călătoria durează doar aproximativ 10-15 minute."
+        ],
+        "en": [
+          "Buses between Roč and Hum run infrequently, so check the schedule beforehand.",
+          "In high season, tourist shuttle buses are often available.",
+          "The trip takes only about 10-15 minutes."
+        ]
+      }
+    }
+  }
+}

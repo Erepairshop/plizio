@@ -1,0 +1,1077 @@
+{
+  "city_id": "vrsar",
+  "anchor": {
+    "name": "Vrsar",
+    "coords": [
+      13.6017,
+      45.1497
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 3.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Großes Stadttor",
+            "hu": "Nagy Városkapu",
+            "ro": "Poarta Mare a Orașului",
+            "en": "Great City Gate"
+          },
+          "coords": [
+            13.6025,
+            45.1505
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Achten Sie auf das Löwenrelief.",
+            "hu": "Keresse az oroszlános domborművet.",
+            "ro": "Căutați relieful cu leul venețian.",
+            "en": "Look for the Venetian lion relief."
+          }
+        },
+        {
+          "name": {
+            "de": "Pfarrkirche des Heiligen Martin",
+            "hu": "Szent Márton plébániatemplom",
+            "ro": "Biserica Sfântul Martin",
+            "en": "Parish Church of St. Martin"
+          },
+          "coords": [
+            13.6028,
+            45.1508
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:50",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Besteigen Sie den Glockenturm.",
+            "hu": "Másszon fel a harangtoronyba.",
+            "ro": "Urcați în turnul clopotniță.",
+            "en": "Climb the bell tower for views."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Vrsar",
+            "hu": "Vrsari kastély",
+            "ro": "Castelul Vrsar",
+            "en": "Vrsar Castle"
+          },
+          "coords": [
+            13.602,
+            45.1502
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Ehemalige Bischofsresidenz.",
+            "hu": "Az egykori püspöki rezidencia.",
+            "ro": "Fosta rezidență episcopală.",
+            "en": "Former summer residence of bishops."
+          }
+        },
+        {
+          "name": {
+            "de": "Casanova-Aussichtspunkt",
+            "hu": "Casanova-kilátópont",
+            "ro": "Punctul de belvedere Casanova",
+            "en": "Casanova Viewpoint"
+          },
+          "coords": [
+            13.601,
+            45.151
+          ],
+          "category": "natural features",
+          "arrive_at": "12:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Perfekt für ein Urlaubsfoto.",
+            "hu": "Tökéletes hely egy fotóhoz.",
+            "ro": "Locul ideal pentru fotografii.",
+            "en": "Perfect spot for a vacation photo."
+          }
+        },
+        {
+          "name": {
+            "de": "Uferpromenade Riva",
+            "hu": "Riva tengerparti sétány",
+            "ro": "Promenada Riva",
+            "en": "Riva Promenade"
+          },
+          "coords": [
+            13.5995,
+            45.149
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:20",
+          "stay_min": 120,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Genießen Sie frische Meeresfrüchte.",
+            "hu": "Kóstolja meg a friss tenger gyümölcseit.",
+            "ro": "Savurați fructe de mare proaspete.",
+            "en": "Enjoy fresh seafood here."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche der Heiligen Maria vom Meer",
+            "hu": "Tengeri Szent Mária-templom",
+            "ro": "Biserica Sfânta Maria a Mării",
+            "en": "Church of St. Mary of the Sea"
+          },
+          "coords": [
+            13.598,
+            45.148
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:30",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Wichtige romanische Architektur.",
+            "hu": "Fontos román stílusú épület.",
+            "ro": "Arhitectură romanică importantă.",
+            "en": "Important Romanesque architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Römischer Steinbruch Montraker",
+            "hu": "Római kori Montraker kőfejtő",
+            "ro": "Cariera romană Montraker",
+            "en": "Roman Quarry Montraker"
+          },
+          "coords": [
+            13.597,
+            45.146
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "16:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ort der Bildhauerschule.",
+            "hu": "A szobrásziskola helyszíne.",
+            "ro": "Locul școlii de sculptură.",
+            "en": "Site of the summer sculpture school."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen in der Altstadt von Vrsar, indem Sie durch das historische Stadttor schreiten und die majestätische St. Martin Kirche besuchen. Das Panorama vom Glockenturm bietet den besten Überblick über das Archipel.\n\nMittags erkunden Sie die Gassen rund um das Schloss und den Casanova-Aussichtspunkt, wo der berühmte Verführer einst verweilte. Genießen Sie die romantische Atmosphäre in den schattigen Winkeln.\n\nDer Nachmittag gehört der Riva. Schlendern Sie entlang der Fischerboote zur romanischen Marienkirche, einem Juwel direkt am Wasser. Hier spürt man die maritime Seele Istriens.\n\nZum Abschluss wandern Sie zum Montraker-Steinbruch. Die Verbindung aus Industriegeschichte und moderner Kunst im Sonnenuntergang bildet einen unvergesslichen Abschluss Ihres Tages.",
+        "hu": "Kezdje a reggelt Vrsar óvárosában, a történelmi városkapun át belépve a Szent Márton-templomhoz. A harangtoronyból nyíló panoráma a legjobb rálátást nyújtja a szigetvilágra.\n\nDélben fedezze fel a kastély körüli sikátorokat és a Casanova-kilátót, ahol a híres csábító egykor megszállt. Élvezze a romantikus hangulatot az árnyas kis utcákban.\n\nA délután a Riva sétányé. Sétáljon a halászhajók mentén a román stílusú Mária-templomhoz, amely közvetlenül a vízparton fekszik. Itt érezhető Isztria tengeri lelke.\n\nBefejezésül látogasson el a Montraker kőfejtőhöz. Az ipari történelem és a modern művészet találkozása a naplementében felejthetetlen zárása lesz a napnak.",
+        "ro": "Începeți dimineața în centrul vechi din Vrsar, intrând prin poarta istorică spre Biserica Sf. Martin. Panorama din turnul clopotniță oferă cea mai bună vedere asupra arhipelagului.\n\nLa prânz, explorați aleile din jurul castelului și punctul de belvedere Casanova, unde celebrul seducător a poposit odinioară. Bucurați-vă de atmosfera romantică în colțurile umbrite.\n\nDupă-amiaza aparține promenadei Riva. Plimbați-vă printre bărcile de pescuit până la biserica romanică Sf. Maria, o bijuterie chiar pe malul apei. Aici se simte sufletul maritim al Istriei.\n\nLa final, mergeți spre cariera Montraker. Combinația dintre istoria industrială și arta modernă sub lumina apusului formează o încheiere memorabilă a zilei.",
+        "en": "Start your morning in Vrsar's old town, passing through the historic gate to reach St. Martin's Church. The panorama from the bell tower offers the best view of the archipelago.\n\nAt midday, explore the alleys around the castle and the Casanova viewpoint, where the famous seducer once stayed. Enjoy the romantic atmosphere in the shaded corners.\n\nSpend the afternoon on the Riva promenade. Stroll past fishing boats to the Romanesque St. Mary's Church, a jewel right on the waterfront. Here you can feel the maritime soul of Istria.\n\nFinally, hike to the Montraker quarry. The blend of industrial history and modern art during sunset provides an unforgettable conclusion to your day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Konoba Trošt",
+            "tip": "Probieren Sie die hausgemachte Pasta mit Trüffeln direkt am Hafen."
+          },
+          {
+            "name": "Fisch am Rost",
+            "tip": "Frisch gefangene Sardinen sind eine lokale Spezialität."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Konoba Trošt",
+            "tip": "Kóstolja meg a házi tésztát szarvasgombával közvetlenül a kikötőben."
+          },
+          {
+            "name": "Sült hal",
+            "tip": "A frissen fogott szardínia helyi specialitás."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Konoba Trošt",
+            "tip": "Încercați pastele de casă cu trufe chiar în port."
+          },
+          {
+            "name": "Pește la grătar",
+            "tip": "Sardinele proaspăt prinse sunt o specialitate locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Konoba Trošt",
+            "tip": "Try the homemade pasta with truffles right in the harbor."
+          },
+          {
+            "name": "Grilled Fish",
+            "tip": "Freshly caught sardines are a local specialty."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Casanova Aussichtspunkt",
+            "tip": "Ruhiger Blick auf den Sonnenuntergang.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Montraker Klippen",
+            "tip": "Einsame Plätze zum Nachdenken.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Casanova-kilátó",
+            "tip": "Csendes panoráma a naplementére.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Montraker sziklák",
+            "tip": "Magányos helyek az elmélkedéshez.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Belvedere Casanova",
+            "tip": "Vedere liniștită spre apus.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Stâncile Montraker",
+            "tip": "Locuri izolate pentru relaxare.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Casanova Viewpoint",
+            "tip": "Quiet view of the sunset.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Montraker Cliffs",
+            "tip": "Lonely spots for reflection.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Honig",
+            "tip": "Kaufen Sie Salbeihonig direkt beim Erzeuger."
+          },
+          {
+            "name": "Olivenöl",
+            "tip": "Natives Öl aus den Hainen von Vrsar."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi méz",
+            "tip": "Vásároljon zsályamézet közvetlenül a termelőtől."
+          },
+          {
+            "name": "Olívaolaj",
+            "tip": "Vrsari ligetekből származó szűz olaj."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miere locală",
+            "tip": "Cumpărați miere de salvie direct de la producători."
+          },
+          {
+            "name": "Ulei de măsline",
+            "tip": "Ulei virgin din livezile din Vrsar."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Honey",
+            "tip": "Buy sage honey directly from producers."
+          },
+          {
+            "name": "Olive Oil",
+            "tip": "Virgin oil from the groves of Vrsar."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Vrsar ist sehr hügelig, tragen Sie bequeme Schuhe.",
+          "Die Parkplätze am Hafen sind im Sommer schnell belegt.",
+          "Besuchen Sie den Glockenturm früh am Morgen.",
+          "Nehmen Sie Badekleidung für einen Sprung ins Meer an der Riva mit."
+        ],
+        "hu": [
+          "Vrsar nagyon dombos, viseljen kényelmes cipőt.",
+          "A kikötői parkolók nyáron gyorsan betelnek.",
+          "Látogassa meg a harangtornyot kora reggel.",
+          "Vigyen fürdőruhát egy csobbanáshoz a Riva melletti strandon."
+        ],
+        "ro": [
+          "Vrsar este deluros, purtați încălțăminte confortabilă.",
+          "Parcările din port se ocupă rapid pe timpul verii.",
+          "Vizitați turnul clopotniță dimineața devreme.",
+          "Luați costumul de baie pentru o săritură în mare la Riva."
+        ],
+        "en": [
+          "Vrsar is very hilly, wear comfortable walking shoes.",
+          "Harbor parking fills up quickly during summer.",
+          "Visit the bell tower early in the morning for the best light.",
+          "Bring swimwear for a quick dip in the sea by the Riva."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "15:40",
+      "total_km": 8.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Skulpturenpark Dušan Džamonja",
+            "hu": "Dušan Džamonja szoborpark",
+            "ro": "Parcul de sculpturi Dušan Džamonja",
+            "en": "Dušan Džamonja Sculpture Park"
+          },
+          "coords": [
+            13.61,
+            45.14
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:20",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Monumentale abstrakte Kunst im Freien.",
+            "hu": "Monumentális absztrakt művészet a szabadban.",
+            "ro": "Artă abstractă monumentală în aer liber.",
+            "en": "Monumental abstract art in the open air."
+          }
+        },
+        {
+          "name": {
+            "de": "Römischer Steinbruch Montraker",
+            "hu": "Montraker kőfejtő",
+            "ro": "Cariera Montraker",
+            "en": "Montraker Quarry"
+          },
+          "coords": [
+            13.597,
+            45.146
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "11:05",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Fahren Sie vorsichtig auf den Schotterwegen.",
+            "hu": "Óvatosan hajtson a kavicsos utakon.",
+            "ro": "Conduceți cu atenție pe drumurile cu pietriș.",
+            "en": "Ride carefully on the gravel paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Uferpromenade Riva",
+            "hu": "Riva sétány",
+            "ro": "Promenada Riva",
+            "en": "Riva Promenade"
+          },
+          "coords": [
+            13.5995,
+            45.149
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:55",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Fahrradständer sind am Hafen vorhanden.",
+            "hu": "Kerékpártárolók a kikötőben találhatók.",
+            "ro": "Există suporturi de biciclete în port.",
+            "en": "Bike racks are available at the harbor."
+          }
+        },
+        {
+          "name": {
+            "de": "Casanova-Aussichtspunkt",
+            "hu": "Casanova-kilátó",
+            "ro": "Belvedere Casanova",
+            "en": "Casanova Viewpoint"
+          },
+          "coords": [
+            13.601,
+            45.151
+          ],
+          "category": "natural features",
+          "arrive_at": "13:35",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Steiler Anstieg, schieben Sie eventuell.",
+            "hu": "Meredek emelkedő, szükség esetén tolja.",
+            "ro": "Urcare abruptă, s-ar putea să împingeți.",
+            "en": "Steep climb, consider pushing the bike."
+          }
+        },
+        {
+          "name": {
+            "de": "Pfarrkirche des Heiligen Martin",
+            "hu": "Szent Márton-templom",
+            "ro": "Biserica Sf. Martin",
+            "en": "Church of St. Martin"
+          },
+          "coords": [
+            13.6028,
+            45.1508
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Höchster Punkt der Tour.",
+            "hu": "A túra legmagasabb pontja.",
+            "ro": "Cel mai înalt punct al turului.",
+            "en": "Highest point of the tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Großes Stadttor",
+            "hu": "Városkapu",
+            "ro": "Poarta orașului",
+            "en": "City Gate"
+          },
+          "coords": [
+            13.6025,
+            45.1505
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Einfahrt in die Fußgängerzone.",
+            "hu": "Belépés a gyalogos zónába.",
+            "ro": "Intrarea în zona pietonală.",
+            "en": "Entrance to the pedestrian zone."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour am südlichen Ende bei dem beeindruckenden Skulpturenpark von Dušan Džamonja. Die weiten Grünflächen bieten viel Platz zum Erkunden der Kunstwerke.\n\nFahren Sie entlang der Küste zurück zum Montraker-Steinbruch und weiter zur Riva, wo Sie eine wohlverdiente Mittagspause am Meer einlegen können.\n\nAm Nachmittag fordern Sie Ihre Waden mit dem Aufstieg in die Altstadt heraus. Belohnt werden Sie mit den besten Aussichten am Casanova-Punkt und der St. Martin Kirche.\n\nDie Tour endet mit einer gemütlichen Abfahrt durch das Stadttor zurück zum Ausgangspunkt.",
+        "hu": "Indítsa kerékpártúráját a déli szélen, Dušan Džamonja lenyűgöző szoborparkjánál. A tágas zöldfelületek bőséges helyet kínálnak a műalkotások felfedezéséhez.\n\nTekerjen vissza a part mentén a Montraker kőfejtőhöz, majd a Rivához, ahol megérdemelt ebédszünetet tarthat a tengernél.\n\nDélután tegye próbára lábait az óvárosba vezető emelkedővel. A jutalom a Casanova-pontnál és a Szent Márton-templomnál nyíló kilátás lesz.\n\nA túra a városkapun keresztül vezető kényelmes lejtmenettel ér véget.",
+        "ro": "Începeți turul cu bicicleta la extremitatea sudică, la impresionantul parc de sculpturi Dušan Džamonja. Spațiile verzi vaste oferă mult loc pentru explorarea operelor de artă.\n\nPedalați de-a lungul coastei înapoi spre cariera Montraker și apoi spre Riva, unde puteți lua o pauză de prânz binemeritată la malul mării.\n\nDupă-amiaza, provocați-vă picioarele cu urcarea în orașul vechi. Recompensa va fi cea mai bună priveliște de la punctul Casanova și Biserica Sf. Martin.\n\nTurul se încheie cu o coborâre relaxată prin poarta orașului înapoi la punctul de plecare.",
+        "en": "Start your bike tour at the southern end at the impressive Dušan Džamonja Sculpture Park. The vast green spaces provide plenty of room to explore the artworks.\n\nRide back along the coast to the Montraker quarry and then to the Riva, where you can take a well-deserved lunch break by the sea.\n\nIn the afternoon, challenge your legs with the climb into the old town. You will be rewarded with the best views at the Casanova point and St. Martin's Church.\n\nThe tour ends with a pleasant descent through the city gate back to the starting point."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant Goran",
+            "tip": "Rustikale istrische Küche abseits der Touristenpfade."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Restaurant Goran",
+            "tip": "Rusztikus isztriai konyha a turistaútvonalaktól távol."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant Goran",
+            "tip": "Bucătărie istriană rustică departe de căile turistice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant Goran",
+            "tip": "Rustic Istrian cuisine away from the main tourist paths."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Skulpturenpark",
+            "tip": "Weitläufig und ruhig am Morgen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szoborpark",
+            "tip": "Tágas és csendes a reggeli órákban.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul de sculpturi",
+            "tip": "Vast și liniștit dimineața.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sculpture Park",
+            "tip": "Spacious and quiet in the morning.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirshop Riva",
+            "tip": "Kleine Skulpturen aus istrischem Stein."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Riva ajándékbolt",
+            "tip": "Isztriai kőből készült kis szobrok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de suveniruri Riva",
+            "tip": "Mici sculpturi din piatră istriană."
+          }
+        ],
+        "en": [
+          {
+            "name": "Riva Souvenir Shop",
+            "tip": "Small sculptures made from Istrian stone."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie Ihre Bremsen vor den steilen Abfahrten in der Altstadt.",
+          "Die Küstenwege sind meist flach und ideal für Familien.",
+          "Tragen Sie bei Sonne ausreichend Schutz, da der Skulpturenpark wenig Schatten bietet."
+        ],
+        "hu": [
+          "Ellenőrizze a fékeket az óvárosi meredek lejtők előtt.",
+          "A parti utak többnyire laposak és ideálisak családoknak.",
+          "Napsütésben használjon fényvédőt, mert a szoborpark kevés árnyékot ad."
+        ],
+        "ro": [
+          "Verificați frânele înainte de coborârile abrupte din centrul vechi.",
+          "Traseele de coastă sunt în mare parte plate și ideale pentru familii.",
+          "Folosiți protecție solară, deoarece parcul de sculpturi oferă puțină umbră."
+        ],
+        "en": [
+          "Check your brakes before the steep descents in the old town.",
+          "The coastal paths are mostly flat and ideal for families.",
+          "Wear sun protection as the sculpture park has little shade."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "16:20",
+      "total_km": 15.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Skulpturenpark Dušan Džamonja",
+            "hu": "Dušan Džamonja szoborpark",
+            "ro": "Parcul de sculpturi Dušan Džamonja",
+            "en": "Dušan Džamonja Sculpture Park"
+          },
+          "coords": [
+            13.61,
+            45.14
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Kostenloser Parkplatz am Eingang.",
+            "hu": "Ingyenes parkoló a bejáratnál.",
+            "ro": "Parcare gratuită la intrare.",
+            "en": "Free parking at the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Lim Fjord Aussichtspunkt",
+            "hu": "Lim-fjord kilátó",
+            "ro": "Belvedere Lim Fjord",
+            "en": "Lim Fjord Lookout"
+          },
+          "coords": [
+            13.63,
+            45.13
+          ],
+          "category": "natural features",
+          "arrive_at": "11:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Spektakulärer Blick auf den Meeresarm.",
+            "hu": "Látványos kilátás a tengeröbölre.",
+            "ro": "Vedere spectaculoasă asupra fiordului.",
+            "en": "Spectacular view of the sea inlet."
+          }
+        },
+        {
+          "name": {
+            "de": "Altstadt Vrsar (St. Martin)",
+            "hu": "Vrsar óváros (Szent Márton)",
+            "ro": "Centrul vechi Vrsar (Sf. Martin)",
+            "en": "Vrsar Old Town (St. Martin)"
+          },
+          "coords": [
+            13.6028,
+            45.1508
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Parken Sie unterhalb der Altstadtmauern.",
+            "hu": "Parkoljon az óvárosi falak alatt.",
+            "ro": "Parcați sub zidurile cetății.",
+            "en": "Park below the old town walls."
+          }
+        },
+        {
+          "name": {
+            "de": "Uferpromenade Riva",
+            "hu": "Riva sétány",
+            "ro": "Promenada Riva",
+            "en": "Riva Promenade"
+          },
+          "coords": [
+            13.5995,
+            45.149
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ideal für einen Nachmittagskaffee.",
+            "hu": "Ideális egy délutáni kávéhoz.",
+            "ro": "Ideal pentru o cafea de după-amiază.",
+            "en": "Ideal for an afternoon coffee."
+          }
+        },
+        {
+          "name": {
+            "de": "Römischer Steinbruch Montraker",
+            "hu": "Montraker kőfejtő",
+            "ro": "Cariera Montraker",
+            "en": "Montraker Quarry"
+          },
+          "coords": [
+            13.597,
+            45.146
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "15:30",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Leicht erreichbar mit dem Auto.",
+            "hu": "Autóval könnyen megközelíthető.",
+            "ro": "Ușor accesibil cu mașina.",
+            "en": "Easily accessible by car."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erreichen Sie bequem die Highlights der Region. Beginnen Sie beim Skulpturenpark und fahren Sie dann zum nahegelegenen Lim Fjord für ein Panorama-Foto.\n\nMittags parken Sie nahe der Altstadt von Vrsar, um die St. Martin Kirche und die verwinkelten Gassen zu Fuß zu erkunden.\n\nDer Nachmittag lässt sich entspannt an der Riva ausklingen, bevor Sie zum Steinbruch Montraker fahren, der auch mit dem Fahrzeug gut zugänglich ist.\n\nDiese Tour kombiniert Kultur, Natur und komfortable Fortbewegung.",
+        "hu": "Autóval kényelmesen elérheti a régió fénypontjait. Kezdjen a szoborparknál, majd hajtson a közeli Lim-fjordhoz egy panorámás fotóért.\n\nDélben parkoljon Vrsar óvárosa közelében, hogy gyalog fedezze fel a Szent Márton-templomot és a kanyargós sikátorokat.\n\nA délután pihentetően zárulhat a Riván, mielőtt elhajtana a Montraker kőfejtőhöz, amely járművel is jól megközelíthető.\n\nEz a túra egyesíti a kultúrát, a természetet és a kényelmes közlekedést.",
+        "ro": "Cu mașina puteți ajunge ușor la atracțiile regiunii. Începeți la parcul de sculpturi, apoi conduceți spre Lim Fjord pentru o fotografie panoramică.\n\nLa prânz, parcați lângă centrul vechi din Vrsar pentru a explora pe jos Biserica Sf. Martin și străzile înguste.\n\nDupă-amiaza se poate încheia relaxat pe Riva, înainte de a merge la cariera Montraker, care este ușor accesibilă cu vehiculul.\n\nAcest tur combină cultura, natura și transportul confortabil.",
+        "en": "By car, you can easily reach the region's highlights. Start at the sculpture park, then drive to the nearby Lim Fjord for a panoramic photo.\n\nAt midday, park near Vrsar's old town to explore St. Martin's Church and the winding alleys on foot.\n\nFinish your afternoon at the Riva before driving to the Montraker quarry, which is also easily accessible by vehicle.\n\nThis tour combines culture, nature, and comfortable travel."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fancita",
+            "tip": "Hervorragende Fleischgerichte vom Grill."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fancita",
+            "tip": "Kiváló húsételek a grillről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fancita",
+            "tip": "Preparate din carne excelente la grătar."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fancita",
+            "tip": "Excellent grilled meat dishes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Lim Fjord",
+            "tip": "Natur pur und Stille am Wasser.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lim-fjord",
+            "tip": "Tiszta természet és csend a víznél.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lim Fjord",
+            "tip": "Natură pură și liniște pe apă.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lim Fjord",
+            "tip": "Pure nature and silence by the water.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Agrolaguna Shop",
+            "tip": "Lokaler Wein und Käse (kurze Fahrt)."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Agrolaguna Bolt",
+            "tip": "Helyi bor és sajt (rövid autóút)."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin Agrolaguna",
+            "tip": "Vin și brânză locală (scurtă călătorie)."
+          }
+        ],
+        "en": [
+          {
+            "name": "Agrolaguna Shop",
+            "tip": "Local wine and cheese (short drive)."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Achten Sie auf die Einbahnstraßen in der Unterstadt.",
+          "Nutzen Sie die Park-App, um Strafen zu vermeiden.",
+          "Die Fahrt zum Lim Fjord bietet tolle Aussichtspunkte am Straßenrand."
+        ],
+        "hu": [
+          "Ügyeljen az egyirányú utcákra az alsóvárosban.",
+          "Használja a parkolóalkalmazást a büntetések elkerülése érdekében.",
+          "A Lim-fjordhoz vezető út mentén remek kilátópontok vannak."
+        ],
+        "ro": [
+          "Atenție la străzile cu sens unic din orașul de jos.",
+          "Utilizați aplicația de parcare pentru a evita amenzile.",
+          "Drumul spre Lim Fjord oferă puncte de belvedere superbe pe marginea șoselei."
+        ],
+        "en": [
+          "Watch out for one-way streets in the lower town.",
+          "Use the parking app to avoid fines.",
+          "The drive to Lim Fjord offers great viewpoints along the roadside."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "15:55",
+      "total_km": 5.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Altstadt Vrsar",
+            "hu": "Vrsar óváros",
+            "ro": "Centrul vechi Vrsar",
+            "en": "Vrsar Old Town"
+          },
+          "coords": [
+            13.6025,
+            45.1505
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Zentrale Bushaltestelle in der Nähe.",
+            "hu": "Központi buszmegálló a közelben.",
+            "ro": "Stația centrală de autobuz în apropiere.",
+            "en": "Central bus stop nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Pfarrkirche des Heiligen Martin",
+            "hu": "Szent Márton-templom",
+            "ro": "Biserica Sf. Martin",
+            "en": "Church of St. Martin"
+          },
+          "coords": [
+            13.6028,
+            45.1508
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:25",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg von der Haltestelle bergauf.",
+            "hu": "Rövid gyalogút a megállótól felfelé.",
+            "ro": "Scurtă plimbare în urcare de la stație.",
+            "en": "Short walk uphill from the stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Uferpromenade Riva",
+            "hu": "Riva sétány",
+            "ro": "Promenada Riva",
+            "en": "Riva Promenade"
+          },
+          "coords": [
+            13.5995,
+            45.149
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:25",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Viele Restaurants für die Mittagspause.",
+            "hu": "Számos étterem az ebédszünethez.",
+            "ro": "Multe restaurante pentru masa de prânz.",
+            "en": "Many restaurants available for lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche der Heiligen Maria vom Meer",
+            "hu": "Tengeri Szent Mária-templom",
+            "ro": "Biserica Sf. Maria a Mării",
+            "en": "Church of St. Mary of the Sea"
+          },
+          "coords": [
+            13.598,
+            45.148
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Einfach zu Fuß von der Riva erreichbar.",
+            "hu": "Gyalogosan könnyen elérhető a Rivától.",
+            "ro": "Ușor accesibil pe jos de la Riva.",
+            "en": "Easily accessible on foot from the Riva."
+          }
+        },
+        {
+          "name": {
+            "de": "Römischer Steinbruch Montraker",
+            "hu": "Montraker kőfejtő",
+            "ro": "Cariera Montraker",
+            "en": "Montraker Quarry"
+          },
+          "coords": [
+            13.597,
+            45.146
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "15:05",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Der Busbahnhof ist von hier in 10 Min zu Fuß erreichbar.",
+            "hu": "A buszpályaudvar innen 10 perc alatt elérhető gyalog.",
+            "ro": "Autogara este la 10 minute de mers pe jos.",
+            "en": "The bus station is a 10-minute walk from here."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie den lokalen Bus, um das Zentrum von Vrsar zu erreichen. Starten Sie in der Altstadt und besichtigen Sie die prächtige St. Martin Kirche mit ihrem weiten Blick.\n\nMittags schlendern Sie bergab zur Riva. Hier pulsiert das Leben und die Anbindung an den regionalen Verkehr ist ideal.\n\nDer Nachmittag bietet Zeit für die romanische Marienkirche und den nahegelegenen Steinbruch Montraker, bevor Sie bequem vom Busbahnhof Ihre Rückreise antreten.\n\nEine entspannte Art, Vrsar ohne Parkplatzsorgen zu erleben.",
+        "hu": "Használja a helyi buszt Vrsar központjának eléréséhez. Kezdjen az óvárosban, és látogassa meg a pompás Szent Márton-templomot a pazar kilátással.\n\nDélben sétáljon lefelé a Rivához. Itt pezseg az élet, és a regionális közlekedési kapcsolatok ideálisak.\n\nA délután jut idő a román stílusú Mária-templomra és a közeli Montraker kőfejtőre, mielőtt kényelmesen elindulna a buszpályaudvarról.\n\nPihentető módja Vrsar felfedezésének parkolási gondok nélkül.",
+        "ro": "Folosiți autobuzul local pentru a ajunge în centrul orașului Vrsar. Începeți în orașul vechi și vizitați biserica Sf. Martin cu vederea sa panoramică.\n\nLa prânz, coborâți spre Riva. Aici viața pulsează, iar conexiunile cu transportul regional sunt ideale.\n\nDupă-amiaza oferă timp pentru biserica romanică Sf. Maria și cariera Montraker, înainte de a pleca confortabil din autogară.\n\nO modalitate relaxată de a experimenta Vrsar fără grija parcării.",
+        "en": "Use the local bus to reach the center of Vrsar. Start in the old town and visit the magnificent St. Martin's Church with its expansive views.\n\nAt midday, stroll downhill to the Riva. This is where life pulses, and regional transport connections are ideal.\n\nSpend the afternoon at the Romanesque St. Mary's Church and the nearby Montraker quarry before departing comfortably from the bus station.\n\nA relaxed way to experience Vrsar without parking worries."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bäckerei Vrsar",
+            "tip": "Frisches Burek für den kleinen Hunger zwischendurch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vrsari pékség",
+            "tip": "Friss burek gyors köztes étkezéshez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutăria Vrsar",
+            "tip": "Burek proaspăt pentru o gustare rapidă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Vrsar Bakery",
+            "tip": "Fresh burek for a quick snack between stops."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "St. Maria vom Meer",
+            "tip": "Stille in der romanischen Kapelle.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tengeri Szent Mária",
+            "tip": "Csend a román stílusú kápolnában.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sfânta Maria a Mării",
+            "tip": "Liniște în capela romanică.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "St. Mary of the Sea",
+            "tip": "Silence in the Romanesque chapel.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kiosk am Busbahnhof",
+            "tip": "Regionale Zeitschriften und Postkarten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Buszpályaudvari újságos",
+            "tip": "Regionális magazinok és képeslapok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșc la autogară",
+            "tip": "Reviste regionale și cărți poștale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bus Station Kiosk",
+            "tip": "Regional magazines and postcards."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Fahrplan für die Rückfahrt im Voraus.",
+          "Die Überlandbusse halten oft an der Hauptstraße oberhalb des Ortes.",
+          "Ein Ticketkauf im Bus ist meist möglich."
+        ],
+        "hu": [
+          "Előre ellenőrizze a visszautazási menetrendet.",
+          "A távolsági buszok gyakran a település feletti főúton állnak meg.",
+          "A jegyvásárlás általában lehetséges a buszon."
+        ],
+        "ro": [
+          "Verificați orarul pentru retur în avans.",
+          "Autobuzele interdigitale opresc adesea la drumul principal deasupra localității.",
+          "Cumpărarea biletului în autobuz este de obicei posibilă."
+        ],
+        "en": [
+          "Check the return schedule in advance.",
+          "Intercity buses often stop on the main road above the town.",
+          "Ticket purchase on the bus is usually possible."
+        ]
+      }
+    }
+  }
+}
