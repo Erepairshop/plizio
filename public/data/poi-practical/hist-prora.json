@@ -1,12 +1,57 @@
 {
-  "address": "Prora Ausbau, 18609 Binz (Rügen)",
-  "openingHours": "Mo-Su 10:00-18:00 (Dokumentationszentrum, saisonal variierend)",
-  "entranceFee": "6,00 € (Dokumentationszentrum), Außengelände frei",
+  "address": {
+    "de": "Prora Ausbau, 18609 Binz (Rügen)",
+    "hu": "Prora Ausbau, 18609 Binz (Rügen)",
+    "ro": "Prora Ausbau, 18609 Binz (Rügen)",
+    "en": "Prora Ausbau, 18609 Binz (Rügen)"
+  },
+  "openingHours": {
+    "de": "Mo-Su 10:00-18:00 (Dokumentationszentrum, saisonal variierend)",
+    "hu": "H-V 10:00-18:00 (Dokumentációs Központ, szezontól függően változhat)",
+    "ro": "Lu-Du 10:00-18:00 (Centrul de Documentare, variază sezonier)",
+    "en": "Mon-Sun 10:00-18:00 (Documentation Center, varies seasonally)"
+  },
+  "entranceFee": {
+    "de": "6,00 € (Dokumentationszentrum), Außengelände frei",
+    "hu": "6,00 € (Dokumentációs Központ), a kültéri rész ingyenes",
+    "ro": "6,00 € (Centrul de Documentare), acces exterior gratuit",
+    "en": "6.00 € (Documentation Center), outdoor grounds free"
+  },
   "website": "https://www.prora.eu",
-  "publicTransport": "S-Bahn/Regionalzug bis Bahnhof Prora oder Bus 20 ab Binz",
-  "parking": "Mehrere große kostenpflichtige Parkplätze entlang der Objektstraße (ca. 6€/Tag).",
-  "accessibility": "Dokumentationszentrum barrierefrei; Gelände am Strand teils sandig/uneben.",
-  "photoRules": "Fotografieren der Gebäudefronten erlaubt; im Museum eingeschränkt.",
-  "bestTimeToVisit": "Nebensaison für die beklemmende Wirkung der schieren Größe des Komplexes.",
-  "audioGuide": "nein"
+  "publicTransport": {
+    "de": "S-Bahn/Regionalzug bis Bahnhof Prora oder Bus 20 ab Binz",
+    "hu": "S-Bahn/regionális vonat Prora vasútállomásig, vagy 20-as busz Binz felől",
+    "ro": "S-Bahn/tren regional până la gara Prora sau autobuzul 20 din Binz",
+    "en": "S-Bahn/regional train to Prora station or bus 20 from Binz"
+  },
+  "parking": {
+    "de": "Mehrere große kostenpflichtige Parkplätze entlang der Objektstraße (ca. 6€/Tag).",
+    "hu": "Több nagy fizetős parkoló az Objektstraße mentén (kb. 6 €/nap).",
+    "ro": "Mai multe parcări mari cu plată de-a lungul străzii Objektstraße (aprox. 6 €/zi).",
+    "en": "Several large paid parking lots along Objektstraße (approx. 6 €/day)."
+  },
+  "accessibility": {
+    "de": "Dokumentationszentrum barrierefrei; Gelände am Strand teils sandig/uneben.",
+    "hu": "A Dokumentációs Központ akadálymentes; a tengerparti rész homokos és egyenetlen.",
+    "ro": "Centrul de Documentare este accesibil; terenul de lângă plajă este parțial nisipos/denivelat.",
+    "en": "Documentation Center is accessible; beach area is partially sandy/uneven."
+  },
+  "photoRules": {
+    "de": "Fotografieren der Gebäudefronten erlaubt; im Museum eingeschränkt.",
+    "hu": "Az épülethomlokzatok fotózása engedélyezett; a múzeumban korlátozott.",
+    "ro": "Fotografierea fațadelor clădirilor permisă; restricționată în muzeu.",
+    "en": "Photography of the building fronts allowed; restricted inside the museum."
+  },
+  "bestTimeToVisit": {
+    "de": "Nebensaison für die beklemmende Wirkung der schieren Größe des Komplexes.",
+    "hu": "Utószezonban, amikor a komplexum puszta mérete még nyomasztóbb hatást kelt.",
+    "ro": "În extrasezon pentru a resimți efectul copleșitor al dimensiunii complexului.",
+    "en": "Off-season to experience the oppressive effect of the complex's sheer size."
+  },
+  "audioGuide": {
+    "de": "nein",
+    "hu": "nem",
+    "ro": "nu",
+    "en": "no"
+  }
 }

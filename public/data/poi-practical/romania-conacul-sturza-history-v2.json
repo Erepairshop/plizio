@@ -1,12 +1,57 @@
 {
-  "address": "Miclăușeni 707066, Județul Iași",
-  "openingHours": "Sa-Su 11:00-18:00; sonst nach Voranmeldung.",
-  "entranceFee": "20 RON für eine geführte Tour",
+  "address": {
+    "de": "Miclăușeni 707066, Județul Iași",
+    "hu": "Miclăușeni 707066, Iași megye",
+    "ro": "Miclăușeni 707066, Județul Iași",
+    "en": "Miclăușeni 707066, Iași County"
+  },
+  "openingHours": {
+    "de": "Sa-Su 11:00-18:00; sonst nach Voranmeldung.",
+    "hu": "Szo-V 11:00-18:00; egyébként bejelentkezés alapján.",
+    "ro": "Sâm-Du 11:00-18:00; altfel pe bază de programare.",
+    "en": "Sat-Sun 11:00-18:00; otherwise by appointment."
+  },
+  "entranceFee": {
+    "de": "20 RON für eine geführte Tour",
+    "hu": "20 RON vezetett túra",
+    "ro": "20 RON pentru un tur ghidat",
+    "en": "20 RON for a guided tour"
+  },
   "website": "https://www.miclauseni.ro",
-  "publicTransport": "Bus von Iași nach Roman, Ausstieg Miclăușeni.",
-  "parking": "Parkplatz direkt am Parkeingang.",
-  "accessibility": "Park barrierefrei, Schlossinneres mit Treppen.",
-  "photoRules": "Gegen Gebühr im Innenraum erlaubt.",
-  "bestTimeToVisit": "Herbst zur Laubfärbung im Schlosspark.",
-  "audioGuide": "nein"
+  "publicTransport": {
+    "de": "Bus von Iași nach Roman, Ausstieg Miclăușeni.",
+    "hu": "Busz Iașiból Roman felé, leszállás Miclăușeninél.",
+    "ro": "Autobuz din Iași spre Roman, coborâre la Miclăușeni.",
+    "en": "Bus from Iași towards Roman, get off at Miclăușeni."
+  },
+  "parking": {
+    "de": "Parkplatz direkt am Parkeingang.",
+    "hu": "Parkoló közvetlenül a park bejáratánál.",
+    "ro": "Parcare chiar la intrarea în parc.",
+    "en": "Parking right at the park entrance."
+  },
+  "accessibility": {
+    "de": "Park barrierefrei, Schlossinneres mit Treppen.",
+    "hu": "A park akadálymentes, a kastély belső terei lépcsősek.",
+    "ro": "Parcul este accesibil, interiorul castelului are scări.",
+    "en": "Park is accessible, castle interior has stairs."
+  },
+  "photoRules": {
+    "de": "Gegen Gebühr im Innenraum erlaubt.",
+    "hu": "A belső terekben díjköteles.",
+    "ro": "Permis în interior contra cost.",
+    "en": "Allowed inside for a fee."
+  },
+  "bestTimeToVisit": {
+    "de": "Herbst zur Laubfärbung im Schlosspark.",
+    "hu": "Ősszel, a kastélypark lombszíneinek idején.",
+    "ro": "Toamna, pentru culorile frunzelor în parcul castelului.",
+    "en": "Autumn for the foliage in the castle park."
+  },
+  "audioGuide": {
+    "de": "nein",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

@@ -1,12 +1,57 @@
 {
-  "address": "Teufelsmauerstieg, 06502 Thale",
-  "openingHours": "24/7",
-  "entranceFee": "kostenlos",
+  "address": {
+    "de": "Teufelsmauerstieg, 06502 Thale",
+    "hu": "Teufelsmauerstieg, 06502 Thale",
+    "ro": "Teufelsmauerstieg, 06502 Thale",
+    "en": "Teufelsmauerstieg, 06502 Thale"
+  },
+  "openingHours": {
+    "de": "24/7",
+    "hu": "24/7",
+    "ro": "24/7",
+    "en": "24/7"
+  },
+  "entranceFee": {
+    "de": "kostenlos",
+    "hu": "ingyenes",
+    "ro": "gratuit",
+    "en": "free"
+  },
   "website": "https://www.bodetal.de",
-  "publicTransport": "Bus 257 bis Thale, anschließend Wanderung",
-  "parking": "Parkplatz am Kloster Wendhusen, teils kostenlos.",
-  "accessibility": "Nicht barrierefrei, steile und unebene Wanderwege.",
-  "photoRules": "Uneingeschränkt erlaubt, Drohnen im Naturschutzgebiet verboten.",
-  "bestTimeToVisit": "Sonnenaufgang für dramatische Schatten an den Felsen.",
-  "audioGuide": "nein"
+  "publicTransport": {
+    "de": "Bus 257 bis Thale, anschließend Wanderung",
+    "hu": "257-es busz Thale-ig, majd túrázás",
+    "ro": "Autobuz 257 până la Thale, apoi drumeție",
+    "en": "Bus 257 to Thale, followed by a hike"
+  },
+  "parking": {
+    "de": "Parkplatz am Kloster Wendhusen, teils kostenlos.",
+    "hu": "Parkoló a Wendhusen kolostornál, részben ingyenes.",
+    "ro": "Parcare la Mănăstirea Wendhusen, parțial gratuită.",
+    "en": "Parking at Wendhusen Monastery, partially free."
+  },
+  "accessibility": {
+    "de": "Nicht barrierefrei, steile und unebene Wanderwege.",
+    "hu": "Nem akadálymentesített, meredek és egyenetlen túraútvonalak.",
+    "ro": "Nu este accesibil, trasee de drumeție abrupte și denivelate.",
+    "en": "Not accessible, steep and uneven hiking trails."
+  },
+  "photoRules": {
+    "de": "Uneingeschränkt erlaubt, Drohnen im Naturschutzgebiet verboten.",
+    "hu": "Korlátlanul megengedett, drónok a természetvédelmi területen tilosak.",
+    "ro": "Permis fără restricții, drone interzise în rezervația naturală.",
+    "en": "Allowed without restrictions, drones prohibited in the nature reserve."
+  },
+  "bestTimeToVisit": {
+    "de": "Sonnenaufgang für dramatische Schatten an den Felsen.",
+    "hu": "Napkelte, a sziklákon játszó drámai árnyékokért.",
+    "ro": "Răsărit de soare pentru umbre dramatice pe stânci.",
+    "en": "Sunrise for dramatic shadows on the rocks."
+  },
+  "audioGuide": {
+    "de": "nein",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

@@ -1,12 +1,57 @@
 {
-  "address": "Am Sandtorkai / Alter Wandrahm, 20457 Hamburg",
-  "openingHours": "24/7",
-  "entranceFee": "kostenlos",
+  "address": {
+    "de": "Am Sandtorkai / Alter Wandrahm, 20457 Hamburg",
+    "hu": "Am Sandtorkai / Alter Wandrahm, 20457 Hamburg",
+    "ro": "Am Sandtorkai / Alter Wandrahm, 20457 Hamburg",
+    "en": "Am Sandtorkai / Alter Wandrahm, 20457 Hamburg"
+  },
+  "openingHours": {
+    "de": "24/7",
+    "hu": "0-24",
+    "ro": "Non-stop",
+    "en": "24/7"
+  },
+  "entranceFee": {
+    "de": "kostenlos",
+    "hu": "ingyenes",
+    "ro": "gratuit",
+    "en": "free"
+  },
   "website": "https://www.hamburg.de/speicherstadt/",
-  "publicTransport": "U3 bis Baumwall oder U4 bis Überseequartier",
-  "parking": "Parkhäuser in der Hafencity (ca. 3,50€/Std.), kaum öffentliche Parkplätze.",
-  "accessibility": "Kopfsteinpflaster erschwert den Zugang für Rollstühle, Brücken meist mit Rampen.",
-  "photoRules": "Öffentlich uneingeschränkt erlaubt, Stativnutzung auf Brücken oft nötig.",
-  "bestTimeToVisit": "Blaue Stunde oder nachts, wenn die Fassaden illuminiert sind.",
-  "audioGuide": "nein (diverse Apps und geführte Rundgänge verfügbar)"
+  "publicTransport": {
+    "de": "U3 bis Baumwall oder U4 bis Überseequartier",
+    "hu": "U3 a Baumwallig vagy U4 az Überseequartierig",
+    "ro": "U3 până la Baumwall sau U4 până la Überseequartier",
+    "en": "U3 to Baumwall or U4 to Überseequartier"
+  },
+  "parking": {
+    "de": "Parkhäuser in der Hafencity (ca. 3,50€/Std.), kaum öffentliche Parkplätze.",
+    "hu": "Parkolóházak a Hafencityben (kb. 3,50 €/óra), alig van közterületi parkoló.",
+    "ro": "Parcări în Hafencity (aprox. 3,50 €/oră), puține locuri de parcare publice.",
+    "en": "Parking garages in Hafencity (approx. €3.50/hr), hardly any public parking."
+  },
+  "accessibility": {
+    "de": "Kopfsteinpflaster erschwert den Zugang für Rollstühle, Brücken meist mit Rampen.",
+    "hu": "A macskakő nehezíti a kerekesszékesek közlekedését, a hidak általában rámpákkal ellátottak.",
+    "ro": "Pietrișul îngreunează accesul cu scaune cu rotile, podurile sunt de obicei prevăzute cu rampe.",
+    "en": "Cobblestones hinder wheelchair access, bridges mostly have ramps."
+  },
+  "photoRules": {
+    "de": "Öffentlich uneingeschränkt erlaubt, Stativnutzung auf Brücken oft nötig.",
+    "hu": "Nyilvánosan korlátozás nélkül megengedett, állvány használata a hidakon gyakran szükséges.",
+    "ro": "Public și fără restricții, utilizarea trepiedului pe poduri este adesea necesară.",
+    "en": "Publicly allowed without restrictions, tripod use on bridges often necessary."
+  },
+  "bestTimeToVisit": {
+    "de": "Blaue Stunde oder nachts, wenn die Fassaden illuminiert sind.",
+    "hu": "Kék óra vagy éjszaka, amikor a homlokzatok kivilágítottak.",
+    "ro": "Ora albastră sau noaptea, când fațadele sunt iluminate.",
+    "en": "Blue hour or at night when the facades are illuminated."
+  },
+  "audioGuide": {
+    "de": "nein (diverse Apps und geführte Rundgänge verfügbar)",
+    "hu": "nem (számos alkalmazás és vezetett séta elérhető)",
+    "ro": "nu (diverse aplicații și tururi ghidate disponibile)",
+    "en": "no (various apps and guided tours available)"
+  }
 }

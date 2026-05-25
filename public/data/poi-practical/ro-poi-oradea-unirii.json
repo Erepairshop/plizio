@@ -1,12 +1,57 @@
 {
-  "address": "Piața Unirii, 410100 Oradea",
-  "openingHours": "24/7",
-  "entranceFee": "free",
+  "address": {
+    "de": "Piața Unirii, 410100 Oradea",
+    "hu": "Piața Unirii, 410100 Nagyvárad",
+    "ro": "Piața Unirii, 410100 Oradea",
+    "en": "Piața Unirii, 410100 Oradea"
+  },
+  "openingHours": {
+    "de": "24/7",
+    "hu": "24/7",
+    "ro": "24/7",
+    "en": "24/7"
+  },
+  "entranceFee": {
+    "de": "free",
+    "hu": "ingyenes",
+    "ro": "gratuit",
+    "en": "free"
+  },
   "website": "",
-  "publicTransport": "Straßenbahnlinien 1, 2, 3 (Halt Piața Unirii)",
-  "parking": "Gebührenpflichtige Parkplätze in der Nähe (ca. 4 RON/Std).",
-  "accessibility": "Vollständig barrierefrei, weitläufige Fußgängerzone.",
-  "photoRules": "Erlaubt, abends sind die Gebäude beleuchtet.",
-  "bestTimeToVisit": "Abends oder am Wochenende für die lebhafte Atmosphäre.",
-  "audioGuide": "no"
+  "publicTransport": {
+    "de": "Straßenbahnlinien 1, 2, 3 (Halt Piața Unirii)",
+    "hu": "1, 2, 3-as villamos (Megálló: Piața Unirii)",
+    "ro": "Liniile de tramvai 1, 2, 3 (Stația Piața Unirii)",
+    "en": "Tram lines 1, 2, 3 (Stop: Piața Unirii)"
+  },
+  "parking": {
+    "de": "Gebührenpflichtige Parkplätze in der Nähe (ca. 4 RON/Std).",
+    "hu": "Fizetős parkolók a közelben (kb. 4 RON/óra).",
+    "ro": "Parcări cu plată în apropiere (aprox. 4 RON/oră).",
+    "en": "Paid parking nearby (approx. 4 RON/hour)."
+  },
+  "accessibility": {
+    "de": "Vollständig barrierefrei, weitläufige Fußgängerzone.",
+    "hu": "Teljesen akadálymentes, kiterjedt sétálóutca.",
+    "ro": "Complet accesibil, zonă pietonală extinsă.",
+    "en": "Fully accessible, extensive pedestrian area."
+  },
+  "photoRules": {
+    "de": "Erlaubt, abends sind die Gebäude beleuchtet.",
+    "hu": "Engedélyezett, este az épületek ki vannak világítva.",
+    "ro": "Permis, seara clădirile sunt iluminate.",
+    "en": "Permitted, buildings are illuminated in the evening."
+  },
+  "bestTimeToVisit": {
+    "de": "Abends oder am Wochenende für die lebhafte Atmosphäre.",
+    "hu": "Este vagy hétvégén az élénk hangulatért.",
+    "ro": "Seara sau în weekend pentru atmosfera vibrantă.",
+    "en": "Evenings or weekends for the vibrant atmosphere."
+  },
+  "audioGuide": {
+    "de": "no",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

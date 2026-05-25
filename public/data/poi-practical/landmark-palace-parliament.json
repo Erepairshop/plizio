@@ -1,12 +1,57 @@
 {
-  "address": "Strada Izvor 2-4, 050563 București",
-  "openingHours": "Täglich 09:00-17:00 (Mär-Okt), 10:00-16:00 (Winter)",
-  "entranceFee": "60 RON Erwachsene (Standard-Tour), Reisepass-Pflicht!",
+  "address": {
+    "de": "Strada Izvor 2-4, 050563 București",
+    "hu": "Strada Izvor 2-4, 050563 Bukarest",
+    "ro": "Strada Izvor 2-4, 050563 București",
+    "en": "Strada Izvor 2-4, 050563 Bucharest"
+  },
+  "openingHours": {
+    "de": "Täglich 09:00-17:00 (Mär-Okt), 10:00-16:00 (Winter)",
+    "hu": "Naponta 09:00-17:00 (márc.-okt.), 10:00-16:00 (tél)",
+    "ro": "Zilnic 09:00-17:00 (mar.-oct.), 10:00-16:00 (iarna)",
+    "en": "Daily 09:00-17:00 (Mar-Oct), 10:00-16:00 (winter)"
+  },
+  "entranceFee": {
+    "de": "60 RON Erwachsene (Standard-Tour), Reisepass-Pflicht!",
+    "hu": "60 RON felnőtt (standard túra), útlevél kötelező!",
+    "ro": "60 RON adulți (tur standard), pașaport obligatoriu!",
+    "en": "60 RON adults (standard tour), passport mandatory!"
+  },
   "website": "http://cic.cdep.ro",
-  "publicTransport": "Metro M1/M3 (Izvor), 5 Min. Fußweg zum Eingang",
-  "parking": "Kein öffentlicher Parkplatz auf dem Gelände, umliegende Seitenstraßen nutzen",
-  "accessibility": "Voranmeldung für Rollstuhlfahrer nötig, Aufzüge vorhanden",
-  "photoRules": "Nur Handy-Fotos meist gratis, professionelle Kameras kosten extra",
-  "bestTimeToVisit": "Touren im Voraus online buchen, Personalausweis/Pass nicht vergessen",
-  "audioGuide": "Nein (nur geführte Touren in DE/EN/RO/FR/IT)"
+  "publicTransport": {
+    "de": "Metro M1/M3 (Izvor), 5 Min. Fußweg zum Eingang",
+    "hu": "M1/M3 metró (Izvor), 5 perc séta a bejáratig",
+    "ro": "Metrou M1/M3 (Izvor), 5 min. de mers pe jos până la intrare",
+    "en": "Metro M1/M3 (Izvor), 5 min. walk to entrance"
+  },
+  "parking": {
+    "de": "Kein öffentlicher Parkplatz auf dem Gelände, umliegende Seitenstraßen nutzen",
+    "hu": "Nincs nyilvános parkoló a területen, használja a környező mellékutcákat",
+    "ro": "Fără parcare publică în incintă, utilizați străzile laterale din apropiere",
+    "en": "No public parking on site, use surrounding side streets"
+  },
+  "accessibility": {
+    "de": "Voranmeldung für Rollstuhlfahrer nötig, Aufzüge vorhanden",
+    "hu": "Kerekesszékeseknek előzetes bejelentkezés szükséges, liftek vannak",
+    "ro": "Necesară pre-înregistrare pentru utilizatorii de scaun cu rotile, lifturi disponibile",
+    "en": "Prior notice for wheelchair users required, elevators available"
+  },
+  "photoRules": {
+    "de": "Nur Handy-Fotos meist gratis, professionelle Kameras kosten extra",
+    "hu": "Általában csak mobilfotózás ingyenes, profi gépek külön díjasak",
+    "ro": "De regulă, doar fotografiile cu telefonul sunt gratuite, camerele profesionale costă suplimentar",
+    "en": "Phone photos usually free, professional cameras incur extra cost"
+  },
+  "bestTimeToVisit": {
+    "de": "Touren im Voraus online buchen, Personalausweis/Pass nicht vergessen",
+    "hu": "Foglaljon túrát online előre, személyi igazolvány/útlevél szükséges",
+    "ro": "Rezervați tururile online în avans, nu uitați buletinul/pașaportul",
+    "en": "Book tours online in advance, don't forget ID/passport"
+  },
+  "audioGuide": {
+    "de": "Nein (nur geführte Touren in DE/EN/RO/FR/IT)",
+    "hu": "Nincs (csak vezetett túrák DE/EN/RO/FR/IT nyelven)",
+    "ro": "Nu (doar tururi ghidate în DE/EN/RO/FR/IT)",
+    "en": "No (only guided tours in DE/EN/RO/FR/IT)"
+  }
 }

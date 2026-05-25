@@ -1,12 +1,57 @@
 {
-  "address": "Amt Chorin 11a, 16230 Chorin",
-  "openingHours": "Mo-Su 09:00-18:00",
-  "entranceFee": "€ 6,00 Erwachsene, € 4,00 ermäßigt",
+  "address": {
+    "de": "Amt Chorin 11a, 16230 Chorin",
+    "hu": "Amt Chorin 11a, 16230 Chorin",
+    "ro": "Amt Chorin 11a, 16230 Chorin",
+    "en": "Amt Chorin 11a, 16230 Chorin"
+  },
+  "openingHours": {
+    "de": "Mo-Su 09:00-18:00",
+    "hu": "Hé-Va 09:00-18:00",
+    "ro": "Lu-Du 09:00-18:00",
+    "en": "Mon-Sun 09:00-18:00"
+  },
+  "entranceFee": {
+    "de": "€ 6,00 Erwachsene, € 4,00 ermäßigt",
+    "hu": "6,00 € felnőtteknek, 4,00 € kedvezményes",
+    "ro": "6,00 € adulți, 4,00 € redus",
+    "en": "€6.00 adults, €4.00 reduced"
+  },
   "website": "https://www.kloster-chorin.org",
-  "publicTransport": "Regionalbahn bis Bahnhof Chorin, dann 20 Min. Fußweg",
-  "parking": "Kostenpflichtiger Parkplatz direkt am Kloster, ca. 3,00 €/Tag.",
-  "accessibility": "Gelände weitgehend barrierefrei, teilweise unebene Wege.",
-  "photoRules": "Privat erlaubt, Stativ im Innenraum nicht gestattet.",
-  "bestTimeToVisit": "Frühsommer zur Zeit des Choriner Musiksommers.",
-  "audioGuide": "ja"
+  "publicTransport": {
+    "de": "Regionalbahn bis Bahnhof Chorin, dann 20 Min. Fußweg",
+    "hu": "Regionális vonat Chorin állomásig, majd 20 perc séta",
+    "ro": "Tren regional până la gara Chorin, apoi 20 minute de mers pe jos",
+    "en": "Regional train to Chorin station, then 20 min walk"
+  },
+  "parking": {
+    "de": "Kostenpflichtiger Parkplatz direkt am Kloster, ca. 3,00 €/Tag.",
+    "hu": "Fizetős parkoló közvetlenül a kolostornál, kb. 3,00 €/nap.",
+    "ro": "Parcare cu plată chiar la mănăstire, aprox. 3,00 €/zi.",
+    "en": "Paid parking at the monastery, approx. €3.00/day."
+  },
+  "accessibility": {
+    "de": "Gelände weitgehend barrierefrei, teilweise unebene Wege.",
+    "hu": "A terület nagyrészt akadálymentes, részben egyenetlen utak.",
+    "ro": "Incintă în mare parte accesibilă, drumuri pe alocuri denivelate.",
+    "en": "Grounds mostly barrier-free, partly uneven paths."
+  },
+  "photoRules": {
+    "de": "Privat erlaubt, Stativ im Innenraum nicht gestattet.",
+    "hu": "Magáncélú szabad, állvány belső térben nem engedélyezett.",
+    "ro": "Privat permis, trepiedul nu este permis la interior.",
+    "en": "Private allowed, tripod not permitted inside."
+  },
+  "bestTimeToVisit": {
+    "de": "Frühsommer zur Zeit des Choriner Musiksommers.",
+    "hu": "Kora nyáron, a Choriner Musiksommer idején.",
+    "ro": "La începutul verii, în timpul Choriner Musiksommer.",
+    "en": "Early summer during the Chorin Music Summer."
+  },
+  "audioGuide": {
+    "de": "ja",
+    "hu": "igen",
+    "ro": "da",
+    "en": "yes"
+  }
 }

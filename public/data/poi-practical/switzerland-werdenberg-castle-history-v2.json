@@ -1,12 +1,57 @@
 {
-  "address": "Städtli 31, 9470 Werdenberg",
-  "openingHours": "Di-So 10:00-18:00 (April bis Oktober)",
-  "entranceFee": "CHF 12 Erwachsene, CHF 6 Kinder",
+  "address": {
+    "de": "Städtli 31, 9470 Werdenberg",
+    "hu": "Städtli 31, 9470 Werdenberg",
+    "ro": "Städtli 31, 9470 Werdenberg",
+    "en": "Städtli 31, 9470 Werdenberg"
+  },
+  "openingHours": {
+    "de": "Di-So 10:00-18:00 (April bis Oktober)",
+    "hu": "K–V 10:00–18:00 (április–október)",
+    "ro": "Mar-Dum 10:00-18:00 (Aprilie până în Octombrie)",
+    "en": "Tue-Sun 10:00-18:00 (April to October)"
+  },
+  "entranceFee": {
+    "de": "CHF 12 Erwachsene, CHF 6 Kinder",
+    "hu": "12 CHF felnőtt, 6 CHF gyermek",
+    "ro": "12 CHF adulți, 6 CHF copii",
+    "en": "12 CHF adults, 6 CHF children"
+  },
   "website": "https://schloss-werdenberg.ch/",
-  "publicTransport": "Mit dem Zug bis Buchs SG, dann Bus 790 bis Haltestelle Werdenberg.",
-  "parking": "Grosser Parkplatz Marktplatz Buchs (gebührenpflichtig), von dort 10 Min. Fussweg.",
-  "accessibility": "Nur das Erdgeschoss ist barrierefrei, die oberen Stockwerke sind nur über steile Treppen erreichbar.",
-  "photoRules": "Erlaubt; Stativnutzung erfordert eine vorherige Genehmigung.",
-  "bestTimeToVisit": "Mittagszeit, wenn die Sonne direkt auf den idyllischen Werdenbergersee unterhalb des Schlosses scheint.",
-  "audioGuide": "de, en, fr (via Smartphone Web-App)"
+  "publicTransport": {
+    "de": "Mit dem Zug bis Buchs SG, dann Bus 790 bis Haltestelle Werdenberg.",
+    "hu": "Vonattal Buchs SG-ig, majd 790-es busz a Werdenberg megállóig.",
+    "ro": "Cu trenul până la Buchs SG, apoi autobuz 790 până la stația Werdenberg.",
+    "en": "By train to Buchs SG, then bus 790 to Werdenberg stop."
+  },
+  "parking": {
+    "de": "Grosser Parkplatz Marktplatz Buchs (gebührenpflichtig), von dort 10 Min. Fussweg.",
+    "hu": "Nagy fizetős parkoló a Buchs piactéren, onnan 10 perc séta.",
+    "ro": "Parcare mare în piața Buchs (cu plată), de acolo 10 min. pe jos.",
+    "en": "Large parking at Buchs market square (paid), from there 10 min. walk."
+  },
+  "accessibility": {
+    "de": "Nur das Erdgeschoss ist barrierefrei, die oberen Stockwerke sind nur über steile Treppen erreichbar.",
+    "hu": "Csak a földszint akadálymentesített, az emeletek csak meredek lépcsőn érhetőek el.",
+    "ro": "Doar parterul este accesibil, etajele superioare doar pe scări abrupte.",
+    "en": "Only ground floor is accessible, upper floors via steep stairs only."
+  },
+  "photoRules": {
+    "de": "Erlaubt; Stativnutzung erfordert eine vorherige Genehmigung.",
+    "hu": "Engedélyezett; állvány használatához előzetes engedély szükséges.",
+    "ro": "Permis; utilizarea trepiedului necesită aprobare prealabilă.",
+    "en": "Allowed; tripod use requires prior approval."
+  },
+  "bestTimeToVisit": {
+    "de": "Mittagszeit, wenn die Sonne direkt auf den idyllischen Werdenbergersee unterhalb des Schlosses scheint.",
+    "hu": "Délidőben, amikor a nap közvetlenül az idilli Werdenbergersee-re süt a vár alatt.",
+    "ro": "La prânz, când soarele bate direct pe idilicul lac Werdenbergersee de sub castel.",
+    "en": "Noontime, when the sun shines directly on the idyllic Werdenbergersee below the castle."
+  },
+  "audioGuide": {
+    "de": "de, en, fr (via Smartphone Web-App)",
+    "hu": "német, angol, francia (okostelefonos webalkalmazáson keresztül)",
+    "ro": "germ, engl, franc (prin web-app pe smartphone)",
+    "en": "DE, EN, FR (via smartphone web-app)"
+  }
 }

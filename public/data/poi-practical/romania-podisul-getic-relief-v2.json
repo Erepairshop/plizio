@@ -1,12 +1,57 @@
 {
-  "address": "Region südlich der Südkarpaten, Rumänien",
-  "openingHours": "24/7",
-  "entranceFee": "kostenlos",
+  "address": {
+    "de": "Region südlich der Südkarpaten, Rumänien",
+    "hu": "A Déli-Kárpátoktól délre eső régió, Románia",
+    "ro": "Regiunea de la sud de Carpații Meridionali, România",
+    "en": "Region south of the Southern Carpathians, Romania"
+  },
+  "openingHours": {
+    "de": "24/7",
+    "hu": "24/7",
+    "ro": "24/7",
+    "en": "24/7"
+  },
+  "entranceFee": {
+    "de": "kostenlos",
+    "hu": "ingyenes",
+    "ro": "gratuit",
+    "en": "free"
+  },
   "website": "",
-  "publicTransport": "Regionale Busverbindungen ab Pitești oder Craiova.",
-  "parking": "Parkmöglichkeiten in den Dörfern der Region.",
-  "accessibility": "Naturgelände, festes Schuhwerk für Wanderungen erforderlich.",
-  "photoRules": "Landschaftsaufnahmen unbegrenzt erlaubt.",
-  "bestTimeToVisit": "Frühling und Herbst für ideale Wandertemperaturen.",
-  "audioGuide": "nein"
+  "publicTransport": {
+    "de": "Regionale Busverbindungen ab Pitești oder Craiova.",
+    "hu": "Regionális buszjáratok Piteștiből vagy Craiovából.",
+    "ro": "Legături regionale cu autobuzul din Pitești sau Craiova.",
+    "en": "Regional bus connections from Pitești or Craiova."
+  },
+  "parking": {
+    "de": "Parkmöglichkeiten in den Dörfern der Region.",
+    "hu": "Parkolási lehetőségek a régió falvaiban.",
+    "ro": "Posibilități de parcare în satele din regiune.",
+    "en": "Parking options in the region's villages."
+  },
+  "accessibility": {
+    "de": "Naturgelände, festes Schuhwerk für Wanderungen erforderlich.",
+    "hu": "Természetes terep, túrázáshoz masszív lábbeli szükséges.",
+    "ro": "Teren natural, încălțăminte solidă necesară pentru drumeții.",
+    "en": "Natural terrain, sturdy footwear required for hiking."
+  },
+  "photoRules": {
+    "de": "Landschaftsaufnahmen unbegrenzt erlaubt.",
+    "hu": "Tájképek készítése korlátlanul engedélyezett.",
+    "ro": "Fotografiile de peisaj sunt permise fără restricții.",
+    "en": "Landscape photography allowed without limits."
+  },
+  "bestTimeToVisit": {
+    "de": "Frühling und Herbst für ideale Wandertemperaturen.",
+    "hu": "Tavasszal és ősszel, az ideális túrázó hőmérsékletért.",
+    "ro": "Primăvara și toamna, pentru temperaturi ideale de drumeție.",
+    "en": "Spring and autumn for ideal hiking temperatures."
+  },
+  "audioGuide": {
+    "de": "nein",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

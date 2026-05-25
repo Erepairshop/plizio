@@ -1,12 +1,57 @@
 {
-  "address": "Schloss 1, 3970 Weitra",
-  "openingHours": "We-Mo 10:00-17:00 (Mai-Okt)",
-  "entranceFee": "13€ (Schloss, Museum, Turm)",
+  "address": {
+    "de": "Schloss 1, 3970 Weitra",
+    "hu": "Schloss 1, 3970 Weitra",
+    "ro": "Schloss 1, 3970 Weitra",
+    "en": "Schloss 1, 3970 Weitra"
+  },
+  "openingHours": {
+    "de": "We-Mo 10:00-17:00 (Mai-Okt)",
+    "hu": "Sze-Hé 10:00-17:00 (május-október)",
+    "ro": "Mie-Lun 10:00-17:00 (mai-octombrie)",
+    "en": "Wed-Mon 10:00-17:00 (May-Oct)"
+  },
+  "entranceFee": {
+    "de": "13€ (Schloss, Museum, Turm)",
+    "hu": "13€ (kastély, múzeum, torony)",
+    "ro": "13€ (castel, muzeu, turn)",
+    "en": "13€ (castle, museum, tower)"
+  },
   "website": "https://www.schloss-weitra.at",
-  "publicTransport": "Waldviertelbahn (saisonal) oder Bus ab Gmünd",
-  "parking": "Parkplatz direkt am Schlossgelände.",
-  "accessibility": "Dank Lift weitgehend barrierefrei zugänglich.",
-  "photoRules": "Im Schlosshof erlaubt, im Museum ohne Blitz.",
-  "bestTimeToVisit": "Während des Bierkirtags im Sommer.",
-  "audioGuide": "DE"
+  "publicTransport": {
+    "de": "Waldviertelbahn (saisonal) oder Bus ab Gmünd",
+    "hu": "Waldviertelbahn (szezonális) vagy busz Gmünd felől",
+    "ro": "Trenul Waldviertelbahn (sezonier) sau autobuz dinspre Gmünd",
+    "en": "Waldviertelbahn (seasonal) or bus from Gmünd"
+  },
+  "parking": {
+    "de": "Parkplatz direkt am Schlossgelände.",
+    "hu": "Parkoló közvetlenül a kastély területén.",
+    "ro": "Parcare chiar lângă incinta castelului.",
+    "en": "Parking directly on the castle grounds."
+  },
+  "accessibility": {
+    "de": "Dank Lift weitgehend barrierefrei zugänglich.",
+    "hu": "A liftnek köszönhetően nagyrészt akadálymentesen látogatható.",
+    "ro": "În mare parte accesibil datorită liftului.",
+    "en": "Largely wheelchair accessible thanks to a lift."
+  },
+  "photoRules": {
+    "de": "Im Schlosshof erlaubt, im Museum ohne Blitz.",
+    "hu": "A kastélyudvaron megengedett, a múzeumban vaku nélkül.",
+    "ro": "Permis în curtea castelului, în muzeu fără bliț.",
+    "en": "Permitted in the courtyard, without flash in the museum."
+  },
+  "bestTimeToVisit": {
+    "de": "Während des Bierkirtags im Sommer.",
+    "hu": "Nyáron, a Sörbúcsú (Bierkirtag) ideje alatt.",
+    "ro": "În timpul târgului berii (Bierkirtag) vara.",
+    "en": "During the beer festival (Bierkirtag) in summer."
+  },
+  "audioGuide": {
+    "de": "DE",
+    "hu": "német",
+    "ro": "germană",
+    "en": "German"
+  }
 }

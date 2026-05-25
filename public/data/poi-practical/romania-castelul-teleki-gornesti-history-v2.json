@@ -1,12 +1,57 @@
 {
-  "address": "Strada Principală 513, 547280 Gornești",
-  "openingHours": "Täglich 10:00-18:00 (Sommersaison)",
-  "entranceFee": "20 RON Spende empfohlen",
+  "address": {
+    "de": "Strada Principală 513, 547280 Gornești",
+    "hu": "Strada Principală 513, 547280 Gernyeszeg",
+    "ro": "Strada Principală 513, 547280 Gornești",
+    "en": "Strada Principală 513, 547280 Gornești"
+  },
+  "openingHours": {
+    "de": "Täglich 10:00-18:00 (Sommersaison)",
+    "hu": "Naponta 10:00-18:00 (nyári szezon)",
+    "ro": "Zilnic 10:00-18:00 (sezonul de vară)",
+    "en": "Daily 10:00-18:00 (summer season)"
+  },
+  "entranceFee": {
+    "de": "20 RON Spende empfohlen",
+    "hu": "20 RON adomány ajánlott",
+    "ro": "20 RON donație recomandată",
+    "en": "20 RON donation recommended"
+  },
   "website": "",
-  "publicTransport": "Züge Richtung Reghin halten in Gornești.",
-  "parking": "Parken im Schlosshof oder davor möglich.",
-  "accessibility": "Schlosspark barrierefrei, Schlossinneres mit Stufen.",
-  "photoRules": "Fotos im Außenbereich frei, innen auf Anfrage.",
-  "bestTimeToVisit": "Frühjahr während der Baumblüte im Park.",
-  "audioGuide": "nein"
+  "publicTransport": {
+    "de": "Züge Richtung Reghin halten in Gornești.",
+    "hu": "A Szászrégen irányába tartó vonatok megállnak Gernyeszegen.",
+    "ro": "Trenurile spre Reghin opresc în Gornești.",
+    "en": "Trains towards Reghin stop in Gornești."
+  },
+  "parking": {
+    "de": "Parken im Schlosshof oder davor möglich.",
+    "hu": "Parkolás a kastély udvarán vagy előtte lehetséges.",
+    "ro": "Parcare posibilă în curtea castelului sau în față.",
+    "en": "Parking in the castle courtyard or in front possible."
+  },
+  "accessibility": {
+    "de": "Schlosspark barrierefrei, Schlossinneres mit Stufen.",
+    "hu": "A kastélypark akadálymentesített, a belső terek lépcsősek.",
+    "ro": "Parcul castelului accesibil, interiorul castelului cu trepte.",
+    "en": "Castle park accessible, castle interior with stairs."
+  },
+  "photoRules": {
+    "de": "Fotos im Außenbereich frei, innen auf Anfrage.",
+    "hu": "Fényképezés a szabadban szabad, belül kérésre.",
+    "ro": "Fotografierea în exterior liberă, în interior la cerere.",
+    "en": "Photos outdoors free, inside on request."
+  },
+  "bestTimeToVisit": {
+    "de": "Frühjahr während der Baumblüte im Park.",
+    "hu": "Tavasszal, a park virágzása idején.",
+    "ro": "Primăvara în timpul înfloririi pomilor în parc.",
+    "en": "Spring during the blossom in the park."
+  },
+  "audioGuide": {
+    "de": "nein",
+    "hu": "nem",
+    "ro": "nu",
+    "en": "no"
+  }
 }

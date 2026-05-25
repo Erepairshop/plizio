@@ -1,12 +1,57 @@
 {
-  "address": "Calea Călărașilor 19, 810017 Brăila",
-  "openingHours": "24/7",
-  "entranceFee": "10 RON Parkgebühr + Bootsmiete",
+  "address": {
+    "de": "Calea Călărașilor 19, 810017 Brăila",
+    "hu": "Calea Călărașilor 19, 810017 Brăila",
+    "ro": "Calea Călărașilor 19, 810017 Brăila",
+    "en": "Calea Călărașilor 19, 810017 Brăila"
+  },
+  "openingHours": {
+    "de": "24/7",
+    "hu": "Non-stop",
+    "ro": "24/7",
+    "en": "24/7"
+  },
+  "entranceFee": {
+    "de": "10 RON Parkgebühr + Bootsmiete",
+    "hu": "10 RON parkolási díj + hajóbérlés",
+    "ro": "10 RON taxă parcare + închiriere barcă",
+    "en": "10 RON parking fee + boat rental"
+  },
   "website": "http://www.bmb.ro/",
-  "publicTransport": "Zug nach Brăila, dann Fähre oder privates Boot.",
-  "parking": "Parkplätze in Brăila am Donauufer vorhanden.",
-  "accessibility": "Nicht barrierefrei, nur Naturpfade vorhanden.",
-  "photoRules": "Erlaubt, ideal für Wildlife-Fotografie.",
-  "bestTimeToVisit": "Frühling für Vogelbeobachtungen.",
-  "audioGuide": "no"
+  "publicTransport": {
+    "de": "Zug nach Brăila, dann Fähre oder privates Boot.",
+    "hu": "Vonat Brăilára, majd komp vagy magánhajó.",
+    "ro": "Tren până la Brăila, apoi bac sau barcă privată.",
+    "en": "Train to Brăila, then ferry or private boat."
+  },
+  "parking": {
+    "de": "Parkplätze in Brăila am Donauufer vorhanden.",
+    "hu": "Parkolók Brăilában a Duna-parton.",
+    "ro": "Parcări disponibile în Brăila pe malul Dunării.",
+    "en": "Parking available in Brăila by the Danube."
+  },
+  "accessibility": {
+    "de": "Nicht barrierefrei, nur Naturpfade vorhanden.",
+    "hu": "Nem akadálymentes, csak természetes ösvények vannak.",
+    "ro": "Nu este accesibil, doar poteci naturale.",
+    "en": "Not accessible, only natural trails available."
+  },
+  "photoRules": {
+    "de": "Erlaubt, ideal für Wildlife-Fotografie.",
+    "hu": "Engedélyezett, ideális vadvilág-fotózáshoz.",
+    "ro": "Permis, ideal pentru fotografierea naturii.",
+    "en": "Allowed, ideal for wildlife photography."
+  },
+  "bestTimeToVisit": {
+    "de": "Frühling für Vogelbeobachtungen.",
+    "hu": "Tavasz, madármegfigyeléshez.",
+    "ro": "Primăvara pentru observarea păsărilor.",
+    "en": "Spring for bird watching."
+  },
+  "audioGuide": {
+    "de": "no",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

@@ -1,12 +1,57 @@
 {
-  "address": "Alum Bay New Rd, Alum Bay PO39 0JD, Großbritannien",
-  "openingHours": "Täglich 10:00-16:00 (Winter), 10:00-17:00 (Sommer)",
-  "entranceFee": "Parkplatzgebühr £6.00, Attraktionen einzeln zahlbar",
+  "address": {
+    "de": "Alum Bay New Rd, Alum Bay PO39 0JD, Großbritannien",
+    "hu": "Alum Bay New Rd, Alum Bay PO39 0JD, Nagy-Britannia",
+    "ro": "Alum Bay New Rd, Alum Bay PO39 0JD, Marea Britanie",
+    "en": "Alum Bay New Rd, Alum Bay PO39 0JD, Great Britain"
+  },
+  "openingHours": {
+    "de": "Täglich 10:00-16:00 (Winter), 10:00-17:00 (Sommer)",
+    "hu": "Naponta 10:00-16:00 (tél), 10:00-17:00 (nyár)",
+    "ro": "Zilnic 10:00-16:00 (iarnă), 10:00-17:00 (vară)",
+    "en": "Daily 10:00-16:00 (winter), 10:00-17:00 (summer)"
+  },
+  "entranceFee": {
+    "de": "Parkplatzgebühr £6.00, Attraktionen einzeln zahlbar",
+    "hu": "Parkolási díj £6.00, a látnivalók külön fizetendők",
+    "ro": "Taxă de parcare £6.00, atracțiile se plătesc separat",
+    "en": "Parking fee £6.00, attractions paid individually"
+  },
   "website": "https://www.theneedles.co.uk/",
-  "publicTransport": "Southern Vectis Bus (Needles Breezer) ab Yarmouth",
-  "parking": "Großer Parkplatz vor Ort (£6.00 pro Tag)",
-  "accessibility": "Parkplatz und Aussichtsplattform barrierefrei, Treppen zum Strand",
-  "photoRules": "Erlaubt",
-  "bestTimeToVisit": "Nachmittag für die Fahrt mit dem Sessellift",
-  "audioGuide": "Nein"
+  "publicTransport": {
+    "de": "Southern Vectis Bus (Needles Breezer) ab Yarmouth",
+    "hu": "Southern Vectis busz (Needles Breezer) Yarmouth-ból",
+    "ro": "Autobuzul Southern Vectis (Needles Breezer) din Yarmouth",
+    "en": "Southern Vectis bus (Needles Breezer) from Yarmouth"
+  },
+  "parking": {
+    "de": "Großer Parkplatz vor Ort (£6.00 pro Tag)",
+    "hu": "Nagy parkoló a helyszínen (£6.00/nap)",
+    "ro": "Parcare mare la fața locului (£6.00 pe zi)",
+    "en": "Large parking lot on site (£6.00 per day)"
+  },
+  "accessibility": {
+    "de": "Parkplatz und Aussichtsplattform barrierefrei, Treppen zum Strand",
+    "hu": "Parkoló és kilátó akadálymentes, lépcsők a strandhoz",
+    "ro": "Parcare și platformă de observare accesibile, scări către plajă",
+    "en": "Parking lot and viewing platform accessible, stairs to beach"
+  },
+  "photoRules": {
+    "de": "Erlaubt",
+    "hu": "Engedélyezett",
+    "ro": "Permis",
+    "en": "Allowed"
+  },
+  "bestTimeToVisit": {
+    "de": "Nachmittag für die Fahrt mit dem Sessellift",
+    "hu": "Délután a libegőzéshez",
+    "ro": "După-amiaza pentru plimbarea cu telescaunul",
+    "en": "Afternoon for the chairlift ride"
+  },
+  "audioGuide": {
+    "de": "Nein",
+    "hu": "Nem",
+    "ro": "Nu",
+    "en": "No"
+  }
 }

@@ -1,12 +1,57 @@
 {
-  "address": "Castle Green, Kenilworth CV8 1NG, Großbritannien",
-  "openingHours": "Mo-Su 10:00-16:00 (Winter), 10:00-18:00 (Sommer)",
-  "entranceFee": "£12.90 Erwachsene, £7.70 Kinder",
+  "address": {
+    "de": "Castle Green, Kenilworth CV8 1NG, Großbritannien",
+    "hu": "Castle Green, Kenilworth CV8 1NG, Nagy-Britannia",
+    "ro": "Castle Green, Kenilworth CV8 1NG, Marea Britanie",
+    "en": "Castle Green, Kenilworth CV8 1NG, Great Britain"
+  },
+  "openingHours": {
+    "de": "Mo-Su 10:00-16:00 (Winter), 10:00-18:00 (Sommer)",
+    "hu": "H-V 10:00-16:00 (tél), 10:00-18:00 (nyár)",
+    "ro": "Lu-Du 10:00-16:00 (iarnă), 10:00-18:00 (vară)",
+    "en": "Mo-Su 10:00-16:00 (winter), 10:00-18:00 (summer)"
+  },
+  "entranceFee": {
+    "de": "£12.90 Erwachsene, £7.70 Kinder",
+    "hu": "£12.90 felnőtt, £7.70 gyerek",
+    "ro": "£12.90 adulți, £7.70 copii",
+    "en": "£12.90 adults, £7.70 children"
+  },
   "website": "https://www.english-heritage.org.uk/visit/places/kenilworth-castle/",
-  "publicTransport": "Bahnhof Kenilworth, dann Bus 11 oder X17",
-  "parking": "Gebührenpflichtiger Parkplatz (£2, für Mitglieder kostenlos)",
-  "accessibility": "Elisabethanischer Garten barrierefrei, Ruinen teilweise zugänglich",
-  "photoRules": "Erlaubt",
-  "bestTimeToVisit": "Mai bis September, wenn der Garten in voller Blüte steht",
-  "audioGuide": "Ja (Englisch)"
+  "publicTransport": {
+    "de": "Bahnhof Kenilworth, dann Bus 11 oder X17",
+    "hu": "Kenilworth állomás, majd 11-es vagy X17-es busz",
+    "ro": "Gara Kenilworth, apoi autobuzul 11 sau X17",
+    "en": "Kenilworth station, then bus 11 or X17"
+  },
+  "parking": {
+    "de": "Gebührenpflichtiger Parkplatz (£2, für Mitglieder kostenlos)",
+    "hu": "Fizetős parkoló (£2, tagoknak ingyenes)",
+    "ro": "Parcare cu plată (£2, gratuit pentru membri)",
+    "en": "Paid parking (£2, free for members)"
+  },
+  "accessibility": {
+    "de": "Elisabethanischer Garten barrierefrei, Ruinen teilweise zugänglich",
+    "hu": "Erzsébet-kori kert akadálymentes, romok részben hozzáférhetők",
+    "ro": "Grădina elisabetană accesibilă, ruine parțial accesibile",
+    "en": "Elizabethan garden accessible, ruins partially accessible"
+  },
+  "photoRules": {
+    "de": "Erlaubt",
+    "hu": "Engedélyezett",
+    "ro": "Permis",
+    "en": "Allowed"
+  },
+  "bestTimeToVisit": {
+    "de": "Mai bis September, wenn der Garten in voller Blüte steht",
+    "hu": "Május és szeptember között, amikor a kert virágba borul",
+    "ro": "Mai până în septembrie, când grădina este în plină floare",
+    "en": "May to September, when the garden is in full bloom"
+  },
+  "audioGuide": {
+    "de": "Ja (Englisch)",
+    "hu": "Igen (angol)",
+    "ro": "Da (engleză)",
+    "en": "Yes (English)"
+  }
 }

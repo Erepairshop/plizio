@@ -1,12 +1,57 @@
 {
-  "address": "3 Rue de la Mairie, 37510 Villandry",
-  "openingHours": "Gärten täglich ab 09:00-19:00, Schloss ab 09:30-18:30 (Saisonzeiten beachten)",
-  "entranceFee": "€13 (Schloss + Gärten), €7.50 (nur Gärten)",
+  "address": {
+    "de": "3 Rue de la Mairie, 37510 Villandry",
+    "hu": "3 Rue de la Mairie, 37510 Villandry",
+    "ro": "3 Rue de la Mairie, 37510 Villandry",
+    "en": "3 Rue de la Mairie, 37510 Villandry"
+  },
+  "openingHours": {
+    "de": "Gärten täglich ab 09:00-19:00, Schloss ab 09:30-18:30 (Saisonzeiten beachten)",
+    "hu": "Kertek naponta 09:00–19:00, kastély 09:30–18:30 (szezontól függően)",
+    "ro": "Grădinile zilnic 09:00-19:00, castelul 09:30-18:30 (atenție la variațiile sezoniere)",
+    "en": "Gardens daily 09:00-19:00, castle 09:30-18:30 (check seasonal variations)"
+  },
+  "entranceFee": {
+    "de": "€13 (Schloss + Gärten), €7.50 (nur Gärten)",
+    "hu": "13 € (kastély + kertek), 7,50 € (csak a kertek)",
+    "ro": "13 € (castel + grădini), 7,50 € (doar grădinile)",
+    "en": "€13 (castle + gardens), €7.50 (gardens only)"
+  },
   "website": "https://www.chateauvillandry.fr",
-  "publicTransport": "Bus 'Fil Bleu' Linie 31 ab Tours (nur in der Hauptsaison)",
-  "parking": "Kostenlose Parkplätze in unmittelbarer Nähe zum Eingang",
-  "accessibility": "Gärten weitgehend barrierefrei (Kieswege), Schloss nur Erdgeschoss",
-  "photoRules": "Erlaubt, Stative nur in den Gärten nach Absprache",
-  "bestTimeToVisit": "Juni (Rosenblüte) oder Oktober (Gemüsegarten-Ernte)",
-  "audioGuide": "Ja, verfügbar (DE, EN, FR, IT, ES)"
+  "publicTransport": {
+    "de": "Bus 'Fil Bleu' Linie 31 ab Tours (nur in der Hauptsaison)",
+    "hu": "Fil Bleu busz, 31-es vonal Tours felől (csak főszezonban)",
+    "ro": "Autobuzul „Fil Bleu” linia 31 din Tours (doar în plin sezon)",
+    "en": "Bus 'Fil Bleu' line 31 from Tours (high season only)"
+  },
+  "parking": {
+    "de": "Kostenlose Parkplätze in unmittelbarer Nähe zum Eingang",
+    "hu": "Ingyenes parkolás közvetlenül a bejárat közelében",
+    "ro": "Parcare gratuită în imediata apropiere a intrării",
+    "en": "Free parking spaces in the immediate vicinity of the entrance"
+  },
+  "accessibility": {
+    "de": "Gärten weitgehend barrierefrei (Kieswege), Schloss nur Erdgeschoss",
+    "hu": "A kertek nagyrészt akadálymentesek (kavicsos utak), a kastélynak csak a földszintje látogatható",
+    "ro": "Grădinile sunt în mare parte accesibile (alei cu pietriș), castelul doar la parter",
+    "en": "Gardens largely accessible (gravel paths), castle ground floor only"
+  },
+  "photoRules": {
+    "de": "Erlaubt, Stative nur in den Gärten nach Absprache",
+    "hu": "Megengedett, állvány használata a kertekben előzetes egyeztetés után",
+    "ro": "Permis, trepiede doar în grădini cu acord prealabil",
+    "en": "Allowed, tripods only in the gardens by prior arrangement"
+  },
+  "bestTimeToVisit": {
+    "de": "Juni (Rosenblüte) oder Oktober (Gemüsegarten-Ernte)",
+    "hu": "Június (rózsavirágzás) vagy október (konyhakerti betakarítás)",
+    "ro": "Iunie (înflorirea trandafirilor) sau octombrie (recoltarea grădinii de legume)",
+    "en": "June (rose blossom) or October (vegetable garden harvest)"
+  },
+  "audioGuide": {
+    "de": "Ja, verfügbar (DE, EN, FR, IT, ES)",
+    "hu": "Igen, elérhető (DE, EN, FR, IT, ES)",
+    "ro": "Da, disponibil (DE, EN, FR, IT, ES)",
+    "en": "Yes, available (DE, EN, FR, IT, ES)"
+  }
 }

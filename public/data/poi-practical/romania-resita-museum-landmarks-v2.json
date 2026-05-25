@@ -1,12 +1,57 @@
 {
-  "address": "Bulevardul Republicii 10, 320033 Reșița",
-  "openingHours": "Tu-Su 09:00-17:00",
-  "entranceFee": "10 RON Erwachsene, 5 RON Studenten",
+  "address": {
+    "de": "Bulevardul Republicii 10, 320033 Reșița",
+    "hu": "Bulevardul Republicii 10, 320033 Resicabánya",
+    "ro": "Bulevardul Republicii 10, 320033 Reșița",
+    "en": "Bulevardul Republicii 10, 320033 Reșița"
+  },
+  "openingHours": {
+    "de": "Tu-Su 09:00-17:00",
+    "hu": "K-V 09:00-17:00",
+    "ro": "Mar-Du 09:00-17:00",
+    "en": "Tue-Sun 09:00-17:00"
+  },
+  "entranceFee": {
+    "de": "10 RON Erwachsene, 5 RON Studenten",
+    "hu": "10 RON felnőttek, 5 RON diákok",
+    "ro": "10 RON adulți, 5 RON studenți",
+    "en": "10 RON adults, 5 RON students"
+  },
   "website": "http://www.muzeulresita.ro",
-  "publicTransport": "Buslinien 1, 2, 3 bis Haltestelle Intrare.",
-  "parking": "Öffentliche Parkplätze vor dem Gebäude.",
-  "accessibility": "Erdgeschoss zugänglich, Obergeschosse nur über Treppen.",
-  "photoRules": "Gegen eine geringe Gebühr gestattet.",
-  "bestTimeToVisit": "Wochentags am Vormittag.",
-  "audioGuide": "nein"
+  "publicTransport": {
+    "de": "Buslinien 1, 2, 3 bis Haltestelle Intrare.",
+    "hu": "1, 2, 3-as buszok az Intrare megállóig.",
+    "ro": "Liniile 1, 2, 3 până la stația Intrare.",
+    "en": "Bus lines 1, 2, 3 to Intrare stop."
+  },
+  "parking": {
+    "de": "Öffentliche Parkplätze vor dem Gebäude.",
+    "hu": "Nyilvános parkolóhelyek az épület előtt.",
+    "ro": "Parcări publice în fața clădirii.",
+    "en": "Public parking spaces in front of the building."
+  },
+  "accessibility": {
+    "de": "Erdgeschoss zugänglich, Obergeschosse nur über Treppen.",
+    "hu": "A földszint megközelíthető, az emeletek csak lépcsőn keresztül.",
+    "ro": "Parterul este accesibil, etajele superioare doar pe scări.",
+    "en": "Ground floor accessible, upper floors only via stairs."
+  },
+  "photoRules": {
+    "de": "Gegen eine geringe Gebühr gestattet.",
+    "hu": "Csekély díj ellenében engedélyezett.",
+    "ro": "Permis contra unei taxe mici.",
+    "en": "Allowed for a small fee."
+  },
+  "bestTimeToVisit": {
+    "de": "Wochentags am Vormittag.",
+    "hu": "Hétköznap délelőtt.",
+    "ro": "În timpul săptămânii dimineața.",
+    "en": "Weekday mornings."
+  },
+  "audioGuide": {
+    "de": "nein",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

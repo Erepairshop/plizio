@@ -1,12 +1,57 @@
 {
-  "address": "Strada Cetății, Târgu Neamț 615200, Neamț",
-  "openingHours": "Mo-Su 09:00-19:00 (Sommer)",
-  "entranceFee": "24 RON Erwachsene",
+  "address": {
+    "de": "Strada Cetății, Târgu Neamț 615200, Neamț",
+    "hu": "Strada Cetății, Târgu Neamț 615200, Neamț",
+    "ro": "Strada Cetății, Târgu Neamț 615200, Neamț",
+    "en": "Strada Cetății, Târgu Neamț 615200, Neamț"
+  },
+  "openingHours": {
+    "de": "Mo-Su 09:00-19:00 (Sommer)",
+    "hu": "H-V 09:00-19:00 (nyáron)",
+    "ro": "Lu-Du 09:00-19:00 (vara)",
+    "en": "Mon-Sun 09:00-19:00 (summer)"
+  },
+  "entranceFee": {
+    "de": "24 RON Erwachsene",
+    "hu": "24 RON felnőtt",
+    "ro": "24 RON adulți",
+    "en": "24 RON adults"
+  },
   "website": "http://muzeu-neamt.ro",
-  "publicTransport": "Bus bis Târgu Neamț, dann steiler Fußweg",
-  "parking": "Großer Parkplatz am Fuß des Berges (gebührenpflichtig)",
-  "accessibility": "Nicht rollstuhlgerecht, steiler Aufstieg über Brücke",
-  "photoRules": "Privatfotos im Preis inbegriffen",
-  "bestTimeToVisit": "Klarer Tag für den Blick über das Moldautal",
-  "audioGuide": "no"
+  "publicTransport": {
+    "de": "Bus bis Târgu Neamț, dann steiler Fußweg",
+    "hu": "Busszal Târgu Neamț-ig, majd meredek gyalogút",
+    "ro": "Autobuz până la Târgu Neamț, apoi drum abrupt pe jos",
+    "en": "Bus to Târgu Neamț, then steep walk"
+  },
+  "parking": {
+    "de": "Großer Parkplatz am Fuß des Berges (gebührenpflichtig)",
+    "hu": "Nagy parkoló a hegy lábánál (fizetős)",
+    "ro": "Parcare mare la poalele muntelui (cu taxă)",
+    "en": "Large parking lot at the foot of the hill (fee required)"
+  },
+  "accessibility": {
+    "de": "Nicht rollstuhlgerecht, steiler Aufstieg über Brücke",
+    "hu": "Kerekesszékkel nem járható, meredek emelkedő a hídon keresztül",
+    "ro": "Nu este accesibil pentru scaune cu rotile, urcare abruptă pe pod",
+    "en": "Not wheelchair accessible, steep climb across the bridge"
+  },
+  "photoRules": {
+    "de": "Privatfotos im Preis inbegriffen",
+    "hu": "Saját fotók készítése benne van az árban",
+    "ro": "Fotografiile în scop privat incluse în preț",
+    "en": "Private photos included in the price"
+  },
+  "bestTimeToVisit": {
+    "de": "Klarer Tag für den Blick über das Moldautal",
+    "hu": "Tiszta időben a Moldva-völgyi kilátás miatt",
+    "ro": "Într-o zi senină pentru vederea peste valea Moldovei",
+    "en": "A clear day for views over the Moldova valley"
+  },
+  "audioGuide": {
+    "de": "no",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

@@ -1,12 +1,57 @@
 {
-  "address": "Strada Dealul Cetății, 500281 Brașov",
-  "openingHours": "Gelände 24/7 zugänglich; Innenräume derzeit oft geschlossen.",
-  "entranceFee": "Gelände kostenlos",
+  "address": {
+    "de": "Strada Dealul Cetății, 500281 Brașov",
+    "hu": "Strada Dealul Cetății, 500281 Brassó",
+    "ro": "Strada Dealul Cetății, 500281 Brașov",
+    "en": "Strada Dealul Cetății, 500281 Brașov"
+  },
+  "openingHours": {
+    "de": "Gelände 24/7 zugänglich; Innenräume derzeit oft geschlossen.",
+    "hu": "A terület 24/7 látogatható; a belső terek gyakran zárva.",
+    "ro": "Terenul accesibil non-stop; interioarele adesea închise.",
+    "en": "Grounds 24/7 accessible; interiors often closed."
+  },
+  "entranceFee": {
+    "de": "Gelände kostenlos",
+    "hu": "A terület ingyenes",
+    "ro": "Acces gratuit pe teren",
+    "en": "Grounds free"
+  },
   "website": "",
-  "publicTransport": "Kurzer Fußweg vom Zentrum oder Bus bis Strada Lungă.",
-  "parking": "Begrenzte Parkplätze entlang der Zufahrtsstraße.",
-  "accessibility": "Steiler Anstieg, für Rollstuhlfahrer nur bedingt geeignet.",
-  "photoRules": "Außenaufnahmen jederzeit erlaubt.",
-  "bestTimeToVisit": "Abends für einen Panoramablick über die Altstadt.",
-  "audioGuide": "nein"
+  "publicTransport": {
+    "de": "Kurzer Fußweg vom Zentrum oder Bus bis Strada Lungă.",
+    "hu": "Rövid séta a központból vagy busz a Strada Lungă-ig.",
+    "ro": "Scurtă plimbare de la centru sau autobuz până la Strada Lungă.",
+    "en": "Short walk from the center or bus to Strada Lungă."
+  },
+  "parking": {
+    "de": "Begrenzte Parkplätze entlang der Zufahrtsstraße.",
+    "hu": "Korlátozott parkolási lehetőség a bekötőút mentén.",
+    "ro": "Parcări limitate de-a lungul drumului de acces.",
+    "en": "Limited parking along the access road."
+  },
+  "accessibility": {
+    "de": "Steiler Anstieg, für Rollstuhlfahrer nur bedingt geeignet.",
+    "hu": "Meredek emelkedő, kerekesszékesek számára csak részben alkalmas.",
+    "ro": "Urcare abruptă, potrivită doar parțial pentru scaune cu rotile.",
+    "en": "Steep climb, only conditionally suitable for wheelchair users."
+  },
+  "photoRules": {
+    "de": "Außenaufnahmen jederzeit erlaubt.",
+    "hu": "Külső fotók bármikor készíthetők.",
+    "ro": "Fotografierea exterioară permisă oricând.",
+    "en": "Outdoor photos allowed anytime."
+  },
+  "bestTimeToVisit": {
+    "de": "Abends für einen Panoramablick über die Altstadt.",
+    "hu": "Este, a városra nyíló panoráma kilátásért.",
+    "ro": "Seara pentru o vedere panoramică asupra centrului vechi.",
+    "en": "Evenings for a panoramic view over the old town."
+  },
+  "audioGuide": {
+    "de": "nein",
+    "hu": "nem",
+    "ro": "nu",
+    "en": "no"
+  }
 }

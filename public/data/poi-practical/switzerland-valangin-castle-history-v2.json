@@ -1,12 +1,57 @@
 {
-  "address": "Place de la Collégiale 1, 2042 Valangin",
-  "openingHours": "Di-Sa 13:30-17:00, So 11:00-17:00 (März bis Oktober)",
-  "entranceFee": "CHF 9 Erwachsene, CHF 4 Kinder",
+  "address": {
+    "de": "Place de la Collégiale 1, 2042 Valangin",
+    "hu": "Place de la Collégiale 1, 2042 Valangin",
+    "ro": "Place de la Collégiale 1, 2042 Valangin",
+    "en": "Place de la Collégiale 1, 2042 Valangin"
+  },
+  "openingHours": {
+    "de": "Di-Sa 13:30-17:00, So 11:00-17:00 (März bis Oktober)",
+    "hu": "K–Szo 13:30–17:00, V 11:00–17:00 (március–október)",
+    "ro": "Mar-Sâm 13:30-17:00, Dum 11:00-17:00 (Martie până în Octombrie)",
+    "en": "Tue-Sat 13:30-17:00, Sun 11:00-17:00 (March to October)"
+  },
+  "entranceFee": {
+    "de": "CHF 9 Erwachsene, CHF 4 Kinder",
+    "hu": "9 CHF felnőtt, 4 CHF gyermek",
+    "ro": "9 CHF adulți, 4 CHF copii",
+    "en": "9 CHF adults, 4 CHF children"
+  },
   "website": "https://www.chateau-de-valangin.ch/",
-  "publicTransport": "Buslinie 422 ab Neuchâtel (Place Pury) bis Haltestelle Valangin, Collégiale.",
-  "parking": "Begrenzte Anzahl an weissen und blauen Parkplätzen im alten Dorfkern von Valangin.",
-  "accessibility": "Historisches Gebäude mit vielen engen Wendeltreppen, nicht rollstuhlgängig.",
-  "photoRules": "Privates Fotografieren in der Ausstellung und im Innenhof gestattet.",
-  "bestTimeToVisit": "Sonntagnachmittag, kombiniert mit einem Spaziergang durch das mittelalterliche Dorf.",
-  "audioGuide": "no"
+  "publicTransport": {
+    "de": "Buslinie 422 ab Neuchâtel (Place Pury) bis Haltestelle Valangin, Collégiale.",
+    "hu": "422-es busz Neuchâtelből (Place Pury) a Valangin, Collégiale megállóig.",
+    "ro": "Linia de autobuz 422 din Neuchâtel (Place Pury) până la stația Valangin, Collégiale.",
+    "en": "Bus line 422 from Neuchâtel (Place Pury) to Valangin, Collégiale stop."
+  },
+  "parking": {
+    "de": "Begrenzte Anzahl an weissen und blauen Parkplätzen im alten Dorfkern von Valangin.",
+    "hu": "Korlátozott számú fehér és kék parkolóhely Valangin ófalujában.",
+    "ro": "Număr limitat de locuri de parcare albe și albastre în centrul vechi al satului Valangin.",
+    "en": "Limited number of white and blue parking spaces in the old village center of Valangin."
+  },
+  "accessibility": {
+    "de": "Historisches Gebäude mit vielen engen Wendeltreppen, nicht rollstuhlgängig.",
+    "hu": "Történelmi épület sok szűk csigalépcsővel, nem kerekes székesbarát.",
+    "ro": "Clădire istorică cu multe scări în spirală înguste, nu este accesibilă.",
+    "en": "Historical building with many narrow spiral stairs, not wheelchair accessible."
+  },
+  "photoRules": {
+    "de": "Privates Fotografieren in der Ausstellung und im Innenhof gestattet.",
+    "hu": "A privát fotózás a kiállításon és az udvaron engedélyezett.",
+    "ro": "Fotografiatul privat în expoziție și în curte este permis.",
+    "en": "Private photography in the exhibition and courtyard permitted."
+  },
+  "bestTimeToVisit": {
+    "de": "Sonntagnachmittag, kombiniert mit einem Spaziergang durch das mittelalterliche Dorf.",
+    "hu": "Vasárnap délután, egy középkori falu sétával összekötve.",
+    "ro": "Duminică după-amiaza, combinat cu o plimbare prin satul medieval.",
+    "en": "Sunday afternoon, combined with a walk through the medieval village."
+  },
+  "audioGuide": {
+    "de": "no",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

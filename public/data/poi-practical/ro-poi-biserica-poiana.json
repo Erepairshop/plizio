@@ -1,12 +1,57 @@
 {
-  "address": "Strada Bisericii, 927200 Poiana, Ialomița",
-  "openingHours": "Mo-Su 09:00-17:00 (auf Anfrage)",
-  "entranceFee": "donation",
+  "address": {
+    "de": "Strada Bisericii, 927200 Poiana, Ialomița",
+    "hu": "Strada Bisericii, 927200 Poiana, Ialomița",
+    "ro": "Strada Bisericii, 927200 Poiana, Ialomița",
+    "en": "Strada Bisericii, 927200 Poiana, Ialomița"
+  },
+  "openingHours": {
+    "de": "Mo-Su 09:00-17:00 (auf Anfrage)",
+    "hu": "H-V 09:00-17:00 (kérésre)",
+    "ro": "Lu-Du 09:00-17:00 (la cerere)",
+    "en": "Mon-Sun 09:00-17:00 (upon request)"
+  },
+  "entranceFee": {
+    "de": "donation",
+    "hu": "adomány",
+    "ro": "donație",
+    "en": "donation"
+  },
   "website": "",
-  "publicTransport": "Eingeschränkt, am besten mit dem Auto ab Slobozia",
-  "parking": "Parken direkt vor der Kirche möglich",
-  "accessibility": "Eine Stufe am Eingang, sonst ebenerdig",
-  "photoRules": "Innenaufnahmen nach Absprache",
-  "bestTimeToVisit": "Sonntagmorgens während des Gottesdienstes",
-  "audioGuide": "no"
+  "publicTransport": {
+    "de": "Eingeschränkt, am besten mit dem Auto ab Slobozia",
+    "hu": "Korlátozott, legjobb autóval Sloboziából",
+    "ro": "Limitat, cel mai bine cu mașina din Slobozia",
+    "en": "Limited, best by car from Slobozia"
+  },
+  "parking": {
+    "de": "Parken direkt vor der Kirche möglich",
+    "hu": "Parkolás közvetlenül a templom előtt",
+    "ro": "Parcare posibilă chiar în fața bisericii",
+    "en": "Parking possible directly in front of the church"
+  },
+  "accessibility": {
+    "de": "Eine Stufe am Eingang, sonst ebenerdig",
+    "hu": "Egy lépcsőfok a bejáratnál, egyébként szintben",
+    "ro": "O treaptă la intrare, în rest accesibil la nivel",
+    "en": "One step at the entrance, otherwise level"
+  },
+  "photoRules": {
+    "de": "Innenaufnahmen nach Absprache",
+    "hu": "Belső felvételek egyeztetés után",
+    "ro": "Fotografii interioare după consultare",
+    "en": "Interior photos by arrangement"
+  },
+  "bestTimeToVisit": {
+    "de": "Sonntagmorgens während des Gottesdienstes",
+    "hu": "Vasárnap reggel az istentisztelet alatt",
+    "ro": "Duminică dimineața în timpul slujbei",
+    "en": "Sunday mornings during the church service"
+  },
+  "audioGuide": {
+    "de": "no",
+    "hu": "nem",
+    "ro": "nu",
+    "en": "no"
+  }
 }

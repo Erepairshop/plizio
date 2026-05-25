@@ -1,12 +1,57 @@
 {
-  "address": "Sasca Montană, 327330 Caraș-Severin",
-  "openingHours": "24/7",
-  "entranceFee": "ca. 5-10 RON Nationalparkgebühr",
+  "address": {
+    "de": "Sasca Montană, 327330 Caraș-Severin",
+    "hu": "Szászkabánya, 327330 Krassó-Szörény",
+    "ro": "Sasca Montană, 327330 Caraș-Severin",
+    "en": "Sasca Montană, 327330 Caraș-Severin"
+  },
+  "openingHours": {
+    "de": "24/7",
+    "hu": "Non-stop",
+    "ro": "24/7",
+    "en": "24/7"
+  },
+  "entranceFee": {
+    "de": "ca. 5-10 RON Nationalparkgebühr",
+    "hu": "kb. 5-10 RON nemzeti parki díj",
+    "ro": "aprox. 5-10 RON taxă parc național",
+    "en": "approx. 5-10 RON national park fee"
+  },
   "website": "http://www.cheilenereibeusnita.ro/",
-  "publicTransport": "Sehr eingeschränkt, Auto empfohlen",
-  "parking": "Parkplatz bei Podu Bei, ca. 10 RON",
-  "accessibility": "Nicht barrierefrei, schmale Wanderwege",
-  "photoRules": "Erlaubt",
-  "bestTimeToVisit": "Juni nach Regenfällen",
-  "audioGuide": "no"
+  "publicTransport": {
+    "de": "Sehr eingeschränkt, Auto empfohlen",
+    "hu": "Nagyon korlátozott, autó ajánlott",
+    "ro": "Foarte limitat, se recomandă mașina",
+    "en": "Very limited, car recommended"
+  },
+  "parking": {
+    "de": "Parkplatz bei Podu Bei, ca. 10 RON",
+    "hu": "Parkoló Podu Beinél, kb. 10 RON",
+    "ro": "Parcare la Podu Bei, aprox. 10 RON",
+    "en": "Parking at Podu Bei, approx. 10 RON"
+  },
+  "accessibility": {
+    "de": "Nicht barrierefrei, schmale Wanderwege",
+    "hu": "Nem akadálymentes, keskeny túraútvonalak",
+    "ro": "Nu este accesibil, poteci înguste",
+    "en": "Not accessible, narrow hiking trails"
+  },
+  "photoRules": {
+    "de": "Erlaubt",
+    "hu": "Engedélyezett",
+    "ro": "Permis",
+    "en": "Allowed"
+  },
+  "bestTimeToVisit": {
+    "de": "Juni nach Regenfällen",
+    "hu": "Június, esőzések után",
+    "ro": "Iunie după ploi",
+    "en": "June after rains"
+  },
+  "audioGuide": {
+    "de": "no",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

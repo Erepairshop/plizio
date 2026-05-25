@@ -1,12 +1,57 @@
 {
-  "address": "Fürstenweg 37, 5020 Salzburg, Österreich",
-  "openingHours": "April, Okt-Nov: 09:00-17:30; Mai-Sept: 09:00-18:30 (Juli/Aug bis 19:00)",
-  "entranceFee": "€13,50 Erwachsene (Schloss, Wasserspiele, Volkskundemuseum)",
+  "address": {
+    "de": "Fürstenweg 37, 5020 Salzburg, Österreich",
+    "hu": "Fürstenweg 37, 5020 Salzburg, Ausztria",
+    "ro": "Fürstenweg 37, 5020 Salzburg, Austria",
+    "en": "Fürstenweg 37, 5020 Salzburg, Austria"
+  },
+  "openingHours": {
+    "de": "April, Okt-Nov: 09:00-17:30; Mai-Sept: 09:00-18:30 (Juli/Aug bis 19:00)",
+    "hu": "április, okt-nov: 09:00-17:30; május-szept: 09:00-18:30 (júl/aug 19:00-ig)",
+    "ro": "aprilie, oct-noi: 09:00-17:30; mai-sept: 09:00-18:30 (iul/aug până la 19:00)",
+    "en": "April, Oct-Nov: 09:00-17:30; May-Sept: 09:00-18:30 (July/Aug until 19:00)"
+  },
+  "entranceFee": {
+    "de": "€13,50 Erwachsene (Schloss, Wasserspiele, Volkskundemuseum)",
+    "hu": "13,50 € felnőtt (kastély, szökőkutak, néprajzi múzeum)",
+    "ro": "13,50 € adulți (castel, jocuri de apă, muzeul etnografic)",
+    "en": "€13.50 adults (palace, trick fountains, folklore museum)"
+  },
   "website": "https://www.hellbrunn.at/",
-  "publicTransport": "Buslinie 25 direkt ab Salzburg Hauptbahnhof oder Zentrum",
-  "parking": "Großer Besucherparkplatz vorhanden (gebührenpflichtig)",
-  "accessibility": "Schloss und Park barrierefrei, Wasserspiele mit Einschränkungen zugänglich",
-  "photoRules": "Erlaubt (Vorsicht vor Wasserspritzern bei den Wasserspielen!)",
-  "bestTimeToVisit": "An heißen Sommertagen zur Abkühlung in den Wasserspielen",
-  "audioGuide": "ja (Deutsch, Englisch, Französisch, Italienisch, Spanisch)"
+  "publicTransport": {
+    "de": "Buslinie 25 direkt ab Salzburg Hauptbahnhof oder Zentrum",
+    "hu": "25-ös busz közvetlenül Salzburg főpályaudvarától vagy a központból",
+    "ro": "Linia de autobuz 25 direct din gara centrală din Salzburg sau din centru",
+    "en": "Bus line 25 directly from Salzburg central station or city center"
+  },
+  "parking": {
+    "de": "Großer Besucherparkplatz vorhanden (gebührenpflichtig)",
+    "hu": "Nagy látogatói parkoló (fizetős)",
+    "ro": "Parcare mare pentru vizitatori (cu plată)",
+    "en": "Large visitor parking available (fee required)"
+  },
+  "accessibility": {
+    "de": "Schloss und Park barrierefrei, Wasserspiele mit Einschränkungen zugänglich",
+    "hu": "A kastély és a park akadálymentesített, a szökőkutak korlátozottan látogathatók",
+    "ro": "Castel și parc accesibile, jocurile de apă vizitabile cu restricții",
+    "en": "Palace and park accessible, trick fountains with limitations"
+  },
+  "photoRules": {
+    "de": "Erlaubt (Vorsicht vor Wasserspritzern bei den Wasserspielen!)",
+    "hu": "Megengedett (vigyázat a vízpermettel a szökőkutaknál!)",
+    "ro": "Permis (atenție la stropii de apă la jocurile de apă!)",
+    "en": "Allowed (beware of water splashes at the trick fountains!)"
+  },
+  "bestTimeToVisit": {
+    "de": "An heißen Sommertagen zur Abkühlung in den Wasserspielen",
+    "hu": "Forró nyári napokon, hűsöléshez a szökőkutaknál",
+    "ro": "În zilele toride de vară pentru răcorire la jocurile de apă",
+    "en": "On hot summer days for cooling off at the trick fountains"
+  },
+  "audioGuide": {
+    "de": "ja (Deutsch, Englisch, Französisch, Italienisch, Spanisch)",
+    "hu": "igen (német, angol, francia, olasz, spanyol)",
+    "ro": "da (germană, engleză, franceză, italiană, spaniolă)",
+    "en": "yes (German, English, French, Italian, Spanish)"
+  }
 }

@@ -1,12 +1,57 @@
 {
-  "address": "Domhof 1, 52062 Aachen",
-  "openingHours": "Mo-Sa 11:00-18:00, So 13:00-17:45 (Besichtigung außerhalb der Gottesdienste)",
-  "entranceFee": "free (Spende erbeten); Schatzkammer: €5; Führung: €5",
+  "address": {
+    "de": "Domhof 1, 52062 Aachen",
+    "hu": "Domhof 1, 52062 Aachen",
+    "ro": "Domhof 1, 52062 Aachen",
+    "en": "Domhof 1, 52062 Aachen"
+  },
+  "openingHours": {
+    "de": "Mo-Sa 11:00-18:00, So 13:00-17:45 (Besichtigung außerhalb der Gottesdienste)",
+    "hu": "Hé–Szo 11:00–18:00, Va 13:00–17:45 (látogatás a szertartásokon kívül)",
+    "ro": "Lu-Sâ 11:00-18:00, Du 13:00-17:45 (vizită în afara orelor de slujbă)",
+    "en": "Mon-Sat 11:00-18:00, Sun 13:00-17:45 (viewing outside of church services)"
+  },
+  "entranceFee": {
+    "de": "free (Spende erbeten); Schatzkammer: €5; Führung: €5",
+    "hu": "ingyenes (adományt elfogadnak); kincstár: 5 €; vezetés: 5 €",
+    "ro": "gratuit (se acceptă donații); tezaur: 5 €; tur ghidat: 5 €",
+    "en": "free (donations welcome); treasury: €5; guided tour: €5"
+  },
   "website": "https://www.aachenerdom.de",
-  "publicTransport": "Bus bis Haltestelle 'Elisenbrunnen', dann 5 Min. Fußweg",
-  "parking": "Parkhaus am Dom, ca. €2.20/Std.",
-  "accessibility": "Erdgeschoss barrierefrei; Chorhalle und Obergeschoss nur mit Führung (Stufen)",
-  "photoRules": "Fotoerlaubnis für €3 an der Kasse erhältlich (ohne Blitz/Stativ)",
-  "bestTimeToVisit": "Direkt zur Öffnung um 11:00 Uhr, um Lichtspiele der Fenster zu sehen",
-  "audioGuide": "no (Führungen empfohlen)"
+  "publicTransport": {
+    "de": "Bus bis Haltestelle 'Elisenbrunnen', dann 5 Min. Fußweg",
+    "hu": "Busz Elisenbrunnen megállóig, onnan 5 perc séta",
+    "ro": "Autobuz până la stația „Elisenbrunnen”, apoi 5 minute de mers pe jos",
+    "en": "Bus to 'Elisenbrunnen' stop, then a 5-minute walk"
+  },
+  "parking": {
+    "de": "Parkhaus am Dom, ca. €2.20/Std.",
+    "hu": "Parkhaus am Dom, kb. 2,20 €/óra",
+    "ro": "Parcarea „am Dom”, aprox. 2,20 €/oră",
+    "en": "Parking garage 'am Dom', approx. €2.20/hr"
+  },
+  "accessibility": {
+    "de": "Erdgeschoss barrierefrei; Chorhalle und Obergeschoss nur mit Führung (Stufen)",
+    "hu": "A földszint akadálymentes; a kórusterem és a felső szint csak vezetéssel (lépcsők)",
+    "ro": "Parterul este accesibil; corul și etajul superior doar cu tur ghidat (trepte)",
+    "en": "Ground floor accessible; choir and upper floor by guided tour only (steps)"
+  },
+  "photoRules": {
+    "de": "Fotoerlaubnis für €3 an der Kasse erhältlich (ohne Blitz/Stativ)",
+    "hu": "Fotójegy 3 €-ért kapható a pénztárnál (vaku és állvány nélkül)",
+    "ro": "Permis de fotografiere disponibil la casă pentru 3 € (fără bliț/trepied)",
+    "en": "Photography permit available for €3 at the ticket office (no flash/tripod)"
+  },
+  "bestTimeToVisit": {
+    "de": "Direkt zur Öffnung um 11:00 Uhr, um Lichtspiele der Fenster zu sehen",
+    "hu": "Közvetlenül 11 órai nyitáskor, az üvegablakok fényjátéka miatt",
+    "ro": "Exact la deschidere, la ora 11:00, pentru a vedea jocurile de lumină ale vitraliilor",
+    "en": "Right at opening at 11:00 AM to see the light effects through the windows"
+  },
+  "audioGuide": {
+    "de": "no (Führungen empfohlen)",
+    "hu": "nem (vezetés javasolt)",
+    "ro": "nu (se recomandă tururile ghidate)",
+    "en": "no (guided tours recommended)"
+  }
 }

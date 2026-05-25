@@ -1,12 +1,57 @@
 {
-  "address": "Maria-Theresien-Platz, 1010 Wien",
-  "openingHours": "Tu-Su 10:00-18:00, Th 10:00-21:00",
-  "entranceFee": "€21 Erwachsene",
+  "address": {
+    "de": "Maria-Theresien-Platz, 1010 Wien",
+    "hu": "Maria-Theresien-Platz, 1010 Bécs",
+    "ro": "Maria-Theresien-Platz, 1010 Viena",
+    "en": "Maria-Theresien-Platz, 1010 Vienna"
+  },
+  "openingHours": {
+    "de": "Tu-Su 10:00-18:00, Th 10:00-21:00",
+    "hu": "K-V 10:00-18:00, Cs 10:00-21:00",
+    "ro": "Ma-Du 10:00-18:00, Jo 10:00-21:00",
+    "en": "Tue-Sun 10:00 AM - 6:00 PM, Thu 10:00 AM - 9:00 PM"
+  },
+  "entranceFee": {
+    "de": "€21 Erwachsene",
+    "hu": "21 € felnőtt",
+    "ro": "21 € adulți",
+    "en": "€21 adults"
+  },
   "website": "https://www.khm.at",
-  "publicTransport": "U2, U3 Volkstheater oder Tram 1, 2, D, 71 (Burgring)",
-  "parking": "Parkgarage Museumsquartier, ca. 5 Gehminuten entfernt.",
-  "accessibility": "Das gesamte Museum ist durch Rampen und Lifte vollständig barrierefrei zugänglich.",
-  "photoRules": "Fotografieren für private Zwecke ohne Blitz und Stativ ist gestattet.",
-  "bestTimeToVisit": "Donnerstagabend ab 18:00 Uhr für eine ruhigere Atmosphäre beim Abendbesuch.",
-  "audioGuide": "Gegen Gebühr (€6) in vielen Sprachen an der Garderobe erhältlich."
+  "publicTransport": {
+    "de": "U2, U3 Volkstheater oder Tram 1, 2, D, 71 (Burgring)",
+    "hu": "U2, U3 Volkstheater vagy 1, 2, D, 71 villamos (Burgring)",
+    "ro": "U2, U3 Volkstheater sau tramvaiul 1, 2, D, 71 (Burgring)",
+    "en": "U2, U3 Volkstheater or Tram 1, 2, D, 71 (Burgring)"
+  },
+  "parking": {
+    "de": "Parkgarage Museumsquartier, ca. 5 Gehminuten entfernt.",
+    "hu": "Museumsquartier parkolóház, kb. 5 perc séta.",
+    "ro": "Garajul Museumsquartier, la aprox. 5 minute de mers pe jos.",
+    "en": "Museumsquartier parking garage, approx. 5-minute walk away."
+  },
+  "accessibility": {
+    "de": "Das gesamte Museum ist durch Rampen und Lifte vollständig barrierefrei zugänglich.",
+    "hu": "Az egész múzeum rámpákkal és liftekkel teljesen akadálymentesen megközelíthető.",
+    "ro": "Întregul muzeu este complet accesibil prin rampe și lifturi.",
+    "en": "The entire museum is fully accessible via ramps and elevators."
+  },
+  "photoRules": {
+    "de": "Fotografieren für private Zwecke ohne Blitz und Stativ ist gestattet.",
+    "hu": "Magáncélú fotózás vaku és állvány nélkül megengedett.",
+    "ro": "Fotografierea în scopuri private fără bliț și trepied este permisă.",
+    "en": "Photography for private purposes without flash and tripod is permitted."
+  },
+  "bestTimeToVisit": {
+    "de": "Donnerstagabend ab 18:00 Uhr für eine ruhigere Atmosphäre beim Abendbesuch.",
+    "hu": "Csütörtök este 18:00 után a nyugodtabb esti látogatáshoz.",
+    "ro": "Joi seara după ora 18:00 pentru o atmosferă mai liniștită în timpul vizitei de seară.",
+    "en": "Thursday evenings from 6:00 PM for a quieter atmosphere during an evening visit."
+  },
+  "audioGuide": {
+    "de": "Gegen Gebühr (€6) in vielen Sprachen an der Garderobe erhältlich.",
+    "hu": "Díj ellenében (6 €) számos nyelven elérhető a ruhatárnál.",
+    "ro": "Disponibil contra cost (6 €) în multe limbi la garderobă.",
+    "en": "Available for a fee (€6) in many languages at the cloakroom."
+  }
 }

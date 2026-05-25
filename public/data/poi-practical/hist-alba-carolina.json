@@ -1,12 +1,57 @@
 {
-  "address": "Calea Moților, Alba Iulia 510001, Alba",
-  "openingHours": "24/7 (Festungsgelände), Museen Mo-Su 09:00-19:00",
-  "entranceFee": "Gelände frei, Museen ca. 25 RON",
+  "address": {
+    "de": "Calea Moților, Alba Iulia 510001, Alba",
+    "hu": "Calea Moților, Gyulafehérvár 510001, Fehér",
+    "ro": "Calea Moților, Alba Iulia 510001, Alba",
+    "en": "Calea Moților, Alba Iulia 510001, Alba"
+  },
+  "openingHours": {
+    "de": "24/7 (Festungsgelände), Museen Mo-Su 09:00-19:00",
+    "hu": "0–24 (várterület), múzeumok Hé–Va 09:00–19:00",
+    "ro": "Non-stop (cetatea), muzeele Lu-Du 09:00-19:00",
+    "en": "24/7 (fortress grounds), museums Mon-Sun 09:00-19:00"
+  },
+  "entranceFee": {
+    "de": "Gelände frei, Museen ca. 25 RON",
+    "hu": "Várterület ingyenes, múzeumbelépő kb. 25 RON",
+    "ro": "Accesul în cetate gratuit, muzeele aprox. 25 RON",
+    "en": "Grounds free, museums approx. 25 RON"
+  },
   "website": "https://turism.apulum.ro",
-  "publicTransport": "Zentrale Lage, fußläufig vom Bahnhof Alba Iulia",
-  "parking": "Gebührenpflichtige Parkzonen rund um die Festungswälle",
-  "accessibility": "Sehr gut zugänglich, Rampen an den Toren vorhanden",
-  "photoRules": "Auf dem Gelände frei erlaubt, Stativgebühr in Museen",
-  "bestTimeToVisit": "Täglich um 12:00 Uhr zur feierlichen Wachablösung",
-  "audioGuide": "ja (RO, EN)"
+  "publicTransport": {
+    "de": "Zentrale Lage, fußläufig vom Bahnhof Alba Iulia",
+    "hu": "Központi fekvés, gyalogosan is elérhető a gyulafehérvári vasútállomástól",
+    "ro": "Locație centrală, la distanță de mers pe jos de gara Alba Iulia",
+    "en": "Central location, within walking distance from Alba Iulia station"
+  },
+  "parking": {
+    "de": "Gebührenpflichtige Parkzonen rund um die Festungswälle",
+    "hu": "Fizetős parkolózónák a vársáncok körül",
+    "ro": "Zone de parcare cu plată în jurul zidurilor cetății",
+    "en": "Paid parking zones around the fortress walls"
+  },
+  "accessibility": {
+    "de": "Sehr gut zugänglich, Rampen an den Toren vorhanden",
+    "hu": "Kiválóan hozzáférhető, a kapuknál rámpák találhatók",
+    "ro": "Accesibilitate foarte bună, există rampe la porți",
+    "en": "Very good accessibility, ramps available at the gates"
+  },
+  "photoRules": {
+    "de": "Auf dem Gelände frei erlaubt, Stativgebühr in Museen",
+    "hu": "A vár területén szabadon engedélyezett, a múzeumokban állványhasználati díj van",
+    "ro": "Permis gratuit în cetate, taxă pentru trepied în muzee",
+    "en": "Free on the grounds, tripod fee in museums"
+  },
+  "bestTimeToVisit": {
+    "de": "Täglich um 12:00 Uhr zur feierlichen Wachablösung",
+    "hu": "Naponta 12:00-kor az ünnepélyes őrségváltásra",
+    "ro": "Zilnic la ora 12:00 pentru schimbarea solemnă a gărzii",
+    "en": "Daily at 12:00 PM for the ceremonial changing of the guard"
+  },
+  "audioGuide": {
+    "de": "ja (RO, EN)",
+    "hu": "igen (RO, EN)",
+    "ro": "da (RO, EN)",
+    "en": "yes (RO, EN)"
+  }
 }

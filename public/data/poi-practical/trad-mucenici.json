@@ -1,12 +1,57 @@
 {
-  "address": "Șoseaua Kiseleff 28-30, 011347 București",
-  "openingHours": "Jährlich am 9. März",
-  "entranceFee": "frei (Verkostung auf Märkten kostenpflichtig)",
+  "address": {
+    "de": "Șoseaua Kiseleff 28-30, 011347 București",
+    "hu": "Șoseaua Kiseleff 28-30, 011347 Bukarest",
+    "ro": "Șoseaua Kiseleff 28-30, 011347 București",
+    "en": "Șoseaua Kiseleff 28-30, 011347 Bucharest"
+  },
+  "openingHours": {
+    "de": "Jährlich am 9. März",
+    "hu": "Évente március 9-én",
+    "ro": "Anual pe 9 martie",
+    "en": "Annually on March 9th"
+  },
+  "entranceFee": {
+    "de": "frei (Verkostung auf Märkten kostenpflichtig)",
+    "hu": "ingyenes (a piaci kóstoló fizetős)",
+    "ro": "gratuit (degustarea în piețe este contra cost)",
+    "en": "free (tasting at markets for a fee)"
+  },
   "website": "https://muzeul-satului.ro",
-  "publicTransport": "Bus 131, 205, 282, 330, 331, 335 bis Station Muzeul Satului",
-  "parking": "Begrenzte Parkplätze entlang des Herăstrău-Parks (ca. 5-10 RON/Std.)",
-  "accessibility": "Das Freilichtmuseum ist größtenteils rollstuhlgerecht, historische Häuser oft mit Stufen.",
-  "photoRules": "Im Freien erlaubt, in Innenräumen der Häuser oft verboten oder gegen Gebühr.",
-  "bestTimeToVisit": "Vormittags, wenn die traditionellen 40 Mucenici-Gebäcke frisch serviert werden.",
-  "audioGuide": "nein"
+  "publicTransport": {
+    "de": "Bus 131, 205, 282, 330, 331, 335 bis Station Muzeul Satului",
+    "hu": "131, 205, 282, 330, 331, 335 busz a Muzeul Satului megállóig",
+    "ro": "Autobuz 131, 205, 282, 330, 331, 335 până la stația Muzeul Satului",
+    "en": "Bus 131, 205, 282, 330, 331, 335 to Muzeul Satului station"
+  },
+  "parking": {
+    "de": "Begrenzte Parkplätze entlang des Herăstrău-Parks (ca. 5-10 RON/Std.)",
+    "hu": "Korlátozott parkolóhelyek a Herăstrău park mentén (kb. 5-10 lej/óra)",
+    "ro": "Locuri de parcare limitate de-a lungul parcului Herăstrău (cca. 5-10 RON/oră)",
+    "en": "Limited parking along Herăstrău Park (approx. 5-10 RON/hr)"
+  },
+  "accessibility": {
+    "de": "Das Freilichtmuseum ist größtenteils rollstuhlgerecht, historische Häuser oft mit Stufen.",
+    "hu": "A szabadtéri múzeum nagyrészt kerekesszékkel járható, a történelmi házak gyakran lépcsősek.",
+    "ro": "Muzeul satului este în mare parte accesibil pentru scaune cu rotile, casele istorice au adesea trepte.",
+    "en": "The open-air museum is mostly wheelchair accessible, historic houses often have steps."
+  },
+  "photoRules": {
+    "de": "Im Freien erlaubt, in Innenräumen der Häuser oft verboten oder gegen Gebühr.",
+    "hu": "Szabadban megengedett, a házak belsejében gyakran tilos vagy fizetős.",
+    "ro": "Permis în aer liber, în interiorul caselor adesea interzis sau contra cost.",
+    "en": "Allowed outdoors, often forbidden or for a fee inside houses."
+  },
+  "bestTimeToVisit": {
+    "de": "Vormittags, wenn die traditionellen 40 Mucenici-Gebäcke frisch serviert werden.",
+    "hu": "Délelőtt, amikor a hagyományos 40 mucenici-süteményt frissen tálalják.",
+    "ro": "Dimineața, când mucenicii tradiționali sunt serviți proaspeți.",
+    "en": "In the morning when the traditional 40 mucenici pastries are served fresh."
+  },
+  "audioGuide": {
+    "de": "nein",
+    "hu": "nem",
+    "ro": "nu",
+    "en": "no"
+  }
 }

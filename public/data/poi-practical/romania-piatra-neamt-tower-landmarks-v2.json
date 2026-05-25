@@ -1,12 +1,57 @@
 {
-  "address": "Piața Libertății, 610029 Piatra Neamț",
-  "openingHours": "Tu-Su 10:00-18:00",
-  "entranceFee": "10 RON Erwachsene, 5 RON Kinder",
+  "address": {
+    "de": "Piața Libertății, 610029 Piatra Neamț",
+    "hu": "Piața Libertății, 610029 Piatra Neamț",
+    "ro": "Piața Libertății, 610029 Piatra Neamț",
+    "en": "Piața Libertății, 610029 Piatra Neamț"
+  },
+  "openingHours": {
+    "de": "Tu-Su 10:00-18:00",
+    "hu": "K-V 10:00-18:00",
+    "ro": "Mar-Du 10:00-18:00",
+    "en": "Tue-Sun 10:00-18:00"
+  },
+  "entranceFee": {
+    "de": "10 RON Erwachsene, 5 RON Kinder",
+    "hu": "10 RON felnőttek, 5 RON gyerekek",
+    "ro": "10 RON adulți, 5 RON copii",
+    "en": "10 RON adults, 5 RON children"
+  },
   "website": "",
-  "publicTransport": "Zentraler Platz, zu Fuß aus der Innenstadt erreichbar.",
-  "parking": "Parkplatz hinter dem Rathaus (Primăria) vorhanden.",
-  "accessibility": "Nicht barrierefrei, enge Wendeltreppe führt zur Aussichtsplattform.",
-  "photoRules": "Erlaubt, Stativnutzung im Turm wegen Platzmangel schwierig.",
-  "bestTimeToVisit": "Kurz vor Sonnenuntergang für den Blick über die Stadt.",
-  "audioGuide": "nein"
+  "publicTransport": {
+    "de": "Zentraler Platz, zu Fuß aus der Innenstadt erreichbar.",
+    "hu": "Központi tér, gyalogosan elérhető a belvárosból.",
+    "ro": "Piață centrală, accesibilă pe jos din centrul orașului.",
+    "en": "Central square, reachable on foot from the city center."
+  },
+  "parking": {
+    "de": "Parkplatz hinter dem Rathaus (Primăria) vorhanden.",
+    "hu": "Parkoló a városháza (Primăria) mögött.",
+    "ro": "Parcare disponibilă în spatele Primăriei.",
+    "en": "Parking available behind the City Hall (Primăria)."
+  },
+  "accessibility": {
+    "de": "Nicht barrierefrei, enge Wendeltreppe führt zur Aussichtsplattform.",
+    "hu": "Nem akadálymentes, szűk csigalépcső vezet a kilátóhoz.",
+    "ro": "Nu este accesibil, o scară spiralată îngustă duce la platforma de observare.",
+    "en": "Not accessible, narrow spiral staircase leads to the observation deck."
+  },
+  "photoRules": {
+    "de": "Erlaubt, Stativnutzung im Turm wegen Platzmangel schwierig.",
+    "hu": "Engedélyezett, állvány használata a toronyban helyhiány miatt nehézkes.",
+    "ro": "Permis, utilizarea trepiedului în turn este dificilă din cauza lipsei de spațiu.",
+    "en": "Allowed, tripod use in the tower is difficult due to lack of space."
+  },
+  "bestTimeToVisit": {
+    "de": "Kurz vor Sonnenuntergang für den Blick über die Stadt.",
+    "hu": "Naplemente előtt, a városra nyíló kilátásért.",
+    "ro": "Înainte de apus, pentru priveliștea asupra orașului.",
+    "en": "Just before sunset for the view over the city."
+  },
+  "audioGuide": {
+    "de": "nein",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

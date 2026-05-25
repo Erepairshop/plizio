@@ -1,12 +1,57 @@
 {
-  "address": "Strada General Traian Moșoiu 24, Bran 507025, Brașov",
-  "openingHours": "Mo 12:00-18:00, Tu-Su 09:00-18:00",
-  "entranceFee": "60 RON Erwachsene, 15 RON Kinder",
+  "address": {
+    "de": "Strada General Traian Moșoiu 24, Bran 507025, Brașov",
+    "hu": "Strada General Traian Moșoiu 24, Törcsvár (Bran) 507025, Brassó megye",
+    "ro": "Strada General Traian Moșoiu 24, Bran 507025, Brașov",
+    "en": "Strada General Traian Moșoiu 24, Bran 507025, Brașov County"
+  },
+  "openingHours": {
+    "de": "Mo 12:00-18:00, Tu-Su 09:00-18:00",
+    "hu": "H 12:00-18:00, K-V 09:00-18:00",
+    "ro": "Lu 12:00-18:00, Ma-Du 09:00-18:00",
+    "en": "Mon 12:00-18:00, Tue-Sun 09:00-18:00"
+  },
+  "entranceFee": {
+    "de": "60 RON Erwachsene, 15 RON Kinder",
+    "hu": "60 RON felnőtt, 15 RON gyermek",
+    "ro": "60 RON adulți, 15 RON copii",
+    "en": "60 RON adults, 15 RON children"
+  },
   "website": "http://www.bran-castle.com",
-  "publicTransport": "Regelmäßige Busse ab Busbahnhof Autogara 2 in Brașov",
-  "parking": "Mehrere private Parkplätze im Ort (ca. 5-10 RON/Std.)",
-  "accessibility": "Eingeschränkt, viele enge Wendeltreppen und Stufen",
-  "photoRules": "Private Fotos ohne Blitz erlaubt, Stativ verboten",
-  "bestTimeToVisit": "Direkt bei Öffnung um 9:00 Uhr, um Massen zu vermeiden",
-  "audioGuide": "ja (App-basiert)"
+  "publicTransport": {
+    "de": "Regelmäßige Busse ab Busbahnhof Autogara 2 in Brașov",
+    "hu": "Rendszeres buszjáratok a brassói Autogara 2 állomásról",
+    "ro": "Autobuze regulate de la Autogara 2 din Brașov",
+    "en": "Regular buses from Autogara 2 bus station in Brașov"
+  },
+  "parking": {
+    "de": "Mehrere private Parkplätze im Ort (ca. 5-10 RON/Std.)",
+    "hu": "Számos magánparkoló a faluban (kb. 5-10 RON/óra)",
+    "ro": "Mai multe parcări private în localitate (cca. 5-10 RON/oră)",
+    "en": "Several private parking lots in the village (approx. 5-10 RON/hr)"
+  },
+  "accessibility": {
+    "de": "Eingeschränkt, viele enge Wendeltreppen und Stufen",
+    "hu": "Korlátozottan akadálymentes, sok szűk csigalépcső és fok",
+    "ro": "Limitată, multe scări în spirală înguste și trepte",
+    "en": "Limited, many narrow spiral staircases and steps"
+  },
+  "photoRules": {
+    "de": "Private Fotos ohne Blitz erlaubt, Stativ verboten",
+    "hu": "Magáncélú fotózás vaku nélkül megengedett, állvány használata tilos",
+    "ro": "Fotografii private fără bliț permise, stativul este interzis",
+    "en": "Private photos without flash permitted, tripods prohibited"
+  },
+  "bestTimeToVisit": {
+    "de": "Direkt bei Öffnung um 9:00 Uhr, um Massen zu vermeiden",
+    "hu": "Közvetlenül nyitásra, 9:00 órára érdemes érkezni a tömeg elkerülése végett",
+    "ro": "Direct la deschidere la ora 9:00, pentru a evita aglomerația",
+    "en": "Right at opening at 9:00 AM to avoid the crowds"
+  },
+  "audioGuide": {
+    "de": "ja (App-basiert)",
+    "hu": "igen (alkalmazáson keresztül)",
+    "ro": "da (prin aplicație)",
+    "en": "yes (app-based)"
+  }
 }

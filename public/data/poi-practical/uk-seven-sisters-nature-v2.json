@@ -1,12 +1,57 @@
 {
-  "address": "Beachy Head Rd, Eastbourne BN20 0AB, Großbritannien",
-  "openingHours": "24/7",
-  "entranceFee": "kostenlos",
+  "address": {
+    "de": "Beachy Head Rd, Eastbourne BN20 0AB, Großbritannien",
+    "hu": "Beachy Head Rd, Eastbourne BN20 0AB, Nagy-Britannia",
+    "ro": "Beachy Head Rd, Eastbourne BN20 0AB, Marea Britanie",
+    "en": "Beachy Head Rd, Eastbourne BN20 0AB, Great Britain"
+  },
+  "openingHours": {
+    "de": "24/7",
+    "hu": "0-24",
+    "ro": "Non-stop",
+    "en": "24/7"
+  },
+  "entranceFee": {
+    "de": "kostenlos",
+    "hu": "ingyenes",
+    "ro": "gratuit",
+    "en": "free"
+  },
   "website": "https://www.sevensisters.org.uk/",
-  "publicTransport": "Bus 12 (Coaster) von Brighton oder Eastbourne",
-  "parking": "Gebührenpflichtiger Parkplatz am Country Park (£4.00/Tag)",
-  "accessibility": "Betonierter Weg zum Strand barrierefrei, Klippenpfade uneben",
-  "photoRules": "Erlaubt",
-  "bestTimeToVisit": "Vormittags für ideale Beleuchtung der weißen Kreidefelsen",
-  "audioGuide": "Nein"
+  "publicTransport": {
+    "de": "Bus 12 (Coaster) von Brighton oder Eastbourne",
+    "hu": "12-es busz (Coaster) Brightonból vagy Eastbourne-ből",
+    "ro": "Autobuzul 12 (Coaster) din Brighton sau Eastbourne",
+    "en": "Bus 12 (Coaster) from Brighton or Eastbourne"
+  },
+  "parking": {
+    "de": "Gebührenpflichtiger Parkplatz am Country Park (£4.00/Tag)",
+    "hu": "Fizetős parkoló a Country Parknál (£4.00/nap)",
+    "ro": "Parcare cu plată la Country Park (£4.00/zi)",
+    "en": "Paid parking at Country Park (£4.00/day)"
+  },
+  "accessibility": {
+    "de": "Betonierter Weg zum Strand barrierefrei, Klippenpfade uneben",
+    "hu": "A partra vezető betonozott út akadálymentes, a sziklaösvények egyenetlenek",
+    "ro": "Drum betonat accesibil spre plajă, potecile de pe stânci denivelate",
+    "en": "Concrete path to beach accessible, cliff paths uneven"
+  },
+  "photoRules": {
+    "de": "Erlaubt",
+    "hu": "Engedélyezett",
+    "ro": "Permis",
+    "en": "Allowed"
+  },
+  "bestTimeToVisit": {
+    "de": "Vormittags für ideale Beleuchtung der weißen Kreidefelsen",
+    "hu": "Délelőtt a fehér krétasziklák ideális megvilágításáért",
+    "ro": "Dimineața pentru iluminarea ideală a stâncilor albe de cretă",
+    "en": "Mornings for ideal lighting of the white chalk cliffs"
+  },
+  "audioGuide": {
+    "de": "Nein",
+    "hu": "Nem",
+    "ro": "Nu",
+    "en": "No"
+  }
 }

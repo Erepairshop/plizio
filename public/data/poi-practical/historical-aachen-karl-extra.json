@@ -1,12 +1,57 @@
 {
-  "address": "Domhof 1, 52062 Aachen",
-  "openingHours": "Mo-Sa 11:00-19:00, So 12:30-19:00",
-  "entranceFee": "kostenlos (Dom), Schatzkammer 5 €",
+  "address": {
+    "de": "Domhof 1, 52062 Aachen",
+    "hu": "Domhof 1, 52062 Aachen, Németország",
+    "ro": "Domhof 1, 52062 Aachen, Germania",
+    "en": "Domhof 1, 52062 Aachen, Germany"
+  },
+  "openingHours": {
+    "de": "Mo-Sa 11:00-19:00, So 12:30-19:00",
+    "hu": "H-Szo 11:00-19:00, V 12:30-19:00",
+    "ro": "L-S 11:00-19:00, D 12:30-19:00",
+    "en": "Mon-Sat 11:00-19:00, Sun 12:30-19:00"
+  },
+  "entranceFee": {
+    "de": "kostenlos (Dom), Schatzkammer 5 €",
+    "hu": "Ingyenes (dóm), kincstár: 5 €",
+    "ro": "Gratuit (dom), tezaur: 5 €",
+    "en": "Free (cathedral), treasury 5 €"
+  },
   "website": "https://www.aachenerdom.de",
-  "publicTransport": "Bus Haltestelle Elisenbrunnen, ca. 5 Min Fußweg.",
-  "parking": "Parkhaus am Dom, Jesuitenstraße, ca. 2,20 €/Std.",
-  "accessibility": "Erdgeschoss barrierefrei, Obergeschosse nur per Führung (Treppen).",
-  "photoRules": "Fotogenehmigung für 3 € vor Ort erhältlich.",
-  "bestTimeToVisit": "Werktags direkt zur Öffnung um 11 Uhr.",
-  "audioGuide": "Deutsch, Englisch, Französisch"
+  "publicTransport": {
+    "de": "Bus Haltestelle Elisenbrunnen, ca. 5 Min Fußweg.",
+    "hu": "Elisenbrunnen buszmegálló, onnan kb. 5 perc séta.",
+    "ro": "Stația de autobuz Elisenbrunnen, aprox. 5 min. pe jos.",
+    "en": "Bus stop Elisenbrunnen, approx. 5 min walk."
+  },
+  "parking": {
+    "de": "Parkhaus am Dom, Jesuitenstraße, ca. 2,20 €/Std.",
+    "hu": "Dom parkolóház, Jesuitenstraße, kb. 2,20 €/óra",
+    "ro": "Parcare etajată lângă dom, Jesuitenstraße, aprox. 2,20 €/oră",
+    "en": "Parking garage at the cathedral, Jesuitenstraße, approx. 2.20 €/hour"
+  },
+  "accessibility": {
+    "de": "Erdgeschoss barrierefrei, Obergeschosse nur per Führung (Treppen).",
+    "hu": "A földszint akadálymentes, az emeletek csak vezetéssel (lépcsőn) érhetők el.",
+    "ro": "Parterul este accesibil, etajele doar prin tur ghidat (scări).",
+    "en": "Ground floor is accessible, upper floors only via guided tour (stairs)."
+  },
+  "photoRules": {
+    "de": "Fotogenehmigung für 3 € vor Ort erhältlich.",
+    "hu": "3 €-s fotójegy a helyszínen váltható.",
+    "ro": "Permis foto disponibil la fața locului pentru 3 €.",
+    "en": "Photo permit available on-site for 3 €."
+  },
+  "bestTimeToVisit": {
+    "de": "Werktags direkt zur Öffnung um 11 Uhr.",
+    "hu": "Hétköznap közvetlenül a 11 órai nyitáskor.",
+    "ro": "În zilele lucrătoare, imediat la deschidere, la ora 11.",
+    "en": "Weekdays directly at opening at 11 AM."
+  },
+  "audioGuide": {
+    "de": "Deutsch, Englisch, Französisch",
+    "hu": "német, angol, francia",
+    "ro": "germană, engleză, franceză",
+    "en": "German, English, French"
+  }
 }

@@ -1,12 +1,57 @@
 {
-  "address": "Szalafő, Pityerszer 12, 9942",
-  "openingHours": "Täglich 10:00-18:00 (April-Oktober), Winter eingeschränkt",
-  "entranceFee": "1500 HUF Erwachsene, 800 HUF Kinder/Senioren",
+  "address": {
+    "de": "Szalafő, Pityerszer 12, 9942",
+    "hu": "Szalafő, Pityerszer 12, 9942",
+    "ro": "Szalafő, Pityerszer 12, 9942",
+    "en": "Szalafő, Pityerszer 12, 9942"
+  },
+  "openingHours": {
+    "de": "Täglich 10:00-18:00 (April-Oktober), Winter eingeschränkt",
+    "hu": "Naponta 10:00-18:00 (április-október), télen korlátozott",
+    "ro": "Zilnic 10:00-18:00 (aprilie-octombrie), iarna program limitat",
+    "en": "Daily 10:00-18:00 (April-October), winter hours limited"
+  },
+  "entranceFee": {
+    "de": "1500 HUF Erwachsene, 800 HUF Kinder/Senioren",
+    "hu": "1500 HUF felnőtt, 800 HUF gyerek/nyugdíjas",
+    "ro": "1500 HUF adulți, 800 HUF copii/senior",
+    "en": "1500 HUF adults, 800 HUF children/seniors"
+  },
   "website": "https://www.pityerszer.hu/",
-  "publicTransport": "Bus von Körmend oder Őriszentpéter bis Szalafő, Pityerszer.",
-  "parking": "Großer kostenloser Parkplatz direkt am Eingang des Freilichtmuseums.",
-  "accessibility": "Naturpfade zwischen den Häusern, für Rollstühle bei Nässe schwierig.",
-  "photoRules": "Fotografieren im gesamten Areal für private Zwecke erlaubt.",
-  "bestTimeToVisit": "Mai oder September für angenehme Temperaturen beim Wandern.",
-  "audioGuide": "hu, de, en"
+  "publicTransport": {
+    "de": "Bus von Körmend oder Őriszentpéter bis Szalafő, Pityerszer.",
+    "hu": "Busz Körmendről vagy Őriszentpéterről Szalafő, Pityerszerig.",
+    "ro": "Autobuz din Körmend sau Őriszentpéter până la Szalafő, Pityerszer.",
+    "en": "Bus from Körmend or Őriszentpéter to Szalafő, Pityerszer."
+  },
+  "parking": {
+    "de": "Großer kostenloser Parkplatz direkt am Eingang des Freilichtmuseums.",
+    "hu": "Nagy ingyenes parkoló közvetlenül a skanzen bejáratánál.",
+    "ro": "Parcare mare gratuită chiar la intrarea în muzeul în aer liber.",
+    "en": "Large free parking lot right at the entrance of the open-air museum."
+  },
+  "accessibility": {
+    "de": "Naturpfade zwischen den Häusern, für Rollstühle bei Nässe schwierig.",
+    "hu": "Természetes ösvények a házak között, nedves időben kerekesszékkel nehéz.",
+    "ro": "Poteci naturale între case, dificil pentru scaune cu rotile pe timp umed.",
+    "en": "Nature trails between houses, difficult for wheelchairs in wet weather."
+  },
+  "photoRules": {
+    "de": "Fotografieren im gesamten Areal für private Zwecke erlaubt.",
+    "hu": "A fényképezés az egész területen megengedett magáncélra.",
+    "ro": "Fotografierea este permisă în întreaga zonă pentru uz privat.",
+    "en": "Photography is allowed throughout the area for private purposes."
+  },
+  "bestTimeToVisit": {
+    "de": "Mai oder September für angenehme Temperaturen beim Wandern.",
+    "hu": "Május vagy szeptember a kellemes túrázási hőmérsékletért.",
+    "ro": "Mai sau septembrie pentru temperaturi plăcute pentru drumeții.",
+    "en": "May or September for pleasant temperatures for hiking."
+  },
+  "audioGuide": {
+    "de": "hu, de, en",
+    "hu": "hu, de, en",
+    "ro": "hu, de, en",
+    "en": "hu, de, en"
+  }
 }

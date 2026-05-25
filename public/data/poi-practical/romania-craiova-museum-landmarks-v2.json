@@ -1,12 +1,57 @@
 {
-  "address": "Strada Popa Șapcă 8, 200410 Craiova",
-  "openingHours": "Tu-Su 09:00-17:00",
-  "entranceFee": "10 RON Erwachsene, 5 RON Kinder",
+  "address": {
+    "de": "Strada Popa Șapcă 8, 200410 Craiova",
+    "hu": "Strada Popa Șapcă 8, 200410 Craiova",
+    "ro": "Strada Popa Șapcă 8, 200410 Craiova",
+    "en": "Strada Popa Șapcă 8, 200410 Craiova"
+  },
+  "openingHours": {
+    "de": "Tu-Su 09:00-17:00",
+    "hu": "K-V 09:00-17:00",
+    "ro": "Mar-Du 09:00-17:00",
+    "en": "Tue-Sun 09:00-17:00"
+  },
+  "entranceFee": {
+    "de": "10 RON Erwachsene, 5 RON Kinder",
+    "hu": "10 RON felnőttek, 5 RON gyerekek",
+    "ro": "10 RON adulți, 5 RON copii",
+    "en": "10 RON adults, 5 RON children"
+  },
   "website": "https://www.muzeulolteniei.ro",
-  "publicTransport": "Buslinien 1, 2b, 3b, 9, 25 bis Haltestelle Agronomie",
-  "parking": "Begrenzte Parkmöglichkeiten in den Seitenstraßen vorhanden.",
-  "accessibility": "Teilweise barrierefrei, Aufzug für die oberen Stockwerke vorhanden.",
-  "photoRules": "Privates Fotografieren ohne Blitz erlaubt, Gebühr ca. 15 RON.",
-  "bestTimeToVisit": "Vormittags an Wochentagen für eine ruhige Besichtigung.",
-  "audioGuide": "nein"
+  "publicTransport": {
+    "de": "Buslinien 1, 2b, 3b, 9, 25 bis Haltestelle Agronomie",
+    "hu": "1, 2b, 3b, 9, 25-ös buszok az Agronomie megállóig",
+    "ro": "Liniile de autobuz 1, 2b, 3b, 9, 25 până la stația Agronomie",
+    "en": "Bus lines 1, 2b, 3b, 9, 25 to Agronomie stop"
+  },
+  "parking": {
+    "de": "Begrenzte Parkmöglichkeiten in den Seitenstraßen vorhanden.",
+    "hu": "Korlátozott parkolási lehetőség az oldalutcákban.",
+    "ro": "Parcare limitată disponibilă pe străzile adiacente.",
+    "en": "Limited parking available in side streets."
+  },
+  "accessibility": {
+    "de": "Teilweise barrierefrei, Aufzug für die oberen Stockwerke vorhanden.",
+    "hu": "Részben akadálymentes, lift van az emeletekre.",
+    "ro": "Parțial accesibil, lift disponibil pentru etajele superioare.",
+    "en": "Partially accessible, elevator available for upper floors."
+  },
+  "photoRules": {
+    "de": "Privates Fotografieren ohne Blitz erlaubt, Gebühr ca. 15 RON.",
+    "hu": "Privát fotózás vaku nélkül engedélyezett, díj kb. 15 RON.",
+    "ro": "Fotografierea privată fără bliț este permisă, taxă aprox. 15 RON.",
+    "en": "Private photography without flash allowed, fee approx. 15 RON."
+  },
+  "bestTimeToVisit": {
+    "de": "Vormittags an Wochentagen für eine ruhige Besichtigung.",
+    "hu": "Hétköznap délelőtt, a nyugodt látogatáshoz.",
+    "ro": "În timpul săptămânii dimineața, pentru o vizită liniștită.",
+    "en": "Weekday mornings for a quiet visit."
+  },
+  "audioGuide": {
+    "de": "nein",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

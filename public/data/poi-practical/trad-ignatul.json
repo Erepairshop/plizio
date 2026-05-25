@@ -1,12 +1,57 @@
 {
-  "address": "Vorwiegend in ländlichen Haushalten Rumäniens",
-  "openingHours": "Jährlich am 20. Dezember",
-  "entranceFee": "Privat (Einladung erforderlich)",
+  "address": {
+    "de": "Vorwiegend in ländlichen Haushalten Rumäniens",
+    "hu": "Főleg romániai vidéki háztartásokban",
+    "ro": "Preponderent în gospodăriile rurale din România",
+    "en": "Mainly in rural Romanian households"
+  },
+  "openingHours": {
+    "de": "Jährlich am 20. Dezember",
+    "hu": "Évente december 20-án",
+    "ro": "Anual pe 20 decembrie",
+    "en": "Annually on December 20th"
+  },
+  "entranceFee": {
+    "de": "Privat (Einladung erforderlich)",
+    "hu": "Privát (meghívás szükséges)",
+    "ro": "Privat (este necesară o invitație)",
+    "en": "Private (invitation required)"
+  },
   "website": "",
-  "publicTransport": "Busverbindungen in ländliche Gebiete.",
-  "parking": "In Dörfern meist auf dem eigenen Grundstück.",
-  "accessibility": "Eingeschränkt, da oft in privaten Hinterhöfen.",
-  "photoRules": "Nur mit ausdrücklicher Genehmigung der Gastgeber.",
-  "bestTimeToVisit": "Früher Morgen (07:00 - 10:00 Uhr).",
-  "audioGuide": "nein"
+  "publicTransport": {
+    "de": "Busverbindungen in ländliche Gebiete.",
+    "hu": "Buszjáratok a vidéki területekre.",
+    "ro": "Legături de autobuz către zonele rurale.",
+    "en": "Bus connections to rural areas."
+  },
+  "parking": {
+    "de": "In Dörfern meist auf dem eigenen Grundstück.",
+    "hu": "Falvakban többnyire saját telken.",
+    "ro": "În sate, de obicei pe proprietatea proprie.",
+    "en": "Usually on own property in villages."
+  },
+  "accessibility": {
+    "de": "Eingeschränkt, da oft in privaten Hinterhöfen.",
+    "hu": "Korlátozott, mivel gyakran privát udvarokban zajlik.",
+    "ro": "Limitat, deoarece adesea are loc în curți private.",
+    "en": "Limited, as often in private backyards."
+  },
+  "photoRules": {
+    "de": "Nur mit ausdrücklicher Genehmigung der Gastgeber.",
+    "hu": "Csak a vendéglátók kifejezett engedélyével.",
+    "ro": "Doar cu permisiunea expresă a gazdelor.",
+    "en": "Only with express permission from hosts."
+  },
+  "bestTimeToVisit": {
+    "de": "Früher Morgen (07:00 - 10:00 Uhr).",
+    "hu": "Kora reggel (07:00 - 10:00).",
+    "ro": "Dimineața devreme (07:00 - 10:00).",
+    "en": "Early morning (07:00 - 10:00)."
+  },
+  "audioGuide": {
+    "de": "nein",
+    "hu": "nem",
+    "ro": "nu",
+    "en": "no"
+  }
 }

@@ -1,12 +1,57 @@
 {
-  "address": "1211 Genève (Palais des Nations, Avenue de la Paix)",
-  "openingHours": "Mo-Fr 10:00-12:00, 14:00-16:00 (Nur mit Führung)",
-  "entranceFee": "16 CHF Erwachsene, 10 CHF Kinder (Ausweis erforderlich!)",
+  "address": {
+    "de": "1211 Genève (Palais des Nations, Avenue de la Paix)",
+    "hu": "1211 Genève (Palais des Nations, Avenue de la Paix)",
+    "ro": "1211 Genève (Palais des Nations, Avenue de la Paix)",
+    "en": "1211 Genève (Palais des Nations, Avenue de la Paix)"
+  },
+  "openingHours": {
+    "de": "Mo-Fr 10:00-12:00, 14:00-16:00 (Nur mit Führung)",
+    "hu": "H–P 10:00–12:00, 14:00–16:00 (csak tárlatvezetéssel)",
+    "ro": "Luni-Vin 10:00-12:00, 14:00-16:00 (doar cu tur ghidat)",
+    "en": "Mon-Fri 10:00-12:00, 14:00-16:00 (by guided tour only)"
+  },
+  "entranceFee": {
+    "de": "16 CHF Erwachsene, 10 CHF Kinder (Ausweis erforderlich!)",
+    "hu": "16 CHF felnőtt, 10 CHF gyermek (személyi igazolvány kötelező!)",
+    "ro": "16 CHF adulți, 10 CHF copii (act de identitate necesar!)",
+    "en": "16 CHF adults, 10 CHF children (ID required!)"
+  },
   "website": "https://www.ungeneva.org",
-  "publicTransport": "Tram 15 oder Buslinien 5, 8, 11, 22 bis Station Nations.",
-  "parking": "Keine Besucherparkplätze am Gelände; Parkhaus Nations nutzen.",
-  "accessibility": "Barrierefrei; Voranmeldung für Rollstuhlfahrer notwendig.",
-  "photoRules": "Fotografieren erlaubt, außer während laufender Sitzungen.",
-  "bestTimeToVisit": "Frühzeitig buchen (online), da Touren oft Tage im Voraus ausgebucht sind.",
-  "audioGuide": "In 15 Sprachen verfügbar (während der Tour)"
+  "publicTransport": {
+    "de": "Tram 15 oder Buslinien 5, 8, 11, 22 bis Station Nations.",
+    "hu": "15-ös villamos vagy 5, 8, 11, 22-es busz a Nations megállóig.",
+    "ro": "Tramvai 15 sau autobuzele 5, 8, 11, 22 până la stația Nations.",
+    "en": "Tram 15 or bus lines 5, 8, 11, 22 to Nations stop."
+  },
+  "parking": {
+    "de": "Keine Besucherparkplätze am Gelände; Parkhaus Nations nutzen.",
+    "hu": "Nincs látogatói parkoló a területen; használja a Nations parkolóházat.",
+    "ro": "Nu există locuri de parcare pentru vizitatori; folosiți parcarea Nations.",
+    "en": "No visitor parking on site; use Nations parking garage."
+  },
+  "accessibility": {
+    "de": "Barrierefrei; Voranmeldung für Rollstuhlfahrer notwendig.",
+    "hu": "Akadálymentesített; kerekes székesek számára előzetes jelzés szükséges.",
+    "ro": "Accesibil; necesară programarea pentru utilizatorii de scaun cu rotile.",
+    "en": "Accessible; advance notice necessary for wheelchair users."
+  },
+  "photoRules": {
+    "de": "Fotografieren erlaubt, außer während laufender Sitzungen.",
+    "hu": "A fotózás engedélyezett, kivéve az ülések alatt.",
+    "ro": "Fotografiatul permis, cu excepția ședințelor în curs.",
+    "en": "Photography allowed, except during ongoing sessions."
+  },
+  "bestTimeToVisit": {
+    "de": "Frühzeitig buchen (online), da Touren oft Tage im Voraus ausgebucht sind.",
+    "hu": "Foglaljon korán (online), mivel a túrák gyakran napokkal előre teltházasok.",
+    "ro": "Rezervați din timp (online), deoarece tururile sunt adesea epuizate.",
+    "en": "Book early (online), as tours are often fully booked days in advance."
+  },
+  "audioGuide": {
+    "de": "In 15 Sprachen verfügbar (während der Tour)",
+    "hu": "15 nyelven érhető el (a túra alatt)",
+    "ro": "Disponibil în 15 limbi (pe parcursul turului)",
+    "en": "Available in 15 languages (during the tour)"
+  }
 }

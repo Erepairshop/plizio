@@ -1,12 +1,57 @@
 {
-  "address": "Schönbrunner Schloßstraße 47, 1130 Wien",
-  "openingHours": "Mo-Su 08:30-17:30",
-  "entranceFee": "€22,00 Erwachsene (Grand Tour), Schlosspark ist kostenlos",
+  "address": {
+    "de": "Schönbrunner Schloßstraße 47, 1130 Wien",
+    "hu": "Schönbrunner Schloßstraße 47, 1130 Bécs",
+    "ro": "Schönbrunner Schloßstraße 47, 1130 Viena",
+    "en": "Schönbrunner Schloßstraße 47, 1130 Vienna"
+  },
+  "openingHours": {
+    "de": "Mo-Su 08:30-17:30",
+    "hu": "H-V 08:30-17:30",
+    "ro": "Lu-Du 08:30-17:30",
+    "en": "Mon-Sun 8:30 AM - 5:30 PM"
+  },
+  "entranceFee": {
+    "de": "€22,00 Erwachsene (Grand Tour), Schlosspark ist kostenlos",
+    "hu": "22,00 € felnőtt (Grand Tour), a kastélypark ingyenes",
+    "ro": "22,00 € adulți (Grand Tour), parcul castelului este gratuit",
+    "en": "€22.00 adults (Grand Tour), palace park is free"
+  },
   "website": "https://www.schoenbrunn.at",
-  "publicTransport": "U4 Station Schönbrunn oder Tram 10, 60",
-  "parking": "Parkplatz Schönbrunn (APCOA) an der Schlossstraße, oft sehr ausgelastet.",
-  "accessibility": "Das Schloss und die Museen sind durch Lifte barrierefrei erreichbar.",
-  "photoRules": "In den Innenräumen des Schlosses herrscht ein striktes Fotografierverbot.",
-  "bestTimeToVisit": "Um 08:00 Uhr morgens zur Parköffnung für einen ruhigen Spaziergang zur Gloriette.",
-  "audioGuide": "Im Eintrittspreis enthalten, in 16 Sprachen als Audioguide oder Script."
+  "publicTransport": {
+    "de": "U4 Station Schönbrunn oder Tram 10, 60",
+    "hu": "U4 metró Schönbrunn állomás vagy 10, 60 villamos",
+    "ro": "Metrou U4 stația Schönbrunn sau tramvaiul 10, 60",
+    "en": "Metro U4 station Schönbrunn or Tram 10, 60"
+  },
+  "parking": {
+    "de": "Parkplatz Schönbrunn (APCOA) an der Schlossstraße, oft sehr ausgelastet.",
+    "hu": "Schönbrunn parkoló (APCOA) a Schlossstraße-n, gyakran nagyon telített.",
+    "ro": "Parcarea Schönbrunn (APCOA) pe Schlossstraße, adesea foarte aglomerată.",
+    "en": "Schönbrunn parking (APCOA) on Schlossstraße, often very busy."
+  },
+  "accessibility": {
+    "de": "Das Schloss und die Museen sind durch Lifte barrierefrei erreichbar.",
+    "hu": "A kastély és a múzeumok liftekkel akadálymentesen elérhetők.",
+    "ro": "Castelul și muzeele sunt accesibile prin lifturi.",
+    "en": "The palace and museums are accessible via elevators."
+  },
+  "photoRules": {
+    "de": "In den Innenräumen des Schlosses herrscht ein striktes Fotografierverbot.",
+    "hu": "A kastély belső tereiben szigorú fotózási tilalom van érvényben.",
+    "ro": "În interiorul castelului este interzisă strict fotografierea.",
+    "en": "Strict prohibition of photography inside the palace rooms."
+  },
+  "bestTimeToVisit": {
+    "de": "Um 08:00 Uhr morgens zur Parköffnung für einen ruhigen Spaziergang zur Gloriette.",
+    "hu": "Reggel 08:00-kor a parknyitáskor, egy nyugodt sétához a Gloriette-hez.",
+    "ro": "La ora 08:00 dimineața, la deschiderea parcului, pentru o plimbare liniștită spre Gloriette.",
+    "en": "At 8:00 AM at park opening for a quiet walk to the Gloriette."
+  },
+  "audioGuide": {
+    "de": "Im Eintrittspreis enthalten, in 16 Sprachen als Audioguide oder Script.",
+    "hu": "A belépőjegy tartalmazza, 16 nyelven audioguide vagy szöveges formában.",
+    "ro": "Inclus în prețul biletului, disponibil în 16 limbi ca audioghid sau script.",
+    "en": "Included in the entrance fee, available in 16 languages as an audio guide or script."
+  }
 }

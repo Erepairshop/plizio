@@ -1,12 +1,57 @@
 {
-  "address": "Großer Hirschgraben 23, 60311 Frankfurt am Main",
-  "openingHours": "Täglich 10:00-18:00",
-  "entranceFee": "Erwachsene ca. 10,00 €, Studenten ca. 4,00 €",
+  "address": {
+    "de": "Großer Hirschgraben 23, 60311 Frankfurt am Main",
+    "hu": "Großer Hirschgraben 23, 60311 Frankfurt am Main",
+    "ro": "Großer Hirschgraben 23, 60311 Frankfurt am Main",
+    "en": "Großer Hirschgraben 23, 60311 Frankfurt am Main"
+  },
+  "openingHours": {
+    "de": "Täglich 10:00-18:00",
+    "hu": "Naponta 10:00-18:00",
+    "ro": "Zilnic 10:00-18:00",
+    "en": "Daily 10:00-18:00"
+  },
+  "entranceFee": {
+    "de": "Erwachsene ca. 10,00 €, Studenten ca. 4,00 €",
+    "hu": "Felnőtt kb. 10,00 €, diák kb. 4,00 €",
+    "ro": "Adulți aprox. 10,00 €, studenți aprox. 4,00 €",
+    "en": "Adults approx. €10.00, students approx. €4.00"
+  },
   "website": "https://www.goethehaus-frankfurt.de",
-  "publicTransport": "S-Bahn/U-Bahn bis Hauptwache",
-  "parking": "Parkhaus Goetheplatz, ca. 3,00 €/h, 5 Minuten Fußweg",
-  "accessibility": "Goethe-Museum barrierefrei, das historische Wohnhaus ist nur über Treppen zugänglich",
-  "photoRules": "Fotografieren ohne Blitz erlaubt, keine sperrigen Taschen/Rucksäcke",
-  "bestTimeToVisit": "Wochentags nachmittags nach den Schulklassentouren",
-  "audioGuide": "ja, im Eintrittspreis oft enthalten oder gegen geringe Gebühr"
+  "publicTransport": {
+    "de": "S-Bahn/U-Bahn bis Hauptwache",
+    "hu": "S-Bahn/U-Bahn a Hauptwacheig",
+    "ro": "S-Bahn/U-Bahn până la Hauptwache",
+    "en": "S-Bahn/U-Bahn to Hauptwache"
+  },
+  "parking": {
+    "de": "Parkhaus Goetheplatz, ca. 3,00 €/h, 5 Minuten Fußweg",
+    "hu": "Goetheplatz parkolóház, kb. 3,00 €/óra, 5 perc séta",
+    "ro": "Parcare Goetheplatz, aprox. 3,00 €/h, 5 minute de mers pe jos",
+    "en": "Goetheplatz parking garage, approx. €3.00/h, 5-minute walk"
+  },
+  "accessibility": {
+    "de": "Goethe-Museum barrierefrei, das historische Wohnhaus ist nur über Treppen zugänglich",
+    "hu": "A Goethe-múzeum akadálymentes, a történelmi lakóház csak lépcsőn keresztül érhető el",
+    "ro": "Muzeul Goethe accesibil, casa istorică este accesibilă doar prin trepte",
+    "en": "Goethe Museum barrier-free, the historic house is only accessible via stairs"
+  },
+  "photoRules": {
+    "de": "Fotografieren ohne Blitz erlaubt, keine sperrigen Taschen/Rucksäcke",
+    "hu": "Vaku nélküli fotózás engedélyezett, nagyméretű táskák/hátizsákok nem vihetők be",
+    "ro": "Fotografierea fără bliț permisă, fără genți/rucsacuri voluminoase",
+    "en": "Photography without flash allowed, no bulky bags/backpacks"
+  },
+  "bestTimeToVisit": {
+    "de": "Wochentags nachmittags nach den Schulklassentouren",
+    "hu": "Hétköznap délután, az iskolai csoportok után",
+    "ro": "După-amiaza în timpul săptămânii, după vizitele grupurilor școlare",
+    "en": "Weekdays in the afternoon after school class tours"
+  },
+  "audioGuide": {
+    "de": "ja, im Eintrittspreis oft enthalten oder gegen geringe Gebühr",
+    "hu": "igen, gyakran benne van a jegyárban vagy kis díj ellenében elérhető",
+    "ro": "da, deseori inclus în prețul biletului sau disponibil contra unei taxe mici",
+    "en": "yes, often included in the ticket price or available for a small fee"
+  }
 }

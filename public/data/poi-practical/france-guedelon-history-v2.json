@@ -1,12 +1,57 @@
 {
-  "address": "Route Départementale 955, 89520 Treigny",
-  "openingHours": "Mo-Su 10:00-17:30 (Saisonbetrieb beachten)",
-  "entranceFee": "€16 Erwachsene, €13 Kinder",
+  "address": {
+    "de": "Route Départementale 955, 89520 Treigny",
+    "hu": "Route Départementale 955, 89520 Treigny",
+    "ro": "Route Départementale 955, 89520 Treigny",
+    "en": "Route Départementale 955, 89520 Treigny"
+  },
+  "openingHours": {
+    "de": "Mo-Su 10:00-17:30 (Saisonbetrieb beachten)",
+    "hu": "Hé-Va 10:00-17:30 (figyelembe véve a szezonális nyitvatartást)",
+    "ro": "Lun-Dum 10:00-17:30 (atenție la orarul sezonier)",
+    "en": "Mon-Sun 10:00-17:30 (check seasonal hours)"
+  },
+  "entranceFee": {
+    "de": "€16 Erwachsene, €13 Kinder",
+    "hu": "16 € felnőtteknek, 13 € gyerekeknek",
+    "ro": "16 € adulți, 13 € copii",
+    "en": "€16 adults, €13 children"
+  },
   "website": "https://www.guedelon.fr",
-  "publicTransport": "Keine direkte ÖPNV-Anbindung; Anreise per PKW notwendig",
-  "parking": "Großer kostenloser Parkplatz auf dem Naturgelände",
-  "accessibility": "Naturbelassenes Baustellengelände; festes Schuhwerk zwingend erforderlich",
-  "photoRules": "Fotografieren ausdrücklich erlaubt; Fragen an die Handwerker erwünscht",
-  "bestTimeToVisit": "Wochentage im Frühjahr, um alle Gewerke bei der Arbeit zu sehen",
-  "audioGuide": "no"
+  "publicTransport": {
+    "de": "Keine direkte ÖPNV-Anbindung; Anreise per PKW notwendig",
+    "hu": "Nincs közvetlen tömegközlekedési kapcsolat; gépkocsival érhető el",
+    "ro": "Nu există conexiune directă cu transportul public; accesul este necesar cu mașina personală",
+    "en": "No direct public transport connection; arrival by car is necessary"
+  },
+  "parking": {
+    "de": "Großer kostenloser Parkplatz auf dem Naturgelände",
+    "hu": "Nagy ingyenes parkoló a természetvédelmi területen",
+    "ro": "Parcare mare gratuită în incinta naturală",
+    "en": "Large free parking lot on the natural site"
+  },
+  "accessibility": {
+    "de": "Naturbelassenes Baustellengelände; festes Schuhwerk zwingend erforderlich",
+    "hu": "Természetes építési terület; zárt, stabil cipő viselése kötelező",
+    "ro": "Șantier în stare naturală; încălțămintea solidă este obligatorie",
+    "en": "Natural construction site; sturdy footwear is mandatory"
+  },
+  "photoRules": {
+    "de": "Fotografieren ausdrücklich erlaubt; Fragen an die Handwerker erwünscht",
+    "hu": "A fényképezés kifejezetten engedélyezett; a kézművesek szívesen válaszolnak a kérdésekre",
+    "ro": "Fotografierea este permisă în mod expres; întrebările adresate meșteșugarilor sunt binevenite",
+    "en": "Photography explicitly allowed; feel free to ask the craftsmen questions"
+  },
+  "bestTimeToVisit": {
+    "de": "Wochentage im Frühjahr, um alle Gewerke bei der Arbeit zu sehen",
+    "hu": "Hétköznapok tavasszal, hogy minden mesterséget munka közben láthassunk",
+    "ro": "Zilele lucrătoare din primăvară pentru a vedea toate breslele la lucru",
+    "en": "Weekdays in spring to see all the crafts at work"
+  },
+  "audioGuide": {
+    "de": "no",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

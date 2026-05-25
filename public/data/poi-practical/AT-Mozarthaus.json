@@ -1,12 +1,57 @@
 {
-  "address": "Getreidegasse 9, 5020 Salzburg",
-  "openingHours": "Mo-Su 09:00-17:30",
-  "entranceFee": "€13,50 Erwachsene",
+  "address": {
+    "de": "Getreidegasse 9, 5020 Salzburg",
+    "hu": "Getreidegasse 9, 5020 Salzburg",
+    "ro": "Getreidegasse 9, 5020 Salzburg",
+    "en": "Getreidegasse 9, 5020 Salzburg"
+  },
+  "openingHours": {
+    "de": "Mo-Su 09:00-17:30",
+    "hu": "H-V 09:00-17:30",
+    "ro": "Lu-Du 09:00-17:30",
+    "en": "Mon-Sun 9:00 AM - 5:30 PM"
+  },
+  "entranceFee": {
+    "de": "€13,50 Erwachsene",
+    "hu": "13,50 € felnőtt",
+    "ro": "13,50 € adulți",
+    "en": "€13.50 adults"
+  },
   "website": "https://mozarteum.at",
-  "publicTransport": "Alle Obusse Richtung Zentrum bis Haltestelle Rathaus oder Hanuschplatz.",
-  "parking": "Mönchsberggarage (Altstadtgarage), Ausgang Getreidegasse nutzen.",
-  "accessibility": "Das historische Gebäude ist leider nicht barrierefrei (viele Treppen).",
-  "photoRules": "Im gesamten Geburtshaus ist das Fotografieren und Filmen untersagt.",
-  "bestTimeToVisit": "In der letzten Stunde vor der Schließung ist der Andrang meist geringer.",
-  "audioGuide": "In 10 Sprachen verfügbar, inklusive spezieller Kinderversion."
+  "publicTransport": {
+    "de": "Alle Obusse Richtung Zentrum bis Haltestelle Rathaus oder Hanuschplatz.",
+    "hu": "Minden trolibusz a központ felé a Rathaus vagy Hanuschplatz megállóig.",
+    "ro": "Toate troleibuzele spre centru până la stația Rathaus sau Hanuschplatz.",
+    "en": "All trolleybuses towards the center to Rathaus or Hanuschplatz stop."
+  },
+  "parking": {
+    "de": "Mönchsberggarage (Altstadtgarage), Ausgang Getreidegasse nutzen.",
+    "hu": "Mönchsberggarage (Altstadtgarage), használja a Getreidegasse kijáratot.",
+    "ro": "Mönchsberggarage (Altstadtgarage), utilizați ieșirea Getreidegasse.",
+    "en": "Mönchsberggarage (Altstadtgarage), use the Getreidegasse exit."
+  },
+  "accessibility": {
+    "de": "Das historische Gebäude ist leider nicht barrierefrei (viele Treppen).",
+    "hu": "A történelmi épület sajnos nem akadálymentes (sok lépcső).",
+    "ro": "Clădirea istorică din păcate nu este accesibilă (multe scări).",
+    "en": "The historic building is unfortunately not accessible (many stairs)."
+  },
+  "photoRules": {
+    "de": "Im gesamten Geburtshaus ist das Fotografieren und Filmen untersagt.",
+    "hu": "A teljes szülőházban tilos a fotózás és a videózás.",
+    "ro": "Fotografierea și filmarea sunt interzise în întreaga casă natală.",
+    "en": "Photography and filming are prohibited throughout the entire birthplace."
+  },
+  "bestTimeToVisit": {
+    "de": "In der letzten Stunde vor der Schließung ist der Andrang meist geringer.",
+    "hu": "A zárás előtti utolsó órában általában kisebb a tömeg.",
+    "ro": "În ultima oră înainte de închidere aglomerația este de obicei mai mică.",
+    "en": "Crowds are usually smaller during the last hour before closing."
+  },
+  "audioGuide": {
+    "de": "In 10 Sprachen verfügbar, inklusive spezieller Kinderversion.",
+    "hu": "10 nyelven elérhető, beleértve egy speciális gyermekverziót is.",
+    "ro": "Disponibil în 10 limbi, inclusiv o versiune specială pentru copii.",
+    "en": "Available in 10 languages, including a special version for children."
+  }
 }

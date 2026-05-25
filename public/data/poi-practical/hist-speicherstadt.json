@@ -1,12 +1,57 @@
 {
-  "address": "Speicherstadt, 20457 Hamburg",
-  "openingHours": "24/7",
-  "entranceFee": "kostenlos",
+  "address": {
+    "de": "Speicherstadt, 20457 Hamburg",
+    "hu": "Speicherstadt, 20457 Hamburg",
+    "ro": "Speicherstadt, 20457 Hamburg",
+    "en": "Speicherstadt, 20457 Hamburg"
+  },
+  "openingHours": {
+    "de": "24/7",
+    "hu": "24/7",
+    "ro": "24/7",
+    "en": "24/7"
+  },
+  "entranceFee": {
+    "de": "kostenlos",
+    "hu": "ingyenes",
+    "ro": "gratuit",
+    "en": "free"
+  },
   "website": "https://www.hamburg.de/speicherstadt",
-  "publicTransport": "U3 (Baumwall), U4 (Überseequartier)",
-  "parking": "Parkhaus Speicherstadt (Am Sandtorkai), ca. 3 €/Std.",
-  "accessibility": "Größtenteils barrierefrei, teils Kopfsteinpflaster auf Brücken.",
-  "photoRules": "Erlaubt, Stative auf Brücken oft geduldet.",
-  "bestTimeToVisit": "In der blauen Stunde, wenn die Gebäude beleuchtet werden.",
-  "audioGuide": "nein"
+  "publicTransport": {
+    "de": "U3 (Baumwall), U4 (Überseequartier)",
+    "hu": "U3 metró (Baumwall), U4 metró (Überseequartier)",
+    "ro": "U3 (Baumwall), U4 (Überseequartier)",
+    "en": "U3 (Baumwall), U4 (Überseequartier)"
+  },
+  "parking": {
+    "de": "Parkhaus Speicherstadt (Am Sandtorkai), ca. 3 €/Std.",
+    "hu": "Speicherstadt parkolóház (Am Sandtorkai), kb. 3 €/óra",
+    "ro": "Parcarea Speicherstadt (Am Sandtorkai), aprox. 3 €/oră",
+    "en": "Speicherstadt parking garage (Am Sandtorkai), approx. 3 €/hr"
+  },
+  "accessibility": {
+    "de": "Größtenteils barrierefrei, teils Kopfsteinpflaster auf Brücken.",
+    "hu": "Nagyrészt akadálymentes, a hidakon néhol macskakő.",
+    "ro": "În mare parte accesibil, parțial pavaj cu piatră cubică pe poduri.",
+    "en": "Mostly barrier-free, some cobblestones on bridges."
+  },
+  "photoRules": {
+    "de": "Erlaubt, Stative auf Brücken oft geduldet.",
+    "hu": "Engedélyezett, a hidakon az állványhasználatot gyakran megtűrik.",
+    "ro": "Permis, trepiedele pe poduri sunt adesea tolerate.",
+    "en": "Allowed, tripods on bridges are often tolerated."
+  },
+  "bestTimeToVisit": {
+    "de": "In der blauen Stunde, wenn die Gebäude beleuchtet werden.",
+    "hu": "A kék órában, amikor az épületek kivilágítása megkezdődik.",
+    "ro": "În ora albastră, când clădirile sunt iluminate.",
+    "en": "During the blue hour when the buildings are illuminated."
+  },
+  "audioGuide": {
+    "de": "nein",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

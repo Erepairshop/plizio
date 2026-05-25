@@ -1,12 +1,57 @@
 {
-  "address": "Vadu Crișului, 417615 Bihor",
-  "openingHours": "24/7",
-  "entranceFee": "free",
+  "address": {
+    "de": "Vadu Crișului, 417615 Bihor",
+    "hu": "Rév, 417615 Bihar",
+    "ro": "Vadu Crișului, 417615 Bihor",
+    "en": "Vadu Crișului, 417615 Bihor"
+  },
+  "openingHours": {
+    "de": "24/7",
+    "hu": "24/7",
+    "ro": "24/7",
+    "en": "24/7"
+  },
+  "entranceFee": {
+    "de": "free",
+    "hu": "ingyenes",
+    "ro": "gratuit",
+    "en": "free"
+  },
   "website": "",
-  "publicTransport": "Zug bis Haltestelle Peștera (direkt am Wasserfall)",
-  "parking": "Parken in Vadu Crișului, dann Fußweg entlang der Gleise",
-  "accessibility": "Teilweise zugänglich über Pfade, nicht vollständig barrierefrei",
-  "photoRules": "Erlaubt",
-  "bestTimeToVisit": "Frühling nach der Schneeschmelze für maximalen Wasserdurchfluss",
-  "audioGuide": "no"
+  "publicTransport": {
+    "de": "Zug bis Haltestelle Peștera (direkt am Wasserfall)",
+    "hu": "Vonat a Peștera megállóig (közvetlenül a vízesésnél)",
+    "ro": "Tren până la stația Peștera (chiar lângă cascadă)",
+    "en": "Train to Peștera stop (directly at the waterfall)"
+  },
+  "parking": {
+    "de": "Parken in Vadu Crișului, dann Fußweg entlang der Gleise",
+    "hu": "Parkolás Rév településen, majd séta a sínek mentén",
+    "ro": "Parcare în Vadu Crișului, apoi mers pe jos de-a lungul liniilor ferate",
+    "en": "Parking in Vadu Crișului, then walk along the tracks"
+  },
+  "accessibility": {
+    "de": "Teilweise zugänglich über Pfade, nicht vollständig barrierefrei",
+    "hu": "Részben megközelíthető ösvényeken, nem teljesen akadálymentes",
+    "ro": "Parțial accesibil prin poteci, nu este complet adaptat pentru scaune cu rotile",
+    "en": "Partially accessible via paths, not fully wheelchair-accessible"
+  },
+  "photoRules": {
+    "de": "Erlaubt",
+    "hu": "Engedélyezett",
+    "ro": "Permis",
+    "en": "Allowed"
+  },
+  "bestTimeToVisit": {
+    "de": "Frühling nach der Schneeschmelze für maximalen Wasserdurchfluss",
+    "hu": "Tavasszal, a hóolvadás után a maximális vízhozamért",
+    "ro": "Primăvara după topirea zăpezii pentru debit maxim de apă",
+    "en": "Spring after snowmelt for maximum water flow"
+  },
+  "audioGuide": {
+    "de": "no",
+    "hu": "nem",
+    "ro": "nu",
+    "en": "no"
+  }
 }

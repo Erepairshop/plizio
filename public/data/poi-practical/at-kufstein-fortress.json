@@ -1,12 +1,57 @@
 {
-  "address": "Festung Kufstein, 6330 Kufstein",
-  "openingHours": "Täglich 09:00-18:00 (Sommer), 10:00-17:00 (Winter)",
-  "entranceFee": "€ 13,50 Erwachsene (inkl. Schrägaufzug)",
+  "address": {
+    "de": "Festung Kufstein, 6330 Kufstein",
+    "hu": "Festung Kufstein, 6330 Kufstein",
+    "ro": "Cetatea Kufstein, 6330 Kufstein",
+    "en": "Kufstein Fortress, 6330 Kufstein"
+  },
+  "openingHours": {
+    "de": "Täglich 09:00-18:00 (Sommer), 10:00-17:00 (Winter)",
+    "hu": "Naponta 09:00-18:00 (nyár), 10:00-17:00 (tél)",
+    "ro": "Zilnic 09:00-18:00 (vara), 10:00-17:00 (iarna)",
+    "en": "Daily 09:00-18:00 (summer), 10:00-17:00 (winter)"
+  },
+  "entranceFee": {
+    "de": "€ 13,50 Erwachsene (inkl. Schrägaufzug)",
+    "hu": "13,50 € felnőtteknek (siklóval együtt)",
+    "ro": "13,50 € adulți (include ascensorul înclinat)",
+    "en": "€ 13.50 adults (incl. inclined elevator)"
+  },
   "website": "https://www.festung.kufstein.at",
-  "publicTransport": "5 min Fußweg vom Bahnhof Kufstein zum Unteren Stadtplatz.",
-  "parking": "Tiefgaragen P1 und P2 im Zentrum direkt beim Aufgang.",
-  "accessibility": "Voll barrierefrei durch den modernen Panoramalift (Festungsbahn).",
-  "photoRules": "Überall erlaubt, besonders die Kasematten bieten tolle Motive.",
-  "bestTimeToVisit": "Täglich um 12:00 Uhr, um das Spiel der Heldenorgel zu hören.",
-  "audioGuide": "ja"
+  "publicTransport": {
+    "de": "5 min Fußweg vom Bahnhof Kufstein zum Unteren Stadtplatz.",
+    "hu": "5 perc séta a kufsteini vasútállomástól az alsó főtérig (Unterer Stadtplatz).",
+    "ro": "5 min de mers pe jos de la gara Kufstein până la piața Unterer Stadtplatz.",
+    "en": "5-minute walk from Kufstein station to Unterer Stadtplatz."
+  },
+  "parking": {
+    "de": "Tiefgaragen P1 und P2 im Zentrum direkt beim Aufgang.",
+    "hu": "P1 és P2 mélygarázsok a központban, közvetlenül a feljáratnál.",
+    "ro": "Parcările subterane P1 și P2 din centru, direct lângă intrare.",
+    "en": "Underground garages P1 and P2 in the center directly at the ascent."
+  },
+  "accessibility": {
+    "de": "Voll barrierefrei durch den modernen Panoramalift (Festungsbahn).",
+    "hu": "Teljesen akadálymentes a modern panorámaliftnek (Festungsbahn) köszönhetően.",
+    "ro": "Complet accesibil datorită liftului panoramic modern (Festungsbahn).",
+    "en": "Fully accessible thanks to the modern panorama lift (Festungsbahn)."
+  },
+  "photoRules": {
+    "de": "Überall erlaubt, besonders die Kasematten bieten tolle Motive.",
+    "hu": "Mindenhol megengedett, különösen a kazamaták kínálnak remek témákat.",
+    "ro": "Permis peste tot, casematele oferă în mod special motive deosebite.",
+    "en": "Permitted everywhere, especially the casemates offer great motifs."
+  },
+  "bestTimeToVisit": {
+    "de": "Täglich um 12:00 Uhr, um das Spiel der Heldenorgel zu hören.",
+    "hu": "Naponta 12:00-kor, a Hősök orgonája (Heldenorgel) játékának meghallgatásához.",
+    "ro": "Zilnic la ora 12:00, pentru a asculta orga Heldenorgel.",
+    "en": "Daily at 12:00 PM to hear the Heldenorgel organ performance."
+  },
+  "audioGuide": {
+    "de": "ja",
+    "hu": "igen",
+    "ro": "da",
+    "en": "yes"
+  }
 }

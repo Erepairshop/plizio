@@ -1,12 +1,57 @@
 {
-  "address": "Roosevelt tér 1-3., 6720 Szeged",
-  "openingHours": "Mo-Su 10:00-18:00",
-  "entranceFee": "3990 HUF Erwachsene (Kombi-Ticket), 2490 HUF Studenten",
+  "address": {
+    "de": "Roosevelt tér 1-3., 6720 Szeged",
+    "hu": "Roosevelt tér 1-3., 6720 Szeged",
+    "ro": "Roosevelt tér 1-3., 6720 Szeged",
+    "en": "Roosevelt tér 1-3., 6720 Szeged"
+  },
+  "openingHours": {
+    "de": "Mo-Su 10:00-18:00",
+    "hu": "Hétfő-vasárnap 10:00-18:00",
+    "ro": "Luni-duminică 10:00-18:00",
+    "en": "Mon-Sun 10:00-18:00"
+  },
+  "entranceFee": {
+    "de": "3990 HUF Erwachsene (Kombi-Ticket), 2490 HUF Studenten",
+    "hu": "3990 HUF felnőtt (kombinált jegy), 2490 HUF diák",
+    "ro": "3990 HUF adulți (bilet combinat), 2490 HUF studenți",
+    "en": "3990 HUF adults (combo ticket), 2490 HUF students"
+  },
   "website": "https://moramuzeum.hu/",
-  "publicTransport": "Straßenbahnlinien 1 oder 2 bis zur Haltestelle Roosevelt tér.",
-  "parking": "Kostenpflichtige Parkzone in der Innenstadt; Parkhaus am nahen Arany János utca.",
-  "accessibility": "Vollständig barrierefrei durch Rampen und einen modernen Aufzug zu allen Etagen.",
-  "photoRules": "Fotografieren ohne Blitz und ohne Stativ für private Zwecke gestattet.",
-  "bestTimeToVisit": "Vormittags unter der Woche, um Schulklassen und Gruppenführungen zu vermeiden.",
-  "audioGuide": "HU, EN"
+  "publicTransport": {
+    "de": "Straßenbahnlinien 1 oder 2 bis zur Haltestelle Roosevelt tér.",
+    "hu": "1-es vagy 2-es villamos a Roosevelt tér megállóig.",
+    "ro": "Liniile de tramvai 1 sau 2 până la stația Roosevelt tér.",
+    "en": "Tram lines 1 or 2 to Roosevelt tér stop."
+  },
+  "parking": {
+    "de": "Kostenpflichtige Parkzone in der Innenstadt; Parkhaus am nahen Arany János utca.",
+    "hu": "Fizetős parkolási övezet a belvárosban; parkolóház a közeli Arany János utcában.",
+    "ro": "Zonă de parcare cu plată în centrul orașului; parcare în apropierea străzii Arany János.",
+    "en": "Paid parking zone in the city center; parking garage on the nearby Arany János street."
+  },
+  "accessibility": {
+    "de": "Vollständig barrierefrei durch Rampen und einen modernen Aufzug zu allen Etagen.",
+    "hu": "Teljesen akadálymentes rámpákkal és modern lifttel minden emeletre.",
+    "ro": "Complet accesibil prin rampe și un lift modern la toate etajele.",
+    "en": "Fully accessible via ramps and a modern elevator to all floors."
+  },
+  "photoRules": {
+    "de": "Fotografieren ohne Blitz und ohne Stativ für private Zwecke gestattet.",
+    "hu": "Vaku és állvány nélküli fényképezés magáncélra engedélyezett.",
+    "ro": "Fotografierea fără bliț și fără trepied este permisă pentru uz privat.",
+    "en": "Photography without flash and without tripod is permitted for private use."
+  },
+  "bestTimeToVisit": {
+    "de": "Vormittags unter der Woche, um Schulklassen und Gruppenführungen zu vermeiden.",
+    "hu": "Hétköznap délelőtt, hogy elkerüljük az iskolai csoportokat és a vezetett túrákat.",
+    "ro": "Dimineața în timpul săptămânii, pentru a evita grupurile școlare și tururile ghidate.",
+    "en": "Weekdays in the morning to avoid school classes and group tours."
+  },
+  "audioGuide": {
+    "de": "HU, EN",
+    "hu": "HU, EN",
+    "ro": "HU, EN",
+    "en": "HU, EN"
+  }
 }

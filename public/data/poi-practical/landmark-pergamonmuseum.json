@@ -1,12 +1,57 @@
 {
-  "address": "Bodestraße, 10178 Berlin",
-  "openingHours": "Wegen Sanierung bis 2037 geschlossen. Das Panorama ist täglich 10:00-18:00 geöffnet.",
-  "entranceFee": "€12,00 (für Pergamonmuseum. Das Panorama)",
+  "address": {
+    "de": "Bodestraße, 10178 Berlin",
+    "hu": "Bodestraße, 10178 Berlin",
+    "ro": "Bodestraße, 10178 Berlin",
+    "en": "Bodestraße, 10178 Berlin"
+  },
+  "openingHours": {
+    "de": "Wegen Sanierung bis 2037 geschlossen. Das Panorama ist täglich 10:00-18:00 geöffnet.",
+    "hu": "Felújítás miatt 2037-ig zárva. A Panoráma naponta 10:00-18:00 között látogatható.",
+    "ro": "Închis pentru renovare până în 2037. Panorama este deschisă zilnic 10:00-18:00.",
+    "en": "Closed for renovation until 2037. The Panorama is open daily 10:00-18:00."
+  },
+  "entranceFee": {
+    "de": "€12,00 (für Pergamonmuseum. Das Panorama)",
+    "hu": "12,00 € (a Pergamonmúzeum Panorámájába)",
+    "ro": "12,00 € (pentru Pergamonmuseum. Das Panorama)",
+    "en": "€12.00 (for Pergamonmuseum. Das Panorama)"
+  },
   "website": "https://www.smb.museum/p23",
-  "publicTransport": "S-Bahn Hackescher Markt oder Friedrichstraße",
-  "parking": "Parkhaus Unter den Linden / Staatsoper",
-  "accessibility": "Das Panorama ist barrierefrei zugänglich",
-  "photoRules": "In der Panorama-Ausstellung ohne Blitz erlaubt",
-  "bestTimeToVisit": "Wochentags am späten Nachmittag",
-  "audioGuide": "de, en (im Panorama)"
+  "publicTransport": {
+    "de": "S-Bahn Hackescher Markt oder Friedrichstraße",
+    "hu": "S-Bahn: Hackescher Markt vagy Friedrichstraße",
+    "ro": "S-Bahn Hackescher Markt sau Friedrichstraße",
+    "en": "S-Bahn Hackescher Markt or Friedrichstraße"
+  },
+  "parking": {
+    "de": "Parkhaus Unter den Linden / Staatsoper",
+    "hu": "Parkolóház: Unter den Linden / Staatsoper",
+    "ro": "Parcare: Unter den Linden / Staatsoper",
+    "en": "Parking garage: Unter den Linden / Staatsoper"
+  },
+  "accessibility": {
+    "de": "Das Panorama ist barrierefrei zugänglich",
+    "hu": "A Panoráma akadálymentesen megközelíthető",
+    "ro": "Panorama este accesibilă persoanelor cu dizabilități",
+    "en": "The Panorama is accessible"
+  },
+  "photoRules": {
+    "de": "In der Panorama-Ausstellung ohne Blitz erlaubt",
+    "hu": "A Panoráma-kiállításon vaku nélkül engedélyezett",
+    "ro": "Permis în expoziția Panorama fără bliț",
+    "en": "Allowed in the Panorama exhibition without flash"
+  },
+  "bestTimeToVisit": {
+    "de": "Wochentags am späten Nachmittag",
+    "hu": "Hétköznap késő délután",
+    "ro": "În timpul săptămânii după-amiaza târziu",
+    "en": "Weekdays in the late afternoon"
+  },
+  "audioGuide": {
+    "de": "de, en (im Panorama)",
+    "hu": "de, en (a Panorámában)",
+    "ro": "de, en (în Panorama)",
+    "en": "de, en (in the Panorama)"
+  }
 }

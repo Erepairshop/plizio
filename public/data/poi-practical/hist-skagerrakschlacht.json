@@ -1,12 +1,57 @@
 {
-  "address": "Strandstraße 92, 24235 Laboe",
-  "openingHours": "Mo-So 09:30-18:00 (Saison), Winter verkürzt",
-  "entranceFee": "7 € Erwachsene, 5 € Kinder (Kombiticket mit U-995 möglich)",
+  "address": {
+    "de": "Strandstraße 92, 24235 Laboe",
+    "hu": "Strandstraße 92, 24235 Laboe",
+    "ro": "Strandstraße 92, 24235 Laboe",
+    "en": "Strandstraße 92, 24235 Laboe"
+  },
+  "openingHours": {
+    "de": "Mo-Su 09:30-18:00 (Saison), Winter verkürzt",
+    "hu": "H-V 09:30-18:00 (szezonban), télen rövidebb nyitvatartás",
+    "ro": "Lu-Du 09:30-18:00 (în sezon), program redus iarna",
+    "en": "Mon-Sun 09:30-18:00 (season), shortened in winter"
+  },
+  "entranceFee": {
+    "de": "7 € Erwachsene, 5 € Kinder (Kombiticket mit U-995 möglich)",
+    "hu": "7 € felnőtt, 5 € gyermek (kombinált jegy az U-995-tel lehetséges)",
+    "ro": "7 € adulți, 5 € copii (bilet combinat cu U-995 disponibil)",
+    "en": "7 € adults, 5 € children (combi-ticket with U-995 available)"
+  },
   "website": "https://deutscher-marinebund.de",
-  "publicTransport": "Bus 100/102 ab Kiel Hbf, Fördeschifffahrt bis Laboe",
-  "parking": "Großer Parkplatz am Ehrenmal, ca. 5 € Tagesticket.",
-  "accessibility": "Aufzug bis zur Aussichtsplattform vorhanden.",
-  "photoRules": "Erlaubt, keine Stative in den Innenbereichen.",
-  "bestTimeToVisit": "Bei klarer Sicht für den Blick über die Kieler Förde.",
-  "audioGuide": "nein"
+  "publicTransport": {
+    "de": "Bus 100/102 ab Kiel Hbf, Fördeschifffahrt bis Laboe",
+    "hu": "100/102-es busz Kiel főpályaudvartól, vagy hajó Laboe-ba",
+    "ro": "Autobuzul 100/102 de la Gara Centrală Kiel, navigație pe fiord până la Laboe",
+    "en": "Bus 100/102 from Kiel Hbf, ferry to Laboe"
+  },
+  "parking": {
+    "de": "Großer Parkplatz am Ehrenmal, ca. 5 € Tagesticket.",
+    "hu": "Nagy parkoló az emlékműnél, kb. 5 € napijegy.",
+    "ro": "Parcare mare la monument, aprox. 5 € bilet de o zi.",
+    "en": "Large parking lot at the memorial, approx. 5 € day ticket."
+  },
+  "accessibility": {
+    "de": "Aufzug bis zur Aussichtsplattform vorhanden.",
+    "hu": "Lift elérhető a kilátóplatformig.",
+    "ro": "Lift disponibil până la platforma de belvedere.",
+    "en": "Elevator available to the viewing platform."
+  },
+  "photoRules": {
+    "de": "Erlaubt, keine Stative in den Innenbereichen.",
+    "hu": "Engedélyezett, a belső terekben állvány használata tilos.",
+    "ro": "Permis, fără trepied în zonele interioare.",
+    "en": "Allowed, no tripods in the interior areas."
+  },
+  "bestTimeToVisit": {
+    "de": "Bei klarer Sicht für den Blick über die Kieler Förde.",
+    "hu": "Tiszta időben a Kieler Förde-re nyíló kilátás miatt.",
+    "ro": "Pe vreme senină pentru priveliștea peste fiordul Kiel.",
+    "en": "On a clear day for the view over the Kiel Fjord."
+  },
+  "audioGuide": {
+    "de": "nein",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

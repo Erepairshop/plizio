@@ -1,12 +1,57 @@
 {
-  "address": "Karlsplatz 10, 1040 Wien",
-  "openingHours": "Mo-Sa 09:00-18:00, So 12:00-19:00",
-  "entranceFee": "€ 9,50 (inkl. Panoramalift zu den Kuppelfresken)",
+  "address": {
+    "de": "Karlsplatz 10, 1040 Wien",
+    "hu": "Karlsplatz 10, 1040 Bécs",
+    "ro": "Karlsplatz 10, 1040 Viena",
+    "en": "Karlsplatz 10, 1040 Vienna"
+  },
+  "openingHours": {
+    "de": "Mo-Sa 09:00-18:00, So 12:00-19:00",
+    "hu": "H-Szo 09:00-18:00, V 12:00-19:00",
+    "ro": "Lu-Sâ 09:00-18:00, Du 12:00-19:00",
+    "en": "Mon-Sat 09:00-18:00, Sun 12:00-19:00"
+  },
+  "entranceFee": {
+    "de": "€ 9,50 (inkl. Panoramalift zu den Kuppelfresken)",
+    "hu": "9,50 € (panorámalifttel a kupolafreskókhoz)",
+    "ro": "9,50 € (include liftul panoramic către frescele cupolei)",
+    "en": "€ 9.50 (incl. panorama lift to the dome frescoes)"
+  },
   "website": "https://www.karlskirche.at",
-  "publicTransport": "U1, U2, U4 Karlsplatz",
-  "parking": "Tiefgarage Karlsplatz direkt unter dem Park vor der Kirche.",
-  "accessibility": "Kirche und Kuppel (via Lift) barrierefrei zugänglich.",
-  "photoRules": "Fotografieren ohne Blitz erlaubt, Stativnutzung im Inneren untersagt.",
-  "bestTimeToVisit": "Spätnachmittag, wenn die tiefstehende Sonne die Fassade anstrahlt.",
-  "audioGuide": "ja"
+  "publicTransport": {
+    "de": "U1, U2, U4 Karlsplatz",
+    "hu": "U1, U2, U4 metró, Karlsplatz megálló",
+    "ro": "U1, U2, U4 stația Karlsplatz",
+    "en": "U1, U2, U4 Karlsplatz"
+  },
+  "parking": {
+    "de": "Tiefgarage Karlsplatz direkt unter dem Park vor der Kirche.",
+    "hu": "Karlsplatz mélygarázs közvetlenül a templom előtti park alatt.",
+    "ro": "Parcare subterană Karlsplatz chiar sub parcul din fața bisericii.",
+    "en": "Karlsplatz underground garage directly under the park in front of the church."
+  },
+  "accessibility": {
+    "de": "Kirche und Kuppel (via Lift) barrierefrei zugänglich.",
+    "hu": "A templom és a kupola (lifttel) akadálymentesen megközelíthető.",
+    "ro": "Biserica și cupola (prin lift) sunt accesibile fără bariere.",
+    "en": "Church and dome (via lift) accessible without barriers."
+  },
+  "photoRules": {
+    "de": "Fotografieren ohne Blitz erlaubt, Stativnutzung im Inneren untersagt.",
+    "hu": "Vaku nélküli fotózás megengedett, állvány használata bent tilos.",
+    "ro": "Fotografierea fără bliț este permisă, utilizarea trepiedului în interior este interzisă.",
+    "en": "Photography without flash permitted, tripod use inside prohibited."
+  },
+  "bestTimeToVisit": {
+    "de": "Spätnachmittag, wenn die tiefstehende Sonne die Fassade anstrahlt.",
+    "hu": "Késő délután, amikor az alacsonyan járó nap megvilágítja a homlokzatot.",
+    "ro": "După-amiaza târziu, când soarele la apus luminează fațada.",
+    "en": "Late afternoon, when the low sun illuminates the facade."
+  },
+  "audioGuide": {
+    "de": "ja",
+    "hu": "igen",
+    "ro": "da",
+    "en": "yes"
+  }
 }

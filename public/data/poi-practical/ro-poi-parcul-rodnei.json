@@ -1,12 +1,57 @@
 {
-  "address": "Parcul Național Munții Rodnei, 425200 Rodna",
-  "openingHours": "24/7",
-  "entranceFee": "5 RON (Nationalparkgebühr)",
+  "address": {
+    "de": "Parcul Național Munții Rodnei, 425200 Rodna",
+    "hu": "Parcul Național Munții Rodnei, 425200 Rodna",
+    "ro": "Parcul Național Munții Rodnei, 425200 Rodna",
+    "en": "Parcul Național Munții Rodnei, 425200 Rodna"
+  },
+  "openingHours": {
+    "de": "24/7",
+    "hu": "24/7",
+    "ro": "24/7",
+    "en": "24/7"
+  },
+  "entranceFee": {
+    "de": "5 RON (Nationalparkgebühr)",
+    "hu": "5 RON (Nemzeti Park belépődíj)",
+    "ro": "5 RON (taxă Parcul Național)",
+    "en": "5 RON (National Park fee)"
+  },
   "website": "http://www.parcrodna.ro",
-  "publicTransport": "Busse von Bistrița oder Baia Mare nach Rodna oder Borșa",
-  "parking": "Parkplätze an den Haupteinstiegspunkten wie Pasul Prislop (meist kostenlos)",
-  "accessibility": "Nicht barrierefrei; steile Bergpfade erfordern gute Kondition",
-  "photoRules": "Erlaubt; Drohnennutzung erfordert Genehmigung der Parkverwaltung",
-  "bestTimeToVisit": "Juni bis September für Wanderungen; Juni für die Rhododendronblüte",
-  "audioGuide": "nein"
+  "publicTransport": {
+    "de": "Busse von Bistrița oder Baia Mare nach Rodna oder Borșa",
+    "hu": "Buszok Besztercéről vagy Nagybányáról Rodnára vagy Borsára",
+    "ro": "Autobuze din Bistrița sau Baia Mare către Rodna sau Borșa",
+    "en": "Buses from Bistrița or Baia Mare to Rodna or Borșa"
+  },
+  "parking": {
+    "de": "Parkplätze an den Haupteinstiegspunkten wie Pasul Prislop (meist kostenlos)",
+    "hu": "Parkolók a főbb belépési pontokon, mint a Prislop-hágó (többnyire ingyenes)",
+    "ro": "Parcări la punctele principale de acces, cum ar fi Pasul Prislop (de obicei gratuite)",
+    "en": "Parking at main entry points like Prislop Pass (mostly free)"
+  },
+  "accessibility": {
+    "de": "Nicht barrierefrei; steile Bergpfade erfordern gute Kondition",
+    "hu": "Nem akadálymentes; a meredek hegyi ösvények jó kondíciót igényelnek",
+    "ro": "Nu este accesibil; potecile montane abrupte necesită condiție fizică bună",
+    "en": "Not accessible; steep mountain paths require good fitness"
+  },
+  "photoRules": {
+    "de": "Erlaubt; Drohnennutzung erfordert Genehmigung der Parkverwaltung",
+    "hu": "Engedélyezett; drónhasználathoz a park vezetőségének engedélye szükséges",
+    "ro": "Permis; utilizarea dronelor necesită autorizația administrației parcului",
+    "en": "Permitted; drone use requires permission from park administration"
+  },
+  "bestTimeToVisit": {
+    "de": "Juni bis September für Wanderungen; Juni für die Rhododendronblüte",
+    "hu": "Júniustól szeptemberig túrázásra; június a havasszépe virágzására",
+    "ro": "Iunie până în septembrie pentru drumeții; iunie pentru înflorirea bujorilor de munte",
+    "en": "June to September for hiking; June for rhododendron bloom"
+  },
+  "audioGuide": {
+    "de": "nein",
+    "hu": "nem",
+    "ro": "nu",
+    "en": "no"
+  }
 }

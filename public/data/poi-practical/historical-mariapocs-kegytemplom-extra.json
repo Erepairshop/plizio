@@ -1,12 +1,57 @@
 {
-  "address": "Kossuth tér 1., 4326 Máriapócs",
-  "openingHours": "Mo-Su 07:00-19:00",
-  "entranceFee": "kostenlos",
+  "address": {
+    "de": "Kossuth tér 1., 4326 Máriapócs",
+    "hu": "Kossuth tér 1., 4326 Máriapócs",
+    "ro": "Kossuth tér 1., 4326 Máriapócs",
+    "en": "Kossuth tér 1., 4326 Máriapócs"
+  },
+  "openingHours": {
+    "de": "Mo-Su 07:00-19:00",
+    "hu": "Hétfő-vasárnap 07:00-19:00",
+    "ro": "Luni-duminică 07:00-19:00",
+    "en": "Mon-Sun 07:00-19:00"
+  },
+  "entranceFee": {
+    "de": "kostenlos",
+    "hu": "ingyenes",
+    "ro": "gratuit",
+    "en": "free"
+  },
   "website": "https://www.mariapocskegytemplom.hu/",
-  "publicTransport": "Regionalbusse ab Nyíregyháza, Haltestelle Máriapócs Városháza",
-  "parking": "Kostenlose Parkplätze direkt auf dem zentralen Platz vor der Kirche.",
-  "accessibility": "Die Kirche ist ebenerdig und vollständig rollstuhlgerecht zugänglich.",
-  "photoRules": "Fotografieren ohne Blitz erlaubt, während der Gottesdienste streng untersagt.",
-  "bestTimeToVisit": "Vormittags für die beste natürliche Beleuchtung der prachtvollen Ikonostase.",
-  "audioGuide": "nein"
+  "publicTransport": {
+    "de": "Regionalbusse ab Nyíregyháza, Haltestelle Máriapócs Városháza",
+    "hu": "Helyközi buszok Nyíregyházáról, Máriapócs Városháza megálló",
+    "ro": "Autobuze regionale din Nyíregyháza, stația Máriapócs Városháza",
+    "en": "Regional buses from Nyíregyháza, Máriapócs Városháza stop"
+  },
+  "parking": {
+    "de": "Kostenlose Parkplätze direkt auf dem zentralen Platz vor der Kirche.",
+    "hu": "Ingyenes parkolási lehetőség közvetlenül a templom előtti központi téren.",
+    "ro": "Parcare gratuită chiar în piața centrală din fața bisericii.",
+    "en": "Free parking directly on the central square in front of the church."
+  },
+  "accessibility": {
+    "de": "Die Kirche ist ebenerdig und vollständig rollstuhlgerecht zugänglich.",
+    "hu": "A templom szintbeli és teljesen kerekesszékkel is megközelíthető.",
+    "ro": "Biserica este la nivelul solului și este complet accesibilă cu scaunul cu rotile.",
+    "en": "The church is at ground level and fully accessible by wheelchair."
+  },
+  "photoRules": {
+    "de": "Fotografieren ohne Blitz erlaubt, während der Gottesdienste streng untersagt.",
+    "hu": "Vaku nélküli fényképezés engedélyezett, istentiszteletek alatt szigorúan tilos.",
+    "ro": "Fotografierea fără bliț este permisă, strict interzisă în timpul slujbelor.",
+    "en": "Photography without flash is allowed, strictly forbidden during services."
+  },
+  "bestTimeToVisit": {
+    "de": "Vormittags für die beste natürliche Beleuchtung der prachtvollen Ikonostase.",
+    "hu": "Délelőtt a legszebb a természetes fény a pompás ikonosztázon.",
+    "ro": "Dimineața, pentru cea mai bună lumină naturală pe iconostasul splendid.",
+    "en": "In the morning for the best natural lighting of the magnificent iconostasis."
+  },
+  "audioGuide": {
+    "de": "nein",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

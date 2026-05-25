@@ -1,12 +1,57 @@
 {
-  "address": "Polovragi, 217365 Gorj",
-  "openingHours": "24/7",
-  "entranceFee": "free",
+  "address": {
+    "de": "Polovragi, 217365 Gorj",
+    "hu": "Polovragi, 217365 Gorj",
+    "ro": "Polovragi, 217365 Gorj",
+    "en": "Polovragi, 217365 Gorj"
+  },
+  "openingHours": {
+    "de": "24/7",
+    "hu": "Non-stop",
+    "ro": "24/7",
+    "en": "24/7"
+  },
+  "entranceFee": {
+    "de": "free",
+    "hu": "ingyenes",
+    "ro": "gratuit",
+    "en": "free"
+  },
   "website": "",
-  "publicTransport": "Bus bis Polovragi ab Târgu Jiu",
-  "parking": "Kostenloses Parken beim Kloster Polovragi",
-  "accessibility": "Straße durch die Klamm ist eben und rollstuhlgerecht",
-  "photoRules": "Erlaubt",
-  "bestTimeToVisit": "Vormittags, wenn die Sonne tief einstrahlt",
-  "audioGuide": "no"
+  "publicTransport": {
+    "de": "Bus bis Polovragi ab Târgu Jiu",
+    "hu": "Busz Polovragiba Zsilvásárhelyről",
+    "ro": "Autobuz până la Polovragi din Târgu Jiu",
+    "en": "Bus to Polovragi from Târgu Jiu"
+  },
+  "parking": {
+    "de": "Kostenloses Parken beim Kloster Polovragi",
+    "hu": "Ingyenes parkolás a Polovragi kolostornál",
+    "ro": "Parcare gratuită la mănăstirea Polovragi",
+    "en": "Free parking at Polovragi Monastery"
+  },
+  "accessibility": {
+    "de": "Straße durch die Klamm ist eben und rollstuhlgerecht",
+    "hu": "A szoroson átvezető út sík és kerekesszékkel is járható",
+    "ro": "Drumul prin chei este plat și accesibil pentru scaune cu rotile",
+    "en": "Road through the gorge is flat and wheelchair-accessible"
+  },
+  "photoRules": {
+    "de": "Erlaubt",
+    "hu": "Engedélyezett",
+    "ro": "Permis",
+    "en": "Allowed"
+  },
+  "bestTimeToVisit": {
+    "de": "Vormittags, wenn die Sonne tief einstrahlt",
+    "hu": "Délelőtt, amikor a nap mélyen besüt",
+    "ro": "Dimineața, când soarele pătrunde adânc",
+    "en": "Mornings, when the sun shines deep in"
+  },
+  "audioGuide": {
+    "de": "no",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

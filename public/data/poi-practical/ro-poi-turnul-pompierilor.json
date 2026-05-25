@@ -1,12 +1,57 @@
 {
-  "address": "Strada Turnului, 440010 Satu Mare",
-  "openingHours": "Di-Fr 10:00-17:00, Sa-So 10:00-14:00, Mo geschlossen",
-  "entranceFee": "5 RON Erwachsene, 3 RON Kinder",
+  "address": {
+    "de": "Strada Turnului, 440010 Satu Mare",
+    "hu": "Strada Turnului, 440010 Szatmárnémeti",
+    "ro": "Strada Turnului, 440010 Satu Mare",
+    "en": "Strada Turnului, 440010 Satu Mare"
+  },
+  "openingHours": {
+    "de": "Di-Fr 10:00-17:00, Sa-So 10:00-14:00, Mo geschlossen",
+    "hu": "Kedd-Péntek 10:00-17:00, Szombat-Vasárnap 10:00-14:00, hétfőn zárva",
+    "ro": "Ma-Vi 10:00-17:00, Sâ-Du 10:00-14:00, luni închis",
+    "en": "Tue-Fri 10:00-17:00, Sat-Sun 10:00-14:00, Mon closed"
+  },
+  "entranceFee": {
+    "de": "5 RON Erwachsene, 3 RON Kinder",
+    "hu": "5 RON felnőtteknek, 3 RON gyerekeknek",
+    "ro": "5 RON adulți, 3 RON copii",
+    "en": "5 RON adults, 3 RON children"
+  },
   "website": "https://www.muzeusm.ro",
-  "publicTransport": "Buslinien 1, 2, 13, 15 bis Haltestelle Centru",
-  "parking": "Kostenpflichtige Parkplätze am Piața Libertății (ca. 2 RON/Std.)",
-  "accessibility": "Nicht barrierefrei; enge Wendeltreppe zur Aussichtsplattform",
-  "photoRules": "Erlaubt; Panoramafotos der Stadt von der Spitze sehr empfehlenswert",
-  "bestTimeToVisit": "Später Nachmittag für weiches Licht über den Dächern der Altstadt",
-  "audioGuide": "nein"
+  "publicTransport": {
+    "de": "Buslinien 1, 2, 13, 15 bis Haltestelle Centru",
+    "hu": "1, 2, 13, 15-ös busz a Centru megállóig",
+    "ro": "Liniile de autobuz 1, 2, 13, 15 până la stația Centru",
+    "en": "Bus lines 1, 2, 13, 15 to Centru station"
+  },
+  "parking": {
+    "de": "Kostenpflichtige Parkplätze am Piața Libertății (ca. 2 RON/Std.)",
+    "hu": "Fizetős parkoló a Piața Libertății-n (kb. 2 RON/óra)",
+    "ro": "Parcări cu plată la Piața Libertății (aprox. 2 RON/oră)",
+    "en": "Paid parking at Piața Libertății (approx. 2 RON/hr)"
+  },
+  "accessibility": {
+    "de": "Nicht barrierefrei; enge Wendeltreppe zur Aussichtsplattform",
+    "hu": "Nem akadálymentesített; szűk csigalépcső vezet a kilátóhoz",
+    "ro": "Nu este accesibil; scară în spirală îngustă către platforma de observație",
+    "en": "Not accessible; narrow spiral staircase to the viewing platform"
+  },
+  "photoRules": {
+    "de": "Erlaubt; Panoramafotos der Stadt von der Spitze sehr empfehlenswert",
+    "hu": "Megengedett; a csúcsról készült panorámafotók a városról erősen ajánlottak",
+    "ro": "Permis; fotografiile panoramice ale orașului din vârf sunt foarte recomandate",
+    "en": "Allowed; panoramic photos of the city from the top are highly recommended"
+  },
+  "bestTimeToVisit": {
+    "de": "Später Nachmittag für weiches Licht über den Dächern der Altstadt",
+    "hu": "Késő délután, lágy fény az óváros háztetői felett",
+    "ro": "După-amiaza târziu pentru o lumină blândă peste acoperișurile centrului vechi",
+    "en": "Late afternoon for soft light over the roofs of the old town"
+  },
+  "audioGuide": {
+    "de": "nein",
+    "hu": "nem",
+    "ro": "nu",
+    "en": "no"
+  }
 }

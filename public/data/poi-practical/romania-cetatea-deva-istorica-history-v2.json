@@ -1,12 +1,57 @@
 {
-  "address": "Strada Cetății, 330005 Deva",
-  "openingHours": "Mo-Su 08:00-20:00 (Seilbahnbetrieb)",
-  "entranceFee": "20 RON (Hin- und Rückfahrt mit der Seilbahn)",
+  "address": {
+    "de": "Strada Cetății, 330005 Deva",
+    "hu": "Strada Cetății, 330005 Déva",
+    "ro": "Strada Cetății, 330005 Deva",
+    "en": "Strada Cetății, 330005 Deva"
+  },
+  "openingHours": {
+    "de": "Mo-Su 08:00-20:00 (Seilbahnbetrieb)",
+    "hu": "H-V 08:00-20:00 (felvonó üzemel)",
+    "ro": "Lu-Du 08:00-20:00 (program telecabină)",
+    "en": "Mon-Sun 08:00-20:00 (cable car operation)"
+  },
+  "entranceFee": {
+    "de": "20 RON (Hin- und Rückfahrt mit der Seilbahn)",
+    "hu": "20 RON (oda-vissza a felvonóval)",
+    "ro": "20 RON (dus-întors cu telecabina)",
+    "en": "20 RON (round trip with cable car)"
+  },
   "website": "https://www.primariadeva.ro",
-  "publicTransport": "Vom Bahnhof Deva ca. 15 Minuten Fußweg zur Talstation.",
-  "parking": "Großer Parkplatz an der Talstation der Seilbahn.",
-  "accessibility": "Barrierefrei durch die moderne Schrägseilbahn.",
-  "photoRules": "Erlaubt, ideal für Panoramabilder.",
-  "bestTimeToVisit": "Wochentags, um Wartezeiten zu vermeiden.",
-  "audioGuide": "nein"
+  "publicTransport": {
+    "de": "Vom Bahnhof Deva ca. 15 Minuten Fußweg zur Talstation.",
+    "hu": "A dévai vasútállomástól kb. 15 perc séta az alsó állomásig.",
+    "ro": "Aprox. 15 minute pe jos de la gara Deva până la stația de jos.",
+    "en": "Approx. 15 min walk from Deva train station to the base station."
+  },
+  "parking": {
+    "de": "Großer Parkplatz an der Talstation der Seilbahn.",
+    "hu": "Nagy parkoló a felvonó völgyi állomásánál.",
+    "ro": "Parcare mare la stația de jos a telecabinei.",
+    "en": "Large parking area at the cable car base station."
+  },
+  "accessibility": {
+    "de": "Barrierefrei durch die moderne Schrägseilbahn.",
+    "hu": "Akadálymentesített a modern siklóval.",
+    "ro": "Accesibil datorită telecabinei moderne.",
+    "en": "Accessible via the modern incline cable car."
+  },
+  "photoRules": {
+    "de": "Erlaubt, ideal für Panoramabilder.",
+    "hu": "Engedélyezett, ideális panorámaképekhez.",
+    "ro": "Permis, ideal pentru fotografii panoramice.",
+    "en": "Allowed, ideal for panoramic photos."
+  },
+  "bestTimeToVisit": {
+    "de": "Wochentags, um Wartezeiten zu vermeiden.",
+    "hu": "Hétköznap, a várakozási idő elkerülése érdekében.",
+    "ro": "În timpul săptămânii, pentru a evita aglomerația.",
+    "en": "Weekdays to avoid waiting times."
+  },
+  "audioGuide": {
+    "de": "nein",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

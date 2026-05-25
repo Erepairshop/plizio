@@ -1,12 +1,57 @@
 {
-  "address": "Vár köz 1, 3300 Eger",
-  "openingHours": "Mo-So 09:00-18:00 (Ausstellungen), Hof bis 20:00",
-  "entranceFee": "2500 HUF Erwachsene, 1250 HUF ermäßigt",
+  "address": {
+    "de": "Vár köz 1, 3300 Eger",
+    "hu": "Vár köz 1, 3300 Eger",
+    "ro": "Vár köz 1, 3300 Eger",
+    "en": "Vár köz 1, 3300 Eger"
+  },
+  "openingHours": {
+    "de": "Mo-So 09:00-18:00 (Ausstellungen), Hof bis 20:00",
+    "hu": "H-V 09:00-18:00 (kiállítások), udvar 20:00-ig",
+    "ro": "Lu-Du 09:00-18:00 (expoziții), curte până la 20:00",
+    "en": "Mon-Sun 09:00-18:00 (exhibitions), courtyard until 20:00"
+  },
+  "entranceFee": {
+    "de": "2500 HUF Erwachsene, 1250 HUF ermäßigt",
+    "hu": "2500 HUF felnőtt, 1250 HUF kedvezményes",
+    "ro": "2500 HUF adulți, 1250 HUF redus",
+    "en": "2500 HUF adults, 1250 HUF reduced"
+  },
   "website": "https://www.egrivar.hu",
-  "publicTransport": "10 Gehminuten vom Dobó-Platz im Zentrum",
-  "parking": "Gebührenpflichtiger Parkplatz in der Kossuth Lajos Straße",
-  "accessibility": "Hof und Kasematten teilweise barrierefrei (Rampen), Burgmauern teils steil",
-  "photoRules": "Erlaubt, kommerzielle Fotografie genehmigungspflichtig",
-  "bestTimeToVisit": "Früh am Morgen, um Reisegruppen auszuweichen",
-  "audioGuide": "Ungarisch, Englisch, Deutsch"
+  "publicTransport": {
+    "de": "10 Gehminuten vom Dobó-Platz im Zentrum",
+    "hu": "10 perc gyalog a központi Dobó térről",
+    "ro": "10 minute de mers pe jos din Dobó tér, în centru",
+    "en": "10 min walk from Dobó square in the center"
+  },
+  "parking": {
+    "de": "Gebührenpflichtiger Parkplatz in der Kossuth Lajos Straße",
+    "hu": "Fizetős parkoló a Kossuth Lajos utcában",
+    "ro": "Parcare cu plată pe strada Kossuth Lajos",
+    "en": "Paid parking in Kossuth Lajos street"
+  },
+  "accessibility": {
+    "de": "Hof und Kasematten teilweise barrierefrei (Rampen), Burgmauern teils steil",
+    "hu": "Az udvar és a kazamaták részben akadálymentesek (rámpák), a várfalak helyenként meredekek",
+    "ro": "Curtea și cazematele parțial accesibile (rampe), zidurile castelului parțial abrupte",
+    "en": "Courtyard and casemates partially accessible (ramps), castle walls partly steep"
+  },
+  "photoRules": {
+    "de": "Erlaubt, kommerzielle Fotografie genehmigungspflichtig",
+    "hu": "Engedélyezett, a kereskedelmi fotózáshoz engedély szükséges",
+    "ro": "Permis, fotografia comercială necesită aprobare",
+    "en": "Allowed, commercial photography requires approval"
+  },
+  "bestTimeToVisit": {
+    "de": "Früh am Morgen, um Reisegruppen auszuweichen",
+    "hu": "Korán reggel, a turistacsoportok elkerülése érdekében",
+    "ro": "Dimineața devreme pentru a evita grupurile de turiști",
+    "en": "Early in the morning to avoid tourist groups"
+  },
+  "audioGuide": {
+    "de": "Ungarisch, Englisch, Deutsch",
+    "hu": "Magyar, angol, német",
+    "ro": "Maghiară, engleză, germană",
+    "en": "Hungarian, English, German"
+  }
 }

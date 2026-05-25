@@ -1,12 +1,57 @@
 {
-  "address": "London EC3N 4AB, Großbritannien",
-  "openingHours": "Di-Sa 09:00-17:30, So-Mo 10:00-17:30",
-  "entranceFee": "£33.60 Erwachsene, £16.80 Kinder",
+  "address": {
+    "de": "London EC3N 4AB, Großbritannien",
+    "hu": "London EC3N 4AB, Nagy-Britannia",
+    "ro": "London EC3N 4AB, Marea Britanie",
+    "en": "London EC3N 4AB, Great Britain"
+  },
+  "openingHours": {
+    "de": "Di-Sa 09:00-17:30, So-Mo 10:00-17:30",
+    "hu": "Kedd-szombat 09:00-17:30, vasárnap-hétfő 10:00-17:30",
+    "ro": "Marți-sâmbătă 09:00-17:30, duminică-luni 10:00-17:30",
+    "en": "Tue-Sat 09:00-17:30, Sun-Mon 10:00-17:30"
+  },
+  "entranceFee": {
+    "de": "£33.60 Erwachsene, £16.80 Kinder",
+    "hu": "£33.60 felnőttek, £16.80 gyermekek",
+    "ro": "£33.60 adulți, £16.80 copii",
+    "en": "£33.60 adults, £16.80 children"
+  },
   "website": "https://www.hrp.org.uk/tower-of-london/",
-  "publicTransport": "U-Bahn Station Tower Hill (District & Circle Line)",
-  "parking": "Keine Parkplätze; Minories Car Park ist 10 Min. entfernt",
-  "accessibility": "Barrierefreier Zugang zu den Kronjuwelen, White Tower schwierig",
-  "photoRules": "Keine Fotos im Juwelenhaus erlaubt, sonst gestattet",
-  "bestTimeToVisit": "Sofort bei Öffnung direkt zu den Kronjuwelen",
-  "audioGuide": "DE, EN, FR, ES, IT, JA, RU, ZH"
+  "publicTransport": {
+    "de": "U-Bahn Station Tower Hill (District & Circle Line)",
+    "hu": "Tower Hill metróállomás (District és Circle vonal)",
+    "ro": "Stația de metrou Tower Hill (linia District & Circle)",
+    "en": "Tower Hill underground station (District & Circle Line)"
+  },
+  "parking": {
+    "de": "Keine Parkplätze; Minories Car Park ist 10 Min. entfernt",
+    "hu": "Nincs parkoló; a Minories parkolóház 10 percnyire található",
+    "ro": "Fără parcare proprie; parcarea Minories este la 10 minute distanță",
+    "en": "No on-site parking; Minories Car Park is 10 mins away"
+  },
+  "accessibility": {
+    "de": "Barrierefreier Zugang zu den Kronjuwelen, White Tower schwierig",
+    "hu": "Akadálymentes bejutás a koronaékszerekhez, a White Tower nehezen közelíthető meg",
+    "ro": "Acces fără bariere la bijuteriile coroanei, White Tower este greu accesibil",
+    "en": "Wheelchair accessible to the Crown Jewels, White Tower is difficult"
+  },
+  "photoRules": {
+    "de": "Keine Fotos im Juwelenhaus erlaubt, sonst gestattet",
+    "hu": "Az ékszerházban tilos a fényképezés, egyébként engedélyezett",
+    "ro": "Fotografierea interzisă în casa bijuteriilor, permisă în rest",
+    "en": "No photography inside the Jewel House, permitted elsewhere"
+  },
+  "bestTimeToVisit": {
+    "de": "Sofort bei Öffnung direkt zu den Kronjuwelen",
+    "hu": "Nyitáskor azonnal a koronaékszerekhez menni",
+    "ro": "Imediat la deschidere, direct la bijuteriile coroanei",
+    "en": "Head straight to the Crown Jewels right at opening"
+  },
+  "audioGuide": {
+    "de": "DE, EN, FR, ES, IT, JA, RU, ZH",
+    "hu": "DE, EN, FR, ES, IT, JA, RU, ZH",
+    "ro": "DE, EN, FR, ES, IT, JA, RU, ZH",
+    "en": "DE, EN, FR, ES, IT, JA, RU, ZH"
+  }
 }

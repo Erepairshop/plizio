@@ -1,12 +1,57 @@
 {
-  "address": "Place du Général de Gaulle, 77300 Fontainebleau",
-  "openingHours": "We-Mo 09:30-18:00, Di geschlossen",
-  "entranceFee": "€14 Erwachsene",
+  "address": {
+    "de": "Place du Général de Gaulle, 77300 Fontainebleau",
+    "hu": "Place du Général de Gaulle, 77300 Fontainebleau",
+    "ro": "Place du Général de Gaulle, 77300 Fontainebleau",
+    "en": "Place du Général de Gaulle, 77300 Fontainebleau"
+  },
+  "openingHours": {
+    "de": "We-Mo 09:30-18:00, Di geschlossen",
+    "hu": "Sze-Hé 09:30-18:00, kedden zárva",
+    "ro": "Mie-Lun 09:30-18:00, Marți închis",
+    "en": "Wed-Mon 09:30-18:00, Tue closed"
+  },
+  "entranceFee": {
+    "de": "€14 Erwachsene",
+    "hu": "14 € felnőtteknek",
+    "ro": "14 € adulți",
+    "en": "€14 adults"
+  },
   "website": "https://www.chateaudefontainebleau.fr",
-  "publicTransport": "Zug ab Gare de Lyon nach Fontainebleau-Avon, dann Bus Linie 1",
-  "parking": "Parkplatz Place d'Armes gegenüber dem Haupteingang",
-  "accessibility": "Großteils rollstuhlgerecht über Rampen und Aufzüge zugänglich",
-  "photoRules": "Fotografieren ohne Blitz und Stativ in den Gemächern erlaubt",
-  "bestTimeToVisit": "Wochentage bieten eine wesentlich ruhigere Atmosphäre als Versailles",
-  "audioGuide": "DE, EN, FR, IT, ES, ZH, JP, RU"
+  "publicTransport": {
+    "de": "Zug ab Gare de Lyon nach Fontainebleau-Avon, dann Bus Linie 1",
+    "hu": "Vonat a Gare de Lyon állomásról Fontainebleau-Avon megállóig, majd 1-es busz",
+    "ro": "Tren de la Gare de Lyon către Fontainebleau-Avon, apoi autobuzul linia 1",
+    "en": "Train from Gare de Lyon to Fontainebleau-Avon, then bus line 1"
+  },
+  "parking": {
+    "de": "Parkplatz Place d'Armes gegenüber dem Haupteingang",
+    "hu": "Place d'Armes parkoló a főbejárattal szemben",
+    "ro": "Parcarea Place d'Armes vizavi de intrarea principală",
+    "en": "Place d'Armes parking lot opposite the main entrance"
+  },
+  "accessibility": {
+    "de": "Großteils rollstuhlgerecht über Rampen und Aufzüge zugänglich",
+    "hu": "Nagyrészt akadálymentesített, rámpákkal és liftekkel megközelíthető",
+    "ro": "Accesibil în mare parte pentru scaune cu rotile prin rampe și ascensoare",
+    "en": "Mostly wheelchair accessible via ramps and elevators"
+  },
+  "photoRules": {
+    "de": "Fotografieren ohne Blitz und Stativ in den Gemächern erlaubt",
+    "hu": "A termekben vaku és állvány nélkül szabad fényképezni",
+    "ro": "Fotografierea fără bliț și trepied este permisă în apartamente",
+    "en": "Photography allowed without flash or tripod in the state rooms"
+  },
+  "bestTimeToVisit": {
+    "de": "Wochentage bieten eine wesentlich ruhigere Atmosphäre als Versailles",
+    "hu": "Hétköznapokon sokkal nyugodtabb a hangulat, mint Versailles-ban",
+    "ro": "Zilele lucrătoare oferă o atmosferă mult mai liniștită decât Versailles",
+    "en": "Weekdays offer a much quieter atmosphere than Versailles"
+  },
+  "audioGuide": {
+    "de": "DE, EN, FR, IT, ES, ZH, JP, RU",
+    "hu": "DE, EN, FR, IT, ES, ZH, JP, RU",
+    "ro": "DE, EN, FR, IT, ES, ZH, JP, RU",
+    "en": "DE, EN, FR, IT, ES, ZH, JP, RU"
+  }
 }

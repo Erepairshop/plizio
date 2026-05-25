@@ -1,12 +1,57 @@
 {
-  "address": "Várhegy, 2646 Drégelypalánk",
-  "openingHours": "24/7",
-  "entranceFee": "kostenlos",
+  "address": {
+    "de": "Várhegy, 2646 Drégelypalánk",
+    "hu": "Várhegy, 2646 Drégelypalánk",
+    "ro": "Várhegy, 2646 Drégelypalánk",
+    "en": "Várhegy, 2646 Drégelypalánk"
+  },
+  "openingHours": {
+    "de": "24/7",
+    "hu": "24/7",
+    "ro": "Non-stop",
+    "en": "24/7"
+  },
+  "entranceFee": {
+    "de": "kostenlos",
+    "hu": "ingyenes",
+    "ro": "gratuit",
+    "en": "free"
+  },
   "website": "https://www.dregelyvara.hu",
-  "publicTransport": "Zug bis Drégelypalánk, dann ca. 1,5 Stunden Wanderung (Blaues Band)",
-  "parking": "Parkplatz am Schultheisz-Gedenkstein (Sáferkút), ca. 3 km Wanderung",
-  "accessibility": "Nicht barrierefrei, steile Waldwege und felsiges Gelände",
-  "photoRules": "Erlaubt, Drohnenflüge unterliegen den allgemeinen Vorschriften",
-  "bestTimeToVisit": "Frühling oder Herbst bei klarem Wetter für die Fernsicht",
-  "audioGuide": "nein"
+  "publicTransport": {
+    "de": "Zug bis Drégelypalánk, dann ca. 1,5 Stunden Wanderung (Blaues Band)",
+    "hu": "Vonat Drégelypalánkig, majd kb. 1,5 órás gyalogtúra (Kék túra)",
+    "ro": "Tren până la Drégelypalánk, apoi aprox. 1,5 ore de drumeție (traseul albastru)",
+    "en": "Train to Drégelypalánk, then approx. 1.5 hours hike (Blue Trail)"
+  },
+  "parking": {
+    "de": "Parkplatz am Schultheisz-Gedenkstein (Sáferkút), ca. 3 km Wanderung",
+    "hu": "Parkoló a Schultheisz-emlékkőnél (Sáferkút), kb. 3 km-es túra",
+    "ro": "Parcare la piatra memorială Schultheisz (Sáferkút), aprox. 3 km de drumeție",
+    "en": "Parking at the Schultheisz memorial stone (Sáferkút), approx. 3 km hike"
+  },
+  "accessibility": {
+    "de": "Nicht barrierefrei, steile Waldwege und felsiges Gelände",
+    "hu": "Nem akadálymentes, meredek erdei utak és sziklás terep",
+    "ro": "Nu este accesibil, poteci forestiere abrupte și teren stâncos",
+    "en": "Not accessible, steep forest paths and rocky terrain"
+  },
+  "photoRules": {
+    "de": "Erlaubt, Drohnenflüge unterliegen den allgemeinen Vorschriften",
+    "hu": "Engedélyezett, a drónozás az általános szabályok hatálya alá esik",
+    "ro": "Permis, zborul dronelor este supus reglementărilor generale",
+    "en": "Allowed, drone flights are subject to general regulations"
+  },
+  "bestTimeToVisit": {
+    "de": "Frühling oder Herbst bei klarem Wetter für die Fernsicht",
+    "hu": "Tavasszal vagy ősszel, tiszta időben a távoli kilátásért",
+    "ro": "Primăvara sau toamna pe vreme senină pentru vederea panoramică",
+    "en": "Spring or autumn in clear weather for the panoramic view"
+  },
+  "audioGuide": {
+    "de": "nein",
+    "hu": "nem",
+    "ro": "nu",
+    "en": "no"
+  }
 }

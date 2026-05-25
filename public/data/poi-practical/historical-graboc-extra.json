@@ -1,12 +1,57 @@
 {
-  "address": "Zárda u. 1, 7129 Grábóc",
-  "openingHours": "Di-So 09:00-17:00 (Voranmeldung für Gruppen empfohlen)",
-  "entranceFee": "Spende erbeten (ca. 500-1000 HUF)",
+  "address": {
+    "de": "Zárda u. 1, 7129 Grábóc",
+    "hu": "Zárda u. 1, 7129 Grábóc",
+    "ro": "Zárda u. 1, 7129 Grábóc",
+    "en": "Zárda u. 1, 7129 Grábóc"
+  },
+  "openingHours": {
+    "de": "Di-So 09:00-17:00 (Voranmeldung für Gruppen empfohlen)",
+    "hu": "K-V 09:00-17:00 (csoportoknak előzetes bejelentkezés javasolt)",
+    "ro": "Ma-Du 09:00-17:00 (programarea prealabilă recomandată pentru grupuri)",
+    "en": "Tue-Sun 09:00-17:00 (advance booking recommended for groups)"
+  },
+  "entranceFee": {
+    "de": "Spende erbeten (ca. 500-1000 HUF)",
+    "hu": "Adományt köszönettel fogadnak (kb. 500-1000 HUF)",
+    "ro": "Donație apreciată (aprox. 500-1000 HUF)",
+    "en": "Donation appreciated (approx. 500-1000 HUF)"
+  },
   "website": "",
-  "publicTransport": "Bus von Bonyhád nach Grábóc, Haltestelle 'Központ'",
-  "parking": "Kostenlose Parkmöglichkeiten im Dorfzentrum oder am Klostereingang",
-  "accessibility": "Kirche über einige Stufen erreichbar, Gelände teils uneben",
-  "photoRules": "In der Kirche nach Erlaubnis fragen, ohne Blitz",
-  "bestTimeToVisit": "Mai bis September, wenn die Klostergärten blühen",
-  "audioGuide": "nein"
+  "publicTransport": {
+    "de": "Bus von Bonyhád nach Grábóc, Haltestelle 'Központ'",
+    "hu": "Busz Bonyhádról Grábócra, 'Központ' megálló",
+    "ro": "Autobuz de la Bonyhád la Grábóc, stația 'Központ'",
+    "en": "Bus from Bonyhád to Grábóc, 'Központ' stop"
+  },
+  "parking": {
+    "de": "Kostenlose Parkmöglichkeiten im Dorfzentrum oder am Klostereingang",
+    "hu": "Ingyenes parkolási lehetőség a faluközpontban vagy a kolostor bejáratánál",
+    "ro": "Parcare gratuită în centrul satului sau la intrarea în mănăstire",
+    "en": "Free parking in the village center or at the monastery entrance"
+  },
+  "accessibility": {
+    "de": "Kirche über einige Stufen erreichbar, Gelände teils uneben",
+    "hu": "A templom néhány lépcsőfokon át közelíthető meg, a terep helyenként egyenetlen",
+    "ro": "Biserica este accesibilă prin câteva trepte, terenul este pe alocuri denivelat",
+    "en": "Church accessible via a few steps, terrain is partially uneven"
+  },
+  "photoRules": {
+    "de": "In der Kirche nach Erlaubnis fragen, ohne Blitz",
+    "hu": "A templomban kérj engedélyt, vaku nélkül",
+    "ro": "Întrebați pentru permisiune în biserică, fără bliț",
+    "en": "Ask for permission in the church, no flash"
+  },
+  "bestTimeToVisit": {
+    "de": "Mai bis September, wenn die Klostergärten blühen",
+    "hu": "Május és szeptember között, amikor a kolostorkert virágzik",
+    "ro": "Mai până în septembrie, când grădinile mănăstirii înfloresc",
+    "en": "May to September when the monastery gardens are in bloom"
+  },
+  "audioGuide": {
+    "de": "nein",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

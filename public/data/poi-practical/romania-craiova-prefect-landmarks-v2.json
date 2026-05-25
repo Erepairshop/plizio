@@ -1,12 +1,57 @@
 {
-  "address": "Calea Unirii 19, 200374 Craiova",
-  "openingHours": "24/7 (nur Außenbesichtigung)",
-  "entranceFee": "kostenlos",
+  "address": {
+    "de": "Calea Unirii 19, 200374 Craiova",
+    "hu": "Calea Unirii 19, 200374 Craiova",
+    "ro": "Calea Unirii 19, 200374 Craiova",
+    "en": "Calea Unirii 19, 200374 Craiova"
+  },
+  "openingHours": {
+    "de": "24/7 (nur Außenbesichtigung)",
+    "hu": "24/7 (csak kívülről)",
+    "ro": "24/7 (doar vizitare la exterior)",
+    "en": "24/7 (exterior viewing only)"
+  },
+  "entranceFee": {
+    "de": "kostenlos",
+    "hu": "ingyenes",
+    "ro": "gratuit",
+    "en": "free"
+  },
   "website": "https://dj.prefectura.mai.gov.ro",
-  "publicTransport": "Zentral gelegen, erreichbar mit allen Bussen zum Stadtzentrum.",
-  "parking": "Kostenpflichtige Parkplätze am Piața Prefecturii.",
-  "accessibility": "Vorplatz und Außenansicht sind barrierefrei zugänglich.",
-  "photoRules": "Fotografieren der Fassade von öffentlichem Grund erlaubt.",
-  "bestTimeToVisit": "Abendstunden, wenn die Fassade beleuchtet ist.",
-  "audioGuide": "nein"
+  "publicTransport": {
+    "de": "Zentral gelegen, erreichbar mit allen Bussen zum Stadtzentrum.",
+    "hu": "Központi fekvésű, minden a városközpontba tartó busszal elérhető.",
+    "ro": "Situat central, accesibil cu toate autobuzele spre centrul orașului.",
+    "en": "Centrally located, accessible by all buses to the city center."
+  },
+  "parking": {
+    "de": "Kostenpflichtige Parkplätze am Piața Prefecturii.",
+    "hu": "Fizetős parkoló a Piața Prefecturininál.",
+    "ro": "Parcare cu plată în Piața Prefecturii.",
+    "en": "Paid parking at Piața Prefecturii."
+  },
+  "accessibility": {
+    "de": "Vorplatz und Außenansicht sind barrierefrei zugänglich.",
+    "hu": "Az előtér és a külső nézet akadálymentesen megközelíthető.",
+    "ro": "Piațeta și vederea exterioară sunt accesibile.",
+    "en": "Forecourt and exterior view are accessible."
+  },
+  "photoRules": {
+    "de": "Fotografieren der Fassade von öffentlichem Grund erlaubt.",
+    "hu": "A homlokzat fotózása közterületről engedélyezett.",
+    "ro": "Fotografierea fațadei din spațiul public este permisă.",
+    "en": "Photographing the facade from public ground is allowed."
+  },
+  "bestTimeToVisit": {
+    "de": "Abendstunden, wenn die Fassade beleuchtet ist.",
+    "hu": "Az esti órákban, amikor a homlokzat ki van világítva.",
+    "ro": "În orele serii, când fațada este iluminată.",
+    "en": "Evening hours when the facade is illuminated."
+  },
+  "audioGuide": {
+    "de": "nein",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

@@ -1,12 +1,57 @@
 {
-  "address": "Strada Mihai Viteazul 1, Făgăraș 505200, Brașov",
-  "openingHours": "Di-Fr 08:00-19:00, Sa-Su 10:00-18:00",
-  "entranceFee": "30 RON Erwachsene, 10 RON Kinder",
+  "address": {
+    "de": "Strada Mihai Viteazul 1, Făgăraș 505200, Brașov",
+    "hu": "Strada Mihai Viteazul 1, Fogaras 505200, Brassó",
+    "ro": "Strada Mihai Viteazul 1, Făgăraș 505200, Brașov",
+    "en": "Strada Mihai Viteazul 1, Făgăraș 505200, Brașov"
+  },
+  "openingHours": {
+    "de": "Di-Fr 08:00-19:00, Sa-Su 10:00-18:00",
+    "hu": "Ke-Pé 08:00-19:00, Szo-Va 10:00-18:00",
+    "ro": "Ma-Vi 08:00-19:00, Sâ-Du 10:00-18:00",
+    "en": "Tue-Fri 08:00-19:00, Sat-Sun 10:00-18:00"
+  },
+  "entranceFee": {
+    "de": "30 RON Erwachsene, 10 RON Kinder",
+    "hu": "30 RON felnőtteknek, 10 RON gyerekeknek",
+    "ro": "30 RON adulți, 10 RON copii",
+    "en": "30 RON adults, 10 RON children"
+  },
   "website": "http://cetateafagarasului.ro",
-  "publicTransport": "Bahnhof Făgăraș (ca. 15 Min. Fußweg)",
-  "parking": "Gebührenpflichtiger Parkplatz direkt am Wassergraben",
-  "accessibility": "Erdgeschoss zugänglich, Treppen zum Museumsbereich",
-  "photoRules": "Private Fotos erlaubt, Profi-Ausrüstung gegen Gebühr",
-  "bestTimeToVisit": "Herbstmorgens, wenn Nebel über dem Wassergraben liegt",
-  "audioGuide": "no"
+  "publicTransport": {
+    "de": "Bahnhof Făgăraș (ca. 15 Min. Fußweg)",
+    "hu": "Fogaras vasútállomás (kb. 15 perc séta)",
+    "ro": "Gara Făgăraș (aprox. 15 minute de mers pe jos)",
+    "en": "Făgăraș train station (approx. 15 min walk)"
+  },
+  "parking": {
+    "de": "Gebührenpflichtiger Parkplatz direkt am Wassergraben",
+    "hu": "Fizetős parkoló közvetlenül a várároknál",
+    "ro": "Parcare cu plată chiar lângă șanțul cetății",
+    "en": "Paid parking right by the moat"
+  },
+  "accessibility": {
+    "de": "Erdgeschoss zugänglich, Treppen zum Museumsbereich",
+    "hu": "Földszint látogatható, a múzeumrészleghez lépcsők vezetnek",
+    "ro": "Parter accesibil, scări către zona muzeului",
+    "en": "Ground floor accessible, stairs to the museum area"
+  },
+  "photoRules": {
+    "de": "Private Fotos erlaubt, Profi-Ausrüstung gegen Gebühr",
+    "hu": "Magáncélú fotózás engedélyezett, profi felszerelés díjköteles",
+    "ro": "Fotografii private permise, echipament profesional contra cost",
+    "en": "Private photos allowed, pro equipment for a fee"
+  },
+  "bestTimeToVisit": {
+    "de": "Herbstmorgens, wenn Nebel über dem Wassergraben liegt",
+    "hu": "Őszi reggeleken, amikor köd ül a várárokon",
+    "ro": "Diminețile de toamnă, când ceața acoperă șanțul cetății",
+    "en": "Autumn mornings when fog covers the moat"
+  },
+  "audioGuide": {
+    "de": "no",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

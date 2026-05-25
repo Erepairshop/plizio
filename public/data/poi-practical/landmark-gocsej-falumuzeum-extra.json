@@ -1,12 +1,57 @@
 {
-  "address": "Falumúzeum u. 1, 8900 Zalaegerszeg",
-  "openingHours": "Di-So 10:00-18:00 (April-Oktober), im Winter geschlossen",
-  "entranceFee": "1500 HUF Erwachsene, 750 HUF ermäßigt",
+  "address": {
+    "de": "Falumúzeum u. 1, 8900 Zalaegerszeg",
+    "hu": "Falumúzeum u. 1, 8900 Zalaegerszeg",
+    "ro": "Falumúzeum u. 1, 8900 Zalaegerszeg",
+    "en": "Falumúzeum u. 1, 8900 Zalaegerszeg"
+  },
+  "openingHours": {
+    "de": "Di-So 10:00-18:00 (April-Oktober), im Winter geschlossen",
+    "hu": "K-V 10:00-18:00 (április-október), télen zárva",
+    "ro": "Mar-Dum 10:00-18:00 (aprilie-octombrie), închis iarna",
+    "en": "Tue-Sun 10:00-18:00 (April-October), closed in winter"
+  },
+  "entranceFee": {
+    "de": "1500 HUF Erwachsene, 750 HUF ermäßigt",
+    "hu": "1500 HUF felnőtt, 750 HUF kedvezményes",
+    "ro": "1500 HUF adulți, 750 HUF redus",
+    "en": "1500 HUF adults, 750 HUF reduced"
+  },
   "website": "https://gocsejimuzeum.hu/",
-  "publicTransport": "Bus vom Stadtzentrum Zalaegerszeg bis Haltestelle Ola",
-  "parking": "Kostenlose Parkplätze direkt vor dem Museumseingang.",
-  "accessibility": "Gelände weitgehend eben, historische Häuser meist nur über Stufen zugänglich.",
-  "photoRules": "Fotografieren auf dem Außengelände frei, in Häusern ohne Blitz.",
-  "bestTimeToVisit": "Frühsommer, wenn die Gärten der Bauernhäuser in Blüte stehen.",
-  "audioGuide": "hu, en, de"
+  "publicTransport": {
+    "de": "Bus vom Stadtzentrum Zalaegerszeg bis Haltestelle Ola",
+    "hu": "Busz Zalaegerszeg központjából az Ola megállóig",
+    "ro": "Autobuz din centrul orașului Zalaegerszeg până la stația Ola",
+    "en": "Bus from Zalaegerszeg city center to Ola stop"
+  },
+  "parking": {
+    "de": "Kostenlose Parkplätze direkt vor dem Museumseingang.",
+    "hu": "Ingyenes parkolási lehetőség közvetlenül a múzeum bejáratánál.",
+    "ro": "Parcare gratuită chiar în fața intrării în muzeu.",
+    "en": "Free parking directly in front of the museum entrance."
+  },
+  "accessibility": {
+    "de": "Gelände weitgehend eben, historische Häuser meist nur über Stufen zugänglich.",
+    "hu": "A terep nagyrészt sík, a történelmi házak többnyire csak lépcsőn keresztül érhetők el.",
+    "ro": "Teren în mare parte plan, casele istorice accesibile de obicei doar prin trepte.",
+    "en": "Terrain largely flat, historical houses usually only accessible via steps."
+  },
+  "photoRules": {
+    "de": "Fotografieren auf dem Außengelände frei, in Häusern ohne Blitz.",
+    "hu": "Fotózás a szabadtéri területen szabad, a házakban vaku nélkül.",
+    "ro": "Fotografierea liberă în aer liber, în interiorul caselor fără bliț.",
+    "en": "Photography free in the outdoor area, without flash inside the houses."
+  },
+  "bestTimeToVisit": {
+    "de": "Frühsommer, wenn die Gärten der Bauernhäuser in Blüte stehen.",
+    "hu": "Kora nyár, amikor a parasztházak kertjei virágoznak.",
+    "ro": "La începutul verii, când grădinile caselor țărănești sunt în floare.",
+    "en": "Early summer, when the gardens of the farmhouses are in bloom."
+  },
+  "audioGuide": {
+    "de": "hu, en, de",
+    "hu": "hu, en, de",
+    "ro": "hu, en, de",
+    "en": "hu, en, de"
+  }
 }

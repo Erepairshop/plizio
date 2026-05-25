@@ -1,12 +1,57 @@
 {
-  "address": "Place d'Armes, 78000 Versailles",
-  "openingHours": "Tu-Su 09:00-18:30",
-  "entranceFee": "€19.50 (Schloss), €28.50 (Passeport inkl. Garten)",
+  "address": {
+    "de": "Place d'Armes, 78000 Versailles",
+    "hu": "Place d'Armes, 78000 Versailles",
+    "ro": "Place d'Armes, 78000 Versailles",
+    "en": "Place d'Armes, 78000 Versailles"
+  },
+  "openingHours": {
+    "de": "Tu-Su 09:00-18:30",
+    "hu": "K-V 09:00-18:30",
+    "ro": "Ma-Du 09:00-18:30",
+    "en": "Tue-Sun 09:00-18:30"
+  },
+  "entranceFee": {
+    "de": "€19.50 (Schloss), €28.50 (Passeport inkl. Garten)",
+    "hu": "19,50 € (kastély), 28,50 € (Passeport a kertekkel együtt)",
+    "ro": "19,50 € (Castel), 28,50 € (Passeport incluzând grădina)",
+    "en": "€19.50 (Palace), €28.50 (Passport incl. gardens)"
+  },
   "website": "https://www.chateauversailles.fr",
-  "publicTransport": "RER C Haltestelle Versailles Château Rive Gauche",
-  "parking": "Zentraler Parkplatz Place d'Armes, ca. €30 pro Tag",
-  "accessibility": "Haupträume rollstuhlgerecht mit Aufzügen, Kopfsteinpflaster im Außenbereich",
-  "photoRules": "Fotografieren ohne Blitz und Stativ in den Innenräumen erlaubt",
-  "bestTimeToVisit": "Dienstags und Wochenenden meiden, Garten am frühen Morgen besuchen",
-  "audioGuide": "DE, EN, FR, IT, ES, ZH, JP, RU, KR"
+  "publicTransport": {
+    "de": "RER C Haltestelle Versailles Château Rive Gauche",
+    "hu": "RER C vonal, Versailles Château Rive Gauche megálló",
+    "ro": "RER C stația Versailles Château Rive Gauche",
+    "en": "RER C station Versailles Château Rive Gauche"
+  },
+  "parking": {
+    "de": "Zentraler Parkplatz Place d'Armes, ca. €30 pro Tag",
+    "hu": "Központi parkoló a Place d'Armes-nál, kb. 30 € naponta",
+    "ro": "Parcarea centrală Place d'Armes, aprox. 30 € pe zi",
+    "en": "Central parking at Place d'Armes, approx. €30 per day"
+  },
+  "accessibility": {
+    "de": "Haupträume rollstuhlgerecht mit Aufzügen, Kopfsteinpflaster im Außenbereich",
+    "hu": "A főtermek kerekesszékkel megközelíthetők lifttel, kültéren macskaköves burkolat",
+    "ro": "Încăperile principale sunt accesibile cu scaunul cu rotile prin lifturi, pavaj cu piatră cubică la exterior",
+    "en": "Main rooms wheelchair accessible via elevators, cobblestones in outdoor areas"
+  },
+  "photoRules": {
+    "de": "Fotografieren ohne Blitz und Stativ in den Innenräumen erlaubt",
+    "hu": "A belső terekben vaku és állvány nélkül engedélyezett a fotózás",
+    "ro": "Fotografiatul fără bliț și trepied este permis în interior",
+    "en": "Photography without flash or tripod allowed in the interiors"
+  },
+  "bestTimeToVisit": {
+    "de": "Dienstags und Wochenenden meiden, Garten am frühen Morgen besuchen",
+    "hu": "A keddeket és a hétvégéket kerülje, a kerteket kora reggel látogassa",
+    "ro": "Evitați zilele de marți și weekendurile, vizitați grădina dimineața devreme",
+    "en": "Avoid Tuesdays and weekends, visit the gardens early in the morning"
+  },
+  "audioGuide": {
+    "de": "DE, EN, FR, IT, ES, ZH, JP, RU, KR",
+    "hu": "német, angol, francia, olasz, spanyol, kínai, japán, orosz, koreai",
+    "ro": "DE, EN, FR, IT, ES, ZH, JP, RU, KR",
+    "en": "DE, EN, FR, IT, ES, ZH, JP, RU, KR"
+  }
 }

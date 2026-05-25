@@ -1,12 +1,57 @@
 {
-  "address": "Grădiștea de Munte, 337305 Hunedoara",
-  "openingHours": "Täglich 09:00-20:00 (Mai-Aug), 09:00-18:00 (Mär-Apr/Sep-Nov)",
-  "entranceFee": "15 RON Erwachsene, 7 RON Kinder",
+  "address": {
+    "de": "Grădiștea de Munte, 337305 Hunedoara",
+    "hu": "Grădiștea de Munte, 337305 Hunedoara",
+    "ro": "Grădiștea de Munte, 337305 Hunedoara",
+    "en": "Grădiștea de Munte, 337305 Hunedoara"
+  },
+  "openingHours": {
+    "de": "Täglich 09:00-20:00 (Mai-Aug), 09:00-18:00 (Mär-Apr/Sep-Nov)",
+    "hu": "Naponta 09:00-20:00 (máj-aug), 09:00-18:00 (márc-ápr/szept-nov)",
+    "ro": "Zilnic 09:00-20:00 (mai-aug), 09:00-18:00 (mar-apr/sep-nov)",
+    "en": "Daily 09:00-20:00 (May-Aug), 09:00-18:00 (Mar-Apr/Sep-Nov)"
+  },
+  "entranceFee": {
+    "de": "15 RON Erwachsene, 7 RON Kinder",
+    "hu": "15 RON felnőtt, 7 RON gyermek",
+    "ro": "15 RON adulți, 7 RON copii",
+    "en": "15 RON adults, 7 RON children"
+  },
   "website": "https://www.sarmizegetusaregia.ro",
-  "publicTransport": "Kein ÖPNV, nur mit PKW über asphaltierte Straße ab Costești erreichbar",
-  "parking": "Parkplatz ca. 1 km vor dem Eingang, kostenlos",
-  "accessibility": "Längerer Fußweg auf Natursteinpflaster, moderat anstrengend",
-  "photoRules": "Erlaubt, gewerbliche Aufnahmen genehmigungspflichtig",
-  "bestTimeToVisit": "Früher Morgen, wenn Nebel über den heiligen Tempeln liegt",
-  "audioGuide": "Nein"
+  "publicTransport": {
+    "de": "Kein ÖPNV, nur mit PKW über asphaltierte Straße ab Costești erreichbar",
+    "hu": "Nincs tömegközlekedés, csak autóval érhető el aszfaltozott úton Costești felől",
+    "ro": "Fără transport public, accesibil doar cu mașina pe drum asfaltat dinspre Costești",
+    "en": "No public transport, only reachable by car via paved road from Costești"
+  },
+  "parking": {
+    "de": "Parkplatz ca. 1 km vor dem Eingang, kostenlos",
+    "hu": "Parkoló kb. 1 km-re a bejárattól, ingyenes",
+    "ro": "Parcare la aprox. 1 km de intrare, gratuită",
+    "en": "Parking lot approx. 1 km before the entrance, free"
+  },
+  "accessibility": {
+    "de": "Längerer Fußweg auf Natursteinpflaster, moderat anstrengend",
+    "hu": "Hosszabb séta terméskővel kirakott úton, közepesen megterhelő",
+    "ro": "Mers pe jos prelungit pe pavaj din piatră naturală, efort moderat",
+    "en": "Longer walk on natural stone pavement, moderately strenuous"
+  },
+  "photoRules": {
+    "de": "Erlaubt, gewerbliche Aufnahmen genehmigungspflichtig",
+    "hu": "Engedélyezett, a kereskedelmi célú felvételek engedélykötelesek",
+    "ro": "Permis, fotografiile comerciale necesită autorizație",
+    "en": "Allowed, commercial photography requires a permit"
+  },
+  "bestTimeToVisit": {
+    "de": "Früher Morgen, wenn Nebel über den heiligen Tempeln liegt",
+    "hu": "Kora reggel, amikor köd üli meg a szent templomokat",
+    "ro": "Dimineața devreme, când ceața acoperă templele sacre",
+    "en": "Early morning, when mist lingers over the sacred temples"
+  },
+  "audioGuide": {
+    "de": "Nein",
+    "hu": "Nem",
+    "ro": "Nu",
+    "en": "No"
+  }
 }

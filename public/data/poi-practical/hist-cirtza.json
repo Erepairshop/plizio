@@ -1,12 +1,57 @@
 {
-  "address": "Strada Principală, Cârța 557070, Sibiu",
-  "openingHours": "Mo-Su 09:00-18:00",
-  "entranceFee": "10 RON Erwachsene",
+  "address": {
+    "de": "Strada Principală, Cârța 557070, Sibiu",
+    "hu": "Strada Principală, Kerc (Cârța) 557070, Szeben megye",
+    "ro": "Strada Principală, Cârța 557070, Sibiu",
+    "en": "Strada Principală, Cârța 557070, Sibiu County"
+  },
+  "openingHours": {
+    "de": "Mo-Su 09:00-18:00",
+    "hu": "H-V 09:00-18:00",
+    "ro": "Lu-Du 09:00-18:00",
+    "en": "Mon-Sun 09:00-18:00"
+  },
+  "entranceFee": {
+    "de": "10 RON Erwachsene",
+    "hu": "10 RON felnőtt",
+    "ro": "10 RON adulți",
+    "en": "10 RON adults"
+  },
   "website": "",
-  "publicTransport": "Zugstation Cârța an der Strecke Sibiu-Brașov (2km Fußweg)",
-  "parking": "Kostenlose Parkmöglichkeit direkt vor der Kirchenruine",
-  "accessibility": "Barrierefrei zugängliche Ruinenanlage",
-  "photoRules": "Erlaubt, sehr beliebt für künstlerische Fotografie",
-  "bestTimeToVisit": "Goldene Stunde vor Sonnenuntergang für die gotischen Bögen",
-  "audioGuide": "no"
+  "publicTransport": {
+    "de": "Zugstation Cârța an der Strecke Sibiu-Brașov (2km Fußweg)",
+    "hu": "Kerc (Cârța) vasútállomás a Nagyszeben-Brassó vonalon (2 km séta)",
+    "ro": "Stația de tren Cârța pe linia Sibiu-Brașov (2 km de mers pe jos)",
+    "en": "Cârța train station on the Sibiu-Brașov line (2km walk)"
+  },
+  "parking": {
+    "de": "Kostenlose Parkmöglichkeit direkt vor der Kirchenruine",
+    "hu": "Ingyenes parkolás közvetlenül a templomrom előtt",
+    "ro": "Parcare gratuită direct în fața ruinelor bisericii",
+    "en": "Free parking available directly in front of the church ruins"
+  },
+  "accessibility": {
+    "de": "Barrierefrei zugängliche Ruinenanlage",
+    "hu": "Akadálymentesen bejárható romterület",
+    "ro": "Situl ruinelor este accesibil",
+    "en": "The ruins are accessible for visitors"
+  },
+  "photoRules": {
+    "de": "Erlaubt, sehr beliebt für künstlerische Fotografie",
+    "hu": "Megengedett, művészi fotózáshoz nagyon kedvelt helyszín",
+    "ro": "Permis, foarte popular pentru fotografia artistică",
+    "en": "Permitted, very popular for artistic photography"
+  },
+  "bestTimeToVisit": {
+    "de": "Goldene Stunde vor Sonnenuntergang für die gotischen Bögen",
+    "hu": "A naplemente előtti „aranyóra” a gótikus ívek megörökítéséhez",
+    "ro": "Ora de aur înainte de apus pentru arcadele gotice",
+    "en": "Golden hour before sunset for the Gothic arches"
+  },
+  "audioGuide": {
+    "de": "no",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

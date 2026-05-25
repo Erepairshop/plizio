@@ -1,12 +1,57 @@
 {
-  "address": "Burg Kreuzenstein, 2100 Leobendorf",
-  "openingHours": "Apr-Okt: Mo-Sa 10:00-16:00, So 10:00-17:00",
-  "entranceFee": "€ 15,00 Erwachsene (Achtung: nur Barzahlung möglich)",
+  "address": {
+    "de": "Burg Kreuzenstein, 2100 Leobendorf",
+    "hu": "Burg Kreuzenstein, 2100 Leobendorf",
+    "ro": "Castelul Kreuzenstein, 2100 Leobendorf",
+    "en": "Kreuzenstein Castle, 2100 Leobendorf"
+  },
+  "openingHours": {
+    "de": "Apr-Okt: Mo-Sa 10:00-16:00, So 10:00-17:00",
+    "hu": "Ápr-okt: H-Szo 10:00-16:00, V 10:00-17:00",
+    "ro": "Apr-Oct: Lu-Sâ 10:00-16:00, Du 10:00-17:00",
+    "en": "Apr-Oct: Mon-Sat 10:00-16:00, Sun 10:00-17:00"
+  },
+  "entranceFee": {
+    "de": "€ 15,00 Erwachsene (Achtung: nur Barzahlung möglich)",
+    "hu": "15,00 € felnőtteknek (figyelem: csak készpénzes fizetés lehetséges)",
+    "ro": "15,00 € adulți (atenție: este posibilă doar plata în numerar)",
+    "en": "€ 15.00 adults (note: cash only)"
+  },
   "website": "https://www.kreuzenstein.com",
-  "publicTransport": "S1 bis Leobendorf-Burg Kreuzenstein, danach 30 min Fußweg.",
-  "parking": "Kostenloser Parkplatz unterhalb der Burg, 5 min Fußweg zum Eingang.",
-  "accessibility": "Grobes Kopfsteinpflaster und enge Stiegen, absolut nicht barrierefrei.",
-  "photoRules": "Im Innenhof erlaubt, in den Museumsräumen striktes Verbot.",
-  "bestTimeToVisit": "In Kombination mit der Greifvogelshow in der benachbarten Adlerwarte.",
-  "audioGuide": "nein (nur geführte Touren)"
+  "publicTransport": {
+    "de": "S1 bis Leobendorf-Burg Kreuzenstein, danach 30 min Fußweg.",
+    "hu": "S1 vonat Leobendorf-Burg Kreuzenstein állomásig, majd 30 perc séta.",
+    "ro": "Trenul S1 până la Leobendorf-Burg Kreuzenstein, urmat de 30 min de mers pe jos.",
+    "en": "S1 train to Leobendorf-Burg Kreuzenstein, then a 30-minute walk."
+  },
+  "parking": {
+    "de": "Kostenloser Parkplatz unterhalb der Burg, 5 min Fußweg zum Eingang.",
+    "hu": "Ingyenes parkoló a vár alatt, 5 perc séta a bejáratig.",
+    "ro": "Parcare gratuită sub castel, 5 min de mers pe jos până la intrare.",
+    "en": "Free parking below the castle, 5-minute walk to the entrance."
+  },
+  "accessibility": {
+    "de": "Grobes Kopfsteinpflaster und enge Stiegen, absolut nicht barrierefrei.",
+    "hu": "Durva macskaköves burkolat és szűk lépcsők, egyáltalán nem akadálymentes.",
+    "ro": "Pavaj dur și scări înguste, absolut deloc accesibil fără bariere.",
+    "en": "Rough cobblestones and narrow stairs, absolutely not barrier-free."
+  },
+  "photoRules": {
+    "de": "Im Innenhof erlaubt, in den Museumsräumen striktes Verbot.",
+    "hu": "A belső udvaron megengedett, a múzeumi termekben szigorúan tilos.",
+    "ro": "Permis în curtea interioară, strict interzis în camerele muzeului.",
+    "en": "Permitted in the courtyard, strictly prohibited in the museum rooms."
+  },
+  "bestTimeToVisit": {
+    "de": "In Kombination mit der Greifvogelshow in der benachbarten Adlerwarte.",
+    "hu": "A szomszédos Adlerwarte ragadozómadár-bemutatójával kombinálva.",
+    "ro": "În combinație cu spectacolul de păsări răpitoare de la Adlerwarte din apropiere.",
+    "en": "In combination with the bird of prey show at the neighboring Adlerwarte."
+  },
+  "audioGuide": {
+    "de": "nein (nur geführte Touren)",
+    "hu": "nincs (csak vezetett túrák)",
+    "ro": "nu (doar tururi ghidate)",
+    "en": "no (guided tours only)"
+  }
 }

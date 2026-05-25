@@ -1,12 +1,57 @@
 {
-  "address": "Michaelerkuppel, 1010 Wien",
-  "openingHours": "Mo-Su 09:00-17:30",
-  "entranceFee": "€17,50 Erwachsene (Sisi Museum & Kaiserappartements)",
+  "address": {
+    "de": "Michaelerkuppel, 1010 Wien",
+    "hu": "Michaelerkuppel, 1010 Bécs",
+    "ro": "Michaelerkuppel, 1010 Viena",
+    "en": "Michaelerkuppel, 1010 Vienna"
+  },
+  "openingHours": {
+    "de": "Mo-Su 09:00-17:30",
+    "hu": "H-V 09:00-17:30",
+    "ro": "Lu-Du 09:00-17:30",
+    "en": "Mon-Sun 9:00 AM - 5:30 PM"
+  },
+  "entranceFee": {
+    "de": "€17,50 Erwachsene (Sisi Museum & Kaiserappartements)",
+    "hu": "17,50 € felnőtt (Sisi Múzeum és Császári lakosztályok)",
+    "ro": "17,50 € adulți (Muzeul Sisi și Apartamentele Imperiale)",
+    "en": "€17.50 adults (Sisi Museum & Imperial Apartments)"
+  },
   "website": "https://www.hofburg-wien.at",
-  "publicTransport": "U3 Herrengasse, Tram 1, 2, D (Station Burgring)",
-  "parking": "Keine eigenen Parkplätze, teure Parkhäuser in der Nähe (z.B. Rathausparkplatz).",
-  "accessibility": "Alle Besichtigungsbereiche des Sisi-Museums sind über Aufzüge barrierefrei erreichbar.",
-  "photoRules": "In den historischen Schauräumen und dem Sisi Museum ist Fotografieren verboten.",
-  "bestTimeToVisit": "Gleich um 09:00 Uhr morgens, bevor die großen Reisegruppen eintreffen.",
-  "audioGuide": "Im Eintrittspreis enthalten, in 13 Sprachen verfügbar."
+  "publicTransport": {
+    "de": "U3 Herrengasse, Tram 1, 2, D (Station Burgring)",
+    "hu": "U3 Herrengasse, 1, 2, D villamos (Burgring megálló)",
+    "ro": "U3 Herrengasse, tramvaiul 1, 2, D (stația Burgring)",
+    "en": "U3 Herrengasse, Tram 1, 2, D (Burgring station)"
+  },
+  "parking": {
+    "de": "Keine eigenen Parkplätze, teure Parkhäuser in der Nähe (z.B. Rathausparkplatz).",
+    "hu": "Nincs saját parkoló, csak drága parkolóházak a közelben (pl. Rathausparkplatz).",
+    "ro": "Nu există parcare proprie, garaje scumpe în apropiere (ex. Rathausparkplatz).",
+    "en": "No on-site parking; expensive parking garages nearby (e.g., Rathausparkplatz)."
+  },
+  "accessibility": {
+    "de": "Alle Besichtigungsbereiche des Sisi-Museums sind über Aufzüge barrierefrei erreichbar.",
+    "hu": "A Sisi Múzeum minden látogatható része lifttel akadálymentesen elérhető.",
+    "ro": "Toate zonele de vizitare ale Muzeului Sisi sunt accesibile prin lifturi.",
+    "en": "All visiting areas of the Sisi Museum are accessible via elevators."
+  },
+  "photoRules": {
+    "de": "In den historischen Schauräumen und dem Sisi Museum ist Fotografieren verboten.",
+    "hu": "A történelmi bemutatótermekben és a Sisi Múzeumban tilos a fotózás.",
+    "ro": "Fotografierea este interzisă în sălile istorice și în Muzeul Sisi.",
+    "en": "Photography is prohibited in the historical showrooms and the Sisi Museum."
+  },
+  "bestTimeToVisit": {
+    "de": "Gleich um 09:00 Uhr morgens, bevor die großen Reisegruppen eintreffen.",
+    "hu": "Reggel 09:00-kor, mielőtt a nagy turistacsoportok megérkeznek.",
+    "ro": "La ora 09:00 dimineața, înainte de sosirea grupurilor mari de turiști.",
+    "en": "Right at 9:00 AM in the morning before the large tour groups arrive."
+  },
+  "audioGuide": {
+    "de": "Im Eintrittspreis enthalten, in 13 Sprachen verfügbar.",
+    "hu": "A belépőjegy ára tartalmazza, 13 nyelven elérhető.",
+    "ro": "Inclus în prețul biletului, disponibil în 13 limbi.",
+    "en": "Included in the entrance fee, available in 13 languages."
+  }
 }

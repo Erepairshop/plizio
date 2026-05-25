@@ -1,12 +1,57 @@
 {
-  "address": "Friedrich-Schmidt-Platz 1, 1010 Wien",
-  "openingHours": "Mo-Fr 08:00-18:00",
-  "entranceFee": "kostenlos (Führungen gratis Mo, Mi, Fr 13:00)",
+  "address": {
+    "de": "Friedrich-Schmidt-Platz 1, 1010 Wien",
+    "hu": "Friedrich-Schmidt-Platz 1, 1010 Bécs",
+    "ro": "Friedrich-Schmidt-Platz 1, 1010 Viena",
+    "en": "Friedrich-Schmidt-Platz 1, 1010 Vienna"
+  },
+  "openingHours": {
+    "de": "Mo-Fr 08:00-18:00",
+    "hu": "H-P 08:00-18:00",
+    "ro": "Lu-Vi 08:00-18:00",
+    "en": "Mon-Fri 08:00-18:00"
+  },
+  "entranceFee": {
+    "de": "kostenlos (Führungen gratis Mo, Mi, Fr 13:00)",
+    "hu": "ingyenes (ingyenes vezetések H, Sz, P 13:00-kor)",
+    "ro": "gratuit (tururi ghidate gratuite Lu, Mi, Vi 13:00)",
+    "en": "free (free guided tours Mon, Wed, Fri 1:00 PM)"
+  },
   "website": "https://www.wien.gv.at",
-  "publicTransport": "U2 Rathaus, Tram 1, 71, D",
-  "parking": "Rathauspark Garage, ca. 4,50€/Std.",
-  "accessibility": "Barrierefreier Zugang über Aufzüge möglich.",
-  "photoRules": "In den öffentlich zugänglichen Bereichen erlaubt.",
-  "bestTimeToVisit": "Abends, wenn das Gebäude prachtvoll beleuchtet ist.",
-  "audioGuide": "ja (kostenlos bei Führungen)"
+  "publicTransport": {
+    "de": "U2 Rathaus, Tram 1, 71, D",
+    "hu": "U2 metró, Rathaus megálló, 1, 71, D villamos",
+    "ro": "U2 Rathaus, tramvaiul 1, 71, D",
+    "en": "U2 Rathaus, tram 1, 71, D"
+  },
+  "parking": {
+    "de": "Rathauspark Garage, ca. 4,50€/Std.",
+    "hu": "Rathauspark mélygarázs, kb. 4,50 €/óra.",
+    "ro": "Garajul Rathauspark, aprox. 4,50 €/oră.",
+    "en": "Rathauspark garage, approx. 4.50 €/h."
+  },
+  "accessibility": {
+    "de": "Barrierefreier Zugang über Aufzüge möglich.",
+    "hu": "Akadálymentes bejutás liftekkel lehetséges.",
+    "ro": "Acces fără bariere posibil prin lifturi.",
+    "en": "Barrier-free access possible via elevators."
+  },
+  "photoRules": {
+    "de": "In den öffentlich zugänglichen Bereichen erlaubt.",
+    "hu": "A nyilvánosan hozzáférhető területeken megengedett.",
+    "ro": "Permis în zonele accesibile publicului.",
+    "en": "Permitted in publicly accessible areas."
+  },
+  "bestTimeToVisit": {
+    "de": "Abends, wenn das Gebäude prachtvoll beleuchtet ist.",
+    "hu": "Este, amikor az épület pompásan ki van világítva.",
+    "ro": "Seara, când clădirea este iluminată magnific.",
+    "en": "In the evening, when the building is magnificently illuminated."
+  },
+  "audioGuide": {
+    "de": "ja (kostenlos bei Führungen)",
+    "hu": "igen (vezetéseknél ingyenes)",
+    "ro": "da (gratuit la tururi ghidate)",
+    "en": "yes (free during guided tours)"
+  }
 }

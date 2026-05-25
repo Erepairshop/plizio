@@ -1,12 +1,57 @@
 {
-  "address": "Bahnhofplatz 1, 2680 Semmering",
-  "openingHours": "24/7",
-  "entranceFee": "free",
+  "address": {
+    "de": "Bahnhofplatz 1, 2680 Semmering",
+    "hu": "Bahnhofplatz 1, 2680 Semmering",
+    "ro": "Bahnhofplatz 1, 2680 Semmering",
+    "en": "Bahnhofplatz 1, 2680 Semmering"
+  },
+  "openingHours": {
+    "de": "24/7",
+    "hu": "24/7",
+    "ro": "24/7",
+    "en": "24/7"
+  },
+  "entranceFee": {
+    "de": "free",
+    "hu": "ingyenes",
+    "ro": "gratuit",
+    "en": "free"
+  },
   "website": "https://www.semmeringbahn.at",
-  "publicTransport": "Direkte Bahnverbindung mit dem Railjet ab Wien Hauptbahnhof.",
-  "parking": "Kostenlose Parkplätze am Bahnhof Semmering oder auf der Passhöhe.",
-  "accessibility": "Die Bahnhöfe sind barrierefrei, die Wanderwege erfordern gute Trittsicherheit.",
-  "photoRules": "Erlaubt, der beste Fotopunkt für Viadukte ist der Aussichtspunkt 20-Schilling-Blick.",
-  "bestTimeToVisit": "Im Oktober, wenn die herbstliche Färbung der Wälder die Strecke umrahmt.",
-  "audioGuide": "ÖBB-Audioguide-App Schienenweg für Informationen während der Fahrt."
+  "publicTransport": {
+    "de": "Direkte Bahnverbindung mit dem Railjet ab Wien Hauptbahnhof.",
+    "hu": "Közvetlen vasúti összeköttetés Railjettel a bécsi főpályaudvarról.",
+    "ro": "Legătură feroviară directă cu Railjet de la Gara Centrală din Viena.",
+    "en": "Direct train connection with the Railjet from Vienna Main Station."
+  },
+  "parking": {
+    "de": "Kostenlose Parkplätze am Bahnhof Semmering oder auf der Passhöhe.",
+    "hu": "Ingyenes parkolóhelyek a semmeringi vasútállomáson vagy a hágón.",
+    "ro": "Locuri de parcare gratuite la gara Semmering sau în vârful pasului.",
+    "en": "Free parking at Semmering station or at the mountain pass."
+  },
+  "accessibility": {
+    "de": "Die Bahnhöfe sind barrierefrei, die Wanderwege erfordern gute Trittsicherheit.",
+    "hu": "Az állomások akadálymentesek, a túraútvonalak biztos járást igényelnek.",
+    "ro": "Gările sunt accesibile, traseele de drumeție necesită o bună stabilitate a pașilor.",
+    "en": "The stations are accessible, the hiking trails require good footing."
+  },
+  "photoRules": {
+    "de": "Erlaubt, der beste Fotopunkt für Viadukte ist der Aussichtspunkt 20-Schilling-Blick.",
+    "hu": "Engedélyezett, a viaduktok legjobb fotópontja a 20-Schilling-Blick kilátó.",
+    "ro": "Permis, cel mai bun punct de fotografiere pentru viaducte este punctul de belvedere 20-Schilling-Blick.",
+    "en": "Allowed, the best photo spot for viaducts is the 20-Schilling-Blick viewpoint."
+  },
+  "bestTimeToVisit": {
+    "de": "Im Oktober, wenn die herbstliche Färbung der Wälder die Strecke umrahmt.",
+    "hu": "Októberben, amikor az erdők őszi színei keretezik az útvonalat.",
+    "ro": "În octombrie, când culorile de toamnă ale pădurilor încadrează traseul.",
+    "en": "In October, when the autumnal colors of the forests frame the route."
+  },
+  "audioGuide": {
+    "de": "ÖBB-Audioguide-App Schienenweg für Informationen während der Fahrt.",
+    "hu": "ÖBB Schienenweg audioguide alkalmazás az út alatti információkért.",
+    "ro": "Aplicația ÖBB-Audioguide Schienenweg pentru informații în timpul călătoriei.",
+    "en": "ÖBB audio guide app Schienenweg for information during the journey."
+  }
 }

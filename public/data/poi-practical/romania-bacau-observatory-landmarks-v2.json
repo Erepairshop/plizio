@@ -1,12 +1,57 @@
 {
-  "address": "Strada Gării 66, 600238 Bacău",
-  "openingHours": "Di-So 09:00-17:00",
-  "entranceFee": "8 RON Erwachsene, 4 RON Studenten/Kinder",
+  "address": {
+    "de": "Strada Gării 66, 600238 Bacău",
+    "hu": "Strada Gării 66, 600238 Bákó",
+    "ro": "Strada Gării 66, 600238 Bacău",
+    "en": "Strada Gării 66, 600238 Bacău"
+  },
+  "openingHours": {
+    "de": "Di-So 09:00-17:00",
+    "hu": "Kedd-Vasárnap 09:00-17:00",
+    "ro": "Ma-Du 09:00-17:00",
+    "en": "Tue-Sun 09:00-17:00"
+  },
+  "entranceFee": {
+    "de": "8 RON Erwachsene, 4 RON Studenten/Kinder",
+    "hu": "8 RON felnőtteknek, 4 RON diákoknak/gyerekeknek",
+    "ro": "8 RON adulți, 4 RON studenți/copii",
+    "en": "8 RON adults, 4 RON students/children"
+  },
   "website": "",
-  "publicTransport": "In unmittelbarer Nähe zum Bahnhof Bacău.",
-  "parking": "Parkplätze am Bahnhof oder in den Seitenstraßen.",
-  "accessibility": "Eingeschränkt barrierefrei, Teleskopbereich über Treppen.",
-  "photoRules": "Ohne Blitzlicht erlaubt.",
-  "bestTimeToVisit": "Bei klarem Wetter für astronomische Beobachtungen am Abend.",
-  "audioGuide": "nein"
+  "publicTransport": {
+    "de": "In unmittelbarer Nähe zum Bahnhof Bacău.",
+    "hu": "Közvetlenül a Bákói vasútállomás közelében.",
+    "ro": "În imediata apropiere a gării Bacău.",
+    "en": "In the immediate vicinity of the Bacău train station."
+  },
+  "parking": {
+    "de": "Parkplätze am Bahnhof oder in den Seitenstraßen.",
+    "hu": "Parkolási lehetőség a vasútállomáson vagy az oldalutcákban.",
+    "ro": "Parcări la gară sau pe străzile laterale.",
+    "en": "Parking at the train station or on side streets."
+  },
+  "accessibility": {
+    "de": "Eingeschränkt barrierefrei, Teleskopbereich über Treppen.",
+    "hu": "Korlátozottan akadálymentesített, a teleszkóp rész lépcsőkön érhető el.",
+    "ro": "Accesibil limitat, zona telescopului prin scări.",
+    "en": "Limited accessibility, telescope area via stairs."
+  },
+  "photoRules": {
+    "de": "Ohne Blitzlicht erlaubt.",
+    "hu": "Vaku nélkül megengedett.",
+    "ro": "Permis fără bliț.",
+    "en": "Allowed without flash."
+  },
+  "bestTimeToVisit": {
+    "de": "Bei klarem Wetter für astronomische Beobachtungen am Abend.",
+    "hu": "Derűs időben, esti csillagászati megfigyelésekhez.",
+    "ro": "Pe timp senin pentru observații astronomice seara.",
+    "en": "In clear weather for astronomical observations in the evening."
+  },
+  "audioGuide": {
+    "de": "nein",
+    "hu": "nem",
+    "ro": "nu",
+    "en": "no"
+  }
 }

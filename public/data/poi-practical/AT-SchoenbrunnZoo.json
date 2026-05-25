@@ -1,12 +1,57 @@
 {
-  "address": "Maxingstraße 13b, 1130 Wien",
-  "openingHours": "Mo-Su 09:00-17:30",
-  "entranceFee": "€27 Erwachsene, €15,50 Kinder",
+  "address": {
+    "de": "Maxingstraße 13b, 1130 Wien",
+    "hu": "Maxingstraße 13b, 1130 Bécs",
+    "ro": "Maxingstraße 13b, 1130 Viena",
+    "en": "Maxingstraße 13b, 1130 Vienna"
+  },
+  "openingHours": {
+    "de": "Mo-Su 09:00-17:30",
+    "hu": "H-V 09:00-17:30",
+    "ro": "L-D 09:00-17:30",
+    "en": "Mon-Sun 09:00-17:30"
+  },
+  "entranceFee": {
+    "de": "€27 Erwachsene, €15,50 Kinder",
+    "hu": "27 € felnőtt, 15,50 € gyermek",
+    "ro": "27 € adulți, 15,50 € copii",
+    "en": "€27 adults, €15.50 children"
+  },
   "website": "https://www.zoovienna.at",
-  "publicTransport": "U4 Hietzing oder Tram 10, 52, 60",
-  "parking": "P+R Hütteldorf nutzen, am Zoo selbst gibt es nur sehr wenige Parkplätze.",
-  "accessibility": "Der Zoo ist barrierefrei, steilere Wege zum Tirolerhof sind markiert.",
-  "photoRules": "Fotografieren für private Zwecke erlaubt, kein Blitzlicht in Tierhäusern.",
-  "bestTimeToVisit": "Vormittags unter der Woche, wenn die Tiere bei der Fütterung aktiv sind.",
-  "audioGuide": "no"
+  "publicTransport": {
+    "de": "U4 Hietzing oder Tram 10, 52, 60",
+    "hu": "U4 Hietzing vagy 10, 52, 60 villamos",
+    "ro": "U4 Hietzing sau tramvaiul 10, 52, 60",
+    "en": "U4 Hietzing or tram 10, 52, 60"
+  },
+  "parking": {
+    "de": "P+R Hütteldorf nutzen, am Zoo selbst gibt es nur sehr wenige Parkplätze.",
+    "hu": "Használja a P+R Hütteldorf parkolót, az állatkertnél csak nagyon kevés hely van.",
+    "ro": "Folosiți P+R Hütteldorf, există foarte puține locuri de parcare la grădina zoologică.",
+    "en": "Use P+R Hütteldorf, as there are very few parking spaces at the zoo itself."
+  },
+  "accessibility": {
+    "de": "Der Zoo ist barrierefrei, steilere Wege zum Tirolerhof sind markiert.",
+    "hu": "Az állatkert akadálymentesített, a Tirolerhof felé vezető meredekebb utak jelölve vannak.",
+    "ro": "Grădina zoologică este accesibilă, drumurile mai abrupte spre Tirolerhof sunt marcate.",
+    "en": "The zoo is accessible, steeper paths to Tirolerhof are marked."
+  },
+  "photoRules": {
+    "de": "Fotografieren für private Zwecke erlaubt, kein Blitzlicht in Tierhäusern.",
+    "hu": "Magáncélú fotózás engedélyezett, az állatházakban vaku használata tilos.",
+    "ro": "Fotografierea în scopuri private este permisă, fără bliț în pavilioanele animalelor.",
+    "en": "Photography for private purposes allowed, no flash in animal houses."
+  },
+  "bestTimeToVisit": {
+    "de": "Vormittags unter der Woche, wenn die Tiere bei der Fütterung aktiv sind.",
+    "hu": "Hétköznap délelőtt, amikor az állatok etetéskor aktívak.",
+    "ro": "Dimineața în timpul săptămânii, când animalele sunt active la hrănire.",
+    "en": "Mornings during the week, when the animals are active during feeding."
+  },
+  "audioGuide": {
+    "de": "no",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

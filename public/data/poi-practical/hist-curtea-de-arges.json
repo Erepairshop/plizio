@@ -1,12 +1,57 @@
 {
-  "address": "Bulevardul Basarabilor 1, Curtea de Argeș 115300, Argeș",
-  "openingHours": "Mo-Su 08:00-18:00",
-  "entranceFee": "5 RON",
+  "address": {
+    "de": "Bulevardul Basarabilor 1, Curtea de Argeș 115300, Argeș",
+    "hu": "Bulevardul Basarabilor 1, Curtea de Argeș 115300, Argeș megye",
+    "ro": "Bulevardul Basarabilor 1, Curtea de Argeș 115300, Argeș",
+    "en": "Bulevardul Basarabilor 1, Curtea de Argeș 115300, Argeș County"
+  },
+  "openingHours": {
+    "de": "Mo-Su 08:00-18:00",
+    "hu": "H-V 08:00-18:00",
+    "ro": "Lu-Du 08:00-18:00",
+    "en": "Mon-Sun 08:00-18:00"
+  },
+  "entranceFee": {
+    "de": "5 RON",
+    "hu": "5 RON",
+    "ro": "5 RON",
+    "en": "5 RON"
+  },
   "website": "http://www.arhiepiscopiargesuluisimuscelului.ro",
-  "publicTransport": "Zug oder Bus ab Pitești bis Curtea de Argeș",
-  "parking": "Parkplatz gegenüber der Kathedrale (gebührenpflichtig)",
-  "accessibility": "Parkgelände eben, Kathedrale über flache Stufen erreichbar",
-  "photoRules": "Blitzlichtverbot im Inneren der Grabeskirche",
-  "bestTimeToVisit": "An Samstagen finden oft prächtige Hochzeitszeremonien statt",
-  "audioGuide": "no"
+  "publicTransport": {
+    "de": "Zug oder Bus ab Pitești bis Curtea de Argeș",
+    "hu": "Vonat vagy busz Pitești felől Curtea de Argeș állomásig",
+    "ro": "Tren sau autobuz de la Pitești la Curtea de Argeș",
+    "en": "Train or bus from Pitești to Curtea de Argeș"
+  },
+  "parking": {
+    "de": "Parkplatz gegenüber der Kathedrale (gebührenpflichtig)",
+    "hu": "Parkoló a székesegyházzal szemben (fizetős)",
+    "ro": "Parcare vizavi de catedrală (cu plată)",
+    "en": "Parking lot opposite the cathedral (paid)"
+  },
+  "accessibility": {
+    "de": "Parkgelände eben, Kathedrale über flache Stufen erreichbar",
+    "hu": "A park területe sík, a székesegyház alacsony lépcsőfokokon érhető el",
+    "ro": "Terenul parcului este plan, catedrala este accesibilă prin trepte joase",
+    "en": "The park grounds are flat, the cathedral is accessible via shallow steps"
+  },
+  "photoRules": {
+    "de": "Blitzlichtverbot im Inneren der Grabeskirche",
+    "hu": "A sírtemplom belsejében vaku használata tilos",
+    "ro": "Blițul este interzis în interiorul bisericii necropolă",
+    "en": "Flash photography prohibited inside the necropolis church"
+  },
+  "bestTimeToVisit": {
+    "de": "An Samstagen finden oft prächtige Hochzeitszeremonien statt",
+    "hu": "Szombatonként gyakran láthatók pompás esküvői szertartások",
+    "ro": "Sâmbăta au loc adesea ceremonii de nuntă fastuoase",
+    "en": "Magnificent wedding ceremonies often take place on Saturdays"
+  },
+  "audioGuide": {
+    "de": "no",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

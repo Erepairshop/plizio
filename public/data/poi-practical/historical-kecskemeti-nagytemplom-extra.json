@@ -1,12 +1,57 @@
 {
-  "address": "Kossuth tér 2, 6000 Kecskemét",
-  "openingHours": "Mo-So 07:00-19:00 (zwischen den Messen)",
-  "entranceFee": "kostenlos",
+  "address": {
+    "de": "Kossuth tér 2, 6000 Kecskemét",
+    "hu": "Kossuth tér 2, 6000 Kecskemét",
+    "ro": "Kossuth tér 2, 6000 Kecskemét",
+    "en": "Kossuth tér 2, 6000 Kecskemét"
+  },
+  "openingHours": {
+    "de": "Mo-So 07:00-19:00 (zwischen den Messen)",
+    "hu": "H-V 07:00-19:00 (misék között)",
+    "ro": "Lu-Du 07:00-19:00 (între slujbe)",
+    "en": "Mon-Sun 07:00-19:00 (between masses)"
+  },
+  "entranceFee": {
+    "de": "kostenlos",
+    "hu": "ingyenes",
+    "ro": "gratuit",
+    "en": "free"
+  },
   "website": "https://www.foplebania.hu",
-  "publicTransport": "Alle zentralen Buslinien bis Haltestelle 'Széchenyi tér'",
-  "parking": "Gebührenpflichtig auf dem Marktplatz oder in der Arany János Straße",
-  "accessibility": "Barrierefrei über das Hauptportal",
-  "photoRules": "Dezentes Fotografieren erlaubt, kein Blitz während der Stille",
-  "bestTimeToVisit": "Vormittags für die volle Lichtwirkung im hellen Barockraum",
-  "audioGuide": "nein"
+  "publicTransport": {
+    "de": "Alle zentralen Buslinien bis Haltestelle 'Széchenyi tér'",
+    "hu": "Minden központi buszjárat a 'Széchenyi tér' megállóig",
+    "ro": "Toate liniile centrale de autobuz până la stația 'Széchenyi tér'",
+    "en": "All central bus lines to 'Széchenyi tér' stop"
+  },
+  "parking": {
+    "de": "Gebührenpflichtig auf dem Marktplatz oder in der Arany János Straße",
+    "hu": "Fizetős a főtéren vagy az Arany János utcában",
+    "ro": "Cu plată în piața centrală sau pe strada Arany János",
+    "en": "Paid parking in the main square or on Arany János Street"
+  },
+  "accessibility": {
+    "de": "Barrierefrei über das Hauptportal",
+    "hu": "Akadálymentesen megközelíthető a főkapun",
+    "ro": "Accesibil prin poarta principală",
+    "en": "Accessible via the main portal"
+  },
+  "photoRules": {
+    "de": "Dezentes Fotografieren erlaubt, kein Blitz während der Stille",
+    "hu": "Diszkrét fényképezés megengedett, vaku tilos a csendes időszakban",
+    "ro": "Fotografiere discretă permisă, fără bliț în perioadele de liniște",
+    "en": "Discreet photography allowed, no flash during silence"
+  },
+  "bestTimeToVisit": {
+    "de": "Vormittags für die volle Lichtwirkung im hellen Barockraum",
+    "hu": "Délelőtt a fények miatt a világos barokk templomtérben",
+    "ro": "Dimineața pentru efectul luminos în spațiul baroc luminos",
+    "en": "Morning for full light effect in the bright Baroque interior"
+  },
+  "audioGuide": {
+    "de": "nein",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

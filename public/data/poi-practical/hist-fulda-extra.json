@@ -1,12 +1,57 @@
 {
-  "address": "Klosterstraße 10, 36037 Fulda",
-  "openingHours": "Täglich 09:00-18:00",
-  "entranceFee": "kostenlos (Eintritt für Dom-Museum €4)",
+  "address": {
+    "de": "Klosterstraße 10, 36037 Fulda",
+    "hu": "Klosterstraße 10, 36037 Fulda",
+    "ro": "Klosterstraße 10, 36037 Fulda",
+    "en": "Klosterstraße 10, 36037 Fulda"
+  },
+  "openingHours": {
+    "de": "Täglich 09:00-18:00",
+    "hu": "Naponta 09:00-18:00",
+    "ro": "Zilnic 09:00-18:00",
+    "en": "Daily 09:00-18:00"
+  },
+  "entranceFee": {
+    "de": "kostenlos (Eintritt für Dom-Museum €4)",
+    "hu": "ingyenes (Dóm-múzeum belépő 4 €)",
+    "ro": "gratuit (intrare la Muzeul Domului 4 €)",
+    "en": "free (entry to Cathedral Museum €4)"
+  },
   "website": "https://www.bistum-fulda.de",
-  "publicTransport": "10 Min. Fußweg vom Hauptbahnhof Fulda durch die Innenstadt.",
-  "parking": "Parkhaus Stadtschloss in unmittelbarer Nähe (~1,50 €/Std.).",
-  "accessibility": "Der Dom ist barrierefrei zugänglich, der Klostergarten leicht hügelig.",
-  "photoRules": "Im Dom ohne Blitz erlaubt, im Museum herrscht Fotografierverbot.",
-  "bestTimeToVisit": "Sonntags nach dem Hochamt für die spirituelle Atmosphäre.",
-  "audioGuide": "ja"
+  "publicTransport": {
+    "de": "10 Min. Fußweg vom Hauptbahnhof Fulda durch die Innenstadt.",
+    "hu": "10 perc séta Fulda főpályaudvarától a belvároson át.",
+    "ro": "10 minute de mers pe jos de la gara principală din Fulda prin centrul orașului.",
+    "en": "10 min walk from Fulda central station through the city center."
+  },
+  "parking": {
+    "de": "Parkhaus Stadtschloss in unmittelbarer Nähe (~1,50 €/Std.).",
+    "hu": "Stadtschloss parkolóház a közelben (~1,50 €/óra).",
+    "ro": "Parcare Stadtschloss în imediata apropiere (~1,50 €/oră).",
+    "en": "Parking garage Stadtschloss in immediate vicinity (~€1.50/hr)."
+  },
+  "accessibility": {
+    "de": "Der Dom ist barrierefrei zugänglich, der Klostergarten leicht hügelig.",
+    "hu": "A dóm akadálymentes, a kolostorkert kissé dombos.",
+    "ro": "Domul este accesibil, grădina mănăstirii este ușor deluroasă.",
+    "en": "Cathedral is barrier-free, monastery garden slightly hilly."
+  },
+  "photoRules": {
+    "de": "Im Dom ohne Blitz erlaubt, im Museum herrscht Fotografierverbot.",
+    "hu": "A dómban vaku nélkül szabad, a múzeumban tilos a fotózás.",
+    "ro": "În dom permis fără bliț, în muzeu este interzisă fotografierea.",
+    "en": "Allowed in cathedral without flash, no photography in museum."
+  },
+  "bestTimeToVisit": {
+    "de": "Sonntags nach dem Hochamt für die spirituelle Atmosphäre.",
+    "hu": "Vasárnap, a nagymise után a spirituális atmoszféráért.",
+    "ro": "Duminica după liturghia mare pentru atmosfera spirituală.",
+    "en": "Sundays after high mass for the spiritual atmosphere."
+  },
+  "audioGuide": {
+    "de": "ja",
+    "hu": "igen",
+    "ro": "da",
+    "en": "yes"
+  }
 }

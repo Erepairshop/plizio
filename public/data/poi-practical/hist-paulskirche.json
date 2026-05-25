@@ -1,12 +1,57 @@
 {
-  "address": "Paulsplatz 11, 60311 Frankfurt am Main",
-  "openingHours": "Mo-Su 10:00-18:00 (bei Veranstaltungen geschlossen)",
-  "entranceFee": "frei",
+  "address": {
+    "de": "Paulsplatz 11, 60311 Frankfurt am Main",
+    "hu": "Paulsplatz 11, 60311 Frankfurt am Main",
+    "ro": "Paulsplatz 11, 60311 Frankfurt am Main",
+    "en": "Paulsplatz 11, 60311 Frankfurt am Main"
+  },
+  "openingHours": {
+    "de": "Mo-Su 10:00-18:00 (bei Veranstaltungen geschlossen)",
+    "hu": "H-V 10:00-18:00 (rendezvények idején zárva)",
+    "ro": "Lu-Du 10:00-18:00 (închis în timpul evenimentelor)",
+    "en": "Mon-Sun 10:00-18:00 (closed during events)"
+  },
+  "entranceFee": {
+    "de": "frei",
+    "hu": "ingyenes",
+    "ro": "gratuit",
+    "en": "free"
+  },
   "website": "",
-  "publicTransport": "U-Bahn U4/U5 oder Straßenbahn 11/12 bis Station Römer/Dom",
-  "parking": "Parkhaus Dom/Römer oder Parkhaus Hauptwache (ca. 3-4 €/Std).",
-  "accessibility": "Vollständig barrierefrei über Aufzug an der Westseite zugänglich.",
-  "photoRules": "Fotografieren für private Zwecke erlaubt; kein Blitz bei Ausstellungen.",
-  "bestTimeToVisit": "Vormittags an Wochentagen, um Schulklassen und Touristengruppen zu vermeiden.",
-  "audioGuide": "nein"
+  "publicTransport": {
+    "de": "U-Bahn U4/U5 oder Straßenbahn 11/12 bis Station Römer/Dom",
+    "hu": "U4/U5 metró vagy 11/12 villamos a Römer/Dom állomásig",
+    "ro": "Metrou U4/U5 sau tramvai 11/12 până la stația Römer/Dom",
+    "en": "U-Bahn U4/U5 or tram 11/12 to Römer/Dom station"
+  },
+  "parking": {
+    "de": "Parkhaus Dom/Römer oder Parkhaus Hauptwache (ca. 3-4 €/Std).",
+    "hu": "Dom/Römer vagy Hauptwache parkolóház (kb. 3-4 €/óra).",
+    "ro": "Parcarea Dom/Römer sau parcarea Hauptwache (aprox. 3-4 €/oră).",
+    "en": "Dom/Römer or Hauptwache parking garage (approx. 3-4 €/hour)."
+  },
+  "accessibility": {
+    "de": "Vollständig barrierefrei über Aufzug an der Westseite zugänglich.",
+    "hu": "Teljesen akadálymentesített, lift a nyugati oldalon található.",
+    "ro": "Complet accesibil prin liftul de pe partea de vest.",
+    "en": "Fully accessible via elevator on the west side."
+  },
+  "photoRules": {
+    "de": "Fotografieren für private Zwecke erlaubt; kein Blitz bei Ausstellungen.",
+    "hu": "Magáncélú fotózás engedélyezett; a kiállításokon vaku használata tilos.",
+    "ro": "Fotografierea în scop privat permisă; fără bliț în timpul expozițiilor.",
+    "en": "Photography for private purposes allowed; no flash at exhibitions."
+  },
+  "bestTimeToVisit": {
+    "de": "Vormittags an Wochentagen, um Schulklassen und Touristengruppen zu vermeiden.",
+    "hu": "Hétköznap délelőtt, az iskolás csoportok és turistahadak elkerülése érdekében.",
+    "ro": "Dimineața în zilele lucrătoare pentru a evita grupurile școlare și turistice.",
+    "en": "Weekday mornings to avoid school classes and tourist groups."
+  },
+  "audioGuide": {
+    "de": "nein",
+    "hu": "nem",
+    "ro": "nu",
+    "en": "no"
+  }
 }

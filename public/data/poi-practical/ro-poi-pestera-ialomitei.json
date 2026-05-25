@@ -1,12 +1,57 @@
 {
-  "address": "Moroeni, Bucegi-Gebirge, 137310 Dâmbovița",
-  "openingHours": "Di-So 09:00-18:00, montags geschlossen",
-  "entranceFee": "20 RON Erwachsene, 10 RON Kinder",
+  "address": {
+    "de": "Moroeni, Bucegi-Gebirge, 137310 Dâmbovița",
+    "hu": "Moroeni, Bucsecs-hegység, 137310 Dâmbovița",
+    "ro": "Moroeni, Munții Bucegi, 137310 Dâmbovița",
+    "en": "Moroeni, Bucegi Mountains, 137310 Dâmbovița"
+  },
+  "openingHours": {
+    "de": "Di-So 09:00-18:00, montags geschlossen",
+    "hu": "Kedd-vasárnap 09:00-18:00, hétfőn zárva",
+    "ro": "Marți-Duminică 09:00-18:00, luni închis",
+    "en": "Tue-Sun 09:00-18:00, Mon closed"
+  },
+  "entranceFee": {
+    "de": "20 RON Erwachsene, 10 RON Kinder",
+    "hu": "20 RON felnőtteknek, 10 RON gyermekeknek",
+    "ro": "20 RON adulți, 10 RON copii",
+    "en": "20 RON adults, 10 RON children"
+  },
   "website": "https://www.muzeul-dambovita.ro",
-  "publicTransport": "Seilbahn von Bușteni nach Babele, dann weiter nach Peștera",
-  "parking": "Parkplatz bei der Ialomița-Klosteranlage (ca. 10-20 RON)",
-  "accessibility": "Nicht barrierefrei; Metalltreppen und rutschige Passagen im Inneren",
-  "photoRules": "Erlaubt, Blitzlicht in der Nähe des Klostereingangs vermeiden",
-  "bestTimeToVisit": "Früher Vormittag, um den Touristenmassen aus dem Tal zu entgehen",
-  "audioGuide": "nein"
+  "publicTransport": {
+    "de": "Seilbahn von Bușteni nach Babele, dann weiter nach Peștera",
+    "hu": "Felvonó Bușteniből Babelére, majd tovább Peșterára",
+    "ro": "Telecabină din Bușteni către Babele, apoi mai departe spre Peștera",
+    "en": "Cable car from Bușteni to Babele, then continue to Peștera"
+  },
+  "parking": {
+    "de": "Parkplatz bei der Ialomița-Klosteranlage (ca. 10-20 RON)",
+    "hu": "Parkoló az Ialomița kolostornál (kb. 10-20 RON)",
+    "ro": "Parcare lângă Mănăstirea Ialomiței (aprox. 10-20 RON)",
+    "en": "Parking near Ialomița Monastery (approx. 10-20 RON)"
+  },
+  "accessibility": {
+    "de": "Nicht barrierefrei; Metalltreppen und rutschige Passagen im Inneren",
+    "hu": "Nem akadálymentes; fémlépcsők és csúszós szakaszok belül",
+    "ro": "Nu este accesibil; scări metalice și pasaje alunecoase în interior",
+    "en": "Not accessible; metal stairs and slippery passages inside"
+  },
+  "photoRules": {
+    "de": "Erlaubt, Blitzlicht in der Nähe des Klostereingangs vermeiden",
+    "hu": "Engedélyezett, vaku kerülendő a kolostor bejárata közelében",
+    "ro": "Permis, evitați blițul în apropierea intrării în mănăstire",
+    "en": "Permitted, avoid flash near monastery entrance"
+  },
+  "bestTimeToVisit": {
+    "de": "Früher Vormittag, um den Touristenmassen aus dem Tal zu entgehen",
+    "hu": "Kora délelőtt, hogy elkerüld a völgyből érkező tömeget",
+    "ro": "Dimineața devreme, pentru a evita mulțimile de turiști din vale",
+    "en": "Early morning to avoid tourist crowds from the valley"
+  },
+  "audioGuide": {
+    "de": "nein",
+    "hu": "nem",
+    "ro": "nu",
+    "en": "no"
+  }
 }

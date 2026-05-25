@@ -1,12 +1,57 @@
 {
-  "address": "Aire du Viaduc, 12100 Millau (A75)",
-  "openingHours": "Aussichtspunkt 24/7; Besucherzentrum 09:00-19:00",
-  "entranceFee": "Aussichtspunkt kostenlos; Maut für Überquerung (Pkw) ca. €10-€12.50",
+  "address": {
+    "de": "Aire du Viaduc, 12100 Millau (A75)",
+    "hu": "Aire du Viaduc, 12100 Millau (A75)",
+    "ro": "Aire du Viaduc, 12100 Millau (A75)",
+    "en": "Aire du Viaduc, 12100 Millau (A75)"
+  },
+  "openingHours": {
+    "de": "Aussichtspunkt 24/7; Besucherzentrum 09:00-19:00",
+    "hu": "Kilátópont 24/7; látogatóközpont 09:00-19:00",
+    "ro": "Punct de belvedere 24/7; centru de vizitare 09:00-19:00",
+    "en": "Viewpoint 24/7; visitor center 09:00-19:00"
+  },
+  "entranceFee": {
+    "de": "Aussichtspunkt kostenlos; Maut für Überquerung (Pkw) ca. €10-€12.50",
+    "hu": "A kilátópont ingyenes; az áthaladás díja (szgk) kb. 10-12,50 €",
+    "ro": "Punctul de belvedere este gratuit; taxa pentru traversare (autoturisme) aprox. 10-12,50 €",
+    "en": "Viewpoint is free; toll for crossing (cars) approx. €10-€12.50"
+  },
   "website": "https://www.leviaducdemillau.com",
-  "publicTransport": "Kein direkter ÖPNV zum Aussichtspunkt; Taxi ab Millau nötig",
-  "parking": "Kostenloser Parkplatz an der Raststätte 'Aire du Viaduc'",
-  "accessibility": "Aussichtsplattform über steilen, aber befestigten Weg erreichbar",
-  "photoRules": "Erlaubt; Drohnen über der Autobahn streng verboten",
-  "bestTimeToVisit": "Frühmorgens im Herbst für den Effekt der Brücke über dem Nebel",
-  "audioGuide": "Geführte Touren auf dem 'Sentier des Explorateurs' möglich"
+  "publicTransport": {
+    "de": "Kein direkter ÖPNV zum Aussichtspunkt; Taxi ab Millau nötig",
+    "hu": "Nincs közvetlen tömegközlekedés a kilátóhoz; taxi szükséges Millauból",
+    "ro": "Fără transport public direct către punctul de belvedere; este nevoie de taxi din Millau",
+    "en": "No direct public transport to the viewpoint; taxi required from Millau"
+  },
+  "parking": {
+    "de": "Kostenloser Parkplatz an der Raststätte 'Aire du Viaduc'",
+    "hu": "Ingyenes parkoló az 'Aire du Viaduc' pihenőhelyen",
+    "ro": "Parcare gratuită la zona de odihnă 'Aire du Viaduc'",
+    "en": "Free parking at the 'Aire du Viaduc' rest area"
+  },
+  "accessibility": {
+    "de": "Aussichtsplattform über steilen, aber befestigten Weg erreichbar",
+    "hu": "A kilátó meredek, de szilárd burkolatú úton érhető el",
+    "ro": "Platforma de observație este accesibilă pe un drum abrupt, dar pavat",
+    "en": "Observation platform accessible via a steep but paved path"
+  },
+  "photoRules": {
+    "de": "Erlaubt; Drohnen über der Autobahn streng verboten",
+    "hu": "Engedélyezett; drónozás az autópálya felett szigorúan tilos",
+    "ro": "Permis; utilizarea dronelor deasupra autostrăzii este strict interzisă",
+    "en": "Allowed; drones over the motorway strictly prohibited"
+  },
+  "bestTimeToVisit": {
+    "de": "Frühmorgens im Herbst für den Effekt der Brücke über dem Nebel",
+    "hu": "Ősszel kora reggel, a köd felett lebegő híd látványáért",
+    "ro": "Toamna, dis-de-dimineață, pentru efectul podului deasupra ceții",
+    "en": "Early autumn morning for the effect of the bridge above the fog"
+  },
+  "audioGuide": {
+    "de": "Geführte Touren auf dem 'Sentier des Explorateurs' möglich",
+    "hu": "Vezetett túrák elérhetők a 'Sentier des Explorateurs' útvonalon",
+    "ro": "Sunt disponibile tururi ghidate pe 'Sentier des Explorateurs'",
+    "en": "Guided tours possible on the 'Sentier des Explorateurs'"
+  }
 }

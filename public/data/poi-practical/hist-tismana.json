@@ -1,12 +1,57 @@
 {
-  "address": "Strada Mănăstirii, 215700 Tismana",
-  "openingHours": "Täglich 07:00-21:00",
-  "entranceFee": "free",
+  "address": {
+    "de": "Strada Mănăstirii, 215700 Tismana",
+    "hu": "Strada Mănăstirii, 215700 Tismana, Románia",
+    "ro": "Strada Mănăstirii, 215700 Tismana",
+    "en": "Strada Mănăstirii, 215700 Tismana, Romania"
+  },
+  "openingHours": {
+    "de": "Täglich 07:00-21:00",
+    "hu": "Naponta 07:00-21:00",
+    "ro": "Zilnic 07:00-21:00",
+    "en": "Daily 07:00-21:00"
+  },
+  "entranceFee": {
+    "de": "free",
+    "hu": "ingyenes",
+    "ro": "gratuit",
+    "en": "free"
+  },
   "website": "https://manastireatismana.ro",
-  "publicTransport": "Busverbindungen ab Târgu Jiu (ca. 30 km)",
-  "parking": "Parkplatz direkt vor dem Klostertor, kostenlos",
-  "accessibility": "Klosterhof ist barrierefrei, landschaftlich reizvoll gelegen",
-  "photoRules": "Innenverbot, außen unproblematisch",
-  "bestTimeToVisit": "Frühling, wenn der Wasserfall hinter dem Kloster viel Wasser führt",
-  "audioGuide": "Nein"
+  "publicTransport": {
+    "de": "Busverbindungen ab Târgu Jiu (ca. 30 km)",
+    "hu": "Buszjáratok Târgu Jiu (Zsilvásárhely) felől (kb. 30 km)",
+    "ro": "Legături de autobuz din Târgu Jiu (aprox. 30 km)",
+    "en": "Bus connections from Târgu Jiu (approx. 30 km)"
+  },
+  "parking": {
+    "de": "Parkplatz direkt vor dem Klostertor, kostenlos",
+    "hu": "Ingyenes parkoló közvetlenül a kolostorkapu előtt",
+    "ro": "Parcare gratuită chiar în fața porții mănăstirii",
+    "en": "Free parking directly in front of the monastery gate"
+  },
+  "accessibility": {
+    "de": "Klosterhof ist barrierefrei, landschaftlich reizvoll gelegen",
+    "hu": "A kolostor udvara akadálymentes, a környezet festői",
+    "ro": "Curtea mănăstirii este accesibilă, situată într-un peisaj pitoresc",
+    "en": "The monastery courtyard is accessible, located in a scenic area"
+  },
+  "photoRules": {
+    "de": "Innenverbot, außen unproblematisch",
+    "hu": "Bent tilos, kívül engedélyezett a fotózás",
+    "ro": "Fotografiatul interzis în interior, permis în exterior",
+    "en": "Photography forbidden inside, allowed outside"
+  },
+  "bestTimeToVisit": {
+    "de": "Frühling, wenn der Wasserfall hinter dem Kloster viel Wasser führt",
+    "hu": "Tavasszal, amikor a kolostor mögötti vízesés a leglátványosabb",
+    "ro": "Primăvara, când cascada din spatele mănăstirii are debit mare",
+    "en": "Spring, when the waterfall behind the monastery is most impressive"
+  },
+  "audioGuide": {
+    "de": "Nein",
+    "hu": "Nem elérhető",
+    "ro": "Nu",
+    "en": "No"
+  }
 }

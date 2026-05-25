@@ -1,12 +1,57 @@
 {
-  "address": "Feengrottenweg 2, 07318 Saalfeld/Saale",
-  "openingHours": "Mo-Su 10:00-17:00",
-  "entranceFee": "€14.00 Erwachsene (Grotten inkl. Museum)",
+  "address": {
+    "de": "Feengrottenweg 2, 07318 Saalfeld/Saale",
+    "hu": "Feengrottenweg 2, 07318 Saalfeld/Saale",
+    "ro": "Feengrottenweg 2, 07318 Saalfeld/Saale",
+    "en": "Feengrottenweg 2, 07318 Saalfeld/Saale"
+  },
+  "openingHours": {
+    "de": "Mo-Su 10:00-17:00",
+    "hu": "Hé-Va 10:00-17:00",
+    "ro": "Lu-Du 10:00-17:00",
+    "en": "Mon-Sun 10:00-17:00"
+  },
+  "entranceFee": {
+    "de": "€14.00 Erwachsene (Grotten inkl. Museum)",
+    "hu": "14,00 € felnőtt (barlangok múzeummal)",
+    "ro": "14,00 € adulți (grote incl. muzeu)",
+    "en": "€14.00 adults (caves incl. museum)"
+  },
   "website": "https://www.feengrotten.de",
-  "publicTransport": "Buslinie A (Stadtverkehr Saalfeld)",
-  "parking": "Großer Parkplatz vor dem Gelände",
-  "accessibility": "Grotten nicht barrierefrei (viele Stufen, niedrige Decken)",
-  "photoRules": "Nur ohne Blitz",
-  "bestTimeToVisit": "Ganzjährig (konstante Temperatur)",
-  "audioGuide": "Deutsch (Führung obligatorisch)"
+  "publicTransport": {
+    "de": "Buslinie A (Stadtverkehr Saalfeld)",
+    "hu": "A-busz (Saalfeld helyi közlekedés)",
+    "ro": "Linia de autobuz A (transport local Saalfeld)",
+    "en": "Bus line A (Saalfeld local transport)"
+  },
+  "parking": {
+    "de": "Großer Parkplatz vor dem Gelände",
+    "hu": "Nagy parkoló a terület előtt",
+    "ro": "Parcare mare în fața locației",
+    "en": "Large parking lot in front of the site"
+  },
+  "accessibility": {
+    "de": "Grotten nicht barrierefrei (viele Stufen, niedrige Decken)",
+    "hu": "A barlangok nem akadálymentesek (sok lépcső, alacsony mennyezet)",
+    "ro": "Grotele nu sunt accesibile (multe trepte, tavane joase)",
+    "en": "Caves not accessible (many stairs, low ceilings)"
+  },
+  "photoRules": {
+    "de": "Nur ohne Blitz",
+    "hu": "Csak vaku nélkül",
+    "ro": "Doar fără bliț",
+    "en": "Only without flash"
+  },
+  "bestTimeToVisit": {
+    "de": "Ganzjährig (konstante Temperatur)",
+    "hu": "Egész évben (állandó hőmérséklet)",
+    "ro": "Tot timpul anului (temperatură constantă)",
+    "en": "All year round (constant temperature)"
+  },
+  "audioGuide": {
+    "de": "Deutsch (Führung obligatorisch)",
+    "hu": "Német (túravezetés kötelező)",
+    "ro": "Germană (tur ghidat obligatoriu)",
+    "en": "German (guided tour mandatory)"
+  }
 }

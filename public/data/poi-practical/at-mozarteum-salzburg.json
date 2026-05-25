@@ -1,12 +1,57 @@
 {
-  "address": "Schwarzstraße 26, 5020 Salzburg",
-  "openingHours": "Mo-Fr 09:00-17:00 (Büro), Besichtigungen je nach Veranstaltungsplan",
-  "entranceFee": "Führungen ca. € 12,00; Konzertkarten je nach Programm",
+  "address": {
+    "de": "Schwarzstraße 26, 5020 Salzburg",
+    "hu": "Schwarzstraße 26, 5020 Salzburg",
+    "ro": "Schwarzstraße 26, 5020 Salzburg",
+    "en": "Schwarzstrasse 26, 5020 Salzburg"
+  },
+  "openingHours": {
+    "de": "Mo-Fr 09:00-17:00 (Büro), Besichtigungen je nach Veranstaltungsplan",
+    "hu": "H-P 09:00-17:00 (iroda), látogatások a rendezvénytervtől függően",
+    "ro": "Lu-Vi 09:00-17:00 (birou), vizite în funcție de programul evenimentelor",
+    "en": "Mon-Fri 09:00-17:00 (office), viewings according to event schedule"
+  },
+  "entranceFee": {
+    "de": "Führungen ca. € 12,00; Konzertkarten je nach Programm",
+    "hu": "Vezetések kb. 12,00 €; koncertjegyek a műsortól függően",
+    "ro": "Tururi ghidate aprox. 12,00 €; bilete la concert în funcție de program",
+    "en": "Guided tours approx. € 12.00; concert tickets depending on the program"
+  },
   "website": "https://www.mozarteum.at",
-  "publicTransport": "Buslinien 1, 3, 5, 6 bis Haltestelle Makartplatz.",
-  "parking": "Mirabellgarage (ca. 4 €/h) in unmittelbarer Nähe.",
-  "accessibility": "Die Konzertsäle sind barrierefrei über Lifte zugänglich.",
-  "photoRules": "Im Museumsbereich erlaubt, während Konzerten streng verboten.",
-  "bestTimeToVisit": "Während der Mozartwoche Ende Januar für erstklassige Konzerte.",
-  "audioGuide": "ja"
+  "publicTransport": {
+    "de": "Buslinien 1, 3, 5, 6 bis Haltestelle Makartplatz.",
+    "hu": "1, 3, 5, 6-os buszvonalak Makartplatz megállóig.",
+    "ro": "Liniile de autobuz 1, 3, 5, 6 până la stația Makartplatz.",
+    "en": "Bus lines 1, 3, 5, 6 to Makartplatz stop."
+  },
+  "parking": {
+    "de": "Mirabellgarage (ca. 4 €/h) in unmittelbarer Nähe.",
+    "hu": "Mirabellgarage (kb. 4 €/óra) a közvetlen közelben.",
+    "ro": "Mirabellgarage (aprox. 4 €/oră) în imediata apropiere.",
+    "en": "Mirabellgarage (approx. 4 €/h) in the immediate vicinity."
+  },
+  "accessibility": {
+    "de": "Die Konzertsäle sind barrierefrei über Lifte zugänglich.",
+    "hu": "A koncerttermek lifttel akadálymentesen megközelíthetők.",
+    "ro": "Sălile de concert sunt accesibile fără bariere prin lifturi.",
+    "en": "Concert halls are barrier-free and accessible via lifts."
+  },
+  "photoRules": {
+    "de": "Im Museumsbereich erlaubt, während Konzerten streng verboten.",
+    "hu": "A múzeumi részen megengedett, koncertek alatt szigorúan tilos.",
+    "ro": "Permis în zona muzeului, strict interzis în timpul concertelor.",
+    "en": "Permitted in the museum area, strictly prohibited during concerts."
+  },
+  "bestTimeToVisit": {
+    "de": "Während der Mozartwoche Ende Januar für erstklassige Konzerte.",
+    "hu": "Január végén a Mozart-hét alatt, az első osztályú koncertekért.",
+    "ro": "În timpul Săptămânii Mozart de la sfârșitul lunii ianuarie pentru concerte de clasă.",
+    "en": "During Mozart Week at the end of January for world-class concerts."
+  },
+  "audioGuide": {
+    "de": "ja",
+    "hu": "igen",
+    "ro": "da",
+    "en": "yes"
+  }
 }

@@ -1,12 +1,57 @@
 {
-  "address": "Porta-Nigra-Platz 1, 54290 Trier",
-  "openingHours": "Mo-Su 10:00-18:00 (Apr-Oct), 10:00-16:00 (Nov-Mar)",
-  "entranceFee": "€4.50 Erwachsene, €3.50 ermäßigt",
+  "address": {
+    "de": "Porta-Nigra-Platz 1, 54290 Trier",
+    "hu": "Porta-Nigra-Platz 1, 54290 Trier",
+    "ro": "Porta-Nigra-Platz 1, 54290 Trier",
+    "en": "Porta-Nigra-Platz 1, 54290 Trier"
+  },
+  "openingHours": {
+    "de": "Mo-Su 10:00-18:00 (Apr-Oct), 10:00-16:00 (Nov-Mar)",
+    "hu": "Hé-Va 10:00-18:00 (ápr.-okt.), 10:00-16:00 (nov.-márc.)",
+    "ro": "Lu-Du 10:00-18:00 (Apr-Oct), 10:00-16:00 (Nov-Mar)",
+    "en": "Mon-Sun 10:00-18:00 (Apr-Oct), 10:00-16:00 (Nov-Mar)"
+  },
+  "entranceFee": {
+    "de": "€4.50 Erwachsene, €3.50 ermäßigt",
+    "hu": "4,50 € felnőtt, 3,50 € kedvezményes",
+    "ro": "4,50 € adulți, 3,50 € redus",
+    "en": "€4.50 adults, €3.50 reduced"
+  },
   "website": "https://www.trier-info.de",
-  "publicTransport": "Alle Buslinien zum Hbf Trier, dann 10 Min. Fußweg",
-  "parking": "Parkhaus Porta Nigra direkt gegenüber",
-  "accessibility": "Nicht barrierefrei; steile antike Stufen im Inneren",
-  "photoRules": "Privat erlaubt, kein Stativ oder Blitz",
-  "bestTimeToVisit": "Vormittags unter der Woche zur Vermeidung von Touristengruppen",
-  "audioGuide": "Deutsch, Englisch, Französisch, Niederländisch"
+  "publicTransport": {
+    "de": "Alle Buslinien zum Hbf Trier, dann 10 Min. Fußweg",
+    "hu": "Minden buszjárat Trier főpályaudvarára, onnan 10 perc séta",
+    "ro": "Toate liniile de autobuz până la Gara Centrală Trier, apoi 10 min. pe jos",
+    "en": "All bus lines to Trier central station, then 10 min. walk"
+  },
+  "parking": {
+    "de": "Parkhaus Porta Nigra direkt gegenüber",
+    "hu": "Porta Nigra parkolóház közvetlenül szemben",
+    "ro": "Parcare Porta Nigra direct vizavi",
+    "en": "Porta Nigra parking garage directly opposite"
+  },
+  "accessibility": {
+    "de": "Nicht barrierefrei; steile antike Stufen im Inneren",
+    "hu": "Nem akadálymentes; meredek ókori lépcsők belül",
+    "ro": "Nu este accesibil; trepte antice abrupte în interior",
+    "en": "Not accessible; steep ancient stairs inside"
+  },
+  "photoRules": {
+    "de": "Privat erlaubt, kein Stativ oder Blitz",
+    "hu": "Magáncélra engedélyezett, állvány vagy vaku nélkül",
+    "ro": "Permis pentru uz privat, fără trepied sau bliț",
+    "en": "Allowed for private use, no tripod or flash"
+  },
+  "bestTimeToVisit": {
+    "de": "Vormittags unter der Woche zur Vermeidung von Touristengruppen",
+    "hu": "Hétköznap délelőtt, a turistacsoportok elkerülése végett",
+    "ro": "Dimineața în timpul săptămânii pentru a evita grupurile de turiști",
+    "en": "Mornings on weekdays to avoid tourist groups"
+  },
+  "audioGuide": {
+    "de": "Deutsch, Englisch, Französisch, Niederländisch",
+    "hu": "Német, angol, francia, holland",
+    "ro": "Germană, engleză, franceză, olandeză",
+    "en": "German, English, French, Dutch"
+  }
 }

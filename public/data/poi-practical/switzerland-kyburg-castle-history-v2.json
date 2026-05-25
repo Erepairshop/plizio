@@ -1,12 +1,57 @@
 {
-  "address": "Schloss 1, 8314 Kyburg",
-  "openingHours": "Di-So 10:00-17:30 (Apr-Okt), Sa-So 10:00-17:30 (Nov-März)",
-  "entranceFee": "12 CHF Erwachsene, 5 CHF Kinder",
+  "address": {
+    "de": "Schloss 1, 8314 Kyburg",
+    "hu": "Schloss 1, 8314 Kyburg",
+    "ro": "Schloss 1, 8314 Kyburg",
+    "en": "Schloss 1, 8314 Kyburg"
+  },
+  "openingHours": {
+    "de": "Di-So 10:00-17:30 (Apr-Okt), Sa-So 10:00-17:30 (Nov-März)",
+    "hu": "Ké-Va 10:00-17:30 (ápr-okt), Szo-Va 10:00-17:30 (nov-márc)",
+    "ro": "Ma-Du 10:00-17:30 (apr-oct), Sâ-Du 10:00-17:30 (noi-mar)",
+    "en": "Tue-Sun 10:00-17:30 (Apr-Oct), Sat-Sun 10:00-17:30 (Nov-Mar)"
+  },
+  "entranceFee": {
+    "de": "12 CHF Erwachsene, 5 CHF Kinder",
+    "hu": "12 CHF felnőtteknek, 5 CHF gyerekeknek",
+    "ro": "12 CHF adulți, 5 CHF copii",
+    "en": "12 CHF adults, 5 CHF children"
+  },
   "website": "https://schlosskyburg.ch",
-  "publicTransport": "Bus 655 ab Bahnhof Effretikon bis Kyburg Schloss.",
-  "parking": "Parkplätze am Dorfeingang Kyburg, ca. 5 Min. Fußweg.",
-  "accessibility": "Nur Erdgeschoss barrierefrei; Kapelle und Verliese mit Stufen.",
-  "photoRules": "Erlaubt ohne Blitz; Panoramablick vom Wehrgang.",
-  "bestTimeToVisit": "Sonntagnachmittag für Familien (oft spezielle Kostümführungen).",
-  "audioGuide": "DE, EN, FR, IT"
+  "publicTransport": {
+    "de": "Bus 655 ab Bahnhof Effretikon bis Kyburg Schloss.",
+    "hu": "655-ös busz Effretikon állomástól Kyburg Schlossig.",
+    "ro": "Autobuzul 655 de la gara Effretikon până la Kyburg Schloss.",
+    "en": "Bus 655 from Effretikon station to Kyburg Schloss."
+  },
+  "parking": {
+    "de": "Parkplätze am Dorfeingang Kyburg, ca. 5 Min. Fußweg.",
+    "hu": "Parkoló a Kyburg falu bejáratánál, kb. 5 perc séta.",
+    "ro": "Parcări la intrarea în satul Kyburg, aprox. 5 min. de mers pe jos.",
+    "en": "Parking at the entrance to Kyburg village, approx. 5 min. walk."
+  },
+  "accessibility": {
+    "de": "Nur Erdgeschoss barrierefrei; Kapelle und Verliese mit Stufen.",
+    "hu": "Csak a földszint akadálymentes; kápolna és tömlöcök lépcsősek.",
+    "ro": "Doar parterul accesibil; capela și temnițele au scări.",
+    "en": "Only ground floor barrier-free; chapel and dungeons have steps."
+  },
+  "photoRules": {
+    "de": "Erlaubt ohne Blitz; Panoramablick vom Wehrgang.",
+    "hu": "Vaku nélkül engedélyezett; panorámás kilátás a védőfolyosóról.",
+    "ro": "Permis fără bliț; vedere panoramică de pe pasajul de apărare.",
+    "en": "Allowed without flash; panoramic view from the defensive passage."
+  },
+  "bestTimeToVisit": {
+    "de": "Sonntagnachmittag für Familien (oft spezielle Kostümführungen).",
+    "hu": "Vasárnap délután családoknak (gyakran jelmezes vezetések).",
+    "ro": "Duminică după-amiaza pentru familii (adesea tururi ghidate cu costume).",
+    "en": "Sunday afternoon for families (often special costume tours)."
+  },
+  "audioGuide": {
+    "de": "DE, EN, FR, IT",
+    "hu": "DE, EN, FR, IT",
+    "ro": "DE, EN, FR, IT",
+    "en": "DE, EN, FR, IT"
+  }
 }

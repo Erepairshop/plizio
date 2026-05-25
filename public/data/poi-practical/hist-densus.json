@@ -1,12 +1,57 @@
 {
-  "address": "Densuș 337205, Hunedoara",
-  "openingHours": "Mo-Su 09:00-17:00",
-  "entranceFee": "10 RON Spende erbeten",
+  "address": {
+    "de": "Densuș 337205, Hunedoara",
+    "hu": "Densuș 337205, Hunyad megye",
+    "ro": "Densuș 337205, Hunedoara",
+    "en": "Densuș 337205, Hunedoara"
+  },
+  "openingHours": {
+    "de": "Mo-Su 09:00-17:00",
+    "hu": "Hé-Va 09:00-17:00",
+    "ro": "Lu-Du 09:00-17:00",
+    "en": "Mon-Sun 09:00-17:00"
+  },
+  "entranceFee": {
+    "de": "10 RON Spende erbeten",
+    "hu": "10 RON adományt kérnek",
+    "ro": "10 RON donație sugerată",
+    "en": "10 RON donation suggested"
+  },
   "website": "",
-  "publicTransport": "Nur mit privatem PKW oder Taxi ab Hațeg sinnvoll",
-  "parking": "Kleiner Platz direkt an der Kirchenmauer",
-  "accessibility": "Kleiner Hügel, Kirchenschiff über zwei Stufen",
-  "photoRules": "Erlaubt, der Pfarrer gibt oft Erklärungen",
-  "bestTimeToVisit": "Sonntagvormittag zur Messe für die besondere Atmosphäre",
-  "audioGuide": "nein"
+  "publicTransport": {
+    "de": "Nur mit privatem PKW oder Taxi ab Hațeg sinnvoll",
+    "hu": "Csak saját autóval vagy Hațegből taxival érdemes",
+    "ro": "Accesibil doar cu mașina personală sau taxi din Hațeg",
+    "en": "Best reached by car or taxi from Hațeg"
+  },
+  "parking": {
+    "de": "Kleiner Platz direkt an der Kirchenmauer",
+    "hu": "Kis parkoló közvetlenül a templomfalnál",
+    "ro": "Mică parcare chiar lângă zidul bisericii",
+    "en": "Small parking area right by the church wall"
+  },
+  "accessibility": {
+    "de": "Kleiner Hügel, Kirchenschiff über zwei Stufen",
+    "hu": "Kis domb, a templomhajó két lépcsőfokon át közelíthető meg",
+    "ro": "Deal mic, naosul se accesează prin două trepte",
+    "en": "Small hill, nave accessible via two steps"
+  },
+  "photoRules": {
+    "de": "Erlaubt, der Pfarrer gibt oft Erklärungen",
+    "hu": "Szabad, a lelkész gyakran tart tárlatvezetést",
+    "ro": "Permis, preotul oferă adesea explicații",
+    "en": "Allowed, the priest often provides explanations"
+  },
+  "bestTimeToVisit": {
+    "de": "Sonntagvormittag zur Messe für die besondere Atmosphäre",
+    "hu": "Vasárnap délelőtt, a mise idején a különleges hangulatért",
+    "ro": "Duminică dimineața în timpul slujbei pentru o atmosferă deosebită",
+    "en": "Sunday morning during mass for a special atmosphere"
+  },
+  "audioGuide": {
+    "de": "nein",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

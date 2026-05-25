@@ -1,12 +1,57 @@
 {
-  "address": "Piața Trandafirilor, 540049 Târgu Mureș",
-  "openingHours": "24/7",
-  "entranceFee": "kostenlos",
+  "address": {
+    "de": "Piața Trandafirilor, 540049 Târgu Mureș",
+    "hu": "Piața Trandafirilor, 540049 Marosvásárhely",
+    "ro": "Piața Trandafirilor, 540049 Târgu Mureș",
+    "en": "Piața Trandafirilor, 540049 Târgu Mureș"
+  },
+  "openingHours": {
+    "de": "24/7",
+    "hu": "Non-stop",
+    "ro": "Non-stop",
+    "en": "24/7"
+  },
+  "entranceFee": {
+    "de": "kostenlos",
+    "hu": "ingyenes",
+    "ro": "gratuit",
+    "en": "free"
+  },
   "website": "https://www.tirgumures.ro",
-  "publicTransport": "Zentraler Knotenpunkt für fast alle lokalen Buslinien",
-  "parking": "Gebührenpflichtige Parkplätze rund um den Platz (ca. 3 RON/Std.)",
-  "accessibility": "Barrierefrei, breite Gehwege und Rampen vorhanden",
-  "photoRules": "Erlaubt; besonders schön mit Blick auf den Kulturpalast",
-  "bestTimeToVisit": "Mai bis Juni, wenn die namensgebenden Rosen in voller Blüte stehen",
-  "audioGuide": "nein"
+  "publicTransport": {
+    "de": "Zentraler Knotenpunkt für fast alle lokalen Buslinien",
+    "hu": "Központi csomópont szinte az összes helyi buszjárat számára",
+    "ro": "Nod central pentru aproape toate liniile locale de autobuz",
+    "en": "Central hub for almost all local bus lines"
+  },
+  "parking": {
+    "de": "Gebührenpflichtige Parkplätze rund um den Platz (ca. 3 RON/Std.)",
+    "hu": "Fizetős parkoló a tér körül (kb. 3 RON/óra)",
+    "ro": "Parcări cu plată în jurul pieței (aprox. 3 RON/oră)",
+    "en": "Paid parking around the square (approx. 3 RON/hr)"
+  },
+  "accessibility": {
+    "de": "Barrierefrei, breite Gehwege und Rampen vorhanden",
+    "hu": "Akadálymentesített, széles járdák és rámpák állnak rendelkezésre",
+    "ro": "Accesibil, trotuare late și rampe disponibile",
+    "en": "Accessible, wide sidewalks and ramps available"
+  },
+  "photoRules": {
+    "de": "Erlaubt; besonders schön mit Blick auf den Kulturpalast",
+    "hu": "Megengedett; különösen szép kilátással a Kultúrpalotára",
+    "ro": "Permis; deosebit de frumos cu vedere către Palatul Culturii",
+    "en": "Allowed; especially beautiful with a view of the Palace of Culture"
+  },
+  "bestTimeToVisit": {
+    "de": "Mai bis Juni, wenn die namensgebenden Rosen in voller Blüte stehen",
+    "hu": "Május-június, amikor a névadó rózsák teljes virágzásban vannak",
+    "ro": "Mai-iunie, când trandafirii care dau numele pieței sunt în plină înflorire",
+    "en": "May to June, when the roses that give the square its name are in full bloom"
+  },
+  "audioGuide": {
+    "de": "nein",
+    "hu": "nem",
+    "ro": "nu",
+    "en": "no"
+  }
 }

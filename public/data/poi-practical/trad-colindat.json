@@ -1,12 +1,57 @@
 {
-  "address": "Landesweit in allen rumänischen Dörfern und Städten",
-  "openingHours": "24. und 25. Dezember",
-  "entranceFee": "kostenlos (Trinkgeld/Süßigkeiten für Kinder üblich)",
+  "address": {
+    "de": "Landesweit in allen rumänischen Dörfern und Städten",
+    "hu": "Országszerte minden román faluban és városban",
+    "ro": "La nivel național, în toate satele și orașele din România",
+    "en": "Nationwide in all Romanian villages and cities"
+  },
+  "openingHours": {
+    "de": "24. und 25. Dezember",
+    "hu": "December 24. és 25.",
+    "ro": "24 și 25 decembrie",
+    "en": "December 24th and 25th"
+  },
+  "entranceFee": {
+    "de": "kostenlos (Trinkgeld/Süßigkeiten für Kinder üblich)",
+    "hu": "ingyenes (gyerekeknek szokásos borravaló/édesség)",
+    "ro": "gratuit (bacșiș/dulciuri pentru copii sunt obișnuite)",
+    "en": "free (tips/sweets for children customary)"
+  },
   "website": "",
-  "publicTransport": "Keine spezielle Anreise nötig.",
-  "parking": "Nicht relevant.",
-  "accessibility": "Überall im öffentlichen Raum erlebbar.",
-  "photoRules": "Privatpersonen vor dem Fotografieren höflich fragen.",
-  "bestTimeToVisit": "Heiligabend ab Einbruch der Dunkelheit.",
-  "audioGuide": "nein"
+  "publicTransport": {
+    "de": "Keine spezielle Anreise nötig.",
+    "hu": "Nincs szükség külön utazásra.",
+    "ro": "Nu este necesară o călătorie specială.",
+    "en": "No special travel required."
+  },
+  "parking": {
+    "de": "Nicht relevant.",
+    "hu": "Nem releváns.",
+    "ro": "Nu este relevant.",
+    "en": "Not relevant."
+  },
+  "accessibility": {
+    "de": "Überall im öffentlichen Raum erlebbar.",
+    "hu": "Mindenhol megtapasztalható a köztereken.",
+    "ro": "Poate fi experimentat peste tot în spațiul public.",
+    "en": "Experienceable everywhere in public spaces."
+  },
+  "photoRules": {
+    "de": "Privatpersonen vor dem Fotografieren höflich fragen.",
+    "hu": "Fényképezés előtt udvariasan kérdezze meg a magánszemélyeket.",
+    "ro": "Întrebați politicos persoanele private înainte de a fotografia.",
+    "en": "Ask private individuals politely before photographing."
+  },
+  "bestTimeToVisit": {
+    "de": "Heiligabend ab Einbruch der Dunkelheit.",
+    "hu": "Szenteste, sötétedéstől.",
+    "ro": "Ajunul Crăciunului de la lăsarea întunericului.",
+    "en": "Christmas Eve after dark."
+  },
+  "audioGuide": {
+    "de": "nein",
+    "hu": "nem",
+    "ro": "nu",
+    "en": "no"
+  }
 }

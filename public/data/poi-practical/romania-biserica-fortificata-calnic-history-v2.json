@@ -1,12 +1,57 @@
 {
-  "address": "Strada Principală 1, 517205 Câlnic",
-  "openingHours": "Täglich 09:00-18:00 (April bis Oktober)",
-  "entranceFee": "15 RON Erwachsene",
+  "address": {
+    "de": "Strada Principală 1, 517205 Câlnic",
+    "hu": "Strada Principală 1, 517205 Kelnek",
+    "ro": "Strada Principală 1, 517205 Câlnic",
+    "en": "Strada Principală 1, 517205 Câlnic"
+  },
+  "openingHours": {
+    "de": "Täglich 09:00-18:00 (April bis Oktober)",
+    "hu": "Naponta 09:00-18:00 (áprilistól októberig)",
+    "ro": "Zilnic 09:00-18:00 (aprilie până în octombrie)",
+    "en": "Daily 09:00-18:00 (April to October)"
+  },
+  "entranceFee": {
+    "de": "15 RON Erwachsene",
+    "hu": "15 RON felnőtteknek",
+    "ro": "15 RON adulți",
+    "en": "15 RON adults"
+  },
   "website": "",
-  "publicTransport": "Anreise am besten per PKW über die DN1.",
-  "parking": "Kleine Parkfläche direkt vor dem Burgtor.",
-  "accessibility": "Nicht barrierefrei (Kopfsteinpflaster und enge Treppen).",
-  "photoRules": "Erlaubt für den privaten Gebrauch.",
-  "bestTimeToVisit": "Frühsommer, wenn die Anlage besonders grün bewachsen ist.",
-  "audioGuide": "nein"
+  "publicTransport": {
+    "de": "Anreise am besten per PKW über die DN1.",
+    "hu": "Megközelítés leginkább autóval a DN1-es úton.",
+    "ro": "Cea mai bună cale de acces este cu mașina pe DN1.",
+    "en": "Best reached by car via DN1."
+  },
+  "parking": {
+    "de": "Kleine Parkfläche direkt vor dem Burgtor.",
+    "hu": "Kis parkoló közvetlenül a várkapu előtt.",
+    "ro": "Mică zonă de parcare chiar în fața porții cetății.",
+    "en": "Small parking area right in front of the castle gate."
+  },
+  "accessibility": {
+    "de": "Nicht barrierefrei (Kopfsteinpflaster und enge Treppen).",
+    "hu": "Nem akadálymentesített (macskakövek és szűk lépcsők).",
+    "ro": "Nu este accesibil (pavaj de piatră și scări înguste).",
+    "en": "Not accessible (cobblestones and narrow stairs)."
+  },
+  "photoRules": {
+    "de": "Erlaubt für den privaten Gebrauch.",
+    "hu": "Megengedett magánhasználatra.",
+    "ro": "Permis pentru uz privat.",
+    "en": "Allowed for private use."
+  },
+  "bestTimeToVisit": {
+    "de": "Frühsommer, wenn die Anlage besonders grün bewachsen ist.",
+    "hu": "Kora nyár, amikor a terület különösen zöld.",
+    "ro": "Începutul verii, când complexul este deosebit de verde.",
+    "en": "Early summer when the complex is especially green."
+  },
+  "audioGuide": {
+    "de": "nein",
+    "hu": "nem",
+    "ro": "nu",
+    "en": "no"
+  }
 }

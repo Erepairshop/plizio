@@ -1,12 +1,57 @@
 {
-  "address": "Sat Moigrad-Guraslău, 457242 Mirșid",
-  "openingHours": "Täglich 09:00-18:00 (Saison), 09:00-16:00 (Winter)",
-  "entranceFee": "10 RON Erwachsene, 5 RON Kinder",
+  "address": {
+    "de": "Sat Moigrad-Guraslău, 457242 Mirșid",
+    "hu": "Moigrad-Guraslău falu, 457242 Mirșid",
+    "ro": "Sat Moigrad-Guraslău, 457242 Mirșid",
+    "en": "Sat Moigrad-Guraslău, 457242 Mirșid"
+  },
+  "openingHours": {
+    "de": "Täglich 09:00-18:00 (Saison), 09:00-16:00 (Winter)",
+    "hu": "Naponta 09:00-18:00 (szezonban), 09:00-16:00 (télen)",
+    "ro": "Zilnic 09:00-18:00 (sezon), 09:00-16:00 (iarna)",
+    "en": "Daily 09:00-18:00 (season), 09:00-16:00 (winter)"
+  },
+  "entranceFee": {
+    "de": "10 RON Erwachsene, 5 RON Kinder",
+    "hu": "10 RON felnőtteknek, 5 RON gyermekeknek",
+    "ro": "10 RON adulți, 5 RON copii",
+    "en": "10 RON adults, 5 RON children"
+  },
   "website": "http://www.muzeuzalau.ro",
-  "publicTransport": "Kein direkter ÖPNV; Taxi oder Mietwagen ab Zalău empfohlen",
-  "parking": "Kostenloser unbefestigter Parkplatz am Fuß des Hügels",
-  "accessibility": "Nur eingeschränkt barrierefrei; steile Graswege zwischen den Ruinen",
-  "photoRules": "Erlaubt; Drohnenaufnahmen für Panorama-Views sehr empfohlen",
-  "bestTimeToVisit": "Sonnenuntergang für spektakuläre Schattenwürfe der römischen Tore",
-  "audioGuide": "nein"
+  "publicTransport": {
+    "de": "Kein direkter ÖPNV; Taxi oder Mietwagen ab Zalău empfohlen",
+    "hu": "Nincs közvetlen tömegközlekedés; taxi vagy bérautó ajánlott Zilahról",
+    "ro": "Nu există transport public direct; se recomandă taxi sau închirierea unei mașini din Zalău",
+    "en": "No direct public transport; taxi or rental car from Zalău recommended"
+  },
+  "parking": {
+    "de": "Kostenloser unbefestigter Parkplatz am Fuß des Hügels",
+    "hu": "Ingyenes, nem burkolt parkoló a domb lábánál",
+    "ro": "Parcare gratuită neamenajată la poalele dealului",
+    "en": "Free unpaved parking at the foot of the hill"
+  },
+  "accessibility": {
+    "de": "Nur eingeschränkt barrierefrei; steile Graswege zwischen den Ruinen",
+    "hu": "Csak korlátozottan akadálymentes; meredek füves utak a romok között",
+    "ro": "Accesibilitate limitată; alei înierbate abrupte între ruine",
+    "en": "Limited accessibility; steep grassy paths between ruins"
+  },
+  "photoRules": {
+    "de": "Erlaubt; Drohnenaufnahmen für Panorama-Views sehr empfohlen",
+    "hu": "Engedélyezett; drónfelvételek panorámaképekhez erősen ajánlott",
+    "ro": "Permis; filmările cu drona pentru vederi panoramice sunt foarte recomandate",
+    "en": "Permitted; drone shots for panoramic views highly recommended"
+  },
+  "bestTimeToVisit": {
+    "de": "Sonnenuntergang für spektakuläre Schattenwürfe der römischen Tore",
+    "hu": "Naplemente a római kapuk látványos árnyékjátékáért",
+    "ro": "Apusul pentru umbrele spectaculoase ale porților romane",
+    "en": "Sunset for spectacular shadows of the Roman gates"
+  },
+  "audioGuide": {
+    "de": "nein",
+    "hu": "nem",
+    "ro": "nu",
+    "en": "no"
+  }
 }

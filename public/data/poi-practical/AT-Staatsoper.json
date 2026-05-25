@@ -1,12 +1,57 @@
 {
-  "address": "Opernring 2, 1010 Wien",
-  "openingHours": "Mo-Su 09:00-18:00 (Führungen je nach Spielplan)",
-  "entranceFee": "€13 für Führungen, Vorstellungen variieren stark",
+  "address": {
+    "de": "Opernring 2, 1010 Wien",
+    "hu": "Opernring 2, 1010 Bécs",
+    "ro": "Opernring 2, 1010 Viena",
+    "en": "Opernring 2, 1010 Vienna"
+  },
+  "openingHours": {
+    "de": "Mo-Su 09:00-18:00 (Führungen je nach Spielplan)",
+    "hu": "H-V 09:00-18:00 (vezetések a játékrend szerint)",
+    "ro": "L-D 09:00-18:00 (tururi ghidate conform programului)",
+    "en": "Mon-Sun 09:00-18:00 (tours depending on the schedule)"
+  },
+  "entranceFee": {
+    "de": "€13 für Führungen, Vorstellungen variieren stark",
+    "hu": "13 € a vezetés, az előadások árai változóak",
+    "ro": "13 € pentru tururi, spectacolele variază mult",
+    "en": "€13 for guided tours, performances vary greatly"
+  },
   "website": "https://www.wiener-staatsoper.at",
-  "publicTransport": "U1, U2, U4 Karlsplatz oder Tram 1, 2, D, 71",
-  "parking": "Kärntnerring-Garage (Operngarage), vergünstigte Tarife für Besucher.",
-  "accessibility": "Rollstuhlplätze in fast allen Kategorien vorhanden, Voranmeldung nötig.",
-  "photoRules": "Während der Aufführungen streng verboten, bei Führungen erlaubt.",
-  "bestTimeToVisit": "Günstige Stehplatzkarten gibt es ca. 80 Minuten vor Vorstellungsbeginn.",
-  "audioGuide": "In den Sitzplätzen integriertes Informationssystem (Libretti)."
+  "publicTransport": {
+    "de": "U1, U2, U4 Karlsplatz oder Tram 1, 2, D, 71",
+    "hu": "U1, U2, U4 Karlsplatz vagy 1, 2, D, 71 villamos",
+    "ro": "U1, U2, U4 Karlsplatz sau tramvaiul 1, 2, D, 71",
+    "en": "U1, U2, U4 Karlsplatz or tram 1, 2, D, 71"
+  },
+  "parking": {
+    "de": "Kärntnerring-Garage (Operngarage), vergünstigte Tarife für Besucher.",
+    "hu": "Kärntnerring-Garage (Operngarage), kedvezményes tarifák látogatóknak.",
+    "ro": "Kärntnerring-Garage (Operngarage), tarife reduse pentru vizitatori.",
+    "en": "Kärntnerring-Garage (Opera Garage), discounted rates for visitors."
+  },
+  "accessibility": {
+    "de": "Rollstuhlplätze in fast allen Kategorien vorhanden, Voranmeldung nötig.",
+    "hu": "Kerekesszékes helyek szinte minden kategóriában, előzetes bejelentkezés szükséges.",
+    "ro": "Locuri pentru scaune cu rotile disponibile în aproape toate categoriile, necesită rezervare.",
+    "en": "Wheelchair spaces available in almost all categories, prior registration required."
+  },
+  "photoRules": {
+    "de": "Während der Aufführungen streng verboten, bei Führungen erlaubt.",
+    "hu": "Az előadások alatt szigorúan tilos, vezetéseken engedélyezett.",
+    "ro": "Strict interzis în timpul spectacolelor, permis în timpul tururilor.",
+    "en": "Strictly forbidden during performances, allowed during guided tours."
+  },
+  "bestTimeToVisit": {
+    "de": "Günstige Stehplatzkarten gibt es ca. 80 Minuten vor Vorstellungsbeginn.",
+    "hu": "Olcsó állóhelyi jegyek kb. 80 perccel az előadás kezdete előtt kaphatók.",
+    "ro": "Bilete ieftine în picioare sunt disponibile cu cca 80 de minute înainte de începere.",
+    "en": "Cheap standing tickets are available approx. 80 minutes before the start."
+  },
+  "audioGuide": {
+    "de": "In den Sitzplätzen integriertes Informationssystem (Libretti).",
+    "hu": "Az ülésekbe integrált információs rendszer (librettók).",
+    "ro": "Sistem de informare integrat în scaune (libreți).",
+    "en": "Information system integrated into the seats (libretti)."
+  }
 }

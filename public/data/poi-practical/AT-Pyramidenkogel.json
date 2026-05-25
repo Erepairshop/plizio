@@ -1,12 +1,57 @@
 {
-  "address": "Linden 62, 9074 Keutschach am See",
-  "openingHours": "Mo-Su 09:00-19:00",
-  "entranceFee": "€16 Erwachsene",
+  "address": {
+    "de": "Linden 62, 9074 Keutschach am See",
+    "hu": "Linden 62, 9074 Keutschach am See",
+    "ro": "Linden 62, 9074 Keutschach am See",
+    "en": "Linden 62, 9074 Keutschach am See"
+  },
+  "openingHours": {
+    "de": "Mo-Su 09:00-19:00",
+    "hu": "H-V 09:00-19:00",
+    "ro": "Lu-Du 09:00-19:00",
+    "en": "Mon-Sun 9:00 AM - 7:00 PM"
+  },
+  "entranceFee": {
+    "de": "€16 Erwachsene",
+    "hu": "16 € felnőtt",
+    "ro": "16 € adulți",
+    "en": "€16 adults"
+  },
   "website": "https://www.pyramidenkogel.info",
-  "publicTransport": "Postbus Linie 5310 ab Klagenfurt Hauptbahnhof.",
-  "parking": "Großer, kostenloser Parkplatz direkt am Fuße des Aussichtsturms.",
-  "accessibility": "Der Turm ist durch einen Panoramaaufzug für Rollstuhlfahrer voll zugänglich.",
-  "photoRules": "Fotografieren erlaubt, idealer Ort für 360-Grad-Panoramaaufnahmen.",
-  "bestTimeToVisit": "An einem klaren Tag kurz vor Sonnenuntergang für die beste Fernsicht.",
-  "audioGuide": "no"
+  "publicTransport": {
+    "de": "Postbus Linie 5310 ab Klagenfurt Hauptbahnhof.",
+    "hu": "5310-es Postbus járat Klagenfurt főpályaudvarától.",
+    "ro": "Postbus linia 5310 de la gara principală din Klagenfurt.",
+    "en": "Postbus line 5310 from Klagenfurt Main Station."
+  },
+  "parking": {
+    "de": "Großer, kostenloser Parkplatz direkt am Fuße des Aussichtsturms.",
+    "hu": "Nagy, ingyenes parkoló közvetlenül a kilátótorony lábánál.",
+    "ro": "Parcare mare, gratuită, direct la poalele turnului de observare.",
+    "en": "Large, free parking lot directly at the foot of the observation tower."
+  },
+  "accessibility": {
+    "de": "Der Turm ist durch einen Panoramaaufzug für Rollstuhlfahrer voll zugänglich.",
+    "hu": "A torony panorámalifttel kerekesszékesek számára is teljes mértékben hozzáférhető.",
+    "ro": "Turnul este complet accesibil pentru scaunele cu rotile printr-un lift panoramic.",
+    "en": "The tower is fully accessible for wheelchair users via a panoramic elevator."
+  },
+  "photoRules": {
+    "de": "Fotografieren erlaubt, idealer Ort für 360-Grad-Panoramaaufnahmen.",
+    "hu": "Szabad fotózni, ideális helyszín 360 fokos panorámafelvételekhez.",
+    "ro": "Fotografierea permisă, loc ideal pentru fotografii panoramice la 360 de grade.",
+    "en": "Photography allowed; an ideal place for 360-degree panoramic shots."
+  },
+  "bestTimeToVisit": {
+    "de": "An einem klaren Tag kurz vor Sonnenuntergang für die beste Fernsicht.",
+    "hu": "Tiszta időben, röviddel naplemente előtt a legjobb távolsági kilátásért.",
+    "ro": "Într-o zi senină, cu puțin timp înainte de apusul soarelui, pentru cea mai bună vedere la distanță.",
+    "en": "On a clear day shortly before sunset for the best long-distance views."
+  },
+  "audioGuide": {
+    "de": "no",
+    "hu": "nem elérhető",
+    "ro": "nu",
+    "en": "no"
+  }
 }

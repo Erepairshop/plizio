@@ -1,12 +1,57 @@
 {
-  "address": "Comuna Moneasa, 317220 Arad",
-  "openingHours": "24/7",
-  "entranceFee": "free",
+  "address": {
+    "de": "Comuna Moneasa, 317220 Arad",
+    "hu": "Moneasa község, 317220 Arad",
+    "ro": "Comuna Moneasa, 317220 Arad",
+    "en": "Moneasa commune, 317220 Arad"
+  },
+  "openingHours": {
+    "de": "24/7",
+    "hu": "24/7",
+    "ro": "24/7",
+    "en": "24/7"
+  },
+  "entranceFee": {
+    "de": "free",
+    "hu": "ingyenes",
+    "ro": "gratuit",
+    "en": "free"
+  },
   "website": "",
-  "publicTransport": "Busse ab Arad (ca. 2 Stunden Fahrt).",
-  "parking": "Öffentliche Parkplätze im Ort, ca. 10 RON pro Tag.",
-  "accessibility": "Hauptstraßen flach, Wanderwege steil und uneben.",
-  "photoRules": "Erlaubt, keine Einschränkungen im öffentlichen Raum.",
-  "bestTimeToVisit": "Sommer für das Freibad oder Herbst für die Laubfärbung.",
-  "audioGuide": "no"
+  "publicTransport": {
+    "de": "Busse ab Arad (ca. 2 Stunden Fahrt).",
+    "hu": "Buszok Aradról (kb. 2 órás út).",
+    "ro": "Autobuze din Arad (aprox. 2 ore de mers).",
+    "en": "Buses from Arad (approx. 2 hours travel)."
+  },
+  "parking": {
+    "de": "Öffentliche Parkplätze im Ort, ca. 10 RON pro Tag.",
+    "hu": "Nyilvános parkolók a településen, kb. 10 RON naponta.",
+    "ro": "Parcări publice în stațiune, aprox. 10 RON pe zi.",
+    "en": "Public parking in the village, approx. 10 RON per day."
+  },
+  "accessibility": {
+    "de": "Hauptstraßen flach, Wanderwege steil und uneben.",
+    "hu": "A főutak síkok, a túraútvonalak meredekek és egyenetlenek.",
+    "ro": "Străzile principale sunt plate, traseele montane sunt abrupte și neregulate.",
+    "en": "Main streets are flat, hiking trails are steep and uneven."
+  },
+  "photoRules": {
+    "de": "Erlaubt, keine Einschränkungen im öffentlichen Raum.",
+    "hu": "Engedélyezett, nincs korlátozás közterületen.",
+    "ro": "Permis, fără restricții în spațiul public.",
+    "en": "Permitted, no restrictions in public spaces."
+  },
+  "bestTimeToVisit": {
+    "de": "Sommer für das Freibad oder Herbst für die Laubfärbung.",
+    "hu": "Nyár a szabadtéri medence miatt, vagy ősz a lombok színeiért.",
+    "ro": "Vara pentru piscina în aer liber sau toamna pentru coloritul frunzelor.",
+    "en": "Summer for the outdoor pool or autumn for fall foliage."
+  },
+  "audioGuide": {
+    "de": "no",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

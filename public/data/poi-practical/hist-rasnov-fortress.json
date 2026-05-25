@@ -1,12 +1,57 @@
 {
-  "address": "Strada Cetății, 505400 Râșnov",
-  "openingHours": "Täglich 09:00-18:00 (Innenhof wegen Renovierung teils eingeschränkt)",
-  "entranceFee": "12 RON Erwachsene, 6 RON Kinder",
+  "address": {
+    "de": "Strada Cetății, 505400 Râșnov",
+    "hu": "Strada Cetății, 505400 Barcarozsnyó",
+    "ro": "Strada Cetății, 505400 Râșnov",
+    "en": "Strada Cetății, 505400 Râșnov"
+  },
+  "openingHours": {
+    "de": "Täglich 09:00-18:00 (Innenhof wegen Renovierung teils eingeschränkt)",
+    "hu": "Naponta 09:00-18:00 (a belső udvar felújítás miatt részben korlátozott)",
+    "ro": "Zilnic 09:00-18:00 (curtea interioară parțial restricționată pentru renovare)",
+    "en": "Daily 09:00-18:00 (inner courtyard partially restricted due to renovation)"
+  },
+  "entranceFee": {
+    "de": "12 RON Erwachsene, 6 RON Kinder",
+    "hu": "12 RON felnőtt, 6 RON gyermek",
+    "ro": "12 RON adulți, 6 RON copii",
+    "en": "12 RON adults, 6 RON children"
+  },
   "website": "",
-  "publicTransport": "Zug oder Bus von Brașov, dann Standseilbahn vom Stadtzentrum",
-  "parking": "Großer Parkplatz im Tal (ca. 10 RON), Aufstieg zu Fuß oder per Traktor-Bahn",
-  "accessibility": "Sehr steinig und steil, für Rollstuhlfahrer ungeeignet",
-  "photoRules": "Erlaubt, Stativnutzung auf den Mauern eingeschränkt",
-  "bestTimeToVisit": "Später Nachmittag für den Panoramablick auf die Karpaten",
-  "audioGuide": "Nein"
+  "publicTransport": {
+    "de": "Zug oder Bus von Brașov, dann Standseilbahn vom Stadtzentrum",
+    "hu": "Vonat vagy busz Brassóból, majd sikló a városközpontból",
+    "ro": "Tren sau autobuz din Brașov, apoi ascensorul pe plan înclinat din centru",
+    "en": "Train or bus from Brașov, then the inclined elevator from the town center"
+  },
+  "parking": {
+    "de": "Großer Parkplatz im Tal (ca. 10 RON), Aufstieg zu Fuß oder per Traktor-Bahn",
+    "hu": "Nagy parkoló a völgyben (kb. 10 RON), feljutás gyalog vagy traktor-vonattal",
+    "ro": "Parcare mare în vale (aprox. 10 RON), urcare pe jos sau cu trenulețul tractor",
+    "en": "Large parking lot in the valley (approx. 10 RON), ascent on foot or by tractor-train"
+  },
+  "accessibility": {
+    "de": "Sehr steinig und steil, für Rollstuhlfahrer ungeeignet",
+    "hu": "Nagyon köves és meredek, kerekesszékkel nem járható",
+    "ro": "Foarte pietros și abrupt, neadecvat pentru scaune cu rotile",
+    "en": "Very stony and steep, unsuitable for wheelchair users"
+  },
+  "photoRules": {
+    "de": "Erlaubt, Stativnutzung auf den Mauern eingeschränkt",
+    "hu": "Engedélyezett, állvány használata a falakon korlátozott",
+    "ro": "Permis, utilizarea trepiedului pe ziduri este restricționată",
+    "en": "Allowed, tripod use on the walls is restricted"
+  },
+  "bestTimeToVisit": {
+    "de": "Später Nachmittag für den Panoramablick auf die Karpaten",
+    "hu": "Késő délután a Kárpátokra nyíló panoráma miatt",
+    "ro": "După-amiaza târziu pentru vederea panoramică asupra Carpaților",
+    "en": "Late afternoon for the panoramic view of the Carpathians"
+  },
+  "audioGuide": {
+    "de": "Nein",
+    "hu": "Nem",
+    "ro": "Nu",
+    "en": "No"
+  }
 }

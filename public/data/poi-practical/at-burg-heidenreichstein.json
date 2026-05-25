@@ -1,12 +1,57 @@
 {
-  "address": "Schloßplatz 1, 3950 Heidenreichstein",
-  "openingHours": "Apr-Okt: Di-So Führungen um 10:00, 11:00, 14:00, 15:00, 16:00",
-  "entranceFee": "€ 11,00 (Besichtigung nur mit Führung)",
+  "address": {
+    "de": "Schloßplatz 1, 3950 Heidenreichstein",
+    "hu": "Schloßplatz 1, 3950 Heidenreichstein",
+    "ro": "Schloßplatz 1, 3950 Heidenreichstein",
+    "en": "Schloßplatz 1, 3950 Heidenreichstein"
+  },
+  "openingHours": {
+    "de": "Apr-Okt: Di-So Führungen um 10:00, 11:00, 14:00, 15:00, 16:00",
+    "hu": "Ápr-okt: K-V vezetés 10:00, 11:00, 14:00, 15:00, 16:00 órakor",
+    "ro": "Apr-Oct: Ma-D tururi la orele 10:00, 11:00, 14:00, 15:00, 16:00",
+    "en": "Apr-Oct: Tue-Sun tours at 10:00, 11:00, 14:00, 15:00, 16:00"
+  },
+  "entranceFee": {
+    "de": "€ 11,00 (Besichtigung nur mit Führung)",
+    "hu": "11,00 € (megtekintés csak vezetéssel)",
+    "ro": "11,00 € (vizitare doar cu ghid)",
+    "en": "€11.00 (visit only with a guided tour)"
+  },
   "website": "https://www.burg-heidenreichstein.at",
-  "publicTransport": "Bus 170 ab Gmünd NÖ oder Waidhofen/Thaya.",
-  "parking": "Kostenlose Parkplätze direkt gegenüber dem Burggraben.",
-  "accessibility": "Enge Wendeltreppen und historische Schwellen, nicht rollstuhlgerecht.",
-  "photoRules": "Im Außenhof erlaubt, im Inneren während der Führung nicht gestattet.",
-  "bestTimeToVisit": "Frühling, wenn der Wassergraben besonders pittoresk wirkt.",
-  "audioGuide": "nein (persönliche Führung obligatorisch)"
+  "publicTransport": {
+    "de": "Bus 170 ab Gmünd NÖ oder Waidhofen/Thaya.",
+    "hu": "170-es busz Gmünd vagy Waidhofen/Thaya felől.",
+    "ro": "Autobuz 170 dinspre Gmünd sau Waidhofen/Thaya.",
+    "en": "Bus 170 from Gmünd or Waidhofen/Thaya."
+  },
+  "parking": {
+    "de": "Kostenlose Parkplätze direkt gegenüber dem Burggraben.",
+    "hu": "Ingyenes parkolóhelyek közvetlenül a várárokkal szemben.",
+    "ro": "Locuri de parcare gratuite direct vis-a-vis de șanțul cetății.",
+    "en": "Free parking spaces directly opposite the castle moat."
+  },
+  "accessibility": {
+    "de": "Enge Wendeltreppen und historische Schwellen, nicht rollstuhlgerecht.",
+    "hu": "Szűk csigalépcsők és történelmi küszöbök, nem kerekesszékezhető.",
+    "ro": "Scări în spirală înguste și praguri istorice, nu este accesibil pentru scaune cu rotile.",
+    "en": "Narrow spiral staircases and historical thresholds, not wheelchair accessible."
+  },
+  "photoRules": {
+    "de": "Im Außenhof erlaubt, im Inneren während der Führung nicht gestattet.",
+    "hu": "A külső udvaron engedélyezett, belül a vezetés alatt nem megengedett.",
+    "ro": "Permis în curtea exterioară, interzis în interior în timpul turului.",
+    "en": "Allowed in the outer courtyard, not permitted inside during the tour."
+  },
+  "bestTimeToVisit": {
+    "de": "Frühling, wenn der Wassergraben besonders pittoresk wirkt.",
+    "hu": "Tavasszal, amikor a várárok különösen festői.",
+    "ro": "Primăvara, când șanțul cu apă arată deosebit de pitoresc.",
+    "en": "Spring, when the moat looks particularly picturesque."
+  },
+  "audioGuide": {
+    "de": "nein (persönliche Führung obligatorisch)",
+    "hu": "nincs (személyes vezetés kötelező)",
+    "ro": "nu (turul ghidat personal este obligatoriu)",
+    "en": "no (personal guided tour is mandatory)"
+  }
 }

@@ -1,12 +1,57 @@
 {
-  "address": "Olsztynek, Polen (Hohenstein)",
-  "openingHours": "24/7 (Gelände frei zugänglich)",
-  "entranceFee": "kostenlos",
+  "address": {
+    "de": "Olsztynek, Polen (Hohenstein)",
+    "hu": "Olsztynek, Lengyelország (Hohenstein)",
+    "ro": "Olsztynek, Polonia (Hohenstein)",
+    "en": "Olsztynek, Poland (Hohenstein)"
+  },
+  "openingHours": {
+    "de": "24/7 (Gelände frei zugänglich)",
+    "hu": "24/7 (szabadon látogatható terület)",
+    "ro": "24/7 (teren cu acces liber)",
+    "en": "24/7 (freely accessible grounds)"
+  },
+  "entranceFee": {
+    "de": "kostenlos",
+    "hu": "ingyenes",
+    "ro": "gratuit",
+    "en": "free"
+  },
   "website": "",
-  "publicTransport": "Regionalzüge nach Olsztynek, dann Fußweg zum Waldgelände.",
-  "parking": "Parkmöglichkeiten am Waldrand/Museumsdorf Olsztynek.",
-  "accessibility": "Nur Waldwege, nicht barrierefrei (Ruinenstandort).",
-  "photoRules": "Erlaubt.",
-  "bestTimeToVisit": "Tagsüber; nur noch Fundamente und Gedenksteine sichtbar.",
-  "audioGuide": "nein"
+  "publicTransport": {
+    "de": "Regionalzüge nach Olsztynek, dann Fußweg zum Waldgelände.",
+    "hu": "Regionális vonatok Olsztynekbe, majd séta az erdős területre.",
+    "ro": "Trenuri regionale către Olsztynek, apoi mers pe jos către zona de pădure.",
+    "en": "Regional trains to Olsztynek, then walk to the forest area."
+  },
+  "parking": {
+    "de": "Parkmöglichkeiten am Waldrand/Museumsdorf Olsztynek.",
+    "hu": "Parkolási lehetőség az erdőszélen vagy az Olsztyneki falumúzeumnál.",
+    "ro": "Posibilități de parcare la marginea pădurii sau la muzeul satului din Olsztynek.",
+    "en": "Parking possibilities at the edge of the forest or at the Olsztynek open-air museum."
+  },
+  "accessibility": {
+    "de": "Nur Waldwege, nicht barrierefrei (Ruinenstandort).",
+    "hu": "Csak erdei utak, nem akadálymentes (romterület).",
+    "ro": "Doar drumuri de pădure, nu este accesibil persoanelor cu dizabilități (sit de ruine).",
+    "en": "Only forest paths, not barrier-free (ruin site)."
+  },
+  "photoRules": {
+    "de": "Erlaubt.",
+    "hu": "Engedélyezett.",
+    "ro": "Permis.",
+    "en": "Allowed."
+  },
+  "bestTimeToVisit": {
+    "de": "Tagsüber; nur noch Fundamente und Gedenksteine sichtbar.",
+    "hu": "Napközben; már csak alapfalak és emlékkövek láthatók.",
+    "ro": "În timpul zilei; mai sunt vizibile doar fundațiile și pietrele funerare.",
+    "en": "During the day; only foundations and memorial stones remain visible."
+  },
+  "audioGuide": {
+    "de": "nein",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

@@ -1,12 +1,57 @@
 {
-  "address": "Augustusbrücke, 01067 Dresden",
-  "openingHours": "24/7",
-  "entranceFee": "kostenlos",
+  "address": {
+    "de": "Augustusbrücke, 01067 Dresden",
+    "hu": "Augustusbrücke, 01067 Dresden",
+    "ro": "Augustusbrücke, 01067 Dresden",
+    "en": "Augustusbrücke, 01067 Dresden"
+  },
+  "openingHours": {
+    "de": "24/7",
+    "hu": "0-24",
+    "ro": "Non-stop",
+    "en": "24/7"
+  },
+  "entranceFee": {
+    "de": "kostenlos",
+    "hu": "ingyenes",
+    "ro": "gratuit",
+    "en": "free"
+  },
   "website": "https://www.dresden.de",
-  "publicTransport": "Straßenbahn Linien 4, 8, 9 bis Theaterplatz",
-  "parking": "Tiefgarage Semperoper oder Parkplatz Altmarkt (ca. 2-3€/Std.).",
-  "accessibility": "Ebenerdig und für Rollstuhlfahrer sowie Kinderwagen problemlos nutzbar.",
-  "photoRules": "Erlaubt, bester Spot für das klassische Dresden-Panorama (Canaletto-Blick).",
-  "bestTimeToVisit": "Sonnenuntergang für die goldene Stunde über der Elbfront.",
-  "audioGuide": "nein"
+  "publicTransport": {
+    "de": "Straßenbahn Linien 4, 8, 9 bis Theaterplatz",
+    "hu": "4-es, 8-as, 9-es villamos a Theaterplatzig",
+    "ro": "Tramvai liniile 4, 8, 9 până la Theaterplatz",
+    "en": "Tram lines 4, 8, 9 to Theaterplatz"
+  },
+  "parking": {
+    "de": "Tiefgarage Semperoper oder Parkplatz Altmarkt (ca. 2-3€/Std.).",
+    "hu": "Semperoper mélygarázs vagy Altmarkt parkoló (kb. 2-3 €/óra)",
+    "ro": "Parcare subterană Semperoper sau parcare Altmarkt (aprox. 2-3 €/oră)",
+    "en": "Semperoper underground parking or Altmarkt parking (approx. €2-3/hr)"
+  },
+  "accessibility": {
+    "de": "Ebenerdig und für Rollstuhlfahrer sowie Kinderwagen problemlos nutzbar.",
+    "hu": "Szintbeli, kerekesszékesek és babakocsik számára problémamentesen használható.",
+    "ro": "Accesibil la nivelul solului, utilizabil fără probleme pentru scaune cu rotile și cărucioare.",
+    "en": "Accessible at ground level, easy to use for wheelchair users and strollers."
+  },
+  "photoRules": {
+    "de": "Erlaubt, bester Spot für das klassische Dresden-Panorama (Canaletto-Blick).",
+    "hu": "Megengedett, a legjobb helyszín a klasszikus Drezda-panorámához (Canaletto-kilátás).",
+    "ro": "Permis, cel mai bun loc pentru panorama clasică a Dresdei (vederea Canaletto).",
+    "en": "Allowed, best spot for the classic Dresden panorama (Canaletto view)."
+  },
+  "bestTimeToVisit": {
+    "de": "Sonnenuntergang für die goldene Stunde über der Elbfront.",
+    "hu": "Napnyugtakor az arany óráért az Elba-part fölött.",
+    "ro": "La apus pentru ora de aur deasupra malului Elbei.",
+    "en": "Sunset for the golden hour over the Elbe riverfront."
+  },
+  "audioGuide": {
+    "de": "nein",
+    "hu": "nem",
+    "ro": "nu",
+    "en": "no"
+  }
 }

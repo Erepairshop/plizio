@@ -1,12 +1,57 @@
 {
-  "address": "Eugen-Horvath-Platz 1, 7442 Lockenhaus",
-  "openingHours": "Mo-Su 09:00-17:00",
-  "entranceFee": "12€ Erwachsene",
+  "address": {
+    "de": "Eugen-Horvath-Platz 1, 7442 Lockenhaus",
+    "hu": "Eugen-Horvath-Platz 1, 7442 Lockenhaus (Léka)",
+    "ro": "Eugen-Horvath-Platz 1, 7442 Lockenhaus",
+    "en": "Eugen-Horvath-Platz 1, 7442 Lockenhaus"
+  },
+  "openingHours": {
+    "de": "Mo-Su 09:00-17:00",
+    "hu": "H-V 09:00-17:00",
+    "ro": "Lu-Du 09:00-17:00",
+    "en": "Mon-Sun 09:00-17:00"
+  },
+  "entranceFee": {
+    "de": "12€ Erwachsene",
+    "hu": "12 € felnőtteknek",
+    "ro": "12 € adulți",
+    "en": "12€ adults"
+  },
   "website": "https://www.ritterburg.at",
-  "publicTransport": "Bus ab Oberpullendorf",
-  "parking": "Parkplatz direkt bei der Burgauffahrt.",
-  "accessibility": "Teilweise barrierefrei (Hof), sonst viele Stufen.",
-  "photoRules": "Erlaubt, in der Folterkammer eingeschränkt.",
-  "bestTimeToVisit": "An Wochenenden mit Ritteressen-Programm.",
-  "audioGuide": "DE"
+  "publicTransport": {
+    "de": "Bus ab Oberpullendorf",
+    "hu": "Busz Felsőpulyáról (Oberpullendorf)",
+    "ro": "Autobuz din Oberpullendorf",
+    "en": "Bus from Oberpullendorf"
+  },
+  "parking": {
+    "de": "Parkplatz direkt bei der Burgauffahrt.",
+    "hu": "Parkoló közvetlenül a várfeljárónál.",
+    "ro": "Parcare direct la urcarea spre castel.",
+    "en": "Parking lot directly at the castle driveway."
+  },
+  "accessibility": {
+    "de": "Teilweise barrierefrei (Hof), sonst viele Stufen.",
+    "hu": "Részben akadálymentes (udvar), egyébként sok lépcső.",
+    "ro": "Parțial accesibil (curtea), altfel multe trepte.",
+    "en": "Partially barrier-free (courtyard), otherwise many steps."
+  },
+  "photoRules": {
+    "de": "Erlaubt, in der Folterkammer eingeschränkt.",
+    "hu": "Megengedett, a kínzókamrában korlátozott.",
+    "ro": "Permis, restricționat în camera de tortură.",
+    "en": "Permitted, restricted in the torture chamber."
+  },
+  "bestTimeToVisit": {
+    "de": "An Wochenenden mit Ritteressen-Programm.",
+    "hu": "Hétvégenként lovagi vacsora programmal.",
+    "ro": "În weekend-uri cu program de cină medievală.",
+    "en": "On weekends with knight's dinner program."
+  },
+  "audioGuide": {
+    "de": "DE",
+    "hu": "német",
+    "ro": "DE",
+    "en": "DE"
+  }
 }

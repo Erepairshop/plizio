@@ -1,12 +1,57 @@
 {
-  "address": "Museumsweg 1, 2801 Schwarzenbach, Österreich",
-  "openingHours": "April bis Oktober: Gelände 24/7 frei zugänglich; Museumshütten bei Events",
-  "entranceFee": "Gelände kostenlos, Eintritt nur bei speziellen Veranstaltungen",
+  "address": {
+    "de": "Museumsweg 1, 2801 Schwarzenbach, Österreich",
+    "hu": "Museumsweg 1, 2801 Schwarzenbach, Ausztria",
+    "ro": "Museumsweg 1, 2801 Schwarzenbach, Austria",
+    "en": "Museumsweg 1, 2801 Schwarzenbach, Austria"
+  },
+  "openingHours": {
+    "de": "April bis Oktober: Gelände 24/7 frei zugänglich; Museumshütten bei Events",
+    "hu": "Áprilistól októberig: a terület 24/7 szabadon látogatható; múzeumi házak rendezvényekkor",
+    "ro": "Aprilie până în octombrie: terenul accesibil liber 24/7; colibele muzeale la evenimente",
+    "en": "April to October: grounds freely accessible 24/7; museum huts at events"
+  },
+  "entranceFee": {
+    "de": "Gelände kostenlos, Eintritt nur bei speziellen Veranstaltungen",
+    "hu": "A terület ingyenes, belépő csak különleges eseményeken",
+    "ro": "Teren gratuit, intrare doar la evenimente speciale",
+    "en": "Grounds free, entry only for special events"
+  },
   "website": "https://www.celtitix.at/",
-  "publicTransport": "Eingeschränkte Busverbindung, Anreise mit PKW wird empfohlen",
-  "parking": "Parkplatz direkt beim Freilichtmuseum (kostenlos)",
-  "accessibility": "Naturwege, teilweise steil und nicht vollständig rollstuhlgerecht",
-  "photoRules": "Erlaubt",
-  "bestTimeToVisit": "Während des jährlichen Keltenfestes zur Sommersonnenwende",
-  "audioGuide": "nein"
+  "publicTransport": {
+    "de": "Eingeschränkte Busverbindung, Anreise mit PKW wird empfohlen",
+    "hu": "Korlátozott buszjárat, autóval történő érkezés javasolt",
+    "ro": "Legătură limitată de autobuz, se recomandă sosirea cu mașina",
+    "en": "Limited bus connection, arrival by car recommended"
+  },
+  "parking": {
+    "de": "Parkplatz direkt beim Freilichtmuseum (kostenlos)",
+    "hu": "Parkoló közvetlenül a szabadtéri múzeumnál (ingyenes)",
+    "ro": "Parcare direct la muzeul în aer liber (gratuită)",
+    "en": "Parking right at the open-air museum (free)"
+  },
+  "accessibility": {
+    "de": "Naturwege, teilweise steil und nicht vollständig rollstuhlgerecht",
+    "hu": "Természetes ösvények, részben meredek és nem teljesen kerekesszék-barát",
+    "ro": "Poteci naturale, parțial abrupte și nu complet accesibile scaunelor cu rotile",
+    "en": "Natural paths, partially steep and not fully wheelchair-friendly"
+  },
+  "photoRules": {
+    "de": "Erlaubt",
+    "hu": "Megengedett",
+    "ro": "Permis",
+    "en": "Allowed"
+  },
+  "bestTimeToVisit": {
+    "de": "Während des jährlichen Keltenfestes zur Sommersonnenwende",
+    "hu": "Az éves kelta fesztivál idején, nyári napfordulókor",
+    "ro": "În timpul festivalului anual celt la solstițiul de vară",
+    "en": "During the annual Celtic festival at the summer solstice"
+  },
+  "audioGuide": {
+    "de": "nein",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

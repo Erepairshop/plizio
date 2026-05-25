@@ -1,12 +1,57 @@
 {
-  "address": "Piața Mare, 550163 Sibiu",
-  "openingHours": "24/7",
-  "entranceFee": "kostenlos",
+  "address": {
+    "de": "Piața Mare, 550163 Sibiu",
+    "hu": "Piața Mare, 550163 Nagyszeben",
+    "ro": "Piața Mare, 550163 Sibiu",
+    "en": "Piața Mare, 550163 Sibiu"
+  },
+  "openingHours": {
+    "de": "24/7",
+    "hu": "Non-stop",
+    "ro": "Non-stop",
+    "en": "24/7"
+  },
+  "entranceFee": {
+    "de": "kostenlos",
+    "hu": "ingyenes",
+    "ro": "gratuit",
+    "en": "free"
+  },
   "website": "https://www.sibiu.ro",
-  "publicTransport": "Buslinien 2, 5, 10, 12, 13, 17 bis Haltestelle Piața Unirii",
-  "parking": "Gebührenpflichtige Parkplätze in der Umgebung (Zone A, ca. 2 RON/Std.)",
-  "accessibility": "Vollständig barrierefrei (Kopfsteinpflaster teilweise eben geschliffen)",
-  "photoRules": "Frei erlaubt; Drohnenflug über der Altstadt genehmigungspflichtig",
-  "bestTimeToVisit": "Abends zur blauen Stunde; Dezember für den Weihnachtsmarkt",
-  "audioGuide": "nein"
+  "publicTransport": {
+    "de": "Buslinien 2, 5, 10, 12, 13, 17 bis Haltestelle Piața Unirii",
+    "hu": "2, 5, 10, 12, 13, 17-es busz a Piața Unirii megállóig",
+    "ro": "Liniile de autobuz 2, 5, 10, 12, 13, 17 până la stația Piața Unirii",
+    "en": "Bus lines 2, 5, 10, 12, 13, 17 to Piața Unirii station"
+  },
+  "parking": {
+    "de": "Gebührenpflichtige Parkplätze in der Umgebung (Zone A, ca. 2 RON/Std.)",
+    "hu": "Fizetős parkolók a környéken (A zóna, kb. 2 RON/óra)",
+    "ro": "Parcări cu plată în zonă (Zona A, aprox. 2 RON/oră)",
+    "en": "Paid parking in the area (Zone A, approx. 2 RON/hr)"
+  },
+  "accessibility": {
+    "de": "Vollständig barrierefrei (Kopfsteinpflaster teilweise eben geschliffen)",
+    "hu": "Teljesen akadálymentes (a macskakövek részben simára csiszoltak)",
+    "ro": "Complet accesibil (pavajul este parțial șlefuit pentru a fi neted)",
+    "en": "Fully accessible (cobblestones partially smoothed)"
+  },
+  "photoRules": {
+    "de": "Frei erlaubt; Drohnenflug über der Altstadt genehmigungspflichtig",
+    "hu": "Szabadon fényképezhető; drónreptetés az óváros felett engedélyköteles",
+    "ro": "Permis liber; zborul cu drona deasupra centrului vechi necesită autorizație",
+    "en": "Freely allowed; drone flight over the old town requires permission"
+  },
+  "bestTimeToVisit": {
+    "de": "Abends zur blauen Stunde; Dezember für den Weihnachtsmarkt",
+    "hu": "Este este, az 'arany órában'; decemberben a karácsonyi vásár miatt",
+    "ro": "Seara la ora albastră; decembrie pentru târgul de Crăciun",
+    "en": "Evenings at the blue hour; December for the Christmas market"
+  },
+  "audioGuide": {
+    "de": "nein",
+    "hu": "nem",
+    "ro": "nu",
+    "en": "no"
+  }
 }

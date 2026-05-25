@@ -1,12 +1,57 @@
 {
-  "address": "Hăbeni, 137096 Județul Dâmbovița",
-  "openingHours": "Nur Außenbesichtigung (Privatbesitz).",
-  "entranceFee": "kostenlos",
+  "address": {
+    "de": "Hăbeni, 137096 Județul Dâmbovița",
+    "hu": "Hăbeni, 137096 Dâmbovița megye",
+    "ro": "Hăbeni, 137096 Județul Dâmbovița",
+    "en": "Hăbeni, 137096 Dâmbovița County"
+  },
+  "openingHours": {
+    "de": "Nur Außenbesichtigung (Privatbesitz).",
+    "hu": "Csak kívülről látogatható (magántulajdon).",
+    "ro": "Vizitabil doar la exterior (proprietate privată).",
+    "en": "Exterior viewing only (private property)."
+  },
+  "entranceFee": {
+    "de": "kostenlos",
+    "hu": "ingyenes",
+    "ro": "gratuit",
+    "en": "free"
+  },
   "website": "",
-  "publicTransport": "PKW von Târgoviște aus empfohlen.",
-  "parking": "Parken am Straßenrand.",
-  "accessibility": "Nicht barrierefrei.",
-  "photoRules": "Außenaufnahmen erlaubt.",
-  "bestTimeToVisit": "Tagsüber bei klarem Licht.",
-  "audioGuide": "nein"
+  "publicTransport": {
+    "de": "PKW von Târgoviște aus empfohlen.",
+    "hu": "Târgoviștéből autóval javasolt.",
+    "ro": "Recomandat cu mașina din Târgoviște.",
+    "en": "Recommended by car from Târgoviște."
+  },
+  "parking": {
+    "de": "Parken am Straßenrand.",
+    "hu": "Parkolás az út szélén.",
+    "ro": "Parcare pe marginea drumului.",
+    "en": "Roadside parking."
+  },
+  "accessibility": {
+    "de": "Nicht barrierefrei.",
+    "hu": "Nem akadálymentes.",
+    "ro": "Nu este accesibil.",
+    "en": "Not accessible."
+  },
+  "photoRules": {
+    "de": "Außenaufnahmen erlaubt.",
+    "hu": "Külső fotók engedélyezettek.",
+    "ro": "Fotografierea la exterior este permisă.",
+    "en": "Exterior photography allowed."
+  },
+  "bestTimeToVisit": {
+    "de": "Tagsüber bei klarem Licht.",
+    "hu": "Napközben, tiszta fényviszonyok mellett.",
+    "ro": "În timpul zilei, în lumină clară.",
+    "en": "During the day in clear light."
+  },
+  "audioGuide": {
+    "de": "nein",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

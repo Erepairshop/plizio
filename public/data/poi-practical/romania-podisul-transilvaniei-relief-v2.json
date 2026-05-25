@@ -1,12 +1,57 @@
 {
-  "address": "Zentralrumänien (Siebenbürgen)",
-  "openingHours": "24/7",
-  "entranceFee": "kostenlos",
+  "address": {
+    "de": "Zentralrumänien (Siebenbürgen)",
+    "hu": "Közép-Románia (Erdély)",
+    "ro": "Centrul României (Transilvania)",
+    "en": "Central Romania (Transylvania)"
+  },
+  "openingHours": {
+    "de": "24/7",
+    "hu": "24/7",
+    "ro": "24/7",
+    "en": "24/7"
+  },
+  "entranceFee": {
+    "de": "kostenlos",
+    "hu": "ingyenes",
+    "ro": "gratuit",
+    "en": "free"
+  },
   "website": "",
-  "publicTransport": "Bahnhöfe in Mediasch, Sighisoara oder Târgu Mureș.",
-  "parking": "An öffentlichen Straßen in den Ortschaften.",
-  "accessibility": "Hügeliges Gelände, nur bedingt barrierefrei.",
-  "photoRules": "Erlaubt, Drohnenflüge unterliegen den nationalen Bestimmungen.",
-  "bestTimeToVisit": "Spätsommer für die Erntezeit in den Dörfern.",
-  "audioGuide": "nein"
+  "publicTransport": {
+    "de": "Bahnhöfe in Mediasch, Sighisoara oder Târgu Mureș.",
+    "hu": "Vasútállomások Medgyesen, Segesváron vagy Marosvásárhelyen.",
+    "ro": "Gări în Mediaș, Sighișoara sau Târgu Mureș.",
+    "en": "Train stations in Mediaș, Sighișoara or Târgu Mureș."
+  },
+  "parking": {
+    "de": "An öffentlichen Straßen in den Ortschaften.",
+    "hu": "A falvakban az utcákon.",
+    "ro": "Pe drumurile publice din localități.",
+    "en": "On public roads in the villages."
+  },
+  "accessibility": {
+    "de": "Hügeliges Gelände, nur bedingt barrierefrei.",
+    "hu": "Dombos terület, csak korlátozottan akadálymentes.",
+    "ro": "Teren deluros, accesibilitate limitată.",
+    "en": "Hilly terrain, only partially accessible."
+  },
+  "photoRules": {
+    "de": "Erlaubt, Drohnenflüge unterliegen den nationalen Bestimmungen.",
+    "hu": "Engedélyezett, a drónozásra a nemzeti előírások vonatkoznak.",
+    "ro": "Permis, zborurile cu drone sunt supuse reglementărilor naționale.",
+    "en": "Allowed, drone flights are subject to national regulations."
+  },
+  "bestTimeToVisit": {
+    "de": "Spätsommer für die Erntezeit in den Dörfern.",
+    "hu": "Késő nyár, a falusi aratás idején.",
+    "ro": "Sfârșitul verii, pentru perioada recoltării în sate.",
+    "en": "Late summer for the harvest season in the villages."
+  },
+  "audioGuide": {
+    "de": "nein",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

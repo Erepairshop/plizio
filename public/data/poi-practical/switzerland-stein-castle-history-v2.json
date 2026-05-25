@@ -1,12 +1,57 @@
 {
-  "address": "Schlossweg, 5400 Baden",
-  "openingHours": "24/7",
-  "entranceFee": "kostenlos",
+  "address": {
+    "de": "Schlossweg, 5400 Baden",
+    "hu": "Schlossweg, 5400 Baden",
+    "ro": "Schlossweg, 5400 Baden",
+    "en": "Schlossweg, 5400 Baden"
+  },
+  "openingHours": {
+    "de": "24/7",
+    "hu": "0-24",
+    "ro": "0-24",
+    "en": "24/7"
+  },
+  "entranceFee": {
+    "de": "kostenlos",
+    "hu": "ingyenes",
+    "ro": "gratuit",
+    "en": "free"
+  },
   "website": "https://www.baden.ch/",
-  "publicTransport": "Buslinien 1, 2, 3, 4, 7 bis Schlossbergplatz, danach ca. 10 Min. Aufstieg.",
-  "parking": "Parkhaus Ländli oder Parkhaus Theaterplatz in Baden (ca. CHF 2.50/Std.).",
-  "accessibility": "Aufgrund vieler Treppen und steiler Pfade nicht für Rollstühle geeignet.",
-  "photoRules": "Drohnenaufnahmen sind aufgrund der Nähe zum Siedlungsgebiet eingeschränkt, normales Fotografieren erlaubt.",
-  "bestTimeToVisit": "Zum Sonnenuntergang für einen Panoramablick über die Badener Altstadt und die Limmat.",
-  "audioGuide": "no"
+  "publicTransport": {
+    "de": "Buslinien 1, 2, 3, 4, 7 bis Schlossbergplatz, danach ca. 10 Min. Aufstieg.",
+    "hu": "1, 2, 3, 4, 7-es busz a Schlossbergplatzra, majd kb. 10 perc séta felfelé.",
+    "ro": "Autobuzele 1, 2, 3, 4, 7 până la Schlossbergplatz, apoi aprox. 10 min. de urcare.",
+    "en": "Bus lines 1, 2, 3, 4, 7 to Schlossbergplatz, then approx. 10 min. ascent."
+  },
+  "parking": {
+    "de": "Parkhaus Ländli oder Parkhaus Theaterplatz in Baden (ca. CHF 2.50/Std.).",
+    "hu": "Ländli vagy Theaterplatz parkolóház Badenben (kb. 2,50 CHF/óra).",
+    "ro": "Parcarea Ländli sau Theaterplatz în Baden (aprox. 2,50 CHF/oră).",
+    "en": "Ländli or Theaterplatz parking in Baden (approx. 2.50 CHF/hr)."
+  },
+  "accessibility": {
+    "de": "Aufgrund vieler Treppen und steiler Pfade nicht für Rollstühle geeignet.",
+    "hu": "A sok lépcső és meredek ösvény miatt nem kerekes székeseknek való.",
+    "ro": "Nu este adecvat pentru scaune cu rotile din cauza scărilor și potecilor abrupte.",
+    "en": "Not suitable for wheelchairs due to many stairs and steep paths."
+  },
+  "photoRules": {
+    "de": "Drohnenaufnahmen sind aufgrund der Nähe zum Siedlungsgebiet eingeschränkt, normales Fotografieren erlaubt.",
+    "hu": "Drónhasználat a lakott terület közelsége miatt korlátozott, normál fotózás engedélyezett.",
+    "ro": "Filmarea cu drona restricționată din cauza apropierii de zone rezidențiale, fotografiatul permis.",
+    "en": "Drone photography restricted due to proximity to residential areas; standard photography allowed."
+  },
+  "bestTimeToVisit": {
+    "de": "Zum Sonnenuntergang für einen Panoramablick über die Badener Altstadt und die Limmat.",
+    "hu": "Napnyugtakor a Baden óvárosára és a Limmatra nyíló panorámáért.",
+    "ro": "La apus pentru o vedere panoramică asupra orașului vechi Baden și a Limmat-ului.",
+    "en": "At sunset for a panoramic view of Baden's old town and the Limmat."
+  },
+  "audioGuide": {
+    "de": "no",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

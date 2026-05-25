@@ -1,12 +1,57 @@
 {
-  "address": "Egyetem tér 1, 4032 Debrecen",
-  "openingHours": "Mo-Fr 08:00-20:00 (Hauptgebäude)",
-  "entranceFee": "kostenlos",
+  "address": {
+    "de": "Egyetem tér 1, 4032 Debrecen",
+    "hu": "Egyetem tér 1, 4032 Debrecen",
+    "ro": "Egyetem tér 1, 4032 Debrecen",
+    "en": "Egyetem tér 1, 4032 Debrecen"
+  },
+  "openingHours": {
+    "de": "Mo-Fr 08:00-20:00 (Hauptgebäude)",
+    "hu": "H-P 08:00-20:00 (főépület)",
+    "ro": "Lu-Vi 08:00-20:00 (clădirea principală)",
+    "en": "Mon-Fri 08:00-20:00 (main building)"
+  },
+  "entranceFee": {
+    "de": "kostenlos",
+    "hu": "ingyenes",
+    "ro": "gratuit",
+    "en": "free"
+  },
   "website": "https://unideb.hu/",
-  "publicTransport": "Strassenbahnlinie 1 ab Hauptbahnhof bis zur Endstation Egyetem.",
-  "parking": "Gebührenpflichtige Parkzonen rund um den Grossen Wald (Nagyerdei körút).",
-  "accessibility": "Das Hauptgebäude ist über Rampen und Aufzüge vollständig barrierefrei zugänglich.",
-  "photoRules": "In der Aula und im Park erlaubt; in Vorlesungssälen untersagt.",
-  "bestTimeToVisit": "Während der Vorlesungszeit (Sept-Mai), um das Campus-Leben zu spüren.",
-  "audioGuide": "no"
+  "publicTransport": {
+    "de": "Strassenbahnlinie 1 ab Hauptbahnhof bis zur Endstation Egyetem.",
+    "hu": "1-es villamos a főpályaudvartól az Egyetem végállomásig.",
+    "ro": "Linia de tramvai 1 din gară până la stația terminus Egyetem.",
+    "en": "Tram line 1 from the main railway station to the final stop Egyetem."
+  },
+  "parking": {
+    "de": "Gebührenpflichtige Parkzonen rund um den Grossen Wald (Nagyerdei körút).",
+    "hu": "Fizetős parkolási zónák a Nagyerdő körül (Nagyerdei körút).",
+    "ro": "Zone de parcare cu plată în jurul pădurii Nagyerdei (Nagyerdei körút).",
+    "en": "Paid parking zones around the Great Forest (Nagyerdei körút)."
+  },
+  "accessibility": {
+    "de": "Das Hauptgebäude ist über Rampen und Aufzüge vollständig barrierefrei zugänglich.",
+    "hu": "A főépület rámpákon és lifteken keresztül teljesen akadálymentesen megközelíthető.",
+    "ro": "Clădirea principală este complet accesibilă prin rampe și lifturi.",
+    "en": "The main building is fully accessible via ramps and elevators."
+  },
+  "photoRules": {
+    "de": "In der Aula und im Park erlaubt; in Vorlesungssälen untersagt.",
+    "hu": "Az aulában és a parkban engedélyezett; előadótermekben tilos.",
+    "ro": "Permis în aulă și în parc; interzis în sălile de curs.",
+    "en": "Allowed in the assembly hall and park; prohibited in lecture halls."
+  },
+  "bestTimeToVisit": {
+    "de": "Während der Vorlesungszeit (Sept-Mai), um das Campus-Leben zu spüren.",
+    "hu": "Szorgalmi időszakban (szept-máj), az egyetemi élet megtapasztalásáért.",
+    "ro": "În timpul semestrului (sept-mai) pentru a simți viața din campus.",
+    "en": "During term time (Sept-May) to feel the campus life."
+  },
+  "audioGuide": {
+    "de": "no",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

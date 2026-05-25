@@ -1,12 +1,57 @@
 {
-  "address": "Piața Unirii, 300085 Timișoara",
-  "openingHours": "24/7",
-  "entranceFee": "kostenlos",
+  "address": {
+    "de": "Piața Unirii, 300085 Timișoara",
+    "hu": "Piața Unirii, 300085 Temesvár",
+    "ro": "Piața Unirii, 300085 Timișoara",
+    "en": "Piața Unirii, 300085 Timișoara"
+  },
+  "openingHours": {
+    "de": "24/7",
+    "hu": "Non-stop",
+    "ro": "Non-stop",
+    "en": "24/7"
+  },
+  "entranceFee": {
+    "de": "kostenlos",
+    "hu": "ingyenes",
+    "ro": "gratuit",
+    "en": "free"
+  },
   "website": "https://www.primariatm.ro",
-  "publicTransport": "Straßenbahnlinien 1, 2, 4 bis Haltestelle Piața Libertății (5 Min. Fußweg)",
-  "parking": "Parkplatz 'Piața 700' ca. 7 Min. Fußweg entfernt (ca. 3 RON/Std.)",
-  "accessibility": "Barrierefrei, ebenerdiges Pflaster in weiten Teilen des Platzes",
-  "photoRules": "Frei erlaubt; Drohnenflüge in der Innenstadt strikt kontrolliert",
-  "bestTimeToVisit": "Vormittags für das Licht auf der katholischen Dom-Fassade",
-  "audioGuide": "nein"
+  "publicTransport": {
+    "de": "Straßenbahnlinien 1, 2, 4 bis Haltestelle Piața Libertății (5 Min. Fußweg)",
+    "hu": "1, 2, 4-es villamos a Piața Libertății megállóig (5 perc séta)",
+    "ro": "Liniile de tramvai 1, 2, 4 până la stația Piața Libertății (5 min. de mers pe jos)",
+    "en": "Tram lines 1, 2, 4 to Piața Libertății station (5 min. walk)"
+  },
+  "parking": {
+    "de": "Parkplatz 'Piața 700' ca. 7 Min. Fußweg entfernt (ca. 3 RON/Std.)",
+    "hu": "'Piața 700' parkoló kb. 7 perc sétára (kb. 3 RON/óra)",
+    "ro": "Parcarea 'Piața 700' la aprox. 7 min. de mers pe jos (aprox. 3 RON/oră)",
+    "en": "Parking 'Piața 700' approx. 7 min. walk away (approx. 3 RON/hr)"
+  },
+  "accessibility": {
+    "de": "Barrierefrei, ebenerdiges Pflaster in weiten Teilen des Platzes",
+    "hu": "Akadálymentesített, sík burkolat a tér nagy részén",
+    "ro": "Accesibil, pavaj plat în mare parte din piață",
+    "en": "Accessible, flat pavement in large parts of the square"
+  },
+  "photoRules": {
+    "de": "Frei erlaubt; Drohnenflüge in der Innenstadt strikt kontrolliert",
+    "hu": "Szabadon fényképezhető; drónreptetés a belvárosban szigorúan ellenőrzött",
+    "ro": "Permis liber; zborurile cu drona în centrul orașului sunt strict controlate",
+    "en": "Freely allowed; drone flights in the city center are strictly controlled"
+  },
+  "bestTimeToVisit": {
+    "de": "Vormittags für das Licht auf der katholischen Dom-Fassade",
+    "hu": "Délelőtt, a katolikus székesegyház homlokzatát érő fény miatt",
+    "ro": "Dimineața pentru lumina pe fațada domului catolic",
+    "en": "Mornings for the light on the Catholic cathedral facade"
+  },
+  "audioGuide": {
+    "de": "nein",
+    "hu": "nem",
+    "ro": "nu",
+    "en": "no"
+  }
 }

@@ -1,12 +1,57 @@
 {
-  "address": "Cotswolds AONB, Gloucestershire/Oxfordshire",
-  "openingHours": "24/7",
-  "entranceFee": "free",
+  "address": {
+    "de": "Cotswolds AONB, Gloucestershire/Oxfordshire",
+    "hu": "Cotswolds AONB, Gloucestershire/Oxfordshire",
+    "ro": "Cotswolds AONB, Gloucestershire/Oxfordshire",
+    "en": "Cotswolds AONB, Gloucestershire/Oxfordshire"
+  },
+  "openingHours": {
+    "de": "24/7",
+    "hu": "0-24",
+    "ro": "Non-stop",
+    "en": "24/7"
+  },
+  "entranceFee": {
+    "de": "free",
+    "hu": "ingyenes",
+    "ro": "gratuit",
+    "en": "free"
+  },
   "website": "https://www.cotswolds.com",
-  "publicTransport": "Zug nach Moreton-in-Marsh, dann lokale Busse (Hedgehog Bus)",
-  "parking": "In Dörfern wie Bourton-on-the-Water oft knapp und kostenpflichtig.",
-  "accessibility": "Dörfer meist gut begehbar, Wanderwege oft uneben und mit Gattern (Stiles).",
-  "photoRules": "Überall im Freien erlaubt, Privatgrundstücke beachten.",
-  "bestTimeToVisit": "Juni für blühende Gärten oder September für die herbstliche Färbung.",
-  "audioGuide": "no"
+  "publicTransport": {
+    "de": "Zug nach Moreton-in-Marsh, dann lokale Busse (Hedgehog Bus)",
+    "hu": "Vonat Moreton-in-Marshbe, majd helyi buszok (Hedgehog Bus)",
+    "ro": "Tren până la Moreton-in-Marsh, apoi autobuze locale (Hedgehog Bus)",
+    "en": "Train to Moreton-in-Marsh, then local buses (Hedgehog Bus)"
+  },
+  "parking": {
+    "de": "In Dörfern wie Bourton-on-the-Water oft knapp und kostenpflichtig.",
+    "hu": "Bourton-on-the-Waterhoz hasonló falvakban gyakran kevés és fizetős.",
+    "ro": "În sate precum Bourton-on-the-Water, adesea limitată și cu plată.",
+    "en": "In villages like Bourton-on-the-Water often scarce and paid."
+  },
+  "accessibility": {
+    "de": "Dörfer meist gut begehbar, Wanderwege oft uneben und mit Gattern (Stiles).",
+    "hu": "A falvak többnyire jól járhatók, a túraútvonalak gyakran egyenetlenek és létrás kapukkal (stiles) ellátottak.",
+    "ro": "Satele sunt de obicei ușor de parcurs, traseele de drumeție adesea denivelate și cu bariere (stiles).",
+    "en": "Villages mostly walkable, hiking trails often uneven and with stiles."
+  },
+  "photoRules": {
+    "de": "Überall im Freien erlaubt, Privatgrundstücke beachten.",
+    "hu": "A szabadban mindenhol engedélyezett, ügyeljen a magántulajdonra.",
+    "ro": "Permis oriunde în aer liber, atenție la proprietățile private.",
+    "en": "Allowed everywhere outdoors, respect private property."
+  },
+  "bestTimeToVisit": {
+    "de": "Juni für blühende Gärten oder September für die herbstliche Färbung.",
+    "hu": "Június a virágzó kertekért vagy szeptember az őszi színekért.",
+    "ro": "Iunie pentru grădini înflorite sau septembrie pentru culorile toamnei.",
+    "en": "June for blooming gardens or September for autumn colors."
+  },
+  "audioGuide": {
+    "de": "no",
+    "hu": "nem",
+    "ro": "nu",
+    "en": "no"
+  }
 }

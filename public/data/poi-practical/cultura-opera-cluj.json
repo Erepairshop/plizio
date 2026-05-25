@@ -1,12 +1,57 @@
 {
-  "address": "Piața Ștefan cel Mare 24, 400133 Cluj-Napoca",
-  "openingHours": "Kasse Mo-Fr 11:00-17:00, Vorstellungen meist ab 18:30",
-  "entranceFee": "20-100 RON je nach Vorstellung und Platzkategorie",
+  "address": {
+    "de": "Piața Ștefan cel Mare 24, 400133 Cluj-Napoca",
+    "hu": "Piața Ștefan cel Mare 24, 400133 Kolozsvár",
+    "ro": "Piața Ștefan cel Mare 24, 400133 Cluj-Napoca",
+    "en": "24 Piața Ștefan cel Mare, 400133 Cluj-Napoca"
+  },
+  "openingHours": {
+    "de": "Kasse Mo-Fr 11:00-17:00, Vorstellungen meist ab 18:30",
+    "hu": "Pénztár H-P 11:00-17:00, az előadások általában 18:30-kor kezdődnek",
+    "ro": "Casierie Lu-Vi 11:00-17:00, spectacole de regulă de la 18:30",
+    "en": "Ticket office Mon-Fri 11:00-17:00, performances mostly starting at 18:30"
+  },
+  "entranceFee": {
+    "de": "20-100 RON je nach Vorstellung und Platzkategorie",
+    "hu": "20-100 RON az előadástól és a helykategóriától függően",
+    "ro": "20-100 RON în funcție de spectacol și categoria locului",
+    "en": "20-100 RON depending on the performance and seat category"
+  },
   "website": "https://operanationalacluj.ro/",
-  "publicTransport": "Oberleitungsbusse 6, 7, 25 (Haltestelle Piața Avram Iancu)",
-  "parking": "Parken am Piața Avram Iancu (kostenpflichtig) oder Parkhaus am Rathaus.",
-  "accessibility": "Zugang zum Parterre barrierefrei, Logen/Ränge nur über Treppen.",
-  "photoRules": "Während der Vorstellung streng verboten; im Foyer erlaubt.",
-  "bestTimeToVisit": "Besuch einer Abendvorstellung; Abendgarderobe wird empfohlen.",
-  "audioGuide": "no"
+  "publicTransport": {
+    "de": "Oberleitungsbusse 6, 7, 25 (Haltestelle Piața Avram Iancu)",
+    "hu": "6, 7, 25-ös trolibuszok (Piața Avram Iancu megálló)",
+    "ro": "Troleibuzele 6, 7, 25 (stația Piața Avram Iancu)",
+    "en": "Trolleybuses 6, 7, 25 (Piața Avram Iancu station)"
+  },
+  "parking": {
+    "de": "Parken am Piața Avram Iancu (kostenpflichtig) oder Parkhaus am Rathaus.",
+    "hu": "Parkolás a Piața Avram Iancunál (fizetős) vagy a városházi parkolóházban.",
+    "ro": "Parcare în Piața Avram Iancu (cu plată) sau parcare etajată la Primărie.",
+    "en": "Parking at Piața Avram Iancu (fee applies) or the City Hall parking garage."
+  },
+  "accessibility": {
+    "de": "Zugang zum Parterre barrierefrei, Logen/Ränge nur über Treppen.",
+    "hu": "A földszinti bejutás akadálymentes, a páholyok és erkélyek csak lépcsőn érhetők el.",
+    "ro": "Accesul la parter este fără bariere, lojele/balcoanele pot fi accesate doar pe scări.",
+    "en": "Ground floor access is barrier-free, boxes/galleries only accessible via stairs."
+  },
+  "photoRules": {
+    "de": "Während der Vorstellung streng verboten; im Foyer erlaubt.",
+    "hu": "Az előadás alatt szigorúan tilos; az előtérben megengedett.",
+    "ro": "Strict interzis în timpul spectacolului; permis în foaier.",
+    "en": "Strictly forbidden during the performance; allowed in the foyer."
+  },
+  "bestTimeToVisit": {
+    "de": "Besuch einer Abendvorstellung; Abendgarderobe wird empfohlen.",
+    "hu": "Látogasson el egy esti előadásra; alkalmi öltözet ajánlott.",
+    "ro": "Vizitați un spectacol de seară; se recomandă ținuta de seară.",
+    "en": "Visit an evening performance; evening wear is recommended."
+  },
+  "audioGuide": {
+    "de": "no",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

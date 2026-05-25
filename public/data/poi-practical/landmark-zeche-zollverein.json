@@ -1,12 +1,57 @@
 {
-  "address": "Gelsenkirchener Str. 181, 45309 Essen",
-  "openingHours": "Mo-So 10:00-18:00 (Ruhr Museum)",
-  "entranceFee": "Gelände kostenlos, Ruhr Museum €10.00",
+  "address": {
+    "de": "Gelsenkirchener Str. 181, 45309 Essen",
+    "hu": "Gelsenkirchener Str. 181, 45309 Essen",
+    "ro": "Gelsenkirchener Str. 181, 45309 Essen",
+    "en": "Gelsenkirchener Str. 181, 45309 Essen"
+  },
+  "openingHours": {
+    "de": "Mo-So 10:00-18:00 (Ruhr Museum)",
+    "hu": "H-V 10:00-18:00 (Ruhr Múzeum)",
+    "ro": "Lu-Dum 10:00-18:00 (Muzeul Ruhr)",
+    "en": "Mon-Sun 10:00-18:00 (Ruhr Museum)"
+  },
+  "entranceFee": {
+    "de": "Gelände kostenlos, Ruhr Museum €10.00",
+    "hu": "A terület ingyenes, Ruhr Múzeum 10,00 €",
+    "ro": "Accesul în incintă gratuit, Muzeul Ruhr 10,00 €",
+    "en": "Site free, Ruhr Museum €10.00"
+  },
   "website": "https://www.zollverein.de",
-  "publicTransport": "Straßenbahn 107 bis Haltestelle Zollverein",
-  "parking": "Kostenlose Parkplätze A1, A2 und B vorhanden.",
-  "accessibility": "Gelände weitgehend barrierefrei, Museum voll zugänglich.",
-  "photoRules": "Privat erlaubt, für kommerzielle Zwecke Genehmigung nötig.",
-  "bestTimeToVisit": "Blaue Stunde für die Beleuchtung der markanten Architektur.",
-  "audioGuide": "Deutsch, Englisch, Französisch über App."
+  "publicTransport": {
+    "de": "Straßenbahn 107 bis Haltestelle Zollverein",
+    "hu": "107-es villamos a Zollverein megállóig",
+    "ro": "Tramvai 107 până la stația Zollverein",
+    "en": "Tram 107 to Zollverein stop"
+  },
+  "parking": {
+    "de": "Kostenlose Parkplätze A1, A2 und B vorhanden.",
+    "hu": "Ingyenes A1, A2 és B parkolók állnak rendelkezésre.",
+    "ro": "Parcări gratuite A1, A2 și B disponibile.",
+    "en": "Free parking lots A1, A2 and B available."
+  },
+  "accessibility": {
+    "de": "Gelände weitgehend barrierefrei, Museum voll zugänglich.",
+    "hu": "A terület nagyrészt akadálymentesített, a múzeum teljesen elérhető.",
+    "ro": "Teren în mare parte accesibil, muzeul este complet accesibil.",
+    "en": "Site largely accessible, museum fully accessible."
+  },
+  "photoRules": {
+    "de": "Privat erlaubt, für kommerzielle Zwecke Genehmigung nötig.",
+    "hu": "Magáncélra engedélyezett, kereskedelmi célra engedély szükséges.",
+    "ro": "Permis pentru uz personal, este necesară aprobare pentru uz comercial.",
+    "en": "Allowed for private use, authorization required for commercial purposes."
+  },
+  "bestTimeToVisit": {
+    "de": "Blaue Stunde für die Beleuchtung der markanten Architektur.",
+    "hu": "Kék óra, a jellegzetes építészet kivilágításához.",
+    "ro": "Ora albastră, pentru iluminarea arhitecturii distinctive.",
+    "en": "Blue hour for the lighting of the striking architecture."
+  },
+  "audioGuide": {
+    "de": "Deutsch, Englisch, Französisch über App.",
+    "hu": "Német, angol, francia az alkalmazáson keresztül.",
+    "ro": "Germană, engleză, franceză prin aplicație.",
+    "en": "German, English, French via app."
+  }
 }

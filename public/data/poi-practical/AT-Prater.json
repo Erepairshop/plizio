@@ -1,12 +1,57 @@
 {
-  "address": "Riesenradplatz 1, 1020 Wien",
-  "openingHours": "24/7",
-  "entranceFee": "free",
+  "address": {
+    "de": "Riesenradplatz 1, 1020 Wien",
+    "hu": "Riesenradplatz 1, 1020 Bécs",
+    "ro": "Riesenradplatz 1, 1020 Viena",
+    "en": "Riesenradplatz 1, 1020 Vienna"
+  },
+  "openingHours": {
+    "de": "24/7",
+    "hu": "24/7 (folyamatosan)",
+    "ro": "24/7",
+    "en": "24/7"
+  },
+  "entranceFee": {
+    "de": "free",
+    "hu": "ingyenes",
+    "ro": "gratuit",
+    "en": "free"
+  },
   "website": "https://www.praterwien.com",
-  "publicTransport": "U1, U2 oder S-Bahn bis Station Praterstern",
-  "parking": "Parkhaus Prater / Ausstellungsstraße, ca. €4 pro Stunde.",
-  "accessibility": "Das Pratergelände ist vollkommen flach und barrierefrei zugänglich.",
-  "photoRules": "Fotografieren auf dem Gelände erlaubt, Einzelfahrgeschäfte haben eigene Regeln.",
-  "bestTimeToVisit": "In den Abendstunden, wenn die bunten Lichter der Attraktionen leuchten.",
-  "audioGuide": "no"
+  "publicTransport": {
+    "de": "U1, U2 oder S-Bahn bis Station Praterstern",
+    "hu": "U1, U2 metró vagy gyorsvasút (S-Bahn) Praterstern állomásig",
+    "ro": "Metrou U1, U2 sau tren suburban (S-Bahn) până la stația Praterstern",
+    "en": "Metro U1, U2 or S-Bahn to Praterstern station"
+  },
+  "parking": {
+    "de": "Parkhaus Prater / Ausstellungsstraße, ca. €4 pro Stunde.",
+    "hu": "Prater / Ausstellungsstraße parkolóház, kb. 4 € óránként.",
+    "ro": "Garajul Prater / Ausstellungsstraße, aprox. 4 € pe oră.",
+    "en": "Prater / Ausstellungsstraße parking garage, approx. €4 per hour."
+  },
+  "accessibility": {
+    "de": "Das Pratergelände ist vollkommen flach und barrierefrei zugänglich.",
+    "hu": "A Prater területe teljesen sík és akadálymentesen hozzáférhető.",
+    "ro": "Terenul Prater este complet plat și accesibil fără bariere.",
+    "en": "The Prater grounds are completely flat and barrier-free."
+  },
+  "photoRules": {
+    "de": "Fotografieren auf dem Gelände erlaubt, Einzelfahrgeschäfte haben eigene Regeln.",
+    "hu": "A területen szabad fotózni, az egyes játékoknak saját szabályaik vannak.",
+    "ro": "Fotografierea pe teren este permisă, atracțiile individuale au reguli proprii.",
+    "en": "Photography on the grounds allowed; individual rides have their own rules."
+  },
+  "bestTimeToVisit": {
+    "de": "In den Abendstunden, wenn die bunten Lichter der Attraktionen leuchten.",
+    "hu": "Az esti órákban, amikor a látványosságok színes fényei világítanak.",
+    "ro": "În orele serii, când luminile colorate ale atracțiilor strălucesc.",
+    "en": "In the evening hours when the colorful lights of the attractions shine."
+  },
+  "audioGuide": {
+    "de": "no",
+    "hu": "nem elérhető",
+    "ro": "nu",
+    "en": "no"
+  }
 }

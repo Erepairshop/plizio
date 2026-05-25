@@ -1,12 +1,57 @@
 {
-  "address": "Strada Peșterii, 217075 Baia de Fier, Gorj",
-  "openingHours": "Mo-Su 09:00-19:00 (Sommer), 09:00-17:00 (Winter)",
-  "entranceFee": "20 RON Erwachsene, 10 RON Kinder",
+  "address": {
+    "de": "Strada Peșterii, 217075 Baia de Fier, Gorj",
+    "hu": "Strada Peșterii, 217075 Baia de Fier, Gorj",
+    "ro": "Strada Peșterii, 217075 Baia de Fier, Gorj",
+    "en": "Strada Peșterii, 217075 Baia de Fier, Gorj"
+  },
+  "openingHours": {
+    "de": "Mo-Su 09:00-19:00 (Sommer), 09:00-17:00 (Winter)",
+    "hu": "H-V 09:00-19:00 (nyár), 09:00-17:00 (tél)",
+    "ro": "Lu-Du 09:00-19:00 (vară), 09:00-17:00 (iarnă)",
+    "en": "Mon-Sun 09:00-19:00 (summer), 09:00-17:00 (winter)"
+  },
+  "entranceFee": {
+    "de": "20 RON Erwachsene, 10 RON Kinder",
+    "hu": "20 RON felnőttek, 10 RON gyerekek",
+    "ro": "20 RON adulți, 10 RON copii",
+    "en": "20 RON adults, 10 RON children"
+  },
   "website": "",
-  "publicTransport": "Bus von Târgu Jiu nach Baia de Fier, dann ca. 20 Min. Fußweg",
-  "parking": "Parkplatz direkt vor dem Höhleneingang, ca. 5 RON",
-  "accessibility": "Nicht barrierefrei; teils niedrige Decken (Bücken notwendig) und Treppen",
-  "photoRules": "Erlaubt; Fotografieren ohne Blitz zum Schutz der Fledermäuse",
-  "bestTimeToVisit": "Vormittags unter der Woche; konstante Innentemperatur von ca. 7°C",
-  "audioGuide": "no"
+  "publicTransport": {
+    "de": "Bus von Târgu Jiu nach Baia de Fier, dann ca. 20 Min. Fußweg",
+    "hu": "Busz Târgu Jiu-ból Baia de Fier-be, majd kb. 20 perc séta",
+    "ro": "Autobuz din Târgu Jiu până la Baia de Fier, apoi cca. 20 min. de mers pe jos",
+    "en": "Bus from Târgu Jiu to Baia de Fier, then approx. 20 min. walk"
+  },
+  "parking": {
+    "de": "Parkplatz direkt vor dem Höhleneingang, ca. 5 RON",
+    "hu": "Parkoló közvetlenül a barlang bejárata előtt, kb. 5 RON",
+    "ro": "Parcare chiar în fața intrării în peșteră, cca. 5 RON",
+    "en": "Parking lot right in front of the cave entrance, approx. 5 RON"
+  },
+  "accessibility": {
+    "de": "Nicht barrierefrei; teils niedrige Decken (Bücken notwendig) und Treppen",
+    "hu": "Nem akadálymentes; helyenként alacsony mennyezet (hajolás szükséges) és lépcsők",
+    "ro": "Nu este accesibil; plafoane parțial joase (necesită aplecare) și trepte",
+    "en": "Not accessible; partly low ceilings (bending required) and stairs"
+  },
+  "photoRules": {
+    "de": "Erlaubt; Fotografieren ohne Blitz zum Schutz der Fledermäuse",
+    "hu": "Engedélyezett; vaku nélküli fényképezés a denevérek védelme érdekében",
+    "ro": "Permis; fotografiere fără bliț pentru protejarea liliecilor",
+    "en": "Allowed; photography without flash to protect the bats"
+  },
+  "bestTimeToVisit": {
+    "de": "Vormittags unter der Woche; konstante Innentemperatur von ca. 7°C",
+    "hu": "Délelőtt hétköznap; állandó belső hőmérséklet kb. 7°C",
+    "ro": "Dimineața în timpul săptămânii; temperatură interioară constantă de cca. 7°C",
+    "en": "Mornings on weekdays; constant interior temperature of approx. 7°C"
+  },
+  "audioGuide": {
+    "de": "no",
+    "hu": "nem",
+    "ro": "nu",
+    "en": "no"
+  }
 }

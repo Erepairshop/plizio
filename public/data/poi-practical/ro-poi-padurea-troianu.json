@@ -1,12 +1,57 @@
 {
-  "address": "Strada Troianu, 140001 Alexandria",
-  "openingHours": "24/7",
-  "entranceFee": "free",
+  "address": {
+    "de": "Strada Troianu, 140001 Alexandria",
+    "hu": "Strada Troianu, 140001 Alexandria",
+    "ro": "Strada Troianu, 140001 Alexandria",
+    "en": "Strada Troianu, 140001 Alexandria"
+  },
+  "openingHours": {
+    "de": "24/7",
+    "hu": "24/7",
+    "ro": "24/7",
+    "en": "24/7"
+  },
+  "entranceFee": {
+    "de": "free",
+    "hu": "ingyenes",
+    "ro": "gratuit",
+    "en": "free"
+  },
   "website": "",
-  "publicTransport": "Lokale Buslinien innerhalb Alexandrias, Halt Troianu.",
-  "parking": "Kostenlose Parkplätze am Waldrand vorhanden.",
-  "accessibility": "Waldwege, für Rollstühle nur bei trockenem Wetter geeignet.",
-  "photoRules": "Erlaubt, Naturfotografie im Fokus.",
-  "bestTimeToVisit": "Frühling (Mai) wegen der blühenden Pfingstrosen.",
-  "audioGuide": "no"
+  "publicTransport": {
+    "de": "Lokale Buslinien innerhalb Alexandrias, Halt Troianu.",
+    "hu": "Helyi buszjáratok Alexandria területén, Megálló: Troianu.",
+    "ro": "Linii locale de autobuz în Alexandria, stația Troianu.",
+    "en": "Local bus lines within Alexandria, stop: Troianu."
+  },
+  "parking": {
+    "de": "Kostenlose Parkplätze am Waldrand vorhanden.",
+    "hu": "Ingyenes parkoló az erdő szélén.",
+    "ro": "Parcare gratuită disponibilă la marginea pădurii.",
+    "en": "Free parking available at the forest edge."
+  },
+  "accessibility": {
+    "de": "Waldwege, für Rollstühle nur bei trockenem Wetter geeignet.",
+    "hu": "Erdei utak, kerekesszékkel csak száraz időben használható.",
+    "ro": "Trasee forestiere, potrivite pentru scaune cu rotile doar pe timp uscat.",
+    "en": "Forest paths, suitable for wheelchairs only in dry weather."
+  },
+  "photoRules": {
+    "de": "Erlaubt, Naturfotografie im Fokus.",
+    "hu": "Engedélyezett, természetfotózásra fókuszálva.",
+    "ro": "Permis, axat pe fotografia de natură.",
+    "en": "Permitted, focused on nature photography."
+  },
+  "bestTimeToVisit": {
+    "de": "Frühling (Mai) wegen der blühenden Pfingstrosen.",
+    "hu": "Tavasz (május) a virágzó bazsarózsák miatt.",
+    "ro": "Primăvara (mai) datorită bujorilor înfloriți.",
+    "en": "Spring (May) for the blooming peonies."
+  },
+  "audioGuide": {
+    "de": "no",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

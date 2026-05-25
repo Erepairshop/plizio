@@ -1,12 +1,57 @@
 {
-  "address": "Piața Mare 4-5, 550163 Sibiu",
-  "openingHours": "Di-So 09:00-17:00, Mo geschlossen",
-  "entranceFee": "32 RON Erwachsene (Palais), Kombitickets bis 60 RON",
+  "address": {
+    "de": "Piața Mare 4-5, 550163 Sibiu",
+    "hu": "Piața Mare 4-5, 550163 Nagyszeben",
+    "ro": "Piața Mare 4-5, 550163 Sibiu",
+    "en": "4-5 Piața Mare, 550163 Sibiu"
+  },
+  "openingHours": {
+    "de": "Di-So 09:00-17:00, Mo geschlossen",
+    "hu": "K-V 09:00-17:00, hétfőn zárva",
+    "ro": "Ma-Du 09:00-17:00, Luni închis",
+    "en": "Tue-Sun 09:00-17:00, closed Mondays"
+  },
+  "entranceFee": {
+    "de": "32 RON Erwachsene (Palais), Kombitickets bis 60 RON",
+    "hu": "32 RON felnőtt (palota), kombinált jegyek 60 RON-ig",
+    "ro": "32 RON adulți (Palatul), bilete combinate până la 60 RON",
+    "en": "32 RON adults (Palace), combined tickets up to 60 RON"
+  },
   "website": "https://www.brukenthalmuseum.ro/",
-  "publicTransport": "Alle Busse Richtung Zentrum/Piața Mare.",
-  "parking": "Öffentliche Parkplätze rund um die Altstadt (Cazarma 90).",
-  "accessibility": "Palais nur bedingt barrierefrei (viele Treppen im historischen Gebäude).",
-  "photoRules": "Fotografieren ohne Blitz in den Galerien gegen Gebühr gestattet.",
-  "bestTimeToVisit": "Vormittags unter der Woche für ungestörten Kunstgenuss.",
-  "audioGuide": "ro, en, de"
+  "publicTransport": {
+    "de": "Alle Busse Richtung Zentrum/Piața Mare.",
+    "hu": "Minden busz a központ/Nagypiac tér felé.",
+    "ro": "Toate autobuzele spre centru/Piața Mare.",
+    "en": "All buses towards the center/Piața Mare."
+  },
+  "parking": {
+    "de": "Öffentliche Parkplätze rund um die Altstadt (Cazarma 90).",
+    "hu": "Közterületi parkolók az óváros körül (Cazarma 90).",
+    "ro": "Parcări publice în jurul centrului vechi (Cazarma 90).",
+    "en": "Public parking around the old town (Cazarma 90)."
+  },
+  "accessibility": {
+    "de": "Palais nur bedingt barrierefrei (viele Treppen im historischen Gebäude).",
+    "hu": "A palota csak korlátozottan akadálymentes (sok lépcső a történelmi épületben).",
+    "ro": "Palatul este doar parțial accesibil (multe trepte în clădirea istorică).",
+    "en": "Palace only partially accessible (many stairs in the historic building)."
+  },
+  "photoRules": {
+    "de": "Fotografieren ohne Blitz in den Galerien gegen Gebühr gestattet.",
+    "hu": "Vaku nélküli fotózás a galériákban díj ellenében megengedett.",
+    "ro": "Fotografiatul fără bliț în galerii este permis contra cost.",
+    "en": "Photography without flash allowed in the galleries for a fee."
+  },
+  "bestTimeToVisit": {
+    "de": "Vormittags unter der Woche für ungestörten Kunstgenuss.",
+    "hu": "Hétköznap délelőtt a zavartalan művészeti élményért.",
+    "ro": "Dimineața în timpul săptămânii pentru a vă bucura de artă fără aglomerație.",
+    "en": "Weekday mornings for undisturbed art enjoyment."
+  },
+  "audioGuide": {
+    "de": "ro, en, de",
+    "hu": "román, angol, német",
+    "ro": "ro, en, de",
+    "en": "ro, en, de"
+  }
 }

@@ -1,12 +1,57 @@
 {
-  "address": "Schlossgasse 9, 4103 Bottmingen, Schweiz",
-  "openingHours": "Täglich 11:30-23:00 (Schwerpunkt Restaurantbetrieb)",
-  "entranceFee": "Besichtigung der öffentlichen Bereiche kostenlos",
+  "address": {
+    "de": "Schlossgasse 9, 4103 Bottmingen, Schweiz",
+    "hu": "Schlossgasse 9, 4103 Bottmingen, Svájc",
+    "ro": "Schlossgasse 9, 4103 Bottmingen, Elveția",
+    "en": "Schlossgasse 9, 4103 Bottmingen, Switzerland"
+  },
+  "openingHours": {
+    "de": "Täglich 11:30-23:00 (Schwerpunkt Restaurantbetrieb)",
+    "hu": "Naponta 11:30-23:00 (éttermi működésre fókuszálva)",
+    "ro": "Zilnic 11:30-23:00 (focus pe servicii de restaurant)",
+    "en": "Daily 11:30-23:00 (focus on restaurant operations)"
+  },
+  "entranceFee": {
+    "de": "Besichtigung der öffentlichen Bereiche kostenlos",
+    "hu": "A nyilvános részek látogatása ingyenes",
+    "ro": "Vizitarea zonelor publice gratuită",
+    "en": "Visiting public areas free"
+  },
   "website": "https://www.schlossbottmingen.ch/",
-  "publicTransport": "Tramlinien 10 oder 17 bis Haltestelle Bottmingen",
-  "parking": "Begrenzte Parkplatzanzahl beim Schloss (gebührenpflichtig)",
-  "accessibility": "Erdgeschoss und Restaurantbereich barrierefrei zugänglich",
-  "photoRules": "Erlaubt",
-  "bestTimeToVisit": "Abends für ein Essen in der romantisch beleuchteten Atmosphäre des Schlosshofs",
-  "audioGuide": "nein"
+  "publicTransport": {
+    "de": "Tramlinien 10 oder 17 bis Haltestelle Bottmingen",
+    "hu": "10-es vagy 17-es villamos Bottmingen megállóig",
+    "ro": "Liniile de tramvai 10 sau 17 până la stația Bottmingen",
+    "en": "Tram lines 10 or 17 to Bottmingen stop"
+  },
+  "parking": {
+    "de": "Begrenzte Parkplatzanzahl beim Schloss (gebührenpflichtig)",
+    "hu": "Korlátozott parkolóhely a kastélynál (fizetős)",
+    "ro": "Număr limitat de locuri de parcare la castel (cu plată)",
+    "en": "Limited parking spaces at the castle (paid)"
+  },
+  "accessibility": {
+    "de": "Erdgeschoss und Restaurantbereich barrierefrei zugänglich",
+    "hu": "A földszint és az étteremrész akadálymentesen megközelíthető",
+    "ro": "Parterul și zona restaurantului sunt accesibile fără bariere",
+    "en": "Ground floor and restaurant area accessible without barriers"
+  },
+  "photoRules": {
+    "de": "Erlaubt",
+    "hu": "Engedélyezett",
+    "ro": "Permis",
+    "en": "Allowed"
+  },
+  "bestTimeToVisit": {
+    "de": "Abends für ein Essen in der romantisch beleuchteten Atmosphäre des Schlosshofs",
+    "hu": "Este este egy vacsorához a kastélyudvar romantikus kivilágításában",
+    "ro": "Seara pentru o masă în atmosfera romantică luminată a curții castelului",
+    "en": "Evening for a meal in the romantically illuminated atmosphere of the castle courtyard"
+  },
+  "audioGuide": {
+    "de": "nein",
+    "hu": "nem",
+    "ro": "nu",
+    "en": "no"
+  }
 }

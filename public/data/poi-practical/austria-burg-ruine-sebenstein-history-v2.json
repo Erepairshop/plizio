@@ -1,12 +1,57 @@
 {
-  "address": "Schlossberg 1, 2824 Sebenstein",
-  "openingHours": "Sa-Su 11:00-16:00 (Mai-Sept)",
-  "entranceFee": "10€ (inkl. Führung)",
+  "address": {
+    "de": "Schlossberg 1, 2824 Sebenstein",
+    "hu": "Schlossberg 1, 2824 Sebenstein",
+    "ro": "Schlossberg 1, 2824 Sebenstein",
+    "en": "Schlossberg 1, 2824 Sebenstein"
+  },
+  "openingHours": {
+    "de": "Sa-Su 11:00-16:00 (Mai-Sept)",
+    "hu": "Szo-Vas 11:00-16:00 (május-szeptember)",
+    "ro": "Sâmb-Dum 11:00-16:00 (mai-septembrie)",
+    "en": "Sat-Sun 11:00-16:00 (May-Sept)"
+  },
+  "entranceFee": {
+    "de": "10€ (inkl. Führung)",
+    "hu": "10€ (vezetéssel együtt)",
+    "ro": "10€ (inclusiv tur ghidat)",
+    "en": "10€ (including guided tour)"
+  },
   "website": "https://www.burg-sebenstein.at",
-  "publicTransport": "ÖBB Haltestelle Sebenstein, dann Fußweg",
-  "parking": "Parkplatz im Ort, ca. 15 Min. Fußweg bergauf.",
-  "accessibility": "Nur über steilen Waldweg erreichbar, nicht barrierefrei.",
-  "photoRules": "Außenaufnahmen erlaubt.",
-  "bestTimeToVisit": "Mai, wenn der umliegende Wald grün wird.",
-  "audioGuide": "nein"
+  "publicTransport": {
+    "de": "ÖBB Haltestelle Sebenstein, dann Fußweg",
+    "hu": "ÖBB Sebenstein megállóhely, majd gyalogosan",
+    "ro": "Stația ÖBB Sebenstein, urmată de mers pe jos",
+    "en": "ÖBB Sebenstein stop, then on foot"
+  },
+  "parking": {
+    "de": "Parkplatz im Ort, ca. 15 Min. Fußweg bergauf.",
+    "hu": "Parkoló a településen, kb. 15 perc séta hegymenetben.",
+    "ro": "Parcare în localitate, aprox. 15 minute de mers pe jos în pantă.",
+    "en": "Parking in town, approx. 15 min. walk uphill."
+  },
+  "accessibility": {
+    "de": "Nur über steilen Waldweg erreichbar, nicht barrierefrei.",
+    "hu": "Csak meredek erdei úton érhető el, nem akadálymentesített.",
+    "ro": "Accesibil doar printr-o potecă abruptă de pădure, nu este accesibil pentru persoane cu dizabilități.",
+    "en": "Accessible only via steep forest path, not wheelchair accessible."
+  },
+  "photoRules": {
+    "de": "Außenaufnahmen erlaubt.",
+    "hu": "Kültéri fotózás engedélyezett.",
+    "ro": "Fotografierea în exterior este permisă.",
+    "en": "Outdoor photography permitted."
+  },
+  "bestTimeToVisit": {
+    "de": "Mai, wenn der umliegende Wald grün wird.",
+    "hu": "Májusban, amikor a környező erdő kizöldül.",
+    "ro": "În luna mai, când pădurea din jur înverzește.",
+    "en": "May, when the surrounding forest turns green."
+  },
+  "audioGuide": {
+    "de": "nein",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

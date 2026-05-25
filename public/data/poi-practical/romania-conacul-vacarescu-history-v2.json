@@ -1,12 +1,57 @@
 {
-  "address": "Strada Principală, Fălcoiu, Județul Olt",
-  "openingHours": "Stark verfallen, nur von außen zu besichtigen.",
-  "entranceFee": "kostenlos",
+  "address": {
+    "de": "Strada Principală, Fălcoiu, Județul Olt",
+    "hu": "Strada Principală, Fălcoiu, Olt megye",
+    "ro": "Strada Principală, Fălcoiu, Județul Olt",
+    "en": "Strada Principală, Fălcoiu, Olt County"
+  },
+  "openingHours": {
+    "de": "Stark verfallen, nur von außen zu besichtigen.",
+    "hu": "Erősen romos, csak kívülről tekinthető meg.",
+    "ro": "În stare avansată de degradare, vizitabil doar la exterior.",
+    "en": "Severely dilapidated, viewable from outside only."
+  },
+  "entranceFee": {
+    "de": "kostenlos",
+    "hu": "ingyenes",
+    "ro": "gratuit",
+    "en": "free"
+  },
   "website": "",
-  "publicTransport": "PKW erforderlich.",
-  "parking": "Parken an der Straße möglich.",
-  "accessibility": "Nicht barrierefrei.",
-  "photoRules": "Außenaufnahmen erlaubt.",
-  "bestTimeToVisit": "Mittags für gute Lichtverhältnisse.",
-  "audioGuide": "nein"
+  "publicTransport": {
+    "de": "PKW erforderlich.",
+    "hu": "Autó szükséges.",
+    "ro": "Necesită mașină.",
+    "en": "Car required."
+  },
+  "parking": {
+    "de": "Parken an der Straße möglich.",
+    "hu": "Parkolás az út mellett lehetséges.",
+    "ro": "Parcare posibilă pe stradă.",
+    "en": "Parking possible on the street."
+  },
+  "accessibility": {
+    "de": "Nicht barrierefrei.",
+    "hu": "Nem akadálymentes.",
+    "ro": "Nu este accesibil.",
+    "en": "Not accessible."
+  },
+  "photoRules": {
+    "de": "Außenaufnahmen erlaubt.",
+    "hu": "Külső fotók engedélyezettek.",
+    "ro": "Fotografierea la exterior este permisă.",
+    "en": "Exterior photography allowed."
+  },
+  "bestTimeToVisit": {
+    "de": "Mittags für gute Lichtverhältnisse.",
+    "hu": "Délben, a jó fényviszonyok érdekében.",
+    "ro": "La prânz, pentru condiții bune de lumină.",
+    "en": "At noon for good lighting conditions."
+  },
+  "audioGuide": {
+    "de": "nein",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

@@ -1,12 +1,57 @@
 {
-  "address": "Hampton Ct Way, Molesey, East Molesey KT8 9AU, Großbritannien",
-  "openingHours": "Mo-Su 10:00-17:30",
-  "entranceFee": "£26.30 Erwachsene, £13.10 Kinder",
+  "address": {
+    "de": "Hampton Ct Way, Molesey, East Molesey KT8 9AU, Großbritannien",
+    "hu": "Hampton Ct Way, Molesey, East Molesey KT8 9AU, Nagy-Britannia",
+    "ro": "Hampton Ct Way, Molesey, East Molesey KT8 9AU, Marea Britanie",
+    "en": "Hampton Ct Way, Molesey, East Molesey KT8 9AU, Great Britain"
+  },
+  "openingHours": {
+    "de": "Mo-Su 10:00-17:30",
+    "hu": "H-V 10:00-17:30",
+    "ro": "Lu-Du 10:00-17:30",
+    "en": "Mo-Su 10:00-17:30"
+  },
+  "entranceFee": {
+    "de": "£26.30 Erwachsene, £13.10 Kinder",
+    "hu": "£26.30 felnőtt, £13.10 gyerek",
+    "ro": "£26.30 adulți, £13.10 copii",
+    "en": "£26.30 adults, £13.10 children"
+  },
   "website": "https://www.hrp.org.uk/hampton-court-palace/",
-  "publicTransport": "Hampton Court Station (Südwestbahn direkt von London Waterloo)",
-  "parking": "Gebührenpflichtiger Parkplatz vor Ort (£1.60/Stunde)",
-  "accessibility": "Vollständig rollstuhlgerecht mit Aufzügen zu den Staatsgemächern",
-  "photoRules": "Erlaubt für private Zwecke, Blitzlicht in Innenräumen verboten",
-  "bestTimeToVisit": "Unter der Woche vormittags, um den größten Gruppen auszuweichen",
-  "audioGuide": "DE, EN, FR, ES, IT, JA, RU"
+  "publicTransport": {
+    "de": "Hampton Court Station (Südwestbahn direkt von London Waterloo)",
+    "hu": "Hampton Court állomás (South Western Railway közvetlenül London Waterloo-ból)",
+    "ro": "Stația Hampton Court (South Western Railway direct din London Waterloo)",
+    "en": "Hampton Court station (South Western Railway direct from London Waterloo)"
+  },
+  "parking": {
+    "de": "Gebührenpflichtiger Parkplatz vor Ort (£1.60/Stunde)",
+    "hu": "Fizetős parkoló a helyszínen (£1.60/óra)",
+    "ro": "Parcare cu plată la fața locului (£1.60/oră)",
+    "en": "Paid parking on site (£1.60/hour)"
+  },
+  "accessibility": {
+    "de": "Vollständig rollstuhlgerecht mit Aufzügen zu den Staatsgemächern",
+    "hu": "Teljesen kerekesszék-barát, liftekkel az állami lakosztályokhoz",
+    "ro": "Complet accesibil pentru scaune cu rotile, cu lifturi către apartamentele de stat",
+    "en": "Fully wheelchair-friendly with elevators to the state apartments"
+  },
+  "photoRules": {
+    "de": "Erlaubt für private Zwecke, Blitzlicht in Innenräumen verboten",
+    "hu": "Magáncélra engedélyezett, beltéren tilos a vaku",
+    "ro": "Permis pentru uz privat, blițul interzis în interior",
+    "en": "Allowed for private use, flash forbidden indoors"
+  },
+  "bestTimeToVisit": {
+    "de": "Unter der Woche vormittags, um den größten Gruppen auszuweichen",
+    "hu": "Hétköznap délelőtt, a nagy csoportok elkerülése végett",
+    "ro": "În timpul săptămânii dimineața, pentru a evita grupurile mari",
+    "en": "Weekdays in the morning, to avoid the largest groups"
+  },
+  "audioGuide": {
+    "de": "DE, EN, FR, ES, IT, JA, RU",
+    "hu": "Német, Angol, Francia, Spanyol, Olasz, Japán, Orosz",
+    "ro": "Germană, Engleză, Franceză, Spaniolă, Italiană, Japoneză, Rusă",
+    "en": "DE, EN, FR, ES, IT, JA, RU"
+  }
 }

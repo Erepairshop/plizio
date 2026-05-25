@@ -1,12 +1,57 @@
 {
-  "address": "Petőfi tér 1, 4071 Hortobágy",
-  "openingHours": "Mo-So 09:00-17:00 (Sommer), 10:00-14:00 (Winter)",
-  "entranceFee": "1200 HUF Erwachsene, 600 HUF ermäßigt",
+  "address": {
+    "de": "Petőfi tér 1, 4071 Hortobágy",
+    "hu": "Petőfi tér 1, 4071 Hortobágy",
+    "ro": "Petőfi tér 1, 4071 Hortobágy",
+    "en": "Petőfi tér 1, 4071 Hortobágy"
+  },
+  "openingHours": {
+    "de": "Mo-So 09:00-17:00 (Sommer), 10:00-14:00 (Winter)",
+    "hu": "H-V 09:00-17:00 (nyáron), 10:00-14:00 (télen)",
+    "ro": "Lu-Du 09:00-17:00 (vară), 10:00-14:00 (iarnă)",
+    "en": "Mon-Sun 09:00-17:00 (summer), 10:00-14:00 (winter)"
+  },
+  "entranceFee": {
+    "de": "1200 HUF Erwachsene, 600 HUF ermäßigt",
+    "hu": "1200 HUF felnőtt, 600 HUF kedvezményes",
+    "ro": "1200 HUF adulți, 600 HUF redus",
+    "en": "1200 HUF adults, 600 HUF reduced"
+  },
   "website": "https://www.hnp.hu",
-  "publicTransport": "Zug von Debrecen nach Hortobágy, dann 5 Min. Fußweg",
-  "parking": "Kostenpflichtiger Parkplatz am Besucherzentrum (Nähe Neunbogige Brücke)",
-  "accessibility": "Erdgeschoss barrierefrei zugänglich",
-  "photoRules": "Erlaubt für private Zwecke",
-  "bestTimeToVisit": "Später Vormittag, kombiniert mit einer Kutschenfahrt in die Puszta",
-  "audioGuide": "Ungarisch, Englisch, Deutsch"
+  "publicTransport": {
+    "de": "Zug von Debrecen nach Hortobágy, dann 5 Min. Fußweg",
+    "hu": "Vonat Debrecenből Hortobágyra, majd 5 perc séta",
+    "ro": "Tren de la Debrecen la Hortobágy, apoi 5 minute de mers pe jos",
+    "en": "Train from Debrecen to Hortobágy, then 5 min walk"
+  },
+  "parking": {
+    "de": "Kostenpflichtiger Parkplatz am Besucherzentrum (Nähe Neunbogige Brücke)",
+    "hu": "Fizetős parkoló a látogatóközpontnál (a Kilenclyukú híd közelében)",
+    "ro": "Parcare cu plată la centrul de vizitatori (lângă Podul cu nouă arcade)",
+    "en": "Paid parking at the visitor center (near Nine-holed Bridge)"
+  },
+  "accessibility": {
+    "de": "Erdgeschoss barrierefrei zugänglich",
+    "hu": "Földszint akadálymentesített",
+    "ro": "Parter accesibil",
+    "en": "Ground floor accessible"
+  },
+  "photoRules": {
+    "de": "Erlaubt für private Zwecke",
+    "hu": "Magáncélú fényképezés megengedett",
+    "ro": "Permis în scopuri private",
+    "en": "Allowed for private use"
+  },
+  "bestTimeToVisit": {
+    "de": "Später Vormittag, kombiniert mit einer Kutschenfahrt in die Puszta",
+    "hu": "Délelőtt, kocsikázással egybekötve a pusztában",
+    "ro": "Sfârșitul dimineții, combinat cu o plimbare cu trăsura în Pusta",
+    "en": "Late morning, combined with a carriage ride in the Puszta"
+  },
+  "audioGuide": {
+    "de": "Ungarisch, Englisch, Deutsch",
+    "hu": "magyar, angol, német",
+    "ro": "maghiară, engleză, germană",
+    "en": "Hungarian, English, German"
+  }
 }

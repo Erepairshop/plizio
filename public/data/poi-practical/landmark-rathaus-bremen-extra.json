@@ -1,12 +1,57 @@
 {
-  "address": "Am Markt 21, 28195 Bremen",
-  "openingHours": "Mo-Fr 11:00-17:00 (Führungen), Sa-Su 10:00-17:00",
-  "entranceFee": "€9.00 Führung Erwachsene",
+  "address": {
+    "de": "Am Markt 21, 28195 Bremen",
+    "hu": "Am Markt 21, 28195 Bréma",
+    "ro": "Am Markt 21, 28195 Bremen",
+    "en": "Am Markt 21, 28195 Bremen"
+  },
+  "openingHours": {
+    "de": "Mo-Fr 11:00-17:00 (Führungen), Sa-Su 10:00-17:00",
+    "hu": "Hé-Pé 11:00-17:00 (túrák), Szo-Va 10:00-17:00",
+    "ro": "Lu-Vi 11:00-17:00 (tururi), Sâm-Du 10:00-17:00",
+    "en": "Mon-Fri 11:00-17:00 (tours), Sat-Sun 10:00-17:00"
+  },
+  "entranceFee": {
+    "de": "€9.00 Führung Erwachsene",
+    "hu": "9,00 € vezetett túra felnőtteknek",
+    "ro": "9,00 € tur ghidat adulți",
+    "en": "€9.00 guided tour adults"
+  },
   "website": "https://www.rathaus.bremen.de",
-  "publicTransport": "Straßenbahn Linien 2, 3, 4, 6, 8 (Haltestelle Domsheide)",
-  "parking": "Parkhaus Mitte oder Parkhaus Pressehaus",
-  "accessibility": "Barrierefrei über Seiteneingang zugänglich",
-  "photoRules": "Privat erlaubt",
-  "bestTimeToVisit": "Vormittags für ruhigere Führungen",
-  "audioGuide": "Deutsch, Englisch"
+  "publicTransport": {
+    "de": "Straßenbahn Linien 2, 3, 4, 6, 8 (Haltestelle Domsheide)",
+    "hu": "2, 3, 4, 6, 8-es villamos (Domsheide megálló)",
+    "ro": "Tramvai liniile 2, 3, 4, 6, 8 (stația Domsheide)",
+    "en": "Tram lines 2, 3, 4, 6, 8 (Domsheide stop)"
+  },
+  "parking": {
+    "de": "Parkhaus Mitte oder Parkhaus Pressehaus",
+    "hu": "Parkhaus Mitte vagy Pressehaus parkoló",
+    "ro": "Parcare Mitte sau Pressehaus",
+    "en": "Parking Mitte or Parking Pressehaus"
+  },
+  "accessibility": {
+    "de": "Barrierefrei über Seiteneingang zugänglich",
+    "hu": "Akadálymentes, oldalsó bejáraton át megközelíthető",
+    "ro": "Accesibil prin intrarea laterală",
+    "en": "Accessible via side entrance"
+  },
+  "photoRules": {
+    "de": "Privat erlaubt",
+    "hu": "Magáncélra engedélyezett",
+    "ro": "Permis pentru uz privat",
+    "en": "Allowed for private use"
+  },
+  "bestTimeToVisit": {
+    "de": "Vormittags für ruhigere Führungen",
+    "hu": "Délelőtt a nyugodtabb túrákért",
+    "ro": "Dimineața pentru tururi mai liniștite",
+    "en": "Mornings for quieter tours"
+  },
+  "audioGuide": {
+    "de": "Deutsch, Englisch",
+    "hu": "Német, angol",
+    "ro": "Germană, engleză",
+    "en": "German, English"
+  }
 }

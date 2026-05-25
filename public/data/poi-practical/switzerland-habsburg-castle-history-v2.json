@@ -1,12 +1,57 @@
 {
-  "address": "Schlossgasse 30, 5245 Habsburg",
-  "openingHours": "Di-So 10:00-17:00 (Museum), Restaurant bis 22:00",
-  "entranceFee": "Museumseintritt frei (Teil von Museum Aargau)",
+  "address": {
+    "de": "Schlossgasse 30, 5245 Habsburg",
+    "hu": "Schlossgasse 30, 5245 Habsburg",
+    "ro": "Schlossgasse 30, 5245 Habsburg",
+    "en": "Schlossgasse 30, 5245 Habsburg"
+  },
+  "openingHours": {
+    "de": "Di-So 10:00-17:00 (Museum), Restaurant bis 22:00",
+    "hu": "Ké-Va 10:00-17:00 (múzeum), étterem 22:00-ig",
+    "ro": "Ma-Du 10:00-17:00 (muzeu), restaurant până la 22:00",
+    "en": "Tue-Sun 10:00-17:00 (museum), restaurant until 22:00"
+  },
+  "entranceFee": {
+    "de": "Museumseintritt frei (Teil von Museum Aargau)",
+    "hu": "Múzeumi belépés ingyenes (Museum Aargau része)",
+    "ro": "Intrare gratuită la muzeu (parte a Museum Aargau)",
+    "en": "Museum admission free (part of Museum Aargau)"
+  },
   "website": "https://www.schlosshabsburg.ch",
-  "publicTransport": "Postauto ab Bahnhof Brugg bis Haltestelle Habsburg Dorf.",
-  "parking": "Kostenlose Parkplätze ca. 200m unterhalb der Burg.",
-  "accessibility": "Erdgeschoss und Hof zugänglich; Aussichtsturm nur über Treppen.",
-  "photoRules": "Erlaubt; Drohnenaufnahmen im Umkreis der Ruine untersagt.",
-  "bestTimeToVisit": "Abendstunden für das Restaurant mit Panoramablick.",
-  "audioGuide": "DE, EN, FR"
+  "publicTransport": {
+    "de": "Postauto ab Bahnhof Brugg bis Haltestelle Habsburg Dorf.",
+    "hu": "Postbus Brugg állomástól a Habsburg Dorf megállóig.",
+    "ro": "Autobuz poștal de la gara Brugg până la stația Habsburg Dorf.",
+    "en": "Postbus from Brugg station to Habsburg Dorf stop."
+  },
+  "parking": {
+    "de": "Kostenlose Parkplätze ca. 200m unterhalb der Burg.",
+    "hu": "Ingyenes parkolók kb. 200m-re a vár alatt.",
+    "ro": "Parcări gratuite la aprox. 200m sub castel.",
+    "en": "Free parking approx. 200m below the castle."
+  },
+  "accessibility": {
+    "de": "Erdgeschoss und Hof zugänglich; Aussichtsturm nur über Treppen.",
+    "hu": "Földszint és udvar látogatható; kilátótorony csak lépcsőn.",
+    "ro": "Parterul și curtea accesibile; turnul de observație doar pe scări.",
+    "en": "Ground floor and courtyard accessible; observation tower only via stairs."
+  },
+  "photoRules": {
+    "de": "Erlaubt; Drohnenaufnahmen im Umkreis der Ruine untersagt.",
+    "hu": "Engedélyezett; drónfelvételek a vár környékén tilosak.",
+    "ro": "Permis; filmările cu drona în perimetrul ruinelor sunt interzise.",
+    "en": "Allowed; drone footage in the vicinity of the ruins prohibited."
+  },
+  "bestTimeToVisit": {
+    "de": "Abendstunden für das Restaurant mit Panoramablick.",
+    "hu": "Esti órákban az étteremhez panorámás kilátással.",
+    "ro": "Orele serii pentru restaurantul cu vedere panoramică.",
+    "en": "Evening hours for the restaurant with panoramic view."
+  },
+  "audioGuide": {
+    "de": "DE, EN, FR",
+    "hu": "DE, EN, FR",
+    "ro": "DE, EN, FR",
+    "en": "DE, EN, FR"
+  }
 }

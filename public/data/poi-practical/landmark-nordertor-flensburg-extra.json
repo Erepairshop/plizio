@@ -1,12 +1,57 @@
 {
-  "address": "Norderstraße, 24939 Flensburg",
-  "openingHours": "24/7 (nur Außenbesichtigung)",
-  "entranceFee": "free",
+  "address": {
+    "de": "Norderstraße, 24939 Flensburg",
+    "hu": "Norderstraße, 24939 Flensburg",
+    "ro": "Norderstraße, 24939 Flensburg",
+    "en": "Norderstraße, 24939 Flensburg"
+  },
+  "openingHours": {
+    "de": "24/7 (nur Außenbesichtigung)",
+    "hu": "0-24 órában (csak külső megtekintés)",
+    "ro": "Non-stop (doar vizitare exterioară)",
+    "en": "24/7 (exterior viewing only)"
+  },
+  "entranceFee": {
+    "de": "free",
+    "hu": "ingyenes",
+    "ro": "gratuit",
+    "en": "free"
+  },
   "website": "https://www.flensburger-foerde.de",
-  "publicTransport": "Bus Linien 1, 7 bis Nordertor",
-  "parking": "Parkplatz Phänomenta in direkter Nähe",
-  "accessibility": "Ebenerdig und barrierefrei zugänglich",
-  "photoRules": "Jederzeit erlaubt, schönes Motiv am Ende der Fußgängerzone",
-  "bestTimeToVisit": "Vormittags, wenn die Sonne auf die Nordfassade fällt",
-  "audioGuide": "no"
+  "publicTransport": {
+    "de": "Bus Linien 1, 7 bis Nordertor",
+    "hu": "1, 7-es buszjárat a Nordertorig",
+    "ro": "Autobuzele 1, 7 până la Nordertor",
+    "en": "Bus lines 1, 7 to Nordertor"
+  },
+  "parking": {
+    "de": "Parkplatz Phänomenta in direkter Nähe",
+    "hu": "Phänomenta parkoló a közvetlen közelben",
+    "ro": "Parcarea Phänomenta în imediata apropiere",
+    "en": "Parking lot Phänomenta in the immediate vicinity"
+  },
+  "accessibility": {
+    "de": "Ebenerdig und barrierefrei zugänglich",
+    "hu": "Szintben és akadálymentesen megközelíthető",
+    "ro": "Accesibil la nivel și fără bariere",
+    "en": "Accessible at ground level and barrier-free"
+  },
+  "photoRules": {
+    "de": "Jederzeit erlaubt, schönes Motiv am Ende der Fußgängerzone",
+    "hu": "Bármikor megengedett, gyönyörű téma a sétálóutca végén",
+    "ro": "Permis oricând, un subiect frumos la capătul zonei pietonale",
+    "en": "Allowed anytime, beautiful motif at the end of the pedestrian zone"
+  },
+  "bestTimeToVisit": {
+    "de": "Vormittags, wenn die Sonne auf die Nordfassade fällt",
+    "hu": "Délelőtt, amikor a nap az északi homlokzatra süt",
+    "ro": "Dimineața, când soarele bate pe fațada de nord",
+    "en": "Mornings when the sun hits the north facade"
+  },
+  "audioGuide": {
+    "de": "no",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

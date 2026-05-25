@@ -1,12 +1,57 @@
 {
-  "address": "Calea Victoriei 141, 010071 București",
-  "openingHours": "Di-So 10:00-17:00 (Wegen Renovierung teils nur Außenbesichtigung)",
-  "entranceFee": "20 RON Erwachsene",
+  "address": {
+    "de": "Calea Victoriei 141, 010071 București",
+    "hu": "Calea Victoriei 141, 010071 Bukarest",
+    "ro": "Calea Victoriei 141, 010071 București",
+    "en": "Calea Victoriei 141, 010071 Bucharest"
+  },
+  "openingHours": {
+    "de": "Di-So 10:00-17:00 (Wegen Renovierung teils nur Außenbesichtigung)",
+    "hu": "Kedd-Vasárnap 10:00-17:00 (felújítás miatt részben csak külső megtekintés)",
+    "ro": "Ma-Du 10:00-17:00 (din cauza renovărilor, parțial doar vizitare exterioară)",
+    "en": "Tue-Sun 10:00-17:00 (due to renovation, partially exterior viewing only)"
+  },
+  "entranceFee": {
+    "de": "20 RON Erwachsene",
+    "hu": "20 RON felnőtteknek",
+    "ro": "20 RON adulți",
+    "en": "20 RON adults"
+  },
   "website": "https://www.georgeenescu.ro",
-  "publicTransport": "Metro M2 (Piața Victoriei), Bus 300, 381",
-  "parking": "Keine eigenen Parkplätze, Parkhäuser in der Nähe nutzen.",
-  "accessibility": "Eingeschränkt barrierefrei (viele historische Stufen).",
-  "photoRules": "Erlaubt ohne Blitz und Stativ.",
-  "bestTimeToVisit": "Nachmittags für Details der Jugendstil-Fassade im Sonnenlicht.",
-  "audioGuide": "ja (Rumänisch, Englisch)"
+  "publicTransport": {
+    "de": "Metro M2 (Piața Victoriei), Bus 300, 381",
+    "hu": "M2 metró (Piața Victoriei), 300, 381-es busz",
+    "ro": "Metrou M2 (Piața Victoriei), autobuz 300, 381",
+    "en": "Metro M2 (Piața Victoriei), bus 300, 381"
+  },
+  "parking": {
+    "de": "Keine eigenen Parkplätze, Parkhäuser in der Nähe nutzen.",
+    "hu": "Nincs saját parkoló, használja a közeli parkolóházakat.",
+    "ro": "Nu există parcare proprie, utilizați parcările din apropiere.",
+    "en": "No own parking, use nearby parking garages."
+  },
+  "accessibility": {
+    "de": "Eingeschränkt barrierefrei (viele historische Stufen).",
+    "hu": "Korlátozottan akadálymentesített (sok történelmi lépcső).",
+    "ro": "Accesibil limitat (multe trepte istorice).",
+    "en": "Limited accessibility (many historical stairs)."
+  },
+  "photoRules": {
+    "de": "Erlaubt ohne Blitz und Stativ.",
+    "hu": "Vaku és állvány nélkül megengedett.",
+    "ro": "Permis fără bliț și trepied.",
+    "en": "Allowed without flash and tripod."
+  },
+  "bestTimeToVisit": {
+    "de": "Nachmittags für Details der Jugendstil-Fassade im Sonnenlicht.",
+    "hu": "Délután, a szecessziós homlokzat részleteiért napfényben.",
+    "ro": "După-amiaza pentru detaliile fațadei Art Nouveau în lumina soarelui.",
+    "en": "Afternoons for details of the Art Nouveau facade in sunlight."
+  },
+  "audioGuide": {
+    "de": "ja (Rumänisch, Englisch)",
+    "hu": "igen (román, angol)",
+    "ro": "da (română, engleză)",
+    "en": "yes (Romanian, English)"
+  }
 }

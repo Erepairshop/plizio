@@ -1,12 +1,57 @@
 {
-  "address": "Residenzplatz 2, 97070 Würzburg",
-  "openingHours": "Mo-Su 09:00-18:00 (Apr-Okt), 10:00-16:30 (Nov-Mär)",
-  "entranceFee": "€9.00 Erwachsene, €8.00 ermäßigt",
+  "address": {
+    "de": "Residenzplatz 2, 97070 Würzburg",
+    "hu": "Residenzplatz 2, 97070 Würzburg",
+    "ro": "Residenzplatz 2, 97070 Würzburg",
+    "en": "Residenzplatz 2, 97070 Würzburg"
+  },
+  "openingHours": {
+    "de": "Mo-Su 09:00-18:00 (Apr-Okt), 10:00-16:30 (Nov-Mär)",
+    "hu": "Hé-Va 09:00-18:00 (ápr.-okt.), 10:00-16:30 (nov.-márc.)",
+    "ro": "Lu-Du 09:00-18:00 (Apr-Oct), 10:00-16:30 (Nov-Mar)",
+    "en": "Mon-Sun 09:00-18:00 (Apr-Oct), 10:00-16:30 (Nov-Mar)"
+  },
+  "entranceFee": {
+    "de": "€9.00 Erwachsene, €8.00 ermäßigt",
+    "hu": "9,00 € felnőtt, 8,00 € kedvezményes",
+    "ro": "9,00 € adulți, 8,00 € redus",
+    "en": "€9.00 adults, €8.00 reduced"
+  },
   "website": "https://www.residenz-wuerzburg.de",
-  "publicTransport": "Straßenbahn Linien 1, 4 (Haltestelle Residenz)",
-  "parking": "Parkplatz direkt vor der Residenz",
-  "accessibility": "Hauptgeschoss barrierefrei",
-  "photoRules": "Nur ohne Blitz/Stativ",
-  "bestTimeToVisit": "Vormittags, bei Sonnenlicht im Treppenhaus",
-  "audioGuide": "Deutsch, Englisch, Französisch, Italienisch, Japanisch, Spanisch"
+  "publicTransport": {
+    "de": "Straßenbahn Linien 1, 4 (Haltestelle Residenz)",
+    "hu": "1, 4-es villamos (Residenz megálló)",
+    "ro": "Tramvai liniile 1, 4 (stația Residenz)",
+    "en": "Tram lines 1, 4 (Residenz stop)"
+  },
+  "parking": {
+    "de": "Parkplatz direkt vor der Residenz",
+    "hu": "Parkoló közvetlenül a rezidencia előtt",
+    "ro": "Parcare chiar în fața rezidenței",
+    "en": "Parking directly in front of the residence"
+  },
+  "accessibility": {
+    "de": "Hauptgeschoss barrierefrei",
+    "hu": "A főszint akadálymentes",
+    "ro": "Nivelul principal este accesibil",
+    "en": "Main floor is accessible"
+  },
+  "photoRules": {
+    "de": "Nur ohne Blitz/Stativ",
+    "hu": "Csak vaku/állvány nélkül",
+    "ro": "Doar fără bliț/trepied",
+    "en": "Only without flash/tripod"
+  },
+  "bestTimeToVisit": {
+    "de": "Vormittags, bei Sonnenlicht im Treppenhaus",
+    "hu": "Délelőtt, amikor a napfény a lépcsőházba esik",
+    "ro": "Dimineața, când lumina soarelui cade în casa scării",
+    "en": "Mornings, when sunlight enters the staircase"
+  },
+  "audioGuide": {
+    "de": "Deutsch, Englisch, Französisch, Italienisch, Japanisch, Spanisch",
+    "hu": "Német, angol, francia, olasz, japán, spanyol",
+    "ro": "Germană, engleză, franceză, italiană, japoneză, spaniolă",
+    "en": "German, English, French, Italian, Japanese, Spanish"
+  }
 }

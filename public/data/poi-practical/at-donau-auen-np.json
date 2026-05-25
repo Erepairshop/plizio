@@ -1,12 +1,57 @@
 {
-  "address": "Schlossorth, 2304 Orth an der Donau",
-  "openingHours": "Nationalpark 24/7 zugänglich, Zentrum Schlossorth: Apr-Okt 09:00-18:00",
-  "entranceFee": "frei (Wanderwege), Besucherzentrum Schlossorth € 11,00",
+  "address": {
+    "de": "Schlossorth, 2304 Orth an der Donau",
+    "hu": "Schlossorth, 2304 Orth an der Donau",
+    "ro": "Schlossorth, 2304 Orth an der Donau",
+    "en": "Schlossorth, 2304 Orth an der Donau"
+  },
+  "openingHours": {
+    "de": "Nationalpark 24/7 zugänglich, Zentrum Schlossorth: Apr-Okt 09:00-18:00",
+    "hu": "A nemzeti park 24/7 látogatható, Schlossorth központ: Ápr-okt 09:00-18:00",
+    "ro": "Parcul național accesibil 24/7, Centrul Schlossorth: Apr-Oct 09:00-18:00",
+    "en": "National park accessible 24/7, Schlossorth Center: Apr-Oct 9:00 AM - 6:00 PM"
+  },
+  "entranceFee": {
+    "de": "frei (Wanderwege), Besucherzentrum Schlossorth € 11,00",
+    "hu": "ingyenes (túraútvonalak), Schlossorth látogatóközpont 11,00 €",
+    "ro": "gratuit (trasee), Centrul pentru vizitatori Schlossorth 11,00 €",
+    "en": "free (hiking trails), Schlossorth visitor center €11.00"
+  },
   "website": "https://www.donauauen.at",
-  "publicTransport": "Bus 550 ab Wien Aspernstraße (U2) bis Orth/Donau.",
-  "parking": "Kostenlose Parkplätze direkt beim Schloss Orth am Rand des Nationalparks.",
-  "accessibility": "Die Hauptwege sind eben und gut mit Rollstühlen oder Kinderwagen befahrbar.",
-  "photoRules": "Natur- und Makrofotografie erlaubt, Drohnenflug ist streng verboten.",
-  "bestTimeToVisit": "Mai und Juni für die höchste Aktivität der Wasservögel und Amphibien.",
-  "audioGuide": "nein"
+  "publicTransport": {
+    "de": "Bus 550 ab Wien Aspernstraße (U2) bis Orth/Donau.",
+    "hu": "550-es busz Bécs Aspernstraße (U2) megállótól Orth/Donau-ig.",
+    "ro": "Autobuz 550 de la Viena Aspernstraße (U2) până la Orth/Donau.",
+    "en": "Bus 550 from Vienna Aspernstraße (U2) to Orth/Donau."
+  },
+  "parking": {
+    "de": "Kostenlose Parkplätze direkt beim Schloss Orth am Rand des Nationalparks.",
+    "hu": "Ingyenes parkolóhelyek közvetlenül a Schloss Orthnál a nemzeti park szélén.",
+    "ro": "Locuri de parcare gratuite chiar la Castelul Orth la marginea parcului național.",
+    "en": "Free parking spaces directly at Orth Castle at the edge of the national park."
+  },
+  "accessibility": {
+    "de": "Die Hauptwege sind eben und gut mit Rollstühlen oder Kinderwagen befahrbar.",
+    "hu": "A főutak síkok, kerekesszékkel vagy babakocsival jól járhatók.",
+    "ro": "Drumurile principale sunt plane și ușor de parcurs cu scaune cu rotile sau cărucioare.",
+    "en": "The main paths are flat and easy to navigate with wheelchairs or strollers."
+  },
+  "photoRules": {
+    "de": "Natur- und Makrofotografie erlaubt, Drohnenflug ist streng verboten.",
+    "hu": "Természet- és makrófotózás engedélyezett, a drónozás szigorúan tilos.",
+    "ro": "Fotografia de natură și macro permisă, zborul dronelor este strict interzis.",
+    "en": "Nature and macro photography allowed, drone flight is strictly prohibited."
+  },
+  "bestTimeToVisit": {
+    "de": "Mai und Juni für die höchste Aktivität der Wasservögel und Amphibien.",
+    "hu": "Május és június a vízimadarak és kétéltűek legnagyobb aktivitása idején.",
+    "ro": "Mai și iunie pentru cea mai mare activitate a păsărilor de apă și a amfibienilor.",
+    "en": "May and June for the highest activity of water birds and amphibians."
+  },
+  "audioGuide": {
+    "de": "nein",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

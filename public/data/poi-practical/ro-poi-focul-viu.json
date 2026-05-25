@@ -1,12 +1,57 @@
 {
-  "address": "Comuna Lopătari, Sat Terca, 127295 Buzău",
-  "openingHours": "24/7",
-  "entranceFee": "free",
+  "address": {
+    "de": "Comuna Lopătari, Sat Terca, 127295 Buzău",
+    "hu": "Lopătari község, Terca falu, 127295 Bodzavásár",
+    "ro": "Comuna Lopătari, Sat Terca, 127295 Buzău",
+    "en": "Comuna Lopătari, Sat Terca, 127295 Buzău"
+  },
+  "openingHours": {
+    "de": "24/7",
+    "hu": "Non-stop",
+    "ro": "24/7",
+    "en": "24/7"
+  },
+  "entranceFee": {
+    "de": "free",
+    "hu": "ingyenes",
+    "ro": "gratuit",
+    "en": "free"
+  },
   "website": "",
-  "publicTransport": "Kein direkter Anschluss, Anreise per PKW ab Buzău.",
-  "parking": "Unbefestigter Parkplatz im Dorf Terca, dann 20 Min Wanderung.",
-  "accessibility": "Nicht barrierefrei, steiler Wanderpfad erforderlich.",
-  "photoRules": "Erlaubt, am besten bei Dämmerung für hohen Kontrast.",
-  "bestTimeToVisit": "Später Nachmittag oder Nacht für Sichtbarkeit der Flammen.",
-  "audioGuide": "no"
+  "publicTransport": {
+    "de": "Kein direkter Anschluss, Anreise per PKW ab Buzău.",
+    "hu": "Nincs közvetlen csatlakozás, utazás autóval Bodzavásárról.",
+    "ro": "Fără conexiune directă, acces cu mașina din Buzău.",
+    "en": "No direct connection, arrive by car from Buzău."
+  },
+  "parking": {
+    "de": "Unbefestigter Parkplatz im Dorf Terca, dann 20 Min Wanderung.",
+    "hu": "Burkolatlan parkoló Terca faluban, majd 20 perc gyaloglás.",
+    "ro": "Parcare neamenajată în satul Terca, apoi 20 min drumeție.",
+    "en": "Unpaved parking in Terca village, then 20 min hike."
+  },
+  "accessibility": {
+    "de": "Nicht barrierefrei, steiler Wanderpfad erforderlich.",
+    "hu": "Nem akadálymentes, meredek túraútvonal szükséges.",
+    "ro": "Nu este accesibil, necesită drumeție pe potecă abruptă.",
+    "en": "Not accessible, steep hiking trail required."
+  },
+  "photoRules": {
+    "de": "Erlaubt, am besten bei Dämmerung für hohen Kontrast.",
+    "hu": "Engedélyezett, legjobb szürkületkor a magas kontrasztért.",
+    "ro": "Permis, cel mai bine la amurg pentru contrast ridicat.",
+    "en": "Allowed, best at twilight for high contrast."
+  },
+  "bestTimeToVisit": {
+    "de": "Später Nachmittag oder Nacht für Sichtbarkeit der Flammen.",
+    "hu": "Késő délután vagy éjszaka a lángok láthatósága miatt.",
+    "ro": "După-amiaza târziu sau noaptea pentru vizibilitatea flăcărilor.",
+    "en": "Late afternoon or night for visibility of the flames."
+  },
+  "audioGuide": {
+    "de": "no",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

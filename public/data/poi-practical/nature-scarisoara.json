@@ -1,12 +1,57 @@
 {
-  "address": "Gârda de Sus, 517310 Alba",
-  "openingHours": "Mo-Su 10:00-18:00 (Saisonal)",
-  "entranceFee": "15 RON Erwachsene, 10 RON Kinder",
+  "address": {
+    "de": "Gârda de Sus, 517310 Alba",
+    "hu": "Gârda de Sus, 517310 Fehér megye",
+    "ro": "Gârda de Sus, 517310 Alba",
+    "en": "Gârda de Sus, 517310 Alba"
+  },
+  "openingHours": {
+    "de": "Mo-Su 10:00-18:00 (Saisonal)",
+    "hu": "H-V 10:00-18:00 (szezonális)",
+    "ro": "Lu-Du 10:00-18:00 (sezonier)",
+    "en": "Mon-Sun 10:00-18:00 (seasonal)"
+  },
+  "entranceFee": {
+    "de": "15 RON Erwachsene, 10 RON Kinder",
+    "hu": "15 RON felnőttek, 10 RON gyerekek",
+    "ro": "15 RON adulți, 10 RON copii",
+    "en": "15 RON adults, 10 RON children"
+  },
   "website": "",
-  "publicTransport": "Keine direkte Verbindung, Wanderung ab Gârda de Sus erforderlich",
-  "parking": "Parkplatz im Dorf Scărișoara, ca. 10 RON",
-  "accessibility": "Nicht barrierefrei, viele steile Metallstufen in den Schacht",
-  "photoRules": "Erlaubt, Blitzlicht wegen Eiserhaltung sparsam einsetzen",
-  "bestTimeToVisit": "Mai bis Juni, wenn die Eisformationen am größten sind",
-  "audioGuide": "no"
+  "publicTransport": {
+    "de": "Keine direkte Verbindung, Wanderung ab Gârda de Sus erforderlich",
+    "hu": "Nincs közvetlen kapcsolat, gyalogtúra szükséges Gârda de Sus-ból",
+    "ro": "Fără legătură directă, este necesară drumeția din Gârda de Sus",
+    "en": "No direct connection, hike from Gârda de Sus required"
+  },
+  "parking": {
+    "de": "Parkplatz im Dorf Scărișoara, ca. 10 RON",
+    "hu": "Parkoló Scărișoara faluban, kb. 10 RON",
+    "ro": "Parcare în satul Scărișoara, cca. 10 RON",
+    "en": "Parking in Scărișoara village, approx. 10 RON"
+  },
+  "accessibility": {
+    "de": "Nicht barrierefrei, viele steile Metallstufen in den Schacht",
+    "hu": "Nem akadálymentes, sok meredek fém lépcső a aknába",
+    "ro": "Nu este accesibil, multe trepte metalice abrupte în aven",
+    "en": "Not accessible, many steep metal stairs into the shaft"
+  },
+  "photoRules": {
+    "de": "Erlaubt, Blitzlicht wegen Eiserhaltung sparsam einsetzen",
+    "hu": "Engedélyezett, a vaku takarékos használata a jég megőrzése érdekében",
+    "ro": "Permis, folosiți blițul cu moderație pentru conservarea gheții",
+    "en": "Allowed, use flash sparingly for ice conservation"
+  },
+  "bestTimeToVisit": {
+    "de": "Mai bis Juni, wenn die Eisformationen am größten sind",
+    "hu": "Május és június között, amikor a jégképződmények a legnagyobbak",
+    "ro": "Mai până în iunie, când formațiunile de gheață sunt cele mai mari",
+    "en": "May to June, when ice formations are at their largest"
+  },
+  "audioGuide": {
+    "de": "no",
+    "hu": "nem",
+    "ro": "nu",
+    "en": "no"
+  }
 }

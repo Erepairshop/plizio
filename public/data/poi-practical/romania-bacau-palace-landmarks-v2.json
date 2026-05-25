@@ -1,12 +1,57 @@
 {
-  "address": "Strada Mărășești 2, 600050 Bacău",
-  "openingHours": "Permanente Außenbesichtigung; Innenräume Mo-Fr 08:00-16:00",
-  "entranceFee": "Außenbesichtigung kostenlos",
+  "address": {
+    "de": "Strada Mărășești 2, 600050 Bacău",
+    "hu": "Strada Mărășești 2, 600050 Bákó",
+    "ro": "Strada Mărășești 2, 600050 Bacău",
+    "en": "Strada Mărășești 2, 600050 Bacău"
+  },
+  "openingHours": {
+    "de": "Permanente Außenbesichtigung; Innenräume Mo-Fr 08:00-16:00",
+    "hu": "Folyamatos külső megtekintés; a belső terek Hétfő-Péntek 08:00-16:00",
+    "ro": "Vizitare exterioară permanentă; interioare Lu-Vi 08:00-16:00",
+    "en": "Permanent exterior viewing; interiors Mon-Fri 08:00-16:00"
+  },
+  "entranceFee": {
+    "de": "Außenbesichtigung kostenlos",
+    "hu": "A külső megtekintése ingyenes",
+    "ro": "Vizitarea exterioară gratuită",
+    "en": "Exterior viewing free"
+  },
   "website": "",
-  "publicTransport": "Zentrale Lage, alle Busse Richtung Zentrum.",
-  "parking": "Kostenpflichtige Parkplätze in der Umgebung des Rathauses.",
-  "accessibility": "Außenbereich barrierefrei zugänglich.",
-  "photoRules": "Außenaufnahmen jederzeit erlaubt.",
-  "bestTimeToVisit": "Abends, wenn die Fassade beleuchtet ist.",
-  "audioGuide": "nein"
+  "publicTransport": {
+    "de": "Zentrale Lage, alle Busse Richtung Zentrum.",
+    "hu": "Központi elhelyezkedés, minden busz a központ felé.",
+    "ro": "Locație centrală, toate autobuzele spre centru.",
+    "en": "Central location, all buses towards the center."
+  },
+  "parking": {
+    "de": "Kostenpflichtige Parkplätze in der Umgebung des Rathauses.",
+    "hu": "Fizetős parkolók a városháza környékén.",
+    "ro": "Parcări cu plată în zona primăriei.",
+    "en": "Paid parking in the area of the town hall."
+  },
+  "accessibility": {
+    "de": "Außenbereich barrierefrei zugänglich.",
+    "hu": "A külső terület akadálymentesített.",
+    "ro": "Zona exterioară accesibilă.",
+    "en": "Exterior area accessible."
+  },
+  "photoRules": {
+    "de": "Außenaufnahmen jederzeit erlaubt.",
+    "hu": "Külső fotók bármikor készíthetők.",
+    "ro": "Fotografierea exterioară permisă oricând.",
+    "en": "Outdoor photos allowed anytime."
+  },
+  "bestTimeToVisit": {
+    "de": "Abends, wenn die Fassade beleuchtet ist.",
+    "hu": "Este, amikor a homlokzat ki van világítva.",
+    "ro": "Seara, când fațada este iluminată.",
+    "en": "Evenings when the facade is illuminated."
+  },
+  "audioGuide": {
+    "de": "nein",
+    "hu": "nem",
+    "ro": "nu",
+    "en": "no"
+  }
 }

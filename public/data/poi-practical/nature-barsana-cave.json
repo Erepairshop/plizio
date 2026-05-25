@@ -1,12 +1,57 @@
 {
-  "address": "Peștera de la Bârsăna, 437035 Bârsăna, Maramureș",
-  "openingHours": "Saisonal / Nach Vereinbarung vor Ort",
-  "entranceFee": "varies (meist geringe Gebühr für lokale Guides)",
+  "address": {
+    "de": "Peștera de la Bârsăna, 437035 Bârsăna, Maramureș",
+    "hu": "Peștera de la Bârsăna, 437035 Bârsăna, Máramaros",
+    "ro": "Peștera de la Bârsăna, 437035 Bârsăna, Maramureș",
+    "en": "Peștera de la Bârsăna, 437035 Bârsăna, Maramureș"
+  },
+  "openingHours": {
+    "de": "Saisonal / Nach Vereinbarung vor Ort",
+    "hu": "Szezonális / Helyszíni egyeztetés szerint",
+    "ro": "Sezonier / În funcție de aranjamentele locale",
+    "en": "Seasonal / By local arrangement"
+  },
+  "entranceFee": {
+    "de": "varies (meist geringe Gebühr für lokale Guides)",
+    "hu": "változó (általában kis díj a helyi vezetőknek)",
+    "ro": "variabil (de obicei o taxă mică pentru ghizi locali)",
+    "en": "varies (usually a small fee for local guides)"
+  },
   "website": "",
-  "publicTransport": "Bus von Sighetu Marmației nach Bârsăna, dann lokaler Fußweg",
-  "parking": "Parkmöglichkeiten im Dorf oder am Kloster Bârsăna (kostenlos)",
-  "accessibility": "Nicht barrierefrei; enge Passagen und rutschiger Untergrund",
-  "photoRules": "Erlaubt; starke Taschenlampe für Fotos im Inneren erforderlich",
-  "bestTimeToVisit": "Sommermonate; nur bei trockenem Wetter sicher begehbar",
-  "audioGuide": "no"
+  "publicTransport": {
+    "de": "Bus von Sighetu Marmației nach Bârsăna, dann lokaler Fußweg",
+    "hu": "Busz Sighetu Marmațieiből Bârsănaba, majd helyi gyalogút",
+    "ro": "Autobuz din Sighetu Marmației până în Bârsăna, apoi pe jos local",
+    "en": "Bus from Sighetu Marmației to Bârsăna, then local walk"
+  },
+  "parking": {
+    "de": "Parkmöglichkeiten im Dorf oder am Kloster Bârsăna (kostenlos)",
+    "hu": "Parkolás a faluban vagy a Bârsăna kolostornál (ingyenes)",
+    "ro": "Parcare în sat sau la Mănăstirea Bârsăna (gratuit)",
+    "en": "Parking in the village or at Bârsăna Monastery (free)"
+  },
+  "accessibility": {
+    "de": "Nicht barrierefrei; enge Passagen und rutschiger Untergrund",
+    "hu": "Nem akadálymentesített; szűk átjárók és csúszós talaj",
+    "ro": "Nu este accesibil; pasaje înguste și teren alunecos",
+    "en": "Not accessible; narrow passages and slippery ground"
+  },
+  "photoRules": {
+    "de": "Erlaubt; starke Taschenlampe für Fotos im Inneren erforderlich",
+    "hu": "Engedélyezett; erős zseblámpa szükséges a benti fotózáshoz",
+    "ro": "Permis; lanternă puternică necesară pentru fotografii în interior",
+    "en": "Allowed; strong flashlight required for indoor photos"
+  },
+  "bestTimeToVisit": {
+    "de": "Sommermonate; nur bei trockenem Wetter sicher begehbar",
+    "hu": "Nyári hónapok; csak száraz időben biztonságosan járható",
+    "ro": "Lunile de vară; accesibil în siguranță doar pe vreme uscată",
+    "en": "Summer months; safe to visit only in dry weather"
+  },
+  "audioGuide": {
+    "de": "no",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

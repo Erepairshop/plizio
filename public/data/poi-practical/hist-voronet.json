@@ -1,12 +1,57 @@
 {
-  "address": "Strada Voroneț 166, 725301 Gura Humorului",
-  "openingHours": "Täglich 08:30-20:00",
-  "entranceFee": "10 RON Erwachsene, 10 RON Foto-Gebühr",
+  "address": {
+    "de": "Strada Voroneț 166, 725301 Gura Humorului",
+    "hu": "Strada Voroneț 166, 725301 Gura Humorului, Románia",
+    "ro": "Strada Voroneț 166, 725301 Gura Humorului",
+    "en": "Strada Voroneț 166, 725301 Gura Humorului, Romania"
+  },
+  "openingHours": {
+    "de": "Täglich 08:30-20:00",
+    "hu": "Naponta 08:30-20:00",
+    "ro": "Zilnic 08:30-20:00",
+    "en": "Daily 08:30-20:00"
+  },
+  "entranceFee": {
+    "de": "10 RON Erwachsene, 10 RON Foto-Gebühr",
+    "hu": "10 RON felnőtt, plusz 10 RON fotójegy",
+    "ro": "10 RON adulți, 10 RON taxă foto",
+    "en": "10 RON adults, 10 RON photo fee"
+  },
   "website": "",
-  "publicTransport": "Bus oder Taxi von Gura Humorului (ca. 4 km Entfernung)",
-  "parking": "Marktplatz vor dem Kloster, ca. 5-10 RON Parkgebühr",
-  "accessibility": "Ebenerdiges Gelände, sehr gut zugänglich",
-  "photoRules": "Innenaufnahmen streng verboten, Blitz außen untersagt",
-  "bestTimeToVisit": "Morgensonne beleuchtet die berühmte Westwand (Jüngstes Gericht)",
-  "audioGuide": "Nein"
+  "publicTransport": {
+    "de": "Bus oder Taxi von Gura Humorului (ca. 4 km Entfernung)",
+    "hu": "Busz vagy taxi Szamosfalu (Gura Humorului) központjából (kb. 4 km)",
+    "ro": "Autobuz sau taxi din Gura Humorului (aprox. 4 km distanță)",
+    "en": "Bus or taxi from Gura Humorului (approx. 4 km away)"
+  },
+  "parking": {
+    "de": "Marktplatz vor dem Kloster, ca. 5-10 RON Parkgebühr",
+    "hu": "A kolostor előtti tér, a parkolási díj kb. 5-10 RON",
+    "ro": "Piața din fața mănăstirii, taxă de parcare aprox. 5-10 RON",
+    "en": "Market square in front of the monastery, parking fee approx. 5-10 RON"
+  },
+  "accessibility": {
+    "de": "Ebenerdiges Gelände, sehr gut zugänglich",
+    "hu": "Sík terület, kiválóan megközelíthető",
+    "ro": "Teren plat, acces foarte bun",
+    "en": "Flat terrain, very good accessibility"
+  },
+  "photoRules": {
+    "de": "Innenaufnahmen streng verboten, Blitz außen untersagt",
+    "hu": "Belső fotózás szigorúan tilos, kívül vaku használata tilos",
+    "ro": "Fotografiatul în interior strict interzis, fără bliț în exterior",
+    "en": "Photography inside strictly forbidden, no flash outside"
+  },
+  "bestTimeToVisit": {
+    "de": "Morgensonne beleuchtet die berühmte Westwand (Jüngstes Gericht)",
+    "hu": "Reggel, amikor a nap megvilágítja a híres nyugati falat (Az utolsó ítélet)",
+    "ro": "Dimineața, când soarele luminează faimosul perete vestic (Judecata de Apoi)",
+    "en": "Morning, when the sun illuminates the famous west wall (The Last Judgment)"
+  },
+  "audioGuide": {
+    "de": "Nein",
+    "hu": "Nem",
+    "ro": "Nu",
+    "en": "No"
+  }
 }

@@ -1,12 +1,57 @@
 {
-  "address": "Előkapu 2-8., 9400 Sopron",
-  "openingHours": "Mo-Su 10:00-18:00 (Sommersaison bis 20:00)",
-  "entranceFee": "2000 HUF Erwachsene, 1000 HUF Kinder",
+  "address": {
+    "de": "Előkapu 2-8., 9400 Sopron",
+    "hu": "Előkapu 2-8., 9400 Sopron",
+    "ro": "Előkapu 2-8., 9400 Sopron",
+    "en": "Előkapu 2-8., 9400 Sopron"
+  },
+  "openingHours": {
+    "de": "Mo-Su 10:00-18:00 (Sommersaison bis 20:00)",
+    "hu": "H-V 10:00-18:00 (nyári szezonban 20:00-ig)",
+    "ro": "L-D 10:00-18:00 (sezonul de vară până la 20:00)",
+    "en": "Mon-Sun 10:00-18:00 (summer season until 20:00)"
+  },
+  "entranceFee": {
+    "de": "2000 HUF Erwachsene, 1000 HUF Kinder",
+    "hu": "2000 HUF felnőttek, 1000 HUF gyermekek",
+    "ro": "2000 HUF adulți, 1000 HUF copii",
+    "en": "2000 HUF adults, 1000 HUF children"
+  },
   "website": "https://www.tuztorony.hu/",
-  "publicTransport": "Alle Busse zum Várkerület/Grabenrunde, von dort 2 Min. Fußweg.",
-  "parking": "Kostenpflichtiges Parkhaus am Petőfi tér oder Parkplatz am Grabenrunde.",
-  "accessibility": "Nicht barrierefrei; 119 schmale Stufen führen zur Aussichtsplattform.",
-  "photoRules": "Fotografieren erlaubt; Weitwinkelobjektiv für den Rundblick über die Altstadt empfohlen.",
-  "bestTimeToVisit": "Vormittags bei klarer Sicht für einen Fernblick bis zum Neusiedler See und die Alpen.",
-  "audioGuide": "nein"
+  "publicTransport": {
+    "de": "Alle Busse zum Várkerület/Grabenrunde, von dort 2 Min. Fußweg.",
+    "hu": "Minden busz a Várkerülethez, onnan 2 perc séta.",
+    "ro": "Toate autobuzele către Várkerület, de acolo 2 minute de mers pe jos.",
+    "en": "All buses to Várkerület, from there a 2-minute walk."
+  },
+  "parking": {
+    "de": "Kostenpflichtiges Parkhaus am Petőfi tér oder Parkplatz am Grabenrunde.",
+    "hu": "Fizetős parkolóház a Petőfi téren vagy parkoló a Várkerületnél.",
+    "ro": "Parcare cu plată în Petőfi tér sau parcare la Várkerület.",
+    "en": "Paid parking garage at Petőfi tér or parking at Várkerület."
+  },
+  "accessibility": {
+    "de": "Nicht barrierefrei; 119 schmale Stufen führen zur Aussichtsplattform.",
+    "hu": "Nem akadálymentes; 119 keskeny lépcső vezet a kilátóteraszra.",
+    "ro": "Nu este accesibil; 119 trepte înguste duc la platforma de observație.",
+    "en": "Not accessible; 119 narrow steps lead to the viewing platform."
+  },
+  "photoRules": {
+    "de": "Fotografieren erlaubt; Weitwinkelobjektiv für den Rundblick über die Altstadt empfohlen.",
+    "hu": "Fényképezés megengedett; nagylátószögű objektív ajánlott az óvárosra nyíló panorámához.",
+    "ro": "Fotografierea permisă; obiectiv grandangular recomandat pentru vederea panoramică a orașului vechi.",
+    "en": "Photography allowed; wide-angle lens recommended for the panoramic view over the old town."
+  },
+  "bestTimeToVisit": {
+    "de": "Vormittags bei klarer Sicht für einen Fernblick bis zum Neusiedler See und die Alpen.",
+    "hu": "Délelőtt tiszta időben, távoli kilátással a Fertő-tóig és az Alpokig.",
+    "ro": "Dimineața cu vizibilitate clară pentru o vedere panoramică până la Lacul Fertő și Alpi.",
+    "en": "Mornings with clear visibility for a distant view up to Lake Neusiedl and the Alps."
+  },
+  "audioGuide": {
+    "de": "nein",
+    "hu": "nem",
+    "ro": "nu",
+    "en": "no"
+  }
 }

@@ -1,12 +1,57 @@
 {
-  "address": "Am Ludwigsplatz, 66117 Saarbrücken",
-  "openingHours": "Di-So 11:00-17:00",
-  "entranceFee": "kostenfrei",
+  "address": {
+    "de": "Am Ludwigsplatz, 66117 Saarbrücken",
+    "hu": "Am Ludwigsplatz, 66117 Saarbrücken",
+    "ro": "Am Ludwigsplatz, 66117 Saarbrücken",
+    "en": "Am Ludwigsplatz, 66117 Saarbrücken"
+  },
+  "openingHours": {
+    "de": "Di-So 11:00-17:00",
+    "hu": "K-V 11:00-17:00",
+    "ro": "Ma-Du 11:00-17:00",
+    "en": "Tue-Sun 11:00-17:00"
+  },
+  "entranceFee": {
+    "de": "kostenfrei",
+    "hu": "ingyenes",
+    "ro": "gratuit",
+    "en": "free of charge"
+  },
   "website": "https://www.ludwigskirche.de",
-  "publicTransport": "Bus 105, 108, 121 bis Haltestelle Ludwigskirche",
-  "parking": "Parkhaus Ludwigskirche, ca. 1,50 €/Std.",
-  "accessibility": "Kirche über flache Rampen barrierefrei zugänglich.",
-  "photoRules": "Ohne Blitz erlaubt.",
-  "bestTimeToVisit": "An sonnigen Tagen wegen des hellen weißen Innenraums.",
-  "audioGuide": "nein"
+  "publicTransport": {
+    "de": "Bus 105, 108, 121 bis Haltestelle Ludwigskirche",
+    "hu": "105, 108, 121-es busz a Ludwigskirche megállóig",
+    "ro": "Autobuz 105, 108, 121 până la stația Ludwigskirche",
+    "en": "Bus 105, 108, 121 to Ludwigskirche stop"
+  },
+  "parking": {
+    "de": "Parkhaus Ludwigskirche, ca. 1,50 €/Std.",
+    "hu": "Ludwigskirche parkolóház, kb. 1,50 €/óra.",
+    "ro": "Parcare Ludwigskirche, cca. 1,50 €/oră.",
+    "en": "Ludwigskirche parking garage, approx. € 1.50/hr."
+  },
+  "accessibility": {
+    "de": "Kirche über flache Rampen barrierefrei zugänglich.",
+    "hu": "A templom lankás rámpákon keresztül akadálymentesen megközelíthető.",
+    "ro": "Biserica este accesibilă fără bariere prin rampe line.",
+    "en": "Church is accessible via shallow ramps."
+  },
+  "photoRules": {
+    "de": "Ohne Blitz erlaubt.",
+    "hu": "Vaku nélkül engedélyezett.",
+    "ro": "Permis fără bliț.",
+    "en": "Allowed without flash."
+  },
+  "bestTimeToVisit": {
+    "de": "An sonnigen Tagen wegen des hellen weißen Innenraums.",
+    "hu": "Napsütéses napokon a világos, fehér belső tér miatt.",
+    "ro": "În zilele însorite, datorită interiorului alb și luminos.",
+    "en": "On sunny days to appreciate the bright white interior."
+  },
+  "audioGuide": {
+    "de": "nein",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

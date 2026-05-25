@@ -1,12 +1,57 @@
 {
-  "address": "Fens Region, Cambridgeshire, Großbritannien",
-  "openingHours": "24/7",
-  "entranceFee": "kostenlos",
+  "address": {
+    "de": "Fens Region, Cambridgeshire, Großbritannien",
+    "hu": "Fens régió, Cambridgeshire, Nagy-Britannia",
+    "ro": "Regiunea Fens, Cambridgeshire, Marea Britanie",
+    "en": "Fens Region, Cambridgeshire, Great Britain"
+  },
+  "openingHours": {
+    "de": "24/7",
+    "hu": "0-24",
+    "ro": "Non-stop",
+    "en": "24/7"
+  },
+  "entranceFee": {
+    "de": "kostenlos",
+    "hu": "ingyenes",
+    "ro": "gratuit",
+    "en": "free"
+  },
   "website": "",
-  "publicTransport": "Bahnhöfe Ely oder Peterborough direkt in der Region",
-  "parking": "Öffentliche Parkplätze in den Marktstädten (z.B. Ely)",
-  "accessibility": "Sehr flach, viele Radwege sind gut befahrbar",
-  "photoRules": "Erlaubt",
-  "bestTimeToVisit": "Herbst für mystische Nebellandschaften",
-  "audioGuide": "Nein"
+  "publicTransport": {
+    "de": "Bahnhöfe Ely oder Peterborough direkt in der Region",
+    "hu": "Ely vagy Peterborough állomások közvetlenül a régióban",
+    "ro": "Gările Ely sau Peterborough direct în regiune",
+    "en": "Stations Ely or Peterborough directly in the region"
+  },
+  "parking": {
+    "de": "Öffentliche Parkplätze in den Marktstädten (z.B. Ely)",
+    "hu": "Nyilvános parkolók a piactereken (pl. Ely)",
+    "ro": "Parcări publice în orașele de piață (ex. Ely)",
+    "en": "Public parking in market towns (e.g. Ely)"
+  },
+  "accessibility": {
+    "de": "Sehr flach, viele Radwege sind gut befahrbar",
+    "hu": "Nagyon sík, sok kerékpárút jól járható",
+    "ro": "Foarte plat, multe piste de biciclete sunt ușor de parcurs",
+    "en": "Very flat, many bike paths are easily navigable"
+  },
+  "photoRules": {
+    "de": "Erlaubt",
+    "hu": "Engedélyezett",
+    "ro": "Permis",
+    "en": "Allowed"
+  },
+  "bestTimeToVisit": {
+    "de": "Herbst für mystische Nebellandschaften",
+    "hu": "Ősz a misztikus ködös tájakért",
+    "ro": "Toamna pentru peisaje mistice cu ceață",
+    "en": "Autumn for mystical foggy landscapes"
+  },
+  "audioGuide": {
+    "de": "Nein",
+    "hu": "Nem",
+    "ro": "Nu",
+    "en": "No"
+  }
 }

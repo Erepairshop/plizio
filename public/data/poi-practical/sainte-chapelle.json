@@ -1,12 +1,57 @@
 {
-  "address": "10 Boulevard du Palais, 75001 Paris",
-  "openingHours": "Mo-So 09:00-19:00 (Sommer), 09:00-17:00 (Winter)",
-  "entranceFee": "€13 Erwachsene, Kombiticket mit Conciergerie empfohlen",
+  "address": {
+    "de": "10 Boulevard du Palais, 75001 Paris",
+    "hu": "10 Boulevard du Palais, 75001 Paris",
+    "ro": "10 Boulevard du Palais, 75001 Paris",
+    "en": "10 Boulevard du Palais, 75001 Paris"
+  },
+  "openingHours": {
+    "de": "Mo-So 09:00-19:00 (Sommer), 09:00-17:00 (Winter)",
+    "hu": "Hé-Va 09:00-19:00 (nyár), 09:00-17:00 (tél)",
+    "ro": "Lu-Du 09:00-19:00 (vară), 09:00-17:00 (iarnă)",
+    "en": "Mon-Sun 09:00-19:00 (summer), 09:00-17:00 (winter)"
+  },
+  "entranceFee": {
+    "de": "€13 Erwachsene, Kombiticket mit Conciergerie empfohlen",
+    "hu": "13 € felnőtteknek, kombijegy ajánlott a Conciergerie-vel",
+    "ro": "13 € adulți, recomandat bilet combinat cu Conciergerie",
+    "en": "€13 adults, combo ticket with Conciergerie recommended"
+  },
   "website": "https://www.sainte-chapelle.fr",
-  "publicTransport": "Metro Linie 4 Station 'Cité'",
-  "parking": "Parkhaus 'Hôtel de Ville' (ca. 8 Min. Fußweg über die Seine-Brücke)",
-  "accessibility": "Rampe und Aufzug für Rollstühle vorhanden (Personal ansprechen)",
-  "photoRules": "Ohne Blitz erlaubt; Stativ verboten",
-  "bestTimeToVisit": "An einem sonnigen Vormittag für das maximale Farberlebnis der Glasfenster",
-  "audioGuide": "Ja, verfügbar für €3"
+  "publicTransport": {
+    "de": "Metro Linie 4 Station 'Cité'",
+    "hu": "4-es metró 'Cité' állomás",
+    "ro": "Linia de metrou 4 stația 'Cité'",
+    "en": "Metro line 4 station 'Cité'"
+  },
+  "parking": {
+    "de": "Parkhaus 'Hôtel de Ville' (ca. 8 Min. Fußweg über die Seine-Brücke)",
+    "hu": "'Hôtel de Ville' parkolóház (kb. 8 perc gyalog a Szajna-hídon)",
+    "ro": "Parcarea 'Hôtel de Ville' (aprox. 8 min. de mers pe jos peste podul Senei)",
+    "en": "'Hôtel de Ville' parking garage (approx. 8 min. walk over the Seine bridge)"
+  },
+  "accessibility": {
+    "de": "Rampe und Aufzug für Rollstühle vorhanden (Personal ansprechen)",
+    "hu": "Rámpa és lift kerekesszékeseknek (kérje a személyzetet)",
+    "ro": "Rampe și lift pentru scaune cu rotile disponibile (contactați personalul)",
+    "en": "Ramp and elevator for wheelchairs available (ask staff)"
+  },
+  "photoRules": {
+    "de": "Ohne Blitz erlaubt; Stativ verboten",
+    "hu": "Vaku nélkül engedélyezett; állvány tilos",
+    "ro": "Permis fără bliț; trepied interzis",
+    "en": "Allowed without flash; tripod prohibited"
+  },
+  "bestTimeToVisit": {
+    "de": "An einem sonnigen Vormittag für das maximale Farberlebnis der Glasfenster",
+    "hu": "Napsütéses délelőttön az üvegablakok maximális színélményéért",
+    "ro": "Într-o dimineață însorită pentru experiența cromatică maximă a vitraliilor",
+    "en": "On a sunny morning for the maximum color experience of the stained glass windows"
+  },
+  "audioGuide": {
+    "de": "Ja, verfügbar für €3",
+    "hu": "Igen, elérhető 3 €-ért",
+    "ro": "Da, disponibil pentru 3 €",
+    "en": "Yes, available for €3"
+  }
 }

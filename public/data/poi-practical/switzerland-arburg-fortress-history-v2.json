@@ -1,12 +1,57 @@
 {
-  "address": "Schlossrain, 4663 Aarburg, Schweiz",
-  "openingHours": "Außenbereich 24/7; Innenraum nur Sa 14:00 (Mai-Okt) im Rahmen von Führungen",
-  "entranceFee": "Besichtigung von außen kostenlos, Führung CHF 10",
+  "address": {
+    "de": "Schlossrain, 4663 Aarburg, Schweiz",
+    "hu": "Schlossrain, 4663 Aarburg, Svájc",
+    "ro": "Schlossrain, 4663 Aarburg, Elveția",
+    "en": "Schlossrain, 4663 Aarburg, Switzerland"
+  },
+  "openingHours": {
+    "de": "Außenbereich 24/7; Innenraum nur Sa 14:00 (Mai-Okt) im Rahmen von Führungen",
+    "hu": "Kültér 24/7; beltér csak Szo 14:00 (május-október) vezetett túrák keretében",
+    "ro": "Exterior 24/7; interior doar sâmbătă la 14:00 (mai-octombrie) în cadrul tururilor ghidate",
+    "en": "Exterior 24/7; interior only Sat 14:00 (May-Oct) as part of guided tours"
+  },
+  "entranceFee": {
+    "de": "Besichtigung von außen kostenlos, Führung CHF 10",
+    "hu": "Kívülről ingyenes, vezetés 10 CHF",
+    "ro": "Vizitarea exterioară gratuită, tur ghidat 10 CHF",
+    "en": "Exterior visit free, tour CHF 10"
+  },
   "website": "https://www.aarburg.ch/",
-  "publicTransport": "Bahnhof Aarburg-Oftringen, ca. 5 Min Fußweg",
-  "parking": "Parkhaus Post oder öffentliche Parkplätze an der Aare (gebührenpflichtig)",
-  "accessibility": "Steiler Fußweg zur Festung, für Rollstuhlfahrer nicht geeignet",
-  "photoRules": "Im Außenbereich uneingeschränkt erlaubt",
-  "bestTimeToVisit": "Abenddämmerung für den Blick über die markante Aareschlaufe",
-  "audioGuide": "nein (Führungen in Deutsch)"
+  "publicTransport": {
+    "de": "Bahnhof Aarburg-Oftringen, ca. 5 Min Fußweg",
+    "hu": "Aarburg-Oftringen vasútállomás, kb. 5 perc gyalog",
+    "ro": "Gara Aarburg-Oftringen, aprox. 5 min. de mers pe jos",
+    "en": "Aarburg-Oftringen train station, approx. 5 min. walk"
+  },
+  "parking": {
+    "de": "Parkhaus Post oder öffentliche Parkplätze an der Aare (gebührenpflichtig)",
+    "hu": "Posta parkolóház vagy nyilvános parkolók az Aare mellett (fizetős)",
+    "ro": "Parcarea Post sau parcări publice lângă Aare (cu plată)",
+    "en": "Post parking garage or public parking spaces by the Aare (paid)"
+  },
+  "accessibility": {
+    "de": "Steiler Fußweg zur Festung, für Rollstuhlfahrer nicht geeignet",
+    "hu": "Meredek gyalogút az erődítményhez, kerekesszékeseknek nem alkalmas",
+    "ro": "Drum abrupt spre fortăreață, nepotrivit pentru scaune cu rotile",
+    "en": "Steep footpath to the fortress, not suitable for wheelchair users"
+  },
+  "photoRules": {
+    "de": "Im Außenbereich uneingeschränkt erlaubt",
+    "hu": "Kültéren korlátozás nélkül engedélyezett",
+    "ro": "Permis nelimitat în exterior",
+    "en": "Allowed without restriction in the exterior"
+  },
+  "bestTimeToVisit": {
+    "de": "Abenddämmerung für den Blick über die markante Aareschlaufe",
+    "hu": "Alkonyatkor a jellegzetes Aare-kanyar feletti kilátásért",
+    "ro": "La amurg pentru vederea asupra buclei caracteristice a râului Aare",
+    "en": "At dusk for the view over the striking Aare loop"
+  },
+  "audioGuide": {
+    "de": "nein (Führungen in Deutsch)",
+    "hu": "nem (vezetések németül)",
+    "ro": "nu (tururi în germană)",
+    "en": "no (tours in German)"
+  }
 }

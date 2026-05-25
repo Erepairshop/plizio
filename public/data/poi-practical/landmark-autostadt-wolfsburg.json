@@ -1,12 +1,51 @@
 {
-  "address": "Stadtbrücke, 38440 Wolfsburg",
-  "openingHours": "Täglich 10:00-18:00",
-  "entranceFee": "Tageskarte 15€ Erwachsene, 6€ Kinder",
+  "address": {
+    "de": "Stadtbrücke, 38440 Wolfsburg",
+    "hu": "Stadtbrücke, 38440 Wolfsburg",
+    "ro": "Stadtbrücke, 38440 Wolfsburg",
+    "en": "Stadtbrücke, 38440 Wolfsburg"
+  },
+  "openingHours": {
+    "de": "Täglich 10:00-18:00",
+    "hu": "Naponta 10:00-18:00",
+    "ro": "Zilnic 10:00-18:00",
+    "en": "Daily 10:00-18:00"
+  },
+  "entranceFee": {
+    "de": "Tageskarte 15€ Erwachsene, 6€ Kinder",
+    "hu": "Napijegy 15 € felnőttek, 6 € gyermekek",
+    "ro": "Bilet zilnic 15 € adulți, 6 € copii",
+    "en": "Day ticket €15 adults, €6 children"
+  },
   "website": "https://www.autostadt.de",
-  "publicTransport": "ICE-Bahnhof Wolfsburg ist direkt über eine Brücke angebunden.",
-  "parking": "Besucherparkplätze vor Ort vorhanden, ca. 3€/Tag für Gäste.",
-  "accessibility": "Vorbildlich barrierefrei, Rollstühle können kostenlos geliehen werden.",
-  "photoRules": "Privat erlaubt, in den Pavillons teils eingeschränkt.",
-  "bestTimeToVisit": "Unter der Woche, um Wartezeiten an den Markenpavillons zu vermeiden.",
-  "audioGuide": "nein (jedoch sehr informative Führungen buchbar)"
+  "publicTransport": {
+    "de": "ICE-Bahnhof Wolfsburg ist direkt über eine Brücke angebunden.",
+    "hu": "Wolfsburg ICE-pályaudvar közvetlenül egy hídon keresztül érhető el.",
+    "ro": "Gara ICE Wolfsburg este conectată direct printr-un pod.",
+    "en": "Wolfsburg ICE train station is connected directly via a bridge."
+  },
+  "parking": {
+    "de": "Besucherparkplätze vor Ort vorhanden, ca. 3€/Tag für Gäste.",
+    "hu": "Látogatói parkolóhelyek a helyszínen, kb. 3 €/nap vendégeknek.",
+    "ro": "Locuri de parcare pentru vizitatori la fața locului, aprox. 3 €/zi pentru oaspeți.",
+    "en": "Visitor parking available on site, approx. €3/day for guests."
+  },
+  "accessibility": {
+    "de": "Vorbildlich barrierefrei, Rollstühle können kostenlos geliehen werden.",
+    "hu": "Példásan akadálymentes, kerekesszékek ingyenesen kölcsönözhetők.",
+    "ro": "Accesibilitate exemplară, scaunele cu rotile pot fi împrumutate gratuit.",
+    "en": "Exemplary accessible, wheelchairs can be borrowed free of charge."
+  },
+  "photoRules": {
+    "de": "Privat erlaubt, in den Pavillons teils eingeschränkt.",
+    "hu": "Magáncélra megengedett, a pavilonokban részben korlátozott.",
+    "ro": "Permis în scop privat, parțial restricționat în pavilioane.",
+    "en": "Privately allowed, partially restricted in the pavilions."
+  },
+  "bestTimeToVisit": {
+    "de": "Unter der Woche, um Wartezeiten an den Markenpavillons zu vermeiden.",
+    "hu": "Hétköznap, a márkák pavilonjainál fellépő várakozási idők elkerülése érdekében.",
+    "ro": "În timpul săptămânii, pentru a evita timpii de așteptare la pavilioanele mărcilor.",
+    "en": "Weekdays to avoid waiting times at the brand pavilions."
+  }
 }

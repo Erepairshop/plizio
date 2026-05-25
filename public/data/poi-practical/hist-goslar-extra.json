@@ -1,12 +1,57 @@
 {
-  "address": "Marktplatz, 38640 Goslar",
-  "openingHours": "24/7",
-  "entranceFee": "kostenlos",
+  "address": {
+    "de": "Marktplatz, 38640 Goslar",
+    "hu": "Marktplatz, 38640 Goslar",
+    "ro": "Marktplatz, 38640 Goslar",
+    "en": "Marktplatz, 38640 Goslar"
+  },
+  "openingHours": {
+    "de": "24/7",
+    "hu": "24/7",
+    "ro": "24/7",
+    "en": "24/7"
+  },
+  "entranceFee": {
+    "de": "kostenlos",
+    "hu": "ingyenes",
+    "ro": "gratuit",
+    "en": "free"
+  },
   "website": "https://www.goslar.de",
-  "publicTransport": "10 Min. Fußweg vom Bahnhof Goslar durch die Fußgängerzone.",
-  "parking": "Parkplatz Fischemäkerstraße oder Kaiserpfalz (~1,50 €/Std.).",
-  "accessibility": "Historische Altstadt mit viel Kopfsteinpflaster, teils holprig.",
-  "photoRules": "Überall im öffentlichen Raum gestattet.",
-  "bestTimeToVisit": "Pünktlich zum Glockenspiel (09, 12, 15, 18 Uhr) am Marktplatz.",
-  "audioGuide": "nein"
+  "publicTransport": {
+    "de": "10 Min. Fußweg vom Bahnhof Goslar durch die Fußgängerzone.",
+    "hu": "10 perc séta Goslar állomástól a sétálóutcán át.",
+    "ro": "10 minute de mers pe jos de la gara Goslar prin zona pietonală.",
+    "en": "10 min walk from Goslar station through pedestrian area."
+  },
+  "parking": {
+    "de": "Parkplatz Fischemäkerstraße oder Kaiserpfalz (~1,50 €/Std.).",
+    "hu": "Fischemäkerstraße vagy Kaiserpfalz parkoló (~1,50 €/óra).",
+    "ro": "Parcare Fischemäkerstraße sau Kaiserpfalz (~1,50 €/oră).",
+    "en": "Parking Fischemäkerstraße or Kaiserpfalz (~€1.50/hr)."
+  },
+  "accessibility": {
+    "de": "Historische Altstadt mit viel Kopfsteinpflaster, teils holprig.",
+    "hu": "Történelmi óváros, sok macskakővel, néhol rázós.",
+    "ro": "Centru istoric cu multe pavaje, pe alocuri denivelat.",
+    "en": "Historic old town with lots of cobblestones, partly bumpy."
+  },
+  "photoRules": {
+    "de": "Überall im öffentlichen Raum gestattet.",
+    "hu": "Mindenhol szabad közterületen.",
+    "ro": "Permis peste tot în spațiul public.",
+    "en": "Allowed everywhere in public spaces."
+  },
+  "bestTimeToVisit": {
+    "de": "Pünktlich zum Glockenspiel (09, 12, 15, 18 Uhr) am Marktplatz.",
+    "hu": "Pontosan a harangjáték idején (09, 12, 15, 18 órakor) a piactéren.",
+    "ro": "La timp pentru orologiu (09, 12, 15, 18) în piața centrală.",
+    "en": "Just in time for the glockenspiel (09, 12, 15, 18) at the market square."
+  },
+  "audioGuide": {
+    "de": "nein",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

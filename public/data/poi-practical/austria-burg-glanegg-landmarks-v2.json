@@ -1,12 +1,57 @@
 {
-  "address": "Glanegg 1, 9552 Glanegg",
-  "openingHours": "Tagsüber frei zugänglich (Ruine)",
-  "entranceFee": "kostenlos",
+  "address": {
+    "de": "Glanegg 1, 9552 Glanegg",
+    "hu": "Glanegg 1, 9552 Glanegg",
+    "ro": "Glanegg 1, 9552 Glanegg",
+    "en": "Glanegg 1, 9552 Glanegg"
+  },
+  "openingHours": {
+    "de": "Tagsüber frei zugänglich (Ruine)",
+    "hu": "Napközben szabadon látogatható (rom)",
+    "ro": "Accesibil liber în timpul zilei (ruine)",
+    "en": "Freely accessible during the day (ruins)"
+  },
+  "entranceFee": {
+    "de": "kostenlos",
+    "hu": "ingyenes",
+    "ro": "gratuit",
+    "en": "free"
+  },
   "website": "https://www.burg-glanegg.at",
-  "publicTransport": "ÖBB S-Bahn S1 bis Glanegg",
-  "parking": "Parkplatz beim Gemeindeamt oder Fuße der Burg.",
-  "accessibility": "Ruine ist nicht barrierefrei (unebenes Gelände).",
-  "photoRules": "Erlaubt für private Zwecke.",
-  "bestTimeToVisit": "Mai bis Oktober während der Burgveranstaltungen.",
-  "audioGuide": "nein"
+  "publicTransport": {
+    "de": "ÖBB S-Bahn S1 bis Glanegg",
+    "hu": "ÖBB S1 gyorsvasút Glaneggig",
+    "ro": "ÖBB S-Bahn S1 până la Glanegg",
+    "en": "ÖBB S-Bahn S1 to Glanegg"
+  },
+  "parking": {
+    "de": "Parkplatz beim Gemeindeamt oder Fuße der Burg.",
+    "hu": "Parkoló a polgármesteri hivatalnál vagy a vár lábánál.",
+    "ro": "Parcare la primărie sau la baza castelului.",
+    "en": "Parking at the municipal office or the foot of the castle."
+  },
+  "accessibility": {
+    "de": "Ruine ist nicht barrierefrei (unebenes Gelände).",
+    "hu": "A rom nem akadálymentes (egyenetlen talaj).",
+    "ro": "Ruina nu este accesibilă (teren accidentat).",
+    "en": "Ruins are not barrier-free (uneven terrain)."
+  },
+  "photoRules": {
+    "de": "Erlaubt für private Zwecke.",
+    "hu": "Magáncélra megengedett.",
+    "ro": "Permis în scopuri private.",
+    "en": "Permitted for private purposes."
+  },
+  "bestTimeToVisit": {
+    "de": "Mai bis Oktober während der Burgveranstaltungen.",
+    "hu": "Májustól októberig a vári rendezvények idején.",
+    "ro": "Mai până în octombrie în timpul evenimentelor de la castel.",
+    "en": "May to October during castle events."
+  },
+  "audioGuide": {
+    "de": "nein",
+    "hu": "nem",
+    "ro": "nu",
+    "en": "no"
+  }
 }

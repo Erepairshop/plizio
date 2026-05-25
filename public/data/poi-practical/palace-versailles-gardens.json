@@ -1,12 +1,57 @@
 {
-  "address": "Place d'Armes, 78000 Versailles",
-  "openingHours": "Täglich 08:00-18:00 (Winter), 08:00-20:30 (Sommer)",
-  "entranceFee": "Kostenlos (außer an Tagen der Wasserspiele/Musikalischen Gärten ca. €10)",
+  "address": {
+    "de": "Place d'Armes, 78000 Versailles",
+    "hu": "Place d'Armes, 78000 Versailles",
+    "ro": "Place d'Armes, 78000 Versailles",
+    "en": "Place d'Armes, 78000 Versailles"
+  },
+  "openingHours": {
+    "de": "Täglich 08:00-18:00 (Winter), 08:00-20:30 (Sommer)",
+    "hu": "Naponta 08:00-18:00 (tél), 08:00-20:30 (nyár)",
+    "ro": "Zilnic 08:00-18:00 (iarnă), 08:00-20:30 (vară)",
+    "en": "Daily 08:00-18:00 (winter), 08:00-20:30 (summer)"
+  },
+  "entranceFee": {
+    "de": "Kostenlos (außer an Tagen der Wasserspiele/Musikalischen Gärten ca. €10)",
+    "hu": "Ingyenes (kivéve a vízjátékok/zenés kertek napjain kb. €10)",
+    "ro": "Gratuit (cu excepția zilelor cu jocuri de apă/grădini muzicale cca. €10)",
+    "en": "Free (except on days of water shows/musical gardens approx. €10)"
+  },
   "website": "https://www.chateauversailles.fr",
-  "publicTransport": "RER Linie C bis Station 'Versailles Château Rive Gauche'",
-  "parking": "Kostenpflichtige Parkplätze am Place d'Armes (€5/Std.)",
-  "accessibility": "Hauptwege geschottert (anstrengend), Golf-Carts zum Mieten verfügbar",
-  "photoRules": "Frei erlaubt; Drohnen streng verboten",
-  "bestTimeToVisit": "An Tagen der 'Grandes Eaux Musicales' (Wasserspiele)",
-  "audioGuide": "Über die kostenlose Schloss-App verfügbar"
+  "publicTransport": {
+    "de": "RER Linie C bis Station 'Versailles Château Rive Gauche'",
+    "hu": "RER C vonal a 'Versailles Château Rive Gauche' állomásig",
+    "ro": "Linia RER C până la stația 'Versailles Château Rive Gauche'",
+    "en": "RER line C to 'Versailles Château Rive Gauche' station"
+  },
+  "parking": {
+    "de": "Kostenpflichtige Parkplätze am Place d'Armes (€5/Std.)",
+    "hu": "Fizetős parkolók a Place d'Armes-on (€5/óra)",
+    "ro": "Parcări cu plată în Place d'Armes (€5/oră)",
+    "en": "Paid parking at Place d'Armes (€5/hr)"
+  },
+  "accessibility": {
+    "de": "Hauptwege geschottert (anstrengend), Golf-Carts zum Mieten verfügbar",
+    "hu": "Főutak kavicsosak (fárasztó), golfkocsik bérelhetők",
+    "ro": "Aleile principale cu pietriș (solicitant), mașinuțe de golf disponibile pentru închiriere",
+    "en": "Main paths gravelled (tiring), golf carts available for rent"
+  },
+  "photoRules": {
+    "de": "Frei erlaubt; Drohnen streng verboten",
+    "hu": "Szabadon megengedett; drónok szigorúan tilosak",
+    "ro": "Permis liber; dronele strict interzise",
+    "en": "Freely permitted; drones strictly forbidden"
+  },
+  "bestTimeToVisit": {
+    "de": "An Tagen der 'Grandes Eaux Musicales' (Wasserspiele)",
+    "hu": "A 'Grandes Eaux Musicales' (vízjátékok) napjain",
+    "ro": "În zilele cu 'Grandes Eaux Musicales' (jocuri de apă)",
+    "en": "On days of 'Grandes Eaux Musicales' (water shows)"
+  },
+  "audioGuide": {
+    "de": "Über die kostenlose Schloss-App verfügbar",
+    "hu": "Az ingyenes kastélyalkalmazáson keresztül érhető el",
+    "ro": "Disponibil prin aplicația gratuită a palatului",
+    "en": "Available via the free palace app"
+  }
 }

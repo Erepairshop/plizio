@@ -1,12 +1,57 @@
 {
-  "address": "Great Russell St, London WC1B 3DG",
-  "openingHours": "Mo-Su 10:00-17:00 (Fr bis 20:30)",
-  "entranceFee": "free (Online-Reservierung dringend empfohlen)",
+  "address": {
+    "de": "Great Russell St, London WC1B 3DG",
+    "hu": "Great Russell St, London WC1B 3DG",
+    "ro": "Great Russell St, London WC1B 3DG",
+    "en": "Great Russell St, London WC1B 3DG"
+  },
+  "openingHours": {
+    "de": "Mo-Su 10:00-17:00 (Fr bis 20:30)",
+    "hu": "Hé-Va 10:00-17:00 (Pé 20:30-ig)",
+    "ro": "Lu-Du 10:00-17:00 (Vi până la 20:30)",
+    "en": "Mo-Su 10:00-17:00 (Fri until 20:30)"
+  },
+  "entranceFee": {
+    "de": "free (Online-Reservierung dringend empfohlen)",
+    "hu": "ingyenes (online foglalás erősen ajánlott)",
+    "ro": "gratuit (rezervare online recomandată urgent)",
+    "en": "free (online reservation highly recommended)"
+  },
   "website": "https://www.britishmuseum.org",
-  "publicTransport": "U-Bahn Tottenham Court Road oder Holborn",
-  "parking": "Keine Parkplätze, City Congestion Charge Zone beachten.",
-  "accessibility": "Vollständig barrierefrei mit Aufzügen zu allen Etagen und Galerien.",
-  "photoRules": "Erlaubt ohne Blitz und Stativ, einige Sonderausstellungen ausgenommen.",
-  "bestTimeToVisit": "Freitagabend während der verlängerten Öffnungszeiten für weniger Trubel.",
-  "audioGuide": "de, en, fr, es, it, ko, ja, zh"
+  "publicTransport": {
+    "de": "U-Bahn Tottenham Court Road oder Holborn",
+    "hu": "Tottenham Court Road vagy Holborn metró",
+    "ro": "Metrou Tottenham Court Road sau Holborn",
+    "en": "Tottenham Court Road or Holborn underground"
+  },
+  "parking": {
+    "de": "Keine Parkplätze, City Congestion Charge Zone beachten.",
+    "hu": "Nincs parkoló, vegye figyelembe a City Congestion Charge zónát.",
+    "ro": "Nu există parcare, atenție la zona City Congestion Charge.",
+    "en": "No parking, note the City Congestion Charge zone."
+  },
+  "accessibility": {
+    "de": "Vollständig barrierefrei mit Aufzügen zu allen Etagen und Galerien.",
+    "hu": "Teljesen akadálymentesített, liftek minden emeletre és galériába.",
+    "ro": "Complet accesibil, cu lifturi către toate etajele și galeriile.",
+    "en": "Fully accessible with elevators to all floors and galleries."
+  },
+  "photoRules": {
+    "de": "Erlaubt ohne Blitz und Stativ, einige Sonderausstellungen ausgenommen.",
+    "hu": "Megengedett vaku és állvány nélkül, egyes különleges kiállítások kivételével.",
+    "ro": "Permis fără bliț și trepied, cu excepția unor expoziții speciale.",
+    "en": "Allowed without flash and tripod, some special exhibitions excluded."
+  },
+  "bestTimeToVisit": {
+    "de": "Freitagabend während der verlängerten Öffnungszeiten für weniger Trubel.",
+    "hu": "Péntek este, a meghosszabbított nyitva tartás alatt a kisebb tömegért.",
+    "ro": "Vineri seara în timpul programului prelungit pentru mai puțină aglomerație.",
+    "en": "Friday evening during extended opening hours for fewer crowds."
+  },
+  "audioGuide": {
+    "de": "de, en, fr, es, it, ko, ja, zh",
+    "hu": "de, en, fr, es, it, ko, ja, zh",
+    "ro": "de, en, fr, es, it, ko, ja, zh",
+    "en": "de, en, fr, es, it, ko, ja, zh"
+  }
 }

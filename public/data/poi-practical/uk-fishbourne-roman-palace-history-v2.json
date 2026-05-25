@@ -1,12 +1,57 @@
 {
-  "address": "Roman Way, Fishbourne, Chichester PO19 3QR",
-  "openingHours": "Mo-Su 10:00-17:00",
-  "entranceFee": "£13.50 Erwachsene, £6.80 Kinder",
+  "address": {
+    "de": "Roman Way, Fishbourne, Chichester PO19 3QR",
+    "hu": "Roman Way, Fishbourne, Chichester PO19 3QR",
+    "ro": "Roman Way, Fishbourne, Chichester PO19 3QR",
+    "en": "Roman Way, Fishbourne, Chichester PO19 3QR"
+  },
+  "openingHours": {
+    "de": "Mo-Su 10:00-17:00",
+    "hu": "H-V 10:00-17:00",
+    "ro": "Lu-Du 10:00-17:00",
+    "en": "Mo-Su 10:00-17:00"
+  },
+  "entranceFee": {
+    "de": "£13.50 Erwachsene, £6.80 Kinder",
+    "hu": "£13.50 felnőtt, £6.80 gyerek",
+    "ro": "£13.50 adulți, £6.80 copii",
+    "en": "£13.50 adults, £6.80 children"
+  },
   "website": "https://sussexpast.co.uk/attraction/fishbourne-roman-palace",
-  "publicTransport": "Zug bis Fishbourne Station, dann 5 Min. Fußweg",
-  "parking": "Kostenloser Parkplatz für Besucher direkt am Museum.",
-  "accessibility": "Vollständig barrierefrei, Rampen zu allen Mosaik-Aussichtsplattformen.",
-  "photoRules": "Fotografieren ohne Blitz erlaubt, um die antiken Farben der Mosaike zu schützen.",
-  "bestTimeToVisit": "Mittags, wenn das Licht durch die Nordwand die Mosaike gleichmäßig beleuchtet.",
-  "audioGuide": "en"
+  "publicTransport": {
+    "de": "Zug bis Fishbourne Station, dann 5 Min. Fußweg",
+    "hu": "Vonat Fishbourne állomásig, majd 5 perc gyaloglás",
+    "ro": "Tren până la gara Fishbourne, apoi 5 minute de mers pe jos",
+    "en": "Train to Fishbourne station, then 5-minute walk"
+  },
+  "parking": {
+    "de": "Kostenloser Parkplatz für Besucher direkt am Museum.",
+    "hu": "Ingyenes parkoló a látogatóknak közvetlenül a múzeumnál.",
+    "ro": "Parcare gratuită pentru vizitatori chiar lângă muzeu.",
+    "en": "Free parking for visitors right by the museum."
+  },
+  "accessibility": {
+    "de": "Vollständig barrierefrei, Rampen zu allen Mosaik-Aussichtsplattformen.",
+    "hu": "Teljesen akadálymentes, rámpák vezetnek az összes mozaik-kilátóhoz.",
+    "ro": "Complet accesibil, rampe către toate platformele de observare a mozaicurilor.",
+    "en": "Fully accessible, ramps to all mosaic viewing platforms."
+  },
+  "photoRules": {
+    "de": "Fotografieren ohne Blitz erlaubt, um die antiken Farben der Mosaike zu schützen.",
+    "hu": "Vaku nélküli fotózás engedélyezett, a mozaikok antik színeinek védelme érdekében.",
+    "ro": "Fotografierea fără bliț permisă pentru a proteja culorile antice ale mozaicurilor.",
+    "en": "Photography without flash allowed to protect the ancient colors of the mosaics."
+  },
+  "bestTimeToVisit": {
+    "de": "Mittags, wenn das Licht durch die Nordwand die Mosaike gleichmäßig beleuchtet.",
+    "hu": "Délben, amikor a fény az északi falon keresztül egyenletesen világítja meg a mozaikokat.",
+    "ro": "La prânz, când lumina prin peretele nordic iluminează uniform mozaicurile.",
+    "en": "At noon, when light through the north wall illuminates the mosaics evenly."
+  },
+  "audioGuide": {
+    "de": "en",
+    "hu": "angol",
+    "ro": "engleză",
+    "en": "en"
+  }
 }

@@ -1,12 +1,57 @@
 {
-  "address": "Cluj Arena, Aleea Stadionului, 400375 Cluj-Napoca",
-  "openingHours": "Jährlich im August, 4 Tage rund um die Uhr",
-  "entranceFee": "Varies (Pässe ca. 600-900 RON, oft Monate im Voraus ausverkauft)",
+  "address": {
+    "de": "Cluj Arena, Aleea Stadionului, 400375 Cluj-Napoca",
+    "hu": "Cluj Arena, Aleea Stadionului, 400375 Kolozsvár",
+    "ro": "Cluj Arena, Aleea Stadionului, 400375 Cluj-Napoca",
+    "en": "Cluj Arena, Aleea Stadionului, 400375 Cluj-Napoca"
+  },
+  "openingHours": {
+    "de": "Jährlich im August, 4 Tage rund um die Uhr",
+    "hu": "Minden év augusztusában, 4 napig éjjel-nappal",
+    "ro": "Anual în august, 4 zile non-stop",
+    "en": "Annually in August, 4 days around the clock"
+  },
+  "entranceFee": {
+    "de": "Varies (Pässe ca. 600-900 RON, oft Monate im Voraus ausverkauft)",
+    "hu": "Változó (bérletek kb. 600-900 RON, gyakran hónapokkal előre elfogynak)",
+    "ro": "Variabil (abonamente aprox. 600-900 RON, adesea epuizate cu luni înainte)",
+    "en": "Varies (passes approx. 600-900 RON, often sold out months in advance)"
+  },
   "website": "https://untold.com/",
-  "publicTransport": "Sonderbusse und Straßenbahnen 101, 102 während des Festivals.",
-  "parking": "Zentrumsnah unmöglich; Park-and-Ride am Stadtrand nutzen.",
-  "accessibility": "Speziell ausgewiesene Podeste für Rollstuhlfahrer in der Arena.",
-  "photoRules": "Nicht-professionelle Kameras erlaubt; keine Selfiesticks/Drohnen.",
-  "bestTimeToVisit": "Das gesamte Wochenende; die Eröffnungsshow am Donnerstag ist legendär.",
-  "audioGuide": "no"
+  "publicTransport": {
+    "de": "Sonderbusse und Straßenbahnen 101, 102 während des Festivals.",
+    "hu": "Különjáratú buszok és a 101, 102-es villamosok a fesztivál alatt.",
+    "ro": "Autobuze speciale și tramvaiele 101, 102 pe durata festivalului.",
+    "en": "Special buses and tram lines 101, 102 during the festival."
+  },
+  "parking": {
+    "de": "Zentrumsnah unmöglich; Park-and-Ride am Stadtrand nutzen.",
+    "hu": "A központ közelében lehetetlen; használja a város szélén a P+R parkolókat.",
+    "ro": "Imposibil în apropierea centrului; folosiți Park-and-Ride la marginea orașului.",
+    "en": "Impossible near the center; use Park-and-Ride on the outskirts."
+  },
+  "accessibility": {
+    "de": "Speziell ausgewiesene Podeste für Rollstuhlfahrer in der Arena.",
+    "hu": "Kifejezetten kerekesszékeseknek kialakított emelvények az arénában.",
+    "ro": "Platforme special amenajate pentru persoanele în scaun cu rotile în arenă.",
+    "en": "Specially designated platforms for wheelchair users in the arena."
+  },
+  "photoRules": {
+    "de": "Nicht-professionelle Kameras erlaubt; keine Selfiesticks/Drohnen.",
+    "hu": "Nem professzionális kamerák megengedettek; szelfibot és drón tilos.",
+    "ro": "Camere non-profesionale permise; fără selfie-sticks/drone.",
+    "en": "Non-professional cameras allowed; no selfie sticks or drones."
+  },
+  "bestTimeToVisit": {
+    "de": "Das gesamte Wochenende; die Eröffnungsshow am Donnerstag ist legendär.",
+    "hu": "Az egész hétvége; a csütörtöki nyitóshow legendás.",
+    "ro": "Întregul weekend; spectacolul de deschidere de joi este legendar.",
+    "en": "The entire weekend; the opening show on Thursday is legendary."
+  },
+  "audioGuide": {
+    "de": "no",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

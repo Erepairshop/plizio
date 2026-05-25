@@ -1,12 +1,57 @@
 {
-  "address": "Schloßgasse 1, 3902 Vitis, Österreich",
-  "openingHours": "Privatbesitz, nur Außenbesichtigung möglich",
-  "entranceFee": "kostenlos",
+  "address": {
+    "de": "Schloßgasse 1, 3902 Vitis, Österreich",
+    "hu": "Schloßgasse 1, 3902 Vitis, Ausztria",
+    "ro": "Schloßgasse 1, 3902 Vitis, Austria",
+    "en": "Schloßgasse 1, 3902 Vitis, Austria"
+  },
+  "openingHours": {
+    "de": "Privatbesitz, nur Außenbesichtigung möglich",
+    "hu": "Magántulajdon, csak kívülről tekinthető meg",
+    "ro": "Proprietate privată, posibilă doar vizitarea exterioară",
+    "en": "Private property, only exterior viewing possible"
+  },
+  "entranceFee": {
+    "de": "kostenlos",
+    "hu": "ingyenes",
+    "ro": "gratuit",
+    "en": "free"
+  },
   "website": "",
-  "publicTransport": "Bahnhof Vitis, ca. 10 Min Fußweg",
-  "parking": "Kostenlose Parkmöglichkeiten im Ortszentrum",
-  "accessibility": "Das Gelände ist teilweise zugänglich, Außenansicht barrierefrei",
-  "photoRules": "Erlaubt, Privatsphäre der Bewohner ist zu respektieren",
-  "bestTimeToVisit": "ganztägig möglich",
-  "audioGuide": "nein"
+  "publicTransport": {
+    "de": "Bahnhof Vitis, ca. 10 Min Fußweg",
+    "hu": "Vitis vasútállomás, kb. 10 perc séta",
+    "ro": "Gara Vitis, aprox. 10 minute de mers pe jos",
+    "en": "Vitis train station, approx. 10 min walk"
+  },
+  "parking": {
+    "de": "Kostenlose Parkmöglichkeiten im Ortszentrum",
+    "hu": "Ingyenes parkolási lehetőség a központban",
+    "ro": "Locuri de parcare gratuite în centrul localității",
+    "en": "Free parking in the town center"
+  },
+  "accessibility": {
+    "de": "Das Gelände ist teilweise zugänglich, Außenansicht barrierefrei",
+    "hu": "A terület részben hozzáférhető, a külső nézet akadálymentes",
+    "ro": "Terenul este parțial accesibil, vizualizarea exterioară este fără bariere",
+    "en": "The grounds are partially accessible, exterior view is barrier-free"
+  },
+  "photoRules": {
+    "de": "Erlaubt, Privatsphäre der Bewohner ist zu respektieren",
+    "hu": "Megengedett, a lakók magánszféráját tiszteletben kell tartani",
+    "ro": "Permis, trebuie respectată intimitatea locuitorilor",
+    "en": "Permitted, the privacy of the residents must be respected"
+  },
+  "bestTimeToVisit": {
+    "de": "ganztägig möglich",
+    "hu": "egész nap lehetséges",
+    "ro": "posibil pe tot parcursul zilei",
+    "en": "possible all day long"
+  },
+  "audioGuide": {
+    "de": "nein",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

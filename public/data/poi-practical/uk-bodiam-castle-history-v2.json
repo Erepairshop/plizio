@@ -1,12 +1,57 @@
 {
-  "address": "Bodiam, near Robertsbridge, East Sussex TN32 5UA",
-  "openingHours": "Mo-Su 10:00-17:00",
-  "entranceFee": "£11.00 Erwachsene, £5.50 Kinder (National Trust)",
+  "address": {
+    "de": "Bodiam, near Robertsbridge, East Sussex TN32 5UA",
+    "hu": "Bodiam, Robertsbridge mellett, East Sussex TN32 5UA",
+    "ro": "Bodiam, lângă Robertsbridge, East Sussex TN32 5UA",
+    "en": "Bodiam, near Robertsbridge, East Sussex TN32 5UA"
+  },
+  "openingHours": {
+    "de": "Mo-Su 10:00-17:00",
+    "hu": "Hé-Va 10:00-17:00",
+    "ro": "Lu-Du 10:00-17:00",
+    "en": "Mo-Su 10:00-17:00"
+  },
+  "entranceFee": {
+    "de": "£11.00 Erwachsene, £5.50 Kinder (National Trust)",
+    "hu": "£11.00 felnőtt, £5.50 gyerek (National Trust)",
+    "ro": "£11.00 adulți, £5.50 copii (National Trust)",
+    "en": "£11.00 adults, £5.50 children (National Trust)"
+  },
   "website": "https://www.nationaltrust.org.uk/visit/south-east/bodiam-castle",
-  "publicTransport": "Bus 349 ab Hastings oder Robertsbridge Bahnhof",
-  "parking": "Kostenpflichtiger Parkplatz vor Ort, für National Trust Mitglieder kostenlos.",
-  "accessibility": "Außenanlagen und Erdgeschoss zugänglich, Türme nur über schmale Wendeltreppen.",
-  "photoRules": "Erlaubt, Stativnutzung nur im Außenbereich gestattet.",
-  "bestTimeToVisit": "Früh morgens bei Nebel über dem Wassergraben für mystische Fotos.",
-  "audioGuide": "no"
+  "publicTransport": {
+    "de": "Bus 349 ab Hastings oder Robertsbridge Bahnhof",
+    "hu": "349-es busz Hastingsből vagy Robertsbridge állomástól",
+    "ro": "Autobuz 349 din Hastings sau gara Robertsbridge",
+    "en": "Bus 349 from Hastings or Robertsbridge station"
+  },
+  "parking": {
+    "de": "Kostenpflichtiger Parkplatz vor Ort, für National Trust Mitglieder kostenlos.",
+    "hu": "Fizetős parkoló helyben, National Trust tagoknak ingyenes.",
+    "ro": "Parcare cu plată la fața locului, gratuită pentru membrii National Trust.",
+    "en": "Paid parking on site, free for National Trust members."
+  },
+  "accessibility": {
+    "de": "Außenanlagen und Erdgeschoss zugänglich, Türme nur über schmale Wendeltreppen.",
+    "hu": "Külső részek és földszint megközelíthetőek, a tornyok csak szűk csigalépcsőkön.",
+    "ro": "Zonele exterioare și parterul accesibile, turnurile doar pe scări în spirală înguste.",
+    "en": "Exterior areas and ground floor accessible, towers only via narrow spiral stairs."
+  },
+  "photoRules": {
+    "de": "Erlaubt, Stativnutzung nur im Außenbereich gestattet.",
+    "hu": "Megengedett, állvány használata csak kültéren engedélyezett.",
+    "ro": "Permis, utilizarea trepiedului permisă doar în exterior.",
+    "en": "Allowed, tripod use permitted only outdoors."
+  },
+  "bestTimeToVisit": {
+    "de": "Früh morgens bei Nebel über dem Wassergraben für mystische Fotos.",
+    "hu": "Kora reggel, ködben a vizesárok felett a misztikus fotókért.",
+    "ro": "Dimineața devreme cu ceață peste șanțul cu apă pentru fotografii mistice.",
+    "en": "Early morning with fog over the moat for mystical photos."
+  },
+  "audioGuide": {
+    "de": "no",
+    "hu": "nem",
+    "ro": "nu",
+    "en": "no"
+  }
 }

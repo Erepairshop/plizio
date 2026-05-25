@@ -1,12 +1,57 @@
 {
-  "address": "Burg Eltz 1, 56294 Wierschem",
-  "openingHours": "Täglich 09:30-17:30 (Apr-Okt), im Winter geschlossen",
-  "entranceFee": "€14 Erwachsene, €7 Kinder",
+  "address": {
+    "de": "Burg Eltz 1, 56294 Wierschem",
+    "hu": "Burg Eltz 1, 56294 Wierschem",
+    "ro": "Burg Eltz 1, 56294 Wierschem",
+    "en": "Burg Eltz 1, 56294 Wierschem"
+  },
+  "openingHours": {
+    "de": "Täglich 09:30-17:30 (Apr-Okt), im Winter geschlossen",
+    "hu": "Naponta 09:30-17:30 (ápr-okt), télen zárva",
+    "ro": "Zilnic 09:30-17:30 (apr-oct), închis iarna",
+    "en": "Daily 09:30-17:30 (Apr-Oct), closed in winter"
+  },
+  "entranceFee": {
+    "de": "€14 Erwachsene, €7 Kinder",
+    "hu": "14 € felnőtt, 7 € gyermek",
+    "ro": "14 € adulți, 7 € copii",
+    "en": "€14 adults, €7 children"
+  },
   "website": "https://www.burg-eltz.de",
-  "publicTransport": "Burgenbus 330 ab Hatzenport (nur Sa, So und Feiertage)",
-  "parking": "Waldparkplatz (~4 €), danach 15 Min. Fußweg oder Pendelbus.",
-  "accessibility": "Eingeschränkt; steile Wege zur Burg, Innenräume nicht barrierefrei.",
-  "photoRules": "Im Innenhof erlaubt, in den historischen Innenräumen streng verboten.",
-  "bestTimeToVisit": "Direkt zur Öffnung am Morgen, um Wartezeiten am Einlass zu vermeiden.",
-  "audioGuide": "ja (Führungen in DE/EN, Texthefte in anderen Sprachen)"
+  "publicTransport": {
+    "de": "Burgenbus 330 ab Hatzenport (nur Sa, So und Feiertage)",
+    "hu": "330-as Burgenbus Hatzenport felől (csak szo, vas és ünnepnapokon)",
+    "ro": "Autobuzul cetăților 330 din Hatzenport (doar sâ, du și sărbători)",
+    "en": "Burgenbus 330 from Hatzenport (Sat, Sun and public holidays only)"
+  },
+  "parking": {
+    "de": "Waldparkplatz (~4 €), danach 15 Min. Fußweg oder Pendelbus.",
+    "hu": "Erdei parkoló (~4 €), onnan 15 perc séta vagy ingajárat.",
+    "ro": "Parcare în pădure (~4 €), apoi 15 min. pe jos sau cu autobuzul pendulă.",
+    "en": "Forest parking lot (~4 €), followed by a 15-minute walk or shuttle bus."
+  },
+  "accessibility": {
+    "de": "Eingeschränkt; steile Wege zur Burg, Innenräume nicht barrierefrei.",
+    "hu": "Korlátozott; meredek utak a várhoz, a belső terek nem akadálymentesek.",
+    "ro": "Limitată; drumuri abrupte spre castel, interioarele nu sunt accesibile.",
+    "en": "Limited; steep paths to the castle, interior rooms are not wheelchair accessible."
+  },
+  "photoRules": {
+    "de": "Im Innenhof erlaubt, in den historischen Innenräumen streng verboten.",
+    "hu": "A belső udvaron szabad, a történelmi belső terekben szigorúan tilos.",
+    "ro": "Permis în curtea interioară, strict interzis în spațiile istorice interioare.",
+    "en": "Permitted in the courtyard, strictly prohibited in the historic interior rooms."
+  },
+  "bestTimeToVisit": {
+    "de": "Direkt zur Öffnung am Morgen, um Wartezeiten am Einlass zu vermeiden.",
+    "hu": "Közvetlenül reggeli nyitásra, a sorban állás elkerülése érdekében.",
+    "ro": "Direct la deschidere dimineața, pentru a evita timpul de așteptare la intrare.",
+    "en": "Right at opening in the morning to avoid wait times at the entrance."
+  },
+  "audioGuide": {
+    "de": "ja (Führungen in DE/EN, Texthefte in anderen Sprachen)",
+    "hu": "igen (vezetések DE/EN nyelven, más nyelveken kísérőfüzet)",
+    "ro": "da (tururi în DE/EN, broșuri în alte limbi)",
+    "en": "yes (tours in DE/EN, pamphlets in other languages)"
+  }
 }

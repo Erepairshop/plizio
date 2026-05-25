@@ -1,12 +1,57 @@
 {
-  "address": "Piața Victoriei 1, 011791 București",
-  "openingHours": "Nur Außenbesichtigung (Regierungssitz)",
-  "entranceFee": "kostenlos",
+  "address": {
+    "de": "Piața Victoriei 1, 011791 București",
+    "hu": "Piața Victoriei 1, 011791 București",
+    "ro": "Piața Victoriei 1, 011791 București",
+    "en": "Piața Victoriei 1, 011791 București"
+  },
+  "openingHours": {
+    "de": "Nur Außenbesichtigung (Regierungssitz)",
+    "hu": "Csak külső megtekintés (kormányzati székhely)",
+    "ro": "Doar vizită exterioară (sediul guvernului)",
+    "en": "Exterior viewing only (seat of government)"
+  },
+  "entranceFee": {
+    "de": "kostenlos",
+    "hu": "ingyenes",
+    "ro": "gratuit",
+    "en": "free"
+  },
   "website": "https://gov.ro",
-  "publicTransport": "Metro M1, M2 bis Station Piața Victoriei.",
-  "parking": "Sehr schwierig, Parkhäuser im Bereich Victoriei nutzen.",
-  "accessibility": "Der Platz davor ist weitläufig und barrierefrei.",
-  "photoRules": "Fotografieren der Fassade erlaubt, Sicherheitsabstände beachten.",
-  "bestTimeToVisit": "Sonntagvormittag, wenn der Verkehr am geringsten ist.",
-  "audioGuide": "nein"
+  "publicTransport": {
+    "de": "Metro M1, M2 bis Station Piața Victoriei.",
+    "hu": "M1, M2 metró a Piața Victoriei állomásig.",
+    "ro": "Metrou M1, M2 până la stația Piața Victoriei.",
+    "en": "Metro M1, M2 to Piața Victoriei station."
+  },
+  "parking": {
+    "de": "Sehr schwierig, Parkhäuser im Bereich Victoriei nutzen.",
+    "hu": "Nagyon nehéz, használja a Victoriei környéki parkolóházakat.",
+    "ro": "Foarte dificil, folosiți parcările din zona Victoriei.",
+    "en": "Very difficult, use parking garages in the Victoriei area."
+  },
+  "accessibility": {
+    "de": "Der Platz davor ist weitläufig und barrierefrei.",
+    "hu": "Az előtte lévő tér tágas és akadálymentes.",
+    "ro": "Piața din față este spațioasă și fără bariere.",
+    "en": "The square in front is spacious and barrier-free."
+  },
+  "photoRules": {
+    "de": "Fotografieren der Fassade erlaubt, Sicherheitsabstände beachten.",
+    "hu": "A homlokzat fotózása engedélyezett, ügyeljen a biztonsági távolságra.",
+    "ro": "Fotografierea fațadei permisă, respectați distanțele de siguranță.",
+    "en": "Photographing the facade allowed, observe safety distances."
+  },
+  "bestTimeToVisit": {
+    "de": "Sonntagvormittag, wenn der Verkehr am geringsten ist.",
+    "hu": "Vasárnap délelőtt, amikor a legkisebb a forgalom.",
+    "ro": "Duminică dimineața, când traficul este minim.",
+    "en": "Sunday morning, when traffic is lowest."
+  },
+  "audioGuide": {
+    "de": "nein",
+    "hu": "nem",
+    "ro": "nu",
+    "en": "no"
+  }
 }

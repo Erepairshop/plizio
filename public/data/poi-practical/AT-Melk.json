@@ -1,12 +1,57 @@
 {
-  "address": "Abt-Berthold-Dietmayr-Straße 1, 3390 Melk",
-  "openingHours": "Mo-Su 09:00-17:30",
-  "entranceFee": "€16,00 Erwachsene (Besichtigung ohne Führung)",
+  "address": {
+    "de": "Abt-Berthold-Dietmayr-Straße 1, 3390 Melk",
+    "hu": "Abt-Berthold-Dietmayr-Straße 1, 3390 Melk",
+    "ro": "Abt-Berthold-Dietmayr-Straße 1, 3390 Melk",
+    "en": "Abt-Berthold-Dietmayr-Straße 1, 3390 Melk"
+  },
+  "openingHours": {
+    "de": "Mo-Su 09:00-17:30",
+    "hu": "H-V 09:00-17:30",
+    "ro": "Lu-Du 09:00-17:30",
+    "en": "Mon-Sun 9:00 AM - 5:30 PM"
+  },
+  "entranceFee": {
+    "de": "€16,00 Erwachsene (Besichtigung ohne Führung)",
+    "hu": "16,00 € felnőtt (látogatás vezetés nélkül)",
+    "ro": "16,00 € adulți (vizită fără ghid)",
+    "en": "€16.00 adults (visit without guided tour)"
+  },
   "website": "https://www.stiftmelk.at",
-  "publicTransport": "Bahnverbindung (ÖBB) bis Bahnhof Melk, ca. 10 Min. Fußweg.",
-  "parking": "Eigener Besucherparkplatz, Parkticket kann an der Kassa entwertet werden.",
-  "accessibility": "Barrierefreier Zugang über den Lift im Bereich des Prälatenhofes möglich.",
-  "photoRules": "In der Stiftskirche und der Bibliothek herrscht striktes Fotografierverbot.",
-  "bestTimeToVisit": "Am frühen Vormittag, bevor die Ausflugsschiffe von der Donau eintreffen.",
-  "audioGuide": "In 8 Sprachen für den Museumsbesuch verfügbar."
+  "publicTransport": {
+    "de": "Bahnverbindung (ÖBB) bis Bahnhof Melk, ca. 10 Min. Fußweg.",
+    "hu": "Vasúti összeköttetés (ÖBB) Melk állomásig, majd kb. 10 perc séta.",
+    "ro": "Legătură feroviară (ÖBB) până la gara Melk, aprox. 10 min. de mers pe jos.",
+    "en": "Train connection (ÖBB) to Melk station, approx. 10-minute walk."
+  },
+  "parking": {
+    "de": "Eigener Besucherparkplatz, Parkticket kann an der Kassa entwertet werden.",
+    "hu": "Saját látogatói parkoló, a parkolójegy a pénztárnál érvényesíthető.",
+    "ro": "Parcare proprie pentru vizitatori, biletul de parcare poate fi validat la casierie.",
+    "en": "On-site visitor parking; parking tickets can be validated at the ticket counter."
+  },
+  "accessibility": {
+    "de": "Barrierefreier Zugang über den Lift im Bereich des Prälatenhofes möglich.",
+    "hu": "Akadálymentes hozzáférés lifttel a Prälatenhof területén lehetséges.",
+    "ro": "Acces fără bariere posibil prin liftul din zona curții prelaților.",
+    "en": "Barrier-free access possible via elevator in the Prelate's Courtyard area."
+  },
+  "photoRules": {
+    "de": "In der Stiftskirche und der Bibliothek herrscht striktes Fotografierverbot.",
+    "hu": "Az apátsági templomban és a könyvtárban szigorúan tilos a fotózás.",
+    "ro": "În biserica abației și în bibliotecă fotografierea este strict interzisă.",
+    "en": "Photography is strictly prohibited in the abbey church and the library."
+  },
+  "bestTimeToVisit": {
+    "de": "Am frühen Vormittags, bevor die Ausflugsschiffe von der Donau eintreffen.",
+    "hu": "Kora délelőtt, mielőtt a dunai kirándulóhajók megérkeznek.",
+    "ro": "Dimineața devreme, înainte de sosirea navelor de croazieră de pe Dunăre.",
+    "en": "Early morning before the excursion boats arrive from the Danube."
+  },
+  "audioGuide": {
+    "de": "In 8 Sprachen für den Museumsbesuch verfügbar.",
+    "hu": "8 nyelven elérhető a múzeumlátogatáshoz.",
+    "ro": "Disponibil în 8 limbi pentru vizita muzeului.",
+    "en": "Available in 8 languages for the museum visit."
+  }
 }

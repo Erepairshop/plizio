@@ -1,12 +1,57 @@
 {
-  "address": "Sarmizegetusa Nr. 1, 337415 Hunedoara",
-  "openingHours": "Täglich 09:00-18:00 (Mär-Okt), bis 16:00 (Winter)",
-  "entranceFee": "14 RON Erwachsene, 3.5 RON Schüler",
+  "address": {
+    "de": "Sarmizegetusa Nr. 1, 337415 Hunedoara",
+    "hu": "Várhely (Sarmizegetusa) 1., 337415 Hunyad megye",
+    "ro": "Sarmizegetusa Nr. 1, 337415 Hunedoara",
+    "en": "Sarmizegetusa No. 1, 337415 Hunedoara"
+  },
+  "openingHours": {
+    "de": "Täglich 09:00-18:00 (Mär-Okt), bis 16:00 (Winter)",
+    "hu": "Naponta 09:00-18:00 (márciustól októberig), télen 16:00-ig",
+    "ro": "Zilnic 09:00-18:00 (mar-oct), până la 16:00 (iarna)",
+    "en": "Daily 09:00-18:00 (Mar-Oct), until 16:00 (winter)"
+  },
+  "entranceFee": {
+    "de": "14 RON Erwachsene, 3.5 RON Schüler",
+    "hu": "14 RON felnőtt, 3,5 RON diák",
+    "ro": "14 RON adulți, 3.5 RON elevi",
+    "en": "14 RON adults, 3.5 RON students"
+  },
   "website": "https://mcdr.ro",
-  "publicTransport": "Busverbindung Deva-Hațeg, dann lokaler Minibus",
-  "parking": "Parkplatz gegenüber dem Museumseingang, kostenlos",
-  "accessibility": "Weitläufiges, flaches Grasgelände, meist gut befahrbar",
-  "photoRules": "Erlaubt, inklusive Amphitheater",
-  "bestTimeToVisit": "Sommernachmittag für lange Schatten in den Ruinen",
-  "audioGuide": "Nein"
+  "publicTransport": {
+    "de": "Busverbindung Deva-Hațeg, dann lokaler Minibus",
+    "hu": "Buszjárat Déva és Hátszeg között, majd helyi kisbusz",
+    "ro": "Autobuz Deva-Hațeg, apoi microbuz local",
+    "en": "Bus from Deva to Hațeg, then local minibus"
+  },
+  "parking": {
+    "de": "Parkplatz gegenüber dem Museumseingang, kostenlos",
+    "hu": "Ingyenes parkoló a múzeumi bejárattal szemben",
+    "ro": "Parcare vizavi de intrarea în muzeu, gratuită",
+    "en": "Free parking opposite the museum entrance"
+  },
+  "accessibility": {
+    "de": "Weitläufiges, flaches Grasgelände, meist gut befahrbar",
+    "hu": "Tágas, sík füves terület, többnyire jól járható",
+    "ro": "Teren plat și vast, în mare parte accesibil",
+    "en": "Spacious, flat grassy terrain, mostly accessible"
+  },
+  "photoRules": {
+    "de": "Erlaubt, inklusive Amphitheater",
+    "hu": "Engedélyezett, az amfiteátrumban is",
+    "ro": "Permis, inclusiv în amfiteatru",
+    "en": "Allowed, including the amphitheater"
+  },
+  "bestTimeToVisit": {
+    "de": "Sommernachmittag für lange Schatten in den Ruinen",
+    "hu": "Nyári délutánokon, a romok közt elnyúló árnyékok idején",
+    "ro": "După-amiaza de vară pentru umbre lungi printre ruine",
+    "en": "Summer afternoons for long shadows among the ruins"
+  },
+  "audioGuide": {
+    "de": "Nein",
+    "hu": "Nem",
+    "ro": "Nu",
+    "en": "No"
+  }
 }

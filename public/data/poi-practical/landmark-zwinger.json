@@ -1,12 +1,57 @@
 {
-  "address": "Sophienstraße, 01067 Dresden",
-  "openingHours": "Mo-So 06:00-22:30 (Innenhof)",
-  "entranceFee": "Innenhof kostenlos, Museen ca. €14.00",
+  "address": {
+    "de": "Sophienstraße, 01067 Dresden",
+    "hu": "Sophienstraße, 01067 Drezda",
+    "ro": "Sophienstraße, 01067 Dresden",
+    "en": "Sophienstraße, 01067 Dresden"
+  },
+  "openingHours": {
+    "de": "Mo-So 06:00-22:30 (Innenhof)",
+    "hu": "H-V 06:00-22:30 (Belső udvar)",
+    "ro": "Lu-Dum 06:00-22:30 (Curtea interioară)",
+    "en": "Mon-Sun 06:00-22:30 (Inner courtyard)"
+  },
+  "entranceFee": {
+    "de": "Innenhof kostenlos, Museen ca. €14.00",
+    "hu": "Belső udvar ingyenes, múzeumok kb. 14,00 €",
+    "ro": "Curtea interioară gratuită, muzee aprox. 14,00 €",
+    "en": "Inner courtyard free, museums approx. €14.00"
+  },
   "website": "https://www.der-dresdner-zwinger.de",
-  "publicTransport": "Straßenbahn 4, 8, 9 bis Haltestelle Postplatz",
-  "parking": "Parkhaus Altmarkt-Galerie in der Nähe, ca. €2.00/Std.",
-  "accessibility": "Innenhof barrierefrei, Museen über Aufzüge erreichbar.",
-  "photoRules": "Im Außenbereich erlaubt, Innenbereich eingeschränkt.",
-  "bestTimeToVisit": "Sommerabend, wenn die Brunnen beleuchtet sind.",
-  "audioGuide": "Ja, für alle Museen im Zwinger verfügbar."
+  "publicTransport": {
+    "de": "Straßenbahn 4, 8, 9 bis Haltestelle Postplatz",
+    "hu": "4, 8, 9-es villamos a Postplatz megállóig",
+    "ro": "Tramvai 4, 8, 9 până la stația Postplatz",
+    "en": "Tram 4, 8, 9 to Postplatz stop"
+  },
+  "parking": {
+    "de": "Parkhaus Altmarkt-Galerie in der Nähe, ca. €2.00/Std.",
+    "hu": "Altmarkt-Galerie parkoló a közelben, kb. 2,00 €/óra.",
+    "ro": "Parcare Altmarkt-Galerie în apropiere, aprox. 2,00 €/oră.",
+    "en": "Altmarkt-Galerie parking garage nearby, approx. €2.00/hr."
+  },
+  "accessibility": {
+    "de": "Innenhof barrierefrei, Museen über Aufzüge erreichbar.",
+    "hu": "A belső udvar akadálymentesített, a múzeumok lifttel elérhetők.",
+    "ro": "Curtea interioară este accesibilă, muzeele pot fi atinse cu liftul.",
+    "en": "Inner courtyard accessible, museums reached by elevators."
+  },
+  "photoRules": {
+    "de": "Im Außenbereich erlaubt, Innenbereich eingeschränkt.",
+    "hu": "Kültéren engedélyezett, beltéren korlátozott.",
+    "ro": "Permis în exterior, restricționat în interior.",
+    "en": "Allowed outdoors, restricted indoors."
+  },
+  "bestTimeToVisit": {
+    "de": "Sommerabend, wenn die Brunnen beleuchtet sind.",
+    "hu": "Nyári este, amikor a szökőkutak ki vannak világítva.",
+    "ro": "Seara de vară, când fântânile sunt iluminate.",
+    "en": "Summer evening when the fountains are illuminated."
+  },
+  "audioGuide": {
+    "de": "Ja, für alle Museen im Zwinger verfügbar.",
+    "hu": "Igen, minden Zwinger múzeumban elérhető.",
+    "ro": "Da, disponibil pentru toate muzeele din Zwinger.",
+    "en": "Yes, available for all museums in the Zwinger."
+  }
 }

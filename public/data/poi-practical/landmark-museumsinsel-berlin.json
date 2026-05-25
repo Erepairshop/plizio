@@ -1,12 +1,57 @@
 {
-  "address": "Bodestraße, 10178 Berlin",
-  "openingHours": "Außengelände 24/7, Museen Di-So 10:00-18:00",
-  "entranceFee": "Insel frei, Museumspass €24 (3 Tage)",
+  "address": {
+    "de": "Bodestraße, 10178 Berlin",
+    "hu": "Bodestraße, 10178 Berlin",
+    "ro": "Bodestraße, 10178 Berlin",
+    "en": "Bodestraße, 10178 Berlin"
+  },
+  "openingHours": {
+    "de": "Außengelände 24/7, Museen Di-So 10:00-18:00",
+    "hu": "Külső terület 0-24 órában, múzeumok K-V 10:00-18:00",
+    "ro": "Teren exterior non-stop, muzee marți-duminică 10:00-18:00",
+    "en": "Exterior area 24/7, museums Tue-Sun 10:00-18:00"
+  },
+  "entranceFee": {
+    "de": "Insel frei, Museumspass €24 (3 Tage)",
+    "hu": "Sziget ingyenes, múzeumi bérlet 24 € (3 nap)",
+    "ro": "Insula gratuit, permis muzeu 24 € (3 zile)",
+    "en": "Island free, museum pass €24 (3 days)"
+  },
   "website": "https://www.smb.museum",
-  "publicTransport": "U-Bahn U5 bis Museumsinsel oder S-Bahn Hackescher Markt",
-  "parking": "Parkhaus im DomAquarée, ca. €3/Std.",
-  "accessibility": "Alle Museen sind für Rollstuhlfahrer zugänglich (Aufzüge)",
-  "photoRules": "In den Museen meist erlaubt ohne Blitz/Stativ",
-  "bestTimeToVisit": "Wochentags kurz nach Öffnung der Museen um 10:00 Uhr",
-  "audioGuide": "de, en, fr, es (in den Museen)"
+  "publicTransport": {
+    "de": "U-Bahn U5 bis Museumsinsel oder S-Bahn Hackescher Markt",
+    "hu": "U5 metró a Museumsinsel megállóig vagy S-Bahn a Hackescher Marktig",
+    "ro": "Metrou U5 până la Museumsinsel sau S-Bahn până la Hackescher Markt",
+    "en": "U-Bahn U5 to Museumsinsel or S-Bahn to Hackescher Markt"
+  },
+  "parking": {
+    "de": "Parkhaus im DomAquarée, ca. €3/Std.",
+    "hu": "DomAquarée parkolóház, kb. 3 €/óra",
+    "ro": "Parcare acoperită la DomAquarée, aprox. 3 €/oră",
+    "en": "Parking garage at DomAquarée, approx. €3/hour"
+  },
+  "accessibility": {
+    "de": "Alle Museen sind für Rollstuhlfahrer zugänglich (Aufzüge)",
+    "hu": "Az összes múzeum megközelíthető kerekesszékkel (liftek)",
+    "ro": "Toate muzeele sunt accesibile pentru scaune cu rotile (lifturi)",
+    "en": "All museums are accessible for wheelchair users (elevators)"
+  },
+  "photoRules": {
+    "de": "In den Museen meist erlaubt ohne Blitz/Stativ",
+    "hu": "A múzeumokban többnyire megengedett vaku és állvány nélkül",
+    "ro": "În muzee este permis de obicei fără bliț/trepied",
+    "en": "In museums mostly allowed without flash/tripod"
+  },
+  "bestTimeToVisit": {
+    "de": "Wochentags kurz nach Öffnung der Museen um 10:00 Uhr",
+    "hu": "Hétköznap röviddel a múzeumok nyitása után, 10:00 órakor",
+    "ro": "În timpul săptămânii la scurt timp după deschiderea muzeelor, la ora 10:00",
+    "en": "Weekdays shortly after museum opening at 10:00 AM"
+  },
+  "audioGuide": {
+    "de": "de, en, fr, es (in den Museen)",
+    "hu": "német, angol, francia, spanyol (a múzeumokban)",
+    "ro": "germană, engleză, franceză, spaniolă (în muzee)",
+    "en": "German, English, French, Spanish (in museums)"
+  }
 }

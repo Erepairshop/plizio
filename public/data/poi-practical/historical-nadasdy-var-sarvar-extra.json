@@ -1,12 +1,57 @@
 {
-  "address": "Várkerület 1., 9600 Sárvár",
-  "openingHours": "Tu-Su 09:00-17:00",
-  "entranceFee": "2000 HUF Erwachsene, 1000 HUF Studenten/Senioren",
+  "address": {
+    "de": "Várkerület 1., 9600 Sárvár",
+    "hu": "Várkerület 1., 9600 Sárvár",
+    "ro": "Várkerület 1., 9600 Sárvár",
+    "en": "Várkerület 1., 9600 Sárvár"
+  },
+  "openingHours": {
+    "de": "Tu-Su 09:00-17:00",
+    "hu": "Kedd-vasárnap 09:00-17:00",
+    "ro": "Marți-duminică 09:00-17:00",
+    "en": "Tue-Sun 09:00-17:00"
+  },
+  "entranceFee": {
+    "de": "2000 HUF Erwachsene, 1000 HUF Studenten/Senioren",
+    "hu": "2000 HUF felnőtt, 1000 HUF diák/nyugdíjas",
+    "ro": "2000 HUF adulți, 1000 HUF studenți/senior",
+    "en": "2000 HUF adults, 1000 HUF students/seniors"
+  },
   "website": "http://nadasdymuzeum.hu/",
-  "publicTransport": "Bahnhof Sárvár ist ca. 15 Gehminuten durch das Stadtzentrum entfernt.",
-  "parking": "Kostenpflichtige Parkplätze in den Straßen rund um den Burggraben.",
-  "accessibility": "Burghof barrierefrei; das Museum im Obergeschoss ist nur über Treppen erreichbar.",
-  "photoRules": "Fotografieren ist gegen eine geringe Gebühr im Museumsbereich gestattet.",
-  "bestTimeToVisit": "Freitagabende im Sommer, wenn oft Konzerte im beleuchteten Burghof stattfinden.",
-  "audioGuide": "HU, DE, EN"
+  "publicTransport": {
+    "de": "Bahnhof Sárvár ist ca. 15 Gehminuten durch das Stadtzentrum entfernt.",
+    "hu": "Sárvár vasútállomása kb. 15 perc sétára van a városközponton keresztül.",
+    "ro": "Gara Sárvár este la aproximativ 15 minute de mers pe jos prin centrul orașului.",
+    "en": "Sárvár train station is about a 15-minute walk through the city center."
+  },
+  "parking": {
+    "de": "Kostenpflichtige Parkplätze in den Straßen rund um den Burggraben.",
+    "hu": "Fizetős parkolási lehetőség a várárok körüli utcákban.",
+    "ro": "Parcări cu plată pe străzile din jurul șanțului cetății.",
+    "en": "Paid parking in the streets around the castle moat."
+  },
+  "accessibility": {
+    "de": "Burghof barrierefrei; das Museum im Obergeschoss ist nur über Treppen erreichbar.",
+    "hu": "Az udvar akadálymentes; a múzeum az emeleten csak lépcsőn közelíthető meg.",
+    "ro": "Curtea cetății este accesibilă; muzeul de la etaj este accesibil doar pe scări.",
+    "en": "Courtyard is barrier-free; the museum on the upper floor is only accessible via stairs."
+  },
+  "photoRules": {
+    "de": "Fotografieren ist gegen eine geringe Gebühr im Museumsbereich gestattet.",
+    "hu": "A fényképezés a múzeum területén csekély díj ellenében engedélyezett.",
+    "ro": "Fotografierea în zona muzeului este permisă contra unei taxe mici.",
+    "en": "Photography is permitted in the museum area for a small fee."
+  },
+  "bestTimeToVisit": {
+    "de": "Freitagabende im Sommer, wenn oft Konzerte im beleuchteten Burghof stattfinden.",
+    "hu": "Nyári péntek estéken, amikor gyakran koncerteket tartanak a kivilágított udvaron.",
+    "ro": "Serile de vineri din timpul verii, când adesea au loc concerte în curtea iluminată.",
+    "en": "Friday evenings in the summer, when concerts often take place in the illuminated courtyard."
+  },
+  "audioGuide": {
+    "de": "HU, DE, EN",
+    "hu": "HU, DE, EN",
+    "ro": "HU, DE, EN",
+    "en": "HU, DE, EN"
+  }
 }

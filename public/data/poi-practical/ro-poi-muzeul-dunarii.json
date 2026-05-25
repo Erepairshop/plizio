@@ -1,12 +1,57 @@
 {
-  "address": "Strada Progresului 4, 910001 Călărași",
-  "openingHours": "Mo-Fr 08:00-16:00",
-  "entranceFee": "6 RON Erwachsene, 1,5 RON Kinder",
+  "address": {
+    "de": "Strada Progresului 4, 910001 Călărași",
+    "hu": "Strada Progresului 4, 910001 Călărași",
+    "ro": "Strada Progresului 4, 910001 Călărași",
+    "en": "Strada Progresului 4, 910001 Călărași"
+  },
+  "openingHours": {
+    "de": "Mo-Fr 08:00-16:00",
+    "hu": "Hétfő-péntek 08:00-16:00",
+    "ro": "Luni-Vineri 08:00-16:00",
+    "en": "Mon-Fri 08:00-16:00"
+  },
+  "entranceFee": {
+    "de": "6 RON Erwachsene, 1,5 RON Kinder",
+    "hu": "6 RON felnőtteknek, 1,5 RON gyermekeknek",
+    "ro": "6 RON adulți, 1,5 RON copii",
+    "en": "6 RON adults, 1.5 RON children"
+  },
   "website": "http://www.muzeul-dunarii-de-jos.ro/",
-  "publicTransport": "Busbahnhof Călărași (15 Min Fußweg)",
-  "parking": "Parkplätze in den umliegenden Straßen (meist kostenlos).",
-  "accessibility": "Erdgeschoss zugänglich, kein Aufzug in obere Etagen.",
-  "photoRules": "Erlaubt nach Absprache mit dem Personal.",
-  "bestTimeToVisit": "Vormittags während der Woche.",
-  "audioGuide": "no"
+  "publicTransport": {
+    "de": "Busbahnhof Călărași (15 Min Fußweg)",
+    "hu": "Călărași buszpályaudvar (15 perc séta)",
+    "ro": "Autogara Călărași (15 minute de mers pe jos)",
+    "en": "Călărași bus station (15 min walk)"
+  },
+  "parking": {
+    "de": "Parkplätze in den umliegenden Straßen (meist kostenlos).",
+    "hu": "Parkolóhelyek a környező utcákban (többnyire ingyenes).",
+    "ro": "Locuri de parcare pe străzile adiacente (de obicei gratuite).",
+    "en": "Parking on surrounding streets (mostly free)."
+  },
+  "accessibility": {
+    "de": "Erdgeschoss zugänglich, kein Aufzug in obere Etagen.",
+    "hu": "A földszint látogatható, a felsőbb szintekre nincs lift.",
+    "ro": "Parter accesibil, fără lift către etajele superioare.",
+    "en": "Ground floor accessible, no elevator to upper floors."
+  },
+  "photoRules": {
+    "de": "Erlaubt nach Absprache mit dem Personal.",
+    "hu": "Engedélyezett a személyzettel való egyeztetés után.",
+    "ro": "Permis cu acordul personalului.",
+    "en": "Permitted with approval from staff."
+  },
+  "bestTimeToVisit": {
+    "de": "Vormittags während der Woche.",
+    "hu": "Délelőtt hétköznap.",
+    "ro": "Dimineața în timpul săptămânii.",
+    "en": "Weekday mornings."
+  },
+  "audioGuide": {
+    "de": "no",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

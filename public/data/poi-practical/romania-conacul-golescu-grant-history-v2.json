@@ -1,12 +1,57 @@
 {
-  "address": "Strada Golescu-Grant, 060251 București",
-  "openingHours": "Eingeschränkte Öffnungszeiten (Nutzung als Kinderclub).",
-  "entranceFee": "Kostenlos (Außenbesichtigung)",
+  "address": {
+    "de": "Strada Golescu-Grant, 060251 București",
+    "hu": "Strada Golescu-Grant, 060251 Bukarest",
+    "ro": "Strada Golescu-Grant, 060251 București",
+    "en": "Strada Golescu-Grant, 060251 Bucharest"
+  },
+  "openingHours": {
+    "de": "Eingeschränkte Öffnungszeiten (Nutzung als Kinderclub).",
+    "hu": "Korlátozott nyitvatartás (gyerekklubként működik).",
+    "ro": "Program limitat (utilizat ca club pentru copii).",
+    "en": "Limited opening hours (used as a kids' club)."
+  },
+  "entranceFee": {
+    "de": "Kostenlos (Außenbesichtigung)",
+    "hu": "Ingyenes (kívülről)",
+    "ro": "Gratuit (doar exteriorul)",
+    "en": "Free (exterior view)"
+  },
   "website": "",
-  "publicTransport": "Tram 41 (Haltestelle Grant/Crângași).",
-  "parking": "Parkplätze in den umliegenden Wohnstraßen.",
-  "accessibility": "Nur Außenbereich barrierefrei.",
-  "photoRules": "Außenaufnahmen erlaubt.",
-  "bestTimeToVisit": "Wochenende für eine ruhige Außenansicht.",
-  "audioGuide": "nein"
+  "publicTransport": {
+    "de": "Tram 41 (Haltestelle Grant/Crângași).",
+    "hu": "41-es villamos (Grant/Crângași megálló).",
+    "ro": "Tramvaiul 41 (stația Grant/Crângași).",
+    "en": "Tram 41 (Grant/Crângași stop)."
+  },
+  "parking": {
+    "de": "Parkplätze in den umliegenden Wohnstraßen.",
+    "hu": "Parkolóhelyek a környező utcákban.",
+    "ro": "Parcare pe străzile rezidențiale din jur.",
+    "en": "Parking in surrounding residential streets."
+  },
+  "accessibility": {
+    "de": "Nur Außenbereich barrierefrei.",
+    "hu": "Csak a külső rész akadálymentes.",
+    "ro": "Doar exteriorul este accesibil.",
+    "en": "Only exterior is accessible."
+  },
+  "photoRules": {
+    "de": "Außenaufnahmen erlaubt.",
+    "hu": "Külső fotók engedélyezettek.",
+    "ro": "Fotografierea la exterior este permisă.",
+    "en": "Exterior photography allowed."
+  },
+  "bestTimeToVisit": {
+    "de": "Wochenende für eine ruhige Außenansicht.",
+    "hu": "Hétvégén, a nyugodt külső szemlélődéshez.",
+    "ro": "În weekend, pentru o vizualizare liniștită a exteriorului.",
+    "en": "Weekends for a quiet exterior view."
+  },
+  "audioGuide": {
+    "de": "nein",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

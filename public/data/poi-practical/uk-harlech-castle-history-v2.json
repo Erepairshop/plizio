@@ -1,12 +1,57 @@
 {
-  "address": "Harlech LL46 2YH, Großbritannien",
-  "openingHours": "Mo-Su 10:00-16:00 (Winter), 09:30-17:00 (Sommer)",
-  "entranceFee": "£8.70 Erwachsene, £6.10 Kinder",
+  "address": {
+    "de": "Harlech LL46 2YH, Großbritannien",
+    "hu": "Harlech LL46 2YH, Nagy-Britannia",
+    "ro": "Harlech LL46 2YH, Marea Britanie",
+    "en": "Harlech LL46 2YH, Great Britain"
+  },
+  "openingHours": {
+    "de": "Mo-Su 10:00-16:00 (Winter), 09:30-17:00 (Sommer)",
+    "hu": "H-V 10:00-16:00 (tél), 09:30-17:00 (nyár)",
+    "ro": "Lu-Du 10:00-16:00 (iarnă), 09:30-17:00 (vară)",
+    "en": "Mo-Su 10:00-16:00 (winter), 09:30-17:00 (summer)"
+  },
+  "entranceFee": {
+    "de": "£8.70 Erwachsene, £6.10 Kinder",
+    "hu": "£8.70 felnőtt, £6.10 gyerek",
+    "ro": "£8.70 adulți, £6.10 copii",
+    "en": "£8.70 adults, £6.10 children"
+  },
   "website": "https://cadw.gov.wales/visit/places-to-visit/harlech-castle",
-  "publicTransport": "Bahnhof Harlech (Cambrian Coast Line), 10 Min. Fußweg bergauf",
-  "parking": "Öffentlicher Parkplatz in der Nähe (Bron y Graig)",
-  "accessibility": "Besucherzentrum und Brücke zugänglich, Türme nur über Treppen",
-  "photoRules": "Erlaubt für private Zwecke",
-  "bestTimeToVisit": "Später Nachmittag für dramatische Fotos bei Sonnenuntergang",
-  "audioGuide": "Nein"
+  "publicTransport": {
+    "de": "Bahnhof Harlech (Cambrian Coast Line), 10 Min. Fußweg bergauf",
+    "hu": "Harlech állomás (Cambrian Coast Line), 10 perc gyaloglás felfelé",
+    "ro": "Gara Harlech (Cambrian Coast Line), 10 minute de mers pe jos în sus",
+    "en": "Harlech station (Cambrian Coast Line), 10-minute walk uphill"
+  },
+  "parking": {
+    "de": "Öffentlicher Parkplatz in der Nähe (Bron y Graig)",
+    "hu": "Nyilvános parkoló a közelben (Bron y Graig)",
+    "ro": "Parcare publică în apropiere (Bron y Graig)",
+    "en": "Public parking nearby (Bron y Graig)"
+  },
+  "accessibility": {
+    "de": "Besucherzentrum und Brücke zugänglich, Türme nur über Treppen",
+    "hu": "A látogatóközpont és a híd megközelíthető, a tornyok csak lépcsőn",
+    "ro": "Centrul de vizitatori și podul sunt accesibile, turnurile doar pe scări",
+    "en": "Visitor center and bridge accessible, towers only via stairs"
+  },
+  "photoRules": {
+    "de": "Erlaubt für private Zwecke",
+    "hu": "Magáncélra engedélyezett",
+    "ro": "Permis pentru uz privat",
+    "en": "Allowed for private use"
+  },
+  "bestTimeToVisit": {
+    "de": "Später Nachmittag für dramatische Fotos bei Sonnenuntergang",
+    "hu": "Késő délután a drámai naplementés fotókért",
+    "ro": "După-amiaza târziu pentru fotografii dramatice la apus",
+    "en": "Late afternoon for dramatic photos at sunset"
+  },
+  "audioGuide": {
+    "de": "Nein",
+    "hu": "Nem",
+    "ro": "Nu",
+    "en": "No"
+  }
 }

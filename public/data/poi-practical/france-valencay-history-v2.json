@@ -1,12 +1,57 @@
 {
-  "address": "2 Rue de Blois, 36600 Valençay",
-  "openingHours": "Mo-So 10:00-18:00 (Saisonal schwankend, im Winter oft früher geschlossen)",
-  "entranceFee": "€14.50 Erwachsene, €11.50 Jugendliche (7-17 Jahre)",
+  "address": {
+    "de": "2 Rue de Blois, 36600 Valençay",
+    "hu": "2 Rue de Blois, 36600 Valençay",
+    "ro": "2 Rue de Blois, 36600 Valençay",
+    "en": "2 Rue de Blois, 36600 Valençay"
+  },
+  "openingHours": {
+    "de": "Mo-So 10:00-18:00 (Saisonal schwankend, im Winter oft früher geschlossen)",
+    "hu": "Hé-Va 10:00-18:00 (szezononként változó, télen gyakran korábban zár)",
+    "ro": "Lun-Dum 10:00-18:00 (variază sezonier, iarna se închide adesea mai devreme)",
+    "en": "Mon-Sun 10:00-18:00 (varies seasonally, often closes earlier in winter)"
+  },
+  "entranceFee": {
+    "de": "€14.50 Erwachsene, €11.50 Jugendliche (7-17 Jahre)",
+    "hu": "14,50 € felnőtteknek, 11,50 € fiataloknak (7-17 év)",
+    "ro": "14,50 € adulți, 11,50 € tineri (7-17 ani)",
+    "en": "€14.50 adults, €11.50 youths (7-17 years)"
+  },
   "website": "https://www.chateau-valencay.fr",
-  "publicTransport": "Regionalzug (SNCF) bis Bahnhof Valençay, ca. 10 Min. Fußweg",
-  "parking": "Großer kostenloser Parkplatz gegenüber dem Haupteingang",
-  "accessibility": "Erdgeschoss und Gärten barrierefrei, Obergeschosse nur über Treppen",
-  "photoRules": "In den Innenräumen ohne Blitz gestattet",
-  "bestTimeToVisit": "Frühling, wenn die Pfauen in den Gärten besonders aktiv sind",
-  "audioGuide": "Ja, inklusive (auch in deutscher Sprache)"
+  "publicTransport": {
+    "de": "Regionalzug (SNCF) bis Bahnhof Valençay, ca. 10 Min. Fußweg",
+    "hu": "Regionális vonat (SNCF) Valençay vasútállomásig, majd kb. 10 perc séta",
+    "ro": "Tren regional (SNCF) până la gara Valençay, aproximativ 10 min. de mers pe jos",
+    "en": "Regional train (SNCF) to Valençay station, approx. 10 min walk"
+  },
+  "parking": {
+    "de": "Großer kostenloser Parkplatz gegenüber dem Haupteingang",
+    "hu": "Nagy ingyenes parkoló a főbejárattal szemben",
+    "ro": "Parcare mare gratuită vizavi de intrarea principală",
+    "en": "Large free parking lot opposite the main entrance"
+  },
+  "accessibility": {
+    "de": "Erdgeschoss und Gärten barrierefrei, Obergeschosse nur über Treppen",
+    "hu": "A földszint és a kertek akadálymentesek, az emeletek csak lépcsőn érhetők el",
+    "ro": "Parterul și grădinile sunt accesibile, etajele superioare doar prin scări",
+    "en": "Ground floor and gardens accessible, upper floors via stairs only"
+  },
+  "photoRules": {
+    "de": "In den Innenräumen ohne Blitz gestattet",
+    "hu": "A belső terekben vaku nélkül engedélyezett",
+    "ro": "Permis în interior fără bliț",
+    "en": "Permitted in interiors without flash"
+  },
+  "bestTimeToVisit": {
+    "de": "Frühling, wenn die Pfauen in den Gärten besonders aktiv sind",
+    "hu": "Tavasszal, amikor a pávák különösen aktívak a kertekben",
+    "ro": "Primăvara, când păunii din grădini sunt deosebit de activi",
+    "en": "Spring, when the peacocks in the gardens are particularly active"
+  },
+  "audioGuide": {
+    "de": "Ja, inklusive (auch in deutscher Sprache)",
+    "hu": "Igen, az ár tartalmazza (német nyelven is)",
+    "ro": "Da, inclus (disponibil și în limba germană)",
+    "en": "Yes, included (also available in German)"
+  }
 }

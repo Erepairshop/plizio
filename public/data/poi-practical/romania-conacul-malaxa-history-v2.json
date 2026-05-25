@@ -1,12 +1,57 @@
 {
-  "address": "Bulevardul Lascăr Catargiu, București",
-  "openingHours": "Keine öffentliche Besichtigung (Privatbesitz).",
-  "entranceFee": "nicht zugänglich",
+  "address": {
+    "de": "Bulevardul Lascăr Catargiu, București",
+    "hu": "Bulevardul Lascăr Catargiu, Bukarest",
+    "ro": "Bulevardul Lascăr Catargiu, București",
+    "en": "Bulevardul Lascăr Catargiu, Bucharest"
+  },
+  "openingHours": {
+    "de": "Keine öffentliche Besichtigung (Privatbesitz).",
+    "hu": "Nem látogatható (magántulajdon).",
+    "ro": "Nu se vizitează (proprietate privată).",
+    "en": "Not open to the public (private property)."
+  },
+  "entranceFee": {
+    "de": "nicht zugänglich",
+    "hu": "nem látogatható",
+    "ro": "nu este accesibil",
+    "en": "not accessible"
+  },
   "website": "",
-  "publicTransport": "Metro M2 (Piața Romană).",
-  "parking": "In der Innenstadt sehr schwierig.",
-  "accessibility": "Nicht zugänglich.",
-  "photoRules": "Außenaufnahmen von der Straße erlaubt.",
-  "bestTimeToVisit": "Tagsüber für Architekturfotos der Fassade.",
-  "audioGuide": "nein"
+  "publicTransport": {
+    "de": "Metro M2 (Piața Romană).",
+    "hu": "M2-es metró (Piața Romană megálló).",
+    "ro": "Metrou M2 (Piața Romană).",
+    "en": "Metro M2 (Piața Romană)."
+  },
+  "parking": {
+    "de": "In der Innenstadt sehr schwierig.",
+    "hu": "A belvárosban nagyon nehézkes.",
+    "ro": "Foarte dificil în centrul orașului.",
+    "en": "Very difficult in the city center."
+  },
+  "accessibility": {
+    "de": "Nicht zugänglich.",
+    "hu": "Nem látogatható.",
+    "ro": "Nu este accesibil.",
+    "en": "Not accessible."
+  },
+  "photoRules": {
+    "de": "Außenaufnahmen von der Straße erlaubt.",
+    "hu": "Külső fotók az utcáról engedélyezettek.",
+    "ro": "Fotografierea la exterior de pe stradă este permisă.",
+    "en": "Exterior photography from the street is allowed."
+  },
+  "bestTimeToVisit": {
+    "de": "Tagsüber für Architekturfotos der Fassade.",
+    "hu": "Napközben, építészeti fotók készítéséhez.",
+    "ro": "În timpul zilei, pentru fotografii arhitecturale ale fațadei.",
+    "en": "During the day for architectural facade photos."
+  },
+  "audioGuide": {
+    "de": "nein",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

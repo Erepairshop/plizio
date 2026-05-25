@@ -1,12 +1,57 @@
 {
-  "address": "Am Schloßberg 1, 2824 Seebenstein",
-  "openingHours": "Apr-Okt: Sa, So & Feiertage 11:00-17:00",
-  "entranceFee": "€ 8,00 Erwachsene",
+  "address": {
+    "de": "Am Schloßberg 1, 2824 Seebenstein",
+    "hu": "Am Schloßberg 1, 2824 Seebenstein",
+    "ro": "Am Schloßberg 1, 2824 Seebenstein",
+    "en": "Am Schloßberg 1, 2824 Seebenstein"
+  },
+  "openingHours": {
+    "de": "Apr-Okt: Sa, So & Feiertage 11:00-17:00",
+    "hu": "Ápr-okt: Szo, V és ünnepnapokon 11:00-17:00",
+    "ro": "Apr-Oct: Sâ, D și sărbători legale 11:00-17:00",
+    "en": "Apr-Oct: Sat, Sun & holidays 11:00-17:00"
+  },
+  "entranceFee": {
+    "de": "€ 8,00 Erwachsene",
+    "hu": "8,00 € felnőtt",
+    "ro": "8,00 € adulți",
+    "en": "€8.00 adults"
+  },
   "website": "http://www.burg-seebenstein.at",
-  "publicTransport": "Bahn bis Seebenstein, danach 20 min Waldweg bergauf.",
-  "parking": "Parkplatz beim Naturparkeingang (nahe Freibad), ca. 15 min Fußweg.",
-  "accessibility": "Wurzelige Waldwege und Stufen im Innenhof, nicht barrierefrei.",
-  "photoRules": "Im Hof erlaubt, in den wertvoll ausgestatteten Wohnräumen verboten.",
-  "bestTimeToVisit": "Goldener Oktober für den Panoramablick über das herbstliche Steinfeld.",
-  "audioGuide": "nein"
+  "publicTransport": {
+    "de": "Bahn bis Seebenstein, danach 20 min Waldweg bergauf.",
+    "hu": "Vonattal Seebensteinig, utána 20 perc hegyi erdei út.",
+    "ro": "Tren până la Seebenstein, apoi 20 min de mers prin pădure în urcare.",
+    "en": "Train to Seebenstein, followed by a 20 min uphill forest path."
+  },
+  "parking": {
+    "de": "Parkplatz beim Naturparkeingang (nahe Freibad), ca. 15 min Fußweg.",
+    "hu": "Parkoló a natúrpark bejáratánál (a strand közelében), kb. 15 perc gyalogút.",
+    "ro": "Parcare la intrarea în parcul natural (lângă ștrand), cca 15 min de mers pe jos.",
+    "en": "Parking lot at the nature park entrance (near the outdoor pool), approx. 15 min walk."
+  },
+  "accessibility": {
+    "de": "Wurzelige Waldwege und Stufen im Innenhof, nicht barrierefrei.",
+    "hu": "Gyökeres erdei utak és lépcsők a belső udvaron, nem akadálymentes.",
+    "ro": "Drumuri forestiere cu rădăcini și trepte în curtea interioară, inaccesibil.",
+    "en": "Rooty forest paths and steps in the inner courtyard, not accessible."
+  },
+  "photoRules": {
+    "de": "Im Hof erlaubt, in den wertvoll ausgestatteten Wohnräumen verboten.",
+    "hu": "Az udvaron engedélyezett, az értékesen berendezett lakószobákban tilos.",
+    "ro": "Permis în curte, interzis în camerele de locuit cu dotări valoroase.",
+    "en": "Allowed in the courtyard, forbidden in the richly furnished living rooms."
+  },
+  "bestTimeToVisit": {
+    "de": "Goldener Oktober für den Panoramablick über das herbstliche Steinfeld.",
+    "hu": "Októberben a panorámás kilátásért az őszi Steinfeldre.",
+    "ro": "Octombrie pentru vederea panoramică asupra zonei Steinfeld tomnatice.",
+    "en": "October for the panoramic view over the autumnal Steinfeld region."
+  },
+  "audioGuide": {
+    "de": "nein",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

@@ -1,12 +1,57 @@
 {
-  "address": "Schallaburg 1, 3382 Schollaburg, Österreich",
-  "openingHours": "April bis November: Mo-Fr 09:00-18:00, Sa-So 09:00-19:00",
-  "entranceFee": "€12 Erwachsene (inkl. Jahresausstellung und Garten)",
+  "address": {
+    "de": "Schallaburg 1, 3382 Schollaburg, Österreich",
+    "hu": "Schallaburg 1, 3382 Schollaburg, Ausztria",
+    "ro": "Schallaburg 1, 3382 Schollaburg, Austria",
+    "en": "Schallaburg 1, 3382 Schollaburg, Austria"
+  },
+  "openingHours": {
+    "de": "April bis November: Mo-Fr 09:00-18:00, Sa-So 09:00-19:00",
+    "hu": "Áprilistól novemberig: H-P 09:00-18:00, Szo-V 09:00-19:00",
+    "ro": "Aprilie-noiembrie: L-V 09:00-18:00, S-D 09:00-19:00",
+    "en": "April to November: Mon-Fri 09:00-18:00, Sat-Sun 09:00-19:00"
+  },
+  "entranceFee": {
+    "de": "€12 Erwachsene (inkl. Jahresausstellung und Garten)",
+    "hu": "12 € felnőttek (beleértve az éves kiállítást és a kertet)",
+    "ro": "12 € adulți (include expoziția anuală și grădina)",
+    "en": "€12 adults (includes annual exhibition and garden)"
+  },
   "website": "https://www.schallaburg.at/",
-  "publicTransport": "Saisonale Shuttle-Busverbindung vom Bahnhof Melk",
-  "parking": "Großer kostenloser Parkplatz direkt am Burggelände",
-  "accessibility": "Schloss und Ausstellungsbereiche barrierefrei (Aufzug), Garten teilweise Stufen",
-  "photoRules": "Erlaubt",
-  "bestTimeToVisit": "Vormittags, um das Sonnenlicht im Terrakotta-Arkadenhof zu nutzen",
-  "audioGuide": "ja (Deutsch, Englisch)"
+  "publicTransport": {
+    "de": "Saisonale Shuttle-Busverbindung vom Bahnhof Melk",
+    "hu": "Szezonális transzferbuszjárat a melki vasútállomástól",
+    "ro": "Autobuz de transfer sezonier de la gara Melk",
+    "en": "Seasonal shuttle bus service from Melk train station"
+  },
+  "parking": {
+    "de": "Großer kostenloser Parkplatz direkt am Burggelände",
+    "hu": "Nagy ingyenes parkoló közvetlenül a vár területén",
+    "ro": "Parcare gratuită mare direct în incinta castelului",
+    "en": "Large free parking lot directly at the castle grounds"
+  },
+  "accessibility": {
+    "de": "Schloss und Ausstellungsbereiche barrierefrei (Aufzug), Garten teilweise Stufen",
+    "hu": "A kastély és a kiállítási területek akadálymentesek (lift), a kertben részben lépcsők találhatók",
+    "ro": "Castelul și zonele de expoziție sunt accesibile (lift), grădina are parțial trepte",
+    "en": "Castle and exhibition areas are accessible (elevator), garden partially has steps"
+  },
+  "photoRules": {
+    "de": "Erlaubt",
+    "hu": "Megengedett",
+    "ro": "Permis",
+    "en": "Allowed"
+  },
+  "bestTimeToVisit": {
+    "de": "Vormittags, um das Sonnenlicht im Terrakotta-Arkadenhof zu nutzen",
+    "hu": "Délelőtt, hogy kihasználja a napfényt a terrakotta árkádos udvarban",
+    "ro": "Dimineața, pentru a profita de lumina soarelui în curtea cu arcade de teracotă",
+    "en": "Mornings to make use of the sunlight in the terracotta arcade courtyard"
+  },
+  "audioGuide": {
+    "de": "ja (Deutsch, Englisch)",
+    "hu": "igen (német, angol)",
+    "ro": "da (germană, engleză)",
+    "en": "yes (German, English)"
+  }
 }

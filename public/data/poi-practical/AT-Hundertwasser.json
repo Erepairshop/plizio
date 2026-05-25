@@ -1,12 +1,57 @@
 {
-  "address": "Kegelgasse 36-38, 1030 Wien",
-  "openingHours": "24/7",
-  "entranceFee": "free",
+  "address": {
+    "de": "Kegelgasse 36-38, 1030 Wien",
+    "hu": "Kegelgasse 36-38, 1030 Bécs",
+    "ro": "Kegelgasse 36-38, 1030 Viena",
+    "en": "Kegelgasse 36-38, 1030 Vienna"
+  },
+  "openingHours": {
+    "de": "24/7",
+    "hu": "24/7 (folyamatosan)",
+    "ro": "24/7",
+    "en": "24/7"
+  },
+  "entranceFee": {
+    "de": "free",
+    "hu": "ingyenes",
+    "ro": "gratuit",
+    "en": "free"
+  },
   "website": "https://www.hundertwasser-haus.at",
-  "publicTransport": "Tram 1 bis Hetzgasse oder Tram O bis Radetzkyplatz",
-  "parking": "Sehr schwierig im Wohngebiet, Kurzparkzone (max. 2 Std.) mit Parkpickerl.",
-  "accessibility": "Nur von außen zu besichtigen, die Gehwege sind teilweise uneben gestaltet.",
-  "photoRules": "Privatfotos von der Straßenseite aus sind jederzeit uneingeschränkt erlaubt.",
-  "bestTimeToVisit": "Vor 10:00 Uhr morgens, um Fotos ohne touristisches Gedränge zu machen.",
-  "audioGuide": "no"
+  "publicTransport": {
+    "de": "Tram 1 bis Hetzgasse oder Tram O bis Radetzkyplatz",
+    "hu": "1-es villamos Hetzgasse-ig vagy O villamos Radetzkyplatz-ig",
+    "ro": "Tramvaiul 1 până la Hetzgasse sau tramvaiul O până la Radetzkyplatz",
+    "en": "Tram 1 to Hetzgasse or Tram O to Radetzkyplatz"
+  },
+  "parking": {
+    "de": "Sehr schwierig im Wohngebiet, Kurzparkzone (max. 2 Std.) mit Parkpickerl.",
+    "hu": "Nagyon nehéz a lakóövezetben, rövid távú parkolási zóna (max. 2 óra).",
+    "ro": "Foarte dificil în zona rezidențială, zonă de parcare pe termen scurt (max. 2 ore).",
+    "en": "Very difficult in the residential area, short-term parking zone (max. 2 hours)."
+  },
+  "accessibility": {
+    "de": "Nur von außen zu besichtigen, die Gehwege sind teilweise uneben gestaltet.",
+    "hu": "Csak kívülről tekinthető meg, a járdák részben egyenetlenek.",
+    "ro": "Poate fi vizitat doar din exterior, trotuarele sunt parțial denivelate.",
+    "en": "Can only be viewed from the outside; the sidewalks are partially uneven."
+  },
+  "photoRules": {
+    "de": "Privatfotos von der Straßenseite aus sind jederzeit uneingeschränkt erlaubt.",
+    "hu": "Magáncélú fotók az utca felől bármikor korlátozás nélkül készíthetők.",
+    "ro": "Fotografiile private de pe partea străzii sunt permise oricând fără restricții.",
+    "en": "Private photos from the street side are allowed at any time without restrictions."
+  },
+  "bestTimeToVisit": {
+    "de": "Vor 10:00 Uhr morgens, um Fotos ohne touristisches Gedränge zu machen.",
+    "hu": "Reggel 10:00 előtt, hogy a tömeg nélkül fotózhasson.",
+    "ro": "Înainte de ora 10:00 dimineața, pentru a face fotografii fără aglomerația turistică.",
+    "en": "Before 10:00 AM to take photos without the tourist crowds."
+  },
+  "audioGuide": {
+    "de": "no",
+    "hu": "nem elérhető",
+    "ro": "nu",
+    "en": "no"
+  }
 }

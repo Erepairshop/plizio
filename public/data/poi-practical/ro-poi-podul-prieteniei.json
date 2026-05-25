@@ -1,12 +1,57 @@
 {
-  "address": "E85, 080012 Giurgiu / Ruse",
-  "openingHours": "24/7",
-  "entranceFee": "Brückenzoll: ca. 3 EUR (15 RON) für PKW",
+  "address": {
+    "de": "E85, 080012 Giurgiu / Ruse",
+    "hu": "E85, 080012 Giurgiu / Rusze",
+    "ro": "E85, 080012 Giurgiu / Ruse",
+    "en": "E85, 080012 Giurgiu / Ruse"
+  },
+  "openingHours": {
+    "de": "24/7",
+    "hu": "24/7",
+    "ro": "24/7",
+    "en": "24/7"
+  },
+  "entranceFee": {
+    "de": "Brückenzoll: ca. 3 EUR (15 RON) für PKW",
+    "hu": "Híddíj: kb. 3 EUR (15 RON) személygépkocsiknak",
+    "ro": "Taxă de pod: aprox. 3 EUR (15 RON) pentru autoturisme",
+    "en": "Bridge toll: approx. 3 EUR (15 RON) for cars"
+  },
   "website": "",
-  "publicTransport": "Internationale Busse Bukarest-Ruse halten meist nicht auf der Brücke",
-  "parking": "Kein Parken auf der Brücke erlaubt; Parkplätze an den Grenzübergängen",
-  "accessibility": "Befahrbar mit dem PKW, Fußgängerwege vorhanden aber oft vernachlässigt",
-  "photoRules": "Fotografieren der Grenzanlagen offiziell untersagt",
-  "bestTimeToVisit": "Früher Morgen oder Nachts zur Vermeidung langer LKW-Staus",
-  "audioGuide": "nein"
+  "publicTransport": {
+    "de": "Internationale Busse Bukarest-Ruse halten meist nicht auf der Brücke",
+    "hu": "A Bukarest-Rusze nemzetközi buszok általában nem állnak meg a hídon",
+    "ro": "Autobuzele internaționale București-Ruse de obicei nu opresc pe pod",
+    "en": "International Bucharest-Ruse buses usually do not stop on the bridge"
+  },
+  "parking": {
+    "de": "Kein Parken auf der Brücke erlaubt; Parkplätze an den Grenzübergängen",
+    "hu": "A hídon tilos a parkolás; parkolók a határátkelőknél",
+    "ro": "Nu este permisă parcarea pe pod; parcări la punctele de trecere a frontierei",
+    "en": "No parking on the bridge; parking at border crossings"
+  },
+  "accessibility": {
+    "de": "Befahrbar mit dem PKW, Fußgängerwege vorhanden aber oft vernachlässigt",
+    "hu": "Autóval járható, gyalogutak vannak, de gyakran elhanyagoltak",
+    "ro": "Accesibil cu mașina, există trotuare dar adesea sunt neglijate",
+    "en": "Accessible by car, pedestrian paths available but often neglected"
+  },
+  "photoRules": {
+    "de": "Fotografieren der Grenzanlagen offiziell untersagt",
+    "hu": "A határátkelő létesítmények fényképezése hivatalosan tilos",
+    "ro": "Fotografierea facilităților de frontieră este oficial interzisă",
+    "en": "Photography of border facilities is officially prohibited"
+  },
+  "bestTimeToVisit": {
+    "de": "Früher Morgen oder Nachts zur Vermeidung langer LKW-Staus",
+    "hu": "Kora reggel vagy éjszaka a hosszú teherautó-torlódások elkerülése érdekében",
+    "ro": "Dimineața devreme sau noaptea pentru a evita cozile lungi de camioane",
+    "en": "Early morning or night to avoid long truck queues"
+  },
+  "audioGuide": {
+    "de": "nein",
+    "hu": "nem",
+    "ro": "nu",
+    "en": "no"
+  }
 }

@@ -1,12 +1,57 @@
 {
-  "address": "Rose Hill St, Conwy LL32 8AY",
-  "openingHours": "Mo-Su 09:30-17:00",
-  "entranceFee": "£11.90 Erwachsene, £8.30 Kinder",
+  "address": {
+    "de": "Rose Hill St, Conwy LL32 8AY",
+    "hu": "Rose Hill St, Conwy LL32 8AY",
+    "ro": "Rose Hill St, Conwy LL32 8AY",
+    "en": "Rose Hill St, Conwy LL32 8AY"
+  },
+  "openingHours": {
+    "de": "Mo-Su 09:30-17:00",
+    "hu": "H-V 09:30-17:00",
+    "ro": "Lu-Du 09:30-17:00",
+    "en": "Mo-Su 09:30-17:00"
+  },
+  "entranceFee": {
+    "de": "£11.90 Erwachsene, £8.30 Kinder",
+    "hu": "£11.90 felnőtt, £8.30 gyerek",
+    "ro": "£11.90 adulți, £8.30 copii",
+    "en": "£11.90 adults, £8.30 children"
+  },
   "website": "https://cadw.gov.wales/visit/places-to-visit/conwy-castle",
-  "publicTransport": "Zug bis Conwy Bahnhof, Burg liegt direkt an den Gleisen",
-  "parking": "Parkplatz direkt unterhalb der Burgmauern (Pay & Display).",
-  "accessibility": "Die Hauptbereiche sind zugänglich, Wehrgänge und Türme erfordern gute Mobilität.",
-  "photoRules": "Uneingeschränkt erlaubt für private Zwecke.",
-  "bestTimeToVisit": "Abendstunden für den Blick von den Mauern auf den Hafen und die Brücken.",
-  "audioGuide": "en, cy"
+  "publicTransport": {
+    "de": "Zug bis Conwy Bahnhof, Burg liegt direkt an den Gleisen",
+    "hu": "Vonat Conwy állomásig, a vár közvetlenül a sínek mellett fekszik",
+    "ro": "Tren până la gara Conwy, castelul este situat chiar lângă linii",
+    "en": "Train to Conwy station, castle is located right by the tracks"
+  },
+  "parking": {
+    "de": "Parkplatz direkt unterhalb der Burgmauern (Pay & Display).",
+    "hu": "Parkoló közvetlenül a várfalak alatt (Pay & Display).",
+    "ro": "Parcare chiar sub zidurile castelului (Pay & Display).",
+    "en": "Car park directly below the castle walls (Pay & Display)."
+  },
+  "accessibility": {
+    "de": "Die Hauptbereiche sind zugänglich, Wehrgänge und Türme erfordern gute Mobilität.",
+    "hu": "A főbb területek hozzáférhetők, a várfalak és tornyok jó mozgásképességet igényelnek.",
+    "ro": "Zonele principale sunt accesibile, zidurile și turnurile necesită o bună mobilitate.",
+    "en": "The main areas are accessible, wall walks and towers require good mobility."
+  },
+  "photoRules": {
+    "de": "Uneingeschränkt erlaubt für private Zwecke.",
+    "hu": "Magáncélra korlátozás nélkül engedélyezett.",
+    "ro": "Permis nelimitat pentru uz privat.",
+    "en": "Unlimited permission for private use."
+  },
+  "bestTimeToVisit": {
+    "de": "Abendstunden für den Blick von den Mauern auf den Hafen und die Brücken.",
+    "hu": "Esti órákban a falakról nyíló kilátásért a kikötőre és a hidakra.",
+    "ro": "În orele serii pentru vederea de pe ziduri asupra portului și podurilor.",
+    "en": "Evening hours for the view from the walls over the harbor and bridges."
+  },
+  "audioGuide": {
+    "de": "en, cy",
+    "hu": "angol, walesi",
+    "ro": "engleză, galeză",
+    "en": "en, cy"
+  }
 }

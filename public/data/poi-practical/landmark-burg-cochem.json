@@ -1,12 +1,57 @@
 {
-  "address": "Schlossstraße 36, 56812 Cochem",
-  "openingHours": "Täglich 09:00-17:00",
-  "entranceFee": "Erwachsene 7€, Kinder 3,50€ (Besichtigung nur mit Führung)",
+  "address": {
+    "de": "Schlossstraße 36, 56812 Cochem",
+    "hu": "Schlossstraße 36, 56812 Cochem",
+    "ro": "Schlossstraße 36, 56812 Cochem",
+    "en": "Schlossstraße 36, 56812 Cochem"
+  },
+  "openingHours": {
+    "de": "Täglich 09:00-17:00",
+    "hu": "Naponta 09:00-17:00",
+    "ro": "Zilnic 09:00-17:00",
+    "en": "Daily 09:00-17:00"
+  },
+  "entranceFee": {
+    "de": "Erwachsene 7€, Kinder 3,50€ (Besichtigung nur mit Führung)",
+    "hu": "Felnőtt 7 €, gyermek 3,50 € (látogatás csak vezetéssel)",
+    "ro": "Adulți 7 €, copii 3,50 € (vizitare doar cu ghid)",
+    "en": "Adults €7, children €3.50 (tour only)"
+  },
   "website": "https://reichsburg-cochem.de",
-  "publicTransport": "Vom Bahnhof Cochem mit dem Burg-Bus (Linie 781).",
-  "parking": "Parken in Cochem an der Mosel, steiler Aufstieg zu Fuß (ca. 15 Min.).",
-  "accessibility": "Aufgrund der historischen Anlage und steilen Wege nicht barrierefrei.",
-  "photoRules": "Draußen erlaubt, in den Innenräumen während der Führung verboten.",
-  "bestTimeToVisit": "Herbst, wenn sich das Laub der Weinreben im Moseltal färbt.",
-  "audioGuide": "Informationsblätter in 12 Sprachen für die Führung erhältlich"
+  "publicTransport": {
+    "de": "Vom Bahnhof Cochem mit dem Burg-Bus (Linie 781).",
+    "hu": "A Cochem-i pályaudvartól a Burg-busszal (781-es vonal).",
+    "ro": "De la gara Cochem cu autobuzul de castel (linia 781).",
+    "en": "From Cochem station with the castle bus (line 781)."
+  },
+  "parking": {
+    "de": "Parken in Cochem an der Mosel, steiler Aufstieg zu Fuß (ca. 15 Min.).",
+    "hu": "Parkolás Cochemben a Mosel-folyónál, meredek emelkedő gyalog (kb. 15 perc).",
+    "ro": "Parcare în Cochem pe malul râului Mosel, urcare abruptă pe jos (aprox. 15 min).",
+    "en": "Parking in Cochem on the Moselle, steep walk uphill (approx. 15 min)."
+  },
+  "accessibility": {
+    "de": "Aufgrund der historischen Anlage und steilen Wege nicht barrierefrei.",
+    "hu": "A történelmi létesítmény és a meredek utak miatt nem akadálymentesített.",
+    "ro": "Datorită complexului istoric și a drumurilor abrupte, nu este accesibilă.",
+    "en": "Not accessible due to the historic site and steep paths."
+  },
+  "photoRules": {
+    "de": "Draußen erlaubt, in den Innenräumen während der Führung verboten.",
+    "hu": "Kint engedélyezett, a belső terekben a vezetés alatt tilos.",
+    "ro": "Permis afară, interzis în interior în timpul turului ghidat.",
+    "en": "Allowed outside, forbidden inside during the tour."
+  },
+  "bestTimeToVisit": {
+    "de": "Herbst, wenn sich das Laub der Weinreben im Moseltal färbt.",
+    "hu": "Ősz, amikor a szőlőtőkék levelei színesre váltanak a Mosel-völgyben.",
+    "ro": "Toamna, când frunzele viței de vie se colorează în valea râului Mosel.",
+    "en": "Autumn when the vine leaves change color in the Moselle valley."
+  },
+  "audioGuide": {
+    "de": "Informationsblätter in 12 Sprachen für die Führung erhältlich",
+    "hu": "12 nyelvű információs lapok kaphatók a vezetéshez",
+    "ro": "Fișe informative în 12 limbi disponibile pentru tur",
+    "en": "Information sheets in 12 languages available for the tour"
+  }
 }

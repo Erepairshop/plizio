@@ -1,12 +1,57 @@
 {
-  "address": "Riegersburg 1, 8333 Riegersburg",
-  "openingHours": "Mo-Su 09:00-18:00 (Apr-Okt)",
-  "entranceFee": "23€ (Burg, Lift, Ausstellungen)",
+  "address": {
+    "de": "Riegersburg 1, 8333 Riegersburg",
+    "hu": "Riegersburg 1, 8333 Riegersburg",
+    "ro": "Riegersburg 1, 8333 Riegersburg",
+    "en": "Riegersburg 1, 8333 Riegersburg"
+  },
+  "openingHours": {
+    "de": "Mo-Su 09:00-18:00 (Apr-Okt)",
+    "hu": "H-V 09:00-18:00 (ápr-okt)",
+    "ro": "Lu-Du 09:00-18:00 (Apr-Oct)",
+    "en": "Mon-Sun 09:00-18:00 (Apr-Oct)"
+  },
+  "entranceFee": {
+    "de": "23€ (Burg, Lift, Ausstellungen)",
+    "hu": "23 € (vár, lift, kiállítások)",
+    "ro": "23 € (castel, lift, expoziții)",
+    "en": "23€ (castle, lift, exhibitions)"
+  },
   "website": "https://www.riegersburg.com",
-  "publicTransport": "Bahnhof Feldbach, dann Bus 406",
-  "parking": "Großer Parkplatz am Fuß der Burg, kostenlos.",
-  "accessibility": "Steiler Aufstieg oder barrierefreier Panoramalift.",
-  "photoRules": "In Außenanlagen erlaubt, innen ohne Blitz.",
-  "bestTimeToVisit": "Früher Vormittag zur Vermeidung von Hitze.",
-  "audioGuide": "DE, EN"
+  "publicTransport": {
+    "de": "Bahnhof Feldbach, dann Bus 406",
+    "hu": "Feldbach vasútállomás, majd a 406-os busz",
+    "ro": "Gara Feldbach, apoi autobuzul 406",
+    "en": "Feldbach station, then bus 406"
+  },
+  "parking": {
+    "de": "Großer Parkplatz am Fuß der Burg, kostenlos.",
+    "hu": "Nagy parkoló a vár lábánál, ingyenes.",
+    "ro": "Parcare mare la baza castelului, gratuită.",
+    "en": "Large parking lot at the foot of the castle, free."
+  },
+  "accessibility": {
+    "de": "Steiler Aufstieg oder barrierefreier Panoramalift.",
+    "hu": "Meredek felmenet vagy akadálymentes panorámalift.",
+    "ro": "Urcare abruptă sau lift panoramic accesibil.",
+    "en": "Steep climb or barrier-free panorama lift."
+  },
+  "photoRules": {
+    "de": "In Außenanlagen erlaubt, innen ohne Blitz.",
+    "hu": "A kültéri részeken megengedett, bent vaku nélkül.",
+    "ro": "Permis în zonele exterioare, în interior fără bliț.",
+    "en": "Permitted in outdoor areas, inside without flash."
+  },
+  "bestTimeToVisit": {
+    "de": "Früher Vormittag zur Vermeidung von Hitze.",
+    "hu": "Kora délelőtt a hőség elkerülése érdekében.",
+    "ro": "Dimineața devreme pentru a evita căldura.",
+    "en": "Early morning to avoid the heat."
+  },
+  "audioGuide": {
+    "de": "DE, EN",
+    "hu": "német, angol",
+    "ro": "DE, EN",
+    "en": "DE, EN"
+  }
 }

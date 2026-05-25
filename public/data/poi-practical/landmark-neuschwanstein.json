@@ -1,12 +1,57 @@
 {
-  "address": "Neuschwansteinstraße 20, 87645 Schwangau",
-  "openingHours": "Apr-15.Oct 09:00-18:00, 16.Oct-Mar 10:00-16:00",
-  "entranceFee": "€18 Erwachsene (nur mit Führung), Kinder frei",
+  "address": {
+    "de": "Neuschwansteinstraße 20, 87645 Schwangau",
+    "hu": "Neuschwansteinstraße 20, 87645 Schwangau",
+    "ro": "Neuschwansteinstraße 20, 87645 Schwangau",
+    "en": "Neuschwansteinstraße 20, 87645 Schwangau"
+  },
+  "openingHours": {
+    "de": "Apr-15.Oct 09:00-18:00, 16.Oct-Mar 10:00-16:00",
+    "hu": "ápr-okt 15. 09:00-18:00, okt 16.-márc 10:00-16:00",
+    "ro": "apr-15 oct 09:00-18:00, 16 oct-martie 10:00-16:00",
+    "en": "Apr-15 Oct 09:00-18:00, 16 Oct-Mar 10:00-16:00"
+  },
+  "entranceFee": {
+    "de": "€18 Erwachsene (nur mit Führung), Kinder frei",
+    "hu": "18 € felnőtteknek (csak vezetéssel), gyerekeknek ingyenes",
+    "ro": "18 € adulți (doar cu ghid), copii gratuit",
+    "en": "€18 adults (only with tour), children free"
+  },
   "website": "https://www.neuschwanstein.de",
-  "publicTransport": "Zug bis Füssen, dann Bus 73 oder 78 bis Hohenschwangau",
-  "parking": "Parkplätze in Hohenschwangau, ca. €10/Tag",
-  "accessibility": "Eingeschränkt barrierefrei, Voranmeldung für Fahrstuhlnutzung nötig",
-  "photoRules": "Im Schloss streng verboten, außen und von Marienbrücke erlaubt",
-  "bestTimeToVisit": "Sehr früh morgens für Tickets oder späten Nachmittag für Licht",
-  "audioGuide": "de, en, fr, es, it, pt, ru, ja, zh, ko"
+  "publicTransport": {
+    "de": "Zug bis Füssen, dann Bus 73 oder 78 bis Hohenschwangau",
+    "hu": "Vonat Füssenbe, majd 73-as vagy 78-as busz Hohenschwangauig",
+    "ro": "Tren până la Füssen, apoi autobuzul 73 sau 78 până la Hohenschwangau",
+    "en": "Train to Füssen, then bus 73 or 78 to Hohenschwangau"
+  },
+  "parking": {
+    "de": "Parkplätze in Hohenschwangau, ca. €10/Tag",
+    "hu": "Parkolók Hohenschwangauban, kb. 10 €/nap",
+    "ro": "Parcări în Hohenschwangau, aprox. 10 €/zi",
+    "en": "Parking in Hohenschwangau, approx. €10/day"
+  },
+  "accessibility": {
+    "de": "Eingeschränkt barrierefrei, Voranmeldung für Fahrstuhlnutzung nötig",
+    "hu": "Korlátozottan akadálymentes, lift használatához előzetes bejelentkezés szükséges",
+    "ro": "Accesibilitate limitată, rezervare în avans necesară pentru utilizarea liftului",
+    "en": "Limited barrier-free, advance reservation required for elevator use"
+  },
+  "photoRules": {
+    "de": "Im Schloss streng verboten, außen und von Marienbrücke erlaubt",
+    "hu": "A kastélyban szigorúan tilos, kívül és a Marienbrücke hídról megengedett",
+    "ro": "Strict interzis în interiorul castelului, permis la exterior și de pe podul Marienbrücke",
+    "en": "Strictly forbidden inside the castle, allowed outside and from Marienbrücke"
+  },
+  "bestTimeToVisit": {
+    "de": "Sehr früh morgens für Tickets oder späten Nachmittag für Licht",
+    "hu": "Nagyon korán reggel a jegyekért vagy késő délután a fényekért",
+    "ro": "Foarte devreme dimineața pentru bilete sau după-amiaza târziu pentru lumină",
+    "en": "Very early morning for tickets or late afternoon for light"
+  },
+  "audioGuide": {
+    "de": "de, en, fr, es, it, pt, ru, ja, zh, ko",
+    "hu": "német, angol, francia, spanyol, olasz, portugál, orosz, japán, kínai, koreai",
+    "ro": "germană, engleză, franceză, spaniolă, italiană, portugheză, rusă, japoneză, chineză, coreeană",
+    "en": "German, English, French, Spanish, Italian, Portuguese, Russian, Japanese, Chinese, Korean"
+  }
 }

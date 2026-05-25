@@ -1,12 +1,57 @@
 {
-  "address": "Calea lui Traian 593, 245600 Călimănești",
-  "openingHours": "24/7",
-  "entranceFee": "ca. 5 RON",
+  "address": {
+    "de": "Calea lui Traian 593, 245600 Călimănești",
+    "hu": "Calea lui Traian 593, 245600 Călimănești",
+    "ro": "Calea lui Traian 593, 245600 Călimănești",
+    "en": "Calea lui Traian 593, 245600 Călimănești"
+  },
+  "openingHours": {
+    "de": "24/7",
+    "hu": "Non-stop",
+    "ro": "24/7",
+    "en": "24/7"
+  },
+  "entranceFee": {
+    "de": "ca. 5 RON",
+    "hu": "kb. 5 RON",
+    "ro": "aprox. 5 RON",
+    "en": "approx. 5 RON"
+  },
   "website": "http://www.cozia.ro/",
-  "publicTransport": "Zug oder Bus bis Căciulata",
-  "parking": "Parkplätze an den Klöstern oder Wanderstartpunkten",
-  "accessibility": "Täler zugänglich, Wanderwege nicht barrierefrei",
-  "photoRules": "Erlaubt",
-  "bestTimeToVisit": "Herbst für die Laubfärbung",
-  "audioGuide": "no"
+  "publicTransport": {
+    "de": "Zug oder Bus bis Căciulata",
+    "hu": "Vonat vagy busz Căciulatáig",
+    "ro": "Tren sau autobuz până la Căciulata",
+    "en": "Train or bus to Căciulata"
+  },
+  "parking": {
+    "de": "Parkplätze an den Klöstern oder Wanderstartpunkten",
+    "hu": "Parkolók a kolostoroknál vagy a túraútvonalak kezdeténél",
+    "ro": "Parcări la mănăstiri sau la punctele de pornire pentru drumeții",
+    "en": "Parking at monasteries or hiking trailheads"
+  },
+  "accessibility": {
+    "de": "Täler zugänglich, Wanderwege nicht barrierefrei",
+    "hu": "A völgyek megközelíthetőek, a túraútvonalak nem akadálymentesek",
+    "ro": "Văile sunt accesibile, traseele montane nu sunt accesibile",
+    "en": "Valleys accessible, trails not wheelchair-friendly"
+  },
+  "photoRules": {
+    "de": "Erlaubt",
+    "hu": "Engedélyezett",
+    "ro": "Permis",
+    "en": "Allowed"
+  },
+  "bestTimeToVisit": {
+    "de": "Herbst für die Laubfärbung",
+    "hu": "Ősz, a lombszíneződés miatt",
+    "ro": "Toamna pentru culorile frunzelor",
+    "en": "Autumn for fall foliage"
+  },
+  "audioGuide": {
+    "de": "no",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

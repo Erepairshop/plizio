@@ -1,12 +1,57 @@
 {
-  "address": "Mercedesstraße 100, 70372 Stuttgart",
-  "openingHours": "Di-So 09:00-18:00, Mo geschlossen",
-  "entranceFee": "€12 Erwachsene, €6 Ermäßigt",
+  "address": {
+    "de": "Mercedesstraße 100, 70372 Stuttgart",
+    "hu": "Mercedesstraße 100, 70372 Stuttgart",
+    "ro": "Mercedesstraße 100, 70372 Stuttgart",
+    "en": "Mercedesstraße 100, 70372 Stuttgart"
+  },
+  "openingHours": {
+    "de": "Di-So 09:00-18:00, Mo geschlossen",
+    "hu": "K-V 09:00-18:00, hétfőn zárva",
+    "ro": "Marți-duminică 09:00-18:00, luni închis",
+    "en": "Tue-Sun 09:00-18:00, Mon closed"
+  },
+  "entranceFee": {
+    "de": "€12 Erwachsene, €6 Ermäßigt",
+    "hu": "12 € felnőtteknek, 6 € kedvezményes",
+    "ro": "12 € adulți, 6 € redus",
+    "en": "€12 adults, €6 reduced"
+  },
   "website": "https://www.mercedes-benz.com/museum",
-  "publicTransport": "S-Bahn S1 bis Haltestelle Neckarpark (Mercedes-Benz)",
-  "parking": "Museums-Parkhaus, €2/Std. (erste 3 Std.)",
-  "accessibility": "Vollständig barrierefrei, Aufzüge zu allen Ebenen",
-  "photoRules": "Erlaubt für private Zwecke, kein Blitz",
-  "bestTimeToVisit": "Dienstag oder Mittwoch Vormittag für weniger Andrang",
-  "audioGuide": "de, en, fr, es, it, zh, ru, ja"
+  "publicTransport": {
+    "de": "S-Bahn S1 bis Haltestelle Neckarpark (Mercedes-Benz)",
+    "hu": "S1 S-Bahn a Neckarpark (Mercedes-Benz) megállóig",
+    "ro": "S-Bahn S1 până la stația Neckarpark (Mercedes-Benz)",
+    "en": "S-Bahn S1 to station Neckarpark (Mercedes-Benz)"
+  },
+  "parking": {
+    "de": "Museums-Parkhaus, €2/Std. (erste 3 Std.)",
+    "hu": "Múzeumi parkolóház, 2 €/óra (első 3 óra)",
+    "ro": "Parcare muzeu, 2 €/oră (primele 3 ore)",
+    "en": "Museum parking garage, €2/hour (first 3 hours)"
+  },
+  "accessibility": {
+    "de": "Vollständig barrierefrei, Aufzüge zu allen Ebenen",
+    "hu": "Teljesen akadálymentes, liftek minden szintre",
+    "ro": "Complet accesibil, lifturi către toate nivelurile",
+    "en": "Completely barrier-free, elevators to all levels"
+  },
+  "photoRules": {
+    "de": "Erlaubt für private Zwecke, kein Blitz",
+    "hu": "Megengedett magáncélra, vaku tilos",
+    "ro": "Permis pentru uz privat, fără bliț",
+    "en": "Allowed for private use, no flash"
+  },
+  "bestTimeToVisit": {
+    "de": "Dienstag oder Mittwoch Vormittag für weniger Andrang",
+    "hu": "Kedd vagy szerda délelőtt a kisebb tömegért",
+    "ro": "Marți sau miercuri dimineața pentru mai puțină aglomerație",
+    "en": "Tuesday or Wednesday morning for fewer crowds"
+  },
+  "audioGuide": {
+    "de": "de, en, fr, es, it, zh, ru, ja",
+    "hu": "német, angol, francia, spanyol, olasz, kínai, orosz, japán",
+    "ro": "germană, engleză, franceză, spaniolă, italiană, chineză, rusă, japoneză",
+    "en": "German, English, French, Spanish, Italian, Chinese, Russian, Japanese"
+  }
 }

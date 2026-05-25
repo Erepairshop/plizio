@@ -1,12 +1,57 @@
 {
-  "address": "Seilerstätte 30, 1010 Wien",
-  "openingHours": "Täglich 10:00-22:00",
-  "entranceFee": "€ 16,00 Erwachsene, € 11,00 Studenten/Senioren",
+  "address": {
+    "de": "Seilerstätte 30, 1010 Wien",
+    "hu": "Seilerstätte 30, 1010 Bécs",
+    "ro": "Seilerstätte 30, 1010 Viena",
+    "en": "Seilerstätte 30, 1010 Vienna"
+  },
+  "openingHours": {
+    "de": "Täglich 10:00-22:00",
+    "hu": "Naponta 10:00-22:00",
+    "ro": "Zilnic 10:00-22:00",
+    "en": "Daily 10:00 AM - 10:00 PM"
+  },
+  "entranceFee": {
+    "de": "€ 16,00 Erwachsene, € 11,00 Studenten/Senioren",
+    "hu": "16,00 € felnőtt, 11,00 € diák/nyugdíjas",
+    "ro": "16,00 € adulți, 11,00 € studenți/pensionari",
+    "en": "€16.00 adults, €11.00 students/seniors"
+  },
   "website": "https://www.hausdermusik.com",
-  "publicTransport": "U1, U3 Stephansplatz oder Karlsplatz; Tram 2, 71, D",
-  "parking": "Wipark Garage am Kärntner Ring oder Palais Corso (teuer).",
-  "accessibility": "Alle Etagen durch einen geräumigen Lift voll barrierefrei erschlossen.",
-  "photoRules": "Erlaubt, interaktive Stationen bieten tolle Fotomotive.",
-  "bestTimeToVisit": "Nach 18:00 Uhr (Abendticket), wenn die Schulklassen das Haus verlassen haben.",
-  "audioGuide": "ja (Guide über Smartphone-App)"
+  "publicTransport": {
+    "de": "U1, U3 Stephansplatz oder Karlsplatz; Tram 2, 71, D",
+    "hu": "U1, U3 Stephansplatz vagy Karlsplatz; 2, 71, D villamos",
+    "ro": "U1, U3 Stephansplatz sau Karlsplatz; tramvaiul 2, 71, D",
+    "en": "U1, U3 Stephansplatz or Karlsplatz; tram 2, 71, D"
+  },
+  "parking": {
+    "de": "Wipark Garage am Kärntner Ring oder Palais Corso (teuer).",
+    "hu": "Wipark Garage a Kärntner Ringen vagy Palais Corso (drága).",
+    "ro": "Garajul Wipark la Kärntner Ring sau Palais Corso (scump).",
+    "en": "Wipark Garage at Kärntner Ring or Palais Corso (expensive)."
+  },
+  "accessibility": {
+    "de": "Alle Etagen durch einen geräumigen Lift voll barrierefrei erschlossen.",
+    "hu": "Minden emelet tágas lifttel, teljesen akadálymentesen elérhető.",
+    "ro": "Toate etajele sunt complet accesibile printr-un lift spațios.",
+    "en": "All floors are fully accessible through a spacious elevator."
+  },
+  "photoRules": {
+    "de": "Erlaubt, interaktive Stationen bieten tolle Fotomotive.",
+    "hu": "Engedélyezett, az interaktív állomások nagyszerű fotótémákat kínálnak.",
+    "ro": "Permis, stațiile interactive oferă motive fotografice grozave.",
+    "en": "Allowed, interactive stations offer great photo opportunities."
+  },
+  "bestTimeToVisit": {
+    "de": "Nach 18:00 Uhr (Abendticket), wenn die Schulklassen das Haus verlassen haben.",
+    "hu": "18:00 óra után (esti jegy), amikor az iskoláscsoportok már elmentek.",
+    "ro": "După ora 18:00 (bilet de seară), când grupurile școlare au plecat.",
+    "en": "After 6:00 PM (evening ticket) when the school classes have left."
+  },
+  "audioGuide": {
+    "de": "ja (Guide über Smartphone-App)",
+    "hu": "igen (guide okostelefonos alkalmazáson keresztül)",
+    "ro": "da (ghid prin aplicația de smartphone)",
+    "en": "yes (guide via smartphone app)"
+  }
 }

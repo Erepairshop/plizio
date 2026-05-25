@@ -1,12 +1,57 @@
 {
-  "address": "Osterstraße 2, 31785 Hameln",
-  "openingHours": "24/7",
-  "entranceFee": "kostenfrei",
+  "address": {
+    "de": "Osterstraße 2, 31785 Hameln",
+    "hu": "Osterstraße 2, 31785 Hameln",
+    "ro": "Osterstraße 2, 31785 Hameln",
+    "en": "Osterstraße 2, 31785 Hameln"
+  },
+  "openingHours": {
+    "de": "24/7",
+    "hu": "24/7",
+    "ro": "24/7",
+    "en": "24/7"
+  },
+  "entranceFee": {
+    "de": "kostenfrei",
+    "hu": "ingyenes",
+    "ro": "gratuit",
+    "en": "free"
+  },
   "website": "https://www.hameln.de",
-  "publicTransport": "Bahnhof Hameln, Buslinien 1, 2, 3 bis Haltestelle City",
-  "parking": "Parkhaus am Rattenfängerhaus, ca. 1,50 €/Std.",
-  "accessibility": "Kopfsteinpflaster in der Altstadt, Gebäude oft mit Stufen.",
-  "photoRules": "Erlaubt, in Museen oft ohne Blitz.",
-  "bestTimeToVisit": "Samstags um 13:00 Uhr zum Rattenfänger-Glockenspiel.",
-  "audioGuide": "ja, über App verfügbar"
+  "publicTransport": {
+    "de": "Bahnhof Hameln, Buslinien 1, 2, 3 bis Haltestelle City",
+    "hu": "Hameln állomás, 1, 2, 3-as busz a City megállóig",
+    "ro": "Gara Hameln, liniile de autobuz 1, 2, 3 până la stația City",
+    "en": "Hameln station, bus lines 1, 2, 3 to stop City"
+  },
+  "parking": {
+    "de": "Parkhaus am Rattenfängerhaus, ca. 1,50 €/Std.",
+    "hu": "Parkoló a Patkányfogó-háznál, kb. 1,50 €/óra.",
+    "ro": "Parcare la Casa Prădătorului de Șobolani, aprox. 1,50 €/oră.",
+    "en": "Parking at the Rat catcher's house, approx. €1.50/hr."
+  },
+  "accessibility": {
+    "de": "Kopfsteinpflaster in der Altstadt, Gebäude oft mit Stufen.",
+    "hu": "Óváros macskakővel, épületek gyakran lépcsősek.",
+    "ro": "Pavaje în centrul vechi, clădiri adesea cu trepte.",
+    "en": "Cobblestones in old town, buildings often with steps."
+  },
+  "photoRules": {
+    "de": "Erlaubt, in Museen oft ohne Blitz.",
+    "hu": "Szabad, múzeumokban gyakran vaku nélkül.",
+    "ro": "Permis, în muzee adesea fără bliț.",
+    "en": "Allowed, in museums often without flash."
+  },
+  "bestTimeToVisit": {
+    "de": "Samstags um 13:00 Uhr zum Rattenfänger-Glockenspiel.",
+    "hu": "Szombaton 13:00 órakor a Patkányfogó harangjátékáért.",
+    "ro": "Sâmbăta la ora 13:00 pentru orologiul Prădătorului de Șobolani.",
+    "en": "Saturdays at 13:00 for the rat catcher glockenspiel."
+  },
+  "audioGuide": {
+    "de": "ja, über App verfügbar",
+    "hu": "igen, alkalmazáson keresztül",
+    "ro": "da, disponibil prin aplicație",
+    "en": "yes, available via app"
+  }
 }

@@ -1,12 +1,57 @@
 {
-  "address": "Gropiusallee 38, 06846 Dessau-Roßlau",
-  "openingHours": "Täglich 10:00-17:00",
-  "entranceFee": "Bauhausgebäude 9€, Kombikarte mit Museum 15€",
+  "address": {
+    "de": "Gropiusallee 38, 06846 Dessau-Roßlau",
+    "hu": "Gropiusallee 38, 06846 Dessau-Roßlau",
+    "ro": "Gropiusallee 38, 06846 Dessau-Roßlau",
+    "en": "Gropiusallee 38, 06846 Dessau-Roßlau"
+  },
+  "openingHours": {
+    "de": "Täglich 10:00-17:00",
+    "hu": "Naponta 10:00-17:00",
+    "ro": "Zilnic 10:00-17:00",
+    "en": "Daily 10:00-17:00"
+  },
+  "entranceFee": {
+    "de": "Bauhausgebäude 9€, Kombikarte mit Museum 15€",
+    "hu": "Bauhaus-épület 9 €, kombinált jegy a múzeummal 15 €",
+    "ro": "Clădirea Bauhaus 9 €, bilet combinat cu muzeul 15 €",
+    "en": "Bauhaus building €9, combined ticket with museum €15"
+  },
   "website": "https://www.bauhaus-dessau.de",
-  "publicTransport": "Vom Hbf Dessau ca. 10 Min. zu Fuß oder Bus Linie 10.",
-  "parking": "Kostenpflichtige Parkplätze in der direkten Umgebung vorhanden.",
-  "accessibility": "Eingeschränkt barrierefrei durch historische Bausubstanz, Aufzug vorhanden.",
-  "photoRules": "Privat erlaubt, bei Profi-Kameras wird oft eine kleine Gebühr erhoben.",
-  "bestTimeToVisit": "Mittagszeit, wenn das Licht direkt durch die Glasvorhangfassade fällt.",
-  "audioGuide": "App für das Smartphone (Deutsch/Englisch) verfügbar"
+  "publicTransport": {
+    "de": "Vom Hbf Dessau ca. 10 Min. zu Fuß oder Bus Linie 10.",
+    "hu": "A dessaui főpályaudvartól kb. 10 perc gyalog vagy 10-es busz.",
+    "ro": "De la gara principală Dessau aprox. 10 minute pe jos sau autobuzul 10.",
+    "en": "From Dessau main station approx. 10 min. walk or bus line 10."
+  },
+  "parking": {
+    "de": "Kostenpflichtige Parkplätze in der direkten Umgebung vorhanden.",
+    "hu": "Fizetős parkolók közvetlenül a közelben.",
+    "ro": "Parcări cu plată disponibile în imediata apropiere.",
+    "en": "Paid parking available in the immediate vicinity."
+  },
+  "accessibility": {
+    "de": "Eingeschränkt barrierefrei durch historische Bausubstanz, Aufzug vorhanden.",
+    "hu": "Korlátozottan akadálymentes a történelmi épületszerkezet miatt, lift van.",
+    "ro": "Accesibilitate limitată din cauza structurii istorice, lift disponibil.",
+    "en": "Limited accessibility due to historic building structure, elevator available."
+  },
+  "photoRules": {
+    "de": "Privat erlaubt, bei Profi-Kameras wird oft eine kleine Gebühr erhoben.",
+    "hu": "Magáncélú engedélyezett, profi kameráknál gyakran kis díjat számítanak fel.",
+    "ro": "Permis în scop privat, pentru camerele profesionale se percepe adesea o mică taxă.",
+    "en": "Private use allowed, a small fee is often charged for professional cameras."
+  },
+  "bestTimeToVisit": {
+    "de": "Mittagszeit, wenn das Licht direkt durch die Glasvorhangfassade fällt.",
+    "hu": "Délidőben, amikor a fény közvetlenül az üveghomlokzaton keresztül esik be.",
+    "ro": "La prânz, când lumina cade direct prin fațada de sticlă.",
+    "en": "At noon when light falls directly through the glass curtain facade."
+  },
+  "audioGuide": {
+    "de": "App für das Smartphone (Deutsch/Englisch) verfügbar",
+    "hu": "Okostelefonos alkalmazás (német/angol) elérhető",
+    "ro": "Aplicație pentru smartphone (germană/engleză) disponibilă",
+    "en": "Smartphone app (German/English) available"
+  }
 }

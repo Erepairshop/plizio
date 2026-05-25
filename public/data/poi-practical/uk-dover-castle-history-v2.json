@@ -1,12 +1,57 @@
 {
-  "address": "Castle Hill Rd, Dover CT16 1HU",
-  "openingHours": "Mo-Su 10:00-18:00",
-  "entranceFee": "£23.00 Erwachsene, £14.00 Kinder (English Heritage)",
+  "address": {
+    "de": "Castle Hill Rd, Dover CT16 1HU",
+    "hu": "Castle Hill Rd, Dover CT16 1HU",
+    "ro": "Castle Hill Rd, Dover CT16 1HU",
+    "en": "Castle Hill Rd, Dover CT16 1HU"
+  },
+  "openingHours": {
+    "de": "Mo-Su 10:00-18:00",
+    "hu": "H-V 10:00-18:00",
+    "ro": "Lu-Du 10:00-18:00",
+    "en": "Mo-Su 10:00-18:00"
+  },
+  "entranceFee": {
+    "de": "£23.00 Erwachsene, £14.00 Kinder (English Heritage)",
+    "hu": "£23.00 felnőtt, £14.00 gyerek (English Heritage)",
+    "ro": "£23.00 adulți, £14.00 copii (English Heritage)",
+    "en": "£23.00 adults, £14.00 children (English Heritage)"
+  },
   "website": "https://www.english-heritage.org.uk/visit/places/dover-castle",
-  "publicTransport": "Zug bis Dover Priory, dann 20 Min. Fußweg steil bergauf",
-  "parking": "Kostenlose Parkplätze für Besucher innerhalb des Burggeländes vorhanden.",
-  "accessibility": "Großes Gelände mit Pendelbus für Personen mit eingeschränkter Mobilität.",
-  "photoRules": "Im Außenbereich erlaubt, in den geheimen Kriegstunneln teilweise verboten.",
-  "bestTimeToVisit": "Gleich zur Öffnung um 10 Uhr, um die Kriegstunnel ohne Wartezeit zu sehen.",
-  "audioGuide": "en, fr, de"
+  "publicTransport": {
+    "de": "Zug bis Dover Priory, dann 20 Min. Fußweg steil bergauf",
+    "hu": "Vonat Dover Priory-ig, majd 20 perc meredek gyaloglás felfelé",
+    "ro": "Tren până la Dover Priory, apoi 20 minute de mers pe jos abrupt în sus",
+    "en": "Train to Dover Priory, then 20-minute steep walk uphill"
+  },
+  "parking": {
+    "de": "Kostenlose Parkplätze für Besucher innerhalb des Burggeländes vorhanden.",
+    "hu": "Ingyenes parkolóhelyek a látogatóknak a vár területén belül.",
+    "ro": "Parcare gratuită pentru vizitatori disponibilă în incinta castelului.",
+    "en": "Free parking for visitors available within the castle grounds."
+  },
+  "accessibility": {
+    "de": "Großes Gelände mit Pendelbus für Personen mit eingeschränkter Mobilität.",
+    "hu": "Nagy terület, transzferbusszal a mozgásukban korlátozott személyek számára.",
+    "ro": "Teritoriu mare cu autobuz de transfer pentru persoanele cu mobilitate redusă.",
+    "en": "Large grounds with shuttle bus for those with limited mobility."
+  },
+  "photoRules": {
+    "de": "Im Außenbereich erlaubt, in den geheimen Kriegstunneln teilweise verboten.",
+    "hu": "A kültéren engedélyezett, a titkos háborús alagutakban részben tilos.",
+    "ro": "Permis în exterior, parțial interzis în tunelurile de război secrete.",
+    "en": "Allowed outside, partially forbidden in secret war tunnels."
+  },
+  "bestTimeToVisit": {
+    "de": "Gleich zur Öffnung um 10 Uhr, um die Kriegstunnel ohne Wartezeit zu sehen.",
+    "hu": "Nyitáskor, 10 órakor, hogy sorban állás nélkül láthassa a háborús alagutakat.",
+    "ro": "Chiar la deschidere la ora 10:00, pentru a vedea tunelurile de război fără a aștepta.",
+    "en": "Right at opening at 10 AM, to see the war tunnels without waiting."
+  },
+  "audioGuide": {
+    "de": "en, fr, de",
+    "hu": "angol, francia, német",
+    "ro": "engleză, franceză, germană",
+    "en": "en, fr, de"
+  }
 }

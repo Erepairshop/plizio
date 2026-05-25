@@ -1,12 +1,57 @@
 {
-  "address": "Stadtplatz 1, 4600 Wels, Österreich",
-  "openingHours": "Außenansicht 24/7; Begehung nur zu speziellen Anlässen (z.B. Stadtfest)",
-  "entranceFee": "kostenlos (Besichtigung von außen)",
+  "address": {
+    "de": "Stadtplatz 1, 4600 Wels, Österreich",
+    "hu": "Stadtplatz 1, 4600 Wels, Ausztria",
+    "ro": "Stadtplatz 1, 4600 Wels, Austria",
+    "en": "Stadtplatz 1, 4600 Wels, Austria"
+  },
+  "openingHours": {
+    "de": "Außenansicht 24/7; Begehung nur zu speziellen Anlässen (z.B. Stadtfest)",
+    "hu": "Kívülről 0-24; látogatás csak különleges alkalmakkor (pl. városi ünnepség)",
+    "ro": "Vizionare exterioară 24/7; acces doar la ocazii speciale (ex. festivalul orașului)",
+    "en": "Exterior view 24/7; access only on special occasions (e.g., city festival)"
+  },
+  "entranceFee": {
+    "de": "kostenlos (Besichtigung von außen)",
+    "hu": "ingyenes (külső megtekintés)",
+    "ro": "gratuit (vizionare din exterior)",
+    "en": "free (exterior viewing)"
+  },
   "website": "https://www.wels.at/",
-  "publicTransport": "Verschiedene Buslinien bis Wels Kaiser-Josef-Platz",
-  "parking": "Tiefgarage Stadtplatz (gebührenpflichtig)",
-  "accessibility": "Außenbereich barrierefrei, Turmaufstieg nicht barrierefrei",
-  "photoRules": "Erlaubt",
-  "bestTimeToVisit": "In der Abenddämmerung bei eingeschalteter Turmbeleuchtung",
-  "audioGuide": "nein"
+  "publicTransport": {
+    "de": "Verschiedene Buslinien bis Wels Kaiser-Josef-Platz",
+    "hu": "Különböző buszjáratok Wels Kaiser-Josef-Platz megállóig",
+    "ro": "Diverse linii de autobuz până la Wels Kaiser-Josef-Platz",
+    "en": "Various bus lines to Wels Kaiser-Josef-Platz"
+  },
+  "parking": {
+    "de": "Tiefgarage Stadtplatz (gebührenpflichtig)",
+    "hu": "Stadtplatz mélygarázs (díjköteles)",
+    "ro": "Parcarea subterană Stadtplatz (cu plată)",
+    "en": "Stadtplatz underground parking (subject to fees)"
+  },
+  "accessibility": {
+    "de": "Außenbereich barrierefrei, Turmaufstieg nicht barrierefrei",
+    "hu": "A külső rész akadálymentes, a toronyba való feljutás nem az",
+    "ro": "Zona exterioară este accesibilă, urcarea în turn nu este accesibilă",
+    "en": "Outdoor area is accessible, tower climb is not accessible"
+  },
+  "photoRules": {
+    "de": "Erlaubt",
+    "hu": "Megengedett",
+    "ro": "Permis",
+    "en": "Permitted"
+  },
+  "bestTimeToVisit": {
+    "de": "In der Abenddämmerung bei eingeschalteter Turmbeleuchtung",
+    "hu": "Szürkületben, bekapcsolt toronyvilágítás mellett",
+    "ro": "La amurg, cu iluminatul turnului aprins",
+    "en": "At dusk when the tower lighting is on"
+  },
+  "audioGuide": {
+    "de": "nein",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

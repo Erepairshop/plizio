@@ -1,12 +1,57 @@
 {
-  "address": "Schlossplatz 1, 38304 Wolfenbüttel",
-  "openingHours": "Di-So 10:00-17:00",
-  "entranceFee": "5 € Erwachsene, Kinder frei",
+  "address": {
+    "de": "Schlossplatz 1, 38304 Wolfenbüttel",
+    "hu": "Schlossplatz 1, 38304 Wolfenbüttel, Németország",
+    "ro": "Schlossplatz 1, 38304 Wolfenbüttel, Germania",
+    "en": "Schlossplatz 1, 38304 Wolfenbüttel, Germany"
+  },
+  "openingHours": {
+    "de": "Di-So 10:00-17:00",
+    "hu": "K-V 10:00-17:00",
+    "ro": "Ma-D 10:00-17:00",
+    "en": "Tue-Sun 10:00-17:00"
+  },
+  "entranceFee": {
+    "de": "5 € Erwachsene, Kinder frei",
+    "hu": "5 € felnőtt, gyerekeknek ingyenes",
+    "ro": "5 € adulți, copii gratuit",
+    "en": "5 € adults, children free"
+  },
   "website": "https://www.schloss-wolfenbuettel.de",
-  "publicTransport": "Bus 791, 792 bis Haltestelle Schlossplatz",
-  "parking": "Parkplatz am Schlossplatz, Parkscheibe oder geringe Gebühr.",
-  "accessibility": "Museum im Schloss teilweise barrierefrei, Aufzug vorhanden.",
-  "photoRules": "Erlaubt ohne Blitz und Stativ.",
-  "bestTimeToVisit": "Nachmittags, kombiniert mit einem Besuch der Herzog August Bibliothek.",
-  "audioGuide": "Deutsch"
+  "publicTransport": {
+    "de": "Bus 791, 792 bis Haltestelle Schlossplatz",
+    "hu": "791-es, 792-es busz a Schlossplatz megállóig",
+    "ro": "Autobuzul 791, 792 până la stația Schlossplatz",
+    "en": "Bus 791, 792 to stop Schlossplatz"
+  },
+  "parking": {
+    "de": "Parkplatz am Schlossplatz, Parkscheibe oder geringe Gebühr.",
+    "hu": "Parkoló a Schlossplatznál, parkolótárcsával vagy csekély díj ellenében.",
+    "ro": "Parcare la Schlossplatz, cu disc de parcare sau taxă mică.",
+    "en": "Parking at Schlossplatz, parking disc or small fee."
+  },
+  "accessibility": {
+    "de": "Museum im Schloss teilweise barrierefrei, Aufzug vorhanden.",
+    "hu": "A kastélymúzeum részben akadálymentes, lift van.",
+    "ro": "Muzeul din castel este parțial accesibil, lift disponibil.",
+    "en": "Museum in the castle partially accessible, elevator available."
+  },
+  "photoRules": {
+    "de": "Erlaubt ohne Blitz und Stativ.",
+    "hu": "Vaku és állvány nélkül engedélyezett.",
+    "ro": "Permis fără bliț și trepied.",
+    "en": "Allowed without flash or tripod."
+  },
+  "bestTimeToVisit": {
+    "de": "Nachmittags, kombiniert mit einem Besuch der Herzog August Bibliothek.",
+    "hu": "Délután, érdemes összekötni a Herzog August Könyvtár meglátogatásával.",
+    "ro": "După-amiaza, în combinație cu o vizită la Biblioteca Herzog August.",
+    "en": "Afternoon, combined with a visit to the Herzog August Library."
+  },
+  "audioGuide": {
+    "de": "Deutsch",
+    "hu": "német",
+    "ro": "germană",
+    "en": "German"
+  }
 }

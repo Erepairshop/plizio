@@ -1,12 +1,57 @@
 {
-  "address": "Avenue de Lascaux, 24290 Montignac",
-  "openingHours": "Täglich 09:00-20:00 (Juli/Aug), sonst 10:00-18:00; Reservierung zwingend",
-  "entranceFee": "€22 Erwachsene, €14.50 Kinder (5-12 Jahre)",
+  "address": {
+    "de": "Avenue de Lascaux, 24290 Montignac",
+    "hu": "Avenue de Lascaux, 24290 Montignac",
+    "ro": "Avenue de Lascaux, 24290 Montignac",
+    "en": "Avenue de Lascaux, 24290 Montignac"
+  },
+  "openingHours": {
+    "de": "Täglich 09:00-20:00 (Juli/Aug), sonst 10:00-18:00; Reservierung zwingend",
+    "hu": "Naponta 09:00-20:00 (július/augusztus), egyébként 10:00-18:00; előzetes foglalás kötelező",
+    "ro": "Zilnic 09:00-20:00 (iulie/august), altfel 10:00-18:00; rezervare obligatorie",
+    "en": "Daily 09:00-20:00 (July/Aug), otherwise 10:00-18:00; reservation required"
+  },
+  "entranceFee": {
+    "de": "€22 Erwachsene, €14.50 Kinder (5-12 Jahre)",
+    "hu": "22 € felnőtt, 14,50 € gyermek (5-12 éves korig)",
+    "ro": "22 € adulți, 14,50 € copii (5-12 ani)",
+    "en": "€22 adults, €14.50 children (5-12 years old)"
+  },
   "website": "https://www.lascaux.fr",
-  "publicTransport": "Bahnhof Condat-Le Lardin, dann Taxi oder sehr seltener Bus",
-  "parking": "Großer kostenloser Parkplatz (P1) ca. 5 Min. Fußweg entfernt",
-  "accessibility": "Vollständig barrierefrei (modernes Gebäude mit Aufzügen)",
-  "photoRules": "In der Nachbildung der Höhle streng verboten, im Museum erlaubt",
-  "bestTimeToVisit": "Abends nach 17:00 Uhr, wenn die großen Busgruppen weg sind",
-  "audioGuide": "Interaktives Tablet ('Compagnon de visite') in DE inklusive"
+  "publicTransport": {
+    "de": "Bahnhof Condat-Le Lardin, dann Taxi oder sehr seltener Bus",
+    "hu": "Condat-Le Lardin vasútállomás, majd taxi vagy ritkán közlekedő busz",
+    "ro": "Gara Condat-Le Lardin, apoi taxi sau un autobuz rar",
+    "en": "Condat-Le Lardin train station, then taxi or very infrequent bus"
+  },
+  "parking": {
+    "de": "Großer kostenloser Parkplatz (P1) ca. 5 Min. Fußweg entfernt",
+    "hu": "Nagy ingyenes parkoló (P1) kb. 5 perc sétára",
+    "ro": "Parcare mare gratuită (P1) la aprox. 5 minute de mers pe jos",
+    "en": "Large free parking (P1) about 5 min. walk away"
+  },
+  "accessibility": {
+    "de": "Vollständig barrierefrei (modernes Gebäude mit Aufzügen)",
+    "hu": "Teljesen akadálymentes (modern épület liftekkel)",
+    "ro": "Complet accesibil (clădire modernă cu lifturi)",
+    "en": "Fully accessible (modern building with elevators)"
+  },
+  "photoRules": {
+    "de": "In der Nachbildung der Höhle streng verboten, im Museum erlaubt",
+    "hu": "A barlangmásolatban szigorúan tilos, a múzeumban engedélyezett",
+    "ro": "Strict interzis în replica peșterii, permis în muzeu",
+    "en": "Strictly forbidden in the cave replica, allowed in the museum"
+  },
+  "bestTimeToVisit": {
+    "de": "Abends nach 17:00 Uhr, wenn die großen Busgruppen weg sind",
+    "hu": "Este 17:00 óra után, amikor a nagy buszos csoportok már elmentek",
+    "ro": "Seara după ora 17:00, când grupurile mari cu autocarul au plecat",
+    "en": "In the evening after 5 pm, when the large tour bus groups are gone"
+  },
+  "audioGuide": {
+    "de": "Interaktives Tablet ('Compagnon de visite') in DE inklusive",
+    "hu": "Interaktív táblagép ('Compagnon de visite') német nyelven az árban",
+    "ro": "Tabletă interactivă ('Compagnon de visite') inclusă în DE",
+    "en": "Interactive tablet ('Compagnon de visite') in DE included"
+  }
 }

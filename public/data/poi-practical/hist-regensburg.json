@@ -1,12 +1,57 @@
 {
-  "address": "Domplatz 1, 93047 Regensburg",
-  "openingHours": "Mo-Su 06:30-19:00 (Dom St. Peter)",
-  "entranceFee": "frei",
+  "address": {
+    "de": "Domplatz 1, 93047 Regensburg",
+    "hu": "Domplatz 1, 93047 Regensburg",
+    "ro": "Domplatz 1, 93047 Regensburg",
+    "en": "Domplatz 1, 93047 Regensburg"
+  },
+  "openingHours": {
+    "de": "Mo-Su 06:30-19:00 (Dom St. Peter)",
+    "hu": "H-V 06:30-19:00 (Szent Péter-dóm)",
+    "ro": "Lu-Du 06:30-19:00 (Domul Sf. Petru)",
+    "en": "Mon-Sun 06:30-19:00 (St. Peter's Cathedral)"
+  },
+  "entranceFee": {
+    "de": "frei",
+    "hu": "ingyenes",
+    "ro": "gratuit",
+    "en": "free"
+  },
   "website": "https://www.bistum-regensburg.de",
-  "publicTransport": "Bus 1, 6, 11 bis Haltestelle Domplatz",
-  "parking": "Parkhaus Dachauplatz oder Petersweg (ca. 2,50 €/Std); Altstadt ist weitgehend autofrei.",
-  "accessibility": "Dom barrierefrei zugänglich; Steinerne Brücke ebenfalls gut befahrbar.",
-  "photoRules": "Fotografieren im Dom ohne Blitz erlaubt; keine Stative; während Messen untersagt.",
-  "bestTimeToVisit": "Sonntagmorgen um 10 Uhr zum Hochamt mit den Regensburger Domspatzen.",
-  "audioGuide": "nein"
+  "publicTransport": {
+    "de": "Bus 1, 6, 11 bis Haltestelle Domplatz",
+    "hu": "1-es, 6-os, 11-es busz a Domplatz megállóig",
+    "ro": "Autobuzele 1, 6, 11 până la stația Domplatz",
+    "en": "Bus 1, 6, 11 to Domplatz stop"
+  },
+  "parking": {
+    "de": "Parkhaus Dachauplatz oder Petersweg (ca. 2,50 €/Std); Altstadt ist weitgehend autofrei.",
+    "hu": "Dachauplatz vagy Petersweg parkolóház (kb. 2,50 €/óra); az óváros nagyrészt autómentes.",
+    "ro": "Parcarea Dachauplatz sau Petersweg (aprox. 2,50 €/oră); centrul vechi este în mare parte pietonal.",
+    "en": "Dachauplatz or Petersweg parking garage (approx. 2.50 €/hour); the old town is largely car-free."
+  },
+  "accessibility": {
+    "de": "Dom barrierefrei zugänglich; Steinerne Brücke ebenfalls gut befahrbar.",
+    "hu": "A dóm akadálymentesen látogatható; a Kőhíd (Steinerne Brücke) szintén jól járható.",
+    "ro": "Domul este accesibil; Podul de Piatră este de asemenea ușor de parcurs.",
+    "en": "Cathedral is accessible; the Stone Bridge is also easily navigable."
+  },
+  "photoRules": {
+    "de": "Fotografieren im Dom ohne Blitz erlaubt; keine Stative; während Messen untersagt.",
+    "hu": "Vaku nélkül szabad fotózni a dómban; állvány nem használható; mise alatt tilos.",
+    "ro": "Fotografierea în dom permisă fără bliț; fără trepiede; interzis în timpul slujbelor.",
+    "en": "Photography in the cathedral allowed without flash; no tripods; prohibited during mass."
+  },
+  "bestTimeToVisit": {
+    "de": "Sonntagmorgen um 10 Uhr zum Hochamt mit den Regensburger Domspatzen.",
+    "hu": "Vasárnap délelőtt 10-kor a nagymise idején, amikor a Domspatzen kórus énekel.",
+    "ro": "Duminică dimineața la ora 10 pentru liturghia cu corul Regensburger Domspatzen.",
+    "en": "Sunday morning at 10 AM for high mass with the Regensburger Domspatzen choir."
+  },
+  "audioGuide": {
+    "de": "nein",
+    "hu": "nem",
+    "ro": "nu",
+    "en": "no"
+  }
 }

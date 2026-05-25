@@ -1,12 +1,57 @@
 {
-  "address": "Areal Schloss Laufen, 8212 Laufen-Uhwiesen",
-  "openingHours": "Täglich 08:00-19:00 (Zugang zum Rheinfall-Erlebnisweg)",
-  "entranceFee": "5 CHF (inkl. Historama und Aussichtsplattformen)",
+  "address": {
+    "de": "Areal Schloss Laufen, 8212 Laufen-Uhwiesen",
+    "hu": "Areal Schloss Laufen, 8212 Laufen-Uhwiesen",
+    "ro": "Areal Schloss Laufen, 8212 Laufen-Uhwiesen",
+    "en": "Areal Schloss Laufen, 8212 Laufen-Uhwiesen"
+  },
+  "openingHours": {
+    "de": "Täglich 08:00-19:00 (Zugang zum Rheinfall-Erlebnisweg)",
+    "hu": "Naponta 08:00-19:00 (hozzáférés a Rajna-vízesés élményútvonalához)",
+    "ro": "Zilnic 08:00-19:00 (acces la traseul experienței Cascada Rinului)",
+    "en": "Daily 08:00-19:00 (access to the Rhine Falls experience trail)"
+  },
+  "entranceFee": {
+    "de": "5 CHF (inkl. Historama und Aussichtsplattformen)",
+    "hu": "5 CHF (tartalmazza a Historama-t és a kilátókat)",
+    "ro": "5 CHF (include Historama și platformele de observare)",
+    "en": "CHF 5 (incl. Historama and viewing platforms)"
+  },
   "website": "https://www.schlosslaufen.ch",
-  "publicTransport": "S-Bahn S12 oder S33 bis Haltestelle Schloss Laufen am Rheinfall.",
-  "parking": "Großer Parkplatz vorhanden (Abends oft kostenlos).",
-  "accessibility": "Lift zu den Aussichtsplattformen 'Känzeli' vorhanden.",
-  "photoRules": "Erlaubt; Stativ für Langzeitbelichtungen am Rheinfall empfohlen.",
-  "bestTimeToVisit": "Früher Morgen (08:00), um den Rheinfall ohne Massen zu sehen.",
-  "audioGuide": "no"
+  "publicTransport": {
+    "de": "S-Bahn S12 oder S33 bis Haltestelle Schloss Laufen am Rheinfall.",
+    "hu": "S12 vagy S33 S-Bahn vonat a Schloss Laufen am Rheinfall megállóig.",
+    "ro": "Tren S-Bahn S12 sau S33 până la stația Schloss Laufen am Rheinfall.",
+    "en": "S-Bahn train S12 or S33 to Schloss Laufen am Rheinfall stop."
+  },
+  "parking": {
+    "de": "Großer Parkplatz vorhanden (Abends oft kostenlos).",
+    "hu": "Nagy parkoló áll rendelkezésre (este gyakran ingyenes).",
+    "ro": "Parcare mare disponibilă (seara deseori gratuită).",
+    "en": "Large parking available (often free in the evening)."
+  },
+  "accessibility": {
+    "de": "Lift zu den Aussichtsplattformen 'Känzeli' vorhanden.",
+    "hu": "Lift a 'Känzeli' kilátókhoz.",
+    "ro": "Lift disponibil către platformele de observare 'Känzeli'.",
+    "en": "Elevator to the viewing platforms 'Känzeli' available."
+  },
+  "photoRules": {
+    "de": "Erlaubt; Stativ für Langzeitbelichtungen am Rheinfall empfohlen.",
+    "hu": "Engedélyezett; állvány használata ajánlott hosszú expozíciós fotókhoz a vízesésnél.",
+    "ro": "Permis; utilizarea trepiedului recomandată pentru expuneri lungi la cascadă.",
+    "en": "Allowed; tripod recommended for long exposure shots at the waterfall."
+  },
+  "bestTimeToVisit": {
+    "de": "Früher Morgen (08:00), um den Rheinfall ohne Massen zu sehen.",
+    "hu": "Kora reggel (08:00), a tömegek elkerülése érdekében a vízesésnél.",
+    "ro": "Dimineața devreme (08:00), pentru a vedea cascada fără mulțimi.",
+    "en": "Early morning (08:00) to see the waterfall without crowds."
+  },
+  "audioGuide": {
+    "de": "no",
+    "hu": "nem",
+    "ro": "nu",
+    "en": "no"
+  }
 }

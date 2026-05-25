@@ -1,12 +1,57 @@
 {
-  "address": "Rajnis József u. 9, 9730 Kőszeg",
-  "openingHours": "Di-So 10:00-17:00",
-  "entranceFee": "1600 HUF Erwachsene, 800 HUF ermäßigt",
+  "address": {
+    "de": "Rajnis József u. 9, 9730 Kőszeg",
+    "hu": "Rajnis József u. 9, 9730 Kőszeg",
+    "ro": "Rajnis József u. 9, 9730 Kőszeg",
+    "en": "Rajnis József u. 9, 9730 Kőszeg"
+  },
+  "openingHours": {
+    "de": "Di-So 10:00-17:00",
+    "hu": "K-V 10:00-17:00",
+    "ro": "Ma-Du 10:00-17:00",
+    "en": "Tue-Sun 10:00-17:00"
+  },
+  "entranceFee": {
+    "de": "1600 HUF Erwachsene, 800 HUF ermäßigt",
+    "hu": "1600 HUF felnőtt, 800 HUF kedvezményes",
+    "ro": "1600 HUF adulți, 800 HUF redus",
+    "en": "1600 HUF adults, 800 HUF reduced"
+  },
   "website": "https://www.jurisicsvar.hu",
-  "publicTransport": "Zug bis Kőszeg, dann ca. 15-20 Min. Fußweg durch die Altstadt",
-  "parking": "Gebührenpflichtig am Hauptplatz oder in den Nebenstraßen",
-  "accessibility": "Hof und Erdgeschoss barrierefrei, Ritterkapelle/Turm über Treppen",
-  "photoRules": "Erlaubt ohne Blitz",
-  "bestTimeToVisit": "Herbst, während der Weinlese-Tage in Kőszeg",
-  "audioGuide": "Ungarisch, Deutsch"
+  "publicTransport": {
+    "de": "Zug bis Kőszeg, dann ca. 15-20 Min. Fußweg durch die Altstadt",
+    "hu": "Vonat Kőszegre, majd kb. 15-20 perc séta az óvároson keresztül",
+    "ro": "Tren până la Kőszeg, apoi aprox. 15-20 minute de mers pe jos prin orașul vechi",
+    "en": "Train to Kőszeg, then approx. 15-20 min walk through the old town"
+  },
+  "parking": {
+    "de": "Gebührenpflichtig am Hauptplatz oder in den Nebenstraßen",
+    "hu": "Fizetős a főtéren vagy a mellékutcákban",
+    "ro": "Cu plată în piața principală sau pe străzile adiacente",
+    "en": "Paid parking in the main square or side streets"
+  },
+  "accessibility": {
+    "de": "Hof und Erdgeschoss barrierefrei, Ritterkapelle/Turm über Treppen",
+    "hu": "Udvar és földszint akadálymentesített, lovagterem/torony lépcsőn érhető el",
+    "ro": "Curte și parter accesibile, sala cavalerilor/turnul pe scări",
+    "en": "Courtyard and ground floor accessible, knight's hall/tower reachable via stairs"
+  },
+  "photoRules": {
+    "de": "Erlaubt ohne Blitz",
+    "hu": "Megengedett vaku nélkül",
+    "ro": "Permis fără bliț",
+    "en": "Allowed without flash"
+  },
+  "bestTimeToVisit": {
+    "de": "Herbst, während der Weinlese-Tage in Kőszeg",
+    "hu": "Ősszel, a kőszegi szüreti napok idején",
+    "ro": "Toamna, în timpul zilelor culesului viilor în Kőszeg",
+    "en": "Autumn, during the wine harvest days in Kőszeg"
+  },
+  "audioGuide": {
+    "de": "Ungarisch, Deutsch",
+    "hu": "magyar, német",
+    "ro": "maghiară, germană",
+    "en": "Hungarian, German"
+  }
 }

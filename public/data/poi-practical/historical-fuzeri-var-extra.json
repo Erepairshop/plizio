@@ -1,12 +1,57 @@
 {
-  "address": "Várhegy, 3996 Füzér",
-  "openingHours": "Mo-So 10:00-18:00",
-  "entranceFee": "2500 HUF Erwachsene, 2000 HUF ermäßigt",
+  "address": {
+    "de": "Várhegy, 3996 Füzér",
+    "hu": "Várhegy, 3996 Füzér",
+    "ro": "Várhegy, 3996 Füzér",
+    "en": "Várhegy, 3996 Füzér"
+  },
+  "openingHours": {
+    "de": "Mo-So 10:00-18:00",
+    "hu": "H-V 10:00-18:00",
+    "ro": "Lu-Du 10:00-18:00",
+    "en": "Mon-Sun 10:00-18:00"
+  },
+  "entranceFee": {
+    "de": "2500 HUF Erwachsene, 2000 HUF ermäßigt",
+    "hu": "2500 HUF felnőtt, 2000 HUF kedvezményes",
+    "ro": "2500 HUF adulți, 2000 HUF redus",
+    "en": "2500 HUF adults, 2000 HUF reduced"
+  },
   "website": "https://www.fuzervara.hu",
-  "publicTransport": "Bus von Sátoraljaújhely nach Füzér, Haltestelle 'Autóbusz-váróterem'",
-  "parking": "Kostenpflichtiger Parkplatz am Fuße des Burgbergs",
-  "accessibility": "Nicht barrierefrei, steiler Anstieg über Treppen und Felspfade",
-  "photoRules": "Erlaubt, Stativ im Innenhof möglich",
-  "bestTimeToVisit": "Vormittags, wenn die Burg aus dem Morgennebel ragt",
-  "audioGuide": "App-basiert verfügbar"
+  "publicTransport": {
+    "de": "Bus von Sátoraljaújhely nach Füzér, Haltestelle 'Autóbusz-váróterem'",
+    "hu": "Busz Sátoraljaújhelyről Füzérre, 'Autóbusz-váróterem' megálló",
+    "ro": "Autobuz de la Sátoraljaújhely la Füzér, stația 'Autóbusz-váróterem'",
+    "en": "Bus from Sátoraljaújhely to Füzér, 'Autóbusz-váróterem' stop"
+  },
+  "parking": {
+    "de": "Kostenpflichtiger Parkplatz am Fuße des Burgbergs",
+    "hu": "Fizetős parkoló a várhegy lábánál",
+    "ro": "Parcare cu plată la poalele dealului cetății",
+    "en": "Paid parking at the foot of the castle hill"
+  },
+  "accessibility": {
+    "de": "Nicht barrierefrei, steiler Anstieg über Treppen und Felspfade",
+    "hu": "Nem akadálymentes, meredek emelkedő lépcsőkkel és erdei utakkal",
+    "ro": "Nu este accesibil, urcare abruptă cu scări și poteci stâncoase",
+    "en": "Not accessible, steep climb via stairs and rocky paths"
+  },
+  "photoRules": {
+    "de": "Erlaubt, Stativ im Innenhof möglich",
+    "hu": "Megengedett, állvány használata az udvaron lehetséges",
+    "ro": "Permis, utilizarea trepiedului este posibilă în curtea interioară",
+    "en": "Allowed, tripod usage possible in the courtyard"
+  },
+  "bestTimeToVisit": {
+    "de": "Vormittags, wenn die Burg aus dem Morgennebel ragt",
+    "hu": "Délelőtt, amikor a vár kiemelkedik a reggeli ködből",
+    "ro": "Dimineața, când cetatea iese din ceața matinală",
+    "en": "In the morning, when the castle emerges from the morning mist"
+  },
+  "audioGuide": {
+    "de": "App-basiert verfügbar",
+    "hu": "Alkalmazáson keresztül elérhető",
+    "ro": "Disponibil prin aplicație",
+    "en": "Available via app"
+  }
 }

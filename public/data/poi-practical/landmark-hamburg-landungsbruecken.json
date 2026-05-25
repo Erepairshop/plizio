@@ -1,12 +1,57 @@
 {
-  "address": "St. Pauli Landungsbrücken, 20359 Hamburg",
-  "openingHours": "24/7",
-  "entranceFee": "kostenlos",
+  "address": {
+    "de": "St. Pauli Landungsbrücken, 20359 Hamburg",
+    "hu": "St. Pauli Landungsbrücken, 20359 Hamburg",
+    "ro": "St. Pauli Landungsbrücken, 20359 Hamburg",
+    "en": "St. Pauli Landungsbrücken, 20359 Hamburg"
+  },
+  "openingHours": {
+    "de": "24/7",
+    "hu": "24/7",
+    "ro": "24/7",
+    "en": "24/7"
+  },
+  "entranceFee": {
+    "de": "kostenlos",
+    "hu": "ingyenes",
+    "ro": "gratuit",
+    "en": "free"
+  },
   "website": "https://www.hamburg.de/landungsbruecken/",
-  "publicTransport": "S1/S3/U3 bis Haltestelle Landungsbrücken",
-  "parking": "Sehr schwierig, Parkplatz am Fischmarkt oder teures Parkhaus Hafenkrone",
-  "accessibility": "Die meisten Brücken sind über Rampen erreichbar, bei extremem Niedrigwasser sehr steil",
-  "photoRules": "Fotografieren überall erlaubt",
-  "bestTimeToVisit": "Sonnenuntergang für den klassischen Hamburg-Hafen-Look",
-  "audioGuide": "nein"
+  "publicTransport": {
+    "de": "S1/S3/U3 bis Haltestelle Landungsbrücken",
+    "hu": "S1/S3/U3 a Landungsbrücken megállóig",
+    "ro": "S1/S3/U3 până la stația Landungsbrücken",
+    "en": "S1/S3/U3 to Landungsbrücken stop"
+  },
+  "parking": {
+    "de": "Sehr schwierig, Parkplatz am Fischmarkt oder teures Parkhaus Hafenkrone",
+    "hu": "Nagyon nehéz, parkoló a Fischmarktnál vagy drága Hafenkrone parkolóház",
+    "ro": "Foarte dificil, parcare la Fischmarkt sau parcare scumpă Hafenkrone",
+    "en": "Very difficult, parking at Fischmarkt or expensive Hafenkrone parking garage"
+  },
+  "accessibility": {
+    "de": "Die meisten Brücken sind über Rampen erreichbar, bei extremem Niedrigwasser sehr steil",
+    "hu": "A legtöbb híd rámpán keresztül elérhető, rendkívüli apály idején nagyon meredek",
+    "ro": "Majoritatea podurilor pot fi atinse prin rampe, foarte abrupte la reflux extrem",
+    "en": "Most bridges accessible via ramps, very steep during extreme low tide"
+  },
+  "photoRules": {
+    "de": "Fotografieren überall erlaubt",
+    "hu": "Fotózás mindenhol engedélyezett",
+    "ro": "Fotografierea permisă oriunde",
+    "en": "Photography allowed everywhere"
+  },
+  "bestTimeToVisit": {
+    "de": "Sonnenuntergang für den klassischen Hamburg-Hafen-Look",
+    "hu": "Naplemente a klasszikus Hamburg-kikötői látványért",
+    "ro": "Apusul pentru aspectul clasic al portului Hamburg",
+    "en": "Sunset for the classic Hamburg harbor look"
+  },
+  "audioGuide": {
+    "de": "nein",
+    "hu": "nem",
+    "ro": "nu",
+    "en": "no"
+  }
 }

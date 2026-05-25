@@ -1,12 +1,57 @@
 {
-  "address": "Dragomirna 727365, Suceava",
-  "openingHours": "Mo-Su 09:00-18:00",
-  "entranceFee": "10 RON Erwachsene",
+  "address": {
+    "de": "Dragomirna 727365, Suceava",
+    "hu": "Dragomirna 727365, Suceava",
+    "ro": "Dragomirna 727365, Suceava",
+    "en": "Dragomirna 727365, Suceava"
+  },
+  "openingHours": {
+    "de": "Mo-Su 09:00-18:00",
+    "hu": "Hé-Va 09:00-18:00",
+    "ro": "Lu-Du 09:00-18:00",
+    "en": "Mon-Sun 09:00-18:00"
+  },
+  "entranceFee": {
+    "de": "10 RON Erwachsene",
+    "hu": "10 RON felnőtteknek",
+    "ro": "10 RON adulți",
+    "en": "10 RON adults"
+  },
   "website": "http://www.dragomirna.ro",
-  "publicTransport": "Lokalbus ab Suceava (ca. 12 km)",
-  "parking": "Kostenloser Parkplatz im Wald vor der Klostermauer",
-  "accessibility": "Ebener Innenhof, Zugang zur Kirche barrierefrei",
-  "photoRules": "Außen erlaubt, Innenraum meist Fotoverbot",
-  "bestTimeToVisit": "Spätnachmittag, wenn die hohen Mauern lange Schatten werfen",
-  "audioGuide": "no"
+  "publicTransport": {
+    "de": "Lokalbus ab Suceava (ca. 12 km)",
+    "hu": "Helyi busz Suceavából (kb. 12 km)",
+    "ro": "Autobuz local din Suceava (aprox. 12 km)",
+    "en": "Local bus from Suceava (approx. 12 km)"
+  },
+  "parking": {
+    "de": "Kostenloser Parkplatz im Wald vor der Klostermauer",
+    "hu": "Ingyenes parkoló az erdőben, a kolostorfal előtt",
+    "ro": "Parcare gratuită în pădure, în fața zidului mănăstirii",
+    "en": "Free parking in the forest in front of the monastery wall"
+  },
+  "accessibility": {
+    "de": "Ebener Innenhof, Zugang zur Kirche barrierefrei",
+    "hu": "Síkszintű udvar, a templom akadálymentesen megközelíthető",
+    "ro": "Curte interioară plană, accesul în biserică este adaptat pentru persoane cu dizabilități",
+    "en": "Level courtyard, church access is barrier-free"
+  },
+  "photoRules": {
+    "de": "Außen erlaubt, Innenraum meist Fotoverbot",
+    "hu": "Kint szabad, belül általában tilos a fotózás",
+    "ro": "Permis în exterior, în interior de obicei interzis",
+    "en": "Allowed outside, mostly forbidden inside"
+  },
+  "bestTimeToVisit": {
+    "de": "Spätnachmittag, wenn die hohen Mauern lange Schatten werfen",
+    "hu": "Késő délután, amikor a magas falak hosszú árnyékot vetnek",
+    "ro": "După-amiaza târziu, când zidurile înalte aruncă umbre lungi",
+    "en": "Late afternoon when the high walls cast long shadows"
+  },
+  "audioGuide": {
+    "de": "no",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

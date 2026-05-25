@@ -1,12 +1,57 @@
 {
-  "address": "Burgstraße 2, 5450 Werfen",
-  "openingHours": "Mo-Su 09:00-17:00",
-  "entranceFee": "€16,90 Erwachsene (inkl. Aufzug und Greifvogelshow)",
+  "address": {
+    "de": "Burgstraße 2, 5450 Werfen",
+    "hu": "Burgstraße 2, 5450 Werfen",
+    "ro": "Burgstraße 2, 5450 Werfen",
+    "en": "Burgstraße 2, 5450 Werfen"
+  },
+  "openingHours": {
+    "de": "Mo-Su 09:00-17:00",
+    "hu": "H-V 09:00-17:00",
+    "ro": "Lu-Du 09:00-17:00",
+    "en": "Mon-Sun 9:00 AM - 5:00 PM"
+  },
+  "entranceFee": {
+    "de": "€16,90 Erwachsene (inkl. Aufzug und Greifvogelshow)",
+    "hu": "16,90 € felnőtt (lifttel és ragadozómadár-bemutatóval)",
+    "ro": "16,90 € adulți (incl. lift și spectacol de păsări de pradă)",
+    "en": "€16.90 adults (including elevator and bird of prey show)"
+  },
   "website": "https://www.salzburg-burgen.at/de/hohenwerfen/",
-  "publicTransport": "ÖBB Regionalzug bis Werfen, danach ca. 15-20 Min. Fußweg.",
-  "parking": "Kostenloser Besucherparkplatz direkt an der Bundesstraße B159.",
-  "accessibility": "Schrägaufzug zur Burg vorhanden, das Burggelände selbst hat steile Abschnitte.",
-  "photoRules": "Erlaubt, bei der Greifvogelshow ist jedoch kein Blitzlicht gestattet.",
-  "bestTimeToVisit": "Frühzeitig anreisen, um die erste Greifvogelvorführung (meist 11:15 Uhr) zu sehen.",
-  "audioGuide": "In mehreren Sprachen für den Burgrundgang verfügbar."
+  "publicTransport": {
+    "de": "ÖBB Regionalzug bis Werfen, danach ca. 15-20 Min. Fußweg.",
+    "hu": "ÖBB regionális vonat Werfen állomásig, majd kb. 15-20 perc séta.",
+    "ro": "Tren regional ÖBB până la Werfen, apoi aprox. 15-20 min. de mers pe jos.",
+    "en": "ÖBB regional train to Werfen, then approx. 15-20 min. walk."
+  },
+  "parking": {
+    "de": "Kostenloser Besucherparkplatz direkt an der Bundesstraße B159.",
+    "hu": "Ingyenes látogatói parkoló közvetlenül a B159-es főút mellett.",
+    "ro": "Parcare gratuită pentru vizitatori direct pe drumul federal B159.",
+    "en": "Free visitor parking directly on the B159 federal road."
+  },
+  "accessibility": {
+    "de": "Schrägaufzug zur Burg vorhanden, das Burggelände selbst hat steile Abschnitte.",
+    "hu": "Ferde lift vezet a várhoz, de a várterületen meredek szakaszok vannak.",
+    "ro": "Lift înclinat către castel disponibil, terenul castelului are secțiuni abrupte.",
+    "en": "Inclined elevator to the castle available; the castle grounds themselves have steep sections."
+  },
+  "photoRules": {
+    "de": "Erlaubt, bei der Greifvogelshow ist jedoch kein Blitzlicht gestattet.",
+    "hu": "Engedélyezett, de a ragadozómadár-bemutatónál tilos a vaku.",
+    "ro": "Permis, dar nu este permis blițul în timpul spectacolului de păsări de pradă.",
+    "en": "Allowed, but flash photography is not permitted during the bird of prey show."
+  },
+  "bestTimeToVisit": {
+    "de": "Frühzeitig anreisen, um die erste Greifvogelvorführung (meist 11:15 Uhr) zu sehen.",
+    "hu": "Érkezzen korán, hogy láthassa az első madárbemutatót (általában 11:15-kor).",
+    "ro": "Sosiți devreme pentru a vedea prima demonstrație de păsări de pradă (de obicei la ora 11:15).",
+    "en": "Arrive early to see the first bird of prey demonstration (usually at 11:15 AM)."
+  },
+  "audioGuide": {
+    "de": "In mehreren Sprachen für den Burgrundgang verfügbar.",
+    "hu": "Több nyelven elérhető a várnézéshez.",
+    "ro": "Disponibil în mai multe limbi pentru turul castelului.",
+    "en": "Available in several languages for the castle tour."
+  }
 }

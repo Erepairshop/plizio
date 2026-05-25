@@ -1,12 +1,57 @@
 {
-  "address": "Domplatz 1, 93047 Regensburg",
-  "openingHours": "Täglich 06:30-18:00 (Sommer bis 19:00)",
-  "entranceFee": "kostenlos",
+  "address": {
+    "de": "Domplatz 1, 93047 Regensburg",
+    "hu": "Domplatz 1, 93047 Regensburg",
+    "ro": "Domplatz 1, 93047 Regensburg",
+    "en": "Domplatz 1, 93047 Regensburg"
+  },
+  "openingHours": {
+    "de": "Täglich 06:30-18:00 (Sommer bis 19:00)",
+    "hu": "Naponta 06:30-18:00 (nyáron 19:00-ig)",
+    "ro": "Zilnic 06:30-18:00 (vara până la 19:00)",
+    "en": "Daily 06:30-18:00 (summer until 19:00)"
+  },
+  "entranceFee": {
+    "de": "kostenlos",
+    "hu": "ingyenes",
+    "ro": "gratuit",
+    "en": "free"
+  },
   "website": "https://www.bistum-regensburg.de",
-  "publicTransport": "Bus 1, 2, 6, 11 bis Haltestelle Domplatz",
-  "parking": "Parkhaus Dachauplatz, ca. 2 €/Std.",
-  "accessibility": "Haupteingang barrierefrei mit Rampe.",
-  "photoRules": "Ohne Blitz außerhalb der Gottesdienste erlaubt.",
-  "bestTimeToVisit": "Sonntagvormittag zur Messe, um die Regensburger Domspatzen zu hören.",
-  "audioGuide": "Deutsch, Englisch (Dom-App)"
+  "publicTransport": {
+    "de": "Bus 1, 2, 6, 11 bis Haltestelle Domplatz",
+    "hu": "1, 2, 6, 11-es busz a Domplatz megállóig",
+    "ro": "Autobuzul 1, 2, 6, 11 până la stația Domplatz",
+    "en": "Bus 1, 2, 6, 11 to Domplatz stop"
+  },
+  "parking": {
+    "de": "Parkhaus Dachauplatz, ca. 2 €/Std.",
+    "hu": "Dachauplatz parkolóház, kb. 2 €/óra.",
+    "ro": "Parcare Dachauplatz, aprox. 2 €/oră.",
+    "en": "Dachauplatz parking, approx. 2 €/hr."
+  },
+  "accessibility": {
+    "de": "Haupteingang barrierefrei mit Rampe.",
+    "hu": "A főbejárat akadálymentes rámpával.",
+    "ro": "Intrarea principală este accesibilă cu rampă.",
+    "en": "Main entrance is barrier-free with a ramp."
+  },
+  "photoRules": {
+    "de": "Ohne Blitz außerhalb der Gottesdienste erlaubt.",
+    "hu": "Vaku nélkül, az istentiszteleteken kívül engedélyezett.",
+    "ro": "Permis fără bliț, în afara orelor de slujbă.",
+    "en": "Allowed without flash outside of service times."
+  },
+  "bestTimeToVisit": {
+    "de": "Sonntagvormittag zur Messe, um die Regensburger Domspatzen zu hören.",
+    "hu": "Vasárnap délelőtt a misére, hogy meghallgassuk a Regensburger Domspatzen kórust.",
+    "ro": "Duminică dimineața la liturghie, pentru a asculta corul Regensburger Domspatzen.",
+    "en": "Sunday morning for mass to hear the Regensburger Domspatzen choir."
+  },
+  "audioGuide": {
+    "de": "Deutsch, Englisch (Dom-App)",
+    "hu": "Német, angol (Dóm-alkalmazás)",
+    "ro": "Germană, engleză (aplicația Dom)",
+    "en": "German, English (Dom app)"
+  }
 }

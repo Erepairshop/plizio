@@ -1,12 +1,57 @@
 {
-  "address": "Avenue de Chillon 21, 1820 Veytaux",
-  "openingHours": "Mo-Su 09:00-19:00 (Apr-Sep), Mo-Su 10:00-17:00 (Nov-Feb)",
-  "entranceFee": "15 CHF Erwachsene, 6 CHF Kinder",
+  "address": {
+    "de": "Avenue de Chillon 21, 1820 Veytaux",
+    "hu": "Avenue de Chillon 21, 1820 Veytaux",
+    "ro": "Avenue de Chillon 21, 1820 Veytaux",
+    "en": "Avenue de Chillon 21, 1820 Veytaux"
+  },
+  "openingHours": {
+    "de": "Mo-Su 09:00-19:00 (Apr-Sep), Mo-Su 10:00-17:00 (Nov-Feb)",
+    "hu": "Hé-Va 09:00-19:00 (ápr-szept), Hé-Va 10:00-17:00 (nov-feb)",
+    "ro": "Lu-Du 09:00-19:00 (apr-sep), Lu-Du 10:00-17:00 (noi-feb)",
+    "en": "Mon-Sun 09:00-19:00 (Apr-Sep), Mon-Sun 10:00-17:00 (Nov-Feb)"
+  },
+  "entranceFee": {
+    "de": "15 CHF Erwachsene, 6 CHF Kinder",
+    "hu": "15 CHF felnőtteknek, 6 CHF gyerekeknek",
+    "ro": "15 CHF adulți, 6 CHF copii",
+    "en": "15 CHF adults, 6 CHF children"
+  },
   "website": "https://www.chillon.ch",
-  "publicTransport": "Buslinie 201 (Haltestelle Chillon) oder Schiff ab Montreux",
-  "parking": "Begrenzte kostenlose Parkplätze (max. 3 Std.) direkt an der Straße.",
-  "accessibility": "Teilweise zugänglich; viele Treppen und unebene Böden im Innenbereich.",
-  "photoRules": "Privatfotos erlaubt, Stativ und Blitz in Innenräumen verboten.",
-  "bestTimeToVisit": "Früher Vormittag oder späte Goldene Stunde für Fotos vom Seeufer.",
-  "audioGuide": "DE, EN, FR, IT, ES, ZH, JP, RU"
+  "publicTransport": {
+    "de": "Buslinie 201 (Haltestelle Chillon) oder Schiff ab Montreux",
+    "hu": "201-es busz (Chillon megálló) vagy hajó Montreux-ból",
+    "ro": "Linia de autobuz 201 (stația Chillon) sau vapor din Montreux",
+    "en": "Bus line 201 (Chillon stop) or boat from Montreux"
+  },
+  "parking": {
+    "de": "Begrenzte kostenlose Parkplätze (max. 3 Std.) direkt an der Straße.",
+    "hu": "Korlátozott ingyenes parkolóhely (max. 3 óra) közvetlenül az út mellett.",
+    "ro": "Parcări gratuite limitate (max. 3 ore) direct pe stradă.",
+    "en": "Limited free parking (max. 3 hours) directly on the street."
+  },
+  "accessibility": {
+    "de": "Teilweise zugänglich; viele Treppen und unebene Böden im Innenbereich.",
+    "hu": "Részben hozzáférhető; sok lépcső és egyenetlen padló a belső térben.",
+    "ro": "Parțial accesibil; multe scări și pardoseli denivelate în interior.",
+    "en": "Partially accessible; many stairs and uneven floors inside."
+  },
+  "photoRules": {
+    "de": "Privatfotos erlaubt, Stativ und Blitz in Innenräumen verboten.",
+    "hu": "Privát fotózás engedélyezett, állvány és vaku belső térben tilos.",
+    "ro": "Fotografii private permise, trepied și bliț interzise în interior.",
+    "en": "Private photos allowed, tripod and flash prohibited indoors."
+  },
+  "bestTimeToVisit": {
+    "de": "Früher Vormittag oder späte Goldene Stunde für Fotos vom Seeufer.",
+    "hu": "Kora délelőtt vagy a késő aranyóra a tóparti fotókhoz.",
+    "ro": "Dimineața devreme sau la ora aurie târzie pentru fotografii de pe malul lacului.",
+    "en": "Early morning or late golden hour for photos from the lakeshore."
+  },
+  "audioGuide": {
+    "de": "DE, EN, FR, IT, ES, ZH, JP, RU",
+    "hu": "DE, EN, FR, IT, ES, ZH, JP, RU",
+    "ro": "DE, EN, FR, IT, ES, ZH, JP, RU",
+    "en": "DE, EN, FR, IT, ES, ZH, JP, RU"
+  }
 }

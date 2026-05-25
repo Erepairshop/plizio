@@ -1,12 +1,57 @@
 {
-  "address": "Schlossplatz 11, 06886 Lutherstadt Wittenberg",
-  "openingHours": "Mo-Sa 10:00-17:00, So 11:30-17:00 (Saison)",
-  "entranceFee": "Eintritt frei (Spende erbeten), Turmbesteigung ca. 3 €",
+  "address": {
+    "de": "Schlossplatz 11, 06886 Lutherstadt Wittenberg",
+    "hu": "Schlossplatz 11, 06886 Lutherstadt Wittenberg, Németország",
+    "ro": "Schlossplatz 11, 06886 Lutherstadt Wittenberg, Germania",
+    "en": "Schlossplatz 11, 06886 Lutherstadt Wittenberg, Germany"
+  },
+  "openingHours": {
+    "de": "Mo-Sa 10:00-17:00, So 11:30-17:00 (Saison)",
+    "hu": "H-Szo 10:00-17:00, V 11:30-17:00 (szezonban)",
+    "ro": "L-S 10:00-17:00, D 11:30-17:00 (în sezon)",
+    "en": "Mon-Sat 10:00-17:00, Sun 11:30-17:00 (season)"
+  },
+  "entranceFee": {
+    "de": "Eintritt frei (Spende erbeten), Turmbesteigung ca. 3 €",
+    "hu": "Ingyenes belépés (adományokat elfogadnak), torony kb. 3 €",
+    "ro": "Intrare liberă (donații binevenite), urcare în turn aprox. 3 €",
+    "en": "Free entry (donations welcome), tower climb approx. 3 €"
+  },
   "website": "https://www.schlosskirche-wittenberg.de",
-  "publicTransport": "S-Bahn/Regionalzug bis Lutherstadt Wittenberg Hbf, dann Bus 304",
-  "parking": "Parkplatz Arsenalsplatz, ca. 1,50 €/Std.",
-  "accessibility": "Erdgeschoss barrierefrei über rampe zugänglich.",
-  "photoRules": "Ohne Blitz erlaubt, während Gottesdiensten verboten.",
-  "bestTimeToVisit": "An Wochentagen zur Mittagszeit für Ruhe.",
-  "audioGuide": "ja"
+  "publicTransport": {
+    "de": "S-Bahn/Regionalzug bis Lutherstadt Wittenberg Hbf, dann Bus 304",
+    "hu": "S-Bahn vagy vonat Wittenberg főpályaudvarig, majd 304-es busz",
+    "ro": "S-Bahn/tren regional până la gara centrală, apoi autobuzul 304",
+    "en": "S-Bahn/regional train to Wittenberg central station, then bus 304"
+  },
+  "parking": {
+    "de": "Parkplatz Arsenalsplatz, ca. 1,50 €/Std.",
+    "hu": "Arsenalsplatz parkoló, kb. 1,50 €/óra",
+    "ro": "Parcarea Arsenalsplatz, aprox. 1,50 €/oră",
+    "en": "Arsenalsplatz parking lot, approx. 1.50 €/hour"
+  },
+  "accessibility": {
+    "de": "Erdgeschoss barrierefrei über rampe zugänglich.",
+    "hu": "A földszint rámpán keresztül akadálymentesen megközelíthető.",
+    "ro": "Parterul este accesibil prin rampă.",
+    "en": "Ground floor is accessible via ramp."
+  },
+  "photoRules": {
+    "de": "Ohne Blitz erlaubt, während Gottesdiensten verboten.",
+    "hu": "Vaku nélkül engedélyezett, istentiszteletek alatt tilos.",
+    "ro": "Permis fără bliț, interzis în timpul slujbelor.",
+    "en": "Allowed without flash, forbidden during services."
+  },
+  "bestTimeToVisit": {
+    "de": "An Wochentagen zur Mittagszeit für Ruhe.",
+    "hu": "Hétköznap délidőben, ha csendre és nyugalomra vágyunk.",
+    "ro": "În zilele lucrătoare la prânz pentru liniște.",
+    "en": "Weekdays at lunchtime for a quiet experience."
+  },
+  "audioGuide": {
+    "de": "ja",
+    "hu": "igen",
+    "ro": "da",
+    "en": "yes"
+  }
 }

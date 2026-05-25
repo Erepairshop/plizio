@@ -1,12 +1,57 @@
 {
-  "address": "Kurfürstendamm, 10707 Berlin",
-  "openingHours": "24/7",
-  "entranceFee": "free",
+  "address": {
+    "de": "Kurfürstendamm, 10707 Berlin",
+    "hu": "Kurfürstendamm, 10707 Berlin",
+    "ro": "Kurfürstendamm, 10707 Berlin",
+    "en": "Kurfürstendamm, 10707 Berlin"
+  },
+  "openingHours": {
+    "de": "24/7",
+    "hu": "0-24 órában",
+    "ro": "Non-stop",
+    "en": "24/7"
+  },
+  "entranceFee": {
+    "de": "free",
+    "hu": "ingyenes",
+    "ro": "gratuit",
+    "en": "free"
+  },
   "website": "https://www.visitberlin.de",
-  "publicTransport": "U-Bahn U1, U9 bis Kurfürstendamm oder S-Bahn Zoologischer Garten",
-  "parking": "Parkhäuser in den Seitenstraßen (z.B. Knesebeckstraße), ca. €3/Std.",
-  "accessibility": "Vollständig barrierefrei, breite Gehwege",
-  "photoRules": "Erlaubt, Straßenszenen und Architektur frei fotografierbar",
-  "bestTimeToVisit": "Wochentags Vormittag für entspanntes Shopping, Abends für Lichter",
-  "audioGuide": "no"
+  "publicTransport": {
+    "de": "U-Bahn U1, U9 bis Kurfürstendamm oder S-Bahn Zoologischer Garten",
+    "hu": "U1, U9 metró a Kurfürstendammig vagy S-Bahn a Zoologischer Gartenig",
+    "ro": "Metrou U1, U9 până la Kurfürstendamm sau S-Bahn până la Zoologischer Garten",
+    "en": "U-Bahn U1, U9 to Kurfürstendamm or S-Bahn to Zoologischer Garten"
+  },
+  "parking": {
+    "de": "Parkhäuser in den Seitenstraßen (z.B. Knesebeckstraße), ca. €3/Std.",
+    "hu": "Parkolóházak a mellékutcákban (pl. Knesebeckstraße), kb. 3 €/óra",
+    "ro": "Parcări acoperite pe străzile adiacente (ex. Knesebeckstraße), aprox. 3 €/oră",
+    "en": "Parking garages in side streets (e.g. Knesebeckstraße), approx. €3/hour"
+  },
+  "accessibility": {
+    "de": "Vollständig barrierefrei, breite Gehwege",
+    "hu": "Teljesen akadálymentes, széles járdák",
+    "ro": "Complet accesibil, trotuare largi",
+    "en": "Completely barrier-free, wide sidewalks"
+  },
+  "photoRules": {
+    "de": "Erlaubt, Straßenszenen und Architektur frei fotografierbar",
+    "hu": "Megengedett, az utcaképek és az építészet szabadon fényképezhető",
+    "ro": "Permis, scenele stradale și arhitectura pot fi fotografiate liber",
+    "en": "Allowed, street scenes and architecture can be photographed freely"
+  },
+  "bestTimeToVisit": {
+    "de": "Wochentags Vormittag für entspanntes Shopping, Abends für Lichter",
+    "hu": "Hétköznap délelőtt a nyugodt vásárláshoz, este a fényekért",
+    "ro": "În timpul săptămânii dimineața pentru cumpărături relaxante, seara pentru lumini",
+    "en": "Weekdays mornings for relaxed shopping, evenings for lights"
+  },
+  "audioGuide": {
+    "de": "no",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

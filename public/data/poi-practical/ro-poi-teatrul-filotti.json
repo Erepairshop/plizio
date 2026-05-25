@@ -1,12 +1,57 @@
 {
-  "address": "Strada Mihai Eminescu 2, 810003 Brăila",
-  "openingHours": "Kasse: Mo-Fr 10:00-18:00; Besichtigung meist nur bei Vorstellungen",
-  "entranceFee": "Ticketpreise je nach Vorstellung (ca. 20-50 RON)",
+  "address": {
+    "de": "Strada Mihai Eminescu 2, 810003 Brăila",
+    "hu": "Strada Mihai Eminescu 2, 810003 Brăila",
+    "ro": "Strada Mihai Eminescu 2, 810003 Brăila",
+    "en": "Strada Mihai Eminescu 2, 810003 Brăila"
+  },
+  "openingHours": {
+    "de": "Kasse: Mo-Fr 10:00-18:00; Besichtigung meist nur bei Vorstellungen",
+    "hu": "Pénztár: Hétfő-Péntek 10:00-18:00; megtekintés csak előadások idején",
+    "ro": "Casierie: Lu-Vi 10:00-18:00; vizitare de obicei doar în timpul spectacolelor",
+    "en": "Box office: Mon-Fri 10:00-18:00; viewing usually only during performances"
+  },
+  "entranceFee": {
+    "de": "Ticketpreise je nach Vorstellung (ca. 20-50 RON)",
+    "hu": "Jegyárak az előadástól függően (kb. 20-50 RON)",
+    "ro": "Prețuri bilete în funcție de spectacol (aprox. 20-50 RON)",
+    "en": "Ticket prices depending on the performance (approx. 20-50 RON)"
+  },
   "website": "https://www.tmf.ro",
-  "publicTransport": "Buslinien 2, 3, 4, 10 bis Haltestelle Centru",
-  "parking": "Begrenzte Parkplätze in den Seitenstraßen (ca. 2-5 RON/Std.)",
-  "accessibility": "Hauptebene zugänglich, Obergeschosse über Treppen",
-  "photoRules": "Fotografieren während Vorstellungen streng untersagt; Architekturfotos im Foyer meist erlaubt",
-  "bestTimeToVisit": "Abendvorstellung für die volle Atmosphäre der Beleuchtung",
-  "audioGuide": "nein"
+  "publicTransport": {
+    "de": "Buslinien 2, 3, 4, 10 bis Haltestelle Centru",
+    "hu": "2, 3, 4, 10-es busz a Centru megállóig",
+    "ro": "Liniile de autobuz 2, 3, 4, 10 până la stația Centru",
+    "en": "Bus lines 2, 3, 4, 10 to Centru station"
+  },
+  "parking": {
+    "de": "Begrenzte Parkplätze in den Seitenstraßen (ca. 2-5 RON/Std.)",
+    "hu": "Korlátozott parkolási lehetőség az oldalutcákban (kb. 2-5 RON/óra)",
+    "ro": "Parcări limitate pe străzile laterale (aprox. 2-5 RON/oră)",
+    "en": "Limited parking on side streets (approx. 2-5 RON/hr)"
+  },
+  "accessibility": {
+    "de": "Hauptebene zugänglich, Obergeschosse über Treppen",
+    "hu": "A főszint akadálymentesített, az emeletek csak lépcsőn érhetők el",
+    "ro": "Nivelul principal accesibil, etajele superioare prin scări",
+    "en": "Main level accessible, upper floors via stairs"
+  },
+  "photoRules": {
+    "de": "Fotografieren während Vorstellungen streng untersagt; Architekturfotos im Foyer meist erlaubt",
+    "hu": "Előadások közben a fényképezés szigorúan tilos; építészeti fotók a foyerben többnyire engedélyezettek",
+    "ro": "Fotografierea în timpul spectacolelor este strict interzisă; fotografii arhitecturale în foyer sunt de obicei permise",
+    "en": "Photography during performances strictly prohibited; architectural photos in the foyer usually allowed"
+  },
+  "bestTimeToVisit": {
+    "de": "Abendvorstellung für die volle Atmosphäre der Beleuchtung",
+    "hu": "Esti előadás, a teljes megvilágítási élmény érdekében",
+    "ro": "Spectacol de seară pentru întreaga atmosferă de iluminare",
+    "en": "Evening performance for the full lighting atmosphere"
+  },
+  "audioGuide": {
+    "de": "nein",
+    "hu": "nem",
+    "ro": "nu",
+    "en": "no"
+  }
 }

@@ -1,12 +1,57 @@
 {
-  "address": "Dóm tér 2., 7621 Pécs",
-  "openingHours": "Mo-Sa 09:00-17:00, Su 11:30-17:00",
-  "entranceFee": "3000 HUF (Kombi-Ticket), 2000 HUF nur Dom",
+  "address": {
+    "de": "Dóm tér 2., 7621 Pécs",
+    "hu": "Dóm tér 2., 7621 Pécs",
+    "ro": "Dóm tér 2., 7621 Pécs",
+    "en": "Dóm tér 2., 7621 Pécs"
+  },
+  "openingHours": {
+    "de": "Mo-Sa 09:00-17:00, Su 11:30-17:00",
+    "hu": "Hétfő-szombat 09:00-17:00, vasárnap 11:30-17:00",
+    "ro": "Luni-sâmbătă 09:00-17:00, duminică 11:30-17:00",
+    "en": "Mon-Sat 09:00-17:00, Sun 11:30-17:00"
+  },
+  "entranceFee": {
+    "de": "3000 HUF (Kombi-Ticket), 2000 HUF nur Dom",
+    "hu": "3000 HUF (kombinált jegy), 2000 HUF csak a székesegyház",
+    "ro": "3000 HUF (bilet combinat), 2000 HUF doar catedrala",
+    "en": "3000 HUF (combo ticket), 2000 HUF cathedral only"
+  },
   "website": "https://pecsiegyhazmegye.hu/",
-  "publicTransport": "Busse zum Széchenyi tér, von dort 5 Min. Fußweg bergauf zum Domplatz.",
-  "parking": "Kostenpflichtige Parkzone in der historischen Oberstadt (begrenzte Plätze).",
-  "accessibility": "Hauptschiff barrierefrei zugänglich; Krypta und Türme nur über Treppen.",
-  "photoRules": "Fotografieren ohne Blitzlicht für private Zwecke im Dom gestattet.",
-  "bestTimeToVisit": "Vormittags, wenn die Sonne durch die Südfenster das Gold der Fresken erstrahlen lässt.",
-  "audioGuide": "HU, DE, EN, IT, HR"
+  "publicTransport": {
+    "de": "Busse zum Széchenyi tér, von dort 5 Min. Fußweg bergauf zum Domplatz.",
+    "hu": "Buszok a Széchenyi térre, onnan 5 perc séta felfelé a Dóm térre.",
+    "ro": "Autobuze către Széchenyi tér, de acolo 5 minute de mers pe jos în sus către Dóm tér.",
+    "en": "Buses to Széchenyi tér, from there 5 min. uphill walk to Domplatz."
+  },
+  "parking": {
+    "de": "Kostenpflichtige Parkzone in der historischen Oberstadt (begrenzte Plätze).",
+    "hu": "Fizetős parkolási övezet a történelmi felsővárosban (korlátozott számú hely).",
+    "ro": "Zonă de parcare cu plată în orașul istoric de sus (locuri limitate).",
+    "en": "Paid parking zone in the historic upper town (limited spaces)."
+  },
+  "accessibility": {
+    "de": "Hauptschiff barrierefrei zugänglich; Krypta und Türme nur über Treppen.",
+    "hu": "A főhajó akadálymentes; a kripta és a tornyok csak lépcsőn érhetők el.",
+    "ro": "Nava principală este accesibilă; cripta și turnurile sunt accesibile doar pe scări.",
+    "en": "Main nave is accessible; crypt and towers only via stairs."
+  },
+  "photoRules": {
+    "de": "Fotografieren ohne Blitzlicht für private Zwecke im Dom gestattet.",
+    "hu": "Vaku nélküli fényképezés magáncélra a székesegyházban engedélyezett.",
+    "ro": "Fotografierea fără bliț este permisă pentru uz privat în catedrală.",
+    "en": "Photography without flash permitted for private use in the cathedral."
+  },
+  "bestTimeToVisit": {
+    "de": "Vormittags, wenn die Sonne durch die Südfenster das Gold der Fresken erstrahlen lässt.",
+    "hu": "Délelőtt, amikor a nap a déli ablakokon keresztül megvilágítja a freskók aranyát.",
+    "ro": "Dimineața, când soarele strălucește prin ferestrele din sud și pune în evidență aurul frescelor.",
+    "en": "In the morning, when the sun shines through the south windows to illuminate the gold of the frescoes."
+  },
+  "audioGuide": {
+    "de": "HU, DE, EN, IT, HR",
+    "hu": "HU, DE, EN, IT, HR",
+    "ro": "HU, DE, EN, IT, HR",
+    "en": "HU, DE, EN, IT, HR"
+  }
 }

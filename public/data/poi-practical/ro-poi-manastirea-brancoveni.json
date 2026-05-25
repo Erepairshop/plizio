@@ -1,12 +1,57 @@
 {
-  "address": "Comuna Brâncoveni, 237050 Olt",
-  "openingHours": "Täglich 07:00-20:00",
-  "entranceFee": "free",
+  "address": {
+    "de": "Comuna Brâncoveni, 237050 Olt",
+    "hu": "Brâncoveni község, 237050 Olt",
+    "ro": "Comuna Brâncoveni, 237050 Olt",
+    "en": "Comuna Brâncoveni, 237050 Olt"
+  },
+  "openingHours": {
+    "de": "Täglich 07:00-20:00",
+    "hu": "Naponta 07:00-20:00",
+    "ro": "Zilnic 07:00-20:00",
+    "en": "Daily 07:00-20:00"
+  },
+  "entranceFee": {
+    "de": "free",
+    "hu": "ingyenes",
+    "ro": "gratuit",
+    "en": "free"
+  },
   "website": "",
-  "publicTransport": "Regionalbusse ab Slatina oder Caracal.",
-  "parking": "Kostenloser Parkplatz vor dem Klostereingang.",
-  "accessibility": "Weitgehend barrierefrei (Hof und Hauptkirche).",
-  "photoRules": "Außen erlaubt, im Inneren der Kirche meist verboten.",
-  "bestTimeToVisit": "Während der Sonntagsmesse für die Atmosphäre.",
-  "audioGuide": "no"
+  "publicTransport": {
+    "de": "Regionalbusse ab Slatina oder Caracal.",
+    "hu": "Regionális buszok Slatináról vagy Caracalból.",
+    "ro": "Autobuze regionale din Slatina sau Caracal.",
+    "en": "Regional buses from Slatina or Caracal."
+  },
+  "parking": {
+    "de": "Kostenloser Parkplatz vor dem Klostereingang.",
+    "hu": "Ingyenes parkoló a kolostor bejárata előtt.",
+    "ro": "Parcare gratuită în fața intrării la mănăstire.",
+    "en": "Free parking in front of the monastery entrance."
+  },
+  "accessibility": {
+    "de": "Weitgehend barrierefrei (Hof und Hauptkirche).",
+    "hu": "Jórészt akadálymentes (udvar és főtemplom).",
+    "ro": "În mare parte accesibil (curte și biserica principală).",
+    "en": "Mostly accessible (courtyard and main church)."
+  },
+  "photoRules": {
+    "de": "Außen erlaubt, im Inneren der Kirche meist verboten.",
+    "hu": "Kint engedélyezett, a templom belsejében többnyire tilos.",
+    "ro": "Permis în exterior, de obicei interzis în interiorul bisericii.",
+    "en": "Allowed outside, mostly prohibited inside the church."
+  },
+  "bestTimeToVisit": {
+    "de": "Während der Sonntagsmesse für die Atmosphäre.",
+    "hu": "Vasárnapi mise alatt, a hangulat miatt.",
+    "ro": "În timpul slujbei de duminică pentru atmosferă.",
+    "en": "During Sunday mass for the atmosphere."
+  },
+  "audioGuide": {
+    "de": "no",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

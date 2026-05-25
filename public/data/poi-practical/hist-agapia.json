@@ -1,12 +1,57 @@
 {
-  "address": "Mănăstirea Agapia, 617010 Agapia, Neamț",
-  "openingHours": "Mo-Su 08:00-20:00",
-  "entranceFee": "10 RON Erwachsene",
+  "address": {
+    "de": "Mänastirea Agapia, 617010 Agapia, Neamț",
+    "hu": "Agapiai kolostor, 617010 Agapia, Neamț",
+    "ro": "Mănăstirea Agapia, 617010 Agapia, Neamț",
+    "en": "Agapia Monastery, 617010 Agapia, Neamț"
+  },
+  "openingHours": {
+    "de": "Mo-Su 08:00-20:00",
+    "hu": "Hé–Va 08:00–20:00",
+    "ro": "Lu-Du 08:00-20:00",
+    "en": "Mon-Sun 08:00-20:00"
+  },
+  "entranceFee": {
+    "de": "10 RON Erwachsene",
+    "hu": "Felnőtt 10 RON",
+    "ro": "10 RON adulți",
+    "en": "10 RON adults"
+  },
   "website": "https://agapia.mmb.ro",
-  "publicTransport": "Bus ab Piatra Neamț nach Agapia",
-  "parking": "Großer Parkplatz am Klostereingang für ca. 5 RON",
-  "accessibility": "Teilweise rollstuhlgerecht, gepflasterter Innenhof",
-  "photoRules": "Außenaufnahmen erlaubt, Innenverbot ohne Genehmigung",
-  "bestTimeToVisit": "Früher Vormittag für die beste Lichtstimmung am Weißen Kloster",
-  "audioGuide": "nein"
+  "publicTransport": {
+    "de": "Bus ab Piatra Neamț nach Agapia",
+    "hu": "Autóbusz Piatra Neamț felől Agapiába",
+    "ro": "Autobuz din Piatra Neamț către Agapia",
+    "en": "Bus from Piatra Neamț to Agapia"
+  },
+  "parking": {
+    "de": "Großer Parkplatz am Klostereingang für ca. 5 RON",
+    "hu": "Tágas parkoló a kolostor bejáratánál, kb. 5 RON",
+    "ro": "Parcare mare la intrarea în mănăstire pentru aprox. 5 RON",
+    "en": "Large parking lot at the monastery entrance for approx. 5 RON"
+  },
+  "accessibility": {
+    "de": "Teilweise rollstuhlgerecht, gepflasterter Innenhof",
+    "hu": "Részben akadálymentesített, kövezett belső udvar",
+    "ro": "Parțial accesibil pentru scaune cu rotile, curte interioară pavată",
+    "en": "Partially wheelchair accessible, paved inner courtyard"
+  },
+  "photoRules": {
+    "de": "Außenaufnahmen erlaubt, Innenverbot ohne Genehmigung",
+    "hu": "Kültéren szabad, bent engedély nélkül tilos fotózni",
+    "ro": "Fotografierea în exterior permisă, interzisă în interior fără permisiune",
+    "en": "Outdoor photography allowed, indoor prohibited without permission"
+  },
+  "bestTimeToVisit": {
+    "de": "Früher Vormittag für die beste Lichtstimmung am Weißen Kloster",
+    "hu": "Kora délelőtt a legszebb fényviszonyokhoz a „fehér kolostornál”",
+    "ro": "Dimineața devreme pentru cea mai bună lumină la Mănăstirea Albă",
+    "en": "Early morning for the best light at the White Monastery"
+  },
+  "audioGuide": {
+    "de": "nein",
+    "hu": "nem",
+    "ro": "nu",
+    "en": "no"
+  }
 }

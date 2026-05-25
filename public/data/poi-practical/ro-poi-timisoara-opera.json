@@ -1,12 +1,57 @@
 {
-  "address": "Strada Mărășești 2, 300086 Timișoara",
-  "openingHours": "Kasse: Di-So 11:00-19:00; Vorstellungen meist um 19:00",
-  "entranceFee": "Vorstellungen ca. 30-80 RON; Platzbesichtigung kostenlos",
+  "address": {
+    "de": "Strada Mărășești 2, 300086 Timișoara",
+    "hu": "Strada Mărășești 2, 300086 Temesvár",
+    "ro": "Strada Mărășești 2, 300086 Timișoara",
+    "en": "Strada Mărășești 2, 300086 Timișoara"
+  },
+  "openingHours": {
+    "de": "Kasse: Di-So 11:00-19:00; Vorstellungen meist um 19:00",
+    "hu": "Pénztár: Kedd-Vasárnap 11:00-19:00; előadások általában 19:00 órakor",
+    "ro": "Casierie: Ma-Du 11:00-19:00; spectacole de obicei la ora 19:00",
+    "en": "Box office: Tue-Sun 11:00-19:00; performances usually at 19:00"
+  },
+  "entranceFee": {
+    "de": "Vorstellungen ca. 30-80 RON; Platzbesichtigung kostenlos",
+    "hu": "Előadások kb. 30-80 RON; a tér látogatása ingyenes",
+    "ro": "Spectacole aprox. 30-80 RON; vizitarea pieței gratuită",
+    "en": "Performances approx. 30-80 RON; square visit free"
+  },
   "website": "https://www.ort.ro",
-  "publicTransport": "Straßenbahnlinien 1, 2, 4 bis Haltestelle Piața Victoriei",
-  "parking": "Parkhäuser 'Modex' oder 'Hotel Timișoara' in direkter Nähe (ca. 5 RON/Std.)",
-  "accessibility": "Platz ist barrierefrei; Oper verfügt über einen Aufzug für Gäste",
-  "photoRules": "Erlaubt auf dem Platz; im Inneren nur ohne Blitz und außerhalb der Show",
-  "bestTimeToVisit": "Abends zur blauen Stunde, wenn die Fassade beleuchtet ist",
-  "audioGuide": "nein"
+  "publicTransport": {
+    "de": "Straßenbahnlinien 1, 2, 4 bis Haltestelle Piața Victoriei",
+    "hu": "1, 2, 4-es villamos a Piața Victoriei megállóig",
+    "ro": "Liniile de tramvai 1, 2, 4 până la stația Piața Victoriei",
+    "en": "Tram lines 1, 2, 4 to Piața Victoriei station"
+  },
+  "parking": {
+    "de": "Parkhäuser 'Modex' oder 'Hotel Timișoara' in direkter Nähe (ca. 5 RON/Std.)",
+    "hu": "'Modex' vagy 'Hotel Timișoara' parkolóház a közvetlen közelben (kb. 5 RON/óra)",
+    "ro": "Parcările 'Modex' sau 'Hotel Timișoara' în imediata apropiere (aprox. 5 RON/oră)",
+    "en": "Parking garages 'Modex' or 'Hotel Timișoara' in the immediate vicinity (approx. 5 RON/hr)"
+  },
+  "accessibility": {
+    "de": "Platz ist barrierefrei; Oper verfügt über einen Aufzug für Gäste",
+    "hu": "A tér akadálymentesített; az Operaház liftet biztosít a vendégek számára",
+    "ro": "Piața este accesibilă; Opera dispune de un lift pentru oaspeți",
+    "en": "Square is accessible; Opera has an elevator for guests"
+  },
+  "photoRules": {
+    "de": "Erlaubt auf dem Platz; im Inneren nur ohne Blitz und außerhalb der Show",
+    "hu": "A téren engedélyezett; belül csak vaku nélkül és előadáson kívül",
+    "ro": "Permis în piață; în interior doar fără bliț și în afara spectacolului",
+    "en": "Allowed on the square; inside only without flash and outside of the show"
+  },
+  "bestTimeToVisit": {
+    "de": "Abends zur blauen Stunde, wenn die Fassade beleuchtet ist",
+    "hu": "Este, az 'arany órában', amikor a homlokzat ki van világítva",
+    "ro": "Seara la ora albastră, când fațada este iluminată",
+    "en": "Evenings at the blue hour when the facade is illuminated"
+  },
+  "audioGuide": {
+    "de": "nein",
+    "hu": "nem",
+    "ro": "nu",
+    "en": "no"
+  }
 }

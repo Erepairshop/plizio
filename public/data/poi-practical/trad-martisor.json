@@ -1,12 +1,57 @@
 {
-  "address": "Landesweit auf Straßenmärkten und in Schulen",
-  "openingHours": "1. bis 8. März",
-  "entranceFee": "kostenlos (Amulette kosten 2-10 RON)",
+  "address": {
+    "de": "Landesweit auf Straßenmärkten und in Schulen",
+    "hu": "Országszerte utcai piacokon és iskolákban",
+    "ro": "La nivel național, în piețe stradale și în școli",
+    "en": "Nationwide at street markets and in schools"
+  },
+  "openingHours": {
+    "de": "1. bis 8. März",
+    "hu": "Március 1-től 8-ig",
+    "ro": "1 - 8 martie",
+    "en": "March 1st to 8th"
+  },
+  "entranceFee": {
+    "de": "kostenlos (Amulette kosten 2-10 RON)",
+    "hu": "ingyenes (az amulett 2-10 lej)",
+    "ro": "gratuit (amuletete costă 2-10 RON)",
+    "en": "free (amulets cost 2-10 RON)"
+  },
   "website": "",
-  "publicTransport": "Märkte meist an zentralen Metro- oder Busstationen.",
-  "parking": "Nicht relevant.",
-  "accessibility": "Barrierefrei an den Verkaufsständen auf Gehwegen.",
-  "photoRules": "Erlaubt, die bunten Stände sind sehr fotogen.",
-  "bestTimeToVisit": "Vormittags am 1. März für das volle Sortiment.",
-  "audioGuide": "nein"
+  "publicTransport": {
+    "de": "Märkte meist an zentralen Metro- oder Busstationen.",
+    "hu": "A piacok többnyire központi metró- vagy buszmegállókban.",
+    "ro": "Piețele sunt de obicei la stații centrale de metrou sau autobuz.",
+    "en": "Markets usually at central metro or bus stations."
+  },
+  "parking": {
+    "de": "Nicht relevant.",
+    "hu": "Nem releváns.",
+    "ro": "Nu este relevant.",
+    "en": "Not relevant."
+  },
+  "accessibility": {
+    "de": "Barrierefrei an den Verkaufsständen auf Gehwegen.",
+    "hu": "Akadálymentes a járdákon lévő árusoknál.",
+    "ro": "Accesibil la tarabele de vânzare pe trotuare.",
+    "en": "Accessible at sales stalls on sidewalks."
+  },
+  "photoRules": {
+    "de": "Erlaubt, die bunten Stände sind sehr fotogen.",
+    "hu": "Megengedett, a színes standok nagyon fotogének.",
+    "ro": "Permis, tarabele colorate sunt foarte fotogenice.",
+    "en": "Allowed, the colorful stalls are very photogenic."
+  },
+  "bestTimeToVisit": {
+    "de": "Vormittags am 1. März für das volle Sortiment.",
+    "hu": "Március 1-jén délelőtt a teljes választékért.",
+    "ro": "Dimineața pe 1 martie pentru sortimentul complet.",
+    "en": "In the morning on March 1st for the full selection."
+  },
+  "audioGuide": {
+    "de": "nein",
+    "hu": "nem",
+    "ro": "nu",
+    "en": "no"
+  }
 }

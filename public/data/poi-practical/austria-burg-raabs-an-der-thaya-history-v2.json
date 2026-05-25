@@ -1,12 +1,57 @@
 {
-  "address": "Burgplatz 1, 3820 Raabs an der Thaya",
-  "openingHours": "Führungen Sa, So 14:00 (Juni-Sept)",
-  "entranceFee": "10€ pro Person",
+  "address": {
+    "de": "Burgplatz 1, 3820 Raabs an der Thaya",
+    "hu": "Burgplatz 1, 3820 Raabs an der Thaya",
+    "ro": "Burgplatz 1, 3820 Raabs an der Thaya",
+    "en": "Burgplatz 1, 3820 Raabs an der Thaya"
+  },
+  "openingHours": {
+    "de": "Führungen Sa, So 14:00 (Juni-Sept)",
+    "hu": "Vezetések Szo, V 14:00 (jún-szept)",
+    "ro": "Tururi ghidate Sâ, Du 14:00 (Iun-Sept)",
+    "en": "Guided tours Sat, Sun 2:00 PM (June-Sept)"
+  },
+  "entranceFee": {
+    "de": "10€ pro Person",
+    "hu": "10 € személyenként",
+    "ro": "10 € de persoană",
+    "en": "10€ per person"
+  },
   "website": "https://www.burg-raabs.at",
-  "publicTransport": "Bus ab Waidhofen an der Thaya",
-  "parking": "Parkplatz direkt vor dem Burgtor.",
-  "accessibility": "Eingeschränkt barrierefrei durch historisches Pflaster.",
-  "photoRules": "In den Höfen erlaubt, Innenräume nur ohne Blitz.",
-  "bestTimeToVisit": "Während der Konzertveranstaltungen im Sommer.",
-  "audioGuide": "nein"
+  "publicTransport": {
+    "de": "Bus ab Waidhofen an der Thaya",
+    "hu": "Busz Waidhofen an der Thaya-ból",
+    "ro": "Autobuz din Waidhofen an der Thaya",
+    "en": "Bus from Waidhofen an der Thaya"
+  },
+  "parking": {
+    "de": "Parkplatz direkt vor dem Burgtor.",
+    "hu": "Parkoló közvetlenül a várkapu előtt.",
+    "ro": "Parcare chiar în fața porții castelului.",
+    "en": "Parking lot directly in front of the castle gate."
+  },
+  "accessibility": {
+    "de": "Eingeschränkt barrierefrei durch historisches Pflaster.",
+    "hu": "Korlátozottan akadálymentes a történelmi burkolat miatt.",
+    "ro": "Accesibilitate limitată din cauza pavajului istoric.",
+    "en": "Limited accessibility due to historic pavement."
+  },
+  "photoRules": {
+    "de": "In den Höfen erlaubt, Innenräume nur ohne Blitz.",
+    "hu": "Az udvarokon megengedett, a belső terekben csak vaku nélkül.",
+    "ro": "Permis în curți, în interior doar fără bliț.",
+    "en": "Permitted in the courtyards, interior only without flash."
+  },
+  "bestTimeToVisit": {
+    "de": "Während der Konzertveranstaltungen im Sommer.",
+    "hu": "A nyári koncertrendezvények idején.",
+    "ro": "În timpul concertelor din timpul verii.",
+    "en": "During concert events in the summer."
+  },
+  "audioGuide": {
+    "de": "nein",
+    "hu": "nem",
+    "ro": "nu",
+    "en": "no"
+  }
 }

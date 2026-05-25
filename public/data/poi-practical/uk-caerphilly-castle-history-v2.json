@@ -1,12 +1,57 @@
 {
-  "address": "Castle St, Caerphilly CF83 1JD",
-  "openingHours": "Mo-Su 10:00-17:00",
-  "entranceFee": "£10.50 Erwachsene, £7.40 Kinder",
+  "address": {
+    "de": "Castle St, Caerphilly CF83 1JD",
+    "hu": "Castle St, Caerphilly CF83 1JD",
+    "ro": "Castle St, Caerphilly CF83 1JD",
+    "en": "Castle St, Caerphilly CF83 1JD"
+  },
+  "openingHours": {
+    "de": "Mo-Su 10:00-17:00",
+    "hu": "Hé-Va 10:00-17:00",
+    "ro": "Lu-Du 10:00-17:00",
+    "en": "Mo-Su 10:00-17:00"
+  },
+  "entranceFee": {
+    "de": "£10.50 Erwachsene, £7.40 Kinder",
+    "hu": "£10.50 felnőtt, £7.40 gyerek",
+    "ro": "£10.50 adulți, £7.40 copii",
+    "en": "£10.50 adults, £7.40 children"
+  },
   "website": "https://cadw.gov.wales/visit/places-to-visit/caerphilly-castle",
-  "publicTransport": "Zug ab Cardiff Central bis Caerphilly Station, dann 10 Min. Fußweg",
-  "parking": "Öffentliche kostenpflichtige Parkplätze gegenüber dem Burgeingang.",
-  "accessibility": "Erdgeschoss und Innenhöfe zugänglich, die Türme sind über unebene Stufen erreichbar.",
-  "photoRules": "Fotografieren erlaubt, besonders beliebt ist der schiefe Südostturm.",
-  "bestTimeToVisit": "Wochentags, um die Drachenskulpturen ohne Menschenmassen zu sehen.",
-  "audioGuide": "en, cy"
+  "publicTransport": {
+    "de": "Zug ab Cardiff Central bis Caerphilly Station, dann 10 Min. Fußweg",
+    "hu": "Vonat Cardiff Central-ból Caerphilly állomásig, majd 10 perc séta",
+    "ro": "Tren din Cardiff Central până la stația Caerphilly, apoi 10 min. de mers pe jos",
+    "en": "Train from Cardiff Central to Caerphilly station, then 10 min. walk"
+  },
+  "parking": {
+    "de": "Öffentliche kostenpflichtige Parkplätze gegenüber dem Burgeingang.",
+    "hu": "Fizetős nyilvános parkolók a vár bejáratával szemben.",
+    "ro": "Parcări publice cu plată vizavi de intrarea castelului.",
+    "en": "Paid public parking opposite the castle entrance."
+  },
+  "accessibility": {
+    "de": "Erdgeschoss und Innenhöfe zugänglich, die Türme sind über unebene Stufen erreichbar.",
+    "hu": "A földszint és a belső udvarok megközelíthetőek, a tornyok egyenetlen lépcsőkön érhetőek el.",
+    "ro": "Parterul și curțile interioare accesibile, turnurile sunt accesibile pe trepte inegale.",
+    "en": "Ground floor and inner courtyards accessible, the towers are reachable via uneven steps."
+  },
+  "photoRules": {
+    "de": "Fotografieren erlaubt, besonders beliebt ist der schiefe Südostturm.",
+    "hu": "A fényképezés megengedett, különösen népszerű a ferde délkeleti torony.",
+    "ro": "Fotografierea permisă, deosebit de popular este turnul înclinat de sud-est.",
+    "en": "Photography allowed, particularly popular is the leaning southeast tower."
+  },
+  "bestTimeToVisit": {
+    "de": "Wochentags, um die Drachenskulpturen ohne Menschenmassen zu sehen.",
+    "hu": "Hétköznap, hogy a sárkányszobrokat tömeg nélkül láthassa.",
+    "ro": "În zilele lucrătoare, pentru a vedea sculpturile dragonilor fără mulțimi.",
+    "en": "Weekdays to see the dragon sculptures without crowds."
+  },
+  "audioGuide": {
+    "de": "en, cy",
+    "hu": "en, cy",
+    "ro": "en, cy",
+    "en": "en, cy"
+  }
 }

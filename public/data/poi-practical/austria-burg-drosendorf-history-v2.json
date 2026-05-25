@@ -1,12 +1,57 @@
 {
-  "address": "Schlossplatz 1, 2091 Drosendorf",
-  "openingHours": "Nur Außenbesichtigung möglich",
-  "entranceFee": "kostenlos (Außenbereich)",
+  "address": {
+    "de": "Schlossplatz 1, 2091 Drosendorf",
+    "hu": "Schlossplatz 1, 2091 Drosendorf",
+    "ro": "Schlossplatz 1, 2091 Drosendorf",
+    "en": "Schlossplatz 1, 2091 Drosendorf"
+  },
+  "openingHours": {
+    "de": "Nur Außenbesichtigung möglich",
+    "hu": "Csak kívülről látogatható",
+    "ro": "Doar vizitarea exterioară este posibilă",
+    "en": "Only exterior viewing possible"
+  },
+  "entranceFee": {
+    "de": "kostenlos (Außenbereich)",
+    "hu": "ingyenes (kültéri rész)",
+    "ro": "gratuit (zona exterioară)",
+    "en": "free (outdoor area)"
+  },
   "website": "https://www.drosendorf.at",
-  "publicTransport": "Bus ab Retz (Reblaus-Express saisonal)",
-  "parking": "Parkplätze vor dem Stadttor, kostenlos.",
-  "accessibility": "Historische Kopfsteinpflaster, teils steil.",
-  "photoRules": "Außenaufnahmen jederzeit erlaubt.",
-  "bestTimeToVisit": "Später Nachmittag für die Stadtmauerrunde.",
-  "audioGuide": "nein"
+  "publicTransport": {
+    "de": "Bus ab Retz (Reblaus-Express saisonal)",
+    "hu": "Busz Retzből (szezonálisan Reblaus-Express)",
+    "ro": "Autobuz din Retz (Reblaus-Express sezonier)",
+    "en": "Bus from Retz (seasonal Reblaus Express)"
+  },
+  "parking": {
+    "de": "Parkplätze vor dem Stadttor, kostenlos.",
+    "hu": "Parkolók a városkapu előtt, ingyenes.",
+    "ro": "Locuri de parcare în fața porții orașului, gratuite.",
+    "en": "Parking spaces in front of the city gate, free."
+  },
+  "accessibility": {
+    "de": "Historische Kopfsteinpflaster, teils steil.",
+    "hu": "Történelmi macskakő, részben meredek.",
+    "ro": "Pavaj istoric, parțial abrupt.",
+    "en": "Historic cobblestones, partly steep."
+  },
+  "photoRules": {
+    "de": "Außenaufnahmen jederzeit erlaubt.",
+    "hu": "Kültéri fotózás bármikor megengedett.",
+    "ro": "Fotografierea exterioară este permisă oricând.",
+    "en": "Exterior photography permitted at any time."
+  },
+  "bestTimeToVisit": {
+    "de": "Später Nachmittag für die Stadtmauerrunde.",
+    "hu": "Késő délután a városfali sétához.",
+    "ro": "Dupa-amiaza târziu pentru turul zidului orașului.",
+    "en": "Late afternoon for the city wall circuit."
+  },
+  "audioGuide": {
+    "de": "nein",
+    "hu": "nem",
+    "ro": "nu",
+    "en": "no"
+  }
 }

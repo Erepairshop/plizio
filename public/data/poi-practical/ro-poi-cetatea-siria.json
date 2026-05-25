@@ -1,12 +1,57 @@
 {
-  "address": "Șiria, 317340 Arad",
-  "openingHours": "24/7",
-  "entranceFee": "free",
+  "address": {
+    "de": "Șiria, 317340 Arad",
+    "hu": "Világos, 317340 Arad",
+    "ro": "Șiria, 317340 Arad",
+    "en": "Șiria, 317340 Arad"
+  },
+  "openingHours": {
+    "de": "24/7",
+    "hu": "Non-stop",
+    "ro": "24/7",
+    "en": "24/7"
+  },
+  "entranceFee": {
+    "de": "free",
+    "hu": "ingyenes",
+    "ro": "gratuit",
+    "en": "free"
+  },
   "website": "",
-  "publicTransport": "Regionalzug ab Arad bis Șiria, dann langer Aufstieg",
-  "parking": "Parken im Dorf oder am Fuß des Hügels möglich",
-  "accessibility": "Nicht barrierefrei, steiler Wanderweg",
-  "photoRules": "Erlaubt",
-  "bestTimeToVisit": "Spätnachmittag for den Panoramablick",
-  "audioGuide": "no"
+  "publicTransport": {
+    "de": "Regionalzug ab Arad bis Șiria, dann langer Aufstieg",
+    "hu": "Regionális vonat Aradról Világosra, majd hosszú gyalogút",
+    "ro": "Tren regional din Arad până la Șiria, urmat de o ascensiune lungă",
+    "en": "Regional train from Arad to Șiria, then long hike up"
+  },
+  "parking": {
+    "de": "Parken im Dorf oder am Fuß des Hügels möglich",
+    "hu": "Parkolás a faluban vagy a domb alján lehetséges",
+    "ro": "Parcare posibilă în sat sau la baza dealului",
+    "en": "Parking possible in the village or at the foot of the hill"
+  },
+  "accessibility": {
+    "de": "Nicht barrierefrei, steiler Wanderweg",
+    "hu": "Nem akadálymentes, meredek gyalogút",
+    "ro": "Nu este accesibil, drum abrupt",
+    "en": "Not accessible, steep hiking path"
+  },
+  "photoRules": {
+    "de": "Erlaubt",
+    "hu": "Engedélyezett",
+    "ro": "Permis",
+    "en": "Allowed"
+  },
+  "bestTimeToVisit": {
+    "de": "Spätnachmittag for den Panoramablick",
+    "hu": "Késő délután a panorámáért",
+    "ro": "După-amiaza târziu pentru panoramă",
+    "en": "Late afternoon for the panoramic view"
+  },
+  "audioGuide": {
+    "de": "no",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

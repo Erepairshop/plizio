@@ -1,12 +1,57 @@
 {
-  "address": "Aleea Peleșului 2, 106100 Sinaia",
-  "openingHours": "Mi 10:00-17:00, Do-So 09:15-17:00, Mo-Di geschlossen",
-  "entranceFee": "50 RON Erwachsene (Erdgeschoss), 100 RON (EG + 1. Stock)",
+  "address": {
+    "de": "Aleea Peleșului 2, 106100 Sinaia",
+    "hu": "Aleea Peleșului 2, 106100 Sinaia",
+    "ro": "Aleea Peleșului 2, 106100 Sinaia",
+    "en": "Aleea Peleșului 2, 106100 Sinaia"
+  },
+  "openingHours": {
+    "de": "Mi 10:00-17:00, Do-So 09:15-17:00, Mo-Di geschlossen",
+    "hu": "Sze 10:00-17:00, Cs-V 09:15-17:00, H-K zárva",
+    "ro": "Mi 10:00-17:00, Jo-Du 09:15-17:00, Lu-Ma închis",
+    "en": "Wed 10:00-17:00, Thu-Sun 09:15-17:00, Mon-Tue closed"
+  },
+  "entranceFee": {
+    "de": "50 RON Erwachsene (Erdgeschoss), 100 RON (EG + 1. Stock)",
+    "hu": "50 RON felnőtt (földszint), 100 RON (földszint + 1. emelet)",
+    "ro": "50 RON adulți (parter), 100 RON (parter + etajul 1)",
+    "en": "50 RON adults (ground floor), 100 RON (GF + 1st floor)"
+  },
   "website": "https://peles.ro",
-  "publicTransport": "Zug nach Sinaia, dann 30 Min. Fußweg oder lokaler Bus T1",
-  "parking": "Parkplatz am Fuße des Hügels, ca. 20 RON Pauschale",
-  "accessibility": "Nur Erdgeschoss teilweise barrierefrei, viele Treppen in den oberen Etagen",
-  "photoRules": "Erlaubt gegen hohe Gebühr (ca. 35 RON), Blitz und Stativ verboten",
-  "bestTimeToVisit": "Unter der Woche direkt bei Öffnung, um Menschenmassen zu vermeiden",
-  "audioGuide": "Ja (RO, EN, DE, FR, IT, ES)"
+  "publicTransport": {
+    "de": "Zug nach Sinaia, dann 30 Min. Fußweg oder lokaler Bus T1",
+    "hu": "Vonattal Sinajáig, onnan 30 perc séta vagy a T1-es helyi busz",
+    "ro": "Tren până la Sinaia, apoi 30 min. de mers pe jos sau autobuzul local T1",
+    "en": "Train to Sinaia, then a 30-minute walk or local bus T1"
+  },
+  "parking": {
+    "de": "Parkplatz am Fuße des Hügels, ca. 20 RON Pauschale",
+    "hu": "Parkoló a domb lábánál, kb. 20 RON átalánydíj",
+    "ro": "Parcare la baza dealului, aprox. 20 RON tarif fix",
+    "en": "Parking lot at the foot of the hill, approx. 20 RON flat fee"
+  },
+  "accessibility": {
+    "de": "Nur Erdgeschoss teilweise barrierefrei, viele Treppen in den oberen Etagen",
+    "hu": "Csak a földszint részben akadálymentesített, az emeleteken sok a lépcső",
+    "ro": "Doar parterul parțial accesibil, multe scări la etajele superioare",
+    "en": "Only the ground floor is partially accessible, many stairs on the upper floors"
+  },
+  "photoRules": {
+    "de": "Erlaubt gegen hohe Gebühr (ca. 35 RON), Blitz und Stativ verboten",
+    "hu": "Magas díj ellenében engedélyezett (kb. 35 RON), vaku és állvány tilos",
+    "ro": "Permis contra unei taxe mari (aprox. 35 RON), bliț și trepied interzise",
+    "en": "Allowed for a high fee (approx. 35 RON), flash and tripod prohibited"
+  },
+  "bestTimeToVisit": {
+    "de": "Unter der Woche direkt bei Öffnung, um Menschenmassen zu vermeiden",
+    "hu": "Hétköznap közvetlenül nyitáskor, a tömeg elkerülése végett",
+    "ro": "În timpul săptămânii imediat după deschidere pentru a evita aglomerația",
+    "en": "During the week right at opening to avoid crowds"
+  },
+  "audioGuide": {
+    "de": "Ja (RO, EN, DE, FR, IT, ES)",
+    "hu": "Igen (román, angol, német, francia, olasz, spanyol)",
+    "ro": "Da (RO, EN, DE, FR, IT, ES)",
+    "en": "Yes (RO, EN, DE, FR, IT, ES)"
+  }
 }

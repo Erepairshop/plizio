@@ -1,12 +1,57 @@
 {
-  "address": "Schloßberg 1, 8605 Kapfenberg",
-  "openingHours": "Täglich 10:00-17:00",
-  "entranceFee": "€ 11,00 Erwachsene (inkl. Museum)",
+  "address": {
+    "de": "Schloßberg 1, 8605 Kapfenberg",
+    "hu": "Schloßberg 1, 8605 Kapfenberg",
+    "ro": "Schloßberg 1, 8605 Kapfenberg",
+    "en": "Schloßberg 1, 8605 Kapfenberg"
+  },
+  "openingHours": {
+    "de": "Täglich 10:00-17:00",
+    "hu": "Naponta 10:00-17:00",
+    "ro": "Zilnic 10:00-17:00",
+    "en": "Daily 10:00-17:00"
+  },
+  "entranceFee": {
+    "de": "€ 11,00 Erwachsene (inkl. Museum)",
+    "hu": "11,00 € felnőtt (múzeummal együtt)",
+    "ro": "11,00 € adulți (incl. muzeu)",
+    "en": "€11.00 adults (incl. museum)"
+  },
   "website": "https://www.burg-oberkapfenberg.at",
-  "publicTransport": "Zug bis Kapfenberg Bahnhof, danach ca. 20 min steiler Fußweg.",
-  "parking": "Parkplatz direkt oben an der Burg, Zufahrt über steile Bergstraße.",
-  "accessibility": "Dank modernem Außenlift sind Hauptebenen barrierefrei erreichbar.",
-  "photoRules": "Erlaubt, besonders bei der Greifvogelshow empfehlenswert.",
-  "bestTimeToVisit": "Mi-So um 11:00 oder 15:00 Uhr zur Falknerei-Vorführung.",
-  "audioGuide": "ja"
+  "publicTransport": {
+    "de": "Zug bis Kapfenberg Bahnhof, danach ca. 20 min steiler Fußweg.",
+    "hu": "Vonattal Kapfenberg vasútállomásig, utána kb. 20 perc meredek gyalogút.",
+    "ro": "Tren până la gara Kapfenberg, apoi cca 20 min de mers pe jos abrupt.",
+    "en": "Train to Kapfenberg station, followed by a approx. 20 min steep walk."
+  },
+  "parking": {
+    "de": "Parkplatz direkt oben an der Burg, Zufahrt über steile Bergstraße.",
+    "hu": "Parkoló közvetlenül fent a várnál, megközelítés meredek hegyi úton.",
+    "ro": "Parcare direct sus la cetate, acces pe un drum montan abrupt.",
+    "en": "Parking lot directly at the top of the castle, access via a steep mountain road."
+  },
+  "accessibility": {
+    "de": "Dank modernem Außenlift sind Hauptebenen barrierefrei erreichbar.",
+    "hu": "A modern kültéri liftnek köszönhetően a fő szintek akadálymentesen elérhetők.",
+    "ro": "Datorită liftului exterior modern, nivelurile principale sunt accesibile fără bariere.",
+    "en": "Thanks to a modern exterior lift, the main levels are accessible without barriers."
+  },
+  "photoRules": {
+    "de": "Erlaubt, besonders bei der Greifvogelshow empfehlenswert.",
+    "hu": "Engedélyezett, különösen a ragadozómadár-bemutatónál ajánlott.",
+    "ro": "Permis, recomandat în special la spectacolul cu păsări de pradă.",
+    "en": "Allowed, highly recommended during the bird of prey show."
+  },
+  "bestTimeToVisit": {
+    "de": "Mi-So um 11:00 oder 15:00 Uhr zur Falknerei-Vorführung.",
+    "hu": "Sze-V 11:00-kor vagy 15:00-kor a solymászbemutatóra.",
+    "ro": "Mi-D la orele 11:00 sau 15:00 pentru spectacolul de șoimărit.",
+    "en": "Wed-Sun at 11:00 AM or 3:00 PM for the falconry display."
+  },
+  "audioGuide": {
+    "de": "ja",
+    "hu": "igen",
+    "ro": "da",
+    "en": "yes"
+  }
 }

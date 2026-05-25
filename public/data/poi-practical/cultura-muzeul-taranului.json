@@ -1,12 +1,57 @@
 {
-  "address": "Șoseaua Pavel D. Kiseleff 3, 011341 București",
-  "openingHours": "Di-So 10:00-18:00, Mo geschlossen",
-  "entranceFee": "12 RON Erwachsene, 3 RON Schüler/Studenten",
+  "address": {
+    "de": "Șoseaua Pavel D. Kiseleff 3, 011341 București",
+    "hu": "Șoseaua Pavel D. Kiseleff 3, 011341 Bukarest",
+    "ro": "Șoseaua Pavel D. Kiseleff 3, 011341 București",
+    "en": "3 Șoseaua Pavel D. Kiseleff, 011341 Bucharest"
+  },
+  "openingHours": {
+    "de": "Di-So 10:00-18:00, Mo geschlossen",
+    "hu": "K-V 10:00-18:00, hétfőn zárva",
+    "ro": "Ma-Du 10:00-18:00, Luni închis",
+    "en": "Tue-Sun 10:00-18:00, closed Mondays"
+  },
+  "entranceFee": {
+    "de": "12 RON Erwachsene, 3 RON Schüler/Studenten",
+    "hu": "12 RON felnőtt, 3 RON diák/hallgató",
+    "ro": "12 RON adulți, 3 RON elevi/studenți",
+    "en": "12 RON adults, 3 RON students"
+  },
   "website": "https://muzeultaranuluiroman.ro/",
-  "publicTransport": "Metro M1, M2 (Haltestelle Piața Victoriei)",
-  "parking": "Begrenzte kostenpflichtige Parkplätze an der Șoseaua Kiseleff.",
-  "accessibility": "Teilweise barrierefrei; historische Bereiche haben oft Stufen.",
-  "photoRules": "Erlaubt, Gebühr für professionelle Kameras erforderlich.",
-  "bestTimeToVisit": "Sonntags, wenn oft ein traditioneller Handwerkermarkt im Hof stattfindet.",
-  "audioGuide": "ro, en, fr"
+  "publicTransport": {
+    "de": "Metro M1, M2 (Haltestelle Piața Victoriei)",
+    "hu": "M1, M2 metró (Piața Victoriei megálló)",
+    "ro": "Metrou M1, M2 (stația Piața Victoriei)",
+    "en": "Metro M1, M2 (Piața Victoriei station)"
+  },
+  "parking": {
+    "de": "Begrenzte kostenpflichtige Parkplätze an der Șoseaua Kiseleff.",
+    "hu": "Korlátozott számú fizetős parkoló a Șoseaua Kiseleff mentén.",
+    "ro": "Locuri de parcare cu plată limitate pe Șoseaua Kiseleff.",
+    "en": "Limited paid parking available on Șoseaua Kiseleff."
+  },
+  "accessibility": {
+    "de": "Teilweise barrierefrei; historische Bereiche haben oft Stufen.",
+    "hu": "Részben akadálymentesített; a történelmi részeken gyakoriak a lépcsők.",
+    "ro": "Parțial accesibil; zonele istorice au adesea trepte.",
+    "en": "Partially accessible; historic areas often have steps."
+  },
+  "photoRules": {
+    "de": "Erlaubt, Gebühr für professionelle Kameras erforderlich.",
+    "hu": "Engedélyezett, professzionális kamerák használatáért díjat kell fizetni.",
+    "ro": "Permis, este necesară o taxă pentru aparate foto profesionale.",
+    "en": "Allowed, fee required for professional cameras."
+  },
+  "bestTimeToVisit": {
+    "de": "Sonntags, wenn oft ein traditioneller Handwerkermarkt im Hof stattfindet.",
+    "hu": "Vasárnap, amikor gyakran hagyományos kézműves vásár van az udvaron.",
+    "ro": "Duminica, când în curte are loc adesea un târg tradițional al meșteșugarilor.",
+    "en": "Sundays, when a traditional craft market often takes place in the courtyard."
+  },
+  "audioGuide": {
+    "de": "ro, en, fr",
+    "hu": "román, angol, francia",
+    "ro": "ro, en, fr",
+    "en": "ro, en, fr"
+  }
 }

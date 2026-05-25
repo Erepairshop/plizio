@@ -1,12 +1,57 @@
 {
-  "address": "Salita al Castelgrande, 6500 Bellinzona, Schweiz",
-  "openingHours": "Hof & Mauern: Sommer 09:00-19:00, Winter 10:00-18:00; Museum: 10:00-18:00",
-  "entranceFee": "Hof & Mauern kostenlos; Museum und Türme CHF 5-10",
+  "address": {
+    "de": "Salita al Castelgrande, 6500 Bellinzona, Schweiz",
+    "hu": "Salita al Castelgrande, 6500 Bellinzona, Svájc",
+    "ro": "Salita al Castelgrande, 6500 Bellinzona, Elveția",
+    "en": "Salita al Castelgrande, 6500 Bellinzona, Switzerland"
+  },
+  "openingHours": {
+    "de": "Hof & Mauern: Sommer 09:00-19:00, Winter 10:00-18:00; Museum: 10:00-18:00",
+    "hu": "Udvar & falak: Nyár 09:00-19:00, Tél 10:00-18:00; Múzeum: 10:00-18:00",
+    "ro": "Curte & ziduri: Vară 09:00-19:00, Iarnă 10:00-18:00; Muzeu: 10:00-18:00",
+    "en": "Courtyard & walls: Summer 09:00-19:00, Winter 10:00-18:00; Museum: 10:00-18:00"
+  },
+  "entranceFee": {
+    "de": "Hof & Mauern kostenlos; Museum und Türme CHF 5-10",
+    "hu": "Udvar & falak ingyenes; Múzeum és tornyok 5-10 CHF",
+    "ro": "Curte & ziduri gratuit; Muzeu și turnuri 5-10 CHF",
+    "en": "Courtyard & walls free; Museum and towers CHF 5-10"
+  },
   "website": "https://www.bellinzona.ch/",
-  "publicTransport": "Bahnhof Bellinzona, Liftzugang an der Piazza del Sole (5 Min Fußweg)",
-  "parking": "Tiefgarage Autosilo Piazza del Sole direkt beim Liftzugang",
-  "accessibility": "Vollständig barrierefrei durch den Lift von der Piazza del Sole direkt in den Hof",
-  "photoRules": "Erlaubt",
-  "bestTimeToVisit": "Blaue Stunde für stimmungsvolle Fotos der beleuchteten Festungsanlage",
-  "audioGuide": "nein (Infotafeln vorhanden)"
+  "publicTransport": {
+    "de": "Bahnhof Bellinzona, Liftzugang an der Piazza del Sole (5 Min Fußweg)",
+    "hu": "Bellinzona vasútállomás, lift a Piazza del Sole-nál (5 perc gyalog)",
+    "ro": "Gara Bellinzona, acces cu lift din Piazza del Sole (5 min. de mers pe jos)",
+    "en": "Bellinzona train station, elevator access at Piazza del Sole (5 min. walk)"
+  },
+  "parking": {
+    "de": "Tiefgarage Autosilo Piazza del Sole direkt beim Liftzugang",
+    "hu": "Autosilo Piazza del Sole mélygarázs közvetlenül a liftnél",
+    "ro": "Parcare subterană Autosilo Piazza del Sole direct la accesul cu lift",
+    "en": "Underground garage Autosilo Piazza del Sole directly at the elevator access"
+  },
+  "accessibility": {
+    "de": "Vollständig barrierefrei durch den Lift von der Piazza del Sole direkt in den Hof",
+    "hu": "Teljesen akadálymentes a liftnek köszönhetően a Piazza del Sole-tól közvetlenül az udvarra",
+    "ro": "Complet accesibil datorită liftului de la Piazza del Sole direct în curte",
+    "en": "Fully barrier-free thanks to the elevator from Piazza del Sole directly into the courtyard"
+  },
+  "photoRules": {
+    "de": "Erlaubt",
+    "hu": "Engedélyezett",
+    "ro": "Permis",
+    "en": "Allowed"
+  },
+  "bestTimeToVisit": {
+    "de": "Blaue Stunde für stimmungsvolle Fotos der beleuchteten Festungsanlage",
+    "hu": "Az alkonyati kék órában a kivilágított erődítmény hangulatos fotóiért",
+    "ro": "La amurg pentru fotografii atmosferice ale fortăreței iluminate",
+    "en": "During the blue hour for atmospheric photos of the illuminated fortress"
+  },
+  "audioGuide": {
+    "de": "nein (Infotafeln vorhanden)",
+    "hu": "nem (információs táblák vannak)",
+    "ro": "nu (panouri informative disponibile)",
+    "en": "no (information boards available)"
+  }
 }

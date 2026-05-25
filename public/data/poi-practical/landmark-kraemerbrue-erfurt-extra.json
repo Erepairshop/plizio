@@ -1,12 +1,57 @@
 {
-  "address": "Krämerbrücke, 99084 Erfurt",
-  "openingHours": "24/7",
-  "entranceFee": "free",
+  "address": {
+    "de": "Krämerbrücke, 99084 Erfurt",
+    "hu": "Krämerbrücke, 99084 Erfurt",
+    "ro": "Krämerbrücke, 99084 Erfurt",
+    "en": "Krämerbrücke, 99084 Erfurt"
+  },
+  "openingHours": {
+    "de": "24/7",
+    "hu": "0-24 órában",
+    "ro": "Non-stop",
+    "en": "24/7"
+  },
+  "entranceFee": {
+    "de": "free",
+    "hu": "ingyenes",
+    "ro": "gratuit",
+    "en": "free"
+  },
   "website": "https://www.erfurt-tourismus.de",
-  "publicTransport": "Straßenbahn Linien 3, 4, 6 bis Fischmarkt",
-  "parking": "Parkhaus am Domplatz, ca. €2/Std.",
-  "accessibility": "Kopfsteinpflaster, für Rollstühle erschwert aber befahrbar",
-  "photoRules": "Erlaubt, in den kleinen Läden bitte vorher fragen",
-  "bestTimeToVisit": "Früher Abend, wenn die Brücke stimmungsvoll beleuchtet ist",
-  "audioGuide": "no"
+  "publicTransport": {
+    "de": "Straßenbahn Linien 3, 4, 6 bis Fischmarkt",
+    "hu": "3, 4, 6-os villamos a Fischmarkt megállóig",
+    "ro": "Tramvaiele 3, 4, 6 până la Fischmarkt",
+    "en": "Trams 3, 4, 6 to Fischmarkt"
+  },
+  "parking": {
+    "de": "Parkhaus am Domplatz, ca. €2/Std.",
+    "hu": "Domplatz parkolóház, kb. 2 €/óra",
+    "ro": "Parcare acoperită la Domplatz, aprox. 2 €/oră",
+    "en": "Parking garage at Domplatz, approx. €2/hour"
+  },
+  "accessibility": {
+    "de": "Kopfsteinpflaster, für Rollstühle erschwert aber befahrbar",
+    "hu": "Macskaköves út, kerekesszékkel nehézkes, de járható",
+    "ro": "Drum pietruit, dificil pentru scaune cu rotile, dar accesibil",
+    "en": "Cobblestones, difficult for wheelchairs but passable"
+  },
+  "photoRules": {
+    "de": "Erlaubt, in den kleinen Läden bitte vorher fragen",
+    "hu": "Megengedett, a kis boltokban kérj engedélyt előtte",
+    "ro": "Permis, vă rugăm să întrebați în prealabil în micile magazine",
+    "en": "Allowed, please ask in advance in the small shops"
+  },
+  "bestTimeToVisit": {
+    "de": "Früher Abend, wenn die Brücke stimmungsvoll beleuchtet ist",
+    "hu": "Kora este, amikor a híd hangulatos kivilágítást kap",
+    "ro": "Seara devreme, când podul este iluminat atmosferic",
+    "en": "Early evening when the bridge is atmospherically lit"
+  },
+  "audioGuide": {
+    "de": "no",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

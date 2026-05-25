@@ -1,12 +1,57 @@
 {
-  "address": "Grassalkovich-kastély 5852, 2100 Gödöllő",
-  "openingHours": "Mo-So 10:00-18:00",
-  "entranceFee": "3200 HUF Erwachsene, 1600 HUF ermäßigt",
+  "address": {
+    "de": "Grassalkovich-kastély 5852, 2100 Gödöllő",
+    "hu": "Grassalkovich-kastély 5852, 2100 Gödöllő",
+    "ro": "Grassalkovich-kastély 5852, 2100 Gödöllő",
+    "en": "Grassalkovich-kastély 5852, 2100 Gödöllő"
+  },
+  "openingHours": {
+    "de": "Mo-So 10:00-18:00",
+    "hu": "H-V 10:00-18:00",
+    "ro": "Lu-Du 10:00-18:00",
+    "en": "Mon-Sun 10:00-18:00"
+  },
+  "entranceFee": {
+    "de": "3200 HUF Erwachsene, 1600 HUF ermäßigt",
+    "hu": "3200 HUF felnőtt, 1600 HUF kedvezményes",
+    "ro": "3200 HUF adulți, 1600 HUF redus",
+    "en": "3200 HUF adults, 1600 HUF reduced"
+  },
   "website": "https://www.kiralyikastely.hu",
-  "publicTransport": "HÉV (Vorortbahn H8) von Budapest Örs vezér tere bis Gödöllő Szabadság tér",
-  "parking": "Gebührenpflichtiger Parkplatz direkt neben dem Schlossgarten",
-  "accessibility": "Vollständig barrierefrei mit Aufzügen",
-  "photoRules": "Fotoerlaubnis gegen Gebühr an der Kasse",
-  "bestTimeToVisit": "Frühling zur Tulpenblüte im Schlossgarten",
-  "audioGuide": "verfügbar in 12 Sprachen"
+  "publicTransport": {
+    "de": "HÉV (Vorortbahn H8) von Budapest Örs vezér tere bis Gödöllő Szabadság tér",
+    "hu": "HÉV (H8-as vonal) a budapesti Örs vezér terétől Gödöllő Szabadság térig",
+    "ro": "HÉV (linia H8) din Piața Örs vezér din Budapesta până la Gödöllő Szabadság tér",
+    "en": "HÉV (H8 suburban railway) from Budapest Örs vezér square to Gödöllő Szabadság tér"
+  },
+  "parking": {
+    "de": "Gebührenpflichtiger Parkplatz direkt neben dem Schlossgarten",
+    "hu": "Fizetős parkoló közvetlenül a kastélykert mellett",
+    "ro": "Parcare cu plată chiar lângă grădina castelului",
+    "en": "Paid parking right next to the castle garden"
+  },
+  "accessibility": {
+    "de": "Vollständig barrierefrei mit Aufzügen",
+    "hu": "Teljesen akadálymentesített, liftekkel",
+    "ro": "Complet accesibil, cu lifturi",
+    "en": "Fully accessible with elevators"
+  },
+  "photoRules": {
+    "de": "Fotoerlaubnis gegen Gebühr an der Kasse",
+    "hu": "Fényképezési engedély a pénztárnál váltható",
+    "ro": "Permis foto disponibil contra cost la casierie",
+    "en": "Photo permit available for a fee at the ticket office"
+  },
+  "bestTimeToVisit": {
+    "de": "Frühling zur Tulpenblüte im Schlossgarten",
+    "hu": "Tavasszal, a tulipánvirágzás idején a kastélykertben",
+    "ro": "Primăvara, în timpul înfloririi lalelelor în grădina castelului",
+    "en": "Spring for the tulip bloom in the castle garden"
+  },
+  "audioGuide": {
+    "de": "verfügbar in 12 Sprachen",
+    "hu": "12 nyelven elérhető",
+    "ro": "disponibil în 12 limbi",
+    "en": "available in 12 languages"
+  }
 }

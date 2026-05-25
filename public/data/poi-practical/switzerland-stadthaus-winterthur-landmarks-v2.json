@@ -1,12 +1,57 @@
 {
-  "address": "Stadthausstrasse 2, 8400 Winterthur",
-  "openingHours": "Mo-Mi 08:00-17:00, Do 08:00-18:30, Fr 08:00-16:00",
-  "entranceFee": "kostenlos",
+  "address": {
+    "de": "Stadthausstrasse 2, 8400 Winterthur",
+    "hu": "Stadthausstrasse 2, 8400 Winterthur",
+    "ro": "Stadthausstrasse 2, 8400 Winterthur",
+    "en": "Stadthausstrasse 2, 8400 Winterthur"
+  },
+  "openingHours": {
+    "de": "Mo-Mi 08:00-17:00, Do 08:00-18:30, Fr 08:00-16:00",
+    "hu": "H–Sze 08:00–17:00, Cs 08:00–18:30, P 08:00–16:00",
+    "ro": "Luni-Mie 08:00-17:00, Joi 08:00-18:30, Vin 08:00-16:00",
+    "en": "Mon-Wed 08:00-17:00, Thu 08:00-18:30, Fri 08:00-16:00"
+  },
+  "entranceFee": {
+    "de": "kostenlos",
+    "hu": "ingyenes",
+    "ro": "gratuit",
+    "en": "free"
+  },
   "website": "https://www.stadt.winterthur.ch/",
-  "publicTransport": "Etwa 5 Minuten Fussweg vom Hauptbahnhof Winterthur entfernt.",
-  "parking": "Parkhaus Theater Winterthur direkt gegenüber (ca. CHF 2.50/Std.).",
-  "accessibility": "Das Gebäude ist vollständig rollstuhlgängig und verfügt über einen Lift.",
-  "photoRules": "In den öffentlichen Bereichen des monumentalen Semper-Baus erlaubt.",
-  "bestTimeToVisit": "Am späten Donnerstagnachmittag während der verlängerten Öffnungszeiten.",
-  "audioGuide": "no"
+  "publicTransport": {
+    "de": "Etwa 5 Minuten Fussweg vom Hauptbahnhof Winterthur entfernt.",
+    "hu": "Kb. 5 perc sétára Winterthur főpályaudvarától.",
+    "ro": "Aprox. 5 min. de mers pe jos de la gara centrală Winterthur.",
+    "en": "About 5 min. walk from Winterthur main station."
+  },
+  "parking": {
+    "de": "Parkhaus Theater Winterthur direkt gegenüber (ca. CHF 2.50/Std.).",
+    "hu": "Theater Winterthur parkolóház közvetlenül szemben (kb. 2,50 CHF/óra).",
+    "ro": "Parcarea Theater Winterthur chiar vizavi (aprox. 2,50 CHF/oră).",
+    "en": "Theater Winterthur parking directly opposite (approx. 2.50 CHF/hr)."
+  },
+  "accessibility": {
+    "de": "Das Gebäude ist vollständig rollstuhlgängig und verfügt über einen Lift.",
+    "hu": "Az épület teljesen kerekesszékkel járható és lifttel rendelkezik.",
+    "ro": "Clădirea este complet accesibilă pentru scaune cu rotile și are lift.",
+    "en": "The building is fully wheelchair accessible and has an elevator."
+  },
+  "photoRules": {
+    "de": "In den öffentlichen Bereichen des monumentalen Semper-Baus erlaubt.",
+    "hu": "A monumentális Semper-épület nyilvános részein engedélyezett.",
+    "ro": "Permis în zonele publice ale edificiului monumental Semper.",
+    "en": "Allowed in public areas of the monumental Semper building."
+  },
+  "bestTimeToVisit": {
+    "de": "Am späten Donnerstagnachmittag während der verlängerten Öffnungszeiten.",
+    "hu": "Csütörtök késő délután a hosszabbított nyitvatartás alatt.",
+    "ro": "Joi după-amiaza târziu, în timpul programului prelungit.",
+    "en": "Late Thursday afternoon during extended opening hours."
+  },
+  "audioGuide": {
+    "de": "no",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

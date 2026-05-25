@@ -1,12 +1,57 @@
 {
-  "address": "Marktplatz 9, 4001 Basel",
-  "openingHours": "Mo-Fr 08:00-17:00",
-  "entranceFee": "kostenlos",
+  "address": {
+    "de": "Marktplatz 9, 4001 Basel",
+    "hu": "Marktplatz 9, 4001 Basel",
+    "ro": "Marktplatz 9, 4001 Basel",
+    "en": "Marktplatz 9, 4001 Basel"
+  },
+  "openingHours": {
+    "de": "Mo-Fr 08:00-17:00",
+    "hu": "H–P 08:00–17:00",
+    "ro": "Luni-Vin 08:00-17:00",
+    "en": "Mon-Fri 08:00-17:00"
+  },
+  "entranceFee": {
+    "de": "kostenlos",
+    "hu": "ingyenes",
+    "ro": "gratuit",
+    "en": "free"
+  },
   "website": "https://www.bs.ch/",
-  "publicTransport": "Tramlinien 6, 8, 11, 14, 15, 16, 17 bis zur Haltestelle Marktplatz.",
-  "parking": "Parkhaus Storchen in unmittelbarer Nähe (ca. CHF 4.00/Std.), oft belegt.",
-  "accessibility": "Der Innenhof ist eben und barrierefrei zugänglich, Obergeschosse teilweise nur über Treppen.",
-  "photoRules": "Im öffentlichen Innenhof erlaubt; in den Regierungsräumen nur nach Absprache.",
-  "bestTimeToVisit": "Werktags zur Marktzeit (Vormittag), um das lebendige Treiben auf dem Platz zu erleben.",
-  "audioGuide": "no"
+  "publicTransport": {
+    "de": "Tramlinien 6, 8, 11, 14, 15, 16, 17 bis zur Haltestelle Marktplatz.",
+    "hu": "6, 8, 11, 14, 15, 16, 17-es villamos a Marktplatz megállóig.",
+    "ro": "Liniile de tramvai 6, 8, 11, 14, 15, 16, 17 până la stația Marktplatz.",
+    "en": "Tram lines 6, 8, 11, 14, 15, 16, 17 to Marktplatz stop."
+  },
+  "parking": {
+    "de": "Parkhaus Storchen in unmittelbarer Nähe (ca. CHF 4.00/Std.), oft belegt.",
+    "hu": "Storchen parkolóház közvetlen közelben (kb. 4 CHF/óra), gyakran foglalt.",
+    "ro": "Parcarea Storchen în imediata apropiere (aprox. 4 CHF/oră), des ocupată.",
+    "en": "Storchen parking nearby (approx. 4 CHF/hr), often busy."
+  },
+  "accessibility": {
+    "de": "Der Innenhof ist eben und barrierefrei zugänglich, Obergeschosse teilweise nur über Treppen.",
+    "hu": "Az udvar sík és akadálymentesített, az emeletek részben csak lépcsőn érhetőek el.",
+    "ro": "Curtea interioară este plană și accesibilă, etajele parțial doar pe scări.",
+    "en": "Courtyard is level and accessible, upper floors partially via stairs only."
+  },
+  "photoRules": {
+    "de": "Im öffentlichen Innenhof erlaubt; in den Regierungsräumen nur nach Absprache.",
+    "hu": "A nyilvános udvaron engedélyezett; a kormányzati termekben csak előzetes egyeztetéssel.",
+    "ro": "Permis în curtea publică; în sălile guvernamentale doar cu permisiune.",
+    "en": "Allowed in public courtyard; in government rooms by prior arrangement only."
+  },
+  "bestTimeToVisit": {
+    "de": "Werktags zur Marktzeit (Vormittag), um das lebendige Treiben auf dem Platz zu erleben.",
+    "hu": "Hétköznap délelőtt, a piaci forgatag miatt.",
+    "ro": "În timpul săptămânii dimineața, pentru a experimenta atmosfera pieței.",
+    "en": "Weekdays during market hours (morning) to experience the lively atmosphere."
+  },
+  "audioGuide": {
+    "de": "no",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

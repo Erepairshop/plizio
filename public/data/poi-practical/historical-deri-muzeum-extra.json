@@ -1,12 +1,57 @@
 {
-  "address": "Déri tér 1, 4026 Debrecen",
-  "openingHours": "Di-So 10:00-18:00",
-  "entranceFee": "2600 HUF Erwachsene, 1300 HUF ermässigt",
+  "address": {
+    "de": "Déri tér 1, 4026 Debrecen",
+    "hu": "Déri tér 1, 4026 Debrecen",
+    "ro": "Déri tér 1, 4026 Debrecen",
+    "en": "Déri tér 1, 4026 Debrecen"
+  },
+  "openingHours": {
+    "de": "Di-So 10:00-18:00",
+    "hu": "K-V 10:00-18:00",
+    "ro": "Ma-Du 10:00-18:00",
+    "en": "Tue-Sun 10:00-18:00"
+  },
+  "entranceFee": {
+    "de": "2600 HUF Erwachsene, 1300 HUF ermässigt",
+    "hu": "2600 HUF felnőtt, 1300 HUF kedvezményes",
+    "ro": "2600 HUF adulți, 1300 HUF redus",
+    "en": "2600 HUF adults, 1300 HUF reduced"
+  },
   "website": "http://www.derimuzeum.hu/",
-  "publicTransport": "Strassenbahn 1 oder 2 bis Haltestelle Városháza, danach 5 Min. Fussweg.",
-  "parking": "Tiefgarage unter dem Kölcsey-Zentrum (Bethlen utca) ca. 300m entfernt.",
-  "accessibility": "Das gesamte Museum ist durch Aufzüge und Rampen für Rollstuhlfahrer erschlossen.",
-  "photoRules": "Erlaubt gegen eine zusätzliche Fotogebühr von ca. 1000 HUF.",
-  "bestTimeToVisit": "Mittags unter der Woche, wenn die berühmte Munkácsy-Trilogie am wenigsten besucht ist.",
-  "audioGuide": "hu, en"
+  "publicTransport": {
+    "de": "Strassenbahn 1 oder 2 bis Haltestelle Városháza, danach 5 Min. Fussweg.",
+    "hu": "1-es vagy 2-es villamos a Városháza megállóig, majd 5 perc gyalog.",
+    "ro": "Tramvaiul 1 sau 2 până la stația Városháza, apoi 5 minute de mers pe jos.",
+    "en": "Tram 1 or 2 to stop Városháza, then 5 min. walk."
+  },
+  "parking": {
+    "de": "Tiefgarage unter dem Kölcsey-Zentrum (Bethlen utca) ca. 300m entfernt.",
+    "hu": "Mélygarázs a Kölcsey Központ alatt (Bethlen utca), kb. 300 m-re.",
+    "ro": "Parcare subterană sub centrul Kölcsey (str. Bethlen), la aprox. 300 m distanță.",
+    "en": "Underground garage under the Kölcsey Center (Bethlen utca) approx. 300m away."
+  },
+  "accessibility": {
+    "de": "Das gesamte Museum ist durch Aufzüge und Rampen für Rollstuhlfahrer erschlossen.",
+    "hu": "Az egész múzeum liftekkel és rámpákkal kerekesszékesek számára megközelíthető.",
+    "ro": "Întreg muzeul este accesibil prin lifturi și rampe pentru utilizatorii de scaune cu rotile.",
+    "en": "The entire museum is accessible by elevators and ramps for wheelchair users."
+  },
+  "photoRules": {
+    "de": "Erlaubt gegen eine zusätzliche Fotogebühr von ca. 1000 HUF.",
+    "hu": "Engedélyezett kiegészítő, kb. 1000 HUF-os fotójegy ellenében.",
+    "ro": "Permis contra unei taxe suplimentare de fotografiere de aprox. 1000 HUF.",
+    "en": "Allowed for an additional photography fee of approx. 1000 HUF."
+  },
+  "bestTimeToVisit": {
+    "de": "Mittags unter der Woche, wenn die berühmte Munkácsy-Trilogie am wenigsten besucht ist.",
+    "hu": "Hétköznap délben, amikor a híres Munkácsy-trilógia a legkevésbé látogatott.",
+    "ro": "În timpul săptămânii la prânz, când celebra trilogie Munkácsy este cel mai puțin vizitată.",
+    "en": "Weekday lunchtimes, when the famous Munkácsy trilogy is least visited."
+  },
+  "audioGuide": {
+    "de": "hu, en",
+    "hu": "hu, en",
+    "ro": "hu, en",
+    "en": "hu, en"
+  }
 }

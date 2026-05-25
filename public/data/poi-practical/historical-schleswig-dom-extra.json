@@ -1,12 +1,57 @@
 {
-  "address": "Norderdomstraße 4, 24837 Schleswig",
-  "openingHours": "Täglich 10:00-17:00",
-  "entranceFee": "kostenlos",
+  "address": {
+    "de": "Norderdomstraße 4, 24837 Schleswig",
+    "hu": "Norderdomstraße 4, 24837 Schleswig",
+    "ro": "Norderdomstraße 4, 24837 Schleswig",
+    "en": "Norderdomstraße 4, 24837 Schleswig"
+  },
+  "openingHours": {
+    "de": "Täglich 10:00-17:00",
+    "hu": "Naponta 10:00-17:00",
+    "ro": "Zilnic 10:00-17:00",
+    "en": "Daily 10:00-17:00"
+  },
+  "entranceFee": {
+    "de": "kostenlos",
+    "hu": "ingyenes",
+    "ro": "gratuit",
+    "en": "free"
+  },
   "website": "https://www.schleswiger-dom.de",
-  "publicTransport": "Bus 1 bis Haltestelle Dom.",
-  "parking": "Parkplatz am Hafen oder Capitolplatz, ca. 1,50 €/Std.",
-  "accessibility": "Barrierefreier Zugang über das Nordportal.",
-  "photoRules": "Erlaubt, Stativ nicht gestattet.",
-  "bestTimeToVisit": "Nachmittags, um den Bordesholmer Altar bei gutem Licht zu sehen.",
-  "audioGuide": "Deutsch"
+  "publicTransport": {
+    "de": "Bus 1 bis Haltestelle Dom.",
+    "hu": "1-es busz a dóm megállóig.",
+    "ro": "Autobuzul 1 până la stația Dom.",
+    "en": "Bus 1 to the Dom stop."
+  },
+  "parking": {
+    "de": "Parkplatz am Hafen oder Capitolplatz, ca. 1,50 €/Std.",
+    "hu": "Parkoló a kikötőnél vagy a Capitolplatzon, kb. 1,50 €/óra",
+    "ro": "Parcare la port sau la Capitolplatz, aprox. 1,50 €/oră",
+    "en": "Parking at the harbor or Capitolplatz, approx. €1.50/hr"
+  },
+  "accessibility": {
+    "de": "Barrierefreier Zugang über das Nordportal.",
+    "hu": "Akadálymentes bejárat az északi kapun keresztül.",
+    "ro": "Accesibil prin portalul nordic.",
+    "en": "Accessible entrance via the North portal."
+  },
+  "photoRules": {
+    "de": "Erlaubt, Stativ nicht gestattet.",
+    "hu": "Megengedett, állvány használata tilos.",
+    "ro": "Permis, trepiedul nu este permis.",
+    "en": "Allowed, tripod not permitted."
+  },
+  "bestTimeToVisit": {
+    "de": "Nachmittags, um den Bordesholmer Altar bei gutem Licht zu sehen.",
+    "hu": "Délután, hogy a Bordesholm-oltárt jó fényviszonyok mellett láthassa.",
+    "ro": "După-amiaza, pentru a vedea altarul Bordesholm într-o lumină bună.",
+    "en": "Afternoons to see the Bordesholm Altar in good light."
+  },
+  "audioGuide": {
+    "de": "Deutsch",
+    "hu": "német",
+    "ro": "germană",
+    "en": "German"
+  }
 }

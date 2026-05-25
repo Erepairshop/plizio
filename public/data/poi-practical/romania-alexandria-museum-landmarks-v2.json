@@ -1,12 +1,57 @@
 {
-  "address": "Strada Dunării 191, 140034 Alexandria",
-  "openingHours": "Di-So 09:00-17:00, Mo geschlossen",
-  "entranceFee": "10 RON Erwachsene, 5 RON Kinder",
+  "address": {
+    "de": "Strada Dunării 191, 140034 Alexandria",
+    "hu": "Strada Dunării 191, 140034 Alexandria",
+    "ro": "Strada Dunării 191, 140034 Alexandria",
+    "en": "Strada Dunării 191, 140034 Alexandria"
+  },
+  "openingHours": {
+    "de": "Di-So 09:00-17:00, Mo geschlossen",
+    "hu": "Kedd-Vasárnap 09:00-17:00, hétfőn zárva",
+    "ro": "Ma-Du 09:00-17:00, luni închis",
+    "en": "Tue-Sun 09:00-17:00, Mon closed"
+  },
+  "entranceFee": {
+    "de": "10 RON Erwachsene, 5 RON Kinder",
+    "hu": "10 RON felnőtteknek, 5 RON gyerekeknek",
+    "ro": "10 RON adulți, 5 RON copii",
+    "en": "10 RON adults, 5 RON children"
+  },
   "website": "http://www.muzeulteleorman.ro",
-  "publicTransport": "Zentraler Busbahnhof Alexandria in Gehweite.",
-  "parking": "Öffentliche Parkplätze an der Strada Dunării vorhanden.",
-  "accessibility": "Teilweise barrierefrei im Erdgeschoss.",
-  "photoRules": "Erlaubt gegen eine kleine Gebühr.",
-  "bestTimeToVisit": "Wochentags für eine ungestörte Besichtigung der archäologischen Funde.",
-  "audioGuide": "nein"
+  "publicTransport": {
+    "de": "Zentraler Busbahnhof Alexandria in Gehweite.",
+    "hu": "Központi buszpályaudvar Alexandria, gyalogosan megközelíthető.",
+    "ro": "Autogara centrală din Alexandria la distanță de mers pe jos.",
+    "en": "Central bus station Alexandria within walking distance."
+  },
+  "parking": {
+    "de": "Öffentliche Parkplätze an der Strada Dunării vorhanden.",
+    "hu": "Nyilvános parkolóhelyek a Strada Dunării utcában.",
+    "ro": "Parcări publice disponibile pe Strada Dunării.",
+    "en": "Public parking spaces available on Strada Dunării."
+  },
+  "accessibility": {
+    "de": "Teilweise barrierefrei im Erdgeschoss.",
+    "hu": "Földszinten részben akadálymentesített.",
+    "ro": "Parțial accesibil la parter.",
+    "en": "Partially accessible on the ground floor."
+  },
+  "photoRules": {
+    "de": "Erlaubt gegen eine kleine Gebühr.",
+    "hu": "Megengedett egy kis díj ellenében.",
+    "ro": "Permis contra unei mici taxe.",
+    "en": "Allowed for a small fee."
+  },
+  "bestTimeToVisit": {
+    "de": "Wochentags für eine ungestörte Besichtigung der archäologischen Funde.",
+    "hu": "Hétköznap, a régészeti leletek nyugodt megtekintéséhez.",
+    "ro": "În timpul săptămânii pentru o vizită liniștită a descoperirilor arheologice.",
+    "en": "Weekdays for an undisturbed viewing of the archaeological finds."
+  },
+  "audioGuide": {
+    "de": "nein",
+    "hu": "nem",
+    "ro": "nu",
+    "en": "no"
+  }
 }

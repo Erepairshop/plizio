@@ -1,12 +1,57 @@
 {
-  "address": "Olympischer Platz 3, 14053 Berlin",
-  "openingHours": "Daily 09:00-19:00 (Apr-Oct), 10:00-16:00 (Nov-Mar)",
-  "entranceFee": "€11 Erwachsene, €8 Ermäßigt (Besichtigung ohne Führung)",
+  "address": {
+    "de": "Olympischer Platz 3, 14053 Berlin",
+    "hu": "Olympischer Platz 3, 14053 Berlin",
+    "ro": "Olympischer Platz 3, 14053 Berlin",
+    "en": "Olympischer Platz 3, 14053 Berlin"
+  },
+  "openingHours": {
+    "de": "Daily 09:00-19:00 (Apr-Oct), 10:00-16:00 (Nov-Mar)",
+    "hu": "Naponta 09:00-19:00 (ápr-okt), 10:00-16:00 (nov-márc)",
+    "ro": "Zilnic 09:00-19:00 (apr-oct), 10:00-16:00 (nov-martie)",
+    "en": "Daily 09:00-19:00 (Apr-Oct), 10:00-16:00 (Nov-Mar)"
+  },
+  "entranceFee": {
+    "de": "€11 Erwachsene, €8 Ermäßigt (Besichtigung ohne Führung)",
+    "hu": "11 € felnőtteknek, 8 € kedvezményes (túra nélküli látogatás)",
+    "ro": "11 € adulți, 8 € redus (vizitare fără ghid)",
+    "en": "€11 adults, €8 reduced (tour-free visit)"
+  },
   "website": "https://www.olympiastadion.berlin",
-  "publicTransport": "U-Bahn U2 oder S-Bahn S3/S9 bis Olympiastadion",
-  "parking": "Parkplatz Olympischer Platz (außer bei Events meist frei)",
-  "accessibility": "Barrierefrei über Fahrstühle zugänglich",
-  "photoRules": "Erlaubt für private Zwecke, keine Profi-Ausrüstung ohne Genehmigung",
-  "bestTimeToVisit": "An spielfreien Tagen vormittags für Ruhe und freien Blick",
-  "audioGuide": "de, en, fr, es, it"
+  "publicTransport": {
+    "de": "U-Bahn U2 oder S-Bahn S3/S9 bis Olympiastadion",
+    "hu": "U2 metró vagy S3/S9 S-Bahn az Olympiastadionig",
+    "ro": "Metrou U2 sau S-Bahn S3/S9 până la Olympiastadion",
+    "en": "U-Bahn U2 or S-Bahn S3/S9 to Olympiastadion"
+  },
+  "parking": {
+    "de": "Parkplatz Olympischer Platz (außer bei Events meist frei)",
+    "hu": "Olympischer Platz parkoló (eseményeken kívül többnyire szabad)",
+    "ro": "Parcare Olympischer Platz (de obicei liberă în afara evenimentelor)",
+    "en": "Parking Olympischer Platz (mostly free except during events)"
+  },
+  "accessibility": {
+    "de": "Barrierefrei über Fahrstühle zugänglich",
+    "hu": "Liftekkel akadálymentesen megközelíthető",
+    "ro": "Accesibil fără bariere prin lifturi",
+    "en": "Accessible barrier-free via elevators"
+  },
+  "photoRules": {
+    "de": "Erlaubt für private Zwecke, keine Profi-Ausrüstung ohne Genehmigung",
+    "hu": "Megengedett magáncélra, profi felszerelés csak engedéllyel",
+    "ro": "Permis pentru uz privat, fără echipament profesional fără autorizație",
+    "en": "Allowed for private use, no professional equipment without permit"
+  },
+  "bestTimeToVisit": {
+    "de": "An spielfreien Tagen vormittags für Ruhe und freien Blick",
+    "hu": "Játékmentes napokon délelőtt a nyugalomért és a szabad kilátásért",
+    "ro": "În zilele fără meciuri dimineața pentru liniște și vedere liberă",
+    "en": "On non-match days in the morning for peace and a free view"
+  },
+  "audioGuide": {
+    "de": "de, en, fr, es, it",
+    "hu": "német, angol, francia, spanyol, olasz",
+    "ro": "germană, engleză, franceză, spaniolă, italiană",
+    "en": "German, English, French, Spanish, Italian"
+  }
 }

@@ -1,12 +1,57 @@
 {
-  "address": "Rathausmarkt 1, 20095 Hamburg",
-  "openingHours": "Lobby täglich 08:00-20:00, Führungen täglich 11:00-16:00",
-  "entranceFee": "Lobby frei, Führung 6 € Erwachsene",
+  "address": {
+    "de": "Rathausmarkt 1, 20095 Hamburg",
+    "hu": "Rathausmarkt 1, 20095 Hamburg",
+    "ro": "Rathausmarkt 1, 20095 Hamburg",
+    "en": "Rathausmarkt 1, 20095 Hamburg"
+  },
+  "openingHours": {
+    "de": "Lobby täglich 08:00-20:00, Führungen täglich 11:00-16:00",
+    "hu": "Előcsarnok naponta 08:00-20:00, vezetett túrák naponta 11:00-16:00",
+    "ro": "Lobby zilnic 08:00-20:00, tururi zilnic 11:00-16:00",
+    "en": "Lobby daily 08:00-20:00, tours daily 11:00-16:00"
+  },
+  "entranceFee": {
+    "de": "Lobby frei, Führung 6 € Erwachsene",
+    "hu": "Előcsarnok ingyenes, vezetett túra 6 € felnőtt",
+    "ro": "Lobby gratuit, tur 6 € adulți",
+    "en": "Lobby free, tour 6 € adults"
+  },
   "website": "https://www.hamburgische-buergerschaft.de",
-  "publicTransport": "U1/U2/U3/U4 Haltestelle Rathaus",
-  "parking": "Parkhaus Europa Passage, ca. 3,50 €/Std.",
-  "accessibility": "Lobby und Innenhof barrierefrei, Führungen mit Aufzug möglich.",
-  "photoRules": "In der Lobby erlaubt, bei Führungen teils eingeschränkt.",
-  "bestTimeToVisit": "Um 11 Uhr zur ersten Führung des Tages.",
-  "audioGuide": "Deutsch, Englisch, Französisch"
+  "publicTransport": {
+    "de": "U1/U2/U3/U4 Haltestelle Rathaus",
+    "hu": "U1/U2/U3/U4 Rathaus megálló",
+    "ro": "Stația U1/U2/U3/U4 Rathaus",
+    "en": "U1/U2/U3/U4 Rathaus station"
+  },
+  "parking": {
+    "de": "Parkhaus Europa Passage, ca. 3,50 €/Std.",
+    "hu": "Europa Passage parkolóház, kb. 3,50 €/óra.",
+    "ro": "Parcare Europa Passage, aprox. 3,50 €/oră.",
+    "en": "Europa Passage parking, approx. 3.50 €/hr."
+  },
+  "accessibility": {
+    "de": "Lobby und Innenhof barrierefrei, Führungen mit Aufzug möglich.",
+    "hu": "Az előcsarnok és a belső udvar akadálymentes, a vezetett túrák lifttel látogathatók.",
+    "ro": "Lobby-ul și curtea interioară sunt accesibile, tururile sunt posibile cu liftul.",
+    "en": "Lobby and inner courtyard are barrier-free, tours are possible with an elevator."
+  },
+  "photoRules": {
+    "de": "In der Lobby erlaubt, bei Führungen teils eingeschränkt.",
+    "hu": "Az előcsarnokban engedélyezett, a vezetett túrákon részben korlátozott.",
+    "ro": "Permis în lobby, parțial restricționat în timpul tururilor.",
+    "en": "Allowed in the lobby, partially restricted during tours."
+  },
+  "bestTimeToVisit": {
+    "de": "Um 11 Uhr zur ersten Führung des Tages.",
+    "hu": "11 órakor, a nap első vezetett túrájára.",
+    "ro": "La ora 11:00 pentru primul tur al zilei.",
+    "en": "At 11 am for the first tour of the day."
+  },
+  "audioGuide": {
+    "de": "Deutsch, Englisch, Französisch",
+    "hu": "Német, angol, francia",
+    "ro": "Germană, engleză, franceză",
+    "en": "German, English, French"
+  }
 }

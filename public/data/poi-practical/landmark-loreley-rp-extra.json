@@ -1,12 +1,57 @@
 {
-  "address": "Loreley 7, 56348 Bornich",
-  "openingHours": "24/7",
-  "entranceFee": "free",
+  "address": {
+    "de": "Loreley 7, 56348 Bornich",
+    "hu": "Loreley 7, 56348 Bornich",
+    "ro": "Loreley 7, 56348 Bornich",
+    "en": "Loreley 7, 56348 Bornich"
+  },
+  "openingHours": {
+    "de": "24/7",
+    "hu": "0-24 órában",
+    "ro": "Non-stop",
+    "en": "24/7"
+  },
+  "entranceFee": {
+    "de": "free",
+    "hu": "ingyenes",
+    "ro": "gratuit",
+    "en": "free"
+  },
   "website": "https://www.loreley-besucherzentrum.de",
-  "publicTransport": "Bus 595 ab St. Goarshausen Bahnhof",
-  "parking": "Großer Parkplatz auf dem Loreley-Plateau, ca. €3/Tag",
-  "accessibility": "Besucherzentrum und Hauptwege barrierefrei, Treppen zu Felsenpfaden",
-  "photoRules": "Erlaubt, herrlicher Blick auf die Rheinschleife",
-  "bestTimeToVisit": "Später Nachmittag für das goldene Licht im Rheintal",
-  "audioGuide": "de, en (im Besucherzentrum)"
+  "publicTransport": {
+    "de": "Bus 595 ab St. Goarshausen Bahnhof",
+    "hu": "595-ös busz a St. Goarshausen vasútállomástól",
+    "ro": "Autobuzul 595 din gara St. Goarshausen",
+    "en": "Bus 595 from St. Goarshausen train station"
+  },
+  "parking": {
+    "de": "Großer Parkplatz auf dem Loreley-Plateau, ca. €3/Tag",
+    "hu": "Nagy parkoló a Loreley-fennsíkon, kb. 3 €/nap",
+    "ro": "Parcare mare pe platoul Loreley, aprox. 3 €/zi",
+    "en": "Large parking lot on the Loreley plateau, approx. €3/day"
+  },
+  "accessibility": {
+    "de": "Besucherzentrum und Hauptwege barrierefrei, Treppen zu Felsenpfaden",
+    "hu": "Látogatóközpont és főutak akadálymentesek, lépcsők a sziklaösvényekhez",
+    "ro": "Centru de vizitatori și aleile principale accesibile, scări către potecile stâncoase",
+    "en": "Visitor center and main paths barrier-free, stairs to rock paths"
+  },
+  "photoRules": {
+    "de": "Erlaubt, herrlicher Blick auf die Rheinschleife",
+    "hu": "Megengedett, csodálatos kilátás a Rajna-kanyarultra",
+    "ro": "Permis, priveliște minunată asupra buclei Rinului",
+    "en": "Allowed, magnificent view of the Rhine loop"
+  },
+  "bestTimeToVisit": {
+    "de": "Später Nachmittag für das goldene Licht im Rheintal",
+    "hu": "Késő délután az aranyló fényekért a Rajna-völgyben",
+    "ro": "După-amiaza târziu pentru lumina aurie în valea Rinului",
+    "en": "Late afternoon for the golden light in the Rhine valley"
+  },
+  "audioGuide": {
+    "de": "de, en (im Besucherzentrum)",
+    "hu": "német, angol (a látogatóközpontban)",
+    "ro": "germană, engleză (la centrul de vizitatori)",
+    "en": "German, English (at visitor center)"
+  }
 }

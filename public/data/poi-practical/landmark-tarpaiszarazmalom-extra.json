@@ -1,12 +1,57 @@
 {
-  "address": "Árpád u. 30, 4931 Tarpa",
-  "openingHours": "Mo-Fr 08:00-16:00, Sa-So nach vorheriger Anmeldung",
-  "entranceFee": "600 HUF Erwachsene, 400 HUF Kinder",
+  "address": {
+    "de": "Árpád u. 30, 4931 Tarpa",
+    "hu": "Árpád u. 30, 4931 Tarpa",
+    "ro": "Árpád u. 30, 4931 Tarpa",
+    "en": "Árpád u. 30, 4931 Tarpa"
+  },
+  "openingHours": {
+    "de": "Mo-Fr 08:00-16:00, Sa-So nach vorheriger Anmeldung",
+    "hu": "H-P 08:00-16:00, Szo-V előzetes bejelentkezéssel",
+    "ro": "L-Vin 08:00-16:00, Sâm-Dum prin programare prealabilă",
+    "en": "Mon-Fri 08:00-16:00, Sat-Sun by prior arrangement"
+  },
+  "entranceFee": {
+    "de": "600 HUF Erwachsene, 400 HUF Kinder",
+    "hu": "600 HUF felnőtt, 400 HUF gyermek",
+    "ro": "600 HUF adulți, 400 HUF copii",
+    "en": "600 HUF adults, 400 HUF children"
+  },
   "website": "http://www.tarpa.hu/",
-  "publicTransport": "Bus von Nyíregyháza oder Vásárosnamény bis Tarpa, Posta.",
-  "parking": "Kostenloses Parken in den Straßen rund um das Denkmal.",
-  "accessibility": "Eingangsbereich ebenerdig, Besichtigung der Mechanik erfordert Trittsicherheit.",
-  "photoRules": "Erlaubt; das Gebäude ist innen sehr dunkel, Stativ empfohlen.",
-  "bestTimeToVisit": "Während des Pflaumenfestivals im September (Tarpaer Pflaumentage).",
-  "audioGuide": "no"
+  "publicTransport": {
+    "de": "Bus von Nyíregyháza oder Vásárosnamény bis Tarpa, Posta.",
+    "hu": "Busz Nyíregyházáról vagy Vásárosnaményből Tarpa, Posta megállóig.",
+    "ro": "Autobuz din Nyíregyháza sau Vásárosnamény până la Tarpa, Posta.",
+    "en": "Bus from Nyíregyháza or Vásárosnamény to Tarpa, Posta."
+  },
+  "parking": {
+    "de": "Kostenloses Parken in den Straßen rund um das Denkmal.",
+    "hu": "Ingyenes parkolás a műemlék körüli utcákban.",
+    "ro": "Parcare gratuită pe străzile din jurul monumentului.",
+    "en": "Free parking on the streets around the monument."
+  },
+  "accessibility": {
+    "de": "Eingangsbereich ebenerdig, Besichtigung der Mechanik erfordert Trittsicherheit.",
+    "hu": "A bejárat szintbeli, a gépezet megtekintése lépcsőzést igényel.",
+    "ro": "Intrarea este la nivelul solului, vizitarea mecanismului necesită stabilitate.",
+    "en": "Entrance area ground-level, viewing the mechanism requires stability."
+  },
+  "photoRules": {
+    "de": "Erlaubt; das Gebäude ist innen sehr dunkel, Stativ empfohlen.",
+    "hu": "Megengedett; az épület belül nagyon sötét, állvány ajánlott.",
+    "ro": "Permis; clădirea este foarte întunecată în interior, se recomandă trepied.",
+    "en": "Allowed; the building is very dark inside, tripod recommended."
+  },
+  "bestTimeToVisit": {
+    "de": "Während des Pflaumenfestivals im September (Tarpaer Pflaumentage).",
+    "hu": "A szeptemberi Szilvanapok idején (Tarpa-napi Szilvanapok).",
+    "ro": "În timpul festivalului prunelor din septembrie (Zilele Prunelor la Tarpa).",
+    "en": "During the plum festival in September (Tarpa Plum Days)."
+  },
+  "audioGuide": {
+    "de": "no",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

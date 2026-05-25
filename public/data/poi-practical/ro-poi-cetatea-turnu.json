@@ -1,12 +1,57 @@
 {
-  "address": "Strada Portului, 145200 Turnu Măgurele",
-  "openingHours": "24/7",
-  "entranceFee": "free",
+  "address": {
+    "de": "Strada Portului, 145200 Turnu Măgurele",
+    "hu": "Strada Portului, 145200 Turnu Măgurele",
+    "ro": "Strada Portului, 145200 Turnu Măgurele",
+    "en": "Strada Portului, 145200 Turnu Măgurele"
+  },
+  "openingHours": {
+    "de": "24/7",
+    "hu": "Non-stop",
+    "ro": "24/7",
+    "en": "24/7"
+  },
+  "entranceFee": {
+    "de": "free",
+    "hu": "ingyenes",
+    "ro": "gratuit",
+    "en": "free"
+  },
   "website": "",
-  "publicTransport": "Bus bis Turnu Măgurele, dann Taxi",
-  "parking": "Parkmöglichkeiten in der Nähe der Ruinen",
-  "accessibility": "Teilweise zugänglich, unebener Boden",
-  "photoRules": "Erlaubt",
-  "bestTimeToVisit": "Tagsüber bei trockenem Wetter",
-  "audioGuide": "no"
+  "publicTransport": {
+    "de": "Bus bis Turnu Măgurele, dann Taxi",
+    "hu": "Busz Turnu Măgureléig, majd taxi",
+    "ro": "Autobuz până la Turnu Măgurele, apoi taxi",
+    "en": "Bus to Turnu Măgurele, then taxi"
+  },
+  "parking": {
+    "de": "Parkmöglichkeiten in der Nähe der Ruinen",
+    "hu": "Parkolási lehetőség a romok közelében",
+    "ro": "Posibilități de parcare lângă ruine",
+    "en": "Parking near the ruins"
+  },
+  "accessibility": {
+    "de": "Teilweise zugänglich, unebener Boden",
+    "hu": "Részben megközelíthető, egyenetlen talaj",
+    "ro": "Parțial accesibil, sol inegal",
+    "en": "Partially accessible, uneven ground"
+  },
+  "photoRules": {
+    "de": "Erlaubt",
+    "hu": "Engedélyezett",
+    "ro": "Permis",
+    "en": "Allowed"
+  },
+  "bestTimeToVisit": {
+    "de": "Tagsüber bei trockenem Wetter",
+    "hu": "Nappal, száraz időben",
+    "ro": "Ziua, pe timp uscat",
+    "en": "Daytime in dry weather"
+  },
+  "audioGuide": {
+    "de": "no",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

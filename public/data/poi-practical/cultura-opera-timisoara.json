@@ -1,12 +1,57 @@
 {
-  "address": "Str. Mărășești 2, 300086 Timișoara",
-  "openingHours": "Kasse Di-So 11:00-19:00, Mo geschlossen",
-  "entranceFee": "30-80 RON pro Ticket",
+  "address": {
+    "de": "Str. Mărășești 2, 300086 Timișoara",
+    "hu": "Mărășești utca 2, 300086 Temesvár",
+    "ro": "Str. Mărășești 2, 300086 Timișoara",
+    "en": "2 Mărășești St, 300086 Timișoara"
+  },
+  "openingHours": {
+    "de": "Kasse Di-So 11:00-19:00, Mo geschlossen",
+    "hu": "Pénztár K-V 11:00-19:00, hétfőn zárva",
+    "ro": "Casierie Ma-Du 11:00-19:00, Luni închis",
+    "en": "Ticket office Tue-Sun 11:00-19:00, closed Mondays"
+  },
+  "entranceFee": {
+    "de": "30-80 RON pro Ticket",
+    "hu": "30-80 RON jegyenként",
+    "ro": "30-80 RON per bilet",
+    "en": "30-80 RON per ticket"
+  },
   "website": "https://www.ort.ro/",
-  "publicTransport": "Straßenbahn Linien 1, 2, 4 (Haltestelle Piața Victoriei)",
-  "parking": "Parkplätze hinter dem Gebäude (Str. Mărășești) oder am Hotel Timișoara.",
-  "accessibility": "Haupteingang hat Stufen; Hilfe für Rollstuhlfahrer am Seiteneingang möglich.",
-  "photoRules": "Aufnahmen im prachtvollen Saal nur vor/nach der Aufführung gestattet.",
-  "bestTimeToVisit": "Während des 'Timișoara Muzicală' Festivals im Frühjahr.",
-  "audioGuide": "no"
+  "publicTransport": {
+    "de": "Straßenbahn Linien 1, 2, 4 (Haltestelle Piața Victoriei)",
+    "hu": "1, 2, 4-es villamos (Piața Victoriei megálló)",
+    "ro": "Liniile de tramvai 1, 2, 4 (stația Piața Victoriei)",
+    "en": "Tram lines 1, 2, 4 (Piața Victoriei station)"
+  },
+  "parking": {
+    "de": "Parkplätze hinter dem Gebäude (Str. Mărășești) oder am Hotel Timișoara.",
+    "hu": "Parkolóhelyek az épület mögött (Mărășești utca) vagy a Hotel Timișoaránál.",
+    "ro": "Locuri de parcare în spatele clădirii (Str. Mărășești) sau la Hotel Timișoara.",
+    "en": "Parking spaces behind the building (Mărășești St) or at Hotel Timișoara."
+  },
+  "accessibility": {
+    "de": "Haupteingang hat Stufen; Hilfe für Rollstuhlfahrer am Seiteneingang möglich.",
+    "hu": "A főbejáratnál lépcsők vannak; kerekesszékes segítség az oldalsó bejáratnál igényelhető.",
+    "ro": "Intrarea principală are trepte; asistență pentru persoanele în scaun cu rotile este posibilă la intrarea laterală.",
+    "en": "Main entrance has steps; assistance for wheelchair users available at the side entrance."
+  },
+  "photoRules": {
+    "de": "Aufnahmen im prachtvollen Saal nur vor/nach der Aufführung gestattet.",
+    "hu": "A díszteremben csak az előadás előtt vagy után szabad felvételeket készíteni.",
+    "ro": "Înregistrarea în sala splendidă este permisă doar înainte/după spectacol.",
+    "en": "Photography in the magnificent hall allowed only before or after the performance."
+  },
+  "bestTimeToVisit": {
+    "de": "Während des 'Timișoara Muzicală' Festivals im Frühjahr.",
+    "hu": "A tavaszi 'Timișoara Muzicală' fesztivál idején.",
+    "ro": "În timpul festivalului 'Timișoara Muzicală' din primăvară.",
+    "en": "During the 'Timișoara Muzicală' festival in spring."
+  },
+  "audioGuide": {
+    "de": "no",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

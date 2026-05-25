@@ -1,12 +1,57 @@
 {
-  "address": "Landesweit in ganz Rumänien (Kirchen und Flüsse)",
-  "openingHours": "Jährlich am 6. Januar",
-  "entranceFee": "kostenlos",
+  "address": {
+    "de": "Landesweit in ganz Rumänien (Kirchen und Flüsse)",
+    "hu": "Országszerte egész Romániában (templomok és folyók)",
+    "ro": "La nivel național în toată România (biserici și râuri)",
+    "en": "Nationwide across all of Romania (churches and rivers)"
+  },
+  "openingHours": {
+    "de": "Jährlich am 6. Januar",
+    "hu": "Évente január 6-án",
+    "ro": "Anual pe 6 ianuarie",
+    "en": "Annually on January 6th"
+  },
+  "entranceFee": {
+    "de": "kostenlos",
+    "hu": "ingyenes",
+    "ro": "gratuit",
+    "en": "free"
+  },
   "website": "",
-  "publicTransport": "Innerhalb jeder Ortschaft erreichbar.",
-  "parking": "In der Nähe großer Kirchen am Feiertag oft überfüllt.",
-  "accessibility": "Abhängig vom Standort (oft im Freien an Gewässern).",
-  "photoRules": "Respektvolles Fotografieren während religiöser Zeremonien erlaubt.",
-  "bestTimeToVisit": "Vormittags während des Gottesdienstes und der Wasserweihe.",
-  "audioGuide": "nein"
+  "publicTransport": {
+    "de": "Innerhalb jeder Ortschaft erreichbar.",
+    "hu": "Minden településen belül elérhető.",
+    "ro": "Accesibil în cadrul fiecărei localități.",
+    "en": "Accessible within every town."
+  },
+  "parking": {
+    "de": "In der Nähe großer Kirchen am Feiertag oft überfüllt.",
+    "hu": "Az ünnepnapon a nagyobb templomok közelében gyakran zsúfolt.",
+    "ro": "Adesea aglomerat în apropierea bisericilor mari în ziua sărbătorii.",
+    "en": "Often crowded near major churches on the holiday."
+  },
+  "accessibility": {
+    "de": "Abhängig vom Standort (oft im Freien an Gewässern).",
+    "hu": "Helyszíntől függ (gyakran szabadban, vizek közelében).",
+    "ro": "Depinde de locație (adesea în aer liber, lângă ape).",
+    "en": "Depends on location (often outdoors near water)."
+  },
+  "photoRules": {
+    "de": "Respektvolles Fotografieren während religiöser Zeremonien erlaubt.",
+    "hu": "A vallási szertartások alatt a tiszteletteljes fényképezés megengedett.",
+    "ro": "Fotografierea respectuoasă în timpul ceremoniilor religioase este permisă.",
+    "en": "Respectful photography allowed during religious ceremonies."
+  },
+  "bestTimeToVisit": {
+    "de": "Vormittags während des Gottesdienstes und der Wasserweihe.",
+    "hu": "Délelőtt, az istentisztelet és a vízszentelés alatt.",
+    "ro": "Dimineața în timpul slujbei și al sfințirii apei.",
+    "en": "In the morning during the mass and water blessing."
+  },
+  "audioGuide": {
+    "de": "nein",
+    "hu": "nem",
+    "ro": "nu",
+    "en": "no"
+  }
 }

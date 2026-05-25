@@ -1,12 +1,57 @@
 {
-  "address": "Öregvár utca, 6640 Csongrád",
-  "openingHours": "24/7",
-  "entranceFee": "kostenlos",
+  "address": {
+    "de": "Öregvár utca, 6640 Csongrád",
+    "hu": "Öregvár utca, 6640 Csongrád",
+    "ro": "Öregvár utca, 6640 Csongrád",
+    "en": "Öregvár utca, 6640 Csongrád"
+  },
+  "openingHours": {
+    "de": "24/7",
+    "hu": "24/7",
+    "ro": "Non-stop",
+    "en": "24/7"
+  },
+  "entranceFee": {
+    "de": "kostenlos",
+    "hu": "ingyenes",
+    "ro": "gratuit",
+    "en": "free"
+  },
   "website": "https://csongrad.hu/",
-  "publicTransport": "Busbahnhof Csongrád, dann ca. 15 Min. Fussweg Richtung Theiss-Ufer.",
-  "parking": "Kostenlose Parkplätze in den Strassen rund um das denkmalgeschützte Viertel.",
-  "accessibility": "Historisches Kopfsteinpflaster; für Rollstuhlnutzer nur eingeschränkt befahrbar.",
-  "photoRules": "Erlaubt; die reetgedeckten Fischerhäuser sind beliebte Motive.",
-  "bestTimeToVisit": "In der goldenen Stunde kurz vor Sonnenuntergang für warme Farben auf dem Schilf.",
-  "audioGuide": "no"
+  "publicTransport": {
+    "de": "Busbahnhof Csongrád, dann ca. 15 Min. Fussweg Richtung Theiss-Ufer.",
+    "hu": "Csongrád buszpályaudvar, majd kb. 15 perc gyalog a Tisza-part felé.",
+    "ro": "Autogara Csongrád, apoi aprox. 15 minute de mers pe jos spre malul Tisei.",
+    "en": "Csongrád bus station, then approx. 15 min. walk towards the Tisza bank."
+  },
+  "parking": {
+    "de": "Kostenlose Parkplätze in den Strassen rund um das denkmalgeschützte Viertel.",
+    "hu": "Ingyenes parkolás a műemléki negyed körüli utcákban.",
+    "ro": "Parcări gratuite pe străzile din jurul cartierului protejat.",
+    "en": "Free parking in the streets around the heritage quarter."
+  },
+  "accessibility": {
+    "de": "Historisches Kopfsteinpflaster; für Rollstuhlnutzer nur eingeschränkt befahrbar.",
+    "hu": "Történelmi macskakő; kerekesszékesek számára csak korlátozottan járható.",
+    "ro": "Pavaj istoric; acces limitat pentru utilizatorii de scaune cu rotile.",
+    "en": "Historic cobblestone; limited accessibility for wheelchair users."
+  },
+  "photoRules": {
+    "de": "Erlaubt; die reetgedeckten Fischerhäuser sind beliebte Motive.",
+    "hu": "Engedélyezett; a nádfedeles halászházak népszerű témák.",
+    "ro": "Permis; casele pescărești acoperite cu stuf sunt motive populare.",
+    "en": "Allowed; the thatched fishermen's houses are popular subjects."
+  },
+  "bestTimeToVisit": {
+    "de": "In der goldenen Stunde kurz vor Sonnenuntergang für warme Farben auf dem Schilf.",
+    "hu": "Az aranyórában, napnyugta előtt a nádtetők meleg színeiért.",
+    "ro": "În ora de aur chiar înainte de apus pentru culori calde pe stuf.",
+    "en": "During the golden hour just before sunset for warm colors on the reeds."
+  },
+  "audioGuide": {
+    "de": "no",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

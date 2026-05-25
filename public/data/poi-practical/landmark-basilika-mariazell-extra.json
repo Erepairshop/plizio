@@ -1,12 +1,57 @@
 {
-  "address": "Benediktusplatz 1, 8630 Mariazell, Österreich",
-  "openingHours": "Täglich 07:30-20:00 (Sommersaison), im Winter verkürzt",
-  "entranceFee": "Basilika frei; Schatzkammern €7 Erwachsene",
+  "address": {
+    "de": "Benediktusplatz 1, 8630 Mariazell, Österreich",
+    "hu": "Benediktusplatz 1, 8630 Mariazell, Ausztria",
+    "ro": "Benediktusplatz 1, 8630 Mariazell, Austria",
+    "en": "Benediktusplatz 1, 8630 Mariazell, Austria"
+  },
+  "openingHours": {
+    "de": "Täglich 07:30-20:00 (Sommersaison), im Winter verkürzt",
+    "hu": "Naponta 07:30-20:00 (nyári szezon), télen rövidített nyitvatartás",
+    "ro": "Zilnic 07:30-20:00 (sezonul de vară), iarna program scurtat",
+    "en": "Daily 07:30-20:00 (summer season), reduced in winter"
+  },
+  "entranceFee": {
+    "de": "Basilika frei; Schatzkammern €7 Erwachsene",
+    "hu": "A bazilika ingyenes; kincstár 7 € felnőtteknek",
+    "ro": "Bazilica gratuit; tezaurul 7 € adulți",
+    "en": "Basilica free; treasury €7 for adults"
+  },
   "website": "https://www.basilika-mariazell.at/",
-  "publicTransport": "Mariazellerbahn bis Endstation Mariazell, dann 10 Min Fußweg",
-  "parking": "Zentrale Parkplätze P1-P4 am Ortsrand (gebührenpflichtig)",
-  "accessibility": "Vollständig barrierefrei über den Haupteingang erreichbar",
-  "photoRules": "Erlaubt (respektvoll, außerhalb der Gottesdienstzeiten)",
-  "bestTimeToVisit": "Während der stimmungsvollen Lichterprozessionen an Sommerabenden",
-  "audioGuide": "Führungen vor Ort buchbar"
+  "publicTransport": {
+    "de": "Mariazellerbahn bis Endstation Mariazell, dann 10 Min Fußweg",
+    "hu": "Mariazellerbahn a végállomásig, majd 10 perc séta",
+    "ro": "Mariazellerbahn până la stația finală, apoi 10 minute pe jos",
+    "en": "Mariazellerbahn to the final stop, then 10 min walk"
+  },
+  "parking": {
+    "de": "Zentrale Parkplätze P1-P4 am Ortsrand (gebührenpflichtig)",
+    "hu": "Központi parkolók P1-P4 a város szélén (fizetős)",
+    "ro": "Parcări centrale P1-P4 la marginea orașului (cu taxă)",
+    "en": "Central parking P1-P4 at the edge of town (paid)"
+  },
+  "accessibility": {
+    "de": "Vollständig barrierefrei über den Haupteingang erreichbar",
+    "hu": "Teljesen akadálymentesített a főbejáraton keresztül",
+    "ro": "Complet accesibil prin intrarea principală",
+    "en": "Fully accessible via the main entrance"
+  },
+  "photoRules": {
+    "de": "Erlaubt (respektvoll, außerhalb der Gottesdienstzeiten)",
+    "hu": "Engedélyezett (tiszteletteljesen, istentiszteleti időn kívül)",
+    "ro": "Permis (cu respect, în afara orelor de liturghie)",
+    "en": "Allowed (respectfully, outside service hours)"
+  },
+  "bestTimeToVisit": {
+    "de": "Während der stimmungsvollen Lichterprozessionen an Sommerabenden",
+    "hu": "A nyári esték hangulatos fáklyás körmenetek alatt",
+    "ro": "În timpul procesiunilor cu lumânări în serile de vară",
+    "en": "During the atmospheric candlelight processions on summer evenings"
+  },
+  "audioGuide": {
+    "de": "Führungen vor Ort buchbar",
+    "hu": "Helyszíni idegenvezetés foglalható",
+    "ro": "Tururi ghidate disponibile la fața locului",
+    "en": "Guided tours can be booked on-site"
+  }
 }

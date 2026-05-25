@@ -1,12 +1,57 @@
 {
-  "address": "Marktplatz, 17489 Greifswald",
-  "openingHours": "24/7",
-  "entranceFee": "kostenlos",
+  "address": {
+    "de": "Marktplatz, 17489 Greifswald",
+    "hu": "Marktplatz, 17489 Greifswald",
+    "ro": "Marktplatz, 17489 Greifswald",
+    "en": "Marktplatz, 17489 Greifswald"
+  },
+  "openingHours": {
+    "de": "24/7",
+    "hu": "24/7",
+    "ro": "24/7",
+    "en": "24/7"
+  },
+  "entranceFee": {
+    "de": "kostenlos",
+    "hu": "ingyenes",
+    "ro": "gratuit",
+    "en": "free"
+  },
   "website": "https://www.greifswald.de",
-  "publicTransport": "Vom Hauptbahnhof ca. 10 Min Fußweg durch die Fußgängerzone.",
-  "parking": "Parkplatz am Hansering, ca. 1,50 €/Std.",
-  "accessibility": "Marktplatz barrierefrei gepflastert.",
-  "photoRules": "Uneingeschränkt erlaubt.",
-  "bestTimeToVisit": "Donnerstags zum Markttag für lokales Flair.",
-  "audioGuide": "no"
+  "publicTransport": {
+    "de": "Vom Hauptbahnhof ca. 10 Min Fußweg durch die Fußgängerzone.",
+    "hu": "A főpályaudvartól kb. 10 perc séta a sétálóutcán keresztül.",
+    "ro": "De la gara centrală, aproximativ 10 minute de mers pe jos prin zona pietonală.",
+    "en": "Approx. 10 min walk from the main station through the pedestrian area."
+  },
+  "parking": {
+    "de": "Parkplatz am Hansering, ca. 1,50 €/Std.",
+    "hu": "Parkoló a Hanseringen, kb. 1,50 €/óra.",
+    "ro": "Parcare la Hansering, aprox. 1,50 €/oră.",
+    "en": "Parking at Hansering, approx. €1.50/hr."
+  },
+  "accessibility": {
+    "de": "Marktplatz barrierefrei gepflastert.",
+    "hu": "A főtér akadálymentesen burkolt.",
+    "ro": "Piața centrală este pavată accesibil.",
+    "en": "Market square is paved accessibly."
+  },
+  "photoRules": {
+    "de": "Uneingeschränkt erlaubt.",
+    "hu": "Korlátozás nélkül megengedett.",
+    "ro": "Permis nelimitat.",
+    "en": "Unrestricted allowed."
+  },
+  "bestTimeToVisit": {
+    "de": "Donnerstags zum Markttag für lokales Flair.",
+    "hu": "Csütörtökönként, a piaci napon a helyi hangulatért.",
+    "ro": "Joia, în ziua de piață, pentru farmecul local.",
+    "en": "Thursdays for market day to experience local flair."
+  },
+  "audioGuide": {
+    "de": "no",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

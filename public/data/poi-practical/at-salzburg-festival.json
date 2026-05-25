@@ -1,12 +1,57 @@
 {
-  "address": "Hofstallgasse 1, 5020 Salzburg",
-  "openingHours": "Abhängig vom Spielplan",
-  "entranceFee": "Preise variieren stark je nach Aufführung",
+  "address": {
+    "de": "Hofstallgasse 1, 5020 Salzburg",
+    "hu": "Hofstallgasse 1, 5020 Salzburg",
+    "ro": "Hofstallgasse 1, 5020 Salzburg",
+    "en": "Hofstallgasse 1, 5020 Salzburg"
+  },
+  "openingHours": {
+    "de": "Abhängig vom Spielplan",
+    "hu": "A műsortól függően",
+    "ro": "În funcție de program",
+    "en": "Depending on the schedule"
+  },
+  "entranceFee": {
+    "de": "Preise variieren stark je nach Aufführung",
+    "hu": "Az árak előadástól függően erősen változnak",
+    "ro": "Prețurile variază mult în funcție de spectacol",
+    "en": "Prices vary greatly depending on the performance"
+  },
   "website": "https://www.salzburgerfestspiele.at",
-  "publicTransport": "Bus 1, 8, 10 (Herbert-von-Karajan-Platz)",
-  "parking": "Altstadtgarage B (Mönchsberg), ermäßigt mit Ticket.",
-  "accessibility": "Spielstätten sind weitgehend barrierefrei.",
-  "photoRules": "Während der Vorstellungen streng verboten.",
-  "bestTimeToVisit": "Während der Festspiele im Juli und August.",
-  "audioGuide": "nein"
+  "publicTransport": {
+    "de": "Bus 1, 8, 10 (Herbert-von-Karajan-Platz)",
+    "hu": "1, 8, 10-es busz (Herbert-von-Karajan-Platz)",
+    "ro": "Autobuz 1, 8, 10 (Herbert-von-Karajan-Platz)",
+    "en": "Bus 1, 8, 10 (Herbert-von-Karajan-Platz)"
+  },
+  "parking": {
+    "de": "Altstadtgarage B (Mönchsberg), ermäßigt mit Ticket.",
+    "hu": "Altstadtgarage B (Mönchsberg), jeggyel kedvezményes.",
+    "ro": "Altstadtgarage B (Mönchsberg), redus cu bilet.",
+    "en": "Altstadtgarage B (Mönchsberg), discounted with ticket."
+  },
+  "accessibility": {
+    "de": "Spielstätten sind weitgehend barrierefrei.",
+    "hu": "A játszóhelyek nagy részben akadálymentesek.",
+    "ro": "Locurile de desfășurare sunt în mare parte accesibile fără bariere.",
+    "en": "Venues are largely barrier-free."
+  },
+  "photoRules": {
+    "de": "Während der Vorstellungen streng verboten.",
+    "hu": "Az előadások alatt szigorúan tilos.",
+    "ro": "Strict interzis în timpul spectacolelor.",
+    "en": "Strictly prohibited during performances."
+  },
+  "bestTimeToVisit": {
+    "de": "Während der Festspiele im Juli und August.",
+    "hu": "Az ünnepi játékok alatt, júliusban és augusztusban.",
+    "ro": "În timpul festivalului în iulie și august.",
+    "en": "During the festival in July and August."
+  },
+  "audioGuide": {
+    "de": "nein",
+    "hu": "nem",
+    "ro": "nu",
+    "en": "no"
+  }
 }

@@ -1,12 +1,57 @@
 {
-  "address": "Sat Chișcău, 417366 Pietroasa, Bihor",
-  "openingHours": "Tu-Su 10:00-17:00, closed Mondays",
-  "entranceFee": "30 RON Erwachsene, 15 RON Kinder",
+  "address": {
+    "de": "Sat Chișcău, 417366 Pietroasa, Bihor",
+    "hu": "Sat Chișcău, 417366 Pietroasa, Bihar",
+    "ro": "Sat Chișcău, 417366 Pietroasa, Bihor",
+    "en": "Sat Chișcău, 417366 Pietroasa, Bihor"
+  },
+  "openingHours": {
+    "de": "Tu-Su 10:00-17:00, closed Mondays",
+    "hu": "K-V 10:00-17:00, hétfőn zárva",
+    "ro": "Ma-Du 10:00-17:00, luni închis",
+    "en": "Tue-Sun 10:00-17:00, closed Mondays"
+  },
+  "entranceFee": {
+    "de": "30 RON Erwachsene, 15 RON Kinder",
+    "hu": "30 RON felnőttek, 15 RON gyerekek",
+    "ro": "30 RON adulți, 15 RON copii",
+    "en": "30 RON adults, 15 RON children"
+  },
   "website": "",
-  "publicTransport": "Kein direkter ÖPNV; Anfahrt per PKW von Oradea oder Beiuș",
-  "parking": "Gebührenpflichtiger Parkplatz im Dorf Chișcău, ca. 5-10 RON",
-  "accessibility": "Gut ausgebaut mit betonierten Wegen und Geländern, aber Stufen vorhanden",
-  "photoRules": "Zusätzliche Gebühr (ca. 10-20 RON) für das Fotografieren im Inneren",
-  "bestTimeToVisit": "Direkt bei Öffnung, um Wartezeiten bei den geführten Gruppen zu vermeiden",
-  "audioGuide": "no"
+  "publicTransport": {
+    "de": "Kein direkter ÖPNV; Anfahrt per PKW von Oradea oder Beiuș",
+    "hu": "Nincs közvetlen tömegközlekedés; autóval közelíthető meg Nagyváradról vagy Belényesről",
+    "ro": "Fără transport public direct; accesibil cu mașina din Oradea sau Beiuș",
+    "en": "No direct public transport; access by car from Oradea or Beiuș"
+  },
+  "parking": {
+    "de": "Gebührenpflichtiger Parkplatz im Dorf Chișcău, ca. 5-10 RON",
+    "hu": "Fizetős parkoló Chișcău faluban, kb. 5-10 RON",
+    "ro": "Parcare cu plată în satul Chișcău, cca. 5-10 RON",
+    "en": "Paid parking in the village of Chișcău, approx. 5-10 RON"
+  },
+  "accessibility": {
+    "de": "Gut ausgebaut mit betonierten Wegen und Geländern, aber Stufen vorhanden",
+    "hu": "Jól kiépített betonozott utakkal és korlátokkal, de vannak lépcsők",
+    "ro": "Bine amenajată cu alei betonate și balustrade, dar există trepte",
+    "en": "Well-developed with concrete paths and railings, but steps exist"
+  },
+  "photoRules": {
+    "de": "Zusätzliche Gebühr (ca. 10-20 RON) für das Fotografieren im Inneren",
+    "hu": "További díj (kb. 10-20 RON) a belső fényképezésért",
+    "ro": "Taxă suplimentară (cca. 10-20 RON) pentru fotografierea în interior",
+    "en": "Additional fee (approx. 10-20 RON) for photography inside"
+  },
+  "bestTimeToVisit": {
+    "de": "Direkt bei Öffnung, um Wartezeiten bei den geführten Gruppen zu vermeiden",
+    "hu": "Nyitáskor, a vezetett csoportok várakozási idejének elkerülése érdekében",
+    "ro": "Imediat la deschidere, pentru a evita timpii de așteptare la grupurile ghidate",
+    "en": "Right at opening time to avoid waiting times for guided groups"
+  },
+  "audioGuide": {
+    "de": "no",
+    "hu": "nem",
+    "ro": "nu",
+    "en": "no"
+  }
 }

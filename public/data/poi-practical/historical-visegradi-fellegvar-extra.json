@@ -1,12 +1,57 @@
 {
-  "address": "Várhegy, 2025 Visegrád",
-  "openingHours": "Täglich 09:00-18:00 (März-Oktober), sonst bis 16:00",
-  "entranceFee": "2500 HUF Erwachsene, 1250 HUF Studenten/Senioren",
+  "address": {
+    "de": "Várhegy, 2025 Visegrád",
+    "hu": "Várhegy, 2025 Visegrád",
+    "ro": "Várhegy, 2025 Visegrád",
+    "en": "Várhegy, 2025 Visegrád"
+  },
+  "openingHours": {
+    "de": "Täglich 09:00-18:00 (März-Oktober), sonst bis 16:00",
+    "hu": "Naponta 09:00-18:00 (március-október), egyébként 16:00-ig",
+    "ro": "Zilnic 09:00-18:00 (martie-octombrie), în rest până la 16:00",
+    "en": "Daily 09:00-18:00 (March-October), otherwise until 16:00"
+  },
+  "entranceFee": {
+    "de": "2500 HUF Erwachsene, 1250 HUF Studenten/Senioren",
+    "hu": "2500 HUF felnőttek, 1250 HUF diákok/nyugdíjasok",
+    "ro": "2500 HUF adulți, 1250 HUF studenți/pensionari",
+    "en": "2500 HUF adults, 1250 HUF students/seniors"
+  },
   "website": "https://www.visegrad.hu/",
-  "publicTransport": "Bus von Budapest Árpád híd bis Visegrád, dann 40 Min. Fußweg bergauf.",
-  "parking": "Kostenpflichtiger Parkplatz direkt unterhalb der Burg vorhanden.",
-  "accessibility": "Nicht barrierefrei; viele steile Treppen und unebene Pfade.",
-  "photoRules": "Fotografieren für private Zwecke im gesamten Burgareal erlaubt.",
-  "bestTimeToVisit": "Bei Sonnenuntergang für den spektakulärsten Blick auf das Donauknie.",
-  "audioGuide": "hu, en, de"
+  "publicTransport": {
+    "de": "Bus von Budapest Árpád híd bis Visegrád, dann 40 Min. Fußweg bergauf.",
+    "hu": "Busz Budapest Árpád hídtól Visegrádig, majd 40 perc séta felfelé.",
+    "ro": "Autobuz de la Budapest Árpád híd până la Visegrád, apoi 40 minute de urcat pe jos.",
+    "en": "Bus from Budapest Árpád híd to Visegrád, then a 40-minute walk uphill."
+  },
+  "parking": {
+    "de": "Kostenpflichtiger Parkplatz direkt unterhalb der Burg vorhanden.",
+    "hu": "Fizetős parkoló közvetlenül a vár alatt.",
+    "ro": "Parcare cu plată disponibilă direct sub castel.",
+    "en": "Paid parking available directly below the castle."
+  },
+  "accessibility": {
+    "de": "Nicht barrierefrei; viele steile Treppen und unebene Pfade.",
+    "hu": "Nem akadálymentes; sok meredek lépcső és egyenetlen ösvény.",
+    "ro": "Nu este accesibil; multe scări abrupte și poteci inegale.",
+    "en": "Not accessible; many steep stairs and uneven paths."
+  },
+  "photoRules": {
+    "de": "Fotografieren für private Zwecke im gesamten Burgareal erlaubt.",
+    "hu": "Magáncélú fényképezés az egész vár területén engedélyezett.",
+    "ro": "Fotografierea în scop privat permisă în toată incinta castelului.",
+    "en": "Photography for private purposes allowed throughout the castle area."
+  },
+  "bestTimeToVisit": {
+    "de": "Bei Sonnenuntergang für den spektakulärsten Blick auf das Donauknie.",
+    "hu": "Napnyugtakor a leglátványosabb kilátásért a Dunakanyarra.",
+    "ro": "La apus pentru cea mai spectaculoasă vedere asupra cotului Dunării.",
+    "en": "At sunset for the most spectacular view of the Danube Bend."
+  },
+  "audioGuide": {
+    "de": "hu, en, de",
+    "hu": "hu, en, de",
+    "ro": "hu, en, de",
+    "en": "hu, en, de"
+  }
 }

@@ -1,12 +1,57 @@
 {
-  "address": "Szent István tér 1, 2500 Esztergom",
-  "openingHours": "Mo-So 09:00-18:00 (Kirche), Schatzkammer/Kuppel abweichend",
-  "entranceFee": "Kirche kostenlos, Kuppel/Schatzkammer kostenpflichtig (ca. 1000-2000 HUF)",
+  "address": {
+    "de": "Szent István tér 1, 2500 Esztergom",
+    "hu": "Szent István tér 1, 2500 Esztergom",
+    "ro": "Szent István tér 1, 2500 Esztergom",
+    "en": "Szent István tér 1, 2500 Esztergom"
+  },
+  "openingHours": {
+    "de": "Mo-So 09:00-18:00 (Kirche), Schatzkammer/Kuppel abweichend",
+    "hu": "H-V 09:00-18:00 (templom), kincstár/kupol látogatás eltérő",
+    "ro": "Lu-Du 09:00-18:00 (biserică), vizitarea tezaurului/cupolei diferă",
+    "en": "Mon-Sun 09:00-18:00 (church), treasury/dome opening hours differ"
+  },
+  "entranceFee": {
+    "de": "Kirche kostenlos, Kuppel/Schatzkammer kostenpflichtig (ca. 1000-2000 HUF)",
+    "hu": "A templom ingyenes, a kupola/kincstár belépős (kb. 1000-2000 HUF)",
+    "ro": "Biserica gratuită, cupola/tezaurul cu plată (aprox. 1000-2000 HUF)",
+    "en": "Church free, dome/treasury paid (approx. 1000-2000 HUF)"
+  },
   "website": "https://www.bazilika-esztergom.hu",
-  "publicTransport": "Bus vom Bahnhof Esztergom oder Budapest-Nyugati per Zug",
-  "parking": "Großer gebührenpflichtiger Parkplatz direkt am Domplatz",
-  "accessibility": "Kirche barrierefrei zugänglich, Kuppel nur über Treppen",
-  "photoRules": "Erlaubt ohne Blitz während der Besichtigungszeiten (nicht während der Messe)",
-  "bestTimeToVisit": "Sonnenuntergang auf der Terrasse hinter der Basilika",
-  "audioGuide": "verfügbar in 6 Sprachen"
+  "publicTransport": {
+    "de": "Bus vom Bahnhof Esztergom oder Budapest-Nyugati per Zug",
+    "hu": "Busz az Esztergom vasútállomásról vagy vonat a Budapest-Nyugatiból",
+    "ro": "Autobuz din gara Esztergom sau tren din Budapest-Nyugati",
+    "en": "Bus from Esztergom station or train from Budapest-Nyugati"
+  },
+  "parking": {
+    "de": "Großer gebührenpflichtiger Parkplatz direkt am Domplatz",
+    "hu": "Nagy fizetős parkoló közvetlenül a Dóm téren",
+    "ro": "Parcare mare cu plată chiar în Piața Domului",
+    "en": "Large paid parking directly at the Cathedral Square"
+  },
+  "accessibility": {
+    "de": "Kirche barrierefrei zugänglich, Kuppel nur über Treppen",
+    "hu": "A templom akadálymentesen megközelíthető, a kupola csak lépcsőkön át",
+    "ro": "Biserica accesibilă, cupola doar pe scări",
+    "en": "Church accessible, dome only via stairs"
+  },
+  "photoRules": {
+    "de": "Erlaubt ohne Blitz während der Besichtigungszeiten (nicht während der Messe)",
+    "hu": "Engedélyezett vaku nélkül a látogatási időben (mise alatt nem)",
+    "ro": "Permis fără bliț în timpul orelor de vizitare (nu în timpul slujbei)",
+    "en": "Allowed without flash during visiting hours (not during mass)"
+  },
+  "bestTimeToVisit": {
+    "de": "Sonnenuntergang auf der Terrasse hinter der Basilika",
+    "hu": "Napnyugta a bazilika mögötti teraszon",
+    "ro": "Apus pe terasa din spatele bazilicii",
+    "en": "Sunset on the terrace behind the basilica"
+  },
+  "audioGuide": {
+    "de": "verfügbar in 6 Sprachen",
+    "hu": "6 nyelven elérhető",
+    "ro": "disponibil în 6 limbi",
+    "en": "available in 6 languages"
+  }
 }

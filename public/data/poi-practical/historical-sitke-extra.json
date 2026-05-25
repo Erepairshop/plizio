@@ -1,12 +1,57 @@
 {
-  "address": "Kálvária utca, 9671 Sitke",
-  "openingHours": "24/7 (Außenbereich), Innenbesichtigung auf Anfrage",
-  "entranceFee": "kostenlos",
+  "address": {
+    "de": "Kálvária utca, 9671 Sitke",
+    "hu": "Kálvária utca, 9671 Sitke",
+    "ro": "Kálvária utca, 9671 Sitke",
+    "en": "Kálvária utca, 9671 Sitke"
+  },
+  "openingHours": {
+    "de": "24/7 (Außenbereich), Innenbesichtigung auf Anfrage",
+    "hu": "0-24 (külső terület), belső megtekintés kérésre",
+    "ro": "Non-stop (exterior), vizitarea interiorului la cerere",
+    "en": "24/7 (exterior), interior visits upon request"
+  },
+  "entranceFee": {
+    "de": "kostenlos",
+    "hu": "ingyenes",
+    "ro": "gratuit",
+    "en": "free"
+  },
   "website": "",
-  "publicTransport": "Busverbindung von Sárvár nach Sitke, Haltestelle Dorfzentrum.",
-  "parking": "Kostenlose Parkmöglichkeiten entlang der Kálvária-Allee am Fuße des Hügels.",
-  "accessibility": "Der Weg zur Kapelle führt über einen steilen Graspfad und ist nicht barrierefrei.",
-  "photoRules": "Frei erlaubt; besonders beliebt bei Landschaftsfotografen zur Goldenen Stunde.",
-  "bestTimeToVisit": "Abendstunden vor Sonnenuntergang für ein warmes Licht auf der Neogotik-Fassade.",
-  "audioGuide": "nein"
+  "publicTransport": {
+    "de": "Busverbindung von Sárvár nach Sitke, Haltestelle Dorfzentrum.",
+    "hu": "Buszjárat Sárvárról Sitkére, faluközpont megálló.",
+    "ro": "Autobuz de la Sárvár la Sitke, stația centrul satului.",
+    "en": "Bus connection from Sárvár to Sitke, village center stop."
+  },
+  "parking": {
+    "de": "Kostenlose Parkmöglichkeiten entlang der Kálvária-Allee am Fuße des Hügels.",
+    "hu": "Ingyenes parkolási lehetőség a Kálvária-sor mentén a domb lábánál.",
+    "ro": "Parcare gratuită de-a lungul aleii Kálvária la poalele dealului.",
+    "en": "Free parking along the Kálvária avenue at the foot of the hill."
+  },
+  "accessibility": {
+    "de": "Der Weg zur Kapelle führt über einen steilen Graspfad und ist nicht barrierefrei.",
+    "hu": "A kápolnához vezető út meredek füves ösvényen halad, nem akadálymentes.",
+    "ro": "Drumul spre capelă duce pe o potecă abruptă înierbată și nu este accesibil.",
+    "en": "The path to the chapel leads over a steep grassy trail and is not accessible."
+  },
+  "photoRules": {
+    "de": "Frei erlaubt; besonders beliebt bei Landschaftsfotografen zur Goldenen Stunde.",
+    "hu": "Szabadon megengedett; tájfotósok körében különösen kedvelt az arany órában.",
+    "ro": "Permis liber; foarte popular printre fotografi de peisaje în ora de aur.",
+    "en": "Freely allowed; especially popular with landscape photographers during the golden hour."
+  },
+  "bestTimeToVisit": {
+    "de": "Abendstunden vor Sonnenuntergang für ein warmes Licht auf der Neogotik-Fassade.",
+    "hu": "Az esti órák napnyugta előtt, a neogótikus homlokzaton megjelenő meleg fényért.",
+    "ro": "Orele serii înainte de apus pentru o lumină caldă pe fațada neogotică.",
+    "en": "Evening hours before sunset for a warm light on the Neo-Gothic facade."
+  },
+  "audioGuide": {
+    "de": "nein",
+    "hu": "nem",
+    "ro": "nu",
+    "en": "no"
+  }
 }

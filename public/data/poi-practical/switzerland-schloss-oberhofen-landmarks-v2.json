@@ -1,12 +1,57 @@
 {
-  "address": "Schloss 4, 3653 Oberhofen am Thunersee",
-  "openingHours": "Di-So 11:00-17:00 (Mai-Okt), Park täglich ab 09:00",
-  "entranceFee": "12 CHF Erwachsene, Parkeintritt frei",
+  "address": {
+    "de": "Schloss 4, 3653 Oberhofen am Thunersee",
+    "hu": "Schloss 4, 3653 Oberhofen am Thunersee",
+    "ro": "Schloss 4, 3653 Oberhofen am Thunersee",
+    "en": "Schloss 4, 3653 Oberhofen am Thunersee"
+  },
+  "openingHours": {
+    "de": "Di-So 11:00-17:00 (Mai-Okt), Park täglich ab 09:00",
+    "hu": "K–V 11:00–17:00 (máj.–okt.), park naponta 09:00-től",
+    "ro": "Mar-Dum 11:00-17:00 (Mai-Oct), parcul zilnic de la 09:00",
+    "en": "Tue-Sun 11:00-17:00 (May-Oct), park daily from 09:00"
+  },
+  "entranceFee": {
+    "de": "12 CHF Erwachsene, Parkeintritt frei",
+    "hu": "12 CHF felnőtt, a park ingyenes",
+    "ro": "12 CHF adulți, intrarea în parc liberă",
+    "en": "12 CHF adults, park admission free"
+  },
   "website": "https://www.schlossoberhofen.ch",
-  "publicTransport": "Bus 21 ab Thun oder Schiff (Station Oberhofen).",
-  "parking": "Kostenpflichtiger Gemeindeparkplatz neben dem Schlosspark.",
-  "accessibility": "Museum nur bedingt barrierefrei; Schlosspark voll zugänglich.",
-  "photoRules": "Erlaubt; das Türmchen im Wasser ist eines der meistfotografierten Motive der Schweiz.",
-  "bestTimeToVisit": "Vormittags für die beste Beleuchtung des Wasserturms.",
-  "audioGuide": "DE, EN, FR"
+  "publicTransport": {
+    "de": "Bus 21 ab Thun oder Schiff (Station Oberhofen).",
+    "hu": "21-es busz Thunból vagy hajó (Oberhofen állomás).",
+    "ro": "Autobuz 21 din Thun sau cu nava (stația Oberhofen).",
+    "en": "Bus 21 from Thun or by boat (Oberhofen station)."
+  },
+  "parking": {
+    "de": "Kostenpflichtiger Gemeindeparkplatz neben dem Schlosspark.",
+    "hu": "Fizetős önkormányzati parkoló a várkert mellett.",
+    "ro": "Parcare municipală cu plată lângă parcul castelului.",
+    "en": "Paid municipal parking next to the castle park."
+  },
+  "accessibility": {
+    "de": "Museum nur bedingt barrierefrei; Schlosspark voll zugänglich.",
+    "hu": "A múzeum csak részben akadálymentesített; a várkert teljesen látogatható.",
+    "ro": "Muzeu parțial accesibil; parcul castelului complet accesibil.",
+    "en": "Museum partially accessible; castle park fully accessible."
+  },
+  "photoRules": {
+    "de": "Erlaubt; das Türmchen im Wasser ist eines der meistfotografierten Motive der Schweiz.",
+    "hu": "Engedélyezett; a vízben álló torony Svájc egyik legtöbbet fotózott látnivalója.",
+    "ro": "Permis; turnul în apă este unul dintre cele mai fotografiate obiective din Elveția.",
+    "en": "Allowed; the turret in the water is one of Switzerland's most photographed subjects."
+  },
+  "bestTimeToVisit": {
+    "de": "Vormittags für die beste Beleuchtung des Wasserturms.",
+    "hu": "Délelőtt, a vízi torony legjobb megvilágításáért.",
+    "ro": "Dimineața pentru cea mai bună lumină pe turnul de apă.",
+    "en": "Mornings for the best lighting of the water tower."
+  },
+  "audioGuide": {
+    "de": "DE, EN, FR",
+    "hu": "német, angol, francia",
+    "ro": "germ, engl, franc",
+    "en": "German, English, French"
+  }
 }

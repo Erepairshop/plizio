@@ -1,12 +1,57 @@
 {
-  "address": "Eggenberger Allee 90, 8020 Graz, Österreich",
-  "openingHours": "Park 08:00-19:00, Prunkräume nur mit Führung (Di-So)",
-  "entranceFee": "€15.00 (Prunkräume + Museen), €2.00 (nur Park)",
+  "address": {
+    "de": "Eggenberger Allee 90, 8020 Graz, Österreich",
+    "hu": "Eggenberger Allee 90, 8020 Graz, Ausztria",
+    "ro": "Eggenberger Allee 90, 8020 Graz, Austria",
+    "en": "Eggenberger Allee 90, 8020 Graz, Austria"
+  },
+  "openingHours": {
+    "de": "Park 08:00-19:00, Prunkräume nur mit Führung (Di-So)",
+    "hu": "Park 08:00-19:00, dísztermek csak vezetéssel (K-V)",
+    "ro": "Parc 08:00-19:00, sălile de stat doar cu ghid (Ma-Du)",
+    "en": "Park 8:00 AM - 7:00 PM, state rooms only with guided tour (Tue-Sun)"
+  },
+  "entranceFee": {
+    "de": "€15.00 (Prunkräume + Museen), €2.00 (nur Park)",
+    "hu": "15,00 € (dísztermek + múzeumok), 2,00 € (csak a park)",
+    "ro": "15,00 € (săli de stat + muzee), 2,00 € (doar parcul)",
+    "en": "€15.00 (state rooms + museums), €2.00 (park only)"
+  },
   "website": "https://www.museum-joanneum.at/schloss-eggenberg",
-  "publicTransport": "Straßenbahn Linie 1 ab Hauptbahnhof Graz",
-  "parking": "Begrenzte Kurzparkzonen in den umliegenden Straßen",
-  "accessibility": "Parkgelände barrierefrei, Prunkräume nicht rollstuhlgerecht",
-  "photoRules": "Im Schloss nur ohne Blitz erlaubt",
-  "bestTimeToVisit": "Frühling, wenn die Pfauen im Schlosspark aktiv sind",
-  "audioGuide": "DE, EN (über App verfügbar)"
+  "publicTransport": {
+    "de": "Straßenbahn Linie 1 ab Hauptbahnhof Graz",
+    "hu": "1-es villamos a grazi főpályaudvartól (Hauptbahnhof)",
+    "ro": "Tramvaiul linia 1 de la gara principală din Graz",
+    "en": "Tram line 1 from Graz Main Station"
+  },
+  "parking": {
+    "de": "Begrenzte Kurzparkzonen in den umliegenden Straßen",
+    "hu": "Korlátozott rövid távú parkolási zónák a környező utcákban",
+    "ro": "Zone de parcare pe termen scurt limitate în străzile din jur",
+    "en": "Limited short-term parking zones in the surrounding streets"
+  },
+  "accessibility": {
+    "de": "Parkgelände barrierefrei, Prunkräume nicht rollstuhlgerecht",
+    "hu": "A park akadálymentes, a dísztermek nem kerekesszékesek",
+    "ro": "Parcul este accesibil, sălile de stat nu sunt accesibile cu scaunul cu rotile",
+    "en": "Park grounds are accessible, state rooms are not wheelchair accessible"
+  },
+  "photoRules": {
+    "de": "Im Schloss nur ohne Blitz erlaubt",
+    "hu": "A kastélyban csak vaku nélkül engedélyezett",
+    "ro": "În castel permis doar fără bliț",
+    "en": "Allowed inside the castle only without flash"
+  },
+  "bestTimeToVisit": {
+    "de": "Frühling, wenn die Pfauen im Schlosspark aktiv sind",
+    "hu": "Tavasszal, amikor a pávák aktívak a kastélyparkban",
+    "ro": "Primăvara, când păunii sunt activi în parcul castelului",
+    "en": "Spring, when the peacocks in the castle park are active"
+  },
+  "audioGuide": {
+    "de": "DE, EN (über App verfügbar)",
+    "hu": "DE, EN (alkalmazáson keresztül)",
+    "ro": "DE, EN (disponibil prin aplicație)",
+    "en": "Available in DE, EN (via app)"
+  }
 }

@@ -1,12 +1,57 @@
 {
-  "address": "Vár tér 10., 7081 Simontornya",
-  "openingHours": "Tu-Su 09:00-17:00",
-  "entranceFee": "1500 HUF Erwachsene, 800 HUF Kinder",
+  "address": {
+    "de": "Vár tér 10., 7081 Simontornya",
+    "hu": "Vár tér 10., 7081 Simontornya",
+    "ro": "Vár tér 10., 7081 Simontornya",
+    "en": "Vár tér 10., 7081 Simontornya"
+  },
+  "openingHours": {
+    "de": "Tu-Su 09:00-17:00",
+    "hu": "K-V 09:00-17:00",
+    "ro": "Mar-Dum 09:00-17:00",
+    "en": "Tue-Sun 09:00-17:00"
+  },
+  "entranceFee": {
+    "de": "1500 HUF Erwachsene, 800 HUF Kinder",
+    "hu": "1500 HUF felnőttek, 800 HUF gyermekek",
+    "ro": "1500 HUF adulți, 800 HUF copii",
+    "en": "1500 HUF adults, 800 HUF children"
+  },
   "website": "https://simontornyavar.hu/",
-  "publicTransport": "Bahnhof Simontornya (Strecke Budapest-Pécs) ist 10 Min. Fußweg entfernt.",
-  "parking": "Kostenlose Parkplätze direkt auf dem Vár tér vor der Burg.",
-  "accessibility": "Nur das Erdgeschoss ist barrierefrei zugänglich; Turmzimmer nur über steile Treppen.",
-  "photoRules": "Fotografieren für private Zwecke ohne Blitzlicht im Museum erlaubt.",
-  "bestTimeToVisit": "Wochentage für eine ruhige Besichtigung der feinen Renaissance-Steinarbeiten.",
-  "audioGuide": "nein"
+  "publicTransport": {
+    "de": "Bahnhof Simontornya (Strecke Budapest-Pécs) ist 10 Min. Fußweg entfernt.",
+    "hu": "A simontornyai vasútállomás (Budapest-Pécs vonal) 10 percnyi sétára található.",
+    "ro": "Gara Simontornya (linia Budapesta-Pécs) este la 10 minute de mers pe jos.",
+    "en": "Simontornya train station (Budapest-Pécs line) is a 10-minute walk away."
+  },
+  "parking": {
+    "de": "Kostenlose Parkplätze direkt auf dem Vár tér vor der Burg.",
+    "hu": "Ingyenes parkolási lehetőség közvetlenül a vár előtti Vár téren.",
+    "ro": "Parcare gratuită direct în Vár tér, în fața castelului.",
+    "en": "Free parking directly on Vár tér in front of the castle."
+  },
+  "accessibility": {
+    "de": "Nur das Erdgeschoss ist barrierefrei zugänglich; Turmzimmer nur über steile Treppen.",
+    "hu": "Csak a földszint akadálymentes; a toronyszobák csak meredek lépcsőkön érhetők el.",
+    "ro": "Doar parterul este accesibil; camerele din turn pot fi atinse doar pe scări abrupte.",
+    "en": "Only the ground floor is accessible; tower rooms only reachable via steep stairs."
+  },
+  "photoRules": {
+    "de": "Fotografieren für private Zwecke ohne Blitzlicht im Museum erlaubt.",
+    "hu": "Magáncélú fényképezés vaku nélkül a múzeumban megengedett.",
+    "ro": "Fotografierea în scop privat fără bliț în muzeu este permisă.",
+    "en": "Photography for private purposes without flash in the museum is allowed."
+  },
+  "bestTimeToVisit": {
+    "de": "Wochentage für eine ruhige Besichtigung der feinen Renaissance-Steinarbeiten.",
+    "hu": "Hétköznapok a finom reneszánsz kőfaragványok nyugodt megtekintéséhez.",
+    "ro": "Zilele săptămânii pentru o vizită liniștită a sculpturilor renascentiste fine.",
+    "en": "Weekdays for a quiet visit of the fine Renaissance stonework."
+  },
+  "audioGuide": {
+    "de": "nein",
+    "hu": "nem",
+    "ro": "nu",
+    "en": "no"
+  }
 }

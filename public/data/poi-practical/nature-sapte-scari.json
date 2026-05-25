@@ -1,12 +1,57 @@
 {
-  "address": "Drumul spre Șapte Scări, 505600 Săcele",
-  "openingHours": "Mo-Su 10:00-18:00 (Saisonal, wetterabhängig)",
-  "entranceFee": "20 RON Erwachsene, 10 RON Kinder",
+  "address": {
+    "de": "Drumul spre Șapte Scări, 505600 Săcele",
+    "hu": "Drumul spre Șapte Scări, 505600 Négyfalu",
+    "ro": "Drumul spre Șapte Scări, 505600 Săcele",
+    "en": "Drumul spre Șapte Scări, 505600 Săcele"
+  },
+  "openingHours": {
+    "de": "Mo-Su 10:00-18:00 (Saisonal, wetterabhängig)",
+    "hu": "H-V 10:00-18:00 (szezonális, időjárástól függő)",
+    "ro": "Lu-Du 10:00-18:00 (sezonier, în funcție de vreme)",
+    "en": "Mon-Sun 10:00-18:00 (seasonal, weather-dependent)"
+  },
+  "entranceFee": {
+    "de": "20 RON Erwachsene, 10 RON Kinder",
+    "hu": "20 RON felnőttek, 10 RON gyerekek",
+    "ro": "20 RON adulți, 10 RON copii",
+    "en": "20 RON adults, 10 RON children"
+  },
   "website": "http://www.7scari.ro/",
-  "publicTransport": "Bus 17B ab Brasov bis Dâmbu Morii",
-  "parking": "Parkplatz am Eingang Dâmbu Morii, ca. 10-20 RON/Tag",
-  "accessibility": "Nicht barrierefrei, steile Leitern und nasse Wege",
-  "photoRules": "Erlaubt, keine Stative auf den Leitern empfohlen",
-  "bestTimeToVisit": "Vormittags unter der Woche, um Staus an den Leitern zu vermeiden",
-  "audioGuide": "no"
+  "publicTransport": {
+    "de": "Bus 17B ab Brasov bis Dâmbu Morii",
+    "hu": "17B-s busz Brassóból Dâmbu Morii-ig",
+    "ro": "Autobuzul 17B din Brașov până la Dâmbu Morii",
+    "en": "Bus 17B from Brasov to Dâmbu Morii"
+  },
+  "parking": {
+    "de": "Parkplatz am Eingang Dâmbu Morii, ca. 10-20 RON/Tag",
+    "hu": "Parkoló a Dâmbu Morii bejáratnál, kb. 10-20 RON/nap",
+    "ro": "Parcare la intrarea Dâmbu Morii, cca. 10-20 RON/zi",
+    "en": "Parking at Dâmbu Morii entrance, approx. 10-20 RON/day"
+  },
+  "accessibility": {
+    "de": "Nicht barrierefrei, steile Leitern und nasse Wege",
+    "hu": "Nem akadálymentes, meredek létrák és vizes utak",
+    "ro": "Nu este accesibil, scări abrupte și poteci umede",
+    "en": "Not accessible, steep ladders and wet paths"
+  },
+  "photoRules": {
+    "de": "Erlaubt, keine Stative auf den Leitern empfohlen",
+    "hu": "Engedélyezett, állvány használata a létrákon nem ajánlott",
+    "ro": "Permis, nu se recomandă utilizarea trepiedelor pe scări",
+    "en": "Allowed, tripods on ladders not recommended"
+  },
+  "bestTimeToVisit": {
+    "de": "Vormittags unter der Woche, um Staus an den Leitern zu vermeiden",
+    "hu": "Délelőtt hétköznap, a létrákon való torlódás elkerülése érdekében",
+    "ro": "Dimineața în timpul săptămânii, pentru a evita aglomerația pe scări",
+    "en": "Weekday mornings to avoid queues on the ladders"
+  },
+  "audioGuide": {
+    "de": "no",
+    "hu": "nem",
+    "ro": "nu",
+    "en": "no"
+  }
 }

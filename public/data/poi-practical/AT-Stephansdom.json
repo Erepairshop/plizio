@@ -1,12 +1,57 @@
 {
-  "address": "Stephansplatz 3, 1010 Wien",
-  "openingHours": "Mo-Sa 06:00-22:00, Su 07:00-22:00",
-  "entranceFee": "free (Hauptschiff), €6,00 Nord- oder Südturm",
+  "address": {
+    "de": "Stephansplatz 3, 1010 Wien",
+    "hu": "Stephansplatz 3, 1010 Bécs",
+    "ro": "Stephansplatz 3, 1010 Viena",
+    "en": "Stephansplatz 3, 1010 Vienna"
+  },
+  "openingHours": {
+    "de": "Mo-Sa 06:00-22:00, Su 07:00-22:00",
+    "hu": "H-Szo 06:00-22:00, V 07:00-22:00",
+    "ro": "L-Sâ 06:00-22:00, D 07:00-22:00",
+    "en": "Mon-Sat 06:00-22:00, Sun 07:00-22:00"
+  },
+  "entranceFee": {
+    "de": "free (Hauptschiff), €6,00 Nord- oder Südturm",
+    "hu": "ingyenes (főhajó), 6 € az északi vagy déli torony",
+    "ro": "gratuit (nava principală), 6 € turnul de nord sau sud",
+    "en": "free (main nave), €6.00 North or South Tower"
+  },
   "website": "https://www.stephansdom.at",
-  "publicTransport": "U1 oder U3 bis Station Stephansplatz",
-  "parking": "Parkhaus am Stephansplatz, extrem teuer und oft belegt.",
-  "accessibility": "Der Domraum ist barrierefrei, Türme und Katakomben nicht.",
-  "photoRules": "Fotografieren ohne Blitz erlaubt, während der Gottesdienste untersagt.",
-  "bestTimeToVisit": "Werktags am frühen Vormittag, um die Stille und das Licht zu genießen.",
-  "audioGuide": "Gegen Gebühr am Kiosk im Dom erhältlich."
+  "publicTransport": {
+    "de": "U1 oder U3 bis Station Stephansplatz",
+    "hu": "U1 vagy U3 a Stephansplatz megállóig",
+    "ro": "U1 sau U3 până la stația Stephansplatz",
+    "en": "U1 or U3 to Stephansplatz station"
+  },
+  "parking": {
+    "de": "Parkhaus am Stephansplatz, extrem teuer und oft belegt.",
+    "hu": "Stephansplatz parkolóház, rendkívül drága és gyakran tele van.",
+    "ro": "Parcarea de la Stephansplatz, extrem de scumpă și adesea plină.",
+    "en": "Parking garage at Stephansplatz, extremely expensive and often full."
+  },
+  "accessibility": {
+    "de": "Der Domraum ist barrierefrei, Türme und Katakomben nicht.",
+    "hu": "A dóm belső tere akadálymentes, a tornyok és a katakombák nem.",
+    "ro": "Spațiul catedralei este accesibil, turnurile și catacombele nu.",
+    "en": "The cathedral area is accessible, towers and catacombs are not."
+  },
+  "photoRules": {
+    "de": "Fotografieren ohne Blitz erlaubt, während der Gottesdienste untersagt.",
+    "hu": "Fotózás vaku nélkül engedélyezett, istentiszteletek alatt tilos.",
+    "ro": "Fotografierea fără bliț este permisă, interzisă în timpul slujbelor.",
+    "en": "Photography without flash allowed, prohibited during religious services."
+  },
+  "bestTimeToVisit": {
+    "de": "Werktags am frühen Vormittag, um die Stille und das Licht zu genießen.",
+    "hu": "Hétköznap kora délelőtt, a csend és a fények élvezete érdekében.",
+    "ro": "În diminețile din zilele lucrătoare, pentru a savura liniștea și lumina.",
+    "en": "Early morning on weekdays to enjoy the silence and light."
+  },
+  "audioGuide": {
+    "de": "Gegen Gebühr am Kiosk im Dom erhältlich.",
+    "hu": "Díj ellenében kapható a dómban található kioszknál.",
+    "ro": "Disponibil contra cost la chioșcul din catedrală.",
+    "en": "Available for a fee at the kiosk inside the cathedral."
+  }
 }

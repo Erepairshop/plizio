@@ -1,12 +1,57 @@
 {
-  "address": "Denkmalstrasse 4, 6006 Luzern",
-  "openingHours": "Mo-Su 09:00-18:00 (Apr-Okt), 10:00-17:00 (Nov-März)",
-  "entranceFee": "22 CHF Erwachsene, 12 CHF Kinder",
+  "address": {
+    "de": "Denkmalstrasse 4, 6006 Luzern",
+    "hu": "Denkmalstrasse 4, 6006 Luzern",
+    "ro": "Denkmalstrasse 4, 6006 Luzern",
+    "en": "Denkmalstrasse 4, 6006 Luzern"
+  },
+  "openingHours": {
+    "de": "Mo-Su 09:00-18:00 (Apr-Okt), 10:00-17:00 (Nov-März)",
+    "hu": "Hé-Va 09:00-18:00 (ápr-okt), 10:00-17:00 (nov-márc)",
+    "ro": "Lu-Du 09:00-18:00 (apr-oct), 10:00-17:00 (noi-mar)",
+    "en": "Mon-Sun 09:00-18:00 (Apr-Oct), 10:00-17:00 (Nov-Mar)"
+  },
+  "entranceFee": {
+    "de": "22 CHF Erwachsene, 12 CHF Kinder",
+    "hu": "22 CHF felnőtteknek, 12 CHF gyerekeknek",
+    "ro": "22 CHF adulți, 12 CHF copii",
+    "en": "22 CHF adults, 12 CHF children"
+  },
   "website": "https://gletschergarten.ch",
-  "publicTransport": "Buslinien 1, 19, 22, 23 bis Haltestelle Löwenplatz.",
-  "parking": "Parkhaus Löwen-Center direkt gegenüber.",
-  "accessibility": "Neubau (Felsenwelt) barrierefrei, Spiegellabyrinth teilweise eng.",
-  "photoRules": "Erlaubt; im Spiegellabyrinth Vorsicht mit der Kameraausrüstung.",
-  "bestTimeToVisit": "Vormittags vor Eintreffen der Tagestouristen vom Löwendenkmal.",
-  "audioGuide": "DE, EN, FR, IT"
+  "publicTransport": {
+    "de": "Buslinien 1, 19, 22, 23 bis Haltestelle Löwenplatz.",
+    "hu": "1, 19, 22, 23-as buszok a Löwenplatz megállóig.",
+    "ro": "Liniile de autobuz 1, 19, 22, 23 până la stația Löwenplatz.",
+    "en": "Bus lines 1, 19, 22, 23 to Löwenplatz stop."
+  },
+  "parking": {
+    "de": "Parkhaus Löwen-Center direkt gegenüber.",
+    "hu": "Löwen-Center parkolóház közvetlenül szemben.",
+    "ro": "Parcarea Löwen-Center direct vizavi.",
+    "en": "Löwen-Center parking garage directly opposite."
+  },
+  "accessibility": {
+    "de": "Neubau (Felsenwelt) barrierefrei, Spiegellabyrinth teilweise eng.",
+    "hu": "Az új épület (Felsenwelt) akadálymentes, a tükörlabirintus néhol szűk.",
+    "ro": "Clădirea nouă (Felsenwelt) accesibilă, labirintul de oglinzi parțial îngust.",
+    "en": "New building (Felsenwelt) accessible, mirror labyrinth partially narrow."
+  },
+  "photoRules": {
+    "de": "Erlaubt; im Spiegellabyrinth Vorsicht mit der Kameraausrüstung.",
+    "hu": "Engedélyezett; a tükörlabirintusban vigyázzon a kamerafelszerelésre.",
+    "ro": "Permis; în labirintul de oglinzi atenție la echipamentul foto.",
+    "en": "Allowed; in the mirror labyrinth take care of camera equipment."
+  },
+  "bestTimeToVisit": {
+    "de": "Vormittags vor Eintreffen der Tagestouristen vom Löwendenkmal.",
+    "hu": "Délelőtt, az Oroszlán-emlékműtől érkező nappali turisták előtt.",
+    "ro": "Dimineața înainte de sosirea turiștilor de zi de la Monumentul Leului.",
+    "en": "In the morning before the arrival of day tourists from the Lion Monument."
+  },
+  "audioGuide": {
+    "de": "DE, EN, FR, IT",
+    "hu": "DE, EN, FR, IT",
+    "ro": "DE, EN, FR, IT",
+    "en": "DE, EN, FR, IT"
+  }
 }

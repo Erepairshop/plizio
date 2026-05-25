@@ -1,12 +1,57 @@
 {
-  "address": "Calea Dorobanților, 300310 Timișoara, Timiș",
-  "openingHours": "24/7",
-  "entranceFee": "free",
+  "address": {
+    "de": "Calea Dorobanților, 300310 Timișoara, Timiș",
+    "hu": "Calea Dorobanților, 300310 Temesvár, Temes",
+    "ro": "Calea Dorobanților, 300310 Timișoara, Timiș",
+    "en": "Calea Dorobanților, 300310 Timișoara, Timiș"
+  },
+  "openingHours": {
+    "de": "24/7",
+    "hu": "24/7",
+    "ro": "24/7",
+    "en": "24/7"
+  },
+  "entranceFee": {
+    "de": "free",
+    "hu": "ingyenes",
+    "ro": "gratuit",
+    "en": "free"
+  },
   "website": "",
-  "publicTransport": "Straßenbahnlinie 1, 2 oder 5 bis Haltestelle Pădurea Verde",
-  "parking": "Parkplätze am Zoo Timișoara oder Village Museum, meist kostenlos",
-  "accessibility": "Barrierefrei; breite, flache Waldwege ideal für Rollstühle und Fahrräder",
-  "photoRules": "Erlaubt; das nahegelegene Dorfmuseum (Muzeul Satului) bietet tolle Motive",
-  "bestTimeToVisit": "Wochenenden für lokale Atmosphäre; Wochentage für Ruhe beim Joggen",
-  "audioGuide": "no"
+  "publicTransport": {
+    "de": "Straßenbahnlinie 1, 2 oder 5 bis Haltestelle Pădurea Verde",
+    "hu": "1-es, 2-es vagy 5-ös villamos a Pădurea Verde megállóig",
+    "ro": "Tramvaiul 1, 2 sau 5 până la stația Pădurea Verde",
+    "en": "Tram line 1, 2 or 5 to Pădurea Verde stop"
+  },
+  "parking": {
+    "de": "Parkplätze am Zoo Timișoara oder Village Museum, meist kostenlos",
+    "hu": "Parkolási lehetőség a temesvári állatkertnél vagy a Falumúzeumnál, többnyire ingyenes",
+    "ro": "Parcare la Grădina Zoologică din Timișoara sau la Muzeul Satului, de obicei gratuită",
+    "en": "Parking at Timișoara Zoo or Village Museum, mostly free"
+  },
+  "accessibility": {
+    "de": "Barrierefrei; breite, flache Waldwege ideal für Rollstühle und Fahrräder",
+    "hu": "Akadálymentes; széles, sík erdei utak, ideális kerekesszékhez és kerékpárokhoz",
+    "ro": "Accesibil; drumuri forestiere late și plate, ideale pentru scaune cu rotile și biciclete",
+    "en": "Accessible; wide, flat forest paths ideal for wheelchairs and bicycles"
+  },
+  "photoRules": {
+    "de": "Erlaubt; das nahegelegene Dorfmuseum (Muzeul Satului) bietet tolle Motive",
+    "hu": "Engedélyezett; a közeli Falumúzeum (Muzeul Satului) kiváló témákat kínál",
+    "ro": "Permis; Muzeul Satului din apropiere oferă motive excelente",
+    "en": "Allowed; the nearby Village Museum (Muzeul Satului) offers great subjects"
+  },
+  "bestTimeToVisit": {
+    "de": "Wochenenden für lokale Atmosphäre; Wochentage für Ruhe beim Joggen",
+    "hu": "Hétvégék a helyi hangulatért; hétköznapok a csendes futáshoz",
+    "ro": "Weekenduri pentru atmosfera locală; zile lucrătoare pentru liniște la alergat",
+    "en": "Weekends for the local atmosphere; weekdays for quiet jogging"
+  },
+  "audioGuide": {
+    "de": "no",
+    "hu": "nem",
+    "ro": "nu",
+    "en": "no"
+  }
 }

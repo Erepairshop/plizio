@@ -1,12 +1,57 @@
 {
-  "address": "Schloss Sargans, 7320 Sargans",
-  "openingHours": "Di-So 10:00-17:00 (Apr-Okt)",
-  "entranceFee": "10 CHF Erwachsene (Museum Sarganserland)",
+  "address": {
+    "de": "Schloss Sargans, 7320 Sargans",
+    "hu": "Schloss Sargans, 7320 Sargans",
+    "ro": "Schloss Sargans, 7320 Sargans",
+    "en": "Schloss Sargans, 7320 Sargans"
+  },
+  "openingHours": {
+    "de": "Di-So 10:00-17:00 (Apr-Okt)",
+    "hu": "K–V 10:00–17:00 (ápr.–okt.)",
+    "ro": "Mar-Dum 10:00-17:00 (Apr-Oct)",
+    "en": "Tue-Sun 10:00-17:00 (Apr-Oct)"
+  },
+  "entranceFee": {
+    "de": "10 CHF Erwachsene (Museum Sarganserland)",
+    "hu": "10 CHF felnőtt (Sarganserland Múzeum)",
+    "ro": "10 CHF adulți (Muzeul Sarganserland)",
+    "en": "10 CHF adults (Sarganserland Museum)"
+  },
   "website": "https://www.schloss-sargans.ch",
-  "publicTransport": "Vom Bahnhof Sargans ca. 15 Min. Fußweg bergauf.",
-  "parking": "Parkplätze direkt am Schloss vorhanden.",
-  "accessibility": "Museum nicht barrierefrei (viele Treppen); Restaurant zugänglich.",
-  "photoRules": "Erlaubt; Panoramablick ins Seeztal und Rheintal.",
-  "bestTimeToVisit": "Bei Föhnwetter für extreme Fernsicht von der Terrasse.",
-  "audioGuide": "DE"
+  "publicTransport": {
+    "de": "Vom Bahnhof Sargans ca. 15 Min. Fußweg bergauf.",
+    "hu": "A Sargans pályaudvartól kb. 15 perc séta felfelé.",
+    "ro": "De la gara Sargans aprox. 15 min. pe jos în urcare.",
+    "en": "From Sargans train station approx. 15 min. walk uphill."
+  },
+  "parking": {
+    "de": "Parkplätze direkt am Schloss vorhanden.",
+    "hu": "Parkolóhelyek közvetlenül a várnál.",
+    "ro": "Locuri de parcare chiar la castel.",
+    "en": "Parking available directly at the castle."
+  },
+  "accessibility": {
+    "de": "Museum nicht barrierefrei (viele Treppen); Restaurant zugänglich.",
+    "hu": "A múzeum nem akadálymentesített (sok lépcső); az étterem elérhető.",
+    "ro": "Muzeu nu este accesibil (multe scări); restaurantul este accesibil.",
+    "en": "Museum not accessible (many stairs); restaurant is accessible."
+  },
+  "photoRules": {
+    "de": "Erlaubt; Panoramablick ins Seeztal und Rheintal.",
+    "hu": "Engedélyezett; panorámás kilátás a Seez- és a Rajna-völgyre.",
+    "ro": "Permis; vedere panoramică asupra văilor Seeztal și Rin.",
+    "en": "Allowed; panoramic view of the Seez and Rhine valleys."
+  },
+  "bestTimeToVisit": {
+    "de": "Bei Föhnwetter für extreme Fernsicht von der Terrasse.",
+    "hu": "Föhn-szél idején a teraszról nyíló extra kilátásért.",
+    "ro": "Pe vreme de Föhn pentru vizibilitate extremă de pe terasă.",
+    "en": "In Föhn weather for extreme distant views from the terrace."
+  },
+  "audioGuide": {
+    "de": "DE",
+    "hu": "német",
+    "ro": "germ",
+    "en": "German"
+  }
 }

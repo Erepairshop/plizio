@@ -1,12 +1,57 @@
 {
-  "address": "DN57, 227185 Dubova, Mehedinți",
-  "openingHours": "24/7",
-  "entranceFee": "free",
+  "address": {
+    "de": "DN57, 227185 Dubova, Mehedinți",
+    "hu": "DN57, 227185 Dubova, Mehedinți",
+    "ro": "DN57, 227185 Dubova, Mehedinți",
+    "en": "DN57, 227185 Dubova, Mehedinți"
+  },
+  "openingHours": {
+    "de": "24/7",
+    "hu": "Non-stop",
+    "ro": "24/7",
+    "en": "24/7"
+  },
+  "entranceFee": {
+    "de": "free",
+    "hu": "ingyenes",
+    "ro": "gratuit",
+    "en": "free"
+  },
   "website": "",
-  "publicTransport": "Auto oder Ausflugsboot ab Orșova",
-  "parking": "Kleine Haltebucht an der DN57, oft überfüllt",
-  "accessibility": "Vom Ufer sichtbar, Bootseinstieg meist mit Stufen",
-  "photoRules": "Erlaubt, beste Sicht vom Wasser",
-  "bestTimeToVisit": "Vormittags für direktes Licht",
-  "audioGuide": "Informationen durch Bootsführer"
+  "publicTransport": {
+    "de": "Auto oder Ausflugsboot ab Orșova",
+    "hu": "Autó vagy kirándulóhajó Orsováról",
+    "ro": "Mașină sau barcă de excursie din Orșova",
+    "en": "Car or excursion boat from Orșova"
+  },
+  "parking": {
+    "de": "Kleine Haltebucht an der DN57, oft überfüllt",
+    "hu": "Kis parkolóöböl a DN57-es úton, gyakran zsúfolt",
+    "ro": "Mic loc de oprire pe DN57, adesea aglomerat",
+    "en": "Small pull-off on DN57, often crowded"
+  },
+  "accessibility": {
+    "de": "Vom Ufer sichtbar, Bootseinstieg meist mit Stufen",
+    "hu": "A partról látható, a hajóra szállás többnyire lépcsőkön át",
+    "ro": "Vizibil de pe mal, îmbarcarea pe barcă de obicei cu trepte",
+    "en": "Visible from the shore, boarding usually involves steps"
+  },
+  "photoRules": {
+    "de": "Erlaubt, beste Sicht vom Wasser",
+    "hu": "Engedélyezett, a legjobb kilátás a vízről",
+    "ro": "Permis, cea mai bună vedere de pe apă",
+    "en": "Allowed, best view from the water"
+  },
+  "bestTimeToVisit": {
+    "de": "Vormittags für direktes Licht",
+    "hu": "Délelőtt a közvetlen fényért",
+    "ro": "Dimineața pentru lumină directă",
+    "en": "Mornings for direct light"
+  },
+  "audioGuide": {
+    "de": "Informationen durch Bootsführer",
+    "hu": "Információk a hajóvezetőtől",
+    "ro": "Informații de la barcagiu",
+    "en": "Information from boat guide"
+  }
 }

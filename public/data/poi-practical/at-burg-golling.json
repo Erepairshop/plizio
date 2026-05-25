@@ -1,12 +1,57 @@
 {
-  "address": "Markt 1, 5440 Golling an der Salzach",
-  "openingHours": "Mai-Okt: Di-So 10:00-17:00",
-  "entranceFee": "€ 8,00 Erwachsene",
+  "address": {
+    "de": "Markt 1, 5440 Golling an der Salzach",
+    "hu": "Markt 1, 5440 Golling an der Salzach",
+    "ro": "Markt 1, 5440 Golling an der Salzach",
+    "en": "Markt 1, 5440 Golling an der Salzach"
+  },
+  "openingHours": {
+    "de": "Mai-Okt: Di-So 10:00-17:00",
+    "hu": "Máj-okt: K-V 10:00-17:00",
+    "ro": "Mai-Oct: Ma-D 10:00-17:00",
+    "en": "May-Oct: Tue-Sun 10:00-17:00"
+  },
+  "entranceFee": {
+    "de": "€ 8,00 Erwachsene",
+    "hu": "8,00 € felnőtt",
+    "ro": "8,00 € adulți",
+    "en": "€8.00 adults"
+  },
   "website": "https://www.burg-golling.at",
-  "publicTransport": "S-Bahn S3 bis Golling-Abtenau, 5 min Fußweg.",
-  "parking": "Gebührenpflichtiger Parkplatz direkt unter der Burg im Ortskern.",
-  "accessibility": "Erdgeschoss barrierefrei, Obergeschosse und Turm nur über Treppen erreichbar.",
-  "photoRules": "Erlaubt, Blitz in den Ausstellungsräumen bitte vermeiden.",
-  "bestTimeToVisit": "In Kombination mit den Gollinger Wasserfällen (15 min Fußweg entfernt).",
-  "audioGuide": "nein"
+  "publicTransport": {
+    "de": "S-Bahn S3 bis Golling-Abtenau, 5 min Fußweg.",
+    "hu": "S3-as HÉV Golling-Abtenau megállóig, 5 perc gyalogút.",
+    "ro": "Tren S-Bahn S3 până la Golling-Abtenau, 5 min de mers pe jos.",
+    "en": "S-Bahn S3 to Golling-Abtenau, 5 min walk."
+  },
+  "parking": {
+    "de": "Gebührenpflichtiger Parkplatz direkt unter der Burg im Ortskern.",
+    "hu": "Fizetős parkoló közvetlenül a vár alatt, a település központjában.",
+    "ro": "Parcare cu plată direct sub cetate, în centrul localității.",
+    "en": "Paid parking lot directly under the castle in the village center."
+  },
+  "accessibility": {
+    "de": "Erdgeschoss barrierefrei, Obergeschosse und Turm nur über Treppen erreichbar.",
+    "hu": "A földszint akadálymentes, az emeletek és a torony csak lépcsőn érhetők el.",
+    "ro": "Parterul este accesibil, etajele și turnul sunt accesibile doar pe scări.",
+    "en": "Ground floor is accessible, upper floors and tower are only accessible via stairs."
+  },
+  "photoRules": {
+    "de": "Erlaubt, Blitz in den Ausstellungsräumen bitte vermeiden.",
+    "hu": "Engedélyezett, a kiállítótermekben a vaku használatát kérjük mellőzni.",
+    "ro": "Permis, vă rugăm să evitați blițul în sălile de expoziție.",
+    "en": "Allowed, please avoid flash in the exhibition rooms."
+  },
+  "bestTimeToVisit": {
+    "de": "In Kombination mit den Gollinger Wasserfällen (15 min Fußweg entfernt).",
+    "hu": "A gollingi vízesésekkel kombinálva (15 perc gyalogútnyira).",
+    "ro": "În combinație cu cascadele Golling (la 15 min de mers pe jos).",
+    "en": "In combination with the Golling waterfalls (15 min walk away)."
+  },
+  "audioGuide": {
+    "de": "nein",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

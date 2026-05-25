@@ -1,12 +1,57 @@
 {
-  "address": "Aareschluchtstrasse, 3860 Meiringen, Schweiz",
-  "openingHours": "April bis Oktober: Täglich 08:30-17:30 (Juli/Aug bis 18:30)",
-  "entranceFee": "CHF 10 Erwachsene, CHF 6 Kinder",
+  "address": {
+    "de": "Aareschluchtstrasse, 3860 Meiringen, Schweiz",
+    "hu": "Aareschluchtstrasse, 3860 Meiringen, Svájc",
+    "ro": "Aareschluchtstrasse, 3860 Meiringen, Elveția",
+    "en": "Aareschluchtstrasse, 3860 Meiringen, Switzerland"
+  },
+  "openingHours": {
+    "de": "April bis Oktober: Täglich 08:30-17:30 (Juli/Aug bis 18:30)",
+    "hu": "Áprilistól októberig: Naponta 08:30-17:30 (július/augusztusig 18:30)",
+    "ro": "Aprilie până în octombrie: Zilnic 08:30-17:30 (iulie/august până la 18:30)",
+    "en": "April to October: Daily 08:30-17:30 (July/Aug until 18:30)"
+  },
+  "entranceFee": {
+    "de": "CHF 10 Erwachsene, CHF 6 Kinder",
+    "hu": "10 CHF felnőtteknek, 6 CHF gyerekeknek",
+    "ro": "10 CHF adulți, 6 CHF copii",
+    "en": "CHF 10 adults, CHF 6 children"
+  },
   "website": "https://aareschlucht.ch/",
-  "publicTransport": "Meiringen-Innertkirchen-Bahn bis Haltestelle Aareschlucht West oder Ost",
-  "parking": "Kostenlose Parkplätze an den Eingängen West (Meiringen) und Ost (Innertkirchen)",
-  "accessibility": "West-Eingang bis zur Schluchtenmitte rollstuhlgängig, danach Treppen",
-  "photoRules": "Erlaubt",
-  "bestTimeToVisit": "Vormittag oder später Nachmittag für optimale Lichtverhältnisse in der Schlucht",
-  "audioGuide": "nein"
+  "publicTransport": {
+    "de": "Meiringen-Innertkirchen-Bahn bis Haltestelle Aareschlucht West oder Ost",
+    "hu": "Meiringen-Innertkirchen vasút az Aareschlucht West vagy Ost megállóig",
+    "ro": "Calea ferată Meiringen-Innertkirchen până la stația Aareschlucht West sau Ost",
+    "en": "Meiringen-Innertkirchen railway to Aareschlucht West or Ost stop"
+  },
+  "parking": {
+    "de": "Kostenlose Parkplätze an den Eingängen West (Meiringen) und Ost (Innertkirchen)",
+    "hu": "Ingyenes parkolók a nyugati (Meiringen) és keleti (Innertkirchen) bejáratnál",
+    "ro": "Parcări gratuite la intrările de vest (Meiringen) și est (Innertkirchen)",
+    "en": "Free parking at the west (Meiringen) and east (Innertkirchen) entrances"
+  },
+  "accessibility": {
+    "de": "West-Eingang bis zur Schluchtenmitte rollstuhlgängig, danach Treppen",
+    "hu": "Nyugati bejárat a szurdok közepéig kerekesszékkel megközelíthető, utána lépcsők",
+    "ro": "Intrarea de vest până la mijlocul defileului este accesibilă cu scaunul cu rotile, apoi urmează scări",
+    "en": "West entrance accessible by wheelchair to the middle of the gorge, then stairs"
+  },
+  "photoRules": {
+    "de": "Erlaubt",
+    "hu": "Engedélyezett",
+    "ro": "Permis",
+    "en": "Allowed"
+  },
+  "bestTimeToVisit": {
+    "de": "Vormittag oder später Nachmittag für optimale Lichtverhältnisse in der Schlucht",
+    "hu": "Délelőtt vagy késő délután az optimális fényviszonyokért a szurdokban",
+    "ro": "Dimineața sau după-amiaza târziu pentru condiții de lumină optime în defileu",
+    "en": "Morning or late afternoon for optimal lighting conditions in the gorge"
+  },
+  "audioGuide": {
+    "de": "nein",
+    "hu": "nem",
+    "ro": "nu",
+    "en": "no"
+  }
 }

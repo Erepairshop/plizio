@@ -1,12 +1,57 @@
 {
-  "address": "Hardegg 2, 2082 Hardegg",
-  "openingHours": "24/7 (Nationalparkhaus variiert)",
-  "entranceFee": "kostenlos",
+  "address": {
+    "de": "Hardegg 2, 2082 Hardegg",
+    "hu": "Hardegg 2, 2082 Hardegg",
+    "ro": "Hardegg 2, 2082 Hardegg",
+    "en": "Hardegg 2, 2082 Hardegg"
+  },
+  "openingHours": {
+    "de": "24/7 (Nationalparkhaus variiert)",
+    "hu": "A nap 24 órájában (a nemzeti park látogatóközpontja változó)",
+    "ro": "Non-stop (programul centrului parcului variază)",
+    "en": "24/7 (National Park Center hours vary)"
+  },
+  "entranceFee": {
+    "de": "kostenlos",
+    "hu": "ingyenes",
+    "ro": "gratuit",
+    "en": "free"
+  },
   "website": "https://www.np-thayatal.at",
-  "publicTransport": "Bus ab Retz nach Hardegg",
-  "parking": "Parkplatz beim Nationalparkhaus Hardegg, kostenlos.",
-  "accessibility": "Viele Wanderwege sind rollstuhltauglich.",
-  "photoRules": "Erlaubt, Natur- und Artenschutz beachten.",
-  "bestTimeToVisit": "Frühling zur Wildkatzenfütterung.",
-  "audioGuide": "nein"
+  "publicTransport": {
+    "de": "Bus ab Retz nach Hardegg",
+    "hu": "Busz Retzből Hardeggbe",
+    "ro": "Autobuz din Retz spre Hardegg",
+    "en": "Bus from Retz to Hardegg"
+  },
+  "parking": {
+    "de": "Parkplatz beim Nationalparkhaus Hardegg, kostenlos.",
+    "hu": "Parkoló a hardeggi látogatóközpontnál, ingyenes.",
+    "ro": "Parcare la centrul parcului național Hardegg, gratuită.",
+    "en": "Parking at the Hardegg National Park Center, free."
+  },
+  "accessibility": {
+    "de": "Viele Wanderwege sind rollstuhltauglich.",
+    "hu": "Számos túraútvonal kerekesszékkel is járható.",
+    "ro": "Multe trasee de drumeție sunt accesibile pentru scaune cu rotile.",
+    "en": "Many hiking trails are wheelchair accessible."
+  },
+  "photoRules": {
+    "de": "Erlaubt, Natur- und Artenschutz beachten.",
+    "hu": "Megengedett, a természet- és fajvédelmi szabályok betartásával.",
+    "ro": "Permis, cu respectarea normelor de protecție a naturii și speciilor.",
+    "en": "Permitted, observe nature and species protection rules."
+  },
+  "bestTimeToVisit": {
+    "de": "Frühling zur Wildkatzenfütterung.",
+    "hu": "Tavasszal a vadmacska-etetések idején.",
+    "ro": "Primăvara pentru hrănirea pisicilor sălbatice.",
+    "en": "Spring for wildcat feeding."
+  },
+  "audioGuide": {
+    "de": "nein",
+    "hu": "nem",
+    "ro": "nu",
+    "en": "no"
+  }
 }

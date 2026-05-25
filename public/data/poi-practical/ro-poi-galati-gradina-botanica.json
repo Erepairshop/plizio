@@ -1,12 +1,57 @@
 {
-  "address": "Strada Regiment 11 Siret 6A, 800340 Galați",
-  "openingHours": "Mi-So 10:00-18:00, Mo-Di geschlossen",
-  "entranceFee": "6 RON Erwachsene, 1,5 RON Kinder",
+  "address": {
+    "de": "Strada Regiment 11 Siret 6A, 800340 Galați",
+    "hu": "Strada Regiment 11 Siret 6A, 800340 Galac",
+    "ro": "Strada Regiment 11 Siret 6A, 800340 Galați",
+    "en": "Strada Regiment 11 Siret 6A, 800340 Galați"
+  },
+  "openingHours": {
+    "de": "Mi-So 10:00-18:00, Mo-Di geschlossen",
+    "hu": "Szerda-vasárnap 10:00-18:00, hétfő-kedd zárva",
+    "ro": "Miercuri-Duminică 10:00-18:00, Luni-Marți închis",
+    "en": "Wed-Sun 10:00-18:00, Mon-Tue closed"
+  },
+  "entranceFee": {
+    "de": "6 RON Erwachsene, 1,5 RON Kinder",
+    "hu": "6 RON felnőtt, 1,5 RON gyerek",
+    "ro": "6 RON adulți, 1,5 RON copii",
+    "en": "6 RON adults, 1.5 RON children"
+  },
   "website": "http://www.cmsngalati.ro/",
-  "publicTransport": "Buslinien 10, 15, 27 (Halt Gradina Botanica)",
-  "parking": "Kleiner kostenloser Parkplatz direkt am Eingang vorhanden.",
-  "accessibility": "Hauptwege sind rollstuhlgerecht, Nebenpfade teils Kies.",
-  "photoRules": "Erlaubt, kommerzielle Aufnahmen gebührenpflichtig.",
-  "bestTimeToVisit": "Mai und Juni während der Rosenblüte.",
-  "audioGuide": "no"
+  "publicTransport": {
+    "de": "Buslinien 10, 15, 27 (Halt Gradina Botanica)",
+    "hu": "10, 15, 27-es busz (Botanikus kert megálló)",
+    "ro": "Liniile de autobuz 10, 15, 27 (stația Gradina Botanica)",
+    "en": "Bus lines 10, 15, 27 (Botanical Garden stop)"
+  },
+  "parking": {
+    "de": "Kleiner kostenloser Parkplatz direkt am Eingang vorhanden.",
+    "hu": "Kis ingyenes parkoló közvetlenül a bejáratnál.",
+    "ro": "Mică parcare gratuită chiar la intrare.",
+    "en": "Small free parking directly at the entrance."
+  },
+  "accessibility": {
+    "de": "Hauptwege sind rollstuhlgerecht, Nebenpfade teils Kies.",
+    "hu": "A főutak kerekesszék-barátok, a mellékutak néhol kavicsosak.",
+    "ro": "Aleile principale sunt accesibile, aleile secundare parțial pietruite.",
+    "en": "Main paths wheelchair-friendly, side paths partially gravel."
+  },
+  "photoRules": {
+    "de": "Erlaubt, kommerzielle Aufnahmen gebührenpflichtig.",
+    "hu": "Engedélyezett, kereskedelmi felvételek díjkötelesek.",
+    "ro": "Permis, filmările comerciale sunt contra cost.",
+    "en": "Allowed, commercial photography requires a fee."
+  },
+  "bestTimeToVisit": {
+    "de": "Mai und Juni während der Rosenblüte.",
+    "hu": "Május és június, a rózsavirágzás idején.",
+    "ro": "Mai și iunie în timpul înfloririi trandafirilor.",
+    "en": "May and June during the rose bloom."
+  },
+  "audioGuide": {
+    "de": "no",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

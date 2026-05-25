@@ -1,12 +1,57 @@
 {
-  "address": "Strada Ștefan cel Mare 1, 730169 Vaslui",
-  "openingHours": "Di-So 09:00-17:00, Mo geschlossen",
-  "entranceFee": "8 RON Erwachsene, 2 RON Schüler",
+  "address": {
+    "de": "Strada Ștefan cel Mare 1, 730169 Vaslui",
+    "hu": "Strada Ștefan cel Mare 1, 730169 Vaslui",
+    "ro": "Strada Ștefan cel Mare 1, 730169 Vaslui",
+    "en": "Strada Ștefan cel Mare 1, 730169 Vaslui"
+  },
+  "openingHours": {
+    "de": "Di-So 09:00-17:00, Mo geschlossen",
+    "hu": "Kedd-vasárnap 09:00-17:00, hétfőn zárva",
+    "ro": "Marți-Duminică 09:00-17:00, Luni închis",
+    "en": "Tue-Sun 09:00-17:00, Mon closed"
+  },
+  "entranceFee": {
+    "de": "8 RON Erwachsene, 2 RON Schüler",
+    "hu": "8 RON felnőtt, 2 RON diák",
+    "ro": "8 RON adulți, 2 RON elevi",
+    "en": "8 RON adults, 2 RON students"
+  },
   "website": "http://www.muzeuvaslui.ro/",
-  "publicTransport": "Busbahnhof Vaslui (ca. 10 Min Fußweg)",
-  "parking": "Kostenlose Parkplätze in den umliegenden Straßen vorhanden.",
-  "accessibility": "Erdgeschoss zugänglich, historische Ruinen teilweise uneben.",
-  "photoRules": "Erlaubt, Blitz in Innenräumen untersagt.",
-  "bestTimeToVisit": "Vormittags unter der Woche für weniger Besucher.",
-  "audioGuide": "no"
+  "publicTransport": {
+    "de": "Busbahnhof Vaslui (ca. 10 Min Fußweg)",
+    "hu": "Vaslui buszpályaudvar (kb. 10 perc gyalog)",
+    "ro": "Autogara Vaslui (aprox. 10 min pe jos)",
+    "en": "Vaslui bus station (approx. 10 min walk)"
+  },
+  "parking": {
+    "de": "Kostenlose Parkplätze in den umliegenden Straßen vorhanden.",
+    "hu": "Ingyenes parkolás a környező utcákban.",
+    "ro": "Parcare gratuită disponibilă pe străzile din jur.",
+    "en": "Free parking available in surrounding streets."
+  },
+  "accessibility": {
+    "de": "Erdgeschoss zugänglich, historische Ruinen teilweise uneben.",
+    "hu": "Földszint látogatható, a történelmi romok néhol egyenetlenek.",
+    "ro": "Parter accesibil, ruine istorice parțial denivelate.",
+    "en": "Ground floor accessible, historical ruins partially uneven."
+  },
+  "photoRules": {
+    "de": "Erlaubt, Blitz in Innenräumen untersagt.",
+    "hu": "Engedélyezett, vaku beltérben tilos.",
+    "ro": "Permis, bliț interzis în interior.",
+    "en": "Allowed, flash prohibited indoors."
+  },
+  "bestTimeToVisit": {
+    "de": "Vormittags unter der Woche für weniger Besucher.",
+    "hu": "Hétköznap délelőtt, kevesebb látogató.",
+    "ro": "Dimineața în timpul săptămânii pentru mai puțini vizitatori.",
+    "en": "Weekday mornings for fewer visitors."
+  },
+  "audioGuide": {
+    "de": "no",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

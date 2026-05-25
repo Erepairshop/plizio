@@ -1,12 +1,57 @@
 {
-  "address": "Calea Beiușului, 417500 Băile Felix",
-  "openingHours": "Mo-Su 08:00-20:00",
-  "entranceFee": "ca. 30-50 RON Tageskarte",
+  "address": {
+    "de": "Calea Beiușului, 417500 Băile Felix",
+    "hu": "Calea Beiușului, 417500 Félixfürdő",
+    "ro": "Calea Beiușului, 417500 Băile Felix",
+    "en": "Calea Beiușului, 417500 Băile Felix"
+  },
+  "openingHours": {
+    "de": "Mo-Su 08:00-20:00",
+    "hu": "H-V 08:00-20:00",
+    "ro": "Lu-Du 08:00-20:00",
+    "en": "Mon-Sun 08:00-20:00"
+  },
+  "entranceFee": {
+    "de": "ca. 30-50 RON Tageskarte",
+    "hu": "kb. 30-50 RON napijegy",
+    "ro": "cca. 30-50 RON bilet de zi",
+    "en": "approx. 30-50 RON daily ticket"
+  },
   "website": "https://www.bailefelix.net/",
-  "publicTransport": "Buslinie 4 ab Oradea",
-  "parking": "Zahlreiche kostenpflichtige Parkplätze im Ort",
-  "accessibility": "Die meisten modernen Becken sind barrierefrei zugänglich",
-  "photoRules": "In öffentlichen Bereichen erlaubt, Diskretion erwünscht",
-  "bestTimeToVisit": "Ganzjährig, besonders reizvoll im Winter",
-  "audioGuide": "no"
+  "publicTransport": {
+    "de": "Buslinie 4 ab Oradea",
+    "hu": "4-es busz Nagyváradról",
+    "ro": "Linia de autobuz 4 din Oradea",
+    "en": "Bus line 4 from Oradea"
+  },
+  "parking": {
+    "de": "Zahlreiche kostenpflichtige Parkplätze im Ort",
+    "hu": "Számos fizetős parkoló a településen",
+    "ro": "Numeroase parcări cu plată în localitate",
+    "en": "Numerous paid parking spaces in town"
+  },
+  "accessibility": {
+    "de": "Die meisten modernen Becken sind barrierefrei zugänglich",
+    "hu": "A legtöbb modern medence akadálymentesen megközelíthető",
+    "ro": "Majoritatea piscinelor moderne sunt accesibile",
+    "en": "Most modern pools are wheelchair-accessible"
+  },
+  "photoRules": {
+    "de": "In öffentlichen Bereichen erlaubt, Diskretion erwünscht",
+    "hu": "Közterületeken engedélyezett, diszkréció ajánlott",
+    "ro": "Permis în zonele publice, discreția este recomandată",
+    "en": "Allowed in public areas, discretion recommended"
+  },
+  "bestTimeToVisit": {
+    "de": "Ganzjährig, besonders reizvoll im Winter",
+    "hu": "Egész évben, télen különösen vonzó",
+    "ro": "Tot anul, deosebit de atractiv iarna",
+    "en": "All year round, especially attractive in winter"
+  },
+  "audioGuide": {
+    "de": "no",
+    "hu": "nem",
+    "ro": "nu",
+    "en": "no"
+  }
 }

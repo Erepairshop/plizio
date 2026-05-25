@@ -1,12 +1,57 @@
 {
-  "address": "Marktplatz 1, 91541 Rothenburg ob der Tauber",
-  "openingHours": "24/7 (Altstadt zugänglich); Museen meist 10:00-17:00",
-  "entranceFee": "frei (Stadt); Kriminalmuseum 8,00 €",
+  "address": {
+    "de": "Marktplatz 1, 91541 Rothenburg ob der Tauber",
+    "hu": "Marktplatz 1, 91541 Rothenburg ob der Tauber",
+    "ro": "Marktplatz 1, 91541 Rothenburg ob der Tauber",
+    "en": "Marktplatz 1, 91541 Rothenburg ob der Tauber"
+  },
+  "openingHours": {
+    "de": "24/7 (Altstadt zugänglich); Museen meist 10:00-17:00",
+    "hu": "0-24 (az óváros szabadon bejárható); a múzeumok többnyire 10:00-17:00 között",
+    "ro": "24/7 (centrul vechi accesibil); muzee în general 10:00-17:00",
+    "en": "24/7 (old town accessible); museums mostly 10:00-17:00"
+  },
+  "entranceFee": {
+    "de": "frei (Stadt); Kriminalmuseum 8,00 €",
+    "hu": "ingyenes (város); Bűnügyi Múzeum 8,00 €",
+    "ro": "gratuit (orașul); Muzeul Criminalității 8,00 €",
+    "en": "free (city); Crime Museum 8.00 €"
+  },
   "website": "https://www.rothenburg.de",
-  "publicTransport": "Regionalbahn bis Bahnhof Rothenburg ob der Tauber, dann 10 Min Fußweg",
-  "parking": "Großparkplätze P1, P2, P3, P4 außerhalb der Stadtmauer (ca. 5€/Tag).",
-  "accessibility": "Schwierig wegen durchgehendem Kopfsteinpflaster; begehbare Stadtmauer nicht barrierefrei.",
-  "photoRules": "Erlaubt; Stativnutzung auf öffentlichen Plätzen bei hohem Andrang schwierig.",
-  "bestTimeToVisit": "Vor 9:00 Uhr oder nach 18:00 Uhr, wenn die Tagestouristen-Busse weg sind.",
-  "audioGuide": "nein (Stadtführungen 'Nachtwächter' sehr empfohlen)"
+  "publicTransport": {
+    "de": "Regionalbahn bis Bahnhof Rothenburg ob der Tauber, dann 10 Min Fußweg",
+    "hu": "Regionális vonattal Rothenburg ob der Tauber vasútállomásig, onnan 10 perc séta",
+    "ro": "Tren regional până la gara Rothenburg ob der Tauber, apoi 10 min. de mers pe jos",
+    "en": "Regional train to Rothenburg ob der Tauber station, then a 10-minute walk"
+  },
+  "parking": {
+    "de": "Großparkplätze P1, P2, P3, P4 außerhalb der Stadtmauer (ca. 5€/Tag).",
+    "hu": "P1, P2, P3, P4 nagyparkolók a városfalon kívül (kb. 5 €/nap).",
+    "ro": "Parcări mari P1, P2, P3, P4 în afara zidurilor cetății (aprox. 5 €/zi).",
+    "en": "Large parking lots P1, P2, P3, P4 outside the city walls (approx. 5 €/day)."
+  },
+  "accessibility": {
+    "de": "Schwierig wegen durchgehendem Kopfsteinpflaster; begehbare Stadtmauer nicht barrierefrei.",
+    "hu": "Nehézkes a folyamatos macskakő miatt; a városfal nem akadálymentesített.",
+    "ro": "Dificil din cauza pavajului cu piatră cubică; zidul cetății nu este accesibil.",
+    "en": "Difficult due to continuous cobblestones; the accessible city wall is not barrier-free."
+  },
+  "photoRules": {
+    "de": "Erlaubt; Stativnutzung auf öffentlichen Plätzen bei hohem Andrang schwierig.",
+    "hu": "Engedélyezett; nagy tömeg esetén az állványhasználat a köztereken nehézkes.",
+    "ro": "Permis; utilizarea trepiedului în locuri publice este dificilă în caz de aglomerație.",
+    "en": "Allowed; tripod use in public places is difficult during peak times."
+  },
+  "bestTimeToVisit": {
+    "de": "Vor 9:00 Uhr oder nach 18:00 Uhr, wenn die Tagestouristen-Busse weg sind.",
+    "hu": "9:00 előtt vagy 18:00 után, amikor a turistabuszok már elmentek.",
+    "ro": "Înainte de 09:00 sau după 18:00, când autocarele cu turiști au plecat.",
+    "en": "Before 9:00 AM or after 6:00 PM, when the day-trip tourist buses are gone."
+  },
+  "audioGuide": {
+    "de": "nein (Stadtführungen 'Nachtwächter' sehr empfohlen)",
+    "hu": "nem (az 'Éjjeliőr' városnéző túrák erősen ajánlottak)",
+    "ro": "nu (tururile 'Paznicul de noapte' sunt foarte recomandate)",
+    "en": "no ('Night Watchman' city tours are highly recommended)"
+  }
 }

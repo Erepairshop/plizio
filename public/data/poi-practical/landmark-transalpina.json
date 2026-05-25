@@ -1,12 +1,57 @@
 {
-  "address": "DN67C (Novaci - Sebeș), 215300 Novaci, Gorj",
-  "openingHours": "Permanently accessible (June - October), closed in winter",
-  "entranceFee": "free",
+  "address": {
+    "de": "DN67C (Novaci - Sebeș), 215300 Novaci, Gorj",
+    "hu": "DN67C (Novaci - Sebeș), 215300 Novaci, Gorj",
+    "ro": "DN67C (Novaci - Sebeș), 215300 Novaci, Gorj",
+    "en": "DN67C (Novaci - Sebeș), 215300 Novaci, Gorj"
+  },
+  "openingHours": {
+    "de": "Permanently accessible (June - October), closed in winter",
+    "hu": "Folyamatosan járható (június - október), télen zárva",
+    "ro": "Accesibil permanent (iunie - octombrie), închis iarna",
+    "en": "Permanently accessible (June - October), closed in winter"
+  },
+  "entranceFee": {
+    "de": "free",
+    "hu": "ingyenes",
+    "ro": "gratuit",
+    "en": "free"
+  },
   "website": "http://www.transalpina.biz",
-  "publicTransport": "Kein öffentlicher Nahverkehr auf der Passstraße; Mietwagen erforderlich",
-  "parking": "Parkbuchten an Aussichtspunkten und dem Urdele-Pass kostenlos",
-  "accessibility": "Befahrbar mit PKW; Aussichtspunkte oft nur über Schotter erreichbar",
-  "photoRules": "Erlaubt; Drohnen sind aufgrund der freien Sicht sehr beliebt",
-  "bestTimeToVisit": "Wochentags bei Sonnenaufgang für spektakuläres Licht über den Wolken",
-  "audioGuide": "no"
+  "publicTransport": {
+    "de": "Kein öffentlicher Nahverkehr auf der Passstraße; Mietwagen erforderlich",
+    "hu": "Nincs tömegközlekedés a hágón; bérautó szükséges",
+    "ro": "Nu există transport public pe șoseaua montană; este necesară închirierea unei mașini",
+    "en": "No public transport on the mountain road; rental car required"
+  },
+  "parking": {
+    "de": "Parkbuchten an Aussichtspunkten und dem Urdele-Pass kostenlos",
+    "hu": "Parkolóöblök a kilátóknál és az Urdele-hágónál ingyenesek",
+    "ro": "Goluri de parcare la punctele de belvedere și la Pasul Urdele sunt gratuite",
+    "en": "Parking bays at viewpoints and Urdele Pass are free"
+  },
+  "accessibility": {
+    "de": "Befahrbar mit PKW; Aussichtspunkte oft nur über Schotter erreichbar",
+    "hu": "Gépkocsival járható; a kilátók gyakran csak murvás úton érhetők el",
+    "ro": "Accesibil cu mașina; punctele de belvedere sunt adesea accesibile doar pe drumuri neasfaltate",
+    "en": "Driveable by car; viewpoints often only via gravel paths"
+  },
+  "photoRules": {
+    "de": "Erlaubt; Drohnen sind aufgrund der freien Sicht sehr beliebt",
+    "hu": "Megengedett; a drónok nagyon népszerűek a szabad kilátás miatt",
+    "ro": "Permis; dronele sunt foarte populare datorită vizibilității libere",
+    "en": "Allowed; drones are very popular due to the open view"
+  },
+  "bestTimeToVisit": {
+    "de": "Wochentags bei Sonnenaufgang für spektakuläres Licht über den Wolken",
+    "hu": "Hétköznap napkeltekor, a felhők feletti látványos fényekért",
+    "ro": "În timpul săptămânii la răsărit pentru lumină spectaculoasă deasupra norilor",
+    "en": "Weekdays at sunrise for spectacular light above the clouds"
+  },
+  "audioGuide": {
+    "de": "no",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

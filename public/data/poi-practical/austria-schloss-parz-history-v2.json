@@ -1,12 +1,57 @@
 {
-  "address": "Parz 1, 4710 Grieskirchen, Österreich",
-  "openingHours": "April bis Oktober: Sa-So 14:00-17:00 (Besichtigung der Außenfresken)",
-  "entranceFee": "€5 Erwachsene",
+  "address": {
+    "de": "Parz 1, 4710 Grieskirchen, Österreich",
+    "hu": "Parz 1, 4710 Grieskirchen, Ausztria",
+    "ro": "Parz 1, 4710 Grieskirchen, Austria",
+    "en": "Parz 1, 4710 Grieskirchen, Austria"
+  },
+  "openingHours": {
+    "de": "April bis Oktober: Sa-So 14:00-17:00 (Besichtigung der Außenfresken)",
+    "hu": "Áprilistól októberig: Szo-Vas 14:00-17:00 (külső freskók megtekintése)",
+    "ro": "Aprilie - Octombrie: Sâmb-Dum 14:00-17:00 (vizitarea frescelor exterioare)",
+    "en": "April to October: Sat-Sun 14:00-17:00 (viewing of exterior frescoes)"
+  },
+  "entranceFee": {
+    "de": "€5 Erwachsene",
+    "hu": "5€ felnőtt belépő",
+    "ro": "5€ adulți",
+    "en": "€5 adults"
+  },
   "website": "http://www.schloss-parz.at/",
-  "publicTransport": "Regionalzug bis Bahnhof Grieskirchen-Gallspach, ca. 15 Min Fußweg",
-  "parking": "Kostenlose Parkplätze direkt vor dem Schloss vorhanden",
-  "accessibility": "Innenhof barrierefrei, Innenräume nur über Stufen erreichbar",
-  "photoRules": "Außenaufnahmen erlaubt, Innenaufnahmen nur nach Absprache",
-  "bestTimeToVisit": "Nachmittagssonne für ideale Beleuchtung der Fassadenfresken",
-  "audioGuide": "nein"
+  "publicTransport": {
+    "de": "Regionalzug bis Bahnhof Grieskirchen-Gallspach, ca. 15 Min Fußweg",
+    "hu": "Regionális vonat Grieskirchen-Gallspach állomásig, majd kb. 15 perc séta",
+    "ro": "Tren regional până la gara Grieskirchen-Gallspach, aprox. 15 minute de mers pe jos",
+    "en": "Regional train to Grieskirchen-Gallspach station, approx. 15 min walk"
+  },
+  "parking": {
+    "de": "Kostenlose Parkplätze direkt vor dem Schloss vorhanden",
+    "hu": "Ingyenes parkolóhelyek közvetlenül a kastély előtt",
+    "ro": "Locuri de parcare gratuite disponibile chiar în fața castelului",
+    "en": "Free parking available directly in front of the castle"
+  },
+  "accessibility": {
+    "de": "Innenhof barrierefrei, Innenräume nur über Stufen erreichbar",
+    "hu": "A belső udvar akadálymentes, a belső terek csak lépcsőn érhetők el",
+    "ro": "Curtea interioară este accesibilă, spațiile interioare sunt accesibile doar pe trepte",
+    "en": "Courtyard accessible, interior rooms only reachable via steps"
+  },
+  "photoRules": {
+    "de": "Außenaufnahmen erlaubt, Innenaufnahmen nur nach Absprache",
+    "hu": "Kültéri fotózás engedélyezett, belső fotózás csak egyeztetés szerint",
+    "ro": "Fotografierea în exterior permisă, în interior doar cu acord prealabil",
+    "en": "Outdoor photography permitted, indoor photography only by arrangement"
+  },
+  "bestTimeToVisit": {
+    "de": "Nachmittagssonne für ideale Beleuchtung der Fassadenfresken",
+    "hu": "Délutáni napsütés a homlokzati freskók ideális megvilágításához",
+    "ro": "Soarele de după-amiază pentru iluminarea ideală a frescelor de pe fațadă",
+    "en": "Afternoon sun for ideal lighting of the facade frescoes"
+  },
+  "audioGuide": {
+    "de": "nein",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

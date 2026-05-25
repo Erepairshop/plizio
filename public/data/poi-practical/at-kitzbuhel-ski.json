@@ -1,12 +1,57 @@
 {
-  "address": "Hahnenkammstraße 1, 6370 Kitzbühel",
-  "openingHours": "Saisonal (Winter/Sommer): Täglich 08:30-17:00",
-  "entranceFee": "Tagesskipass ca. € 72,00 (Preise variieren nach Saison)",
+  "address": {
+    "de": "Hahnenkammstraße 1, 6370 Kitzbühel",
+    "hu": "Hahnenkammstraße 1, 6370 Kitzbühel",
+    "ro": "Hahnenkammstraße 1, 6370 Kitzbühel",
+    "en": "Hahnenkammstraße 1, 6370 Kitzbühel"
+  },
+  "openingHours": {
+    "de": "Saisonal (Winter/Sommer): Täglich 08:30-17:00",
+    "hu": "Szezonális (tél/nyár): naponta 08:30-17:00",
+    "ro": "Sezonier (iarnă/vară): zilnic 08:30-17:00",
+    "en": "Seasonal (winter/summer): daily 08:30-17:00"
+  },
+  "entranceFee": {
+    "de": "Tagesskipass ca. € 72,00 (Preise variieren nach Saison)",
+    "hu": "Napi síbérlet kb. 72,00 € (az árak szezontól függően változnak)",
+    "ro": "Skipass de o zi aprox. 72,00 € (prețurile variază în funcție de sezon)",
+    "en": "Day ski pass approx. € 72.00 (prices vary by season)"
+  },
   "website": "https://www.kitzski.at",
-  "publicTransport": "Haltestelle Kitzbühel Hahnenkamm direkt bei der Talstation.",
-  "parking": "Parkplätze an den Talstationen vorhanden (für Skifahrer oft kostenlos).",
-  "accessibility": "Moderne Bergbahnen barrierefrei, barrierefreie Gastronomie am Berg vorhanden.",
-  "photoRules": "Bergpanoramen uneingeschränkt erlaubt, ideal am Gipfel der Streif.",
-  "bestTimeToVisit": "März für 'Sonnenskilauf' mit angenehmeren Temperaturen.",
-  "audioGuide": "nein"
+  "publicTransport": {
+    "de": "Haltestelle Kitzbühel Hahnenkamm direkt bei der Talstation.",
+    "hu": "Kitzbühel Hahnenkamm megálló közvetlenül a völgyállomásnál.",
+    "ro": "Stația Kitzbühel Hahnenkamm direct la stația de bază a telecabinei.",
+    "en": "Kitzbühel Hahnenkamm stop directly at the valley station."
+  },
+  "parking": {
+    "de": "Parkplätze an den Talstationen vorhanden (für Skifahrer oft kostenlos).",
+    "hu": "Parkolók a völgyállomásoknál rendelkezésre állnak (síelőknek gyakran ingyenes).",
+    "ro": "Locuri de parcare disponibile la stațiile de bază (adesea gratuite pentru schiori).",
+    "en": "Parking spaces available at the valley stations (often free for skiers)."
+  },
+  "accessibility": {
+    "de": "Moderne Bergbahnen barrierefrei, barrierefreie Gastronomie am Berg vorhanden.",
+    "hu": "Modern akadálymentes felvonók, a hegyen akadálymentes éttermek találhatók.",
+    "ro": "Telecabine moderne accesibile, gastronomie fără bariere disponibilă pe munte.",
+    "en": "Modern cable cars are barrier-free, accessible restaurants available on the mountain."
+  },
+  "photoRules": {
+    "de": "Bergpanoramen uneingeschränkt erlaubt, ideal am Gipfel der Streif.",
+    "hu": "A hegyi panoráma korlátozás nélkül fotózható, ideális a Streif csúcsán.",
+    "ro": "Panoramele montane sunt permise fără restricții, ideal pe vârful Streif.",
+    "en": "Mountain panoramas permitted without restrictions, ideal at the summit of the Streif."
+  },
+  "bestTimeToVisit": {
+    "de": "März für 'Sonnenskilauf' mit angenehmeren Temperaturen.",
+    "hu": "Március a napsütéses síeléshez és a kellemesebb hőmérséklethez.",
+    "ro": "Martie pentru schi la soare cu temperaturi mai plăcute.",
+    "en": "March for sunny skiing with more pleasant temperatures."
+  },
+  "audioGuide": {
+    "de": "nein",
+    "hu": "nem",
+    "ro": "nu",
+    "en": "no"
+  }
 }

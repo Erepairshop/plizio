@@ -1,12 +1,57 @@
 {
-  "address": "Schloßstraße 20, 6020 Innsbruck, Österreich",
-  "openingHours": "Täglich 10:00-17:00 (November geschlossen)",
-  "entranceFee": "€16.00 (Sommer), €12.00 (Winter)",
+  "address": {
+    "de": "Schloßstraße 20, 6020 Innsbruck, Österreich",
+    "hu": "Schloßstraße 20, 6020 Innsbruck, Ausztria",
+    "ro": "Schloßstraße 20, 6020 Innsbruck, Austria",
+    "en": "Schloßstraße 20, 6020 Innsbruck, Austria"
+  },
+  "openingHours": {
+    "de": "Täglich 10:00-17:00 (November geschlossen)",
+    "hu": "Naponta 10:00-17:00 (novemberben zárva)",
+    "ro": "Zilnic 10:00-17:00 (închis în noiembrie)",
+    "en": "Daily 10:00-17:00 (closed in November)"
+  },
+  "entranceFee": {
+    "de": "€16.00 (Sommer), €12.00 (Winter)",
+    "hu": "16,00 € (nyáron), 12,00 € (télen)",
+    "ro": "16,00 € (vara), 12,00 € (iarna)",
+    "en": "€16.00 (summer), €12.00 (winter)"
+  },
   "website": "https://www.schlossambras-innsbruck.at/",
-  "publicTransport": "Buslinie 4134 oder 'The Sightseer' Hop-on Hop-off Bus",
-  "parking": "Kostenloser Parkplatz für Besucher direkt am Schloss",
-  "accessibility": "Spanischer Saal barrierefrei, Hochschloss nur über Treppen",
-  "photoRules": "Erlaubt ohne Blitz und Stativ",
-  "bestTimeToVisit": "Vormittags, um die Kunstkammer in Ruhe zu besichtigen",
-  "audioGuide": "DE, EN, FR, IT, ES"
+  "publicTransport": {
+    "de": "Buslinie 4134 oder 'The Sightseer' Hop-on Hop-off Bus",
+    "hu": "4134-es buszjárat vagy 'The Sightseer' városnéző busz",
+    "ro": "Autobuz linia 4134 sau autobuzul Hop-on Hop-off 'The Sightseer'",
+    "en": "Bus line 4134 or 'The Sightseer' Hop-on Hop-off bus"
+  },
+  "parking": {
+    "de": "Kostenloser Parkplatz für Besucher direkt am Schloss",
+    "hu": "Ingyenes parkoló a látogatóknak közvetlenül a kastélynál",
+    "ro": "Parcare gratuită pentru vizitatori direct la castel",
+    "en": "Free visitor parking directly at the castle"
+  },
+  "accessibility": {
+    "de": "Spanischer Saal barrierefrei, Hochschloss nur über Treppen",
+    "hu": "A Spanyol terem akadálymentes, a felső vár csak lépcsőn érhető el",
+    "ro": "Sala Spaniolă este accesibilă, castelul superior doar prin scări",
+    "en": "Spanish Hall is accessible, upper castle accessible only via stairs"
+  },
+  "photoRules": {
+    "de": "Erlaubt ohne Blitz und Stativ",
+    "hu": "Vaku és állvány nélkül engedélyezett",
+    "ro": "Permis fără bliț și trepied",
+    "en": "Allowed without flash or tripod"
+  },
+  "bestTimeToVisit": {
+    "de": "Vormittags, um die Kunstkammer in Ruhe zu besichtigen",
+    "hu": "Délelőtt, a műkincstár nyugodt megtekintéséhez",
+    "ro": "Dimineața, pentru a vizita camera de artă în liniște",
+    "en": "In the morning to visit the Chamber of Art and Curiosities in peace"
+  },
+  "audioGuide": {
+    "de": "DE, EN, FR, IT, ES",
+    "hu": "DE, EN, FR, IT, ES nyelveken elérhető",
+    "ro": "DE, EN, FR, IT, ES",
+    "en": "Available in DE, EN, FR, IT, ES"
+  }
 }

@@ -1,12 +1,57 @@
 {
-  "address": "Cloef, 66693 Mettlach",
-  "openingHours": "24/7",
-  "entranceFee": "free",
+  "address": {
+    "de": "Cloef, 66693 Mettlach",
+    "hu": "Cloef, 66693 Mettlach",
+    "ro": "Cloef, 66693 Mettlach",
+    "en": "Cloef, 66693 Mettlach"
+  },
+  "openingHours": {
+    "de": "24/7",
+    "hu": "24/7",
+    "ro": "24/7",
+    "en": "24/7"
+  },
+  "entranceFee": {
+    "de": "free",
+    "hu": "ingyenes",
+    "ro": "gratuit",
+    "en": "free"
+  },
   "website": "https://www.baumwipfelpfade.de/saarschleife/",
-  "publicTransport": "Bus 201 von Mettlach",
-  "parking": "Parkplatz Cloef (kostenpflichtig)",
-  "accessibility": "Baumwipfelpfad barrierefrei",
-  "photoRules": "Erlaubt",
-  "bestTimeToVisit": "Früher Morgen bei Nebel",
-  "audioGuide": "no"
+  "publicTransport": {
+    "de": "Bus 201 von Mettlach",
+    "hu": "201-es busz Mettlachból",
+    "ro": "Autobuz 201 din Mettlach",
+    "en": "Bus 201 from Mettlach"
+  },
+  "parking": {
+    "de": "Parkplatz Cloef (kostenpflichtig)",
+    "hu": "Cloef parkoló (díjköteles)",
+    "ro": "Parcare Cloef (cu plată)",
+    "en": "Parking Cloef (fee required)"
+  },
+  "accessibility": {
+    "de": "Baumwipfelpfad barrierefrei",
+    "hu": "A lombkoronaösvény akadálymentes",
+    "ro": "Poteca de la nivelul coroanei copacilor este accesibilă",
+    "en": "Treetop walk is accessible"
+  },
+  "photoRules": {
+    "de": "Erlaubt",
+    "hu": "Engedélyezett",
+    "ro": "Permis",
+    "en": "Allowed"
+  },
+  "bestTimeToVisit": {
+    "de": "Früher Morgen bei Nebel",
+    "hu": "Kora reggel, ködben",
+    "ro": "Dimineața devreme cu ceață",
+    "en": "Early morning with mist"
+  },
+  "audioGuide": {
+    "de": "no",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

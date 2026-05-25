@@ -1,12 +1,57 @@
 {
-  "address": "Strada Ștefan cel Mare 82, 730168 Vaslui",
-  "openingHours": "Tu-Su 09:00-17:00",
-  "entranceFee": "6 RON Erwachsene, 2 RON Kinder",
+  "address": {
+    "de": "Strada Ștefan cel Mare 82, 730168 Vaslui",
+    "hu": "Strada Ștefan cel Mare 82, 730168 Vaslui",
+    "ro": "Strada Ștefan cel Mare 82, 730168 Vaslui",
+    "en": "Strada Ștefan cel Mare 82, 730168 Vaslui"
+  },
+  "openingHours": {
+    "de": "Tu-Su 09:00-17:00",
+    "hu": "Ké-Va 09:00-17:00",
+    "ro": "Ma-Du 09:00-17:00",
+    "en": "Tue-Sun 09:00-17:00"
+  },
+  "entranceFee": {
+    "de": "6 RON Erwachsene, 2 RON Kinder",
+    "hu": "6 RON felnőtteknek, 2 RON gyerekeknek",
+    "ro": "6 RON adulți, 2 RON copii",
+    "en": "6 RON adults, 2 RON children"
+  },
   "website": "http://www.muzeuvaslui.ro",
-  "publicTransport": "Buslinien 1, 2, 3 bis Haltestelle Centru.",
-  "parking": "Parkplatz direkt hinter dem Museumsgebäude.",
-  "accessibility": "Rampen am Eingang vorhanden, Ausstellungen ebenerdig.",
-  "photoRules": "Gegen Gebühr von 10 RON gestattet.",
-  "bestTimeToVisit": "Wochenenden sind oft ruhig.",
-  "audioGuide": "nein"
+  "publicTransport": {
+    "de": "Buslinien 1, 2, 3 bis Haltestelle Centru.",
+    "hu": "1, 2, 3-as buszok a Centru megállóig.",
+    "ro": "Liniile de autobuz 1, 2, 3 până la stația Centru.",
+    "en": "Bus lines 1, 2, 3 to Centru stop."
+  },
+  "parking": {
+    "de": "Parkplatz direkt hinter dem Museumsgebäude.",
+    "hu": "Parkoló közvetlenül a múzeumépület mögött.",
+    "ro": "Parcare direct în spatele clădirii muzeului.",
+    "en": "Parking directly behind the museum building."
+  },
+  "accessibility": {
+    "de": "Rampen am Eingang vorhanden, Ausstellungen ebenerdig.",
+    "hu": "Rámpák a bejáratnál, kiállítások földszinten.",
+    "ro": "Rampe la intrare, expoziții la parter.",
+    "en": "Ramps at the entrance, exhibitions on the ground floor."
+  },
+  "photoRules": {
+    "de": "Gegen Gebühr von 10 RON gestattet.",
+    "hu": "10 RON díj ellenében engedélyezett.",
+    "ro": "Permis contra unei taxe de 10 RON.",
+    "en": "Allowed for a fee of 10 RON."
+  },
+  "bestTimeToVisit": {
+    "de": "Wochenenden sind oft ruhig.",
+    "hu": "A hétvégék gyakran nyugodtak.",
+    "ro": "Weekendurile sunt adesea liniștite.",
+    "en": "Weekends are often quiet."
+  },
+  "audioGuide": {
+    "de": "nein",
+    "hu": "nem",
+    "ro": "nu",
+    "en": "no"
+  }
 }

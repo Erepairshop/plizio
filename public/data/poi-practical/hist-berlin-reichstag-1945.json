@@ -1,12 +1,57 @@
 {
-  "address": "Platz der Republik 1, 11011 Berlin",
-  "openingHours": "Kuppel: täglich 08:00-24:00 (Anmeldung erforderlich)",
-  "entranceFee": "free (nur mit Online-Voranmeldung)",
+  "address": {
+    "de": "Platz der Republik 1, 11011 Berlin",
+    "hu": "Platz der Republik 1, 11011 Berlin",
+    "ro": "Platz der Republik 1, 11011 Berlin",
+    "en": "Platz der Republik 1, 11011 Berlin"
+  },
+  "openingHours": {
+    "de": "Kuppel: täglich 08:00-24:00 (Anmeldung erforderlich)",
+    "hu": "Kupola: naponta 08:00–24:00 (előzetes regisztráció szükséges)",
+    "ro": "Cupola: zilnic 08:00-24:00 (necesită programare)",
+    "en": "Dome: daily 08:00 AM-midnight (registration required)"
+  },
+  "entranceFee": {
+    "de": "free (nur mit Online-Voranmeldung)",
+    "hu": "ingyenes (csak online regisztrációval)",
+    "ro": "gratuit (doar cu programare prealabilă online)",
+    "en": "free (online registration required)"
+  },
   "website": "https://www.bundestag.de/besuche/kuppel",
-  "publicTransport": "U55 bis 'Bundestag' oder S-Bahn bis 'Brandenburger Tor'",
-  "parking": "Keine Parkplätze am Gebäude; Parken in der Mall of Berlin (ca. 15 Min. Fußweg)",
-  "accessibility": "Voll barrierefrei, Aufzüge zur Kuppel und zum Restaurant vorhanden",
-  "photoRules": "Erlaubt; Sicherheitskontrolle wie am Flughafen beachten",
-  "bestTimeToVisit": "Abends für den Blick über das beleuchtete Berlin",
-  "audioGuide": "Inklusive bei Kuppelbesuch (automatischer Start je nach Position)"
+  "publicTransport": {
+    "de": "U55 bis 'Bundestag' oder S-Bahn bis 'Brandenburger Tor'",
+    "hu": "U55 metró Bundestag megállóig, vagy S-Bahn Brandenburger Tor megállóig",
+    "ro": "Metrou U55 până la „Bundestag” sau S-Bahn până la „Brandenburger Tor”",
+    "en": "U55 to 'Bundestag' or S-Bahn to 'Brandenburger Tor'"
+  },
+  "parking": {
+    "de": "Keine Parkplätze am Gebäude; Parken in der Mall of Berlin (ca. 15 Min. Fußweg)",
+    "hu": "Nincs parkoló az épületnél; javasolt a Mall of Berlin (kb. 15 perc séta)",
+    "ro": "Fără parcare la clădire; parcare la Mall of Berlin (aprox. 15 min. de mers pe jos)",
+    "en": "No parking at the building; parking at Mall of Berlin (approx. 15 min. walk)"
+  },
+  "accessibility": {
+    "de": "Voll barrierefrei, Aufzüge zur Kuppel und zum Restaurant vorhanden",
+    "hu": "Teljesen akadálymentes, lift biztosított a kupolához és az étteremhez",
+    "ro": "Complet accesibil, există lifturi către cupolă și restaurant",
+    "en": "Fully accessible, elevators to the dome and restaurant available"
+  },
+  "photoRules": {
+    "de": "Erlaubt; Sicherheitskontrolle wie am Flughafen beachten",
+    "hu": "Megengedett; a repülőtérihez hasonló biztonsági ellenőrzésre kell számítani",
+    "ro": "Permis; atenție la controlul de securitate similar celui din aeroport",
+    "en": "Allowed; be prepared for airport-style security check"
+  },
+  "bestTimeToVisit": {
+    "de": "Abends für den Blick über das beleuchtete Berlin",
+    "hu": "Este, a kivilágított Berlinre nyíló panoráma miatt",
+    "ro": "Seara pentru vederea asupra Berlinului iluminat",
+    "en": "In the evening for the view over illuminated Berlin"
+  },
+  "audioGuide": {
+    "de": "Inklusive bei Kuppelbesuch (automatischer Start je nach Position)",
+    "hu": "Kupolalátogatáskor jár (automatikusan indul a pozíció alapján)",
+    "ro": "Inclus la vizitarea cupolei (pornire automată în funcție de poziție)",
+    "en": "Included with dome visit (starts automatically based on position)"
+  }
 }

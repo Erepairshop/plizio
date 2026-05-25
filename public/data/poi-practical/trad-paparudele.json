@@ -1,12 +1,57 @@
 {
-  "address": "Dörfliche Regionen in Südrumänien (z.B. Județul Giurgiu oder Teleorman)",
-  "openingHours": "Traditionell am dritten Dienstag nach Ostern oder bei extremer Dürre",
-  "entranceFee": "frei (Spenden an die Tanzenden sind üblich)",
+  "address": {
+    "de": "Dörfliche Regionen in Südrumänien (z.B. Județul Giurgiu oder Teleorman)",
+    "hu": "Dél-romániai falusi régiók (pl. Giurgiu vagy Teleorman megye)",
+    "ro": "Regiuni rurale din sudul României (ex. Județul Giurgiu sau Teleorman)",
+    "en": "Rural regions in Southern Romania (e.g., Giurgiu or Teleorman County)"
+  },
+  "openingHours": {
+    "de": "Traditionell am dritten Dienstag nach Ostern oder bei extremer Dürre",
+    "hu": "Hagyományosan húsvét utáni harmadik kedden vagy nagy szárazság idején",
+    "ro": "Tradițional în a treia zi de marți după Paște sau în caz de secetă extremă",
+    "en": "Traditionally on the third Tuesday after Easter or during extreme drought"
+  },
+  "entranceFee": {
+    "de": "frei (Spenden an die Tanzenden sind üblich)",
+    "hu": "ingyenes (szokás adományozni a táncolóknak)",
+    "ro": "gratuit (donațiile către dansatori sunt obișnuite)",
+    "en": "free (donations to dancers customary)"
+  },
   "website": "",
-  "publicTransport": "Regionale Busse ab Bukarest (Autogara Rahova) in ländliche Gebiete",
-  "parking": "In den Dörfern meist kostenfrei am Straßenrand möglich",
-  "accessibility": "Eingeschränkt, da die Rituale meist auf unbefestigten Dorfstraßen stattfinden.",
-  "photoRules": "Erlaubt, aber Diskretion und Respekt gegenüber den Ausführenden geboten.",
-  "bestTimeToVisit": "Vormittags bis zum frühen Nachmittag während der rituellen Dorfumzüge.",
-  "audioGuide": "nein"
+  "publicTransport": {
+    "de": "Regionale Busse ab Bukarest (Autogara Rahova) in ländliche Gebiete",
+    "hu": "Regionális buszok Bukarestből (Autogara Rahova) a vidéki területekre",
+    "ro": "Autobuze regionale din București (Autogara Rahova) către zone rurale",
+    "en": "Regional buses from Bucharest (Autogara Rahova) to rural areas"
+  },
+  "parking": {
+    "de": "In den Dörfern meist kostenfrei am Straßenrand möglich",
+    "hu": "A falvakban többnyire ingyenes parkolás az út szélén",
+    "ro": "În sate, de obicei parcare gratuită pe marginea drumului",
+    "en": "Usually free roadside parking possible in villages"
+  },
+  "accessibility": {
+    "de": "Eingeschränkt, da die Rituale meist auf unbefestigten Dorfstraßen stattfinden.",
+    "hu": "Korlátozott, mivel a rituálék többnyire burkolatlan falusi utakon zajlanak.",
+    "ro": "Limitat, deoarece ritualurile au loc adesea pe drumuri de țară neamenajate.",
+    "en": "Limited, as rituals often take place on unpaved village roads."
+  },
+  "photoRules": {
+    "de": "Erlaubt, aber Diskretion und Respekt gegenüber den Ausführenden geboten.",
+    "hu": "Megengedett, de a diszkréció és a tisztelet kötelező a résztvevők iránt.",
+    "ro": "Permis, dar se cere discreție și respect față de participanți.",
+    "en": "Allowed, but discretion and respect towards participants required."
+  },
+  "bestTimeToVisit": {
+    "de": "Vormittags bis zum frühen Nachmittag während der rituellen Dorfumzüge.",
+    "hu": "Délelőttől kora délutánig a rituális falusi felvonulások idején.",
+    "ro": "Dimineața până după-amiaza devreme în timpul procesiunilor rituale.",
+    "en": "Morning to early afternoon during ritual village processions."
+  },
+  "audioGuide": {
+    "de": "nein",
+    "hu": "nem",
+    "ro": "nu",
+    "en": "no"
+  }
 }

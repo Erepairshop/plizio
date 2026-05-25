@@ -1,12 +1,57 @@
 {
-  "address": "Bulevardul Carol I, 700506 Iași",
-  "openingHours": "24/7",
-  "entranceFee": "kostenlos",
+  "address": {
+    "de": "Bulevardul Carol I, 700506 Iași",
+    "hu": "Bulevardul Carol I, 700506 Iași",
+    "ro": "Bulevardul Carol I, 700506 Iași",
+    "en": "Bulevardul Carol I, 700506 Iași"
+  },
+  "openingHours": {
+    "de": "24/7",
+    "hu": "24/7",
+    "ro": "24/7",
+    "en": "24/7"
+  },
+  "entranceFee": {
+    "de": "kostenlos",
+    "hu": "ingyenes",
+    "ro": "gratuit",
+    "en": "free"
+  },
   "website": "https://www.primaria-iasi.ro",
-  "publicTransport": "Straßenbahnlinien 1, 8, 9 oder 13 bis Haltestelle Copou",
-  "parking": "Begrenzte kostenpflichtige Parkplätze an den umliegenden Straßen (ca. 5 RON/Std.)",
-  "accessibility": "Haupteingänge und Hauptwege sind rollstuhlgerecht",
-  "photoRules": "Privates Fotografieren erlaubt, Stativnutzung auf Gehwegen unproblematisch",
-  "bestTimeToVisit": "Frühling zur Lindenblüte oder im Herbst für die bunte Laubfärbung",
-  "audioGuide": "nein"
+  "publicTransport": {
+    "de": "Straßenbahnlinien 1, 8, 9 oder 13 bis Haltestelle Copou",
+    "hu": "1, 8, 9 vagy 13-as villamos a Copou megállóig",
+    "ro": "Liniile de tramvai 1, 8, 9 sau 13 până la stația Copou",
+    "en": "Tram lines 1, 8, 9 or 13 to Copou stop"
+  },
+  "parking": {
+    "de": "Begrenzte kostenpflichtige Parkplätze an den umliegenden Straßen (ca. 5 RON/Std.)",
+    "hu": "Korlátozott fizetős parkolási lehetőség a környező utcákban (kb. 5 RON/óra)",
+    "ro": "Parcări cu plată limitate pe străzile din jur (aprox. 5 RON/oră)",
+    "en": "Limited paid parking on surrounding streets (approx. 5 RON/hour)"
+  },
+  "accessibility": {
+    "de": "Haupteingänge und Hauptwege sind rollstuhlgerecht",
+    "hu": "A főbejáratok és főutak kerekesszékkel járhatóak",
+    "ro": "Intrările principale și aleile principale sunt accesibile cu scaunul cu rotile",
+    "en": "Main entrances and main paths are wheelchair accessible"
+  },
+  "photoRules": {
+    "de": "Privates Fotografieren erlaubt, Stativnutzung auf Gehwegen unproblematisch",
+    "hu": "Magánjellegű fényképezés engedélyezett, állvány használata a járdákon nem jelent gondot",
+    "ro": "Fotografierea privată este permisă, utilizarea trepiedului pe alei nu este o problemă",
+    "en": "Private photography permitted, use of tripod on sidewalks is unproblematic"
+  },
+  "bestTimeToVisit": {
+    "de": "Frühling zur Lindenblüte oder im Herbst für die bunte Laubfärbung",
+    "hu": "Tavasz a hársfavirágzáskor, vagy ősz a színes lombhullásért",
+    "ro": "Primăvara în timpul înfloririi teilor sau toamna pentru coloritul frunzelor",
+    "en": "Spring during linden blossom or autumn for colorful fall foliage"
+  },
+  "audioGuide": {
+    "de": "nein",
+    "hu": "nem",
+    "ro": "nu",
+    "en": "no"
+  }
 }

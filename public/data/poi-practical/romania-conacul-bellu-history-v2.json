@@ -1,12 +1,57 @@
 {
-  "address": "Strada Orzoaia de Sus 2, 106300 Urlați",
-  "openingHours": "Di-So 09:00-17:00",
-  "entranceFee": "12 RON Erwachsene, 4 RON Kinder",
+  "address": {
+    "de": "Strada Orzoaia de Sus 2, 106300 Urlați",
+    "hu": "Strada Orzoaia de Sus 2, 106300 Urlați",
+    "ro": "Strada Orzoaia de Sus 2, 106300 Urlați",
+    "en": "Strada Orzoaia de Sus 2, 106300 Urlați"
+  },
+  "openingHours": {
+    "de": "Di-So 09:00-17:00",
+    "hu": "K-V 09:00-17:00",
+    "ro": "Mar-Du 09:00-17:00",
+    "en": "Tue-Sun 09:00-17:00"
+  },
+  "entranceFee": {
+    "de": "12 RON Erwachsene, 4 RON Kinder",
+    "hu": "12 RON felnőttek, 4 RON gyerekek",
+    "ro": "12 RON adulți, 4 RON copii",
+    "en": "12 RON adults, 4 RON children"
+  },
   "website": "",
-  "publicTransport": "Busverbindungen von Ploiești nach Urlați.",
-  "parking": "Parkplätze vor dem Eingangsbereich vorhanden.",
-  "accessibility": "Eingeschränkt barrierefrei (historische Schwellen).",
-  "photoRules": "Fotos im Innenbereich kostenpflichtig.",
-  "bestTimeToVisit": "Herbst während der Weinlese in der Region Dealu Mare.",
-  "audioGuide": "nein"
+  "publicTransport": {
+    "de": "Busverbindungen von Ploiești nach Urlați.",
+    "hu": "Buszjáratok Ploiești és Urlați között.",
+    "ro": "Legături cu autobuzul între Ploiești și Urlați.",
+    "en": "Bus connections from Ploiești to Urlați."
+  },
+  "parking": {
+    "de": "Parkplätze vor dem Eingangsbereich vorhanden.",
+    "hu": "Parkolóhelyek a bejárat előtt.",
+    "ro": "Parcare disponibilă în fața intrării.",
+    "en": "Parking available in front of the entrance."
+  },
+  "accessibility": {
+    "de": "Eingeschränkt barrierefrei (historische Schwellen).",
+    "hu": "Korlátozottan akadálymentes (történelmi küszöbök).",
+    "ro": "Accesibilitate limitată (praguri istorice).",
+    "en": "Limited accessibility (historic thresholds)."
+  },
+  "photoRules": {
+    "de": "Fotos im Innenbereich kostenpflichtig.",
+    "hu": "A belső terekben a fotózás díjköteles.",
+    "ro": "Fotografierea la interior este contra cost.",
+    "en": "Indoor photography requires a fee."
+  },
+  "bestTimeToVisit": {
+    "de": "Herbst während der Weinlese in der Region Dealu Mare.",
+    "hu": "Ősszel, a Dealu Mare régió szürete idején.",
+    "ro": "Toamna, în timpul culesului viilor în regiunea Dealu Mare.",
+    "en": "Autumn during the grape harvest in the Dealu Mare region."
+  },
+  "audioGuide": {
+    "de": "nein",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

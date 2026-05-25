@@ -1,12 +1,57 @@
 {
-  "address": "Bulevardul Nicolae Bălcescu 2, 010051 București",
-  "openingHours": "Kasse täglich 11:00-19:00, Vorstellungen laut Spielplan",
-  "entranceFee": "30-100 RON je nach Saal und Stück",
+  "address": {
+    "de": "Bulevardul Nicolae Bălcescu 2, 010051 București",
+    "hu": "Bulevardul Nicolae Bălcescu 2, 010051 Bukarest",
+    "ro": "Bulevardul Nicolae Bălcescu 2, 010051 București",
+    "en": "2 Bulevardul Nicolae Bălcescu, 010051 Bucharest"
+  },
+  "openingHours": {
+    "de": "Kasse täglich 11:00-19:00, Vorstellungen laut Spielplan",
+    "hu": "Pénztár naponta 11:00-19:00, előadások a műsorrend szerint",
+    "ro": "Casierie zilnic 11:00-19:00, spectacole conform programului",
+    "en": "Ticket office daily 11:00-19:00, performances according to schedule"
+  },
+  "entranceFee": {
+    "de": "30-100 RON je nach Saal und Stück",
+    "hu": "30-100 RON a teremtől és a darabtól függően",
+    "ro": "30-100 RON în funcție de sală și piesă",
+    "en": "30-100 RON depending on the hall and play"
+  },
   "website": "https://www.tnb.ro/",
-  "publicTransport": "Metro M2 (Haltestelle Universitate)",
-  "parking": "Große Tiefgarage direkt unter dem Universitätsplatz.",
-  "accessibility": "Alle Säle sind modernisiert und für Rollstuhlfahrer zugänglich.",
-  "photoRules": "Nicht während der Aufführungen; Architekturfotos im Foyer gestattet.",
-  "bestTimeToVisit": "Abends; die Dachterrasse bietet einen tollen Blick über die Stadt.",
-  "audioGuide": "no"
+  "publicTransport": {
+    "de": "Metro M2 (Haltestelle Universitate)",
+    "hu": "M2 metró (Universitate megálló)",
+    "ro": "Metrou M2 (stația Universitate)",
+    "en": "Metro M2 (Universitate station)"
+  },
+  "parking": {
+    "de": "Große Tiefgarage direkt unter dem Universitätsplatz.",
+    "hu": "Nagy mélygarázs közvetlenül az Egyetem tér alatt.",
+    "ro": "Parcare subterană mare direct sub Piața Universității.",
+    "en": "Large underground parking directly beneath University Square."
+  },
+  "accessibility": {
+    "de": "Alle Säle sind modernisiert und für Rollstuhlfahrer zugänglich.",
+    "hu": "Minden terem modernizált és kerekesszékkel megközelíthető.",
+    "ro": "Toate sălile sunt modernizate și accesibile pentru persoanele în scaun cu rotile.",
+    "en": "All halls are modernized and accessible for wheelchair users."
+  },
+  "photoRules": {
+    "de": "Nicht während der Aufführungen; Architekturfotos im Foyer gestattet.",
+    "hu": "Az előadás alatt tilos; építészeti fotók készítése az előtérben megengedett.",
+    "ro": "Nu în timpul spectacolelor; fotografii de arhitectură permise în foaier.",
+    "en": "Not during performances; architectural photos in the foyer allowed."
+  },
+  "bestTimeToVisit": {
+    "de": "Abends; die Dachterrasse bietet einen tollen Blick über die Stadt.",
+    "hu": "Este; a tetőteraszról nagyszerű kilátás nyílik a városra.",
+    "ro": "Seara; terasa de pe acoperiș oferă o vedere superbă asupra orașului.",
+    "en": "In the evening; the rooftop terrace offers a great view over the city."
+  },
+  "audioGuide": {
+    "de": "no",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

@@ -1,12 +1,57 @@
 {
-  "address": "Museumsplatz 1, 1070 Wien",
-  "openingHours": "Mo-Su 00:00-24:00",
-  "entranceFee": "Innenhöfe kostenlos, Museen variieren",
+  "address": {
+    "de": "Museumsplatz 1, 1070 Wien",
+    "hu": "Museumsplatz 1, 1070 Bécs",
+    "ro": "Museumsplatz 1, 1070 Viena",
+    "en": "Museumsplatz 1, 1070 Vienna"
+  },
+  "openingHours": {
+    "de": "Mo-Su 00:00-24:00",
+    "hu": "H-V 00:00-24:00 (nyitott udvarok)",
+    "ro": "Lu-Du 00:00-24:00",
+    "en": "Mon-Sun 00:00-24:00"
+  },
+  "entranceFee": {
+    "de": "Innenhöfe kostenlos, Museen variieren",
+    "hu": "A belső udvarok ingyenesek, a múzeumi belépők változóak",
+    "ro": "Curțile interioare sunt gratuite, muzeele variază",
+    "en": "Courtyards free, museum fees vary"
+  },
   "website": "https://www.mqw.at",
-  "publicTransport": "U2, U3 Volkstheater",
-  "parking": "MQ Garage unter dem Areal, ca. 4€/Std.",
-  "accessibility": "Das gesamte Areal ist barrierefrei zugänglich.",
-  "photoRules": "In den Höfen erlaubt, in Museen nach Hausordnung.",
-  "bestTimeToVisit": "Abends, wenn die Höfe beleuchtet sind.",
-  "audioGuide": "nein"
+  "publicTransport": {
+    "de": "U2, U3 Volkstheater",
+    "hu": "U2, U3 metró, Volkstheater megálló",
+    "ro": "U2, U3 Volkstheater",
+    "en": "U2, U3 Volkstheater"
+  },
+  "parking": {
+    "de": "MQ Garage unter dem Areal, ca. 4€/Std.",
+    "hu": "MQ mélygarázs a terület alatt, kb. 4 €/óra.",
+    "ro": "Garajul MQ sub complex, aprox. 4 €/oră.",
+    "en": "MQ garage under the site, approx. 4 €/h."
+  },
+  "accessibility": {
+    "de": "Das gesamte Areal ist barrierefrei zugänglich.",
+    "hu": "A teljes terület akadálymentesen megközelíthető.",
+    "ro": "Întregul complex este accesibil fără bariere.",
+    "en": "The entire area is barrier-free."
+  },
+  "photoRules": {
+    "de": "In den Höfen erlaubt, in Museen nach Hausordnung.",
+    "hu": "Az udvarokon megengedett, a múzeumokban a házirend szerint.",
+    "ro": "Permis în curți, în muzee conform regulamentului intern.",
+    "en": "Permitted in the courtyards, in museums according to house rules."
+  },
+  "bestTimeToVisit": {
+    "de": "Abends, wenn die Höfe beleuchtet sind.",
+    "hu": "Este, amikor az udvarok ki vannak világítva.",
+    "ro": "Seara, când curțile sunt iluminate.",
+    "en": "In the evening, when the courtyards are illuminated."
+  },
+  "audioGuide": {
+    "de": "nein",
+    "hu": "nem",
+    "ro": "nu",
+    "en": "no"
+  }
 }

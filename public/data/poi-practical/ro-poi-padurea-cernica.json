@@ -1,12 +1,57 @@
 {
-  "address": "Comuna Cernica, 077035 Ilfov",
-  "openingHours": "24/7",
-  "entranceFee": "free",
+  "address": {
+    "de": "Comuna Cernica, 077035 Ilfov",
+    "hu": "Cernica község, 077035 Ilfov",
+    "ro": "Comuna Cernica, 077035 Ilfov",
+    "en": "Cernica commune, 077035 Ilfov"
+  },
+  "openingHours": {
+    "de": "24/7",
+    "hu": "24/7",
+    "ro": "24/7",
+    "en": "24/7"
+  },
+  "entranceFee": {
+    "de": "free",
+    "hu": "ingyenes",
+    "ro": "gratuit",
+    "en": "free"
+  },
   "website": "",
-  "publicTransport": "Bus 407 oder 451 ab Bukarest (Halt Cernica).",
-  "parking": "Kostenlose Parkplätze am Klostereingang.",
-  "accessibility": "Nur bedingt, meist unbefestigte Waldwege.",
-  "photoRules": "Erlaubt, beliebt für Portrait-Shootings.",
-  "bestTimeToVisit": "Wochenende zum Wandern oder Picknicken.",
-  "audioGuide": "no"
+  "publicTransport": {
+    "de": "Bus 407 oder 451 ab Bukarest (Halt Cernica).",
+    "hu": "407-es vagy 451-es busz Bukarestből (Megálló: Cernica).",
+    "ro": "Autobuzul 407 sau 451 din București (Stația Cernica).",
+    "en": "Bus 407 or 451 from Bucharest (Stop: Cernica)."
+  },
+  "parking": {
+    "de": "Kostenlose Parkplätze am Klostereingang.",
+    "hu": "Ingyenes parkolás a kolostor bejáratánál.",
+    "ro": "Parcare gratuită la intrarea în mănăstire.",
+    "en": "Free parking at the monastery entrance."
+  },
+  "accessibility": {
+    "de": "Nur bedingt, meist unbefestigte Waldwege.",
+    "hu": "Csak korlátozottan, többnyire nem burkolt erdei utak.",
+    "ro": "Doar parțial, majoritatea traseelor forestiere sunt neamenajate.",
+    "en": "Only partially, mostly unpaved forest paths."
+  },
+  "photoRules": {
+    "de": "Erlaubt, beliebt für Portrait-Shootings.",
+    "hu": "Engedélyezett, népszerű portréfotózásokhoz.",
+    "ro": "Permis, popular pentru ședințe foto de portret.",
+    "en": "Permitted, popular for portrait shoots."
+  },
+  "bestTimeToVisit": {
+    "de": "Wochenende zum Wandern oder Picknicken.",
+    "hu": "Hétvégén túrázáshoz vagy piknikezéshez.",
+    "ro": "Weekend pentru drumeții sau picnic.",
+    "en": "Weekends for hiking or picnics."
+  },
+  "audioGuide": {
+    "de": "no",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

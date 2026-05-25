@@ -1,12 +1,57 @@
 {
-  "address": "Strada Ștefan cel Mare, 440008 Satu Mare",
-  "openingHours": "Tu-Su 10:00-21:00 (Sommer), 10:00-17:00 (Winter)",
-  "entranceFee": "5 RON Erwachsene, 3 RON Kinder",
+  "address": {
+    "de": "Strada Ștefan cel Mare, 440008 Satu Mare",
+    "hu": "Strada Ștefan cel Mare, 440008 Szatmárnémeti",
+    "ro": "Strada Ștefan cel Mare, 440008 Satu Mare",
+    "en": "Strada Ștefan cel Mare, 440008 Satu Mare"
+  },
+  "openingHours": {
+    "de": "Tu-Su 10:00-21:00 (Sommer), 10:00-17:00 (Winter)",
+    "hu": "K-V 10:00-21:00 (nyáron), 10:00-17:00 (télen)",
+    "ro": "Mar-Du 10:00-21:00 (vară), 10:00-17:00 (iarnă)",
+    "en": "Tue-Sun 10:00-21:00 (summer), 10:00-17:00 (winter)"
+  },
+  "entranceFee": {
+    "de": "5 RON Erwachsene, 3 RON Kinder",
+    "hu": "5 RON felnőttek, 3 RON gyerekek",
+    "ro": "5 RON adulți, 3 RON copii",
+    "en": "5 RON adults, 3 RON children"
+  },
   "website": "",
-  "publicTransport": "Buslinien 1, 13, 15 bis Haltestelle Centru.",
-  "parking": "Gebührenpflichtiges Parken in der Umgebung des Parks.",
-  "accessibility": "Nicht barrierefrei, enger Aufstieg über 175 Stufen.",
-  "photoRules": "Erlaubt, Panoramabilder von oben sehr empfehlenswert.",
-  "bestTimeToVisit": "Bei klarer Sicht für den Blick bis zur Grenze.",
-  "audioGuide": "nein"
+  "publicTransport": {
+    "de": "Buslinien 1, 13, 15 bis Haltestelle Centru.",
+    "hu": "1, 13, 15-ös buszok a Centru megállóig.",
+    "ro": "Liniile 1, 13, 15 până la stația Centru.",
+    "en": "Bus lines 1, 13, 15 to Centru stop."
+  },
+  "parking": {
+    "de": "Gebührenpflichtiges Parken in der Umgebung des Parks.",
+    "hu": "Fizetős parkolás a park környékén.",
+    "ro": "Parcare cu plată în zona parcului.",
+    "en": "Paid parking in the area surrounding the park."
+  },
+  "accessibility": {
+    "de": "Nicht barrierefrei, enger Aufstieg über 175 Stufen.",
+    "hu": "Nem akadálymentes, szűk feljáró 175 lépcsőfokkal.",
+    "ro": "Nu este accesibil, urcare îngustă pe 175 de trepte.",
+    "en": "Not accessible, narrow ascent via 175 steps."
+  },
+  "photoRules": {
+    "de": "Erlaubt, Panoramabilder von oben sehr empfehlenswert.",
+    "hu": "Engedélyezett, fentről készült panorámaképek erősen ajánlottak.",
+    "ro": "Permis, imaginile panoramice de sus sunt foarte recomandate.",
+    "en": "Allowed, panoramic photos from above are highly recommended."
+  },
+  "bestTimeToVisit": {
+    "de": "Bei klarer Sicht für den Blick bis zur Grenze.",
+    "hu": "Tiszta időben, a határig érő kilátásért.",
+    "ro": "Pe timp senin, pentru priveliștea până la graniță.",
+    "en": "In clear weather for views as far as the border."
+  },
+  "audioGuide": {
+    "de": "nein",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

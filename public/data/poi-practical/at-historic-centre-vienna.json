@@ -1,12 +1,57 @@
 {
-  "address": "Stephansplatz, 1010 Wien",
-  "openingHours": "24/7",
-  "entranceFee": "frei",
+  "address": {
+    "de": "Stephansplatz, 1010 Wien",
+    "hu": "Stephansplatz, 1010 Bécs",
+    "ro": "Stephansplatz, 1010 Viena",
+    "en": "Stephansplatz, 1010 Vienna"
+  },
+  "openingHours": {
+    "de": "24/7",
+    "hu": "24/7",
+    "ro": "24/7",
+    "en": "24/7"
+  },
+  "entranceFee": {
+    "de": "frei",
+    "hu": "ingyenes",
+    "ro": "gratuit",
+    "en": "free"
+  },
   "website": "https://www.wien.info",
-  "publicTransport": "U1, U3 Stephansplatz oder U2 Schottentor",
-  "parking": "Tiefgaragen wie Stephansplatz oder Kärntnerring (ca. 5 €/h).",
-  "accessibility": "Größtenteils Fußgängerzone und barrierefrei begehbar.",
-  "photoRules": "Im öffentlichen Raum uneingeschränkt erlaubt.",
-  "bestTimeToVisit": "In der Morgendämmerung, um den Stephansplatz ohne Menschenmassen zu erleben.",
-  "audioGuide": "ja (viele Anbieter via Smartphone-Apps)"
+  "publicTransport": {
+    "de": "U1, U3 Stephansplatz oder U2 Schottentor",
+    "hu": "U1, U3 Stephansplatz vagy U2 Schottentor",
+    "ro": "U1, U3 Stephansplatz sau U2 Schottentor",
+    "en": "U1, U3 Stephansplatz or U2 Schottentor"
+  },
+  "parking": {
+    "de": "Tiefgaragen wie Stephansplatz oder Kärntnerring (ca. 5 €/h).",
+    "hu": "Mélygarázsok, mint a Stephansplatz vagy Kärntnerring (kb. 5 €/óra).",
+    "ro": "Parcări subterane precum Stephansplatz sau Kärntnerring (cca 5 €/h).",
+    "en": "Underground garages such as Stephansplatz or Kärntnerring (approx. €5/h)."
+  },
+  "accessibility": {
+    "de": "Größtenteils Fußgängerzone und barrierefrei begehbar.",
+    "hu": "Nagyobbrészt sétálóövezet és akadálymentesen bejárható.",
+    "ro": "În mare parte zonă pietonală și accesibilă fără bariere.",
+    "en": "Mostly pedestrian zone and accessible without barriers."
+  },
+  "photoRules": {
+    "de": "Im öffentlichen Raum uneingeschränkt erlaubt.",
+    "hu": "Közterületen korlátozás nélkül engedélyezett.",
+    "ro": "Permis fără restricții în spațiul public.",
+    "en": "Unlimited photography allowed in public spaces."
+  },
+  "bestTimeToVisit": {
+    "de": "In der Morgendämmerung, um den Stephansplatz ohne Menschenmassen zu erleben.",
+    "hu": "Hajnalban, hogy a Stephansplatzot tömeg nélkül élhessük át.",
+    "ro": "În zori, pentru a experimenta Stephansplatz fără mulțimi.",
+    "en": "At dawn to experience Stephansplatz without the crowds."
+  },
+  "audioGuide": {
+    "de": "ja (viele Anbieter via Smartphone-Apps)",
+    "hu": "igen (számos szolgáltató okostelefonos alkalmazáson keresztül)",
+    "ro": "da (mulți furnizori prin aplicații de smartphone)",
+    "en": "yes (many providers via smartphone apps)"
+  }
 }

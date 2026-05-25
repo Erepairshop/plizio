@@ -1,12 +1,57 @@
 {
-  "address": "Vár utca 24, 3534 Miskolc",
-  "openingHours": "Aktuell wegen grossangelegter Sanierung geschlossen.",
-  "entranceFee": "Derzeit kein Ticketverkauf; Wiedereröffnung voraussichtlich 2025.",
+  "address": {
+    "de": "Vár utca 24, 3534 Miskolc",
+    "hu": "Vár utca 24, 3534 Miskolc",
+    "ro": "Vár utca 24, 3534 Miskolc",
+    "en": "Vár utca 24, 3534 Miskolc"
+  },
+  "openingHours": {
+    "de": "Aktuell wegen grossangelegter Sanierung geschlossen.",
+    "hu": "Jelenleg nagyszabású felújítás miatt zárva.",
+    "ro": "Închis momentan din cauza renovărilor de amploare.",
+    "en": "Currently closed due to large-scale renovation."
+  },
+  "entranceFee": {
+    "de": "Derzeit kein Ticketverkauf; Wiedereröffnung voraussichtlich 2025.",
+    "hu": "Jelenleg nincs jegyértékesítés; újranyitás várhatóan 2025-ben.",
+    "ro": "În prezent nu se vând bilete; redeschiderea este estimată pentru 2025.",
+    "en": "No ticket sales currently; reopening expected in 2025."
+  },
   "website": "https://diosgyorivar.hu/",
-  "publicTransport": "Strassenbahnlinie 1 ab Miskolc Tiszai Bahnhof bis Endstation Diósgyőr.",
-  "parking": "Grosser Besucherparkplatz an der Vár utca (gebührenpflichtig).",
-  "accessibility": "Nach Abschluss der Bauarbeiten ist eine umfassende Barrierefreiheit geplant.",
-  "photoRules": "Das Fotografieren der Baustelle von ausserhalb der Absperrung ist gestattet.",
-  "bestTimeToVisit": "Nach der Wiedereröffnung.",
-  "audioGuide": "no"
+  "publicTransport": {
+    "de": "Strassenbahnlinie 1 ab Miskolc Tiszai Bahnhof bis Endstation Diósgyőr.",
+    "hu": "1-es villamos Miskolc Tiszai pályaudvartól a Diósgyőr végállomásig.",
+    "ro": "Linia de tramvai 1 din gara Miskolc Tiszai până la stația terminus Diósgyőr.",
+    "en": "Tram line 1 from Miskolc Tiszai station to the terminus Diósgyőr."
+  },
+  "parking": {
+    "de": "Grosser Besucherparkplatz an der Vár utca (gebührenpflichtig).",
+    "hu": "Nagy látogatói parkoló a Vár utcában (fizetős).",
+    "ro": "Parcare mare pentru vizitatori pe strada Vár (cu plată).",
+    "en": "Large visitor parking on Vár utca (paid)."
+  },
+  "accessibility": {
+    "de": "Nach Abschluss der Bauarbeiten ist eine umfassende Barrierefreiheit geplant.",
+    "hu": "Az építési munkák befejezése után teljes akadálymentesítés várható.",
+    "ro": "După finalizarea lucrărilor de construcție este planificată o accesibilitate completă.",
+    "en": "Comprehensive accessibility is planned after the construction work is completed."
+  },
+  "photoRules": {
+    "de": "Das Fotografieren der Baustelle von ausserhalb der Absperrung ist gestattet.",
+    "hu": "Az építési terület fényképezése a kordonon kívülről megengedett.",
+    "ro": "Fotografierea șantierului din afara cordonului este permisă.",
+    "en": "Photography of the construction site from outside the barrier is allowed."
+  },
+  "bestTimeToVisit": {
+    "de": "Nach der Wiedereröffnung.",
+    "hu": "Az újranyitás után.",
+    "ro": "După redeschidere.",
+    "en": "After reopening."
+  },
+  "audioGuide": {
+    "de": "no",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

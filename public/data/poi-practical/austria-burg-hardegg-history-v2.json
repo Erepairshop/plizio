@@ -1,12 +1,57 @@
 {
-  "address": "Stadt 1, 2082 Hardegg",
-  "openingHours": "Mo-Su 09:00-17:00 (Apr-Okt)",
-  "entranceFee": "11€ Erwachsene",
+  "address": {
+    "de": "Stadt 1, 2082 Hardegg",
+    "hu": "Stadt 1, 2082 Hardegg",
+    "ro": "Stadt 1, 2082 Hardegg",
+    "en": "Stadt 1, 2082 Hardegg"
+  },
+  "openingHours": {
+    "de": "Mo-Su 09:00-17:00 (Apr-Okt)",
+    "hu": "H-V 09:00-17:00 (ápr-okt)",
+    "ro": "Lu-Du 09:00-17:00 (Apr-Oct)",
+    "en": "Mon-Sun 09:00-17:00 (Apr-Oct)"
+  },
+  "entranceFee": {
+    "de": "11€ Erwachsene",
+    "hu": "11 € felnőtteknek",
+    "ro": "11 € adulți",
+    "en": "11€ adults"
+  },
   "website": "https://www.burg-hardegg.at",
-  "publicTransport": "Bus ab Retz Hauptbahnhof",
-  "parking": "Parkplätze direkt vor der Burgbrücke.",
-  "accessibility": "Nicht barrierefrei, steile Stiegen in der Burg.",
-  "photoRules": "Erlaubt, gewerbliche Aufnahmen anmeldepflichtig.",
-  "bestTimeToVisit": "Frühsommer, kombiniert mit dem Nationalpark.",
-  "audioGuide": "nein"
+  "publicTransport": {
+    "de": "Bus ab Retz Hauptbahnhof",
+    "hu": "Busz Retz főpályaudvaráról",
+    "ro": "Autobuz de la gara centrală Retz",
+    "en": "Bus from Retz main station"
+  },
+  "parking": {
+    "de": "Parkplätze direkt vor der Burgbrücke.",
+    "hu": "Parkolók közvetlenül a várhíd előtt.",
+    "ro": "Locuri de parcare chiar în fața podului castelului.",
+    "en": "Parking spaces directly in front of the castle bridge."
+  },
+  "accessibility": {
+    "de": "Nicht barrierefrei, steile Stiegen in der Burg.",
+    "hu": "Nem akadálymentes, meredek lépcsők a várban.",
+    "ro": "Neaccesibil, scări abrupte în castel.",
+    "en": "Not barrier-free, steep stairs in the castle."
+  },
+  "photoRules": {
+    "de": "Erlaubt, gewerbliche Aufnahmen anmeldepflichtig.",
+    "hu": "Megengedett, kereskedelmi célú felvételek engedélykötelesek.",
+    "ro": "Permis, înregistrările comerciale necesită aprobare.",
+    "en": "Permitted, commercial shoots require registration."
+  },
+  "bestTimeToVisit": {
+    "de": "Frühsommer, kombiniert mit dem Nationalpark.",
+    "hu": "Kora nyár, a nemzeti parkkal kombinálva.",
+    "ro": "Începutul verii, în combinație cu parcul național.",
+    "en": "Early summer, combined with the National Park."
+  },
+  "audioGuide": {
+    "de": "nein",
+    "hu": "nem",
+    "ro": "nu",
+    "en": "no"
+  }
 }

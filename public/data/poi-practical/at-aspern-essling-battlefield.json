@@ -1,12 +1,57 @@
 {
-  "address": "Asperner Heldenplatz 9, 1220 Wien",
-  "openingHours": "24/7 (Gelände), Museum: So 10:00-12:00",
-  "entranceFee": "frei (Museumsbesuch erbetene Spende)",
+  "address": {
+    "de": "Asperner Heldenplatz 9, 1220 Wien",
+    "hu": "Asperner Heldenplatz 9, 1220 Bécs",
+    "ro": "Asperner Heldenplatz 9, 1220 Viena",
+    "en": "Asperner Heldenplatz 9, 1220 Vienna"
+  },
+  "openingHours": {
+    "de": "24/7 (Gelände), Museum: So 10:00-12:00",
+    "hu": "24/7 (kültér), Múzeum: V 10:00-12:00",
+    "ro": "24/7 (teren), Muzeu: D 10:00-12:00",
+    "en": "24/7 (grounds), Museum: Sun 10:00-12:00"
+  },
+  "entranceFee": {
+    "de": "frei (Museumsbesuch erbetene Spende)",
+    "hu": "ingyenes (a múzeumban adományt elfogadnak)",
+    "ro": "gratuit (donație solicitată pentru muzeu)",
+    "en": "free (requested donation for museum visit)"
+  },
   "website": "https://www.bezirksmuseum.at",
-  "publicTransport": "Bus 26A, 92A, 97A Haltestelle Aspern Siegesplatz",
-  "parking": "Kostenloses Parken in den umliegenden Wohnstraßen meist problemlos möglich.",
-  "accessibility": "Das Außengelände ist weitgehend eben und barrierefrei begehbar.",
-  "photoRules": "Auf dem öffentlichen Gelände uneingeschränkt erlaubt.",
-  "bestTimeToVisit": "Vormittags bei weichem Licht für die Denkmäler und Inschriften.",
-  "audioGuide": "nein"
+  "publicTransport": {
+    "de": "Bus 26A, 92A, 97A Haltestelle Aspern Siegesplatz",
+    "hu": "26A, 92A, 97A busz, Aspern Siegesplatz megálló",
+    "ro": "Autobuz 26A, 92A, 97A stația Aspern Siegesplatz",
+    "en": "Bus 26A, 92A, 97A stop Aspern Siegesplatz"
+  },
+  "parking": {
+    "de": "Kostenloses Parken in den umliegenden Wohnstraßen meist problemlos möglich.",
+    "hu": "Ingyenes parkolás a környező utcákban általában gond nélkül lehetséges.",
+    "ro": "Parcarea gratuită în străzile rezidențiale din jur este de obicei posibilă fără probleme.",
+    "en": "Free parking in the surrounding residential streets is usually possible without problems."
+  },
+  "accessibility": {
+    "de": "Das Außengelände ist weitgehend eben und barrierefrei begehbar.",
+    "hu": "A külső terület nagy része sík és akadálymentesen bejárható.",
+    "ro": "Teritoriul exterior este în mare parte plan și accesibil fără bariere.",
+    "en": "The outdoor area is largely flat and accessible without barriers."
+  },
+  "photoRules": {
+    "de": "Auf dem öffentlichen Gelände uneingeschränkt erlaubt.",
+    "hu": "A közterületen korlátozás nélkül engedélyezett.",
+    "ro": "Permis fără restricții pe spațiul public.",
+    "en": "Unlimited photography allowed on the public grounds."
+  },
+  "bestTimeToVisit": {
+    "de": "Vormittags bei weichem Licht für die Denkmäler und Inschriften.",
+    "hu": "Délelőtt, a lágy fényeknél az emlékművek és feliratok megtekintéséhez.",
+    "ro": "Dimineața în lumină slabă pentru monumente și inscripții.",
+    "en": "Mornings in soft light for the monuments and inscriptions."
+  },
+  "audioGuide": {
+    "de": "nein",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

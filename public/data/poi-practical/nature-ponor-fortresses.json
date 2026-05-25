@@ -1,12 +1,57 @@
 {
-  "address": "Padiș, Munții Apuseni, 417365 Pietroasa, Bihor",
-  "openingHours": "24/7",
-  "entranceFee": "free",
+  "address": {
+    "de": "Padiș, Munții Apuseni, 417365 Pietroasa, Bihor",
+    "hu": "Padiș, Erdélyi-szigethegység, 417365 Pietroasa, Bihar",
+    "ro": "Padiș, Munții Apuseni, 417365 Pietroasa, Bihor",
+    "en": "Padiș, Apuseni Mountains, 417365 Pietroasa, Bihor"
+  },
+  "openingHours": {
+    "de": "24/7",
+    "hu": "24/7",
+    "ro": "24/7",
+    "en": "24/7"
+  },
+  "entranceFee": {
+    "de": "free",
+    "hu": "ingyenes",
+    "ro": "gratuit",
+    "en": "free"
+  },
   "website": "",
-  "publicTransport": "Kein ÖPNV; PKW-Anreise bis Padiș, dann 2-3h Wanderung",
-  "parking": "Parken in der Nähe der Glăvoi-Wiese (Canton Glăvoi) kostenlos",
-  "accessibility": "Sehr anspruchsvoll; steile Abstiege mit Stahlseilen, gute Wanderschuhe nötig",
-  "photoRules": "Erlaubt; Stativ und Weitwinkelobjektiv für die gewaltigen Portale nötig",
-  "bestTimeToVisit": "Frühsommer; bei starkem Regen oder Schneeschmelze ist der Grund überflutet",
-  "audioGuide": "no"
+  "publicTransport": {
+    "de": "Kein ÖPNV; PKW-Anreise bis Padiș, dann 2-3h Wanderung",
+    "hu": "Nincs tömegközlekedés; autóval Padiș-ig, majd 2-3 órás gyalogtúra",
+    "ro": "Fără transport public; acces cu mașina până la Padiș, apoi 2-3 ore de drumeție",
+    "en": "No public transport; access by car to Padiș, then 2-3h hike"
+  },
+  "parking": {
+    "de": "Parken in der Nähe der Glăvoi-Wiese (Canton Glăvoi) kostenlos",
+    "hu": "Parkolás a Glăvoi-rét (Canton Glăvoi) közelében, ingyenes",
+    "ro": "Parcare în apropierea poienii Glăvoi (Canton Glăvoi), gratuită",
+    "en": "Parking near Glăvoi meadow (Canton Glăvoi) free of charge"
+  },
+  "accessibility": {
+    "de": "Sehr anspruchsvoll; steile Abstiege mit Stahlseilen, gute Wanderschuhe nötig",
+    "hu": "Nagyon nehéz; meredek ereszkedők acélsodronyokkal, jó túrabakancs szükséges",
+    "ro": "Foarte solicitant; coborâri abrupte cu cabluri de oțel, sunt necesari bocanci de drumeție",
+    "en": "Very demanding; steep descents with steel cables, good hiking boots required"
+  },
+  "photoRules": {
+    "de": "Erlaubt; Stativ und Weitwinkelobjektiv für die gewaltigen Portale nötig",
+    "hu": "Engedélyezett; állvány és nagylátószögű objektív szükséges a hatalmas kapukhoz",
+    "ro": "Permis; sunt necesare trepied și obiectiv ultra-wide pentru portalurile gigantice",
+    "en": "Allowed; tripod and wide-angle lens needed for the massive portals"
+  },
+  "bestTimeToVisit": {
+    "de": "Frühsommer; bei starkem Regen oder Schneeschmelze ist der Grund überflutet",
+    "hu": "Kora nyár; erős esőzés vagy hóolvadás esetén az alja elöntött",
+    "ro": "Începutul verii; în caz de ploaie puternică sau topirea zăpezii, baza este inundată",
+    "en": "Early summer; during heavy rain or snowmelt, the bottom is flooded"
+  },
+  "audioGuide": {
+    "de": "no",
+    "hu": "nem",
+    "ro": "nu",
+    "en": "no"
+  }
 }

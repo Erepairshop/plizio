@@ -1,12 +1,57 @@
 {
-  "address": "Im Neuen Garten 11, 14469 Potsdam",
-  "openingHours": "Di-So 10:00-17:30 (Sommer), 10:00-16:30 (Winter)",
-  "entranceFee": "€14 Erwachsene (Themenführung Potsdamer Konferenz inkludiert)",
+  "address": {
+    "de": "Im Neuen Garten 11, 14469 Potsdam",
+    "hu": "Im Neuen Garten 11, 14469 Potsdam",
+    "ro": "Im Neuen Garten 11, 14469 Potsdam",
+    "en": "Im Neuen Garten 11, 14469 Potsdam"
+  },
+  "openingHours": {
+    "de": "Di-So 10:00-17:30 (Sommer), 10:00-16:30 (Winter)",
+    "hu": "K-V 10:00-17:30 (nyáron), 10:00-16:30 (télen)",
+    "ro": "Ma-Du 10:00-17:30 (vara), 10:00-16:30 (iarna)",
+    "en": "Tue-Sun 10:00-17:30 (summer), 10:00-16:30 (winter)"
+  },
+  "entranceFee": {
+    "de": "€14 Erwachsene (Themenführung Potsdamer Konferenz inkludiert)",
+    "hu": "14 € felnőtt (tartalmazza a potsdami konferenciáról szóló szakvezetést)",
+    "ro": "14 € adulți (tur tematic despre Conferința de la Potsdam inclus)",
+    "en": "€14 adults (themed tour of the Potsdam Conference included)"
+  },
   "website": "https://www.spsg.de",
-  "publicTransport": "Bus 603 direkt bis zur Haltestelle Neuer Garten/Cecilienhof",
-  "parking": "Parkplatz P1 Neuer Garten (~2 €/Std.)",
-  "accessibility": "Die Konferenzräume im Erdgeschoss sind vollständig barrierefrei zugänglich.",
-  "photoRules": "Fotos ohne Blitz in den Konferenzräumen mit Genehmigung (3 €) gestattet.",
-  "bestTimeToVisit": "Vormittags unter der Woche, um Reisegruppen zu umgehen.",
-  "audioGuide": "ja (spezialisierter Guide zur Konferenzgeschichte)"
+  "publicTransport": {
+    "de": "Bus 603 direkt bis zur Haltestelle Neuer Garten/Cecilienhof",
+    "hu": "603-as busz közvetlenül a Neuer Garten/Cecilienhof megállóig",
+    "ro": "Autobuzul 603 direct până la stația Neuer Garten/Cecilienhof",
+    "en": "Bus 603 directly to the Neuer Garten/Cecilienhof stop"
+  },
+  "parking": {
+    "de": "Parkplatz P1 Neuer Garten (~2 €/Std.)",
+    "hu": "P1 Neuer Garten parkoló (~2 €/óra)",
+    "ro": "Parcarea P1 Neuer Garten (~2 €/oră)",
+    "en": "Parking lot P1 Neuer Garten (~2 €/hr)"
+  },
+  "accessibility": {
+    "de": "Die Konferenzräume im Erdgeschoss sind vollständig barrierefrei zugänglich.",
+    "hu": "A földszinti konferenciatermek teljes mértékben akadálymentesen látogathatók.",
+    "ro": "Sălile de conferințe de la parter sunt complet accesibile.",
+    "en": "The conference rooms on the ground floor are fully accessible."
+  },
+  "photoRules": {
+    "de": "Fotos ohne Blitz in den Konferenzräumen mit Genehmigung (3 €) gestattet.",
+    "hu": "Vaku nélküli fotózás a konferenciatermekben külön engedéllyel (3 €) lehetséges.",
+    "ro": "Fotografii fără bliț în sălile de conferință permise cu autorizație (3 €).",
+    "en": "Flash-free photography in the conference rooms permitted with a permit (3 €)."
+  },
+  "bestTimeToVisit": {
+    "de": "Vormittags unter der Woche, um Reisegruppen zu umgehen.",
+    "hu": "Hétköznap délelőtt, a turistacsoportok elkerülése érdekében.",
+    "ro": "Dimineața în timpul săptămânii, pentru a evita grupurile de turiști.",
+    "en": "Weekday mornings to avoid large tour groups."
+  },
+  "audioGuide": {
+    "de": "ja (spezialisierter Guide zur Konferenzgeschichte)",
+    "hu": "igen (speciális útmutató a konferencia történetéhez)",
+    "ro": "da (ghid specializat despre istoria conferinței)",
+    "en": "yes (specialized guide on the history of the conference)"
+  }
 }

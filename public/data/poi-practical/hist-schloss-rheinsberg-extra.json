@@ -1,12 +1,57 @@
 {
-  "address": "Mühlenstraße 1, 16831 Rheinsberg",
-  "openingHours": "Di-Su 10:00-17:30 (Apr-Okt), 10:00-16:00 (Nov-März)",
-  "entranceFee": "8,00 € Erwachsene, 6,00 € ermäßigt",
+  "address": {
+    "de": "Mühlenstraße 1, 16831 Rheinsberg",
+    "hu": "Mühlenstraße 1, 16831 Rheinsberg",
+    "ro": "Mühlenstraße 1, 16831 Rheinsberg",
+    "en": "Mühlenstraße 1, 16831 Rheinsberg"
+  },
+  "openingHours": {
+    "de": "Di-Su 10:00-17:30 (Apr-Okt), 10:00-16:00 (Nov-März)",
+    "hu": "K-V 10:00-17:30 (ápr-okt), 10:00-16:00 (nov-márc)",
+    "ro": "Ma-Du 10:00-17:30 (apr-oct), 10:00-16:00 (nov-mart)",
+    "en": "Tue-Sun 10:00-17:30 (Apr-Oct), 10:00-16:00 (Nov-Mar)"
+  },
+  "entranceFee": {
+    "de": "8,00 € Erwachsene, 6,00 € ermäßigt",
+    "hu": "Felnőtt 8,00 €, kedvezményes 6,00 €",
+    "ro": "8,00 € adulți, 6,00 € redus",
+    "en": "8.00 € adults, 6.00 € reduced"
+  },
   "website": "https://www.spsg.de/schloesser-gaerten/objekt/schloss-rheinsberg",
-  "publicTransport": "Regionalbahn RB54 bis Rheinsberg (Mark), dann 10 Min Fußweg",
-  "parking": "Öffentliche kostenpflichtige Parkplätze in der Mühlenstraße oder am Kirchplatz.",
-  "accessibility": "Erdgeschoss barrierefrei zugänglich; Obergeschoss nur über Treppen.",
-  "photoRules": "Private Aufnahmen ohne Blitz gegen Gebühr (Fotoerlaubnis 3 €) gestattet.",
-  "bestTimeToVisit": "Sommernachmittag für einen Spaziergang im Park und Blick über den Grienericksee.",
-  "audioGuide": "Ja (DE, EN)"
+  "publicTransport": {
+    "de": "Regionalbahn RB54 bis Rheinsberg (Mark), dann 10 Min Fußweg",
+    "hu": "RB54-es regionális vonat Rheinsberg (Mark) állomásig, majd 10 perc séta",
+    "ro": "Trenul regional RB54 până la Rheinsberg (Mark), apoi 10 minute de mers pe jos",
+    "en": "Regional train RB54 to Rheinsberg (Mark), then 10 min walk"
+  },
+  "parking": {
+    "de": "Öffentliche kostenpflichtige Parkplätze in der Mühlenstraße oder am Kirchplatz.",
+    "hu": "Nyilvános fizetős parkolók a Mühlenstraßén vagy a Kirchplatzon.",
+    "ro": "Parcări publice cu plată pe Mühlenstraße sau în Kirchplatz.",
+    "en": "Public paid parking on Mühlenstraße or at Kirchplatz."
+  },
+  "accessibility": {
+    "de": "Erdgeschoss barrierefrei zugänglich; Obergeschoss nur über Treppen.",
+    "hu": "A földszint akadálymentes; az emelet csak lépcsőn érhető el.",
+    "ro": "Parterul este accesibil persoanelor cu dizabilități; etajul superior doar prin scări.",
+    "en": "Ground floor barrier-free; upper floor only via stairs."
+  },
+  "photoRules": {
+    "de": "Private Aufnahmen ohne Blitz gegen Gebühr (Fotoerlaubnis 3 €) gestattet.",
+    "hu": "Magáncélú felvételek vaku nélkül, díj ellenében (fotójegy 3 €) engedélyezettek.",
+    "ro": "Fotografii private fără bliț permise contra unei taxe (permis foto 3 €).",
+    "en": "Private photos without flash allowed for a fee (photo permit 3 €)."
+  },
+  "bestTimeToVisit": {
+    "de": "Sommernachmittag für einen Spaziergang im Park und Blick über den Grienericksee.",
+    "hu": "Nyári délután egy sétához a parkban és kilátáshoz a Grienericksee-re.",
+    "ro": "O după-amiază de vară pentru o plimbare în parc și o priveliște peste lacul Grienericksee.",
+    "en": "Summer afternoon for a walk in the park and a view over Lake Grienericksee."
+  },
+  "audioGuide": {
+    "de": "Ja (DE, EN)",
+    "hu": "Igen (DE, EN)",
+    "ro": "Da (DE, EN)",
+    "en": "Yes (DE, EN)"
+  }
 }

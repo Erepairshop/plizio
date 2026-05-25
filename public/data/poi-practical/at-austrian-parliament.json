@@ -1,12 +1,57 @@
 {
-  "address": "Dr.-Karl-Renner-Ring 3, 1010 Wien",
-  "openingHours": "Mo-Fr 08:30-19:00, Sa 09:00-17:00",
-  "entranceFee": "frei (Führungen müssen vorab reserviert werden)",
+  "address": {
+    "de": "Dr.-Karl-Renner-Ring 3, 1010 Wien",
+    "hu": "Dr.-Karl-Renner-Ring 3, 1010 Bécs",
+    "ro": "Dr.-Karl-Renner-Ring 3, 1010 Viena",
+    "en": "Dr.-Karl-Renner-Ring 3, 1010 Vienna"
+  },
+  "openingHours": {
+    "de": "Mo-Fr 08:30-19:00, Sa 09:00-17:00",
+    "hu": "H-P 08:30-19:00, Szo 09:00-17:00",
+    "ro": "L-V 08:30-19:00, Sâ 09:00-17:00",
+    "en": "Mon-Fri 08:30-19:00, Sat 09:00-17:00"
+  },
+  "entranceFee": {
+    "de": "frei (Führungen müssen vorab reserviert werden)",
+    "hu": "ingyenes (vezetett túrákhoz előzetes foglalás szükséges)",
+    "ro": "gratuit (tururile ghidate trebuie rezervate în prealabil)",
+    "en": "free (guided tours must be reserved in advance)"
+  },
   "website": "https://www.parlament.gv.at",
-  "publicTransport": "U2, U3 Volkstheater; Straßenbahnen 1, 2, 71, D",
-  "parking": "Rathauspark Garage (Pauschalpreise verfügbar), ca. 4 €/h.",
-  "accessibility": "Vollständig barrierefrei durch Rampen und Aufzüge im Besucherzentrum erschlossen.",
-  "photoRules": "Fotografieren erlaubt, in Sitzungssälen jedoch nur ohne Blitz und Stativ.",
-  "bestTimeToVisit": "An sitzungsfreien Tagen für Zugang zum prachtvollen Säulensaal.",
-  "audioGuide": "ja (Deutsch, Englisch, Gebärdensprache)"
+  "publicTransport": {
+    "de": "U2, U3 Volkstheater; Straßenbahnen 1, 2, 71, D",
+    "hu": "U2, U3 Volkstheater; 1, 2, 71, D villamosok",
+    "ro": "U2, U3 Volkstheater; tramvaiele 1, 2, 71, D",
+    "en": "U2, U3 Volkstheater; trams 1, 2, 71, D"
+  },
+  "parking": {
+    "de": "Rathauspark Garage (Pauschalpreise verfügbar), ca. 4 €/h.",
+    "hu": "Rathauspark Garage (átalányárak elérhetők), kb. 4 €/óra.",
+    "ro": "Garajul Rathauspark (tarife forfetare disponibile), cca 4 €/h.",
+    "en": "Rathauspark Garage (flat rates available), approx. €4/h."
+  },
+  "accessibility": {
+    "de": "Vollständig barrierefrei durch Rampen und Aufzüge im Besucherzentrum erschlossen.",
+    "hu": "Teljesen akadálymentesített a látogatóközpont rámpáinak és liftjeinek köszönhetően.",
+    "ro": "Complet accesibil prin rampe și lifturi în centrul pentru vizitatori.",
+    "en": "Fully accessible through ramps and elevators in the visitor center."
+  },
+  "photoRules": {
+    "de": "Fotografieren erlaubt, in Sitzungssälen jedoch nur ohne Blitz und Stativ.",
+    "hu": "Fotózás engedélyezett, az üléstermekben azonban csak vaku és állvány nélkül.",
+    "ro": "Fotografierea permisă, dar în sălile de ședințe doar fără bliț și trepied.",
+    "en": "Photography allowed, but in the session halls only without flash and tripod."
+  },
+  "bestTimeToVisit": {
+    "de": "An sitzungsfreien Tagen für Zugang zum prachtvollen Säulensaal.",
+    "hu": "Ülésszüneti napokon a pompás oszlopcsarnok megtekintéséhez.",
+    "ro": "În zilele fără ședințe pentru acces la splendida sală a coloanelor.",
+    "en": "On non-session days for access to the magnificent columned hall."
+  },
+  "audioGuide": {
+    "de": "ja (Deutsch, Englisch, Gebärdensprache)",
+    "hu": "igen (német, angol, jelnyelv)",
+    "ro": "da (germană, engleză, limbajul semnelor)",
+    "en": "yes (German, English, sign language)"
+  }
 }

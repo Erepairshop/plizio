@@ -1,12 +1,57 @@
 {
-  "address": "Aleea Cetății, 720224 Suceava",
-  "openingHours": "Täglich 09:00-20:00 (Sommer), bis 17:00 (Winter)",
-  "entranceFee": "16 RON Erwachsene, 4 RON Kinder",
+  "address": {
+    "de": "Aleea Cetății, 720224 Suceava",
+    "hu": "Aleea Cetății, 720224 Szucsáva",
+    "ro": "Aleea Cetății, 720224 Suceava",
+    "en": "Aleea Cetății, 720224 Suceava"
+  },
+  "openingHours": {
+    "de": "Täglich 09:00-20:00 (Sommer), bis 17:00 (Winter)",
+    "hu": "Naponta 09:00-20:00 (nyáron), 17:00-ig (télen)",
+    "ro": "Zilnic 09:00-20:00 (vara), până la 17:00 (iarna)",
+    "en": "Daily 09:00-20:00 (summer), until 17:00 (winter)"
+  },
+  "entranceFee": {
+    "de": "16 RON Erwachsene, 4 RON Kinder",
+    "hu": "16 RON felnőtt, 4 RON gyermek",
+    "ro": "16 RON adulți, 4 RON copii",
+    "en": "16 RON adults, 4 RON children"
+  },
   "website": "https://muzeulbucovinei.ro",
-  "publicTransport": "Buslinien 2, 3 oder 4 bis Station 'Centru', dann 15 Min. Fußweg",
-  "parking": "Großer gepflasterter Parkplatz direkt neben der Anlage, kostenlos",
-  "accessibility": "Teilweise barrierefrei (Hof), viele Stufen in den Wehrtürmen",
-  "photoRules": "Erlaubt, Drohnenflüge streng verboten",
-  "bestTimeToVisit": "Spätnachmittag, wenn die Mauern im warmen Licht liegen",
-  "audioGuide": "Ja (per Smartphone-App)"
+  "publicTransport": {
+    "de": "Buslinien 2, 3 oder 4 bis Station 'Centru', dann 15 Min. Fußweg",
+    "hu": "2-es, 3-as vagy 4-es busz a „Centru” megállóig, majd 15 perc séta",
+    "ro": "Liniile de autobuz 2, 3 sau 4 până la stația „Centru”, apoi 15 min. de mers pe jos",
+    "en": "Bus lines 2, 3 or 4 to 'Centru' station, then 15 min walk"
+  },
+  "parking": {
+    "de": "Großer gepflasterter Parkplatz direkt neben der Anlage, kostenlos",
+    "hu": "Nagy, kövezett parkoló közvetlenül a vár mellett, ingyenes",
+    "ro": "Parcare mare pavată chiar lângă cetate, gratuit",
+    "en": "Large paved parking lot right next to the site, free"
+  },
+  "accessibility": {
+    "de": "Teilweise barrierefrei (Hof), viele Stufen in den Wehrtürmen",
+    "hu": "Részben akadálymentes (udvar), sok lépcső a bástyákban",
+    "ro": "Parțial accesibil (curtea), multe trepte în turnurile de apărare",
+    "en": "Partially accessible (courtyard), many steps in the defensive towers"
+  },
+  "photoRules": {
+    "de": "Erlaubt, Drohnenflüge streng verboten",
+    "hu": "Engedélyezett, drónhasználat szigorúan tilos",
+    "ro": "Permis, zborul dronelor strict interzis",
+    "en": "Allowed, drone flights strictly forbidden"
+  },
+  "bestTimeToVisit": {
+    "de": "Spätnachmittag, wenn die Mauern im warmen Licht liegen",
+    "hu": "Késő délután, amikor a falakat meleg fény világítja meg",
+    "ro": "După-amiaza târziu, când zidurile sunt în lumina caldă",
+    "en": "Late afternoon when the walls are bathed in warm light"
+  },
+  "audioGuide": {
+    "de": "Ja (per Smartphone-App)",
+    "hu": "Igen (okostelefon-alkalmazáson keresztül)",
+    "ro": "Da (prin aplicația pentru smartphone)",
+    "en": "Yes (via smartphone app)"
+  }
 }

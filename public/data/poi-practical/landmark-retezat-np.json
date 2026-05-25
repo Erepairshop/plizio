@@ -1,12 +1,57 @@
 {
-  "address": "Strada Principală, 337421 Nucșoara, Hunedoara",
-  "openingHours": "24/7",
-  "entranceFee": "10 RON pro Person (Besucherticket für 7 Tage)",
+  "address": {
+    "de": "Strada Principală, 337421 Nucșoara, Hunedoara",
+    "hu": "Strada Principală, 337421 Nucșoara, Hunedoara",
+    "ro": "Strada Principală, 337421 Nucșoara, Hunedoara",
+    "en": "Strada Principală, 337421 Nucșoara, Hunedoara"
+  },
+  "openingHours": {
+    "de": "24/7",
+    "hu": "24/7",
+    "ro": "24/7",
+    "en": "24/7"
+  },
+  "entranceFee": {
+    "de": "10 RON pro Person (Besucherticket für 7 Tage)",
+    "hu": "10 RON/fő (7 napos látogatói jegy)",
+    "ro": "10 RON/persoană (bilet vizitator pentru 7 zile)",
+    "en": "10 RON/person (visitor ticket for 7 days)"
+  },
   "website": "https://retezat.ro",
-  "publicTransport": "Bus von Hațeg nach Nucșoara, dann ca. 4 km Fußweg bis Cârnic",
-  "parking": "Bewachte Parkplätze in Cârnic vorhanden, ca. 10-15 RON pro Tag",
-  "accessibility": "Nicht barrierefrei; steile Wanderwege und alpines Gelände",
-  "photoRules": "Erlaubt; für gewerbliche Drohnenaufnahmen ist eine Genehmigung erforderlich",
-  "bestTimeToVisit": "Juni bis September für schneefreie Wanderungen und klare Bergseen",
-  "audioGuide": "no"
+  "publicTransport": {
+    "de": "Bus von Hațeg nach Nucșoara, dann ca. 4 km Fußweg bis Cârnic",
+    "hu": "Busz Hațeg-ből Nucșoara-ba, majd kb. 4 km séta Cârnic-ig",
+    "ro": "Autobuz din Hațeg până la Nucșoara, apoi aprox. 4 km pe jos până la Cârnic",
+    "en": "Bus from Hațeg to Nucșoara, then approx. 4 km walk to Cârnic"
+  },
+  "parking": {
+    "de": "Bewachte Parkplätze in Cârnic vorhanden, ca. 10-15 RON pro Tag",
+    "hu": "Őrzött parkolók Cârnic-ban, kb. 10-15 RON/nap",
+    "ro": "Parcări păzite disponibile în Cârnic, aprox. 10-15 RON pe zi",
+    "en": "Guarded parking available in Cârnic, approx. 10-15 RON per day"
+  },
+  "accessibility": {
+    "de": "Nicht barrierefrei; steile Wanderwege und alpines Gelände",
+    "hu": "Nem akadálymentes; meredek túraösvények és alpesi terep",
+    "ro": "Nu este accesibil; trasee montane abrupte și teren alpin",
+    "en": "Not accessible; steep hiking trails and alpine terrain"
+  },
+  "photoRules": {
+    "de": "Erlaubt; für gewerbliche Drohnenaufnahmen ist eine Genehmigung erforderlich",
+    "hu": "Engedélyezett; kereskedelmi drónfotózáshoz engedély szükséges",
+    "ro": "Permis; pentru filmări comerciale cu drona este necesară o autorizație",
+    "en": "Allowed; permit required for commercial drone photography"
+  },
+  "bestTimeToVisit": {
+    "de": "Juni bis September für schneefreie Wanderungen und klare Bergseen",
+    "hu": "Júniustól szeptemberig a hómentes túrákért és tiszta hegyi tavakért",
+    "ro": "Iunie până în septembrie pentru drumeții fără zăpadă și lacuri alpine clare",
+    "en": "June to September for snow-free hikes and clear mountain lakes"
+  },
+  "audioGuide": {
+    "de": "no",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

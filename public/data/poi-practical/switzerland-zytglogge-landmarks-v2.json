@@ -1,12 +1,57 @@
 {
-  "address": "Bim Zytglogge 1, 3011 Bern",
-  "openingHours": "24/7 (Aussenansicht)",
-  "entranceFee": "kostenlos (Aussenbesichtigung)",
+  "address": {
+    "de": "Bim Zytglogge 1, 3011 Bern",
+    "hu": "Bim Zytglogge 1, 3011 Bern",
+    "ro": "Bim Zytglogge 1, 3011 Bern",
+    "en": "Bim Zytglogge 1, 3011 Bern"
+  },
+  "openingHours": {
+    "de": "24/7 (Aussenansicht)",
+    "hu": "0-24 (külső megtekintés)",
+    "ro": "0-24 (vizualizare exterior)",
+    "en": "24/7 (exterior view)"
+  },
+  "entranceFee": {
+    "de": "kostenlos (Aussenbesichtigung)",
+    "hu": "ingyenes (külső megtekintés)",
+    "ro": "gratuit (vizitare exterior)",
+    "en": "free (exterior viewing)"
+  },
   "website": "https://www.bern.com/de/detail/zytglogge-zeitglockenturm",
-  "publicTransport": "Tramlinien 6, 7, 8, 9 bis Haltestelle Zytglogge direkt vor dem Turm.",
-  "parking": "Parkhaus Casino (ca. CHF 4.50/Std.) etwa 5 Gehminuten entfernt.",
-  "accessibility": "Aussenbesichtigung barrierefrei; Turmaufstieg über 130 Stufen (nicht barrierefrei).",
-  "photoRules": "Erlaubt; beste Position für das Glockenspiel ist auf der Kornhausgasse.",
-  "bestTimeToVisit": "Genau 4 Minuten vor der vollen Stunde, um das mechanische Glockenspiel zu sehen.",
-  "audioGuide": "no"
+  "publicTransport": {
+    "de": "Tramlinien 6, 7, 8, 9 bis Haltestelle Zytglogge direkt vor dem Turm.",
+    "hu": "6, 7, 8, 9-es villamos a Zytglogge megállóig, közvetlenül a torony előtt.",
+    "ro": "Liniile de tramvai 6, 7, 8, 9 până la stația Zytglogge, direct în fața turnului.",
+    "en": "Tram lines 6, 7, 8, 9 to Zytglogge stop directly in front of the tower."
+  },
+  "parking": {
+    "de": "Parkhaus Casino (ca. CHF 4.50/Std.) etwa 5 Gehminuten entfernt.",
+    "hu": "Casino parkolóház (kb. 4,50 CHF/óra) kb. 5 perc sétára.",
+    "ro": "Parcarea Casino (aprox. 4,50 CHF/oră) la aprox. 5 min. de mers pe jos.",
+    "en": "Casino parking (approx. 4.50 CHF/hr) about 5 min. walk away."
+  },
+  "accessibility": {
+    "de": "Aussenbesichtigung barrierefrei; Turmaufstieg über 130 Stufen (nicht barrierefrei).",
+    "hu": "Külső megtekintés akadálymentes; a torony megmászása 130 lépcsőn keresztül (nem akadálymentes).",
+    "ro": "Vizitarea exteriorului accesibilă; urcarea în turn pe 130 de trepte (nu este accesibilă).",
+    "en": "Exterior viewing accessible; tower climb via 130 steps (not accessible)."
+  },
+  "photoRules": {
+    "de": "Erlaubt; beste Position für das Glockenspiel ist auf der Kornhausgasse.",
+    "hu": "Engedélyezett; a legjobb pozíció a harangjátékhoz a Kornhausgasse-on van.",
+    "ro": "Permis; cea mai bună poziție pentru orologiul muzical este pe Kornhausgasse.",
+    "en": "Allowed; best position for the clockwork chime is on Kornhausgasse."
+  },
+  "bestTimeToVisit": {
+    "de": "Genau 4 Minuten vor der vollen Stunde, um das mechanische Glockenspiel zu sehen.",
+    "hu": "Pontosan 4 perccel egész óra előtt, a mechanikus harangjáték megtekintéséhez.",
+    "ro": "Exact cu 4 minute înainte de oră fixă, pentru a vedea mecanismul orologiului.",
+    "en": "Exactly 4 minutes before the hour to see the mechanical chime."
+  },
+  "audioGuide": {
+    "de": "no",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

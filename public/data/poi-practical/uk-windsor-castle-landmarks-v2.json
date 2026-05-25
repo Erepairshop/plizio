@@ -1,12 +1,57 @@
 {
-  "address": "Windsor SL4 1NJ, Großbritannien",
-  "openingHours": "Mo-Su 10:00-17:15 (Sommer), 10:00-16:15 (Winter)",
-  "entranceFee": "£30.00 Erwachsene, £15.00 Kinder",
+  "address": {
+    "de": "Windsor SL4 1NJ, Großbritannien",
+    "hu": "Windsor SL4 1NJ, Nagy-Britannia",
+    "ro": "Windsor SL4 1NJ, Marea Britanie",
+    "en": "Windsor SL4 1NJ, Great Britain"
+  },
+  "openingHours": {
+    "de": "Mo-Su 10:00-17:15 (Sommer), 10:00-16:15 (Winter)",
+    "hu": "Hétfő-vasárnap 10:00-17:15 (nyár), 10:00-16:15 (tél)",
+    "ro": "Luni-duminică 10:00-17:15 (vară), 10:00-16:15 (iarnă)",
+    "en": "Mon-Sun 10:00-17:15 (summer), 10:00-16:15 (winter)"
+  },
+  "entranceFee": {
+    "de": "£30.00 Erwachsene, £15.00 Kinder",
+    "hu": "£30.00 felnőttek, £15.00 gyermekek",
+    "ro": "£30.00 adulți, £15.00 copii",
+    "en": "£30.00 adults, £15.00 children"
+  },
   "website": "https://www.rct.uk/visit/windsor-castle",
-  "publicTransport": "Bahnhöfe Windsor & Eton Central oder Riverside",
-  "parking": "Keine Parkplätze vor Ort; öffentliche Parkhäuser im Zentrum",
-  "accessibility": "Vollständig barrierefrei mit Liften und Rampen",
-  "photoRules": "Fotografieren in den Staatsgemächern streng verboten",
-  "bestTimeToVisit": "Vormittags zur Wachablösung (11:00 Uhr)",
-  "audioGuide": "DE, EN, FR, IT, ES, JA, RU, ZH"
+  "publicTransport": {
+    "de": "Bahnhöfe Windsor & Eton Central oder Riverside",
+    "hu": "Windsor & Eton Central vagy Riverside vasútállomások",
+    "ro": "Gările Windsor & Eton Central sau Riverside",
+    "en": "Windsor & Eton Central or Riverside train stations"
+  },
+  "parking": {
+    "de": "Keine Parkplätze vor Ort; öffentliche Parkhäuser im Zentrum",
+    "hu": "Helyszíni parkoló nincs; nyilvános parkolóházak a központban",
+    "ro": "Fără parcare la fața locului; parcări publice în centru",
+    "en": "No on-site parking; public car parks in the center"
+  },
+  "accessibility": {
+    "de": "Vollständig barrierefrei mit Liften und Rampen",
+    "hu": "Teljesen akadálymentes liftekkel és rámpákkal",
+    "ro": "Complet accesibil, cu lifturi și rampe",
+    "en": "Fully accessible with lifts and ramps"
+  },
+  "photoRules": {
+    "de": "Fotografieren in den Staatsgemächern streng verboten",
+    "hu": "Az állami lakosztályokban a fényképezés szigorúan tilos",
+    "ro": "Fotografierea strict interzisă în apartamentele de stat",
+    "en": "Photography strictly forbidden in the State Apartments"
+  },
+  "bestTimeToVisit": {
+    "de": "Vormittags zur Wachablösung (11:00 Uhr)",
+    "hu": "Délelőtt az őrségváltáskor (11:00 óra)",
+    "ro": "Dimineața pentru schimbarea gărzii (ora 11:00)",
+    "en": "Morning for the Changing of the Guard (11:00 am)"
+  },
+  "audioGuide": {
+    "de": "DE, EN, FR, IT, ES, JA, RU, ZH",
+    "hu": "DE, EN, FR, IT, ES, JA, RU, ZH",
+    "ro": "DE, EN, FR, IT, ES, JA, RU, ZH",
+    "en": "DE, EN, FR, IT, ES, JA, RU, ZH"
+  }
 }

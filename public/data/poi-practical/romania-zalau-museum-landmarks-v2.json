@@ -1,12 +1,57 @@
 {
-  "address": "Strada Unirii 9, 450042 Zalău",
-  "openingHours": "Tu-Su 09:00-17:00",
-  "entranceFee": "10 RON Erwachsene, 4 RON Studenten",
+  "address": {
+    "de": "Strada Unirii 9, 450042 Zalău",
+    "hu": "Strada Unirii 9, 450042 Zalău",
+    "ro": "Strada Unirii 9, 450042 Zalău",
+    "en": "Strada Unirii 9, 450042 Zalău"
+  },
+  "openingHours": {
+    "de": "Tu-Su 09:00-17:00",
+    "hu": "Ké-Va 09:00-17:00",
+    "ro": "Ma-Du 09:00-17:00",
+    "en": "Tue-Sun 09:00-17:00"
+  },
+  "entranceFee": {
+    "de": "10 RON Erwachsene, 4 RON Studenten",
+    "hu": "10 RON felnőtteknek, 4 RON diákoknak",
+    "ro": "10 RON adulți, 4 RON studenți",
+    "en": "10 RON adults, 4 RON students"
+  },
   "website": "http://www.muzeuzalau.ro",
-  "publicTransport": "Buslinien 1, 2 bis Haltestelle Centru.",
-  "parking": "Städtische Parkplätze an der Strada Unirii.",
-  "accessibility": "Teilweise barrierefrei, Personal hilft bei Bedarf.",
-  "photoRules": "Erlaubt gegen Gebühr von ca. 15 RON.",
-  "bestTimeToVisit": "Vormittags unter der Woche.",
-  "audioGuide": "nein"
+  "publicTransport": {
+    "de": "Buslinien 1, 2 bis Haltestelle Centru.",
+    "hu": "1, 2-es buszok a Centru megállóig.",
+    "ro": "Liniile de autobuz 1, 2 până la stația Centru.",
+    "en": "Bus lines 1, 2 to Centru stop."
+  },
+  "parking": {
+    "de": "Städtische Parkplätze an der Strada Unirii.",
+    "hu": "Városi parkolók a Strada Unirii-n.",
+    "ro": "Parcări publice pe Strada Unirii.",
+    "en": "City parking on Strada Unirii."
+  },
+  "accessibility": {
+    "de": "Teilweise barrierefrei, Personal hilft bei Bedarf.",
+    "hu": "Részben akadálymentes, a személyzet segít szükség esetén.",
+    "ro": "Parțial accesibil, personalul ajută la nevoie.",
+    "en": "Partially accessible, staff helps if needed."
+  },
+  "photoRules": {
+    "de": "Erlaubt gegen Gebühr von ca. 15 RON.",
+    "hu": "Kb. 15 RON díj ellenében engedélyezett.",
+    "ro": "Permis contra unei taxe de aprox. 15 RON.",
+    "en": "Allowed for a fee of approx. 15 RON."
+  },
+  "bestTimeToVisit": {
+    "de": "Vormittags unter der Woche.",
+    "hu": "Délelőtt hétköznapokon.",
+    "ro": "Dimineața în timpul săptămânii.",
+    "en": "Weekday mornings."
+  },
+  "audioGuide": {
+    "de": "nein",
+    "hu": "nem",
+    "ro": "nu",
+    "en": "no"
+  }
 }

@@ -1,12 +1,57 @@
 {
-  "address": "Knézich Károly u. 4, 3300 Eger",
-  "openingHours": "Mo-So 10:00-18:00",
-  "entranceFee": "1200 HUF",
+  "address": {
+    "de": "Knézich Károly u. 4, 3300 Eger",
+    "hu": "Knézich Károly u. 4, 3300 Eger",
+    "ro": "Knézich Károly u. 4, 3300 Eger",
+    "en": "Knézich Károly u. 4, 3300 Eger"
+  },
+  "openingHours": {
+    "de": "Mo-So 10:00-18:00",
+    "hu": "H-V 10:00-18:00",
+    "ro": "Lu-Du 10:00-18:00",
+    "en": "Mon-Sun 10:00-18:00"
+  },
+  "entranceFee": {
+    "de": "1200 HUF",
+    "hu": "1200 HUF",
+    "ro": "1200 HUF",
+    "en": "1200 HUF"
+  },
   "website": "https://www.egrimineret.hu",
-  "publicTransport": "Lokale Buslinien bis Haltestelle 'Dobó tér' oder 'Gárdonyi ház'",
-  "parking": "Gebührenpflichtige Parkplätze in der Knézich Károly Straße",
-  "accessibility": "Nicht barrierefrei, 97 extrem schmale und steile Stufen",
-  "photoRules": "Erlaubt, Stativ wegen Platzmangel nicht möglich",
-  "bestTimeToVisit": "Später Nachmittag für das beste Licht über der Stadt",
-  "audioGuide": "nein"
+  "publicTransport": {
+    "de": "Lokale Buslinien bis Haltestelle 'Dobó tér' oder 'Gárdonyi ház'",
+    "hu": "Helyi buszjáratok a 'Dobó tér' vagy 'Gárdonyi ház' megállóig",
+    "ro": "Linii locale de autobuz până la stația 'Dobó tér' sau 'Gárdonyi ház'",
+    "en": "Local bus lines to stop 'Dobó tér' or 'Gárdonyi ház'"
+  },
+  "parking": {
+    "de": "Gebührenpflichtige Parkplätze in der Knézich Károly Straße",
+    "hu": "Fizetős parkolóhelyek a Knézich Károly utcában",
+    "ro": "Parcări cu plată pe strada Knézich Károly",
+    "en": "Paid parking in Knézich Károly street"
+  },
+  "accessibility": {
+    "de": "Nicht barrierefrei, 97 extrem schmale und steile Stufen",
+    "hu": "Nem akadálymentes, 97 rendkívül szűk és meredek lépcsőfok",
+    "ro": "Nu este accesibil, 97 de trepte extrem de înguste și abrupte",
+    "en": "Not accessible, 97 extremely narrow and steep steps"
+  },
+  "photoRules": {
+    "de": "Erlaubt, Stativ wegen Platzmangel nicht möglich",
+    "hu": "Engedélyezett, állvány a helyhiány miatt nem használható",
+    "ro": "Permis, trepiedul nu este posibil din cauza lipsei de spațiu",
+    "en": "Allowed, tripod not possible due to lack of space"
+  },
+  "bestTimeToVisit": {
+    "de": "Später Nachmittag für das beste Licht über der Stadt",
+    "hu": "Késő délután a város feletti legjobb fényekért",
+    "ro": "După-amiaza târziu pentru cea mai bună lumină deasupra orașului",
+    "en": "Late afternoon for the best light over the city"
+  },
+  "audioGuide": {
+    "de": "nein",
+    "hu": "nem",
+    "ro": "nu",
+    "en": "no"
+  }
 }

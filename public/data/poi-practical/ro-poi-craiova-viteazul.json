@@ -1,12 +1,57 @@
 {
-  "address": "Piața Mihai Viteazul, 200759 Craiova",
-  "openingHours": "24/7",
-  "entranceFee": "free",
+  "address": {
+    "de": "Piața Mihai Viteazul, 200759 Craiova",
+    "hu": "Piața Mihai Viteazul, 200759 Craiova",
+    "ro": "Piața Mihai Viteazul, 200759 Craiova",
+    "en": "Piața Mihai Viteazul, 200759 Craiova"
+  },
+  "openingHours": {
+    "de": "24/7",
+    "hu": "Non-stop",
+    "ro": "24/7",
+    "en": "24/7"
+  },
+  "entranceFee": {
+    "de": "free",
+    "hu": "ingyenes",
+    "ro": "gratuit",
+    "en": "free"
+  },
   "website": "http://www.primariacraiova.ro/",
-  "publicTransport": "Straßenbahn 100, 101, 102 bis Zentrum",
-  "parking": "Tiefgarage unter dem Platz",
-  "accessibility": "Vollständig rollstuhlgerecht mit Rampen",
-  "photoRules": "Erlaubt",
-  "bestTimeToVisit": "Abends zur Licht- und Musikshow",
-  "audioGuide": "no"
+  "publicTransport": {
+    "de": "Straßenbahn 100, 101, 102 bis Zentrum",
+    "hu": "100, 101, 102-es villamos a központig",
+    "ro": "Tramvai 100, 101, 102 până în centru",
+    "en": "Tram 100, 101, 102 to the center"
+  },
+  "parking": {
+    "de": "Tiefgarage unter dem Platz",
+    "hu": "Mélygarázs a tér alatt",
+    "ro": "Parcare subterană sub piață",
+    "en": "Underground parking under the square"
+  },
+  "accessibility": {
+    "de": "Vollständig rollstuhlgerecht mit Rampen",
+    "hu": "Teljesen kerekesszék-barát, rámpákkal",
+    "ro": "Complet accesibil pentru scaune cu rotile, cu rampe",
+    "en": "Fully wheelchair accessible with ramps"
+  },
+  "photoRules": {
+    "de": "Erlaubt",
+    "hu": "Engedélyezett",
+    "ro": "Permis",
+    "en": "Allowed"
+  },
+  "bestTimeToVisit": {
+    "de": "Abends zur Licht- und Musikshow",
+    "hu": "Este, a fény- és zenei show alatt",
+    "ro": "Seara pentru spectacolul de lumini și muzică",
+    "en": "Evenings for the light and music show"
+  },
+  "audioGuide": {
+    "de": "no",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

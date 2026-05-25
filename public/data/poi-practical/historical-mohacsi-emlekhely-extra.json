@@ -1,12 +1,57 @@
 {
-  "address": "Sátorhely, 7716",
-  "openingHours": "Mo-Su 09:00-18:00",
-  "entranceFee": "1800 HUF Erwachsene, 1200 HUF Studenten/Senioren",
+  "address": {
+    "de": "Sátorhely, 7716",
+    "hu": "Sátorhely, 7716",
+    "ro": "Sátorhely, 7716",
+    "en": "Sátorhely, 7716"
+  },
+  "openingHours": {
+    "de": "Mo-Su 09:00-18:00",
+    "hu": "Hétfő-vasárnap 09:00-18:00",
+    "ro": "Luni-duminică 09:00-18:00",
+    "en": "Mon-Sun 09:00-18:00"
+  },
+  "entranceFee": {
+    "de": "1800 HUF Erwachsene, 1200 HUF Studenten/Senioren",
+    "hu": "1800 HUF felnőtt, 1200 HUF diák/nyugdíjas",
+    "ro": "1800 HUF adulți, 1200 HUF studenți/senior",
+    "en": "1800 HUF adults, 1200 HUF students/seniors"
+  },
   "website": "https://www.mohacsiemlekhely.hu/",
-  "publicTransport": "Bus von Mohács in Richtung Sátorhely, Haltestelle direkt am Denkmal.",
-  "parking": "Großer, bewachter Parkplatz direkt vor dem Eingangsbereich vorhanden.",
-  "accessibility": "Das gesamte Gelände und das Ausstellungsgebäude sind barrierefrei gestaltet.",
-  "photoRules": "Fotografieren auf dem Außengelände und im Museum ohne Einschränkung erlaubt.",
-  "bestTimeToVisit": "Später Nachmittag, wenn das flache Licht die Holzstelen dramatisch hervorhebt.",
-  "audioGuide": "HU, DE, EN (über Smartphone-App)"
+  "publicTransport": {
+    "de": "Bus von Mohács in Richtung Sátorhely, Haltestelle direkt am Denkmal.",
+    "hu": "Busz Mohácsról Sátorhely irányába, megálló közvetlenül az emlékműnél.",
+    "ro": "Autobuz din Mohács spre Sátorhely, stație direct la monument.",
+    "en": "Bus from Mohács towards Sátorhely, stop directly at the memorial."
+  },
+  "parking": {
+    "de": "Großer, bewachter Parkplatz direkt vor dem Eingangsbereich vorhanden.",
+    "hu": "Nagy, őrzött parkoló közvetlenül a bejárat előtt.",
+    "ro": "Parcare mare, păzită, disponibilă direct în fața zonei de intrare.",
+    "en": "Large, guarded parking available directly in front of the entrance area."
+  },
+  "accessibility": {
+    "de": "Das gesamte Gelände und das Ausstellungsgebäude sind barrierefrei gestaltet.",
+    "hu": "Az egész terület és a kiállítási épület akadálymentesen kialakított.",
+    "ro": "Întreaga zonă și clădirea expoziției sunt concepute pentru accesibilitate.",
+    "en": "The entire grounds and exhibition building are designed to be barrier-free."
+  },
+  "photoRules": {
+    "de": "Fotografieren auf dem Außengelände und im Museum ohne Einschränkung erlaubt.",
+    "hu": "A fényképezés a területen és a múzeumban korlátozás nélkül engedélyezett.",
+    "ro": "Fotografierea în incintă și în muzeu este permisă fără restricții.",
+    "en": "Photography on the grounds and in the museum is allowed without restrictions."
+  },
+  "bestTimeToVisit": {
+    "de": "Später Nachmittag, wenn das flache Licht die Holzstelen dramatisch hervorhebt.",
+    "hu": "Késő délután, amikor az alacsony fény drámaian kiemeli a faszobrokat.",
+    "ro": "După-amiaza târziu, când lumina joasă scoate în evidență în mod dramatic stelele de lemn.",
+    "en": "Late afternoon, when the low light dramatically highlights the wooden steles."
+  },
+  "audioGuide": {
+    "de": "HU, DE, EN (über Smartphone-App)",
+    "hu": "HU, DE, EN (okostelefonos alkalmazáson keresztül)",
+    "ro": "HU, DE, EN (prin aplicație smartphone)",
+    "en": "HU, DE, EN (via smartphone app)"
+  }
 }

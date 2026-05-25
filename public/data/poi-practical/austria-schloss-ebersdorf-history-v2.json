@@ -1,12 +1,57 @@
 {
-  "address": "Kaiserebersdorfer Str. 1, 1110 Wien",
-  "openingHours": "Keine Besichtigung (Justizanstalt)",
-  "entranceFee": "Nur Außenansicht",
+  "address": {
+    "de": "Kaiserebersdorfer Str. 1, 1110 Wien",
+    "hu": "Kaiserebersdorfer Str. 1, 1110 Bécs",
+    "ro": "Kaiserebersdorfer Str. 1, 1110 Viena",
+    "en": "Kaiserebersdorfer Str. 1, 1110 Vienna"
+  },
+  "openingHours": {
+    "de": "Keine Besichtigung (Justizanstalt)",
+    "hu": "Nem látogatható (büntetés-végrehajtási intézet)",
+    "ro": "Nu se poate vizita (penitenciar)",
+    "en": "No tours (correctional facility)"
+  },
+  "entranceFee": {
+    "de": "Nur Außenansicht",
+    "hu": "Csak kívülről tekinthető meg",
+    "ro": "Doar vizionare din exterior",
+    "en": "Exterior view only"
+  },
   "website": "",
-  "publicTransport": "Tram 71, Bus 73A (Dreherstraße)",
-  "parking": "Kurzparkzone in den umliegenden Straßen.",
-  "accessibility": "Von der Straße aus barrierefrei einsehbar.",
-  "photoRules": "Vom öffentlichen Raum aus erlaubt.",
-  "bestTimeToVisit": "Tagsüber für architektonische Details der Fassade.",
-  "audioGuide": "nein"
+  "publicTransport": {
+    "de": "Tram 71, Bus 73A (Dreherstraße)",
+    "hu": "71-es villamos, 73A busz (Dreherstraße)",
+    "ro": "Tramvaiul 71, Autobuzul 73A (Dreherstraße)",
+    "en": "Tram 71, Bus 73A (Dreherstraße)"
+  },
+  "parking": {
+    "de": "Kurzparkzone in den umliegenden Straßen.",
+    "hu": "Rövid távú parkolási övezet a környező utcákban.",
+    "ro": "Zonă de parcare pe termen scurt pe străzile din jur.",
+    "en": "Short-term parking zone in the surrounding streets."
+  },
+  "accessibility": {
+    "de": "Von der Straße aus barrierefrei einsehbar.",
+    "hu": "Az utcáról akadálymentesen látható.",
+    "ro": "Vizibil de pe stradă fără obstacole.",
+    "en": "Visible from the street with barrier-free access."
+  },
+  "photoRules": {
+    "de": "Vom öffentlichen Raum aus erlaubt.",
+    "hu": "Közterületről fotózható.",
+    "ro": "Permis din spațiul public.",
+    "en": "Permitted from public space."
+  },
+  "bestTimeToVisit": {
+    "de": "Tagsüber für architektonische Details der Fassade.",
+    "hu": "Napközben, a homlokzat építészeti részleteinek megfigyeléséhez.",
+    "ro": "În timpul zilei pentru a vedea detaliile arhitecturale ale fațadei.",
+    "en": "During the day for architectural details of the facade."
+  },
+  "audioGuide": {
+    "de": "nein",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

@@ -1,12 +1,57 @@
 {
-  "address": "Brunszvik u. 2., 2462 Martonvásár",
-  "openingHours": "Tu-Su 10:00-18:00",
-  "entranceFee": "2500 HUF Erwachsene, 1250 HUF Kinder/Senioren",
+  "address": {
+    "de": "Brunszvik u. 2., 2462 Martonvásár",
+    "hu": "Brunszvik u. 2., 2462 Martonvásár",
+    "ro": "Brunszvik u. 2., 2462 Martonvásár",
+    "en": "Brunszvik u. 2., 2462 Martonvásár"
+  },
+  "openingHours": {
+    "de": "Tu-Su 10:00-18:00",
+    "hu": "Kedd-vasárnap 10:00-18:00",
+    "ro": "Marți-duminică 10:00-18:00",
+    "en": "Tue-Sun 10:00-18:00"
+  },
+  "entranceFee": {
+    "de": "2500 HUF Erwachsene, 1250 HUF Kinder/Senioren",
+    "hu": "2500 HUF felnőtt, 1250 HUF gyermek/nyugdíjas",
+    "ro": "2500 HUF adulți, 1250 HUF copii/senior",
+    "en": "2500 HUF adults, 1250 HUF children/seniors"
+  },
   "website": "https://www.agroverzum.hu/",
-  "publicTransport": "Zug vom Bahnhof Budapest-Déli nach Martonvásár, dann 5 Min. Fußweg.",
-  "parking": "Kostenlose Parkplätze in der Brunszvik-Straße nahe dem Haupteingang.",
-  "accessibility": "Das Erdgeschoss und der Park sind barrierefrei, Obergeschosse nur über Treppen.",
-  "photoRules": "Im Park frei erlaubt, im Beethoven-Museum nur ohne Blitz gestattet.",
-  "bestTimeToVisit": "Mai und Juni, wenn die Rosen im Schlosspark in voller Blüte stehen.",
-  "audioGuide": "HU, EN"
+  "publicTransport": {
+    "de": "Zug vom Bahnhof Budapest-Déli nach Martonvásár, dann 5 Min. Fußweg.",
+    "hu": "Vonat a Budapest-Déli pályaudvarról Martonvásárra, majd 5 perc séta.",
+    "ro": "Tren din gara Budapest-Déli spre Martonvásár, apoi 5 minute de mers pe jos.",
+    "en": "Train from Budapest-Déli station to Martonvásár, then 5 min. walk."
+  },
+  "parking": {
+    "de": "Kostenlose Parkplätze in der Brunszvik-Straße nahe dem Haupteingang.",
+    "hu": "Ingyenes parkolási lehetőség a Brunszvik utcában, a főbejárat közelében.",
+    "ro": "Parcare gratuită pe strada Brunszvik, aproape de intrarea principală.",
+    "en": "Free parking on Brunszvik street near the main entrance."
+  },
+  "accessibility": {
+    "de": "Das Erdgeschoss und der Park sind barrierefrei, Obergeschosse nur über Treppen.",
+    "hu": "A földszint és a park akadálymentes, az emeletek csak lépcsőn érhetők el.",
+    "ro": "Parterul și parcul sunt accesibile, etajele superioare sunt accesibile doar prin scări.",
+    "en": "The ground floor and park are barrier-free, upper floors only accessible by stairs."
+  },
+  "photoRules": {
+    "de": "Im Park frei erlaubt, im Beethoven-Museum nur ohne Blitz gestattet.",
+    "hu": "A parkban szabadon engedélyezett, a Beethoven Múzeumban csak vaku nélkül.",
+    "ro": "Permis liber în parc, în Muzeul Beethoven doar fără bliț.",
+    "en": "Allowed freely in the park, in the Beethoven Museum only without flash."
+  },
+  "bestTimeToVisit": {
+    "de": "Mai und Juni, wenn die Rosen im Schlosspark in voller Blüte stehen.",
+    "hu": "Május és június, amikor a rózsák teljes pompájukban virágoznak a kastélyparkban.",
+    "ro": "Mai și iunie, când trandafirii din parcul castelului sunt în plină floare.",
+    "en": "May and June, when the roses in the castle park are in full bloom."
+  },
+  "audioGuide": {
+    "de": "HU, EN",
+    "hu": "HU, EN",
+    "ro": "HU, EN",
+    "en": "HU, EN"
+  }
 }

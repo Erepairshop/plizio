@@ -1,12 +1,57 @@
 {
-  "address": "Strada Primăriei 2, 540026 Târgu Mureș",
-  "openingHours": "Mo-Fr 08:00-16:00 (Innenhof), Fassade 24/7",
-  "entranceFee": "kostenlos",
+  "address": {
+    "de": "Strada Primăriei 2, 540026 Târgu Mureș",
+    "hu": "Strada Primăriei 2, 540026 Târgu Mureș",
+    "ro": "Strada Primăriei 2, 540026 Târgu Mureș",
+    "en": "Strada Primăriei 2, 540026 Târgu Mureș"
+  },
+  "openingHours": {
+    "de": "Mo-Fr 08:00-16:00 (Innenhof), Fassade 24/7",
+    "hu": "Hé-Pé 08:00-16:00 (belső udvar), homlokzat 24/7",
+    "ro": "Lu-Vi 08:00-16:00 (curtea interioară), fațada 24/7",
+    "en": "Mon-Fri 08:00-16:00 (courtyard), facade 24/7"
+  },
+  "entranceFee": {
+    "de": "kostenlos",
+    "hu": "ingyenes",
+    "ro": "gratuit",
+    "en": "free"
+  },
   "website": "https://ms.prefectura.mai.gov.ro",
-  "publicTransport": "Alle Busse zum Stadtzentrum (Haltestelle Piața Victoriei).",
-  "parking": "Kostenpflichtige Parkplätze in der Nähe der Post.",
-  "accessibility": "Barrierefreier Zugang zum Vorhof, Innenräume eingeschränkt.",
-  "photoRules": "Fassade darf jederzeit fotografiert werden.",
-  "bestTimeToVisit": "Zur blauen Stunde für architektonische Aufnahmen.",
-  "audioGuide": "nein"
+  "publicTransport": {
+    "de": "Alle Busse zum Stadtzentrum (Haltestelle Piața Victoriei).",
+    "hu": "Minden busz a városközpont felé (Piața Victoriei megálló).",
+    "ro": "Toate autobuzele spre centrul orașului (stația Piața Victoriei).",
+    "en": "All buses to the city center (Piața Victoriei stop)."
+  },
+  "parking": {
+    "de": "Kostenpflichtige Parkplätze in der Nähe der Post.",
+    "hu": "Fizetős parkolók a posta közelében.",
+    "ro": "Parcări cu plată în apropierea poștei.",
+    "en": "Paid parking near the post office."
+  },
+  "accessibility": {
+    "de": "Barrierefreier Zugang zum Vorhof, Innenräume eingeschränkt.",
+    "hu": "Akadálymentes bejárás az előudvarra, a belső terek korlátozottak.",
+    "ro": "Acces fără bariere în curtea din față, interioarele sunt limitate.",
+    "en": "Barrier-free access to the forecourt, interiors limited."
+  },
+  "photoRules": {
+    "de": "Fassade darf jederzeit fotografiert werden.",
+    "hu": "A homlokzat bármikor fotózható.",
+    "ro": "Fațada poate fi fotografiată oricând.",
+    "en": "Facade can be photographed at any time."
+  },
+  "bestTimeToVisit": {
+    "de": "Zur blauen Stunde für architektonische Aufnahmen.",
+    "hu": "Az alkonyati kék órában építészeti fotókhoz.",
+    "ro": "În ora albastră pentru fotografii arhitecturale.",
+    "en": "During the blue hour for architectural shots."
+  },
+  "audioGuide": {
+    "de": "nein",
+    "hu": "nem",
+    "ro": "nu",
+    "en": "no"
+  }
 }

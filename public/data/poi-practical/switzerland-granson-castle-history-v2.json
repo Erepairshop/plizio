@@ -1,12 +1,57 @@
 {
-  "address": "Place du Château, 1422 Grandson",
-  "openingHours": "Mo-Su 10:00-17:00 (Apr-Okt), 13:00-17:00 (Nov-März)",
-  "entranceFee": "12 CHF Erwachsene, 5 CHF Kinder",
+  "address": {
+    "de": "Place du Château, 1422 Grandson",
+    "hu": "Place du Château, 1422 Grandson",
+    "ro": "Place du Château, 1422 Grandson",
+    "en": "Place du Château, 1422 Grandson"
+  },
+  "openingHours": {
+    "de": "Mo-Su 10:00-17:00 (Apr-Okt), 13:00-17:00 (Nov-März)",
+    "hu": "Hé-Va 10:00-17:00 (ápr-okt), 13:00-17:00 (nov-márc)",
+    "ro": "Lu-Du 10:00-17:00 (apr-oct), 13:00-17:00 (noi-mar)",
+    "en": "Mon-Sun 10:00-17:00 (Apr-Oct), 13:00-17:00 (Nov-Mar)"
+  },
+  "entranceFee": {
+    "de": "12 CHF Erwachsene, 5 CHF Kinder",
+    "hu": "12 CHF felnőtteknek, 5 CHF gyerekeknek",
+    "ro": "12 CHF adulți, 5 CHF copii",
+    "en": "12 CHF adults, 5 CHF children"
+  },
   "website": "https://www.chateau-grandson.ch",
-  "publicTransport": "Bahn bis Bahnhof Grandson, dann 5 Minuten Fußweg bergauf.",
-  "parking": "Kostenpflichtige Parkplätze am Place du Château.",
-  "accessibility": "Viele Treppen und Wehrgänge; nicht rollstuhlgängig.",
-  "photoRules": "Erlaubt; spektakuläre Aussicht vom Wehrgang auf den Neuenburgersee.",
-  "bestTimeToVisit": "Bei klarem Wetter für die Sicht auf die Alpen über den See.",
-  "audioGuide": "DE, EN, FR"
+  "publicTransport": {
+    "de": "Bahn bis Bahnhof Grandson, dann 5 Minuten Fußweg bergauf.",
+    "hu": "Vonat Grandson állomásig, majd 5 perc séta felfelé.",
+    "ro": "Tren până la gara Grandson, apoi 5 minute de mers pe jos în sus.",
+    "en": "Train to Grandson station, then 5 minutes walk uphill."
+  },
+  "parking": {
+    "de": "Kostenpflichtige Parkplätze am Place du Château.",
+    "hu": "Fizetős parkolók a Place du Château-n.",
+    "ro": "Parcări cu plată în Place du Château.",
+    "en": "Paid parking at Place du Château."
+  },
+  "accessibility": {
+    "de": "Viele Treppen und Wehrgänge; nicht rollstuhlgängig.",
+    "hu": "Sok lépcső és védőfolyosó; kerekesszékkel nem megközelíthető.",
+    "ro": "Multe scări și pasaje de apărare; nu este accesibil cu scaunul cu rotile.",
+    "en": "Many stairs and defensive passages; not wheelchair accessible."
+  },
+  "photoRules": {
+    "de": "Erlaubt; spektakuläre Aussicht vom Wehrgang auf den Neuenburgersee.",
+    "hu": "Engedélyezett; látványos kilátás a védőfolyosóról a Neuchâteli-tóra.",
+    "ro": "Permis; vedere spectaculoasă de pe pasajul de apărare către Lacul Neuchâtel.",
+    "en": "Allowed; spectacular view from the defensive passage over Lake Neuchâtel."
+  },
+  "bestTimeToVisit": {
+    "de": "Bei klarem Wetter für die Sicht auf die Alpen über den See.",
+    "hu": "Tiszta időben az Alpok látványáért a tavon át.",
+    "ro": "Pe vreme senină pentru vederea Alpilor peste lac.",
+    "en": "In clear weather for the view of the Alps over the lake."
+  },
+  "audioGuide": {
+    "de": "DE, EN, FR",
+    "hu": "DE, EN, FR",
+    "ro": "DE, EN, FR",
+    "en": "DE, EN, FR"
+  }
 }

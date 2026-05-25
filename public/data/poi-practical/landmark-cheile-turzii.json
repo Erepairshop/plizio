@@ -1,12 +1,57 @@
 {
-  "address": "Cheia, 407310 Mihai Viteazu",
-  "openingHours": "Täglich 09:00-18:00 (Eingangskontrolle)",
-  "entranceFee": "6 RON Erwachsene, 4 RON Kinder",
+  "address": {
+    "de": "Cheia, 407310 Mihai Viteazu",
+    "hu": "Cheia, 407310 Mihai Viteazu",
+    "ro": "Cheia, 407310 Mihai Viteazu",
+    "en": "Cheia, 407310 Mihai Viteazu"
+  },
+  "openingHours": {
+    "de": "Täglich 09:00-18:00 (Eingangskontrolle)",
+    "hu": "Naponta 09:00-18:00 (beléptetés)",
+    "ro": "Zilnic 09:00-18:00 (control acces)",
+    "en": "Daily 09:00-18:00 (entrance control)"
+  },
+  "entranceFee": {
+    "de": "6 RON Erwachsene, 4 RON Kinder",
+    "hu": "6 RON felnőtt, 4 RON gyermek",
+    "ro": "6 RON adulți, 4 RON copii",
+    "en": "6 RON adults, 4 RON children"
+  },
   "website": "",
-  "publicTransport": "Bus ab Turda nach Cheia, dann 30 Min. Fußweg zum Eingang",
-  "parking": "Großer Parkplatz am Ende der Straße von Cheia, ca. 10 RON",
-  "accessibility": "Anspruchsvoller Wanderweg mit Hängebrücken, nicht rollstuhlgerecht",
-  "photoRules": "Erlaubt, Stativ auf den schmalen Brücken hinderlich",
-  "bestTimeToVisit": "Wochentags, am Wochenende sehr viele Wanderer aus Cluj",
-  "audioGuide": "Nein"
+  "publicTransport": {
+    "de": "Bus ab Turda nach Cheia, dann 30 Min. Fußweg zum Eingang",
+    "hu": "Busz Tordáról (Turda) Cheia településre, majd 30 perc séta a bejárathoz",
+    "ro": "Autobuz din Turda către Cheia, apoi 30 minute de mers pe jos până la intrare",
+    "en": "Bus from Turda to Cheia, then 30 min walk to the entrance"
+  },
+  "parking": {
+    "de": "Großer Parkplatz am Ende der Straße von Cheia, ca. 10 RON",
+    "hu": "Nagy parkoló a Cheia-i út végén, kb. 10 RON",
+    "ro": "Parcare mare la capătul drumului din Cheia, aprox. 10 RON",
+    "en": "Large parking lot at the end of the road from Cheia, approx. 10 RON"
+  },
+  "accessibility": {
+    "de": "Anspruchsvoller Wanderweg mit Hängebrücken, nicht rollstuhlgerecht",
+    "hu": "Kihívást jelentő túraútvonal függőhidakkal, nem akadálymentesített",
+    "ro": "Traseu de drumeție solicitant cu poduri suspendate, nu este accesibil pentru scaune cu rotile",
+    "en": "Challenging hiking trail with suspension bridges, not wheelchair accessible"
+  },
+  "photoRules": {
+    "de": "Erlaubt, Stativ auf den schmalen Brücken hinderlich",
+    "hu": "Engedélyezett, az állvány akadályozhat a keskeny hidakon",
+    "ro": "Permis, trepiedul poate fi incomod pe podurile înguste",
+    "en": "Allowed, tripod can be cumbersome on the narrow bridges"
+  },
+  "bestTimeToVisit": {
+    "de": "Wochentags, am Wochenende sehr viele Wanderer aus Cluj",
+    "hu": "Hétköznap, hétvégén rengeteg túrázó érkezik Kolozsvárról",
+    "ro": "În timpul săptămânii, în weekend sunt mulți drumeți din Cluj",
+    "en": "Weekdays, crowded with hikers from Cluj on weekends"
+  },
+  "audioGuide": {
+    "de": "Nein",
+    "hu": "Nincs",
+    "ro": "Nu",
+    "en": "No"
+  }
 }

@@ -1,12 +1,57 @@
 {
-  "address": "Strada Castelului 1-3, Hunedoara 331141, Hunedoara",
-  "openingHours": "Mo 12:00-20:00, Tu-Su 09:00-20:00",
-  "entranceFee": "40 RON Erwachsene",
+  "address": {
+    "de": "Strada Castelului 1-3, Hunedoara 331141, Hunedoara",
+    "hu": "Strada Castelului 1-3, Vajdahunyad 331141, Hunyad megye",
+    "ro": "Strada Castelului 1-3, Hunedoara 331141, Hunedoara",
+    "en": "Strada Castelului 1-3, Hunedoara 331141, Hunedoara County"
+  },
+  "openingHours": {
+    "de": "Mo 12:00-20:00, Tu-Su 09:00-20:00",
+    "hu": "H 12:00-20:00, K-V 09:00-20:00",
+    "ro": "Lu 12:00-20:00, Ma-Du 09:00-20:00",
+    "en": "Mon 12:00-20:00, Tue-Sun 09:00-20:00"
+  },
+  "entranceFee": {
+    "de": "40 RON Erwachsene",
+    "hu": "40 RON felnőtt",
+    "ro": "40 RON adulți",
+    "en": "40 RON adults"
+  },
   "website": "http://www.castelulcorvinilor.ro",
-  "publicTransport": "Busse ab Deva Hauptbahnhof alle 15-30 Minuten",
-  "parking": "Großer bewachter Parkplatz (ca. 10 RON Pauschale)",
-  "accessibility": "Schwierig, viele unebene Steinflächen und hohe Stufen",
-  "photoRules": "Erlaubt gegen geringe Gebühr am Ticketcenter",
-  "bestTimeToVisit": "Wochentage am späten Nachmittag für weniger Andrang",
-  "audioGuide": "ja"
+  "publicTransport": {
+    "de": "Busse ab Deva Hauptbahnhof alle 15-30 Minuten",
+    "hu": "Buszjáratok Déváról 15-30 percenként",
+    "ro": "Autobuze de la Gara Deva la fiecare 15-30 de minute",
+    "en": "Buses from Deva main station every 15-30 minutes"
+  },
+  "parking": {
+    "de": "Großer bewachter Parkplatz (ca. 10 RON Pauschale)",
+    "hu": "Nagy, őrzött parkoló (kb. 10 RON átalánydíj)",
+    "ro": "Parcare mare păzită (cca. 10 RON taxă fixă)",
+    "en": "Large guarded parking lot (approx. 10 RON flat fee)"
+  },
+  "accessibility": {
+    "de": "Schwierig, viele unebene Steinflächen und hohe Stufen",
+    "hu": "Nehézkes, sok egyenetlen kőfelület és magas lépcsőfok",
+    "ro": "Dificilă, multe suprafețe de piatră denivelate și trepte înalte",
+    "en": "Difficult, many uneven stone surfaces and high steps"
+  },
+  "photoRules": {
+    "de": "Erlaubt gegen geringe Gebühr am Ticketcenter",
+    "hu": "A jegypénztárnál fizetett csekély díj ellenében engedélyezett",
+    "ro": "Permis contra unei mici taxe la centrul de bilete",
+    "en": "Permitted for a small fee payable at the ticket center"
+  },
+  "bestTimeToVisit": {
+    "de": "Wochentage am späten Nachmittag für weniger Andrang",
+    "hu": "Hétköznap késő délután, a kisebb tömeg érdekében",
+    "ro": "Zilele lucrătoare după-amiaza târziu pentru a evita aglomerația",
+    "en": "Weekdays in the late afternoon for fewer crowds"
+  },
+  "audioGuide": {
+    "de": "ja",
+    "hu": "igen",
+    "ro": "da",
+    "en": "yes"
+  }
 }

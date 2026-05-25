@@ -1,12 +1,57 @@
 {
-  "address": "Landesweit, besondere Veranstaltungen in Bukarest und Sibiu",
-  "openingHours": "Jährlich am 24. Februar",
-  "entranceFee": "kostenlos",
+  "address": {
+    "de": "Landesweit, besondere Veranstaltungen in Bukarest und Sibiu",
+    "hu": "Országszerte, különleges rendezvények Bukarestben és Nagyszebenben",
+    "ro": "La nivel național, evenimente speciale în București și Sibiu",
+    "en": "Nationwide, special events in Bucharest and Sibiu"
+  },
+  "openingHours": {
+    "de": "Jährlich am 24. Februar",
+    "hu": "Évente február 24-én",
+    "ro": "Anual pe 24 februarie",
+    "en": "Annually on February 24th"
+  },
+  "entranceFee": {
+    "de": "kostenlos",
+    "hu": "ingyenes",
+    "ro": "gratuit",
+    "en": "free"
+  },
   "website": "",
-  "publicTransport": "In allen Städten verfügbar.",
-  "parking": "Nicht relevant.",
-  "accessibility": "Barrierefrei in städtischen Parks und Zentren.",
-  "photoRules": "Erlaubt.",
-  "bestTimeToVisit": "Nachmittags bei lokalen Kulturveranstaltungen.",
-  "audioGuide": "nein"
+  "publicTransport": {
+    "de": "In allen Städten verfügbar.",
+    "hu": "Minden városban elérhető.",
+    "ro": "Disponibil în toate orașele.",
+    "en": "Available in all cities."
+  },
+  "parking": {
+    "de": "Nicht relevant.",
+    "hu": "Nem releváns.",
+    "ro": "Nu este relevant.",
+    "en": "Not relevant."
+  },
+  "accessibility": {
+    "de": "Barrierefrei in städtischen Parks und Zentren.",
+    "hu": "Akadálymentes városi parkokban és központokban.",
+    "ro": "Accesibil în parcuri și centre urbane.",
+    "en": "Accessible in urban parks and centers."
+  },
+  "photoRules": {
+    "de": "Erlaubt.",
+    "hu": "Megengedett.",
+    "ro": "Permis.",
+    "en": "Allowed."
+  },
+  "bestTimeToVisit": {
+    "de": "Nachmittags bei lokalen Kulturveranstaltungen.",
+    "hu": "Délután, helyi kulturális rendezvényeken.",
+    "ro": "După-amiaza la evenimente culturale locale.",
+    "en": "In the afternoon during local cultural events."
+  },
+  "audioGuide": {
+    "de": "nein",
+    "hu": "nem",
+    "ro": "nu",
+    "en": "no"
+  }
 }

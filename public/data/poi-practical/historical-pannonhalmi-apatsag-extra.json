@@ -1,12 +1,57 @@
 {
-  "address": "Vár 1., 9090 Pannonhalma",
-  "openingHours": "Di-So 09:00-17:00 (März-Okt), 10:00-15:00 (Nov-Feb)",
-  "entranceFee": "3800 HUF Erwachsene, 1900 HUF Kinder/Senioren",
+  "address": {
+    "de": "Vár 1., 9090 Pannonhalma",
+    "hu": "Vár 1., 9090 Pannonhalma",
+    "ro": "Vár 1., 9090 Pannonhalma",
+    "en": "Vár 1., 9090 Pannonhalma"
+  },
+  "openingHours": {
+    "de": "Di-So 09:00-17:00 (März-Okt), 10:00-15:00 (Nov-Feb)",
+    "hu": "Kedd-vasárnap 09:00-17:00 (március-október), 10:00-15:00 (november-február)",
+    "ro": "Marți-duminică 09:00-17:00 (martie-octombrie), 10:00-15:00 (noiembrie-februarie)",
+    "en": "Tue-Sun 09:00-17:00 (Mar-Oct), 10:00-15:00 (Nov-Feb)"
+  },
+  "entranceFee": {
+    "de": "3800 HUF Erwachsene, 1900 HUF Kinder/Senioren",
+    "hu": "3800 HUF felnőtt, 1900 HUF gyermek/nyugdíjas",
+    "ro": "3800 HUF adulți, 1900 HUF copii/senior",
+    "en": "3800 HUF adults, 1900 HUF children/seniors"
+  },
   "website": "https://pannonhalmifoapatsag.hu/",
-  "publicTransport": "Direktbusse von Győr; vom Busstopp Pannonhalma Vár ist es ein kurzer, steiler Aufstieg.",
-  "parking": "Kostenpflichtiger Besucherparkplatz am Fuße des Abteihügels (Kosaras-domb).",
-  "accessibility": "Teilweise barrierefrei; Aufzüge führen zur Basilika und zum Besucherzentrum.",
-  "photoRules": "Fotografieren in der Bibliothek und Kreuzgang ohne Blitz erlaubt, in der Kirche diskret.",
-  "bestTimeToVisit": "Juni und Juli während der Lavendelblüte in den Klostergärten.",
-  "audioGuide": "HU, DE, EN, FR, IT, RU"
+  "publicTransport": {
+    "de": "Direktbusse von Győr; vom Busstopp Pannonhalma Vár ist es ein kurzer, steiler Aufstieg.",
+    "hu": "Közvetlen buszjáratok Győrből; a Pannonhalma Vár buszmegállótól rövid, meredek emelkedő.",
+    "ro": "Autobuze directe din Győr; de la stația de autobuz Pannonhalma Vár este o urcare scurtă și abruptă.",
+    "en": "Direct buses from Győr; from the Pannonhalma Vár bus stop, it is a short, steep climb."
+  },
+  "parking": {
+    "de": "Kostenpflichtiger Besucherparkplatz am Fuße des Abteihügels (Kosaras-domb).",
+    "hu": "Fizetős látogatói parkoló az apátsági domb lábánál (Kosaras-domb).",
+    "ro": "Parcare cu plată pentru vizitatori la poalele dealului abației (Kosaras-domb).",
+    "en": "Paid visitor parking at the foot of the abbey hill (Kosaras-domb)."
+  },
+  "accessibility": {
+    "de": "Teilweise barrierefrei; Aufzüge führen zur Basilika und zum Besucherzentrum.",
+    "hu": "Részben akadálymentes; liftek vezetnek a bazilikához és a látogatóközponthoz.",
+    "ro": "Parțial accesibil; lifturile duc către bazilică și centrul de vizitatori.",
+    "en": "Partially accessible; elevators lead to the basilica and visitor center."
+  },
+  "photoRules": {
+    "de": "Fotografieren in der Bibliothek und Kreuzgang ohne Blitz erlaubt, in der Kirche diskret.",
+    "hu": "Fényképezés a könyvtárban és a kerengőben vaku nélkül engedélyezett, a templomban diszkréten.",
+    "ro": "Fotografierea în bibliotecă și claustru este permisă fără bliț, în biserică discret.",
+    "en": "Photography in the library and cloister allowed without flash, discreetly in the church."
+  },
+  "bestTimeToVisit": {
+    "de": "Juni und Juli während der Lavendelblüte in den Klostergärten.",
+    "hu": "Június és július, a levendulavirágzás idején az apátsági kertekben.",
+    "ro": "Iunie și iulie, în timpul înfloririi lavandei în grădinile abației.",
+    "en": "June and July during the lavender bloom in the abbey gardens."
+  },
+  "audioGuide": {
+    "de": "HU, DE, EN, FR, IT, RU",
+    "hu": "HU, DE, EN, FR, IT, RU",
+    "ro": "HU, DE, EN, FR, IT, RU",
+    "en": "HU, DE, EN, FR, IT, RU"
+  }
 }

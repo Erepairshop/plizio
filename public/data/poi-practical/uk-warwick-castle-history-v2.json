@@ -1,12 +1,57 @@
 {
-  "address": "Warwick CV34 4QU, Großbritannien",
-  "openingHours": "Mo-Su 10:00-16:00 (Winter), 10:00-18:00 (Sommer)",
-  "entranceFee": "ab £29.00 (online im Voraus buchen)",
+  "address": {
+    "de": "Warwick CV34 4QU, Großbritannien",
+    "hu": "Warwick CV34 4QU, Nagy-Britannia",
+    "ro": "Warwick CV34 4QU, Marea Britanie",
+    "en": "Warwick CV34 4QU, Great Britain"
+  },
+  "openingHours": {
+    "de": "Mo-Su 10:00-16:00 (Winter), 10:00-18:00 (Sommer)",
+    "hu": "Hétfő-vasárnap 10:00-16:00 (tél), 10:00-18:00 (nyár)",
+    "ro": "Luni-duminică 10:00-16:00 (iarnă), 10:00-18:00 (vară)",
+    "en": "Mon-Sun 10:00-16:00 (winter), 10:00-18:00 (summer)"
+  },
+  "entranceFee": {
+    "de": "ab £29.00 (online im Voraus buchen)",
+    "hu": "£29.00-tól (online előre foglalva)",
+    "ro": "de la £29.00 (rezervare online în avans)",
+    "en": "from £29.00 (book online in advance)"
+  },
   "website": "https://www.warwick-castle.com/",
-  "publicTransport": "Bahnhof Warwick, 10 Minuten Fußweg zum Haupteingang",
-  "parking": "Parkplatz Stables (£10.00) oder Stratford Road (£6.00)",
-  "accessibility": "Erdgeschoss und Gärten zugänglich, Wallgänge nur über Stufen",
-  "photoRules": "Erlaubt für private Zwecke",
-  "bestTimeToVisit": "Vormittags, um rechtzeitig für die Flugschauen da zu sein",
-  "audioGuide": "Nein"
+  "publicTransport": {
+    "de": "Bahnhof Warwick, 10 Minuten Fußweg zum Haupteingang",
+    "hu": "Warwick vasútállomás, 10 perc séta a főbejárathoz",
+    "ro": "Gara Warwick, 10 minute de mers pe jos până la intrarea principală",
+    "en": "Warwick train station, 10 minutes walk to the main entrance"
+  },
+  "parking": {
+    "de": "Parkplatz Stables (£10.00) oder Stratford Road (£6.00)",
+    "hu": "Stables parkoló (£10.00) vagy Stratford Road (£6.00)",
+    "ro": "Parcarea Stables (£10.00) sau Stratford Road (£6.00)",
+    "en": "Stables car park (£10.00) or Stratford Road (£6.00)"
+  },
+  "accessibility": {
+    "de": "Erdgeschoss und Gärten zugänglich, Wallgänge nur über Stufen",
+    "hu": "Földszint és kertek elérhetőek, a várfalak csak lépcsőn",
+    "ro": "Parter și grădini accesibile, zidurile cetății doar pe scări",
+    "en": "Ground floor and gardens accessible, ramparts only via stairs"
+  },
+  "photoRules": {
+    "de": "Erlaubt für private Zwecke",
+    "hu": "Privát célokra engedélyezett",
+    "ro": "Permis în scopuri private",
+    "en": "Allowed for private use"
+  },
+  "bestTimeToVisit": {
+    "de": "Vormittags, um rechtzeitig für die Flugschauen da zu sein",
+    "hu": "Délelőtt, hogy időben ott legyünk a repülési bemutatókra",
+    "ro": "Dimineața, pentru a ajunge la timp la spectacolele de zbor",
+    "en": "Morning, to arrive in time for the flight displays"
+  },
+  "audioGuide": {
+    "de": "Nein",
+    "hu": "Nincs",
+    "ro": "Nu",
+    "en": "No"
+  }
 }

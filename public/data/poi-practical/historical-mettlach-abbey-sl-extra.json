@@ -1,12 +1,57 @@
 {
-  "address": "Saaruferstraße 1, 66693 Mettlach",
-  "openingHours": "Villeroy & Boch Discovery Center: Mo-Fr 10:00-18:00, Sa 10:00-14:00",
-  "entranceFee": "5 € (Erlebniszentrum)",
+  "address": {
+    "de": "Saaruferstraße 1, 66693 Mettlach",
+    "hu": "Saaruferstraße 1, 66693 Mettlach",
+    "ro": "Saaruferstraße 1, 66693 Mettlach",
+    "en": "Saaruferstraße 1, 66693 Mettlach"
+  },
+  "openingHours": {
+    "de": "Villeroy & Boch Discovery Center: Mo-Fr 10:00-18:00, Sa 10:00-14:00",
+    "hu": "Villeroy & Boch Discovery Center: hétfő-péntek 10:00-18:00, szombat 10:00-14:00",
+    "ro": "Villeroy & Boch Discovery Center: luni-vineri 10:00-18:00, sâmbătă 10:00-14:00",
+    "en": "Villeroy & Boch Discovery Center: Mon-Fri 10:00-18:00, Sat 10:00-14:00"
+  },
+  "entranceFee": {
+    "de": "5 € (Erlebniszentrum)",
+    "hu": "5 € (Élményközpont)",
+    "ro": "5 € (Centrul de experiență)",
+    "en": "5 € (Experience Center)"
+  },
   "website": "https://www.villeroyboch-group.com",
-  "publicTransport": "Bahnhof Mettlach ca. 5 Min Fußweg.",
-  "parking": "Besucherparkplatz P1 an der Abtei, ca. 1,50 €/Std.",
-  "accessibility": "Park und Discovery Center sind weitgehend barrierefrei.",
-  "photoRules": "Erlaubt, in der Ausstellung ohne Blitz.",
-  "bestTimeToVisit": "Kombiniert mit einer Wanderung zur Saarschleife am Vormittag.",
-  "audioGuide": "Deutsch, Englisch, Französisch"
+  "publicTransport": {
+    "de": "Bahnhof Mettlach ca. 5 Min Fußweg.",
+    "hu": "Mettlach vasútállomás kb. 5 perc séta.",
+    "ro": "Gara Mettlach aprox. 5 minute de mers pe jos.",
+    "en": "Mettlach train station approx. 5 min. walk."
+  },
+  "parking": {
+    "de": "Besucherparkplatz P1 an der Abtei, ca. 1,50 €/Std.",
+    "hu": "P1 látogatói parkoló az apátságnál, kb. 1,50 €/óra.",
+    "ro": "Parcare vizitatori P1 la abație, aprox. 1,50 €/oră.",
+    "en": "Visitor parking P1 at the abbey, approx. 1.50 €/hr."
+  },
+  "accessibility": {
+    "de": "Park und Discovery Center sind weitgehend barrierefrei.",
+    "hu": "A park és a Discovery Center nagyrészt akadálymentes.",
+    "ro": "Parcul și Discovery Center sunt în mare parte accesibile.",
+    "en": "Park and Discovery Center are largely barrier-free."
+  },
+  "photoRules": {
+    "de": "Erlaubt, in der Ausstellung ohne Blitz.",
+    "hu": "Engedélyezett, a kiállításon vaku nélkül.",
+    "ro": "Permis, în expoziție fără bliț.",
+    "en": "Allowed, in the exhibition without flash."
+  },
+  "bestTimeToVisit": {
+    "de": "Kombiniert mit einer Wanderung zur Saarschleife am Vormittag.",
+    "hu": "Délelőtt a Saarschleife-túrával kombinálva.",
+    "ro": "Combinat cu o drumeție la Saarschleife dimineața.",
+    "en": "Combined with a hike to the Saarschleife in the morning."
+  },
+  "audioGuide": {
+    "de": "Deutsch, Englisch, Französisch",
+    "hu": "Német, angol, francia",
+    "ro": "Germană, engleză, franceză",
+    "en": "German, English, French"
+  }
 }

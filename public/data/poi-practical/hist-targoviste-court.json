@@ -1,12 +1,57 @@
 {
-  "address": "Calea Domnească 181, 130002 Târgoviște",
-  "openingHours": "Di-So 09:00-18:30 (Sommer), Mo geschlossen",
-  "entranceFee": "15 RON Erwachsene, 7.5 RON Kinder",
+  "address": {
+    "de": "Calea Domnească 181, 130002 Târgoviște",
+    "hu": "Calea Domnească 181, 130002 Târgoviște",
+    "ro": "Calea Domnească 181, 130002 Târgoviște",
+    "en": "Calea Domnească 181, 130002 Târgoviște"
+  },
+  "openingHours": {
+    "de": "Di-So 09:00-18:30 (Sommer), Mo geschlossen",
+    "hu": "K-V 09:00-18:30 (nyáron), hétfőn zárva",
+    "ro": "Ma-Du 09:00-18:30 (vara), luni închis",
+    "en": "Tue-Sun 09:00-18:30 (summer), closed on Monday"
+  },
+  "entranceFee": {
+    "de": "15 RON Erwachsene, 7.5 RON Kinder",
+    "hu": "15 RON felnőtt, 7.5 RON gyermek",
+    "ro": "15 RON adulți, 7.5 RON copii",
+    "en": "15 RON adults, 7.5 RON children"
+  },
   "website": "https://www.muzeul-curteadomneasca.ro",
-  "publicTransport": "Vom Bahnhof Târgoviște 20 Min. zu Fuß oder lokaler Bus Linie 1",
-  "parking": "Parkplätze in den umliegenden Straßen, teils gebührenpflichtig",
-  "accessibility": "Das Gelände ist flach, der Chindia-Turm ist nur über Treppen begehbar",
-  "photoRules": "Erlaubt für private Zwecke",
-  "bestTimeToVisit": "Vormittags, wenn der Chindia-Turm die beste Belichtung für Fotos hat",
-  "audioGuide": "Nein"
+  "publicTransport": {
+    "de": "Vom Bahnhof Târgoviște 20 Min. zu Fuß oder lokaler Bus Linie 1",
+    "hu": "Târgoviște vasútállomástól 20 perc gyalog vagy az 1-es helyi busszal",
+    "ro": "De la gara Târgoviște 20 min. pe jos sau autobuzul local linia 1",
+    "en": "From Târgoviște station 20 min walk or local bus line 1"
+  },
+  "parking": {
+    "de": "Parkplätze in den umliegenden Straßen, teils gebührenpflichtig",
+    "hu": "Parkolóhelyek a környező utcákban, részben fizetősek",
+    "ro": "Locuri de parcare pe străzile din jur, parțial cu plată",
+    "en": "Parking spaces in the surrounding streets, partly paid"
+  },
+  "accessibility": {
+    "de": "Das Gelände ist flach, der Chindia-Turm ist nur über Treppen begehbar",
+    "hu": "A terület sík, a Chindia-torony csak lépcsőn közelíthető meg",
+    "ro": "Terenul este plan, turnul Chindia este accesibil doar pe scări",
+    "en": "The grounds are flat, the Chindia Tower is accessible only via stairs"
+  },
+  "photoRules": {
+    "de": "Erlaubt für private Zwecke",
+    "hu": "Magáncélra engedélyezett",
+    "ro": "Permis pentru uz privat",
+    "en": "Allowed for private purposes"
+  },
+  "bestTimeToVisit": {
+    "de": "Vormittags, wenn der Chindia-Turm die beste Belichtung für Fotos hat",
+    "hu": "Délelőtt, amikor a Chindia-torony a legjobb megvilágítást kapja a fotózáshoz",
+    "ro": "Dimineața, când turnul Chindia are cea mai bună lumină pentru fotografii",
+    "en": "In the morning when the Chindia Tower has the best lighting for photos"
+  },
+  "audioGuide": {
+    "de": "Nein",
+    "hu": "Nincs",
+    "ro": "Nu",
+    "en": "No"
+  }
 }

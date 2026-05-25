@@ -1,12 +1,57 @@
 {
-  "address": "Schloss Lenzburg, 5600 Lenzburg",
-  "openingHours": "Di-So 10:00-17:00 (Apr-Okt), Mo geschlossen",
-  "entranceFee": "14 CHF Erwachsene, 8 CHF Kinder",
+  "address": {
+    "de": "Schloss Lenzburg, 5600 Lenzburg",
+    "hu": "Schloss Lenzburg, 5600 Lenzburg",
+    "ro": "Schloss Lenzburg, 5600 Lenzburg",
+    "en": "Schloss Lenzburg, 5600 Lenzburg"
+  },
+  "openingHours": {
+    "de": "Di-So 10:00-17:00 (Apr-Okt), Mo geschlossen",
+    "hu": "K–V 10:00–17:00 (ápr.–okt.), hétfőn zárva",
+    "ro": "Mar-Dum 10:00-17:00 (Apr-Oct), Luni închis",
+    "en": "Tue-Sun 10:00-17:00 (Apr-Oct), Mon closed"
+  },
+  "entranceFee": {
+    "de": "14 CHF Erwachsene, 8 CHF Kinder",
+    "hu": "14 CHF felnőtt, 8 CHF gyermek",
+    "ro": "14 CHF adulți, 8 CHF copii",
+    "en": "14 CHF adults, 8 CHF children"
+  },
   "website": "https://www.schloss-lenzburg.ch",
-  "publicTransport": "Vom Bahnhof Lenzburg ca. 20-30 Min. Fußweg bergauf.",
-  "parking": "Parkplatz 'Kronenplatz' oder am Fuße des Schlosshügels.",
-  "accessibility": "Aufzug für Gehbehinderte vorhanden; Voranmeldung empfohlen.",
-  "photoRules": "Erlaubt; Schlosshof bietet tolle Motive für Porträts.",
-  "bestTimeToVisit": "Wochentags, besonders schön für Familien (Drachenmuseum).",
-  "audioGuide": "DE, EN, FR"
+  "publicTransport": {
+    "de": "Vom Bahnhof Lenzburg ca. 20-30 Min. Fußweg bergauf.",
+    "hu": "A Lenzburg pályaudvartól kb. 20–30 perc séta felfelé.",
+    "ro": "De la gara Lenzburg aprox. 20-30 min. pe jos în urcare.",
+    "en": "From Lenzburg train station approx. 20-30 min. walk uphill."
+  },
+  "parking": {
+    "de": "Parkplatz 'Kronenplatz' oder am Fuße des Schlosshügels.",
+    "hu": "'Kronenplatz' parkoló vagy a várdomb lábánál.",
+    "ro": "Parcare 'Kronenplatz' sau la poalele dealului castelului.",
+    "en": "'Kronenplatz' parking or at the foot of the castle hill."
+  },
+  "accessibility": {
+    "de": "Aufzug für Gehbehinderte vorhanden; Voranmeldung empfohlen.",
+    "hu": "Mozgássérültek számára lift biztosított; előzetes bejelentkezés ajánlott.",
+    "ro": "Lift disponibil pentru persoanele cu mobilitate redusă; recomandată programarea.",
+    "en": "Elevator available for disabled visitors; advance notice recommended."
+  },
+  "photoRules": {
+    "de": "Erlaubt; Schlosshof bietet tolle Motive für Porträts.",
+    "hu": "Engedélyezett; az udvar remek hátteret biztosít portrékhoz.",
+    "ro": "Permis; curtea castelului oferă cadre excelente pentru portrete.",
+    "en": "Allowed; courtyard offers great spots for portraits."
+  },
+  "bestTimeToVisit": {
+    "de": "Wochentags, besonders schön für Familien (Drachenmuseum).",
+    "hu": "Hétköznap, családok számára különösen ajánlott (Sárkánymúzeum).",
+    "ro": "În timpul săptămânii, ideal pentru familii (Muzeul Dragonului).",
+    "en": "Weekdays, especially nice for families (Dragon Museum)."
+  },
+  "audioGuide": {
+    "de": "DE, EN, FR",
+    "hu": "német, angol, francia",
+    "ro": "germ, engl, franc",
+    "en": "German, English, French"
+  }
 }

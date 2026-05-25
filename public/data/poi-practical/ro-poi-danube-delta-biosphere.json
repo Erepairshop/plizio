@@ -1,12 +1,57 @@
 {
-  "address": "Strada Portului 34A, 820243 Tulcea",
-  "openingHours": "24/7",
-  "entranceFee": "5 RON/Tag Genehmigung, Bootstouren variieren",
+  "address": {
+    "de": "Strada Portului 34A, 820243 Tulcea",
+    "hu": "Strada Portului 34A, 820243 Tulcsa",
+    "ro": "Strada Portului 34A, 820243 Tulcea",
+    "en": "Strada Portului 34A, 820243 Tulcea"
+  },
+  "openingHours": {
+    "de": "24/7",
+    "hu": "Non-stop",
+    "ro": "24/7",
+    "en": "24/7"
+  },
+  "entranceFee": {
+    "de": "5 RON/Tag Genehmigung, Bootstouren variieren",
+    "hu": "5 RON/nap engedély, a hajótúrák ára változó",
+    "ro": "5 RON/zi permis, tururile cu barca variază",
+    "en": "5 RON/day permit, boat tours vary"
+  },
   "website": "http://www.ddbra.ro/",
-  "publicTransport": "Zug oder Bus nach Tulcea, dann Boote ab Hafen.",
-  "parking": "Bewachte Parkplätze am Hafen Tulcea, ca. 20 RON/Tag.",
-  "accessibility": "Eingeschränkt, meist nur per Boot erreichbar.",
-  "photoRules": "Erlaubt, Drohnen benötigen Sondergenehmigung.",
-  "bestTimeToVisit": "Mai bis Juni (Vogelzug) vagy September.",
-  "audioGuide": "no"
+  "publicTransport": {
+    "de": "Zug oder Bus nach Tulcea, dann Boote ab Hafen.",
+    "hu": "Vonat vagy busz Tulcsára, majd hajók a kikötőből.",
+    "ro": "Tren sau autobuz până la Tulcea, apoi bărci din port.",
+    "en": "Train or bus to Tulcea, then boats from the harbor."
+  },
+  "parking": {
+    "de": "Bewachte Parkplätze am Hafen Tulcea, ca. 20 RON/Tag.",
+    "hu": "Őrzött parkolók a tulcsai kikötőnél, kb. 20 RON/nap.",
+    "ro": "Parcări păzite în portul Tulcea, aprox. 20 RON/zi.",
+    "en": "Guarded parking at Tulcea harbor, approx. 20 RON/day."
+  },
+  "accessibility": {
+    "de": "Eingeschränkt, meist nur per Boot erreichbar.",
+    "hu": "Korlátozott, többnyire csak hajóval érhető el.",
+    "ro": "Limitată, accesibilă de obicei doar cu barca.",
+    "en": "Limited, mostly accessible only by boat."
+  },
+  "photoRules": {
+    "de": "Erlaubt, Drohnen benötigen Sondergenehmigung.",
+    "hu": "Engedélyezett, drónokhoz külön engedély szükséges.",
+    "ro": "Permis, dronele necesită autorizație specială.",
+    "en": "Allowed, drones require special permit."
+  },
+  "bestTimeToVisit": {
+    "de": "Mai bis Juni (Vogelzug) oder September.",
+    "hu": "Május-június (madárvonulás) vagy szeptember.",
+    "ro": "Mai-iunie (migrația păsărilor) sau septembrie.",
+    "en": "May-June (bird migration) or September."
+  },
+  "audioGuide": {
+    "de": "no",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

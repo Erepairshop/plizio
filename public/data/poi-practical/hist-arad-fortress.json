@@ -1,12 +1,57 @@
 {
-  "address": "Strada Cetății, Arad 310131, Arad",
-  "openingHours": "geschlossen (Militärgelände)",
-  "entranceFee": "nicht zugänglich",
+  "address": {
+    "de": "Strada Cetății, Arad 310131, Arad",
+    "hu": "Strada Cetății, Arad 310131, Arad",
+    "ro": "Strada Cetății, Arad 310131, Arad",
+    "en": "Strada Cetății, Arad 310131, Arad"
+  },
+  "openingHours": {
+    "de": "geschlossen (Militärgelände)",
+    "hu": "zárva (katonai terület)",
+    "ro": "închis (zonă militară)",
+    "en": "closed (military zone)"
+  },
+  "entranceFee": {
+    "de": "nicht zugänglich",
+    "hu": "nem látogatható",
+    "ro": "nu este accesibilă",
+    "en": "not accessible"
+  },
   "website": "",
-  "publicTransport": "Straßenbahn Linien 1, 3, 6 bis Station Cetate",
-  "parking": "Parken in den umliegenden Straßen möglich",
-  "accessibility": "Nur Außenbesichtigung von den Wällen aus möglich",
-  "photoRules": "Fotografieren der Militäranlagen offiziell untersagt",
-  "bestTimeToVisit": "Später Nachmittag für einen Spaziergang an der Marosch-Schleife",
-  "audioGuide": "no"
+  "publicTransport": {
+    "de": "Straßenbahn Linien 1, 3, 6 bis Station Cetate",
+    "hu": "1-es, 3-as, 6-os villamos Cetate megállóig",
+    "ro": "Liniile de tramvai 1, 3, 6 până la stația Cetate",
+    "en": "Tram lines 1, 3, 6 to Cetate station"
+  },
+  "parking": {
+    "de": "Parken in den umliegenden Straßen möglich",
+    "hu": "Parkolás a környező utcákban lehetséges",
+    "ro": "Parcare posibilă în străzile adiacente",
+    "en": "Parking possible in the surrounding streets"
+  },
+  "accessibility": {
+    "de": "Nur Außenbesichtigung von den Wällen aus möglich",
+    "hu": "Csak kívülről, a sáncok felől tekinthető meg",
+    "ro": "Posibilă doar vizitarea exterioară de pe metereze",
+    "en": "Only outdoor viewing from the ramparts possible"
+  },
+  "photoRules": {
+    "de": "Fotografieren der Militäranlagen offiziell untersagt",
+    "hu": "A katonai létesítmények fotózása hivatalosan tilos",
+    "ro": "Fotografierea instalațiilor militare este oficial interzisă",
+    "en": "Photography of military installations officially prohibited"
+  },
+  "bestTimeToVisit": {
+    "de": "Später Nachmittag für einen Spaziergang an der Marosch-Schleife",
+    "hu": "Késő délután egy sétához a Maros-kanyarban",
+    "ro": "După-amiaza târziu pentru o plimbare la meandrul Mureșului",
+    "en": "Late afternoon for a walk along the Mureș loop"
+  },
+  "audioGuide": {
+    "de": "no",
+    "hu": "nem",
+    "ro": "nu",
+    "en": "no"
+  }
 }

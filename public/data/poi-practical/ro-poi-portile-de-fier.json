@@ -1,12 +1,57 @@
 {
-  "address": "Gura Văii, 220002 Drobeta-Turnu Severin",
-  "openingHours": "Kraftwerksmuseum: Mo-Fr 08:00-15:00",
-  "entranceFee": "Museum ca. 10 RON; Nationalpark kostenlos",
+  "address": {
+    "de": "Gura Văii, 220002 Drobeta-Turnu Severin",
+    "hu": "Gura Văii, 220002 Drobeta-Turnu Severin",
+    "ro": "Gura Văii, 220002 Drobeta-Turnu Severin",
+    "en": "Gura Văii, 220002 Drobeta-Turnu Severin"
+  },
+  "openingHours": {
+    "de": "Kraftwerksmuseum: Mo-Fr 08:00-15:00",
+    "hu": "Erőműmúzeum: Hétfő-péntek 08:00-15:00",
+    "ro": "Muzeul centralei: Luni-Vineri 08:00-15:00",
+    "en": "Power plant museum: Mon-Fri 08:00-15:00"
+  },
+  "entranceFee": {
+    "de": "Museum ca. 10 RON; Nationalpark kostenlos",
+    "hu": "Múzeum kb. 10 RON; Nemzeti Park ingyenes",
+    "ro": "Muzeu aprox. 10 RON; Parcul Național gratuit",
+    "en": "Museum approx. 10 RON; National Park free"
+  },
   "website": "http://www.portiledefier.ro",
-  "publicTransport": "Busse von Drobeta-Turnu Severin Richtung Orșova",
-  "parking": "Parkbuchten entlang der DN6/E70 mit Blick auf die Staumauer",
-  "accessibility": "Aussichtspunkte an der Straße zugänglich, Wanderwege oft steil",
-  "photoRules": "Fotografieren der technischen Anlagen des Staudamms teilweise eingeschränkt",
-  "bestTimeToVisit": "Mai/Juni für die Flora in den Kesseln von Orșova",
-  "audioGuide": "nein"
+  "publicTransport": {
+    "de": "Busse von Drobeta-Turnu Severin Richtung Orșova",
+    "hu": "Buszok Drobeta-Turnu Severinből Orsova irányába",
+    "ro": "Autobuze din Drobeta-Turnu Severin spre Orșova",
+    "en": "Buses from Drobeta-Turnu Severin towards Orșova"
+  },
+  "parking": {
+    "de": "Parkbuchten entlang der DN6/E70 mit Blick auf die Staumauer",
+    "hu": "Parkolóöblök a DN6/E70 mentén, kilátással a gátra",
+    "ro": "Goluri de parcare de-a lungul DN6/E70 cu vedere la baraj",
+    "en": "Parking bays along DN6/E70 overlooking the dam"
+  },
+  "accessibility": {
+    "de": "Aussichtspunkte an der Straße zugänglich, Wanderwege oft steil",
+    "hu": "Az útszéli kilátók megközelíthetőek, a túraútvonalak gyakran meredekek",
+    "ro": "Punctele de belvedere de la șosea sunt accesibile, traseele montane sunt adesea abrupte",
+    "en": "Roadside viewpoints accessible, hiking trails often steep"
+  },
+  "photoRules": {
+    "de": "Fotografieren der technischen Anlagen des Staudamms teilweise eingeschränkt",
+    "hu": "A gát technikai létesítményeinek fényképezése részben korlátozott",
+    "ro": "Fotografierea instalațiilor tehnice ale barajului este parțial restricționată",
+    "en": "Photography of the dam's technical facilities partially restricted"
+  },
+  "bestTimeToVisit": {
+    "de": "Mai/Juni für die Flora in den Kesseln von Orșova",
+    "hu": "Május/június az orsovai kazánok flórájáért",
+    "ro": "Mai/iunie pentru flora din Cazanele Orșovei",
+    "en": "May/June for the flora in the Orșova Cauldrons"
+  },
+  "audioGuide": {
+    "de": "nein",
+    "hu": "nem",
+    "ro": "nu",
+    "en": "no"
+  }
 }

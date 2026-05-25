@@ -1,12 +1,57 @@
 {
-  "address": "Domplatz 4, 65549 Limburg an der Lahn",
-  "openingHours": "Mo-Su 08:00-19:00",
-  "entranceFee": "kostenfrei",
+  "address": {
+    "de": "Domplatz 4, 65549 Limburg an der Lahn",
+    "hu": "Domplatz 4, 65549 Limburg an der Lahn",
+    "ro": "Domplatz 4, 65549 Limburg an der Lahn",
+    "en": "Domplatz 4, 65549 Limburg an der Lahn"
+  },
+  "openingHours": {
+    "de": "Mo-Su 08:00-19:00",
+    "hu": "H-V 08:00-19:00",
+    "ro": "Lu-Du 08:00-19:00",
+    "en": "Mon-Sun 08:00-19:00"
+  },
+  "entranceFee": {
+    "de": "kostenfrei",
+    "hu": "ingyenes",
+    "ro": "gratuit",
+    "en": "free of charge"
+  },
   "website": "https://www.limburgerdom.de",
-  "publicTransport": "Bahnhof Limburg(Lahn), 10 Minuten Fußweg bergauf",
-  "parking": "Parkplatz am Talweg, ca. 1,00 €/Std.",
-  "accessibility": "Dom über steile Gassen erreichbar, Innenraum barrierefrei zugänglich.",
-  "photoRules": "Erlaubt, außer während der Gottesdienste.",
-  "bestTimeToVisit": "Vormittags bei Sonnenlicht durch die bunten Fenster.",
-  "audioGuide": "nein"
+  "publicTransport": {
+    "de": "Bahnhof Limburg(Lahn), 10 Minuten Fußweg bergauf",
+    "hu": "Limburg(Lahn) vasútállomás, onnan 10 perc séta felfelé",
+    "ro": "Gara Limburg(Lahn), 10 minute de mers pe jos la deal",
+    "en": "Limburg(Lahn) station, 10-minute walk uphill"
+  },
+  "parking": {
+    "de": "Parkplatz am Talweg, ca. 1,00 €/Std.",
+    "hu": "Parkoló a Talwegnél, kb. 1,00 €/óra.",
+    "ro": "Parcare pe Talweg, cca. 1,00 €/oră.",
+    "en": "Parking at Talweg, approx. € 1.00/hr."
+  },
+  "accessibility": {
+    "de": "Dom über steile Gassen erreichbar, Innenraum barrierefrei zugänglich.",
+    "hu": "A dóm meredek utcákon át érhető el, a belső tér akadálymentes.",
+    "ro": "Catedrala este accesibilă prin străzi abrupte, interiorul este accesibil fără bariere.",
+    "en": "Cathedral reachable via steep alleys, interior is barrier-free."
+  },
+  "photoRules": {
+    "de": "Erlaubt, außer während der Gottesdienste.",
+    "hu": "Engedélyezett, kivéve a szertartások ideje alatt.",
+    "ro": "Permis, cu excepția perioadelor de slujbă.",
+    "en": "Allowed, except during services."
+  },
+  "bestTimeToVisit": {
+    "de": "Vormittags bei Sonnenlicht durch die bunten Fenster.",
+    "hu": "Délelőtt, amikor a napfény átragyog a színes ablakokon.",
+    "ro": "Dimineața, când lumina soarelui trece prin ferestrele colorate.",
+    "en": "Mornings, when sunlight shines through the stained glass windows."
+  },
+  "audioGuide": {
+    "de": "nein",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

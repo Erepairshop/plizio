@@ -1,12 +1,57 @@
 {
-  "address": "Piața Sfatului, 500031 Brașov",
-  "openingHours": "24/7",
-  "entranceFee": "free",
+  "address": {
+    "de": "Piața Sfatului, 500031 Brașov",
+    "hu": "Tanácstér (Piața Sfatului), 500031 Brassó",
+    "ro": "Piața Sfatului, 500031 Brașov",
+    "en": "Piața Sfatului, 500031 Brașov"
+  },
+  "openingHours": {
+    "de": "24/7",
+    "hu": "24/7",
+    "ro": "24/7",
+    "en": "24/7"
+  },
+  "entranceFee": {
+    "de": "free",
+    "hu": "ingyenes",
+    "ro": "gratuit",
+    "en": "free"
+  },
   "website": "https://www.brasovcity.ro/",
-  "publicTransport": "Buslinien 1, 2, 4, 31 bis Livada Poștei",
-  "parking": "Parkhäuser in der Nähe, z.B. Regina Maria",
-  "accessibility": "Vollständig rollstuhlgerecht (Kopfsteinpflaster)",
-  "photoRules": "Erlaubt",
-  "bestTimeToVisit": "Abends zur blauen Stunde",
-  "audioGuide": "no"
+  "publicTransport": {
+    "de": "Buslinien 1, 2, 4, 31 bis Livada Poștei",
+    "hu": "1, 2, 4, 31-es buszok a Livada Poștei-ig",
+    "ro": "Liniile de autobuz 1, 2, 4, 31 până la Livada Poștei",
+    "en": "Bus lines 1, 2, 4, 31 to Livada Poștei"
+  },
+  "parking": {
+    "de": "Parkhäuser in der Nähe, z.B. Regina Maria",
+    "hu": "Parkolóházak a közelben, pl. Regina Maria",
+    "ro": "Parcări supraetajate în apropiere, ex. Regina Maria",
+    "en": "Parking garages nearby, e.g. Regina Maria"
+  },
+  "accessibility": {
+    "de": "Vollständig rollstuhlgerecht (Kopfsteinpflaster)",
+    "hu": "Teljesen kerekesszék-barát (macskaköves)",
+    "ro": "Complet accesibil pentru scaune cu rotile (pavaj cu piatră cubică)",
+    "en": "Fully wheelchair-accessible (cobblestone)"
+  },
+  "photoRules": {
+    "de": "Erlaubt",
+    "hu": "Engedélyezett",
+    "ro": "Permis",
+    "en": "Allowed"
+  },
+  "bestTimeToVisit": {
+    "de": "Abends zur blauen Stunde",
+    "hu": "Este, kék órakor",
+    "ro": "Seara la ora albastră",
+    "en": "In the evening during the blue hour"
+  },
+  "audioGuide": {
+    "de": "no",
+    "hu": "nem",
+    "ro": "nu",
+    "en": "no"
+  }
 }

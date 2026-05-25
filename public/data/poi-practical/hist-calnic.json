@@ -1,12 +1,57 @@
 {
-  "address": "Câlnic 517205, Alba",
-  "openingHours": "Mo-Su 09:00-18:00",
-  "entranceFee": "10 RON Erwachsene",
+  "address": {
+    "de": "Câlnic 517205, Alba",
+    "hu": "Kelnek (Câlnic) 517205, Fehér megye",
+    "ro": "Câlnic 517205, Alba",
+    "en": "Câlnic 517205, Alba County"
+  },
+  "openingHours": {
+    "de": "Mo-Su 09:00-18:00",
+    "hu": "H-V 09:00-18:00",
+    "ro": "Lu-Du 09:00-18:00",
+    "en": "Mon-Sun 09:00-18:00"
+  },
+  "entranceFee": {
+    "de": "10 RON Erwachsene",
+    "hu": "10 RON felnőtt",
+    "ro": "10 RON adulți",
+    "en": "10 RON adults"
+  },
   "website": "",
-  "publicTransport": "Am besten per Auto erreichbar, 15km von Sebeș",
-  "parking": "Kostenloses Parken vor dem Burgtor möglich",
-  "accessibility": "Ebenerdiger Zugang zum Hof, Turm nur über Stufen",
-  "photoRules": "Frei erlaubt für private Zwecke",
-  "bestTimeToVisit": "Frühling, wenn die Obstgärten im Dorf blühen",
-  "audioGuide": "no"
+  "publicTransport": {
+    "de": "Am besten per Auto erreichbar, 15km von Sebeș",
+    "hu": "Legjobban autóval érhető el, 15 km-re Szászsebestől",
+    "ro": "Cel mai bine accesibil cu mașina, la 15 km de Sebeș",
+    "en": "Best reached by car, 15km from Sebeș"
+  },
+  "parking": {
+    "de": "Kostenloses Parken vor dem Burgtor möglich",
+    "hu": "Ingyenes parkolás a várkapu előtt",
+    "ro": "Parcare gratuită posibilă în fața porții cetății",
+    "en": "Free parking available in front of the castle gate"
+  },
+  "accessibility": {
+    "de": "Ebenerdiger Zugang zum Hof, Turm nur über Stufen",
+    "hu": "Szintbeli bejutás az udvarra, a torony csak lépcsőn érhető el",
+    "ro": "Acces la nivel la curte, turnul este accesibil doar pe scări",
+    "en": "Level access to the courtyard, tower accessible only via stairs"
+  },
+  "photoRules": {
+    "de": "Frei erlaubt für private Zwecke",
+    "hu": "Magáncélra szabadon engedélyezett",
+    "ro": "Permis gratuit pentru scopuri private",
+    "en": "Freely permitted for private use"
+  },
+  "bestTimeToVisit": {
+    "de": "Frühling, wenn die Obstgärten im Dorf blühen",
+    "hu": "Tavasszal, amikor a falu gyümölcsöskertjei virágoznak",
+    "ro": "Primăvara, când livezile din sat sunt înflorite",
+    "en": "Spring, when the orchards in the village are in bloom"
+  },
+  "audioGuide": {
+    "de": "no",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

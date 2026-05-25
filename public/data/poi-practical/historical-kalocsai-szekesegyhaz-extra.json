@@ -1,12 +1,57 @@
 {
-  "address": "Szent István király út 2, 6300 Kalocsa",
-  "openingHours": "Mo-Sa 09:00-17:00, So 13:00-17:00 (Touristische Besichtigung)",
-  "entranceFee": "1500 HUF (inkl. Schatzkammer/Bibliothek)",
+  "address": {
+    "de": "Szent István király út 2, 6300 Kalocsa",
+    "hu": "Szent István király út 2, 6300 Kalocsa",
+    "ro": "Szent István király út 2, 6300 Kalocsa",
+    "en": "Szent István király út 2, 6300 Kalocsa"
+  },
+  "openingHours": {
+    "de": "Mo-Sa 09:00-17:00, So 13:00-17:00 (Touristische Besichtigung)",
+    "hu": "H-Szo 09:00-17:00, V 13:00-17:00 (turisztikai látogatás)",
+    "ro": "Lu-Sâm 09:00-17:00, Du 13:00-17:00 (vizită turistică)",
+    "en": "Mon-Sat 09:00-17:00, Sun 13:00-17:00 (tourist visit)"
+  },
+  "entranceFee": {
+    "de": "1500 HUF (inkl. Schatzkammer/Bibliothek)",
+    "hu": "1500 HUF (tartalmazza a kincstárat/könyvtárat)",
+    "ro": "1500 HUF (include tezaurul/biblioteca)",
+    "en": "1500 HUF (includes treasury/library)"
+  },
   "website": "https://www.kalocsafoosztaly.hu",
-  "publicTransport": "Busbahnhof Kalocsa, ca. 5 Min. Fußweg",
-  "parking": "Kostenlose Parkplätze am Dreifaltigkeitsplatz (Szentháromság tér)",
-  "accessibility": "Haupteingang barrierefrei mit Rampe",
-  "photoRules": "Erlaubt außerhalb der Gottesdienste, kein Blitz",
-  "bestTimeToVisit": "Nachmittags, wenn das Licht durch die Fenster der Apsis fällt",
-  "audioGuide": "Ungarisch, Englisch, Deutsch"
+  "publicTransport": {
+    "de": "Busbahnhof Kalocsa, ca. 5 Min. Fußweg",
+    "hu": "Kalocsai autóbusz-állomás, kb. 5 perc séta",
+    "ro": "Autogara Kalocsa, aprox. 5 minute de mers pe jos",
+    "en": "Kalocsa bus station, approx. 5 min walk"
+  },
+  "parking": {
+    "de": "Kostenlose Parkplätze am Dreifaltigkeitsplatz (Szentháromság tér)",
+    "hu": "Ingyenes parkoló a Szentháromság téren",
+    "ro": "Parcare gratuită în Piața Trinității (Szentháromság tér)",
+    "en": "Free parking at Trinity Square (Szentháromság tér)"
+  },
+  "accessibility": {
+    "de": "Haupteingang barrierefrei mit Rampe",
+    "hu": "Főbejárat akadálymentesített rámpával",
+    "ro": "Intrarea principală accesibilă cu rampă",
+    "en": "Main entrance accessible with ramp"
+  },
+  "photoRules": {
+    "de": "Erlaubt außerhalb der Gottesdienste, kein Blitz",
+    "hu": "Megengedett istentiszteleten kívül, vaku nélkül",
+    "ro": "Permis în afara orelor de rugăciune, fără bliț",
+    "en": "Allowed outside of church services, no flash"
+  },
+  "bestTimeToVisit": {
+    "de": "Nachmittags, wenn das Licht durch die Fenster der Apsis fällt",
+    "hu": "Délután, amikor a fény átszűrődik az apszis ablakain",
+    "ro": "După-amiaza, când lumina pătrunde prin ferestrele absidei",
+    "en": "Afternoon, when light streams through the apse windows"
+  },
+  "audioGuide": {
+    "de": "Ungarisch, Englisch, Deutsch",
+    "hu": "magyar, angol, német",
+    "ro": "maghiară, engleză, germană",
+    "en": "Hungarian, English, German"
+  }
 }

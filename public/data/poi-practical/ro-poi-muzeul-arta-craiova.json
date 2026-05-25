@@ -1,12 +1,57 @@
 {
-  "address": "Calea Unirii 15, 200419 Craiova",
-  "openingHours": "Di-So 10:00-17:00, Mo geschlossen",
-  "entranceFee": "10 RON Erwachsene, 2 RON Schüler",
+  "address": {
+    "de": "Calea Unirii 15, 200419 Craiova",
+    "hu": "Calea Unirii 15, 200419 Craiova",
+    "ro": "Calea Unirii 15, 200419 Craiova",
+    "en": "Calea Unirii 15, 200419 Craiova"
+  },
+  "openingHours": {
+    "de": "Di-So 10:00-17:00, Mo geschlossen",
+    "hu": "Kedd-vasárnap 10:00-17:00, hétfőn zárva",
+    "ro": "Marți-Duminică 10:00-17:00, luni închis",
+    "en": "Tue-Sun 10:00-17:00, Mon closed"
+  },
+  "entranceFee": {
+    "de": "10 RON Erwachsene, 2 RON Schüler",
+    "hu": "10 RON felnőtteknek, 2 RON diákoknak",
+    "ro": "10 RON adulți, 2 RON elevi",
+    "en": "10 RON adults, 2 RON students"
+  },
   "website": "https://www.muzeuldeartacraiova.ro/",
-  "publicTransport": "Buslinien 1, 3, 9 (Halt Teatrul National)",
-  "parking": "Begrenzte Parkmöglichkeiten in der Calea Unirii.",
-  "accessibility": "Barrierefrei durch installierte Aufzüge.",
-  "photoRules": "Erlaubt ohne Blitz, Brâncuși-Saal streng kontrolliert.",
-  "bestTimeToVisit": "Vormittags, um die Architektur des Palastes zu genießen.",
-  "audioGuide": "ro, en"
+  "publicTransport": {
+    "de": "Buslinien 1, 3, 9 (Halt Teatrul National)",
+    "hu": "1, 3, 9-es buszok (Megálló: Nemzeti Színház)",
+    "ro": "Liniile de autobuz 1, 3, 9 (Stația Teatrul Național)",
+    "en": "Bus lines 1, 3, 9 (Stop: National Theatre)"
+  },
+  "parking": {
+    "de": "Begrenzte Parkmöglichkeiten in der Calea Unirii.",
+    "hu": "Korlátozott parkolási lehetőség a Calea Unirii-n.",
+    "ro": "Locuri de parcare limitate pe Calea Unirii.",
+    "en": "Limited parking on Calea Unirii."
+  },
+  "accessibility": {
+    "de": "Barrierefrei durch installierte Aufzüge.",
+    "hu": "Akadálymentesített, liftekkel ellátott.",
+    "ro": "Accesibilizat prin lifturi instalate.",
+    "en": "Barrier-free via installed elevators."
+  },
+  "photoRules": {
+    "de": "Erlaubt ohne Blitz, Brâncuși-Saal streng kontrolliert.",
+    "hu": "Vaku nélküli fotózás engedélyezett, a Brâncuși-terem szigorúan ellenőrzött.",
+    "ro": "Permis fără bliț, sala Brâncuși strict controlată.",
+    "en": "Permitted without flash, Brâncuși hall strictly monitored."
+  },
+  "bestTimeToVisit": {
+    "de": "Vormittags, um die Architektur des Palastes zu genießen.",
+    "hu": "Délelőtt, hogy élvezd a palota építészetét.",
+    "ro": "Dimineața, pentru a vă bucura de arhitectura palatului.",
+    "en": "Mornings, to enjoy the architecture of the palace."
+  },
+  "audioGuide": {
+    "de": "ro, en",
+    "hu": "ro, en",
+    "ro": "ro, en",
+    "en": "ro, en"
+  }
 }

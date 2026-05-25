@@ -1,12 +1,57 @@
 {
-  "address": "Calea lui Traian 596, Călimănești 245600, Vâlcea",
-  "openingHours": "Mo-Su 08:00-20:00",
-  "entranceFee": "frei",
+  "address": {
+    "de": "Calea lui Traian 596, Călimănești 245600, Vâlcea",
+    "hu": "Calea lui Traian 596, Călimănești 245600, Vâlcea megye",
+    "ro": "Calea lui Traian 596, Călimănești 245600, Vâlcea",
+    "en": "Calea lui Traian 596, Călimănești 245600, Vâlcea County"
+  },
+  "openingHours": {
+    "de": "Mo-Su 08:00-20:00",
+    "hu": "H-V 08:00-20:00",
+    "ro": "Lu-Du 08:00-20:00",
+    "en": "Mon-Sun 08:00-20:00"
+  },
+  "entranceFee": {
+    "de": "frei",
+    "hu": "ingyenes",
+    "ro": "gratuit",
+    "en": "free"
+  },
   "website": "https://manastireacozia.ro",
-  "publicTransport": "Fernbusse an der Strecke Râmnicu Vâlcea - Sibiu halten direkt",
-  "parking": "Parkstreifen entlang der Hauptstraße DN7",
-  "accessibility": "Kirche und Museum barrierefrei erreichbar",
-  "photoRules": "Außen erlaubt, Innenaufnahmen während Liturgie untersagt",
-  "bestTimeToVisit": "Vormittags, wenn die Sonne auf die Fassade am Olt-Ufer scheint",
-  "audioGuide": "no"
+  "publicTransport": {
+    "de": "Fernbusse an der Strecke Râmnicu Vâlcea - Sibiu halten direkt",
+    "hu": "A Râmnicu Vâlcea - Nagyszeben vonalon közlekedő távolsági buszok közvetlenül megállnak itt",
+    "ro": "Autocarele pe ruta Râmnicu Vâlcea - Sibiu opresc direct aici",
+    "en": "Long-distance buses on the Râmnicu Vâlcea - Sibiu route stop directly"
+  },
+  "parking": {
+    "de": "Parkstreifen entlang der Hauptstraße DN7",
+    "hu": "Parkolósáv a DN7-es főút mentén",
+    "ro": "Locuri de parcare de-a lungul drumului principal DN7",
+    "en": "Parking strips along the DN7 main road"
+  },
+  "accessibility": {
+    "de": "Kirche und Museum barrierefrei erreichbar",
+    "hu": "A templom és a múzeum akadálymentesen megközelíthető",
+    "ro": "Biserica și muzeul sunt accesibile",
+    "en": "Church and museum are accessible"
+  },
+  "photoRules": {
+    "de": "Außen erlaubt, Innenaufnahmen während Liturgie untersagt",
+    "hu": "Kültéren szabad, a belső fotózás a szertartások alatt tilos",
+    "ro": "Permis în exterior, fotografierea în interior în timpul liturghiei este interzisă",
+    "en": "Permitted outdoors, indoor photography prohibited during liturgy"
+  },
+  "bestTimeToVisit": {
+    "de": "Vormittags, wenn die Sonne auf die Fassade am Olt-Ufer scheint",
+    "hu": "Délelőtt, amikor a nap megvilágítja az Olt-parti homlokzatot",
+    "ro": "Dimineața, când soarele luminează fațada de pe malul Oltului",
+    "en": "Morning, when the sun shines on the facade on the banks of the Olt"
+  },
+  "audioGuide": {
+    "de": "no",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

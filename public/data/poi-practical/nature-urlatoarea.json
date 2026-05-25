@@ -1,12 +1,57 @@
 {
-  "address": "Strada Cascadei, 105200 Bușteni",
-  "openingHours": "24/7",
-  "entranceFee": "free",
+  "address": {
+    "de": "Strada Cascadei, 105200 Bușteni",
+    "hu": "Strada Cascadei, 105200 Bușteni",
+    "ro": "Strada Cascadei, 105200 Bușteni",
+    "en": "Strada Cascadei, 105200 Bușteni"
+  },
+  "openingHours": {
+    "de": "24/7",
+    "hu": "24/7",
+    "ro": "24/7",
+    "en": "24/7"
+  },
+  "entranceFee": {
+    "de": "free",
+    "hu": "ingyenes",
+    "ro": "gratuit",
+    "en": "free"
+  },
   "website": "",
-  "publicTransport": "Zug bis Bușteni, dann ca. 1 Stunde Wanderung (blauer Punkt)",
-  "parking": "Parkplätze im Zentrum von Bușteni, Gebühr variiert",
-  "accessibility": "Nur über Wanderwege erreichbar, nicht rollstuhlgerecht",
-  "photoRules": "Erlaubt, Stativ für Langzeitbelichtung des Wassers möglich",
-  "bestTimeToVisit": "Frühmorgens für weiches Licht and weniger Touristen",
-  "audioGuide": "no"
+  "publicTransport": {
+    "de": "Zug bis Bușteni, dann ca. 1 Stunde Wanderung (blauer Punkt)",
+    "hu": "Vonat Bușteni-ig, majd kb. 1 órás gyalogtúra (kék pont jelzés)",
+    "ro": "Tren până la Bușteni, apoi cca. 1 oră de drumeție (marcaj punct albastru)",
+    "en": "Train to Bușteni, then approx. 1 hour hike (blue dot marker)"
+  },
+  "parking": {
+    "de": "Parkplätze im Zentrum von Bușteni, Gebühr variiert",
+    "hu": "Parkolási lehetőség Bușteni központjában, a díj változó",
+    "ro": "Parcare în centrul orașului Bușteni, tarifele variază",
+    "en": "Parking in the center of Bușteni, fee varies"
+  },
+  "accessibility": {
+    "de": "Nur über Wanderwege erreichbar, nicht rollstuhlgerecht",
+    "hu": "Csak túraútvonalakon keresztül érhető el, kerekesszékkel nem megközelíthető",
+    "ro": "Accesibil doar prin poteci de drumeție, nu este adaptat pentru scaune cu rotile",
+    "en": "Accessible only via hiking trails, not wheelchair-accessible"
+  },
+  "photoRules": {
+    "de": "Erlaubt, Stativ für Langzeitbelichtung des Wassers möglich",
+    "hu": "Engedélyezett, állvány használható a víz hosszú expozíciós fotózásához",
+    "ro": "Permis, trepiedul este recomandat pentru expunerea prelungită a apei",
+    "en": "Allowed, tripod possible for long-exposure water photography"
+  },
+  "bestTimeToVisit": {
+    "de": "Frühmorgens für weiches Licht and weniger Touristen",
+    "hu": "Kora reggel a lágy fények és a kevesebb turista miatt",
+    "ro": "Devreme dimineața pentru lumina blândă și mai puțini turiști",
+    "en": "Early morning for soft light and fewer tourists"
+  },
+  "audioGuide": {
+    "de": "no",
+    "hu": "nem",
+    "ro": "nu",
+    "en": "no"
+  }
 }

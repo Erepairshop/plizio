@@ -1,12 +1,57 @@
 {
-  "address": "Prinz-Eugen-Straße 27, 1030 Wien, Österreich",
-  "openingHours": "Täglich 09:00-18:00 (Oberes Belvedere)",
-  "entranceFee": "€19.00 Erwachsene (Oberes Belvedere)",
+  "address": {
+    "de": "Prinz-Eugen-Straße 27, 1030 Wien, Österreich",
+    "hu": "Prinz-Eugen-Straße 27, 1030 Bécs, Ausztria",
+    "ro": "Prinz-Eugen-Straße 27, 1030 Viena, Austria",
+    "en": "Prinz-Eugen-Straße 27, 1030 Vienna, Austria"
+  },
+  "openingHours": {
+    "de": "Täglich 09:00-18:00 (Oberes Belvedere)",
+    "hu": "Naponta 09:00-18:00 (Felső-Belvedere)",
+    "ro": "Zilnic 09:00-18:00 (Belvedere Superior)",
+    "en": "Daily 09:00 AM - 6:00 PM (Upper Belvedere)"
+  },
+  "entranceFee": {
+    "de": "€19.00 Erwachsene (Oberes Belvedere)",
+    "hu": "19,00 € felnőtt (Felső-Belvedere)",
+    "ro": "19,00 € adulți (Belvedere Superior)",
+    "en": "€19.00 adults (Upper Belvedere)"
+  },
   "website": "https://www.belvedere.at/",
-  "publicTransport": "Straßenbahn D (Haltestelle Schloss Belvedere)",
-  "parking": "Keine Parkplätze vor Ort; öffentliche Garage beim Hauptbahnhof",
-  "accessibility": "Vollständig barrierefrei zugänglich",
-  "photoRules": "Im Klimt-Saal (Der Kuss) eingeschränkt, sonst erlaubt",
-  "bestTimeToVisit": "Gleich um 09:00 Uhr morgens",
-  "audioGuide": "DE, EN, FR, IT, ES, RU, ZH, JA, KO"
+  "publicTransport": {
+    "de": "Straßenbahn D (Haltestelle Schloss Belvedere)",
+    "hu": "D villamos (Schloss Belvedere megálló)",
+    "ro": "Tramvaiul D (stația Schloss Belvedere)",
+    "en": "Tram D (Schloss Belvedere stop)"
+  },
+  "parking": {
+    "de": "Keine Parkplätze vor Ort; öffentliche Garage beim Hauptbahnhof",
+    "hu": "Nincs helyi parkoló; nyilvános garázs a főpályaudvarnál (Hauptbahnhof)",
+    "ro": "Nu există parcare la fața locului; garaj public la gara principală (Hauptbahnhof)",
+    "en": "No parking on-site; public garage available at the Main Station (Hauptbahnhof)"
+  },
+  "accessibility": {
+    "de": "Vollständig barrierefrei zugänglich",
+    "hu": "Teljesen akadálymentesen látogatható",
+    "ro": "Complet accesibil",
+    "en": "Fully accessible"
+  },
+  "photoRules": {
+    "de": "Im Klimt-Saal (Der Kuss) eingeschränkt, sonst erlaubt",
+    "hu": "A Klimt-teremben (A csók) korlátozott, egyébként engedélyezett",
+    "ro": "Restricționat în sala Klimt (Sărutul), în rest permis",
+    "en": "Restricted in the Klimt room (The Kiss), otherwise allowed"
+  },
+  "bestTimeToVisit": {
+    "de": "Gleich um 09:00 Uhr morgens",
+    "hu": "Reggel 09:00-kor, közvetlenül nyitás után",
+    "ro": "La ora 09:00 dimineața, imediat după deschidere",
+    "en": "Right at 9:00 AM in the morning"
+  },
+  "audioGuide": {
+    "de": "DE, EN, FR, IT, ES, RU, ZH, JA, KO",
+    "hu": "DE, EN, FR, IT, ES, RU, ZH, JA, KO nyelveken",
+    "ro": "DE, EN, FR, IT, ES, RU, ZH, JA, KO",
+    "en": "Available in DE, EN, FR, IT, ES, RU, ZH, JA, KO"
+  }
 }

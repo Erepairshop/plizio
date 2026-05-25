@@ -1,12 +1,57 @@
 {
-  "address": "Berggasse 2, 4400 Steyr, Österreich",
-  "openingHours": "Park: 24/7; Galerie: Fr 14:00-18:00, Sa-So 10:00-18:00 (nur bei Ausstellungen)",
-  "entranceFee": "Park kostenlos, Schlossgalerie variiert nach Ausstellung",
+  "address": {
+    "de": "Berggasse 2, 4400 Steyr, Österreich",
+    "hu": "Berggasse 2, 4400 Steyr, Ausztria",
+    "ro": "Berggasse 2, 4400 Steyr, Austria",
+    "en": "Berggasse 2, 4400 Steyr, Austria"
+  },
+  "openingHours": {
+    "de": "Park: 24/7; Galerie: Fr 14:00-18:00, Sa-So 10:00-18:00 (nur bei Ausstellungen)",
+    "hu": "Park: 0-24; Galéria: Pé 14:00-18:00, Szo-Vas 10:00-18:00 (csak kiállítások idején)",
+    "ro": "Parc: 24/7; Galeria: Vin 14:00-18:00, Sâmb-Dum 10:00-18:00 (doar în timpul expozițiilor)",
+    "en": "Park: 24/7; Gallery: Fri 14:00-18:00, Sat-Sun 10:00-18:00 (only during exhibitions)"
+  },
+  "entranceFee": {
+    "de": "Park kostenlos, Schlossgalerie variiert nach Ausstellung",
+    "hu": "A park ingyenes, a kastélygaléria a kiállítástól függően változik",
+    "ro": "Parcul este gratuit, galeria castelului variază în funcție de expoziție",
+    "en": "Park free, castle gallery varies by exhibition"
+  },
   "website": "https://www.steyr.info/",
-  "publicTransport": "Bus 360, 361 bis Steyr Stadtplatz",
-  "parking": "Parkhaus Stadtplatz, ca. €2/Std",
-  "accessibility": "Schlosshof und Park weitgehend barrierefrei, Galerie eingeschränkt zugänglich",
-  "photoRules": "Im Außenbereich erlaubt, in der Galerie ohne Blitz gestattet",
-  "bestTimeToVisit": "Vormittags für ruhige Spaziergänge im Schlosspark",
-  "audioGuide": "nein"
+  "publicTransport": {
+    "de": "Bus 360, 361 bis Steyr Stadtplatz",
+    "hu": "360-as, 361-es busz Steyr Stadtplatz megállóig",
+    "ro": "Autobuzul 360, 361 până la Steyr Stadtplatz",
+    "en": "Bus 360, 361 to Steyr Stadtplatz"
+  },
+  "parking": {
+    "de": "Parkhaus Stadtplatz, ca. €2/Std",
+    "hu": "Stadtplatz parkolóház, kb. 2€/óra",
+    "ro": "Parcarea supraetajată Stadtplatz, aprox. 2€/oră",
+    "en": "Stadtplatz parking garage, approx. €2/hour"
+  },
+  "accessibility": {
+    "de": "Schlosshof und Park weitgehend barrierefrei, Galerie eingeschränkt zugänglich",
+    "hu": "A kastélyudvar és a park nagyrészt akadálymentesített, a galéria korlátozottan hozzáférhető",
+    "ro": "Curtea castelului și parcul sunt în mare parte accesibile, galeria are acces limitat",
+    "en": "Castle courtyard and park largely accessible, gallery has limited accessibility"
+  },
+  "photoRules": {
+    "de": "Im Außenbereich erlaubt, in der Galerie ohne Blitz gestattet",
+    "hu": "Kültéren megengedett, a galériában vaku nélkül szabad",
+    "ro": "Permis în exterior, în galerie permis fără bliț",
+    "en": "Permitted outdoors, allowed without flash in the gallery"
+  },
+  "bestTimeToVisit": {
+    "de": "Vormittags für ruhige Spaziergänge im Schlosspark",
+    "hu": "Délelőtt a nyugodt sétákhoz a kastélyparkban",
+    "ro": "Dimineața pentru plimbări liniștite în parcul castelului",
+    "en": "Mornings for quiet walks in the castle park"
+  },
+  "audioGuide": {
+    "de": "nein",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

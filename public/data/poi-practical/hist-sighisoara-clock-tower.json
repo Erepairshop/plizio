@@ -1,12 +1,57 @@
 {
-  "address": "Strada Turnului, 545400 Sighișoara",
-  "openingHours": "Di-Fr 09:00-17:30, Sa-So 10:00-17:30 (Sommer), Mo geschlossen",
-  "entranceFee": "16 RON Erwachsene, 4 RON Schüler",
+  "address": {
+    "de": "Strada Turnului, 545400 Sighișoara",
+    "hu": "Strada Turnului, 545400 Segesvár",
+    "ro": "Strada Turnului, 545400 Sighișoara",
+    "en": "Strada Turnului, 545400 Sighișoara"
+  },
+  "openingHours": {
+    "de": "Di-Fr 09:00-17:30, Sa-So 10:00-17:30 (Sommer), Mo geschlossen",
+    "hu": "K-P 09:00-17:30, Szo-V 10:00-17:30 (nyáron), hétfőn zárva",
+    "ro": "Ma-Vi 09:00-17:30, Sâ-Du 10:00-17:30 (vară), luni închis",
+    "en": "Tue-Fri 09:00-17:30, Sat-Sun 10:00-17:30 (summer), closed on Monday"
+  },
+  "entranceFee": {
+    "de": "16 RON Erwachsene, 4 RON Schüler",
+    "hu": "16 RON felnőtt, 4 RON diák",
+    "ro": "16 RON adulți, 4 RON elevi",
+    "en": "16 RON adults, 4 RON students"
+  },
   "website": "",
-  "publicTransport": "Zentral in der Zitadelle gelegen, nur zu Fuß erreichbar",
-  "parking": "Nutzen Sie die Parkplätze am Fuße der Zitadelle",
-  "accessibility": "Nicht barrierefrei, sehr enge und steile Holztreppen zum Aussichtspunkt",
-  "photoRules": "Innen gegen Gebühr, Blick vom Balkon inklusive",
-  "bestTimeToVisit": "Zur vollen Stunde, um den Mechanismus der Figuren zu sehen",
-  "audioGuide": "Nein"
+  "publicTransport": {
+    "de": "Zentral in der Zitadelle gelegen, nur zu Fuß erreichbar",
+    "hu": "A vár központjában található, csak gyalogosan közelíthető meg",
+    "ro": "Situat central în cetate, accesibil doar pe jos",
+    "en": "Centrally located in the citadel, accessible only on foot"
+  },
+  "parking": {
+    "de": "Nutzen Sie die Parkplätze am Fuße der Zitadelle",
+    "hu": "Használja a vár lábánál található parkolókat",
+    "ro": "Folosiți parcările de la baza cetății",
+    "en": "Use the parking lots at the foot of the citadel"
+  },
+  "accessibility": {
+    "de": "Nicht barrierefrei, sehr enge und steile Holztreppen zum Aussichtspunkt",
+    "hu": "Nem akadálymentes, nagyon szűk és meredek falépcsők vezetnek a kilátóhoz",
+    "ro": "Nu este accesibil persoanelor cu dizabilități, scări de lemn foarte înguste și abrupte către punctul de belvedere",
+    "en": "Not barrier-free, very narrow and steep wooden stairs to the viewpoint"
+  },
+  "photoRules": {
+    "de": "Innen gegen Gebühr, Blick vom Balkon inklusive",
+    "hu": "Bent díj ellenében, a kilátás az erkélyről benne van az árban",
+    "ro": "În interior contra cost, vederea de la balcon este inclusă",
+    "en": "Inside for a fee, view from the balcony included"
+  },
+  "bestTimeToVisit": {
+    "de": "Zur vollen Stunde, um den Mechanismus der Figuren zu sehen",
+    "hu": "Egész órakor, hogy láthassa a figurák mechanizmusát",
+    "ro": "La oră fixă, pentru a vedea mecanismul figurinelor",
+    "en": "On the hour to see the mechanism of the figures"
+  },
+  "audioGuide": {
+    "de": "Nein",
+    "hu": "Nincs",
+    "ro": "Nu",
+    "en": "No"
+  }
 }

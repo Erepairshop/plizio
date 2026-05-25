@@ -1,12 +1,57 @@
 {
-  "address": "Strada Anastasie Panu 54, 700064 Iași",
-  "openingHours": "Di-So 10:00-17:00, Mo geschlossen",
-  "entranceFee": "12 RON Erwachsene, 3 RON Schüler",
+  "address": {
+    "de": "Strada Anastasie Panu 54, 700064 Iași",
+    "hu": "Strada Anastasie Panu 54, 700064 Jászvásár",
+    "ro": "Strada Anastasie Panu 54, 700064 Iași",
+    "en": "Strada Anastasie Panu 54, 700064 Iași"
+  },
+  "openingHours": {
+    "de": "Di-So 10:00-17:00, Mo geschlossen",
+    "hu": "Kedd-vasárnap 10:00-17:00, hétfőn zárva",
+    "ro": "Marți-Duminică 10:00-17:00, Luni închis",
+    "en": "Tue-Sun 10:00-17:00, Mon closed"
+  },
+  "entranceFee": {
+    "de": "12 RON Erwachsene, 3 RON Schüler",
+    "hu": "12 RON felnőtt, 3 RON diák",
+    "ro": "12 RON adulți, 3 RON elevi",
+    "en": "12 RON adults, 3 RON students"
+  },
   "website": "https://www.muzeulliteraturiiiasi.ro/",
-  "publicTransport": "Straßenbahn 1, 9, 13 (Halt Palatul Culturii)",
-  "parking": "Gebührenpflichtige Parkplätze an der Palas Mall in der Nähe.",
-  "accessibility": "Nicht barrierefrei, enge Treppen im historischen Gebäude.",
-  "photoRules": "Erlaubt gegen Zusatzgebühr (ca. 15 RON).",
-  "bestTimeToVisit": "Kombiniert mit einem Besuch des Kulturpalastes.",
-  "audioGuide": "no"
+  "publicTransport": {
+    "de": "Straßenbahn 1, 9, 13 (Halt Palatul Culturii)",
+    "hu": "1, 9, 13-as villamos (Kultúrpalota megálló)",
+    "ro": "Tramvai 1, 9, 13 (stația Palatul Culturii)",
+    "en": "Tram 1, 9, 13 (Palatul Culturii stop)"
+  },
+  "parking": {
+    "de": "Gebührenpflichtige Parkplätze an der Palas Mall in der Nähe.",
+    "hu": "Fizetős parkolás a közeli Palas Mall-nál.",
+    "ro": "Parcări cu plată la Palas Mall în apropiere.",
+    "en": "Paid parking at nearby Palas Mall."
+  },
+  "accessibility": {
+    "de": "Nicht barrierefrei, enge Treppen im historischen Gebäude.",
+    "hu": "Nem akadálymentes, szűk lépcsők a történelmi épületben.",
+    "ro": "Nu este accesibil, scări înguste în clădirea istorică.",
+    "en": "Not accessible, narrow stairs in historical building."
+  },
+  "photoRules": {
+    "de": "Erlaubt gegen Zusatzgebühr (ca. 15 RON).",
+    "hu": "Engedélyezett külön díj ellenében (kb. 15 RON).",
+    "ro": "Permis contra unei taxe suplimentare (aprox. 15 RON).",
+    "en": "Allowed for an extra fee (approx. 15 RON)."
+  },
+  "bestTimeToVisit": {
+    "de": "Kombiniert mit einem Besuch des Kulturpalastes.",
+    "hu": "Kombináld a Kultúrpalota látogatásával.",
+    "ro": "Combinat cu o vizită la Palatul Culturii.",
+    "en": "Combined with a visit to the Palace of Culture."
+  },
+  "audioGuide": {
+    "de": "no",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

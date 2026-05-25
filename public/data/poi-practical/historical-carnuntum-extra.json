@@ -1,12 +1,57 @@
 {
-  "address": "Hauptstraße 1a, 2404 Petronell-Carnuntum, Österreich",
-  "openingHours": "Mitte März bis Mitte November: Täglich 09:00-17:00",
-  "entranceFee": "€13 Erwachsene (beinhaltet alle Standorte in Petronell-Carnuntum)",
+  "address": {
+    "de": "Hauptstraße 1a, 2404 Petronell-Carnuntum, Österreich",
+    "hu": "Hauptstraße 1a, 2404 Petronell-Carnuntum, Ausztria",
+    "ro": "Hauptstraße 1a, 2404 Petronell-Carnuntum, Austria",
+    "en": "Hauptstraße 1a, 2404 Petronell-Carnuntum, Austria"
+  },
+  "openingHours": {
+    "de": "Mitte März bis Mitte November: Täglich 09:00-17:00",
+    "hu": "Március közepétől november közepéig: naponta 09:00-17:00",
+    "ro": "De la jumătatea lunii martie până la jumătatea lunii noiembrie: Zilnic 09:00-17:00",
+    "en": "Mid-March to mid-November: Daily 09:00-17:00"
+  },
+  "entranceFee": {
+    "de": "€13 Erwachsene (beinhaltet alle Standorte in Petronell-Carnuntum)",
+    "hu": "€13 felnőtt (tartalmazza az összes helyszínt Petronell-Carnuntumban)",
+    "ro": "€13 adulți (include toate locațiile din Petronell-Carnuntum)",
+    "en": "€13 adults (includes all sites in Petronell-Carnuntum)"
+  },
   "website": "https://www.carnuntum.at/",
-  "publicTransport": "S-Bahn S7 bis Haltestelle Petronell-Carnuntum",
-  "parking": "Kostenlose Parkplätze an allen archäologischen Standorten vorhanden",
-  "accessibility": "Römisches Stadtviertel weitgehend barrierefrei durch befestigte Wege",
-  "photoRules": "Erlaubt",
-  "bestTimeToVisit": "Vormittags starten, um alle verteilten Standorte stressfrei zu besuchen",
-  "audioGuide": "Guide-App für Smartphones verfügbar"
+  "publicTransport": {
+    "de": "S-Bahn S7 bis Haltestelle Petronell-Carnuntum",
+    "hu": "S7 S-Bahn a Petronell-Carnuntum megállóig",
+    "ro": "S-Bahn S7 până la stația Petronell-Carnuntum",
+    "en": "S-Bahn S7 to station Petronell-Carnuntum"
+  },
+  "parking": {
+    "de": "Kostenlose Parkplätze an allen archäologischen Standorten vorhanden",
+    "hu": "Ingyenes parkolási lehetőség az összes régészeti helyszínen",
+    "ro": "Parcări gratuite disponibile la toate siturile arheologice",
+    "en": "Free parking available at all archaeological sites"
+  },
+  "accessibility": {
+    "de": "Römisches Stadtviertel weitgehend barrierefrei durch befestigte Wege",
+    "hu": "A római városnegyed nagyrészt akadálymentes a burkolt utaknak köszönhetően",
+    "ro": "Cartierul roman este în mare parte accesibil prin drumuri pavate",
+    "en": "Roman city quarter largely accessible due to paved paths"
+  },
+  "photoRules": {
+    "de": "Erlaubt",
+    "hu": "Engedélyezett",
+    "ro": "Permis",
+    "en": "Allowed"
+  },
+  "bestTimeToVisit": {
+    "de": "Vormittags starten, um alle verteilten Standorte stressfrei zu besuchen",
+    "hu": "Induljon délelőtt, hogy stresszmentesen látogathassa meg az összes elszórt helyszínt",
+    "ro": "Porniți dimineața pentru a vizita fără stres toate locațiile dispersate",
+    "en": "Start in the morning to visit all distributed sites stress-free"
+  },
+  "audioGuide": {
+    "de": "Guide-App für Smartphones verfügbar",
+    "hu": "Okostelefonos útmutató alkalmazás elérhető",
+    "ro": "Aplicație de ghid pentru smartphone-uri disponibilă",
+    "en": "Guide app for smartphones available"
+  }
 }

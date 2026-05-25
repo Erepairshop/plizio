@@ -1,12 +1,57 @@
 {
-  "address": "Strada Cuza Vodă 17, 435800 Vișeu de Sus, Maramureș",
-  "openingHours": "Mo-Su 09:00 Abfahrt (Saison: April - Oktober)",
-  "entranceFee": "75-110 RON (je nach Paket/Mittagessen)",
+  "address": {
+    "de": "Strada Cuza Vodă 17, 435800 Vișeu de Sus, Maramureș",
+    "hu": "Strada Cuza Vodă 17, 435800 Vișeu de Sus, Máramaros",
+    "ro": "Strada Cuza Vodă 17, 435800 Vișeu de Sus, Maramureș",
+    "en": "Strada Cuza Vodă 17, 435800 Vișeu de Sus, Maramureș"
+  },
+  "openingHours": {
+    "de": "Mo-Su 09:00 Abfahrt (Saison: April - Oktober)",
+    "hu": "H-V 09:00 indulás (szezon: április - október)",
+    "ro": "Lu-Du 09:00 plecare (sezon: aprilie - octombrie)",
+    "en": "Mon-Sun 09:00 departure (season: April - October)"
+  },
+  "entranceFee": {
+    "de": "75-110 RON (je nach Paket/Mittagessen)",
+    "hu": "75-110 RON (csomagtól/ebédtől függően)",
+    "ro": "75-110 RON (în funcție de pachet/prânz)",
+    "en": "75-110 RON (depending on package/lunch)"
+  },
   "website": "https://www.cffviseu.com",
-  "publicTransport": "Busverbindungen nach Vișeu de Sus; ca. 15 Min. Fußweg vom Zentrum",
-  "parking": "Großer bewachter Parkplatz am Bahnhof 'CFF Vișeu de Sus', ca. 10 RON",
-  "accessibility": "Eingeschränkt; Einstieg in die historischen Waggons erfordert Stufen",
-  "photoRules": "Erlaubt; beste Fotos während der Fahrt von der offenen Plattform aus",
-  "bestTimeToVisit": "Herbst (Oktober) für die Laubfärbung im Wassertal; Ticketvorbuchung Pflicht",
-  "audioGuide": "no"
+  "publicTransport": {
+    "de": "Busverbindungen nach Vișeu de Sus; ca. 15 Min. Fußweg vom Zentrum",
+    "hu": "Buszjáratok Vișeu de Susba; kb. 15 perc séta a központtól",
+    "ro": "Legături de autobuz către Vișeu de Sus; cca. 15 min. de mers pe jos din centru",
+    "en": "Bus connections to Vișeu de Sus; approx. 15 min. walk from the center"
+  },
+  "parking": {
+    "de": "Großer bewachter Parkplatz am Bahnhof 'CFF Vișeu de Sus', ca. 10 RON",
+    "hu": "Nagy őrzött parkoló a 'CFF Vișeu de Sus' állomáson, kb. 10 RON",
+    "ro": "Parcare mare păzită la gara 'CFF Vișeu de Sus', cca. 10 RON",
+    "en": "Large guarded parking lot at 'CFF Vișeu de Sus' station, approx. 10 RON"
+  },
+  "accessibility": {
+    "de": "Eingeschränkt; Einstieg in die historischen Waggons erfordert Stufen",
+    "hu": "Korlátozott; a történelmi kocsikba való beszálláshoz lépcsőket kell megmászni",
+    "ro": "Limitată; urcarea în vagoanele istorice necesită folosirea treptelor",
+    "en": "Limited; boarding the historic carriages requires steps"
+  },
+  "photoRules": {
+    "de": "Erlaubt; beste Fotos während der Fahrt von der offenen Plattform aus",
+    "hu": "Engedélyezett; a legjobb fényképek az út során, a nyitott platformokról készíthetők",
+    "ro": "Permis; cele mai bune fotografii se pot face în timpul călătoriei de pe platforma deschisă",
+    "en": "Allowed; best photos can be taken during the ride from the open platform"
+  },
+  "bestTimeToVisit": {
+    "de": "Herbst (Oktober) für die Laubfärbung im Wassertal; Ticketvorbuchung Pflicht",
+    "hu": "Ősz (október) a Vaser-völgyi lombhullás miatt; jegyfoglalás kötelező",
+    "ro": "Toamna (octombrie) pentru coloritul frunzelor pe Valea Vaserului; rezervarea biletelor este obligatorie",
+    "en": "Autumn (October) for the fall colors in the Vaser Valley; advance ticket booking is mandatory"
+  },
+  "audioGuide": {
+    "de": "no",
+    "hu": "nem",
+    "ro": "nu",
+    "en": "no"
+  }
 }

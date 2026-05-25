@@ -1,12 +1,57 @@
 {
-  "address": "Königstraße, 14467 Potsdam",
-  "openingHours": "24/7",
-  "entranceFee": "kostenlos",
+  "address": {
+    "de": "Königstraße, 14467 Potsdam",
+    "hu": "Königstraße, 14467 Potsdam",
+    "ro": "Königstraße, 14467 Potsdam",
+    "en": "Königstraße, 14467 Potsdam"
+  },
+  "openingHours": {
+    "de": "24/7",
+    "hu": "24/7",
+    "ro": "24/7",
+    "en": "24/7"
+  },
+  "entranceFee": {
+    "de": "kostenlos",
+    "hu": "ingyenes",
+    "ro": "gratuit",
+    "en": "free"
+  },
   "website": "https://www.potsdam.de",
-  "publicTransport": "Straßenbahn 93 oder Bus 316 (H Glienicker Brücke)",
-  "parking": "Begrenzte kostenlose Parkplätze an der Villa Schöningen.",
-  "accessibility": "Ebenerdige Fußwege über die Brücke, ideal für Rollstuhlfahrer.",
-  "photoRules": "Uneingeschränkt erlaubt, bester Blick auf die Havelschlösser.",
-  "bestTimeToVisit": "Sonnenuntergang für die goldene Beleuchtung der Brückenkonstruktion.",
-  "audioGuide": "nein"
+  "publicTransport": {
+    "de": "Straßenbahn 93 oder Bus 316 (H Glienicker Brücke)",
+    "hu": "93-as villamos vagy 316-os busz (Glienicker Brücke megálló)",
+    "ro": "Tramvaiul 93 sau autobuzul 316 (stația Glienicker Brücke)",
+    "en": "Tram 93 or bus 316 (stop Glienicker Brücke)"
+  },
+  "parking": {
+    "de": "Begrenzte kostenlose Parkplätze an der Villa Schöningen.",
+    "hu": "Korlátozott számú ingyenes parkoló a Villa Schöningennél.",
+    "ro": "Parcare limitată gratuită la Villa Schöningen.",
+    "en": "Limited free parking at Villa Schöningen."
+  },
+  "accessibility": {
+    "de": "Ebenerdige Fußwege über die Brücke, ideal für Rollstuhlfahrer.",
+    "hu": "Síkszintű gyalogutak a hídon, ideális kerekesszékeseknek.",
+    "ro": "Poteci plane peste pod, ideal pentru scaune cu rotile.",
+    "en": "Level footpaths across the bridge, ideal for wheelchair users."
+  },
+  "photoRules": {
+    "de": "Uneingeschränkt erlaubt, bester Blick auf die Havelschlösser.",
+    "hu": "Korlátlanul engedélyezett, a legjobb kilátás a Havel-kastélyokra.",
+    "ro": "Permis nelimitat, cea mai bună vedere către castelele de pe Havel.",
+    "en": "Unlimited allowance, best view of the Havel palaces."
+  },
+  "bestTimeToVisit": {
+    "de": "Sonnenuntergang für die goldene Beleuchtung der Brückenkonstruktion.",
+    "hu": "Naplemente idején a hídszerkezet arany megvilágításáért.",
+    "ro": "La apus pentru iluminarea aurie a structurii podului.",
+    "en": "Sunset for the golden illumination of the bridge structure."
+  },
+  "audioGuide": {
+    "de": "nein",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

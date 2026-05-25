@@ -1,12 +1,57 @@
 {
-  "address": "DN12C, 617105 Bicaz-Chei",
-  "openingHours": "24/7",
-  "entranceFee": "free",
+  "address": {
+    "de": "DN12C, 617105 Bicaz-Chei",
+    "hu": "DN12C, 617105 Bicaz-Chei",
+    "ro": "DN12C, 617105 Bicaz-Chei",
+    "en": "DN12C, 617105 Bicaz-Chei"
+  },
+  "openingHours": {
+    "de": "24/7",
+    "hu": "24/7",
+    "ro": "24/7",
+    "en": "24/7"
+  },
+  "entranceFee": {
+    "de": "free",
+    "hu": "ingyenes",
+    "ro": "gratuit",
+    "en": "free"
+  },
   "website": "",
-  "publicTransport": "Busse zwischen Piatra Neamț und Gheorgheni halten direkt in der Schlucht",
-  "parking": "Kleine Buchten entlang der Straße, oft überfüllt durch Souvenirstände",
-  "accessibility": "Die Hauptstraße ist asphaltiert, Wanderwege sind steil und felsig",
-  "photoRules": "Überall erlaubt, Vorsicht vor dem fließenden Verkehr auf der engen Straße",
-  "bestTimeToVisit": "Früher Vormittag, bevor die Touristenbusse und Souvenirstände öffnen",
-  "audioGuide": "Nein"
+  "publicTransport": {
+    "de": "Busse zwischen Piatra Neamț und Gheorgheni halten direkt in der Schlucht",
+    "hu": "A Piatra Neamț és Gyergyószentmiklós (Gheorgheni) közötti buszok közvetlenül a szorosnál állnak meg",
+    "ro": "Autobuzele între Piatra Neamț și Gheorgheni opresc chiar în chei",
+    "en": "Buses between Piatra Neamț and Gheorgheni stop right in the gorge"
+  },
+  "parking": {
+    "de": "Kleine Buchten entlang der Straße, oft überfüllt durch Souvenirstände",
+    "hu": "Kis öblök az út mentén, gyakran túlzsúfoltak az ajándékárusok miatt",
+    "ro": "Golfuri mici de-a lungul drumului, adesea aglomerate de tarabele cu suveniruri",
+    "en": "Small bays along the road, often crowded by souvenir stalls"
+  },
+  "accessibility": {
+    "de": "Die Hauptstraße ist asphaltiert, Wanderwege sind steil und felsig",
+    "hu": "A főút aszfaltozott, a túraútvonalak meredekek és sziklásak",
+    "ro": "Drumul principal este asfaltat, traseele de drumeție sunt abrupte și stâncoase",
+    "en": "The main road is paved, hiking trails are steep and rocky"
+  },
+  "photoRules": {
+    "de": "Überall erlaubt, Vorsicht vor dem fließenden Verkehr auf der engen Straße",
+    "hu": "Mindenhol engedélyezett, vigyázz a forgalomra a keskeny úton",
+    "ro": "Permis peste tot, atenție la trafic pe drumul îngust",
+    "en": "Allowed everywhere, beware of traffic on the narrow road"
+  },
+  "bestTimeToVisit": {
+    "de": "Früher Vormittag, bevor die Touristenbusse und Souvenirstände öffnen",
+    "hu": "Kora délelőtt, mielőtt a turistabuszok és az árusok megérkeznek",
+    "ro": "Dimineața devreme, înainte ca autocarele turistice și tarabele să se deschidă",
+    "en": "Early morning before tourist buses and souvenir stalls open"
+  },
+  "audioGuide": {
+    "de": "Nein",
+    "hu": "Nincs",
+    "ro": "Nu",
+    "en": "No"
+  }
 }

@@ -1,12 +1,57 @@
 {
-  "address": "Várkert u. 1, 5700 Gyula",
-  "openingHours": "Di-So 10:00-18:00",
-  "entranceFee": "2200 HUF Erwachsene, 1100 HUF ermäßigt",
+  "address": {
+    "de": "Várkert u. 1, 5700 Gyula",
+    "hu": "Várkert u. 1, 5700 Gyula",
+    "ro": "Várkert u. 1, 5700 Gyula",
+    "en": "Várkert u. 1, 5700 Gyula"
+  },
+  "openingHours": {
+    "de": "Di-So 10:00-18:00",
+    "hu": "K-V 10:00-18:00",
+    "ro": "Ma-Du 10:00-18:00",
+    "en": "Tue-Sun 10:00-18:00"
+  },
+  "entranceFee": {
+    "de": "2200 HUF Erwachsene, 1100 HUF ermäßigt",
+    "hu": "2200 HUF felnőtt, 1100 HUF kedvezményes",
+    "ro": "2200 HUF adulți, 1100 HUF redus",
+    "en": "2200 HUF adults, 1100 HUF reduced"
+  },
   "website": "https://www.gyulavara.hu",
-  "publicTransport": "Lokale Buslinie bis Haltestelle 'Várfürdő'",
-  "parking": "Gebührenpflichtiger Parkplatz neben dem Burgbad",
-  "accessibility": "Erdgeschoss barrierefrei, Obergeschoss und Turm nur über Treppen",
-  "photoRules": "Erlaubt für private Zwecke",
-  "bestTimeToVisit": "Sommerabende während der Schlossfestspiele",
-  "audioGuide": "Ungarisch, Englisch, Deutsch, Rumänisch"
+  "publicTransport": {
+    "de": "Lokale Buslinie bis Haltestelle 'Várfürdő'",
+    "hu": "Helyi buszjárat a 'Várfürdő' megállóig",
+    "ro": "Linia locală de autobuz până la stația 'Várfürdő'",
+    "en": "Local bus to 'Várfürdő' stop"
+  },
+  "parking": {
+    "de": "Gebührenpflichtiger Parkplatz neben dem Burgbad",
+    "hu": "Fizetős parkoló a várfürdő mellett",
+    "ro": "Parcare cu plată lângă ștrandul cetății",
+    "en": "Paid parking next to the castle spa"
+  },
+  "accessibility": {
+    "de": "Erdgeschoss barrierefrei, Obergeschoss und Turm nur über Treppen",
+    "hu": "Földszint akadálymentesített, emelet és torony csak lépcsőn érhető el",
+    "ro": "Parter accesibil, etajul și turnul doar pe scări",
+    "en": "Ground floor accessible, upper floor and tower reachable only by stairs"
+  },
+  "photoRules": {
+    "de": "Erlaubt für private Zwecke",
+    "hu": "Magáncélú fényképezés megengedett",
+    "ro": "Permis în scopuri private",
+    "en": "Allowed for private use"
+  },
+  "bestTimeToVisit": {
+    "de": "Sommerabende während der Schlossfestspiele",
+    "hu": "Nyári esték, a várjátékok idején",
+    "ro": "Serile de vară în timpul festivalului cetății",
+    "en": "Summer evenings during the castle festival"
+  },
+  "audioGuide": {
+    "de": "Ungarisch, Englisch, Deutsch, Rumänisch",
+    "hu": "magyar, angol, német, román",
+    "ro": "maghiară, engleză, germană, română",
+    "en": "Hungarian, English, German, Romanian"
+  }
 }

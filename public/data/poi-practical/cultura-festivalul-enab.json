@@ -1,12 +1,57 @@
 {
-  "address": "Str. Corneliu Coposu 2, 550245 Sibiu",
-  "openingHours": "Jährlich im Juni, Veranstaltungen meist zwischen 10:00-24:00",
-  "entranceFee": "Varies (viele kostenlose Straßenauftritte, Tickets für Säle 20-100 RON)",
+  "address": {
+    "de": "Str. Corneliu Coposu 2, 550245 Sibiu",
+    "hu": "Corneliu Coposu utca 2, 550245 Nagyszeben",
+    "ro": "Str. Corneliu Coposu 2, 550245 Sibiu",
+    "en": "2 Corneliu Coposu St, 550245 Sibiu"
+  },
+  "openingHours": {
+    "de": "Jährlich im Juni, Veranstaltungen meist zwischen 10:00-24:00",
+    "hu": "Minden év júniusában, az események általában 10:00 és 24:00 között zajlanak",
+    "ro": "Anual în iunie, evenimente de regulă între 10:00-24:00",
+    "en": "Annually in June, events mostly between 10:00-24:00"
+  },
+  "entranceFee": {
+    "de": "Varies (viele kostenlose Straßenauftritte, Tickets für Säle 20-100 RON)",
+    "hu": "Változó (sok ingyenes utcai előadás, a termi jegyek 20-100 RON között)",
+    "ro": "Variabil (multe spectacole stradale gratuite, bilete pentru săli 20-100 RON)",
+    "en": "Varies (many free street performances, hall tickets 20-100 RON)"
+  },
   "website": "https://www.sibfest.ro/",
-  "publicTransport": "Zentrum von Sibiu ist fußläufig; Busse zum Piata Mare/Piata Unirii.",
-  "parking": "Parkhäuser im Zentrum (z.B. Cazarma 90) empfohlen, ca. 2-5 RON/Std.",
-  "accessibility": "Straßenevents barrierefrei, historische Theater teilweise mit Stufen.",
-  "photoRules": "Auf der Straße erlaubt; in Theatersälen meist streng verboten.",
-  "bestTimeToVisit": "Abendstunden während des Festivals für die beste Atmosphäre in der Altstadt.",
-  "audioGuide": "no"
+  "publicTransport": {
+    "de": "Zentrum von Sibiu ist fußläufig; Busse zum Piata Mare/Piata Unirii.",
+    "hu": "Nagyszeben központja gyalogosan is bejárható; buszok a Nagypiac térhez/Egyesülés térhez.",
+    "ro": "Centrul Sibiului este accesibil pietonal; autobuze către Piața Mare/Piața Unirii.",
+    "en": "Sibiu city center is walkable; buses to Piata Mare/Piata Unirii."
+  },
+  "parking": {
+    "de": "Parkhäuser im Zentrum (z.B. Cazarma 90) empfohlen, ca. 2-5 RON/Std.",
+    "hu": "A központi parkolóházak (pl. Cazarma 90) ajánlottak, kb. 2-5 RON/óra.",
+    "ro": "Se recomandă parcările din centru (ex. Cazarma 90), aprox. 2-5 RON/oră.",
+    "en": "Parking garages in the center (e.g., Cazarma 90) recommended, approx. 2-5 RON/hr."
+  },
+  "accessibility": {
+    "de": "Straßenevents barrierefrei, historische Theater teilweise mit Stufen.",
+    "hu": "Az utcai események akadálymentesek, a történelmi színházak részben lépcsősek.",
+    "ro": "Evenimentele stradale sunt accesibile, teatrele istorice au parțial trepte.",
+    "en": "Street events are accessible, historical theaters partially have steps."
+  },
+  "photoRules": {
+    "de": "Auf der Straße erlaubt; in Theatersälen meist streng verboten.",
+    "hu": "Az utcán megengedett; a színháztermekben általában szigorúan tilos.",
+    "ro": "Permis pe stradă; în sălile de teatru este de regulă strict interzis.",
+    "en": "Allowed on the street; mostly strictly forbidden in theater halls."
+  },
+  "bestTimeToVisit": {
+    "de": "Abendstunden während des Festivals für die beste Atmosphäre in der Altstadt.",
+    "hu": "Az esti órák a fesztivál alatt a legjobb hangulatért az óvárosban.",
+    "ro": "Orele serii în timpul festivalului pentru cea mai bună atmosferă în centrul vechi.",
+    "en": "Evening hours during the festival for the best atmosphere in the old town."
+  },
+  "audioGuide": {
+    "de": "no",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

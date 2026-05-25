@@ -1,12 +1,57 @@
 {
-  "address": "Hintere Judengasse 6, 67547 Worms",
-  "openingHours": "Täglich 10:00-12:30, 13:30-17:00 (Synagoge)",
-  "entranceFee": "kostenlos (Spende willkommen)",
+  "address": {
+    "de": "Hintere Judengasse 6, 67547 Worms",
+    "hu": "Hintere Judengasse 6, 67547 Worms, Németország",
+    "ro": "Hintere Judengasse 6, 67547 Worms, Germania",
+    "en": "Hintere Judengasse 6, 67547 Worms, Germany"
+  },
+  "openingHours": {
+    "de": "Täglich 10:00-12:30, 13:30-17:00 (Synagoge)",
+    "hu": "Naponta 10:00-12:30, 13:30-17:00 (zsinagóga)",
+    "ro": "Zilnic 10:00-12:30, 13:30-17:00 (Sinagoga)",
+    "en": "Daily 10:00-12:30, 13:30-17:00 (Synagogue)"
+  },
+  "entranceFee": {
+    "de": "kostenlos (Spende willkommen)",
+    "hu": "ingyenes (adományokat szívesen vesznek)",
+    "ro": "gratuit (donații binevenite)",
+    "en": "free (donations welcome)"
+  },
   "website": "https://www.worms.de",
-  "publicTransport": "Vom Hauptbahnhof Worms ca. 10 Min Fußweg.",
-  "parking": "Parkplatz Adenauerring, ca. 1 €/Std.",
-  "accessibility": "Kopfsteinpflaster in der Judengasse erschwert Zugang für Rollstühle.",
-  "photoRules": "In der Synagoge erlaubt, auf dem Friedhof Heiliger Sand eingeschränkt.",
-  "bestTimeToVisit": "Früher Vormittag auf dem Friedhof Heiliger Sand für besondere Lichtstimmung.",
-  "audioGuide": "no"
+  "publicTransport": {
+    "de": "Vom Hauptbahnhof Worms ca. 10 Min Fußweg.",
+    "hu": "A wormsi főpályaudvartól kb. 10 perc séta.",
+    "ro": "Aprox. 10 min. pe jos de la gara centrală Worms.",
+    "en": "Approx. 10 min walk from Worms central station."
+  },
+  "parking": {
+    "de": "Parkplatz Adenauerring, ca. 1 €/Std.",
+    "hu": "Adenauerring parkoló, kb. 1 €/óra",
+    "ro": "Parcarea Adenauerring, aprox. 1 €/oră",
+    "en": "Adenauerring parking lot, approx. 1 €/hour"
+  },
+  "accessibility": {
+    "de": "Kopfsteinpflaster in der Judengasse erschwert Zugang für Rollstühle.",
+    "hu": "A Judengasse macskaköves burkolata nehezíti a kerekesszékes közlekedést.",
+    "ro": "Pavajul din Judengasse îngreunează accesul scaunelor cu rotile.",
+    "en": "Cobblestones in Judengasse make wheelchair access difficult."
+  },
+  "photoRules": {
+    "de": "In der Synagoge erlaubt, auf dem Friedhof Heiliger Sand eingeschränkt.",
+    "hu": "A zsinagógában engedélyezett, a Heiliger Sand temetőben korlátozott.",
+    "ro": "Permis în sinagogă, restricționat în cimitirul Heiliger Sand.",
+    "en": "Allowed in the synagogue, restricted in the Heiliger Sand cemetery."
+  },
+  "bestTimeToVisit": {
+    "de": "Früher Vormittag auf dem Friedhof Heiliger Sand für besondere Lichtstimmung.",
+    "hu": "Kora délelőtt a Heiliger Sand temetőben a különleges fények miatt.",
+    "ro": "Dimineața devreme în cimitirul Heiliger Sand pentru o lumină deosebită.",
+    "en": "Early morning at the Heiliger Sand cemetery for special light."
+  },
+  "audioGuide": {
+    "de": "no",
+    "hu": "nem",
+    "ro": "nu",
+    "en": "no"
+  }
 }

@@ -1,12 +1,57 @@
 {
-  "address": "Lutherstraße 15, 06295 Lutherstadt Eisleben",
-  "openingHours": "Di-So 10:00-18:00 (Sommer), 10:00-17:00 (Winter)",
-  "entranceFee": "€10 Erwachsene (Kombiticket Geburts- und Sterbehaus)",
+  "address": {
+    "de": "Lutherstraße 15, 06295 Lutherstadt Eisleben",
+    "hu": "Lutherstraße 15, 06295 Lutherstadt Eisleben",
+    "ro": "Lutherstraße 15, 06295 Lutherstadt Eisleben",
+    "en": "Lutherstraße 15, 06295 Lutherstadt Eisleben"
+  },
+  "openingHours": {
+    "de": "Di-So 10:00-18:00 (Sommer), 10:00-17:00 (Winter)",
+    "hu": "Ke-Va 10:00-18:00 (nyár), 10:00-17:00 (tél)",
+    "ro": "Ma-Du 10:00-18:00 (vară), 10:00-17:00 (iarnă)",
+    "en": "Tue-Sun 10:00-18:00 (summer), 10:00-17:00 (winter)"
+  },
+  "entranceFee": {
+    "de": "€10 Erwachsene (Kombiticket Geburts- und Sterbehaus)",
+    "hu": "10 € felnőtteknek (kombinált jegy a szülőházba és halálházba)",
+    "ro": "10 € adulți (bilet combinat pentru casa natală și casa morții)",
+    "en": "€10 adults (combined ticket for birth and death house)"
+  },
   "website": "https://www.martinluther.de",
-  "publicTransport": "15 Min. Fußweg vom Bahnhof Lutherstadt Eisleben",
-  "parking": "Zentraler Parkplatz Wolferoder Weg (teilweise gebührenfrei).",
-  "accessibility": "Das Geburtshaus ist voll barrierefrei, das Sterbehaus nur im Erdgeschoss.",
-  "photoRules": "Privataufnahmen ohne Blitzlicht in den Ausstellungsräumen erlaubt.",
-  "bestTimeToVisit": "Vormittags in Kombination mit dem Luther-Rundweg durch die Stadt.",
-  "audioGuide": "ja (Audioguides sind im Ticketpreis enthalten)"
+  "publicTransport": {
+    "de": "15 Min. Fußweg vom Bahnhof Lutherstadt Eisleben",
+    "hu": "15 perc séta Lutherstadt Eisleben vasútállomástól",
+    "ro": "15 minute de mers pe jos de la gara Lutherstadt Eisleben",
+    "en": "15 min walk from Lutherstadt Eisleben station"
+  },
+  "parking": {
+    "de": "Zentraler Parkplatz Wolferoder Weg (teilweise gebührenfrei).",
+    "hu": "Központi parkoló a Wolferoder Weg-nél (részben ingyenes).",
+    "ro": "Parcare centrală pe Wolferoder Weg (parțial gratuită).",
+    "en": "Central parking at Wolferoder Weg (partially free)."
+  },
+  "accessibility": {
+    "de": "Das Geburtshaus ist voll barrierefrei, das Sterbehaus nur im Erdgeschoss.",
+    "hu": "A szülőház teljesen akadálymentes, a halálház csak a földszinten.",
+    "ro": "Casa natală este complet accesibilă, casa morții doar la parter.",
+    "en": "The birth house is fully barrier-free, the death house only on the ground floor."
+  },
+  "photoRules": {
+    "de": "Privataufnahmen ohne Blitzlicht in den Ausstellungsräumen erlaubt.",
+    "hu": "Magáncélú fotózás vaku nélkül megengedett a kiállítótermekben.",
+    "ro": "Fotografierea privată fără bliț este permisă în sălile de expoziție.",
+    "en": "Private photography without flash allowed in exhibition rooms."
+  },
+  "bestTimeToVisit": {
+    "de": "Vormittags in Kombination mit dem Luther-Rundweg durch die Stadt.",
+    "hu": "Délelőtt, a városi Luther-sétával kombinálva.",
+    "ro": "Dimineața, în combinație cu traseul Luther prin oraș.",
+    "en": "Morning, combined with the Luther city trail."
+  },
+  "audioGuide": {
+    "de": "ja (Audioguides sind im Ticketpreis enthalten)",
+    "hu": "igen (az audioguide benne van a jegy árában)",
+    "ro": "da (audioghidurile sunt incluse în prețul biletului)",
+    "en": "yes (audio guides are included in the ticket price)"
+  }
 }

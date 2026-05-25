@@ -1,12 +1,57 @@
 {
-  "address": "Schlossbezirk 10, 76131 Karlsruhe",
-  "openingHours": "Di-Do 10:00-17:00, Fr-So 10:00-18:00 (Badisches Landesmuseum)",
-  "entranceFee": "Schlosspark: frei; Museum: €12 Erwachsene",
+  "address": {
+    "de": "Schlossbezirk 10, 76131 Karlsruhe",
+    "hu": "Schlossbezirk 10, 76131 Karlsruhe",
+    "ro": "Schlossbezirk 10, 76131 Karlsruhe",
+    "en": "Schlossbezirk 10, 76131 Karlsruhe"
+  },
+  "openingHours": {
+    "de": "Di-Do 10:00-17:00, Fr-So 10:00-18:00 (Badisches Landesmuseum)",
+    "hu": "Ke–Csü 10:00–17:00, Pé–Va 10:00–18:00 (Badeni Tartományi Múzeum)",
+    "ro": "Ma-Jo 10:00-17:00, Vi-Du 10:00-18:00 (Muzeul de Stat Baden)",
+    "en": "Tue-Thu 10:00-17:00, Fri-Sun 10:00-18:00 (Baden State Museum)"
+  },
+  "entranceFee": {
+    "de": "Schlosspark: frei; Museum: €12 Erwachsene",
+    "hu": "Kastélypark: ingyenes; múzeum: felnőtt 12 €",
+    "ro": "Parcul castelului: gratuit; muzeu: 12 € adulți",
+    "en": "Palace park: free; museum: €12 adults"
+  },
   "website": "https://www.landesmuseum.de",
-  "publicTransport": "Tram/S-Bahn bis Haltestelle 'Schlossplatz'",
-  "parking": "Tiefgarage Schlossplatz direkt vor dem Schloss",
-  "accessibility": "Voll barrierefrei durch Aufzüge im Museum; Parkwege gut befahrbar",
-  "photoRules": "Im Museum meist untersagt; im Park und Außenbereich erlaubt",
-  "bestTimeToVisit": "Sommerabende im Park; Schlossgartenbahn fährt am Wochenende",
-  "audioGuide": "Ja, für Sonderausstellungen verfügbar"
+  "publicTransport": {
+    "de": "Tram/S-Bahn bis Haltestelle 'Schlossplatz'",
+    "hu": "Villamos vagy S-Bahn Schlossplatz megállóig",
+    "ro": "Tramvai/S-Bahn până la stația „Schlossplatz”",
+    "en": "Tram/S-Bahn to 'Schlossplatz' stop"
+  },
+  "parking": {
+    "de": "Tiefgarage Schlossplatz direkt vor dem Schloss",
+    "hu": "Schlossplatz mélygarázs közvetlenül a kastély előtt",
+    "ro": "Parcare subterană Schlossplatz direct în fața castelului",
+    "en": "Schlossplatz underground parking directly in front of the palace"
+  },
+  "accessibility": {
+    "de": "Voll barrierefrei durch Aufzüge im Museum; Parkwege gut befahrbar",
+    "hu": "Teljesen akadálymentes a múzeumi lifteknek köszönhetően; a park útjai jól járhatók",
+    "ro": "Complet accesibil prin lifturi în muzeu; aleile parcului sunt ușor de parcurs",
+    "en": "Fully accessible via elevators in the museum; park paths are easy to navigate"
+  },
+  "photoRules": {
+    "de": "Im Museum meist untersagt; im Park und Außenbereich erlaubt",
+    "hu": "A múzeumban többnyire tilos; a parkban és kültéren megengedett",
+    "ro": "În muzeu este de obicei interzis; permis în parc și în exterior",
+    "en": "Mostly prohibited in the museum; allowed in the park and outdoor areas"
+  },
+  "bestTimeToVisit": {
+    "de": "Sommerabende im Park; Schlossgartenbahn fährt am Wochenende",
+    "hu": "Nyári estéken a parkban; a kastélykerti vasút hétvégente üzemel",
+    "ro": "Serile de vară în parc; trenulețul grădinii circulă în weekend",
+    "en": "Summer evenings in the park; the palace garden railway runs on weekends"
+  },
+  "audioGuide": {
+    "de": "Ja, für Sonderausstellungen verfügbar",
+    "hu": "Igen, az időszaki kiállításokhoz elérhető",
+    "ro": "Da, disponibil pentru expoziții temporare",
+    "en": "Yes, available for special exhibitions"
+  }
 }

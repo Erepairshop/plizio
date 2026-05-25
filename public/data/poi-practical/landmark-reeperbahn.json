@@ -1,12 +1,57 @@
 {
-  "address": "Reeperbahn, 20359 Hamburg",
-  "openingHours": "24/7",
-  "entranceFee": "free",
+  "address": {
+    "de": "Reeperbahn, 20359 Hamburg",
+    "hu": "Reeperbahn, 20359 Hamburg",
+    "ro": "Reeperbahn, 20359 Hamburg",
+    "en": "Reeperbahn, 20359 Hamburg"
+  },
+  "openingHours": {
+    "de": "24/7",
+    "hu": "24/7",
+    "ro": "24/7",
+    "en": "24/7"
+  },
+  "entranceFee": {
+    "de": "free",
+    "hu": "ingyenes",
+    "ro": "gratuit",
+    "en": "free"
+  },
   "website": "",
-  "publicTransport": "S-Bahn Reeperbahn (S1, S3)",
-  "parking": "Parkhaus Millerntor oder öffentliche Parkplätze in Seitenstraßen",
-  "accessibility": "Öffentlicher Bereich komplett barrierefrei",
-  "photoRules": "Erlaubt, Privatsphäre der Personen beachten",
-  "bestTimeToVisit": "Nach Mitternacht für das volle Nachtleben",
-  "audioGuide": "no"
+  "publicTransport": {
+    "de": "S-Bahn Reeperbahn (S1, S3)",
+    "hu": "S-Bahn: Reeperbahn (S1, S3)",
+    "ro": "S-Bahn Reeperbahn (S1, S3)",
+    "en": "S-Bahn Reeperbahn (S1, S3)"
+  },
+  "parking": {
+    "de": "Parkhaus Millerntor oder öffentliche Parkplätze in Seitenstraßen",
+    "hu": "Millerntor parkolóház vagy nyilvános parkolóhelyek a mellékutcákban",
+    "ro": "Parcare Millerntor sau parcări publice pe străzile laterale",
+    "en": "Millerntor parking garage or public parking spaces in side streets"
+  },
+  "accessibility": {
+    "de": "Öffentlicher Bereich komplett barrierefrei",
+    "hu": "A közterület teljesen akadálymentes",
+    "ro": "Zona publică complet accesibilă",
+    "en": "Public area completely accessible"
+  },
+  "photoRules": {
+    "de": "Erlaubt, Privatsphäre der Personen beachten",
+    "hu": "Engedélyezett, tartsa tiszteletben az emberek magánszféráját",
+    "ro": "Permis, respectați intimitatea persoanelor",
+    "en": "Allowed, respect people's privacy"
+  },
+  "bestTimeToVisit": {
+    "de": "Nach Mitternacht für das volle Nachtleben",
+    "hu": "Éjfél után az igazi éjszakai életért",
+    "ro": "După miezul nopții pentru viața de noapte autentică",
+    "en": "After midnight for the full nightlife experience"
+  },
+  "audioGuide": {
+    "de": "no",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

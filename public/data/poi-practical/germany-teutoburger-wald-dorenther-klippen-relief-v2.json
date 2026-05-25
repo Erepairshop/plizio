@@ -1,12 +1,57 @@
 {
-  "address": "Münsterstraße, 49479 Ibbenbüren",
-  "openingHours": "24/7",
-  "entranceFee": "free",
+  "address": {
+    "de": "Münsterstraße, 49479 Ibbenbüren",
+    "hu": "Münsterstraße, 49479 Ibbenbüren",
+    "ro": "Münsterstraße, 49479 Ibbenbüren",
+    "en": "Münsterstraße, 49479 Ibbenbüren"
+  },
+  "openingHours": {
+    "de": "24/7",
+    "hu": "0–24",
+    "ro": "Non-stop",
+    "en": "24/7"
+  },
+  "entranceFee": {
+    "de": "free",
+    "hu": "ingyenes",
+    "ro": "gratuit",
+    "en": "free"
+  },
   "website": "https://www.ibbenbueren.de",
-  "publicTransport": "Buslinie R45 bis Haltestelle 'Dörenther Klippen'",
-  "parking": "Wanderparkplatz an der B54, Gebühr ca. €3-5 je nach Saison",
-  "accessibility": "Nicht barrierefrei; steile Waldwege und Felsen, festes Schuhwerk erforderlich",
-  "photoRules": "Erlaubt; Drohnenflüge im Naturschutzgebiet untersagt",
-  "bestTimeToVisit": "Wochentags zum Sonnenuntergang am 'Hockenden Weib'",
-  "audioGuide": "no"
+  "publicTransport": {
+    "de": "Buslinie R45 bis Haltestelle 'Dörenther Klippen'",
+    "hu": "R45-ös autóbusz Dörenther Klippen megállóig",
+    "ro": "Linia de autobuz R45 până la stația „Dörenther Klippen”",
+    "en": "Bus line R45 to 'Dörenther Klippen' stop"
+  },
+  "parking": {
+    "de": "Wanderparkplatz an der B54, Gebühr ca. €3-5 je nach Saison",
+    "hu": "Túra-parkoló a B54-es út mentén, díja szezontól függően kb. 3–5 €",
+    "ro": "Parcare pentru drumeții pe B54, taxă aprox. 3-5 € în funcție de sezon",
+    "en": "Hiking parking lot on B54, fee approx. €3-5 depending on season"
+  },
+  "accessibility": {
+    "de": "Nicht barrierefrei; steile Waldwege und Felsen, festes Schuhwerk erforderlich",
+    "hu": "Nem akadálymentes; meredek erdei utak és sziklák, stabil túracipő szükséges",
+    "ro": "Nu este accesibil; poteci abrupte de pădure și stânci, necesită încălțăminte solidă",
+    "en": "Not accessible; steep forest paths and rocks, sturdy footwear required"
+  },
+  "photoRules": {
+    "de": "Erlaubt; Drohnenflüge im Naturschutzgebiet untersagt",
+    "hu": "Megengedett; drónhasználat a természetvédelmi területen tilos",
+    "ro": "Permis; zborul cu drone în rezervația naturală este interzis",
+    "en": "Allowed; drone flights in the nature reserve are prohibited"
+  },
+  "bestTimeToVisit": {
+    "de": "Wochentags zum Sonnenuntergang am 'Hockenden Weib'",
+    "hu": "Hétköznap naplementekor a „Guggoló asszony” (Hockendes Weib) sziklánál",
+    "ro": "În timpul săptămânii la apus, la stânca „Femeia ghemuită”",
+    "en": "Weekdays at sunset by the 'Crouching Woman' rock"
+  },
+  "audioGuide": {
+    "de": "no",
+    "hu": "nem",
+    "ro": "nu",
+    "en": "no"
+  }
 }

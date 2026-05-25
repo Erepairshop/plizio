@@ -1,12 +1,57 @@
 {
-  "address": "19 Rue Balzac, 37190 Azay-le-Rideau",
-  "openingHours": "Mo-Su 10:00-18:00",
-  "entranceFee": "€11.50 Erwachsene",
+  "address": {
+    "de": "19 Rue Balzac, 37190 Azay-le-Rideau",
+    "hu": "19 Rue Balzac, 37190 Azay-le-Rideau",
+    "ro": "19 Rue Balzac, 37190 Azay-le-Rideau",
+    "en": "19 Rue Balzac, 37190 Azay-le-Rideau"
+  },
+  "openingHours": {
+    "de": "Mo-Su 10:00-18:00",
+    "hu": "Hé-Va 10:00-18:00",
+    "ro": "Lun-Dum 10:00-18:00",
+    "en": "Mon-Sun 10:00-18:00"
+  },
+  "entranceFee": {
+    "de": "€11.50 Erwachsene",
+    "hu": "11,50 € felnőtteknek",
+    "ro": "11,50 € adulți",
+    "en": "€11.50 adults"
+  },
   "website": "https://www.azay-le-rideau.fr",
-  "publicTransport": "Regionalzug ab Tours Richtung Chinon bis Azay-le-Rideau",
-  "parking": "Besucherparkplatz an der Place de la République",
-  "accessibility": "Park und Erdgeschoss barrierefrei, Obergeschosse über Treppen",
-  "photoRules": "Fotografieren ohne Blitz erlaubt; perfekt für Spiegelungen im Wasser",
-  "bestTimeToVisit": "Bei Windstille am Morgen für die ikonische Spiegelung im Schlossgraben",
-  "audioGuide": "DE, EN, FR, IT, ES"
+  "publicTransport": {
+    "de": "Regionalzug ab Tours Richtung Chinon bis Azay-le-Rideau",
+    "hu": "Regionális vonat Tours-ból Chinon felé Azay-le-Rideau megállóig",
+    "ro": "Tren regional de la Tours spre Chinon până la Azay-le-Rideau",
+    "en": "Regional train from Tours towards Chinon to Azay-le-Rideau"
+  },
+  "parking": {
+    "de": "Besucherparkplatz an der Place de la République",
+    "hu": "Látogatói parkoló a Place de la République téren",
+    "ro": "Parcare pentru vizitatori în Place de la République",
+    "en": "Visitor parking at Place de la République"
+  },
+  "accessibility": {
+    "de": "Park und Erdgeschoss barrierefrei, Obergeschosse über Treppen",
+    "hu": "A park és a földszint akadálymentes, az emeletek lépcsőn érhetők el",
+    "ro": "Parcul și parterul sunt accesibile, etajele superioare prin scări",
+    "en": "Park and ground floor accessible, upper floors via stairs"
+  },
+  "photoRules": {
+    "de": "Fotografieren ohne Blitz erlaubt; perfekt für Spiegelungen im Wasser",
+    "hu": "Vaku nélkül szabad fényképezni; tökéletes a vizes tükröződések megörökítéséhez",
+    "ro": "Fotografierea fără bliț este permisă; perfect pentru reflexiile în apă",
+    "en": "Photography allowed without flash; perfect for reflections in the water"
+  },
+  "bestTimeToVisit": {
+    "de": "Bei Windstille am Morgen für die ikonische Spiegelung im Schlossgraben",
+    "hu": "Szélcsendes reggeleken az ikonikus várárokbeli tükröződés miatt",
+    "ro": "Dimineața, când nu bate vântul, pentru reflexia iconică în șanțul castelului",
+    "en": "On windless mornings for the iconic reflection in the castle moat"
+  },
+  "audioGuide": {
+    "de": "DE, EN, FR, IT, ES",
+    "hu": "DE, EN, FR, IT, ES",
+    "ro": "DE, EN, FR, IT, ES",
+    "en": "DE, EN, FR, IT, ES"
+  }
 }

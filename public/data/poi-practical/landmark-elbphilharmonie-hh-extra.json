@@ -1,12 +1,57 @@
 {
-  "address": "Platz der Deutschen Einheit 1, 20457 Hamburg",
-  "openingHours": "Plaza 10:00-24:00",
-  "entranceFee": "Kostenlos (Online-Ticket mit Zeitfenster empfohlen)",
+  "address": {
+    "de": "Platz der Deutschen Einheit 1, 20457 Hamburg",
+    "hu": "Platz der Deutschen Einheit 1, 20457 Hamburg",
+    "ro": "Platz der Deutschen Einheit 1, 20457 Hamburg",
+    "en": "Platz der Deutschen Einheit 1, 20457 Hamburg"
+  },
+  "openingHours": {
+    "de": "Plaza 10:00-24:00",
+    "hu": "Plaza 10:00-24:00",
+    "ro": "Plaza 10:00-24:00",
+    "en": "Plaza 10:00-24:00"
+  },
+  "entranceFee": {
+    "de": "Kostenlos (Online-Ticket mit Zeitfenster empfohlen)",
+    "hu": "Ingyenes (idősávos online jegy ajánlott)",
+    "ro": "Gratuit (se recomandă bilet online cu interval orar)",
+    "en": "Free (online ticket with time slot recommended)"
+  },
   "website": "https://www.elbphilharmonie.de",
-  "publicTransport": "U-Bahn U3 bis Baumwall (Elbphilharmonie)",
-  "parking": "Tiefgarage im Haus vorhanden, hohe Gebühren",
-  "accessibility": "Barrierefreier Zugang zur Plaza über den großen Aufzug möglich",
-  "photoRules": "Innenräume nur ohne Blitz, Außenbereich Plaza uneingeschränkt erlaubt",
-  "bestTimeToVisit": "Abends, wenn die Stadtlichter und der Hafen beleuchtet sind",
-  "audioGuide": "ja, über die offizielle Elbphilharmonie App"
+  "publicTransport": {
+    "de": "U-Bahn U3 bis Baumwall (Elbphilharmonie)",
+    "hu": "U3 metró a Baumwall (Elbphilharmonie) megállóig",
+    "ro": "Metrou U3 până la Baumwall (Elbphilharmonie)",
+    "en": "U-Bahn U3 to Baumwall (Elbphilharmonie)"
+  },
+  "parking": {
+    "de": "Tiefgarage im Haus vorhanden, hohe Gebühren",
+    "hu": "Mélygarázs az épületben, magas díjakkal",
+    "ro": "Parcare subterană în clădire, tarife ridicate",
+    "en": "Underground parking available in the building, high fees"
+  },
+  "accessibility": {
+    "de": "Barrierefreier Zugang zur Plaza über den großen Aufzug möglich",
+    "hu": "Akadálymentes bejutás a Plazára a nagy lifttel",
+    "ro": "Acces fără bariere la Plaza prin liftul mare",
+    "en": "Barrier-free access to the Plaza via the large elevator"
+  },
+  "photoRules": {
+    "de": "Innenräume nur ohne Blitz, Außenbereich Plaza uneingeschränkt erlaubt",
+    "hu": "Belső terekben csak vaku nélkül, a Plaza kültéri részén korlátozás nélkül",
+    "ro": "Spațiile interioare doar fără bliț, zona exterioară Plaza permisă nelimitat",
+    "en": "Interiors only without flash, outdoor Plaza area permitted without restriction"
+  },
+  "bestTimeToVisit": {
+    "de": "Abends, wenn die Stadtlichter und der Hafen beleuchtet sind",
+    "hu": "Este, amikor a városi fények és a kikötő kivilágítva látszanak",
+    "ro": "Seara, când luminile orașului și portul sunt iluminate",
+    "en": "Evening, when the city lights and the harbor are illuminated"
+  },
+  "audioGuide": {
+    "de": "ja, über die offizielle Elbphilharmonie App",
+    "hu": "igen, a hivatalos Elbphilharmonie alkalmazáson keresztül",
+    "ro": "da, prin aplicația oficială Elbphilharmonie",
+    "en": "yes, via the official Elbphilharmonie app"
+  }
 }

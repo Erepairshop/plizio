@@ -1,12 +1,57 @@
 {
-  "address": "Château, 41250 Chambord",
-  "openingHours": "Mo-So 09:00-18:00",
-  "entranceFee": "€14.50 Erwachsene, unter 26 (EU) frei",
+  "address": {
+    "de": "Château, 41250 Chambord",
+    "hu": "Château, 41250 Chambord",
+    "ro": "Château, 41250 Chambord",
+    "en": "Château, 41250 Chambord"
+  },
+  "openingHours": {
+    "de": "Mo-So 09:00-18:00",
+    "hu": "H-V 09:00-18:00",
+    "ro": "Lu-Du 09:00-18:00",
+    "en": "Mon-Sun 09:00-18:00"
+  },
+  "entranceFee": {
+    "de": "€14.50 Erwachsene, unter 26 (EU) frei",
+    "hu": "14,50 € felnőtt, 26 év alatti EU-állampolgároknak ingyenes",
+    "ro": "14,50 € adulți, sub 26 de ani (UE) gratuit",
+    "en": "€14.50 adults, free for under 26s (EU residents)"
+  },
   "website": "https://www.chambord.org",
-  "publicTransport": "Navette ab Bahnhof Blois-Chambord",
-  "parking": "Parkplätze P0 und P1 in Schlossnähe, ca. €6.00/Tag.",
-  "accessibility": "Erdgeschoss barrierefrei, Obergeschosse über Aufzug möglich.",
-  "photoRules": "Privat erlaubt, Stative im Außenbereich okay.",
-  "bestTimeToVisit": "Herbstmorgen für Nebel im Wald um das Schloss.",
-  "audioGuide": "HistoPad (Tablet) in vielen Sprachen verfügbar."
+  "publicTransport": {
+    "de": "Navette ab Bahnhof Blois-Chambord",
+    "hu": "Transzferbusz Blois-Chambord vasútállomástól",
+    "ro": "Navetă de la gara Blois-Chambord",
+    "en": "Shuttle from Blois-Chambord station"
+  },
+  "parking": {
+    "de": "Parkplätze P0 und P1 in Schlossnähe, ca. €6.00/Tag.",
+    "hu": "P0 és P1 parkoló a kastély közelében, kb. 6 €/nap.",
+    "ro": "Parcările P0 și P1 lângă castel, aprox. 6 €/zi.",
+    "en": "P0 and P1 parking lots near the castle, approx. €6.00/day."
+  },
+  "accessibility": {
+    "de": "Erdgeschoss barrierefrei, Obergeschosse über Aufzug möglich.",
+    "hu": "A földszint akadálymentesített, az emeletek lifttel érhetők el.",
+    "ro": "Parterul este accesibil, etajele superioare pot fi accesate cu liftul.",
+    "en": "Ground floor is accessible, upper floors reachable via elevator."
+  },
+  "photoRules": {
+    "de": "Privat erlaubt, Stative im Außenbereich okay.",
+    "hu": "Magáncélra engedélyezett, állvány használata kültéren rendben van.",
+    "ro": "Permis în scop privat, trepiedele sunt permise la exterior.",
+    "en": "Private photos allowed, tripods okay in outdoor areas."
+  },
+  "bestTimeToVisit": {
+    "de": "Herbstmorgen für Nebel im Wald um das Schloss.",
+    "hu": "Őszi reggelek, a kastély körüli erdő ködös hangulata miatt.",
+    "ro": "Diminețile de toamnă pentru ceața din pădurea din jurul castelului.",
+    "en": "Autumn mornings for the mist in the forest surrounding the castle."
+  },
+  "audioGuide": {
+    "de": "HistoPad (Tablet) in vielen Sprachen verfügbar.",
+    "hu": "HistoPad (tablet) számos nyelven elérhető.",
+    "ro": "HistoPad (tabletă) disponibil în mai multe limbi.",
+    "en": "HistoPad (tablet) available in many languages."
+  }
 }

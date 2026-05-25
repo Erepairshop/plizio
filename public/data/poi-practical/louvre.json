@@ -1,12 +1,57 @@
 {
-  "address": "Rue de Rivoli, 75001 Paris",
-  "openingHours": "Mo, Mi, Do, Sa, So 09:00-18:00, Fr 09:00-21:45, Dienstag geschlossen",
-  "entranceFee": "€22 (Online-Buchung dringend empfohlen)",
+  "address": {
+    "de": "Rue de Rivoli, 75001 Paris",
+    "hu": "Rue de Rivoli, 75001 Párizs",
+    "ro": "Rue de Rivoli, 75001 Paris",
+    "en": "Rue de Rivoli, 75001 Paris"
+  },
+  "openingHours": {
+    "de": "Mo, Mi, Do, Sa, So 09:00-18:00, Fr 09:00-21:45, Dienstag geschlossen",
+    "hu": "H, Sze, Cs, Szo, V 09:00-18:00, P 09:00-21:45, kedden zárva",
+    "ro": "Lu, Mi, Jo, Sâm, Dum 09:00-18:00, Vi 09:00-21:45, marți închis",
+    "en": "Mon, Wed, Thu, Sat, Sun 09:00-18:00, Fri 09:00-21:45, closed Tuesday"
+  },
+  "entranceFee": {
+    "de": "€22 (Online-Buchung dringend empfohlen)",
+    "hu": "22 € (online foglalás erősen ajánlott)",
+    "ro": "22 € (rezervarea online este strict recomandată)",
+    "en": "€22 (online booking highly recommended)"
+  },
   "website": "https://www.louvre.fr",
-  "publicTransport": "Metro Linien 1 & 7, Station 'Palais-Royal / Musée du Louvre'",
-  "parking": "Parkhaus 'Q-Park Louvre' unter dem Museum (sehr teuer, ca. €5/Std.)",
-  "accessibility": "Vollständig barrierefrei durch zahlreiche Aufzüge und Rampen",
-  "photoRules": "Ohne Blitz in den permanenten Sammlungen erlaubt",
-  "bestTimeToVisit": "Freitagabend während der Spätöffnung für entspannte Atmosphäre",
-  "audioGuide": "Nintendo 3DS Audio-Guide in DE verfügbar"
+  "publicTransport": {
+    "de": "Metro Linien 1 & 7, Station 'Palais-Royal / Musée du Louvre'",
+    "hu": "1-es és 7-es metró, 'Palais-Royal / Musée du Louvre' megálló",
+    "ro": "Metrou liniile 1 & 7, stația 'Palais-Royal / Musée du Louvre'",
+    "en": "Metro lines 1 & 7, station 'Palais-Royal / Musée du Louvre'"
+  },
+  "parking": {
+    "de": "Parkhaus 'Q-Park Louvre' unter dem Museum (sehr teuer, ca. €5/Std.)",
+    "hu": "Q-Park Louvre parkoló a múzeum alatt (nagyon drága, kb. 5 €/óra)",
+    "ro": "Parcare 'Q-Park Louvre' sub muzeu (foarte scumpă, aprox. 5 €/oră)",
+    "en": "'Q-Park Louvre' parking garage under the museum (very expensive, approx. €5/hr)"
+  },
+  "accessibility": {
+    "de": "Vollständig barrierefrei durch zahlreiche Aufzüge und Rampen",
+    "hu": "Teljesen akadálymentesített, számos lifttel és rámpával",
+    "ro": "Complet accesibil prin numeroase lifturi și rampe",
+    "en": "Fully accessible via numerous elevators and ramps"
+  },
+  "photoRules": {
+    "de": "Ohne Blitz in den permanenten Sammlungen erlaubt",
+    "hu": "Vaku nélkül engedélyezett az állandó kiállításokon",
+    "ro": "Permis fără bliț în colecțiile permanente",
+    "en": "Allowed without flash in the permanent collections"
+  },
+  "bestTimeToVisit": {
+    "de": "Freitagabend während der Spätöffnung für entspannte Atmosphäre",
+    "hu": "Péntek este, a hosszabbított nyitva tartás alatt, a nyugodtabb légkörért",
+    "ro": "Vineri seara în timpul programului prelungit, pentru o atmosferă relaxată",
+    "en": "Friday evening during late opening for a relaxed atmosphere"
+  },
+  "audioGuide": {
+    "de": "Nintendo 3DS Audio-Guide in DE verfügbar",
+    "hu": "Nintendo 3DS audio-guide német nyelven elérhető",
+    "ro": "Nintendo 3DS audio-guide disponibil în DE",
+    "en": "Nintendo 3DS audio-guide available in DE"
+  }
 }

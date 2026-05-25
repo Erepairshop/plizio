@@ -1,12 +1,57 @@
 {
-  "address": "Strada Gării, 525100 Covasna",
-  "openingHours": "24/7",
-  "entranceFee": "free",
+  "address": {
+    "de": "Strada Gării, 525100 Covasna",
+    "hu": "Strada Gării, 525100 Kovászna",
+    "ro": "Strada Gării, 525100 Covasna",
+    "en": "Strada Gării, 525100 Covasna"
+  },
+  "openingHours": {
+    "de": "24/7",
+    "hu": "24/7",
+    "ro": "24/7",
+    "en": "24/7"
+  },
+  "entranceFee": {
+    "de": "free",
+    "hu": "ingyenes",
+    "ro": "gratuit",
+    "en": "free"
+  },
   "website": "",
-  "publicTransport": "Bus oder Zug bis Covasna Zentrum",
-  "parking": "Kostenlose Parkplätze in den umliegenden Straßen",
-  "accessibility": "Ebenerdig zugänglich im Stadtpark",
-  "photoRules": "Erlaubt",
-  "bestTimeToVisit": "Tagsüber bei klarem Wetter",
-  "audioGuide": "no"
+  "publicTransport": {
+    "de": "Bus oder Zug bis Covasna Zentrum",
+    "hu": "Busz vagy vonat Kovászna központjáig",
+    "ro": "Autobuz sau tren până în centrul orașului Covasna",
+    "en": "Bus or train to Covasna center"
+  },
+  "parking": {
+    "de": "Kostenlose Parkplätze in den umliegenden Straßen",
+    "hu": "Ingyenes parkolóhelyek a környező utcákban",
+    "ro": "Parcări gratuite pe străzile din jur",
+    "en": "Free parking in surrounding streets"
+  },
+  "accessibility": {
+    "de": "Ebenerdig zugänglich im Stadtpark",
+    "hu": "Szintben megközelíthető a városi parkban",
+    "ro": "Accesibil la nivel în parcul orașului",
+    "en": "Level access in the city park"
+  },
+  "photoRules": {
+    "de": "Erlaubt",
+    "hu": "Engedélyezett",
+    "ro": "Permis",
+    "en": "Allowed"
+  },
+  "bestTimeToVisit": {
+    "de": "Tagsüber bei klarem Wetter",
+    "hu": "Napközben, tiszta időben",
+    "ro": "În timpul zilei, pe timp frumos",
+    "en": "During the day in clear weather"
+  },
+  "audioGuide": {
+    "de": "no",
+    "hu": "nem",
+    "ro": "nu",
+    "en": "no"
+  }
 }

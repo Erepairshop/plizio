@@ -1,12 +1,57 @@
 {
-  "address": "Piața Ștefan cel Mare și Sfânt 1, 700028 Iași",
-  "openingHours": "Di-So 10:00-17:00, Mo geschlossen",
-  "entranceFee": "16 RON pro Museum, 40 RON Kombiticket (4 Museen)",
+  "address": {
+    "de": "Piața Ștefan cel Mare și Sfânt 1, 700028 Iași",
+    "hu": "Piața Ștefan cel Mare și Sfânt 1, 700028 Jászvásár",
+    "ro": "Piața Ștefan cel Mare și Sfânt 1, 700028 Iași",
+    "en": "1 Piața Ștefan cel Mare și Sfânt, 700028 Iași"
+  },
+  "openingHours": {
+    "de": "Di-So 10:00-17:00, Mo geschlossen",
+    "hu": "K-V 10:00-17:00, hétfőn zárva",
+    "ro": "Ma-Du 10:00-17:00, Luni închis",
+    "en": "Tue-Sun 10:00-17:00, closed Mondays"
+  },
+  "entranceFee": {
+    "de": "16 RON pro Museum, 40 RON Kombiticket (4 Museen)",
+    "hu": "16 RON múzeumonként, 40 RON kombinált jegy (4 múzeum)",
+    "ro": "16 RON per muzeu, 40 RON bilet combinat (4 muzee)",
+    "en": "16 RON per museum, 40 RON combined ticket (4 museums)"
+  },
   "website": "https://palatulculturii.ro/",
-  "publicTransport": "Straßenbahn 1, 9, 13 (Haltestelle Palatul Culturii)",
-  "parking": "Großes Parkhaus im angrenzenden Palas-Komplex (ca. 3 RON/Std.).",
-  "accessibility": "Vollständig barrierefrei durch moderne Aufzüge und Rampen.",
-  "photoRules": "Fotografieren ohne Blitz in den Fluren frei, in Museen gegen Gebühr.",
-  "bestTimeToVisit": "Nachmittags, kombiniert mit einem Spaziergang im Palas-Garten.",
-  "audioGuide": "ro, en"
+  "publicTransport": {
+    "de": "Straßenbahn 1, 9, 13 (Haltestelle Palatul Culturii)",
+    "hu": "1, 9, 13-as villamos (Palatul Culturii megálló)",
+    "ro": "Tramvaiele 1, 9, 13 (stația Palatul Culturii)",
+    "en": "Tram 1, 9, 13 (Palatul Culturii station)"
+  },
+  "parking": {
+    "de": "Großes Parkhaus im angrenzenden Palas-Komplex (ca. 3 RON/Std.).",
+    "hu": "Nagy parkolóház a szomszédos Palas komplexumban (kb. 3 RON/óra).",
+    "ro": "Parcare etajată mare în complexul Palas adiacent (aprox. 3 RON/oră).",
+    "en": "Large parking garage in the adjacent Palas complex (approx. 3 RON/hr)."
+  },
+  "accessibility": {
+    "de": "Vollständig barrierefrei durch moderne Aufzüge und Rampen.",
+    "hu": "Teljesen akadálymentesített a modern lifteknek és rámpáknak köszönhetően.",
+    "ro": "Complet accesibil prin lifturi moderne și rampe.",
+    "en": "Fully accessible thanks to modern elevators and ramps."
+  },
+  "photoRules": {
+    "de": "Fotografieren ohne Blitz in den Fluren frei, in Museen gegen Gebühr.",
+    "hu": "A folyosókon vaku nélkül ingyenes, a múzeumi terekben díj ellenében szabad fotózni.",
+    "ro": "Fotografiatul fără bliț în holuri este liber, în muzee contra cost.",
+    "en": "Photography without flash is free in the corridors, for a fee in the museums."
+  },
+  "bestTimeToVisit": {
+    "de": "Nachmittags, kombiniert mit einem Spaziergang im Palas-Garten.",
+    "hu": "Délután, egy sétával összekötve a Palas-kertben.",
+    "ro": "După-amiaza, în combinație cu o plimbare în grădina Palas.",
+    "en": "Afternoons, combined with a stroll in the Palas Garden."
+  },
+  "audioGuide": {
+    "de": "ro, en",
+    "hu": "román, angol",
+    "ro": "ro, en",
+    "en": "ro, en"
+  }
 }

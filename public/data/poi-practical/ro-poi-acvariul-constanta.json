@@ -1,12 +1,57 @@
 {
-  "address": "Bulevardul Elisabeta 1, 900178 Constanța",
-  "openingHours": "Mo-Su 09:30-16:30",
-  "entranceFee": "20 RON Erwachsene, 5 RON Kinder",
+  "address": {
+    "de": "Bulevardul Elisabeta 1, 900178 Constanța",
+    "hu": "Bulevardul Elisabeta 1, 900178 Konstanca",
+    "ro": "Bulevardul Elisabeta 1, 900178 Constanța",
+    "en": "Bulevardul Elisabeta 1, 900178 Constanța"
+  },
+  "openingHours": {
+    "de": "Mo-Su 09:30-16:30",
+    "hu": "H-V 09:30-16:30",
+    "ro": "Lu-Du 09:30-16:30",
+    "en": "Mon-Sun 09:30-16:30"
+  },
+  "entranceFee": {
+    "de": "20 RON Erwachsene, 5 RON Kinder",
+    "hu": "20 RON felnőttek, 5 RON gyerekek",
+    "ro": "20 RON adulți, 5 RON copii",
+    "en": "20 RON adults, 5 RON children"
+  },
   "website": "https://delfinariu.ro/acvariu/",
-  "publicTransport": "Buslinien 44, 48, 51, 101 bis Poarta 1",
-  "parking": "Parkplätze entlang der Promenade, oft kostenpflichtig",
-  "accessibility": "Rollstuhlgerecht im Erdgeschoss",
-  "photoRules": "Erlaubt ohne Blitz (Schutz der Fische)",
-  "bestTimeToVisit": "Vormittags an Wochentagen außerhalb der Ferienzeit",
-  "audioGuide": "no"
+  "publicTransport": {
+    "de": "Buslinien 44, 48, 51, 101 bis Poarta 1",
+    "hu": "44, 48, 51, 101-es buszok a Poarta 1 megállóig",
+    "ro": "Liniile de autobuz 44, 48, 51, 101 până la Poarta 1",
+    "en": "Bus lines 44, 48, 51, 101 to Poarta 1"
+  },
+  "parking": {
+    "de": "Parkplätze entlang der Promenade, oft kostenpflichtig",
+    "hu": "Parkolóhelyek a sétány mentén, gyakran díjkötelesek",
+    "ro": "Parcări de-a lungul promenadei, adesea cu plată",
+    "en": "Parking spaces along the promenade, often paid"
+  },
+  "accessibility": {
+    "de": "Rollstuhlgerecht im Erdgeschoss",
+    "hu": "Kerekesszékkel megközelíthető a földszinten",
+    "ro": "Accesibil pentru scaune cu rotile la parter",
+    "en": "Wheelchair-accessible on the ground floor"
+  },
+  "photoRules": {
+    "de": "Erlaubt ohne Blitz (Schutz der Fische)",
+    "hu": "Engedélyezett vaku nélkül (a halak védelme érdekében)",
+    "ro": "Permis fără bliț (protejarea peștilor)",
+    "en": "Allowed without flash (fish protection)"
+  },
+  "bestTimeToVisit": {
+    "de": "Vormittags an Wochentagen außerhalb der Ferienzeit",
+    "hu": "Hétköznap délelőtt, a szünidőn kívül",
+    "ro": "Dimineața în timpul săptămânii, în afara perioadelor de vacanță",
+    "en": "Weekday mornings outside of holiday seasons"
+  },
+  "audioGuide": {
+    "de": "no",
+    "hu": "nem",
+    "ro": "nu",
+    "en": "no"
+  }
 }

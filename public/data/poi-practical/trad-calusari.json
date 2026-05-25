@@ -1,12 +1,57 @@
 {
-  "address": "Vorwiegend Region Olt und Teleorman, Südrumänien",
-  "openingHours": "Pfingstzeit (Rusalii), Termine variieren",
-  "entranceFee": "kostenlos (Aufführungen auf öffentlichen Plätzen)",
+  "address": {
+    "de": "Vorwiegend Region Olt und Teleorman, Südrumänien",
+    "hu": "Főleg Olt és Teleorman régió, Dél-Románia",
+    "ro": "Preponderent în regiunile Olt și Teleorman, sudul României",
+    "en": "Mainly Olt and Teleorman regions, Southern Romania"
+  },
+  "openingHours": {
+    "de": "Pfingstzeit (Rusalii), Termine variieren",
+    "hu": "Pünkösd (Rusalii) ideje, az időpontok változóak",
+    "ro": "Perioada Rusaliilor, datele variază",
+    "en": "Whitsun (Rusalii) period, dates vary"
+  },
+  "entranceFee": {
+    "de": "kostenlos (Aufführungen auf öffentlichen Plätzen)",
+    "hu": "ingyenes (előadások köztereken)",
+    "ro": "gratuit (spectacole în spații publice)",
+    "en": "free (performances in public spaces)"
+  },
   "website": "",
-  "publicTransport": "Regionale Busse in die Dörfer der Region Olt.",
-  "parking": "In den Dörfern meist unproblematisch.",
-  "accessibility": "Im Freien auf Dorfplätzen meist barrierefrei.",
-  "photoRules": "Fotografieren und Filmen ausdrücklich erwünscht.",
-  "bestTimeToVisit": "Am Pfingstsonntag oder -montag in den ländlichen Gebieten.",
-  "audioGuide": "nein"
+  "publicTransport": {
+    "de": "Regionale Busse in die Dörfer der Region Olt.",
+    "hu": "Regionális buszok az Olt régió falvaiba.",
+    "ro": "Autobuze regionale către satele din regiunea Olt.",
+    "en": "Regional buses to villages in the Olt region."
+  },
+  "parking": {
+    "de": "In den Dörfern meist unproblematisch.",
+    "hu": "A falvakban többnyire nem okoz gondot.",
+    "ro": "În sate, de obicei, fără probleme.",
+    "en": "Usually hassle-free in the villages."
+  },
+  "accessibility": {
+    "de": "Im Freien auf Dorfplätzen meist barrierefrei.",
+    "hu": "Szabadban, a falusi tereken többnyire akadálymentes.",
+    "ro": "În aer liber, în piețele satelor, de obicei accesibil.",
+    "en": "Usually accessible outdoors in village squares."
+  },
+  "photoRules": {
+    "de": "Fotografieren und Filmen ausdrücklich erwünscht.",
+    "hu": "A fényképezés és filmezés kifejezetten ajánlott.",
+    "ro": "Fotografierea și filmarea sunt expres încurajate.",
+    "en": "Photography and filming explicitly encouraged."
+  },
+  "bestTimeToVisit": {
+    "de": "Am Pfingstsonntag oder -montag in den ländlichen Gebieten.",
+    "hu": "Pünkösd vasárnapján vagy hétfőjén a vidéki területeken.",
+    "ro": "În duminica sau lunea Rusaliilor în zonele rurale.",
+    "en": "On Whit Sunday or Monday in rural areas."
+  },
+  "audioGuide": {
+    "de": "nein",
+    "hu": "nem",
+    "ro": "nu",
+    "en": "no"
+  }
 }

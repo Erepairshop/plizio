@@ -1,12 +1,57 @@
 {
-  "address": "8333 Riegersburg, Österreich",
-  "openingHours": "April bis Oktober: Täglich 10:00-18:00 (letzter Einlass 17:00)",
-  "entranceFee": "Burgbegehung €6, Schräglift €6, Museen zusätzlich",
+  "address": {
+    "de": "8333 Riegersburg, Österreich",
+    "hu": "8333 Riegersburg, Ausztria",
+    "ro": "8333 Riegersburg, Austria",
+    "en": "8333 Riegersburg, Austria"
+  },
+  "openingHours": {
+    "de": "April bis Oktober: Täglich 10:00-18:00 (letzter Einlass 17:00)",
+    "hu": "Áprilistól októberig: naponta 10:00-18:00 (utolsó belépés 17:00)",
+    "ro": "Aprilie - Octombrie: zilnic 10:00-18:00 (ultima intrare la 17:00)",
+    "en": "April to October: Daily 10:00-18:00 (last entry 17:00)"
+  },
+  "entranceFee": {
+    "de": "Burgbegehung €6, Schräglift €6, Museen zusätzlich",
+    "hu": "Várbelépő 6€, sikló 6€, a múzeumok ezen felül fizetendők",
+    "ro": "Acces castel 6€, lift înclinat 6€, muzeele suplimentar",
+    "en": "Castle entry €6, inclined lift €6, museums extra"
+  },
   "website": "https://www.veste-riegersburg.at/",
-  "publicTransport": "Regionalbus bis Haltestelle Riegersburg Ort",
-  "parking": "Mehrere Parkplätze am Fuße des Burgfelsens, meist kostenlos",
-  "accessibility": "Durch den Schräglift barrierefrei erreichbar, in der Burg teilweise Stufen",
-  "photoRules": "Allgemein erlaubt",
-  "bestTimeToVisit": "Nachmittags, passend zur Greifvogel-Flugschau um 15:30 Uhr",
-  "audioGuide": "ja (Deutsch, Englisch)"
+  "publicTransport": {
+    "de": "Regionalbus bis Haltestelle Riegersburg Ort",
+    "hu": "Regionális buszjárat Riegersburg Ort megállóig",
+    "ro": "Autobuz regional până la stația Riegersburg Ort",
+    "en": "Regional bus to Riegersburg Ort stop"
+  },
+  "parking": {
+    "de": "Mehrere Parkplätze am Fuße des Burgfelsens, meist kostenlos",
+    "hu": "Több parkoló a várhegy lábánál, többnyire ingyenesek",
+    "ro": "Mai multe parcări la poalele stâncii castelului, majoritatea gratuite",
+    "en": "Several parking lots at the foot of the castle rock, mostly free"
+  },
+  "accessibility": {
+    "de": "Durch den Schräglift barrierefrei erreichbar, in der Burg teilweise Stufen",
+    "hu": "A siklónak köszönhetően akadálymentesen elérhető, a várban helyenként lépcsők",
+    "ro": "Accesibil prin liftul înclinat, în castel există parțial trepte",
+    "en": "Accessible via the inclined lift, some steps within the castle"
+  },
+  "photoRules": {
+    "de": "Allgemein erlaubt",
+    "hu": "Általánosan megengedett",
+    "ro": "Permis în general",
+    "en": "Generally permitted"
+  },
+  "bestTimeToVisit": {
+    "de": "Nachmittags, passend zur Greifvogel-Flugschau um 15:30 Uhr",
+    "hu": "Délután, a 15:30-as ragadozómadár-bemutatóhoz igazítva",
+    "ro": "După-amiaza, pentru spectacolul cu păsări de pradă de la ora 15:30",
+    "en": "In the afternoon, coinciding with the bird of prey show at 3:30 PM"
+  },
+  "audioGuide": {
+    "de": "ja (Deutsch, Englisch)",
+    "hu": "igen (német, angol)",
+    "ro": "da (germană, engleză)",
+    "en": "yes (German, English)"
+  }
 }

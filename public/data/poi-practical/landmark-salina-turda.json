@@ -1,12 +1,57 @@
 {
-  "address": "Aleea Durgăului 7, 401106 Turda, Cluj",
-  "openingHours": "Mo-Su 09:00-17:00 (letzter Einlass 16:00)",
-  "entranceFee": "60 RON Erwachsene, 30 RON Kinder/Rentner",
+  "address": {
+    "de": "Aleea Durgăului 7, 401106 Turda, Cluj",
+    "hu": "Aleea Durgăului 7, 401106 Torda, Kolozs megye",
+    "ro": "Aleea Durgăului 7, 401106 Turda, Cluj",
+    "en": "Aleea Durgăului 7, 401106 Turda, Cluj"
+  },
+  "openingHours": {
+    "de": "Mo-Su 09:00-17:00 (letzter Einlass 16:00)",
+    "hu": "H-V 09:00-17:00 (utolsó belépés 16:00)",
+    "ro": "L-D 09:00-17:00 (ultima intrare 16:00)",
+    "en": "Mon-Sun 09:00-17:00 (last entry 16:00)"
+  },
+  "entranceFee": {
+    "de": "60 RON Erwachsene, 30 RON Kinder/Rentner",
+    "hu": "60 RON felnőtt, 30 RON gyermek/nyugdíjas",
+    "ro": "60 RON adulți, 30 RON copii/pensionari",
+    "en": "60 RON adults, 30 RON children/seniors"
+  },
   "website": "https://salinaturda.eu",
-  "publicTransport": "Buslinie 17 von Turda Zentrum bis Haltestelle Salina Turda",
-  "parking": "Zwei große Parkplätze (Durgău und Salina), ca. 5 RON pro Stunde",
-  "accessibility": "Teilweise barrierefrei mit modernem Panorama-Aufzug in die Rudolf-Mine",
-  "photoRules": "Erlaubt; keine zusätzliche Gebühr für private Kameras",
-  "bestTimeToVisit": "Direkt bei Öffnung um 09:00, um Wartezeiten am Aufzug zu vermeiden",
-  "audioGuide": "no"
+  "publicTransport": {
+    "de": "Buslinie 17 von Turda Zentrum bis Haltestelle Salina Turda",
+    "hu": "17-es busz Torda központjától a Salina Turda megállóig",
+    "ro": "Linia 17 din centrul orașului Turda până la stația Salina Turda",
+    "en": "Bus line 17 from Turda center to Salina Turda stop"
+  },
+  "parking": {
+    "de": "Zwei große Parkplätze (Durgău und Salina), ca. 5 RON pro Stunde",
+    "hu": "Két nagy parkoló (Durgău és Salina), kb. 5 RON/óra",
+    "ro": "Două parcări mari (Durgău și Salina), aprox. 5 RON pe oră",
+    "en": "Two large parking lots (Durgău and Salina), approx. 5 RON per hour"
+  },
+  "accessibility": {
+    "de": "Teilweise barrierefrei mit modernem Panorama-Aufzug in die Rudolf-Mine",
+    "hu": "Részben akadálymentesített, modern panorámafelvonóval a Rudolf-bányába",
+    "ro": "Parțial accesibilă, cu lift panoramic modern până în Mina Rudolf",
+    "en": "Partially accessible with a modern panoramic elevator into the Rudolf Mine"
+  },
+  "photoRules": {
+    "de": "Erlaubt; keine zusätzliche Gebühr für private Kameras",
+    "hu": "Megengedett; nincs külön díj privát fényképezőgépeknek",
+    "ro": "Permis; fără taxă suplimentară pentru aparate foto private",
+    "en": "Allowed; no extra fee for personal cameras"
+  },
+  "bestTimeToVisit": {
+    "de": "Direkt bei Öffnung um 09:00, um Wartezeiten am Aufzug zu vermeiden",
+    "hu": "Közvetlenül nyitáskor, 09:00-kor, a felvonó előtti sorban állás elkerülése érdekében",
+    "ro": "Direct la deschidere, la ora 09:00, pentru a evita cozile la lift",
+    "en": "Right at opening at 09:00 to avoid elevator wait times"
+  },
+  "audioGuide": {
+    "de": "no",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

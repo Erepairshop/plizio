@@ -1,12 +1,57 @@
 {
-  "address": "Auf der Wartburg 1, 99817 Eisenach",
-  "openingHours": "Mo-So 09:00-17:00 (Schloss), 08:30-20:00 (Gelände)",
-  "entranceFee": "12 € Erwachsene (inkl. Führung & Museum)",
+  "address": {
+    "de": "Auf der Wartburg 1, 99817 Eisenach",
+    "hu": "Auf der Wartburg 1, 99817 Eisenach, Németország",
+    "ro": "Auf der Wartburg 1, 99817 Eisenach, Germania",
+    "en": "Auf der Wartburg 1, 99817 Eisenach, Germany"
+  },
+  "openingHours": {
+    "de": "Mo-So 09:00-17:00 (Schloss), 08:30-20:00 (Gelände)",
+    "hu": "H-V 09:00-17:00 (palota), 08:30-20:00 (várudvar)",
+    "ro": "L-D 09:00-17:00 (castel), 08:30-20:00 (incintă)",
+    "en": "Mon-Sun 09:00-17:00 (castle), 08:30-20:00 (grounds)"
+  },
+  "entranceFee": {
+    "de": "12 € Erwachsene (inkl. Führung & Museum)",
+    "hu": "12 € felnőtt (vezetéssel és múzeumbelépővel)",
+    "ro": "12 € adulți (inclusiv tur ghidat și muzeu)",
+    "en": "12 € adults (incl. guided tour & museum)"
+  },
   "website": "https://www.wartburg.de",
-  "publicTransport": "Bus 10 (Wartburg-Linie) ab Eisenach Hbf",
-  "parking": "Parkplatz unterhalb der Burg, ca. 5 €/PKW + kurzer Fußweg.",
-  "accessibility": "Eingeschränkt barrierefrei (steile Wege, Shuttlebus vorhanden).",
-  "photoRules": "In den Museumsräumen nur ohne Blitz gestattet.",
-  "bestTimeToVisit": "Früh morgens, bevor die Busreise-Gruppen eintreffen.",
-  "audioGuide": "ja"
+  "publicTransport": {
+    "de": "Bus 10 (Wartburg-Linie) ab Eisenach Hbf",
+    "hu": "10-es busz (Wartburg-vonal) az eisenachi főpályaudvartól",
+    "ro": "Autobuzul 10 (linia Wartburg) de la gara Eisenach",
+    "en": "Bus 10 (Wartburg line) from Eisenach central station"
+  },
+  "parking": {
+    "de": "Parkplatz unterhalb der Burg, ca. 5 €/PKW + kurzer Fußweg.",
+    "hu": "Parkoló a vár alatt, kb. 5 €/autó + rövid séta felfelé.",
+    "ro": "Parcare sub cetate, aprox. 5 €/mașină + scurt drum pe jos.",
+    "en": "Parking below the castle, approx. 5 €/car + short walk."
+  },
+  "accessibility": {
+    "de": "Eingeschränkt barrierefrei (steile Wege, Shuttlebus vorhanden).",
+    "hu": "Korlátozottan akadálymentes (meredek utak, transzferbusz elérhető).",
+    "ro": "Accesibilitate limitată (drumuri abrupte, disponibil microbuz de transfer).",
+    "en": "Limited accessibility (steep paths, shuttle bus available)."
+  },
+  "photoRules": {
+    "de": "In den Museumsräumen nur ohne Blitz gestattet.",
+    "hu": "A múzeumi termekben csak vaku nélkül engedélyezett.",
+    "ro": "În sălile muzeului este permis doar fără bliț.",
+    "en": "Allowed in museum rooms only without flash."
+  },
+  "bestTimeToVisit": {
+    "de": "Früh morgens, bevor die Busreise-Gruppen eintreffen.",
+    "hu": "Kora reggel, még a turistabuszok érkezése előtt.",
+    "ro": "Dimineața devreme, înainte de sosirea grupurilor mari de turiști.",
+    "en": "Early morning, before tour buses arrive."
+  },
+  "audioGuide": {
+    "de": "ja",
+    "hu": "igen",
+    "ro": "da",
+    "en": "yes"
+  }
 }

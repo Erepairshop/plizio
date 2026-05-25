@@ -1,12 +1,57 @@
 {
-  "address": "Großbeerenstraße 200, 14482 Potsdam",
-  "openingHours": "Täglich 10:00-18:00 (Saisonbetrieb von April bis November)",
-  "entranceFee": "€23 Erwachsene, €16 Kinder",
+  "address": {
+    "de": "Großbeerenstraße 200, 14482 Potsdam",
+    "hu": "Großbeerenstraße 200, 14482 Potsdam",
+    "ro": "Großbeerenstraße 200, 14482 Potsdam",
+    "en": "Großbeerenstraße 200, 14482 Potsdam"
+  },
+  "openingHours": {
+    "de": "Täglich 10:00-18:00 (Saisonbetrieb von April bis November)",
+    "hu": "Naponta 10:00-18:00 (szezonális működés áprilistól novemberig)",
+    "ro": "Zilnic 10:00-18:00 (sezonier, aprilie-noiembrie)",
+    "en": "Daily 10:00-18:00 (seasonal, April-November)"
+  },
+  "entranceFee": {
+    "de": "€23 Erwachsene, €16 Kinder",
+    "hu": "23 € felnőtteknek, 16 € gyerekeknek",
+    "ro": "23 € adulți, 16 € copii",
+    "en": "€23 adults, €16 children"
+  },
   "website": "https://www.filmpark-babelsberg.de",
-  "publicTransport": "S-Bahn S7 bis Griebnitzsee, weiter mit Bus 696",
-  "parking": "Besucherparkplatz direkt am Haupteingang (€5 pro Tag).",
-  "accessibility": "Vollständig barrierefrei, alle Shows verfügen über Rollstuhlplätze.",
-  "photoRules": "Fotografieren auf dem gesamten Gelände für private Zwecke erlaubt.",
-  "bestTimeToVisit": "Direkt bei Parköffnung, um Plätze in der ersten Stunt-Show zu sichern.",
-  "audioGuide": "nein"
+  "publicTransport": {
+    "de": "S-Bahn S7 bis Griebnitzsee, weiter mit Bus 696",
+    "hu": "S7-es S-Bahn Griebnitzsee-ig, tovább a 696-os busszal",
+    "ro": "S-Bahn S7 până la Griebnitzsee, apoi autobuzul 696",
+    "en": "S-Bahn S7 to Griebnitzsee, then bus 696"
+  },
+  "parking": {
+    "de": "Besucherparkplatz direkt am Haupteingang (€5 pro Tag).",
+    "hu": "Látogatói parkoló közvetlenül a főbejáratnál (5 €/nap).",
+    "ro": "Parcare pentru vizitatori la intrarea principală (5 €/zi).",
+    "en": "Visitor parking right at the main entrance (€5 per day)."
+  },
+  "accessibility": {
+    "de": "Vollständig barrierefrei, alle Shows verfügen über Rollstuhlplätze.",
+    "hu": "Teljesen akadálymentes, minden show-műsor rendelkezik kerekesszékes hellyel.",
+    "ro": "Complet accesibil, toate spectacolele au locuri pentru scaune cu rotile.",
+    "en": "Fully barrier-free, all shows have wheelchair spots."
+  },
+  "photoRules": {
+    "de": "Fotografieren auf dem gesamten Gelände für private Zwecke erlaubt.",
+    "hu": "A fotózás az egész területen megengedett magáncélra.",
+    "ro": "Fotografierea în toată incinta pentru uz privat este permisă.",
+    "en": "Photography throughout the grounds for private use allowed."
+  },
+  "bestTimeToVisit": {
+    "de": "Direkt bei Parköffnung, um Plätze in der ersten Stunt-Show zu sichern.",
+    "hu": "Nyitáskor, hogy biztosítsd a helyed az első stunt-show-n.",
+    "ro": "La deschiderea parcului pentru a asigura locuri la prima reprezentație de cascadorii.",
+    "en": "Right at park opening to secure spots at the first stunt show."
+  },
+  "audioGuide": {
+    "de": "nein",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

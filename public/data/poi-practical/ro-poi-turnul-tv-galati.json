@@ -1,12 +1,57 @@
 {
-  "address": "Bulevardul Dunării 2, 800618 Galați",
-  "openingHours": "Mo-Su 12:00-23:00",
-  "entranceFee": "Eintritt frei (Restaurant-Mindestverzehr)",
+  "address": {
+    "de": "Bulevardul Dunării 2, 800618 Galați",
+    "hu": "Bulevardul Dunării 2, 800618 Galac",
+    "ro": "Bulevardul Dunării 2, 800618 Galați",
+    "en": "Bulevardul Dunării 2, 800618 Galați"
+  },
+  "openingHours": {
+    "de": "Mo-Su 12:00-23:00",
+    "hu": "Hétfő-Vasárnap 12:00-23:00",
+    "ro": "Lu-Du 12:00-23:00",
+    "en": "Mon-Sun 12:00-23:00"
+  },
+  "entranceFee": {
+    "de": "Eintritt frei (Restaurant-Mindestverzehr)",
+    "hu": "Ingyenes belépés (éttermi minimális fogyasztás)",
+    "ro": "Intrare liberă (consum minim în restaurant)",
+    "en": "Free entry (restaurant minimum consumption)"
+  },
   "website": "",
-  "publicTransport": "Bus 10, 15 bis Haltestelle Turnul TV",
-  "parking": "Kostenlose Parkplätze direkt am Fuß des Turms.",
-  "accessibility": "Barrierefrei über den Panorama-Aufzug erreichbar.",
-  "photoRules": "Fotos erlaubt, keine Stative im Restaurantbereich.",
-  "bestTimeToVisit": "Zum Sonnenuntergang für den besten Blick über die Donau.",
-  "audioGuide": "nein"
+  "publicTransport": {
+    "de": "Bus 10, 15 bis Haltestelle Turnul TV",
+    "hu": "10, 15-ös busz a Turnul TV megállóig",
+    "ro": "Autobuzul 10, 15 până la stația Turnul TV",
+    "en": "Bus 10, 15 to Turnul TV stop"
+  },
+  "parking": {
+    "de": "Kostenlose Parkplätze direkt am Fuß des Turms.",
+    "hu": "Ingyenes parkolási lehetőség közvetlenül a torony lábánál.",
+    "ro": "Parcare gratuită chiar la baza turnului.",
+    "en": "Free parking right at the foot of the tower."
+  },
+  "accessibility": {
+    "de": "Barrierefrei über den Panorama-Aufzug erreichbar.",
+    "hu": "Panorámafelvonóval akadálymentesen elérhető.",
+    "ro": "Accesibil prin liftul panoramic.",
+    "en": "Accessible via the panoramic elevator."
+  },
+  "photoRules": {
+    "de": "Fotos erlaubt, keine Stative im Restaurantbereich.",
+    "hu": "Fényképezés megengedett, állvány nem használható az étteremben.",
+    "ro": "Fotografiere permisă, fără trepiede în zona restaurantului.",
+    "en": "Photos allowed, no tripods in the restaurant area."
+  },
+  "bestTimeToVisit": {
+    "de": "Zum Sonnenuntergang für den besten Blick über die Donau.",
+    "hu": "Napnyugtakor a legjobb kilátásért a Dunára.",
+    "ro": "La apus pentru cea mai bună vedere asupra Dunării.",
+    "en": "At sunset for the best view over the Danube."
+  },
+  "audioGuide": {
+    "de": "nein",
+    "hu": "nem",
+    "ro": "nu",
+    "en": "no"
+  }
 }

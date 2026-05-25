@@ -1,12 +1,57 @@
 {
-  "address": "Strada Golești 34, 117717 Ștefănești",
-  "openingHours": "Di-So 09:00-18:00 (Sommer)",
-  "entranceFee": "15 RON Erwachsene",
+  "address": {
+    "de": "Strada Golești 34, 117717 Ștefănești",
+    "hu": "Strada Golești 34, 117717 Ștefănești",
+    "ro": "Strada Golești 34, 117717 Ștefănești",
+    "en": "Strada Golești 34, 117717 Ștefănești"
+  },
+  "openingHours": {
+    "de": "Di-So 09:00-18:00 (Sommer)",
+    "hu": "K-V 09:00-18:00 (nyáron)",
+    "ro": "Mar-Du 09:00-18:00 (vară)",
+    "en": "Tue-Sun 09:00-18:00 (summer)"
+  },
+  "entranceFee": {
+    "de": "15 RON Erwachsene",
+    "hu": "15 RON felnőttek",
+    "ro": "15 RON adulți",
+    "en": "15 RON adults"
+  },
   "website": "http://www.muzeulgolesti.ro",
-  "publicTransport": "Bus von Pitești Richtung Ștefănești.",
-  "parking": "Großer Parkplatz am Museumseingang.",
-  "accessibility": "Großteil des Freilichtmuseums barrierefrei zugänglich.",
-  "photoRules": "Erlaubt, Profi-Aufnahmen gegen Gebühr.",
-  "bestTimeToVisit": "Frühsommer für das weitläufige Gelände.",
-  "audioGuide": "nein"
+  "publicTransport": {
+    "de": "Bus von Pitești Richtung Ștefănești.",
+    "hu": "Busz Pitești irányából Ștefănești felé.",
+    "ro": "Autobuz din Pitești către Ștefănești.",
+    "en": "Bus from Pitești towards Ștefănești."
+  },
+  "parking": {
+    "de": "Großer Parkplatz am Museumseingang.",
+    "hu": "Nagy parkoló a múzeum bejáratánál.",
+    "ro": "Parcare mare la intrarea în muzeu.",
+    "en": "Large parking area at the museum entrance."
+  },
+  "accessibility": {
+    "de": "Großteil des Freilichtmuseums barrierefrei zugänglich.",
+    "hu": "A szabadtéri múzeum nagy része akadálymentes.",
+    "ro": "O mare parte a muzeului în aer liber este accesibilă.",
+    "en": "Most of the open-air museum is accessible."
+  },
+  "photoRules": {
+    "de": "Erlaubt, Profi-Aufnahmen gegen Gebühr.",
+    "hu": "Engedélyezett, profi fotózás díjköteles.",
+    "ro": "Permis, fotografierea profesională contra cost.",
+    "en": "Allowed, professional photography for a fee."
+  },
+  "bestTimeToVisit": {
+    "de": "Frühsommer für das weitläufige Gelände.",
+    "hu": "Kora nyár, a hatalmas terület bejárásához.",
+    "ro": "Începutul verii, pentru a vizita vastul domeniu.",
+    "en": "Early summer to enjoy the spacious grounds."
+  },
+  "audioGuide": {
+    "de": "nein",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

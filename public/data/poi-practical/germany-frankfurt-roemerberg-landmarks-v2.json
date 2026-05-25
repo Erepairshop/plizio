@@ -1,12 +1,57 @@
 {
-  "address": "Römerberg 26, 60311 Frankfurt am Main",
-  "openingHours": "24/7",
-  "entranceFee": "free",
+  "address": {
+    "de": "Römerberg 26, 60311 Frankfurt am Main",
+    "hu": "Römerberg 26, 60311 Frankfurt am Main",
+    "ro": "Römerberg 26, 60311 Frankfurt am Main",
+    "en": "Römerberg 26, 60311 Frankfurt am Main"
+  },
+  "openingHours": {
+    "de": "24/7",
+    "hu": "0–24",
+    "ro": "Non-stop",
+    "en": "24/7"
+  },
+  "entranceFee": {
+    "de": "free",
+    "hu": "ingyenes",
+    "ro": "gratuit",
+    "en": "free"
+  },
   "website": "https://www.frankfurt-tourismus.de",
-  "publicTransport": "U-Bahn U4, U5 bis Haltestelle 'Dom/Römer'",
-  "parking": "Parkhaus Dom/Römer direkt unter dem Platz, ca. €3/Std.",
-  "accessibility": "Voll barrierefrei zugänglich, ebener Platz",
-  "photoRules": "Erlaubt; beliebter Spot für Skyline-Fotos im Hintergrund",
-  "bestTimeToVisit": "Früh am Morgen oder während der blauen Stunde für die beste Beleuchtung",
-  "audioGuide": "no"
+  "publicTransport": {
+    "de": "U-Bahn U4, U5 bis Haltestelle 'Dom/Römer'",
+    "hu": "U4, U5 metró Dom/Römer megállóig",
+    "ro": "Metrou U4, U5 până la stația „Dom/Römer”",
+    "en": "U-Bahn U4, U5 to 'Dom/Römer' stop"
+  },
+  "parking": {
+    "de": "Parkhaus Dom/Römer direkt unter dem Platz, ca. €3/Std.",
+    "hu": "Dom/Römer parkolóház közvetlenül a tér alatt, kb. 3 €/óra",
+    "ro": "Parcarea Dom/Römer direct sub piață, aprox. 3 €/oră",
+    "en": "Dom/Römer parking garage directly under the square, approx. €3/hr"
+  },
+  "accessibility": {
+    "de": "Voll barrierefrei zugänglich, ebener Platz",
+    "hu": "Teljesen akadálymentes, sík tér",
+    "ro": "Complet accesibil, piață plană",
+    "en": "Fully accessible, level square"
+  },
+  "photoRules": {
+    "de": "Erlaubt; beliebter Spot für Skyline-Fotos im Hintergrund",
+    "hu": "Megengedett; népszerű helyszín a háttérben látható felhőkarcolók fotózására",
+    "ro": "Permis; punct popular pentru fotografii cu zgârie-norii în fundal",
+    "en": "Allowed; popular spot for skyline photos in the background"
+  },
+  "bestTimeToVisit": {
+    "de": "Früh am Morgen oder während der blauen Stunde für die beste Beleuchtung",
+    "hu": "Kora reggel vagy a kék órában a legjobb fényviszonyokhoz",
+    "ro": "Dimineața devreme sau în timpul orei albastre pentru cea mai bună lumină",
+    "en": "Early morning or during the blue hour for the best lighting"
+  },
+  "audioGuide": {
+    "de": "no",
+    "hu": "nem",
+    "ro": "nu",
+    "en": "no"
+  }
 }

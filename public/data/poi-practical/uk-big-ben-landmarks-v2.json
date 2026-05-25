@@ -1,12 +1,57 @@
 {
-  "address": "Elizabeth Tower, Westminster, London SW1A 0AA",
-  "openingHours": "Nur mit Voranmeldung für Touren zugänglich",
-  "entranceFee": "£30.00 für Turmbesteigung (Vorbuchung Monate im Voraus nötig)",
+  "address": {
+    "de": "Elizabeth Tower, Westminster, London SW1A 0AA",
+    "hu": "Elizabeth Tower, Westminster, London SW1A 0AA",
+    "ro": "Elizabeth Tower, Westminster, London SW1A 0AA",
+    "en": "Elizabeth Tower, Westminster, London SW1A 0AA"
+  },
+  "openingHours": {
+    "de": "Nur mit Voranmeldung für Touren zugänglich",
+    "hu": "Csak előzetes bejelentkezéssel látogatható túrákon",
+    "ro": "Accesibil doar cu rezervare prealabilă pentru tururi",
+    "en": "Accessible only by advance booking for tours"
+  },
+  "entranceFee": {
+    "de": "£30.00 für Turmbesteigung (Vorbuchung Monate im Voraus nötig)",
+    "hu": "£30.00 a toronyba mászáshoz (hónapokkal előre foglalni szükséges)",
+    "ro": "£30.00 pentru urcarea în turn (necesară rezervare cu luni înainte)",
+    "en": "£30.00 for tower climb (booking months in advance required)"
+  },
   "website": "https://www.parliament.uk/bigben",
-  "publicTransport": "U-Bahn Station Westminster (District, Circle, Jubilee Lines)",
-  "parking": "Keine Parkplätze vor Ort, Nutzung von Park & Ride oder ÖPNV dringend empfohlen.",
-  "accessibility": "Turm nur über 334 Stufen erreichbar, kein Aufzug für öffentliche Touren.",
-  "photoRules": "Fotografieren von außen uneingeschränkt, im Turm während der Tour verboten.",
-  "bestTimeToVisit": "Zur vollen Stunde, um das Läuten des Big Ben aus der Nähe zu hören.",
-  "audioGuide": "no"
+  "publicTransport": {
+    "de": "U-Bahn Station Westminster (District, Circle, Jubilee Lines)",
+    "hu": "Westminster metróállomás (District, Circle, Jubilee vonalak)",
+    "ro": "Stația de metrou Westminster (liniile District, Circle, Jubilee)",
+    "en": "Westminster underground station (District, Circle, Jubilee lines)"
+  },
+  "parking": {
+    "de": "Keine Parkplätze vor Ort, Nutzung von Park & Ride oder ÖPNV dringend empfohlen.",
+    "hu": "Helyben nincs parkoló, Park & Ride vagy tömegközlekedés erősen ajánlott.",
+    "ro": "Nu există parcare la fața locului, utilizarea Park & Ride sau a transportului public este recomandată urgent.",
+    "en": "No parking on site, Park & Ride or public transport highly recommended."
+  },
+  "accessibility": {
+    "de": "Turm nur über 334 Stufen erreichbar, kein Aufzug für öffentliche Touren.",
+    "hu": "A torony csak 334 lépcsőfokon érhető el, a nyilvános túrákhoz nincs lift.",
+    "ro": "Turnul accesibil doar pe 334 de trepte, nu există lift pentru tururile publice.",
+    "en": "Tower only reachable via 334 steps, no elevator for public tours."
+  },
+  "photoRules": {
+    "de": "Fotografieren von außen uneingeschränkt, im Turm während der Tour verboten.",
+    "hu": "Kívülről korlátlanul fényképezhető, a toronyban a túra alatt tilos.",
+    "ro": "Fotografierea din exterior nelimitată, în turn în timpul turului interzisă.",
+    "en": "Photography unrestricted from outside, forbidden inside the tower during the tour."
+  },
+  "bestTimeToVisit": {
+    "de": "Zur vollen Stunde, um das Läuten des Big Ben aus der Nähe zu hören.",
+    "hu": "Órakor, hogy a Big Ben harangozását közelről hallja.",
+    "ro": "La oră fixă, pentru a auzi sunetul Big Ben-ului de aproape.",
+    "en": "On the hour to hear Big Ben ringing from up close."
+  },
+  "audioGuide": {
+    "de": "no",
+    "hu": "nem",
+    "ro": "nu",
+    "en": "no"
+  }
 }

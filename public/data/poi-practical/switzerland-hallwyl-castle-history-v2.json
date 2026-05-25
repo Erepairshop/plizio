@@ -1,12 +1,57 @@
 {
-  "address": "Schloss Hallwyl, 5707 Seengen",
-  "openingHours": "Di-So 10:00-17:00 (Apr-Okt), im Winter geschlossen",
-  "entranceFee": "14 CHF Erwachsene, 8 CHF Kinder",
+  "address": {
+    "de": "Schloss Hallwyl, 5707 Seengen",
+    "hu": "Schloss Hallwyl, 5707 Seengen",
+    "ro": "Schloss Hallwyl, 5707 Seengen",
+    "en": "Schloss Hallwyl, 5707 Seengen"
+  },
+  "openingHours": {
+    "de": "Di-So 10:00-17:00 (Apr-Okt), im Winter geschlossen",
+    "hu": "Ké-Va 10:00-17:00 (ápr-okt), télen zárva",
+    "ro": "Ma-Du 10:00-17:00 (apr-oct), închis iarna",
+    "en": "Tue-Sun 10:00-17:00 (Apr-Oct), closed in winter"
+  },
+  "entranceFee": {
+    "de": "14 CHF Erwachsene, 8 CHF Kinder",
+    "hu": "14 CHF felnőtteknek, 8 CHF gyerekeknek",
+    "ro": "14 CHF adulți, 8 CHF copii",
+    "en": "14 CHF adults, 8 CHF children"
+  },
   "website": "https://www.schlosshallwyl.ch",
-  "publicTransport": "Bus ab Lenzburg oder Schiff ab Beinwil am See.",
-  "parking": "Großer kostenpflichtiger Parkplatz am Schlossgelände.",
-  "accessibility": "Wasserschloss teilweise zugänglich; Innenhöfe und Bistro barrierefrei.",
-  "photoRules": "Erlaubt; sehr fotogene Brücken und Gräben im Außenbereich.",
-  "bestTimeToVisit": "Frühlingswochenende, wenn die Wassergräben besonders klar sind.",
-  "audioGuide": "DE, EN, FR"
+  "publicTransport": {
+    "de": "Bus ab Lenzburg oder Schiff ab Beinwil am See.",
+    "hu": "Busz Lenzburgból vagy hajó Beinwil am See-ből.",
+    "ro": "Autobuz din Lenzburg sau vapor din Beinwil am See.",
+    "en": "Bus from Lenzburg or boat from Beinwil am See."
+  },
+  "parking": {
+    "de": "Großer kostenpflichtiger Parkplatz am Schlossgelände.",
+    "hu": "Nagy fizetős parkoló a kastély területén.",
+    "ro": "Parcare mare cu plată în incinta castelului.",
+    "en": "Large paid parking at the castle grounds."
+  },
+  "accessibility": {
+    "de": "Wasserschloss teilweise zugänglich; Innenhöfe und Bistro barrierefrei.",
+    "hu": "Vízi vár részben hozzáférhető; udvarok és bisztró akadálymentesek.",
+    "ro": "Castel de apă parțial accesibil; curțile și bistro-ul fără bariere.",
+    "en": "Moated castle partially accessible; courtyards and bistro barrier-free."
+  },
+  "photoRules": {
+    "de": "Erlaubt; sehr fotogene Brücken und Gräben im Außenbereich.",
+    "hu": "Engedélyezett; nagyon fotogén hidak és árkok a külső részen.",
+    "ro": "Permis; poduri și șanțuri foarte fotogenice în exterior.",
+    "en": "Allowed; very photogenic bridges and moats in the exterior."
+  },
+  "bestTimeToVisit": {
+    "de": "Frühlingswochenende, wenn die Wassergräben besonders klar sind.",
+    "hu": "Tavaszi hétvége, amikor a vizesárkok különösen tiszták.",
+    "ro": "Weekend de primăvară, când șanțurile cu apă sunt deosebit de clare.",
+    "en": "Spring weekend when the moats are particularly clear."
+  },
+  "audioGuide": {
+    "de": "DE, EN, FR",
+    "hu": "DE, EN, FR",
+    "ro": "DE, EN, FR",
+    "en": "DE, EN, FR"
+  }
 }

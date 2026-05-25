@@ -1,12 +1,57 @@
 {
-  "address": "Castle Rd, Tintagel PL34 0HE, Großbritannien",
-  "openingHours": "Mo-Su 10:00-17:00 (März-Okt), 10:00-16:00 (Winter)",
-  "entranceFee": "£16.00 Erwachsene, £9.60 Kinder",
+  "address": {
+    "de": "Castle Rd, Tintagel PL34 0HE, Großbritannien",
+    "hu": "Castle Rd, Tintagel PL34 0HE, Nagy-Britannia",
+    "ro": "Castle Rd, Tintagel PL34 0HE, Marea Britanie",
+    "en": "Castle Rd, Tintagel PL34 0HE, Great Britain"
+  },
+  "openingHours": {
+    "de": "Mo-Su 10:00-17:00 (März-Okt), 10:00-16:00 (Winter)",
+    "hu": "H-V 10:00-17:00 (március-október), 10:00-16:00 (tél)",
+    "ro": "Lu-Du 10:00-17:00 (martie-octombrie), 10:00-16:00 (iarnă)",
+    "en": "Mo-Su 10:00-17:00 (March-Oct), 10:00-16:00 (winter)"
+  },
+  "entranceFee": {
+    "de": "£16.00 Erwachsene, £9.60 Kinder",
+    "hu": "£16.00 felnőtt, £9.60 gyerek",
+    "ro": "£16.00 adulți, £9.60 copii",
+    "en": "£16.00 adults, £9.60 children"
+  },
   "website": "https://www.english-heritage.org.uk/visit/places/tintagel-castle/",
-  "publicTransport": "Bus 57 oder 596 nach Tintagel Village",
-  "parking": "Mehrere Pay-&-Display Parkplätze im Dorf (15 Min. Fußweg)",
-  "accessibility": "Hängebrücke rollstuhlgerecht, Inselgelände sehr steil",
-  "photoRules": "Erlaubt",
-  "bestTimeToVisit": "Bei Ebbe, um Merlins Höhle am Strand zu besuchen",
-  "audioGuide": "Ja (Englisch)"
+  "publicTransport": {
+    "de": "Bus 57 oder 596 nach Tintagel Village",
+    "hu": "57-es vagy 596-os busz Tintagel faluba",
+    "ro": "Autobuzul 57 sau 596 spre Tintagel Village",
+    "en": "Bus 57 or 596 to Tintagel Village"
+  },
+  "parking": {
+    "de": "Mehrere Pay-&-Display Parkplätze im Dorf (15 Min. Fußweg)",
+    "hu": "Több fizetős parkoló a faluban (15 perc séta)",
+    "ro": "Mai multe parcări cu plată în sat (15 minute de mers pe jos)",
+    "en": "Several pay-&-display car parks in the village (15-min walk)"
+  },
+  "accessibility": {
+    "de": "Hängebrücke rollstuhlgerecht, Inselgelände sehr steil",
+    "hu": "Függőhíd kerekesszék-barát, a sziget területe nagyon meredek",
+    "ro": "Pod suspendat accesibil pentru scaune cu rotile, zona insulei foarte abruptă",
+    "en": "Suspension bridge wheelchair-friendly, island grounds very steep"
+  },
+  "photoRules": {
+    "de": "Erlaubt",
+    "hu": "Engedélyezett",
+    "ro": "Permis",
+    "en": "Allowed"
+  },
+  "bestTimeToVisit": {
+    "de": "Bei Ebbe, um Merlins Höhle am Strand zu besuchen",
+    "hu": "Apálykor, hogy meglátogathassa Merlin barlangját a parton",
+    "ro": "La reflux, pentru a vizita peștera lui Merlin de pe plajă",
+    "en": "At low tide, to visit Merlin's cave on the beach"
+  },
+  "audioGuide": {
+    "de": "Ja (Englisch)",
+    "hu": "Igen (angol)",
+    "ro": "Da (engleză)",
+    "en": "Yes (English)"
+  }
 }

@@ -1,12 +1,57 @@
 {
-  "address": "Château du Haut-Koenigsbourg, 67600 Orschwiller",
-  "openingHours": "Mo-Su 09:30-17:45",
-  "entranceFee": "€12 Erwachsene, €5 Kinder",
+  "address": {
+    "de": "Château du Haut-Koenigsbourg, 67600 Orschwiller",
+    "hu": "Château du Haut-Koenigsbourg, 67600 Orschwiller",
+    "ro": "Château du Haut-Koenigsbourg, 67600 Orschwiller",
+    "en": "Château du Haut-Koenigsbourg, 67600 Orschwiller"
+  },
+  "openingHours": {
+    "de": "Mo-Su 09:30-17:45",
+    "hu": "Hé-Va 09:30-17:45",
+    "ro": "Lun-Dum 09:30-17:45",
+    "en": "Mon-Sun 09:30-17:45"
+  },
+  "entranceFee": {
+    "de": "€12 Erwachsene, €5 Kinder",
+    "hu": "12 € felnőtteknek, 5 € gyerekeknek",
+    "ro": "12 € adulți, 5 € copii",
+    "en": "€12 adults, €5 children"
+  },
   "website": "https://www.haut-koenigsbourg.fr",
-  "publicTransport": "Pendelbus 'Navette Haut-Koenigsbourg' ab Bahnhof Sélestat",
-  "parking": "Parkstreifen entlang der Zufahrtsstraße (oft weit entfernt)",
-  "accessibility": "Eingeschränkt zugänglich durch steile Wege und viele Stufen",
-  "photoRules": "Fotografieren für private Zwecke ohne Blitz/Stativ erlaubt",
-  "bestTimeToVisit": "Bei klarem Wetter für die Aussicht bis zu den Schweizer Alpen",
-  "audioGuide": "DE, EN, FR, IT, ES, ZH, JP, RU"
+  "publicTransport": {
+    "de": "Pendelbus 'Navette Haut-Koenigsbourg' ab Bahnhof Sélestat",
+    "hu": "'Navette Haut-Koenigsbourg' ingajárat Sélestat vasútállomástól",
+    "ro": "Autobuzul de transfer 'Navette Haut-Koenigsbourg' de la gara Sélestat",
+    "en": "'Navette Haut-Koenigsbourg' shuttle bus from Sélestat station"
+  },
+  "parking": {
+    "de": "Parkstreifen entlang der Zufahrtsstraße (oft weit entfernt)",
+    "hu": "Parkolósáv a bevezető út mentén (gyakran távol a bejárattól)",
+    "ro": "Locuri de parcare de-a lungul drumului de acces (adesea la distanță mare)",
+    "en": "Parking spaces along the access road (often far away)"
+  },
+  "accessibility": {
+    "de": "Eingeschränkt zugänglich durch steile Wege und viele Stufen",
+    "hu": "Korlátozottan akadálymentes a meredek utak és a sok lépcső miatt",
+    "ro": "Accesibilitate limitată din cauza drumurilor abrupte și a multor trepte",
+    "en": "Limited accessibility due to steep paths and many steps"
+  },
+  "photoRules": {
+    "de": "Fotografieren für private Zwecke ohne Blitz/Stativ erlaubt",
+    "hu": "Magáncélú fotózás vaku és állvány nélkül engedélyezett",
+    "ro": "Fotografierea în scopuri private fără bliț/trepied este permisă",
+    "en": "Photography for private use without flash/tripod is permitted"
+  },
+  "bestTimeToVisit": {
+    "de": "Bei klarem Wetter für die Aussicht bis zu den Schweizer Alpen",
+    "hu": "Tiszta időben a Svájci Alpokig ellátszó panoráma miatt",
+    "ro": "Pe vreme senină pentru vederea până la Alpii Elvețieni",
+    "en": "In clear weather for views as far as the Swiss Alps"
+  },
+  "audioGuide": {
+    "de": "DE, EN, FR, IT, ES, ZH, JP, RU",
+    "hu": "DE, EN, FR, IT, ES, ZH, JP, RU",
+    "ro": "DE, EN, FR, IT, ES, ZH, JP, RU",
+    "en": "DE, EN, FR, IT, ES, ZH, JP, RU"
+  }
 }

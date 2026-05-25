@@ -1,12 +1,57 @@
 {
-  "address": "Erinnerungsstraße 1, 4310 Mauthausen",
-  "openingHours": "Täglich 09:00-17:30",
-  "entranceFee": "frei",
+  "address": {
+    "de": "Erinnerungsstraße 1, 4310 Mauthausen",
+    "hu": "Erinnerungsstraße 1, 4310 Mauthausen",
+    "ro": "Erinnerungsstraße 1, 4310 Mauthausen",
+    "en": "Erinnerungsstrasse 1, 4310 Mauthausen"
+  },
+  "openingHours": {
+    "de": "Täglich 09:00-17:30",
+    "hu": "Naponta 09:00-17:30",
+    "ro": "Zilnic 09:00-17:30",
+    "en": "Daily 09:00-17:30"
+  },
+  "entranceFee": {
+    "de": "frei",
+    "hu": "ingyenes",
+    "ro": "gratuit",
+    "en": "free"
+  },
   "website": "https://www.mauthausen-memorial.org",
-  "publicTransport": "Bahn bis Mauthausen, dann Shuttlebus 361 zum Denkmal.",
-  "parking": "Großer kostenloser Parkplatz direkt vor dem Eingangstor.",
-  "accessibility": "Wegen historischem Kopfsteinpflaster teilweise mühsam mit Rollstuhl.",
-  "photoRules": "Respektvolles Fotografieren ohne Blitz in den Ausstellungen erlaubt.",
-  "bestTimeToVisit": "Unter der Woche, um den Ansturm großer Reisegruppen zu umgehen.",
-  "audioGuide": "ja (in vielen Sprachen gegen geringe Leihgebühr)"
+  "publicTransport": {
+    "de": "Bahn bis Mauthausen, dann Shuttlebus 361 zum Denkmal.",
+    "hu": "Vonattal Mauthausenig, majd a 361-es busszal az emlékhelyig.",
+    "ro": "Tren până la Mauthausen, apoi autobuzul 361 până la memorial.",
+    "en": "Train to Mauthausen, then shuttle bus 361 to the memorial."
+  },
+  "parking": {
+    "de": "Großer kostenloser Parkplatz direkt vor dem Eingangstor.",
+    "hu": "Nagy, ingyenes parkoló közvetlenül a bejárati kapu előtt.",
+    "ro": "Parcare mare gratuită direct în fața porții de intrare.",
+    "en": "Large free parking lot directly in front of the entrance gate."
+  },
+  "accessibility": {
+    "de": "Wegen historischem Kopfsteinpflaster teilweise mühsam mit Rollstuhl.",
+    "hu": "A történelmi macskakő miatt kerekesszékkel részben nehézkes a közlekedés.",
+    "ro": "Din cauza pavajului istoric, accesul cu scaunul cu rotile este parțial dificil.",
+    "en": "Partially difficult for wheelchairs due to historic cobblestones."
+  },
+  "photoRules": {
+    "de": "Respektvolles Fotografieren ohne Blitz in den Ausstellungen erlaubt.",
+    "hu": "Tiszteletteljes fotózás vaku nélkül a kiállításokon megengedett.",
+    "ro": "Fotografierea respectuoasă fără bliț este permisă în expoziții.",
+    "en": "Respectful photography without flash is permitted in the exhibitions."
+  },
+  "bestTimeToVisit": {
+    "de": "Unter der Woche, um den Ansturm großer Reisegruppen zu umgehen.",
+    "hu": "Hétköznap, a nagy utazási csoportok elkerülése érdekében.",
+    "ro": "În timpul săptămânii, pentru a evita afluxul grupurilor mari de turiști.",
+    "en": "During the week to avoid the rush of large tour groups."
+  },
+  "audioGuide": {
+    "de": "ja (in vielen Sprachen gegen geringe Leihgebühr)",
+    "hu": "igen (sok nyelven, csekély kölcsönzési díj ellenében)",
+    "ro": "da (în multe limbi, contra unei mici taxe de închiriere)",
+    "en": "yes (in many languages for a small rental fee)"
+  }
 }

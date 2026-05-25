@@ -1,12 +1,57 @@
 {
-  "address": "Romaero, Bulevardul Ficusului 44, 013975 București",
-  "openingHours": "Jährlich im Sommer, meist 16:00 - 05:00 Uhr morgens",
-  "entranceFee": "Festivalpass ab ca. 300 RON, Tagestickets ab 150 RON",
+  "address": {
+    "de": "Romaero, Bulevardul Ficusului 44, 013975 București",
+    "hu": "Romaero, Bulevardul Ficusului 44, 013975 Bukarest",
+    "ro": "Romaero, Bulevardul Ficusului 44, 013975 București",
+    "en": "Romaero, 44 Bulevardul Ficusului, 013975 Bucharest"
+  },
+  "openingHours": {
+    "de": "Jährlich im Sommer, meist 16:00 - 05:00 Uhr morgens",
+    "hu": "Minden év nyarán, általában 16:00-tól reggel 05:00-ig",
+    "ro": "Anual în timpul verii, de regulă între 16:00 - 05:00 dimineața",
+    "en": "Annually in summer, mostly from 16:00 to 05:00 in the morning"
+  },
+  "entranceFee": {
+    "de": "Festivalpass ab ca. 300 RON, Tagestickets ab 150 RON",
+    "hu": "Fesztiválbérlet kb. 300 RON-tól, napijegyek 150 RON-tól",
+    "ro": "Abonament festival de la aprox. 300 RON, bilete de o zi de la 150 RON",
+    "en": "Festival pass from approx. 300 RON, day tickets from 150 RON"
+  },
   "website": "https://www.sagafestival.com/",
-  "publicTransport": "Bus 131, 205, 301, 335 bis Aeroport Băneasa.",
-  "parking": "Sehr begrenzt; Nutzung von Shuttle-Bussen oder Ride-Sharing empfohlen.",
-  "accessibility": "Gelände ist flach und größtenteils barrierefrei (Beton/Asphalt).",
-  "photoRules": "Smartphones erlaubt, professionelles Equipment nur für akkreditierte Presse.",
-  "bestTimeToVisit": "Nach Mitternacht für die Hauptacts und die volle Lichtshow.",
-  "audioGuide": "no"
+  "publicTransport": {
+    "de": "Bus 131, 205, 301, 335 bis Aeroport Băneasa.",
+    "hu": "131, 205, 301, 335 busz az Aeroport Băneasa megállóig.",
+    "ro": "Autobuzele 131, 205, 301, 335 până la Aeroport Băneasa.",
+    "en": "Buses 131, 205, 301, 335 to Baneasa Airport."
+  },
+  "parking": {
+    "de": "Sehr begrenzt; Nutzung von Shuttle-Bussen oder Ride-Sharing empfohlen.",
+    "hu": "Nagyon korlátozott; transzferbuszok vagy telekocsi szolgáltatás használata ajánlott.",
+    "ro": "Foarte limitată; se recomandă utilizarea autobuzelor navetă sau ride-sharing.",
+    "en": "Very limited; use of shuttle buses or ride-sharing recommended."
+  },
+  "accessibility": {
+    "de": "Gelände ist flach und größtenteils barrierefrei (Beton/Asphalt).",
+    "hu": "A terület sík és nagyrészt akadálymentes (beton/aszfalt).",
+    "ro": "Terenul este plat și în mare parte accesibil (beton/asfalt).",
+    "en": "Terrain is flat and mostly accessible (concrete/asphalt)."
+  },
+  "photoRules": {
+    "de": "Smartphones erlaubt, professionelles Equipment nur für akkreditierte Presse.",
+    "hu": "Okostelefon megengedett, professzionális felszerelés csak akkreditált sajtónak.",
+    "ro": "Smartphones permise, echipament profesional doar pentru presa acreditată.",
+    "en": "Smartphones allowed, professional equipment only for accredited press."
+  },
+  "bestTimeToVisit": {
+    "de": "Nach Mitternacht für die Hauptacts und die volle Lichtshow.",
+    "hu": "Éjfél után a fő fellépők és a teljes fény-show kedvéért.",
+    "ro": "După miezul nopții pentru artiștii principali și spectacolul complet de lumini.",
+    "en": "After midnight for the headliners and the full light show."
+  },
+  "audioGuide": {
+    "de": "no",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

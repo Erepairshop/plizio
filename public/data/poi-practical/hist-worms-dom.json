@@ -1,12 +1,57 @@
 {
-  "address": "Domplatz, 67547 Worms",
-  "openingHours": "Mo-Sa 09:00-18:00, So 12:45-18:00 (März-Okt)",
-  "entranceFee": "kostenlos",
+  "address": {
+    "de": "Domplatz, 67547 Worms",
+    "hu": "Domplatz, 67547 Worms, Németország",
+    "ro": "Domplatz, 67547 Worms, Germania",
+    "en": "Domplatz, 67547 Worms, Germany"
+  },
+  "openingHours": {
+    "de": "Mo-Sa 09:00-18:00, So 12:45-18:00 (März-Okt)",
+    "hu": "H-Szo 09:00-18:00, V 12:45-18:00 (március-október)",
+    "ro": "L-S 09:00-18:00, D 12:45-18:00 (mar-oct)",
+    "en": "Mon-Sat 09:00-18:00, Sun 12:45-18:00 (Mar-Oct)"
+  },
+  "entranceFee": {
+    "de": "kostenlos",
+    "hu": "ingyenes",
+    "ro": "gratuit",
+    "en": "free"
+  },
   "website": "https://www.worms-dom.de",
-  "publicTransport": "Bus 401 bis Haltestelle Domplatz",
-  "parking": "Parkhaus am Dom, ca. 1,50 €/Std.",
-  "accessibility": "Weitgehend barrierefrei über Rampen zugänglich.",
-  "photoRules": "Fotografieren ohne Blitz außerhalb der Gottesdienste erlaubt.",
-  "bestTimeToVisit": "Später Nachmittag für das Licht durch die Westchor-Fenster.",
-  "audioGuide": "Deutsch, Englisch, Französisch (App)"
+  "publicTransport": {
+    "de": "Bus 401 bis Haltestelle Domplatz",
+    "hu": "401-es busz a Domplatz megállóig",
+    "ro": "Autobuzul 401 până la stația Domplatz",
+    "en": "Bus 401 to stop Domplatz"
+  },
+  "parking": {
+    "de": "Parkhaus am Dom, ca. 1,50 €/Std.",
+    "hu": "Dómnál lévő parkolóház, kb. 1,50 €/óra",
+    "ro": "Parcare etajată lângă dom, aprox. 1,50 €/oră",
+    "en": "Parking garage at the cathedral, approx. 1.50 €/hour"
+  },
+  "accessibility": {
+    "de": "Weitgehend barrierefrei über Rampen zugänglich.",
+    "hu": "Rámpákon keresztül nagyrészt akadálymentesen megközelíthető.",
+    "ro": "Accesibil în mare parte prin rampe.",
+    "en": "Largely accessible via ramps."
+  },
+  "photoRules": {
+    "de": "Fotografieren ohne Blitz außerhalb der Gottesdienste erlaubt.",
+    "hu": "Vaku nélkül, az istentiszteleteken kívül engedélyezett.",
+    "ro": "Fotografiatul fără bliț permis în afara slujbelor.",
+    "en": "Photography without flash allowed outside of services."
+  },
+  "bestTimeToVisit": {
+    "de": "Später Nachmittag für das Licht durch die Westchor-Fenster.",
+    "hu": "Késő délután, a nyugati kórus ablakain beszűrődő fények miatt.",
+    "ro": "După-amiaza târziu pentru lumina prin ferestrele corului vestic.",
+    "en": "Late afternoon for the light through the west choir windows."
+  },
+  "audioGuide": {
+    "de": "Deutsch, Englisch, Französisch (App)",
+    "hu": "német, angol, francia (applikáció)",
+    "ro": "germană, engleză, franceză (aplicație)",
+    "en": "German, English, French (app)"
+  }
 }

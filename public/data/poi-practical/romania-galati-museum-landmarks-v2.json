@@ -1,12 +1,57 @@
 {
-  "address": "Strada Domnească 25, 800008 Galați",
-  "openingHours": "We-Su 09:00-17:00",
-  "entranceFee": "8 RON Erwachsene, 2 RON Kinder",
+  "address": {
+    "de": "Strada Domnească 25, 800008 Galați",
+    "hu": "Strada Domnească 25, 800008 Galați",
+    "ro": "Strada Domnească 25, 800008 Galați",
+    "en": "Strada Domnească 25, 800008 Galați"
+  },
+  "openingHours": {
+    "de": "We-Su 09:00-17:00",
+    "hu": "Sze-V 09:00-17:00",
+    "ro": "Mie-Du 09:00-17:00",
+    "en": "Wed-Sun 09:00-17:00"
+  },
+  "entranceFee": {
+    "de": "8 RON Erwachsene, 2 RON Kinder",
+    "hu": "8 RON felnőttek, 2 RON gyerekek",
+    "ro": "8 RON adulți, 2 RON copii",
+    "en": "8 RON adults, 2 RON children"
+  },
   "website": "http://www.history.museum.galati.ro",
-  "publicTransport": "Buslinien 102, 105 bis Haltestelle Parfumul Teilor",
-  "parking": "Parkplätze entlang der Strada Domnească verfügbar.",
-  "accessibility": "Nicht barrierefrei, Zugang über mehrere Stufen am Eingang.",
-  "photoRules": "Gegen Gebühr erlaubt, Blitzlicht ist untersagt.",
-  "bestTimeToVisit": "Vormittags zwischen 10:00 und 12:00 Uhr.",
-  "audioGuide": "nein"
+  "publicTransport": {
+    "de": "Buslinien 102, 105 bis Haltestelle Parfumul Teilor",
+    "hu": "102, 105-ös buszok a Parfumul Teilor megállóig",
+    "ro": "Liniile de autobuz 102, 105 până la stația Parfumul Teilor",
+    "en": "Bus lines 102, 105 to Parfumul Teilor stop"
+  },
+  "parking": {
+    "de": "Parkplätze entlang der Strada Domnească verfügbar.",
+    "hu": "Parkolóhelyek a Strada Domnească mentén.",
+    "ro": "Locuri de parcare disponibile de-a lungul străzii Domnească.",
+    "en": "Parking spaces available along Strada Domnească."
+  },
+  "accessibility": {
+    "de": "Nicht barrierefrei, Zugang über mehrere Stufen am Eingang.",
+    "hu": "Nem akadálymentes, a bejáratnál több lépcsőfok található.",
+    "ro": "Nu este accesibil, intrarea necesită urcarea unor trepte.",
+    "en": "Not accessible, entrance via several steps."
+  },
+  "photoRules": {
+    "de": "Gegen Gebühr erlaubt, Blitzlicht ist untersagt.",
+    "hu": "Díjfizetés ellenében engedélyezett, vaku használata tilos.",
+    "ro": "Permis contra cost, utilizarea blițului este interzisă.",
+    "en": "Allowed for a fee, flash is prohibited."
+  },
+  "bestTimeToVisit": {
+    "de": "Vormittags zwischen 10:00 und 12:00 Uhr.",
+    "hu": "Délelőtt 10:00 és 12:00 óra között.",
+    "ro": "Dimineața între orele 10:00 și 12:00.",
+    "en": "Mornings between 10:00 and 12:00."
+  },
+  "audioGuide": {
+    "de": "nein",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

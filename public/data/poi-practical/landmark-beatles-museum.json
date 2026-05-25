@@ -1,12 +1,57 @@
 {
-  "address": "Alter Markt 12, 06108 Halle (Saale)",
-  "openingHours": "Mi-So 10:00-18:00",
-  "entranceFee": "Erwachsene 9,50€, Kinder 5€",
+  "address": {
+    "de": "Alter Markt 12, 06108 Halle (Saale)",
+    "hu": "Alter Markt 12, 06108 Halle (Saale)",
+    "ro": "Alter Markt 12, 06108 Halle (Saale)",
+    "en": "Alter Markt 12, 06108 Halle (Saale)"
+  },
+  "openingHours": {
+    "de": "Mi-So 10:00-18:00",
+    "hu": "Szerda-vasárnap 10:00-18:00",
+    "ro": "Mie-Dum 10:00-18:00",
+    "en": "Wed-Sun 10:00-18:00"
+  },
+  "entranceFee": {
+    "de": "Erwachsene 9,50€, Kinder 5€",
+    "hu": "Felnőtt 9,50 €, gyermek 5 €",
+    "ro": "Adulți 9,50 €, copii 5 €",
+    "en": "Adults €9.50, children €5"
+  },
   "website": "https://www.beatlesmuseum.net",
-  "publicTransport": "Straßenbahn bis Marktplatz Halle, dann 2 Min. Fußweg.",
-  "parking": "Parkhäuser Spitze oder Ritterhaus (ca. 2€/Std.).",
-  "accessibility": "Nur bedingt barrierefrei, da sich das Museum in einem Altbau befindet.",
-  "photoRules": "Fotografieren ohne Blitz für private Zwecke gestattet.",
-  "bestTimeToVisit": "Wochentags am Nachmittag, um in Ruhe in der Chronologie zu lesen.",
-  "audioGuide": "nein"
+  "publicTransport": {
+    "de": "Straßenbahn bis Marktplatz Halle, dann 2 Min. Fußweg.",
+    "hu": "Villamos a Marktplatz megállóig, majd 2 perc séta.",
+    "ro": "Tramvai până la Marktplatz, apoi 2 minute de mers pe jos.",
+    "en": "Tram to Marktplatz, then 2 min walk."
+  },
+  "parking": {
+    "de": "Parkhäuser Spitze oder Ritterhaus (ca. 2€/Std.).",
+    "hu": "Spitze vagy Ritterhaus parkolóház (kb. 2 €/óra).",
+    "ro": "Parcări subterane Spitze sau Ritterhaus (aprox. 2 €/oră).",
+    "en": "Spitze or Ritterhaus parking garages (approx. €2/h)."
+  },
+  "accessibility": {
+    "de": "Nur bedingt barrierefrei, da sich das Museum in einem Altbau befindet.",
+    "hu": "Csak korlátozottan akadálymentesített, mivel a múzeum egy régi épületben van.",
+    "ro": "Accesibilitate limitată, deoarece muzeul se află într-o clădire istorică.",
+    "en": "Limited accessibility as the museum is located in a historic building."
+  },
+  "photoRules": {
+    "de": "Fotografieren ohne Blitz für private Zwecke gestattet.",
+    "hu": "Vakumentes fotózás magáncélra engedélyezett.",
+    "ro": "Fotografierea fără bliț permisă în scop privat.",
+    "en": "Photography without flash allowed for private purposes."
+  },
+  "bestTimeToVisit": {
+    "de": "Wochentags am Nachmittag, um in Ruhe in der Chronologie zu lesen.",
+    "hu": "Hétköznap délután, hogy nyugodtan átböngészhesd a kronológiát.",
+    "ro": "În timpul săptămânii după-amiaza, pentru a citi cronologia în liniște.",
+    "en": "Weekdays in the afternoon to read through the timeline in peace."
+  },
+  "audioGuide": {
+    "de": "nein",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

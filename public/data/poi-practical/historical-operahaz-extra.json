@@ -1,12 +1,57 @@
 {
-  "address": "Andrássy út 22., 1061 Budapest",
-  "openingHours": "Führungen täglich um 13:30, 15:00 und 16:30",
-  "entranceFee": "9000 HUF für die Führung, Vorstellungen variieren stark",
+  "address": {
+    "de": "Andrássy út 22., 1061 Budapest",
+    "hu": "Andrássy út 22., 1061 Budapest",
+    "ro": "Andrássy út 22., 1061 Budapest",
+    "en": "Andrássy út 22., 1061 Budapest"
+  },
+  "openingHours": {
+    "de": "Führungen täglich um 13:30, 15:00 und 16:30",
+    "hu": "Vezetett túrák naponta 13:30, 15:00 és 16:30 órakor",
+    "ro": "Tururi ghidate zilnic la 13:30, 15:00 și 16:30",
+    "en": "Guided tours daily at 13:30, 15:00, and 16:30"
+  },
+  "entranceFee": {
+    "de": "9000 HUF für die Führung, Vorstellungen variieren stark",
+    "hu": "9000 HUF a vezetett túra, az előadások ára változó",
+    "ro": "9000 HUF pentru tur, prețurile spectacolelor variază semnificativ",
+    "en": "9000 HUF for the tour, show prices vary widely"
+  },
   "website": "https://www.opera.hu/",
-  "publicTransport": "Gelbe U-Bahn M1 bis zur Station Opera direkt vor dem Gebäude.",
-  "parking": "Sehr schwierig; kostenpflichtiges Parkhaus 'Opera Parking' in der Zichy Jenő utca.",
-  "accessibility": "Vollständig barrierefrei durch spezielle Aufzüge zu allen Logenrängen.",
-  "photoRules": "Fotografieren nur während der geführten Touren ohne Blitzlicht erlaubt.",
-  "bestTimeToVisit": "Eine Abendvorstellung bietet das authentischste Erlebnis der prunkvollen Architektur.",
-  "audioGuide": "Führungen in HU, EN, DE, ES, FR, IT"
+  "publicTransport": {
+    "de": "Gelbe U-Bahn M1 bis zur Station Opera direkt vor dem Gebäude.",
+    "hu": "Sárga M1-es metró az Opera állomásig, közvetlenül az épület előtt.",
+    "ro": "Linia galbenă de metrou M1 până la stația Opera, chiar în fața clădirii.",
+    "en": "Yellow M1 metro to Opera station, directly in front of the building."
+  },
+  "parking": {
+    "de": "Sehr schwierig; kostenpflichtiges Parkhaus 'Opera Parking' in der Zichy Jenő utca.",
+    "hu": "Nagyon nehéz; fizetős 'Opera Parking' parkolóház a Zichy Jenő utcában.",
+    "ro": "Foarte dificil; parcare cu plată 'Opera Parking' pe strada Zichy Jenő.",
+    "en": "Very difficult; paid 'Opera Parking' garage on Zichy Jenő street."
+  },
+  "accessibility": {
+    "de": "Vollständig barrierefrei durch spezielle Aufzüge zu allen Logenrängen.",
+    "hu": "Teljesen akadálymentes speciális liftekkel az összes páholyszintre.",
+    "ro": "Complet accesibil prin lifturi speciale către toate rândurile de loje.",
+    "en": "Fully accessible via special elevators to all box levels."
+  },
+  "photoRules": {
+    "de": "Fotografieren nur während der geführten Touren ohne Blitzlicht erlaubt.",
+    "hu": "Fényképezés csak a vezetett túrák alatt engedélyezett, vaku nélkül.",
+    "ro": "Fotografierea este permisă doar în timpul tururilor ghidate, fără bliț.",
+    "en": "Photography only permitted during guided tours without flash."
+  },
+  "bestTimeToVisit": {
+    "de": "Eine Abendvorstellung bietet das authentischste Erlebnis der prunkvollen Architektur.",
+    "hu": "Egy esti előadás kínálja a leghitelesebb élményt a pazar építészetről.",
+    "ro": "Un spectacol de seară oferă cea mai autentică experiență a arhitecturii somptuoase.",
+    "en": "An evening performance offers the most authentic experience of the magnificent architecture."
+  },
+  "audioGuide": {
+    "de": "Führungen in HU, EN, DE, ES, FR, IT",
+    "hu": "Vezetett túrák: HU, EN, DE, ES, FR, IT",
+    "ro": "Tururi ghidate în: HU, EN, DE, ES, FR, IT",
+    "en": "Tours in: HU, EN, DE, ES, FR, IT"
+  }
 }

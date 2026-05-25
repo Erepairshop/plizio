@@ -1,12 +1,57 @@
 {
-  "address": "Bulevardul 1 Decembrie 1918, 525200 Covasna",
-  "openingHours": "24/7",
-  "entranceFee": "kostenlos",
+  "address": {
+    "de": "Bulevardul 1 Decembrie 1918, 525200 Covasna",
+    "hu": "Bulevardul 1 Decembrie 1918, 525200 Kovászna",
+    "ro": "Bulevardul 1 Decembrie 1918, 525200 Covasna",
+    "en": "Bulevardul 1 Decembrie 1918, 525200 Covasna"
+  },
+  "openingHours": {
+    "de": "24/7",
+    "hu": "Non-stop",
+    "ro": "Non-stop",
+    "en": "24/7"
+  },
+  "entranceFee": {
+    "de": "kostenlos",
+    "hu": "ingyenes",
+    "ro": "gratuit",
+    "en": "free"
+  },
   "website": "http://www.primariacovasna.ro",
-  "publicTransport": "Zug bis Bahnhof Covasna (ca. 3 km vom Zentrum), Busse von Sfântu Gheorghe",
-  "parking": "Parkmöglichkeiten entlang der Hauptstraßen (meist kostenlos)",
-  "accessibility": "Zentrum und Kurpark weitgehend eben und barrierefrei",
-  "photoRules": "Erlaubt; die 'Mofetten' (Gasaustritte) sind interessante Dokumentationsmotive",
-  "bestTimeToVisit": "Sommer für die Waldspaziergänge oder Winter für Wellness",
-  "audioGuide": "nein"
+  "publicTransport": {
+    "de": "Zug bis Bahnhof Covasna (ca. 3 km vom Zentrum), Busse von Sfântu Gheorghe",
+    "hu": "Vonattal Kovászna állomásig (kb. 3 km a központtól), buszok Sepsiszentgyörgyről",
+    "ro": "Tren până la gara Covasna (aprox. 3 km de centru), autobuze din Sfântu Gheorghe",
+    "en": "Train to Covasna station (approx. 3 km from center), buses from Sfântu Gheorghe"
+  },
+  "parking": {
+    "de": "Parkmöglichkeiten entlang der Hauptstraßen (meist kostenlos)",
+    "hu": "Parkolási lehetőség a főutak mentén (többnyire ingyenes)",
+    "ro": "Posibilități de parcare de-a lungul străzilor principale (de obicei gratuit)",
+    "en": "Parking along main streets (mostly free)"
+  },
+  "accessibility": {
+    "de": "Zentrum und Kurpark weitgehend eben und barrierefrei",
+    "hu": "A központ és a gyógypark jórészt sík és akadálymentesített",
+    "ro": "Centrul și parcul balnear sunt în mare parte plane și accesibile",
+    "en": "Center and spa park largely flat and accessible"
+  },
+  "photoRules": {
+    "de": "Erlaubt; die 'Mofetten' (Gasaustritte) sind interessante Dokumentationsmotive",
+    "hu": "Megengedett; a 'mofetták' (gázkitörések) érdekes fotótémák",
+    "ro": "Permis; 'mofetele' (emanații de gaze) sunt motive documentare interesante",
+    "en": "Allowed; the 'mofettes' (gas emissions) are interesting photographic motifs"
+  },
+  "bestTimeToVisit": {
+    "de": "Sommer für die Waldspaziergänge oder Winter für Wellness",
+    "hu": "Nyár az erdei sétákhoz, vagy tél a wellnesshez",
+    "ro": "Vara pentru plimbările în pădure sau iarna pentru wellness",
+    "en": "Summer for forest walks or winter for wellness"
+  },
+  "audioGuide": {
+    "de": "nein",
+    "hu": "nem",
+    "ro": "nu",
+    "en": "no"
+  }
 }

@@ -1,12 +1,57 @@
 {
-  "address": "Montée de l'Emir Abd el Kader, 37400 Amboise",
-  "openingHours": "Mo-Su 09:00-19:00 (Saisonzeiten beachten)",
-  "entranceFee": "€15.50 Erwachsene, €10.20 Kinder",
+  "address": {
+    "de": "Montée de l'Emir Abd el Kader, 37400 Amboise",
+    "hu": "Montée de l'Emir Abd el Kader, 37400 Amboise",
+    "ro": "Montée de l'Emir Abd el Kader, 37400 Amboise",
+    "en": "Montée de l'Emir Abd el Kader, 37400 Amboise"
+  },
+  "openingHours": {
+    "de": "Mo-Su 09:00-19:00 (Saisonzeiten beachten)",
+    "hu": "Hé-Va 09:00-19:00 (figyelembe véve a szezonális nyitvatartást)",
+    "ro": "Lun-Dum 09:00-19:00 (atenție la orarul sezonier)",
+    "en": "Mon-Sun 09:00-19:00 (check seasonal hours)"
+  },
+  "entranceFee": {
+    "de": "€15.50 Erwachsene, €10.20 Kinder",
+    "hu": "15,50 € felnőtteknek, 10,20 € gyerekeknek",
+    "ro": "15,50 € adulți, 10,20 € copii",
+    "en": "€15.50 adults, €10.20 children"
+  },
   "website": "https://www.chateau-amboise.com",
-  "publicTransport": "Regionalzug bis Amboise, dann 15 Min. Fußweg über die Brücke",
-  "parking": "Parkplatz Place Foch direkt am Fuße des Schlosses",
-  "accessibility": "Gärten und Erdgeschoss zugänglich, historische Türme nur über Treppen",
-  "photoRules": "Fotografieren ohne Blitz in den Innenräumen erlaubt",
-  "bestTimeToVisit": "Früh morgens, um die Grabkapelle von Leonardo da Vinci in Ruhe zu sehen",
-  "audioGuide": "DE, EN, FR, IT, ES, ZH, JP, RU, PL, PT"
+  "publicTransport": {
+    "de": "Regionalzug bis Amboise, dann 15 Min. Fußweg über die Brücke",
+    "hu": "Regionális vonat Amboise-ig, majd 15 perc séta a hídon át",
+    "ro": "Tren regional până la Amboise, apoi 15 min. de mers pe jos peste pod",
+    "en": "Regional train to Amboise, then a 15-minute walk across the bridge"
+  },
+  "parking": {
+    "de": "Parkplatz Place Foch direkt am Fuße des Schlosses",
+    "hu": "Place Foch parkoló közvetlenül a kastély tövében",
+    "ro": "Parcarea Place Foch chiar la picioarele castelului",
+    "en": "Place Foch parking lot directly at the foot of the castle"
+  },
+  "accessibility": {
+    "de": "Gärten und Erdgeschoss zugänglich, historische Türme nur über Treppen",
+    "hu": "A kertek és a földszint akadálymentesek, a történelmi tornyok csak lépcsőn érhetők el",
+    "ro": "Grădinile și parterul sunt accesibile, turnurile istorice doar prin scări",
+    "en": "Gardens and ground floor accessible, historic towers via stairs only"
+  },
+  "photoRules": {
+    "de": "Fotografieren ohne Blitz in den Innenräumen erlaubt",
+    "hu": "A belső terekben vaku nélkül szabad fényképezni",
+    "ro": "Fotografierea fără bliț este permisă în interior",
+    "en": "Photography without flash is permitted in the interiors"
+  },
+  "bestTimeToVisit": {
+    "de": "Früh morgens, um die Grabkapelle von Leonardo da Vinci in Ruhe zu sehen",
+    "hu": "Kora reggel, hogy nyugodtan megtekinthesse Leonardo da Vinci sírkápolnáját",
+    "ro": "Dimineața devreme pentru a vedea capela funerară a lui Leonardo da Vinci în liniște",
+    "en": "Early morning to see Leonardo da Vinci's tomb chapel in peace"
+  },
+  "audioGuide": {
+    "de": "DE, EN, FR, IT, ES, ZH, JP, RU, PL, PT",
+    "hu": "DE, EN, FR, IT, ES, ZH, JP, RU, PL, PT",
+    "ro": "DE, EN, FR, IT, ES, ZH, JP, RU, PL, PT",
+    "en": "DE, EN, FR, IT, ES, ZH, JP, RU, PL, PT"
+  }
 }

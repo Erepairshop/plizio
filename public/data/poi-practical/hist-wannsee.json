@@ -1,12 +1,57 @@
 {
-  "address": "Am Großen Wannsee 56-58, 14109 Berlin",
-  "openingHours": "Mo-So 10:00-18:00",
-  "entranceFee": "kostenlos",
+  "address": {
+    "de": "Am Großen Wannsee 56-58, 14109 Berlin",
+    "hu": "Am Großen Wannsee 56-58, 14109 Berlin, Németország",
+    "ro": "Am Großen Wannsee 56-58, 14109 Berlin, Germania",
+    "en": "Am Großen Wannsee 56-58, 14109 Berlin, Germany"
+  },
+  "openingHours": {
+    "de": "Mo-So 10:00-18:00",
+    "hu": "H-V 10:00-18:00",
+    "ro": "L-D 10:00-18:00",
+    "en": "Mon-Sun 10:00-18:00"
+  },
+  "entranceFee": {
+    "de": "kostenlos",
+    "hu": "ingyenes",
+    "ro": "gratuit",
+    "en": "free"
+  },
   "website": "https://www.ghwk.de",
-  "publicTransport": "S1/S7 bis Wannsee, dann Bus 114 (Haus der Wannsee-Konferenz)",
-  "parking": "Begrenzte kostenlose Parkplätze auf dem Gelände.",
-  "accessibility": "Vollständig barrierefrei zugänglich.",
-  "photoRules": "In der Ausstellung nicht erwünscht, außen erlaubt.",
-  "bestTimeToVisit": "Vormittags an Wochentagen, um Schulklassen zu meiden.",
-  "audioGuide": "ja (diverse Sprachen)"
+  "publicTransport": {
+    "de": "S1/S7 bis Wannsee, dann Bus 114 (Haus der Wannsee-Konferenz)",
+    "hu": "S1/S7 vasút Wannsee állomásig, majd 114-es busz",
+    "ro": "S1/S7 până la Wannsee, apoi autobuzul 114",
+    "en": "S1/S7 to Wannsee, then bus 114"
+  },
+  "parking": {
+    "de": "Begrenzte kostenlose Parkplätze auf dem Gelände.",
+    "hu": "Korlátozott számú ingyenes parkolóhely a területen.",
+    "ro": "Locuri de parcare gratuite limitate în incintă.",
+    "en": "Limited free parking spaces on the grounds."
+  },
+  "accessibility": {
+    "de": "Vollständig barrierefrei zugänglich.",
+    "hu": "Teljesen akadálymentesített.",
+    "ro": "Complet accesibil pentru persoane cu dizabilități.",
+    "en": "Fully accessible."
+  },
+  "photoRules": {
+    "de": "In der Ausstellung nicht erwünscht, außen erlaubt.",
+    "hu": "A kiállításon nem kívánatos, kívül engedélyezett.",
+    "ro": "Nerecomandat în expoziție, permis în exterior.",
+    "en": "Not desired in the exhibition, allowed outside."
+  },
+  "bestTimeToVisit": {
+    "de": "Vormittags an Wochentagen, um Schulklassen zu meiden.",
+    "hu": "Hétköznap délelőtt, az iskoláscsoportok elkerülése végett.",
+    "ro": "Dimineața în zilele lucrătoare, pentru a evita grupurile școlare.",
+    "en": "Weekday mornings to avoid school groups."
+  },
+  "audioGuide": {
+    "de": "ja (diverse Sprachen)",
+    "hu": "igen (több nyelven)",
+    "ro": "da (diverse limbi)",
+    "en": "yes (various languages)"
+  }
 }

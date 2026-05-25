@@ -1,12 +1,57 @@
 {
-  "address": "Isle of Staffa, Inner Hebrides",
-  "openingHours": "Abhängig von Bootsverbindungen (meist April-Oktober)",
-  "entranceFee": "free (Bootstour ca. £40-£60 pro Person)",
+  "address": {
+    "de": "Isle of Staffa, Inner Hebrides",
+    "hu": "Staffa-sziget, Belső-Hebridák",
+    "ro": "Insula Staffa, Hebridele Interioare",
+    "en": "Isle of Staffa, Inner Hebrides"
+  },
+  "openingHours": {
+    "de": "Abhängig von Bootsverbindungen (meist April-Oktober)",
+    "hu": "Hajójárattól függően (főleg április-október)",
+    "ro": "Depinde de legăturile cu barca (în general aprilie-octombrie)",
+    "en": "Depends on boat connections (mostly April-October)"
+  },
+  "entranceFee": {
+    "de": "free (Bootstour ca. £40-£60 pro Person)",
+    "hu": "ingyenes (hajótúra kb. £40-£60/fő)",
+    "ro": "gratuit (tur cu barca aprox. £40-£60/persoană)",
+    "en": "free (boat tour approx. £40-£60 per person)"
+  },
   "website": "https://www.nts.org.uk/visit/places/staffa",
-  "publicTransport": "Fähre ab Oban nach Mull, dann Ausflugsboot ab Fionnphort oder Ulva Ferry",
-  "parking": "Parkplatz am Fährhafen in Fionnphort (kostenpflichtig).",
-  "accessibility": "Nicht barrierefrei; Zugang zur Höhle über rutschige Basaltsäulen und schmale Pfade.",
-  "photoRules": "Erlaubt, Weitwinkelobjektiv für das Innere der Höhle empfohlen.",
-  "bestTimeToVisit": "Bei ruhiger See; bei starkem Westwind können Boote nicht anlegen.",
-  "audioGuide": "no"
+  "publicTransport": {
+    "de": "Fähre ab Oban nach Mull, dann Ausflugsboot ab Fionnphort oder Ulva Ferry",
+    "hu": "Komp Obanból Mull szigetére, majd kirándulóhajó Fionnphortból vagy Ulva Ferry-ből",
+    "ro": "Feribot din Oban spre Mull, apoi barcă de excursii din Fionnphort sau Ulva Ferry",
+    "en": "Ferry from Oban to Mull, then excursion boat from Fionnphort or Ulva Ferry"
+  },
+  "parking": {
+    "de": "Parkplatz am Fährhafen in Fionnphort (kostenpflichtig).",
+    "hu": "Parkoló a fionnphorti kompkikötőnél (fizetős).",
+    "ro": "Parcare la terminalul de feribot din Fionnphort (cu plată).",
+    "en": "Car park at the ferry terminal in Fionnphort (paid)."
+  },
+  "accessibility": {
+    "de": "Nicht barrierefrei; Zugang zur Höhle über rutschige Basaltsäulen und schmale Pfade.",
+    "hu": "Nem akadálymentes; a barlanghoz csúszós bazaltoszlopokon és keskeny ösvényeken át vezet az út.",
+    "ro": "Nu este accesibil; accesul la peșteră se face prin coloane de bazalt alunecoase și poteci înguste.",
+    "en": "Not accessible; access to the cave via slippery basalt columns and narrow paths."
+  },
+  "photoRules": {
+    "de": "Erlaubt, Weitwinkelobjektiv für das Innere der Höhle empfohlen.",
+    "hu": "Engedélyezett, a barlang belsejéhez nagylátószögű objektív ajánlott.",
+    "ro": "Permis, se recomandă obiectiv cu unghi larg pentru interiorul peșterii.",
+    "en": "Allowed, wide-angle lens recommended for the inside of the cave."
+  },
+  "bestTimeToVisit": {
+    "de": "Bei ruhiger See; bei starkem Westwind können Boote nicht anlegen.",
+    "hu": "Nyugodt tenger esetén; erős nyugati szélben a hajók nem tudnak kikötni.",
+    "ro": "Pe mare calmă; în vânt puternic de vest bărcile nu pot acosta.",
+    "en": "In calm seas; in strong westerly winds, boats cannot dock."
+  },
+  "audioGuide": {
+    "de": "no",
+    "hu": "nem",
+    "ro": "nu",
+    "en": "no"
+  }
 }

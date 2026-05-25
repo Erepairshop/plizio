@@ -1,12 +1,57 @@
 {
-  "address": "Șoseaua Pavel D. Kiseleff 1, 011341 București",
-  "openingHours": "Di-Fr 10:00-18:00, Sa-So 10:00-19:00, Mo geschlossen",
-  "entranceFee": "20 RON Erwachsene, 5 RON Schüler/Studenten",
+  "address": {
+    "de": "Șoseaua Pavel D. Kiseleff 1, 011341 București",
+    "hu": "Șoseaua Pavel D. Kiseleff 1, 011341 Bukarest",
+    "ro": "Șoseaua Pavel D. Kiseleff 1, 011341 București",
+    "en": "1 Șoseaua Pavel D. Kiseleff, 011341 Bucharest"
+  },
+  "openingHours": {
+    "de": "Di-Fr 10:00-18:00, Sa-So 10:00-19:00, Mo geschlossen",
+    "hu": "K-P 10:00-18:00, Szo-V 10:00-19:00, hétfőn zárva",
+    "ro": "Ma-Vi 10:00-18:00, Sâ-Du 10:00-19:00, Luni închis",
+    "en": "Tue-Fri 10:00-18:00, Sat-Sun 10:00-19:00, closed Mondays"
+  },
+  "entranceFee": {
+    "de": "20 RON Erwachsene, 5 RON Schüler/Studenten",
+    "hu": "20 RON felnőtt, 5 RON diák/hallgató",
+    "ro": "20 RON adulți, 5 RON elevi/studenți",
+    "en": "20 RON adults, 5 RON students"
+  },
   "website": "https://antipa.ro/",
-  "publicTransport": "Metro M1, M2 (Haltestelle Piața Victoriei)",
-  "parking": "Kein eigener Parkplatz; Parkmöglichkeiten in den Seitenstraßen (gebührenpflichtig).",
-  "accessibility": "Vollständig barrierefrei mit Aufzügen und Rampen ausgestattet.",
-  "photoRules": "Fotografieren ohne Blitz gegen eine kleine Zusatzgebühr erlaubt.",
-  "bestTimeToVisit": "Wochentags vormittags, um Schulklassen und Wochenendandrang zu meiden.",
-  "audioGuide": "ro, en"
+  "publicTransport": {
+    "de": "Metro M1, M2 (Haltestelle Piața Victoriei)",
+    "hu": "M1, M2 metró (Piața Victoriei megálló)",
+    "ro": "Metrou M1, M2 (stația Piața Victoriei)",
+    "en": "Metro M1, M2 (Piața Victoriei station)"
+  },
+  "parking": {
+    "de": "Kein eigener Parkplatz; Parkmöglichkeiten in den Seitenstraßen (gebührenpflichtig).",
+    "hu": "Nincs saját parkoló; parkolási lehetőség a mellékutcákban (díjköteles).",
+    "ro": "Nu are parcare proprie; posibilități de parcare în străzile adiacente (cu taxă).",
+    "en": "No private parking; parking available in side streets (fee applies)."
+  },
+  "accessibility": {
+    "de": "Vollständig barrierefrei mit Aufzügen und Rampen ausgestattet.",
+    "hu": "Teljesen akadálymentesített, liftekkel és rámpákkal felszerelt.",
+    "ro": "Complet accesibil, dotat cu lifturi și rampe.",
+    "en": "Fully accessible, equipped with elevators and ramps."
+  },
+  "photoRules": {
+    "de": "Fotografieren ohne Blitz gegen eine kleine Zusatzgebühr erlaubt.",
+    "hu": "Vaku nélküli fotózás kis felár ellenében engedélyezett.",
+    "ro": "Fotografiatul fără bliț este permis contra unei mici taxe suplimentare.",
+    "en": "Photography without flash allowed for a small additional fee."
+  },
+  "bestTimeToVisit": {
+    "de": "Wochentags vormittags, um Schulklassen und Wochenendandrang zu meiden.",
+    "hu": "Hétköznap délelőtt, az iskoláscsoportok és a hétvégi tömeg elkerülése érdekében.",
+    "ro": "În diminețile din timpul săptămânii, pentru a evita grupurile școlare și aglomerația de weekend.",
+    "en": "Weekday mornings to avoid school groups and weekend crowds."
+  },
+  "audioGuide": {
+    "de": "ro, en",
+    "hu": "román, angol",
+    "ro": "ro, en",
+    "en": "ro, en"
+  }
 }

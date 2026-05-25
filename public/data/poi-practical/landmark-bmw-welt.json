@@ -1,12 +1,57 @@
 {
-  "address": "Am Olympiapark 1, 80809 München",
-  "openingHours": "Welt: Mo-Sa 07:30-00:00, So 09:00-00:00; Museum: Di-So 10:00-18:00",
-  "entranceFee": "BMW Welt kostenlos, Museum 10€ Erwachsene",
+  "address": {
+    "de": "Am Olympiapark 1, 80809 München",
+    "hu": "Am Olympiapark 1, 80809 München",
+    "ro": "Am Olympiapark 1, 80809 München",
+    "en": "Am Olympiapark 1, 80809 Munich"
+  },
+  "openingHours": {
+    "de": "Welt: Mo-Sa 07:30-00:00, So 09:00-00:00; Museum: Di-So 10:00-18:00",
+    "hu": "Welt: H-Szo 07:30-00:00, V 09:00-00:00; Múzeum: K-V 10:00-18:00",
+    "ro": "Welt: Lun-Sâm 07:30-00:00, Dum 09:00-00:00; Muzeu: Mar-Dum 10:00-18:00",
+    "en": "Welt: Mon-Sat 07:30-00:00, Sun 09:00-00:00; Museum: Tue-Sun 10:00-18:00"
+  },
+  "entranceFee": {
+    "de": "BMW Welt kostenlos, Museum 10€ Erwachsene",
+    "hu": "BMW Welt ingyenes, múzeum 10 € felnőtteknek",
+    "ro": "BMW Welt gratuit, muzeu 10 € adulți",
+    "en": "BMW Welt free, museum €10 for adults"
+  },
   "website": "https://www.bmw-welt.com",
-  "publicTransport": "U-Bahn U3 bis Haltestelle Olympiazentrum.",
-  "parking": "Hauseigene Tiefgarage, ca. 2,50€ pro Stunde.",
-  "accessibility": "Vollständig barrierefrei mit breiten Rampen und großen Aufzügen.",
-  "photoRules": "Privat erlaubt, Stativnutzung im Museumsbereich meist untersagt.",
-  "bestTimeToVisit": "Vormittags unter der Woche (Achtung: Museum montags geschlossen).",
-  "audioGuide": "Deutsch und Englisch über die BMW Museum App"
+  "publicTransport": {
+    "de": "U-Bahn U3 bis Haltestelle Olympiazentrum.",
+    "hu": "U3 metró az Olympiazentrum megállóig.",
+    "ro": "Metrou U3 până la stația Olympiazentrum.",
+    "en": "Subway U3 to Olympiazentrum station."
+  },
+  "parking": {
+    "de": "Hauseigene Tiefgarage, ca. 2,50€ pro Stunde.",
+    "hu": "Saját mélygarázs, kb. 2,50 €/óra.",
+    "ro": "Parcare subterană proprie, aprox. 2,50 € pe oră.",
+    "en": "In-house underground parking, approx. €2.50 per hour."
+  },
+  "accessibility": {
+    "de": "Vollständig barrierefrei mit breiten Rampen und großen Aufzügen.",
+    "hu": "Teljesen akadálymentesített széles rámpákkal és nagy liftekkel.",
+    "ro": "Complet accesibil cu rampe late și lifturi mari.",
+    "en": "Fully accessible with wide ramps and large elevators."
+  },
+  "photoRules": {
+    "de": "Privat erlaubt, Stativnutzung im Museumsbereich meist untersagt.",
+    "hu": "Magáncélú engedélyezett, állvány használata a múzeumban általában tilos.",
+    "ro": "Permis în scop privat, utilizarea trepiedului în muzeu este de obicei interzisă.",
+    "en": "Private use allowed, tripod use in the museum is usually prohibited."
+  },
+  "bestTimeToVisit": {
+    "de": "Vormittags unter der Woche (Achtung: Museum montags geschlossen).",
+    "hu": "Hétköznap délelőtt (Figyelem: a múzeum hétfőn zárva).",
+    "ro": "Dimineața în timpul săptămânii (Atenție: muzeul este închis lunea).",
+    "en": "Mornings during the week (Note: museum is closed on Mondays)."
+  },
+  "audioGuide": {
+    "de": "Deutsch und Englisch über die BMW Museum App",
+    "hu": "Német és angol nyelvű a BMW Museum alkalmazáson keresztül",
+    "ro": "Germană și engleză prin aplicația BMW Museum",
+    "en": "German and English via the BMW Museum app"
+  }
 }

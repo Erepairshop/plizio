@@ -1,12 +1,57 @@
 {
-  "address": "Nikolaikirchhof, 04109 Leipzig",
-  "openingHours": "24/7",
-  "entranceFee": "kostenfrei",
+  "address": {
+    "de": "Nikolaikirchhof, 04109 Leipzig",
+    "hu": "Nikolaikirchhof, 04109 Lipcse",
+    "ro": "Nikolaikirchhof, 04109 Leipzig",
+    "en": "Nikolaikirchhof, 04109 Leipzig"
+  },
+  "openingHours": {
+    "de": "24/7",
+    "hu": "0-24 (non-stop)",
+    "ro": "non-stop",
+    "en": "24/7"
+  },
+  "entranceFee": {
+    "de": "kostenfrei",
+    "hu": "ingyenes",
+    "ro": "gratuit",
+    "en": "free of charge"
+  },
   "website": "https://www.nikolaikirche.de",
-  "publicTransport": "S-Bahn bis Markt oder Tram bis Augustusplatz",
-  "parking": "Parkhäuser in der Innenstadt (z.B. Augustusplatz), ca. 2,50 €/Std.",
-  "accessibility": "Nikolaikirchhof ist ebenerdig und voll barrierefrei.",
-  "photoRules": "Draußen erlaubt, in der Kirche nur ohne Blitz.",
-  "bestTimeToVisit": "Montags um 17:00 Uhr zum Friedensgebet in der Kirche.",
-  "audioGuide": "nein"
+  "publicTransport": {
+    "de": "S-Bahn bis Markt oder Tram bis Augustusplatz",
+    "hu": "S-Bahn a Markt megállóig vagy villamos az Augustusplatzig",
+    "ro": "S-Bahn până la stația Markt sau tramvai până la Augustusplatz",
+    "en": "S-Bahn to Markt or tram to Augustusplatz"
+  },
+  "parking": {
+    "de": "Parkhäuser in der Innenstadt (z.B. Augustusplatz), ca. 2,50 €/Std.",
+    "hu": "Belvárosi parkolóházak (pl. Augustusplatz), kb. 2,50 €/óra.",
+    "ro": "Parcări subterane în centrul orașului (ex. Augustusplatz), cca. 2,50 €/oră.",
+    "en": "City center parking garages (e.g., Augustusplatz), approx. € 2.50/hr."
+  },
+  "accessibility": {
+    "de": "Nikolaikirchhof ist ebenerdig und voll barrierefrei.",
+    "hu": "A Nikolaikirchhof szintbeli és teljesen akadálymentesített.",
+    "ro": "Nikolaikirchhof este la nivelul solului și complet accesibil.",
+    "en": "Nikolaikirchhof is level and fully accessible."
+  },
+  "photoRules": {
+    "de": "Draußen erlaubt, in der Kirche nur ohne Blitz.",
+    "hu": "Kültéren megengedett, a templomban csak vaku nélkül.",
+    "ro": "Permis la exterior, în biserică doar fără bliț.",
+    "en": "Allowed outside, inside the church only without flash."
+  },
+  "bestTimeToVisit": {
+    "de": "Montags um 17:00 Uhr zum Friedensgebet in der Kirche.",
+    "hu": "Hétfőnként 17:00 órakor a templomi békeimádság idején.",
+    "ro": "Lunea la ora 17:00 pentru rugăciunea de pace în biserică.",
+    "en": "Mondays at 5:00 PM for the peace prayer in the church."
+  },
+  "audioGuide": {
+    "de": "nein",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

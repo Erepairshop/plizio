@@ -1,12 +1,57 @@
 {
-  "address": "Schlossgasse, 3280 Murten, Schweiz",
-  "openingHours": "Schlosshof täglich 08:00-18:00; Innenräume sind Verwaltungsbüros",
-  "entranceFee": "kostenlos",
+  "address": {
+    "de": "Schlossgasse, 3280 Murten, Schweiz",
+    "hu": "Schlossgasse, 3280 Murten, Svájc",
+    "ro": "Schlossgasse, 3280 Murten, Elveția",
+    "en": "Schlossgasse, 3280 Murten, Switzerland"
+  },
+  "openingHours": {
+    "de": "Schlosshof täglich 08:00-18:00; Innenräume sind Verwaltungsbüros",
+    "hu": "Kastélyudvar naponta 08:00-18:00; a belső terek adminisztratív irodák",
+    "ro": "Curtea castelului zilnic 08:00-18:00; interioarele sunt birouri administrative",
+    "en": "Castle courtyard daily 08:00-18:00; interiors are administrative offices"
+  },
+  "entranceFee": {
+    "de": "kostenlos",
+    "hu": "ingyenes",
+    "ro": "gratuit",
+    "en": "free"
+  },
   "website": "https://www.regionmurtensee.ch/",
-  "publicTransport": "Bahnhof Murten, ca. 10 Min Fußweg durch die Altstadt",
-  "parking": "Parkplätze vor der Stadtmauer (z.B. Parkplatz Viehmarkt, gebührenpflichtig)",
-  "accessibility": "Der Schlosshof ist barrierefrei zugänglich",
-  "photoRules": "Erlaubt",
-  "bestTimeToVisit": "In Kombination mit einem Rundgang auf der begehbaren Ringmauer der Stadt",
-  "audioGuide": "nein"
+  "publicTransport": {
+    "de": "Bahnhof Murten, ca. 10 Min Fußweg durch die Altstadt",
+    "hu": "Murten vasútállomás, kb. 10 perc gyalog az óvároson át",
+    "ro": "Gara Murten, aprox. 10 min. de mers pe jos prin orașul vechi",
+    "en": "Murten train station, approx. 10 min. walk through the old town"
+  },
+  "parking": {
+    "de": "Parkplätze vor der Stadtmauer (z.B. Parkplatz Viehmarkt, gebührenpflichtig)",
+    "hu": "Parkolók a városfal előtt (pl. Viehmarkt parkoló, fizetős)",
+    "ro": "Parcări în fața zidului orașului (ex. parcarea Viehmarkt, cu plată)",
+    "en": "Parking spaces in front of the city wall (e.g. Viehmarkt parking, paid)"
+  },
+  "accessibility": {
+    "de": "Der Schlosshof ist barrierefrei zugänglich",
+    "hu": "A kastélyudvar akadálymentesen megközelíthető",
+    "ro": "Curtea castelului este accesibilă fără bariere",
+    "en": "The castle courtyard is barrier-free accessible"
+  },
+  "photoRules": {
+    "de": "Erlaubt",
+    "hu": "Engedélyezett",
+    "ro": "Permis",
+    "en": "Allowed"
+  },
+  "bestTimeToVisit": {
+    "de": "In Kombination mit einem Rundgang auf der begehbaren Ringmauer der Stadt",
+    "hu": "A város bejárható körfalán tett sétával kombinálva",
+    "ro": "În combinație cu o plimbare pe zidul circular al orașului",
+    "en": "In combination with a walk on the accessible circular city wall"
+  },
+  "audioGuide": {
+    "de": "nein",
+    "hu": "nem",
+    "ro": "nu",
+    "en": "no"
+  }
 }

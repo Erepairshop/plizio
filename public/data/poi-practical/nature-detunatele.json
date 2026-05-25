@@ -1,12 +1,57 @@
 {
-  "address": "DN74A, 517115 Bucium, Alba",
-  "openingHours": "24/7",
-  "entranceFee": "free",
+  "address": {
+    "de": "DN74A, 517115 Bucium, Alba",
+    "hu": "DN74A, 517115 Bucium, Fehér megye",
+    "ro": "DN74A, 517115 Bucium, Alba",
+    "en": "DN74A, 517115 Bucium, Alba"
+  },
+  "openingHours": {
+    "de": "24/7",
+    "hu": "24/7",
+    "ro": "24/7",
+    "en": "24/7"
+  },
+  "entranceFee": {
+    "de": "free",
+    "hu": "ingyenes",
+    "ro": "gratuit",
+    "en": "free"
+  },
   "website": "",
-  "publicTransport": "Kein direkter ÖPNV; Anfahrt über Abrud per PKW empfohlen",
-  "parking": "Parken im Dorf Bucium oder an markierten Wanderstarts, kostenlos",
-  "accessibility": "Nicht barrierefrei; steiler Aufstieg zu den Basaltsäulen (ca. 45-60 Min.)",
-  "photoRules": "Erlaubt; Detailaufnahmen der sechseckigen Basaltstelen besonders reizvoll",
-  "bestTimeToVisit": "Später Nachmittag, wenn die Sonne die Felswand direkt anstrahlt",
-  "audioGuide": "no"
+  "publicTransport": {
+    "de": "Kein direkter ÖPNV; Anfahrt über Abrud per PKW empfohlen",
+    "hu": "Nincs közvetlen tömegközlekedés; autóval Abrud felől ajánlott",
+    "ro": "Fără transport public direct; recomandat accesul cu mașina prin Abrud",
+    "en": "No direct public transport; access by car via Abrud recommended"
+  },
+  "parking": {
+    "de": "Parken im Dorf Bucium oder an markierten Wanderstarts, kostenlos",
+    "hu": "Parkolás Bucium faluban vagy a jelzett túraútvonalak kezdeténél (ingyenes)",
+    "ro": "Parcare în satul Bucium sau la startul traseelor marcate (gratuit)",
+    "en": "Parking in the village of Bucium or at marked trail starts (free)"
+  },
+  "accessibility": {
+    "de": "Nicht barrierefrei; steiler Aufstieg zu den Basaltsäulen (ca. 45-60 Min.)",
+    "hu": "Nem akadálymentesített; meredek emelkedő a bazaltoszlopokhoz (kb. 45-60 perc)",
+    "ro": "Nu este accesibil; urcare abruptă către coloanele de bazalt (aprox. 45-60 min.)",
+    "en": "Not accessible; steep ascent to the basalt columns (approx. 45-60 min.)"
+  },
+  "photoRules": {
+    "de": "Erlaubt; Detailaufnahmen der sechseckigen Basaltstelen besonders reizvoll",
+    "hu": "Engedélyezett; a hatszögletű bazaltoszlopok részletei különösen izgalmasak",
+    "ro": "Permis; cadre detaliate ale coloanelor de bazalt hexagonale",
+    "en": "Allowed; detailed shots of the hexagonal basalt pillars especially appealing"
+  },
+  "bestTimeToVisit": {
+    "de": "Später Nachmittag, wenn die Sonne die Felswand direkt anstrahlt",
+    "hu": "Késő délután, amikor a nap közvetlenül a sziklafalat süti",
+    "ro": "După-amiaza târziu, când soarele bate direct pe peretele stâncos",
+    "en": "Late afternoon when the sun hits the rock face directly"
+  },
+  "audioGuide": {
+    "de": "no",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

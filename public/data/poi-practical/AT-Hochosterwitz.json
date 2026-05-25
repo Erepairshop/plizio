@@ -1,12 +1,57 @@
 {
-  "address": "Hochosterwitz 1, 9314 Launsdorf",
-  "openingHours": "Mo-Su 09:00-18:00",
-  "entranceFee": "€17 Erwachsene, €10 Kinder",
+  "address": {
+    "de": "Hochosterwitz 1, 9314 Launsdorf",
+    "hu": "Hochosterwitz 1, 9314 Launsdorf",
+    "ro": "Hochosterwitz 1, 9314 Launsdorf",
+    "en": "Hochosterwitz 1, 9314 Launsdorf"
+  },
+  "openingHours": {
+    "de": "Mo-Su 09:00-18:00",
+    "hu": "H-V 09:00-18:00",
+    "ro": "Lu-Du 09:00-18:00",
+    "en": "Mon-Sun 9:00 AM - 6:00 PM"
+  },
+  "entranceFee": {
+    "de": "€17 Erwachsene, €10 Kinder",
+    "hu": "17 € felnőtt, 10 € gyermek",
+    "ro": "17 € adulți, 10 € copii",
+    "en": "€17 adults, €10 children"
+  },
   "website": "https://www.burg-hochosterwitz.com",
-  "publicTransport": "Regionalzug nach Launsdorf-Hochosterwitz, dann ca. 2 km Fußweg.",
-  "parking": "Großer, gebührenpflichtiger Parkplatz direkt am Fuße des Burgfelsens.",
-  "accessibility": "Personenlift vorhanden, der Weg durch die 14 Tore ist steil und steinig.",
-  "photoRules": "Fotografieren im Freien erlaubt, in den Museumsräumen teilweise eingeschränkt.",
-  "bestTimeToVisit": "Vormittags unter der Woche, um die Tore ohne Zeitdruck zu durchwandern.",
-  "audioGuide": "In 6 Sprachen an der Kasse gegen Pfand erhältlich."
+  "publicTransport": {
+    "de": "Regionalzug nach Launsdorf-Hochosterwitz, dann ca. 2 km Fußweg.",
+    "hu": "Regionális vonat Launsdorf-Hochosterwitz állomásig, majd kb. 2 km gyalog.",
+    "ro": "Tren regional până la Launsdorf-Hochosterwitz, apoi aprox. 2 km de mers pe jos.",
+    "en": "Regional train to Launsdorf-Hochosterwitz, then approx. 2 km walk."
+  },
+  "parking": {
+    "de": "Großer, gebührenpflichtiger Parkplatz direkt am Fuße des Burgfelsens.",
+    "hu": "Nagy, fizetős parkoló közvetlenül a várhegy lábánál.",
+    "ro": "Parcare mare, cu plată, direct la poalele stâncii castelului.",
+    "en": "Large, paid parking lot directly at the foot of the castle rock."
+  },
+  "accessibility": {
+    "de": "Personenlift vorhanden, der Weg durch die 14 Tore ist steil und steinig.",
+    "hu": "Személylift van, de a 14 kapun átvezető út meredek és köves.",
+    "ro": "Lift pentru persoane disponibil, drumul prin cele 14 porți este abrupt și pietros.",
+    "en": "Passenger lift available; the path through the 14 gates is steep and stony."
+  },
+  "photoRules": {
+    "de": "Fotografieren im Freien erlaubt, in den Museumsräumen teilweise eingeschränkt.",
+    "hu": "Kültéren szabad fotózni, a múzeumi termekben részben korlátozott.",
+    "ro": "Fotografierea în aer liber permisă, în sălile muzeului parțial restricționată.",
+    "en": "Photography allowed outdoors; partially restricted inside museum rooms."
+  },
+  "bestTimeToVisit": {
+    "de": "Vormittags unter der Woche, um die Tore ohne Zeitdruck zu durchwandern.",
+    "hu": "Hétköznap délelőtt, hogy időnyomás nélkül haladhasson át a kapukon.",
+    "ro": "Dimineața în timpul săptămânii, pentru a trece prin porți fără presiunea timpului.",
+    "en": "Weekday mornings to walk through the gates without time pressure."
+  },
+  "audioGuide": {
+    "de": "In 6 Sprachen an der Kasse gegen Pfand erhältlich.",
+    "hu": "6 nyelven elérhető a pénztárnál letét ellenében.",
+    "ro": "Disponibil în 6 limbi la casierie contra unui depozit.",
+    "en": "Available in 6 languages at the ticket counter against a deposit."
+  }
 }

@@ -1,12 +1,57 @@
 {
-  "address": "Vatra Moldoviței 727595, Suceava",
-  "openingHours": "Mo-Su 09:00-18:00",
-  "entranceFee": "10 RON Erwachsene",
+  "address": {
+    "de": "Vatra Moldoviței 727595, Suceava",
+    "hu": "Vatra Moldoviței 727595, Suceava",
+    "ro": "Vatra Moldoviței 727595, Suceava",
+    "en": "Vatra Moldoviței 727595, Suceava"
+  },
+  "openingHours": {
+    "de": "Mo-Su 09:00-18:00",
+    "hu": "H-V 09:00-18:00",
+    "ro": "Lu-Du 09:00-18:00",
+    "en": "Mon-Sun 09:00-18:00"
+  },
+  "entranceFee": {
+    "de": "10 RON Erwachsene",
+    "hu": "10 RON felnőtt",
+    "ro": "10 RON adulți",
+    "en": "10 RON adults"
+  },
   "website": "",
-  "publicTransport": "Bahnhof Vatra Moldoviței (Mocănița-Anschluss)",
-  "parking": "Großer Parkplatz vor dem Wehrturm (ca. 5 RON)",
-  "accessibility": "Gut befestigte Wege im Klostergarten",
-  "photoRules": "Außenaufnahmen der Fresken erlaubt, Innenverbot",
-  "bestTimeToVisit": "Vormittags für die Ausleuchtung der Belagerungsszenen-Fresken",
-  "audioGuide": "ja"
+  "publicTransport": {
+    "de": "Bahnhof Vatra Moldoviței (Mocănița-Anschluss)",
+    "hu": "Vatra Moldoviței vasútállomás (Mocănița csatlakozás)",
+    "ro": "Gara Vatra Moldoviței (conexiune Mocănița)",
+    "en": "Vatra Moldoviței station (Mocănița connection)"
+  },
+  "parking": {
+    "de": "Großer Parkplatz vor dem Wehrturm (ca. 5 RON)",
+    "hu": "Nagy parkoló a bástya előtt (kb. 5 RON)",
+    "ro": "Parcare mare în fața turnului de apărare (cca. 5 RON)",
+    "en": "Large parking lot in front of the defensive tower (approx. 5 RON)"
+  },
+  "accessibility": {
+    "de": "Gut befestigte Wege im Klostergarten",
+    "hu": "Jól kiépített utak a kolostorkertben",
+    "ro": "Alei bine amenajate în grădina mănăstirii",
+    "en": "Well-paved paths in the monastery garden"
+  },
+  "photoRules": {
+    "de": "Außenaufnahmen der Fresken erlaubt, Innenverbot",
+    "hu": "Kültéri fotózás a freskóknál megengedett, bent tilos",
+    "ro": "Fotografii la exteriorul frescelor permise, interzis în interior",
+    "en": "Outdoor photos of frescoes allowed, prohibited inside"
+  },
+  "bestTimeToVisit": {
+    "de": "Vormittags für die Ausleuchtung der Belagerungsszenen-Fresken",
+    "hu": "Délelőtt, az ostromjeleneteket ábrázoló freskók kedvező megvilágítása miatt",
+    "ro": "Dimineața, pentru iluminarea frescelor cu scenele de asediu",
+    "en": "Mornings, for the best light on the siege scene frescoes"
+  },
+  "audioGuide": {
+    "de": "ja",
+    "hu": "igen",
+    "ro": "da",
+    "en": "yes"
+  }
 }

@@ -1,12 +1,57 @@
 {
-  "address": "Strada Muzeului 1-3, 400021 Cluj-Napoca (Ethnographisches Museum)",
-  "openingHours": "Jährlich am 24. Juni (Spezielle Events oft ab 17:00 Uhr)",
-  "entranceFee": "frei (Museumseintritt ca. 10-15 RON)",
+  "address": {
+    "de": "Strada Muzeului 1-3, 400021 Cluj-Napoca (Ethnographisches Museum)",
+    "hu": "Strada Muzeului 1-3, 400021 Kolozsvár (Néprajzi Múzeum)",
+    "ro": "Strada Muzeului 1-3, 400021 Cluj-Napoca (Muzeul Etnografic)",
+    "en": "Strada Muzeului 1-3, 400021 Cluj-Napoca (Ethnographic Museum)"
+  },
+  "openingHours": {
+    "de": "Jährlich am 24. Juni (Spezielle Events oft ab 17:00 Uhr)",
+    "hu": "Évente június 24-én (különleges események gyakran 17:00-től)",
+    "ro": "Anual pe 24 iunie (evenimente speciale adesea de la 17:00)",
+    "en": "Annually on June 24th (special events often from 17:00)"
+  },
+  "entranceFee": {
+    "de": "frei (Museumseintritt ca. 10-15 RON)",
+    "hu": "ingyenes (múzeumi belépő kb. 10-15 lej)",
+    "ro": "gratuit (intrare muzeu cca. 10-15 RON)",
+    "en": "free (museum admission approx. 10-15 RON)"
+  },
   "website": "https://www.muzeul-etnografic.ro",
-  "publicTransport": "Bus 9, 24, 30 oder Tram 101, 102 bis Haltestelle Piața Unirii",
-  "parking": "Kostenpflichtige Parkplätze in der Innenstadt (Zone 1, ca. 8-10 RON/Std.)",
-  "accessibility": "Zentrumsnah und gut erreichbar, Museumsgelände teilweise barrierefrei.",
-  "photoRules": "Erlaubt, besonders während der rituellen Tänze und dem Flechten der Blumenkränze.",
-  "bestTimeToVisit": "Abends zur Sonnenwende, wenn die rituellen Feuer und Tänze beginnen.",
-  "audioGuide": "nein"
+  "publicTransport": {
+    "de": "Bus 9, 24, 30 oder Tram 101, 102 bis Haltestelle Piața Unirii",
+    "hu": "9, 24, 30 busz vagy 101, 102 villamos a Piața Unirii megállóig",
+    "ro": "Autobuz 9, 24, 30 sau tramvai 101, 102 până la Piața Unirii",
+    "en": "Bus 9, 24, 30 or tram 101, 102 to Piața Unirii stop"
+  },
+  "parking": {
+    "de": "Kostenpflichtige Parkplätze in der Innenstadt (Zone 1, ca. 8-10 RON/Std.)",
+    "hu": "Fizetős parkolóhelyek a belvárosban (1. zóna, kb. 8-10 lej/óra)",
+    "ro": "Parcări cu plată în centrul orașului (Zona 1, cca. 8-10 RON/oră)",
+    "en": "Paid parking in the city center (Zone 1, approx. 8-10 RON/hr)"
+  },
+  "accessibility": {
+    "de": "Zentrumsnah und gut erreichbar, Museumsgelände teilweise barrierefrei.",
+    "hu": "Központközeli és könnyen elérhető, múzeumi terület részben akadálymentes.",
+    "ro": "Aproape de centru și ușor accesibil, terenul muzeului parțial accesibil.",
+    "en": "Near the center and easily accessible, museum grounds partially accessible."
+  },
+  "photoRules": {
+    "de": "Erlaubt, besonders während der rituellen Tänze und dem Flechten der Blumenkränze.",
+    "hu": "Megengedett, különösen a rituális táncok és a koszorúk fonása közben.",
+    "ro": "Permis, în special în timpul dansurilor rituale și împletirii coronițelor.",
+    "en": "Allowed, especially during ritual dances and weaving flower crowns."
+  },
+  "bestTimeToVisit": {
+    "de": "Abends zur Sonnenwende, wenn die rituellen Feuer und Tänze beginnen.",
+    "hu": "Este a napfordulókor, amikor a rituális tüzek és táncok kezdődnek.",
+    "ro": "Seara la solstițiu, când încep focurile rituale și dansurile.",
+    "en": "Evening at the solstice when ritual fires and dances begin."
+  },
+  "audioGuide": {
+    "de": "nein",
+    "hu": "nem",
+    "ro": "nu",
+    "en": "no"
+  }
 }

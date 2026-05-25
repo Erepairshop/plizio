@@ -1,12 +1,57 @@
 {
-  "address": "Schleuseninsel, 24159 Kiel-Holtenau",
-  "openingHours": "24/7",
-  "entranceFee": "kostenfrei",
+  "address": {
+    "de": "Schleuseninsel, 24159 Kiel-Holtenau",
+    "hu": "Schleuseninsel, 24159 Kiel-Holtenau",
+    "ro": "Schleuseninsel, 24159 Kiel-Holtenau",
+    "en": "Schleuseninsel, 24159 Kiel-Holtenau"
+  },
+  "openingHours": {
+    "de": "24/7",
+    "hu": "0-24 (non-stop)",
+    "ro": "non-stop",
+    "en": "24/7"
+  },
+  "entranceFee": {
+    "de": "kostenfrei",
+    "hu": "ingyenes",
+    "ro": "gratuit",
+    "en": "free of charge"
+  },
   "website": "https://www.wsa-nord-ostsee-kanal.wsv.de",
-  "publicTransport": "Buslinie 11 bis Kiel-Holtenau Schule",
-  "parking": "Parkplatz an den Schleusenanlagen in Kiel-Holtenau, kostenfrei.",
-  "accessibility": "Uferwege sind asphaltiert and ideal barrierefrei befahrbar.",
-  "photoRules": "Erlaubt, Teleobjektive für Schiffe empfohlen.",
-  "bestTimeToVisit": "Bei Sonnenuntergang von der Holtenauer Hochbrücke aus.",
-  "audioGuide": "nein"
+  "publicTransport": {
+    "de": "Buslinie 11 bis Kiel-Holtenau Schule",
+    "hu": "11-es buszvonal Kiel-Holtenau Schule megállóig",
+    "ro": "Autobuz linia 11 până la Kiel-Holtenau Schule",
+    "en": "Bus line 11 to Kiel-Holtenau Schule"
+  },
+  "parking": {
+    "de": "Parkplatz an den Schleusenanlagen in Kiel-Holtenau, kostenfrei.",
+    "hu": "Parkoló a kiel-holtenaui zsiliprendszernél, ingyenes.",
+    "ro": "Parcare la ecluzele din Kiel-Holtenau, gratuit.",
+    "en": "Parking at the locks in Kiel-Holtenau, free of charge."
+  },
+  "accessibility": {
+    "de": "Uferwege sind asphaltiert and ideal barrierefrei befahrbar.",
+    "hu": "A parti utak aszfaltozottak és tökéletesen akadálymentesek.",
+    "ro": "Drumurile de pe mal sunt asfaltate și ideale pentru accesibilizare.",
+    "en": "Waterfront paths are paved and ideal for barrier-free access."
+  },
+  "photoRules": {
+    "de": "Erlaubt, Teleobjektive für Schiffe empfohlen.",
+    "hu": "Engedélyezett, a hajókhoz teleobjektív ajánlott.",
+    "ro": "Permis, teleobiectiv recomandat pentru nave.",
+    "en": "Allowed, telephoto lenses recommended for ships."
+  },
+  "bestTimeToVisit": {
+    "de": "Bei Sonnenuntergang von der Holtenauer Hochbrücke aus.",
+    "hu": "Naplementekor a Holtenauer Hochbrücke-ről nézve.",
+    "ro": "La apus, de pe podul Holtenauer Hochbrücke.",
+    "en": "At sunset from the Holtenauer Hochbrücke bridge."
+  },
+  "audioGuide": {
+    "de": "nein",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

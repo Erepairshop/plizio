@@ -1,12 +1,57 @@
 {
-  "address": "Strada Salinei 1, 605600 Târgu Ocna",
-  "openingHours": "Täglich 09:00-17:00 (letzter Einlass 16:00)",
-  "entranceFee": "35 RON Erwachsene, 20 RON Kinder",
+  "address": {
+    "de": "Strada Salinei 1, 605600 Târgu Ocna",
+    "hu": "Strada Salinei 1, 605600 Târgu Ocna",
+    "ro": "Strada Salinei 1, 605600 Târgu Ocna",
+    "en": "Strada Salinei 1, 605600 Târgu Ocna"
+  },
+  "openingHours": {
+    "de": "Täglich 09:00-17:00 (letzter Einlass 16:00)",
+    "hu": "Naponta 09:00-17:00 (utolsó belépés 16:00)",
+    "ro": "Zilnic 09:00-17:00 (ultima intrare la 16:00)",
+    "en": "Daily 09:00-17:00 (last admission 16:00)"
+  },
+  "entranceFee": {
+    "de": "35 RON Erwachsene, 20 RON Kinder",
+    "hu": "35 RON felnőtteknek, 20 RON gyerekeknek",
+    "ro": "35 RON adulți, 20 RON copii",
+    "en": "35 RON adults, 20 RON children"
+  },
   "website": "https://www.salina.ro",
-  "publicTransport": "Zug bis Târgu Ocna, dann lokales Taxi (ca. 2 km)",
-  "parking": "Kostenpflichtiger Parkplatz am Eingangsbereich",
-  "accessibility": "Barrierefrei durch Shuttle-Bus-Transport in die Tiefe",
-  "photoRules": "Erlaubt; Stativnutzung in der großen Kathedrale oft geduldet",
-  "bestTimeToVisit": "Vormittags für die beste Luftqualität unter Tage",
-  "audioGuide": "nein"
+  "publicTransport": {
+    "de": "Zug bis Târgu Ocna, dann lokales Taxi (ca. 2 km)",
+    "hu": "Vonattal Târgu Ocnáig, majd helyi taxival (kb. 2 km)",
+    "ro": "Tren până la Târgu Ocna, apoi taxi local (aprox. 2 km)",
+    "en": "Train to Târgu Ocna, then local taxi (approx. 2 km)"
+  },
+  "parking": {
+    "de": "Kostenpflichtiger Parkplatz am Eingangsbereich",
+    "hu": "Fizetős parkoló a bejáratnál",
+    "ro": "Parcare cu plată la zona de intrare",
+    "en": "Paid parking at the entrance area"
+  },
+  "accessibility": {
+    "de": "Barrierefrei durch Shuttle-Bus-Transport in die Tiefe",
+    "hu": "Akadálymentesített, ingyenes buszjárat visz a mélybe",
+    "ro": "Accesibilizat prin transport cu microbuzul în adâncime",
+    "en": "Accessible via shuttle bus transport into the depths"
+  },
+  "photoRules": {
+    "de": "Erlaubt; Stativnutzung in der großen Kathedrale oft geduldet",
+    "hu": "Megengedett; az állvány használata a nagy katedrálisban gyakran megtűrt",
+    "ro": "Permis; utilizarea trepiedului în catedrala mare este adesea tolerată",
+    "en": "Allowed; tripod use in the large cathedral is often tolerated"
+  },
+  "bestTimeToVisit": {
+    "de": "Vormittags für die beste Luftqualität unter Tage",
+    "hu": "Délelőtt, a legjobb föld alatti levegőminőség érdekében",
+    "ro": "Dimineața pentru cea mai bună calitate a aerului în subteran",
+    "en": "Mornings for the best air quality underground"
+  },
+  "audioGuide": {
+    "de": "nein",
+    "hu": "nem",
+    "ro": "nu",
+    "en": "no"
+  }
 }

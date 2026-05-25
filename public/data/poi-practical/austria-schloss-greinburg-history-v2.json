@@ -1,12 +1,57 @@
 {
-  "address": "Greinburg 1, 4360 Grein",
-  "openingHours": "Mo-Su 09:00-18:00 (Mai-Okt)",
-  "entranceFee": "9€ Erwachsene",
+  "address": {
+    "de": "Greinburg 1, 4360 Grein",
+    "hu": "Greinburg 1, 4360 Grein",
+    "ro": "Greinburg 1, 4360 Grein",
+    "en": "Greinburg 1, 4360 Grein"
+  },
+  "openingHours": {
+    "de": "Mo-Su 09:00-18:00 (Mai-Okt)",
+    "hu": "Hé-Vas 09:00-18:00 (május-október)",
+    "ro": "Lun-Dum 09:00-18:00 (mai-octombrie)",
+    "en": "Mon-Sun 09:00-18:00 (May-Oct)"
+  },
+  "entranceFee": {
+    "de": "9€ Erwachsene",
+    "hu": "9€ felnőtt belépő",
+    "ro": "9€ adulți",
+    "en": "9€ adults"
+  },
   "website": "https://www.schloss-greinburg.at",
-  "publicTransport": "Donauuferbahn bis Grein-Bad Kreuzen",
-  "parking": "Begrenzte Parkmöglichkeiten direkt am Schloss.",
-  "accessibility": "Teilweise barrierefrei (Hof), viele Stufen im Inneren.",
-  "photoRules": "Im Arkadenhof erlaubt, innen nach Genehmigung.",
-  "bestTimeToVisit": "Früh morgens mit Blick auf den Donaustrom.",
-  "audioGuide": "DE, EN"
+  "publicTransport": {
+    "de": "Donauuferbahn bis Grein-Bad Kreuzen",
+    "hu": "Donauuferbahn vasút Grein-Bad Kreuzen állomásig",
+    "ro": "Trenul Donauuferbahn până la Grein-Bad Kreuzen",
+    "en": "Donauuferbahn train to Grein-Bad Kreuzen"
+  },
+  "parking": {
+    "de": "Begrenzte Parkmöglichkeiten direkt am Schloss.",
+    "hu": "Korlátozott parkolási lehetőség közvetlenül a kastélynál.",
+    "ro": "Posibilități de parcare limitate chiar la castel.",
+    "en": "Limited parking directly at the castle."
+  },
+  "accessibility": {
+    "de": "Teilweise barrierefrei (Hof), viele Stufen im Inneren.",
+    "hu": "Részben akadálymentes (udvar), belül sok lépcső.",
+    "ro": "Parțial accesibil (curtea), multe trepte în interior.",
+    "en": "Partially accessible (courtyard), many steps inside."
+  },
+  "photoRules": {
+    "de": "Im Arkadenhof erlaubt, innen nach Genehmigung.",
+    "hu": "Az árkádos udvaron megengedett, bent engedélyhez kötött.",
+    "ro": "Permis în curtea cu arcade, în interior cu aprobare.",
+    "en": "Permitted in the arcade courtyard, inside by permission."
+  },
+  "bestTimeToVisit": {
+    "de": "Früh morgens mit Blick auf den Donaustrom.",
+    "hu": "Kora reggel, a Dunára nyíló kilátás miatt.",
+    "ro": "Dimineața devreme cu vedere spre fluviul Dunărea.",
+    "en": "Early morning for the view of the Danube river."
+  },
+  "audioGuide": {
+    "de": "DE, EN",
+    "hu": "német, angol",
+    "ro": "germană, engleză",
+    "en": "German, English"
+  }
 }

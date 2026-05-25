@@ -1,12 +1,57 @@
 {
-  "address": "Wiener Straße 1, 28359 Bremen",
-  "openingHours": "Mo-Fr 09:00-18:00, Sa-So 10:00-18:00",
-  "entranceFee": "€18.00 Erwachsene, €11.00 ermäßigt",
+  "address": {
+    "de": "Wiener Straße 1, 28359 Bremen",
+    "hu": "Wiener Straße 1, 28359 Bréma",
+    "ro": "Wiener Straße 1, 28359 Bremen",
+    "en": "Wiener Straße 1, 28359 Bremen"
+  },
+  "openingHours": {
+    "de": "Mo-Fr 09:00-18:00, Sa-So 10:00-18:00",
+    "hu": "H-P 09:00-18:00, Szo-V 10:00-18:00",
+    "ro": "Lu-Vi 09:00-18:00, Sâm-Dum 10:00-18:00",
+    "en": "Mon-Fri 09:00-18:00, Sat-Sun 10:00-18:00"
+  },
+  "entranceFee": {
+    "de": "€18.00 Erwachsene, €11.00 ermäßigt",
+    "hu": "18,00 € felnőtt, 11,00 € kedvezményes",
+    "ro": "18,00 € adulți, 11,00 € redus",
+    "en": "€18.00 adult, €11.00 reduced"
+  },
   "website": "https://www.universum-bremen.de",
-  "publicTransport": "Straßenbahn Linie 6 bis Haltestelle Universität-Süd",
-  "parking": "Eigener Parkplatz vorhanden, €0.50/Std. für Besucher.",
-  "accessibility": "Vollständig barrierefrei mit Aufzügen zu allen Ebenen.",
-  "photoRules": "Erlaubt ohne Blitz, keine kommerzielle Nutzung.",
-  "bestTimeToVisit": "Wochentags ab 14 Uhr, wenn Schulklassen weg sind.",
-  "audioGuide": "nein"
+  "publicTransport": {
+    "de": "Straßenbahn Linie 6 bis Haltestelle Universität-Süd",
+    "hu": "6-os villamos az Universität-Süd megállóig",
+    "ro": "Tramvai linia 6 până la stația Universität-Süd",
+    "en": "Tram line 6 to Universität-Süd stop"
+  },
+  "parking": {
+    "de": "Eigener Parkplatz vorhanden, €0.50/Std. für Besucher.",
+    "hu": "Saját parkoló van, látogatóknak 0,50 €/óra.",
+    "ro": "Parcare proprie disponibilă, 0,50 €/oră pentru vizitatori.",
+    "en": "Own parking available, €0.50/hr for visitors."
+  },
+  "accessibility": {
+    "de": "Vollständig barrierefrei mit Aufzügen zu allen Ebenen.",
+    "hu": "Teljesen akadálymentesített, liftekkel minden szintre.",
+    "ro": "Complet accesibil, cu lifturi către toate nivelurile.",
+    "en": "Fully accessible with elevators to all levels."
+  },
+  "photoRules": {
+    "de": "Erlaubt ohne Blitz, keine kommerzielle Nutzung.",
+    "hu": "Vaku nélkül engedélyezett, kereskedelmi célra nem használható.",
+    "ro": "Permis fără bliț, nu pentru uz comercial.",
+    "en": "Allowed without flash, no commercial use."
+  },
+  "bestTimeToVisit": {
+    "de": "Wochentags ab 14 Uhr, wenn Schulklassen weg sind.",
+    "hu": "Hétköznap 14 óra után, amikor az iskolai csoportok már elmentek.",
+    "ro": "În timpul săptămânii după ora 14:00, când grupurile școlare au plecat.",
+    "en": "Weekdays after 2 PM, when school groups are gone."
+  },
+  "audioGuide": {
+    "de": "nein",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

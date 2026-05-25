@@ -1,12 +1,57 @@
 {
-  "address": "Piața Emanuil Gojdu 39-41, Oradea 410067, Bihor",
-  "openingHours": "Mo-Su 09:00-17:00 (Museen), Gelände 24/7",
-  "entranceFee": "Festungsgelände frei, Museen ca. 10-15 RON",
+  "address": {
+    "de": "Piața Emanuil Gojdu 39-41, Oradea 410067, Bihor",
+    "hu": "Piața Emanuil Gojdu 39-41, Nagyvárad 410067, Bihar",
+    "ro": "Piața Emanuil Gojdu 39-41, Oradea 410067, Bihor",
+    "en": "Piața Emanuil Gojdu 39-41, Oradea 410067, Bihor"
+  },
+  "openingHours": {
+    "de": "Mo-Su 09:00-17:00 (Museen), Gelände 24/7",
+    "hu": "H-V 09:00-17:00 (múzeumok), a várudvar 0-24 nyitva",
+    "ro": "Lu-Du 09:00-17:00 (muzee), incinta 24/7",
+    "en": "Mon-Sun 09:00-17:00 (museums), grounds 24/7"
+  },
+  "entranceFee": {
+    "de": "Festungsgelände frei, Museen ca. 10-15 RON",
+    "hu": "A várudvar ingyenes, a múzeumok belépője kb. 10-15 RON",
+    "ro": "Acces în cetate gratuit, muzee aprox. 10-15 RON",
+    "en": "Fortress grounds free, museums approx. 10-15 RON"
+  },
   "website": "http://www.oradea.ro",
-  "publicTransport": "Straßenbahn Linien 1N, 1R, 3N, 3R bis Piața Gojdu",
-  "parking": "Großes Parkhaus in unmittelbarer Nähe vorhanden",
-  "accessibility": "Weitläufig saniert, Rampen für Rollstühle vorhanden",
-  "photoRules": "Auf dem Außengelände frei erlaubt",
-  "bestTimeToVisit": "Während des Mittelalterfestivals im Sommer",
-  "audioGuide": "ja"
+  "publicTransport": {
+    "de": "Straßenbahn Linien 1N, 1R, 3N, 3R bis Piața Gojdu",
+    "hu": "1N, 1R, 3N, 3R villamosvonalak a Piața Gojdu megállóig",
+    "ro": "Tramvaiele 1N, 1R, 3N, 3R până la stația Piața Gojdu",
+    "en": "Tram lines 1N, 1R, 3N, 3R to Piața Gojdu station"
+  },
+  "parking": {
+    "de": "Großes Parkhaus in unmittelbarer Nähe vorhanden",
+    "hu": "Nagy parkolóház található a közvetlen közelben",
+    "ro": "Parcare etajată mare disponibilă în imediata apropiere",
+    "en": "Large parking garage available in the immediate vicinity"
+  },
+  "accessibility": {
+    "de": "Weitläufig saniert, Rampen für Rollstühle vorhanden",
+    "hu": "Széles körben felújítva, kerekesszékes rámpák rendelkezésre állnak",
+    "ro": "Renovată extensiv, rampe pentru scaune cu rotile disponibile",
+    "en": "Extensively renovated, ramps for wheelchairs available"
+  },
+  "photoRules": {
+    "de": "Auf dem Außengelände frei erlaubt",
+    "hu": "A szabadtéri területeken szabadon engedélyezett",
+    "ro": "Fotografierea permisă liber în zonele exterioare",
+    "en": "Photography freely allowed in the outdoor areas"
+  },
+  "bestTimeToVisit": {
+    "de": "Während des Mittelalterfestivals im Sommer",
+    "hu": "A nyári középkori fesztivál idején",
+    "ro": "În timpul festivalului medieval din timpul verii",
+    "en": "During the Medieval Festival in summer"
+  },
+  "audioGuide": {
+    "de": "ja",
+    "hu": "igen",
+    "ro": "da",
+    "en": "yes"
+  }
 }

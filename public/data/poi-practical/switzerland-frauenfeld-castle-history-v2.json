@@ -1,12 +1,57 @@
 {
-  "address": "Schlossstrasse 4, 8500 Frauenfeld",
-  "openingHours": "Di-So 13:00-17:00, Mo geschlossen",
-  "entranceFee": "Eintritt frei (Historisches Museum Thurgau)",
+  "address": {
+    "de": "Schlossstrasse 4, 8500 Frauenfeld",
+    "hu": "Schlossstrasse 4, 8500 Frauenfeld",
+    "ro": "Schlossstrasse 4, 8500 Frauenfeld",
+    "en": "Schlossstrasse 4, 8500 Frauenfeld"
+  },
+  "openingHours": {
+    "de": "Di-So 13:00-17:00, Mo geschlossen",
+    "hu": "Ké-Va 13:00-17:00, Hé zárva",
+    "ro": "Ma-Du 13:00-17:00, lu închis",
+    "en": "Tue-Sun 13:00-17:00, Mon closed"
+  },
+  "entranceFee": {
+    "de": "Eintritt frei (Historisches Museum Thurgau)",
+    "hu": "Belépés ingyenes (Thurgau Történeti Múzeum)",
+    "ro": "Intrare liberă (Muzeul Istoric Thurgau)",
+    "en": "Admission free (Thurgau Historical Museum)"
+  },
   "website": "https://historisches-museum.tg.ch",
-  "publicTransport": "Vom Bahnhof Frauenfeld ca. 10 Minuten Fußweg.",
-  "parking": "Parkhäuser in der Innenstadt (z.B. Marktplatz) nutzen.",
-  "accessibility": "Turm nur über steile Treppen erreichbar; Erdgeschoss zugänglich.",
-  "photoRules": "Erlaubt ohne Blitz für private Zwecke.",
-  "bestTimeToVisit": "Nachmittags, kombiniert mit einem Spaziergang durch die Altstadt.",
-  "audioGuide": "DE"
+  "publicTransport": {
+    "de": "Vom Bahnhof Frauenfeld ca. 10 Minuten Fußweg.",
+    "hu": "Frauenfeld vasútállomástól kb. 10 perc gyalog.",
+    "ro": "De la gara Frauenfeld aprox. 10 minute de mers pe jos.",
+    "en": "From Frauenfeld train station approx. 10 minutes walk."
+  },
+  "parking": {
+    "de": "Parkhäuser in der Innenstadt (z.B. Marktplatz) nutzen.",
+    "hu": "Használja a belvárosi parkolóházakat (pl. Marktplatz).",
+    "ro": "Utilizați parcările din centrul orașului (ex. Marktplatz).",
+    "en": "Use parking garages in the city center (e.g. Marktplatz)."
+  },
+  "accessibility": {
+    "de": "Turm nur über steile Treppen erreichbar; Erdgeschoss zugänglich.",
+    "hu": "A torony csak meredek lépcsőn érhető el; a földszint látogatható.",
+    "ro": "Turnul accesibil doar pe scări abrupte; parterul este accesibil.",
+    "en": "Tower only accessible via steep stairs; ground floor accessible."
+  },
+  "photoRules": {
+    "de": "Erlaubt ohne Blitz für private Zwecke.",
+    "hu": "Privát célokra vaku nélkül engedélyezett.",
+    "ro": "Permis fără bliț pentru scopuri private.",
+    "en": "Allowed without flash for private purposes."
+  },
+  "bestTimeToVisit": {
+    "de": "Nachmittags, kombiniert mit einem Spaziergang durch die Altstadt.",
+    "hu": "Délután, egy óvárosi sétával kombinálva.",
+    "ro": "După-amiaza, combinat cu o plimbare prin orașul vechi.",
+    "en": "In the afternoon, combined with a walk through the old town."
+  },
+  "audioGuide": {
+    "de": "DE",
+    "hu": "DE",
+    "ro": "DE",
+    "en": "DE"
+  }
 }

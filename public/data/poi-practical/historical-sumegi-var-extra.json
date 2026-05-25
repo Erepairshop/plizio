@@ -1,12 +1,57 @@
 {
-  "address": "Vároldal u. 5., 8330 Sümeg",
-  "openingHours": "Mo-Su 09:00-19:00 (Sommer), 09:00-16:00 (Winter)",
-  "entranceFee": "2500 HUF Erwachsene, 1200 HUF Kinder",
+  "address": {
+    "de": "Vároldal u. 5., 8330 Sümeg",
+    "hu": "Vároldal u. 5., 8330 Sümeg",
+    "ro": "Vároldal u. 5., 8330 Sümeg",
+    "en": "Vároldal u. 5., 8330 Sümeg"
+  },
+  "openingHours": {
+    "de": "Mo-Su 09:00-19:00 (Sommer), 09:00-16:00 (Winter)",
+    "hu": "H-V 09:00-19:00 (nyár), 09:00-16:00 (tél)",
+    "ro": "L-D 09:00-19:00 (vară), 09:00-16:00 (iarnă)",
+    "en": "Mon-Sun 09:00-19:00 (summer), 09:00-16:00 (winter)"
+  },
+  "entranceFee": {
+    "de": "2500 HUF Erwachsene, 1200 HUF Kinder",
+    "hu": "2500 HUF felnőttek, 1200 HUF gyermekek",
+    "ro": "2500 HUF adulți, 1200 HUF copii",
+    "en": "2500 HUF adults, 1200 HUF children"
+  },
   "website": "http://www.sumegvar.hu/",
-  "publicTransport": "Bahnhof Sümeg ist ca. 15 Gehminuten entfernt; steiler Aufstieg zur Burg.",
-  "parking": "Kostenpflichtiger Parkplatz direkt am Fuße des Burgbergs.",
-  "accessibility": "Steiler Kopfsteinpflasterweg; ein kostenpflichtiges Burgtaxi ist für Gehbehinderte verfügbar.",
-  "photoRules": "Fotografieren im gesamten Areal und in den Ausstellungen erlaubt.",
-  "bestTimeToVisit": "Nachmittags im Sommer, wenn die täglichen Ritterspiele in der Arena stattfinden.",
-  "audioGuide": "HU, DE, EN"
+  "publicTransport": {
+    "de": "Bahnhof Sümeg ist ca. 15 Gehminuten entfernt; steiler Aufstieg zur Burg.",
+    "hu": "A sümegi vasútállomás kb. 15 perces sétára van; meredek kaptató a várhoz.",
+    "ro": "Gara Sümeg este la aproximativ 15 minute de mers pe jos; urcare abruptă către castel.",
+    "en": "Sümeg train station is about a 15-minute walk away; steep climb to the castle."
+  },
+  "parking": {
+    "de": "Kostenpflichtiger Parkplatz direkt am Fuße des Burgbergs.",
+    "hu": "Fizetős parkoló közvetlenül a várhegy lábánál.",
+    "ro": "Parcare cu plată direct la poalele dealului castelului.",
+    "en": "Paid parking directly at the foot of the castle hill."
+  },
+  "accessibility": {
+    "de": "Steiler Kopfsteinpflasterweg; ein kostenpflichtiges Burgtaxi ist für Gehbehinderte verfügbar.",
+    "hu": "Meredek macskaköves út; mozgáskorlátozottak számára fizetős vártaxi elérhető.",
+    "ro": "Drum abrupt pavat cu piatră cubică; un taxi castel cu plată este disponibil pentru persoanele cu mobilitate redusă.",
+    "en": "Steep cobblestone path; a paid castle taxi is available for disabled persons."
+  },
+  "photoRules": {
+    "de": "Fotografieren im gesamten Areal und in den Ausstellungen erlaubt.",
+    "hu": "Fényképezés az egész területen és a kiállításokon megengedett.",
+    "ro": "Fotografierea permisă în toată incinta și în expoziții.",
+    "en": "Photography allowed throughout the area and in the exhibitions."
+  },
+  "bestTimeToVisit": {
+    "de": "Nachmittags im Sommer, wenn die täglichen Ritterspiele in der Arena stattfinden.",
+    "hu": "Délután nyáron, amikor a napi lovagi játékok zajlanak az arénában.",
+    "ro": "După-amiaza vara, când au loc jocurile zilnice ale cavalerilor în arenă.",
+    "en": "Afternoons in summer when daily knight games take place in the arena."
+  },
+  "audioGuide": {
+    "de": "HU, DE, EN",
+    "hu": "HU, DE, EN",
+    "ro": "HU, DE, EN",
+    "en": "HU, DE, EN"
+  }
 }

@@ -1,12 +1,57 @@
 {
-  "address": "Ratsdienergarten, 24103 Kiel",
-  "openingHours": "24/7",
-  "entranceFee": "kostenfrei",
+  "address": {
+    "de": "Ratsdienergarten, 24103 Kiel",
+    "hu": "Ratsdienergarten, 24103 Kiel",
+    "ro": "Ratsdienergarten, 24103 Kiel",
+    "en": "Ratsdienergarten, 24103 Kiel"
+  },
+  "openingHours": {
+    "de": "24/7",
+    "hu": "24/7",
+    "ro": "24/7",
+    "en": "24/7"
+  },
+  "entranceFee": {
+    "de": "kostenfrei",
+    "hu": "ingyenes",
+    "ro": "gratuit",
+    "en": "free"
+  },
   "website": "https://www.kiel.de",
-  "publicTransport": "Hauptbahnhof Kiel, 10 Minuten Fußweg",
-  "parking": "Parkhaus am Schloßquartier, ca. 2,00 €/Std.",
-  "accessibility": "Öffentlicher Park, ebenerdig und voll barrierefrei.",
-  "photoRules": "Erlaubt.",
-  "bestTimeToVisit": "Tagsüber für gute Sicht auf die Gedenktafeln.",
-  "audioGuide": "nein"
+  "publicTransport": {
+    "de": "Hauptbahnhof Kiel, 10 Minuten Fußweg",
+    "hu": "Kiel főpályaudvar, 10 perc séta",
+    "ro": "Gara principală Kiel, 10 minute de mers pe jos",
+    "en": "Kiel main station, 10 min walk"
+  },
+  "parking": {
+    "de": "Parkhaus am Schloßquartier, ca. 2,00 €/Std.",
+    "hu": "Parkoló a Schloßquartier-nél, kb. 2,00 €/óra.",
+    "ro": "Parcare la Schloßquartier, aprox. 2,00 €/oră.",
+    "en": "Parking at Schloßquartier, approx. €2.00/hr."
+  },
+  "accessibility": {
+    "de": "Öffentlicher Park, ebenerdig und voll barrierefrei.",
+    "hu": "Nyilvános park, síkszintű és teljesen akadálymentes.",
+    "ro": "Parc public, plan și complet accesibil.",
+    "en": "Public park, level and fully barrier-free."
+  },
+  "photoRules": {
+    "de": "Erlaubt.",
+    "hu": "Szabad.",
+    "ro": "Permis.",
+    "en": "Allowed."
+  },
+  "bestTimeToVisit": {
+    "de": "Tagsüber für gute Sicht auf die Gedenktafeln.",
+    "hu": "Napközben az emléktáblák jó láthatóságáért.",
+    "ro": "În timpul zilei pentru o bună vizibilitate a plăcilor comemorative.",
+    "en": "During the day for good visibility of the memorial plaques."
+  },
+  "audioGuide": {
+    "de": "nein",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

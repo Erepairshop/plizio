@@ -1,12 +1,57 @@
 {
-  "address": "Karl-Anton-Platz 8, 72488 Sigmaringen",
-  "openingHours": "Mo-Su 10:00-17:00 (Sommer), 10:00-16:00 (Winter)",
-  "entranceFee": "15,00 € (inkl. Führung Schloss), 12,50 € Waffensammlung",
+  "address": {
+    "de": "Karl-Anton-Platz 8, 72488 Sigmaringen",
+    "hu": "Karl-Anton-Platz 8, 72488 Sigmaringen",
+    "ro": "Karl-Anton-Platz 8, 72488 Sigmaringen",
+    "en": "Karl-Anton-Platz 8, 72488 Sigmaringen"
+  },
+  "openingHours": {
+    "de": "Mo-Su 10:00-17:00 (Sommer), 10:00-16:00 (Winter)",
+    "hu": "H-V 10:00-17:00 (nyáron), 10:00-16:00 (télen)",
+    "ro": "Lu-Du 10:00-17:00 (vară), 10:00-16:00 (iarnă)",
+    "en": "Mon-Sun 10:00-17:00 (summer), 10:00-16:00 (winter)"
+  },
+  "entranceFee": {
+    "de": "15,00 € (inkl. Führung Schloss), 12,50 € Waffensammlung",
+    "hu": "15,00 € (kastélyvezetéssel együtt), 12,50 € fegyvergyűjtemény",
+    "ro": "15,00 € (incl. turul castelului), 12,50 € colecția de arme",
+    "en": "15.00 € (incl. castle tour), 12.50 € weapons collection"
+  },
   "website": "https://www.schloss-sigmaringen.de",
-  "publicTransport": "Regionalzug bis Sigmaringen Bahnhof, dann 5 Min Fußweg",
-  "parking": "Parkplatz 'Prinzenbau' oder Parkhaus in der Nähe des Schlosses.",
-  "accessibility": "Aufgrund der historischen Architektur viele Treppen; Aufzug nur für Gehbehinderte nach Voranmeldung.",
-  "photoRules": "Fotografieren in den Prunkräumen während der Führung verboten; Waffensammlung erlaubt.",
-  "bestTimeToVisit": "Vormittags zur ersten Führung, um die Wartezeiten bei Gruppen zu minimieren.",
-  "audioGuide": "nein (Führungen in DE/EN/FR)"
+  "publicTransport": {
+    "de": "Regionalzug bis Sigmaringen Bahnhof, dann 5 Min Fußweg",
+    "hu": "Regionális vonat Sigmaringen állomásig, majd 5 perc séta",
+    "ro": "Tren regional până la gara Sigmaringen, apoi 5 minute de mers pe jos",
+    "en": "Regional train to Sigmaringen station, then 5 min walk"
+  },
+  "parking": {
+    "de": "Parkplatz 'Prinzenbau' oder Parkhaus in der Nähe des Schlosses.",
+    "hu": "„Prinzenbau” parkoló vagy parkolóház a kastély közelében.",
+    "ro": "Parcarea „Prinzenbau” sau parcare supraetajată în apropierea castelului.",
+    "en": "Parking lot 'Prinzenbau' or parking garage near the castle."
+  },
+  "accessibility": {
+    "de": "Aufgrund der historischen Architektur viele Treppen; Aufzug nur für Gehbehinderte nach Voranmeldung.",
+    "hu": "A történelmi építészet miatt sok lépcső; lift csak mozgássérülteknek, előzetes bejelentkezés alapján.",
+    "ro": "Din cauza arhitecturii istorice sunt multe scări; lift doar pentru persoanele cu mobilitate redusă, cu programare prealabilă.",
+    "en": "Many stairs due to historical architecture; elevator only for disabled persons upon prior registration."
+  },
+  "photoRules": {
+    "de": "Fotografieren in den Prunkräumen während der Führung verboten; Waffensammlung erlaubt.",
+    "hu": "A dísztermekben a vezetés alatt tilos fotózni; a fegyvergyűjteményben engedélyezett.",
+    "ro": "Fotografiatul în sălile de stat în timpul turului interzis; colecția de arme permisă.",
+    "en": "Photography in the state rooms forbidden during the tour; weapons collection allowed."
+  },
+  "bestTimeToVisit": {
+    "de": "Vormittags zur ersten Führung, um die Wartezeiten bei Gruppen zu minimieren.",
+    "hu": "Délelőtt az első vezetésre, a csoportos várakozási idő minimalizálása érdekében.",
+    "ro": "Dimineața pentru primul tur, pentru a minimiza timpii de așteptare pentru grupuri.",
+    "en": "In the morning for the first tour to minimize waiting times for groups."
+  },
+  "audioGuide": {
+    "de": "nein (Führungen in DE/EN/FR)",
+    "hu": "nem (vezetések DE/EN/FR nyelven)",
+    "ro": "nu (tururi în DE/EN/FR)",
+    "en": "no (tours in DE/EN/FR)"
+  }
 }

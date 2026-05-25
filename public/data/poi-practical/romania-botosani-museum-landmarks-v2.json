@@ -1,12 +1,57 @@
 {
-  "address": "Strada Unirii 15, 710233 Botoșani",
-  "openingHours": "Di-So 09:00-17:00",
-  "entranceFee": "10 RON Erwachsene",
+  "address": {
+    "de": "Strada Unirii 15, 710233 Botoșani",
+    "hu": "Strada Unirii 15, 710233 Botosány",
+    "ro": "Strada Unirii 15, 710233 Botoșani",
+    "en": "Strada Unirii 15, 710233 Botoșani"
+  },
+  "openingHours": {
+    "de": "Di-So 09:00-17:00",
+    "hu": "Kedd-Vasárnap 09:00-17:00",
+    "ro": "Ma-Du 09:00-17:00",
+    "en": "Tue-Sun 09:00-17:00"
+  },
+  "entranceFee": {
+    "de": "10 RON Erwachsene",
+    "hu": "10 RON felnőtteknek",
+    "ro": "10 RON adulți",
+    "en": "10 RON adults"
+  },
   "website": "https://muzeubt.ro",
-  "publicTransport": "Buslinien zum Stadtzentrum Botoșani.",
-  "parking": "Straßenparkplätze in der Nähe vorhanden.",
-  "accessibility": "Hauptausstellungen im Erdgeschoss zugänglich.",
-  "photoRules": "Gegen Gebühr erlaubt.",
-  "bestTimeToVisit": "Vormittags an Wochentagen.",
-  "audioGuide": "nein"
+  "publicTransport": {
+    "de": "Buslinien zum Stadtzentrum Botoșani.",
+    "hu": "Buszjáratok Botosány városközpontjába.",
+    "ro": "Linii de autobuz către centrul orașului Botoșani.",
+    "en": "Bus lines to the city center of Botoșani."
+  },
+  "parking": {
+    "de": "Straßenparkplätze in der Nähe vorhanden.",
+    "hu": "Utcai parkolóhelyek a közelben.",
+    "ro": "Parcări stradale disponibile în apropiere.",
+    "en": "Street parking available nearby."
+  },
+  "accessibility": {
+    "de": "Hauptausstellungen im Erdgeschoss zugänglich.",
+    "hu": "A fő kiállítások a földszinten elérhetők.",
+    "ro": "Expozițiile principale accesibile la parter.",
+    "en": "Main exhibitions accessible on the ground floor."
+  },
+  "photoRules": {
+    "de": "Gegen Gebühr erlaubt.",
+    "hu": "Díj ellenében megengedett.",
+    "ro": "Permis contra unei taxe.",
+    "en": "Allowed for a fee."
+  },
+  "bestTimeToVisit": {
+    "de": "Vormittags an Wochentagen.",
+    "hu": "Délelőtt, hétköznapokon.",
+    "ro": "Dimineața în timpul săptămânii.",
+    "en": "Mornings on weekdays."
+  },
+  "audioGuide": {
+    "de": "nein",
+    "hu": "nem",
+    "ro": "nu",
+    "en": "no"
+  }
 }

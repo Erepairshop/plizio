@@ -1,12 +1,57 @@
 {
-  "address": "Hauptstraße 470, 6290 Mayrhofen",
-  "openingHours": "24/7",
-  "entranceFee": "free",
+  "address": {
+    "de": "Hauptstraße 470, 6290 Mayrhofen",
+    "hu": "Hauptstraße 470, 6290 Mayrhofen",
+    "ro": "Hauptstraße 470, 6290 Mayrhofen",
+    "en": "Hauptstraße 470, 6290 Mayrhofen"
+  },
+  "openingHours": {
+    "de": "24/7",
+    "hu": "24/7",
+    "ro": "24/7",
+    "en": "24/7"
+  },
+  "entranceFee": {
+    "de": "free",
+    "hu": "ingyenes",
+    "ro": "gratuit",
+    "en": "free"
+  },
   "website": "https://www.zillertal.at",
-  "publicTransport": "Zillertalbahn ab Bahnhof Jenbach bis Mayrhofen.",
-  "parking": "Zahlreiche kostenlose Parkplätze bei den Talstationen der Bergbahnen.",
-  "accessibility": "Die meisten modernen Bergbahnen im Tal sind rollstuhlgerecht ausgebaut.",
-  "photoRules": "Im gesamten Tal und auf den Gipfeln für private Zwecke frei erlaubt.",
-  "bestTimeToVisit": "Juni für die Alpenrosenblüte oder Januar für perfekten Skisport.",
-  "audioGuide": "no"
+  "publicTransport": {
+    "de": "Zillertalbahn ab Bahnhof Jenbach bis Mayrhofen.",
+    "hu": "Zillertalbahn Jenbach állomástól Mayrhofenig.",
+    "ro": "Zillertalbahn de la gara Jenbach până la Mayrhofen.",
+    "en": "Zillertal railway from Jenbach station to Mayrhofen."
+  },
+  "parking": {
+    "de": "Zahlreiche kostenlose Parkplätze bei den Talstationen der Bergbahnen.",
+    "hu": "Számos ingyenes parkolóhely a felvonók völgyállomásainál.",
+    "ro": "Numeroase locuri de parcare gratuite la stațiile de bază ale telefericelor.",
+    "en": "Numerous free parking spaces at the valley stations of the mountain lifts."
+  },
+  "accessibility": {
+    "de": "Die meisten modernen Bergbahnen im Tal sind rollstuhlgerecht ausgebaut.",
+    "hu": "A völgy legtöbb modern felvonója kerekesszékkel is igénybe vehető.",
+    "ro": "Majoritatea telefericelor moderne din vale sunt accesibile pentru scaune cu rotile.",
+    "en": "Most modern mountain lifts in the valley are wheelchair accessible."
+  },
+  "photoRules": {
+    "de": "Im gesamten Tal und auf den Gipfeln für private Zwecke frei erlaubt.",
+    "hu": "Az egész völgyben és a csúcsokon magáncélra szabadon engedélyezett.",
+    "ro": "Permis liber în întreaga vale și pe vârfuri pentru scopuri private.",
+    "en": "Freely allowed throughout the valley and on the peaks for private purposes."
+  },
+  "bestTimeToVisit": {
+    "de": "Juni für die Alpenrosenblüte oder Januar für perfekten Skisport.",
+    "hu": "Június a havasszépe virágzásához vagy január a tökéletes síeléshez.",
+    "ro": "Iunie pentru înflorirea trandafirului alpin sau ianuarie pentru schi perfect.",
+    "en": "June for the alpine rose blossom or January for perfect skiing."
+  },
+  "audioGuide": {
+    "de": "no",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

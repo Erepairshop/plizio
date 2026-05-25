@@ -1,12 +1,57 @@
 {
-  "address": "Chemin du Château, 2900 Porrentruy",
-  "openingHours": "Täglich 08:00-20:00 (Zugang zum Areal und Turm)",
-  "entranceFee": "free",
+  "address": {
+    "de": "Chemin du Château, 2900 Porrentruy",
+    "hu": "Chemin du Château, 2900 Porrentruy",
+    "ro": "Chemin du Château, 2900 Porrentruy",
+    "en": "Chemin du Château, 2900 Porrentruy"
+  },
+  "openingHours": {
+    "de": "Täglich 08:00-20:00 (Zugang zum Areal und Turm)",
+    "hu": "Naponta 08:00–20:00 (hozzáférés a területhez és a toronyhoz)",
+    "ro": "Zilnic 08:00-20:00 (acces la zonă și turn)",
+    "en": "Daily 08:00-20:00 (access to area and tower)"
+  },
+  "entranceFee": {
+    "de": "free",
+    "hu": "ingyenes",
+    "ro": "gratuit",
+    "en": "free"
+  },
   "website": "https://www.juratourisme.ch",
-  "publicTransport": "Bahnhof Porrentruy, ca. 10-15 Min. Fußweg bergauf.",
-  "parking": "Parkplätze direkt unterhalb der Schlossmauern.",
-  "accessibility": "Hof zugänglich; Tour Réfous (Turm) nur über sehr steile Wendeltreppe.",
-  "photoRules": "Erlaubt; toller Rundblick vom Turm über die Ajoie.",
-  "bestTimeToVisit": "Später Nachmittag für weiches Licht auf dem Turm.",
-  "audioGuide": "no"
+  "publicTransport": {
+    "de": "Bahnhof Porrentruy, ca. 10-15 Min. Fußweg bergauf.",
+    "hu": "Porrentruy pályaudvar, kb. 10–15 perc séta felfelé.",
+    "ro": "Gara Porrentruy, aprox. 10-15 min. pe jos în urcare.",
+    "en": "Porrentruy train station, approx. 10-15 min. walk uphill."
+  },
+  "parking": {
+    "de": "Parkplätze direkt unterhalb der Schlossmauern.",
+    "hu": "Parkolóhelyek közvetlenül a várfalak alatt.",
+    "ro": "Locuri de parcare chiar sub zidurile castelului.",
+    "en": "Parking spaces directly below the castle walls."
+  },
+  "accessibility": {
+    "de": "Hof zugänglich; Tour Réfous (Turm) nur über sehr steile Wendeltreppe.",
+    "hu": "Udvar látogatható; a Réfous-torony csak nagyon meredek csigalépcsőn közelíthető meg.",
+    "ro": "Curtea accesibilă; Turnul Réfous doar pe scări în spirală foarte abrupte.",
+    "en": "Courtyard accessible; Tour Réfous (tower) only via very steep spiral staircase."
+  },
+  "photoRules": {
+    "de": "Erlaubt; toller Rundblick vom Turm über die Ajoie.",
+    "hu": "Engedélyezett; csodás körpanoráma a toronyból az Ajoie-vidékre.",
+    "ro": "Permis; vedere panoramică excelentă din turn asupra regiunii Ajoie.",
+    "en": "Allowed; great panoramic view from the tower over the Ajoie region."
+  },
+  "bestTimeToVisit": {
+    "de": "Später Nachmittag für weiches Licht auf dem Turm.",
+    "hu": "Késő délután a torony lágy megvilágításáért.",
+    "ro": "După-amiaza târziu pentru lumină difuză pe turn.",
+    "en": "Late afternoon for soft light on the tower."
+  },
+  "audioGuide": {
+    "de": "no",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

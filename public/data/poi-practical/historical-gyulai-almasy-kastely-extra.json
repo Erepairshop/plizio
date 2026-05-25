@@ -1,12 +1,57 @@
 {
-  "address": "Kossuth Lajos u. 15, 5700 Gyula",
-  "openingHours": "Di-So 10:00-18:00",
-  "entranceFee": "3000 HUF Erwachsene, 1500 HUF ermäßigt",
+  "address": {
+    "de": "Kossuth Lajos u. 15, 5700 Gyula",
+    "hu": "Kossuth Lajos u. 15, 5700 Gyula",
+    "ro": "Kossuth Lajos u. 15, 5700 Gyula",
+    "en": "Kossuth Lajos u. 15, 5700 Gyula"
+  },
+  "openingHours": {
+    "de": "Di-So 10:00-18:00",
+    "hu": "K-V 10:00-18:00",
+    "ro": "Ma-Du 10:00-18:00",
+    "en": "Tue-Sun 10:00-18:00"
+  },
+  "entranceFee": {
+    "de": "3000 HUF Erwachsene, 1500 HUF ermäßigt",
+    "hu": "3000 HUF felnőtt, 1500 HUF kedvezményes",
+    "ro": "3000 HUF adulți, 1500 HUF redus",
+    "en": "3000 HUF adults, 1500 HUF reduced"
+  },
   "website": "https://www.gyulaikastely.hu",
-  "publicTransport": "15 Minuten Gehweg vom Busbahnhof Gyula",
-  "parking": "Gebührenpflichtig in der Kossuth Straße oder am Burggarten",
-  "accessibility": "Vollständig barrierefrei",
-  "photoRules": "Erlaubt, Interaktive Stationen laden zum Fotografieren ein",
-  "bestTimeToVisit": "Wochentage, um die interaktiven Exponate in Ruhe zu nutzen",
-  "audioGuide": "Ungarisch, Englisch, Deutsch, Rumänisch"
+  "publicTransport": {
+    "de": "15 Minuten Gehweg vom Busbahnhof Gyula",
+    "hu": "15 perc séta a gyulai buszpályaudvartól",
+    "ro": "15 minute de mers pe jos de la autogara Gyula",
+    "en": "15-minute walk from Gyula bus station"
+  },
+  "parking": {
+    "de": "Gebührenpflichtig in der Kossuth Straße oder am Burggarten",
+    "hu": "Fizetős parkolás a Kossuth utcában vagy a várkertnél",
+    "ro": "Cu plată pe strada Kossuth sau la grădina cetății",
+    "en": "Paid parking on Kossuth Street or at the castle garden"
+  },
+  "accessibility": {
+    "de": "Vollständig barrierefrei",
+    "hu": "Teljesen akadálymentesített",
+    "ro": "Complet accesibil",
+    "en": "Fully accessible"
+  },
+  "photoRules": {
+    "de": "Erlaubt, Interaktive Stationen laden zum Fotografieren ein",
+    "hu": "Megengedett, az interaktív állomások fotózásra csábítanak",
+    "ro": "Permis, stațiile interactive invită la fotografiat",
+    "en": "Allowed, interactive stations invite you to take photos"
+  },
+  "bestTimeToVisit": {
+    "de": "Wochentage, um die interaktiven Exponate in Ruhe zu nutzen",
+    "hu": "Hétköznap, hogy nyugodtan kipróbálhasd az interaktív kiállításokat",
+    "ro": "În timpul săptămânii, pentru a utiliza exponatele interactive în liniște",
+    "en": "Weekdays to use the interactive exhibits in peace"
+  },
+  "audioGuide": {
+    "de": "Ungarisch, Englisch, Deutsch, Rumänisch",
+    "hu": "magyar, angol, német, román",
+    "ro": "maghiară, engleză, germană, română",
+    "en": "Hungarian, English, German, Romanian"
+  }
 }

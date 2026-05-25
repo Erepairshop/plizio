@@ -1,12 +1,57 @@
 {
-  "address": "L'Abbaye, 50170 Le Mont-Saint-Michel",
-  "openingHours": "Insel 24/7; Abtei 09:00-19:00 (Sommer), 09:30-18:00 (Winter)",
-  "entranceFee": "Insel kostenlos; Abtei €13 Erwachsene",
+  "address": {
+    "de": "L'Abbaye, 50170 Le Mont-Saint-Michel",
+    "hu": "L'Abbaye, 50170 Le Mont-Saint-Michel",
+    "ro": "L'Abbaye, 50170 Le Mont-Saint-Michel",
+    "en": "L'Abbaye, 50170 Le Mont-Saint-Michel"
+  },
+  "openingHours": {
+    "de": "Insel 24/7; Abtei 09:00-19:00 (Sommer), 09:30-18:00 (Winter)",
+    "hu": "Sziget 24/7; apátság 09:00-19:00 (nyár), 09:30-18:00 (tél)",
+    "ro": "Insulă 24/7; abație 09:00-19:00 (vară), 09:30-18:00 (iarnă)",
+    "en": "Island 24/7; abbey 9 AM-7 PM (summer), 9:30 AM-6 PM (winter)"
+  },
+  "entranceFee": {
+    "de": "Insel kostenlos; Abtei €13 Erwachsene",
+    "hu": "Sziget ingyenes; apátság 13 € felnőtt",
+    "ro": "Insulă gratuită; abație 13 € adulți",
+    "en": "Island free; abbey €13 adult"
+  },
   "website": "https://www.ot-montsaintmichel.com",
-  "publicTransport": "Zug bis Pontorson, dann Shuttle-Bus zum Berg",
-  "parking": "Großer Parkplatz auf dem Festland (€10-€20); kostenloser Shuttle zum Berg",
-  "accessibility": "Sehr schwierig für Rollstühle (viele Treppen, steiles Kopfsteinpflaster)",
-  "photoRules": "In der Abtei ohne Blitz erlaubt",
-  "bestTimeToVisit": "Abends nach 19:00 Uhr, wenn die Tagestouristen abgereist sind",
-  "audioGuide": "Verfügbar in der Abtei für €3"
+  "publicTransport": {
+    "de": "Zug bis Pontorson, dann Shuttle-Bus zum Berg",
+    "hu": "Vonat Pontorsonig, majd transzferbusz a hegyre",
+    "ro": "Tren până la Pontorson, apoi autobuz shuttle către insulă",
+    "en": "Train to Pontorson, then shuttle bus to the island"
+  },
+  "parking": {
+    "de": "Großer Parkplatz auf dem Festland (€10-€20); kostenloser Shuttle zum Berg",
+    "hu": "Nagy parkoló a szárazföldön (10-20 €); ingyenes transzfer a hegyre",
+    "ro": "Parcare mare pe continent (10-20 €); transfer gratuit către insulă",
+    "en": "Large parking lot on the mainland (€10-€20); free shuttle to the island"
+  },
+  "accessibility": {
+    "de": "Sehr schwierig für Rollstühle (viele Treppen, steiles Kopfsteinpflaster)",
+    "hu": "Kerekesszékkel nagyon nehéz (sok lépcső, meredek macskaköves út)",
+    "ro": "Foarte dificil pentru scaune cu rotile (multe scări, pavaj abrupt)",
+    "en": "Very difficult for wheelchairs (many stairs, steep cobblestones)"
+  },
+  "photoRules": {
+    "de": "In der Abtei ohne Blitz erlaubt",
+    "hu": "Az apátságban vaku nélkül engedélyezett",
+    "ro": "Permis fără bliț în interiorul abației",
+    "en": "Allowed in the abbey without flash"
+  },
+  "bestTimeToVisit": {
+    "de": "Abends nach 19:00 Uhr, wenn die Tagestouristen abgereist sind",
+    "hu": "Este este 19:00 óra után, amikor a nappali turisták elmentek",
+    "ro": "Seara după ora 19:00, când turiștii de o zi au plecat",
+    "en": "Evening after 7 PM, when day tourists have departed"
+  },
+  "audioGuide": {
+    "de": "Verfügbar in der Abtei für €3",
+    "hu": "Az apátságban elérhető 3 €-ért",
+    "ro": "Disponibil în abație pentru 3 €",
+    "en": "Available in the abbey for €3"
+  }
 }

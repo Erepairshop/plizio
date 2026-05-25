@@ -1,12 +1,57 @@
 {
-  "address": "Abbey Churchyard, Bath BA1 1LZ, Großbritannien",
-  "openingHours": "Mo-Su 09:30-18:00 (Saisonal bis 22:00 Uhr)",
-  "entranceFee": "£20.00 - £27.50 (je nach Wochentag)",
+  "address": {
+    "de": "Abbey Churchyard, Bath BA1 1LZ, Großbritannien",
+    "hu": "Abbey Churchyard, Bath BA1 1LZ, Nagy-Britannia",
+    "ro": "Abbey Churchyard, Bath BA1 1LZ, Marea Britanie",
+    "en": "Abbey Churchyard, Bath BA1 1LZ, Great Britain"
+  },
+  "openingHours": {
+    "de": "Mo-Su 09:30-18:00 (Saisonal bis 22:00 Uhr)",
+    "hu": "H-V 09:30-18:00 (szezonálisan 22:00-ig)",
+    "ro": "Lu-Du 09:30-18:00 (sezonier până la ora 22:00)",
+    "en": "Mo-Su 09:30-18:00 (seasonally until 10 PM)"
+  },
+  "entranceFee": {
+    "de": "£20.00 - £27.50 (je nach Wochentag)",
+    "hu": "£20.00 - £27.50 (naptól függően)",
+    "ro": "£20.00 - £27.50 (în funcție de zi)",
+    "en": "£20.00 - £27.50 (depending on the day)"
+  },
   "website": "https://www.romanbaths.co.uk/",
-  "publicTransport": "Bahnhof Bath Spa, 10 Min. Fußweg durch die Fußgängerzone",
-  "parking": "Park-and-Ride Plätze (Lansdown/Odd Down) dringend empfohlen",
-  "accessibility": "90% rollstuhlgerecht durch moderne Aufzüge",
-  "photoRules": "Erlaubt ohne Blitz und Stativ",
-  "bestTimeToVisit": "Abendbesuch im Sommer bei Fackelschein",
-  "audioGuide": "DE, EN, FR, IT, ES, ZH, JA, RU"
+  "publicTransport": {
+    "de": "Bahnhof Bath Spa, 10 Min. Fußweg durch die Fußgängerzone",
+    "hu": "Bath Spa állomás, 10 perc séta a sétálóutcán át",
+    "ro": "Gara Bath Spa, 10 minute de mers pe jos prin zona pietonală",
+    "en": "Bath Spa station, 10-minute walk through the pedestrian zone"
+  },
+  "parking": {
+    "de": "Park-and-Ride Plätze (Lansdown/Odd Down) dringend empfohlen",
+    "hu": "P+R parkolók (Lansdown/Odd Down) használata erősen ajánlott",
+    "ro": "Sunt recomandate cu tărie parcările Park-and-Ride (Lansdown/Odd Down)",
+    "en": "Park-and-Ride spaces (Lansdown/Odd Down) strongly recommended"
+  },
+  "accessibility": {
+    "de": "90% rollstuhlgerecht durch moderne Aufzüge",
+    "hu": "90%-ban kerekesszék-barát a modern lifteknek köszönhetően",
+    "ro": "90% accesibil pentru scaune cu rotile datorită lifturilor moderne",
+    "en": "90% wheelchair-friendly thanks to modern elevators"
+  },
+  "photoRules": {
+    "de": "Erlaubt ohne Blitz und Stativ",
+    "hu": "Vaku és állvány nélkül engedélyezett",
+    "ro": "Permis fără bliț și trepied",
+    "en": "Allowed without flash and tripod"
+  },
+  "bestTimeToVisit": {
+    "de": "Abendbesuch im Sommer bei Fackelschein",
+    "hu": "Nyári esti látogatás fáklyafénynél",
+    "ro": "Vizită de seară vara la lumina torțelor",
+    "en": "Evening visit in summer by torchlight"
+  },
+  "audioGuide": {
+    "de": "DE, EN, FR, IT, ES, ZH, JA, RU",
+    "hu": "Német, Angol, Francia, Olasz, Spanyol, Kínai, Japán, Orosz",
+    "ro": "Germană, Engleză, Franceză, Italiană, Spaniolă, Chineză, Japoneză, Rusă",
+    "en": "DE, EN, FR, IT, ES, ZH, JA, RU"
+  }
 }

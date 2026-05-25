@@ -1,12 +1,57 @@
 {
-  "address": "Avenue de Chillon 21, 1820 Veytaux",
-  "openingHours": "Mo-Su 09:00-19:00 (Apr-Sep), Mo-Su 10:00-17:00 (Nov-Feb)",
-  "entranceFee": "15 CHF Erwachsene, 6 CHF Kinder",
+  "address": {
+    "de": "Avenue de Chillon 21, 1820 Veytaux",
+    "hu": "Avenue de Chillon 21, 1820 Veytaux",
+    "ro": "Avenue de Chillon 21, 1820 Veytaux",
+    "en": "Avenue de Chillon 21, 1820 Veytaux"
+  },
+  "openingHours": {
+    "de": "Mo-Su 09:00-19:00 (Apr-Sep), Mo-Su 10:00-17:00 (Nov-Feb)",
+    "hu": "Hé-Va 09:00-19:00 (ápr-szept), Hé-Va 10:00-17:00 (nov-feb)",
+    "ro": "Lu-Du 09:00-19:00 (apr-sep), Lu-Du 10:00-17:00 (noi-feb)",
+    "en": "Mon-Sun 09:00-19:00 (Apr-Sep), Mon-Sun 10:00-17:00 (Nov-Feb)"
+  },
+  "entranceFee": {
+    "de": "15 CHF Erwachsene, 6 CHF Kinder",
+    "hu": "15 CHF felnőtteknek, 6 CHF gyerekeknek",
+    "ro": "15 CHF adulți, 6 CHF copii",
+    "en": "15 CHF adults, 6 CHF children"
+  },
   "website": "https://www.chillon.ch",
-  "publicTransport": "Zug S-Bahn Haltestelle Veytaux-Chillon oder Bus 201.",
-  "parking": "Parkplatz P1 und P2 am Schlossufer vorhanden.",
-  "accessibility": "Aufgrund historischer Bausubstanz nur bedingt für Rollstühle geeignet.",
-  "photoRules": "Erlaubt ohne Blitz; kommerzielle Aufnahmen nur nach Genehmigung.",
-  "bestTimeToVisit": "Unter der Woche, um die großen Reisegruppen zu vermeiden.",
-  "audioGuide": "DE, EN, FR, IT, ES, PT, ZH, JP"
+  "publicTransport": {
+    "de": "Zug S-Bahn Haltestelle Veytaux-Chillon oder Bus 201.",
+    "hu": "S-Bahn vonat Veytaux-Chillon megálló vagy 201-es busz.",
+    "ro": "Tren S-Bahn stația Veytaux-Chillon sau autobuz 201.",
+    "en": "S-Bahn train Veytaux-Chillon stop or bus 201."
+  },
+  "parking": {
+    "de": "Parkplatz P1 und P2 am Schlossufer vorhanden.",
+    "hu": "P1 és P2 parkoló a kastélyparton.",
+    "ro": "Parcări P1 și P2 disponibile la malul castelului.",
+    "en": "Parking P1 and P2 available at the castle shore."
+  },
+  "accessibility": {
+    "de": "Aufgrund historischer Bausubstanz nur bedingt für Rollstühle geeignet.",
+    "hu": "A történelmi épületállomány miatt csak korlátozottan alkalmas kerekesszékre.",
+    "ro": "Datorită structurii istorice, este doar parțial potrivit pentru scaune cu rotile.",
+    "en": "Due to the historical structure, only partially suitable for wheelchairs."
+  },
+  "photoRules": {
+    "de": "Erlaubt ohne Blitz; kommerzielle Aufnahmen nur nach Genehmigung.",
+    "hu": "Vaku nélkül engedélyezett; kereskedelmi fotózás csak engedéllyel.",
+    "ro": "Permis fără bliț; fotografii comerciale doar cu aprobare.",
+    "en": "Allowed without flash; commercial photography only with approval."
+  },
+  "bestTimeToVisit": {
+    "de": "Unter der Woche, um die großen Reisegruppen zu vermeiden.",
+    "hu": "Hétköznap, a nagy csoportok elkerülése érdekében.",
+    "ro": "În timpul săptămânii, pentru a evita grupurile mari de turiști.",
+    "en": "During the week to avoid large tourist groups."
+  },
+  "audioGuide": {
+    "de": "DE, EN, FR, IT, ES, PT, ZH, JP",
+    "hu": "DE, EN, FR, IT, ES, PT, ZH, JP",
+    "ro": "DE, EN, FR, IT, ES, PT, ZH, JP",
+    "en": "DE, EN, FR, IT, ES, PT, ZH, JP"
+  }
 }

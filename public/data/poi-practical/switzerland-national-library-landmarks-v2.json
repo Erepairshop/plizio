@@ -1,12 +1,57 @@
 {
-  "address": "Hallwylstrasse 15, 3003 Bern",
-  "openingHours": "Mo-Fr 09:00-18:00, Sa 09:00-16:00",
-  "entranceFee": "free",
+  "address": {
+    "de": "Hallwylstrasse 15, 3003 Bern",
+    "hu": "Hallwylstrasse 15, 3003 Bern",
+    "ro": "Hallwylstrasse 15, 3003 Bern",
+    "en": "Hallwylstrasse 15, 3003 Bern"
+  },
+  "openingHours": {
+    "de": "Mo-Fr 09:00-18:00, Sa 09:00-16:00",
+    "hu": "H–P 09:00–18:00, Szo 09:00–16:00",
+    "ro": "Luni-Vin 09:00-18:00, Sâmb 09:00-16:00",
+    "en": "Mon-Fri 09:00-18:00, Sat 09:00-16:00"
+  },
+  "entranceFee": {
+    "de": "free",
+    "hu": "ingyenes",
+    "ro": "gratuit",
+    "en": "free"
+  },
   "website": "https://www.nb.admin.ch",
-  "publicTransport": "Tram 6, 7, 8 oder Kirchenfeldbus 19 bis Haltestelle Helvetiaplatz.",
-  "parking": "Blaue Zone im Quartier oder Parkhaus Casino.",
-  "accessibility": "Vollständig barrierefrei zugänglich.",
-  "photoRules": "In den Lesesälen Ruhe bewahren; Fotografieren nur dezent erlaubt.",
-  "bestTimeToVisit": "Samstagvormittag für Architekturinteressierte.",
-  "audioGuide": "no"
+  "publicTransport": {
+    "de": "Tram 6, 7, 8 oder Kirchenfeldbus 19 bis Haltestelle Helvetiaplatz.",
+    "hu": "6, 7, 8-as villamos vagy 19-es busz a Helvetiaplatz megállóig.",
+    "ro": "Tramvai 6, 7, 8 sau autobuz Kirchenfeldbus 19 până la stația Helvetiaplatz.",
+    "en": "Tram 6, 7, 8 or Kirchenfeld bus 19 to Helvetiaplatz stop."
+  },
+  "parking": {
+    "de": "Blaue Zone im Quartier oder Parkhaus Casino.",
+    "hu": "Kék zóna a környéken vagy a Casino parkolóház.",
+    "ro": "Zonă albastră în cartier sau parcarea Casino.",
+    "en": "Blue zone in the district or Casino parking garage."
+  },
+  "accessibility": {
+    "de": "Vollständig barrierefrei zugänglich.",
+    "hu": "Teljesen akadálymentesített.",
+    "ro": "Complet accesibil.",
+    "en": "Fully accessible."
+  },
+  "photoRules": {
+    "de": "In den Lesesälen Ruhe bewahren; Fotografieren nur dezent erlaubt.",
+    "hu": "Az olvasótermekben csendet kérünk; a fotózás csak diszkréten engedélyezett.",
+    "ro": "Păstrați liniștea în sălile de lectură; fotografiatul permis doar discret.",
+    "en": "Keep quiet in reading rooms; photography only allowed discreetly."
+  },
+  "bestTimeToVisit": {
+    "de": "Samstagvormittag für Architekturinteressierte.",
+    "hu": "Szombat délelőtt az építészet iránt érdeklődőknek.",
+    "ro": "Sâmbătă dimineața pentru pasionații de arhitectură.",
+    "en": "Saturday morning for architecture enthusiasts."
+  },
+  "audioGuide": {
+    "de": "no",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

@@ -1,12 +1,57 @@
 {
-  "address": "2 Rue de Blois, 36600 Valençay",
-  "openingHours": "Mo-So 10:00-18:00 (Gleichzeitig mit dem Schloss)",
-  "entranceFee": "Im Schlossticket enthalten (€14.50)",
+  "address": {
+    "de": "2 Rue de Blois, 36600 Valençay",
+    "hu": "2 Rue de Blois, 36600 Valençay",
+    "ro": "2 Rue de Blois, 36600 Valençay",
+    "en": "2 Rue de Blois, 36600 Valençay"
+  },
+  "openingHours": {
+    "de": "Mo-So 10:00-18:00 (Gleichzeitig mit dem Schloss)",
+    "hu": "Hé-Va 10:00-18:00 (a kastéllyal egyidőben)",
+    "ro": "Lun-Dum 10:00-18:00 (în același timp cu castelul)",
+    "en": "Mon-Sun 10:00-18:00 (same as the castle)"
+  },
+  "entranceFee": {
+    "de": "Im Schlossticket enthalten (€14.50)",
+    "hu": "A kastélybelépő tartalmazza (14,50 €)",
+    "ro": "Inclus în biletul pentru castel (14,50 €)",
+    "en": "Included in the castle ticket (€14.50)"
+  },
   "website": "https://www.chateau-valencay.fr",
-  "publicTransport": "Bahnhof Valençay (ca. 800m entfernt)",
-  "parking": "Parkplatz Place du Champ de Foire (kostenlos)",
-  "accessibility": "Barrierefreier Zugang zum Museumsbereich möglich",
-  "photoRules": "Fotografieren ohne Blitz erlaubt",
-  "bestTimeToVisit": "Mittagszeit, wenn die meisten Besucher in den Restaurants im Ort sind",
-  "audioGuide": "In den Audio-Guide des Schlosses integriert"
+  "publicTransport": {
+    "de": "Bahnhof Valençay (ca. 800m entfernt)",
+    "hu": "Valençay vasútállomás (kb. 800 méterre)",
+    "ro": "Gara Valençay (la aproximativ 800 m distanță)",
+    "en": "Valençay train station (approx. 800m away)"
+  },
+  "parking": {
+    "de": "Parkplatz Place du Champ de Foire (kostenlos)",
+    "hu": "Place du Champ de Foire parkoló (ingyenes)",
+    "ro": "Parcarea Place du Champ de Foire (gratuită)",
+    "en": "Place du Champ de Foire parking lot (free)"
+  },
+  "accessibility": {
+    "de": "Barrierefreier Zugang zum Museumsbereich möglich",
+    "hu": "Akadálymentes hozzáférés a múzeumi részhez lehetséges",
+    "ro": "Accesul fără bariere la zona muzeului este posibil",
+    "en": "Barrier-free access to the museum area possible"
+  },
+  "photoRules": {
+    "de": "Fotografieren ohne Blitz erlaubt",
+    "hu": "Fényképezés vaku nélkül engedélyezett",
+    "ro": "Fotografierea fără bliț este permisă",
+    "en": "Photography without flash is permitted"
+  },
+  "bestTimeToVisit": {
+    "de": "Mittagszeit, wenn die meisten Besucher in den Restaurants im Ort sind",
+    "hu": "Ebédidőben, amikor a legtöbb látogató a helyi éttermekben tartózkodik",
+    "ro": "La prânz, când majoritatea vizitatorilor sunt la restaurantele din oraș",
+    "en": "Lunchtime, when most visitors are at restaurants in town"
+  },
+  "audioGuide": {
+    "de": "In den Audio-Guide des Schlosses integriert",
+    "hu": "A kastély audio-guide rendszerébe integrálva",
+    "ro": "Integrat în ghidul audio al castelului",
+    "en": "Integrated into the castle's audio guide"
+  }
 }

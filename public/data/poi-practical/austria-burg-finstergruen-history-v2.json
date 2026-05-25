@@ -1,12 +1,57 @@
 {
-  "address": "Burgstraße 65, 5591 Ramingstein",
-  "openingHours": "Mo-Su 10:00-17:00 (Mai-Sept)",
-  "entranceFee": "10€ (inkl. Führung)",
+  "address": {
+    "de": "Burgstraße 65, 5591 Ramingstein",
+    "hu": "Burgstraße 65, 5591 Ramingstein",
+    "ro": "Burgstraße 65, 5591 Ramingstein",
+    "en": "Burgstrasse 65, 5591 Ramingstein"
+  },
+  "openingHours": {
+    "de": "Mo-Su 10:00-17:00 (Mai-Sept)",
+    "hu": "H-V 10:00-17:00 (máj-szept)",
+    "ro": "Lu-Du 10:00-17:00 (Mai-Sept)",
+    "en": "Mon-Sun 10:00-17:00 (May-Sept)"
+  },
+  "entranceFee": {
+    "de": "10€ (inkl. Führung)",
+    "hu": "10 € (vezetéssel együtt)",
+    "ro": "10 € (include tur ghidat)",
+    "en": "10€ (incl. guided tour)"
+  },
   "website": "https://www.burg-finstergruen.at",
-  "publicTransport": "Murtalbahn bis Haltestelle Ramingstein",
-  "parking": "Kleiner Parkplatz am Burgfuß vorhanden.",
-  "accessibility": "Nicht barrierefrei, viele Treppen und steile Wege.",
-  "photoRules": "In den Außenanlagen erlaubt, innen eingeschränkt.",
-  "bestTimeToVisit": "Bei klarem Wetter für die Aussicht ins Murtal.",
-  "audioGuide": "nein"
+  "publicTransport": {
+    "de": "Murtalbahn bis Haltestelle Ramingstein",
+    "hu": "Murtalbahn vasút Ramingstein megállóig",
+    "ro": "Murtalbahn până la stația Ramingstein",
+    "en": "Murtalbahn to Ramingstein stop"
+  },
+  "parking": {
+    "de": "Kleiner Parkplatz am Burgfuß vorhanden.",
+    "hu": "Kisebb parkoló a vár lábánál rendelkezésre áll.",
+    "ro": "Mică parcare disponibilă la baza castelului.",
+    "en": "Small parking lot available at the foot of the castle."
+  },
+  "accessibility": {
+    "de": "Nicht barrierefrei, viele Treppen und steile Wege.",
+    "hu": "Nem akadálymentes, sok lépcső és meredek út.",
+    "ro": "Neaccesibil, multe trepte și drumuri abrupte.",
+    "en": "Not barrier-free, many stairs and steep paths."
+  },
+  "photoRules": {
+    "de": "In den Außenanlagen erlaubt, innen eingeschränkt.",
+    "hu": "A kültéri részeken megengedett, bent korlátozott.",
+    "ro": "Permis în zonele exterioare, restricționat în interior.",
+    "en": "Permitted in outdoor areas, restricted inside."
+  },
+  "bestTimeToVisit": {
+    "de": "Bei klarem Wetter für die Aussicht ins Murtal.",
+    "hu": "Tiszta időben a Murtal-völgyre nyíló kilátásért.",
+    "ro": "Pe vreme senină pentru vederea spre Valea Mur.",
+    "en": "In clear weather for the view into the Mur Valley."
+  },
+  "audioGuide": {
+    "de": "nein",
+    "hu": "nem",
+    "ro": "nu",
+    "en": "no"
+  }
 }

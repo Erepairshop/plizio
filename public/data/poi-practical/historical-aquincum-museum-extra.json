@@ -1,12 +1,57 @@
 {
-  "address": "Szentendrei út 135, 1031 Budapest",
-  "openingHours": "Di-So 09:00-18:00 (April bis Oktober)",
-  "entranceFee": "1900 HUF Erwachsene, 950 HUF Studenten/Senioren",
+  "address": {
+    "de": "Szentendrei út 135, 1031 Budapest",
+    "hu": "Szentendrei út 135., 1031 Budapest",
+    "ro": "Szentendrei út 135, 1031 Budapesta, Ungaria",
+    "en": "Szentendrei út 135, 1031 Budapest, Hungary"
+  },
+  "openingHours": {
+    "de": "Di-So 09:00-18:00 (April bis Oktober)",
+    "hu": "K-V 09:00-18:00 (áprilistól októberig)",
+    "ro": "Ma-D 09:00-18:00 (aprilie-octombrie)",
+    "en": "Tue-Sun 09:00-18:00 (April to October)"
+  },
+  "entranceFee": {
+    "de": "1900 HUF Erwachsene, 950 HUF Studenten/Senioren",
+    "hu": "1900 Ft felnőtt, 950 Ft diák/nyugdíjas",
+    "ro": "1900 HUF adulți, 950 HUF studenți/pensionari",
+    "en": "1900 HUF adults, 950 HUF students/seniors"
+  },
   "website": "http://www.aquincum.hu/",
-  "publicTransport": "Vorortbahn H5 (HÉV) ab Batthyány tér bis Haltestelle Aquincum.",
-  "parking": "Grosser, kostenloser Parkplatz direkt am Museumseingang vorhanden.",
-  "accessibility": "Das Freigelände ist weitgehend barrierefrei; Ausstellungsgebäude verfügen über Rampen.",
-  "photoRules": "In den Aussenanlagen frei, in den Innenräumen ohne Blitz gestattet.",
-  "bestTimeToVisit": "An einem sonnigen Vormittag, um den weitläufigen Ruinengarten zu erkunden.",
-  "audioGuide": "no"
+  "publicTransport": {
+    "de": "Vorortbahn H5 (HÉV) ab Batthyány tér bis Haltestelle Aquincum.",
+    "hu": "H5-ös HÉV a Batthyány térről Aquincum megállóig.",
+    "ro": "Trenul suburban H5 (HÉV) de la Batthyány tér până la stația Aquincum.",
+    "en": "Suburban train H5 (HÉV) from Batthyány tér to Aquincum station."
+  },
+  "parking": {
+    "de": "Grosser, kostenloser Parkplatz direkt am Museumseingang vorhanden.",
+    "hu": "Nagy, ingyenes parkoló közvetlenül a múzeum bejáratánál.",
+    "ro": "Parcare mare, gratuită, chiar la intrarea în muzeu.",
+    "en": "Large, free parking lot available directly at the museum entrance."
+  },
+  "accessibility": {
+    "de": "Das Freigelände ist weitgehend barrierefrei; Ausstellungsgebäude verfügen über Rampen.",
+    "hu": "A szabadtéri terület jórészt akadálymentes; a kiállítóépületek rámpákkal ellátottak.",
+    "ro": "Zona exterioară este în mare parte accesibilă; clădirile expoziționale au rampe.",
+    "en": "The outdoor area is largely accessible; exhibition buildings have ramps."
+  },
+  "photoRules": {
+    "de": "In den Aussenanlagen frei, in den Innenräumen ohne Blitz gestattet.",
+    "hu": "A szabadtéren szabad, a belső terekben vaku nélkül engedélyezett.",
+    "ro": "Liber în exterior, permis fără bliț în interior.",
+    "en": "Free in the outdoor areas, allowed without flash in the interiors."
+  },
+  "bestTimeToVisit": {
+    "de": "An einem sonnigen Vormittag, um den weitläufigen Ruinengarten zu erkunden.",
+    "hu": "Napsütéses délelőttön, a tágas romkert felfedezéséhez.",
+    "ro": "Într-o dimineață însorită, pentru a explora grădina vastă cu ruine.",
+    "en": "On a sunny morning to explore the extensive ruin garden."
+  },
+  "audioGuide": {
+    "de": "no",
+    "hu": "nem",
+    "ro": "nu",
+    "en": "no"
+  }
 }

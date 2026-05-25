@@ -1,12 +1,57 @@
 {
-  "address": "Langdon Cliffs, Upper Rd, Dover CT16 1HJ, Großbritannien",
-  "openingHours": "Sonnenaufgang bis Sonnenuntergang",
-  "entranceFee": "kostenlos (Parkplatzgebühr £5.00)",
+  "address": {
+    "de": "Langdon Cliffs, Upper Rd, Dover CT16 1HJ, Großbritannien",
+    "hu": "Langdon Cliffs, Upper Rd, Dover CT16 1HJ, Nagy-Britannia",
+    "ro": "Langdon Cliffs, Upper Rd, Dover CT16 1HJ, Marea Britanie",
+    "en": "Langdon Cliffs, Upper Rd, Dover CT16 1HJ, Great Britain"
+  },
+  "openingHours": {
+    "de": "Sonnenaufgang bis Sonnenuntergang",
+    "hu": "Napkeltétől napnyugtáig",
+    "ro": "De la răsărit până la apus",
+    "en": "Sunrise to sunset"
+  },
+  "entranceFee": {
+    "de": "kostenlos (Parkplatzgebühr £5.00)",
+    "hu": "ingyenes (parkolási díj £5.00)",
+    "ro": "gratuit (taxă de parcare £5.00)",
+    "en": "free (parking fee £5.00)"
+  },
   "website": "https://www.nationaltrust.org.uk/the-white-cliffs-of-dover",
-  "publicTransport": "Bahnhof Dover Priory, ca. 40 Min. Fußweg bergauf",
-  "parking": "National Trust Parkplatz (£5.00 pro Auto)",
-  "accessibility": "Wanderweg zum South Foreland Leuchtturm weitgehend befestigt",
-  "photoRules": "Erlaubt",
-  "bestTimeToVisit": "Am frühen Abend, wenn die Klippen warm beleuchtet sind",
-  "audioGuide": "Nein"
+  "publicTransport": {
+    "de": "Bahnhof Dover Priory, ca. 40 Min. Fußweg bergauf",
+    "hu": "Dover Priory vasútállomás, kb. 40 perc séta felfelé",
+    "ro": "Gara Dover Priory, aprox. 40 min. mers pe jos în urcare",
+    "en": "Dover Priory station, approx. 40 min. uphill walk"
+  },
+  "parking": {
+    "de": "National Trust Parkplatz (£5.00 pro Auto)",
+    "hu": "National Trust parkoló (£5.00 autónként)",
+    "ro": "Parcare National Trust (£5.00 per mașină)",
+    "en": "National Trust car park (£5.00 per car)"
+  },
+  "accessibility": {
+    "de": "Wanderweg zum South Foreland Leuchtturm weitgehend befestigt",
+    "hu": "A South Foreland világítótoronyhoz vezető túraútvonal többnyire burkolt",
+    "ro": "Traseul spre farul South Foreland este în mare parte asfaltat",
+    "en": "Footpath to South Foreland Lighthouse mostly paved"
+  },
+  "photoRules": {
+    "de": "Erlaubt",
+    "hu": "Engedélyezett",
+    "ro": "Permis",
+    "en": "Allowed"
+  },
+  "bestTimeToVisit": {
+    "de": "Am frühen Abend, wenn die Klippen warm beleuchtet sind",
+    "hu": "Kora este, amikor a sziklákat meleg fény világítja meg",
+    "ro": "Seara devreme, când stâncile sunt iluminate cald",
+    "en": "Early evening, when the cliffs are warmly lit"
+  },
+  "audioGuide": {
+    "de": "Nein",
+    "hu": "Nincs",
+    "ro": "Nu",
+    "en": "No"
+  }
 }

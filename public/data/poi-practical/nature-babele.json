@@ -1,12 +1,57 @@
 {
-  "address": "Munții Bucegi, 105500 Bușteni, Prahova",
-  "openingHours": "24/7 (Seilbahn Mo-Su 08:30-16:00)",
-  "entranceFee": "free (Seilbahn Bușteni-Babele ca. 100 RON hin/zurück)",
+  "address": {
+    "de": "Munții Bucegi, 105500 Bușteni, Prahova",
+    "hu": "Munții Bucegi, 105500 Bușteni, Prahova",
+    "ro": "Munții Bucegi, 105500 Bușteni, Prahova",
+    "en": "Munții Bucegi, 105500 Bușteni, Prahova"
+  },
+  "openingHours": {
+    "de": "24/7 (Seilbahn Mo-Su 08:30-16:00)",
+    "hu": "24/7 (felvonó H-V 08:30-16:00)",
+    "ro": "24/7 (telecabină Lu-Dum 08:30-16:00)",
+    "en": "24/7 (cable car Mon-Sun 8:30 AM-4 PM)"
+  },
+  "entranceFee": {
+    "de": "free (Seilbahn Bușteni-Babele ca. 100 RON hin/zurück)",
+    "hu": "ingyenes (Bușteni-Babele felvonó kb. 100 RON oda-vissza)",
+    "ro": "gratuit (telecabina Bușteni-Babele aprox. 100 RON dus-întors)",
+    "en": "free (Bușteni-Babele cable car approx. 100 RON return)"
+  },
   "website": "",
-  "publicTransport": "Zug nach Bușteni, dann Fußweg zur Talstation der Seilbahn",
-  "parking": "Parkplätze an der Talstation in Bușteni, ca. 20-30 RON pro Tag",
-  "accessibility": "Eingeschränkt; nach der Seilbahnfahrt ebener Fußweg zu den Felsformationen",
-  "photoRules": "Erlaubt; Stativ für Langzeitbelichtungen bei Nebel empfohlen",
-  "bestTimeToVisit": "Später Frühling oder Frühherbst bei klarer Sicht (Vormittag)",
-  "audioGuide": "no"
+  "publicTransport": {
+    "de": "Zug nach Bușteni, dann Fußweg zur Talstation der Seilbahn",
+    "hu": "Vonat Bușteni-be, majd gyalog az alsó állomásig",
+    "ro": "Tren până la Bușteni, apoi mers pe jos până la stația de telecabină",
+    "en": "Train to Bușteni, then walk to cable car base station"
+  },
+  "parking": {
+    "de": "Parkplätze an der Talstation in Bușteni, ca. 20-30 RON pro Tag",
+    "hu": "Parkolók a Bușteni-i alsó állomásnál, kb. 20-30 RON/nap",
+    "ro": "Parcări la stația de bază în Bușteni, aprox. 20-30 RON pe zi",
+    "en": "Parking lots at base station in Bușteni, approx. 20-30 RON per day"
+  },
+  "accessibility": {
+    "de": "Eingeschränkt; nach der Seilbahnfahrt ebener Fußweg zu den Felsformationen",
+    "hu": "Korlátozott; a felvonózás után sík gyalogút a sziklaformációkhoz",
+    "ro": "Limitat; după coborârea din telecabină, drum plat către formațiunile stâncoase",
+    "en": "Limited; after cable car ride, flat path to rock formations"
+  },
+  "photoRules": {
+    "de": "Erlaubt; Stativ für Langzeitbelichtungen bei Nebel empfohlen",
+    "hu": "Engedélyezett; ködös időben állvány ajánlott hosszú expozícióhoz",
+    "ro": "Permis; trepied recomandat pentru expuneri lungi pe ceață",
+    "en": "Allowed; tripod recommended for long exposures in fog"
+  },
+  "bestTimeToVisit": {
+    "de": "Später Frühling oder Frühherbst bei klarer Sicht (Vormittag)",
+    "hu": "Késő tavasz vagy kora ősz tiszta látási viszonyok mellett (délelőtt)",
+    "ro": "Primăvara târzie sau toamna timpurie cu vizibilitate clară (dimineața)",
+    "en": "Late spring or early autumn in clear visibility (morning)"
+  },
+  "audioGuide": {
+    "de": "no",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

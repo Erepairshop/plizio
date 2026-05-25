@@ -1,12 +1,57 @@
 {
-  "address": "Comuna Archim, Județul Olt",
-  "openingHours": "Nur Außenbesichtigung möglich.",
-  "entranceFee": "kostenlos",
+  "address": {
+    "de": "Comuna Archim, Județul Olt",
+    "hu": "Archim község, Olt megye",
+    "ro": "Comuna Archim, Județul Olt",
+    "en": "Archim Commune, Olt County"
+  },
+  "openingHours": {
+    "de": "Nur Außenbesichtigung möglich.",
+    "hu": "Csak kívülről látogatható.",
+    "ro": "Vizitabil doar la exterior.",
+    "en": "Accessible from the outside only."
+  },
+  "entranceFee": {
+    "de": "kostenlos",
+    "hu": "ingyenes",
+    "ro": "gratuit",
+    "en": "free"
+  },
   "website": "",
-  "publicTransport": "PKW zwingend erforderlich.",
-  "parking": "Parken am Straßenrand möglich.",
-  "accessibility": "Nur von außen einsehbar.",
-  "photoRules": "Außenaufnahmen erlaubt.",
-  "bestTimeToVisit": "Tagsüber bei gutem Wetter.",
-  "audioGuide": "nein"
+  "publicTransport": {
+    "de": "PKW zwingend erforderlich.",
+    "hu": "Személyautó mindenképpen szükséges.",
+    "ro": "Mașina este obligatorie.",
+    "en": "Car strictly required."
+  },
+  "parking": {
+    "de": "Parken am Straßenrand möglich.",
+    "hu": "Parkolás az út szélén lehetséges.",
+    "ro": "Parcare posibilă pe marginea drumului.",
+    "en": "Parking possible on the roadside."
+  },
+  "accessibility": {
+    "de": "Nur von außen einsehbar.",
+    "hu": "Csak kívülről tekinthető meg.",
+    "ro": "Vizibil doar de la exterior.",
+    "en": "Viewable from the outside only."
+  },
+  "photoRules": {
+    "de": "Außenaufnahmen erlaubt.",
+    "hu": "Külső fotók készítése engedélyezett.",
+    "ro": "Fotografierea la exterior este permisă.",
+    "en": "Exterior photography allowed."
+  },
+  "bestTimeToVisit": {
+    "de": "Tagsüber bei gutem Wetter.",
+    "hu": "Napközben, jó időben.",
+    "ro": "În timpul zilei, pe vreme bună.",
+    "en": "During the day in good weather."
+  },
+  "audioGuide": {
+    "de": "nein",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

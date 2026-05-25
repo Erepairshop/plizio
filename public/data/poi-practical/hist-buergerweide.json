@@ -1,12 +1,57 @@
 {
-  "address": "Findorffstraße, 28209 Bremen",
-  "openingHours": "24/7",
-  "entranceFee": "kostenlos (Preise für Fahrgeschäfte während Events variieren)",
+  "address": {
+    "de": "Findorffstraße, 28209 Bremen",
+    "hu": "Findorffstraße, 28209 Bréma",
+    "ro": "Findorffstraße, 28209 Bremen",
+    "en": "Findorffstraße, 28209 Bremen"
+  },
+  "openingHours": {
+    "de": "24/7",
+    "hu": "éjjel-nappal",
+    "ro": "non-stop",
+    "en": "24/7"
+  },
+  "entranceFee": {
+    "de": "kostenlos (Preise für Fahrgeschäfte während Events variieren)",
+    "hu": "ingyenes (rendezvények idején a játékok ára változó)",
+    "ro": "gratuit (prețurile pentru atracții în timpul evenimentelor variază)",
+    "en": "free (prices for rides during events vary)"
+  },
   "website": "https://www.freimarkt.de",
-  "publicTransport": "Straßenbahn 6, 8 oder Bus 24, 25 (Hauptbahnhof)",
-  "parking": "Großparkplatz Bürgerweide (~5 €/Tag, außer bei Großveranstaltungen)",
-  "accessibility": "Ebene, asphaltierte Fläche, vollständig barrierefrei nutzbar.",
-  "photoRules": "Erlaubt, bei Veranstaltungen ist privates Fotografieren erwünscht.",
-  "bestTimeToVisit": "Abends während des Freimarkts für die Lichteffekte der Fahrgeschäfte.",
-  "audioGuide": "nein"
+  "publicTransport": {
+    "de": "Straßenbahn 6, 8 oder Bus 24, 25 (Hauptbahnhof)",
+    "hu": "6, 8-as villamos vagy 24, 25-ös busz (Hauptbahnhof megálló)",
+    "ro": "Tramvaiul 6, 8 sau autobuzul 24, 25 (Gara Centrală)",
+    "en": "Tram 6, 8 or bus 24, 25 (Main Station)"
+  },
+  "parking": {
+    "de": "Großparkplatz Bürgerweide (~5 €/Tag, außer bei Großveranstaltungen)",
+    "hu": "Bürgerweide nagyparkoló (~5 €/nap, kivéve nagyrendezvények idején)",
+    "ro": "Parcare mare Bürgerweide (~5 €/zi, cu excepția marilor evenimente)",
+    "en": "Large parking lot Bürgerweide (~5 €/day, except during major events)"
+  },
+  "accessibility": {
+    "de": "Ebene, asphaltierte Fläche, vollständig barrierefrei nutzbar.",
+    "hu": "Sík, aszfaltozott terület, teljes mértékben akadálymentes.",
+    "ro": "Suprafață plană, asfaltată, complet accesibilă.",
+    "en": "Flat, paved surface, fully accessible."
+  },
+  "photoRules": {
+    "de": "Erlaubt, bei Veranstaltungen ist privates Fotografieren erwünscht.",
+    "hu": "Megengedett, rendezvények idején kifejezetten ajánlott a fotózás.",
+    "ro": "Permis, în timpul evenimentelor fotografierea privată este încurajată.",
+    "en": "Permitted, private photography is encouraged during events."
+  },
+  "bestTimeToVisit": {
+    "de": "Abends während des Freimarkts für die Lichteffekte der Fahrgeschäfte.",
+    "hu": "Este a Freimarkt idején, a játékok látványos fényeffektjei miatt.",
+    "ro": "Seara în timpul Freimarkt pentru efectele de lumină ale atracțiilor.",
+    "en": "In the evening during the Freimarkt for the light effects of the rides."
+  },
+  "audioGuide": {
+    "de": "nein",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

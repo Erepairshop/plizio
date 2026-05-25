@@ -1,12 +1,57 @@
 {
-  "address": "Rátkai köz 2, 7020 Dunaföldvár",
-  "openingHours": "Di-So 10:00-18:00 (Saisonal variabel)",
-  "entranceFee": "800 HUF Erwachsene, 400 HUF ermäßigt",
+  "address": {
+    "de": "Rátkai köz 2, 7020 Dunaföldvár",
+    "hu": "Rátkai köz 2, 7020 Dunaföldvár",
+    "ro": "Rátkai köz 2, 7020 Dunaföldvár",
+    "en": "Rátkai köz 2, 7020 Dunaföldvár"
+  },
+  "openingHours": {
+    "de": "Di-So 10:00-18:00 (Saisonal variabel)",
+    "hu": "K-V 10:00-18:00 (szezonális változások)",
+    "ro": "Ma-Du 10:00-18:00 (sezonier)",
+    "en": "Tue-Sun 10:00-18:00 (seasonally variable)"
+  },
+  "entranceFee": {
+    "de": "800 HUF Erwachsene, 400 HUF ermäßigt",
+    "hu": "800 HUF felnőtt, 400 HUF kedvezményes",
+    "ro": "800 HUF adulți, 400 HUF redus",
+    "en": "800 HUF adults, 400 HUF reduced"
+  },
   "website": "https://www.dunafoldvarivar.hu",
-  "publicTransport": "Fernbus bis Dunaföldvár, Haltestelle 'Hősök tere'",
-  "parking": "Kostenlose Parkplätze in den umliegenden Straßen",
-  "accessibility": "Hof zugänglich, Turm nur über schmale Treppen erreichbar",
-  "photoRules": "Erlaubt für private Zwecke",
-  "bestTimeToVisit": "Nachmittags, wenn die Sonne die Donau beleuchtet",
-  "audioGuide": "nein"
+  "publicTransport": {
+    "de": "Fernbus bis Dunaföldvár, Haltestelle 'Hősök tere'",
+    "hu": "Távolsági busz Dunaföldvárig, 'Hősök tere' megálló",
+    "ro": "Autobuz interurban până la Dunaföldvár, stația 'Hősök tere'",
+    "en": "Long-distance bus to Dunaföldvár, 'Hősök tere' stop"
+  },
+  "parking": {
+    "de": "Kostenlose Parkplätze in den umliegenden Straßen",
+    "hu": "Ingyenes parkolóhelyek a környező utcákban",
+    "ro": "Parcări gratuite pe străzile din jur",
+    "en": "Free parking in surrounding streets"
+  },
+  "accessibility": {
+    "de": "Hof zugänglich, Turm nur über schmale Treppen erreichbar",
+    "hu": "Az udvar látogatható, a torony csak keskeny lépcsőkön át érhető el",
+    "ro": "Curtea accesibilă, turnul accesibil doar pe scări înguste",
+    "en": "Courtyard accessible, tower only reachable via narrow stairs"
+  },
+  "photoRules": {
+    "de": "Erlaubt für private Zwecke",
+    "hu": "Privát célokra engedélyezett",
+    "ro": "Permis pentru scopuri private",
+    "en": "Allowed for private use"
+  },
+  "bestTimeToVisit": {
+    "de": "Nachmittags, wenn die Sonne die Donau beleuchtet",
+    "hu": "Délután, amikor a nap megvilágítja a Dunát",
+    "ro": "După-amiaza, când soarele luminează Dunărea",
+    "en": "Afternoons when the sun illuminates the Danube"
+  },
+  "audioGuide": {
+    "de": "nein",
+    "hu": "nem",
+    "ro": "nu",
+    "en": "no"
+  }
 }

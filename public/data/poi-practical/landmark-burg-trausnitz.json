@@ -1,12 +1,57 @@
 {
-  "address": "Burg Trausnitz 168, 84036 Landshut",
-  "openingHours": "April-Sept 09:00-18:00, Okt-März 10:00-16:00",
-  "entranceFee": "Erwachsene 5,50€, ermäßigt 4,50€",
+  "address": {
+    "de": "Burg Trausnitz 168, 84036 Landshut",
+    "hu": "Burg Trausnitz 168, 84036 Landshut",
+    "ro": "Burg Trausnitz 168, 84036 Landshut",
+    "en": "Burg Trausnitz 168, 84036 Landshut"
+  },
+  "openingHours": {
+    "de": "April-Sept 09:00-18:00, Okt-März 10:00-16:00",
+    "hu": "Április-szeptember 09:00-18:00, október-március 10:00-16:00",
+    "ro": "Apr-Sep 09:00-18:00, Oct-Mar 10:00-16:00",
+    "en": "Apr-Sep 09:00-18:00, Oct-Mar 10:00-16:00"
+  },
+  "entranceFee": {
+    "de": "Erwachsene 5,50€, ermäßigt 4,50€",
+    "hu": "Felnőtt 5,50 €, kedvezményes 4,50 €",
+    "ro": "Adulți 5,50 €, redus 4,50 €",
+    "en": "Adults €5.50, reduced €4.50"
+  },
   "website": "https://www.schloesser.bayern.de",
-  "publicTransport": "Stadtbus Linie 7 bis Haltestelle Kalcherstraße.",
-  "parking": "Kostenpflichtiger Parkplatz direkt oberhalb der Burg.",
-  "accessibility": "Hof und Teilbereiche barrierefrei, Turm und Keller nicht.",
-  "photoRules": "Außenaufnahmen erlaubt, Innenaufnahmen im Museum untersagt.",
-  "bestTimeToVisit": "Nachmittags für den Panoramablick über die Stadt Landshut.",
-  "audioGuide": "Deutsch und Englisch verfügbar"
+  "publicTransport": {
+    "de": "Stadtbus Linie 7 bis Haltestelle Kalcherstraße.",
+    "hu": "7-es városi busz a Kalcherstraße megállóig.",
+    "ro": "Autobuzul urban linia 7 până la stația Kalcherstraße.",
+    "en": "City bus line 7 to Kalcherstraße station."
+  },
+  "parking": {
+    "de": "Kostenpflichtiger Parkplatz direkt oberhalb der Burg.",
+    "hu": "Fizetős parkoló közvetlenül a vár felett.",
+    "ro": "Parcare cu taxă chiar deasupra castelului.",
+    "en": "Paid parking lot directly above the castle."
+  },
+  "accessibility": {
+    "de": "Hof und Teilbereiche barrierefrei, Turm und Keller nicht.",
+    "hu": "Az udvar és egyes részek akadálymentesítettek, a torony és a pince nem.",
+    "ro": "Curtea și unele zone sunt accesibile, turnul și pivnița nu.",
+    "en": "Courtyard and some areas are accessible, tower and cellar are not."
+  },
+  "photoRules": {
+    "de": "Außenaufnahmen erlaubt, Innenaufnahmen im Museum untersagt.",
+    "hu": "Kültéri fotózás engedélyezett, múzeumbeli beltéri fotózás tilos.",
+    "ro": "Fotografierea exterioară permisă, fotografierea interioară în muzeu interzisă.",
+    "en": "Exterior photography allowed, interior photography in the museum forbidden."
+  },
+  "bestTimeToVisit": {
+    "de": "Nachmittags für den Panoramablick über die Stadt Landshut.",
+    "hu": "Délután a Landshut városára nyíló panorámás kilátásért.",
+    "ro": "După-amiaza pentru vederea panoramică asupra orașului Landshut.",
+    "en": "Afternoons for the panoramic view over the city of Landshut."
+  },
+  "audioGuide": {
+    "de": "Deutsch und Englisch verfügbar",
+    "hu": "Német és angol nyelven elérhető",
+    "ro": "Disponibil în germană și engleză",
+    "en": "Available in German and English"
+  }
 }

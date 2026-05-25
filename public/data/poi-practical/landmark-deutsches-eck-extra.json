@@ -1,12 +1,57 @@
 {
-  "address": "Konrad-Adenauer-Ufer, 56068 Koblenz",
-  "openingHours": "24/7",
-  "entranceFee": "kostenlos",
+  "address": {
+    "de": "Konrad-Adenauer-Ufer, 56068 Koblenz",
+    "hu": "Konrad-Adenauer-Ufer, 56068 Koblenz",
+    "ro": "Konrad-Adenauer-Ufer, 56068 Koblenz",
+    "en": "Konrad-Adenauer-Ufer, 56068 Koblenz"
+  },
+  "openingHours": {
+    "de": "24/7",
+    "hu": "24/7",
+    "ro": "24/7",
+    "en": "24/7"
+  },
+  "entranceFee": {
+    "de": "kostenlos",
+    "hu": "ingyenes",
+    "ro": "gratuit",
+    "en": "free"
+  },
   "website": "https://www.koblenz-touristik.de",
-  "publicTransport": "Buslinien 1/10 bis Haltestelle Deutsches Eck",
-  "parking": "Parkplatz am Kastorhof in unmittelbarer Nähe, ca. 2,00 € pro Stunde",
-  "accessibility": "Das gesamte Gelände ist ebenerdig und für Rollstuhlfahrer uneingeschränkt zugänglich",
-  "photoRules": "Privates Fotografieren jederzeit erlaubt, keine Drohnen im Denkmalbereich",
-  "bestTimeToVisit": "Früher Vormittag für direktes Sonnenlicht auf das Kaiser-Wilhelm-Denkmal",
-  "audioGuide": "nein"
+  "publicTransport": {
+    "de": "Buslinien 1/10 bis Haltestelle Deutsches Eck",
+    "hu": "1/10-es buszjárat a Deutsches Eck megállóig",
+    "ro": "Liniile de autobuz 1/10 până la stația Deutsches Eck",
+    "en": "Bus lines 1/10 to Deutsches Eck station"
+  },
+  "parking": {
+    "de": "Parkplatz am Kastorhof in unmittelbarer Nähe, ca. 2,00 € pro Stunde",
+    "hu": "Kastorhof parkoló a közelben, kb. 2,00 €/óra",
+    "ro": "Parcare la Kastorhof în imediata apropiere, aprox. 2,00 € pe oră",
+    "en": "Parking at Kastorhof in the immediate vicinity, approx. €2.00 per hour"
+  },
+  "accessibility": {
+    "de": "Das gesamte Gelände ist ebenerdig und für Rollstuhlfahrer uneingeschränkt zugänglich",
+    "hu": "Az egész terület szintbeli és korlátozás nélkül megközelíthető kerekesszékkel",
+    "ro": "Întreaga zonă este la nivelul solului și accesibilă fără restricții pentru utilizatorii de scaune cu rotile",
+    "en": "The entire area is level and accessible without restriction for wheelchair users"
+  },
+  "photoRules": {
+    "de": "Privates Fotografieren jederzeit erlaubt, keine Drohnen im Denkmalbereich",
+    "hu": "A magáncélú fotózás bármikor engedélyezett, drónok a műemlék területén tilosak",
+    "ro": "Fotografierea privată este permisă oricând, dronele sunt interzise în zona monumentului",
+    "en": "Private photography is allowed at any time, no drones in the monument area"
+  },
+  "bestTimeToVisit": {
+    "de": "Früher Vormittag für direktes Sonnenlicht auf das Kaiser-Wilhelm-Denkmal",
+    "hu": "Kora délelőtt a Kaiser-Wilhelm-emlékművet érő közvetlen napfényért",
+    "ro": "Dimineața devreme pentru lumina directă a soarelui pe monumentul Kaiser-Wilhelm",
+    "en": "Early morning for direct sunlight on the Kaiser Wilhelm monument"
+  },
+  "audioGuide": {
+    "de": "nein",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

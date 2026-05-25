@@ -1,12 +1,57 @@
 {
-  "address": "Hafenstraße 2, 78462 Konstanz",
-  "openingHours": "Außenbesichtigung 24/7; Restaurant im EG täglich 11:00-22:00",
-  "entranceFee": "free (außer bei Veranstaltungen)",
+  "address": {
+    "de": "Hafenstraße 2, 78462 Konstanz",
+    "hu": "Hafenstraße 2, 78462 Konstanz",
+    "ro": "Hafenstraße 2, 78462 Konstanz",
+    "en": "Hafenstraße 2, 78462 Konstanz"
+  },
+  "openingHours": {
+    "de": "Außenbesichtigung 24/7; Restaurant im EG täglich 11:00-22:00",
+    "hu": "Kívülről bármikor; földszinti étterem naponta 11:00–22:00",
+    "ro": "Vizită exterioară non-stop; restaurant la parter zilnic 11:00-22:00",
+    "en": "Outdoor viewing 24/7; ground floor restaurant daily 11:00-22:00"
+  },
+  "entranceFee": {
+    "de": "free (außer bei Veranstaltungen)",
+    "hu": "ingyenes (kivéve rendezvények alatt)",
+    "ro": "gratuit (cu excepția evenimentelor)",
+    "en": "free (except during events)"
+  },
   "website": "https://www.konzil-konstanz.de",
-  "publicTransport": "Direkt am Bahnhof Konstanz (alle Linien)",
-  "parking": "Parkhaus am Fischmarkt oder Parkhaus LAGO, ca. €2.50/Std.",
-  "accessibility": "Erdgeschoss barrierefrei; obere Säle bei Veranstaltungen meist über Aufzug erreichbar",
-  "photoRules": "Erlaubt; besonders schön vom Hafen aus mit der Imperia-Statue",
-  "bestTimeToVisit": "Zur blauen Stunde direkt am Seeufer",
-  "audioGuide": "no"
+  "publicTransport": {
+    "de": "Direkt am Bahnhof Konstanz (alle Linien)",
+    "hu": "Közvetlenül a konstanz-i pályaudvarnál (minden vonal)",
+    "ro": "Direct lângă gara Konstanz (toate liniile)",
+    "en": "Directly at Konstanz station (all lines)"
+  },
+  "parking": {
+    "de": "Parkhaus am Fischmarkt oder Parkhaus LAGO, ca. €2.50/Std.",
+    "hu": "Parkhaus am Fischmarkt vagy LAGO parkolóház, kb. 2,50 €/óra",
+    "ro": "Parcarea de la Fischmarkt sau parcarea LAGO, aprox. 2,50 €/oră",
+    "en": "Parking garage at Fischmarkt or LAGO parking, approx. €2.50/hr"
+  },
+  "accessibility": {
+    "de": "Erdgeschoss barrierefrei; obere Säle bei Veranstaltungen meist über Aufzug erreichbar",
+    "hu": "A földszint akadálymentes; a felső termek rendezvények idején lifttel megközelíthetők",
+    "ro": "Parterul este accesibil; sălile superioare sunt de obicei accesibile prin lift în timpul evenimentelor",
+    "en": "Ground floor accessible; upper halls usually reachable via elevator during events"
+  },
+  "photoRules": {
+    "de": "Erlaubt; besonders schön vom Hafen aus mit der Imperia-Statue",
+    "hu": "Megengedett; a kikötő felől az Imperia-szoborral együtt mutat a legjobban",
+    "ro": "Permis; deosebit de frumos din port, împreună cu statuia Imperia",
+    "en": "Allowed; particularly beautiful from the harbor with the Imperia statue"
+  },
+  "bestTimeToVisit": {
+    "de": "Zur blauen Stunde direkt am Seeufer",
+    "hu": "A kék órában közvetlenül a tóparton",
+    "ro": "La ora albastră direct pe malul lacului",
+    "en": "During the blue hour directly on the lakeside"
+  },
+  "audioGuide": {
+    "de": "no",
+    "hu": "nem",
+    "ro": "nu",
+    "en": "no"
+  }
 }

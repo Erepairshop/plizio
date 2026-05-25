@@ -1,12 +1,57 @@
 {
-  "address": "Kossuth tér 1, 6000 Kecskemét",
-  "openingHours": "Geführte Touren nach Voranmeldung (meist Sa 10:30)",
-  "entranceFee": "1000 HUF (für geführte Touren)",
+  "address": {
+    "de": "Kossuth tér 1, 6000 Kecskemét",
+    "hu": "Kossuth tér 1, 6000 Kecskemét",
+    "ro": "Kossuth tér 1, 6000 Kecskemét",
+    "en": "Kossuth tér 1, 6000 Kecskemét"
+  },
+  "openingHours": {
+    "de": "Geführte Touren nach Voranmeldung (meist Sa 10:30)",
+    "hu": "Vezetett túrák előzetes bejelentkezéssel (általában Szo 10:30)",
+    "ro": "Tururi ghidate cu programare prealabilă (de obicei Sâm 10:30)",
+    "en": "Guided tours by appointment (usually Sat 10:30)"
+  },
+  "entranceFee": {
+    "de": "1000 HUF (für geführte Touren)",
+    "hu": "1000 HUF (vezetett túrákért)",
+    "ro": "1000 HUF (pentru tururi ghidate)",
+    "en": "1000 HUF (for guided tours)"
+  },
   "website": "https://www.kecskemet.hu",
-  "publicTransport": "Zentraler Platz, 10 Min. Fußweg vom Bahnhof",
-  "parking": "Gebührenpflichtiger Parkplatz am Deák-Platz",
-  "accessibility": "Erdgeschoss barrierefrei, Festsaal über Aufzug",
-  "photoRules": "Im Festsaal erlaubt, Blitzlicht eingeschränkt wegen der Wandgemälde",
-  "bestTimeToVisit": "Zur vollen Stunde, um das Glockenspiel am Giebel zu hören",
-  "audioGuide": "nein"
+  "publicTransport": {
+    "de": "Zentraler Platz, 10 Min. Fußweg vom Bahnhof",
+    "hu": "Központi tér, 10 perc séta a vasútállomástól",
+    "ro": "Piață centrală, 10 minute de mers pe jos de la gară",
+    "en": "Central square, 10 min walk from the train station"
+  },
+  "parking": {
+    "de": "Gebührenpflichtiger Parkplatz am Deák-Platz",
+    "hu": "Fizetős parkoló a Deák téren",
+    "ro": "Parcare cu plată în Piața Deák",
+    "en": "Paid parking at Deák Square"
+  },
+  "accessibility": {
+    "de": "Erdgeschoss barrierefrei, Festsaal über Aufzug",
+    "hu": "Földszint akadálymentesített, díszterem lifttel",
+    "ro": "Parter accesibil, sala festivă cu lift",
+    "en": "Ground floor accessible, banquet hall via elevator"
+  },
+  "photoRules": {
+    "de": "Im Festsaal erlaubt, Blitzlicht eingeschränkt wegen der Wandgemälde",
+    "hu": "A díszteremben megengedett, vaku használata korlátozott a falfestmények miatt",
+    "ro": "Permis în sala festivă, bliț restricționat din cauza picturilor murale",
+    "en": "Allowed in banquet hall, flash restricted due to murals"
+  },
+  "bestTimeToVisit": {
+    "de": "Zur vollen Stunde, um das Glockenspiel am Giebel zu hören",
+    "hu": "Egész órakor, hogy hallhasd a homlokzati harangjátékot",
+    "ro": "La oră fixă, pentru a auzi carillonul de pe fațadă",
+    "en": "On the hour to hear the carillon on the facade"
+  },
+  "audioGuide": {
+    "de": "nein",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

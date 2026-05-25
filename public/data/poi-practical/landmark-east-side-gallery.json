@@ -1,12 +1,57 @@
 {
-  "address": "Mühlenstraße 73, 10243 Berlin",
-  "openingHours": "24/7",
-  "entranceFee": "kostenlos",
+  "address": {
+    "de": "Mühlenstraße 73, 10243 Berlin",
+    "hu": "Mühlenstraße 73, 10243 Berlin",
+    "ro": "Mühlenstraße 73, 10243 Berlin",
+    "en": "Mühlenstraße 73, 10243 Berlin"
+  },
+  "openingHours": {
+    "de": "24/7",
+    "hu": "24/7",
+    "ro": "24/7",
+    "en": "24/7"
+  },
+  "entranceFee": {
+    "de": "kostenlos",
+    "hu": "ingyenes",
+    "ro": "gratuit",
+    "en": "free"
+  },
   "website": "https://www.eastsidegallery-berlin.de",
-  "publicTransport": "S-Bahn Ostbahnhof oder Warschauer Straße",
-  "parking": "Sehr begrenzt, Parkhaus am Mercedes-Benz Platz (teuer, ca. 3,50 €/h)",
-  "accessibility": "Der gesamte Gehweg entlang der Mauer ist breit und rollstuhlgerecht ausgebaut",
-  "photoRules": "Fotografieren erlaubt, gewerbliche Aufnahmen bedürfen einer Genehmigung",
-  "bestTimeToVisit": "Abends bei Sonnenuntergang für besonders warme Farben auf den Kunstwerken",
-  "audioGuide": "ja, über Smartphone-App der Stiftung Berliner Mauer verfügbar"
+  "publicTransport": {
+    "de": "S-Bahn Ostbahnhof oder Warschauer Straße",
+    "hu": "S-Bahn Ostbahnhof vagy Warschauer Straße",
+    "ro": "S-Bahn Ostbahnhof sau Warschauer Straße",
+    "en": "S-Bahn Ostbahnhof or Warschauer Straße"
+  },
+  "parking": {
+    "de": "Sehr begrenzt, Parkhaus am Mercedes-Benz Platz (teuer, ca. 3,50 €/h)",
+    "hu": "Nagyon korlátozott, parkolóház a Mercedes-Benz Platznál (drága, kb. 3,50 €/óra)",
+    "ro": "Foarte limitat, parcare la Mercedes-Benz Platz (scump, aprox. 3,50 €/h)",
+    "en": "Very limited, parking garage at Mercedes-Benz Platz (expensive, approx. €3.50/h)"
+  },
+  "accessibility": {
+    "de": "Der gesamte Gehweg entlang der Mauer ist breit und rollstuhlgerecht ausgebaut",
+    "hu": "A fal mentén végig széles és kerekesszékkel járható járda van",
+    "ro": "Întregul trotuar de-a lungul zidului este larg și amenajat pentru accesul cu scaunul cu rotile",
+    "en": "The entire sidewalk along the wall is wide and wheelchair accessible"
+  },
+  "photoRules": {
+    "de": "Fotografieren erlaubt, gewerbliche Aufnahmen bedürfen einer Genehmigung",
+    "hu": "Fotózás engedélyezett, kereskedelmi felvételekhez engedély szükséges",
+    "ro": "Fotografierea permisă, pentru înregistrările comerciale este nevoie de aprobare",
+    "en": "Photography allowed, commercial shots require permission"
+  },
+  "bestTimeToVisit": {
+    "de": "Abends bei Sonnenuntergang für besonders warme Farben auf den Kunstwerken",
+    "hu": "Este naplementekor, a műalkotások különösen meleg színeiért",
+    "ro": "Seara la apus, pentru culori deosebit de calde pe operele de artă",
+    "en": "Evening at sunset for particularly warm colors on the artworks"
+  },
+  "audioGuide": {
+    "de": "ja, über Smartphone-App der Stiftung Berliner Mauer verfügbar",
+    "hu": "igen, a Berlini Fal Alapítvány okostelefonos alkalmazásán keresztül elérhető",
+    "ro": "da, disponibil prin aplicația pentru smartphone a Fundației Zidului Berlinului",
+    "en": "yes, available via the Berlin Wall Foundation smartphone app"
+  }
 }

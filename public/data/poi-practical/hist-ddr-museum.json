@@ -1,12 +1,57 @@
 {
-  "address": "Karl-Liebknecht-Str. 1, 10178 Berlin",
-  "openingHours": "Täglich 09:00-21:00",
-  "entranceFee": "€13,50 Erwachsene (Tickets online oft günstiger)",
+  "address": {
+    "de": "Karl-Liebknecht-Str. 1, 10178 Berlin",
+    "hu": "Karl-Liebknecht-Str. 1, 10178 Berlin",
+    "ro": "Karl-Liebknecht-Str. 1, 10178 Berlin",
+    "en": "Karl-Liebknecht-Str. 1, 10178 Berlin"
+  },
+  "openingHours": {
+    "de": "Täglich 09:00-21:00",
+    "hu": "Naponta 09:00-21:00",
+    "ro": "Zilnic 09:00-21:00",
+    "en": "Daily 09:00-21:00"
+  },
+  "entranceFee": {
+    "de": "€13,50 Erwachsene (Tickets online oft günstiger)",
+    "hu": "13,50 € felnőtt (online jegyvásárlás gyakran olcsóbb)",
+    "ro": "13,50 € adulți (biletele online sunt adesea mai ieftine)",
+    "en": "€13.50 adults (tickets often cheaper online)"
+  },
   "website": "https://www.ddr-museum.de",
-  "publicTransport": "S-Bahn/U-Bahn Alexanderplatz oder Hackescher Markt",
-  "parking": "Parkhaus City-Quartier DomAquarée (~3 €/Std.).",
-  "accessibility": "Vollständig rollstuhlgerecht über Aufzüge an der Uferpromenade zugänglich.",
-  "photoRules": "Privates Fotografieren und Filmen ist uneingeschränkt gestattet.",
-  "bestTimeToVisit": "Abends nach 18:30 Uhr, wenn die Tagestouristen abgereist sind.",
-  "audioGuide": "nein (voll interaktive Ausstellung mit mehrsprachigen Begleittexten)"
+  "publicTransport": {
+    "de": "S-Bahn/U-Bahn Alexanderplatz oder Hackescher Markt",
+    "hu": "S-Bahn/U-Bahn Alexanderplatz vagy Hackescher Markt",
+    "ro": "S-Bahn/U-Bahn Alexanderplatz sau Hackescher Markt",
+    "en": "S-Bahn/U-Bahn Alexanderplatz or Hackescher Markt"
+  },
+  "parking": {
+    "de": "Parkhaus City-Quartier DomAquarée (~3 €/Std.).",
+    "hu": "City-Quartier DomAquarée parkolóház (~3 €/óra).",
+    "ro": "Parcarea City-Quartier DomAquarée (~3 €/oră).",
+    "en": "City-Quartier DomAquarée parking garage (~3 €/hr)."
+  },
+  "accessibility": {
+    "de": "Vollständig rollstuhlgerecht über Aufzüge an der Uferpromenade zugänglich.",
+    "hu": "A vízparti sétány felőli liftekkel teljesen akadálymentesen megközelíthető.",
+    "ro": "Complet accesibil pentru scaune cu rotile prin ascensoarele de pe faleză.",
+    "en": "Fully wheelchair accessible via elevators on the river promenade."
+  },
+  "photoRules": {
+    "de": "Privates Fotografieren und Filmen ist uneingeschränkt gestattet.",
+    "hu": "Magáncélú fotózás és videózás korlátozás nélkül megengedett.",
+    "ro": "Fotografierea și filmarea privată sunt permise fără restricții.",
+    "en": "Private photography and filming are permitted without restrictions."
+  },
+  "bestTimeToVisit": {
+    "de": "Abends nach 18:30 Uhr, wenn die Tagestouristen abgereist sind.",
+    "hu": "Este 18:30 után, amikor a napi turistaáradat már elvonult.",
+    "ro": "Seara după ora 18:30, când turiștii de zi au plecat.",
+    "en": "In the evening after 6:30 PM, when day tourists have left."
+  },
+  "audioGuide": {
+    "de": "nein (voll interaktive Ausstellung mit mehrsprachigen Begleittexten)",
+    "hu": "nincs (teljesen interaktív kiállítás többnyelvű kísérőszövegekkel)",
+    "ro": "nu (expoziție complet interactivă cu texte în mai multe limbi)",
+    "en": "no (fully interactive exhibition with multilingual descriptive texts)"
+  }
 }

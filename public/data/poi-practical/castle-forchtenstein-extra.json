@@ -1,12 +1,57 @@
 {
-  "address": "Melinda-Esterházy-Platz 1, 7212 Forchtenstein, Österreich",
-  "openingHours": "April bis Oktober: Täglich 10:00-18:00; Winter nur auf Anfrage",
-  "entranceFee": "€19 Erwachsene (inkl. Führung), €15 (nur Ausstellungen)",
+  "address": {
+    "de": "Melinda-Esterházy-Platz 1, 7212 Forchtenstein, Österreich",
+    "hu": "Melinda-Esterházy-Platz 1, 7212 Forchtenstein, Ausztria",
+    "ro": "Melinda-Esterházy-Platz 1, 7212 Forchtenstein, Austria",
+    "en": "Melinda-Esterházy-Platz 1, 7212 Forchtenstein, Austria"
+  },
+  "openingHours": {
+    "de": "April bis Oktober: Täglich 10:00-18:00; Winter nur auf Anfrage",
+    "hu": "Áprilistól októberig: naponta 10:00-18:00; télen csak kérésre",
+    "ro": "Aprilie - Octombrie: zilnic 10:00-18:00; iarna doar la cerere",
+    "en": "April to October: Daily 10:00-18:00; winter only on request"
+  },
+  "entranceFee": {
+    "de": "€19 Erwachsene (inkl. Führung), €15 (nur Ausstellungen)",
+    "hu": "19€ felnőtt (vezetéssel), 15€ (csak a kiállítások)",
+    "ro": "19€ adulți (inclusiv tur ghidat), 15€ (doar expozițiile)",
+    "en": "€19 adults (incl. guided tour), €15 (exhibitions only)"
+  },
   "website": "https://esterhazy.at/burg-forchtenstein",
-  "publicTransport": "Bus 7905 ab Eisenstadt or Mattersburg",
-  "parking": "Kostenpflichtiger Parkplatz direkt bei der Burganlage",
-  "accessibility": "Teilweise barrierefrei (Aufzug vorhanden), grobes Kopfsteinpflaster im Hof",
-  "photoRules": "In den Ausstellungsräumen nur eingeschränkt ohne Blitz erlaubt",
-  "bestTimeToVisit": "An klaren Tagen für den Fernblick bis in die Pannonische Tiefebene",
-  "audioGuide": "ja (Deutsch, Englisch, Ungarisch)"
+  "publicTransport": {
+    "de": "Bus 7905 ab Eisenstadt or Mattersburg",
+    "hu": "7905-ös busz Kismarton (Eisenstadt) vagy Mattersburg felől",
+    "ro": "Autobuzul 7905 din Eisenstadt sau Mattersburg",
+    "en": "Bus 7905 from Eisenstadt or Mattersburg"
+  },
+  "parking": {
+    "de": "Kostenpflichtiger Parkplatz direkt bei der Burganlage",
+    "hu": "Díjköteles parkoló közvetlenül a várnál",
+    "ro": "Parcare cu plată chiar lângă castel",
+    "en": "Paid parking lot directly at the castle complex"
+  },
+  "accessibility": {
+    "de": "Teilweise barrierefrei (Aufzug vorhanden), grobes Kopfsteinpflaster im Hof",
+    "hu": "Részben akadálymentes (van lift), durva macskakő az udvaron",
+    "ro": "Parțial accesibil (lift disponibil), pavaj dur cu piatră cubică în curte",
+    "en": "Partially accessible (lift available), rough cobblestones in the courtyard"
+  },
+  "photoRules": {
+    "de": "In den Ausstellungsräumen nur eingeschränkt ohne Blitz erlaubt",
+    "hu": "A kiállítótermekben csak korlátozottan, vaku nélkül engedélyezett",
+    "ro": "În sălile de expoziție permis doar limitat și fără bliț",
+    "en": "Only limited permission without flash in the exhibition rooms"
+  },
+  "bestTimeToVisit": {
+    "de": "An klaren Tagen für den Fernblick bis in die Pannonische Tiefebene",
+    "hu": "Tiszta időben a Pannon-síkságig terjedő kilátás miatt",
+    "ro": "În zilele senine pentru vederea panoramică până în Câmpia Panonică",
+    "en": "On clear days for the long-distance view into the Pannonian Plain"
+  },
+  "audioGuide": {
+    "de": "ja (Deutsch, Englisch, Ungarisch)",
+    "hu": "igen (német, angol, magyar)",
+    "ro": "da (germană, engleză, maghiară)",
+    "en": "yes (German, English, Hungarian)"
+  }
 }

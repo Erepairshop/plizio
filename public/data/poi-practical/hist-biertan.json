@@ -1,12 +1,57 @@
 {
-  "address": "Strada 1 Decembrie 2, Biertan 557045, Sibiu",
-  "openingHours": "Mo-Su 10:00-19:00 (Apr-Okt)",
-  "entranceFee": "15 RON Erwachsene",
+  "address": {
+    "de": "Strada 1 Decembrie 2, Biertan 557045, Sibiu",
+    "hu": "Strada 1 Decembrie 2, Berethalom 557045, Szeben megye",
+    "ro": "Strada 1 Decembrie 2, Biertan 557045, Sibiu",
+    "en": "Strada 1 Decembrie 2, Biertan 557045, Sibiu County"
+  },
+  "openingHours": {
+    "de": "Mo-Su 10:00-19:00 (Apr-Okt)",
+    "hu": "H-V 10:00-19:00 (áprilistól októberig)",
+    "ro": "Lu-Du 10:00-19:00 (apr-oct)",
+    "en": "Mon-Sun 10:00-19:00 (Apr-Oct)"
+  },
+  "entranceFee": {
+    "de": "15 RON Erwachsene",
+    "hu": "15 RON felnőtteknek",
+    "ro": "15 RON adulți",
+    "en": "15 RON adults"
+  },
   "website": "",
-  "publicTransport": "Kein direkter Zug, Bus ab Mediaș oder Schäßburg",
-  "parking": "Kostenpflichtiger Parkplatz direkt am Dorfplatz",
-  "accessibility": "Steiler Aufstieg über Treppen zum Kircheneingang",
-  "photoRules": "Erlaubt, Blitzlicht in der Kirche unerwünscht",
-  "bestTimeToVisit": "Mai bis September für Besichtigungen aller Türme",
-  "audioGuide": "nein"
+  "publicTransport": {
+    "de": "Kein direkter Zug, Bus ab Mediaș oder Schäßburg",
+    "hu": "Nincs közvetlen vonat, buszjáratok Medgyesről vagy Segesvárról",
+    "ro": "Fără tren direct, autobuz din Mediaș sau Sighișoara",
+    "en": "No direct train, bus service from Mediaș or Sighișoara"
+  },
+  "parking": {
+    "de": "Kostenpflichtiger Parkplatz direkt am Dorfplatz",
+    "hu": "Fizetős parkoló közvetlenül a falu főterén",
+    "ro": "Parcare cu plată direct în piața satului",
+    "en": "Paid parking lot directly in the village square"
+  },
+  "accessibility": {
+    "de": "Steiler Aufstieg über Treppen zum Kircheneingang",
+    "hu": "Meredek lépcsősor vezet fel a templom bejáratához",
+    "ro": "Urcare abruptă pe scări către intrarea în biserică",
+    "en": "Steep climb via stairs to the church entrance"
+  },
+  "photoRules": {
+    "de": "Erlaubt, Blitzlicht in der Kirche unerwünscht",
+    "hu": "Engedélyezett, vaku használata a templomban nem ajánlott",
+    "ro": "Permis, utilizarea blițului în biserică nu este dorită",
+    "en": "Permitted, flash photography inside the church is discouraged"
+  },
+  "bestTimeToVisit": {
+    "de": "Mai bis September für Besichtigungen aller Türme",
+    "hu": "Májustól szeptemberig, amikor az összes torony látogatható",
+    "ro": "Din mai până în septembrie pentru vizitarea tuturor turnurilor",
+    "en": "May to September to visit all the towers"
+  },
+  "audioGuide": {
+    "de": "nein",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

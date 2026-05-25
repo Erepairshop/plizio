@@ -1,12 +1,57 @@
 {
-  "address": "Schlossplatz 1, 3661 Artstetten, Österreich",
-  "openingHours": "April bis Oktober: Täglich 09:00-17:30",
-  "entranceFee": "€12,50 Erwachsene, €7,50 Kinder",
+  "address": {
+    "de": "Schlossplatz 1, 3661 Artstetten, Österreich",
+    "hu": "Schlossplatz 1, 3661 Artstetten, Ausztria",
+    "ro": "Schlossplatz 1, 3661 Artstetten, Austria",
+    "en": "Schlossplatz 1, 3661 Artstetten, Austria"
+  },
+  "openingHours": {
+    "de": "April bis Oktober: Täglich 09:00-17:30",
+    "hu": "Áprilistól októberig: naponta 09:00-17:30",
+    "ro": "Din aprilie până în octombrie: zilnic 09:00-17:30",
+    "en": "April to October: Daily 09:00-17:30"
+  },
+  "entranceFee": {
+    "de": "€12,50 Erwachsene, €7,50 Kinder",
+    "hu": "12,50 € felnőtt, 7,50 € gyermek",
+    "ro": "12,50 € adulți, 7,50 € copii",
+    "en": "€12.50 adults, €7.50 children"
+  },
   "website": "https://www.schloss-artstetten.at/",
-  "publicTransport": "Bus 785 ab Melk oder Pöchlarn",
-  "parking": "Kostenlose Besucherparkplätze direkt vor dem Schlossareal",
-  "accessibility": "Erzherzog-Franz-Ferdinand-Museum barrierefrei (Aufzug), Park mit Steigungen",
-  "photoRules": "Im Museumsbereich gestattet",
-  "bestTimeToVisit": "Frühjahr, wenn die historische Parkanlage in voller Blüte steht",
-  "audioGuide": "ja (Deutsch, Englisch, Französisch)"
+  "publicTransport": {
+    "de": "Bus 785 ab Melk oder Pöchlarn",
+    "hu": "785-ös busz Melk vagy Pöchlarn felől",
+    "ro": "Autobuzul 785 din Melk sau Pöchlarn",
+    "en": "Bus 785 from Melk or Pöchlarn"
+  },
+  "parking": {
+    "de": "Kostenlose Besucherparkplätze direkt vor dem Schlossareal",
+    "hu": "Ingyenes látogatói parkoló közvetlenül a kastély területe előtt",
+    "ro": "Parcare gratuită pentru vizitatori direct în fața domeniului castelului",
+    "en": "Free visitor parking directly in front of the castle grounds"
+  },
+  "accessibility": {
+    "de": "Erzherzog-Franz-Ferdinand-Museum barrierefrei (Aufzug), Park mit Steigungen",
+    "hu": "Ferenc Ferdinánd főherceg múzeum akadálymentesített (lift), a park emelkedős",
+    "ro": "Muzeul Arhiducelui Franz Ferdinand este accesibil (lift), parcul are pante",
+    "en": "Archduke Franz Ferdinand Museum is accessible (elevator), park has inclines"
+  },
+  "photoRules": {
+    "de": "Im Museumsbereich gestattet",
+    "hu": "A múzeum területén megengedett",
+    "ro": "Permis în zona muzeului",
+    "en": "Permitted in the museum area"
+  },
+  "bestTimeToVisit": {
+    "de": "Frühjahr, wenn die historische Parkanlage in voller Blüte steht",
+    "hu": "Tavasszal, amikor a történelmi park teljes virágzásban van",
+    "ro": "Primăvara, când parcul istoric este în plină floare",
+    "en": "Spring, when the historical park is in full bloom"
+  },
+  "audioGuide": {
+    "de": "ja (Deutsch, Englisch, Französisch)",
+    "hu": "igen (német, angol, francia)",
+    "ro": "da (germană, engleză, franceză)",
+    "en": "yes (German, English, French)"
+  }
 }

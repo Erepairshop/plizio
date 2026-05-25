@@ -1,12 +1,57 @@
 {
-  "address": "Irtás dűlő, 8710 Balatonszentgyörgy",
-  "openingHours": "Täglich 09:00-18:00 (April bis Oktober)",
-  "entranceFee": "2000 HUF Erwachsene, 1200 HUF Kinder",
+  "address": {
+    "de": "Irtás dűlő, 8710 Balatonszentgyörgy",
+    "hu": "Irtás dűlő, 8710 Balatonszentgyörgy",
+    "ro": "Irtás dűlő, 8710 Balatonszentgyörgy",
+    "en": "Irtás dűlő, 8710 Balatonszentgyörgy"
+  },
+  "openingHours": {
+    "de": "Täglich 09:00-18:00 (April bis Oktober)",
+    "hu": "Naponta 09:00-18:00 (áprilistól októberig)",
+    "ro": "Zilnic 09:00-18:00 (aprilie-octombrie)",
+    "en": "Daily 09:00-18:00 (April to October)"
+  },
+  "entranceFee": {
+    "de": "2000 HUF Erwachsene, 1200 HUF Kinder",
+    "hu": "2000 HUF felnőtt, 1200 HUF gyerek",
+    "ro": "2000 HUF adulți, 1200 HUF copii",
+    "en": "2000 HUF adults, 1200 HUF children"
+  },
   "website": "http://www.csillagvar.hu/",
-  "publicTransport": "Bahnstation Balatonszentgyörgy, danach ca. 20 Min. Fussweg durch den Wald.",
-  "parking": "Kostenloser Parkplatz direkt auf dem Gelände der Sternburg.",
-  "accessibility": "Das Erdgeschoss mit der Ausstellung ist barrierefrei erreichbar.",
-  "photoRules": "Erlaubt; das sternförmige Gebäude bietet einzigartige Perspektiven.",
-  "bestTimeToVisit": "Nachmittags, kombiniert mit einem Besuch der Bogenschiessanlage im Garten.",
-  "audioGuide": "no"
+  "publicTransport": {
+    "de": "Bahnstation Balatonszentgyörgy, danach ca. 20 Min. Fussweg durch den Wald.",
+    "hu": "Balatonszentgyörgy vasútállomás, majd kb. 20 perc gyaloglás az erdőn keresztül.",
+    "ro": "Gara Balatonszentgyörgy, apoi aprox. 20 minute de mers pe jos prin pădure.",
+    "en": "Train station Balatonszentgyörgy, then approx. 20 min. walk through the woods."
+  },
+  "parking": {
+    "de": "Kostenloser Parkplatz direkt auf dem Gelände der Sternburg.",
+    "hu": "Ingyenes parkoló közvetlenül a Csillagvár területén.",
+    "ro": "Parcare gratuită chiar pe teritoriul castelului Csillag.",
+    "en": "Free parking directly on the grounds of the Star Castle."
+  },
+  "accessibility": {
+    "de": "Das Erdgeschoss mit der Ausstellung ist barrierefrei erreichbar.",
+    "hu": "A földszinti kiállítás akadálymentesen megközelíthető.",
+    "ro": "Parterul cu expoziția este accesibil fără bariere.",
+    "en": "The ground floor with the exhibition is barrier-free accessible."
+  },
+  "photoRules": {
+    "de": "Erlaubt; das sternförmige Gebäude bietet einzigartige Perspektiven.",
+    "hu": "Engedélyezett; a csillag alakú épület egyedi perspektívákat kínál.",
+    "ro": "Permis; clădirea în formă de stea oferă perspective unice.",
+    "en": "Allowed; the star-shaped building offers unique perspectives."
+  },
+  "bestTimeToVisit": {
+    "de": "Nachmittags, kombiniert mit einem Besuch der Bogenschiessanlage im Garten.",
+    "hu": "Délután, egybekötve a kert íjászpályájának látogatásával.",
+    "ro": "După-amiaza, combinat cu o vizită la poligonul de tir cu arcul din grădină.",
+    "en": "Afternoons, combined with a visit to the archery range in the garden."
+  },
+  "audioGuide": {
+    "de": "no",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

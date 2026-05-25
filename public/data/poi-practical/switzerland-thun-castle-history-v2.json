@@ -1,12 +1,57 @@
 {
-  "address": "Schlossberg 1, 3600 Thun",
-  "openingHours": "Täglich 10:00-17:00 (Feb-Okt)",
-  "entranceFee": "CHF 10 Erwachsene, CHF 5 Kinder",
+  "address": {
+    "de": "Schlossberg 1, 3600 Thun",
+    "hu": "Schlossberg 1, 3600 Thun",
+    "ro": "Schlossberg 1, 3600 Thun",
+    "en": "Schlossberg 1, 3600 Thun"
+  },
+  "openingHours": {
+    "de": "Täglich 10:00-17:00 (Feb-Okt)",
+    "hu": "Naponta 10:00–17:00 (feb.–okt.)",
+    "ro": "Zilnic 10:00-17:00 (Feb-Oct)",
+    "en": "Daily 10:00-17:00 (Feb-Oct)"
+  },
+  "entranceFee": {
+    "de": "CHF 10 Erwachsene, CHF 5 Kinder",
+    "hu": "10 CHF felnőtt, 5 CHF gyermek",
+    "ro": "10 CHF adulți, 5 CHF copii",
+    "en": "10 CHF adults, 5 CHF children"
+  },
   "website": "https://schlossthun.ch/",
-  "publicTransport": "Bus 21, 24 oder 25 bis Rathausplatz, dann Lift oder Treppen zum Schlossberg.",
-  "parking": "Parkhaus City Ost Schlossberg bietet direkten Liftzugang zum Schlossgelände.",
-  "accessibility": "Ein Lift führt zur Schlossanlage, das Museum selbst ist jedoch nur teilweise barrierefrei.",
-  "photoRules": "Fotografieren ohne Blitz und Stativ im Museum erlaubt.",
-  "bestTimeToVisit": "Am frühen Vormittag, um den Blick auf Eiger, Mönch und Jungfrau bei klarer Sicht zu geniessen.",
-  "audioGuide": "no"
+  "publicTransport": {
+    "de": "Bus 21, 24 oder 25 bis Rathausplatz, dann Lift oder Treppen zum Schlossberg.",
+    "hu": "21, 24, 25-ös busz a Rathausplatzra, majd lift vagy lépcső a várhegyre.",
+    "ro": "Autobuz 21, 24 sau 25 până la Rathausplatz, apoi lift sau scări spre Schlossberg.",
+    "en": "Bus 21, 24 or 25 to Rathausplatz, then lift or stairs to castle hill."
+  },
+  "parking": {
+    "de": "Parkhaus City Ost Schlossberg bietet direkten Liftzugang zum Schlossgelände.",
+    "hu": "A City Ost Schlossberg parkolóház közvetlen liftet kínál a vár területére.",
+    "ro": "Parcarea City Ost Schlossberg oferă acces direct cu liftul la castel.",
+    "en": "City Ost Schlossberg parking offers direct lift access to castle grounds."
+  },
+  "accessibility": {
+    "de": "Ein Lift führt zur Schlossanlage, das Museum selbst ist jedoch nur teilweise barrierefrei.",
+    "hu": "Lift visz a várterületre, maga a múzeum csak részben akadálymentesített.",
+    "ro": "Un lift duce la castel, dar muzeul este doar parțial accesibil.",
+    "en": "A lift leads to castle grounds, but museum is only partially accessible."
+  },
+  "photoRules": {
+    "de": "Fotografieren ohne Blitz und Stativ im Museum erlaubt.",
+    "hu": "Fotózás vaku és állvány nélkül engedélyezett a múzeumban.",
+    "ro": "Fotografiatul fără bliț și trepied permis în muzeu.",
+    "en": "Photography without flash or tripod allowed in museum."
+  },
+  "bestTimeToVisit": {
+    "de": "Am frühen Vormittag, um den Blick auf Eiger, Mönch und Jungfrau bei klarer Sicht zu geniessen.",
+    "hu": "Kora délelőtt, az Eiger, Mönch és Jungfrau látványáért tiszta időben.",
+    "ro": "Dimineața devreme, pentru a admira Eiger, Mönch și Jungfrau pe vreme senină.",
+    "en": "Early morning, to enjoy the view of Eiger, Mönch and Jungfrau in clear weather."
+  },
+  "audioGuide": {
+    "de": "no",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

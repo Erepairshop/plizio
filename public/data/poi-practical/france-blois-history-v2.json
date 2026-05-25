@@ -1,12 +1,57 @@
 {
-  "address": "6 Place du Château, 41000 Blois",
-  "openingHours": "Mo-Su 09:00-18:30",
-  "entranceFee": "€14 Erwachsene, €7 Kinder",
+  "address": {
+    "de": "6 Place du Château, 41000 Blois",
+    "hu": "6 Place du Château, 41000 Blois",
+    "ro": "6 Place du Château, 41000 Blois",
+    "en": "6 Place du Château, 41000 Blois"
+  },
+  "openingHours": {
+    "de": "Mo-Su 09:00-18:30",
+    "hu": "Hé-Va 09:00-18:30",
+    "ro": "Lun-Dum 09:00-18:30",
+    "en": "Mon-Sun 09:00-18:30"
+  },
+  "entranceFee": {
+    "de": "€14 Erwachsene, €7 Kinder",
+    "hu": "14 € felnőtteknek, 7 € gyerekeknek",
+    "ro": "14 € adulți, 7 € copii",
+    "en": "€14 adults, €7 children"
+  },
   "website": "https://www.chateaudeblois.fr",
-  "publicTransport": "Intercity-Zug bis Bahnhof Blois-Chambord, 10 Min. Fußweg",
-  "parking": "Parkhaus 'Stationnement Château' direkt unter dem Schlossplatz",
-  "accessibility": "Hof und Erdgeschoss zugänglich, Obergeschosse über die Prunktreppe",
-  "photoRules": "Fotografieren ohne Blitz im Inneren erlaubt",
-  "bestTimeToVisit": "Abends zwischen April und September zur Licht- und Tonshow",
-  "audioGuide": "DE, EN, FR, IT, ES, ZH, JP, RU, PT"
+  "publicTransport": {
+    "de": "Intercity-Zug bis Bahnhof Blois-Chambord, 10 Min. Fußweg",
+    "hu": "Intercity vonat Blois-Chambord állomásig, majd 10 perc séta",
+    "ro": "Tren Intercity până la gara Blois-Chambord, 10 min. de mers pe jos",
+    "en": "Intercity train to Blois-Chambord station, then a 10-minute walk"
+  },
+  "parking": {
+    "de": "Parkhaus 'Stationnement Château' direkt unter dem Schlossplatz",
+    "hu": "'Stationnement Château' parkolóház közvetlenül a kastélytér alatt",
+    "ro": "Parcarea supraetajată 'Stationnement Château' chiar sub piața castelului",
+    "en": "'Stationnement Château' parking garage directly under the castle square"
+  },
+  "accessibility": {
+    "de": "Hof und Erdgeschoss zugänglich, Obergeschosse über die Prunktreppe",
+    "hu": "Az udvar és a földszint akadálymentes, az emeletek a díszlépcsőn érhetők el",
+    "ro": "Curtea și parterul sunt accesibile, etajele superioare prin scara de onoare",
+    "en": "Courtyard and ground floor accessible, upper floors via the grand staircase"
+  },
+  "photoRules": {
+    "de": "Fotografieren ohne Blitz im Inneren erlaubt",
+    "hu": "A belső terekben vaku nélkül szabad fényképezni",
+    "ro": "Fotografierea fără bliț este permisă în interior",
+    "en": "Photography permitted inside without flash"
+  },
+  "bestTimeToVisit": {
+    "de": "Abends zwischen April und September zur Licht- und Tonshow",
+    "hu": "Április és szeptember között este, a fény- és hangjáték idején",
+    "ro": "Seara, între aprilie și septembrie, pentru spectacolul de lumini și sunete",
+    "en": "Evenings between April and September for the light and sound show"
+  },
+  "audioGuide": {
+    "de": "DE, EN, FR, IT, ES, ZH, JP, RU, PT",
+    "hu": "DE, EN, FR, IT, ES, ZH, JP, RU, PT",
+    "ro": "DE, EN, FR, IT, ES, ZH, JP, RU, PT",
+    "en": "DE, EN, FR, IT, ES, ZH, JP, RU, PT"
+  }
 }

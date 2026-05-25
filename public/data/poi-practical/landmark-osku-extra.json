@@ -1,12 +1,57 @@
 {
-  "address": "Szabadság tér, 8191 Öskü",
-  "openingHours": "Außenbesichtigung 24/7, Innenraum auf Anfrage (Info am Eingang)",
-  "entranceFee": "free (Spende für Innenbesichtigung erbeten)",
+  "address": {
+    "de": "Szabadság tér, 8191 Öskü",
+    "hu": "Szabadság tér, 8191 Öskü",
+    "ro": "Szabadság tér, 8191 Öskü",
+    "en": "Szabadság tér, 8191 Öskü"
+  },
+  "openingHours": {
+    "de": "Außenbesichtigung 24/7, Innenraum auf Anfrage (Info am Eingang)",
+    "hu": "Külső megtekintés 0-24 órában, belső tér kérésre (info a bejáratnál)",
+    "ro": "Vizitare exterioară non-stop, interior la cerere (info la intrare)",
+    "en": "Exterior viewing 24/7, interior upon request (info at entrance)"
+  },
+  "entranceFee": {
+    "de": "free (Spende für Innenbesichtigung erbeten)",
+    "hu": "ingyenes (adományt kérnek a belső megtekintésért)",
+    "ro": "gratuit (donație solicitată pentru vizitarea interiorului)",
+    "en": "free (donation requested for interior visit)"
+  },
   "website": "",
-  "publicTransport": "Zug oder Bus bis Öskü, dann 5-10 Minuten Fußweg zur Anhöhe.",
-  "parking": "Kostenlose Parkmöglichkeiten in den umliegenden Dorfstraßen.",
-  "accessibility": "Die Kirche steht auf einem Hügel, Zugang über einen ansteigenden Pfad.",
-  "photoRules": "Uneingeschränkt erlaubt, da es ein frei zugängliches Monument ist.",
-  "bestTimeToVisit": "Frühmorgens oder zur goldenen Stunde für stimmungsvolle Fotos.",
-  "audioGuide": "no"
+  "publicTransport": {
+    "de": "Zug oder Bus bis Öskü, dann 5-10 Minuten Fußweg zur Anhöhe.",
+    "hu": "Vonat vagy busz Ösküig, majd 5-10 perc séta a magaslatra.",
+    "ro": "Tren sau autobuz până la Öskü, apoi 5-10 minute de mers pe jos până la înălțime.",
+    "en": "Train or bus to Öskü, then 5-10 minute walk to the hill."
+  },
+  "parking": {
+    "de": "Kostenlose Parkmöglichkeiten in den umliegenden Dorfstraßen.",
+    "hu": "Ingyenes parkolási lehetőségek a környező falusi utcákban.",
+    "ro": "Parcare gratuită pe străzile satului din jur.",
+    "en": "Free parking in surrounding village streets."
+  },
+  "accessibility": {
+    "de": "Die Kirche steht auf einem Hügel, Zugang über einen ansteigenden Pfad.",
+    "hu": "A templom egy dombon áll, megközelítés egy emelkedő ösvényen keresztül.",
+    "ro": "Biserica stă pe un deal, acces printr-o potecă în pantă.",
+    "en": "The church stands on a hill, access via an ascending path."
+  },
+  "photoRules": {
+    "de": "Uneingeschränkt erlaubt, da es ein frei zugängliches Monument ist.",
+    "hu": "Korlátozás nélkül megengedett, mivel szabadon látogatható műemlék.",
+    "ro": "Permis nelimitat, deoarece este un monument accesibil liber.",
+    "en": "Allowed without restrictions, as it is a freely accessible monument."
+  },
+  "bestTimeToVisit": {
+    "de": "Frühmorgens oder zur goldenen Stunde für stimmungsvolle Fotos.",
+    "hu": "Kora reggel vagy az arany órában a hangulatos fotókhoz.",
+    "ro": "Dimineața devreme sau la ora aurie pentru fotografii atmosferice.",
+    "en": "Early morning or golden hour for atmospheric photos."
+  },
+  "audioGuide": {
+    "de": "no",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

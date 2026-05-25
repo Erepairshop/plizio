@@ -1,12 +1,57 @@
 {
-  "address": "Rorschacher Strasse 311, 9016 St. Gallen",
-  "openingHours": "Nicht öffentlich zugänglich (Privatbesitz/Büros), Außenansicht möglich",
-  "entranceFee": "free",
+  "address": {
+    "de": "Rorschacher Strasse 311, 9016 St. Gallen",
+    "hu": "Rorschacher Strasse 311, 9016 St. Gallen",
+    "ro": "Rorschacher Strasse 311, 9016 St. Gallen",
+    "en": "Rorschacher Strasse 311, 9016 St. Gallen"
+  },
+  "openingHours": {
+    "de": "Nicht öffentlich zugänglich (Privatbesitz/Büros), Außenansicht möglich",
+    "hu": "Nem látogatható (magántulajdon/irodák), kívülről megtekinthető",
+    "ro": "Nu este deschis publicului (proprietate privată/birouri), vizibil din exterior",
+    "en": "Not open to public (private property/offices), exterior view possible"
+  },
+  "entranceFee": {
+    "de": "free",
+    "hu": "ingyenes",
+    "ro": "gratuit",
+    "en": "free"
+  },
   "website": "",
-  "publicTransport": "Buslinien 1, 2, 7, 8 bis Haltestelle Neudorf.",
-  "parking": "Blaue Zone im umliegenden Wohnquartier.",
-  "accessibility": "Nur von der Straße aus einsehbar.",
-  "photoRules": "Fotos von der öffentlichen Straße aus erlaubt.",
-  "bestTimeToVisit": "Frühling, wenn die Gärten der Villen in der Umgebung blühen.",
-  "audioGuide": "no"
+  "publicTransport": {
+    "de": "Buslinien 1, 2, 7, 8 bis Haltestelle Neudorf.",
+    "hu": "1, 2, 7, 8-as busz a Neudorf megállóig.",
+    "ro": "Autobuzele 1, 2, 7, 8 până la stația Neudorf.",
+    "en": "Bus lines 1, 2, 7, 8 to Neudorf stop."
+  },
+  "parking": {
+    "de": "Blaue Zone im umliegenden Wohnquartier.",
+    "hu": "Kék zóna a környékbeli lakónegyedben.",
+    "ro": "Zonă albastră în cartierul rezidențial din jur.",
+    "en": "Blue zone in surrounding residential area."
+  },
+  "accessibility": {
+    "de": "Nur von der Straße aus einsehbar.",
+    "hu": "Csak az utcáról tekinthető meg.",
+    "ro": "Vizibil doar de pe stradă.",
+    "en": "Viewable only from the street."
+  },
+  "photoRules": {
+    "de": "Fotos von der öffentlichen Straße aus erlaubt.",
+    "hu": "Fotózás a közútról engedélyezett.",
+    "ro": "Fotografiatul de pe drumul public este permis.",
+    "en": "Photos from public street allowed."
+  },
+  "bestTimeToVisit": {
+    "de": "Frühling, wenn die Gärten der Villen in der Umgebung blühen.",
+    "hu": "Tavasszal, amikor a környékbeli villák kertjei virágoznak.",
+    "ro": "Primăvara, când înfloresc grădinile vilelor din împrejurimi.",
+    "en": "Spring, when the gardens of the surrounding villas bloom."
+  },
+  "audioGuide": {
+    "de": "no",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

@@ -1,12 +1,57 @@
 {
-  "address": "Pottenbrunner Hauptstraße, 3140 Pottenbrunn, Österreich",
-  "openingHours": "Nur von außen zu besichtigen (Privatbesitz)",
-  "entranceFee": "kostenlos (Besichtigung von außen)",
+  "address": {
+    "de": "Pottenbrunner Hauptstraße, 3140 Pottenbrunn, Österreich",
+    "hu": "Pottenbrunner Hauptstraße, 3140 Pottenbrunn, Ausztria",
+    "ro": "Pottenbrunner Hauptstraße, 3140 Pottenbrunn, Austria",
+    "en": "Pottenbrunner Hauptstraße, 3140 Pottenbrunn, Austria"
+  },
+  "openingHours": {
+    "de": "Nur von außen zu besichtigen (Privatbesitz)",
+    "hu": "Csak kívülről tekinthető meg (magántulajdon)",
+    "ro": "Se poate vizita doar din exterior (proprietate privată)",
+    "en": "Exterior viewing only (private property)"
+  },
+  "entranceFee": {
+    "de": "kostenlos (Besichtigung von außen)",
+    "hu": "ingyenes (külső megtekintés)",
+    "ro": "gratuit (vizionare din exterior)",
+    "en": "free (exterior viewing)"
+  },
   "website": "",
-  "publicTransport": "Bus 470 bis Haltestelle Pottenbrunn Bahnhofstraße",
-  "parking": "Kostenlose Parkstreifen entlang der Hauptstraße",
-  "accessibility": "Von der öffentlichen Straße aus gut einsehbar und barrierefrei erreichbar",
-  "photoRules": "Vom öffentlichen Grund aus uneingeschränkt erlaubt",
-  "bestTimeToVisit": "Morgenlicht für stimmungsvolle Fotos vom Wassergraben",
-  "audioGuide": "nein"
+  "publicTransport": {
+    "de": "Bus 470 bis Haltestelle Pottenbrunn Bahnhofstraße",
+    "hu": "470-es busz Pottenbrunn Bahnhofstraße megállóig",
+    "ro": "Autobuzul 470 până la stația Pottenbrunn Bahnhofstraße",
+    "en": "Bus 470 to Pottenbrunn Bahnhofstraße stop"
+  },
+  "parking": {
+    "de": "Kostenlose Parkstreifen entlang der Hauptstraße",
+    "hu": "Ingyenes parkolósáv a főút mentén",
+    "ro": "Locuri de parcare gratuite de-a lungul străzii principale",
+    "en": "Free parking strips along the main street"
+  },
+  "accessibility": {
+    "de": "Von der öffentlichen Straße aus gut einsehbar und barrierefrei erreichbar",
+    "hu": "A közútról jól látható és akadálymentesen megközelíthető",
+    "ro": "Bine vizibil de pe drumul public și accesibil fără bariere",
+    "en": "Easily visible from the public road and wheelchair accessible"
+  },
+  "photoRules": {
+    "de": "Vom öffentlichen Grund aus uneingeschränkt erlaubt",
+    "hu": "Közterületről korlátozás nélkül megengedett",
+    "ro": "Permis fără restricții de pe spațiul public",
+    "en": "Unrestricted permission from public ground"
+  },
+  "bestTimeToVisit": {
+    "de": "Morgenlicht für stimmungsvolle Fotos vom Wassergraben",
+    "hu": "Reggeli fények a vizesárokról készült hangulatos fotókhoz",
+    "ro": "Lumina dimineții pentru fotografii atmosferice cu șanțul de apă",
+    "en": "Morning light for atmospheric photos of the moat"
+  },
+  "audioGuide": {
+    "de": "nein",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

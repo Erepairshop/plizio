@@ -1,12 +1,57 @@
 {
-  "address": "József Attila u. 1, 4844 Csaroda",
-  "openingHours": "Mo-Sa 09:00-17:00, So nach dem Gottesdienst",
-  "entranceFee": "Eintritt frei, eine Spende von ca. 1000 HUF für den Erhalt wird erwartet.",
+  "address": {
+    "de": "József Attila u. 1, 4844 Csaroda",
+    "hu": "József Attila u. 1, 4844 Csaroda",
+    "ro": "József Attila u. 1, 4844 Csaroda",
+    "en": "József Attila u. 1, 4844 Csaroda"
+  },
+  "openingHours": {
+    "de": "Mo-Sa 09:00-17:00, So nach dem Gottesdienst",
+    "hu": "H-Szo 09:00-17:00, V istentisztelet után",
+    "ro": "Lu-Sâm 09:00-17:00, Du după slujbă",
+    "en": "Mon-Sat 09:00-17:00, Sun after service"
+  },
+  "entranceFee": {
+    "de": "Eintritt frei, eine Spende von ca. 1000 HUF für den Erhalt wird erwartet.",
+    "hu": "Ingyenes belépés, kb. 1000 HUF adomány a fenntartásra elvárt.",
+    "ro": "Intrare liberă, se așteaptă o donație de aprox. 1000 HUF pentru conservare.",
+    "en": "Free entry, a donation of approx. 1000 HUF for preservation is expected."
+  },
   "website": "http://www.csaroda.hu/",
-  "publicTransport": "Regionale Busverbindungen ab Vásárosnamény; Anreise mit dem Auto empfohlen.",
-  "parking": "Kostenlose Parkmöglichkeit direkt auf dem kleinen Platz vor dem Kircheneingang.",
-  "accessibility": "Eingang hat eine kleine Stufe, der Innenraum ist ansonsten eben zugänglich.",
-  "photoRules": "Nach kurzer Rücksprache mit der Aufsichtsperson meist problemlos erlaubt.",
-  "bestTimeToVisit": "Vormittags, wenn das Sonnenlicht durch die schmalen Fenster die Fresken beleuchtet.",
-  "audioGuide": "no"
+  "publicTransport": {
+    "de": "Regionale Busverbindungen ab Vásárosnamény; Anreise mit dem Auto empfohlen.",
+    "hu": "Regionális buszjáratok Vásárosnaményból; autóval ajánlott.",
+    "ro": "Autobuze regionale din Vásárosnamény; recomandat cu mașina.",
+    "en": "Regional bus connections from Vásárosnamény; arrival by car recommended."
+  },
+  "parking": {
+    "de": "Kostenlose Parkmöglichkeit direkt auf dem kleinen Platz vor dem Kircheneingang.",
+    "hu": "Ingyenes parkolás közvetlenül a templom előtti kis téren.",
+    "ro": "Parcare gratuită chiar în piațeta din fața bisericii.",
+    "en": "Free parking directly on the small square in front of the church entrance."
+  },
+  "accessibility": {
+    "de": "Eingang hat eine kleine Stufe, der Innenraum ist ansonsten eben zugänglich.",
+    "hu": "A bejáratnak van egy kis lépcsője, egyébként a belső tér sík.",
+    "ro": "Intrarea are o treaptă mică, restul interiorului este accesibil la nivel.",
+    "en": "Entrance has a small step, interior is otherwise level."
+  },
+  "photoRules": {
+    "de": "Nach kurzer Rücksprache mit der Aufsichtsperson meist problemlos erlaubt.",
+    "hu": "Rövid egyeztetés után a felügyelővel általában probléma nélkül engedélyezett.",
+    "ro": "După o scurtă consultare cu persoana de supraveghere, de obicei permis fără probleme.",
+    "en": "Allowed without problems after a short consultation with the supervisor."
+  },
+  "bestTimeToVisit": {
+    "de": "Vormittags, wenn das Sonnenlicht durch die schmalen Fenster die Fresken beleuchtet.",
+    "hu": "Délelőtt, amikor a napfény a keskeny ablakokon keresztül megvilágítja a freskókat.",
+    "ro": "Dimineața, când lumina soarelui prin ferestrele înguste iluminează frescele.",
+    "en": "Mornings, when the sunlight through the narrow windows illuminates the frescoes."
+  },
+  "audioGuide": {
+    "de": "no",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

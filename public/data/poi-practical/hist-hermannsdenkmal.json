@@ -1,12 +1,57 @@
 {
-  "address": "Grotenburg 50, 32760 Detmold",
-  "openingHours": "Mo-Su 09:00-18:00",
-  "entranceFee": "Denkmal frei, Besteigung € 4,00",
+  "address": {
+    "de": "Grotenburg 50, 32760 Detmold",
+    "hu": "Grotenburg 50, 32760 Detmold",
+    "ro": "Grotenburg 50, 32760 Detmold",
+    "en": "Grotenburg 50, 32760 Detmold"
+  },
+  "openingHours": {
+    "de": "Mo-Su 09:00-18:00",
+    "hu": "Hé-Va 09:00-18:00",
+    "ro": "Lu-Du 09:00-18:00",
+    "en": "Mon-Sun 09:00-18:00"
+  },
+  "entranceFee": {
+    "de": "Denkmal frei, Besteigung € 4,00",
+    "hu": "Emlékmű ingyenes, felmászás 4,00 €",
+    "ro": "Monument gratuit, urcarea 4,00 €",
+    "en": "Monument free, climb €4.00"
+  },
   "website": "https://www.hermannsdenkmal.de",
-  "publicTransport": "Buslinie 792 (Touristik-Linie) ab Detmold Bahnhof",
-  "parking": "Großer Wanderparkplatz am Denkmal, Tagesgebühr 4,00 €.",
-  "accessibility": "Weg zum Denkmal barrierefrei, Aufstieg zur Galerie nur über Stufen.",
-  "photoRules": "Erlaubt, gewerbliche Aufnahmen genehmigungspflichtig.",
-  "bestTimeToVisit": "Vormittags unter der Woche für weniger Andrang.",
-  "audioGuide": "nein"
+  "publicTransport": {
+    "de": "Buslinie 792 (Touristik-Linie) ab Detmold Bahnhof",
+    "hu": "792-es busz (Turista-vonal) Detmold állomástól",
+    "ro": "Linia de autobuz 792 (linie turistică) din gara Detmold",
+    "en": "Bus line 792 (tourist line) from Detmold station"
+  },
+  "parking": {
+    "de": "Großer Wanderparkplatz am Denkmal, Tagesgebühr 4,00 €.",
+    "hu": "Nagy túraparkoló az emlékműnél, napi díj 4,00 €.",
+    "ro": "Parcare mare pentru drumeții la monument, taxă zilnică 4,00 €.",
+    "en": "Large hiking parking at the monument, daily fee €4.00."
+  },
+  "accessibility": {
+    "de": "Weg zum Denkmal barrierefrei, Aufstieg zur Galerie nur über Stufen.",
+    "hu": "Az emlékműhöz vezető út akadálymentes, a galéria csak lépcsőn érhető el.",
+    "ro": "Drumul către monument este accesibil, urcarea la galerie doar pe trepte.",
+    "en": "Path to monument barrier-free, ascent to gallery only via steps."
+  },
+  "photoRules": {
+    "de": "Erlaubt, gewerbliche Aufnahmen genehmigungspflichtig.",
+    "hu": "Szabad, kereskedelmi fotók engedélykötelesek.",
+    "ro": "Permis, fotografiile comerciale necesită aprobare.",
+    "en": "Allowed, commercial shots require permission."
+  },
+  "bestTimeToVisit": {
+    "de": "Vormittags unter der Woche für weniger Andrang.",
+    "hu": "Hétköznap délelőtt, a kisebb tömegért.",
+    "ro": "Dimineața în timpul săptămânii pentru a evita aglomerația.",
+    "en": "Mornings on weekdays for less crowd."
+  },
+  "audioGuide": {
+    "de": "nein",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

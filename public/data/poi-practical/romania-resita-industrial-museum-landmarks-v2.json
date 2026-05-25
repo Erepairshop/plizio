@@ -1,12 +1,57 @@
 {
-  "address": "Calea Golului, 320034 Reșița",
-  "openingHours": "24/7 (Freilichtmuseum)",
-  "entranceFee": "kostenlos",
+  "address": {
+    "de": "Calea Golului, 320034 Reșița",
+    "hu": "Calea Golului, 320034 Resicabánya",
+    "ro": "Calea Golului, 320034 Reșița",
+    "en": "Calea Golului, 320034 Reșița"
+  },
+  "openingHours": {
+    "de": "24/7 (Freilichtmuseum)",
+    "hu": "24/7 (szabadtéri múzeum)",
+    "ro": "24/7 (muzeu în aer liber)",
+    "en": "24/7 (open-air museum)"
+  },
+  "entranceFee": {
+    "de": "kostenlos",
+    "hu": "ingyenes",
+    "ro": "gratuit",
+    "en": "free"
+  },
   "website": "",
-  "publicTransport": "Stadtbusse bis Haltestelle Muncitoresc.",
-  "parking": "Parkstreifen entlang der Hauptstraße direkt am Museum.",
-  "accessibility": "Barrierefrei, da die Lokomotiven in einem Park stehen.",
-  "photoRules": "Jederzeit erlaubt, auch gewerbliche Aufnahmen meist unproblematisch.",
-  "bestTimeToVisit": "Nachmittags bei sonnigem Wetter für Fotos.",
-  "audioGuide": "nein"
+  "publicTransport": {
+    "de": "Stadtbusse bis Haltestelle Muncitoresc.",
+    "hu": "Helyi buszok a Muncitoresc megállóig.",
+    "ro": "Autobuze urbane până la stația Muncitoresc.",
+    "en": "City buses to Muncitoresc stop."
+  },
+  "parking": {
+    "de": "Parkstreifen entlang der Hauptstraße direkt am Museum.",
+    "hu": "Parkolósáv a főút mentén, közvetlenül a múzeumnál.",
+    "ro": "Bandă de parcare de-a lungul drumului principal, chiar lângă muzeu.",
+    "en": "Parking lane along the main road right by the museum."
+  },
+  "accessibility": {
+    "de": "Barrierefrei, da die Lokomotiven in einem Park stehen.",
+    "hu": "Akadálymentes, mivel a mozdonyok egy parkban állnak.",
+    "ro": "Accesibil, deoarece locomotivele sunt expuse într-un parc.",
+    "en": "Accessible, as the locomotives are displayed in a park."
+  },
+  "photoRules": {
+    "de": "Jederzeit erlaubt, auch gewerbliche Aufnahmen meist unproblematisch.",
+    "hu": "Bármikor engedélyezett, még a kereskedelmi felvételek is általában problémamentesek.",
+    "ro": "Permis oricând, fotografiile comerciale sunt de obicei acceptate.",
+    "en": "Allowed anytime, even commercial shots are usually unproblematic."
+  },
+  "bestTimeToVisit": {
+    "de": "Nachmittags bei sonnigem Wetter für Fotos.",
+    "hu": "Délután, napsütéses időben a fényképezéshez.",
+    "ro": "După-amiaza pe vreme însorită pentru fotografii.",
+    "en": "Afternoons in sunny weather for photos."
+  },
+  "audioGuide": {
+    "de": "nein",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

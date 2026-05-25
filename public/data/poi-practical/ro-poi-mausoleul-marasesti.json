@@ -1,12 +1,57 @@
 {
-  "address": "DN2 KM 202, 625200 Mărășești",
-  "openingHours": "Di-So 09:00-17:00, Mo geschlossen",
-  "entranceFee": "10 RON Erwachsene, 2 RON Kinder",
+  "address": {
+    "de": "DN2 KM 202, 625200 Mărășești",
+    "hu": "DN2 KM 202, 625200 Mărășești",
+    "ro": "DN2 KM 202, 625200 Mărășești",
+    "en": "DN2 KM 202, 625200 Mărășești"
+  },
+  "openingHours": {
+    "de": "Di-So 09:00-17:00, Mo geschlossen",
+    "hu": "Kedd-vasárnap 09:00-17:00, hétfőn zárva",
+    "ro": "Marți-Duminică 09:00-17:00, luni închis",
+    "en": "Tue-Sun 09:00-17:00, Mon closed"
+  },
+  "entranceFee": {
+    "de": "10 RON Erwachsene, 2 RON Kinder",
+    "hu": "10 RON felnőtteknek, 2 RON gyermekeknek",
+    "ro": "10 RON adulți, 2 RON copii",
+    "en": "10 RON adults, 2 RON children"
+  },
   "website": "https://muzeulvrancei.ro/",
-  "publicTransport": "Regionalzüge nach Mărășești, liegt direkt an der DN2.",
-  "parking": "Großer kostenloser Parkplatz direkt vor dem Denkmal.",
-  "accessibility": "Zugang zum Park barrierefrei, Mausoleum hat Stufen.",
-  "photoRules": "Erlaubt, Stativnutzung im Außenbereich okay.",
-  "bestTimeToVisit": "Vormittags für die beste Beleuchtung der Fassade.",
-  "audioGuide": "no"
+  "publicTransport": {
+    "de": "Regionalzüge nach Mărășești, liegt direkt an der DN2.",
+    "hu": "Regionális vonatok Mărășeștibe, közvetlenül a DN2-es főút mellett található.",
+    "ro": "Trenuri regionale către Mărășești, situat direct pe DN2.",
+    "en": "Regional trains to Mărășești, located directly on the DN2."
+  },
+  "parking": {
+    "de": "Großer kostenloser Parkplatz direkt vor dem Denkmal.",
+    "hu": "Nagy ingyenes parkoló közvetlenül az emlékmű előtt.",
+    "ro": "Parcare mare gratuită direct în fața monumentului.",
+    "en": "Large free parking directly in front of the monument."
+  },
+  "accessibility": {
+    "de": "Zugang zum Park barrierefrei, Mausoleum hat Stufen.",
+    "hu": "A park megközelítése akadálymentes, a mauzóleum lépcsős.",
+    "ro": "Accesul în parc este facilitat, mausoleul are trepte.",
+    "en": "Access to the park is barrier-free, mausoleum has steps."
+  },
+  "photoRules": {
+    "de": "Erlaubt, Stativnutzung im Außenbereich okay.",
+    "hu": "Engedélyezett, állvány használata kültéren rendben van.",
+    "ro": "Permis, utilizarea trepiedului în exterior este ok.",
+    "en": "Permitted, use of tripod in outdoor areas is okay."
+  },
+  "bestTimeToVisit": {
+    "de": "Vormittags für die beste Beleuchtung der Fassade.",
+    "hu": "Délelőtt a legjobb fényviszonyokért a homlokzaton.",
+    "ro": "Dimineața pentru cea mai bună iluminare a fațadei.",
+    "en": "Mornings for the best lighting on the facade."
+  },
+  "audioGuide": {
+    "de": "no",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

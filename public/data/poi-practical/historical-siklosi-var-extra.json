@@ -1,12 +1,57 @@
 {
-  "address": "Vajda János u. 8., 7800 Siklós",
-  "openingHours": "Mo-Su 09:00-18:00 (Mai-Sept), 09:00-17:00 (Okt-Apr)",
-  "entranceFee": "2900 HUF Erwachsene, 1700 HUF Kinder",
+  "address": {
+    "de": "Vajda János u. 8., 7800 Siklós",
+    "hu": "Vajda János u. 8., 7800 Siklós",
+    "ro": "Vajda János u. 8., 7800 Siklós",
+    "en": "Vajda János u. 8., 7800 Siklós"
+  },
+  "openingHours": {
+    "de": "Mo-Su 09:00-18:00 (Mai-Sept), 09:00-17:00 (Okt-Apr)",
+    "hu": "H-V 09:00-18:00 (május-szept), 09:00-17:00 (okt-ápr)",
+    "ro": "L-D 09:00-18:00 (mai-sept), 09:00-17:00 (oct-apr)",
+    "en": "Mon-Sun 09:00-18:00 (May-Sep), 09:00-17:00 (Oct-Apr)"
+  },
+  "entranceFee": {
+    "de": "2900 HUF Erwachsene, 1700 HUF Kinder",
+    "hu": "2900 HUF felnőttek, 1700 HUF gyermekek",
+    "ro": "2900 HUF adulți, 1700 HUF copii",
+    "en": "2900 HUF adults, 1700 HUF children"
+  },
   "website": "https://www.siklosivar.hu/",
-  "publicTransport": "Direktbusse ab Pécs Busbahnhof fahren bis zum Fuße des Burgbergs.",
-  "parking": "Kostenpflichtige Parkplätze direkt vor der Burgmauer und am Marktplatz.",
-  "accessibility": "Burghof und Kapelle sind barrierefrei; obere Stockwerke nur über Treppen erreichbar.",
-  "photoRules": "Fotografieren im gesamten Burgareal ohne Blitzlicht gestattet.",
-  "bestTimeToVisit": "Früher Nachmittag, um die Aussicht von den Bastionen optimal zu fotografieren.",
-  "audioGuide": "HU, DE, EN, HR"
+  "publicTransport": {
+    "de": "Direktbusse ab Pécs Busbahnhof fahren bis zum Fuße des Burgbergs.",
+    "hu": "Közvetlen buszok indulnak Pécs autóbusz-állomásról a várhegy lábához.",
+    "ro": "Autobuze directe din autogara Pécs până la poalele dealului castelului.",
+    "en": "Direct buses from Pécs bus station to the foot of the castle hill."
+  },
+  "parking": {
+    "de": "Kostenpflichtige Parkplätze direkt vor der Burgmauer und am Marktplatz.",
+    "hu": "Fizetős parkolók közvetlenül a várfal előtt és a piactéren.",
+    "ro": "Parcare cu plată direct în fața zidului castelului și în piață.",
+    "en": "Paid parking directly in front of the castle wall and at the market square."
+  },
+  "accessibility": {
+    "de": "Burghof und Kapelle sind barrierefrei; obere Stockwerke nur über Treppen erreichbar.",
+    "hu": "A várudvar és a kápolna akadálymentes; az emeletek csak lépcsőn érhetők el.",
+    "ro": "Curtea castelului și capela sunt accesibile; etajele superioare pot fi atinse doar pe scări.",
+    "en": "Castle courtyard and chapel are accessible; upper floors only reachable via stairs."
+  },
+  "photoRules": {
+    "de": "Fotografieren im gesamten Burgareal ohne Blitzlicht gestattet.",
+    "hu": "Fényképezés az egész vár területén vaku nélkül megengedett.",
+    "ro": "Fotografierea este permisă în toată incinta castelului fără bliț.",
+    "en": "Photography is allowed throughout the castle area without flash."
+  },
+  "bestTimeToVisit": {
+    "de": "Früher Nachmittag, um die Aussicht von den Bastionen optimal zu fotografieren.",
+    "hu": "Kora délután, hogy a bástyákról nyíló kilátást optimálisan lehessen fotózni.",
+    "ro": "După-amiaza devreme, pentru a fotografia optim vederea de pe bastioane.",
+    "en": "Early afternoon to optimally photograph the view from the bastions."
+  },
+  "audioGuide": {
+    "de": "HU, DE, EN, HR",
+    "hu": "HU, DE, EN, HR",
+    "ro": "HU, DE, EN, HR",
+    "en": "HU, DE, EN, HR"
+  }
 }

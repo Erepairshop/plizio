@@ -1,12 +1,57 @@
 {
-  "address": "6 Parvis Notre-Dame - Pl. Jean-Paul II, 75004 Paris",
-  "openingHours": "Wiedereröffnung Dez 2024 geplant; Vorplatz tagsüber zugänglich",
-  "entranceFee": "Kathedrale kostenlos (geplant); Türme kostenpflichtig",
+  "address": {
+    "de": "6 Parvis Notre-Dame - Pl. Jean-Paul II, 75004 Paris",
+    "hu": "6 Parvis Notre-Dame - Pl. Jean-Paul II, 75004 Párizs",
+    "ro": "6 Parvis Notre-Dame - Pl. Jean-Paul II, 75004 Paris",
+    "en": "6 Parvis Notre-Dame - Pl. Jean-Paul II, 75004 Paris"
+  },
+  "openingHours": {
+    "de": "Wiedereröffnung Dez 2024 geplant; Vorplatz tagsüber zugänglich",
+    "hu": "Újranyitás 2024 decembere; az előtér napközben látogatható",
+    "ro": "Redeschidere planificată pentru dec. 2024; piațeta accesibilă pe timp de zi",
+    "en": "Reopening planned Dec 2024; forecourt accessible during the day"
+  },
+  "entranceFee": {
+    "de": "Kathedrale kostenlos (geplant); Türme kostenpflichtig",
+    "hu": "Katedrális ingyenes (tervezett); tornyok díjkötelesek",
+    "ro": "Catedrală gratuită (planificat); turnuri cu plată",
+    "en": "Cathedral free (planned); towers paid"
+  },
   "website": "https://www.notredamedeparis.fr",
-  "publicTransport": "Metro Linie 4 'Cité' oder RER B/C 'Saint-Michel - Notre-Dame'",
-  "parking": "Parkhaus 'Parking Notre-Dame' direkt unter dem Vorplatz",
-  "accessibility": "Erdgeschoss barrierefrei; Türme nur über sehr enge Wendeltreppen",
-  "photoRules": "Innen ohne Blitz (nach Wiedereröffnung); außen frei",
-  "bestTimeToVisit": "Früher Vormittag oder zur Abendmesse für die Lichtstimmung",
-  "audioGuide": "Wird nach Wiedereröffnung neu konzipiert"
+  "publicTransport": {
+    "de": "Metro Linie 4 'Cité' oder RER B/C 'Saint-Michel - Notre-Dame'",
+    "hu": "4-es metro 'Cité' vagy RER B/C 'Saint-Michel - Notre-Dame'",
+    "ro": "Linia de metrou 4 'Cité' sau RER B/C 'Saint-Michel - Notre-Dame'",
+    "en": "Metro line 4 'Cité' or RER B/C 'Saint-Michel - Notre-Dame'"
+  },
+  "parking": {
+    "de": "Parkhaus 'Parking Notre-Dame' direkt unter dem Vorplatz",
+    "hu": "'Parking Notre-Dame' parkoló közvetlenül az előtér alatt",
+    "ro": "Parcare 'Parking Notre-Dame' chiar sub piațetă",
+    "en": "'Parking Notre-Dame' parking garage directly below the forecourt"
+  },
+  "accessibility": {
+    "de": "Erdgeschoss barrierefrei; Türme nur über sehr enge Wendeltreppen",
+    "hu": "Földszint akadálymentes; tornyok csak nagyon szűk csigalépcsőkön",
+    "ro": "Parter accesibil; turnurile doar prin scări în spirală foarte înguste",
+    "en": "Ground floor accessible; towers only via very narrow spiral staircases"
+  },
+  "photoRules": {
+    "de": "Innen ohne Blitz (nach Wiedereröffnung); außen frei",
+    "hu": "Belül vaku nélkül (újranyitás után); kívül szabad",
+    "ro": "Interior fără bliț (după redeschidere); exterior liber",
+    "en": "Inside without flash (after reopening); outside free"
+  },
+  "bestTimeToVisit": {
+    "de": "Früher Vormittag oder zur Abendmesse für die Lichtstimmung",
+    "hu": "Kora délelőtt vagy esti mise idején a fények miatt",
+    "ro": "Dimineața devreme sau la slujba de seară pentru atmosferă",
+    "en": "Early morning or during evening mass for the light mood"
+  },
+  "audioGuide": {
+    "de": "Wird nach Wiedereröffnung neu konzipiert",
+    "hu": "Újranyitás után újratervezik",
+    "ro": "Va fi reconceptualizat după redeschidere",
+    "en": "Will be redesigned after reopening"
+  }
 }

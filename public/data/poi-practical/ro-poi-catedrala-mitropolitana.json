@@ -1,12 +1,57 @@
 {
-  "address": "Bulevardul Regele Ferdinand I, 300006 Timișoara",
-  "openingHours": "Mo-Su 07:00-20:00",
-  "entranceFee": "free",
+  "address": {
+    "de": "Bulevardul Regele Ferdinand I, 300006 Timișoara",
+    "hu": "Bulevardul Regele Ferdinand I, 300006 Temesvár",
+    "ro": "Bulevardul Regele Ferdinand I, 300006 Timișoara",
+    "en": "Bulevardul Regele Ferdinand I, 300006 Timișoara"
+  },
+  "openingHours": {
+    "de": "Mo-Su 07:00-20:00",
+    "hu": "Hétfő-vasárnap 07:00-20:00",
+    "ro": "Luni-Duminică 07:00-20:00",
+    "en": "Mon-Sun 07:00-20:00"
+  },
+  "entranceFee": {
+    "de": "free",
+    "hu": "ingyenes",
+    "ro": "gratuit",
+    "en": "free"
+  },
   "website": "http://mitropolia-banatului.ro/",
-  "publicTransport": "Tram 1, 2, 6 bis Piața Victoriei",
-  "parking": "Kostenpflichtige Parkzonen in der Innenstadt",
-  "accessibility": "Rampe am Seiteneingang vorhanden",
-  "photoRules": "Erlaubt außerhalb der Gottesdienste, kein Blitz",
-  "bestTimeToVisit": "Bei Sonnenuntergang",
-  "audioGuide": "no"
+  "publicTransport": {
+    "de": "Tram 1, 2, 6 bis Piața Victoriei",
+    "hu": "1-es, 2-es, 6-os villamos a Győzelem térig (Piața Victoriei)",
+    "ro": "Tramvai 1, 2, 6 până la Piața Victoriei",
+    "en": "Tram 1, 2, 6 to Piața Victoriei"
+  },
+  "parking": {
+    "de": "Kostenpflichtige Parkzonen in der Innenstadt",
+    "hu": "Fizetős parkolási zónák a belvárosban",
+    "ro": "Zone de parcare cu plată în centrul orașului",
+    "en": "Paid parking zones in the city center"
+  },
+  "accessibility": {
+    "de": "Rampe am Seiteneingang vorhanden",
+    "hu": "Rámpa a bejárat mellett",
+    "ro": "Rampă disponibilă la intrarea laterală",
+    "en": "Ramp available at the side entrance"
+  },
+  "photoRules": {
+    "de": "Erlaubt außerhalb der Gottesdienste, kein Blitz",
+    "hu": "Istentiszteleten kívül engedélyezett, vaku nélkül",
+    "ro": "Permis în afara orelor de slujbă, fără bliț",
+    "en": "Allowed outside of church services, no flash"
+  },
+  "bestTimeToVisit": {
+    "de": "Bei Sonnenuntergang",
+    "hu": "Napnyugtakor",
+    "ro": "La apusul soarelui",
+    "en": "At sunset"
+  },
+  "audioGuide": {
+    "de": "no",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

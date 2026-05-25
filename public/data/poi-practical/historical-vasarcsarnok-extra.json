@@ -1,12 +1,57 @@
 {
-  "address": "Vámház krt. 1-3, 1093 Budapest",
-  "openingHours": "Mo 06:00-17:00, Di-Fr 06:00-18:00, Sa 06:00-15:00, So geschlossen",
-  "entranceFee": "free",
+  "address": {
+    "de": "Vámház krt. 1-3, 1093 Budapest",
+    "hu": "Vámház krt. 1-3, 1093 Budapest",
+    "ro": "Vámház krt. 1-3, 1093 Budapest",
+    "en": "Vámház krt. 1-3, 1093 Budapest"
+  },
+  "openingHours": {
+    "de": "Mo 06:00-17:00, Di-Fr 06:00-18:00, Sa 06:00-15:00, So geschlossen",
+    "hu": "H 06:00-17:00, K-P 06:00-18:00, Szo 06:00-15:00, V zárva",
+    "ro": "L 06:00-17:00, Mar-Vin 06:00-18:00, Sâm 06:00-15:00, Dum închis",
+    "en": "Mon 06:00-17:00, Tue-Fri 06:00-18:00, Sat 06:00-15:00, Sun closed"
+  },
+  "entranceFee": {
+    "de": "free",
+    "hu": "ingyenes",
+    "ro": "gratuit",
+    "en": "free"
+  },
   "website": "https://www.budapestmarkthalle.de/",
-  "publicTransport": "Metro M4, Straßenbahn 2, 47, 49 (Haltestelle Fővám tér)",
-  "parking": "Sehr schwierig; Parkhaus in der nahen Csarnok tér empfohlen.",
-  "accessibility": "Ebenerdig zugänglich, Aufzüge zu den oberen Etagen vorhanden.",
-  "photoRules": "Erlaubt, professionelle Aufnahmen benötigen eine Genehmigung.",
-  "bestTimeToVisit": "Wochentags vor 10:00 Uhr, um den größten Andrang zu vermeiden.",
-  "audioGuide": "no"
+  "publicTransport": {
+    "de": "Metro M4, Straßenbahn 2, 47, 49 (Haltestelle Fővám tér)",
+    "hu": "M4 metró, 2, 47, 49 villamos (Fővám tér megálló)",
+    "ro": "Metrou M4, tramvai 2, 47, 49 (stația Fővám tér)",
+    "en": "Metro M4, tram 2, 47, 49 (Fővám tér stop)"
+  },
+  "parking": {
+    "de": "Sehr schwierig; Parkhaus in der nahen Csarnok tér empfohlen.",
+    "hu": "Nagyon nehéz; közeli parkolóház a Csarnok téren ajánlott.",
+    "ro": "Foarte dificil; parcare recomandată în apropiere, la Csarnok tér.",
+    "en": "Very difficult; parking garage in nearby Csarnok tér recommended."
+  },
+  "accessibility": {
+    "de": "Ebenerdig zugänglich, Aufzüge zu den oberen Etagen vorhanden.",
+    "hu": "Szintbeli megközelítés, liftek a felsőbb szintekre biztosítottak.",
+    "ro": "Accesibil la nivelul solului, lifturi disponibile către etajele superioare.",
+    "en": "Accessible at ground level, elevators available to upper floors."
+  },
+  "photoRules": {
+    "de": "Erlaubt, professionelle Aufnahmen benötigen eine Genehmigung.",
+    "hu": "Megengedett, professzionális felvételekhez engedély szükséges.",
+    "ro": "Permis, filmările profesionale necesită autorizație.",
+    "en": "Allowed, professional shots require a permit."
+  },
+  "bestTimeToVisit": {
+    "de": "Wochentags vor 10:00 Uhr, um den größten Andrang zu vermeiden.",
+    "hu": "Hétköznap 10:00 előtt, hogy elkerülje a legnagyobb tömeget.",
+    "ro": "În timpul săptămânii înainte de 10:00, pentru a evita cea mai mare aglomerație.",
+    "en": "Weekdays before 10:00 to avoid the biggest crowds."
+  },
+  "audioGuide": {
+    "de": "no",
+    "hu": "nem",
+    "ro": "nu",
+    "en": "no"
+  }
 }

@@ -1,12 +1,57 @@
 {
-  "address": "Straße des 18. Oktober 100, 04299 Leipzig",
-  "openingHours": "Mo-So 10:00-18:00 (April-Okt), 10:00-16:00 (Nov-März)",
-  "entranceFee": "10 € Erwachsene, 8 € Ermäßigt",
+  "address": {
+    "de": "Straße des 18. Oktober 100, 04299 Leipzig",
+    "hu": "Straße des 18. Oktober 100, 04299 Lipcse, Németország",
+    "ro": "Straße des 18. Oktober 100, 04299 Leipzig, Germania",
+    "en": "Straße des 18. Oktober 100, 04299 Leipzig, Germany"
+  },
+  "openingHours": {
+    "de": "Mo-So 10:00-18:00 (April-Okt), 10:00-16:00 (Nov-März)",
+    "hu": "H-V 10:00-18:00 (április-október), 10:00-16:00 (november-március)",
+    "ro": "L-D 10:00-18:00 (apr-oct), 10:00-16:00 (nov-mar)",
+    "en": "Mon-Sun 10:00-18:00 (Apr-Oct), 10:00-16:00 (Nov-Mar)"
+  },
+  "entranceFee": {
+    "de": "10 € Erwachsene, 8 € Ermäßigt",
+    "hu": "10 € felnőtt, 8 € kedvezményes",
+    "ro": "10 € adulți, 8 € redus",
+    "en": "10 € adults, 8 € reduced"
+  },
   "website": "https://www.stadtgeschichtliches-museum-leipzig.de",
-  "publicTransport": "Straßenbahn 15 (Völkerschlachtdenkmal)",
-  "parking": "Kostenloser Parkplatz direkt vor dem Denkmal.",
-  "accessibility": "Fahrstuhl bis zur Krypta, oberste Plattform nur über Treppen.",
-  "photoRules": "Gegen Gebühr (ca. 2 €) für private Zwecke erlaubt.",
-  "bestTimeToVisit": "Am späten Nachmittag für weiches Licht auf der Fassade.",
-  "audioGuide": "ja"
+  "publicTransport": {
+    "de": "Straßenbahn 15 (Völkerschlachtdenkmal)",
+    "hu": "15-ös villamos (Völkerschlachtdenkmal megálló)",
+    "ro": "Tramvaiul 15 (stația Völkerschlachtdenkmal)",
+    "en": "Tram 15 (stop Völkerschlachtdenkmal)"
+  },
+  "parking": {
+    "de": "Kostenloser Parkplatz direkt vor dem Denkmal.",
+    "hu": "Ingyenes parkoló közvetlenül az emlékmű előtt.",
+    "ro": "Parcare gratuită chiar în fața monumentului.",
+    "en": "Free parking directly in front of the monument."
+  },
+  "accessibility": {
+    "de": "Fahrstuhl bis zur Krypta, oberste Plattform nur über Treppen.",
+    "hu": "Lift a kriptáig, a legfelső kilátóterasz csak lépcsőn érhető el.",
+    "ro": "Lift până la criptă, platforma superioară doar prin scări.",
+    "en": "Elevator up to the crypt, top platform only via stairs."
+  },
+  "photoRules": {
+    "de": "Gegen Gebühr (ca. 2 €) für private Zwecke erlaubt.",
+    "hu": "Külön díj ellenében (kb. 2 €) saját használatra engedélyezett.",
+    "ro": "Permis pentru uz privat contra unei taxe (aprox. 2 €).",
+    "en": "Allowed for private use for a fee (approx. 2 €)."
+  },
+  "bestTimeToVisit": {
+    "de": "Am späten Nachmittag für weiches Licht auf der Fassade.",
+    "hu": "Késő délután, amikor a lágy fények szépen megvilágítják a homlokzatot.",
+    "ro": "După-amiaza târziu pentru lumină caldă pe fațadă.",
+    "en": "Late afternoon for soft light on the facade."
+  },
+  "audioGuide": {
+    "de": "ja",
+    "hu": "igen",
+    "ro": "da",
+    "en": "yes"
+  }
 }

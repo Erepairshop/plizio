@@ -1,12 +1,57 @@
 {
-  "address": "Complex Turistic Borșa, 435200 Borșa, Maramureș",
-  "openingHours": "24/7 (Sessellift Mo-Su 09:00-17:00)",
-  "entranceFee": "free (Sessellift ca. 30 RON Erwachsene)",
+  "address": {
+    "de": "Complex Turistic Borșa, 435200 Borșa, Maramureș",
+    "hu": "Complex Turistic Borșa, 435200 Borsa, Máramaros",
+    "ro": "Complex Turistic Borșa, 435200 Borșa, Maramureș",
+    "en": "Complex Turistic Borșa, 435200 Borșa, Maramureș"
+  },
+  "openingHours": {
+    "de": "24/7 (Sessellift Mo-Su 09:00-17:00)",
+    "hu": "24/7 (libegő H-V 09:00-17:00)",
+    "ro": "24/7 (telescaun Lu-Dum 09:00-17:00)",
+    "en": "24/7 (chairlift Mon-Sun 9 AM-5 PM)"
+  },
+  "entranceFee": {
+    "de": "free (Sessellift ca. 30 RON Erwachsene)",
+    "hu": "ingyenes (libegő kb. 30 RON felnőtt)",
+    "ro": "gratuit (telescaun aprox. 30 RON adulți)",
+    "en": "free (chairlift approx. 30 RON adult)"
+  },
   "website": "",
-  "publicTransport": "Bus nach Borșa Complex, dann Sessellift oder 1,5h Wanderung",
-  "parking": "Parkplatz an der Talstation des Sessellifts, ca. 10 RON",
-  "accessibility": "Nicht barrierefrei; ab Bergstation Sessellift ca. 30 Min. Waldweg",
-  "photoRules": "Erlaubt; beste Sicht vom Fuß des Wasserfalls auf die drei Kaskaden",
-  "bestTimeToVisit": "Mai-Juni während der Schneeschmelze für maximale Wassermenge",
-  "audioGuide": "no"
+  "publicTransport": {
+    "de": "Bus nach Borșa Complex, dann Sessellift oder 1,5h Wanderung",
+    "hu": "Busz Borșa Complexbe, majd libegő vagy 1,5 órás túra",
+    "ro": "Autobuz până la Complex Borșa, apoi telescaun sau 1,5h drumeție",
+    "en": "Bus to Borșa Complex, then chairlift or 1.5h hike"
+  },
+  "parking": {
+    "de": "Parkplatz an der Talstation des Sessellifts, ca. 10 RON",
+    "hu": "Parkoló a libegő alsó állomásánál, kb. 10 RON",
+    "ro": "Parcare la stația de bază a telescaunului, aprox. 10 RON",
+    "en": "Parking at base station of chairlift, approx. 10 RON"
+  },
+  "accessibility": {
+    "de": "Nicht barrierefrei; ab Bergstation Sessellift ca. 30 Min. Waldweg",
+    "hu": "Nem akadálymentesített; a libegő felső állomásától kb. 30 perc erdei út",
+    "ro": "Nu este accesibil; de la stația de sus a telescaunului, aprox. 30 min. pe potecă",
+    "en": "Not accessible; from top station chairlift approx. 30 min. forest path"
+  },
+  "photoRules": {
+    "de": "Erlaubt; beste Sicht vom Fuß des Wasserfalls auf die drei Kaskaden",
+    "hu": "Engedélyezett; a legjobb látvány a vízesés tövéből a három kaszkádra",
+    "ro": "Permis; cea mai bună vedere de la baza cascadei către cele trei trepte",
+    "en": "Allowed; best view from the foot of the waterfall at the three cascades"
+  },
+  "bestTimeToVisit": {
+    "de": "Mai-Juni während der Schneeschmelze für maximale Wassermenge",
+    "hu": "Május-június, a hóolvadás idején a legnagyobb vízhozamért",
+    "ro": "Mai-Iunie în timpul topirii zăpezii pentru debit maxim",
+    "en": "May-June during snowmelt for maximum water volume"
+  },
+  "audioGuide": {
+    "de": "no",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

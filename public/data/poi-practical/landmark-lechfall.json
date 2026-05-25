@@ -1,12 +1,57 @@
 {
-  "address": "Tiroler Str., 87629 Füssen",
-  "openingHours": "24/7",
-  "entranceFee": "free",
+  "address": {
+    "de": "Tiroler Str., 87629 Füssen",
+    "hu": "Tiroler Str., 87629 Füssen",
+    "ro": "Tiroler Str., 87629 Füssen",
+    "en": "Tiroler Str., 87629 Füssen"
+  },
+  "openingHours": {
+    "de": "24/7",
+    "hu": "0-24 órában",
+    "ro": "Non-stop",
+    "en": "24/7"
+  },
+  "entranceFee": {
+    "de": "free",
+    "hu": "ingyenes",
+    "ro": "gratuit",
+    "en": "free"
+  },
   "website": "https://www.fuessen.de",
-  "publicTransport": "Bus 74 bis Haltestelle Füssen Lechfall",
-  "parking": "Wenige kostenlose Parkplätze direkt an der B17",
-  "accessibility": "Aussichtsplattform Maxsteg ist barrierefrei erreichbar",
-  "photoRules": "Erlaubt, Stativ für Langzeitbelichtungen auf der Brücke möglich",
-  "bestTimeToVisit": "Früh morgens bei Nebel oder nach starken Regenfällen für mehr Wasser",
-  "audioGuide": "no"
+  "publicTransport": {
+    "de": "Bus 74 bis Haltestelle Füssen Lechfall",
+    "hu": "74-es busz a Füssen Lechfall megállóig",
+    "ro": "Autobuzul 74 până la stația Füssen Lechfall",
+    "en": "Bus 74 to station Füssen Lechfall"
+  },
+  "parking": {
+    "de": "Wenige kostenlose Parkplätze direkt an der B17",
+    "hu": "Néhány ingyenes parkolóhely közvetlenül a B17-es úton",
+    "ro": "Câteva locuri de parcare gratuite direct pe B17",
+    "en": "A few free parking spaces directly on the B17"
+  },
+  "accessibility": {
+    "de": "Aussichtsplattform Maxsteg ist barrierefrei erreichbar",
+    "hu": "A Maxsteg kilátó akadálymentesen elérhető",
+    "ro": "Platforma de observare Maxsteg este accesibilă",
+    "en": "Viewing platform Maxsteg is accessible"
+  },
+  "photoRules": {
+    "de": "Erlaubt, Stativ für Langzeitbelichtungen auf der Brücke möglich",
+    "hu": "Megengedett, állvány használata hosszú expozícióhoz a hídon lehetséges",
+    "ro": "Permis, utilizarea trepiedului pentru expuneri lungi este posibilă pe pod",
+    "en": "Allowed, tripod for long exposures possible on the bridge"
+  },
+  "bestTimeToVisit": {
+    "de": "Früh morgens bei Nebel oder nach starken Regenfällen für mehr Wasser",
+    "hu": "Korán reggel ködben vagy heves esőzések után, amikor több a víz",
+    "ro": "Dimineața devreme pe ceață sau după ploi abundente pentru mai multă apă",
+    "en": "Early morning in fog or after heavy rain for more water"
+  },
+  "audioGuide": {
+    "de": "no",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

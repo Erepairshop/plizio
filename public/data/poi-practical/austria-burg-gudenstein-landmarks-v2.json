@@ -1,12 +1,57 @@
 {
-  "address": "Gudenstein 1, 8630 Mariazell",
-  "openingHours": "Privatbesitz, keine Innenbesichtigung",
-  "entranceFee": "Privatgelände",
+  "address": {
+    "de": "Gudenstein 1, 8630 Mariazell",
+    "hu": "Gudenstein 1, 8630 Mariazell",
+    "ro": "Gudenstein 1, 8630 Mariazell",
+    "en": "Gudenstein 1, 8630 Mariazell"
+  },
+  "openingHours": {
+    "de": "Privatbesitz, keine Innenbesichtigung",
+    "hu": "Magántulajdon, nem látogatható",
+    "ro": "Proprietate privată, fără vizitare în interior",
+    "en": "Private property, no interior viewing"
+  },
+  "entranceFee": {
+    "de": "Privatgelände",
+    "hu": "Magánterület",
+    "ro": "Teren privat",
+    "en": "Private property"
+  },
   "website": "",
-  "publicTransport": "Bus ab Mariazell (Richtung Halltal)",
-  "parking": "Keine öffentlichen Parkplätze am Objekt.",
-  "accessibility": "Vom öffentlichen Weg aus einsehbar.",
-  "photoRules": "Nur von außerhalb des Privatgeländes erlaubt.",
-  "bestTimeToVisit": "Tagsüber bei einer Wanderung im Halltal.",
-  "audioGuide": "nein"
+  "publicTransport": {
+    "de": "Bus ab Mariazell (Richtung Halltal)",
+    "hu": "Busz Mariazellből (Halltal irányába)",
+    "ro": "Autobuz din Mariazell (direcția Halltal)",
+    "en": "Bus from Mariazell (towards Halltal)"
+  },
+  "parking": {
+    "de": "Keine öffentlichen Parkplätze am Objekt.",
+    "hu": "Nincs nyilvános parkoló az objektumnál.",
+    "ro": "Nu există locuri de parcare publice la obiectiv.",
+    "en": "No public parking at the site."
+  },
+  "accessibility": {
+    "de": "Vom öffentlichen Weg aus einsehbar.",
+    "hu": "A nyilvános útról látható.",
+    "ro": "Vizibil de pe drumul public.",
+    "en": "Visible from the public path."
+  },
+  "photoRules": {
+    "de": "Nur von außerhalb des Privatgeländes erlaubt.",
+    "hu": "Csak a magánterületen kívülről megengedett.",
+    "ro": "Permis doar din afara proprietății private.",
+    "en": "Only permitted from outside the private property."
+  },
+  "bestTimeToVisit": {
+    "de": "Tagsüber bei einer Wanderung im Halltal.",
+    "hu": "Napközben egy halltali túra során.",
+    "ro": "În timpul zilei, în cadrul unei drumeții prin Halltal.",
+    "en": "During the day on a hike in the Halltal."
+  },
+  "audioGuide": {
+    "de": "nein",
+    "hu": "nem",
+    "ro": "nu",
+    "en": "no"
+  }
 }

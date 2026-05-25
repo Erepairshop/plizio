@@ -1,12 +1,57 @@
 {
-  "address": "Kossuth tér 1, 7400 Kaposvár",
-  "openingHours": "Mo-Do 08:00-16:00, Fr 08:00-13:00 (Innenraum nur eingeschränkt)",
-  "entranceFee": "kostenlos (Besichtigung der Haupthalle möglich)",
+  "address": {
+    "de": "Kossuth tér 1, 7400 Kaposvár",
+    "hu": "Kossuth tér 1, 7400 Kaposvár",
+    "ro": "Kossuth tér 1, 7400 Kaposvár",
+    "en": "Kossuth tér 1, 7400 Kaposvár"
+  },
+  "openingHours": {
+    "de": "Mo-Do 08:00-16:00, Fr 08:00-13:00 (Innenraum nur eingeschränkt)",
+    "hu": "H-Cs 08:00-16:00, P 08:00-13:00 (a belső tér korlátozottan látogatható)",
+    "ro": "Lu-Jo 08:00-16:00, Vi 08:00-13:00 (interior vizitabil limitat)",
+    "en": "Mon-Thu 08:00-16:00, Fri 08:00-13:00 (interior limited visit)"
+  },
+  "entranceFee": {
+    "de": "kostenlos (Besichtigung der Haupthalle möglich)",
+    "hu": "ingyenes (a főcsarnok látogatható)",
+    "ro": "gratuit (holul principal poate fi vizitat)",
+    "en": "free (main hall can be visited)"
+  },
   "website": "https://www.kaposvar.hu",
-  "publicTransport": "Buslinien 8, 10, 12 bis Haltestelle 'Városháza'",
-  "parking": "Parkhaus in der Nähe (Teleki utca) gebührenpflichtig",
-  "accessibility": "Barrierefrei über Seiteneingang zugänglich",
-  "photoRules": "Erlaubt in den öffentlichen Bereichen, keine Stative",
-  "bestTimeToVisit": "Abends, wenn die Jugendstil-Fassade beleuchtet ist",
-  "audioGuide": "nein"
+  "publicTransport": {
+    "de": "Buslinien 8, 10, 12 bis Haltestelle 'Városháza'",
+    "hu": "8, 10, 12-es busz a 'Városháza' megállóig",
+    "ro": "Liniile de autobuz 8, 10, 12 până la stația 'Városháza'",
+    "en": "Bus lines 8, 10, 12 to 'Városháza' stop"
+  },
+  "parking": {
+    "de": "Parkhaus in der Nähe (Teleki utca) gebührenpflichtig",
+    "hu": "Fizetős parkolóház a közelben (Teleki utca)",
+    "ro": "Parcare cu plată în apropiere (strada Teleki)",
+    "en": "Paid parking garage nearby (Teleki Street)"
+  },
+  "accessibility": {
+    "de": "Barrierefrei über Seiteneingang zugänglich",
+    "hu": "Akadálymentesen megközelíthető az oldalsó bejáraton",
+    "ro": "Accesibil prin intrarea laterală",
+    "en": "Accessible via side entrance"
+  },
+  "photoRules": {
+    "de": "Erlaubt in den öffentlichen Bereichen, keine Stative",
+    "hu": "Megengedett a nyilvános területeken, állvány használata tilos",
+    "ro": "Permis în zonele publice, fără trepiede",
+    "en": "Allowed in public areas, no tripods"
+  },
+  "bestTimeToVisit": {
+    "de": "Abends, wenn die Jugendstil-Fassade beleuchtet ist",
+    "hu": "Este, amikor a szecessziós homlokzat kivilágított",
+    "ro": "Seara, când fațada Art Nouveau este iluminată",
+    "en": "Evening, when the Art Nouveau facade is illuminated"
+  },
+  "audioGuide": {
+    "de": "nein",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

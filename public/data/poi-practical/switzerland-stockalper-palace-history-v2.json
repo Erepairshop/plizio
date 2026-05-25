@@ -1,12 +1,57 @@
 {
-  "address": "Alte Simplonstrasse 28, 3900 Brig",
-  "openingHours": "Di-So 09:30-16:30 (Mai bis Oktober)",
-  "entranceFee": "CHF 8 Erwachsene, CHF 4 Kinder (inkl. Führung)",
+  "address": {
+    "de": "Alte Simplonstrasse 28, 3900 Brig",
+    "hu": "Alte Simplonstrasse 28, 3900 Brig",
+    "ro": "Alte Simplonstrasse 28, 3900 Brig",
+    "en": "Alte Simplonstrasse 28, 3900 Brig"
+  },
+  "openingHours": {
+    "de": "Di-So 09:30-16:30 (Mai bis Oktober)",
+    "hu": "K–V 09:30–16:30 (május–október)",
+    "ro": "Mar-Dum 09:30-16:30 (Mai până în Octombrie)",
+    "en": "Tue-Sun 09:30-16:30 (May to October)"
+  },
+  "entranceFee": {
+    "de": "CHF 8 Erwachsene, CHF 4 Kinder (inkl. Führung)",
+    "hu": "8 CHF felnőtt, 4 CHF gyermek (vezetéssel)",
+    "ro": "8 CHF adulți, 4 CHF copii (incl. tur ghidat)",
+    "en": "8 CHF adults, 4 CHF children (incl. guided tour)"
+  },
   "website": "https://www.stockalperstiftung.ch/",
-  "publicTransport": "In ca. 10 Gehminuten vom Bahnhof Brig über die Bahnhofstrasse erreichbar.",
-  "parking": "Parkhaus Altstadt direkt unter dem Schlossplatz (CHF 1.50/Std.).",
-  "accessibility": "Der grosse Arkadenhof ist barrierefrei, die Innenräume sind nur im Rahmen von Treppenführungen zugänglich.",
-  "photoRules": "Im Schlosshof und Garten erlaubt, in den historischen Prunkräumen striktes Verbot.",
-  "bestTimeToVisit": "Vormittags, um an einer der ersten Führungen teilzunehmen und den Massen zu entgehen.",
-  "audioGuide": "no"
+  "publicTransport": {
+    "de": "In ca. 10 Gehminuten vom Bahnhof Brig über die Bahnhofstrasse erreichbar.",
+    "hu": "Kb. 10 perc sétára Brig pályaudvarától a Bahnhofstrasse mentén.",
+    "ro": "Aprox. 10 min. de mers pe jos de la gara Brig via Bahnhofstrasse.",
+    "en": "Approx. 10 min. walk from Brig train station via Bahnhofstrasse."
+  },
+  "parking": {
+    "de": "Parkhaus Altstadt direkt unter dem Schlossplatz (CHF 1.50/Std.).",
+    "hu": "Altstadt parkolóház közvetlenül a vár tér alatt (1,50 CHF/óra).",
+    "ro": "Parcarea Altstadt chiar sub piața castelului (1,50 CHF/oră).",
+    "en": "Altstadt parking directly under the castle square (1.50 CHF/hr)."
+  },
+  "accessibility": {
+    "de": "Der grosse Arkadenhof ist barrierefrei, die Innenräume sind nur im Rahmen von Treppenführungen zugänglich.",
+    "hu": "A nagy árkádos udvar akadálymentesített, a belső terek csak lépcsős vezetéssel érhetőek el.",
+    "ro": "Marea curte cu arcade este accesibilă, interioarele doar prin tururi cu scări.",
+    "en": "The large arcaded courtyard is accessible, interiors only via stair tours."
+  },
+  "photoRules": {
+    "de": "Im Schlosshof und Garten erlaubt, in den historischen Prunkräumen striktes Verbot.",
+    "hu": "Az udvaron és a kertben engedélyezett, a dísztermekben szigorúan tilos.",
+    "ro": "Permis în curte și grădină, strict interzis în sălile istorice de paradă.",
+    "en": "Allowed in courtyard and garden, strictly forbidden in historical state rooms."
+  },
+  "bestTimeToVisit": {
+    "de": "Vormittags, um an einer der ersten Führungen teilzunehmen und den Massen zu entgehen.",
+    "hu": "Délelőtt, az első vezetések egyikén, elkerülve a tömeget.",
+    "ro": "Dimineața, pentru a participa la unul dintre primele tururi și a evita masele.",
+    "en": "Mornings, to join one of the first tours and avoid the crowds."
+  },
+  "audioGuide": {
+    "de": "no",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

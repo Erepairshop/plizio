@@ -1,12 +1,57 @@
 {
-  "address": "Várhegy u. 1, 7086 Ozora",
-  "openingHours": "Di-So 09:00-17:00",
-  "entranceFee": "1500 HUF Erwachsene, 750 HUF Studenten/Senioren",
+  "address": {
+    "de": "Várhegy u. 1, 7086 Ozora",
+    "hu": "Várhegy u. 1, 7086 Ozora",
+    "ro": "Várhegy u. 1, 7086 Ozora",
+    "en": "Várhegy u. 1, 7086 Ozora"
+  },
+  "openingHours": {
+    "de": "Di-So 09:00-17:00",
+    "hu": "K-V 09:00-17:00",
+    "ro": "Marți-duminică 09:00-17:00",
+    "en": "Tue-Sun 09:00-17:00"
+  },
+  "entranceFee": {
+    "de": "1500 HUF Erwachsene, 750 HUF Studenten/Senioren",
+    "hu": "1500 HUF felnőtteknek, 750 HUF diákoknak/nyugdíjasoknak",
+    "ro": "1500 HUF adulți, 750 HUF studenți/senior",
+    "en": "1500 HUF adults, 750 HUF students/seniors"
+  },
   "website": "https://www.ozoraivarakastely.hu/",
-  "publicTransport": "Busverbindung von Siófok oder Tamási bis Ozora, Ortsmitte.",
-  "parking": "Kostenlose Parkplätze im Schlosshof oder direkt davor.",
-  "accessibility": "Erdgeschoss barrierefrei, Obergeschosse nur über Treppen erreichbar.",
-  "photoRules": "Fotografieren im Innenhof erlaubt, in den Ausstellungsräumen eingeschränkt.",
-  "bestTimeToVisit": "Vormittags unter der Woche, wenn es sehr ruhig und atmosphärisch ist.",
-  "audioGuide": "hu, en"
+  "publicTransport": {
+    "de": "Busverbindung von Siófok oder Tamási bis Ozora, Ortsmitte.",
+    "hu": "Buszjárat Siófokról vagy Tamásiból Ozora központjáig.",
+    "ro": "Legătură de autobuz din Siófok sau Tamási până în centrul Ozora.",
+    "en": "Bus connection from Siófok or Tamási to Ozora, town center."
+  },
+  "parking": {
+    "de": "Kostenlose Parkplätze im Schlosshof oder direkt davor.",
+    "hu": "Ingyenes parkolóhelyek a kastély udvarán vagy közvetlenül előtte.",
+    "ro": "Parcare gratuită în curtea castelului sau direct în fața acestuia.",
+    "en": "Free parking in the castle courtyard or directly in front."
+  },
+  "accessibility": {
+    "de": "Erdgeschoss barrierefrei, Obergeschosse nur über Treppen erreichbar.",
+    "hu": "Földszint akadálymentes, emeletek csak lépcsőn érhetők el.",
+    "ro": "Parter accesibil, etajele sunt accesibile doar prin scări.",
+    "en": "Ground floor barrier-free, upper floors only accessible via stairs."
+  },
+  "photoRules": {
+    "de": "Fotografieren im Innenhof erlaubt, in den Ausstellungsräumen eingeschränkt.",
+    "hu": "Fényképezés az udvaron megengedett, a kiállítótermekben korlátozott.",
+    "ro": "Fotografierea în curte este permisă, limitată în sălile de expoziție.",
+    "en": "Photography allowed in the courtyard, restricted in exhibition rooms."
+  },
+  "bestTimeToVisit": {
+    "de": "Vormittags unter der Woche, wenn es sehr ruhig und atmosphärisch ist.",
+    "hu": "Hétköznap délelőtt, amikor nagyon nyugodt és hangulatos.",
+    "ro": "În timpul săptămânii dimineața, când este foarte liniștit și atmosferic.",
+    "en": "Weekday mornings when it is very quiet and atmospheric."
+  },
+  "audioGuide": {
+    "de": "hu, en",
+    "hu": "magyar, angol",
+    "ro": "maghiară, engleză",
+    "en": "Hungarian, English"
+  }
 }

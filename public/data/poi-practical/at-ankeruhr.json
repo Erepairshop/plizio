@@ -1,12 +1,57 @@
 {
-  "address": "Hoher Markt 10-11, 1010 Wien",
-  "openingHours": "24/7",
-  "entranceFee": "frei",
+  "address": {
+    "de": "Hoher Markt 10-11, 1010 Wien",
+    "hu": "Hoher Markt 10-11, 1010 Bécs",
+    "ro": "Hoher Markt 10-11, 1010 Viena",
+    "en": "Hoher Markt 10-11, 1010 Vienna"
+  },
+  "openingHours": {
+    "de": "24/7",
+    "hu": "24/7",
+    "ro": "24/7",
+    "en": "24/7"
+  },
+  "entranceFee": {
+    "de": "frei",
+    "hu": "ingyenes",
+    "ro": "gratuit",
+    "en": "free"
+  },
   "website": "https://www.wien.info/de/sightseeing/sehenswuerdigkeiten/ankeruhr",
-  "publicTransport": "U1, U3 Stephansplatz",
-  "parking": "Kurzparkzone im 1. Bezirk, sehr teuer und zeitlich begrenzt.",
-  "accessibility": "Vom Platz aus voll einsehbar und barrierefrei zugänglich.",
-  "photoRules": "Erlaubt, Stativnutzung auf dem öffentlichen Platz möglich.",
-  "bestTimeToVisit": "Täglich um 12:00 Uhr, wenn alle 12 Figuren mit Musikbegleitung paradieren.",
-  "audioGuide": "nein"
+  "publicTransport": {
+    "de": "U1, U3 Stephansplatz",
+    "hu": "U1, U3 Stephansplatz",
+    "ro": "U1, U3 Stephansplatz",
+    "en": "U1, U3 Stephansplatz"
+  },
+  "parking": {
+    "de": "Kurzparkzone im 1. Bezirk, sehr teuer und zeitlich begrenzt.",
+    "hu": "Rövid távú parkolási övezet az 1. kerületben, drága és időben korlátozott.",
+    "ro": "Zonă de parcare pe termen scurt în Sectorul 1, scumpă și limitată temporal.",
+    "en": "Short-term parking zone in the 1st district, very expensive and time-limited."
+  },
+  "accessibility": {
+    "de": "Vom Platz aus voll einsehbar und barrierefrei zugänglich.",
+    "hu": "A térről teljesen látható és akadálymentesen megközelíthető.",
+    "ro": "Complet vizibil din piață și accesibil fără bariere.",
+    "en": "Fully visible from the square and accessible without barriers."
+  },
+  "photoRules": {
+    "de": "Erlaubt, Stativnutzung auf dem öffentlichen Platz möglich.",
+    "hu": "Engedélyezett, állvány használata a közterületen lehetséges.",
+    "ro": "Permis, utilizarea trepiedului în piața publică este posibilă.",
+    "en": "Allowed, tripod use in the public square is possible."
+  },
+  "bestTimeToVisit": {
+    "de": "Täglich um 12:00 Uhr, wenn alle 12 Figuren mit Musikbegleitung paradieren.",
+    "hu": "Naponta 12:00-kor, amikor mind a 12 figura zenei kísérettel felvonul.",
+    "ro": "Zilnic la ora 12:00, când toate cele 12 figuri defilează cu acompaniament muzical.",
+    "en": "Daily at 12:00 PM, when all 12 figures parade with musical accompaniment."
+  },
+  "audioGuide": {
+    "de": "nein",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

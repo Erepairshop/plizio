@@ -1,12 +1,57 @@
 {
-  "address": "Ady Endre u. 1., 5540 Szarvas",
-  "openingHours": "Tu-Su 09:00-17:00 (April-Okt), im Winter nach Absprache",
-  "entranceFee": "1000 HUF Erwachsene, 600 HUF Kinder",
+  "address": {
+    "de": "Ady Endre u. 1., 5540 Szarvas",
+    "hu": "Ady Endre u. 1., 5540 Szarvas",
+    "ro": "Ady Endre u. 1., 5540 Szarvas",
+    "en": "Ady Endre u. 1., 5540 Szarvas"
+  },
+  "openingHours": {
+    "de": "Tu-Su 09:00-17:00 (April-Okt), im Winter nach Absprache",
+    "hu": "K-V 09:00-17:00 (április-október), télen egyeztetés szerint",
+    "ro": "Mar-Dum 09:00-17:00 (aprilie-octombrie), iarna la cerere",
+    "en": "Tue-Sun 09:00-17:00 (April-Oct), in winter upon agreement"
+  },
+  "entranceFee": {
+    "de": "1000 HUF Erwachsene, 600 HUF Kinder",
+    "hu": "1000 HUF felnőttek, 600 HUF gyermekek",
+    "ro": "1000 HUF adulți, 600 HUF copii",
+    "en": "1000 HUF adults, 600 HUF children"
+  },
   "website": "http://www.szarvasiszarasmalom.hu/",
-  "publicTransport": "Bus zum Stadtzentrum Szarvas, von dort ca. 10 Min. Fußweg.",
-  "parking": "Kostenlose Parkplätze direkt in der Ady Endre utca vor dem Gebäude.",
-  "accessibility": "Das Erdgeschoss ist barrierefrei; der Getreidespeicher nur über eine steile Holzstiege.",
-  "photoRules": "Fotografieren der historischen Holzkonstruktion ohne Blitzlicht gestattet.",
-  "bestTimeToVisit": "Während angekündigter Vorführungen, wenn das Mahlwerk in Betrieb gesetzt wird.",
-  "audioGuide": "nein"
+  "publicTransport": {
+    "de": "Bus zum Stadtzentrum Szarvas, von dort ca. 10 Min. Fußweg.",
+    "hu": "Busz Szarvas városközpontjába, onnan kb. 10 perc séta.",
+    "ro": "Autobuz către centrul orașului Szarvas, de acolo aprox. 10 minute pe jos.",
+    "en": "Bus to Szarvas city center, from there approx. 10-minute walk."
+  },
+  "parking": {
+    "de": "Kostenlose Parkplätze direkt in der Ady Endre utca vor dem Gebäude.",
+    "hu": "Ingyenes parkolás közvetlenül az Ady Endre utcában az épület előtt.",
+    "ro": "Parcare gratuită direct în strada Ady Endre în fața clădirii.",
+    "en": "Free parking directly on Ady Endre utca in front of the building."
+  },
+  "accessibility": {
+    "de": "Das Erdgeschoss ist barrierefrei; der Getreidespeicher nur über eine steile Holzstiege.",
+    "hu": "A földszint akadálymentes; a magtár csak meredek falépcsőn érhető el.",
+    "ro": "Parterul este accesibil; grânarul poate fi atins doar pe o scară abruptă de lemn.",
+    "en": "Ground floor is accessible; grain loft only via steep wooden stairs."
+  },
+  "photoRules": {
+    "de": "Fotografieren der historischen Holzkonstruktion ohne Blitzlicht gestattet.",
+    "hu": "A történelmi faszerkezet fényképezése vaku nélkül megengedett.",
+    "ro": "Fotografierea structurii istorice de lemn fără bliț este permisă.",
+    "en": "Photography of the historic wooden structure allowed without flash."
+  },
+  "bestTimeToVisit": {
+    "de": "Während angekündigter Vorführungen, wenn das Mahlwerk in Betrieb gesetzt wird.",
+    "hu": "Bejelentett bemutatók során, amikor az őrlőszerkezet működésbe lép.",
+    "ro": "În timpul demonstrațiilor anunțate, când mecanismul de măcinare este pus în funcțiune.",
+    "en": "During announced demonstrations when the milling mechanism is put into operation."
+  },
+  "audioGuide": {
+    "de": "nein",
+    "hu": "nem",
+    "ro": "nu",
+    "en": "no"
+  }
 }

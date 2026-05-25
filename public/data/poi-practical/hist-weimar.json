@@ -1,12 +1,57 @@
 {
-  "address": "Theaterplatz, 99423 Weimar",
-  "openingHours": "24/7 (Altstadt)",
-  "entranceFee": "kostenlos",
+  "address": {
+    "de": "Theaterplatz, 99423 Weimar",
+    "hu": "Theaterplatz, 99423 Weimar, Németország",
+    "ro": "Theaterplatz, 99423 Weimar, Germania",
+    "en": "Theaterplatz, 99423 Weimar, Germany"
+  },
+  "openingHours": {
+    "de": "24/7 (Altstadt)",
+    "hu": "Bármikor látogatható (óváros)",
+    "ro": "24/7 (orașul vechi)",
+    "en": "24/7 (old town)"
+  },
+  "entranceFee": {
+    "de": "kostenlos",
+    "hu": "ingyenes",
+    "ro": "gratuit",
+    "en": "free"
+  },
   "website": "https://www.weimar.de",
-  "publicTransport": "Alle Stadtbuslinien bis Goetheplatz/Zentrum",
-  "parking": "Parkhaus Atrium (ca. 1,50 €/Std.) oder Tiefgarage Beethovenplatz.",
-  "accessibility": "Altstadt weitgehend eben, Museen oft barrierefrei umgebaut.",
-  "photoRules": "Erlaubt (außen).",
-  "bestTimeToVisit": "Mai bis September für das kulturelle Leben im Freien.",
-  "audioGuide": "ja (über Weimar-App)"
+  "publicTransport": {
+    "de": "Alle Stadtbuslinien bis Goetheplatz/Zentrum",
+    "hu": "Minden városi buszjárat a Goetheplatz/Zentrum megállóig",
+    "ro": "Toate liniile de autobuz până la Goetheplatz/Centru",
+    "en": "All city bus lines to Goetheplatz/Zentrum"
+  },
+  "parking": {
+    "de": "Parkhaus Atrium (ca. 1,50 €/Std.) oder Tiefgarage Beethovenplatz.",
+    "hu": "Atrium parkolóház (kb. 1,50 €/óra) vagy Beethovenplatz mélygarázs.",
+    "ro": "Parcarea Atrium (aprox. 1,50 €/oră) sau parcarea subterană Beethovenplatz.",
+    "en": "Atrium parking garage (approx. 1.50 €/hour) or Beethovenplatz underground parking."
+  },
+  "accessibility": {
+    "de": "Altstadt weitgehend eben, Museen oft barrierefrei umgebaut.",
+    "hu": "Az óváros jórészt sík, a múzeumok gyakran akadálymentesítettek.",
+    "ro": "Centrul vechi este în mare parte plat, muzeele sunt adesea accesibile.",
+    "en": "Old town largely flat, museums often adapted for accessibility."
+  },
+  "photoRules": {
+    "de": "Erlaubt (außen).",
+    "hu": "Kültéren engedélyezett.",
+    "ro": "Permis (în exterior).",
+    "en": "Allowed (outdoors)."
+  },
+  "bestTimeToVisit": {
+    "de": "Mai bis September für das kulturelle Leben im Freien.",
+    "hu": "Májustól szeptemberig a pezsgő szabadtéri kulturális élet miatt.",
+    "ro": "Din mai până în septembrie pentru viața culturală în aer liber.",
+    "en": "May to September for the outdoor cultural life."
+  },
+  "audioGuide": {
+    "de": "ja (über Weimar-App)",
+    "hu": "igen (Weimar applikáción keresztül)",
+    "ro": "da (prin aplicația Weimar)",
+    "en": "yes (via Weimar app)"
+  }
 }

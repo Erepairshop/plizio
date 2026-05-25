@@ -1,12 +1,57 @@
 {
-  "address": "Drachenfelsstr. 118, 53639 Königswinter",
-  "openingHours": "Mo-Su 11:00-18:00",
-  "entranceFee": "€8.00 Erwachsene, €6.00 ermäßigt",
+  "address": {
+    "de": "Drachenfelsstr. 118, 53639 Königswinter",
+    "hu": "Drachenfelsstr. 118, 53639 Königswinter",
+    "ro": "Drachenfelsstr. 118, 53639 Königswinter",
+    "en": "Drachenfelsstr. 118, 53639 Königswinter"
+  },
+  "openingHours": {
+    "de": "Mo-Su 11:00-18:00",
+    "hu": "H-V 11:00-18:00",
+    "ro": "L-D 11:00-18:00",
+    "en": "Mon-Sun 11:00-18:00"
+  },
+  "entranceFee": {
+    "de": "€8.00 Erwachsene, €6.00 ermäßigt",
+    "hu": "8,00 € felnőtt, 6,00 € kedvezményes",
+    "ro": "8 € adulți, 6 € redus",
+    "en": "€8.00 adults, €6.00 reduced"
+  },
   "website": "https://www.schloss-drachenburg.de",
-  "publicTransport": "Drachenfelsbahn (Zahnradbahn)",
-  "parking": "Parkhaus am Fuße des Berges",
-  "accessibility": "Bedient durch Drachenfelsbahn, Schloss selbst teilweise zugänglich",
-  "photoRules": "Erlaubt, außer Blitz bei Gemälden",
-  "bestTimeToVisit": "Sonnenuntergang",
-  "audioGuide": "Deutsch, Englisch"
+  "publicTransport": {
+    "de": "Drachenfelsbahn (Zahnradbahn)",
+    "hu": "Drachenfelsbahn (fogaskerekű)",
+    "ro": "Drachenfelsbahn (tren cu cremalieră)",
+    "en": "Drachenfelsbahn (cog railway)"
+  },
+  "parking": {
+    "de": "Parkhaus am Fuße des Berges",
+    "hu": "Parkolóház a hegy lábánál",
+    "ro": "Parcare la poalele muntelui",
+    "en": "Parking garage at the foot of the mountain"
+  },
+  "accessibility": {
+    "de": "Bedient durch Drachenfelsbahn, Schloss selbst teilweise zugänglich",
+    "hu": "A Drachenfelsbahnnal elérhető, a kastély részben látogatható",
+    "ro": "Accesibil prin Drachenfelsbahn, castelul parțial vizitabil",
+    "en": "Served by Drachenfelsbahn, castle itself partially accessible"
+  },
+  "photoRules": {
+    "de": "Erlaubt, außer Blitz bei Gemälden",
+    "hu": "Megengedett, kivéve a festményeknél (vaku tilos)",
+    "ro": "Permis, cu excepția blițului la tablouri",
+    "en": "Allowed, except flash at paintings"
+  },
+  "bestTimeToVisit": {
+    "de": "Sonnenuntergang",
+    "hu": "Naplemente",
+    "ro": "Apus de soare",
+    "en": "Sunset"
+  },
+  "audioGuide": {
+    "de": "Deutsch, Englisch",
+    "hu": "német, angol",
+    "ro": "germană, engleză",
+    "en": "German, English"
+  }
 }

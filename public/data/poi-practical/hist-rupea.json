@@ -1,12 +1,57 @@
 {
-  "address": "Strada Cetății, 505500 Rupea",
-  "openingHours": "Täglich 09:00-20:00 (Sommer), bis 17:00 (Winter)",
-  "entranceFee": "15 RON Erwachsene, 8 RON Kinder",
+  "address": {
+    "de": "Strada Cetății, 505500 Rupea",
+    "hu": "Strada Cetății, 505500 Kőhalom",
+    "ro": "Strada Cetății, 505500 Rupea",
+    "en": "Strada Cetății, 505500 Rupea"
+  },
+  "openingHours": {
+    "de": "Täglich 09:00-20:00 (Sommer), bis 17:00 (Winter)",
+    "hu": "Naponta 09:00-20:00 (nyáron), 17:00-ig (télen)",
+    "ro": "Zilnic 09:00-20:00 (vara), până la 17:00 (iarna)",
+    "en": "Daily 09:00-20:00 (summer), until 17:00 (winter)"
+  },
+  "entranceFee": {
+    "de": "15 RON Erwachsene, 8 RON Kinder",
+    "hu": "15 RON felnőtt, 8 RON gyermek",
+    "ro": "15 RON adulți, 8 RON copii",
+    "en": "15 RON adults, 8 RON children"
+  },
   "website": "",
-  "publicTransport": "Busverbindung an der Strecke Brașov-Sighișoara, Haltestelle im Ort",
-  "parking": "Moderner Parkplatz direkt unterhalb der Festungsmauern, kostenlos",
-  "accessibility": "Teilweise asphaltierte Wege, aber sehr steil zur Oberburg hin",
-  "photoRules": "Erlaubt, keine Gebühren",
-  "bestTimeToVisit": "Sonnenuntergang, die Festung ist dann oft golden beleuchtet",
-  "audioGuide": "Nein"
+  "publicTransport": {
+    "de": "Busverbindung an der Strecke Brașov-Sighișoara, Haltestelle im Ort",
+    "hu": "Buszjárat a Brassó-Segesvár útvonalon, megálló a településen",
+    "ro": "Legătură cu autobuzul pe ruta Brașov-Sighișoara, stație în localitate",
+    "en": "Bus connection on the Brașov-Sighișoara route, stop in the village"
+  },
+  "parking": {
+    "de": "Moderner Parkplatz direkt unterhalb der Festungsmauern, kostenlos",
+    "hu": "Modern ingyenes parkoló közvetlenül a várfalak alatt",
+    "ro": "Parcare modernă direct sub zidurile cetății, gratuită",
+    "en": "Modern free parking lot directly below the fortress walls"
+  },
+  "accessibility": {
+    "de": "Teilweise asphaltierte Wege, aber sehr steil zur Oberburg hin",
+    "hu": "Részben aszfaltozott utak, de a felsővár felé nagyon meredek",
+    "ro": "Alei parțial asfaltate, dar foarte abrupte spre cetatea de sus",
+    "en": "Partially asphalted paths, but very steep towards the upper fortress"
+  },
+  "photoRules": {
+    "de": "Erlaubt, keine Gebühren",
+    "hu": "Engedélyezett, nincs külön díja",
+    "ro": "Permis, fără taxe",
+    "en": "Allowed, no fees"
+  },
+  "bestTimeToVisit": {
+    "de": "Sonnenuntergang, die Festung ist dann oft golden beleuchtet",
+    "hu": "Naplemente idején, amikor a várat aranyszínű fény világítja meg",
+    "ro": "La apus, când cetatea este adesea luminată în nuanțe aurii",
+    "en": "At sunset, when the fortress is often illuminated in golden light"
+  },
+  "audioGuide": {
+    "de": "Nein",
+    "hu": "Nem",
+    "ro": "Nu",
+    "en": "No"
+  }
 }

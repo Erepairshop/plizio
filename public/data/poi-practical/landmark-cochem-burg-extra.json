@@ -1,12 +1,57 @@
 {
-  "address": "Schlossstraße 36, 56812 Cochem",
-  "openingHours": "Täglich 09:00-17:00",
-  "entranceFee": "Erwachsene 7€, Gruppenrabatte möglich",
+  "address": {
+    "de": "Schlossstraße 36, 56812 Cochem",
+    "hu": "Schlossstraße 36, 56812 Cochem",
+    "ro": "Schlossstraße 36, 56812 Cochem",
+    "en": "Schlossstraße 36, 56812 Cochem"
+  },
+  "openingHours": {
+    "de": "Täglich 09:00-17:00",
+    "hu": "Naponta 09:00-17:00",
+    "ro": "Zilnic 09:00-17:00",
+    "en": "Daily 09:00-17:00"
+  },
+  "entranceFee": {
+    "de": "Erwachsene 7€, Gruppenrabatte möglich",
+    "hu": "Felnőtt 7 €, csoportos kedvezmények lehetségesek",
+    "ro": "Adulți 7 €, reduceri pentru grupuri disponibile",
+    "en": "Adults €7, group discounts possible"
+  },
   "website": "https://reichsburg-cochem.de",
-  "publicTransport": "Regelmäßiger Shuttlebus vom Busbahnhof Cochem zur Burg.",
-  "parking": "Parken im Parkhaus Cochem City, Fußweg ca. 15-20 Min. bergauf.",
-  "accessibility": "Bedingt barrierefrei (nur Burghof), keine Aufzüge vorhanden.",
-  "photoRules": "Fotografieren im Burghof erlaubt, in den Prunkräumen verboten.",
-  "bestTimeToVisit": "August während des traditionellen Burgfestes.",
-  "audioGuide": "nein (nur geführte Rundgänge)"
+  "publicTransport": {
+    "de": "Regelmäßiger Shuttlebus vom Busbahnhof Cochem zur Burg.",
+    "hu": "Rendszeres shuttle busz a Cochem-i buszpályaudvarról a várba.",
+    "ro": "Autobuz shuttle regulat de la autogara Cochem la castel.",
+    "en": "Regular shuttle bus from Cochem bus station to the castle."
+  },
+  "parking": {
+    "de": "Parken im Parkhaus Cochem City, Fußweg ca. 15-20 Min. bergauf.",
+    "hu": "Parkolás a Cochem City parkolóházban, gyalogút kb. 15-20 perc felfelé.",
+    "ro": "Parcare în garajul Cochem City, drum de aproximativ 15-20 de minute în sus.",
+    "en": "Parking in Cochem City garage, walk approx. 15-20 min uphill."
+  },
+  "accessibility": {
+    "de": "Bedingt barrierefrei (nur Burghof), keine Aufzüge vorhanden.",
+    "hu": "Feltételesen akadálymentesített (csak a várudvar), liftek nincsenek.",
+    "ro": "Accesibilitate condiționată (doar curtea castelului), nu există lifturi.",
+    "en": "Partially accessible (castle courtyard only), no elevators."
+  },
+  "photoRules": {
+    "de": "Fotografieren im Burghof erlaubt, in den Prunkräumen verboten.",
+    "hu": "A várudvaron engedélyezett, a dísztermekben tilos.",
+    "ro": "Fotografierea permisă în curte, interzisă în sălile oficiale.",
+    "en": "Photography allowed in courtyard, forbidden in grand rooms."
+  },
+  "bestTimeToVisit": {
+    "de": "August während des traditionellen Burgfestes.",
+    "hu": "Augusztusban, a hagyományos várünnepség alatt.",
+    "ro": "În august, în timpul festivalului tradițional al castelului.",
+    "en": "August during the traditional castle festival."
+  },
+  "audioGuide": {
+    "de": "nein (nur geführte Rundgänge)",
+    "hu": "nincs (csak vezetett körséták)",
+    "ro": "nu (doar tururi ghidate)",
+    "en": "no (guided tours only)"
+  }
 }

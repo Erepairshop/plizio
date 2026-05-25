@@ -1,12 +1,57 @@
 {
-  "address": "Calea Domnească 181, 130002 Târgoviște",
-  "openingHours": "Tu-Su 09:00-18:30 (Sommer), 09:00-17:00 (Winter)",
-  "entranceFee": "20 RON Erwachsene (Gesamtticket für den Fürstenhof)",
+  "address": {
+    "de": "Calea Domnească 181, 130002 Târgoviște",
+    "hu": "Calea Domnească 181, 130002 Târgoviște",
+    "ro": "Calea Domnească 181, 130002 Târgoviște",
+    "en": "Calea Domnească 181, 130002 Târgoviște"
+  },
+  "openingHours": {
+    "de": "Tu-Su 09:00-18:30 (Sommer), 09:00-17:00 (Winter)",
+    "hu": "K-V 09:00-18:30 (nyáron), 09:00-17:00 (télen)",
+    "ro": "Mar-Du 09:00-18:30 (vară), 09:00-17:00 (iarnă)",
+    "en": "Tue-Sun 09:00-18:30 (summer), 09:00-17:00 (winter)"
+  },
+  "entranceFee": {
+    "de": "20 RON Erwachsene (Gesamtticket für den Fürstenhof)",
+    "hu": "20 RON felnőttek (összevont jegy a Fejedelmi Udvarba)",
+    "ro": "20 RON adulți (bilet combinat pentru Curtea Domnească)",
+    "en": "20 RON adults (combined ticket for the Princely Court)"
+  },
   "website": "https://www.muzeul-curteareala-targoviste.ro",
-  "publicTransport": "Vom Bahnhof Târgoviște ca. 15 Min. Fußweg.",
-  "parking": "Großer Parkplatz vor dem Eingang zum Curtea Domnească.",
-  "accessibility": "Nicht barrierefrei, steile Treppen im Inneren des Turms.",
-  "photoRules": "Erlaubt, Drohnen auf dem Gelände streng untersagt.",
-  "bestTimeToVisit": "Am frühen Morgen, bevor die Ausflugsbusse aus Bukarest kommen.",
-  "audioGuide": "Rumänisch, Englisch verfügbar"
+  "publicTransport": {
+    "de": "Vom Bahnhof Târgoviște ca. 15 Min. Fußweg.",
+    "hu": "A târgoviștei vasútállomástól kb. 15 perc séta.",
+    "ro": "Aprox. 15 minute pe jos de la gara Târgoviște.",
+    "en": "Approx. 15 min walk from Târgoviște train station."
+  },
+  "parking": {
+    "de": "Großer Parkplatz vor dem Eingang zum Curtea Domnească.",
+    "hu": "Nagy parkoló a Curtea Domnească bejáratánál.",
+    "ro": "Parcare mare în fața intrării la Curtea Domnească.",
+    "en": "Large parking area in front of the Curtea Domnească entrance."
+  },
+  "accessibility": {
+    "de": "Nicht barrierefrei, steile Treppen im Inneren des Turms.",
+    "hu": "Nem akadálymentes, meredek lépcsők a torony belsejében.",
+    "ro": "Nu este accesibil, scări abrupte în interiorul turnului.",
+    "en": "Not accessible, steep stairs inside the tower."
+  },
+  "photoRules": {
+    "de": "Erlaubt, Drohnen auf dem Gelände streng untersagt.",
+    "hu": "Engedélyezett, drónok használata a területen szigorúan tilos.",
+    "ro": "Permis, dronele sunt strict interzise în incintă.",
+    "en": "Allowed, drones strictly prohibited on the premises."
+  },
+  "bestTimeToVisit": {
+    "de": "Am frühen Morgen, bevor die Ausflugsbusse aus Bukarest kommen.",
+    "hu": "Kora reggel, mielőtt megérkeznének a bukaresti turistabuszok.",
+    "ro": "Dimineața devreme, înainte de sosirea autobuzelor turistice din București.",
+    "en": "Early morning before tourist buses from Bucharest arrive."
+  },
+  "audioGuide": {
+    "de": "Rumänisch, Englisch verfügbar",
+    "hu": "Román és angol nyelven elérhető",
+    "ro": "Disponibil în română și engleză",
+    "en": "Available in Romanian, English"
+  }
 }

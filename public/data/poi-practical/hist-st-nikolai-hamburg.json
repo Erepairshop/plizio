@@ -1,12 +1,57 @@
 {
-  "address": "Willy-Brandt-Straße 60, 20457 Hamburg",
-  "openingHours": "Mo-So 10:00-18:00",
-  "entranceFee": "5 € Erwachsene (Museum & Turmfahrt)",
+  "address": {
+    "de": "Willy-Brandt-Straße 60, 20457 Hamburg",
+    "hu": "Willy-Brandt-Straße 60, 20457 Hamburg",
+    "ro": "Willy-Brandt-Straße 60, 20457 Hamburg",
+    "en": "Willy-Brandt-Straße 60, 20457 Hamburg"
+  },
+  "openingHours": {
+    "de": "Mo-Su 10:00-18:00",
+    "hu": "H-V 10:00-18:00",
+    "ro": "Lu-Du 10:00-18:00",
+    "en": "Mon-Sun 10:00-18:00"
+  },
+  "entranceFee": {
+    "de": "5 € Erwachsene (Museum & Turmfahrt)",
+    "hu": "5 € felnőtt (múzeum és toronylift)",
+    "ro": "5 € adulți (muzeu și urcare în turn)",
+    "en": "5 € adults (museum & tower elevator)"
+  },
   "website": "https://www.mahnmal-st-nikolai.de",
-  "publicTransport": "U3 (Rödingsmarkt), S1/S3 (Stadthausbrücke)",
-  "parking": "Parkhaus Großer Burstah, ca. 3,50 €/Std.",
-  "accessibility": "Aussichtsplattform per Glasaufzug barrierefrei.",
-  "photoRules": "Erlaubt.",
-  "bestTimeToVisit": "Bei gutem Wetter für den Panoramablick über Hamburg.",
-  "audioGuide": "ja (DE, EN)"
+  "publicTransport": {
+    "de": "U3 (Rödingsmarkt), S1/S3 (Stadthausbrücke)",
+    "hu": "U3 (Rödingsmarkt), S1/S3 (Stadthausbrücke)",
+    "ro": "U3 (Rödingsmarkt), S1/S3 (Stadthausbrücke)",
+    "en": "U3 (Rödingsmarkt), S1/S3 (Stadthausbrücke)"
+  },
+  "parking": {
+    "de": "Parkhaus Großer Burstah, ca. 3,50 €/Std.",
+    "hu": "Großer Burstah parkolóház, kb. 3,50 €/óra",
+    "ro": "Parcarea Großer Burstah, aprox. 3,50 €/oră",
+    "en": "Großer Burstah parking garage, approx. 3.50 €/hr"
+  },
+  "accessibility": {
+    "de": "Aussichtsplattform per Glasaufzug barrierefrei.",
+    "hu": "A kilátóterasz üveglifttel akadálymentesen elérhető.",
+    "ro": "Platforma de belvedere este accesibilă prin lift de sticlă.",
+    "en": "Viewing platform barrier-free accessible via glass elevator."
+  },
+  "photoRules": {
+    "de": "Erlaubt.",
+    "hu": "Engedélyezett.",
+    "ro": "Permis.",
+    "en": "Allowed."
+  },
+  "bestTimeToVisit": {
+    "de": "Bei gutem Wetter für den Panoramablick über Hamburg.",
+    "hu": "Jó időben a Hamburgra nyíló panoráma miatt.",
+    "ro": "Pe vreme bună pentru priveliștea panoramică asupra Hamburgului.",
+    "en": "In good weather for the panoramic view over Hamburg."
+  },
+  "audioGuide": {
+    "de": "ja (DE, EN)",
+    "hu": "igen (DE, EN)",
+    "ro": "da (DE, EN)",
+    "en": "yes (DE, EN)"
+  }
 }

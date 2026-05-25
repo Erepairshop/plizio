@@ -1,12 +1,57 @@
 {
-  "address": "Schlossberg, 8640 Rapperswil-Jona",
-  "openingHours": "Täglich 10:00-18:00 (Außenanlage), Museum Di-So 13:00-17:00",
-  "entranceFee": "Hof frei, Polenmuseum 5 CHF",
+  "address": {
+    "de": "Schlossberg, 8640 Rapperswil-Jona",
+    "hu": "Schlossberg, 8640 Rapperswil-Jona",
+    "ro": "Schlossberg, 8640 Rapperswil-Jona",
+    "en": "Schlossberg, 8640 Rapperswil-Jona"
+  },
+  "openingHours": {
+    "de": "Täglich 10:00-18:00 (Außenanlage), Museum Di-So 13:00-17:00",
+    "hu": "Naponta 10:00–18:00 (külterület), múzeum K–V 13:00–17:00",
+    "ro": "Zilnic 10:00-18:00 (exterior), muzeu Mar-Dum 13:00-17:00",
+    "en": "Daily 10:00-18:00 (exterior), museum Tue-Sun 13:00-17:00"
+  },
+  "entranceFee": {
+    "de": "Hof frei, Polenmuseum 5 CHF",
+    "hu": "udvar ingyenes, Lengyel Múzeum 5 CHF",
+    "ro": "curtea liberă, Muzeul Polonez 5 CHF",
+    "en": "courtyard free, Polish Museum 5 CHF"
+  },
   "website": "https://www.rapperswil-jona.ch",
-  "publicTransport": "Bahnhof Rapperswil, dann 5 Min. Fußweg über die Treppen.",
-  "parking": "Parkhäuser im Zentrum (See oder Schanz).",
-  "accessibility": "Schlossberg nur über Treppen oder steilen Weg erreichbar.",
-  "photoRules": "Erlaubt; der Rosengarten am Fuße ist ein Top-Motiv.",
-  "bestTimeToVisit": "Juni/Juli, wenn die Rosen im Schlossgarten blühen.",
-  "audioGuide": "DE"
+  "publicTransport": {
+    "de": "Bahnhof Rapperswil, dann 5 Min. Fußweg über die Treppen.",
+    "hu": "Rapperswil pályaudvar, majd 5 perc séta a lépcsőkön át.",
+    "ro": "Gara Rapperswil, apoi 5 min. pe jos pe scări.",
+    "en": "Rapperswil train station, then 5 min. walk up the stairs."
+  },
+  "parking": {
+    "de": "Parkhäuser im Zentrum (See oder Schanz).",
+    "hu": "Parkolóházak a központban (See vagy Schanz).",
+    "ro": "Parcări în centru (See sau Schanz).",
+    "en": "Parking garages in the center (See or Schanz)."
+  },
+  "accessibility": {
+    "de": "Schlossberg nur über Treppen oder steilen Weg erreichbar.",
+    "hu": "A várhegy csak lépcsőn vagy meredek úton érhető el.",
+    "ro": "Dealul castelului accesibil doar pe scări sau potecă abruptă.",
+    "en": "Castle hill only accessible via stairs or steep path."
+  },
+  "photoRules": {
+    "de": "Erlaubt; der Rosengarten am Fuße ist ein Top-Motiv.",
+    "hu": "Engedélyezett; a lábánál fekvő rózsakert kiváló fotótéma.",
+    "ro": "Permis; grădina de trandafiri de la poale este un subiect de top.",
+    "en": "Allowed; the rose garden at the foot is a top subject."
+  },
+  "bestTimeToVisit": {
+    "de": "Juni/Juli, wenn die Rosen im Schlossgarten blühen.",
+    "hu": "Június/július, amikor a rózsák virágoznak a várkertben.",
+    "ro": "Iunie/Iulie, când trandafirii înfloresc în grădina castelului.",
+    "en": "June/July, when the roses bloom in the castle garden."
+  },
+  "audioGuide": {
+    "de": "DE",
+    "hu": "német",
+    "ro": "germ",
+    "en": "German"
+  }
 }

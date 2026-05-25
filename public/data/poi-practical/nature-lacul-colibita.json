@@ -1,12 +1,51 @@
 {
-  "address": "Sat Colibița, 427007 Bistrița-Bârgăului, Bistrița-Năsăud",
-  "openingHours": "24/7",
-  "entranceFee": "free (viele Seezugänge über Privatgrundstücke)",
+  "address": {
+    "de": "Sat Colibița, 427007 Bistrița-Bârgăului, Bistrița-Năsăud",
+    "hu": "Sat Colibița, 427007 Bistrița-Bârgăului, Beszterce-Naszód",
+    "ro": "Sat Colibița, 427007 Bistrița-Bârgăului, Bistrița-Năsăud",
+    "en": "Sat Colibița, 427007 Bistrița-Bârgăului, Bistrița-Năsăud"
+  },
+  "openingHours": {
+    "de": "24/7",
+    "hu": "24/7",
+    "ro": "24/7",
+    "en": "24/7"
+  },
+  "entranceFee": {
+    "de": "free (viele Seezugänge über Privatgrundstücke)",
+    "hu": "ingyenes (sok helyen a tópart magánterületen keresztül érhető el)",
+    "ro": "gratuit (multe accesuri la lac prin proprietăți private)",
+    "en": "free (many lake accesses via private properties)"
+  },
   "website": "",
-  "publicTransport": "Bus von Bistrița nach Bistrița-Bârgăului, dann lokaler Transport",
-  "parking": "Parkmöglichkeiten bei den Pensionen oder öffentlichen Strandabschnitten",
-  "accessibility": "Uferpromenaden teilweise asphaltiert; Bootsstege meist über Treppen",
-  "photoRules": "Erlaubt; Drohnenaufnahmen zeigen die Form des Stausees am besten",
-  "bestTimeToVisit": "Früher Morgen für spiegelglattes Wasser und Nebelstimmung",
-  "audioGuide": "no"
+  "publicTransport": {
+    "de": "Bus von Bistrița nach Bistrița-Bârgăului, dann lokaler Transport",
+    "hu": "Busz Besztercéről Bistrița-Bârgăului-ba, majd helyi transzfer",
+    "ro": "Autobuz din Bistrița până la Bistrița-Bârgăului, apoi transport local",
+    "en": "Bus from Bistrița to Bistrița-Bârgăului, then local transport"
+  },
+  "parking": {
+    "de": "Parkmöglichkeiten bei den Pensionen oder öffentlichen Strandabschnitten",
+    "hu": "Parkolás a panzióknál vagy a nyilvános partszakaszokon",
+    "ro": "Locuri de parcare la pensiuni sau sectoare de plajă publice",
+    "en": "Parking options at guesthouses or public beach sections"
+  },
+  "accessibility": {
+    "de": "Uferpromenaden teilweise asphaltiert; Bootsstege meist über Treppen",
+    "hu": "A sétányok részben aszfaltozottak; a mólók többnyire lépcsőkön át érhetők el",
+    "ro": "Promenadele pe mal sunt parțial asfaltate; debarcaderele sunt accesibile de obicei pe scări",
+    "en": "Promenades partly paved; boat piers mostly via stairs"
+  },
+  "photoRules": {
+    "de": "Erlaubt; Drohnenaufnahmen zeigen die Form des Stausees am besten",
+    "hu": "Engedélyezett; drónfelvételek mutatják a legjobban a víztározó alakját",
+    "ro": "Permis; filmările cu drona arată cel mai bine forma lacului de acumulare",
+    "en": "Allowed; drone footage shows the shape of the reservoir best"
+  },
+  "bestTimeToVisit": {
+    "de": "Früher Morgen für spiegelglattes Wasser und Nebelstimmung",
+    "hu": "Kora reggel, a tükörsima vízért és ködös hangulatért",
+    "ro": "Dimineața devreme pentru apă ca o oglindă și atmosferă de ceață",
+    "en": "Early morning for mirror-like water and misty atmosphere"
+  }
 }

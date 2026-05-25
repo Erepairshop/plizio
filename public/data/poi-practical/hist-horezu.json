@@ -1,12 +1,57 @@
 {
-  "address": "Strada Mănăstirii, Horezu 245800, Vâlcea",
-  "openingHours": "Mo-Su 08:00-20:00",
-  "entranceFee": "frei",
+  "address": {
+    "de": "Strada Mănăstirii, Horezu 245800, Vâlcea",
+    "hu": "Strada Mănăstirii, Horezu 245800, Vâlcea",
+    "ro": "Strada Mănăstirii, Horezu 245800, Vâlcea",
+    "en": "Strada Mănăstirii, Horezu 245800, Vâlcea"
+  },
+  "openingHours": {
+    "de": "Mo-Su 08:00-20:00",
+    "hu": "Hé-Va 08:00-20:00",
+    "ro": "Lu-Du 08:00-20:00",
+    "en": "Mon-Sun 08:00-20:00"
+  },
+  "entranceFee": {
+    "de": "frei",
+    "hu": "ingyenes",
+    "ro": "gratuit",
+    "en": "free"
+  },
   "website": "",
-  "publicTransport": "Bus bis Horezu, dann ca. 3km Taxi oder Fußweg",
-  "parking": "Parken unterhalb des Klosters kostenfrei möglich",
-  "accessibility": "Hof und Kirche ebenerdig und gut zugänglich",
-  "photoRules": "Fotos im Außenbereich frei, in der Kirche unerwünscht",
-  "bestTimeToVisit": "Kombiniert mit dem Keramikmarkt im Dorf Horezu",
-  "audioGuide": "no"
+  "publicTransport": {
+    "de": "Bus bis Horezu, dann ca. 3km Taxi oder Fußweg",
+    "hu": "Busz Horezuig, majd kb. 3 km taxi vagy séta",
+    "ro": "Autobuz până la Horezu, apoi cca. 3 km taxi sau pe jos",
+    "en": "Bus to Horezu, then approx. 3km taxi or walk"
+  },
+  "parking": {
+    "de": "Parken unterhalb des Klosters kostenfrei möglich",
+    "hu": "Parkolás a kolostor alatt ingyenesen lehetséges",
+    "ro": "Parcare gratuită sub mănăstire",
+    "en": "Free parking available below the monastery"
+  },
+  "accessibility": {
+    "de": "Hof und Kirche ebenerdig und gut zugänglich",
+    "hu": "Az udvar és a templom síkszintű és jól megközelíthető",
+    "ro": "Curtea și biserica sunt la nivelul solului și ușor accesibile",
+    "en": "Courtyard and church level and well accessible"
+  },
+  "photoRules": {
+    "de": "Fotos im Außenbereich frei, in der Kirche unerwünscht",
+    "hu": "Kint szabad, templomon belül nem szívesen látott",
+    "ro": "Fotografii libere în exterior, nedorite în interiorul bisericii",
+    "en": "Outdoor photos free, inside church discouraged"
+  },
+  "bestTimeToVisit": {
+    "de": "Kombiniert mit dem Keramikmarkt im Dorf Horezu",
+    "hu": "A Horezu falu kerámia-piacával kombinálva",
+    "ro": "Combinat cu târgul de ceramică din Horezu",
+    "en": "Combined with the ceramic market in Horezu village"
+  },
+  "audioGuide": {
+    "de": "no",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

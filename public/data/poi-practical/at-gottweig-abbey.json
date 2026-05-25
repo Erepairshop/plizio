@@ -1,12 +1,57 @@
 {
-  "address": "Stift Göttweig 1, 3511 Furth bei Göttweig",
-  "openingHours": "Täglich 10:00-18:00",
-  "entranceFee": "€ 13,00 Erwachsene (Museumszugang)",
+  "address": {
+    "de": "Stift Göttweig 1, 3511 Furth bei Göttweig",
+    "hu": "Stift Göttweig 1, 3511 Furth bei Göttweig",
+    "ro": "Stift Göttweig 1, 3511 Furth bei Göttweig",
+    "en": "Stift Göttweig 1, 3511 Furth bei Göttweig"
+  },
+  "openingHours": {
+    "de": "Täglich 10:00-18:00",
+    "hu": "Naponta 10:00-18:00",
+    "ro": "Zilnic 10:00-18:00",
+    "en": "Daily 10:00 AM - 6:00 PM"
+  },
+  "entranceFee": {
+    "de": "€ 13,00 Erwachsene (Museumszugang)",
+    "hu": "13,00 € felnőtt (belépés a múzeumba)",
+    "ro": "13,00 € adulți (acces muzeu)",
+    "en": "€13.00 adults (museum access)"
+  },
   "website": "https://www.stiftgoettweig.at",
-  "publicTransport": "ÖBB bis Furth-Palt, danach 30 min steiler Fußweg oder Taxi.",
-  "parking": "Großer kostenloser Parkplatz direkt am Stiftsgelände vorhanden.",
-  "accessibility": "Kirche, Restaurant und Shop barrierefrei, Museumsbereich teilweise eingeschränkt.",
-  "photoRules": "Erlaubt, in der Kirche während Gottesdiensten bitte unterlassen.",
-  "bestTimeToVisit": "Abends zum Chorgebet der Mönche (Vesper) für eine besondere Atmosphäre.",
-  "audioGuide": "ja (Smartphone-Guide in DE, EN, FR, IT)"
+  "publicTransport": {
+    "de": "ÖBB bis Furth-Palt, danach 30 min steiler Fußweg oder Taxi.",
+    "hu": "ÖBB vonattal Furth-Paltig, utána 30 perc meredek gyalogút vagy taxi.",
+    "ro": "ÖBB până la Furth-Palt, apoi 30 min de mers pe jos abrupt sau taxi.",
+    "en": "Train to Furth-Palt, followed by a 30 min steep walk or taxi."
+  },
+  "parking": {
+    "de": "Großer kostenloser Parkplatz direkt am Stiftsgelände vorhanden.",
+    "hu": "Nagy ingyenes parkoló közvetlenül az apátság területén.",
+    "ro": "Parcare mare gratuită disponibilă chiar pe teritoriul abației.",
+    "en": "Large free parking lot available directly on the abbey grounds."
+  },
+  "accessibility": {
+    "de": "Kirche, Restaurant und Shop barrierefrei, Museumsbereich teilweise eingeschränkt.",
+    "hu": "Templom, étterem és bolt akadálymentes, a múzeumi rész részben korlátozott.",
+    "ro": "Biserica, restaurantul și magazinul sunt accesibile, zona muzeului este parțial limitată.",
+    "en": "Church, restaurant, and shop are accessible; museum area partially restricted."
+  },
+  "photoRules": {
+    "de": "Erlaubt, in der Kirche während Gottesdiensten bitte unterlassen.",
+    "hu": "Engedélyezett, a templomban az istentiszteletek alatt kérjük mellőzni.",
+    "ro": "Permis, vă rugăm să evitați în biserică în timpul slujbelor.",
+    "en": "Allowed, please refrain in the church during religious services."
+  },
+  "bestTimeToVisit": {
+    "de": "Abends zum Chorgebet der Mönche (Vesper) für eine besondere Atmosphäre.",
+    "hu": "Este a szerzetesek kórusimájára (vesperás) a különleges hangulatért.",
+    "ro": "Seara pentru rugăciunea corală a călugărilor (vecernie) pentru o atmosferă specială.",
+    "en": "In the evening for the monks' choral prayer (vespers) for a special atmosphere."
+  },
+  "audioGuide": {
+    "de": "ja (Smartphone-Guide in DE, EN, FR, IT)",
+    "hu": "igen (okostelefonos guide DE, EN, FR, IT nyelveken)",
+    "ro": "da (ghid smartphone în DE, EN, FR, IT)",
+    "en": "yes (smartphone guide in DE, EN, FR, IT)"
+  }
 }

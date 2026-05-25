@@ -1,12 +1,57 @@
 {
-  "address": "Schlossstr. 1, 59394 Nordkirchen",
-  "openingHours": "Park 24/7, Innenhof zugänglich",
-  "entranceFee": "free (Park), €5.00 Führungen Innen",
+  "address": {
+    "de": "Schlossstr. 1, 59394 Nordkirchen",
+    "hu": "Schlossstr. 1, 59394 Nordkirchen",
+    "ro": "Schlossstr. 1, 59394 Nordkirchen",
+    "en": "Schlossstr. 1, 59394 Nordkirchen"
+  },
+  "openingHours": {
+    "de": "Park 24/7, Innenhof zugänglich",
+    "hu": "Park 24/7, az udvar látogatható",
+    "ro": "Parc 24/7, curtea interioară accesibilă",
+    "en": "Park 24/7, inner courtyard accessible"
+  },
+  "entranceFee": {
+    "de": "free (Park), €5.00 Führungen Innen",
+    "hu": "ingyenes (park), 5,00 € beltéri vezetés",
+    "ro": "gratuit (parc), 5 € tururi interior",
+    "en": "free (park), €5.00 tours inside"
+  },
   "website": "https://www.schloss-nordkirchen.de",
-  "publicTransport": "Bahnhof Capelle (Westf), dann Bus",
-  "parking": "Kostenlose Parkplätze am Schloss",
-  "accessibility": "Barrierefrei im Park und Innenhof",
-  "photoRules": "Erlaubt",
-  "bestTimeToVisit": "Sommer für Picknick im Park",
-  "audioGuide": "no"
+  "publicTransport": {
+    "de": "Bahnhof Capelle (Westf), dann Bus",
+    "hu": "Capelle (Westf) vasútállomás, majd busz",
+    "ro": "Gara Capelle (Westf), apoi autobuz",
+    "en": "Train station Capelle (Westf), then bus"
+  },
+  "parking": {
+    "de": "Kostenlose Parkplätze am Schloss",
+    "hu": "Ingyenes parkolás a kastélynál",
+    "ro": "Parcare gratuită la castel",
+    "en": "Free parking at the castle"
+  },
+  "accessibility": {
+    "de": "Barrierefrei im Park und Innenhof",
+    "hu": "Akadálymentesített park és udvar",
+    "ro": "Accesibil în parc și în curte",
+    "en": "Accessible in park and courtyard"
+  },
+  "photoRules": {
+    "de": "Erlaubt",
+    "hu": "Megengedett",
+    "ro": "Permis",
+    "en": "Allowed"
+  },
+  "bestTimeToVisit": {
+    "de": "Sommer für Picknick im Park",
+    "hu": "Nyár, piknikhez a parkban",
+    "ro": "Vară pentru picnic în parc",
+    "en": "Summer for a picnic in the park"
+  },
+  "audioGuide": {
+    "de": "no",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

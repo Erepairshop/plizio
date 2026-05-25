@@ -1,12 +1,57 @@
 {
-  "address": "Chemin de Fer du Montenvers, 74400 Chamonix",
-  "openingHours": "Mo-Su 08:30-17:00 (je nach Saison)",
-  "entranceFee": "€38 für die Bahnfahrt inkl. Eishöhle und Gondel",
+  "address": {
+    "de": "Chemin de Fer du Montenvers, 74400 Chamonix",
+    "hu": "Chemin de Fer du Montenvers, 74400 Chamonix",
+    "ro": "Chemin de Fer du Montenvers, 74400 Chamonix",
+    "en": "Chemin de Fer du Montenvers, 74400 Chamonix"
+  },
+  "openingHours": {
+    "de": "Mo-Su 08:30-17:00 (je nach Saison)",
+    "hu": "Hé-Va 08:30-17:00 (szezontól függően)",
+    "ro": "Lun-Dum 08:30-17:00 (în funcție de sezon)",
+    "en": "Mon-Sun 08:30-17:00 (depending on season)"
+  },
+  "entranceFee": {
+    "de": "€38 für die Bahnfahrt inkl. Eishöhle und Gondel",
+    "hu": "38 € a vonatútra, beleértve a jégbarlangot és a felvonót",
+    "ro": "38 € pentru călătoria cu trenul, inclusiv peștera de gheață și telegondola",
+    "en": "€38 for the train ride including ice cave and gondola"
+  },
   "website": "https://www.montblancnaturalresort.com",
-  "publicTransport": "Zahnradbahn Montenvers ab dem Bahnhof in Chamonix",
-  "parking": "Parkplatz Place du Mont-Blanc in Chamonix (gebührenpflichtig)",
-  "accessibility": "Eishöhle über 500 Stufen erreichbar, nicht rollstuhlgerecht",
-  "photoRules": "Fotografieren in der Höhle und am Gletscher erlaubt",
-  "bestTimeToVisit": "Vormittags, bevor die Wolkenbildung an den Gipfeln zunimmt",
-  "audioGuide": "no"
+  "publicTransport": {
+    "de": "Zahnradbahn Montenvers ab dem Bahnhof in Chamonix",
+    "hu": "Montenvers fogaskerekű vasút Chamonix állomásáról",
+    "ro": "Trenul cu cremalieră Montenvers de la gara din Chamonix",
+    "en": "Montenvers rack railway from Chamonix station"
+  },
+  "parking": {
+    "de": "Parkplatz Place du Mont-Blanc in Chamonix (gebührenpflichtig)",
+    "hu": "Place du Mont-Blanc parkoló Chamonix-ban (fizetős)",
+    "ro": "Parcarea Place du Mont-Blanc din Chamonix (cu plată)",
+    "en": "Place du Mont-Blanc parking lot in Chamonix (paid)"
+  },
+  "accessibility": {
+    "de": "Eishöhle über 500 Stufen erreichbar, nicht rollstuhlgerecht",
+    "hu": "A jégbarlang több mint 500 lépcsőn érhető el, nem akadálymentesített",
+    "ro": "Peștera de gheață este accesibilă prin peste 500 de trepte, neaccesibilă pentru scaune cu rotile",
+    "en": "Ice cave accessible via 500+ steps, not wheelchair accessible"
+  },
+  "photoRules": {
+    "de": "Fotografieren in der Höhle und am Gletscher erlaubt",
+    "hu": "A barlangban és a gleccsernél engedélyezett a fényképezés",
+    "ro": "Fotografierea în peșteră și pe ghețar este permisă",
+    "en": "Photography permitted in the cave and on the glacier"
+  },
+  "bestTimeToVisit": {
+    "de": "Vormittags, bevor die Wolkenbildung an den Gipfeln zunimmt",
+    "hu": "Délelőtt, mielőtt megnövekedne a felhőképződés a csúcsokon",
+    "ro": "Dimineața, înainte ca formarea norilor pe vârfuri să crească",
+    "en": "In the morning, before cloud formation increases at the peaks"
+  },
+  "audioGuide": {
+    "de": "no",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

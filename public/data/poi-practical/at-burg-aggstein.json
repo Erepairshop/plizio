@@ -1,12 +1,57 @@
 {
-  "address": "Aggstein 13, 3642 Aggsbach Dorf",
-  "openingHours": "Mär-Okt: Täglich 09:00-18:00",
-  "entranceFee": "€ 7,50 Erwachsene, € 5,50 Kinder",
+  "address": {
+    "de": "Aggstein 13, 3642 Aggsbach Dorf",
+    "hu": "Aggstein 13, 3642 Aggsbach Dorf",
+    "ro": "Aggstein 13, 3642 Aggsbach Dorf",
+    "en": "Aggstein 13, 3642 Aggsbach Dorf"
+  },
+  "openingHours": {
+    "de": "Mär-Okt: Täglich 09:00-18:00",
+    "hu": "Márc-okt: Naponta 09:00-18:00",
+    "ro": "Mar-Oct: Zilnic 09:00-18:00",
+    "en": "Mar-Oct: Daily 09:00-18:00"
+  },
+  "entranceFee": {
+    "de": "€ 7,50 Erwachsene, € 5,50 Kinder",
+    "hu": "7,50 € felnőtt, 5,50 € gyermek",
+    "ro": "7,50 € adulți, 5,50 € copii",
+    "en": "€7.50 adults, €5.50 children"
+  },
   "website": "https://www.ruineaggstein.at",
-  "publicTransport": "Bus 715 bis Aggsbach Dorf, danach ca. 45 min steiler Fußweg.",
-  "parking": "Großer kostenloser Parkplatz direkt am Burgtor verfügbar.",
-  "accessibility": "Aufgrund historischer Bausubstanz viele Stufen und steile Wege, nicht barrierefrei.",
-  "photoRules": "Privates Fotografieren überall ohne Blitz gestattet.",
-  "bestTimeToVisit": "Spätnachmittags für den spektakulären Blick über die Donau bei Sonnenuntergang.",
-  "audioGuide": "ja (Kostenlose App verfügbar)"
+  "publicTransport": {
+    "de": "Bus 715 bis Aggsbach Dorf, danach ca. 45 min steiler Fußweg.",
+    "hu": "715-ös busz Aggsbach Dorf megállóig, utána kb. 45 perc meredek gyalogút.",
+    "ro": "Autobuz 715 până la Aggsbach Dorf, apoi cca 45 min de mers pe jos abrupt.",
+    "en": "Bus 715 to Aggsbach Dorf, followed by a approx. 45 min steep walk."
+  },
+  "parking": {
+    "de": "Großer kostenloser Parkplatz direkt am Burgtor verfügbar.",
+    "hu": "Nagy, ingyenes parkoló közvetlenül a várkapunál.",
+    "ro": "Parcare mare gratuită disponibilă direct la poarta cetății.",
+    "en": "Large free parking lot available directly at the castle gate."
+  },
+  "accessibility": {
+    "de": "Aufgrund historischer Bausubstanz viele Stufen und steile Wege, nicht barrierefrei.",
+    "hu": "A történelmi épületszerkezet miatt sok a lépcső és meredek út, nem akadálymentes.",
+    "ro": "Din cauza structurii istorice, multe trepte și drumuri abrupte, inaccesibil.",
+    "en": "Due to the historical building fabric, there are many steps and steep paths; not accessible."
+  },
+  "photoRules": {
+    "de": "Privates Fotografieren überall ohne Blitz gestattet.",
+    "hu": "Magáncélú fotózás mindenütt vaku nélkül megengedett.",
+    "ro": "Fotografierea privată este permisă peste tot fără bliț.",
+    "en": "Private photography permitted everywhere without flash."
+  },
+  "bestTimeToVisit": {
+    "de": "Spätnachmittags für den spektakulären Blick über die Donau bei Sonnenuntergang.",
+    "hu": "Késő délután, a Duna feletti látványos naplementés kilátáshoz.",
+    "ro": "După-amiaza târziu pentru vederea spectaculoasă asupra Dunării la apus.",
+    "en": "Late afternoon for the spectacular view over the Danube at sunset."
+  },
+  "audioGuide": {
+    "de": "ja (Kostenlose App verfügbar)",
+    "hu": "igen (ingyenes alkalmazás elérhető)",
+    "ro": "da (aplicație gratuită disponibilă)",
+    "en": "yes (free app available)"
+  }
 }

@@ -1,12 +1,57 @@
 {
-  "address": "Buckingham Palace, London SW1A 1AA",
-  "openingHours": "State Rooms Juli-Sept Mo-Su 09:30-19:30",
-  "entranceFee": "£32.00 Erwachsene (nur State Rooms im Sommer)",
+  "address": {
+    "de": "Buckingham Palace, London SW1A 1AA",
+    "hu": "Buckingham Palace, London SW1A 1AA",
+    "ro": "Buckingham Palace, London SW1A 1AA",
+    "en": "Buckingham Palace, London SW1A 1AA"
+  },
+  "openingHours": {
+    "de": "State Rooms Juli-Sept Mo-Su 09:30-19:30",
+    "hu": "Dísztermek július-szeptember Hé-Va 09:30-19:30",
+    "ro": "Sălile de Stat iulie-sept Lu-Du 09:30-19:30",
+    "en": "State Rooms July-Sept Mo-Su 09:30-19:30"
+  },
+  "entranceFee": {
+    "de": "£32.00 Erwachsene (nur State Rooms im Sommer)",
+    "hu": "£32.00 felnőtt (nyáron csak a dísztermek)",
+    "ro": "£32.00 adulți (doar sălile de stat vara)",
+    "en": "£32.00 adults (only State Rooms in summer)"
+  },
   "website": "https://www.rct.uk/visit/buckingham-palace",
-  "publicTransport": "U-Bahn Green Park, St James's Park oder Victoria",
-  "parking": "Absolutes Parkverbot im gesamten Umkreis des Palastes.",
-  "accessibility": "Barrierefrei nach vorheriger Anmeldung (Aufzüge und Rampen vorhanden).",
-  "photoRules": "In den State Rooms streng verboten, im Garten erlaubt.",
-  "bestTimeToVisit": "10:45 Uhr zur Wachablösung (Changing of the Guard), Termine vorab prüfen.",
-  "audioGuide": "de, en, fr, es, it, ja, zh"
+  "publicTransport": {
+    "de": "U-Bahn Green Park, St James's Park oder Victoria",
+    "hu": "Green Park, St James's Park vagy Victoria metró",
+    "ro": "Metrou Green Park, St James's Park sau Victoria",
+    "en": "Green Park, St James's Park or Victoria underground"
+  },
+  "parking": {
+    "de": "Absolutes Parkverbot im gesamten Umkreis des Palastes.",
+    "hu": "Teljes parkolási tilalom a palota környékén.",
+    "ro": "Interdicție absolută de parcare în întreaga zonă a palatului.",
+    "en": "Absolute parking ban in the entire vicinity of the palace."
+  },
+  "accessibility": {
+    "de": "Barrierefrei nach vorheriger Anmeldung (Aufzüge und Rampen vorhanden).",
+    "hu": "Akadálymentesített előzetes bejelentkezés után (liftek és rámpák elérhetőek).",
+    "ro": "Accesibil după rezervare prealabilă (lifturi și rampe disponibile).",
+    "en": "Accessible after prior notification (elevators and ramps available)."
+  },
+  "photoRules": {
+    "de": "In den State Rooms streng verboten, im Garten erlaubt.",
+    "hu": "A dísztermekben szigorúan tilos, a kertben megengedett.",
+    "ro": "În sălile de stat strict interzis, în grădină permis.",
+    "en": "Strictly forbidden in the State Rooms, allowed in the garden."
+  },
+  "bestTimeToVisit": {
+    "de": "10:45 Uhr zur Wachablösung (Changing of the Guard), Termine vorab prüfen.",
+    "hu": "10:45 az őrségváltáshoz, az időpontokat előre ellenőrizze.",
+    "ro": "10:45 pentru schimbarea gărzii, verificați datele în prealabil.",
+    "en": "10:45 for Changing of the Guard, check dates in advance."
+  },
+  "audioGuide": {
+    "de": "de, en, fr, es, it, ja, zh",
+    "hu": "de, en, fr, es, it, ja, zh",
+    "ro": "de, en, fr, es, it, ja, zh",
+    "en": "de, en, fr, es, it, ja, zh"
+  }
 }

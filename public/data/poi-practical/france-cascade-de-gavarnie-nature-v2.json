@@ -1,12 +1,57 @@
 {
-  "address": "Cirque de Gavarnie, 65120 Gavarnie",
-  "openingHours": "24/7",
-  "entranceFee": "free",
+  "address": {
+    "de": "Cirque de Gavarnie, 65120 Gavarnie",
+    "hu": "Cirque de Gavarnie, 65120 Gavarnie",
+    "ro": "Cirque de Gavarnie, 65120 Gavarnie",
+    "en": "Cirque de Gavarnie, 65120 Gavarnie"
+  },
+  "openingHours": {
+    "de": "24/7",
+    "hu": "0-24 óráig",
+    "ro": "24/7",
+    "en": "24/7"
+  },
+  "entranceFee": {
+    "de": "free",
+    "hu": "ingyenes",
+    "ro": "gratuit",
+    "en": "free"
+  },
   "website": "https://www.valleesdegavarnie.com",
-  "publicTransport": "Saisonaler Bus ab Bahnhof Lourdes direkt nach Gavarnie",
-  "parking": "Pflichtparkplätze am Dorfeingang von Gavarnie, ca. €5 pro Tag",
-  "accessibility": "Nicht rollstuhlgerecht; ca. 2-stündige Bergwanderung erforderlich",
-  "photoRules": "Frei erlaubt; Stativ für Langzeitbelichtungen des Wassers empfohlen",
-  "bestTimeToVisit": "Juni für maximale Wasserführung nach der Schneeschmelze",
-  "audioGuide": "no"
+  "publicTransport": {
+    "de": "Saisonaler Bus ab Bahnhof Lourdes direkt nach Gavarnie",
+    "hu": "Szezonális buszjárat Lourdes vasútállomásától közvetlenül Gavarnie-ba",
+    "ro": "Autobuz sezonier de la gara Lourdes direct spre Gavarnie",
+    "en": "Seasonal bus from Lourdes train station directly to Gavarnie"
+  },
+  "parking": {
+    "de": "Pflichtparkplätze am Dorfeingang von Gavarnie, ca. €5 pro Tag",
+    "hu": "Kötelező parkolók Gavarnie falu bejáratánál, kb. 5 € naponta",
+    "ro": "Parcări obligatorii la intrarea în satul Gavarnie, aproximativ 5 € pe zi",
+    "en": "Mandatory parking at the entrance to Gavarnie village, approx. €5 per day"
+  },
+  "accessibility": {
+    "de": "Nicht rollstuhlgerecht; ca. 2-stündige Bergwanderung erforderlich",
+    "hu": "Nem akadálymentesített; kb. 2 órás hegyi túrára kell készülni",
+    "ro": "Nu este accesibil pentru scaune cu rotile; necesită o drumeție montană de aproximativ 2 ore",
+    "en": "Not wheelchair accessible; approx. 2-hour mountain hike required"
+  },
+  "photoRules": {
+    "de": "Frei erlaubt; Stativ für Langzeitbelichtungen des Wassers empfohlen",
+    "hu": "Szabadon engedélyezett; a víz hosszú záridejű fotózásához állvány ajánlott",
+    "ro": "Permis liber; se recomandă trepiedul pentru expuneri lungi ale apei",
+    "en": "Freely permitted; tripod recommended for long exposures of the water"
+  },
+  "bestTimeToVisit": {
+    "de": "Juni für maximale Wasserführung nach der Schneeschmelze",
+    "hu": "Június, a hóolvadás utáni maximális vízhozam idején",
+    "ro": "Iunie pentru debitul maxim de apă după topirea zăpezii",
+    "en": "June for maximum water flow after the snowmelt"
+  },
+  "audioGuide": {
+    "de": "no",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

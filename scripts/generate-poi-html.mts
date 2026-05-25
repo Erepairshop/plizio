@@ -590,7 +590,13 @@ function renderPracticalInfo(poi: POI, lang: Lang): string {
     ["audioGuide", "🎧"],
   ];
   const items = fields.map(([k, emoji]) => {
-    const v = data[k];
+    const raw = data[k];
+    // Accept string (legacy) OR multi-lang object {de,hu,ro,en}
+    let v: string | null = null;
+    if (typeof raw === "string") v = raw;
+    else if (raw && typeof raw === "object") {
+      v = (raw[lang] || raw.en || raw.de || raw.hu || raw.ro || "") as string;
+    }
     if (!v || typeof v !== "string" || v.length < 2) return "";
     const label = C[k] || k;
     let valHtml: string;
@@ -686,7 +692,17 @@ function renderCityItinerary(poi: POI, lang: Lang): string {
   function getVariantContent(md: any, wkey: string) {
     const variants = md.variants;
     function tipsLookup(variantStops: any[]) {
-      const byName = Object.fromEntries((variantStops || []).map((s: any) => [s.name, s.tip_5lang]));
+      // s.name may be multilang object {de,hu,ro,en} — pick first string for stable key
+      function nameKey(n: any): string {
+        if (typeof n === "string") return n;
+        if (n && typeof n === "object") return n.de || n.en || n.hu || n.ro || "";
+        return "";
+      }
+      const byName: Record<string, any> = {};
+      for (const s of variantStops || []) {
+        const k = nameKey(s.name);
+        if (k && !(k in byName)) byName[k] = s.tip_5lang;
+      }
       const byIdx = (variantStops || []).map((s: any) => s.tip_5lang);
       return { byName, byIdx };
     }
@@ -726,7 +742,9 @@ function renderCityItinerary(poi: POI, lang: Lang): string {
       let prev: [number, number] | null = null;
       const stopCards = stops.map((s: any, i: number) => {
         const lk = v.stop_tips_lookup;
-        const variantTip = lk.byName[s.name] || lk.byIdx[i];
+        // s.name may be multilang object — derive a string key
+        const nameKey = typeof s.name === "string" ? s.name : (s.name && (s.name.de || s.name.en || s.name.hu || s.name.ro)) || "";
+        const variantTip = (nameKey && lk.byName[nameKey]) || lk.byIdx[i];
         const stopWithTip = { ...s, tip_5lang: variantTip || s.tip_5lang };
         const hopHtml = i > 0 && s.hop_from_prev_min ? `<div class="plz-itin-hop"><strong>${modeLabels[m].split(" ")[0]} ${s.hop_from_prev_min}'</strong>${s.hop_from_prev_km} km</div>` : "";
         const card = renderStopCard(stopWithTip, i, prev, m);

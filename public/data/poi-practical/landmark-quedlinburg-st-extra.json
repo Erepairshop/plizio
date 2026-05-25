@@ -1,12 +1,57 @@
 {
-  "address": "Schlossberg 1, 06484 Quedlinburg",
-  "openingHours": "Di-Su 10:00-17:00 (Schlossmuseum)",
-  "entranceFee": "€7.00 Erwachsene, €4.00 ermäßigt",
+  "address": {
+    "de": "Schlossberg 1, 06484 Quedlinburg",
+    "hu": "Schlossberg 1, 06484 Quedlinburg",
+    "ro": "Schlossberg 1, 06484 Quedlinburg",
+    "en": "Schlossberg 1, 06484 Quedlinburg"
+  },
+  "openingHours": {
+    "de": "Di-Su 10:00-17:00 (Schlossmuseum)",
+    "hu": "Ké-Va 10:00-17:00 (Vármúzeum)",
+    "ro": "Ma-Du 10:00-17:00 (Muzeul Castelului)",
+    "en": "Tue-Sun 10:00-17:00 (Castle Museum)"
+  },
+  "entranceFee": {
+    "de": "€7.00 Erwachsene, €4.00 ermäßigt",
+    "hu": "7,00 € felnőtt, 4,00 € kedvezményes",
+    "ro": "7,00 € adulți, 4,00 € redus",
+    "en": "€7.00 adults, €4.00 reduced"
+  },
   "website": "https://www.quedlinburg-info.de",
-  "publicTransport": "Bahnhof Quedlinburg, dann ca. 15 Min. Fußweg durch die Altstadt",
-  "parking": "Parkplatz Schlossberg (kostenpflichtig)",
-  "accessibility": "Schlossberg durch Kopfsteinpflaster schwer zugänglich; Museum bedingt barrierefrei",
-  "photoRules": "Privat erlaubt, in Ausstellungen ohne Blitz",
-  "bestTimeToVisit": "Frühsommer oder zur Adventszeit",
-  "audioGuide": "Deutsch, Englisch"
+  "publicTransport": {
+    "de": "Bahnhof Quedlinburg, dann ca. 15 Min. Fußweg durch die Altstadt",
+    "hu": "Quedlinburg vasútállomás, onnan kb. 15 perc séta az óvároson keresztül",
+    "ro": "Gara Quedlinburg, apoi aprox. 15 min. pe jos prin orașul vechi",
+    "en": "Quedlinburg train station, then approx. 15 min. walk through the old town"
+  },
+  "parking": {
+    "de": "Parkplatz Schlossberg (kostenpflichtig)",
+    "hu": "Schlossberg parkoló (díjköteles)",
+    "ro": "Parcare Schlossberg (cu plată)",
+    "en": "Schlossberg parking (fee required)"
+  },
+  "accessibility": {
+    "de": "Schlossberg durch Kopfsteinpflaster schwer zugänglich; Museum bedingt barrierefrei",
+    "hu": "A Schlossberg a macskakövek miatt nehezen megközelíthető; a múzeum korlátozottan akadálymentes",
+    "ro": "Schlossberg dificil de accesat din cauza pavajului; muzeu parțial accesibil",
+    "en": "Schlossberg difficult to access due to cobblestones; museum partially accessible"
+  },
+  "photoRules": {
+    "de": "Privat erlaubt, in Ausstellungen ohne Blitz",
+    "hu": "Magáncélra engedélyezett, kiállításokon vaku nélkül",
+    "ro": "Permis pentru uz privat, în expoziții fără bliț",
+    "en": "Allowed for private use, no flash in exhibitions"
+  },
+  "bestTimeToVisit": {
+    "de": "Frühsommer oder zur Adventszeit",
+    "hu": "Kora nyáron vagy advent idején",
+    "ro": "La începutul verii sau în perioada Adventului",
+    "en": "Early summer or during Advent"
+  },
+  "audioGuide": {
+    "de": "Deutsch, Englisch",
+    "hu": "Német, angol",
+    "ro": "Germană, engleză",
+    "en": "German, English"
+  }
 }

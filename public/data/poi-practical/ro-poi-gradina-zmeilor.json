@@ -1,12 +1,57 @@
 {
-  "address": "Gâlgău Almașului, 457156 Sălaj",
-  "openingHours": "24/7",
-  "entranceFee": "10 RON",
+  "address": {
+    "de": "Gâlgău Almașului, 457156 Sălaj",
+    "hu": "Gâlgău Almașului, 457156 Szilágy",
+    "ro": "Gâlgău Almașului, 457156 Sălaj",
+    "en": "Gâlgău Almașului, 457156 Sălaj"
+  },
+  "openingHours": {
+    "de": "24/7",
+    "hu": "Non-stop",
+    "ro": "24/7",
+    "en": "24/7"
+  },
+  "entranceFee": {
+    "de": "10 RON",
+    "hu": "10 RON",
+    "ro": "10 RON",
+    "en": "10 RON"
+  },
   "website": "",
-  "publicTransport": "Kein öffentlicher Anschluss, Anreise per PKW empfohlen.",
-  "parking": "Parkplatz am Eingang für ca. 5 RON pro Tag.",
-  "accessibility": "Nur teilweise, Wanderwege sind steinig und steil.",
-  "photoRules": "Erlaubt, Drohnenaufnahmen für Panorama empfohlen.",
-  "bestTimeToVisit": "Vormittag bei weichem Licht für die Felsformationen.",
-  "audioGuide": "no"
+  "publicTransport": {
+    "de": "Kein öffentlicher Anschluss, Anreise per PKW empfohlen.",
+    "hu": "Nincs tömegközlekedés, autóval való érkezés ajánlott.",
+    "ro": "Fără transport public, se recomandă mașina.",
+    "en": "No public transport, car recommended."
+  },
+  "parking": {
+    "de": "Parkplatz am Eingang für ca. 5 RON pro Tag.",
+    "hu": "Parkoló a bejáratnál kb. 5 RON/nap.",
+    "ro": "Parcare la intrare pentru aprox. 5 RON pe zi.",
+    "en": "Parking at entrance for approx. 5 RON per day."
+  },
+  "accessibility": {
+    "de": "Nur teilweise, Wanderwege sind steinig und steil.",
+    "hu": "Csak részben, a túraútvonalak kövesek és meredekek.",
+    "ro": "Doar parțial, potecile sunt pietroase și abrupte.",
+    "en": "Only partially, hiking trails are stony and steep."
+  },
+  "photoRules": {
+    "de": "Erlaubt, Drohnenaufnahmen für Panorama empfohlen.",
+    "hu": "Engedélyezett, panorámafelvételekhez drón ajánlott.",
+    "ro": "Permis, recomandat pentru panorame cu drona.",
+    "en": "Allowed, drone photography recommended for panoramas."
+  },
+  "bestTimeToVisit": {
+    "de": "Vormittag bei weichem Licht für die Felsformationen.",
+    "hu": "Délelőtt lágy fényekben a sziklaformációkhoz.",
+    "ro": "Dimineața în lumină moale pentru formațiunile stâncoase.",
+    "en": "Morning with soft light for the rock formations."
+  },
+  "audioGuide": {
+    "de": "no",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

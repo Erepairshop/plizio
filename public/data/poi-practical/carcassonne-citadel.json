@@ -1,12 +1,57 @@
 {
-  "address": "1 rue Viollet-le-Duc, 11000 Carcassonne",
-  "openingHours": "Mo-So 10:00-18:15",
-  "entranceFee": "€9.50 Erwachsene, unter 26 (EU) frei",
+  "address": {
+    "de": "1 rue Viollet-le-Duc, 11000 Carcassonne",
+    "hu": "1 rue Viollet-le-Duc, 11000 Carcassonne",
+    "ro": "1 rue Viollet-le-Duc, 11000 Carcassonne",
+    "en": "1 rue Viollet-le-Duc, 11000 Carcassonne"
+  },
+  "openingHours": {
+    "de": "Mo-Su 10:00-18:15",
+    "hu": "Hé-Vas 10:00-18:15",
+    "ro": "Lun-Dum 10:00-18:15",
+    "en": "Mon-Sun 10:00-18:15"
+  },
+  "entranceFee": {
+    "de": "€9.50 Erwachsene, unter 26 (EU) frei",
+    "hu": "9.50€ felnőtt, 26 év alatti EU-s állampolgároknak ingyenes",
+    "ro": "9.50€ adulți, sub 26 de ani (UE) gratuit",
+    "en": "€9.50 adults, free for under 26 (EU citizens)"
+  },
   "website": "http://www.remparts-carcassonne.fr",
-  "publicTransport": "Bus Linie 4 bis Haltestelle Cité Médiévale",
-  "parking": "Parkplatz Delteil in der Nähe, kostenpflichtig.",
-  "accessibility": "Viele Treppen und unebene Wehrgänge, nicht barrierefrei.",
-  "photoRules": "Erlaubt ohne Blitz in den Innenräumen.",
-  "bestTimeToVisit": "Direkt bei Öffnung um 10 Uhr morgens.",
-  "audioGuide": "Deutsch, Englisch, Französisch, Spanisch."
+  "publicTransport": {
+    "de": "Bus Linie 4 bis Haltestelle Cité Médiévale",
+    "hu": "4-es buszjárat Cité Médiévale megállóig",
+    "ro": "Autobuzul linia 4 până la stația Cité Médiévale",
+    "en": "Bus line 4 to Cité Médiévale stop"
+  },
+  "parking": {
+    "de": "Parkplatz Delteil in der Nähe, kostenpflichtig.",
+    "hu": "Delteil parkoló a közelben, díjköteles.",
+    "ro": "Parcarea Delteil în apropiere, cu plată.",
+    "en": "Delteil parking lot nearby, subject to fees."
+  },
+  "accessibility": {
+    "de": "Viele Treppen und unebene Wehrgänge, nicht barrierefrei.",
+    "hu": "Sok lépcső és egyenetlen várfal-folyosók, nem akadálymentesített.",
+    "ro": "Multe trepte și coridoare inegale pe ziduri, nu este accesibil.",
+    "en": "Many stairs and uneven ramparts, not wheelchair accessible."
+  },
+  "photoRules": {
+    "de": "Erlaubt ohne Blitz in den Innenräumen.",
+    "hu": "A belső terekben vaku nélkül megengedett.",
+    "ro": "Permis fără bliț în spațiile interioare.",
+    "en": "Permitted without flash in the interiors."
+  },
+  "bestTimeToVisit": {
+    "de": "Direkt bei Öffnung um 10 Uhr morgens.",
+    "hu": "Közvetlenül nyitáskor, reggel 10 órakor.",
+    "ro": "Direct la deschidere, la ora 10 dimineața.",
+    "en": "Right at opening at 10 AM."
+  },
+  "audioGuide": {
+    "de": "Deutsch, Englisch, Französisch, Spanisch.",
+    "hu": "Német, angol, francia, spanyol.",
+    "ro": "Germană, engleză, franceză, spaniolă.",
+    "en": "German, English, French, Spanish."
+  }
 }

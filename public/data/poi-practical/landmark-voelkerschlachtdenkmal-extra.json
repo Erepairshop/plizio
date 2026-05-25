@@ -1,12 +1,57 @@
 {
-  "address": "Prager Str. 210, 04297 Leipzig",
-  "openingHours": "Mo-So 10:00-18:00",
-  "entranceFee": "€10.00 Erwachsene, €8.00 ermäßigt",
+  "address": {
+    "de": "Prager Str. 210, 04297 Leipzig",
+    "hu": "Prager Str. 210, 04297 Lipcse",
+    "ro": "Prager Str. 210, 04297 Leipzig",
+    "en": "Prager Str. 210, 04297 Leipzig"
+  },
+  "openingHours": {
+    "de": "Mo-So 10:00-18:00",
+    "hu": "H-V 10:00-18:00",
+    "ro": "Lu-Dum 10:00-18:00",
+    "en": "Mon-Sun 10:00-18:00"
+  },
+  "entranceFee": {
+    "de": "€10.00 Erwachsene, €8.00 ermäßigt",
+    "hu": "10,00 € felnőtt, 8,00 € kedvezményes",
+    "ro": "10,00 € adulți, 8,00 € redus",
+    "en": "€10.00 adult, €8.00 reduced"
+  },
   "website": "https://www.stadtgeschichtliches-museum-leipzig.de",
-  "publicTransport": "Straßenbahn Linie 15 bis Haltestelle Völkerschlachtdenkmal",
-  "parking": "Kostenlose Parkplätze direkt am Denkmalgelände.",
-  "accessibility": "Aufzug zur Krypta vorhanden, obere Plattform nur über Treppen.",
-  "photoRules": "Privat erlaubt, Stativgebühr im Innenbereich.",
-  "bestTimeToVisit": "Spätnachmittag für den Blick über Leipzig im Sonnenuntergang.",
-  "audioGuide": "Deutsch, Englisch, Französisch, Polnisch."
+  "publicTransport": {
+    "de": "Straßenbahn Linie 15 bis Haltestelle Völkerschlachtdenkmal",
+    "hu": "15-ös villamos a Völkerschlachtdenkmal megállóig",
+    "ro": "Tramvai linia 15 până la stația Völkerschlachtdenkmal",
+    "en": "Tram line 15 to Völkerschlachtdenkmal stop"
+  },
+  "parking": {
+    "de": "Kostenlose Parkplätze direkt am Denkmalgelände.",
+    "hu": "Ingyenes parkolási lehetőség közvetlenül az emlékműnél.",
+    "ro": "Parcare gratuită chiar la zona monumentului.",
+    "en": "Free parking directly at the memorial site."
+  },
+  "accessibility": {
+    "de": "Aufzug zur Krypta vorhanden, obere Plattform nur über Treppen.",
+    "hu": "Lift van a kriptához, a felső kilátó csak lépcsőn érhető el.",
+    "ro": "Există lift către criptă, platforma superioară este accesibilă doar pe scări.",
+    "en": "Elevator to the crypt available, upper platform only via stairs."
+  },
+  "photoRules": {
+    "de": "Privat erlaubt, Stativgebühr im Innenbereich.",
+    "hu": "Magáncélra engedélyezett, beltéren állványhasználati díj van.",
+    "ro": "Permis pentru uz personal, taxă pentru trepied în interior.",
+    "en": "Allowed for private use, tripod fee inside."
+  },
+  "bestTimeToVisit": {
+    "de": "Spätnachmittag für den Blick über Leipzig im Sonnenuntergang.",
+    "hu": "Késő délután, a naplementében elterülő Lipcse látványáért.",
+    "ro": "După-amiaza târziu, pentru priveliștea asupra orașului Leipzig la apus.",
+    "en": "Late afternoon for the view over Leipzig at sunset."
+  },
+  "audioGuide": {
+    "de": "Deutsch, Englisch, Französisch, Polnisch.",
+    "hu": "Német, angol, francia, lengyel.",
+    "ro": "Germană, engleză, franceză, poloneză.",
+    "en": "German, English, French, Polish."
+  }
 }

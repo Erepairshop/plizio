@@ -1,12 +1,57 @@
 {
-  "address": "Lieu-dit Le Ménec, 56340 Carnac",
-  "openingHours": "Außengelände 24/7 zugänglich; Maison des Mégalithes 10:00-18:00",
-  "entranceFee": "Freier Zugang (Oktober-März), nur geführte Touren (€11) im Sommer",
+  "address": {
+    "de": "Lieu-dit Le Ménec, 56340 Carnac",
+    "hu": "Lieu-dit Le Ménec, 56340 Carnac",
+    "ro": "Lieu-dit Le Ménec, 56340 Carnac",
+    "en": "Lieu-dit Le Ménec, 56340 Carnac"
+  },
+  "openingHours": {
+    "de": "Außengelände 24/7 zugänglich; Maison des Mégalithes 10:00-18:00",
+    "hu": "Külső terület 24/7 látogatható; Maison des Mégalithes 10:00-18:00",
+    "ro": "Terenul exterior accesibil 24/7; Maison des Mégalithes 10:00-18:00",
+    "en": "Outdoor area 24/7 accessible; Maison des Mégalithes 10:00-18:00"
+  },
+  "entranceFee": {
+    "de": "Freier Zugang (Oktober-März), nur geführte Touren (€11) im Sommer",
+    "hu": "Szabad belépés (október-március), nyáron csak vezetett túrák (€11)",
+    "ro": "Acces gratuit (octombrie-martie), doar tururi ghidate (€11) vara",
+    "en": "Free access (October-March), only guided tours (€11) in summer"
+  },
   "website": "https://www.menhirs-carnac.fr",
-  "publicTransport": "Bus 'BreizhGo' Linie 1 ab Auray oder Vannes",
-  "parking": "Parkplatz am Maison des Mégalithes (im Sommer schnell voll)",
-  "accessibility": "Wege um die Felder sind flach und für Rollstühle geeignet",
-  "photoRules": "Frei erlaubt, gewerbliche Aufnahmen genehmigungspflichtig",
-  "bestTimeToVisit": "Sonnenaufgang oder Sonnenuntergang für mystisches Licht und Ruhe",
-  "audioGuide": "App 'Vivre Carnac' als digitaler Guide verfügbar"
+  "publicTransport": {
+    "de": "Bus 'BreizhGo' Linie 1 ab Auray oder Vannes",
+    "hu": "'BreizhGo' busz 1-es vonal Auray-ból vagy Vannes-ból",
+    "ro": "Autobuz 'BreizhGo' linia 1 din Auray sau Vannes",
+    "en": "Bus 'BreizhGo' line 1 from Auray or Vannes"
+  },
+  "parking": {
+    "de": "Parkplatz am Maison des Mégalithes (im Sommer schnell voll)",
+    "hu": "Parkoló a Maison des Mégalithes-nél (nyáron gyorsan megtelik)",
+    "ro": "Parcare la Maison des Mégalithes (se umple repede vara)",
+    "en": "Parking at Maison des Mégalithes (fills up quickly in summer)"
+  },
+  "accessibility": {
+    "de": "Wege um die Felder sind flach und für Rollstühle geeignet",
+    "hu": "A mezők körüli utak sík és kerekesszékkel használhatók",
+    "ro": "Căile din jurul câmpurilor sunt plane și potrivite pentru scaune cu rotile",
+    "en": "Paths around the fields are flat and suitable for wheelchairs"
+  },
+  "photoRules": {
+    "de": "Frei erlaubt, gewerbliche Aufnahmen genehmigungspflichtig",
+    "hu": "Szabadon engedélyezett, kereskedelmi felvételekhez engedély kell",
+    "ro": "Permis liber, fotografiile comerciale necesită aprobare",
+    "en": "Freely allowed, commercial recordings require approval"
+  },
+  "bestTimeToVisit": {
+    "de": "Sonnenaufgang oder Sonnenuntergang für mystisches Licht und Ruhe",
+    "hu": "Napkelte vagy napnyugta a misztikus fényért és nyugalomért",
+    "ro": "Răsărit sau apus pentru lumină mistică și liniște",
+    "en": "Sunrise or sunset for mystical light and calm"
+  },
+  "audioGuide": {
+    "de": "App 'Vivre Carnac' als digitaler Guide verfügbar",
+    "hu": "'Vivre Carnac' alkalmazás digitális útmutatóként elérhető",
+    "ro": "Aplicația 'Vivre Carnac' disponibilă ca ghid digital",
+    "en": "App 'Vivre Carnac' available as a digital guide"
+  }
 }

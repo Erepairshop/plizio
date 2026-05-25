@@ -1,12 +1,57 @@
 {
-  "address": "Piața Cetății, 545400 Sighișoara",
-  "openingHours": "24/7 (Öffentliches Stadtviertel)",
-  "entranceFee": "free",
+  "address": {
+    "de": "Piața Cetății, 545400 Sighișoara",
+    "hu": "Piața Cetății, 545400 Segesvár",
+    "ro": "Piața Cetății, 545400 Sighișoara",
+    "en": "Piața Cetății, 545400 Sighișoara"
+  },
+  "openingHours": {
+    "de": "24/7 (Öffentliches Stadtviertel)",
+    "hu": "24/7 (nyilvános városrész)",
+    "ro": "24/7 (cartier public)",
+    "en": "24/7 (public neighborhood)"
+  },
+  "entranceFee": {
+    "de": "free",
+    "hu": "ingyenes",
+    "ro": "gratuit",
+    "en": "free"
+  },
   "website": "https://www.sighisoara.ro",
-  "publicTransport": "Hauptbahnhof Sighișoara, dann 10-15 Min. Fußweg bergauf",
-  "parking": "Zonierte Parkplätze in der Unterstadt (ca. 5 RON/Std), Zufahrt zur Oberburg limitiert",
-  "accessibility": "Historisches Kopfsteinpflaster, sehr holprig für Rollstühle und Kinderwagen",
-  "photoRules": "Überall erlaubt",
-  "bestTimeToVisit": "Abends, wenn die Tagestouristen weg sind und die Gassen leuchten",
-  "audioGuide": "In lokalen Souvenirshops oder Museen verfügbar"
+  "publicTransport": {
+    "de": "Hauptbahnhof Sighișoara, dann 10-15 Min. Fußweg bergauf",
+    "hu": "Segesvári vasútállomás, majd 10-15 perc séta felfelé",
+    "ro": "Gara Sighișoara, apoi 10-15 minute de mers pe jos la deal",
+    "en": "Sighișoara main station, then 10-15 min walk uphill"
+  },
+  "parking": {
+    "de": "Zonierte Parkplätze in der Unterstadt (ca. 5 RON/Std), Zufahrt zur Oberburg limitiert",
+    "hu": "Zónás parkolók az alsóvárosban (kb. 5 RON/óra), a várba való behajtás korlátozott",
+    "ro": "Parcări cu plată în orașul de jos (aprox. 5 RON/oră), accesul auto în cetate este limitat",
+    "en": "Zoned parking in the lower town (approx. 5 RON/hr), access to the upper citadel is limited"
+  },
+  "accessibility": {
+    "de": "Historisches Kopfsteinpflaster, sehr holprig für Rollstühle und Kinderwagen",
+    "hu": "Történelmi macskakő, nagyon döcögős kerekesszékkel és babakocsival",
+    "ro": "Pavaj istoric cu piatră cubică, foarte denivelat pentru scaune cu rotile și cărucioare",
+    "en": "Historic cobblestones, very bumpy for wheelchairs and strollers"
+  },
+  "photoRules": {
+    "de": "Überall erlaubt",
+    "hu": "Mindenhol engedélyezett",
+    "ro": "Permis peste tot",
+    "en": "Allowed everywhere"
+  },
+  "bestTimeToVisit": {
+    "de": "Abends, wenn die Tagestouristen weg sind und die Gassen leuchten",
+    "hu": "Este, amikor a turisták elmentek és az utcák kivilágítva ragyognak",
+    "ro": "Seara, când turiștii de o zi au plecat și străzile sunt iluminate",
+    "en": "In the evening when the day tourists are gone and the alleys are lit up"
+  },
+  "audioGuide": {
+    "de": "In lokalen Souvenirshops oder Museen verfügbar",
+    "hu": "Helyi ajándékboltokban vagy múzeumokban elérhető",
+    "ro": "Disponibil în magazinele de suveniruri locale sau în muzee",
+    "en": "Available in local souvenir shops or museums"
+  }
 }

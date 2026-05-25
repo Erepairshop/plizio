@@ -1,12 +1,57 @@
 {
-  "address": "Woodstock, Oxfordshire OX20 1PP",
-  "openingHours": "Mo-Su 10:30-16:45",
-  "entranceFee": "£38.00 Erwachsene (Jahrespass inklusive), £22.00 Kinder",
+  "address": {
+    "de": "Woodstock, Oxfordshire OX20 1PP",
+    "hu": "Woodstock, Oxfordshire OX20 1PP",
+    "ro": "Woodstock, Oxfordshire OX20 1PP",
+    "en": "Woodstock, Oxfordshire OX20 1PP"
+  },
+  "openingHours": {
+    "de": "Mo-Su 10:30-16:45",
+    "hu": "Hé-Va 10:30-16:45",
+    "ro": "Lu-Du 10:30-16:45",
+    "en": "Mo-Su 10:30-16:45"
+  },
+  "entranceFee": {
+    "de": "£38.00 Erwachsene (Jahrespass inklusive), £22.00 Kinder",
+    "hu": "£38.00 felnőtt (éves bérlettel), £22.00 gyerek",
+    "ro": "£38.00 adulți (permis anual inclus), £22.00 copii",
+    "en": "£38.00 adults (annual pass included), £22.00 children"
+  },
   "website": "https://www.blenheimpalace.com",
-  "publicTransport": "Bus S3 oder 7 ab Oxford City Centre oder Oxford Parkway",
-  "parking": "Großer kostenloser Parkplatz auf dem Gelände für Ticketinhaber.",
-  "accessibility": "Palast und Gärten sind weitgehend barrierefrei, Aufzug vorhanden.",
-  "photoRules": "Ohne Blitz im Inneren erlaubt, professionelle Aufnahmen genehmigungspflichtig.",
-  "bestTimeToVisit": "Wochentags im Frühjahr zur Zeit der Narzissenblüte.",
-  "audioGuide": "de, en, fr, es, it, zh"
+  "publicTransport": {
+    "de": "Bus S3 oder 7 ab Oxford City Centre oder Oxford Parkway",
+    "hu": "S3 vagy 7-es busz Oxford belvárosából vagy Oxford Parkway-től",
+    "ro": "Autobuz S3 sau 7 din centrul orașului Oxford sau Oxford Parkway",
+    "en": "Bus S3 or 7 from Oxford City Centre or Oxford Parkway"
+  },
+  "parking": {
+    "de": "Großer kostenloser Parkplatz auf dem Gelände für Ticketinhaber.",
+    "hu": "Nagy ingyenes parkoló a területen jegytulajdonosoknak.",
+    "ro": "Parcare mare gratuită în incintă pentru posesorii de bilete.",
+    "en": "Large free parking on site for ticket holders."
+  },
+  "accessibility": {
+    "de": "Palast und Gärten sind weitgehend barrierefrei, Aufzug vorhanden.",
+    "hu": "A palota és a kertek nagyrészt akadálymentesek, lift van.",
+    "ro": "Palatul și grădinile sunt în mare parte accesibile, există lift.",
+    "en": "Palace and gardens are largely accessible, elevator available."
+  },
+  "photoRules": {
+    "de": "Ohne Blitz im Inneren erlaubt, professionelle Aufnahmen genehmigungspflichtig.",
+    "hu": "Beltérben vaku nélkül megengedett, professzionális felvételekhez engedély szükséges.",
+    "ro": "În interior permis fără bliț, pentru filmări profesionale este necesară autorizație.",
+    "en": "Allowed indoors without flash, professional filming requires permission."
+  },
+  "bestTimeToVisit": {
+    "de": "Wochentags im Frühjahr zur Zeit der Narzissenblüte.",
+    "hu": "Hétköznap tavasszal, a nárciszvirágzás idején.",
+    "ro": "În zilele lucrătoare primăvara, în timpul înfloririi narciselor.",
+    "en": "Weekdays in spring during daffodil season."
+  },
+  "audioGuide": {
+    "de": "de, en, fr, es, it, zh",
+    "hu": "de, en, fr, es, it, zh",
+    "ro": "de, en, fr, es, it, zh",
+    "en": "de, en, fr, es, it, zh"
+  }
 }

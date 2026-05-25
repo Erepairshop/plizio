@@ -1,12 +1,57 @@
 {
-  "address": "Schlossstr. 30, 71634 Ludwigsburg",
-  "openingHours": "Mo-Su 10:00-17:00",
-  "entranceFee": "€10.00 Erwachsene, €5.00 ermäßigt",
+  "address": {
+    "de": "Schlossstr. 30, 71634 Ludwigsburg",
+    "hu": "Schlossstr. 30, 71634 Ludwigsburg",
+    "ro": "Schlossstr. 30, 71634 Ludwigsburg",
+    "en": "Schlossstr. 30, 71634 Ludwigsburg"
+  },
+  "openingHours": {
+    "de": "Mo-Su 10:00-17:00",
+    "hu": "H-V 10:00-17:00",
+    "ro": "L-D 10:00-17:00",
+    "en": "Mon-Sun 10:00-17:00"
+  },
+  "entranceFee": {
+    "de": "€10.00 Erwachsene, €5.00 ermäßigt",
+    "hu": "10,00 € felnőtt, 5,00 € kedvezményes",
+    "ro": "10 € adulți, 5 € redus",
+    "en": "€10.00 adults, €5.00 reduced"
+  },
   "website": "https://www.schloss-ludwigsburg.de",
-  "publicTransport": "S-Bahn S4 Ludwigsburg",
-  "parking": "Parkhaus Schloss",
-  "accessibility": "Barrierefrei, Aufzüge vorhanden",
-  "photoRules": "Erlaubt",
-  "bestTimeToVisit": "Frühjahr zur Blühenden Barock Gartenschau",
-  "audioGuide": "Deutsch, Englisch, Französisch, Italienisch"
+  "publicTransport": {
+    "de": "S-Bahn S4 Ludwigsburg",
+    "hu": "S-Bahn S4 Ludwigsburg",
+    "ro": "S-Bahn S4 Ludwigsburg",
+    "en": "S-Bahn S4 Ludwigsburg"
+  },
+  "parking": {
+    "de": "Parkhaus Schloss",
+    "hu": "Kastély parkolóház",
+    "ro": "Parcare castel",
+    "en": "Palace parking garage"
+  },
+  "accessibility": {
+    "de": "Barrierefrei, Aufzüge vorhanden",
+    "hu": "Akadálymentesített, liftekkel",
+    "ro": "Accesibil, cu lifturi",
+    "en": "Accessible, elevators available"
+  },
+  "photoRules": {
+    "de": "Erlaubt",
+    "hu": "Megengedett",
+    "ro": "Permis",
+    "en": "Allowed"
+  },
+  "bestTimeToVisit": {
+    "de": "Frühjahr zur Blühenden Barock Gartenschau",
+    "hu": "Tavasszal, a Virágzó Barokk Kertészeti Kiállítás idején",
+    "ro": "Primăvara, pentru expoziția de grădinărit Baroc Înflorit",
+    "en": "Spring for the Blooming Baroque garden show"
+  },
+  "audioGuide": {
+    "de": "Deutsch, Englisch, Französisch, Italienisch",
+    "hu": "német, angol, francia, olasz",
+    "ro": "germană, engleză, franceză, italiană",
+    "en": "German, English, French, Italian"
+  }
 }

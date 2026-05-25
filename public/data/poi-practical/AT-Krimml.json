@@ -1,12 +1,57 @@
 {
-  "address": "5743 Krimml (Oberpinzgau)",
-  "openingHours": "Mo-Su 09:00-17:00",
-  "entranceFee": "€8 Erwachsene (Erhaltungsgebühr Wasserfallweg)",
+  "address": {
+    "de": "5743 Krimml (Oberpinzgau)",
+    "hu": "5743 Krimml (Oberpinzgau)",
+    "ro": "5743 Krimml (Oberpinzgau)",
+    "en": "5743 Krimml (Oberpinzgau)"
+  },
+  "openingHours": {
+    "de": "Mo-Su 09:00-17:00",
+    "hu": "H-V 09:00-17:00",
+    "ro": "Lu-Du 09:00-17:00",
+    "en": "Mon-Sun 9:00 AM - 5:00 PM"
+  },
+  "entranceFee": {
+    "de": "€8 Erwachsene (Erhaltungsgebühr Wasserfallweg)",
+    "hu": "8 € felnőtt (vízesés-út fenntartási díj)",
+    "ro": "8 € adulți (taxă de întreținere a traseului cascadei)",
+    "en": "€8 adults (waterfall path maintenance fee)"
+  },
   "website": "https://www.wasserfaelle-krimml.at",
-  "publicTransport": "Pinzgauer Lokalbahn bis Krimml Ort, dann Shuttlebus zum Eingang.",
-  "parking": "Mehrere kostenpflichtige Parkplätze (P1-P4) im Ort (ca. €7/Tag).",
-  "accessibility": "Der unterste Wasserfall ist barrierefrei, der Wanderweg nach oben ist steil.",
-  "photoRules": "Erlaubt, Kamera unbedingt vor dem feinen Sprühnebel (Gischt) schützen.",
-  "bestTimeToVisit": "Frühsommer (Mai-Juni) während der Schneeschmelze für maximale Wassermenge.",
-  "audioGuide": "no"
+  "publicTransport": {
+    "de": "Pinzgauer Lokalbahn bis Krimml Ort, dann Shuttlebus zum Eingang.",
+    "hu": "Pinzgauer Lokalbahn Krimml Ort megállóig, majd ingajárat a bejárathoz.",
+    "ro": "Pinzgauer Lokalbahn până la Krimml Ort, apoi autobuz shuttle către intrare.",
+    "en": "Pinzgauer Lokalbahn to Krimml Ort, then shuttle bus to the entrance."
+  },
+  "parking": {
+    "de": "Mehrere kostenpflichtige Parkplätze (P1-P4) im Ort (ca. €7/Tag).",
+    "hu": "Több fizetős parkoló (P1-P4) a faluban (kb. 7 €/nap).",
+    "ro": "Mai multe parcări cu plată (P1-P4) în localitate (aprox. 7 €/zi).",
+    "en": "Several paid parking lots (P1-P4) in the village (approx. €7/day)."
+  },
+  "accessibility": {
+    "de": "Der unterste Wasserfall ist barrierefrei, der Wanderweg nach oben ist steil.",
+    "hu": "A legalsó vízesés akadálymentes, a felfelé vezető túraútvonal meredek.",
+    "ro": "Cascada inferioară este accesibilă, traseul de drumeție în sus este abrupt.",
+    "en": "The lowest waterfall is accessible; the hiking trail upwards is steep."
+  },
+  "photoRules": {
+    "de": "Erlaubt, Kamera unbedingt vor dem feinen Sprühnebel (Gischt) schützen.",
+    "hu": "Szabad fotózni, de a kamerát feltétlenül óvni kell a vízpermettől.",
+    "ro": "Permis, protejați neapărat camera de pulverizarea fină a apei.",
+    "en": "Allowed; be sure to protect your camera from the fine spray (mist)."
+  },
+  "bestTimeToVisit": {
+    "de": "Frühsommer (Mai-Juni) während der Schneeschmelze für maximale Wassermenge.",
+    "hu": "Kora nyáron (május-június) a hóolvadás idején a maximális vízhozamért.",
+    "ro": "Începutul verii (mai-iunie) în timpul topirii zăpezii pentru debit maxim de apă.",
+    "en": "Early summer (May-June) during the snowmelt for maximum water volume."
+  },
+  "audioGuide": {
+    "de": "no",
+    "hu": "nem elérhető",
+    "ro": "nu",
+    "en": "no"
+  }
 }

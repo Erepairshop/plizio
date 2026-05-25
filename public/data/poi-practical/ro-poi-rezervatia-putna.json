@@ -1,12 +1,57 @@
 {
-  "address": "Lepșa, 627369 Tulnici, Vrancea",
-  "openingHours": "24/7",
-  "entranceFee": "kostenlos (Wasserfall Putna ca. 5 RON Parkgebühr)",
+  "address": {
+    "de": "Lepșa, 627369 Tulnici, Vrancea",
+    "hu": "Lepșa, 627369 Tulnici, Vrancea",
+    "ro": "Lepșa, 627369 Tulnici, Vrancea",
+    "en": "Lepșa, 627369 Tulnici, Vrancea"
+  },
+  "openingHours": {
+    "de": "24/7",
+    "hu": "24/7",
+    "ro": "24/7",
+    "en": "24/7"
+  },
+  "entranceFee": {
+    "de": "kostenlos (Wasserfall Putna ca. 5 RON Parkgebühr)",
+    "hu": "ingyenes (Putna-vízesés kb. 5 RON parkolási díj)",
+    "ro": "gratuit (Cascada Putna aprox. 5 RON taxă parcare)",
+    "en": "free (Putna waterfall approx. 5 RON parking fee)"
+  },
   "website": "http://www.putnavrancea.ro",
-  "publicTransport": "Mini-Busse (Maxi-Taxi) von Focșani Richtung Lepșa",
-  "parking": "Kleine Parkplätze bei Lepșa und am Putna-Wasserfall (ca. 5-10 RON)",
-  "accessibility": "Wanderwege naturbelassen und nicht barrierefrei",
-  "photoRules": "Erlaubt; Stativ für Langzeitbelichtungen am Wasserfall sinnvoll",
-  "bestTimeToVisit": "Nach Regenfällen für einen imposanten Wasserfall, Herbst für die Laubfärbung",
-  "audioGuide": "nein"
+  "publicTransport": {
+    "de": "Mini-Busse (Maxi-Taxi) von Focșani Richtung Lepșa",
+    "hu": "Mikrobuszok (Maxi-Taxi) Focșani-ból Lepșa irányába",
+    "ro": "Microbuze (Maxi-Taxi) din Focșani către Lepșa",
+    "en": "Minibuses (Maxi-Taxi) from Focșani towards Lepșa"
+  },
+  "parking": {
+    "de": "Kleine Parkplätze bei Lepșa und am Putna-Wasserfall (ca. 5-10 RON)",
+    "hu": "Kis parkolók Lepșánál és a Putna-vízesésnél (kb. 5-10 RON)",
+    "ro": "Mici parcări în Lepșa și la Cascada Putna (aprox. 5-10 RON)",
+    "en": "Small parking areas at Lepșa and at Putna waterfall (approx. 5-10 RON)"
+  },
+  "accessibility": {
+    "de": "Wanderwege naturbelassen und nicht barrierefrei",
+    "hu": "A túraútvonalak természetesek és nem akadálymentesek",
+    "ro": "Traseele de drumeție sunt naturale și nu sunt accesibile",
+    "en": "Hiking trails are natural and not accessible"
+  },
+  "photoRules": {
+    "de": "Erlaubt; Stativ für Langzeitbelichtungen am Wasserfall sinnvoll",
+    "hu": "Engedélyezett; állvány használata ajánlott hosszú expozícióhoz a vízesésnél",
+    "ro": "Permis; trepiedul este util pentru expuneri lungi la cascadă",
+    "en": "Permitted; tripod useful for long exposures at the waterfall"
+  },
+  "bestTimeToVisit": {
+    "de": "Nach Regenfällen für einen imposanten Wasserfall, Herbst für die Laubfärbung",
+    "hu": "Esőzések után az impozáns vízesésért, ősszel a lombhullás színeiért",
+    "ro": "După ploi pentru o cascadă impunătoare, toamna pentru coloritul frunzelor",
+    "en": "After rain for an imposing waterfall, autumn for fall foliage"
+  },
+  "audioGuide": {
+    "de": "nein",
+    "hu": "nem",
+    "ro": "nu",
+    "en": "no"
+  }
 }

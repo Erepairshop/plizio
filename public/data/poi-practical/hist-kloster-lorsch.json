@@ -1,12 +1,51 @@
 {
-  "address": "Nibelungenstraße 32, 64653 Lorsch",
-  "openingHours": "Di-So 10:00-17:00",
-  "entranceFee": "Areal frei, Königshalle nur mit Führung € 7,00",
+  "address": {
+    "de": "Nibelungenstraße 32, 64653 Lorsch",
+    "hu": "Nibelungenstraße 32, 64653 Lorsch",
+    "ro": "Nibelungenstraße 32, 64653 Lorsch",
+    "en": "Nibelungenstraße 32, 64653 Lorsch"
+  },
+  "openingHours": {
+    "de": "Di-So 10:00-17:00",
+    "hu": "Ke-Va 10:00-17:00",
+    "ro": "Ma-Du 10:00-17:00",
+    "en": "Tue-Sun 10:00-17:00"
+  },
+  "entranceFee": {
+    "de": "Areal frei, Königshalle nur mit Führung € 7,00",
+    "hu": "Terület ingyenes, a királyi csarnok csak vezetéssel 7,00 €",
+    "ro": "Situl gratuit, Sala Regală doar cu ghid 7,00 €",
+    "en": "Site free, Royal Hall only with tour €7.00"
+  },
   "website": "https://www.kloster-lorsch.de",
-  "publicTransport": "Bahnhof Lorsch, 5 Minuten Fußweg zum Gelände",
-  "parking": "Parkplatz am Kloster, ca. 2,50 €/Tag.",
-  "accessibility": "Klostergelände barrierefrei, Königshalle nur eingeschränkt zugänglich.",
-  "photoRules": "Auf dem Außengelände erlaubt.",
-  "bestTimeToVisit": "Nachmittags, wenn die Königshalle angestrahlt wird.",
-  "audioGuide": "nein"
+  "publicTransport": {
+    "de": "Bahnhof Lorsch, 5 Minuten Fußweg zum Gelände",
+    "hu": "Lorsch állomás, 5 perc séta a területig",
+    "ro": "Gara Lorsch, 5 minute de mers pe jos până la sit",
+    "en": "Lorsch station, 5 min walk to the grounds"
+  },
+  "parking": {
+    "de": "Parkplatz am Kloster, ca. 2,50 €/Tag.",
+    "hu": "Parkoló a kolostornál, kb. 2,50 €/nap.",
+    "ro": "Parcare la mănăstire, aprox. 2,50 €/zi.",
+    "en": "Parking at monastery, approx. €2.50/day."
+  },
+  "accessibility": {
+    "de": "Klostergelände barrierefrei, Königshalle nur eingeschränkt zugänglich.",
+    "hu": "A kolostor területe akadálymentes, a királyi csarnok csak korlátozottan látogatható.",
+    "ro": "Incinta mănăstirii este accesibilă, Sala Regală cu acces limitat.",
+    "en": "Monastery grounds barrier-free, Royal Hall only partially accessible."
+  },
+  "photoRules": {
+    "de": "Auf dem Außengelände erlaubt.",
+    "hu": "A szabadtéri területen szabad.",
+    "ro": "Permis în spațiul exterior.",
+    "en": "Allowed outdoors."
+  },
+  "bestTimeToVisit": {
+    "de": "Nachmittags, wenn die Königshalle angestrahlt wird.",
+    "hu": "Délután, amikor a királyi csarnokot kivilágítják.",
+    "ro": "După-amiaza când Sala Regală este iluminată.",
+    "en": "Afternoons when the Royal Hall is illuminated."
+  }
 }

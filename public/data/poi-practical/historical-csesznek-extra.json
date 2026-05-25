@@ -1,12 +1,57 @@
 {
-  "address": "Vár út, 8419 Csesznek",
-  "openingHours": "Täglich 09:00-19:00 (Sommer), 09:00-16:00 (Winter)",
-  "entranceFee": "1000 HUF Erwachsene, 600 HUF Kinder/Senioren",
+  "address": {
+    "de": "Vár út, 8419 Csesznek",
+    "hu": "Vár út, 8419 Csesznek",
+    "ro": "Vár út, 8419 Csesznek",
+    "en": "Vár út, 8419 Csesznek"
+  },
+  "openingHours": {
+    "de": "Täglich 09:00-19:00 (Sommer), 09:00-16:00 (Winter)",
+    "hu": "Naponta 09:00-19:00 (nyár), 09:00-16:00 (tél)",
+    "ro": "Zilnic 09:00-19:00 (vară), 09:00-16:00 (iarnă)",
+    "en": "Daily 09:00-19:00 (summer), 09:00-16:00 (winter)"
+  },
+  "entranceFee": {
+    "de": "1000 HUF Erwachsene, 600 HUF Kinder/Senioren",
+    "hu": "1000 HUF felnőtt, 600 HUF gyerek/idős",
+    "ro": "1000 HUF adulți, 600 HUF copii/senior",
+    "en": "1000 HUF adults, 600 HUF children/seniors"
+  },
   "website": "http://www.csesznekivar.hu/",
-  "publicTransport": "Busverbindungen ab Veszprém oder Győr bis zur Haltestelle Csesznek, vár.",
-  "parking": "Zentraler Parkplatz am Fusse des Burgbergs (ca. 400 HUF Pauschale).",
-  "accessibility": "Steiler, steiniger Pfad zur Ruine; für Rollstühle und Kinderwagen ungeeignet.",
-  "photoRules": "Uneingeschränkt erlaubt; Panoramablick über das Bakony-Gebirge.",
-  "bestTimeToVisit": "Vormittags an klaren Herbsttagen für die beste Fernsicht.",
-  "audioGuide": "no"
+  "publicTransport": {
+    "de": "Busverbindungen ab Veszprém oder Győr bis zur Haltestelle Csesznek, vár.",
+    "hu": "Buszjáratok Veszprémből vagy Győrből a Csesznek, vár megállóig.",
+    "ro": "Autobuze din Veszprém sau Győr până la stația Csesznek, vár.",
+    "en": "Bus connections from Veszprém or Győr to the stop Csesznek, vár."
+  },
+  "parking": {
+    "de": "Zentraler Parkplatz am Fusse des Burgbergs (ca. 400 HUF Pauschale).",
+    "hu": "Központi parkoló a várhegy lábánál (kb. 400 HUF átalány).",
+    "ro": "Parcare centrală la poalele dealului castelului (aprox. 400 HUF fix).",
+    "en": "Central parking at the foot of the castle hill (approx. 400 HUF flat rate)."
+  },
+  "accessibility": {
+    "de": "Steiler, steiniger Pfad zur Ruine; für Rollstühle und Kinderwagen ungeeignet.",
+    "hu": "Meredek, köves ösvény a romokhoz; kerekesszékkel és babakocsival nem látogatható.",
+    "ro": "Potecă abruptă și stâncoasă către ruine; nepotrivită pentru scaune cu rotile și cărucioare.",
+    "en": "Steep, stony path to the ruins; unsuitable for wheelchairs and strollers."
+  },
+  "photoRules": {
+    "de": "Uneingeschränkt erlaubt; Panoramablick über das Bakony-Gebirge.",
+    "hu": "Korlátlanul engedélyezett; panoráma a Bakonyra.",
+    "ro": "Permis nelimitat; vedere panoramică asupra munților Bakony.",
+    "en": "Unrestricted; panoramic view over the Bakony mountains."
+  },
+  "bestTimeToVisit": {
+    "de": "Vormittags an klaren Herbsttagen für die beste Fernsicht.",
+    "hu": "Délelőtt tiszta őszi napokon a legjobb kilátásért.",
+    "ro": "Dimineața în zilele clare de toamnă pentru cea mai bună vedere.",
+    "en": "Mornings on clear autumn days for the best visibility."
+  },
+  "audioGuide": {
+    "de": "no",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

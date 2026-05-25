@@ -1,12 +1,57 @@
 {
-  "address": "37150 Chenonceaux",
-  "openingHours": "Mo-So 09:00-18:00",
-  "entranceFee": "€15.50 Erwachsene, €12.50 ermäßigt",
+  "address": {
+    "de": "37150 Chenonceaux",
+    "hu": "37150 Chenonceaux",
+    "ro": "37150 Chenonceaux",
+    "en": "37150 Chenonceaux"
+  },
+  "openingHours": {
+    "de": "Mo-Su 09:00-18:00",
+    "hu": "Hé-Vas 09:00-18:00",
+    "ro": "Lun-Dum 09:00-18:00",
+    "en": "Mon-Sun 09:00-18:00"
+  },
+  "entranceFee": {
+    "de": "€15.50 Erwachsene, €12.50 ermäßigt",
+    "hu": "15.50€ felnőtt, 12.50€ kedvezményes",
+    "ro": "15.50€ adulți, 12.50€ redus",
+    "en": "€15.50 adults, €12.50 reduced"
+  },
   "website": "https://www.chenonceau.com",
-  "publicTransport": "TER Zug bis Bahnhof Chenonceaux, direkt am Schloss",
-  "parking": "Kostenlose Parkplätze direkt am Schlosseingang.",
-  "accessibility": "Erdgeschoss und Gärten barrierefrei, Obergeschosse nur Treppen.",
-  "photoRules": "Erlaubt ohne Blitz und Stativ in den Innenräumen.",
-  "bestTimeToVisit": "Juni, wenn die Gärten in voller Blüte stehen.",
-  "audioGuide": "Video-Guide auf iPod verfügbar (viele Sprachen)."
+  "publicTransport": {
+    "de": "TER Zug bis Bahnhof Chenonceaux, direkt am Schloss",
+    "hu": "TER vonat Chenonceaux állomásig, közvetlenül a kastélynál",
+    "ro": "Trenul TER până la gara Chenonceaux, situată chiar lângă castel",
+    "en": "TER train to Chenonceaux station, directly at the castle"
+  },
+  "parking": {
+    "de": "Kostenlose Parkplätze direkt am Schlosseingang.",
+    "hu": "Ingyenes parkolóhelyek közvetlenül a kastély bejáratánál.",
+    "ro": "Locuri de parcare gratuite chiar la intrarea în castel.",
+    "en": "Free parking directly at the castle entrance."
+  },
+  "accessibility": {
+    "de": "Erdgeschoss und Gärten barrierefrei, Obergeschosse nur Treppen.",
+    "hu": "A földszint és a kertek akadálymentesek, a felső emeletek csak lépcsőn érhetők el.",
+    "ro": "Parterul și grădinile sunt accesibile, etajele superioare doar pe scări.",
+    "en": "Ground floor and gardens are accessible, upper floors via stairs only."
+  },
+  "photoRules": {
+    "de": "Erlaubt ohne Blitz und Stativ in den Innenräumen.",
+    "hu": "A belső terekben vaku és állvány nélkül megengedett.",
+    "ro": "Permis fără bliț și trepied în spațiile interioare.",
+    "en": "Permitted without flash and tripod in the interiors."
+  },
+  "bestTimeToVisit": {
+    "de": "Juni, wenn die Gärten in voller Blüte stehen.",
+    "hu": "Júniusban, amikor a kertek teljes pompájukban virágoznak.",
+    "ro": "Iunie, când grădinile sunt în plină floare.",
+    "en": "June, when the gardens are in full bloom."
+  },
+  "audioGuide": {
+    "de": "Video-Guide auf iPod verfügbar (viele Sprachen).",
+    "hu": "Video-guide iPodon elérhető (számos nyelven).",
+    "ro": "Ghid video disponibil pe iPod (mai multe limbi).",
+    "en": "Video guide available on iPod (multiple languages)."
+  }
 }

@@ -1,12 +1,57 @@
 {
-  "address": "I. András tér 1, 8237 Tihany",
-  "openingHours": "Mo-Sa 09:00-18:00, So 10:00-18:00 (Saisonal abweichend)",
-  "entranceFee": "2400 HUF Erwachsene, 1400 HUF Schüler/Studenten",
+  "address": {
+    "de": "I. András tér 1, 8237 Tihany",
+    "hu": "I. András tér 1, 8237 Tihany",
+    "ro": "I. András tér 1, 8237 Tihany",
+    "en": "I. András tér 1, 8237 Tihany"
+  },
+  "openingHours": {
+    "de": "Mo-Sa 09:00-18:00, So 10:00-18:00 (Saisonal abweichend)",
+    "hu": "H-Szo 09:00-18:00, V 10:00-18:00 (szezonálisan eltérő)",
+    "ro": "L-S 09:00-18:00, D 10:00-18:00 (sezonier diferit)",
+    "en": "Mon-Sat 09:00-18:00, Sun 10:00-18:00 (seasonally variable)"
+  },
+  "entranceFee": {
+    "de": "2400 HUF Erwachsene, 1400 HUF Schüler/Studenten",
+    "hu": "2400 HUF felnőttek, 1400 HUF diákok/hallgatók",
+    "ro": "2400 HUF adulți, 1400 HUF elevi/studenți",
+    "en": "2400 HUF adults, 1400 HUF students"
+  },
   "website": "https://tihanyiapatsag.hu/",
-  "publicTransport": "Bus vom Bahnhof Balatonfüred bis Haltestelle Tihany, posta",
-  "parking": "Großer kostenpflichtiger Parkplatz ca. 300m entfernt am Ortseingang.",
-  "accessibility": "Die Kirche ist barrierefrei, das Museum teilweise mit Stufen.",
-  "photoRules": "Fotografieren ohne Blitz erlaubt, Stativnutzung verboten.",
-  "bestTimeToVisit": "Früh morgens, um den Touristenmassen und der Mittagshitze zu entgehen.",
-  "audioGuide": "hu, en, de, ru, fr"
+  "publicTransport": {
+    "de": "Bus vom Bahnhof Balatonfüred bis Haltestelle Tihany, posta",
+    "hu": "Busz a balatonfüredi vasútállomásról a Tihany, posta megállóig",
+    "ro": "Autobuz din gara Balatonfüred până la stația Tihany, posta",
+    "en": "Bus from Balatonfüred train station to Tihany, posta stop"
+  },
+  "parking": {
+    "de": "Großer kostenpflichtiger Parkplatz ca. 300m entfernt am Ortseingang.",
+    "hu": "Nagy fizetős parkoló kb. 300 méterre a falu bejáratánál.",
+    "ro": "Parcare mare cu plată la aproximativ 300m distanță la intrarea în localitate.",
+    "en": "Large paid parking lot about 300m away at the village entrance."
+  },
+  "accessibility": {
+    "de": "Die Kirche ist barrierefrei, das Museum teilweise mit Stufen.",
+    "hu": "A templom akadálymentes, a múzeum részben lépcsős.",
+    "ro": "Biserica este accesibilă, muzeul are parțial trepte.",
+    "en": "The church is accessible, the museum partially has steps."
+  },
+  "photoRules": {
+    "de": "Fotografieren ohne Blitz erlaubt, Stativnutzung verboten.",
+    "hu": "Fényképezés vaku nélkül engedélyezett, állvány használata tilos.",
+    "ro": "Fotografierea fără bliț permisă, utilizarea trepiedului interzisă.",
+    "en": "Photography without flash allowed, tripod use forbidden."
+  },
+  "bestTimeToVisit": {
+    "de": "Früh morgens, um den Touristenmassen und der Mittagshitze zu entgehen.",
+    "hu": "Kora reggel, hogy elkerülje a turistatömegeket és a déli hőséget.",
+    "ro": "Dimineața devreme, pentru a evita mulțimile de turiști și căldura de la prânz.",
+    "en": "Early morning to avoid tourist crowds and the midday heat."
+  },
+  "audioGuide": {
+    "de": "hu, en, de, ru, fr",
+    "hu": "hu, en, de, ru, fr",
+    "ro": "hu, en, de, ru, fr",
+    "en": "hu, en, de, ru, fr"
+  }
 }

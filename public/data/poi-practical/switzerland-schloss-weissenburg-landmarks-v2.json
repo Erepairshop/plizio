@@ -1,12 +1,57 @@
 {
-  "address": "Weissenburgberg, 3764 Därstetten",
-  "openingHours": "24/7",
-  "entranceFee": "kostenlos",
+  "address": {
+    "de": "Weissenburgberg, 3764 Därstetten",
+    "hu": "Weissenburgberg, 3764 Därstetten",
+    "ro": "Weissenburgberg, 3764 Därstetten",
+    "en": "Weissenburgberg, 3764 Därstetten"
+  },
+  "openingHours": {
+    "de": "24/7",
+    "hu": "0-24",
+    "ro": "0-24",
+    "en": "24/7"
+  },
+  "entranceFee": {
+    "de": "kostenlos",
+    "hu": "ingyenes",
+    "ro": "gratuit",
+    "en": "free"
+  },
   "website": "https://www.weissenburg.ch/",
-  "publicTransport": "Regionalzug bis Bahnhof Weissenburg, anschliessend 20-minütiger Fussweg bergauf.",
-  "parking": "Einige kostenlose Parkplätze direkt am Bahnhof Weissenburg vorhanden.",
-  "accessibility": "Nicht barrierefrei, der Zugang erfolgt über einen steilen und steinigen Wanderweg.",
-  "photoRules": "Fotografieren für private Zwecke ist uneingeschränkt erlaubt.",
-  "bestTimeToVisit": "Vormittags, wenn das Licht ideal in das Simmental fällt.",
-  "audioGuide": "no"
+  "publicTransport": {
+    "de": "Regionalzug bis Bahnhof Weissenburg, anschliessend 20-minütiger Fussweg bergauf.",
+    "hu": "Regionális vonat Weissenburg pályaudvarig, majd 20 perces séta felfelé.",
+    "ro": "Tren regional până la gara Weissenburg, apoi 20 min. pe jos în urcare.",
+    "en": "Regional train to Weissenburg station, then 20-minute walk uphill."
+  },
+  "parking": {
+    "de": "Einige kostenlose Parkplätze direkt am Bahnhof Weissenburg vorhanden.",
+    "hu": "Néhány ingyenes parkolóhely közvetlenül a Weissenburg pályaudvarnál.",
+    "ro": "Câteva locuri de parcare gratuite chiar la gara Weissenburg.",
+    "en": "Some free parking spaces directly at Weissenburg station."
+  },
+  "accessibility": {
+    "de": "Nicht barrierefrei, der Zugang erfolgt über einen steilen und steinigen Wanderweg.",
+    "hu": "Nem akadálymentesített, az út meredek és köves túraúton vezet.",
+    "ro": "Nu este accesibil, accesul se face pe o potecă abruptă și pietroasă.",
+    "en": "Not accessible, access via a steep and stony hiking trail."
+  },
+  "photoRules": {
+    "de": "Fotografieren für private Zwecke ist uneingeschränkt erlaubt.",
+    "hu": "A magáncélú fotózás korlátozás nélkül engedélyezett.",
+    "ro": "Fotografiatul în scopuri private este permis fără restricții.",
+    "en": "Photography for private use is unrestricted."
+  },
+  "bestTimeToVisit": {
+    "de": "Vormittags, wenn das Licht ideal in das Simmental fällt.",
+    "hu": "Délelőtt, amikor a fény ideálisan esik a Simmental-völgyre.",
+    "ro": "Dimineața, când lumina cade ideal pe valea Simmental.",
+    "en": "Mornings, when the light hits the Simmental valley perfectly."
+  },
+  "audioGuide": {
+    "de": "no",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

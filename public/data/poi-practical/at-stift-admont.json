@@ -1,12 +1,57 @@
 {
-  "address": "Admont 1, 8911 Admont",
-  "openingHours": "Mo-Su 09:00-17:00 (Apr-Okt)",
-  "entranceFee": "18,50€ (Bibliothek & Museen)",
+  "address": {
+    "de": "Admont 1, 8911 Admont",
+    "hu": "Admont 1, 8911 Admont",
+    "ro": "Admont 1, 8911 Admont",
+    "en": "Admont 1, 8911 Admont"
+  },
+  "openingHours": {
+    "de": "Mo-Su 09:00-17:00 (Apr-Okt)",
+    "hu": "H-V 09:00-17:00 (ápr-okt)",
+    "ro": "Lu-Du 09:00-17:00 (Apr-Oct)",
+    "en": "Mon-Sun 09:00-17:00 (Apr-Oct)"
+  },
+  "entranceFee": {
+    "de": "18,50€ (Bibliothek & Museen)",
+    "hu": "18,50 € (könyvtár és múzeumok)",
+    "ro": "18,50 € (bibliotecă și muzee)",
+    "en": "18.50€ (library & museums)"
+  },
   "website": "https://www.stiftadmont.at",
-  "publicTransport": "Bahnhof Admont oder Bus ab Liezen",
-  "parking": "Besucherparkplatz direkt am Stift, kostenlos.",
-  "accessibility": "Bibliothek über Aufzug barrierefrei erreichbar.",
-  "photoRules": "Ohne Blitz/Stativ erlaubt (Fototicket erforderlich).",
-  "bestTimeToVisit": "Früh morgens, um die Bibliothek in Ruhe zu sehen.",
-  "audioGuide": "DE, EN, FR, IT"
+  "publicTransport": {
+    "de": "Bahnhof Admont oder Bus ab Liezen",
+    "hu": "Admont vasútállomás vagy busz Liezenből",
+    "ro": "Gara Admont sau autobuz din Liezen",
+    "en": "Admont station or bus from Liezen"
+  },
+  "parking": {
+    "de": "Besucherparkplatz direkt am Stift, kostenlos.",
+    "hu": "Látogatói parkoló közvetlenül az apátságnál, ingyenes.",
+    "ro": "Parcare pentru vizitatori direct la abație, gratuită.",
+    "en": "Visitor parking lot directly at the abbey, free."
+  },
+  "accessibility": {
+    "de": "Bibliothek über Aufzug barrierefrei erreichbar.",
+    "hu": "A könyvtár lifttel akadálymentesen elérhető.",
+    "ro": "Biblioteca este accesibilă fără bariere prin lift.",
+    "en": "Library accessible via lift without barriers."
+  },
+  "photoRules": {
+    "de": "Ohne Blitz/Stativ erlaubt (Fototicket erforderlich).",
+    "hu": "Vaku és állvány nélkül megengedett (fotójegy szükséges).",
+    "ro": "Permis fără bliț/trepied (este necesar bilet foto).",
+    "en": "Permitted without flash/tripod (photo ticket required)."
+  },
+  "bestTimeToVisit": {
+    "de": "Früh morgens, um die Bibliothek in Ruhe zu sehen.",
+    "hu": "Kora reggel, hogy nyugodtan láthassa a könyvtárat.",
+    "ro": "Dimineața devreme, pentru a vedea biblioteca în liniște.",
+    "en": "Early morning to see the library in peace."
+  },
+  "audioGuide": {
+    "de": "DE, EN, FR, IT",
+    "hu": "német, angol, francia, olasz",
+    "ro": "DE, EN, FR, IT",
+    "en": "DE, EN, FR, IT"
+  }
 }

@@ -1,12 +1,57 @@
 {
-  "address": "Rue de la Collégiale 12, 2000 Neuchâtel",
-  "openingHours": "Mo-Su 08:00-18:00 (Innenhof), Schlossführung nur nach Plan",
-  "entranceFee": "Hof frei, Führungen ca. 5 CHF",
+  "address": {
+    "de": "Rue de la Collégiale 12, 2000 Neuchâtel",
+    "hu": "Rue de la Collégiale 12, 2000 Neuchâtel",
+    "ro": "Rue de la Collégiale 12, 2000 Neuchâtel",
+    "en": "Rue de la Collégiale 12, 2000 Neuchâtel"
+  },
+  "openingHours": {
+    "de": "Mo-Su 08:00-18:00 (Innenhof), Schlossführung nur nach Plan",
+    "hu": "H–V 08:00–18:00 (udvar), tárlatvezetés csak beosztás szerint",
+    "ro": "Luni-Dum 08:00-18:00 (curtea interioară), tururi doar conform planificării",
+    "en": "Mon-Sun 08:00-18:00 (courtyard), guided tours by schedule only"
+  },
+  "entranceFee": {
+    "de": "Hof frei, Führungen ca. 5 CHF",
+    "hu": "udvar ingyenes, vezetés kb. 5 CHF",
+    "ro": "curtea liberă, tururi aprox. 5 CHF",
+    "en": "courtyard free, tours approx. 5 CHF"
+  },
   "website": "https://www.neuchateltourisme.ch",
-  "publicTransport": "Standseilbahn 'Fun'ambule' ab Bahnhof bis Universität, dann Fußweg.",
-  "parking": "Parkhaus Place Pury nutzen.",
-  "accessibility": "Innenhof und Kirche zugänglich; Schlossräume nur über Treppen.",
-  "photoRules": "Erlaubt im Außenbereich; traumhafter Blick auf die Dächer der Stadt.",
-  "bestTimeToVisit": "Nachmittags, wenn die Sonne die gelben Steine des Schlosses beleuchtet.",
-  "audioGuide": "FR (Guides sprechen oft DE/EN)"
+  "publicTransport": {
+    "de": "Standseilbahn 'Fun'ambule' ab Bahnhof bis Universität, dann Fußweg.",
+    "hu": "'Fun'ambule' sikló a pályaudvartól az egyetemig, majd séta.",
+    "ro": "Funicularul 'Fun'ambule' de la gară până la universitate, apoi pe jos.",
+    "en": "'Fun'ambule' funicular from train station to university, then walk."
+  },
+  "parking": {
+    "de": "Parkhaus Place Pury nutzen.",
+    "hu": "Használja a Place Pury parkolóházat.",
+    "ro": "Folosiți parcarea Place Pury.",
+    "en": "Use Place Pury parking garage."
+  },
+  "accessibility": {
+    "de": "Innenhof und Kirche zugänglich; Schlossräume nur über Treppen.",
+    "hu": "Udvar és templom látogatható; a várterem csak lépcsőn érhető el.",
+    "ro": "Curtea și biserica accesibile; sălile castelului doar pe scări.",
+    "en": "Courtyard and church accessible; castle rooms via stairs only."
+  },
+  "photoRules": {
+    "de": "Erlaubt im Außenbereich; traumhafter Blick auf die Dächer der Stadt.",
+    "hu": "Kültéren engedélyezett; csodás kilátás a város háztetőire.",
+    "ro": "Permis în exterior; vedere superbă asupra acoperișurilor orașului.",
+    "en": "Allowed outdoors; dreamy view of the city rooftops."
+  },
+  "bestTimeToVisit": {
+    "de": "Nachmittags, wenn die Sonne die gelben Steine des Schlosses beleuchtet.",
+    "hu": "Délután, amikor a nap megvilágítja a vár sárga köveit.",
+    "ro": "După-amiaza, când soarele luminează pietrele galbene ale castelului.",
+    "en": "Afternoons, when the sun illuminates the yellow stones of the castle."
+  },
+  "audioGuide": {
+    "de": "FR (Guides sprechen oft DE/EN)",
+    "hu": "francia (az idegenvezetők gyakran beszélnek németül/angolul)",
+    "ro": "franc (ghizii vorbesc adesea germ/engl)",
+    "en": "French (guides often speak DE/EN)"
+  }
 }

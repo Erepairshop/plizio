@@ -1,12 +1,57 @@
 {
-  "address": "Bulevardul Lascăr Catargiu 39, 010664 București",
-  "openingHours": "Nur nach vorheriger Anmeldung zu besichtigen.",
-  "entranceFee": "Spende erbeten",
+  "address": {
+    "de": "Bulevardul Lascăr Catargiu 39, 010664 București",
+    "hu": "Bulevardul Lascăr Catargiu 39, 010664 Bukarest",
+    "ro": "Bulevardul Lascăr Catargiu 39, 010664 București",
+    "en": "Bulevardul Lascăr Catargiu 39, 010664 Bucharest"
+  },
+  "openingHours": {
+    "de": "Nur nach vorheriger Anmeldung zu besichtigen.",
+    "hu": "Csak előzetes bejelentkezés alapján látogatható.",
+    "ro": "Se vizitează doar cu programare prealabilă.",
+    "en": "Visit only by prior arrangement."
+  },
+  "entranceFee": {
+    "de": "Spende erbeten",
+    "hu": "Adományt szívesen fogadnak",
+    "ro": "Donație recomandată",
+    "en": "Donation requested"
+  },
   "website": "",
-  "publicTransport": "Metro M2 (Piața Romană)",
-  "parking": "Sehr schwierig, nur kostenpflichtige Parkplätze in Nebenstraßen.",
-  "accessibility": "Nicht barrierefrei, historisches Gebäude mit Stufen.",
-  "photoRules": "Innenaufnahmen nur mit Genehmigung.",
-  "bestTimeToVisit": "Vormittags für eine ruhige Führung.",
-  "audioGuide": "nein"
+  "publicTransport": {
+    "de": "Metro M2 (Piața Romană)",
+    "hu": "M2 metró (Piața Romană)",
+    "ro": "Metrou M2 (Piața Romană)",
+    "en": "Metro M2 (Piața Romană)"
+  },
+  "parking": {
+    "de": "Sehr schwierig, nur kostenpflichtige Parkplätze in Nebenstraßen.",
+    "hu": "Nagyon nehéz, csak fizetős parkolóhelyek az oldalutcákban.",
+    "ro": "Foarte dificil, doar parcări cu plată pe străzile adiacente.",
+    "en": "Very difficult, only paid parking on side streets."
+  },
+  "accessibility": {
+    "de": "Nicht barrierefrei, historisches Gebäude mit Stufen.",
+    "hu": "Nem akadálymentesített, történelmi épület lépcsőkkel.",
+    "ro": "Nu este accesibil, clădire istorică cu trepte.",
+    "en": "Not accessible, historical building with stairs."
+  },
+  "photoRules": {
+    "de": "Innenaufnahmen nur mit Genehmigung.",
+    "hu": "Belső fényképek csak engedéllyel.",
+    "ro": "Fotografii în interior doar cu autorizație.",
+    "en": "Interior photos only with permission."
+  },
+  "bestTimeToVisit": {
+    "de": "Vormittags für eine ruhige Führung.",
+    "hu": "Délelőtt, egy nyugodt vezetésért.",
+    "ro": "Dimineața pentru un tur liniștit.",
+    "en": "Mornings for a quiet tour."
+  },
+  "audioGuide": {
+    "de": "nein",
+    "hu": "nem",
+    "ro": "nu",
+    "en": "no"
+  }
 }

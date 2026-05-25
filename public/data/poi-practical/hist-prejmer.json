@@ -1,12 +1,57 @@
 {
-  "address": "Strada Mare 2, 507165 Prejmer",
-  "openingHours": "Mo-Sa 09:00-18:00, So 11:00-18:00 (Sommer); Winter bis 16:00",
-  "entranceFee": "15 RON Erwachsene, 7 RON Studenten",
+  "address": {
+    "de": "Strada Mare 2, 507165 Prejmer",
+    "hu": "Strada Mare 2, 507165 Prázsmár",
+    "ro": "Strada Mare 2, 507165 Prejmer",
+    "en": "Strada Mare 2, 507165 Prejmer"
+  },
+  "openingHours": {
+    "de": "Mo-Sa 09:00-18:00, So 11:00-18:00 (Sommer); Winter bis 16:00",
+    "hu": "H-Szo 09:00-18:00, V 11:00-18:00 (nyáron); télen 16:00-ig",
+    "ro": "Lu-Sâ 09:00-18:00, Du 11:00-18:00 (vara); iarna până la 16:00",
+    "en": "Mon-Sat 09:00-18:00, Sun 11:00-18:00 (summer); winter until 16:00"
+  },
+  "entranceFee": {
+    "de": "15 RON Erwachsene, 7 RON Studenten",
+    "hu": "15 RON felnőtt, 7 RON diák",
+    "ro": "15 RON adulți, 7 RON studenți",
+    "en": "15 RON adults, 7 RON students"
+  },
   "website": "https://zusammen-fuer-kulturerbe.ro",
-  "publicTransport": "Regio-Zug oder Bus von Brașov (ca. 20-30 Min. Fahrt)",
-  "parking": "Kostenlose Parkplätze direkt auf dem Dorfplatz vor der Kirche",
-  "accessibility": "Innenhof ebenerdig, die Wehrgänge sind nur über enge Holztreppen erreichbar",
-  "photoRules": "Erlaubt und im Preis inbegriffen",
-  "bestTimeToVisit": "Vormittags, wenn das Licht in die kreisförmige Anlage fällt",
-  "audioGuide": "Informationstafeln vorhanden, kein elektronischer Guide"
+  "publicTransport": {
+    "de": "Regio-Zug oder Bus von Brașov (ca. 20-30 Min. Fahrt)",
+    "hu": "Regionális vonat vagy busz Brassóból (kb. 20-30 perc út)",
+    "ro": "Tren Regio sau autobuz din Brașov (aprox. 20-30 min. călătorie)",
+    "en": "Regio train or bus from Brașov (approx. 20-30 min journey)"
+  },
+  "parking": {
+    "de": "Kostenlose Parkplätze direkt auf dem Dorfplatz vor der Kirche",
+    "hu": "Ingyenes parkolók közvetlenül a falu főterén, a templom előtt",
+    "ro": "Locuri de parcare gratuite direct în piața satului, în fața bisericii",
+    "en": "Free parking spots directly on the village square in front of the church"
+  },
+  "accessibility": {
+    "de": "Innenhof ebenerdig, die Wehrgänge sind nur über enge Holztreppen erreichbar",
+    "hu": "A belső udvar sík terület, a gyilokjárók csak szűk falépcsőkön érhetők el",
+    "ro": "Curtea interioară este la nivel, drumurile de strajă sunt accesibile doar prin scări înguste de lemn",
+    "en": "The courtyard is level, but the defensive walkways are only accessible via narrow wooden stairs"
+  },
+  "photoRules": {
+    "de": "Erlaubt und im Preis inbegriffen",
+    "hu": "Engedélyezett és benne van az árban",
+    "ro": "Permis și inclus în preț",
+    "en": "Allowed and included in the price"
+  },
+  "bestTimeToVisit": {
+    "de": "Vormittags, wenn das Licht in die kreisförmige Anlage fällt",
+    "hu": "Délelőtt, amikor a fény megvilágítja a kör alakú erődítményt",
+    "ro": "Dimineața, când lumina pătrunde în incinta circulară",
+    "en": "In the morning, when the light hits the circular complex"
+  },
+  "audioGuide": {
+    "de": "Informationstafeln vorhanden, kein elektronischer Guide",
+    "hu": "Információs táblák vannak, elektronikus guide nincs",
+    "ro": "Panouri informative disponibile, fără ghid electronic",
+    "en": "Information boards available, no electronic guide"
+  }
 }

@@ -1,12 +1,57 @@
 {
-  "address": "Mönchsberg 34, 5020 Salzburg",
-  "openingHours": "Mo-Su 09:30-18:00",
-  "entranceFee": "€14,00 Erwachsene (Basis-Ticket inkl. Festungsbahn)",
+  "address": {
+    "de": "Mönchsberg 34, 5020 Salzburg",
+    "hu": "Mönchsberg 34, 5020 Salzburg",
+    "ro": "Mönchsberg 34, 5020 Salzburg",
+    "en": "Mönchsberg 34, 5020 Salzburg"
+  },
+  "openingHours": {
+    "de": "Mo-Su 09:30-18:00",
+    "hu": "H-V 09:30-18:00",
+    "ro": "Lu-Du 09:30-18:00",
+    "en": "Mon-Sun 9:30 AM - 6:00 PM"
+  },
+  "entranceFee": {
+    "de": "€14,00 Erwachsene (Basis-Ticket inkl. Festungsbahn)",
+    "hu": "14,00 € felnőtt (alapjegy siklóval együtt)",
+    "ro": "14,00 € adulți (bilet de bază incl. funicularul cetății)",
+    "en": "€14.00 adults (Basic ticket including funicular)"
+  },
   "website": "https://www.salzburg-burgen.at",
-  "publicTransport": "Obus 1, 3, 5, 6 bis Haltestelle Ferdinand-Hanusch-Platz",
-  "parking": "Altstadtgarage B (Mönchsberg), ca. 10 Minuten Fußweg zur Talstation.",
-  "accessibility": "Festungsbahn und Außenhof barrierefrei, Museumsräume teilweise nur über Stufen.",
-  "photoRules": "Außenaufnahmen erlaubt, in den Innenräumen (Prunkräume) herrscht Verbot.",
-  "bestTimeToVisit": "Später Nachmittag für einen weiten Panoramablick im warmen Abendlicht.",
-  "audioGuide": "Ja, für den Innenrundgang in 11 Sprachen verfügbar."
+  "publicTransport": {
+    "de": "Obus 1, 3, 5, 6 bis Haltestelle Ferdinand-Hanusch-Platz",
+    "hu": "1, 3, 5, 6-os trolibusz Ferdinand-Hanusch-Platz megállóig",
+    "ro": "Troleibuz 1, 3, 5, 6 până la stația Ferdinand-Hanusch-Platz",
+    "en": "Trolleybus 1, 3, 5, 6 to Ferdinand-Hanusch-Platz stop"
+  },
+  "parking": {
+    "de": "Altstadtgarage B (Mönchsberg), ca. 10 Minuten Fußweg zur Talstation.",
+    "hu": "Altstadtgarage B (Mönchsberg), kb. 10 perc séta a völgyállomáshoz.",
+    "ro": "Altstadtgarage B (Mönchsberg), aprox. 10 minute de mers pe jos până la stația de jos.",
+    "en": "Altstadtgarage B (Mönchsberg), approx. 10-minute walk to the valley station."
+  },
+  "accessibility": {
+    "de": "Festungsbahn und Außenhof barrierefrei, Museumsräume teilweise nur über Stufen.",
+    "hu": "A sikló és a külső udvar akadálymentes, a múzeumi termek részben csak lépcsőn érhetők el.",
+    "ro": "Funicularul și curtea exterioară sunt accesibile, sălile muzeului parțial doar prin trepte.",
+    "en": "Funicular and outer courtyard are accessible; museum rooms partially accessible only via steps."
+  },
+  "photoRules": {
+    "de": "Außenaufnahmen erlaubt, in den Innenräumen (Prunkräume) herrscht Verbot.",
+    "hu": "Kültéren szabad fotózni, a belső terekben (dísztermek) tilos.",
+    "ro": "Fotografii exterioare permise, în interior (sălile de stat) este interzis.",
+    "en": "Outdoor photography allowed; prohibited in the interior rooms (state rooms)."
+  },
+  "bestTimeToVisit": {
+    "de": "Später Nachmittag für einen weiten Panoramablick im warmen Abendlicht.",
+    "hu": "Késő délután a panorámáért a meleg esti fényekben.",
+    "ro": "După-amiaza târziu pentru o vedere panoramică în lumina caldă a serii.",
+    "en": "Late afternoon for a wide panoramic view in the warm evening light."
+  },
+  "audioGuide": {
+    "de": "Ja, für den Innenrundgang in 11 Sprachen verfügbar.",
+    "hu": "Igen, a belső körsétához 11 nyelven elérhető.",
+    "ro": "Da, disponibil în 11 limbi pentru turul interior.",
+    "en": "Yes, available in 11 languages for the interior tour."
+  }
 }

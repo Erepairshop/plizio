@@ -1,12 +1,57 @@
 {
-  "address": "Bulevardul Marii Uniri, 800329 Galați",
-  "openingHours": "24/7",
-  "entranceFee": "free",
+  "address": {
+    "de": "Bulevardul Marii Uniri, 800329 Galați",
+    "hu": "Bulevardul Marii Uniri, 800329 Galac",
+    "ro": "Bulevardul Marii Uniri, 800329 Galați",
+    "en": "Bulevardul Marii Uniri, 800329 Galați"
+  },
+  "openingHours": {
+    "de": "24/7",
+    "hu": "Non-stop",
+    "ro": "24/7",
+    "en": "24/7"
+  },
+  "entranceFee": {
+    "de": "free",
+    "hu": "ingyenes",
+    "ro": "gratuit",
+    "en": "free"
+  },
   "website": "",
-  "publicTransport": "Buslinien 10, 11, 24 (Halt Faleza)",
-  "parking": "Kostenlose Parkplätze entlang des Boulevards vorhanden.",
-  "accessibility": "Vollständig barrierefrei, breite asphaltierte Wege.",
-  "photoRules": "Erlaubt, Stativnutzung im öffentlichen Raum kein Problem.",
-  "bestTimeToVisit": "Abends zum Sonnenuntergang direkt am Fluss.",
-  "audioGuide": "no"
+  "publicTransport": {
+    "de": "Buslinien 10, 11, 24 (Halt Faleza)",
+    "hu": "10, 11, 24-es busz (Faleza megálló)",
+    "ro": "Liniile de autobuz 10, 11, 24 (stația Faleza)",
+    "en": "Bus lines 10, 11, 24 (Faleza stop)"
+  },
+  "parking": {
+    "de": "Kostenlose Parkplätze entlang des Boulevards vorhanden.",
+    "hu": "Ingyenes parkolás a sugárút mentén.",
+    "ro": "Parcare gratuită disponibilă de-a lungul bulevardului.",
+    "en": "Free parking available along the boulevard."
+  },
+  "accessibility": {
+    "de": "Vollständig barrierefrei, breite asphaltierte Wege.",
+    "hu": "Teljesen akadálymentes, széles aszfaltozott utak.",
+    "ro": "Complet accesibil, drumuri asfaltate late.",
+    "en": "Fully accessible, wide paved paths."
+  },
+  "photoRules": {
+    "de": "Erlaubt, Stativnutzung im öffentlichen Raum kein Problem.",
+    "hu": "Engedélyezett, állvány használata közterületen nem probléma.",
+    "ro": "Permis, utilizarea trepiedului în spațiul public nu este o problemă.",
+    "en": "Allowed, tripod use in public space is not an issue."
+  },
+  "bestTimeToVisit": {
+    "de": "Abends zum Sonnenuntergang direkt am Fluss.",
+    "hu": "Este, napnyugtakor a folyóparton.",
+    "ro": "Seara la apus, direct pe malul fluviului.",
+    "en": "Evenings at sunset directly by the river."
+  },
+  "audioGuide": {
+    "de": "no",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

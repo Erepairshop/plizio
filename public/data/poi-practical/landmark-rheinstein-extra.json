@@ -1,12 +1,57 @@
 {
-  "address": "Burg Rheinstein, 55413 Trechtingshausen",
-  "openingHours": "Mo-Su 10:00-18:00 (Mär-Nov)",
-  "entranceFee": "€6.50 Erwachsene, €5.00 Kinder",
+  "address": {
+    "de": "Burg Rheinstein, 55413 Trechtingshausen",
+    "hu": "Burg Rheinstein, 55413 Trechtingshausen",
+    "ro": "Burg Rheinstein, 55413 Trechtingshausen",
+    "en": "Burg Rheinstein, 55413 Trechtingshausen"
+  },
+  "openingHours": {
+    "de": "Mo-Su 10:00-18:00 (Mär-Nov)",
+    "hu": "Hé-Va 10:00-18:00 (márc.-nov.)",
+    "ro": "Lu-Du 10:00-18:00 (Mar-Noi)",
+    "en": "Mon-Sun 10:00-18:00 (Mar-Nov)"
+  },
+  "entranceFee": {
+    "de": "€6.50 Erwachsene, €5.00 Kinder",
+    "hu": "6,50 € felnőtt, 5,00 € gyerek",
+    "ro": "6,50 € adulți, 5,00 € copii",
+    "en": "€6.50 adults, €5.00 children"
+  },
   "website": "https://www.burg-rheinstein.de",
-  "publicTransport": "Regionalbahn bis Trechtingshausen, dann Fußweg",
-  "parking": "Parkplatz am Fuße des Berges",
-  "accessibility": "Aufgrund der Lage am Hang nicht barrierefrei; viele Treppen",
-  "photoRules": "Privat erlaubt",
-  "bestTimeToVisit": "Herbst für die Färbung des Mittelrheintals",
-  "audioGuide": "no"
+  "publicTransport": {
+    "de": "Regionalbahn bis Trechtingshausen, dann Fußweg",
+    "hu": "Regionális vonat Trechtingshausenig, majd séta",
+    "ro": "Tren regional până la Trechtingshausen, apoi pe jos",
+    "en": "Regional train to Trechtingshausen, then walk"
+  },
+  "parking": {
+    "de": "Parkplatz am Fuße des Berges",
+    "hu": "Parkoló a hegy lábánál",
+    "ro": "Parcare la poalele muntelui",
+    "en": "Parking at the foot of the hill"
+  },
+  "accessibility": {
+    "de": "Aufgrund der Lage am Hang nicht barrierefrei; viele Treppen",
+    "hu": "A hegyoldali fekvés miatt nem akadálymentes; sok lépcső",
+    "ro": "Datorită amplasării pe versant nu este accesibil; multe trepte",
+    "en": "Due to hillside location not accessible; many stairs"
+  },
+  "photoRules": {
+    "de": "Privat erlaubt",
+    "hu": "Magáncélra engedélyezett",
+    "ro": "Permis pentru uz privat",
+    "en": "Allowed for private use"
+  },
+  "bestTimeToVisit": {
+    "de": "Herbst für die Färbung des Mittelrheintals",
+    "hu": "Ősz a Közép-Rajna-völgy őszi színeiért",
+    "ro": "Toamna pentru culorile văii Rinului Mijlociu",
+    "en": "Autumn for the colors of the Middle Rhine Valley"
+  },
+  "audioGuide": {
+    "de": "no",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

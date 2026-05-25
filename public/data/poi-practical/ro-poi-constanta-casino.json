@@ -1,12 +1,57 @@
 {
-  "address": "Bulevardul Elisabeta 2, 900178 Constanța",
-  "openingHours": "Außenbesichtigung 24/7",
-  "entranceFee": "free",
+  "address": {
+    "de": "Bulevardul Elisabeta 2, 900178 Constanța",
+    "hu": "Bulevardul Elisabeta 2, 900178 Konstanca",
+    "ro": "Bulevardul Elisabeta 2, 900178 Constanța",
+    "en": "Bulevardul Elisabeta 2, 900178 Constanța"
+  },
+  "openingHours": {
+    "de": "Außenbesichtigung 24/7",
+    "hu": "Kívülről 0-24 óráig",
+    "ro": "Vizitare exterior 24/7",
+    "en": "Exterior viewing 24/7"
+  },
+  "entranceFee": {
+    "de": "free",
+    "hu": "ingyenes",
+    "ro": "gratuit",
+    "en": "free"
+  },
   "website": "",
-  "publicTransport": "Buslinien 44, 48, 51 bis Poarta 1",
-  "parking": "Parken entlang der Uferpromenade",
-  "accessibility": "Promenade ist vollkommen barrierefrei",
-  "photoRules": "Erlaubt",
-  "bestTimeToVisit": "Sonnenaufgang",
-  "audioGuide": "no"
+  "publicTransport": {
+    "de": "Buslinien 44, 48, 51 bis Poarta 1",
+    "hu": "44, 48, 51-es busz az 1-es kapuig (Poarta 1)",
+    "ro": "Liniile de autobuz 44, 48, 51 până la Poarta 1",
+    "en": "Bus lines 44, 48, 51 to Poarta 1"
+  },
+  "parking": {
+    "de": "Parken entlang der Uferpromenade",
+    "hu": "Parkolás a tengerparti sétány mentén",
+    "ro": "Parcare de-a lungul falezei",
+    "en": "Parking along the waterfront promenade"
+  },
+  "accessibility": {
+    "de": "Promenade ist vollkommen barrierefrei",
+    "hu": "A sétány teljesen akadálymentes",
+    "ro": "Faleza este complet accesibilă",
+    "en": "Promenade is fully accessible"
+  },
+  "photoRules": {
+    "de": "Erlaubt",
+    "hu": "Engedélyezett",
+    "ro": "Permis",
+    "en": "Allowed"
+  },
+  "bestTimeToVisit": {
+    "de": "Sonnenaufgang",
+    "hu": "Napkelte",
+    "ro": "Răsăritul soarelui",
+    "en": "Sunrise"
+  },
+  "audioGuide": {
+    "de": "no",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

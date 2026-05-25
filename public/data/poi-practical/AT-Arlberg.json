@@ -1,12 +1,57 @@
 {
-  "address": "Arlberg Region, 6580 St. Anton am Arlberg, Österreich",
-  "openingHours": "24/7 (Lifte saisonal ca. 08:30-16:00 Uhr)",
-  "entranceFee": "kostenlos (Skipässe ca. €75.00 pro Tag)",
+  "address": {
+    "de": "Arlberg Region, 6580 St. Anton am Arlberg, Österreich",
+    "hu": "Arlberg régió, 6580 St. Anton am Arlberg, Ausztria",
+    "ro": "Regiunea Arlberg, 6580 St. Anton am Arlberg, Austria",
+    "en": "Arlberg Region, 6580 St. Anton am Arlberg, Austria"
+  },
+  "openingHours": {
+    "de": "24/7 (Lifte saisonal ca. 08:30-16:00 Uhr)",
+    "hu": "24/7 (a liftek szezonálisan kb. 08:30-16:00 között)",
+    "ro": "24/7 (lifturi sezonier aprox. 08:30-16:00)",
+    "en": "24/7 (lifts operate seasonally approx. 08:30 AM - 4:00 PM)"
+  },
+  "entranceFee": {
+    "de": "kostenlos (Skipässe ca. €75.00 pro Tag)",
+    "hu": "ingyenes (síbérlet kb. 75,00 € naponta)",
+    "ro": "gratuit (skipass aprox. 75,00 € pe zi)",
+    "en": "free (ski passes approx. €75.00 per day)"
+  },
   "website": "https://www.arlberg.net/",
-  "publicTransport": "Bahnhof St. Anton am Arlberg (Direktzüge ab Wien/Zürich)",
-  "parking": "Parkhäuser in St. Anton und Parkplätze in Lech/Zürs",
-  "accessibility": "Moderne Bergbahnen barrierefrei, Wanderwege oft alpin",
-  "photoRules": "Überall erlaubt",
-  "bestTimeToVisit": "Januar für Wintersport, August für Wanderungen",
-  "audioGuide": "Nein"
+  "publicTransport": {
+    "de": "Bahnhof St. Anton am Arlberg (Direktzüge ab Wien/Zürich)",
+    "hu": "St. Anton am Arlberg vasútállomás (közvetlen vonatok Bécsből/Zürichből)",
+    "ro": "Gara St. Anton am Arlberg (trenuri directe din Viena/Zürich)",
+    "en": "St. Anton am Arlberg train station (direct trains from Vienna/Zurich)"
+  },
+  "parking": {
+    "de": "Parkhäuser in St. Anton und Parkplätze in Lech/Zürs",
+    "hu": "Parkolóházak St. Antonban és parkolók Lech/Zürs területén",
+    "ro": "Parcări în St. Anton și locuri de parcare în Lech/Zürs",
+    "en": "Parking garages in St. Anton and parking lots in Lech/Zürs"
+  },
+  "accessibility": {
+    "de": "Moderne Bergbahnen barrierefrei, Wanderwege oft alpin",
+    "hu": "A modern felvonók akadálymentesek, a túraútvonalak gyakran alpesi nehézségűek",
+    "ro": "Telecabinele moderne sunt accesibile, traseele de drumeție sunt adesea alpine",
+    "en": "Modern mountain railways are accessible, hiking trails are often alpine"
+  },
+  "photoRules": {
+    "de": "Überall erlaubt",
+    "hu": "Mindenhol engedélyezett",
+    "ro": "Permis peste tot",
+    "en": "Allowed everywhere"
+  },
+  "bestTimeToVisit": {
+    "de": "Januar für Wintersport, August für Wanderungen",
+    "hu": "Január a téli sportokhoz, augusztus a túrázáshoz",
+    "ro": "Ianuarie pentru sporturi de iarnă, august pentru drumeții",
+    "en": "January for winter sports, August for hiking"
+  },
+  "audioGuide": {
+    "de": "Nein",
+    "hu": "Nem elérhető",
+    "ro": "Nu",
+    "en": "No"
+  }
 }

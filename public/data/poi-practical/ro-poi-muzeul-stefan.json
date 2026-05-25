@@ -1,12 +1,57 @@
 {
-  "address": "Strada Ștefan cel Mare 191, 730169 Vaslui",
-  "openingHours": "Di-So 09:00-17:00, Mo geschlossen",
-  "entranceFee": "8 RON Erwachsene, 2 RON Schüler",
+  "address": {
+    "de": "Strada Ștefan cel Mare 191, 730169 Vaslui",
+    "hu": "Strada Ștefan cel Mare 191, 730169 Vaslui",
+    "ro": "Strada Ștefan cel Mare 191, 730169 Vaslui",
+    "en": "Strada Ștefan cel Mare 191, 730169 Vaslui"
+  },
+  "openingHours": {
+    "de": "Di-So 09:00-17:00, Mo geschlossen",
+    "hu": "Kedd-vasárnap 09:00-17:00, hétfőn zárva",
+    "ro": "Marți-Duminică 09:00-17:00, luni închis",
+    "en": "Tue-Sun 09:00-17:00, Mon closed"
+  },
+  "entranceFee": {
+    "de": "8 RON Erwachsene, 2 RON Schüler",
+    "hu": "8 RON felnőtteknek, 2 RON diákoknak",
+    "ro": "8 RON adulți, 2 RON elevi",
+    "en": "8 RON adults, 2 RON students"
+  },
   "website": "http://www.muzeuvaslui.ro/",
-  "publicTransport": "Zentrale Lage, gut zu Fuß erreichbar.",
-  "parking": "Parkplatz am Kulturhaus in der Nähe vorhanden.",
-  "accessibility": "Teilweise barrierefrei, Aufzug vorhanden.",
-  "photoRules": "Erlaubt, Blitzlicht untersagt.",
-  "bestTimeToVisit": "Vormittags für ruhige Besichtigung.",
-  "audioGuide": "no"
+  "publicTransport": {
+    "de": "Zentrale Lage, gut zu Fuß erreichbar.",
+    "hu": "Központi fekvés, gyalogosan könnyen megközelíthető.",
+    "ro": "Locație centrală, ușor accesibil pe jos.",
+    "en": "Central location, easily accessible on foot."
+  },
+  "parking": {
+    "de": "Parkplatz am Kulturhaus in der Nähe vorhanden.",
+    "hu": "Parkolási lehetőség a közelben, a Művelődési Háznál.",
+    "ro": "Parcare disponibilă în apropiere, la Casa de Cultură.",
+    "en": "Parking available nearby at the Cultural House."
+  },
+  "accessibility": {
+    "de": "Teilweise barrierefrei, Aufzug vorhanden.",
+    "hu": "Részben akadálymentes, lift van.",
+    "ro": "Parțial accesibil, lift disponibil.",
+    "en": "Partially accessible, elevator available."
+  },
+  "photoRules": {
+    "de": "Erlaubt, Blitzlicht untersagt.",
+    "hu": "Engedélyezett, vaku használata tilos.",
+    "ro": "Permis, blițul interzis.",
+    "en": "Permitted, flash prohibited."
+  },
+  "bestTimeToVisit": {
+    "de": "Vormittags für ruhige Besichtigung.",
+    "hu": "Délelőtt a nyugodt megtekintéshez.",
+    "ro": "Dimineața pentru o vizită liniștită.",
+    "en": "Mornings for a quiet visit."
+  },
+  "audioGuide": {
+    "de": "no",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

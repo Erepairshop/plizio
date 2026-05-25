@@ -1,12 +1,57 @@
 {
-  "address": "Schloßplatz 2, 2120 Wolkersdorf im Weinviertel, Österreich",
-  "openingHours": "Di-Fr 09:00-12:00, Do 14:00-18:00 (bei Veranstaltungen abweichend)",
-  "entranceFee": "Eintritt meist frei, Sonderausstellungen kostenpflichtig",
+  "address": {
+    "de": "Schloßplatz 2, 2120 Wolkersdorf im Weinviertel, Österreich",
+    "hu": "Schloßplatz 2, 2120 Wolkersdorf im Weinviertel, Ausztria",
+    "ro": "Schloßplatz 2, 2120 Wolkersdorf im Weinviertel, Austria",
+    "en": "Schloßplatz 2, 2120 Wolkersdorf im Weinviertel, Austria"
+  },
+  "openingHours": {
+    "de": "Di-Fr 09:00-12:00, Do 14:00-18:00 (bei Veranstaltungen abweichend)",
+    "hu": "Ke-Pé 09:00-12:00, Csü 14:00-18:00 (rendezvények esetén eltérő)",
+    "ro": "Mar-Vin 09:00-12:00, Joi 14:00-18:00 (poate varia la evenimente)",
+    "en": "Tue-Fri 09:00-12:00, Thu 14:00-18:00 (may vary during events)"
+  },
+  "entranceFee": {
+    "de": "Eintritt meist frei, Sonderausstellungen kostenpflichtig",
+    "hu": "A belépés többnyire ingyenes, az időszaki kiállítások fizetősek",
+    "ro": "Intrare de obicei liberă, expozițiile speciale sunt cu plată",
+    "en": "Entrance usually free, special exhibitions require a fee"
+  },
   "website": "https://www.wolkersdorf.at/Schloss_Wolkersdorf",
-  "publicTransport": "S-Bahn S2 bis Haltestelle Wolkersdorf",
-  "parking": "Parkplatz direkt vor dem Schloss (Kurzparkzone)",
-  "accessibility": "Vollständig barrierefrei über Rampe und Aufzug erschlossen",
-  "photoRules": "Allgemein erlaubt",
-  "bestTimeToVisit": "Während kultureller Veranstaltungen am frühen Abend",
-  "audioGuide": "nein"
+  "publicTransport": {
+    "de": "S-Bahn S2 bis Haltestelle Wolkersdorf",
+    "hu": "S2-es S-Bahn Wolkersdorf megállóig",
+    "ro": "Trenul S-Bahn S2 până la stația Wolkersdorf",
+    "en": "S-Bahn S2 to Wolkersdorf station"
+  },
+  "parking": {
+    "de": "Parkplatz direkt vor dem Schloss (Kurzparkzone)",
+    "hu": "Parkoló közvetlenül a kastély előtt (rövid távú parkolási övezet)",
+    "ro": "Parcare chiar în fața castelului (zonă cu parcare limitată)",
+    "en": "Parking directly in front of the castle (short-term parking zone)"
+  },
+  "accessibility": {
+    "de": "Vollständig barrierefrei über Rampe und Aufzug erschlossen",
+    "hu": "Rámpán és liften keresztül teljes mértékben akadálymentesített",
+    "ro": "Complet accesibil prin rampă și lift",
+    "en": "Fully accessible via ramp and lift"
+  },
+  "photoRules": {
+    "de": "Allgemein erlaubt",
+    "hu": "Általánosan megengedett",
+    "ro": "Permis în general",
+    "en": "Generally permitted"
+  },
+  "bestTimeToVisit": {
+    "de": "Während kultureller Veranstaltungen am frühen Abend",
+    "hu": "Kora este a kulturális rendezvények idején",
+    "ro": "În timpul evenimentelor culturale, seara devreme",
+    "en": "During cultural events in the early evening"
+  },
+  "audioGuide": {
+    "de": "nein",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

@@ -1,12 +1,57 @@
 {
-  "address": "Schlossgasse 30, 5245 Habsburg",
-  "openingHours": "Täglich 10:00-17:00 (während der Museumssaison)",
-  "entranceFee": "free",
+  "address": {
+    "de": "Schlossgasse 30, 5245 Habsburg",
+    "hu": "Schlossgasse 30, 5245 Habsburg",
+    "ro": "Schlossgasse 30, 5245 Habsburg",
+    "en": "Schlossgasse 30, 5245 Habsburg"
+  },
+  "openingHours": {
+    "de": "Täglich 10:00-17:00 (während der Museumssaison)",
+    "hu": "Naponta 10:00-17:00 (a múzeumi szezon alatt)",
+    "ro": "Zilnic 10:00-17:00 (în timpul sezonului muzeal)",
+    "en": "Daily 10:00-17:00 (during the museum season)"
+  },
+  "entranceFee": {
+    "de": "free",
+    "hu": "ingyenes",
+    "ro": "gratuit",
+    "en": "free"
+  },
   "website": "https://www.museumaargau.ch",
-  "publicTransport": "Bus ab Brugg AG, Station Habsburg Dorf.",
-  "parking": "Kiesparkplatz am Waldrand kurz vor der Burg.",
-  "accessibility": "Historischer Wehrturm, kein Lift vorhanden.",
-  "photoRules": "Erlaubt; Stativnutzung auf der engen Plattform schwierig.",
-  "bestTimeToVisit": "Herbstmorgen, wenn der Nebel über dem Aaretal liegt.",
-  "audioGuide": "no"
+  "publicTransport": {
+    "de": "Bus ab Brugg AG, Station Habsburg Dorf.",
+    "hu": "Busz Brugg AG-tól, Habsburg Dorf állomás.",
+    "ro": "Autobuz din Brugg AG, stația Habsburg Dorf.",
+    "en": "Bus from Brugg AG, Habsburg Dorf station."
+  },
+  "parking": {
+    "de": "Kiesparkplatz am Waldrand kurz vor der Burg.",
+    "hu": "Kavicsos parkoló az erdőszélen, röviddel a vár előtt.",
+    "ro": "Parcare cu pietriș la marginea pădurii, chiar înainte de castel.",
+    "en": "Gravel parking at the forest edge shortly before the castle."
+  },
+  "accessibility": {
+    "de": "Historischer Wehrturm, kein Lift vorhanden.",
+    "hu": "Történelmi őrtorony, lift nincs.",
+    "ro": "Turn de apărare istoric, nu există lift.",
+    "en": "Historical defensive tower, no elevator available."
+  },
+  "photoRules": {
+    "de": "Erlaubt; Stativnutzung auf der engen Plattform schwierig.",
+    "hu": "Engedélyezett; állvány használata a szűk platformon nehéz.",
+    "ro": "Permis; utilizarea trepiedului pe platforma îngustă este dificilă.",
+    "en": "Allowed; tripod use on the narrow platform difficult."
+  },
+  "bestTimeToVisit": {
+    "de": "Herbstmorgen, wenn der Nebel über dem Aaretal liegt.",
+    "hu": "Őszi reggel, amikor a köd az Aare-völgy felett fekszik.",
+    "ro": "Dimineața de toamnă, când ceața acoperă valea râului Aare.",
+    "en": "Autumn morning when the fog lies over the Aare valley."
+  },
+  "audioGuide": {
+    "de": "no",
+    "hu": "nem",
+    "ro": "nu",
+    "en": "no"
+  }
 }

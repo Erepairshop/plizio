@@ -1,12 +1,57 @@
 {
-  "address": "Mirabellplatz 4, 5020 Salzburg",
-  "openingHours": "Mo-Su 08:00-18:00",
-  "entranceFee": "free",
+  "address": {
+    "de": "Mirabellplatz 4, 5020 Salzburg",
+    "hu": "Mirabellplatz 4, 5020 Salzburg",
+    "ro": "Mirabellplatz 4, 5020 Salzburg",
+    "en": "Mirabellplatz 4, 5020 Salzburg"
+  },
+  "openingHours": {
+    "de": "Mo-Su 08:00-18:00",
+    "hu": "H-V 08:00-18:00",
+    "ro": "Lu-Du 08:00-18:00",
+    "en": "Mon-Sun 8:00 AM - 6:00 PM"
+  },
+  "entranceFee": {
+    "de": "free",
+    "hu": "ingyenes",
+    "ro": "gratuit",
+    "en": "free"
+  },
   "website": "https://www.salzburg.info",
-  "publicTransport": "Bus 1, 2, 3, 5, 6 bis Haltestelle Mirabellplatz",
-  "parking": "Contipark Tiefgarage Mirabell-Congress direkt gegenüber vom Eingang.",
-  "accessibility": "Die Gartenanlagen sind eben und für Rollstühle vollständig befahrbar.",
-  "photoRules": "Fotografieren im Garten uneingeschränkt erlaubt, sehr beliebtes Fotomotiv.",
-  "bestTimeToVisit": "Früh am Morgen für weiches Licht am Pegasus-Brunnen und weniger Touristen.",
-  "audioGuide": "no"
+  "publicTransport": {
+    "de": "Bus 1, 2, 3, 5, 6 bis Haltestelle Mirabellplatz",
+    "hu": "1, 2, 3, 5, 6-os busz Mirabellplatz megállóig",
+    "ro": "Autobuz 1, 2, 3, 5, 6 până la stația Mirabellplatz",
+    "en": "Bus 1, 2, 3, 5, 6 to Mirabellplatz stop"
+  },
+  "parking": {
+    "de": "Contipark Tiefgarage Mirabell-Congress direkt gegenüber vom Eingang.",
+    "hu": "Contipark Mirabell-Congress mélygarázs közvetlenül a bejárattal szemben.",
+    "ro": "Parcarea subterană Contipark Mirabell-Congress direct vizavi de intrare.",
+    "en": "Contipark Mirabell-Congress underground garage directly opposite the entrance."
+  },
+  "accessibility": {
+    "de": "Die Gartenanlagen sind eben und für Rollstühle vollständig befahrbar.",
+    "hu": "A kertek sík területen fekszenek, kerekesszékkel teljesen bejárhatók.",
+    "ro": "Grădinile sunt plane și complet accesibile pentru scaunele cu rotile.",
+    "en": "The gardens are level and fully accessible for wheelchairs."
+  },
+  "photoRules": {
+    "de": "Fotografieren im Garten uneingeschränkt erlaubt, sehr beliebtes Fotomotiv.",
+    "hu": "A kertben korlátozás nélkül szabad fotózni, nagyon népszerű fotótéma.",
+    "ro": "Fotografierea în grădină este permisă fără restricții, un motiv fotografic foarte popular.",
+    "en": "Photography in the garden allowed without restrictions; a very popular photo spot."
+  },
+  "bestTimeToVisit": {
+    "de": "Früh am Morgen für weiches Licht am Pegasus-Brunnen und weniger Touristen.",
+    "hu": "Kora reggel a lágy fényekért a Pegazus-kútnál és a kevesebb turista miatt.",
+    "ro": "Dimineața devreme pentru lumina caldă la fântâna Pegasus și mai puțini turiști.",
+    "en": "Early morning for soft light at the Pegasus Fountain and fewer tourists."
+  },
+  "audioGuide": {
+    "de": "no",
+    "hu": "nem elérhető",
+    "ro": "nu",
+    "en": "no"
+  }
 }

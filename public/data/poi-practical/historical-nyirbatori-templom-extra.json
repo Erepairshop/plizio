@@ -1,12 +1,57 @@
 {
-  "address": "Egyház u. 1., 4300 Nyírbátor",
-  "openingHours": "Mo-Sa 09:00-17:00, Su 11:00-17:00",
-  "entranceFee": "1200 HUF Erwachsene, 800 HUF Kinder",
+  "address": {
+    "de": "Egyház u. 1., 4300 Nyírbátor",
+    "hu": "Egyház u. 1., 4300 Nyírbátor",
+    "ro": "Egyház u. 1., 4300 Nyírbátor",
+    "en": "Egyház u. 1., 4300 Nyírbátor"
+  },
+  "openingHours": {
+    "de": "Mo-Sa 09:00-17:00, Su 11:00-17:00",
+    "hu": "Hétfő-szombat 09:00-17:00, vasárnap 11:00-17:00",
+    "ro": "Luni-sâmbătă 09:00-17:00, duminică 11:00-17:00",
+    "en": "Mon-Sat 09:00-17:00, Sun 11:00-17:00"
+  },
+  "entranceFee": {
+    "de": "1200 HUF Erwachsene, 800 HUF Kinder",
+    "hu": "1200 HUF felnőtt, 800 HUF gyermek",
+    "ro": "1200 HUF adulți, 800 HUF copii",
+    "en": "1200 HUF adults, 800 HUF children"
+  },
   "website": "https://nyirbatorireformatus.hu/",
-  "publicTransport": "Bahnhof Nyírbátor ist etwa 10 Gehminuten von der Kirche entfernt.",
-  "parking": "Kostenlose Parkmöglichkeiten in den Seitenstraßen rund um den Kirchenhügel.",
-  "accessibility": "Zugang zur Kirche ist über Rampen für Rollstuhlfahrer möglich.",
-  "photoRules": "Fotografieren der gotischen Netzgewölbe ohne Blitzlicht gestattet.",
-  "bestTimeToVisit": "Sonntagmittag direkt nach dem Gottesdienst für die beste Atmosphäre.",
-  "audioGuide": "HU, DE, EN"
+  "publicTransport": {
+    "de": "Bahnhof Nyírbátor ist etwa 10 Gehminuten von der Kirche entfernt.",
+    "hu": "A nyírbátori vasútállomás kb. 10 perces sétára van a templomtól.",
+    "ro": "Gara Nyírbátor este la aproximativ 10 minute de mers pe jos de biserică.",
+    "en": "Nyírbátor train station is about a 10-minute walk from the church."
+  },
+  "parking": {
+    "de": "Kostenlose Parkmöglichkeiten in den Seitenstraßen rund um den Kirchenhügel.",
+    "hu": "Ingyenes parkolási lehetőség a templomdomb körüli mellékutcákban.",
+    "ro": "Parcare gratuită pe străzile laterale din jurul dealului bisericii.",
+    "en": "Free parking available in the side streets around the church hill."
+  },
+  "accessibility": {
+    "de": "Zugang zur Kirche ist über Rampen für Rollstuhlfahrer möglich.",
+    "hu": "A templom megközelítése rámpákon keresztül kerekesszékkel is lehetséges.",
+    "ro": "Accesul în biserică este posibil prin rampe pentru persoanele în scaun cu rotile.",
+    "en": "Access to the church is possible via ramps for wheelchair users."
+  },
+  "photoRules": {
+    "de": "Fotografieren der gotischen Netzgewölbe ohne Blitzlicht gestattet.",
+    "hu": "A gótikus hálóboltozatok vaku nélküli fényképezése engedélyezett.",
+    "ro": "Fotografierea bolților gotice fără bliț este permisă.",
+    "en": "Photography of the gothic net vaults without flash is permitted."
+  },
+  "bestTimeToVisit": {
+    "de": "Sonntagmittag direkt nach dem Gottesdienst für die beste Atmosphäre.",
+    "hu": "Vasárnap délben, közvetlenül az istentisztelet után a legjobb a hangulat.",
+    "ro": "Duminică la prânz, imediat după slujbă, pentru cea mai bună atmosferă.",
+    "en": "Sunday noon directly after the service for the best atmosphere."
+  },
+  "audioGuide": {
+    "de": "HU, DE, EN",
+    "hu": "HU, DE, EN",
+    "ro": "HU, DE, EN",
+    "en": "HU, DE, EN"
+  }
 }

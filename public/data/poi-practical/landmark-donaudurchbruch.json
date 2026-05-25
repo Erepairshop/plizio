@@ -1,12 +1,57 @@
 {
-  "address": "Weltenburger Straße, 93310 Kelheim",
-  "openingHours": "24/7",
-  "entranceFee": "kostenlos, Schifffahrt ca. 14,00 € (Hin- und Rückfahrt)",
+  "address": {
+    "de": "Weltenburger Straße, 93310 Kelheim",
+    "hu": "Weltenburger Straße, 93310 Kelheim",
+    "ro": "Weltenburger Straße, 93310 Kelheim",
+    "en": "Weltenburger Straße, 93310 Kelheim"
+  },
+  "openingHours": {
+    "de": "24/7",
+    "hu": "24/7",
+    "ro": "24/7",
+    "en": "24/7"
+  },
+  "entranceFee": {
+    "de": "kostenlos, Schifffahrt ca. 14,00 € (Hin- und Rückfahrt)",
+    "hu": "ingyenes, hajózás kb. 14,00 € (oda-vissza)",
+    "ro": "gratuit, croazieră aprox. 14,00 € (dus-întors)",
+    "en": "free, boat trip approx. €14.00 (round trip)"
+  },
   "website": "https://www.schifffahrt-kelheim.de",
-  "publicTransport": "Bus 6022 ab Regensburg bis Kelheim, dann Schiff oder Wanderweg",
-  "parking": "Großparkplatz P3 am Schiffsanleger Kelheim, ca. 5,00 € Tagesticket",
-  "accessibility": "Die Ausflugsschiffe sind barrierefrei, die Waldwanderwege teilweise sehr steil",
-  "photoRules": "Landschaftsaufnahmen unbegrenzt erlaubt, Stative auf den Schiffen oft schwierig",
-  "bestTimeToVisit": "In der Nebensaison (Mai/September) unter der Woche, um den Touristenmassen zu entgehen",
-  "audioGuide": "nein"
+  "publicTransport": {
+    "de": "Bus 6022 ab Regensburg bis Kelheim, dann Schiff oder Wanderweg",
+    "hu": "6022-es busz Regensburgból Kelheimbe, majd hajó vagy túraútvonal",
+    "ro": "Autobuz 6022 din Regensburg până la Kelheim, apoi barcă sau traseu de drumeție",
+    "en": "Bus 6022 from Regensburg to Kelheim, then boat or hiking trail"
+  },
+  "parking": {
+    "de": "Großparkplatz P3 am Schiffsanleger Kelheim, ca. 5,00 € Tagesticket",
+    "hu": "P3 nagy parkoló a kelheimi hajókikötőnél, kb. 5,00 € napijegy",
+    "ro": "Parcare mare P3 la debarcaderul Kelheim, bilet de zi aprox. 5,00 €",
+    "en": "Large parking lot P3 at Kelheim boat pier, approx. €5.00 day ticket"
+  },
+  "accessibility": {
+    "de": "Die Ausflugsschiffe sind barrierefrei, die Waldwanderwege teilweise sehr steil",
+    "hu": "A kirándulóhajók akadálymentesek, az erdei utak néhol nagyon meredekek",
+    "ro": "Navele de croazieră sunt accesibile, traseele forestiere sunt parțial foarte abrupte",
+    "en": "Excursion boats are accessible, forest hiking trails are partly very steep"
+  },
+  "photoRules": {
+    "de": "Landschaftsaufnahmen unbegrenzt erlaubt, Stative auf den Schiffen oft schwierig",
+    "hu": "Tájfotózás korlátlanul engedélyezett, állvány használata a hajókon gyakran nehézkes",
+    "ro": "Fotografierea peisajelor permisă nelimitat, utilizarea trepiedelor pe nave este adesea dificilă",
+    "en": "Landscape photography allowed without limits, tripods often difficult on boats"
+  },
+  "bestTimeToVisit": {
+    "de": "In der Nebensaison (Mai/September) unter der Woche, um den Touristenmassen zu entgehen",
+    "hu": "Előszezonban (május/szeptember) hétköznap, hogy elkerüld a turistatömeget",
+    "ro": "În afara sezonului (mai/septembrie) în timpul săptămânii, pentru a evita masele de turiști",
+    "en": "Off-season (May/September) during the week to avoid tourist crowds"
+  },
+  "audioGuide": {
+    "de": "nein",
+    "hu": "nem",
+    "ro": "nu",
+    "en": "no"
+  }
 }

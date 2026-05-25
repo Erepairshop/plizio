@@ -1,12 +1,57 @@
 {
-  "address": "Schlosshof 1, 69117 Heidelberg",
-  "openingHours": "Mo-Su 09:00-18:00 (Innenhof & Fasskeller)",
-  "entranceFee": "9,00 € (inkl. Bergbahn und Fasskeller)",
+  "address": {
+    "de": "Schlosshof 1, 69117 Heidelberg",
+    "hu": "Schlosshof 1, 69117 Heidelberg",
+    "ro": "Schlosshof 1, 69117 Heidelberg",
+    "en": "Schlosshof 1, 69117 Heidelberg"
+  },
+  "openingHours": {
+    "de": "Mo-Su 09:00-18:00 (Innenhof & Fasskeller)",
+    "hu": "H-V 09:00-18:00 (belső udvar és hordópince)",
+    "ro": "Lu-Du 09:00-18:00 (curtea interioară și pivnița cu butoaie)",
+    "en": "Mon-Sun 09:00-18:00 (inner courtyard & tun cellar)"
+  },
+  "entranceFee": {
+    "de": "9,00 € (inkl. Bergbahn und Fasskeller)",
+    "hu": "9,00 € (tartalmazza a siklót és a hordópincét is)",
+    "ro": "9,00 € (incl. funicularul și pivnița cu butoaie)",
+    "en": "9.00 € (incl. funicular and tun cellar)"
+  },
   "website": "https://www.schloss-heidelberg.de",
-  "publicTransport": "Bus 33 bis Haltestelle Bergbahn (Rathaus/Bergbahn)",
-  "parking": "Parkhaus P12 am Kornmarkt (teuer); besser Bergbahn nutzen.",
-  "accessibility": "Schlosshof und Altan barrierefrei; Innenräume nur im Rahmen von Führungen (viele Stufen).",
-  "photoRules": "Im Außenbereich erlaubt; in Innenräumen bei Führungen generell untersagt.",
-  "bestTimeToVisit": "Später Nachmittag für die 'Goldene Stunde' mit Blick über Neckar und Altstadt.",
-  "audioGuide": "Ja (DE, EN, FR, ES, IT, JP, CN, KR)"
+  "publicTransport": {
+    "de": "Bus 33 bis Haltestelle Bergbahn (Rathaus/Bergbahn)",
+    "hu": "33-as busz a Bergbahn (Rathaus/Bergbahn) megállóig",
+    "ro": "Autobuzul 33 până la stația Bergbahn (Rathaus/Bergbahn)",
+    "en": "Bus 33 to Bergbahn (Rathaus/Bergbahn) stop"
+  },
+  "parking": {
+    "de": "Parkhaus P12 am Kornmarkt (teuer); besser Bergbahn nutzen.",
+    "hu": "P12 parkolóház a Kornmarktnál (drága); érdemesebb a siklót választani.",
+    "ro": "Parcarea P12 la Kornmarkt (scumpă); mai bine folosiți funicularul.",
+    "en": "P12 parking garage at Kornmarkt (expensive); better to use the funicular."
+  },
+  "accessibility": {
+    "de": "Schlosshof und Altan barrierefrei; Innenräume nur im Rahmen von Führungen (viele Stufen).",
+    "hu": "A várudvar és az Altan akadálymentes; a belső terek csak vezetés keretében látogathatók (sok lépcső).",
+    "ro": "Curtea castelului și terasa Altan sunt accesibile; interioarele doar cu tur ghidat (multe trepte).",
+    "en": "Courtyard and Altan are accessible; interiors only via guided tours (many steps)."
+  },
+  "photoRules": {
+    "de": "Im Außenbereich erlaubt; in Innenräumen bei Führungen generell untersagt.",
+    "hu": "Kültéren engedélyezett; a belső terekben a vezetett túrák alatt általában tilos.",
+    "ro": "Permis în exterior; în general interzis în interior în timpul tururilor.",
+    "en": "Allowed outside; generally prohibited in interior rooms during tours."
+  },
+  "bestTimeToVisit": {
+    "de": "Später Nachmittag für die 'Goldene Stunde' mit Blick über Neckar und Altstadt.",
+    "hu": "Késő délután az 'aranyóra' idején, a Neckarra és az óvárosra nyíló kilátás miatt.",
+    "ro": "După-amiaza târziu pentru 'ora de aur' cu vedere peste Neckar și orașul vechi.",
+    "en": "Late afternoon for the 'Golden Hour' with views over the Neckar and old town."
+  },
+  "audioGuide": {
+    "de": "Ja (DE, EN, FR, ES, IT, JP, CN, KR)",
+    "hu": "Igen (német, angol, francia, spanyol, olasz, japán, kínai, koreai)",
+    "ro": "Da (DE, EN, FR, ES, IT, JP, CN, KR)",
+    "en": "Yes (DE, EN, FR, ES, IT, JP, CN, KR)"
+  }
 }

@@ -1,12 +1,57 @@
 {
-  "address": "6 Parvis Notre-Dame - Pl. Jean-Paul II, 75004 Paris",
-  "openingHours": "Vorplatz 24/7; Krypta Di-So 10:00-18:00",
-  "entranceFee": "Archäologische Krypta €9; Kathedrale (nach Bau) kostenlos",
+  "address": {
+    "de": "6 Parvis Notre-Dame - Pl. Jean-Paul II, 75004 Paris",
+    "hu": "6 Parvis Notre-Dame - Pl. Jean-Paul II, 75004 Párizs",
+    "ro": "6 Parvis Notre-Dame - Pl. Jean-Paul II, 75004 Paris",
+    "en": "6 Parvis Notre-Dame - Pl. Jean-Paul II, 75004 Paris"
+  },
+  "openingHours": {
+    "de": "Vorplatz 24/7; Krypta Di-So 10:00-18:00",
+    "hu": "Előtér 24/7; kripta K-V 10:00-18:00",
+    "ro": "Piațetă 24/7; criptă Ma-Du 10:00-18:00",
+    "en": "Forecourt 24/7; crypt Tue-Sun 10:00-18:00"
+  },
+  "entranceFee": {
+    "de": "Archäologische Krypta €9; Kathedrale (nach Bau) kostenlos",
+    "hu": "Régészeti kripta €9; katedrális (építkezés után) ingyenes",
+    "ro": "Cripta arheologică €9; catedrala (după construcție) gratuită",
+    "en": "Archaeological crypt €9; cathedral (after construction) free"
+  },
   "website": "https://www.notredamedeparis.fr",
-  "publicTransport": "Metro Station 'Cité' (Linie 4)",
-  "parking": "Untergrundparkhaus 'Cité' am Place Jean-Paul II",
-  "accessibility": "Rampe am Haupteingang vorhanden; Türme nicht barrierefrei",
-  "photoRules": "Ohne Blitz gestattet; während Gottesdiensten eingeschränkt",
-  "bestTimeToVisit": "Sonntagmorgen zur Orgelmusik (nach Bauabschluss)",
-  "audioGuide": "Ja, in mehreren Sprachen verfügbar"
+  "publicTransport": {
+    "de": "Metro Station 'Cité' (Linie 4)",
+    "hu": "Metro 'Cité' állomás (4-es vonal)",
+    "ro": "Stația de metrou 'Cité' (linia 4)",
+    "en": "Metro station 'Cité' (line 4)"
+  },
+  "parking": {
+    "de": "Untergrundparkhaus 'Cité' am Place Jean-Paul II",
+    "hu": "Mélygarázs 'Cité' a Place Jean-Paul II-n",
+    "ro": "Parcare subterană 'Cité' în Place Jean-Paul II",
+    "en": "Underground parking 'Cité' at Place Jean-Paul II"
+  },
+  "accessibility": {
+    "de": "Rampe am Haupteingang vorhanden; Türme nicht barrierefrei",
+    "hu": "Rámpa a főbejáratnál; tornyok nem akadálymentesek",
+    "ro": "Rampă la intrarea principală; turnurile nu sunt accesibile",
+    "en": "Ramp at the main entrance available; towers not accessible"
+  },
+  "photoRules": {
+    "de": "Ohne Blitz gestattet; während Gottesdiensten eingeschränkt",
+    "hu": "Vaku nélkül megengedett; istentiszteletek alatt korlátozott",
+    "ro": "Permis fără bliț; restricționat în timpul slujbelor",
+    "en": "Allowed without flash; restricted during services"
+  },
+  "bestTimeToVisit": {
+    "de": "Sonntagmorgens zur Orgelmusik (nach Bauabschluss)",
+    "hu": "Vasárnap reggel az orgonazene idején (építkezés után)",
+    "ro": "Duminică dimineața pentru muzică de orgă (după finalizarea construcției)",
+    "en": "Sunday mornings for organ music (after construction concludes)"
+  },
+  "audioGuide": {
+    "de": "Ja, in mehreren Sprachen verfügbar",
+    "hu": "Igen, több nyelven elérhető",
+    "ro": "Da, disponibil în mai multe limbi",
+    "en": "Yes, available in multiple languages"
+  }
 }

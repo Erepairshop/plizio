@@ -1,12 +1,57 @@
 {
-  "address": "Am Lustgarten, 10178 Berlin",
-  "openingHours": "24/7 (Zugang zur Insel)",
-  "entranceFee": "free",
+  "address": {
+    "de": "Am Lustgarten, 10178 Berlin",
+    "hu": "Am Lustgarten, 10178 Berlin",
+    "ro": "Am Lustgarten, 10178 Berlin",
+    "en": "Am Lustgarten, 10178 Berlin"
+  },
+  "openingHours": {
+    "de": "24/7 (Zugang zur Insel)",
+    "hu": "0-24 órában (hozzáférés a szigethez)",
+    "ro": "Non-stop (acces la insulă)",
+    "en": "24/7 (access to the island)"
+  },
+  "entranceFee": {
+    "de": "free",
+    "hu": "ingyenes",
+    "ro": "gratuit",
+    "en": "free"
+  },
   "website": "https://www.visitberlin.de",
-  "publicTransport": "Tram M1, 12 bis Am Kupfergraben",
-  "parking": "Keine direkten Parkplätze, Park & Ride empfohlen",
-  "accessibility": "Brücken und Wege sind barrierefrei gestaltet",
-  "photoRules": "Außenaufnahmen der Architektur jederzeit erlaubt",
-  "bestTimeToVisit": "Abends, wenn die Fassaden der Museen beleuchtet sind",
-  "audioGuide": "no"
+  "publicTransport": {
+    "de": "Tram M1, 12 bis Am Kupfergraben",
+    "hu": "M1, 12-es villamos az Am Kupfergrabenig",
+    "ro": "Tramvaiele M1, 12 până la Am Kupfergraben",
+    "en": "Trams M1, 12 to Am Kupfergraben"
+  },
+  "parking": {
+    "de": "Keine direkten Parkplätze, Park & Ride empfohlen",
+    "hu": "Nincsenek közvetlen parkolóhelyek, P+R ajánlott",
+    "ro": "Fără locuri de parcare directe, se recomandă Park & Ride",
+    "en": "No direct parking, Park & Ride recommended"
+  },
+  "accessibility": {
+    "de": "Brücken und Wege sind barrierefrei gestaltet",
+    "hu": "A hidak és utak akadálymentesen lettek kialakítva",
+    "ro": "Podurile și aleile sunt amenajate fără bariere",
+    "en": "Bridges and paths are designed to be barrier-free"
+  },
+  "photoRules": {
+    "de": "Außenaufnahmen der Architektur jederzeit erlaubt",
+    "hu": "Az építészetről készült külső felvételek bármikor megengedettek",
+    "ro": "Fotografierea exterioară a arhitecturii este permisă oricând",
+    "en": "Exterior shots of the architecture allowed anytime"
+  },
+  "bestTimeToVisit": {
+    "de": "Abends, wenn die Fassaden der Museen beleuchtet sind",
+    "hu": "Este, amikor a múzeumok homlokzatai kivilágítva látszanak",
+    "ro": "Seara, când fațadele muzeelor sunt luminate",
+    "en": "Evenings when the museum facades are illuminated"
+  },
+  "audioGuide": {
+    "de": "no",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

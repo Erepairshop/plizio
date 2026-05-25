@@ -1,12 +1,57 @@
 {
-  "address": "8373 Rezi, am Ende der Vár utca",
-  "openingHours": "24/7",
-  "entranceFee": "kostenlos",
+  "address": {
+    "de": "8373 Rezi, am Ende der Vár utca",
+    "hu": "8373 Rezi, a Vár utca végén",
+    "ro": "8373 Rezi, la capătul străzii Vár",
+    "en": "8373 Rezi, at the end of Vár utca"
+  },
+  "openingHours": {
+    "de": "24/7",
+    "hu": "24/7",
+    "ro": "24/7",
+    "en": "24/7"
+  },
+  "entranceFee": {
+    "de": "kostenlos",
+    "hu": "ingyenes",
+    "ro": "gratuit",
+    "en": "free"
+  },
   "website": "",
-  "publicTransport": "Bus nach Rezi, danach ca. 3 km lange Wanderung (Markierung Blaues L).",
-  "parking": "Kostenloser Wanderparkplatz am Ende der befestigten Straße in Rezi.",
-  "accessibility": "Nicht barrierefrei; unebener, steiler Waldpfad mit losen Steinen.",
-  "photoRules": "Frei erlaubt; Stativ für Landschaftsaufnahmen bei Sonnenuntergang empfohlen.",
-  "bestTimeToVisit": "Abendstunden für den spektakulären Blick über das Balaton-Oberland im Gegenlicht.",
-  "audioGuide": "nein"
+  "publicTransport": {
+    "de": "Bus nach Rezi, danach ca. 3 km lange Wanderung (Markierung Blaues L).",
+    "hu": "Busz Rezire, majd kb. 3 km-es gyalogtúra (kék L jelzés).",
+    "ro": "Autobuz până la Rezi, apoi o drumeție de aprox. 3 km (marcaj L albastru).",
+    "en": "Bus to Rezi, then about a 3 km hike (blue L mark)."
+  },
+  "parking": {
+    "de": "Kostenloser Wanderparkplatz am Ende der befestigten Straße in Rezi.",
+    "hu": "Ingyenes túra-parkoló a Reziben lévő aszfaltos út végén.",
+    "ro": "Parcare gratuită pentru drumeții la capătul drumului asfaltat din Rezi.",
+    "en": "Free hiking parking lot at the end of the paved road in Rezi."
+  },
+  "accessibility": {
+    "de": "Nicht barrierefrei; unebener, steiler Waldpfad mit losen Steinen.",
+    "hu": "Nem akadálymentes; egyenetlen, meredek erdei ösvény laza kövekkel.",
+    "ro": "Nu este accesibil; potecă forestieră neuniformă și abruptă, cu pietre libere.",
+    "en": "Not barrier-free; uneven, steep forest path with loose stones."
+  },
+  "photoRules": {
+    "de": "Frei erlaubt; Stativ für Landschaftsaufnahmen bei Sonnenuntergang empfohlen.",
+    "hu": "Szabadon engedélyezett; naplementekor készülő tájfotókhoz állvány ajánlott.",
+    "ro": "Permis liber; trepied recomandat pentru peisaje la apus.",
+    "en": "Allowed freely; tripod recommended for landscape shots at sunset."
+  },
+  "bestTimeToVisit": {
+    "de": "Abendstunden für den spektakulären Blick über das Balaton-Oberland im Gegenlicht.",
+    "hu": "Esti órákban a Balaton-felvidékre nyíló látványos ellenfényes kilátásért.",
+    "ro": "Orele serii pentru priveliștea spectaculoasă asupra ținutului Balaton-Oberland în lumină de fundal.",
+    "en": "Evening hours for the spectacular view over the Balaton Uplands in backlighting."
+  },
+  "audioGuide": {
+    "de": "nein",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

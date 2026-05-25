@@ -1,12 +1,57 @@
 {
-  "address": "Antrim Coast Road, Ballycastle BT54, Northern Ireland",
-  "openingHours": "24/7",
-  "entranceFee": "free",
+  "address": {
+    "de": "Antrim Coast Road, Ballycastle BT54, Northern Ireland",
+    "hu": "Antrim Coast Road, Ballycastle BT54, Észak-Írország",
+    "ro": "Antrim Coast Road, Ballycastle BT54, Irlanda de Nord",
+    "en": "Antrim Coast Road, Ballycastle BT54, Northern Ireland"
+  },
+  "openingHours": {
+    "de": "24/7",
+    "hu": "24/7",
+    "ro": "24/7",
+    "en": "24/7"
+  },
+  "entranceFee": {
+    "de": "free",
+    "hu": "ingyenes",
+    "ro": "gratuit",
+    "en": "free"
+  },
   "website": "https://www.discovernorthernireland.com",
-  "publicTransport": "Bus 170 oder 172 ab Coleraine oder Ballymena",
-  "parking": "Kostenlose Parkbuchten entlang der Causeway Coastal Route.",
-  "accessibility": "Nur eingeschränkt zugänglich, da es sich um ein unwegsames Hochplateau handelt.",
-  "photoRules": "Erlaubt, Stativnutzung für Hobbyfotografen uneingeschränkt möglich.",
-  "bestTimeToVisit": "Früher Morgen oder Sonnenuntergang für spektakuläres Licht auf den Klippen.",
-  "audioGuide": "no"
+  "publicTransport": {
+    "de": "Bus 170 oder 172 ab Coleraine oder Ballymena",
+    "hu": "170-es vagy 172-es busz Coleraine-ből vagy Ballymenából",
+    "ro": "Autobuz 170 sau 172 din Coleraine sau Ballymena",
+    "en": "Bus 170 or 172 from Coleraine or Ballymena"
+  },
+  "parking": {
+    "de": "Kostenlose Parkbuchten entlang der Causeway Coastal Route.",
+    "hu": "Ingyenes parkolóöblök a Causeway Coastal Route mentén.",
+    "ro": "Golfuri de parcare gratuite de-a lungul Causeway Coastal Route.",
+    "en": "Free parking bays along the Causeway Coastal Route."
+  },
+  "accessibility": {
+    "de": "Nur eingeschränkt zugänglich, da es sich um ein unwegsames Hochplateau handelt.",
+    "hu": "Csak korlátozottan megközelíthető, mivel egy nehezen járható magasfennsík.",
+    "ro": "Acces limitat, fiind un platou înalt dificil.",
+    "en": "Limited access as it is a rugged high plateau."
+  },
+  "photoRules": {
+    "de": "Erlaubt, Stativnutzung für Hobbyfotografen uneingeschränkt möglich.",
+    "hu": "Megengedett, az állványhasználat hobbifotósok számára korlátozás nélkül lehetséges.",
+    "ro": "Permis, utilizarea trepiedului este posibilă fără restricții pentru fotografi amatori.",
+    "en": "Allowed, tripod use unrestricted for hobby photographers."
+  },
+  "bestTimeToVisit": {
+    "de": "Früher Morgen oder Sonnenuntergang für spektakuläres Licht auf den Klippen.",
+    "hu": "Kora reggel vagy napnyugtakor a sziklákon lévő látványos fényekért.",
+    "ro": "Dimineața devreme sau la apus pentru lumină spectaculoasă pe stânci.",
+    "en": "Early morning or sunset for spectacular light on the cliffs."
+  },
+  "audioGuide": {
+    "de": "no",
+    "hu": "nem",
+    "ro": "nu",
+    "en": "no"
+  }
 }

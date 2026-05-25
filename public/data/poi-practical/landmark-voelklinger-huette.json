@@ -1,12 +1,57 @@
 {
-  "address": "Rathausstraße 75-79, 66333 Völklingen",
-  "openingHours": "Mo-So 10:00-18:00",
-  "entranceFee": "€17.00 Erwachsene, Kinder frei",
+  "address": {
+    "de": "Rathausstraße 75-79, 66333 Völklingen",
+    "hu": "Rathausstraße 75-79, 66333 Völklingen",
+    "ro": "Rathausstraße 75-79, 66333 Völklingen",
+    "en": "Rathausstraße 75-79, 66333 Völklingen"
+  },
+  "openingHours": {
+    "de": "Mo-So 10:00-18:00",
+    "hu": "H-V 10:00-18:00",
+    "ro": "Lu-Dum 10:00-18:00",
+    "en": "Mon-Sun 10:00-18:00"
+  },
+  "entranceFee": {
+    "de": "€17.00 Erwachsene, Kinder frei",
+    "hu": "17,00 € felnőtt, gyermekeknek ingyenes",
+    "ro": "17,00 € adulți, gratuit pentru copii",
+    "en": "€17.00 adult, children free"
+  },
   "website": "https://www.voelklinger-huette.org",
-  "publicTransport": "DB Bahnhof Völklingen, 3 Min Fußweg zum Eingang",
-  "parking": "Großer kostenloser Besucherparkplatz direkt am Gelände.",
-  "accessibility": "Teilweise barrierefrei, Industrie-Parcours erfordert festes Schuhwerk.",
-  "photoRules": "Erlaubt, Stative auf den Gitterrosten schwierig.",
-  "bestTimeToVisit": "Sommerabende bei speziellen Lichtinstallationen.",
-  "audioGuide": "In vielen Sprachen über die App verfügbar."
+  "publicTransport": {
+    "de": "DB Bahnhof Völklingen, 3 Min Fußweg zum Eingang",
+    "hu": "Völklingen vasútállomás, 3 perc séta a bejáratig",
+    "ro": "Gara Völklingen, 3 minute de mers pe jos până la intrare",
+    "en": "Völklingen train station, 3 min walk to entrance"
+  },
+  "parking": {
+    "de": "Großer kostenloser Besucherparkplatz direkt am Gelände.",
+    "hu": "Nagy ingyenes látogatói parkoló közvetlenül a terület mellett.",
+    "ro": "Parcare mare gratuită pentru vizitatori direct la locație.",
+    "en": "Large free visitor parking directly at the site."
+  },
+  "accessibility": {
+    "de": "Teilweise barrierefrei, Industrie-Parcours erfordert festes Schuhwerk.",
+    "hu": "Részben akadálymentesített, az ipari útvonalhoz erős cipő ajánlott.",
+    "ro": "Parțial accesibil, traseul industrial necesită încălțăminte solidă.",
+    "en": "Partially accessible, industrial course requires sturdy footwear."
+  },
+  "photoRules": {
+    "de": "Erlaubt, Stative auf den Gitterrosten schwierig.",
+    "hu": "Engedélyezett, állványt használni a rácsokon nehézkes.",
+    "ro": "Permis, dificil de utilizat trepiedul pe grilaje.",
+    "en": "Allowed, tripods difficult on the gratings."
+  },
+  "bestTimeToVisit": {
+    "de": "Sommerabende bei speziellen Lichtinstallationen.",
+    "hu": "Nyári estéken, különleges fényinstallációkkal.",
+    "ro": "Serile de vară, cu instalații speciale de lumini.",
+    "en": "Summer evenings with special light installations."
+  },
+  "audioGuide": {
+    "de": "In vielen Sprachen über die App verfügbar.",
+    "hu": "Számos nyelven elérhető az alkalmazáson keresztül.",
+    "ro": "Disponibil în mai multe limbi prin intermediul aplicației.",
+    "en": "Available in many languages via app."
+  }
 }

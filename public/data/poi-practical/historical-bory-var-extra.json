@@ -1,12 +1,57 @@
 {
-  "address": "Máriavölgy út 54, 8000 Székesfehérvár",
-  "openingHours": "Täglich 09:00-17:00",
-  "entranceFee": "2500 HUF Erwachsene, 1200 HUF Studenten/Schüler",
+  "address": {
+    "de": "Máriavölgy út 54, 8000 Székesfehérvár",
+    "hu": "Máriavölgy út 54, 8000 Székesfehérvár",
+    "ro": "Máriavölgy út 54, 8000 Székesfehérvár",
+    "en": "Máriavölgy út 54, 8000 Székesfehérvár"
+  },
+  "openingHours": {
+    "de": "Täglich 09:00-17:00",
+    "hu": "Naponta 09:00-17:00",
+    "ro": "Zilnic 09:00-17:00",
+    "en": "Daily 09:00-17:00"
+  },
+  "entranceFee": {
+    "de": "2500 HUF Erwachsene, 1200 HUF Studenten/Schüler",
+    "hu": "2500 HUF felnőtt, 1200 HUF diák",
+    "ro": "2500 HUF adulți, 1200 HUF studenți/elevi",
+    "en": "2500 HUF adults, 1200 HUF students/pupils"
+  },
   "website": "http://bory-var.hu/",
-  "publicTransport": "Buslinie 31 oder 32 vom Busbahnhof/Bahnhof bis Haltestelle Bory-vár.",
-  "parking": "Kostenloses Parken in den Seitenstrassen rund um das Wohnviertel möglich.",
-  "accessibility": "Der Skulpturengarten ist zugänglich, die Türme und Wendeltreppen sind nicht barrierefrei.",
-  "photoRules": "Privates Fotografieren ausdrücklich erwünscht; sehr beliebt für Hochzeitsfotos.",
-  "bestTimeToVisit": "Wochentags morgens direkt nach Öffnung, um die Ruhe der Anlage zu geniessen.",
-  "audioGuide": "no"
+  "publicTransport": {
+    "de": "Buslinie 31 oder 32 vom Busbahnhof/Bahnhof bis Haltestelle Bory-vár.",
+    "hu": "31-es vagy 32-es busz a buszpályaudvartól/vasútállomástól a Bory-vár megállóig.",
+    "ro": "Autobuzul 31 sau 32 din autogară/gară până la stația Bory-vár.",
+    "en": "Bus line 31 or 32 from bus/train station to stop Bory-vár."
+  },
+  "parking": {
+    "de": "Kostenloses Parken in den Seitenstrassen rund um das Wohnviertel möglich.",
+    "hu": "Ingyenes parkolás a lakóövezet körüli mellékutcákban.",
+    "ro": "Parcare gratuită disponibilă pe străzile laterale din jurul cartierului rezidențial.",
+    "en": "Free parking in side streets around the residential area."
+  },
+  "accessibility": {
+    "de": "Der Skulpturengarten ist zugänglich, die Türme und Wendeltreppen sind nicht barrierefrei.",
+    "hu": "A szoborkert látogatható, a tornyok és csigalépcsők nem akadálymentesek.",
+    "ro": "Grădina cu sculpturi este accesibilă, turnurile și scările în spirală nu sunt accesibile.",
+    "en": "The sculpture garden is accessible, the towers and spiral staircases are not accessible."
+  },
+  "photoRules": {
+    "de": "Privates Fotografieren ausdrücklich erwünscht; sehr beliebt für Hochzeitsfotos.",
+    "hu": "A privát fényképezés kifejezetten ajánlott; esküvői fotókhoz nagyon népszerű.",
+    "ro": "Fotografierea privată este explicit încurajată; foarte populară pentru fotografiile de nuntă.",
+    "en": "Private photography explicitly encouraged; very popular for wedding photos."
+  },
+  "bestTimeToVisit": {
+    "de": "Wochentags morgens direkt nach Öffnung, um die Ruhe der Anlage zu geniessen.",
+    "hu": "Hétköznap reggel, közvetlenül nyitás után, a nyugalom élvezetéért.",
+    "ro": "În timpul săptămânii dimineața, imediat după deschidere, pentru a te bucura de liniștea complexului.",
+    "en": "Weekday mornings right after opening to enjoy the peace of the grounds."
+  },
+  "audioGuide": {
+    "de": "no",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

@@ -1,12 +1,57 @@
 {
-  "address": "Strada Franceză 21-23, București 030105",
-  "openingHours": "derzeit wegen Renovierung geschlossen",
-  "entranceFee": "Besichtigung nur von außen möglich",
+  "address": {
+    "de": "Strada Franceză 21-23, București 030105",
+    "hu": "Strada Franceză 21-23, Bukarest 030105",
+    "ro": "Strada Franceză 21-23, București 030105",
+    "en": "Strada Franceză 21-23, Bucharest 030105"
+  },
+  "openingHours": {
+    "de": "derzeit wegen Renovierung geschlossen",
+    "hu": "jelenleg felújítás miatt zárva",
+    "ro": "în prezent închis pentru renovare",
+    "en": "currently closed for renovation"
+  },
+  "entranceFee": {
+    "de": "Besichtigung nur von außen möglich",
+    "hu": "Csak kívülről tekinthető meg",
+    "ro": "Vizitarea este posibilă doar din exterior",
+    "en": "Viewing only possible from the outside"
+  },
   "website": "http://muzeulbucurestiului.ro",
-  "publicTransport": "Metro Station Piața Unirii (Linien M1, M2, M3)",
-  "parking": "Parkhaus am Piața Unirii oder Parkplätze in der Nähe",
-  "accessibility": "Ruinenfeld von der Straße aus gut einsehbar",
-  "photoRules": "Aufnahmen von der Straße jederzeit erlaubt",
-  "bestTimeToVisit": "Abends, wenn die Altstadt ringsum belebt ist",
-  "audioGuide": "no"
+  "publicTransport": {
+    "de": "Metro Station Piața Unirii (Linien M1, M2, M3)",
+    "hu": "Piața Unirii metrómegálló (M1, M2, M3 vonalak)",
+    "ro": "Stația de metrou Piața Unirii (liniile M1, M2, M3)",
+    "en": "Piața Unirii Metro Station (Lines M1, M2, M3)"
+  },
+  "parking": {
+    "de": "Parkhaus am Piața Unirii oder Parkplätze in der Nähe",
+    "hu": "Piața Unirii parkolóház vagy közeli parkolóhelyek",
+    "ro": "Parcare la Piața Unirii sau locuri de parcare în apropiere",
+    "en": "Parking garage at Piața Unirii or nearby parking lots"
+  },
+  "accessibility": {
+    "de": "Ruinenfeld von der Straße aus gut einsehbar",
+    "hu": "A romterület az utcáról jól belátható",
+    "ro": "Situl ruinelor este bine vizibil de la stradă",
+    "en": "The ruin field is clearly visible from the street"
+  },
+  "photoRules": {
+    "de": "Aufnahmen von der Straße jederzeit erlaubt",
+    "hu": "Az utcáról bármikor szabad fotózni",
+    "ro": "Fotografierea de pe stradă este permisă oricând",
+    "en": "Photography from the street permitted at any time"
+  },
+  "bestTimeToVisit": {
+    "de": "Abends, wenn die Altstadt ringsum belebt ist",
+    "hu": "Este, amikor a környező óváros megtelik élettel",
+    "ro": "Seara, când centrul vechi este plin de viață",
+    "en": "In the evening when the surrounding Old Town is lively"
+  },
+  "audioGuide": {
+    "de": "no",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

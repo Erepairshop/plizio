@@ -1,12 +1,57 @@
 {
-  "address": "Schlossplatz 1, 2721 Bad Fischau-Brunn",
-  "openingHours": "Abhängig von Veranstaltungen",
-  "entranceFee": "Variiert nach Event",
+  "address": {
+    "de": "Schlossplatz 1, 2721 Bad Fischau-Brunn",
+    "hu": "Schlossplatz 1, 2721 Bad Fischau-Brunn",
+    "ro": "Schlossplatz 1, 2721 Bad Fischau-Brunn",
+    "en": "Schlossplatz 1, 2721 Bad Fischau-Brunn"
+  },
+  "openingHours": {
+    "de": "Abhängig von Veranstaltungen",
+    "hu": "Rendezvényektől függően",
+    "ro": "În funcție de evenimente",
+    "en": "Depending on events"
+  },
+  "entranceFee": {
+    "de": "Variiert nach Event",
+    "hu": "Eseményenként változó",
+    "ro": "Variază în funcție de eveniment",
+    "en": "Varies by event"
+  },
   "website": "https://www.schloss-fischau.at",
-  "publicTransport": "ÖBB Bahnhof Bad Fischau-Brunn",
-  "parking": "Parkplätze beim angrenzenden Thermalbad.",
-  "accessibility": "Hof und Erdgeschoss barrierefrei zugänglich.",
-  "photoRules": "Erlaubt, bei Konzerten nach Absprache.",
-  "bestTimeToVisit": "Sommerabende bei Schlosskonzerten.",
-  "audioGuide": "nein"
+  "publicTransport": {
+    "de": "ÖBB Bahnhof Bad Fischau-Brunn",
+    "hu": "ÖBB vasútállomás Bad Fischau-Brunn",
+    "ro": "Gara ÖBB Bad Fischau-Brunn",
+    "en": "ÖBB train station Bad Fischau-Brunn"
+  },
+  "parking": {
+    "de": "Parkplätze beim angrenzenden Thermalbad.",
+    "hu": "Parkolók a szomszédos termálfürdőnél.",
+    "ro": "Locuri de parcare la ștrandul termal adiacent.",
+    "en": "Parking spaces at the adjacent thermal bath."
+  },
+  "accessibility": {
+    "de": "Hof und Erdgeschoss barrierefrei zugänglich.",
+    "hu": "Az udvar és a földszint akadálymentesen megközelíthető.",
+    "ro": "Curtea și parterul sunt accesibile fără bariere.",
+    "en": "Courtyard and ground floor are wheelchair accessible."
+  },
+  "photoRules": {
+    "de": "Erlaubt, bei Konzerten nach Absprache.",
+    "hu": "Engedélyezett, koncertek esetén egyeztetés szerint.",
+    "ro": "Permis, la concerte cu acord prealabil.",
+    "en": "Permitted, by arrangement during concerts."
+  },
+  "bestTimeToVisit": {
+    "de": "Sommerabende bei Schlosskonzerten.",
+    "hu": "Nyári estéken, a kastélykoncertek idején.",
+    "ro": "Serile de vară în timpul concertelor de la castel.",
+    "en": "Summer evenings during castle concerts."
+  },
+  "audioGuide": {
+    "de": "nein",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

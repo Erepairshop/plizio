@@ -1,12 +1,57 @@
 {
-  "address": "Grindul Letea, 827031 Letea, Tulcea",
-  "openingHours": "08:00-20:00 (Zutritt nur mit autorisiertem Guide)",
-  "entranceFee": "5 RON (ARBDD Gebühr) + ca. 50-100 RON für die Safari-Tour",
+  "address": {
+    "de": "Grindul Letea, 827031 Letea, Tulcea",
+    "hu": "Grindul Letea, 827031 Letea, Tulcea",
+    "ro": "Grindul Letea, 827031 Letea, Tulcea",
+    "en": "Grindul Letea, 827031 Letea, Tulcea"
+  },
+  "openingHours": {
+    "de": "08:00-20:00 (Zutritt nur mit autorisiertem Guide)",
+    "hu": "08:00-20:00 (belépés csak engedéllyel rendelkező túravezetővel)",
+    "ro": "08:00-20:00 (acces doar cu ghid autorizat)",
+    "en": "08:00-20:00 (access only with authorized guide)"
+  },
+  "entranceFee": {
+    "de": "5 RON (ARBDD Gebühr) + ca. 50-100 RON für die Safari-Tour",
+    "hu": "5 RON (ARBDD díj) + kb. 50-100 RON a szafari túráért",
+    "ro": "5 RON (taxă ARBDD) + cca. 50-100 RON pentru turul de safari",
+    "en": "5 RON (ARBDD fee) + approx. 50-100 RON for the safari tour"
+  },
   "website": "http://www.ddbra.ro",
-  "publicTransport": "Boot (Passagierschiff oder Schnellboot) von Tulcea nach Sulina/Periprava",
-  "parking": "Keine PKW-Anreise möglich; Boote parken am Kai von Letea",
-  "accessibility": "Eingeschränkt; Transport im Wald erfolgt meist per Pferdewagen oder Jeep",
-  "photoRules": "Erlaubt; Teleobjektiv für die Wildpferde dringend empfohlen",
-  "bestTimeToVisit": "Mai bis Juni, bevor die Hitze und Mücken im Delta zu stark werden",
-  "audioGuide": "no"
+  "publicTransport": {
+    "de": "Boot (Passagierschiff oder Schnellboot) von Tulcea nach Sulina/Periprava",
+    "hu": "Hajó (személyszállító vagy gyorshajó) Tulceából Sulina/Periprava felé",
+    "ro": "Barcă (navă de pasageri sau șalupă rapidă) din Tulcea către Sulina/Periprava",
+    "en": "Boat (passenger ship or speedboat) from Tulcea to Sulina/Periprava"
+  },
+  "parking": {
+    "de": "Keine PKW-Anreise möglich; Boote parken am Kai von Letea",
+    "hu": "Autóval nem közelíthető meg; a hajók a letei rakparton állnak meg",
+    "ro": "Accesul cu autoturismul nu este posibil; bărcile parchează la cheiul din Letea",
+    "en": "No access by car; boats dock at the Letea pier"
+  },
+  "accessibility": {
+    "de": "Eingeschränkt; Transport im Wald erfolgt meist per Pferdewagen oder Jeep",
+    "hu": "Korlátozott; az erdőben a szállítás többnyire lovas szekérrel vagy terepjáróval történik",
+    "ro": "Limitată; transportul în pădure se face de obicei cu căruța trasă de cai sau cu jeep-ul",
+    "en": "Limited; transport in the forest is usually by horse-drawn carriage or jeep"
+  },
+  "photoRules": {
+    "de": "Erlaubt; Teleobjektiv für die Wildpferde dringend empfohlen",
+    "hu": "Engedélyezett; teleobjektív használata erősen ajánlott a vadlovak fotózásához",
+    "ro": "Permis; este recomandat un teleobiectiv pentru caii sălbatici",
+    "en": "Allowed; telephoto lens strongly recommended for the wild horses"
+  },
+  "bestTimeToVisit": {
+    "de": "Mai bis Juni, bevor die Hitze und Mücken im Delta zu stark werden",
+    "hu": "Május és június között, mielőtt a hőség és a szúnyogok túlságosan elszaporodnának a deltában",
+    "ro": "Mai până în iunie, înainte ca căldura și țânțarii din deltă să devină prea puternici",
+    "en": "May to June, before the heat and mosquitoes in the delta become too intense"
+  },
+  "audioGuide": {
+    "de": "no",
+    "hu": "nem",
+    "ro": "nu",
+    "en": "no"
+  }
 }

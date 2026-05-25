@@ -1,12 +1,57 @@
 {
-  "address": "Parcul Național Cheile Nerei, 327340 Sasca Montană, Caraș-Severin",
-  "openingHours": "24/7",
-  "entranceFee": "5-10 RON (Besucherticket für den Nationalpark)",
+  "address": {
+    "de": "Parcul Național Cheile Nerei, 327340 Sasca Montană, Caraș-Severin",
+    "hu": "Parcul Național Cheile Nerei, 327340 Sasca Montană, Krassó-Szörény",
+    "ro": "Parcul Național Cheile Nerei, 327340 Sasca Montană, Caraș-Severin",
+    "en": "Parcul Național Cheile Nerei, 327340 Sasca Montană, Caraș-Severin"
+  },
+  "openingHours": {
+    "de": "24/7",
+    "hu": "24/7",
+    "ro": "24/7",
+    "en": "24/7"
+  },
+  "entranceFee": {
+    "de": "5-10 RON (Besucherticket für den Nationalpark)",
+    "hu": "5-10 RON (látogatójegy a nemzeti parkba)",
+    "ro": "5-10 RON (bilet de vizitare pentru parcul național)",
+    "en": "5-10 RON (visitor ticket for the national park)"
+  },
   "website": "http://www.cheilenerei-beusnita.ro",
-  "publicTransport": "Bus von Oravița nach Sasca Montană oder Potoc",
-  "parking": "Parkplätze in Sasca Montană oder am Eingang 'Podu Bei', ca. 10 RON",
-  "accessibility": "Nicht barrierefrei; schmale Felspfade und Tunnelpassagen",
-  "photoRules": "Erlaubt; Unterwasserkamera für das kristallblaue Ochiul Beiului lohnenswert",
-  "bestTimeToVisit": "Wochentags im Mai (Blütezeit) oder Juni für die Wasserfälle",
-  "audioGuide": "no"
+  "publicTransport": {
+    "de": "Bus von Oravița nach Sasca Montană oder Potoc",
+    "hu": "Busz Oravițából Sasca Montană-ba vagy Potocra",
+    "ro": "Autobuz din Oravița către Sasca Montană sau Potoc",
+    "en": "Bus from Oravița to Sasca Montană or Potoc"
+  },
+  "parking": {
+    "de": "Parkplätze in Sasca Montană oder am Eingang 'Podu Bei', ca. 10 RON",
+    "hu": "Parkoló Sasca Montanăban vagy a 'Podu Bei' bejáratnál, kb. 10 RON",
+    "ro": "Locuri de parcare în Sasca Montană sau la intrarea 'Podu Bei', aprox. 10 RON",
+    "en": "Parking in Sasca Montană or at 'Podu Bei' entrance, approx. 10 RON"
+  },
+  "accessibility": {
+    "de": "Nicht barrierefrei; schmale Felspfade und Tunnelpassagen",
+    "hu": "Nem akadálymentesített; szűk sziklaösvények és alagutak",
+    "ro": "Nu este accesibil; poteci înguste stâncoase și pasaje prin tunel",
+    "en": "Not accessible; narrow rock paths and tunnel passages"
+  },
+  "photoRules": {
+    "de": "Erlaubt; Unterwasserkamera für das kristallblaue Ochiul Beiului lohnenswert",
+    "hu": "Engedélyezett; víz alatti kamera a kristálytiszta Ochiul Beiuluihoz",
+    "ro": "Permis; cameră subacvatică utilă pentru Ochiul Beiului cristal",
+    "en": "Allowed; underwater camera worthwhile for the crystal blue Ochiul Beiului"
+  },
+  "bestTimeToVisit": {
+    "de": "Wochentags im Mai (Blütezeit) oder Juni für die Wasserfälle",
+    "hu": "Hétköznap májusban (virágzás) vagy júniusban a vízesésekért",
+    "ro": "În timpul săptămânii în mai (perioada înfloririi) sau iunie pentru cascade",
+    "en": "Weekdays in May (blossom season) or June for the waterfalls"
+  },
+  "audioGuide": {
+    "de": "no",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

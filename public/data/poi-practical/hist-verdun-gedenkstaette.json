@@ -1,12 +1,57 @@
 {
-  "address": "Sous-lieutenant-Cassini, 55100 Fleury-devant-Douaumont, Frankreich",
-  "openingHours": "Mo-So 09:00-18:00 (Beinhaus)",
-  "entranceFee": "Beinhaus Eintritt frei; Kreuzgang/Kapelle/Film ca. 6,50 €",
+  "address": {
+    "de": "Sous-lieutenant-Cassini, 55100 Fleury-devant-Douaumont, Frankreich",
+    "hu": "Sous-lieutenant-Cassini, 55100 Fleury-devant-Douaumont, Franciaország",
+    "ro": "Sous-lieutenant-Cassini, 55100 Fleury-devant-Douaumont, Franța",
+    "en": "Sous-lieutenant-Cassini, 55100 Fleury-devant-Douaumont, France"
+  },
+  "openingHours": {
+    "de": "Mo-So 09:00-18:00 (Beinhaus)",
+    "hu": "H-V 09:00-18:00 (Csontház)",
+    "ro": "L-D 09:00-18:00 (Osuar)",
+    "en": "Mon-Sun 09:00-18:00 (Ossuary)"
+  },
+  "entranceFee": {
+    "de": "Beinhaus Eintritt frei; Kreuzgang/Kapelle/Film ca. 6,50 €",
+    "hu": "Csontház: ingyenes; keringő/kápolna/film: kb. 6,50 €",
+    "ro": "Osuar: intrare liberă; cloistru/capelă/film: aprox. 6,50 €",
+    "en": "Ossuary: free entry; cloister/chapel/film: approx. 6.50 €"
+  },
   "website": "https://www.verdun-douaumont.com",
-  "publicTransport": "Sehr schwierig, PKW oder geführte Tour ab Verdun empfohlen.",
-  "parking": "Kostenloser Parkplatz direkt vor dem Beinhaus.",
-  "accessibility": "Teilweise barrierefrei (Rampe zum Beinhaus).",
-  "photoRules": "Im Inneren des Beinhauses (Knochenkammern) verboten.",
-  "bestTimeToVisit": "Wochentags, um die Stille des Ortes zu wahren.",
-  "audioGuide": "ja (DE, EN, FR)"
+  "publicTransport": {
+    "de": "Sehr schwierig, PKW oder geführte Tour ab Verdun empfohlen.",
+    "hu": "Nagyon nehézkes; autó vagy Verduntől induló vezetett túra javasolt.",
+    "ro": "Foarte dificil, se recomandă autoturismul sau turul ghidat din Verdun.",
+    "en": "Very difficult, car or guided tour from Verdun recommended."
+  },
+  "parking": {
+    "de": "Kostenloser Parkplatz direkt vor dem Beinhaus.",
+    "hu": "Ingyenes parkoló közvetlenül a csontház előtt.",
+    "ro": "Parcare gratuită chiar în fața osuarului.",
+    "en": "Free parking directly in front of the ossuary."
+  },
+  "accessibility": {
+    "de": "Teilweise barrierefrei (Rampe zum Beinhaus).",
+    "hu": "Részben akadálymentes (rámpa a csontházhoz).",
+    "ro": "Parțial accesibil (rampă spre osuar).",
+    "en": "Partially accessible (ramp to the ossuary)."
+  },
+  "photoRules": {
+    "de": "Im Inneren des Beinhauses (Knochenkammern) verboten.",
+    "hu": "A csontház belsejében (csontkamrák) tilos a fotózás.",
+    "ro": "Fotografiatul este interzis în interiorul osuarului.",
+    "en": "Photography forbidden inside the ossuary (bone chambers)."
+  },
+  "bestTimeToVisit": {
+    "de": "Wochentags, um die Stille des Ortes zu wahren.",
+    "hu": "Hétköznap, a hely csendjének és méltóságának megőrzése érdekében.",
+    "ro": "În zilele lucrătoare, pentru a respecta liniștea locului.",
+    "en": "Weekdays, to respect the silence of the site."
+  },
+  "audioGuide": {
+    "de": "ja (DE, EN, FR)",
+    "hu": "igen (DE, EN, FR)",
+    "ro": "da (DE, EN, FR)",
+    "en": "yes (DE, EN, FR)"
+  }
 }

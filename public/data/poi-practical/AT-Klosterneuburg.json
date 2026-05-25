@@ -1,12 +1,57 @@
 {
-  "address": "Stiftsplatz 1, 3400 Klosterneuburg",
-  "openingHours": "Mo-Su 09:00-18:00",
-  "entranceFee": "€11 Basisticket (Stiftsticket)",
+  "address": {
+    "de": "Stiftsplatz 1, 3400 Klosterneuburg",
+    "hu": "Stiftsplatz 1, 3400 Klosterneuburg",
+    "ro": "Stiftsplatz 1, 3400 Klosterneuburg",
+    "en": "Stiftsplatz 1, 3400 Klosterneuburg"
+  },
+  "openingHours": {
+    "de": "Mo-Su 09:00-18:00",
+    "hu": "H-V 09:00-18:00",
+    "ro": "Lu-Du 09:00-18:00",
+    "en": "Mon-Sun 9:00 AM - 6:00 PM"
+  },
+  "entranceFee": {
+    "de": "€11 Basisticket (Stiftsticket)",
+    "hu": "11 € alapjegy (Stiftsticket)",
+    "ro": "11 € bilet de bază (Stiftsticket)",
+    "en": "€11 basic ticket (Stiftsticket)"
+  },
   "website": "https://www.stift-klosterneuburg.at",
-  "publicTransport": "Bus 400 oder S40 ab Wien Heiligenstadt bis Klosterneuburg-Kierling.",
-  "parking": "Großer, für Besucher kostenloser Parkplatz direkt am Stiftsgelände.",
-  "accessibility": "Die meisten Bereiche inklusive Kreuzgang und Museum sind barrierefrei erreichbar.",
-  "photoRules": "Fotografieren ohne Blitz erlaubt, in der Schatzkammer jedoch nicht gestattet.",
-  "bestTimeToVisit": "Nachmittags, kombiniert mit einer Besichtigung der historischen Weinkeller.",
-  "audioGuide": "In Deutsch und Englisch für den Stiftsrundgang verfügbar."
+  "publicTransport": {
+    "de": "Bus 400 oder S40 ab Wien Heiligenstadt bis Klosterneuburg-Kierling.",
+    "hu": "400-as busz vagy S40-es vonat Bécs Heiligenstadttól Klosterneuburg-Kierlingig.",
+    "ro": "Autobuz 400 sau S40 de la Wien Heiligenstadt până la Klosterneuburg-Kierling.",
+    "en": "Bus 400 or S40 from Wien Heiligenstadt to Klosterneuburg-Kierling."
+  },
+  "parking": {
+    "de": "Großer, für Besucher kostenloser Parkplatz direkt am Stiftsgelände.",
+    "hu": "Nagy, látogatók számára ingyenes parkoló közvetlenül az apátság területén.",
+    "ro": "Parcare mare, gratuită pentru vizitatori, direct în incinta abației.",
+    "en": "Large, free visitor parking directly on the abbey grounds."
+  },
+  "accessibility": {
+    "de": "Die meisten Bereiche inklusive Kreuzgang und Museum sind barrierefrei erreichbar.",
+    "hu": "A legtöbb terület, beleértve a keringőt és a múzeumot is, akadálymentesen elérhető.",
+    "ro": "Majoritatea zonelor, inclusiv claustrul și muzeul, sunt accesibile.",
+    "en": "Most areas, including the cloister and museum, are barrier-free and accessible."
+  },
+  "photoRules": {
+    "de": "Fotografieren ohne Blitz erlaubt, in der Schatzkammer jedoch nicht gestattet.",
+    "hu": "Vaku nélkül szabad fotózni, de a kincstárban tilos.",
+    "ro": "Fotografierea fără bliț este permisă, dar interzisă în trezorerie.",
+    "en": "Photography without flash allowed, but prohibited in the treasury."
+  },
+  "bestTimeToVisit": {
+    "de": "Nachmittags, kombiniert mit einer Besichtigung der historischen Weinkeller.",
+    "hu": "Délután, a történelmi borospincék megtekintésével kombinálva.",
+    "ro": "După-amiaza, combinat cu o vizită la cramele istorice.",
+    "en": "In the afternoon, combined with a visit to the historic wine cellars."
+  },
+  "audioGuide": {
+    "de": "In Deutsch und Englisch für den Stiftsrundgang verfügbar.",
+    "hu": "Német és angol nyelven elérhető az apátsági körúthoz.",
+    "ro": "Disponibil în germană și engleză pentru turul abației.",
+    "en": "Available in German and English for the abbey tour."
+  }
 }

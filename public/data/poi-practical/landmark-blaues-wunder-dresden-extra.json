@@ -1,12 +1,57 @@
 {
-  "address": "Loschwitzer Brücke, 01326 Dresden",
-  "openingHours": "24/7",
-  "entranceFee": "kostenlos",
+  "address": {
+    "de": "Loschwitzer Brücke, 01326 Dresden",
+    "hu": "Loschwitzer Brücke, 01326 Drezda",
+    "ro": "Loschwitzer Brücke, 01326 Dresda",
+    "en": "Loschwitzer Brücke, 01326 Dresden"
+  },
+  "openingHours": {
+    "de": "24/7",
+    "hu": "24/7",
+    "ro": "24/7",
+    "en": "24/7"
+  },
+  "entranceFee": {
+    "de": "kostenlos",
+    "hu": "ingyenes",
+    "ro": "gratuit",
+    "en": "free"
+  },
   "website": "https://www.dresden.de",
-  "publicTransport": "Straßenbahn 6, 12 oder Bus 61 bis Schillerplatz.",
-  "parking": "Parkhaus Schillergalerie direkt am Brückenkopf (ca. 1,50€/Std.).",
-  "accessibility": "Breite Gehwege auf der Brücke sind für Rollstühle gut geeignet.",
-  "photoRules": "Erlaubt, ideal vom Körnerplatz oder dem Elbufer aus zu fotografieren.",
-  "bestTimeToVisit": "Früh morgens bei leichtem Elbnebel für mystische Aufnahmen.",
-  "audioGuide": "nein"
+  "publicTransport": {
+    "de": "Straßenbahn 6, 12 oder Bus 61 bis Schillerplatz.",
+    "hu": "6-os, 12-es villamos vagy 61-es busz a Schillerplatz megállóig.",
+    "ro": "Tramvai 6, 12 sau autobuz 61 până la Schillerplatz.",
+    "en": "Tram 6, 12 or bus 61 to Schillerplatz."
+  },
+  "parking": {
+    "de": "Parkhaus Schillergalerie direkt am Brückenkopf (ca. 1,50€/Std.).",
+    "hu": "Schillergalerie parkolóház közvetlenül a híd lábánál (kb. 1,50 €/óra).",
+    "ro": "Parcarea Schillergalerie chiar la capătul podului (aprox. 1,50 €/oră).",
+    "en": "Schillergalerie parking garage right at the bridge head (approx. €1.50/h)."
+  },
+  "accessibility": {
+    "de": "Breite Gehwege auf der Brücke sind für Rollstühle gut geeignet.",
+    "hu": "A híd széles járdái jól használhatók kerekesszékkel.",
+    "ro": "Trotuarele late de pe pod sunt potrivite pentru scaune cu rotile.",
+    "en": "Wide sidewalks on the bridge are well-suited for wheelchairs."
+  },
+  "photoRules": {
+    "de": "Erlaubt, ideal vom Körnerplatz oder dem Elbufer aus zu fotografieren.",
+    "hu": "Engedélyezett, a fotózáshoz ideális a Körnerplatz vagy az Elba partja.",
+    "ro": "Permis, ideal de fotografiat din Körnerplatz sau de pe malul Elbei.",
+    "en": "Allowed, ideal to photograph from Körnerplatz or the Elbe riverbank."
+  },
+  "bestTimeToVisit": {
+    "de": "Früh morgens bei leichtem Elbnebel für mystische Aufnahmen.",
+    "hu": "Kora reggel, enyhe elbai ködben a misztikus képekért.",
+    "ro": "Dimineața devreme, în ceața ușoară de pe Elba pentru fotografii mistice.",
+    "en": "Early morning with light Elbe fog for mystical shots."
+  },
+  "audioGuide": {
+    "de": "nein",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

@@ -1,12 +1,57 @@
 {
-  "address": "Schlossweg, 56075 Koblenz-Stolzenfels",
-  "openingHours": "Di-Su 10:00-18:00 (Feb-Nov), Dez/Jan geschlossen",
-  "entranceFee": "5,00 € Erwachsene, 3,00 € Kinder",
+  "address": {
+    "de": "Schlossweg, 56075 Koblenz-Stolzenfels",
+    "hu": "Schlossweg, 56075 Koblenz-Stolzenfels",
+    "ro": "Schlossweg, 56075 Koblenz-Stolzenfels",
+    "en": "Schlossweg, 56075 Koblenz-Stolzenfels"
+  },
+  "openingHours": {
+    "de": "Di-Su 10:00-18:00 (Feb-Nov), Dez/Jan geschlossen",
+    "hu": "K-V 10:00-18:00 (febr-nov), dec/jan zárva",
+    "ro": "Ma-Du 10:00-18:00 (feb-nov), dec/ian închis",
+    "en": "Tue-Sun 10:00-18:00 (Feb-Nov), Dec/Jan closed"
+  },
+  "entranceFee": {
+    "de": "5,00 € Erwachsene, 3,00 € Kinder",
+    "hu": "Felnőtt 5,00 €, gyermek 3,00 €",
+    "ro": "5,00 € adulți, 3,00 € copii",
+    "en": "5.00 € adults, 3.00 € children"
+  },
   "website": "https://www.schloss-stolzenfels.de",
-  "publicTransport": "Bus 650 ab Koblenz Hbf bis Haltestelle Stolzenfels Schlossweg",
-  "parking": "Sehr kleiner Parkplatz an der B9 unterhalb des Schlosses; langer steiler Fußweg (20 Min).",
-  "accessibility": "Nicht barrierefrei; steiler Serpentinenaufstieg zum Schloss; im Schloss viele Treppen.",
-  "photoRules": "In den Innenräumen nur ohne Blitz und Stativ erlaubt (nach Kauf einer Fotoerlaubnis).",
-  "bestTimeToVisit": "Mai oder September für angenehme Temperaturen beim steilen Aufstieg.",
-  "audioGuide": "nein"
+  "publicTransport": {
+    "de": "Bus 650 ab Koblenz Hbf bis Haltestelle Stolzenfels Schlossweg",
+    "hu": "650-es busz Koblenz főpályaudvartól Stolzenfels Schlossweg megállóig",
+    "ro": "Autobuzul 650 de la Gara Centrală Koblenz până la stația Stolzenfels Schlossweg",
+    "en": "Bus 650 from Koblenz Hbf to Stolzenfels Schlossweg stop"
+  },
+  "parking": {
+    "de": "Sehr kleiner Parkplatz an der B9 unterhalb des Schlosses; langer steiler Fußweg (20 Min).",
+    "hu": "Nagyon kicsi parkoló a B9 út mentén a kastély alatt; hosszú, meredek séta (20 perc).",
+    "ro": "Parcare foarte mică pe B9 sub castel; drum lung și abrupt pe jos (20 min).",
+    "en": "Very small parking lot on B9 below the castle; long steep walk (20 mins)."
+  },
+  "accessibility": {
+    "de": "Nicht barrierefrei; steiler Serpentinenaufstieg zum Schloss; im Schloss viele Treppen.",
+    "hu": "Nem akadálymentes; meredek szerpentin vezet a kastélyhoz; a kastélyban sok a lépcső.",
+    "ro": "Nu este accesibil persoanelor cu dizabilități; urcare abruptă în serpentine spre castel; multe scări în interior.",
+    "en": "Not barrier-free; steep serpentine ascent to the castle; many stairs inside the castle."
+  },
+  "photoRules": {
+    "de": "In den Innenräumen nur ohne Blitz und Stativ erlaubt (nach Kauf einer Fotoerlaubnis).",
+    "hu": "A belső terekben csak vaku és állvány nélkül engedélyezett (fotójegy vásárlása után).",
+    "ro": "În interior permis doar fără bliț și trepied (după achiziționarea unui permis foto).",
+    "en": "Inside only allowed without flash and tripod (after purchasing a photo permit)."
+  },
+  "bestTimeToVisit": {
+    "de": "Mai oder September für angenehme Temperaturen beim steilen Aufstieg.",
+    "hu": "Május vagy szeptember a kellemes hőmérséklet miatt a meredek emelkedőn.",
+    "ro": "Mai sau septembrie pentru temperaturi plăcute în timpul urcării abrupte.",
+    "en": "May or September for pleasant temperatures during the steep climb."
+  },
+  "audioGuide": {
+    "de": "nein",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

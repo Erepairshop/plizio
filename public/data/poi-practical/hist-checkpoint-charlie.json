@@ -1,12 +1,57 @@
 {
-  "address": "Friedrichstraße 43-45, 10117 Berlin",
-  "openingHours": "24/7 (Mauermuseum: täglich 10:00-20:00)",
-  "entranceFee": "kostenlos (Museum: €17,50 Erwachsene)",
+  "address": {
+    "de": "Friedrichstraße 43-45, 10117 Berlin",
+    "hu": "Friedrichstraße 43-45, 10117 Berlin",
+    "ro": "Friedrichstraße 43-45, 10117 Berlin",
+    "en": "Friedrichstraße 43-45, 10117 Berlin"
+  },
+  "openingHours": {
+    "de": "24/7 (Mauermuseum: täglich 10:00-20:00)",
+    "hu": "éjjel-nappal (Mauermuseum: naponta 10:00-20:00)",
+    "ro": "non-stop (Mauermuseum: zilnic 10:00-20:00)",
+    "en": "24/7 (Wall Museum: daily 10:00-20:00)"
+  },
+  "entranceFee": {
+    "de": "kostenlos (Museum: €17,50 Erwachsene)",
+    "hu": "ingyenes (Múzeum: 17,50 € felnőtt)",
+    "ro": "gratuit (Muzeu: 17,50 € adulți)",
+    "en": "free (Museum: €17.50 adults)"
+  },
   "website": "https://www.mauermuseum.de",
-  "publicTransport": "U-Bahn Linie U6 (Haltestelle Kochstraße)",
-  "parking": "Sehr schwierig; Parkhaus Quartier Schützenstraße (~3 €/Std.).",
-  "accessibility": "Die Straßenebene am ehemaligen Kontrollpunkt ist voll barrierefrei.",
-  "photoRules": "Erlaubt, jedoch ist der Bereich oft extrem von Touristen überlaufen.",
-  "bestTimeToVisit": "Spät abends für stimmungsvolle Fotos ohne große Menschenmassen.",
-  "audioGuide": "nein (Audioguides nur im angrenzenden Mauermuseum)"
+  "publicTransport": {
+    "de": "U-Bahn Linie U6 (Haltestelle Kochstraße)",
+    "hu": "U6-os metróvonal (Kochstraße megálló)",
+    "ro": "Linia de metrou U6 (stația Kochstraße)",
+    "en": "U-Bahn line U6 (Kochstraße stop)"
+  },
+  "parking": {
+    "de": "Sehr schwierig; Parkhaus Quartier Schützenstraße (~3 €/Std.).",
+    "hu": "Nagyon nehéz; Quartier Schützenstraße parkolóház (~3 €/óra).",
+    "ro": "Foarte dificil; parcarea Quartier Schützenstraße (~3 €/oră).",
+    "en": "Very difficult; Quartier Schützenstraße parking garage (~3 €/hr)."
+  },
+  "accessibility": {
+    "de": "Die Straßenebene am ehemaligen Kontrollpunkt ist voll barrierefrei.",
+    "hu": "Az egykori ellenőrzőpont utcai szintje teljesen akadálymentes.",
+    "ro": "Nivelul străzii la fostul punct de control este complet accesibil.",
+    "en": "The street level at the former checkpoint is fully accessible."
+  },
+  "photoRules": {
+    "de": "Erlaubt, jedoch ist der Bereich oft extrem von Touristen überlaufen.",
+    "hu": "Megengedett, bár a terület gyakran rendkívül zsúfolt turistákkal.",
+    "ro": "Permis, totuși zona este adesea extrem de aglomerată de turiști.",
+    "en": "Permitted, though the area is often extremely crowded with tourists."
+  },
+  "bestTimeToVisit": {
+    "de": "Spät abends für stimmungsvolle Fotos ohne große Menschenmassen.",
+    "hu": "Késő este, hangulatos fotókhoz a nagy tömeg nélkül.",
+    "ro": "Seara târziu pentru fotografii atmosferice fără mulțimi mari.",
+    "en": "Late evening for atmospheric photos without the large crowds."
+  },
+  "audioGuide": {
+    "de": "nein (Audioguides nur im angrenzenden Mauermuseum)",
+    "hu": "nincs (audioguide csak a szomszédos Mauermuseumban)",
+    "ro": "nu (audioghiduri doar în muzeul adiacent Mauermuseum)",
+    "en": "no (audio guides only available in the adjacent Wall Museum)"
+  }
 }

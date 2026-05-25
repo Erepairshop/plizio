@@ -1,12 +1,57 @@
 {
-  "address": "Strada Alexandru Ioan Cuza, 245100 Ocnele Mari",
-  "openingHours": "Täglich 09:00-17:00 (letzter Einlass 16:00)",
-  "entranceFee": "35 RON Erwachsene, 20 RON Kinder",
+  "address": {
+    "de": "Strada Alexandru Ioan Cuza, 245100 Ocnele Mari",
+    "hu": "Strada Alexandru Ioan Cuza, 245100 Ocnele Mari",
+    "ro": "Strada Alexandru Ioan Cuza, 245100 Ocnele Mari",
+    "en": "Strada Alexandru Ioan Cuza, 245100 Ocnele Mari"
+  },
+  "openingHours": {
+    "de": "Täglich 09:00-17:00 (letzter Einlass 16:00)",
+    "hu": "Naponta 09:00-17:00 (utolsó belépés 16:00)",
+    "ro": "Zilnic 09:00-17:00 (ultima intrare 16:00)",
+    "en": "Daily 09:00-17:00 (last entry 16:00)"
+  },
+  "entranceFee": {
+    "de": "35 RON Erwachsene, 20 RON Kinder",
+    "hu": "35 RON felnőtteknek, 20 RON gyermekeknek",
+    "ro": "35 RON adulți, 20 RON copii",
+    "en": "35 RON adults, 20 RON children"
+  },
   "website": "https://www.salinaocnelemari.ro",
-  "publicTransport": "Lokale Busse von Râmnicu Vâlcea (ca. 7 km entfernt)",
-  "parking": "Gebührenpflichtiger Parkplatz direkt am Mineneingang (ca. 10 RON)",
-  "accessibility": "Barrierefrei; Minibus-Transfer bringt Besucher direkt in die Mine",
-  "photoRules": "Erlaubt; kein Blitz bei religiösen Objekten in der unterirdischen Kirche",
-  "bestTimeToVisit": "Wochentags, um die hohe Luftfeuchtigkeit durch viele Besucher zu vermeiden",
-  "audioGuide": "nein"
+  "publicTransport": {
+    "de": "Lokale Busse von Râmnicu Vâlcea (ca. 7 km entfernt)",
+    "hu": "Helyi buszok Râmnicu Vâlceából (kb. 7 km-re)",
+    "ro": "Autobuze locale din Râmnicu Vâlcea (aprox. 7 km distanță)",
+    "en": "Local buses from Râmnicu Vâlcea (approx. 7 km away)"
+  },
+  "parking": {
+    "de": "Gebührenpflichtiger Parkplatz direkt am Mineneingang (ca. 10 RON)",
+    "hu": "Fizetős parkoló közvetlenül a bánya bejáratánál (kb. 10 RON)",
+    "ro": "Parcare cu plată direct la intrarea în mină (aprox. 10 RON)",
+    "en": "Paid parking directly at the mine entrance (approx. 10 RON)"
+  },
+  "accessibility": {
+    "de": "Barrierefrei; Minibus-Transfer bringt Besucher direkt in die Mine",
+    "hu": "Akadálymentes; minibusz viszi a látogatókat közvetlenül a bányába",
+    "ro": "Accesibil; transferul cu microbuz duce vizitatorii direct în mină",
+    "en": "Accessible; minibus transfer brings visitors directly into the mine"
+  },
+  "photoRules": {
+    "de": "Erlaubt; kein Blitz bei religiösen Objekten in der unterirdischen Kirche",
+    "hu": "Engedélyezett; vaku tilos a földalatti templom vallási objektumainál",
+    "ro": "Permis; blițul interzis la obiectele religioase din biserica subterană",
+    "en": "Permitted; flash prohibited at religious objects in the underground church"
+  },
+  "bestTimeToVisit": {
+    "de": "Wochentags, um die hohe Luftfeuchtigkeit durch viele Besucher zu vermeiden",
+    "hu": "Hétköznap, hogy elkerüld a sok látogató miatti magas páratartalmat",
+    "ro": "În timpul săptămânii, pentru a evita umiditatea ridicată cauzată de mulți vizitatori",
+    "en": "Weekdays to avoid high humidity caused by many visitors"
+  },
+  "audioGuide": {
+    "de": "nein",
+    "hu": "nem",
+    "ro": "nu",
+    "en": "no"
+  }
 }

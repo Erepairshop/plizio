@@ -1,12 +1,57 @@
 {
-  "address": "Vár út, 3332 Sirok",
-  "openingHours": "Mo-Su 09:00-18:00 (Sommer), 09:00-16:00 (Winter)",
-  "entranceFee": "1800 HUF Erwachsene, 1000 HUF Kinder",
+  "address": {
+    "de": "Vár út, 3332 Sirok",
+    "hu": "Vár út, 3332 Sirok",
+    "ro": "Vár út, 3332 Sirok",
+    "en": "Vár út, 3332 Sirok"
+  },
+  "openingHours": {
+    "de": "Mo-Su 09:00-18:00 (Sommer), 09:00-16:00 (Winter)",
+    "hu": "H-V 09:00-18:00 (nyár), 09:00-16:00 (tél)",
+    "ro": "L-D 09:00-18:00 (vară), 09:00-16:00 (iarnă)",
+    "en": "Mon-Sun 09:00-18:00 (summer), 09:00-16:00 (winter)"
+  },
+  "entranceFee": {
+    "de": "1800 HUF Erwachsene, 1000 HUF Kinder",
+    "hu": "1800 HUF felnőttek, 1000 HUF gyermekek",
+    "ro": "1800 HUF adulți, 1000 HUF copii",
+    "en": "1800 HUF adults, 1000 HUF children"
+  },
   "website": "https://sirokivar.hu/",
-  "publicTransport": "Bus von Eger nach Sirok, Haltestelle Központ, danach 15 Min. Fußweg bergauf.",
-  "parking": "Kostenpflichtiger Parkplatz am Fuße des Burgbergs vorhanden.",
-  "accessibility": "Nicht barrierefrei; sehr steiler Aufstieg auf den Gipfel des Vulkankegels.",
-  "photoRules": "Frei erlaubt; Drohnenaufnahmen erfordern eine vorherige schriftliche Genehmigung.",
-  "bestTimeToVisit": "Früher Herbstmorgen, wenn oft Nebel in den Tälern des Mátra-Gebirges liegt.",
-  "audioGuide": "HU, EN"
+  "publicTransport": {
+    "de": "Bus von Eger nach Sirok, Haltestelle Központ, danach 15 Min. Fußweg bergauf.",
+    "hu": "Busz Egertől Sirokig, Központ megálló, majd 15 perc séta felfelé.",
+    "ro": "Autobuz de la Eger la Sirok, stația Központ, apoi 15 minute de urcat pe jos.",
+    "en": "Bus from Eger to Sirok, Központ stop, then a 15-minute walk uphill."
+  },
+  "parking": {
+    "de": "Kostenpflichtiger Parkplatz am Fuße des Burgbergs vorhanden.",
+    "hu": "Fizetős parkoló a várhegy lábánál található.",
+    "ro": "Parcare cu plată disponibilă la poalele dealului castelului.",
+    "en": "Paid parking available at the foot of the castle hill."
+  },
+  "accessibility": {
+    "de": "Nicht barrierefrei; sehr steiler Aufstieg auf den Gipfel des Vulkankegels.",
+    "hu": "Nem akadálymentes; nagyon meredek emelkedő a vulkáni kúp csúcsára.",
+    "ro": "Nu este accesibil; urcare foarte abruptă spre vârful conului vulcanic.",
+    "en": "Not accessible; very steep climb to the top of the volcanic cone."
+  },
+  "photoRules": {
+    "de": "Frei erlaubt; Drohnenaufnahmen erfordern eine vorherige schriftliche Genehmigung.",
+    "hu": "Szabadon megengedett; drónfelvételekhez előzetes írásbeli engedély szükséges.",
+    "ro": "Permis liber; filmările cu drona necesită autorizație scrisă prealabilă.",
+    "en": "Freely allowed; drone shots require prior written permission."
+  },
+  "bestTimeToVisit": {
+    "de": "Früher Herbstmorgen, wenn oft Nebel in den Tälern des Mátra-Gebirges liegt.",
+    "hu": "Kora őszi reggel, amikor gyakran köd ül a Mátra völgyeiben.",
+    "ro": "Dimineața devreme de toamnă, când ceața acoperă adesea văile Munților Mátra.",
+    "en": "Early autumn mornings when fog often lies in the valleys of the Mátra mountains."
+  },
+  "audioGuide": {
+    "de": "HU, EN",
+    "hu": "HU, EN",
+    "ro": "HU, EN",
+    "en": "HU, EN"
+  }
 }

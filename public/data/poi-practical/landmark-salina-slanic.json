@@ -1,12 +1,51 @@
 {
-  "address": "Strada Dorobanți 22, 106200 Slănic, Prahova",
-  "openingHours": "Tu-Su 08:00-15:30, closed Mondays",
-  "entranceFee": "45 RON Erwachsene, 30 RON Schüler/Studenten",
+  "address": {
+    "de": "Strada Dorobanți 22, 106200 Slănic, Prahova",
+    "hu": "Strada Dorobanți 22, 106200 Slănic, Prahova",
+    "ro": "Strada Dorobanți 22, 106200 Slănic, Prahova",
+    "en": "Strada Dorobanți 22, 106200 Slănic, Prahova"
+  },
+  "openingHours": {
+    "de": "Tu-Su 08:00-15:30, closed Mondays",
+    "hu": "Ké-Va 08:00-15:30, hétfőn zárva",
+    "ro": "Ma-Du 08:00-15:30, închis lunea",
+    "en": "Tue-Sun 08:00-15:30, closed Mondays"
+  },
+  "entranceFee": {
+    "de": "45 RON Erwachsene, 30 RON Schüler/Studenten",
+    "hu": "45 RON felnőtt, 30 RON diák/egyetemista",
+    "ro": "45 RON adulți, 30 RON elevi/studenți",
+    "en": "45 RON adults, 30 RON students"
+  },
   "website": "https://salina.ro",
-  "publicTransport": "Direkte Züge und Minibusse (Maxi-Taxi) von Ploiești",
-  "parking": "Parkplätze in den umliegenden Straßen, ca. 5-10 RON",
-  "accessibility": "Eingeschränkt; der Transfer erfolgt mit Minibussen durch den Tunnel",
-  "photoRules": "Erlaubt; Stativnutzung in den großen Hallen meist unproblematisch",
-  "bestTimeToVisit": "Vormittags an Wochentagen für die beste Luftqualität und Ruhe",
-  "audioGuide": "no"
+  "publicTransport": {
+    "de": "Direkte Züge und Minibusse (Maxi-Taxi) von Ploiești",
+    "hu": "Közvetlen vonatok és minibuszok (Maxi-Taxi) Ploiești-ből",
+    "ro": "Trenuri și microbuze directe (Maxi-Taxi) din Ploiești",
+    "en": "Direct trains and minibuses (Maxi-Taxi) from Ploiești"
+  },
+  "parking": {
+    "de": "Parkplätze in den umliegenden Straßen, ca. 5-10 RON",
+    "hu": "Parkolóhelyek a környező utcákban, kb. 5-10 RON",
+    "ro": "Parcări pe străzile din jur, aprox. 5-10 RON",
+    "en": "Parking in surrounding streets, approx. 5-10 RON"
+  },
+  "accessibility": {
+    "de": "Eingeschränkt; der Transfer erfolgt mit Minibussen durch den Tunnel",
+    "hu": "Korlátozott; a transzfer a bányába minibuszokkal történik az alagúton át",
+    "ro": "Limitată; transferul se face cu microbuze prin tunel",
+    "en": "Limited; transfer is via minibuses through the tunnel"
+  },
+  "photoRules": {
+    "de": "Erlaubt; Stativnutzung in den großen Hallen meist unproblematisch",
+    "hu": "Engedélyezett; állvány használata a nagy csarnokokban általában nem okoz gondot",
+    "ro": "Permis; utilizarea trepiedului în sălile mari nu este de obicei o problemă",
+    "en": "Allowed; tripod use in large halls usually not a problem"
+  },
+  "bestTimeToVisit": {
+    "de": "Vormittags an Wochentagen für die beste Luftqualität und Ruhe",
+    "hu": "Hétköznap délelőtt a legjobb levegőminőség és nyugalom érdekében",
+    "ro": "Dimineața în timpul săptămânii pentru cea mai bună calitate a aerului și liniște",
+    "en": "Mornings on weekdays for the best air quality and quiet"
+  }
 }

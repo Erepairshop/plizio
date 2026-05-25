@@ -1,12 +1,57 @@
 {
-  "address": "Krummgasse 2, 8200 Schaffhausen",
-  "openingHours": "Mo-Fr 08:00-11:30, 13:30-17:00",
-  "entranceFee": "kostenlos",
+  "address": {
+    "de": "Krummgasse 2, 8200 Schaffhausen",
+    "hu": "Krummgasse 2, 8200 Schaffhausen",
+    "ro": "Krummgasse 2, 8200 Schaffhausen",
+    "en": "Krummgasse 2, 8200 Schaffhausen"
+  },
+  "openingHours": {
+    "de": "Mo-Fr 08:00-11:30, 13:30-17:00",
+    "hu": "H–P 08:00–11:30, 13:30–17:00",
+    "ro": "Luni-Vin 08:00-11:30, 13:30-17:00",
+    "en": "Mon-Fri 08:00-11:30, 13:30-17:00"
+  },
+  "entranceFee": {
+    "de": "kostenlos",
+    "hu": "ingyenes",
+    "ro": "gratuit",
+    "en": "free"
+  },
   "website": "https://www.stadt-schaffhausen.ch/",
-  "publicTransport": "Stadtbusse 1, 3, 4, 7, 8 bis Haltestelle Stadthaus.",
-  "parking": "Parkhaus Herrenacker (CHF 3.00/Std.) ca. 3 Gehminuten entfernt.",
-  "accessibility": "Barrierefreier Zugang über den Seiteneingang möglich.",
-  "photoRules": "Erlaubt, solange der Dienstbetrieb nicht gestört wird.",
-  "bestTimeToVisit": "Früher Vormittag für eine ruhige Besichtigung der Architektur.",
-  "audioGuide": "no"
+  "publicTransport": {
+    "de": "Stadtbusse 1, 3, 4, 7, 8 bis Haltestelle Stadthaus.",
+    "hu": "1, 3, 4, 7, 8-as busz a Stadthaus megállóig.",
+    "ro": "Autobuzele 1, 3, 4, 7, 8 până la stația Stadthaus.",
+    "en": "City bus lines 1, 3, 4, 7, 8 to Stadthaus stop."
+  },
+  "parking": {
+    "de": "Parkhaus Herrenacker (CHF 3.00/Std.) ca. 3 Gehminuten entfernt.",
+    "hu": "Herrenacker parkolóház (3 CHF/óra) kb. 3 perc sétára.",
+    "ro": "Parcarea Herrenacker (3 CHF/oră) la aprox. 3 min. de mers pe jos.",
+    "en": "Herrenacker parking (3 CHF/hr) approx. 3 min. walk away."
+  },
+  "accessibility": {
+    "de": "Barrierefreier Zugang über den Seiteneingang möglich.",
+    "hu": "Akadálymentesített bejárat a hátsó ajtón keresztül.",
+    "ro": "Accesibil prin intrarea laterală.",
+    "en": "Accessible via side entrance."
+  },
+  "photoRules": {
+    "de": "Erlaubt, solange der Dienstbetrieb nicht gestört wird.",
+    "hu": "Engedélyezett, ha nem zavarja az ügyintézést.",
+    "ro": "Permis, atâta timp cât nu perturbă activitatea.",
+    "en": "Allowed as long as office operations are not disturbed."
+  },
+  "bestTimeToVisit": {
+    "de": "Früher Vormittag für eine ruhige Besichtigung der Architektur.",
+    "hu": "Korai délelőtt a csendes építészeti szemléhez.",
+    "ro": "Dimineața devreme pentru o vizită liniștită a arhitecturii.",
+    "en": "Early morning for a quiet viewing of the architecture."
+  },
+  "audioGuide": {
+    "de": "no",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

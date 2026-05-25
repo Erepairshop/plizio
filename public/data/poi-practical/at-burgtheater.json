@@ -1,12 +1,57 @@
 {
-  "address": "Universitätsring 2, 1010 Wien",
-  "openingHours": "Täglich Führungen um 15:00 Uhr (Termine prüfen)",
-  "entranceFee": "€ 7,00 für die Führung",
+  "address": {
+    "de": "Universitätsring 2, 1010 Wien",
+    "hu": "Universitätsring 2, 1010 Bécs",
+    "ro": "Universitätsring 2, 1010 Viena",
+    "en": "Universitätsring 2, 1010 Vienna"
+  },
+  "openingHours": {
+    "de": "Täglich Führungen um 15:00 Uhr (Termine prüfen)",
+    "hu": "Vezetések naponta 15:00-kor (időpontokat ellenőrizni kell)",
+    "ro": "Tururi ghidate zilnic la ora 15:00 (verificați datele)",
+    "en": "Daily guided tours at 3:00 PM (check dates)"
+  },
+  "entranceFee": {
+    "de": "€ 7,00 für die Führung",
+    "hu": "7,00 € a vezetés",
+    "ro": "7,00 € pentru turul ghidat",
+    "en": "€7.00 for the guided tour"
+  },
   "website": "https://www.burgtheater.at",
-  "publicTransport": "U2 Rathaus; Tram 1, 71, D Haltestelle Burgtheater",
-  "parking": "Rathausparkgarage oder Garage Freyung (ca. 5 €/h).",
-  "accessibility": "Theaterbesuch barrierefrei möglich, Führungen für Rollstuhlfahrer begrenzt.",
-  "photoRules": "Fotografieren ohne Blitz während der Führung meist gestattet.",
-  "bestTimeToVisit": "15:00 Uhr zur Führung, um die Klimt-Deckengemälde ohne Theaterpublikum zu sehen.",
-  "audioGuide": "ja (in mehreren Sprachen bei Führungen)"
+  "publicTransport": {
+    "de": "U2 Rathaus; Tram 1, 71, D Haltestelle Burgtheater",
+    "hu": "U2 Rathaus; 1, 71, D villamos, Burgtheater megálló",
+    "ro": "U2 Rathaus; tramvaiul 1, 71, D stația Burgtheater",
+    "en": "U2 Rathaus; tram 1, 71, D stop Burgtheater"
+  },
+  "parking": {
+    "de": "Rathausparkgarage oder Garage Freyung (ca. 5 €/h).",
+    "hu": "Rathausparkgarage vagy Garage Freyung (kb. 5 €/óra).",
+    "ro": "Parcarea Rathauspark sau garajul Freyung (cca 5 €/h).",
+    "en": "Rathausparkgarage or Freyung garage (approx. €5/h)."
+  },
+  "accessibility": {
+    "de": "Theaterbesuch barrierefrei möglich, Führungen für Rollstuhlfahrer begrenzt.",
+    "hu": "Színházlátogatás akadálymentesen lehetséges, a vezetések kerekesszékeseknek korlátozottak.",
+    "ro": "Vizita la teatru este posibilă fără bariere, tururi limitate pentru scaune cu rotile.",
+    "en": "Theater visit accessible, guided tours for wheelchair users are limited."
+  },
+  "photoRules": {
+    "de": "Fotografieren ohne Blitz während der Führung meist gestattet.",
+    "hu": "Fotózás vaku nélkül a vezetés alatt általában megengedett.",
+    "ro": "Fotografierea fără bliț în timpul turului este de obicei permisă.",
+    "en": "Photography without flash is usually permitted during the tour."
+  },
+  "bestTimeToVisit": {
+    "de": "15:00 Uhr zur Führung, um die Klimt-Deckengemälde ohne Theaterpublikum zu sehen.",
+    "hu": "15:00 a vezetésre, hogy a Klimt-mennyezetfestményeket a közönség nélkül láthassuk.",
+    "ro": "Ora 15:00 pentru tur, pentru a vedea picturile de pe plafon de Klimt fără public.",
+    "en": "3:00 PM for the tour to see the Klimt ceiling paintings without the theater audience."
+  },
+  "audioGuide": {
+    "de": "ja (in mehreren Sprachen bei Führungen)",
+    "hu": "igen (több nyelven a vezetéseknél)",
+    "ro": "da (în mai multe limbi la tururi)",
+    "en": "yes (in several languages during tours)"
+  }
 }

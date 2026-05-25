@@ -1,12 +1,57 @@
 {
-  "address": "Am Markt, 23966 Wismar",
-  "openingHours": "24/7",
-  "entranceFee": "kostenlos",
+  "address": {
+    "de": "Am Markt, 23966 Wismar",
+    "hu": "Am Markt, 23966 Wismar, Németország",
+    "ro": "Am Markt, 23966 Wismar, Germania",
+    "en": "Am Markt, 23966 Wismar, Germany"
+  },
+  "openingHours": {
+    "de": "24/7",
+    "hu": "24/7",
+    "ro": "24/7",
+    "en": "24/7"
+  },
+  "entranceFee": {
+    "de": "kostenlos",
+    "hu": "ingyenes",
+    "ro": "gratuit",
+    "en": "free"
+  },
   "website": "https://www.wismar.de",
-  "publicTransport": "Buslinien 1, 4 (ZOB/Zentrum)",
-  "parking": "Parkplatz Altstadt/Hafen, ca. 1 €/Std.",
-  "accessibility": "Marktplatz und Hafen gut zugänglich, Seitenstraßen mit Kopfsteinpflaster.",
-  "photoRules": "Erlaubt.",
-  "bestTimeToVisit": "Vormittags für den Fischmarkt am Hafen.",
-  "audioGuide": "nein"
+  "publicTransport": {
+    "de": "Buslinien 1, 4 (ZOB/Zentrum)",
+    "hu": "1-es és 4-es buszjárat (ZOB/Zentrum megálló)",
+    "ro": "Liniile de autobuz 1, 4 (ZOB/Centru)",
+    "en": "Bus lines 1, 4 (ZOB/Center)"
+  },
+  "parking": {
+    "de": "Parkplatz Altstadt/Hafen, ca. 1 €/Std.",
+    "hu": "Óvárosi/kikötői parkoló, kb. 1 €/óra",
+    "ro": "Parcare în orașul vechi/port, aprox. 1 €/oră",
+    "en": "Old Town/Harbor parking, approx. 1 €/hour"
+  },
+  "accessibility": {
+    "de": "Marktplatz und Hafen gut zugänglich, Seitenstraßen mit Kopfsteinpflaster.",
+    "hu": "A piactér és a kikötő jól megközelíthető, az oldalszintek macskakövesek.",
+    "ro": "Piața centrală și portul sunt accesibile, străzile laterale au pavaj.",
+    "en": "Market square and harbor accessible, side streets have cobblestones."
+  },
+  "photoRules": {
+    "de": "Erlaubt.",
+    "hu": "Engedélyezett.",
+    "ro": "Permis.",
+    "en": "Allowed."
+  },
+  "bestTimeToVisit": {
+    "de": "Vormittags für den Fischmarkt am Hafen.",
+    "hu": "Délelőtt a kikötői halpiac miatt.",
+    "ro": "Dimineața pentru piața de pește din port.",
+    "en": "In the morning for the fish market at the harbor."
+  },
+  "audioGuide": {
+    "de": "nein",
+    "hu": "nem",
+    "ro": "nu",
+    "en": "no"
+  }
 }

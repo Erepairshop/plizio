@@ -1,12 +1,57 @@
 {
-  "address": "Albertinaplatz 1, 1010 Wien, Österreich",
-  "openingHours": "Täglich 10:00-18:00, Mi & Fr bis 21:00 Uhr",
-  "entranceFee": "€18.90 Erwachsene, unter 19 Jahren kostenlos",
+  "address": {
+    "de": "Albertinaplatz 1, 1010 Wien, Österreich",
+    "hu": "Albertinaplatz 1, 1010 Bécs, Ausztria",
+    "ro": "Albertinaplatz 1, 1010 Viena, Austria",
+    "en": "Albertinaplatz 1, 1010 Vienna, Austria"
+  },
+  "openingHours": {
+    "de": "Täglich 10:00-18:00, Mi & Fr bis 21:00 Uhr",
+    "hu": "Naponta 10:00-18:00, szerdán és pénteken 21:00-ig",
+    "ro": "Zilnic 10:00-18:00, miercuri și vineri până la 21:00",
+    "en": "Daily 10:00-18:00, Wed & Fri until 9:00 PM"
+  },
+  "entranceFee": {
+    "de": "€18.90 Erwachsene, unter 19 Jahren kostenlos",
+    "hu": "18,90 € felnőtt, 19 év alatt ingyenes",
+    "ro": "18,90 € adulți, gratuit sub 19 ani",
+    "en": "€18.90 adults, free for those under 19"
+  },
   "website": "https://www.albertina.at/",
-  "publicTransport": "U-Bahn U1, U2, U4 (Karlsplatz) oder U3 (Stephansplatz)",
-  "parking": "Tiefgarage Kärntnerringgarage (Einfahrt Mahlerstraße)",
-  "accessibility": "Vollständig barrierefrei durch Aufzüge von der Straßenebene",
-  "photoRules": "Erlaubt ohne Blitz und Stativ",
-  "bestTimeToVisit": "Mittwoch- oder Freitagabend für weniger Gedränge",
-  "audioGuide": "DE, EN, FR, IT, ES, RU, ZH"
+  "publicTransport": {
+    "de": "U-Bahn U1, U2, U4 (Karlsplatz) oder U3 (Stephansplatz)",
+    "hu": "U1, U2, U4 metró (Karlsplatz) vagy U3 metró (Stephansplatz)",
+    "ro": "Metrou U1, U2, U4 (Karlsplatz) sau U3 (Stephansplatz)",
+    "en": "Metro U1, U2, U4 (Karlsplatz) or U3 (Stephansplatz)"
+  },
+  "parking": {
+    "de": "Tiefgarage Kärntnerringgarage (Einfahrt Mahlerstraße)",
+    "hu": "Kärntnerringgarage mélygarázs (bejárat a Mahlerstraße felől)",
+    "ro": "Parcare subterană Kärntnerringgarage (intrare din Mahlerstraße)",
+    "en": "Kärntnerringgarage underground parking (entrance via Mahlerstraße)"
+  },
+  "accessibility": {
+    "de": "Vollständig barrierefrei durch Aufzüge von der Straßenebene",
+    "hu": "Teljesen akadálymentesített, liftekkel az utcáról",
+    "ro": "Complet accesibil prin lifturi de la nivelul străzii",
+    "en": "Fully accessible via elevators from street level"
+  },
+  "photoRules": {
+    "de": "Erlaubt ohne Blitz und Stativ",
+    "hu": "Vaku és állvány nélkül engedélyezett",
+    "ro": "Permis fără bliț și trepied",
+    "en": "Allowed without flash or tripod"
+  },
+  "bestTimeToVisit": {
+    "de": "Mittwoch- oder Freitagabend für weniger Gedränge",
+    "hu": "Szerda vagy péntek este a kisebb tömeg érdekében",
+    "ro": "Miercuri sau vineri seara pentru a evita aglomerația",
+    "en": "Wednesday or Friday evenings for fewer crowds"
+  },
+  "audioGuide": {
+    "de": "DE, EN, FR, IT, ES, RU, ZH",
+    "hu": "DE, EN, FR, IT, ES, RU, ZH nyelveken elérhető",
+    "ro": "DE, EN, FR, IT, ES, RU, ZH",
+    "en": "Available in DE, EN, FR, IT, ES, RU, ZH"
+  }
 }

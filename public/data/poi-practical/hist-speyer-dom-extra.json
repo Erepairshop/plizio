@@ -1,12 +1,57 @@
 {
-  "address": "Domplatz 1, 67346 Speyer",
-  "openingHours": "Mo-Sa 09:00-19:00, So 11:30-17:30",
-  "entranceFee": "kostenlos (Dom), Ausstellungen/Krypta kostenpflichtig",
+  "address": {
+    "de": "Domplatz 1, 67346 Speyer",
+    "hu": "Domplatz 1, 67346 Speyer",
+    "ro": "Domplatz 1, 67346 Speyer",
+    "en": "Domplatz 1, 67346 Speyer"
+  },
+  "openingHours": {
+    "de": "Mo-Sa 09:00-19:00, So 11:30-17:30",
+    "hu": "H-Szo 09:00-19:00, V 11:30-17:30",
+    "ro": "Lu-Sâ 09:00-19:00, Du 11:30-17:30",
+    "en": "Mon-Sat 09:00-19:00, Sun 11:30-17:30"
+  },
+  "entranceFee": {
+    "de": "kostenlos (Dom), Ausstellungen/Krypta kostenpflichtig",
+    "hu": "ingyenes (dóm), kiállítások/kripta díjköteles",
+    "ro": "gratuit (domul), expozițiile/cripta contra cost",
+    "en": "free (cathedral), exhibitions/crypt require a fee"
+  },
   "website": "https://www.dom-zu-speyer.de",
-  "publicTransport": "Bus 561, 568 (Postplatz/Domplatz)",
-  "parking": "Parkhaus am Dom (Körtscher-Parkhaus), ca. 2 €/Std.",
-  "accessibility": "Hauptschiff barrierefrei zugänglich.",
-  "photoRules": "Erlaubt für private Zwecke, kein Blitz.",
-  "bestTimeToVisit": "Sonntagnachmittag nach den Gottesdiensten.",
-  "audioGuide": "ja"
+  "publicTransport": {
+    "de": "Bus 561, 568 (Postplatz/Domplatz)",
+    "hu": "561, 568-as busz (Postplatz/Domplatz)",
+    "ro": "Autobuzul 561, 568 (Postplatz/Domplatz)",
+    "en": "Bus 561, 568 (Postplatz/Domplatz)"
+  },
+  "parking": {
+    "de": "Parkhaus am Dom (Körtscher-Parkhaus), ca. 2 €/Std.",
+    "hu": "Parkolóház a dómnál (Körtscher-Parkhaus), kb. 2 €/óra",
+    "ro": "Parcarea de la dom (Körtscher-Parkhaus), aprox. 2 €/oră",
+    "en": "Cathedral parking garage (Körtscher-Parkhaus), approx. 2 €/hr"
+  },
+  "accessibility": {
+    "de": "Hauptschiff barrierefrei zugänglich.",
+    "hu": "A főhajó akadálymentesen megközelíthető.",
+    "ro": "Nava principală este accesibilă persoanelor cu dizabilități.",
+    "en": "Main nave barrier-free accessible."
+  },
+  "photoRules": {
+    "de": "Erlaubt für private Zwecke, kein Blitz.",
+    "hu": "Magáncélra engedélyezett, vaku nélkül.",
+    "ro": "Permis pentru uz privat, fără bliț.",
+    "en": "Allowed for private purposes, no flash."
+  },
+  "bestTimeToVisit": {
+    "de": "Sonntagnachmittag nach den Gottesdiensten.",
+    "hu": "Vasárnap délután az istentiszteletek után.",
+    "ro": "Duminică după-amiază după slujbe.",
+    "en": "Sunday afternoon after the services."
+  },
+  "audioGuide": {
+    "de": "ja",
+    "hu": "igen",
+    "ro": "da",
+    "en": "yes"
+  }
 }

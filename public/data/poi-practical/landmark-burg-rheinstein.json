@@ -1,12 +1,57 @@
 {
-  "address": "Burg Rheinstein, 55413 Trechtingshausen",
-  "openingHours": "Täglich 10:00-18:00 (Saison März bis Oktober)",
-  "entranceFee": "Erwachsene 7€, Kinder 3,50€",
+  "address": {
+    "de": "Burg Rheinstein, 55413 Trechtingshausen",
+    "hu": "Burg Rheinstein, 55413 Trechtingshausen",
+    "ro": "Burg Rheinstein, 55413 Trechtingshausen",
+    "en": "Burg Rheinstein, 55413 Trechtingshausen"
+  },
+  "openingHours": {
+    "de": "Täglich 10:00-18:00 (Saison März bis Oktober)",
+    "hu": "Naponta 10:00-18:00 (márciustól októberig)",
+    "ro": "Zilnic 10:00-18:00 (sezonul martie-octombrie)",
+    "en": "Daily 10:00-18:00 (season March to October)"
+  },
+  "entranceFee": {
+    "de": "Erwachsene 7€, Kinder 3,50€",
+    "hu": "Felnőtt 7 €, gyermek 3,50 €",
+    "ro": "Adulți 7 €, copii 3,50 €",
+    "en": "Adults €7, children €3.50"
+  },
   "website": "https://www.burg-rheinstein.de",
-  "publicTransport": "Regionalbahn bis Trechtingshausen, dann 20 Min. Aufstieg.",
-  "parking": "Wenige kostenlose Parkplätze an der B9 unterhalb der Burg.",
-  "accessibility": "Nicht barrierefrei durch enge Wendeltreppen und Felsenwege.",
-  "photoRules": "Erlaubt, in den Wohnräumen bitte ohne Blitz fotografieren.",
-  "bestTimeToVisit": "Frühsommer, wenn die namensgebenden Rosen im Burggarten blühen.",
-  "audioGuide": "nein (gedruckter Inselführer erhältlich)"
+  "publicTransport": {
+    "de": "Regionalbahn bis Trechtingshausen, dann 20 Min. Aufstieg.",
+    "hu": "Regionális vonat Trechtingshausenig, majd 20 perc gyalogos emelkedő.",
+    "ro": "Tren regional până la Trechtingshausen, apoi 20 minute de urcare.",
+    "en": "Regional train to Trechtingshausen, then 20 min walk uphill."
+  },
+  "parking": {
+    "de": "Wenige kostenlose Parkplätze an der B9 unterhalb der Burg.",
+    "hu": "Néhány ingyenes parkolóhely a B9-es úton a vár alatt.",
+    "ro": "Câteva locuri de parcare gratuite pe drumul B9 sub castel.",
+    "en": "A few free parking spaces on the B9 below the castle."
+  },
+  "accessibility": {
+    "de": "Nicht barrierefrei durch enge Wendeltreppen und Felsenwege.",
+    "hu": "Nem akadálymentesített a szűk csigalépcsők és sziklás utak miatt.",
+    "ro": "Nu este accesibilă din cauza scărilor în spirală înguste și a drumurilor stâncoase.",
+    "en": "Not accessible due to narrow spiral staircases and rocky paths."
+  },
+  "photoRules": {
+    "de": "Erlaubt, in den Wohnräumen bitte ohne Blitz fotografieren.",
+    "hu": "Engedélyezett, a lakószobákban kérjük vaku nélkül fotózni.",
+    "ro": "Permis, în încăperi vă rugăm să fotografiați fără bliț.",
+    "en": "Allowed, please photograph without flash in the living rooms."
+  },
+  "bestTimeToVisit": {
+    "de": "Frühsommer, wenn die namensgebenden Rosen im Burggarten blühen.",
+    "hu": "Kora nyár, amikor a névadó rózsák virágoznak a várkertben.",
+    "ro": "La începutul verii, când trandafirii omonimi înfloresc în grădina castelului.",
+    "en": "Early summer when the eponymous roses bloom in the castle garden."
+  },
+  "audioGuide": {
+    "de": "nein (gedruckter Inselführer erhältlich)",
+    "hu": "nincs (nyomtatott várkalauz kapható)",
+    "ro": "nu (ghid tipărit disponibil)",
+    "en": "no (printed castle guide available)"
+  }
 }

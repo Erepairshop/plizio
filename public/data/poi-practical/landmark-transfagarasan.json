@@ -1,12 +1,57 @@
 {
-  "address": "DN7C (Cârțișoara - Bascov), 557075 Cârțișoara, Sibiu",
-  "openingHours": "Permanently accessible (July - October), closed in winter",
-  "entranceFee": "free",
-  "website": "",
-  "publicTransport": "Saisonaler 'Transfăgărășan Bus' von Sibiu nach Bâlea Lac",
-  "parking": "Gebührenpflichtiger Parkplatz am Bâlea-See, ca. 10-15 RON pro Stunde",
-  "accessibility": "Straße asphaltiert; Wanderwege um den Bâlea-See sind steinig",
-  "photoRules": "Erlaubt; Vorsicht beim Fotografieren der Bären am Straßenrand",
-  "bestTimeToVisit": "Früh am Morgen (vor 08:00), bevor Ausflugsbusse und Motorräder eintreffen",
-  "audioGuide": "no"
+  "address": {
+    "de": "DN7C (Cârțișoara - Bascov), 557075 Cârțișoara, Sibiu",
+    "hu": "DN7C (Cârțișoara - Bascov), 557075 Cârțișoara, Szeben megye",
+    "ro": "DN7C (Cârțișoara - Bascov), 557075 Cârțișoara, Sibiu",
+    "en": "DN7C (Cârțișoara - Bascov), 557075 Cârțișoara, Sibiu"
+  },
+  "openingHours": {
+    "de": "Permanently accessible (July - October), closed in winter",
+    "hu": "Folyamatosan járható (július - október), télen zárva",
+    "ro": "Accesibil permanent (iulie - octombrie), închis iarna",
+    "en": "Permanently accessible (July - October), closed in winter"
+  },
+  "entranceFee": {
+    "de": "free",
+    "hu": "ingyenes",
+    "ro": "gratuit",
+    "en": "free"
+  },
+  "website": "https://www.transfagarasan.net/",
+  "publicTransport": {
+    "de": "Saisonaler 'Transfăgărășan Bus' von Sibiu nach Bâlea Lac",
+    "hu": "Szezonális 'Transfăgărășan busz' Nagyszebenből a Bâlea-tóig",
+    "ro": "Autobuz sezonier 'Transfăgărășan' din Sibiu până la Bâlea Lac",
+    "en": "Seasonal 'Transfăgărășan bus' from Sibiu to Bâlea Lac"
+  },
+  "parking": {
+    "de": "Gebührenpflichtiger Parkplatz am Bâlea-See, ca. 10-15 RON pro Stunde",
+    "hu": "Fizetős parkoló a Bâlea-tónál, kb. 10-15 RON/óra",
+    "ro": "Parcare cu plată la Bâlea Lac, aprox. 10-15 RON pe oră",
+    "en": "Paid parking at Bâlea Lake, approx. 10-15 RON per hour"
+  },
+  "accessibility": {
+    "de": "Straße asphaltiert; Wanderwege um den Bâlea-See sind steinig",
+    "hu": "Az út aszfaltozott; a Bâlea-tó körüli túraútvonalak kövesek",
+    "ro": "Drum asfaltat; traseele de drumeție din jurul lacului Bâlea sunt stâncoase",
+    "en": "Road paved; hiking trails around Bâlea Lake are rocky"
+  },
+  "photoRules": {
+    "de": "Erlaubt; Vorsicht beim Fotografieren der Bären am Straßenrand",
+    "hu": "Megengedett; óvatosan az út mellett megjelenő medvék fényképezésével",
+    "ro": "Permis; atenție la fotografierea urșilor de pe marginea drumului",
+    "en": "Allowed; be careful when photographing bears by the roadside"
+  },
+  "bestTimeToVisit": {
+    "de": "Früh am Morgen (vor 08:00), bevor Ausflugsbusse und Motorräder eintreffen",
+    "hu": "Kora reggel (08:00 előtt), mielőtt a turistabuszok és motorosok megérkeznének",
+    "ro": "Dimineața devreme (înainte de 08:00), înainte de sosirea autocarelor și a motocicliștilor",
+    "en": "Early morning (before 08:00) before tour buses and motorcycles arrive"
+  },
+  "audioGuide": {
+    "de": "no",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

@@ -1,12 +1,57 @@
 {
-  "address": "Salisbury Plain, Wiltshire, Großbritannien",
-  "openingHours": "24/7 (militärische Sperrgebiete beachten)",
-  "entranceFee": "kostenlos",
+  "address": {
+    "de": "Salisbury Plain, Wiltshire, Großbritannien",
+    "hu": "Salisbury Plain, Wiltshire, Nagy-Britannia",
+    "ro": "Salisbury Plain, Wiltshire, Marea Britanie",
+    "en": "Salisbury Plain, Wiltshire, Great Britain"
+  },
+  "openingHours": {
+    "de": "24/7 (militärische Sperrgebiete beachten)",
+    "hu": "0-24 (vegye figyelembe a katonai tiltott zónákat)",
+    "ro": "Non-stop (atenție la zonele militare interzise)",
+    "en": "24/7 (observe military restricted areas)"
+  },
+  "entranceFee": {
+    "de": "kostenlos",
+    "hu": "ingyenes",
+    "ro": "gratuit",
+    "en": "free"
+  },
   "website": "https://www.gov.uk/guidance/salisbury-plain-training-area-spta",
-  "publicTransport": "Bahnhof Salisbury, dann Bus X7 nach Amesbury",
-  "parking": "Begrenzte Stellplätze an öffentlichen Landstraßen",
-  "accessibility": "Nur bedingt zugänglich über unbefestigte Naturpfade",
-  "photoRules": "Erlaubt, Fotografieren von Militärübungen verboten",
-  "bestTimeToVisit": "Spätsommer für die weite, trockene Hügellandschaft",
-  "audioGuide": "Nein"
+  "publicTransport": {
+    "de": "Bahnhof Salisbury, dann Bus X7 nach Amesbury",
+    "hu": "Salisbury állomás, majd X7-es busz Amesburybe",
+    "ro": "Gara Salisbury, apoi autobuzul X7 spre Amesbury",
+    "en": "Salisbury station, then bus X7 to Amesbury"
+  },
+  "parking": {
+    "de": "Begrenzte Stellplätze an öffentlichen Landstraßen",
+    "hu": "Korlátozott parkolási lehetőség a közutak mentén",
+    "ro": "Locuri de parcare limitate pe drumurile publice",
+    "en": "Limited parking spaces on public country roads"
+  },
+  "accessibility": {
+    "de": "Nur bedingt zugänglich über unbefestigte Naturpfade",
+    "hu": "Csak korlátozottan megközelíthető, kiépítetlen természetes ösvényeken",
+    "ro": "Accesibil doar limitat prin poteci naturale neamenajate",
+    "en": "Only partially accessible via unpaved nature paths"
+  },
+  "photoRules": {
+    "de": "Erlaubt, Fotografieren von Militärübungen verboten",
+    "hu": "Engedélyezett, katonai gyakorlatok fotózása tilos",
+    "ro": "Permis, fotografierea exercițiilor militare interzisă",
+    "en": "Allowed, photographing military exercises forbidden"
+  },
+  "bestTimeToVisit": {
+    "de": "Spätsommer für die weite, trockene Hügellandschaft",
+    "hu": "Nyár vége a széles, száraz dombvidékért",
+    "ro": "Sfârșitul verii pentru peisajul larg și uscat al dealurilor",
+    "en": "Late summer for the wide, dry hilly landscape"
+  },
+  "audioGuide": {
+    "de": "Nein",
+    "hu": "Nem",
+    "ro": "Nu",
+    "en": "No"
+  }
 }

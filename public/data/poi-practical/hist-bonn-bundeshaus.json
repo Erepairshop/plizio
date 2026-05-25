@@ -1,12 +1,57 @@
 {
-  "address": "Platz der Vereinten Nationen 2, 53113 Bonn",
-  "openingHours": "Mo-Fr 08:00-20:00, Sa-Su geschlossen",
-  "entranceFee": "kostenlos (Führungen nach Anmeldung)",
+  "address": {
+    "de": "Platz der Vereinten Nationen 2, 53113 Bonn",
+    "hu": "Platz der Vereinten Nationen 2, 53113 Bonn",
+    "ro": "Platz der Vereinten Nationen 2, 53113 Bonn",
+    "en": "Platz der Vereinten Nationen 2, 53113 Bonn"
+  },
+  "openingHours": {
+    "de": "Mo-Fr 08:00-20:00, Sa-Su geschlossen",
+    "hu": "H-P 08:00-20:00, Szo-V zárva",
+    "ro": "Lu-Vi 08:00-20:00, Sâ-Du închis",
+    "en": "Mon-Fri 08:00-20:00, Sat-Sun closed"
+  },
+  "entranceFee": {
+    "de": "kostenlos (Führungen nach Anmeldung)",
+    "hu": "ingyenes (vezetett túrák előzetes bejelentkezéssel)",
+    "ro": "gratuit (tururi ghidate cu programare prealabilă)",
+    "en": "free (guided tours by appointment)"
+  },
   "website": "https://www.bundesrat.de",
-  "publicTransport": "U-Bahn 16, 63, 66 (Heussallee/Museumsmeile)",
-  "parking": "Parkhaus am World Conference Center (~2 €/Std.)",
-  "accessibility": "Vollständig barrierefrei über Rampen und Aufzüge zugänglich.",
-  "photoRules": "Für private Zwecke erlaubt, Blitzlicht im Plenarsaal untersagt.",
-  "bestTimeToVisit": "Vormittags für ideale Lichtverhältnisse an der Rheinpromenade.",
-  "audioGuide": "nein"
+  "publicTransport": {
+    "de": "U-Bahn 16, 63, 66 (Heussallee/Museumsmeile)",
+    "hu": "U-Bahn 16, 63, 66 (Heussallee/Museumsmeile megálló)",
+    "ro": "U-Bahn 16, 63, 66 (Heussallee/Museumsmeile)",
+    "en": "U-Bahn 16, 63, 66 (Heussallee/Museumsmeile)"
+  },
+  "parking": {
+    "de": "Parkhaus am World Conference Center (~2 €/Std.)",
+    "hu": "Parkolóház a World Conference Centernél (~2 €/óra)",
+    "ro": "Parcare la World Conference Center (~2 €/oră)",
+    "en": "Parking garage at the World Conference Center (~2 €/hr)"
+  },
+  "accessibility": {
+    "de": "Vollständig barrierefrei über Rampen und Aufzüge zugänglich.",
+    "hu": "Rampákon és lifteken keresztül teljes mértékben akadálymentesített.",
+    "ro": "Complet accesibil prin rampe și ascensoare.",
+    "en": "Fully accessible via ramps and elevators."
+  },
+  "photoRules": {
+    "de": "Für private Zwecke erlaubt, Blitzlicht im Plenarsaal untersagt.",
+    "hu": "Magáncélra engedélyezett, vaku használata az ülésteremben tilos.",
+    "ro": "Permis în scopuri private, blițul este interzis în sala plenară.",
+    "en": "Permitted for private use, flash photography prohibited in the plenary hall."
+  },
+  "bestTimeToVisit": {
+    "de": "Vormittags für ideale Lichtverhältnisse an der Rheinpromenade.",
+    "hu": "Délelőtt a legszebbek a fények a Rajna-parti sétányon.",
+    "ro": "Dimineața pentru condiții ideale de lumină pe promenada Rinului.",
+    "en": "Morning hours for ideal lighting conditions on the Rhine promenade."
+  },
+  "audioGuide": {
+    "de": "nein",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

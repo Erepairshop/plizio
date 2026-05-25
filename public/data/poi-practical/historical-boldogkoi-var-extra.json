@@ -1,12 +1,57 @@
 {
-  "address": "Burgberg, 3885 Boldogkőváralja",
-  "openingHours": "Täglich 09:00-19:00 (Sommer), 09:00-16:00 (Winter)",
-  "entranceFee": "2500 HUF Erwachsene, 2000 HUF ermässigt",
+  "address": {
+    "de": "Burgberg, 3885 Boldogkőváralja",
+    "hu": "Várhegy, 3885 Boldogkőváralja",
+    "ro": "Várhegy, 3885 Boldogkőváralja",
+    "en": "Castle Hill, 3885 Boldogkőváralja"
+  },
+  "openingHours": {
+    "de": "Täglich 09:00-19:00 (Sommer), 09:00-16:00 (Winter)",
+    "hu": "Naponta 09:00-19:00 (nyár), 09:00-16:00 (tél)",
+    "ro": "Zilnic 09:00-19:00 (vară), 09:00-16:00 (iarnă)",
+    "en": "Daily 09:00-19:00 (summer), 09:00-16:00 (winter)"
+  },
+  "entranceFee": {
+    "de": "2500 HUF Erwachsene, 2000 HUF ermässigt",
+    "hu": "2500 HUF felnőtt, 2000 HUF kedvezményes",
+    "ro": "2500 HUF adulți, 2000 HUF redus",
+    "en": "2500 HUF adults, 2000 HUF reduced"
+  },
   "website": "http://boldogkovara.hu/",
-  "publicTransport": "Zug bis Boldogkőváralja, danach ca. 25 Min. steiler Fussweg zur Burg.",
-  "parking": "Kostenpflichtiger Parkplatz direkt unterhalb der Burgmauer (ca. 500 HUF).",
-  "accessibility": "Nicht barrierefrei; die markanten Felsengänge erfordern Trittsicherheit.",
-  "photoRules": "Erlaubt; besonders beliebt ist der Fotospot auf dem schmalen Felssteg.",
-  "bestTimeToVisit": "Später Nachmittag für dramatische Schattenwürfe auf den Zemplén-Bergen.",
-  "audioGuide": "no"
+  "publicTransport": {
+    "de": "Zug bis Boldogkőváralja, danach ca. 25 Min. steiler Fussweg zur Burg.",
+    "hu": "Vonat Boldogkőváraljáig, majd kb. 25 perc meredek gyalogút a várig.",
+    "ro": "Tren până la Boldogkőváralja, apoi aprox. 25 minute de mers pe jos pe o potecă abruptă până la castel.",
+    "en": "Train to Boldogkőváralja, then approx. 25 min. steep walk to the castle."
+  },
+  "parking": {
+    "de": "Kostenpflichtiger Parkplatz direkt unterhalb der Burgmauer (ca. 500 HUF).",
+    "hu": "Fizetős parkoló közvetlenül a várfal alatt (kb. 500 HUF).",
+    "ro": "Parcare cu plată chiar sub zidurile castelului (aprox. 500 HUF).",
+    "en": "Paid parking directly below the castle wall (approx. 500 HUF)."
+  },
+  "accessibility": {
+    "de": "Nicht barrierefrei; die markanten Felsengänge erfordern Trittsicherheit.",
+    "hu": "Nem akadálymentes; a jellegzetes sziklafolyosók biztos lépést igényelnek.",
+    "ro": "Nu este accesibil; culoarele stâncoase necesită atenție la pășire.",
+    "en": "Not accessible; the striking rock passages require surefootedness."
+  },
+  "photoRules": {
+    "de": "Erlaubt; besonders beliebt ist der Fotospot auf dem schmalen Felssteg.",
+    "hu": "Engedélyezett; különösen népszerű a fotópont a keskeny sziklahídon.",
+    "ro": "Permis; foarte popular este locul de fotografiat de pe pasarela stâncoasă îngustă.",
+    "en": "Allowed; the photo spot on the narrow rock bridge is especially popular."
+  },
+  "bestTimeToVisit": {
+    "de": "Später Nachmittag für dramatische Schattenwürfe auf den Zemplén-Bergen.",
+    "hu": "Késő délután a drámai árnyékokért a Zempléni-hegységen.",
+    "ro": "După-amiaza târziu pentru umbre dramatice peste munții Zemplén.",
+    "en": "Late afternoon for dramatic shadows on the Zemplén mountains."
+  },
+  "audioGuide": {
+    "de": "no",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

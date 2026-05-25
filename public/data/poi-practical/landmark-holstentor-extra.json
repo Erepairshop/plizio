@@ -1,12 +1,51 @@
 {
-  "address": "Holstentorplatz, 23552 Lübeck",
-  "openingHours": "Museum Jan-Mär 11:00-17:00, Apr-De 10:00-18:00",
-  "entranceFee": "Außenanlage frei, Museum ca. 8,00 €",
+  "address": {
+    "de": "Holstentorplatz, 23552 Lübeck",
+    "hu": "Holstentorplatz, 23552 Lübeck",
+    "ro": "Holstentorplatz, 23552 Lübeck",
+    "en": "Holstentorplatz, 23552 Lübeck"
+  },
+  "openingHours": {
+    "de": "Museum Jan-Mär 11:00-17:00, Apr-De 10:00-18:00",
+    "hu": "Múzeum jan-márc 11:00-17:00, ápr-dec 10:00-18:00",
+    "ro": "Muzeu ian-mar 11:00-17:00, apr-dec 10:00-18:00",
+    "en": "Museum Jan-Mar 11:00-17:00, Apr-Dec 10:00-18:00"
+  },
+  "entranceFee": {
+    "de": "Außenanlage frei, Museum ca. 8,00 €",
+    "hu": "Külső terület ingyenes, Múzeum kb. 8,00 €",
+    "ro": "Zona exterioară liberă, Muzeu aprox. 8,00 €",
+    "en": "Outdoor area free, Museum approx. €8.00"
+  },
   "website": "https://museum-holstentor.de",
-  "publicTransport": "10 Minuten Fußweg vom Lübecker Hauptbahnhof",
-  "parking": "Parkplatz an der Musik- und Kongresshalle, ca. 1,50 €/h",
-  "accessibility": "Museum im Inneren aufgrund historischer Wendeltreppen nicht barrierefrei",
-  "photoRules": "Fotografieren von außen jederzeit, im Museum ohne Blitz erlaubt",
-  "bestTimeToVisit": "Vormittags, wenn die Sonne die Westseite des Tores anstrahlt",
-  "audioGuide": "ja, im Museum verfügbar"
+  "publicTransport": {
+    "de": "10 Minuten Fußweg vom Lübecker Hauptbahnhof",
+    "hu": "10 perc séta a lübecki főpályaudvartól",
+    "ro": "10 minute de mers pe jos de la gara principală din Lübeck",
+    "en": "10-minute walk from Lübeck main station"
+  },
+  "parking": {
+    "de": "Parkplatz an der Musik- und Kongresshalle, ca. 1,50 €/h",
+    "hu": "Parkoló a Musik- und Kongresshallénél, kb. 1,50 €/óra",
+    "ro": "Parcare la Musik- und Kongresshalle, aprox. 1,50 €/h",
+    "en": "Parking at the Musik- und Kongresshalle, approx. €1.50/h"
+  },
+  "accessibility": {
+    "de": "Museum im Inneren aufgrund historischer Wendeltreppen nicht barrierefrei",
+    "hu": "A múzeum belseje a történelmi csigalépcsők miatt nem akadálymentes",
+    "ro": "Muzeul nu este accesibil în interior din cauza scărilor istorice în spirală",
+    "en": "Museum interior not barrier-free due to historic spiral staircases"
+  },
+  "photoRules": {
+    "de": "Fotografieren von außen jederzeit, im Museum ohne Blitz erlaubt",
+    "hu": "Kívülről bármikor fotózható, a múzeumban vaku nélkül",
+    "ro": "Fotografierea din exterior oricând, în muzeu permisă fără bliț",
+    "en": "Photography from the outside anytime, allowed in the museum without flash"
+  },
+  "bestTimeToVisit": {
+    "de": "Vormittags, wenn die Sonne die Westseite des Tores anstrahlt",
+    "hu": "Délelőtt, amikor a nap a kapu nyugati oldalát világítja meg",
+    "ro": "Dimineața, când soarele luminează partea de vest a porții",
+    "en": "Morning, when the sun illuminates the west side of the gate"
+  }
 }

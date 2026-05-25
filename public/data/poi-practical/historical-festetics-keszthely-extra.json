@@ -1,12 +1,57 @@
 {
-  "address": "Kastély u. 1, 8360 Keszthely",
-  "openingHours": "Mo-So 09:00-18:00 (Sommer), 10:00-17:00 (Winter)",
-  "entranceFee": "3900 HUF (Kombiticket Schauräume), Ermäßigungen möglich",
+  "address": {
+    "de": "Kastély u. 1, 8360 Keszthely",
+    "hu": "Kastély u. 1, 8360 Keszthely",
+    "ro": "Kastély u. 1, 8360 Keszthely",
+    "en": "Kastély u. 1, 8360 Keszthely"
+  },
+  "openingHours": {
+    "de": "Mo-So 09:00-18:00 (Sommer), 10:00-17:00 (Winter)",
+    "hu": "H-V 09:00-18:00 (nyáron), 10:00-17:00 (télen)",
+    "ro": "Lu-Du 09:00-18:00 (vară), 10:00-17:00 (iarnă)",
+    "en": "Mon-Sun 09:00-18:00 (summer), 10:00-17:00 (winter)"
+  },
+  "entranceFee": {
+    "de": "3900 HUF (Kombiticket Schauräume), Ermäßigungen möglich",
+    "hu": "3900 HUF (kombinált jegy a kiállításokra), kedvezmények igényelhetők",
+    "ro": "3900 HUF (bilet combinat pentru expoziții), sunt disponibile reduceri",
+    "en": "3900 HUF (combined ticket for exhibitions), discounts available"
+  },
   "website": "https://www.helikonkastely.hu",
-  "publicTransport": "Vom Bahnhof Keszthely ca. 15-20 Minuten Fußweg",
-  "parking": "Gebührenpflichtiger Parkplatz in der Kastély Straße oder Sopron Straße",
-  "accessibility": "Erdgeschoss barrierefrei, Obergeschoss über Aufzug erreichbar",
-  "photoRules": "Foto-Ticket gegen Aufpreis erforderlich",
-  "bestTimeToVisit": "Juni bis August für den blühenden Schlosspark",
-  "audioGuide": "Ungarisch, Englisch, Deutsch, Französisch"
+  "publicTransport": {
+    "de": "Vom Bahnhof Keszthely ca. 15-20 Minuten Fußweg",
+    "hu": "A keszthelyi vasútállomástól kb. 15-20 perc gyalog",
+    "ro": "La aproximativ 15-20 de minute de mers pe jos de gara din Keszthely",
+    "en": "Approx. 15-20 minutes walk from Keszthely train station"
+  },
+  "parking": {
+    "de": "Gebührenpflichtiger Parkplatz in der Kastély Straße oder Sopron Straße",
+    "hu": "Fizetős parkoló a Kastély vagy a Sopron utcában",
+    "ro": "Parcare cu plată pe strada Kastély sau strada Sopron",
+    "en": "Paid parking on Kastély Street or Sopron Street"
+  },
+  "accessibility": {
+    "de": "Erdgeschoss barrierefrei, Obergeschoss über Aufzug erreichbar",
+    "hu": "Földszint akadálymentesített, emelet lifttel megközelíthető",
+    "ro": "Parter accesibil, etajul este accesibil cu liftul",
+    "en": "Ground floor accessible, upper floor reachable by elevator"
+  },
+  "photoRules": {
+    "de": "Foto-Ticket gegen Aufpreis erforderlich",
+    "hu": "Fotójegy váltása szükséges",
+    "ro": "Este necesar un bilet foto contra cost",
+    "en": "Photo ticket required for an extra fee"
+  },
+  "bestTimeToVisit": {
+    "de": "Juni bis August für den blühenden Schlosspark",
+    "hu": "Június és augusztus között a virágzó kastélyparkért",
+    "ro": "Iunie până în august pentru parcul castelului înflorit",
+    "en": "June to August for the blooming castle park"
+  },
+  "audioGuide": {
+    "de": "Ungarisch, Englisch, Deutsch, Französisch",
+    "hu": "magyar, angol, német, francia",
+    "ro": "maghiară, engleză, germană, franceză",
+    "en": "Hungarian, English, German, French"
+  }
 }

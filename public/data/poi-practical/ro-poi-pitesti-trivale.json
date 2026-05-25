@@ -1,12 +1,57 @@
 {
-  "address": "Strada Trivale, 110058 Pitești",
-  "openingHours": "24/7",
-  "entranceFee": "kostenlos",
+  "address": {
+    "de": "Strada Trivale, 110058 Pitești",
+    "hu": "Strada Trivale, 110058 Pitești",
+    "ro": "Strada Trivale, 110058 Pitești",
+    "en": "Strada Trivale, 110058 Pitești"
+  },
+  "openingHours": {
+    "de": "24/7",
+    "hu": "24/7",
+    "ro": "24/7",
+    "en": "24/7"
+  },
+  "entranceFee": {
+    "de": "kostenlos",
+    "hu": "ingyenes",
+    "ro": "gratuit",
+    "en": "free"
+  },
   "website": "http://www.primariapitesti.ro",
-  "publicTransport": "Buslinie 8 bis zur Endstation Trivale",
-  "parking": "Kostenlose Parkplätze in der Nähe des Zoos und des Klosters Trivale",
-  "accessibility": "Befestigte Hauptwege rollstuhlgerecht, Waldpfade uneben",
-  "photoRules": "Erlaubt; schattige Waldlage erfordert lichtstarke Objektive",
-  "bestTimeToVisit": "Später Nachmittag für Spaziergänge im kühlen Schatten",
-  "audioGuide": "nein"
+  "publicTransport": {
+    "de": "Buslinie 8 bis zur Endstation Trivale",
+    "hu": "8-as buszjárat a Trivale végállomásig",
+    "ro": "Linia de autobuz 8 până la capătul de linie Trivale",
+    "en": "Bus line 8 to Trivale terminal station"
+  },
+  "parking": {
+    "de": "Kostenlose Parkplätze in der Nähe des Zoos und des Klosters Trivale",
+    "hu": "Ingyenes parkolás az állatkert és a Trivale kolostor közelében",
+    "ro": "Parcare gratuită în apropierea grădinii zoologice și a mănăstirii Trivale",
+    "en": "Free parking near the zoo and Trivale Monastery"
+  },
+  "accessibility": {
+    "de": "Befestigte Hauptwege rollstuhlgerecht, Waldpfade uneben",
+    "hu": "A burkolt főutak kerekesszékkel járhatóak, az erdei utak egyenetlenek",
+    "ro": "Aleile principale pavate sunt accesibile, potecile forestiere sunt neregulate",
+    "en": "Paved main paths wheelchair accessible, forest paths uneven"
+  },
+  "photoRules": {
+    "de": "Erlaubt; schattige Waldlage erfordert lichtstarke Objektive",
+    "hu": "Engedélyezett; az árnyékos erdős terület fényerős objektíveket igényel",
+    "ro": "Permis; zona forestieră umbroasă necesită obiective luminoase",
+    "en": "Permitted; shady forest location requires fast lenses"
+  },
+  "bestTimeToVisit": {
+    "de": "Später Nachmittag für Spaziergänge im kühlen Schatten",
+    "hu": "Késő délután sétákhoz a hűvös árnyékban",
+    "ro": "După-amiaza târziu pentru plimbări la umbra răcoroasă",
+    "en": "Late afternoon for walks in the cool shade"
+  },
+  "audioGuide": {
+    "de": "nein",
+    "hu": "nem",
+    "ro": "nu",
+    "en": "no"
+  }
 }

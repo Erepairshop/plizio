@@ -1,12 +1,57 @@
 {
-  "address": "Place du Château, 11000 Carcassonne",
-  "openingHours": "24/7",
-  "entranceFee": "Stadtbesichtigung kostenlos",
+  "address": {
+    "de": "Place du Château, 11000 Carcassonne",
+    "hu": "Place du Château, 11000 Carcassonne",
+    "ro": "Place du Château, 11000 Carcassonne",
+    "en": "Place du Château, 11000 Carcassonne"
+  },
+  "openingHours": {
+    "de": "24/7",
+    "hu": "0-24",
+    "ro": "24/7",
+    "en": "24/7"
+  },
+  "entranceFee": {
+    "de": "Stadtbesichtigung kostenlos",
+    "hu": "A városnézés ingyenes",
+    "ro": "Vizitarea orașului este gratuită",
+    "en": "City sightseeing free"
+  },
   "website": "https://www.tourisme-carcassonne.fr",
-  "publicTransport": "Navette 'Le Petit Train' ab Unterstadt zum Burgtor",
-  "parking": "Parkplatz P1 an der Cité, ca. €4.00 für 2 Std.",
-  "accessibility": "Kopfsteinpflaster, für Rollstühle sehr mühsam.",
-  "photoRules": "Uneingeschränkt erlaubt.",
-  "bestTimeToVisit": "Spätabends, wenn die Tagestouristen weg sind.",
-  "audioGuide": "nein"
+  "publicTransport": {
+    "de": "Navette 'Le Petit Train' ab Unterstadt zum Burgtor",
+    "hu": "'Le Petit Train' kisvonat az alsóvárostól a várkapuig",
+    "ro": "Naveta 'Le Petit Train' din orașul de jos până la poarta castelului",
+    "en": "'Le Petit Train' shuttle from the lower town to the castle gate"
+  },
+  "parking": {
+    "de": "Parkplatz P1 an der Cité, ca. €4.00 für 2 Std.",
+    "hu": "P1 parkoló a Cité-nél, kb. 4€ két órára.",
+    "ro": "Parcarea P1 la Cité, aprox. 4€ pentru 2 ore.",
+    "en": "P1 parking lot at the Cité, approx. €4.00 for 2 hours."
+  },
+  "accessibility": {
+    "de": "Kopfsteinpflaster, für Rollstühle sehr mühsam.",
+    "hu": "Macskaköves burkolat, kerekesszékkel nagyon nehezen járható.",
+    "ro": "Pavaj cu piatră cubică, foarte anevoios pentru scaune cu rotile.",
+    "en": "Cobblestones, very difficult for wheelchairs."
+  },
+  "photoRules": {
+    "de": "Uneingeschränkt erlaubt.",
+    "hu": "Korlátozás nélkül megengedett.",
+    "ro": "Permis fără restricții.",
+    "en": "Unrestricted permission."
+  },
+  "bestTimeToVisit": {
+    "de": "Spätabends, wenn die Tagestouristen weg sind.",
+    "hu": "Késő este, amikor az egynapos turisták már elmentek.",
+    "ro": "Seara târziu, când turiștii de o zi au plecat.",
+    "en": "Late evening when the day tourists have left."
+  },
+  "audioGuide": {
+    "de": "nein",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

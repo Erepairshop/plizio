@@ -1,12 +1,57 @@
 {
-  "address": "Eishöhlenstraße 30, 5450 Werfen",
-  "openingHours": "Mai-Okt: Täglich 08:30-15:00 (letzter Einlass)",
-  "entranceFee": "€ 35,00 (Kombipaket inkl. Seilbahn)",
+  "address": {
+    "de": "Eishöhlenstraße 30, 5450 Werfen",
+    "hu": "Eishöhlenstraße 30, 5450 Werfen",
+    "ro": "Eishöhlenstraße 30, 5450 Werfen",
+    "en": "Eishöhlenstraße 30, 5450 Werfen"
+  },
+  "openingHours": {
+    "de": "Mai-Okt: Täglich 08:30-15:00 (letzter Einlass)",
+    "hu": "Máj-okt: Naponta 08:30-15:00 (utolsó belépés)",
+    "ro": "Mai-Oct: Zilnic 08:30-15:00 (ultima intrare)",
+    "en": "May-Oct: Daily 08:30 AM - 3:00 PM (last admission)"
+  },
+  "entranceFee": {
+    "de": "€ 35,00 (Kombipaket inkl. Seilbahn)",
+    "hu": "35,00 € (kombinált jegy felvonóval)",
+    "ro": "35,00 € (pachet combinat incl. telecabină)",
+    "en": "€35.00 (combination package incl. cable car)"
+  },
   "website": "https://www.eisriesenwelt.at",
-  "publicTransport": "Bahn bis Werfen, dann Shuttlebus zur Seilbahn-Talstation.",
-  "parking": "Kostenloser Parkplatz an der Talstation, wird oft früh voll.",
-  "accessibility": "Über 1400 Stufen in der Höhle, körperliche Fitness erforderlich, nicht barrierefrei.",
-  "photoRules": "In der Höhle zum Schutz des Eises und des Besucherflusses streng verboten.",
-  "bestTimeToVisit": "Direkt um 08:30 Uhr, um den großen Mittagsansturm zu vermeiden.",
-  "audioGuide": "nein (nur geführte Gruppen)"
+  "publicTransport": {
+    "de": "Bahn bis Werfen, dann Shuttlebus zur Seilbahn-Talstation.",
+    "hu": "Vonattal Werfenig, majd transzferbusz a felvonó völgyállomásához.",
+    "ro": "Tren până la Werfen, apoi autobuz shuttle către stația de bază a telecabinei.",
+    "en": "Train to Werfen, then shuttle bus to the cable car valley station."
+  },
+  "parking": {
+    "de": "Kostenloser Parkplatz an der Talstation, wird oft früh voll.",
+    "hu": "Ingyenes parkoló a völgyállomásnál, gyakran hamar megtelik.",
+    "ro": "Parcare gratuită la stația de bază, adesea se umple devreme.",
+    "en": "Free parking at the valley station, often fills up early."
+  },
+  "accessibility": {
+    "de": "Über 1400 Stufen in der Höhle, körperliche Fitness erforderlich, nicht barrierefrei.",
+    "hu": "Több mint 1400 lépcsőfok a barlangban, jó fizikai állapot szükséges, nem akadálymentes.",
+    "ro": "Peste 1400 de trepte în peșteră, necesită condiție fizică bună, inaccesibil.",
+    "en": "Over 1400 steps in the cave, physical fitness required, not accessible."
+  },
+  "photoRules": {
+    "de": "In der Höhle zum Schutz des Eises und des Besucherflusses streng verboten.",
+    "hu": "A barlangban a jég védelme és a látogatók haladása érdekében szigorúan tilos.",
+    "ro": "Strict interzis în peșteră pentru protejarea gheții și a fluxului de vizitatori.",
+    "en": "Strictly forbidden in the cave to protect the ice and the visitor flow."
+  },
+  "bestTimeToVisit": {
+    "de": "Direkt um 08:30 Uhr, um den großen Mittagsansturm zu vermeiden.",
+    "hu": "Közvetlenül 08:30-kor, a nagy déli tömeg elkerülése érdekében.",
+    "ro": "Direct la ora 08:30, pentru a evita aglomerația mare de la prânz.",
+    "en": "Directly at 8:30 AM to avoid the large midday rush."
+  },
+  "audioGuide": {
+    "de": "nein (nur geführte Gruppen)",
+    "hu": "nincs (csak vezetett csoportok)",
+    "ro": "nu (doar grupuri ghidate)",
+    "en": "no (guided groups only)"
+  }
 }

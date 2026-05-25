@@ -1,12 +1,57 @@
 {
-  "address": "Schlossgasse 1, 04680 Colditz",
-  "openingHours": "Täglich 10:00-18:00 (Apr-Okt), 10:00-16:00 (Nov-Mär)",
-  "entranceFee": "€10 Erwachsene (Escape-Tour), €5 Außengelände",
+  "address": {
+    "de": "Schlossgasse 1, 04680 Colditz",
+    "hu": "Schlossgasse 1, 04680 Colditz",
+    "ro": "Schlossgasse 1, 04680 Colditz",
+    "en": "Schlossgasse 1, 04680 Colditz"
+  },
+  "openingHours": {
+    "de": "Täglich 10:00-18:00 (Apr-Okt), 10:00-16:00 (Nov-Mär)",
+    "hu": "Naponta 10:00-18:00 (ápr-okt), 10:00-16:00 (nov-márc)",
+    "ro": "Zilnic 10:00-18:00 (apr-oct), 10:00-16:00 (nov-mar)",
+    "en": "Daily 10:00-18:00 (Apr-Oct), 10:00-16:00 (Nov-Mar)"
+  },
+  "entranceFee": {
+    "de": "€10 Erwachsene (Escape-Tour), €5 Außengelände",
+    "hu": "10 € felnőtt (Escape-Tour), 5 € csak a külső terület",
+    "ro": "10 € adulți (Escape-Tour), 5 € teren exterior",
+    "en": "€10 adults (Escape Tour), €5 grounds only"
+  },
   "website": "https://www.schloss-colditz.de",
-  "publicTransport": "Regionalbus ab Leipzig Hauptbahnhof oder Grimma",
-  "parking": "Zentraler Schlossparkplatz Colditz (geringe Gebühr).",
-  "accessibility": "Nur eingeschränkt barrierefrei; viele Treppen und Kopfsteinpflaster im Schloss.",
-  "photoRules": "In den Außenanlagen erlaubt, in der Ausstellung nur ohne Blitz.",
-  "bestTimeToVisit": "Wochenende für die Teilnahme an der populären 'Escape-Tour'.",
-  "audioGuide": "ja (interaktiver HistoPad-Tablet-Guide)"
+  "publicTransport": {
+    "de": "Regionalbus ab Leipzig Hauptbahnhof oder Grimma",
+    "hu": "Regionális buszjárat Lipcse főpályaudvaráról vagy Grimmából",
+    "ro": "Autobuz regional de la Gara Centrală din Leipzig sau Grimma",
+    "en": "Regional bus from Leipzig Main Station or Grimma"
+  },
+  "parking": {
+    "de": "Zentraler Schlossparkplatz Colditz (geringe Gebühr).",
+    "hu": "Központi várparkoló Colditzban (alacsony díj).",
+    "ro": "Parcare centrală la castelul Colditz (taxă mică).",
+    "en": "Central castle parking in Colditz (small fee)."
+  },
+  "accessibility": {
+    "de": "Nur eingeschränkt barrierefrei; viele Treppen und Kopfsteinpflaster im Schloss.",
+    "hu": "Csak korlátozottan akadálymentes; sok lépcső és macskakő a várban.",
+    "ro": "Accesibilitate limitată; multe scări și piatră cubică în castel.",
+    "en": "Limited accessibility; many stairs and cobblestones in the castle."
+  },
+  "photoRules": {
+    "de": "In den Außenanlagen erlaubt, in der Ausstellung nur ohne Blitz.",
+    "hu": "A külső részeken szabad, a kiállításon csak vaku nélkül.",
+    "ro": "Permis în spațiile exterioare, în expoziție doar fără bliț.",
+    "en": "Permitted on the grounds, flash-free photography only in the exhibition."
+  },
+  "bestTimeToVisit": {
+    "de": "Wochenende für die Teilnahme an der populären 'Escape-Tour'.",
+    "hu": "Hétvégén, a népszerű „Escape-Tour” vezetéseken való részvételhez.",
+    "ro": "În weekend pentru participarea la popularul „Escape-Tour”.",
+    "en": "Weekends to participate in the popular 'Escape Tour'."
+  },
+  "audioGuide": {
+    "de": "ja (interaktiver HistoPad-Tablet-Guide)",
+    "hu": "igen (interaktív HistoPad tabletes útmutató)",
+    "ro": "da (ghid interactiv HistoPad pe tabletă)",
+    "en": "yes (interactive HistoPad tablet guide)"
+  }
 }

@@ -1,12 +1,57 @@
 {
-  "address": "Kossuth tér 2, 5000 Szolnok",
-  "openingHours": "24/7 (Hotelbetrieb), Restaurant 07:00-22:00",
-  "entranceFee": "free (Besichtigung der Lobby), Thermalbad gegen Gebühr",
+  "address": {
+    "de": "Kossuth tér 2, 5000 Szolnok",
+    "hu": "Kossuth tér 2, 5000 Szolnok",
+    "ro": "Kossuth tér 2, 5000 Szolnok",
+    "en": "Kossuth tér 2, 5000 Szolnok"
+  },
+  "openingHours": {
+    "de": "24/7 (Hotelbetrieb), Restaurant 07:00-22:00",
+    "hu": "0-24 (szállodai üzem), étterem 07:00-22:00",
+    "ro": "Non-stop (hotel), restaurant 07:00-22:00",
+    "en": "24/7 (hotel operation), restaurant 07:00-22:00"
+  },
+  "entranceFee": {
+    "de": "free (Besichtigung der Lobby), Thermalbad gegen Gebühr",
+    "hu": "ingyenes (a lobby megtekintése), termálfürdő térítés ellenében",
+    "ro": "gratuit (vizitarea holului), băi termale contra cost",
+    "en": "free (viewing the lobby), thermal baths for a fee"
+  },
   "website": "http://www.tiszahotel.hu/",
-  "publicTransport": "Buslinien 1, 2, 6, 7, 8 ab Bahnhof Szolnok bis Kossuth tér",
-  "parking": "Eigener Hotelparkplatz für Gäste, öffentliche Parkplätze am Platz.",
-  "accessibility": "Haupteingang barrierefrei, Aufzug zu den oberen Etagen vorhanden.",
-  "photoRules": "In öffentlichen Bereichen erlaubt, Diskretion gegenüber Gästen erbeten.",
-  "bestTimeToVisit": "Abends, wenn das Gebäude und der Vorplatz beleuchtet sind.",
-  "audioGuide": "no"
+  "publicTransport": {
+    "de": "Buslinien 1, 2, 6, 7, 8 ab Bahnhof Szolnok bis Kossuth tér",
+    "hu": "1, 2, 6, 7, 8-as buszok a szolnoki vasútállomástól a Kossuth térig",
+    "ro": "Autobuz liniile 1, 2, 6, 7, 8 de la gara Szolnok până la Kossuth tér",
+    "en": "Bus lines 1, 2, 6, 7, 8 from Szolnok station to Kossuth tér"
+  },
+  "parking": {
+    "de": "Eigener Hotelparkplatz für Gäste, öffentliche Parkplätze am Platz.",
+    "hu": "Saját szállodai parkoló vendégeknek, közterületi parkolók a téren.",
+    "ro": "Parcare proprie a hotelului pentru oaspeți, parcări publice în piață.",
+    "en": "Private hotel parking for guests, public parking spaces in the square."
+  },
+  "accessibility": {
+    "de": "Haupteingang barrierefrei, Aufzug zu den oberen Etagen vorhanden.",
+    "hu": "Főbejárat akadálymentes, lift biztosított a felsőbb szintekre.",
+    "ro": "Intrarea principală accesibilă, lift disponibil către etajele superioare.",
+    "en": "Main entrance accessible, elevator available to upper floors."
+  },
+  "photoRules": {
+    "de": "In öffentlichen Bereichen erlaubt, Diskretion gegenüber Gästen erbeten.",
+    "hu": "A nyilvános terekben megengedett, kérik a vendégek iránti diszkréciót.",
+    "ro": "Permis în zonele publice, se cere discreție față de oaspeți.",
+    "en": "Allowed in public areas, discretion towards guests requested."
+  },
+  "bestTimeToVisit": {
+    "de": "Abends, wenn das Gebäude und der Vorplatz beleuchtet sind.",
+    "hu": "Este, amikor az épület és a tér kivilágított.",
+    "ro": "Seara, când clădirea și piața sunt iluminate.",
+    "en": "In the evening when the building and the square are illuminated."
+  },
+  "audioGuide": {
+    "de": "no",
+    "hu": "nem",
+    "ro": "nu",
+    "en": "no"
+  }
 }

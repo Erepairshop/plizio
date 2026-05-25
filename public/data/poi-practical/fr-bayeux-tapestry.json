@@ -1,12 +1,57 @@
 {
-  "address": "13 Rue de Nesmond, 14400 Bayeux",
-  "openingHours": "Mo-Su 09:00-18:30",
-  "entranceFee": "€12 Erwachsene, €5 Studenten",
+  "address": {
+    "de": "13 Rue de Nesmond, 14400 Bayeux",
+    "hu": "13 Rue de Nesmond, 14400 Bayeux",
+    "ro": "13 Rue de Nesmond, 14400 Bayeux",
+    "en": "13 Rue de Nesmond, 14400 Bayeux"
+  },
+  "openingHours": {
+    "de": "Mo-Su 09:00-18:30",
+    "hu": "H-V 09:00-18:30",
+    "ro": "Lu-Du 09:00-18:30",
+    "en": "Mon-Sun 09:00-18:30"
+  },
+  "entranceFee": {
+    "de": "€12 Erwachsene, €5 Studenten",
+    "hu": "12 € felnőtt, 5 € diák",
+    "ro": "12 € adulți, 5 € studenți",
+    "en": "€12 adults, €5 students"
+  },
   "website": "https://www.bayeuxmuseum.com",
-  "publicTransport": "Regionalzug bis Bahnhof Bayeux, ca. 15 Minuten Fußweg",
-  "parking": "Parkplatz an der Rue de Nesmond, begrenzt verfügbar",
-  "accessibility": "Vollständig rollstuhlgerecht mit Aufzügen zu allen Etagen",
-  "photoRules": "Strenges Fotografierverbot zum Schutz der historischen Textilien",
-  "bestTimeToVisit": "Direkt bei Öffnung oder nach 16:30 Uhr, um Gruppen zu meiden",
-  "audioGuide": "DE, EN, FR, IT, ES, RU, JP"
+  "publicTransport": {
+    "de": "Regionalzug bis Bahnhof Bayeux, ca. 15 Minuten Fußweg",
+    "hu": "Regionális vonat Bayeux vasútállomásig, onnan kb. 15 perc gyalog",
+    "ro": "Tren regional până la gara Bayeux, aprox. 15 minute de mers pe jos",
+    "en": "Regional train to Bayeux station, approx. 15 minute walk"
+  },
+  "parking": {
+    "de": "Parkplatz an der Rue de Nesmond, begrenzt verfügbar",
+    "hu": "Parkoló a Rue de Nesmond-nál, korlátozott számban",
+    "ro": "Parcare pe Rue de Nesmond, disponibilitate limitată",
+    "en": "Parking on Rue de Nesmond, limited availability"
+  },
+  "accessibility": {
+    "de": "Vollständig rollstuhlgerecht mit Aufzügen zu allen Etagen",
+    "hu": "Teljesen akadálymentesített, liftekkel minden emeletre",
+    "ro": "Complet accesibil pentru scaunul cu rotile, cu lifturi la toate etajele",
+    "en": "Fully wheelchair accessible with elevators to all floors"
+  },
+  "photoRules": {
+    "de": "Strenges Fotografierverbot zum Schutz der historischen Textilien",
+    "hu": "Szigorú fotózási tilalom a történelmi textilek védelmében",
+    "ro": "Interdicție strictă de fotografiere pentru protejarea textilelor istorice",
+    "en": "Strict photography ban to protect the historic textiles"
+  },
+  "bestTimeToVisit": {
+    "de": "Direkt bei Öffnung oder nach 16:30 Uhr, um Gruppen zu meiden",
+    "hu": "Közvetlenül nyitáskor vagy 16:30 után, a csoportok elkerülése végett",
+    "ro": "Imediat la deschidere sau după ora 16:30, pentru a evita grupurile",
+    "en": "Right at opening or after 16:30 to avoid groups"
+  },
+  "audioGuide": {
+    "de": "DE, EN, FR, IT, ES, RU, JP",
+    "hu": "német, angol, francia, olasz, spanyol, orosz, japán",
+    "ro": "DE, EN, FR, IT, ES, RU, JP",
+    "en": "DE, EN, FR, IT, ES, RU, JP"
+  }
 }

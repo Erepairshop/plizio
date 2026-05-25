@@ -1,12 +1,57 @@
 {
-  "address": "Avenue de Lascaux, 24290 Montignac",
-  "openingHours": "Mo-Su 09:00-20:00 (variiert nach Saison)",
-  "entranceFee": "€22 Erwachsene, €14.50 Kinder (Lascaux IV)",
+  "address": {
+    "de": "Avenue de Lascaux, 24290 Montignac",
+    "hu": "Avenue de Lascaux, 24290 Montignac",
+    "ro": "Avenue de Lascaux, 24290 Montignac",
+    "en": "Avenue de Lascaux, 24290 Montignac"
+  },
+  "openingHours": {
+    "de": "Mo-Su 09:00-20:00 (variiert nach Saison)",
+    "hu": "Hé-Va 09:00-20:00 (szezontól függően változik)",
+    "ro": "Lun-Dum 09:00-20:00 (variază în funcție de sezon)",
+    "en": "Mon-Sun 09:00-20:00 (varies by season)"
+  },
+  "entranceFee": {
+    "de": "€22 Erwachsene, €14.50 Kinder (Lascaux IV)",
+    "hu": "22 € felnőtteknek, 14,50 € gyerekeknek (Lascaux IV)",
+    "ro": "22 € adulți, 14,50 € copii (Lascaux IV)",
+    "en": "€22 adults, €14.50 children (Lascaux IV)"
+  },
   "website": "https://www.lascaux.fr",
-  "publicTransport": "Regionale Busverbindungen ab Bahnhof Condat-le-Lardin",
-  "parking": "Großer kostenloser Besucherparkplatz direkt am Zentrum",
-  "accessibility": "Lascaux IV ist vollständig barrierefrei und rollstuhlgerecht",
-  "photoRules": "Fotografieren im Inneren des Höhlennachbaus streng verboten",
-  "bestTimeToVisit": "Online-Ticketreservierung mehrere Tage im Voraus dringend empfohlen",
-  "audioGuide": "DE, EN, FR, IT, ES, NL, ZH"
+  "publicTransport": {
+    "de": "Regionale Busverbindungen ab Bahnhof Condat-le-Lardin",
+    "hu": "Regionális buszjáratok Condat-le-Lardin vasútállomástól",
+    "ro": "Conexiuni regionale cu autobuzul de la gara Condat-le-Lardin",
+    "en": "Regional bus connections from Condat-le-Lardin train station"
+  },
+  "parking": {
+    "de": "Großer kostenloser Besucherparkplatz direkt am Zentrum",
+    "hu": "Nagy, ingyenes látogatói parkoló közvetlenül a központnál",
+    "ro": "Parcare mare gratuită pentru vizitatori chiar lângă centru",
+    "en": "Large free visitor parking lot directly at the center"
+  },
+  "accessibility": {
+    "de": "Lascaux IV ist vollständig barrierefrei und rollstuhlgerecht",
+    "hu": "A Lascaux IV teljes mértékben akadálymentesített és kerekesszékkel járható",
+    "ro": "Lascaux IV este complet accesibil pentru scaune cu rotile",
+    "en": "Lascaux IV is fully barrier-free and wheelchair accessible"
+  },
+  "photoRules": {
+    "de": "Fotografieren im Inneren des Höhlennachbaus streng verboten",
+    "hu": "A barlangmásolat belsejében a fényképezés szigorúan tilos",
+    "ro": "Fotografierea în interiorul replicii peșterii este strict interzisă",
+    "en": "Photography inside the cave replica is strictly prohibited"
+  },
+  "bestTimeToVisit": {
+    "de": "Online-Ticketreservierung mehrere Tage im Voraus dringend empfohlen",
+    "hu": "Az online jegyfoglalás több nappal előre kifejezetten ajánlott",
+    "ro": "Rezervarea biletelor online cu câteva zile înainte este recomandată",
+    "en": "Online ticket reservation several days in advance is highly recommended"
+  },
+  "audioGuide": {
+    "de": "DE, EN, FR, IT, ES, NL, ZH",
+    "hu": "DE, EN, FR, IT, ES, NL, ZH",
+    "ro": "DE, EN, FR, IT, ES, NL, ZH",
+    "en": "DE, EN, FR, IT, ES, NL, ZH"
+  }
 }

@@ -1,12 +1,57 @@
 {
-  "address": "Rue Charles-Galland 2, 1206 Genève",
-  "openingHours": "Di-So 11:00-18:00, Do bis 21:00",
-  "entranceFee": "Eintritt frei (Permanente Sammlung), Sonderausstellungen kostenpflichtig",
+  "address": {
+    "de": "Rue Charles-Galland 2, 1206 Genève",
+    "hu": "Rue Charles-Galland 2, 1206 Genève",
+    "ro": "Rue Charles-Galland 2, 1206 Genève",
+    "en": "Rue Charles-Galland 2, 1206 Genève"
+  },
+  "openingHours": {
+    "de": "Di-So 11:00-18:00, Do bis 21:00",
+    "hu": "K–V 11:00–18:00, csütörtökön 21:00-ig",
+    "ro": "Mar-Dum 11:00-18:00, Joi până la 21:00",
+    "en": "Tue-Sun 11:00-18:00, Thu until 21:00"
+  },
+  "entranceFee": {
+    "de": "Eintritt frei (Permanente Sammlung), Sonderausstellungen kostenpflichtig",
+    "hu": "Ingyenes belépés (állandó kiállítás), időszaki kiállítások belépővel",
+    "ro": "Intrare liberă (colecția permanentă), expozițiile temporare cu plată",
+    "en": "Free admission (permanent collection), special exhibitions require a fee"
+  },
   "website": "http://institutions.ville-geneve.ch/fr/mah/",
-  "publicTransport": "Bus 7 oder 36 bis Haltestelle Musée d'Art et d'Histoire.",
-  "parking": "Parkhaus St-Antoine in unmittelbarer Nähe.",
-  "accessibility": "Vollständig barrierefrei durch Rampen und Aufzüge.",
-  "photoRules": "Erlaubt ohne Blitz und Stativ in den permanenten Sälen.",
-  "bestTimeToVisit": "Donnerstagabend für weniger Trubel und längere Öffnungszeiten.",
-  "audioGuide": "DE, EN, FR"
+  "publicTransport": {
+    "de": "Bus 7 oder 36 bis Haltestelle Musée d'Art et d'Histoire.",
+    "hu": "7-es vagy 36-os busz a Musée d'Art et d'Histoire megállóig.",
+    "ro": "Autobuz 7 sau 36 până la stația Musée d'Art et d'Histoire.",
+    "en": "Bus 7 or 36 to Musée d'Art et d'Histoire stop."
+  },
+  "parking": {
+    "de": "Parkhaus St-Antoine in unmittelbarer Nähe.",
+    "hu": "St-Antoine parkolóház közvetlen közelben.",
+    "ro": "Parcarea St-Antoine în imediata apropiere.",
+    "en": "St-Antoine parking garage in immediate vicinity."
+  },
+  "accessibility": {
+    "de": "Vollständig barrierefrei durch Rampen und Aufzüge.",
+    "hu": "Teljesen akadálymentesített rámpákkal és liftekkel.",
+    "ro": "Complet accesibil prin rampe și ascensoare.",
+    "en": "Fully accessible via ramps and elevators."
+  },
+  "photoRules": {
+    "de": "Erlaubt ohne Blitz und Stativ in den permanenten Sälen.",
+    "hu": "Vaku és állvány használata nélkül engedélyezett az állandó termekben.",
+    "ro": "Permis fără bliț și trepied în sălile permanente.",
+    "en": "Allowed without flash or tripod in permanent galleries."
+  },
+  "bestTimeToVisit": {
+    "de": "Donnerstagabend für weniger Trubel und längere Öffnungszeiten.",
+    "hu": "Csütörtök este a kisebb tömeg és a hosszabb nyitvatartás miatt.",
+    "ro": "Joi seara pentru mai puțină aglomerație și program prelungit.",
+    "en": "Thursday evening for fewer crowds and extended hours."
+  },
+  "audioGuide": {
+    "de": "DE, EN, FR",
+    "hu": "német, angol, francia",
+    "ro": "germ, engl, franc",
+    "en": "German, English, French"
+  }
 }

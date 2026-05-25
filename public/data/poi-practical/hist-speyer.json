@@ -1,12 +1,57 @@
 {
-  "address": "Domplatz 1, 67346 Speyer",
-  "openingHours": "Mo-Sa 09:00-19:00, So 11:30-17:30 (April-Okt)",
-  "entranceFee": "Dom kostenlos; Krypta/Kaisersaal/Turm ca. 8 €",
+  "address": {
+    "de": "Domplatz 1, 67346 Speyer",
+    "hu": "Domplatz 1, 67346 Speyer",
+    "ro": "Domplatz 1, 67346 Speyer",
+    "en": "Domplatz 1, 67346 Speyer"
+  },
+  "openingHours": {
+    "de": "Mo-Sa 09:00-19:00, So 11:30-17:30 (April-Okt)",
+    "hu": "H-Szo 09:00-19:00, V 11:30-17:30 (április-október)",
+    "ro": "Lu-Sâ 09:00-19:00, Du 11:30-17:30 (aprilie-octombrie)",
+    "en": "Mon-Sat 09:00-19:00, Sun 11:30-17:30 (April-Oct)"
+  },
+  "entranceFee": {
+    "de": "Dom kostenlos; Krypta/Kaisersaal/Turm ca. 8 €",
+    "hu": "Dóm ingyenes; kripta/császárterem/torony kb. 8 €",
+    "ro": "Domul gratuit; cripta/sala împăratului/turnul aprox. 8 €",
+    "en": "Cathedral free; crypt/emperor's hall/tower approx. 8 €"
+  },
   "website": "https://www.dom-zu-speyer.de",
-  "publicTransport": "Bus 564, 565 (Domplatz)",
-  "parking": "Parkplatz Festplatz (ca. 10 Min Fußweg), ca. 3 €/Tag.",
-  "accessibility": "Dom barrierefrei, Krypta eingeschränkt, Turm nicht barrierefrei.",
-  "photoRules": "Ohne Blitz und Stativ gestattet, während Gottesdiensten verboten.",
-  "bestTimeToVisit": "Früh morgens vor den Reisegruppen.",
-  "audioGuide": "ja (DE, EN, FR)"
+  "publicTransport": {
+    "de": "Bus 564, 565 (Domplatz)",
+    "hu": "564, 565-ös busz (Domplatz)",
+    "ro": "Autobuzul 564, 565 (Domplatz)",
+    "en": "Bus 564, 565 (Domplatz)"
+  },
+  "parking": {
+    "de": "Parkplatz Festplatz (ca. 10 Min Fußweg), ca. 3 €/Tag.",
+    "hu": "Festplatz parkoló (kb. 10 perc séta), kb. 3 €/nap.",
+    "ro": "Parcarea Festplatz (aprox. 10 min de mers pe jos), aprox. 3 €/zi.",
+    "en": "Festplatz parking lot (approx. 10 min walk), approx. 3 €/day."
+  },
+  "accessibility": {
+    "de": "Dom barrierefrei, Krypta eingeschränkt, Turm nicht barrierefrei.",
+    "hu": "Dóm akadálymentes, kripta korlátozottan, torony nem akadálymentes.",
+    "ro": "Domul accesibil, cripta parțial, turnul nu este accesibil.",
+    "en": "Cathedral barrier-free, crypt limited, tower not barrier-free."
+  },
+  "photoRules": {
+    "de": "Ohne Blitz und Stativ gestattet, während Gottesdiensten verboten.",
+    "hu": "Vaku és állvány nélkül megengedett, istentiszteletek alatt tilos.",
+    "ro": "Permis fără bliț și trepied, interzis în timpul slujbelor.",
+    "en": "Allowed without flash and tripod, forbidden during services."
+  },
+  "bestTimeToVisit": {
+    "de": "Früh morgens vor den Reisegruppen.",
+    "hu": "Kora reggel, a turistacsoportok érkezése előtt.",
+    "ro": "Dimineața devreme, înainte de sosirea grupurilor de turiști.",
+    "en": "Early morning before the tour groups arrive."
+  },
+  "audioGuide": {
+    "de": "ja (DE, EN, FR)",
+    "hu": "igen (DE, EN, FR)",
+    "ro": "da (DE, EN, FR)",
+    "en": "yes (DE, EN, FR)"
+  }
 }

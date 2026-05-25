@@ -1,12 +1,57 @@
 {
-  "address": "Südstrandpromenade, 26382 Wilhelmshaven",
-  "openingHours": "24/7",
-  "entranceFee": "kostenlos",
+  "address": {
+    "de": "Südstrandpromenade, 26382 Wilhelmshaven",
+    "hu": "Südstrandpromenade, 26382 Wilhelmshaven",
+    "ro": "Südstrandpromenade, 26382 Wilhelmshaven",
+    "en": "Südstrandpromenade, 26382 Wilhelmshaven"
+  },
+  "openingHours": {
+    "de": "24/7",
+    "hu": "24/7",
+    "ro": "24/7",
+    "en": "24/7"
+  },
+  "entranceFee": {
+    "de": "kostenlos",
+    "hu": "ingyenes",
+    "ro": "gratuit",
+    "en": "free"
+  },
   "website": "https://www.wilhelmshaven-touristik.de",
-  "publicTransport": "Bus 6 bis Haltestelle Kaiser-Wilhelm-Brücke",
-  "parking": "Parkplatz am Helgolandkai, ca. €1.00/Std.",
-  "accessibility": "Promenade und Brücke sind weitgehend barrierefrei.",
-  "photoRules": "Uneingeschränkt erlaubt.",
-  "bestTimeToVisit": "Bei Flut für die beste Hafenstimmung.",
-  "audioGuide": "nein"
+  "publicTransport": {
+    "de": "Bus 6 bis Haltestelle Kaiser-Wilhelm-Brücke",
+    "hu": "6-os busz a Kaiser-Wilhelm-Brücke megállóig",
+    "ro": "Autobuz 6 până la stația Kaiser-Wilhelm-Brücke",
+    "en": "Bus 6 to Kaiser-Wilhelm-Brücke stop"
+  },
+  "parking": {
+    "de": "Parkplatz am Helgolandkai, ca. €1.00/Std.",
+    "hu": "Parkoló a Helgolandkai-nál, kb. 1,00 €/óra.",
+    "ro": "Parcare la Helgolandkai, aprox. 1,00 €/oră.",
+    "en": "Parking at Helgolandkai, approx. €1.00/hr."
+  },
+  "accessibility": {
+    "de": "Promenade und Brücke sind weitgehend barrierefrei.",
+    "hu": "A sétány és a híd nagyrészt akadálymentesített.",
+    "ro": "Promenada și podul sunt în mare parte accesibile.",
+    "en": "Promenade and bridge are largely accessible."
+  },
+  "photoRules": {
+    "de": "Uneingeschränkt erlaubt.",
+    "hu": "Korlátozás nélkül engedélyezett.",
+    "ro": "Permis fără restricții.",
+    "en": "Allowed without restrictions."
+  },
+  "bestTimeToVisit": {
+    "de": "Bei Flut für die beste Hafenstimmung.",
+    "hu": "Dagály idején, a legjobb kikötői hangulatért.",
+    "ro": "La flux, pentru cea mai bună atmosferă portuară.",
+    "en": "At high tide for the best harbor atmosphere."
+  },
+  "audioGuide": {
+    "de": "nein",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

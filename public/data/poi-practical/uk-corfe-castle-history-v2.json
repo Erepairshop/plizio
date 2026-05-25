@@ -1,12 +1,57 @@
 {
-  "address": "The Square, Corfe Castle, Wareham BH20 5EZ",
-  "openingHours": "Mo-Su 10:00-17:00",
-  "entranceFee": "£11.00 Erwachsene, £5.50 Kinder (National Trust)",
+  "address": {
+    "de": "The Square, Corfe Castle, Wareham BH20 5EZ",
+    "hu": "The Square, Corfe Castle, Wareham BH20 5EZ",
+    "ro": "The Square, Corfe Castle, Wareham BH20 5EZ",
+    "en": "The Square, Corfe Castle, Wareham BH20 5EZ"
+  },
+  "openingHours": {
+    "de": "Mo-Su 10:00-17:00",
+    "hu": "H-V 10:00-17:00",
+    "ro": "Lu-Du 10:00-17:00",
+    "en": "Mo-Su 10:00-17:00"
+  },
+  "entranceFee": {
+    "de": "£11.00 Erwachsene, £5.50 Kinder (National Trust)",
+    "hu": "£11.00 felnőtt, £5.50 gyerek (National Trust)",
+    "ro": "£11.00 adulți, £5.50 copii (National Trust)",
+    "en": "£11.00 adults, £5.50 children (National Trust)"
+  },
   "website": "https://www.nationaltrust.org.uk/visit/dorset/corfe-castle",
-  "publicTransport": "Swanage Railway Dampfzug ab Swanage oder Bus 40 ab Poole",
-  "parking": "National Trust Parkplatz am Fuße des Hügels, ca. 15 Min. Fußweg zur Ruine.",
-  "accessibility": "Steiler, grasbewachsener Pfad zur Ruine, für Rollstühle nur bedingt geeignet.",
-  "photoRules": "Erlaubt, besonders beliebt als Motiv mit der vorbeifahrenden Dampflok.",
-  "bestTimeToVisit": "Frühling oder Herbst für stimmungsvolle Nebelbilder in den Purbeck Hills.",
-  "audioGuide": "no"
+  "publicTransport": {
+    "de": "Swanage Railway Dampfzug ab Swanage oder Bus 40 ab Poole",
+    "hu": "Swanage Railway gőzvonat Swanage-ből vagy 40-es busz Poole-ból",
+    "ro": "Tren cu aburi Swanage Railway din Swanage sau autobuzul 40 din Poole",
+    "en": "Swanage Railway steam train from Swanage or bus 40 from Poole"
+  },
+  "parking": {
+    "de": "National Trust Parkplatz am Fuße des Hügels, ca. 15 Min. Fußweg zur Ruine.",
+    "hu": "National Trust parkoló a domb lábánál, kb. 15 perc séta a romokhoz.",
+    "ro": "Parcare National Trust la poalele dealului, aprox. 15 min. pe jos până la ruine.",
+    "en": "National Trust car park at the foot of the hill, approx. 15 min. walk to the ruins."
+  },
+  "accessibility": {
+    "de": "Steiler, grasbewachsener Pfad zur Ruine, für Rollstühle nur bedingt geeignet.",
+    "hu": "Meredek, füves ösvény a romokhoz, kerekesszékkel csak korlátozottan közelíthető meg.",
+    "ro": "Potecă abruptă, cu iarbă, către ruine, doar parțial potrivită pentru scaune cu rotile.",
+    "en": "Steep, grassy path to the ruins, only partially suitable for wheelchairs."
+  },
+  "photoRules": {
+    "de": "Erlaubt, besonders beliebt als Motiv mit der vorbeifahrenden Dampflok.",
+    "hu": "Engedélyezett, különösen népszerű fotótéma az elhaladó gőzmozdonnyal.",
+    "ro": "Permis, foarte popular ca subiect fotografic cu locomotiva cu aburi care trece.",
+    "en": "Allowed, especially popular as a motive with the passing steam train."
+  },
+  "bestTimeToVisit": {
+    "de": "Frühling oder Herbst für stimmungsvolle Nebelbilder in den Purbeck Hills.",
+    "hu": "Tavasz vagy ősz a hangulatos ködös képekért a Purbeck Hills-en.",
+    "ro": "Primăvara sau toamna pentru imagini atmosferice cu ceață în Purbeck Hills.",
+    "en": "Spring or autumn for atmospheric fog images in the Purbeck Hills."
+  },
+  "audioGuide": {
+    "de": "no",
+    "hu": "nem",
+    "ro": "nu",
+    "en": "no"
+  }
 }

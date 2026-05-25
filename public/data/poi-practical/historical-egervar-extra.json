@@ -1,12 +1,57 @@
 {
-  "address": "Vár u. 1, 8913 Egervár",
-  "openingHours": "Di-So 10:00-18:00 (Sommer), 10:00-16:00 (Winter)",
-  "entranceFee": "1500 HUF Erwachsene, 750 HUF Kinder/Senioren",
+  "address": {
+    "de": "Vár u. 1, 8913 Egervár",
+    "hu": "Vár u. 1, 8913 Egervár",
+    "ro": "Vár u. 1, 8913 Egervár",
+    "en": "Vár u. 1, 8913 Egervár"
+  },
+  "openingHours": {
+    "de": "Di-So 10:00-18:00 (Sommer), 10:00-16:00 (Winter)",
+    "hu": "K-V 10:00-18:00 (nyár), 10:00-16:00 (tél)",
+    "ro": "Ma-Du 10:00-18:00 (vară), 10:00-16:00 (iarnă)",
+    "en": "Tue-Sun 10:00-18:00 (summer), 10:00-16:00 (winter)"
+  },
+  "entranceFee": {
+    "de": "1500 HUF Erwachsene, 750 HUF Kinder/Senioren",
+    "hu": "1500 HUF felnőtt, 750 HUF gyerek/idős",
+    "ro": "1500 HUF adulți, 750 HUF copii/senior",
+    "en": "1500 HUF adults, 750 HUF children/seniors"
+  },
   "website": "https://www.egervarivar.hu",
-  "publicTransport": "Bus von Zalaegerszeg nach Egervár, Haltestelle 'Vár'",
-  "parking": "Kostenloser Parkplatz direkt vor dem Schloss",
-  "accessibility": "Erdgeschoss und Hof barrierefrei, Obergeschoss teilweise eingeschränkt",
-  "photoRules": "Erlaubt, Blitzlicht in Innenräumen eingeschränkt",
-  "bestTimeToVisit": "Vormittags für ruhige Besichtigung des Renaissance-Hofes",
-  "audioGuide": "Ungarisch, Englisch"
+  "publicTransport": {
+    "de": "Bus von Zalaegerszeg nach Egervár, Haltestelle 'Vár'",
+    "hu": "Busz Zalaegerszegről Egervárra, 'Vár' megálló",
+    "ro": "Autobuz din Zalaegerszeg spre Egervár, stația 'Vár'",
+    "en": "Bus from Zalaegerszeg to Egervár, stop 'Vár'"
+  },
+  "parking": {
+    "de": "Kostenloser Parkplatz direkt vor dem Schloss",
+    "hu": "Ingyenes parkoló közvetlenül a kastély előtt",
+    "ro": "Parcare gratuită chiar în fața castelului",
+    "en": "Free parking directly in front of the castle"
+  },
+  "accessibility": {
+    "de": "Erdgeschoss und Hof barrierefrei, Obergeschoss teilweise eingeschränkt",
+    "hu": "A földszint és az udvar akadálymentes, az emelet részben korlátozott",
+    "ro": "Parterul și curtea accesibile, etajul parțial limitat",
+    "en": "Ground floor and courtyard barrier-free, upper floor partially restricted"
+  },
+  "photoRules": {
+    "de": "Erlaubt, Blitzlicht in Innenräumen eingeschränkt",
+    "hu": "Engedélyezett, vaku használata beltérben korlátozott",
+    "ro": "Permis, utilizarea blițului în interior limitată",
+    "en": "Allowed, flash use indoors restricted"
+  },
+  "bestTimeToVisit": {
+    "de": "Vormittags für ruhige Besichtigung des Renaissance-Hofes",
+    "hu": "Délelőtt a reneszánsz udvar nyugodt megtekintéséhez",
+    "ro": "Dimineața pentru o vizită liniștită a curții renascentiste",
+    "en": "Mornings for a quiet visit to the Renaissance courtyard"
+  },
+  "audioGuide": {
+    "de": "Ungarisch, Englisch",
+    "hu": "Magyar, angol",
+    "ro": "Maghiară, engleză",
+    "en": "Hungarian, English"
+  }
 }

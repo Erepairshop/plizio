@@ -1,12 +1,57 @@
 {
-  "address": "44 Causeway Rd, Bushmills BT44 6RZ",
-  "openingHours": "Küste 24/7, Visitor Centre 09:00-17:00",
-  "entranceFee": "free (Visitor Centre + Parken £15 pro Person)",
+  "address": {
+    "de": "44 Causeway Rd, Bushmills BT44 6RZ",
+    "hu": "44 Causeway Rd, Bushmills BT44 6RZ",
+    "ro": "44 Causeway Rd, Bushmills BT44 6RZ",
+    "en": "44 Causeway Rd, Bushmills BT44 6RZ"
+  },
+  "openingHours": {
+    "de": "Küste 24/7, Visitor Centre 09:00-17:00",
+    "hu": "Part 0-24, látogatóközpont 09:00-17:00",
+    "ro": "Coasta non-stop, Centrul de vizitatori 09:00-17:00",
+    "en": "Coast 24/7, Visitor Centre 09:00-17:00"
+  },
+  "entranceFee": {
+    "de": "free (Visitor Centre + Parken £15 pro Person)",
+    "hu": "ingyenes (látogatóközpont + parkolás £15/fő)",
+    "ro": "gratuit (Centrul de vizitatori + parcare £15/persoană)",
+    "en": "free (Visitor Centre + parking £15 per person)"
+  },
   "website": "https://www.nationaltrust.org.uk/visit/northern-ireland/giants-causeway",
-  "publicTransport": "Causeway Rambler Bus 402 ab Coleraine oder Bushmills",
-  "parking": "Teurer offizieller Parkplatz; günstigere Alternative in Bushmills mit Park & Ride.",
-  "accessibility": "Shuttlebus vom Visitor Centre direkt zu den Steinen für mobilitätseingeschränkte Personen.",
-  "photoRules": "Erlaubt, Drohnennutzung ohne spezielle Genehmigung streng untersagt.",
-  "bestTimeToVisit": "Vor 9:00 oder nach 18:00 Uhr, um die Tagestouristenmassen zu vermeiden.",
-  "audioGuide": "de, en, fr, es, it, zh"
+  "publicTransport": {
+    "de": "Causeway Rambler Bus 402 ab Coleraine oder Bushmills",
+    "hu": "Causeway Rambler 402-es busz Coleraine-ből vagy Bushmills-ből",
+    "ro": "Autobuzul Causeway Rambler 402 din Coleraine sau Bushmills",
+    "en": "Causeway Rambler bus 402 from Coleraine or Bushmills"
+  },
+  "parking": {
+    "de": "Teurer offizieller Parkplatz; günstigere Alternative in Bushmills mit Park & Ride.",
+    "hu": "Drága hivatalos parkoló; olcsóbb alternatíva Bushmillsben P+R-rel.",
+    "ro": "Parcare oficială scumpă; alternativă mai ieftină în Bushmills cu Park & Ride.",
+    "en": "Expensive official car park; cheaper alternative in Bushmills with Park & Ride."
+  },
+  "accessibility": {
+    "de": "Shuttlebus vom Visitor Centre direkt zu den Steinen für mobilitätseingeschränkte Personen.",
+    "hu": "Transzferbusz a látogatóközpontból közvetlenül a kövekhez a korlátozott mozgásúak számára.",
+    "ro": "Autobuz de transfer de la Centrul de vizitatori direct la pietre pentru persoanele cu mobilitate redusă.",
+    "en": "Shuttle bus from the Visitor Centre directly to the stones for people with limited mobility."
+  },
+  "photoRules": {
+    "de": "Erlaubt, Drohnennutzung ohne spezielle Genehmigung streng untersagt.",
+    "hu": "Engedélyezett, drón használata külön engedély nélkül szigorúan tilos.",
+    "ro": "Permis, utilizarea dronelor fără autorizație specială strict interzisă.",
+    "en": "Allowed, drone use without special permit strictly prohibited."
+  },
+  "bestTimeToVisit": {
+    "de": "Vor 9:00 oder nach 18:00 Uhr, um die Tagestouristenmassen zu vermeiden.",
+    "hu": "9:00 előtt vagy 18:00 után, a tömegek elkerülése érdekében.",
+    "ro": "Înainte de 09:00 sau după 18:00, pentru a evita masele de turiști de zi.",
+    "en": "Before 9 AM or after 6 PM, to avoid day-tourist crowds."
+  },
+  "audioGuide": {
+    "de": "de, en, fr, es, it, zh",
+    "hu": "német, angol, francia, spanyol, olasz, kínai",
+    "ro": "germană, engleză, franceză, spaniolă, italiană, chineză",
+    "en": "de, en, fr, es, it, zh"
+  }
 }

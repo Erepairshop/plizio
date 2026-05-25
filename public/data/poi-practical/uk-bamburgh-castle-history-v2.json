@@ -1,12 +1,57 @@
 {
-  "address": "Bamburgh, Northumberland NE69 7DF",
-  "openingHours": "Mo-Su 10:00-17:00",
-  "entranceFee": "£17.00 Erwachsene, £8.50 Kinder",
+  "address": {
+    "de": "Bamburgh, Northumberland NE69 7DF",
+    "hu": "Bamburgh, Northumberland NE69 7DF",
+    "ro": "Bamburgh, Northumberland NE69 7DF",
+    "en": "Bamburgh, Northumberland NE69 7DF"
+  },
+  "openingHours": {
+    "de": "Mo-Su 10:00-17:00",
+    "hu": "Hé-Va 10:00-17:00",
+    "ro": "Lu-Du 10:00-17:00",
+    "en": "Mo-Su 10:00-17:00"
+  },
+  "entranceFee": {
+    "de": "£17.00 Erwachsene, £8.50 Kinder",
+    "hu": "£17.00 felnőtt, £8.50 gyerek",
+    "ro": "£17.00 adulți, £8.50 copii",
+    "en": "£17.00 adults, £8.50 children"
+  },
   "website": "https://www.bamburghcastle.com",
-  "publicTransport": "Bus X18 ab Newcastle oder Alnwick bis Bamburgh Village",
-  "parking": "Großer kostenpflichtiger Parkplatz direkt unterhalb der Burg, ca. £4 pro Tag.",
-  "accessibility": "Teilweise zugänglich, einige steile Wege und Treppen in den Prunkräumen.",
-  "photoRules": "In den Innenräumen ohne Blitz erlaubt, Drohnen strikt verboten.",
-  "bestTimeToVisit": "Vormittags, bevor die Touristenbusse aus Newcastle eintreffen.",
-  "audioGuide": "en"
+  "publicTransport": {
+    "de": "Bus X18 ab Newcastle oder Alnwick bis Bamburgh Village",
+    "hu": "X18 busz Newcastle-ből vagy Alnwickből Bamburgh Village-ig",
+    "ro": "Autobuz X18 din Newcastle sau Alnwick până la Bamburgh Village",
+    "en": "Bus X18 from Newcastle or Alnwick to Bamburgh Village"
+  },
+  "parking": {
+    "de": "Großer kostenpflichtiger Parkplatz direkt unterhalb der Burg, ca. £4 pro Tag.",
+    "hu": "Nagy fizetős parkoló közvetlenül a vár alatt, kb. £4/nap.",
+    "ro": "Parcare mare cu plată direct sub castel, cca. £4 pe zi.",
+    "en": "Large paid parking directly below the castle, approx. £4 per day."
+  },
+  "accessibility": {
+    "de": "Teilweise zugänglich, einige steile Wege und Treppen in den Prunkräumen.",
+    "hu": "Részben megközelíthető, néhány meredek út és lépcső a dísztermekben.",
+    "ro": "Accesibil parțial, câteva drumuri abrupte și scări în sălile de paradă.",
+    "en": "Partially accessible, some steep paths and stairs in the staterooms."
+  },
+  "photoRules": {
+    "de": "In den Innenräumen ohne Blitz erlaubt, Drohnen strikt verboten.",
+    "hu": "Beltérben vaku nélkül megengedett, drónok használata szigorúan tilos.",
+    "ro": "În interior permis fără bliț, dronele strict interzise.",
+    "en": "Allowed indoors without flash, drones strictly forbidden."
+  },
+  "bestTimeToVisit": {
+    "de": "Vormittags, bevor die Touristenbusse aus Newcastle eintreffen.",
+    "hu": "Délelőtt, mielőtt megérkeznek a Newcastle-ből jövő turistabuszok.",
+    "ro": "Dimineața, înainte ca autocarele cu turiști din Newcastle să sosească.",
+    "en": "In the morning before the tourist buses from Newcastle arrive."
+  },
+  "audioGuide": {
+    "de": "en",
+    "hu": "en",
+    "ro": "en",
+    "en": "en"
+  }
 }

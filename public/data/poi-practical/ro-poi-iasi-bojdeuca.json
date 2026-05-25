@@ -1,12 +1,57 @@
 {
-  "address": "Strada Simion Bărnuțiu 4, 700114 Iași",
-  "openingHours": "Di-So 10:00-17:00, Mo geschlossen",
-  "entranceFee": "12 RON Erwachsene, 3 RON Schüler",
+  "address": {
+    "de": "Strada Simion Bărnuțiu 4, 700114 Iași",
+    "hu": "Strada Simion Bărnuțiu 4, 700114 Jászvásár",
+    "ro": "Strada Simion Bărnuțiu 4, 700114 Iași",
+    "en": "Strada Simion Bărnuțiu 4, 700114 Iași"
+  },
+  "openingHours": {
+    "de": "Di-So 10:00-17:00, Mo geschlossen",
+    "hu": "Kedd-vasárnap 10:00-17:00, hétfőn zárva",
+    "ro": "Marți-Duminică 10:00-17:00, Luni închis",
+    "en": "Tue-Sun 10:00-17:00, Mon closed"
+  },
+  "entranceFee": {
+    "de": "12 RON Erwachsene, 3 RON Schüler",
+    "hu": "12 RON felnőtt, 3 RON diák",
+    "ro": "12 RON adulți, 3 RON elevi",
+    "en": "12 RON adults, 3 RON students"
+  },
   "website": "https://www.muzeulliteraturiiiasi.ro/",
-  "publicTransport": "Bus 20, 28, 43 (Halt Târgu Cucu, dann Fußweg)",
-  "parking": "Parkplätze in den Nebenstraßen, oft schwer zu finden.",
-  "accessibility": "Nicht barrierefrei, historisches Haus mit Stufen.",
-  "photoRules": "Erlaubt, Blitzlicht im Inneren verboten.",
-  "bestTimeToVisit": "Früh am Morgen, da das Haus sehr klein ist.",
-  "audioGuide": "no"
+  "publicTransport": {
+    "de": "Bus 20, 28, 43 (Halt Târgu Cucu, dann Fußweg)",
+    "hu": "20, 28, 43-as busz (Târgu Cucu megálló, majd gyalog)",
+    "ro": "Autobuz 20, 28, 43 (stația Târgu Cucu, apoi pe jos)",
+    "en": "Bus 20, 28, 43 (Târgu Cucu stop, then walk)"
+  },
+  "parking": {
+    "de": "Parkplätze in den Nebenstraßen, oft schwer zu finden.",
+    "hu": "Parkolás a mellékutcákban, gyakran nehéz találni.",
+    "ro": "Parcare pe străzile lăturalnice, adesea greu de găsit.",
+    "en": "Parking in side streets, often hard to find."
+  },
+  "accessibility": {
+    "de": "Nicht barrierefrei, historisches Haus mit Stufen.",
+    "hu": "Nem akadálymentes, történelmi ház lépcsőkkel.",
+    "ro": "Nu este accesibil, casă istorică cu trepte.",
+    "en": "Not accessible, historical house with steps."
+  },
+  "photoRules": {
+    "de": "Erlaubt, Blitzlicht im Inneren verboten.",
+    "hu": "Engedélyezett, vaku használata bent tilos.",
+    "ro": "Permis, bliț interzis în interior.",
+    "en": "Allowed, flash prohibited inside."
+  },
+  "bestTimeToVisit": {
+    "de": "Früh am Morgen, da das Haus sehr klein ist.",
+    "hu": "Kora reggel, mivel a ház nagyon kicsi.",
+    "ro": "Dimineața devreme, deoarece casa este foarte mică.",
+    "en": "Early morning, as the house is very small."
+  },
+  "audioGuide": {
+    "de": "no",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

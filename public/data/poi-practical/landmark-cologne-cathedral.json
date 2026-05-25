@@ -1,12 +1,57 @@
 {
-  "address": "Domkloster 4, 50667 Köln",
-  "openingHours": "Täglich 06:00-20:00 (Besichtigung nur außerhalb der Messen)",
-  "entranceFee": "Dom frei, Turmbesteigung 6€, Schatzkammer 6€",
+  "address": {
+    "de": "Domkloster 4, 50667 Köln",
+    "hu": "Domkloster 4, 50667 Köln",
+    "ro": "Domkloster 4, 50667 Köln",
+    "en": "Domkloster 4, 50667 Cologne"
+  },
+  "openingHours": {
+    "de": "Täglich 06:00-20:00 (Besichtigung nur außerhalb der Messen)",
+    "hu": "Naponta 06:00-20:00 (látogatás csak misén kívül)",
+    "ro": "Zilnic 06:00-20:00 (vizitare doar în afara orelor de liturghie)",
+    "en": "Daily 06:00-20:00 (visiting only outside of masses)"
+  },
+  "entranceFee": {
+    "de": "Dom frei, Turmbesteigung 6€, Schatzkammer 6€",
+    "hu": "A dóm ingyenes, toronylátogatás 6 €, kincstár 6 €",
+    "ro": "Dom gratuit, urcare în turn 6 €, tezaur 6 €",
+    "en": "Cathedral free, tower ascent €6, treasury €6"
+  },
   "website": "https://www.koelner-dom.de",
-  "publicTransport": "Direkt am Kölner Hauptbahnhof (alle Linien).",
-  "parking": "Parkhaus am Dom, Einfahrt über Tunnel (teuer, oft überfüllt).",
-  "accessibility": "Kirchenraum barrierefrei erreichbar, Turm nur über 533 Stufen.",
-  "photoRules": "Erlaubt ohne Blitz, während der Liturgie streng verboten.",
-  "bestTimeToVisit": "Mittagszeit, wenn die Sonne durch das Richter-Fenster leuchtet.",
-  "audioGuide": "Deutsch, Englisch (über das Domforum buchbar)"
+  "publicTransport": {
+    "de": "Direkt am Kölner Hauptbahnhof (alle Linien).",
+    "hu": "Közvetlenül a kölni főpályaudvarnál (minden vonal).",
+    "ro": "Chiar lângă gara centrală din Köln (toate liniile).",
+    "en": "Right at Cologne main station (all lines)."
+  },
+  "parking": {
+    "de": "Parkhaus am Dom, Einfahrt über Tunnel (teuer, oft überfüllt).",
+    "hu": "Parkolóház a dóm mellett, bejárat az alagúton keresztül (drága, gyakran túlzsúfolt).",
+    "ro": "Parcare la catedrală, intrare prin tunel (scumpă, adesea aglomerată).",
+    "en": "Parking garage at the cathedral, entrance via tunnel (expensive, often full)."
+  },
+  "accessibility": {
+    "de": "Kirchenraum barrierefrei erreichbar, Turm nur über 533 Stufen.",
+    "hu": "A templomtér akadálymentesített, a torony 533 lépcsőn érhető el.",
+    "ro": "Sala bisericii este accesibilă, turnul se poate accesa doar pe 533 de trepte.",
+    "en": "Church room is accessible, tower only via 533 steps."
+  },
+  "photoRules": {
+    "de": "Erlaubt ohne Blitz, während der Liturgie streng verboten.",
+    "hu": "Vakumentes fotózás engedélyezett, liturgia alatt szigorúan tilos.",
+    "ro": "Permis fără bliț, strict interzis în timpul liturghiei.",
+    "en": "Allowed without flash, strictly forbidden during liturgy."
+  },
+  "bestTimeToVisit": {
+    "de": "Mittagszeit, wenn die Sonne durch das Richter-Fenster leuchtet.",
+    "hu": "Délidőben, amikor a nap a Richter-ablakon keresztül világít.",
+    "ro": "La prânz, când soarele strălucește prin fereastra Richter.",
+    "en": "At noon when the sun shines through the Richter window."
+  },
+  "audioGuide": {
+    "de": "Deutsch, Englisch (über das Domforum buchbar)",
+    "hu": "Német, angol (a Domforumon keresztül foglalható)",
+    "ro": "Germană, engleză (se pot rezerva prin Domforum)",
+    "en": "German, English (bookable via Domforum)"
+  }
 }

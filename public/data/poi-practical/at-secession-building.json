@@ -1,12 +1,57 @@
 {
-  "address": "Friedrichstraße 12, 1010 Wien",
-  "openingHours": "Tu-Su 10:00-18:00",
-  "entranceFee": "12€ Erwachsene",
+  "address": {
+    "de": "Friedrichstraße 12, 1010 Wien",
+    "hu": "Friedrichstraße 12, 1010 Bécs",
+    "ro": "Friedrichstraße 12, 1010 Viena",
+    "en": "Friedrichstrasse 12, 1010 Vienna"
+  },
+  "openingHours": {
+    "de": "Tu-Su 10:00-18:00",
+    "hu": "K-V 10:00-18:00",
+    "ro": "Ma-Du 10:00-18:00",
+    "en": "Tue-Sun 10:00-18:00"
+  },
+  "entranceFee": {
+    "de": "12€ Erwachsene",
+    "hu": "12 € felnőtteknek",
+    "ro": "12 € adulți",
+    "en": "12€ adults"
+  },
   "website": "https://www.secession.at",
-  "publicTransport": "U1, U2, U4 Karlsplatz",
-  "parking": "WIPARK Karlsplatz Garage, ca. 4€/Std.",
-  "accessibility": "Über eine Rampe barrierefrei zugänglich.",
-  "photoRules": "Erlaubt, jedoch ohne Blitz oder Stativ.",
-  "bestTimeToVisit": "Vormittags für optimales Tageslicht im Inneren.",
-  "audioGuide": "nein"
+  "publicTransport": {
+    "de": "U1, U2, U4 Karlsplatz",
+    "hu": "U1, U2, U4 metró, Karlsplatz megálló",
+    "ro": "U1, U2, U4 Karlsplatz",
+    "en": "U1, U2, U4 Karlsplatz"
+  },
+  "parking": {
+    "de": "WIPARK Karlsplatz Garage, ca. 4€/Std.",
+    "hu": "WIPARK Karlsplatz garázs, kb. 4 €/óra.",
+    "ro": "Garajul WIPARK Karlsplatz, aprox. 4 €/oră.",
+    "en": "WIPARK Karlsplatz garage, approx. 4 €/h."
+  },
+  "accessibility": {
+    "de": "Über eine Rampe barrierefrei zugänglich.",
+    "hu": "Rámpán keresztül akadálymentesen megközelíthető.",
+    "ro": "Accesibil fără bariere printr-o rampă.",
+    "en": "Barrier-free access via a ramp."
+  },
+  "photoRules": {
+    "de": "Erlaubt, jedoch ohne Blitz oder Stativ.",
+    "hu": "Megengedett, de vaku és állvány nélkül.",
+    "ro": "Permis, dar fără bliț sau trepied.",
+    "en": "Permitted, but without flash or tripod."
+  },
+  "bestTimeToVisit": {
+    "de": "Vormittags für optimales Tageslicht im Inneren.",
+    "hu": "Délelőtt a belső tér optimális természetes fényviszonyaiért.",
+    "ro": "Dimineața pentru o lumină naturală optimă în interior.",
+    "en": "In the morning for optimal daylight inside."
+  },
+  "audioGuide": {
+    "de": "nein",
+    "hu": "nem",
+    "ro": "nu",
+    "en": "no"
+  }
 }

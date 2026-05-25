@@ -1,12 +1,57 @@
 {
-  "address": "Canary Wharf, London E14",
-  "openingHours": "24/7",
-  "entranceFee": "free",
+  "address": {
+    "de": "Canary Wharf, London E14",
+    "hu": "Canary Wharf, London E14",
+    "ro": "Canary Wharf, Londra E14",
+    "en": "Canary Wharf, London E14"
+  },
+  "openingHours": {
+    "de": "24/7",
+    "hu": "0-24",
+    "ro": "Non-stop",
+    "en": "24/7"
+  },
+  "entranceFee": {
+    "de": "free",
+    "hu": "ingyenes",
+    "ro": "gratuit",
+    "en": "free"
+  },
   "website": "https://canarywharf.com",
-  "publicTransport": "Jubilee Line, Elizabeth Line oder DLR Station Canary Wharf",
-  "parking": "Mehrere teure Parkhäuser in den Einkaufszentren (Waitrose/Cabot Square).",
-  "accessibility": "Exzellent, das gesamte Viertel ist modern und vollständig barrierefrei gestaltet.",
-  "photoRules": "Auf öffentlichen Plätzen erlaubt, in den Bürogebäuden strikt verboten.",
-  "bestTimeToVisit": "Wochentags zur Mittagszeit für Business-Atmosphäre oder abends für die Skyline.",
-  "audioGuide": "no"
+  "publicTransport": {
+    "de": "Jubilee Line, Elizabeth Line oder DLR Station Canary Wharf",
+    "hu": "Jubilee Line, Elizabeth Line vagy DLR állomás: Canary Wharf",
+    "ro": "Jubilee Line, Elizabeth Line sau stația DLR Canary Wharf",
+    "en": "Jubilee Line, Elizabeth Line or DLR station Canary Wharf"
+  },
+  "parking": {
+    "de": "Mehrere teure Parkhäuser in den Einkaufszentren (Waitrose/Cabot Square).",
+    "hu": "Több drága parkolóház a bevásárlóközpontokban (Waitrose/Cabot Square).",
+    "ro": "Mai multe parcări scumpe în centrele comerciale (Waitrose/Cabot Square).",
+    "en": "Several expensive car parks in the shopping centers (Waitrose/Cabot Square)."
+  },
+  "accessibility": {
+    "de": "Exzellent, das gesamte Viertel ist modern und vollständig barrierefrei gestaltet.",
+    "hu": "Kiváló, az egész negyed modern és teljesen akadálymentesített.",
+    "ro": "Excelent, întregul cartier este modern și complet accesibil.",
+    "en": "Excellent, the entire district is modern and fully accessible."
+  },
+  "photoRules": {
+    "de": "Auf öffentlichen Plätzen erlaubt, in den Bürogebäuden strikt verboten.",
+    "hu": "Közterületeken engedélyezett, irodaépületekben szigorúan tilos.",
+    "ro": "Permis în spațiile publice, strict interzis în clădirile de birouri.",
+    "en": "Allowed in public areas, strictly forbidden in office buildings."
+  },
+  "bestTimeToVisit": {
+    "de": "Wochentags zur Mittagszeit für Business-Atmosphäre oder abends für die Skyline.",
+    "hu": "Hétköznap ebédidőben az üzleti hangulatért, vagy este a látképért.",
+    "ro": "În timpul săptămânii la prânz pentru atmosfera de afaceri sau seara pentru panoramă.",
+    "en": "Weekdays at lunchtime for business atmosphere or evenings for the skyline."
+  },
+  "audioGuide": {
+    "de": "no",
+    "hu": "nem",
+    "ro": "nu",
+    "en": "no"
+  }
 }

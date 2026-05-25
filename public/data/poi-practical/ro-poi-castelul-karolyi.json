@@ -1,12 +1,57 @@
 {
-  "address": "Bulevardul 25 Octombrie 1, 445100 Carei",
-  "openingHours": "Tu-Su 09:00-17:00",
-  "entranceFee": "20 RON Erwachsene, 10 RON Kinder",
+  "address": {
+    "de": "Bulevardul 25 Octombrie 1, 445100 Carei",
+    "hu": "Bulevardul 25 Octombrie 1, 445100 Nagykároly",
+    "ro": "Bulevardul 25 Octombrie 1, 445100 Carei",
+    "en": "Bulevardul 25 Octombrie 1, 445100 Carei"
+  },
+  "openingHours": {
+    "de": "Tu-Su 09:00-17:00",
+    "hu": "Kedd-vasárnap 09:00-17:00",
+    "ro": "Marți-Duminică 09:00-17:00",
+    "en": "Tue-Sun 09:00-17:00"
+  },
+  "entranceFee": {
+    "de": "20 RON Erwachsene, 10 RON Kinder",
+    "hu": "20 RON felnőtt, 10 RON gyerek",
+    "ro": "20 RON adulți, 10 RON copii",
+    "en": "20 RON adults, 10 RON children"
+  },
   "website": "https://www.municipiulcarei.ro/",
-  "publicTransport": "Zug oder Bus bis Carei Hauptbahnhof",
-  "parking": "Kostenlose Parkplätze rund um den Schlosspark",
-  "accessibility": "Erdgeschoss barrierefrei, Aufzug vorhanden",
-  "photoRules": "Erlaubt ohne Stativ und Blitz",
-  "bestTimeToVisit": "Vormittags unter der Woche",
-  "audioGuide": "Rumänisch, Ungarisch, Deutsch, Englisch"
+  "publicTransport": {
+    "de": "Zug oder Bus bis Carei Hauptbahnhof",
+    "hu": "Vonat vagy busz Nagykároly főpályaudvarig",
+    "ro": "Tren sau autobuz până la gara principală din Carei",
+    "en": "Train or bus to Carei main station"
+  },
+  "parking": {
+    "de": "Kostenlose Parkplätze rund um den Schlosspark",
+    "hu": "Ingyenes parkolás a kastélypark körül",
+    "ro": "Parcare gratuită în jurul parcului castelului",
+    "en": "Free parking around the castle park"
+  },
+  "accessibility": {
+    "de": "Erdgeschoss barrierefrei, Aufzug vorhanden",
+    "hu": "Földszint akadálymentesített, lift van",
+    "ro": "Parter accesibil, lift disponibil",
+    "en": "Ground floor accessible, elevator available"
+  },
+  "photoRules": {
+    "de": "Erlaubt ohne Stativ und Blitz",
+    "hu": "Állvány és vaku nélkül engedélyezett",
+    "ro": "Permis fără trepied și bliț",
+    "en": "Allowed without tripod or flash"
+  },
+  "bestTimeToVisit": {
+    "de": "Vormittags unter der Woche",
+    "hu": "Délelőttönként hétköznap",
+    "ro": "Dimineața în timpul săptămânii",
+    "en": "Weekday mornings"
+  },
+  "audioGuide": {
+    "de": "Rumänisch, Ungarisch, Deutsch, Englisch",
+    "hu": "román, magyar, német, angol",
+    "ro": "română, maghiară, germană, engleză",
+    "en": "Romanian, Hungarian, German, English"
+  }
 }

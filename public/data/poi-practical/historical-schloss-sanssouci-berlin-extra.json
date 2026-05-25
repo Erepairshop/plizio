@@ -1,12 +1,57 @@
 {
-  "address": "Am Großen Wannsee 56-58, 14109 Berlin",
-  "openingHours": "Di-So 10:00-18:00",
-  "entranceFee": "kostenlos",
+  "address": {
+    "de": "Am Großen Wannsee 56-58, 14109 Berlin",
+    "hu": "Am Großen Wannsee 56-58, 14109 Berlin",
+    "ro": "Am Großen Wannsee 56-58, 14109 Berlin",
+    "en": "Am Großen Wannsee 56-58, 14109 Berlin"
+  },
+  "openingHours": {
+    "de": "Di-So 10:00-18:00",
+    "hu": "K-V 10:00-18:00",
+    "ro": "Mar-Dum 10:00-18:00",
+    "en": "Tue-Sun 10:00-18:00"
+  },
+  "entranceFee": {
+    "de": "kostenlos",
+    "hu": "ingyenes",
+    "ro": "gratuit",
+    "en": "free"
+  },
   "website": "https://www.ghwk.de",
-  "publicTransport": "S-Bahn S1/S7 bis Wannsee, dann Bus 114 bis zur Haltestelle Gedenkstätte",
-  "parking": "Begrenzte kostenlose Parkplätze direkt auf dem Gelände vorhanden.",
-  "accessibility": "Vollständig barrierefrei, Aufzug zu den Ausstellungsräumen vorhanden.",
-  "photoRules": "Fotografieren für private Zwecke ohne Blitz in der Ausstellung erlaubt.",
-  "bestTimeToVisit": "Vormittags unter der Woche für eine intensive Auseinandersetzung ohne Trubel.",
-  "audioGuide": "Deutsch, Englisch, Französisch, Hebräisch und weitere Sprachen"
+  "publicTransport": {
+    "de": "S-Bahn S1/S7 bis Wannsee, dann Bus 114 bis zur Haltestelle Gedenkstätte",
+    "hu": "S1/S7 S-Bahn Wannsee állomásig, majd 114-es busz a Gedenkstätte megállóig",
+    "ro": "S-Bahn S1/S7 până la Wannsee, apoi autobuzul 114 până la stația Gedenkstätte",
+    "en": "S-Bahn S1/S7 to Wannsee, then bus 114 to the Gedenkstätte stop"
+  },
+  "parking": {
+    "de": "Begrenzte kostenlose Parkplätze direkt auf dem Gelände vorhanden.",
+    "hu": "Korlátozott számú ingyenes parkolóhely közvetlenül a helyszínen.",
+    "ro": "Parcare gratuită limitată disponibilă direct în incintă.",
+    "en": "Limited free parking available directly on site."
+  },
+  "accessibility": {
+    "de": "Vollständig barrierefrei, Aufzug zu den Ausstellungsräumen vorhanden.",
+    "hu": "Teljesen akadálymentes, lift biztosított a kiállítási termekhez.",
+    "ro": "Complet accesibil, lift disponibil către sălile de expoziție.",
+    "en": "Fully accessible, elevator provided to exhibition rooms."
+  },
+  "photoRules": {
+    "de": "Fotografieren für private Zwecke ohne Blitz in der Ausstellung erlaubt.",
+    "hu": "Magáncélú fényképezés vaku nélkül a kiállításon engedélyezett.",
+    "ro": "Fotografierea în scop privat fără bliț în expoziție este permisă.",
+    "en": "Photography for private purposes without flash in the exhibition is allowed."
+  },
+  "bestTimeToVisit": {
+    "de": "Vormittags unter der Woche für eine intensive Auseinandersetzung ohne Trubel.",
+    "hu": "Délelőtt hétköznap az alapos, zavartalan megtekintés érdekében.",
+    "ro": "Dimineața în timpul săptămânii pentru o vizită intensă fără aglomerație.",
+    "en": "Weekday mornings for an intense visit without the crowds."
+  },
+  "audioGuide": {
+    "de": "Deutsch, Englisch, Französisch, Hebräisch und weitere Sprachen",
+    "hu": "német, angol, francia, héber és egyéb nyelvek",
+    "ro": "germană, engleză, franceză, ebraică și alte limbi",
+    "en": "German, English, French, Hebrew and other languages"
+  }
 }

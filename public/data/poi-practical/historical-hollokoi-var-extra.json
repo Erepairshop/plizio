@@ -1,12 +1,57 @@
 {
-  "address": "Várhegy, 3176 Hollókő",
-  "openingHours": "Mo-So 10:00-17:30 (Saisonal variabel)",
-  "entranceFee": "1500 HUF Erwachsene, 1000 HUF ermäßigt",
+  "address": {
+    "de": "Várhegy, 3176 Hollókő",
+    "hu": "Várhegy, 3176 Hollókő",
+    "ro": "Várhegy, 3176 Hollókő",
+    "en": "Várhegy, 3176 Hollókő"
+  },
+  "openingHours": {
+    "de": "Mo-So 10:00-17:30 (Saisonal variabel)",
+    "hu": "H-V 10:00-17:30 (szezonálisan változó)",
+    "ro": "Lu-Du 10:00-17:30 (sezonier variabil)",
+    "en": "Mon-Sun 10:00-17:30 (seasonally variable)"
+  },
+  "entranceFee": {
+    "de": "1500 HUF Erwachsene, 1000 HUF ermäßigt",
+    "hu": "1500 HUF felnőtt, 1000 HUF kedvezményes",
+    "ro": "1500 HUF adulți, 1000 HUF redus",
+    "en": "1500 HUF adults, 1000 HUF reduced"
+  },
   "website": "https://www.holloko.hu",
-  "publicTransport": "Direktbus von Budapest (Stadionok) nach Hollókő",
-  "parking": "Zentraler Parkplatz am Dorfeingang (gebührenpflichtig), ca. 10 Min. Fußweg",
-  "accessibility": "Steiler Kopfsteinpflasterweg, Burg selbst nur eingeschränkt barrierefrei",
-  "photoRules": "Erlaubt, Panoramablick vom Turm ideal für Weitwinkel",
-  "bestTimeToVisit": "Ostern (traditionelles Fest) oder an klaren Herbsttagen",
-  "audioGuide": "nein"
+  "publicTransport": {
+    "de": "Direktbus von Budapest (Stadionok) nach Hollókő",
+    "hu": "Közvetlen buszjárat Budapestről (Stadionok) Hollókőre",
+    "ro": "Autobuz direct din Budapesta (Stadionok) către Hollókő",
+    "en": "Direct bus from Budapest (Stadionok) to Hollókő"
+  },
+  "parking": {
+    "de": "Zentraler Parkplatz am Dorfeingang (gebührenpflichtig), ca. 10 Min. Fußweg",
+    "hu": "Központi parkoló a falu bejáratánál (fizetős), kb. 10 perc séta",
+    "ro": "Parcare centrală la intrarea în sat (cu plată), aprox. 10 minute de mers pe jos",
+    "en": "Central parking at the village entrance (paid), approx. 10 min walk"
+  },
+  "accessibility": {
+    "de": "Steiler Kopfsteinpflasterweg, Burg selbst nur eingeschränkt barrierefrei",
+    "hu": "Meredek macskaköves út, a vár maga csak korlátozottan akadálymentes",
+    "ro": "Drum abrupt cu piatră cubică, cetatea în sine este accesibilă doar limitat",
+    "en": "Steep cobblestone path, the castle itself is only partially accessible"
+  },
+  "photoRules": {
+    "de": "Erlaubt, Panoramablick vom Turm ideal für Weitwinkel",
+    "hu": "Megengedett, a toronyból nyíló panoráma ideális nagylátószöghöz",
+    "ro": "Permis, panorama din turn este ideală pentru unghi larg",
+    "en": "Allowed, panorama from the tower ideal for wide angle"
+  },
+  "bestTimeToVisit": {
+    "de": "Ostern (traditionelles Fest) oder an klaren Herbsttagen",
+    "hu": "Húsvét (hagyományos ünnep) vagy tiszta őszi napokon",
+    "ro": "Paște (sărbătoare tradițională) sau în zilele senine de toamnă",
+    "en": "Easter (traditional festival) or on clear autumn days"
+  },
+  "audioGuide": {
+    "de": "nein",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

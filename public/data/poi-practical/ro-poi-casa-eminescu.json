@@ -1,12 +1,57 @@
 {
-  "address": "Ipotești, 717253 Botoșani",
-  "openingHours": "Tu-Su 09:00-17:00",
-  "entranceFee": "15 RON Erwachsene, 7 RON Kinder",
+  "address": {
+    "de": "Ipotești, 717253 Botoșani",
+    "hu": "Ipotești, 717253 Botoșani",
+    "ro": "Ipotești, 717253 Botoșani",
+    "en": "Ipotești, 717253 Botoșani"
+  },
+  "openingHours": {
+    "de": "Tu-Su 09:00-17:00",
+    "hu": "K-V 09:00-17:00",
+    "ro": "Ma-Du 09:00-17:00",
+    "en": "Tue-Sun 09:00-17:00"
+  },
+  "entranceFee": {
+    "de": "15 RON Erwachsene, 7 RON Kinder",
+    "hu": "15 RON felnőttek, 7 RON gyerekek",
+    "ro": "15 RON adulți, 7 RON copii",
+    "en": "15 RON adults, 7 RON children"
+  },
   "website": "http://www.eminescuipotesti.ro/",
-  "publicTransport": "Bus ab Botoșani Richtung Ipotești",
-  "parking": "Kostenloser Parkplatz am Museumseingang",
-  "accessibility": "Erdgeschoss zugänglich, Obergeschoss nur über Treppen",
-  "photoRules": "Erlaubt gegen zusätzliche Gebühr",
-  "bestTimeToVisit": "Frühling, wenn der Park und der See blühen",
-  "audioGuide": "Rumänisch"
+  "publicTransport": {
+    "de": "Bus ab Botoșani Richtung Ipotești",
+    "hu": "Busz Botoșaniból Ipotești felé",
+    "ro": "Autobuz din Botoșani spre Ipotești",
+    "en": "Bus from Botoșani towards Ipotești"
+  },
+  "parking": {
+    "de": "Kostenloser Parkplatz am Museumseingang",
+    "hu": "Ingyenes parkoló a múzeum bejáratánál",
+    "ro": "Parcare gratuită la intrarea în muzeu",
+    "en": "Free parking at the museum entrance"
+  },
+  "accessibility": {
+    "de": "Erdgeschoss zugänglich, Obergeschoss nur über Treppen",
+    "hu": "Földszint látogatható, az emelet csak lépcsőn",
+    "ro": "Parter accesibil, etajul doar pe scări",
+    "en": "Ground floor accessible, upper floor via stairs only"
+  },
+  "photoRules": {
+    "de": "Erlaubt gegen zusätzliche Gebühr",
+    "hu": "Engedélyezett külön díj ellenében",
+    "ro": "Permis contra unei taxe suplimentare",
+    "en": "Allowed for an additional fee"
+  },
+  "bestTimeToVisit": {
+    "de": "Frühling, wenn der Park und der See blühen",
+    "hu": "Tavasz, amikor a park és a tó virágzik",
+    "ro": "Primăvara, când parcul și lacul sunt înflorite",
+    "en": "Spring, when the park and lake are in bloom"
+  },
+  "audioGuide": {
+    "de": "Rumänisch",
+    "hu": "Román",
+    "ro": "Română",
+    "en": "Romanian"
+  }
 }

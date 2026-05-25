@@ -1,12 +1,57 @@
 {
-  "address": "Cloef, 66693 Mettlach",
-  "openingHours": "24/7",
-  "entranceFee": "free",
+  "address": {
+    "de": "Cloef, 66693 Mettlach",
+    "hu": "Cloef, 66693 Mettlach",
+    "ro": "Cloef, 66693 Mettlach",
+    "en": "Cloef, 66693 Mettlach"
+  },
+  "openingHours": {
+    "de": "24/7",
+    "hu": "24/7",
+    "ro": "24/7",
+    "en": "24/7"
+  },
+  "entranceFee": {
+    "de": "free",
+    "hu": "ingyenes",
+    "ro": "gratuit",
+    "en": "free"
+  },
   "website": "https://www.saarschleife.de",
-  "publicTransport": "Bus 201",
-  "parking": "Parkplatz Cloef",
-  "accessibility": "Barrierefrei",
-  "photoRules": "Erlaubt",
-  "bestTimeToVisit": "Sonnenaufgang",
-  "audioGuide": "no"
+  "publicTransport": {
+    "de": "Bus 201",
+    "hu": "201-es busz",
+    "ro": "Autobuz 201",
+    "en": "Bus 201"
+  },
+  "parking": {
+    "de": "Parkplatz Cloef",
+    "hu": "Cloef parkoló",
+    "ro": "Parcare Cloef",
+    "en": "Parking Cloef"
+  },
+  "accessibility": {
+    "de": "Barrierefrei",
+    "hu": "Akadálymentes",
+    "ro": "Accesibil",
+    "en": "Accessible"
+  },
+  "photoRules": {
+    "de": "Erlaubt",
+    "hu": "Engedélyezett",
+    "ro": "Permis",
+    "en": "Allowed"
+  },
+  "bestTimeToVisit": {
+    "de": "Sonnenaufgang",
+    "hu": "Napfelkelte",
+    "ro": "Răsărit",
+    "en": "Sunrise"
+  },
+  "audioGuide": {
+    "de": "no",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

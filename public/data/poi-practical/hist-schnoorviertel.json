@@ -1,12 +1,57 @@
 {
-  "address": "Schnoor, 28195 Bremen",
-  "openingHours": "24/7",
-  "entranceFee": "kostenlos",
+  "address": {
+    "de": "Schnoor, 28195 Bremen",
+    "hu": "Schnoor, 28195 Bremen",
+    "ro": "Schnoor, 28195 Bremen",
+    "en": "Schnoor, 28195 Bremen"
+  },
+  "openingHours": {
+    "de": "24/7",
+    "hu": "24/7",
+    "ro": "24/7",
+    "en": "24/7"
+  },
+  "entranceFee": {
+    "de": "kostenlos",
+    "hu": "ingyenes",
+    "ro": "gratuit",
+    "en": "free"
+  },
   "website": "https://www.bremen-tourismus.de/schnoor",
-  "publicTransport": "Straßenbahn 2, 3 (Domsheide)",
-  "parking": "Parkhaus Pressehaus (Langestraße), ca. 2,50 €/Std.",
-  "accessibility": "Teilweise schwierig aufgrund von Kopfsteinpflaster und engen Gassen.",
-  "photoRules": "Erlaubt, im öffentlichen Raum keine Einschränkungen.",
-  "bestTimeToVisit": "Früh morgens für Fotos ohne Menschenmassen oder abends für die Beleuchtung.",
-  "audioGuide": "nein"
+  "publicTransport": {
+    "de": "Straßenbahn 2, 3 (Domsheide)",
+    "hu": "2-es, 3-as villamos (Domsheide)",
+    "ro": "Tramvaiul 2, 3 (Domsheide)",
+    "en": "Tram 2, 3 (Domsheide)"
+  },
+  "parking": {
+    "de": "Parkhaus Pressehaus (Langestraße), ca. 2,50 €/Std.",
+    "hu": "Pressehaus parkolóház (Langestraße), kb. 2,50 €/óra",
+    "ro": "Parcarea Pressehaus (Langestraße), aprox. 2,50 €/oră",
+    "en": "Pressehaus parking garage (Langestraße), approx. 2.50 €/hr"
+  },
+  "accessibility": {
+    "de": "Teilweise schwierig aufgrund von Kopfsteinpflaster und engen Gassen.",
+    "hu": "Részben nehézkes a macskaköves burkolat és a szűk utcák miatt.",
+    "ro": "Uneori dificil din cauza pavajului cu piatră cubică și a străzilor înguste.",
+    "en": "Partially difficult due to cobblestones and narrow alleys."
+  },
+  "photoRules": {
+    "de": "Erlaubt, im öffentlichen Raum keine Einschränkungen.",
+    "hu": "Engedélyezett, közterületen nincs korlátozás.",
+    "ro": "Permis, fără restricții în spațiul public.",
+    "en": "Allowed, no restrictions in public spaces."
+  },
+  "bestTimeToVisit": {
+    "de": "Früh morgens für Fotos ohne Menschenmassen oder abends für die Beleuchtung.",
+    "hu": "Kora reggel tömeg nélküli fotókhoz, vagy este a kivilágítás miatt.",
+    "ro": "Dimineața devreme pentru fotografii fără mulțimi sau seara pentru iluminare.",
+    "en": "Early morning for photos without crowds or in the evening for the lighting."
+  },
+  "audioGuide": {
+    "de": "nein",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

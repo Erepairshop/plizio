@@ -1,12 +1,57 @@
 {
-  "address": "Otto-Flimm-Straße, 53520 Nürburg",
-  "openingHours": "Varies by event, Touristenfahrten meist ab 17:00 oder WE",
-  "entranceFee": "Gelände frei, Ring-Werk €10, Nordschleife ca. €30/Runde",
+  "address": {
+    "de": "Otto-Flimm-Straße, 53520 Nürburg",
+    "hu": "Otto-Flimm-Straße, 53520 Nürburg",
+    "ro": "Otto-Flimm-Straße, 53520 Nürburg",
+    "en": "Otto-Flimm-Straße, 53520 Nürburg"
+  },
+  "openingHours": {
+    "de": "Varies by event, Touristenfahrten meist ab 17:00 oder WE",
+    "hu": "Eseménytől függően változik, a turisták számára általában 17:00-től vagy hétvégén",
+    "ro": "Variază în funcție de eveniment, curse turistice de obicei după ora 17:00 sau în weekend",
+    "en": "Varies by event, tourist rides usually from 5:00 PM or weekends"
+  },
+  "entranceFee": {
+    "de": "Gelände frei, Ring-Werk €10, Nordschleife ca. €30/Runde",
+    "hu": "Terület ingyenes, Ring-Werk 10 €, Nordschleife kb. 30 €/kör",
+    "ro": "Teren gratuit, Ring-Werk 10 €, Nordschleife aprox. 30 €/tură",
+    "en": "Grounds free, Ring-Werk €10, Nordschleife approx. €30/lap"
+  },
   "website": "https://www.nuerburgring.de",
-  "publicTransport": "Bus 859 ab Adenau oder Shuttle bei Großevents",
-  "parking": "Zahlreiche Parkplätze (z.B. Brünnchen), Preise variieren je nach Event",
-  "accessibility": "Ring-Boulevard und Tribünen weitgehend barrierefrei",
-  "photoRules": "An der Strecke für private Zwecke erlaubt, Drohnen verboten",
-  "bestTimeToVisit": "Wochentags abends für Touristenfahrten auf der Nordschleife",
-  "audioGuide": "no"
+  "publicTransport": {
+    "de": "Bus 859 ab Adenau oder Shuttle bei Großevents",
+    "hu": "859-es busz Adenauból vagy transzfer nagyrendezvények esetén",
+    "ro": "Autobuzul 859 din Adenau sau transfer în timpul evenimentelor majore",
+    "en": "Bus 859 from Adenau or shuttle during major events"
+  },
+  "parking": {
+    "de": "Zahlreiche Parkplätze (z.B. Brünnchen), Preise variieren je nach Event",
+    "hu": "Számos parkolóhely (pl. Brünnchen), az árak eseményenként változnak",
+    "ro": "Numeroase parcări (ex. Brünnchen), prețurile variază în funcție de eveniment",
+    "en": "Numerous parking spaces (e.g. Brünnchen), prices vary depending on the event"
+  },
+  "accessibility": {
+    "de": "Ring-Boulevard und Tribünen weitgehend barrierefrei",
+    "hu": "A Ring-Boulevard és a lelátók nagyrészt akadálymentesek",
+    "ro": "Ring-Boulevard și tribunele sunt în mare parte accesibile",
+    "en": "Ring-Boulevard and grandstands largely barrier-free"
+  },
+  "photoRules": {
+    "de": "An der Strecke für private Zwecke erlaubt, Drohnen verboten",
+    "hu": "A pályánál magáncélra megengedett, drónhasználat tilos",
+    "ro": "Permis pe circuit pentru uz privat, drone interzise",
+    "en": "Allowed at the track for private use, drones forbidden"
+  },
+  "bestTimeToVisit": {
+    "de": "Wochentags abends für Touristenfahrten auf der Nordschleife",
+    "hu": "Hétköznap este a turisták számára a Nordschleifén",
+    "ro": "În timpul săptămânii seara pentru curse turistice pe Nordschleife",
+    "en": "Weekdays in the evening for tourist rides on the Nordschleife"
+  },
+  "audioGuide": {
+    "de": "no",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

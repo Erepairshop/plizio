@@ -1,12 +1,57 @@
 {
-  "address": "Fürther Str. 110, 90429 Nürnberg",
-  "openingHours": "Mi-Mo 10:00-18:00 (Saal 600 nur zugänglich, wenn keine Sitzungen stattfinden)",
-  "entranceFee": "€6 Erwachsene (Memorium Nürnberger Prozesse)",
+  "address": {
+    "de": "Fürther Str. 110, 90429 Nürnberg",
+    "hu": "Fürther Str. 110, 90429 Nürnberg",
+    "ro": "Fürther Str. 110, 90429 Nürnberg",
+    "en": "Fürther Str. 110, 90429 Nürnberg"
+  },
+  "openingHours": {
+    "de": "Mi-Mo 10:00-18:00 (Saal 600 nur zugänglich, wenn keine Sitzungen stattfinden)",
+    "hu": "Sze–Hé 10:00–18:00 (a 600-as terem csak akkor látogatható, ha nincs bírósági tárgyalás)",
+    "ro": "Mi-Lu 10:00-18:00 (Sala 600 accesibilă doar când nu au loc ședințe)",
+    "en": "Wed-Mon 10:00-18:00 (Courtroom 600 only accessible when no sessions are in progress)"
+  },
+  "entranceFee": {
+    "de": "€6 Erwachsene (Memorium Nürnberger Prozesse)",
+    "hu": "Felnőtt 6 € (Nürnbergi Per Emlékhely)",
+    "ro": "6 € adulți (Memorium Procesele de la Nürnberg)",
+    "en": "€6 adults (Memorium Nuremberg Trials)"
+  },
   "website": "https://museen.nuernberg.de/memorium-nuernberger-prozesse",
-  "publicTransport": "U1 bis Haltestelle 'Bärenschanze'",
-  "parking": "Begrenzte Parkplätze in den umliegenden Straßen (Wohngebiet)",
-  "accessibility": "Voll barrierefrei mit Aufzug und barrierefreien Toiletten",
-  "photoRules": "Ohne Blitz für private Zwecke erlaubt",
-  "bestTimeToVisit": "Wochenende (da dann keine Gerichtsverhandlungen im Saal 600 stattfinden)",
-  "audioGuide": "Inklusive (viele Sprachen, u.a. Deutsch, Englisch, Französisch, Russisch)"
+  "publicTransport": {
+    "de": "U1 bis Haltestelle 'Bärenschanze'",
+    "hu": "U1-es metró Bärenschanze megállóig",
+    "ro": "Metrou U1 până la stația „Bärenschanze”",
+    "en": "U1 to 'Bärenschanze' stop"
+  },
+  "parking": {
+    "de": "Begrenzte Parkplätze in den umliegenden Straßen (Wohngebiet)",
+    "hu": "Korlátozott parkolási lehetőség a környező utcákban (lakóövezet)",
+    "ro": "Locuri de parcare limitate în străzile din jur (zonă rezidențială)",
+    "en": "Limited parking in the surrounding streets (residential area)"
+  },
+  "accessibility": {
+    "de": "Voll barrierefrei mit Aufzug und barrierefreien Toiletten",
+    "hu": "Teljesen akadálymentes, lifttel és speciális mosdóval",
+    "ro": "Complet accesibil cu lift și toalete adaptate",
+    "en": "Fully accessible with elevator and accessible restrooms"
+  },
+  "photoRules": {
+    "de": "Ohne Blitz für private Zwecke erlaubt",
+    "hu": "Vaku nélkül, magáncélra megengedett",
+    "ro": "Permis fără bliț în scopuri private",
+    "en": "Allowed without flash for private purposes"
+  },
+  "bestTimeToVisit": {
+    "de": "Wochenende (da dann keine Gerichtsverhandlungen im Saal 600 stattfinden)",
+    "hu": "Hétvégén (ekkor biztosan nincsenek tárgyalások a 600-as teremben)",
+    "ro": "În weekend (deoarece atunci nu au loc procese în Sala 600)",
+    "en": "Weekends (as no court sessions take place in Courtroom 600 then)"
+  },
+  "audioGuide": {
+    "de": "Inklusive (viele Sprachen, u.a. Deutsch, Englisch, Französisch, Russisch)",
+    "hu": "Benne van az árban (sok nyelven, többek között németül, angolul, franciául, oroszul)",
+    "ro": "Inclus (multe limbi, inclusiv germana, engleza, franceza, rusa)",
+    "en": "Included (many languages, including German, English, French, Russian)"
+  }
 }

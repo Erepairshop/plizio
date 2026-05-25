@@ -1,12 +1,57 @@
 {
-  "address": "Strada Vasile Alecsandri, 605500 Slănic-Moldova",
-  "openingHours": "24/7",
-  "entranceFee": "kostenlos (Mineralquellen frei zugänglich)",
+  "address": {
+    "de": "Strada Vasile Alecsandri, 605500 Slănic-Moldova",
+    "hu": "Strada Vasile Alecsandri, 605500 Slănic-Moldova",
+    "ro": "Strada Vasile Alecsandri, 605500 Slănic-Moldova",
+    "en": "Strada Vasile Alecsandri, 605500 Slănic-Moldova"
+  },
+  "openingHours": {
+    "de": "24/7",
+    "hu": "Non-stop",
+    "ro": "Non-stop",
+    "en": "24/7"
+  },
+  "entranceFee": {
+    "de": "kostenlos (Mineralquellen frei zugänglich)",
+    "hu": "ingyenes (az ásványvízforrások szabadon látogathatók)",
+    "ro": "gratuit (izvoarele minerale sunt liber accesibile)",
+    "en": "free (mineral springs freely accessible)"
+  },
   "website": "https://primariaslanicmoldova.ro",
-  "publicTransport": "Busse von Bacău oder Onești direkt ins Zentrum",
-  "parking": "Parkplätze an den Hotels und im Zentrum (meist gebührenpflichtig)",
-  "accessibility": "Zentraler Park barrierefrei, Wanderweg '300 Treppen' nicht zugänglich",
-  "photoRules": "Erlaubt; das Casino ist ein beliebtes Architekturmotiv",
-  "bestTimeToVisit": "September für milde Temperaturen und Herbstfarben im Tal",
-  "audioGuide": "nein"
+  "publicTransport": {
+    "de": "Busse von Bacău oder Onești direkt ins Zentrum",
+    "hu": "Buszok Bákóból vagy Onestiből közvetlenül a központba",
+    "ro": "Autobuze din Bacău sau Onești direct în centru",
+    "en": "Buses from Bacău or Onești directly to the center"
+  },
+  "parking": {
+    "de": "Parkplätze an den Hotels und im Zentrum (meist gebührenpflichtig)",
+    "hu": "Parkolóhelyek a szállodáknál és a központban (többnyire fizetős)",
+    "ro": "Parcări la hoteluri și în centru (de obicei cu plată)",
+    "en": "Parking at hotels and in the center (mostly paid)"
+  },
+  "accessibility": {
+    "de": "Zentraler Park barrierefrei, Wanderweg '300 Treppen' nicht zugänglich",
+    "hu": "A központi park akadálymentesített, a '300 lépcső' túraútvonal nem",
+    "ro": "Parcul central accesibil, traseul turistic '300 trepte' nu este accesibil",
+    "en": "Central park accessible, hiking trail '300 stairs' not accessible"
+  },
+  "photoRules": {
+    "de": "Erlaubt; das Casino ist ein beliebtes Architekturmotiv",
+    "hu": "Megengedett; a kaszinó népszerű építészeti téma",
+    "ro": "Permis; cazinoul este un subiect arhitectural popular",
+    "en": "Allowed; the casino is a popular architectural motif"
+  },
+  "bestTimeToVisit": {
+    "de": "September für milde Temperaturen und Herbstfarben im Tal",
+    "hu": "Szeptember, a kellemes hőmérséklet és az őszi színek miatt a völgyben",
+    "ro": "Septembrie pentru temperaturi blânde și culorile toamnei în vale",
+    "en": "September for mild temperatures and autumn colors in the valley"
+  },
+  "audioGuide": {
+    "de": "nein",
+    "hu": "nem",
+    "ro": "nu",
+    "en": "no"
+  }
 }

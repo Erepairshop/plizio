@@ -1,12 +1,57 @@
 {
-  "address": "Dealul Mitropoliei, 030167 București (Patriarchalkathedrale)",
-  "openingHours": "Osternacht ab ca. 23:00 Uhr, Ostersonntag Gottesdienste ab 09:00 Uhr",
-  "entranceFee": "frei",
+  "address": {
+    "de": "Dealul Mitropoliei, 030167 București (Patriarchalkathedrale)",
+    "hu": "Dealul Mitropoliei, 030167 Bukarest (Pátriárkai székesegyház)",
+    "ro": "Dealul Mitropoliei, 030167 București (Catedrala Patriarhală)",
+    "en": "Dealul Mitropoliei, 030167 Bucharest (Patriarchal Cathedral)"
+  },
+  "openingHours": {
+    "de": "Osternacht ab ca. 23:00 Uhr, Ostersonntag Gottesdienste ab 09:00 Uhr",
+    "hu": "Húsvét éjszaka kb. 23:00-tól, húsvét vasárnap istentiszteletek 09:00-től",
+    "ro": "Noaptea de Înviere de la cca. 23:00, duminică slujbe de la 09:00",
+    "en": "Easter night from approx. 23:00, Easter Sunday services from 09:00"
+  },
+  "entranceFee": {
+    "de": "frei",
+    "hu": "ingyenes",
+    "ro": "gratuit",
+    "en": "free"
+  },
   "website": "https://patriarhia.ro",
-  "publicTransport": "U-Bahn M1, M2, M3 bis Haltestelle Piața Unirii",
-  "parking": "Parkhäuser am Piața Unirii (ca. 10 RON/Std.), zur Osternacht extrem überfüllt.",
-  "accessibility": "Der Zugang zum Hügel und zur Kathedrale ist über Rampen möglich.",
-  "photoRules": "In der Kirche während der Liturgie unerwünscht, im Freien während der Lichtzeremonie erlaubt.",
-  "bestTimeToVisit": "Samstagabend um 23:45 Uhr zur Entzündung der Osterkerzen (Lumina Sfântă).",
-  "audioGuide": "nein"
+  "publicTransport": {
+    "de": "U-Bahn M1, M2, M3 bis Haltestelle Piața Unirii",
+    "hu": "M1, M2, M3 metró a Piața Unirii megállóig",
+    "ro": "Metrou M1, M2, M3 până la stația Piața Unirii",
+    "en": "Metro M1, M2, M3 to Piața Unirii station"
+  },
+  "parking": {
+    "de": "Parkhäuser am Piața Unirii (ca. 10 RON/Std.), zur Osternacht extrem überfüllt.",
+    "hu": "Parkolóházak a Piața Unirii téren (kb. 10 lej/óra), húsvét éjszaka túlzsúfolt.",
+    "ro": "Parcări la Piața Unirii (cca. 10 RON/oră), extrem de aglomerat în noaptea de Înviere.",
+    "en": "Parking garages at Piața Unirii (approx. 10 RON/hr), extremely crowded on Easter night."
+  },
+  "accessibility": {
+    "de": "Der Zugang zum Hügel und zur Kathedrale ist über Rampen möglich.",
+    "hu": "A domb és a székesegyház megközelítése rámpákon keresztül lehetséges.",
+    "ro": "Accesul la deal și catedrală este posibil prin rampe.",
+    "en": "Access to the hill and cathedral is possible via ramps."
+  },
+  "photoRules": {
+    "de": "In der Kirche während der Liturgie unerwünscht, im Freien während der Lichtzeremonie erlaubt.",
+    "hu": "A templomban a liturgia alatt nemkívánatos, a szabadban a fényceremónia alatt megengedett.",
+    "ro": "În biserică în timpul liturghiei nedorit, în aer liber în timpul ceremoniei luminii permis.",
+    "en": "Undesirable inside the church during liturgy, allowed outdoors during the light ceremony."
+  },
+  "bestTimeToVisit": {
+    "de": "Samstagabend um 23:45 Uhr zur Entzündung der Osterkerzen (Lumina Sfântă).",
+    "hu": "Szombat este 23:45-kor a húsvéti gyertyák meggyújtásához (Szent Fény).",
+    "ro": "Sâmbătă seara la 23:45 pentru aprinderea lumânărilor (Lumina Sfântă).",
+    "en": "Saturday evening at 23:45 for the lighting of the Easter candles (Holy Light)."
+  },
+  "audioGuide": {
+    "de": "nein",
+    "hu": "nem",
+    "ro": "nu",
+    "en": "no"
+  }
 }

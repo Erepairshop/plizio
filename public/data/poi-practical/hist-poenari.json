@@ -1,12 +1,57 @@
 {
-  "address": "DN7C, 117041 Arefu",
-  "openingHours": "Täglich 09:00-17:00 (Oft wetterbedingt oder wegen Bärengefahr gesperrt)",
-  "entranceFee": "10 RON Erwachsene, 5 RON Kinder",
+  "address": {
+    "de": "DN7C, 117041 Arefu",
+    "hu": "DN7C, 117041 Arefu",
+    "ro": "DN7C, 117041 Arefu",
+    "en": "DN7C, 117041 Arefu"
+  },
+  "openingHours": {
+    "de": "Täglich 09:00-17:00 (Oft wetterbedingt oder wegen Bärengefahr gesperrt)",
+    "hu": "Naponta 09:00-17:00 (időjárás vagy medveveszély miatt gyakran zárva)",
+    "ro": "Zilnic 09:00-17:00 (adesea închis din cauza vremii sau a urșilor)",
+    "en": "Daily 09:00-17:00 (often closed due to weather or bear danger)"
+  },
+  "entranceFee": {
+    "de": "10 RON Erwachsene, 5 RON Kinder",
+    "hu": "10 RON felnőtt, 5 RON gyermek",
+    "ro": "10 RON adulți, 5 RON copii",
+    "en": "10 RON adults, 5 RON children"
+  },
   "website": "",
-  "publicTransport": "Kein direkter ÖPNV, Anreise per Auto oder Tour ab Curtea de Argeș empfohlen",
-  "parking": "Kleiner kostenloser Parkplatz direkt an der DN7C am Fuß der Treppe",
-  "accessibility": "Nicht barrierefrei, 1480 steile Stufen führen zur Burg hinauf",
-  "photoRules": "Erlaubt für private Zwecke, keine zusätzlichen Gebühren",
-  "bestTimeToVisit": "Vormittags bei kühleren Temperaturen für den Aufstieg",
-  "audioGuide": "Nein"
+  "publicTransport": {
+    "de": "Kein direkter ÖPNV, Anreise per Auto oder Tour ab Curtea de Argeș empfohlen",
+    "hu": "Nincs közvetlen tömegközlekedés, autóval vagy Curtea de Argeșből induló túrával elérhető",
+    "ro": "Fără transport public direct, acces cu mașina sau tur de la Curtea de Argeș",
+    "en": "No direct public transport, arrival by car or tour from Curtea de Argeș recommended"
+  },
+  "parking": {
+    "de": "Kleiner kostenloser Parkplatz direkt an der DN7C am Fuß der Treppe",
+    "hu": "Kis ingyenes parkoló közvetlenül a DN7C út mentén, a lépcső tövében",
+    "ro": "Parcare mică gratuită direct pe DN7C, la baza scărilor",
+    "en": "Small free parking lot directly on DN7C at the foot of the stairs"
+  },
+  "accessibility": {
+    "de": "Nicht barrierefrei, 1480 steile Stufen führen zur Burg hinauf",
+    "hu": "Nem akadálymentesített, 1480 meredek lépcsőfok vezet fel a várhoz",
+    "ro": "Nu este accesibil, 1480 de trepte abrupte duc spre cetate",
+    "en": "Not accessible, 1480 steep steps lead up to the fortress"
+  },
+  "photoRules": {
+    "de": "Erlaubt für private Zwecke, keine zusätzlichen Gebühren",
+    "hu": "Magáncélra engedélyezett, nincs külön díja",
+    "ro": "Permis în scopuri private, fără taxe suplimentare",
+    "en": "Allowed for private purposes, no additional fees"
+  },
+  "bestTimeToVisit": {
+    "de": "Vormittags bei kühleren Temperaturen für den Aufstieg",
+    "hu": "Délelőtt, hűvösebb időben a felkapaszkodáshoz",
+    "ro": "Dimineața, când temperaturile sunt mai scăzute pentru urcare",
+    "en": "In the morning when temperatures are cooler for the climb"
+  },
+  "audioGuide": {
+    "de": "Nein",
+    "hu": "Nem",
+    "ro": "Nu",
+    "en": "No"
+  }
 }

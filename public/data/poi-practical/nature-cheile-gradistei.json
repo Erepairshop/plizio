@@ -1,12 +1,57 @@
 {
-  "address": "Strada Principală, 507130 Moieciu de Jos, Brașov",
-  "openingHours": "24/7",
-  "entranceFee": "free (Zutritt zum Resort oben ggf. Gebühr)",
+  "address": {
+    "de": "Strada Principală, 507130 Moieciu de Jos, Brașov",
+    "hu": "Strada Principală, 507130 Alsómoécs, Brassó",
+    "ro": "Strada Principală, 507130 Moieciu de Jos, Brașov",
+    "en": "Strada Principală, 507130 Moieciu de Jos, Brașov"
+  },
+  "openingHours": {
+    "de": "24/7",
+    "hu": "24/7",
+    "ro": "24/7",
+    "en": "24/7"
+  },
+  "entranceFee": {
+    "de": "free (Zutritt zum Resort oben ggf. Gebühr)",
+    "hu": "ingyenes (a fenti üdülőhely belépése díjköteles lehet)",
+    "ro": "gratuit (accesul în resortul de sus poate fi taxat)",
+    "en": "free (access to the upper resort may have a fee)"
+  },
   "website": "https://cheilegradistei.ro",
-  "publicTransport": "Bus von Brașov nach Moieciu, dann Taxi oder langer Fußweg",
-  "parking": "Parkplätze im Cheile Grădiștei Resort (Fundata/Moieciu) vorhanden",
-  "accessibility": "Straße durch die Schlucht asphaltiert und gut begehbar/befahrbar",
-  "photoRules": "Erlaubt; Panoramablick vom oberen Plateau (Fundata) sehr empfehlenswert",
-  "bestTimeToVisit": "September/Oktober für die Laubfärbung in den umliegenden Bergen",
-  "audioGuide": "no"
+  "publicTransport": {
+    "de": "Bus von Brașov nach Moieciu, dann Taxi oder langer Fußweg",
+    "hu": "Busz Brassóból Moieciu-ba, majd taxi vagy hosszú gyalogút",
+    "ro": "Autobuz din Brașov către Moieciu, apoi taxi sau mers pe jos mult",
+    "en": "Bus from Brașov to Moieciu, then taxi or long walk"
+  },
+  "parking": {
+    "de": "Parkplätze im Cheile Grădiștei Resort (Fundata/Moieciu) vorhanden",
+    "hu": "Parkoló a Cheile Grădiștei Resortban (Fundata/Moieciu)",
+    "ro": "Locuri de parcare în Cheile Grădiștei Resort (Fundata/Moieciu)",
+    "en": "Parking spaces available in Cheile Grădiștei Resort (Fundata/Moieciu)"
+  },
+  "accessibility": {
+    "de": "Straße durch die Schlucht asphaltiert und gut begehbar/befahrbar",
+    "hu": "Az útvonal a szurdokon keresztül aszfaltozott, könnyen járható/autózható",
+    "ro": "Drum prin chei asfaltat și ușor de parcurs",
+    "en": "Road through the gorge is paved and easy to walk/drive"
+  },
+  "photoRules": {
+    "de": "Erlaubt; Panoramablick vom oberen Plateau (Fundata) sehr empfehlenswert",
+    "hu": "Engedélyezett; panorámás kilátás a felső fennsíkról (Fundata) erősen ajánlott",
+    "ro": "Permis; vedere panoramică de pe platoul superior (Fundata) recomandată",
+    "en": "Allowed; panoramic view from upper plateau (Fundata) highly recommended"
+  },
+  "bestTimeToVisit": {
+    "de": "September/Oktober für die Laubfärbung in den umliegenden Bergen",
+    "hu": "Szeptember/október, a környező hegyek őszi színeiért",
+    "ro": "Septembrie/Octombrie pentru culorile de toamnă ale munților din jur",
+    "en": "September/October for autumn foliage in the surrounding mountains"
+  },
+  "audioGuide": {
+    "de": "no",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

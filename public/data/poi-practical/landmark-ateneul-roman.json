@@ -1,12 +1,57 @@
 {
-  "address": "Strada Benjamin Franklin 1-3, 010283 București",
-  "openingHours": "Besichtigung meist Mo-Fr 14:00-16:00 (wenn keine Proben stattfinden)",
-  "entranceFee": "10 RON (nur Barzahlung vor Ort)",
+  "address": {
+    "de": "Strada Benjamin Franklin 1-3, 010283 București",
+    "hu": "Strada Benjamin Franklin 1-3, 010283 București",
+    "ro": "Strada Benjamin Franklin 1-3, 010283 București",
+    "en": "Strada Benjamin Franklin 1-3, 010283 București"
+  },
+  "openingHours": {
+    "de": "Besichtigung meist Mo-Fr 14:00-16:00 (wenn keine Proben stattfinden)",
+    "hu": "Megtekintés általában H-P 14:00-16:00 (ha nincsenek próbák)",
+    "ro": "Vizitare de obicei L-V 14:00-16:00 (când nu au loc repetiții)",
+    "en": "Viewing usually Mon-Fri 14:00-16:00 (when no rehearsals take place)"
+  },
+  "entranceFee": {
+    "de": "10 RON (nur Barzahlung vor Ort)",
+    "hu": "10 RON (csak készpénzes fizetés a helyszínen)",
+    "ro": "10 RON (doar plata numerar la fața locului)",
+    "en": "10 RON (cash payment only on site)"
+  },
   "website": "https://www.fge.org.ro",
-  "publicTransport": "Metro M2 (Piața Romană) oder Bus 122, 137, 226",
-  "parking": "Parkhäuser in der Nähe (z.B. Hotel Novotel), sehr teuer (10 RON/Std)",
-  "accessibility": "Haupthalle barrierefrei über Seiteneingang, Konzertsaal über Treppen",
-  "photoRules": "Ohne Blitz erlaubt, solange keine Musiker gestört werden",
-  "bestTimeToVisit": "Abends für ein Konzert, um die Akustik wirklich zu erleben",
-  "audioGuide": "Nein"
+  "publicTransport": {
+    "de": "Metro M2 (Piața Romană) oder Bus 122, 137, 226",
+    "hu": "M2 metró (Piața Romană) vagy 122, 137, 226-os busz",
+    "ro": "Metrou M2 (Piața Romană) sau autobuzul 122, 137, 226",
+    "en": "Metro M2 (Piața Romană) or bus 122, 137, 226"
+  },
+  "parking": {
+    "de": "Parkhäuser in der Nähe (z.B. Hotel Novotel), sehr teuer (10 RON/Std)",
+    "hu": "Közeli parkolóházak (pl. Hotel Novotel), nagyon drága (10 RON/óra)",
+    "ro": "Parcări în apropiere (ex. Hotel Novotel), foarte scump (10 RON/oră)",
+    "en": "Parking garages nearby (e.g. Hotel Novotel), very expensive (10 RON/hr)"
+  },
+  "accessibility": {
+    "de": "Haupthalle barrierefrei über Seiteneingang, Konzertsaal über Treppen",
+    "hu": "A főcsarnok akadálymentes az oldalsó bejáraton át, a koncertterem lépcsőn érhető el",
+    "ro": "Holul principal accesibil prin intrarea laterală, sala de concerte pe scări",
+    "en": "Main hall accessible via side entrance, concert hall via stairs"
+  },
+  "photoRules": {
+    "de": "Ohne Blitz erlaubt, solange keine Musiker gestört werden",
+    "hu": "Vaku nélkül megengedett, amíg nem zavarják a zenészeket",
+    "ro": "Permis fără bliț, atât timp cât muzicienii nu sunt deranjați",
+    "en": "Allowed without flash, as long as no musicians are disturbed"
+  },
+  "bestTimeToVisit": {
+    "de": "Abends für ein Konzert, um die Akustik wirklich zu erleben",
+    "hu": "Este egy koncertre, hogy igazán megtapasztalja az akusztikát",
+    "ro": "Seara pentru un concert, pentru a experimenta cu adevărat acustica",
+    "en": "Evenings for a concert to truly experience the acoustics"
+  },
+  "audioGuide": {
+    "de": "Nein",
+    "hu": "Nem",
+    "ro": "Nu",
+    "en": "No"
+  }
 }

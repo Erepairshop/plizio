@@ -1,12 +1,57 @@
 {
-  "address": "Kastélypark 1., 8145 Nádasdladány",
-  "openingHours": "Tu-Su 10:00-18:00",
-  "entranceFee": "3500 HUF Erwachsene, 1750 HUF Kinder",
+  "address": {
+    "de": "Kastélypark 1., 8145 Nádasdladány",
+    "hu": "Kastélypark 1., 8145 Nádasdladány",
+    "ro": "Kastélypark 1., 8145 Nádasdladány",
+    "en": "Kastélypark 1., 8145 Nádasdladány"
+  },
+  "openingHours": {
+    "de": "Tu-Su 10:00-18:00",
+    "hu": "Kedd-vasárnap 10:00-18:00",
+    "ro": "Marți-duminică 10:00-18:00",
+    "en": "Tue-Sun 10:00-18:00"
+  },
+  "entranceFee": {
+    "de": "3500 HUF Erwachsene, 1750 HUF Kinder",
+    "hu": "3500 HUF felnőtt, 1750 HUF gyermek",
+    "ro": "3500 HUF adulți, 1750 HUF copii",
+    "en": "3500 HUF adults, 1750 HUF children"
+  },
   "website": "https://nadasdykastely.hu/",
-  "publicTransport": "Busverbindung ab Székesfehérvár Busbahnhof nach Nádasdladány.",
-  "parking": "Kostenloser Besucherparkplatz am Rande des Schlossparks vorhanden.",
-  "accessibility": "Das Schloss ist nach der Renovierung durch Aufzüge vollständig barrierefrei.",
-  "photoRules": "Fotografieren ohne Blitzlicht in den historischen Räumen erlaubt.",
-  "bestTimeToVisit": "Herbstmonate, wenn sich das Laub im weitläufigen englischen Park färbt.",
-  "audioGuide": "HU, EN, DE, FR (über App)"
+  "publicTransport": {
+    "de": "Busverbindung ab Székesfehérvár Busbahnhof nach Nádasdladány.",
+    "hu": "Buszjárat a székesfehérvári autóbusz-állomásról Nádasdladányba.",
+    "ro": "Conexiune cu autobuzul din autogara Székesfehérvár spre Nádasdladány.",
+    "en": "Bus connection from Székesfehérvár bus station to Nádasdladány."
+  },
+  "parking": {
+    "de": "Kostenloser Besucherparkplatz am Rande des Schlossparks vorhanden.",
+    "hu": "Ingyenes látogatói parkoló a kastélypark szélén.",
+    "ro": "Parcare gratuită pentru vizitatori la marginea parcului castelului.",
+    "en": "Free visitor parking available at the edge of the castle park."
+  },
+  "accessibility": {
+    "de": "Das Schloss ist nach der Renovierung durch Aufzüge vollständig barrierefrei.",
+    "hu": "A kastély a felújítás után liftekkel teljesen akadálymentesített.",
+    "ro": "Castelul este complet accesibil prin lifturi după renovare.",
+    "en": "The castle is fully accessible by elevators after renovation."
+  },
+  "photoRules": {
+    "de": "Fotografieren ohne Blitzlicht in den historischen Räumen erlaubt.",
+    "hu": "Vaku nélküli fényképezés a történelmi termekben engedélyezett.",
+    "ro": "Fotografierea fără bliț este permisă în camerele istorice.",
+    "en": "Photography without flash is allowed in the historical rooms."
+  },
+  "bestTimeToVisit": {
+    "de": "Herbstmonate, wenn sich das Laub im weitläufigen englischen Park färbt.",
+    "hu": "Őszi hónapok, amikor a levelek elszíneződnek a tágas angolparkban.",
+    "ro": "Lunile de toamnă, când frunzișul se colorează în parcul englezesc vast.",
+    "en": "Autumn months, when the leaves change color in the vast English park."
+  },
+  "audioGuide": {
+    "de": "HU, EN, DE, FR (über App)",
+    "hu": "HU, EN, DE, FR (alkalmazáson keresztül)",
+    "ro": "HU, EN, DE, FR (prin aplicație)",
+    "en": "HU, EN, DE, FR (via app)"
+  }
 }

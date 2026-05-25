@@ -1,12 +1,57 @@
 {
-  "address": "Schloss Lichtenstein 1, 72805 Lichtenstein",
-  "openingHours": "Mo-Su 09:00-17:30 (Apr-Okt)",
-  "entranceFee": "€12.00 Führung Erwachsene",
+  "address": {
+    "de": "Schloss Lichtenstein 1, 72805 Lichtenstein",
+    "hu": "Schloss Lichtenstein 1, 72805 Lichtenstein",
+    "ro": "Schloss Lichtenstein 1, 72805 Lichtenstein",
+    "en": "Schloss Lichtenstein 1, 72805 Lichtenstein"
+  },
+  "openingHours": {
+    "de": "Mo-Su 09:00-17:30 (Apr-Okt)",
+    "hu": "H-V 09:00-17:30 (ápr-okt)",
+    "ro": "L-D 09:00-17:30 (apr-oct)",
+    "en": "Mon-Sun 09:00-17:30 (Apr-Oct)"
+  },
+  "entranceFee": {
+    "de": "€12.00 Führung Erwachsene",
+    "hu": "12,00 € felnőtt vezetés",
+    "ro": "12 € tur ghidat adulți",
+    "en": "€12.00 guided tour adults"
+  },
   "website": "https://www.schloss-lichtenstein.de",
-  "publicTransport": "Bus ab Reutlingen Hbf",
-  "parking": "Parkplatz direkt vor dem Schloss",
-  "accessibility": "Aufgrund der historischen Bausubstanz nicht barrierefrei",
-  "photoRules": "Privat erlaubt, kein Blitz",
-  "bestTimeToVisit": "Herbst",
-  "audioGuide": "Deutsch"
+  "publicTransport": {
+    "de": "Bus ab Reutlingen Hbf",
+    "hu": "Busz Reutlingen főpályaudvartól",
+    "ro": "Autobuz din gara centrală Reutlingen",
+    "en": "Bus from Reutlingen central station"
+  },
+  "parking": {
+    "de": "Parkplatz direkt vor dem Schloss",
+    "hu": "Parkoló közvetlenül a kastély előtt",
+    "ro": "Parcare direct în fața castelului",
+    "en": "Parking directly in front of the castle"
+  },
+  "accessibility": {
+    "de": "Aufgrund der historischen Bausubstanz nicht barrierefrei",
+    "hu": "A történelmi épületszerkezet miatt nem akadálymentesített",
+    "ro": "Nu este accesibil din cauza structurii istorice",
+    "en": "Not accessible due to historic architecture"
+  },
+  "photoRules": {
+    "de": "Privat erlaubt, kein Blitz",
+    "hu": "Magáncélra megengedett, vaku tilos",
+    "ro": "Permis pentru uz privat, fără bliț",
+    "en": "Allowed for private use, no flash"
+  },
+  "bestTimeToVisit": {
+    "de": "Herbst",
+    "hu": "Ősz",
+    "ro": "Toamnă",
+    "en": "Autumn"
+  },
+  "audioGuide": {
+    "de": "Deutsch",
+    "hu": "német",
+    "ro": "germană",
+    "en": "German"
+  }
 }

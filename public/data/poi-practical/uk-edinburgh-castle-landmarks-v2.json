@@ -1,12 +1,57 @@
 {
-  "address": "Castlehill, Edinburgh EH1 2NG",
-  "openingHours": "Mo-Su 09:30-18:00",
-  "entranceFee": "£19.50 Erwachsene (online teurer vor Ort), £11.40 Kinder",
+  "address": {
+    "de": "Castlehill, Edinburgh EH1 2NG",
+    "hu": "Castlehill, Edinburgh EH1 2NG",
+    "ro": "Castlehill, Edinburgh EH1 2NG",
+    "en": "Castlehill, Edinburgh EH1 2NG"
+  },
+  "openingHours": {
+    "de": "Mo-Su 09:30-18:00",
+    "hu": "H-V 09:30-18:00",
+    "ro": "Lu-Du 09:30-18:00",
+    "en": "Mo-Su 09:30-18:00"
+  },
+  "entranceFee": {
+    "de": "£19.50 Erwachsene (online teurer vor Ort), £11.40 Kinder",
+    "hu": "£19.50 felnőtt (online olcsóbb, mint a helyszínen), £11.40 gyerek",
+    "ro": "£19.50 adulți (online mai ieftin decât la fața locului), £11.40 copii",
+    "en": "£19.50 adults (cheaper online than on site), £11.40 children"
+  },
   "website": "https://www.edinburghcastle.scot",
-  "publicTransport": "Alle Busse zum City Centre / Royal Mile, 10 Min. ab Waverley Station",
-  "parking": "Keine Parkplätze vor Ort, Parkhäuser im Stadtzentrum nutzen (Castle Terrace).",
-  "accessibility": "Kopfsteinpflaster erschwert den Zugang, spezieller Van für Rollstuhlfahrer vor Ort.",
-  "photoRules": "In Museen und Kapelle Blitzverbot, außen uneingeschränkt erlaubt.",
-  "bestTimeToVisit": "13:00 Uhr zur One O'Clock Gun (außer Sonntags), Ticket vorab buchen.",
-  "audioGuide": "de, en, fr, es, it, ja, zh, ru"
+  "publicTransport": {
+    "de": "Alle Busse zum City Centre / Royal Mile, 10 Min. ab Waverley Station",
+    "hu": "Minden busz a városközpontba / Royal Mile-ra, 10 perc a Waverley állomástól",
+    "ro": "Toate autobuzele spre centrul orașului / Royal Mile, 10 min. de la stația Waverley",
+    "en": "All buses to City Centre / Royal Mile, 10 min. from Waverley Station"
+  },
+  "parking": {
+    "de": "Keine Parkplätze vor Ort, Parkhäuser im Stadtzentrum nutzen (Castle Terrace).",
+    "hu": "Nincs helyszíni parkoló, használja a városközpont parkolóházait (Castle Terrace).",
+    "ro": "Fără parcare la fața locului, folosiți parcările din centrul orașului (Castle Terrace).",
+    "en": "No parking on site, use city center parking garages (Castle Terrace)."
+  },
+  "accessibility": {
+    "de": "Kopfsteinpflaster erschwert den Zugang, spezieller Van für Rollstuhlfahrer vor Ort.",
+    "hu": "A macskaköves út nehezíti a hozzáférést, speciális kerekesszékes kisbusz a helyszínen.",
+    "ro": "Piatra cubică îngreunează accesul, dubă specială pentru scaune cu rotile la fața locului.",
+    "en": "Cobblestones hinder access, special van for wheelchair users on site."
+  },
+  "photoRules": {
+    "de": "In Museen und Kapelle Blitzverbot, außen uneingeschränkt erlaubt.",
+    "hu": "A múzeumokban és a kápolnában tilos a vaku, kívül korlátozás nélkül engedélyezett.",
+    "ro": "În muzee și capelă interzis blițul, în exterior permis nelimitat.",
+    "en": "Flash forbidden in museums and chapel, unlimited permission outside."
+  },
+  "bestTimeToVisit": {
+    "de": "13:00 Uhr zur One O'Clock Gun (außer Sonntags), Ticket vorab buchen.",
+    "hu": "13:00-kor az 'One O'Clock Gun' lövésnél (vasárnap kivételével), jegyet előre foglaljon.",
+    "ro": "Ora 13:00 pentru 'One O'Clock Gun' (cu excepția duminicii), rezervați biletul în avans.",
+    "en": "1 PM for the One O'Clock Gun (except Sundays), book ticket in advance."
+  },
+  "audioGuide": {
+    "de": "de, en, fr, es, it, ja, zh, ru",
+    "hu": "német, angol, francia, spanyol, olasz, japán, kínai, orosz",
+    "ro": "germană, engleză, franceză, spaniolă, italiană, japoneză, chineză, rusă",
+    "en": "de, en, fr, es, it, ja, zh, ru"
+  }
 }

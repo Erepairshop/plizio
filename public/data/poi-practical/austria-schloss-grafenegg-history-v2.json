@@ -1,12 +1,57 @@
 {
-  "address": "Grafenegg 10, 3485 Grafenegg",
-  "openingHours": "Schlosspark täglich 09:00-18:00",
-  "entranceFee": "Parkeintritt kostenlos, Schloss nur bei Events",
+  "address": {
+    "de": "Grafenegg 10, 3485 Grafenegg",
+    "hu": "Grafenegg 10, 3485 Grafenegg",
+    "ro": "Grafenegg 10, 3485 Grafenegg",
+    "en": "Grafenegg 10, 3485 Grafenegg"
+  },
+  "openingHours": {
+    "de": "Schlosspark täglich 09:00-18:00",
+    "hu": "Kastélypark naponta 09:00-18:00",
+    "ro": "Parcul castelului zilnic 09:00-18:00",
+    "en": "Castle park daily 09:00-18:00"
+  },
+  "entranceFee": {
+    "de": "Parkeintritt kostenlos, Schloss nur bei Events",
+    "hu": "A parkba a belépés ingyenes, a kastély csak rendezvényekkor látogatható",
+    "ro": "Intrarea în parc este gratuită, castelul se vizitează doar la evenimente",
+    "en": "Park entrance free, castle only open during events"
+  },
   "website": "https://www.grafenegg.com",
-  "publicTransport": "Bus ab Krems oder Bahnhof Wagram-Grafenegg",
-  "parking": "Großer kostenloser Parkplatz auf dem Areal.",
-  "accessibility": "Der Park ist größtenteils barrierefrei.",
-  "photoRules": "Private Aufnahmen im Park jederzeit erlaubt.",
-  "bestTimeToVisit": "August/September während des Musikfestivals.",
-  "audioGuide": "nein"
+  "publicTransport": {
+    "de": "Bus ab Krems oder Bahnhof Wagram-Grafenegg",
+    "hu": "Busz Krems felől vagy Wagram-Grafenegg vasútállomás",
+    "ro": "Autobuz din Krems sau gara Wagram-Grafenegg",
+    "en": "Bus from Krems or Wagram-Grafenegg train station"
+  },
+  "parking": {
+    "de": "Großer kostenloser Parkplatz auf dem Areal.",
+    "hu": "Nagy ingyenes parkoló a területen.",
+    "ro": "Parcare mare gratuită în incintă.",
+    "en": "Large free parking lot on site."
+  },
+  "accessibility": {
+    "de": "Der Park ist größtenteils barrierefrei.",
+    "hu": "A park nagy része akadálymentesített.",
+    "ro": "Parcul este în mare parte accesibil pentru cărucioare.",
+    "en": "The park is mostly wheelchair accessible."
+  },
+  "photoRules": {
+    "de": "Private Aufnahmen im Park jederzeit erlaubt.",
+    "hu": "Magáncélú fotózás a parkban bármikor megengedett.",
+    "ro": "Fotografiile private în parc sunt permise oricând.",
+    "en": "Private photography in the park is permitted at any time."
+  },
+  "bestTimeToVisit": {
+    "de": "August/September während des Musikfestivals.",
+    "hu": "Augusztusban és szeptemberben a zenei fesztivál idején.",
+    "ro": "August/Septembrie în timpul festivalului de muzică.",
+    "en": "August/September during the music festival."
+  },
+  "audioGuide": {
+    "de": "nein",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

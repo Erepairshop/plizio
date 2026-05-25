@@ -1,12 +1,57 @@
 {
-  "address": "Château, 41250 Chambord (Zentraler Anlaufpunkt)",
-  "openingHours": "Täglich 09:00-18:00 (April-Oktober), sonst bis 17:00",
-  "entranceFee": "€16 Erwachsene, unter 26 (EU) kostenlos",
+  "address": {
+    "de": "Château, 41250 Chambord (Zentraler Anlaufpunkt)",
+    "hu": "Château, 41250 Chambord (központi találkozóhely)",
+    "ro": "Château, 41250 Chambord (punct de reper central)",
+    "en": "Château, 41250 Chambord (central meeting point)"
+  },
+  "openingHours": {
+    "de": "Täglich 09:00-18:00 (April-Oktober), sonst bis 17:00",
+    "hu": "Naponta 09:00-18:00 (április-október), különben 17:00-ig",
+    "ro": "Zilnic 09:00-18:00 (aprilie-octombrie), în rest până la 17:00",
+    "en": "Daily 09:00-18:00 (April-October), otherwise until 5 PM"
+  },
+  "entranceFee": {
+    "de": "€16 Erwachsene, unter 26 (EU) kostenlos",
+    "hu": "16 € felnőtt, 26 év alatt (EU) ingyenes",
+    "ro": "16 € adulți, sub 26 ani (UE) gratuit",
+    "en": "€16 adult, under 26 (EU) free"
+  },
   "website": "https://www.chambord.org",
-  "publicTransport": "Shuttle-Bus 'Navette Châteaux' ab Bahnhof Blois",
-  "parking": "Kostenpflichtig (€6/Tag) ca. 200m vom Schloss entfernt",
-  "accessibility": "Erdgeschoss barrierefrei; Doppelwendeltreppe nicht zugänglich (Aufzug vorhanden)",
-  "photoRules": "Erlaubt ohne Blitz; gewerbliche Nutzung braucht Genehmigung",
-  "bestTimeToVisit": "Direkt bei Öffnung um 09:00, um die Massen im Treppenhaus zu vermeiden",
-  "audioGuide": "HistoPad (Tablet mit Augmented Reality) in DE verfügbar"
+  "publicTransport": {
+    "de": "Shuttle-Bus 'Navette Châteaux' ab Bahnhof Blois",
+    "hu": "'Navette Châteaux' buszjárat Blois vasútállomástól",
+    "ro": "Autobuz shuttle 'Navette Châteaux' din gara Blois",
+    "en": "'Navette Châteaux' shuttle bus from Blois station"
+  },
+  "parking": {
+    "de": "Kostenpflichtig (€6/Tag) ca. 200m vom Schloss entfernt",
+    "hu": "Fizetős (6 €/nap), kb. 200 méterre a kastélytól",
+    "ro": "Cu plată (6 €/zi), aprox. 200m de castel",
+    "en": "Paid (€6/day) approx. 200m from the castle"
+  },
+  "accessibility": {
+    "de": "Erdgeschoss barrierefrei; Doppelwendeltreppe nicht zugänglich (Aufzug vorhanden)",
+    "hu": "A földszint akadálymentesített; kettős csigalépcső nem elérhető (lift van)",
+    "ro": "Parterul este accesibil; scara dublă în spirală nu este accesibilă (lift disponibil)",
+    "en": "Ground floor accessible; double helix staircase not accessible (elevator available)"
+  },
+  "photoRules": {
+    "de": "Erlaubt ohne Blitz; gewerbliche Nutzung braucht Genehmigung",
+    "hu": "Vaku nélkül engedélyezett; kereskedelmi használathoz engedély szükséges",
+    "ro": "Permis fără bliț; utilizarea comercială necesită aprobare",
+    "en": "Allowed without flash; commercial use requires authorization"
+  },
+  "bestTimeToVisit": {
+    "de": "Direkt bei Öffnung um 09:00, um die Massen im Treppenhaus zu vermeiden",
+    "hu": "Közvetlenül nyitáskor, 09:00-kor, a lépcsőházi tömeg elkerülése érdekében",
+    "ro": "Imediat la deschidere la ora 09:00, pentru a evita aglomerația de pe scări",
+    "en": "Right at opening time at 9 AM to avoid crowds on the staircase"
+  },
+  "audioGuide": {
+    "de": "HistoPad (Tablet mit Augmented Reality) in DE verfügbar",
+    "hu": "HistoPad (kiterjesztett valóságú táblagép) német nyelven elérhető",
+    "ro": "HistoPad (tabletă cu realitate augmentată) disponibil în DE",
+    "en": "HistoPad (augmented reality tablet) available in DE"
+  }
 }

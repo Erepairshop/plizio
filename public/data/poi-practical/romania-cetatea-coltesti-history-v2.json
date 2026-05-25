@@ -1,12 +1,57 @@
 {
-  "address": "Colțești, 517611 Alba",
-  "openingHours": "Permanente Außenbesichtigung (Ruine)",
-  "entranceFee": "kostenlos",
+  "address": {
+    "de": "Colțești, 517611 Alba",
+    "hu": "Colțești, 517611 Fehér megye",
+    "ro": "Colțești, 517611 Alba",
+    "en": "Colțești, 517611 Alba"
+  },
+  "openingHours": {
+    "de": "Permanente Außenbesichtigung (Ruine)",
+    "hu": "Folyamatosan, kívülről látogatható (rom)",
+    "ro": "Vizitabil permanent la exterior (ruine)",
+    "en": "Permanently accessible from the outside (ruins)"
+  },
+  "entranceFee": {
+    "de": "kostenlos",
+    "hu": "ingyenes",
+    "ro": "gratuit",
+    "en": "free"
+  },
   "website": "",
-  "publicTransport": "Nur mit dem Auto oder per Wanderung von Rimetea erreichbar.",
-  "parking": "Am Fuße des Hügels im Dorf Colțești.",
-  "accessibility": "Nicht barrierefrei, steiler und unebener Wanderpfad.",
-  "photoRules": "Keine Einschränkungen.",
-  "bestTimeToVisit": "Früher Morgen bei Nebel über den Bergen.",
-  "audioGuide": "nein"
+  "publicTransport": {
+    "de": "Nur mit dem Auto oder per Wanderung von Rimetea erreichbar.",
+    "hu": "Csak autóval vagy Rimeteáról gyalogosan közelíthető meg.",
+    "ro": "Accesibil doar cu mașina sau pe jos din Rimetea.",
+    "en": "Accessible only by car or hiking from Rimetea."
+  },
+  "parking": {
+    "de": "Am Fuße des Hügels im Dorf Colțești.",
+    "hu": "A domb lábánál, Colțești faluban.",
+    "ro": "La poalele dealului, în satul Colțești.",
+    "en": "At the foot of the hill in the village of Colțești."
+  },
+  "accessibility": {
+    "de": "Nicht barrierefrei, steiler und unebener Wanderpfad.",
+    "hu": "Nem akadálymentes, meredek és egyenetlen gyalogút.",
+    "ro": "Nu este accesibil persoanelor cu dizabilități, potecă abruptă și denivelată.",
+    "en": "Not wheelchair accessible, steep and uneven hiking trail."
+  },
+  "photoRules": {
+    "de": "Keine Einschränkungen.",
+    "hu": "Nincsenek korlátozások.",
+    "ro": "Fără restricții.",
+    "en": "No restrictions."
+  },
+  "bestTimeToVisit": {
+    "de": "Früher Morgen bei Nebel über den Bergen.",
+    "hu": "Kora reggel, amikor köd ül a hegyeken.",
+    "ro": "Dimineața devreme, când ceața acoperă munții.",
+    "en": "Early morning when fog covers the mountains."
+  },
+  "audioGuide": {
+    "de": "nein",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

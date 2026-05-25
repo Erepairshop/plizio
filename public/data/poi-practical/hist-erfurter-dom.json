@@ -1,12 +1,57 @@
 {
-  "address": "Domstufen 1, 99084 Erfurt",
-  "openingHours": "Mo-Sa 09:30-18:00, So 13:00-18:00 (eingeschränkt bei Messen)",
-  "entranceFee": "kostenlos (Führung zur Glocke Gloriosa €5)",
+  "address": {
+    "de": "Domstufen 1, 99084 Erfurt",
+    "hu": "Domstufen 1, 99084 Erfurt",
+    "ro": "Domstufen 1, 99084 Erfurt",
+    "en": "Domstufen 1, 99084 Erfurt"
+  },
+  "openingHours": {
+    "de": "Mo-Sa 09:30-18:00, So 13:00-18:00 (eingeschränkt bei Messen)",
+    "hu": "Hé-Szo 09:30-18:00, Va 13:00-18:00 (mise alatt korlátozott)",
+    "ro": "Lu-Sâ 09:30-18:00, Du 13:00-18:00 (restricționat în timpul slujbelor)",
+    "en": "Mon-Sat 09:30-18:00, Sun 13:00-18:00 (restricted during mass)"
+  },
+  "entranceFee": {
+    "de": "kostenlos (Führung zur Glocke Gloriosa €5)",
+    "hu": "ingyenes (tárlatvezetés a Gloriosa-haranghoz 5 €)",
+    "ro": "gratuit (tur ghidat la clopotul Gloriosa 5 €)",
+    "en": "free (tour to the Gloriosa bell €5)"
+  },
   "website": "https://www.dom-erfurt.de",
-  "publicTransport": "Straßenbahn Linien 2, 3, 6 (Haltestelle Domplatz)",
-  "parking": "Tiefgarage Domplatz direkt unter dem Platz (~2 €/Std.).",
-  "accessibility": "Über den barrierefreien Seiteneingang erreichbar, Domstufen sind sehr steil.",
-  "photoRules": "Außerhalb der Gottesdienstzeiten ohne Blitzlicht gestattet.",
-  "bestTimeToVisit": "Zur blauen Stunde für die Illumination der Domstufen.",
-  "audioGuide": "nein"
+  "publicTransport": {
+    "de": "Straßenbahn Linien 2, 3, 6 (Haltestelle Domplatz)",
+    "hu": "2, 3, 6-os villamos (Domplatz megálló)",
+    "ro": "Tramvaiul 2, 3, 6 (stația Domplatz)",
+    "en": "Tram lines 2, 3, 6 (stop Domplatz)"
+  },
+  "parking": {
+    "de": "Tiefgarage Domplatz direkt unter dem Platz (~2 €/Std.).",
+    "hu": "Domplatz mélygarázs közvetlenül a tér alatt (~2 €/óra).",
+    "ro": "Parcare subterană Domplatz direct sub piață (~2 €/oră).",
+    "en": "Underground garage Domplatz right under the square (~€2/hr)."
+  },
+  "accessibility": {
+    "de": "Über den barrierefreien Seiteneingang erreichbar, Domstufen sind sehr steil.",
+    "hu": "Az akadálymentes oldalbejáraton át megközelíthető, a dóm lépcsői nagyon meredekek.",
+    "ro": "Accesibil prin intrarea laterală adaptată, treptele domului sunt foarte abrupte.",
+    "en": "Accessible via the barrier-free side entrance, cathedral steps are very steep."
+  },
+  "photoRules": {
+    "de": "Außerhalb der Gottesdienstzeiten ohne Blitzlicht gestattet.",
+    "hu": "Miseidőn kívül vaku nélkül megengedett.",
+    "ro": "Permis în afara orelor de slujbă fără bliț.",
+    "en": "Allowed outside of mass times without flash."
+  },
+  "bestTimeToVisit": {
+    "de": "Zur blauen Stunde für die Illumination der Domstufen.",
+    "hu": "A kék órában, amikor kivilágítják a dóm lépcsőit.",
+    "ro": "La ora albastră pentru iluminarea treptelor domului.",
+    "en": "During the blue hour for the illumination of the cathedral steps."
+  },
+  "audioGuide": {
+    "de": "nein",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

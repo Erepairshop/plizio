@@ -1,12 +1,57 @@
 {
-  "address": "Strada Mânăstirea Snagov, 077165 Silistea Snagovului",
-  "openingHours": "Täglich 09:00-18:00",
-  "entranceFee": "15 RON Erwachsene",
+  "address": {
+    "de": "Strada Mânăstirea Snagov, 077165 Silistea Snagovului",
+    "hu": "Strada Mânăstirea Snagov, 077165 Silistea Snagovului",
+    "ro": "Strada Mânăstirea Snagov, 077165 Siliștea Snagovului",
+    "en": "Strada Mânăstirea Snagov, 077165 Siliștea Snagovului"
+  },
+  "openingHours": {
+    "de": "Täglich 09:00-18:00",
+    "hu": "Naponta 09:00-18:00",
+    "ro": "Zilnic 09:00-18:00",
+    "en": "Daily 09:00-18:00"
+  },
+  "entranceFee": {
+    "de": "15 RON Erwachsene",
+    "hu": "15 RON felnőtteknek",
+    "ro": "15 RON adulți",
+    "en": "15 RON adults"
+  },
   "website": "",
-  "publicTransport": "Bus 447 ab Bukarest, dann langer Fußweg.",
-  "parking": "Parkplatz am Seeufer, Zugang per Fußgängerbrücke.",
-  "accessibility": "Bedingt barrierefrei, Fußgängerbrücke hat Rampen.",
-  "photoRules": "Sehr hohe Fotogebühr (ca. 100 RON) für den Innenraum.",
-  "bestTimeToVisit": "Wochentags, um Wochenendausflügler zu vermeiden.",
-  "audioGuide": "no"
+  "publicTransport": {
+    "de": "Bus 447 ab Bukarest, dann langer Fußweg.",
+    "hu": "447-es busz Bukarestből, majd hosszú séta.",
+    "ro": "Autobuzul 447 din București, apoi o lungă deplasare pe jos.",
+    "en": "Bus 447 from Bucharest, followed by a long walk."
+  },
+  "parking": {
+    "de": "Parkplatz am Seeufer, Zugang per Fußgängerbrücke.",
+    "hu": "Parkoló a tóparton, a megközelítés gyaloghídon keresztül.",
+    "ro": "Parcare pe malul lacului, accesul se face prin podul pietonal.",
+    "en": "Parking by the lake, access via pedestrian bridge."
+  },
+  "accessibility": {
+    "de": "Bedingt barrierefrei, Fußgängerbrücke hat Rampen.",
+    "hu": "Korlátozottan akadálymentes, a gyaloghíd rámpákkal ellátott.",
+    "ro": "Accesibilitate limitată, podul pietonal are rampe.",
+    "en": "Limited accessibility, pedestrian bridge has ramps."
+  },
+  "photoRules": {
+    "de": "Sehr hohe Fotogebühr (ca. 100 RON) für den Innenraum.",
+    "hu": "Nagyon magas fotózási díj (kb. 100 RON) a belső térben.",
+    "ro": "Taxă foto foarte mare (aprox. 100 RON) pentru interior.",
+    "en": "Very high photography fee (approx. 100 RON) for the interior."
+  },
+  "bestTimeToVisit": {
+    "de": "Wochentags, um Wochenendausflügler zu vermeiden.",
+    "hu": "Hétköznap, hogy elkerüld a hétvégi kirándulókat.",
+    "ro": "În timpul săptămânii, pentru a evita aglomerația de weekend.",
+    "en": "Weekdays, to avoid weekend crowds."
+  },
+  "audioGuide": {
+    "de": "no",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

@@ -1,12 +1,57 @@
 {
-  "address": "Platz der Republik 1, 11011 Berlin",
-  "openingHours": "Mo-Su 08:00-24:00",
-  "entranceFee": "kostenlos (Voranmeldung erforderlich)",
+  "address": {
+    "de": "Platz der Republik 1, 11011 Berlin",
+    "hu": "Platz der Republik 1, 11011 Berlin",
+    "ro": "Platz der Republicii 1, 11011 Berlin",
+    "en": "Platz der Republik 1, 11011 Berlin"
+  },
+  "openingHours": {
+    "de": "Mo-Su 08:00-24:00",
+    "hu": "H-V 08:00-24:00",
+    "ro": "Lu-Du 08:00-24:00",
+    "en": "Mon-Sun 08:00-24:00"
+  },
+  "entranceFee": {
+    "de": "kostenlos (Voranmeldung erforderlich)",
+    "hu": "ingyenes (előzetes bejelentkezés szükséges)",
+    "ro": "gratuit (este necesară rezervare prealabilă)",
+    "en": "free (prior registration required)"
+  },
   "website": "https://www.bundestag.de/besuche",
-  "publicTransport": "S+U Brandenburger Tor (S1, S2, S25, U5), Bus 100",
-  "parking": "Keine Parkplätze am Gebäude; Tiefgarage Luisenstraße ca. 15 Min Fußweg (4€/Std).",
-  "accessibility": "Vollständig barrierefrei zugänglich über Rampen und Aufzüge; Rollstühle leihbar.",
-  "photoRules": "Fotografieren für private Zwecke erlaubt; keine Stative, Sicherheitskontrolle beachten.",
-  "bestTimeToVisit": "Abendstunden für den Blick auf das beleuchtete Berlin und weniger Andrang.",
-  "audioGuide": "Ja (DE, EN, FR, IT, ES, PT, TR, PL, RU, NL)"
+  "publicTransport": {
+    "de": "S+U Brandenburger Tor (S1, S2, S25, U5), Bus 100",
+    "hu": "S+U Brandenburger Tor (S1, S2, S25, U5), 100-as busz",
+    "ro": "S+U Brandenburger Tor (S1, S2, S25, U5), autobuz 100",
+    "en": "S+U Brandenburger Tor (S1, S2, S25, U5), Bus 100"
+  },
+  "parking": {
+    "de": "Keine Parkplätze am Gebäude; Tiefgarage Luisenstraße ca. 15 Min Fußweg (4€/Std).",
+    "hu": "Nincs parkoló az épületnél; Luisenstraße mélygarázs kb. 15 perc séta (4€/óra).",
+    "ro": "Fără locuri de parcare la clădire; garajul subteran Luisenstraße la cca. 15 min de mers (4€/oră).",
+    "en": "No parking at the building; Luisenstraße underground garage approx. 15 min walk (€4/hr)."
+  },
+  "accessibility": {
+    "de": "Vollständig barrierefrei zugänglich über Rampen und Aufzüge; Rollstühle leihbar.",
+    "hu": "Teljesen akadálymentes rámpákon és lifteken keresztül; kerekesszék kölcsönözhető.",
+    "ro": "Complet accesibil prin rampe și ascensoare; scaune cu rotile disponibile pentru închiriere.",
+    "en": "Fully accessible via ramps and elevators; wheelchairs available for loan."
+  },
+  "photoRules": {
+    "de": "Fotografieren für private Zwecke erlaubt; keine Stative, Sicherheitskontrolle beachten.",
+    "hu": "Magáncélú fotózás megengedett; állvány nem használható, biztonsági ellenőrzésre számítani kell.",
+    "ro": "Fotografiatul în scop privat este permis; fără trepiede, respectați controlul de securitate.",
+    "en": "Photography for private purposes allowed; no tripods, security check required."
+  },
+  "bestTimeToVisit": {
+    "de": "Abendstunden für den Blick auf das beleuchtete Berlin und weniger Andrang.",
+    "hu": "Esti órák a kivilágított Berlin látványa és a kisebb tömeg miatt.",
+    "ro": "Orele serii pentru vederea asupra Berlinului iluminat și aglomerație redusă.",
+    "en": "Evening hours for views of illuminated Berlin and fewer crowds."
+  },
+  "audioGuide": {
+    "de": "Ja (DE, EN, FR, IT, ES, PT, TR, PL, RU, NL)",
+    "hu": "Igen (DE, EN, FR, IT, ES, PT, TR, PL, RU, NL)",
+    "ro": "Da (DE, EN, FR, IT, ES, PT, TR, PL, RU, NL)",
+    "en": "Yes (DE, EN, FR, IT, ES, PT, TR, PL, RU, NL)"
+  }
 }

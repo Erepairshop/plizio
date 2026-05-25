@@ -1,12 +1,57 @@
 {
-  "address": "Kassenstelle Ferleiten, 5672 Fusch an der Großglocknerstraße",
-  "openingHours": "Mo-Su 05:30-21:00",
-  "entranceFee": "€43 PKW-Tageskarte, €30 Motorrad",
+  "address": {
+    "de": "Kassenstelle Ferleiten, 5672 Fusch an der Großglocknerstraße",
+    "hu": "Ferleiten pénztár, 5672 Fusch an der Großglocknerstraße",
+    "ro": "Punct de plată Ferleiten, 5672 Fusch an der Großglocknerstraße",
+    "en": "Ferleiten toll station, 5672 Fusch an der Großglocknerstraße"
+  },
+  "openingHours": {
+    "de": "Mo-Su 05:30-21:00",
+    "hu": "H-V 05:30-21:00",
+    "ro": "Lu-Du 05:30-21:00",
+    "en": "Mon-Sun 5:30 AM - 9:00 PM"
+  },
+  "entranceFee": {
+    "de": "€43 PKW-Tageskarte, €30 Motorrad",
+    "hu": "43 € személyautó napijegy, 30 € motorkerékpár",
+    "ro": "43 € bilet de zi pentru autoturism, 30 € pentru motocicletă",
+    "en": "€43 car day ticket, €30 motorcycle"
+  },
   "website": "https://www.grossglockner.at",
-  "publicTransport": "Postbus 650 ab Zell am See (Saisonverkehr)",
-  "parking": "Kostenlose Parkplätze bei allen Infostellen und der Kaiser-Franz-Josefs-Höhe.",
-  "accessibility": "Die meisten Ausstellungen und Aussichtsplattformen sind barrierefrei zugänglich.",
-  "photoRules": "Privataufnahmen erlaubt, gewerbliche Drohnenflüge sind genehmigungspflichtig.",
-  "bestTimeToVisit": "Früh am Morgen vor 09:00 Uhr, um den großen Besucherströmen zu entgehen.",
-  "audioGuide": "Kostenlose Info-App in Deutsch und Englisch verfügbar."
+  "publicTransport": {
+    "de": "Postbus 650 ab Zell am See (Saisonverkehr)",
+    "hu": "650-es Postbus Zell am See felől (szezonális járat)",
+    "ro": "Postbus 650 din Zell am See (serviciu sezonier)",
+    "en": "Postbus 650 from Zell am See (seasonal service)"
+  },
+  "parking": {
+    "de": "Kostenlose Parkplätze bei allen Infostellen und der Kaiser-Franz-Josefs-Höhe.",
+    "hu": "Ingyenes parkolás minden információs pontnál és a Kaiser-Franz-Josefs-Höhe-nél.",
+    "ro": "Parcare gratuită la toate punctele de informare și la Kaiser-Franz-Josefs-Höhe.",
+    "en": "Free parking at all information points and at Kaiser-Franz-Josefs-Höhe."
+  },
+  "accessibility": {
+    "de": "Die meisten Ausstellungen und Aussichtsplattformen sind barrierefrei zugänglich.",
+    "hu": "A legtöbb kiállítás és kilátóterasz akadálymentesen megközelíthető.",
+    "ro": "Majoritatea expozițiilor și platformelor de observare sunt accesibile fără bariere.",
+    "en": "Most exhibitions and viewing platforms are barrier-free and accessible."
+  },
+  "photoRules": {
+    "de": "Privataufnahmen erlaubt, gewerbliche Drohnenflüge sind genehmigungspflichtig.",
+    "hu": "Magáncélú fotózás engedélyezett, a kereskedelmi drónhasználat engedélyköteles.",
+    "ro": "Fotografii private permise, zborurile comerciale cu drona necesită autorizație.",
+    "en": "Private photography allowed, commercial drone flights require a permit."
+  },
+  "bestTimeToVisit": {
+    "de": "Früh am Morgen vor 09:00 Uhr, um den großen Besucherströmen zu entgehen.",
+    "hu": "Kora reggel 09:00 előtt, hogy elkerülje a nagy látogatói tömeget.",
+    "ro": "Dimineața devreme înainte de ora 09:00, pentru a evita fluxurile mari de vizitatori.",
+    "en": "Early in the morning before 9:00 AM to avoid the large crowds."
+  },
+  "audioGuide": {
+    "de": "Kostenlose Info-App in Deutsch und Englisch verfügbar.",
+    "hu": "Ingyenes információs applikáció elérhető német és angol nyelven.",
+    "ro": "Aplicație informativă gratuită disponibilă în germană și engleză.",
+    "en": "Free info app available in German and English."
+  }
 }

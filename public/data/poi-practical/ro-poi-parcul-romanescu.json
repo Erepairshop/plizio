@@ -1,12 +1,57 @@
 {
-  "address": "Bulevardul Nicolae Romanescu, 200738 Craiova",
-  "openingHours": "24/7",
-  "entranceFee": "kostenlos",
+  "address": {
+    "de": "Bulevardul Nicolae Romanescu, 200738 Craiova",
+    "hu": "Bulevardul Nicolae Romanescu, 200738 Craiova",
+    "ro": "Bulevardul Nicolae Romanescu, 200738 Craiova",
+    "en": "Bulevardul Nicolae Romanescu, 200738 Craiova"
+  },
+  "openingHours": {
+    "de": "24/7",
+    "hu": "24/7",
+    "ro": "24/7",
+    "en": "24/7"
+  },
+  "entranceFee": {
+    "de": "kostenlos",
+    "hu": "ingyenes",
+    "ro": "gratuit",
+    "en": "free"
+  },
   "website": "https://www.primariacraiova.ro",
-  "publicTransport": "Buslinien 1, 4, 10, 20 bis Haltestelle Parcul Romanescu",
-  "parking": "Großer kostenloser Parkplatz am Haupteingang",
-  "accessibility": "Großteils barrierefrei, einige Nebenwege können steil oder uneben sein",
-  "photoRules": "Frei erlaubt; sehr beliebt für Hochzeitsfotografie",
-  "bestTimeToVisit": "Wochentags am Vormittag für Ruhe; Wochenende ist sehr belebt",
-  "audioGuide": "nein"
+  "publicTransport": {
+    "de": "Buslinien 1, 4, 10, 20 bis Haltestelle Parcul Romanescu",
+    "hu": "1, 4, 10, 20-es buszok a Parcul Romanescu megállóig",
+    "ro": "Liniile de autobuz 1, 4, 10, 20 până la stația Parcul Romanescu",
+    "en": "Bus lines 1, 4, 10, 20 to Parcul Romanescu stop"
+  },
+  "parking": {
+    "de": "Großer kostenloser Parkplatz am Haupteingang",
+    "hu": "Nagy ingyenes parkoló a főbejáratnál",
+    "ro": "Parcare mare gratuită la intrarea principală",
+    "en": "Large free parking at the main entrance"
+  },
+  "accessibility": {
+    "de": "Großteils barrierefrei, einige Nebenwege können steil oder uneben sein",
+    "hu": "Jórészt akadálymentes, néhány mellékút meredek vagy egyenetlen lehet",
+    "ro": "În mare parte accesibil, unele alei secundare pot fi abrupte sau neregulate",
+    "en": "Mostly accessible, some secondary paths may be steep or uneven"
+  },
+  "photoRules": {
+    "de": "Frei erlaubt; sehr beliebt für Hochzeitsfotografie",
+    "hu": "Szabadon engedélyezett; nagyon népszerű esküvői fotózáshoz",
+    "ro": "Permis liber; foarte popular pentru fotografii de nuntă",
+    "en": "Freely permitted; very popular for wedding photography"
+  },
+  "bestTimeToVisit": {
+    "de": "Wochentags am Vormittag für Ruhe; Wochenende ist sehr belebt",
+    "hu": "Hétköznap délelőtt a nyugalomért; hétvégén nagyon zsúfolt",
+    "ro": "În timpul săptămânii dimineața pentru liniște; weekendul este foarte aglomerat",
+    "en": "Weekday mornings for quiet; weekends are very busy"
+  },
+  "audioGuide": {
+    "de": "nein",
+    "hu": "nem",
+    "ro": "nu",
+    "en": "no"
+  }
 }

@@ -1,12 +1,57 @@
 {
-  "address": "Strada Gării 44, 537240 Praid, Harghita",
-  "openingHours": "Mo-Su 08:00-16:00 (letzter Einlass 14:30)",
-  "entranceFee": "50 RON Erwachsene, 35 RON Kinder (Wochentags)",
+  "address": {
+    "de": "Strada Gării 44, 537240 Praid, Harghita",
+    "hu": "Strada Gării 44, 537240 Praid, Hargita",
+    "ro": "Strada Gării 44, 537240 Praid, Harghita",
+    "en": "Strada Gării 44, 537240 Praid, Harghita"
+  },
+  "openingHours": {
+    "de": "Mo-Su 08:00-16:00 (letzter Einlass 14:30)",
+    "hu": "Hé-Va 08:00-16:00 (utolsó belépés 14:30)",
+    "ro": "Lu-Du 08:00-16:00 (ultima intrare 14:30)",
+    "en": "Mon-Sun 08:00-16:00 (last admission 14:30)"
+  },
+  "entranceFee": {
+    "de": "50 RON Erwachsene, 35 RON Kinder (Wochentags)",
+    "hu": "50 RON felnőtt, 35 RON gyerek (hétköznap)",
+    "ro": "50 RON adulți, 35 RON copii (în timpul săptămânii)",
+    "en": "50 RON adults, 35 RON children (weekdays)"
+  },
   "website": "https://salinapraid.ro",
-  "publicTransport": "Regionale Busse von Sovata oder Odorheiu Secuiesc",
-  "parking": "Großer gebührenpflichtiger Parkplatz direkt am Eingang, ca. 10 RON",
-  "accessibility": "Rollstuhlgerecht durch Bustransfer in die Mine und Aufzüge",
-  "photoRules": "Erlaubt; kein Blitzlicht in der Nähe von Salzkristallen empfohlen",
-  "bestTimeToVisit": "Früh am Morgen unter der Woche, um den starken Andrang zu vermeiden",
-  "audioGuide": "no"
+  "publicTransport": {
+    "de": "Regionale Busse von Sovata oder Odorheiu Secuiesc",
+    "hu": "Regionális buszok Szovátáról vagy Székelyudvarhelyről",
+    "ro": "Autobuze regionale din Sovata sau Odorheiu Secuiesc",
+    "en": "Regional buses from Sovata or Odorheiu Secuiesc"
+  },
+  "parking": {
+    "de": "Großer gebührenpflichtiger Parkplatz direkt am Eingang, ca. 10 RON",
+    "hu": "Nagy fizetős parkoló közvetlenül a bejáratnál, kb. 10 RON",
+    "ro": "Parcare mare cu plată chiar la intrare, aprox. 10 RON",
+    "en": "Large paid parking right at the entrance, approx. 10 RON"
+  },
+  "accessibility": {
+    "de": "Rollstuhlgerecht durch Bustransfer in die Mine und Aufzüge",
+    "hu": "Kerekesszékesek számára is hozzáférhető a bányába történő busztranszfer és liftek révén",
+    "ro": "Accesibil pentru scaune cu rotile prin transfer cu autobuzul în mină și lifturi",
+    "en": "Wheelchair accessible via bus transfer into the mine and elevators"
+  },
+  "photoRules": {
+    "de": "Erlaubt; kein Blitzlicht in der Nähe von Salzkristallen empfohlen",
+    "hu": "Engedélyezett; a sókristályok közelében nem ajánlott a vaku használata",
+    "ro": "Permis; nu se recomandă blițul în apropierea cristalelor de sare",
+    "en": "Allowed; flash photography not recommended near salt crystals"
+  },
+  "bestTimeToVisit": {
+    "de": "Früh am Morgen unter der Woche, um den starken Andrang zu vermeiden",
+    "hu": "Hétköznap kora reggel, a nagy tömeg elkerülése érdekében",
+    "ro": "Dimineața devreme în timpul săptămânii pentru a evita aglomerația",
+    "en": "Early morning on weekdays to avoid heavy crowds"
+  },
+  "audioGuide": {
+    "de": "no",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

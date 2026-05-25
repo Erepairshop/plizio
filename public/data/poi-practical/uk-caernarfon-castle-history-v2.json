@@ -1,12 +1,57 @@
 {
-  "address": "Castle Ditch, Caernarfon LL55 2AY",
-  "openingHours": "Mo-Su 10:00-17:00",
-  "entranceFee": "£13.10 Erwachsene, £9.20 Kinder",
+  "address": {
+    "de": "Castle Ditch, Caernarfon LL55 2AY",
+    "hu": "Castle Ditch, Caernarfon LL55 2AY",
+    "ro": "Castle Ditch, Caernarfon LL55 2AY",
+    "en": "Castle Ditch, Caernarfon LL55 2AY"
+  },
+  "openingHours": {
+    "de": "Mo-Su 10:00-17:00",
+    "hu": "Hé-Va 10:00-17:00",
+    "ro": "Lu-Du 10:00-17:00",
+    "en": "Mo-Su 10:00-17:00"
+  },
+  "entranceFee": {
+    "de": "£13.10 Erwachsene, £9.20 Kinder",
+    "hu": "£13.10 felnőtt, £9.20 gyerek",
+    "ro": "£13.10 adulți, £9.20 copii",
+    "en": "£13.10 adults, £9.20 children"
+  },
   "website": "https://cadw.gov.wales/visit/places-to-visit/caernarfon-castle",
-  "publicTransport": "Bus T2 oder T3 ab Bangor Bahnhof direkt zum Busbahnhof Caernarfon",
-  "parking": "Mehrere kostenpflichtige öffentliche Parkplätze in unmittelbarer Nähe zur Burg.",
-  "accessibility": "Dank neuem Aufzug sind weite Teile der Wehrmauern nun barrierefrei zugänglich.",
-  "photoRules": "Überall für den privaten Gebrauch erlaubt.",
-  "bestTimeToVisit": "Später Vormittag für die beste Beleuchtung des King's Gate.",
-  "audioGuide": "en, cy"
+  "publicTransport": {
+    "de": "Bus T2 oder T3 ab Bangor Bahnhof direkt zum Busbahnhof Caernarfon",
+    "hu": "T2 vagy T3 busz Bangor állomástól közvetlenül Caernarfon buszpályaudvarra",
+    "ro": "Autobuz T2 sau T3 din gara Bangor direct la autogara Caernarfon",
+    "en": "Bus T2 or T3 from Bangor station directly to Caernarfon bus station"
+  },
+  "parking": {
+    "de": "Mehrere kostenpflichtige öffentliche Parkplätze in unmittelbarer Nähe zur Burg.",
+    "hu": "Több fizetős nyilvános parkoló a vár közvetlen közelében.",
+    "ro": "Mai multe parcări publice cu plată în imediata vecinătate a castelului.",
+    "en": "Several paid public parking lots in immediate vicinity of the castle."
+  },
+  "accessibility": {
+    "de": "Dank neuem Aufzug sind weite Teile der Wehrmauern nun barrierefrei zugänglich.",
+    "hu": "Az új liftnek köszönhetően a várfalak nagy része most akadálymentesen látogatható.",
+    "ro": "Datorită noului lift, mari părți din zidurile de apărare sunt acum accesibile.",
+    "en": "Thanks to a new elevator, large parts of the defense walls are now accessible."
+  },
+  "photoRules": {
+    "de": "Überall für den privaten Gebrauch erlaubt.",
+    "hu": "Mindenhol megengedett privát használatra.",
+    "ro": "Permis peste tot pentru uz privat.",
+    "en": "Allowed everywhere for private use."
+  },
+  "bestTimeToVisit": {
+    "de": "Später Vormittag für die beste Beleuchtung des King's Gate.",
+    "hu": "Késő délelőtt a legjobb fényekért a King's Gate-nél.",
+    "ro": "Dimineața târziu pentru cea mai bună iluminare a King's Gate.",
+    "en": "Late morning for the best lighting of the King's Gate."
+  },
+  "audioGuide": {
+    "de": "en, cy",
+    "hu": "en, cy",
+    "ro": "en, cy",
+    "en": "en, cy"
+  }
 }

@@ -1,12 +1,57 @@
 {
-  "address": "Schloss 1, 61348 Bad Homburg vor der Höhe",
-  "openingHours": "März-Oktober: Di-So 10:00-17:00; November-Februar: Di-So 10:00-16:00",
-  "entranceFee": "€4.50 Erwachsene (Besichtigung nur mit Führung)",
+  "address": {
+    "de": "Schloss 1, 61348 Bad Homburg vor der Höhe",
+    "hu": "Schloss 1, 61348 Bad Homburg vor der Höhe",
+    "ro": "Schloss 1, 61348 Bad Homburg vor der Höhe",
+    "en": "Schloss 1, 61348 Bad Homburg vor der Höhe"
+  },
+  "openingHours": {
+    "de": "März-Oktober: Di-So 10:00-17:00; November-Februar: Di-So 10:00-16:00",
+    "hu": "Március–Október: Ke–Va 10:00–17:00; November–Február: Ke–Va 10:00–16:00",
+    "ro": "Martie-Octombrie: Ma-Du 10:00-17:00; Noiembrie-Februarie: Ma-Du 10:00-16:00",
+    "en": "March-October: Tue-Sun 10:00-17:00; November-February: Tue-Sun 10:00-16:00"
+  },
+  "entranceFee": {
+    "de": "€4.50 Erwachsene (Besichtigung nur mit Führung)",
+    "hu": "Felnőtt 4,50 € (látogatás csak vezetéssel)",
+    "ro": "4,50 € adulți (vizitare doar cu tur ghidat)",
+    "en": "€4.50 adults (viewing by guided tour only)"
+  },
   "website": "https://www.schloesser-hessen.de",
-  "publicTransport": "S5 bis Bad Homburg, dann Bus 1, 4, 11 bis 'Schloss'",
-  "parking": "Parkhaus Schlossgarage direkt unterhalb",
-  "accessibility": "Schlosshof und Park barrierefrei; Schlossräume nur über Treppen (kein Aufzug)",
-  "photoRules": "In den Innenräumen generell untersagt",
-  "bestTimeToVisit": "Frühlingszeit, wenn der Weiße Turm inmitten der Blüten steht",
-  "audioGuide": "no"
+  "publicTransport": {
+    "de": "S5 bis Bad Homburg, dann Bus 1, 4, 11 bis 'Schloss'",
+    "hu": "S5 vonat Bad Homburgig, majd 1, 4 vagy 11-es busz Schloss megállóig",
+    "ro": "S5 până la Bad Homburg, apoi autobuzul 1, 4, 11 până la „Schloss”",
+    "en": "S5 to Bad Homburg, then bus 1, 4, 11 to 'Schloss' stop"
+  },
+  "parking": {
+    "de": "Parkhaus Schlossgarage direkt unterhalb",
+    "hu": "Schlossgarage parkolóház közvetlenül a kastély alatt",
+    "ro": "Parcarea subterană Schlossgarage direct dedesubt",
+    "en": "Schlossgarage parking directly below"
+  },
+  "accessibility": {
+    "de": "Schlosshof und Park barrierefrei; Schlossräume nur über Treppen (kein Aufzug)",
+    "hu": "A kastélyudvar és a park akadálymentes; a termek csak lépcsőn érhetők el (nincs lift)",
+    "ro": "Curtea castelului și parcul sunt accesibile; sălile castelului doar prin scări (fără lift)",
+    "en": "Castle courtyard and park accessible; castle rooms via stairs only (no elevator)"
+  },
+  "photoRules": {
+    "de": "In den Innenräumen generell untersagt",
+    "hu": "A belső terekben általában tilos",
+    "ro": "În general interzis în interior",
+    "en": "Generally prohibited in the interiors"
+  },
+  "bestTimeToVisit": {
+    "de": "Frühlingszeit, wenn der Weiße Turm inmitten der Blüten steht",
+    "hu": "Tavasszal, amikor a Fehér torony virágpompában áll",
+    "ro": "Primăvara, când Turnul Alb este înconjurat de flori",
+    "en": "Springtime, when the White Tower stands amidst the blossoms"
+  },
+  "audioGuide": {
+    "de": "no",
+    "hu": "nem",
+    "ro": "nu",
+    "en": "no"
+  }
 }

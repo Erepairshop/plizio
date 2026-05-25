@@ -1,12 +1,57 @@
 {
-  "address": "Vágóhíd u. 20, 5300 Karcag",
-  "openingHours": "Di-So 10:00-16:00",
-  "entranceFee": "800 HUF",
+  "address": {
+    "de": "Vágóhíd u. 20, 5300 Karcag",
+    "hu": "Vágóhíd u. 20, 5300 Karcag",
+    "ro": "Vágóhíd u. 20, 5300 Karcag",
+    "en": "Vágóhíd u. 20, 5300 Karcag"
+  },
+  "openingHours": {
+    "de": "Di-So 10:00-16:00",
+    "hu": "K-V 10:00-16:00",
+    "ro": "Ma-Du 10:00-16:00",
+    "en": "Tue-Sun 10:00-16:00"
+  },
+  "entranceFee": {
+    "de": "800 HUF",
+    "hu": "800 HUF",
+    "ro": "800 HUF",
+    "en": "800 HUF"
+  },
   "website": "",
-  "publicTransport": "Lokale Buslinie vom Bahnhof Karcag",
-  "parking": "Kostenloses Parken direkt vor der Mühle",
-  "accessibility": "Erdgeschoss barrierefrei, obere Mahlböden nur über steile Holzleitern",
-  "photoRules": "Erlaubt, sehr fotogen bei tiefstehender Sonne",
-  "bestTimeToVisit": "Später Nachmittag für warme Farben auf dem Ziegelbau",
-  "audioGuide": "nein"
+  "publicTransport": {
+    "de": "Lokale Buslinie vom Bahnhof Karcag",
+    "hu": "Helyi buszjárat a karcagi vasútállomástól",
+    "ro": "Linia locală de autobuz de la gara Karcag",
+    "en": "Local bus from Karcag train station"
+  },
+  "parking": {
+    "de": "Kostenloses Parken direkt vor der Mühle",
+    "hu": "Ingyenes parkolás közvetlenül a malom előtt",
+    "ro": "Parcare gratuită chiar în fața morii",
+    "en": "Free parking right in front of the mill"
+  },
+  "accessibility": {
+    "de": "Erdgeschoss barrierefrei, obere Mahlböden nur über steile Holzleitern",
+    "hu": "Földszint akadálymentesített, a felső szintek csak meredek falétrákon érhetők el",
+    "ro": "Parter accesibil, nivelurile superioare doar pe scări de lemn abrupte",
+    "en": "Ground floor accessible, upper floors reachable only by steep wooden ladders"
+  },
+  "photoRules": {
+    "de": "Erlaubt, sehr fotogen bei tiefstehender Sonne",
+    "hu": "Megengedett, nagyon fotogén alacsony napállásnál",
+    "ro": "Permis, foarte fotogenică la apus/răsărit",
+    "en": "Allowed, very photogenic in low sun"
+  },
+  "bestTimeToVisit": {
+    "de": "Später Nachmittag für warme Farben auf dem Ziegelbau",
+    "hu": "Késő délután, a téglaépület meleg színei miatt",
+    "ro": "După-amiaza târziu pentru culori calde pe construcția de cărămidă",
+    "en": "Late afternoon for warm colors on the brick structure"
+  },
+  "audioGuide": {
+    "de": "nein",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

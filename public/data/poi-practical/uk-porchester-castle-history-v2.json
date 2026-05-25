@@ -1,12 +1,57 @@
 {
-  "address": "Church Ln, Portchester, Fareham PO16 9QW, Großbritannien",
-  "openingHours": "Mo-Su 10:00-16:00 (Winter), 10:00-18:00 (Sommer)",
-  "entranceFee": "£10.00 Erwachsene, £6.00 Kinder",
+  "address": {
+    "de": "Church Ln, Portchester, Fareham PO16 9QW, Großbritannien",
+    "hu": "Church Ln, Portchester, Fareham PO16 9QW, Nagy-Britannia",
+    "ro": "Church Ln, Portchester, Fareham PO16 9QW, Marea Britanie",
+    "en": "Church Ln, Portchester, Fareham PO16 9QW, Great Britain"
+  },
+  "openingHours": {
+    "de": "Mo-Su 10:00-16:00 (Winter), 10:00-18:00 (Sommer)",
+    "hu": "H-V 10:00-16:00 (tél), 10:00-18:00 (nyár)",
+    "ro": "Lu-Du 10:00-16:00 (iarnă), 10:00-18:00 (vară)",
+    "en": "Mo-Su 10:00-16:00 (winter), 10:00-18:00 (summer)"
+  },
+  "entranceFee": {
+    "de": "£10.00 Erwachsene, £6.00 Kinder",
+    "hu": "£10.00 felnőtt, £6.00 gyerek",
+    "ro": "£10.00 adulți, £6.00 copii",
+    "en": "£10.00 adults, £6.00 children"
+  },
   "website": "https://www.english-heritage.org.uk/visit/places/portchester-castle/",
-  "publicTransport": "Bahnhof Portchester, ca. 15 Min. Fußweg durch das Dorf",
-  "parking": "Großer kostenloser Parkplatz direkt am Schlossgelände",
-  "accessibility": "Hof und Erdgeschoss barrierefrei, Bergfried nur über steile Treppen",
-  "photoRules": "Erlaubt",
-  "bestTimeToVisit": "Bei Flut, wenn das Meer die römischen Mauern umschließt",
-  "audioGuide": "Ja (Englisch)"
+  "publicTransport": {
+    "de": "Bahnhof Portchester, ca. 15 Min. Fußweg durch das Dorf",
+    "hu": "Portchester állomás, kb. 15 perc séta a falun keresztül",
+    "ro": "Gara Portchester, aprox. 15 minute de mers pe jos prin sat",
+    "en": "Portchester station, approx. 15-minute walk through the village"
+  },
+  "parking": {
+    "de": "Großer kostenloser Parkplatz direkt am Schlossgelände",
+    "hu": "Nagy ingyenes parkoló közvetlenül a vár területén",
+    "ro": "Parcare mare gratuită chiar lângă incinta castelului",
+    "en": "Large free car park right by the castle grounds"
+  },
+  "accessibility": {
+    "de": "Hof und Erdgeschoss barrierefrei, Bergfried nur über steile Treppen",
+    "hu": "Az udvar és a földszint akadálymentes, a vár tornya csak meredek lépcsőkön",
+    "ro": "Curtea și parterul accesibile, turnul principal doar pe scări abrupte",
+    "en": "Courtyard and ground floor accessible, keep only via steep stairs"
+  },
+  "photoRules": {
+    "de": "Erlaubt",
+    "hu": "Engedélyezett",
+    "ro": "Permis",
+    "en": "Allowed"
+  },
+  "bestTimeToVisit": {
+    "de": "Bei Flut, wenn das Meer die römischen Mauern umschließt",
+    "hu": "Dagálykor, amikor a tenger körülveszi a római falakat",
+    "ro": "La flux, când marea înconjoară zidurile romane",
+    "en": "At high tide, when the sea surrounds the Roman walls"
+  },
+  "audioGuide": {
+    "de": "Ja (Englisch)",
+    "hu": "Igen (angol)",
+    "ro": "Da (engleză)",
+    "en": "Yes (English)"
+  }
 }

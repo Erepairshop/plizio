@@ -1,12 +1,57 @@
 {
-  "address": "Route des Crêtes, 04120 Castellane / La Palud-sur-Verdon",
-  "openingHours": "24/7",
-  "entranceFee": "free",
+  "address": {
+    "de": "Route des Crêtes, 04120 Castellane / La Palud-sur-Verdon",
+    "hu": "Route des Crêtes, 04120 Castellane / La Palud-sur-Verdon",
+    "ro": "Route des Crêtes, 04120 Castellane / La Palud-sur-Verdon",
+    "en": "Route des Crêtes, 04120 Castellane / La Palud-sur-Verdon"
+  },
+  "openingHours": {
+    "de": "24/7",
+    "hu": "0-24 óráig",
+    "ro": "24/7",
+    "en": "24/7"
+  },
+  "entranceFee": {
+    "de": "free",
+    "hu": "ingyenes",
+    "ro": "gratuit",
+    "en": "free"
+  },
   "website": "https://www.parcduverdon.fr",
-  "publicTransport": "Sehr schwer erreichbar, saisonale Busse ab Nizza oder Marseille",
-  "parking": "Zahlreiche kostenlose Aussichtspunkte entlang der Panoramastraße",
-  "accessibility": "Aussichtspunkte oft barrierefrei, Wanderwege in die Schlucht sehr steil",
-  "photoRules": "Fotografieren überall frei erlaubt",
-  "bestTimeToVisit": "Mai für hohe Wasserstände oder September für weniger Verkehr",
-  "audioGuide": "no"
+  "publicTransport": {
+    "de": "Sehr schwer erreichbar, saisonale Busse ab Nizza oder Marseille",
+    "hu": "Nagyon nehezen elérhető, szezonális buszok indulnak Nizzából vagy Marseille-ből",
+    "ro": "Foarte greu de accesat, autobuze sezoniere din Nisa sau Marsilia",
+    "en": "Very difficult to access, seasonal buses from Nice or Marseille"
+  },
+  "parking": {
+    "de": "Zahlreiche kostenlose Aussichtspunkte entlang der Panoramastraße",
+    "hu": "Számos ingyenes kilátópont a panorámaút mentén",
+    "ro": "Numeroase puncte de belvedere gratuite de-a lungul drumului panoramic",
+    "en": "Numerous free viewpoints along the panoramic road"
+  },
+  "accessibility": {
+    "de": "Aussichtspunkte oft barrierefrei, Wanderwege in die Schlucht sehr steil",
+    "hu": "A kilátópontok gyakran akadálymentesek, a szurdokba vezető túraútvonalak viszont nagyon meredekek",
+    "ro": "Punctele de belvedere sunt adesea accesibile, traseele de drumeție în chei sunt foarte abrupte",
+    "en": "Viewpoints often accessible, hiking trails into the gorge are very steep"
+  },
+  "photoRules": {
+    "de": "Fotografieren überall frei erlaubt",
+    "hu": "A fényképezés mindenhol szabadon engedélyezett",
+    "ro": "Fotografierea este permisă liber peste tot",
+    "en": "Photography is freely permitted everywhere"
+  },
+  "bestTimeToVisit": {
+    "de": "Mai für hohe Wasserstände oder September für weniger Verkehr",
+    "hu": "Május a magas vízállás idején, vagy szeptember a kisebb forgalom miatt",
+    "ro": "Mai pentru niveluri ridicate ale apei sau septembrie pentru mai puțin trafic",
+    "en": "May for high water levels or September for less traffic"
+  },
+  "audioGuide": {
+    "de": "no",
+    "hu": "nincs",
+    "ro": "nu",
+    "en": "no"
+  }
 }

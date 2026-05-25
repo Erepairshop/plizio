@@ -1,12 +1,57 @@
 {
-  "address": "Ruschestraße 103, Haus 1, 10365 Berlin",
-  "openingHours": "Mo-Fr 10:00-18:00, Sa-So 11:00-18:00",
-  "entranceFee": "8 € Erwachsene, 6 € Ermäßigt",
+  "address": {
+    "de": "Ruschestraße 103, Haus 1, 10365 Berlin",
+    "hu": "Ruschestraße 103, Haus 1, 10365 Berlin",
+    "ro": "Ruschestraße 103, Haus 1, 10365 Berlin",
+    "en": "Ruschestraße 103, Haus 1, 10365 Berlin"
+  },
+  "openingHours": {
+    "de": "Mo-Fr 10:00-18:00, Sa-So 11:00-18:00",
+    "hu": "H-P 10:00-18:00, Szo-V 11:00-18:00",
+    "ro": "Lu-Vi 10:00-18:00, Sâ-Du 11:00-18:00",
+    "en": "Mon-Fri 10:00-18:00, Sat-Sun 11:00-18:00"
+  },
+  "entranceFee": {
+    "de": "8 € Erwachsene, 6 € Ermäßigt",
+    "hu": "Felnőtt 8 €, kedvezményes 6 €",
+    "ro": "8 € adulți, 6 € redus",
+    "en": "8 € adults, 6 € reduced"
+  },
   "website": "https://www.stasimuseum.de",
-  "publicTransport": "U5 (Magdalenenstraße)",
-  "parking": "Begrenzte Parkplätze im Wohngebiet rund um die Ruschestraße.",
-  "accessibility": "Über Rampe und Aufzug barrierefrei erreichbar.",
-  "photoRules": "Erlaubt für private Zwecke.",
-  "bestTimeToVisit": "Unter der Woche vormittags.",
-  "audioGuide": "ja (diverse Sprachen)"
+  "publicTransport": {
+    "de": "U5 (Magdalenenstraße)",
+    "hu": "U5 metró (Magdalenenstraße)",
+    "ro": "U5 (Magdalenenstraße)",
+    "en": "U5 (Magdalenenstraße)"
+  },
+  "parking": {
+    "de": "Begrenzte Parkplätze im Wohngebiet rund um die Ruschestraße.",
+    "hu": "Korlátozott parkolási lehetőség a Ruschestraße környéki lakóövezetben.",
+    "ro": "Locuri de parcare limitate în zona rezidențială din jurul Ruschestraße.",
+    "en": "Limited parking in the residential area around Ruschestraße."
+  },
+  "accessibility": {
+    "de": "Über Rampe und Aufzug barrierefrei erreichbar.",
+    "hu": "Rámpán és liften keresztül akadálymentesen megközelíthető.",
+    "ro": "Accesibil prin rampă și lift.",
+    "en": "Barrier-free access via ramp and elevator."
+  },
+  "photoRules": {
+    "de": "Erlaubt für private Zwecke.",
+    "hu": "Magáncélra engedélyezett.",
+    "ro": "Permis pentru uz privat.",
+    "en": "Allowed for private purposes."
+  },
+  "bestTimeToVisit": {
+    "de": "Unter der Woche vormittags.",
+    "hu": "Hétköznap délelőtt.",
+    "ro": "În timpul săptămânii dimineața.",
+    "en": "During the week in the morning."
+  },
+  "audioGuide": {
+    "de": "ja (diverse Sprachen)",
+    "hu": "igen (különböző nyelveken)",
+    "ro": "da (diverse limbi)",
+    "en": "yes (various languages)"
+  }
 }
