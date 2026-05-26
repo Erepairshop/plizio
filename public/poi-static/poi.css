@@ -542,17 +542,25 @@ footer a { color: rgba(255,255,255,0.7); }
 .plz-sight-name-link { color: inherit; text-decoration: none; border-bottom: 1px dotted rgba(34,211,238,0.4); }
 .plz-sight-name-link:hover { color: #4cc; border-bottom-color: rgba(34,211,238,0.8); }
 
-/* Yearly highlights — AI-curated 1-3 top 2026 events, displayed above news (compact) */
-.plz-yh { margin: 0.75rem 0; padding: 0.6rem 0.75rem; background: linear-gradient(135deg, rgba(251,191,36,0.06), rgba(251,191,36,0.02)); border: 1px solid rgba(251,191,36,0.25); border-radius: 0.6rem; }
-.plz-yh h2 { margin: 0 0 0.45rem 0; font-size: 0.85rem; color: #fbbf24; font-weight: 600; text-transform: uppercase; letter-spacing: 0.04em; }
-.plz-yh-card { background: rgba(0,0,0,0.18); border-radius: 0.4rem; padding: 0.4rem 0.6rem; margin-bottom: 0.3rem; display: flex; align-items: baseline; gap: 0.6rem; flex-wrap: wrap; }
-.plz-yh-card:last-child { margin-bottom: 0; }
+/* Yearly highlights — compact, collapsed-by-default card list above news */
+.plz-yh { margin: 0.6rem 0; padding: 0; background: linear-gradient(135deg, rgba(251,191,36,0.05), rgba(251,191,36,0.015)); border: 1px solid rgba(251,191,36,0.2); border-radius: 0.55rem; overflow: hidden; }
+.plz-yh-summary-row { list-style: none; cursor: pointer; display: flex; align-items: center; gap: 0.5rem; padding: 0.45rem 0.7rem; user-select: none; }
+.plz-yh-summary-row::-webkit-details-marker { display: none; }
+.plz-yh-icon { color: #fbbf24; flex-shrink: 0; }
+.plz-yh-head { margin: 0; font-size: 0.78rem; color: #fbbf24; font-weight: 600; text-transform: uppercase; letter-spacing: 0.045em; }
+.plz-yh-count { font-size: 0.7rem; color: rgba(251,191,36,0.75); background: rgba(251,191,36,0.12); padding: 0.05rem 0.4rem; border-radius: 999px; font-weight: 600; }
+.plz-yh-arrow { margin-left: auto; font-size: 1rem; color: rgba(251,191,36,0.6); transition: transform 0.2s ease; line-height: 1; }
+.plz-yh[open] .plz-yh-arrow { transform: rotate(90deg); }
+.plz-yh-body { padding: 0 0.7rem 0.55rem; display: flex; flex-direction: column; gap: 0.3rem; }
+.plz-yh-card { background: rgba(0,0,0,0.18); border-radius: 0.4rem; padding: 0.4rem 0.6rem; display: flex; align-items: baseline; gap: 0.6rem; flex-wrap: wrap; }
 .plz-yh-link { color: inherit; text-decoration: none; display: contents; }
 .plz-yh-link:hover .plz-yh-title { color: #fde68a; }
 .plz-yh-meta { order: 2; margin-left: auto; }
-.plz-yh-date { font-size: 0.7rem; color: rgba(255,255,255,0.5); white-space: nowrap; }
-.plz-yh-title { margin: 0; font-size: 0.85rem; color: rgba(255,255,255,0.95); font-weight: 600; line-height: 1.35; flex: 1 1 60%; min-width: 0; }
-.plz-yh-summary { margin: 0.2rem 0 0 0; font-size: 0.78rem; color: rgba(255,255,255,0.65); line-height: 1.4; flex: 1 1 100%; }
+.plz-yh-date { font-size: 0.68rem; color: rgba(255,255,255,0.5); white-space: nowrap; }
+.plz-yh-title { margin: 0; font-size: 0.82rem; color: rgba(255,255,255,0.95); font-weight: 600; line-height: 1.35; flex: 1 1 60%; min-width: 0; }
+.plz-yh-summary { margin: 0.15rem 0 0 0; font-size: 0.74rem; color: rgba(255,255,255,0.62); line-height: 1.4; flex: 1 1 100%; }
+.plz-yh-more { margin-top: 0.25rem; padding: 0.35rem 0.6rem; background: rgba(251,191,36,0.08); color: #fbbf24; border: 1px solid rgba(251,191,36,0.2); border-radius: 0.35rem; font-size: 0.72rem; font-weight: 600; cursor: pointer; align-self: flex-start; transition: background 0.15s; }
+.plz-yh-more:hover { background: rgba(251,191,36,0.15); }
 
 /* === City Itinerary widget (4-mode day-trip) v=20260524c === */
 .plz-itin{margin:1.4rem 0;border-radius:14px;background:rgba(255,255,255,.04);border:1px solid rgba(255,255,255,.1);padding:1.1rem}
