@@ -71,6 +71,17 @@ try {
   }
 } catch {}
 
+// DescAdv tier1-2 sidecar — 2227 POIs whose Pro-generated descriptionAdvanced
+// lives outside the multi-line *Poi.ts files. Renderer falls back to this
+// when the inline descAdv is missing or too short (<400 chars per lang).
+let DESCADV_SIDECAR: Record<string, Record<string, string>> = {};
+try {
+  const daPath = path.resolve(process.cwd(), "public", "data", "pliziogo-descadv-tier12.json");
+  if (fs.existsSync(daPath)) {
+    DESCADV_SIDECAR = JSON.parse(fs.readFileSync(daPath, "utf-8"));
+  }
+} catch {}
+
 // Sight image map (slugified-sight-name + poi-id → /sight-images/X.webp).
 // Loaded once at startup. Used in renderSightCard to inject image when
 // the sight itself doesn't have an explicit image URL.
@@ -323,7 +334,10 @@ function pageRichness(poi: POI, lang: Lang): {
   const hasPlizioGo = PLIZIOGO_SET.has(poi.id);
   const descAdv = (poi as { descriptionAdvanced?: Record<string, string> }).descriptionAdvanced;
   const descShort = poi.description as Record<string, string> | undefined;
-  const descChars = (descAdv?.[lang] || descShort?.[lang] || "").length;
+  const sidecarAdv = DESCADV_SIDECAR[poi.id];
+  const inlineLen = (descAdv?.[lang] || "").length;
+  const sideLen = (sidecarAdv?.[lang] || "").length;
+  const descChars = Math.max(inlineLen, sideLen, (descShort?.[lang] || "").length);
   const facts = (poi as { factsAdvanced?: Record<string, string[]>; facts?: Record<string, string[]> });
   const factsCount = (facts.factsAdvanced?.[lang] || facts.facts?.[lang] || []).length;
   const sightsByLang = (poi as { sights?: Record<string, unknown[]> }).sights;
@@ -901,7 +915,15 @@ function renderHtml(poi: POI, lang: Lang): string | null {
   const countryId = getCountryId(poi.parent);
 
   // Description: prefer advanced, fallback to short
-  const descAdv = (poi as { descriptionAdvanced?: Record<string, string> }).descriptionAdvanced;
+  let descAdv = (poi as { descriptionAdvanced?: Record<string, string> }).descriptionAdvanced;
+  const sidecarDescAdv = DESCADV_SIDECAR[poi.id];
+  if (sidecarDescAdv) {
+    const inlineLen = (descAdv?.[lang] || "").length;
+    const sideLen = (sidecarDescAdv[lang] || "").length;
+    if (sideLen > inlineLen) {
+      descAdv = { ...(descAdv || {}), ...sidecarDescAdv };
+    }
+  }
   const descShort = poi.description as Record<string, string> | undefined;
   const descText = getLocalized(descAdv as Partial<Record<string, string>>, lang)
     || getLocalized(descShort as Partial<Record<string, string>>, lang)
