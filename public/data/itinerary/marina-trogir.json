@@ -37,6 +37,12 @@
             "hu": "A püspökök egykori erődített palotája.",
             "ro": "Un fost palat fortificat al episcopilor.",
             "en": "A former fortified palace of the bishops."
+          },
+          "tip_5lang": {
+            "de": "Der Turm aus dem 15. Jahrhundert schützte einst den Hafen vor Piraten.",
+            "hu": "A 15. századi torony egykor a kalózok ellen védte a kikötőt.",
+            "ro": "Turnul din secolul XV apăra cândva portul împotriva piraților.",
+            "en": "The 15th-century tower once guarded the harbor against pirates."
           }
         },
         {
@@ -60,6 +66,12 @@
             "hu": "Kis templom a kikötő közelében.",
             "ro": "Biserică mică lângă port.",
             "en": "Small church near the harbor."
+          },
+          "tip_5lang": {
+            "de": "Achten Sie auf das verehrte Schutzheiligenbild über dem Seitenaltar.",
+            "hu": "Figyeld meg a tisztelt védőszent ikont a mellékoltár fölött.",
+            "ro": "Observă icoana sfântului ocrotitor de deasupra altarului lateral.",
+            "en": "Notice the venerable patron-saint icon above the side altar inside."
           }
         },
         {
@@ -83,6 +95,12 @@
             "hu": "Gótikus és reneszánsz elemek.",
             "ro": "Elemente gotice și renascentiste.",
             "en": "Gothic and Renaissance elements."
+          },
+          "tip_5lang": {
+            "de": "Eine kleine, oft verschlossene Kapelle; durch das Tor das Portal bewundern.",
+            "hu": "Kis, gyakran zárt kápolna; a kapun át láthatod a faragott bejáratot.",
+            "ro": "O capelă mică deseori încuiată; uită-te prin poartă la portalul sculptat.",
+            "en": "A tiny chapel often locked; peek through the gate for the carved doorway."
           }
         },
         {
@@ -106,6 +124,12 @@
             "hu": "Tökéletes egy eszpresszóhoz a víznél.",
             "ro": "Perfect pentru un espresso pe malul apei.",
             "en": "Perfect for an espresso by the water."
+          },
+          "tip_5lang": {
+            "de": "Bestellen Sie einen Espresso am Wasser und beobachten die Fischerboote.",
+            "hu": "Rendelj egy eszpresszót a vízparton, és nézd a befutó halászhajókat.",
+            "ro": "Comandă un espresso pe faleză și privește bărcile de pescuit sosind.",
+            "en": "Order an espresso at a waterfront café and watch fishing boats come in."
           }
         },
         {
@@ -129,6 +153,12 @@
             "hu": "Kavicsos strand tiszta vízzel.",
             "ro": "Plajă cu pietriș și apă curată.",
             "en": "Pebble beach with clean water."
+          },
+          "tip_5lang": {
+            "de": "Flaches Wasser und sandiger Einstieg machen dies zum Familien-Liebling.",
+            "hu": "Sekély víz és homokos bemenet, ezért családi kedvenc ez a hely.",
+            "ro": "Apa puțin adâncă și intrarea pe nisip fac din ea preferata familiilor.",
+            "en": "Shallow water and a sandy entry make this the family-favorite spot."
           }
         },
         {
@@ -152,6 +182,12 @@
             "hu": "Kis szentély az út mentén.",
             "ro": "Mic sanctuar la marginea drumului.",
             "en": "Small sanctuary by the roadside."
+          },
+          "tip_5lang": {
+            "de": "Kleine Votivkirche über der Bucht; der Aufstieg belohnt mit Meerblick.",
+            "hu": "Kis fogadalmi templom az öböl fölött; a felkapaszkodás tengerre néző.",
+            "ro": "Mică biserică votivă deasupra golfului; urcușul oferă vederi spre mare.",
+            "en": "Small votive church above the bay; the climb rewards with sea views."
           }
         }
       ],
@@ -725,6 +761,12 @@
             "hu": "Kiindulópont a központban.",
             "ro": "Punct de plecare în centru.",
             "en": "Starting point in the center."
+          },
+          "tip_5lang": {
+            "de": "Schließen Sie das Rad am Turm an; die Strecke ist meist flach.",
+            "hu": "Zárd le a biciklit a torony tövénél; az út további része szinte sík.",
+            "ro": "Leagă bicicleta lângă turn; restul traseului este aproape complet plat.",
+            "en": "Lock your bike at the tower base; the rest of the route is mostly flat."
           }
         },
         {
@@ -748,6 +790,12 @@
             "hu": "Rövid, de meredek emelkedő a kápolnához.",
             "ro": "Urcare scurtă, dar abruptă spre capelă.",
             "en": "Short but steep climb to the chapel."
+          },
+          "tip_5lang": {
+            "de": "Steile Schotterauffahrt — früh herunterschalten und Inselblick genießen.",
+            "hu": "Meredek murvás kapaszkodó, váltsd be korán, és élvezd a szigetes panorámát.",
+            "ro": "Urcuș abrupt pe pietriș — schimbă din timp și bucură-te de panoramă.",
+            "en": "Steep gravel climb — drop a gear early and enjoy the islet view."
           }
         },
         {
@@ -771,6 +819,12 @@
             "hu": "Csendes hely a hátországban.",
             "ro": "Locație liniștită în interior.",
             "en": "Quiet location in the hinterland."
+          },
+          "tip_5lang": {
+            "de": "Stille Wegkapelle — perfekte Trinkpause im Schatten der Zypressen.",
+            "hu": "Csendes út menti templom, ideális ivószünet ciprusok árnyékában.",
+            "ro": "Biserică liniștită la marginea drumului — pauză perfectă la umbra chiparoșilor.",
+            "en": "Quiet wayside church — a perfect water break in the shade of cypresses."
           }
         },
         {
@@ -794,6 +848,12 @@
             "hu": "Megérdemelt hűsölés a túra után.",
             "ro": "Răcorire binemeritată după tur.",
             "en": "Well-deserved cooling off after the tour."
+          },
+          "tip_5lang": {
+            "de": "Räder am Ständer abstellen und ein kurzes erfrischendes Bad nehmen.",
+            "hu": "Hagyd a biciklit a tartón, és ugorj egy rövid, frissítő fürdést.",
+            "ro": "Lasă bicicletele la rastel și fă o baie scurtă, răcoritoare.",
+            "en": "Leave bikes at the rack and take a quick refreshing swim."
           }
         },
         {
@@ -817,6 +877,12 @@
             "hu": "Utolsó pillantás a tengerre.",
             "ro": "Ultima privire spre mare.",
             "en": "Last look at the sea."
+          },
+          "tip_5lang": {
+            "de": "Über die Promenade zurückrollen — am besten am späten Nachmittag.",
+            "hu": "Gurulj vissza a sétányon, késő délután a legjobb, mikor csendes a szél.",
+            "ro": "Întoarce-te pe promenadă — cel mai bine după-amiaza, când vântul scade.",
+            "en": "Roll back along the promenade — best done late afternoon when wind drops."
           }
         }
       ],
@@ -1267,7 +1333,7 @@
       "speed_kmh": 20,
       "start": "09:00",
       "end_estimate": "17:15",
-      "total_km": 15.0,
+      "total_km": 9.2,
       "stop_count": 5,
       "stops": [
         {
@@ -1291,6 +1357,12 @@
             "hu": "A település jelképe.",
             "ro": "Simbolul localității.",
             "en": "Landmark of the village."
+          },
+          "tip_5lang": {
+            "de": "Bezahltes Parken neben dem Turm, dann zu Fuß weiter erkunden.",
+            "hu": "Fizetős parkoló a torony melletti tér, onnan tovább gyalog.",
+            "ro": "Parchează contra cost lângă turn și continuă explorarea pe jos.",
+            "en": "Pay parking in the small lot beside the tower, then explore on foot."
           }
         },
         {
@@ -1314,6 +1386,12 @@
             "hu": "Parkoló a kápolna alatt.",
             "ro": "Parcare sub capelă.",
             "en": "Parking below the chapel."
+          },
+          "tip_5lang": {
+            "de": "Halb hochfahren, Rest laufen — Festungsruinen bieten weiten Ausblick.",
+            "hu": "Autózz fel félútig, a többi gyalog, az erődromnál tág kilátás vár.",
+            "ro": "Urcă cu mașina la jumătate, restul pe jos — ruinele oferă o panoramă largă.",
+            "en": "Drive halfway up, walk the rest — fortress ruins guard a sweeping view."
           }
         },
         {
@@ -1337,6 +1415,12 @@
             "hu": "Régi templom a központban.",
             "ro": "Biserică veche în centrul localității.",
             "en": "Old church in the town center."
+          },
+          "tip_5lang": {
+            "de": "Ein friedlicher Halt zum Gebet oder Schutz vor der Mittagshitze.",
+            "hu": "Békés megálló imára vagy egy pillanat a déli hőség elől.",
+            "ro": "O oprire liniștită pentru rugăciune sau o pauză din arșița amiezii.",
+            "en": "A peaceful stop for prayer or a moment out of the midday heat."
           }
         },
         {
@@ -1360,6 +1444,12 @@
             "hu": "Nagy parkoló közvetlenül a strandon.",
             "ro": "Parcare mare chiar lângă plajă.",
             "en": "Large parking lot right by the beach."
+          },
+          "tip_5lang": {
+            "de": "Kostenlose Parkplätze am Ufer füllen sich früh; kommen Sie vor zehn.",
+            "hu": "Az ingyenes parti parkolók nyáron korán megtelnek, gyere tíz előtt.",
+            "ro": "Parcările gratuite de pe mal se umplu devreme vara; vino înainte de zece.",
+            "en": "Free shoreline parking fills early in summer; arrive before ten."
           }
         },
         {
@@ -1383,6 +1473,12 @@
             "hu": "Befejezés a kikötőben.",
             "ro": "Final în port.",
             "en": "Conclusion in the harbor."
+          },
+          "tip_5lang": {
+            "de": "Schließen Sie mit Sonnenuntergang-Gelato und einem Bummel am Yachthafen ab.",
+            "hu": "Zárj naplementekori fagyival és lassú sétával a kikötő mentén.",
+            "ro": "Încheie cu o înghețată la apus și o plimbare lentă pe marina.",
+            "en": "End with sunset gelato and a slow stroll along the marina."
           }
         }
       ],
@@ -1833,7 +1929,7 @@
       "speed_kmh": 15,
       "start": "09:00",
       "end_estimate": "16:45",
-      "total_km": 4.0,
+      "total_km": 2.6,
       "stop_count": 5,
       "stops": [
         {
@@ -1857,6 +1953,12 @@
             "hu": "A település legfontosabb műemléke.",
             "ro": "Cel mai important monument al localității.",
             "en": "Most important monument of the village."
+          },
+          "tip_5lang": {
+            "de": "Der Bus hält wenige Schritte vom Turm; den Schildern zum Wasser folgen.",
+            "hu": "A busz a toronytól pár lépésnyire tesz le, kövesd a vízparti táblákat.",
+            "ro": "Autobuzul te lasă la câțiva pași de turn; urmează indicatoarele spre faleză.",
+            "en": "Bus drops you a short walk from the tower; follow signs to the waterfront."
           }
         },
         {
@@ -1880,6 +1982,12 @@
             "hu": "Látogatás a történelmi magban.",
             "ro": "Vizită în nucleul istoric.",
             "en": "Visit in the historic core."
+          },
+          "tip_5lang": {
+            "de": "Die Patronatskirche ist nur vormittags geöffnet — planen Sie entsprechend.",
+            "hu": "A védőszent templom csak délelőtt nyitva, ehhez igazítsd a látogatást.",
+            "ro": "Biserica patronului spiritual e deschisă doar dimineața — programează vizita.",
+            "en": "The patron-saint church is open mornings only — time your visit accordingly."
           }
         },
         {
@@ -1903,6 +2011,12 @@
             "hu": "A buszmegálló közelében.",
             "ro": "În apropierea stației de autobuz.",
             "en": "Near the bus stop."
+          },
+          "tip_5lang": {
+            "de": "Ein ebener, schattiger Spaziergang — ideal zwischen Busabfahrten.",
+            "hu": "Sík, árnyékos séta, ideális két buszindulás között.",
+            "ro": "Plimbare plată și umbrită — ideală între două plecări de autobuz.",
+            "en": "A flat, shaded walk — ideal between bus departures."
           }
         },
         {
@@ -1926,6 +2040,12 @@
             "hu": "Gyalogosan egyszerűen megközelíthető.",
             "ro": "Ușor de ajuns pe jos.",
             "en": "Easy to reach on foot."
+          },
+          "tip_5lang": {
+            "de": "Handtuch einpacken; der Strand ist fünf Minuten von der Haltestelle entfernt.",
+            "hu": "Vigyél törölközőt, a strand öt percre van a buszmegállótól.",
+            "ro": "Ia un prosop; plaja e la cinci minute de mers de la stația de autobuz.",
+            "en": "Pack a towel; the beach is a five-minute walk from the bus stop."
           }
         },
         {
@@ -1949,6 +2069,12 @@
             "hu": "Utolsó megálló indulás előtt.",
             "ro": "Ultima oprire înainte de plecare.",
             "en": "Last stop before departure."
+          },
+          "tip_5lang": {
+            "de": "Letzter Halt vor dem Rückbus — eine Kerze anzünden und langsam zurück.",
+            "hu": "Utolsó megálló a visszabusz előtt, gyújts gyertyát, és indulj lassan vissza.",
+            "ro": "Ultima oprire înainte de autobuzul de întoarcere — aprinde o lumânare.",
+            "en": "Final stop before the return bus — light a candle and head back slowly."
           }
         }
       ],

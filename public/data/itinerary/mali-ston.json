@@ -13,7 +13,7 @@
       "speed_kmh": 3,
       "start": "09:00",
       "end_estimate": "17:15",
-      "total_km": 4.2,
+      "total_km": 2.2,
       "stop_count": 6,
       "stops": [
         {
@@ -37,6 +37,12 @@
             "hu": "Kora reggel a halászhajók különösen fotogének.",
             "ro": "Bărcile de pescuit sunt deosebit de fotogenice dimineața devreme.",
             "en": "Fishing boats are particularly photogenic in the early morning."
+          },
+          "tip_5lang": {
+            "de": "Beobachten Sie morgens den Fischfang und plaudern Sie mit den Fischern beim Netzeflicken.",
+            "hu": "Reggel figyeld meg az érkező fogást, és beszélgess a hálót foltozó halászokkal.",
+            "ro": "Urmărește pescuitul de dimineață și stai de vorbă cu pescarii care își repară plasele.",
+            "en": "Watch the morning catch arrive and chat with fishermen mending their nets."
           }
         },
         {
@@ -60,6 +66,12 @@
             "hu": "A falakról lenyűgöző kilátás nyílik az osztrigatelepekre.",
             "ro": "Vederea asupra stridiilor de pe ziduri este fantastică.",
             "en": "The view of the oyster beds from the walls is fantastic."
+          },
+          "tip_5lang": {
+            "de": "Steigen Sie auf das Festungsdach für das weiteste Panorama der Bucht.",
+            "hu": "Mássz fel az erőd tetejére az öböl legtágasabb panorámájáért.",
+            "ro": "Urcă pe acoperișul cetății pentru cea mai largă panoramă a golfului.",
+            "en": "Climb to the fortress roof for the widest panorama of the bay."
           }
         },
         {
@@ -83,6 +95,12 @@
             "hu": "A meredek emelkedőhöz elengedhetetlen a jó túracipő.",
             "ro": "Încălțămintea bună este esențială pentru urcarea abruptă.",
             "en": "Good footwear is essential for the steep climb."
+          },
+          "tip_5lang": {
+            "de": "Diese Mauern sind nach der Chinesischen Mauer die zweitlängsten der Welt.",
+            "hu": "Ezek a falak hosszuk miatt csak a kínai nagy fal mögött állnak.",
+            "ro": "Aceste ziduri sunt depășite ca lungime doar de Marele Zid Chinezesc.",
+            "en": "These walls are second only to the Great Wall of China in length."
           }
         },
         {
@@ -106,6 +124,12 @@
             "hu": "Hűvös menedék a falu szívében.",
             "ro": "Un refugiu răcoros în inima satului.",
             "en": "A cool retreat in the heart of the village."
+          },
+          "tip_5lang": {
+            "de": "Treten Sie ein für einen Moment kühler Steinstille und einen Barockaltar.",
+            "hu": "Lépj be egy pillanat hűvös kőcsendért és a barokk oltárért.",
+            "ro": "Intră pentru un moment de liniște răcoroasă din piatră și altarul baroc.",
+            "en": "Step inside for a moment of cool stone silence and a baroque altar."
           }
         },
         {
@@ -129,6 +153,12 @@
             "hu": "Kóstolja meg az osztrigát közvetlenül a csónakról.",
             "ro": "Gustați stridiile direct din barcă.",
             "en": "Taste the oysters directly from the boat."
+          },
+          "tip_5lang": {
+            "de": "Probieren Sie die weltberühmten Stoner Austern frisch aus der Bucht mit Wein.",
+            "hu": "Kóstold meg a világhírű stoni osztrigát frissen az öbölből, helyi borral.",
+            "ro": "Gustă faimoasele stridii din Ston, proaspete din golf, însoțite de vin local.",
+            "en": "Try the world-famous Ston oysters fresh from the bay, paired with local wine."
           }
         },
         {
@@ -152,6 +182,12 @@
             "hu": "Tökéletes hely a kikötői fotókhoz a nap végén.",
             "ro": "Perfect pentru fotografii cu portul la finalul zilei.",
             "en": "Perfect for photos of the harbor at the end of the day."
+          },
+          "tip_5lang": {
+            "de": "Ein ruhigerer Turm mit fantastischem Sonnenuntergangsblick über den Kanal.",
+            "hu": "Csendesebb torony nagyszerű naplemente kilátással a csatornára.",
+            "ro": "Un turn mai liniștit, cu vederi superbe la apus peste canal.",
+            "en": "A quieter tower with great sunset views over the channel."
           }
         }
       ],
@@ -734,7 +770,7 @@
       "start": "09:00",
       "end_estimate": "16:30",
       "total_km": 12.5,
-      "stop_count": 6,
+      "stop_count": 5,
       "stops": [
         {
           "name": {
@@ -757,6 +793,12 @@
             "hu": "Itt kezdje a part menti túráját.",
             "ro": "Începeți turul de-a lungul coastei aici.",
             "en": "Start your coastal tour from here."
+          },
+          "tip_5lang": {
+            "de": "Parken Sie das Rad am Kai; das Hafencafé serviert starken Morgenkaffee.",
+            "hu": "Tedd le a bringát a kikötőnél; a kávézó erős reggeli kávét szolgál fel.",
+            "ro": "Parchează bicicleta lângă chei; cafeneaua portuară servește cafea tare dimineața.",
+            "en": "Park your bike near the quay; the harbor café serves strong morning coffee."
           }
         },
         {
@@ -780,6 +822,12 @@
             "hu": "Kerékpározzon az öböl mentén a legjobb kilátásért.",
             "ro": "Mergeți cu bicicleta de-a lungul golfului pentru cea mai bună priveliște.",
             "en": "Cycle along the bay for the best scenic views."
+          },
+          "tip_5lang": {
+            "de": "Fahren Sie langsam am Kanal entlang — die hölzernen Austernreihen sind fotogen.",
+            "hu": "Tekerj lassan a csatorna mentén, a fa osztrigaállványok remek fotótéma.",
+            "ro": "Pedalează lent de-a lungul canalului — instalațiile din lemn sunt foarte fotogenice.",
+            "en": "Ride slowly along the channel — the wooden oyster racks make a great photo."
           }
         },
         {
@@ -803,6 +851,12 @@
             "hu": "Európa egyik legrégebbi, ma is működő sólepárlója.",
             "ro": "Una dintre cele mai vechi saline active din Europa.",
             "en": "One of the oldest active salt pans in Europe."
+          },
+          "tip_5lang": {
+            "de": "Die Salinen sind seit dem 14. Jahrhundert in Betrieb; ein lohnender Umweg.",
+            "hu": "A sópárlók a 14. század óta működnek; rövid kitérő, ami megéri.",
+            "ro": "Salinele funcționează din secolul al XIV-lea; un mic ocol merită făcut.",
+            "en": "The salt pans operate since the 14th century; a short detour rewards curiosity."
           }
         },
         {
@@ -826,6 +880,12 @@
             "hu": "Zárja le biztonságosan a kerékpárt a bejáratnál.",
             "ro": "Parcați bicicleta în siguranță la intrare.",
             "en": "Park your bike securely at the entrance."
+          },
+          "tip_5lang": {
+            "de": "Schieben Sie das Rad die Rampe hoch — die Aussicht oben lohnt sich.",
+            "hu": "Told fel a biciklit a meredek rámpán, a fenti kilátás megéri.",
+            "ro": "Împinge bicicleta pe rampa abruptă — priveliștea de sus merită efortul.",
+            "en": "Walk the bike up the steep ramp — the views from the top are worth it."
           }
         },
         {
@@ -849,29 +909,12 @@
             "hu": "Csendes megálló a Mali Stonba vezető visszaúton.",
             "ro": "O oprire liniștită la întoarcerea spre Mali Ston.",
             "en": "A peaceful stop on the way back to Mali Ston."
-          }
-        },
-        {
-          "name": {
-            "de": "Hafen von Mali Ston",
-            "hu": "Mali Ston kikötője",
-            "ro": "Portul Mali Ston",
-            "en": "Port of Mali Ston"
           },
-          "coords": [
-            17.7015,
-            42.8485
-          ],
-          "category": "port",
-          "arrive_at": "15:40",
-          "stay_min": 40,
-          "hop_from_prev_min": 10,
-          "hop_from_prev_km": 0.3,
-          "tip_4lang": {
-            "de": "Belohnen Sie sich mit einem Kaltgetränk am Wasser.",
-            "hu": "Jutalmazza meg magát egy hideg itallal a parton.",
-            "ro": "Răsplătiți-vă cu o băutură rece pe malul apei.",
-            "en": "Reward yourself with a cold drink by the water."
+          "tip_5lang": {
+            "de": "Ein kurzer Stopp für Schatten und Wasser im Kirchhof.",
+            "hu": "Rövid megálló árnyékért és vízért a templom udvarán.",
+            "ro": "O oprire scurtă pentru umbră și apă în curtea bisericii.",
+            "en": "A quick stop for shade and water at the church courtyard."
           }
         }
       ],
@@ -1477,6 +1520,12 @@
             "hu": "Parkolóhelyeket közvetlenül az erőd alatt talál.",
             "ro": "Găsiți locuri de parcare direct sub cetate.",
             "en": "Parking spaces are available directly below the fortress."
+          },
+          "tip_5lang": {
+            "de": "Kostenlose Parkplätze unterhalb der Festung; Aufstieg ca. zehn Minuten.",
+            "hu": "Ingyenes parkoló az erőd alatt; a felmenetel kb. tíz perc.",
+            "ro": "Parcare gratuită sub cetate; urcușul durează aproximativ zece minute.",
+            "en": "Free parking below the fortress; the climb takes about ten minutes."
           }
         },
         {
@@ -1500,6 +1549,12 @@
             "hu": "Használja a Ston bejáratánál lévő nagy parkolót.",
             "ro": "Folosiți parcarea mare de la intrarea în Ston.",
             "en": "Use the large parking lot at the entrance of Ston."
+          },
+          "tip_5lang": {
+            "de": "Einmal Ticket kaufen und die gesamten 5,5 km der Mauern erwandern.",
+            "hu": "Egyszer válts jegyet, és járd be a teljes 5,5 km falat.",
+            "ro": "Cumpără biletul o singură dată și parcurge toți cei 5,5 km de ziduri.",
+            "en": "Buy your ticket once and walk the whole 5.5 km of preserved walls."
           }
         },
         {
@@ -1523,6 +1578,12 @@
             "hu": "Látogassa meg a kis sómúzeumot a boltban.",
             "ro": "Vizitați micul muzeu al sării din magazin.",
             "en": "Visit the small salt museum inside the shop."
+          },
+          "tip_5lang": {
+            "de": "Kaufen Sie hier ein Tütchen handgeschöpftes Salz — ein essbares Souvenir.",
+            "hu": "Vegyél egy zacskó kézműves sót, ehető emléktárgy az úthoz.",
+            "ro": "Cumpără un săculeț de sare artizanală — un suvenir comestibil deosebit.",
+            "en": "Buy a small bag of artisan salt here — a unique edible souvenir."
           }
         },
         {
@@ -1546,6 +1607,12 @@
             "hu": "Gyönyörű homokos strand pár percnyi autóútra.",
             "ro": "O plajă superbă cu nisip la doar câteva minute de mers cu mașina.",
             "en": "A beautiful sandy beach just a few minutes' drive away."
+          },
+          "tip_5lang": {
+            "de": "Bringen Sie rutschfeste Sandalen mit — der Kieselstrand ist scharfkantig.",
+            "hu": "Hozz csúszásmentes szandált, a kavicsos part lépni élesen érzik.",
+            "ro": "Adu sandale aderente — pietrele plajei sunt ascuțite sub picioare.",
+            "en": "Bring grippy sandals — the pebble beach gets sharp underfoot."
           }
         },
         {
@@ -1569,6 +1636,12 @@
             "hu": "Kóstolja meg a régió híres vörösborát.",
             "ro": "Degustați renumitul vin roșu al regiunii.",
             "en": "Taste the famous red wine of the region."
+          },
+          "tip_5lang": {
+            "de": "Reservieren Sie eine Plavac-Mali-Verkostung auf der Weinbergterrasse.",
+            "hu": "Foglalj Plavac Mali kóstolót, a teraszról a szőlőkre látsz.",
+            "ro": "Rezervă o degustare de Plavac Mali pe terasa cu vedere la podgorii.",
+            "en": "Reserve a Plavac Mali tasting; sip on the terrace overlooking vineyards."
           }
         },
         {
@@ -1592,6 +1665,12 @@
             "hu": "Ideális helyszín egy záró vacsorához.",
             "ro": "Locul ideal pentru o cină de final.",
             "en": "The ideal place for a concluding dinner."
+          },
+          "tip_5lang": {
+            "de": "Beenden Sie die Runde mit Austern direkt an den Anlegeplätzen.",
+            "hu": "Zárd a kört osztrigával, közvetlenül a csónakkikötőnél.",
+            "ro": "Încheie traseul cu o gustare de stridii lângă locurile de acostare.",
+            "en": "End the loop with an oyster appetizer right by the boat moorings."
           }
         }
       ],
@@ -2173,7 +2252,7 @@
       "speed_kmh": 15,
       "start": "09:00",
       "end_estimate": "16:45",
-      "total_km": 6.5,
+      "total_km": 4.3,
       "stop_count": 5,
       "stops": [
         {
@@ -2197,6 +2276,12 @@
             "hu": "Előre tájékozódjon az indulási időpontokról.",
             "ro": "Informați-vă în prealabil despre orele de plecare.",
             "en": "Check the departure times in advance."
+          },
+          "tip_5lang": {
+            "de": "Busse fahren selten — prüfen Sie den Libertas-Fahrplan vor dem Aufbruch.",
+            "hu": "A buszok ritkák, indulás előtt nézd meg a Libertas menetrendet.",
+            "ro": "Autobuzele sunt rare — verifică orarul Libertas înainte să pleci din stație.",
+            "en": "Buses are infrequent — check Libertas timetable before you leave the stop."
           }
         },
         {
@@ -2220,6 +2305,12 @@
             "hu": "Ston központjából kényelmesen, gyalog is elérhető.",
             "ro": "Accesibil ușor pe jos din centrul localității Ston.",
             "en": "Easily accessible on foot from the center of Ston."
+          },
+          "tip_5lang": {
+            "de": "Zehn Minuten Umweg, doch der Geruch von Salzlake bleibt unvergesslich.",
+            "hu": "Tíz perces kitérő az úttól, de a sós illat felejthetetlen.",
+            "ro": "Un ocol de zece minute, dar mirosul de saramură rămâne neuitat.",
+            "en": "A 10-minute detour from the road, but the smell of brine is unforgettable."
           }
         },
         {
@@ -2243,6 +2334,12 @@
             "hu": "A bejárat a buszparkoló közelében található.",
             "ro": "Intrarea se află lângă parcarea pentru autobuze.",
             "en": "The entrance is located near the bus parking area."
+          },
+          "tip_5lang": {
+            "de": "Kombinieren Sie den Mauerspaziergang mit einem Stopp im Salzladen.",
+            "hu": "Kombináld a falsétát a sókereskedés meglátogatásával.",
+            "ro": "Combină plimbarea pe ziduri cu o oprire la magazinul cu sare.",
+            "en": "Combine your walk on the walls with a stop at the salt-cellar shop."
           }
         },
         {
@@ -2266,6 +2363,12 @@
             "hu": "Élvezzen egy bőséges ebédet a kikötőben.",
             "ro": "Savurați un prânz copios în port.",
             "en": "Enjoy a leisurely lunch at the harbor."
+          },
+          "tip_5lang": {
+            "de": "Setzen Sie sich auf die Hafenmauer und beobachten die Austernanlandung.",
+            "hu": "Ülj a kikötőfalra, és nézd, ahogy a csónakok kirakodják az osztrigát.",
+            "ro": "Stai pe zidul portului și privește bărcile descărcând recolta de stridii.",
+            "en": "Sit on the harbor wall and watch boats unload the morning's oyster harvest."
           }
         },
         {
@@ -2289,6 +2392,12 @@
             "hu": "Utolsó megálló a buszos hazautazás előtt.",
             "ro": "Ultima oprire înainte de călătoria de întoarcere.",
             "en": "Last stop before heading back by bus."
+          },
+          "tip_5lang": {
+            "de": "Letzter Halt vor der Rückfahrt — steigen Sie für einen letzten Blick hinauf.",
+            "hu": "Utolsó megálló a visszaút előtt, mássz fel egy búcsúpillantásért.",
+            "ro": "Ultima oprire înainte de întoarcere — urcă pentru o privire de rămas-bun.",
+            "en": "Last stop before your return — climb up for one final view of the bay."
           }
         }
       ],

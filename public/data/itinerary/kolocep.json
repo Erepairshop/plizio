@@ -13,7 +13,7 @@
       "speed_kmh": 3.0,
       "start": "09:00",
       "end_estimate": "17:15",
-      "total_km": 4.5,
+      "total_km": 6.7,
       "stop_count": 6,
       "stops": [
         {
@@ -703,8 +703,8 @@
       "speed_kmh": 10.0,
       "start": "09:00",
       "end_estimate": "16:45",
-      "total_km": 10.0,
-      "stop_count": 5,
+      "total_km": 8.0,
+      "stop_count": 4,
       "stops": [
         {
           "name": "Dorf Donje Čelo",
@@ -776,24 +776,6 @@
             "hu": "A kerékpártúra legjobb kilátópontja.",
             "ro": "Cel mai bun punct de belvedere al turului.",
             "en": "Best viewpoint of the bike tour."
-          }
-        },
-        {
-          "name": "Dorf Donje Čelo",
-          "coords": [
-            17.9885,
-            42.6805
-          ],
-          "category": "squares/old-town",
-          "arrive_at": "14:15",
-          "stay_min": 120,
-          "hop_from_prev_min": 50,
-          "hop_from_prev_km": 4.5,
-          "tip_5lang": {
-            "de": "Entspannung am Strand zum Abschluss.",
-            "hu": "Pihenés a strandon a végén.",
-            "ro": "Relaxare pe plajă la final.",
-            "en": "Relaxation at the beach to finish."
           }
         }
       ],
@@ -1236,7 +1218,7 @@
       "speed_kmh": 18.0,
       "start": "09:00",
       "end_estimate": "16:30",
-      "total_km": 15.0,
+      "total_km": 11.0,
       "stop_count": 4,
       "stops": [
         {
@@ -1724,8 +1706,8 @@
       "speed_kmh": 15.0,
       "start": "09:00",
       "end_estimate": "17:00",
-      "total_km": 12.0,
-      "stop_count": 4,
+      "total_km": 5.5,
+      "stop_count": 3,
       "stops": [
         {
           "name": "Dorf Donje Čelo",
@@ -1779,24 +1761,6 @@
             "hu": "Kulturális örökség a sziget központjában.",
             "ro": "Patrimoniu cultural în centrul insulei.",
             "en": "Cultural heritage in the island center."
-          }
-        },
-        {
-          "name": "Dorf Donje Čelo",
-          "coords": [
-            17.9885,
-            42.6805
-          ],
-          "category": "squares/old-town",
-          "arrive_at": "14:15",
-          "stay_min": 150,
-          "hop_from_prev_min": 55,
-          "hop_from_prev_km": 4.5,
-          "tip_5lang": {
-            "de": "Warten auf die Abendfähre am Sandstrand.",
-            "hu": "Várakozás az esti kompra a homokos strandon.",
-            "ro": "Așteptarea feribotului de seară pe plaja cu nisip.",
-            "en": "Waiting for the evening ferry at the sandy beach."
           }
         }
       ],

@@ -32,6 +32,12 @@
             "hu": "Tökéletes találkozóhely az óváros bejáratánál.",
             "ro": "Locul perfect de întâlnire la intrarea în orașul vechi.",
             "en": "The perfect meeting spot at the entrance to the old town."
+          },
+          "tip_5lang": {
+            "de": "Guter Treffpunkt; gleich daneben erhebt sich der Christophorus-Turm.",
+            "hu": "Remek találkozási pont, mellette a Szent Kristóf harangtorony magasodik.",
+            "ro": "Loc bun de întâlnire; alături se înalță clopotnița Sfântului Cristofor.",
+            "en": "A great meeting point; the bell tower of St. Christopher rises just beside."
           }
         },
         {
@@ -50,6 +56,12 @@
             "hu": "A 'Felső utca' ad otthont a négy híres harangtoronynak.",
             "ro": "Strada de Sus găzduiește cele patru faimoase clopotnițe.",
             "en": "The 'Upper Street' houses the four famous bell towers."
+          },
+          "tip_5lang": {
+            "de": "Die obere Gasse langsam gehen — die höchste und ruhigste der drei.",
+            "hu": "Lassan járd a felső utcát, ez a legmagasabb és legcsendesebb a három közül.",
+            "ro": "Plimbă-te încet pe strada de sus — cea mai înaltă și mai liniștită dintre cele trei.",
+            "en": "Walk the upper street slowly — it's the loftiest and quietest of the three."
           }
         },
         {
@@ -68,6 +80,12 @@
             "hu": "Ma egy kis egyházművészeti múzeum működik itt.",
             "ro": "Astăzi găzduiește un mic muzeu de artă sacră.",
             "en": "Today it houses a small museum of sacred art."
+          },
+          "tip_5lang": {
+            "de": "Kleines Sakralkunstmuseum drinnen — Eintritt mit Sprachführer inklusive.",
+            "hu": "Apró egyházművészeti múzeum belül, a belépővel idegenvezető is jár.",
+            "ro": "Mic muzeu de artă sacră înăuntru — biletul include un ghid local.",
+            "en": "Tiny sacred art museum inside — entry includes a local-language guide."
           }
         },
         {
@@ -86,6 +104,12 @@
             "hu": "A sziget egyik legszebb gótikus épülete.",
             "ro": "Una dintre cele mai frumoase clădiri gotice de pe insulă.",
             "en": "One of the most beautiful Gothic buildings on the island."
+          },
+          "tip_5lang": {
+            "de": "Schauen Sie hoch zu den Renaissance-Fenstern — die schönsten an der Adria.",
+            "hu": "Nézz fel a reneszánsz ablakokra, az Adria legszebbjei között vannak.",
+            "ro": "Privește ferestrele renascentiste — printre cele mai frumoase de pe Adriatica.",
+            "en": "Look up at the Renaissance windows — among the finest on the Adriatic."
           }
         },
         {
@@ -104,6 +128,12 @@
             "hu": "Csodálja meg mellette a Mária-harangtornyot.",
             "ro": "Admirați clopotnița Mariei chiar lângă ea.",
             "en": "Admire the bell tower of Mary right next to it."
+          },
+          "tip_5lang": {
+            "de": "Auf den Glockenturm steigen für den Postkartenblick auf Rabs vier Türme.",
+            "hu": "Mássz fel a harangtoronyra a négy templomtornyos képeslapi kilátásért.",
+            "ro": "Urcă în clopotniță pentru priveliștea-carte poștală a celor patru turle.",
+            "en": "Climb the bell tower for the postcard view of Rab's four steeples."
           }
         },
         {
@@ -122,6 +152,12 @@
             "hu": "Pihenjen a magas fenyők és ciprusok árnyékában.",
             "ro": "Relaxați-vă la umbra pinilor și chiparoșilor înalți.",
             "en": "Relax in the shade of tall pines and cypresses."
+          },
+          "tip_5lang": {
+            "de": "Schließen Sie unter hundertjährigen Pinien ab — perfekte Mittagspause.",
+            "hu": "Zárj egy padon évszázados fenyők alatt, tökéletes déli felfrissülés.",
+            "ro": "Încheie pe o bancă umbrită sub pini centenari — răcoare perfectă la prânz.",
+            "en": "End with a shaded bench under century-old pines — perfect midday cooldown."
           }
         }
       ],
@@ -612,6 +648,12 @@
             "hu": "Jó kiindulópont a tengerparti kerékpártúrákhoz.",
             "ro": "Punct bun de plecare pentru excursii cu bicicleta pe coastă.",
             "en": "Good starting point for bike tours along the coast."
+          },
+          "tip_5lang": {
+            "de": "Mit Kaffee am Platz starten, bevor die Küstenstrecke beginnt.",
+            "hu": "Indíts egy kávéval a téren, mielőtt nekivágsz a tengerparti útnak.",
+            "ro": "Începe cu o cafea în piață înainte de a porni pe traseul de coastă.",
+            "en": "Start with a coffee on the square before tackling the coastal route."
           }
         },
         {
@@ -630,6 +672,12 @@
             "hu": "A város legrégebbi része kanyargós utcákkal.",
             "ro": "Cea mai veche parte a orașului cu străzi întortocheate.",
             "en": "The oldest part of the town with winding alleys."
+          },
+          "tip_5lang": {
+            "de": "Das Rad durch die engen Kaldanac-Gassen schieben — Steintreppen.",
+            "hu": "Told a biciklit a szűk Kaldanac sikátorokon, kőlépcsősek.",
+            "ro": "Împinge bicicleta prin străduțele înguste din Kaldanac — sunt trepte de piatră.",
+            "en": "Push your bike through the narrow Kaldanac alleys — they're stone steps."
           }
         },
         {
@@ -648,6 +696,12 @@
             "hu": "Történelmi emlékhely a felső városrészben.",
             "ro": "Un loc plin de istorie în partea de sus a orașului.",
             "en": "A place steeped in history in the upper town."
+          },
+          "tip_5lang": {
+            "de": "Rad an die Mauer lehnen und das dachlose Kirchenschiff zu Fuß erkunden.",
+            "hu": "Támaszd a biciklit a falhoz, és gyalog járd be a tető nélküli hajót.",
+            "ro": "Sprijină bicicleta de zid și plimbă-te pe jos prin nava fără acoperiș.",
+            "en": "Lean your bike on the wall and explore the roofless nave on foot."
           }
         },
         {
@@ -666,6 +720,12 @@
             "hu": "Itt évszázadok óta ápolják a hagyományokat.",
             "ro": "Aici tradiția este păstrată de secole.",
             "en": "Tradition has been maintained here for centuries."
+          },
+          "tip_5lang": {
+            "de": "Aktives Benediktinerkloster — beim Betreten zurückhaltende Kleidung.",
+            "hu": "Működő bencés kolostor, belépéskor szerény öltözet kötelező.",
+            "ro": "Mănăstire benedictină activă — ținută modestă necesară la intrare.",
+            "en": "Active Benedictine monastery — modest dress required if you enter."
           }
         },
         {
@@ -684,6 +744,12 @@
             "hu": "Hajtson lassan az erdős parkon keresztül.",
             "ro": "Pedalați încet prin parcul împădurit.",
             "en": "Cycle slowly through the forested park."
+          },
+          "tip_5lang": {
+            "de": "Breite Schotterwege durch Pinienwald machen den Schluss leicht.",
+            "hu": "Széles murvás utak a fenyvesben, könnyű befejezés a túrához.",
+            "ro": "Aleile largi de pietriș prin pădurea de pini fac finalul ușor.",
+            "en": "Wide gravel paths through pine forest make this an easy ride to finish."
           }
         }
       ],
@@ -1101,7 +1167,7 @@
       "speed_kmh": 22,
       "start": "09:00",
       "end_estimate": "15:15",
-      "total_km": 30.0,
+      "total_km": 24.8,
       "stop_count": 5,
       "stops": [
         {
@@ -1120,6 +1186,12 @@
             "hu": "Nagy nyilvános parkoló közvetlenül a kikötőnél.",
             "ro": "Parcare publică mare chiar lângă port.",
             "en": "Large public parking lot right by the harbor."
+          },
+          "tip_5lang": {
+            "de": "Bezahlplatz im Juli ab neun voll; kleine Euromünzen bereithalten.",
+            "hu": "Júliusban kilencre megtelik a fizetős parkoló, készíts apró eurót.",
+            "ro": "Parcarea cu plată se umple până la ora 9 vara; pregătește mărunțiș.",
+            "en": "Paid lot fills by 9 a.m. in July; have small euro coins ready."
           }
         },
         {
@@ -1138,6 +1210,12 @@
             "hu": "Horvátország egyik leghíresebb homokos strandja.",
             "ro": "Una dintre cele mai renumite plaje cu nisip din Croația.",
             "en": "One of Croatia's most famous sandy beaches."
+          },
+          "tip_5lang": {
+            "de": "Berühmter Sandstrand — Sonnenschirm mitbringen, kaum natürlicher Schatten.",
+            "hu": "Híres homokos strand, hozz napernyőt, alig van természetes árnyék.",
+            "ro": "Plajă faimoasă cu nisip — adu o umbrelă, umbra naturală e foarte puțină.",
+            "en": "Famous sandy beach — bring an umbrella, there's almost no natural shade."
           }
         },
         {
@@ -1156,6 +1234,12 @@
             "hu": "Visszatérés Rab város szívébe.",
             "ro": "Revenire în inima orașului Rab.",
             "en": "Return to the heart of Rab town."
+          },
+          "tip_5lang": {
+            "de": "Einheimische treffen sich hier abends — eine Rapska torta zum Teilen bestellen.",
+            "hu": "Helyiek esti gyülekezőhelye, rendelj Rapska tortát közös fogyasztásra.",
+            "ro": "Localnicii se adună aici seara — comandă o Rapska torta de împărțit.",
+            "en": "Locals gather here in the cooler evening — order a Rapska torta to share."
           }
         },
         {
@@ -1174,6 +1258,12 @@
             "hu": "A történelmi belső terek meglátogatása.",
             "ro": "Vizita interioarelor istorice.",
             "en": "Visit the historic interiors."
+          },
+          "tip_5lang": {
+            "de": "Nach Abendkonzerten fragen; im Hof klassische Musik im Sommer.",
+            "hu": "Kérdezz az esti koncertekről, az udvar nyáron klasszikus zenei helyszín.",
+            "ro": "Întreabă despre concertele de seară; curtea găzduiește muzică clasică vara.",
+            "en": "Ask about evening concerts; the courtyard hosts classical music in summer."
           }
         },
         {
@@ -1192,6 +1282,12 @@
             "hu": "Az egész sziget legszebb kilátópontja.",
             "ro": "Cel mai frumos punct de observație de pe întreaga insulă.",
             "en": "The most beautiful viewpoint on the entire island."
+          },
+          "tip_5lang": {
+            "de": "Der höchste der vier Glockentürme Rabs — eine romantische Abendsilhouette.",
+            "hu": "Rab négy harangtornya közül a legmagasabb, romantikus alkonyati sziluett.",
+            "ro": "Cea mai înaltă dintre cele patru clopotnițe — siluetă romantică la apus.",
+            "en": "The tallest of Rab's four bell towers — a romantic dusk silhouette."
           }
         }
       ],
@@ -1609,7 +1705,7 @@
       "speed_kmh": 18,
       "start": "09:00",
       "end_estimate": "12:55",
-      "total_km": 2.5,
+      "total_km": 1.9,
       "stop_count": 5,
       "stops": [
         {
@@ -1628,6 +1724,12 @@
             "hu": "A Mišnjak kompállomástól érkező buszok megállóhelye.",
             "ro": "Locul de sosire pentru autobuzele din portul de feribot Mišnjak.",
             "en": "Arrival point for buses from the Mišnjak ferry port."
+          },
+          "tip_5lang": {
+            "de": "Die meisten Busse von Mišnjak enden hier — Rückfahrtickets am Kiosk kaufen.",
+            "hu": "A legtöbb Mišnjak-kompról jövő busz itt áll meg, jegyet a kioszkban vegyél.",
+            "ro": "Majoritatea autobuzelor de la feribotul Mišnjak ajung aici — bilet la chioșc.",
+            "en": "Most buses from Mišnjak ferry terminate here — buy return tickets at the kiosk."
           }
         },
         {
@@ -1646,6 +1748,12 @@
             "hu": "A buszpályaudvar közvetlen közelében.",
             "ro": "În imediata apropiere a autogării.",
             "en": "In the immediate vicinity of the bus station."
+          },
+          "tip_5lang": {
+            "de": "Vom Platz aus führt jede Gasse zu einem fotogenen verborgenen Winkel.",
+            "hu": "A térről minden sikátor egy elrejtett, fotózásra érdemes sarokhoz vezet.",
+            "ro": "Din piață, fiecare alee duce către un colț ascuns demn de fotografiat.",
+            "en": "From the square, every alley leads to a hidden corner worth photographing."
           }
         },
         {
@@ -1664,6 +1772,12 @@
             "hu": "Az óváros központi történelmi pontja.",
             "ro": "Punctul istoric central al orașului vechi.",
             "en": "Central historical point of the old town."
+          },
+          "tip_5lang": {
+            "de": "Hier verlangsamen — der Loggia-Hof zeigt oft kostenlose Kunstausstellungen.",
+            "hu": "Lassíts itt, a loggia udvar gyakran ingyenes kiállításoknak ad otthont.",
+            "ro": "Încetinește aici — curtea loggiei găzduiește des expoziții gratuite de artă.",
+            "en": "Slow down here — the loggia courtyard often hosts free art exhibitions."
           }
         },
         {
@@ -1682,6 +1796,12 @@
             "hu": "Gyalogosan jól megközelíthető.",
             "ro": "Ușor de accesat pe jos.",
             "en": "Well accessible on foot."
+          },
+          "tip_5lang": {
+            "de": "Den Domturm zu besteigen ist die beste Aktivität in Rab — hinauf!",
+            "hu": "A katedrális tornyának megmászása Rab legjobb élménye, mássz fel.",
+            "ro": "Urcușul în clopotnița catedralei e cea mai bună activitate din Rab — urcă.",
+            "en": "Climbing the cathedral tower is the single best activity in Rab — go up."
           }
         },
         {
@@ -1700,6 +1820,12 @@
             "hu": "Szép séta vissza a buszpályaudvarhoz.",
             "ro": "O plimbare frumoasă înapoi la autogară.",
             "en": "A nice walk back to the bus station."
+          },
+          "tip_5lang": {
+            "de": "Unter Pinien abkühlen, bevor der letzte Bus zur Fähre kommt.",
+            "hu": "Hűsölj a fenyők alatt, mielőtt az utolsó busszal indulsz a kompra.",
+            "ro": "Răcorește-te sub pini înainte de a prinde ultimul autobuz spre feribot.",
+            "en": "Cool down under pines before catching the last bus back to your ferry."
           }
         }
       ],

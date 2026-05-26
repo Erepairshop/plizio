@@ -55,8 +55,8 @@
         {
           "name": "Đorđić-Mayneri Park",
           "coords": [
-            17.949,
-            17.949
+            17.9462,
+            42.6841
           ],
           "category": "parks/promenades/beaches",
           "arrive_at": "11:50",
@@ -623,7 +623,7 @@
       "speed_kmh": 10,
       "start": "09:00",
       "end_estimate": "17:30",
-      "total_km": 6.5,
+      "total_km": 5.5,
       "stop_count": 5,
       "stops": [
         {
@@ -1148,7 +1148,7 @@
       "speed_kmh": 18,
       "start": "09:00",
       "end_estimate": "16:00",
-      "total_km": 5.0,
+      "total_km": 4.1,
       "stop_count": 4,
       "stops": [
         {

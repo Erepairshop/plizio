@@ -13,7 +13,7 @@
       "speed_kmh": 4,
       "start": "09:00",
       "end_estimate": "17:30",
-      "total_km": 5.2,
+      "total_km": 9.0,
       "stop_count": 6,
       "stops": [
         {
@@ -584,7 +584,7 @@
       "start": "09:00",
       "end_estimate": "15:00",
       "total_km": 15.5,
-      "stop_count": 7,
+      "stop_count": 6,
       "stops": [
         {
           "name": "Kaštilac Festung",
@@ -1153,8 +1153,8 @@
       "speed_kmh": 22,
       "start": "09:00",
       "end_estimate": "18:00",
-      "total_km": 25.0,
-      "stop_count": 8,
+      "total_km": 35.0,
+      "stop_count": 7,
       "stops": [
         {
           "name": "Kaštilac Festung",

@@ -37,6 +37,12 @@
             "hu": "A régió római kori leleteinek kis gyűjteménye.",
             "ro": "Mică colecție de artefacte romane din regiune.",
             "en": "Small collection of Roman finds from the region."
+          },
+          "tip_5lang": {
+            "de": "Klingeln Sie am Eingang, der Kurator öffnet auf Anfrage auch außerhalb der Zeiten.",
+            "hu": "Csengessen a bejáratnál, a kurátor nyitvatartáson kívül is megnyitja kérésre.",
+            "ro": "Sunați la intrare, custodele deschide la cerere și în afara orelor.",
+            "en": "Ring the bell at the entrance — the curator often opens on request, off-hours too."
           }
         },
         {
@@ -60,6 +66,12 @@
             "hu": "A templom egy kis dombon található.",
             "ro": "Biserica este situată pe o mică colină.",
             "en": "The church is located on a small hill."
+          },
+          "tip_5lang": {
+            "de": "Die geschnitzte Holzkanzel im Inneren stammt aus dem 18. Jahrhundert.",
+            "hu": "A belső faragott fa szószék a 18. századból származik.",
+            "ro": "Amvonul sculptat din lemn din interior datează din secolul al XVIII-lea.",
+            "en": "The carved wooden pulpit inside dates back to the eighteenth century."
           }
         },
         {
@@ -83,6 +95,12 @@
             "hu": "Maradványok a törökellenes harcok idejéből.",
             "ro": "Rămășițe din timpul luptelor împotriva turcilor.",
             "en": "Remains from the time of the struggle against the Turks."
+          },
+          "tip_5lang": {
+            "de": "Tragen Sie feste Schuhe — der Aufstieg zur Festung ist steinig und uneben.",
+            "hu": "Vegyen erős cipőt, az erődhöz vezető út köves és egyenetlen.",
+            "ro": "Purtați încălțăminte fermă, urcușul către cetate este pietros și inegal.",
+            "en": "Wear sturdy shoes — the climb to the fortress is rocky and uneven."
           }
         },
         {
@@ -106,6 +124,12 @@
             "hu": "Számos kávézó hívogat egy ebédszünetre.",
             "ro": "Numeroase cafenele vă invită la o pauză de prânz.",
             "en": "Numerous cafes invite you for a lunch break."
+          },
+          "tip_5lang": {
+            "de": "Am östlichen Ende gibt es einen kostenlosen Trinkbrunnen, ideal zum Auffüllen.",
+            "hu": "A keleti végén ingyenes ivókút található, jó hely a kulacs feltöltésére.",
+            "ro": "La capătul estic se află o fântână gratuită, ideală pentru a umple sticla.",
+            "en": "At the eastern end there's a free drinking fountain — handy to refill your bottle."
           }
         },
         {
@@ -129,6 +153,12 @@
             "hu": "A Riviéra egyik leghosszabb és legszebb strandja.",
             "ro": "Una dintre cele mai lungi și frumoase plaje de pe rivieră.",
             "en": "One of the longest and most beautiful beaches on the Riviera."
+          },
+          "tip_5lang": {
+            "de": "Bringen Sie Badeschuhe mit, der Kiesel ist hier ungewöhnlich scharfkantig.",
+            "hu": "Hozzon strandcipőt, az itteni kavics szokatlanul éles szélű.",
+            "ro": "Aduceți încălțăminte de apă, pietrișul este aici neobișnuit de tăios.",
+            "en": "Bring water shoes — the pebbles here are unusually sharp underfoot."
           }
         },
         {
@@ -152,6 +182,12 @@
             "hu": "Meredek emelkedő, de a kilátás megéri.",
             "ro": "Urcare abruptă, dar priveliștea merită.",
             "en": "Steep climb, but the view is worth it."
+          },
+          "tip_5lang": {
+            "de": "Bei klarem Wetter sieht man von hier bis zur Halbinsel Pelješac.",
+            "hu": "Tiszta időben innen egészen a Pelješac-félszigetig ellát.",
+            "ro": "Pe vreme senină, de aici se vede până la peninsula Pelješac.",
+            "en": "On clear days you can see all the way to the Pelješac peninsula from here."
           }
         }
       ],

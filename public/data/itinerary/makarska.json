@@ -37,6 +37,12 @@
             "hu": "Látogassa meg a reggeli virágpiacot.",
             "ro": "Vizitați piața de flori de dimineață.",
             "en": "Visit the morning flower market."
+          },
+          "tip_5lang": {
+            "de": "Das Kačić-Denkmal in der Mitte ehrt den dalmatinischen Dichter Andrija Kačić Miošić.",
+            "hu": "A téren álló Kačić-szobor a dalmát költőnek, Andrija Kačić Miošićnak állít emléket.",
+            "ro": "Statuia Kačić din centru îl onorează pe poetul dalmațian Andrija Kačić Miošić.",
+            "en": "The Kačić statue at its centre honours Dalmatian poet Andrija Kačić Miošić."
           }
         },
         {
@@ -60,6 +66,12 @@
             "hu": "Csodálja meg az ezüst oltárt odabent.",
             "ro": "Admirați altarul de argint din interior.",
             "en": "Admire the silver altar inside."
+          },
+          "tip_5lang": {
+            "de": "Treten Sie ein — der Marmorboden und die barocken Altäre sind beeindruckend.",
+            "hu": "Lépjen be, a márványpadló és a barokk oltárok lenyűgözőek.",
+            "ro": "Intrați, pardoseala de marmură și altarele baroce sunt impresionante.",
+            "en": "Step inside — the marble floor and Baroque side altars are quietly impressive."
           }
         },
         {
@@ -83,6 +95,12 @@
             "hu": "A világ egyik legnagyobb kagylógyűjteménye.",
             "ro": "Una dintre cele mai mari colecții de scoici.",
             "en": "One of the world's largest shell collections."
+          },
+          "tip_5lang": {
+            "de": "Die Muschelsammlung umfasst über 3000 Arten — etwa eine Stunde einplanen.",
+            "hu": "A kagylógyűjtemény több mint 3000 fajt foglal magába, számoljon egy órát.",
+            "ro": "Colecția de scoici cuprinde peste 3000 de specii, alocați aproximativ o oră.",
+            "en": "The shell collection covers more than 3,000 species — allow about an hour."
           }
         },
         {
@@ -106,6 +124,12 @@
             "hu": "Tökéletes egy kávéhoz a pálmák árnyékában.",
             "ro": "Perfect pentru o cafea la umbra palmierilor.",
             "en": "Perfect for a coffee in the shade of palms."
+          },
+          "tip_5lang": {
+            "de": "Der Sonnenuntergang hinter der Halbinsel Sveti Petar ist hier am schönsten.",
+            "hu": "A naplemente a Szent Péter-félsziget mögött innen a legszebb látvány.",
+            "ro": "Apusul de soare în spatele peninsulei Sveti Petar este cel mai frumos de aici.",
+            "en": "Sunset behind the Sveti Petar peninsula looks its best from this stretch."
           }
         },
         {
@@ -129,6 +153,12 @@
             "hu": "Akasszon egy lakatot a szerelmesek kerítésére.",
             "ro": "Puneți un lacăt al iubirii pe gard.",
             "en": "Hang a love lock on the fence."
+          },
+          "tip_5lang": {
+            "de": "Die Statue zeigt Petrus mit Schlüsseln, eine Bronze von Ivan Meštrović-Schule.",
+            "hu": "A szobor Pétert kulcsokkal ábrázolja, Meštrović-iskolához tartozó bronzmű.",
+            "ro": "Statuia îl arată pe Petru cu chei, un bronz al școlii lui Meštrović.",
+            "en": "The bronze shows Peter with the keys, sculpted in the Meštrović school style."
           }
         },
         {
@@ -152,6 +182,12 @@
             "hu": "Remek hely a városi panorámafotókhoz.",
             "ro": "Loc excelent pentru fotografii panoramice.",
             "en": "Great spot for panoramic photos of the city."
+          },
+          "tip_5lang": {
+            "de": "Auf dem Weg zum Leuchtturm liegt eine kleine, oft leere Kiesbucht.",
+            "hu": "A világítótoronyhoz vezető úton egy kis, gyakran üres kavicsos öböl rejtőzik.",
+            "ro": "Pe drumul către far se află un mic golf cu pietriș, adesea gol.",
+            "en": "On the way to the lighthouse you'll pass a small, often-empty pebble cove."
           }
         },
         {
@@ -175,6 +211,12 @@
             "hu": "A francia korszak történelmi tanúja.",
             "ro": "O mărturie istorică a epocii franceze.",
             "en": "A historical witness of the French era."
+          },
+          "tip_5lang": {
+            "de": "Das Denkmal erinnert an die kurze, aber prägende französische Verwaltung 1806-1813.",
+            "hu": "Az emlékmű a rövid, de meghatározó francia kormányzásra emlékeztet (1806-1813).",
+            "ro": "Monumentul amintește de scurta dar marcanta administrație franceză 1806-1813.",
+            "en": "The monument recalls the brief but formative French rule of 1806-1813."
           }
         }
       ],
@@ -887,6 +929,12 @@
             "hu": "Kora reggel itt a legnagyobb a nyugalom.",
             "ro": "Este cel mai liniștit aici dimineața devreme.",
             "en": "It is most peaceful here early in the morning."
+          },
+          "tip_5lang": {
+            "de": "Auf der Riva ist Radfahren nur außerhalb der Saison erlaubt — schieben Sie im Sommer.",
+            "hu": "A Riván csak szezonon kívül szabad biciklizni, nyáron tolja a kerékpárt.",
+            "ro": "Pe Riva, ciclismul este permis doar în afara sezonului, vara împingeți bicicleta.",
+            "en": "Cycling on the Riva is only allowed off-season — walk your bike in summer."
           }
         },
         {
@@ -910,6 +958,12 @@
             "hu": "A kerékpárút közvetlenül a tenger mellett halad.",
             "ro": "Pista de biciclete trece chiar pe lângă mare.",
             "en": "The bike path runs right along the sea."
+          },
+          "tip_5lang": {
+            "de": "Der Weg zum Leuchtturm hat ein leichtes Gefälle — angenehm bergab.",
+            "hu": "A világítótoronyhoz vezető út enyhén lejt, kellemes lefelé tekerni.",
+            "ro": "Drumul către far are o pantă ușoară, plăcut la coborâre cu bicicleta.",
+            "en": "The path to the lighthouse has a gentle gradient — a pleasant downhill spin."
           }
         },
         {
@@ -933,6 +987,12 @@
             "hu": "Élvezze a tenger felől érkező szellőt.",
             "ro": "Bucurați-vă de briza mării.",
             "en": "Enjoy the breeze coming from the sea."
+          },
+          "tip_5lang": {
+            "de": "Hier gibt es feste Fahrradständer, etwas seltener und meist frei.",
+            "hu": "Itt vannak rögzített kerékpártartók, viszonylag ritkán használtak.",
+            "ro": "Aici există suporturi fixe pentru biciclete, rar folosite și de obicei libere.",
+            "en": "Fixed bike racks here are rarely full and almost always have a free slot."
           }
         },
         {
@@ -956,6 +1016,12 @@
             "hu": "Kellemes tekerés a fenyőfák árnyékában.",
             "ro": "O plimbare plăcută la umbra pinilor.",
             "en": "A pleasant ride in the shade of pine trees."
+          },
+          "tip_5lang": {
+            "de": "Die letzten 800 Meter sind unbefestigt, fahren Sie langsam und vorsichtig.",
+            "hu": "Az utolsó 800 méter földút, lassan és óvatosan tekerjen.",
+            "ro": "Ultimii 800 de metri sunt nepavați, mergeți încet și cu grijă.",
+            "en": "The final 800 metres are unpaved — ride slowly and watch your line."
           }
         },
         {
@@ -979,6 +1045,12 @@
             "hu": "Kis emelkedő, amely megéri a kilátásért.",
             "ro": "O mică urcare care merită pentru priveliște.",
             "en": "A small climb that is worth it for the view."
+          },
+          "tip_5lang": {
+            "de": "Die Sternwarte liegt am Hang — der letzte Aufstieg ist steil, ein E-Bike hilft.",
+            "hu": "A csillagvizsgáló dombon áll, az utolsó emelkedő meredek, e-bike-kal könnyebb.",
+            "ro": "Observatorul este pe deal, ultima urcare este abruptă, un e-bike ajută.",
+            "en": "The observatory sits on a hillside — the last climb is steep; an e-bike helps."
           }
         }
       ],
@@ -1533,6 +1605,12 @@
             "hu": "A legjobb a buszpályaudvarnál parkolni.",
             "ro": "Cel mai bine este să parcați la autogară.",
             "en": "Best to park near the bus station."
+          },
+          "tip_5lang": {
+            "de": "Der Platz ist autofrei — der nächste kostenpflichtige Parkplatz liegt 300 Meter entfernt.",
+            "hu": "A tér forgalom elől elzárt, a legközelebbi fizetős parkoló 300 méterre van.",
+            "ro": "Piața este pietonală, cea mai apropiată parcare cu plată este la 300 de metri.",
+            "en": "The square is pedestrianised — the nearest paid car park is 300 metres away."
           }
         },
         {
@@ -1556,6 +1634,12 @@
             "hu": "Egy régi ferences kolostorban található.",
             "ro": "Se află într-o veche mănăstire franciscană.",
             "en": "Located in an old Franciscan monastery."
+          },
+          "tip_5lang": {
+            "de": "Vor dem Museum stehen einige Behindertenparkplätze, die strikt kontrolliert werden.",
+            "hu": "A múzeum előtt mozgáskorlátozott helyek vannak, ezeket szigorúan ellenőrzik.",
+            "ro": "În fața muzeului sunt locuri pentru persoane cu dizabilități, strict controlate.",
+            "en": "The spots outside the museum are disabled-only and are checked strictly."
           }
         },
         {
@@ -1579,6 +1663,12 @@
             "hu": "A Skywalk látványos üvegpadlós kilátást nyújt.",
             "ro": "Skywalk oferă o priveliște spectaculoasă prin podeaua de sticlă.",
             "en": "The Skywalk offers spectacular glass-floor views."
+          },
+          "tip_5lang": {
+            "de": "Die Bergstraße ist eng und einspurig — fragen Sie nach den Anmeldezeiten am Eingang.",
+            "hu": "A hegyi út keskeny és egysávos, érdeklődjön a bejáratnál az időablakokról.",
+            "ro": "Drumul de munte este îngust și cu o singură bandă, întrebați despre orarul la intrare.",
+            "en": "The mountain road is narrow and single-lane — ask about timed entry slots at the gate."
           }
         },
         {
@@ -1602,6 +1692,12 @@
             "hu": "Nagy ingyenes parkoló közvetlenül a bejáratnál.",
             "ro": "Parcare mare gratuită chiar la intrare.",
             "en": "Large free parking right at the entrance."
+          },
+          "tip_5lang": {
+            "de": "Der große Pilgerparkplatz vor dem Heiligtum ist kostenlos und meist halbleer.",
+            "hu": "A szentély előtti nagy zarándokparkoló ingyenes és általában félig üres.",
+            "ro": "Parcarea mare pentru pelerini din fața sanctuarului este gratuită și de obicei pe jumătate goală.",
+            "en": "The large pilgrim car park at the sanctuary is free and rarely more than half full."
           }
         },
         {
@@ -1625,6 +1721,12 @@
             "hu": "Élvezzen egy kései ebédet a tengerparton.",
             "ro": "Bucurați-vă de un prânz târziu lângă mare.",
             "en": "Enjoy a late lunch by the sea."
+          },
+          "tip_5lang": {
+            "de": "Parken Sie im Garažni dom Vrh — bequeme 5 Minuten zur Riva.",
+            "hu": "Parkoljon a Garažni dom Vrh fedett parkolóban, 5 perc séta a Riváig.",
+            "ro": "Parcați la Garažni dom Vrh, sunt 5 minute confortabile pe jos până la Riva.",
+            "en": "Park at the Garažni dom Vrh garage — a comfortable five-minute walk to the Riva."
           }
         }
       ],
@@ -2179,6 +2281,12 @@
             "hu": "A város központi találkozóhelye.",
             "ro": "Locul central de întâlnire al orașului.",
             "en": "Central meeting point of the city."
+          },
+          "tip_5lang": {
+            "de": "Vom Busbahnhof gehen Sie 7 Minuten leicht bergab zum Kačić-Platz.",
+            "hu": "A buszpályaudvarról 7 perces enyhén lejtős séta a Kačić térre.",
+            "ro": "De la autogară sunt 7 minute de mers ușor la vale până în Piața Kačić.",
+            "en": "From the bus terminal it's a seven-minute, slightly downhill walk to Kačić Square."
           }
         },
         {
@@ -2202,6 +2310,12 @@
             "hu": "Klasszikus dalmát építészet.",
             "ro": "Arhitectură dalmată clasică.",
             "en": "Classic Dalmatian architecture."
+          },
+          "tip_5lang": {
+            "de": "Die Bushaltestelle Katedrala liegt direkt vor dem Eingang der Kirche.",
+            "hu": "A Katedrala buszmegálló közvetlenül a templom bejárata előtt van.",
+            "ro": "Stația de autobuz Katedrala este chiar în fața intrării în biserică.",
+            "en": "The Katedrala bus stop sits directly in front of the church entrance."
           }
         },
         {
@@ -2225,6 +2339,12 @@
             "hu": "A buszpályaudvartól pár perc alatt elérhető gyalog.",
             "ro": "La câteva minute de mers pe jos de autogară.",
             "en": "A few minutes walk from the bus station."
+          },
+          "tip_5lang": {
+            "de": "Mit der Citykarte erhalten Sie 20 Prozent Eintrittsrabatt — am Schalter vorzeigen.",
+            "hu": "A city kártyával 20% kedvezményt kap a belépőre, mutassa fel a pénztárnál.",
+            "ro": "Cu cardul orașului obțineți 20% reducere la intrare, prezentați-l la casă.",
+            "en": "The city card gets you 20% off admission — show it at the ticket counter."
           }
         },
         {
@@ -2248,6 +2368,12 @@
             "hu": "A közösségi élet szíve.",
             "ro": "Inima vieții publice locale.",
             "en": "The heart of local public life."
+          },
+          "tip_5lang": {
+            "de": "Die Buslinie 2 fährt am Sommerabend bis Mitternacht entlang der Riva.",
+            "hu": "Nyári estéken a 2-es busz éjfélig közlekedik a Riva mentén.",
+            "ro": "Linia 2 de autobuz circulă în serile de vară până la miezul nopții pe Riva.",
+            "en": "On summer evenings, bus line 2 runs along the Riva until midnight."
           }
         },
         {
@@ -2271,6 +2397,12 @@
             "hu": "Helyi távolsági busszal megközelíthető.",
             "ro": "Accesibil cu autobuzul local de coastă.",
             "en": "Accessible with the local coastal bus."
+          },
+          "tip_5lang": {
+            "de": "Der Pendelbus zum Vepric-Heiligtum fährt nur Samstag und Sonntag.",
+            "hu": "A Vepric-szentélyhez tartó ingajárat csak szombaton és vasárnap közlekedik.",
+            "ro": "Naveta către Sanctuarul Vepric circulă doar sâmbăta și duminica.",
+            "en": "The shuttle to the Vepric Sanctuary runs only on Saturdays and Sundays."
           }
         }
       ],

@@ -32,6 +32,12 @@
             "hu": "Kora reggel a legszebb a kilátás a halászhajókra a kikötőben.",
             "ro": "Dimineața devreme, vederea ambarcațiunilor de pescuit este cea mai frumoasă.",
             "en": "The view of the fishing boats is best in the early morning."
+          },
+          "tip_5lang": {
+            "de": "Setzen Sie sich auf eine der Steinbänke und beobachten Sie die Cresanka-Schafe-Fähren.",
+            "hu": "Üljön le egy kőpadra, és figyelje a kikötőbe érkező halászhajókat.",
+            "ro": "Așezați-vă pe o bancă de piatră și priviți ambarcațiunile intrând în port.",
+            "en": "Sit on one of the stone benches and watch the fishing boats glide in."
           }
         },
         {
@@ -50,6 +56,12 @@
             "hu": "Figyelje meg a loggia tetőszerkezete alatti domborműveket.",
             "ro": "Observați reliefurile de sub acoperișul lojei.",
             "en": "Look for the reliefs under the roof of the loggia."
+          },
+          "tip_5lang": {
+            "de": "Unter der Loggia hingen einst die öffentlichen Bekanntmachungen der venezianischen Verwaltung.",
+            "hu": "A loggia alatt egykor a velencei közigazgatás hirdetményeit függesztették ki.",
+            "ro": "Sub lojă erau afișate odinioară anunțurile administrației venețiene.",
+            "en": "Under the loggia, Venetian-era public notices were once posted for the townsfolk."
           }
         },
         {
@@ -68,6 +80,12 @@
             "hu": "A templom a város védőszentjének szobrát őrzi.",
             "ro": "Biserica adăpostește o statuie a sfântului protector al orașului.",
             "en": "The church houses a statue of the town's patron saint."
+          },
+          "tip_5lang": {
+            "de": "Achten Sie auf das Renaissance-Portal mit dem Relief der Madonna mit Kind.",
+            "hu": "Figyelje meg a reneszánsz portált a Madonna gyermekkel domborművével.",
+            "ro": "Observați portalul renascentist cu relieful Madonei cu Pruncul.",
+            "en": "Look up at the Renaissance portal with its relief of the Madonna and Child."
           }
         },
         {
@@ -86,6 +104,12 @@
             "hu": "A múzeum érdekes kiállításokat mutat be a sziget történelméről.",
             "ro": "Muzeul prezintă exponate interesante despre istoria insulei.",
             "en": "The museum displays interesting exhibits on island history."
+          },
+          "tip_5lang": {
+            "de": "Im Innenhof findet man Lapidarium-Stücke aus der römischen Zeit.",
+            "hu": "A belső udvarban római kori lapidárium-darabok láthatók.",
+            "ro": "În curtea interioară veți găsi piese de lapidarium din epoca romană.",
+            "en": "The inner courtyard hides Roman-era lapidarium fragments worth a closer look."
           }
         },
         {
@@ -104,6 +128,12 @@
             "hu": "A falak egyes részeiről remek kilátás nyílik az óvárosra.",
             "ro": "Părți ale zidurilor oferă o vedere excelentă asupra orașului vechi.",
             "en": "Parts of the walls offer a great view of the old town."
+          },
+          "tip_5lang": {
+            "de": "Vom erhaltenen Mauerabschnitt sieht man am besten in den späten Nachmittagsstunden.",
+            "hu": "A megmaradt falszakaszról késő délután a legszebb a kilátás.",
+            "ro": "De pe porțiunea păstrată a zidului, priveliștea este cea mai frumoasă spre seară.",
+            "en": "The surviving wall section gives the best views in the late afternoon light."
           }
         },
         {
@@ -122,6 +152,12 @@
             "hu": "Látogassa meg a kolostor keringőjében található kis múzeumot.",
             "ro": "Vizitați micul muzeu din claustrul mănăstirii.",
             "en": "Visit the small museum in the monastery cloister."
+          },
+          "tip_5lang": {
+            "de": "Bitten Sie im Kloster, das kleine Museum mit den glagolitischen Handschriften zu sehen.",
+            "hu": "Kérdezze a kolostorban, hogy megtekintheti-e a glagolita kéziratok kis múzeumát.",
+            "ro": "Întrebați la mănăstire dacă puteți vizita micul muzeu cu manuscrise glagolitice.",
+            "en": "Ask at the convent to see the small museum of Glagolitic manuscripts."
           }
         }
       ],
@@ -612,6 +648,12 @@
             "hu": "Sima indulás a tengerparti út mentén.",
             "ro": "Un început lin de-a lungul drumului de coastă.",
             "en": "A flat start along the coastal road."
+          },
+          "tip_5lang": {
+            "de": "Schließen Sie das Rad an den ausgewiesenen Ständern an der Hauptpromenade an.",
+            "hu": "A kerékpárt a fő sétány kijelölt tartóihoz lakatolja, ne a korláthoz.",
+            "ro": "Legați bicicleta la suporturile dedicate de pe faleză, nu de balustradă.",
+            "en": "Lock your bike at the dedicated racks along the main promenade, not the railing."
           }
         },
         {
@@ -630,6 +672,12 @@
             "hu": "A velencei torony az erődítmény jelképe.",
             "ro": "Turnul venețian este simbolul fortificației.",
             "en": "The Venetian tower is the landmark of the fortification."
+          },
+          "tip_5lang": {
+            "de": "Der venezianische Turm steht direkt am Weg, ideal für eine kurze Trinkpause.",
+            "hu": "A velencei torony közvetlenül az út mellett áll, jó hely egy rövid pihenőre.",
+            "ro": "Turnul venețian se află chiar lângă drum, ideal pentru o pauză scurtă.",
+            "en": "The Venetian tower stands right beside the path — a perfect quick water break."
           }
         },
         {
@@ -648,6 +696,12 @@
             "hu": "A három épségben maradt városkapu egyike.",
             "ro": "Una dintre cele trei porți ale orașului păstrate.",
             "en": "One of the three preserved city gates."
+          },
+          "tip_5lang": {
+            "de": "Steigen Sie hier ab, das Kopfsteinpflaster unter dem Tor ist sehr rutschig.",
+            "hu": "Szálljon le itt, a kapu alatti macskakő rendkívül csúszós kerékkel.",
+            "ro": "Coborâți aici, pavajul de sub poartă este foarte alunecos pentru biciclete.",
+            "en": "Dismount here — the cobblestones under the gate are slippery on two wheels."
           }
         },
         {
@@ -666,6 +720,12 @@
             "hu": "Egy csinos kis templom a központ közelében.",
             "ro": "O biserică mică și drăguță aproape de centru.",
             "en": "A pretty little church near the center."
+          },
+          "tip_5lang": {
+            "de": "Diese Kirche wird selten geöffnet — fragen Sie im Pfarrhaus nebenan.",
+            "hu": "Ezt a templomot ritkán nyitják ki, érdeklődjön a melletti plébánián.",
+            "ro": "Această biserică se deschide rar, întrebați la parohia alăturată.",
+            "en": "This church is rarely open — ask at the neighbouring parish house for access."
           }
         },
         {
@@ -684,6 +744,12 @@
             "hu": "Kicsit meredekebb emelkedő, de a nyugalom megéri.",
             "ro": "Urcare puțin mai abruptă, dar liniștea merită.",
             "en": "Slightly steeper climb, but the peace is worth it."
+          },
+          "tip_5lang": {
+            "de": "Die kleine Kapelle hat einen schattigen Vorhof, perfekt für eine Mittagsrast.",
+            "hu": "A kis kápolna előtti árnyékos udvar ideális egy déli pihenőhöz.",
+            "ro": "Mica capelă are o curte umbroasă în față, perfectă pentru un popas la prânz.",
+            "en": "The little chapel has a shady forecourt that's perfect for a midday rest."
           }
         }
       ],
@@ -1120,6 +1186,12 @@
             "hu": "Parkoljon a város bejáratánál lévő nagy parkolóban.",
             "ro": "Parcați în parcarea mare de la intrarea în oraș.",
             "en": "Park at the large parking lot at the town entrance."
+          },
+          "tip_5lang": {
+            "de": "Parken Sie am Stadtrand, das Zentrum ist im Sommer praktisch unbefahrbar.",
+            "hu": "A város szélén parkoljon, nyáron a központ szinte járhatatlan autóval.",
+            "ro": "Parcați la marginea orașului, centrul este aproape impracticabil cu mașina vara.",
+            "en": "Park on the outskirts — the centre is practically impassable by car in summer."
           }
         },
         {
@@ -1138,6 +1210,12 @@
             "hu": "Egy 4000 éves falu egy sziklaszirten.",
             "ro": "Un sat vechi de 4000 de ani pe o stâncă.",
             "en": "A 4000-year-old village on a cliff."
+          },
+          "tip_5lang": {
+            "de": "Lubenice ist autofrei — parken Sie unterhalb und gehen Sie die letzten 200 Meter.",
+            "hu": "Lubenice gyalogos falu, parkoljon alatta és sétáljon fel az utolsó 200 métert.",
+            "ro": "Lubenice este pietonal, parcați mai jos și mergeți pe jos ultimii 200 de metri.",
+            "en": "Lubenice is car-free; park below and walk the last 200 metres uphill."
           }
         },
         {
@@ -1156,6 +1234,12 @@
             "hu": "A Valuni tábláról (glagolita írás) híres.",
             "ro": "Cunoscut pentru tabla din Valun (alfabetul glagolitic).",
             "en": "Famous for the Valun Tablet (Glagolitic script)."
+          },
+          "tip_5lang": {
+            "de": "Im Friedhof von Valun steht die berühmte glagolitische Tafel aus dem 11. Jahrhundert.",
+            "hu": "A valuni temetőben látható a híres 11. századi glagolita kőtábla.",
+            "ro": "În cimitirul din Valun se află celebra placă glagolitică din secolul al XI-lea.",
+            "en": "Valun's cemetery contains the famous eleventh-century Glagolitic stone tablet."
           }
         },
         {
@@ -1174,6 +1258,12 @@
             "hu": "A szigeti múzeum meglátogatása a városközpontban.",
             "ro": "Vizita muzeului insulei în centrul orașului.",
             "en": "Visit the island museum in the town center."
+          },
+          "tip_5lang": {
+            "de": "Der Palast hat keine eigenen Parkplätze, nutzen Sie den Hafenparkplatz.",
+            "hu": "A palotának nincs saját parkolója, használja a kikötői parkolót.",
+            "ro": "Palatul nu are parcare proprie, folosiți parcarea din port.",
+            "en": "The palace has no dedicated parking — use the harbour lot a short walk away."
           }
         },
         {
@@ -1192,6 +1282,12 @@
             "hu": "Zárás a város történelmi szívében.",
             "ro": "Final în inima istorică a orașului.",
             "en": "Wrap up in the historical heart of the town."
+          },
+          "tip_5lang": {
+            "de": "Zum Hauptplatz fährt kein Auto, der nächste freie Stellplatz ist 5 Minuten entfernt.",
+            "hu": "A főtérre nem lehet autóval behajtani, a legközelebbi parkolóhely 5 perc séta.",
+            "ro": "Nu se poate ajunge cu mașina în piața centrală, cea mai apropiată parcare este la 5 minute.",
+            "en": "No cars reach the main square — the nearest free space is a five-minute walk."
           }
         }
       ],
@@ -1609,7 +1705,7 @@
       "speed_kmh": 18,
       "start": "09:00",
       "end_estimate": "12:50",
-      "total_km": 3.0,
+      "total_km": 2.2,
       "stop_count": 5,
       "stops": [
         {
@@ -1628,6 +1724,12 @@
             "hu": "Központi érkezési pont minden szigeti busz számára.",
             "ro": "Locul central de sosire pentru toate autobuzele de pe insulă.",
             "en": "Central arrival point for all island buses."
+          },
+          "tip_5lang": {
+            "de": "Tickets kauft man vor Ort am Schalter, nicht beim Fahrer.",
+            "hu": "A jegyeket a helyszínen, a pénztárnál vegye, ne a sofőrnél.",
+            "ro": "Biletele se cumpără la casă, nu de la șofer.",
+            "en": "Buy tickets at the station counter beforehand, not from the driver."
           }
         },
         {
@@ -1646,6 +1748,12 @@
             "hu": "Mindössze 5 perc séta a buszmegállótól.",
             "ro": "Doar 5 minute de mers pe jos de la stația de autobuz.",
             "en": "Only a 5-minute walk from the bus stop."
+          },
+          "tip_5lang": {
+            "de": "Vom Bahnhof sind es zur Loggia nur 6 Minuten zu Fuß bergauf.",
+            "hu": "A buszállomástól a Loggia 6 perces enyhe emelkedő séta.",
+            "ro": "De la stație până la Logie sunt doar 6 minute de mers ușor în urcare.",
+            "en": "From the bus stop, the Loggia is just six minutes uphill on foot."
           }
         },
         {
@@ -1664,6 +1772,12 @@
             "hu": "Az óváros szívében található.",
             "ro": "Situată în inima orașului vechi.",
             "en": "Located in the heart of the old town."
+          },
+          "tip_5lang": {
+            "de": "Werktags ist die Kirche zwischen 12 und 17 Uhr geschlossen — planen Sie entsprechend.",
+            "hu": "Hétköznap a templom 12 és 17 óra között zárva tart, ehhez igazítsa a látogatást.",
+            "ro": "În zilele lucrătoare biserica este închisă între 12 și 17, planificați-vă în consecință.",
+            "en": "On weekdays the church closes between noon and five — plan your visit accordingly."
           }
         },
         {
@@ -1682,6 +1796,12 @@
             "hu": "Könnyen elérhető egy városnéző séta során.",
             "ro": "Ușor de accesat în timpul unui tur al orașului.",
             "en": "Easily accessible during a city tour."
+          },
+          "tip_5lang": {
+            "de": "Der Aufstieg zur Mauer hat einige Stufen, kein Aufzug verfügbar.",
+            "hu": "A falra vezető feljáró több lépcsőfok, nincs lift.",
+            "ro": "Urcușul către ziduri are mai multe trepte, nu există lift.",
+            "en": "The climb to the walls involves several steps; no lift is available here."
           }
         },
         {
@@ -1700,6 +1820,12 @@
             "hu": "Tökéletes hely egy ebédre az indulás előtt.",
             "ro": "Perfect pentru un prânz înainte de plecare.",
             "en": "Perfect for lunch before departure."
+          },
+          "tip_5lang": {
+            "de": "Der letzte Bus stadtauswärts fährt um 19:30 — verpassen Sie ihn nicht.",
+            "hu": "Az utolsó kifelé tartó busz 19:30-kor indul, vigyázzon, hogy ne maradjon le.",
+            "ro": "Ultimul autobuz spre ieșirea din oraș pleacă la 19:30, nu îl pierdeți.",
+            "en": "The last outbound bus leaves around 7:30 PM — don't miss it."
           }
         }
       ],

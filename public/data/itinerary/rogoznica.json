@@ -13,7 +13,7 @@
       "speed_kmh": 3,
       "start": "09:00",
       "end_estimate": "18:45",
-      "total_km": 4.5,
+      "total_km": 3.8,
       "stop_count": 6,
       "stops": [
         {
@@ -37,6 +37,12 @@
             "hu": "Reggelizzünk az egyik kis sikátorban.",
             "ro": "Luați micul dejun pe una dintre străduțele înguste.",
             "en": "Have breakfast in one of the small narrow alleys."
+          },
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die engen Steingassen mit Blick auf die Bucht.",
+            "hu": "Sétáljon végig a szűk kőutcákon, csodás kilátással az öbölre.",
+            "ro": "Plimbați-vă pe străduțele înguste de piatră cu vedere la golf.",
+            "en": "Wander the narrow stone alleys with sweeping bay views."
           }
         },
         {
@@ -60,6 +66,12 @@
             "hu": "Figyeljük meg a torony kőfaragványait.",
             "ro": "Admirați sculpturile în piatră de pe turn.",
             "en": "Observe the stonework on the tower."
+          },
+          "tip_5lang": {
+            "de": "Kleine Pfarrkirche mit barockem Altar, kurzer Stopp lohnt sich.",
+            "hu": "Kis plébániatemplom barokk oltárral, érdemes betérni egy percre.",
+            "ro": "Bisericuță parohială cu altar baroc, o oprire scurtă merită.",
+            "en": "Small parish church with a baroque altar, worth a short stop."
           }
         },
         {
@@ -83,6 +95,12 @@
             "hu": "Látogassuk meg a kikötő víz alatti bárját.",
             "ro": "Vizitați barul subacvatic din port.",
             "en": "Visit the underwater bar in the marina."
+          },
+          "tip_5lang": {
+            "de": "Eine der größten ACI-Marinas Kroatiens, ideal zum Yachten-Schauen.",
+            "hu": "Horvátország egyik legnagyobb ACI kikötője, remek hely jachtnézésre.",
+            "ro": "Una dintre cele mai mari marini ACI din Croația, perfectă pentru yachturi.",
+            "en": "One of Croatia's largest ACI marinas, perfect for yacht spotting."
           }
         },
         {
@@ -106,6 +124,12 @@
             "hu": "A sekély víz miatt ideális családoknak.",
             "ro": "Perfect pentru familii datorită apei puțin adânci.",
             "en": "Perfect for families due to the shallow water."
+          },
+          "tip_5lang": {
+            "de": "Kies-Sand-Mix mit flachem Einstieg, perfekt für eine längere Badepause.",
+            "hu": "Kavics-homok keverék lankás bemenettel, hosszabb fürdéshez ideális.",
+            "ro": "Mix de pietriș și nisip cu intrare lină, ideal pentru o baie lungă.",
+            "en": "Pebble-sand mix with a gentle entry, ideal for a long swim break."
           }
         },
         {
@@ -129,6 +153,12 @@
             "hu": "Ugorjunk a sziklákról a sós vízbe.",
             "ro": "Săriți de pe stânci în apa sărată.",
             "en": "Jump from the cliffs into the salty water."
+          },
+          "tip_5lang": {
+            "de": "Salzwasser-Karst-See mit Klippen, Badeschuhe gegen scharfe Steine mitnehmen.",
+            "hu": "Karsztos sósvizű tó sziklákkal, hozzon úszócipőt az éles kövek miatt.",
+            "ro": "Lac carstic cu apă sărată și stânci, luați încălțăminte de apă.",
+            "en": "Karst saltwater lake with cliffs, bring water shoes for sharp rocks."
           }
         },
         {
@@ -152,6 +182,12 @@
             "hu": "Élvezzük a naplementét a kis kápolnánál.",
             "ro": "Bucurați-vă de apus la mica capelă.",
             "en": "Enjoy the sunset by the small chapel."
+          },
+          "tip_5lang": {
+            "de": "Felsige Landzunge mit kleiner Kapelle, beliebt für den Sonnenuntergang.",
+            "hu": "Sziklás földnyelv kis kápolnával, naplementekor a legszebb.",
+            "ro": "Limbă stâncoasă de pământ cu o capelă mică, superbă la apus.",
+            "en": "Rocky headland with a small chapel, popular at sunset."
           }
         }
       ],
@@ -337,7 +373,12 @@
                 "ro": "Orașul vechi Rogoznica",
                 "en": "Rogoznica Old Town"
               },
-              "tip_5lang": null
+              "tip_5lang": {
+                "de": "Schlendern Sie durch die engen Steingassen mit Blick auf die Bucht.",
+                "hu": "Sétáljon végig a szűk kőutcákon, csodás kilátással az öbölre.",
+                "ro": "Plimbați-vă pe străduțele înguste de piatră cu vedere la golf.",
+                "en": "Wander the narrow stone alleys with sweeping bay views."
+              }
             },
             {
               "name": {
@@ -346,7 +387,12 @@
                 "ro": "Biserica Adormirea Maicii Domnului",
                 "en": "Church of the Assumption"
               },
-              "tip_5lang": null
+              "tip_5lang": {
+                "de": "Kleine Pfarrkirche mit barockem Altar, kurzer Stopp lohnt sich.",
+                "hu": "Kis plébániatemplom barokk oltárral, érdemes betérni egy percre.",
+                "ro": "Bisericuță parohială cu altar baroc, o oprire scurtă merită.",
+                "en": "Small parish church with a baroque altar, worth a short stop."
+              }
             },
             {
               "name": {
@@ -355,7 +401,12 @@
                 "ro": "Marina Frapa",
                 "en": "Marina Frapa"
               },
-              "tip_5lang": null
+              "tip_5lang": {
+                "de": "Eine der größten ACI-Marinas Kroatiens, ideal zum Yachten-Schauen.",
+                "hu": "Horvátország egyik legnagyobb ACI kikötője, remek hely jachtnézésre.",
+                "ro": "Una dintre cele mai mari marini ACI din Croația, perfectă pentru yachturi.",
+                "en": "One of Croatia's largest ACI marinas, perfect for yacht spotting."
+              }
             },
             {
               "name": {
@@ -364,7 +415,12 @@
                 "ro": "Plaja Miline",
                 "en": "Miline Beach"
               },
-              "tip_5lang": null
+              "tip_5lang": {
+                "de": "Kies-Sand-Mix mit flachem Einstieg, perfekt für eine längere Badepause.",
+                "hu": "Kavics-homok keverék lankás bemenettel, hosszabb fürdéshez ideális.",
+                "ro": "Mix de pietriș și nisip cu intrare lină, ideal pentru o baie lungă.",
+                "en": "Pebble-sand mix with a gentle entry, ideal for a long swim break."
+              }
             },
             {
               "name": {
@@ -373,7 +429,12 @@
                 "ro": "Lacul Ochiul Dragonului",
                 "en": "Dragon's Eye Lake"
               },
-              "tip_5lang": null
+              "tip_5lang": {
+                "de": "Salzwasser-Karst-See mit Klippen, Badeschuhe gegen scharfe Steine mitnehmen.",
+                "hu": "Karsztos sósvizű tó sziklákkal, hozzon úszócipőt az éles kövek miatt.",
+                "ro": "Lac carstic cu apă sărată și stânci, luați încălțăminte de apă.",
+                "en": "Karst saltwater lake with cliffs, bring water shoes for sharp rocks."
+              }
             },
             {
               "name": {
@@ -382,7 +443,12 @@
                 "ro": "Capul Gradina",
                 "en": "Cape Gradina"
               },
-              "tip_5lang": null
+              "tip_5lang": {
+                "de": "Felsige Landzunge mit kleiner Kapelle, beliebt für den Sonnenuntergang.",
+                "hu": "Sziklás földnyelv kis kápolnával, naplementekor a legszebb.",
+                "ro": "Limbă stâncoasă de pământ cu o capelă mică, superbă la apus.",
+                "en": "Rocky headland with a small chapel, popular at sunset."
+              }
             }
           ],
           "gastro_picks": {
@@ -733,7 +799,7 @@
       "speed_kmh": 10,
       "start": "09:00",
       "end_estimate": "17:30",
-      "total_km": 12.0,
+      "total_km": 14.5,
       "stop_count": 7,
       "stops": [
         {
@@ -757,6 +823,12 @@
             "hu": "Kezdjük a túrát az üvegsárkánynál.",
             "ro": "Începeți turul la dragonul de sticlă.",
             "en": "Start your tour at the glass dragon."
+          },
+          "tip_5lang": {
+            "de": "Eine der größten ACI-Marinas Kroatiens, ideal zum Yachten-Schauen.",
+            "hu": "Horvátország egyik legnagyobb ACI kikötője, remek hely jachtnézésre.",
+            "ro": "Una dintre cele mai mari marini ACI din Croația, perfectă pentru yachturi.",
+            "en": "One of Croatia's largest ACI marinas, perfect for yacht spotting."
           }
         },
         {
@@ -780,6 +852,12 @@
             "hu": "A kerékpárút közvetlenül a part mentén halad.",
             "ro": "Pista de biciclete trece direct pe mal.",
             "en": "The bike path runs directly along the shore."
+          },
+          "tip_5lang": {
+            "de": "Salzwasser-Karst-See mit Klippen, Badeschuhe gegen scharfe Steine mitnehmen.",
+            "hu": "Karsztos sósvizű tó sziklákkal, hozzon úszócipőt az éles kövek miatt.",
+            "ro": "Lac carstic cu apă sărată și stânci, luați încălțăminte de apă.",
+            "en": "Karst saltwater lake with cliffs, bring water shoes for sharp rocks."
           }
         },
         {
@@ -803,6 +881,12 @@
             "hu": "Egy rejtett kincs a főutaktól távol.",
             "ro": "O bijuterie ascunsă departe de drumurile principale.",
             "en": "A hidden gem away from the main paths."
+          },
+          "tip_5lang": {
+            "de": "Duftendes Labyrinth aus Lavendelhecken, im Juni in voller Blüte.",
+            "hu": "Illatos labirintus levendulasövényekből, júniusban virágzik a legszebben.",
+            "ro": "Labirint parfumat de tufișuri de lavandă, în floare în iunie.",
+            "en": "Fragrant lavender hedge maze, in full bloom in June."
           }
         },
         {
@@ -826,6 +910,12 @@
             "hu": "Gyönyörű kilátás a nyílt tengerre.",
             "ro": "O priveliște minunată asupra mării deschise.",
             "en": "Beautiful view of the open sea."
+          },
+          "tip_5lang": {
+            "de": "Kleine Küstenkapelle mit Blick aufs Meer, ein ruhiger Halt.",
+            "hu": "Apró tengerparti kápolna nyílt tengeri kilátással, csendes megálló.",
+            "ro": "Capelă mică de coastă cu vedere la mare, oprire liniștită.",
+            "en": "Tiny coastal chapel with sea views, a peaceful stop."
           }
         },
         {
@@ -849,6 +939,12 @@
             "hu": "Itt jó kerékpártárolók találhatók.",
             "ro": "Există suporturi bune pentru biciclete aici.",
             "en": "There are good bike racks here."
+          },
+          "tip_5lang": {
+            "de": "Kies-Sand-Mix mit flachem Einstieg, perfekt für eine längere Badepause.",
+            "hu": "Kavics-homok keverék lankás bemenettel, hosszabb fürdéshez ideális.",
+            "ro": "Mix de pietriș și nisip cu intrare lină, ideal pentru o baie lungă.",
+            "en": "Pebble-sand mix with a gentle entry, ideal for a long swim break."
           }
         },
         {
@@ -872,6 +968,12 @@
             "hu": "A szűk utcákban toljuk a kerékpárt.",
             "ro": "Împingeți bicicleta pe străzile înguste.",
             "en": "Push your bike in the narrow streets."
+          },
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die engen Steingassen mit Blick auf die Bucht.",
+            "hu": "Sétáljon végig a szűk kőutcákon, csodás kilátással az öbölre.",
+            "ro": "Plimbați-vă pe străduțele înguste de piatră cu vedere la golf.",
+            "en": "Wander the narrow stone alleys with sweeping bay views."
           }
         },
         {
@@ -895,6 +997,12 @@
             "hu": "A legjobb hely a zárófotóhoz.",
             "ro": "Cel mai bun loc pentru fotografia de final.",
             "en": "Best spot for the final photo."
+          },
+          "tip_5lang": {
+            "de": "Felsige Landzunge mit kleiner Kapelle, beliebt für den Sonnenuntergang.",
+            "hu": "Sziklás földnyelv kis kápolnával, naplementekor a legszebb.",
+            "ro": "Limbă stâncoasă de pământ cu o capelă mică, superbă la apus.",
+            "en": "Rocky headland with a small chapel, popular at sunset."
           }
         }
       ],
@@ -1028,7 +1136,12 @@
                 "ro": "Marina Frapa",
                 "en": "Marina Frapa"
               },
-              "tip_5lang": null
+              "tip_5lang": {
+                "de": "Eine der größten ACI-Marinas Kroatiens, ideal zum Yachten-Schauen.",
+                "hu": "Horvátország egyik legnagyobb ACI kikötője, remek hely jachtnézésre.",
+                "ro": "Una dintre cele mai mari marini ACI din Croația, perfectă pentru yachturi.",
+                "en": "One of Croatia's largest ACI marinas, perfect for yacht spotting."
+              }
             },
             {
               "name": {
@@ -1037,7 +1150,12 @@
                 "ro": "Lacul Ochiul Dragonului",
                 "en": "Dragon's Eye Lake"
               },
-              "tip_5lang": null
+              "tip_5lang": {
+                "de": "Salzwasser-Karst-See mit Klippen, Badeschuhe gegen scharfe Steine mitnehmen.",
+                "hu": "Karsztos sósvizű tó sziklákkal, hozzon úszócipőt az éles kövek miatt.",
+                "ro": "Lac carstic cu apă sărată și stânci, luați încălțăminte de apă.",
+                "en": "Karst saltwater lake with cliffs, bring water shoes for sharp rocks."
+              }
             },
             {
               "name": {
@@ -1046,7 +1164,12 @@
                 "ro": "Labirintul de lavandă",
                 "en": "Lavender Labyrinth"
               },
-              "tip_5lang": null
+              "tip_5lang": {
+                "de": "Duftendes Labyrinth aus Lavendelhecken, im Juni in voller Blüte.",
+                "hu": "Illatos labirintus levendulasövényekből, júniusban virágzik a legszebben.",
+                "ro": "Labirint parfumat de tufișuri de lavandă, în floare în iunie.",
+                "en": "Fragrant lavender hedge maze, in full bloom in June."
+              }
             },
             {
               "name": {
@@ -1055,7 +1178,12 @@
                 "ro": "Biserica Maicii Domnului de la Capelă",
                 "en": "Church of Our Lady of the Chapel"
               },
-              "tip_5lang": null
+              "tip_5lang": {
+                "de": "Kleine Küstenkapelle mit Blick aufs Meer, ein ruhiger Halt.",
+                "hu": "Apró tengerparti kápolna nyílt tengeri kilátással, csendes megálló.",
+                "ro": "Capelă mică de coastă cu vedere la mare, oprire liniștită.",
+                "en": "Tiny coastal chapel with sea views, a peaceful stop."
+              }
             },
             {
               "name": {
@@ -1064,7 +1192,12 @@
                 "ro": "Plaja Miline",
                 "en": "Miline Beach"
               },
-              "tip_5lang": null
+              "tip_5lang": {
+                "de": "Kies-Sand-Mix mit flachem Einstieg, perfekt für eine längere Badepause.",
+                "hu": "Kavics-homok keverék lankás bemenettel, hosszabb fürdéshez ideális.",
+                "ro": "Mix de pietriș și nisip cu intrare lină, ideal pentru o baie lungă.",
+                "en": "Pebble-sand mix with a gentle entry, ideal for a long swim break."
+              }
             },
             {
               "name": {
@@ -1073,7 +1206,12 @@
                 "ro": "Orașul vechi Rogoznica",
                 "en": "Rogoznica Old Town"
               },
-              "tip_5lang": null
+              "tip_5lang": {
+                "de": "Schlendern Sie durch die engen Steingassen mit Blick auf die Bucht.",
+                "hu": "Sétáljon végig a szűk kőutcákon, csodás kilátással az öbölre.",
+                "ro": "Plimbați-vă pe străduțele înguste de piatră cu vedere la golf.",
+                "en": "Wander the narrow stone alleys with sweeping bay views."
+              }
             },
             {
               "name": {
@@ -1082,7 +1220,12 @@
                 "ro": "Capul Gradina",
                 "en": "Cape Gradina"
               },
-              "tip_5lang": null
+              "tip_5lang": {
+                "de": "Felsige Landzunge mit kleiner Kapelle, beliebt für den Sonnenuntergang.",
+                "hu": "Sziklás földnyelv kis kápolnával, naplementekor a legszebb.",
+                "ro": "Limbă stâncoasă de pământ cu o capelă mică, superbă la apus.",
+                "en": "Rocky headland with a small chapel, popular at sunset."
+              }
             }
           ],
           "gastro_picks": {

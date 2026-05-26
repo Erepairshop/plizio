@@ -13,7 +13,7 @@
       "speed_kmh": 4,
       "start": "09:00",
       "end_estimate": "17:30",
-      "total_km": 5.2,
+      "total_km": 6.2,
       "stop_count": 7,
       "stops": [
         {
@@ -828,7 +828,7 @@
       "speed_kmh": 12,
       "start": "09:00",
       "end_estimate": "15:00",
-      "total_km": 15.5,
+      "total_km": 18.8,
       "stop_count": 6,
       "stops": [
         {
@@ -2004,7 +2004,7 @@
       "start": "09:00",
       "end_estimate": "16:30",
       "total_km": 10.5,
-      "stop_count": 5,
+      "stop_count": 4,
       "stops": [
         {
           "name": "Hafen von Bol",
@@ -2076,24 +2076,6 @@
             "hu": "A központból 15 perc sétával vagy hajóval elérhető.",
             "ro": "Accesibil din centru în 15 minute pe jos sau cu barca.",
             "en": "Reach it from the center in 15 mins by foot or boat."
-          }
-        },
-        {
-          "name": "Hafen von Bol",
-          "coords": [
-            16.6585,
-            43.2614
-          ],
-          "category": "industrial heritage",
-          "arrive_at": "14:45",
-          "stay_min": 60,
-          "hop_from_prev_min": 15,
-          "hop_from_prev_km": 1.5,
-          "tip_5lang": {
-            "de": "Idealer Ort, um auf die Katamaran-Fähre zu warten.",
-            "hu": "Ideális hely a katamarán kompra való várakozáshoz.",
-            "ro": "Loc ideal pentru a aștepta feribotul catamarán.",
-            "en": "Ideal spot to wait for the catamaran ferry."
           }
         }
       ],

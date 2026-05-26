@@ -13,7 +13,7 @@
       "speed_kmh": 4,
       "start": "09:00",
       "end_estimate": "17:30",
-      "total_km": 4.2,
+      "total_km": 3.1,
       "stop_count": 6,
       "stops": [
         {
@@ -37,6 +37,12 @@
             "hu": "Csodálja meg a belső udvar gótikus építészetét.",
             "ro": "Admirați arhitectura gotică din curtea interioară.",
             "en": "Admire the Gothic architecture in the inner courtyard."
+          },
+          "tip_5lang": {
+            "de": "Frühmorgens am ruhigsten, später wird es voll mit Cafégästen.",
+            "hu": "Kora reggel a legcsendesebb, később megtelik kávéházi vendégekkel.",
+            "ro": "Cel mai liniștit dimineața devreme, mai târziu se umple.",
+            "en": "Quietest in the early morning before the cafe crowd arrives."
           }
         },
         {
@@ -60,6 +66,12 @@
             "hu": "A nyugalom szigete lenyűgöző oltárképekkel.",
             "ro": "Un loc de liniște cu pânze de altar impresionante.",
             "en": "A place of peace with impressive altarpieces."
+          },
+          "tip_5lang": {
+            "de": "Beachten Sie die Kleiderordnung beim Betreten der Kirche.",
+            "hu": "Vegye figyelembe a templomi öltözködési szabályokat.",
+            "ro": "Respectați codul vestimentar la intrarea în biserică.",
+            "en": "Mind the dress code when entering the church."
           }
         },
         {
@@ -83,6 +95,12 @@
             "hu": "Vásároljon itt híres 'sóvirágot'.",
             "ro": "Cumpărați faimoasa 'floare de sare' de aici.",
             "en": "Buy the famous 'flower of salt' directly here."
+          },
+          "tip_5lang": {
+            "de": "Aktive Salinen aus dem Mittelalter, geführte Touren erklären die Ernte.",
+            "hu": "Középkor óta működő sópárlók, vezetett túrákon mutatják a betakarítást.",
+            "ro": "Saline funcționale din Evul Mediu, tururi ghidate explică recolta.",
+            "en": "Working salt pans dating to the Middle Ages; guided tours show the harvest."
           }
         },
         {
@@ -106,6 +124,12 @@
             "hu": "Ez a hatalmas városfalrendszer bejárata.",
             "ro": "Intrarea în marele sistem de fortificații.",
             "en": "The entrance to the great wall fortification system."
+          },
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit für ein paar Fotos und einen Moment Ruhe.",
+            "hu": "Szánjon időt néhány fotóra és egy csendes pillanatra.",
+            "ro": "Acordați-vă timp pentru câteva fotografii și un moment de liniște.",
+            "en": "Take a moment for a few photos and a quiet pause."
           }
         },
         {
@@ -129,6 +153,12 @@
             "hu": "Viseljen kényelmes cipőt a meredek szakaszokhoz.",
             "ro": "Purtați încălțăminte comodă pentru urcarea abruptă.",
             "en": "Wear sturdy shoes for the steep ascent."
+          },
+          "tip_5lang": {
+            "de": "Begehen Sie eine der längsten Verteidigungsmauern Europas, bequeme Schuhe nötig.",
+            "hu": "Sétáljon végig Európa egyik leghosszabb védőfalán, kényelmes cipő ajánlott.",
+            "ro": "Mergeți pe unul dintre cele mai lungi ziduri de apărare din Europa.",
+            "en": "Walk one of Europe's longest defensive walls; comfortable shoes a must."
           }
         },
         {
@@ -152,6 +182,12 @@
             "hu": "Kóstolja meg az osztrigát közvetlenül a parton.",
             "ro": "Gustați scoicile chiar pe malul apei.",
             "en": "Taste the oysters right by the waterfront."
+          },
+          "tip_5lang": {
+            "de": "Kleines Hafendorf, berühmt für Austern direkt aus der Bucht.",
+            "hu": "Kis kikötőfalu, az öbölből frissen kifogott osztrigáiról híres.",
+            "ro": "Mic sat-port faimos pentru stridiile direct din golf.",
+            "en": "Small port village famous for oysters straight from the bay."
           }
         }
       ],
@@ -321,7 +357,12 @@
                 "ro": "Palatul Rectorului din Ston",
                 "en": "Rector's Palace Ston"
               },
-              "tip_5lang": null
+              "tip_5lang": {
+                "de": "Frühmorgens am ruhigsten, später wird es voll mit Cafégästen.",
+                "hu": "Kora reggel a legcsendesebb, később megtelik kávéházi vendégekkel.",
+                "ro": "Cel mai liniștit dimineața devreme, mai târziu se umple.",
+                "en": "Quietest in the early morning before the cafe crowd arrives."
+              }
             },
             {
               "name": {
@@ -330,7 +371,12 @@
                 "ro": "Biserica Sfântul Blasiu",
                 "en": "Church of St. Blaise"
               },
-              "tip_5lang": null
+              "tip_5lang": {
+                "de": "Beachten Sie die Kleiderordnung beim Betreten der Kirche.",
+                "hu": "Vegye figyelembe a templomi öltözködési szabályokat.",
+                "ro": "Respectați codul vestimentar la intrarea în biserică.",
+                "en": "Mind the dress code when entering the church."
+              }
             },
             {
               "name": {
@@ -339,7 +385,12 @@
                 "ro": "Salina din Ston",
                 "en": "Ston Salt Pans"
               },
-              "tip_5lang": null
+              "tip_5lang": {
+                "de": "Aktive Salinen aus dem Mittelalter, geführte Touren erklären die Ernte.",
+                "hu": "Középkor óta működő sópárlók, vezetett túrákon mutatják a betakarítást.",
+                "ro": "Saline funcționale din Evul Mediu, tururi ghidate explică recolta.",
+                "en": "Working salt pans dating to the Middle Ages; guided tours show the harvest."
+              }
             },
             {
               "name": {
@@ -348,7 +399,12 @@
                 "ro": "Fortăreața Kaštio",
                 "en": "Kaštio Fortress"
               },
-              "tip_5lang": null
+              "tip_5lang": {
+                "de": "Nehmen Sie sich Zeit für ein paar Fotos und einen Moment Ruhe.",
+                "hu": "Szánjon időt néhány fotóra és egy csendes pillanatra.",
+                "ro": "Acordați-vă timp pentru câteva fotografii și un moment de liniște.",
+                "en": "Take a moment for a few photos and a quiet pause."
+              }
             },
             {
               "name": {
@@ -357,7 +413,12 @@
                 "ro": "Zidurile din Ston",
                 "en": "Walls of Ston"
               },
-              "tip_5lang": null
+              "tip_5lang": {
+                "de": "Begehen Sie eine der längsten Verteidigungsmauern Europas, bequeme Schuhe nötig.",
+                "hu": "Sétáljon végig Európa egyik leghosszabb védőfalán, kényelmes cipő ajánlott.",
+                "ro": "Mergeți pe unul dintre cele mai lungi ziduri de apărare din Europa.",
+                "en": "Walk one of Europe's longest defensive walls; comfortable shoes a must."
+              }
             },
             {
               "name": {
@@ -366,7 +427,12 @@
                 "ro": "Mali Ston",
                 "en": "Mali Ston"
               },
-              "tip_5lang": null
+              "tip_5lang": {
+                "de": "Kleines Hafendorf, berühmt für Austern direkt aus der Bucht.",
+                "hu": "Kis kikötőfalu, az öbölből frissen kifogott osztrigáiról híres.",
+                "ro": "Mic sat-port faimos pentru stridiile direct din golf.",
+                "en": "Small port village famous for oysters straight from the bay."
+              }
             }
           ],
           "gastro_picks": {
@@ -709,7 +775,7 @@
       "speed_kmh": 12,
       "start": "09:00",
       "end_estimate": "15:00",
-      "total_km": 12.5,
+      "total_km": 16.2,
       "stop_count": 5,
       "stops": [
         {
@@ -733,6 +799,12 @@
             "hu": "Kerekezzen a medencék mentén.",
             "ro": "Mergeți cu bicicleta pe lângă bazine.",
             "en": "Cycle along the ancient basins."
+          },
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit für ein paar Fotos und einen Moment Ruhe.",
+            "hu": "Szánjon időt néhány fotóra és egy csendes pillanatra.",
+            "ro": "Acordați-vă timp pentru câteva fotografii și un moment de liniște.",
+            "en": "Take a moment for a few photos and a quiet pause."
           }
         },
         {
@@ -756,6 +828,12 @@
             "hu": "Homokos strand és tiszta víz.",
             "ro": "Plajă cu nisip și apă cristalină.",
             "en": "Sandy beach and crystal clear water."
+          },
+          "tip_5lang": {
+            "de": "Festes Schuhwerk empfohlen, der Untergrund kann uneben sein.",
+            "hu": "Stabil lábbeli ajánlott, az aljzat egyenetlen lehet.",
+            "ro": "Încălțăminte stabilă recomandată, terenul poate fi accidentat.",
+            "en": "Sturdy footwear recommended; the terrain can be uneven."
           }
         },
         {
@@ -779,6 +857,12 @@
             "hu": "Haléttermek a kikötőben.",
             "ro": "Restaurante de pește în port.",
             "en": "Seafood restaurants at the harbor."
+          },
+          "tip_5lang": {
+            "de": "Kleines Hafendorf, berühmt für Austern direkt aus der Bucht.",
+            "hu": "Kis kikötőfalu, az öbölből frissen kifogott osztrigáiról híres.",
+            "ro": "Mic sat-port faimos pentru stridiile direct din golf.",
+            "en": "Small port village famous for oysters straight from the bay."
           }
         },
         {
@@ -802,6 +886,12 @@
             "hu": "A falrendszer északi bástyája.",
             "ro": "Bastionul nordic al zidului.",
             "en": "The northern bastion of the wall system."
+          },
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit für ein paar Fotos und einen Moment Ruhe.",
+            "hu": "Szánjon időt néhány fotóra és egy csendes pillanatra.",
+            "ro": "Acordați-vă timp pentru câteva fotografii și un moment de liniște.",
+            "en": "Take a moment for a few photos and a quiet pause."
           }
         },
         {
@@ -825,6 +915,12 @@
             "hu": "Fedezze fel a csendes utcákat.",
             "ro": "Explorați străzile liniștite.",
             "en": "Explore the quiet alleys."
+          },
+          "tip_5lang": {
+            "de": "Schachbrettartig angelegtes Renaissance-Städtchen mit Steinhäusern.",
+            "hu": "Sakktábla alaprajzú reneszánsz városka kőházakkal.",
+            "ro": "Orășel renascentist cu plan în formă de tablă de șah și case de piatră.",
+            "en": "Renaissance grid-plan town with handsome stone houses."
           }
         }
       ],
@@ -954,7 +1050,12 @@
                 "ro": "Salina",
                 "en": "Salt Pans"
               },
-              "tip_5lang": null
+              "tip_5lang": {
+                "de": "Nehmen Sie sich Zeit für ein paar Fotos und einen Moment Ruhe.",
+                "hu": "Szánjon időt néhány fotóra és egy csendes pillanatra.",
+                "ro": "Acordați-vă timp pentru câteva fotografii și un moment de liniște.",
+                "en": "Take a moment for a few photos and a quiet pause."
+              }
             },
             {
               "name": {
@@ -963,7 +1064,12 @@
                 "ro": "Golful Prapratno",
                 "en": "Prapratno Bay"
               },
-              "tip_5lang": null
+              "tip_5lang": {
+                "de": "Festes Schuhwerk empfohlen, der Untergrund kann uneben sein.",
+                "hu": "Stabil lábbeli ajánlott, az aljzat egyenetlen lehet.",
+                "ro": "Încălțăminte stabilă recomandată, terenul poate fi accidentat.",
+                "en": "Sturdy footwear recommended; the terrain can be uneven."
+              }
             },
             {
               "name": {
@@ -972,7 +1078,12 @@
                 "ro": "Mali Ston",
                 "en": "Mali Ston"
               },
-              "tip_5lang": null
+              "tip_5lang": {
+                "de": "Kleines Hafendorf, berühmt für Austern direkt aus der Bucht.",
+                "hu": "Kis kikötőfalu, az öbölből frissen kifogott osztrigáiról híres.",
+                "ro": "Mic sat-port faimos pentru stridiile direct din golf.",
+                "en": "Small port village famous for oysters straight from the bay."
+              }
             },
             {
               "name": {
@@ -981,7 +1092,12 @@
                 "ro": "Fortăreața Koruna",
                 "en": "Koruna Fortress"
               },
-              "tip_5lang": null
+              "tip_5lang": {
+                "de": "Nehmen Sie sich Zeit für ein paar Fotos und einen Moment Ruhe.",
+                "hu": "Szánjon időt néhány fotóra és egy csendes pillanatra.",
+                "ro": "Acordați-vă timp pentru câteva fotografii și un moment de liniște.",
+                "en": "Take a moment for a few photos and a quiet pause."
+              }
             },
             {
               "name": {
@@ -990,7 +1106,12 @@
                 "ro": "Centrul vechi Ston",
                 "en": "Ston Old Town"
               },
-              "tip_5lang": null
+              "tip_5lang": {
+                "de": "Schachbrettartig angelegtes Renaissance-Städtchen mit Steinhäusern.",
+                "hu": "Sakktábla alaprajzú reneszánsz városka kőházakkal.",
+                "ro": "Orășel renascentist cu plan în formă de tablă de șah și case de piatră.",
+                "en": "Renaissance grid-plan town with handsome stone houses."
+              }
             }
           ],
           "gastro_picks": {
@@ -1299,6 +1420,12 @@
             "hu": "Nagy parkoló a bejáratnál.",
             "ro": "Parcare mare la intrare.",
             "en": "Large parking lot at the entrance."
+          },
+          "tip_5lang": {
+            "de": "Frühmorgens am ruhigsten, später wird es voll mit Cafégästen.",
+            "hu": "Kora reggel a legcsendesebb, később megtelik kávéházi vendégekkel.",
+            "ro": "Cel mai liniștit dimineața devreme, mai târziu se umple.",
+            "en": "Quietest in the early morning before the cafe crowd arrives."
           }
         },
         {
@@ -1322,6 +1449,12 @@
             "hu": "Fotómegálló a fehér sóhalmoknál.",
             "ro": "Oprire pentru poze la movilele de sare.",
             "en": "Photo stop at the white salt mounds."
+          },
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit für ein paar Fotos und einen Moment Ruhe.",
+            "hu": "Szánjon időt néhány fotóra és egy csendes pillanatra.",
+            "ro": "Acordați-vă timp pentru câteva fotografii și un moment de liniște.",
+            "en": "Take a moment for a few photos and a quiet pause."
           }
         },
         {
@@ -1345,6 +1478,12 @@
             "hu": "Rövid út, remek kilátás az öbölre.",
             "ro": "Drum scurt, vedere excelentă spre golf.",
             "en": "Short drive, great view of the bay."
+          },
+          "tip_5lang": {
+            "de": "Kleines Hafendorf, berühmt für Austern direkt aus der Bucht.",
+            "hu": "Kis kikötőfalu, az öbölből frissen kifogott osztrigáiról híres.",
+            "ro": "Mic sat-port faimos pentru stridiile direct din golf.",
+            "en": "Small port village famous for oysters straight from the bay."
           }
         },
         {
@@ -1368,6 +1507,12 @@
             "hu": "Ideális kisgyermekes családoknak.",
             "ro": "Ideal pentru familii cu copii.",
             "en": "Ideal for families with children."
+          },
+          "tip_5lang": {
+            "de": "Sandstrand in einer Bucht, ideal zum Schwimmen und Sonnenuntergang.",
+            "hu": "Homokos öböl, ideális úszáshoz és naplementéhez.",
+            "ro": "Plajă cu nisip într-un golf, ideală pentru înot și apus.",
+            "en": "Sandy cove ideal for swimming and watching the sunset."
           }
         },
         {
@@ -1391,6 +1536,12 @@
             "hu": "Kóstolja meg a Pelješac-i Dingač bort.",
             "ro": "Gustați vinul Dingač din Pelješac.",
             "en": "Taste the famous Pelješac Dingač wine."
+          },
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit für ein paar Fotos und einen Moment Ruhe.",
+            "hu": "Szánjon időt néhány fotóra és egy csendes pillanatra.",
+            "ro": "Acordați-vă timp pentru câteva fotografii și un moment de liniște.",
+            "en": "Take a moment for a few photos and a quiet pause."
           }
         }
       ],
@@ -1520,7 +1671,12 @@
                 "ro": "Centru Ston",
                 "en": "Ston Center"
               },
-              "tip_5lang": null
+              "tip_5lang": {
+                "de": "Frühmorgens am ruhigsten, später wird es voll mit Cafégästen.",
+                "hu": "Kora reggel a legcsendesebb, később megtelik kávéházi vendégekkel.",
+                "ro": "Cel mai liniștit dimineața devreme, mai târziu se umple.",
+                "en": "Quietest in the early morning before the cafe crowd arrives."
+              }
             },
             {
               "name": {
@@ -1529,7 +1685,12 @@
                 "ro": "Bazinele de sare",
                 "en": "Salt Pans"
               },
-              "tip_5lang": null
+              "tip_5lang": {
+                "de": "Nehmen Sie sich Zeit für ein paar Fotos und einen Moment Ruhe.",
+                "hu": "Szánjon időt néhány fotóra és egy csendes pillanatra.",
+                "ro": "Acordați-vă timp pentru câteva fotografii și un moment de liniște.",
+                "en": "Take a moment for a few photos and a quiet pause."
+              }
             },
             {
               "name": {
@@ -1538,7 +1699,12 @@
                 "ro": "Mali Ston",
                 "en": "Mali Ston"
               },
-              "tip_5lang": null
+              "tip_5lang": {
+                "de": "Kleines Hafendorf, berühmt für Austern direkt aus der Bucht.",
+                "hu": "Kis kikötőfalu, az öbölből frissen kifogott osztrigáiról híres.",
+                "ro": "Mic sat-port faimos pentru stridiile direct din golf.",
+                "en": "Small port village famous for oysters straight from the bay."
+              }
             },
             {
               "name": {
@@ -1547,7 +1713,12 @@
                 "ro": "Plaja Prapratno",
                 "en": "Prapratno Beach"
               },
-              "tip_5lang": null
+              "tip_5lang": {
+                "de": "Sandstrand in einer Bucht, ideal zum Schwimmen und Sonnenuntergang.",
+                "hu": "Homokos öböl, ideális úszáshoz és naplementéhez.",
+                "ro": "Plajă cu nisip într-un golf, ideală pentru înot și apus.",
+                "en": "Sandy cove ideal for swimming and watching the sunset."
+              }
             },
             {
               "name": {
@@ -1556,7 +1727,12 @@
                 "ro": "Cramă în apropiere",
                 "en": "Nearby Winery"
               },
-              "tip_5lang": null
+              "tip_5lang": {
+                "de": "Nehmen Sie sich Zeit für ein paar Fotos und einen Moment Ruhe.",
+                "hu": "Szánjon időt néhány fotóra és egy csendes pillanatra.",
+                "ro": "Acordați-vă timp pentru câteva fotografii și un moment de liniște.",
+                "en": "Take a moment for a few photos and a quiet pause."
+              }
             }
           ],
           "gastro_picks": {
@@ -1841,7 +2017,7 @@
       "speed_kmh": 18,
       "start": "09:30",
       "end_estimate": "16:00",
-      "total_km": 5.0,
+      "total_km": 4.1,
       "stop_count": 4,
       "stops": [
         {
@@ -1865,6 +2041,12 @@
             "hu": "Központi érkezési pont Dubrovnik felől.",
             "ro": "Punct central de sosire dinspre Dubrovnik.",
             "en": "Central arrival point from Dubrovnik."
+          },
+          "tip_5lang": {
+            "de": "Frühmorgens am ruhigsten, später wird es voll mit Cafégästen.",
+            "hu": "Kora reggel a legcsendesebb, később megtelik kávéházi vendégekkel.",
+            "ro": "Cel mai liniștit dimineața devreme, mai târziu se umple.",
+            "en": "Quietest in the early morning before the cafe crowd arrives."
           }
         },
         {
@@ -1888,6 +2070,12 @@
             "hu": "Minden gyalogosan is elérhető.",
             "ro": "Totul este accesibil pe jos.",
             "en": "Everything is reachable on foot."
+          },
+          "tip_5lang": {
+            "de": "Schachbrettartig angelegtes Renaissance-Städtchen mit Steinhäusern.",
+            "hu": "Sakktábla alaprajzú reneszánsz városka kőházakkal.",
+            "ro": "Orășel renascentist cu plan în formă de tablă de șah și case de piatră.",
+            "en": "Renaissance grid-plan town with handsome stone houses."
           }
         },
         {
@@ -1911,6 +2099,12 @@
             "hu": "Csak 10 perc séta a központtól.",
             "ro": "Doar 10 min. de mers pe jos din centru.",
             "en": "Only 10 min. walk from the center."
+          },
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit für ein paar Fotos und einen Moment Ruhe.",
+            "hu": "Szánjon időt néhány fotóra és egy csendes pillanatra.",
+            "ro": "Acordați-vă timp pentru câteva fotografii și un moment de liniște.",
+            "en": "Take a moment for a few photos and a quiet pause."
           }
         },
         {
@@ -1934,6 +2128,12 @@
             "hu": "Taxik gyakran állnak a buszmegállónál.",
             "ro": "Taxiurile sunt adesea la stația de autobuz.",
             "en": "Taxis are often available at the bus stop."
+          },
+          "tip_5lang": {
+            "de": "Frühmorgens am ruhigsten, später wird es voll mit Cafégästen.",
+            "hu": "Kora reggel a legcsendesebb, később megtelik kávéházi vendégekkel.",
+            "ro": "Cel mai liniștit dimineața devreme, mai târziu se umple.",
+            "en": "Quietest in the early morning before the cafe crowd arrives."
           }
         }
       ],
@@ -2063,7 +2263,12 @@
                 "ro": "Stația de autobuz Ston",
                 "en": "Ston Bus Stop"
               },
-              "tip_5lang": null
+              "tip_5lang": {
+                "de": "Frühmorgens am ruhigsten, später wird es voll mit Cafégästen.",
+                "hu": "Kora reggel a legcsendesebb, később megtelik kávéházi vendégekkel.",
+                "ro": "Cel mai liniștit dimineața devreme, mai târziu se umple.",
+                "en": "Quietest in the early morning before the cafe crowd arrives."
+              }
             },
             {
               "name": {
@@ -2072,7 +2277,12 @@
                 "ro": "Centrul vechi Ston",
                 "en": "Ston Old Town"
               },
-              "tip_5lang": null
+              "tip_5lang": {
+                "de": "Schachbrettartig angelegtes Renaissance-Städtchen mit Steinhäusern.",
+                "hu": "Sakktábla alaprajzú reneszánsz városka kőházakkal.",
+                "ro": "Orășel renascentist cu plan în formă de tablă de șah și case de piatră.",
+                "en": "Renaissance grid-plan town with handsome stone houses."
+              }
             },
             {
               "name": {
@@ -2081,7 +2291,12 @@
                 "ro": "Salina",
                 "en": "Salt Pans"
               },
-              "tip_5lang": null
+              "tip_5lang": {
+                "de": "Nehmen Sie sich Zeit für ein paar Fotos und einen Moment Ruhe.",
+                "hu": "Szánjon időt néhány fotóra és egy csendes pillanatra.",
+                "ro": "Acordați-vă timp pentru câteva fotografii și un moment de liniște.",
+                "en": "Take a moment for a few photos and a quiet pause."
+              }
             },
             {
               "name": {
@@ -2090,7 +2305,12 @@
                 "ro": "Mali Ston (cu taxi/autobuz)",
                 "en": "Mali Ston (via taxi/bus)"
               },
-              "tip_5lang": null
+              "tip_5lang": {
+                "de": "Frühmorgens am ruhigsten, später wird es voll mit Cafégästen.",
+                "hu": "Kora reggel a legcsendesebb, később megtelik kávéházi vendégekkel.",
+                "ro": "Cel mai liniștit dimineața devreme, mai târziu se umple.",
+                "en": "Quietest in the early morning before the cafe crowd arrives."
+              }
             }
           ],
           "gastro_picks": {

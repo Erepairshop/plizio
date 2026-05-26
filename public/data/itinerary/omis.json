@@ -704,7 +704,7 @@
       "start": "09:00",
       "end_estimate": "15:00",
       "total_km": 14.0,
-      "stop_count": 5,
+      "stop_count": 3,
       "stops": [
         {
           "name": "Cetina-Flussschlucht",
@@ -1138,8 +1138,8 @@
       "speed_kmh": 22,
       "start": "09:00",
       "end_estimate": "16:30",
-      "total_km": 18.0,
-      "stop_count": 5,
+      "total_km": 9.0,
+      "stop_count": 2,
       "stops": [
         {
           "name": "Festung Starigrad",
@@ -1528,8 +1528,8 @@
       "speed_kmh": 18,
       "start": "09:00",
       "end_estimate": "15:30",
-      "total_km": 6.0,
-      "stop_count": 5,
+      "total_km": 1.0,
+      "stop_count": 3,
       "stops": [
         {
           "name": "Bushaltestelle Omiš",

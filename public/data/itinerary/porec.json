@@ -794,7 +794,7 @@
       "start": "09:00",
       "end_estimate": "15:00",
       "total_km": 12.5,
-      "stop_count": 6,
+      "stop_count": 5,
       "stops": [
         {
           "name": "Fünfeckiger Turm",
@@ -1318,8 +1318,8 @@
       "speed_kmh": 22,
       "start": "09:00",
       "end_estimate": "16:00",
-      "total_km": 25.0,
-      "stop_count": 5,
+      "total_km": 18.0,
+      "stop_count": 3,
       "stops": [
         {
           "name": "Baredine Höhle",
@@ -1753,8 +1753,8 @@
       "speed_kmh": 18,
       "start": "09:00",
       "end_estimate": "15:30",
-      "total_km": 8.0,
-      "stop_count": 5,
+      "total_km": 1.5,
+      "stop_count": 3,
       "stops": [
         {
           "name": "Busbahnhof Poreč",

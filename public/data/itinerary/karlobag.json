@@ -37,6 +37,12 @@
             "hu": "Látogassa meg a kolostor értékes könyvtárát.",
             "ro": "Vizitați biblioteca valoroasă a mănăstirii.",
             "en": "Visit the monastery's valuable library."
+          },
+          "tip_5lang": {
+            "de": "Im Klostergarten wächst eine der ältesten Olivenbäume der Region.",
+            "hu": "A kolostor kertjében áll a régió egyik legidősebb olajfája.",
+            "ro": "În grădina mănăstirii se află unul dintre cei mai bătrâni măslini din regiune.",
+            "en": "The monastery garden holds one of the oldest olive trees in the region."
           }
         },
         {
@@ -60,6 +66,12 @@
             "hu": "Csodálja meg a barokk építészetet a központban.",
             "ro": "Admirați arhitectura barocă din centru.",
             "en": "Admire the Baroque architecture in the center."
+          },
+          "tip_5lang": {
+            "de": "Achten Sie auf den barocken Hauptaltar mit dem vergoldeten Tabernakel.",
+            "hu": "Figyelje meg a barokk főoltárt és az aranyozott tabernákulumot.",
+            "ro": "Observați altarul principal baroc cu tabernacolul aurit.",
+            "en": "Don't miss the Baroque high altar with its gilded tabernacle."
           }
         },
         {
@@ -83,6 +95,12 @@
             "hu": "A kilátás Pag szigetére megéri a mászást.",
             "ro": "Urcarea merită pentru vederea spre insula Pag.",
             "en": "The climb is worth it for the view of Pag."
+          },
+          "tip_5lang": {
+            "de": "Der Pfad ist steil und schattenlos — gehen Sie früh morgens oder am Abend.",
+            "hu": "Az ösvény meredek és árnyéktalan, kora reggel vagy este érdemes felmenni.",
+            "ro": "Cărarea este abruptă și fără umbră, urcați dimineața devreme sau seara.",
+            "en": "The path is steep and shadeless — go early morning or in the evening."
           }
         },
         {
@@ -106,6 +124,12 @@
             "hu": "Csendes hely illatos gyógynövényekkel.",
             "ro": "Un loc liniștit cu ierburi aromate.",
             "en": "A quiet spot with fragrant herbs."
+          },
+          "tip_5lang": {
+            "de": "Über 250 Pflanzenarten sind beschildert — eine gute Lektion in Mittelmeerflora.",
+            "hu": "Több mint 250 növényfaj táblázott, kiváló lecke a mediterrán flórából.",
+            "ro": "Peste 250 de specii de plante sunt etichetate, o lecție bună de floră mediteraneană.",
+            "en": "Over 250 plant species are labelled — a great lesson in Mediterranean flora."
           }
         },
         {
@@ -129,6 +153,12 @@
             "hu": "Tökéletes felfrissülés a tiszta tengerben.",
             "ro": "Perfect pentru o revigorare în marea limpede.",
             "en": "Perfect for a refresh in the clear sea."
+          },
+          "tip_5lang": {
+            "de": "Die Bora kann den Strand bei Sturm unzugänglich machen — prüfen Sie die Wettermeldung.",
+            "hu": "A bóra viharos időben elérhetetlenné teheti a strandot, nézze meg az időjárást.",
+            "ro": "Vântul Bora poate face plaja inaccesibilă pe furtună, verificați prognoza.",
+            "en": "Strong bora wind can shut the beach down — check the forecast before heading over."
           }
         },
         {
@@ -152,6 +182,12 @@
             "hu": "Élvezze a naplementét a kikötőben.",
             "ro": "Bucurați-vă de apusul de soare în port.",
             "en": "Enjoy the sunset at the harbor."
+          },
+          "tip_5lang": {
+            "de": "Die Konobas am westlichen Promenadenende servieren den frischesten Fisch.",
+            "hu": "A sétány nyugati végén lévő konobák szolgálják fel a legfrissebb halat.",
+            "ro": "Crâșmele de la capătul vestic al falezei servesc cel mai proaspăt pește.",
+            "en": "The konobas at the western end of the promenade serve the freshest fish."
           }
         }
       ],
@@ -701,7 +737,7 @@
       "speed_kmh": 10,
       "start": "09:00",
       "end_estimate": "16:45",
-      "total_km": 12.5,
+      "total_km": 17.5,
       "stop_count": 5,
       "stops": [
         {
@@ -725,6 +761,12 @@
             "hu": "Kezdje a túrát a csendes kolostorkertben.",
             "ro": "Începeți turul în grădina liniștită a mănăstirii.",
             "en": "Start the tour in the quiet monastery garden."
+          },
+          "tip_5lang": {
+            "de": "Stellen Sie das Rad an der Klostermauer ab, das ist ausdrücklich erlaubt.",
+            "hu": "A kolostorfalhoz támasztva hagyhatja a biciklit, ez kifejezetten megengedett.",
+            "ro": "Lăsați bicicleta lângă zidul mănăstirii, este permis în mod expres.",
+            "en": "You may leave bikes against the monastery wall — it's explicitly allowed here."
           }
         },
         {
@@ -748,6 +790,12 @@
             "hu": "Régi kereskedelmi út nagyszerű kilátással.",
             "ro": "Un vechi drum comercial cu vederi superbe.",
             "en": "An old trade route with great views."
+          },
+          "tip_5lang": {
+            "de": "Diese kaiserliche Straße aus 1786 hat noch original gepflasterte Abschnitte.",
+            "hu": "Az 1786-os császári út néhány szakaszán még eredeti kövezet látható.",
+            "ro": "Acest drum imperial din 1786 mai păstrează porțiuni de pavaj original.",
+            "en": "Sections of this 1786 imperial road still retain their original paving stones."
           }
         },
         {
@@ -771,6 +819,12 @@
             "hu": "Kis templom a falu szélén.",
             "ro": "Biserică mică la marginea satului.",
             "en": "Small church on the outskirts."
+          },
+          "tip_5lang": {
+            "de": "Außerhalb der Messzeiten ist die Kirche meist zu — der Schlüssel liegt nebenan.",
+            "hu": "Mise idején kívül a templom zárva, a kulcs a szomszéd házban kérhető.",
+            "ro": "În afara orelor de slujbă biserica este închisă, cheia se cere la casa vecină.",
+            "en": "Outside service hours the church is closed — the key is kept next door."
           }
         },
         {
@@ -794,6 +848,12 @@
             "hu": "Keressen egy eldugott öblöt a fürdőzéshez.",
             "ro": "Căutați un golf retras pentru înot.",
             "en": "Find a secluded cove for swimming."
+          },
+          "tip_5lang": {
+            "de": "Diese Küstenroute hat versteckte Buchten — bringen Sie Badesachen mit.",
+            "hu": "A parti útvonalon rejtett öblök sorakoznak, hozzon magával fürdőruhát.",
+            "ro": "Pe acest traseu de coastă sunt golfuri ascunse, luați costumul de baie.",
+            "en": "This coastal route passes hidden coves — pack your swimsuit just in case."
           }
         },
         {
@@ -817,6 +877,12 @@
             "hu": "Pihentető befejezés a kikötőben.",
             "ro": "Final relaxant în port.",
             "en": "Relaxing end at the harbor."
+          },
+          "tip_5lang": {
+            "de": "Am Ende der Promenade gibt es einen Brunnen zum Auffüllen der Trinkflasche.",
+            "hu": "A sétány végén kút található, ahol megtöltheti a kulacsát.",
+            "ro": "La capătul falezei există o fântână unde puteți umple sticla cu apă.",
+            "en": "A fountain at the promenade's end lets you top up your bottle for free."
           }
         }
       ],
@@ -1291,6 +1357,12 @@
             "hu": "Ingyenes parkolás a kolostornál gyakran lehetséges.",
             "ro": "Parcare gratuită la mănăstire adesea posibilă.",
             "en": "Free parking at the monastery often possible."
+          },
+          "tip_5lang": {
+            "de": "Direkt vor dem Kloster gibt es drei kostenpflichtige Stellplätze.",
+            "hu": "A kolostor előtt három fizetős parkolóhely található.",
+            "ro": "Chiar în fața mănăstirii sunt trei locuri de parcare cu plată.",
+            "en": "Three paid parking spots sit right in front of the monastery — first come, first served."
           }
         },
         {
@@ -1314,6 +1386,12 @@
             "hu": "Fotómegálló a híres 'kőszemnél'.",
             "ro": "Oprire foto la celebrul 'ochi de piatră'.",
             "en": "Photo stop at the famous 'Stone Eye'."
+          },
+          "tip_5lang": {
+            "de": "Auf der Passhöhe weht oft starker Wind — Türen gut festhalten beim Öffnen.",
+            "hu": "A hágón gyakran erős a szél, óvatosan nyissa az autóajtót.",
+            "ro": "În vârful trecătorii vântul este adesea puternic, deschideți ușa cu grijă.",
+            "en": "Strong wind often whips the pass — hold the door firmly when you open it."
           }
         },
         {
@@ -1337,6 +1415,12 @@
             "hu": "Tudjon meg többet az út 18. századi építéséről.",
             "ro": "Aflați mai multe despre construcția acestui drum în sec. XVIII.",
             "en": "Learn more about the construction of this road in the 18th century."
+          },
+          "tip_5lang": {
+            "de": "Auf den Serpentinen unbedingt im 2. Gang fahren, die Kurven sind eng.",
+            "hu": "A szerpentinen mindenképp 2. sebességben menjen, a kanyarok szűkek.",
+            "ro": "Pe serpentine mergeți obligatoriu în treapta a doua, virajele sunt strânse.",
+            "en": "Stay in second gear on the switchbacks — the turns are tight and blind."
           }
         },
         {
@@ -1360,6 +1444,12 @@
             "hu": "A település központi találkozóhelye.",
             "ro": "Loc de întâlnire central al localității.",
             "en": "Central meeting point of the village."
+          },
+          "tip_5lang": {
+            "de": "An der Küstenstraße ist Parken nur in markierten Buchten gestattet.",
+            "hu": "A parti úton csak a kijelölt öblökben szabad parkolni.",
+            "ro": "Pe drumul de coastă parcarea este permisă doar în nișele marcate.",
+            "en": "On the coastal road, parking is only allowed in the marked lay-bys."
           }
         },
         {
@@ -1383,6 +1473,12 @@
             "hu": "Élvezze a botanikai sokféleséget.",
             "ro": "Bucurați-vă de diversitatea botanică.",
             "en": "Enjoy the botanical diversity."
+          },
+          "tip_5lang": {
+            "de": "Der Garten hat keinen eigenen Parkplatz, nutzen Sie den Strandparkplatz daneben.",
+            "hu": "A kertnek nincs saját parkolója, a melletti strandparkoló használható.",
+            "ro": "Grădina nu are parcare proprie, folosiți parcarea de la plaja alăturată.",
+            "en": "The garden has no parking; use the beach lot next door for a short stay."
           }
         }
       ],
@@ -1833,7 +1929,7 @@
       "speed_kmh": 15,
       "start": "09:00",
       "end_estimate": "16:15",
-      "total_km": 3.5,
+      "total_km": 1.9,
       "stop_count": 5,
       "stops": [
         {
@@ -1857,6 +1953,12 @@
             "hu": "Közel van a buszmegállóhoz.",
             "ro": "Aproape de stația de autobuz.",
             "en": "Close to the bus stop."
+          },
+          "tip_5lang": {
+            "de": "Die Bushaltestelle Karlobag-Centar liegt 200 Meter unterhalb des Klosters.",
+            "hu": "A Karlobag-Centar buszmegálló 200 méterrel a kolostor alatt található.",
+            "ro": "Stația de autobuz Karlobag-Centar este la 200 de metri sub mănăstire.",
+            "en": "The Karlobag-Centar bus stop is 200 metres below the monastery."
           }
         },
         {
@@ -1880,6 +1982,12 @@
             "hu": "Tekintse meg a belső teret.",
             "ro": "Vizitați interiorul.",
             "en": "Visit the interior."
+          },
+          "tip_5lang": {
+            "de": "Sonntags wird der Sonderbus zur Sonntagsmesse von der Pfarrei organisiert.",
+            "hu": "Vasárnaponként a plébánia külön buszt szervez a misére.",
+            "ro": "Duminica, parohia organizează un autobuz special pentru slujba de duminică.",
+            "en": "On Sundays the parish lays on a dedicated shuttle bus to the mass."
           }
         },
         {
@@ -1903,6 +2011,12 @@
             "hu": "Ideális egy hosszú délelőtthöz a tengernél.",
             "ro": "Ideal pentru o dimineață lungă la mare.",
             "en": "Ideal for a long morning by the sea."
+          },
+          "tip_5lang": {
+            "de": "Der Stadtbus 1 fährt im Sommer alle 30 Minuten zum Strand.",
+            "hu": "Nyáron a városi 1-es busz félóránként jár a strandhoz.",
+            "ro": "Vara, autobuzul orașului linia 1 circulă din 30 în 30 de minute spre plajă.",
+            "en": "In summer the city's bus 1 runs to the beach every thirty minutes."
           }
         },
         {
@@ -1926,6 +2040,12 @@
             "hu": "Gyalogosan jól megközelíthető.",
             "ro": "Ușor accesibil pe jos.",
             "en": "Easily accessible on foot."
+          },
+          "tip_5lang": {
+            "de": "Vom Strand zum Garten sind es 4 Minuten zu Fuß entlang der Promenade.",
+            "hu": "A strandtól a kertig 4 perces séta a sétány mentén.",
+            "ro": "De la plajă până la grădină sunt 4 minute de mers pe faleză.",
+            "en": "From the beach, the garden is a four-minute stroll along the promenade."
           }
         },
         {
@@ -1949,6 +2069,12 @@
             "hu": "Várakozás a buszra tengeri kilátással.",
             "ro": "Așteptarea autobuzului cu vedere la mare.",
             "en": "Waiting for the bus with sea view."
+          },
+          "tip_5lang": {
+            "de": "Die letzte Verbindung nach Senj fährt um 20:15, danach nur noch Taxi.",
+            "hu": "Az utolsó busz Senj felé 20:15-kor indul, utána már csak taxi marad.",
+            "ro": "Ultima cursă spre Senj pleacă la 20:15, după aceea doar taxi.",
+            "en": "The last connection toward Senj leaves at 20:15 — taxi only after that."
           }
         }
       ],

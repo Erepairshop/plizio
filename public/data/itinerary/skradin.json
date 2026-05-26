@@ -24,8 +24,8 @@
             "en": "Main Square Trg Male Gospe"
           },
           "coords": [
-            43.8203,
-            15.9217
+            15.9217,
+            43.8203
           ],
           "category": "squares/old-town",
           "arrive_at": "09:00",
@@ -37,6 +37,12 @@
             "hu": "Igyon egy kávét és figyelje a helyi életet.",
             "ro": "Beți o cafea și observați viața locală.",
             "en": "Have a coffee and watch the local life."
+          },
+          "tip_5lang": {
+            "de": "Frühmorgens am ruhigsten, später wird es voll mit Cafégästen.",
+            "hu": "Kora reggel a legcsendesebb, később megtelik kávéházi vendégekkel.",
+            "ro": "Cel mai liniștit dimineața devreme, mai târziu se umple.",
+            "en": "Quietest in the early morning before the cafe crowd arrives."
           }
         },
         {
@@ -47,8 +53,8 @@
             "en": "Church of the Nativity of the Blessed Virgin Mary"
           },
           "coords": [
-            43.8198,
-            15.9211
+            15.9211,
+            43.8198
           ],
           "category": "churches/cathedrals",
           "arrive_at": "09:18",
@@ -60,6 +66,12 @@
             "hu": "Csodálja meg a jellegzetes harangtornyot.",
             "ro": "Admirați clopotnița distinctivă.",
             "en": "Admire the distinctive bell tower."
+          },
+          "tip_5lang": {
+            "de": "Beachten Sie die Kleiderordnung beim Betreten der Kirche.",
+            "hu": "Vegye figyelembe a templomi öltözködési szabályokat.",
+            "ro": "Respectați codul vestimentar la intrarea în biserică.",
+            "en": "Mind the dress code when entering the church."
           }
         },
         {
@@ -70,8 +82,8 @@
             "en": "Turina Fortress"
           },
           "coords": [
-            43.8215,
-            15.9225
+            15.9225,
+            43.8215
           ],
           "category": "castles/fortresses/towers",
           "arrive_at": "09:55",
@@ -83,6 +95,12 @@
             "hu": "A legjobb panoráma a városra és a folyóra.",
             "ro": "Cea mai bună vedere panoramică asupra orașului și râului.",
             "en": "Best panoramic view of the town and river."
+          },
+          "tip_5lang": {
+            "de": "Mittelalterliche Festungsruine über der Stadt, kurzer steiler Aufstieg.",
+            "hu": "Középkori várromok a város felett, rövid, de meredek emelkedő.",
+            "ro": "Ruinele unei cetăți medievale deasupra orașului, urcuș scurt dar abrupt.",
+            "en": "Medieval fortress ruins above town, a short but steep climb."
           }
         },
         {
@@ -93,8 +111,8 @@
             "en": "Museum Scardona Park"
           },
           "coords": [
-            43.8185,
-            15.9205
+            15.9205,
+            43.8185
           ],
           "category": "museums",
           "arrive_at": "10:49",
@@ -106,6 +124,12 @@
             "hu": "Ismerje meg Scardona ókori történelmét.",
             "ro": "Aflați despre istoria antică a orașului Scardona.",
             "en": "Learn about the ancient history of Scardona."
+          },
+          "tip_5lang": {
+            "de": "Klein aber gut kuratiert, planen Sie etwa 30 Minuten ein.",
+            "hu": "Kicsi, de jól kurált, kb. 30 percet szánjon rá.",
+            "ro": "Mic dar bine organizat, alocați-i circa 30 de minute.",
+            "en": "Small but well-curated; allow about 30 minutes."
           }
         },
         {
@@ -116,8 +140,8 @@
             "en": "Skradin Marina"
           },
           "coords": [
-            43.818,
-            15.924
+            15.924,
+            43.818
           ],
           "category": "parks/promenades/beaches",
           "arrive_at": "11:56",
@@ -129,6 +153,12 @@
             "hu": "Sétáljon a luxusjachtok mentén.",
             "ro": "Plimbați-vă pe lângă iahturile de lux.",
             "en": "Stroll along the luxury yachts."
+          },
+          "tip_5lang": {
+            "de": "Ruhiger Süßwasser-Yachthafen am Fluss Krka, beliebt bei Seglern.",
+            "hu": "Csendes édesvízi jachtkikötő a Krka folyón, vitorlások kedvelt helye.",
+            "ro": "Marină liniștită de apă dulce pe râul Krka, preferată de velieri.",
+            "en": "Quiet freshwater marina on the Krka River, popular with sailors."
           }
         },
         {
@@ -139,8 +169,8 @@
             "en": "Krka National Park Entrance"
           },
           "coords": [
-            43.817,
-            15.923
+            15.923,
+            43.817
           ],
           "category": "parks/promenades/beaches",
           "arrive_at": "13:01",
@@ -152,6 +182,12 @@
             "hu": "Itt válthat jegyet a hajóútra.",
             "ro": "Cumpărați bilete pentru plimbarea cu barca aici.",
             "en": "Buy your tickets for the boat ride here."
+          },
+          "tip_5lang": {
+            "de": "Eintritt am Skradin-Pier zahlen, das Bootsticket ist inklusive.",
+            "hu": "A belépőt a skradini mólón fizesse, a hajójegy benne van az árban.",
+            "ro": "Plătiți biletul la debarcaderul Skradin, transportul cu barca e inclus.",
+            "en": "Buy your ticket at Skradin pier; the boat shuttle is included."
           }
         }
       ],
@@ -297,7 +333,12 @@
                 "ro": "Piața Trg Male Gospe",
                 "en": "Main Square Trg Male Gospe"
               },
-              "tip_5lang": null
+              "tip_5lang": {
+                "de": "Frühmorgens am ruhigsten, später wird es voll mit Cafégästen.",
+                "hu": "Kora reggel a legcsendesebb, később megtelik kávéházi vendégekkel.",
+                "ro": "Cel mai liniștit dimineața devreme, mai târziu se umple.",
+                "en": "Quietest in the early morning before the cafe crowd arrives."
+              }
             },
             {
               "name": {
@@ -306,7 +347,12 @@
                 "ro": "Biserica Nașterea Maicii Domnului",
                 "en": "Church of the Nativity of the Blessed Virgin Mary"
               },
-              "tip_5lang": null
+              "tip_5lang": {
+                "de": "Beachten Sie die Kleiderordnung beim Betreten der Kirche.",
+                "hu": "Vegye figyelembe a templomi öltözködési szabályokat.",
+                "ro": "Respectați codul vestimentar la intrarea în biserică.",
+                "en": "Mind the dress code when entering the church."
+              }
             },
             {
               "name": {
@@ -315,7 +361,12 @@
                 "ro": "Cetatea Turina",
                 "en": "Turina Fortress"
               },
-              "tip_5lang": null
+              "tip_5lang": {
+                "de": "Mittelalterliche Festungsruine über der Stadt, kurzer steiler Aufstieg.",
+                "hu": "Középkori várromok a város felett, rövid, de meredek emelkedő.",
+                "ro": "Ruinele unei cetăți medievale deasupra orașului, urcuș scurt dar abrupt.",
+                "en": "Medieval fortress ruins above town, a short but steep climb."
+              }
             },
             {
               "name": {
@@ -324,7 +375,12 @@
                 "ro": "Muzeul Scardona Park",
                 "en": "Museum Scardona Park"
               },
-              "tip_5lang": null
+              "tip_5lang": {
+                "de": "Klein aber gut kuratiert, planen Sie etwa 30 Minuten ein.",
+                "hu": "Kicsi, de jól kurált, kb. 30 percet szánjon rá.",
+                "ro": "Mic dar bine organizat, alocați-i circa 30 de minute.",
+                "en": "Small but well-curated; allow about 30 minutes."
+              }
             },
             {
               "name": {
@@ -333,7 +389,12 @@
                 "ro": "Marina Skradin",
                 "en": "Skradin Marina"
               },
-              "tip_5lang": null
+              "tip_5lang": {
+                "de": "Ruhiger Süßwasser-Yachthafen am Fluss Krka, beliebt bei Seglern.",
+                "hu": "Csendes édesvízi jachtkikötő a Krka folyón, vitorlások kedvelt helye.",
+                "ro": "Marină liniștită de apă dulce pe râul Krka, preferată de velieri.",
+                "en": "Quiet freshwater marina on the Krka River, popular with sailors."
+              }
             },
             {
               "name": {
@@ -342,7 +403,12 @@
                 "ro": "Intrarea în Parcul Național Krka",
                 "en": "Krka National Park Entrance"
               },
-              "tip_5lang": null
+              "tip_5lang": {
+                "de": "Eintritt am Skradin-Pier zahlen, das Bootsticket ist inklusive.",
+                "hu": "A belépőt a skradini mólón fizesse, a hajójegy benne van az árban.",
+                "ro": "Plătiți biletul la debarcaderul Skradin, transportul cu barca e inclus.",
+                "en": "Buy your ticket at Skradin pier; the boat shuttle is included."
+              }
             }
           ],
           "gastro_picks": {
@@ -664,8 +730,8 @@
             "en": "Skradin Marina"
           },
           "coords": [
-            43.818,
-            15.924
+            15.924,
+            43.818
           ],
           "category": "parks/promenades/beaches",
           "arrive_at": "09:00",
@@ -677,6 +743,12 @@
             "hu": "A folyó menti kerékpártúra kiindulópontja.",
             "ro": "Punctul de plecare pentru turul cu bicicleta de-a lungul râului.",
             "en": "Starting point for the bike tour along the river."
+          },
+          "tip_5lang": {
+            "de": "Ruhiger Süßwasser-Yachthafen am Fluss Krka, beliebt bei Seglern.",
+            "hu": "Csendes édesvízi jachtkikötő a Krka folyón, vitorlások kedvelt helye.",
+            "ro": "Marină liniștită de apă dulce pe râul Krka, preferată de velieri.",
+            "en": "Quiet freshwater marina on the Krka River, popular with sailors."
           }
         },
         {
@@ -687,8 +759,8 @@
             "en": "Skradinski Buk Waterfall"
           },
           "coords": [
-            43.805,
-            15.94
+            15.94,
+            43.805
           ],
           "category": "natural features",
           "arrive_at": "09:35",
@@ -700,6 +772,12 @@
             "hu": "A kerékpárút közvetlenül Skradinból vezet a vízeséshez.",
             "ro": "Traseul de biciclete duce direct de la Skradin la cascadă.",
             "en": "The bike path leads directly from Skradin to the waterfall."
+          },
+          "tip_5lang": {
+            "de": "Festes Schuhwerk empfohlen, der Untergrund kann uneben sein.",
+            "hu": "Stabil lábbeli ajánlott, az aljzat egyenetlen lehet.",
+            "ro": "Încălțăminte stabilă recomandată, terenul poate fi accidentat.",
+            "en": "Sturdy footwear recommended; the terrain can be uneven."
           }
         },
         {
@@ -710,8 +788,8 @@
             "en": "Krka Bridge"
           },
           "coords": [
-            43.815,
-            15.91
+            15.91,
+            43.815
           ],
           "category": "bridges/lighthouses",
           "arrive_at": "12:00",
@@ -723,6 +801,12 @@
             "hu": "Remek kilátás az autópályahídra és a kanyonra.",
             "ro": "Vedere minunată spre podul autostrăzii și canion.",
             "en": "Great view of the highway bridge and the canyon."
+          },
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit für ein paar Fotos und einen Moment Ruhe.",
+            "hu": "Szánjon időt néhány fotóra és egy csendes pillanatra.",
+            "ro": "Acordați-vă timp pentru câteva fotografii și un moment de liniște.",
+            "en": "Take a moment for a few photos and a quiet pause."
           }
         },
         {
@@ -733,8 +817,8 @@
             "en": "Main Square Trg Male Gospe"
           },
           "coords": [
-            43.8203,
-            15.9217
+            15.9217,
+            43.8203
           ],
           "category": "squares/old-town",
           "arrive_at": "12:37",
@@ -746,6 +830,12 @@
             "hu": "Rövid pihenő a központban.",
             "ro": "Scurtă pauză în centru.",
             "en": "Short break in the center."
+          },
+          "tip_5lang": {
+            "de": "Frühmorgens am ruhigsten, später wird es voll mit Cafégästen.",
+            "hu": "Kora reggel a legcsendesebb, később megtelik kávéházi vendégekkel.",
+            "ro": "Cel mai liniștit dimineața devreme, mai târziu se umple.",
+            "en": "Quietest in the early morning before the cafe crowd arrives."
           }
         },
         {
@@ -756,8 +846,8 @@
             "en": "Turina Fortress"
           },
           "coords": [
-            43.8215,
-            15.9225
+            15.9225,
+            43.8215
           ],
           "category": "castles/fortresses/towers",
           "arrive_at": "13:00",
@@ -769,6 +859,12 @@
             "hu": "Kihívást jelentő emelkedő kerékpárral.",
             "ro": "Urcare provocatoare cu bicicleta.",
             "en": "Challenging climb with the bike."
+          },
+          "tip_5lang": {
+            "de": "Mittelalterliche Festungsruine über der Stadt, kurzer steiler Aufstieg.",
+            "hu": "Középkori várromok a város felett, rövid, de meredek emelkedő.",
+            "ro": "Ruinele unei cetăți medievale deasupra orașului, urcuș scurt dar abrupt.",
+            "en": "Medieval fortress ruins above town, a short but steep climb."
           }
         }
       ],
@@ -898,7 +994,12 @@
                 "ro": "Marina Skradin",
                 "en": "Skradin Marina"
               },
-              "tip_5lang": null
+              "tip_5lang": {
+                "de": "Ruhiger Süßwasser-Yachthafen am Fluss Krka, beliebt bei Seglern.",
+                "hu": "Csendes édesvízi jachtkikötő a Krka folyón, vitorlások kedvelt helye.",
+                "ro": "Marină liniștită de apă dulce pe râul Krka, preferată de velieri.",
+                "en": "Quiet freshwater marina on the Krka River, popular with sailors."
+              }
             },
             {
               "name": {
@@ -907,7 +1008,12 @@
                 "ro": "Cascada Skradinski Buk",
                 "en": "Skradinski Buk Waterfall"
               },
-              "tip_5lang": null
+              "tip_5lang": {
+                "de": "Festes Schuhwerk empfohlen, der Untergrund kann uneben sein.",
+                "hu": "Stabil lábbeli ajánlott, az aljzat egyenetlen lehet.",
+                "ro": "Încălțăminte stabilă recomandată, terenul poate fi accidentat.",
+                "en": "Sturdy footwear recommended; the terrain can be uneven."
+              }
             },
             {
               "name": {
@@ -916,7 +1022,12 @@
                 "ro": "Podul Krka",
                 "en": "Krka Bridge"
               },
-              "tip_5lang": null
+              "tip_5lang": {
+                "de": "Nehmen Sie sich Zeit für ein paar Fotos und einen Moment Ruhe.",
+                "hu": "Szánjon időt néhány fotóra és egy csendes pillanatra.",
+                "ro": "Acordați-vă timp pentru câteva fotografii și un moment de liniște.",
+                "en": "Take a moment for a few photos and a quiet pause."
+              }
             },
             {
               "name": {
@@ -925,7 +1036,12 @@
                 "ro": "Piața Trg Male Gospe",
                 "en": "Main Square Trg Male Gospe"
               },
-              "tip_5lang": null
+              "tip_5lang": {
+                "de": "Frühmorgens am ruhigsten, später wird es voll mit Cafégästen.",
+                "hu": "Kora reggel a legcsendesebb, később megtelik kávéházi vendégekkel.",
+                "ro": "Cel mai liniștit dimineața devreme, mai târziu se umple.",
+                "en": "Quietest in the early morning before the cafe crowd arrives."
+              }
             },
             {
               "name": {
@@ -934,7 +1050,12 @@
                 "ro": "Cetatea Turina",
                 "en": "Turina Fortress"
               },
-              "tip_5lang": null
+              "tip_5lang": {
+                "de": "Mittelalterliche Festungsruine über der Stadt, kurzer steiler Aufstieg.",
+                "hu": "Középkori várromok a város felett, rövid, de meredek emelkedő.",
+                "ro": "Ruinele unei cetăți medievale deasupra orașului, urcuș scurt dar abrupt.",
+                "en": "Medieval fortress ruins above town, a short but steep climb."
+              }
             }
           ],
           "gastro_picks": {
@@ -1211,7 +1332,7 @@
       "speed_kmh": 22,
       "start": "09:00",
       "end_estimate": "15:00",
-      "total_km": 15.0,
+      "total_km": 12.2,
       "stop_count": 5,
       "stops": [
         {
@@ -1222,8 +1343,8 @@
             "en": "Krka Bridge Viewpoint"
           },
           "coords": [
-            43.815,
-            15.91
+            15.91,
+            43.815
           ],
           "category": "bridges/lighthouses",
           "arrive_at": "09:15",
@@ -1235,6 +1356,12 @@
             "hu": "Közvetlenül a 'Krka' pihenőhelyen.",
             "ro": "Direct la stația de odihnă 'Krka'.",
             "en": "Right at the 'Krka' rest area."
+          },
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit für ein paar Fotos und einen Moment Ruhe.",
+            "hu": "Szánjon időt néhány fotóra és egy csendes pillanatra.",
+            "ro": "Acordați-vă timp pentru câteva fotografii și un moment de liniște.",
+            "en": "Take a moment for a few photos and a quiet pause."
           }
         },
         {
@@ -1245,8 +1372,8 @@
             "en": "Turina Fortress"
           },
           "coords": [
-            43.8215,
-            15.9225
+            15.9225,
+            43.8215
           ],
           "category": "castles/fortresses/towers",
           "arrive_at": "10:00",
@@ -1258,6 +1385,12 @@
             "hu": "Használja a központi parkolót.",
             "ro": "Folosiți parcarea din centru.",
             "en": "Use the central parking lot."
+          },
+          "tip_5lang": {
+            "de": "Mittelalterliche Festungsruine über der Stadt, kurzer steiler Aufstieg.",
+            "hu": "Középkori várromok a város felett, rövid, de meredek emelkedő.",
+            "ro": "Ruinele unei cetăți medievale deasupra orașului, urcuș scurt dar abrupt.",
+            "en": "Medieval fortress ruins above town, a short but steep climb."
           }
         },
         {
@@ -1268,8 +1401,8 @@
             "en": "Main Square Trg Male Gospe"
           },
           "coords": [
-            43.8203,
-            15.9217
+            15.9217,
+            43.8203
           ],
           "category": "squares/old-town",
           "arrive_at": "10:50",
@@ -1281,6 +1414,12 @@
             "hu": "A központ gyalogos övezet.",
             "ro": "Centrul este zonă pietonală.",
             "en": "The center is a pedestrian zone."
+          },
+          "tip_5lang": {
+            "de": "Frühmorgens am ruhigsten, später wird es voll mit Cafégästen.",
+            "hu": "Kora reggel a legcsendesebb, később megtelik kávéházi vendégekkel.",
+            "ro": "Cel mai liniștit dimineața devreme, mai târziu se umple.",
+            "en": "Quietest in the early morning before the cafe crowd arrives."
           }
         },
         {
@@ -1291,8 +1430,8 @@
             "en": "Church of the Nativity of the Blessed Virgin Mary"
           },
           "coords": [
-            43.8198,
-            15.9211
+            15.9211,
+            43.8198
           ],
           "category": "churches/cathedrals",
           "arrive_at": "11:08",
@@ -1304,6 +1443,12 @@
             "hu": "Kihagyhatatlan az óvárosban.",
             "ro": "O necesitate în orașul vechi.",
             "en": "A must in the old town."
+          },
+          "tip_5lang": {
+            "de": "Beachten Sie die Kleiderordnung beim Betreten der Kirche.",
+            "hu": "Vegye figyelembe a templomi öltözködési szabályokat.",
+            "ro": "Respectați codul vestimentar la intrarea în biserică.",
+            "en": "Mind the dress code when entering the church."
           }
         },
         {
@@ -1314,8 +1459,8 @@
             "en": "Skradin Marina"
           },
           "coords": [
-            43.818,
-            15.924
+            15.924,
+            43.818
           ],
           "category": "parks/promenades/beaches",
           "arrive_at": "11:43",
@@ -1327,6 +1472,12 @@
             "hu": "Séta a vízparton ebéd előtt.",
             "ro": "Plimbare pe malul apei înainte de prânz.",
             "en": "Walk by the water before lunch."
+          },
+          "tip_5lang": {
+            "de": "Ruhiger Süßwasser-Yachthafen am Fluss Krka, beliebt bei Seglern.",
+            "hu": "Csendes édesvízi jachtkikötő a Krka folyón, vitorlások kedvelt helye.",
+            "ro": "Marină liniștită de apă dulce pe râul Krka, preferată de velieri.",
+            "en": "Quiet freshwater marina on the Krka River, popular with sailors."
           }
         }
       ],
@@ -1456,7 +1607,12 @@
                 "ro": "Punct de belvedere Podul Krka",
                 "en": "Krka Bridge Viewpoint"
               },
-              "tip_5lang": null
+              "tip_5lang": {
+                "de": "Nehmen Sie sich Zeit für ein paar Fotos und einen Moment Ruhe.",
+                "hu": "Szánjon időt néhány fotóra és egy csendes pillanatra.",
+                "ro": "Acordați-vă timp pentru câteva fotografii și un moment de liniște.",
+                "en": "Take a moment for a few photos and a quiet pause."
+              }
             },
             {
               "name": {
@@ -1465,7 +1621,12 @@
                 "ro": "Cetatea Turina",
                 "en": "Turina Fortress"
               },
-              "tip_5lang": null
+              "tip_5lang": {
+                "de": "Mittelalterliche Festungsruine über der Stadt, kurzer steiler Aufstieg.",
+                "hu": "Középkori várromok a város felett, rövid, de meredek emelkedő.",
+                "ro": "Ruinele unei cetăți medievale deasupra orașului, urcuș scurt dar abrupt.",
+                "en": "Medieval fortress ruins above town, a short but steep climb."
+              }
             },
             {
               "name": {
@@ -1474,7 +1635,12 @@
                 "ro": "Piața Trg Male Gospe",
                 "en": "Main Square Trg Male Gospe"
               },
-              "tip_5lang": null
+              "tip_5lang": {
+                "de": "Frühmorgens am ruhigsten, später wird es voll mit Cafégästen.",
+                "hu": "Kora reggel a legcsendesebb, később megtelik kávéházi vendégekkel.",
+                "ro": "Cel mai liniștit dimineața devreme, mai târziu se umple.",
+                "en": "Quietest in the early morning before the cafe crowd arrives."
+              }
             },
             {
               "name": {
@@ -1483,7 +1649,12 @@
                 "ro": "Biserica Nașterea Maicii Domnului",
                 "en": "Church of the Nativity of the Blessed Virgin Mary"
               },
-              "tip_5lang": null
+              "tip_5lang": {
+                "de": "Beachten Sie die Kleiderordnung beim Betreten der Kirche.",
+                "hu": "Vegye figyelembe a templomi öltözködési szabályokat.",
+                "ro": "Respectați codul vestimentar la intrarea în biserică.",
+                "en": "Mind the dress code when entering the church."
+              }
             },
             {
               "name": {
@@ -1492,7 +1663,12 @@
                 "ro": "Marina Skradin",
                 "en": "Skradin Marina"
               },
-              "tip_5lang": null
+              "tip_5lang": {
+                "de": "Ruhiger Süßwasser-Yachthafen am Fluss Krka, beliebt bei Seglern.",
+                "hu": "Csendes édesvízi jachtkikötő a Krka folyón, vitorlások kedvelt helye.",
+                "ro": "Marină liniștită de apă dulce pe râul Krka, preferată de velieri.",
+                "en": "Quiet freshwater marina on the Krka River, popular with sailors."
+              }
             }
           ],
           "gastro_picks": {
@@ -1780,8 +1956,8 @@
             "en": "Skradin Marina"
           },
           "coords": [
-            43.818,
-            15.924
+            15.924,
+            43.818
           ],
           "category": "parks/promenades/beaches",
           "arrive_at": "09:00",
@@ -1793,6 +1969,12 @@
             "hu": "Innen indulnak a hajók a Nemzeti Parkba.",
             "ro": "De aici pleacă bărcile către parcul național.",
             "en": "Boats to the National Park depart from here."
+          },
+          "tip_5lang": {
+            "de": "Ruhiger Süßwasser-Yachthafen am Fluss Krka, beliebt bei Seglern.",
+            "hu": "Csendes édesvízi jachtkikötő a Krka folyón, vitorlások kedvelt helye.",
+            "ro": "Marină liniștită de apă dulce pe râul Krka, preferată de velieri.",
+            "en": "Quiet freshwater marina on the Krka River, popular with sailors."
           }
         },
         {
@@ -1803,8 +1985,8 @@
             "en": "Skradinski Buk Waterfall"
           },
           "coords": [
-            43.805,
-            15.94
+            15.94,
+            43.805
           ],
           "category": "natural features",
           "arrive_at": "10:00",
@@ -1816,6 +1998,12 @@
             "hu": "A hajóút benne van a jegy árában.",
             "ro": "Plimbarea cu barca este inclusă în prețul biletului.",
             "en": "The boat ride is included in the ticket price."
+          },
+          "tip_5lang": {
+            "de": "Festes Schuhwerk empfohlen, der Untergrund kann uneben sein.",
+            "hu": "Stabil lábbeli ajánlott, az aljzat egyenetlen lehet.",
+            "ro": "Încălțăminte stabilă recomandată, terenul poate fi accidentat.",
+            "en": "Sturdy footwear recommended; the terrain can be uneven."
           }
         },
         {
@@ -1826,8 +2014,8 @@
             "en": "Krka National Park Entrance"
           },
           "coords": [
-            43.817,
-            15.923
+            15.923,
+            43.817
           ],
           "category": "parks/promenades/beaches",
           "arrive_at": "13:30",
@@ -1839,6 +2027,12 @@
             "hu": "Visszatérés hajóval Skradinba.",
             "ro": "Întoarcerea cu barca la Skradin.",
             "en": "Return by boat to Skradin."
+          },
+          "tip_5lang": {
+            "de": "Eintritt am Skradin-Pier zahlen, das Bootsticket ist inklusive.",
+            "hu": "A belépőt a skradini mólón fizesse, a hajójegy benne van az árban.",
+            "ro": "Plătiți biletul la debarcaderul Skradin, transportul cu barca e inclus.",
+            "en": "Buy your ticket at Skradin pier; the boat shuttle is included."
           }
         },
         {
@@ -1849,8 +2043,8 @@
             "en": "Main Square Trg Male Gospe"
           },
           "coords": [
-            43.8203,
-            15.9217
+            15.9217,
+            43.8203
           ],
           "category": "squares/old-town",
           "arrive_at": "14:10",
@@ -1862,6 +2056,12 @@
             "hu": "Közel a távolsági buszmegállóhoz.",
             "ro": "Aproape de stația de autobuz pentru liniile interurbane.",
             "en": "Near the bus stop for intercity buses."
+          },
+          "tip_5lang": {
+            "de": "Frühmorgens am ruhigsten, später wird es voll mit Cafégästen.",
+            "hu": "Kora reggel a legcsendesebb, később megtelik kávéházi vendégekkel.",
+            "ro": "Cel mai liniștit dimineața devreme, mai târziu se umple.",
+            "en": "Quietest in the early morning before the cafe crowd arrives."
           }
         },
         {
@@ -1872,8 +2072,8 @@
             "en": "Museum Scardona Park"
           },
           "coords": [
-            43.8185,
-            15.9205
+            15.9205,
+            43.8185
           ],
           "category": "museums",
           "arrive_at": "14:45",
@@ -1885,6 +2085,12 @@
             "hu": "Tökéletes befejezés elutazás előtt.",
             "ro": "Încheiere perfectă înainte de plecare.",
             "en": "Perfect conclusion before departure."
+          },
+          "tip_5lang": {
+            "de": "Klein aber gut kuratiert, planen Sie etwa 30 Minuten ein.",
+            "hu": "Kicsi, de jól kurált, kb. 30 percet szánjon rá.",
+            "ro": "Mic dar bine organizat, alocați-i circa 30 de minute.",
+            "en": "Small but well-curated; allow about 30 minutes."
           }
         }
       ],
@@ -2014,7 +2220,12 @@
                 "ro": "Marina Skradin",
                 "en": "Skradin Marina"
               },
-              "tip_5lang": null
+              "tip_5lang": {
+                "de": "Ruhiger Süßwasser-Yachthafen am Fluss Krka, beliebt bei Seglern.",
+                "hu": "Csendes édesvízi jachtkikötő a Krka folyón, vitorlások kedvelt helye.",
+                "ro": "Marină liniștită de apă dulce pe râul Krka, preferată de velieri.",
+                "en": "Quiet freshwater marina on the Krka River, popular with sailors."
+              }
             },
             {
               "name": {
@@ -2023,7 +2234,12 @@
                 "ro": "Cascada Skradinski Buk",
                 "en": "Skradinski Buk Waterfall"
               },
-              "tip_5lang": null
+              "tip_5lang": {
+                "de": "Festes Schuhwerk empfohlen, der Untergrund kann uneben sein.",
+                "hu": "Stabil lábbeli ajánlott, az aljzat egyenetlen lehet.",
+                "ro": "Încălțăminte stabilă recomandată, terenul poate fi accidentat.",
+                "en": "Sturdy footwear recommended; the terrain can be uneven."
+              }
             },
             {
               "name": {
@@ -2032,7 +2248,12 @@
                 "ro": "Intrarea în Parcul Național Krka",
                 "en": "Krka National Park Entrance"
               },
-              "tip_5lang": null
+              "tip_5lang": {
+                "de": "Eintritt am Skradin-Pier zahlen, das Bootsticket ist inklusive.",
+                "hu": "A belépőt a skradini mólón fizesse, a hajójegy benne van az árban.",
+                "ro": "Plătiți biletul la debarcaderul Skradin, transportul cu barca e inclus.",
+                "en": "Buy your ticket at Skradin pier; the boat shuttle is included."
+              }
             },
             {
               "name": {
@@ -2041,7 +2262,12 @@
                 "ro": "Piața Trg Male Gospe",
                 "en": "Main Square Trg Male Gospe"
               },
-              "tip_5lang": null
+              "tip_5lang": {
+                "de": "Frühmorgens am ruhigsten, später wird es voll mit Cafégästen.",
+                "hu": "Kora reggel a legcsendesebb, később megtelik kávéházi vendégekkel.",
+                "ro": "Cel mai liniștit dimineața devreme, mai târziu se umple.",
+                "en": "Quietest in the early morning before the cafe crowd arrives."
+              }
             },
             {
               "name": {
@@ -2050,7 +2276,12 @@
                 "ro": "Muzeul Scardona Park",
                 "en": "Museum Scardona Park"
               },
-              "tip_5lang": null
+              "tip_5lang": {
+                "de": "Klein aber gut kuratiert, planen Sie etwa 30 Minuten ein.",
+                "hu": "Kicsi, de jól kurált, kb. 30 percet szánjon rá.",
+                "ro": "Mic dar bine organizat, alocați-i circa 30 de minute.",
+                "en": "Small but well-curated; allow about 30 minutes."
+              }
             }
           ],
           "gastro_picks": {
