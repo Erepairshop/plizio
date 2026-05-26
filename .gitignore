@@ -82,3 +82,4 @@ gen_seo.py
 generate_pois_*.py
 merge_pois.py
 _safepush.sh
+public/data/_poi-url-index.json

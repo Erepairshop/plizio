@@ -110,7 +110,14 @@ const MORE: Record<Lang, string> = { de:"Mehr erfahren", hu:"Bővebben", ro:"Det
 const BACK: Record<Lang, string> = { de:"Zurück", hu:"Vissza", ro:"Înapoi", en:"Back" };
 const TITLE_SUFFIX: Record<Lang, string> = { de:"Karte", hu:"térkép", ro:"hartă", en:"map" };
 
-type SlimPoi = { id:string; type:string; cx:number; cy:number; name:any };
+type SlimPoi = { id:string; type:string; cx:number; cy:number; name:any; urls?:Record<string,string> };
+
+// Load the pre-built POI id → URL per lang index (built by build-poi-url-index.mts).
+const URL_INDEX_PATH = path.join(process.cwd(), "public", "data", "_poi-url-index.json");
+let POI_URLS: Record<string, Record<string, string>> = {};
+if (fs.existsSync(URL_INDEX_PATH)) {
+  try { POI_URLS = JSON.parse(fs.readFileSync(URL_INDEX_PATH, "utf8")); } catch {}
+}
 
 function slimPoi(p: any, proj: (lon:number,lat:number)=>[number,number], W:number, H:number): SlimPoi | null {
   if (!p?.coords || !Array.isArray(p.coords) || p.coords.length < 2) return null;
@@ -126,10 +133,12 @@ function slimPoi(p: any, proj: (lon:number,lat:number)=>[number,number], W:numbe
     if (p.name?.[l]) name[l] = p.name[l];
   }
   if (!Object.keys(name).length) return null;
+  const urls = POI_URLS[p.id];
   return {
     id: p.id, type: p.type ?? "city",
     cx: +cx.toFixed(1), cy: +cy.toFixed(1),
     name,
+    ...(urls ? { urls } : {}),
   };
 }
 
@@ -245,7 +254,11 @@ header .langs{display:flex;gap:.25rem}
   <svg id="svg" viewBox="${viewBox}" preserveAspectRatio="xMidYMid meet" aria-label="${t}">
     <g id="gR">${regions.map(r => `<path class="region" data-id="${escAttr(r.id)}" d="${r.path}"/>`).join("")}</g>
     <g id="gL">${regions.filter(r => r.labelX && r.labelY).map(r => `<text class="label" x="${r.labelX}" y="${r.labelY}">${escText((r.name && (r.name[lang] || r.name.en)) || r.id)}</text>`).join("")}</g>
-    <g id="gP">${pois.map(p => `<g class="poi ${p.type||'city'}" data-id="${escAttr(p.id)}" data-name="${escAttr(p.name[lang]||p.name.en||p.id)}" transform="translate(${p.cx},${p.cy})"><circle r="${p.type==='city'?5:3.5}"/></g>`).join("")}</g>
+    <g id="gP">${pois.map(p => {
+      const url = p.urls?.[lang];
+      const attrs = `data-id="${escAttr(p.id)}" data-name="${escAttr(p.name[lang]||p.name.en||p.id)}"${url?` data-url="${escAttr(url)}"`:""}`;
+      return `<g class="poi ${p.type||'city'}" ${attrs} transform="translate(${p.cx},${p.cy})"><circle r="${p.type==='city'?5:3.5}"/></g>`;
+    }).join("")}</g>
   </svg>
   <div class="zoom"><button id="zin" aria-label="zoom in">+</button><button id="zout" aria-label="zoom out">−</button></div>
 </div>
@@ -278,7 +291,7 @@ let pD=0,pS=1;
 svg.addEventListener('touchstart',e=>{if(e.touches.length===2){const[a,b]=e.touches;pD=Math.hypot(b.clientX-a.clientX,b.clientY-a.clientY);pS=s;dr=false}},{passive:true});
 svg.addEventListener('touchmove',e=>{if(e.touches.length===2){const[a,b]=e.touches;const d=Math.hypot(b.clientX-a.clientX,b.clientY-a.clientY);const cx=(a.clientX+b.clientX)/2,cy=(a.clientY+b.clientY)/2;const f=(d/pD)*(pS/s);zoomAt(f,cx,cy);e.preventDefault()}},{passive:false});
 const pop=document.getElementById('popup');
-function openPopup(el){document.querySelectorAll('.poi.active').forEach(n=>n.classList.remove('active'));el.classList.add('active');const t=el.getAttribute('class').split(' ').filter(x=>x!=='poi'&&x!=='active')[0]||'';document.getElementById('ptype').textContent=t;document.getElementById('pname').textContent=el.getAttribute('data-name')||el.getAttribute('data-id');document.getElementById('pmore').href='/poi/'+el.getAttribute('data-id')+'/?lang='+LANG;pop.classList.add('open')}
+function openPopup(el){document.querySelectorAll('.poi.active').forEach(n=>n.classList.remove('active'));el.classList.add('active');const t=el.getAttribute('class').split(' ').filter(x=>x!=='poi'&&x!=='active')[0]||'';document.getElementById('ptype').textContent=t;document.getElementById('pname').textContent=el.getAttribute('data-name')||el.getAttribute('data-id');const u=el.getAttribute('data-url');const moreBtn=document.getElementById('pmore');if(u){moreBtn.href=u;moreBtn.style.display=''}else{moreBtn.style.display='none'}pop.classList.add('open')}
 gP.addEventListener('click',e=>{const el=e.target.closest('.poi');if(el){e.stopPropagation();openPopup(el)}});
 document.getElementById('px').onclick=()=>{pop.classList.remove('open');document.querySelectorAll('.poi.active').forEach(n=>n.classList.remove('active'))};
 stage.addEventListener('click',e=>{if(!e.target.closest('.poi')&&!e.target.closest('.popup')){pop.classList.remove('open');document.querySelectorAll('.poi.active').forEach(n=>n.classList.remove('active'))}});
