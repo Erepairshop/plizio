@@ -66,3 +66,19 @@ lib/visualLab/data/basic-poi-*.json
 lib/visualLab/data/_all_v2_pois.json
 lib/visualLab/data/_all_v2_pois_*.json
 public/data/pois/
+
+# === Local SEO/generation work files (never commit) ===
+_seo_*.json
+_seo_*.py
+_newspapers_*.json
+_dump_*.mts
+_pois_*.json
+pois_to_generate.json
+sights_batch_*.json
+tsc-errors-*.txt
+err.tmp
+result.json
+gen_seo.py
+generate_pois_*.py
+merge_pois.py
+_safepush.sh
