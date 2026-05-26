@@ -1313,11 +1313,22 @@ function renderHtml(poi: POI, lang: Lang): string | null {
         const top = items.slice(0, 6);
         const cards = top.map((it) => {
           const dateShort = (it.date || "").slice(0, 10);
-          return `<li class="plz-news-card"><a href="${escapeHtml(it.url)}" target="_blank" rel="noopener nofollow"><div class="plz-news-meta"><span class="plz-news-source">${escapeHtml(it.source || "")}</span>${dateShort ? `<time class="plz-news-date" datetime="${escapeHtml(it.date)}">${escapeHtml(dateShort)}</time>` : ""}</div><h3 class="plz-news-title">${escapeHtml(it.title || "")}</h3>${it.snippet ? `<p class="plz-news-snippet">${escapeHtml(it.snippet)}</p>` : ""}</a></li>`;
+          return `<li class="plz-news-card"><a href="${escapeHtml(it.url)}" target="_blank" rel="noopener nofollow"><div class="plz-news-meta"><span class="plz-news-source">${escapeHtml(it.source || "")}</span>${dateShort ? `<time class="plz-news-date" datetime="${escapeHtml(it.date)}">${escapeHtml(dateShort)}</time>` : ""}</div><h3 class="plz-news-title" data-orig="${escapeHtml(it.title || "")}">${escapeHtml(it.title || "")}</h3>${it.snippet ? `<p class="plz-news-snippet">${escapeHtml(it.snippet)}</p>` : ""}</a></li>`;
         }).join("");
         const hasOfficial = items.some((it) => /\(hivatalos\)/i.test(it.source || ""));
         const sourcesLabel = hasOfficial ? "önkormányzati + RSS + Google News" : "Google News + RSS";
-        newsHtml = `<section class="plz-news"><h2>${escapeHtml(nc.heading)} <span class="plz-news-count">${items.length}</span></h2><ul class="plz-news-grid">${cards}</ul><p class="plz-news-via">${escapeHtml(nc.via)} ${escapeHtml(sourcesLabel)}</p></section>`;
+        const trLabels: Partial<Record<Lang, { btn: string; orig: string; loading: string }>> = {
+          de: { btn: "Übersetzen", orig: "Original", loading: "…" },
+          hu: { btn: "Fordítás", orig: "Eredeti", loading: "…" },
+          ro: { btn: "Traducere", orig: "Original", loading: "…" },
+          en: { btn: "Translate", orig: "Original", loading: "…" },
+          fr: { btn: "Traduire", orig: "Original", loading: "…" },
+          tr: { btn: "Çevir", orig: "Orijinal", loading: "…" },
+        };
+        const tL = trLabels[lang] || trLabels.en!;
+        const translateBtn = `<button type="button" class="plz-news-translate" data-lang="${lang}" data-btn-label="${escapeHtml(tL.btn)}" data-orig-label="${escapeHtml(tL.orig)}" data-loading="${escapeHtml(tL.loading)}"><svg viewBox="0 0 24 24" width="13" height="13" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 8l6 6M4 14l6-6 2-3M2 5h12M7 2h1M22 22l-5-10-5 10M14 18h6"/></svg>${escapeHtml(tL.btn)}</button>`;
+        const translateScript = `<script>(function(){var sec=document.currentScript&&document.currentScript.parentElement;if(!sec)sec=document.querySelector('.plz-news');if(!sec)return;var btn=sec.querySelector('.plz-news-translate');if(!btn)return;var titles=sec.querySelectorAll('.plz-news-title');var lang=btn.dataset.lang;var SHOW_ORIG=false;var transCache={};btn.addEventListener('click',function(){if(SHOW_ORIG){titles.forEach(function(t){t.textContent=transCache[t.dataset.orig]||t.dataset.orig;});btn.lastChild.nodeValue=btn.dataset.btnLabel;SHOW_ORIG=false;return;}if(Object.keys(transCache).length){titles.forEach(function(t){t.textContent=transCache[t.dataset.orig]||t.dataset.orig;});return;}btn.disabled=true;var prevTxt=btn.lastChild.nodeValue;btn.lastChild.nodeValue=btn.dataset.loading;var lsKey='plz_tr:'+lang+':';var origArr=[],cached={};titles.forEach(function(t){var o=t.dataset.orig;var c;try{c=localStorage.getItem(lsKey+o);}catch(e){}if(c){cached[o]=c;}else{origArr.push(o);}});function applyAll(){titles.forEach(function(t){var v=cached[t.dataset.orig]||transCache[t.dataset.orig]||t.dataset.orig;t.textContent=v;});btn.disabled=false;btn.lastChild.nodeValue=btn.dataset.origLabel;SHOW_ORIG=true;}if(origArr.length===0){Object.assign(transCache,cached);applyAll();return;}var u='https://plizio-translate.plizio.workers.dev/?to='+encodeURIComponent(lang);origArr.forEach(function(o){u+='&text='+encodeURIComponent(o);});fetch(u).then(function(r){return r.json();}).then(function(j){if(j&&j.translations){for(var i=0;i<origArr.length;i++){var tr=j.translations[i]||origArr[i];cached[origArr[i]]=tr;try{localStorage.setItem(lsKey+origArr[i],tr);}catch(e){}}Object.assign(transCache,cached);applyAll();}else{btn.disabled=false;btn.lastChild.nodeValue=prevTxt;}}).catch(function(){btn.disabled=false;btn.lastChild.nodeValue=prevTxt;});});})();</script>`;
+        newsHtml = `<section class="plz-news"><div class="plz-news-head"><h2>${escapeHtml(nc.heading)} <span class="plz-news-count">${items.length}</span></h2>${translateBtn}</div><ul class="plz-news-grid">${cards}</ul><p class="plz-news-via">${escapeHtml(nc.via)} ${escapeHtml(sourcesLabel)}</p>${translateScript}</section>`;
       }
     }
   } catch {}
@@ -1395,7 +1406,7 @@ ${hreflangLinks}
 <meta property="og:type" content="website"/>
 ${poi.image ? `<meta property="og:image" content="${SITE_URL}${escapeHtml(poi.image)}"/>` : ""}
 ${isAdSenseEligible(poi, lang) && !richness.isWeak ? ADSENSE_HEAD : ""}
-<link rel="stylesheet" href="/poi-static/poi.css?v=20260526g"/>
+<link rel="stylesheet" href="/poi-static/poi.css?v=20260526h"/>
 ${structuredData(poi, lang, url, metaDesc, countryId, countrySlugFor(lang, countryId).replace(/-/g, " "), faqItems, [
   { name: I("home", lang), url: `/${lang}/` },
   { name: countrySlugFor(lang, countryId).replace(/-/g, " "), url: buildCountryPath(lang, countryId) },
@@ -1699,7 +1710,7 @@ ${hreflangLinks}
 <meta property="og:url" content="${sightUrl}"/>
 <meta property="og:type" content="article"/>
 ${isAdSenseEligible(host, lang) ? ADSENSE_HEAD : ""}
-<link rel="stylesheet" href="/poi-static/poi.css?v=20260526g"/>
+<link rel="stylesheet" href="/poi-static/poi.css?v=20260526h"/>
 <style>
 .plz-sp-back{display:inline-flex;align-items:center;gap:.4rem;color:#4cc;text-decoration:none;font-size:.85rem;margin-bottom:.5rem}
 .plz-sp-back:hover{color:#7df}
