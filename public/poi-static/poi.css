@@ -458,6 +458,34 @@ footer a { color: rgba(255,255,255,0.7); }
 .plz-marine-bar { flex: 1; height: 100%; background: rgba(255,255,255,0.05); border-radius: 4px; position: relative; overflow: hidden; }
 .plz-marine-bar-fill { position: absolute; bottom: 0; left: 0; right: 0; background: linear-gradient(180deg, rgba(56,189,248,0.95), rgba(34,211,238,0.6)); border-radius: 4px; transition: height 0.3s; }
 
+/* === Mobile-compact weather + marine (≤720px) === */
+@media (max-width: 720px) {
+  .plz-weather, .plz-marine {
+    margin: 0.5rem 0; padding: 0.55rem 0.7rem; border-radius: 12px;
+  }
+  .plz-weather-now, .plz-marine-now { gap: 0.55rem; }
+  .plz-weather-icon { font-size: 1.55rem; }
+  .plz-marine-icon { font-size: 1.35rem; }
+  .plz-weather-now strong, .plz-marine-now strong { font-size: 1.15rem; }
+  .plz-weather-label, .plz-marine-label { font-size: 0.6rem; letter-spacing: 0.13em; }
+  .plz-weather-forecast { margin-top: 0.55rem; }
+  .plz-weather-forecast ul { gap: 0.32rem; }
+  .plz-weather-forecast li { min-width: 42px; padding: 0.3rem 0.32rem; font-size: 0.72rem; border-radius: 8px; }
+  .plz-weather-forecast .plz-tmin { font-size: 0.66rem; }
+  .plz-marine-forecast { margin-top: 0.45rem; }
+  .plz-marine-bars { height: 22px; gap: 2px; }
+  /* When weather + marine both present in side panel, put them in 2-col grid */
+  .plz-hero-grid-side { display: grid; grid-template-columns: 1fr 1fr; gap: 0.4rem; align-items: start; }
+  .plz-hero-grid-side .plz-weather, .plz-hero-grid-side .plz-marine { margin: 0; }
+  /* Officials/yearly/news still full-width inside the side panel */
+  .plz-hero-grid-side .plz-official-links,
+  .plz-hero-grid-side .plz-yh,
+  .plz-hero-grid-side .plz-news { grid-column: 1 / -1; }
+  /* Hide the forecast label "5-day forecast" on mobile — pills speak for themselves */
+  .plz-weather-forecast > .plz-weather-label,
+  .plz-marine-forecast > .plz-marine-label { display: none; }
+}
+
 /* Recent news */
 .plz-news {
   margin-top: 2rem; padding: 1.25rem 1.5rem;
