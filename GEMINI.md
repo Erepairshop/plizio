@@ -62,7 +62,10 @@ A nyers Pro/Flash output gyakran felismerhetően "AI-szagú". Ezeket kerüld:
 
 - **`google_web_search` / `web_search` / `googleSearch` TILOS** — NE hívd egyik web-search tool-t sem. A taskhoz minden szükséges információ a promptban van (Wikipedia kontextus blokk) + a saját általános tudásod. Ha hiányzik egy adat, ne találd ki és ne keresd web-en — hagyd ki azt a mezőt.
 - **`web_fetch`** csak akkor, ha a prompt EXPLICITE megadja az URL-t. Spontán fetch TILOS.
-- **`run_shell_command`**: csak az apply scriptek futtatására (apply_seo_json.py, apply_basic_poi.py, add_new_city_pois.py).
+- **`run_shell_command`**: KÉT WORKFLOW van — válaszd a prompt alapján:
+  - **Output-only workflow** (prompt vége: "Begin with `{` and end with `}`. NOTHING ELSE." vagy hasonló JSON-output utasítás): **NE FUTTASS SEMMIT**. Output csak stdout-ra. NE hívj `apply_seo_json.py`-t, NE hozz létre fájlt, NE keress scripteket.
+  - **Apply-workflow** (prompt explicit kéri: "futtasd az apply scriptet" / "merge into TS file"): csak ekkor használhatod a meglévő apply scripteket (`apply_seo_json.py`, `apply_basic_poi.py`).
+  - **Default = output-only.** Ha kétséges, JSON stdout-ra, NE script.
 
 ## WORKFLOW
 
@@ -80,7 +83,7 @@ A nyers Pro/Flash output gyakran felismerhetően "AI-szagú". Ezeket kerüld:
 - **multi4 SEO task (4 lang egyszerre):** 10-12 POI/batch (4 lang × 600+ char × 12 POI ≈ output cap szélén)
 - **single-lang task:** Max 30-50 POI/batch
 - 100+ → biztos template-fallback.
-- Output token limit ~32k — ha sok kell, oszd több batch-re, mindegyik után apply_seo_json.py futtatás.
+- Output token limit ~32k — ha sok kell, oszd több batch-re. Apply-script futtatás **CSAK** ha a prompt explicit kéri (lásd "Két workflow" szabály fent).
 
 ## WIKIPEDIA KONTEXTUS (multi4 promptban)
 
