@@ -550,6 +550,27 @@ footer a { color: rgba(255,255,255,0.7); }
 .plz-sight-name-link { color: inherit; text-decoration: none; border-bottom: 1px dotted rgba(34,211,238,0.4); }
 .plz-sight-name-link:hover { color: #4cc; border-bottom-color: rgba(34,211,238,0.8); }
 
+/* === P1: stop-progress check button + per-mode progress badge === */
+.plz-itin-card { position: relative; }
+.plz-itin-check { position: absolute; top: 0.5rem; right: 0.55rem; width: 24px; height: 24px; padding: 0; background: rgba(255,255,255,0.06); border: 1px solid rgba(255,255,255,0.18); border-radius: 50%; color: rgba(255,255,255,0.45); cursor: pointer; display: flex; align-items: center; justify-content: center; transition: all 0.18s; z-index: 2; }
+.plz-itin-check:hover { background: rgba(255,255,255,0.12); color: rgba(255,255,255,0.85); }
+.plz-itin-card-done .plz-itin-check { background: #22c55e; border-color: #22c55e; color: #fff; }
+.plz-itin-card-done h3 { text-decoration: line-through; opacity: 0.62; }
+.plz-itin-card-done .plz-itin-tip { opacity: 0.55; }
+.plz-itin-progress { display: inline-flex; align-items: center; gap: 0.4rem; font-size: 0.76rem; color: rgba(255,255,255,0.75); }
+.plz-itin-progress-bar { display: inline-block; width: 56px; height: 4px; background: rgba(255,255,255,0.12); border-radius: 999px; overflow: hidden; }
+.plz-itin-progress-fill { display: block; height: 100%; width: 0; background: linear-gradient(90deg, #22c55e, #4cc6ff); border-radius: 999px; transition: width 0.3s; }
+
+/* === P2: ICS export button === */
+.plz-itin-ics { display: inline-flex; align-items: center; gap: 0.3rem; padding: 0.25rem 0.55rem; background: rgba(76,198,255,0.08); border: 1px solid rgba(76,198,255,0.28); border-radius: 999px; color: #bfe8ff; font-size: 0.72rem; font-weight: 500; cursor: pointer; transition: all 0.15s; }
+.plz-itin-ics:hover { background: rgba(76,198,255,0.18); border-color: rgba(76,198,255,0.5); }
+
+/* === P3: Cost estimator row === */
+.plz-itin-cost { display: flex; align-items: center; gap: 0.5rem; padding: 0.5rem 0.75rem; margin: 0.6rem 0; background: rgba(255,255,255,0.04); border: 1px solid rgba(255,255,255,0.1); border-radius: 10px; font-size: 0.84rem; color: rgba(255,255,255,0.92); flex-wrap: wrap; }
+.plz-itin-cost svg { color: #fbbf24; flex-shrink: 0; }
+.plz-itin-cost strong { font-weight: 600; }
+.plz-itin-cost-detail { font-size: 0.74rem; color: rgba(255,255,255,0.55); margin-left: auto; }
+
 /* === F6: top reading-progress bar === */
 .plz-progress { position: fixed; top: 0; left: 0; right: 0; height: 2px; background: linear-gradient(90deg, #4cc6ff, #a78bfa); transform-origin: 0 50%; transform: scaleX(0); z-index: 100; pointer-events: none; transition: transform 0.05s linear; }
 

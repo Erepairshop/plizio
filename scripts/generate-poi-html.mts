@@ -698,6 +698,38 @@ const ITIN_COPY: Record<Lang, Record<string, string>> = {
 const TRAVEL_MODE: Record<string, string> = { walk: "walking", bike: "bicycling", car: "driving", transit: "transit" };
 const CAT_ICON: Record<string, string> = { square: "📍", historical: "🏛️", religious: "⛪", museum: "🎨", park: "🏞️", gastro: "🍽️", panorama: "🌅" };
 
+// P3: Cost estimator per mode — sums entry-fees by category + transport
+function renderCostEstimate(stops: any[], mode: string, totalKm: number, lang: Lang): string {
+  // Per-category typical entry fee EUR
+  const FEE: Record<string, number> = {
+    "museum": 12, "palace": 14, "fortress": 8, "castle": 10, "monument": 0,
+    "church": 0, "cathedral": 3, "religious": 2, "monastery": 4,
+    "square": 0, "park": 0, "garden": 3, "viewpoint": 0, "nature": 0,
+    "market": 0, "harbor": 0, "theater": 18, "landmark": 5,
+    "churches/cathedrals": 2, "tower": 8, "gallery": 9,
+  };
+  let entries = 0;
+  for (const s of stops) entries += FEE[(s.category || "").toLowerCase()] ?? 4;
+  let transport = 0;
+  if (mode === "walk") transport = 0;
+  else if (mode === "bike") transport = 12; // rental day
+  else if (mode === "car") transport = Math.round(totalKm * 0.18); // fuel + minimal parking
+  else if (mode === "transit") transport = 8; // day pass
+  const lo = Math.max(0, Math.round((entries + transport) * 0.85));
+  const hi = Math.round((entries + transport) * 1.15);
+  if (lo === 0 && hi === 0) return "";
+  const L: Partial<Record<Lang, Record<string, string>>> = {
+    de: { cost: "Tagesbudget", entry: "Eintritte", trans: "Transport" },
+    hu: { cost: "Napi költségvetés", entry: "Belépők", trans: "Közlekedés" },
+    ro: { cost: "Buget zilnic", entry: "Intrări", trans: "Transport" },
+    en: { cost: "Day budget", entry: "Entries", trans: "Transport" },
+    fr: { cost: "Budget jour", entry: "Entrées", trans: "Transport" },
+    tr: { cost: "Günlük bütçe", entry: "Giriş", trans: "Ulaşım" },
+  };
+  const t = L[lang] || L.en!;
+  return `<div class="plz-itin-cost"><svg viewBox="0 0 24 24" width="13" height="13" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="12" y1="1" x2="12" y2="23"/><path d="M17 5H9.5a3.5 3.5 0 000 7h5a3.5 3.5 0 010 7H6"/></svg><strong>${t.cost}: ≈ ${lo}–${hi} €</strong><span class="plz-itin-cost-detail">${t.entry} ${entries}€ · ${t.trans} ${transport}€</span></div>`;
+}
+
 function renderCityItinerary(poi: POI, lang: Lang): string {
   const tier = (poi as { tier?: number }).tier ?? 2;
   const data = loadItinerary(poi.id, tier);
@@ -749,7 +781,9 @@ function renderCityItinerary(poi: POI, lang: Lang): string {
     if (links.getyourguide) moreBtns.push(`<a class="plz-itin-link" href="${links.getyourguide}" target="_blank" rel="sponsored nofollow noopener" title="Tickets">🎟️</a>`);
     if (links.tripadvisor) moreBtns.push(`<a class="plz-itin-link" href="${links.tripadvisor}" target="_blank" rel="sponsored nofollow noopener" title="TripAdvisor">⭐</a>`);
     const moreHtml = moreBtns.length ? `<details class="plz-itin-more"><summary>🔗</summary>${moreBtns.join("")}</details>` : "";
-    return `<div class="plz-itin-card" data-type="sight"><div class="plz-itin-cat">${icon}</div><div class="plz-itin-time">${escapeHtml(s.arrive_at)} · ${s.stay_min}'</div><h3>${escapeHtml(name)}</h3><div class="plz-itin-tip">${escapeHtml(tip)}</div><div class="plz-itin-links">${visibleBtns.join("")}${moreHtml}</div></div>`;
+    const stopKey = `${poi.id}::${mode}::${i}::${name}`;
+    const checkBtn = `<button class="plz-itin-check" type="button" data-stop="${escapeHtml(stopKey)}" aria-label="mark visited" title="✓"><svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg></button>`;
+    return `<div class="plz-itin-card" data-type="sight" data-stop-card="${escapeHtml(stopKey)}">${checkBtn}<div class="plz-itin-cat">${icon}</div><div class="plz-itin-time">${escapeHtml(s.arrive_at)} · ${s.stay_min}'</div><h3>${escapeHtml(name)}</h3><div class="plz-itin-tip">${escapeHtml(tip)}</div><div class="plz-itin-links">${visibleBtns.join("")}${moreHtml}</div></div>`;
   }
 
   function renderExtras(picks: any, kind: string): string {
@@ -839,7 +873,10 @@ function renderCityItinerary(poi: POI, lang: Lang): string {
       const dotsHtml = dotCount > 1 ? `<div class="plz-itin-dots" aria-hidden="true">${Array.from({length: dotCount}, (_, i) => `<span class="plz-itin-dot${i===0?" active":""}"></span>`).join("")}</div>` : "";
       const swipeHint = `<div class="plz-itin-swipe-hint">${escapeHtml(C.swipeHint || "← swipe →")}</div>`;
       const isActive = m === "walk" && w === "sunny";
-      modeBlocks.push(`<div data-mw="${m}-${w}" class="${isActive ? "active" : ""}"><div class="plz-itin-summary"><span><strong>${md.start}→${md.end_estimate}</strong></span><span><strong>${md.total_km} km</strong> ${unitLabels[m]}</span><span><strong>${md.stop_count}</strong> ${C.places}</span></div><p class="plz-itin-narrative">${escapeHtml(nar)}</p>${swipeHint}<div class="plz-itin-cards">${stopCards}</div>${dotsHtml}${extrasBlock}${tipsHtml}</div>`);
+      const progressBadge = `<span class="plz-itin-progress" data-mw-prog="${m}-${w}"><span class="plz-itin-progress-bar"><span class="plz-itin-progress-fill" data-fill></span></span><span data-prog-text>0/${md.stop_count}</span></span>`;
+      const costEstimate = renderCostEstimate(stops, m, md.total_km || 0, lang);
+      const icsBtn = `<button type="button" class="plz-itin-ics" data-ics="${m}-${w}" aria-label="Export calendar"><svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="18" rx="2"/><path d="M16 2v4M8 2v4M3 10h18M12 14v4M10 16h4"/></svg>.ics</button>`;
+      modeBlocks.push(`<div data-mw="${m}-${w}" class="${isActive ? "active" : ""}"><div class="plz-itin-summary"><span><strong>${md.start}→${md.end_estimate}</strong></span><span><strong>${md.total_km} km</strong> ${unitLabels[m]}</span><span><strong>${md.stop_count}</strong> ${C.places}</span>${progressBadge}${icsBtn}</div>${costEstimate}<p class="plz-itin-narrative">${escapeHtml(nar)}</p>${swipeHint}<div class="plz-itin-cards">${stopCards}</div>${dotsHtml}${extrasBlock}${tipsHtml}</div>`);
     }
   }
   const modeBlocksHtml = modeBlocks.join("");
@@ -906,6 +943,15 @@ function renderCityItinerary(poi: POI, lang: Lang): string {
 // Swipe-dots scroll-sync: per active mw-block, update dots based on current scroll position
 function syncDots(track){var dots=track.parentElement.querySelectorAll('.plz-itin-dot');if(!dots.length)return;var w=track.clientWidth;var idx=Math.round(track.scrollLeft/(w*0.85));dots.forEach(function(d,i){d.classList.toggle('active',i===idx)})}
 r.querySelectorAll('.plz-itin-cards').forEach(function(tr){tr.addEventListener('scroll',function(){syncDots(tr)},{passive:true})});
+// P1: stop-progress checkboxes + counter per mode-block
+var PKEY='plz_stop_progress';var pset={};try{pset=JSON.parse(localStorage.getItem(PKEY)||'{}');}catch(e){}
+function updProg(mb){var prog=mb.querySelector('.plz-itin-progress');if(!prog)return;var cards=mb.querySelectorAll('.plz-itin-card[data-stop-card]');var total=cards.length;var done=0;cards.forEach(function(c){if(pset[c.dataset.stopCard])done++;});var pct=total?Math.round(done/total*100):0;var fill=prog.querySelector('[data-fill]');if(fill)fill.style.width=pct+'%';var txt=prog.querySelector('[data-prog-text]');if(txt)txt.textContent=done+'/'+total;}
+r.querySelectorAll('.plz-itin-card[data-stop-card]').forEach(function(card){var key=card.dataset.stopCard;if(pset[key])card.classList.add('plz-itin-card-done');var btn=card.querySelector('.plz-itin-check');if(!btn)return;btn.addEventListener('click',function(e){e.stopPropagation();if(pset[key]){delete pset[key];card.classList.remove('plz-itin-card-done');}else{pset[key]=Date.now();card.classList.add('plz-itin-card-done');}try{localStorage.setItem(PKEY,JSON.stringify(pset));}catch(e){}var mb=card.closest('[data-mw]');if(mb)updProg(mb);});});
+r.querySelectorAll('[data-mw]').forEach(updProg);
+// P2: ICS calendar export per mode-block
+function pad(n){return n<10?'0'+n:''+n;}
+function buildICS(mb,city){var cards=mb.querySelectorAll('.plz-itin-card[data-stop-card]');var d=new Date();var y=d.getFullYear(),mo=pad(d.getMonth()+1),da=pad(d.getDate());var lines=['BEGIN:VCALENDAR','VERSION:2.0','PRODID:-//Plizio//PlizioGo//EN','CALSCALE:GREGORIAN'];cards.forEach(function(c,idx){var tt=(c.querySelector('.plz-itin-time')||{}).textContent||'';var name=(c.querySelector('h3')||{}).textContent||'';var m=tt.match(/(\\d+):(\\d+)\\s*·?\\s*(\\d+)/);if(!m)return;var sh=parseInt(m[1],10),sm=parseInt(m[2],10),dur=parseInt(m[3],10);var s=y+mo+da+'T'+pad(sh)+pad(sm)+'00';var eh=sh,em=sm+dur;while(em>=60){em-=60;eh++;}var e=y+mo+da+'T'+pad(eh)+pad(em)+'00';lines.push('BEGIN:VEVENT','UID:pliziogo-'+y+mo+da+'-'+idx+'-'+Math.random().toString(36).slice(2,8)+'@plizio.com','DTSTART:'+s,'DTEND:'+e,'SUMMARY:'+name.replace(/[\\r\\n,;]/g,' '),'LOCATION:'+city.replace(/[\\r\\n,;]/g,' '),'END:VEVENT');});lines.push('END:VCALENDAR');return lines.join('\\r\\n');}
+r.querySelectorAll('.plz-itin-ics').forEach(function(b){b.addEventListener('click',function(){var mb=b.closest('[data-mw]');if(!mb)return;var city=document.querySelector('h1')?document.querySelector('h1').textContent:'PlizioGo';var ics=buildICS(mb,city);var blob=new Blob([ics],{type:'text/calendar;charset=utf-8'});var url=URL.createObjectURL(blob);var a=document.createElement('a');a.href=url;a.download=city.replace(/[^a-z0-9]+/gi,'-').toLowerCase()+'-pliziogo.ics';document.body.appendChild(a);a.click();a.remove();setTimeout(function(){URL.revokeObjectURL(url);},1000);});});
 })();</script>`;
 }
 
@@ -1344,7 +1390,7 @@ ${hreflangLinks}
 <meta property="og:type" content="website"/>
 ${poi.image ? `<meta property="og:image" content="${SITE_URL}${escapeHtml(poi.image)}"/>` : ""}
 ${isAdSenseEligible(poi, lang) && !richness.isWeak ? ADSENSE_HEAD : ""}
-<link rel="stylesheet" href="/poi-static/poi.css?v=20260526d"/>
+<link rel="stylesheet" href="/poi-static/poi.css?v=20260526e"/>
 ${structuredData(poi, lang, url, metaDesc, countryId, countrySlugFor(lang, countryId).replace(/-/g, " "), faqItems, [
   { name: I("home", lang), url: `/${lang}/` },
   { name: countrySlugFor(lang, countryId).replace(/-/g, " "), url: buildCountryPath(lang, countryId) },
@@ -1648,7 +1694,7 @@ ${hreflangLinks}
 <meta property="og:url" content="${sightUrl}"/>
 <meta property="og:type" content="article"/>
 ${isAdSenseEligible(host, lang) ? ADSENSE_HEAD : ""}
-<link rel="stylesheet" href="/poi-static/poi.css?v=20260526d"/>
+<link rel="stylesheet" href="/poi-static/poi.css?v=20260526e"/>
 <style>
 .plz-sp-back{display:inline-flex;align-items:center;gap:.4rem;color:#4cc;text-decoration:none;font-size:.85rem;margin-bottom:.5rem}
 .plz-sp-back:hover{color:#7df}
