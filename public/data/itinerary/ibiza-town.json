@@ -24,8 +24,8 @@
             "en": "Vara de Rey"
           },
           "coords": [
-            38.9092,
-            1.4328
+            1.4328,
+            38.9092
           ],
           "category": "squares",
           "arrive_at": "09:10",
@@ -47,8 +47,8 @@
             "en": "Port of Ibiza"
           },
           "coords": [
-            38.9105,
-            1.4365
+            1.4365,
+            38.9105
           ],
           "category": "parks/promenades/beaches",
           "arrive_at": "09:50",
@@ -70,8 +70,8 @@
             "en": "Dalt Vila"
           },
           "coords": [
-            38.9069,
-            1.4361
+            1.4361,
+            38.9069
           ],
           "category": "squares/old-town",
           "arrive_at": "10:45",
@@ -93,8 +93,8 @@
             "en": "Cathedral of Santa Maria"
           },
           "coords": [
-            38.9058,
-            1.4364
+            1.4364,
+            38.9058
           ],
           "category": "churches/cathedrals",
           "arrive_at": "12:30",
@@ -116,8 +116,8 @@
             "en": "Ibiza Castle"
           },
           "coords": [
-            38.9061,
-            1.4372
+            1.4372,
+            38.9061
           ],
           "category": "castles/fortresses/towers",
           "arrive_at": "13:50",
@@ -139,8 +139,8 @@
             "en": "Puget Museum"
           },
           "coords": [
-            38.9072,
-            1.4355
+            1.4355,
+            38.9072
           ],
           "category": "museums",
           "arrive_at": "15:20",
@@ -162,8 +162,8 @@
             "en": "Church of Sant Domènec"
           },
           "coords": [
-            38.9081,
-            1.4358
+            1.4358,
+            38.9081
           ],
           "category": "churches/cathedrals",
           "arrive_at": "17:05",
@@ -185,8 +185,8 @@
             "en": "Puig des Molins Necropolis"
           },
           "coords": [
-            38.9075,
-            1.4285
+            1.4285,
+            38.9075
           ],
           "category": "museums",
           "arrive_at": "18:10",
@@ -884,8 +884,8 @@
             "en": "Vara de Rey"
           },
           "coords": [
-            38.9092,
-            1.4328
+            1.4328,
+            38.9092
           ],
           "category": "squares",
           "arrive_at": "09:10",
@@ -907,8 +907,8 @@
             "en": "Marina Botafoch"
           },
           "coords": [
-            38.9155,
-            1.4425
+            1.4425,
+            38.9155
           ],
           "category": "parks/promenades/beaches",
           "arrive_at": "09:55",
@@ -930,8 +930,8 @@
             "en": "Talamanca Beach"
           },
           "coords": [
-            38.9185,
-            1.4515
+            1.4515,
+            38.9185
           ],
           "category": "parks/promenades/beaches",
           "arrive_at": "11:00",
@@ -953,8 +953,8 @@
             "en": "Puig des Molins Necropolis"
           },
           "coords": [
-            38.9075,
-            1.4285
+            1.4285,
+            38.9075
           ],
           "category": "museums",
           "arrive_at": "14:25",
@@ -976,8 +976,8 @@
             "en": "Port of Ibiza"
           },
           "coords": [
-            38.9105,
-            1.4365
+            1.4365,
+            38.9105
           ],
           "category": "parks/promenades/beaches",
           "arrive_at": "16:20",
@@ -999,8 +999,8 @@
             "en": "Dalt Vila Entrance"
           },
           "coords": [
-            38.9085,
-            1.4352
+            1.4352,
+            38.9085
           ],
           "category": "squares/old-town",
           "arrive_at": "17:15",
@@ -1530,8 +1530,8 @@
             "en": "Dalt Vila"
           },
           "coords": [
-            38.9069,
-            1.4361
+            1.4361,
+            38.9069
           ],
           "category": "squares/old-town",
           "arrive_at": "09:15",
@@ -1553,8 +1553,8 @@
             "en": "Marina Botafoch"
           },
           "coords": [
-            38.9155,
-            1.4425
+            1.4425,
+            38.9155
           ],
           "category": "parks/promenades/beaches",
           "arrive_at": "11:30",
@@ -1576,8 +1576,8 @@
             "en": "Ses Salines Natural Park"
           },
           "coords": [
-            38.8415,
-            1.3915
+            1.3915,
+            38.8415
           ],
           "category": "parks/promenades/beaches",
           "arrive_at": "13:00",
@@ -1599,8 +1599,8 @@
             "en": "Puig des Molins Necropolis"
           },
           "coords": [
-            38.9075,
-            1.4285
+            1.4285,
+            38.9075
           ],
           "category": "museums",
           "arrive_at": "16:30",
@@ -1622,8 +1622,8 @@
             "en": "Vara de Rey"
           },
           "coords": [
-            38.9092,
-            1.4328
+            1.4328,
+            38.9092
           ],
           "category": "squares",
           "arrive_at": "18:00",
@@ -2110,7 +2110,7 @@
       "speed_kmh": 15,
       "start": "09:00",
       "end_estimate": "18:45",
-      "total_km": 8.0,
+      "total_km": 9.7,
       "stop_count": 6,
       "stops": [
         {
@@ -2121,8 +2121,8 @@
             "en": "Vara de Rey"
           },
           "coords": [
-            38.9092,
-            1.4328
+            1.4328,
+            38.9092
           ],
           "category": "squares",
           "arrive_at": "09:10",
@@ -2144,8 +2144,8 @@
             "en": "Dalt Vila"
           },
           "coords": [
-            38.9069,
-            1.4361
+            1.4361,
+            38.9069
           ],
           "category": "squares/old-town",
           "arrive_at": "10:00",
@@ -2167,8 +2167,8 @@
             "en": "Cathedral of Santa Maria"
           },
           "coords": [
-            38.9058,
-            1.4364
+            1.4364,
+            38.9058
           ],
           "category": "churches/cathedrals",
           "arrive_at": "12:05",
@@ -2190,8 +2190,8 @@
             "en": "Marina Botafoch"
           },
           "coords": [
-            38.9155,
-            1.4425
+            1.4425,
+            38.9155
           ],
           "category": "parks/promenades/beaches",
           "arrive_at": "13:50",
@@ -2213,8 +2213,8 @@
             "en": "Puig des Molins Necropolis"
           },
           "coords": [
-            38.9075,
-            1.4285
+            1.4285,
+            38.9075
           ],
           "category": "museums",
           "arrive_at": "15:40",
@@ -2236,8 +2236,8 @@
             "en": "Port of Ibiza"
           },
           "coords": [
-            38.9105,
-            1.4365
+            1.4365,
+            38.9105
           ],
           "category": "parks/promenades/beaches",
           "arrive_at": "17:40",

@@ -13,7 +13,7 @@
       "speed_kmh": 3.0,
       "start": "09:00",
       "end_estimate": "17:30",
-      "total_km": 3.5,
+      "total_km": 1.3,
       "stop_count": 6,
       "stops": [
         {
@@ -31,7 +31,7 @@
           "arrive_at": "09:10",
           "stay_min": 40,
           "hop_from_prev_min": 10,
-          "hop_from_prev_km": 0.4,
+          "hop_from_prev_km": 0.2,
           "tip_5lang": {
             "de": "Bunter Fischerhafen.",
             "hu": "Színes halászkikötő.",
@@ -54,7 +54,7 @@
           "arrive_at": "10:10",
           "stay_min": 50,
           "hop_from_prev_min": 20,
-          "hop_from_prev_km": 0.8,
+          "hop_from_prev_km": 0.3,
           "tip_5lang": {
             "de": "Sonniger Spaziergang.",
             "hu": "Napsütötte sétány.",
@@ -77,7 +77,7 @@
           "arrive_at": "11:15",
           "stay_min": 75,
           "hop_from_prev_min": 15,
-          "hop_from_prev_km": 0.3,
+          "hop_from_prev_km": 0.1,
           "tip_5lang": {
             "de": "Lokale Meeresbewohner.",
             "hu": "Helyi tengeri élővilág.",
@@ -100,7 +100,7 @@
           "arrive_at": "12:50",
           "stay_min": 45,
           "hop_from_prev_min": 20,
-          "hop_from_prev_km": 0.7,
+          "hop_from_prev_km": 0.3,
           "tip_5lang": {
             "de": "Kühle Atmosphäre.",
             "hu": "Hűvös atmoszféra.",
@@ -123,7 +123,7 @@
           "arrive_at": "13:55",
           "stay_min": 90,
           "hop_from_prev_min": 20,
-          "hop_from_prev_km": 0.4,
+          "hop_from_prev_km": 0.1,
           "tip_5lang": {
             "de": "Gigantische Aussicht.",
             "hu": "Hatalmas kilátás.",
@@ -146,7 +146,7 @@
           "arrive_at": "15:45",
           "stay_min": 30,
           "hop_from_prev_min": 20,
-          "hop_from_prev_km": 0.5,
+          "hop_from_prev_km": 0.3,
           "tip_5lang": {
             "de": "Historischer Platz.",
             "hu": "Történelmi tér.",
@@ -683,7 +683,7 @@
       "speed_kmh": 10,
       "start": "09:00",
       "end_estimate": "17:15",
-      "total_km": 23.5,
+      "total_km": 9.4,
       "stop_count": 4,
       "stops": [
         {
@@ -701,7 +701,7 @@
           "arrive_at": "09:15",
           "stay_min": 30,
           "hop_from_prev_min": 15,
-          "hop_from_prev_km": 1.5,
+          "hop_from_prev_km": 0.2,
           "tip_5lang": {
             "de": "Fahrt am Meer entlang.",
             "hu": "Bringázás a tengerparton.",
@@ -724,7 +724,7 @@
           "arrive_at": "10:15",
           "stay_min": 75,
           "hop_from_prev_min": 30,
-          "hop_from_prev_km": 2.5,
+          "hop_from_prev_km": 0.4,
           "tip_5lang": {
             "de": "Steile Anfahrt.",
             "hu": "Meredek felfelé út.",
@@ -740,14 +740,14 @@
             "en": "Cala Piccola"
           },
           "coords": [
-            10.085,
-            42.415
+            11.0873,
+            42.4039
           ],
           "category": "natural features",
           "arrive_at": "12:15",
           "stay_min": 150,
           "hop_from_prev_min": 85,
-          "hop_from_prev_km": 9.5,
+          "hop_from_prev_km": 4.4,
           "tip_5lang": {
             "de": "Baden in der Bucht.",
             "hu": "Fürdés az öbölben.",
@@ -770,7 +770,7 @@
           "arrive_at": "16:15",
           "stay_min": 40,
           "hop_from_prev_min": 90,
-          "hop_from_prev_km": 10.0,
+          "hop_from_prev_km": 4.5,
           "tip_5lang": {
             "de": "Tour-Ausklang.",
             "hu": "Túra zárása.",
@@ -1211,7 +1211,7 @@
       "speed_kmh": 18,
       "start": "09:00",
       "end_estimate": "16:45",
-      "total_km": 25.0,
+      "total_km": 16.1,
       "stop_count": 4,
       "stops": [
         {
@@ -1229,7 +1229,7 @@
           "arrive_at": "09:15",
           "stay_min": 75,
           "hop_from_prev_min": 15,
-          "hop_from_prev_km": 1.5,
+          "hop_from_prev_km": 0.2,
           "tip_5lang": {
             "de": "Parkplatz direkt unterhalb.",
             "hu": "Parkoló közvetlenül alatta.",
@@ -1252,7 +1252,7 @@
           "arrive_at": "10:50",
           "stay_min": 50,
           "hop_from_prev_min": 20,
-          "hop_from_prev_km": 6.0,
+          "hop_from_prev_km": 5.6,
           "tip_5lang": {
             "de": "Ruhe am Berg Monte Argentario.",
             "hu": "Csend a Monte Argentario hegyen.",
@@ -1268,14 +1268,14 @@
             "en": "Cala Piccola"
           },
           "coords": [
-            11.085,
-            42.415
+            11.0873,
+            42.4039
           ],
           "category": "natural features",
           "arrive_at": "12:15",
           "stay_min": 160,
           "hop_from_prev_min": 35,
-          "hop_from_prev_km": 10.0,
+          "hop_from_prev_km": 6.1,
           "tip_5lang": {
             "de": "Exklusiver Strandzugang.",
             "hu": "Exkluzív strandbelépés.",
@@ -1298,7 +1298,7 @@
           "arrive_at": "15:30",
           "stay_min": 50,
           "hop_from_prev_min": 35,
-          "hop_from_prev_km": 11.0,
+          "hop_from_prev_km": 4.3,
           "tip_5lang": {
             "de": "Abendspaziergang.",
             "hu": "Esti séta.",
@@ -1739,7 +1739,7 @@
       "speed_kmh": 15,
       "start": "09:00",
       "end_estimate": "16:15",
-      "total_km": 4.0,
+      "total_km": 1.0,
       "stop_count": 4,
       "stops": [
         {
@@ -1757,7 +1757,7 @@
           "arrive_at": "09:15",
           "stay_min": 60,
           "hop_from_prev_min": 15,
-          "hop_from_prev_km": 1.0,
+          "hop_from_prev_km": 0.2,
           "tip_5lang": {
             "de": "Zentrale Bushaltestelle.",
             "hu": "Központi buszmegálló.",
@@ -1780,7 +1780,7 @@
           "arrive_at": "10:30",
           "stay_min": 90,
           "hop_from_prev_min": 15,
-          "hop_from_prev_km": 0.5,
+          "hop_from_prev_km": 0.1,
           "tip_5lang": {
             "de": "Ideal für Familien.",
             "hu": "Ideális családoknak.",
@@ -1803,7 +1803,7 @@
           "arrive_at": "12:30",
           "stay_min": 90,
           "hop_from_prev_min": 30,
-          "hop_from_prev_km": 1.5,
+          "hop_from_prev_km": 0.4,
           "tip_5lang": {
             "de": "Vom Zentrum aus erreichbar.",
             "hu": "A központból elérhető.",
@@ -1826,7 +1826,7 @@
           "arrive_at": "14:30",
           "stay_min": 75,
           "hop_from_prev_min": 30,
-          "hop_from_prev_km": 1.0,
+          "hop_from_prev_km": 0.3,
           "tip_5lang": {
             "de": "Gelato genießen.",
             "hu": "Fagyizz a kikötőben.",

@@ -24,8 +24,8 @@
             "en": "Church of San Miguel"
           },
           "coords": [
-            42.7022,
-            0.7955
+            0.7955,
+            42.7022
           ],
           "category": "churches/cathedrals",
           "arrive_at": "09:10",
@@ -47,8 +47,8 @@
             "en": "Old Town of Vielha"
           },
           "coords": [
-            42.7018,
-            0.7962
+            0.7962,
+            42.7018
           ],
           "category": "squares/old-town",
           "arrive_at": "10:20",
@@ -70,8 +70,8 @@
             "en": "Aran Valley Museum"
           },
           "coords": [
-            42.7012,
-            0.7942
+            0.7942,
+            42.7012
           ],
           "category": "museums",
           "arrive_at": "11:15",
@@ -93,8 +93,8 @@
             "en": "Paseo de la Libertad"
           },
           "coords": [
-            42.7025,
-            0.7945
+            0.7945,
+            42.7025
           ],
           "category": "parks/promenades/beaches",
           "arrive_at": "14:00",
@@ -116,8 +116,8 @@
             "en": "Wool Factory"
           },
           "coords": [
-            42.7032,
-            0.7972
+            0.7972,
+            42.7032
           ],
           "category": "industrial heritage",
           "arrive_at": "15:05",
@@ -139,8 +139,8 @@
             "en": "Era Audiovisuau Cultural Centre"
           },
           "coords": [
-            42.7005,
-            0.7935
+            0.7935,
+            42.7005
           ],
           "category": "theatres/cultural centres",
           "arrive_at": "16:20",
@@ -162,8 +162,8 @@
             "en": "Old Town Fountain"
           },
           "coords": [
-            42.7017,
-            0.796
+            0.796,
+            42.7017
           ],
           "category": "squares/old-town",
           "arrive_at": "17:05",
@@ -714,7 +714,7 @@
       "speed_kmh": 12,
       "start": "09:00",
       "end_estimate": "16:45",
-      "total_km": 12.0,
+      "total_km": 14.2,
       "stop_count": 6,
       "stops": [
         {
@@ -725,8 +725,8 @@
             "en": "Church of San Miguel"
           },
           "coords": [
-            42.7022,
-            0.7955
+            0.7955,
+            42.7022
           ],
           "category": "churches/cathedrals",
           "arrive_at": "09:10",
@@ -748,8 +748,8 @@
             "en": "Bassa d'Oles Lake"
           },
           "coords": [
-            42.7155,
-            0.7452
+            0.7452,
+            42.7155
           ],
           "category": "natural features (caves, viewpoints)",
           "arrive_at": "10:45",
@@ -771,8 +771,8 @@
             "en": "Paseo de la Libertad"
           },
           "coords": [
-            42.7025,
-            0.7945
+            0.7945,
+            42.7025
           ],
           "category": "parks/promenades/beaches",
           "arrive_at": "13:30",
@@ -794,8 +794,8 @@
             "en": "Old Town of Vielha"
           },
           "coords": [
-            42.7018,
-            0.7962
+            0.7962,
+            42.7018
           ],
           "category": "squares/old-town",
           "arrive_at": "14:20",
@@ -817,8 +817,8 @@
             "en": "Wool Factory"
           },
           "coords": [
-            42.7032,
-            0.7972
+            0.7972,
+            42.7032
           ],
           "category": "industrial heritage",
           "arrive_at": "15:15",
@@ -840,8 +840,8 @@
             "en": "Bridge over Garonne"
           },
           "coords": [
-            42.7045,
-            0.7985
+            0.7985,
+            42.7045
           ],
           "category": "natural features (caves, viewpoints)",
           "arrive_at": "16:15",
@@ -1371,8 +1371,8 @@
             "en": "Artiga de Lin"
           },
           "coords": [
-            42.6785,
-            0.6952
+            0.6952,
+            42.6785
           ],
           "category": "natural features (caves, viewpoints)",
           "arrive_at": "09:30",
@@ -1394,8 +1394,8 @@
             "en": "Aran Valley Museum"
           },
           "coords": [
-            42.7012,
-            0.7942
+            0.7942,
+            42.7012
           ],
           "category": "museums",
           "arrive_at": "12:15",
@@ -1417,8 +1417,8 @@
             "en": "Church of San Miguel"
           },
           "coords": [
-            42.7022,
-            0.7955
+            0.7955,
+            42.7022
           ],
           "category": "churches/cathedrals",
           "arrive_at": "14:15",
@@ -1440,8 +1440,8 @@
             "en": "Paseo de la Libertad"
           },
           "coords": [
-            42.7025,
-            0.7945
+            0.7945,
+            42.7025
           ],
           "category": "parks/promenades/beaches",
           "arrive_at": "15:15",
@@ -1463,8 +1463,8 @@
             "en": "Wool Factory"
           },
           "coords": [
-            42.7032,
-            0.7972
+            0.7972,
+            42.7032
           ],
           "category": "industrial heritage",
           "arrive_at": "16:15",
@@ -1486,8 +1486,8 @@
             "en": "Old Town Evening Walk"
           },
           "coords": [
-            42.7018,
-            0.7962
+            0.7962,
+            42.7018
           ],
           "category": "squares/old-town",
           "arrive_at": "17:10",
@@ -2006,7 +2006,7 @@
       "speed_kmh": 15,
       "start": "09:00",
       "end_estimate": "17:00",
-      "total_km": 4.0,
+      "total_km": 3.1,
       "stop_count": 6,
       "stops": [
         {
@@ -2017,8 +2017,8 @@
             "en": "Vielha Bus Station"
           },
           "coords": [
-            42.7002,
-            0.7932
+            0.7932,
+            42.7002
           ],
           "category": "transport",
           "arrive_at": "09:10",
@@ -2040,8 +2040,8 @@
             "en": "Church of San Miguel"
           },
           "coords": [
-            42.7022,
-            0.7955
+            0.7955,
+            42.7022
           ],
           "category": "churches/cathedrals",
           "arrive_at": "09:40",
@@ -2063,8 +2063,8 @@
             "en": "Aran Valley Museum"
           },
           "coords": [
-            42.7012,
-            0.7942
+            0.7942,
+            42.7012
           ],
           "category": "museums",
           "arrive_at": "11:00",
@@ -2086,8 +2086,8 @@
             "en": "Paseo de la Libertad"
           },
           "coords": [
-            42.7025,
-            0.7945
+            0.7945,
+            42.7025
           ],
           "category": "parks/promenades/beaches",
           "arrive_at": "14:15",
@@ -2109,8 +2109,8 @@
             "en": "Old Town of Vielha"
           },
           "coords": [
-            42.7018,
-            0.7962
+            0.7962,
+            42.7018
           ],
           "category": "squares/old-town",
           "arrive_at": "15:20",
@@ -2132,8 +2132,8 @@
             "en": "Era Audiovisuau Cultural Centre"
           },
           "coords": [
-            42.7005,
-            0.7935
+            0.7935,
+            42.7005
           ],
           "category": "theatres/cultural centres",
           "arrive_at": "16:25",

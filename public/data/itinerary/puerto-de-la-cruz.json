@@ -14,7 +14,7 @@
       "start": "09:00",
       "end_estimate": "18:40",
       "total_km": 4.2,
-      "stop_count": 7,
+      "stop_count": 6,
       "stops": [
         {
           "name": "Plaza del Charco",
@@ -591,8 +591,8 @@
       "speed_kmh": 10,
       "start": "09:00",
       "end_estimate": "17:30",
-      "total_km": 10.5,
-      "stop_count": 6,
+      "total_km": 7.0,
+      "stop_count": 5,
       "stops": [
         {
           "name": "Paseo Marítimo",
@@ -1124,8 +1124,8 @@
       "speed_kmh": 18,
       "start": "09:00",
       "end_estimate": "18:20",
-      "total_km": 15.0,
-      "stop_count": 5,
+      "total_km": 8.2,
+      "stop_count": 4,
       "stops": [
         {
           "name": "Loro Parque",
@@ -1613,7 +1613,7 @@
       "start": "09:00",
       "end_estimate": "18:30",
       "total_km": 8.0,
-      "stop_count": 5,
+      "stop_count": 4,
       "stops": [
         {
           "name": "Loro Parque",

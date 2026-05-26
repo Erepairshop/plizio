@@ -1169,8 +1169,8 @@
       "speed_kmh": 18,
       "start": "09:00",
       "end_estimate": "15:30",
-      "total_km": 15.0,
-      "stop_count": 6,
+      "total_km": 18.9,
+      "stop_count": 5,
       "stops": [
         {
           "name": "San Juan de Gaztelugatxe (Nahansicht)",
@@ -1702,7 +1702,7 @@
       "speed_kmh": 15,
       "start": "09:00",
       "end_estimate": "15:45",
-      "total_km": 4.0,
+      "total_km": 2.3,
       "stop_count": 6,
       "stops": [
         {

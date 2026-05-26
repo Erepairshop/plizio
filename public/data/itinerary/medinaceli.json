@@ -24,8 +24,8 @@
             "en": "Roman Arch"
           },
           "coords": [
-            41.1712,
-            -2.4328
+            -2.4328,
+            41.1712
           ],
           "category": "monuments/statues",
           "arrive_at": "09:10",
@@ -47,8 +47,8 @@
             "en": "Viewpoint of El Cid"
           },
           "coords": [
-            41.1718,
-            -2.4321
+            -2.4321,
+            41.1718
           ],
           "category": "natural features (caves, viewpoints)",
           "arrive_at": "09:55",
@@ -70,8 +70,8 @@
             "en": "Plaza Mayor"
           },
           "coords": [
-            41.1704,
-            -2.4339
+            -2.4339,
+            41.1704
           ],
           "category": "squares/old-town",
           "arrive_at": "10:35",
@@ -93,8 +93,8 @@
             "en": "Ducal Palace"
           },
           "coords": [
-            41.1703,
-            -2.4342
+            -2.4342,
+            41.1703
           ],
           "category": "castles/fortresses/towers",
           "arrive_at": "11:25",
@@ -116,8 +116,8 @@
             "en": "Collegiate Church of Santa María"
           },
           "coords": [
-            41.1711,
-            -2.4352
+            -2.4352,
+            41.1711
           ],
           "category": "churches/cathedrals",
           "arrive_at": "14:15",
@@ -139,8 +139,8 @@
             "en": "Roman Mosaics"
           },
           "coords": [
-            41.1715,
-            -2.4358
+            -2.4358,
+            41.1715
           ],
           "category": "museums",
           "arrive_at": "15:25",
@@ -162,8 +162,8 @@
             "en": "Arab Gate"
           },
           "coords": [
-            41.1725,
-            -2.4365
+            -2.4365,
+            41.1725
           ],
           "category": "castles/fortresses/towers",
           "arrive_at": "16:30",
@@ -722,7 +722,7 @@
       "speed_kmh": 10,
       "start": "09:00",
       "end_estimate": "16:20",
-      "total_km": 5.5,
+      "total_km": 3.4,
       "stop_count": 6,
       "stops": [
         {
@@ -733,8 +733,8 @@
             "en": "Roman Arch"
           },
           "coords": [
-            41.1712,
-            -2.4328
+            -2.4328,
+            41.1712
           ],
           "category": "monuments/statues",
           "arrive_at": "09:10",
@@ -756,8 +756,8 @@
             "en": "Santa Isabel Convent"
           },
           "coords": [
-            41.1708,
-            -2.4345
+            -2.4345,
+            41.1708
           ],
           "category": "churches/cathedrals",
           "arrive_at": "10:00",
@@ -779,8 +779,8 @@
             "en": "Plaza Mayor"
           },
           "coords": [
-            41.1704,
-            -2.4339
+            -2.4339,
+            41.1704
           ],
           "category": "squares/old-town",
           "arrive_at": "10:50",
@@ -802,8 +802,8 @@
             "en": "Ducal Palace"
           },
           "coords": [
-            41.1703,
-            -2.4342
+            -2.4342,
+            41.1703
           ],
           "category": "castles/fortresses/towers",
           "arrive_at": "11:40",
@@ -825,8 +825,8 @@
             "en": "Town Wall Remains"
           },
           "coords": [
-            41.1728,
-            -2.4372
+            -2.4372,
+            41.1728
           ],
           "category": "castles/fortresses/towers",
           "arrive_at": "14:15",
@@ -848,8 +848,8 @@
             "en": "Arab Gate"
           },
           "coords": [
-            41.1725,
-            -2.4365
+            -2.4365,
+            41.1725
           ],
           "category": "castles/fortresses/towers",
           "arrive_at": "15:15",
@@ -1376,7 +1376,7 @@
       "speed_kmh": 25,
       "start": "09:00",
       "end_estimate": "17:10",
-      "total_km": 15.0,
+      "total_km": 23.3,
       "stop_count": 6,
       "stops": [
         {
@@ -1387,8 +1387,8 @@
             "en": "Roman Arch"
           },
           "coords": [
-            41.1712,
-            -2.4328
+            -2.4328,
+            41.1712
           ],
           "category": "monuments/statues",
           "arrive_at": "09:10",
@@ -1410,8 +1410,8 @@
             "en": "Ducal Palace"
           },
           "coords": [
-            41.1703,
-            -2.4342
+            -2.4342,
+            41.1703
           ],
           "category": "castles/fortresses/towers",
           "arrive_at": "10:00",
@@ -1433,8 +1433,8 @@
             "en": "Ambrona (Excavations)"
           },
           "coords": [
-            41.1444,
-            -2.5022
+            -2.5022,
+            41.1444
           ],
           "category": "museums",
           "arrive_at": "11:45",
@@ -1456,8 +1456,8 @@
             "en": "Plaza Mayor"
           },
           "coords": [
-            41.1704,
-            -2.4339
+            -2.4339,
+            41.1704
           ],
           "category": "squares/old-town",
           "arrive_at": "14:15",
@@ -1479,8 +1479,8 @@
             "en": "Collegiate Church of Santa María"
           },
           "coords": [
-            41.1711,
-            -2.4352
+            -2.4352,
+            41.1711
           ],
           "category": "churches/cathedrals",
           "arrive_at": "15:25",
@@ -1502,8 +1502,8 @@
             "en": "Viewpoint of El Cid"
           },
           "coords": [
-            41.1718,
-            -2.4321
+            -2.4321,
+            41.1718
           ],
           "category": "natural features (caves, viewpoints)",
           "arrive_at": "16:20",
@@ -2032,7 +2032,7 @@
       "speed_kmh": 15,
       "start": "09:00",
       "end_estimate": "17:00",
-      "total_km": 3.0,
+      "total_km": 5.4,
       "stop_count": 6,
       "stops": [
         {
@@ -2043,8 +2043,8 @@
             "en": "Medinaceli Train Station"
           },
           "coords": [
-            41.1444,
-            -2.4288
+            -2.4288,
+            41.1444
           ],
           "category": "transport",
           "arrive_at": "09:10",
@@ -2066,8 +2066,8 @@
             "en": "Roman Arch"
           },
           "coords": [
-            41.1712,
-            -2.4328
+            -2.4328,
+            41.1712
           ],
           "category": "monuments/statues",
           "arrive_at": "09:40",
@@ -2089,8 +2089,8 @@
             "en": "Plaza Mayor"
           },
           "coords": [
-            41.1704,
-            -2.4339
+            -2.4339,
+            41.1704
           ],
           "category": "squares/old-town",
           "arrive_at": "10:35",
@@ -2112,8 +2112,8 @@
             "en": "Ducal Palace"
           },
           "coords": [
-            41.1703,
-            -2.4342
+            -2.4342,
+            41.1703
           ],
           "category": "castles/fortresses/towers",
           "arrive_at": "11:45",
@@ -2135,8 +2135,8 @@
             "en": "Roman Mosaics"
           },
           "coords": [
-            41.1715,
-            -2.4358
+            -2.4358,
+            41.1715
           ],
           "category": "museums",
           "arrive_at": "14:25",
@@ -2158,8 +2158,8 @@
             "en": "Viewpoint of El Cid"
           },
           "coords": [
-            41.1718,
-            -2.4321
+            -2.4321,
+            41.1718
           ],
           "category": "natural features (caves, viewpoints)",
           "arrive_at": "15:40",

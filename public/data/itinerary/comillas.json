@@ -13,14 +13,14 @@
       "speed_kmh": 4,
       "start": "09:00",
       "end_estimate": "17:10",
-      "total_km": 3.5,
+      "total_km": 2.4,
       "stop_count": 5,
       "stops": [
         {
           "name": "Plaza de la Constitución",
           "coords": [
-            43.386,
-            -4.292
+            -4.292,
+            43.386
           ],
           "category": "squares/old-town",
           "arrive_at": "09:10",
@@ -37,8 +37,8 @@
         {
           "name": "El Capricho de Gaudí",
           "coords": [
-            43.385,
-            -4.294
+            -4.294,
+            43.385
           ],
           "category": "famous residences",
           "arrive_at": "10:05",
@@ -55,8 +55,8 @@
         {
           "name": "Palacio de Sobrellano",
           "coords": [
-            43.387,
-            -4.296
+            -4.296,
+            43.387
           ],
           "category": "famous residences",
           "arrive_at": "12:00",
@@ -73,8 +73,8 @@
         {
           "name": "Capilla-Panteón",
           "coords": [
-            43.3875,
-            -4.2965
+            -4.2965,
+            43.3875
           ],
           "category": "churches/cathedrals",
           "arrive_at": "13:35",
@@ -91,8 +91,8 @@
         {
           "name": "Playa de Comillas",
           "coords": [
-            43.39,
-            -4.285
+            -4.285,
+            43.39
           ],
           "category": "parks/promenades/beaches",
           "arrive_at": "15:00",
@@ -538,14 +538,14 @@
       "speed_kmh": 10,
       "start": "09:00",
       "end_estimate": "17:00",
-      "total_km": 8.0,
+      "total_km": 5.5,
       "stop_count": 5,
       "stops": [
         {
           "name": "Plaza de la Constitución",
           "coords": [
-            43.386,
-            -4.292
+            -4.292,
+            43.386
           ],
           "category": "squares/old-town",
           "arrive_at": "09:10",
@@ -562,8 +562,8 @@
         {
           "name": "Universidad Pontificia",
           "coords": [
-            43.39,
-            -4.298
+            -4.298,
+            43.39
           ],
           "category": "theatres/cultural centres",
           "arrive_at": "10:00",
@@ -580,8 +580,8 @@
         {
           "name": "Cementerio de Comillas",
           "coords": [
-            43.391,
-            -4.288
+            -4.288,
+            43.391
           ],
           "category": "monuments/statues",
           "arrive_at": "11:40",
@@ -598,8 +598,8 @@
         {
           "name": "Puerta de los Pájaros",
           "coords": [
-            43.3855,
-            -4.2945
+            -4.2945,
+            43.3855
           ],
           "category": "monuments/statues",
           "arrive_at": "12:45",
@@ -616,8 +616,8 @@
         {
           "name": "Playa de Comillas",
           "coords": [
-            43.39,
-            -4.285
+            -4.285,
+            43.39
           ],
           "category": "parks/promenades/beaches",
           "arrive_at": "13:30",
@@ -1063,14 +1063,14 @@
       "speed_kmh": 18,
       "start": "09:00",
       "end_estimate": "17:15",
-      "total_km": 15.0,
+      "total_km": 4.7,
       "stop_count": 6,
       "stops": [
         {
           "name": "El Capricho de Gaudí",
           "coords": [
-            43.385,
-            -4.294
+            -4.294,
+            43.385
           ],
           "category": "famous residences",
           "arrive_at": "09:10",
@@ -1087,8 +1087,8 @@
         {
           "name": "Palacio de Sobrellano",
           "coords": [
-            43.387,
-            -4.296
+            -4.296,
+            43.387
           ],
           "category": "famous residences",
           "arrive_at": "11:00",
@@ -1105,8 +1105,8 @@
         {
           "name": "Universidad Pontificia",
           "coords": [
-            43.39,
-            -4.298
+            -4.298,
+            43.39
           ],
           "category": "theatres/cultural centres",
           "arrive_at": "12:35",
@@ -1123,8 +1123,8 @@
         {
           "name": "Fuente de los Tres Caños",
           "coords": [
-            43.3865,
-            -4.2915
+            -4.2915,
+            43.3865
           ],
           "category": "monuments/statues",
           "arrive_at": "13:50",
@@ -1141,8 +1141,8 @@
         {
           "name": "Cementerio de Comillas",
           "coords": [
-            43.391,
-            -4.288
+            -4.288,
+            43.391
           ],
           "category": "monuments/statues",
           "arrive_at": "14:35",
@@ -1159,8 +1159,8 @@
         {
           "name": "Playa de Comillas",
           "coords": [
-            43.39,
-            -4.285
+            -4.285,
+            43.39
           ],
           "category": "parks/promenades/beaches",
           "arrive_at": "15:25",
@@ -1633,14 +1633,14 @@
       "speed_kmh": 15,
       "start": "09:00",
       "end_estimate": "17:00",
-      "total_km": 6.0,
+      "total_km": 3.5,
       "stop_count": 4,
       "stops": [
         {
           "name": "Plaza de la Constitución",
           "coords": [
-            43.386,
-            -4.292
+            -4.292,
+            43.386
           ],
           "category": "squares/old-town",
           "arrive_at": "09:10",
@@ -1657,8 +1657,8 @@
         {
           "name": "El Capricho de Gaudí",
           "coords": [
-            43.385,
-            -4.294
+            -4.294,
+            43.385
           ],
           "category": "famous residences",
           "arrive_at": "10:30",
@@ -1675,8 +1675,8 @@
         {
           "name": "Palacio de Sobrellano",
           "coords": [
-            43.387,
-            -4.296
+            -4.296,
+            43.387
           ],
           "category": "famous residences",
           "arrive_at": "12:25",
@@ -1693,8 +1693,8 @@
         {
           "name": "Playa de Comillas",
           "coords": [
-            43.39,
-            -4.285
+            -4.285,
+            43.39
           ],
           "category": "parks/promenades/beaches",
           "arrive_at": "14:20",
