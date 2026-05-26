@@ -13,14 +13,14 @@
       "speed_kmh": 3,
       "start": "09:00",
       "end_estimate": "17:45",
-      "total_km": 3.2,
+      "total_km": 2.5,
       "stop_count": 7,
       "stops": [
         {
           "name": "Piazza Bra",
           "coords": [
-            45.4382,
-            10.9925
+            10.9925,
+            45.4382
           ],
           "category": "square",
           "arrive_at": "09:10",
@@ -37,8 +37,8 @@
         {
           "name": "Arena di Verona",
           "coords": [
-            45.4391,
-            10.9944
+            10.9944,
+            45.4391
           ],
           "category": "historical",
           "arrive_at": "09:45",
@@ -55,8 +55,8 @@
         {
           "name": "Piazza delle Erbe",
           "coords": [
-            45.4421,
-            10.9972
+            10.9972,
+            45.4421
           ],
           "category": "square",
           "arrive_at": "11:35",
@@ -73,8 +73,8 @@
         {
           "name": "Torre dei Lamberti",
           "coords": [
-            45.4428,
-            10.9978
+            10.9978,
+            45.4428
           ],
           "category": "historical",
           "arrive_at": "12:20",
@@ -91,8 +91,8 @@
         {
           "name": "Casa di Giulietta",
           "coords": [
-            45.4419,
-            10.9995
+            10.9995,
+            45.4419
           ],
           "category": "historical",
           "arrive_at": "13:30",
@@ -109,8 +109,8 @@
         {
           "name": "Arche Scaligere",
           "coords": [
-            45.4435,
-            10.9992
+            10.9992,
+            45.4435
           ],
           "category": "historical",
           "arrive_at": "14:30",
@@ -127,8 +127,8 @@
         {
           "name": "Castelvecchio & Ponte Scaligero",
           "coords": [
-            45.4402,
-            10.9877
+            10.9877,
+            45.4402
           ],
           "category": "historical",
           "arrive_at": "15:30",
@@ -756,14 +756,14 @@
       "speed_kmh": 10,
       "start": "09:00",
       "end_estimate": "16:30",
-      "total_km": 12.5,
+      "total_km": 8.8,
       "stop_count": 6,
       "stops": [
         {
           "name": "Piazza Bra",
           "coords": [
-            45.4382,
-            10.9925
+            10.9925,
+            45.4382
           ],
           "category": "square",
           "arrive_at": "09:10",
@@ -780,8 +780,8 @@
         {
           "name": "Castelvecchio",
           "coords": [
-            45.4402,
-            10.9877
+            10.9877,
+            45.4402
           ],
           "category": "historical",
           "arrive_at": "09:35",
@@ -798,8 +798,8 @@
         {
           "name": "Lungadige Cangrande",
           "coords": [
-            45.4435,
-            10.985
+            10.985,
+            45.4435
           ],
           "category": "park",
           "arrive_at": "11:05",
@@ -816,8 +816,8 @@
         {
           "name": "Basilica di San Zeno",
           "coords": [
-            45.4421,
-            10.9785
+            10.9785,
+            45.4421
           ],
           "category": "religious",
           "arrive_at": "11:55",
@@ -834,8 +834,8 @@
         {
           "name": "Piazza delle Erbe",
           "coords": [
-            45.4421,
-            10.9972
+            10.9972,
+            45.4421
           ],
           "category": "square",
           "arrive_at": "13:10",
@@ -852,8 +852,8 @@
         {
           "name": "Giardino Giusti",
           "coords": [
-            45.4425,
-            11.0065
+            11.0065,
+            45.4425
           ],
           "category": "park",
           "arrive_at": "14:05",
@@ -1460,8 +1460,8 @@
         {
           "name": "Arena di Verona",
           "coords": [
-            45.4391,
-            10.9944
+            10.9944,
+            45.4391
           ],
           "category": "historical",
           "arrive_at": "09:15",
@@ -1478,8 +1478,8 @@
         {
           "name": "Sirmione (Gardasee)",
           "coords": [
-            45.4925,
-            10.6081
+            10.6081,
+            45.4925
           ],
           "category": "historical",
           "arrive_at": "11:45",
@@ -1496,8 +1496,8 @@
         {
           "name": "Peschiera del Garda",
           "coords": [
-            45.4385,
-            10.6942
+            10.6942,
+            45.4385
           ],
           "category": "historical",
           "arrive_at": "14:45",
@@ -1514,8 +1514,8 @@
         {
           "name": "Borghetto sul Mincio",
           "coords": [
-            45.3585,
-            10.7225
+            10.7225,
+            45.3585
           ],
           "category": "historical",
           "arrive_at": "16:15",
@@ -1532,8 +1532,8 @@
         {
           "name": "Verona (Piazza Bra)",
           "coords": [
-            45.4382,
-            10.9925
+            10.9925,
+            45.4382
           ],
           "category": "square",
           "arrive_at": "17:45",
@@ -2113,8 +2113,8 @@
         {
           "name": "Stazione Verona Porta Nuova",
           "coords": [
-            45.4285,
-            10.9825
+            10.9825,
+            45.4285
           ],
           "category": "historical",
           "arrive_at": "09:10",
@@ -2131,8 +2131,8 @@
         {
           "name": "Piazza Bra (Arena)",
           "coords": [
-            45.4382,
-            10.9925
+            10.9925,
+            45.4382
           ],
           "category": "square",
           "arrive_at": "09:40",
@@ -2149,8 +2149,8 @@
         {
           "name": "Castel San Pietro (Funicolare)",
           "coords": [
-            45.4485,
-            11.0015
+            11.0015,
+            45.4485
           ],
           "category": "historical",
           "arrive_at": "11:30",
@@ -2167,8 +2167,8 @@
         {
           "name": "Duomo di Verona",
           "coords": [
-            45.4475,
-            10.9995
+            10.9995,
+            45.4475
           ],
           "category": "religious",
           "arrive_at": "12:50",
@@ -2185,8 +2185,8 @@
         {
           "name": "Piazza delle Erbe",
           "coords": [
-            45.4421,
-            10.9972
+            10.9972,
+            45.4421
           ],
           "category": "square",
           "arrive_at": "14:00",
@@ -2203,8 +2203,8 @@
         {
           "name": "Castelvecchio",
           "coords": [
-            45.4402,
-            10.9877
+            10.9877,
+            45.4402
           ],
           "category": "historical",
           "arrive_at": "15:20",

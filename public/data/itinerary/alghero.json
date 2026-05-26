@@ -13,7 +13,7 @@
       "speed_kmh": 3,
       "start": "09:00",
       "end_estimate": "18:45",
-      "total_km": 3.2,
+      "total_km": 3.9,
       "stop_count": 5,
       "stops": [
         {
@@ -570,7 +570,7 @@
       "speed_kmh": 10,
       "start": "09:00",
       "end_estimate": "17:30",
-      "total_km": 12.5,
+      "total_km": 23.5,
       "stop_count": 5,
       "stops": [
         {
@@ -1096,7 +1096,7 @@
       "start": "09:00",
       "end_estimate": "18:00",
       "total_km": 55.0,
-      "stop_count": 6,
+      "stop_count": 5,
       "stops": [
         {
           "name": "Complesso Nuragico di Palmavera",
@@ -1620,7 +1620,7 @@
       "speed_kmh": 15,
       "start": "09:00",
       "end_estimate": "18:15",
-      "total_km": 8.0,
+      "total_km": 5.4,
       "stop_count": 5,
       "stops": [
         {

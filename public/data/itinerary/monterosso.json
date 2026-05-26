@@ -14,7 +14,7 @@
       "start": "09:00",
       "end_estimate": "18:45",
       "total_km": 3.2,
-      "stop_count": 7,
+      "stop_count": 6,
       "stops": [
         {
           "name": "Fegina-Strand",
@@ -122,24 +122,6 @@
             "hu": "Mássz fel a dombra a spirituális hangulatért és panorámafotókért.",
             "ro": "Urcați dealul pentru o atmosferă spirituală și fotografii panoramice.",
             "en": "Climb the hill for a spiritual atmosphere and panoramic photos."
-          }
-        },
-        {
-          "name": "Fegina-Strand",
-          "coords": [
-            9.655,
-            44.1468
-          ],
-          "category": "parks/promenades/beaches",
-          "arrive_at": "16:25",
-          "stay_min": 140,
-          "hop_from_prev_min": 10,
-          "hop_from_prev_km": 0.2,
-          "tip_5lang": {
-            "de": "Beenden Sie den Tag mit einem Sprung ins kristallklare Wasser.",
-            "hu": "Zárd a napot egy csobbanással a kristálytiszta vízben.",
-            "ro": "Încheiați ziua cu o baie în apa cristalină.",
-            "en": "End the day with a dip in the crystal clear water."
           }
         }
       ],
@@ -829,7 +811,7 @@
       "start": "09:00",
       "end_estimate": "15:30",
       "total_km": 8.5,
-      "stop_count": 5,
+      "stop_count": 4,
       "stops": [
         {
           "name": "Fegina-Strand",
@@ -901,24 +883,6 @@
             "hu": "Lenyűgöző barokk oratórium halálfejes díszítéssel.",
             "ro": "Un oratoriu baroc fascinant cu decorațiuni cu cranii.",
             "en": "A fascinating Baroque oratory with skull decorations."
-          }
-        },
-        {
-          "name": "Fegina-Strand",
-          "coords": [
-            9.655,
-            44.1468
-          ],
-          "category": "parks/promenades/beaches",
-          "arrive_at": "14:15",
-          "stay_min": 105,
-          "hop_from_prev_min": 15,
-          "hop_from_prev_km": 0.5,
-          "tip_5lang": {
-            "de": "Geben Sie das Rad ab und genießen Sie ein kühles Bad.",
-            "hu": "Add le a biciklit és élvezd a hűsítő fürdőt.",
-            "ro": "Predați bicicleta și bucurați-vă de o baie răcoritoare.",
-            "en": "Return the bike and enjoy a refreshing swim."
           }
         }
       ],
@@ -1401,7 +1365,7 @@
       "speed_kmh": 18,
       "start": "09:00",
       "end_estimate": "17:00",
-      "total_km": 15.0,
+      "total_km": 22.0,
       "stop_count": 6,
       "stops": [
         {
@@ -1987,7 +1951,7 @@
       "speed_kmh": 15,
       "start": "09:00",
       "end_estimate": "18:30",
-      "total_km": 10.0,
+      "total_km": 11.7,
       "stop_count": 6,
       "stops": [
         {

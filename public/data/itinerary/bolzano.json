@@ -13,7 +13,7 @@
       "speed_kmh": 3,
       "start": "09:00",
       "end_estimate": "16:20",
-      "total_km": 2.2,
+      "total_km": 1.4,
       "stop_count": 6,
       "stops": [
         {
@@ -24,8 +24,8 @@
             "en": "Walther Square"
           },
           "coords": [
-            46.4983,
-            11.3548
+            11.3548,
+            46.4983
           ],
           "category": "squares/old-town",
           "arrive_at": "09:10",
@@ -47,8 +47,8 @@
             "en": "Bolzano Cathedral"
           },
           "coords": [
-            46.4975,
-            11.3545
+            11.3545,
+            46.4975
           ],
           "category": "churches/cathedrals",
           "arrive_at": "09:42",
@@ -70,8 +70,8 @@
             "en": "Fruit Market"
           },
           "coords": [
-            46.4998,
-            11.3514
+            11.3514,
+            46.4998
           ],
           "category": "squares/old-town",
           "arrive_at": "11:02",
@@ -93,8 +93,8 @@
             "en": "Franciscan Monastery"
           },
           "coords": [
-            46.4999,
-            11.3524
+            11.3524,
+            46.4999
           ],
           "category": "churches/cathedrals",
           "arrive_at": "11:46",
@@ -116,8 +116,8 @@
             "en": "South Tyrol Museum of Archaeology"
           },
           "coords": [
-            46.4999,
-            11.3488
+            11.3488,
+            46.4999
           ],
           "category": "museums",
           "arrive_at": "12:42",
@@ -139,8 +139,8 @@
             "en": "Maretsch Castle"
           },
           "coords": [
-            46.5035,
-            11.3508
+            11.3508,
+            46.5035
           ],
           "category": "castles/fortresses/towers",
           "arrive_at": "14:30",
@@ -771,7 +771,7 @@
       "speed_kmh": 10,
       "start": "09:00",
       "end_estimate": "15:40",
-      "total_km": 6.8,
+      "total_km": 5.0,
       "stop_count": 5,
       "stops": [
         {
@@ -782,8 +782,8 @@
             "en": "Walther Square"
           },
           "coords": [
-            46.4983,
-            11.3548
+            11.3548,
+            46.4983
           ],
           "category": "squares/old-town",
           "arrive_at": "09:10",
@@ -805,8 +805,8 @@
             "en": "Victory Monument"
           },
           "coords": [
-            46.4995,
-            11.3444
+            11.3444,
+            46.4995
           ],
           "category": "monuments/statues",
           "arrive_at": "09:46",
@@ -828,8 +828,8 @@
             "en": "Museion"
           },
           "coords": [
-            46.4975,
-            11.3485
+            11.3485,
+            46.4975
           ],
           "category": "museums",
           "arrive_at": "10:30",
@@ -851,8 +851,8 @@
             "en": "Talvera Promenade"
           },
           "coords": [
-            46.502,
-            11.35
+            11.35,
+            46.502
           ],
           "category": "natural features",
           "arrive_at": "12:16",
@@ -874,8 +874,8 @@
             "en": "Runkelstein Castle"
           },
           "coords": [
-            46.5175,
-            11.3585
+            11.3585,
+            46.5175
           ],
           "category": "castles/fortresses/towers",
           "arrive_at": "13:31",
@@ -1442,7 +1442,7 @@
       "speed_kmh": 18,
       "start": "09:00",
       "end_estimate": "15:20",
-      "total_km": 12.5,
+      "total_km": 6.8,
       "stop_count": 5,
       "stops": [
         {
@@ -1453,8 +1453,8 @@
             "en": "Walther Square"
           },
           "coords": [
-            46.4983,
-            11.3548
+            11.3548,
+            46.4983
           ],
           "category": "squares/old-town",
           "arrive_at": "09:10",
@@ -1476,8 +1476,8 @@
             "en": "Fruit Market"
           },
           "coords": [
-            46.4998,
-            11.3514
+            11.3514,
+            46.4998
           ],
           "category": "squares/old-town",
           "arrive_at": "09:44",
@@ -1499,8 +1499,8 @@
             "en": "Maretsch Castle"
           },
           "coords": [
-            46.5035,
-            11.3508
+            11.3508,
+            46.5035
           ],
           "category": "castles/fortresses/towers",
           "arrive_at": "10:30",
@@ -1522,8 +1522,8 @@
             "en": "Runkelstein Castle"
           },
           "coords": [
-            46.5175,
-            11.3585
+            11.3585,
+            46.5175
           ],
           "category": "castles/fortresses/towers",
           "arrive_at": "12:00",
@@ -1545,8 +1545,8 @@
             "en": "Jenesien Cable Car"
           },
           "coords": [
-            46.5083,
-            11.3533
+            11.3533,
+            46.5083
           ],
           "category": "natural features",
           "arrive_at": "13:30",
@@ -2113,7 +2113,7 @@
       "speed_kmh": 15,
       "start": "09:00",
       "end_estimate": "15:50",
-      "total_km": 5.5,
+      "total_km": 1.7,
       "stop_count": 5,
       "stops": [
         {
@@ -2124,8 +2124,8 @@
             "en": "Walther Square"
           },
           "coords": [
-            46.4983,
-            11.3548
+            11.3548,
+            46.4983
           ],
           "category": "squares/old-town",
           "arrive_at": "09:10",
@@ -2147,8 +2147,8 @@
             "en": "Fruit Market"
           },
           "coords": [
-            46.4998,
-            11.3514
+            11.3514,
+            46.4998
           ],
           "category": "squares/old-town",
           "arrive_at": "09:47",
@@ -2170,8 +2170,8 @@
             "en": "South Tyrol Museum of Archaeology"
           },
           "coords": [
-            46.4999,
-            11.3488
+            11.3488,
+            46.4999
           ],
           "category": "museums",
           "arrive_at": "10:32",
@@ -2193,8 +2193,8 @@
             "en": "Museion"
           },
           "coords": [
-            46.4975,
-            11.3485
+            11.3485,
+            46.4975
           ],
           "category": "museums",
           "arrive_at": "12:16",
@@ -2216,8 +2216,8 @@
             "en": "Victory Monument"
           },
           "coords": [
-            46.4995,
-            11.3444
+            11.3444,
+            46.4995
           ],
           "category": "monuments/statues",
           "arrive_at": "14:02",

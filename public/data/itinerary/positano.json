@@ -73,8 +73,8 @@
         {
           "name": "Spiaggia Grande",
           "coords": [
-            14.486,
-            14.486
+            14.4845,
+            40.6275
           ],
           "category": "parks/promenades/beaches",
           "arrive_at": "12:55",
@@ -673,7 +673,7 @@
       "speed_kmh": 10,
       "start": "09:00",
       "end_estimate": "15:30",
-      "total_km": 4.5,
+      "total_km": 2.2,
       "stop_count": 5,
       "stops": [
         {

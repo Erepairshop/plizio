@@ -73,8 +73,8 @@
         {
           "name": "Duomo di Spoleto",
           "coords": [
-            12.7408,
-            12.7408
+            12.7403,
+            42.7342
           ],
           "category": "churches/cathedrals",
           "arrive_at": "11:25",
@@ -756,7 +756,7 @@
       "speed_kmh": 10,
       "start": "09:00",
       "end_estimate": "15:45",
-      "total_km": 6.5,
+      "total_km": 7.8,
       "stop_count": 6,
       "stops": [
         {
@@ -1912,8 +1912,8 @@
       "speed_kmh": 15,
       "start": "09:00",
       "end_estimate": "16:45",
-      "total_km": 4.5,
-      "stop_count": 6,
+      "total_km": 1.5,
+      "stop_count": 5,
       "stops": [
         {
           "name": "Piazza del Mercato",
@@ -1985,24 +1985,6 @@
             "hu": "Siklóval elérhető.",
             "ro": "Accesibil cu ascensorul înclinat.",
             "en": "Accessible by inclined elevator."
-          }
-        },
-        {
-          "name": "Piazza del Mercato",
-          "coords": [
-            12.7384,
-            42.7344
-          ],
-          "category": "squares/old-town",
-          "arrive_at": "14:15",
-          "stay_min": 80,
-          "hop_from_prev_min": 40,
-          "hop_from_prev_km": 0.5,
-          "tip_5lang": {
-            "de": "Ideal für Mittagessen.",
-            "hu": "Ideális ebédidő.",
-            "ro": "Ideal pentru prânz.",
-            "en": "Ideal for lunch."
           }
         },
         {

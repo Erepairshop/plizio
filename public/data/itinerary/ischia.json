@@ -1762,8 +1762,8 @@
       "speed_kmh": 15,
       "start": "09:00",
       "end_estimate": "18:00",
-      "total_km": 15.0,
-      "stop_count": 5,
+      "total_km": 20.0,
+      "stop_count": 4,
       "stops": [
         {
           "name": {
@@ -1855,29 +1855,6 @@
             "hu": "Az 1-es járat végállomása.",
             "ro": "Capăt de linie pentru linia 1.",
             "en": "Last stop of line 1."
-          }
-        },
-        {
-          "name": {
-            "de": "Ischia Porto",
-            "hu": "Ischia Porto",
-            "ro": "Ischia Porto",
-            "en": "Ischia Porto"
-          },
-          "coords": [
-            13.945,
-            40.745
-          ],
-          "category": "squares/old-town",
-          "arrive_at": "17:30",
-          "stay_min": 30,
-          "hop_from_prev_min": 45,
-          "hop_from_prev_km": 12.0,
-          "tip_5lang": {
-            "de": "Bummeln vor der Fähre.",
-            "hu": "Séta a komp előtt.",
-            "ro": "Plimbare înainte de feribot.",
-            "en": "Stroll before the ferry."
           }
         }
       ],
