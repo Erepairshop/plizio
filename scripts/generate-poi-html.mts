@@ -18,6 +18,7 @@
 
 import fs from "node:fs";
 import path from "node:path";
+import zlib from "node:zlib";
 import * as _slugsNs from "../lib/seo/slugs";
 import type { POI } from "../lib/visualLab/data/poi";
 // timing-config loaded dynamically below to avoid Node 24 ESM static-resolver issue
@@ -1301,9 +1302,13 @@ function renderHtml(poi: POI, lang: Lang): string | null {
 
   let newsHtml = "";
   try {
-    const newsFp = path.resolve(process.cwd(), "public", "data", "poi-news", `${poi.id}.json`);
-    if (fs.existsSync(newsFp)) {
-      const items = JSON.parse(fs.readFileSync(newsFp, "utf-8")) as Array<{ title: string; snippet: string; url: string; source: string; date: string; lang?: string }>;
+    const newsBase = path.resolve(process.cwd(), "public", "data", "poi-news", `${poi.id}.json`);
+    const newsGz = newsBase + ".gz";
+    let raw: string | null = null;
+    if (fs.existsSync(newsBase)) raw = fs.readFileSync(newsBase, "utf-8");
+    else if (fs.existsSync(newsGz)) raw = zlib.gunzipSync(fs.readFileSync(newsGz)).toString("utf-8");
+    if (raw) {
+      const items = JSON.parse(raw) as Array<{ title: string; snippet: string; url: string; source: string; date: string; lang?: string }>;
       if (items.length > 0) {
         const top = items.slice(0, 6);
         const cards = top.map((it) => {
@@ -1390,7 +1395,7 @@ ${hreflangLinks}
 <meta property="og:type" content="website"/>
 ${poi.image ? `<meta property="og:image" content="${SITE_URL}${escapeHtml(poi.image)}"/>` : ""}
 ${isAdSenseEligible(poi, lang) && !richness.isWeak ? ADSENSE_HEAD : ""}
-<link rel="stylesheet" href="/poi-static/poi.css?v=20260526f"/>
+<link rel="stylesheet" href="/poi-static/poi.css?v=20260526g"/>
 ${structuredData(poi, lang, url, metaDesc, countryId, countrySlugFor(lang, countryId).replace(/-/g, " "), faqItems, [
   { name: I("home", lang), url: `/${lang}/` },
   { name: countrySlugFor(lang, countryId).replace(/-/g, " "), url: buildCountryPath(lang, countryId) },
@@ -1694,7 +1699,7 @@ ${hreflangLinks}
 <meta property="og:url" content="${sightUrl}"/>
 <meta property="og:type" content="article"/>
 ${isAdSenseEligible(host, lang) ? ADSENSE_HEAD : ""}
-<link rel="stylesheet" href="/poi-static/poi.css?v=20260526f"/>
+<link rel="stylesheet" href="/poi-static/poi.css?v=20260526g"/>
 <style>
 .plz-sp-back{display:inline-flex;align-items:center;gap:.4rem;color:#4cc;text-decoration:none;font-size:.85rem;margin-bottom:.5rem}
 .plz-sp-back:hover{color:#7df}
