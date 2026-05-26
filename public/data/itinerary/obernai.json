@@ -13,7 +13,7 @@
       "speed_kmh": 3.5,
       "start": "09:00",
       "end_estimate": "17:15",
-      "total_km": 3.2,
+      "total_km": 2.2,
       "stop_count": 6,
       "stops": [
         {
@@ -245,7 +245,7 @@
       "speed_kmh": 12,
       "start": "09:00",
       "end_estimate": "16:30",
-      "total_km": 12.5,
+      "total_km": 17.5,
       "stop_count": 5,
       "stops": [
         {
@@ -673,8 +673,8 @@
       "speed_kmh": 15,
       "start": "09:00",
       "end_estimate": "16:45",
-      "total_km": 15.0,
-      "stop_count": 5,
+      "total_km": 30.1,
+      "stop_count": 4,
       "stops": [
         {
           "name": "Gare d'Obernai",
@@ -746,24 +746,6 @@
             "hu": "Séta a vonat indulása előtt.",
             "ro": "O plimbare înainte de plecare.",
             "en": "A walk before departure."
-          }
-        },
-        {
-          "name": "Gare d'Obernai",
-          "coords": [
-            7.487,
-            48.461
-          ],
-          "category": "historical",
-          "arrive_at": "16:15",
-          "stay_min": 30,
-          "hop_from_prev_min": 10,
-          "hop_from_prev_km": 0.5,
-          "tip_5lang": {
-            "de": "Rückfahrt mit dem TER-Zug.",
-            "hu": "Visszautazás a TER vonattal.",
-            "ro": "Întoarcerea cu trenul TER.",
-            "en": "Return journey by TER train."
           }
         }
       ],

@@ -13,14 +13,14 @@
       "speed_kmh": 3,
       "start": "09:00",
       "end_estimate": "15:45",
-      "total_km": 1.5,
+      "total_km": 1.2,
       "stop_count": 5,
       "stops": [
         {
           "name": "Place de la Liberté",
           "coords": [
-            43.824,
-            5.3075
+            5.3075,
+            43.824
           ],
           "category": "squares/old-town",
           "arrive_at": "09:10",
@@ -37,8 +37,8 @@
         {
           "name": "Musée de la Boulangerie",
           "coords": [
-            43.8235,
-            5.3078
+            5.3078,
+            43.8235
           ],
           "category": "museums",
           "arrive_at": "09:45",
@@ -55,8 +55,8 @@
         {
           "name": "Église Neuve",
           "coords": [
-            43.823,
-            5.308
+            5.308,
+            43.823
           ],
           "category": "churches/cathedrals",
           "arrive_at": "11:35",
@@ -73,8 +73,8 @@
         {
           "name": "Église Vieille",
           "coords": [
-            43.825,
-            5.309
+            5.309,
+            43.825
           ],
           "category": "churches/cathedrals",
           "arrive_at": "12:45",
@@ -91,8 +91,8 @@
         {
           "name": "Tour Philippe",
           "coords": [
-            43.826,
-            5.31
+            5.31,
+            43.826
           ],
           "category": "castles/fortresses/towers",
           "arrive_at": "13:55",
@@ -255,14 +255,14 @@
       "speed_kmh": 10,
       "start": "09:00",
       "end_estimate": "15:00",
-      "total_km": 12.0,
+      "total_km": 18.5,
       "stop_count": 5,
       "stops": [
         {
           "name": "Place de la Liberté",
           "coords": [
-            43.824,
-            5.3075
+            5.3075,
+            43.824
           ],
           "category": "squares/old-town",
           "arrive_at": "09:10",
@@ -279,8 +279,8 @@
         {
           "name": "Pont Julien",
           "coords": [
-            43.861,
-            5.308
+            5.308,
+            43.861
           ],
           "category": "bridges/lighthouses",
           "arrive_at": "10:15",
@@ -297,8 +297,8 @@
         {
           "name": "Forêt des Cèdres",
           "coords": [
-            43.8,
-            5.3
+            5.3,
+            43.8
           ],
           "category": "parks/promenades/beaches",
           "arrive_at": "12:15",
@@ -315,8 +315,8 @@
         {
           "name": "Enclos des Bories",
           "coords": [
-            43.83,
-            5.32
+            5.32,
+            43.83
           ],
           "category": "natural features",
           "arrive_at": "14:45",
@@ -333,8 +333,8 @@
         {
           "name": "Église Vieille",
           "coords": [
-            43.825,
-            5.309
+            5.309,
+            43.825
           ],
           "category": "churches/cathedrals",
           "arrive_at": "15:55",
@@ -462,13 +462,13 @@
       "start": "09:00",
       "end_estimate": "17:00",
       "total_km": 25.0,
-      "stop_count": 6,
+      "stop_count": 5,
       "stops": [
         {
           "name": "Pont Julien",
           "coords": [
-            43.861,
-            5.308
+            5.308,
+            43.861
           ],
           "category": "bridges/lighthouses",
           "arrive_at": "09:15",
@@ -485,8 +485,8 @@
         {
           "name": "Enclos des Bories",
           "coords": [
-            43.83,
-            5.32
+            5.32,
+            43.83
           ],
           "category": "natural features",
           "arrive_at": "10:15",
@@ -503,8 +503,8 @@
         {
           "name": "Musée de la Boulangerie",
           "coords": [
-            43.8235,
-            5.3078
+            5.3078,
+            43.8235
           ],
           "category": "museums",
           "arrive_at": "11:35",
@@ -521,8 +521,8 @@
         {
           "name": "Forêt des Cèdres",
           "coords": [
-            43.8,
-            5.3
+            5.3,
+            43.8
           ],
           "category": "parks/promenades/beaches",
           "arrive_at": "13:30",
@@ -539,8 +539,8 @@
         {
           "name": "Tour Philippe",
           "coords": [
-            43.826,
-            5.31
+            5.31,
+            43.826
           ],
           "category": "castles/fortresses/towers",
           "arrive_at": "15:45",
@@ -667,14 +667,14 @@
       "speed_kmh": 15,
       "start": "09:00",
       "end_estimate": "15:30",
-      "total_km": 3.0,
+      "total_km": 1.4,
       "stop_count": 4,
       "stops": [
         {
           "name": "Place de la Liberté",
           "coords": [
-            43.824,
-            5.3075
+            5.3075,
+            43.824
           ],
           "category": "squares/old-town",
           "arrive_at": "09:10",
@@ -691,8 +691,8 @@
         {
           "name": "Musée de la Boulangerie",
           "coords": [
-            43.8235,
-            5.3078
+            5.3078,
+            43.8235
           ],
           "category": "museums",
           "arrive_at": "10:00",
@@ -709,8 +709,8 @@
         {
           "name": "Église Neuve",
           "coords": [
-            43.823,
-            5.308
+            5.308,
+            43.823
           ],
           "category": "churches/cathedrals",
           "arrive_at": "11:50",
@@ -727,8 +727,8 @@
         {
           "name": "Église Vieille",
           "coords": [
-            43.825,
-            5.309
+            5.309,
+            43.825
           ],
           "category": "churches/cathedrals",
           "arrive_at": "12:55",

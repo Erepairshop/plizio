@@ -13,7 +13,7 @@
       "speed_kmh": 3,
       "start": "09:00",
       "end_estimate": "17:45",
-      "total_km": 3.2,
+      "total_km": 1.9,
       "stop_count": 7,
       "stops": [
         {
@@ -24,8 +24,8 @@
             "en": "Place du Sombral"
           },
           "coords": [
-            44.4621,
-            1.678
+            1.678,
+            44.4621
           ],
           "category": "square",
           "arrive_at": "09:10",
@@ -47,8 +47,8 @@
             "en": "Saint-Cirq-et-Sainte-Juliette Church"
           },
           "coords": [
-            44.4624,
-            1.6785
+            1.6785,
+            44.4624
           ],
           "category": "religious",
           "arrive_at": "09:55",
@@ -70,8 +70,8 @@
             "en": "Le Fort - Castle Ruins"
           },
           "coords": [
-            44.4629,
-            1.6795
+            1.6795,
+            44.4629
           ],
           "category": "historical",
           "arrive_at": "10:55",
@@ -93,8 +93,8 @@
             "en": "Musée Rignault"
           },
           "coords": [
-            44.4626,
-            1.6802
+            1.6802,
+            44.4626
           ],
           "category": "museum",
           "arrive_at": "12:25",
@@ -116,8 +116,8 @@
             "en": "Lunch in the village"
           },
           "coords": [
-            44.4622,
-            1.6782
+            1.6782,
+            44.4622
           ],
           "category": "gastro",
           "arrive_at": "14:00",
@@ -139,8 +139,8 @@
             "en": "Chemin de Halage (Towpath)"
           },
           "coords": [
-            44.468,
-            1.675
+            1.675,
+            44.468
           ],
           "category": "park",
           "arrive_at": "15:40",
@@ -162,8 +162,8 @@
             "en": "River Port of Saint-Cirq"
           },
           "coords": [
-            44.4685,
-            1.676
+            1.676,
+            44.4685
           ],
           "category": "park",
           "arrive_at": "17:25",
@@ -826,7 +826,7 @@
       "speed_kmh": 10,
       "start": "09:00",
       "end_estimate": "16:30",
-      "total_km": 12.5,
+      "total_km": 20.3,
       "stop_count": 6,
       "stops": [
         {
@@ -837,8 +837,8 @@
             "en": "Tourist Office"
           },
           "coords": [
-            44.462,
-            1.6775
+            1.6775,
+            44.462
           ],
           "category": "square",
           "arrive_at": "09:10",
@@ -860,8 +860,8 @@
             "en": "Saint-Cirq Village Tour"
           },
           "coords": [
-            44.4625,
-            1.6785
+            1.6785,
+            44.4625
           ],
           "category": "historical",
           "arrive_at": "09:50",
@@ -883,8 +883,8 @@
             "en": "Lot River Road"
           },
           "coords": [
-            44.471,
-            1.67
+            1.67,
+            44.471
           ],
           "category": "park",
           "arrive_at": "11:40",
@@ -906,8 +906,8 @@
             "en": "Bouziès - Bridge"
           },
           "coords": [
-            44.482,
-            1.648
+            1.648,
+            44.482
           ],
           "category": "historical",
           "arrive_at": "12:50",
@@ -929,8 +929,8 @@
             "en": "Cénevières Castle (View)"
           },
           "coords": [
-            44.4625,
-            1.751
+            1.751,
+            44.4625
           ],
           "category": "historical",
           "arrive_at": "14:40",
@@ -952,8 +952,8 @@
             "en": "Return to Saint-Cirq"
           },
           "coords": [
-            44.4625,
-            1.6789
+            1.6789,
+            44.4625
           ],
           "category": "square",
           "arrive_at": "16:00",
@@ -1491,8 +1491,8 @@
             "en": "P4 Parking Saint-Cirq"
           },
           "coords": [
-            44.463,
-            1.6765
+            1.6765,
+            44.463
           ],
           "category": "square",
           "arrive_at": "09:10",
@@ -1514,8 +1514,8 @@
             "en": "Saint-Cirq-Lapopie Village"
           },
           "coords": [
-            44.4625,
-            1.6789
+            1.6789,
+            44.4625
           ],
           "category": "historical",
           "arrive_at": "09:40",
@@ -1537,8 +1537,8 @@
             "en": "Pech Merle Cave"
           },
           "coords": [
-            44.5075,
-            1.6445
+            1.6445,
+            44.5075
           ],
           "category": "historical",
           "arrive_at": "12:30",
@@ -1560,8 +1560,8 @@
             "en": "Bouziès - Panoramic View"
           },
           "coords": [
-            44.485,
-            1.645
+            1.645,
+            44.485
           ],
           "category": "park",
           "arrive_at": "14:30",
@@ -1583,8 +1583,8 @@
             "en": "Cénevières Castle"
           },
           "coords": [
-            44.4628,
-            1.7512
+            1.7512,
+            44.4628
           ],
           "category": "historical",
           "arrive_at": "15:40",
@@ -1606,8 +1606,8 @@
             "en": "Saint-Cirq (farewell)"
           },
           "coords": [
-            44.4625,
-            1.6789
+            1.6789,
+            44.4625
           ],
           "category": "square",
           "arrive_at": "17:10",
@@ -2134,7 +2134,7 @@
       "speed_kmh": 15,
       "start": "09:00",
       "end_estimate": "17:30",
-      "total_km": 1.5,
+      "total_km": 3.7,
       "stop_count": 5,
       "stops": [
         {
@@ -2145,8 +2145,8 @@
             "en": "Tour-de-Faure Bus Stop"
           },
           "coords": [
-            44.468,
-            1.691
+            1.691,
+            44.468
           ],
           "category": "square",
           "arrive_at": "09:15",
@@ -2168,8 +2168,8 @@
             "en": "Walk up to the Village"
           },
           "coords": [
-            44.4625,
-            1.6789
+            1.6789,
+            44.4625
           ],
           "category": "park",
           "arrive_at": "10:15",
@@ -2191,8 +2191,8 @@
             "en": "Historic Center"
           },
           "coords": [
-            44.4622,
-            1.6782
+            1.6782,
+            44.4622
           ],
           "category": "historical",
           "arrive_at": "11:45",
@@ -2214,8 +2214,8 @@
             "en": "Panoramic Terrace (Lunch)"
           },
           "coords": [
-            44.4625,
-            1.6785
+            1.6785,
+            44.4625
           ],
           "category": "gastro",
           "arrive_at": "14:15",
@@ -2237,8 +2237,8 @@
             "en": "Return to the Stop"
           },
           "coords": [
-            44.468,
-            1.691
+            1.691,
+            44.468
           ],
           "category": "square",
           "arrive_at": "16:15",

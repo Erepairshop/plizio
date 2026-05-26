@@ -13,7 +13,7 @@
       "speed_kmh": 4,
       "start": "09:00",
       "end_estimate": "17:55",
-      "total_km": 3.2,
+      "total_km": 2.2,
       "stop_count": 7,
       "stops": [
         {
@@ -24,8 +24,8 @@
             "en": "Place du Vigan"
           },
           "coords": [
-            43.9272,
-            2.1478
+            2.1478,
+            43.9272
           ],
           "category": "square",
           "arrive_at": "09:10",
@@ -47,8 +47,8 @@
             "en": "Covered Market"
           },
           "coords": [
-            43.9288,
-            2.1465
+            2.1465,
+            43.9288
           ],
           "category": "gastro",
           "arrive_at": "09:45",
@@ -70,8 +70,8 @@
             "en": "Saint-Salvi Collegiate Church"
           },
           "coords": [
-            43.9281,
-            2.1455
+            2.1455,
+            43.9281
           ],
           "category": "religious",
           "arrive_at": "10:45",
@@ -93,8 +93,8 @@
             "en": "Sainte-Cécile Cathedral"
           },
           "coords": [
-            43.9284,
-            2.1425
+            2.1425,
+            43.9284
           ],
           "category": "cathedral",
           "arrive_at": "11:35",
@@ -116,8 +116,8 @@
             "en": "Toulouse-Lautrec Museum"
           },
           "coords": [
-            43.9288,
-            2.1436
+            2.1436,
+            43.9288
           ],
           "category": "museum",
           "arrive_at": "13:05",
@@ -139,8 +139,8 @@
             "en": "Gardens of the Berbie Palace"
           },
           "coords": [
-            43.9295,
-            2.1435
+            2.1435,
+            43.9295
           ],
           "category": "park",
           "arrive_at": "14:50",
@@ -162,8 +162,8 @@
             "en": "Pont Vieux"
           },
           "coords": [
-            43.9304,
-            2.1432
+            2.1432,
+            43.9304
           ],
           "category": "historical",
           "arrive_at": "16:05",
@@ -837,8 +837,8 @@
             "en": "Albi Center"
           },
           "coords": [
-            43.9284,
-            2.1425
+            2.1425,
+            43.9284
           ],
           "category": "cathedral",
           "arrive_at": "09:10",
@@ -860,8 +860,8 @@
             "en": "Madeleine District"
           },
           "coords": [
-            43.9315,
-            2.1415
+            2.1415,
+            43.9315
           ],
           "category": "historical",
           "arrive_at": "10:35",
@@ -883,8 +883,8 @@
             "en": "Pratgraussals Park"
           },
           "coords": [
-            43.9385,
-            2.1355
+            2.1355,
+            43.9385
           ],
           "category": "park",
           "arrive_at": "11:35",
@@ -906,8 +906,8 @@
             "en": "Échappée Verte"
           },
           "coords": [
-            43.9315,
-            2.1525
+            2.1525,
+            43.9315
           ],
           "category": "park",
           "arrive_at": "13:30",
@@ -929,8 +929,8 @@
             "en": "Rochegude Park"
           },
           "coords": [
-            43.9245,
-            2.1495
+            2.1495,
+            43.9245
           ],
           "category": "park",
           "arrive_at": "14:45",
@@ -952,8 +952,8 @@
             "en": "Place du Vigan"
           },
           "coords": [
-            43.9272,
-            2.1478
+            2.1478,
+            43.9272
           ],
           "category": "square",
           "arrive_at": "15:40",
@@ -1483,8 +1483,8 @@
             "en": "Albi Cathedral"
           },
           "coords": [
-            43.9284,
-            2.1425
+            2.1425,
+            43.9284
           ],
           "category": "cathedral",
           "arrive_at": "09:10",
@@ -1506,8 +1506,8 @@
             "en": "Toulouse-Lautrec Museum"
           },
           "coords": [
-            43.9288,
-            2.1436
+            2.1436,
+            43.9288
           ],
           "category": "museum",
           "arrive_at": "10:35",
@@ -1529,8 +1529,8 @@
             "en": "Cordes-sur-Ciel"
           },
           "coords": [
-            44.0635,
-            1.9515
+            1.9515,
+            44.0635
           ],
           "category": "historical",
           "arrive_at": "13:00",
@@ -1552,8 +1552,8 @@
             "en": "Cordes Panorama"
           },
           "coords": [
-            44.0685,
-            1.9615
+            1.9615,
+            44.0685
           ],
           "category": "park",
           "arrive_at": "15:10",
@@ -1575,8 +1575,8 @@
             "en": "Pont Vieux Albi"
           },
           "coords": [
-            43.9304,
-            2.1432
+            2.1432,
+            43.9304
           ],
           "category": "historical",
           "arrive_at": "16:45",
@@ -2063,7 +2063,7 @@
       "speed_kmh": 15,
       "start": "09:00",
       "end_estimate": "16:45",
-      "total_km": 8.0,
+      "total_km": 6.0,
       "stop_count": 5,
       "stops": [
         {
@@ -2074,8 +2074,8 @@
             "en": "Albi Center"
           },
           "coords": [
-            43.9284,
-            2.1425
+            2.1425,
+            43.9284
           ],
           "category": "cathedral",
           "arrive_at": "09:10",
@@ -2097,8 +2097,8 @@
             "en": "Toulouse-Lautrec Museum"
           },
           "coords": [
-            43.9288,
-            2.1436
+            2.1436,
+            43.9288
           ],
           "category": "museum",
           "arrive_at": "10:35",
@@ -2120,8 +2120,8 @@
             "en": "Rochegude Park"
           },
           "coords": [
-            43.9245,
-            2.1495
+            2.1495,
+            43.9245
           ],
           "category": "park",
           "arrive_at": "12:35",
@@ -2143,8 +2143,8 @@
             "en": "Albi Fashion Museum"
           },
           "coords": [
-            43.9275,
-            2.1415
+            2.1415,
+            43.9275
           ],
           "category": "museum",
           "arrive_at": "14:05",
@@ -2166,8 +2166,8 @@
             "en": "Old Bridge"
           },
           "coords": [
-            43.9304,
-            2.1432
+            2.1432,
+            43.9304
           ],
           "category": "historical",
           "arrive_at": "15:55",

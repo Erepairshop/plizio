@@ -13,7 +13,7 @@
       "speed_kmh": 3,
       "start": "09:00",
       "end_estimate": "16:45",
-      "total_km": 4.2,
+      "total_km": 3.5,
       "stop_count": 6,
       "stops": [
         {
@@ -24,8 +24,8 @@
             "en": "Saint-Louis Square"
           },
           "coords": [
-            47.6152,
-            1.5135
+            1.5135,
+            47.6152
           ],
           "category": "square",
           "arrive_at": "09:10",
@@ -47,8 +47,8 @@
             "en": "Château de Chambord - Main Hall"
           },
           "coords": [
-            47.6164,
-            1.5172
+            1.5172,
+            47.6164
           ],
           "category": "historical",
           "arrive_at": "09:50",
@@ -70,8 +70,8 @@
             "en": "Roof Terraces"
           },
           "coords": [
-            47.6165,
-            1.5173
+            1.5173,
+            47.6165
           ],
           "category": "historical",
           "arrive_at": "11:35",
@@ -93,8 +93,8 @@
             "en": "Le Grand Saint-Michel (Lunch)"
           },
           "coords": [
-            47.6155,
-            1.5145
+            1.5145,
+            47.6155
           ],
           "category": "gastro",
           "arrive_at": "12:35",
@@ -116,8 +116,8 @@
             "en": "French Gardens"
           },
           "coords": [
-            47.6175,
-            1.5195
+            1.5195,
+            47.6175
           ],
           "category": "park",
           "arrive_at": "14:15",
@@ -139,8 +139,8 @@
             "en": "Canal Promenade"
           },
           "coords": [
-            47.6145,
-            1.522
+            1.522,
+            47.6145
           ],
           "category": "quiet",
           "arrive_at": "15:45",
@@ -782,8 +782,8 @@
             "en": "Bike Rental by the Canal"
           },
           "coords": [
-            47.615,
-            1.514
+            1.514,
+            47.615
           ],
           "category": "port",
           "arrive_at": "09:10",
@@ -805,8 +805,8 @@
             "en": "Forest Path towards Muides"
           },
           "coords": [
-            47.642,
-            1.528
+            1.528,
+            47.642
           ],
           "category": "park",
           "arrive_at": "09:55",
@@ -828,8 +828,8 @@
             "en": "Gabillière Observation Tower"
           },
           "coords": [
-            47.625,
-            1.545
+            1.545,
+            47.625
           ],
           "category": "quiet",
           "arrive_at": "11:00",
@@ -851,8 +851,8 @@
             "en": "Château de Chambord (Interior Visit)"
           },
           "coords": [
-            47.6164,
-            1.5172
+            1.5172,
+            47.6164
           ],
           "category": "historical",
           "arrive_at": "12:00",
@@ -874,8 +874,8 @@
             "en": "Stables of the Marshal of Saxony"
           },
           "coords": [
-            47.6155,
-            1.515
+            1.515,
+            47.6155
           ],
           "category": "historical",
           "arrive_at": "14:15",
@@ -897,8 +897,8 @@
             "en": "Picnic by the Canal"
           },
           "coords": [
-            47.613,
-            1.52
+            1.52,
+            47.613
           ],
           "category": "gastro",
           "arrive_at": "15:25",
@@ -1540,8 +1540,8 @@
             "en": "Main Entrance & P0 Parking"
           },
           "coords": [
-            47.614,
-            1.512
+            1.512,
+            47.614
           ],
           "category": "port",
           "arrive_at": "09:10",
@@ -1563,8 +1563,8 @@
             "en": "Château de Chambord - Full Visit"
           },
           "coords": [
-            47.6164,
-            1.5172
+            1.5172,
+            47.6164
           ],
           "category": "historical",
           "arrive_at": "09:40",
@@ -1586,8 +1586,8 @@
             "en": "Lunch in Chambord Village"
           },
           "coords": [
-            47.6155,
-            1.514
+            1.514,
+            47.6155
           ],
           "category": "gastro",
           "arrive_at": "12:50",
@@ -1609,8 +1609,8 @@
             "en": "Trip to Masures (Wildlife Spotting)"
           },
           "coords": [
-            47.608,
-            1.555
+            1.555,
+            47.608
           ],
           "category": "park",
           "arrive_at": "14:40",
@@ -1632,8 +1632,8 @@
             "en": "Panoramablick Point de Vue"
           },
           "coords": [
-            47.619,
-            1.505
+            1.505,
+            47.619
           ],
           "category": "quiet",
           "arrive_at": "15:55",
@@ -2232,7 +2232,7 @@
       "speed_kmh": 15,
       "start": "09:00",
       "end_estimate": "17:10",
-      "total_km": 6.0,
+      "total_km": 18.0,
       "stop_count": 6,
       "stops": [
         {
@@ -2243,8 +2243,8 @@
             "en": "Chambord Bus Stop (Navette)"
           },
           "coords": [
-            47.6135,
-            1.5115
+            1.5115,
+            47.6135
           ],
           "category": "port",
           "arrive_at": "09:25",
@@ -2266,8 +2266,8 @@
             "en": "Château de Chambord (Audioguide Tour)"
           },
           "coords": [
-            47.6164,
-            1.5172
+            1.5172,
+            47.6164
           ],
           "category": "historical",
           "arrive_at": "09:55",
@@ -2289,8 +2289,8 @@
             "en": "Lunch Break in the Castle Courtyard"
           },
           "coords": [
-            47.616,
-            1.5165
+            1.5165,
+            47.616
           ],
           "category": "gastro",
           "arrive_at": "12:05",
@@ -2312,8 +2312,8 @@
             "en": "Garden Promenade"
           },
           "coords": [
-            47.618,
-            1.521
+            1.521,
+            47.618
           ],
           "category": "park",
           "arrive_at": "13:20",
@@ -2335,8 +2335,8 @@
             "en": "Boat Trip on the Cosson"
           },
           "coords": [
-            47.6145,
-            1.5155
+            1.5155,
+            47.6145
           ],
           "category": "quiet",
           "arrive_at": "14:40",
@@ -2358,8 +2358,8 @@
             "en": "Souvenir Shopping"
           },
           "coords": [
-            47.615,
-            1.513
+            1.513,
+            47.615
           ],
           "category": "shopping",
           "arrive_at": "15:55",

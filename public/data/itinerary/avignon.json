@@ -13,7 +13,7 @@
       "speed_kmh": 3,
       "start": "09:00",
       "end_estimate": "17:30",
-      "total_km": 3.8,
+      "total_km": 2.4,
       "stop_count": 6,
       "stops": [
         {
@@ -763,8 +763,8 @@
       "speed_kmh": 10,
       "start": "09:00",
       "end_estimate": "15:30",
-      "total_km": 12.5,
-      "stop_count": 5,
+      "total_km": 10.5,
+      "stop_count": 4,
       "stops": [
         {
           "name": {
@@ -1292,7 +1292,7 @@
       "start": "09:00",
       "end_estimate": "17:00",
       "total_km": 65.0,
-      "stop_count": 5,
+      "stop_count": 4,
       "stops": [
         {
           "name": {
@@ -1819,7 +1819,7 @@
       "speed_kmh": 15,
       "start": "09:00",
       "end_estimate": "16:30",
-      "total_km": 8.0,
+      "total_km": 3.3,
       "stop_count": 5,
       "stops": [
         {

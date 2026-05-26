@@ -13,14 +13,14 @@
       "speed_kmh": 4,
       "start": "09:00",
       "end_estimate": "18:45",
-      "total_km": 2.8,
+      "total_km": 2.3,
       "stop_count": 7,
       "stops": [
         {
           "name": "Source Cachat",
           "coords": [
-            46.4012,
-            6.5905
+            6.5905,
+            46.4012
           ],
           "category": "historical",
           "arrive_at": "09:10",
@@ -37,8 +37,8 @@
         {
           "name": "Palais Lumière",
           "coords": [
-            46.4018,
-            6.5912
+            6.5912,
+            46.4018
           ],
           "category": "museum",
           "arrive_at": "09:50",
@@ -55,8 +55,8 @@
         {
           "name": "Restaurant Au Jardin d'Eden",
           "coords": [
-            46.4015,
-            6.5925
+            6.5925,
+            46.4015
           ],
           "category": "gastro",
           "arrive_at": "11:45",
@@ -73,8 +73,8 @@
         {
           "name": "Promenade du Lac",
           "coords": [
-            46.4025,
-            6.5935
+            6.5935,
+            46.4025
           ],
           "category": "park",
           "arrive_at": "13:15",
@@ -91,8 +91,8 @@
         {
           "name": "Funiculaire d'Évian",
           "coords": [
-            46.4002,
-            6.5895
+            6.5895,
+            46.4002
           ],
           "category": "historical",
           "arrive_at": "15:25",
@@ -109,8 +109,8 @@
         {
           "name": "Villa Lumière (Hôtel de Ville)",
           "coords": [
-            46.401,
-            6.592
+            6.592,
+            46.401
           ],
           "category": "historical",
           "arrive_at": "16:20",
@@ -127,8 +127,8 @@
         {
           "name": "Port d'Évian Sunset",
           "coords": [
-            46.4022,
-            6.5945
+            6.5945,
+            46.4022
           ],
           "category": "sunset",
           "arrive_at": "17:55",
@@ -757,13 +757,13 @@
       "start": "09:00",
       "end_estimate": "17:30",
       "total_km": 8.5,
-      "stop_count": 6,
+      "stop_count": 5,
       "stops": [
         {
           "name": "Promenade du Lac",
           "coords": [
-            46.4025,
-            6.5935
+            6.5935,
+            46.4025
           ],
           "category": "park",
           "arrive_at": "09:10",
@@ -780,8 +780,8 @@
         {
           "name": "Plage d'Évian",
           "coords": [
-            46.3995,
-            6.575
+            6.575,
+            46.3995
           ],
           "category": "beach",
           "arrive_at": "10:25",
@@ -798,8 +798,8 @@
         {
           "name": "Port de Plaisance",
           "coords": [
-            46.402,
-            6.5955
+            6.5955,
+            46.402
           ],
           "category": "landmark",
           "arrive_at": "13:40",
@@ -816,8 +816,8 @@
         {
           "name": "E.Leclerc Gastro Stop",
           "coords": [
-            46.398,
-            6.565
+            6.565,
+            46.398
           ],
           "category": "gastro",
           "arrive_at": "14:50",
@@ -834,8 +834,8 @@
         {
           "name": "Grange au Lac",
           "coords": [
-            46.395,
-            6.588
+            6.588,
+            46.395
           ],
           "category": "historical",
           "arrive_at": "16:10",
@@ -1303,8 +1303,8 @@
         {
           "name": "Évian Zentrum (Parking)",
           "coords": [
-            46.4015,
-            6.591
+            6.591,
+            46.4015
           ],
           "category": "square",
           "arrive_at": "09:10",
@@ -1321,8 +1321,8 @@
         {
           "name": "Dent d'Oche (Base)",
           "coords": [
-            46.353,
-            6.663
+            6.663,
+            46.353
           ],
           "category": "landmark",
           "arrive_at": "10:40",
@@ -1339,8 +1339,8 @@
         {
           "name": "Bernex (Village)",
           "coords": [
-            46.361,
-            6.675
+            6.675,
+            46.361
           ],
           "category": "gastro",
           "arrive_at": "13:25",
@@ -1357,8 +1357,8 @@
         {
           "name": "Thonon-les-Bains",
           "coords": [
-            46.373,
-            6.48
+            6.48,
+            46.373
           ],
           "category": "historical",
           "arrive_at": "15:20",
@@ -1375,8 +1375,8 @@
         {
           "name": "Sunset Point (Quai de Blonay)",
           "coords": [
-            46.4022,
-            6.5945
+            6.5945,
+            46.4022
           ],
           "category": "sunset",
           "arrive_at": "17:10",
@@ -1844,8 +1844,8 @@
         {
           "name": "Funiculaire d'Évian",
           "coords": [
-            46.4002,
-            6.5895
+            6.5895,
+            46.4002
           ],
           "category": "historical",
           "arrive_at": "09:10",
@@ -1862,8 +1862,8 @@
         {
           "name": "Port d'Évian (Boat)",
           "coords": [
-            46.4022,
-            6.5945
+            6.5945,
+            46.4022
           ],
           "category": "landmark",
           "arrive_at": "10:35",
@@ -1880,8 +1880,8 @@
         {
           "name": "Jardins de l'Eau du Pré Curieux",
           "coords": [
-            46.406,
-            6.578
+            6.578,
+            46.406
           ],
           "category": "park",
           "arrive_at": "11:35",
@@ -1898,8 +1898,8 @@
         {
           "name": "Casino d'Évian",
           "coords": [
-            46.4018,
-            6.5925
+            6.5925,
+            46.4018
           ],
           "category": "historical",
           "arrive_at": "14:15",
@@ -1916,8 +1916,8 @@
         {
           "name": "Gastro Stop (Quai de Blonay)",
           "coords": [
-            46.402,
-            6.594
+            6.594,
+            46.402
           ],
           "category": "gastro",
           "arrive_at": "15:55",

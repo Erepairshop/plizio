@@ -19,8 +19,8 @@
         {
           "name": "Marché aux Poissons",
           "coords": [
-            43.6551,
-            -1.4423
+            -1.4423,
+            43.6551
           ],
           "category": "squares/old-town",
           "arrive_at": "09:10",
@@ -37,8 +37,8 @@
         {
           "name": "Maison de l'Oralité et du Patrimoine",
           "coords": [
-            43.6395,
-            -1.4318
+            -1.4318,
+            43.6395
           ],
           "category": "museums",
           "arrive_at": "10:30",
@@ -55,8 +55,8 @@
         {
           "name": "Église Saint-Nicolas",
           "coords": [
-            43.6388,
-            -1.4312
+            -1.4312,
+            43.6388
           ],
           "category": "churches/cathedrals",
           "arrive_at": "12:15",
@@ -73,8 +73,8 @@
         {
           "name": "Port de Plaisance",
           "coords": [
-            43.6512,
-            -1.4405
+            -1.4405,
+            43.6512
           ],
           "category": "parks/promenades/beaches",
           "arrive_at": "14:15",
@@ -91,8 +91,8 @@
         {
           "name": "L'Estacade de Capbreton",
           "coords": [
-            43.6542,
-            -1.4485
+            -1.4485,
+            43.6542
           ],
           "category": "bridges/lighthouses",
           "arrive_at": "15:45",
@@ -109,8 +109,8 @@
         {
           "name": "Plage Notre-Dame",
           "coords": [
-            43.6585,
-            -1.4462
+            -1.4462,
+            43.6585
           ],
           "category": "parks/promenades/beaches",
           "arrive_at": "17:00",
@@ -251,8 +251,8 @@
         {
           "name": "Port de Plaisance",
           "coords": [
-            43.6512,
-            -1.4405
+            -1.4405,
+            43.6512
           ],
           "category": "parks/promenades/beaches",
           "arrive_at": "09:15",
@@ -269,8 +269,8 @@
         {
           "name": "Plage des Océanides",
           "coords": [
-            43.6455,
-            -1.4442
+            -1.4442,
+            43.6455
           ],
           "category": "parks/promenades/beaches",
           "arrive_at": "10:30",
@@ -287,8 +287,8 @@
         {
           "name": "Le Gouf de Capbreton (Info Point)",
           "coords": [
-            43.6545,
-            -1.4492
+            -1.4492,
+            43.6545
           ],
           "category": "natural features",
           "arrive_at": "13:00",
@@ -305,8 +305,8 @@
         {
           "name": "Marché aux Poissons",
           "coords": [
-            43.6551,
-            -1.4423
+            -1.4423,
+            43.6551
           ],
           "category": "squares/old-town",
           "arrive_at": "14:10",
@@ -323,8 +323,8 @@
         {
           "name": "Plage Notre-Dame",
           "coords": [
-            43.6585,
-            -1.4462
+            -1.4462,
+            43.6585
           ],
           "category": "parks/promenades/beaches",
           "arrive_at": "15:15",
@@ -465,8 +465,8 @@
         {
           "name": "Marché aux Poissons",
           "coords": [
-            43.6551,
-            -1.4423
+            -1.4423,
+            43.6551
           ],
           "category": "squares/old-town",
           "arrive_at": "09:10",
@@ -483,8 +483,8 @@
         {
           "name": "L'Estacade de Capbreton",
           "coords": [
-            43.6542,
-            -1.4485
+            -1.4485,
+            43.6542
           ],
           "category": "bridges/lighthouses",
           "arrive_at": "10:10",
@@ -501,8 +501,8 @@
         {
           "name": "Lac d'Hossegor (Nearby)",
           "coords": [
-            43.6685,
-            -1.4325
+            -1.4325,
+            43.6685
           ],
           "category": "natural features",
           "arrive_at": "11:30",
@@ -519,8 +519,8 @@
         {
           "name": "Maison de l'Oralité et du Patrimoine",
           "coords": [
-            43.6395,
-            -1.4318
+            -1.4318,
+            43.6395
           ],
           "category": "museums",
           "arrive_at": "14:00",
@@ -537,8 +537,8 @@
         {
           "name": "Plage des Océanides",
           "coords": [
-            43.6455,
-            -1.4442
+            -1.4442,
+            43.6455
           ],
           "category": "parks/promenades/beaches",
           "arrive_at": "16:00",
@@ -679,8 +679,8 @@
         {
           "name": "Marché aux Poissons",
           "coords": [
-            43.6551,
-            -1.4423
+            -1.4423,
+            43.6551
           ],
           "category": "squares/old-town",
           "arrive_at": "09:15",
@@ -697,8 +697,8 @@
         {
           "name": "L'Estacade de Capbreton",
           "coords": [
-            43.6542,
-            -1.4485
+            -1.4485,
+            43.6542
           ],
           "category": "bridges/lighthouses",
           "arrive_at": "10:15",
@@ -715,8 +715,8 @@
         {
           "name": "Maison de l'Oralité et du Patrimoine",
           "coords": [
-            43.6395,
-            -1.4318
+            -1.4318,
+            43.6395
           ],
           "category": "museums",
           "arrive_at": "11:30",
@@ -733,8 +733,8 @@
         {
           "name": "Église Saint-Nicolas",
           "coords": [
-            43.6388,
-            -1.4312
+            -1.4312,
+            43.6388
           ],
           "category": "churches/cathedrals",
           "arrive_at": "13:10",
@@ -751,8 +751,8 @@
         {
           "name": "Plage Notre-Dame",
           "coords": [
-            43.6585,
-            -1.4462
+            -1.4462,
+            43.6585
           ],
           "category": "parks/promenades/beaches",
           "arrive_at": "14:30",

@@ -13,7 +13,7 @@
       "speed_kmh": 3,
       "start": "09:00",
       "end_estimate": "16:45",
-      "total_km": 4.2,
+      "total_km": 5.5,
       "stop_count": 5,
       "stops": [
         {
@@ -24,8 +24,8 @@
             "en": "Maison de Tignes"
           },
           "coords": [
-            45.468,
-            6.907
+            6.907,
+            45.468
           ],
           "category": "theatres/cultural centres",
           "arrive_at": "09:10",
@@ -47,8 +47,8 @@
             "en": "Lac de Tignes"
           },
           "coords": [
-            45.4695,
-            6.905
+            6.905,
+            45.4695
           ],
           "category": "natural features",
           "arrive_at": "10:05",
@@ -70,8 +70,8 @@
             "en": "Tignes Val Claret"
           },
           "coords": [
-            45.455,
-            6.911
+            6.911,
+            45.455
           ],
           "category": "squares/old-town",
           "arrive_at": "12:15",
@@ -93,8 +93,8 @@
             "en": "Grande Motte Funicular"
           },
           "coords": [
-            45.45,
-            6.915
+            6.915,
+            45.45
           ],
           "category": "natural features",
           "arrive_at": "14:05",
@@ -116,8 +116,8 @@
             "en": "Le Lac Panorama"
           },
           "coords": [
-            45.4685,
-            6.906
+            6.906,
+            45.4685
           ],
           "category": "natural features",
           "arrive_at": "16:45",
@@ -719,8 +719,8 @@
             "en": "Tignes Val Claret"
           },
           "coords": [
-            45.455,
-            6.911
+            6.911,
+            45.455
           ],
           "category": "squares/old-town",
           "arrive_at": "09:10",
@@ -742,8 +742,8 @@
             "en": "Lac de Tignes Circuit"
           },
           "coords": [
-            45.4695,
-            6.905
+            6.905,
+            45.4695
           ],
           "category": "natural features",
           "arrive_at": "09:55",
@@ -765,8 +765,8 @@
             "en": "Aiguille Percée Base"
           },
           "coords": [
-            45.472,
-            6.895
+            6.895,
+            45.472
           ],
           "category": "natural features",
           "arrive_at": "11:10",
@@ -788,8 +788,8 @@
             "en": "Barrage du Chevril"
           },
           "coords": [
-            45.479,
-            6.953
+            6.953,
+            45.479
           ],
           "category": "industrial heritage",
           "arrive_at": "12:30",
@@ -811,8 +811,8 @@
             "en": "Tignes Les Boisses"
           },
           "coords": [
-            45.474,
-            6.927
+            6.927,
+            45.474
           ],
           "category": "squares/old-town",
           "arrive_at": "14:10",
@@ -1382,8 +1382,8 @@
             "en": "Barrage du Chevril"
           },
           "coords": [
-            45.479,
-            6.953
+            6.953,
+            45.479
           ],
           "category": "industrial heritage",
           "arrive_at": "09:15",
@@ -1405,8 +1405,8 @@
             "en": "La Fresque d'Hercule"
           },
           "coords": [
-            45.478,
-            6.954
+            6.954,
+            45.478
           ],
           "category": "monuments/statues",
           "arrive_at": "10:10",
@@ -1428,8 +1428,8 @@
             "en": "Église Saint-Jacques"
           },
           "coords": [
-            45.474,
-            6.927
+            6.927,
+            45.474
           ],
           "category": "churches/cathedrals",
           "arrive_at": "11:00",
@@ -1451,8 +1451,8 @@
             "en": "Tignes Val Claret"
           },
           "coords": [
-            45.455,
-            6.911
+            6.911,
+            45.455
           ],
           "category": "squares/old-town",
           "arrive_at": "12:15",
@@ -1474,8 +1474,8 @@
             "en": "Lac de Tignes"
           },
           "coords": [
-            45.4685,
-            6.9059
+            6.9059,
+            45.4685
           ],
           "category": "natural features",
           "arrive_at": "14:15",
@@ -2034,7 +2034,7 @@
       "speed_kmh": 15,
       "start": "09:00",
       "end_estimate": "16:00",
-      "total_km": 10.0,
+      "total_km": 4.3,
       "stop_count": 4,
       "stops": [
         {
@@ -2045,8 +2045,8 @@
             "en": "Tignes Le Lac"
           },
           "coords": [
-            45.468,
-            6.907
+            6.907,
+            45.468
           ],
           "category": "squares/old-town",
           "arrive_at": "09:10",
@@ -2068,8 +2068,8 @@
             "en": "Lac de Tignes"
           },
           "coords": [
-            45.4695,
-            6.905
+            6.905,
+            45.4695
           ],
           "category": "natural features",
           "arrive_at": "10:20",
@@ -2091,8 +2091,8 @@
             "en": "Tignes Val Claret"
           },
           "coords": [
-            45.455,
-            6.911
+            6.911,
+            45.455
           ],
           "category": "squares/old-town",
           "arrive_at": "12:15",
@@ -2114,8 +2114,8 @@
             "en": "Grande Motte Funicular"
           },
           "coords": [
-            45.45,
-            6.915
+            6.915,
+            45.45
           ],
           "category": "natural features",
           "arrive_at": "14:25",

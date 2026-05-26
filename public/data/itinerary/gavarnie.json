@@ -19,8 +19,8 @@
         {
           "name": "Église Saint-Jean-Baptiste",
           "coords": [
-            42.7358,
-            -0.0145
+            -0.0145,
+            42.7358
           ],
           "category": "churches/cathedrals",
           "arrive_at": "09:10",
@@ -37,8 +37,8 @@
         {
           "name": "Cimetière des Pyrénéistes",
           "coords": [
-            42.735,
-            -0.0135
+            -0.0135,
+            42.735
           ],
           "category": "monuments/statues",
           "arrive_at": "10:10",
@@ -55,8 +55,8 @@
         {
           "name": "Plateau de Bellevue",
           "coords": [
-            42.729,
-            -0.025
+            -0.025,
+            42.729
           ],
           "category": "parks/promenades/beaches",
           "arrive_at": "11:40",
@@ -73,8 +73,8 @@
         {
           "name": "Cirque de Gavarnie",
           "coords": [
-            42.705,
-            -0.005
+            -0.005,
+            42.705
           ],
           "category": "natural features",
           "arrive_at": "13:40",
@@ -91,8 +91,8 @@
         {
           "name": "Cascade de Gavarnie",
           "coords": [
-            42.698,
-            0.002
+            0.002,
+            42.698
           ],
           "category": "natural features",
           "arrive_at": "16:20",
@@ -249,8 +249,8 @@
         {
           "name": "Gavarnie Village",
           "coords": [
-            42.7361,
-            -0.0153
+            -0.0153,
+            42.7361
           ],
           "category": "parks/promenades/beaches",
           "arrive_at": "09:10",
@@ -267,8 +267,8 @@
         {
           "name": "Plateau de Bellevue",
           "coords": [
-            42.729,
-            -0.025
+            -0.025,
+            42.729
           ],
           "category": "parks/promenades/beaches",
           "arrive_at": "10:20",
@@ -285,8 +285,8 @@
         {
           "name": "Le Taillon (Viewpoint)",
           "coords": [
-            42.695,
-            -0.048
+            -0.048,
+            42.695
           ],
           "category": "natural features",
           "arrive_at": "11:50",
@@ -303,8 +303,8 @@
         {
           "name": "Pic du Marboré (Base)",
           "coords": [
-            42.695,
-            0.005
+            0.005,
+            42.695
           ],
           "category": "natural features",
           "arrive_at": "13:30",
@@ -321,8 +321,8 @@
         {
           "name": "Village Centre",
           "coords": [
-            42.736,
-            -0.015
+            -0.015,
+            42.736
           ],
           "category": "parks/promenades/beaches",
           "arrive_at": "14:40",
@@ -463,8 +463,8 @@
         {
           "name": "Gavarnie Parking",
           "coords": [
-            42.738,
-            -0.016
+            -0.016,
+            42.738
           ],
           "category": "parks/promenades/beaches",
           "arrive_at": "09:10",
@@ -481,8 +481,8 @@
         {
           "name": "Cirque de Gavarnie (Walk)",
           "coords": [
-            42.705,
-            -0.005
+            -0.005,
+            42.705
           ],
           "category": "natural features",
           "arrive_at": "10:40",
@@ -499,8 +499,8 @@
         {
           "name": "Brèche de Roland (Gateway)",
           "coords": [
-            42.691,
-            -0.033
+            -0.033,
+            42.691
           ],
           "category": "natural features",
           "arrive_at": "13:50",
@@ -517,8 +517,8 @@
         {
           "name": "Cimetière des Pyrénéistes",
           "coords": [
-            42.735,
-            -0.0135
+            -0.0135,
+            42.735
           ],
           "category": "monuments/statues",
           "arrive_at": "15:20",
@@ -535,8 +535,8 @@
         {
           "name": "Gavarnie Village",
           "coords": [
-            42.736,
-            -0.015
+            -0.015,
+            42.736
           ],
           "category": "parks/promenades/beaches",
           "arrive_at": "15:50",
@@ -677,8 +677,8 @@
         {
           "name": "Gavarnie Village (Bus Stop)",
           "coords": [
-            42.7385,
-            -0.0165
+            -0.0165,
+            42.7385
           ],
           "category": "parks/promenades/beaches",
           "arrive_at": "09:10",
@@ -695,8 +695,8 @@
         {
           "name": "Église Saint-Jean-Baptiste",
           "coords": [
-            42.7358,
-            -0.0145
+            -0.0145,
+            42.7358
           ],
           "category": "churches/cathedrals",
           "arrive_at": "09:50",
@@ -713,8 +713,8 @@
         {
           "name": "Cirque de Gavarnie",
           "coords": [
-            42.705,
-            -0.005
+            -0.005,
+            42.705
           ],
           "category": "natural features",
           "arrive_at": "11:40",
@@ -731,8 +731,8 @@
         {
           "name": "Village Centre (Market)",
           "coords": [
-            42.736,
-            -0.015
+            -0.015,
+            42.736
           ],
           "category": "parks/promenades/beaches",
           "arrive_at": "14:50",

@@ -13,14 +13,14 @@
       "speed_kmh": 3.0,
       "start": "09:00",
       "end_estimate": "18:30",
-      "total_km": 3.5,
+      "total_km": 2.5,
       "stop_count": 6,
       "stops": [
         {
           "name": "Gare de Cauterets",
           "coords": [
-            42.8915,
-            -0.1128
+            -0.1128,
+            42.8915
           ],
           "category": "industrial heritage",
           "arrive_at": "09:10",
@@ -37,8 +37,8 @@
         {
           "name": "Esplanade des Œufs",
           "coords": [
-            42.8892,
-            -0.1142
+            -0.1142,
+            42.8892
           ],
           "category": "squares/old-town",
           "arrive_at": "10:05",
@@ -55,8 +55,8 @@
         {
           "name": "Église Notre-Dame",
           "coords": [
-            42.8885,
-            -0.1135
+            -0.1135,
+            42.8885
           ],
           "category": "churches/cathedrals",
           "arrive_at": "11:05",
@@ -73,8 +73,8 @@
         {
           "name": "Musée 1900 / Pavillon des Abeilles",
           "coords": [
-            42.8872,
-            -0.1155
+            -0.1155,
+            42.8872
           ],
           "category": "museums",
           "arrive_at": "13:00",
@@ -91,8 +91,8 @@
         {
           "name": "Thermes de Cauterets (Les Thermes César)",
           "coords": [
-            42.8868,
-            -0.1125
+            -0.1125,
+            42.8868
           ],
           "category": "industrial heritage",
           "arrive_at": "15:00",
@@ -109,8 +109,8 @@
         {
           "name": "Parc National des Pyrénées (Entrance Area)",
           "coords": [
-            42.8845,
-            -0.1145
+            -0.1145,
+            42.8845
           ],
           "category": "natural features",
           "arrive_at": "17:00",
@@ -245,14 +245,14 @@
       "speed_kmh": 10.0,
       "start": "09:00",
       "end_estimate": "17:30",
-      "total_km": 12.0,
+      "total_km": 8.5,
       "stop_count": 5,
       "stops": [
         {
           "name": "Gare de Cauterets",
           "coords": [
-            42.8915,
-            -0.1128
+            -0.1128,
+            42.8915
           ],
           "category": "industrial heritage",
           "arrive_at": "09:15",
@@ -269,8 +269,8 @@
         {
           "name": "Esplanade des Œufs",
           "coords": [
-            42.8892,
-            -0.1142
+            -0.1142,
+            42.8892
           ],
           "category": "squares/old-town",
           "arrive_at": "10:00",
@@ -287,8 +287,8 @@
         {
           "name": "Thermes de Cauterets",
           "coords": [
-            42.8868,
-            -0.1125
+            -0.1125,
+            42.8868
           ],
           "category": "industrial heritage",
           "arrive_at": "11:10",
@@ -305,8 +305,8 @@
         {
           "name": "La Raillère (Nearby Hill)",
           "coords": [
-            42.8715,
-            -0.1152
+            -0.1152,
+            42.8715
           ],
           "category": "natural features",
           "arrive_at": "12:30",
@@ -323,8 +323,8 @@
         {
           "name": "Cascade de Lutour",
           "coords": [
-            42.8685,
-            -0.1148
+            -0.1148,
+            42.8685
           ],
           "category": "natural features",
           "arrive_at": "14:45",
@@ -465,8 +465,8 @@
         {
           "name": "Pont d'Espagne",
           "coords": [
-            42.8525,
-            -0.1385
+            -0.1385,
+            42.8525
           ],
           "category": "bridges/lighthouses",
           "arrive_at": "09:30",
@@ -483,8 +483,8 @@
         {
           "name": "Lac de Gaube",
           "coords": [
-            42.8345,
-            -0.1382
+            -0.1382,
+            42.8345
           ],
           "category": "natural features",
           "arrive_at": "11:15",
@@ -501,8 +501,8 @@
         {
           "name": "Gare de Cauterets",
           "coords": [
-            42.8915,
-            -0.1128
+            -0.1128,
+            42.8915
           ],
           "category": "industrial heritage",
           "arrive_at": "14:15",
@@ -519,8 +519,8 @@
         {
           "name": "Esplanade des Œufs",
           "coords": [
-            42.8892,
-            -0.1142
+            -0.1142,
+            42.8892
           ],
           "category": "squares/old-town",
           "arrive_at": "15:00",
@@ -537,8 +537,8 @@
         {
           "name": "Musée 1900",
           "coords": [
-            42.8872,
-            -0.1155
+            -0.1155,
+            42.8872
           ],
           "category": "museums",
           "arrive_at": "16:15",
@@ -555,8 +555,8 @@
         {
           "name": "Thermes de Cauterets",
           "coords": [
-            42.8868,
-            -0.1125
+            -0.1125,
+            42.8868
           ],
           "category": "industrial heritage",
           "arrive_at": "17:30",
@@ -691,14 +691,14 @@
       "speed_kmh": 15.0,
       "start": "09:00",
       "end_estimate": "18:15",
-      "total_km": 10.0,
+      "total_km": 20.0,
       "stop_count": 5,
       "stops": [
         {
           "name": "Gare de Cauterets",
           "coords": [
-            42.8915,
-            -0.1128
+            -0.1128,
+            42.8915
           ],
           "category": "industrial heritage",
           "arrive_at": "09:15",
@@ -715,8 +715,8 @@
         {
           "name": "Esplanade des Œufs",
           "coords": [
-            42.8892,
-            -0.1142
+            -0.1142,
+            42.8892
           ],
           "category": "squares/old-town",
           "arrive_at": "10:15",
@@ -733,8 +733,8 @@
         {
           "name": "Pont d'Espagne (Shuttle)",
           "coords": [
-            42.8525,
-            -0.1385
+            -0.1385,
+            42.8525
           ],
           "category": "bridges/lighthouses",
           "arrive_at": "11:30",
@@ -751,8 +751,8 @@
         {
           "name": "Musée 1900",
           "coords": [
-            42.8872,
-            -0.1155
+            -0.1155,
+            42.8872
           ],
           "category": "museums",
           "arrive_at": "14:15",
@@ -769,8 +769,8 @@
         {
           "name": "Thermes de Cauterets",
           "coords": [
-            42.8868,
-            -0.1125
+            -0.1125,
+            42.8868
           ],
           "category": "industrial heritage",
           "arrive_at": "16:00",

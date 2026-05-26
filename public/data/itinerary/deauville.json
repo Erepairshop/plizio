@@ -632,7 +632,7 @@
       "start": "09:00",
       "end_estimate": "17:30",
       "total_km": 9.5,
-      "stop_count": 7,
+      "stop_count": 6,
       "stops": [
         {
           "name": "Villa Strassburger",
@@ -1217,7 +1217,7 @@
       "speed_kmh": 18,
       "start": "09:00",
       "end_estimate": "17:15",
-      "total_km": 18.5,
+      "total_km": 26.5,
       "stop_count": 5,
       "stops": [
         {

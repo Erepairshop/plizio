@@ -24,8 +24,8 @@
             "en": "Basilique Saint-Michel-Archange"
           },
           "coords": [
-            43.7768,
-            7.5065
+            7.5065,
+            43.7768
           ],
           "category": "churches/cathedrals",
           "arrive_at": "09:10",
@@ -47,8 +47,8 @@
             "en": "Chapelle des Pénitents Blancs"
           },
           "coords": [
-            43.777,
-            7.5068
+            7.5068,
+            43.777
           ],
           "category": "churches/cathedrals",
           "arrive_at": "10:35",
@@ -70,8 +70,8 @@
             "en": "Cimetière du Vieux Château"
           },
           "coords": [
-            43.7778,
-            7.5062
+            7.5062,
+            43.7778
           ],
           "category": "squares/old-town",
           "arrive_at": "11:35",
@@ -93,8 +93,8 @@
             "en": "Musée Jean Cocteau"
           },
           "coords": [
-            43.7745,
-            7.5035
+            7.5035,
+            43.7745
           ],
           "category": "museums",
           "arrive_at": "13:45",
@@ -116,8 +116,8 @@
             "en": "Jardins Biovès"
           },
           "coords": [
-            43.7755,
-            7.4985
+            7.4985,
+            43.7755
           ],
           "category": "parks/promenades/beaches",
           "arrive_at": "15:40",
@@ -139,8 +139,8 @@
             "en": "Palais de l'Europe"
           },
           "coords": [
-            43.776,
-            7.4975
+            7.4975,
+            43.776
           ],
           "category": "theatres/cultural centres",
           "arrive_at": "17:15",
@@ -822,7 +822,7 @@
       "start": "09:00",
       "end_estimate": "18:50",
       "total_km": 9.5,
-      "stop_count": 5,
+      "stop_count": 4,
       "stops": [
         {
           "name": {
@@ -832,8 +832,8 @@
             "en": "Jardins Biovès"
           },
           "coords": [
-            43.7755,
-            7.4985
+            7.4985,
+            43.7755
           ],
           "category": "parks/promenades/beaches",
           "arrive_at": "09:10",
@@ -855,8 +855,8 @@
             "en": "Musée Jean Cocteau"
           },
           "coords": [
-            43.7745,
-            7.5035
+            7.5035,
+            43.7745
           ],
           "category": "museums",
           "arrive_at": "10:50",
@@ -878,8 +878,8 @@
             "en": "Jardin Botanique Val Rahmeh"
           },
           "coords": [
-            43.776,
-            7.513
+            7.513,
+            43.776
           ],
           "category": "parks/promenades/beaches",
           "arrive_at": "14:00",
@@ -901,8 +901,8 @@
             "en": "Serre de la Madone"
           },
           "coords": [
-            43.775,
-            7.476
+            7.476,
+            43.775
           ],
           "category": "parks/promenades/beaches",
           "arrive_at": "16:30",
@@ -1365,8 +1365,8 @@
       "speed_kmh": 18,
       "start": "09:00",
       "end_estimate": "18:30",
-      "total_km": 14.5,
-      "stop_count": 5,
+      "total_km": 10.4,
+      "stop_count": 4,
       "stops": [
         {
           "name": {
@@ -1376,8 +1376,8 @@
             "en": "Cimetière du Vieux Château"
           },
           "coords": [
-            43.7778,
-            7.5062
+            7.5062,
+            43.7778
           ],
           "category": "squares/old-town",
           "arrive_at": "09:10",
@@ -1399,8 +1399,8 @@
             "en": "Basilique Saint-Michel-Archange"
           },
           "coords": [
-            43.7768,
-            7.5065
+            7.5065,
+            43.7768
           ],
           "category": "churches/cathedrals",
           "arrive_at": "10:20",
@@ -1422,8 +1422,8 @@
             "en": "Jardin Botanique Val Rahmeh"
           },
           "coords": [
-            43.776,
-            7.513
+            7.513,
+            43.776
           ],
           "category": "parks/promenades/beaches",
           "arrive_at": "13:30",
@@ -1445,8 +1445,8 @@
             "en": "Serre de la Madone"
           },
           "coords": [
-            43.775,
-            7.476
+            7.476,
+            43.775
           ],
           "category": "parks/promenades/beaches",
           "arrive_at": "15:55",
@@ -1920,8 +1920,8 @@
             "en": "Palais de l'Europe"
           },
           "coords": [
-            43.776,
-            7.4975
+            7.4975,
+            43.776
           ],
           "category": "theatres/cultural centres",
           "arrive_at": "09:10",
@@ -1943,8 +1943,8 @@
             "en": "Jardins Biovès"
           },
           "coords": [
-            43.7755,
-            7.4985
+            7.4985,
+            43.7755
           ],
           "category": "parks/promenades/beaches",
           "arrive_at": "10:20",
@@ -1966,8 +1966,8 @@
             "en": "Musée Jean Cocteau"
           },
           "coords": [
-            43.7745,
-            7.5035
+            7.5035,
+            43.7745
           ],
           "category": "museums",
           "arrive_at": "13:30",
@@ -1989,8 +1989,8 @@
             "en": "Jardin Botanique Val Rahmeh"
           },
           "coords": [
-            43.776,
-            7.513
+            7.513,
+            43.776
           ],
           "category": "parks/promenades/beaches",
           "arrive_at": "15:30",
@@ -2012,8 +2012,8 @@
             "en": "Basilique Saint-Michel-Archange"
           },
           "coords": [
-            43.7768,
-            7.5065
+            7.5065,
+            43.7768
           ],
           "category": "churches/cathedrals",
           "arrive_at": "17:45",

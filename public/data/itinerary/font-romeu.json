@@ -13,14 +13,14 @@
       "speed_kmh": 3,
       "start": "09:00",
       "end_estimate": "17:10",
-      "total_km": 6.5,
+      "total_km": 5.2,
       "stop_count": 5,
       "stops": [
         {
           "name": "Grand Hôtel de Font-Romeu",
           "coords": [
-            42.5105,
-            2.035
+            2.035,
+            42.5105
           ],
           "category": "famous residences",
           "arrive_at": "09:10",
@@ -37,8 +37,8 @@
         {
           "name": "Musée Sans Murs",
           "coords": [
-            42.513,
-            2.032
+            2.032,
+            42.513
           ],
           "category": "museums",
           "arrive_at": "10:50",
@@ -55,8 +55,8 @@
         {
           "name": "Les Airelles",
           "coords": [
-            42.522,
-            2.036
+            2.036,
+            42.522
           ],
           "category": "parks/promenades/beaches",
           "arrive_at": "13:10",
@@ -73,8 +73,8 @@
         {
           "name": "Ermitage de Font-Romeu",
           "coords": [
-            42.52,
-            2.043
+            2.043,
+            42.52
           ],
           "category": "churches/cathedrals",
           "arrive_at": "15:00",
@@ -91,8 +91,8 @@
         {
           "name": "Le Calvaire",
           "coords": [
-            42.515,
-            2.04
+            2.04,
+            42.515
           ],
           "category": "monuments/statues",
           "arrive_at": "16:30",
@@ -243,14 +243,14 @@
       "speed_kmh": 12,
       "start": "09:00",
       "end_estimate": "15:20",
-      "total_km": 15.0,
+      "total_km": 9.0,
       "stop_count": 5,
       "stops": [
         {
           "name": "Font-Romeu Centre",
           "coords": [
-            42.5097,
-            2.0383
+            2.0383,
+            42.5097
           ],
           "category": "parks/promenades/beaches",
           "arrive_at": "09:10",
@@ -267,8 +267,8 @@
         {
           "name": "Four Solaire d'Odeillo",
           "coords": [
-            42.491,
-            2.035
+            2.035,
+            42.491
           ],
           "category": "industrial heritage",
           "arrive_at": "09:55",
@@ -285,8 +285,8 @@
         {
           "name": "Église Saint-Martin d'Odeillo",
           "coords": [
-            42.489,
-            2.033
+            2.033,
+            42.489
           ],
           "category": "churches/cathedrals",
           "arrive_at": "11:25",
@@ -303,8 +303,8 @@
         {
           "name": "Ermitage de Font-Romeu",
           "coords": [
-            42.52,
-            2.043
+            2.043,
+            42.52
           ],
           "category": "churches/cathedrals",
           "arrive_at": "12:55",
@@ -321,8 +321,8 @@
         {
           "name": "Les Airelles",
           "coords": [
-            42.522,
-            2.036
+            2.036,
+            42.522
           ],
           "category": "parks/promenades/beaches",
           "arrive_at": "14:15",
@@ -457,14 +457,14 @@
       "speed_kmh": 25,
       "start": "09:00",
       "end_estimate": "15:40",
-      "total_km": 20.0,
+      "total_km": 15.5,
       "stop_count": 5,
       "stops": [
         {
           "name": "Four Solaire d'Odeillo",
           "coords": [
-            42.491,
-            2.035
+            2.035,
+            42.491
           ],
           "category": "industrial heritage",
           "arrive_at": "09:15",
@@ -481,8 +481,8 @@
         {
           "name": "Grand Hôtel de Font-Romeu",
           "coords": [
-            42.5105,
-            2.035
+            2.035,
+            42.5105
           ],
           "category": "famous residences",
           "arrive_at": "10:50",
@@ -499,8 +499,8 @@
         {
           "name": "Ermitage de Font-Romeu",
           "coords": [
-            42.52,
-            2.043
+            2.043,
+            42.52
           ],
           "category": "churches/cathedrals",
           "arrive_at": "12:05",
@@ -517,8 +517,8 @@
         {
           "name": "Les Airelles",
           "coords": [
-            42.522,
-            2.036
+            2.036,
+            42.522
           ],
           "category": "parks/promenades/beaches",
           "arrive_at": "13:20",
@@ -535,8 +535,8 @@
         {
           "name": "Odeillo Village",
           "coords": [
-            42.489,
-            2.033
+            2.033,
+            42.489
           ],
           "category": "parks/promenades/beaches",
           "arrive_at": "15:15",
@@ -677,8 +677,8 @@
         {
           "name": "Gare de Font-Romeu (Bus)",
           "coords": [
-            42.495,
-            2.042
+            2.042,
+            42.495
           ],
           "category": "parks/promenades/beaches",
           "arrive_at": "09:10",
@@ -695,8 +695,8 @@
         {
           "name": "Four Solaire d'Odeillo",
           "coords": [
-            42.491,
-            2.035
+            2.035,
+            42.491
           ],
           "category": "industrial heritage",
           "arrive_at": "09:55",
@@ -713,8 +713,8 @@
         {
           "name": "Font-Romeu Centre",
           "coords": [
-            42.5097,
-            2.0383
+            2.0383,
+            42.5097
           ],
           "category": "parks/promenades/beaches",
           "arrive_at": "11:35",
@@ -731,8 +731,8 @@
         {
           "name": "Les Airelles (via Skibus)",
           "coords": [
-            42.522,
-            2.036
+            2.036,
+            42.522
           ],
           "category": "parks/promenades/beaches",
           "arrive_at": "14:15",

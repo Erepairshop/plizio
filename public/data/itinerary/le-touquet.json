@@ -13,7 +13,7 @@
       "speed_kmh": 4,
       "start": "09:00",
       "end_estimate": "18:45",
-      "total_km": 4.2,
+      "total_km": 6.2,
       "stop_count": 7,
       "stops": [
         {
@@ -24,8 +24,8 @@
             "en": "Covered Market"
           },
           "coords": [
-            50.5255,
-            1.5862
+            1.5862,
+            50.5255
           ],
           "category": "shopping",
           "arrive_at": "09:10",
@@ -47,8 +47,8 @@
             "en": "Rue Saint-Jean"
           },
           "coords": [
-            50.5238,
-            1.5841
+            1.5841,
+            50.5238
           ],
           "category": "shopping",
           "arrive_at": "10:00",
@@ -70,8 +70,8 @@
             "en": "Jeanne d'Arc Church"
           },
           "coords": [
-            50.5221,
-            1.5885
+            1.5885,
+            50.5221
           ],
           "category": "religious",
           "arrive_at": "10:55",
@@ -93,8 +93,8 @@
             "en": "Historic Villas"
           },
           "coords": [
-            50.5185,
-            1.5952
+            1.5952,
+            50.5185
           ],
           "category": "historical",
           "arrive_at": "12:05",
@@ -116,8 +116,8 @@
             "en": "Lunch in the center"
           },
           "coords": [
-            50.5242,
-            1.5845
+            1.5845,
+            50.5242
           ],
           "category": "gastro",
           "arrive_at": "13:45",
@@ -139,8 +139,8 @@
             "en": "Le Touquet Beach"
           },
           "coords": [
-            50.5265,
-            1.5782
+            1.5782,
+            50.5265
           ],
           "category": "beach",
           "arrive_at": "15:20",
@@ -162,8 +162,8 @@
             "en": "Le Touquet Lighthouse"
           },
           "coords": [
-            50.5302,
-            1.5888
+            1.5888,
+            50.5302
           ],
           "category": "historical",
           "arrive_at": "18:40",
@@ -741,8 +741,8 @@
             "en": "Lighthouse"
           },
           "coords": [
-            50.5302,
-            1.5888
+            1.5888,
+            50.5302
           ],
           "category": "historical",
           "arrive_at": "09:10",
@@ -764,8 +764,8 @@
             "en": "Baie de Canche Park"
           },
           "coords": [
-            50.5385,
-            1.5955
+            1.5955,
+            50.5385
           ],
           "category": "park",
           "arrive_at": "10:10",
@@ -787,8 +787,8 @@
             "en": "Hippodrome"
           },
           "coords": [
-            50.5182,
-            1.6052
+            1.6052,
+            50.5182
           ],
           "category": "historical",
           "arrive_at": "12:35",
@@ -810,8 +810,8 @@
             "en": "Forest Villas Tour"
           },
           "coords": [
-            50.5195,
-            1.5925
+            1.5925,
+            50.5195
           ],
           "category": "historical",
           "arrive_at": "13:45",
@@ -833,8 +833,8 @@
             "en": "Beach Promenade"
           },
           "coords": [
-            50.5252,
-            1.5795
+            1.5795,
+            50.5252
           ],
           "category": "beach",
           "arrive_at": "15:20",
@@ -856,8 +856,8 @@
             "en": "Center - Coffee"
           },
           "coords": [
-            50.5241,
-            1.5842
+            1.5842,
+            50.5241
           ],
           "category": "gastro",
           "arrive_at": "17:05",
@@ -1371,8 +1371,8 @@
             "en": "Baie de Canche"
           },
           "coords": [
-            50.5385,
-            1.5955
+            1.5955,
+            50.5385
           ],
           "category": "park",
           "arrive_at": "09:15",
@@ -1394,8 +1394,8 @@
             "en": "Étaples Fishing Port"
           },
           "coords": [
-            50.5185,
-            1.6382
+            1.6382,
+            50.5185
           ],
           "category": "historical",
           "arrive_at": "11:10",
@@ -1417,8 +1417,8 @@
             "en": "Lunch in Étaples"
           },
           "coords": [
-            50.5192,
-            1.6415
+            1.6415,
+            50.5192
           ],
           "category": "gastro",
           "arrive_at": "12:35",
@@ -1440,8 +1440,8 @@
             "en": "Lighthouse"
           },
           "coords": [
-            50.5302,
-            1.5888
+            1.5888,
+            50.5302
           ],
           "category": "historical",
           "arrive_at": "14:15",
@@ -1463,8 +1463,8 @@
             "en": "Avenue du Golf Villas"
           },
           "coords": [
-            50.5125,
-            1.6152
+            1.6152,
+            50.5125
           ],
           "category": "historical",
           "arrive_at": "15:20",
@@ -1486,8 +1486,8 @@
             "en": "Le Touquet Beach"
           },
           "coords": [
-            50.5265,
-            1.5782
+            1.5782,
+            50.5265
           ],
           "category": "beach",
           "arrive_at": "16:45",
@@ -1990,7 +1990,7 @@
       "speed_kmh": 15,
       "start": "09:00",
       "end_estimate": "17:45",
-      "total_km": 10.5,
+      "total_km": 8.7,
       "stop_count": 5,
       "stops": [
         {
@@ -2001,8 +2001,8 @@
             "en": "Étaples-Le Touquet Station"
           },
           "coords": [
-            50.5185,
-            1.6425
+            1.6425,
+            50.5185
           ],
           "category": "historical",
           "arrive_at": "09:10",
@@ -2024,8 +2024,8 @@
             "en": "Covered Market"
           },
           "coords": [
-            50.5255,
-            1.5862
+            1.5862,
+            50.5255
           ],
           "category": "shopping",
           "arrive_at": "10:00",
@@ -2047,8 +2047,8 @@
             "en": "Rue Saint-Jean"
           },
           "coords": [
-            50.5238,
-            1.5841
+            1.5841,
+            50.5238
           ],
           "category": "shopping",
           "arrive_at": "10:50",
@@ -2070,8 +2070,8 @@
             "en": "Le Touquet Beach"
           },
           "coords": [
-            50.5265,
-            1.5782
+            1.5782,
+            50.5265
           ],
           "category": "beach",
           "arrive_at": "12:00",
@@ -2093,8 +2093,8 @@
             "en": "Lighthouse"
           },
           "coords": [
-            50.5302,
-            1.5888
+            1.5888,
+            50.5302
           ],
           "category": "historical",
           "arrive_at": "15:20",

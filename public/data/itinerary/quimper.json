@@ -13,14 +13,14 @@
       "speed_kmh": 4,
       "start": "09:00",
       "end_estimate": "18:45",
-      "total_km": 3.2,
+      "total_km": 1.8,
       "stop_count": 6,
       "stops": [
         {
           "name": "Place Terre au Duc",
           "coords": [
-            47.9965,
-            -4.105
+            -4.105,
+            47.9965
           ],
           "category": "square",
           "arrive_at": "09:10",
@@ -37,8 +37,8 @@
         {
           "name": "Cathédrale Saint-Corentin",
           "coords": [
-            47.996,
-            -4.1025
+            -4.1025,
+            47.996
           ],
           "category": "cathedral",
           "arrive_at": "09:50",
@@ -55,8 +55,8 @@
         {
           "name": "Musée des Beaux-Arts",
           "coords": [
-            47.9963,
-            -4.102
+            -4.102,
+            47.9963
           ],
           "category": "museum",
           "arrive_at": "11:15",
@@ -73,8 +73,8 @@
         {
           "name": "Vieux Quimper",
           "coords": [
-            47.995,
-            -4.103
+            -4.103,
+            47.995
           ],
           "category": "historical",
           "arrive_at": "13:05",
@@ -91,8 +91,8 @@
         {
           "name": "Crêperie du Quartier",
           "coords": [
-            47.994,
-            -4.104
+            -4.104,
+            47.994
           ],
           "category": "gastro",
           "arrive_at": "14:35",
@@ -109,8 +109,8 @@
         {
           "name": "Mont Frugy",
           "coords": [
-            47.993,
-            -4.102
+            -4.102,
+            47.993
           ],
           "category": "park",
           "arrive_at": "16:15",
@@ -711,14 +711,14 @@
       "speed_kmh": 10,
       "start": "09:00",
       "end_estimate": "17:30",
-      "total_km": 8.5,
+      "total_km": 5.8,
       "stop_count": 5,
       "stops": [
         {
           "name": "Odet River Banks",
           "coords": [
-            47.994,
-            -4.11
+            -4.11,
+            47.994
           ],
           "category": "park",
           "arrive_at": "09:10",
@@ -735,8 +735,8 @@
         {
           "name": "Quartier Locmaria",
           "coords": [
-            47.99,
-            -4.105
+            -4.105,
+            47.99
           ],
           "category": "historical",
           "arrive_at": "10:25",
@@ -753,8 +753,8 @@
         {
           "name": "Musée de la Faïence",
           "coords": [
-            47.991,
-            -4.106
+            -4.106,
+            47.991
           ],
           "category": "museum",
           "arrive_at": "11:55",
@@ -771,8 +771,8 @@
         {
           "name": "Jardin du Prieuré",
           "coords": [
-            47.989,
-            -4.104
+            -4.104,
+            47.989
           ],
           "category": "park",
           "arrive_at": "13:45",
@@ -789,8 +789,8 @@
         {
           "name": "Vieux Quimper Center",
           "coords": [
-            47.996,
-            -4.103
+            -4.103,
+            47.996
           ],
           "category": "square",
           "arrive_at": "15:40",
@@ -1261,13 +1261,13 @@
       "start": "09:00",
       "end_estimate": "18:15",
       "total_km": 35.0,
-      "stop_count": 5,
+      "stop_count": 4,
       "stops": [
         {
           "name": "Quimper Locmaria",
           "coords": [
-            47.99,
-            -4.105
+            -4.105,
+            47.99
           ],
           "category": "historical",
           "arrive_at": "09:10",
@@ -1284,8 +1284,8 @@
         {
           "name": "Locronan Village",
           "coords": [
-            48.098,
-            -4.208
+            -4.208,
+            48.098
           ],
           "category": "historical",
           "arrive_at": "11:00",
@@ -1302,8 +1302,8 @@
         {
           "name": "Sainte-Anne-la-Palud",
           "coords": [
-            48.125,
-            -4.26
+            -4.26,
+            48.125
           ],
           "category": "beach",
           "arrive_at": "13:30",
@@ -1320,8 +1320,8 @@
         {
           "name": "Quimper Cathédrale",
           "coords": [
-            47.996,
-            -4.102
+            -4.102,
+            47.996
           ],
           "category": "cathedral",
           "arrive_at": "16:20",
@@ -1770,8 +1770,8 @@
         {
           "name": "Gare de Quimper",
           "coords": [
-            47.995,
-            -4.092
+            -4.092,
+            47.995
           ],
           "category": "square",
           "arrive_at": "09:10",
@@ -1788,8 +1788,8 @@
         {
           "name": "Cathédrale / Center",
           "coords": [
-            47.996,
-            -4.102
+            -4.102,
+            47.996
           ],
           "category": "cathedral",
           "arrive_at": "09:55",
@@ -1806,8 +1806,8 @@
         {
           "name": "Musée Breton",
           "coords": [
-            47.995,
-            -4.102
+            -4.102,
+            47.995
           ],
           "category": "museum",
           "arrive_at": "11:20",
@@ -1824,8 +1824,8 @@
         {
           "name": "Locmaria (Bus 2)",
           "coords": [
-            47.99,
-            -4.105
+            -4.105,
+            47.99
           ],
           "category": "historical",
           "arrive_at": "13:20",
@@ -1842,8 +1842,8 @@
         {
           "name": "Les Halles Market",
           "coords": [
-            47.997,
-            -4.104
+            -4.104,
+            47.997
           ],
           "category": "gastro",
           "arrive_at": "15:10",

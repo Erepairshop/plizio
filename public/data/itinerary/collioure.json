@@ -13,7 +13,7 @@
       "speed_kmh": 4,
       "start": "09:00",
       "end_estimate": "18:45",
-      "total_km": 3.2,
+      "total_km": 2.3,
       "stop_count": 7,
       "stops": [
         {
@@ -24,8 +24,8 @@
             "en": "Royal Castle of Collioure"
           },
           "coords": [
-            42.5256,
-            3.0845
+            3.0845,
+            42.5256
           ],
           "category": "historical",
           "arrive_at": "09:10",
@@ -47,8 +47,8 @@
             "en": "Church of Notre-Dame-des-Anges"
           },
           "coords": [
-            42.5273,
-            3.0858
+            3.0858,
+            42.5273
           ],
           "category": "religious",
           "arrive_at": "10:55",
@@ -70,8 +70,8 @@
             "en": "Quartier du Mouré"
           },
           "coords": [
-            42.5278,
-            3.0845
+            3.0845,
+            42.5278
           ],
           "category": "square",
           "arrive_at": "11:55",
@@ -93,8 +93,8 @@
             "en": "Lunch at the Port"
           },
           "coords": [
-            42.5268,
-            3.084
+            3.084,
+            42.5268
           ],
           "category": "gastro",
           "arrive_at": "12:50",
@@ -116,8 +116,8 @@
             "en": "Boramar Beach"
           },
           "coords": [
-            42.5265,
-            3.0855
+            3.0855,
+            42.5265
           ],
           "category": "beach",
           "arrive_at": "14:25",
@@ -139,8 +139,8 @@
             "en": "Windmill of Collioure"
           },
           "coords": [
-            42.5245,
-            3.082
+            3.082,
+            42.5245
           ],
           "category": "landmark",
           "arrive_at": "16:45",
@@ -162,8 +162,8 @@
             "en": "Museum of Modern Art"
           },
           "coords": [
-            42.5238,
-            3.0805
+            3.0805,
+            42.5238
           ],
           "category": "museum",
           "arrive_at": "17:45",
@@ -826,7 +826,7 @@
       "speed_kmh": 10,
       "start": "09:00",
       "end_estimate": "17:30",
-      "total_km": 12.5,
+      "total_km": 18.7,
       "stop_count": 6,
       "stops": [
         {
@@ -837,8 +837,8 @@
             "en": "Harbor Promenade"
           },
           "coords": [
-            42.526,
-            3.084
+            3.084,
+            42.526
           ],
           "category": "square",
           "arrive_at": "09:10",
@@ -860,8 +860,8 @@
             "en": "Fort Saint-Elme"
           },
           "coords": [
-            42.5185,
-            3.0835
+            3.0835,
+            42.5185
           ],
           "category": "historical",
           "arrive_at": "10:15",
@@ -883,8 +883,8 @@
             "en": "Port of Port-Vendres"
           },
           "coords": [
-            42.52,
-            3.108
+            3.108,
+            42.52
           ],
           "category": "port",
           "arrive_at": "12:00",
@@ -906,8 +906,8 @@
             "en": "Paulilles Bay"
           },
           "coords": [
-            42.502,
-            3.123
+            3.123,
+            42.502
           ],
           "category": "beach",
           "arrive_at": "13:55",
@@ -929,8 +929,8 @@
             "en": "Vineyards of Banyuls"
           },
           "coords": [
-            42.5,
-            3.105
+            3.105,
+            42.5
           ],
           "category": "agriculture",
           "arrive_at": "16:20",
@@ -952,8 +952,8 @@
             "en": "Return to Collioure"
           },
           "coords": [
-            42.525,
-            3.083
+            3.083,
+            42.525
           ],
           "category": "sunset",
           "arrive_at": "17:30",
@@ -1595,8 +1595,8 @@
             "en": "Collioure Old Town"
           },
           "coords": [
-            42.5265,
-            3.0845
+            3.0845,
+            42.5265
           ],
           "category": "historical",
           "arrive_at": "09:10",
@@ -1618,8 +1618,8 @@
             "en": "Cap Béar Lighthouse"
           },
           "coords": [
-            42.5165,
-            3.136
+            3.136,
+            42.5165
           ],
           "category": "landmark",
           "arrive_at": "11:15",
@@ -1641,8 +1641,8 @@
             "en": "Banyuls-sur-Mer"
           },
           "coords": [
-            42.483,
-            3.129
+            3.129,
+            42.483
           ],
           "category": "city",
           "arrive_at": "12:25",
@@ -1664,8 +1664,8 @@
             "en": "Cerbère - The Last Village"
           },
           "coords": [
-            42.441,
-            3.164
+            3.164,
+            42.441
           ],
           "category": "city",
           "arrive_at": "14:25",
@@ -1687,8 +1687,8 @@
             "en": "Madeloc Tower"
           },
           "coords": [
-            42.488,
-            3.075
+            3.075,
+            42.488
           ],
           "category": "landmark",
           "arrive_at": "16:15",
@@ -2298,8 +2298,8 @@
             "en": "Collioure Station"
           },
           "coords": [
-            42.5255,
-            3.0785
+            3.0785,
+            42.5255
           ],
           "category": "square",
           "arrive_at": "09:10",
@@ -2321,8 +2321,8 @@
             "en": "Royal Castle & Harbor"
           },
           "coords": [
-            42.5256,
-            3.0845
+            3.0845,
+            42.5256
           ],
           "category": "historical",
           "arrive_at": "09:55",
@@ -2344,8 +2344,8 @@
             "en": "Train to Banyuls-sur-Mer"
           },
           "coords": [
-            42.483,
-            3.129
+            3.129,
+            42.483
           ],
           "category": "city",
           "arrive_at": "12:30",
@@ -2367,8 +2367,8 @@
             "en": "Banyuls Harbor & Beach"
           },
           "coords": [
-            42.4815,
-            3.131
+            3.131,
+            42.4815
           ],
           "category": "beach",
           "arrive_at": "14:40",
@@ -2390,8 +2390,8 @@
             "en": "Return by the 1€ Bus"
           },
           "coords": [
-            42.525,
-            3.08
+            3.08,
+            42.525
           ],
           "category": "sunset",
           "arrive_at": "17:25",

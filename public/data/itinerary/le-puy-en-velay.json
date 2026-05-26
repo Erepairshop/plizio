@@ -14,13 +14,13 @@
       "start": "09:00",
       "end_estimate": "17:45",
       "total_km": 4.2,
-      "stop_count": 6,
+      "stop_count": 5,
       "stops": [
         {
           "name": "Place du Plot",
           "coords": [
-            45.0415,
-            3.8828
+            3.8828,
+            45.0415
           ],
           "category": "square",
           "arrive_at": "09:10",
@@ -37,8 +37,8 @@
         {
           "name": "Cathédrale Notre-Dame du Puy",
           "coords": [
-            45.0431,
-            3.8836
+            3.8836,
+            45.0431
           ],
           "category": "religious",
           "arrive_at": "09:55",
@@ -55,8 +55,8 @@
         {
           "name": "Rocher Corneille (Notre-Dame de France)",
           "coords": [
-            45.045,
-            3.8845
+            3.8845,
+            45.045
           ],
           "category": "historical",
           "arrive_at": "11:30",
@@ -73,8 +73,8 @@
         {
           "name": "Musée Crozatier",
           "coords": [
-            45.038,
-            3.883
+            3.883,
+            45.038
           ],
           "category": "museum",
           "arrive_at": "14:15",
@@ -91,8 +91,8 @@
         {
           "name": "Rocher Saint-Michel d'Aiguilhe",
           "coords": [
-            45.05,
-            3.8825
+            3.8825,
+            45.05
           ],
           "category": "religious",
           "arrive_at": "16:35",
@@ -659,13 +659,13 @@
       "start": "09:00",
       "end_estimate": "16:00",
       "total_km": 15.0,
-      "stop_count": 5,
+      "stop_count": 4,
       "stops": [
         {
           "name": "Hôtel-Dieu",
           "coords": [
-            45.0435,
-            3.8835
+            3.8835,
+            45.0435
           ],
           "category": "historical",
           "arrive_at": "09:10",
@@ -682,8 +682,8 @@
         {
           "name": "Borne Tal",
           "coords": [
-            45.055,
-            3.865
+            3.865,
+            45.055
           ],
           "category": "park",
           "arrive_at": "10:30",
@@ -700,8 +700,8 @@
         {
           "name": "Chibottes de Vals",
           "coords": [
-            45.02,
-            3.87
+            3.87,
+            45.02
           ],
           "category": "historical",
           "arrive_at": "12:15",
@@ -718,8 +718,8 @@
         {
           "name": "Musée Crozatier Park",
           "coords": [
-            45.038,
-            3.883
+            3.883,
+            45.038
           ],
           "category": "park",
           "arrive_at": "13:30",
@@ -1154,14 +1154,14 @@
       "speed_kmh": 18,
       "start": "09:00",
       "end_estimate": "17:00",
-      "total_km": 28.0,
-      "stop_count": 5,
+      "total_km": 45.0,
+      "stop_count": 4,
       "stops": [
         {
           "name": "Saint-Michel d'Aiguilhe",
           "coords": [
-            45.05,
-            3.8825
+            3.8825,
+            45.05
           ],
           "category": "religious",
           "arrive_at": "09:10",
@@ -1178,8 +1178,8 @@
         {
           "name": "Fortress of Polignac",
           "coords": [
-            45.0695,
-            3.859
+            3.859,
+            45.0695
           ],
           "category": "historical",
           "arrive_at": "10:45",
@@ -1196,8 +1196,8 @@
         {
           "name": "Cascade de la Beaume",
           "coords": [
-            44.91,
-            3.92
+            3.92,
+            44.91
           ],
           "category": "park",
           "arrive_at": "13:15",
@@ -1214,8 +1214,8 @@
         {
           "name": "Distillerie Pagès",
           "coords": [
-            45.04,
-            3.9
+            3.9,
+            45.04
           ],
           "category": "industry",
           "arrive_at": "15:00",
@@ -1650,14 +1650,14 @@
       "speed_kmh": 15,
       "start": "09:00",
       "end_estimate": "17:15",
-      "total_km": 12.0,
-      "stop_count": 5,
+      "total_km": 8.5,
+      "stop_count": 4,
       "stops": [
         {
           "name": "Gare du Puy-en-Velay",
           "coords": [
-            45.0425,
-            3.8895
+            3.8895,
+            45.0425
           ],
           "category": "square",
           "arrive_at": "09:10",
@@ -1674,8 +1674,8 @@
         {
           "name": "Cathédrale (Stop Michelet)",
           "coords": [
-            45.0431,
-            3.8836
+            3.8836,
+            45.0431
           ],
           "category": "religious",
           "arrive_at": "09:45",
@@ -1692,8 +1692,8 @@
         {
           "name": "Espace Pagezy",
           "coords": [
-            45.041,
-            3.89
+            3.89,
+            45.041
           ],
           "category": "museum",
           "arrive_at": "11:30",
@@ -1710,8 +1710,8 @@
         {
           "name": "Brives-Charensac (Fluss Borne)",
           "coords": [
-            45.047,
-            3.925
+            3.925,
+            45.047
           ],
           "category": "park",
           "arrive_at": "14:30",

@@ -13,8 +13,8 @@
       "speed_kmh": 3,
       "start": "09:00",
       "end_estimate": "17:45",
-      "total_km": 5.2,
-      "stop_count": 7,
+      "total_km": 3.4,
+      "stop_count": 6,
       "stops": [
         {
           "name": {
@@ -24,8 +24,8 @@
             "en": "Old Port (Vieux-Port)"
           },
           "coords": [
-            43.2952,
-            5.3745
+            5.3745,
+            43.2952
           ],
           "category": "square",
           "arrive_at": "09:10",
@@ -47,8 +47,8 @@
             "en": "Le Panier District"
           },
           "coords": [
-            43.2985,
-            5.3682
+            5.3682,
+            43.2985
           ],
           "category": "historical",
           "arrive_at": "10:05",
@@ -70,8 +70,8 @@
             "en": "Marseille Cathedral (La Major)"
           },
           "coords": [
-            43.2998,
-            43.2998
+            5.3647,
+            43.2977
           ],
           "category": "cathedral",
           "arrive_at": "11:35",
@@ -93,8 +93,8 @@
             "en": "MuCEM Museum"
           },
           "coords": [
-            43.2969,
-            5.3612
+            5.3612,
+            43.2969
           ],
           "category": "museum",
           "arrive_at": "13:00",
@@ -116,8 +116,8 @@
             "en": "Lunch at Quai du Port"
           },
           "coords": [
-            43.2962,
-            5.3695
+            5.3695,
+            43.2962
           ],
           "category": "gastro",
           "arrive_at": "14:50",
@@ -139,8 +139,8 @@
             "en": "Pharo Palace"
           },
           "coords": [
-            43.2945,
-            5.3585
+            5.3585,
+            43.2945
           ],
           "category": "park",
           "arrive_at": "16:35",
@@ -691,8 +691,8 @@
       "speed_kmh": 10,
       "start": "09:00",
       "end_estimate": "16:30",
-      "total_km": 15.0,
-      "stop_count": 6,
+      "total_km": 10.5,
+      "stop_count": 5,
       "stops": [
         {
           "name": {
@@ -702,8 +702,8 @@
             "en": "Old Port Bike Rental"
           },
           "coords": [
-            43.295,
-            5.375
+            5.375,
+            43.295
           ],
           "category": "square",
           "arrive_at": "09:10",
@@ -725,8 +725,8 @@
             "en": "Vallon des Auffes"
           },
           "coords": [
-            43.2852,
-            5.3512
+            5.3512,
+            43.2852
           ],
           "category": "historical",
           "arrive_at": "10:00",
@@ -748,8 +748,8 @@
             "en": "Corniche Kennedy"
           },
           "coords": [
-            43.2785,
-            5.3525
+            5.3525,
+            43.2785
           ],
           "category": "park",
           "arrive_at": "11:10",
@@ -771,8 +771,8 @@
             "en": "Prado Beaches"
           },
           "coords": [
-            43.2625,
-            5.3735
+            5.3735,
+            43.2625
           ],
           "category": "beach",
           "arrive_at": "12:15",
@@ -794,8 +794,8 @@
             "en": "Borély Park"
           },
           "coords": [
-            43.2582,
-            5.3812
+            5.3812,
+            43.2582
           ],
           "category": "park",
           "arrive_at": "14:25",
@@ -1282,8 +1282,8 @@
       "speed_kmh": 18,
       "start": "09:00",
       "end_estimate": "18:30",
-      "total_km": 35.0,
-      "stop_count": 6,
+      "total_km": 27.5,
+      "stop_count": 4,
       "stops": [
         {
           "name": {
@@ -1293,8 +1293,8 @@
             "en": "Basilica of Notre-Dame de la Garde"
           },
           "coords": [
-            43.2842,
-            5.3712
+            5.3712,
+            43.2842
           ],
           "category": "religious",
           "arrive_at": "09:20",
@@ -1316,8 +1316,8 @@
             "en": "Palais Longchamp"
           },
           "coords": [
-            43.3048,
-            5.3942
+            5.3942,
+            43.3048
           ],
           "category": "historical",
           "arrive_at": "11:00",
@@ -1339,8 +1339,8 @@
             "en": "Les Goudes Village"
           },
           "coords": [
-            43.2155,
-            5.3445
+            5.3445,
+            43.2155
           ],
           "category": "historical",
           "arrive_at": "13:00",
@@ -1362,8 +1362,8 @@
             "en": "Calanque de Sormiou"
           },
           "coords": [
-            43.2105,
-            5.4205
+            5.4205,
+            43.2105
           ],
           "category": "beach",
           "arrive_at": "15:00",
@@ -1818,8 +1818,8 @@
       "speed_kmh": 15,
       "start": "09:00",
       "end_estimate": "18:00",
-      "total_km": 20.0,
-      "stop_count": 6,
+      "total_km": 14.0,
+      "stop_count": 4,
       "stops": [
         {
           "name": {
@@ -1829,8 +1829,8 @@
             "en": "Old Port (Metro/Bus)"
           },
           "coords": [
-            43.296,
-            5.375
+            5.375,
+            43.296
           ],
           "category": "square",
           "arrive_at": "09:10",
@@ -1852,8 +1852,8 @@
             "en": "Frioul Islands (Ferry)"
           },
           "coords": [
-            43.279,
-            5.305
+            5.305,
+            43.279
           ],
           "category": "island",
           "arrive_at": "10:15",
@@ -1875,8 +1875,8 @@
             "en": "Notre-Dame de la Garde (Bus 60)"
           },
           "coords": [
-            43.2842,
-            5.3712
+            5.3712,
+            43.2842
           ],
           "category": "religious",
           "arrive_at": "13:30",
@@ -1898,8 +1898,8 @@
             "en": "La Canebière Boulevard"
           },
           "coords": [
-            43.2975,
-            5.3815
+            5.3815,
+            43.2975
           ],
           "category": "historical",
           "arrive_at": "15:15",

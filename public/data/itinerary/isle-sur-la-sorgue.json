@@ -13,14 +13,14 @@
       "speed_kmh": 3,
       "start": "09:00",
       "end_estimate": "17:15",
-      "total_km": 2.2,
+      "total_km": 1.6,
       "stop_count": 5,
       "stops": [
         {
           "name": "Village des antiquaires",
           "coords": [
-            43.918,
-            5.048
+            5.048,
+            43.918
           ],
           "category": "squares/old-town",
           "arrive_at": "09:10",
@@ -37,8 +37,8 @@
         {
           "name": "Collégiale Notre-Dame-des-Anges",
           "coords": [
-            43.919,
-            5.051
+            5.051,
+            43.919
           ],
           "category": "churches/cathedrals",
           "arrive_at": "10:40",
@@ -55,8 +55,8 @@
         {
           "name": "La Tour d'Argent",
           "coords": [
-            43.9195,
-            5.0515
+            5.0515,
+            43.9195
           ],
           "category": "castles/fortresses/towers",
           "arrive_at": "11:40",
@@ -73,8 +73,8 @@
         {
           "name": "Campredon Centre d'Art",
           "coords": [
-            43.921,
-            5.052
+            5.052,
+            43.921
           ],
           "category": "museums",
           "arrive_at": "13:10",
@@ -91,8 +91,8 @@
         {
           "name": "Parc Gautier",
           "coords": [
-            43.918,
-            5.055
+            5.055,
+            43.918
           ],
           "category": "parks/promenades/beaches",
           "arrive_at": "15:05",
@@ -261,8 +261,8 @@
         {
           "name": "Roues à aubes",
           "coords": [
-            43.92,
-            5.053
+            5.053,
+            43.92
           ],
           "category": "industrial heritage",
           "arrive_at": "09:10",
@@ -279,8 +279,8 @@
         {
           "name": "Partage des Eaux",
           "coords": [
-            43.917,
-            5.068
+            5.068,
+            43.917
           ],
           "category": "natural features",
           "arrive_at": "10:15",
@@ -297,8 +297,8 @@
         {
           "name": "Fondation Villa Datris",
           "coords": [
-            43.922,
-            5.05
+            5.05,
+            43.922
           ],
           "category": "museums",
           "arrive_at": "11:45",
@@ -315,8 +315,8 @@
         {
           "name": "Collégiale Notre-Dame-des-Anges",
           "coords": [
-            43.919,
-            5.051
+            5.051,
+            43.919
           ],
           "category": "churches/cathedrals",
           "arrive_at": "13:35",
@@ -333,8 +333,8 @@
         {
           "name": "Village des antiquaires",
           "coords": [
-            43.918,
-            5.048
+            5.048,
+            43.918
           ],
           "category": "squares/old-town",
           "arrive_at": "14:35",
@@ -461,14 +461,14 @@
       "speed_kmh": 20,
       "start": "09:00",
       "end_estimate": "16:30",
-      "total_km": 15.0,
+      "total_km": 9.0,
       "stop_count": 5,
       "stops": [
         {
           "name": "Partage des Eaux",
           "coords": [
-            43.917,
-            5.068
+            5.068,
+            43.917
           ],
           "category": "natural features",
           "arrive_at": "09:15",
@@ -485,8 +485,8 @@
         {
           "name": "Village des antiquaires",
           "coords": [
-            43.918,
-            5.048
+            5.048,
+            43.918
           ],
           "category": "squares/old-town",
           "arrive_at": "10:30",
@@ -503,8 +503,8 @@
         {
           "name": "Collégiale Notre-Dame-des-Anges",
           "coords": [
-            43.919,
-            5.051
+            5.051,
+            43.919
           ],
           "category": "churches/cathedrals",
           "arrive_at": "12:05",
@@ -521,8 +521,8 @@
         {
           "name": "Campredon Centre d'Art",
           "coords": [
-            43.921,
-            5.052
+            5.052,
+            43.921
           ],
           "category": "museums",
           "arrive_at": "13:10",
@@ -539,8 +539,8 @@
         {
           "name": "Parc Gautier",
           "coords": [
-            43.918,
-            5.055
+            5.055,
+            43.918
           ],
           "category": "parks/promenades/beaches",
           "arrive_at": "15:05",
@@ -667,14 +667,14 @@
       "speed_kmh": 15,
       "start": "09:00",
       "end_estimate": "16:45",
-      "total_km": 4.0,
+      "total_km": 2.4,
       "stop_count": 4,
       "stops": [
         {
           "name": "Village des antiquaires",
           "coords": [
-            43.918,
-            5.048
+            5.048,
+            43.918
           ],
           "category": "squares/old-town",
           "arrive_at": "09:15",
@@ -691,8 +691,8 @@
         {
           "name": "Collégiale Notre-Dame-des-Anges",
           "coords": [
-            43.919,
-            5.051
+            5.051,
+            43.919
           ],
           "category": "churches/cathedrals",
           "arrive_at": "10:45",
@@ -709,8 +709,8 @@
         {
           "name": "Campredon Centre d'Art",
           "coords": [
-            43.921,
-            5.052
+            5.052,
+            43.921
           ],
           "category": "museums",
           "arrive_at": "11:50",
@@ -727,8 +727,8 @@
         {
           "name": "Parc Gautier",
           "coords": [
-            43.918,
-            5.055
+            5.055,
+            43.918
           ],
           "category": "parks/promenades/beaches",
           "arrive_at": "13:45",

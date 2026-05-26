@@ -24,8 +24,8 @@
             "en": "Maison de la Montagne"
           },
           "coords": [
-            45.011,
-            6.124
+            6.124,
+            45.011
           ],
           "category": "museums",
           "arrive_at": "09:10",
@@ -47,8 +47,8 @@
             "en": "Lac de la Buissonnière"
           },
           "coords": [
-            45.004,
-            6.128
+            6.128,
+            45.004
           ],
           "category": "parks/promenades/beaches",
           "arrive_at": "10:40",
@@ -70,8 +70,8 @@
             "en": "Musée Chasal Lento"
           },
           "coords": [
-            45.015,
-            6.1235
+            6.1235,
+            45.015
           ],
           "category": "museums",
           "arrive_at": "12:40",
@@ -93,8 +93,8 @@
             "en": "Chapelle Saint-Benoît"
           },
           "coords": [
-            45.016,
-            6.122
+            6.122,
+            45.016
           ],
           "category": "churches/cathedrals",
           "arrive_at": "14:15",
@@ -116,8 +116,8 @@
             "en": "Les Deux Alpes main street"
           },
           "coords": [
-            45.0125,
-            6.1228
+            6.1228,
+            45.0125
           ],
           "category": "squares/old-town",
           "arrive_at": "15:25",
@@ -139,8 +139,8 @@
             "en": "Muzelle viewpoint"
           },
           "coords": [
-            45.01,
-            6.12
+            6.12,
+            45.01
           ],
           "category": "natural features",
           "arrive_at": "16:55",
@@ -298,8 +298,8 @@
             "en": "Les Deux Alpes center"
           },
           "coords": [
-            45.0125,
-            6.1228
+            6.1228,
+            45.0125
           ],
           "category": "squares/old-town",
           "arrive_at": "09:10",
@@ -321,8 +321,8 @@
             "en": "Village de Venosc (Gondola station)"
           },
           "coords": [
-            44.991,
-            6.115
+            6.115,
+            44.991
           ],
           "category": "squares/old-town",
           "arrive_at": "10:10",
@@ -344,8 +344,8 @@
             "en": "Chapelle Saint-Benoît de Venosc"
           },
           "coords": [
-            44.99,
-            6.114
+            6.114,
+            44.99
           ],
           "category": "churches/cathedrals",
           "arrive_at": "11:45",
@@ -367,8 +367,8 @@
             "en": "Guisane bike path (Venosc)"
           },
           "coords": [
-            44.985,
-            6.11
+            6.11,
+            44.985
           ],
           "category": "parks/promenades/beaches",
           "arrive_at": "13:15",
@@ -390,8 +390,8 @@
             "en": "Lac de la Buissonnière"
           },
           "coords": [
-            45.004,
-            6.128
+            6.128,
+            45.004
           ],
           "category": "parks/promenades/beaches",
           "arrive_at": "15:25",
@@ -538,7 +538,7 @@
       "speed_kmh": 20,
       "start": "09:00",
       "end_estimate": "17:15",
-      "total_km": 35.0,
+      "total_km": 22.5,
       "stop_count": 6,
       "stops": [
         {
@@ -549,8 +549,8 @@
             "en": "Les Deux Alpes station"
           },
           "coords": [
-            45.0125,
-            6.1228
+            6.1228,
+            45.0125
           ],
           "category": "squares/old-town",
           "arrive_at": "09:10",
@@ -572,8 +572,8 @@
             "en": "Jandri Express (Glacier access)"
           },
           "coords": [
-            45.0115,
-            6.1245
+            6.1245,
+            45.0115
           ],
           "category": "natural features",
           "arrive_at": "10:15",
@@ -595,8 +595,8 @@
             "en": "Glacier du Mont de Lans"
           },
           "coords": [
-            45.01,
-            6.18
+            6.18,
+            45.01
           ],
           "category": "natural features",
           "arrive_at": "10:45",
@@ -618,8 +618,8 @@
             "en": "Grotte de Glace"
           },
           "coords": [
-            45.011,
-            6.185
+            6.185,
+            45.011
           ],
           "category": "natural features",
           "arrive_at": "12:35",
@@ -641,8 +641,8 @@
             "en": "Belvédère des Écrins"
           },
           "coords": [
-            45.012,
-            6.19
+            6.19,
+            45.012
           ],
           "category": "natural features",
           "arrive_at": "13:45",
@@ -664,8 +664,8 @@
             "en": "Mont de Lans village"
           },
           "coords": [
-            45.035,
-            6.13
+            6.13,
+            45.035
           ],
           "category": "squares/old-town",
           "arrive_at": "15:45",
@@ -823,8 +823,8 @@
             "en": "Shuttle stop station"
           },
           "coords": [
-            45.0125,
-            6.1228
+            6.1228,
+            45.0125
           ],
           "category": "squares/old-town",
           "arrive_at": "09:10",
@@ -846,8 +846,8 @@
             "en": "Venosc gondola station"
           },
           "coords": [
-            45.01,
-            6.121
+            6.121,
+            45.01
           ],
           "category": "natural features",
           "arrive_at": "09:40",
@@ -869,8 +869,8 @@
             "en": "Village de Venosc"
           },
           "coords": [
-            44.991,
-            6.115
+            6.115,
+            44.991
           ],
           "category": "squares/old-town",
           "arrive_at": "10:30",
@@ -892,8 +892,8 @@
             "en": "Chapelle Saint-Benoît"
           },
           "coords": [
-            44.99,
-            6.114
+            6.114,
+            44.99
           ],
           "category": "churches/cathedrals",
           "arrive_at": "12:45",
@@ -915,8 +915,8 @@
             "en": "Lac de la Buissonnière (via shuttle)"
           },
           "coords": [
-            45.004,
-            6.128
+            6.128,
+            45.004
           ],
           "category": "parks/promenades/beaches",
           "arrive_at": "15:30",

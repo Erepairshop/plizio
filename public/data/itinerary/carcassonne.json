@@ -73,8 +73,8 @@
         {
           "name": "Lices de la Cité",
           "coords": [
-            2.3662,
-            2.3662
+            2.3612,
+            43.2077
           ],
           "category": "park",
           "arrive_at": "14:10",
@@ -703,7 +703,7 @@
       "speed_kmh": 10,
       "start": "09:00",
       "end_estimate": "17:00",
-      "total_km": 15.5,
+      "total_km": 23.5,
       "stop_count": 5,
       "stops": [
         {
@@ -1244,7 +1244,7 @@
       "speed_kmh": 25,
       "start": "09:00",
       "end_estimate": "17:30",
-      "total_km": 42.0,
+      "total_km": 50.0,
       "stop_count": 5,
       "stops": [
         {

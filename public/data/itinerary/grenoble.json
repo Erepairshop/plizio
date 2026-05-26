@@ -13,7 +13,7 @@
       "speed_kmh": 3,
       "start": "09:00",
       "end_estimate": "18:20",
-      "total_km": 4.2,
+      "total_km": 2.3,
       "stop_count": 7,
       "stops": [
         {
@@ -24,8 +24,8 @@
             "en": "Victor Hugo Square"
           },
           "coords": [
-            45.1895,
-            5.7235
+            5.7235,
+            45.1895
           ],
           "category": "square",
           "arrive_at": "09:10",
@@ -47,8 +47,8 @@
             "en": "Jardin de Ville"
           },
           "coords": [
-            45.1915,
-            5.7265
+            5.7265,
+            45.1915
           ],
           "category": "park",
           "arrive_at": "10:00",
@@ -70,8 +70,8 @@
             "en": "Bastille Cable Car"
           },
           "coords": [
-            45.192,
-            5.725
+            5.725,
+            45.192
           ],
           "category": "landmark",
           "arrive_at": "11:00",
@@ -93,8 +93,8 @@
             "en": "Bastille Fort"
           },
           "coords": [
-            45.1985,
-            5.725
+            5.725,
+            45.1985
           ],
           "category": "historical",
           "arrive_at": "11:30",
@@ -116,8 +116,8 @@
             "en": "Place aux Herbes"
           },
           "coords": [
-            45.1925,
-            5.7295
+            5.7295,
+            45.1925
           ],
           "category": "gastro",
           "arrive_at": "13:30",
@@ -139,8 +139,8 @@
             "en": "Notre-Dame Cathedral"
           },
           "coords": [
-            45.193,
-            5.731
+            5.731,
+            45.193
           ],
           "category": "religious",
           "arrive_at": "15:15",
@@ -162,8 +162,8 @@
             "en": "Musée de Grenoble"
           },
           "coords": [
-            45.1945,
-            5.733
+            5.733,
+            45.1945
           ],
           "category": "museum",
           "arrive_at": "16:30",
@@ -837,8 +837,8 @@
             "en": "Banks of the Isère"
           },
           "coords": [
-            45.195,
-            5.731
+            5.731,
+            45.195
           ],
           "category": "park",
           "arrive_at": "09:15",
@@ -860,8 +860,8 @@
             "en": "Parc Paul Mistral"
           },
           "coords": [
-            45.1865,
-            5.736
+            5.736,
+            45.1865
           ],
           "category": "park",
           "arrive_at": "10:15",
@@ -883,8 +883,8 @@
             "en": "Saint-Bruno Quarter"
           },
           "coords": [
-            45.187,
-            5.715
+            5.715,
+            45.187
           ],
           "category": "gastro",
           "arrive_at": "11:45",
@@ -906,8 +906,8 @@
             "en": "Stade des Alpes"
           },
           "coords": [
-            45.1855,
-            5.741
+            5.741,
+            45.1855
           ],
           "category": "landmark",
           "arrive_at": "13:45",
@@ -929,8 +929,8 @@
             "en": "Natural History Museum"
           },
           "coords": [
-            45.188,
-            5.7325
+            5.7325,
+            45.188
           ],
           "category": "museum",
           "arrive_at": "14:45",
@@ -952,8 +952,8 @@
             "en": "Place Grenette"
           },
           "coords": [
-            45.191,
-            5.7275
+            5.7275,
+            45.191
           ],
           "category": "square",
           "arrive_at": "16:30",
@@ -1584,7 +1584,7 @@
       "speed_kmh": 18,
       "start": "09:00",
       "end_estimate": "17:30",
-      "total_km": 38.0,
+      "total_km": 58.5,
       "stop_count": 5,
       "stops": [
         {
@@ -1595,8 +1595,8 @@
             "en": "Vizille Castle"
           },
           "coords": [
-            45.076,
-            5.772
+            5.772,
+            45.076
           ],
           "category": "historical",
           "arrive_at": "09:30",
@@ -1618,8 +1618,8 @@
             "en": "Uriage-les-Bains"
           },
           "coords": [
-            45.129,
-            5.834
+            5.834,
+            45.129
           ],
           "category": "landmark",
           "arrive_at": "12:00",
@@ -1641,8 +1641,8 @@
             "en": "Saint-Nizier-du-Moucherotte"
           },
           "coords": [
-            45.172,
-            5.626
+            5.626,
+            45.172
           ],
           "category": "landmark",
           "arrive_at": "14:15",
@@ -1664,8 +1664,8 @@
             "en": "1968 Winter Olympics Stadium Site"
           },
           "coords": [
-            45.185,
-            5.742
+            5.742,
+            45.185
           ],
           "category": "historical",
           "arrive_at": "15:45",
@@ -1687,8 +1687,8 @@
             "en": "Palais des Sports"
           },
           "coords": [
-            45.186,
-            5.739
+            5.739,
+            45.186
           ],
           "category": "landmark",
           "arrive_at": "16:45",
@@ -2298,8 +2298,8 @@
             "en": "Grenoble Station"
           },
           "coords": [
-            45.1915,
-            5.7145
+            5.7145,
+            45.1915
           ],
           "category": "landmark",
           "arrive_at": "09:10",
@@ -2321,8 +2321,8 @@
             "en": "Place de Verdun"
           },
           "coords": [
-            45.189,
-            5.732
+            5.732,
+            45.189
           ],
           "category": "square",
           "arrive_at": "10:15",
@@ -2344,8 +2344,8 @@
             "en": "Museum of Resistance"
           },
           "coords": [
-            45.1885,
-            5.7335
+            5.7335,
+            45.1885
           ],
           "category": "museum",
           "arrive_at": "11:15",
@@ -2367,8 +2367,8 @@
             "en": "Place Sainte-Claire"
           },
           "coords": [
-            45.192,
-            5.7305
+            5.7305,
+            45.192
           ],
           "category": "gastro",
           "arrive_at": "13:15",
@@ -2390,8 +2390,8 @@
             "en": "MC2: Grenoble"
           },
           "coords": [
-            45.17,
-            5.735
+            5.735,
+            45.17
           ],
           "category": "landmark",
           "arrive_at": "15:15",
@@ -2413,8 +2413,8 @@
             "en": "La Belle Électrique"
           },
           "coords": [
-            45.1865,
-            5.708
+            5.708,
+            45.1865
           ],
           "category": "landmark",
           "arrive_at": "16:45",

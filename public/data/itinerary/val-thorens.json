@@ -772,7 +772,7 @@
       "start": "09:00",
       "end_estimate": "16:30",
       "total_km": 15.5,
-      "stop_count": 5,
+      "stop_count": 4,
       "stops": [
         {
           "name": {
@@ -864,29 +864,6 @@
             "hu": "Jeges közelség a gleccserhez.",
             "ro": "Apropiere înghețată de ghețar.",
             "en": "Icy proximity to the glacier."
-          }
-        },
-        {
-          "name": {
-            "de": "Place Caron",
-            "hu": "Place Caron",
-            "ro": "Place Caron",
-            "en": "Place Caron"
-          },
-          "coords": [
-            6.58,
-            45.298
-          ],
-          "category": "squares/old-town",
-          "arrive_at": "15:30",
-          "stay_min": 30,
-          "hop_from_prev_min": 30,
-          "hop_from_prev_km": 1.0,
-          "tip_5lang": {
-            "de": "Zurück im Basislager.",
-            "hu": "Vissza a bázisra.",
-            "ro": "Înapoi în tabăra de bază.",
-            "en": "Back at base camp."
           }
         }
       ],
@@ -1370,8 +1347,8 @@
       "speed_kmh": 15,
       "start": "09:00",
       "end_estimate": "17:00",
-      "total_km": 12.0,
-      "stop_count": 5,
+      "total_km": 8.4,
+      "stop_count": 4,
       "stops": [
         {
           "name": {
@@ -1463,29 +1440,6 @@
             "hu": "Repüljön, mint a sas a hegyek felett.",
             "ro": "Zboară ca un vultur peste munți.",
             "en": "Fly like an eagle over the mountains."
-          }
-        },
-        {
-          "name": {
-            "de": "Place Caron",
-            "hu": "Place Caron",
-            "ro": "Place Caron",
-            "en": "Place Caron"
-          },
-          "coords": [
-            6.58,
-            45.298
-          ],
-          "category": "squares/old-town",
-          "arrive_at": "15:45",
-          "stay_min": 45,
-          "hop_from_prev_min": 55,
-          "hop_from_prev_km": 3.6,
-          "tip_5lang": {
-            "de": "Abschluss im Zentrum.",
-            "hu": "Zárás a központban.",
-            "ro": "Încheiere în centru.",
-            "en": "Ending in the center."
           }
         }
       ],

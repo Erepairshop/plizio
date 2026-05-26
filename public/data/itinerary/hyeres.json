@@ -19,8 +19,8 @@
         {
           "name": "Place Massillon",
           "coords": [
-            43.1208,
-            6.1289
+            6.1289,
+            43.1208
           ],
           "category": "square",
           "arrive_at": "09:00",
@@ -37,8 +37,8 @@
         {
           "name": "Tour des Templiers",
           "coords": [
-            43.1211,
-            6.1285
+            6.1285,
+            43.1211
           ],
           "category": "historical",
           "arrive_at": "09:44",
@@ -55,8 +55,8 @@
         {
           "name": "Collégiale Saint-Paul",
           "coords": [
-            43.1215,
-            6.1282
+            6.1282,
+            43.1215
           ],
           "category": "religious",
           "arrive_at": "10:38",
@@ -73,8 +73,8 @@
         {
           "name": "Villa Noailles",
           "coords": [
-            43.1245,
-            6.1265
+            6.1265,
+            43.1245
           ],
           "category": "museum",
           "arrive_at": "11:45",
@@ -91,8 +91,8 @@
         {
           "name": "Parc Saint-Bernard",
           "coords": [
-            43.125,
-            6.127
+            6.127,
+            43.125
           ],
           "category": "park",
           "arrive_at": "13:27",
@@ -109,8 +109,8 @@
         {
           "name": "Vieux Hyères Gastro",
           "coords": [
-            43.121,
-            6.129
+            6.129,
+            43.121
           ],
           "category": "gastro",
           "arrive_at": "15:35",
@@ -127,8 +127,8 @@
         {
           "name": "Jardin Olbius Riquier",
           "coords": [
-            43.111,
-            6.131
+            6.131,
+            43.111
           ],
           "category": "park",
           "arrive_at": "17:25",
@@ -762,8 +762,8 @@
         {
           "name": "Port Saint-Pierre",
           "coords": [
-            43.083,
-            6.158
+            6.158,
+            43.083
           ],
           "category": "port",
           "arrive_at": "09:00",
@@ -780,8 +780,8 @@
         {
           "name": "Les Salins d'Hyères",
           "coords": [
-            43.115,
-            6.195
+            6.195,
+            43.115
           ],
           "category": "park",
           "arrive_at": "10:05",
@@ -798,8 +798,8 @@
         {
           "name": "L'Almanarre Beach",
           "coords": [
-            43.078,
-            6.13
+            6.13,
+            43.078
           ],
           "category": "beach",
           "arrive_at": "12:35",
@@ -816,8 +816,8 @@
         {
           "name": "Route du Sel",
           "coords": [
-            43.055,
-            6.135
+            6.135,
+            43.055
           ],
           "category": "park",
           "arrive_at": "14:50",
@@ -834,8 +834,8 @@
         {
           "name": "Village de Giens",
           "coords": [
-            43.045,
-            6.138
+            6.138,
+            43.045
           ],
           "category": "historical",
           "arrive_at": "15:58",
@@ -852,8 +852,8 @@
         {
           "name": "Port du Niel",
           "coords": [
-            43.038,
-            6.128
+            6.128,
+            43.038
           ],
           "category": "port",
           "arrive_at": "17:10",
@@ -1423,13 +1423,13 @@
       "start": "09:00",
       "end_estimate": "18:30",
       "total_km": 42.0,
-      "stop_count": 6,
+      "stop_count": 5,
       "stops": [
         {
           "name": "Hyères Centre-Ville",
           "coords": [
-            43.1205,
-            6.1286
+            6.1286,
+            43.1205
           ],
           "category": "square",
           "arrive_at": "09:00",
@@ -1446,8 +1446,8 @@
         {
           "name": "La Tour Fondue",
           "coords": [
-            43.027,
-            6.155
+            6.155,
+            43.027
           ],
           "category": "historical",
           "arrive_at": "11:15",
@@ -1464,8 +1464,8 @@
         {
           "name": "Plage de la Badine",
           "coords": [
-            43.04,
-            6.145
+            6.145,
+            43.04
           ],
           "category": "beach",
           "arrive_at": "12:25",
@@ -1482,8 +1482,8 @@
         {
           "name": "Bormes-les-Mimosas",
           "coords": [
-            43.151,
-            6.342
+            6.342,
+            43.151
           ],
           "category": "city",
           "arrive_at": "16:00",
@@ -1500,8 +1500,8 @@
         {
           "name": "Fort de Brégançon View",
           "coords": [
-            43.093,
-            6.321
+            6.321,
+            43.093
           ],
           "category": "historical",
           "arrive_at": "18:00",
@@ -1971,14 +1971,14 @@
       "speed_kmh": 15,
       "start": "09:00",
       "end_estimate": "17:45",
-      "total_km": 14.5,
+      "total_km": 24.5,
       "stop_count": 5,
       "stops": [
         {
           "name": "Place Louis Gautier",
           "coords": [
-            43.12,
-            6.13
+            6.13,
+            43.12
           ],
           "category": "square",
           "arrive_at": "09:00",
@@ -1995,8 +1995,8 @@
         {
           "name": "Port Saint-Pierre",
           "coords": [
-            43.083,
-            6.158
+            6.158,
+            43.083
           ],
           "category": "port",
           "arrive_at": "10:05",
@@ -2013,8 +2013,8 @@
         {
           "name": "Giens Village",
           "coords": [
-            43.045,
-            6.138
+            6.138,
+            43.045
           ],
           "category": "historical",
           "arrive_at": "11:30",
@@ -2031,8 +2031,8 @@
         {
           "name": "Plage de la Capte",
           "coords": [
-            43.065,
-            6.148
+            6.148,
+            43.065
           ],
           "category": "beach",
           "arrive_at": "13:10",
@@ -2049,8 +2049,8 @@
         {
           "name": "Vieux Hyères",
           "coords": [
-            43.1205,
-            6.1286
+            6.1286,
+            43.1205
           ],
           "category": "historical",
           "arrive_at": "16:45",

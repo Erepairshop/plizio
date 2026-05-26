@@ -13,7 +13,7 @@
       "speed_kmh": 3.5,
       "start": "09:00",
       "end_estimate": "17:30",
-      "total_km": 4.5,
+      "total_km": 3.5,
       "stop_count": 6,
       "stops": [
         {
@@ -674,7 +674,7 @@
       "start": "09:00",
       "end_estimate": "17:00",
       "total_km": 12.0,
-      "stop_count": 5,
+      "stop_count": 4,
       "stops": [
         {
           "name": "Gare de Verdun",
@@ -746,24 +746,6 @@
             "hu": "Könnyen elérhető a központból.",
             "ro": "Acces ușor din centrul orașului.",
             "en": "Easy access from the city center."
-          }
-        },
-        {
-          "name": "Gare de Verdun",
-          "coords": [
-            5.378,
-            49.165
-          ],
-          "category": "historical",
-          "arrive_at": "16:15",
-          "stay_min": 30,
-          "hop_from_prev_min": 15,
-          "hop_from_prev_km": 1.0,
-          "tip_5lang": {
-            "de": "Rückfahrt mit dem Regionalzug.",
-            "hu": "Visszautazás a regionális vonattal.",
-            "ro": "Întoarcerea cu trenul regional.",
-            "en": "Return journey by regional train."
           }
         }
       ],

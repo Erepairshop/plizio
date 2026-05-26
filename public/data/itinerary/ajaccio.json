@@ -1584,7 +1584,7 @@
       "speed_kmh": 22,
       "start": "09:00",
       "end_estimate": "17:30",
-      "total_km": 35.0,
+      "total_km": 27.6,
       "stop_count": 6,
       "stops": [
         {
@@ -2238,8 +2238,8 @@
       "speed_kmh": 15,
       "start": "09:00",
       "end_estimate": "17:40",
-      "total_km": 30.2,
-      "stop_count": 6,
+      "total_km": 24.2,
+      "stop_count": 5,
       "stops": [
         {
           "name": {
@@ -2354,29 +2354,6 @@
             "hu": "Buszmegálló közvetlenül a Casone-nál.",
             "ro": "Stație de autobuz chiar la Casone.",
             "en": "Bus stop right at Casone."
-          }
-        },
-        {
-          "name": {
-            "de": "Place Foch",
-            "hu": "Place Foch",
-            "ro": "Place Foch",
-            "en": "Place Foch"
-          },
-          "coords": [
-            8.7385,
-            41.9192
-          ],
-          "category": "squares/old-town",
-          "arrive_at": "17:15",
-          "stay_min": 45,
-          "hop_from_prev_min": 20,
-          "hop_from_prev_km": 1.5,
-          "tip_5lang": {
-            "de": "Rückkehr ins Stadtzentrum.",
-            "hu": "Visszatérés a városközpontba.",
-            "ro": "Revenire în centrul orașului.",
-            "en": "Return to the city center."
           }
         }
       ],

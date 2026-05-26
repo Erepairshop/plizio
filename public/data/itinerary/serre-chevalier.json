@@ -24,8 +24,8 @@
             "en": "Cité Vauban"
           },
           "coords": [
-            44.9008,
-            6.6432
+            6.6432,
+            44.9008
           ],
           "category": "squares/old-town",
           "arrive_at": "09:10",
@@ -47,8 +47,8 @@
             "en": "Collégiale Notre-Dame-et-Saint-Nicolas"
           },
           "coords": [
-            44.9005,
-            6.6441
+            6.6441,
+            44.9005
           ],
           "category": "churches/cathedrals",
           "arrive_at": "10:45",
@@ -70,8 +70,8 @@
             "en": "Pont d'Asfeld"
           },
           "coords": [
-            44.9002,
-            6.6465
+            6.6465,
+            44.9002
           ],
           "category": "bridges/lighthouses",
           "arrive_at": "12:00",
@@ -93,8 +93,8 @@
             "en": "Fort des Têtes"
           },
           "coords": [
-            44.9015,
-            6.6515
+            6.6515,
+            44.9015
           ],
           "category": "castles/fortresses/towers",
           "arrive_at": "13:20",
@@ -116,8 +116,8 @@
             "en": "Parc national des Écrins"
           },
           "coords": [
-            44.905,
-            6.648
+            6.648,
+            44.905
           ],
           "category": "parks/promenades/beaches",
           "arrive_at": "15:25",
@@ -275,8 +275,8 @@
             "en": "Briançon center"
           },
           "coords": [
-            44.897,
-            6.635
+            6.635,
+            44.897
           ],
           "category": "squares/old-town",
           "arrive_at": "09:10",
@@ -298,8 +298,8 @@
             "en": "Guisane river bike path"
           },
           "coords": [
-            44.915,
-            6.6
+            6.6,
+            44.915
           ],
           "category": "parks/promenades/beaches",
           "arrive_at": "10:15",
@@ -321,8 +321,8 @@
             "en": "Chantemerle village square"
           },
           "coords": [
-            44.933,
-            6.587
+            6.587,
+            44.933
           ],
           "category": "squares/old-town",
           "arrive_at": "11:25",
@@ -344,8 +344,8 @@
             "en": "Les Grands Bains du Monêtier"
           },
           "coords": [
-            44.975,
-            6.508
+            6.508,
+            44.975
           ],
           "category": "natural features",
           "arrive_at": "13:40",
@@ -367,8 +367,8 @@
             "en": "Le Monêtier-les-Bains church"
           },
           "coords": [
-            44.976,
-            6.507
+            6.507,
+            44.976
           ],
           "category": "churches/cathedrals",
           "arrive_at": "15:45",
@@ -515,7 +515,7 @@
       "speed_kmh": 25,
       "start": "09:00",
       "end_estimate": "17:15",
-      "total_km": 54.0,
+      "total_km": 44.1,
       "stop_count": 6,
       "stops": [
         {
@@ -526,8 +526,8 @@
             "en": "Briançon Old Town"
           },
           "coords": [
-            44.9008,
-            6.6432
+            6.6432,
+            44.9008
           ],
           "category": "squares/old-town",
           "arrive_at": "09:10",
@@ -549,8 +549,8 @@
             "en": "Fort du Randouillet"
           },
           "coords": [
-            44.904,
-            6.655
+            6.655,
+            44.904
           ],
           "category": "castles/fortresses/towers",
           "arrive_at": "10:45",
@@ -572,8 +572,8 @@
             "en": "Les Grands Bains du Monêtier"
           },
           "coords": [
-            44.975,
-            6.508
+            6.508,
+            44.975
           ],
           "category": "natural features",
           "arrive_at": "12:15",
@@ -595,8 +595,8 @@
             "en": "Col du Lautaret"
           },
           "coords": [
-            45.035,
-            6.402
+            6.402,
+            45.035
           ],
           "category": "natural features",
           "arrive_at": "14:25",
@@ -618,8 +618,8 @@
             "en": "Jardin Botanique Alpin du Lautaret"
           },
           "coords": [
-            45.0355,
-            6.401
+            6.401,
+            45.0355
           ],
           "category": "parks/promenades/beaches",
           "arrive_at": "15:05",
@@ -641,8 +641,8 @@
             "en": "Le Casset village"
           },
           "coords": [
-            44.985,
-            6.48
+            6.48,
+            44.985
           ],
           "category": "squares/old-town",
           "arrive_at": "16:55",
@@ -800,8 +800,8 @@
             "en": "Briançon train station"
           },
           "coords": [
-            44.891,
-            6.632
+            6.632,
+            44.891
           ],
           "category": "squares/old-town",
           "arrive_at": "09:10",
@@ -823,8 +823,8 @@
             "en": "Cité Vauban (Bus stop)"
           },
           "coords": [
-            44.9,
-            6.642
+            6.642,
+            44.9
           ],
           "category": "squares/old-town",
           "arrive_at": "10:00",
@@ -846,8 +846,8 @@
             "en": "Prorel Cable Car"
           },
           "coords": [
-            44.896,
-            6.634
+            6.634,
+            44.896
           ],
           "category": "natural features",
           "arrive_at": "12:15",
@@ -869,8 +869,8 @@
             "en": "Chantemerle - Serre Ratier"
           },
           "coords": [
-            44.935,
-            6.57
+            6.57,
+            44.935
           ],
           "category": "parks/promenades/beaches",
           "arrive_at": "14:45",
@@ -892,8 +892,8 @@
             "en": "Briançon Sainte-Catherine"
           },
           "coords": [
-            44.895,
-            6.638
+            6.638,
+            44.895
           ],
           "category": "squares/old-town",
           "arrive_at": "16:45",

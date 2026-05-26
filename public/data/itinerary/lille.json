@@ -19,8 +19,8 @@
         {
           "name": "Grand Place",
           "coords": [
-            50.6371,
-            3.0635
+            3.0635,
+            50.6371
           ],
           "category": "square",
           "arrive_at": "09:10",
@@ -37,8 +37,8 @@
         {
           "name": "Vieille Bourse",
           "coords": [
-            50.6373,
-            3.0645
+            3.0645,
+            50.6373
           ],
           "category": "historical",
           "arrive_at": "10:00",
@@ -55,8 +55,8 @@
         {
           "name": "Cathédrale Notre-Dame-de-la-Treille",
           "coords": [
-            50.6401,
-            3.0622
+            3.0622,
+            50.6401
           ],
           "category": "religious",
           "arrive_at": "11:05",
@@ -73,8 +73,8 @@
         {
           "name": "Hospice Comtesse",
           "coords": [
-            50.6412,
-            3.0632
+            3.0632,
+            50.6412
           ],
           "category": "museum",
           "arrive_at": "12:10",
@@ -91,8 +91,8 @@
         {
           "name": "Citadelle de Lille",
           "coords": [
-            50.6405,
-            3.0455
+            3.0455,
+            50.6405
           ],
           "category": "historical",
           "arrive_at": "14:15",
@@ -109,8 +109,8 @@
         {
           "name": "Palais des Beaux-Arts",
           "coords": [
-            50.6312,
-            3.0625
+            3.0625,
+            50.6312
           ],
           "category": "museum",
           "arrive_at": "16:40",
@@ -743,14 +743,14 @@
       "speed_kmh": 10,
       "start": "09:00",
       "end_estimate": "17:00",
-      "total_km": 12.5,
-      "stop_count": 6,
+      "total_km": 10.5,
+      "stop_count": 5,
       "stops": [
         {
           "name": "Grand Place",
           "coords": [
-            50.6371,
-            3.0635
+            3.0635,
+            50.6371
           ],
           "category": "square",
           "arrive_at": "09:10",
@@ -767,8 +767,8 @@
         {
           "name": "Wazemmes Market",
           "coords": [
-            50.6255,
-            3.0505
+            3.0505,
+            50.6255
           ],
           "category": "gastro",
           "arrive_at": "10:00",
@@ -785,8 +785,8 @@
         {
           "name": "Palais des Beaux-Arts",
           "coords": [
-            50.6312,
-            3.0625
+            3.0625,
+            50.6312
           ],
           "category": "museum",
           "arrive_at": "11:40",
@@ -803,8 +803,8 @@
         {
           "name": "Parc de la Citadelle",
           "coords": [
-            50.6405,
-            3.0455
+            3.0455,
+            50.6405
           ],
           "category": "park",
           "arrive_at": "13:50",
@@ -821,8 +821,8 @@
         {
           "name": "Gare Saint-Sauveur",
           "coords": [
-            50.6275,
-            3.0725
+            3.0725,
+            50.6275
           ],
           "category": "historical",
           "arrive_at": "16:15",
@@ -1316,14 +1316,14 @@
       "speed_kmh": 20,
       "start": "09:00",
       "end_estimate": "17:30",
-      "total_km": 25.0,
+      "total_km": 21.0,
       "stop_count": 5,
       "stops": [
         {
           "name": "Euralille",
           "coords": [
-            50.6385,
-            3.0765
+            3.0765,
+            50.6385
           ],
           "category": "shopping",
           "arrive_at": "09:15",
@@ -1340,8 +1340,8 @@
         {
           "name": "Vieux Lille",
           "coords": [
-            50.6405,
-            3.0625
+            3.0625,
+            50.6405
           ],
           "category": "historical",
           "arrive_at": "10:30",
@@ -1358,8 +1358,8 @@
         {
           "name": "Citadelle de Lille",
           "coords": [
-            50.6405,
-            3.0455
+            3.0455,
+            50.6405
           ],
           "category": "park",
           "arrive_at": "12:10",
@@ -1376,8 +1376,8 @@
         {
           "name": "Villa Cavrois (Croix)",
           "coords": [
-            50.6675,
-            3.1665
+            3.1665,
+            50.6675
           ],
           "category": "historical",
           "arrive_at": "14:20",
@@ -1394,8 +1394,8 @@
         {
           "name": "La Piscine (Roubaix)",
           "coords": [
-            50.6935,
-            3.1675
+            3.1675,
+            50.6935
           ],
           "category": "museum",
           "arrive_at": "16:20",
@@ -1927,8 +1927,8 @@
         {
           "name": "Gare Lille Flandres",
           "coords": [
-            50.6365,
-            3.0695
+            3.0695,
+            50.6365
           ],
           "category": "historical",
           "arrive_at": "09:15",
@@ -1945,8 +1945,8 @@
         {
           "name": "Palais des Beaux-Arts",
           "coords": [
-            50.6312,
-            3.0625
+            3.0625,
+            50.6312
           ],
           "category": "museum",
           "arrive_at": "10:15",
@@ -1963,8 +1963,8 @@
         {
           "name": "Wazemmes",
           "coords": [
-            50.6255,
-            3.0505
+            3.0505,
+            50.6255
           ],
           "category": "gastro",
           "arrive_at": "12:20",
@@ -1981,8 +1981,8 @@
         {
           "name": "Citadelle (Champ de Mars)",
           "coords": [
-            50.6405,
-            3.0455
+            3.0455,
+            50.6405
           ],
           "category": "park",
           "arrive_at": "14:15",
@@ -1999,8 +1999,8 @@
         {
           "name": "Euralille",
           "coords": [
-            50.6385,
-            3.0765
+            3.0765,
+            50.6385
           ],
           "category": "shopping",
           "arrive_at": "16:40",

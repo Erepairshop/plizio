@@ -24,8 +24,8 @@
             "en": "Port of Le Palais"
           },
           "coords": [
-            47.3475,
-            -3.1535
+            -3.1535,
+            47.3475
           ],
           "category": "squares/old-town",
           "arrive_at": "09:10",
@@ -47,8 +47,8 @@
             "en": "Vauban Citadel"
           },
           "coords": [
-            47.3485,
-            -3.1505
+            -3.1505,
+            47.3485
           ],
           "category": "castles/fortresses/towers",
           "arrive_at": "10:05",
@@ -70,8 +70,8 @@
             "en": "Quai de l'Acadie"
           },
           "coords": [
-            47.346,
-            -3.155
+            -3.155,
+            47.346
           ],
           "category": "parks/promenades/beaches",
           "arrive_at": "11:45",
@@ -93,8 +93,8 @@
             "en": "Lunch in the center"
           },
           "coords": [
-            47.3465,
-            -3.154
+            -3.154,
+            47.3465
           ],
           "category": "gastro",
           "arrive_at": "12:20",
@@ -116,8 +116,8 @@
             "en": "Ramonette Beach"
           },
           "coords": [
-            47.343,
-            -3.148
+            -3.148,
+            47.343
           ],
           "category": "parks/promenades/beaches",
           "arrive_at": "14:10",
@@ -656,8 +656,8 @@
             "en": "Port of Le Palais"
           },
           "coords": [
-            47.347,
-            -3.153
+            -3.153,
+            47.347
           ],
           "category": "squares/old-town",
           "arrive_at": "09:10",
@@ -679,8 +679,8 @@
             "en": "Port of Sauzon"
           },
           "coords": [
-            47.371,
-            -3.218
+            -3.218,
+            47.371
           ],
           "category": "squares/old-town",
           "arrive_at": "10:20",
@@ -702,8 +702,8 @@
             "en": "Pointe des Poulains"
           },
           "coords": [
-            47.385,
-            -3.251
+            -3.251,
+            47.385
           ],
           "category": "natural features (caves, viewpoints)",
           "arrive_at": "11:30",
@@ -725,8 +725,8 @@
             "en": "Sarah Bernhardt's Fort"
           },
           "coords": [
-            47.3835,
-            -3.249
+            -3.249,
+            47.3835
           ],
           "category": "famous residences",
           "arrive_at": "12:30",
@@ -748,8 +748,8 @@
             "en": "Apothicairerie Cave"
           },
           "coords": [
-            47.361,
-            -3.258
+            -3.258,
+            47.361
           ],
           "category": "natural features (caves, viewpoints)",
           "arrive_at": "13:50",
@@ -771,8 +771,8 @@
             "en": "Grand Lighthouse (Goulphar)"
           },
           "coords": [
-            47.314,
-            -3.22
+            -3.22,
+            47.314
           ],
           "category": "bridges/lighthouses",
           "arrive_at": "15:20",
@@ -1310,8 +1310,8 @@
             "en": "Vauban Citadel"
           },
           "coords": [
-            47.348,
-            -3.151
+            -3.151,
+            47.348
           ],
           "category": "castles/fortresses/towers",
           "arrive_at": "09:15",
@@ -1333,8 +1333,8 @@
             "en": "Pointe des Poulains"
           },
           "coords": [
-            47.385,
-            -3.251
+            -3.251,
+            47.385
           ],
           "category": "natural features (caves, viewpoints)",
           "arrive_at": "11:00",
@@ -1356,8 +1356,8 @@
             "en": "Sarah Bernhardt's Fort"
           },
           "coords": [
-            47.3835,
-            -3.249
+            -3.249,
+            47.3835
           ],
           "category": "famous residences",
           "arrive_at": "12:00",
@@ -1379,8 +1379,8 @@
             "en": "Donnant Beach"
           },
           "coords": [
-            47.323,
-            -3.232
+            -3.232,
+            47.323
           ],
           "category": "parks/promenades/beaches",
           "arrive_at": "13:20",
@@ -1402,8 +1402,8 @@
             "en": "Aiguilles de Port Coton"
           },
           "coords": [
-            47.311,
-            -3.242
+            -3.242,
+            47.311
           ],
           "category": "natural features (caves, viewpoints)",
           "arrive_at": "15:35",
@@ -1425,8 +1425,8 @@
             "en": "Grand Lighthouse"
           },
           "coords": [
-            47.314,
-            -3.22
+            -3.22,
+            47.314
           ],
           "category": "bridges/lighthouses",
           "arrive_at": "16:25",
@@ -1448,8 +1448,8 @@
             "en": "Port of Le Palais"
           },
           "coords": [
-            47.347,
-            -3.153
+            -3.153,
+            47.347
           ],
           "category": "squares/old-town",
           "arrive_at": "17:35",
@@ -2008,7 +2008,7 @@
       "speed_kmh": 15,
       "start": "09:00",
       "end_estimate": "17:15",
-      "total_km": 28.0,
+      "total_km": 34.0,
       "stop_count": 5,
       "stops": [
         {
@@ -2019,8 +2019,8 @@
             "en": "Port of Le Palais"
           },
           "coords": [
-            47.347,
-            -3.153
+            -3.153,
+            47.347
           ],
           "category": "squares/old-town",
           "arrive_at": "09:10",
@@ -2042,8 +2042,8 @@
             "en": "Sauzon (Port)"
           },
           "coords": [
-            47.371,
-            -3.218
+            -3.218,
+            47.371
           ],
           "category": "squares/old-town",
           "arrive_at": "10:15",
@@ -2065,8 +2065,8 @@
             "en": "Pointe des Poulains"
           },
           "coords": [
-            47.385,
-            -3.251
+            -3.251,
+            47.385
           ],
           "category": "natural features (caves, viewpoints)",
           "arrive_at": "11:35",
@@ -2088,8 +2088,8 @@
             "en": "Grand Lighthouse"
           },
           "coords": [
-            47.314,
-            -3.22
+            -3.22,
+            47.314
           ],
           "category": "bridges/lighthouses",
           "arrive_at": "13:50",
@@ -2111,8 +2111,8 @@
             "en": "Vauban Citadel"
           },
           "coords": [
-            47.348,
-            -3.151
+            -3.151,
+            47.348
           ],
           "category": "castles/fortresses/towers",
           "arrive_at": "15:35",

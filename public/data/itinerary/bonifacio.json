@@ -13,8 +13,8 @@
       "speed_kmh": 3,
       "start": "09:00",
       "end_estimate": "17:15",
-      "total_km": 3.8,
-      "stop_count": 7,
+      "total_km": 1.9,
+      "stop_count": 6,
       "stops": [
         {
           "name": "Port de Bonifacio",
@@ -122,24 +122,6 @@
             "hu": "Csend a szakadéknál.",
             "ro": "Liniște pe faleză.",
             "en": "Quiet by the cliffs."
-          }
-        },
-        {
-          "name": "Port de Bonifacio",
-          "coords": [
-            9.165,
-            41.391
-          ],
-          "category": "parks/promenades/beaches",
-          "arrive_at": "16:45",
-          "stay_min": 30,
-          "hop_from_prev_min": 10,
-          "hop_from_prev_km": 1.9,
-          "tip_5lang": {
-            "de": "Souvenirs kaufen.",
-            "hu": "Vegyél ajándékot.",
-            "ro": "Cumpără suveniruri.",
-            "en": "Buy local souvenirs."
           }
         }
       ],
@@ -645,7 +627,7 @@
       "start": "09:00",
       "end_estimate": "16:45",
       "total_km": 12.5,
-      "stop_count": 6,
+      "stop_count": 5,
       "stops": [
         {
           "name": "Port de Bonifacio",
@@ -735,24 +717,6 @@
             "hu": "Csendes pihenő.",
             "ro": "Pauză de liniște.",
             "en": "Quiet break."
-          }
-        },
-        {
-          "name": "Port de Bonifacio",
-          "coords": [
-            9.165,
-            41.391
-          ],
-          "category": "parks/promenades/beaches",
-          "arrive_at": "16:45",
-          "stay_min": 30,
-          "hop_from_prev_min": 10,
-          "hop_from_prev_km": 1.5,
-          "tip_5lang": {
-            "de": "Rad abgeben.",
-            "hu": "Bringa leadása.",
-            "ro": "Predarea bicicletei.",
-            "en": "Return your bike."
           }
         }
       ],
@@ -1231,7 +1195,7 @@
       "start": "09:00",
       "end_estimate": "17:30",
       "total_km": 15.5,
-      "stop_count": 6,
+      "stop_count": 5,
       "stops": [
         {
           "name": "Port de Bonifacio",
@@ -1321,24 +1285,6 @@
             "hu": "Ikonikus lépcsősor.",
             "ro": "Scara iconică.",
             "en": "Iconic descent."
-          }
-        },
-        {
-          "name": "Port de Bonifacio",
-          "coords": [
-            9.165,
-            41.391
-          ],
-          "category": "parks/promenades/beaches",
-          "arrive_at": "16:30",
-          "stay_min": 60,
-          "hop_from_prev_min": 30,
-          "hop_from_prev_km": 1.2,
-          "tip_5lang": {
-            "de": "Abendessen am Kai.",
-            "hu": "Vacsora a parton.",
-            "ro": "Cină pe chei.",
-            "en": "Dinner at the quay."
           }
         }
       ],
@@ -1816,8 +1762,8 @@
       "speed_kmh": 15,
       "start": "09:00",
       "end_estimate": "16:30",
-      "total_km": 5.2,
-      "stop_count": 5,
+      "total_km": 3.0,
+      "stop_count": 4,
       "stops": [
         {
           "name": "Port de Bonifacio",
@@ -1889,24 +1835,6 @@
             "hu": "Séta a végén.",
             "ro": "Plimbare la final.",
             "en": "Walk at the end."
-          }
-        },
-        {
-          "name": "Port de Bonifacio",
-          "coords": [
-            9.165,
-            41.391
-          ],
-          "category": "parks/promenades/beaches",
-          "arrive_at": "14:00",
-          "stay_min": 120,
-          "hop_from_prev_min": 25,
-          "hop_from_prev_km": 2.2,
-          "tip_5lang": {
-            "de": "Freizeit am Hafen.",
-            "hu": "Szabadidő a kikötőben.",
-            "ro": "Timp liber în port.",
-            "en": "Free time at the port."
           }
         }
       ],

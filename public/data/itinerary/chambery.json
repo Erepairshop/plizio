@@ -24,8 +24,8 @@
             "en": "Elephants Fountain"
           },
           "coords": [
-            45.5663,
-            5.9221
+            5.9221,
+            45.5663
           ],
           "category": "square",
           "arrive_at": "09:10",
@@ -47,8 +47,8 @@
             "en": "Saint-François-de-Sales Cathedral"
           },
           "coords": [
-            45.5655,
-            5.9215
+            5.9215,
+            45.5655
           ],
           "category": "cathedral",
           "arrive_at": "09:50",
@@ -70,8 +70,8 @@
             "en": "Museum of Fine Arts"
           },
           "coords": [
-            45.5668,
-            5.923
+            5.923,
+            45.5668
           ],
           "category": "museum",
           "arrive_at": "11:15",
@@ -93,8 +93,8 @@
             "en": "Place Saint-Léger"
           },
           "coords": [
-            45.566,
-            5.92
+            5.92,
+            45.566
           ],
           "category": "gastro",
           "arrive_at": "13:05",
@@ -116,8 +116,8 @@
             "en": "Castle of the Dukes of Savoy"
           },
           "coords": [
-            45.5645,
-            5.9185
+            5.9185,
+            45.5645
           ],
           "category": "historical",
           "arrive_at": "14:40",
@@ -139,8 +139,8 @@
             "en": "Rue de Boigne"
           },
           "coords": [
-            45.5661,
-            5.921
+            5.921,
+            45.5661
           ],
           "category": "shopping",
           "arrive_at": "16:10",
@@ -162,8 +162,8 @@
             "en": "Parc du Clos Savoiroux"
           },
           "coords": [
-            45.568,
-            5.924
+            5.924,
+            45.568
           ],
           "category": "sunset",
           "arrive_at": "17:10",
@@ -917,8 +917,8 @@
             "en": "Avenue Verte Nord"
           },
           "coords": [
-            45.58,
-            5.91
+            5.91,
+            45.58
           ],
           "category": "park",
           "arrive_at": "09:20",
@@ -940,8 +940,8 @@
             "en": "Lac du Bourget - Le Bourget-du-Lac"
           },
           "coords": [
-            45.648,
-            5.865
+            5.865,
+            45.648
           ],
           "category": "beach",
           "arrive_at": "10:30",
@@ -963,8 +963,8 @@
             "en": "Thomas II Castle Ruins"
           },
           "coords": [
-            45.645,
-            5.86
+            5.86,
+            45.645
           ],
           "category": "historical",
           "arrive_at": "13:10",
@@ -986,8 +986,8 @@
             "en": "Port des Miradelles"
           },
           "coords": [
-            45.655,
-            5.875
+            5.875,
+            45.655
           ],
           "category": "gastro",
           "arrive_at": "14:10",
@@ -1009,8 +1009,8 @@
             "en": "Parc de Buisson-Rond"
           },
           "coords": [
-            45.562,
-            5.94
+            5.94,
+            45.562
           ],
           "category": "park",
           "arrive_at": "16:20",
@@ -1032,8 +1032,8 @@
             "en": "Les Charmettes"
           },
           "coords": [
-            45.553,
-            5.93
+            5.93,
+            45.553
           ],
           "category": "sunset",
           "arrive_at": "17:35",
@@ -1640,7 +1640,7 @@
       "speed_kmh": 25,
       "start": "09:00",
       "end_estimate": "18:00",
-      "total_km": 55.0,
+      "total_km": 100.5,
       "stop_count": 5,
       "stops": [
         {
@@ -1651,8 +1651,8 @@
             "en": "Belvédère de la Chambotte"
           },
           "coords": [
-            45.776,
-            5.856
+            5.856,
+            45.776
           ],
           "category": "sunset",
           "arrive_at": "09:40",
@@ -1674,8 +1674,8 @@
             "en": "Hautecombe Abbey"
           },
           "coords": [
-            45.834,
-            5.833
+            5.833,
+            45.834
           ],
           "category": "religious",
           "arrive_at": "11:10",
@@ -1697,8 +1697,8 @@
             "en": "Chanaz - The Little Venice of Savoy"
           },
           "coords": [
-            45.811,
-            5.789
+            5.789,
+            45.811
           ],
           "category": "gastro",
           "arrive_at": "13:00",
@@ -1720,8 +1720,8 @@
             "en": "Mont Granier - Bauges Massif"
           },
           "coords": [
-            45.465,
-            5.915
+            5.915,
+            45.465
           ],
           "category": "park",
           "arrive_at": "15:40",
@@ -1743,8 +1743,8 @@
             "en": "Chambéry Center"
           },
           "coords": [
-            45.5662,
-            5.9203
+            5.9203,
+            45.5662
           ],
           "category": "historical",
           "arrive_at": "17:15",
@@ -2362,8 +2362,8 @@
             "en": "Elephants Fountain"
           },
           "coords": [
-            45.5663,
-            5.9221
+            5.9221,
+            45.5663
           ],
           "category": "square",
           "arrive_at": "09:10",
@@ -2385,8 +2385,8 @@
             "en": "Les Charmettes (Bus B)"
           },
           "coords": [
-            45.553,
-            5.93
+            5.93,
+            45.553
           ],
           "category": "historical",
           "arrive_at": "10:05",
@@ -2408,8 +2408,8 @@
             "en": "Place Saint-Léger"
           },
           "coords": [
-            45.566,
-            5.92
+            5.92,
+            45.566
           ],
           "category": "gastro",
           "arrive_at": "11:45",
@@ -2431,8 +2431,8 @@
             "en": "Savoyard Museum"
           },
           "coords": [
-            45.565,
-            5.918
+            5.918,
+            45.565
           ],
           "category": "museum",
           "arrive_at": "13:25",
@@ -2454,8 +2454,8 @@
             "en": "Parc de Buisson-Rond"
           },
           "coords": [
-            45.562,
-            5.94
+            5.94,
+            45.562
           ],
           "category": "park",
           "arrive_at": "15:35",
@@ -2477,8 +2477,8 @@
             "en": "Rue de Boigne (center)"
           },
           "coords": [
-            45.5661,
-            5.921
+            5.921,
+            45.5661
           ],
           "category": "shopping",
           "arrive_at": "17:25",

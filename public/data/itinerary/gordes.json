@@ -13,7 +13,7 @@
       "speed_kmh": 3,
       "start": "09:00",
       "end_estimate": "15:10",
-      "total_km": 1.2,
+      "total_km": 1.4,
       "stop_count": 5,
       "stops": [
         {
@@ -634,7 +634,7 @@
       "start": "09:00",
       "end_estimate": "15:45",
       "total_km": 12.5,
-      "stop_count": 6,
+      "stop_count": 5,
       "stops": [
         {
           "name": "Point de vue de Gordes",
@@ -1253,8 +1253,8 @@
       "speed_kmh": 18,
       "start": "09:00",
       "end_estimate": "17:15",
-      "total_km": 18.0,
-      "stop_count": 7,
+      "total_km": 22.0,
+      "stop_count": 5,
       "stops": [
         {
           "name": "Point de vue de Gordes",
@@ -1873,7 +1873,7 @@
       "speed_kmh": 15,
       "start": "09:00",
       "end_estimate": "15:20",
-      "total_km": 5.5,
+      "total_km": 2.1,
       "stop_count": 5,
       "stops": [
         {
