@@ -550,6 +550,26 @@ footer a { color: rgba(255,255,255,0.7); }
 .plz-sight-name-link { color: inherit; text-decoration: none; border-bottom: 1px dotted rgba(34,211,238,0.4); }
 .plz-sight-name-link:hover { color: #4cc; border-bottom-color: rgba(34,211,238,0.8); }
 
+/* === F6: top reading-progress bar === */
+.plz-progress { position: fixed; top: 0; left: 0; right: 0; height: 2px; background: linear-gradient(90deg, #4cc6ff, #a78bfa); transform-origin: 0 50%; transform: scaleX(0); z-index: 100; pointer-events: none; transition: transform 0.05s linear; }
+
+/* === F4: bottom sticky FAB action bar (mobile-only) === */
+.plz-fab { display: none; }
+@media (max-width: 720px) {
+  .plz-fab {
+    position: fixed; bottom: 0; left: 0; right: 0; z-index: 50;
+    display: flex; gap: 0.5rem;
+    padding: 0.55rem 0.65rem calc(0.55rem + env(safe-area-inset-bottom));
+    background: rgba(2,8,20,0.88); backdrop-filter: blur(18px); -webkit-backdrop-filter: blur(18px);
+    border-top: 1px solid rgba(255,255,255,0.1);
+  }
+  .plz-fab-btn { flex: 1; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 0.18rem; padding: 0.5rem 0.4rem; background: transparent; border: 0; border-radius: 12px; color: rgba(255,255,255,0.78); font-size: 0.66rem; font-weight: 500; cursor: pointer; text-decoration: none; transition: all 0.15s; min-height: 52px; }
+  .plz-fab-btn:active { background: rgba(76,198,255,0.12); transform: scale(0.96); }
+  .plz-fab-btn.active { color: #4cc6ff; }
+  .plz-fab-btn.active svg { fill: #4cc6ff; }
+  /* Push body content above FAB to avoid overlap */
+  body { padding-bottom: 72px; }
+}
 /* === F3: glass-card wrapper + 2026 tipo === */
 main h1 { font-size: clamp(1.7rem, 5.5vw, 2.6rem); font-weight: 700; letter-spacing: -0.01em; line-height: 1.15; margin: 0.15rem 0 0.35rem; }
 main h2 { font-size: clamp(1.05rem, 3vw, 1.35rem); font-weight: 600; letter-spacing: -0.005em; }

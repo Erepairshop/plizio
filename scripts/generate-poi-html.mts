@@ -946,6 +946,27 @@ function renderTabNav(lang: Lang, opts: { hasItin: boolean; hasSights: boolean; 
 <script>(function(){var nav=document.getElementById('plz-tabnav');if(!nav)return;var tabs=nav.querySelectorAll('.plz-tab');var ids=Array.from(tabs).map(function(t){return t.getAttribute('href').slice(1);});function spy(){var y=window.scrollY+120;var active=ids[0];for(var i=0;i<ids.length;i++){var el=document.getElementById(ids[i]);if(el&&el.offsetTop<=y)active=ids[i];}tabs.forEach(function(t){t.classList.toggle('active',t.dataset.tab===active||t.getAttribute('href')==='#'+active);});}window.addEventListener('scroll',spy,{passive:true});spy();tabs.forEach(function(t){t.addEventListener('click',function(e){e.preventDefault();var id=t.getAttribute('href').slice(1);var el=document.getElementById(id);if(el){window.scrollTo({top:el.offsetTop-70,behavior:'smooth'});}});});})();</script>`;
 }
 
+// Bottom sticky FAB action bar (mobile-only)
+function renderMobileFab(poi: POI, lang: Lang, name: string): string {
+  if (!poi.coords) return "";
+  const gmaps = `https://www.google.com/maps/search/?api=1&query=${poi.coords[1]},${poi.coords[0]}`;
+  const L: Partial<Record<Lang, Record<string, string>>> = {
+    de: { nav: "Navigieren", save: "Merken", share: "Teilen", saved: "Gemerkt", copy: "Link kopiert" },
+    hu: { nav: "Navigál", save: "Ment", share: "Megoszt", saved: "Mentve", copy: "Link másolva" },
+    ro: { nav: "Navighează", save: "Salvează", share: "Distribuie", saved: "Salvat", copy: "Link copiat" },
+    en: { nav: "Navigate", save: "Save", share: "Share", saved: "Saved", copy: "Link copied" },
+    fr: { nav: "Naviguer", save: "Enregistrer", share: "Partager", saved: "Enregistré", copy: "Lien copié" },
+    tr: { nav: "Yönlendir", save: "Kaydet", share: "Paylaş", saved: "Kaydedildi", copy: "Bağlantı kopyalandı" },
+  };
+  const t = L[lang] || L.en!;
+  return `<aside class="plz-fab" role="toolbar" aria-label="${escapeHtml(name)} actions">
+  <a class="plz-fab-btn" href="${gmaps}" target="_blank" rel="noopener nofollow"><svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="3 11 22 2 13 21 11 13 3 11"/></svg><span>${escapeHtml(t.nav)}</span></a>
+  <button class="plz-fab-btn" type="button" id="plz-fab-save" data-pid="${escapeHtml(poi.id)}" data-saved-label="${escapeHtml(t.saved)}" data-save-label="${escapeHtml(t.save)}"><svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M19 21l-7-5-7 5V5a2 2 0 012-2h10a2 2 0 012 2z"/></svg><span>${escapeHtml(t.save)}</span></button>
+  <button class="plz-fab-btn" type="button" id="plz-fab-share" data-copy-label="${escapeHtml(t.copy)}"><svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/><line x1="8.6" y1="13.5" x2="15.4" y2="17.5"/><line x1="15.4" y1="6.5" x2="8.6" y2="10.5"/></svg><span>${escapeHtml(t.share)}</span></button>
+</aside>
+<script>(function(){var s=document.getElementById('plz-fab-save');var sh=document.getElementById('plz-fab-share');if(s){var pid=s.dataset.pid;var KEY='plz_saved';var arr=[];try{arr=JSON.parse(localStorage.getItem(KEY)||'[]');}catch(e){}function upd(){var on=arr.indexOf(pid)>=0;s.classList.toggle('active',on);s.querySelector('span').textContent=on?s.dataset.savedLabel:s.dataset.saveLabel;}upd();s.addEventListener('click',function(){var i=arr.indexOf(pid);if(i>=0)arr.splice(i,1);else arr.push(pid);try{localStorage.setItem(KEY,JSON.stringify(arr));}catch(e){}upd();});}if(sh){sh.addEventListener('click',function(){var d={title:document.title,url:location.href};if(navigator.share){navigator.share(d).catch(function(){});}else if(navigator.clipboard){navigator.clipboard.writeText(location.href).then(function(){var l=sh.querySelector('span');var old=l.textContent;l.textContent=sh.dataset.copyLabel;setTimeout(function(){l.textContent=old;},1800);});}});}})();</script>`;
+}
+
 function renderHtml(poi: POI, lang: Lang): string | null {
   if (!poi.parent) return null;
   const name = getLocalized(poi.name, lang) ?? poi.id;
@@ -1323,7 +1344,7 @@ ${hreflangLinks}
 <meta property="og:type" content="website"/>
 ${poi.image ? `<meta property="og:image" content="${SITE_URL}${escapeHtml(poi.image)}"/>` : ""}
 ${isAdSenseEligible(poi, lang) && !richness.isWeak ? ADSENSE_HEAD : ""}
-<link rel="stylesheet" href="/poi-static/poi.css?v=20260526c"/>
+<link rel="stylesheet" href="/poi-static/poi.css?v=20260526d"/>
 ${structuredData(poi, lang, url, metaDesc, countryId, countrySlugFor(lang, countryId).replace(/-/g, " "), faqItems, [
   { name: I("home", lang), url: `/${lang}/` },
   { name: countrySlugFor(lang, countryId).replace(/-/g, " "), url: buildCountryPath(lang, countryId) },
@@ -1332,6 +1353,8 @@ ${structuredData(poi, lang, url, metaDesc, countryId, countrySlugFor(lang, count
 ])}
 </head>
 <body>
+<div class="plz-progress" id="plz-progress" aria-hidden="true"></div>
+<script>(function(){var b=document.getElementById('plz-progress');if(!b)return;function u(){var s=document.documentElement;var p=s.scrollTop/(s.scrollHeight-s.clientHeight)||0;b.style.transform='scaleX('+Math.min(1,Math.max(0,p))+')';}window.addEventListener('scroll',u,{passive:true});u();})();</script>
 <header class="plz-header">
   <div class="plz-header-inner">
     <a href="/${lang}/" class="plz-logo">Plizio</a>
@@ -1374,6 +1397,7 @@ ${structuredData(poi, lang, url, metaDesc, countryId, countrySlugFor(lang, count
     ${osmLink}
   </section>
   ${relatedItems}
+  ${renderMobileFab(poi, lang, name)}
 </main>
 <div id="plz-lightbox" class="plz-lightbox" role="dialog" aria-modal="true" aria-hidden="true"><button type="button" class="plz-lightbox-close" aria-label="Close">×</button><img alt="" /></div>
 <style>
@@ -1624,7 +1648,7 @@ ${hreflangLinks}
 <meta property="og:url" content="${sightUrl}"/>
 <meta property="og:type" content="article"/>
 ${isAdSenseEligible(host, lang) ? ADSENSE_HEAD : ""}
-<link rel="stylesheet" href="/poi-static/poi.css?v=20260526c"/>
+<link rel="stylesheet" href="/poi-static/poi.css?v=20260526d"/>
 <style>
 .plz-sp-back{display:inline-flex;align-items:center;gap:.4rem;color:#4cc;text-decoration:none;font-size:.85rem;margin-bottom:.5rem}
 .plz-sp-back:hover{color:#7df}
@@ -1648,6 +1672,8 @@ ${isAdSenseEligible(host, lang) ? ADSENSE_HEAD : ""}
 </style>
 </head>
 <body>
+<div class="plz-progress" id="plz-progress" aria-hidden="true"></div>
+<script>(function(){var b=document.getElementById('plz-progress');if(!b)return;function u(){var s=document.documentElement;var p=s.scrollTop/(s.scrollHeight-s.clientHeight)||0;b.style.transform='scaleX('+Math.min(1,Math.max(0,p))+')';}window.addEventListener('scroll',u,{passive:true});u();})();</script>
 <header class="plz-header">
   <div class="plz-header-inner">
     <a href="/${lang}/" class="plz-logo">Plizio</a>
