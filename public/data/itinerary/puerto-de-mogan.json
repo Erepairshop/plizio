@@ -3,8 +3,8 @@
   "anchor": {
     "name": "Puerto de Mogán",
     "coords": [
-      27.8156,
-      -15.7625
+      -15.7625,
+      27.8156
     ]
   },
   "modes": {
@@ -13,7 +13,7 @@
       "speed_kmh": 3,
       "start": "09:00",
       "end_estimate": "17:30",
-      "total_km": 2.3,
+      "total_km": 1.728,
       "stop_count": 7,
       "stops": [
         {
@@ -54,7 +54,7 @@
           "arrive_at": "10:20",
           "stay_min": 60,
           "hop_from_prev_min": 10,
-          "hop_from_prev_km": 0.2,
+          "hop_from_prev_km": 0.148,
           "tip_4lang": {
             "de": "Findet jeden Freitag statt; kommen Sie früh.",
             "hu": "Minden pénteken tartják; érkezzen korán.",
@@ -77,7 +77,7 @@
           "arrive_at": "11:30",
           "stay_min": 80,
           "hop_from_prev_min": 10,
-          "hop_from_prev_km": 0.3,
+          "hop_from_prev_km": 0.148,
           "tip_4lang": {
             "de": "Erfahren Sie mehr über die Ureinwohner der Insel.",
             "hu": "Tudjon meg többet a sziget őslakosairól.",
@@ -100,7 +100,7 @@
           "arrive_at": "13:00",
           "stay_min": 40,
           "hop_from_prev_min": 10,
-          "hop_from_prev_km": 0.4,
+          "hop_from_prev_km": 0.3,
           "tip_4lang": {
             "de": "Der Aufstieg lohnt sich für den Postkartenblick.",
             "hu": "A lépcsőzés megéri a képeslapra illő kilátásért.",
@@ -123,7 +123,7 @@
           "arrive_at": "13:55",
           "stay_min": 120,
           "hop_from_prev_min": 15,
-          "hop_from_prev_km": 0.5,
+          "hop_from_prev_km": 0.297,
           "tip_4lang": {
             "de": "Das ruhige Wasser ist ideal zum Schnorcheln.",
             "hu": "A nyugodt víz ideális a sznorkelezéshez.",
@@ -146,7 +146,7 @@
           "arrive_at": "16:10",
           "stay_min": 60,
           "hop_from_prev_min": 15,
-          "hop_from_prev_km": 0.6,
+          "hop_from_prev_km": 0.339,
           "tip_4lang": {
             "de": "Buchen Sie im Voraus für eine garantierte Fahrt.",
             "hu": "Foglaljon előre a garantált induláshoz.",
@@ -169,7 +169,7 @@
           "arrive_at": "17:15",
           "stay_min": 15,
           "hop_from_prev_min": 5,
-          "hop_from_prev_km": 0.3,
+          "hop_from_prev_km": 0.495,
           "tip_4lang": {
             "de": "Perfekt für einen kurzen Abendspaziergang.",
             "hu": "Tökéletes egy rövid esti sétához.",
@@ -735,7 +735,7 @@
       "speed_kmh": 10,
       "start": "09:00",
       "end_estimate": "15:30",
-      "total_km": 6.5,
+      "total_km": 1.108,
       "stop_count": 5,
       "stops": [
         {
@@ -776,7 +776,7 @@
           "arrive_at": "10:10",
           "stay_min": 45,
           "hop_from_prev_min": 15,
-          "hop_from_prev_km": 1.5,
+          "hop_from_prev_km": 0.148,
           "tip_4lang": {
             "de": "Schieben Sie das Rad in den engen Fußgängerzonen.",
             "hu": "Tolja a kerékpárt a szűk sétálóutcákban.",
@@ -799,7 +799,7 @@
           "arrive_at": "11:15",
           "stay_min": 30,
           "hop_from_prev_min": 20,
-          "hop_from_prev_km": 2.5,
+          "hop_from_prev_km": 0.495,
           "tip_4lang": {
             "de": "Flache Strecke entlang der Küste.",
             "hu": "Lapos szakasz a tengerpart mentén.",
@@ -822,7 +822,7 @@
           "arrive_at": "12:00",
           "stay_min": 150,
           "hop_from_prev_min": 15,
-          "hop_from_prev_km": 1.5,
+          "hop_from_prev_km": 0.409,
           "tip_4lang": {
             "de": "Sicherer Abstellplatz für Räder in Strandnähe.",
             "hu": "Biztonságos kerékpártároló a strand közelében.",
@@ -845,7 +845,7 @@
           "arrive_at": "14:45",
           "stay_min": 30,
           "hop_from_prev_min": 15,
-          "hop_from_prev_km": 1.0,
+          "hop_from_prev_km": 0.056,
           "tip_4lang": {
             "de": "Ideal für ein schnelles Souvenir.",
             "hu": "Ideális egy gyors ajándéktárgy beszerzéséhez.",
@@ -1285,7 +1285,7 @@
       "speed_kmh": 18,
       "start": "09:00",
       "end_estimate": "15:15",
-      "total_km": 5.5,
+      "total_km": 1.448,
       "stop_count": 5,
       "stops": [
         {
@@ -1326,7 +1326,7 @@
           "arrive_at": "10:25",
           "stay_min": 80,
           "hop_from_prev_min": 15,
-          "hop_from_prev_km": 1.2,
+          "hop_from_prev_km": 0.297,
           "tip_4lang": {
             "de": "Gut erreichbar mit Parkmöglichkeiten in der Nähe.",
             "hu": "Könnyen elérhető, parkolási lehetőség a közelben.",
@@ -1349,7 +1349,7 @@
           "arrive_at": "12:00",
           "stay_min": 60,
           "hop_from_prev_min": 15,
-          "hop_from_prev_km": 1.5,
+          "hop_from_prev_km": 0.516,
           "tip_4lang": {
             "de": "Kostenloses Parken oft bei Tourbuchung inklusive.",
             "hu": "Ingyenes parkolás gyakran jár a foglaláshoz.",
@@ -1372,7 +1372,7 @@
           "arrive_at": "13:15",
           "stay_min": 90,
           "hop_from_prev_min": 15,
-          "hop_from_prev_km": 1.0,
+          "hop_from_prev_km": 0.339,
           "tip_4lang": {
             "de": "Kurze Wege vom Auto zum Sandstrand.",
             "hu": "Rövid séta az autótól a homokos partig.",
@@ -1395,7 +1395,7 @@
           "arrive_at": "15:00",
           "stay_min": 15,
           "hop_from_prev_min": 15,
-          "hop_from_prev_km": 1.8,
+          "hop_from_prev_km": 0.297,
           "tip_4lang": {
             "de": "Schneller Stopp für den Überblick.",
             "hu": "Gyors megálló az átfogó képért.",
@@ -1835,7 +1835,7 @@
       "speed_kmh": 15,
       "start": "09:00",
       "end_estimate": "15:30",
-      "total_km": 3.5,
+      "total_km": 0.859,
       "stop_count": 5,
       "stops": [
         {
@@ -1876,7 +1876,7 @@
           "arrive_at": "10:30",
           "stay_min": 60,
           "hop_from_prev_min": 15,
-          "hop_from_prev_km": 1.0,
+          "hop_from_prev_km": 0.148,
           "tip_4lang": {
             "de": "Am Markttag sind die Busse sehr voll.",
             "hu": "Piaci napokon a buszok nagyon zsúfoltak.",
@@ -1899,7 +1899,7 @@
           "arrive_at": "11:45",
           "stay_min": 120,
           "hop_from_prev_min": 15,
-          "hop_from_prev_km": 0.5,
+          "hop_from_prev_km": 0.056,
           "tip_4lang": {
             "de": "Der Bus 1 verbindet alle Küstenorte.",
             "hu": "Az 1-es busz összeköti a parti településeket.",
@@ -1922,7 +1922,7 @@
           "arrive_at": "14:00",
           "stay_min": 45,
           "hop_from_prev_min": 15,
-          "hop_from_prev_km": 1.2,
+          "hop_from_prev_km": 0.258,
           "tip_4lang": {
             "de": "Genießen Sie das bunte Treiben im Hafen.",
             "hu": "Élvezze a nyüzsgést a kikötőben.",
@@ -1945,7 +1945,7 @@
           "arrive_at": "15:00",
           "stay_min": 30,
           "hop_from_prev_min": 15,
-          "hop_from_prev_km": 0.8,
+          "hop_from_prev_km": 0.397,
           "tip_4lang": {
             "de": "Letzter Spaziergang vor der Abfahrt.",
             "hu": "Utolsó séta az indulás előtt.",
