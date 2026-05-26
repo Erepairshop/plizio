@@ -542,6 +542,24 @@ footer a { color: rgba(255,255,255,0.7); }
 .plz-sight-name-link { color: inherit; text-decoration: none; border-bottom: 1px dotted rgba(34,211,238,0.4); }
 .plz-sight-name-link:hover { color: #4cc; border-bottom-color: rgba(34,211,238,0.8); }
 
+/* === F1: sticky pill-tab nav + stats-chip row (mobile-first 2026) === */
+.plz-chips { display: flex; gap: 0.4rem; overflow-x: auto; padding: 0.4rem 0 0.55rem; margin: 0.35rem 0 0.5rem; scrollbar-width: none; -ms-overflow-style: none; }
+.plz-chips::-webkit-scrollbar { display: none; }
+.plz-chip { display: inline-flex; align-items: center; gap: 0.3rem; padding: 0.32rem 0.7rem; background: rgba(255,255,255,0.06); border: 1px solid rgba(255,255,255,0.12); border-radius: 999px; color: rgba(255,255,255,0.88); font-size: 0.78rem; font-weight: 500; text-decoration: none; white-space: nowrap; transition: background 0.15s, border-color 0.15s; flex-shrink: 0; }
+.plz-chip:hover { background: rgba(255,255,255,0.1); border-color: rgba(255,255,255,0.2); }
+.plz-chip svg { opacity: 0.75; flex-shrink: 0; }
+.plz-chip-go { background: linear-gradient(135deg, rgba(76,198,255,0.18), rgba(76,198,255,0.06)); border-color: rgba(76,198,255,0.45); color: #bfe8ff; }
+.plz-chip-go svg { opacity: 1; color: #4cc6ff; }
+.plz-chip-yh { background: rgba(251,191,36,0.1); border-color: rgba(251,191,36,0.3); color: #fde68a; }
+.plz-chip-yh svg { color: #fbbf24; opacity: 1; }
+
+.plz-tabnav { position: sticky; top: 0; z-index: 40; display: flex; gap: 0.4rem; overflow-x: auto; padding: 0.55rem 0.1rem; margin: 0 -0.5rem 0.9rem; background: rgba(2,8,20,0.85); backdrop-filter: blur(14px); -webkit-backdrop-filter: blur(14px); border-bottom: 1px solid rgba(255,255,255,0.08); scrollbar-width: none; -ms-overflow-style: none; }
+.plz-tabnav::-webkit-scrollbar { display: none; }
+.plz-tab { padding: 0.42rem 0.95rem; background: transparent; border: 1px solid rgba(255,255,255,0.1); border-radius: 999px; color: rgba(255,255,255,0.7); font-size: 0.84rem; font-weight: 500; text-decoration: none; white-space: nowrap; transition: all 0.18s; flex-shrink: 0; }
+.plz-tab:hover { background: rgba(255,255,255,0.06); color: rgba(255,255,255,0.95); }
+.plz-tab.active { background: rgba(76,198,255,0.16); border-color: rgba(76,198,255,0.5); color: #bfe8ff; font-weight: 600; }
+@media (min-width: 720px) { .plz-tabnav { margin: 0 0 1.1rem; padding: 0.6rem 0; } }
+
 /* Yearly highlights — compact, collapsed-by-default card list above news */
 .plz-yh { margin: 0.6rem 0; padding: 0; background: linear-gradient(135deg, rgba(251,191,36,0.05), rgba(251,191,36,0.015)); border: 1px solid rgba(251,191,36,0.2); border-radius: 0.55rem; overflow: hidden; }
 .plz-yh-summary-row { list-style: none; cursor: pointer; display: flex; align-items: center; gap: 0.5rem; padding: 0.45rem 0.7rem; user-select: none; }

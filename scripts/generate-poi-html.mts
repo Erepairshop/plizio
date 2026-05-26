@@ -909,6 +909,43 @@ r.querySelectorAll('.plz-itin-cards').forEach(function(tr){tr.addEventListener('
 })();</script>`;
 }
 
+// Stats-chip row: compact data summary under the title (mobile-first)
+function renderStatsChips(poi: POI, lang: Lang, richness: ReturnType<typeof pageRichness>, sightsCount: number, nearbyCount: number): string {
+  const yhCount = (YEARLY_HIGHLIGHTS[poi.id] || []).length;
+  const newsPath = path.resolve(process.cwd(), "public", "data", "poi-news", `${poi.id}.json`);
+  let newsCount = 0;
+  try { if (fs.existsSync(newsPath)) newsCount = (JSON.parse(fs.readFileSync(newsPath, "utf-8")) as unknown[]).length; } catch {}
+  const chips: string[] = [];
+  if (richness.hasPlizioGo) chips.push(`<a class="plz-chip plz-chip-go" href="#sec-itin"><svg viewBox="0 0 24 24" width="13" height="13" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2L4 7l8 5 8-5-8-5z"/><path d="M4 17l8 5 8-5M4 12l8 5 8-5"/></svg>PlizioGo</a>`);
+  if (poi.coords) chips.push(`<a class="plz-chip" href="#sec-overview"><svg viewBox="0 0 24 24" width="13" height="13" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2v4M2 12h4M22 12h-4M12 22v-4"/><circle cx="12" cy="12" r="4"/></svg><span data-temp>—°</span></a>`);
+  if (yhCount > 0) chips.push(`<a class="plz-chip plz-chip-yh" href="#sec-overview"><svg viewBox="0 0 24 24" width="13" height="13" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="18" rx="2"/><path d="M16 2v4M8 2v4M3 10h18"/></svg>${yhCount}</a>`);
+  if (sightsCount + nearbyCount > 0) chips.push(`<a class="plz-chip" href="#sec-sights"><svg viewBox="0 0 24 24" width="13" height="13" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 21h18M5 21V9l7-5 7 5v12M9 21V12h6v9"/></svg>${sightsCount + nearbyCount}</a>`);
+  if (newsCount > 0) chips.push(`<a class="plz-chip" href="#sec-overview"><svg viewBox="0 0 24 24" width="13" height="13" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="16" rx="2"/><path d="M7 8h10M7 12h10M7 16h6"/></svg>${newsCount}</a>`);
+  if (!chips.length) return "";
+  const TEMP_SCRIPT = poi.coords ? `<script>(function(){var n=document.querySelector('[data-temp]');if(!n)return;fetch('https://api.open-meteo.com/v1/forecast?latitude=${poi.coords[1]}&longitude=${poi.coords[0]}&current=temperature_2m').then(function(r){return r.json();}).then(function(j){if(j&&j.current){n.textContent=Math.round(j.current.temperature_2m)+'°';}}).catch(function(){});})();</script>` : "";
+  return `<div class="plz-chips">${chips.join("")}</div>${TEMP_SCRIPT}`;
+}
+
+// Sticky pill-tab nav: jumps to id'd sections with scrollspy
+function renderTabNav(lang: Lang, opts: { hasItin: boolean; hasSights: boolean; hasNews: boolean; hasInfo: boolean }): string {
+  const L: Partial<Record<Lang, Record<string, string>>> = {
+    de: { overview: "Überblick", itin: "Tagesplan", sights: "Sehenswertes", info: "Info" },
+    hu: { overview: "Áttekintés", itin: "Útiterv", sights: "Látnivalók", info: "Infó" },
+    ro: { overview: "Prezentare", itin: "Itinerar", sights: "Atracții", info: "Info" },
+    en: { overview: "Overview", itin: "Itinerary", sights: "Sights", info: "Info" },
+    fr: { overview: "Aperçu", itin: "Itinéraire", sights: "Sites", info: "Info" },
+    tr: { overview: "Genel", itin: "Plan", sights: "Yerler", info: "Bilgi" },
+  };
+  const t = L[lang] || L.en!;
+  const tabs: string[] = [`<a class="plz-tab" href="#sec-overview" data-tab="overview">${t.overview}</a>`];
+  if (opts.hasItin) tabs.push(`<a class="plz-tab" href="#sec-itin" data-tab="itin">${t.itin}</a>`);
+  if (opts.hasSights) tabs.push(`<a class="plz-tab" href="#sec-sights" data-tab="sights">${t.sights}</a>`);
+  if (opts.hasInfo) tabs.push(`<a class="plz-tab" href="#sec-info" data-tab="info">${t.info}</a>`);
+  if (tabs.length < 2) return "";
+  return `<nav class="plz-tabnav" id="plz-tabnav">${tabs.join("")}</nav>
+<script>(function(){var nav=document.getElementById('plz-tabnav');if(!nav)return;var tabs=nav.querySelectorAll('.plz-tab');var ids=Array.from(tabs).map(function(t){return t.getAttribute('href').slice(1);});function spy(){var y=window.scrollY+120;var active=ids[0];for(var i=0;i<ids.length;i++){var el=document.getElementById(ids[i]);if(el&&el.offsetTop<=y)active=ids[i];}tabs.forEach(function(t){t.classList.toggle('active',t.dataset.tab===active||t.getAttribute('href')==='#'+active);});}window.addEventListener('scroll',spy,{passive:true});spy();tabs.forEach(function(t){t.addEventListener('click',function(e){e.preventDefault();var id=t.getAttribute('href').slice(1);var el=document.getElementById(id);if(el){window.scrollTo({top:el.offsetTop-70,behavior:'smooth'});}});});})();</script>`;
+}
+
 function renderHtml(poi: POI, lang: Lang): string | null {
   if (!poi.parent) return null;
   const name = getLocalized(poi.name, lang) ?? poi.id;
@@ -1270,7 +1307,7 @@ ${hreflangLinks}
 <meta property="og:type" content="website"/>
 ${poi.image ? `<meta property="og:image" content="${SITE_URL}${escapeHtml(poi.image)}"/>` : ""}
 ${isAdSenseEligible(poi, lang) && !richness.isWeak ? ADSENSE_HEAD : ""}
-<link rel="stylesheet" href="/poi-static/poi.css?v=20260526a"/>
+<link rel="stylesheet" href="/poi-static/poi.css?v=20260526b"/>
 ${structuredData(poi, lang, url, metaDesc, countryId, countrySlugFor(lang, countryId).replace(/-/g, " "), faqItems, [
   { name: I("home", lang), url: `/${lang}/` },
   { name: countrySlugFor(lang, countryId).replace(/-/g, " "), url: buildCountryPath(lang, countryId) },
@@ -1296,20 +1333,26 @@ ${structuredData(poi, lang, url, metaDesc, countryId, countrySlugFor(lang, count
   <div class="plz-title-row">${coaHtml}<div>${richness.hasPlizioGo ? `<p class="plz-eyebrow">PlizioGo</p>` : (!richness.isWeak ? `<p class="plz-eyebrow">Plizio Visual Lab</p>` : "")}<h1>${escapeHtml(name)}</h1></div></div>
   <span class="plz-type-tag">${escapeHtml(typeLabel)}</span>
   ${audioHtml}
-  <div class="plz-hero-grid">
+  ${renderStatsChips(poi, lang, richness, sightsArr.length, nearbyArr.length)}
+  ${renderTabNav(lang, { hasItin: true, hasSights: sightsArr.length > 0 || nearbyArr.length > 0, hasNews: !!newsHtml, hasInfo: factsArr.length > 0 || geoItems.length > 0 || historyHtml })}
+  <div class="plz-hero-grid" id="sec-overview">
     <div class="plz-hero-grid-main">${heroHtml}</div>
     <div class="plz-hero-grid-side">${weatherHtml}${marineHtml}${officialLinksHtml}${yearlyHtml}${newsHtml}</div>
   </div>
-  ${renderCityItinerary(poi, lang)}
   ${descText ? `<section><p class="poi-lead-paragraph">${escapeHtml(descText)}</p></section>` : ""}
+  <div id="sec-itin">${renderCityItinerary(poi, lang)}</div>
+  <div id="sec-info">
   ${renderPracticalInfo(poi, lang)}
   ${geoItems.length > 0 || historyHtml ? `<section class="plz-geo-history">${historyHtml}${geoItems.length > 0 ? `<div class="plz-geo-box"><h3>${I("geography", lang)}</h3><div class="plz-meta">${geoItems.join("")}</div></div>` : ""}</section>` : ""}
   ${factsArr.length > 0 ? `<section><h2>${I("facts", lang)}</h2><ul class="plz-facts">${factsArr.map((f) => `<li>${escapeHtml(f)}</li>`).join("")}</ul></section>` : ""}
   ${didYouKnowHtml}
+  </div>
   ${richness.isWeak ? "" : gameCtaHtml}
   ${faqHtml}
+  <div id="sec-sights">
   ${sightsHtml}
   ${nearbyHtml}
+  </div>
   <section>
     <a class="plz-cta" href="${countryMapUrl(countryId) ?? (poi.parent === countryId ? buildCountryPath(lang, countryId) : buildStatePath(lang, poi.parent))}">${I("viewMap", lang)} →</a>
     ${osmLink}
@@ -1565,7 +1608,7 @@ ${hreflangLinks}
 <meta property="og:url" content="${sightUrl}"/>
 <meta property="og:type" content="article"/>
 ${isAdSenseEligible(host, lang) ? ADSENSE_HEAD : ""}
-<link rel="stylesheet" href="/poi-static/poi.css?v=20260526a"/>
+<link rel="stylesheet" href="/poi-static/poi.css?v=20260526b"/>
 <style>
 .plz-sp-back{display:inline-flex;align-items:center;gap:.4rem;color:#4cc;text-decoration:none;font-size:.85rem;margin-bottom:.5rem}
 .plz-sp-back:hover{color:#7df}
