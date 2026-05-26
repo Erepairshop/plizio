@@ -1250,10 +1250,26 @@ function renderHtml(poi: POI, lang: Lang): string | null {
     }
   } catch {}
 
-  // Hero image
-  const heroHtml = poi.image
-    ? `<div class="plz-hero"><img src="${escapeHtml(poi.image)}" alt="${escapeHtml(name)}" loading="lazy"/></div>`
-    : `<div class="plz-hero"><div class="plz-hero-placeholder">🗺️</div></div>`;
+  // Hero swiper — primary image + up to 4 sight images, swipeable with snap + dots
+  const heroImages: { src: string; alt: string }[] = [];
+  if (poi.image) heroImages.push({ src: poi.image, alt: name });
+  for (const s of sightsArr.slice(0, 6)) {
+    const sImg = (s as { image?: string }).image;
+    if (sImg && heroImages.length < 5 && !heroImages.some(h => h.src === sImg)) {
+      heroImages.push({ src: sImg, alt: ((s as { name?: string }).name) || name });
+    }
+  }
+  let heroHtml: string;
+  if (heroImages.length === 0) {
+    heroHtml = `<div class="plz-hero"><div class="plz-hero-placeholder"><svg viewBox="0 0 24 24" width="48" height="48" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0118 0z"/><circle cx="12" cy="10" r="3"/></svg></div></div>`;
+  } else if (heroImages.length === 1) {
+    heroHtml = `<div class="plz-hero"><img src="${escapeHtml(heroImages[0].src)}" alt="${escapeHtml(heroImages[0].alt)}" loading="lazy"/></div>`;
+  } else {
+    const slides = heroImages.map((h, i) => `<div class="plz-hero-slide" data-slide="${i}"><img src="${escapeHtml(h.src)}" alt="${escapeHtml(h.alt)}" loading="${i === 0 ? "eager" : "lazy"}"/></div>`).join("");
+    const dots = heroImages.map((_, i) => `<span class="plz-hero-dot${i === 0 ? " active" : ""}" data-dot="${i}"></span>`).join("");
+    heroHtml = `<div class="plz-hero plz-hero-swiper"><div class="plz-hero-track" id="plz-hero-track">${slides}</div><div class="plz-hero-dots">${dots}</div></div>
+<script>(function(){var tr=document.getElementById('plz-hero-track');if(!tr)return;var dots=tr.parentElement.querySelectorAll('.plz-hero-dot');function sync(){var w=tr.clientWidth;var i=Math.round(tr.scrollLeft/w);dots.forEach(function(d,j){d.classList.toggle('active',i===j);});}tr.addEventListener('scroll',function(){sync();},{passive:true});dots.forEach(function(d,i){d.addEventListener('click',function(){tr.scrollTo({left:i*tr.clientWidth,behavior:'smooth'});});});})();</script>`;
+  }
 
   // Coat of arms (city/region badge)
   const coa = (poi as { coa?: string }).coa;
@@ -1307,7 +1323,7 @@ ${hreflangLinks}
 <meta property="og:type" content="website"/>
 ${poi.image ? `<meta property="og:image" content="${SITE_URL}${escapeHtml(poi.image)}"/>` : ""}
 ${isAdSenseEligible(poi, lang) && !richness.isWeak ? ADSENSE_HEAD : ""}
-<link rel="stylesheet" href="/poi-static/poi.css?v=20260526b"/>
+<link rel="stylesheet" href="/poi-static/poi.css?v=20260526c"/>
 ${structuredData(poi, lang, url, metaDesc, countryId, countrySlugFor(lang, countryId).replace(/-/g, " "), faqItems, [
   { name: I("home", lang), url: `/${lang}/` },
   { name: countrySlugFor(lang, countryId).replace(/-/g, " "), url: buildCountryPath(lang, countryId) },
@@ -1608,7 +1624,7 @@ ${hreflangLinks}
 <meta property="og:url" content="${sightUrl}"/>
 <meta property="og:type" content="article"/>
 ${isAdSenseEligible(host, lang) ? ADSENSE_HEAD : ""}
-<link rel="stylesheet" href="/poi-static/poi.css?v=20260526b"/>
+<link rel="stylesheet" href="/poi-static/poi.css?v=20260526c"/>
 <style>
 .plz-sp-back{display:inline-flex;align-items:center;gap:.4rem;color:#4cc;text-decoration:none;font-size:.85rem;margin-bottom:.5rem}
 .plz-sp-back:hover{color:#7df}

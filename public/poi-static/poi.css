@@ -103,8 +103,16 @@ h1 {
   align-items: center;
   justify-content: center;
   color: rgba(255,255,255,0.3);
-  font-size: 3rem;
 }
+/* === F2: Hero swiper — multi-image carousel with snap + dots === */
+.plz-hero-swiper { position: relative; padding: 0; }
+.plz-hero-track { display: flex; overflow-x: auto; scroll-snap-type: x mandatory; -webkit-overflow-scrolling: touch; scrollbar-width: none; -ms-overflow-style: none; width: 100%; height: 100%; }
+.plz-hero-track::-webkit-scrollbar { display: none; }
+.plz-hero-slide { flex: 0 0 100%; scroll-snap-align: start; height: 100%; }
+.plz-hero-slide img { width: 100%; height: 100%; object-fit: cover; }
+.plz-hero-dots { position: absolute; bottom: 0.55rem; left: 0; right: 0; display: flex; justify-content: center; gap: 0.35rem; pointer-events: none; }
+.plz-hero-dot { width: 6px; height: 6px; border-radius: 50%; background: rgba(255,255,255,0.45); transition: all 0.2s; pointer-events: auto; cursor: pointer; }
+.plz-hero-dot.active { background: #fff; width: 18px; border-radius: 3px; }
 
 section { margin: 2rem 0; }
 section h2 {
@@ -542,6 +550,28 @@ footer a { color: rgba(255,255,255,0.7); }
 .plz-sight-name-link { color: inherit; text-decoration: none; border-bottom: 1px dotted rgba(34,211,238,0.4); }
 .plz-sight-name-link:hover { color: #4cc; border-bottom-color: rgba(34,211,238,0.8); }
 
+/* === F3: glass-card wrapper + 2026 tipo === */
+main h1 { font-size: clamp(1.7rem, 5.5vw, 2.6rem); font-weight: 700; letter-spacing: -0.01em; line-height: 1.15; margin: 0.15rem 0 0.35rem; }
+main h2 { font-size: clamp(1.05rem, 3vw, 1.35rem); font-weight: 600; letter-spacing: -0.005em; }
+main h3 { font-size: clamp(0.92rem, 2.5vw, 1.05rem); font-weight: 600; }
+main p, main li { line-height: 1.55; }
+.poi-lead-paragraph { font-size: clamp(0.95rem, 2.4vw, 1.05rem); color: rgba(255,255,255,0.82); }
+/* Glass wrap for plain sections (skips the ones that style themselves) */
+main > section:not(.plz-itin):not(.plz-news):not(.plz-sights):not(.plz-pract):not(.plz-geo-history):not(.plz-game-cta):not(.plz-weather):not(.plz-marine) {
+  background: rgba(255,255,255,0.035);
+  border: 1px solid rgba(255,255,255,0.08);
+  border-radius: 14px;
+  padding: 0.95rem 1.05rem;
+  margin: 1.1rem 0;
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+}
+/* Tighter mobile-only margins between major blocks */
+@media (max-width: 720px) {
+  section { margin: 1.1rem 0; }
+  main > section { padding: 0.85rem 0.95rem !important; }
+  main h2 { margin-bottom: 0.55rem; }
+}
 /* === F1: sticky pill-tab nav + stats-chip row (mobile-first 2026) === */
 .plz-chips { display: flex; gap: 0.4rem; overflow-x: auto; padding: 0.4rem 0 0.55rem; margin: 0.35rem 0 0.5rem; scrollbar-width: none; -ms-overflow-style: none; }
 .plz-chips::-webkit-scrollbar { display: none; }
